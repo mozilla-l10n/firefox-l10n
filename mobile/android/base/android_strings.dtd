@@ -10,12 +10,16 @@
 <!ENTITY firstrun_privacy_subtext "Duyệt web riêng tư với trình chống theo dõi sẽ ngăn chặn các trình theo dõi trong khi bạn duyệt web và sẽ không ghi nhớ lược sử duyệt web của bạn.">
 <!ENTITY firstrun_panel_title_customize "Tùy chỉnh">
 <!ENTITY firstrun_customize_message "Tạo ra &brandShortName; theo cách của riêng bạn.">
+<!ENTITY firstrun_customize_subtext "Tùy chỉnh &brandShortName; với các tiện ích. Chặn quảng cáo, thêm các tính năng, hoặc chọn một diện mạo mới để phản ánh cá tính của bạn.">
 <!ENTITY firstrun_bookmarks_title "Lược sử">
+<!ENTITY firstrun_bookmarks_message "Những gì bạn yêu thích ngay trước mặt bạn">
 <!ENTITY firstrun_bookmarks_subtext "Lấy kết quả từ trang đánh dấu và lược sử của bạn khi bạn tìm kiếm.">
 <!ENTITY firstrun_data_title "Dữ liệu">
 <!ENTITY firstrun_data_message "Dữ liệu ít hơn, tiết kiệm nhiều hơn">
 <!ENTITY firstrun_data_subtext2 "Tắt ảnh để giảm dữ liệu mà bạn cần tải cho mỗi trang">
 <!ENTITY firstrun_sync_title "Đồng bộ">
+<!ENTITY firstrun_sync_message2 "Tiếp tục trang mà bạn vừa rời khỏi.">
+<!ENTITY firstrun_sync_subtext2 "Sử dụng đồng bộ hóa để tìm trang đánh dấu, mật khẩu và những thứ bạn lưu vào &brandShortName; trên tất cả các thiết bị của bạn.">
 <!ENTITY firstrun_signin_message "Thiết lập kết nối và bắt đầu">
 <!ENTITY firstrun_signin_button "Đăng nhập để đồng bộ">
 <!ENTITY  onboard_start_button_browser "Bắt đầu duyệt web">
@@ -25,11 +29,14 @@
 <!ENTITY firstrun_tabqueue_title "Liên kết">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Bật hàng đợi thẻ">
+<!ENTITY firstrun_tabqueue_subtext_off "Lưu liên kết trong &brandShortName; để xem sau khi bạn truy cập chúng trong các ứng dụng khác.">
 
 <!ENTITY firstrun_tabqueue_message_on "Thành công!">
+<!ENTITY firstrun_tabqueue_subtext_on "Bạn có thể tắt hoàn toàn trong &settings; dưới &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Bài viết">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Giảm sự lộn xộn">
 <!ENTITY firstrun_readerview_subtext "Dùng Chế độ đọc để giúp bài viết đẹp hơn để đọc \u2014 kể cả khi ngoại tuyến.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
@@ -261,6 +268,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Bị chặn">
 
 <!ENTITY pref_show_web_fonts "Hiển thị phông của web">
+<!ENTITY pref_show_web_fonts_summary2 "Tải xuống phông chữ từ xa khi đang tải một trang">
 
 <!ENTITY pref_tracking_protection_title2 "Chống theo dõi">
 <!ENTITY pref_donottrack_title "Không theo dõi">
@@ -286,15 +294,18 @@
 
 <!ENTITY pref_pwa_summary "Cho phép ứng dụng web có thể được thêm vào màn hình chính">
 
+<!ENTITY tracking_protection_prompt_title "Bây giờ với trình chống theo dõi">
 <!ENTITY tracking_protection_prompt_tip_text "Đi đến cài đặt Riêng tư để tìm hiểu thêm">
 <!ENTITY tracking_protection_prompt_action_button "Hiểu rồi!">
 
 <!ENTITY tab_queue_toast_message3 "Tab được lưu trong &brandShortName;">
 <!ENTITY tab_queue_toast_action "Mở ngay">
 <!ENTITY tab_queue_prompt_title "Mở nhiều liên kết cùng lúc?">
+<!ENTITY tab_queue_prompt_text4 "Lưu chúng đến lần tiếp theo bạn mở &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Bạn có thể thay đổi nó sau trong mục cấu hình">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Bật thiết lập cho phép vẽ trên các ứng dụng khác">
 <!ENTITY tab_queue_prompt_positive_action_button "Bật">
 <!ENTITY tab_queue_prompt_negative_action_button "Không phải bây giờ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -312,6 +323,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Để \&quot;Mở nhiều liên kết\&quot;, vui lòng bật tính năng \&apos;Vẽ trên các ứng dụng khác\&apos; cho &brandShortName;">
 
 <!ENTITY pref_char_encoding "Mã ký tự">
 <!ENTITY pref_char_encoding_on "Hiển thị trình đơn">
@@ -333,9 +345,11 @@
 <!ENTITY pref_use_system_font_size_summary "Co dãn nội dung trang web dựa vào kích thước phông chữ hệ thống">
 
 <!ENTITY pref_media_autoplay_enabled "Cho phép tự động phát">
+<!ENTITY pref_media_autoplay_enabled_summary "Kiểm soát nếu trang web có thể tự động phát video và nội dung đa phương tiện khác">
 <!ENTITY pref_zoom_force_enabled "Luôn cho phép phóng to">
 <!ENTITY pref_zoom_force_enabled_summary "Buộc ghi đè để bạn có thể thu phóng ở bất kì trang nào">
 <!ENTITY pref_voice_input "Nhập liệu giọng nói">
+<!ENTITY pref_voice_input_summary2 "Cho phép ghi âm giọng nói trong thanh URL">
 <!ENTITY pref_qrcode_enabled "Bộ đọc mã QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Cho phép máy quét QR trong thanh URL">
 
@@ -369,6 +383,9 @@
 <!ENTITY pref_dialog_set_default "Đặt làm mặc định">
 <!ENTITY pref_dialog_default "Mặc định">
 <!ENTITY pref_dialog_remove "Loại bỏ">
+<!ENTITY pref_dialog_activitystream_header_content "Nội dung bổ sung">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Trang đánh dấu gần đây">
+<!ENTITY pref_dialog_activitystream_visited "Đã truy cập">
 
 <!ENTITY pref_search_last_toast "Bạn không thể xóa hoặc hoặc vô hiệu hóa công cụ tìm kiếm cuối cùng.">
 
@@ -397,6 +414,8 @@
 <!ENTITY datareporting_fhr_summary2 "Chia sẻ dữ liệu với &vendorShortName; về tình trạng của trình duyệt và giúp bạn hiểu về hiệu suất của phần mềm">
 <!ENTITY datareporting_abouthr_title "Xem báo cáo tình trạng của tôi">
 <!ENTITY datareporting_telemetry_title "Hệ thống từ xa">
+<!ENTITY datareporting_telemetry_summary "Chia sẻ hiệu năng, cách sử dụng, phần cứng và dữ liệu tùy biến liên quan đến trình duyệt của bạn với &vendorShortName; để giúp chúng tôi tạo ra &brandShortName; tốt hơn">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; nộp báo cáo sự cố để giúp &vendorShortName; làm cho trình duyệt của bạn ổn định và an toàn hơn">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Báo cáo hỏng hóc">
@@ -471,6 +490,8 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Ghim các trang web hàng đầu">
+<!ENTITY contextmenu_unpin_from_top_sites "Bỏ ghim các trang web hàng đầu">
 <!ENTITY contextmenu_add_search_engine "Thêm công cụ tìm kiếm">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
@@ -495,9 +516,12 @@
 <!ENTITY pref_scroll_title_bar_summary2 "Ẩn thanh công cụ của &brandShortName; khi kéo trang xuống dưới">
 
 <!ENTITY pref_tab_queue_title3 "Hàng đợi thẻ">
+<!ENTITY pref_tab_queue_summary4 "Lưu liên kết cho lần mở &brandShortName; tiếp theo">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Thu gọn thẻ">
+<!ENTITY pref_compact_tabs_summary2 "Sắp xếp các thẻ thành hai cột ở chế độ màn hình dọc">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -586,8 +610,11 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 <!ENTITY home_pinned_site "Đã ghim web">
+<!ENTITY home_unpinned_site "Trang đã bỏ ghim">
 
 <!ENTITY remote_tabs_panel_moved_title "Các thẻ của tôi đã đi đâu?">
+<!ENTITY remote_tabs_panel_moved_desc "Chúng tôi đã di chuyển các thẻ của bạn từ các thiết bị khác vào bảng điều khiển trên trang chủ giúp bạn có thể dễ dàng truy cập mỗi khi mở một thẻ mới.">
+<!ENTITY remote_tabs_panel_moved_link "Đưa tôi đến bảng điều khiển mới của tôi.">
 
 <!ENTITY pin_site_dialog_hint "Nhập từ khóa tìm kiếm">
 
@@ -681,6 +708,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Tiếp tục">
 <!ENTITY guest_session_dialog_cancel "Hủy bỏ">
 <!ENTITY new_guest_session_title "&brandShortName; sẽ khởi động lại bây giờ">
+<!ENTITY new_guest_session_text2 "Người sử dụng nó sẽ không thể thấy bất kỳ dữ liệu duyệt web cá nhân nào của bạn (như những thông tin đăng nhập đã lưu, lịch sử hoặc trang đánh dấu).\n\nKhi khách của bạn xong phiên làm việc, dữ liệu duyệt web của họ sẽ bị xóa và phiên của bạn sẽ được khôi phục.">
 <!ENTITY guest_browsing_notification_title "Duyệt web dành cho khách đã được bật">
 <!ENTITY guest_browsing_notification_text "Chạm để thoát">
 
