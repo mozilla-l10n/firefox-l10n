@@ -234,7 +234,7 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "Que es isto? Le telemetria pote installar e facer experimentos de tempore in tempore.">
-<!ENTITY experiment.info.learnmore "Apprender plus">
+<!ENTITY experiment.info.learnmore "Saper plus">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Predefinitiones del telemetria">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
@@ -257,7 +257,7 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.description "">
-<!ENTITY pluginDeprecation.learnMore "Apprender plus.">
+<!ENTITY pluginDeprecation.learnMore "Saper plus.">
 
 <!ENTITY legacyWarning.showLegacy "Monstrar le extensiones obsolete">
 <!ENTITY legacyExtensions.title "Extensiones obsolete">
