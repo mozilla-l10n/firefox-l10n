@@ -66,7 +66,7 @@
 <!ENTITY bookmarksButton.label        "Tandabuku">
 <!ENTITY bookmarksButton.tooltip      "Senarai tandabuku">
 <!ENTITY homeButton.label             "Halaman utama">
-<!ENTITY bookmarksToolbarItem.label   "Item Bar alat Tandabuku">
+<!ENTITY bookmarksToolbarItem.label   "Item Bar alatan Tandabuku">
 <!ENTITY bookmarksToolbarChevron.tooltip "Papar tandabuku selanjutnya">
 
 <!-- Statusbar -->

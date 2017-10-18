@@ -8,7 +8,7 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.title): The main heading for the news
      error page. -->
-<!ENTITY articleNotFound.title "Fail tidak ditemui">
+<!ENTITY articleNotFound.title "Artikel tidak ditemui">
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
