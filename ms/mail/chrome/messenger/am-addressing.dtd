@@ -5,7 +5,7 @@
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Karangan &amp; Alamat">
-<!ENTITY addressingGroupTitle.label "Pengalamatan">
+<!ENTITY addressingGroupTitle.label "Alamat">
 <!ENTITY addressingText.label      "Apabila mencari alamat:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Guna keutamaan pelayan LDAP global untuk akaun ini">
