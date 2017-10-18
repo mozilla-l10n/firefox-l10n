@@ -33,8 +33,8 @@
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Semak huruf besar nama atau ralat taip lain.</li>
-  <li>Semak samada fail telah dipindah, dinamakan semula atau dihapuskan.</li>
+  <li>Semak ralat huruf besar nama fail atau ralat menaip lain.</li>
+  <li>Semak samada fail telah dipindahkan, dinamakan semula atau dibuang.</li>
 </ul>
 ">
 
@@ -47,7 +47,7 @@
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; tidak dapat memuat halaman ini atas beberapa sebab.</p>
+<p>&brandShortName; tidak dapat memuat halaman ini atas beberapa alasan.</p>
 ">
 
 <!ENTITY captivePortal.title "Log masuk ke rangkaian">
@@ -111,10 +111,10 @@
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Semak tetapan proksi untuk memastikan tetapan itu betul.</li>
-  <li>Semak untuk memastikan komputer anda ada sambungan rangkaian yang berfungsi.</li>
-  <li>Jika komputer atau rangkaian anda dilindungi oleh firewall atau proksi, pastikan
-    bahawa &brandShortName; diberi izin untuk mengakses Web.</li>
+  <li>Semak tetapan proksi untuk memastikan tetapan adalah betul.</li>
+  <li>Pastikan komputer ada sambungan rangkaian yang berfungsi.</li>
+  <li>Jika komputer atau rangkaian dilindungi firewall atau proksi, pastikan
+     bahawa &brandShortName; diberi izin mengakses Web.</li>
 </ul>
 ">
 
@@ -172,7 +172,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.automatic2 "Laporkan ralat seperti ini untuk membantu Mozilla mengenal pasti dan menyekat laman berbahaya">
 <!ENTITY errorReporting.learnMore "Ketahui selanjutnya…">
 
-<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.title "Capaian Jauh XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memaklumkan masalah ini.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Tidak boleh bersambung dengan selamat">

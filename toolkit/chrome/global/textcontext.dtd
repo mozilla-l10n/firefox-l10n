@@ -15,7 +15,7 @@
 <!ENTITY deleteCmd.label "Buang">
 <!ENTITY deleteCmd.accesskey "g">
 
-<!ENTITY spellAddToDictionary.label "Tambah kepada kamus">
+<!ENTITY spellAddToDictionary.label "Tambah dalam Kamus">
 <!ENTITY spellAddToDictionary.accesskey "a">
 <!ENTITY spellUndoAddToDictionary.label "Batal Tambah Dalam Kamus">
 <!ENTITY spellUndoAddToDictionary.accesskey "a">
