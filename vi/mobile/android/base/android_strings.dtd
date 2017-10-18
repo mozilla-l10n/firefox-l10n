@@ -3,6 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Chào mừng">
+<!ENTITY firstrun_urlbar_message2 "Cảm ơn bạn đã chọn &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Một trình duyệt di động hiện đại từ Mozilla, chúng tôi cam kết mang đến một trang web tự do và mở.">
+<!ENTITY firstrun_panel_title_privacy "Riêng tư">
+<!ENTITY firstrun_privacy_message "Duyệt web không để lại dấu vết">
+<!ENTITY firstrun_privacy_subtext "Duyệt web riêng tư với trình chống theo dõi sẽ ngăn chặn các trình theo dõi trong khi bạn duyệt web và sẽ không ghi nhớ lược sử duyệt web của bạn.">
+<!ENTITY firstrun_panel_title_customize "Tùy chỉnh">
+<!ENTITY firstrun_customize_message "Tạo ra &brandShortName; theo cách của riêng bạn.">
 <!ENTITY firstrun_bookmarks_title "Lược sử">
 <!ENTITY firstrun_bookmarks_subtext "Lấy kết quả từ trang đánh dấu và lược sử của bạn khi bạn tìm kiếm.">
 <!ENTITY firstrun_data_title "Dữ liệu">
