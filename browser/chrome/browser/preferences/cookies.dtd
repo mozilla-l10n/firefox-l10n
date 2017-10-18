@@ -12,7 +12,7 @@
 <!ENTITY     props.value.label              "შიგთავსი:">
 <!ENTITY     props.domain.label             "სერვერი:">
 <!ENTITY     props.path.label               "მდებარეობა:">
-<!ENTITY     props.secure.label             "გაგზავნა:">
+<!ENTITY     props.secure.label             "დანიშნულება:">
 <!ENTITY     props.expires.label            "ვადა:">
 <!ENTITY     props.container.label          "სათავსი:">
 
