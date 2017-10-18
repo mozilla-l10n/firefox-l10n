@@ -11,7 +11,7 @@
 <!ENTITY engine.history.label       "Chronologia">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Authenticationes">
-<!ENTITY engine.logins.accesskey    "L">
+<!ENTITY engine.logins.accesskey    "A">
 <!ENTITY engine.prefs.label         "Preferentias">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "Additivos">
@@ -24,7 +24,7 @@
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nomine del apparato">
 <!ENTITY changeSyncDeviceName2.label "Cambiar le nomine del apparato…">
-<!ENTITY changeSyncDeviceName2.accesskey "h">
+<!ENTITY changeSyncDeviceName2.accesskey "C">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancellar">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Salvar">

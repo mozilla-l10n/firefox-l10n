@@ -6,7 +6,7 @@
 <!ENTITY  trackingProtection2.description      "Traciamento es le collecta de tu datos de navigation trans multiple sitos web. Le traciamento pote esser usate pro construer un profilo e monstrar contento basate in tu navigation e in tu informationes personal.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Usar le protection contra le traciamento pro blocar traciatores cognoscite">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
-<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Solmente in fenestras private">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Nunquam">
