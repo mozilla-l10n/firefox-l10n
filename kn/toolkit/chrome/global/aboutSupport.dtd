@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ಆವೃತ್ತಿ">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; ವೈಶಿಷ್ಟ್ಯತೆಗಳು">
 <!ENTITY aboutSupport.featureName "ಹೆಸರು">
 <!ENTITY aboutSupport.featureVersion "ಆವೃತ್ತಿ">
 <!ENTITY aboutSupport.featureId "ID">
@@ -141,3 +142,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceFormat "ಸ್ವರೂಪ">
 <!ENTITY aboutSupport.mediaDeviceChannels "ಚಾನೆಲ್‌ಗಳು">
 <!ENTITY aboutSupport.mediaDeviceRate "ದರ">
+<!ENTITY aboutSupport.mediaDeviceLatency "ತಡ">
