@@ -19,6 +19,19 @@
 <!ENTITY dnsNotFound.title "Servitor non trovate">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul>
+  <li>Controla al adresse le errores de dactylographia como:
+    <strong>ww</strong>.example.com pro
+    <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Recercar</button>
+    </div>
+  <li>Si tu non pote cargar ulle paginas, controla tu connexion de datos o WiFi.
+    <button id='wifi'>Activar Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Dossier non trovate">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifica si le nomine del file ha errores de majusculas e minusculas o altere errores orthographic.</li> <li>Verifica si le file ha essite movite, renominate o delite.</li> </ul>">
@@ -72,8 +85,20 @@
 <!ENTITY netTimeout.title "Le connexion ha expirate">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Le adresse non ha essite comprendite">
+<!ENTITY unknownProtocolFound.longDesc "<ul>
+  <li>Tu pote deber installar altere software pro aperir iste adresse.</li>
+</ul>
+">
 
+<!ENTITY proxyConnectFailure.title "Le servitor proxy recusa connexiones">
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>Controla que le parametros del proxy es correcte.</li>
+  <li>Contacta tu administrator de rete pro saper si le servitor del proxy functiona.</li>
+</ul>
+">
 
+<!ENTITY proxyResolveFailure.title "Incapace de trovar le servitor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
