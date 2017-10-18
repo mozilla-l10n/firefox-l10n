@@ -841,3 +841,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "Chúng tôi sẽ không lưu bất kỳ lịch sử nào, nhưng tệp đã tải xuống và trang đánh dấu mới sẽ vẫn được lưu vào thiết bị của bạn.">
 <!ENTITY private_tab_learn_more "Muốn tìm hiểu thêm?">
 
+<!ENTITY fullscreen_warning "Đã vào chế độ toàn màn hình">
