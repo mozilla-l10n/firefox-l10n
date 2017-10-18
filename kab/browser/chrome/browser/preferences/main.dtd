@@ -20,7 +20,7 @@
 <!ENTITY restoreDefault.label      "Err-d tawila n tazwara">
 <!ENTITY restoreDefault.accesskey  "E">
 
-<!ENTITY disableExtension.label    "Sens aseγzif">
+<!ENTITY disableExtension.label    "Sens aseɣzif">
 
 <!ENTITY downloads.label     "Isidar">
 
@@ -40,7 +40,7 @@
 <!ENTITY isDefault.label                  "&brandShortName; d iminig-inek amezwar">
 <!ENTITY isNotDefault.label               "&brandShortName; mačči d iminig-inek amezwer">
 
-<!ENTITY separateProfileMode.label        "Sireg &brandShortName; ed Firefox ad selkmen s wudem anmaway">
+<!ENTITY separateProfileMode.label        "Sireg &brandShortName; d Firefox ad selkmen s wudem anmaway">
 <!ENTITY useFirefoxSync.label             "Taxbalut: Imaɣnuten yemgaraden ttusqedcen. Tzemreḍ ad tfaṛseḍ seg Sync i beṭṭu n isefka-inek gar-asen.">
 <!ENTITY getStarted.notloggedin.label     "Qqen ɣer &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label      "Ldi ismenyifen n &syncBrand.shortName.label;">
