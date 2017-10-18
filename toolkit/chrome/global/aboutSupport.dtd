@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "ತೊಂದರೆ ನಿವಾರಣಾ ಮಾಹಿತಿ">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  ನೀವು ಒಂದು ಸಮಸ್ಯೆಗೆ ಪರಿಹಾರ ಹುಡುಕುವಾಗ ನಿಮಗೆ ನೆರವಾಗುವಂತಹ ಮಾಹಿತಿಗಳನ್ನು ಈ ಪುಟವು ಹೊಂದಿರುತ್ತದೆ. ನೀವು &brandShortName; ಕುರಿತಾದ ಸಾಮಾನ್ಯವಾದ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರವನ್ನು ಹುಡುಕುತ್ತಿದ್ದಲ್ಲಿ, <a id='supportLink'>ಬೆಂಬಲ ಜಾಲ ತಾಣ</a>ವನ್ನು ನೋಡಿ.">
 
 <!ENTITY aboutSupport.crashes.title "ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಳು">
@@ -21,9 +21,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ಆವೃತ್ತಿ">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featureName "ಹೆಸರು">
+<!ENTITY aboutSupport.featureVersion "ಆವೃತ್ತಿ">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "ಪ್ರಯೋಗಾತ್ಮಕ ವೈಶಿಷ್ಟ್ಯಗಳು">
 <!ENTITY aboutSupport.experimentName "ಹೆಸರು">
@@ -38,9 +38,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "ಹೆಸರು">
 <!ENTITY aboutSupport.appBasicsVersion "ಆವೃತ್ತಿ">
 <!ENTITY aboutSupport.appBasicsBuildID "ನಿರ್ಮಿತಿ ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "ಪರಿಷ್ಕರಿಸು ವಾಹಿನಿ">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ಅಪ್‌ಡೇಟ್‌ ಇತಿಹಾಸ">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
@@ -57,8 +57,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "ಮೆಮೊರಿಯ ಬಳಕೆ">
 <!ENTITY aboutSupport.appBasicsPerformance "ಕಾರ್ಯಕ್ಷಮತೆ">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "ನೊಂದಾಯಿಸಿಕೊಂಡ ಸೇವಾ ಕೆಲಸಗಾರರು">
 
 <!ENTITY aboutSupport.appBasicsProfiles "ಪ್ರೊಫೈಲ್‌ಗಳು">
@@ -66,7 +66,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ಬಹುಪ್ರಕ್ರಿಯೆ ಕಿಟಕಿಗಳು">
 
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "ಗೂಗಲ್ ಕೀ">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla ಸ್ಥಳ ಸೇವೆ ಕೀ">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "ಸುರಕ್ಷಾ ಸ್ಥಿತಿ">
 
@@ -77,12 +78,13 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "ಶೋಧಕದಲ್ಲಿ ತೋರಿಸು">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "ಕಡತಕೋಶವನ್ನು ತೆರೆ">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ಪ್ರಮುಖ ಮಾರ್ಪಡಿಕೆ ಮಾಡಲಾದ ಆದ್ಯತೆಗಳು">
 <!ENTITY aboutSupport.modifiedPrefsName "ಹೆಸರು">
 <!ENTITY aboutSupport.modifiedPrefsValue "ಮೌಲ್ಯ">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js ಆದ್ಯತೆಗಳು">
 <!ENTITY aboutSupport.userJSDescription "ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ <a id='prefs-user-js-link'>user.js file</a> ಅನ್ನು ಹೊಂದಿದ್ದು, ಅದರಲ್ಲಿ &brandShortName; ನಲ್ಲಿ ಇರದೆ ಇರುವಂತಹ ಆದ್ಯತೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.">
 
@@ -103,8 +105,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY aboutSupport.a11yForceDisabled "ನಿಲುಕಣೆಯನ್ನು ನಿಯಂತ್ರಿಸು">
 
-
-
 <!ENTITY aboutSupport.libraryVersionsTitle "ಲೈಬ್ರರಿ ಆವೃತ್ತಿಗಳು">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ಅನುಸ್ಥಾಪನಾ ಇತಿಹಾಸ">
@@ -114,14 +114,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ಕಚ್ಛಾ ದತ್ತಾಂಶವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿ ಮಾಡು">
 
 <!ENTITY aboutSupport.sandboxTitle "ಪ್ರಯೋಗಶಾಲೆ">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "ಸೆಕೆಂಡುಗಳ ಮುನ್ನ">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallArgs "ವಾದಗಳು">
 
 <!ENTITY aboutSupport.safeModeTitle "ಸುರಕ್ಷಾ ಸ್ಥಿತಿ ಪ್ರಯತ್ನಿಸಿ">
 <!ENTITY aboutSupport.restartInSafeMode.label "ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ ಆರಂಭಿಸು…">
@@ -135,14 +132,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "ಕುಸಿತ ರಕ್ಷಕ ವೈಶಿಷ್ಟ್ಯ ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದೆ">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "ಪರ್ಯಾಯಮಾರ್ಗಗಳು">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "ಮಾಧ್ಯಮ">
+<!ENTITY aboutSupport.mediaDeviceName "ಹೆಸರು">
+<!ENTITY aboutSupport.mediaDeviceGroup "ಗುಂಪು">
+<!ENTITY aboutSupport.mediaDeviceVendor "ಮಾರಾಟಗಾರ">
+<!ENTITY aboutSupport.mediaDeviceState "ಸ್ಥಿತಿ">
+<!ENTITY aboutSupport.mediaDevicePreferred "ಆದ್ಯತೆಯ">
+<!ENTITY aboutSupport.mediaDeviceFormat "ಸ್ವರೂಪ">
+<!ENTITY aboutSupport.mediaDeviceChannels "ಚಾನೆಲ್‌ಗಳು">
+<!ENTITY aboutSupport.mediaDeviceRate "ದರ">
