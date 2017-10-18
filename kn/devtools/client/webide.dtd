@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "ತೆರೆಚಿತ್ರ">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "ಚಾಲನಾಸಮಯದ ಮಾಹಿತಿ">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "ಮಾನಿಟರ್">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ಸಾಧನದ ಆದ್ಯತೆಗಳು">
@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "ಅನ್ವಯ ತೆಗೆ">
 <!ENTITY runtimeButton_label "ನಿರ್ವಹಣೆ ಸಮಯ ಆಯ್ಕೆಮಾಡು">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +75,12 @@
 <!ENTITY projectPanel_tabs "ಹಾಳೆಗಳು">
 <!ENTITY runtimePanel_usb "USB ಸಾಧನಗಳು">
 <!ENTITY runtimePanel_wifi "ವೈ-ಫೈ ಸಾಧನಗಳು">
-<!ENTITY runtimePanel_simulator "ಸಿಮುಲೇಟರ್‌ಗಳು">
 <!ENTITY runtimePanel_other "ಇತರೆ">
-<!ENTITY runtimePanel_installsimulator "ಸಿಮ್ಯುಲೇಟರ್ ಅನುಸ್ಥಾಪಿಸು">
 <!ENTITY runtimePanel_noadbhelper "ADB ಹೆಲ್ಪರ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಿ">
 <!ENTITY runtimePanel_nousbdevice "ನಿಮ್ಮ ಸಾಧನವು ಕಾಣಿಸುತ್ತಿಲ್ಲವೆ?">
 <!ENTITY runtimePanel_refreshDevices_label "ಸಾಧನಗಳನ್ನು ಪುನಶ್ಚೇತನಗೊಳಿಸು">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "ಮಾನ್ಯ">
 <!ENTITY details_warning_header "ಎಚ್ಚರಿಕೆಗಳು">
 <!ENTITY details_error_header "ದೋಷಗಳು">
@@ -90,23 +88,23 @@
 <!ENTITY details_location "ಸ್ಥಳ">
 <!ENTITY details_manifestURL "ಅನ್ವಯ ID">
 <!ENTITY details_removeProject_button "ಯೋಜನೆ ತೆಗೆದುಹಾಕಿ">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "ಹೊಸ ಅನ್ವಯ">
 <!ENTITY newAppHeader "ಮಾದರಿ ಆಯ್ಕೆಮಾಡು">
 <!ENTITY newAppLoadingTemplate "ಮಾದರಿಗಳನ್ನು ತುಂಬಿಸಲಾಗುತ್ತಿದೆ…">
 <!ENTITY newAppProjectName "ಯೋಜನೆ ಹೆಸರು:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "ಮುಚ್ಚು">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "ಹೆಚ್ಚುವರಿ ಘಟಕಗಳು">
 <!ENTITY addons_aboutaddons "ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕವನ್ನು ತೆರೆ">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "ಆದ್ಯತೆಗಳು">
 <!ENTITY prefs_editor_title "ಸಂಪಾದಕ">
 <!ENTITY prefs_general_title "ಸಾಮಾನ್ಯ">
@@ -118,8 +116,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE ಆರಂಭಗೊಂಡಾಗ ಹಿಂದಿನ ಯೋಜನೆಯಿಂದ ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY prefs_options_templatesurl "ಮಾದರಿಗಳ URL">
 <!ENTITY prefs_options_templatesurl_tooltip "ಲಭ್ಯವಿರುವ ಟೆಂಪ್ಲೇಟ್‌ಗಳ ಸೂಚಿ">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "ಚಾಲನಾಸಮಯದ ಮಾಹಿತಿ">
 <!ENTITY runtimedetails_adbIsRoot "ADB ಒಬ್ಬ ನಿರ್ವಾಹಕ: ">
 <!ENTITY runtimedetails_summonADBRoot "ನಿರ್ವಹಕ ಸಾಧನ">
@@ -127,36 +125,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "ಪ್ರತಿಬಂಧವಿಲ್ಲದ DevTools ಸವಲತ್ತುಗಳು: ">
 <!ENTITY runtimedetails_requestPrivileges "ಹೆಚ್ಚಿನ ಅಧಿಕಾರದ ಅಗತ್ಯವಿರುತ್ತದೆ">
 <!ENTITY runtimedetails_privilegesWarning "(ಸಾಧನವನ್ನು ಮರಳಿ ಬೂಟ್ ಮಾಡುತ್ತದೆ. ನಿರ್ವಾಹಕ ಅಧಿಕಾರದ ಅಗತ್ಯವಿದೆ.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "ಬೂಲಿಯನ್">
 <!ENTITY device_typenumber "ಪೂರ್ಣಾಂಕ">
 <!ENTITY device_typestring "ಪದಸಮುಚ್ಚಯ">
 <!ENTITY device_typeobject "ವಸ್ತು">
 <!ENTITY device_typenone "ಶೈಲಿಯನ್ನು ಆರಿಸಿ">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "ಸಾಧನದ ಇಚ್ಛೆಗಳು">
 <!ENTITY devicepreference_search "ಹುಡುಕು ಆದ್ಯತೆಗಳು">
 <!ENTITY devicepreference_newname "ಹೊಸ ಆದ್ಯತೆ ಹೆಸರು">
 <!ENTITY devicepreference_newtext "ಆದ್ಯತೆಯ ಮೌಲ್ಯ">
 <!ENTITY devicepreference_addnew "ಹೊಸ ಆದ್ಯತೆ ಸೇರಿಸು">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "ಸಾಧನ ಸಿದ್ದತೆಗಳು">
 <!ENTITY devicesetting_search "ಹುಡುಕು ಸಿದ್ದತೆಗಳು">
 <!ENTITY devicesetting_newname "ಹೊಸ ಸಿದ್ದತೆ ಹೆಸರು">
 <!ENTITY devicesetting_newtext "ಮೌಲ್ಯ ಹೊಂದಿಸುವುದು">
 <!ENTITY devicesetting_addnew "ಹೊಸ ಸಿದ್ದತೆ ಸೇರಿಸು">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "ಪ್ರದರ್ಶಕ">
 <!ENTITY monitor_help "ನೆರವು">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "ಕಕ್ಷಿದಾರ ಗುರುತು ಹಿಡಿಯುವಿಕೆ">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -172,21 +170,4 @@
 <!ENTITY wifi_auth_token_request "ನಿಮ್ಮ ಮತ್ತೊಂದು ಸಾಧನ QR ಕೋಡ್ ಸ್ಕ್ಯಾನ್ ಮಾಡದೆ ಟೋಕನ್ ಕೇಳಿದ ಪಕ್ಷದಲ್ಲಿ, ದಯವಿಟ್ಟು ಈ ಕೆಳಗಿನ ಮೌಲ್ಯವನ್ನು ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ನಕಲಿಸಿ:">
 
 <!-- Logs panel -->
-
 <!ENTITY logs_title "ಪ್ರಿ-ಪ್ಯಾಕೇಜಿಂಗ್ ಆದೇಶ ದಿನಚರಿಗಳು">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "ಸಿಮ್ಯುಲೇಟರ್ ಆಯ್ಕೆಗಳು">
-<!ENTITY simulator_remove "ಸಿಮ್ಯುಲೇಟರ್ ಅಳಿಸು">
-<!ENTITY simulator_reset "ಪೂರ್ವನಿಯೋಜಿತಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
-
-<!ENTITY simulator_software "ತಂತ್ರಾಂಶ">
-<!ENTITY simulator_version "ಆವೃತ್ತಿ">
-<!ENTITY simulator_profile "ಪ್ರೊಫೈಲ್">
-<!ENTITY simulator_hardware "ಯಂತ್ರಾಂಶ">
-<!ENTITY simulator_device "ಸಾಧನ">
-<!ENTITY simulator_screenSize "ಪರದೆ">
-<!ENTITY simulator_pixelRatio "ಪಿಕ್ಸೆಲ್ ರೇಶ್ಯೋ">
-<!ENTITY simulator_tv_data "TV ಸಿಮ್ಯುಲೇಶನ್">
-<!ENTITY simulator_tv_data_open "ಡೇಟಾ ಸಂಯೋಜನೆ">
-<!ENTITY simulator_tv_data_open_button "ಸಂಯೋಜನೆ ಸೂಚಿ ತೆರೆ…">

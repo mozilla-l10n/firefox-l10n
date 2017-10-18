@@ -29,9 +29,14 @@
 <!ENTITY aboutNetworking.bytesSent             "ಬೈಟ್ಸ್‌ಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ">
 <!ENTITY aboutNetworking.bytesReceived         "ಬೈಟ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗಿದೆ">
 <!ENTITY aboutNetworking.logging               "ದಾಖಲಾತಿ‍">
+<!ENTITY aboutNetworking.startLogging          "ದಿನಚರಿತುಂಬುವುದನ್ನು ಪ್ರಾರಂಭಿಸು">
+<!ENTITY aboutNetworking.stopLogging           "ದಿನಚರಿ ಪೇರಿಸುವುದನ್ನು ನಿಲ್ಲಿಸು">
 <!ENTITY aboutNetworking.dnsLookup             "DNS ಲುಕ್ಅಪ್">
 <!ENTITY aboutNetworking.dnsLookupButton       "ಬಗೆಹರಿಸಿ">
 <!ENTITY aboutNetworking.dnsDomain             "ಡೊಮೈನ್">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPಗಳು">
+<!ENTITY aboutNetworking.rcwn                  "RCWN ಅಂಕಿಅಂಶಗಳು">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN ಅಂಕಿಅಂಶಗಳು">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "ತೆರೆ">
 <!ENTITY aboutNetworking.rcwnPerfRead          "ಓದು">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "ಬರೆ">
