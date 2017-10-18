@@ -1,129 +1,115 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-
 <!ENTITY syncBrand.fullName.label "ಫೈರ್ಫಾಕ್ಸ್ ಸಿಂಕ್">
 <!ENTITY syncBrand.shortName.label "ಸಿಂಕ್">
+
 <!-- Main titles. -->
+<!ENTITY sync.title.connect.label '&syncBrand.shortName.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಜೋಡಿಸಿ'>
 
-<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಜೋಡಿಸಿ">
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿನ “&syncBrand.shortName.label; ಅನ್ನು ಅಣಿಗೊಳಿಸಿ” ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ.'>
+<!ENTITY sync.subtitle.pair.label 'ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ “ಇತರ ಸಾಧನದೊಂದಿಗೆ ಜೋಡಿಯಾಗಿ” ಯನ್ನು ಆರಿಸಿ.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.link.nodevice.label 'ನನ್ನಲ್ಲಿ ಈಗ ಸಾಧನವು ಇಲ್ಲ…'>
 
-<!ENTITY sync.subtitle.connect.label "ನಿಮ್ಮ ಹೊಸ ಸಾಧನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಸಾಧನದಲ್ಲಿನ “&syncBrand.shortName.label; ಅನ್ನು ಅಣಿಗೊಳಿಸಿ” ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ.">
-<!ENTITY sync.subtitle.pair.label "ಸಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿರುವ “ಇತರ ಸಾಧನದೊಂದಿಗೆ ಜೋಡಿಯಾಗಿ” ಯನ್ನು ಆರಿಸಿ.">
-<!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.link.nodevice.label "ನನ್ನಲ್ಲಿ ಈಗ ಸಾಧನವು ಇಲ್ಲ…">
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.passwords2 'ಲಾಗಿನ್‌ಗಳು'>
+<!ENTITY sync.configure.engines.title.history 'ಇತಿಹಾಸ'>
+<!ENTITY sync.configure.engines.title.tabs 'ಹಾಳೆಗಳು'>
 
-<!ENTITY sync.configure.engines.title.passwords2 "ಲಾಗಿನ್‌ಗಳು">
-<!ENTITY sync.configure.engines.title.history "ಇತಿಹಾಸ">
-<!ENTITY sync.configure.engines.title.tabs "ಹಾಳೆಗಳು">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS2; ನ ಮೇಲೆ &formatS1;'>
 
-<!ENTITY sync.default.client.name "&formatS2; ನ ಮೇಲೆ &formatS1;">
 <!-- Bookmark folder strings -->
-
-<!ENTITY bookmarks.folder.menu.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಪರಿವಿಡಿ">
-<!ENTITY bookmarks.folder.places.label "‍">
-<!ENTITY bookmarks.folder.tags.label "ಟ್ಯಾಗ್‌ಗಳು">
-<!ENTITY bookmarks.folder.toolbar.label "ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಪಟ್ಟಿ">
-<!ENTITY bookmarks.folder.other.label "ಇತರೆ ಪುಟಗುರುತುಗಳು">
-<!ENTITY bookmarks.folder.desktop.label "ಡೆಸ್ಕ್ ಟಾಪ್ ಪುಟಗುರುತುಗಳು">
-<!ENTITY bookmarks.folder.mobile.label "ಮೊಬೈಲ್ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
+<!ENTITY bookmarks.folder.menu.label 'ಬುಕ್‌ಮಾರ್ಕುಗಳ ಪರಿವಿಡಿ'>
+<!ENTITY bookmarks.folder.places.label '‍'>
+<!ENTITY bookmarks.folder.tags.label 'ಟ್ಯಾಗ್‌ಗಳು'>
+<!ENTITY bookmarks.folder.toolbar.label 'ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಪಟ್ಟಿ'>
+<!ENTITY bookmarks.folder.other.label 'ಇತರೆ ಪುಟಗುರುತುಗಳು'>
+<!ENTITY bookmarks.folder.desktop.label 'ಡೆಸ್ಕ್ ಟಾಪ್ ಪುಟಗುರುತುಗಳು'>
+<!ENTITY bookmarks.folder.mobile.label 'ಮೊಬೈಲ್ ಬುಕ್‌ಮಾರ್ಕುಗಳು'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label "ಪಿನ್ ಮಾಡಲಾದ">
+<!ENTITY bookmarks.folder.pinned.label 'ಪಿನ್ ಮಾಡಲಾದ'>
+
 <!-- Firefox Account strings. -->
+
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+<!ENTITY fxaccount_back_to_browsing 'ಜಾಲಾಟಕ್ಕೆ ಹಿಂತಿರುಗಿ'>
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label; ಗೆ ಸ್ವಾಗತ'>
+<!ENTITY fxaccount_getting_started_description2 'ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು &amp; ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.'>
+<!ENTITY fxaccount_getting_started_get_started 'ಪ್ರಾರಂಭಿಸಿರಿ'>
+<!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label; ನ ಹಳೆಯ ಆವೃತ್ತಿ ಬಳಸುತ್ತಿರುವಿರಾ?'>
 
-<!ENTITY fxaccount_back_to_browsing "ಜಾಲಾಟಕ್ಕೆ ಹಿಂತಿರುಗಿ">
-
-<!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ಗೆ ಸ್ವಾಗತ">
-<!ENTITY fxaccount_getting_started_description2 "ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು &amp; ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
-<!ENTITY fxaccount_getting_started_get_started "ಪ್ರಾರಂಭಿಸಿರಿ">
-<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ನ ಹಳೆಯ ಆವೃತ್ತಿ ಬಳಸುತ್ತಿರುವಿರಾ?">
-
-<!ENTITY fxaccount_status_signed_in_as "ಆಗಿ ಪ್ರವೇಶಿಸಲಾಗಿದೆ">
-<!ENTITY fxaccount_status_manage_account "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು">
-<!ENTITY fxaccount_status_auth_server "ಖಾತೆ ಸರ್ವರ್">
-<!ENTITY fxaccount_status_sync_now "ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು">
-<!ENTITY fxaccount_status_syncing2 "ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ…">
-<!ENTITY fxaccount_status_device_name "ಸಾಧನದ ಹೆಸರು">
-<!ENTITY fxaccount_status_sync_server "ಸಿಂಕ್ ಸರ್ವರ್">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
-<!ENTITY fxaccount_status_needs_verification2 "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಬೇಕಾಗುತ್ತದೆ. ದೃಢಪಡಿಸುವ ಈಮೇಯ್ಲನ್ನು ಮತ್ತೊಮ್ಮೆ ಕಳುಹಿಸಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
-<!ENTITY fxaccount_status_needs_credentials "ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಡವಿ.">
-<!ENTITY fxaccount_status_needs_upgrade "ಸೈನಿನ್ ಮಾಡಲು, &brandShortName;ನ ಅಪ್-ಗ್ರೇಡ್ ಅನ್ನು ನೀವು ಪಡೆಯಬೇಕು.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.">
-<!ENTITY fxaccount_status_needs_finish_migrating "ನಿಮ್ಮ ಹೊಸ Firefox ಖಾತೆಗೆ ಸೈನ್‌ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ.">
-<!ENTITY fxaccount_status_bookmarks "ಪುಟಗುರುತುಗಳು">
-<!ENTITY fxaccount_status_history "ಇತಿಹಾಸ">
-<!ENTITY fxaccount_status_passwords2 "ಲಾಗಿನ್‌ಗಳು">
-<!ENTITY fxaccount_status_tabs "ತೆರೆದ ಹಾಳೆಗಳು">
-<!ENTITY fxaccount_status_legal "ಕಾನೂನು" >
+<!ENTITY fxaccount_status_auth_server 'ಖಾತೆ ಸರ್ವರ್'>
+<!ENTITY fxaccount_status_sync_now 'ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು'>
+<!ENTITY fxaccount_status_syncing2 'ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ…'>
+<!ENTITY fxaccount_status_device_name 'ಸಾಧನದ ಹೆಸರು'>
+<!ENTITY fxaccount_status_sync_server 'ಸಿಂಕ್ ಸರ್ವರ್'>
+<!ENTITY fxaccount_status_needs_verification2 'ನಿಮ್ಮ ಖಾತೆಯನ್ನು ದೃಢಪಡಿಸಬೇಕಾಗುತ್ತದೆ. ದೃಢಪಡಿಸುವ ಈಮೇಯ್ಲನ್ನು ಮತ್ತೊಮ್ಮೆ ಕಳುಹಿಸಲು ಮೆಲ್ಲಗೆ ತಡವಿ.'>
+<!ENTITY fxaccount_status_needs_credentials 'ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಡವಿ.'>
+<!ENTITY fxaccount_status_needs_upgrade 'ಸೈನಿನ್ ಮಾಡಲು, &brandShortName;ನ ಅಪ್-ಗ್ರೇಡ್ ಅನ್ನು ನೀವು ಪಡೆಯಬೇಕು.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗುತ್ತಿಲ್ಲ. ಆಂಡ್ರಾಯ್ಡ್ ಸಿದ್ದತೆಗಳಲ್ಲಿ &gt; ದತ್ತಾಂಶ ಬಳಕೆ ಯಲ್ಲಿ “ಸ್ವ-ಸಿಂಕ್ ದತ್ತಾಂಶ” ಅಂತರಣ ಮಾಡಿ.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'ನಿಮ್ಮ ಹೊಸ Firefox ಖಾತೆಗೆ ಸೈನ್‌ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ.'>
+<!ENTITY fxaccount_status_choose_what 'ಏನು ಸಿಂಕ್ ಮಾಡಿಕೊಳ್ಳಬಹುದೆಂದು ಆಯ್ಕೆಮಾಡು'>
+<!ENTITY fxaccount_status_bookmarks 'ಪುಟಗುರುತುಗಳು'>
+<!ENTITY fxaccount_status_history 'ಇತಿಹಾಸ'>
+<!ENTITY fxaccount_status_passwords2 'ಲಾಗಿನ್‌ಗಳು'>
+<!ENTITY fxaccount_status_tabs 'ತೆರೆದ ಹಾಳೆಗಳು'>
+<!ENTITY fxaccount_status_additional_settings 'ಹೆಚ್ಚುವರಿ ಕ್ರಿಯೆಗಳು'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'ವೈ-ಫೈನಲ್ಲಿ ಮಾತ್ರ ಸಿಂಕ್ ಮಾಡಿ'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'ಸೆಲ್ಯುಲಾರ್ ಅಥವಾ ಡೇಟಾ ಮೀಟರ್ ನೆಟ್ವರ್ಕ್ ಮೂಲಕ ಸಿಂಕ್ ಮಾಡುವುದರಿಂದ &brandShortName; ಅನ್ನು ತಡೆಯಿರಿ'>
+<!ENTITY fxaccount_status_legal 'ಕಾನೂನು' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 "ಸೇವೆಯ ನಿಯಮಗಳು">
-<!ENTITY fxaccount_status_linkprivacy2 "ಗೌಪ್ಯತಾ ನಿಯಮ">
-<!ENTITY fxaccount_status_more "ಇನ್ನಷ್ಟು&ellipsis;">
-<!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
+<!ENTITY fxaccount_status_linktos2 'ಸೇವೆಯ ನಿಯಮಗಳು'>
+<!ENTITY fxaccount_status_linkprivacy2 'ಗೌಪ್ಯತಾ ನಿಯಮ'>
+<!ENTITY fxaccount_remove_account 'Disconnect&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 "ಸಿಂಕ್‌ನಿಂದ ಸಂಪರ್ಕ ತಪ್ಪಿಸಲೆ?">
-<!ENTITY fxaccount_remove_account_dialog_message2 "ನಿಮ್ಮ ವೀಕ್ಷಕದ ಡೇಟಾ ಈ ಸಾಧನ‍ದಲ್ಲಿ ಉಳಿದುಕೊಳ್ಳುತ್ತದೆ, ಆದರೆ ಇದು ನಿಮ್ಮ ಖಾತೆಯ ಜೊತೆ ಸಿಂಕ್ ಮಾಡುವುದಿಲ್ಲ.‍">
+<!ENTITY fxaccount_remove_account_dialog_title2 'ಸಿಂಕ್‌ನಿಂದ ಸಂಪರ್ಕ ತಪ್ಪಿಸಲೆ?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'ನಿಮ್ಮ ವೀಕ್ಷಕದ ಡೇಟಾ ಈ ಸಾಧನ‍ದಲ್ಲಿ ಉಳಿದುಕೊಳ್ಳುತ್ತದೆ, ಆದರೆ ಇದು ನಿಮ್ಮ ಖಾತೆಯ ಜೊತೆ ಸಿಂಕ್ ಮಾಡುವುದಿಲ್ಲ.‍'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 "Firefox ಖಾತೆ &formatS; ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ.‍">
+<!ENTITY fxaccount_remove_account_toast2 'Firefox ಖಾತೆ &formatS; ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ.‍'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
-<!ENTITY fxaccount_remove_account_dialog_action_confirm "ಸಂಪರ್ಕ ತಪ್ಪಿಸು">
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'ಸಂಪರ್ಕ ತಪ್ಪಿಸು'>
 
-<!ENTITY fxaccount_enable_debug_mode "ದೋಷನಿದಾನ ಸ್ಥಿತಿ ಸಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY fxaccount_enable_debug_mode 'ದೋಷನಿದಾನ ಸ್ಥಿತಿ ಸಕ್ರಿಯಗೊಳಿಸು'>
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'ಫೈರ್ಫಾಕ್ಸ್'>
 
-<!ENTITY fxaccount_account_type_label "ಫೈರ್ಫಾಕ್ಸ್">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; ಆಯ್ಕೆಗಳು'>
+<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; ಅನ್ನು ಸಂಯೋಜಿಸಿ'>
 
-<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; ಆಯ್ಕೆಗಳು">
-<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; ಅನ್ನು ಸಂಯೋಜಿಸಿ">
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "ನೀವು ಫೈರ್ಫಾಕ್ಸನ್ನು ಅಪ್ಗ್ರೇಡ್ ಮಾಡಬೇಕು">
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "ಖಾತೆ ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "ತಪ್ಪಾದ ಇಮೇಲ್ ಅಥವಾ ಗುಪ್ತಪದ">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "ತಪ್ಪಾದ ಇಮೇಲ್ ಅಥವಾ ಗುಪ್ತಪದ">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "ಖಾತೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "ಸರ್ವರ್ ಕಾರ್ಯನಿರತವಾಗಿದೆ, ಕೆಲಸಮಯದ ನಂತರ ಮರು ಪ್ರಯತ್ನಿಸಿ">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "ಪೂರೈಕೆಗಣಕ ಕಾರ್ಯಮಗ್ನವಾಗಿದೆ, ಸ್ವಲ್ಪದರಲ್ಲಿಯೆ ಮರು ಪ್ರಯತ್ನಿಸಿ">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ಏನೋ ತೊಂದರೆ ಕಂಡುಬಂದಿದೆ">
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "ಖಾತೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. &formatS1;">
-
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ಸಂಪರ್ಕಿತಗೊಂಡಿಲ್ಲ">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ಸಂಪರ್ಕಿತಗೊಂಡಿಲ್ಲ'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; ಆಗಿ ಸೈನ್‌ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 '&formatS; ಆಗಿ ಸೈನ್‌ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; ಅಪ್ಗ್ರೇಡ್ ಮುಗಿಸಬೇಕೆ?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title '&syncBrand.shortName.label; ಅಪ್ಗ್ರೇಡ್ ಮುಗಿಸಬೇಕೆ?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; ಆಗಿ ಸೈನ್‌ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text '&formatS; ಆಗಿ ಸೈನ್‌ ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ'>
