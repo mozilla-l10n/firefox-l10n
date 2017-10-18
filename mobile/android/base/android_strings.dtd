@@ -767,11 +767,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Tiện ích">
+<!ENTITY restrictable_feature_addons_installation_description "Thêm các tính năng hoặc chức năng cho Firefox. Lưu ý: tiện ích có thể vô hiệu hóa các hạn chế nào đó.">
 <!ENTITY restrictable_feature_private_browsing "Duyệt web Riêng tư">
+<!ENTITY restrictable_feature_private_browsing_description "Cho phép các thành viên trong gia đình duyệt web mà không lưu thông tin về những trang mà họ đã truy cập.">
 <!ENTITY restrictable_feature_clear_history "Xóa lịch sử">
 <!ENTITY restrictable_feature_clear_history_description "Cho phép các thành viên gia đình xóa thông tin về những trang mà họ đã truy cập.">
 <!ENTITY restrictable_feature_advanced_settings "Cài đặt nâng cao">
 <!ENTITY restrictable_feature_camera_microphone "Máy quay &amp; Micrô">
+<!ENTITY restrictable_feature_camera_microphone_description "Cho phép các thành viên trong gia đình tham gia vào các cuộc trò chuyện trực tuyến trên trang web.">
 <!ENTITY restrictable_feature_block_list "Danh sách chặn">
 <!ENTITY restrictable_feature_block_list_description "Chặn trang web chứa nội dung nhạy cảm.">
 
@@ -783,6 +786,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Hỗ trợ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Trợ giúp và hỗ trợ Firefox cho các hồ sơ bị giới hạn trên máy tính bảng Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Tìm hiểu về Web: Mozilla Webmaker">
 
@@ -809,9 +813,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Các trang vào nhiều nhất">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Khuyên dùng bởi &brandPocket;">
 <!ENTITY activity_stream_highlights "Nổi bật">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "MORE">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -820,12 +826,18 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Đã thăm">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Xu hướng">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Bắt đầu duyệt web, và chúng tôi sẽ hiển thị một số bài báo, video và các trang khác mà bạn vừa truy cập hoặc đã đánh dấu tại đây.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Xóa">
 <!ENTITY activity_stream_delete_history "Xóa khỏi lịch sử">
 
+<!ENTITY private_tab_panel_title "Duyệt web riêng tư + Trình chống theo dõi">
+<!ENTITY private_tab_panel_description "&brandShortName; chặn các phần của các trang web có thể theo dõi hoạt động duyệt web của bạn.">
+<!ENTITY private_tab_panel_description2 "Chúng tôi sẽ không lưu bất kỳ lịch sử nào, nhưng tệp đã tải xuống và trang đánh dấu mới sẽ vẫn được lưu vào thiết bị của bạn.">
 <!ENTITY private_tab_learn_more "Muốn tìm hiểu thêm?">
 
