@@ -7,7 +7,7 @@
 <!ENTITY forwardMsg.label                     "Mesej kirim semula:">
 <!ENTITY inline.label                         "Sebaris">
 <!ENTITY inline.accesskey                     "b">
-<!ENTITY asAttachment.label                   "Lampiran">
+<!ENTITY asAttachment.label                   "Sebagai Lampiran">
 <!ENTITY asAttachment.accesskey               "L">
 
 <!ENTITY replyQuoteInline.label               "Petik lampiran yang dipaparkan sebaris dalam balasan">
