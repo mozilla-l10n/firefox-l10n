@@ -302,7 +302,7 @@
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Dahulu">
-<!ENTITY prevMenu.accesskey "T">
+<!ENTITY prevMenu.accesskey "D">
 <!ENTITY prevMsgCmd.label "Mesej">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
@@ -648,7 +648,7 @@
 <!ENTITY folderContextRename.label "Namakan semula">
 <!ENTITY folderContextRename.accesskey "N">
 <!ENTITY folderContextRemove.label "Buang">
-<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextRemove.accesskey "B">
 <!ENTITY folderContextCompact.label "Padat">
 <!ENTITY folderContextCompact.accesskey "P">
 <!ENTITY folderContextEmptyTrash.label "Buang Sampah">

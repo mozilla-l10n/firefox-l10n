@@ -60,7 +60,7 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "T">
 <!ENTITY deleteCmd.label                                "Buang">
-<!ENTITY deleteCmd.accesskey                            "D">
+<!ENTITY deleteCmd.accesskey                            "B">
 <!ENTITY deleteAbCmd.label                              "Buang Buku Alamat">
 <!ENTITY deleteContactCmd.label                         "Buang Kenalan">
 <!ENTITY deleteContactsCmd.label                        "Buang Kenalan">
