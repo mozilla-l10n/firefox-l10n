@@ -31,6 +31,6 @@
 <!ENTITY loaddevice.filename2                   "Nama fail Modul">
 <!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Cari…">
-<!ENTITY loaddevice.browse.accesskey            "L">
+<!ENTITY loaddevice.browse.accesskey            "C">
 
 <!ENTITY loaddevice.title2                      "Muatkan Pemacu Peranti PKCS#11">

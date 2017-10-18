@@ -53,7 +53,7 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 <!ENTITY btnServerLogging.label       "Pelayan">
 <!ENTITY btnServerLogging.tooltip     "Log mesej yang diterima dari pelayan web">
-<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerLogging.accesskey   "P">
 <!ENTITY btnServerErrors              "Ralat">
 <!ENTITY btnServerInfo                "Maklumat">
 <!ENTITY btnServerWarnings            "Amaran">
@@ -72,7 +72,7 @@
 <!ENTITY filterOutput.placeholder "Tapis output">
 <!ENTITY btnClear.label        "Buang">
 <!ENTITY btnClear.tooltip      "Buang output Konsol Web">
-<!ENTITY btnClear.accesskey    "r">
+<!ENTITY btnClear.accesskey    "g">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->

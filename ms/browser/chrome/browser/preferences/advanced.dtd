@@ -114,7 +114,7 @@ available. -->
 <!ENTITY offlineStorageNotify.label               "Maklumkan anda apabila laman web mahu menyimpan data bagi kegunaan luar talian">
 <!ENTITY offlineStorageNotify.accesskey           "B">
 <!ENTITY offlineStorageNotifyExceptions.label     "Pengecualian…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "k">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "c">
 
 <!ENTITY offlineAppsList3.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk digunakan ketika luar talian">
 <!ENTITY offlineAppsList.height          "7em">
@@ -129,7 +129,7 @@ available. -->
 <!ENTITY selectCerts.ask                 "Tanya setiap kali">
 <!ENTITY selectCerts.ask.accesskey       "T">
 <!ENTITY enableOCSP.label                "Tanya pelayan responder OCSP untuk memastikan kesahihan sijil semasa">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.accesskey            "T">
 <!ENTITY viewCerts2.label                "Papar Sijil…">
 <!ENTITY viewCerts2.accesskey            "S">
 <!ENTITY viewSecurityDevices2.label      "Peranti Keselamatan…">

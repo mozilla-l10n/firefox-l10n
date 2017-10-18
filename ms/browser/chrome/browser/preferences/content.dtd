@@ -16,20 +16,20 @@
 
 <!ENTITY  notificationPermissions.label                         "Notifikasi">
 <!ENTITY  notificationSettingsButton.label                      "Tetapan…">
-<!ENTITY  notificationSettingsButton.accesskey                  "f">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
 <!ENTITY  notificationPermissionsLearnMore.label                "Ketahui selanjutnya">
 
 <!ENTITY  locationPermissions.label                             "Lokasi">
 <!ENTITY  locationSettingsButton.label                          "Tetapan…">
-<!ENTITY  locationSettingsButton.accesskey                      "k">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
 <!ENTITY  cameraSettingsButton.label                            "Tetapan…">
-<!ENTITY  cameraSettingsButton.accesskey                        "r">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
 <!ENTITY  microphoneSettingsButton.label                        "Tetapan…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "i">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Fon &amp; Warna">
 

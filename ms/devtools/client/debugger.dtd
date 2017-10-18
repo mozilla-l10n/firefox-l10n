@@ -89,7 +89,7 @@
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 <!ENTITY debuggerUI.showOriginalSource           "Papar Sumber Asal">
-<!ENTITY debuggerUI.showOriginalSource.accesskey "O">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "A">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
@@ -124,7 +124,7 @@
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken           "Cari">
 <!ENTITY debuggerUI.searchToken.key       "F">
-<!ENTITY debuggerUI.searchToken.accesskey "F">
+<!ENTITY debuggerUI.searchToken.accesskey "C">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
@@ -136,13 +136,13 @@
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable           "Tapis Pembolehubah">
 <!ENTITY debuggerUI.searchVariable.key       "V">
-<!ENTITY debuggerUI.searchVariable.accesskey "V">
+<!ENTITY debuggerUI.searchVariable.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 <!ENTITY debuggerUI.focusVariables           "Fokus Pokok Pembolehubah">
 <!ENTITY debuggerUI.focusVariables.key       "V">
-<!ENTITY debuggerUI.focusVariables.accesskey "V">
+<!ENTITY debuggerUI.focusVariables.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->

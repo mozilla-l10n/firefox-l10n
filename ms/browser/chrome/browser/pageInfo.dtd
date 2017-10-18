@@ -14,7 +14,7 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Umum">
-<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTab.accesskey  "U">
 <!ENTITY  generalTitle          "Tajuk:">
 <!ENTITY  generalURL            "Alamat:">
 <!ENTITY  generalType           "Jenis:">
@@ -45,12 +45,12 @@
 <!ENTITY  mediaPreview          "Previu Media:">
 
 <!ENTITY  feedTab               "Suapan">
-<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedTab.accesskey     "S">
 <!ENTITY  feedSubscribe         "Langgan">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe.accesskey "g">
 
 <!ENTITY  permTab               "Keizinan">
-<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permTab.accesskey     "K">
 <!ENTITY  permUseDefault        "Guna Piawai">
 <!ENTITY  permAskAlways         "sentiasa menanya">
 <!ENTITY  permAllow             "Izinkan">
