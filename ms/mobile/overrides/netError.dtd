@@ -34,8 +34,8 @@
 <!ENTITY fileNotFound.title "Fail tidak ditemui">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Semak huruf besar nama atau ralat taip lain.</li>
-  <li>Semak samada fail telah dipindah, dinamakan semula atau dihapuskan.</li>
+  <li>Semak ralat huruf besar nama fail atau ralat menaip lain.</li>
+  <li>Semak samada fail telah dipindahkan, dinamakan semula atau dibuang.</li>
 </ul>
 ">
 
