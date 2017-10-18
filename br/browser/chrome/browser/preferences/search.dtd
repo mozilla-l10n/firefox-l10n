@@ -4,6 +4,8 @@
 
 <!ENTITY searchBar.label                       "Barrenn glask">
 
+<!ENTITY searchBar.hidden.label                "Arverañ ar varrenn chomlec'hioù evit ar c'hlaskoù hag ar merdeiñ">
+<!ENTITY searchBar.shown.label                 "Ouzhpennañ ar varrenn glask er varrenn ostilhoù">
 
 <!ENTITY defaultSearchEngine.label             "Keflusker enklask dre ziouer">
 

@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Ardeiñ an trevnadoù…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gwelout barrenn-gostez an ivinelloù goubredet ">
 
+<!ENTITY appMenuRecentHighlights.label "Usskedoù nevez">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ouzhpennañ d'ar varrenn ostilhoù">
 <!ENTITY customizeMenu.addToToolbar.accesskey "O">
@@ -804,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Klask en ivinelloù goubredet">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -844,6 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Assav ar re dre ziouer">
 <!ENTITY customizeMode.done "Graet">
 <!ENTITY customizeMode.titlebar "Barrenn ditl">
+<!ENTITY customizeMode.extraDragSpace "Egor riklañ">
 <!ENTITY customizeMode.toolbars2 "Barrennoù ostilhoù">
 <!ENTITY customizeMode.lwthemes "Neuzioù">
 <!ENTITY customizeMode.lwthemes.myThemes "Ma neuzioù">
@@ -853,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kaout muioc'h a neuzioù">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
 <!ENTITY customizeMode.emptyOverflowList.description "Riklit ha laoskit an elfennoù amañ evit mirout anezho nepell met e-diavaez ho parrenn ostilhoù…">
+<!ENTITY customizeMode.overflowList.title2 "Lañser dic'hlann">
+<!ENTITY customizeMode.overflowList.description "Riklit ha laoskit an elfennoù amañ evit mirout anezho nepell met e-diavaez ho parrenn ostilhoù…">
 <!ENTITY customizeMode.uidensity "Douester">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -984,3 +989,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Gweredekaet ar c'heweriusterioù haezadusted">
