@@ -7,7 +7,7 @@
 <!ENTITY safeb.palm.notdeceptive.label "To nie jest oszustwo…">
 <!ENTITY safeb.palm.notdeceptive.accesskey "n">
 
-<!ENTITY safeb.palm.advisory.desc "Na podstawie danych dostarczanych przez <a id='advisory_provider'/>.">
+<!ENTITY safeb.palm.advisory.desc2 "Na podstawie danych dostarczanych przez <a id='advisory_provider'/>.">
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Odwiedzenie tej strony może być szkodliwe">
 <!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; zablokował tę stronę, ponieważ może ona próbować instalować niebezpieczne oprogramowanie mogące wykradać lub usuwać z komputera dane osobiste.">
