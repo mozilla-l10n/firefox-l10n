@@ -6,6 +6,7 @@
 <!ENTITY aboutDevices.header             "Vifaa vyako">
 <!ENTITY aboutDevices.refresh            "Fanyiza upya">
 <!ENTITY aboutDevices.addDeviceHeader    "Ongeza kifaa">
+<!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
      user prompting them to input the IP address of a casting device. -->

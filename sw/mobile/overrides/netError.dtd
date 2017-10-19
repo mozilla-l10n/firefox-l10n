@@ -11,6 +11,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Imeshindwa kuunganisha">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Anwani hii imezuiliwa">
 <!ENTITY deniedPortAccess.longDesc "">
