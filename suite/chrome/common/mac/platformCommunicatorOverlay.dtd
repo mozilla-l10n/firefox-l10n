@@ -28,7 +28,7 @@
 <!ENTITY closeCmd.label                 "Tutup">  
 <!ENTITY closeCmd.key                   "W">  
 
-<!ENTITY printSetupCmd.label            "Tetapan Halaman…">
+<!ENTITY printSetupCmd.label            "Penetapan Halaman…">
 <!ENTITY printSetupCmd.accesskey        "p">
 
 <!ENTITY findReplaceCmd.key             "F">

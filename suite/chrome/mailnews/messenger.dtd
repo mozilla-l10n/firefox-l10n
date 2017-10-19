@@ -101,13 +101,13 @@
 <!ENTITY accountManagerCmd.label "Tetapan Akaun Mel &amp; Kumpulan berita…">
 <!ENTITY accountManagerCmd.accesskey "M">
 <!ENTITY undoDeleteMsgCmd.label "Batal Membuang Mesej">
-<!ENTITY redoDeleteMsgCmd.label "Ulang Membuang Mesej">
+<!ENTITY redoDeleteMsgCmd.label "Ulang Buang Mesej">
 <!ENTITY undoMoveMsgCmd.label "Batal Memindahkan Mesej">
-<!ENTITY redoMoveMsgCmd.label "Uang Memindahkan Mesej">
+<!ENTITY redoMoveMsgCmd.label "Ulang Pindah Mesej">
 <!ENTITY undoCopyMsgCmd.label "Batal Menyalin Mesej">
-<!ENTITY redoCopyMsgCmd.label "Ulang Menyalin Mesej">
+<!ENTITY redoCopyMsgCmd.label "Ulang Salin Mesej">
 <!ENTITY undoMarkAllCmd.label "Batal Semua Tanda Sudah Dibaca">
-<!ENTITY redoMarkAllCmd.label "Ulang Semua Tanda Sudah Dibaca">
+<!ENTITY redoMarkAllCmd.label "Ulang Tanda Semua Sudah Dibaca">
 <!ENTITY undoDefaultCmd.label "Batal">
 <!ENTITY redoDefaultCmd.label "Ulang">
 
