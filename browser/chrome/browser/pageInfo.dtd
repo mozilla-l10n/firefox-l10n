@@ -21,7 +21,7 @@
 <!ENTITY  generalMode           "Mod Jadikan:">
 <!ENTITY  generalSize           "Saiz:">
 <!ENTITY  generalReferrer       "Merujuk URL:">
-<!ENTITY  generalSource         "sumber disorok:">
+<!ENTITY  generalSource         "Sumber Cache:">
 <!ENTITY  generalModified       "Diubahsuai:">
 <!ENTITY  generalEncoding2      "Pengekodan Teks:">
 <!ENTITY  generalMetaName       "Nama">
