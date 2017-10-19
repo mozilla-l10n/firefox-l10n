@@ -146,12 +146,12 @@
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Lingua">
 <!ENTITY pref_category_language_summary "Cambiar le lingua de tu navigator">
-<!ENTITY pref_browser_locale "Idioma del Navigator">
+<!ENTITY pref_browser_locale "Lingua del navigator">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "Predefinition de systema">
+<!ENTITY locale_system_default "Valor predefinite per le systema">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -161,34 +161,34 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Marcapaginas">
+<!ENTITY overlay_share_bookmark_btn_label "Adder marcapaginas">
 <!ENTITY overlay_share_bookmark_btn_label_already "Marcapaginas ja addite">
-<!ENTITY overlay_share_send_other "Inviar a apparatos altere">
+<!ENTITY overlay_share_send_other "Inviar a altere apparatos">
 
 <!ENTITY overlay_share_open_browser_btn_label "Aperir in &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Inviar a altere apparato">
+<!ENTITY overlay_share_send_tab_btn_label "Inviar a un altere apparato">
 <!ENTITY overlay_share_no_url "Nulle ligamine trovate in iste compartimento">
-<!ENTITY overlay_share_select_device "Seliger apparato">
+<!ENTITY overlay_share_select_device "Selectionar le apparato">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Nulle apparatos trovate connectite al conto de Firefox">
+<!ENTITY overlay_no_synced_devices "Nulle apparatos connectite al conto Firefox ha essite trovate">
 
-<!ENTITY pref_category_search3 "Recercar">
-<!ENTITY pref_category_search_summary2 "Adder, instaurar predefinite, monstrar suggestiones">
+<!ENTITY pref_category_search3 "Recerca">
+<!ENTITY pref_category_search_summary2 "Adder, predefinir, monstrar le suggestiones">
 <!ENTITY pref_category_accessibility "Accessibilitate">
-<!ENTITY pref_category_accessibility_summary2 "Mesura del texto, augmento, immission de voce">
+<!ENTITY pref_category_accessibility_summary2 "Dimension del texto, zoom, entrata de voce">
 <!ENTITY pref_category_privacy_short "Confidentialitate">
-<!ENTITY pref_category_privacy_summary4 "Traciamento, authenticationes, selectiones de datos">
+<!ENTITY pref_category_privacy_summary4 "Traciamento, authenticationes, electiones de datos">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Super &brandShortName;, FAQs, commentos">
-<!ENTITY pref_category_datareporting "Selectiones de datos">
+<!ENTITY pref_category_vendor_summary2 "A proposito de &brandShortName;, FAQs, opinion">
+<!ENTITY pref_category_datareporting "Electiones de datos">
 <!ENTITY pref_category_logins "Authenticationes">
-<!ENTITY pref_learn_more "Apprender plus">
+<!ENTITY pref_learn_more "Saper plus">
 <!ENTITY pref_category_installed_search_engines "Motores de recerca installate">
 <!ENTITY pref_category_add_search_providers "Adder plus provideres de recerca">
 <!ENTITY pref_category_search_restore_defaults "Restaurar motores de recerca">
