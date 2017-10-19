@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  security.label                 "Taγellist">
+<!ENTITY  security.label                 "Taɣellist">
 
 <!ENTITY  warnOnAddonInstall2.label       "Lɣu ticki ismal ttaɛraḍen ad sbedden izegrar">
 <!ENTITY  warnOnAddonInstall2.accesskey   "B">
@@ -12,14 +12,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
-<!ENTITY  browsingProtection.label        "Ammesten mgal agbur n ukellex u d aseγẓan n ddir">
+<!ENTITY  browsingProtection.label        "Ammesten mgal agbur n ukellex u d aseɣẓan n ddir">
 <!ENTITY  enableSafeBrowsing.label        "Sewḥel yir agbur neɣ win iweɛṛen">
 <!ENTITY  enableSafeBrowsing.accesskey    "S">
 
 <!ENTITY  blockDownloads.label            "Sewḥel yir asider">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonAndUnwanted.label     "Lɣu-yi-d ɣef iseɣẓanen ur nelhi ara akked wid ur bɣiɣ ara ">
+<!ENTITY  blockUncommonAndUnwanted.label     "Lɣu-yid ɣef iseɣẓanen ur nelhi ara akked wid ur bɣiɣ ara">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "ẓ">
 
 <!ENTITY  addonExceptions.label         "Tisuraf…">
@@ -28,7 +28,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Tiferka &amp; akked awalen uffiren">
 
-<!ENTITY  rememberLogins2.label         "Cfu γef unekcum neγ awal uffir i yismal web">
+<!ENTITY  rememberLogins2.label         "Cfu ɣef unekcum neɣ awal uffir i yismal web">
 <!ENTITY  rememberLogins2.accesskey     "Z">
 <!ENTITY  passwordExceptions.label      "Tisuraf…">
 <!ENTITY  passwordExceptions.accesskey  "r">
