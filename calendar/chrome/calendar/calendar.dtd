@@ -164,7 +164,7 @@
 <!ENTITY calendar.context.newtodo.accesskey           "з">
 <!ENTITY calendar.context.deletetask.label            "Изтриване на задача">
 <!ENTITY calendar.context.deletetask.accesskey        "з">
-<!ENTITY calendar.context.deleteevent.label           "Изтриване на събитие">
+<!ENTITY calendar.context.deleteevent.label           "Изтриване на събитието">
 <!ENTITY calendar.context.deleteevent.accesskey       "з">
 <!ENTITY calendar.context.cutevent.label              "Изрязване">
 <!ENTITY calendar.context.cutevent.accesskey          "И">
