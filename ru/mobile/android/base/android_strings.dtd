@@ -836,7 +836,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Популярное">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Начните веб-сёрфинг, и мы покажем вам здесь некоторые из замечательных статей, видеороликов и других страниц, которые вы недавно посетили или добавили в закладки.">
+<!ENTITY activity_stream_highlights_empty "Начните веб-сёрфинг, и мы покажем вам здесь некоторые из интересных статей, видеороликов и других страниц, которые вы недавно посетили или добавили в закладки.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -844,9 +844,9 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Удалить">
 <!ENTITY activity_stream_delete_history "Удалить из истории">
 
-<!ENTITY private_tab_panel_title "Приватный просмотр и Защита от отслеживания">
+<!ENTITY private_tab_panel_title "Приватный просмотр с защитой от отслеживания">
 <!ENTITY private_tab_panel_description "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
-<!ENTITY private_tab_panel_description2 "Мы не будет запоминать ничего из истории, но загруженные файлы и новые закладки будут сохранены на вашем устройстве.">
+<!ENTITY private_tab_panel_description2 "Мы не будем запоминать историю, но загруженные файлы и новые закладки будут сохранены на вашем устройстве.">
 <!ENTITY private_tab_learn_more "Хотите узнать больше?">
 
 <!ENTITY fullscreen_warning "Переход в полноэкранный режим">
