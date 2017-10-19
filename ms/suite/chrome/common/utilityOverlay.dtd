@@ -25,7 +25,7 @@
 <!ENTITY newPrivateWindowCmd.label "Tetingkap Peribadi">
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "T">
-<!ENTITY printSetupCmd.label "Tetapan Halaman…">
+<!ENTITY printSetupCmd.label "Penetapan Halaman…">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -38,7 +38,7 @@
 <!ENTITY undoCmd.label                    "Batal">
 <!ENTITY undoCmd.key                      "Z">
 <!ENTITY undoCmd.accesskey                "B">
-<!ENTITY redoCmd.label                    "Buat semula">
+<!ENTITY redoCmd.label                    "Ulang">
 <!ENTITY redoCmd.key                      "Y">
 <!ENTITY redoCmd.accesskey                "B">
 <!ENTITY cutCmd.label                     "Potong">
