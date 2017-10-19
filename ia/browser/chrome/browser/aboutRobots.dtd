@@ -10,11 +10,20 @@
 <!-- Nonsense line from the movie "The Day The Earth Stood Still". No translation needed. -->
 <!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
+<!ENTITY robots.errorTitleText "Salute, humanos!">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
+<!ENTITY robots.errorShortDescText "Nos ha venite pro visitar te in pace e con bon voler!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
+<!ENTITY robots.errorLongDesc1 "Un robot non pote nocer un esser human o, per inaction, permitter que un esser human sia nocite.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
+<!ENTITY robots.errorLongDesc2 "Le robots ha vidite cosas que vos, le humanos, non poterea creder.">
 <!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
+<!ENTITY robots.errorLongDesc3 "Le robots es le amicos de plasticos con le quales es amusante de esser.">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
+<!ENTITY robots.errorLongDesc4 "Le robots ha culos metallic brillante que non debe esser mordite.">
 <!-- TV: Battlestar Galactica (2004 series). From the opening text. -->
+<!ENTITY robots.errorTrailerDescText "E illes ha un plan.">
 <!-- TV: Battlestar Galactica (2004 series). Common expletive referring to Cylons. -->
+<!ENTITY robots.imgtitle "Tostapanes maledicte">
 <!-- Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
+<!ENTITY robots.dontpress "Per favor non preme iste button novemente.">
