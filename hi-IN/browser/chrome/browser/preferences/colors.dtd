@@ -6,6 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors2.label       "पृष्ठ द्वारा निर्दिष्ट रंगों को अपने उपरोक्त चयन के साथ अधिरोहित करें">
 <!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "हमेशा">

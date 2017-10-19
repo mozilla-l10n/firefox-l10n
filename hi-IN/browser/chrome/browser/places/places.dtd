@@ -86,6 +86,7 @@
 <!ENTITY col.lastmodified.label  "अंतिम रूपांतरित">
 
 <!ENTITY historySearch.placeholder  "खोज इतिहास">
+<!ENTITY bookmarksSearch.placeholder  "पुस्तचिह्न खोजें">
 
 <!ENTITY cmd.find.key  "f">
 
