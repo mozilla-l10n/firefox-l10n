@@ -21,4 +21,4 @@
 <!ENTITY cmd.clearList.accesskey                   "l">
 <!ENTITY cmd.clearList.tooltip                     "Supprimer toutes les entrées de la liste des fichiers enregistrés, à l’exception des téléchargements en cours.">
 <!ENTITY cmd.searchDownloads.label                 "Rechercher…">
-<!ENTITY cmd.searchDownloads.key                   "c">
+<!ENTITY cmd.searchDownloads.key                   "F">
