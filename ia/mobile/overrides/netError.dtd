@@ -111,7 +111,8 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY cspBlocked.title "Blocate per le regulas de securitate del contento">
+<!ENTITY cspBlocked.title "Blocate per le politica de securitate de contento">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediva iste pagina de cargar in iste maniera proque le pagina ha un politica de securitate de contento que non lo permitte.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 

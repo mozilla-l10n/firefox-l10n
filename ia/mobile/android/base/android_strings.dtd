@@ -4,9 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "Benvenite">
 <!ENTITY firstrun_urlbar_message2 "Gratias pro eliger &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext2 "Un navigator mobile moderne de Mozilla, le organisation de si propositos lucrative compromittite a un web libere e aperite.">
-<!ENTITY firstrun_panel_title_privacy "Privacitate">
-<!ENTITY firstrun_privacy_message "Naviga sin sentir se observate">
+<!ENTITY firstrun_urlbar_subtext2 "Un navigator mobile moderne de Mozilla, le organisation sin fines de lucro compromittite a un web libere e aperite.">
+<!ENTITY firstrun_panel_title_privacy "Confidentialitate">
+<!ENTITY firstrun_privacy_message "Naviga sin sentir te observate">
 <!ENTITY firstrun_privacy_subtext "Le navigation private con protection contra traciamento bloca traciatores durante que tu naviga e non memorara tu chronologia quando tu termina de navigar.">
 <!ENTITY firstrun_panel_title_customize "Personalisar">
 <!ENTITY firstrun_customize_message "Facer &brandShortName; tue.">
@@ -59,7 +59,7 @@
 <!ENTITY  crash_message2 "&brandShortName; ha tenite un problema e ha fallite. Tu schedas deberea ser listate in le pagina de initio de &brandShortName; quando tu se reinitia.">
 <!ENTITY  crash_send_report_message3 "Avisar &vendorShortName; super iste fracasso pro que illes pote lo corriger">
 <!ENTITY  crash_include_url2 "Includer le direction del pagina in qual io era">
-<!ENTITY  crash_sorry "Nos disculpa">
+<!ENTITY  crash_sorry "Nos regretta">
 <!ENTITY  crash_comment "Adder un commento (le commentos son visibile publicamente)">
 <!ENTITY  crash_allow_contact2 "Permittir &vendorShortName; me continger super iste reporto">
 <!ENTITY  crash_email "Tu email">
