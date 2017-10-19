@@ -100,7 +100,7 @@
 <!ENTITY  event.menu.edit.accesskey                       "E">
 <!ENTITY  event.menu.edit.undo.label                      "Batal">
 <!ENTITY  event.menu.edit.undo.accesskey                  "B">
-<!ENTITY  event.menu.edit.redo.label                      "Buat semula">
+<!ENTITY  event.menu.edit.redo.label                      "Ulang">
 <!ENTITY  event.menu.edit.redo.accesskey                  "B">
 <!ENTITY  event.menu.edit.cut.label                       "Potong">
 <!ENTITY  event.menu.edit.cut.accesskey                   "t">

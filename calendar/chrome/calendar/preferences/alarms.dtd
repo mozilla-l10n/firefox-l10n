@@ -14,7 +14,7 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "p">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Cari…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "C">
-<!ENTITY pref.calendar.alarms.sound.play.label "Mainkan">
+<!ENTITY pref.calendar.alarms.sound.play.label "Main">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "M">
 <!ENTITY pref.showalarmbox "Paparkan dialog peringatan">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "d">
