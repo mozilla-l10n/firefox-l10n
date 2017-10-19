@@ -22,7 +22,7 @@
 <!ENTITY  reloadTab.label                    "Oppdater fane">
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Oppdater alle faner">
-<!ENTITY  reloadAllTabs.accesskey            "a">
+<!ENTITY  reloadAllTabs.accesskey            "d">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Dupliser fane">
@@ -52,7 +52,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "e">
 <!ENTITY  sendToDeviceFeedback.label         "Sendt!">
 <!ENTITY  moveToNewWindow.label              "Flytt til eit nytt vindauge">
-<!ENTITY  moveToNewWindow.accesskey          "t">
+<!ENTITY  moveToNewWindow.accesskey          "F">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner…">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  undoCloseTab.label                 "Angre attlating av fane">
