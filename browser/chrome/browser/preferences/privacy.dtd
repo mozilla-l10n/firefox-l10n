@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "사생활 보호 창에서 추적 방지 사용">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "사생활 보호 모드에서 추적 방지를 사용해 알려진 추적기관을 차단">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "자세히 보기">
@@ -46,7 +47,7 @@
 
 <!ENTITY  suggestionSettings2.label     "검색 엔진 추천 설정 변경">
 
-<!ENTITY  acceptCookies2.label          "웹사이트의 쿠기 허용">
+<!ENTITY  acceptCookies2.label          "웹사이트의 쿠키 허용">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty2.pre.label     "제3자 쿠키 허용">
