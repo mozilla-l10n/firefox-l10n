@@ -43,7 +43,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul>
   <li>Mungkin telah dialih keluar, dipindahkan, atau kebenaran fail mungkin menghalang akses.</li> </ul>">
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "Maaf.">
 <!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuat halaman ini atas beberapa alasan.</p>">
 
 <!ENTITY malformedURI.title "Alamat ini tidak sah">
