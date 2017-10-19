@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label          "Cetak">
+<!ENTITY print.label          "Cetak…">
 <!ENTITY print.accesskey      "C">
-<!ENTITY pageSetup.label      "Tatacara Halaman…">
+<!ENTITY pageSetup.label      "Penetapan Halaman…">
 <!ENTITY pageSetup.accesskey  "T">
 <!ENTITY page.label           "Halaman:">
 <!ENTITY page.accesskey       "a">
@@ -39,5 +39,5 @@
 
 <!ENTITY homearrow.tooltip    "Laman Pertama">
 <!ENTITY endarrow.tooltip     "Laman Terakhir">
-<!ENTITY nextarrow.tooltip    "Muka seterusnya">
+<!ENTITY nextarrow.tooltip    "Halaman berikut">
 <!ENTITY previousarrow.tooltip "Halaman dahulu">

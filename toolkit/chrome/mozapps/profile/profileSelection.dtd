@@ -16,7 +16,7 @@
 
 <!ENTITY            newButton.label        "Mencipta Profil…">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Menamakan Profil…">
+<!ENTITY            renameButton.label     "Namakan semula Profil…">
 <!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "Buang Profil…">
 <!ENTITY            deleteButton.accesskey "B">

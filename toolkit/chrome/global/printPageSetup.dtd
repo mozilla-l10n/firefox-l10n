@@ -57,8 +57,8 @@
 <!ENTITY hfTitle             "Tajuk">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "Tarikh/Masa">
-<!ENTITY hfPage              "Laman #">
-<!ENTITY hfPageAndTotal      "Laman # daripada #">
+<!ENTITY hfPage              "Halaman #">
+<!ENTITY hfPageAndTotal      "Halaman # daripada #">
 <!ENTITY hfBlank             "--kosong--">
 <!ENTITY hfCustom            "Adat...">
 

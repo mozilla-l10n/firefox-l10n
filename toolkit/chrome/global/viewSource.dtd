@@ -14,14 +14,14 @@
 
 <!ENTITY fileMenu.label "Fail">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Simpan Halaman Sebagai...">
+<!ENTITY savePageCmd.label "Simpan Halaman Sebagai…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Tatacara Halaman…">
+<!ENTITY pageSetupCmd.label "Penetapan Halaman…">
 <!ENTITY pageSetupCmd.accesskey "c">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Cetak">
+<!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "a">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Tutup">
@@ -74,7 +74,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Undur">
-<!ENTITY backCmd.accesskey "B">
+<!ENTITY backCmd.accesskey "U">
 <!ENTITY forwardCmd.label "Maju">
 <!ENTITY forwardCmd.accesskey "M">
 <!ENTITY goBackCmd.commandKey "[">

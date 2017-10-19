@@ -43,7 +43,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Menjana Kucni Peribadi">
 <!ENTITY createCertInfo.msg1 "Penjanaan Kunci sedang dilakukan... Ini akan mengambil sedikit masa...">
-<!ENTITY createCertInfo.msg2 "Sila tunggu...">
+<!ENTITY createCertInfo.msg2 "Sila tunggu…">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Token pengesahan dilindungi">
