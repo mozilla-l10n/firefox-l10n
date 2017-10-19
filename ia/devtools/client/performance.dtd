@@ -52,7 +52,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-<!ENTITY performanceUI.table.totalDuration            "Tempore Total">
+<!ENTITY performanceUI.table.totalDuration            "Tempore total">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "Le quantitate de tempore expendite in iste function e in le functiones que illo appella.">
 <!ENTITY performanceUI.table.selfDuration             "Durata individual">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "Le quantitate de tempore expendite solmente intra iste function.">
