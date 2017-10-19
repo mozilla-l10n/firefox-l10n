@@ -10,7 +10,7 @@
 <!ENTITY aboutNetworking.sockets               "Soket">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSocket">
-<!ENTITY aboutNetworking.refresh               "Segarkan">
+<!ENTITY aboutNetworking.refresh               "Muat semula">
 <!ENTITY aboutNetworking.autoRefresh           "Segarkan secara automatik setiap 3 saat">
 <!ENTITY aboutNetworking.hostname              "Nama hos">
 <!ENTITY aboutNetworking.port                  "Port">

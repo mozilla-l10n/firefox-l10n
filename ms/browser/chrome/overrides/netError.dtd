@@ -45,7 +45,7 @@
 </ul>
 ">
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "Maaf.">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; tidak dapat memuat halaman ini atas beberapa alasan.</p>
 ">
@@ -103,7 +103,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Semak tetapan proksi untuk memastikan tetapan itu betul.</li>
-  <li>Hubungi pentadbir rangkaian anda untuk memastikan pelayan proksi
+  <li>Hubungi pentadbir rangkaian untuk memastikan bahawa pelayan proksi
     berfungsi.</li>
 </ul>
 ">

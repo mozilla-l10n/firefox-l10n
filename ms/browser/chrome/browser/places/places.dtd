@@ -38,7 +38,7 @@
 <!ENTITY cmd.backup.accesskey           "n">
 <!ENTITY cmd.restore2.label             "Pulih">
 <!ENTITY cmd.restore2.accesskey         "P">
-<!ENTITY cmd.restoreFromFile.label      "Pilih Fail...">
+<!ENTITY cmd.restoreFromFile.label      "Pilih Fail…">
 <!ENTITY cmd.restoreFromFile.accesskey  "F">
 
 <!ENTITY cmd.deleteDomainData.label     "Lupakan Laman Ini">

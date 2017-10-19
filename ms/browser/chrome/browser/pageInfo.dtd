@@ -18,9 +18,9 @@
 <!ENTITY  generalTitle          "Tajuk:">
 <!ENTITY  generalURL            "Alamat:">
 <!ENTITY  generalType           "Jenis:">
-<!ENTITY  generalMode           "Mod Jadikan:">
+<!ENTITY  generalMode           "Mod Penghuraian:">
 <!ENTITY  generalSize           "Saiz:">
-<!ENTITY  generalReferrer       "Merujuk URL:">
+<!ENTITY  generalReferrer       "URL Perujuk:">
 <!ENTITY  generalSource         "Sumber Cache:">
 <!ENTITY  generalModified       "Diubahsuai:">
 <!ENTITY  generalEncoding2      "Pengekodan Teks:">
@@ -39,8 +39,8 @@
 <!ENTITY  mediaDimension        "Dimensi-dimensi:">
 <!ENTITY  mediaLongdesc         "Perihal secara panjang lebar:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Simpan Sebagai...">
-<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs           "Simpan Sebagai…">
+<!ENTITY  mediaSaveAs.accesskey "S">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Previu Media:">
 
@@ -75,7 +75,7 @@
 <!ENTITY  securityView.identity.verifier "Disahkan oleh:">
 <!ENTITY  securityView.identity.validity "Luput pada:">
 
-<!ENTITY  securityView.privacy.header                   "Peribadi &amp; Sejarah">
+<!ENTITY  securityView.privacy.header                   "Privasi &amp; Sejarah">
 <!ENTITY  securityView.privacy.history                  "Adakah saya pernah lawati laman web ini sebelum ini?">
 <!ENTITY  securityView.privacy.cookies                  "Adakah laman web ini menyimpan maklumat (kuki) pada komputer saya?">
 <!ENTITY  securityView.privacy.viewCookies              "Papar Cookies">

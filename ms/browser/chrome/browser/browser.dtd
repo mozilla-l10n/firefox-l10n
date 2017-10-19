@@ -126,7 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Daftar masuk ke &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Buka &syncBrand.shortName.label; keutamaan">
+<!ENTITY fxaSignedIn.tooltip "Buka Keutamaan &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Sambung semula ke &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Sahkan Akaun Anda">
 
@@ -300,7 +300,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.label            "Batal">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "B">
-<!ENTITY redoCmd.label            "Buat semula">
+<!ENTITY redoCmd.label            "Ulang">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "m">
 <!ENTITY cutCmd.label           "Potong">
@@ -757,7 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; telah menyekat sebahagian halaman ini yang tidak selamat.">
-<!ENTITY identity.passiveLoaded "Sebahagian daripada halaman ini tidak selamat (seperti imej).">
+<!ENTITY identity.passiveLoaded "Sebahagian halaman ini tidak selamat (contohnya imej).">
 <!ENTITY identity.activeLoaded "Anda telah menyahdayakan perlindungan untuk halaman ini.">
 <!ENTITY identity.weakEncryption "Halaman ini menggunakan enkripsi yang lemah.">
 
@@ -801,7 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Tiada tab terbuka">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Buka &syncBrand.shortName.label; Keutamaan">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Buka Keutamaan &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.">
