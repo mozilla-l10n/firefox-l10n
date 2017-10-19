@@ -157,6 +157,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediva iste pagina de cargar in iste maniera proque le pagina ha un politica de securitate de contento que non lo permitte.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta de vider non pote ser monstrate, proque un error in le transmission de datos era detegite.</p><ul><li>Per favor, contacta le proprietarios del sito pro les avisar re iste problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O tu pote adder un exception…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Porta me foras de hic!">
@@ -167,8 +168,10 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
+<!ENTITY securityOverride.warningContent "<p>Tu non deberea adder un exception si tu usa un connexion a Internet que tu non fide completemente o si tu nonsole vider un advertimento pro iste servitor.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL remote">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Per favor contacta le domino del sito Web pro le informar de iste problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Incapace de connecter se securmente">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
@@ -183,3 +186,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Tu connexion non es secur">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa technologia de securitate que es obsolete e es vulnerabile a attaccos. Un attaccator poterea revelar facilemente informationes que tu pensava esser secur. Le administrator del sito web besoniara corriger le servitor ante que tu pote visitar le sito.</p><p>Codice error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
