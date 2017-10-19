@@ -48,7 +48,7 @@
 <!ENTITY language2.label              "Lingua">
 <!ENTITY chooseLanguage.label         "Elige tu lingua preferite pro presentar le paginas">
 <!ENTITY chooseButton.label           "Eliger…">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY chooseButton.accesskey       "E">
 
 <!ENTITY translateWebPages.label      "Traducer le contento web">
 <!ENTITY translateWebPages.accesskey  "T">

@@ -27,7 +27,7 @@
 <!ENTITY saveTo.label "Salvar le files in">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Perquirer…">
-<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Eliger…">
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAskWhere.label         "Sempre questionar te ubi salvar le files">

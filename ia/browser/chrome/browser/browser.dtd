@@ -955,7 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.header.message "Un nove actualisation de &brandShorterName; es disponibile.">
 <!ENTITY updateAvailable.acceptButton.label "Discargar actualisation">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "Plus tarde">
+<!ENTITY updateAvailable.cancelButton.label "Non ora">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Discargar actualisation de &brandShorterName;">
 
@@ -964,7 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.header.message "&brandShorterName; non pote actualisar al ultime version.">
 <!ENTITY updateManual.acceptButton.label "Discargar &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "Plus tarde">
+<!ENTITY updateManual.cancelButton.label "Non ora">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Discargar un nove copia de &brandShorterName;">
 
@@ -972,7 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.header.message2 "Reinitiar pro actualisar &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reinitiar e Restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "Plus tarde">
+<!ENTITY updateRestart.cancelButton.label "Non ora">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reinitiar pro actualisar &brandShorterName;">
 
