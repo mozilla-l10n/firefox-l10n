@@ -47,7 +47,7 @@ available. -->
 
 <!ENTITY connectionDesc.label            "Konfigur cara &brandShortName; menyambung ke Internet">
 <!ENTITY connectionSettings.label        "Tetapan…">
-<!ENTITY connectionSettings.accesskey    "U">
+<!ENTITY connectionSettings.accesskey    "t">
 
 <!ENTITY httpCache.label                 "Cache Kandungan Web">
 
