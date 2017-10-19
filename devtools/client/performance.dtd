@@ -39,6 +39,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "إجمالي الوقت">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "الوقت المستغرق في هذه الدالة فقط.">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "النسبة المئوية للوقت المستغرق في هذه الدالة وما تستدعيه من دوال.">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "النسبة المئوية للوقت المستغرق في هذه الدالة فقط.">
 <!ENTITY performanceUI.table.samples                  "أمثلة">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
@@ -87,3 +90,5 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+<!ENTITY performanceUI.console.stopCommandStart "أوقِف التسجيل بإدخال">
+<!ENTITY performanceUI.console.stopCommandEnd   "في المعراض.">

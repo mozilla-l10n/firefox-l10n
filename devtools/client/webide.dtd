@@ -108,6 +108,7 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB‏ جذر: ">
 <!ENTITY runtimedetails_ADBRootWarning "(يحتاج محمل إقلاع مُزال قفله)">
 <!ENTITY runtimedetails_requestPrivileges "يحتاج امتيازات أعلى">
+<!ENTITY runtimedetails_privilegesWarning "(سيُعيد إقلاع الجهاز. يطلب تصاريح الجذر.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "عدد منطقي">
@@ -137,6 +138,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "تعريف العميل">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!ENTITY wifi_auth_scan_request "نقطة النهاية التي تحاول الاتصال بها تحتاج المزيد من المعلومات لاستيثاق الاتصال.  من فضلك امسح رمز QR أدناه ضوئيا عبر الطلب الموجود في الجهاز الآخر.">
@@ -149,5 +151,6 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "إن سأل الجهاز الآخر عن رمز بدل مسح رمز QR ضوئيا، فمن فضلك انسخ القيمة أدناه إلى الجهاز الآخر:">
+<!ENTITY wifi_auth_qr_size_note "إن بدا رمز QR صغيرا جدا لإجراء الاتصال بنجاح، جرّب تقريب المنظور أو تكبير النافذة.">
 
 <!-- Logs panel -->
