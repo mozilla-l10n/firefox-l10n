@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY trackingProtectionHeader2.label "Ochrona przed śledzeniem">
-<!ENTITY trackingProtection2.description "Śledzenie to zbieranie informacji o Twoim przeglądaniu na wielu różnych stronach. Śledzenie jest używane do profilowania użytkowników i wyświetlania treści na podstawie Twojego przeglądania i osobistych danych.">
+<!ENTITY trackingProtection2.description "Śledzenie to zbieranie informacji o Twoim przeglądaniu na wielu różnych stronach. Śledzenie jest używane do profilowania użytkowników i wyświetlania treści na podstawie Twojego przeglądania i danych osobistych.">
 <!ENTITY trackingProtection2.radioGroupLabel "Chroń przed śledzeniem przez znane elementy śledzące:">
 <!ENTITY trackingProtectionAlways.label "Zawsze">
 <!ENTITY trackingProtectionAlways.accesskey "">
