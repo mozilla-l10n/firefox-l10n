@@ -134,15 +134,26 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Alamisha">
 <!ENTITY overlay_share_bookmark_btn_label_already "Tayari imewekwa alama">
+<!ENTITY overlay_share_send_other "Tuma kwenye vifaa vingine">
 
+<!ENTITY overlay_share_open_browser_btn_label "Fungua na &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Tuma kwenye kifaa kingine">
+<!ENTITY overlay_share_no_url "Hakuna kiungo kilichopatikana katika sehemu hii">
+<!ENTITY overlay_share_select_device "Chagua kifaa">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 
+<!ENTITY pref_category_search3 "Tafuta">
+<!ENTITY pref_category_privacy_short "Faragha">
+<!ENTITY pref_learn_more "Jifunze zaidi">
+<!ENTITY pref_category_installed_search_engines "Mitambo ya utafutaji iliyowekwa">
+<!ENTITY pref_category_add_search_providers "Ongeza mitambo ya utafutaji zaidi">
+<!ENTITY pref_category_search_restore_defaults "Rejesha injini za utafutaji">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -152,6 +163,10 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_notifications "Arifa">
+<!ENTITY pref_category_notifications_summary "Vipengele vipya, sasisho za tovuti">
+<!ENTITY pref_remember_signons2 "Kumbuka kuingia">
+<!ENTITY pref_manage_logins "Dhibiti kuingia">
 
 <!ENTITY pref_category_home "Maskani">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
@@ -170,6 +185,10 @@
      text field. -->
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_search "Tafuta">
+<!ENTITY pref_header_privacy_short "Faragha">
+<!ENTITY pref_header_accessibility "Ufikiaji">
+<!ENTITY pref_header_help "Usaidizi">
 
 <!ENTITY pref_cookies_menu "Vidakuzi">
 

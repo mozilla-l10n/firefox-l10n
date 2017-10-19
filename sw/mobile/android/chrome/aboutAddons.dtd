@@ -3,10 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "Vifaa vya nyongeza">
-
-<!ENTITY aboutAddons.options                    "Chaguo">
+<!ENTITY aboutAddons.header2                    "Vidokezo vyako">
 
 <!ENTITY addonAction.enable                     "Wezesha">
 <!ENTITY addonAction.disable                    "Lemaza">
-
+<!ENTITY addonAction.uninstall                  "Futa">
 <!ENTITY addonAction.undo                       "Fanyua">
+<!ENTITY addonAction.update                     "Sasisha">
+
+<!ENTITY addonUnsigned.message                  "Kidokezo hiki haikuweza kuthibitishwa na &brandShortName;.">
+<!ENTITY addonUnsigned.learnMore                "Jifunze zaidi">

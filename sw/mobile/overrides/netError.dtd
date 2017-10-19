@@ -7,11 +7,10 @@
 
 <!ENTITY loadError.label "Tatizo katika kupakia ukurasa">
 <!ENTITY retry.label "Jaribu Tena">
+
 <!-- Specific error messages -->
 
-
 <!ENTITY connectionFailure.title "Imeshindwa kuunganisha">
-
 
 <!ENTITY deniedPortAccess.title "Anwani hii imezuiliwa">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -26,6 +25,7 @@
 <li>Kaguo kuona kama faili iliondolewa, imepewa jina upya au kufutwa.</li> 
 </ul>">
 
+<!ENTITY fileAccessDenied.title "Upatikanaji wa faili imekataliwa">
 
 <!ENTITY generic.title "Lo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; haiwezi kupakia ukurasa huu kwa sababu fulani.</p>">
@@ -36,25 +36,25 @@
 
 <!ENTITY netInterrupt.title "Muunganisho ulisitishwa">
 
-
+<!ENTITY notCached.title "Hati imekwisha muda">
 <!ENTITY notCached.longDesc "<p>Waraka ulioombwa haupatikani katika &brandShortName; kache. .</p><ul><li>Kama hadhari ya usalama, &brandShortName; haiombi tena kiotomatiki nyaraka zenye hisia.</li><li>Bofya Jaribu Tena ili kuomba tena waraka kutoka kwa wavuti.</li></ul>">
 
 <!ENTITY netOffline.title "Modi ya nje ya mtandao">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY contentEncodingError.title "Hitilafu ya Kuandika ya Maudhui">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Tafadhali wasiliana na wamiliki wa tovuti kuwajulisha kuhusu shida hii.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Aina ya Faili Isiyo Salama">
 
-
 <!ENTITY netReset.title "Muungano umewekwa upya">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Wakati wa muungano umekwisha">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Anwani haikueleweka">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -85,7 +85,7 @@ vidukizo.</li>
 <li>Hii yaweza kusababishwa na usanidi usio sanifu kwenye sava.</li> 
 </ul>">
 
-
+<!ENTITY nssFailure2.title "Uunganisho Salama Imeshindikana">
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -94,23 +94,22 @@ mtu anayejaribu kuiga sava.</li>
 <li>Kama umefanikiwa kuunganishwa kwa sava hii hapo awali, kosa laweza kuwa 
 la muda tu, na unaweza kujaribu tena baadaye.</li> 
 </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY cspBlocked.title "Imezuiliwa na Sera ya Usalama wa Maudhui">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; imzuia ukurasa huu kupakiwa kwa njia hii kwa sababu ukurasa una sera ya usalama wa maudhui ambayo haiiruhusu.</p>">
 
-<!ENTITY corruptedContentError.title "Kosa la Kuharibika kwa Maudhui">
-<!ENTITY corruptedContentError.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.</p><ul><li>Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Au unaweza kuongeza jambo la pekee...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Niondoe hapa!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ongeza Jambo la pekee...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Unafaa kuongeza jambo la pekee kama unatumia muungano wa mtandao ambao huuamini kikamilifu au kama hujazoea kuona onyo kwa sava hii.</p> 
 
@@ -120,3 +119,16 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL ya Mbali">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tafadhali wasiliana na wamiliki wa tovuti ili kuwafahamisha juu ya tatizo hili.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Imeshindwa Kuunganisha Salama">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Maelezo ya Juu: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Unganisho lako sio salama">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Maelezo Zaidi: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Unganisho lako sio salama">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

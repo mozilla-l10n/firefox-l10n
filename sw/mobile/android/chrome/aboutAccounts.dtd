@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAccounts.connected.title "Akaunti za Firefox">
+<!ENTITY aboutAccounts.connected.description "Umeunganishwa kama">
+<!ENTITY aboutAccounts.syncPreferences.label "Gonga hapa kuangalia mipangilio ya Usawazishaji">
+
+<!ENTITY aboutAccounts.noConnection.title "Hakuna uunganisho wa intaneti">
+<!ENTITY aboutAccounts.retry.label "Jaribu tena">
+
+<!ENTITY aboutAccounts.restrictedError.title "Imezuiwa">
+<!ENTITY aboutAccounts.restrictedError.description "Huwezi kudhibiti Akaunti ya Firefox kutoka kwa profaili hii.">
