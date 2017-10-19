@@ -216,17 +216,101 @@
 <!ENTITY event.to.label                                   "Fin:" >
 <!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.to.label                                    "Fecha de fin:" >
+<!ENTITY task.to.accesskey                                "u">
+<!ENTITY task.status.label                                "Estado:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "Repetir:" >
+<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "Hasta:">
+<!ENTITY event.until.accesskey                            "B">
+<!ENTITY event.reminder.label                             "Recordatorio:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "Descripción:" >
+<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.attachments.label                          "Adjuntos:" >
+<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.menubutton.label               "Adjuntar">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Página web…">
+<!ENTITY event.attachments.url.accesskey                  "W">
+<!ENTITY event.attachments.popup.remove.label             "Eliminar" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.open.label               "Abrir" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.removeAll.label          "Eliminar Todo" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "E" >
+<!ENTITY event.attachments.popup.attachPage.label         "Adjuntar página web…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
+<!ENTITY event.url.label                                  "Enlace relacionado:" >
+<!ENTITY event.priority2.label                            "Prioridad:">
 
+<!ENTITY event.reminder.none.label                        "Sin recordatorio " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minutos antes" >
+<!ENTITY event.reminder.5minutes.before.label             "5 minutos antes" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minutos antes" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minutos antes" >
+<!ENTITY event.reminder.1hour.before.label                "1 hora antes" >
+<!ENTITY event.reminder.2hours.before.label               "2 horas antes" >
+<!ENTITY event.reminder.12hours.before.label              "12 horas antes" >
+<!ENTITY event.reminder.1day.before.label                 "1 día antes" >
+<!ENTITY event.reminder.2days.before.label                "2 días antes" >
+<!ENTITY event.reminder.1week.before.label                "1 semana antes" >
+<!ENTITY event.reminder.custom.label                      "Personalizar…" >
 
+<!ENTITY event.reminder.multiple.label                    "Recordatorios múltiples…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Hora como:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privacidad:">
 
 <!-- Recurrence dialog -->
+<!ENTITY recurrence.title.label                         "Editar recurrencia">
 
+<!ENTITY event.repeat.does.not.repeat.label             "No repetir">
+<!ENTITY event.repeat.daily.label                       "Diario">
+<!ENTITY event.repeat.weekly.label                      "Semanal">
+<!ENTITY event.repeat.every.weekday.label               "Cada día de la semana">
+<!ENTITY event.repeat.bi.weekly.label                   "Quincenal">
+<!ENTITY event.repeat.monthly.label                     "Mensual">
+<!ENTITY event.repeat.yearly.label                      "Anual">
+<!ENTITY event.repeat.custom.label                      "Personalizar…">
 
+<!ENTITY event.recurrence.pattern.label                 "Patrón de recurrencia">
+<!ENTITY event.recurrence.occurs.label                  "Repetir" >
+<!ENTITY event.recurrence.day.label                     "diario" >
+<!ENTITY event.recurrence.week.label                    "semanal" >
+<!ENTITY event.recurrence.month.label                   "mensual" >
+<!ENTITY event.recurrence.year.label                    "anual" >
 
+<!ENTITY event.recurrence.pattern.every.label           "Cada" >
+<!ENTITY repeat.units.days.both                         "Día(s)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Cada día de la semana" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Cada" >
+<!ENTITY repeat.units.weeks.both                        "Semana(s)" >
+<!ENTITY event.recurrence.on.label                      "En:" >
 
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Cada" >
+<!ENTITY repeat.units.months.both                       "Mes(es)" >
+<!ENTITY event.recurrence.monthly.every.label           "Cada" >
+<!ENTITY event.recurrence.monthly.first.label           "El primer">
+<!ENTITY event.recurrence.monthly.second.label          "El segundo">
+<!ENTITY event.recurrence.monthly.third.label           "El tercero">
+<!ENTITY event.recurrence.monthly.fourth.label          "El cuarto">
+<!ENTITY event.recurrence.monthly.fifth.label           "El quinto">
+<!ENTITY event.recurrence.monthly.last.label            "El último">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Domingo" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Lunes" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Martes" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Miércoles" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Jueves" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Viernes" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Sábado" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Día del mes">
+<!ENTITY event.recurrence.repeat.recur.label            "Repetir en día(s)">
 
+<!ENTITY event.recurrence.every.label                        "Cada:" >
+<!ENTITY repeat.units.years.both                             "Año(s)" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Cada" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -235,7 +319,37 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Enero" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Febrero" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Marzo" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Abril" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Mayo" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Junio" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Julio" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Agosto" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Septiembre" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Octubre" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Noviembre" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Diciembre" >
+<!ENTITY event.recurrence.yearly.every.label                 "Cada">
+<!ENTITY event.recurrence.yearly.first.label                 "El primero">
+<!ENTITY event.recurrence.yearly.second.label                "El segundo">
+<!ENTITY event.recurrence.yearly.third.label                 "El tercero">
+<!ENTITY event.recurrence.yearly.fourth.label                "El cuarto">
+<!ENTITY event.recurrence.yearly.fifth.label                 "El quinto">
+<!ENTITY event.recurrence.yearly.last.label                  "El último">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Domingo" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Lunes" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Martes" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Miércoles" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Jueves" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Viernes" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Sábado" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "día" >
+<!ENTITY event.recurrence.of.label                           "de" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Enero" >
 
 
 <!-- Attendees dialog -->
