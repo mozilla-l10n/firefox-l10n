@@ -125,7 +125,7 @@
 <!ENTITY undoDefaultCmd.label "Batal">
 <!ENTITY undoDefaultCmd.accesskey "B">
 <!ENTITY redoDefaultCmd.label "Ulang">
-<!ENTITY redoDefaultCmd.accesskey "B">
+<!ENTITY redoDefaultCmd.accesskey "U">
 
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Bar Menu">
