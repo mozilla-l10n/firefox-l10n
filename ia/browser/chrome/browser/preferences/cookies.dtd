@@ -4,7 +4,24 @@
 
 <!ENTITY window.width                       "36em">
 
+<!ENTITY     cookiesonsystem2.label         "Le cookies sequente es immagazinate in tu computator">
+<!ENTITY     cookiename.label               "Nomine del Cookie">
+<!ENTITY     cookiedomain.label             "Sito">
 
+<!ENTITY     props.name.label               "Nomine">
+<!ENTITY     props.value.label              "Contento:">
+<!ENTITY     props.domain.label             "Hoste:">
+<!ENTITY     props.path.label               "Percurso:">
+<!ENTITY     props.secure.label             "Inviar pro:">
+<!ENTITY     props.expires.label            "Expira:">
+<!ENTITY     props.container.label          "Contentor:">
 
+<!ENTITY     window.title                   "Cookies">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
 
+<!ENTITY     searchFilter.label             "Cercar">
+<!ENTITY     searchFilter.accesskey         "S">
 
+<!ENTITY     button.close.label             "Clauder">
+<!ENTITY     button.close.accesskey         "C">
