@@ -41,7 +41,7 @@
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Preferentias…">
-<!ENTITY preferencesCmdMac.commandkey   ".">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servicios">
 
