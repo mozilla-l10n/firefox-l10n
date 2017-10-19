@@ -83,7 +83,7 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Tetapan Halaman…">
+<!ENTITY printSetupCmd.label "Penetapan Halaman…">
 <!ENTITY printSetupCmd.accesskey "p">
 
 <!-- Edit Menu -->
@@ -115,16 +115,16 @@
 <!ENTITY folderPropsNewsgroupCmd2.label "Sifat Kumpulan berita">
 <!ENTITY folderPropsCmd.accesskey "u">
 <!ENTITY undoDeleteMsgCmd.label "Batal Membuang Mesej">
-<!ENTITY redoDeleteMsgCmd.label "Buang Semula Mesej">
+<!ENTITY redoDeleteMsgCmd.label "Ulang Buang Mesej">
 <!ENTITY undoMoveMsgCmd.label "Batal Memindahkan Mesej">
-<!ENTITY redoMoveMsgCmd.label "Pindah Semula Mesej">
+<!ENTITY redoMoveMsgCmd.label "Ulang Pindah Mesej">
 <!ENTITY undoCopyMsgCmd.label "Batal Menyalin Mesej">
-<!ENTITY redoCopyMsgCmd.label "Salin Semula Mesej">
+<!ENTITY redoCopyMsgCmd.label "Ulang Salin Mesej">
 <!ENTITY undoMarkAllCmd.label "Batal Semua Tanda Sudah Dibaca">
-<!ENTITY redoMarkAllCmd.label "Tanda semula Semua Sudah Dibaca">
+<!ENTITY redoMarkAllCmd.label "Ulang Tanda Semua Sudah Dibaca">
 <!ENTITY undoDefaultCmd.label "Batal">
 <!ENTITY undoDefaultCmd.accesskey "B">
-<!ENTITY redoDefaultCmd.label "Buat semula">
+<!ENTITY redoDefaultCmd.label "Ulang">
 <!ENTITY redoDefaultCmd.accesskey "B">
 
 <!-- View Menu -->

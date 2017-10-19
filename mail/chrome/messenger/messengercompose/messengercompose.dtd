@@ -50,7 +50,7 @@
 <!ENTITY sendLaterCmd.label "Hantar Kemudian">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "K">
-<!ENTITY printSetupCmd.label "Tetapan Halaman…">
+<!ENTITY printSetupCmd.label "Penetapan Halaman…">
 <!ENTITY printSetupCmd.accesskey "e">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -64,7 +64,7 @@
 <!ENTITY undoCmd.label "Batal">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "l">
-<!ENTITY redoCmd.label "Buat semula">
+<!ENTITY redoCmd.label "Ulang">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "s">
 <!ENTITY cutCmd.label "Potong">
@@ -171,7 +171,7 @@
 <!ENTITY highPriorityCmd.accesskey "i">
 <!ENTITY highestPriorityCmd.label "Paling tinggi">
 <!ENTITY highestPriorityCmd.accesskey "T">
-<!ENTITY fileCarbonCopyCmd.label "Hantar Satu Salinan Kepada">
+<!ENTITY fileCarbonCopyCmd.label "Hantar satu Salinan Kepada">
 <!ENTITY fileCarbonCopyCmd.accesskey "r">
 <!ENTITY fileHereMenu.label "Failkan Di sini">
 

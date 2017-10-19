@@ -38,7 +38,7 @@
 <!ENTITY filenameExample.label        "contoh: &quot;halamansaya.html&quot;">
 <!ENTITY setDefaultButton.label       "Tetapkan sebagai Piawai">
 <!ENTITY setDefaultButton.accesskey   "P">
-<!ENTITY removeButton.label           "Buang Halaman">
+<!ENTITY removeButton.label           "Buang Laman">
 <!ENTITY removeButton.accesskey       "B">
 
 <!-- Settings Tab Panel -->

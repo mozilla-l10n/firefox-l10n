@@ -20,7 +20,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.undo.accesskey               "B">
 <!ENTITY cmd.recover.label                "Pulih">
 <!ENTITY cmd.recover.accesskey            "h">
-<!ENTITY cmd.retry.label                  "Ulang">
+<!ENTITY cmd.retry.label                  "Cuba lagi">
 <!ENTITY cmd.retry.accesskey              "U">
 <!ENTITY cmd.removeFromList.label         "Buang Daripada Senarai">
 <!ENTITY cmd.removeFromList.accesskey     "e">
