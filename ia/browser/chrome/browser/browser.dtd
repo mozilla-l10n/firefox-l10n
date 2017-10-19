@@ -84,10 +84,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.accesskey "T">
 
 <!ENTITY menubarCmd.label "Barra de menu">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.accesskey "u">
 <!ENTITY navbarCmd.label "Barra de Navigation">
 <!ENTITY personalbarCmd.label "Barra de marcapaginas">
-<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY personalbarCmd.accesskey "m">
 <!ENTITY bookmarksToolbarItem.label "Elementos del barra de marcapaginas">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recargar tote le schedas">
@@ -170,7 +170,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcapaginas">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Adder marcapaginas">
+<!ENTITY bookmarkThisPageCmd.label "Adder un marcapaginas">
 <!ENTITY editThisBookmarkCmd.label "Editar iste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -330,9 +330,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.label         "Vider">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewToolbarsMenu.label       "Barras de instrumentos">
-<!ENTITY viewToolbarsMenu.accesskey     "T">
+<!ENTITY viewToolbarsMenu.accesskey     "B">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
-<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewSidebarMenu.accesskey "l">
 <!ENTITY viewCustomizeToolbar.label       "Personalisar…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personalisar barra de instrumentos…">
@@ -560,10 +560,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir le imagine como fundo del scriptorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Adder marcapaginas">
-<!ENTITY bookmarkThisLinkCmd.label      "Adder marcapaginas sur iste ligamine">
+<!ENTITY bookmarkPageCmd2.label       "Adder un marcapaginas">
+<!ENTITY bookmarkThisLinkCmd.label      "Adder un marcapaginas sur iste ligamine">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Adder marcapaginas sur iste quadro">
+<!ENTITY bookmarkThisFrameCmd.label      "Adder un marcapaginas sur iste quadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Copiar le ligamine">
 <!ENTITY copyURLFeedback.label        "Copiate!">
@@ -709,7 +709,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Stilo del pagina">
-<!ENTITY pageStyleMenu.accesskey "i">
+<!ENTITY pageStyleMenu.accesskey "S">
 <!ENTITY pageStyleNoStyle.label "Nulle stilo">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Stilo basic del pagina">
@@ -819,7 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Aperir in un nove fenestra private">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Adder marcapaginas sur iste scheda…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Adder un marcapaginas sur iste scheda…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">

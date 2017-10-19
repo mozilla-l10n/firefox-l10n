@@ -19,11 +19,11 @@
 <!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY edgeMarginInput.label "Spatio inter le bordo del papiro e le margine">
-<!ENTITY topInput.label "A supra:">
-<!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.label "A basso:">
+<!ENTITY topInput.label "Alto:">
+<!ENTITY topInput.accesskey "A">
+<!ENTITY bottomInput.label "Basso:">
 <!ENTITY bottomInput.accesskey "B">
-<!ENTITY leftInput.label "A sinistra:">
+<!ENTITY leftInput.label "Sinistra:">
 <!ENTITY leftInput.accesskey "S">
-<!ENTITY rightInput.label "A dextere:">
+<!ENTITY rightInput.label "Dextere:">
 <!ENTITY rightInput.accesskey "D">

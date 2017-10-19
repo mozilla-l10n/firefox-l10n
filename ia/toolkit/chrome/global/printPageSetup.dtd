@@ -33,14 +33,14 @@
 <!ENTITY marginGroup.label   "Margines (#1)">
 <!ENTITY marginUnits.inches  "uncias">
 <!ENTITY marginUnits.metric  "millimetros">
-<!ENTITY marginTop.label     "A supra:">
-<!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "A basso:">
+<!ENTITY marginTop.label     "Alto:">
+<!ENTITY marginTop.accesskey "A">
+<!ENTITY marginBottom.label  "Basso:">
 <!ENTITY marginBottom.accesskey "B">
-<!ENTITY marginLeft.label    "A sinistra:">
-<!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "A dextere:">
-<!ENTITY marginRight.accesskey "R">
+<!ENTITY marginLeft.label    "Sinistra:">
+<!ENTITY marginLeft.accesskey "S">
+<!ENTITY marginRight.label   "Dextere:">
+<!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label  "Capites e pedes de pagina">
 

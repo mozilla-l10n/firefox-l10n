@@ -17,7 +17,7 @@
 <!ENTITY aboutProduct2.label      "A proposito de &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "Adjuta de &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "H">
+<!ENTITY productHelp2.accesskey   "A">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Claves de accesso directe">
@@ -29,16 +29,16 @@
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "Reporto de sanitate de &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
+<!ENTITY healthReport2.accesskey  "R">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informationes de diagnostico">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
 <!ENTITY helpFeedbackPage.label      "Submitter tu opinion…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "Tour per &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "o">
+<!ENTITY helpShowTour2.accesskey        "T">
 
 <!ENTITY preferencesCmdMac.label        "Preferentias…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
