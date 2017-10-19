@@ -15,7 +15,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "r">
 <!ENTITY  manualTypeRadio.label         "Konfigurasi proksi manual:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "Konfigurasi proksi automatik URL:">
+<!ENTITY  autoTypeRadio.label           "URL konfigurasi proksi automatik:">
 <!ENTITY  autoTypeRadio.accesskey       "K">
 <!ENTITY  reload.label                  "Muat semula">
 <!ENTITY  reload.accesskey              "l">

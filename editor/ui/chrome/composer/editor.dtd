@@ -11,7 +11,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Bar alatan Karangan">
-<!ENTITY previewToolbarCmd.label "Lihat">
+<!ENTITY previewToolbarCmd.label "Cari">
 <!ENTITY previewToolbarCmd.tooltip "Muatkan halaman ini dalam pelayar">
 
 <!-- File menu items -->

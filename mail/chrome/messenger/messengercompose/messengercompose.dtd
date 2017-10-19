@@ -295,7 +295,7 @@
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Lampiran Lazim">
 <!ENTITY convertRegularAttachment.accesskey "L">
-<!ENTITY attachPage.label "Lampir Halaman web…">
+<!ENTITY attachPage.label "Lampir Halaman Web…">
 <!ENTITY attachPage.accesskey "W">
 
 <!-- Spell checker context menu items -->
