@@ -36,7 +36,9 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> telah <a id='error_desc_link'>dilaporkan mengandung perangkat lunak berbahaya</a> Anda dapat <a id='ignore_warning_link'>mengabaikan risikonya</a> dan mengunjungi situs tidak aman ini.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> telah <a id='error_desc_link'>dilaporkan mengandung perangkat lunak berbahaya</a>.">
 
 
 

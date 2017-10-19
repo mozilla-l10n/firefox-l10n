@@ -7,6 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors2.label       "Timpa warna yang ditentukan oleh laman dengan pilihan Anda di atas">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "T">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Selalu">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Hanya dengan tema Kontras Tinggi">
