@@ -11,7 +11,7 @@
 <!ENTITY removepermission2.accesskey  "F">
 <!ENTITY removeallpermissions2.label  "Fjern alle nettsidene">
 <!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address2.label               "Nettside adresse">
+<!ENTITY address2.label               "Adressa til nettstaden">
 <!ENTITY address2.accesskey           "a">
 <!ENTITY block.label                  "Blokker">
 <!ENTITY block.accesskey              "B">
