@@ -643,6 +643,7 @@
 <!ENTITY syncedTabs.sidebar.notabs.label "Brak otwartych kart">
 <!ENTITY syncedTabs.sidebar.openprefs.label "Otwórz ustawienia synchronizacji">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Włącz synchronizację kart, aby wyświetlać listę otwartych na innych urządzeniach.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder "Szukaj w synchronizowanych kartach">
 
 <!ENTITY syncedTabs.context.open.label "Otwórz">
 <!ENTITY syncedTabs.context.open.accesskey "O">
