@@ -10,7 +10,7 @@
 <!ENTITY  proxyTitle.label              "Konfigurer proxy for tilkopling til Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
-<!ENTITY  systemTypeRadio.label         "Bruk systemet sine innstillingar">
+<!ENTITY  systemTypeRadio.label         "Bruk systemet sine proxyinnstillingar">
 <!ENTITY  systemTypeRadio.accesskey     "y">
 <!ENTITY  WPADTypeRadio.label           "Automatisk oppdag innstillingar">
 <!ENTITY  WPADTypeRadio.accesskey       "A">

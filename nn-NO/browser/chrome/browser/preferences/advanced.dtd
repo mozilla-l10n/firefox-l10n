@@ -45,7 +45,7 @@ available. -->
 
 <!ENTITY networkProxy.label              "Nettverksproxy">
 
-<!ENTITY connectionDesc.label            "Still inn korleis &brandShortName; koplar seg til Internett">
+<!ENTITY connectionDesc.label            "Still inn korleis &brandShortName; koplar seg til internett">
 <!ENTITY connectionSettings.label        "Innstillingar…">
 <!ENTITY connectionSettings.accesskey    "I">
 
