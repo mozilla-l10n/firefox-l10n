@@ -44,7 +44,7 @@
 <!ENTITY cmd.deleteDomainData.label     "Gløym denne nettstaden">
 <!ENTITY cmd.deleteDomainData.accesskey "G">
 
-<!ENTITY cmd.open.label                  "Opna">
+<!ENTITY cmd.open.label                  "Opne">
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "Opne i nytt vindauge">
 <!ENTITY cmd.open_window.accesskey       "p">
