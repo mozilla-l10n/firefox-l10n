@@ -147,7 +147,7 @@
 <!ENTITY DefaultPhoto.label             "Piawai">
 <!ENTITY PhotoFile.label                "Dalam Komputer ini">
 <!ENTITY PhotoFile.accesskey            "n">
-<!ENTITY BrowsePhoto.label              "Layar">
+<!ENTITY BrowsePhoto.label              "Cari">
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Dalam Web">
 <!ENTITY PhotoURL.accesskey             "b">
