@@ -44,7 +44,9 @@
   <li>Mungkin telah dialih keluar, dipindahkan, atau kebenaran fail mungkin menghalang akses.</li> </ul>">
 
 <!ENTITY generic.title "Maaf.">
-<!ENTITY generic.longDesc "<p>&brandShortName; tidak dapat memuat halaman ini atas beberapa alasan.</p>">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; tidak dapat memuat halaman ini atas beberapa alasan.</p>
+">
 
 <!ENTITY malformedURI.title "Alamat ini tidak sah">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -103,7 +105,13 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "Pelayan proksi menolak sambungan">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Periksa tetapan proksi untuk memastikan yang ianya telah betul.</li> <li>Hubungi pentadbir rangkaian anda unutuk pastikan yang proksi berfungsi.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Semak tetapan proksi untuk memastikan tetapan itu betul.</li>
+  <li>Hubungi pentadbir rangkaian untuk memastikan bahawa pelayan proksi
+    berfungsi.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
