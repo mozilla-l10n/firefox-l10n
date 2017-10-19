@@ -6,7 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "Ticraḍ n isebtar">
 <!ENTITY engine.bookmarks.accesskey "T">
-<!ENTITY engine.tabs.label2         "Lddi icarren">
+<!ENTITY engine.tabs.label2         "Ldi icarren">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Amazray">
 <!ENTITY engine.history.accesskey   "A">
@@ -56,7 +56,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Snifel tugna n umaɣnu">
 <!ENTITY verifiedManage.label        "Sefrek imiḍanen">
 <!ENTITY verifiedManage.accesskey    "m">
-<!ENTITY disconnect3.label           "Tuffγa…">
+<!ENTITY disconnect3.label           "Tuffɣa…">
 <!ENTITY disconnect3.accesskey       "k">
 <!ENTITY verify.label                "Senqed tansa imayl">
 <!ENTITY verify.accesskey            "e">
@@ -71,8 +71,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin2 "Kcem…">
 <!ENTITY signedOut.accountBox.signin2.accesskey "G">
 
-<!ENTITY signedIn.settings.label       "Iγewwaṛen n umtawi">
-<!ENTITY signedIn.settings.description "Fren ayen ad temtawiḍ deg ibenk inek s useqdec n &brandShortName;.">
+<!ENTITY signedIn.settings.label       "Iɣewwaṛen n umtawi">
+<!ENTITY signedIn.settings.description "Fren ayen ad temtawiḍ deg ibenk-inek s useqdec n &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

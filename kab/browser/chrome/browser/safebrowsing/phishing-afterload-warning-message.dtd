@@ -20,19 +20,19 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Tirza ɣer usmel-agi izmer ad iḍuṛṛ aselkim-inek">
-<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku izmer ad isebded iseɣẓan n ddiri ad yakren neɣ ad kksen isefka inek deg uselkim.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku izmer ad isebded iseɣẓan n ddiri ad yakren neɣ ad kksen isefka-inek deg uselkim.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
-<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> inna-d d akken <a id='error_desc_link'> yegber aseɣẓan n ddiri</a>. Tzemreḍ <a id='report_detection'> ad ɣ-mleḍ ugur</a> neɣ <a id='ignore_warning_link'> suref i waya </a> sakin ddu ɣer usmel-agi n ddiri.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> inna-d d akken <a id='error_desc_link'> yegber aseɣẓan n diri</a>. Tzemreḍ <a id='report_detection'> ad ɣ-d-temleḍ ugur</a> neɣ <a id='ignore_warning_link'> suref i waya </a> sakin ddu ɣer usmel-agi n ddiri.">
 
-<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> inna-d d akken <a id='error_desc_link'> yegber aseɣẓan n ddiri</a>. Tzemreḍ <a id='report_detection'>ad ɣ-d-mleḍ ugur</a>.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> inna-d d akken <a id='error_desc_link'> yegber aseɣẓan n ddiri</a>. Tzemreḍ <a id='report_detection'>ad ɣ-d-temleḍ ugur</a>.">
 
 <!ENTITY safeb.blocked.malwarePage.learnMore "Issin ugar ɣef web i yegebren ivirusen akked iseɣẓan n ddiri akked amek ad tḥerzeḍ aselkim-inek di <a id='learn_more_link'>StopBadware.org</a>.issin ugar ɣef &brandShortName;’asfuɣel d umestan di <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Asmel-agi yegber ahat yir iseɣẓanen">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku izmer ad isebded iseɣẓan ad d-yawin ugur i iminig inek ( amedya, abeddel n usebter agejdan neɣ taskant n izegrar deg ismal i ɣer terziḍ).">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku izmer ad isebded iseɣẓan ad d-yawin ugur i iminig-inek ( amedya, abeddel n usebter agejdan neɣ taskant n izegrar deg ismal i ɣer terziḍ).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -47,15 +47,15 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; isewḥel asebter-agi acku izmer ad yexdem ayen n ddir am usebded n iseɣẓan n ddir neɣ ad yaker isefra am wawalen uffiren neɣ tikaṛḍiwin n udrim.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
-<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/>inna-d d akken <a id='error_desc_link'> d asmel n ukellex</a>. Tzemreḍ ad ɣ-d-mleḍ ugur <a id='report_detection'></a> neɣ suref ugur-a <a id='ignore_warning_link'></a> sakin ddu ɣer usmel-agi n ddir.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/>inna-d d akken <a id='error_desc_link'> d asmel n ukellex</a>. Tzemreḍ ad ɣ-d-temleḍ ugur <a id='report_detection'></a> neɣ suref ugur-a <a id='ignore_warning_link'></a> sakin ddu ɣer usmel-agi n ddir.">
 
-<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> inna-d d akken <a id='error_desc_link'> yegber aseɣẓan n ddiri</a>. Tzemreḍ <a id='report_detection'>ad ɣ-d-mleḍ ugur</a>.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> inna-d d akken <a id='error_desc_link'> yegber aseɣẓan n ddiri</a>. Tzemreḍ <a id='report_detection'>ad ɣ-d-temleḍ ugur</a>.">
 
 <!ENTITY safeb.blocked.phishingPage.learnMore "Issin ugar ɣef ismal n ukellex d usfuɣel di <a id='learn_more_link'>www.antiphishing.org</a>. Issin ugar ɣef &brandShortName;'s usfuɣel akked umestan di <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Asmel-agi yegber ahat yir aseɣẓan">
-<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku yezmer ad isbedd iseɣẓan imihawen yettakren neɣ yetteksen talɣut (amedya, tugniwin, awalen uffiren, inzan akked tkarḍiwin n usmad).">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku yezmer ad isbedd iseɣẓan imihawen yettakren neɣ yetteksen talɣut (amedya, tugniwin, awalen uffiren, izenan akked tkarḍiwin n usmad).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> inna-d d akken <a id='error_desc_link'> yegber asnas n ddir</a>. Tzemreḍ ad tsurfeḍ i wugur <a id='ignore_warning_link'> neɣ </a> ddu ɣer usmel-agi n ddir.">
