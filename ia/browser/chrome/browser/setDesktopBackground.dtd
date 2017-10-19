@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY position.label             "Position:">
+<!ENTITY tile.label                 "Quadrellatura">
+<!ENTITY center.label               "Centro">
+<!ENTITY stretch.label              "Tender">
+<!ENTITY fill.label                 "Plenar">
+<!ENTITY fit.label                  "Adjustar">
+<!ENTITY preview.label              "Vista preliminar">
+<!ENTITY color.label                "Color:">
+<!ENTITY setDesktopBackground.title "Definir como fundo del scriptorio">
+<!ENTITY openDesktopPrefs.label     "Aperir le preferentias del scriptorio">
+<!ENTITY closeWindow.key            "w">
