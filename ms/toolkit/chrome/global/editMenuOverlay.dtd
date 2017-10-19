@@ -9,7 +9,7 @@
 <!ENTITY undoCmd.accesskey         "B">
 <!ENTITY redoCmd.label             "Ulang">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "b">
+<!ENTITY redoCmd.accesskey         "l">
 <!ENTITY cutCmd.label              "Potong">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">

@@ -18,7 +18,7 @@
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Penetapan Halaman…">
-<!ENTITY pageSetupCmd.accesskey "c">
+<!ENTITY pageSetupCmd.accesskey "t">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak…">
