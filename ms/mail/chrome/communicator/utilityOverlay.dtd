@@ -14,7 +14,7 @@
 <!ENTITY undoCmd.label            "Batal">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "B">
-<!ENTITY redoCmd.label            "Buat semula">
+<!ENTITY redoCmd.label            "Ulang">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "m">
 <!ENTITY cutCmd.label            "Potong">
