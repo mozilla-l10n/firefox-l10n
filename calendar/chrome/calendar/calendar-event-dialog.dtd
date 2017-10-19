@@ -101,7 +101,7 @@
 <!ENTITY  event.menu.edit.undo.label                      "Batal">
 <!ENTITY  event.menu.edit.undo.accesskey                  "B">
 <!ENTITY  event.menu.edit.redo.label                      "Ulang">
-<!ENTITY  event.menu.edit.redo.accesskey                  "B">
+<!ENTITY  event.menu.edit.redo.accesskey                  "U">
 <!ENTITY  event.menu.edit.cut.label                       "Potong">
 <!ENTITY  event.menu.edit.cut.accesskey                   "t">
 <!ENTITY  event.menu.edit.copy.label                      "Salin">
