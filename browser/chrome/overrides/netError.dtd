@@ -18,8 +18,9 @@
 <!ENTITY deniedPortAccess.title " यह पता प्रतिबंधित है">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title " सर्वर नहीं मिला">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>टाइपिंग त्रुटियों के लिए पते की जाँच करें <strong>ww</strong>.example.com की जगह <strong>www</strong>.example.com</li> <li>यदि आप किसी भी पेज लोड करने में असमर्थ हैं, तो कंप्यूटर नेटवर्क  कनेक्शन की जाँच करें.</li> <li>यदि आपका कंप्यूटर या नेटवर्क फायरवाल या प्रॉक्सी से सुरक्षित है, सुनिश्चित करें कि &brandShortName; को वेब के पहुँच के लिए अनुमति प्राप्त है.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "सर्वर नहीं मिला">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "हम्म. हमें वह साइट को खोजने में परेशानी हो रही है.">
 
 <!ENTITY fileNotFound.title " फाइल नहीं मिला">
 <!ENTITY fileNotFound.longDesc " <ul> <li>कैपिटलाइजेशन या दूसरी टाइपिंग त्रुटि के लिए फाइल नाम जांचें.</li> <li>जाँचे यह देखने के लिए कि फाइल खिसकाया, फिर नामकरण किया अथवा मिटाया गया था.</li> </ul>">
@@ -35,8 +36,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "ओपन नेटवर्क लॉगिन पृष्ठ">
 
-<!ENTITY malformedURI.title " पता वैध नहीं है">
-<!ENTITY malformedURI.longDesc "<ul> <li>वेब पता प्रायः इस तरह लिखा जाता है <strong>http://www.example.com/</strong></li> <li>सुनिश्चित करें कि आप फॉरवर्ड स्लैश का प्रयोग कर रहे हैं (यानी <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "अवैध URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "हम्म. वह पता सही नहीं लगता.">
 
 <!ENTITY netInterrupt.title " कनेक्शन बाधित किया गया था">
 <!ENTITY netInterrupt.longDesc " &sharedLongDesc;">
