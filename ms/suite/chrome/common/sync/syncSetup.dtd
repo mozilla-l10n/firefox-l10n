@@ -76,7 +76,7 @@
 <!ENTITY setup.signInPage.title.label "Daftar Masuk">
 <!ENTITY existingRecoveryKey.description "Anda boleh dapatkan salinan Kekunci Pemulihan dengan pergi ke Keutamaan/Pilihan &syncBrand.shortName.label; dalam peranti yang lain, dan pilih &#x0022;Kekunci Pemulihan Saya&#x0022; dalam &#x0022;Urus Akaun&#x0022;.">
 <!ENTITY verifying.label              "Mengesahkan…">
-<!ENTITY resetPassword.label          "Mengeset Semula Kata Laluan">
+<!ENTITY resetPassword.label          "Set Semula Kata Laluan">
 <!ENTITY resetSyncKey.label           "Saya kehilangan peranti yang lain.">
 
 <!-- Sync Options -->

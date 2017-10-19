@@ -76,7 +76,7 @@
 <!ENTITY cmd.retry.accesskey             "l">
 <!ENTITY cmd.cancel.label                "Batal">
 <!ENTITY cmd.cancel.accesskey            "B">
-<!ENTITY cmd.remove.label                "Buang Dari Senarai">
+<!ENTITY cmd.remove.label                "Buang Daripada Senarai">
 <!ENTITY cmd.remove.accesskey            "u">
 <!ENTITY cmd.open.label                  "Buka">
 <!ENTITY cmd.open.accesskey              "B">

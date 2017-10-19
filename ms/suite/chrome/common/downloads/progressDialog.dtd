@@ -6,7 +6,7 @@
 <!ENTITY closeWindow.key                 "t">
 <!ENTITY cmd.pause.tooltip               "Jeda">
 <!ENTITY cmd.resume.tooltip              "Sambung">
-<!ENTITY cmd.retry.tooltip               "Cuba semula">
+<!ENTITY cmd.retry.tooltip               "Cuba lagi">
 <!ENTITY cmd.cancel.tooltip              "Batal">
 <!ENTITY cmd.open.label                  "Buka">
 <!ENTITY cmd.open.accesskey              "B">
