@@ -190,8 +190,8 @@
 <!ENTITY pref_category_logins "Authenticationes">
 <!ENTITY pref_learn_more "Saper plus">
 <!ENTITY pref_category_installed_search_engines "Motores de recerca installate">
-<!ENTITY pref_category_add_search_providers "Adder plus provideres de recerca">
-<!ENTITY pref_category_search_restore_defaults "Restaurar motores de recerca">
+<!ENTITY pref_category_add_search_providers "Adder plus motores de recerca">
+<!ENTITY pref_category_search_restore_defaults "Restaurar le motores de recerca">
 <!ENTITY pref_search_restore_defaults "Restaurar le predefinitiones">
 <!ENTITY pref_search_restore_defaults_summary "Restaurar le predefinitiones">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
