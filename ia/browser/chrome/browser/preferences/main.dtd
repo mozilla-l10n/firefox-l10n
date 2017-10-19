@@ -25,13 +25,13 @@
 <!ENTITY downloads.label     "Discargas">
 
 <!ENTITY saveTo.label "Salvar le files in">
-<!ENTITY saveTo.accesskey "v">
+<!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label        "Perquirer…">
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Eliger…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAskWhere.label         "Sempre questionar te ubi salvar le files">
-<!ENTITY alwaysAskWhere.accesskey     "A">
+<!ENTITY alwaysAskWhere.label         "Sempre questionar ubi salvar le files">
+<!ENTITY alwaysAskWhere.accesskey     "q">
 
 <!ENTITY alwaysCheckDefault2.label        "Sempre verificar si &brandShortName; es tu navigator predefinite">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">

@@ -11,14 +11,14 @@
 <!ENTITY searchOnStartTyping.label       "Cercar le texto quando tu comencia scriber">
 <!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY useOnScreenKeyboard.label       "Monstrar un claviero tactile quando necessari">
-<!ENTITY useOnScreenKeyboard.accesskey   "k">
+<!ENTITY useOnScreenKeyboard.accesskey   "M">
 
 <!ENTITY browsing.label                  "Navigante">
 
-<!ENTITY useAutoScroll.label             "Usar autorolamento">
+<!ENTITY useAutoScroll.label             "Usar le rolamento automatic">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Usar le rolamento suave">
-<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY useSmoothScrolling.accesskey    "s">
 <!ENTITY checkUserSpelling.label         "Verificar le orthographia durante que tu scribe">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -103,10 +103,10 @@ available. -->
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Monstrar le chronologia de actualisationes…">
-<!ENTITY updateHistory2.accesskey        "p">
+<!ENTITY updateHistory2.accesskey        "M">
 
 <!ENTITY useService.label                "Usar un servicio in secunde plano pro installar le actualisationes">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.accesskey            "s">
 
 <!ENTITY enableSearchUpdate2.label       "Actualisar automaticamente le motores de recerca">
 <!ENTITY enableSearchUpdate2.accesskey   "e">

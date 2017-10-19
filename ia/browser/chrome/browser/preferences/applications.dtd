@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Applicationes">
-<!ENTITY  applications.description "Defini como &brandShortName; tracta le files que tu discarga ex le web o le applicationes que tu usa durante que tu naviga.">
+<!ENTITY  applications.description "Elige como &brandShortName; manipula le files que tu discarga ab le web o le applicationes que tu usa durante que tu naviga.">
 
 <!ENTITY  typeColumn.label        "Typo de contento">
 <!ENTITY  typeColumn.accesskey    "T">

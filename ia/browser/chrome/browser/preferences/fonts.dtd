@@ -8,17 +8,17 @@
 <!ENTITY  fonts.accesskey                         "F">
 
 <!ENTITY  size2.label                             "Dimension">
-<!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeProportional.accesskey              "D">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional2.label                     "Proportional">
 <!ENTITY  proportional2.accesskey                 "P">
 
 <!ENTITY  serif2.label                            "Serif">
 <!ENTITY  serif2.accesskey                        "S">
-<!ENTITY  sans-serif2.label                       "Sans-serig">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
 <!ENTITY  sans-serif2.accesskey                   "n">
-<!ENTITY  monospace2.label                        "Largor fixe">
+<!ENTITY  monospace2.label                        "Monospatio">
 <!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
