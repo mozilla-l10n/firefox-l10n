@@ -27,17 +27,15 @@
 <!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip2 "سجّل أخطاء الطرز المتراصة و تحذيراتها">
 <!ENTITY btnPageCSS.accesskey "C">
-
 <!ENTITY btnPageJS.tooltip  "سجّل استثناءات جافاسكربت">
-
 <!ENTITY btnPageSecurity.label "الأمن">
 <!ENTITY btnPageSecurity.tooltip "سجّل الأعطال الأمنية و التحذيرات">
 <!ENTITY btnPageSecurity.accesskey "م">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
 <!ENTITY btnPageLogging.label   "التسجيل">
 <!ENTITY btnPageLogging.tooltip "سجّل الرسائل المرسلة إلى كائن window.console">
 <!ENTITY btnPageLogging.accesskey3 "س">
@@ -45,17 +43,17 @@
 <!ENTITY btnConsoleInfo         "معلومات">
 <!ENTITY btnConsoleWarnings     "تحذيرات">
 <!ENTITY btnConsoleLog          "سجل">
-
 <!ENTITY btnConsoleReflows      "الانسيابات">
+
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
-
-
+<!ENTITY btnServerLogging.tooltip     "رسائل السجل المستقبلة من خادوم وب">
 <!ENTITY btnServerErrors              "الأخطاء">
 <!ENTITY btnServerInfo                "معلومات">
 <!ENTITY btnServerWarnings            "تحذيرات">
 <!ENTITY btnServerLog                 "سجل">
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
@@ -68,8 +66,7 @@
 <!ENTITY btnClear.accesskey    "م">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
@@ -83,7 +80,3 @@
 
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
-
-
