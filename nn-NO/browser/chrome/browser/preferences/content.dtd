@@ -16,20 +16,20 @@
 
 <!ENTITY  notificationPermissions.label                         "Varsel">
 <!ENTITY  notificationSettingsButton.label                      "Innstillingar…">
-<!ENTITY  notificationSettingsButton.accesskey                  "r">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
 <!ENTITY  notificationPermissionsLearnMore.label                "Les meir">
 
 <!ENTITY  locationPermissions.label                             "Plassering">
 <!ENTITY  locationSettingsButton.label                          "Innstillingar…">
-<!ENTITY  locationSettingsButton.accesskey                      "P">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
 <!ENTITY  cameraSettingsButton.label                            "Innstillingar…">
-<!ENTITY  cameraSettingsButton.accesskey                        "K">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
 <!ENTITY  microphoneSettingsButton.label                        "Innstillingar…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "M">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Skrifttypar og fargar">
 
