@@ -4,7 +4,7 @@
 
 <!ENTITY position.label             "kedudukan:">
 <!ENTITY tile.label                 "jubin">
-<!ENTITY center.label               "pusat">
+<!ENTITY center.label               "Tengah">
 <!ENTITY stretch.label              "Regangkan">
 <!ENTITY fill.label                 "Penuhkan">
 <!ENTITY fit.label                  "Muatkan">

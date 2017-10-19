@@ -16,7 +16,7 @@
 <!ENTITY  color                           "Teks dan Latar Belakang">
 <!ENTITY  textColor2.label                "Teks">
 <!ENTITY  textColor2.accesskey            "T">
-<!ENTITY  backgroundColor2.label          "Latar belakang">
+<!ENTITY  backgroundColor2.label          "Latar Belakang">
 <!ENTITY  backgroundColor2.accesskey      "L">
 <!ENTITY  useSystemColors.label           "Guna warna sistem">
 <!ENTITY  useSystemColors.accesskey       "s">

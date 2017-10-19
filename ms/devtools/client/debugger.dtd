@@ -169,7 +169,7 @@
 <!ENTITY debuggerUI.tabs.workers        "Workers">
 <!ENTITY debuggerUI.tabs.sources        "Sumber">
 <!ENTITY debuggerUI.tabs.traces         "Jejak">
-<!ENTITY debuggerUI.tabs.callstack      "Susunan Panggilan">
+<!ENTITY debuggerUI.tabs.callstack      "Call Stack">
 <!ENTITY debuggerUI.tabs.variables      "Pembolehubah">
 <!ENTITY debuggerUI.tabs.events         "Acara">
 
