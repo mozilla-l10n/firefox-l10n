@@ -28,7 +28,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Formularios e contrasignos">
 
-<!ENTITY  rememberLogins2.label         "Memorisar le identificatores e contrasignos pro authenticar in le sitos web">
+<!ENTITY  rememberLogins2.label         "Memorisar le authenticationes e contrasignos pro le sitos web">
 <!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Exceptiones…">
 <!ENTITY  passwordExceptions.accesskey  "x">

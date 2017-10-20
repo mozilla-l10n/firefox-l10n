@@ -65,7 +65,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traductiones per">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent2.label              "Contento protegite per DRM (Digital Rights Management, Gestion de Derectos Digital)">
+<!ENTITY  drmContent2.label              "Contento protegite per DRM (Gestion de Derectos Digital)">
 
 <!ENTITY  playDRMContent2.label          "Leger contento protegite per DRM">
 <!ENTITY  playDRMContent2.accesskey      "P">

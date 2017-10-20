@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.label             "Inviar le pagina a un apparato">
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Inviar le ligamine a un apparato">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.accesskey         "v">
 <!ENTITY  sendToDeviceFeedback.label         "Inviate!">
 <!ENTITY  moveToNewWindow.label              "Mover a un nove fenestra">
 <!ENTITY  moveToNewWindow.accesskey          "f">
@@ -282,7 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "Inspectar elemento">
-<!ENTITY inspectContextMenu.accesskey "e">
+<!ENTITY inspectContextMenu.accesskey "I">
 
 <!ENTITY fileMenu.label         "File">
 <!ENTITY fileMenu.accesskey       "F">
@@ -515,9 +515,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Aperir le ligamine in un nove scheda">
-<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmdInTab.accesskey   "s">
 <!ENTITY openLinkCmd.label            "Aperir le ligamine in un nove fenestra">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmd.accesskey        "f">
 <!ENTITY openLinkInPrivateWindowCmd.label "Aperir le ligamine in un nove fenestra private">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Aperir le ligamine">
@@ -527,7 +527,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Aperir le quadro in un nove fenestra">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "Aperir le ligamine in un nove scheda contextual">
-<!ENTITY openLinkCmdInContainerTab.accesskey "l">
+<!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Monstrar solmente iste quadro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -557,12 +557,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.label           "Vider le video">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Vider le imagine de fundo">
-<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY viewBGImageCmd.accesskey     "m">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir le imagine como fundo del scriptorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Adder un marcapaginas">
 <!ENTITY bookmarkThisLinkCmd.label      "Adder un marcapaginas sur iste ligamine">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Adder un marcapaginas sur iste quadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Copiar le ligamine">
@@ -579,7 +579,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.label          "Imprimer le quadro…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Salvar le ligamine como…">
-<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY saveLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Salvar le imagine como…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Salvar le video como…">
@@ -597,7 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Celar iste plugin">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "Copiar le adresse del ligamine">
-<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copiar le adresse del imagine">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copiar le imagine">
