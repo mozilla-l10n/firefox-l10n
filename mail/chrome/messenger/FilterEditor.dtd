@@ -25,7 +25,7 @@
 <!ENTITY contextAfterCls.label "Tapis selepas Pengelasan Mel Remeh">
 <!ENTITY contextOutgoing.label "Selepas Menghantar">
 <!ENTITY contextOutgoing.accesskey "M">
-<!ENTITY contextArchive.label "Mengarkib">
+<!ENTITY contextArchive.label "Arkib">
 <!ENTITY contextArchive.accesskey "M">
 
 <!ENTITY filterActionDesc.label "Laksanakan tindakan ini:">
