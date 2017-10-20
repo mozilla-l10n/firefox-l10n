@@ -14,7 +14,7 @@
 <!ENTITY select.storage.label "Enbart lagring">
 
 <!ENTITY domain.search.placeholder "Sök domäner">
-<!ENTITY domain.search.key "S">
+<!ENTITY domain.search.key "f">
 
 <!ENTITY domain.tree.domain.label "Domän">
 
