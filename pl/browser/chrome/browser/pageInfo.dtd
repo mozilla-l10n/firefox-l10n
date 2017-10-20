@@ -5,7 +5,7 @@
 <!ENTITY pageInfoWindow.width "650">
 <!ENTITY pageInfoWindow.height "525">
 
-<!ENTITY  copy.key              "K">
+<!ENTITY copy.key "C">
 <!ENTITY  copy.label            "Kopiuj">
 <!ENTITY  copy.accesskey        "K">
 <!ENTITY  selectall.key         "a">
