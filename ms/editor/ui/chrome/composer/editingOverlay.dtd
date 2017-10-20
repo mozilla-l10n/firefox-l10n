@@ -5,7 +5,7 @@
 <!-- File menu items -->
 <!ENTITY openFileCmd.label "Buka Fail…">
 <!ENTITY openFileCmd.accesskey "B">
-<!ENTITY openFileCmd.key "B">
+<!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Buka Lokasi Web…">
 <!ENTITY openRemoteCmd.accesskey "L">
 <!ENTITY openRemoteCmd.key "L">
