@@ -129,7 +129,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Pergi ke Baris…">
-<!ENTITY debuggerUI.searchGoToLine.key       "B">
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
@@ -151,18 +151,18 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak     "Tambah Titik putus">
-<!ENTITY debuggerUI.seMenuBreak.key "T">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Tambah Titik putus Bersyarat">
-<!ENTITY debuggerUI.seMenuCondBreak.key "T">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Tambah Titik putus Bersyarat">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "T">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
