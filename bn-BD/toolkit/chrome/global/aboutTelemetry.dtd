@@ -7,6 +7,7 @@
 <!ENTITY aboutTelemetry.showArchivedPingData "আর্কাইভ পিং তথ্য">
 <!ENTITY aboutTelemetry.showSubsessionData "সাবসেশনের তথ্য দেখান">
 <!ENTITY aboutTelemetry.choosePing "পিং নির্বাচন করুন:">
+<!ENTITY aboutTelemetry.archivePingType "পিং টাইপ">
 <!ENTITY aboutTelemetry.archivePingHeader "পিং">
 <!ENTITY aboutTelemetry.optionGroupToday "আজ">
 <!ENTITY aboutTelemetry.optionGroupYesterday "গতকাল">
@@ -15,9 +16,13 @@
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
 <!ENTITY aboutTelemetry.pageTitle "টেলিমেট্রি ডাটা">
+<!ENTITY aboutTelemetry.moreInformations "আরও তথ্যে খুঁজছেন?">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON ভিউয়ারে খুলুন">
 
 <!ENTITY aboutTelemetry.homeSection "হোম">
 <!ENTITY aboutTelemetry.generalDataSection "   সাধারণ তথ্য">
@@ -33,6 +38,7 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  ধীর গতির এসকিউএল বিবৃতি">
 <!ENTITY aboutTelemetry.chromeHangsSection "  ব্রাউজার হ্যাং করেছে">
 <!ENTITY aboutTelemetry.addonDetailsSection "  অ্যাড-অনের বিস্তারিত">
+<!ENTITY aboutTelemetry.capturedStacksSection "বন্দী স্ট্যাক">
 <!ENTITY aboutTelemetry.lateWritesSection "  বিলম্বিত লেখনী">
 <!ENTITY aboutTelemetry.raw "পরিশোধিত JSON">
 

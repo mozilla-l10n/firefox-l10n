@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "এক পৃষ্ঠা আগে যান">
 <!ENTITY cmd.forward.tooltip                  "এক পৃষ্ঠা পরে যান">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "কিছু এক্সটেনশন ভ্যারিফাই করা হয়নি">
 <!ENTITY showAllExtensions.button.label       "সব এক্সটেনশন দেখাও">
 <!ENTITY debugAddons.label                    "অ্যাড-অন ডিবাগ">
@@ -255,5 +256,6 @@
 <!ENTITY pluginDeprecation.description "কোন কিছু পাওয়া যাচ্ছে না? কোন কোন প্লাগইন &brandShortName; আর সমর্থন করে না।">
 <!ENTITY pluginDeprecation.learnMore "আরও জানুন।">
 
-<!ENTITY legacyWarning.description "কোন কিছু পাওয়া যাচ্ছে না? কোন কোন এক্সটেনশন &brandShortName; আর সমর্থন করে না।">
 <!ENTITY legacyWarning.showLegacy "সব পুরাতন এক্সটেনশন দেখাও">
+<!ENTITY legacyExtensions.title "লিগ্যাসি এক্সটেনশন">
+<!ENTITY legacyExtensions.learnMore "অ্যাড-অনের পরিবর্তনগুলো সম্পর্কে জানুন">
