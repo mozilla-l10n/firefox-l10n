@@ -22,6 +22,7 @@
 <!ENTITY trackingProtectionPBM6.label         "ব্যক্তিগত ব্রাউজিং এ জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "আরও জানুন">
+<!ENTITY changeBlockList2.label               "ব্লক তালিকা পরিবর্তন করুন…">
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "আরও জানুন">
