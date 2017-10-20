@@ -36,7 +36,7 @@
 <!ENTITY printPreviewAddressBook.accesskey "P">
 <!ENTITY printContactCmd.label "Drukuj wizytówkę…">
 <!ENTITY printContactCmd.accesskey "D">
-<!ENTITY printContactCmd.key "D">
+<!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Drukuj książkę adresową…">
 <!ENTITY printAddressBook.accesskey "a">
 

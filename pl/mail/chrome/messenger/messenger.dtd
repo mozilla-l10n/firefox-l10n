@@ -222,7 +222,7 @@
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Zwijaj wszystkie wątki">
 <!ENTITY collapseAllThreadsCmd.accesskey "Z">
-<!ENTITY collapseAllThreadsCmd.key "/">
+<!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Nieprzeczytane">
 <!ENTITY unreadMsgsCmd.accesskey "N">
 <!ENTITY threadsWithUnreadCmd.label "Przeczytane z nowymi wiadomościami">
@@ -415,7 +415,7 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Oznacz gwiazdką">
 <!ENTITY markStarredCmd.accesskey "O">
-<!ENTITY markStarredCmd.key "i">
+<!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Jako niechcianą">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "j">
