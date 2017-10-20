@@ -47,7 +47,7 @@
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "Tutup">
-<!ENTITY closeCmd.key                 "T">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "T">
 
 <!ENTITY viewMenu.label               "Papar">
@@ -80,15 +80,15 @@
 
 <!ENTITY run.label                    "Jalankan">
 <!ENTITY run.accesskey                "a">
-<!ENTITY run.key                      "J">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Periksa">
 <!ENTITY inspect.accesskey            "I">
-<!ENTITY inspect.key                  "P">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Paparan">
 <!ENTITY display.accesskey            "a">
-<!ENTITY display.key                  "P">
+<!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Cetakan Cantik">
 <!ENTITY pprint.key                   "p">
