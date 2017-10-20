@@ -202,7 +202,7 @@
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
 <!ENTITY debuggerUI.context.newTab           "Отваряне в раздел">
-<!ENTITY debuggerUI.context.newTab.accesskey "п">
+<!ENTITY debuggerUI.context.newTab.accesskey "р">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
