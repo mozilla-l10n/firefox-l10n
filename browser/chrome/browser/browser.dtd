@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Барлық беттерді көрсету">
 <!ENTITY showAllTabsCmd.accesskey "а">
-<!ENTITY toggleReaderMode.key "о">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ішіне кіру">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; баптауларын ашу">
@@ -273,7 +273,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY libraryDownloads.label       "Жүктемелер">
 <!ENTITY downloads.accesskey          "Ж">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "у">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Қосымшалар">
 <!ENTITY addons.accesskey             "с">
 <!ENTITY addons.commandkey            "a">
@@ -446,7 +446,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Опцияларды өзгерту…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Баптауларды өзгерту…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "з">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -706,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Ж">
 
-<!ENTITY toggleMuteCmd.key              "а">
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Парақ стилі">
 <!ENTITY pageStyleMenu.accesskey "с">
@@ -739,7 +739,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "з">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY findSelectionCmd.commandkey "а">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
 <!ENTITY spellAddDictionaries.accesskey "С">
@@ -833,7 +833,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Синхрондау">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; ішіне кіру…">
-<!ENTITY syncSignIn.accesskey         "и">
+<!ENTITY syncSignIn.accesskey         "у">
 <!ENTITY syncSyncNowItem.label        "Қазір синхрондау">
 <!ENTITY syncSyncNowItem.accesskey    "с">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; үшін қайта байланысу…">

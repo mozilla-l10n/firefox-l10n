@@ -4,7 +4,7 @@
 
 <!ENTITY window.title                     "Ережеден тыс - Аударма">
 <!ENTITY window.width                     "36em">
-<!ENTITY windowClose.key                  "з">
+<!ENTITY windowClose.key                  "w">
 
 <!ENTITY noTranslationForLanguages2.label "Келесі тілдер үшін аударма ұсынылмайтын болады">
 <!ENTITY treehead.languageName.label      "Тілдер">

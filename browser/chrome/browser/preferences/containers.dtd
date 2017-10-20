@@ -19,7 +19,7 @@
 <!ENTITY icon2.accesskey      "Т">
 <!ENTITY color2.label         "Түсі">
 <!ENTITY color2.accesskey     "с">
-<!ENTITY windowClose.key      "ж">
+<!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Дайын">
 <!ENTITY button.ok.accesskey  "Д">
