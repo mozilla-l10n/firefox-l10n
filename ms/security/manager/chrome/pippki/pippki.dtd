@@ -16,7 +16,7 @@
 <!ENTITY resetPassword.text  "Jika anda set semula kata laluan induk, semua kata laluan web dan emel yang tersimpan, data borang, sijil peribadi, dan kunci peribadi akan dilupakan. Adakah anda pasti mahu set semula kata laluan induk anda?">
 
 <!-- Downloading a cert -->
-<!ENTITY downloadCert.title "Memuaturun Sijil">
+<!ENTITY downloadCert.title "Memuat turun Sijil">
 <!ENTITY downloadCert.message1 "Anda telah ditanya untuk percayakan Autoriti Siil (CA) baru.">
 <!ENTITY downloadCert.trustSSL "Percayai CA ini untuk mengenal pasti laman web.">
 <!ENTITY downloadCert.trustEmail "Percayakan CA ini untuk mengenal pasti pengguna e-mel.">

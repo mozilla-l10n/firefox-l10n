@@ -75,7 +75,7 @@
 <!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
-<!ENTITY editMenu.label               "Sunting">
+<!ENTITY editMenu.label               "Edit">
 <!ENTITY editMenu.accesskey           "S">
 
 <!ENTITY run.label                    "Jalankan">

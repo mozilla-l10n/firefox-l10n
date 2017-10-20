@@ -134,7 +134,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Cuba Mod Selamat">
 <!ENTITY aboutSupport.restartInSafeMode.label "Mula semula dengan Add-ons Dinyahdayakan…">
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "Ciri-ciri">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Ciri">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostik">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Log Kegagalan">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
