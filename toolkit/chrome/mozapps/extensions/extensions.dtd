@@ -135,7 +135,7 @@
 <!ENTITY detail.lastupdated.label             "Kemaskini Terakhir">
 <!ENTITY detail.creator.label                 "Pembangun">
 <!ENTITY detail.homepage.label                "Halaman utama">
-<!ENTITY detail.numberOfDownloads.label       "Muat Turun">
+<!ENTITY detail.numberOfDownloads.label       "Muat turun">
 
 <!ENTITY detail.contributions.description     "Pembangun aplikasi tambahan ini meminta anda bantuan untuk menyokong pembangunan yang berterusan dengan memberikan sedikit sumbangan.">
 

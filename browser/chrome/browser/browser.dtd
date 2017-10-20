@@ -267,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Tambah satu Kata Kunci untuk Carian ini…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "Muat Turun">
+<!ENTITY downloads.label              "Muat turun">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Muat turun">
@@ -844,7 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih daripada beribu add-ons">
 <!ENTITY customizeMode.restoreDefaults "Pulih Piawai">
-<!ENTITY customizeMode.done "Siap">
+<!ENTITY customizeMode.done "Selesai">
 <!ENTITY customizeMode.titlebar "Bar Tajuk">
 <!ENTITY customizeMode.extraDragSpace "Ruang Seret">
 <!ENTITY customizeMode.toolbars2 "Bar alatan">
