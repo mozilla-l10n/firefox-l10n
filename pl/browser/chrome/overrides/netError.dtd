@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Nie odnaleziono serwera">
-<!ENTITY dnsNotFound.title1 "Niestety, nie udało się odnaleźć tej strony">
+<!ENTITY dnsNotFound.title1 "Niestety, nie udało się odnaleźć tej strony">
 <!ENTITY dnsNotFound.longDesc1 "<strong>Jeśli adres jest prawidłowy, można jeszcze spróbować:</strong><li>otworzyć stronę później</li><li>sprawdzić połączenie z Internetem</li><li>jeśli ten komputer jest chroniony przez zaporę sieciową, sprawdzić, czy &brandShortName; jest uprawniony do łączenia się z siecią.</li>">
 
 <!ENTITY fileNotFound.title "Nie odnaleziono pliku">
