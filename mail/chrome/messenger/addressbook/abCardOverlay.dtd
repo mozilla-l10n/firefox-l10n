@@ -67,7 +67,7 @@
 <!ENTITY HomeCity.label                 "Bandar:">
 <!ENTITY HomeCity.accesskey             "n">
 <!ENTITY HomeState.label                "Negeri/Wilayah:">
-<!ENTITY HomeState.accesskey            "B">
+<!ENTITY HomeState.accesskey            "N">
 <!ENTITY HomeZipCode.label              "Poskod:">
 <!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "Negara:">
