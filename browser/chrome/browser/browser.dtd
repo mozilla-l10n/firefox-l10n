@@ -105,6 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "U">
 
 <!ENTITY pageInfoCmd.label "מידע על הדף">
 <!ENTITY pageInfoCmd.accesskey "מ">
@@ -856,6 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ק">
 <!ENTITY customizeMode.emptyOverflowList.description "יש לגרור ולשחרר לכאן פריטים כדי להשאיר אותם בהישג יד אך לא בסרגל הכלים…">
 <!ENTITY customizeMode.overflowList.title2 "התפריט הצף">
+<!ENTITY customizeMode.overflowList.description "ניתן לגרור ולשחרר לכאן פריטים כדי להשאיר אותם בהישג יד אך לא בסרגל הכלים…">
 <!ENTITY customizeMode.uidensity "צפיפות">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
