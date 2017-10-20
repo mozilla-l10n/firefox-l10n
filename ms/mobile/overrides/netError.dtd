@@ -39,7 +39,7 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Akses kepada fail ini disekat">
+<!ENTITY fileAccessDenied.title "Akses kepada fail ditolak">
 <!ENTITY fileAccessDenied.longDesc "<ul>
   <li>Mungkin telah dialih keluar, dipindahkan, atau kebenaran fail mungkin menghalang akses.</li> </ul>">
 
