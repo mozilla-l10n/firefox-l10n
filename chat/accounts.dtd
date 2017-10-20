@@ -14,7 +14,7 @@
 <!ENTITY accountManager.close.label          "Затваряне">
 <!ENTITY accountManager.close.accesskey      "З">
 <!-- This should match account.commandkey in instantbird.dtd -->
-<!ENTITY accountManager.close.commandkey     "З">
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Няма настроена сметка">
 <!ENTITY accountManager.noAccount.description "Щракнете на бутона &accountManager.newAccount.label; и оставете &brandShortName; да ви води в процеса на настройка.">
