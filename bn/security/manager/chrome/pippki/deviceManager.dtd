@@ -25,9 +25,12 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "আপনি যে মডিউলটি যোগ করতে ইচ্ছুক সেটি সম্পর্কে তথ্য দিন।">
+<!ENTITY loaddevice.modname2                    "মডিউলের নাম">
 <!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "নতুন PKCS#11 মডিউল">
+<!ENTITY loaddevice.filename2                   "মডিউল ফাইলের নাম">
 <!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "ব্রাউজ করুন...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "PKCS#11 ডিভাইস ড্রাইভার লোড করুন">

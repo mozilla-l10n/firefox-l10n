@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "মাল্টিপ্রসেস উইন্ডো">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "ওয়েবের কনটেন্ট প্রসেস">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla লোকেশন সার্ভিস Key">
@@ -105,6 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "স্বচ্ছন্দতা">
 <!ENTITY aboutSupport.a11yActivated "সক্রিয়">
 <!ENTITY aboutSupport.a11yForceDisabled "অভিগম্যতা প্রতিরোধ">
+<!ENTITY aboutSupport.a11yHandlerUsed "অ্যাক্সেসিবল হ্যান্ডলার ইউসড">
+<!ENTITY aboutSupport.a11yInstantiator "অ্যাক্সেসিবিলিটি ইন্সট্যানশিয়েটর">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "লাইব্রেরী সংস্করণসমূহ">
 

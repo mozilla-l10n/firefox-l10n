@@ -43,6 +43,15 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "আইপি সমূহ">
 <!ENTITY aboutNetworking.rcwn                  "RCWN পরিসংখ্যান">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN অবস্থা">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "ক্যাশ ওন গণনা">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "নিট ওন গণনা">
+<!ENTITY aboutNetworking.totalNetworkRequests  "সর্বমোট নেটওয়ার্ক অনুরোধ গণনা">
+<!ENTITY aboutNetworking.rcwnOperation         "ক্যাশ অপারেশন">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "খুলুন">
 <!ENTITY aboutNetworking.rcwnPerfRead          "পড়ুন">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "লিখুন">
+<!ENTITY aboutNetworking.rcwnAvgShort          "সংক্ষিপ্ত গড়">
+<!ENTITY aboutNetworking.rcwnAvgLong           "দীর্ঘ গড়">
+<!ENTITY aboutNetworking.rcwnStddevLong        "লং স্ট্যান্ডার্ড ডেভিয়েশন">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "ক্যাশ স্লো গণনা">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "ক্যাশ স্লো করছে না গণনা">
