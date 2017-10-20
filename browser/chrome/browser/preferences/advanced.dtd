@@ -15,7 +15,7 @@
 
 <!ENTITY browsing.label                  "Menyemak">
 
-<!ENTITY useAutoScroll.label             "Guna autoskrol">
+<!ENTITY useAutoScroll.label             "Guna auto-skrol">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Guna skrol lancar">
 <!ENTITY useSmoothScrolling.accesskey    "G">

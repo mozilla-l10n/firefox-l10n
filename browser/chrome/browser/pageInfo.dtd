@@ -71,7 +71,7 @@
 
 <!ENTITY  securityView.identity.header   "Identiti Laman Web">
 <!ENTITY  securityView.identity.owner    "Pemilik:">
-<!ENTITY  securityView.identity.domain   "Laman Web:">
+<!ENTITY  securityView.identity.domain   "Laman web:">
 <!ENTITY  securityView.identity.verifier "Disahkan oleh:">
 <!ENTITY  securityView.identity.validity "Luput pada:">
 
