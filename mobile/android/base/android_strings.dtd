@@ -8,7 +8,7 @@
 <!ENTITY firstrun_panel_title_privacy "গোপনীয়তা">
 <!ENTITY firstrun_privacy_message "এমনভাবে ব্রাউজ করুন যেন কেউ না দেখে">
 <!ENTITY firstrun_privacy_subtext "ট্র্যাকিং সুরক্ষাসহ ব্যক্তিগত ব্রাউজিং ব্রাউজ করার সময় ট্র্যাকার ব্লক করে এবং যা ব্রাউজ করা শেষ হলে ব্রাউজ ইতিহাস মনে রাখবে না।">
-<!ENTITY firstrun_panel_title_customize "স্বনির্ধারণ">
+<!ENTITY firstrun_panel_title_customize "কাস্টোমাইজ">
 <!ENTITY firstrun_customize_message "&brandShortName; কে নিজের করুন।">
 <!ENTITY firstrun_customize_subtext "অ্যাড-অন যোগ করে &brandShortName; কাস্টমাইজ করুন। আপনার ব্যক্তিত্বের বহিঃপ্রকাশ ঘটাতে বিজ্ঞাপন ব্লক করুন, ফিচার অথবা নতুন থিম যোগ করুন।">
 <!ENTITY firstrun_bookmarks_title "ইতিহাস">
@@ -294,7 +294,7 @@
 <!ENTITY custom_tabs_hint_url_copy "URL কপি হয়েছে">
 
 <!ENTITY pref_pwa "প্রোগ্রেসিভ ওয়েব অ্যাপ">
-<!ENTITY pref_pwa_summary "হোম স্ক্রিনে ওয়েব অ্যাপ যোগের অনুমতি দিন">
+<!ENTITY pref_pwa_summary "নীড় স্ক্রিনে ওয়েব অ্যাপ যোগের অনুমতি দিন">
 
 <!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষিত আছে">
 <!ENTITY tracking_protection_prompt_text "ট্র্যাকিং উপাদান সক্রিয়ভাবে অবরোধ করা হচ্ছে তাই আপনি দুশ্চিন্তা করবেন না।">
@@ -821,7 +821,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "শীর্ষ সাইট">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
-<!ENTITY activity_stream_topstories "&brandPocket; দ্বারা সুপারিশ করা">
+<!ENTITY activity_stream_topstories "&brandPocket; প্রস্তাবিত">
 <!ENTITY activity_stream_highlights "হাইলাইট">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
@@ -834,7 +834,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "পরিদর্শিত">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
-<!ENTITY activity_stream_highlight_label_trending "চলছে">
+<!ENTITY activity_stream_highlight_label_trending "প্রবণতা">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 <!ENTITY activity_stream_highlights_empty "ব্রাউজ শুরু করুন, আমরা এখানে দেখাবো গুরুত্বপূর্ণ নিবন্ধ, ভিডিও, এবং অন্যান্য পাতা যা আপনি সম্প্রতি দেখেছেন বা বুকমার্ক করেছেন।">
 
