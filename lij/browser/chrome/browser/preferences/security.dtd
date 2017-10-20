@@ -4,13 +4,15 @@
 
 <!ENTITY  security.label                 "Seguessa">
 
-<!ENTITY  warnOnAddonInstall.label        "Avertime quando 'n scito o preuva a instalâ di conponenti azonti">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall2.label       "Avizime quande 'n scito o preuva a instalâ conponenti azonti">
+<!ENTITY  warnOnAddonInstall2.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
+<!ENTITY  browsingProtection.label        "Proteçion contra o conegnuo inganevole e pericoloso">
 <!ENTITY  enableSafeBrowsing.label        "Blòcca contegui grammi pericolozi">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -26,8 +28,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Form e Paròlle segrete">
 
-<!ENTITY  rememberLogins1.label          "Aregòrda login e paròlle segrete pe-i sciti">
-<!ENTITY  rememberLogins1.accesskey      "A">
+<!ENTITY  rememberLogins2.label         "Aregorda i login e-e poule segrete pe-i sciti">
+<!ENTITY  rememberLogins2.accesskey     "A">
 <!ENTITY  passwordExceptions.label      "Eceçioin…">
 <!ENTITY  passwordExceptions.accesskey  "ç">
 
