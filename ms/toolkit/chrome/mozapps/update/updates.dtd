@@ -38,7 +38,7 @@
 
 <!ENTITY  viewDetails.tooltip             "Papar butiran kemaskini ini">
 
-<!ENTITY  details.link                    "Perincian">
+<!ENTITY  details.link                    "Butiran">
 
 <!ENTITY  error.title                     "Gagal Dikemaskini">
 
@@ -68,6 +68,6 @@
                                            &brandShortName; sekarang, teruskan bekerja dan memulakan semula kemudian, atau menolak 
                                            pengemaskinian ini.">
 
-<!ENTITY  update.details.label            "Perincian">
+<!ENTITY  update.details.label            "Butiran">
 <!ENTITY  update.installedOn.label        "Dipasang pada:">
 <!ENTITY  update.status.label             "Status:">

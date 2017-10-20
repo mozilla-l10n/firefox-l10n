@@ -16,7 +16,7 @@
 <!ENTITY     props.expires.label            "Luput:">
 <!ENTITY     props.container.label          "Penyimpan:">
 
-<!ENTITY     window.title                   "Cookie">
+<!ENTITY     window.title                   "Kuki">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 
