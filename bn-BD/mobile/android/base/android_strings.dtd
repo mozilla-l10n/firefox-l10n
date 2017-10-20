@@ -7,8 +7,10 @@
 <!ENTITY firstrun_urlbar_subtext2 "ফ্রি ও উন্মুক্ত ওয়েবে প্রতিজ্ঞাবদ্ধ ও অবাণিজ্যিক প্রতিষ্ঠান Mozilla, হতে একটি আধুনিক মোবাইল ব্রাউজার।">
 <!ENTITY firstrun_panel_title_privacy "গোপনীয়তা">
 <!ENTITY firstrun_privacy_message "এমনভাবে ব্রাউজ করুন যেন কেউ না দেখে">
+<!ENTITY firstrun_privacy_subtext "ট্র্যাকিং সুরক্ষাসহ ব্যক্তিগত ব্রাউজিং ব্রাউজ করার সময় ট্র্যাকার ব্লক করে এবং যা ব্রাউজ করা শেষ হলে ব্রাউজ ইতিহাস মনে রাখবে না।">
 <!ENTITY firstrun_panel_title_customize "স্বনির্ধারণ">
 <!ENTITY firstrun_customize_message "&brandShortName; কে নিজের করুন।">
+<!ENTITY firstrun_customize_subtext "অ্যাড-অন যোগ করে &brandShortName; কাস্টমাইজ করুন। আপনার ব্যক্তিত্বের বহিঃপ্রকাশ ঘটাতে বিজ্ঞাপন ব্লক করুন, ফিচার অথবা নতুন থিম যোগ করুন।">
 <!ENTITY firstrun_bookmarks_title "ইতিহাস">
 <!ENTITY firstrun_bookmarks_message "আপনার পছন্দ, সামনে এবং মাঝখানে">
 <!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছেন।">
@@ -16,6 +18,8 @@
 <!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
 <!ENTITY firstrun_data_subtext2 "আপানার পরিদর্শন করা প্রতিটি সাইটে কম ডাটা ব্যবহার করতে ছবি প্রতিরোধ করুন।">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
+<!ENTITY firstrun_sync_message2 "যেখানে আপনি ছেড়ে গিয়েছিলেন, সেখান থেকে শুরু করুন।">
+<!ENTITY firstrun_sync_subtext2 "আপনার সব ডিভাইসে বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য জিনিস খুঁজে পেতে সিঙ্ক ব্যবহার করুন যা আপনি &brandShortName; এ সংরক্ষণ করেছেন।">
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
@@ -832,6 +836,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "চলছে">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ব্রাউজ শুরু করুন, আমরা এখানে দেখাবো গুরুত্বপূর্ণ নিবন্ধ, ভিডিও, এবং অন্যান্য পাতা যা আপনি সম্প্রতি দেখেছেন বা বুকমার্ক করেছেন।">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
