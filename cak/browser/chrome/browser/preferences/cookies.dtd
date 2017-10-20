@@ -18,7 +18,7 @@
 
 <!ENTITY     window.title                   "Taq kaxlanwey">
 <!ENTITY     windowClose.key                "w">
-<!ENTITY     focusSearch1.key               "p">
+<!ENTITY     focusSearch1.key               "f">
 
 <!ENTITY     searchFilter.label             "Tikanöx:">
 <!ENTITY     searchFilter.accesskey         "k">

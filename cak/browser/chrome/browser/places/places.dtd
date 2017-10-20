@@ -88,7 +88,7 @@
 <!ENTITY historySearch.placeholder  "Tikanöx ri natab'äl">
 <!ENTITY bookmarksSearch.placeholder  "Kekanöx taq yaketal">
 
-<!ENTITY cmd.find.key  "j">
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Tijik' pe chuqa' tito' rij">
 <!ENTITY maintenance.accesskey  "T">

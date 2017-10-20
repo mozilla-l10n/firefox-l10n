@@ -5,7 +5,7 @@
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "550">
 
-<!ENTITY  copy.key              "K">
+<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Wachib'exïk">
 <!ENTITY  copy.accesskey        "c">
 <!ENTITY  selectall.key         "A">
