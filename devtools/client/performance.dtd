@@ -36,6 +36,9 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.waterfall "વોટરફોલ">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "રેકોર્ડિંગ દરમિયાન બ્રાઉઝર કામગીરી કરી રહેલ વિવિધ કામગીરી દર્શાવે છે, એક વોટરફોલ તરીકે ક્રમશઃ બહાર કર્યો છે.">
+<!ENTITY performanceUI.toolbar.memory-calltree "ફાળવણી">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS ફ્લેમ ચાર્ટ">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "ફાળવણી ફ્લેમ ચાર્ટ">
 
@@ -48,6 +51,9 @@
 <!ENTITY performanceUI.table.samples                  "નમૂનાઓ">
 <!ENTITY performanceUI.table.function                 "કાર્ય">
 <!ENTITY performanceUI.table.function.tooltip         "નમૂનાપૂર્ણ કાર્યનું નામ અને સ્રોત સ્થાન.">
+<!ENTITY performanceUI.table.totalAlloc               "કુલ નમૂનારૂપ ફાળવણી">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "ઑબ્જેક્ટની ફાળવણીની કુલ સંખ્યા આ સ્થાન અને કેલેલ્સમાં મળેલી છે.">
+<!ENTITY performanceUI.table.selfAlloc                "સ્વયં નમૂનારૂપ ફાળવણી">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
