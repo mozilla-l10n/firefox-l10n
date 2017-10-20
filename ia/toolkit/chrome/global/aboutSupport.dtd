@@ -115,7 +115,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotheca">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Chronologia del installation">
-<!ENTITY aboutSupport.updateHistoryTitle "Chronologia del actualisationes">
+<!ENTITY aboutSupport.updateHistoryTitle "Chronologia de actualisationes">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar le texto in le planchetta">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar le datos brute in le planchetta">
