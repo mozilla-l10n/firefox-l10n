@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Guna Perlindungan Penjejakan dalam Tetingkap Persendirian">
 <!ENTITY trackingProtectionPBM5.accesskey     "k">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Gunakan Perlindungan Penjejakan dalam Pelayaran Peribadi untuk menyekat penjejak dikenali">
 <!ENTITY trackingProtectionPBM6.accesskey     "b">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ketahui selanjutnya">
@@ -58,7 +59,7 @@
 <!ENTITY  keepUntil2.label              "Kekalkan sehingga">
 <!ENTITY  keepUntil2.accesskey          "s">
 
-<!ENTITY  expire.label                  "ianya luput">
+<!ENTITY  expire.label                  "luput">
 <!ENTITY  close.label                   "Saya tutup &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Pengecualian…">

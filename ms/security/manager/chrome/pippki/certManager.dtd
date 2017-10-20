@@ -75,7 +75,7 @@
 <!ENTITY certmgr.fields.accesskey             "n">
 <!ENTITY certmgr.hierarchy.label              "Hierarki Sijil">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
-<!ENTITY certmgr.addException.label           "Tambah Pengecualian...">
+<!ENTITY certmgr.addException.label           "Tambah Pengecualian…">
 <!ENTITY certmgr.addException.accesskey       "T">
 
 <!ENTITY exceptionMgr.title                   "Tambah Pengecualian Keselamatan">
