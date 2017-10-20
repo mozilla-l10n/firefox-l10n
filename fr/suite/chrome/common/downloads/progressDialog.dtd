@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY progress.title                  "Téléchargement en cours…">
-<!ENTITY closeWindow.key                 "T">
+<!ENTITY closeWindow.key                 "w">
 <!ENTITY cmd.pause.tooltip               "Pause">
 <!ENTITY cmd.resume.tooltip              "Reprendre">
 <!ENTITY cmd.retry.tooltip               "Réessayer">

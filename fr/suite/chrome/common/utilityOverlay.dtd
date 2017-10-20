@@ -23,7 +23,7 @@
 <!ENTITY newNavigatorCmd.key "n">
 <!ENTITY newNavigatorCmd.accesskey "N">
 <!ENTITY newPrivateWindowCmd.label "Fenêtre de navigation privée">
-<!ENTITY newPrivateWindowCmd.key "p">
+<!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "p">
 <!ENTITY printSetupCmd.label "Mise en page…">
 <!ENTITY printSetupCmd.accesskey "M">
