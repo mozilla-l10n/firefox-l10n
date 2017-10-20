@@ -73,8 +73,8 @@
 <!ENTITY lightning.imipbar.description                                      "Mesej ini mengandungi jemputan untuk menghadiri acara.">
 
 <!-- Lightning specific keybindings -->
-<!ENTITY lightning.keys.event.showCalendar.key "K">
-<!ENTITY lightning.keys.event.showTasks.key "P">
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "P">
 
