@@ -31,7 +31,7 @@ available. -->
 
 <!ENTITY enableHealthReport2.label       "Izinkan&brandShortName; supaya secara automatik akan menghantarkan data teknikal dan interaksi kepada Mozilla">
 <!ENTITY enableHealthReport2.accesskey   "r">
-<!ENTITY healthReportLearnMore.label     "Ketahui Selanjutnya">
+<!ENTITY healthReportLearnMore.label     "Ketahui selanjutnya">
 
 <!ENTITY dataCollection.label            "Pengumpulan dan penggunaan data &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Kami berusaha untuk menyediakan anda dengan pilihan dan hanya mengumpulkan apa yang kami perlukan, dan memajukan &brandShortName; untuk semua orang. Kami sentiasa meminta izin sebelum menerima maklumat peribadi.">
@@ -39,7 +39,7 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Izinkan &brandShortName; menghantar laporan ranap kepada Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "l">
-<!ENTITY crashReporterLearnMore.label    "Ketahui Selanjutnya">
+<!ENTITY crashReporterLearnMore.label    "Ketahui selanjutnya">
 
 <!ENTITY networkTab.label                "Rangkaian">
 

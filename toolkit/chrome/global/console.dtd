@@ -30,7 +30,7 @@
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Pertama > Tertib Susunan Terkhir">
 <!ENTITY sortFirst.accesskey "h">
-<!ENTITY sortLast.label      "Terakhir > Tertib Susunan Pertama">
+<!ENTITY sortLast.label      "Tertib Susunan Terakhir > Pertama">
 <!ENTITY sortLast.accesskey  "s">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
