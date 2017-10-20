@@ -26,7 +26,7 @@
 <!ENTITY contextOutgoing.label "Selepas Menghantar">
 <!ENTITY contextOutgoing.accesskey "M">
 <!ENTITY contextArchive.label "Arkib">
-<!ENTITY contextArchive.accesskey "M">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Laksanakan tindakan ini:">
 <!ENTITY filterActionDesc.accesskey "L">
