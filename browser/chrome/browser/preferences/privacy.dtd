@@ -43,13 +43,16 @@
 
 <!ENTITY  suggestionSettings2.label     "অনুসন্ধান ইঞ্জিন পরামর্শের জন্য পছন্দসমূহ পরিবর্তন করুন">
 
+<!ENTITY  acceptCookies2.label          "ওয়েবসাইট থেকে কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "সর্বদা">
 <!ENTITY  acceptThirdParty.never.label    "কখনো নয়">
 <!ENTITY  acceptThirdParty.visited.label  "প্রদর্শিত হতে">
 
+<!ENTITY  keepUntil2.label              "সংরক্ষণের সময়কাল">
 <!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "তাদের মেয়াদ উত্তীর্ণ হয়েছে">
