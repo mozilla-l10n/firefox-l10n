@@ -19,7 +19,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "Anda meminta &brandShortName; untuk menyambung
 secara selamat ke <b>#1</b>, tetapi kami tidak dapat mengesahkan sambungan anda itu selamat.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Apa perlu saya buat?">
+<!ENTITY certerror.whatShouldIDo.heading "Apa Perlu Saya Buat?">
 <!ENTITY certerror.whatShouldIDo.content "Jika kebiasaanya anda disambung ke
 laman ini tanpa masalah, ralat ini bermakna ada seseorang
 cuba menyamar sebagai laman ini, dan anda tidak perlu teruskan.">
