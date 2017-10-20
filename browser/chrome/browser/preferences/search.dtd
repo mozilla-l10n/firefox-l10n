@@ -2,20 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Bara de Riçerca">
+
+<!ENTITY searchBar.hidden.label                "Deuvia a bara di indirissi pe çercâ e navegâ">
+<!ENTITY searchBar.shown.label                 "Azonzi bara de riçerca inta bara di atressi">
+
 <!ENTITY defaultSearchEngine.label             "Motô de riçerca predefinio">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Seleçionn-a o motô de riçerca predefinio: saiâ deuviou pe-a bara de indirissi, a bara de riçerca e a pagina prinçipâ de &brandShortName;.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Çerni o motô de riçerca predefinio da deuviâ inta bara di indirissi e inta bara de riçerca.">
 
 <!ENTITY provideSearchSuggestions.label        "Fanni vedde conseggi de riçerca">
 <!ENTITY provideSearchSuggestions.accesskey    "V">
 
-<!ENTITY showURLBarSuggestions.label           "Fanni vedde conseggi de riçerca tra i rizoltæ da bara di indirissi">
-<!ENTITY showURLBarSuggestions.accesskey       "s">
+<!ENTITY showURLBarSuggestions2.label           "Fanni vedde conseggi de riçerca tra i rizoltæ da bara di indirissi">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "I conseggi de riçerca no saian mostræ tra i exiti da-a bara di indirissi perché &brandShortName; o l'é inpostou pe no sarvâ a stöia.">
 
 <!ENTITY oneClickSearchEngines.label           "Motoî de riçerca in un sciacco">
 
-<!ENTITY chooseWhichOneToDisplay.label         "A bara de riçerca a permette de fâ riçerche diretamente in diversci sciti. Ti peu çerne quæ motoî mostrâ tra quelli che gh'é.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Çerni i motoî de riçerca alternativi che saian mostræ sotta a bara di indirissi e bara de riçerca quande ti iniçi a scrive.">
 
 <!ENTITY engineNameColumn.label                "Motô de riçerca">
 <!ENTITY engineKeywordColumn.label             "Paròlla ciave">
@@ -26,4 +31,4 @@
 <!ENTITY removeEngine.label                    "Scancella">
 <!ENTITY removeEngine.accesskey                "E">
 
-<!ENTITY addMoreSearchEngines2.label           "Azonzi ciù motoî de riçerca">
+<!ENTITY findMoreSearchEngines.label           "Treuva ciù motoî de riçerca">
