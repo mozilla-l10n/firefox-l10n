@@ -29,7 +29,7 @@
 <!ENTITY helpForIEUsers.accesskey       "I">
 <!-- LOCALIZATION NOTE some localizations need to change the
                        "Help" menu label on Windows -->
-<!ENTITY helpMenu.label                 "Help"> 
+<!ENTITY helpMenu.label                 "Bantuan"> 
 <!ENTITY helpMenu.accesskey             "H">
 
 <!-- Key labels, for mousewheel prefs -->
