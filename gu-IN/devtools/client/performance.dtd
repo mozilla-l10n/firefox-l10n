@@ -17,6 +17,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "નોન-મલ્ટિપ્રોસેસ Firefox પર વાસ્તવિક રેકોર્ડિંગ ડેટા અક્ષમ કર્યો.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -29,6 +30,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "એક પ્રોફાઇલ રેકોર્ડિંગ હાલમાં અનુપલબ્ધ છે. કૃપા કરીને બધી ખાનગી બ્રાઉઝિંગ વિંડોઝ બંધ કરો અને ફરી પ્રયાસ કરો.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -84,6 +86,7 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 <!ENTITY performanceUI.showJITOptimizations             "JIT ઑપ્ટિમાઇઝેશન્સ બતાવો">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "દરેક JavaScript ફ્રેમમાં લગાડવામાં આવેલ JIT ઓપ્ટિમાઇઝેશન ડેટાને નમૂનો બતાવો.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
@@ -99,10 +102,12 @@
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableAllocations             "રેકોર્ડ ફાળવણી">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "રૂપરેખાકરણ કરતી વખતે ઓબ્જેક્ટની ફાળવણી રેકોર્ડ કરો.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+<!ENTITY performanceUI.enableFramerate             "ફ્રેમરેટ રેકોર્ડ કરો">
 <!ENTITY performanceUI.enableFramerate.tooltiptext "રૂપરેખાકરણ કરતી વખતે ફ્રેમરેરેટનો રેકોર્ડ કરો.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
