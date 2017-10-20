@@ -39,20 +39,20 @@
 <!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Sinistra:">
 <!ENTITY marginLeft.accesskey "S">
-<!ENTITY marginRight.label   "Dextere:">
+<!ENTITY marginRight.label   "Dextera:">
 <!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label  "Capites e pedes de pagina">
 
 <!ENTITY hfLeft.label        "Sinistra:">
 <!ENTITY hfCenter.label      "Centro:">
-<!ENTITY hfRight.label       "Dextere:">
+<!ENTITY hfRight.label       "Dextera:">
 <!ENTITY headerLeft.tip      "Capite a sinistra">
 <!ENTITY headerCenter.tip    "Capite al centro">
-<!ENTITY headerRight.tip     "Capite a dextere">
+<!ENTITY headerRight.tip     "Capite a dextera">
 <!ENTITY footerLeft.tip      "Pede a sinistra">
 <!ENTITY footerCenter.tip    "Pede al centro">
-<!ENTITY footerRight.tip     "Pede a dextere">
+<!ENTITY footerRight.tip     "Pede a dextera">
 
 <!ENTITY hfTitle             "Titulo">
 <!ENTITY hfURL               "URL">

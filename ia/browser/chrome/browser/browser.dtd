@@ -30,7 +30,7 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Clauder le schedas a dextere">
+<!ENTITY  closeTabsToTheEnd.label            "Clauder le schedas a dextera">
 <!ENTITY  closeTabsToTheEnd.accesskey        "d">
 <!ENTITY  closeOtherTabs.label               "Clauder le altere schedas">
 <!ENTITY  closeOtherTabs.accesskey           "l">
@@ -623,9 +623,9 @@ items are mutually exclusive. -->
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Tacer">
-<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Non plus tacer">
-<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.accesskey       "t">
 <!ENTITY mediaPlaybackRate2.label     "Rapiditate de lectura">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Lente (0,5×)">
@@ -726,9 +726,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Commutar le direction del pagina">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar le direction del pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Commutar le direction del texto">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar le direction del texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 

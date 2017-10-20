@@ -18,7 +18,7 @@
 <!ENTITY importButton.tooltip       "Importar e appender un nove folio de stylo al documento">
 <!ENTITY importButton.accesskey     "I">
 
-<!ENTITY visibilityToggle.tooltip   "Commutar le visibilitate del folio de stylo">
+<!ENTITY visibilityToggle.tooltip   "Monstrar/celar le folio de stylo">
 
 <!ENTITY saveButton.label           "Salvar">
 <!ENTITY saveButton.tooltip         "Salvar iste folio de stylo in un file">
