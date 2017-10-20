@@ -22,8 +22,11 @@
 <!ENTITY tabCrashed.requestHelp "T'eu agiutane?">
 <!ENTITY tabCrashed.requestHelpMessage "I report di cianti ne agiutan a diagnosticâ problemi e megiorâ &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Segnala sto feuggio">
+<!ENTITY tabCrashed.sendReport3 "Manda in outomatico di report di cianti coscì poemmo scistemâ sto tipo de problema.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comenti no òbligatöi (i comenti i vedan tutti)">
+<!ENTITY tabCrashed.includeURL3 "Includdi a URLs di sciti donde t'ei quande &brandShortName; o s'é ciantou.">
 <!ENTITY tabCrashed.emailPlaceholder "Scrivi l’indirisso email">
 <!ENTITY tabCrashed.emailMe "Manda 'n'email quande gh'é de atre informaçioin">
 <!ENTITY tabCrashed.reportSent "A segnalaçion do cianto anòmalo a l'é za stæta manda. Graçie de avei contribuio a-o migioramento de &brandShortName;.">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Segnala i feuggi in background">
+<!ENTITY tabCrashed.autoSubmit3 "Agiorna e preferense in aotomatico pe mandâ in aotomatico quande &brandShortName; o se cianta.">
