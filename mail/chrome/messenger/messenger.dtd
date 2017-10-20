@@ -68,7 +68,7 @@
 <!ENTITY emptyTrashCmd.accesskey "g">
 <!ENTITY offlineMenu.label "Luar talian">
 <!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "Kerja Luar talian">
+<!ENTITY offlineGoOfflineCmd.label "Kerja Luar Talian">
 <!ENTITY offlineGoOfflineCmd.accesskey "j">
 <!ENTITY synchronizeOfflineCmd.label "Muat turun/Sync Sekarang…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
