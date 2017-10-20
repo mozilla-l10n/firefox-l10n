@@ -38,6 +38,8 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "વોટરફોલ">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "રેકોર્ડિંગ દરમિયાન બ્રાઉઝર કામગીરી કરી રહેલ વિવિધ કામગીરી દર્શાવે છે, એક વોટરફોલ તરીકે ક્રમશઃ બહાર કર્યો છે.">
+<!ENTITY performanceUI.toolbar.js-calltree "કૉલ શાખા">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "JavaScript કાર્યોને પ્રકાશિત કરે છે જ્યાં બ્રાઉઝર રેકોર્ડિંગ દરમિયાન વધુ સમય પસાર કરે છે.">
 <!ENTITY performanceUI.toolbar.memory-calltree "ફાળવણી">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS ફ્લેમ ચાર્ટ">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "ફાળવણી ફ્લેમ ચાર્ટ">
@@ -45,10 +47,15 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "કુલ સમય">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "આ કાર્યમાં વિતાવેલ સમયની સંખ્યા અને તે કાર્ય કરે છે.">
 <!ENTITY performanceUI.table.selfDuration             "સ્વયં સમય">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "ફક્ત આ વિધેયમાં વિતાવતો સમયનો જથ્થો.">
 <!ENTITY performanceUI.table.totalPercentage          "કુલ ખર્ચ">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "આ કાર્યમાં વિતાવેલ સમયની ટકાવારી અને તે કાર્ય કરે છે.">
 <!ENTITY performanceUI.table.selfPercentage           "સ્વયં ખર્ચ">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "ફક્ત આ વિધેયમાં ગાળવામાં આવેલા સમયની ટકાવારી.">
 <!ENTITY performanceUI.table.samples                  "નમૂનાઓ">
+<!ENTITY performanceUI.table.samples.tooltip          "આ કાર્ય સ્ટેક પર કેટલી વખત સ્ટેક પર હતું ત્યારે પ્રોફાઇલે નમૂના લીધો હતો.">
 <!ENTITY performanceUI.table.function                 "કાર્ય">
 <!ENTITY performanceUI.table.function.tooltip         "નમૂનાપૂર્ણ કાર્યનું નામ અને સ્રોત સ્થાન.">
 <!ENTITY performanceUI.table.totalAlloc               "કુલ નમૂનારૂપ ફાળવણી">
@@ -95,14 +102,17 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+<!ENTITY performanceUI.enableFramerate.tooltiptext "રૂપરેખાકરણ કરતી વખતે ફ્રેમરેરેટનો રેકોર્ડ કરો.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+<!ENTITY performanceUI.console.recordingNoticeStart "હાલ દ્વારા રેકોર્ડિંગ">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+<!ENTITY performanceUI.console.stopCommandStart "દાખલ કરીને રેકોર્ડિંગ રોકો">
 <!ENTITY performanceUI.console.stopCommandEnd   "કન્સોલમાં.">
