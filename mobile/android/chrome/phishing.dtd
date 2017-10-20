@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Trang web tại <span id='unwanted_sitename'/> được báo cáo là có chứa phần mềm không mong muốn và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Phần mềm không mong muốn mà trang này cố gắng cài đặt có thể là lừa đảo và ảnh hưởng nghiêm trọng đến hoạt động của thiết bị.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Trang bạn đang truy cập có thể chứa phần mềm gây hại">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; đã chặn trang này vì có thể nó thử cài đặt các ứng dụng nguy hiểm mà nó có thể ăn cắp hoặc xóa thông tin của bạn (ví dụ, hình ảnh, mật khẩu, tin nhắn và thẻ tín dụng).">
