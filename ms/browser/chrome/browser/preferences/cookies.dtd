@@ -5,7 +5,7 @@
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiesonsystem2.label         "Kuki berikut disimpan dalam komputer anda">
-<!ENTITY     cookiename.label               "Nama Cookie">
+<!ENTITY     cookiename.label               "Nama Kuki">
 <!ENTITY     cookiedomain.label             "Laman">
 
 <!ENTITY     props.name.label               "Nama:">
@@ -14,7 +14,7 @@
 <!ENTITY     props.path.label               "Haluan:">
 <!ENTITY     props.secure.label             "Hantar Untuk:">
 <!ENTITY     props.expires.label            "Luput:">
-<!ENTITY     props.container.label          "Bekas:">
+<!ENTITY     props.container.label          "Penyimpan:">
 
 <!ENTITY     window.title                   "Cookie">
 <!ENTITY     windowClose.key                "w">

@@ -60,7 +60,7 @@
 <!ENTITY bottomLinks.privacy        "Polisi Privasi">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Sedang menyemak kemaskini…">
+<!ENTITY update.checkingForUpdates  "Menyemak kemaskini…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; adalah versi yang terkini">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -103,7 +103,7 @@
 <!ENTITY update.downloading.start   "Memuat turun kemaskini — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Memasang kemaskini…">
+<!ENTITY update.applying            "Melaksanakan kemaskini…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
