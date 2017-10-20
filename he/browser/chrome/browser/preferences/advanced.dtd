@@ -30,6 +30,7 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "דיווח נתונים מנוטרל עבור תצורת בנייה זו">
 
 <!ENTITY enableHealthReport2.label       "האם לאפשר ל־&brandShortName; לשלוח אל Mozilla מידע טכני ופעולות שבוצעו בדפדפן">
+<!ENTITY enableHealthReport2.accesskey   "ד">
 <!ENTITY healthReportLearnMore.label     "מידע נוסף">
 
 <!ENTITY dataCollection.label            "איסוף המידע של &brandShortName;">

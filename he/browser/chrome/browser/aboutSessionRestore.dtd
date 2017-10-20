@@ -6,6 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "אנו מצטערים, אך אירעה צרה בעת שחזור הדפים שלך בחזרה.">
+<!ENTITY restorepage.problemDesc2   "אירעה צרה בעת שחזור ההפעלה הקודמת שלך. נא לבחור באפשרות שחזור ההפעלה כדי לנסות שוב.">
+<!ENTITY restorepage.tryThis2       "עדיין אין באפשרותך לשחזר את ההפעלה? לעתים אחת מהלשוניות היא הגורם לתקלה. נא לעבור על רשימת הלשוניות הקודמות ולהסיר את הסימון מלשוניות שאין בהן צורך עוד, ואז לנסות שוב לשחזר.">
 
 <!ENTITY restorepage.hideTabs       "הסתרת הלשוניות הקודמות">
 <!ENTITY restorepage.showTabs       "הצגת הלשוניות הקודמות">
