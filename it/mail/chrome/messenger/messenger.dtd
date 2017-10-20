@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Modifica bozza messaggio">
 <!ENTITY editDraftMsgCmd.accesskey "E">
+<!ENTITY newMsgFromTemplateCmd.label "Nuovo messaggio da modello">
+<!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Crea un filtro dal messaggio…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Sposta in">
@@ -734,12 +736,13 @@
 <!ENTITY attachmentColumn2.tooltip "Ordina per allegato">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Nuovo messaggio da modello">
 <!ENTITY contextOpenNewWindow.label "Apri il messaggio in una nuova finestra">
 <!ENTITY contextOpenNewWindow.accesskey "f">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Apri il messaggio in una nuova scheda">
 <!ENTITY contextOpenNewTab.accesskey "u">
 <!ENTITY contextOpenConversation.label "Apri il messaggio nella conversazione">
