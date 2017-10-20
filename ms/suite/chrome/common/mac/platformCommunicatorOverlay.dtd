@@ -14,14 +14,14 @@
 <!ENTITY preferencesCmd.modifiers       "accel">
 <!ENTITY servicesMenu.label             "Servis">
 <!ENTITY hideThisAppCmd.label           "Sorok &brandShortName;">
-<!ENTITY hideThisAppCmd.key             "S">
+<!ENTITY hideThisAppCmd.key             "H">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
 <!ENTITY hideOtherAppsCmd.label         "Sorok yang Lain">
-<!ENTITY hideOtherAppsCmd.key           "S">
+<!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "Papar Semua">
 <!ENTITY quitApplicationCmd.label       "Keluar &brandShortName;"> 
-<!ENTITY quitApplicationCmd.key         "K">
+<!ENTITY quitApplicationCmd.key         "Q">
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
 

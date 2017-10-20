@@ -46,7 +46,7 @@
 
 <!ENTITY addOnsManagerCmd.label "Pengurus Add-ons">
 <!ENTITY addOnsManagerCmd.accesskey "A">
-<!ENTITY addOnsManagerCmd.commandkey "u">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "Tukar Profil…">
 <!ENTITY switchProfileCmd.accesskey "r">
