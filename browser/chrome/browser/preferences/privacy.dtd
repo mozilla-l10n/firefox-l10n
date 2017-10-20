@@ -53,7 +53,7 @@
 <!ENTITY cookieExceptions.accesskey "z">
 <!ENTITY showCookies.label "Mostra i cookie…">
 <!ENTITY showCookies.accesskey "r">
-<!ENTITY historyHeader2.pre.label "Impostazioni cronologia">
+<!ENTITY historyHeader2.pre.label "Impostazioni cronologia:">
 <!ENTITY historyHeader2.pre.accesskey "m">
 <!ENTITY historyHeader.remember.label "salva la cronologia">
 <!ENTITY historyHeader.dontremember.label "non salvare la cronologia">
