@@ -6,7 +6,7 @@
 
 <!ENTITY errFile.label   "Fail Sumber:">
 <!ENTITY errLine.label   "Baris:">
-<!ENTITY errColumn.label "Kolum">
+<!ENTITY errColumn.label "Lajur:">
 
 <!ENTITY all.label          "Semua">
 <!ENTITY all.accesskey      "A">

@@ -14,7 +14,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; adalah dicipta sedia ada untuk anda di bawah semua terma daripada ">
+<!ENTITY rights.intro-point1a "&brandShortName; disediakan untuk anda di bawah terma ">
 <!ENTITY rights.intro-point1b "lesen awam Mozilla">
 <!ENTITY rights.intro-point1c ". Ini bermaksud anda boleh menggunakan, menyalin dan mengedarkan &brandShortName; kepada pihak lain. Anda juga dialu-alukan untuk mengolah kod sumber &brandShortName; mengikut keperluan anda. Lesen Umum Mozilla juga memberikan hak kepada anda untuk mengedarkan versi yang telah diubah.">
 

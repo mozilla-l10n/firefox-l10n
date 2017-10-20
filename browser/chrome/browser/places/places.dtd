@@ -22,7 +22,7 @@
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Belum disusun">
 <!ENTITY view.unsorted.accesskey        "B">
-<!ENTITY view.sortAscending.label       "Tertib Susunan A> Z">
+<!ENTITY view.sortAscending.label       "Tertib Susunan A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Tertib Susunan Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">

@@ -14,7 +14,7 @@
 
 <!ENTITY            availprofiles.label    "Profil Yang Ada">
 
-<!ENTITY            newButton.label        "Mencipta Profil…">
+<!ENTITY            newButton.label        "Cipta Profil…">
 <!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Namakan semula Profil…">
 <!ENTITY            renameButton.accesskey "R">

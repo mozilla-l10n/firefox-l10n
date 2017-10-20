@@ -63,7 +63,7 @@
 <!ENTITY certmgr.delete2.accesskey            "B">
 <!ENTITY certmgr.delete_builtin.label         "Buang atau Tidak Percaya…">
 <!ENTITY certmgr.delete_builtin.accesskey     "B">
-<!ENTITY certmgr.backup2.label                "Sandar…">
+<!ENTITY certmgr.backup2.label                "Sandaran…">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Backup Semua">
 <!ENTITY certmgr.backupall2.accesskey         "k">
