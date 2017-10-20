@@ -135,7 +135,7 @@
 <!ENTITY tableOrCellColor.label     "Kolor tła komórki lub tabeli…">
 <!ENTITY tableOrCellColor.accesskey "K">
 
-<!ENTITY formatRemoveStyles.key             "Z">
+<!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key              "K">
 <!ENTITY formatRemoveNamedAnchors.label     "Usuń kotwicę">
 <!ENTITY formatRemoveNamedAnchors.accesskey "U">
