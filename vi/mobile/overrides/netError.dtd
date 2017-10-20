@@ -45,11 +45,21 @@
 <!ENTITY malformedURI.title "Địa chỉ không hợp lệ">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 " <ul>
+  <li>Địa chỉ web thường được viết như
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Tìm kiếm</button>
+    </div>
+  <li>Hãy chắc chắn rằng bạn đang sử dụng dấu gạch chéo (tức là
+    <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Kết nối bị ngắt">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Tài liệu đã hết hạn">
+<!ENTITY notCached.longDesc "<p>Các tài liệu được yêu cầu không có sẵn trong bộ nhớ tạm của &brandShortName;.</p><ul><li>Để bảo mật, &brandShortName; không tự động yêu cầu lại tài liệu nhạy cảm.</li><li>Bấm thử lần nữa để yêu cầu lại tài liệu từ trang web.</li></ul>">
 
 <!ENTITY netOffline.title "Chế độ ngoại tuyến">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -86,11 +96,31 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Kiểm tra để chắc chắn rằng hệ thống của bạn có Trình quản lí Bảo mật Cá nhân.</li> <li>Điều này có thể là do cấu hình không chuẩn trên máy chủ.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Kết nối An toàn bị Thất bại">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Trang bạn đang cố gắng xem không thể hiển thị vì không được kiểm chứng tính xác thực của các dữ liệu đã nhận.</li>
+  <li>Xin vui lòng liên hệ với chủ sở hữu trang web để thông báo cho họ về vấn đề này.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Kết nối An toàn bị Thất bại">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Điều này có thể là một vấn đề với cấu hình của máy chủ, hoặc có thể ai đó đang cố gắng mạo danh máy chủ.</li>
+  <li>Nếu bạn đã kết nối với máy chủ này thành công trong quá khứ, các lỗi có thể là tạm thời, và bạn có thể thử lại sau.</li>
+</ul>
+">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>Các trang web có thể tạm thời không sẵn sàng hoặc quá tải. Thử lại sau ít phút.</li>
+  <li>Nếu bạn không thể tải trang bất kỳ, hãy kiểm tra dữ liệu di động hoặc kết nối mạng không dây.
+    <button id='wifi'>Kích hoạt mạng không dây</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Bị chặn bởi Chính sách Bảo vệ Nội dung">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">
@@ -125,3 +155,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Kết nối của bạn không an toàn">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> sử dụng công nghệ bảo mật là lỗi thời và dễ bị tấn công. Một kẻ tấn công có thể dễ dàng tiết lộ thông tin mà bạn nghĩ là an toàn. Quản trị trang web sẽ cần phải sửa chữa các máy chủ đầu tiên trước khi bạn có thể truy cập vào các trang web.</p><p>Mã lỗi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
