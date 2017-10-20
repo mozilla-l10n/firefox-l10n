@@ -19,7 +19,7 @@
 <!ENTITY icon2.accesskey      "I">
 <!ENTITY color2.label         "Warna">
 <!ENTITY color2.accesskey     "W">
-<!ENTITY windowClose.key      "t">
+<!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Selesai">
 <!ENTITY button.ok.accesskey  "S">
