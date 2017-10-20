@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "Přejde na předchozí stránku">
 <!ENTITY cmd.forward.tooltip                  "Přejde na následující stránku">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Některá rozšíření nemohla být ověřena">
 <!ENTITY showAllExtensions.button.label       "Zobrazit všechna rozšíření">
 <!ENTITY debugAddons.label                    "Ladění doplňků">
@@ -170,11 +171,11 @@
 <!ENTITY sort.name.label                      "Název">
 <!ENTITY sort.name.tooltip                    "Seřadit podle názvu">
 <!ENTITY sort.dateUpdated.label               "Poslední aktualizace">
-<!ENTITY sort.dateUpdated.tooltip             "Řadit dle aktualizace">
+<!ENTITY sort.dateUpdated.tooltip             "Řadit podle aktualizace">
 <!ENTITY sort.relevance.label                 "Nejlepší shody">
-<!ENTITY sort.relevance.tooltip               "Řadit dle nejlepší shody">
+<!ENTITY sort.relevance.tooltip               "Řadit podle nejlepší shody">
 <!ENTITY sort.price.label                     "Cena">
-<!ENTITY sort.price.tooltip                   "Řadit dle ceny">
+<!ENTITY sort.price.tooltip                   "Řadit podle ceny">
 
 <!ENTITY search.filter2.label                 "Hledat:">
 <!ENTITY search.filter2.installed.label       "Mé doplňky">
@@ -255,7 +256,6 @@
 <!ENTITY pluginDeprecation.description "Něco chybí? Některé zásuvné moduly už &brandShortName; nepodporuje.">
 <!ENTITY pluginDeprecation.learnMore "Zjistit více.">
 
-<!ENTITY legacyWarning.description "Něco chybí? Některá rozšíření už &brandShortName; nepodporuje.">
 <!ENTITY legacyWarning.showLegacy "Zobrazit zastaralá rozšíření">
 <!ENTITY legacyExtensions.title "Zastaralá rozšíření">
 <!ENTITY legacyExtensions.description "Tato rozšíření byla zakázána, protože neodpovídají současným standardům aplikace &brandShortName;.">
