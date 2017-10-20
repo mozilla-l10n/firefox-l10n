@@ -18,7 +18,7 @@
 
 <!ENTITY  whichIs.label              "iaitu:">
 
-<!ENTITY  chooseHandlerMac.label      "Pilih...">
+<!ENTITY  chooseHandlerMac.label      "Pilih…">
 <!ENTITY  chooseHandlerMac.accesskey  "i">
 <!ENTITY  chooseHandler.label         "Layari...">
 <!ENTITY  chooseHandler.accesskey     "r">

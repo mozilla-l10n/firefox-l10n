@@ -12,7 +12,7 @@
 <!ENTITY host       "Hos:">
 <!ENTITY port       "Port:">
 <!ENTITY connect    "Sambung">
-<!ENTITY connecting "Sedang menyambung...">
+<!ENTITY connecting "Sedang menyambung…">
 <!ENTITY availableAddons "Add-on jarak jauh yang tersedia:">
 <!ENTITY availableTabs "Tab jauh yang tersedia:">
 <!ENTITY availableProcesses "Proses jauh yang tersedia:">
