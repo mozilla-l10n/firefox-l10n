@@ -172,7 +172,7 @@ sementara, dan anda boleh cuba lagi nanti.</li>
 
 <!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Keluarkan saya dari sini!">
-<!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian...">
+<!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
