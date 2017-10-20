@@ -66,7 +66,7 @@
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Bandar:">
 <!ENTITY HomeCity.accesskey             "n">
-<!ENTITY HomeState.label                "Bandar/Negeri:">
+<!ENTITY HomeState.label                "Negeri/Wilayah:">
 <!ENTITY HomeState.accesskey            "B">
 <!ENTITY HomeZipCode.label              "Poskod:">
 <!ENTITY HomeZipCode.accesskey          "P">
@@ -96,7 +96,7 @@
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Bandar:">
 <!ENTITY WorkCity.accesskey             "d">
-<!ENTITY WorkState.label                "Negeri:">
+<!ENTITY WorkState.label                "Negeri/Wilayah:">
 <!ENTITY WorkState.accesskey            "N">
 <!ENTITY WorkZipCode.label              "Poskod:">
 <!ENTITY WorkZipCode.accesskey          "P">
