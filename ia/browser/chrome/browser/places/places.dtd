@@ -39,7 +39,7 @@
 <!ENTITY cmd.restore2.label             "Restaurar">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Eliger un file…">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY cmd.restoreFromFile.accesskey  "E">
 
 <!ENTITY cmd.deleteDomainData.label     "Oblidar iste sito">
 <!ENTITY cmd.deleteDomainData.accesskey "F">

@@ -256,7 +256,7 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-<!ENTITY pluginDeprecation.description "">
+<!ENTITY pluginDeprecation.description "Alcun cosa manca? Alcun plugins non es plus admittite per &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Saper plus.">
 
 <!ENTITY legacyWarning.showLegacy "Monstrar le extensiones obsolete">

@@ -184,7 +184,7 @@ was trying to connect. -->
 Strict Transport Security (HSTS) pro specificar ille &brandShortName; pote connecter se solo
 a illo in modo secur. Assi, adder un exception pro iste
 certificato non es possibile.">
-<!ENTITY certerror.copyToClipboard.label "Copiar le texto al planchetta">
+<!ENTITY certerror.copyToClipboard.label "Copiar le texto in le planchetta">
 
 <!ENTITY inadequateSecurityError.title "Tu connexion non es secur">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

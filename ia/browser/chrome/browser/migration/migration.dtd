@@ -14,7 +14,7 @@
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "Importar nihil">
-<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromNothing.accesskey    "n">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "Chrome Canary">

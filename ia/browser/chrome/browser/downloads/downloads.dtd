@@ -53,7 +53,7 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "Aperir le dossier que lo contine">
-<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.show.accesskey               "d">
 <!ENTITY cmd.showMac.label                "Monstrar in Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.showDownloads.label          "Monstrar le dossier de discargas">

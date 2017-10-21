@@ -6,7 +6,7 @@
 <!ENTITY printWindow.title "Imprimente"> 
 <!ENTITY title    "Titulo:"> 
 <!ENTITY progress "Progresso:">
-<!ENTITY preparing "In preparation...">
+<!ENTITY preparing "Preparante…">
 <!ENTITY printComplete "Impression completate.">
 
 <!ENTITY dialogCancel.label "Cancellar"> 

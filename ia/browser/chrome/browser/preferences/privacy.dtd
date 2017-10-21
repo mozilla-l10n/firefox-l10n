@@ -34,7 +34,7 @@
 <!ENTITY  history.label                 "Chronologia">
 <!ENTITY  permissions.label             "Permissiones">
 
-<!ENTITY  addressBar.label              "Barra de adresses">
+<!ENTITY  addressBar.label              "Barra de adresse">
 <!ENTITY  addressBar.suggest.label      "Durante que tu usa le barra de adresse, suggerer">
 <!ENTITY  locbar.history2.label         "Chronologia de navigation">
 <!ENTITY  locbar.history2.accesskey     "H">
