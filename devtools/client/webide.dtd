@@ -134,6 +134,10 @@
 <!ENTITY devicepreference_newtext "પસંદગી મૂલ્ય">
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_title "ઉપકરણ સેટિંગ્સ">
+<!ENTITY devicesetting_search "શોધ સેટિંગ્સ">
+<!ENTITY devicesetting_newname "નવું સેટિંગ નામ">
+<!ENTITY devicesetting_newtext "કિંમત સુયોજિત કરી રહ્યા છે">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "વિનિયમનકર્તા">
