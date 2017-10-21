@@ -72,6 +72,8 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+<!ENTITY performanceUI.invertTree             "કૉલ શાખા ઉલટાવો">
+<!ENTITY performanceUI.invertTree.tooltiptext "કોલ શાખા ઉતારીને સૌથી નાની ફ્રેમથી શરૂ થયેલી પ્રોફાઈલ કોલ પાથ અને જૂની ચોકઠાં સુધી વિસ્તરણ કરે છે.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
