@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "التحديث">
 <!ENTITY itemNetworking.label    "الشبكة و مساحة القرص">
 <!ENTITY itemCertificates.label  "الشهادات">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "فعّل البحث العمومي والفهرسة">
 <!ENTITY enableGlodaSearch.accesskey   "ف">
 <!ENTITY dateTimeFormatting.label      "تنسيق التاريخ و الوقت">
@@ -38,8 +38,8 @@
 <!ENTITY returnReceiptsInfo.label      "حدد كيف يتعامل &brandShortName; مع إعلامات الوصول">
 <!ENTITY showReturnReceipts.label      "إعلامات الوصول…">
 <!ENTITY showReturnReceipts.accesskey  "ع">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "تليمتري">
 <!ENTITY telemetryDesc.label             "شارك بيانات عميل البريد فيما يتعلق بالأداء و الاستخدام و العتاد و التخصيصات مع &vendorShortName; لمساعدتنا في جعل &brandShortName; أفضل">
 <!ENTITY enableTelemetry.label           "فعّل أداة تليمتري">
@@ -51,12 +51,12 @@
 <!ENTITY enableCrashReporter.label       "فعّل مبلّغ الانهيار">
 <!ENTITY enableCrashReporter.accesskey   "ن">
 <!ENTITY crashReporterLearnMore.label    "اطّلع على المزيد">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApp2.label                "تحديثات &brandShortName;:">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
@@ -65,7 +65,7 @@
   if required by your language.
  -->
 <!ENTITY updateApp.version.pre           "الإصدارة ">
-<!ENTITY updateApp.version.post          "​">
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "نصّب التحديثات آليًا (مستحسن: يزيد الأمان)">
 <!ENTITY updateAuto.accesskey            "ل">
 <!ENTITY updateCheck.label               "التمس التحديثات، و لكن اترك لي خيار تنصيبها من عدمه">
@@ -77,8 +77,8 @@
 
 <!ENTITY useService.label                "استخدم خدمة تعمل في الخلفية لتنصيب التحديثات">
 <!ENTITY useService.accesskey            "خ">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "إعدادات…">
 <!ENTITY showSettings.accesskey        "د">
 <!ENTITY proxiesConfigure.label        "اضبط كيفية اتصال &brandShortName; بالإنترنت">
@@ -92,13 +92,13 @@
 <!ENTITY offlineCompactFolders.label     "ادمج كل المجلدات إذا كانت ستوفِّر أكثر من">
 <!ENTITY offlineCompactFolders.accesskey "و">
 <!ENTITY offlineCompactFoldersMB.label   "م.بايت">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "استخدم حتى">
 <!ENTITY useCacheBefore.accesskey        "ى">
 <!ENTITY useCacheAfter.label             "م.بايت من المساحة للذاكرة المخبأة">
@@ -106,8 +106,8 @@
 <!ENTITY overrideSmartCacheSize.accesskey "ذ">
 <!ENTITY clearCacheNow.label             "امسح الآن">
 <!ENTITY clearCacheNow.accesskey         "ح">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "عندما يطلب خادوم شهادتي الشخصية:">
 <!ENTITY certs.auto                      "اختر واحدة تلقائيًا">
 <!ENTITY certs.auto.accesskey            "خ">
