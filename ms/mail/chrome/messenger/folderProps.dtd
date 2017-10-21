@@ -19,7 +19,7 @@
 <!ENTITY retention.label "Polisi Pengekalan">
 <!ENTITY retentionUseAccount.label  "Guna tetapan akaun saya">
 <!ENTITY retentionUseAccount.accesskey "G">
-<!ENTITY daysOld.label "hari">
+<!ENTITY daysOld.label "hari lepas">
 <!ENTITY message.label "mesej">
 <!ENTITY retentionCleanup.label "Untuk memulihkan ruang cakera, mesej lama boleh dihapuskan secara kekal.">
 <!ENTITY retentionCleanupImap.label "Untuk memulihkan ruang cakera, mesej lama boleh dihapuskan secara kekal, kedua-dua salinan lokal dan mesej asal dalam pelayan jauh.">
