@@ -178,7 +178,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.label                        "Nome ou e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Pesquisa avançada de endereços">
-<!ENTITY quickSearchCmd.key                             "q">
+<!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Pesquisa rápida">
 
 <!-- Results Pane -->

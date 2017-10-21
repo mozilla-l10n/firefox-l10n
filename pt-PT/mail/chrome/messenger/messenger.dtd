@@ -272,10 +272,10 @@
 <!ENTITY findMenu.accesskey "o">
 <!ENTITY findCmd.label "Localizar nesta mensagem...">
 <!ENTITY findCmd.accesskey "o">
-<!ENTITY findCmd.key "o">
+<!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Localizar novamente">
 <!ENTITY findAgainCmd.accesskey "L">
-<!ENTITY findAgainCmd.key "l">
+<!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
@@ -501,7 +501,7 @@
 <!ENTITY devtoolsMenu.accesskey "o">
 <!ENTITY devToolboxCmd.label "Caixa de ferramentas do programador">
 <!ENTITY devToolboxCmd.accesskey "t">
-<!ENTITY devToolboxCmd.commandkey "t">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Extra Depurador">
 <!ENTITY addonDebugCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Depurador de frame de conteúdo">
@@ -946,10 +946,10 @@
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Serviços">
 <!ENTITY hideThisAppCmdMac.label        "Ocultar o &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "O">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Ocultar outras">
-<!ENTITY hideOtherAppsCmdMac.commandkey "O">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Mostrar tudo">
 
