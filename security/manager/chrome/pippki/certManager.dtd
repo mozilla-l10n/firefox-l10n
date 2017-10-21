@@ -19,7 +19,7 @@
 <!ENTITY certmgr.detail.general_tab.title     "Umum">
 <!ENTITY certmgr.detail.general_tab.accesskey "u">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Butiran">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "P">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "B">
 
 <!ENTITY certmgr.pending.label                "Sijil sedang disahkan...">
 <!ENTITY certmgr.subjectinfo.label            "Dikeluarkan Untuk">
