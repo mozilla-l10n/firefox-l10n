@@ -37,7 +37,7 @@
 <!ENTITY community.creditsLink      "komuniti global">
 <!ENTITY community.end3             " bekerjasama supaya Web ini terbuka kepada umum dan boleh diakses oleh semua.">
 
-<!ENTITY helpus.start               "Anda ingin membantu? ">
+<!ENTITY helpus.start               "Mahu membantu? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Hulurkan sumbangan">
 <!ENTITY helpus.middle              " atau ">
