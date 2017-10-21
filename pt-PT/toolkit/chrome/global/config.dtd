@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Isto pode violar a sua garantia!">
 <!ENTITY aboutWarningText.label "A alteração destas definições avançadas pode ter resultados indesejados na estabilidade, segurança e desempenho desta aplicação. Só deve continuar se souber o que está a fazer.">
 <!ENTITY aboutWarningButton2.label "Eu aceito o risco!">
@@ -13,20 +13,20 @@
 
 <!ENTITY searchPrefs.label "Pesquisar:">
 <!ENTITY searchPrefs.accesskey "r">
-<!ENTITY focusSearch.key "f">
+<!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Nome da preferência">
 <!ENTITY lockColumn.label "Estado">
 <!ENTITY typeColumn.label "Tipo">
 <!ENTITY valueColumn.label "Valor">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Clique para ordenar"> 
 <!ENTITY columnChooser.tooltip "Clique para selecionar as colunas a mostrar"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
