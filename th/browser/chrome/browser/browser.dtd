@@ -533,11 +533,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "โหลดกรอบใหม่">
 <!ENTITY reloadFrameCmd.accesskey     "ล">
-<!ENTITY viewPartialSourceForSelectionCmd.label "ดูต้นฉบับที่เลือก">
+<!ENTITY viewPartialSourceForSelectionCmd.label "ดูต้นฉบับส่วนที่เลือก">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "ดูต้นฉบับ MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "ด">
 <!ENTITY viewPageSourceCmd.label      "ดูต้นฉบับหน้า">
 <!ENTITY viewPageSourceCmd.accesskey  "ต">
 <!ENTITY viewFrameSourceCmd.label     "ดูต้นฉบับกรอบ">
