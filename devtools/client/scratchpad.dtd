@@ -84,14 +84,14 @@
 
 <!ENTITY inspect.label                "Denetle">
 <!ENTITY inspect.accesskey            "D">
-<!ENTITY inspect.key                  "D">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Göster">
 <!ENTITY display.accesskey            "G">
-<!ENTITY display.key                  "G">
+<!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Güzel yazdırma">
-<!ENTITY pprint.key                   "y">
+<!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "ü">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -152,4 +152,4 @@
   -->
 <!ENTITY evalFunction.label "Mevcut fonksiyonu değerlendir">
 <!ENTITY evalFunction.accesskey "d">
-<!ENTITY evalFunction.key "d">
+<!ENTITY evalFunction.key "e">
