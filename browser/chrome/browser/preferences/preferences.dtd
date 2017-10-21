@@ -27,6 +27,7 @@
 
 <!ENTITY  languageAndAppearance.label   "Ɗemngal e Mbaydi">
 <!ENTITY  filesAndApplications.label    "Pille e Jaaɓnirɗe">
+<!ENTITY  browserPrivacy.label          "Suturo Wanngorde">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Konte Firefox">
