@@ -9,7 +9,7 @@
 <!ENTITY findField.accesskey "C">
 <!ENTITY caseSensitiveCheckbox.label "Sepadan kes">
 <!ENTITY caseSensitiveCheckbox.accesskey "S">
-<!ENTITY wrapCheckbox.label "Bungkus">
+<!ENTITY wrapCheckbox.label "Balut">
 <!ENTITY wrapCheckbox.accesskey "B">
 <!ENTITY findButton.label "Cari Berikut">
 <!ENTITY findButton.accesskey "C">
