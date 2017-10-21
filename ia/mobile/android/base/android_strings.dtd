@@ -379,7 +379,7 @@
 
 <!ENTITY pref_default_browser "Render predefinite le navigator">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar supporto de Mozilla">
-<!ENTITY pref_about_firefox "Super &brandShortName;">
+<!ENTITY pref_about_firefox "A proposito de &brandShortName;">
 <!ENTITY pref_vendor_faqs "Questiones frequente">
 <!ENTITY pref_vendor_feedback "Inviar opinion">
 
