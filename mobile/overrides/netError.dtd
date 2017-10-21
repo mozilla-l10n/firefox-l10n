@@ -7,14 +7,14 @@
 
 <!ENTITY loadError.label "هناك مشكلة في تحميل الصفحة">
 <!ENTITY retry.label "حاول مجددًا">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "تعذر الاتصال">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "هذا العنوان غير مسموح به">
-<!ENTITY deniedPortAccess.longDesc "​">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "الخادوم غير موجود">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "فشل الاتصال الآمن">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>قد يكون هذا بسبب مشكلة في إعدادات الخادوم، أو أنّ أحدًا يحاول انتحال هوية الخادوم</li> <li>إن كنت قد اتصلتَ بهذا الموقع بنجاح في الماضي، قد يكون هذا الخطأ مؤقتًا، لذا أعِد المحاولة في وقت لاحق.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد قليل.</li> <li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة البيانات أو الشبكة اللاسلكية. <button id='wifi'>فعّل الواي فاي</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "حجبتها سياسة أمن المحتوى">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
 <!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>ينبغي ألّا تضيف استثناء إذا كنت تستخدم اتصال إنترنت لا تثق به، أو كنت غير معتاد على رؤية هذا التحذير من هذا الموقع.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button><button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 

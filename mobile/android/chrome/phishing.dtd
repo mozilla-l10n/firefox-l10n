@@ -23,5 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "أُبلِغ عن أن الموقع <span id='unwanted_sitename'/> يحتوي برمجيات غير مرغوب فيها و حُجِبَ بناء على تفضيلات الأمن.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "صفحات البرمجيات غير المرغوب فيها تحاول تنصيب برمجيات خدّاعة قد تؤثر على نظامك بصور غير متوقعة.">
 
-<!ENTITY safeb.blocked.harmfulPage.title "">
+<!ENTITY safeb.blocked.harmfulPage.title "قد يحتوي هذا الموقع برمجيات خبيثة">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc "حجب &brandShortName; هذه الصفحة لأنها قد تحاول تثبيت تطبيقات خطرة تحاول سرقة معلوماتك أو حذفها (معلوماتك مثل الصور، وكلمات السر، والرسائل والبطاقات الائتمانية).">
