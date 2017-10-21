@@ -761,8 +761,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Ова мрежно место има содржини што не се безбедни (како на пример: слики).">
 <!ENTITY identity.description.passiveLoaded3 "Иако &brandShortName; блокираше некои содржини, оваа страница сѐ уште има содржини што не се безбедни (како, на пример, слики).">
 <!ENTITY identity.description.activeLoaded "Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и вашата врска не е приватна.">
+<!ENTITY identity.description.activeLoaded2 "Податоците што ги споделувате со ова место би можеле да бидат видливи за други (како на пример: лозинки, пораки, кредитни картички и сл.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Активирај заштита">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "Б">
 <!ENTITY identity.disableMixedContentBlocking.label "Исклучи заштита за сега">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "Д">
 <!ENTITY identity.learnMore "Дознај повеќе">
@@ -842,6 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage "Менаџирај">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "М">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Земете повеќе теми">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
 <!ENTITY customizeMode.emptyOverflowList.description "Вметнете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
 <!ENTITY customizeMode.overflowList.title2 "Дополнително мени">
 <!ENTITY customizeMode.overflowList.description "Вметнете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
@@ -955,6 +958,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "Н">
 <!ENTITY updateManual.panelUI.label "Преземете свежа копија на &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "По краткотрајното рестартирање, &brandShorterName; ќе ги врати сите ваши отворени јазичиња и прозорци што не се дел од Приватно прелистување.">
 <!ENTITY updateRestart.header.message2 "Рестартирај за надградба на &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Рестартирај и обнови">
 <!ENTITY updateRestart.acceptButton.accesskey "Р">
