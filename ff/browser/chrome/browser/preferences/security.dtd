@@ -5,7 +5,6 @@
 <!ENTITY  security.label                 "Kisal">
 
 
-
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,7 +25,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Formileeruuji &amp; pinle">
 
-
+<!ENTITY  rememberLogins2.label         "Siiftor baccooje e finndeeji lowe geese">
 <!ENTITY  passwordExceptions.label      "Paltooje…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 
