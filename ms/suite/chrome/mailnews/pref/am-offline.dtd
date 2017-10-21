@@ -12,7 +12,7 @@
 <!ENTITY autosyncNotDownload.label "Jangan muat turun mesej yang melebihi">
 <!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "hari">
+<!ENTITY daysOld.label "hari lepas">
 <!ENTITY message.label "mesej">
 <!ENTITY nntpNotDownloadRead.label "Mesej yang dibaca">
 <!ENTITY nntpNotDownloadRead.accesskey "d">
