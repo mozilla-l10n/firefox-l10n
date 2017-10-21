@@ -753,9 +753,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Оваа страница користи слаба енкрипција.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecureLoginForms "Податоците што ги внесувате за најава на оваа страница не се безбедни и би можеле да бидат злоупотребени.">
 <!ENTITY identity.description.weakCipher "Вашата врска со ова мрежно место користи слаба енкрипција и не е приватна.">
 <!ENTITY identity.description.weakCipher2 "Други луѓе можат да ги гледаат вашите информации или да го менуваат однесувањето на мрежното место.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; блокираше делови од оваа страница што не се безбедни.">
+<!ENTITY identity.description.passiveLoaded "Вашата врска не е приватна и податоците што ги споделувате со ова место, би можеле да бидат видливи за други.">
 <!ENTITY identity.description.passiveLoaded2 "Ова мрежно место има содржини што не се безбедни (како на пример: слики).">
+<!ENTITY identity.description.passiveLoaded3 "Иако &brandShortName; блокираше некои содржини, оваа страница сѐ уште има содржини што не се безбедни (како, на пример, слики).">
 <!ENTITY identity.description.activeLoaded "Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и вашата врска не е приватна.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Активирај заштита">
@@ -829,6 +833,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете од илјадници додатоци">
 <!ENTITY customizeMode.restoreDefaults "Врати основни прилагодувања">
 <!ENTITY customizeMode.done "Готово">
+<!ENTITY customizeMode.titlebar "Насловна лента">
 <!ENTITY customizeMode.extraDragSpace "Простор за влечење">
 <!ENTITY customizeMode.toolbars2 "Алатници">
 <!ENTITY customizeMode.lwthemes "Теми">
