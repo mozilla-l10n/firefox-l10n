@@ -15,6 +15,8 @@
 <!ENTITY saveCmd.accesskey "y">
 <!ENTITY saveAsCmd.label "Tiyak Achi'el…">
 <!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsChangeEncodingCmd2.label "Tiyak chuqa' Tijal Rucholajil Rucholajem Tzij">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "E">
 <!ENTITY publishCmd.label "Titalüx rutzijol">
 <!ENTITY publishCmd.accesskey "l">
 <!ENTITY publishCmd.key "u">
@@ -24,7 +26,13 @@
 <!ENTITY fileRevert.accesskey "x">
 
 <!-- Edit menu items -->
+<!ENTITY publishSettings.label "Tajin nitalüx rutzijol Runuk'ulem Ruxaq K'amaya'l…">
+<!ENTITY publishSettings.accesskey "t">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "K'ak'a'">
+<!ENTITY newToolbarCmd.tooltip "Titz'uk jun k'ak'a' ruxaq Nuk'unel">
 <!ENTITY openToolbarCmd.label "Tijaq">
+<!ENTITY openToolbarCmd.tooltip "Tijaq jun aj wawe' yakb'äl">
+<!ENTITY saveToolbarCmd.tooltip "Tiyak ri yakb'äl pa jun aj wawe' k'ojlib'äl">
+<!ENTITY publishToolbarCmd.tooltip "Tijotob'äx yakb'äl pa jun näj k'ojlib'äl">
