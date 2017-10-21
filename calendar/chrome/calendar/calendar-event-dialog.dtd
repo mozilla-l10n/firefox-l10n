@@ -55,7 +55,7 @@
 <!ENTITY event.dialog.cut.key                     "X">
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
-<!ENTITY event.dialog.select.all.key              "T">
+<!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Yeni">
