@@ -21,15 +21,15 @@
 
 <!ENTITY  locationPermissions.label                             "المكان">
 <!ENTITY  locationSettingsButton.label                          "الإعدادات…">
-<!ENTITY  locationSettingsButton.accesskey                      "م">
+<!ENTITY  locationSettingsButton.accesskey                      "ع">
 
 <!ENTITY  cameraPermissions.label                               "الكمرة">
 <!ENTITY  cameraSettingsButton.label                            "الإعدادات…">
-<!ENTITY  cameraSettingsButton.accesskey                        "ك">
+<!ENTITY  cameraSettingsButton.accesskey                        "ع">
 
 <!ENTITY  microphonePermissions.label                           "الميكروفون">
 <!ENTITY  microphoneSettingsButton.label                        "الإعدادات…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "ف">
+<!ENTITY  microphoneSettingsButton.accesskey                    "ع">
 
 <!ENTITY  fontsAndColors.label        "الخطوط و الألوان">
 
@@ -63,7 +63,7 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.beforeLogo "ترجمات">
-<!ENTITY translation.options.attribution.afterLogo "​">
+<!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent2.label              "محتوى إدارة الحقوق الرقمية (DRM)">
 
