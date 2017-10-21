@@ -17,7 +17,7 @@
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Memuat turun Sijil">
-<!ENTITY downloadCert.message1 "Anda telah ditanya untuk percayakan Autoriti Siil (CA) baru.">
+<!ENTITY downloadCert.message1 "Anda telah diminta untuk mempercayai Autoriti Sijil (CA) yang baru.">
 <!ENTITY downloadCert.trustSSL "Percayai CA ini untuk mengenal pasti laman web.">
 <!ENTITY downloadCert.trustEmail "Percayakan CA ini untuk mengenal pasti pengguna e-mel.">
 <!ENTITY downloadCert.trustObjSign "Percayakan CA ini untuk mengenali pembangun perisian.">

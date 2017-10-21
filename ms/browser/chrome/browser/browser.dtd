@@ -542,9 +542,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "P">
 <!ENTITY viewFrameSourceCmd.label     "Papar Sumber Bingkai">
 <!ENTITY viewFrameSourceCmd.accesskey "S">
-<!ENTITY viewPageInfoCmd.label        "Lihat Info Laman">
+<!ENTITY viewPageInfoCmd.label        "Papar Info Halaman">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "Lihat Info Bingkai">
+<!ENTITY viewFrameInfoCmd.label       "Papar Info Bingkai">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "Muat Semula Imej">
 <!ENTITY reloadImageCmd.accesskey     "M">
