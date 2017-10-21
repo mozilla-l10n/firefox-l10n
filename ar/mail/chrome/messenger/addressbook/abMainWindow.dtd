@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "دفتر العناوين">
 <!ENTITY blankResultsPaneMessage.label                  "لا يعرض دفتر العناوين هذا جهات الاتصال إلا بعد البحث">
 <!ENTITY localResultsOnlyMessage.label                  "جهات الاتصال من دفاتر العناوين البعيدة لا تظهر إلا بعد البحث">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "ملف">
 <!ENTITY fileMenu.accesskey                             "م">
 <!ENTITY newMenu.label                                  "جديد">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "اطبع دفتر العناوين…">
 <!ENTITY printAddressBook.accesskey                     "د">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "تحرير">
 <!ENTITY editMenu.accesskey                             "ح">
 <!ENTITY undoCmd.label                                  "تراجع">
@@ -85,8 +85,8 @@
 <!ENTITY contactPropertiesMenu.accesskey                "ص">
 <!ENTITY mailingListPropertiesMenu.label                "خصائص القائمة البريدية">
 <!ENTITY mailingListPropertiesMenu.accesskey            "ق">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "اعرض">
 <!ENTITY viewMenu.accesskey                             "ع">
 <!ENTITY viewToolbarsMenu.label                         "أشرطة الأدوات">
@@ -117,8 +117,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "س">
 <!ENTITY sortMenu.label                                 "رتّب حسب">
 <!ENTITY sortMenu.accesskey                             "ر">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "أدوات">
 <!ENTITY tasksMenu.accesskey                            "د">
 <!ENTITY messengerCmd.label                             "البريد و مجموعات الأخبار">
@@ -134,8 +134,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "خ">
 <!ENTITY preferencesCmdUnix.label                       "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey                   "ف">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "جهة اتصال جديدة">
 <!ENTITY newContactButton.accesskey                     "ج">
 <!ENTITY newlistButton.label                            "قائمة جديدة">
@@ -159,8 +159,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "ط">
 <!ENTITY deleteButton2.label                            "احذف">
 <!ENTITY deleteButton2.accesskey                        "ح">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "أنشئ جهة اتصال جديدة في دفتر العناوين">
 <!ENTITY newlistButton.tooltip                          "أنشئ قائمة جديدة">
 <!ENTITY editPropertiesButton.tooltip                   "حرّر العنصر المُختار">
@@ -170,18 +170,18 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "أرسِل رسالة بريد">
 <!ENTITY newIM.tooltip                                  "أرسِل رسالة فورية أو دردشة">
 <!ENTITY deleteButton2.tooltip                          "احذف العنصر المُختار">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "دفاتر العناوين">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "الاسم أو البريد">
 <!ENTITY SearchNameOrEmail.accesskey                    "س">
 <!ENTITY advancedButton.tooltip                         "بحث متقدم في العناوين">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "بحث سريع">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "دفتر العناوين">
 <!ENTITY Addrbook.accesskey                             "د">
 <!ENTITY GeneratedName.label                            "الاسم">
@@ -216,9 +216,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "ن">
 <!ENTITY _PhoneticName.label                            "الاسم الصوتي">
 <!ENTITY _PhoneticName.accesskey                        "و">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "جهة اتصال">
 <!ENTITY home.heading                                   "المنزل">
 <!ENTITY other.heading                                  "أخرى">
@@ -231,11 +231,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "اجلب الخريطة">
 <!ENTITY mapIt.tooltip                                  "اعرض خريطة لهذا العنوان من الوب">
+
 <!-- Status Bar -->
+<!ENTITY statusText.label                               "">
 
-<!ENTITY statusText.label                               "​">
 <!--  Mac OS X Window Menu -->
-
 <!ENTITY windowMenu.label                               "نافذة">
 <!ENTITY minimizeWindow.label                           "صغّر">
 <!ENTITY minimizeWindow.key                             "m">
