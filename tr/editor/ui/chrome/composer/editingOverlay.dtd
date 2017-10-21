@@ -1,14 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- File menu items -->
 
+<!-- File menu items -->
 <!ENTITY openFileCmd.label "Dosya Aç…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Web Konumu Aç…">
 <!ENTITY openRemoteCmd.accesskey "K">
-<!ENTITY openRemoteCmd.key "K">
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Son Sayfalar">
 <!ENTITY fileRecentMenu.accesskey "n">
 <!ENTITY saveCmd.label "Kaydet">
@@ -24,12 +24,12 @@
 <!ENTITY publishAsCmd.accesskey "l">
 <!ENTITY fileRevert.label "Geri Al">
 <!ENTITY fileRevert.accesskey "G">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY publishSettings.label "Site Yayınlama Ayarları…">
 <!ENTITY publishSettings.accesskey "S">
-<!-- Toolbar buttons/items -->
 
+<!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Yeni">
 <!ENTITY newToolbarCmd.tooltip "Yeni bir Düzenleyici sayfası oluştur">
 <!ENTITY openToolbarCmd.label "Aç ">
