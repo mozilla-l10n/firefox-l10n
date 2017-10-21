@@ -12,8 +12,8 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Usar le parametros de proxy del systema">
 <!ENTITY  systemTypeRadio.accesskey     "u">
-<!ENTITY  WPADTypeRadio.label           "Autodetectar le parametros de proxy pro iste rete">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  WPADTypeRadio.label           "Detectar automaticamente le parametros de proxy pro iste rete">
+<!ENTITY  WPADTypeRadio.accesskey       "D">
 <!ENTITY  manualTypeRadio2.label        "Configuration manual del proxy">
 <!ENTITY  manualTypeRadio2.accesskey    "m">
 <!ENTITY  autoTypeRadio2.label          "URL de configuration automatic del proxy">

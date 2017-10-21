@@ -115,9 +115,9 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Entrar le modo Plen schermo">
-<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.accesskey "E">
 <!ENTITY exitFullScreenCmd.label "Exir le modo Plen schermo">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.accesskey "E">
 <!ENTITY fullScreenCmd.label "Plen schermo">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -549,7 +549,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadImageCmd.label         "Recargar le imagine">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Vider le imagine">
-<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewImageInfoCmd.label       "Vider le informationes del imagine">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Vider le description">
@@ -581,7 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.label            "Salvar le ligamine como…">
 <!ENTITY saveLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Salvar le imagine como…">
-<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveImageCmd.accesskey       "S">
 <!ENTITY saveVideoCmd.label           "Salvar le video como…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Salvar le audio como…">
@@ -599,7 +599,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyLinkCmd.label            "Copiar le adresse del ligamine">
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copiar le adresse del imagine">
-<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageCmd.accesskey       "C">
 <!ENTITY copyImageContentsCmd.label   "Copiar le imagine">
 <!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Copiar le adresse del video">
@@ -729,7 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar le direction del pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar le direction del texto">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "a">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cercar in iste pagina…">
@@ -844,7 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Desira tu plus instrumentos?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Eliger inter milles de additivos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinitiones">
-<!ENTITY customizeMode.done "Terminate">
+<!ENTITY customizeMode.done "Facite">
 <!ENTITY customizeMode.titlebar "Barra de titulo">
 <!ENTITY customizeMode.extraDragSpace "Spatio de traction">
 <!ENTITY customizeMode.toolbars2 "Barras de instrumentos">
