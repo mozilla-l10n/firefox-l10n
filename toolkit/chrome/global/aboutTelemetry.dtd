@@ -28,6 +28,7 @@
 	used to move to the next or previous ping. -->
 
 <!ENTITY aboutTelemetry.pageTitle "נתוני Telemetry">
+<!ENTITY aboutTelemetry.moreInformations "חסר לך מידע?">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "פתיחה במציג ה־JSON">
 

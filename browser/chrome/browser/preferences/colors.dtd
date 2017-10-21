@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "שימוש בצבעים הנבחרים מעלה במקום הצבעים שצוינו בדף:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "ש">
+<!ENTITY  overrideDefaultPageColors2.label       "דריסת הצבעים שצוינו על ידי העמוד עם הבחירה שלך להלן">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "צ">
 
 <!ENTITY  overrideDefaultPageColors.always.label "תמיד">
 <!ENTITY  overrideDefaultPageColors.auto.label   "רק עם ערכות נושא בעלות ניגודיות גבוהה">
