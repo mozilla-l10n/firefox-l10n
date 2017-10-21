@@ -38,7 +38,7 @@
 <!ENTITY hdrMenuForwardButton.label "Kirim Semula Sebagai">
 <!ENTITY hdrForwardButton1.label "Kirim semula">
 <!ENTITY hdrForwardButton1.tooltip "Kirim semula mesej ini">
-<!ENTITY hdrJunkButton1.label "Mel remeh">
+<!ENTITY hdrJunkButton1.label "Mel Remeh">
 <!ENTITY hdrJunkButton1.tooltip "Tandakan mesej ini sebagai remeh">
 <!ENTITY hdrTrashButton1.label "Buang">
 <!ENTITY hdrTrashButton1.tooltip "Buang mesej ini">
