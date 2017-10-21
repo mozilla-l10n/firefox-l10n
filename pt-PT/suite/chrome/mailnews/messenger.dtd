@@ -24,7 +24,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newTabCmd.label "Duplicar separador">
 <!ENTITY newTabCmd.accesskey "s">
-<!ENTITY newTabCmd.key "s">
+<!ENTITY newTabCmd.key "t">
 <!ENTITY closeTabCmd.label "Fechar separador">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newAccountCmd.label "Conta...">

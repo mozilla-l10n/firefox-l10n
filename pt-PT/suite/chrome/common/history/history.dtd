@@ -9,7 +9,7 @@
 <!ENTITY searchBar.tooltip              "Barra de pesquisa">
 
 <!ENTITY search.placeholder             "Pesquisar no histórico">
-<!ENTITY search.key                     "P">
+<!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Ver">
 
 <!ENTITY view.columns.label             "Mostrar colunas">
