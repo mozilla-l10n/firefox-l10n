@@ -70,9 +70,7 @@
 <!ENTITY projectPanel_tabs "לשוניות">
 <!ENTITY runtimePanel_usb "התקני USB">
 <!ENTITY runtimePanel_wifi "התקני Wi-Fi">
-<!ENTITY runtimePanel_simulator "הדמיות">
 <!ENTITY runtimePanel_other "אחר">
-<!ENTITY runtimePanel_installsimulator "התקנת מדמה">
 <!ENTITY runtimePanel_noadbhelper "התקנת מסייע ADB">
 <!ENTITY runtimePanel_nousbdevice "ההתקן שלך לא מופיע ברשימה?">
 <!ENTITY runtimePanel_refreshDevices_label "רענון התקנים">
@@ -166,19 +164,4 @@
 <!ENTITY wifi_auth_qr_size_note "אם קוד ה־QR קטן מכדי שהקמת החיבור תצליח, ניתן לנסות להתקרב או להגדיל את החלון.">
 
 <!-- Logs panel -->
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "אפשרויות מדמה">
-<!ENTITY simulator_remove "מחיקת מדמה">
-<!ENTITY simulator_reset "שחזור בררות מחדל">
-<!ENTITY simulator_name "שם">
-<!ENTITY simulator_software "תכנה">
-<!ENTITY simulator_version "גרסה">
-<!ENTITY simulator_profile "פרופיל">
-<!ENTITY simulator_hardware "חומרה">
-<!ENTITY simulator_device "התקן">
-<!ENTITY simulator_screenSize "מסך">
-<!ENTITY simulator_pixelRatio "יחס פיקסלים">
-<!ENTITY simulator_tv_data "הדמיית טלוויזיה">
-<!ENTITY simulator_tv_data_open "נתוני תצורה">
-<!ENTITY simulator_tv_data_open_button "פתיחת תיקיית התצורה…">
+<!ENTITY logs_title "יומני פקודות טרום אריזה">
