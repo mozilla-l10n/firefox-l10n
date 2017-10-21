@@ -7,14 +7,14 @@
 
 <!ENTITY loadError.label "مشكلة في تحميل الصفحة">
 <!ENTITY retry.label "حاول مرة أخرى">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "تعذر الاتصال">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "العنوان ممنوع">
-<!ENTITY deniedPortAccess.longDesc "​">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "الخادوم غير موجود">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>افحص العنوان بحثًا عن أخطاء كتابية ك‍ <strong>ww</strong>.example.com بدلا من <strong>www</strong>.example.com</li> <li>إذا كنت غير قادر على تحميل أي صفحة، افحص اتصال الحاسوب بالشبكة.</li> <li>إذا كان الحاسوب أو الشبكة محميّين بجدار ناري أو وسيط، تأكّد أنّ &brandShortName; مسموح له الاتصال بالوِب.</li> </ul>">
@@ -84,11 +84,11 @@
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
 <!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>ينبغي ألّا تضيف استثناء إذا كنت تستخدم اتصال إنترنت لا تثق به، أو كنت غير معتاد على رؤية هذا التحذير من هذا الموقع.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button><button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 

@@ -20,7 +20,7 @@
 <!ENTITY attachMenu.accesskey "ف">
 <!ENTITY attachFileCmd.label "ملفات…">
 <!ENTITY attachFileCmd.accesskey "م">
-<!ENTITY attachFileCmd.key "ف">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "صفحة وِب…">
