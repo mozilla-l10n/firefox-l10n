@@ -23,7 +23,7 @@
 <!ENTITY newNavigatorCmd.key "n">
 <!ENTITY newNavigatorCmd.accesskey "n">
 <!ENTITY newPrivateWindowCmd.label "Janela privada">
-<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "p">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
