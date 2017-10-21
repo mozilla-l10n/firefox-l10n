@@ -312,6 +312,7 @@
 <!ENTITY contextmenu_open_private_tab "Apri in scheda anonima">
 <!ENTITY contextmenu_remove "Rimuovi">
 <!ENTITY contextmenu_add_to_launcher "Agg. a schermata principale">
+<!ENTITY contextmenu_add_page_shortcut "Agg. scorciatoia alla pagina">
 <!ENTITY contextmenu_set_as_homepage "Imposta come pagina iniziale">
 <!ENTITY contextmenu_share "Condividi">
 <!ENTITY contextmenu_pasteandgo "Incolla e vai">
@@ -478,6 +479,7 @@
 <!ENTITY whatsnew_notification_title "&brandShortName; è aggiornato">
 <!ENTITY whatsnew_notification_summary "Scopri le novità in questa versione">
 <!ENTITY promotion_add_to_homescreen "Agg. a schermata principale">
+<!ENTITY promotion_add_page_shortcut "Agg. scorciatoia alla pagina">
 <!ENTITY helper_first_offline_bookmark_title "Lettura non in linea">
 <!ENTITY helper_first_offline_bookmark_message "Gli elementi salvati in Elenco lettura sono disponibili nei segnalibri, anche non in linea.">
 <!ENTITY helper_first_offline_bookmark_button "Vai ai segnalibri">
