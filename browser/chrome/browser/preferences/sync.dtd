@@ -4,17 +4,17 @@
 
 <!-- The page shown when logged in... -->
 
-<!ENTITY engine.bookmarks.label     "järjehoidjad">
+<!ENTITY engine.bookmarks.label     "Järjehoidjad">
 <!ENTITY engine.bookmarks.accesskey "j">
 <!ENTITY engine.tabs.label2         "Avatud kaardid">
 <!ENTITY engine.tabs.accesskey      "r">
-<!ENTITY engine.history.label       "ajalugu">
+<!ENTITY engine.history.label       "Ajalugu">
 <!ENTITY engine.history.accesskey   "a">
 <!ENTITY engine.logins.label        "Kasutajakontod">
 <!ENTITY engine.logins.accesskey    "u">
-<!ENTITY engine.prefs.label         "eelistused">
+<!ENTITY engine.prefs.label         "Eelistused">
 <!ENTITY engine.prefs.accesskey     "e">
-<!ENTITY engine.addons.label        "lisad">
+<!ENTITY engine.addons.label        "Lisad">
 <!ENTITY engine.addons.accesskey    "i">
 <!ENTITY engine.addresses.label     "Aadressid">
 <!ENTITY engine.addresses.accesskey "d">
