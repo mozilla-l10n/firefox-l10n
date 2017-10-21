@@ -966,6 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Рестартирај за надградба на &brandShorterName;">
 
+<!ENTITY pageActionButton.tooltip "Активности на страница">
 <!ENTITY pageAction.addToUrlbar.label "Додај во Адресна летна">
 <!ENTITY pageAction.removeFromUrlbar.label "Отстрани од Адресна лента">
 
@@ -978,3 +979,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Особеностите за пристапност се овозможени">

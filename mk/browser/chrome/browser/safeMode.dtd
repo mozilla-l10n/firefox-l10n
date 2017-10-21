@@ -6,18 +6,13 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Стартувај во безбеден режим">
-<!ENTITY resetProfile.label           "Ресетирај го &brandShortName;">
+<!ENTITY refreshProfile.label         "Освежи &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Безбедниот режим е специјален режим на &brandShortName; што може
 да се користи при разрешување на проблеми.">
 <!ENTITY safeModeDescription4.label   "Вашите додатоци и прилагодување привремено ќе бидат оневозможени.">
 
-<!ENTITY resetProfileInstead.label    "Исто така можете да го ресетирате &brandShortName; ако сакате да почнете од почеток.">
-<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY refreshProfileInstead.label  "Исто така, можете да го прескокнете истражувањето на проблеми и да се обидете со освежување на &brandShortName;.">
 
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; се затвори неочекувани при стартување. Ова може да е
-предизвикано од додатоци или други проблеми. Можете да го разрешите овој
-проблем со ресетирање на &brandShortName; или со барање на проблемот во безбеден режим.">
-<!ENTITY resetProfileFooter.label       "Прелистувачот ќе биде ресетиран на основните поставки.">
-<!ENTITY safeModeInstead.label          "Ако не го сакате ова може да продолжите во безбеден режим каде
-Вашите додатоци и прилагодувања се привремено оневозможени.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; се урна неочекувано за време на стартувањето. Ова може да се случи поради додатоци или други проблеми. Можете да се обидете да го решите проблемот со инстражување во Безбеден режим.">
