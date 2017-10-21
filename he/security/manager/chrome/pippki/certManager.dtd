@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "רשויות">
 <!ENTITY certmgr.tab.orphan2                  "אחרים">
 
-<!ENTITY certmgr.mine                         "יש לך אישורים מאירגונים אלה המזהים אותך:">
-<!ENTITY certmgr.others                       "יש לך אישורים בקובץ המזהים אנשים אלה:">
-<!ENTITY certmgr.websites2                    "יש לך אישורים בקובץ שמזהים את השרתים הבאים:">
-<!ENTITY certmgr.cas                          "יש לך אישורים בקובץ המזהים רשויות אישורים אלה:">
-<!ENTITY certmgr.orphans                      "יש לך אישורים בקובץ שאינם נופלים באחת מהקטגוריות האחרות:">
+<!ENTITY certmgr.mine2                        "יש לך אישורים מהארגונים האלה שמעידים על זהותך">
+<!ENTITY certmgr.others2                      "יש לך אישורים בקובץ שמעידים על זהותם של אנשים אלה">
+<!ENTITY certmgr.websites3                    "יש לך אישורים בקובץ שמעידים על זהותם של שרתים אלה">
+<!ENTITY certmgr.cas2                         "יש לך אישורים בקובץ שמעידים על זהותן של רשויות אישורים אלו">
+<!ENTITY certmgr.orphans2                     "יש לך אישורים בקובץ שאינם מתאימים לאף אחת מהקטגוריות האחרות">
 
 <!ENTITY certmgr.detail.general_tab.title     "כללי">
 <!ENTITY certmgr.detail.general_tab.accesskey "כ">

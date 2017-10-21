@@ -39,13 +39,18 @@
 <!ENTITY runtimeMenu_showMonitor_label "צג">
 <!ENTITY runtimeMenu_showMonitor_accesskey "צ">
 <!ENTITY runtimeMenu_showDevicePrefs_label "העדפות התקן">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "ת">
 <!ENTITY runtimeMenu_showSettings_label "הגדרות התקן">
+<!ENTITY runtimeMenu_showSettings_accesskey "ג">
 
 <!ENTITY viewMenu_label "תצוגה">
 <!ENTITY viewMenu_accesskey "ת">
 <!ENTITY viewMenu_zoomin_label "התקרבות">
+<!ENTITY viewMenu_zoomin_accesskey "פ">
 <!ENTITY viewMenu_zoomout_label "התרחקות">
+<!ENTITY viewMenu_zoomout_accesskey "ח">
 <!ENTITY viewMenu_resetzoom_label "איפוס מרחק מתצוגה">
+<!ENTITY viewMenu_resetzoom_accesskey "א">
 
 <!ENTITY projectButton_label "פתיחת יישום">
 <!ENTITY runtimeButton_label "בחירת זמן ריצה">

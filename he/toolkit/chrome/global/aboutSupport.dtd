@@ -68,6 +68,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "חלונות מרובי תהליכים">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "תהליכי תוכן רשת">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "מפתח עבור שירותי Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "מפתח עבור שירותי המיקום של Mozilla">
@@ -149,3 +150,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceFormat "תצורה">
 <!ENTITY aboutSupport.mediaDeviceChannels "ערוצים">
 <!ENTITY aboutSupport.mediaDeviceRate "קצב">
+<!ENTITY aboutSupport.mediaDeviceLatency "עיכוב">

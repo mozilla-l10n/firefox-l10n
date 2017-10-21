@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "א">
 
 <!ENTITY loaddevice.info                        "נא להכניס את המידע עבור המודול שברצונך להוסיף.">
-<!ENTITY loaddevice.modname                     "שם המודול:">
-<!ENTITY loaddevice.modname.accesskey           "ד">
+<!ENTITY loaddevice.modname2                    "שם המודול">
+<!ENTITY loaddevice.modname2.accesskey          "ש">
 <!ENTITY loaddevice.modname.default             "מודול PKCS#11 חדש">
-<!ENTITY loaddevice.filename                    "שם קובץ המודול:">
-<!ENTITY loaddevice.filename.accesskey          "ב">
+<!ENTITY loaddevice.filename2                   "שם קובץ המודול">
+<!ENTITY loaddevice.filename2.accesskey         "ק">
 <!ENTITY loaddevice.browse                      "עיון...">
 <!ENTITY loaddevice.browse.accesskey            "ע">
 
