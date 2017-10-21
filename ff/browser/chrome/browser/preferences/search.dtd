@@ -2,17 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
+
 <!ENTITY defaultSearchEngine.label             "Yiylorde Woowaande">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Suɓo yiylorde woowaande ngam huutoraade e palal ñiiɓirɗe e yiylorde.">
 
 <!ENTITY provideSearchSuggestions.label        "Hokku wasiyaaji njiilaw">
 <!ENTITY provideSearchSuggestions.accesskey    "w">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Hollo basiye njiilaw e njaltudi palal ñiiɓirɗe ngal">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Basiye njiilaw kolliroytaake e njaltudi palal nokkuure sabu ko a teeltiiɗo &brandShortName; yoo waas siiftorde aslol.">
 
 <!ENTITY oneClickSearchEngines.label           "Yiylorde nde dobannde wootere">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Suɓo jiylorɗe goɗɗe gonɗe les palal ñiiɓirɗe ngal e palal yiylorde so a fuɗɗiima naatnude helmere yiylorde.">
 
 <!ENTITY engineNameColumn.label                "Yiylorde">
 <!ENTITY engineKeywordColumn.label             "Helmere yiylorde">
@@ -23,3 +27,4 @@
 <!ENTITY removeEngine.label                    "Ittu">
 <!ENTITY removeEngine.accesskey                "I">
 
+<!ENTITY findMoreSearchEngines.label           "Yiylo jiylorɗe goɗɗe">
