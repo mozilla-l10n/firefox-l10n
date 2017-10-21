@@ -16,8 +16,8 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Anda meminta &brandShortName; untuk menyambung
-secara selamat ke <b>#1</b>, tetapi kami tidak dapat mengesahkan sambungan anda itu selamat.">
+<!ENTITY certerror.introPara1 "Anda minta &brandShortName; untuk membuat sambungan
+selamat ke <b>#1</b>, tapi kami tidak dapat mengesahkan bahawa sambungan ini selamat.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Apa Perlu Saya Buat?">
 <!ENTITY certerror.whatShouldIDo.content "Jika kebiasaanya anda disambung ke
