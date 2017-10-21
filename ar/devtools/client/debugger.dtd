@@ -97,7 +97,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile           "رشّح السكربتات">
-<!ENTITY debuggerUI.searchFile.key       "ش">
+<!ENTITY debuggerUI.searchFile.key       "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
@@ -142,18 +142,18 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak     "أضِف نقطة توقف">
-<!ENTITY debuggerUI.seMenuBreak.key "ط">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "أضِف نقطة توقف شرطيّة">
-<!ENTITY debuggerUI.seMenuCondBreak.key "ط">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "حرر نقطة التوقف الشرطيّة">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "ق">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->

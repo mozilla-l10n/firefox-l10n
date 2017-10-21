@@ -93,7 +93,7 @@ available. -->
 <!ENTITY updateApplicationDescription.label
                                          "أبقِ &brandShortName; للحصول على أحسن أداء و ثبات و أمان.">
 <!ENTITY updateApplication.version.pre   "الإصدارة ">
-<!ENTITY updateApplication.version.post  "​">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "اسمح ل‍&brandShortName; أن">
 <!ENTITY updateAuto3.label               "نزّل التحديثات تلقائيا (مستحسن)">
 <!ENTITY updateAuto3.accesskey           "ن">

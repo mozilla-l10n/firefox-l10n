@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "استخدم الحماية من التعقّب في النوافذ الخاصة">
 <!ENTITY trackingProtectionPBM5.accesskey     "ص">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "استخدم الحماية من التعقب في التصفح الخاص لحظر المتعقبات المعروفة">
 <!ENTITY trackingProtectionPBM6.accesskey     "ص">
 <!ENTITY trackingProtectionPBMLearnMore.label "اطّلع على المزيد">
@@ -72,7 +73,7 @@
 <!ENTITY  historyHeader.remember.label     "يتذكر التأريخ">
 <!ENTITY  historyHeader.dontremember.label "لن يتذكر التأريخ أبدًا">
 <!ENTITY  historyHeader.custom.label       "يستخدم إعدادات مخصصة للتأريخ">
-<!ENTITY  historyHeader.post.label         "​">
+<!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "سيتذكر &brandShortName; تصفحك و تنزيلاتك و النماذج التي ملأتها و تأريخ البحث، كما سيحتفظ بكعكات مواقع الوب التي زرتها.">
 

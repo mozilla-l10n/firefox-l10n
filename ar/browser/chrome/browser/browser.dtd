@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "أظهِر كل الألسنة">
 <!ENTITY showAllTabsCmd.accesskey "ك">
-<!ENTITY toggleReaderMode.key "ق">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "لِج إلى &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "افتح تفضيلات &syncBrand.shortName.label;">
@@ -144,7 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "​">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "يملأ الشاشة الآن">
 <!ENTITY fullscreenWarning.generic.label "يملأ هذا المستند الشاشة الآن">
 
@@ -496,7 +496,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 <!ENTITY search.label                 "ابحث ">
-<!ENTITY searchAfter.label            "​">
+<!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
