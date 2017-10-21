@@ -7,7 +7,7 @@
 <!ENTITY aboutAccounts.syncPreferences.label "Toccar aqui pro controlar le parametros de Sync">
 
 <!ENTITY aboutAccounts.noConnection.title "Il ha nulle connexion a Internet">
-<!ENTITY aboutAccounts.retry.label "Essayar de nove">
+<!ENTITY aboutAccounts.retry.label "Retentar">
 
 <!ENTITY aboutAccounts.restrictedError.title "Restringite">
 <!ENTITY aboutAccounts.restrictedError.description "Tu non pote gerer contos Firefox ab iste profilo.">

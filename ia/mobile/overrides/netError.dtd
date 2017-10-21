@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Problema cargante le pagina">
-<!ENTITY retry.label "Reprobar">
+<!ENTITY retry.label "Retentar">
 
 <!-- Specific error messages -->
 
@@ -33,7 +33,7 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Dossier non trovate">
+<!ENTITY fileNotFound.title "File non trovate">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifica si le nomine del file ha errores de majusculas e minusculas o altere errores orthographic.</li> <li>Verifica si le file ha essite movite, renominate o delite.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Le accesso al file esseva negate">
@@ -70,8 +70,9 @@
 <!ENTITY netOffline.title "Modo disconnectite">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul>
-  <li>Reprobar. &brandShortName; tentara de aperir un connexion e recargar le pagina.
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>Retentar. &brandShortName; tentara aperir un connexion e recargar le pagina.
     <button id='wifi'>Activar Wi-Fi</button>
   </li>
 </ul>

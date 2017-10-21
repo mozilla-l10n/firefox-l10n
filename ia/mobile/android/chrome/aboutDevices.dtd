@@ -4,7 +4,7 @@
 
 <!ENTITY aboutDevices.title              "Apparatos">
 <!ENTITY aboutDevices.header             "Vostre apparatos">
-<!ENTITY aboutDevices.refresh            "Refrescar">
+<!ENTITY aboutDevices.refresh            "Actualisar">
 <!ENTITY aboutDevices.addDeviceHeader    "Adder un apparato">
 <!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">

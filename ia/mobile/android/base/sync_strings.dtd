@@ -5,7 +5,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "">
+<!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
 <!ENTITY sync.title.connect.label 'Connecter se a &syncBrand.shortName.label;'>
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_status_linkprivacy2 'Advertentia de confidentialitate'>
 <!ENTITY fxaccount_remove_account 'Disconnecter&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 'Esque disconnecter de Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Disconnecter se de Sync?'>
 <!ENTITY fxaccount_remove_account_dialog_message2 'Vostre datos de navigation se remanera in este apparato, ma non se synchronizara plus con vostre conto.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
