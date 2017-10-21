@@ -22,11 +22,11 @@
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Nos ha problemas a trovar iste sito.">
 <!ENTITY dnsNotFound.longDesc1 "
-<strong>si le adresse es correcte, ecce tres altere cosas que tu pote tentar:</strong>
+<strong>Si ille adresse es correcte, ecce tres altere cosas que tu pote tentar:</strong>
 <ul>
-  <li>Probar plus tarde.</li>
-  <li>Controlar tu connexion de rete.</li>
-  <li>Si tu es connexe solo detra un firewall, controla que &brandShortName; ha le permission pro acceder le Web.</li>
+  <li>Retentar plus tarde.</li>
+  <li>Verificar tu connexion de rete.</li>
+  <li>Si tu es connectite ma solmente detra un firewall, controla que &brandShortName; ha permission pro acceder al Web.</li>
 </ul>
 ">
 
