@@ -104,7 +104,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile           "Betikleri filtrele">
-<!ENTITY debuggerUI.searchFile.key       "f">
+<!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "e">
 
@@ -162,7 +162,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Koşullu kesme noktası ekle">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "o">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->

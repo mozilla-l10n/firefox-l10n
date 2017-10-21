@@ -89,7 +89,7 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCtrl.key  "T">
+<!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Değişken görünümünde aç">
 <!ENTITY openInVarViewCmd.accesskey "D">
 <!ENTITY storeAsGlobalVar.label "Global değişken olarak depola">
