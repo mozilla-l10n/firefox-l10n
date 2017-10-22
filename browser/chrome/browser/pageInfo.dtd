@@ -47,14 +47,14 @@
 <!ENTITY  feedSubscribe         "Претплати се">
 <!ENTITY  feedSubscribe.accesskey "р">
 
-<!ENTITY  permTab               "Дозвола">
+<!ENTITY  permTab               "Дозволи">
 <!ENTITY  permTab.accesskey     "Д">
 <!ENTITY  permUseDefault        "Основни поставки">
 <!ENTITY  permAskAlways         "Прашувај секогаш">
 <!ENTITY  permAllow             "Дозволи">
 <!ENTITY  permAllowSession      "Дозволи само сега">
 <!ENTITY  permBlock             "Блокирај">
-<!ENTITY  permissionsFor        "Дозвола за:">
+<!ENTITY  permissionsFor        "Дозволи за:">
 <!ENTITY  permPlugins           "Активирај приклучоци">
 
 <!ENTITY  permClearStorage           "Исчисти го складот">
