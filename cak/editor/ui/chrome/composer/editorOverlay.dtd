@@ -113,6 +113,12 @@
 <!ENTITY styleSuperscriptCmd.accesskey "i">
 <!ENTITY styleSubscriptCmd.label "Xetz'ib'">
 <!ENTITY styleSubscriptCmd.accesskey "e">
+<!ENTITY styleNonbreakingCmd.label "Majun retzoj">
+<!ENTITY styleNonbreakingCmd.accesskey "M">
+<!ENTITY styleEm.label "Chana'oj">
+<!ENTITY styleEm.accesskey "C">
+<!ENTITY styleStrong.label "Nïm Ruchuq'a' Chana'oj">
+<!ENTITY styleStrong.accesskey "m">
 <!ENTITY styleCite.label "Peyonïk">
 <!ENTITY styleCite.accesskey "P">
 <!ENTITY styleAbbr.label "Ch'utitz'ib'anïk">
@@ -121,12 +127,21 @@
 <!ENTITY styleAcronym.accesskey "a">
 <!ENTITY styleCode.label "Bitz'ib'">
 <!ENTITY styleCode.accesskey "i">
+<!ENTITY styleSamp.label "Rutz'etb'al Elem">
+<!ENTITY styleSamp.accesskey "t">
 <!ENTITY styleVar.label "Jalwachil">
 <!ENTITY styleVar.accesskey "w">
 
 <!ENTITY formatFontColor.label "Rub'onil Rucholajem Tzij…">
 <!ENTITY formatFontColor.accesskey "b">
+<!ENTITY tableOrCellColor.label "Rub'onil Rupam Kemon Kajtz'ik o Ch'utikajtz'ik…">
+<!ENTITY tableOrCellColor.accesskey "R">
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Keyuj taq Xukuxüb' K'o Kib'i'">
+<!ENTITY formatRemoveNamedAnchors.accesskey "K">
+<!ENTITY formatRemoveNamedAnchors2.key "K">
 
 <!ENTITY paragraphMenu.label "Pajtzij">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -165,6 +180,7 @@
 <!ENTITY listPropsCmd.label "Kicholb'al taq Ichinil…">
 <!ENTITY listPropsCmd.accesskey "o">
 
+<!ENTITY ParagraphSelect.tooltip "Ticha' jun rub'anikil q'aptzij">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Ruch'akulal Rucholajem Tz'ib'">
 <!ENTITY bodyTextCmd.accesskey "o">
@@ -193,7 +209,15 @@
 <!ENTITY layerSendToBack.tooltip "Titaq Chupam">
 <!ENTITY layerBringToFront.tooltip "Tik'am pe chuwa">
 
+<!ENTITY increaseIndent.label "Runimirisaxik Ruchi' Cholaj">
+<!ENTITY increaseIndent.accesskey "N">
+<!ENTITY increaseIndent.key "]">
+<!ENTITY decreaseIndent.label "Tich'utinirisäx Ruchi' Cholaj">
+<!ENTITY decreaseIndent.accesskey "T">
+<!ENTITY decreaseIndent.key "[">
 
+<!ENTITY colorsAndBackground.label "Ruxaq taq B'onil chuqa' Rupam…">
+<!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Kemoj kajtz'ik">
@@ -253,11 +277,14 @@
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Tijach Ch'utikajtz'ik">
 <!ENTITY tableSplitCell.accesskey "C">
+<!ENTITY convertToTable.label "Tinuk' Cha'on Kemon Kajtz'ik">
+<!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Taq Richinil Kemon Kajtz'ik…">
 <!ENTITY tableProperties.accesskey "i">
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Rukajtz'ik K'utusamaj">
+<!ENTITY formatToolbar.tooltip "Rumolsamajib'al B'anikil">
 <!ENTITY cutToolbarCmd.tooltip "Tiqupïx">
 <!ENTITY copyToolbarCmd.tooltip "Tiwachib'ëx">
 <!ENTITY pasteToolbarCmd.tooltip "Titz'ajb'äx">
@@ -265,6 +292,8 @@
 <!ENTITY printToolbarCmd.tooltip "Titz'ajb'äx re ruxaq re'">
 <!ENTITY findToolbarCmd.label "Tikanöx">
 <!ENTITY findToolbarCmd.tooltip "Tikanöx rucholajem tzij pa ruxaq">
+<!ENTITY spellToolbarCmd.label "Cholotz'ib'">
+<!ENTITY spellToolbarCmd.tooltip "Tinik'ox rutz'ib'axik cha'oj o chijun ri ruxaq">
 <!ENTITY imageToolbarCmd.label "Wachib'äl">
 <!ENTITY hruleToolbarCmd.label "H.Line">
 <!ENTITY tableToolbarCmd.label "Kemoj kajtz'ik">
