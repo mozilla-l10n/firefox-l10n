@@ -55,6 +55,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Schimbă fotografia de profil">
 <!ENTITY verifiedManage.label        "Gestionează contul">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect3.label           "Deconectează-te…">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Verifică e-mailul">
@@ -65,6 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Ia webul cu tine">
 <!ENTITY signedOut.description        "Sincronizează marcajele, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.">
 <!ENTITY signedOut.accountBox.title   "Conectează-te cu un &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "Nu ai un cont? Începe">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Autentifică-te…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Setări de sincronizare">
 <!ENTITY signedIn.settings.description "Alege ce să sincronizezi pe dispozitive folosind &brandShortName;.">

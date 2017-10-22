@@ -27,9 +27,10 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Raportarea datelor este dezactivată în configurația folosită">
 
-<!ENTITY enableHealthReport1.label       "Permite lui &brandShortName; să trimită automat Mozillei date tehnice și date despre interacțiuni">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Permite &brandShortName; să trimită informații tehnice și interactive către Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Află mai multe">
 
 <!ENTITY dataCollection.label            "Colectarea și utilizarea de date din &brandShortName;">
@@ -37,6 +38,7 @@ available. -->
 <!ENTITY dataCollectionPrivacyNotice.label    "Politica de confidențialitate">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Permite-i lui &brandShortName; să trimită Mozillei rapoarte de defecțiuni">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">
 
 <!ENTITY networkTab.label                "Rețea">
@@ -94,6 +96,7 @@ available. -->
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permite ca &brandShortName; să">
 <!ENTITY updateAuto3.label               "Instaleze automat actualizări (recomandat)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Caute actualizări, dar să te lase să decizi dacă le instalezi">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Nu caute niciodată actualizări (nerecomandat)">
@@ -147,5 +150,7 @@ available. -->
 <!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Modificarea numărului de procese pentru conținut este posibilă doar cu funcția de multiprocese din &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Învaţă cum să verifici dacă funcția de multiprocese este activată">
 <!ENTITY allowHWAccel.label              "Folosește accelerarea hardware atunci când este disponibilă">
 <!ENTITY allowHWAccel.accesskey          "h">

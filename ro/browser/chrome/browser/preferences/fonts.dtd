@@ -5,6 +5,7 @@
 <!ENTITY  fontsDialog.title                       "Fonturi">
 
 <!ENTITY  fonts.label                             "Fonturi pentru">
+<!ENTITY  fonts.accesskey                         "F">
 
 <!ENTITY  size2.label                             "Mărime">
 <!ENTITY  sizeProportional.accesskey              "M">
@@ -65,6 +66,7 @@
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codare de text pentru conținut moștenit">
 <!ENTITY languages.customize.Fallback3.label      "Codare de rezervă pentru text">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Această codare de text este folosită pentru conținutul moștenit care nu reușește să declare codificarea sa.">
 
 <!ENTITY languages.customize.Fallback.auto        "Implicită pentru limba actuală">

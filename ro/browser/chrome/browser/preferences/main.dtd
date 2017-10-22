@@ -11,6 +11,7 @@
 <!ENTITY startupPrevSession.label  "Arată ferestrele și filele de data trecută">
 
 <!ENTITY homepage2.label           "Pagină de start">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Folosește pagina actuală">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Folosește paginile actuale">
@@ -18,6 +19,8 @@
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Folosește opțiunea implicită">
 <!ENTITY restoreDefault.accesskey  "F">
+
+<!ENTITY disableExtension.label    "Dezactivează extensia">
 
 <!ENTITY downloads.label     "Descărcări">
 

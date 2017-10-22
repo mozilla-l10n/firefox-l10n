@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "Setări - Date privind site-urile">
 <!ENTITY     hostCol.label                 "Site">
+<!ENTITY     statusCol.label               "Stare">
 <!ENTITY     usageCol.label                "Stocare">
 <!ENTITY     searchTextboxPlaceHolder             "Caută site-uri web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
@@ -13,4 +14,6 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Renunță">
 <!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "Ştergere datele privind site-urile">
+<!ENTITY     removingSelected.description  "Ştergerea datelor privind site-urile va şterge cookie-urile asociate şi conținuturile web offline. Acesta poate să te deconecteze de site-uri. Sigur dorești să efectuezi aceste schimbări?">
 <!ENTITY     siteTree2.label               "Următoarele cookie-uri ale site-urilor web vor fi eliminate">
