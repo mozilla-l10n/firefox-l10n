@@ -59,3 +59,4 @@
 <!ENTITY PreviewModeTab.label "Nab'ey tzub'al">
 <!ENTITY PreviewMode.label "Nab'ey tzub'al">
 <!ENTITY PreviewMode.accesskey "N">
+<!ENTITY PreviewMode.tooltip "Tik'ut achi'el WYSIWYG (achi'el pa ri okik'amaya'l)">

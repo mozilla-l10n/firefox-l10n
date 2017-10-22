@@ -5,8 +5,12 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
+<!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
+<!ENTITY pasteNoFormatting.label "Titz'ajb'äx Rik'in Manäq Rub'anikil">
+<!ENTITY pasteNoFormatting.accesskey "n">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Titz'ajb'äx Achi'el">
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Titz'ajb'äx Achi'el Peyonïk">
@@ -14,6 +18,8 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Tikanöx…">
 <!ENTITY findReplaceCmd.label "Tikanöx chuqa' Tijal…">
+<!ENTITY enableInlineSpellChecker.label "Tib'an Ruk'ojlem Rutz'ib'axik Toq Tajin Nitz'ib'äx">
+<!ENTITY enableInlineSpellChecker.accesskey "R">
 <!ENTITY checkSpellingCmd2.label "Tinik'öx Rutz'ib'axik…">
 <!ENTITY checkSpellingCmd2.accesskey "n">
 <!ENTITY checkSpellingCmd2.key "b">
@@ -24,6 +30,8 @@
 <!ENTITY insertLinkCmd2.label "Ximonel…">
 <!ENTITY insertLinkCmd2.accesskey "X">
 <!ENTITY insertLinkCmd2.key "L">
+<!ENTITY insertAnchorCmd.label "Xukuxüb'B'ina'am…">
+<!ENTITY insertAnchorCmd.accesskey "X">
 <!ENTITY insertImageCmd.label "Wachib'äl…">
 <!ENTITY insertImageCmd.accesskey "W">
 <!ENTITY insertHLineCmd.label "Kotz'öl Juch'">
@@ -36,6 +44,8 @@
 <!ENTITY insertMathCmd.accesskey "A">
 <!ENTITY insertCharsCmd.label "Taq Tz'ib' chuqa' taq Etal…">
 <!ENTITY insertCharsCmd.accesskey "T">
+<!ENTITY insertBreakAllCmd.label "Keretz ri Qajinäq (taq) Wachib'äl">
+<!ENTITY insertBreakAllCmd.accesskey "k">
 
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Titz'uk Ximonel…">
@@ -47,6 +57,11 @@
 <!ENTITY FontFaceSelect.tooltip "Tacha' jun ruwäch tz'ib'">
 <!ENTITY fontfaceMenu.label "Ruwäch tz'ib'">
 <!ENTITY fontfaceMenu.accesskey "t">
+<!ENTITY fontVarWidth.label "Jalwachil Ruwa">
+<!ENTITY fontVarWidth.accesskey "J">
+<!ENTITY fontFixedWidth.label "Jikïl Ruwa">
+<!ENTITY fontFixedWidth.accesskey "k">
+<!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
