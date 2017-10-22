@@ -318,6 +318,13 @@
 <!ENTITY underlineToolbarCmd.tooltip "Juxül">
 <!ENTITY bulletListToolbarCmd.tooltip "Tijikib'äx o tiyuj ri cholajem rik'in wachin">
 <!ENTITY numberListToolbarCmd.tooltip "Tijikib'äx o tiyuj ri cholajem ya'on rajilab'al">
+<!ENTITY outdentToolbarCmd.tooltip "Rucholajem tzij ruchi' cholaj (tisilöx pan xokon)">
+<!ENTITY indentToolbarCmd.tooltip "Ruchi' cholaj rucholajem tzij (tisilöx pan ajkiq'a')">
+<!ENTITY AlignPopupButton.tooltip "Ticha' runuk'ik rucholajem tzij">
+<!ENTITY InsertPopupButton.tooltip "Tich'ik jun Ximonel, Xukuxüb', Wachib'äl, Kotz'ojuch' o Kemon Kajtz'ik">
+<!ENTITY alignLeftButton.tooltip "Tichol ri rucholajem tzij pa xokon ruchi'">
+<!ENTITY alignCenterButton.tooltip "Tichol ri rucholajem tzij pa nik'aj">
+<!ENTITY alignRightButton.tooltip "Tichol ri rucholajem tzij pan ajkiq'a' ruchi'">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Ticha'">
