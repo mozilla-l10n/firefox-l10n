@@ -35,10 +35,10 @@
 <!ENTITY numCopies.label "ასლების რაოდენობა:">
 <!ENTITY numCopies.accesskey "რ">
 
-<!ENTITY printframeGroup.label "ბლოკების ბეჭდვა">
+<!ENTITY printframeGroup.label "ნაწილების ბეჭდვა">
 <!ENTITY aslaidoutRadio.label "ისე, როგორც ეკრანზეა">
 <!ENTITY aslaidoutRadio.accesskey "კ">
-<!ENTITY selectedframeRadio.label  "მონიშნული ბლოკის">
+<!ENTITY selectedframeRadio.label  "მონიშნული ნაწილის">
 <!ENTITY selectedframeRadio.accesskey  "ლ">
-<!ENTITY eachframesepRadio.label  "თითოეული ბლოკის ცალკე">
+<!ENTITY eachframesepRadio.label  "თითოეული ნაწილი ცალ-ცალკე">
 <!ENTITY eachframesepRadio.accesskey  "ც">
