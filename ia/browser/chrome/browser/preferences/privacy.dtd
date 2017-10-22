@@ -39,9 +39,9 @@
 <!ENTITY  locbar.history2.label         "Chronologia de navigation">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Marcapaginas">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Schedas aperite">
-<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.openpage.accesskey     "S">
 <!ENTITY  locbar.searches.label         "Recercas correlative ab le motor de recerca predefinite">
 <!ENTITY  locbar.searches.accesskey     "d">
 
@@ -51,7 +51,7 @@
 <!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty2.pre.label     "Acceptar cookies de tertios">
-<!ENTITY  acceptThirdParty2.pre.accesskey "y">
+<!ENTITY  acceptThirdParty2.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Sempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunquam">
 <!ENTITY  acceptThirdParty.visited.label  "Del visitates">
@@ -98,7 +98,7 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Memorisar mi chronologia de navigation e de discargas">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.accesskey  "M">
 
 <!ENTITY  rememberSearchForm.label       "Memorisar le chronologia de recercas e de formularios">
 <!ENTITY  rememberSearchForm.accesskey   "f">

@@ -18,7 +18,7 @@
 <!ENTITY session.label                "Permitter pro le session">
 <!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "Permitter">
-<!ENTITY allow.accesskey              "A">
+<!ENTITY allow.accesskey              "P">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Cancellar">

@@ -52,7 +52,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Tu non es connectite.">
 <!ENTITY signIn.label                "Authenticar se">
-<!ENTITY signIn.accesskey            "g">
+<!ENTITY signIn.accesskey            "A">
 <!ENTITY profilePicture.tooltip      "Cambiar le imagine del profilo">
 <!ENTITY verifiedManage.label        "Gerer le conto">
 <!ENTITY verifiedManage.accesskey    "o">
@@ -61,7 +61,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "Verificar le email">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Oblidar iste email">
-<!ENTITY forget.accesskey            "F">
+<!ENTITY forget.accesskey            "O">
 
 <!ENTITY signedOut.caption            "Porta le web con te">
 <!ENTITY signedOut.description        "Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote vostre apparatos.">
