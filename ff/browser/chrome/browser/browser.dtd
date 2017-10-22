@@ -48,6 +48,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "K">
 <!ENTITY  sendLinkToDevice.label             "Neldu Jokkol to Kaɓirgol">
 <!ENTITY  sendLinkToDevice.accesskey         "K">
+<!ENTITY  sendToDeviceFeedback.label         "Neldaama!">
 <!ENTITY  moveToNewWindow.label              "Dirtin to Henorde Hesere">
 <!ENTITY  moveToNewWindow.accesskey          "H">
 <!ENTITY  bookmarkAllTabs.label              "Maantoto Tabbe Kala…">
@@ -235,10 +236,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Maantore">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Maantore">
 <!ENTITY bookmarksMenuButton.other.label    "Maantore Goɗɗe">
 <!ENTITY bookmarksMenuButton.mobile.label   "Maantore Cinndel">
 <!ENTITY viewBookmarksSidebar2.label        "Hollu Palal Maantore">
 <!ENTITY viewBookmarksToolbar.label         "Hollu Palal Maantore">
+<!ENTITY hideBookmarksToolbar.label         "Suuɗ Palal Maantore">
 <!ENTITY searchBookmarks.label              "Yiylo Maantore">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -259,6 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Gaawte">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Gaawte">
 <!ENTITY downloads.accesskey          "G">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
