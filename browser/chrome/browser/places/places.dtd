@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Adăugat">
 <!ENTITY col.lastmodified.label  "Ultima modificare">
 
+<!ENTITY historySearch.placeholder  "Caută în istoric">
 <!ENTITY bookmarksSearch.placeholder  "Caută marcaje">
 
 <!ENTITY cmd.find.key  "f">

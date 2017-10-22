@@ -12,6 +12,7 @@
 <!ENTITY removeallpermissions2.label  "Elimină toate site-urile web">
 <!ENTITY removeallpermissions2.accesskey "E">
 <!ENTITY address2.label               "Adresa site-ului web">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Blochează">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Permite pentru sesiune">

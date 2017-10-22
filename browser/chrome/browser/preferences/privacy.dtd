@@ -37,6 +37,7 @@
 <!ENTITY  addressBar.label              "Bară de adresă">
 <!ENTITY  addressBar.suggest.label      "Când se folosește bara de adresă, sugerează:">
 <!ENTITY  locbar.history2.label         "Istoric de navigare">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Marcaje">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "File deschise">
@@ -46,10 +47,17 @@
 
 <!ENTITY  suggestionSettings2.label     "Schimbă preferințele pentru sugestiile motoarelor de căutare…">
 
+<!ENTITY  acceptCookies2.label          "Acceptă cookie-uri de la site-uri">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "Acceptă cookie-uri terțe">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
+<!ENTITY  acceptThirdParty.always.label   "Întotdeauna">
 <!ENTITY  acceptThirdParty.never.label    "Niciodată">
 <!ENTITY  acceptThirdParty.visited.label  "De la site-urile vizitate">
 
+<!ENTITY  keepUntil2.label              "Păstrează-le până">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "expiră">
 <!ENTITY  close.label                   "închid &brandShortName;">
@@ -108,5 +116,6 @@
 <!ENTITY  browserContainersSettings.accesskey    "t">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Împiedică serviciile de accesibilitate să îți acceseze browserul">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Află mai multe">
 <!ENTITY enableSafeBrowsingLearnMore.label "Află mai multe">

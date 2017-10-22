@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Afișare în Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Arată dosarul cu descărcări">
 <!ENTITY cmd.retry.label                  "Reîncearcă">
 <!ENTITY cmd.goToDownloadPage.label       "Mergi la pagina de descărcare">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
@@ -138,6 +139,7 @@
      This string is shown at the top of the Download Details Panel, to indicate
      that we are showing the details of a single download.
      -->
+<!ENTITY downloadDetails.label            "Detalii descărcare">
 
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
