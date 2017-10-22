@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY cmd.forward.tooltip                  "เดินหน้าไปหนึ่งหน้า">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "ไม่สามารถตรวจสอบส่วนขยายบางตัว">
 <!ENTITY showAllExtensions.button.label       "แสดงส่วนขยายทั้งหมด">
 <!ENTITY debugAddons.label                    "ดีบั๊กส่วนเสริม">
@@ -148,7 +149,7 @@
 <!ENTITY detail.size                          "ขนาด">
 
 <!ENTITY detail.checkForUpdates.label         "ตรวจสอบการอัปเดต">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.accesskey     "ต">
 <!ENTITY detail.checkForUpdates.tooltip       "ตรวจสอบการอัปเดตสำหรับส่วนเสริมนี้">
 <!ENTITY detail.showPreferencesWin.label      "ตัวเลือก">
 <!ENTITY detail.showPreferencesWin.accesskey  "ต">

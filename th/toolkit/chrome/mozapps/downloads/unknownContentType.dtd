@@ -19,8 +19,8 @@
 <!ENTITY  whichIs.label              "ซึ่งเป็น:">
 
 <!ENTITY  chooseHandlerMac.label      "เลือก…">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandlerMac.accesskey  "ล">
 <!ENTITY  chooseHandler.label         "เรียกดู…">
-<!ENTITY  chooseHandler.accesskey     "B">
+<!ENTITY  chooseHandler.accesskey     "ร">
 
 <!ENTITY  unknownPromptText.label     "คุณต้องการบันทึกไฟล์นี้หรือไม่?">
