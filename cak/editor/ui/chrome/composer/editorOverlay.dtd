@@ -325,6 +325,7 @@
 <!ENTITY alignLeftButton.tooltip "Tichol ri rucholajem tzij pa xokon ruchi'">
 <!ENTITY alignCenterButton.tooltip "Tichol ri rucholajem tzij pa nik'aj">
 <!ENTITY alignRightButton.tooltip "Tichol ri rucholajem tzij pan ajkiq'a' ruchi'">
+<!ENTITY alignJustifyButton.tooltip "Tichol ri rucholajem tzij pan ajkiq'a' chuqa' xokon ruchi'">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Ticha'">
