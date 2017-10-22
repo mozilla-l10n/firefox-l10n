@@ -44,6 +44,7 @@
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "આગળની સાઈટ ભ્રામક છે">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; આ પૃષ્ઠને અવરોધિત કર્યું છે કારણ કે તે તમને સૉફ્ટવેર ઇન્સ્ટોલ કરવા અથવા પાસવર્ડ્સ અથવા ક્રેડિટ કાર્ડ્સ જેવી વ્યક્તિગત માહિતીને છુપાવી જેવા ખતરનાક કંઈક કરવા માટે છેતરવામાં આવી શકે છે.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
