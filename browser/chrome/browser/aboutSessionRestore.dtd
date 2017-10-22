@@ -3,28 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Artin Naatal">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Ay haame. A min ngondi e caɗeele heɓtude kelle maa.">
+<!ENTITY restorepage.problemDesc2   "A min njogii caɗeele artirde naatal maa banngagol cakkitiingal. Suɓo Artir naatal ngal ngam ennditde.">
 
-<!ENTITY restorepage.errorTitle     "Ee bo, ɗum deh ena haamnii.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; heɓii caɗeele artirde kenorɗe e tabbe maa. Heewi addude ɗum ko hello udditaango ko ɓooyaani.">
-<!ENTITY restorepage.tryThis        "Aɗa waawi etaade:">
-<!ENTITY restorepage.restoreSome    "Uddude tabbere walla tabbe ɗe cikku-ɗaa ngaddi caɗeele ɗee">
-<!ENTITY restorepage.startNew       "Nana fuɗɗoo naatal peeragol kesal pul">
+<!ENTITY restorepage.hideTabs       "Suuɗ tabbe garooje ɗee">
 
-<!ENTITY restorepage.tryagainButton "Artir">
-<!ENTITY restorepage.restore.access "A">
-<!ENTITY restorepage.closeButton    "Uddu">
-<!ENTITY restorepage.close.access   "U">
 
 <!ENTITY restorepage.restoreHeader  "Artir">
 <!ENTITY restorepage.listHeader     "Kenorɗe e Tabbe">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Henorde &#037;S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
 
 <!ENTITY welcomeback2.restoreButton  "Njehen!">
 <!ENTITY welcomeback2.restoreButton.access "N">
@@ -36,14 +31,14 @@
 
 <!ENTITY welcomeback2.restoreAll.label  "Artir Kenorɗe e tabbe ɗee fof">
 <!ENTITY welcomeback2.restoreSome.label "Artir tan ɗe njiɗ-ɗaa">
+
+
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Ɓeyditte maa e keertine maa momtaama tee teelte wanngorde maa ngartiraama e goowaaɗe majje. So ɗuum ñawndaani caɗe maa, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
