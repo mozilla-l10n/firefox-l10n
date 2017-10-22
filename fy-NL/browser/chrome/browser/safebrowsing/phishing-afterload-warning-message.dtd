@@ -20,13 +20,18 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Dizze website kin skeadlik wêze foar jo kompjûter">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; hat dizze side blokkearre, omdat dizze probearje kin kweawollende software te ynstallearjen dy't persoanlike gegevens op jo kompjûter stelle of fuortsmite kin.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> is <a id='error_desc_link'>rapportearre as in website dy't kweawollende software befettet</a>. jo kinne <a id='report_detection'>in deteksjeprobleem rapportearje</a> of <a id='ignore_warning_link'>it risiko negearje</a> en dizze ûnfeilige website besykje.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> is <a id='error_desc_link'>rapportearre as in website dy't kweawollende software befettet</a>. Jo kinne <a id='report_detection'>in deteksjeprobleem rapportearje</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "Lâs mear oer skeadlike webynhâd, wêrûnder firussen en oare malware, en it beskermjen fan jo kompjûter op <a id='learn_more_link'>StopBadware.org</a>. Lês mear oer beskerming tsjin phishing en malware fan &brandShortName; op <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-
-
+<!ENTITY safeb.blocked.unwantedPage.title2 "De folgjende website kin skeadlike programma's befetsje">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 

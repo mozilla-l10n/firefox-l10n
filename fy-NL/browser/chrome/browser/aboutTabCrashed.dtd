@@ -22,8 +22,11 @@
 <!ENTITY tabCrashed.requestHelp "Wolle jo ús helpe?">
 <!ENTITY tabCrashed.requestHelpMessage "Ungelokrapporten helpe ús problemen te ûndersykjen en &brandShortName; te ferbetterjen.">
 <!ENTITY tabCrashed.requestReport "Dit ljepblêd rapportearje">
+<!ENTITY tabCrashed.sendReport3 "In automatysk ûngelokrapport ferstjoere sadat wy problemen as dizze ferhelpe kinne.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Opsjoneel kommentaren (kommentaren binne publyklik sichtber)">
+<!ENTITY tabCrashed.includeURL3 "De URL’s byfoegje fan de websites dy't jo besochten doe't &brandShortName; ferûngelokke.">
 <!ENTITY tabCrashed.emailPlaceholder "Fier hjir jo e-mailadres yn">
 <!ENTITY tabCrashed.emailMe "My in e-mailberjocht stjoere sa gau as der mear ynformaasje beskikber is">
 <!ENTITY tabCrashed.reportSent "It ûngelokrapport is al ferstjoerd; tank dat jo meihelpe &brandShortName; better te meitsjen!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Eftergrûnljepblêden rapportearje">
+<!ENTITY tabCrashed.autoSubmit3 "Foarkarren oanpasse om automatysk rapporten te ferstjoeren wannear't &brandShortName; ferûngelokket.">
