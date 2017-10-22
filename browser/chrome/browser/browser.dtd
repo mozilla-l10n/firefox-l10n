@@ -122,7 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.accesskey "จ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
-<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY showAllTabsCmd.accesskey "ส">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "ลงชื่อเข้า &syncBrand.shortName.label;">
@@ -510,9 +510,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "เปลี่ยนการตั้งค่าการค้นหา">
 
 <!ENTITY searchInNewTab.label         "ค้นหาในแท็บใหม่">
-<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchInNewTab.accesskey     "ค">
 <!ENTITY searchSetAsDefault.label     "ตั้งเป็นเครื่องมือค้นหาเริ่มต้น">
-<!ENTITY searchSetAsDefault.accesskey "D">
+<!ENTITY searchSetAsDefault.accesskey "ต">
 
 <!ENTITY openLinkCmdInTab.label       "เปิดลิงก์ในแท็บใหม่">
 <!ENTITY openLinkCmdInTab.accesskey   "ท">
@@ -537,9 +537,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceForMathMLCmd.label    "ดูต้นฉบับ MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "ด">
+<!ENTITY viewPartialSourceCmd.accesskey "ต">
 <!ENTITY viewPageSourceCmd.label      "ดูต้นฉบับหน้า">
-<!ENTITY viewPageSourceCmd.accesskey  "ต">
+<!ENTITY viewPageSourceCmd.accesskey  "ด">
 <!ENTITY viewFrameSourceCmd.label     "ดูต้นฉบับกรอบ">
 <!ENTITY viewFrameSourceCmd.accesskey "ด">
 <!ENTITY viewPageInfoCmd.label        "ดูข้อมูลหน้า">
@@ -547,13 +547,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.label       "ดูข้อมูลกรอบ">
 <!ENTITY viewFrameInfoCmd.accesskey   "ข">
 <!ENTITY reloadImageCmd.label         "โหลดภาพใหม่">
-<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY reloadImageCmd.accesskey     "ห">
 <!ENTITY viewImageCmd.label           "ดูภาพ">
 <!ENTITY viewImageCmd.accesskey       "ด">
 <!ENTITY viewImageInfoCmd.label       "ดูข้อมูลภาพ">
 <!ENTITY viewImageInfoCmd.accesskey   "ข">
 <!ENTITY viewImageDescCmd.label       "ดูคำอธิบาย">
-<!ENTITY viewImageDescCmd.accesskey   "D">
+<!ENTITY viewImageDescCmd.accesskey   "ย">
 <!ENTITY viewVideoCmd.label           "ดูวิดีโอ">
 <!ENTITY viewVideoCmd.accesskey       "ด">
 <!ENTITY viewBGImageCmd.label         "ดูภาพพื้นหลัง">
@@ -593,9 +593,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailAudioCmd.label          "ส่งอีเมลเสียง…">
 <!ENTITY emailAudioCmd.accesskey      "ม">
 <!ENTITY playPluginCmd.label          "เปิดใช้งานปลั๊กอินนี้">
-<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY playPluginCmd.accesskey      "ป">
 <!ENTITY hidePluginCmd.label          "ซ่อนปลั๊กอินนี้">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY hidePluginCmd.accesskey      "อ">
 <!ENTITY copyLinkCmd.label            "คัดลอกตำแหน่งที่ตั้งลิงก์">
 <!ENTITY copyLinkCmd.accesskey        "ด">
 <!ENTITY copyImageCmd.label           "คัดลอกตำแหน่งที่ตั้งภาพ">
@@ -607,7 +607,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "คัดลอกตำแหน่งที่ตั้งเสียง">
 <!ENTITY copyAudioURLCmd.accesskey    "ง">
 <!ENTITY copyEmailCmd.label           "คัดลอกที่อยู่อีเมล">
-<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY copyEmailCmd.accesskey       "ท">
 <!ENTITY thisFrameMenu.label              "กรอบนี้">
 <!ENTITY thisFrameMenu.accesskey          "ก">
 
