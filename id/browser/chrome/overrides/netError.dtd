@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "Peladen Tidak Ditemukan">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Kami kesulitan menemukan situs itu.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Jika alamatnya benar, berikut tiga hal yang dapat Anda coba:</strong>
+<ul>
+  <li>Coba lagi nanti.</li>
+  <li>Periksa sambungan jaringan Anda.</li>
+  <li>Jika Anda tersambung tetapi berada di balik tembok api, periksa &brandShortName; dibolehkan mengakses Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Berkas tidak ditemukan">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.</li> <li>Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.</li> </ul>">
