@@ -85,7 +85,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "u">
-<!ENTITY navbarCmd.label "Barra de Navigation">
+<!ENTITY navbarCmd.label "Barra de navigation">
 <!ENTITY personalbarCmd.label "Barra de marcapaginas">
 <!ENTITY personalbarCmd.accesskey "m">
 <!ENTITY bookmarksToolbarItem.label "Elementos del barra de marcapaginas">
@@ -335,7 +335,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "l">
 <!ENTITY viewCustomizeToolbar.label       "Personalisar…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY overflowCustomizeToolbar.label       "Personalisar barra de instrumentos…">
+<!ENTITY overflowCustomizeToolbar.label       "Personalisar le barra de instrumentos…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Chronologia">
@@ -349,8 +349,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalisar">
-<!ENTITY appMenuCustomize.tooltip "Customisar le menu e le barras de instrumentos">
-<!ENTITY appMenuCustomizeExit.label "Exir le customisation">
+<!ENTITY appMenuCustomize.tooltip "Personalisar le menu e le barras de instrumentos">
+<!ENTITY appMenuCustomizeExit.label "Exir le personalisation">
 <!ENTITY appMenuCustomizeExit.tooltip "Finir le personalisation">
 <!ENTITY appMenuHistory.showAll.label "Monstrar tote le chronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Vacuar le chronologia recente…">
@@ -981,7 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "Remover del barra de adresse">
 
 <!ENTITY pageAction.sendTabToDevice.label "Inviar le scheda a un apparato">
-<!ENTITY sendToDevice.syncNotReady.label "Synchronisante Apparatos…">
+<!ENTITY sendToDevice.syncNotReady.label "Synchronisante apparatos…">
 
 <!ENTITY libraryButton.tooltip "Vider chronologia, marcapaginas salvate, e plus">
 
