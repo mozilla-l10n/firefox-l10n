@@ -295,16 +295,29 @@
 <!ENTITY spellToolbarCmd.label "Cholotz'ib'">
 <!ENTITY spellToolbarCmd.tooltip "Tinik'ox rutz'ib'axik cha'oj o chijun ri ruxaq">
 <!ENTITY imageToolbarCmd.label "Wachib'äl">
+<!ENTITY imageToolbarCmd.tooltip "Tich'ik k'ak'a' wachib'äl o tinuk' taq richinil ri wachib'äl cha'on">
 <!ENTITY hruleToolbarCmd.label "H.Line">
+<!ENTITY hruleToolbarCmd.tooltip "Tich'ik kotz'ojuch' o tinuk' richinil ri juch' cha'on">
 <!ENTITY tableToolbarCmd.label "Kemoj kajtz'ik">
+<!ENTITY tableToolbarCmd.tooltip "Tich'ik k'ak'a' kemon kajtz'ik o tinuk' taq richinil ri kemon kajtz'ik cha'on">
 <!ENTITY linkToolbarCmd.label "Ximonel">
+<!ENTITY linkToolbarCmd.tooltip "Tich'ik k'ak'a' ximonel o tinuk' taq richinil ri ximonel cha'on">
+<!ENTITY anchorToolbarCmd.label "Xukuxüb'">
+<!ENTITY anchorToolbarCmd.tooltip "Tich'ik k'ak'a' xukuxüb' b'ina'am o tinuk' taq richinil ri xukuxüb' b'ina'am cha'on">
+<!ENTITY TextColorButton.tooltip "Ticha' rub'onil ri rucholajem tzij">
+<!ENTITY BackgroundColorButton.tooltip "Ticha' rub'onil ri rupam">
+<!ENTITY throbber.tooltip "Tib'e pa ri &vendorShortName; rutikirib'al ruxaq">
+<!ENTITY HighlightColorButton.tooltip "Ticha' niya' retal rub'onil rucholajem tzij">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Tijikib'äx runimilem tz'ib'">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ko'öl runimilem ruwäch tz'ib'">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Nïm runimilem ruwäch tz'ib'">
 <!ENTITY boldToolbarCmd.tooltip "Q'eqatz'ib'">
 <!ENTITY italicToolbarCmd.tooltip "Q'e'etz'ib'">
 <!ENTITY underlineToolbarCmd.tooltip "Juxül">
+<!ENTITY bulletListToolbarCmd.tooltip "Tijikib'äx o tiyuj ri cholajem rik'in wachin">
+<!ENTITY numberListToolbarCmd.tooltip "Tijikib'äx o tiyuj ri cholajem ya'on rajilab'al">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Ticha'">
