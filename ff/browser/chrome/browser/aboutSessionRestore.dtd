@@ -8,9 +8,15 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Ay haame. A min ngondi e caɗeele heɓtude kelle maa.">
 <!ENTITY restorepage.problemDesc2   "A min njogii caɗeele artirde naatal maa banngagol cakkitiingal. Suɓo Artir naatal ngal ngam ennditde.">
+<!ENTITY restorepage.tryThis2       "Haa hannde a waawaa artirde naatal maa ? Heen sahaaji cegenel ina waawi addude saɗeende ndee. Hollit cegenon caggal kon, momtaa maantal cegenon kon a soklaani artirde kon, caggal ɗuum ngartiraa kon.">
 
-<!ENTITY restorepage.hideTabs       "Suuɗ tabbe garooje ɗee">
+<!ENTITY restorepage.hideTabs       "Suuɗ cegenon caggal kon">
+<!ENTITY restorepage.showTabs       "Hollit cegenon ɓennukon kon">
 
+<!ENTITY restorepage.tryagainButton2 "Artir naatannde">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Fuɗɗo naatal kesal">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Artir">
 <!ENTITY restorepage.listHeader     "Kenorɗe e Tabbe">
