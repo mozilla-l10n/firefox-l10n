@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when logged in... -->
 
+<!-- The page shown when logged in... -->
 
 <!ENTITY engine.bookmarks.label     "Maantore am">
 <!ENTITY engine.bookmarks.accesskey "t">
@@ -17,11 +17,7 @@
 <!ENTITY engine.addons.label        "Ɓeyditte">
 <!ENTITY engine.addons.accesskey    "Ɓ">
 
-
-
-
 <!-- Device Settings -->
-
 <!ENTITY fxaSyncDeviceName.label       "Innde Kaɓirgol">
 <!ENTITY changeSyncDeviceName2.label "Waylu Innde Kaɓirgel…">
 <!ENTITY changeSyncDeviceName2.accesskey "a">
@@ -29,24 +25,24 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Danndu">
 <!ENTITY saveChangeSyncDeviceName.accesskey "D">
-<!-- Footer stuff -->
 
+<!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Laabi Carwol">
 <!ENTITY fxaPrivacyNotice.link.label "Tintinol Suturo">
+
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "ƴeewtaaka.">
+
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInLoginFailure.beforename.label "Tiiɗno seŋo ngam naattude">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
@@ -54,8 +50,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Seŋao">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Waylu natal heftinirde">
-
-
+<!ENTITY verifiedManage.label        "Toppito konte">
 <!ENTITY disconnect3.label           "Seŋtondir…">
 <!ENTITY disconnect3.accesskey       "d">
 <!ENTITY verify.label                "Ƴeewto Iimeel">
@@ -66,24 +61,20 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Nawor Geesa Maa">
 <!ENTITY signedOut.description        "Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.">
 <!ENTITY signedOut.accountBox.title   "Seŋoro &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Sos Kontal">
-<!ENTITY signedOut.accountBox.create.accesskey  "K">
-<!ENTITY signedOut.accountBox.signin  "Seŋo">
-<!ENTITY signedOut.accountBox.signin.accesskey  "S">
 
 <!ENTITY signedIn.settings.label       "Yahdin teelte">
 <!ENTITY signedIn.settings.description "Suɓo ko pot-ɗaa yahdinde nder masiŋon maa kuutortookon &brandShortName;.">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-
 <!ENTITY mobilePromo3.start            "Aawto Firefox mo ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " walla ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
