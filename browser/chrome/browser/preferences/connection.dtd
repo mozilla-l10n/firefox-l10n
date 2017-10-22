@@ -14,33 +14,30 @@
 <!ENTITY  systemTypeRadio.accesskey     "x">
 <!ENTITY  WPADTypeRadio.label           "Ejto teelte proxy ngol laylaytol e jaajol">
 <!ENTITY  WPADTypeRadio.accesskey       "p">
-
-
-
-
+<!ENTITY  manualTypeRadio2.label        "Teeltal junngo poroksi">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "URL teeltal otomatik poroksi">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "Hesɗitin">
 <!ENTITY  reload.accesskey              "e">
-
-
-
-
-
-
-
-
+<!ENTITY  ftp2.label                    "FTP poroksi">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP Poroksi">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "SSL Poroksi">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS Host">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Proxy DNS so SOCKS v5 huutoraama">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-
-
 <!ENTITY  noproxyExplain.label          "Yeru: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Huutoro ndee sarworde proxy e jaɓɓitore fof">
 <!ENTITY  shareproxy.accesskey          "u">
