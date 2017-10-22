@@ -34,7 +34,7 @@
 <!ENTITY alwaysAskWhere.accesskey     "q">
 
 <!ENTITY alwaysCheckDefault2.label        "Sempre verificar si &brandShortName; es tu navigator predefinite">
-<!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY alwaysCheckDefault2.accesskey    "S">
 <!ENTITY setAsMyDefaultBrowser3.label     "Predefinir…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; es actualmente tu navigator predefinite">

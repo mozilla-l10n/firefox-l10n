@@ -111,7 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Duplicar le scheda">
-<!ENTITY mirrorTabCmd.accesskey "m">
+<!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Entrar le plen schermo">
@@ -183,7 +183,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY mobileBookmarksCmd.label "Marcapaginas del apparatos mobile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Monstrar plus marcapaginas">
 <!ENTITY showRecentlyBookmarked.label     "Monstrar le marcapaginas recente">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY showRecentlyBookmarked.accesskey "M">
 <!ENTITY hideRecentlyBookmarked.label     "Celar le marcapaginas recente">
 <!ENTITY hideRecentlyBookmarked.accesskey "C">
 
@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Personalisar…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personalisar barra de instrumentos…">
-<!ENTITY overflowCustomizeToolbar.accesskey   "C">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Chronologia">
 <!ENTITY historyMenu.accesskey "C">
@@ -437,7 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable "No">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Si">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggestion:">
@@ -510,7 +510,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "Cambiar le parametros de recerca">
 
 <!ENTITY searchInNewTab.label         "Cercar in le nove scheda">
-<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchInNewTab.accesskey     "C">
 <!ENTITY searchSetAsDefault.label     "Predefinir como motor de recerca">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
@@ -521,11 +521,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.label "Aperir le ligamine in un nove fenestra private">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Aperir le ligamine">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openLinkCmdInCurrent.accesskey "A">
 <!ENTITY openFrameCmdInTab.label      "Aperir le quadro in un nove scheda">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY openFrameCmd.label           "Aperir le quadro in un nove fenestra">
-<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmd.accesskey       "f">
 <!ENTITY openLinkCmdInContainerTab.label "Aperir le ligamine in un nove scheda contextual">
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!ENTITY showOnlyThisFrameCmd.label     "Monstrar solmente iste quadro">
@@ -575,7 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Salvar le quadro como…">
-<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY saveFrameCmd.accesskey       "q">
 <!ENTITY printFrameCmd.label          "Imprimer le quadro…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "Salvar le ligamine como…">
@@ -609,7 +609,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.label           "Copiar le adresse email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Iste quadro">
-<!ENTITY thisFrameMenu.accesskey          "h">
+<!ENTITY thisFrameMenu.accesskey          "q">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
@@ -639,8 +639,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "Absurde (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaPlaybackRate200x2.label "Dismesurate (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "D">
 <!ENTITY mediaLoop.label             "Repeter">
 <!ENTITY mediaLoop.accesskey         "R">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
@@ -812,22 +812,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      These access keys are identical because their associated menu items are
      mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Aperir">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
+<!ENTITY syncedTabs.context.open.accesskey                   "A">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Aperir in un nove scheda">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "s">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Aperir in un nove fenestra">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Aperir in un nove fenestra private">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Adder un marcapaginas sur iste scheda…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "m">
 <!ENTITY syncedTabs.context.copy.label                       "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Aperir toto in schedas">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 <!ENTITY syncedTabs.context.managedevices.label              "Gerer le apparatos…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "a">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,12 +896,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Inactivar le protection pro iste sito">
-<!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock.accesskey "I">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Inactivar le protection pro iste section">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "I">
 <!ENTITY trackingProtection.block2.label "Activar protection">
 <!ENTITY trackingProtection.block2.accesskey "E">
 

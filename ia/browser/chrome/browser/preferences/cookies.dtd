@@ -21,7 +21,7 @@
 <!ENTITY     focusSearch1.key               "f">
 
 <!ENTITY     searchFilter.label             "Cercar">
-<!ENTITY     searchFilter.accesskey         "S">
+<!ENTITY     searchFilter.accesskey         "C">
 
 <!ENTITY     button.close.label             "Clauder">
 <!ENTITY     button.close.accesskey         "C">

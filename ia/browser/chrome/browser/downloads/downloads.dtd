@@ -72,7 +72,7 @@
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Permitter le discarga">
-<!ENTITY cmd.unblock2.accesskey           "o">
+<!ENTITY cmd.unblock2.accesskey           "P">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->

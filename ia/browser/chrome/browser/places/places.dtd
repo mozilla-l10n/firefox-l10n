@@ -23,9 +23,9 @@
 <!ENTITY view.unsorted.label            "Sin ordine">
 <!ENTITY view.unsorted.accesskey        "S">
 <!ENTITY view.sortAscending.label       "Ordine crescente">
-<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortAscending.accesskey   "c">
 <!ENTITY view.sortDescending.label      "Ordine decrescente">
-<!ENTITY view.sortDescending.accesskey  "Z">
+<!ENTITY view.sortDescending.accesskey  "d">
 
 <!ENTITY importBookmarksFromHTML.label     "Importar marcapaginas ab HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
@@ -42,7 +42,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
 <!ENTITY cmd.deleteDomainData.label     "Oblidar iste sito">
-<!ENTITY cmd.deleteDomainData.accesskey "F">
+<!ENTITY cmd.deleteDomainData.accesskey "O">
 
 <!ENTITY cmd.open.label                  "Aperir">
 <!ENTITY cmd.open.accesskey              "O">
@@ -59,7 +59,7 @@
 <!ENTITY cmd.properties.accesskey  "i">
 
 <!ENTITY cmd.sortby_name.label              "Ordinar per nomine">
-<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.sortby_name.accesskey          "O">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Nove marcapaginas…">

@@ -73,7 +73,7 @@ available. -->
 <!ENTITY clearCacheNow.label             "Vacuar ora">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "Vacuar ora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.accesskey "o">
 <!ENTITY overrideSmartCacheSize.label    "Supplantar le gestion automatic del cache">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 

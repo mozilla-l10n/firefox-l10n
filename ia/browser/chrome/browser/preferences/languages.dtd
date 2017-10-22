@@ -7,7 +7,7 @@
 <!ENTITY languages.customize.Header                     "Linguas">
 <!ENTITY languages.customize2.description               "Paginas web es alcun vices offerite in plus de un lingua. Selige le linguas pro presentar iste paginas web, in ordine de preferentia">
 <!ENTITY languages.customize.moveUp.label               "Ascender">
-<!ENTITY languages.customize.moveUp.accesskey           "U">
+<!ENTITY languages.customize.moveUp.accesskey           "A">
 <!ENTITY languages.customize.moveDown.label             "Descender">
 <!ENTITY languages.customize.moveDown.accesskey         "D">
 <!ENTITY languages.customize.deleteButton.label         "Remover">
