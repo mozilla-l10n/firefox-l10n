@@ -2,10 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "On Jaɓɓaama">
-
-<!ENTITY firstrun_urlbar_message "A jaɓɓaama e &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Yiytu geɗe no ɓuri yaawrude e ballal codorɗe basiye njiilaw.">
+<!ENTITY firstrun_panel_title_welcome "On njaɓɓaama">
 <!ENTITY firstrun_bookmarks_title "Aslol">
 <!ENTITY firstrun_bookmarks_message "Cuɓaaɗe maa, yeeso e hakkunde">
 <!ENTITY firstrun_bookmarks_subtext "Heɓ njaltudi iwndi e maantore e aslol maa so aɗa yiyloo.">
@@ -13,8 +10,6 @@
 <!ENTITY firstrun_data_message "Keɓe seeɗa, dannduɗe keewɗe">
 <!ENTITY firstrun_data_subtext2 "Falo nate ngal ustude ñaamdu keɓe e lowre kala njilloto-ɗaa.">
 <!ENTITY firstrun_sync_title "Sanngoɗin">
-<!ENTITY firstrun_sync_message "&brandShortName;, sahaa kala takko maa">
-<!ENTITY firstrun_sync_subtext "Sync tabbe, finndeeji, e geɗe goɗɗe nokku kala kuutoro-ɗaa.">
 <!ENTITY firstrun_signin_message "Naat e ceŋol, fuɗɗo jooni">
 <!ENTITY firstrun_signin_button "Seŋo ngam syncude">
 <!ENTITY  onboard_start_button_browser "Fuɗɗo Peeragol">
@@ -33,21 +28,21 @@
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Fiɗɗu ñukurñaaka oo">
 <!ENTITY firstrun_readerview_subtext "Huutoro Jiytol Taro ngam bindanɗe ɓeydoo laaɓde tarde \u2014 hay so e ceŋtol.">
-<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Aan">
 <!ENTITY firstrun_account_message "Heɓ &brandShortName; e kaɓirgol goɗngol?">
 
 <!ENTITY  onboard_start_restricted1 "Ɓeydo hisde e tiiɗde e ndee yamre weeɓtinaande &brandShortName;.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "Maantore">
 <!ENTITY  history_title "Aslol">
 
 <!ENTITY  switch_to_tab "Yah to tabbere">
-<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Ɗum ɗoo ko yamre ceŋtol">
 
 <!ENTITY  crash_reporter_title "Jaŋtorde Kooke &brandShortName;">
@@ -82,9 +77,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Nokitte">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Doggol Taro">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
 <!ENTITY bookmark_folder_items "teme &formatD;">
 <!ENTITY bookmark_folder_one_item "temre 1">
 <!ENTITY bookmark_parent_folder "Runngere Yummaare">
@@ -134,27 +129,27 @@
 <!ENTITY settings_title "Teelte">
 <!ENTITY pref_category_general "Kuuɓal">
 <!ENTITY pref_category_general_summary3 "Jaɓɓorgo, ɗemngal, lasal tabbe">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "Ɗemngal">
 <!ENTITY pref_category_language_summary "Waylu ɗemngal wanngorde maa">
 <!ENTITY pref_browser_locale "Ɗemngal wanngorde">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "Goowaangal yuɓɓo">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "Ɓeydu e &brandShortName;">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "Maantorol">
 <!ENTITY overlay_share_bookmark_btn_label_already "Koko maantoranoo">
 <!ENTITY overlay_share_send_other "Neldu to kaɓirɗi goɗɗi">
@@ -201,8 +196,6 @@
 <!ENTITY pref_category_advanced_summary3 "Artir tabbe, danndirde keɓe, kuutorɗe topayɓe">
 <!ENTITY pref_category_notifications "Tintine">
 <!ENTITY pref_category_notifications_summary "Fannuuji kesi, kesɗitine lowre">
-<!ENTITY pref_content_notifications "Kesɗitine lowre">
-<!ENTITY pref_content_notifications_summary2 "Ƴeew ndii loowdi kesiri iwndi e lowe tammbaaɗe">
 <!ENTITY pref_developer_remotedebugging_usb "Buggitagol goɗɗungol rewde e USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Buggitagol goɗɗungol rewde e Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Buggitagol Wi-Fi ena naamnii yoo kaɓirgol maa aafe tarorde kod QR.">
@@ -235,8 +228,8 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "Naatnu ñiiɓirde walla helmere">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Kuuɓal">
 <!ENTITY pref_header_search "Yiylo">
 <!ENTITY pref_header_privacy_short "Suturo">
@@ -250,10 +243,10 @@
 <!ENTITY pref_cookies_accept_all "Hurminaama">
 <!ENTITY pref_cookies_not_accept_foreign "Daaƴtaaɗo, wondaani e ɓe woɗɓe">
 <!ENTITY pref_cookies_disabled "Daaƴaama">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
 <!ENTITY pref_category_data_saver "Sarworde keɓe">
 <!ENTITY pref_category_media "Majaare">
 <!ENTITY pref_category_developer_tools "Kuutorɗe topayɓe">
@@ -267,7 +260,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Aawto ponte goɗɗuɗe so ena loowa hello">
 
 <!ENTITY pref_tracking_protection_title2 "Ndeenka Dewindol">
-<!ENTITY pref_tracking_protection_summary3 "Hurminaama e Mbayka Peeragol Suturo">
 <!ENTITY pref_donottrack_title "Hoto rewindo">
 <!ENTITY pref_donottrack_summary "&brandShortName; maa wiy lowe wonde a yiɗaa rewindeede">
 
@@ -277,21 +269,14 @@
 
 <!ENTITY pref_whats_new_notification "Hol ko hesɗi e &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Humpito baɗte fannuuji kesi caggal kesɗitinal">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-
 <!ENTITY pref_category_experimental "Fannuuji ƴeewtindorɗi">
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
-<!ENTITY pref_custom_tabs "Tabbe Peŋtore">
-<!ENTITY pref_custom_tabs_summary3 "Yamir jaaɓɗe yoo uddit lowe huutoraade yamre &brandShortName; heertinaande">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
-
 
 
 <!ENTITY tracking_protection_prompt_title "Jooni ena waɗi Ndeenka Dewindol">
@@ -321,27 +306,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "tabbere 1 sabbiinde">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
-<!ENTITY tab_queue_notification_settings "Ngam \&quot;Udditde jokke keewɗe\&quot;, tiiɗno hurmin jamirol \u0027Nat dow jaaɓɗe goɗɗe\u0027 e &brandShortName;">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; lowe kesɗitinaama">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Teelte">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Tar jooni">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Hesɗitinaama e &formatS;">
+<!ENTITY tab_queue_notification_settings "Ngam \&quot;Udditde jokke keewɗe\&quot;, tiiɗno hurmin jamirol \&apos;Nat dow jaaɓɗe goɗɗe\&apos; e &brandShortName;">
 
 <!ENTITY pref_char_encoding "Dokkitannde alkule">
 <!ENTITY pref_char_encoding_on "Hollu dosol">
@@ -351,14 +319,14 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Momtu jooni">
 <!ENTITY pref_clear_on_exit_title3 "Momtu keɓe cuuriiɗe so aɗa yalta">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; maa momtu e jaajol tuma kala nde labi-ɗaa  \0022Yaltu\u0022 e dosol dowrowol ngol">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; maa momtu e jaajol tuma kala nde labi-ɗaa  \0022Yaltu\&quot; e dosol dowrowol ngol">
 <!ENTITY pref_clear_on_exit_dialog_title "Labo keɓe momteteeɗe">
 <!ENTITY pref_restore_tabs "Artir tabbe">
 <!ENTITY pref_restore_always "Artir sahaa kala">
 <!ENTITY pref_restore_quit "Hoto artir caggal jaltugol &brandShortName;">
+
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-
 
 <!ENTITY pref_media_autoplay_enabled "Yamir tarol jaajol">
 <!ENTITY pref_media_autoplay_enabled_summary "Ƴeewto so lowe geese ena mbaawi tarde widewooji e mejaaje goɗɗe e jaajol">
@@ -415,13 +383,13 @@
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
 <!ENTITY datareporting_fhr_summary2 "Lollinat keɓe to &vendorShortName; baɗte cellal wanngorde maa tee ena walla faamde ñisgol wanngorde maa">
 <!ENTITY datareporting_abouthr_title "Yiyto Jaŋtol Cellal al">
@@ -440,8 +408,8 @@
 <!ENTITY pref_update_autodownload_wifi "E Wifi tan">
 <!ENTITY pref_update_autodownload_never "Hay sahaa">
 <!ENTITY pref_update_autodownload_always "Sahaa kala">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Balal">
 
 <!ENTITY quit "Yaltu">
@@ -469,16 +437,16 @@
 <!ENTITY set_image_fail "Horiima suɓaade natal">
 <!ENTITY set_image_path_fail "Horiima danndude natal">
 <!ENTITY set_image_chooser_title "Waɗtu Natal Ngal">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "Yiylo e Hello">
 <!ENTITY find_prev "Ɓennuɗo">
 <!ENTITY find_next "Yeeso">
 <!ENTITY find_close "Uddu">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "Nana nelda to Kaɓirgol">
 <!ENTITY media_play "Tar">
 <!ENTITY media_pause "Sabbo">
@@ -488,7 +456,6 @@
 <!ENTITY contextmenu_open_private_tab "Uddit e Henorde Suuriinde">
 <!ENTITY contextmenu_remove "Momtu">
 <!ENTITY contextmenu_add_to_launcher "Ɓeydu to Hello Jaɓɓorgo">
-
 <!ENTITY contextmenu_share "Lollin">
 <!ENTITY contextmenu_pasteandgo "Ɗakku Njahaa">
 <!ENTITY contextmenu_paste "Ɗakku">
@@ -499,11 +466,17 @@
 <!ENTITY contextmenu_top_sites_edit "Taƴto">
 <!ENTITY contextmenu_top_sites_pin "Ñippu Lowre">
 <!ENTITY contextmenu_top_sites_unpin "Ñippit Lowre">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "Ɓeydu Yiilorde">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[Alaa innde kuutoro]">
 <!ENTITY doorhanger_login_edit_title "Taƴto seŋorde">
 <!ENTITY doorhanger_login_edit_username_hint "Innde kuutoro">
@@ -513,38 +486,36 @@
 <!ENTITY doorhanger_login_select_toast_copy "Finnde nattaama to ɗakkitorde">
 <!ENTITY doorhanger_login_select_action_text "Labo seŋorde woɗnde">
 <!ENTITY doorhanger_login_select_title "Natto finnde iwde">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "Banngagol njaajeendi yaynirde">
 <!ENTITY pref_scroll_title_bar_summary2 "Suuɗ palal kuutorɗe &brandShortName; so aɗa woroo les hello">
 
 <!ENTITY pref_tab_queue_title3 "Lasal tabbe">
 <!ENTITY pref_tab_queue_summary4 "Danndu jokke haa udditaa &brandShortName; goɗngol">
+
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "Hello momtaama">
 
 <!ENTITY bookmark_edit_title "Taƴto Maantorol">
-
 <!ENTITY bookmark_edit_name "Innde">
 <!ENTITY bookmark_edit_location "Nokkuure">
 <!ENTITY bookmark_edit_keyword "Helmere yiylorde">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "Teelte Lowre">
 <!ENTITY site_settings_cancel       "Haaytu">
 <!ENTITY site_settings_clear        "Momtu">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "Baɗe Goɗɗe">
 
 <!ENTITY masterpassword_create_title "Sos Finnde Baabaare">
@@ -557,7 +528,6 @@
 <!ENTITY button_yes "Eey">
 <!ENTITY button_no "Alaa">
 <!ENTITY button_clear_data "Momtu keɓe">
-
 <!ENTITY button_clear "Momtu">
 <!ENTITY button_copy "Natto">
 
@@ -565,9 +535,9 @@
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ɓeydu lowre">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "Jaɓɓorgo &brandShortName;">
 <!ENTITY home_history_title "Aslol">
 <!ENTITY home_synced_devices_smartfolder "Kaɓirɗi cynkaaɗi">
@@ -588,19 +558,19 @@
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Heee: huutoraade &formatS1;Tabbere Suturo Hesere&formatS2; danndataa aslol maa.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "Alaa loowdi yiyta e ndal ɗoon palal.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "Rutto to &formatS;">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "kaɓirɗi &formatD; cuuɗaama">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -608,9 +578,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Suuɗtu kaɓirɗi labaaɗi ɗii">
+
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-
 
 <!ENTITY remote_tabs_panel_moved_title "Hoto tabbe am ngoni?">
 <!ENTITY remote_tabs_panel_moved_desc "Min ndirtinii tabbe maa iwɗe e kaɓirɗi goɗɗi fayde e alluwal e hello jaɓɓorgo maa baawbgal heɓaade tuma kala nde uddit-ɗaa tabbere hesere.">
@@ -622,8 +592,8 @@
 <!ENTITY filepicker_audio_title "Labo walla nanngito ojoo">
 <!ENTITY filepicker_image_title "Labo walla ɓam natal">
 <!ENTITY filepicker_video_title "Labo walla fiil widewoo">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ceŋi-ɗaa ko e">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -639,21 +609,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ceŋagol Kisnangol">
 <!ENTITY identity_connection_insecure "Ceŋagol ngol hisaani">
 <!ENTITY identity_connection_chromeui "Ɗum ko hello &brandShortName; hisngo">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; faliima loowdi ndi hisaani e ngoo hello.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; faliima won e loowdi ndi hisaani e ngoo hello.">
 <!ENTITY mixed_content_display_loaded1 "Geɗe ɗe kisaani nana e ngoo hello (wano nate).">
 <!ENTITY mixed_content_protection_disabled1 "A dartinii ndeenka loowdi ndi hisaani.">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Ndeenka Dewindol">
 <!ENTITY doorhanger_tracking_state_enabled "Hurminaama">
 <!ENTITY doorhanger_tracking_state_disabled "Daaƴaama">
 <!ENTITY doorhanger_tracking_message_enabled1 "Etaali rewindaade dille maa e geese palaama.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Ngoo hello ena loowi geɗe baawɗe rewindaade peeragol maa.">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Ɓeydu Humpito">
 <!ENTITY enable_protection "Hurmin kisnugol">
 <!ENTITY disable_protection "Daaƴ kisnugol">
@@ -675,14 +645,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "Yiyloto &formatS;">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "Yiylo &formatS1; e &formatS2;">
 
 <!ENTITY searchable_description "Maantore e aslol">
-<!-- Updater notifications -->
+
+ <!-- Updater notifications -->
 <!ENTITY updater_start_select2 "Mem ɗoo ngam aawtaade">
 
 <!ENTITY updater_downloading_title2 "Nana aawtoo &brandShortName;">
@@ -694,12 +665,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "Ngam aawtaade piille e kesɗitine, yamir &brandShortName; yettaade e ndesgu maa.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Yamir">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Naatannde Koɗo Hesere">
 <!ENTITY exit_guest_session "Yaltu Naatannde Koɗo">
 <!ENTITY guest_session_dialog_continue "Jokku">
@@ -711,37 +681,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; maa hurmu jooni">
 <!ENTITY exit_guest_session_text "Keɓe banngagol ndee naatannde maa momte.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "Dosol">
 <!ENTITY actionbar_done "Gasii">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Haal jooni">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "Syncaa wattan: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Synkaa wattan: hay sahaa">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "Ngol jokkol ma uddit e &formatS;. Aɗa yenanaa yiɗde yaltude Peeragol Suturo?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -751,18 +721,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Yaltu Peeragol Suturo?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-
 <!ENTITY devtools_auth_scan_header "Nana niiwtoo kod QR jaytinaaɗo e kaɓirgol maa ngola">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "Ɓeyditte">
 <!ENTITY restrictable_feature_addons_installation_description "Ɓeydu fannuuji walla mbaydiiji e Firefox. Tesko: Ɓeyditte ena mbaawi daaƴde won e palooje.">
 <!ENTITY restrictable_feature_private_browsing "Banngagol Suturo">
@@ -775,9 +745,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Yamir terɗe ɓesngu yoo kuutoro jokkondiral e saasi nder lowe.">
 <!ENTITY restrictable_feature_block_list "Doggol Daaƴol">
 <!ENTITY restrictable_feature_block_list_description "Falo lowe gonnduɗe e loowdi ndi hoolnaaki.">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "Firefox: Baɗte wanngorde maa">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Heertin huutoraade ɓeyditte">
@@ -787,17 +757,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Ballal e Wallitorde Firefox ɗe keftinirɗe curaaɗe e taable Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Ekko geese: Mozilla Webmaker">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-
 <!ENTITY unsupported_sdk_version "Ɗaccu hakke! Oo &brandShortName; dogataa e ngol kaɓirgol (&formatS1;, &formatS2;). Tiiɗno aawto yamre moƴƴere ndee.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; wontaa hesɗitinde">
 <!ENTITY eol_notification_summary "Fiy ngam ɓeydude humpito">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "&brandShortName; ena hesɗiti">
 <!ENTITY whatsnew_notification_summary "Ƴeew ko yesɗi e ndee yamre">
 
@@ -812,23 +782,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Ɓeydu e Maantore">
 
 <!ENTITY activity_stream_topsites "Lowe Dowrowe">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "Jubbanɗe">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-
 <!ENTITY activity_stream_highlight_label_bookmarked "Maantoraama">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Jillaaɗe">
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-
-<!ENTITY activity_stream_dismiss "Haaytu">
 <!ENTITY activity_stream_delete_history "M&amp;omtu e Aslol">
-
-
-
-
 
 
