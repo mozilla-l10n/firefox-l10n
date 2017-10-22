@@ -26,6 +26,7 @@
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Duplică fila">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -49,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Trimite linkul pe dispozitiv">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
+<!ENTITY  sendToDeviceFeedback.label         "Trimis!">
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Marchează toate filele…">
@@ -103,6 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Informații privind pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -243,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Vezi bara laterală cu marcaje">
 <!ENTITY hideBookmarksSidebar.label         "Ascunde bara laterală cu marcaje">
 <!ENTITY viewBookmarksToolbar.label         "Vezi bara cu marcaje">
+<!ENTITY hideBookmarksToolbar.label         "Ascunde bara cu marcaje">
 <!ENTITY searchBookmarks.label              "Caută marcaje">
 <!ENTITY bookmarkingTools.label             "Instrumente pentru marcaje">
 <!ENTITY addBookmarksMenu.label             "Adaugă meniul pentru marcaje în bara de instrumente">
@@ -352,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
+<!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
 <!ENTITY appMenuHelp.label "Ajutor">
 <!ENTITY appMenuHelp.tooltip "Deschide meniul Ajutor">
 
@@ -561,6 +566,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Marchează acest cadru">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY pageAction.copyLink.label    "Copiază linkul">
+<!ENTITY copyURLFeedback.label        "Copiat!">
 <!ENTITY emailPageCmd.label           "Trimite e-mail cu linkul…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Salvează pagina ca…">
@@ -624,6 +630,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Lent (0,5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Rapid (1,25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "Mai repede (1,5×)">
@@ -692,6 +700,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ieși">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Ieși din &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Închide">
 <!ENTITY closeCmd.key                   "W">
@@ -796,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activează sincronizarea filelor pentru a vedea o listă de file de celelalte dispozitive ale tale.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Caută în filele sincronizate">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -816,6 +826,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Deschide toate în file">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "o">
+<!ENTITY syncedTabs.context.managedevices.label              "Gestionează dispozitivele…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sincronizare">
@@ -867,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Folosește tactil pentru modul tabletă">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Ascunde automat">
 
 <!ENTITY getUserMedia.selectCamera.label "Camera spre partajare:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -955,6 +968,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Descarcă o copie nouă de &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "După o repornire rapidă &brandShorterName; va restaura toate filele tale deschise şi ferestrele care nu sunt în modul de navigare privată.">
 <!ENTITY updateRestart.header.message2 "Repornește pentru a actualiza &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Repornește și restaurează">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -963,8 +977,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Repornește pentru a actualiza &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Acțiuni pentru pagină">
+<!ENTITY pageAction.addToUrlbar.label "Adaugă la bara de adresă">
+<!ENTITY pageAction.removeFromUrlbar.label "Elimină din bara de adresă">
 
 <!ENTITY pageAction.sendTabToDevice.label "Trimite fila pe dispozitiv">
+<!ENTITY sendToDevice.syncNotReady.label "Se sincronizează dispozitivele…">
 
 <!ENTITY libraryButton.tooltip "Vezi istoricul, marcajele salvate şi mai multe">
 
@@ -972,3 +989,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Funcţii de accesibilitate activate">
