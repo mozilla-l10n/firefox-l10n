@@ -7,8 +7,8 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Nos lo regretta. Nos ha problemas a recuperar tu paginas.">
-<!ENTITY restorepage.problemDesc2   "Nos ha problemas a restaurar tu ultime session de navigation. Elige Restaurar session pro reprobar.">
-<!ENTITY restorepage.tryThis2       "Ancora incapace a restaurar tu session? Forsan un scheda causa le problema. Vide le schedas precedente, remove le marcas de selection del schedas que tu non necessita recovrar, e inde restaura.">
+<!ENTITY restorepage.problemDesc2   'Nos ha problemas a restaurar tu ultime session de navigation. Selige "Restaurar session" pro retentar.'>
+<!ENTITY restorepage.tryThis2       "Ancora non succede restaurar tu session? Alcun vices, un scheda causa le problema. Examina le schedas precedente, retira le marcas de selection del schedas que tu non require, e postea restaura.">
 
 <!ENTITY restorepage.hideTabs       "Celar le schedas precedente">
 <!ENTITY restorepage.showTabs       "Vider le schedas precedente">

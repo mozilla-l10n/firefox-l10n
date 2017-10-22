@@ -114,9 +114,9 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Entrar le plen schermo">
+<!ENTITY enterFullScreenCmd.label "Entrar in plen schermo">
 <!ENTITY enterFullScreenCmd.accesskey "E">
-<!ENTITY exitFullScreenCmd.label "Exir le plen schermo">
+<!ENTITY exitFullScreenCmd.label "Exir del plen schermo">
 <!ENTITY exitFullScreenCmd.accesskey "E">
 <!ENTITY fullScreenCmd.label "Plen schermo">
 <!ENTITY fullScreenCmd.accesskey "P">
@@ -136,7 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Clauder">
 <!ENTITY fullScreenAutohide.label "Celar le barras de instrumentos">
 <!ENTITY fullScreenAutohide.accesskey "C">
-<!ENTITY fullScreenExit.label "Exir le modo plen schermo">
+<!ENTITY fullScreenExit.label "Exir del modo plen schermo">
 <!ENTITY fullScreenExit.accesskey "E">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -151,9 +151,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Exir le plen schermo (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Exir le plen schermo (esc)">
-<!ENTITY leaveDOMFullScreen.label "Exir le plen schermo">
+<!ENTITY exitDOMFullscreen.button "Exir del plen schermo (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Exir del plen schermo (esc)">
+<!ENTITY leaveDOMFullScreen.label "Exir del plen schermo">
 <!ENTITY leaveDOMFullScreen.accesskey "E">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
