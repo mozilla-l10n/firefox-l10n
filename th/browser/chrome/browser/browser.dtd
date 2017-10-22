@@ -45,11 +45,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "ถอนหมุดแท็บ">
 <!ENTITY  unpinTab.accesskey                 "ถ">
 <!ENTITY  sendTabToDevice.label              "ส่งแท็บไปยังอุปกรณ์">
-<!ENTITY  sendTabToDevice.accesskey          "อ">
+<!ENTITY  sendTabToDevice.accesskey          "ง">
 <!ENTITY  sendPageToDevice.label             "ส่งหน้าไปยังอุปกรณ์">
-<!ENTITY  sendPageToDevice.accesskey         "อ">
+<!ENTITY  sendPageToDevice.accesskey         "ส">
 <!ENTITY  sendLinkToDevice.label             "ส่งลิงก์ไปยังอุปกรณ์">
-<!ENTITY  sendLinkToDevice.accesskey         "อ">
+<!ENTITY  sendLinkToDevice.accesskey         "ส">
 <!ENTITY  sendToDeviceFeedback.label         "ส่งแล้ว!">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปยังหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ม">
