@@ -45,6 +45,7 @@
 <!ENTITY AllTagsModeTab.label "HTML taq Etal">
 <!ENTITY AllTagsMode.label "HTML taq Etal">
 <!ENTITY AllTagsMode.accesskey "E">
+<!ENTITY AllTagsMode.tooltip "Kek'ut kiwachaj konojel ri HTML taq etal">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
