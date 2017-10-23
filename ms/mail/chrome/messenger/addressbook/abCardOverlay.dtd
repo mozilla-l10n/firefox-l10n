@@ -49,7 +49,7 @@
 
 <!ENTITY WorkPhone.label                "Kerja:">
 <!ENTITY WorkPhone.accesskey            "j">
-<!ENTITY HomePhone.label                "Halaman utama:">
+<!ENTITY HomePhone.label                "Rumah:">
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Faks:">
 <!ENTITY FaxNumber.accesskey            "s">

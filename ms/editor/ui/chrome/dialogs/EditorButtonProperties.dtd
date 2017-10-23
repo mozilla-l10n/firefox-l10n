@@ -18,7 +18,7 @@
 <!ENTITY ButtonValue.accesskey "N">
 <!ENTITY tabIndex.label "Indeks Tab:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Nyahdayakan">
+<!ENTITY ButtonDisabled.label "Dinyahdayakan">
 <!ENTITY ButtonDisabled.accesskey "N">
 <!ENTITY AccessKey.label "Kekunci Akses:">
 <!ENTITY AccessKey.accesskey "K">
