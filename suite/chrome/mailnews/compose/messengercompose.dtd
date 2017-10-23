@@ -43,7 +43,7 @@
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Tekstbrytning">
-<!ENTITY editRewrapCmd.key "T">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "B">
 <!ENTITY accountManagerCmd.label "Kontoinnstillinger …">
 <!ENTITY accountManagerCmd.accesskey "K">
