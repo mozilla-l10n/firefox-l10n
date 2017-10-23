@@ -36,7 +36,7 @@
 <!ENTITY  mediaType             "Jenis">
 <!ENTITY  mediaSize             "Saiz">
 <!ENTITY  mediaCount            "Kira">
-<!ENTITY  mediaDimension        "Dimensi-dimensi:">
+<!ENTITY  mediaDimension        "Dimensi:">
 <!ENTITY  mediaLongdesc         "Perihal secara panjang lebar:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Simpan Sebagai…">

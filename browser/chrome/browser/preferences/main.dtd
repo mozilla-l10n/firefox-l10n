@@ -10,7 +10,7 @@
 <!ENTITY startupBlankPage.label    "Papar halaman kosong">
 <!ENTITY startupPrevSession.label  "Papar tetingkap dan tab anda yang terdahulu">
 
-<!ENTITY homepage2.label           "Halaman Utama">
+<!ENTITY homepage2.label           "Halaman utama">
 <!ENTITY homepage2.accesskey       "U">
 <!ENTITY useCurrentPage.label      "Gunakan Halaman Semasa">
 <!ENTITY useCurrentPage.accesskey  "a">
