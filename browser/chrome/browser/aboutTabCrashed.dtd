@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "Jaŋtotooɗo hookre tabbere">
 
 <!ENTITY tabCrashed.closeTab2  "Uddu Tabbere">
 <!ENTITY tabCrashed.restoreTab "Artir ndee Tabbere">
@@ -21,8 +22,11 @@
 <!ENTITY tabCrashed.requestHelp "Aɗa waawi wallude min?">
 <!ENTITY tabCrashed.requestHelpMessage "Jaŋte kooke ena mballa min yiytude caɗe tee ɓeyda &brandShortName; yuɓɓude.">
 <!ENTITY tabCrashed.requestReport "Jaŋto ndee tabbere">
+<!ENTITY tabCrashed.sendReport3 "Jaŋtotooɗo hookre tabbere">
 <!ENTITY tabCrashed.commentPlaceholder2 "Jowe ɗe mbaɗɗaaki (jowe ena njiyee e peñcu)">
+<!ENTITY tabCrashed.includeURL3 "Loow URLs kelle ɗee ɗe ngonno-ɗaa e mumen ɗee so tawii &brandShortName; hookii">
 <!ENTITY tabCrashed.emailPlaceholder "Naatnu ñiiɓirde maa iimeel ɗoo">
 <!ENTITY tabCrashed.emailMe "Neldam iimeel so humpito woɗngo heɓaama">
 <!ENTITY tabCrashed.reportSent "Jaŋtol hookre naatnaama kisa; a jaaraama e wallude &brandShortName; no haanirta!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Jaŋto tabbe cakkitol">
+<!ENTITY tabCrashed.autoSubmit3 "Hurmito cuɓe ngam jokkaade ɗoonaa ɗoon jowanooɗe so tawii &brandShortName; hookii">
