@@ -72,7 +72,7 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Mengandungi Ralat Pengekodan">
+<!ENTITY contentEncodingError.title "Ralat Pengekodan Kandungan">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
