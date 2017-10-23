@@ -142,7 +142,7 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Sambungan Selamat Gagal">
+<!ENTITY nssFailure2.title "Gagal Disambung Dengan Selamat">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Halaman yang anda mahu lihat tidak dapat dipaparkan kerana autentisiti data yang diterima tidak dapat disahkan.</li>
@@ -150,7 +150,7 @@
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Sambungan Selamat Gagal">
+<!ENTITY nssBadCert.title "Gagal Disambung Dengan Selamat">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Ini mungkin masalah konfigurasi pelayan, atau mungkin
