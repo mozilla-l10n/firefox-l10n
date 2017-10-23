@@ -24,4 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Halaman perisian yang tidak diingini cuba memasang perisian yang mengelirukan dan boleh mengganggu sistem anda.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Laman berikut mungkin ada perisian hasad">
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; menyekat halaman ini kerana cuba memasang aplikasi berbahaya yang mencuri atau menghapuskan maklumat anda (contohnya, foto, kata laluan, mesej dan kad kredit).">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; menyekat halaman ini kerana cuba memasang aplikasi yang mencuri data atau menghapuskan data anda (sebagai contoh, foto, kata laluan, mesej dan kad kredit).">
