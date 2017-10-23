@@ -68,10 +68,10 @@
 <!ENTITY unknownSocketType.title "Tindak Balas Salah">
 <!ENTITY unknownSocketType.longDesc "<p>Laman memberi respons kepada rangkaian yang meminta dengan cara yang tidak dijangka dan pelayar  tidak dapat diteruskan.</p>">
 
-<!ENTITY nssFailure2.title "Sambungan yang selamat gagal">
+<!ENTITY nssFailure2.title "Gagal Disambung Dengan Selamat">
 <!ENTITY nssFailure2.longDesc2 "<p>Halaman yang anda sedang lihat tidak dapat ditunjuk kerana data penerima tidak boleh disahkan</p><ul><li>Sila hubungi pemilik laman web tentang masalah ini.</li></ul>">
 
-<!ENTITY nssBadCert.title "Sambungan yang selamat gagal">
+<!ENTITY nssBadCert.title "Gagal Disambung Dengan Selamat">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ini kemungkinan masalah pada konfigurasi server, atau mungkin seseorang cuba menyamar server tersebut</li> <li>Jikalau anda berjaya bersambung dengan server dahulu, kesalahan ini mungkin berlaku seketika, anda boleh cuba semula nanti.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
