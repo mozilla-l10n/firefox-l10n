@@ -518,7 +518,7 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Navigar cun maletg entir">
-<!ENTITY pref_scroll_title_bar_summary2 "Zuppentar la trav d\&apos;utensils cun scrollar engiu sin ina pagina">
+<!ENTITY pref_scroll_title_bar_summary2 "Zuppentar la trav d\&apos;utensils da &brandShortName; cun scrollar engiu sin ina pagina">
 
 <!ENTITY pref_tab_queue_title3 "Colonna da tabs">
 <!ENTITY pref_tab_queue_summary4 "Memorisar colliaziuns enfin la proxima giada che ti avras &brandShortName;">
