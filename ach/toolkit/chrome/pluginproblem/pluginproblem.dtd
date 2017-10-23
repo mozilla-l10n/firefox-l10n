@@ -1,17 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "Kakube man tiyo ki larwak ma romo weko &brandShortName; tiyo mot.">
 <!ENTITY tapToPlayPlugin                                     "Gud kany me cako larwak.">
 <!ENTITY clickToActivatePlugin                               "Cak larwak.">
 <!ENTITY checkForUpdates                                     "Rot pi ngec manyen…">
 <!ENTITY blockedPlugin.label                                 "Kigengo larwak man woko pi gwoko in.">
 <!ENTITY hidePluginBtn.label                                 "Kan larwak">
 <!ENTITY managePlugins                                       "Lo larwak…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
-
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Nwo cano potbuk">
 <!ENTITY reloadPlugin.post                                   " me temo doki.">
@@ -28,4 +30,3 @@
 <!ENTITY plugin.file                                         "Pwail">
 <!ENTITY plugin.mimeTypes                                    "Kit me MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Cak kit me Adobe Flash ma kigwokko">
-
