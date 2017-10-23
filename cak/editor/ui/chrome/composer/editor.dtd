@@ -33,6 +33,10 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "B'anikil">
 <!ENTITY formatMenu.accesskey "a">
+<!ENTITY grid.label "K'ojlib'äl k'ïy kajtz'ik">
+<!ENTITY grid.accesskey "j">
+<!ENTITY pageProperties.label "Rub'i' Ruxaq chuqa' taq Ichinil…">
+<!ENTITY pageProperties.accesskey "g">
 
 <!-- Tools menu items -->
 <!ENTITY validateCmd.label "Jikib'anem HTML">
@@ -42,6 +46,7 @@
 <!ENTITY NormalModeTab.label "Relik">
 <!ENTITY NormalMode.label "Rub'anikil Relik Nuk'uj">
 <!ENTITY NormalMode.accesskey "e">
+<!ENTITY NormalMode.tooltip "Tik'ut ri taq ruchi' kemon kajtz'ik chuqa' taq xukuxüb' k'o kib'i'">
 <!ENTITY AllTagsModeTab.label "HTML taq Etal">
 <!ENTITY AllTagsMode.label "HTML taq Etal">
 <!ENTITY AllTagsMode.accesskey "E">
