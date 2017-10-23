@@ -14,7 +14,7 @@
 <!ENTITY select.storage.label "Bare datalagring">
 
 <!ENTITY domain.search.placeholder "Søk i domener">
-<!ENTITY domain.search.key "S">
+<!ENTITY domain.search.key "f">
 
 <!ENTITY domain.tree.domain.label "Domene">
 
