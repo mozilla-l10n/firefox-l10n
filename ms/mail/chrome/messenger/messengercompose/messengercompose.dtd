@@ -154,7 +154,7 @@
 <!ENTITY plainTextFormatCmd.accesskey "a">
 <!ENTITY htmlFormatCmd.label "Teks Beraneka (HTML) Sahaja">
 <!ENTITY htmlFormatCmd.accesskey "a">
-<!ENTITY bothFormatCmd.label "Teks Jelas dan Beraneka (HTML)">
+<!ENTITY bothFormatCmd.label "Teks Biasa dan Beraneka (HTML)">
 <!ENTITY bothFormatCmd.accesskey "s">
 <!ENTITY priorityMenu.label "Prioriti">
 <!ENTITY priorityMenu.accesskey "i">
