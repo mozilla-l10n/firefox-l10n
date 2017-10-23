@@ -37,7 +37,7 @@
 <!ENTITY firstrun_readerview_title "Bài viết">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Giảm sự lộn xộn">
-<!ENTITY firstrun_readerview_subtext "Dùng Chế độ đọc để giúp bài viết đẹp hơn để đọc \u2014 kể cả khi ngoại tuyến.">
+<!ENTITY firstrun_readerview_subtext "Dùng chế độ đọc để giúp bài viết đẹp hơn để đọc \u2014 kể cả khi ngoại tuyến.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Bạn">
@@ -293,9 +293,11 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Đã sao chép URL">
 
+<!ENTITY pref_pwa "Ứng dụng web tiên tiến">
 <!ENTITY pref_pwa_summary "Cho phép ứng dụng web có thể được thêm vào màn hình chính">
 
 <!ENTITY tracking_protection_prompt_title "Bây giờ với trình chống theo dõi">
+<!ENTITY tracking_protection_prompt_text "Chủ động chặn các phần tử theo dõi để bạn không phải lo lắng.">
 <!ENTITY tracking_protection_prompt_tip_text "Đi đến cài đặt Riêng tư để tìm hiểu thêm">
 <!ENTITY tracking_protection_prompt_action_button "Hiểu rồi!">
 
@@ -497,6 +499,8 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Đã ghim trang vào danh sách những trang web hàng đầu">
+<!ENTITY unpinned_page_from_top_sites "Đã bỏ ghim trang khỏi danh sách những trang web hàng đầu">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -774,6 +778,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Xóa lịch sử">
 <!ENTITY restrictable_feature_clear_history_description "Cho phép các thành viên gia đình xóa thông tin về những trang mà họ đã truy cập.">
 <!ENTITY restrictable_feature_advanced_settings "Cài đặt nâng cao">
+<!ENTITY restrictable_feature_advanced_settings_description "Điều này bao gồm việc nhập các trang đánh dấu, phục hồi các thẻ và các bản cập nhật tự động. Tắt bỏ chế độ này để đơn giản hóa việc cài đặt cho bất kỳ thành viên nào trong gia đình.">
 <!ENTITY restrictable_feature_camera_microphone "Máy quay &amp; Micrô">
 <!ENTITY restrictable_feature_camera_microphone_description "Cho phép các thành viên trong gia đình tham gia vào các cuộc trò chuyện trực tuyến trên trang web.">
 <!ENTITY restrictable_feature_block_list "Danh sách chặn">
