@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
 <!-- File menu items -->
+<!ENTITY saveCmd.key "S">
 
-
-<!ENTITY saveCmd.key "G">
 <!-- Edit menu items -->
-
 <!ENTITY pasteNoFormatting.label "Itsasi formaturik gabe">
 <!ENTITY pasteNoFormatting.accesskey "g">
 <!ENTITY pasteNoFormatting.key "V">
@@ -22,14 +22,13 @@
 <!ENTITY enableInlineSpellChecker.accesskey "z">
 <!ENTITY checkSpellingCmd2.label "Egiaztatu ortografia">
 <!ENTITY checkSpellingCmd2.accesskey "E">
-<!ENTITY checkSpellingCmd2.key "K">
-<!-- Insert menu items -->
+<!ENTITY checkSpellingCmd2.key "p">
 
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Txertatu">
 <!ENTITY insertMenu.accesskey "x">
 <!ENTITY insertLinkCmd2.label "Lotura…">
 <!ENTITY insertLinkCmd2.accesskey "L">
-
 <!ENTITY insertAnchorCmd.label "Izendun aingura…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Irudia…">
@@ -46,14 +45,14 @@
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Irudi azpitik jauzia">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-<!-- Used just in context popup. -->
 
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Sortu lotura…">
 <!ENTITY createLinkCmd.accesskey "u">
 <!ENTITY editLinkCmd.label "Editatu lotura mezu-prestatzailearen leiho berrian">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- Font Face SubMenu -->
 
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Aukeratu letra-tipoa">
 <!ENTITY fontfaceMenu.label "Letra-tipoa">
 <!ENTITY fontfaceMenu.accesskey "t">
@@ -68,36 +67,22 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!-- Font Size SubMenu -->
 
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Aukeratu letra-tipoaren tamaina">
 <!ENTITY decreaseFontSize.label "Txikiagoa">
 <!ENTITY decreaseFontSize.accesskey "x">
 <!ENTITY decrementFontSize.key "&lt;">
-<!-- < is above this key on many keyboards -->
-<!ENTITY decrementFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Handiagoa">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY incrementFontSize.key "&gt;">
-<!-- > is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key2 "."> 
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Tamaina">
 <!ENTITY fontSizeMenu.accesskey "m">
 
-
-
-
-
-
-
-
-
-
-
-
 <!-- Font Style SubMenu -->
-
 <!ENTITY fontStyleMenu.label "Testu estiloa">
 <!ENTITY fontStyleMenu.accesskey "s">
 <!ENTITY styleBoldCmd.label "Lodia">
@@ -140,10 +125,9 @@
 <!ENTITY tableOrCellColor.accesskey "r">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
 <!ENTITY formatRemoveNamedAnchors.label "Ezabatu aingura izendunak">
 <!ENTITY formatRemoveNamedAnchors.accesskey "E">
-<!ENTITY formatRemoveNamedAnchors2.key "E">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragrafoa">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -165,8 +149,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "a">
 <!ENTITY paragraphPreformatCmd.label "Aurreformatua">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
-<!-- List menu items -->
 
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Zerrenda">
 <!ENTITY formatlistMenu.accesskey "Z">
 <!ENTITY noneCmd.label "Bat ere ez">
@@ -189,8 +173,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Propietate aurreratuak">
 <!ENTITY advancedPropertiesCmd.accesskey "r">
-<!-- Align menu items -->
 
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Lerrokatu">
 <!ENTITY alignMenu.accesskey "a">
 <!ENTITY alignLeft.label "Ezkerra">
@@ -205,8 +189,8 @@
 <!ENTITY alignJustify.label "Justifikatu">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Lerrokatu justifikatuta">
-<!-- Layer toolbar items -->
 
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Maila">
 <!ENTITY layerSendToBack.tooltip "Bidali atzera">
 <!ENTITY layerBringToFront.tooltip "Ekarri aurrera">
@@ -220,12 +204,12 @@
 
 <!ENTITY colorsAndBackground.label "Orriaren koloreak eta atzeko planoa…">
 <!ENTITY colorsAndBackground.accesskey "p">
-<!-- Table Menu -->
 
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Taula">
 <!ENTITY tableMenu.accesskey "u">
-<!-- Select Submenu -->
 
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Hautatu">
 <!ENTITY tableSelectMenu.accesskey "H">
 
@@ -235,8 +219,8 @@
 <!ENTITY tableInsertMenu2.accesskey "T">
 <!ENTITY tableDeleteMenu2.label "Ezabatu taula">
 <!ENTITY tableDeleteMenu2.accesskey "E">
-<!-- Insert SubMenu -->
 
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Txertatu">
 <!ENTITY tableInsertMenu.accesskey "x">
 <!ENTITY tableTable.label "Taula">
@@ -269,12 +253,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Ezabatu">
 <!ENTITY tableDeleteMenu.accesskey "E">
+
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Zatitu gelaxkak">
@@ -283,8 +267,8 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Taularen propietateak…">
 <!ENTITY tableProperties.accesskey "o">
-<!-- Toolbar-only items -->
 
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menu-barra">
 <!ENTITY formatToolbar.tooltip "Formatu tresna-barra">
 <!ENTITY cutToolbarCmd.tooltip "Ebaki">
@@ -310,6 +294,7 @@
 <!ENTITY BackgroundColorButton.tooltip "Aukeratu atzeko planoko kolorea">
 <!ENTITY throbber.tooltip "Joan &vendorShortName;(r)en hasiera-orrira">
 <!ENTITY HighlightColorButton.tooltip "Aukeratu testuaren nabarmentze-kolorea">
+
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Letra tamaina txikiagoa">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Letra tamaina handiagoa">
@@ -326,16 +311,16 @@
 <!ENTITY alignCenterButton.tooltip "Testua erdiratuta lerrokatu">
 <!ENTITY alignRightButton.tooltip "Testua eskuineko ertzean zehar lerrokatu">
 <!ENTITY alignJustifyButton.tooltip "Lerrokatu testua ezker eta eskuineko marjinetan zehar">
-<!-- Structure Toolbar Context Menu items -->
 
+<!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Hautatu">
 <!ENTITY structSelect.accesskey     "H">
 <!ENTITY structRemoveTag.label      "Ezabatu etiketa">
 <!ENTITY structRemoveTag.accesskey  "E">
 <!ENTITY structChangeTag.label      "Aldatu etiketa">
 <!ENTITY structChangeTag.accesskey  "A">
-<!-- TOC manipulation -->
 
+<!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Txertatu">
 <!ENTITY insertTOC.accesskey      "T">
 <!ENTITY updateTOC.label          "Eguneratu">
