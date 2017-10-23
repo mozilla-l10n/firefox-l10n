@@ -796,7 +796,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Schedas synchronisate">
 
 <!ENTITY syncedTabs.sidebar.label              "Schedas synchronisate">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Authentica te a Firefox de tu altere apparatos pro vider lor schedas hic.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Authentica te a Firefox sur tu altere apparatos pro vider lor schedas hic.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nulle schedas synchronisate… ancora!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Desira tu vider le schedas de tu altere apparatos hic?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Authentica te pro vider un lista de schedas de tu altere apparatos.">
@@ -840,8 +840,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Trahe tu elementos favorite e los depone in le barra de instrumentos o in le menu disbordante.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Desira tu plus instrumentos?">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Trahe tu elementos favorite e depone los in le barra de instrumentos o in le menu disbordante.">
+<!ENTITY customizeMode.menuAndToolbars.empty "Vole altere instrumentos?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Eliger inter milles de additivos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinitiones">
 <!ENTITY customizeMode.done "Facite">
@@ -934,11 +934,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Si tu procede:">
-<!ENTITY panicButton.view.deleteCookies           "Essera delite le <html:strong>cookies</html:strong> recente">
-<!ENTITY panicButton.view.deleteHistory           "Deler le <html:strong>chronologia</html:strong> recente">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Claude tote le <html:strong>schedas</html:strong> e <html:strong>fenestras</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Aperi un nove vacue fenestra">
+<!ENTITY panicButton.view.mainActionDesc          "Si tu continua:">
+<!ENTITY panicButton.view.deleteCookies           "Le <html:strong>cookies</html:strong> recente essera delite">
+<!ENTITY panicButton.view.deleteHistory           "Le <html:strong>chronologia</html:strong> recente essera delite">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Tote le <html:strong>schedas</html:strong> e <html:strong>fenestras</html:strong> essera claudite">
+<!ENTITY panicButton.view.openNewWindow           "Un nove fenestra vacue essera aperite">
 
 <!ENTITY panicButton.view.undoWarning             "Iste action es irreversibile.">
 <!ENTITY panicButton.view.forgetButton            "Oblidar!">
