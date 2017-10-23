@@ -9,7 +9,7 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Memuatkan...">
+<!ENTITY loading.label                        "Memuatkan…">
 <!ENTITY listEmpty.installed.label            "Anda tidak mempunyai add-ons jenis ini yang dipasang">
 <!ENTITY listEmpty.availableUpdates.label     "Tiada kemaskini ditemui">
 <!ENTITY listEmpty.recentUpdates.label        "Anda tidak ada mengemaskini sebarang add-on baru-baru ini">
@@ -215,7 +215,7 @@
 <!ENTITY addon.updateAvailable.label          "Kemaskini tersedia">
 <!ENTITY addon.checkingForUpdates.label       "Menyemak kemaskini…">
 <!ENTITY addon.releaseNotes.label             "Nota Pelepasan:">
-<!ENTITY addon.loadingReleaseNotes.label      "Loading">
+<!ENTITY addon.loadingReleaseNotes.label      "Memuatkan…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, ada ralat memuatkan nota pelepasan.">
 
 <!ENTITY addon.createdBy.label                "Oleh ">
