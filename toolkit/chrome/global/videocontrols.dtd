@@ -14,7 +14,7 @@
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Saiz">
 <!ENTITY stats.activity "Aktiviti">
-<!ENTITY stats.activityPaused "Dihentikan">
+<!ENTITY stats.activityPaused "Dijeda">
 <!ENTITY stats.activityPlaying "Bermain">
 <!ENTITY stats.activityEnded "Tamat">
 <!ENTITY stats.activitySeeking "(mencari)">

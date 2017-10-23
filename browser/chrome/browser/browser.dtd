@@ -21,7 +21,7 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Muat Semula Tab">
 <!ENTITY  reloadTab.accesskey                "M">
-<!ENTITY  reloadAllTabs.label                "Muat Semula Semua Tab">
+<!ENTITY  reloadAllTabs.label                "Muat semula Semua Tab">
 <!ENTITY  reloadAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
