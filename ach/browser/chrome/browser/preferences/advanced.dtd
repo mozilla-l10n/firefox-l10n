@@ -32,6 +32,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Nong ngec mapol">
 
 <!ENTITY dataCollection.label            "&brandShortName; coko ki tic ki data">
+<!ENTITY dataCollectionDesc.label        "Wa tute me miini jami ayera ki wacoko keken ngo ma wa mito me miyo ki yubo maber &brandShortName; pi dano weng. Jwijwi wa penyo pi twero ma pud pe kigamo ngec ma ngat moni.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Ngec me mung">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Yee &brandShortName; me cwalo ripot me poto bot Mozilla">
@@ -86,6 +87,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Gwok &brandShortName; ki ngec manyen pi tic maber loyo, cung matek ki ber bedo.">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Yee ki &brandShortName; me">
 <!ENTITY updateAuto3.label               "Ket ngec manyen pire kene (kicwako)">
