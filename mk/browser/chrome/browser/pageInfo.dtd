@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "Општо">
 <!ENTITY  generalTab.accesskey  "О">
+<!ENTITY  generalTitle          "Наслов:">
 <!ENTITY  generalURL            "Адреса:">
 <!ENTITY  generalType           "Тип:">
 <!ENTITY  generalMode           "Режим на рендерирање:">
@@ -22,6 +23,7 @@
 <!ENTITY  generalReferrer       "Референтно URL:">
 <!ENTITY  generalSource         "Извор за кеш:">
 <!ENTITY  generalModified       "Изменета:">
+<!ENTITY  generalEncoding2      "Текстуално кодирање:">
 <!ENTITY  generalMetaName       "Име">
 <!ENTITY  generalMetaContent    "Содржина">
 
@@ -71,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Сопственик:">
 <!ENTITY  securityView.identity.domain   "Мрежно место:">
 <!ENTITY  securityView.identity.verifier "Проверено од:">
+<!ENTITY  securityView.identity.validity "Истекува на:">
 
 <!ENTITY  securityView.privacy.header                   "Приватност и историја">
 <!ENTITY  securityView.privacy.history                  "Сум го посетил ли ова мрежно место пред денес?">
@@ -83,3 +86,4 @@
 
 <!ENTITY  securityView.technical.header                 "Технички детали">
 
+<!ENTITY  helpButton.label                              "Помош">

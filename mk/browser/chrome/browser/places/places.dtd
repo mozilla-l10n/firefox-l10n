@@ -48,6 +48,8 @@
 <!ENTITY cmd.open.accesskey              "О">
 <!ENTITY cmd.open_window.label           "Отвори во нов прозорец">
 <!ENTITY cmd.open_window.accesskey       "н">
+<!ENTITY cmd.open_private_window.label     "Отвори во нов приватен прозорец">
+<!ENTITY cmd.open_private_window.accesskey "П">
 <!ENTITY cmd.open_tab.label              "Отвори во ново јазиче">
 <!ENTITY cmd.open_tab.accesskey          "в">
 <!ENTITY cmd.open_all_in_tabs.label      "Отвори во јазичиња">
@@ -77,11 +79,14 @@
 <!ENTITY col.name.label          "Име">
 <!ENTITY col.tags.label          "Етикети">
 <!ENTITY col.url.label           "Локација">
+<!ENTITY col.mostrecentvisit.label "Последна посета">
 <!ENTITY col.visitcount.label    "Број на посети">
 <!ENTITY col.description.label   "Опис">
 <!ENTITY col.dateadded.label     "Додадено">
 <!ENTITY col.lastmodified.label  "Последна промена">
 
+<!ENTITY historySearch.placeholder  "Барај во историјата">
+<!ENTITY bookmarksSearch.placeholder  "Барај во обележувачите">
 
 <!ENTITY cmd.find.key  "f">
 
