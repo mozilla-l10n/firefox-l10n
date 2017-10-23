@@ -21,7 +21,7 @@
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Tilpass til sidebreidda">
-<!ENTITY shrinkToFit.accesskey "F">
+<!ENTITY shrinkToFit.accesskey "T">
 
 <!ENTITY optionsGroup.label  "Innstillingar">
 
