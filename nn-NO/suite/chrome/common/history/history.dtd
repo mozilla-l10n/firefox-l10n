@@ -9,7 +9,7 @@
 <!ENTITY searchBar.tooltip              "Søkjelinje">
 
 <!ENTITY search.placeholder             "Søk i historikk">
-<!ENTITY search.key                     "S">
+<!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Vis">
 
 <!ENTITY view.columns.label             "Vis kolonner">
