@@ -56,7 +56,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner…">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  undoCloseTab.label                 "Angre attlating av fane">
-<!ENTITY  undoCloseTab.accesskey             "A">
+<!ENTITY  undoCloseTab.accesskey             "r">
 <!ENTITY  closeTab.label                     "Lat att fana">
 <!ENTITY  closeTab.accesskey                 "n">
 
