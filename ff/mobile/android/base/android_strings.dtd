@@ -71,7 +71,7 @@
 <!ENTITY bookmark_removed "Maantorol omtaama">
 <!ENTITY bookmark_updated "Maantorol hesɗitinaama">
 <!ENTITY bookmark_options "Cuɓe">
-<!ENTITY bookmark_save "Danndu">
+<!ENTITY bookmark_save "Daɗndu">
 <!ENTITY screenshot_added_to_bookmarks "Nokitol ɓeydaama to maantore">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -83,6 +83,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "teme &formatD;">
 <!ENTITY bookmark_folder_one_item "temre 1">
+<!ENTITY bookmark_folder_updated "Runngere hesɗitinaama">
 <!ENTITY bookmark_parent_folder "Runngere Yummaare">
 <!ENTITY bookmark_add_folder "Ɓeydu runngere hesere">
 
@@ -213,6 +214,7 @@
 <!ENTITY pref_category_home_homepage "Jaɓɓorgo">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Huutoro kadi ngam tabbe kese">
 <!ENTITY home_homepage_title "Toɗɗo Jaɓɓorgo">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -248,9 +250,9 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "Sarworde keɓe">
+<!ENTITY pref_category_data_saver "Daɗndoowo keɓe">
 <!ENTITY pref_category_media "Majaare">
-<!ENTITY pref_category_developer_tools "Kuutorɗe topayɓe">
+<!ENTITY pref_category_developer_tools "Kuutorɗe topotooɗo">
 
 <!ENTITY pref_tap_to_load_images_title2 "Hollu nate">
 <!ENTITY pref_tap_to_load_images_enabled "Sahaa kala">
@@ -277,8 +279,10 @@
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Uddit nder &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
+<!ENTITY pref_pwa_summary "Yamir jaaɓnirɗe geese ɓeydee e jaɓɓorgo maa">
 
 <!ENTITY tracking_protection_prompt_title "Jooni ena waɗi Ndeenka Dewindol">
 <!ENTITY tracking_protection_prompt_text "Falo geɗe dewindol e caasal kisa nattaa haŋkadi faayde.">
@@ -347,6 +351,7 @@
 <!ENTITY pref_import_android_summary "Jiggo maantore e aslol iwde e wanngorde cinndel ngel">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Uddit tabbe">
 <!ENTITY pref_private_data_history2 "Aslol peeragol">
 <!ENTITY pref_private_data_searchHistory "Aslol njiilaw">
 <!ENTITY pref_private_data_formdata2 "Aslol formeere">
@@ -367,6 +372,7 @@
 <!ENTITY pref_dialog_set_default "Waɗtu goowaaɗo">
 <!ENTITY pref_dialog_default "Goowaaɗo">
 <!ENTITY pref_dialog_remove "Momtu">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Maante ɗerewol kese">
 
 <!ENTITY pref_search_last_toast "A waawaa momtude walla daaƴde yiilorde maa sakkitiinde.">
 
@@ -411,7 +417,7 @@
 <!ENTITY pref_update_autodownload_always "Sahaa kala">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
-<!ENTITY help_menu "Balal">
+<!ENTITY help_menu "Ballal">
 
 <!ENTITY quit "Yaltu">
 
