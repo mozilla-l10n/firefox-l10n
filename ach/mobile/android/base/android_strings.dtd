@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Wajoli">
 <!ENTITY firstrun_urlbar_message2 "Pwoc piyero &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Layeny me kunyoni me cing ki bot Mozilla, dul ma pe me nongo magoba ma odyere pi kakube me nono dok tye ayaba.">
 <!ENTITY firstrun_panel_title_privacy "Mung">
 <!ENTITY firstrun_privacy_message "Yeny calo ngato pe ka neno">
 <!ENTITY firstrun_privacy_subtext "Yeny i mung ki Gwokke ikom lubo kor gengo lulub kor ma nongo itye ka yeny ki pe bi poo ikom gin mukato mamegi ka ityeko yeny.">
@@ -259,6 +260,7 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Lagwok data">
+<!ENTITY pref_category_media "Lapok lok angeya">
 <!ENTITY pref_category_developer_tools "Gitic pa ludiro">
 
 <!ENTITY pref_tap_to_load_images_title2 "Nyut cal">
