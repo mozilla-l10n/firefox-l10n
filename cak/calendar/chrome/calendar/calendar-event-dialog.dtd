@@ -1,0 +1,108 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!ENTITY newevent.from.label                "Richin" >
+<!ENTITY newevent.to.label                  "Chi re" >
+
+<!ENTITY newevent.status.label                    "B'anikil" >
+<!ENTITY newevent.eventStatus.none.label          "Man ya'on ta retal" >
+<!ENTITY newevent.todoStatus.none.label           "Man ya'on ta retal" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Q'aton" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Q'aton" >
+<!ENTITY newevent.status.confirmed.label          "Xjikib'äx" >
+
+<!-- The following entity is for New Task dialog only -->
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+
+<!-- Keyboard Shortcuts -->
+
+<!-- Menubar -->
+<!ENTITY  event.menu.item.new.label                       "K'ak'a'">
+<!ENTITY  event.menu.item.new.event.label                 "Molojri'ïl">
+<!ENTITY  event.menu.item.new.message.label               "Tzijol">
+<!ENTITY  event.menu.item.close.label                     "Titz'apïx">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
+<!ENTITY  event.menu.item.save.label                      "Tiyak">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
+
+<!ENTITY  event.menu.item.delete.label                    "Tiyuj…">
+<!ENTITY  event.menu.item.page.setup.label                "Runuk'ulem ruxaq">
+<!ENTITY  event.menu.item.print.label                     "Titz'ajb'äx">
+
+<!ENTITY  event.menu.edit.label                           "Tinuk'">
+<!ENTITY  event.menu.edit.undo.label                      "Titzolïx">
+<!ENTITY  event.menu.edit.redo.label                      "Tikamulüx">
+<!ENTITY  event.menu.edit.cut.label                       "Tiqupïx">
+<!ENTITY  event.menu.edit.copy.label                      "Tiwachib'ëx">
+<!ENTITY  event.menu.edit.paste.label                     "Titz'ajb'äx">
+<!ENTITY  event.menu.edit.select.all.label                "Ticha' ronojel">
+
+<!ENTITY  event.menu.view.label                           "Titz'et">
+<!ENTITY  event.menu.view.toolbars.label                  "Taq cholsamajib'äl">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Tichinäx…">
+
+<!ENTITY  event.menu.options.label                            "Taq cha'oj">
+<!ENTITY  event.menu.options.priority2.label                  "Ya'on ruq'ij">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Man ya'on ta retal">
+<!ENTITY  event.menu.options.priority.normal.label            "Relik">
+<!ENTITY  event.menu.options.privacy.label                    "Ichinanem">
+<!ENTITY  event.menu.options.show.time.free.label             "Sipan">
+
+
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Tiyak">
+
+
+<!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+
+<!-- Main page -->
+
+
+
+
+<!-- Recurrence dialog -->
+
+
+
+
+
+
+
+<!-- LOCALIZATON NOTE
+     Some languages use a preposition when describing dates:
+     Portuguese: 6 de Setembro
+     English: 6 [of] September
+     event.recurrence.pattern.yearly.of.label is "of" in
+     Edit recurrence window -> Recurrence pattern -> Repeat yearly
+-->
+
+
+
+<!-- Attendees dialog -->
+
+<!-- Timezone dialog -->
+
+<!-- Read-Only dialog -->
