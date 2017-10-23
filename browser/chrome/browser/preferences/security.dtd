@@ -26,6 +26,7 @@
 <!ENTITY  formsAndPasswords.label       "Formileeruuji &amp; pinle">
 
 <!ENTITY  rememberLogins2.label         "Siiftor baccooje e finndeeji lowe geese">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Paltooje…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 
