@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  button-back-mac.label        "Vade retro">
+<!ENTITY  button-back-mac.label        "Retornar">
 <!ENTITY  button-back-mac.accesskey    "B">
 <!ENTITY  button-next-mac.label        "Continuar">
 <!ENTITY  button-next-mac.accesskey    "C">
-<!ENTITY  button-finish-mac.label      "Terminate">
+<!ENTITY  button-finish-mac.label      "Facite">
 <!ENTITY  button-cancel-mac.label      "Cancellar">
 
 <!ENTITY  button-back-unix.label       "Retro">

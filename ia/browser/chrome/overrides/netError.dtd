@@ -7,7 +7,7 @@
 
 <!ENTITY loadError.label "Problema cargante le pagina">
 <!ENTITY retry.label "Retentar">
-<!ENTITY returnToPreviousPage.label "Vade retro">
+<!ENTITY returnToPreviousPage.label "Retornar">
 <!ENTITY advanced.label "Avantiate">
 
 <!-- Specific error messages -->
