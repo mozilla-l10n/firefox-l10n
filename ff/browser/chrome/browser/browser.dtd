@@ -25,6 +25,8 @@
 <!ENTITY  reloadAllTabs.accesskey            "F">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Tummbito Tabbere">
+<!ENTITY  duplicateTab.accesskey             "T">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -103,6 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Humpito Hello">
 <!ENTITY pageInfoCmd.accesskey "H">
@@ -237,6 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Maantore">
+<!ENTITY bookmarksMenuButton2.label         "Dosol Maantore">
 <!ENTITY bookmarksMenuButton.other.label    "Maantore Goɗɗe">
 <!ENTITY bookmarksMenuButton.mobile.label   "Maantore Cinndel">
 <!ENTITY viewBookmarksSidebar2.label        "Hollu Palal Maantore">
