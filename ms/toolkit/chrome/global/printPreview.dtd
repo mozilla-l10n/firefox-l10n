@@ -29,7 +29,7 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Adat...">
+<!ENTITY Custom.label         "Penyesuaian…">
 <!ENTITY ShrinkToFit.label    "Mengecil Untuk Muat">
 <!ENTITY customPrompt.title   "Custom Scale…">
 <!ENTITY simplifyPage.label   "Permudahkan Halaman">
@@ -38,6 +38,6 @@
 <!ENTITY simplifyPage.disabled.tooltip "Laman ini tidak dapat dipermudahkan secara automatik">
 
 <!ENTITY homearrow.tooltip    "Laman Pertama">
-<!ENTITY endarrow.tooltip     "Laman Terakhir">
+<!ENTITY endarrow.tooltip     "Halaman terakhir">
 <!ENTITY nextarrow.tooltip    "Halaman berikut">
 <!ENTITY previousarrow.tooltip "Halaman dahulu">

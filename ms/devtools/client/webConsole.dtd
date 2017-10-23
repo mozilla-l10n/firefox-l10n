@@ -42,7 +42,7 @@
 <!ENTITY btnPageLogging.tooltip "Log mesej dihantar untuk window.console object">
 <!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "Ralat">
-<!ENTITY btnConsoleInfo         "Maklumat">
+<!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Amaran">
 <!ENTITY btnConsoleLog          "Log">
 <!ENTITY btnConsoleXhr          "XHR">
@@ -55,7 +55,7 @@
 <!ENTITY btnServerLogging.tooltip     "Log mesej yang diterima dari pelayan web">
 <!ENTITY btnServerLogging.accesskey   "P">
 <!ENTITY btnServerErrors              "Ralat">
-<!ENTITY btnServerInfo                "Maklumat">
+<!ENTITY btnServerInfo                "Info">
 <!ENTITY btnServerWarnings            "Amaran">
 <!ENTITY btnServerLog                 "Log">
 
