@@ -134,9 +134,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Connexion secur fallite">
-<!ENTITY nssFailure2.longDesc2 "<ul>
-  <li>Le pagina ad qual tu proba avider non pote monstrar se perque le authenticitate del datos recipite non pote ser verificate.</li>
-  <li>Pone te en contacto con le proprietarios del sitio pro les informar circa iste problema.</li>
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Le pagina que tu tenta vider non pote esser monstrate perque le authenticitate del datos recipite non poteva esser verificate.</li>
+  <li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li>
 </ul>
 ">
 
