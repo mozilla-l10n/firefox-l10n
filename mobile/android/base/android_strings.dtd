@@ -802,6 +802,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Lowe Dowrowe">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Waggini ɗum ko &brandPocket;">
 <!ENTITY activity_stream_highlights "Jubbanɗe">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
@@ -818,6 +819,9 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Ittu">
 <!ENTITY activity_stream_delete_history "M&amp;omtu e Aslol">
 
+<!ENTITY private_tab_panel_title "Peeragol Keertingol + Ndeenka Dewindol">
+<!ENTITY private_tab_panel_description "&brandShortName; ina daaƴa huunde e kelle baawɗe rewindaande peeragol maa.">
 
