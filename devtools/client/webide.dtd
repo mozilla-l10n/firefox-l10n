@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Skats">
 <!ENTITY viewMenu_accesskey "S">
-<!ENTITY viewMenu_toggleEditor_label "Pārslēgt redaktorus">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Pietuvināt">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Attālināt">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Cilnes">
 <!ENTITY runtimePanel_usb "USB ierīces">
 <!ENTITY runtimePanel_wifi "Wi-Fi ierīces">
-<!ENTITY runtimePanel_simulator "Simulators">
 <!ENTITY runtimePanel_other "Citas">
-<!ENTITY runtimePanel_installsimulator "Instalēt simulatoru">
 <!ENTITY runtimePanel_noadbhelper "Instalēt ADB palīgu">
 <!ENTITY runtimePanel_nousbdevice "Neredzat savas ierīces?">
 <!ENTITY runtimePanel_refreshDevices_label "Atsvaidzināt ierīces">
@@ -94,7 +88,6 @@
 <!ENTITY details_location "Atrašanās vieta">
 <!ENTITY details_manifestURL "Lietotnes ID">
 <!ENTITY details_removeProject_button "Aizvākt projektu">
-<!ENTITY details_showPrepackageLog_button "Rādīt pakošanas ziņojumus">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Jauna lietotne">
@@ -113,7 +106,7 @@
 
 <!-- Prefs -->
 <!ENTITY prefs_title "Iestatījumi">
-<!ENTITY prefs_editor_title "Redaltprs">
+<!ENTITY prefs_editor_title "Redaktors">
 <!ENTITY prefs_general_title "Vispārējie">
 <!ENTITY prefs_restore "Atjaunot sākotnējos">
 <!ENTITY prefs_manage_components "Pārvaldīt papildu komponentus">
@@ -123,21 +116,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Atjaunot iepriekšējo projektu palaižot WebIDE">
 <!ENTITY prefs_options_templatesurl "Šablona adrese">
 <!ENTITY prefs_options_templatesurl_tooltip "Pieejamo šablonu saraksts">
-<!ENTITY prefs_options_showeditor "Rādīt redaktoru">
-<!ENTITY prefs_options_showeditor_tooltip "Rādīt iekšējo redaktoru">
-<!ENTITY prefs_options_tabsize "Tabulācijas izmērs">
-<!ENTITY prefs_options_expandtab "Viltus tabulācija">
-<!ENTITY prefs_options_expandtab_tooltip "Izmantot atstarpes tabulācijas simbola (tab) vietā">
-<!ENTITY prefs_options_detectindentation "Automātiskās atkāpes">
-<!ENTITY prefs_options_detectindentation_tooltip "Minēt atkāpes atbilstoši koda saturam">
-<!ENTITY prefs_options_autocomplete "Automātiskā pabeigšana">
-<!ENTITY prefs_options_autocomplete_tooltip "Aktivēt koda automātisko pabeigšanu">
-<!ENTITY prefs_options_autoclosebrackets "Automātiski aizvērt iekavas">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Automātiski ievietot aizverošās iekavas">
-<!ENTITY prefs_options_keybindings "Piesaistītie taustiņi">
-<!ENTITY prefs_options_keybindings_default "Noklusētie">
-<!ENTITY prefs_options_autosavefiles "Automātiskās saglabāšanas faili">
-<!ENTITY prefs_options_autosavefiles_tooltip "Automātiski saglabā rediģējamos failus pirms projekta palaišanas">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Izpldlaika informācija">
@@ -194,19 +172,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Pakošanas komandu žurnāls">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Simulatora iestatījumi">
-<!ENTITY simulator_remove "Dzēst simulatoru">
-<!ENTITY simulator_reset "Atjaunot sākotnējos">
-<!ENTITY simulator_name "Nosaukums">
-<!ENTITY simulator_software "Programmatūra">
-<!ENTITY simulator_version "Versija">
-<!ENTITY simulator_profile "Profils">
-<!ENTITY simulator_hardware "Aparatūra">
-<!ENTITY simulator_device "Ierīce">
-<!ENTITY simulator_screenSize "Ekrāns">
-<!ENTITY simulator_pixelRatio "Pikseļu attiecība">
-<!ENTITY simulator_tv_data "TV simulācija">
-<!ENTITY simulator_tv_data_open "Konfigurācijas dati">
-<!ENTITY simulator_tv_data_open_button "Atvērt konfigurācijas mapi…">
