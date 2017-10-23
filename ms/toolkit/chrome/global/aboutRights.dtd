@@ -4,7 +4,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title "Perihal Hak Anda">
-<!ENTITY rights.intro "&brandFullName; adalah percuma dan perisian sumber terbuka, dibina oleh sebuah komuniti yang terdiri daripada ribuan orang dari seluruh dunia. Ada beberapa perkara yang anda perlu tahu:">
+<!ENTITY rights.intro "&brandFullName; adalah perisian percuma dan sumber terbuka, dibina oleh komuniti yang terdiri daripada ribuan penyumbang dari seluruh dunia. Ada beberapa perkara yang anda perlu tahu:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is

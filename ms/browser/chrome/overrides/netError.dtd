@@ -95,7 +95,7 @@
 <!ENTITY unknownProtocolFound.title "Alamat tidak difahami">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Anda mungkin perlu memasang perisian lain untuk membuka alamat ini.</li>
+  <li>Anda mungkin perlu pasang perisian lain untuk membuka alamat ini.</li>
 </ul>
 ">
 
@@ -121,7 +121,7 @@
 <!ENTITY redirectLoop.title "Halaman tidak diarahkan semula dengan betul">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Masalah ini kadang kala berpunca daripada menyahdayakan atau tidak mahu menerima
+  <li>Masalah ini kadangkala disebabkan oleh menyahaktifkan atau tidak mahu menerima
     kuki.</li>
 </ul>
 ">
@@ -138,7 +138,7 @@
 <!ENTITY nssFailure2.title "Gagal Disambung Dengan Selamat">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Halaman yang mahu anda lihat tidak dapat dipapar kerana autentisiti data yang diterima tidak dapat disahkan.</li>
+  <li>Halaman yang anda mahu lihat tidak dapat dipaparkan kerana autentisiti data yang diterima tidak dapat disahkan.</li>
   <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
 </ul>
 ">
