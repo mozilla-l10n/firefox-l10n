@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Hohowɓe">
 <!ENTITY certmgr.tab.orphan2                  "Woɗɓe">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "Aɗa jogii seedamfaaji ɗee pelle kebtinooji ma">
+<!ENTITY certmgr.others2                      "Aɗa jogii seedamfaaji e fiilde kebtinooji ɓee yimɓe">
+<!ENTITY certmgr.websites3                    "Aɗa jogii seedamfaaji e fiilde kebtinooji ɗee carworɗe">
+<!ENTITY certmgr.cas2                         "Aɗa jogii seedamfaaji e fiilde kebtinooji ɗee pelle kalfinaaɗe seedamfaaji">
+<!ENTITY certmgr.orphans2                     "Aɗa jogii seedamfaaji e fiilde ɗi njahdaani e hay gootel e pelle goɗɗe ɗe">
 
 <!ENTITY certmgr.detail.general_tab.title     "Kuuɓal">
 <!ENTITY certmgr.detail.general_tab.accesskey "K">
