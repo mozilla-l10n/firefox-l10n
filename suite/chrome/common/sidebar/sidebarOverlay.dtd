@@ -25,7 +25,7 @@
 <!ENTITY sidebar.sbDirectory.label   "Direktori Bar sisi…">
 
 <!ENTITY sidebar.pagenotfound.label  "Tab ini tidak tersedia buat masa ini.">
-<!ENTITY sidebar.close.tooltip       "Tutup Bar sisi">
+<!ENTITY sidebar.close.tooltip       "Tutup Bar Sisi">
 <!ENTITY sidebar.open.tooltip        "Buka Bar sisi">
 
 <!ENTITY sidebar.search.label         "Cari">
