@@ -13,7 +13,7 @@
 <!ENTITY newMenu.accesskey                              "N">
 <!ENTITY newContact.label                               "Contact…">
 <!ENTITY newContact.accesskey                           "C">
-<!ENTITY newContact.key                                 "D">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Glista d'e-mail…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Cudeschet d'adressas…">
@@ -21,7 +21,7 @@
 <!ENTITY newLDAPDirectoryCmd.label                      "Ordinatur LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Messadi">
-<!ENTITY newMessageCmd.key                              "N">
+<!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Utilisar il cudeschet d'adressas da Mac OS X">
@@ -69,7 +69,7 @@
 <!ENTITY deleteItemsCmd.label                           "Stizzar elements">
 <!ENTITY selectAllCmd.label                             "Marcar tut">
 <!ENTITY selectAllCmd.key                               "A">
-<!ENTITY searchAddressesCmd.key                         "s">
+<!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "A">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Stgamiar num e prenum">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "g">

@@ -15,7 +15,7 @@
 <!ENTITY pasteAs.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.label "Encollar sco citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
-<!ENTITY pasteAsQuotationCmd.key "Z">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Tschertgar…">
 <!ENTITY findReplaceCmd.label "Tschertgar e remplazzar…">
 <!ENTITY enableInlineSpellChecker.label "Controllar l'ortografia durant tippar">
