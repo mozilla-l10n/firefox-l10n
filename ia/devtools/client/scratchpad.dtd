@@ -30,7 +30,7 @@
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Aperir un file…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.accesskey        "A">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Aperir recentes">
@@ -60,7 +60,7 @@
 <!ENTITY wordWrap.accesskey            "W">
 
 <!ENTITY highlightTrailingSpace.label     "Evidentiar le spatios al fin del lineas">
-<!ENTITY highlightTrailingSpace.accesskey "H">
+<!ENTITY highlightTrailingSpace.accesskey "E">
 
 <!ENTITY largerFont.label             "Augmentar le typo">
 <!ENTITY largerFont.accesskey         "a">
@@ -87,7 +87,7 @@
 <!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Monstrar">
-<!ENTITY display.accesskey            "D">
+<!ENTITY display.accesskey            "M">
 <!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Imprimer bellemente">
@@ -114,7 +114,7 @@
   -  was called "Chrome".
   -->
 <!ENTITY browserContext.label         "Navigator">
-<!ENTITY browserContext.accesskey     "B">
+<!ENTITY browserContext.accesskey     "N">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.

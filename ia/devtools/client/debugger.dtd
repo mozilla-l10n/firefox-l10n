@@ -95,7 +95,7 @@
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 <!ENTITY debuggerUI.autoBlackBox           "Mitter automaticamente le codices fonte minificate in cassa nigre">
-<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "C">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -124,7 +124,7 @@
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken           "Cercar">
 <!ENTITY debuggerUI.searchToken.key       "F">
-<!ENTITY debuggerUI.searchToken.accesskey "F">
+<!ENTITY debuggerUI.searchToken.accesskey "C">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->

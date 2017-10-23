@@ -45,7 +45,7 @@
 <!ENTITY cmd.deleteDomainData.accesskey "O">
 
 <!ENTITY cmd.open.label                  "Aperir">
-<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open.accesskey              "A">
 <!ENTITY cmd.open_window.label           "Aperir in un nove fenestra">
 <!ENTITY cmd.open_window.accesskey       "f">
 <!ENTITY cmd.open_private_window.label     "Aperir in un nove fenestra private">
