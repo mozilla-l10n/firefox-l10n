@@ -105,7 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
-<!ENTITY pageSourceCmd.SafariCommandKey "з">
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Звесткі пра старонку">
 <!ENTITY pageInfoCmd.accesskey "З">
@@ -255,7 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "а">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Гісторыя">
@@ -346,7 +346,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Аднавіць папярэдні сеанс">
 
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
-<!ENTITY showAllHistoryCmd.commandkey "г">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Уладкаваць">
 <!ENTITY appMenuCustomize.tooltip "Наладзіць меню і паліцы прылад">
@@ -530,7 +530,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "ы">
 <!ENTITY showOnlyThisFrameCmd.label     "Паказваць толькі гэтую рамку">
 <!ENTITY showOnlyThisFrameCmd.accesskey "г">
-<!ENTITY reloadCmd.commandkey         "к">
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Абнавіць рамку">
 <!ENTITY reloadFrameCmd.accesskey     "А">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Праглядзець зыходнік вылучэння">
