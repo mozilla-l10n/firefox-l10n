@@ -809,7 +809,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-<!ENTITY whatsnew_notification_title "&brandShortName; adalah yang terkini">
+<!ENTITY whatsnew_notification_title "&brandShortName; sudah terkini">
 <!ENTITY whatsnew_notification_summary "Ketahui berita terbaru versi ini">
 
 <!ENTITY promotion_add_to_homescreen "Tambah ke skrin halaman utama">
