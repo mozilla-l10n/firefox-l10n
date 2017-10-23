@@ -48,8 +48,8 @@
 <!ENTITY deleteMessage.label "Buang Mesej">
 <!ENTITY deleteFromPOP.label "Buang Daripada Pelayan POP">
 <!ENTITY fetchFromPOP.label "Ambil Daripada Pelayan POP">
-<!ENTITY ignoreThread.label "Thread Diabaikan">
-<!ENTITY ignoreSubthread.label "Abaikan Subthread">
+<!ENTITY ignoreThread.label "Abaikan Thread">
+<!ENTITY ignoreSubthread.label "Abaikan Sub-thread">
 <!ENTITY watchThread.label "Ikuti Thread">
 <!ENTITY stopExecution.label "Henti Pelaksanaan Tapisan">
 
