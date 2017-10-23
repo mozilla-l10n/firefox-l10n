@@ -25,7 +25,7 @@
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
 <!ENTITY  cameraSettingsButton.label                            "Innstillinger…">
-<!ENTITY  cameraSettingsButton.accesskey                        "K">
+<!ENTITY  cameraSettingsButton.accesskey                        "n">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
 <!ENTITY  microphoneSettingsButton.label                        "Innstillinger…">
