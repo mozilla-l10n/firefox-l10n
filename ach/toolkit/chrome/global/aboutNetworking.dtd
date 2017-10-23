@@ -36,3 +36,7 @@
 <!ENTITY aboutNetworking.startLogging          "Cak gwoko rikod">
 <!ENTITY aboutNetworking.stopLogging           "Juk gwoko rikod">
 <!ENTITY aboutNetworking.dnsDomain             "Ker">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Yabi">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Kwan">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Coo">
