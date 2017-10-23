@@ -194,5 +194,5 @@
 <!ENTITY options.sourceeditor.tabsize.label             "Dimension del tabulation">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Assignationes de claves">
-<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "A">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Predefinite">

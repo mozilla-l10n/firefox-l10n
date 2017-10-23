@@ -10,20 +10,20 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY openURL.label     "Aperir le URL in un nove scheda">
-<!ENTITY openURL.accesskey "T">
+<!ENTITY openURL.accesskey "s">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 <!ENTITY btnPageNet.label   "Rete">
 <!ENTITY btnPageNet.tooltip "Registrar le accesso al rete">
-<!ENTITY btnPageNet.accesskey "N">
+<!ENTITY btnPageNet.accesskey "R">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
-<!ENTITY btnPageNet.accesskeyMacOSX "t">
+<!ENTITY btnPageNet.accesskeyMacOSX "R">
 <!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip2 "Registrar le errores e le avisos de CSS">
 <!ENTITY btnPageCSS.accesskey "C">

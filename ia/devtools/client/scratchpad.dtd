@@ -57,7 +57,7 @@
 <!ENTITY lineNumbers.accesskey         "L">
 
 <!ENTITY wordWrap.label                "Rearrangiar le texto">
-<!ENTITY wordWrap.accesskey            "W">
+<!ENTITY wordWrap.accesskey            "R">
 
 <!ENTITY highlightTrailingSpace.label     "Evidentiar le spatios al fin del lineas">
 <!ENTITY highlightTrailingSpace.accesskey "E">

@@ -735,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Cercar in iste pagina…">
 <!ENTITY findOnCmd.accesskey "r">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Cercar novemente">
+<!ENTITY findAgainCmd.label  "Cercar le sequente">
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">

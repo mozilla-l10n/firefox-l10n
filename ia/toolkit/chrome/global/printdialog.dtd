@@ -25,9 +25,9 @@
 <!ENTITY rangeRadio.label  "Paginas">
 <!ENTITY rangeRadio.accesskey  "P">
 <!ENTITY frompageInput.label  "de">
-<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY frompageInput.accesskey  "d">
 <!ENTITY topageInput.label  "a">
-<!ENTITY topageInput.accesskey  "t">
+<!ENTITY topageInput.accesskey  "a">
 <!ENTITY selectionRadio.label "Selection">
 <!ENTITY selectionRadio.accesskey "S">
 
@@ -37,8 +37,8 @@
 
 <!ENTITY printframeGroup.label "Imprimer le quadros">
 <!ENTITY aslaidoutRadio.label "Como arrangiate in le tela">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.accesskey "C">
 <!ENTITY selectedframeRadio.label  "Le quadro selectionate">
-<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY selectedframeRadio.accesskey  "q">
 <!ENTITY eachframesepRadio.label  "Cata quadro separatemente">
 <!ENTITY eachframesepRadio.accesskey  "E">

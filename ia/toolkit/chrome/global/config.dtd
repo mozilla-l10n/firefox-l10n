@@ -41,7 +41,7 @@
 <!ENTITY reset.label "Remontar">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Nove">
-<!ENTITY new.accesskey "w">
+<!ENTITY new.accesskey "N">
 <!ENTITY string.label "Catena de characteres">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Integre">

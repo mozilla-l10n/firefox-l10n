@@ -27,11 +27,11 @@
 
 <!ENTITY searchTextBox.clear.label "Vacuar">
 
-<!ENTITY fillLoginMenu.label          "Plena le authentication">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "Inserer le contrasigno">
+<!ENTITY fillLoginMenu.label          "Insere le authentication">
+<!ENTITY fillLoginMenu.accesskey      "I">
+<!ENTITY fillPasswordMenu.label       "Insere le contrasigno">
 <!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "Inserer le nomine de usator">
+<!ENTITY fillUsernameMenu.label       "Insere le nomine de usator">
 <!ENTITY fillUsernameMenu.accesskey   "F">
 <!ENTITY noLoginSuggestions.label     "(Nulle suggestiones de authentication)">
 <!ENTITY viewSavedLogins.label        "Vider le authenticationes salvate">

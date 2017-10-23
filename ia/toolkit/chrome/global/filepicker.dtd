@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY lookInMenuList.label   "Reguardar in:">
-<!ENTITY lookInMenuList.accesskey   "L">
+<!ENTITY lookInMenuList.label   "Cercar in:">
+<!ENTITY lookInMenuList.accesskey   "C">
 <!ENTITY textInput.label        "Nomine del file:">
 <!ENTITY textInput.accesskey        "n">
 <!ENTITY filterMenuList.label   "Files del typo:">

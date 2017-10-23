@@ -80,7 +80,7 @@
 <!ENTITY cmd.showDetails.label                "Monstrar plus informationes">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Cercar actualisationes">
-<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.findUpdates.accesskey            "C">
 <!ENTITY cmd.preferencesWin.label             "Optiones">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferentias">
@@ -91,11 +91,11 @@
 <!ENTITY cmd.enableAddon.label                "Activar">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "Inactivar">
-<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.disableAddon.accesskey           "I">
 <!ENTITY cmd.enableTheme.label                "Applicar le thema">
-<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.enableTheme.accesskey            "A">
 <!ENTITY cmd.disableTheme.label               "Cessar le uso del thema">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.disableTheme.accesskey           "C">
 <!ENTITY cmd.askToActivate.label              "Demandar pro activar">
 <!ENTITY cmd.askToActivate.tooltip            "Demandar cata vice si usar iste additivo">
 <!ENTITY cmd.alwaysActivate.label             "Sempre activar">

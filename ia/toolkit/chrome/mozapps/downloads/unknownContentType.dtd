@@ -19,8 +19,8 @@
 <!ENTITY  whichIs.label              "le qual es:">
 
 <!ENTITY  chooseHandlerMac.label      "Eliger…">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandlerMac.accesskey  "E">
 <!ENTITY  chooseHandler.label         "Perquirer…">
-<!ENTITY  chooseHandler.accesskey     "B">
+<!ENTITY  chooseHandler.accesskey     "P">
 
 <!ENTITY  unknownPromptText.label     "Desira tu salvar iste file?">

@@ -16,4 +16,4 @@
 
 <!ENTITY gotoLineCmd.label         "Saltar al linea…">
 <!ENTITY gotoLineCmd.key           "J">
-<!ENTITY gotoLineCmd.accesskey     "J">
+<!ENTITY gotoLineCmd.accesskey     "S">

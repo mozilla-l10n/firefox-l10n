@@ -10,7 +10,7 @@
 <!ENTITY  button-cancel-mac.label      "Cancellar">
 
 <!ENTITY  button-back-unix.label       "Retro">
-<!ENTITY  button-back-unix.accesskey   "B">
+<!ENTITY  button-back-unix.accesskey   "R">
 <!ENTITY  button-next-unix.label       "Sequente">
 <!ENTITY  button-next-unix.accesskey   "N">
 <!ENTITY  button-finish-unix.label     "Finir">
