@@ -28,6 +28,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY enableHealthReport2.label       "Yee &brandShortName; me cwalo data me diro ki kube bot Mozilla">
 <!ENTITY healthReportLearnMore.label     "Nong ngec mapol">
 
 <!ENTITY dataCollection.label            "&brandShortName; coko ki tic ki data">

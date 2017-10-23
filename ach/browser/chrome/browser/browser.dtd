@@ -847,6 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Kan pire kene">
 
 <!ENTITY getUserMedia.selectCamera.label "Lamak cal me anywaka:">
 <!ENTITY getUserMedia.selectCamera.accesskey "L">
