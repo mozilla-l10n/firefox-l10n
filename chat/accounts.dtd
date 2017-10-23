@@ -29,7 +29,7 @@
 <!ENTITY account.edit.label           "Sifat">
 <!ENTITY account.edit.accesskey       "S">
 <!ENTITY account.moveup.label         "Alih ke atas">
-<!ENTITY account.movedown.label       "Alih ke bawah">
+<!ENTITY account.movedown.label       "Pindah bawah">
 <!ENTITY account.cancelReconnection.label         "Batal sambungan semula">
 <!ENTITY account.cancelReconnection.accesskey     "B">
 <!ENTITY account.copyDebugLog.label     "Salin Log Nyahpepijat">
