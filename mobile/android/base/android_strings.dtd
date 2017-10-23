@@ -277,7 +277,7 @@
 
 <!ENTITY pref_tracking_protection_enabled "Didayakan">
 <!ENTITY pref_tracking_protection_enabled_pb "Dayakan dalam Pelayaran Peribadi">
-<!ENTITY pref_tracking_protection_disabled "Nyahdayakan">
+<!ENTITY pref_tracking_protection_disabled "Dinyahdayakan">
 
 <!ENTITY pref_whats_new_notification "Berita terbaru di &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Ketahui perihal ciri baru selepas kemaskini">
