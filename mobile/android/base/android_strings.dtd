@@ -9,7 +9,8 @@
 <!ENTITY firstrun_data_title "Keɓe">
 <!ENTITY firstrun_data_message "Keɓe seeɗa, dannduɗe keewɗe">
 <!ENTITY firstrun_data_subtext2 "Falo nate ngal ustude ñaamdu keɓe e lowre kala njilloto-ɗaa.">
-<!ENTITY firstrun_sync_title "Sanngoɗin">
+<!ENTITY firstrun_sync_title "Yahdin">
+<!ENTITY firstrun_sync_message2 "Ƴettit ɗo ngoppunoɗaa ɗoo.">
 <!ENTITY firstrun_signin_message "Naat e ceŋol, fuɗɗo jooni">
 <!ENTITY firstrun_signin_button "Seŋo ngam syncude">
 <!ENTITY  onboard_start_button_browser "Fuɗɗo Peeragol">
