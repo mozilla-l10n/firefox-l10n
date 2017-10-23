@@ -112,9 +112,9 @@
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Semak tetapan proksi untuk memastikan tetapan adalah betul.</li>
-  <li>Pastikan komputer ada sambungan rangkaian yang berfungsi.</li>
+  <li>Pastikan komputer anda ada sambungan rangkaian yang berfungsi.</li>
   <li>Jika komputer atau rangkaian dilindungi firewall atau proksi, pastikan
-    bahawa &brandShortName; diberi izin mengakses Web.</li>
+   bahawa &brandShortName; diberi izin mengakses Web.</li>
 </ul>
 ">
 
@@ -129,8 +129,8 @@
 <!ENTITY unknownSocketType.title "Respons tidak dijangka daripada pelayan">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Pastikan bahawa dalam komputer, ada Pengurus Keselamatan Peribadi yang sudah
-    dipasang.</li>
+  <li>Semak untuk memastikan sistem sudah ada Pengurus Keselamatan Peribadi
+    yang dipasang.</li>
   <li>Ini mungkin kerana konfigurasi bukan-piawai dalam pelayar.</li>
 </ul>
 ">
