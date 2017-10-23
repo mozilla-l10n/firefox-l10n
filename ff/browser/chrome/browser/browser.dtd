@@ -244,9 +244,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "Maantore Goɗɗe">
 <!ENTITY bookmarksMenuButton.mobile.label   "Maantore Cinndel">
 <!ENTITY viewBookmarksSidebar2.label        "Hollu Palal Maantore">
+<!ENTITY hideBookmarksSidebar.label         "Suuɗ Palal Sawndo Maantore">
 <!ENTITY viewBookmarksToolbar.label         "Hollu Palal Maantore">
 <!ENTITY hideBookmarksToolbar.label         "Suuɗ Palal Maantore">
 <!ENTITY searchBookmarks.label              "Yiylo Maantore">
+<!ENTITY bookmarkingTools.label             "Kuutorɗe Maantorgol">
+<!ENTITY addBookmarksMenu.label             "Ɓeydu Dosol Maantore to Palal Kuutorɗe">
+<!ENTITY removeBookmarksMenu.label          "Ittu Dosol Maantore e Palal Kuutorɗe">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -331,6 +335,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "s">
 <!ENTITY viewCustomizeToolbar.label       "Heertin…">
 <!ENTITY viewCustomizeToolbar.accesskey     "H">
+<!ENTITY overflowCustomizeToolbar.label       "Heertin Palal Kuutorɗe…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "H">
 
 <!ENTITY historyMenu.label "Aslol">
 <!ENTITY historyMenu.accesskey "l">
@@ -350,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Momtu Aslol Sakketol…">
 <!ENTITY appMenuHistory.restoreSession.label "Artir Yillannde Ɓennunde">
 <!ENTITY appMenuHistory.viewSidebar.label "Hollu Aslol Palal Sawndo">
+<!ENTITY appMenuHistory.recentHistory.label "Aslol Cakkitiingol">
 <!ENTITY appMenuHelp.label "&amp;Ballal">
 <!ENTITY appMenuHelp.tooltip "Uddit ballitorgol">
 
@@ -379,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Toppito Kaɓirɗi…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Yiy Tabbe Cynkaaɗe">
 
+<!ENTITY appMenuRecentHighlights.label "Maantinooje Cakkitiiɗe">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ɓeydu e palal kuutorɗe">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Ɓ">
@@ -557,6 +565,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "J">
 <!ENTITY bookmarkThisFrameCmd.label      "Maantoro Ngol Kaarewol">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
+<!ENTITY pageAction.copyLink.label    "Natto Jokkol">
+<!ENTITY copyURLFeedback.label        "Nattaama!">
 <!ENTITY emailPageCmd.label           "Jokkol Iimeel…">
 <!ENTITY emailPageCmd.accesskey       "J">
 <!ENTITY savePageCmd.label            "Danndu Hello e Innde…">
@@ -795,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Yiylo tabbe ceŋondiraaɗe">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
