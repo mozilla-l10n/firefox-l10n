@@ -255,7 +255,7 @@
 <!ENTITY event.reminder.1day.before.label                 "1 hari sebelum" >
 <!ENTITY event.reminder.2days.before.label                "2 hari sebelum" >
 <!ENTITY event.reminder.1week.before.label                "1 minggu sebelum" >
-<!ENTITY event.reminder.custom.label                      "Sesuaikan…" >
+<!ENTITY event.reminder.custom.label                      "Penyesuaian…" >
 
 <!ENTITY event.reminder.multiple.label                    "Berbilang Peringatan…" >
 
@@ -272,7 +272,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "Selang seminggu">
 <!ENTITY event.repeat.monthly.label                     "Bulanan">
 <!ENTITY event.repeat.yearly.label                      "Tahunan">
-<!ENTITY event.repeat.custom.label                      "Sesuaikan…">
+<!ENTITY event.repeat.custom.label                      "Penyesuaian…">
 
 <!ENTITY event.recurrence.pattern.label                 "Corak perulangan">
 <!ENTITY event.recurrence.occurs.label                  "Ulang" >
