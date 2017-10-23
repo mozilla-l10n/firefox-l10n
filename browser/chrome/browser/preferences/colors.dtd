@@ -21,9 +21,9 @@
 <!ENTITY  useSystemColors.label           "Guna warna sistem">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "Pautan garis bawah">
-<!ENTITY  underlineLinks.accesskey        "U">
-<!ENTITY  links                           "Pautan Warna">
+<!ENTITY  underlineLinks.label            "Garis bawah pautan">
+<!ENTITY  underlineLinks.accesskey        "G">
+<!ENTITY  links                           "Warna Pautan">
 <!ENTITY  linkColor2.label                "Pautan Belum Dilawat">
 <!ENTITY  linkColor2.accesskey            "P">
 <!ENTITY  visitedLinkColor2.label         "Pautan Dilawati">

@@ -60,7 +60,7 @@
 <!ENTITY hfPage              "Halaman #">
 <!ENTITY hfPageAndTotal      "Halaman # daripada #">
 <!ENTITY hfBlank             "--kosong--">
-<!ENTITY hfCustom            "Adat...">
+<!ENTITY hfCustom            "Penyesuaian…">
 
-<!ENTITY customPrompt.title  "Adat...">
+<!ENTITY customPrompt.title  "Penyesuaian…">
 <!ENTITY customPrompt.prompt "Masukkan teks adat pengepala/pekaki">

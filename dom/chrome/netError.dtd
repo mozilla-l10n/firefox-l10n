@@ -87,7 +87,7 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Halaman yang anda cuba lihat tidak dapat dipapar kerana disyaki ada ralat dalam transmisi data.</p><ul><li>Sila hubungi pemilik laman web ini untuk memaklumkan  masalah ini.</li></ul>">
 
 <!ENTITY remoteXUL.title "Capaian jauh XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web dan memaklumkan masalah ini.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Sambungan internet anda tidak selamat">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

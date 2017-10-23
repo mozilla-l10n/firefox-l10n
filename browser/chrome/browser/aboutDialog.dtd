@@ -35,7 +35,7 @@
 <!ENTITY community.start2           "&brandShortName; direka oleh ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ", sebuah ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komuniti global">
 <!ENTITY community.end3             " bekerjasama supaya Web ini terbuka kepada umum dan boleh diakses oleh semua.">
@@ -54,7 +54,7 @@
 <!ENTITY bottomLinks.license        "Maklumat Perlesenan">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Hak Pengguna">
+<!ENTITY bottomLinks.rights         "Hak Pengguna Akhir">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Polisi Privasi">
