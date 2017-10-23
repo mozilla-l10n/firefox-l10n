@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Supplements">
 <!ENTITY addons.accesskey             "S">
-<!ENTITY addons.commandkey            "S">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Sviluppaders dal web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -955,7 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "T">
 <!ENTITY updateAvailable.cancelButton.label "Betg ussa">
 <!ENTITY updateAvailable.cancelButton.accesskey "B">
-<!ENTITY updateAvailable.panelUI.label "Telechargiar l'actualisaziun da &brandShortName;">
+<!ENTITY updateAvailable.panelUI.label "Telechargiar l'actualisaziun da &brandShorterName;">
 
 <!ENTITY updateManual.message "Telechargia ina copia frestga da &brandShorterName; e nus ta gidain da l'installar.">
 <!ENTITY updateManual.whatsnew.label "Vesair las novaziuns.">

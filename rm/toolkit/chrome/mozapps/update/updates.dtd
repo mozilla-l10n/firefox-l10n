@@ -28,7 +28,7 @@
 <!ENTITY  downloadPage.title              "Telechargiar &brandShortName;">
 <!ENTITY  downloading.intro               "L'actualisaziun vegn telechargiada…">
 <!ENTITY  connecting.label                "Colliar cun il server d'actualisaziuns…">
-<!ENTITY  verificationFailedText.label    "I n'è betg stà pussaivel da garantir l'integritad da l'actualisaziun incrementala ch'è vegnida telechargiada. Per quest motiv vegn ussa telechargià l'entir pachet d'actualisaziun.">
+<!ENTITY  verificationFailedText.label    "&brandShortName; na po betg verifitgar l'integritad da l'actualisaziun incrementala ch'è vegnida telechargiada. Per quest motiv vegn ussa telechargià l'entir pachet d'actualisaziun.">
 
 <!ENTITY  viewDetails.tooltip             "Vesair detagls da questa actualisaziun">
 

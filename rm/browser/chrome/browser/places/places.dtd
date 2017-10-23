@@ -88,7 +88,7 @@
 <!ENTITY historySearch.placeholder  "Tschertgar en la cronologia">
 <!ENTITY bookmarksSearch.placeholder  "Tschertgar en ils segnapaginas">
 
-<!ENTITY cmd.find.key  "s">
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Importar e far ina copia da segirezza">
 <!ENTITY maintenance.accesskey  "I">
