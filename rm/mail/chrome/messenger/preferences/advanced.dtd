@@ -34,7 +34,7 @@
 <!ENTITY configEditDesc.label          "Configuraziun avanzada">
 <!ENTITY configEdit.label              "Editur da configuraziuns…">
 <!ENTITY configEdit.accesskey          "C">
-<!ENTITY returnReceiptsInfo.label      "Reglar co tractar confermas da retschavida (MDN)">
+<!ENTITY returnReceiptsInfo.label      "Reglar co &brandShortName; duai tractar confermas da retschavida">
 <!ENTITY showReturnReceipts.label      "Confermas da retschavida…">
 <!ENTITY showReturnReceipts.accesskey  "R">
 

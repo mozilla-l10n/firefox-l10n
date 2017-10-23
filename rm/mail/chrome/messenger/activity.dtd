@@ -31,7 +31,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.clearList.label              "Svidar la glista">
 <!ENTITY cmd.clearList.tooltip            "Allontanescha elements cumplettads, interruts e betg reussids da la glista">
 <!ENTITY cmd.clearList.accesskey          "S">
-<!ENTITY cmd.find.commandkey              "s">
+<!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 
 <!ENTITY searchBox.label                  "Tschertgar...">

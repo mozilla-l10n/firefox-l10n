@@ -11,13 +11,12 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Connexiun betg reussida">
-<!ENTITY connectionFailure.longDesc "<p>La connexiun è reussida, ella è dentant interrutta durant la transmissiun da datas. Emprova per plaschair anc ina giada.</p><ul><li>Na pos ti era betg chargiar autras websites? Controllescha la configuraziun da la connexiun a la rait da tes computer.</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Il port è bloccà per motivs da segirezza">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Impussibel da chattar l'adressa">
-<!ENTITY dnsNotFound.longDesc "<p>Impussibel da chattar il server da host da l'adressa dumandada.</p><ul><li>Has ti fatg in sbagl da scriver cun endatar l'adressa? (per exempel <q><strong>ww</strong>.mozilla.org</q> empè da <q><strong>www</strong>.mozilla.org</q>)</li><li> Es ti segir che l'adressa exista? La registraziun pudess esser scrudada.</li><li>Na pos ti era betg chargiar autras websites? Controllescha tias configuraziuns dal server DNS e quellas da la connexiun a la rait.</li><li>Èn tes computer u tia rait protegids d'ina firewall u d'in proxy? Configuraziuns falladas pon disturbar l'access al web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Impussibel da chattar la datoteca">
 <!ENTITY fileNotFound.longDesc "<ul><li>Forsa è l'endataziun vegnida renumnada, stizzada u spustada? </li><li>Cuntegna l'adressa in sbagl ortografic, in sbagl da scripziun grond e pitschen u in auter sbagl da scriver? </li><li>Has ti ils dretgs d'access correspundents per chargiar l'endataziun dumandada?</li></ul>">
@@ -30,13 +29,15 @@
 ">
 
 <!ENTITY generic.title "Impussibel d'exequir la dumonda">
-<!ENTITY generic.longDesc "<p>Ulteriuras infurmaziuns davart quest problem u questa errur n'èn per il mument betg disponiblas.</p>">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; na po betg chargiar questa pagina per tscherts motivs.</p>
+">
 
 <!ENTITY malformedURI.title "Adressa nunvalida">
 <!ENTITY malformedURI.longDesc "<p>L'adressa inditgada ha in format nunenconuschent. Controllescha per plaschair, sche l'adressa cuntegna errurs ed emprova anc ina giada.</p>">
 
 <!ENTITY netInterrupt.title "La transmissiun da datas è interrutta">
-<!ENTITY netInterrupt.longDesc "<p>La connexiun è reussida, ella è dentant interrutta durant la transmissiun da datas. Emprova per plaschair anc ina giada.</p><ul><li>Na pos ti era betg chargiar autras websites? Controllescha la configuraziun da la connexiun a la rait da tes computer.</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document scrudà">
 <!ENTITY notCached.longDesc "<p>Il document dumandà n'è betg disponibel en il cache.</p><ul><li>Sco mesira da protecziun na rechargia &brandShortName; betg automaticamain documents sensibels.</li><li>Clicca sin 'Empruvar danovamain' per rechargiar il document da la website.</li></ul>">
@@ -54,10 +55,10 @@
 <!ENTITY unsafeContentType.longDesc "<p>La pagina dumandada na po betg vegnir mussada, perquai ch'ella utilisescha ina furma da cumpressiun nunvalida u betg cumpatibla.</p><ul><li>Contactescha per plaschair l'administratur da la website per infurmar el davart quest problem.</li></ul>">
 
 <!ENTITY netReset.title "La connexiun è interrutta">
-<!ENTITY netReset.longDesc "<p>La connexiun è reussida, ella è dentant interrutta durant la transmissiun da datas. Emprova per plaschair anc ina giada.</p><ul><li>Na pos ti era betg chargiar autras websites? Controllescha la configuraziun da la connexiun a la rait da tes computer.</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Il temp da la rait è surpassà">
-<!ENTITY netTimeout.longDesc "<p>La connexiun è reussida, ella è dentant interrutta durant la transmissiun da datas. Emprova per plaschair anc ina giada.</p><ul><li>Na pos ti era betg chargiar autras websites? Controllescha la configuraziun da la connexiun a la rait da tes computer.</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Protocol nunenconuschent">
 <!ENTITY unknownProtocolFound.longDesc "

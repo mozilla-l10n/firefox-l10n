@@ -22,8 +22,8 @@
 
 <!ENTITY window.title                      "Cookies">
 <!ENTITY windowClose.key                   "w">
-<!ENTITY focusSearch1.key                  "s">
-<!ENTITY focusSearch2.key                  "f">
+<!ENTITY focusSearch1.key                  "f">
+<!ENTITY focusSearch2.key                  "k">
 
 <!ENTITY filter.label                      "Tschertgar">
 <!ENTITY filter.accesskey                  "S">

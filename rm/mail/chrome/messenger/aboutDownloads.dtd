@@ -21,4 +21,4 @@
 <!ENTITY cmd.clearList.accesskey                   "g">
 <!ENTITY cmd.clearList.tooltip                     "Allontanar tut las endataziuns da la glista da las datotecas memorisadas, danor las telechargiadas en lavur.">
 <!ENTITY cmd.searchDownloads.label                 "Tschertgar…">
-<!ENTITY cmd.searchDownloads.key                   "T">
+<!ENTITY cmd.searchDownloads.key                   "F">
