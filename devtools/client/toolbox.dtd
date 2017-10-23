@@ -12,6 +12,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+<!ENTITY browserToolboxErrorMessage          "બ્રાઉઝર ટૂલબોક્સ ખોલવામાં ભૂલ:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -31,6 +32,7 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 <!ENTITY options.collapseAttrs.label "DOM લક્ષણોને કાઢી નાખો">
+<!ENTITY options.collapseAttrs.tooltip "નિરીક્ષકમાં લાંબી લાક્ષણિકતાઓ કાઢી નાખો">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -72,11 +74,13 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "બ્રાઉઝર chrome અને એડ-ઓન ડિબગિંગ ટૂલબોક્સ સક્ષમ કરો">
+<!ENTITY options.enableChrome.tooltip3  "આ વિકલ્પને ચાલુ કરવાથી તમને બ્રાઉઝર સંદર્ભમાં (ટૂલ્સ> વેબ ડેવલપર> બ્રાઉઝર ટૂલબાર દ્વારા) વિવિધ ડેવલપર સાધનોનો ઉપયોગ કરવાની અને ઍડ-ઑન્સ મેનેજરમાંથી ડિબગ ઍડ-ઑન્સની મંજૂરી મળશે">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "દૂરસ્થ ડિબગીંગ સક્રિય કરો">
+<!ENTITY options.enableRemote.tooltip2  "આ વિકલ્પને ચાલુ કરવાથી વિકાસકર્તા સાધનોને Firefox OS જેવી દૂરસ્થ દાખલાની ડિબગ કરવા દેશે">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
