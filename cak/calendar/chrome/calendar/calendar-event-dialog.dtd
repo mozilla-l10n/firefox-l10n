@@ -68,7 +68,13 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "Tiyak">
+<!ENTITY  event.toolbar.saveandclose.label                "Tiyak chuqa' Titz'apïx">
+<!ENTITY  event.toolbar.delete.label                      "Tiyuj">
+<!ENTITY  event.toolbar.privacy.label                     "Ichinanem">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Tiyak">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Tiyak chuqa' Titz'apïx">
+<!ENTITY  event.toolbar.delete.tooltip                    "Tiyuj">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
@@ -79,16 +85,40 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!-- Main page -->
+<!ENTITY event.title.textbox.label                        "B'i'aj:" >
+<!ENTITY event.location.label                             "K'ojlib'äl:" >
+<!ENTITY event.categories.label                           "Ruwäch:">
+<!ENTITY event.from.label                                 "Tikirib'äl:" >
+<!ENTITY task.from.label                                  "Tikirib'äl:" >
+<!ENTITY event.to.label                                   "K'isib'äl:" >
+<!ENTITY task.status.label                                "B'anikil:" >
+<!ENTITY event.description.label                          "Tzijoxkil:" >
+<!ENTITY event.attachments.label                          "Taq taqoj:" >
+<!ENTITY event.attachments.url.label                      "Ajk'amaya'l Ruxaq…">
+<!ENTITY event.attachments.popup.remove.label             "Tiyuj" >
+<!ENTITY event.attachments.popup.open.label               "Tijaq" >
+<!ENTITY event.attachments.popup.removeAll.label          "Keyuj Konojel" >
+<!ENTITY event.priority2.label                            "Ya'on ruq'ij:">
+
+<!ENTITY event.reminder.custom.label                      "Ichinan…" >
 
 
-
+<!ENTITY event.statusbarpanel.privacy.label               "Ichinanem:">
 
 <!-- Recurrence dialog -->
 
+<!ENTITY event.repeat.custom.label                      "Ichinan…">
 
 
 
 
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Toq'ij" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Luq'ij" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Maq'ij" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Miq'ij" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Juq'ij" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Wiq'ij" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Saq'ij" >
 
 
 <!-- LOCALIZATON NOTE
