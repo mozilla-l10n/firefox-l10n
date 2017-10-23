@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Fuɗɗito">
 <!ENTITY returnToPreviousPage.label "Rutto">
 <!ENTITY advanced.label "woɗɗoyi">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Horiima seŋaade">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,9 @@
 <!ENTITY deniedPortAccess.title "Ndee ñiiɓirde ko suraande">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Sarworde yiytaaka">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ƴeewto so ñiiɓirde ndee alaa pergitte tappugol wano <strong>ww</strong>.yeru.com foti wonde ko <strong>www</strong>.yeru.com</li> <li>So a horiima loowde kelle fof, ƴeewto ceŋorde laylaytol ordinateer  maa</li> <li>So tawii laylaytol ordinateer maa ko suraande caggal ɓalal-jaynge walla proxy, waɗ feere nde &brandShortName; yamirtee jolde e Geese.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Sarworde Nde Yiytaaka">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Min ndañii saɗeende e yiytude hello ngo.">
 
 <!ENTITY fileNotFound.title "Fiilde yiytaaka">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ƴeewto alkule puɗɗorɗe ɗee e innde fiilde ndee walla juume tappugol goɗɗe.</li> <li>Ƴeewto ngam so fiilde ndee dirtinaaka, innitaaka walla momtaaka.</li> </ul>">
@@ -35,8 +36,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Uddit nello seŋorgo e laylaytol ngol">
 
-<!ENTITY malformedURI.title "Ñiiɓirde ndee moƴƴaani">
-<!ENTITY malformedURI.longDesc "<ul> <li>Ñiiɓirɗe geese keewi winndireede ko <strong>http://www.yeru.com/</strong></li> <li>Ƴeewto no feewi so a huutoriima laase yeeso (k.n. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "URL o moƴƴaani">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Ndee ñiiɓirde nanndaani e moƴƴere.">
 
 <!ENTITY netInterrupt.title "Ceŋagol ngol taƴii">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +106,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Humpito ceeɓtoto: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; waawaa seŋaade e <span id='wrongSystemTime_URL'/> sabu waktu peeñɗo e yuɓɓo maa oo moƴƴaani tee ɗuum na haɗa ceŋagol ngol wonde kisngol</p> <p>Ordinateer maa reeglaa ko e <span id='wrongSystemTime_systemDate'/>, kono fotnoo wonde ko <span id='wrongSystemTime_actualDate'/>. Ngam safrude ndee saɗre, waylu ñalngu e waktu nguu haa njahda e ñalngu e waktu gonaaɗo oo.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; waawaa seŋaade e <span id='wrongSystemTimeWithoutReference_URL'/> sabu waktu peeñɗo e yuɓɓo maa oo moƴƴaani tee ɗuum na haɗa ceŋol ngol wonde kisngol</p> <p>Ordinateer maa reeglaa ko e <span id='wrongSystemTimeWithoutReference_systemDate'/>. Ngam safrude ndee saɗre, waylu ñalngu e waktu nguu haa njahda e ñalngu e waktu gonaaɗo oo.</p>">
 
