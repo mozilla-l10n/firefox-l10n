@@ -6,15 +6,13 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Firo e ɗee-ɗoo ɗemɗe waawaataa heɓaade:">
 <!ENTITY treehead.languageName.label      "Ɗemɗe">
 <!ENTITY removeLanguage.label             "Momtu Ɗemngal">
 <!ENTITY removeLanguage.accesskey         "M">
 <!ENTITY removeAllLanguages.label         "Momtu Ɗemɗe Kala">
 <!ENTITY removeAllLanguages.accesskey     "o">
 
-<!ENTITY noTranslationForSites.label      "Firo e ɗee-ɗoo lowe waawaataa heɓaade:">
-
+<!ENTITY treehead.siteName2.label         "Lowe">
 <!ENTITY removeSite.label                 "Momtu Lowre">
 <!ENTITY removeSite.accesskey             "L">
 <!ENTITY removeAllSites.label             "Momtu Lowe Fof">
