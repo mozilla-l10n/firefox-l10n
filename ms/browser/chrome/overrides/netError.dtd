@@ -41,7 +41,7 @@
 <!ENTITY fileAccessDenied.title "Akses kepada fail ditolak">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Mungkin telah dialih keluar, dipindah atau keizinan fail yang menyekat akses.</li>
+  <li>Mungkin telah dibuang, dipindahkan, atau keizinan fail yang menghalang akses.</li>
 </ul>
 ">
 
@@ -68,7 +68,7 @@
 <!ENTITY netOffline.title "Mod luar talian">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Tekan &quot;Cuba Lagi &quot; untuk menukar ke mod atas talian dan muat semula halaman.</li>
+  <li>Tekan &quot;Cuba Lagi&quot; untuk bertukar ke mod atas talian dan memuatkan halaman.</li>
 </ul>
 ">
 
@@ -112,9 +112,9 @@
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Semak tetapan proksi untuk memastikan tetapan adalah betul.</li>
-  <li>Pastikan komputer ada sambungan rangkaian yang berfungsi.</li>
+  <li>Pastikan komputer anda ada sambungan rangkaian yang berfungsi.</li>
   <li>Jika komputer atau rangkaian dilindungi firewall atau proksi, pastikan
-     bahawa &brandShortName; diberi izin mengakses Web.</li>
+   bahawa &brandShortName; diberi izin mengakses Web.</li>
 </ul>
 ">
 
@@ -129,9 +129,9 @@
 <!ENTITY unknownSocketType.title "Respon tidak dijangka daripada pelayan">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Semak untuk memastikan sistem anda ada Personal Security Manager
+  <li>Semak untuk memastikan sistem sudah ada Pengurus Keselamatan Peribadi
     yang dipasang.</li>
-  <li>Masalah ini mungkin kerana konfigurasi non-standard pada pelayan.</li>
+  <li>Ini mungkin kerana konfigurasi bukan-piawai dalam pelayar.</li>
 </ul>
 ">
 
