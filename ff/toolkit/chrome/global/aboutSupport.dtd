@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Humpito Ñawndugol Caɗeele">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Ngoo hello ena waɗi humpito karallaagal baawngol nafde so aɗaetoo safrude caɗeele. So aɗa yiyloo jaabawuuji naamne ganndaaɗe  baɗte &brandShortName;, ƴeewto wallitorde amen <a id='supportLink'>lowre wallitorde</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Jaŋtol Kooke">
@@ -21,9 +21,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Yamre">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featureName "Innde">
+<!ENTITY aboutSupport.featureVersion "Yamre">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Fannuuji Ƴeewtindorɗi">
 <!ENTITY aboutSupport.experimentName "Innde">
@@ -38,9 +38,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Innde">
 <!ENTITY aboutSupport.appBasicsVersion "Yamre">
 <!ENTITY aboutSupport.appBasicsBuildID "ID Mahngo">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Calol Kesɗitingol">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Aslol Kesɗitine">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Hollu Aslol Kesɗitine">
@@ -57,8 +57,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Kuutorogol Tesko">
 <!ENTITY aboutSupport.appBasicsPerformance "Jaawgol golle">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Gollooɓe Sarwiis Heftinaaɓe">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Keftinirɗe">
@@ -66,7 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Kenorɗe Cili Keewɗi">
 
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Coktirgal Google">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mbayka Hoolno">
 
@@ -82,8 +82,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Jiggo Teelte Baylaaɗe">
 <!ENTITY aboutSupport.modifiedPrefsName "Innde">
 <!ENTITY aboutSupport.modifiedPrefsValue "Kiisol">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Keeroraaɗi user.js">
 <!ENTITY aboutSupport.userJSDescription "Runngere heftinirde maa ena waɗi <a id='prefs-user-js-link'>fiilde user.js</a>, waɗnde keeroraaɗi ɗi &brandShortName; sosaani.">
 
@@ -104,8 +104,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Hurminaama">
 <!ENTITY aboutSupport.a11yForceDisabled "Haɗ Naatgol">
 
-
-
 <!ENTITY aboutSupport.libraryVersionsTitle "Jame Deftorli">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Aslol Aafgol">
@@ -115,14 +113,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Natto keɓe kecce to ɗakkitorde">
 
 <!ENTITY aboutSupport.sandboxTitle "Seenorde">
-
-
-
-
-
-
-
-
 
 <!ENTITY aboutSupport.safeModeTitle "Eto Mbayka Hoolno">
 <!ENTITY aboutSupport.restartInSafeMode.label "Hurmitin tawa Ɓeyditte ena Ndaaƴaa…">
@@ -136,14 +126,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Fannuuji Palol Kooke Daaƴaaɗe">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Taarataare">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaDeviceName "Innde">
+<!ENTITY aboutSupport.mediaDeviceGroup "Dental">
+<!ENTITY aboutSupport.mediaDevicePreferred "Cuɓaaɗo">
