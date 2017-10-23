@@ -9,7 +9,7 @@
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Hanya dalam tertingkap persendirian">
 <!ENTITY  trackingProtectionPrivate.accesskey  "y">
-<!ENTITY  trackingProtectionNever.label        "Tidak sekali">
+<!ENTITY  trackingProtectionNever.label        "Jangan sesekali">
 <!ENTITY  trackingProtectionNever.accesskey    "k">
 <!ENTITY  trackingProtectionLearnMore.label    "Ketahui selanjutnya">
 <!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
@@ -53,7 +53,7 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Terima kuki pihak ketiga">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Sentiasa">
-<!ENTITY  acceptThirdParty.never.label    "Tidak sekali">
+<!ENTITY  acceptThirdParty.never.label    "Jangan sesekali">
 <!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">
 
 <!ENTITY  keepUntil2.label              "Kekalkan sehingga">

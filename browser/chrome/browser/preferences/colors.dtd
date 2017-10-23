@@ -11,7 +11,7 @@
 
 <!ENTITY  overrideDefaultPageColors.always.label "Sentiasa">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Hanya dengan tema Kontras Tinggi">
-<!ENTITY  overrideDefaultPageColors.never.label  "Tidak sesekali">
+<!ENTITY  overrideDefaultPageColors.never.label  "Jangan sesekali">
 
 <!ENTITY  color                           "Teks dan Latar Belakang">
 <!ENTITY  textColor2.label                "Teks">
