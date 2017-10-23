@@ -53,7 +53,7 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Klarte ikkje å forstå adressa">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Det kan vere at du må installere ekstra programvare for å opne denne addressa.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Du må kanskje installere anna programvare for å opne denne addressa.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mellomtenar godtek ikkje tilkoplingar">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at mellomtenarinnstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å forsikra deg om at mellomtenaren verkar.</li> </ul>">
