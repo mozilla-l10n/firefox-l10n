@@ -840,11 +840,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "S">
 <!ENTITY syncToolbarButton.label      "Sanngoɗin">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Daas geɗe maa katojinaaɗe to palal kuutorɗe toh walla dosol beelowel.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ina sokli kaɓirɗe goɗɗe">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Suɓo e nder ujunnaaje ɓeyditte">
 <!ENTITY customizeMode.restoreDefaults "Artir Goowaaɗe">
 <!ENTITY customizeMode.done "Gasii">
 <!ENTITY customizeMode.titlebar "Tiitoonde palal">
+<!ENTITY customizeMode.extraDragSpace "Boowal Daasol">
 <!ENTITY customizeMode.toolbars2 "&amp;Pale kuutorɗe">
 <!ENTITY customizeMode.lwthemes "Ciŋkooje">
 <!ENTITY customizeMode.lwthemes.myThemes "Ciŋkooje Am">
@@ -854,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Heɓ Ciŋkooje Goɗɗe">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Daas njoɗɗinaa ɗoo ngeɗon ɓaɗoo juuɗe maa, tawa wonaa e palal kuutorɗe...">
+<!ENTITY customizeMode.overflowList.title2 "Dosol Beelewol">
 <!ENTITY customizeMode.uidensity "Cukkeendi">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
