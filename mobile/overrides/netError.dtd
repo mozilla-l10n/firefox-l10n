@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problem med lasting av sida">
 <!ENTITY retry.label "Prøv igjen">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Klarte ikkje å kopla til">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -59,7 +59,7 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Klarte ikkje å forstå adressa">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Du må kanskje installera anna programvare for å opna denne addressa.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Du må kanskje installere anna programvare for å opne denne addressa.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mellomtenar godtek ikkje tilkoplingar">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at mellomtenarinnstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å forsikra deg om at mellomtenaren verkar.</li> </ul>">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Trygg tilkopling feila">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Dette kan vera pga. eit problem med oppsettet til tenaren, eller det kan vera nokon som prøvar å etterlikna tenaren.</li> <li>Om du har kopla til denne tenaren tidlegare, kan feilen vera krtvarig, og du kan prøva igjen seinare.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Sida kan vera mellombels utilgjengeleg eller oppteken. Prøv igjen snart.</li> <li>Om du ikkje klarer å lasta sider, kontroller data- eller WiFi-tilkoplinga på eininga di. <button id='wifi'>Enable Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blokkert av tryggingspraksis for innhald">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Eller du kan laga ein unntaksregel…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herifrå!">
 <!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Du bør ikkje leggja til ein unntaksregel om du brukar eit Internett-samband som du ikkje stolar fullstendig på, eller dersom du ikkje er van med å sjå slike åtvaringar for denne tenaren.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
