@@ -40,8 +40,11 @@
 ">
 
 <!ENTITY fileAccessDenied.title "Akses kepada fail ditolak">
-<!ENTITY fileAccessDenied.longDesc "<ul>
-  <li>Mungkin telah dialih keluar, dipindahkan, atau kebenaran fail mungkin menghalang akses.</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Mungkin telah dibuang, dipindahkan, atau keizinan fail yang menghalang akses.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Maaf.">
 <!ENTITY generic.longDesc "
@@ -82,12 +85,16 @@
 ">
 
 <!ENTITY contentEncodingError.title "Ralat Pengekodan Kandungan">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Jenis Fail Tidak Selamat">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Sila hubungi pemilik tapak web untuk memaklumkan masalah ini.</li>
+  <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
 </ul>
 ">
 
@@ -100,7 +107,7 @@
 <!ENTITY unknownProtocolFound.title "Alamat tidak difahami">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Anda perlu memasang perisian lain untuk membuka alamat ini.</li>
+  <li>Anda mungkin perlu pasang perisian lain untuk membuka alamat ini.</li>
 </ul>
 ">
 
@@ -121,7 +128,7 @@
 <!ENTITY redirectLoop.title "Halaman tidak diarahkan semula dengan betul">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Masalah ini kadang kala disebabkan oleh menyahdaya atau tidak mahu menerima
+  <li>Masalah ini kadangkala disebabkan oleh menyahaktifkan atau tidak mahu menerima
     kuki.</li>
 </ul>
 ">
@@ -129,16 +136,16 @@
 <!ENTITY unknownSocketType.title "Respon tidak dijangka daripada pelayan">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Semak untuk pastikan sistem anda ada Pengurus Keselamatan Peribadi yang
-    sudah dipasang.</li>
-  <li>Ini mungkin kerana konfigurasi bukan-standard pada pelayan.</li>
+  <li>Semak untuk memastikan sistem sudah ada Pengurus Keselamatan Peribadi
+    yang dipasang.</li>
+  <li>Ini mungkin kerana konfigurasi bukan-piawai dalam pelayar.</li>
 </ul>
 ">
 
 <!ENTITY nssFailure2.title "Sambungan Selamat Gagal">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Halaman yang anda cuba lihat tidak boleh dipaparkan kerana autentisiti data yang diterima tidak dapat disahkan.</li>
+  <li>Halaman yang anda mahu lihat tidak dapat dipaparkan kerana autentisiti data yang diterima tidak dapat disahkan.</li>
   <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
 </ul>
 ">
