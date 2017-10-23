@@ -82,7 +82,7 @@
 <!ENTITY deleteCmd.label "Slett">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY editRewrapCmd.label "Tekstbryting">
-<!ENTITY editRewrapCmd.key "T">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Endra namn på vedlegg …">
 <!ENTITY renameAttachmentCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Merk alt">

@@ -15,4 +15,4 @@
 <!ENTITY publicData.label        "Offentlege data">
 <!ENTITY privateData.label       "Private data">
 <!ENTITY identityAlias.label     "Identitetsetikett:">
-<!ENTITY identityAlias.accesskey "m">
+<!ENTITY identityAlias.accesskey "k">
