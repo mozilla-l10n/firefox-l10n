@@ -93,7 +93,7 @@
 <!ENTITY proxyConnectFailure.title "Il proxy server refusescha la connexiun">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Controllescha ch'ils parameters dal proxy server sajan corrects .</li>
+  <li>Controllescha ch'ils parameters dal proxy server sajan corrects.</li>
   <li>Contactescha l'administratur da tia rait per far la segira ch'il proxy server 
     è en funcziun.</li>
 </ul>
