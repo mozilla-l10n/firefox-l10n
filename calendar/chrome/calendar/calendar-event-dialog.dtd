@@ -189,7 +189,7 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Bruk forslag">
-<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.accesskey                "B">
 <!ENTITY counter.button.proposal.tooltip2                 "Hendingsfelta vert utfylte med verdiane frå motforslaga. Berre lagring, med eller utan ytterlegare endringar, vil varsle alle deltakarane">
 <!ENTITY counter.button.original.label                    "Bruk originaldata">
 <!ENTITY counter.button.original.accesskey                "r">
@@ -216,7 +216,7 @@
 <!ENTITY event.to.label                                   "Slutt:" >
 <!ENTITY event.to.accesskey                               "l">
 <!ENTITY task.to.label                                    "Forfallsdato:" >
-<!ENTITY task.to.accesskey                                "n">
+<!ENTITY task.to.accesskey                                "F">
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Repeter:" >
