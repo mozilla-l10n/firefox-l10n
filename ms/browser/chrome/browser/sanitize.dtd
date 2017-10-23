@@ -30,9 +30,9 @@
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Julat masa untuk menghapuskan: ">
 <!ENTITY clearTimeDuration.accesskey      "J">
-<!ENTITY clearTimeDuration.lastHour       "jam yang terakhir">
+<!ENTITY clearTimeDuration.lastHour       "Satu Jam Lepas">
 <!ENTITY clearTimeDuration.last2Hours     "Dua Jam Lepas">
-<!ENTITY clearTimeDuration.last4Hours     "Empat Jam yang Lepas">
+<!ENTITY clearTimeDuration.last4Hours     "Empat Jam Lepas">
 <!ENTITY clearTimeDuration.today          "Hari Ini">
 <!ENTITY clearTimeDuration.everything     "Semua">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
