@@ -46,7 +46,7 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Tinggalkan pesanan pada pelayan">
+<!ENTITY leaveMsgsOnSrvr.label "Tinggalkan mesej pada pelayan">
 <!ENTITY leaveMsgsOnSrvr.accesskey "T">
 <!ENTITY portNum.label "Port:">
 <!ENTITY portNum.accesskey "o">

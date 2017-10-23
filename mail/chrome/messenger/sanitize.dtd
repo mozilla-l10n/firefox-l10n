@@ -10,7 +10,7 @@
 <!ENTITY clearTimeDuration.label          "Julat masa untuk menghapuskan: ">
 <!ENTITY clearTimeDuration.accesskey      "J">
 <!ENTITY clearTimeDuration.lastHour       "Satu Jam lepas">
-<!ENTITY clearTimeDuration.last2Hours     "Dua jam lepas">
+<!ENTITY clearTimeDuration.last2Hours     "Dua Jam Lepas">
 <!ENTITY clearTimeDuration.last4Hours     "Empat Jam lepas">
 <!ENTITY clearTimeDuration.today          "Hari ini">
 <!ENTITY clearTimeDuration.everything     "Semua">
