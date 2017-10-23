@@ -524,14 +524,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Превчитај ја рамката">
 <!ENTITY reloadFrameCmd.accesskey     "ч">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Прикажи го кодот на избраниот дел">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Прикажи код на избран дел">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Прикажи го MathML кодот">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "П">
-<!ENTITY viewPageSourceCmd.label      "Прикажи го кодот на страницата">
+<!ENTITY viewPageSourceCmd.label      "Прикажи код на страница">
 <!ENTITY viewPageSourceCmd.accesskey  "д">
-<!ENTITY viewFrameSourceCmd.label     "Прикажи го кодот на рамката">
+<!ENTITY viewFrameSourceCmd.label     "Прикажи код на рамка">
 <!ENTITY viewFrameSourceCmd.accesskey "д">
 <!ENTITY viewPageInfoCmd.label        "Прикажи ги информациите за страницата">
 <!ENTITY viewPageInfoCmd.accesskey    "и">
