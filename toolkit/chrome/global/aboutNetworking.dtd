@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Wultin hoore mum kala maje 3">
 <!ENTITY aboutNetworking.hostname              "Innde mooftoowo">
 <!ENTITY aboutNetworking.port                  "Poor">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Ena hurmi">
 <!ENTITY aboutNetworking.idle                  "Aami">
@@ -41,18 +41,6 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Jiɓtu">
 <!ENTITY aboutNetworking.dnsDomain             "Domen">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Uddit">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Tar">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Winndu">
