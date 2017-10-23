@@ -33,6 +33,7 @@
 <!ENTITY captivePortal.longDesc2 "<p>Ta sieć wymaga zalogowania, aby uzyskać dostęp do Internetu.</p>">
 <!ENTITY openPortalLoginPage.label2 "Zaloguj się do sieci">
 
+<!ENTITY malformedURI.pageTitle "Nieprawidłowy URL">
 <!ENTITY malformedURI.title1 "Niestety, ten adres nie wygląda dobrze">
 
 <!ENTITY netInterrupt.title "Przerwane połączenie">
