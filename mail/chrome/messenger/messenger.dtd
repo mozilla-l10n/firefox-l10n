@@ -591,7 +591,7 @@
 <!ENTITY chatButton.tooltip "Papar tab Sembang">
 <!ENTITY tagButton.tooltip "Tag mesej">
 <!ENTITY compactButton.tooltip "Buang mesej yang dihapuskan daripada folder yang dipilih">
-<!ENTITY appmenuButton1.tooltip "Papar menu &brandShortName;">
+<!ENTITY appmenuButton1.tooltip "Papar Menu &brandShortName;">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Kirim semula Sebaris">
