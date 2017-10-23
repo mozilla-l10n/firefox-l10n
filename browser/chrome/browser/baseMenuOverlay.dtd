@@ -46,7 +46,7 @@
 <!ENTITY servicesMenuMac.label          "Службы">
 
 <!ENTITY hideThisAppCmdMac2.label       "Схаваць &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "С">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Схаваць іншыя">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
