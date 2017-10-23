@@ -22,10 +22,11 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "So mi yaltii &brandShortName;, ena foti momtude fof:">
+
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Njuuteendi sahaa momtugol: ">
 <!ENTITY clearTimeDuration.accesskey      "N">
 <!ENTITY clearTimeDuration.lastHour       "Waktu Ɓennuɗo oo">
@@ -36,10 +37,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Cariiɗe">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
@@ -60,8 +61,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "C">
 <!ENTITY itemSitePreferences.label         "Cuɓoraaɗe Lowre">
 <!ENTITY itemSitePreferences.accesskey     "L">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Ngal baɗal waawaa firteede.">
