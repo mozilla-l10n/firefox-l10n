@@ -71,7 +71,6 @@
 <!ENTITY proxyConnectFailure.longDesc "<p>Il navigatur è vegnì configurà per l'utilisaziun d'in proxy server, ma il proxy refusescha la connexiun.</p><ul><li>Èn las configuraziuns dal proxy correctas? Controllescha per plaschair las configuraziuns ed emprova anc ina giada.</li><li>Permetta il servetsch da proxy connexiuns or da questa rait?</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Impussibel da chattar il proxy server">
-<!ENTITY proxyResolveFailure.longDesc "<p>Il navigatur è vegnì configurà per l'utilisaziun d'in proxy server, ma i n'è betg stà pussibel da chattar il proxy.</p><ul><li>Èn las configuraziuns da proxy correctas? Controllescha las configuraziuns ed emprova lura anc ina giada.</li><li>Permetta il servetsch da proxy connexiuns or da questa rait?</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
 
 <!ENTITY redirectLoop.title "Cirquit da sviament">
 <!ENTITY redirectLoop.longDesc "<p>L'emprova da connectar cun l'adressa dumandada è vegnida interrutta. La website dumandada sviescha la dumonda uschia ch'ella na po mai vegnir terminada.</p><ul><li>Has ti bloccà u deactivà cookies indispensabels per questa website?</li><li><em>AVIS</em>: Per cas ch'i na gida betg d'acceptar ils cookies ed ils problems cun l'adressa dumandada persistan, sa tracti probablamain d'ina configuraziun fallada dal server e betg d'in problem da tes computer.</li></ul>">
