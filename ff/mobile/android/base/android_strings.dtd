@@ -476,10 +476,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Ñippu to Lowe Dowrowe">
+<!ENTITY contextmenu_unpin_from_top_sites "Ñippit e Lowe Dowrowe">
 <!ENTITY contextmenu_add_search_engine "Ɓeydu Yiilorde">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Ñippii hello e Lowe Dowrowe">
+<!ENTITY unpinned_page_from_top_sites "Ñippitii hello e Lowe Dowrowe">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -511,9 +515,11 @@
 <!ENTITY page_removed "Hello momtaama">
 
 <!ENTITY bookmark_edit_title "Taƴto Maantorol">
+<!ENTITY bookmark_edit_folder_title "Taƴto runngere">
 <!ENTITY bookmark_edit_name "Innde">
 <!ENTITY bookmark_edit_location "Nokkuure">
 <!ENTITY bookmark_edit_keyword "Helmere yiylorde">
+<!ENTITY bookmark_select_folder "Suɓo runngere">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -535,6 +541,7 @@
 <!ENTITY button_yes "Eey">
 <!ENTITY button_no "Alaa">
 <!ENTITY button_clear_data "Momtu keɓe">
+<!ENTITY button_set "Teelto">
 <!ENTITY button_clear "Momtu">
 <!ENTITY button_copy "Natto">
 
@@ -588,6 +595,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Lowre ñippaande">
+<!ENTITY home_unpinned_site "Lowre ñippitaande">
 
 <!ENTITY remote_tabs_panel_moved_title "Hoto tabbe am ngoni?">
 <!ENTITY remote_tabs_panel_moved_desc "Min ndirtinii tabbe maa iwɗe e kaɓirɗi goɗɗi fayde e alluwal e hello jaɓɓorgo maa baawbgal heɓaade tuma kala nde uddit-ɗaa tabbere hesere.">
@@ -661,6 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Maantore e aslol">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Kesɗitine ina ngoodi ngam &brandShortName;">
 <!ENTITY updater_start_select2 "Mem ɗoo ngam aawtaade">
 
 <!ENTITY updater_downloading_title2 "Nana aawtoo &brandShortName;">
@@ -668,6 +678,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Mem ɗoo ngam jamminde so aawtaama">
 <!ENTITY updater_downloading_retry2 "Mem ɗoo ngam etaade kadi">
 
+<!ENTITY updater_apply_title3 "Kesɗitine gaawtaaɗe ngam &brandShortName;">
+<!ENTITY updater_apply_select3 "Mem ngam loowde">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
