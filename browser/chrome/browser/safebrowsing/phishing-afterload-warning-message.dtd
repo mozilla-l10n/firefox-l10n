@@ -32,6 +32,7 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "La vizitota retejo povus enhavi difektajn programojn">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; blokis tiun ĉi paĝon ĉar ĝi trompe povus igi vin instali programojn, kiuj malutilos al via retuma sperto (ekzemple per ŝanĝo de via eka paĝo aŭ per aldono de reklamoj en vizitataj retejoj).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
