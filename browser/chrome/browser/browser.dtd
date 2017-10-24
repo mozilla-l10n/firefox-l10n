@@ -59,7 +59,7 @@
 <!ENTITY navbarCmd.label "Barra di navigazione">
 <!ENTITY personalbarCmd.label "Barra dei segnalibri">
 <!ENTITY personalbarCmd.accesskey "s">
-<!ENTITY bookmarksToolbarItem.label "Elementi della Barra dei segnalibri">
+<!ENTITY bookmarksToolbarItem.label "Elementi della barra dei segnalibri">
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Ricarica tutte le schede">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
