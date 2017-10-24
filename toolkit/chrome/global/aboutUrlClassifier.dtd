@@ -10,7 +10,7 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Waktu kemas kini seterusnya">
 <!ENTITY aboutUrlClassifier.providerBackOffTime         "Tempoh undur">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status kemas kini terakhir">
-<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Kemas kini">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Kemaskini">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Muat semula">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Buang">
