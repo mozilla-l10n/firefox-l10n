@@ -51,12 +51,14 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> estis <a id='error_desc_link'>denuncita kiel trompan retejon</a>. Vi povas <a id='report_detection'>raporti problemon pri misdetekto</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Legu pli pri trompaj retejoj kaj rettrompoj ĉe <a id='learn_more_link'>www.antiphishing.org</a>. Pli da informo pri la protekto de &brandShortName; kontraŭ rettrompoj kaj malutilaj programoj ĉe <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "La vizitota retejo povus enhavi fiprogramojn">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; blokis tiun ĉi paĝon, ĉar ĝi povus klopodi instali danĝerajn programojn, kiu ŝtelas aŭ forigas viajn datumojn (ekzemple: fotojn, pasvortojn, mesaĝojn kaj kreditkartojn).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> estis <a id='error_desc_link'>denuncita pro tio ke ĝi enhavas eble malutilan programon</a>. Vi povas <a id='ignore_warning_link'>ignori la riskon</a> kaj tamen iri al tiu ĉi nesekura retejo.">
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> estis <a id='error_desc_link'>denuncita pro tio ke ĝi havas programon. kiu povus malutili</a>.">
 
