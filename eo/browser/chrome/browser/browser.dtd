@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ricevi pli da etosoj">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "R">
 <!ENTITY customizeMode.emptyOverflowList.description "Trenu elementojn kaj faligu ilin ĉi tie, por havi ilin estos ĉemane sed ne en via ilaro…">
+<!ENTITY customizeMode.overflowList.title2 "Ekstra menuo">
+<!ENTITY customizeMode.overflowList.description "Trenu elementojn kaj faligu ilin ĉi tie, por havi ilin estos ĉemane sed ne en via ilaro…">
 <!ENTITY customizeMode.uidensity "Denseco">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
