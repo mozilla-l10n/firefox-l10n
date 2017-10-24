@@ -48,7 +48,7 @@
 <!ENTITY view.availableUpdates.label          "Actualisationes disponibile">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Recercar actualisationes">
+<!ENTITY updates.checkForUpdates.label        "Cercar actualisationes">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Vider le actualisationes recente">
 <!ENTITY updates.viewUpdates.accesskey        "V">
@@ -151,9 +151,9 @@
 <!ENTITY detail.repository                    "Profilo del additivo">
 <!ENTITY detail.size                          "Dimension">
 
-<!ENTITY detail.checkForUpdates.label         "Recercar actualisationes">
+<!ENTITY detail.checkForUpdates.label         "Cercar actualisationes">
 <!ENTITY detail.checkForUpdates.accesskey     "C">
-<!ENTITY detail.checkForUpdates.tooltip       "Recercar actualisationes pro iste additivo">
+<!ENTITY detail.checkForUpdates.tooltip       "Cercar actualisationes pro iste additivo">
 <!ENTITY detail.showPreferencesWin.label      "Optiones">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "Cambiar le optiones de iste additivo">
