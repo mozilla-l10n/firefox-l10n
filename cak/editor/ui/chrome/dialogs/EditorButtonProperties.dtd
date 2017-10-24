@@ -13,6 +13,8 @@
 
 <!ENTITY ButtonName.label "B'i'aj:">
 <!ENTITY ButtonName.accesskey "B">
+<!ENTITY ButtonValue.label "Retal:">
+<!ENTITY ButtonValue.accesskey "R">
 <!ENTITY ButtonDisabled.label "Chupun">
 <!ENTITY ButtonDisabled.accesskey "C">
 

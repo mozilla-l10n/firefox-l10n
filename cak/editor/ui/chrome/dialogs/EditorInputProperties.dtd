@@ -19,6 +19,8 @@
 <!ENTITY InputName.accesskey "B">
 <!ENTITY GroupName.label "Rumolaj B'i'aj:">
 <!ENTITY GroupName.accesskey "B">
+<!ENTITY InputValue.label "Rejqalem k'ojlib'äl:">
+<!ENTITY InputValue.accesskey "R">
 <!ENTITY InputDisabled.label "Chupun">
 <!ENTITY InputDisabled.accesskey "C">
 

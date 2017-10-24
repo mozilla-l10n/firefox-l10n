@@ -7,6 +7,7 @@
 <!ENTITY PropertyName.label             "Ichinil: ">
 <!ENTITY tree.attributeHeader.label     "B'anikil">
 <!ENTITY tree.propertyHeader.label      "Ichinil">
+<!ENTITY tree.valueHeader.label         "Retal">
 <!ENTITY tabHTML.label                  "HTML taq B'anikil">
 
 <!ENTITY removeAttribute.label  "Tiyuj">
