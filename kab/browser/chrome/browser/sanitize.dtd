@@ -21,14 +21,14 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings2.label     "Ticki ffɣeɣ seg &brandShortName;, kkes iferdisen-a s twurmant:">
+<!ENTITY clearDataSettings2.label     "Ticki fɣeɣ seg &brandShortName;, kkes iferdisen-a s twurmant:">
 
-<!ENTITY clearDataSettings3.label     "Ticki ffɣeɣ seg &brandShortName;, kkes akk iferdisen-a s twurmant">
+<!ENTITY clearDataSettings3.label     "Ticki fɣeɣ seg &brandShortName;, kkes akk iferdisen-a s twurmant">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-<!ENTITY clearTimeDuration.label          "Azilal a tsefḍeḍ: ">
+<!ENTITY clearTimeDuration.label          "Azilal ara tsefḍeḍ: ">
 <!ENTITY clearTimeDuration.accesskey      "A">
 <!ENTITY clearTimeDuration.lastHour       "Asrag aneggaru">
 <!ENTITY clearTimeDuration.last2Hours     "Sin isragen ineggura">
