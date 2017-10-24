@@ -27,7 +27,7 @@
 
 <!ENTITY copyCmd.label       "Natto">  
 <!ENTITY copyCmd.accesskey   "N"> 
-<!ENTITY copyCmd.commandkey  "N"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Degginol Leemto Gadano > Battano">
 <!ENTITY sortFirst.accesskey "G">
 <!ENTITY sortLast.label      "Degginol Leemto Battano > Gadano">

@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Ɗum ena waawi boynude gaaranti maa!">
 <!ENTITY aboutWarningText.label "Waylude ɗee teelte ceeɓtore ena waawi addude caɗeele jamɗugol, kisal e jaawgol ngal jaaɓnirgal. Pot-ɗaa jokkude tan ko so tawii aɗa yenanaa aɗa anndi ko mbaɗataa koo.">
 <!ENTITY aboutWarningButton2.label "Mi jaɓii jeemaade!">
@@ -15,19 +15,19 @@
 <!ENTITY searchPrefs.accesskey "i">
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Innde Cuɓoraaɗe">
 <!ENTITY lockColumn.label "Ngonka">
 <!ENTITY typeColumn.label "Fannu">
 <!ENTITY valueColumn.label "Kiisol">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Dobo ngam leemtaade"> 
 <!ENTITY columnChooser.tooltip "Dobo ngam labaade dati kollirteeɗi"> 
-<!-- Context Menu -->
 
-<!ENTITY copyPref.key "D">
+<!-- Context Menu -->
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Natto">
 <!ENTITY copyPref.accesskey "N">
 <!ENTITY copyName.label "Natto Innde">
