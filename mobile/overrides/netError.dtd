@@ -199,7 +199,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Tidak dapat Disambung dengan Selamat">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc "Info Lanjutan: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc "Info lanjutan: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "Sambungan internet anda tidak selamat">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
