@@ -439,7 +439,7 @@
 
 <!ENTITY addons "Additivos">
 <!ENTITY logins "Authenticationes">
-<!ENTITY downloads "Discargas">
+<!ENTITY downloads "Discargamentos">
 <!ENTITY char_encoding "Codification de characteres">
 
 <!ENTITY share "Compartir">
@@ -693,7 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Actualisation disponibile pro &brandShortName;">
-<!ENTITY updater_start_select2 "Toccar pro discargar">
+<!ENTITY updater_start_select2 "Tocca pro discargar">
 
 <!ENTITY updater_downloading_title2 "Discargamento de &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Discargamento fallite">
