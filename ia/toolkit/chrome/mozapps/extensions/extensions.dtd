@@ -29,8 +29,8 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "Alcun extensiones non poteva esser verificate">
 <!ENTITY showAllExtensions.button.label       "Monstrar tote le extensiones">
-<!ENTITY debugAddons.label                    "Facer le depuration del additivos">
-<!ENTITY debugAddons.accesskey                "B">
+<!ENTITY debugAddons.label                    "Depurar le additivos">
+<!ENTITY debugAddons.accesskey                "D">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Tote le additivos ha essite inactivate per le modo secur.">
