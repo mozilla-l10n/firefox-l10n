@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Kuuɓal">
 
@@ -23,18 +23,17 @@
 <!ENTITY checkUserSpelling.accesskey     "b">
 
 <!ENTITY dataChoicesTab.label            "Cuɓe Keɓe">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo">
 
-
+<!ENTITY enableHealthReport2.label       "Yamir &brandShortName; yo neldu keɓe karallaagal e gollondiral to Moɗilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Jokku Taro">
 
-
-
-
+<!ENTITY dataCollection.label            "&brandShortName; Coñal e Kuutoragol Keɓe">
 
 <!ENTITY crashReporterLearnMore.label    "Jokku taro">
 
@@ -48,21 +47,21 @@ available. -->
 <!ENTITY httpCache.label                 "Loowdi Geese Kaasaandi">
 
 <!ENTITY offlineStorage2.label           "Loowdi Geese Ceŋtol e Keɓe Kuutoro">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Keɓe Lowre">
 <!ENTITY clearSiteData.label             "Momtu Keɓe ɗee Fof">
 <!ENTITY clearSiteData.accesskey         "o">
 <!ENTITY siteDataSettings.label          "Teelte… ">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Jokku taro">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Haaɗnu kaasol e">
 <!ENTITY limitCacheSizeBefore.accesskey  "H">
 <!ENTITY limitCacheSizeAfter.label       "MB boowal mbeɗu">
@@ -74,11 +73,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "F">
 
 <!ENTITY updateTab.label                 "Hesɗitin">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "Kesɗitine &brandShortName;:">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -89,8 +88,6 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Yamre">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Yamir &brandShortName; to">
-
-
 <!ENTITY updateCheckChoose2.label        "Yuurnito kesɗitine, kono woppu am mi suɓoo aafat ɗe">
 <!ENTITY updateCheckChoose2.accesskey    "Y">
 <!ENTITY updateManual2.label             "Hoto yuurnito kesɗitine (wasiyaaka)">
@@ -124,19 +121,22 @@ available. -->
 <!ENTITY enableOCSP.label                "Ɗaɓɓitere OCSP carworɗe jaaborɗe ena teeŋtina moƴƴugol seedamfaaje">
 <!ENTITY enableOCSP.accesskey            "Ɗ">
 
-
-
-
-
 <!ENTITY performance.label               "Jaawgol golle ">
-<!ENTITY useRecommendedPerformanceSettings2.label "Huutoro teelte jaawgol golle basiyaaɗe ɗee">
-<!ENTITY useRecommendedPerformanceSettings2.description "Ɗee teelte ina njahdi e kaɓirɗe kam e dognirgal ordinateer maa.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "H">
-<!ENTITY performanceSettingsLearnMore.label "Jokku taro">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Huutoro teelte jaawgol golle basiyaaɗe ɗee">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Ɗee teelte ina njahdi e kaɓirɗe kam e dognirgal ordinateer maa.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "H">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Jokku taro">
 <!ENTITY limitContentProcessOption.label "Kaaɗtudi silsil loowdi">
-<!ENTITY limitContentProcessOption.description "Silsilaaji loowdi ɓeydaaɗi ina mbaawi ɓeydude kattanɗe golle so tabbe keewɗe ina kuutoree, kono ina kuutoroo teskorde ɓurnde heewde.">
+<!ENTITY limitContentProcessOption.description
+                                         "Silsilaaji loowdi ɓeydaaɗi ina mbaawi ɓeydude kattanɗe golle so tabbe keewɗe ina kuutoree, kono ina kuutoroo teskorde ɓurnde heewde.">
 <!ENTITY limitContentProcessOption.accesskey   "K">
-<!ENTITY limitContentProcessOption.disabledDescription "Baylugol keeweendi silsilaaji loowdi aaɓnodtoo tan ko e keewal silsilaaji &brandShortName;.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink "Humpito hol no hoolkisortee keewal silsilaaji koko hurminaa">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Baylugol keeweendi silsilaaji loowdi aaɓnodtoo tan ko e keewal silsilaaji &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Humpito hol no hoolkisortee keewal silsilaaji koko hurminaa">
 <!ENTITY allowHWAccel.label              "Huutoro moylinol masiŋeeri so ena woodi">
 <!ENTITY allowHWAccel.accesskey          "m">

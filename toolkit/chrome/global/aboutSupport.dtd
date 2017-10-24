@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Yamre">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Fannuuji">
 <!ENTITY aboutSupport.featureName "Innde">
 <!ENTITY aboutSupport.featureVersion "Yamre">
 <!ENTITY aboutSupport.featureId "ID">
@@ -113,6 +114,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Natto keɓe kecce to ɗakkitorde">
 
 <!ENTITY aboutSupport.sandboxTitle "Seenorde">
+<!ENTITY aboutSupport.sandboxSyscallAge "Hojomaaji Jawtuɗi">
 
 <!ENTITY aboutSupport.safeModeTitle "Eto Mbayka Hoolno">
 <!ENTITY aboutSupport.restartInSafeMode.label "Hurmitin tawa Ɓeyditte ena Ndaaƴaa…">
