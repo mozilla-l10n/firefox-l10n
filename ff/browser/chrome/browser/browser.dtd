@@ -857,6 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Daas njoɗɗinaa ɗoo ngeɗon ɓaɗoo juuɗe maa, tawa wonaa e palal kuutorɗe...">
 <!ENTITY customizeMode.overflowList.title2 "Dosol Beelewol">
+<!ENTITY customizeMode.overflowList.description "Daas njoɗɗinaa geɗe ngam ɓadinde ɗum'en tawa ngonaani e palal kuutorɗe maa…">
 <!ENTITY customizeMode.uidensity "Cukkeendi">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -878,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "M">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Huutoro Mem wonande mod Alluwel">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Suuɗ e jaajol">
 
 <!ENTITY getUserMedia.selectCamera.label "Kameraa lollinteeɗo:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -966,6 +968,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "W">
 <!ENTITY updateManual.panelUI.label "Aawto tumbitere &brandShorterName; hesere">
 
+<!ENTITY updateRestart.message2 "Ɓaawo kurtinal jaawngal, &brandShorterName; maa artir tabbe maa e kenotɗe udditiiɗe fof ɗe ngonaa e mbayka Peeragol cuuringol.">
 <!ENTITY updateRestart.header.message2 "Huɓɓit ngam hesɗitinde &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Hurmitin tee Ngartiraa">
 <!ENTITY updateRestart.acceptButton.accesskey "H">
@@ -977,8 +980,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Ɓeydu to Palal Ñiiɓirɗe">
 <!ENTITY pageAction.removeFromUrlbar.label "Ittu e Palal Ñiiɓirɗe">
 
+<!ENTITY pageAction.sendTabToDevice.label "Neldu Tabbere to Kaɓirgol">
 <!ENTITY sendToDevice.syncNotReady.label "Jahdingol masiŋon...">
 
+<!ENTITY libraryButton.tooltip "Yiy aslol, maantore danndaaɗe, e goɗɗe">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
