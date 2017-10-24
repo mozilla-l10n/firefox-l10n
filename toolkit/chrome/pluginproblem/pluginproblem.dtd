@@ -24,7 +24,7 @@
 <!ENTITY report.disabled                                     "Pelaporan ranap dinyahdayakan.">
 <!ENTITY report.failed                                       "Penghantaran gagal.">
 <!ENTITY report.unavailable                                  "Tiada laporan tersedia.">
-<!ENTITY report.comment                                      "Tambah komen (komen boleh dilihat oleh awam)">
+<!ENTITY report.comment                                      "Tambah komen (komen disiarkan kepada umum)">
 <!ENTITY report.pageURL                                      "Termasuk URL laman">
 
 <!ENTITY plugin.file                                         "Fail">
