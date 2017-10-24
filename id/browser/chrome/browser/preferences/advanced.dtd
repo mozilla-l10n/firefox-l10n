@@ -91,7 +91,7 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplicationDescription.label
-                                         "Pastikan &brandShortName; selalu dimutakhirkan untuk kinerja, stabilitas dan keamanan terbaik.">
+                                         "Pastikan &brandShortName; selalu mutakhir demi kinerja, stabilitas, dan keamanan terbaik.">
 <!ENTITY updateApplication.version.pre   "Versi ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Izinkan &brandShortName; untuk">
@@ -128,7 +128,7 @@ available. -->
 <!ENTITY selectCerts.auto.accesskey      "s">
 <!ENTITY selectCerts.ask                 "Tanyakan setiap saat">
 <!ENTITY selectCerts.ask.accesskey       "T">
-<!ENTITY enableOCSP.label                "Kueri server penjawab OCSP untuk mengonfirmasukan validitas sertifikat">
+<!ENTITY enableOCSP.label                "Kueri peladen penjawab OCSP untuk mengonfirmasikan validitas sertifikat">
 <!ENTITY enableOCSP.accesskey            "v">
 <!ENTITY viewCerts2.label                "Tampilkan Sertifikat…">
 <!ENTITY viewCerts2.accesskey            "S">
