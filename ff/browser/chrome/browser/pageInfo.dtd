@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Jeyɗo:">
 <!ENTITY  securityView.identity.domain   "Lowre geese:">
 <!ENTITY  securityView.identity.verifier "Ƴeewtii ko:">
-
+<!ENTITY  securityView.identity.validity "Gasata ko:">
 
 <!ENTITY  securityView.privacy.header                   "Aslol &amp; Suturo">
 <!ENTITY  securityView.privacy.history                  "Mi meeɗii yillaade ndee lowre ko adii hannde?">
