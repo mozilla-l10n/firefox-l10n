@@ -350,10 +350,69 @@
 <!ENTITY event.recurrence.pattern.yearly.day.label           "día" >
 <!ENTITY event.recurrence.of.label                           "de" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Enero" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Febrero" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Marzo" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Abril" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Mayo" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Junio" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Julio" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Agosto" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Septiembre" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Octubre" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Noviembre" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Diciembre" >
 
+<!ENTITY event.recurrence.range.label                   "Rango de recurrencia">
+<!ENTITY event.recurrence.forever.label                 "Sin fecha final" >
+<!ENTITY event.recurrence.repeat.for.label              "Crear" >
+<!ENTITY event.recurrence.appointments.label            "Cita(s)" >
+<!ENTITY event.repeat.until.label                       "Repetir hasta" >
+<!ENTITY event.recurrence.preview.label                 "Vista previa">
 
 <!-- Attendees dialog -->
+<!ENTITY invite.title.label                     "Invitar asistentes">
+<!ENTITY event.organizer.label                  "Organizar">
+<!ENTITY event.freebusy.suggest.slot            "Sugerir intervalo de tiempo:">
+<!ENTITY event.freebusy.button.next.slot        "Próximo intervalo">
+<!ENTITY event.freebusy.button.previous.slot    "Intervalo anterior">
+<!ENTITY event.freebusy.zoom                    "Zoom:">
+<!ENTITY event.freebusy.legend.free             "Libre" >
+<!ENTITY event.freebusy.legend.busy             "Ocupado" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Tentativo" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Fuera de la oficina" >
+<!ENTITY event.freebusy.legend.unknown          "Sin información" >
+<!ENTITY event.attendee.role.required           "Asistencia obligatoria">
+<!ENTITY event.attendee.role.optional           "Asistencia opcional">
+<!ENTITY event.attendee.role.chair              "Coordinador">
+<!ENTITY event.attendee.role.nonparticipant     "No participante">
+<!ENTITY event.attendee.usertype.individual     "Individual">
+<!ENTITY event.attendee.usertype.group          "Grupo">
+<!ENTITY event.attendee.usertype.resource       "Recurso">
+<!ENTITY event.attendee.usertype.room           "Salón">
+<!ENTITY event.attendee.usertype.unknown        "Desconocido">
 
 <!-- Timezone dialog -->
+<!ENTITY timezone.title.label            "Por favor, especifique el huso horario">
+<!ENTITY event.timezone.custom.label     "Más husos horarios…">
 
 <!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "General">
+<!ENTITY read.only.title.label           "Título:">
+<!ENTITY read.only.event.start.label     "Fecha de inicio:">
+<!ENTITY read.only.task.start.label      "Fecha de inicio:">
+<!ENTITY read.only.event.end.label       "Fecha de fin:">
+<!ENTITY read.only.task.due.label        "Fecha de fin:">
+<!ENTITY read.only.repeat.label          "Repetir:">
+<!ENTITY read.only.location.label        "Ubicación:">
+<!ENTITY read.only.category.label        "Categoría:">
+<!ENTITY read.only.organizer.label       "Organizador:">
+<!ENTITY read.only.reply.label           "Responder:">
+<!ENTITY read.only.accept.label          "Participaré">
+<!ENTITY read.only.decline.label         "No participaré">
+<!ENTITY read.only.tentative.label       "Podría participar">
+<!ENTITY read.only.needs.action.label    "Confirmaré después">
+<!ENTITY read.only.reminder.label        "Recordatorio:">
+<!ENTITY read.only.attachments.label     "Adjuntos:">
+<!ENTITY read.only.attendees.label       "Asistentes">
+<!ENTITY read.only.description.label     "Descripción">
+<!ENTITY read.only.link.label            "Enlaces relacionados">
