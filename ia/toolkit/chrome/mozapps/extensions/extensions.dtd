@@ -13,7 +13,7 @@
 <!ENTITY listEmpty.installed.label            "Tu non ha additivos de iste typo installate">
 <!ENTITY listEmpty.availableUpdates.label     "Nulle actualisationes trovate">
 <!ENTITY listEmpty.recentUpdates.label        "Tu non ha actualisate ulle additivo recentemente">
-<!ENTITY listEmpty.findUpdates.label          "Recercar le actualisationes">
+<!ENTITY listEmpty.findUpdates.label          "Cercar actualisationes">
 <!ENTITY listEmpty.search.label               "Nulle additivo correspondente ha essite trovate">
 <!ENTITY listEmpty.button.label               "Saper plus super additivos">
 <!ENTITY installAddonFromFile.label           "Installar additivo ab un file…">
@@ -89,7 +89,7 @@
 <!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Activar">
-<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Inactivar">
 <!ENTITY cmd.disableAddon.accesskey           "I">
 <!ENTITY cmd.enableTheme.label                "Applicar le thema">
@@ -152,7 +152,7 @@
 <!ENTITY detail.size                          "Dimension">
 
 <!ENTITY detail.checkForUpdates.label         "Recercar actualisationes">
-<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.accesskey     "C">
 <!ENTITY detail.checkForUpdates.tooltip       "Recercar actualisationes pro iste additivo">
 <!ENTITY detail.showPreferencesWin.label      "Optiones">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">

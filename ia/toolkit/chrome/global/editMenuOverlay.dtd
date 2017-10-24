@@ -30,6 +30,6 @@
 <!ENTITY findAgainCmd.label        "Cercar le sequente">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "g">
+<!ENTITY findAgainCmd.accesskey    "s">
 <!ENTITY findPreviousCmd.label     "Cercar le precedente">
-<!ENTITY findPreviousCmd.accesskey "v">
+<!ENTITY findPreviousCmd.accesskey "p">

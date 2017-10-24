@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  button-back-mac.label        "Retornar">
-<!ENTITY  button-back-mac.accesskey    "B">
+<!ENTITY  button-back-mac.accesskey    "R">
 <!ENTITY  button-next-mac.label        "Continuar">
 <!ENTITY  button-next-mac.accesskey    "C">
 <!ENTITY  button-finish-mac.label      "Facite">
@@ -17,7 +17,7 @@
 <!ENTITY  button-cancel-unix.label     "Cancellar">
 
 <!ENTITY  button-back-win.label        "&lt; Retro">
-<!ENTITY  button-back-win.accesskey    "B">
+<!ENTITY  button-back-win.accesskey    "R">
 <!ENTITY  button-next-win.label        "Sequente &gt;">
 <!ENTITY  button-next-win.accesskey    "N">
 <!ENTITY  button-finish-win.label      "Finir">
