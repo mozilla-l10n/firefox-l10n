@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Hollu Tabbe Fof">
 <!ENTITY showAllTabsCmd.accesskey "F">
-<!ENTITY toggleReaderMode.key "L">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Teelto &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Uddit Cuɓoraaɗe &syncBrand.shortName.label;">
@@ -573,7 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "I">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
-<!ENTITY savePageCmd.commandkey       "d">
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Danndu Kaarewol e Innde…">
 <!ENTITY saveFrameCmd.accesskey       "K">
 <!ENTITY printFrameCmd.label          "Winndito Kaarewol…">
