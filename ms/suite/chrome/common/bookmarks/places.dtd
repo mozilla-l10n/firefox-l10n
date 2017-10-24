@@ -85,7 +85,7 @@
 <!ENTITY col.keyword.label       "Kata kunci">
 <!ENTITY col.description.label   "Keterangan">
 <!ENTITY col.dateadded.label     "Ditambah">
-<!ENTITY col.lastmodified.label  "Ubahsuai Terakhir">
+<!ENTITY col.lastmodified.label  "Terakhir Diubah">
 
 <!ENTITY search.label                              "Cari:">
 <!ENTITY search.placeholder                        "Cari Tandabuku">
