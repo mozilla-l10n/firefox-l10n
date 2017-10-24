@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Ni rekontis problemon dum la restarigo de via lasta retuma seanco. Elektu «Restarigi seancon» por klopodi denove.">
 <!ENTITY restorepage.tryThis2       "Ĉu vi ankoraŭ ne sukcesas restarigi vian seancon? Kelkfoje langeto estas la problemo. Vidu antaŭajn langetojn, forigu la markon de la langetoj, kiujn vi ne bezonas restarigi, kaj klopodu denove.">
 
+<!ENTITY restorepage.hideTabs       "Kaŝi antaŭajn langetojn">
+<!ENTITY restorepage.showTabs       "Vidi antaŭajn langetojn">
+
 <!ENTITY restorepage.tryagainButton2 "Restarigi seancon">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Komenci novan seancon">
