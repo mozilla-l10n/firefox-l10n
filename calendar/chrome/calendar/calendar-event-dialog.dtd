@@ -113,7 +113,7 @@
 
 <!ENTITY  event.menu.view.label                           "Papar">
 <!ENTITY  event.menu.view.accesskey                       "P">
-<!ENTITY  event.menu.view.toolbars.label                  "Bar Alatan">
+<!ENTITY  event.menu.view.toolbars.label                  "Bar alatan">
 <!ENTITY  event.menu.view.toolbars.accesskey              "B">
 <!ENTITY  event.menu.view.toolbars.event.label            "Bar alatan Acara">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "A">
