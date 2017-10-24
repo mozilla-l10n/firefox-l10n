@@ -34,11 +34,16 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Jokku Taro">
 
 <!ENTITY dataCollection.label            "&brandShortName; Coñal e Kuutoragol Keɓe">
+<!ENTITY dataCollectionDesc.label        "Ha min ndarii ngam addande on cuɓe tawi kadi min ƴettata tan ko ko min ngaddanta on e ko min ƴellittanta on &brandShortName; Ha min naamndo yamiroore sahaa kala ko adii keɓgol kabaruuji maa keeriiɗi.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Tintinol Suturo">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Yamir &brandShortName; yo neldu jaŋte kooke e Moɗilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Jokku taro">
 
 <!ENTITY networkTab.label                "Laylaytol">
 
+<!ENTITY networkProxy.label              "Proxy Laylaytol">
 
 <!ENTITY connectionDesc.label            "Teelto no &brandShortName; seŋortoo e Enternet">
 <!ENTITY connectionSettings.label        "Teelte…">
