@@ -5,7 +5,7 @@
 <!ENTITY  fontsDialog.title                       "Typos de character">
 
 <!ENTITY  fonts.label                             "Typos de character pro">
-<!ENTITY  fonts.accesskey                         "F">
+<!ENTITY  fonts.accesskey                         "T">
 
 <!ENTITY  size2.label                             "Dimension">
 <!ENTITY  sizeProportional.accesskey              "D">
