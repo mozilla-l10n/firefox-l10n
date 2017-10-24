@@ -7,8 +7,8 @@
 #define bookmarks_title Segnalibri
 #define bookmarks_heading Segnalibri
 
-#define bookmarks_toolbarfolder Cartella della Barra dei segnalibri
-#define bookmarks_toolbarfolder_description Aggiungere un segnalibro a questa cartella per vederlo nella barra dei segnalibri
+#define bookmarks_toolbarfolder Cartella della barra dei segnalibri
+#define bookmarks_toolbarfolder_description Aggiungere un segnalibro a questa cartella per mostrarlo nella barra dei segnalibri
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://www.mozilla.com/en-US/firefox/central/

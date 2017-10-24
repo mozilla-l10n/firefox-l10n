@@ -12,6 +12,6 @@
 <!ENTITY warnOnOpenManyTabs.accesskey "c">
 <!ENTITY switchLinksToNewTabs.label "Porta in primo piano le nuove schede aperte da un link">
 <!ENTITY switchLinksToNewTabs.accesskey "P">
-<!ENTITY showTabsInTaskbar.label "Visualizza un’anteprima delle schede nella Barra delle applicazioni di Windows">
+<!ENTITY showTabsInTaskbar.label "Visualizza un’anteprima delle schede nella barra delle applicazioni di Windows">
 <!ENTITY showTabsInTaskbar.accesskey "V">
 <!ENTITY tabsGroup.label "Schede">
