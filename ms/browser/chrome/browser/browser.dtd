@@ -264,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Alatan">
 <!ENTITY toolsMenu.accesskey          "A">
 
-<!ENTITY keywordfield.label           "Tambah satu Kata Kunci untuk Carian ini…">
+<!ENTITY keywordfield.label           "Tambah Kata kunci untuk Carian ini…">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Muat turun">
