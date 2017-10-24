@@ -10,7 +10,7 @@
 <!ENTITY filterMenuList.accesskey   "l">
 <!ENTITY name.label             "Nama">
 <!ENTITY size.label             "Saiz">
-<!ENTITY lastModified.label     "Selepas pengubahsuaian">
+<!ENTITY lastModified.label     "Terakhir Diubah">
 <!ENTITY showHiddenFiles.label  "Papar fail dan direktori tersorok">
 <!ENTITY showHiddenFiles.accesskey  "S">
 

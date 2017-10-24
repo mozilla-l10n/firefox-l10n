@@ -83,7 +83,7 @@
 <!ENTITY col.visitcount.label    "Bilangan Lawatan">
 <!ENTITY col.description.label   "Keterangan">
 <!ENTITY col.dateadded.label     "Ditambah">
-<!ENTITY col.lastmodified.label  "Penyesuaian Terakhir">
+<!ENTITY col.lastmodified.label  "Terakhir Diubah">
 
 <!ENTITY historySearch.placeholder  "Sejarah carian">
 <!ENTITY bookmarksSearch.placeholder  "Cari tandabuku">
