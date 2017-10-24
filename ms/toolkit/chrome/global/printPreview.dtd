@@ -37,7 +37,7 @@
 <!ENTITY simplifyPage.enabled.tooltip  "Tukar susun atur untuk pembacaan mudah">
 <!ENTITY simplifyPage.disabled.tooltip "Laman ini tidak dapat dipermudahkan secara automatik">
 
-<!ENTITY homearrow.tooltip    "Laman Pertama">
+<!ENTITY homearrow.tooltip    "Halaman pertama">
 <!ENTITY endarrow.tooltip     "Halaman terakhir">
 <!ENTITY nextarrow.tooltip    "Halaman berikut">
 <!ENTITY previousarrow.tooltip "Halaman dahulu">

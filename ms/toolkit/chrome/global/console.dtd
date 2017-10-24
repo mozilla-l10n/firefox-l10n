@@ -28,7 +28,7 @@
 <!ENTITY copyCmd.label       "Salin">  
 <!ENTITY copyCmd.accesskey   "a"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-<!ENTITY sortFirst.label     "Pertama > Tertib Susunan Terkhir">
+<!ENTITY sortFirst.label     "Tertib Susunan Pertama > Terakhir">
 <!ENTITY sortFirst.accesskey "h">
 <!ENTITY sortLast.label      "Tertib Susunan Terakhir > Pertama">
 <!ENTITY sortLast.accesskey  "s">

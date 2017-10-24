@@ -7,7 +7,7 @@
 <!ENTITY center.label               "Tengah">
 <!ENTITY stretch.label              "Regangkan">
 <!ENTITY fill.label                 "Penuhkan">
-<!ENTITY fit.label                  "Muatkan">
+<!ENTITY fit.label                  "Muat">
 <!ENTITY preview.label              "Previu">
 <!ENTITY color.label                "Warna:">
 <!ENTITY setDesktopBackground.title "Set Latar belakang Desktop">
