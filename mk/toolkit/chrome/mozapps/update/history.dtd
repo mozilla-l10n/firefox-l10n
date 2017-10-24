@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Историја на надградби">
-<!ENTITY  history.intro             "До сега инсталирани се следниве надградби:">
+<!ENTITY  history2.intro            "Инсталирани се следниве надградби">
 <!ENTITY  closebutton.label         "Затвори">
-                                     
+
 <!ENTITY  noupdates.label           "Сè уште не се инсталирани никакви надградби">
 
 <!ENTITY  name.header               "Име на надградба">
