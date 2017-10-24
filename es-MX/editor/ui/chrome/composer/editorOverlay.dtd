@@ -22,6 +22,8 @@
 
 
 <!-- Font Style SubMenu -->
+<!ENTITY styleNonbreakingCmd.label "Sin salto de línea">
+<!ENTITY styleCode.label "Código">
 
 
 
