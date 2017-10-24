@@ -35,18 +35,18 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 <!ENTITY translation.translatedFrom.label       "Asebtar-a yettusuqel-d seg">
-<!ENTITY translation.translatedTo.label         "to">
+<!ENTITY translation.translatedTo.label         "ar">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Sken asebter aneẓli">
 <!ENTITY translation.showTranslation.button     "Sken tasuqilt">
 
 <!ENTITY translation.errorTranslating.label     "Tuccḍa deg tsuqilt n usebter-a.">
-<!ENTITY translation.tryAgain.button            "Ɛreḍ i tikelt nniḍen">
+<!ENTITY translation.tryAgain.button            "Ɛreḍ i tikelt-nniḍen">
 
 <!ENTITY translation.serviceUnavailable.label   "Ameẓlu n tsulqilt ulac-itt. Ɛreḍ ticki.">
 
-<!ENTITY translation.options.menu               "Iγewwaṛen">
+<!ENTITY translation.options.menu               "Iɣewwaṛen">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for
