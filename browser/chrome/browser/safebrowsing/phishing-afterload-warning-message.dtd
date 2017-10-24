@@ -58,5 +58,7 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; આ પૃષ્ઠને અવરોધિત કર્યું કારણ કે તે જોખમી એપ્લિકેશનોને ઇન્સ્ટોલ કરવાનો પ્રયાસ કરી શકે છે કે જે તમારી માહિતી ચોરી શકે છે અથવા કાઢી શકે છે (ઉદાહરણ તરીકે, ફોટા, પાસવર્ડ્સ, સંદેશા અને ક્રેડિટ કાર્ડ્સ).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> એ <a id='error_desc_link'>સંભવિત રૂપે નુકસાનકારક એપ્લિકેશન ધરાવતી હોવાના અહેવાલ</a>. તમે <a id='ignore_warning_link'>જોખમને અવગણો</a> અને આ અસુરક્ષિત સાઇટ પર જઈ શકો છો.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> એ <a id='error_desc_link'>સંભવિત રૂપે નુકસાનકારક એપ્લિકેશન ધરાવતી હોવાના અહેવાલ છે</a>.">
 
