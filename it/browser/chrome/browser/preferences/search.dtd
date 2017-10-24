@@ -4,7 +4,7 @@
 
 <!ENTITY searchBar.label "Barra di ricerca">
 <!ENTITY searchBar.hidden.label "Utilizza la barra degli indirizzi per ricerche e navigazione">
-<!ENTITY searchBar.shown.label "Aggiungi barra di ricerca alla barra degli strumenti">
+<!ENTITY searchBar.shown.label "Aggiungi la barra di ricerca alla barra degli strumenti">
 <!ENTITY defaultSearchEngine.label "Motore di ricerca predefinito">
 <!ENTITY chooseYourDefaultSearchEngine2.label "Seleziona il motore di ricerca predefinito da utilizzare nella barra degli indirizzi e nella barra di ricerca.">
 <!ENTITY provideSearchSuggestions.label "Visualizza suggerimenti di ricerca">
