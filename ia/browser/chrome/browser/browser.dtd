@@ -31,7 +31,7 @@ a tab (i.e. it is a verb, not adjective). -->
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Clauder le schedas a dextera">
-<!ENTITY  closeTabsToTheEnd.accesskey        "d">
+<!ENTITY  closeTabsToTheEnd.accesskey        "h">
 <!ENTITY  closeOtherTabs.label               "Clauder le altere schedas">
 <!ENTITY  closeOtherTabs.accesskey           "l">
 
@@ -45,7 +45,7 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Disclavar le scheda">
 <!ENTITY  unpinTab.accesskey                 "C">
 <!ENTITY  sendTabToDevice.label              "Inviar le scheda a un apparato">
-<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendTabToDevice.accesskey          "I">
 <!ENTITY  sendPageToDevice.label             "Inviar le pagina a un apparato">
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Inviar le ligamine a un apparato">
@@ -58,7 +58,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "Reaperir le ultime scheda claudite">
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Clauder le scheda">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "Listar tote le schedas">
 
