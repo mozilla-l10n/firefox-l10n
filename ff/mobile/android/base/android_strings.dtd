@@ -279,7 +279,7 @@
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-<!ENTITY custom_tabs_menu_item_open_in "Uddit nder &brandShortName;">
+<!ENTITY custom_tabs_menu_item_open_in "Uddit nder &formatS;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!ENTITY pref_pwa_summary "Yamir jaaɓnirɗe geese ɓeydee e jaɓɓorgo maa">
