@@ -5,6 +5,6 @@
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Log masuk">
-<!ENTITY aboutLogins.update                      "Mengemaskini">
+<!ENTITY aboutLogins.update                      "Kemaskini">
 <!ENTITY aboutLogins.emptyLoginText              "Pastikan log masuk anda selamat">
 <!ENTITY aboutLogins.emptyLoginHint              "Log masuk dan kelayakan yang anda simpan menggunakan &brandShortName; akan dipaparkan di sini.">
