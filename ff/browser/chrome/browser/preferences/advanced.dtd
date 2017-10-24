@@ -90,7 +90,9 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplication.version.pre   "Yamre">
+<!ENTITY updateApplicationDescription.label
+                                         "Hesɗitin &brandShortName; ngam jaawgol golle dowrowol, jamɗugol e kisal.">
+<!ENTITY updateApplication.version.pre   "Yamre ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Yamir &brandShortName; to">
 <!ENTITY updateCheckChoose2.label        "Yuurnito kesɗitine, kono woppu am mi suɓoo aafat ɗe">
