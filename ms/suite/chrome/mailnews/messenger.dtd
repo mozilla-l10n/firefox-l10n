@@ -142,7 +142,7 @@
 <!ENTITY sortByDateCmd.accesskey "a">
 <!ENTITY sortByReceivedCmd.label "Diterima">
 <!ENTITY sortByReceivedCmd.accesskey "e">
-<!ENTITY sortByFlagCmd.label "Ditanda">
+<!ENTITY sortByFlagCmd.label "Tanda">
 <!ENTITY sortByFlagCmd.accesskey "d">
 <!ENTITY sortByPriorityCmd.label "Prioriti">
 <!ENTITY sortByPriorityCmd.accesskey "P">
