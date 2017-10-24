@@ -28,7 +28,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Formulir &amp; Sandi">
 
-<!ENTITY  rememberLogins2.label         "Ingat log masuk dan sandi untuk situs web">
+<!ENTITY  rememberLogins2.label         "Ingat info masuk dan sandi untuk situs web">
 <!ENTITY  rememberLogins2.accesskey     "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "c">
@@ -38,5 +38,5 @@
 <!ENTITY  changeMasterPassword.label     "Ubah Sandi Utama…">
 <!ENTITY  changeMasterPassword.accesskey "U">
 
-<!ENTITY  savedLogins.label              "Log Masuk Tersimpan…">
+<!ENTITY  savedLogins.label              "Info Masuk Tersimpan…">
 <!ENTITY  savedLogins.accesskey          "I">
