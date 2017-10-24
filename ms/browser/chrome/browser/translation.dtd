@@ -42,7 +42,7 @@
 <!ENTITY translation.showTranslation.button     "Papar Terjemahan">
 
 <!ENTITY translation.errorTranslating.label     "Berlaku ralat dalam menterjemahkan halaman ini.">
-<!ENTITY translation.tryAgain.button            "Cuba Semula">
+<!ENTITY translation.tryAgain.button            "Cuba Lagi">
 
 <!ENTITY translation.serviceUnavailable.label   "Terjemahan tidak tersedia pada masa ini. Sila cuba lagi kemudian.">
 
