@@ -95,6 +95,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Yamre ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Yamir &brandShortName; to">
+<!ENTITY updateAuto3.label               "Aafande hoore mum kesɗitine (ina wasiyaa)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Yuurnito kesɗitine, kono woppu am mi suɓoo aafat ɗe">
 <!ENTITY updateCheckChoose2.accesskey    "Y">
 <!ENTITY updateManual2.label             "Hoto yuurnito kesɗitine (wasiyaaka)">
@@ -127,6 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "Y">
 <!ENTITY enableOCSP.label                "Ɗaɓɓitere OCSP carworɗe jaaborɗe ena teeŋtina moƴƴugol seedamfaaje">
 <!ENTITY enableOCSP.accesskey            "Ɗ">
+<!ENTITY viewCerts2.label                "Yiy Seedamfaaji…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Masiŋon Kisal…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Jaawgol golle ">
 <!ENTITY useRecommendedPerformanceSettings2.label
