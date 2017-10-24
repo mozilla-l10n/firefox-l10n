@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Impression digital SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Impression digital SHA1">
 
-<!ENTITY certmgr.editcacert.title             "Editar le parametros de confidentia del CA">
-<!ENTITY certmgr.editcert.edittrust           "Rediger le definitiones de confidentialitate:">
+<!ENTITY certmgr.editcacert.title             "Modificar le parametros de confidentia del CA">
+<!ENTITY certmgr.editcert.edittrust           "Modificar le parametros de confidentialitate:">
 <!ENTITY certmgr.editcert.trustssl            "Iste certificato pote identificar sitos web.">
 <!ENTITY certmgr.editcert.trustemail          "Iste certificato pote identificar usatores de email.">
 <!ENTITY certmgr.editcert.trustobjsign        "Iste certificato pote identificar developpatores de software.">
@@ -55,7 +55,7 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Vider…">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit3.label                  "Editar le confidentia…">
+<!ENTITY certmgr.edit3.label                  "Modificar le confidentia…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.export.label                 "Exportar…">
 <!ENTITY certmgr.export.accesskey             "x">

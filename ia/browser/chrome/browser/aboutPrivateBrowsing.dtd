@@ -18,7 +18,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "salvara">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " tu:">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "discargas">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "discargamentos">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcapaginas">
 <!ENTITY aboutPrivateBrowsing.note.before                "Navigation private ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "non te rende anonyme">
@@ -28,5 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Protection contra le traciamento">
-<!ENTITY trackingProtection.description2                 "Alcun sitos web usa traciatores que pote monitorar tu activitate per Internet. Con le protection contra le traciamento, Firefox blocara multe traciatores que poterea colliger informationes de tu comportamento al navigar.">
+<!ENTITY trackingProtection.description2                 "Alcun sitos web usa traciatores que pote surveliar tu activitate per Internet. Con le protection contra le traciamento, Firefox blocara multe traciatores que poterea colliger informationes de tu comportamento al navigar.">
 <!ENTITY trackingProtection.startTour1                   "Vider como functiona">

@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Chronologia">
 <!ENTITY dataSection.label            "Datos">
 
-<!ENTITY itemHistoryAndDownloads.label     "Chronologia de navigation e de discargas">
+<!ENTITY itemHistoryAndDownloads.label     "Chronologia de navigation e de discargamentos">
 <!ENTITY itemHistoryAndDownloads.accesskey "C">
 <!ENTITY itemFormSearchHistory.label       "Chronologia de recercas e formularios">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

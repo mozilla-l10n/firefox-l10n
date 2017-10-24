@@ -55,8 +55,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "f">
 <!ENTITY  bookmarkAllTabs.label              "Adder marcapaginas sur tote le schedas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "m">
-<!ENTITY  undoCloseTab.label                 "Reaperir le scheda claudite">
-<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  undoCloseTab.label                 "Reaperir le ultime scheda claudite">
+<!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Clauder le scheda">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -94,8 +94,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Adder marcapaginas sur tote le schedas…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Reaperir le scheda claudite">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Reaperir le ultime scheda claudite">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
 <!ENTITY pageSourceCmd.label "Codice fonte del pagina">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Marcapaginas">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Adder un marcapaginas">
-<!ENTITY editThisBookmarkCmd.label "Editar iste marcapaginas">
+<!ENTITY editThisBookmarkCmd.label "Modificar iste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Subscriber se a iste pagina">
@@ -267,10 +267,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Adder un parola clave pro iste recerca…">
 <!ENTITY keywordfield.accesskey       "p">
 
-<!ENTITY downloads.label              "Discargas">
+<!ENTITY downloads.label              "Discargamentos">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
-<!ENTITY libraryDownloads.label       "Discargas">
+<!ENTITY libraryDownloads.label       "Discargamentos">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -622,10 +622,10 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Tacer">
-<!ENTITY mediaMute.accesskey         "T">
-<!ENTITY mediaUnmute.label           "Non plus tacer">
-<!ENTITY mediaUnmute.accesskey       "t">
+<!ENTITY mediaMute.label             "Silentiar">
+<!ENTITY mediaMute.accesskey         "S">
+<!ENTITY mediaUnmute.label           "Non plus silentiar">
+<!ENTITY mediaUnmute.accesskey       "s">
 <!ENTITY mediaPlaybackRate2.label     "Velocitate de lectura">
 <!ENTITY mediaPlaybackRate2.accesskey "V">
 <!ENTITY mediaPlaybackRate050x2.label "Lente (0,5×)">
@@ -721,8 +721,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Editar le preferentias del blocator de fenestras emergente…">
-<!ENTITY editPopupSettings.label "Editar le optiones del blocator de fenestras emergente…">
+<!ENTITY editPopupSettingsUnix.label "Modificar le preferentias del blocator de fenestras emergente…">
+<!ENTITY editPopupSettings.label "Modificar le optiones del blocator de fenestras emergente…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -909,7 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Premitter ora">
+<!ENTITY pluginActivateNow.label "Permitter ora">
 <!ENTITY pluginActivateAlways.label "Permitter sempre">
 <!ENTITY pluginBlockNow.label "Blocar le plugin">
 
@@ -959,7 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Discargar actualisation de &brandShorterName;">
 
-<!ENTITY updateManual.message "Discarga un nove copia de &brandShorterName; e nos te adjutara installar lo.">
+<!ENTITY updateManual.message "Discarga un nove copia de &brandShorterName; e nos te adjutara a installar lo.">
 <!ENTITY updateManual.whatsnew.label "Vider le novas.">
 <!ENTITY updateManual.header.message "&brandShorterName; non pote actualisar al ultime version.">
 <!ENTITY updateManual.acceptButton.label "Discargar &brandShorterName;">
