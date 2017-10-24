@@ -146,7 +146,7 @@ available. -->
                                          "Saper plus">
 <!ENTITY limitContentProcessOption.label "Limite de processos de contento">
 <!ENTITY limitContentProcessOption.description
-                                         "Processos de contento additional pote meliorar le rendimento quando uno utilisa multiple schedas. ma tamben usara plus memoria.">
+                                         "Plus processos de contento pote meliorar le rendimento quando on usa plure schedas. ma tamben illos usa plus memoria.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Modificar le numero de processos de contento es solmente possibile con &brandShortName; in multiprocesso.">

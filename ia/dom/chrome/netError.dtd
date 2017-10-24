@@ -29,7 +29,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Illo pote haber essite, removite, movite, o le permissiones del file impedi le accesso.</li></ul>">
 
 <!ENTITY generic.title "Impossibile completar le requesta">
-<!ENTITY generic.longDesc "<p>Nulle information additional actualmente disponibile.</p>">
+<!ENTITY generic.longDesc "<p>Nulle altere information sur iste problema o error es disponibile actualmente.</p>">
 
 <!ENTITY malformedURI.title "Adresse non valide">
 <!ENTITY malformedURI.longDesc "<p>Le adresse providite non es in un formato recognoscite. Per favor verifica le barra de adresse pro errores e retenta.</p>">
