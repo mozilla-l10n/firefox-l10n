@@ -172,10 +172,10 @@ sementara, dan anda boleh cuba lagi nanti.</li>
 ">
 
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang halaman ini daripada dipaparkan kerana ada kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang halaman ini daripada dimuatkan kerana ada kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Ralat Kandungan Rosak">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang anda cuba untuk lihat tidak dapat dipamer kerana ada kesilapan dalam penghantaran data telah dikesan.</p><ul><li>Sila hubungi pemilik tapak web ini untuk memaklumkannya mengenai masalah ini.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Halaman yang anda cuba lihat tidak dapat dipaparkan kerana ada ralat dalam transmisi data.</p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Keluarkan saya dari sini!">
@@ -209,4 +209,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Sambungan internet anda tidak selamat">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keselamatan yang usang dan rentan kepada serangan. Penyerang dengan mudah mendedahkan maklumat yang anda fikir selamat. Pentadbir laman web perlu membaiki pelayan terlebih dahulu sebelum anda boleh melawat laman ini.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keselamatan yang usang dan terdedah kepada serangan. Penyerang dengan mudah boleh mendedahkan maklumat yang anda fikir selamat. Pentadbir laman web perlu membaiki pelayan terlebih dahulu sebelum anda boleh melawat laman ini.</p><p>Kod ralat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
