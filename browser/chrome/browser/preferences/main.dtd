@@ -35,7 +35,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Selalu periksa apakah &brandShortName; adalah peramban baku Anda">
 <!ENTITY alwaysCheckDefault2.accesskey    "S">
-<!ENTITY setAsMyDefaultBrowser3.label     "Jadikan Utama…">
+<!ENTITY setAsMyDefaultBrowser3.label     "Jadikan Baku…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "U">
 <!ENTITY isDefault.label                  "&brandShortName; adalah peramban baku Anda">
 <!ENTITY isNotDefault.label               "&brandShortName; bukan peramban baku Anda">

@@ -64,7 +64,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "L">
 
 <!ENTITY signedOut.caption            "Bawalah Web bersama Anda">
-<!ENTITY signedOut.description        "Sinkronkan markah, riwayat, tab, sandi, pengaya, dan preferensi di berbagai perangkat Anda.">
+<!ENTITY signedOut.description        "Sinkronkan markah, riwayat, tab, sandi, pengaya, dan preferensi di berbagai peranti Anda.">
 <!ENTITY signedOut.accountBox.title   "Sambungkan dengan &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create2 "Tidak punya akun? Buatlah">
 <!ENTITY signedOut.accountBox.create2.accesskey "B">
@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin2.accesskey "M">
 
 <!ENTITY signedIn.settings.label       "Pengaturan Sinkronisasi">
-<!ENTITY signedIn.settings.description "Pilih apa saja yang akan disinkronkan pada perangkat Anda yang menggunakan &brandShortName;.">
+<!ENTITY signedIn.settings.description "Pilih apa saja yang akan disinkronkan pada peranti Anda yang menggunakan &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
