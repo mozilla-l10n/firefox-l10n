@@ -135,7 +135,7 @@
 <!ENTITY checkSpellingCmd2.accesskey "j">
 <!ENTITY enableInlineSpellChecker.label "Semak ejaan Semasa Menaip">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY quoteCmd.label "Petikan Mesej">
+<!ENTITY quoteCmd.label "Mesej Petikan">
 <!ENTITY quoteCmd.accesskey "P">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
