@@ -36,7 +36,7 @@
 <!ENTITY tableCaptionNone.label           "Tiada">
 <!ENTITY tableInheritColor.label           "(Biarkan warna halaman telus)">
 
-<!ENTITY cellSelection.label              "Pilihan">
+<!ENTITY cellSelection.label              "Pemilihan">
 <!ENTITY cellSelectCell.label             "Sel">
 <!ENTITY cellSelectRow.label              "Baris">
 <!ENTITY cellSelectColumn.label           "Lajur">

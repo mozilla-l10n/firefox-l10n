@@ -8,7 +8,7 @@
 <!ENTITY serverDirectory.accesskey "i">
 <!ENTITY usingSubscription.label "Papar folder yang dilanggan sahaja">
 <!ENTITY usingSubscription.accesskey "p">
-<!ENTITY dualUseFolders.label "Folder sokongan pelayan yang mengandungi subfolder dan mesej">
+<!ENTITY dualUseFolders.label "Folder sokongan pelayan yang mengandungi sub-folder dan mesej">
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "Bilangan cache maksimum sambungan pelayan">
 <!ENTITY maximumConnectionsNumber.accesskey "B">

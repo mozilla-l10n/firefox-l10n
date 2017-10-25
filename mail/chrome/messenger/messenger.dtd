@@ -478,7 +478,7 @@
 <!ENTITY filtersApply.accesskey "T">
 <!ENTITY filtersApplyToSelection.label "Laksanakan Penapis pada Mesej Dipilih">
 <!ENTITY filtersApplyToSelection.accesskey "p">
-<!ENTITY filtersApplyToMessage.label "Tapis Mesej">
+<!ENTITY filtersApplyToMessage.label "Laksanakan Penapis pada Mesej">
 <!ENTITY filtersApplyToMessage.accesskey "j">
 <!ENTITY runJunkControls.label "Kawal Mel Remeh dalam Folder">
 <!ENTITY runJunkControls.accesskey "K">
