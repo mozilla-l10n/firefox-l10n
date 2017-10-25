@@ -3,6 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "આપનું સ્વાગત છે">
+<!ENTITY firstrun_urlbar_message2 "પસંદ કરવા માટે આભાર &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Mozilla ના આધુનિક મોબાઇલ બ્રાઉઝર, બિન નફાકારક એક મફત અને ખુલ્લા વેબ માટે પ્રતિબદ્ધ છે.">
+<!ENTITY firstrun_panel_title_privacy "ખાનગીપણું">
+<!ENTITY firstrun_privacy_message "કોઈ નથી જોતું એ રીતે બ્રાઉઝ કરો">
+<!ENTITY firstrun_privacy_subtext "ટ્રેકિંગ પ્રોટેક્શન સાથે ખાનગી બ્રાઉઝિંગ બ્લોકો ટ્રેકર્સ જ્યારે તમે બ્રાઉઝ કરો છો અને જ્યારે તમે બ્રાઉઝિંગ સમાપ્ત કરો છો ત્યારે તમારો ઇતિહાસ યાદ રાખશે નહીં.">
+<!ENTITY firstrun_panel_title_customize "વૈવિધ્યપૂર્ણ બનાવો">
+<!ENTITY firstrun_customize_message "તમારા પોતાના &brandShortName; બનાવો.">
+<!ENTITY firstrun_customize_subtext "વૈવિધ્યપૂર્ણ કરો &brandShortName; એડ-ઑન્સ સાથે. જાહેરાતોને અવરોધિત કરો, સુવિધાઓને ઉમેરો અથવા તમારા વ્યક્તિત્વને પ્રતિબિંબિત કરવા માટે એક નવી થીમ પસંદ કરો.">
 <!ENTITY firstrun_bookmarks_title "ઇતિહાસ">
 <!ENTITY firstrun_bookmarks_message "તમારી faves, આગળ અને કેન્દ્ર">
 <!ENTITY firstrun_bookmarks_subtext "જ્યારે તમે શોધ કરો ત્યારે તમારા બુકમાર્ક્સ અને ઇતિહાસ માંથી પરિણામો મેળવો.">
@@ -10,6 +18,8 @@
 <!ENTITY firstrun_data_message "ઓછી માહિતી, વધુ બચત">
 <!ENTITY firstrun_data_subtext2 "દરેક સાઇટ જેની તમે મુલાકાત લો છો તેના પર ડેટા નો વપરાશ ઓછો કરવા છબીઓ બંધ કરો.">
 <!ENTITY firstrun_sync_title "સમન્વય">
+<!ENTITY firstrun_sync_message2 "જ્યાં તમે છોડી દીધું ત્યાંથી શરૂ કરવું.">
+<!ENTITY firstrun_sync_subtext2 "બુકમાર્ક્સ, પાસવર્ડ્સ અને તમે જે વસ્તુઓને સંગ્રહો છો તેને શોધવા માટે સમન્વયનનો ઉપયોગ કરો &brandShortName; તમારા બધા ઉપકરણો પર.">
 <!ENTITY firstrun_signin_message "જોડે મળી, પ્રારંભ કરો">
 <!ENTITY firstrun_signin_button "સમન્વયન માટે સાઇન ઇન કરો">
 <!ENTITY  onboard_start_button_browser "બ્રાઉઝ શરૂ કરો">
@@ -194,8 +204,6 @@
      “storing data”. -->
 <!ENTITY pref_category_notifications "સૂચનાઓ">
 <!ENTITY pref_category_notifications_summary "નવી સુવિધાઓ, વેબસાઇટ અપડેટ્સ">
-<!ENTITY pref_content_notifications "વેબસાઇટ સુધારાઓ">
-<!ENTITY pref_content_notifications_summary2 "સમર્થિત સાઇટ્સમાંથી નવી સામગ્રી શોધો">
 <!ENTITY pref_developer_remotedebugging_usb "દૂરસ્થ ડિબગીંગ USB દ્વારા">
 <!ENTITY pref_developer_remotedebugging_wifi "દૂરસ્થ ડિબગીંગ વાય ફાઇ દ્વારા">
 <!ENTITY pref_remember_signons2 "પ્રવેશો યાદ રાખો">
@@ -258,7 +266,6 @@
 <!ENTITY pref_show_web_fonts "વેબ ફોન્ટ્સ બતાવો">
 
 <!ENTITY pref_tracking_protection_title2 "ટ્રેકિંગ પ્રોટેક્શન">
-<!ENTITY pref_tracking_protection_summary3 "ખાનગી બ્રાઉઝિંગ સક્ષમ કરો">
 <!ENTITY pref_donottrack_title "ટ્રૅક કરશો નહીં">
 
 <!ENTITY pref_tracking_protection_enabled "સક્ષમ કરેલું">
@@ -272,10 +279,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "પ્રાયોગિક સુવિધાઓ">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "કસ્ટમ ટૅબ્સ">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "ખોલો &formatS;">
@@ -308,20 +311,6 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "સેટિંગ્સ">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "હમણાં વાંચો">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
 
 <!ENTITY pref_char_encoding "અક્ષર સંગ્રહપદ્ધતિ">
 <!ENTITY pref_char_encoding_on "મેનુ બતાવો">
@@ -472,7 +461,13 @@
 <!ENTITY contextmenu_top_sites_edit "ફેરફાર">
 <!ENTITY contextmenu_top_sites_pin "સાઇટ પીન કરો">
 <!ENTITY contextmenu_top_sites_unpin "સાઇટની પીન દૂર કરો">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "શોધ યંત્ર ઉમેરો">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -781,6 +776,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "હાઇલાઇટ્સ">
 
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_bookmarked "બુકમાર્ક કરેલ">
@@ -788,13 +785,11 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "જોવામા આવેલ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "ઇતિહાસમાંથી દૂર કરો">
-
-<!ENTITY activity_stream_welcome_title "તમારા હાઈલાઈટ્સ પર આપનું સ્વાગત છે">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; હવે વસ્તુઓ તમે વેબ પર શોધ્યું છે તે હાઇલાઇટ્સ બનાવે છે, જેથી તમે મહાન લેખો, વિડિઓઝ, બુકમાર્ક્સ અને અન્ય પૃષ્ઠો પર પાછા તમારી રીતે શોધી શકો છો.">
 
 
