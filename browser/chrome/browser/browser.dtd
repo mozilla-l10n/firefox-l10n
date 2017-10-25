@@ -934,6 +934,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ಈಗ ಬೇಡ">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "&brandShortName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ನವೀಕರಿಸಿ">
 
 <!ENTITY updateManual.whatsnew.label "ಹೊಸತೇನಿದೆಯೆಂದು ನೋಡಿ.">
 <!ENTITY updateManual.acceptButton.label "&brandShorterName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ">
@@ -943,6 +944,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "ಹೊಸ &brandShorterName; ಅನ್ನು ಡೌನ್ಲೋಡ್‍ಮಾಡಿ">
 
 <!ENTITY updateRestart.header.message2 "&brandShorterName; ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಪುನಃ ಪ್ರಾರಂಭಿಸಿ.">
+<!ENTITY updateRestart.acceptButton.label "ಮರುಪ್ರಾರಂಭಿಸಿ ಮತ್ತು ಪುನಃಸ್ಥಾಪಿಸಿ">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ಈಗ ಬೇಡ">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
