@@ -9,3 +9,7 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "Reemplazar con:">
 <!ENTITY replaceField.accesskey "e">
+<!ENTITY caseSensitiveCheckbox.label "Correspondencia exacta de mayúsculas y minúsculas">
+<!ENTITY caseSensitiveCheckbox.accesskey "M">
+<!ENTITY wrapCheckbox.label "Envolver">
+<!ENTITY wrapCheckbox.accesskey "W">
