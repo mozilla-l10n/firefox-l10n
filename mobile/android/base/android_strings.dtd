@@ -3,6 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "On njaɓɓaama">
+<!ENTITY firstrun_urlbar_message2 "A jaaraama ko cuɓi-ɗaa &brandShortName; koo">
+<!ENTITY firstrun_urlbar_subtext2 "Wanngorde cinndel Mozilla hesere, nde wonaa julorteende, heƴnde e geese ɗe njoɓetaake, udditiiɗe.">
+<!ENTITY firstrun_panel_title_privacy "Suturo">
+<!ENTITY firstrun_privacy_message "Yillo ɗo hay gooto yiyataa ma">
+<!ENTITY firstrun_panel_title_customize "Heertin">
+<!ENTITY firstrun_customize_message "Waɗtu &brandShortName; nde maa.">
 <!ENTITY firstrun_bookmarks_title "Aslol">
 <!ENTITY firstrun_bookmarks_message "Cuɓaaɗe maa, yeeso e hakkunde">
 <!ENTITY firstrun_bookmarks_subtext "Heɓ njaltudi iwndi e maantore e aslol maa so aɗa yiyloo.">
@@ -372,7 +378,9 @@
 <!ENTITY pref_dialog_set_default "Waɗtu goowaaɗo">
 <!ENTITY pref_dialog_default "Goowaaɗo">
 <!ENTITY pref_dialog_remove "Momtu">
+<!ENTITY pref_dialog_activitystream_header_content "Loowdi ɓeydaandi">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Maante ɗerewol kese">
+<!ENTITY pref_dialog_activitystream_visited "Jillaaɗe">
 
 <!ENTITY pref_search_last_toast "A waawaa momtude walla daaƴde yiilorde maa sakkitiinde.">
 
@@ -463,6 +471,7 @@
 <!ENTITY contextmenu_open_private_tab "Uddit e Henorde Suuriinde">
 <!ENTITY contextmenu_remove "Momtu">
 <!ENTITY contextmenu_add_to_launcher "Ɓeydu to Hello Jaɓɓorgo">
+<!ENTITY contextmenu_set_as_homepage "Waɗtu Jaɓɓorgo">
 <!ENTITY contextmenu_share "Lollin">
 <!ENTITY contextmenu_pasteandgo "Ɗakku Njahaa">
 <!ENTITY contextmenu_paste "Ɗakku">
