@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Ɓeyditte">
 <!ENTITY engine.addons.accesskey    "Ɓ">
+<!ENTITY engine.addresses.label     "Ñiiɓirɗe">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Karte banke">
+<!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Innde Kaɓirgol">
@@ -51,6 +55,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Waylu natal heftinirde">
 <!ENTITY verifiedManage.label        "Toppito konte">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect3.label           "Seŋtondir…">
 <!ENTITY disconnect3.accesskey       "d">
 <!ENTITY verify.label                "Ƴeewto Iimeel">
@@ -61,6 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Nawor Geesa Maa">
 <!ENTITY signedOut.description        "Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.">
 <!ENTITY signedOut.accountBox.title   "Seŋoro &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "A alaa konte? Fuɗɗo jooni">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Seŋo…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Yahdin teelte">
 <!ENTITY signedIn.settings.description "Suɓo ko pot-ɗaa yahdinde nder masiŋon maa kuutortookon &brandShortName;.">
