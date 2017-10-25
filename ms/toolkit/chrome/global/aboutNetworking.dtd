@@ -48,7 +48,7 @@
 <!ENTITY aboutNetworking.totalNetworkRequests  "Jumlah bilangan permintaan rangkaian">
 <!ENTITY aboutNetworking.rcwnOperation         "Operasi Cache">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Buka">
-<!ENTITY aboutNetworking.rcwnPerfRead          "Baca">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Dibaca">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Tulis">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entri Terbuka">
 <!ENTITY aboutNetworking.rcwnAvgShort          "Purata Pendek">

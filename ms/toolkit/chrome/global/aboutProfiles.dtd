@@ -6,5 +6,5 @@
 <!ENTITY aboutProfiles.subtitle "Halaman ini membantu anda untuk menguruskan profil. Setiap profil adalah entiti berbeza yang mengandungi perkataan, sejarah, penanda buku, tetapan dan add-ons yang berasingan.">
 <!ENTITY aboutProfiles.create "Cipta Profil Baru">
 <!ENTITY aboutProfiles.restart.title "Mula semula">
-<!ENTITY aboutProfiles.restart.inSafeMode "Mula semula dengan Add-ons Dinyahdaya…">
+<!ENTITY aboutProfiles.restart.inSafeMode "Mula semula dengan Add-ons Dinyahdayakan…">
 <!ENTITY aboutProfiles.restart.normal "Mula semula secara normal…">
