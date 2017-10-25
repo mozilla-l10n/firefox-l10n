@@ -24,7 +24,7 @@
 <!ENTITY getThemes.learnMore                  "Pilih satu daripada ribuan tema yang disediakan.">
 
 <!ENTITY cmd.back.tooltip                     "Undur satu halaman">
-<!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
+<!ENTITY cmd.forward.tooltip                  "Langkau satu halaman">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Beberapa ekstensi tidak dapat disahkan">

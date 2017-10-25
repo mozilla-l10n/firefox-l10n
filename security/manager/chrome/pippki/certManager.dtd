@@ -24,7 +24,7 @@
 <!ENTITY certmgr.pending.label                "Sijil sedang disahkan...">
 <!ENTITY certmgr.subjectinfo.label            "Dikeluarkan Untuk">
 <!ENTITY certmgr.issuerinfo.label             "Dikeluarkan Oleh">
-<!ENTITY certmgr.periodofvalidity.label       "Tempoh Sahlaku" >
+<!ENTITY certmgr.periodofvalidity.label       "Tempoh Sah" >
 <!ENTITY certmgr.fingerprints.label           "Cap-jari">
 <!ENTITY certmgr.certdetail.title             "Perincian Sijil">
 <!ENTITY certmgr.certdetail.cn                "Nama Biasa (CN)">
