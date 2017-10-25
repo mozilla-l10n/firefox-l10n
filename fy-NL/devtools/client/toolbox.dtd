@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Debugger">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Boarneferwizingen ynskeakelje">
-<!ENTITY options.sourceMaps.tooltip    "As jo dizze opsje ynskeakelje, sille boarnen yn de debugger en konsôle ferwize wurde.">
+<!ENTITY options.sourceMaps.tooltip1   "As jo dizze opsje ynskeakelje, sille boarnen yn de helpmiddelen tawizen wurde.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Stylbewurker">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Orizjinele boarne toane">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Orizjinele boarne toane (byg. Sass-bestannen) yn de Stylbewurker en Ynspektor">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Lit kamerasluterlûd hearre">
 <!ENTITY options.screenshot.audio.tooltip    "Skeakelet it kameralûd yn as jo in skermôfbylding meitsje">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Netwurk">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Oanhâldende registraasjes ynskeakelje">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "As jo dizze opsje ynskeakelje, sil de Netwurkmonitor de útfier net elke kear wiskje as jo nei in nije side gean">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
