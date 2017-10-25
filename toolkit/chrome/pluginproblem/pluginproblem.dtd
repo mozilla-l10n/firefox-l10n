@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "Ndee lowre ine huutoroo seŋre waawnde leeltinde &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Tappu ɗoo ngam daaƴtude seŋre.">
 <!ENTITY clickToActivatePlugin                               "Hurmin seŋre.">
 <!ENTITY checkForUpdates                                     "Yuurno kesɗitine…">
@@ -29,3 +30,4 @@
 <!ENTITY plugin.file                                         "Fiilde">
 <!ENTITY plugin.mimeTypes                                    "Fannuuji MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Hurmin mbayka kisnal Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Falo loowdi Flash mbonndi e puuntoori">
