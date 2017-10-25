@@ -12,7 +12,7 @@
 <!ENTITY preferencesCmd.label           "Keutamaan…">
 <!ENTITY preferencesCmd.key             ",">
 <!ENTITY preferencesCmd.modifiers       "accel">
-<!ENTITY servicesMenu.label             "Servis">
+<!ENTITY servicesMenu.label             "Perkhidmatan">
 <!ENTITY hideThisAppCmd.label           "Sorok &brandShortName;">
 <!ENTITY hideThisAppCmd.key             "H">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
