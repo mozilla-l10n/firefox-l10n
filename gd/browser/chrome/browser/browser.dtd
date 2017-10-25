@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Stiùirich na h-uidheaman…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Seall bàr-taoibh nan tabaichean sioncronaichte">
 
+<!ENTITY appMenuRecentHighlights.label "Sàr-roghainn o chionn goirid">
 
 <!ENTITY customizeMenu.addToToolbar.label "Cuir ris a' bhàr-inneal">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -981,8 +982,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Cuir an taba gu uidheam">
 <!ENTITY sendToDevice.syncNotReady.label "A’ sioncronachadh nan uidheam...">
 
+<!ENTITY libraryButton.tooltip "Seall air an eachdraidh, comharran-lìn a shàbhail thu ’s mòran a bharrachd">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Tha gleusan na so-inntrigeachd an comas">
