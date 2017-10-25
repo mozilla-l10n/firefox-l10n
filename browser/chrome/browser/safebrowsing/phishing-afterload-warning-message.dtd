@@ -31,6 +31,8 @@
 <!ENTITY safeb.blocked.malwarePage.learnMore "Ɓeydu humpitobaɗte lowdi geese mbonnoori kañum e mborocce e mbonnanteeri ngoɗndi e hol no ndeenirtaa ordinateer maa ɗo <a id='learn_more_link'> StopBadware.org</a>. Ɗeydu humpito baɗte &brandShortName; jogaade mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'> tammbol.Moɗilla.org </a>.">
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "Lowre aroore nde ina waawi waɗde topirɗe bonɗe">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; daaƴii ngoo hello sabu ha ngo waawi fuuntude ma e aafgol topirɗe bonnooje humpito banngagol maa (yeru, sa o waylii jaɓɓorgo maa walla a hollii ɓeyditte goɗɗe e lowe njillotoɗaa).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
