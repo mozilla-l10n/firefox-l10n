@@ -336,6 +336,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "હમણાં સાફ કરો">
 <!ENTITY pref_clear_on_exit_title3 "બહાર નીકળતી વખતે ખાનગી માહિતીને સાફ કરો">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; જ્યારે તમે મુખ્ય મેનૂમાંથી \&quot;છોડો\&quot; પસંદ કરો ત્યારે આપમેળે તમારો ડેટા સાફ કરશે">
 <!ENTITY pref_clear_on_exit_dialog_title "કયો ડેટા સાફ કરવો તે પસંદ કરો">
 <!ENTITY pref_restore_tabs "ટૅબ્સ પુનઃસ્થાપિત કરો">
 <!ENTITY pref_restore_always "હંમેશા પુનઃસંગ્રહો">
