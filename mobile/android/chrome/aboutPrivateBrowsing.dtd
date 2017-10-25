@@ -7,12 +7,16 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ ટ્રેકિંગ પ્રોટેક્શન">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "તમે ખાનગી બ્રાઉઝિંગમાં નથી">
 
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
+<!ENTITY privatebrowsingpage.link.private "વધુ જાણવા માગો છો?">
+<!ENTITY privatebrowsingpage.link.normal "નવું ખાનગી ટેબ ખોલો">

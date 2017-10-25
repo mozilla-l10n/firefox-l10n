@@ -17,6 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'ઉપકરણ મારી પાસે નથી…'>
 
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.passwords2 'લૉગિન'>
 <!ENTITY sync.configure.engines.title.history 'ઇતિહાસ'>
 <!ENTITY sync.configure.engines.title.tabs 'ટૅબ'>
 
@@ -25,12 +26,14 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; ચાલુ &formatS2;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'બુકમાર્કો મેનુ'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'ટેગ'>
 <!ENTITY bookmarks.folder.toolbar.label 'બુકમાર્કો સાધનપટ્ટી'>
+<!ENTITY bookmarks.folder.other.label 'અન્ય બુકમાર્ક્સ'>
 <!ENTITY bookmarks.folder.desktop.label 'ડેસ્કટોપ બુકમાર્કો'>
 <!ENTITY bookmarks.folder.mobile.label 'મોબાઇલ બુકમાર્કો'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -47,26 +50,42 @@
 <!ENTITY fxaccount_getting_started_get_started 'શરૂઆત કરો'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label; ની જૂની આવૃત્તિ વાપરી રહ્યા છો?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'આ રીતે પ્રવેશ કરેલો છે'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: સક્રિયકૃત'>
+<!ENTITY fxaccount_status_auth_server 'એકાઉન્ટ સર્વર'>
+<!ENTITY fxaccount_status_sync_now 'હમણાં સમન્વય કરો'>
+<!ENTITY fxaccount_status_syncing2 'સમન્વય કરી રહ્યા છે…'>
+<!ENTITY fxaccount_status_device_name 'ઉપકરણ નામ'>
+<!ENTITY fxaccount_status_sync_server 'સમન્વયન સર્વર'>
 <!ENTITY fxaccount_status_needs_verification2 'તમારા ખાતાની ખાતરી કરવાની જરૂર છે. તપાસ ઇમેલ પુનઃમોકલવા માટે ઠપકારો.'>
 <!ENTITY fxaccount_status_needs_credentials 'જોડાઇ શકતા નથી. પ્રવેશ કરવા માટે ઠપકારો.'>
 <!ENTITY fxaccount_status_needs_upgrade 'પ્રવેશ કરવા માટે તમારે &brandShortName; ને અપગ્રેડ કરવાની જરૂર છે.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સીંક થતુ નથી. Android સેટીંગ > માહિતી વપરાશમાં ”માહિતી સ્વયં-સીંક કરો” બદલો.'>
+<!ENTITY fxaccount_status_choose_what 'શું સમન્વયિત કરવું તે પસંદ કરો'>
+<!ENTITY fxaccount_status_bookmarks 'બુકમાર્ક્સ'>
 <!ENTITY fxaccount_status_history 'ઇતિહાસ'>
+<!ENTITY fxaccount_status_passwords2 'લૉગિન'>
 <!ENTITY fxaccount_status_tabs 'ટૅબ ખોલો'>
+<!ENTITY fxaccount_status_additional_settings 'વધારાની સેટિંગ્સ'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'ફક્ત Wi-Fi પર સમન્વયિત કરો'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_status_legal 'કાયદાકીય' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 'સેવાની શરતો'>
+<!ENTITY fxaccount_status_linkprivacy2 'ગોપનીયતા સૂચના'>
+<!ENTITY fxaccount_remove_account 'જોડાણ તોડી નાખો&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'સમન્વયનમાંથી જોડાણ તોડી નાખો?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'તમારું બ્રાઉઝિંગ ડેટા આ ઉપકરણ પર રહેશે, પરંતુ તે હવે તમારા એકાઉન્ટ સાથે સમન્વયિત થશે નહીં.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'જોડાણ તોડી નાખો'>
 
+<!ENTITY fxaccount_enable_debug_mode 'ડીબગ મોડને સક્ષમ કરો'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -79,20 +98,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; વિકલ્પો'>
 <!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; રૂપરેખાંકિત કરો'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'તમારે Firefox અપગ્રેડ કરવાની જરૂર છે'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ખાતું પહેલાથી જ હાજર છે. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'અયોગ્ય ઇમેલ અથવા પાસવર્ડ'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'અયોગ્ય ઇમેલ અથવા પાસવર્ડ'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'ખાતું તપાસાયું નથી'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'સર્વર વ્યસ્ત છે, જલદી ફરી પ્રયાસ કરો'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'સર્વર વ્યસ્ત છે, જલદી ફરી પ્રયાસ કરો'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'ત્યાં સમસ્યા હતી'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; એ જોડાયેલું નથી'>
 <!-- Localization note: the format string below will be replaced
