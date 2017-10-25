@@ -203,6 +203,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "ತಾಣದ ಮಾಹಿತಿಯನ್ನು ನೋಡಿ">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "ಸಂದೇಶಗಳ ಪಟ್ಟಿ ತೆರೆ">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ಸ್ಥಳವನ್ನು ಕೋರುವ ಹಲಗೆಯನ್ನು ತೆರೆಯಿರಿ">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ಆಡ್-ಆನ್ ಸ್ಥಾಪನಾ ಸಂದೇಶ ಹಲಗೆಯನ್ನು ತೆರೆಯಿರಿ">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ಆಫ್‌ಲೈನ್ ಶೇಖರಣಾ ಸಂದೇಶ ಹಲಗೆಯನ್ನು ತೆರೆಯಿರಿ">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "ಗುಪ್ತಪದ ಉಳಿಸುವ ಸಂದೇಶ ಹಲಗೆಯನ್ನು ತೆರೆಯಿರಿ">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ಪ್ಲಗ್‌ಇನ್‌ಗಳ ಬಳಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ತಾಣದಿಂದ ನೀವು ಸೂಚನೆಗಳನ್ನು ಪಡೆಯಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವುದನ್ನು ಬದಲಾಯಿಸಿ">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ದೂರದಿಂದ ವೀಕ್ಷಕವು ನಿಮ್ಮ ಹಿಡಿತದಲ್ಲಿದೆ">
@@ -388,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "ಒವರ್‌ಫ್ಲೋ ಮೆನುವಿಗೆ ಸೇರಿಸಿ">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Move ಉಪಕರಣ ಪಟ್ಟಿಗೆ">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
@@ -398,7 +403,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Move ಪರಿವಿಡಿಗೆ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "ಒವರ್‌ಫ್ಲೋ ಮೆನುವಿಗೆ ಪಿನ್ ಮಾಡಿ">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ಒವರ್‌ಫ್ಲೋ ಮೆನುವಿನಿಂದ ಅನ್‌ಪಿನ್ ಮಾಡಿ">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Remove ಉಪಕರಣ ಪಟ್ಟಿಯಿಂದ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
@@ -772,6 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "ಅನುಮತಿಗಳು">
 <!ENTITY identity.permissionsEmpty "ನೀವು ಈ ತಾಣಕ್ಕೆ ಯಾವುದೆ ಅನುಮತಿಗಳನ್ನು ನೀಡಿಲ್ಲ.">
+<!ENTITY identity.permissionsReloadHint "ನಿಮ್ಮ ಬದಲಾವಣೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳಲು ನೀವು ಪುಟವನ್ನು ಪುನಃ ಲೋಡಮಾಡಬೇಕಾಗುತ್ತದೆ.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -825,11 +833,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ಸಿಂಕ್‌">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "ಒವರ್‌ಫ್ಲೋ ಮೆನು ಅಥವಾ ಉಪಕರಣಪಟ್ಟಿಗೆ ನಿಮ್ಮ ನೆಚ್ಚಿನ ವಸ್ತುಗಳನ್ನು ಎಳೆದು ಹಾಕಿರಿ.">
 <!ENTITY customizeMode.menuAndToolbars.empty "ಇನ್ನೂ ಹೆಚ್ಚು ಉಪಕರಣಗಳು ಬೇಕೆ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ಸಾವಿರಾರು ಆಡ್-ಆನ್ ಗಳಿಂದ ಆರಿಸಿಕೊಳ್ಳಿ">
 <!ENTITY customizeMode.restoreDefaults "ಪೂರ್ವನಿಯೋಜಿತವಾದುವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY customizeMode.done "ಆಯಿತು">
 <!ENTITY customizeMode.titlebar "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
+<!ENTITY customizeMode.extraDragSpace "ಡ್ರ್ಯಾಗ್ ಸ್ಪೇಸ್">
 <!ENTITY customizeMode.toolbars2 "ಉಪಕರಣಪಟ್ಟಿಗಳು">
 <!ENTITY customizeMode.lwthemes "ಥೀಮ್‌ಗಳು">
 <!ENTITY customizeMode.lwthemes.myThemes "ನನ್ನ ಥೀಮ್‌ಗಳು">
@@ -838,6 +848,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ಇನ್ನಷ್ಟು ಥೀಮ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.overflowList.title2 "ಒವರ್‌ಫ್ಲೋ ಮೆನು">
 <!ENTITY customizeMode.uidensity "ಸಾಂದ್ರತೆ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -857,6 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "ಸ್ಪರ್ಶ">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "ಸ್ಪರ್ಶ">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ಟ್ಯಾಬ್ಲೆಟ್ ಮೋಡ್‌ಗಾಗಿ ಟಚ್ಅನ್ನು ಬಳಸಿ">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "ಸ್ವಯಂ-ಮರೆಮಾಡು">
 
@@ -937,6 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "&brandShortName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ನವೀಕರಿಸಿ">
 
 <!ENTITY updateManual.whatsnew.label "ಹೊಸತೇನಿದೆಯೆಂದು ನೋಡಿ.">
+<!ENTITY updateManual.header.message "&brandShorterName; ಅನ್ನು ಈಗಿನ ಆವೃತ್ತಿಗೆ ನವೀಕರಿಸಲಾಗಿಲ್ಲ.">
 <!ENTITY updateManual.acceptButton.label "&brandShorterName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "ಈಗ ಬೇಡ">
