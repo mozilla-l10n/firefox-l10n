@@ -12,5 +12,6 @@
 
 <!-- Placeholders for input type=date -->
 
+<!ENTITY date.year.placeholder "aaaa">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
