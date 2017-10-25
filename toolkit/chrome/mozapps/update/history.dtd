@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Historial d'anovamientos">
-<!ENTITY  history.intro             "Instaláronse los anovamientos de darréu:">
+<!ENTITY  history2.intro            "Instaláronse los anovamientos de darréu">
 <!ENTITY  closebutton.label         "Zarrar">
-                                     
+
 <!ENTITY  noupdates.label           "Entá nun hai anovamientos instalaos">
 
 <!ENTITY  name.header               "Nome d'anovamientu">

@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Llingües">
-<!ENTITY languages.customize.description                "A vegaes les páxines web úfrense en más d'una llingua. Escueyi les llingües p'amosar eses páxines web, n'orde de preferencia:">
+<!ENTITY languages.customize2.description               "A vegaes les páxines web úfrense en más d'una llingua. Escueyi les llingües p'amosar neses páxines, n'orde de preferencia">
 <!ENTITY languages.customize.moveUp.label               "Xubir">
 <!ENTITY languages.customize.moveUp.accesskey           "u">
 <!ENTITY languages.customize.moveDown.label             "Baxar">
