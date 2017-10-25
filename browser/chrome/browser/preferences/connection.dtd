@@ -34,6 +34,7 @@
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Proxy DNS so SOCKS v5 huutoraama">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  port2.label                   "Seŋorde">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">

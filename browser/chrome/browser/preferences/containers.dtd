@@ -7,16 +7,18 @@
 <!ENTITY preferencesButton.label "Cuɓaaɗe">
 <!ENTITY removeButton.label   "Momtu">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "&#171; Rutto Caggal">
 
 <!ENTITY window.title         "Ɓeydu Mooftiree Hesere">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "Innde">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Winndu innde mooftirde">
-
-
-
-
+<!ENTITY icon2.label          "Ikon">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Noordi">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Gasii">
