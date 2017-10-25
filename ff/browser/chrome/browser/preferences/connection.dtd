@@ -38,6 +38,8 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy2.label                "Poroksi woodanaani">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "Yeru: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Huutoro ndee sarworde proxy e jaɓɓitore fof">
 <!ENTITY  shareproxy.accesskey          "u">
