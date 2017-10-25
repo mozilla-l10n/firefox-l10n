@@ -28,6 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> woni <a id='error_desc_link'> jaŋtaaɗo hono baɗɗo topirde bonnoore </a>. Aɗa waawi <a id='report_detection'> jaŋtaade caɗeele jiytugol </a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Ɓeydu humpitobaɗte lowdi geese mbonnoori kañum e mborocce e mbonnanteeri ngoɗndi e hol no ndeenirtaa ordinateer maa ɗo <a id='learn_more_link'> StopBadware.org</a>. Ɗeydu humpito baɗte &brandShortName; jogaade mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'> tammbol.Moɗilla.org </a>.">
 
 
 
