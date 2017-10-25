@@ -5,13 +5,13 @@
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "550">
 
-<!ENTITY  copy.key              "C‌‌">
+<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "नक़ल लें">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "सभी चुनें">
 <!ENTITY  selectall.accesskey   "A">
-<!ENTITY  closeWindow.key       "w‌">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "सामान्य‌‌‌">
 <!ENTITY  generalTab.accesskey  "G‌">
