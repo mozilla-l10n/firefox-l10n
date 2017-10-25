@@ -13,3 +13,15 @@
 <!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Envolver">
 <!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY backwardsCheckbox.label "Buscar hacia atrás">
+<!ENTITY backwardsCheckbox.accesskey "b">
+<!ENTITY findNextButton.label "Buscar siguiente">
+<!ENTITY findNextButton.accesskey "F">
+<!ENTITY replaceButton.label "Reemplazar">
+<!ENTITY replaceButton.accesskey "R">
+<!ENTITY replaceAndFindButton.label "Reemplazar y buscar">
+<!ENTITY replaceAndFindButton.accesskey "d">
+<!ENTITY replaceAllButton.label "Reemplazar todos">
+<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY closeButton.label "Cerrar">
+<!ENTITY closeButton.accesskey "C">
