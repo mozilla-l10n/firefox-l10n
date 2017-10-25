@@ -11,6 +11,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "જોડાવામાં અસમર્થ">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "આ સરનામું પ્રતિબંધિત છે">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -25,10 +26,12 @@
 
 <!ENTITY generic.title "અરર.">
 
+<!ENTITY malformedURI.title "સરનામું માન્ય નથી">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "જોડાણ તૂટી ગયું હતુ">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "દસ્તાવેજ નિવૃત્ત થઇ ગયું">
 
@@ -48,6 +51,7 @@
 <!ENTITY netTimeout.title "જોડાણનો સમય સમાપ્ત થઇ ગયો">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "સરનામું સમજાયું ન હતું">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>આ સરનામું ખોલવા માટે તમારે અન્ય સૉફ્ટવેર સ્થાપિત કરવાની જરૂર પડી શકે.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "પ્રૉક્સી સર્વર જોડાણો નકારી રહ્યું છે">
@@ -57,6 +61,7 @@
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY redirectLoop.title "પૃષ્ઠ યોગ્ય રીતે પુનઃનિર્દેશિત નથી">
 <!ENTITY redirectLoop.longDesc "<ul> <li>આ સમસ્યા અમુક વાર કુકીઓ સ્વીકારવાનું નિષ્ક્રિય કરવાથી કે નકારવાથી પણ આવી શકે.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "સર્વર તરફથી અનિચ્છનિય પ્રત્યુત્તર">
@@ -69,6 +74,7 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY cspBlocked.title "સામગ્રી સુરક્ષા નીતિ દ્વારા અવરોધિત">
 
 <!ENTITY corruptedContentErrorv2.title "બગડેલ વસ્તુ ક્ષતિ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે ડૅટા ટ્રાન્સમિશનમાં મળી આવેલી ક્ષતિના કારણે બતાવી શકાશે નહિ.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul>">
@@ -87,11 +93,16 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "સુરક્ષિત રીતે જોડાણ કરવામાં અસમર્થ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "વિગતવાર માહિતી: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "તમારું જોડાણ સુરક્ષિત નથી">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "વિગતવાર માહિતી: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "તમારું જોડાણ સુરક્ષિત નથી">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
