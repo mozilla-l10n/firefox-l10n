@@ -44,7 +44,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Buang pin Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "Hantar Tab Ke Peranti">
+<!ENTITY  sendTabToDevice.label              "Hantar Tab ke Peranti">
 <!ENTITY  sendTabToDevice.accesskey          "b">
 <!ENTITY  sendPageToDevice.label             "Hantar Halaman ke Peranti">
 <!ENTITY  sendPageToDevice.accesskey         "P">
