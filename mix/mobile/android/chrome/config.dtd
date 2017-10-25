@@ -3,17 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder     "Nta nduku">
+<!ENTITY toolbar.searchPlaceholder     "Nduku">
 
-<!ENTITY newPref.namePlaceholder       "sivi">
+<!ENTITY newPref.namePlaceholder       "Sivi">
 
 <!ENTITY newPref.valueBoolean          "Uvi kua">
 <!ENTITY newPref.valueString           "Cadena">
 <!ENTITY newPref.valueInteger          "número entero">
 
+<!ENTITY newPref.stringPlaceholder     "Chaa ña kunu">
+<!ENTITY newPref.numberPlaceholder     "Chaa ña kavina">
 
-
-<!ENTITY newPref.toggleButton          "Nta sama">
+<!ENTITY newPref.toggleButton          "Sama">
 <!ENTITY newPref.cancelButton          "Kunchatu">
 
 <!ENTITY contextMenu.copyPrefName      "Nta tava sivi">
