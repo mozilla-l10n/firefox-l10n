@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tableWindow.title                "Propiedades de tabulación">
+<!ENTITY applyButton.label                "Aplicar">
+<!ENTITY applyButton.accesskey            "A">
+<!ENTITY closeButton.label                "Cerrar">
+<!ENTITY tableTab.label                   "Tabla">
+<!ENTITY cellTab.label                    "Celdas">
+<!ENTITY tableRows.label                  "Filas:">
+<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableColumns.label               "Columnas:">
+<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableHeight.label                "Altura:">
+<!ENTITY tableHeight.accessKey            "G">
+<!ENTITY tableWidth.label                 "Ancho:">
+<!ENTITY tableWidth.accessKey             "W">
+
+
+<!-- Used in both Table and Cell panels  -->
