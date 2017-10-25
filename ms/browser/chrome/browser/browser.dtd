@@ -126,7 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Daftar masuk ke &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Buka Keutamaan &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Buka keutamaan &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Sambung semula ke &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Sahkan Akaun Anda">
 
@@ -190,7 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backCmd.label                "Undur">
 <!ENTITY backButton.tooltip           "Undur satu halaman">
 <!ENTITY forwardCmd.label             "Maju">
-<!ENTITY forwardButton.tooltip        "Maju sehalaman">
+<!ENTITY forwardButton.tooltip        "Langkau satu halaman">
 <!ENTITY backForwardButtonMenu.tooltip "Klik-kanan atau tarik turun untuk papar sejarah">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarik turun untuk papar sejarah">
 <!ENTITY reloadCmd.label              "Muat semula">
