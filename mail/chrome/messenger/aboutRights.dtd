@@ -16,7 +16,7 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; disediakan untuk anda di bawah terma ">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1b "Lesen Awam Mozilla">
 <!ENTITY rights.intro-point1c ". Ini bermakna anda boleh guna, salin dan edarkan &brandShortName; kepada pihak lain.  Anda juga dialu-alukan untuk mengubahsuai kod sumber &brandShortName; untuk memenuhi keperluan anda. Lesen Umum Mozilla juga memberikan anda hak untuk mengedarkan versi yang diubah suai.">
 
 <!ENTITY rights.intro-point2a "Mozilla tidak memberikan anda sebarang hak untuk menggunakan cap dagangan atau logo Mozilla dan Thunderbird. Maklumat tambahan mengenai Cap Dagangan boleh didapatkan ">
