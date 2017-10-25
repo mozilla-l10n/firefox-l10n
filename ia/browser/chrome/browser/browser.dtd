@@ -77,7 +77,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.label "Vista preliminar del impression">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimer…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Travaliar disconnectite">

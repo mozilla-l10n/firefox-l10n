@@ -157,7 +157,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediva a iste pagina de cargar in iste maniera proque le pagina ha un regula de securitate de contento que non lo permitte.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote ser monstrate a causa de un error revelate in le transmission del datos.</p><ul><li>Per favor contacta le domino del sito Web pro le informar de iste problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote ser monstrate a causa de un error revelate in le transmission del datos.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adder un exception…">
@@ -166,7 +166,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Saper plus…">
 
 <!ENTITY remoteXUL.title "XUL remote">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Per favor contacta le domino del sito Web pro le informar de iste problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Incapace de connecter se securmente">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate

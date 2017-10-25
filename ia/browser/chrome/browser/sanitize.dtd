@@ -28,7 +28,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-<!ENTITY clearTimeDuration.label          "Intervallo de tempore a clarar: ">
+<!ENTITY clearTimeDuration.label          "Intervallo de tempore a vacuar: ">
 <!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "Ultime hora">
 <!ENTITY clearTimeDuration.last2Hours     "Ultime duo horas">

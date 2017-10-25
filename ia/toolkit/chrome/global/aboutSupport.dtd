@@ -104,7 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verificar le integritate">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
+<!ENTITY aboutSupport.jsIncrementalGC "Collecta de immunditias incremental">
 
 <!ENTITY aboutSupport.a11yTitle "Accessibilitate">
 <!ENTITY aboutSupport.a11yActivated "Activate">

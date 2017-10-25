@@ -18,11 +18,11 @@
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Configurar le pagina…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.accesskey "C">
 <!ENTITY printPreviewCmd.label "Vista preliminar del impression">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimer…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Clauder">
 <!ENTITY closeCmd.accesskey "C">

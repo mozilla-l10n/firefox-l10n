@@ -7,14 +7,14 @@
 <!ENTITY printJobOptions.title "Proprietates del impressor">
 
 <!ENTITY paperInput.label "Dimension del papiro:">
-<!ENTITY paperInput.accesskey "P">
+<!ENTITY paperInput.accesskey "p">
 
 <!ENTITY jobTitleInput.label "Titulo del labor:">
 <!ENTITY jobTitleInput.accesskey "T">
 
 <!ENTITY colorGroup.label "Color:">
 <!ENTITY grayRadio.label "Scala de gris">
-<!ENTITY grayRadio.accesskey "G">
+<!ENTITY grayRadio.accesskey "S">
 <!ENTITY colorRadio.label "Color">
 <!ENTITY colorRadio.accesskey "C">
 

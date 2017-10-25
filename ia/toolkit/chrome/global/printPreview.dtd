@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY print.label          "Imprimer…">
-<!ENTITY print.accesskey      "P">
+<!ENTITY print.accesskey      "I">
 <!ENTITY pageSetup.label      "Configurar le pagina…">
-<!ENTITY pageSetup.accesskey  "u">
+<!ENTITY pageSetup.accesskey  "C">
 <!ENTITY page.label           "Pagina:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "de">
