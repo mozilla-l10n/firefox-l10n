@@ -132,12 +132,14 @@
 <!ENTITY devicepreference_search "શોધ પસંદગીઓ">
 <!ENTITY devicepreference_newname "નવું પસંદગી નામ">
 <!ENTITY devicepreference_newtext "પસંદગી મૂલ્ય">
+<!ENTITY devicepreference_addnew "નવી પસંદગી ઉમેરો">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "ઉપકરણ સેટિંગ્સ">
 <!ENTITY devicesetting_search "શોધ સેટિંગ્સ">
 <!ENTITY devicesetting_newname "નવું સેટિંગ નામ">
 <!ENTITY devicesetting_newtext "કિંમત સુયોજિત કરી રહ્યા છે">
+<!ENTITY devicesetting_addnew "નવી સેટિંગ ઉમેરો">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "વિનિયમનકર્તા">
