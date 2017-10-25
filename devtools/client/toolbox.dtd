@@ -20,7 +20,7 @@
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
-<!ENTITY options.context.inspector "Inspektur">
+<!ENTITY options.context.inspector "Penilik">
 
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Debugger">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Aktifkan Peta Sumber">
-<!ENTITY options.sourceMaps.tooltip    "Jika Anda mengaktifkan opsi ini, sumber akan dipetakan di Debugger dan Konsol.">
+<!ENTITY options.sourceMaps.tooltip1   "Jika opsi ini diaktifkan, kode sumber akan dipetakan dalam alat.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Editor Gaya">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Tampilkan sumber asli">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Menampilkan sumber asli (misalnya berkas Sass) pada Editor Gaya dan Inspektur">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,15 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Bunyikan suara shutter kamera">
 <!ENTITY options.screenshot.audio.tooltip    "Aktifkan suara audio kamera saat mengambil tangkapan layar">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Jaringan">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

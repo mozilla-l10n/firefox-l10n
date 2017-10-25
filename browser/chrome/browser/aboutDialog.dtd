@@ -5,7 +5,7 @@
 
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
-# See about:preferences#advanced.
+# See about:preferences#general.
 -->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
@@ -48,7 +48,7 @@
 <!ENTITY helpus.getInvolvedLink     "mari ikut berperan!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Apa yang baru">
+<!ENTITY releaseNotes.link          "Yang baru">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informasi Lisensi">
