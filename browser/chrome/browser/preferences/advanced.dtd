@@ -128,7 +128,7 @@ available. -->
 <!ENTITY selectCerts.auto.accesskey      "P">
 <!ENTITY selectCerts.ask                 "Tanya setiap kali">
 <!ENTITY selectCerts.ask.accesskey       "T">
-<!ENTITY enableOCSP.label                "Tanya pelayan responder OCSP untuk memastikan kesahihan sijil semasa">
+<!ENTITY enableOCSP.label                "Minta penggerak balas pelayan OCSP untuk mengesahkan kesahihan sijil semasa">
 <!ENTITY enableOCSP.accesskey            "T">
 <!ENTITY viewCerts2.label                "Papar Sijil…">
 <!ENTITY viewCerts2.accesskey            "S">

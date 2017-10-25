@@ -106,7 +106,7 @@
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
-<!ENTITY retryDownload.label              "Cuba semula Muat turun">
+<!ENTITY retryDownload.label              "Muat turun Sekali lagi">
 
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
