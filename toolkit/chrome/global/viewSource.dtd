@@ -64,7 +64,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Cari dalam Laman Ini...">
+<!ENTITY findOnCmd.label     "Cari dalam Halaman Ini…">
 <!ENTITY findOnCmd.accesskey "a">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Cari Lagi">
