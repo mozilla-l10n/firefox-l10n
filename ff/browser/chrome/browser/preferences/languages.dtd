@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Ɗemɗe">
-
+<!ENTITY languages.customize2.description               "Kelle geese ena kolliree sahaaji e ɗemɗe keewɗe. Suɓo ɗemɗe ngam hollirde ɗee kelle, e degginol cuɓorol">
 <!ENTITY languages.customize.moveUp.label               "Dirtin Dow">
 <!ENTITY languages.customize.moveUp.accesskey           "D">
 <!ENTITY languages.customize.moveDown.label             "Dirtin Les">

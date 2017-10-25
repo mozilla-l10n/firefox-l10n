@@ -11,6 +11,7 @@
 <!ENTITY startupPrevSession.label  "Hollit kenorɗe maa ɗee e tabbe cakkitiiɗe">
 
 <!ENTITY homepage2.label           "Hello jaɓɓorgo">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Huutoro Hello Wonaango">
 <!ENTITY useCurrentPage.accesskey  "W">
 <!ENTITY useMultiple.label         "Huutoro Kelle Gonaaɗe Ɗee">
@@ -19,6 +20,7 @@
 <!ENTITY restoreDefault.label      "Artir e Goowaaɗo">
 <!ENTITY restoreDefault.accesskey  "A">
 
+<!ENTITY disableExtension.label    "Daaƴ Timmitol">
 
 <!ENTITY downloads.label     "Gaawte">
 
@@ -33,6 +35,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Ƴeewto sahaa kala so &brandShortName; ko wanngorde maa woowaande">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
+<!ENTITY setAsMyDefaultBrowser3.label     "Waɗ ɗum Woowaande…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "W">
 <!ENTITY isDefault.label                  "&brandShortName; ko wanngoraade maa woowaande oo sahaa">
 <!ENTITY isNotDefault.label               "&brandShortName; wonaa wanngoraade maa woowaande">
 

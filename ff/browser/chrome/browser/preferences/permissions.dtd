@@ -5,13 +5,14 @@
 <!ENTITY window.title                 "Paltooje">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename2.label     "Lowre geese">
 <!ENTITY treehead.status.label        "Ngonka">
-
-
-
-
-
-
+<!ENTITY removepermission2.label      "Momtu Lowre">
+<!ENTITY removepermission2.accesskey  "M">
+<!ENTITY removeallpermissions2.label  "Momtu Lowe Fof">
+<!ENTITY removeallpermissions2.accesskey "e">
+<!ENTITY address2.label               "Ñiiɓirɗe lowre">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Falo">
 <!ENTITY block.accesskey              "F">
 <!ENTITY session.label                "Yamir e Naatol">
@@ -25,3 +26,4 @@
 <!ENTITY button.ok.label              "Danndu Bayle">
 <!ENTITY button.ok.accesskey          "D">
 
+<!ENTITY searchbox.placeholder        "Yiylo e Lowre">
