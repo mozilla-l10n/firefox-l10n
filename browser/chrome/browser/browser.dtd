@@ -64,14 +64,14 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "नया टैब">
 <!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "टी">
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "स्थान खोलें…">
 <!ENTITY openFileCmd.label "फाइल खोलें...">
 <!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "ओ">
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "पृष्ठ व्यवस्थित…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "छपाई पूर्वावलोकन">
@@ -255,7 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "ओ">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "इतिहास">
@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "सहयुक्तियाँ">
 <!ENTITY addons.accesskey             "A">
-<!ENTITY addons.commandkey            "ए">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -301,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "दोहराएँ">
-<!ENTITY redoCmd.key            "Y‌">
+<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY cutCmd.label           "काटें">
 <!ENTITY cutCmd.key             "X">
@@ -530,7 +530,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "सिर्फ यह फ्रेम दिखाएँ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-<!ENTITY reloadCmd.commandkey         "आर">
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ढाँचा फिर लोड करें">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "चयनित स्रोत देखें">
@@ -573,7 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "पी">
-<!ENTITY savePageCmd.commandkey       "एस">
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "फ्रेम ऐसे सहेजें…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "फ्रेम छापें…">
@@ -734,7 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     " इस पृष्ठ में ढूँढ़ें…">
 <!ENTITY findOnCmd.accesskey "F">
-<!ENTITY findOnCmd.commandkey "एफ">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  " फिर ढ़ूँढ़ें">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
