@@ -20,10 +20,13 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Dh’fhaoidte gun èirich cron air a’ choimpiutair agad ma thadhlas tu air an làrach-lìn seo">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "Bhac &brandShortName; an duilleag seo airson ’s nach feuch e ri bathar-bog droch-rùnach a stàladh a bhiodh airson dàta pearsanta a ghoid no a sguabadh às a’ choimpiutair agad.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Chaidh <a id='error_desc_link'>aithris</a> a dhèanamh gu bheil bathar-bog droch-rùnach air <span id='malware_sitename'/>. ’S urrainn dhut <a id='report_detection'>aithris a dhèanamh thu fhèin gu bheil rudeigin cearr a thaobh sin</a> no <a id='ignore_warning_link'>an cunnart a leigeil seachad</a> agus tadhal air an làrach mhì-shàbhailte co-dhiù.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Chaidh <a id='error_desc_link'>aithris</a> a dhèanamh gu bheil bathar-bog droch-rùnach air <span id='malware_sitename'/>. ’S urrainn dhut <a id='report_detection'>aithris a dhèanamh thu fhèin gu bheil rudeigin cearr a thaobh sin</a>.">
 
 
 
