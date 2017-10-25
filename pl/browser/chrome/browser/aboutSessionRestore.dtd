@@ -7,6 +7,9 @@
 <!ENTITY restorepage.problemDesc2 "Wystąpił problem z przywróceniem stron otwartych w poprzedniej sesji przeglądania. Wybierz „Przywróć sesję”, aby spróbować ponownie.">
 <!ENTITY restorepage.tryThis2 "Problem nadal występuje? Czasami powodem takiej sytuacji jest pojedyncza karta. Odznacz na liście kart te, których nie potrzeba przywracać i wybierz „Przywróć”.">
 
+<!ENTITY restorepage.hideTabs "Ukryj karty">
+<!ENTITY restorepage.showTabs "Pokaż karty">
+
 <!ENTITY restorepage.tryagainButton2 "Przywróć sesję">
 <!ENTITY restorepage.restore.access2 "P">
 <!ENTITY restorepage.closeButton2 "Rozpocznij nową sesję">
