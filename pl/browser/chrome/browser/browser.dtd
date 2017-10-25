@@ -160,6 +160,7 @@
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip "Wyświetl powiadomienie">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip "Wyświetl zapytanie o położenie">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip "Wyświetl zapytanie o instalację dodatków">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip "Zarządzaj uprawnieniami odczytu danych canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Wyświetl zapytanie o przechowywanie danych offline">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Określ, czy zachować hasło">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Zarządzaj wtyczkami używanymi na tej stronie">
