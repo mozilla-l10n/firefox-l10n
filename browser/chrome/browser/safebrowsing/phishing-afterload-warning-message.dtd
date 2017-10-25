@@ -26,6 +26,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> wonii <a id='error_desc_link'> jaŋtaaɗo hono baɗɗo topirde bonnoore </a>. Aɗa waawi <a id='report_detection'> jaŋtaade caɗeele jiytugol </a> walla <a id='ignore_warning_link'> faalkiso kulol ngol </a> e yetto ndee lowre nde hisaani.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> woni <a id='error_desc_link'> jaŋtaaɗo hono baɗɗo topirde bonnoore </a>. Aɗa waawi <a id='report_detection'> jaŋtaade caɗeele jiytugol </a>.">
 
 
 
