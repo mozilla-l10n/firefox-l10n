@@ -6,6 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Ma sa kuentaku tu'un yo'o">
 <!ENTITY safeb.palm.reportPage.label "Chanu kueku kunu página yo'o">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Tu'un ña <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Vaa página yo'o">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -16,8 +17,6 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Página web yo'o nu <span id='phishing_sitename'/> ni ka tu'una ña vay cha ma kuu nuni.">
 
-
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Página web yo'o nu <span id='unwanted_sitename'/> ni ka tu'una ña vay cha ma kuu nuni.">
-
 

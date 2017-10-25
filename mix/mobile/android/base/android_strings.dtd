@@ -562,7 +562,7 @@
 <!ENTITY button_clear_data "Stòo tutù">
 <!ENTITY button_set "Ntakiì">
 <!ENTITY button_clear "Stòo">
-<!ENTITY button_copy "Nta tava">
+<!ENTITY button_copy "Ndatava">
 
 <!ENTITY home_top_sites_title "Sitio ña ta\&apos;an inu ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -573,7 +573,7 @@
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; Ki\&apos;tsa">
 <!ENTITY home_history_title "Historial">
-<!ENTITY home_synced_devices_smartfolder "Ntachita dispositivo">
+<!ENTITY home_synced_devices_smartfolder "Ntachita\&apos;an dispositivo">
 <!ENTITY home_synced_devices_number "&formatD; dispositivo">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 dispositivo">
