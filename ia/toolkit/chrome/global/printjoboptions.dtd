@@ -10,7 +10,7 @@
 <!ENTITY paperInput.accesskey "P">
 
 <!ENTITY jobTitleInput.label "Titulo del labor:">
-<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY jobTitleInput.accesskey "T">
 
 <!ENTITY colorGroup.label "Color:">
 <!ENTITY grayRadio.label "Scala de gris">
