@@ -641,7 +641,7 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Kawjuɗo (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "K">
-<!ENTITY mediaLoop.label             "Luupo">
+<!ENTITY mediaLoop.label             "Jirlol">
 <!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
