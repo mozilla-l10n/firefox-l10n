@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Aisig na roghainnean bunaiteach">
 <!ENTITY restoreDefault.accesskey  "r">
 
+<!ENTITY disableExtension.label    "Cuir an leudachan à comas">
+
 <!ENTITY downloads.label     "Luchdaidhean a-nuas">
 
 <!ENTITY saveTo.label "Sàbhail faidhlichean ann an">

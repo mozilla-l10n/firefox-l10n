@@ -13,6 +13,11 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 65em; min-height: 50em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 65em; min-height: 50em;">
 
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
+<!ENTITY  searchField.width             "17em">
+
 <!ENTITY  paneSearchResults.title       "Toraidhean luirg">
 <!ENTITY  paneGeneral.title             "Coitcheann">
 <!ENTITY  paneSearch.title              "Lorg">
@@ -24,8 +29,8 @@
 <!ENTITY  languageAndAppearance.label   "Cànan is coltas">
 <!ENTITY  filesAndApplications.label    "Faidhlichean is aplacaidean">
 <!ENTITY  browserPrivacy.label          "Prìobhaideachd a’ bhrabhsair">
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Cunntas Firefox">
 
 <!ENTITY  helpButton2.label        "Taic le &brandShortName;">
