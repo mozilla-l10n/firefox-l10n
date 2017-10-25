@@ -38,7 +38,7 @@
 <!ENTITY junkStatusColumn2.tooltip "Susun mengikut status mel remeh">
 <!ENTITY unreadColumn2.tooltip "Bilangan mesej belum dibaca dalam thread">
 <!ENTITY totalColumn2.tooltip "Bilangan mesej dalam thread">
-<!ENTITY readColumn2.tooltip "Susun mengikut dibaca">
+<!ENTITY readColumn2.tooltip "Susun mengikut sudah dibaca">
 <!ENTITY receivedColumn2.tooltip "Susun mengikut tarikh diterima">
 <!ENTITY flagColumn2.tooltip "Susun mengikut ditanda">
 <!ENTITY locationColumn2.tooltip "Susun mengikut lokasi">
