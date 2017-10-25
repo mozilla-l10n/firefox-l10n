@@ -287,6 +287,7 @@
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Uddit nder &formatS;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL nattaaɗo">
 
 <!ENTITY pref_pwa_summary "Yamir jaaɓnirɗe geese ɓeydee e jaɓɓorgo maa">
 

@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Daaƴ">
 <!ENTITY addonAction.uninstall                  "Momtu">
 <!ENTITY addonAction.undo                       "Firtu">
+<!ENTITY addonAction.update                     "Hesɗitin">
 
 <!ENTITY addonUnsigned.message                  "Ngal ɓeydital horiima ƴeewteede e &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Ɓeydu humpito">
