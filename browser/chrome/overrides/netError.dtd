@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "Server net fûn">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Wy kinne dizze website net fine.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>As it adres krekt is, kinne jo trije oare saken probearje:</strong>
+<ul>
+ <li>Probearje it letter opnij.</li>
+ <li>Kontrolearje jo netwurkferbining.</li>
+ <li>As jo ferbining hawwe mar jo efter in firewall binne, kontrolearje dan oft &brandShortName; tagong hat ta it web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Bestân net fûn">
 <!ENTITY fileNotFound.longDesc "
@@ -51,6 +59,7 @@
 
 <!ENTITY malformedURI.pageTitle "Unjildige URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Dat adres sjocht der net goed út.">
 
 <!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
