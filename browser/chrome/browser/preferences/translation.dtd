@@ -6,12 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
+<!ENTITY noTranslationForLanguages2.label "Ɗee ɗemɗe ndokketaake firo">
 <!ENTITY treehead.languageName.label      "Ɗemɗe">
 <!ENTITY removeLanguage.label             "Momtu Ɗemngal">
 <!ENTITY removeLanguage.accesskey         "M">
 <!ENTITY removeAllLanguages.label         "Momtu Ɗemɗe Kala">
 <!ENTITY removeAllLanguages.accesskey     "o">
 
+<!ENTITY noTranslationForSites2.label     "Ɗee ɗemɗe ndokketaake firo">
 <!ENTITY treehead.siteName2.label         "Lowe">
 <!ENTITY removeSite.label                 "Momtu Lowre">
 <!ENTITY removeSite.accesskey             "L">
