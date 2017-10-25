@@ -568,7 +568,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pageAction.copyLink.label    "Salin Tautan">
 <!ENTITY copyURLFeedback.label        "Tersalin!">
 <!ENTITY emailPageCmd.label           "Kirim Tautan…">
-<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY emailPageCmd.accesskey       "K">
 <!ENTITY savePageCmd.label            "Simpan Laman dengan Nama…">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
@@ -950,7 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "Perbarui &brandShorterName; Anda untuk mendapat yang terkini dalam kecepatan dan privasi.">
-<!ENTITY updateAvailable.whatsnew.label "Lihat apa yang baru.">
+<!ENTITY updateAvailable.whatsnew.label "Lihat yang baru.">
 <!ENTITY updateAvailable.header.message "Pemutakhiran &brandShorterName; terkini telah tersedia.">
 <!ENTITY updateAvailable.acceptButton.label "Unduh Pemutakhiran">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
@@ -959,7 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Unduh pemutakhiran &brandShorterName;">
 
 <!ENTITY updateManual.message "Unduh salinan segar dari &brandShorterName; dan kami akan membantu Anda untuk memasangnya.">
-<!ENTITY updateManual.whatsnew.label "Lihat apa yang baru.">
+<!ENTITY updateManual.whatsnew.label "Lihat yang baru.">
 <!ENTITY updateManual.header.message "&brandShorterName; tidak dapat diperbarui ke versi terkini.">
 <!ENTITY updateManual.acceptButton.label "Unduh &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
