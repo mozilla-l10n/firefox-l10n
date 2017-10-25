@@ -51,8 +51,10 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> wonii <a id='error_desc_link'>jaŋtaaɗo hono lowre fuuntoore </a>. Aɗa waawi <a id='report_detection'>jaŋtaade caɗeele jiytugol </a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Ɓeydu humpito baɗte lowe puuntooje e ko bonnata ɗo <a id='learn_more_link'> www.antiphishing.org </a>. Ɓeydu humpito baɗte &brandShortName; jogaade Mbonnanteere e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'>tammbol.moɗilla.org </a>.">
 
 
+<!ENTITY safeb.blocked.harmfulPage.title "Lowre aroore ndee ina waawi waɗde mbonnanteeri">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
