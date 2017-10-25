@@ -15,7 +15,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Sorok">
 <!ENTITY editBookmarkOverlay.tags.label                      "Tag:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Asingkan tag dengan tanda koma">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Pisah tag dengan tanda koma">
 <!ENTITY editBookmarkOverlay.description.label               "Keterangan:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "r">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Kata kunci:">

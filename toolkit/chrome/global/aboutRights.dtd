@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-term1 "Buka tetapan keutamaan aplikasi">
 <!ENTITY rights.safebrowsing-term2 "Pilih pilihan keselamatan">
 <!ENTITY rights2.safebrowsing-term3 "Nyahpilih pilihan untuk &quot;&enableSafeBrowsing.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Safe Browsing kini dinyahdayakan">
+<!ENTITY rights.safebrowsing-term4 "Pelayaran Selamat kini dinyahaktifkan">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Pelayaran Sedar Lokasi: ">
