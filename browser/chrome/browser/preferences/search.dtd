@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Palal NJiilaw">
 
 <!ENTITY searchBar.hidden.label                "Huutoro palal ñiiɓirɗe ngal ngam yiylaade e feeraade">
+<!ENTITY searchBar.shown.label                 "Ɓeydu palal njiilaw e palal kuutorɗe">
 
 <!ENTITY defaultSearchEngine.label             "Yiylorde Woowaande">
 
@@ -13,6 +15,7 @@
 <!ENTITY provideSearchSuggestions.accesskey    "w">
 
 <!ENTITY showURLBarSuggestions2.label           "Hollo basiye njiilaw e njaltudi palal ñiiɓirɗe ngal">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Basiye njiilaw kolliroytaake e njaltudi palal nokkuure sabu ko a teeltiiɗo &brandShortName; yoo waas siiftorde aslol.">
 
 <!ENTITY oneClickSearchEngines.label           "Yiylorde nde dobannde wootere">

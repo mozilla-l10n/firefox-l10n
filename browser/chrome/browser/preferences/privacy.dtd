@@ -23,6 +23,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Huutoro ndeenka dewindagol nder banngagol sutura ngam faddaade ñukkintooɓe anndaaɓe">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ɓeydu humpito">
+<!ENTITY changeBlockList2.label               "Waylu Doggol Daaƴol…">
+<!ENTITY changeBlockList2.accesskey           "W">
 
 <!ENTITY  doNotTrack.description        "Neldu lowe internet siñaal &quot;Hoto rewindo&quot; so a yiɗaa ñukkindeede">
 <!ENTITY  doNotTrack.learnMore.label    "Ɓeydu humpito">
@@ -34,6 +36,8 @@
 
 <!ENTITY  addressBar.label              "Palal Ñiiɓirɗe">
 <!ENTITY  addressBar.suggest.label      "So aɗa huutoroo palal ñiiɓirɗe, wasiyo">
+<!ENTITY  locbar.history2.label         "Aslol peeragol">
+<!ENTITY  locbar.history2.accesskey     "P">
 <!ENTITY  locbar.bookmarks.label        "Maantore">
 <!ENTITY  locbar.bookmarks.accesskey    "t">
 <!ENTITY  locbar.openpage.label         "Tabbe udditiiɗe">
@@ -43,11 +47,17 @@
 
 <!ENTITY  suggestionSettings2.label     "Waylu cuɓe wonande cakkitte yiylorde">
 
+<!ENTITY  acceptCookies2.label          "Jaɓ kukiije iwɗe e lowe">
+<!ENTITY  acceptCookies2.accesskey      "J">
 
+<!ENTITY  acceptThirdParty2.pre.label     "Jaɓ kukiiji jiggaaɗe">
+<!ENTITY  acceptThirdParty2.pre.accesskey "a">
 <!ENTITY  acceptThirdParty.always.label   "Sahaa kala">
 <!ENTITY  acceptThirdParty.never.label    "Hay sahaa">
 <!ENTITY  acceptThirdParty.visited.label  "Iwɗi e jillaaɗe">
 
+<!ENTITY  keepUntil2.label              "Mooftu haa">
+<!ENTITY  keepUntil2.accesskey          "h">
 
 <!ENTITY  expire.label                  "ɗi kiiɗta">
 <!ENTITY  close.label                   "Miɗo udda &brandShortName;">
@@ -105,3 +115,7 @@
 <!ENTITY  browserContainersSettings.label        "Teelte…">
 <!ENTITY  browserContainersSettings.accesskey    "l">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Haɗ carwooje weeɓitaare yettaade wanngorde maa">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "c">
+<!ENTITY  a11yPrivacy.learnmore.label    "Ɓeydu humpito">
+<!ENTITY enableSafeBrowsingLearnMore.label "Ɓeydu humpito">
