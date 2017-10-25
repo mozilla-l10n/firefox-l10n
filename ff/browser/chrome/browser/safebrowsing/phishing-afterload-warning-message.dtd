@@ -36,7 +36,9 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> wonii <a id='error_desc_link'>jaŋtaaɗo hono baɗɗo topirɗe bonɗe </a>. Aɗa waawi <a id='ignore_warning_link'>faalkisaade ko hulaa koo </a> e yah to ndee lowre nde hisaani.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> woni <a id='error_desc_link'>jaŋtaaɗo hono baɗɗo topirde bonnde </a>.">
 
 
 
