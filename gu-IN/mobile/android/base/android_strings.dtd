@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; વસ્તુઓ">
 <!ENTITY bookmark_folder_one_item "1 વસ્તુ">
+<!ENTITY bookmark_folder_updated "ફોલ્ડર સુધારા કર્યું">
 <!ENTITY bookmark_parent_folder "મુખ્ય ફોલ્ડર">
 <!ENTITY bookmark_add_folder "નવું ફોલ્ડર બનાઓ">
 
@@ -198,14 +199,17 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIP: તેના શોધ ક્ષેત્ર પર લાંબા સમયથી દબાવીને શોધ પ્રદાતાઓની તમારી સૂચિમાં કોઈપણ વેબસાઇટ ઉમેરો અને પછી સ્પર્શ કરો &formatI; ચિહ્ન.">
 <!ENTITY pref_category_advanced "અદ્યતન">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "ટૅબ્સ, ડેટા સેવર, ડેવલપર ટૂલ્સ પુનઃસ્થાપિત કરો">
 <!ENTITY pref_category_notifications "સૂચનાઓ">
 <!ENTITY pref_category_notifications_summary "નવી સુવિધાઓ, વેબસાઇટ અપડેટ્સ">
 <!ENTITY pref_developer_remotedebugging_usb "દૂરસ્થ ડિબગીંગ USB દ્વારા">
 <!ENTITY pref_developer_remotedebugging_wifi "દૂરસ્થ ડિબગીંગ વાય ફાઇ દ્વારા">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ડિબગીંગ માટે તમારા ઉપકરણને QR કોડ રીડર એપ્લિકેશન ઇન્સ્ટોલ કરવાની જરૂર છે.">
 <!ENTITY pref_remember_signons2 "પ્રવેશો યાદ રાખો">
 <!ENTITY pref_manage_logins "લૉગિન સંચાલન કરો">
 
@@ -219,6 +223,7 @@
 <!ENTITY pref_category_home_homepage "મુખ પૃષ્ઠ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "નવા ટેબ્સ માટે પણ ઉપયોગ કરો">
 <!ENTITY home_homepage_title "મુખ પૃષ્ઠ સુયોજીત કરો">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -264,9 +269,11 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "બ્લોક થયેલ છે">
 
 <!ENTITY pref_show_web_fonts "વેબ ફોન્ટ્સ બતાવો">
+<!ENTITY pref_show_web_fonts_summary2 "કોઈ પૃષ્ઠ લોડ કરતી વખતે દૂરસ્થ ફોન્ટ્સ ડાઉનલોડ કરો">
 
 <!ENTITY pref_tracking_protection_title2 "ટ્રેકિંગ પ્રોટેક્શન">
 <!ENTITY pref_donottrack_title "ટ્રૅક કરશો નહીં">
+<!ENTITY pref_donottrack_summary "&brandShortName; એવી સાઇટ્સને કહેશે જે તમે ટ્રેક કરવા માંગતા નથી">
 
 <!ENTITY pref_tracking_protection_enabled "સક્ષમ કરેલું">
 <!ENTITY pref_tracking_protection_enabled_pb "ખાનગી બ્રાઉઝિંગ સક્ષમ">
@@ -286,16 +293,22 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL નકલ">
 
+<!ENTITY pref_pwa "પ્રગતિશીલ વેબ એપ્લિકેશન્સ">
+<!ENTITY pref_pwa_summary "વેબ એપ્લિકેશન્સને મુખ્ય સ્ક્રીન પર ઉમેરવાની મંજૂરી આપો">
 
 <!ENTITY tracking_protection_prompt_title "હવે ટ્રેકિંગ પ્રોટેક્શન સાથે">
+<!ENTITY tracking_protection_prompt_text "સક્રિય રીતે ટ્રેકિંગ ઘટકોને અવરોધિત કરો જેથી તમારે ચિંતા કરવાની જરૂર નથી.">
 <!ENTITY tracking_protection_prompt_tip_text "વધુ જાણવા માટે ગોપનીયતા સેટિંગ્સ ની મુલાકાત લો">
 <!ENTITY tracking_protection_prompt_action_button "સમજાઈ ગયું!">
 
+<!ENTITY tab_queue_toast_message3 "ટૅબ &brandShortName માં સચવાઈ;">
 <!ENTITY tab_queue_toast_action "હવે ખોલો">
 <!ENTITY tab_queue_prompt_title "બહુવિધ લિંક્સ ખુલે છે?">
+<!ENTITY tab_queue_prompt_text4 "જ્યારે તમે આગલી વખતે ખોલશો &brandShortName; ત્યાં સુધી તેમને સાચવો.">
 <!ENTITY tab_queue_prompt_tip_text2 "તમે સેટિંગ્સમાં પછીથી આ બદલી શકો છો">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "અન્ય એપ્લિકેશન્સ પર રેખાંકન પરમિટ ચાલુ કરો">
 <!ENTITY tab_queue_prompt_positive_action_button "સક્ષમ">
 <!ENTITY tab_queue_prompt_negative_action_button "હમણાં નહીં">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -306,11 +319,14 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ટેબ રાહ જોઈ રહ્યું છે">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 ટેબ રાહ જોઈ રહ્યું છે">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "\&quot;બહુવિધ લિંક્સ ખોલો\&quot; કરવા માટે, કૃપા કરીને &brandShortName; માટે \&apos;અન્ય એપ્લિકેશન્સની\&apos; પરવાનગી પર દોરો">
 
 <!ENTITY pref_char_encoding "અક્ષર સંગ્રહપદ્ધતિ">
 <!ENTITY pref_char_encoding_on "મેનુ બતાવો">
@@ -320,11 +336,14 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "હમણાં સાફ કરો">
 <!ENTITY pref_clear_on_exit_title3 "બહાર નીકળતી વખતે ખાનગી માહિતીને સાફ કરો">
+<!ENTITY pref_clear_on_exit_dialog_title "કયો ડેટા સાફ કરવો તે પસંદ કરો">
+<!ENTITY pref_restore_tabs "ટૅબ્સ પુનઃસ્થાપિત કરો">
 <!ENTITY pref_restore_always "હંમેશા પુનઃસંગ્રહો">
 <!ENTITY pref_restore_quit "&brandShortName; બંધ કર્યા પછી પુનઃસંગ્રહો નહિ">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "સિસ્ટમ ફોન્ટ કદનો ઉપયોગ કરો">
 
 <!ENTITY pref_media_autoplay_enabled "ઑટોપ્લે ની મંજૂરી આપો">
 <!ENTITY pref_media_autoplay_enabled_summary "નિયંત્રણ કરો જો વેબસાઇટ્સ વિડિઓઝ અને અન્ય મીડિયા સામગ્રી ઑટોપ્લે કરતી હોય">
@@ -365,6 +384,9 @@
 <!ENTITY pref_dialog_set_default "મૂળભૂત ગોઠવો">
 <!ENTITY pref_dialog_default "મૂળભૂત">
 <!ENTITY pref_dialog_remove "દૂર કરો">
+<!ENTITY pref_dialog_activitystream_header_content "વધારાની સામગ્રી">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "તાજેતરના બુકમાર્ક્સ">
+<!ENTITY pref_dialog_activitystream_visited "જોવામા આવેલ">
 
 <!ENTITY pref_search_last_toast "તમે તમારા છેલ્લા શોધ એંજીનને દૂર કરી શકો નહિ કે નિષ્ક્રિય કરી શકો નહિ.">
 
@@ -412,6 +434,8 @@
 
 <!ENTITY quit "બંધ કરો">
 
+<!ENTITY addons "એડ-ઑન્સ">
+<!ENTITY logins "લૉગિન">
 <!ENTITY downloads "ડાઉનલોડ">
 <!ENTITY char_encoding "અક્ષર સંગ્રહપદ્ધતિ">
 
@@ -419,6 +443,8 @@
 <!ENTITY share_title "આની મારફતે વહેંચો">
 <!ENTITY share_image_failed "આ ચિત્ર વહેંચવામાં અસમર્થ">
 <!ENTITY save_as_pdf "PDF તરીકે સંગ્રહો">
+<!ENTITY print "છાપો">
+<!ENTITY find_in_page "પૃષ્ઠમાં શોધો">
 <!ENTITY desktop_mode "ડેસ્કટૉપ સાઇટની વિનંતી કરો">
 <!ENTITY page "પાનું">
 <!ENTITY tools "સાધનો">
@@ -464,10 +490,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "ટોચના સાઇટ્સ પર પિન કરો">
+<!ENTITY contextmenu_unpin_from_top_sites "ટોચના સાઇટ્સમાંથી અનપિન કરો">
 <!ENTITY contextmenu_add_search_engine "શોધ યંત્ર ઉમેરો">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "ટોચના સાઇટ્સ પર પિન કરેલ પૃષ્ઠ">
+<!ENTITY unpinned_page_from_top_sites "ટોચના સાઇટ્સમાંથી અનપિન કરેલ પૃષ્ઠ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -485,19 +515,26 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "પૂર્ણ સ્ક્રીન બ્રાઉઝિંગ">
+<!ENTITY pref_scroll_title_bar_summary2 "&BrandShortName; છુપાવો ટૂલબાર જ્યારે પૃષ્ઠને સ્ક્રોલ કરતી વખતે">
 
+<!ENTITY pref_tab_queue_title3 "ટૅબ કતાર">
+<!ENTITY pref_tab_queue_summary4 "જ્યારે તમે આગલી વખતે ખોલો &brandShortName; સુધી લિંક્સ સાચવો">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "કોમ્પેક્ટ ટૅબ્સ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "પૃષ્ઠ દૂર કર્યું">
 
 <!ENTITY bookmark_edit_title "બુકમાર્કમાં ફેરફાર કરો">
+<!ENTITY bookmark_edit_folder_title "ફોલ્ડર સંપાદિત કરો">
 <!ENTITY bookmark_edit_name "નામ">
 <!ENTITY bookmark_edit_location "સ્થાન">
 <!ENTITY bookmark_edit_keyword "મુખ્ય શબ્દ">
+<!ENTITY bookmark_select_folder "ફોલ્ડર પસંદ કરો">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -532,10 +569,13 @@
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; મુખ">
 <!ENTITY home_history_title "ઇતિહાસ">
+<!ENTITY home_synced_devices_smartfolder "સમન્વિત ઉપકરણો">
 <!ENTITY home_synced_devices_number "&formatD; ઉપકરણો">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 ઉપકરણ">
+<!ENTITY home_history_back_to2 "સંપૂર્ણ ઇતિહાસ પર પાછા">
 <!ENTITY home_clear_history_button "બ્રાઉઝીંગ ઇતિહાસ સ્વચ્છ કરો">
+<!ENTITY home_clear_history_confirm "શું તમે ખરેખર તમારા ઇતિહાસને સાફ કરવા માંગો છો?">
 <!ENTITY home_bookmarks_empty "તમે સંગ્રહો તે બુકમાર્કો અહીં બતાવે છે.">
 <!ENTITY home_closed_tabs_title2 "છેલ્લે બધ થયેલ ટૅબ">
 <!ENTITY home_last_tabs_empty "તમારી છેલ્લી ટૅબ અહીં બતાવવામાં આવે છે.">
@@ -569,6 +609,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "પિન કરેલ સાઇટ">
+<!ENTITY home_unpinned_site "અનપિન કરેલી સાઇટ">
 
 <!ENTITY remote_tabs_panel_moved_title "મારા ટૅબ્સ ક્યાં ગયા હતા?">
 <!ENTITY remote_tabs_panel_moved_desc "અમે તમારા ટૅબ્સને અન્ય ઉપકરણોમાંથી તમારા હોમ પેજ પરથી પેનલમાં ખસેડી દીધા છે જેથી દરેક વખતે જ્યારે તમે નવું ટેબ ખોલશો ત્યારે તે સરળતાથી ઍક્સેસ કરી શકાય છે.">
@@ -774,9 +816,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "ટોચના સાઇટ્સ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket દ્વારા ભલામણ કરેલ;">
 <!ENTITY activity_stream_highlights "હાઇલાઇટ્સ">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "વધુ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -785,11 +829,16 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "જોવામા આવેલ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "હાલમાં લોકપ્રિય">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "દૂર કરો">
 <!ENTITY activity_stream_delete_history "ઇતિહાસમાંથી દૂર કરો">
 
+<!ENTITY private_tab_panel_title "ખાનગી બ્રાઉઝિંગ + ટ્રેકિંગ પ્રોટેક્શન">
+<!ENTITY private_tab_learn_more "વધુ જાણવા માગો છો?">
 
+<!ENTITY fullscreen_warning "પૂર્ણ સ્ક્રીનને દાખલ કરો">
