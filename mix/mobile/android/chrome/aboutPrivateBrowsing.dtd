@@ -3,20 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Nda duku ña kuu kunche meu">
+
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
-
 <!ENTITY privatebrowsingpage.title.private "+ Chikavaa ña sau">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Kue inkau nu ku kuncheu ña saa mitu'un">
 
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ntsasia página nche'e ña sau.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Ma ndakunia ña ntsinu'u, tutu snuu tsi marca nchikavau ku kunkaia nu kaa ndusu'ku.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Nuu nduku seu ña'a, ma nkuka va'a ña tsinu. Kue marca ku nchikau tsi ña'a snu'u ku kunka'a vai nu kaa ndusu'ku.">
 
 <!ENTITY privatebrowsingpage.link.private "¿A kunu kua kutuaku?">
 <!ENTITY privatebrowsingpage.link.normal "Kunàa iin pestaña tsaa meu ">
