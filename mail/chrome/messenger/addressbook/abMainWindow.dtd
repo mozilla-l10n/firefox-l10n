@@ -109,7 +109,7 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "Nama Penuh">
+<!ENTITY firstLastCmd2.label                            "Pertama Terakhir">
 <!ENTITY firstLastCmd2.accesskey                        "P">
 <!ENTITY lastFirstCmd.label                             "Nama Akhir, Pertama">
 <!ENTITY lastFirstCmd.accesskey                         "A">
