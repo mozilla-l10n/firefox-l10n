@@ -687,6 +687,8 @@
 <!ENTITY customizeMode.lwthemes.menuGetMore "Pobierz więcej">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "P">
 <!ENTITY customizeMode.emptyOverflowList.description "Przeciągaj tutaj rzeczy, aby były pod ręką, ale nie zabierały miejsca na pasku narzędzi…">
+<!ENTITY customizeMode.overflowList.title "Menu ukrywania">
+<!ENTITY customizeMode.overflowList.description "Przeciągaj tutaj rzeczy, aby były pod ręką, ale nie zabierały miejsca na pasku narzędzi…">
 <!ENTITY customizeMode.uidensity "Gęstość i upakowanie">
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normalne">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normalne">
