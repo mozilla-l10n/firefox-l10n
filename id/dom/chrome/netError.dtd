@@ -8,7 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Gagal Tersambung">
-<!ENTITY connectionFailure.longDesc "<p>Walaupun tampaknya benar, program peramban tidak dapat tersambung ke situs yang dituju.</p><ul><li>Apakah situs tersebut sedang tidak berfungsi? Coba lagi nanti.</li><li>Apakah Anda tidak bisa membuka situs lain? Periksa sambungan jaringan komputer.</li><li>Apakah komputer Anda dilindungi firewall atau proxy? Kesalahan pengaturan dapat mengganggu nikmatnya menjelajah web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Walau pun tampaknya benar, program peramban tidak dapat tersambung ke situs yang dituju.</p><ul><li>Apakah situs tersebut sedang tidak berfungsi? Coba lagi nanti.</li><li>Apakah Anda tidak bisa membuka situs lain? Periksa sambungan jaringan komputer.</li><li>Apakah komputer Anda dilindungi firewall atau proxy? Kesalahan pengaturan dapat mengganggu nikmatnya menjelajah web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Port Dibatasi untuk Alasan Keamanan">
 <!ENTITY deniedPortAccess.longDesc "<p>Alamat yang diminta mengandung port tertentu (misalnya <q>mozilla.org:80</q> untuk port 80 di mozilla.org) yang pada umumnya digunakan untuk keperluan <em>selain</em> menjelajah Web. Program peramban telah membatalkan permintaan untuk perlindungan dan keamanan Anda.</p>">

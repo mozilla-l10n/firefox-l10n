@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Maaf. Kami kesulitan membuat laman Anda kembali.">
+<!ENTITY restorepage.errorTitle2    "Maaf. Kami kesulitan mendapatkan kembali laman Anda.">
 <!ENTITY restorepage.problemDesc2   "Kami kesulitan memulihkan sesi penjelajahan terakhir Anda. Pilih Pulihkan Sesi untuk mencoba lagi.">
 <!ENTITY restorepage.tryThis2       "Masih tidak bisa memulihkan sesi Anda? Kadang tab adalah penyebabnya. Lihat tab sebelumnya, hapus centang dari tab yang tidak Anda perlukan, dan kemudian pulihkan.">
 
