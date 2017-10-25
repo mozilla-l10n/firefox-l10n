@@ -14,7 +14,7 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Ĝenerala">
-<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTab.accesskey  "e">
 <!ENTITY  generalTitle          "Titolo:">
 <!ENTITY  generalURL            "Adreso:">
 <!ENTITY  generalType           "Tipo:">
