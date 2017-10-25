@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Jamirooje">
 
 <!ENTITY  blockPopups.label           "Falo kenorɗe cuppitte">
 <!ENTITY  blockPopups.accesskey       "o">
@@ -14,9 +15,21 @@
 <!ENTITY  popupExceptions.accesskey                             "P">
 
 <!ENTITY  notificationPermissions.label                         "Tintine">
+<!ENTITY  notificationSettingsButton.label                      "Teelte…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Ɓeydu humpito">
 
+<!ENTITY  locationPermissions.label                             "Nokkuure">
+<!ENTITY  locationSettingsButton.label                          "Teelte…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraPermissions.label                               "Kameraa">
+<!ENTITY  cameraSettingsButton.label                            "Teelte…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
+<!ENTITY  microphonePermissions.label                           "Mikkoroo">
+<!ENTITY  microphoneSettingsButton.label                        "Teelte…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Ponte &amp; Nooneeji">
 
@@ -32,6 +45,7 @@
 <!ENTITY  colors.accesskey            "N">
 
 
+<!ENTITY language2.label              "Ɗemngal">
 <!ENTITY chooseLanguage.label         "Suɓo ɗemngal njiɗ-ɗaa ngam jaytinde kelle">
 <!ENTITY chooseButton.label           "Suɓo…">
 <!ENTITY chooseButton.accesskey       "u">

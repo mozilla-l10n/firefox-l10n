@@ -4,21 +4,25 @@
 
 <!ENTITY  fontsDialog.title                       "Ponte">
 
+<!ENTITY  fonts.label                             "Ponte">
+<!ENTITY  fonts.accesskey                         "P">
 
-
+<!ENTITY  size2.label                             "Ɓetol">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "Potpotondirɗe">
+<!ENTITY  proportional2.accesskey                 "P">
 
-
-
-
-
-
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Lateŋ">
 <!ENTITY  font.langGroup.japanese                 "Saponeere">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
@@ -49,10 +53,11 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhalaa">
 <!ENTITY  font.langGroup.tibetan                  "Tibetaŋkoore">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "Ɓetol fontere lesiwol">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Ndiga">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "San Serif">
 
@@ -60,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "Y">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Dokkitannde binndol Loowdi Gaadanteeri">
-
-
+<!ENTITY languages.customize.Fallback3.label      "Yantirde Dokkitannde Binndi">
+<!ENTITY languages.customize.Fallback3.accesskey  "B">
 <!ENTITY languages.customize.Fallback2.desc       "Ndee dokkitannde binndol huutortee ko e loowdi gaadanteeri korotoondi hollitde dokkitannde mum.">
 
 <!ENTITY languages.customize.Fallback.auto        "Goowaaɗo Lokaalde Wonaande">

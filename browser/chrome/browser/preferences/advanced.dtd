@@ -116,6 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Paltooje…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "l">
 
+<!ENTITY offlineAppsList3.label          "Ɗee lowe ena njamiraa resde keɓe ngam huutoraade e ceŋtol">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ittu…">
 <!ENTITY offlineAppsListRemove.accesskey "I">

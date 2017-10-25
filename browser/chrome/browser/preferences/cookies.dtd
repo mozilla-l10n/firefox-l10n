@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Ɗee-ɗoo kujiije ko mooftiiɗe e nder ordinateer maa:">
+<!ENTITY     cookiesonsystem2.label         "Ɗee kukiije nana ndesaa e nder ordinateer maa">
 <!ENTITY     cookiename.label               "Innde Kukii">
 <!ENTITY     cookiedomain.label             "Lowre">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Kukiije">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Yiylo">
 <!ENTITY     searchFilter.accesskey         "Y">
