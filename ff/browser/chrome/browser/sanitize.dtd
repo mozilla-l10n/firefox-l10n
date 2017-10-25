@@ -23,6 +23,7 @@
 
 <!ENTITY clearDataSettings2.label     "So mi yaltii &brandShortName;, ena foti momtude fof:">
 
+<!ENTITY clearDataSettings3.label     "So mi yaltii &brandShortName;, ena foti momtude fof">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.

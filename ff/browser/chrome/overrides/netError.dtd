@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "Sarworde Nde Yiytaaka">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Min ndañii saɗeende e yiytude hello ngo.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>So ndeen ñiiɓirde ena moƴƴi, aɗa waawi etaade ɗeeɗoo geɗe:</strong>
+<ul>
+  <li>Fuɗɗito so ɓooyii.</li>
+  <li>CƳeewto ceŋol laylaytol maa.</li>
+  <li>So ngon-ɗaa ko caggal ɓalal-jaynge, ƴeewto so &brandShortName; ena jogii yamiroore naatoyde e Geese.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fiilde yiytaaka">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ƴeewto alkule puɗɗorɗe ɗee e innde fiilde ndee walla juume tappugol goɗɗe.</li> <li>Ƴeewto ngam so fiilde ndee dirtinaaka, innitaaka walla momtaaka.</li> </ul>">
