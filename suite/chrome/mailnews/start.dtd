@@ -13,7 +13,7 @@ sumber terbuka yang menyokong ciri mengesan mel remeh dan ciri berguna lain.">
 <!ENTITY feat_multiacc.label "Menyokong berbilang akaun">
 <!ENTITY feat_junk.label "Pengesanan Mel Remeh">
 <!ENTITY feat_feeds.label "Pembaca Suapan">
-<!ENTITY feat_filters.label "Penapis Mesej">
+<!ENTITY feat_filters.label "Tapis Mesej">
 <!ENTITY feat_htmlmsg.label "Menyokong mesej HTML">
 <!ENTITY feat_abook.label "Buku Alamat">
 <!ENTITY feat_tags.label "Penyesuaian Tab dan Paparan Mel">

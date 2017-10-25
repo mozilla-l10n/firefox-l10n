@@ -101,7 +101,7 @@
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY backButton.tooltip  "Undur">
-<!ENTITY forwardButton.tooltip  "Seterusnya">
+<!ENTITY forwardButton.tooltip  "Langkau">
 
 <!ENTITY detailsPane.more.label "Lanjutan">
 <!ENTITY detailsPane.more.accesskey "j">
