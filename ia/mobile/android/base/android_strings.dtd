@@ -228,7 +228,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; Domo">
+<!ENTITY home_homepage_radio_default "Pagina initial de &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -571,7 +571,7 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "Initio de &brandShortName;">
+<!ENTITY home_title "Pagina initial de &brandShortName;">
 <!ENTITY home_history_title "Chronologia">
 <!ENTITY home_synced_devices_smartfolder "Apparatos synchronisate">
 <!ENTITY home_synced_devices_number "&formatD; apparatos">
@@ -715,12 +715,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "Lassar Session de Invitato">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancellar">
-<!ENTITY new_guest_session_title "&brandShortName; se reinitiara ora">
+<!ENTITY new_guest_session_title "&brandShortName; reinitiara ora">
 <!ENTITY new_guest_session_text2 "Le persona usante lo non potera vider qualcunque de tu datos de navigation personal (como contos salvate, chronologia o marcapaginas).\n\nQuando tu convitato termina, su datos de navigation essera delite e tu session essera restaurate.">
 <!ENTITY guest_browsing_notification_title "Le navigation del hospite es habilitate">
 <!ENTITY guest_browsing_notification_text "Toccar pro exir">
 
-<!ENTITY exit_guest_session_title "&brandShortName; non reinitiara ora">
+<!ENTITY exit_guest_session_title "&brandShortName; reinitiara ora">
 <!ENTITY exit_guest_session_text "Le datos de navigation de iste session essera delite.">
 
 <!-- Miscellaneous -->
