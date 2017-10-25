@@ -6,6 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "ಕ್ಷಮಿಸಿ. ನಿಮ್ಮ ಪುಟಗಳನ್ನು ಕರೆತರಲು ನಮಗೆ ತೊಂದರೆಯಾಗುತ್ತಿದೆ.">
 
 <!ENTITY restorepage.hideTabs       "ಹಿಂದಿನ ಹಾಳೆಯನ್ನು ಅಡಗಿಸು">
 <!ENTITY restorepage.showTabs       "ಹಿಂದಿನ ಹಾಳೆಯನ್ನು ತೋರಿಸು">
