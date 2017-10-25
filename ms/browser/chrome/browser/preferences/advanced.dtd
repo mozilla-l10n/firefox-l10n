@@ -45,7 +45,7 @@ available. -->
 
 <!ENTITY networkProxy.label              "Proksi Rangkaian">
 
-<!ENTITY connectionDesc.label            "Konfigur cara &brandShortName; menyambung ke Internet">
+<!ENTITY connectionDesc.label            "Tentukan cara &brandShortName; menyambung ke Internet">
 <!ENTITY connectionSettings.label        "Tetapan…">
 <!ENTITY connectionSettings.accesskey    "t">
 
