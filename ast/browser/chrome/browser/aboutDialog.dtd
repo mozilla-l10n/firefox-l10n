@@ -5,7 +5,7 @@
 
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
-# See about:preferences#advanced.
+# See about:preferences#general.
 -->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
@@ -14,6 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Comprobar anovamientos">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label3               "Reaniciar p'anovar &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
