@@ -474,9 +474,9 @@
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Tapis Mesej">
 <!ENTITY filtersCmd2.accesskey "T">
-<!ENTITY filtersApply.label "Tapis Folder">
+<!ENTITY filtersApply.label "Laksanakan Penapis pada Folder">
 <!ENTITY filtersApply.accesskey "T">
-<!ENTITY filtersApplyToSelection.label "Tapis Mesej Dipilih">
+<!ENTITY filtersApplyToSelection.label "Laksanakan Penapis pada Mesej Dipilih">
 <!ENTITY filtersApplyToSelection.accesskey "p">
 <!ENTITY filtersApplyToMessage.label "Tapis Mesej">
 <!ENTITY filtersApplyToMessage.accesskey "j">
