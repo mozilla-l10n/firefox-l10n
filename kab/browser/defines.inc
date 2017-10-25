@@ -3,12 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR Tarbaɛt Taqbaylit n Mozilla\u0020
+#define MOZ_LANGPACK_CREATOR Tarbaɛt Taqbaylit n Mozilla
 
 # If non-English locales wish to credit multiple contributors, uncomment this
-
 # variable definition and use the format specified.
-
 #define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Belkacem Mohammed</em:contributor><em:contributor>Omar Kerdja</em:contributor>
 
 #unfilter emptyLines

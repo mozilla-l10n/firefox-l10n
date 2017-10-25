@@ -52,10 +52,10 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Isemli yemmut">
-<!ENTITY notCached.longDesc "<p>Isemli ittusutren ulac-it deg tuffirt n &brandShortName;.</p><ul><li>Ilmendad n tɣellist, &brandShortName; ur yessutur ara s twurmant isemliyen imḥulfuyen.</li><li>Sit ɣef ɛreḍ i usuter n isemli-a seg usmel web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Isemli ittusutren ulac-it deg tuffirt n &brandShortName;.</p><ul><li>I lmendad n tɣellist, &brandShortName; ur yessutur ara s twurmant isemliyen imḥulfuyen.</li><li>Sit ɣef Ɛreḍ i usuter n isemli-a seg usmel web.</li></ul>">
 
 <!ENTITY netOffline.title "Askar war tuqqna">
-<!ENTITY netOffline.longDesc2 "<ul><li>Sit ɣef &quot;Ɛreḍ tikelt nniḍen&quot; akken ad tuɣaleḍ ɣer uskar uqqin sakin smiren asebter</li></ul>">
+<!ENTITY netOffline.longDesc2 "<ul><li>Sit ɣef &quot;Ɛreḍ tikelt-nniḍen&quot; akken ad tuɣaleḍ ɣer uskar uqqin sakin smiren asebter</li></ul>">
 
 <!ENTITY contentEncodingError.title "Tuccḍa n usettengel n ugbur">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-a.</li> </ul>">
@@ -65,14 +65,14 @@
   <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-a.</li>
  </ul>">
 
-<!ENTITY netReset.title "Tuqqna teţuwennez tikelt nniḍen.">
+<!ENTITY netReset.title "Tuqqna tettuwennez tikelt-nniḍen.">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Tanzagt n uraju tezri">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Ur nessin ara tansa">
-<!ENTITY unknownProtocolFound.longDesc "<ul><li>Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmireḍ ad teldiḍ tawsit n tansa-a.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<li>Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmireḍ ad teldiḍ tawsit n tansa-a.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Aqeddac apṛuksi yugi tuqqniwin.">
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>Senqed iɣewwaṛen n upṛuksi ma llan d imeɣta.</li> <li>Nermes anedbal n uẓeṭṭa akken ad twaliḍ ma yella aqeddac apṛuksi itteddu.</li></ul>">
@@ -84,7 +84,7 @@
 <!ENTITY redirectLoop.longDesc "<ul><li>Ugur-a ahat yekka-d seg tukksa n urmad neɣ asewḥel n inagan n tuqqna.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara">
-<!ENTITY unknownSocketType.longDesc "<ul><li>Senqed ma yella amsefrak n tɣellist tudmawant tebded ɣef unagraw-ik.</li><li>Ahat aqeddac ur iţuswel ara akken iwata.</li></ul>">
+<!ENTITY unknownSocketType.longDesc "<ul><li>Senqed ma yella amsefrak n tɣellist tudmawant tebded ɣef unagraw-ik.</li><li>Ahat aqeddac ur ittuswel ara akken iwata.</li></ul>">
 
 <!ENTITY nssFailure2.title "Tuqqna taɣelsant ur teddi ara">
 <!ENTITY nssFailure2.longDesc2 "<ul>
@@ -103,7 +103,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Tesweḥlit tsertit n tɣellist n ugbur">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-a acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Tuccḍa d yekkan seg ugbur yerẓen">
+<!ENTITY corruptedContentErrorv2.title "Tuccḍa d-yekkan seg ugbur yerẓen">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
 
 
@@ -123,8 +123,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTime_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqna-yagi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTime_systemDate'/>, ilaq ad yili di <span id='wrongSystemTime_actualDate'/>. akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d ukud akken ad imṣaḍa d ukud amaɣtu.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTimeWithoutReference_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqna-yagi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTimeWithoutReference_systemDate'/>, akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d ukud akken ad imṣaḍa d ukud amaɣtu.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTime_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqna-yagi d taɣelsant.</p> <p>Aselkim-inek ittwasbadu ɣer <span id='wrongSystemTime_systemDate'/>, ilaq ad yili di <span id='wrongSystemTime_actualDate'/>. Akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTimeWithoutReference_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqna-yagi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTimeWithoutReference_systemDate'/>, akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
 
 <!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">
