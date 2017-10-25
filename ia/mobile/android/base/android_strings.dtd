@@ -331,13 +331,13 @@
 <!ENTITY pref_char_encoding "Codification de characteres">
 <!ENTITY pref_char_encoding_on "Monstrar menu">
 <!ENTITY pref_char_encoding_off "Non monstrar menu">
-<!ENTITY pref_clear_private_data2 "Clarar datos private">
+<!ENTITY pref_clear_private_data2 "Vacuar le datos private">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "Clarar ora">
-<!ENTITY pref_clear_on_exit_title3 "Clarar datos private in exito">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; Clarara automaticamente tu datos sempre quando tu selige \&quot;Quitar\&quot; del menu principal">
-<!ENTITY pref_clear_on_exit_dialog_title "Seliger que datos clarar">
+<!ENTITY pref_clear_private_data_now_tablet "Vacuar ora">
+<!ENTITY pref_clear_on_exit_title3 "Vacuar le datos private al exir">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vacuara automaticamente tu datos sempre quando tu selige \&quot;Quitar\&quot; in le menu principal">
+<!ENTITY pref_clear_on_exit_dialog_title "Seliger que datos debe esser vacuate">
 <!ENTITY pref_restore_tabs "Restaurar schedas">
 <!ENTITY pref_restore_always "Sempre restaurar">
 <!ENTITY pref_restore_quit "Non restaurar post quitate &brandShortName;">
@@ -544,7 +544,7 @@
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Parametros del Sito">
 <!ENTITY site_settings_cancel       "Cancellar">
-<!ENTITY site_settings_clear        "Clarar">
+<!ENTITY site_settings_clear        "Vacuar">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -559,9 +559,9 @@
 <!ENTITY button_cancel "Cancellar">
 <!ENTITY button_yes "Si">
 <!ENTITY button_no "No">
-<!ENTITY button_clear_data "Clarar datos">
+<!ENTITY button_clear_data "Vacuar le datos">
 <!ENTITY button_set "Definir">
-<!ENTITY button_clear "Clarar">
+<!ENTITY button_clear "Vacuar">
 <!ENTITY button_copy "Copiar">
 
 <!ENTITY home_top_sites_title "Sitos Popular">
@@ -578,8 +578,8 @@
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 apparato">
 <!ENTITY home_history_back_to2 "Retornar al chronologia complete">
-<!ENTITY home_clear_history_button "Clarar le chronologia de navigation">
-<!ENTITY home_clear_history_confirm "Desira tu vermente clarar tu chronologia?">
+<!ENTITY home_clear_history_button "Vacuar le chronologia de navigation">
+<!ENTITY home_clear_history_confirm "Desira tu vermente vacuar tu chronologia?">
 <!ENTITY home_bookmarks_empty "Le marcapaginas que tu salva es monstrate hic.">
 <!ENTITY home_closed_tabs_title2 "Recentemente claudite">
 <!ENTITY home_last_tabs_empty "Tu schedas recente se monstra hic.">
@@ -663,8 +663,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY enable_protection "Activar le protection">
 <!ENTITY disable_protection "Disactivar le protection">
 
-<!ENTITY private_data_success "Datos private clarate">
-<!ENTITY private_data_fail "Alicun datos private non pote ser clarate">
+<!ENTITY private_data_success "Datos private vacuate">
+<!ENTITY private_data_fail "Alicun datos private non pote ser vacuate">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importante le marcapaginas e le chronologia
@@ -778,7 +778,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation_description "Adder characteristicas o functionalitates a Firefox. Nota: le additivos pote inactivar certe restrictiones.">
 <!ENTITY restrictable_feature_private_browsing "Navigation private">
 <!ENTITY restrictable_feature_private_browsing_description "Consenti al membros del familia de navigar sin conservar informationes re le sitos e paginas que illes visita.">
-<!ENTITY restrictable_feature_clear_history "Clarar le chronologia">
+<!ENTITY restrictable_feature_clear_history "Vacuar le chronologia">
 <!ENTITY restrictable_feature_clear_history_description "Consenti al membros del familia de deler informationes re le sitos e paginas que illes visitava.">
 <!ENTITY restrictable_feature_advanced_settings "Definitiones avantiate">
 <!ENTITY restrictable_feature_advanced_settings_description "Isto include importar le marcapaginas, restaurar le schedas e actualisationes automatisate. Inactiva lo si tu vole parametros simplificate e convenibile pro qualcunque membro del familia.">
