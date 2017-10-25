@@ -32,7 +32,7 @@
 <!ENTITY hdrReplyAllButton1.label "Balas Semua">
 <!ENTITY hdrReplyAllButton1.tooltip "Balas kepada pengirim dan semua penerima">
 <!ENTITY hdrReplyListButton1.label "Senarai Balasan">
-<!ENTITY hdrReplyListButton1.tooltip "Balas kepada senarai mel">
+<!ENTITY hdrReplyListButton1.tooltip "Balas kepada kenalan dalam senarai mel">
 <!ENTITY hdrFollowupButton1.label "Susulan">
 <!ENTITY hdrFollowupButton1.tooltip "Siar susulan kepada kumpulan berita ini">
 <!ENTITY hdrMenuForwardButton.label "Kirim Semula Sebagai">

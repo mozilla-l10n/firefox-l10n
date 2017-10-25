@@ -197,7 +197,7 @@
 <!ENTITY sortByRecipientCmd.accesskey "n">
 <!ENTITY sortByCorrespondentCmd.label "Koresponden">
 <!ENTITY sortByCorrespondentCmd.accesskey "n">
-<!ENTITY sortByUnreadCmd.label "Sudah Dibaca">
+<!ENTITY sortByUnreadCmd.label "Dibaca">
 <!ENTITY sortByUnreadCmd.accesskey "D">
 <!ENTITY sortByOrderReceivedCmd.label "Susunan Diterima">
 <!ENTITY sortByOrderReceivedCmd.accesskey "S">
