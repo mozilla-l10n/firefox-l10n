@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Leabhar-lann">
 <!ENTITY places.library.width  "800">
 <!ENTITY places.library.height "500">
@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Air a chruthachadh">
 <!ENTITY col.lastmodified.label  "Atharrachadh mu dheireadh">
 
-<!ENTITY search.placeholder  "Lorg">
+<!ENTITY historySearch.placeholder  "Eachdraidh nan lorg">
+<!ENTITY bookmarksSearch.placeholder  "Lorg sna comharran-lìn">
 
 <!ENTITY cmd.find.key  "f">
 

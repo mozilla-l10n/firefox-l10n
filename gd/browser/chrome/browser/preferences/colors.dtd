@@ -6,25 +6,25 @@
 <!ENTITY  window.width                    "46em">
 <!ENTITY  window.macWidth                 "49em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Cleachd na dathan a thagh thu gu h-àrd an àite na feadhainn a shònraich an duilleag:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "u">
+<!ENTITY  overrideDefaultPageColors2.label       "Cleachd na dathan a thagh thu gu h-àrd an àite na feadhainn a shònraich an duilleag">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "An-còmhnaidh">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Le ùrlaran àrd-iomsgaraidh a-mhàin">
 <!ENTITY  overrideDefaultPageColors.never.label  "Chan ann idir">
 
 <!ENTITY  color                           "Teacsa is cùlaibh">
-
-
-
-
+<!ENTITY  textColor2.label                "Teacsa">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Cùlaibh">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "Cleachd dathan an t-siostaim">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Cuir loidhne fo cheanglaichean">
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Dathan nan ceangal">
-
-
-
-
+<!ENTITY  linkColor2.label                "Ceanglaichean gun tadhal orra">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Ceanglaichean a thadhladh orra">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

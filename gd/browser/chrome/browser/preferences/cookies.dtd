@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "42em">
 
-<!ENTITY     cookiesonsystem.label          "Tha na briosgaidean a leanas air an stòradh air a' choimpiutair agad:">
+<!ENTITY     cookiesonsystem2.label         "Tha na briosgaidean a leanas air an stòradh air a' choimpiutair agad">
 <!ENTITY     cookiename.label               "Ainm na briosgaid">
 <!ENTITY     cookiedomain.label             "Seòladh">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Briosgaidean">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Lorg">
 <!ENTITY     searchFilter.accesskey         "L">

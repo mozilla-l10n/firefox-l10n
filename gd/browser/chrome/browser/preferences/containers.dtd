@@ -12,12 +12,13 @@
 <!ENTITY window.title         "Cuir soitheach ùr ris">
 <!ENTITY window.width         "50em">
 
-
+<!ENTITY name2.label          "Ainm">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Cuir a-steach ainm dhan t-soitheach">
-
-
-
-
+<!ENTITY icon2.label          "Ìomhaigheag">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Dath">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Deiseil">
