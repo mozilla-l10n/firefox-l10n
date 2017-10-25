@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Chaidh aithris gur e duilleag a sgaoileas bathar-bog gun iarrtas a tha ann an <span id='unwanted_sitename'/> agus chaidh bacadh a chur air a-rèir do roghainnean tèarainteachd.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Feuchaidh duilleagan mar seo bathar-bog a stàladh air am bi coltas foilleil agus a mì-ghnàthaicheas an siostam agam air dòighean nach iarradh tu.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Dh’fhaoidte gu bheil bathar-bog droch rùnach air an làrach seo">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Bhac &brandShortName; an làrach seo oir dh’fhaoidte gum feuch e ri aplacaidean cunnartach a stàladh a ghoideas no a sguabas às fiosrachadh (mar eisimpleir, dealbhan, faclan-faire, teachdaireachdan is cairtean-creideis).">
