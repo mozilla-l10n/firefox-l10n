@@ -367,7 +367,7 @@
 <!ENTITY editDraftMsgCmd.label "Modifica bozza messaggio">
 <!ENTITY editDraftMsgCmd.accesskey "E">
 <!ENTITY newMsgFromTemplateCmd.label "Nuovo messaggio da modello">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Crea un filtro dal messaggio…">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Sposta in">
