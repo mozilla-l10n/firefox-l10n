@@ -18,7 +18,7 @@
 <!ENTITY engine.addons.accesskey    "D">
 <!ENTITY engine.addresses.label     "Adresy">
 <!ENTITY engine.addresses.accesskey "e">
-<!ENTITY engine.creditcards.label   "Kreditní karty">
+<!ENTITY engine.creditcards.label   "Platební karty">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
