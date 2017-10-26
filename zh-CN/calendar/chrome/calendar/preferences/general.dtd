@@ -37,6 +37,14 @@
 <!ENTITY pref.soondays.label "“即将到来”区块将显示：">
 <!ENTITY pref.soondays.accesskey "u">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "“即将到来”区块将显示：">
+<!ENTITY pref.soondays2.accesskey "U">
+
 <!ENTITY pref.accessibility.label "可用性" >
 <!ENTITY pref.systemcolors.label "为无障碍使用优化颜色" >
 <!ENTITY pref.systemcolors.accesskey "c">
