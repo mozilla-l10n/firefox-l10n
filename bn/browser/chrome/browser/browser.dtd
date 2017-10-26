@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "বার্তা প্যানেল খুলুন">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "অবস্থান অনুরোধ প্যানেল খুলুন">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "অ্যাড-অন ইনস্টলেশন বার্তা প্যানেল খুলুন">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "ক্যানভাস এক্সট্রাকশন অনুমোদন ব্যবস্থাপনা">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "অফলাইন স্টোরেজ বার্তা প্যানেল খুলুন">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "পাসওয়ার্ড সংরক্ষণ বার্তা প্যানেল খুলুন">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "প্লাগ-ইন ব্যবহার পরিচালনা করুন">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "আপনি এই ওয়েব সাইটের জন্য ডাটা স্টোরেজ ব্লক করেছেন">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "আপনি এই ওয়েব সাইটের জন্য ঘোষণা ব্লক করেছেন।">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "আপনি এই ওয়েব সাইটের জন্য পার্সিস্টেন্ট স্টোরেজ ব্লক করেছেন।">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "আপনি এই ওয়েবসাইটের জন্য পপ-আপ ব্লক করেছেন।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখুন">
 
