@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Allmänt">
+
 <!ENTITY  startupAction.label         "När &brandShortName; startar:">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Håll mina chattkonton offline">
@@ -39,3 +41,20 @@ sentence. -->
 <!ENTITY  customsound.accesskey               "A">
 <!ENTITY  browse.label                        "Bläddra…">
 <!ENTITY  browse.accesskey                    "B">
+
+<!ENTITY messageStyleTab.title             "Meddelandestilar">
+<!ENTITY messageStylePreview.label         "Förhandsgranskning:">
+<!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Bubblor">
+<!ENTITY messageStyleDarkTheme.label       "Mörkt">
+<!ENTITY messageStylePaperSheetsTheme.label "Pappersark">
+<!ENTITY messageStyleSimpleTheme.label     "Enkelt">
+<!ENTITY messageStyleDefaultTheme.label    "Standard">
+<!ENTITY messageStyleVariant.label         "Variant:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Visa rubrik">
+<!ENTITY messageStyleShowHeader.accesskey  "r">
+<!ENTITY messageStyleNoPreview.title       "Ingen förhandsgranskning tillgänglig">
+<!ENTITY messageStyleNoPreview.description "Det här temat är inte giltigt eller är för närvarande inte tillgängligt (inaktivera tillägg, säkert läge, …).">
