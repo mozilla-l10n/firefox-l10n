@@ -6,6 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Faalkiso ngoo reentino">
 <!ENTITY safeb.palm.reportPage.label "Hol ko waɗi ngoo hello daaƴeede?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Rokki yiyannde ko <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Jaŋtaama ko Hello Njangu!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Ngoo hello geese to <span id='unwanted_sitename'/> jaŋtaama ko hello njangu etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Kelle topirɗe gañaaɗe etoto aafde topirɗe baawɗe fuuntude kadi njana e yuɓɓo maa e mbaydi ndi tijjaaka.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Lowre aroore ndee ina waawi waɗde mbonnanteeri">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; daaƴii ngoo hello sabu ha ngo waawi etaade aafde jaaɓnirɗe bonɗe gujjooje walla momtooje humpito (yeru, nate, finndeeji, mesaasuuji e karte banke).">
