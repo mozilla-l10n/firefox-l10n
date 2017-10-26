@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Buka panel pesan">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Buka panel permintaan lokasi">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Buka panel pesan pemasangan pengaya">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Kelola izin ekstraksi canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Buka panel pesan penyimpanan luring">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Buka panel pesan penyimpanan sandi">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Kelola penggunaan plug-in">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah memblokir notifikasi untuk situs web ini.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Anda telah memblokir penyimpanan tetap untuk situs web ini.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "Anda telah memblokir pop-up untuk situs web ini.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
 
