@@ -66,7 +66,7 @@
 <!ENTITY fxaccount_status_bookmarks 'ที่คั่นหน้า'>
 <!ENTITY fxaccount_status_history 'ประวัติ'>
 <!ENTITY fxaccount_status_passwords2 'การเข้าสู่ระบบ'>
-<!ENTITY fxaccount_status_tabs 'แท็บที่เปิด'>
+<!ENTITY fxaccount_status_tabs 'แท็บที่เปิดอยู่'>
 <!ENTITY fxaccount_status_additional_settings 'การตั้งค่าเพิ่มเติม'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'ซิงค์ผ่าน Wi-Fi เท่านั้น'>
 <!-- Localization note: Only affects background syncing, user initiated
