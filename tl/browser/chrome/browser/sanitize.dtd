@@ -42,6 +42,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Mga Detalye">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
+<!ENTITY historySection.label         "Kasaysayan">
+<!ENTITY dataSection.label            "Data">
 
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

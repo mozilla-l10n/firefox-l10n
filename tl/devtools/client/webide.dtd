@@ -4,27 +4,46 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "Proyekto">
 <!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "Bagong App...">
 <!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Buksan ang Packaged App...">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Buksan ang Hosted App ...">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "Buksan ang App...">
 <!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "I-install at Patakbuhin">
 <!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "Itigil ang App">
 <!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "I-debug and App">
 <!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "Alisin ang Proyekto">
 <!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Kagustuhan">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Pamahalaan ang Mga Dagdag na Mga Bahagi">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "I-refresh ang Mga Tab">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "Idiskonekta">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Runtime Info">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Mga Kagustuhan sa Device">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "Mga Setting ng Device">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY viewMenu_label "Tingnan">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Zoom In">
 <!ENTITY viewMenu_zoomin_accesskey "I">
@@ -33,6 +52,8 @@
 <!ENTITY viewMenu_resetzoom_label "Reset Zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
+<!ENTITY projectButton_label "Buksan ang App">
+<!ENTITY runtimeButton_label "Piliin ang Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
@@ -49,7 +70,12 @@
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_myProjects "Aking mga Proyekto">
+<!ENTITY projectPanel_runtimeApps "Runtime Apps">
 <!ENTITY projectPanel_tabs "Tabs">
+<!ENTITY runtimePanel_usb "USB Devices">
+<!ENTITY runtimePanel_wifi "Wi-Fi Devices">
+<!ENTITY runtimePanel_other "Iba pang">
 
 <!-- Lense -->
 <!ENTITY details_description "Paglalarawan">
