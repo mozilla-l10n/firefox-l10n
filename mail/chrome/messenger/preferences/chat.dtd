@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "一般">
+
 <!ENTITY  startupAction.label         "當 &brandShortName; 啟動時:">
 <!ENTITY  startupAction.accesskey     "S">
 <!ENTITY  startupOffline.label        "保持我的聊天帳號離線">
@@ -40,4 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "瀏覽…">
 <!ENTITY  browse.accesskey                    "B">
 
-
+<!ENTITY messageStyleTab.title             "訊息樣式">
+<!ENTITY messageStylePreview.label         "預覽:">
+<!ENTITY messageStyleTheme.label           "佈景主題:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "泡泡">
+<!ENTITY messageStyleDarkTheme.label       "暗色">
+<!ENTITY messageStylePaperSheetsTheme.label "紙張">
+<!ENTITY messageStyleSimpleTheme.label     "簡單">
+<!ENTITY messageStyleDefaultTheme.label    "預設">
+<!ENTITY messageStyleVariant.label         "動態:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "顯示標題">
+<!ENTITY messageStyleShowHeader.accesskey  "H">
+<!ENTITY messageStyleNoPreview.title       "沒有可用預覽">
+<!ENTITY messageStyleNoPreview.description "此佈景主題無效，或無法使用（停用了附加元件、處於安全模式等等）。">
