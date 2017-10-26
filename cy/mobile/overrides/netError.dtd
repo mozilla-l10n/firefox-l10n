@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Anhawster llwytho tudalen">
 <!ENTITY retry.label "Ceisiwch Eto">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Methu cysylltu">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -62,7 +62,7 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mae'r gweinydd dirprwy yn gwrthod cysylltiadau">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Gwiriwch osodiadau'r dirprwy i wneud yn siŵr eu bod yn gywir.</li> <li>Cysylltwch eich gweinyddwr system i wneud yn siŵr fod y gweinydd dirprwyol yn gweithio.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Gwiriwch osodiadau'r dirprwy i wneud yn siŵr eu bod yn gywir.</li> <li>Cysylltwch âch gweinyddwr system i wneud yn siŵr fod y gweinydd dirprwyol yn gweithio.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Methu canfod y gweinydd dirprwyol">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Methodd y Cysylltiad Diogel">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Gall hwn fod yn anhawster gyda ffurfweddiad y gweinydd neu gall fod yn rhywun sy'n ceisio dynwared y gweinydd.</li> <li>Os ydych wedi cysylltu'n llwyddiannus gyda'r gweinydd yn y gorffennol, efallai mai gwall dros dro ydyw ac i geisio eto.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Mae'n bosib fod y wefan yn brysur neu ddim ar gael. Ceisiwch eto cyn bo hir.</li> <li>Os nad oes modd i chi lwytho unrhyw dudalennau, gwiriwch gysylltiad data neu ddiwifr eich dyfais symudol. <button id='wifi'>Galluogi Diwifr</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Allan o fan hyn!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ychwanegu Eithriad…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
