@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY selectBookmark.title
-  "Definir le pagina initial">
+  "Definir como pagina initial">
 <!ENTITY selectBookmark.label
   "Elige un marcapaginas pro esser tu pagina initial. Si tu elige un dossier, le marcapaginas in illo essera aperite in schedas.">
 

@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerer le apparatos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vider le barra lateral de schedas synchronisate">
 
-<!ENTITY appMenuRecentHighlights.label "Recente evidentias">
+<!ENTITY appMenuRecentHighlights.label "Evidentias recente">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adder al barra de instrumentos">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -808,7 +808,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activar le synchronisation de schedas pro vider un lista del schedas de tu altere apparatos.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Recerca in le schedas synchronisate">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cercar in le schedas synchronisate">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
