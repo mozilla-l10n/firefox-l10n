@@ -18,6 +18,8 @@
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
 
+<!ENTITY safeb.blocked.malwarePage.title2 "Ang pagbisita sa website na ito ay maaaring makapinsala sa iyong computer">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "hinarangan ng &brandShortName; ang page na ito dahil maaaring subukan nitong mag install ng mapaminsalang software na maaaring magnakaw o magbura ng personal na impormasyon sa iyong computer.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -43,3 +45,4 @@
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Matuto ng higit pa patungkol sa &brandShortName;’s Phishing at Malware proteksyon sa <a id='firefox_support'>support.mozilla.org</a>.">

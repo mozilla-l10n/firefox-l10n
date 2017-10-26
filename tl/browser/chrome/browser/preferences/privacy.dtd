@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Proteksyon sa Pagsubaybay">
 <!ENTITY  trackingProtectionAlways.label       "Palagi">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
@@ -40,9 +41,12 @@
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Palagi">
 <!ENTITY  acceptThirdParty.never.label    "Huwag kailanman">
+<!ENTITY  acceptThirdParty.visited.label  "Mula sa binisita">
 
+<!ENTITY  keepUntil2.label              "Panatilihin hanggang">
 <!ENTITY  keepUntil2.accesskey          "u">
 
+<!ENTITY  expire.label                  "sila ay mawawalan ng bisa">
 
 <!ENTITY  cookieExceptions.label        "Mga exceptions...">
 <!ENTITY  cookieExceptions.accesskey    "e">
@@ -52,6 +56,7 @@
 
 <!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Tandaan ang kasaysayan">
+<!ENTITY  historyHeader.dontremember.label "Huwag kailanman tandaan ang kasaysayan">
 <!ENTITY  historyHeader.custom.label       "Gamitin ang custom settings para sa history">
 <!ENTITY  historyHeader.post.label         "">
 
@@ -63,6 +68,7 @@
 <!ENTITY  rememberActions.pre.label           "Baka gusto mong ">
 <!ENTITY  rememberActions.clearHistory.label  "Burahin ang inyong recent history">
 <!ENTITY  rememberActions.middle.label        ", o ">
+<!ENTITY  rememberActions.removeCookies.label "alisin ang mga indibidwal na cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "Gagamit ng parehong settings ng private browsing ang &brandShortName;, at hindi nito tatandaan ang kasaysayan ng pag-browse ninyo ng Web.">
@@ -73,6 +79,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "Burahin ang lahat ng kasalukuyang kasaysayan">
 <!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY  privateBrowsingPermanent2.label "Laging gumamit ng pribadong mode ng pagba-browse">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Tandaan ang aking history sa browsing at download">
