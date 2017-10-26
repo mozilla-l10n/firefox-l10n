@@ -5,7 +5,7 @@
 <!ENTITY canvasDebuggerUI.reloadNotice1 "Wczytaj ponownie stronę">
 <!ENTITY canvasDebuggerUI.reloadNotice2 ", aby debugować konteksty &lt;canvas&gt;.">
 <!ENTITY canvasDebuggerUI.emptyNotice1 "Kliknij przycisk">
-<!ENTITY canvasDebuggerUI.emptyNotice2 ", by rozpocząć nagrywanie stosu wywołań klatki animacji.">
+<!ENTITY canvasDebuggerUI.emptyNotice2 ", by rozpocząć rejestrowanie stosu wywołań klatki animacji.">
 <!ENTITY canvasDebuggerUI.waitingNotice "Rejestrowanie cyklu animacji…">
 <!ENTITY canvasDebuggerUI.recordSnapshot.tooltip "Nagraj następną klatkę pętli animacji.">
 <!ENTITY canvasDebuggerUI.importSnapshot "Importuj…">
