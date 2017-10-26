@@ -947,6 +947,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.whatsnew.label "ಹೊಸತೇನಿದೆಯೆಂದು ನೋಡಿ.">
+<!ENTITY updateAvailable.header.message "ನವೀಕರಣಕ್ಕಾಗಿ ಹೊಸದೊಂದು &brandShorterName; ಲಭ್ಯವಿದೆ.">
 <!ENTITY updateAvailable.acceptButton.label "ಅಪ್‌ಡೇಟ್‌ ಡೌನ್‌ಲೋಡ್ ಮಾಡು">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ಈಗ ಬೇಡ">
