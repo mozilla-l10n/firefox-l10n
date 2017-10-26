@@ -308,6 +308,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Itwero loko man lacen ki i ter">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Cak Yee nyuto jami iwii purugram mukene">
 <!ENTITY tab_queue_prompt_positive_action_button "Cak">
 <!ENTITY tab_queue_prompt_negative_action_button "Pe kombedi">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
