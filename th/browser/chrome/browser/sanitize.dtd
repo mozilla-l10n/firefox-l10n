@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "เมื่อฉันออกจาก &brandShortName; ล้างข้อมูลเหล่านี้ทั้งหมดโดยอัตโนมัติ:">
 
+<!ENTITY clearDataSettings3.label     "เมื่อฉันออกจาก &brandShortName; ล้างข้อมูลเหล่านี้ทั้งหมดโดยอัตโนมัติ">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
