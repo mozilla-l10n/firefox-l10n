@@ -16,7 +16,6 @@
 
 <!ENTITY  serif2.label                            "Serif">
 <!ENTITY  serif2.accesskey                        "S">
-<!ENTITY  sans-serif2.label                       "">
 <!ENTITY  sans-serif2.accesskey                   "n">
 <!ENTITY  monospace2.label                        "Monospace">
 <!ENTITY  monospace2.accesskey                    "M">
