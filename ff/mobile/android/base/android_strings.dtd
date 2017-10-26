@@ -361,6 +361,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Yamir niwtorde QR e palal URL ngal">
 
 <!ENTITY pref_use_master_password "Huutoro finnde baabaare">
+<!ENTITY pref_sync_default_title "Konte Firefox">
 <!ENTITY pref_sync2 "Seŋo">
 <!ENTITY pref_sync_summary2 "Sync tabbe maa, maantore, ceŋorɗe e aslol">
 <!ENTITY pref_search_suggestions "Hollu wasiyaaji jiirlorɗe">
