@@ -486,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Öppna i privat flik">
 <!ENTITY contextmenu_remove "Ta bort">
 <!ENTITY contextmenu_add_to_launcher "Lägg till på startsidan">
+<!ENTITY contextmenu_add_page_shortcut "Lägg till genväg till sida">
 <!ENTITY contextmenu_set_as_homepage "Ange som startsida">
 <!ENTITY contextmenu_share "Dela">
 <!ENTITY contextmenu_pasteandgo "Klistra in och öppna">
@@ -818,6 +819,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Lägg till på startsidan">
 
+<!ENTITY promotion_add_page_shortcut "Lägg till genväg till sida">
 
 <!ENTITY helper_first_offline_bookmark_title "Läs offline">
 <!ENTITY helper_first_offline_bookmark_message "Hitta innehållet i din läsvy i bokmärken, även offline.">
@@ -860,9 +862,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "Fullskärmsläge startad">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Lägg till på startsidan">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Lägg till på startsidan">
 <!ENTITY pwa_continue_to_website "Fortsätt till webbsidan">
+<!ENTITY pwa_onboarding_sumo "Du kan enkelt lägga till den här webbplatsen på din startsida för att få snabb åtkomst och surfa snabbare med en appliknande upplevelse.">
