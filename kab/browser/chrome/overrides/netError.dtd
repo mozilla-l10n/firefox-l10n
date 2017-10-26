@@ -72,7 +72,7 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Ur nessin ara tansa">
-<!ENTITY unknownProtocolFound.longDesc "<li>Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmireḍ ad teldiḍ tawsit n tansa-a.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul><li>Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmireḍ ad teldiḍ tawsit n tansa-a.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Aqeddac apṛuksi yugi tuqqniwin.">
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>Senqed iɣewwaṛen n upṛuksi ma llan d imeɣta.</li> <li>Nermes anedbal n uẓeṭṭa akken ad twaliḍ ma yella aqeddac apṛuksi itteddu.</li></ul>">
