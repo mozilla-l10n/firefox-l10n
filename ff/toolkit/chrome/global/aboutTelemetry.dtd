@@ -21,7 +21,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Keɓe Telemeetiri">
 <!ENTITY aboutTelemetry.moreInformations "Aɗa yiyloo kabaruuji goɗɗi?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Data Documentation</a> ina waɗi dabi kollirooji no kuutorɗe keɓe amen ngollortee.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Data Documentation</a> ina waɗi firooji miijanɗe, duttorɗe e keɓe API tuugorɗe.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetry dashboards</a> ina addan maa waawde hollirde keɓe Mozilla heɓri Telemetry.">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Uddit kolliroowel nder JSON">
 
 <!ENTITY aboutTelemetry.homeSection "Jaɓɓorgo">
 <!ENTITY aboutTelemetry.generalDataSection "  Keɓe Kuuɓal">
@@ -37,7 +41,11 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  Gowlaali SQL Leelɗi">
 <!ENTITY aboutTelemetry.chromeHangsSection "  Kooke Wanngorde">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Ɓeydude e cariika">
+<!ENTITY aboutTelemetry.capturedStacksSection "Joowe gawtaaɗe">
 <!ENTITY aboutTelemetry.lateWritesSection "  Binndi Sakket">
+<!ENTITY aboutTelemetry.rawPayloadSection "Dimngal nafowal kuuɓal">
 <!ENTITY aboutTelemetry.raw "JSON Kecco">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Buggitagol SQL Leelɗo koko hurminaa. Ɓoggi SQL timmuɗi ena mbaawi jaytineede les ɗoo kono ɗo naatnoytaake to Telemeetiri.">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Awtano joowe ɗee inɗe gollirɗe">
+<!ENTITY aboutTelemetry.hideStackSymbols "Hollir keɓe joowre mawnde ndee">
