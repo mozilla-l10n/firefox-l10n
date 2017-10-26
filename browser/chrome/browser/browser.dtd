@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Agor y panel negesu">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Agor panel cais y lleoliad">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Agor panel neges gosod yr ychwanegyn">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Rheoli caniatâd tynnu canfas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Agor y panel neges storio all-lein">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Agor panel neges y cyfrinair cadw">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Rheoli defnydd ategion">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Rydych wedi rhwystro storio data ar gyfer y wefan hon.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Rydych wedi rhwystro hysbysiadau ar gyfer y wefan hon.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Rydych wedi rhwystro storio data parhaus ar gyfer y wefan hon.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
 
