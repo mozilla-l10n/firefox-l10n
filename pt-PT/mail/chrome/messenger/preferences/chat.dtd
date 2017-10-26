@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Geral">
+
 <!ENTITY  startupAction.label         "Ao iniciar o &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "c">
 <!ENTITY  startupOffline.label        "Manter a minha conta de chat offline">
@@ -40,3 +42,15 @@ sentence. -->
 <!ENTITY  browse.label                        "Navegar…">
 <!ENTITY  browse.accesskey                    "N">
 
+<!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Bolhas">
+<!ENTITY messageStyleDarkTheme.label       "Escuro">
+<!ENTITY messageStylePaperSheetsTheme.label "Folhas de papel">
+<!ENTITY messageStyleSimpleTheme.label     "Simples">
+<!ENTITY messageStyleDefaultTheme.label    "Predefinido">
+<!ENTITY messageStyleVariant.label         "Variante:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Mostrar cabeçalho">
+<!ENTITY messageStyleShowHeader.accesskey  "C">
