@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Tilraunakenndir eiginleikar">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Sérsniðnir flipar">
+<!ENTITY pref_custom_tabs_summary4 "Leyfa smáforriti að opna efni á vef í hraðskreiðum,sérsniðnum flipa.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Opna í &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Leyfa QR skanna á titilslá">
 
 <!ENTITY pref_use_master_password "Nota aðal lykilorð">
+<!ENTITY pref_sync_default_title "Firefox reikningur">
 <!ENTITY pref_sync2 "Innskráning">
 <!ENTITY pref_sync_summary2 "Samstilltu flipana þína, bókarmerki, lykilorð, feril">
 <!ENTITY pref_search_suggestions "Sýna leitar uppástungur">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Opna í einkaflipa">
 <!ENTITY contextmenu_remove "Fjarlægja">
 <!ENTITY contextmenu_add_to_launcher "Bæta við á ræsisíðu">
+<!ENTITY contextmenu_add_page_shortcut "Bæta við flýtivísun í síðu">
 <!ENTITY contextmenu_set_as_homepage "Setja sem ræsisíðu">
 <!ENTITY contextmenu_share "Deila">
 <!ENTITY contextmenu_pasteandgo "Líma og hlaða">
@@ -811,6 +819,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Bæta við á ræsisíðu">
 
+<!ENTITY promotion_add_page_shortcut "Bæta við flýtivísun í síðu">
+
 <!ENTITY helper_first_offline_bookmark_title "Lesa þegar engin tenging er">
 <!ENTITY helper_first_offline_bookmark_message "Finndu það sem er á lestrarlistanum í bókamerkjunum, jafnvel þegar engin nettenging er til staðar.">
 <!ENTITY helper_first_offline_bookmark_button "Fara í Bókamerki">
@@ -850,3 +860,13 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "Viltu vita meira?">
 
 <!ENTITY fullscreen_warning "Komin í fullan skjá">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Bæta við á ræsisíðu">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Bæta við á ræsisíðu">
+<!ENTITY pwa_continue_to_website "Halda áfram á vefsvæði">
+<!ENTITY pwa_onboarding_sumo "Þú getur á auðveldan hátt bætt þessu vefsvæði á ræsiskjáinn þinn, á sama hátt og smáforrit eru þar, fyrir auðveldari aðgengi og hraðari vöfrun.">
