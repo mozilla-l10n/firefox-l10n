@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Opće">
+
 <!ENTITY  startupAction.label         "Kada se &brandShortName; pokrene:">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Ostavi moj račun za razgovore odjavljenim">
@@ -40,3 +42,11 @@ sentence. -->
 <!ENTITY  browse.label                        "Odaberi…">
 <!ENTITY  browse.accesskey                    "B">
 
+<!ENTITY messageStyleTab.title             "Stil poruke">
+<!ENTITY messageStylePreview.label         "Pregled:">
+<!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Mjehurići">
+<!ENTITY messageStyleDarkTheme.label       "Tamno">
+<!ENTITY messageStylePaperSheetsTheme.label "Papirni listovi">
+<!ENTITY messageStyleSimpleTheme.label     "Jednostavno">
