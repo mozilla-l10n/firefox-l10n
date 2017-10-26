@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Digeriñ penel ar c'hemennadennoù">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Digeriñ penel ar goulenn lec'hiadur">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Digeriñ penel kemennadenn staliadur an askouezh">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Merañ aotreoù eztennañ ar steuñv">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Digeriñ penel kemennadenn ar c'hadaviñ ezlinenn">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Digeriñ penel kemennadenn enrollañ ar ger-tremen">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Ardeiñ arver an enlugellad">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Stanket ho peus an titouroù kadaviñ evit al lec'hienn-mañ.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Stanket ho peus ar rebuzadurioù evit al lec'hienn-mañ.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Stanket ho peus ar c'hadaviñ diastal evit al lec'hienn-mañ.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Stanket hoc'h eus an diflugelloù evit al lec'hienn-mañ.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
 

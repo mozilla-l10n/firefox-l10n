@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "An droidigezh ne vo ket kinniget evit ar yezhoù da-heul :">
+<!ENTITY noTranslationForLanguages2.label "Ne vo ket kinniget a droidigezh evit ar yezhoù da-heul">
 <!ENTITY treehead.languageName.label      "Yezhoù">
 <!ENTITY removeLanguage.label             "Lemel ar yezh">
 <!ENTITY removeLanguage.accesskey         "y">
 <!ENTITY removeAllLanguages.label         "Lemel an holl yezhoù">
 <!ENTITY removeAllLanguages.accesskey     "h">
 
-<!ENTITY noTranslationForSites.label      "An droidigezh ne vo ket kinniget evit al lec'hiennoù da-heul :">
+<!ENTITY noTranslationForSites2.label     "Ne vo ket kinniget a droidigezh evit al lec'hiennoù da-heul">
 <!ENTITY treehead.siteName2.label         "Lec'hiennoù web">
 <!ENTITY removeSite.label                 "Lemel al lec'hienn">
 <!ENTITY removeSite.accesskey             "a">
