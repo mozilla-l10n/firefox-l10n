@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentalne mogućnosti">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Prilagođeni tab">
+<!ENTITY pref_custom_tabs_summary4 "Dozvolite aplikaciji da otvori web sadržaj u prilagođenom tabu koji se brzo učitava.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Otvori u &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Dozvoli QR skener u URL traci">
 
 <!ENTITY pref_use_master_password "Koristi glavnu lozinku">
+<!ENTITY pref_sync_default_title "Firefox račun">
 <!ENTITY pref_sync2 "Prijava">
 <!ENTITY pref_sync_summary2 "Sinhronizujte svoje tabove, zabilješke, prijave, historiju">
 <!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Otvori u privatnom tabu">
 <!ENTITY contextmenu_remove "Ukloni">
 <!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
+<!ENTITY contextmenu_add_page_shortcut "Dodaj prečicu stranice">
 <!ENTITY contextmenu_set_as_homepage "Postavi kao početnu stranicu">
 <!ENTITY contextmenu_share "Dijeli">
 <!ENTITY contextmenu_pasteandgo "Zalijepi i otvori">
@@ -811,6 +819,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Dodaj na početni ekran">
 
+<!ENTITY promotion_add_page_shortcut "Dodaj prečicu stranice">
+
 <!ENTITY helper_first_offline_bookmark_title "Čitaj van mreže">
 <!ENTITY helper_first_offline_bookmark_message "Pronađite stavke Prikaza čitača u zabilješkama, čak i u radu van mreže.">
 <!ENTITY helper_first_offline_bookmark_button "Idi u zabiilješke">
@@ -850,3 +860,13 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "Želite li saznati više?">
 
 <!ENTITY fullscreen_warning "Koristi se cijeli zaslon">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Dodaj na početni ekran">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Dodaj na početni ekran">
+<!ENTITY pwa_continue_to_website "Nastavi na web stranicu">
+<!ENTITY pwa_onboarding_sumo "Možete jednostavno dodati ovu web stranicu na početni ekran da imate brz pristup i da pretražujete brže s iskustvom sličnom aplikaciji.">
