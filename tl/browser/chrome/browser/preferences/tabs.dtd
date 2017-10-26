@@ -6,6 +6,7 @@
 
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Babalaan ka kapag nagsasara ng maraming mga tab">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">

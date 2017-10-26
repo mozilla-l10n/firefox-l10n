@@ -5,11 +5,13 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Safe Mode">
 <!ENTITY window.maxWidth              "400">
 
-
+<!ENTITY startSafeMode.label          "Magsimula sa Safe Mode">
+<!ENTITY refreshProfile.label         "I-refresh ang &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Safe Mode ay isang espesyal na mode ng &brandShortName; na maaaring magamit upang i-troubleshoot ang mga isyu.">
 <!ENTITY safeModeDescription4.label   "Ang iyong mga add-ons at pasadyang mga setting ay panandaliang hindi gagana.">
 
-<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY refreshProfileInstead.label  "Pwede mong laktawan ang troubleshooting at subukan na i-refresh muli ang &brandShortName;.">
 
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 <!ENTITY autoSafeModeDescription3.label "&brandShortName; ay nagsara ng hindi inaasahan habang nagbubukas. Ito ay maaring dahil sa mga add-on o iba pang mga problema. Maari mong maresolba ang problema sa pagtroubleshoot sa Safe Mode.">

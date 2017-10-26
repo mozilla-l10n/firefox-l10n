@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionAlways.label       "Palagi">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
@@ -21,15 +22,21 @@
 
 <!ENTITY  history.label                 "Kasaysayan">
 
+<!ENTITY  locbar.history2.label         "Kasaysayan ng pag-browse">
 <!ENTITY  locbar.history2.accesskey     "H">
+<!ENTITY  locbar.bookmarks.label        "Mga bookmark">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "Buksan ang mga tab">
 <!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "Mga kaugnay na paghahanap mula sa default na search engine">
 <!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  suggestionSettings2.label     "Baguhin ang mga kagustuhan para sa mga suhestiyon sa search engine">
 
+<!ENTITY  acceptCookies2.label          "Tanggapin ang mga cookies mula sa mga website">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "Tanggapin ang mga cookies ng third-party">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Palagi">
 <!ENTITY  acceptThirdParty.never.label    "Huwag kailanman">
