@@ -16,7 +16,7 @@
 <!ENTITY views.label                    "Paparan">
 <!ENTITY views.accesskey                "r">
 <!ENTITY views.tooltip                  "Tukar paparan anda">
-<!ENTITY view.columns.label             "Papar Kolum">
+<!ENTITY view.columns.label             "Papar Lajur">
 <!ENTITY view.columns.accesskey         "a">
 <!ENTITY view.sort.label                "Susun">
 <!ENTITY view.sort.accesskey            "S">
