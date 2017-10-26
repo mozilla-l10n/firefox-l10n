@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Umum">
+
 <!ENTITY  startupAction.label         "Apabila &brandShortName; bermula:">
 <!ENTITY  startupAction.accesskey     "b">
 <!ENTITY  startupOffline.label        "Kekalkan Akaun Sembang di luar talian">
@@ -40,3 +42,8 @@ sentence. -->
 <!ENTITY  browse.label                        "Cari…">
 <!ENTITY  browse.accesskey                    "C">
 
+<!ENTITY messageStyleTab.title             "Gaya Mesej">
+<!ENTITY messageStylePreview.label         "Previu:">
+<!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
