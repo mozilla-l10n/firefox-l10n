@@ -6,7 +6,7 @@
 <!ENTITY tile.label                 "jubin">
 <!ENTITY center.label               "Tengah">
 <!ENTITY stretch.label              "Regang">
-<!ENTITY fill.label                 "Penuhkan">
+<!ENTITY fill.label                 "Isi">
 <!ENTITY fit.label                  "Muat">
 <!ENTITY preview.label              "Previu">
 <!ENTITY color.label                "Warna:">
