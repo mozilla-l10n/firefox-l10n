@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "開啟訊息面板">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "開啟位置請求面板">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "開啟附加元件安裝訊息面板">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "管理 canvas 資料取得權限">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "開啟離線儲存訊息面板">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "開啟儲存密碼訊息面板">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "管理附加元件使用情況">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "您已封鎖此網站存取資料儲存空間的權限。">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "您已封鎖此網站推送通知的權限。">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "您已封鎖此網站儲存資料至持續性儲存空間。">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "您封鎖了此網站的彈出視窗。">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "顯示瀏覽紀錄">
 
