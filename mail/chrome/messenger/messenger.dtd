@@ -380,7 +380,7 @@
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Sposta di nuovo">
 <!ENTITY moveToFolderAgain.accesskey "d">
-<!ENTITY moveToFolderAgainCmd.key "p">
+<!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignora la discussione">
 <!ENTITY killThreadMenu.accesskey "o">
 <!ENTITY killThreadMenu.key "k">
@@ -389,7 +389,7 @@
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Tieni d'occhio la discussione">
 <!ENTITY watchThreadMenu.accesskey "O">
-<!ENTITY watchThreadMenu.key "O">
+<!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Etichetta">
 <!ENTITY tagMenu.accesskey "h">
 <!ENTITY tagCmd0.key "0">
@@ -434,7 +434,7 @@
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Apri nella conversazione">
 <!ENTITY openConversationCmd.accesskey "z">
-<!ENTITY openConversationCmd.key "A">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Allegati">
 <!ENTITY openAttachmentListCmd.accesskey "l">
 <!ENTITY openFeedMessage1.label "Quando si aprono messaggi di feed">
@@ -501,7 +501,7 @@
 <!ENTITY devtoolsMenu.accesskey "u">
 <!ENTITY devToolboxCmd.label "Cassetta degli strumenti di sviluppo">
 <!ENTITY devToolboxCmd.accesskey "C">
-<!ENTITY devToolboxCmd.commandkey "c">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Add-on Debugger">
 <!ENTITY addonDebugCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Tab di debug del contenuto">
