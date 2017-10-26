@@ -480,7 +480,7 @@
 <!ENTITY filtersApplyToSelection.accesskey "p">
 <!ENTITY filtersApplyToMessage.label "Laksanakan Penapis pada Mesej">
 <!ENTITY filtersApplyToMessage.accesskey "j">
-<!ENTITY runJunkControls.label "Kawal Mel Remeh dalam Folder">
+<!ENTITY runJunkControls.label "Laksanakan Kawalan Mel Remeh dalam Folder">
 <!ENTITY runJunkControls.accesskey "K">
 <!ENTITY deleteJunk.label "Buang Mel yang Ditanda sebagai Mel remeh dalam Folder">
 <!ENTITY deleteJunk.accesskey "B">
