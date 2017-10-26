@@ -54,7 +54,7 @@ available. -->
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "সাইট ডেটা">
-<!ENTITY clearSiteData.label             "সমস্ত ডেটা সাফ করুন">
+<!ENTITY clearSiteData.label             "সমস্ত ডেটা পরিষ্কার করুন">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "সেটিং">
 <!ENTITY siteDataSettings.accesskey      "i">

@@ -68,7 +68,7 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
-<!ENTITY options.context.triggersPageRefresh  "*কেবল বর্তমান সেশন, পৃষ্ঠা পুনরায় লোড করে">
+<!ENTITY options.context.triggersPageRefresh  "*কেবল বর্তমান সেশন, পাতা পুনরায় লোড করে">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -145,19 +145,13 @@
 <!ENTITY options.debugger.label            "ডিবাগার">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "উৎস ম্যাপ সক্রিয় করুন">
-<!ENTITY options.sourceMaps.tooltip    "আপনি যদি এই অপশন সক্রিয় করেন তাহলে সোর্স ডিবাগার এবং কনসোলে ম্যাপ হবে।">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "স্টাইল সম্পাদনা">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "মূল উৎস প্রদর্শন করা হবে">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "স্টাইল সম্পাদক ও পরিদর্শকের অংশে মূল উৎস দেখান (যেমন Sass ফাইল)">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,15 +172,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "ক্যামেরা সাটার শব্দ চালাও">
 <!ENTITY options.screenshot.audio.tooltip    "স্ক্রিনশট নেওয়ার সময় ক্যামেরা অডিও শব্দ সক্রিয় কর">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "নেটওয়ার্ক">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

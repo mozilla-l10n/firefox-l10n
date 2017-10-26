@@ -23,8 +23,8 @@
 <!ENTITY getThemes.description                "আপনার ব্রাউজার নিজের মত করতে চান?">
 <!ENTITY getThemes.learnMore                  "হাজার হাজার থিম থেকে পছন্দ করুন">
 
-<!ENTITY cmd.back.tooltip                     "এক পৃষ্ঠা আগে যান">
-<!ENTITY cmd.forward.tooltip                  "এক পৃষ্ঠা পরে যান">
+<!ENTITY cmd.back.tooltip                     "এক পাতা আগে যান">
+<!ENTITY cmd.forward.tooltip                  "এক পাতা পরে যান">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "কিছু এক্সটেনশন ভ্যারিফাই করা হয়নি">

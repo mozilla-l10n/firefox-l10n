@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "ট্রাকিং সুরক্ষা">
 <!ENTITY  trackingProtection2.radioGroupLabel  "জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন">
-<!ENTITY  trackingProtectionAlways.label       "সবসময় y">
+<!ENTITY  trackingProtectionAlways.label       "সর্বদা">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "শুধুমাত্র ব্যক্তিগত ব্রাউজিং উইন্ডোতে">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
