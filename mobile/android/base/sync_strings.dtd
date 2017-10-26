@@ -68,8 +68,10 @@
 <!ENTITY fxaccount_status_passwords2 'Ceŋorɗe'>
 <!ENTITY fxaccount_status_tabs 'Uddit tabbe'>
 <!ENTITY fxaccount_status_additional_settings 'Teelte Goɗɗe'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Yahdin e WI-FI tan'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Haɗ &brandShortName; yahdinde e laylaytol selluleer walla ɓetangol'>
 <!ENTITY fxaccount_status_legal 'Laawol' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -79,6 +81,7 @@
 <!ENTITY fxaccount_status_linkprivacy2 'Tintinol suturo'>
 <!ENTITY fxaccount_remove_account 'Seŋto&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Seŋto e Jahdingol?'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
