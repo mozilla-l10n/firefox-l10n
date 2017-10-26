@@ -16,6 +16,20 @@
 <!ENTITY tableHeight.accessKey            "G">
 <!ENTITY tableWidth.label                 "Ancho:">
 <!ENTITY tableWidth.accessKey             "W">
+<!ENTITY tableBorderSpacing.label         "Bordes y espacios">
+<!ENTITY tableBorderWidth.label           "Borde:">
+<!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableSpacing.label               "Espacio:">
+<!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tablePadding.label               "Relleno:">
+<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePxBetwCells.label           "píxeles entre celdas">
+<!ENTITY tablePxBetwBrdrCellContent.label "píxeles entre borde y contenido de celda">
+<!ENTITY tableAlignment.label             "Alineación de tabla:">
+<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableCaption.label               "Leyenda:">
+<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaptionAbove.label          "Arriba de tabla">
 
 
 <!-- Used in both Table and Cell panels  -->
