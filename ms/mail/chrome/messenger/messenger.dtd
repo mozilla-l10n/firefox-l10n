@@ -475,7 +475,7 @@
 <!ENTITY filtersCmd2.label "Tapis Mesej">
 <!ENTITY filtersCmd2.accesskey "T">
 <!ENTITY filtersApply.label "Laksanakan Penapis pada Folder">
-<!ENTITY filtersApply.accesskey "T">
+<!ENTITY filtersApply.accesskey "L">
 <!ENTITY filtersApplyToSelection.label "Laksanakan Penapis pada Mesej Dipilih">
 <!ENTITY filtersApplyToSelection.accesskey "p">
 <!ENTITY filtersApplyToMessage.label "Laksanakan Penapis pada Mesej">
