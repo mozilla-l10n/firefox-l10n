@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "المزايا التجريبية">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "الألسنة المخصصة">
+<!ENTITY pref_custom_tabs_summary4 "تسمح للتطبيقات بفتح محتوى الوِب في لسان مخصص يُحمَّل بسرعة.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "افتح في &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "اسمح بماسح باركود في شريط المسار">
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
+<!ENTITY pref_sync_default_title "حساب فَيَرفُكس">
 <!ENTITY pref_sync2 "لِج">
 <!ENTITY pref_sync_summary2 "زامن الألسنة، و العلامات، و جلسات الولوج و التأريخ">
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "افتح في لسان خاص">
 <!ENTITY contextmenu_remove "أزِل">
 <!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
+<!ENTITY contextmenu_add_page_shortcut "أضِف اختصارا للصفحة">
 <!ENTITY contextmenu_set_as_homepage "اجعلها صفحة البداية">
 <!ENTITY contextmenu_share "شارِك">
 <!ENTITY contextmenu_pasteandgo "ألصق و اذهب">
@@ -811,6 +819,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "أضِف إلى شاشة البداية">
 
+<!ENTITY promotion_add_page_shortcut "أضِف اختصارا للصفحة">
+
 <!ENTITY helper_first_offline_bookmark_title "اقرأ دون اتصال">
 <!ENTITY helper_first_offline_bookmark_message "اعثر على عناصر منظور القارئ في العلامات حتى بدون اتّصال.">
 <!ENTITY helper_first_offline_bookmark_button "اذهب إلى العلامات">
@@ -850,3 +860,13 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "هل تريد معرفة المزيد؟">
 
 <!ENTITY fullscreen_warning "دخلتَ وضع ملء الشاشة">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ أضِف إلى شاشة البداية">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "أضِف إلى شاشة البداية">
+<!ENTITY pwa_continue_to_website "تابِع نحو الموقع">
+<!ENTITY pwa_onboarding_sumo "يمكنك إضافة هذا الموقع إلى شاشة البداية لتصل إليه بسرعة وتتصفّحه كأي تطبيق آخر.">
