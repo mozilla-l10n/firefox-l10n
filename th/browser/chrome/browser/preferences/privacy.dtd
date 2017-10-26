@@ -40,7 +40,7 @@
 <!ENTITY  locbar.history2.accesskey     "ว">
 <!ENTITY  locbar.bookmarks.label        "ที่คั่นหน้า">
 <!ENTITY  locbar.bookmarks.accesskey    "ท">
-<!ENTITY  locbar.openpage.label         "แท็บที่เปิด">
+<!ENTITY  locbar.openpage.label         "แท็บที่เปิดอยู่">
 <!ENTITY  locbar.openpage.accesskey     "บ">
 <!ENTITY  locbar.searches.label         "การค้นหาที่เกี่ยวข้องจากเครื่องมือค้นหาเริ่มต้น">
 <!ENTITY  locbar.searches.accesskey     "ก">
