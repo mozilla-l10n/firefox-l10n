@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Опште">
+
 <!ENTITY  startupAction.label         "Када се &brandShortName; покрене:">
 <!ENTITY  startupAction.accesskey     "п">
 <!ENTITY  startupOffline.label        "Остави моје налоге ћаскања ван мреже">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Преглед…">
 <!ENTITY  browse.accesskey                    "П">
 
+<!ENTITY messageStyleTab.title             "Стилови поруке">
+<!ENTITY messageStylePreview.label         "Претпреглед:">
+<!ENTITY messageStyleTheme.label           "Тема:">
+<!ENTITY messageStyleTheme.accesskey       "Т">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Балончићи">
+<!ENTITY messageStyleDarkTheme.label       "Тама">
+<!ENTITY messageStylePaperSheetsTheme.label "Листови папира">
+<!ENTITY messageStyleSimpleTheme.label     "Једноставност">
+<!ENTITY messageStyleDefaultTheme.label    "Подразумевано">
+<!ENTITY messageStyleVariant.label         "Варијанта:">
+<!ENTITY messageStyleVariant.accesskey     "В">
+<!ENTITY messageStyleShowHeader.label      "Прикажи заглавље">
+<!ENTITY messageStyleShowHeader.accesskey  "г">
+<!ENTITY messageStyleNoPreview.title       "Нема претпрегледа">
+<!ENTITY messageStyleNoPreview.description "Ова тема није исправна или није тренутно доступна (онемогућен додатак, безбедни режим, …).">
