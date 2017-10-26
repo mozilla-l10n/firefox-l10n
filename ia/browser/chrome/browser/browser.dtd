@@ -383,7 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferentias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Authentica te pro vider un lista de schedas de tu altere apparatos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Connecter se a Sync">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Gerer apparatos…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Gerer le apparatos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vider le barra lateral de schedas synchronisate">
 
 <!ENTITY appMenuRecentHighlights.label "Recente evidentias">

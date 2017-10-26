@@ -20,7 +20,7 @@
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Selige &tabCrashed.restoreTab; pro recargar le pagina.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Selige &tabCrashed.restoreTab; o &tabCrashed.restoreAll; pro recargar le contento del pagina/paginas.">
 <!ENTITY tabCrashed.requestHelp "Vole tu adjutar nos?">
-<!ENTITY tabCrashed.requestHelpMessage "Le reportos de collapso pote nos adjutar a diagnosticar problemas e a meliorar &brandShortName; .">
+<!ENTITY tabCrashed.requestHelpMessage "Le reportos de collapso pote adjutar nos a diagnosticar problemas e a meliorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Reportar iste scheda">
 <!ENTITY tabCrashed.sendReport3 "Invia un reporto de collapso automatic a fin que nos pote corriger problemas simile a isto.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Commentos optional (le commentos es publicamente visibile)">
