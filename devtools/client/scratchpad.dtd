@@ -35,6 +35,7 @@
 
 <!ENTITY openRecentMenu.label         "Uddit Cakkitol">
 
+<!ENTITY revertCmd.label              "Waklit…">
 
 <!ENTITY saveFileCmd.label            "Danndu">
 <!ENTITY saveFileCmd.accesskey        "D">
