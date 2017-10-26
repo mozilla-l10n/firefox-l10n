@@ -17,11 +17,19 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; esta disponible bajo los términos de ">
 <!ENTITY rights.intro-point1b "Licencia pública de Mozilla">
+<!ENTITY rights.intro-point1c ". Esto significa que puedes usar, copiar y distribuir &brandShortName;. Te invitamos a que modifiques el código original de &brandShortName;  para que se adapte a tus necesidades. La licencia pública de Mozilla también te da el derecho a que distribuyas tus versiones modificadas.">
 
+<!ENTITY rights.intro-point2a "Mozilla no otorga ningún derecho sobre las marcas registradas y logotipos de Mozilla o Thunderbird. Puedes encontrar más información sobre las marcas registradas en ">
+<!ENTITY rights.intro-point2b "aquí">
+<!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "La política de privacidad de los productos &vendorShortName; se encuentran ">
+<!ENTITY rights.intro-point3b "aquí">
+<!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Cualquier política de privacidad aplicable a este producto debe indicarse aquí.">
 
 <!-- point 4 text for official branded builds -->
 
