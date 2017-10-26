@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "افتح لوحة الرسائل">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "افتح لوحة طلب المكان">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "افتح لوحة رسائل تنصيب الإضافات">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "أدِر تصاريح استخراج ألواح الرسم">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "افتح لوحة رسائل مساحة التخزين دون اتصال">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "افتح لوحة رسائل حفظ كلمة السر">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "أدر الملحقات المستخدمة">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "لقد حجبت تخزين البيانات عن هذا الموقع.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "لقد حجبت التنبيهات عن هذا الموقع.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "لقد حجبت الحفظ الدائم للبيانات عن هذا الموقع.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "لقد حجبت المنبثقات من هذا الموقع.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
 
