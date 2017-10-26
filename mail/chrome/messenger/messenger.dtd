@@ -89,11 +89,11 @@
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Buang Mesej">
 <!ENTITY deleteMsgCmd.accesskey "B">
-<!ENTITY undeleteMsgCmd.label "Batal membuang Mesej">
+<!ENTITY undeleteMsgCmd.label "Batal buang Mesej">
 <!ENTITY undeleteMsgCmd.accesskey "b">
 <!ENTITY deleteMsgsCmd.label "Buang Mesej yang Dipilih">
 <!ENTITY deleteMsgsCmd.accesskey "B">
-<!ENTITY undeleteMsgsCmd.label "Batal membuang Mesej yang Dipilih">
+<!ENTITY undeleteMsgsCmd.label "Batal buang Mesej yang Dipilih">
 <!ENTITY undeleteMsgsCmd.accesskey "b">
 <!ENTITY deleteFolderCmd.label "Buang Folder">
 <!ENTITY deleteFolderCmd.accesskey "B">
@@ -581,7 +581,7 @@
 <!ENTITY goForwardButton.tooltip "Langkau satu mesej">
 <!ENTITY goBackButton.tooltip "Undur satu mesej">
 <!ENTITY deleteButton.tooltip "Buang mesej atau folder yang dipilih">
-<!ENTITY undeleteButton.tooltip "Batalkan membuang mesej yang dipilih">
+<!ENTITY undeleteButton.tooltip "Batalkan buang mesej yang dipilih">
 <!ENTITY markButton.tooltip "Tandakan mesej">
 <!ENTITY printButton.tooltip "Cetak mesej ini">
 <!ENTITY stopButton.tooltip "Hentikan pemindahan semasa">
