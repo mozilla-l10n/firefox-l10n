@@ -82,10 +82,13 @@
 <!ENTITY fxaccount_remove_account 'Seŋto&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Seŋto e Jahdingol?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Keɓe banngagol maa keddoyto e ngel masiŋel, kono ɗum nattat yahdinde e konte maa.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Konte Firefox &formatS; seŋtiima.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Seŋto'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Hurmin Mbayka buggitagol'>
 
