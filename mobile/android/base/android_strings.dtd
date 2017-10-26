@@ -841,6 +841,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Jillaaɗe">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Ina tiindii">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 <!ENTITY activity_stream_highlights_empty "Fuɗɗo wanngaade, maa min kolliroy huunde e binndanɗe mawɗe ɗee, widewooji e kelle goɗɗe njilliɗaa ko ɓooyaani walla maantoraaɗe ɗoo.">
 
@@ -863,3 +864,5 @@ is simply hidden from the Activity Stream panel. -->
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Ɓeydu toHello Jaɓɓorgo">
+<!ENTITY pwa_continue_to_website "Jooku to Lowre geese">
+<!ENTITY pwa_onboarding_sumo "Ina weeɓan maa ɓeydude ndee ɗoo lowre geese e hello jaɓɓorgo maa ngam heɓde yettagol nde njiɗɗaa fof e wanngaade ko yaawi e humpito ko nanndi e jaaɓnirgal.">
