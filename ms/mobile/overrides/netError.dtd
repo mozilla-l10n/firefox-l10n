@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "Tidak dapat menyambung ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "Alamat ini dihadkan.">
+<!ENTITY deniedPortAccess.title "Alamat ini dihadkan">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
