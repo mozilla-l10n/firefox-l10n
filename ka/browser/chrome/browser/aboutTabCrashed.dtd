@@ -19,7 +19,7 @@
 <!ENTITY tabCrashed.offerHelp2 "შეგვიძლია დაგეხმაროთ!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "აირჩიეთ &tabCrashed.restoreTab; გვერდის ხელახლა ჩასატვირთად.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "აირჩიეთ &tabCrashed.restoreTab; ან &tabCrashed.restoreAll; გვერდის/გვერდების ხელახლა ჩასატვირთად.">
-<!ENTITY tabCrashed.requestHelp "დაგვეხმარებით?">
+<!ENTITY tabCrashed.requestHelp "თქვენც დაგვეხმარებით?">
 <!ENTITY tabCrashed.requestHelpMessage "მოხსენებები ავარიული დახურვის შესახებ, დაგვეხმარება გამოვავლინოთ გამუმართაობები და გავხადოთ &brandShortName; უკეთესი.">
 <!ENTITY tabCrashed.requestReport "მოხსენების გაგზავნა ჩანართის შესახებ">
 <!ENTITY tabCrashed.sendReport3 "გაგზავნეთ ავარიული დახურვის ავტომატური შეტყობინებები, რომ შევძლოთ მსგავსი ხარვეზების აღმოფხვრა.">
