@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "পাতা লোডিং এ সমস্যা">
 <!ENTITY retry.label "পুনরায় চেষ্টা করুন">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "সংযোগে ব্যর্থ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -22,7 +22,7 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul><li> এরকম কোন বানান ভুল হয়েছে কিনা তা ঠিকানার সাথে মিলিয়ে নিন <strong>ww</strong>.example.com দিয়েছেন কিনা এইটার পরিবর্তে <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>অনুসন্ধান</button> </div> <li>আপনি যদি কোন পাতা লোড করতে সক্ষম না হন তাহলে, আপনার ডিভাইসের ডাটা এবং ওয়াইফাই কানেকশন পরীক্ষা করে নিন। <button id='wifi'>ওয়াইফাই চালু করুন</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
-<!ENTITY fileNotFound.longDesc "<ul> <li>ফাইলের নামের বানান ও ছোট/বড় অক্ষর পরীক্ষা করুন।</li> <li>ফাইলের স্থান পরিবর্তন, নাম পরিবর্তন হয়েছে কিনা বা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>ফাইলের নামের বানান ও ছোট/বড় অক্ষর পরীক্ষা করুন।</li> <li>ফাইলের স্থান, নাম পরিবর্তিত হয়েছে কিনা বা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "ফাইলে প্রবেশাধিকার প্রত্যাখ্যাত হয়েছে">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>এটা মুছে ফেলা হতে পারে, সরিয়ে নেয়া হতে পারে, অথবা ফাইল প্রবেশাধিকার প্রতিরোধ করা হয়ে থাকতে পারে।</li></ul>">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>সম্ভবত সার্ভারের কনফিগারেশনে সমস্যা হয়েছে অথবা কোনো ব্যক্তি এই সার্ভারের পরিচয় জাল করার চেষ্টা করছে।</li> <li>আপনি যদি আগে এই সার্ভারের সাথে সফলভাবে সংযোগ স্থাপন করে থাকেন, তাহলে সম্ভবত কোনো অস্থায়ী কারণে এই সমস্যা দেখা দিয়েছে এবং কিছুক্ষণ পর আবার চেষ্টা করুন।</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>এই সাইট সাময়িকভাবে পাওয়া যাচ্ছে না কিংবা খুব ব্যস্ত। কিছুক্ষণ পর আবার চেষ্টা করুন।</li> <li>কোন পাতা লোড করতে অক্ষম হলে, আপনার মোবাইল ডিভাইস এর ডাটা বা ওয়াই ফাই সংযোগ পরীক্ষা করুন। <button id='wifi'> ওয়াইফাই সক্রিয় করুন</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "বিষয়বস্তুর নিরাপত্তা নীতিমালা দ্বারা ব্লক">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "অথবা আপনি একটি ব্যতিক্রম যোগ করতে পারেন…">
 <!ENTITY securityOverride.getMeOutOfHereButton "আমাকে এখান থেকে উদ্ধার করো!">
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ করুন…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>আপনি যে ইন্টারনেট সংযোগ ব্যবহার করছেন তা যদি সম্পূর্ণ বিশ্বস্ত না হয় অথবা সার্ভারের জন্য কোনো সতর্কবানী দেখতে অভ্যস্ত না হন তবে আপনার এখানে কোনো এক্সেপশন যোগ করা ঠিক হবে না।</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
