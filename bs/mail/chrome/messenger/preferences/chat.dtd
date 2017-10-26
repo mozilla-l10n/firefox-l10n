@@ -50,3 +50,8 @@ sentence. -->
 <!ENTITY messageStyleDarkTheme.label       "Tamno">
 <!ENTITY messageStylePaperSheetsTheme.label "Papirni listovi">
 <!ENTITY messageStyleSimpleTheme.label     "Jednostavno">
+<!ENTITY messageStyleDefaultTheme.label    "Zadano">
+<!ENTITY messageStyleVariant.label         "Varijanta:">
+<!ENTITY messageStyleShowHeader.label      "Prikaži zaglavlje">
+<!ENTITY messageStyleNoPreview.title       "Nije dostupan pregled">
+<!ENTITY messageStyleNoPreview.description "Ova tema nije važeća ili trenutno nije dostupna (onemogućeni dodatak, siguran režim, ...).">
