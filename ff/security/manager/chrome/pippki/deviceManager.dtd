@@ -25,11 +25,12 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Naatnu humpito wulnde nde njiɗ-ɗaa ɓeydude ndee.">
-
-
+<!ENTITY loaddevice.modname2                    "Innde yamre">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Wulnde PKCS#11 Hesere">
-
-
+<!ENTITY loaddevice.filename2                   "Innde fiilde yamre">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Weɗɗit…">
 <!ENTITY loaddevice.browse.accesskey            "W">
 
+<!ENTITY loaddevice.title2                      "Loow PKCS#11 pilot kaɓirgel">
