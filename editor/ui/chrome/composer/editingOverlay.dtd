@@ -22,7 +22,7 @@
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Terbitkan Sebagai…">
 <!ENTITY publishAsCmd.accesskey "k">
-<!ENTITY fileRevert.label "Pulih">
+<!ENTITY fileRevert.label "Balikan">
 <!ENTITY fileRevert.accesskey "l">
 
 <!-- Edit menu items -->
