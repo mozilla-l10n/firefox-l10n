@@ -47,3 +47,14 @@ sentence. -->
 <!ENTITY messageStyleTheme.label           "Tema:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Buih">
+<!ENTITY messageStyleDarkTheme.label       "Gelap">
+<!ENTITY messageStylePaperSheetsTheme.label "Helaian Kertas">
+<!ENTITY messageStyleSimpleTheme.label     "Ringkas">
+<!ENTITY messageStyleDefaultTheme.label    "Piawai">
+<!ENTITY messageStyleVariant.label         "Varian:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Papar Pengepala">
+<!ENTITY messageStyleShowHeader.accesskey  "P">
+<!ENTITY messageStyleNoPreview.title       "Tiada previu tersedia">
+<!ENTITY messageStyleNoPreview.description "Tema ini tidak sah atau tidak tersedia masa ini (add-on dinyahdayakan, mod selamat, …).">
