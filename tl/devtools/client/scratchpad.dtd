@@ -32,7 +32,9 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "O">
 
+<!ENTITY openRecentMenu.accesskey     "R">
 
+<!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "I-save">
 <!ENTITY saveFileCmd.accesskey        "s">
@@ -48,21 +50,38 @@
 <!ENTITY viewMenu.label               "Tingnan">
 <!ENTITY viewMenu.accesskey           "T">
 
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
- <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
+<!ENTITY smallerFont.label            "Maliit ng Font">
+<!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.commandkey       "-">
 
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
+<!ENTITY editMenu.accesskey           "E">
 
+<!ENTITY run.label                    "Run">
+<!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Suriin">
 <!ENTITY inspect.accesskey            "i">
 <!ENTITY inspect.key                  "i">
 
+<!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "P">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -70,6 +89,7 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
+<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "Nilalaman">
@@ -81,10 +101,16 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
+<!ENTITY browserContext.label         "Browser">
+<!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
+<!ENTITY helpMenu.label               "Tulong">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Tulong">
+<!ENTITY helpMenuWin.accesskey        "H">
 
 <!ENTITY documentationLink.label      "Scratchpad Help sa MDN">
 <!ENTITY documentationLink.accesskey  "D">
@@ -96,7 +122,10 @@
 <!ENTITY resetContext2.label          "I-reset ang mga Variable">
 <!ENTITY resetContext2.accesskey      "t">
 
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
+<!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
@@ -107,3 +136,5 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">

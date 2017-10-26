@@ -29,6 +29,7 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
+<!ENTITY webAudioEditorUI.inspectorTitle  "AudioNode Inspector">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
