@@ -209,6 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Yab dirica me kwena pi gwoko mung me donyo">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Lo tic ki larwak">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ki tye ka loono layeny ki kama bor">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lo nywako mikropon mamegi ki kakube">
