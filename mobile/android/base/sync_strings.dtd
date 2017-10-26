@@ -59,6 +59,7 @@
 <!ENTITY fxaccount_status_needs_credentials 'જોડાઇ શકતા નથી. પ્રવેશ કરવા માટે ઠપકારો.'>
 <!ENTITY fxaccount_status_needs_upgrade 'પ્રવેશ કરવા માટે તમારે &brandShortName; ને અપગ્રેડ કરવાની જરૂર છે.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સીંક થતુ નથી. Android સેટીંગ > માહિતી વપરાશમાં ”માહિતી સ્વયં-સીંક કરો” બદલો.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'તમારા નવા Firefox ખાતામાં સાઇન ઇન કરવા માટે ટેપ કરો.'>
 <!ENTITY fxaccount_status_choose_what 'શું સમન્વયિત કરવું તે પસંદ કરો'>
 <!ENTITY fxaccount_status_bookmarks 'બુકમાર્ક્સ'>
 <!ENTITY fxaccount_status_history 'ઇતિહાસ'>
@@ -81,6 +82,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message2 'તમારું બ્રાઉઝિંગ ડેટા આ ઉપકરણ પર રહેશે, પરંતુ તે હવે તમારા એકાઉન્ટ સાથે સમન્વયિત થશે નહીં.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Firefox ખાતું &formatS; જોડાણ તૂટી ગયું.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
 <!ENTITY fxaccount_remove_account_dialog_action_confirm 'જોડાણ તોડી નાખો'>
@@ -104,5 +106,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 '&formatS; તરીકે પ્રવેશ કરવા માટે ઠપકારો'>
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'સુધારો સમાપ્ત કરો &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'આ તરીકે સાઇન ઇન કરવા માટે ટેપ કરો &formatS;'>
