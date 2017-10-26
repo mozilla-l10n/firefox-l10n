@@ -48,6 +48,7 @@
   -->
 <!ENTITY translation.options.neverForSite.label "Huwag kailanman isalin ang site na ito">
 <!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.accesskey "T">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

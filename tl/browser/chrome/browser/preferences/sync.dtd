@@ -6,18 +6,33 @@
 
 <!ENTITY engine.bookmarks.label     "Mga Bookmark">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "Buksan ang mga Tab">
 <!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Kasaysayan">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "Mga login">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Mga Preferences">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Mga Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "Mga address">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Mga credit card">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
+<!ENTITY fxaSyncDeviceName.label       "Pangalan ng Device">
+<!ENTITY changeSyncDeviceName2.label "Palitan ang Pangalan ng Device...">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Kanselahin">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "I-save">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tuntunin ng Serbisyo">
+<!ENTITY fxaPrivacyNotice.link.label "Paunawa sa Privacy">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -25,17 +40,33 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "ay hindi napatunayan.">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+<!ENTITY signedInLoginFailure.beforename.label "Mangyaring mag-sign in upang makipagkonek muli">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Hindi ka naka-sign in.">
+<!ENTITY signIn.label                "Mag sign in">
+<!ENTITY signIn.accesskey            "g">
+<!ENTITY profilePicture.tooltip      "Baguhin ang larawan ng profile">
+<!ENTITY verifiedManage.label        "Pamahalaan ang account">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "Idiskonekta...">
+<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY verify.label                "I-verify ang email">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "Kalimutan ang email na ito">
+<!ENTITY forget.accesskey            "F">
 
-<!ENTITY signedOut.accountBox.create  "Gumawa ng Account">
+<!ENTITY signedOut.caption            "Dalhin ang Iyong Web Sa Iyo">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "mag Sign In...">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
@@ -47,6 +78,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.androidLink      "Android">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         " or ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 

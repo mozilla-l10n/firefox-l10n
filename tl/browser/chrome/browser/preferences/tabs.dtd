@@ -6,8 +6,11 @@
 
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Ipakita ang paunang-tingin na tab sa Windows taskbar">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

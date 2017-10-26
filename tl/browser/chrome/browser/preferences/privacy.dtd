@@ -82,4 +82,8 @@
 
 <!ENTITY  browserContainersLearnMore.label      "Matuto ng higit pa">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
+<!ENTITY  a11yPrivacy.learnmore.label    "Matuto ng higit pa">
+<!ENTITY enableSafeBrowsingLearnMore.label "Matuto ng higit pa">
