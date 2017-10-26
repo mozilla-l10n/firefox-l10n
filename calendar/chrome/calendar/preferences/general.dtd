@@ -37,6 +37,14 @@
 <!ENTITY pref.soondays.label "Bahagian akan datang memaparkan:">
 <!ENTITY pref.soondays.accesskey "d">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "Bahagian Akan Datang memaparkan:">
+<!ENTITY pref.soondays2.accesskey "A">
+
 <!ENTITY pref.accessibility.label "Ketercapaian" >
 <!ENTITY pref.systemcolors.label "Mengoptimumkan warna untuk ketercapaian" >
 <!ENTITY pref.systemcolors.accesskey "w">
