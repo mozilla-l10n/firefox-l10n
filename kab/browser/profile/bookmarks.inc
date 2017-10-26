@@ -59,7 +59,7 @@
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
-#define crashes Akk iɣelluyen inek
+#define crashes Akk iɣelluyen-inek
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
