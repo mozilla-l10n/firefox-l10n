@@ -485,6 +485,7 @@
 <!ENTITY contextmenu_open_private_tab "เปิดในแท็บส่วนตัว">
 <!ENTITY contextmenu_remove "เอาออก">
 <!ENTITY contextmenu_add_to_launcher "เพิ่มไปยังหน้าจอหลัก">
+<!ENTITY contextmenu_add_page_shortcut "เพิ่มทางลัดของหน้า">
 <!ENTITY contextmenu_set_as_homepage "ตั้งเป็นหน้าแรก">
 <!ENTITY contextmenu_share "แบ่งปัน">
 <!ENTITY contextmenu_pasteandgo "วางแล้วไป">
@@ -817,6 +818,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "เพิ่มไปยังหน้าจอหลัก">
 
+<!ENTITY promotion_add_page_shortcut "เพิ่มทางลัดของหน้า">
 
 <!ENTITY helper_first_offline_bookmark_title "อ่านออฟไลน์">
 <!ENTITY helper_first_offline_bookmark_message "ค้นหารายการมุมมองผู้อ่านของคุณในที่คั่นหน้า แม้ขณะออฟไลน์">
