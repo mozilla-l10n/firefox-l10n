@@ -338,7 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "স্বনির্ধারণ…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY overflowCustomizeToolbar.label       "কাস্টোইজ টুলবার…">
+<!ENTITY overflowCustomizeToolbar.label       "কাস্টোমাইজ টুলবার…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "ইতিহাস">
