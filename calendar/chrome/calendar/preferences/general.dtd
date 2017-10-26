@@ -37,6 +37,14 @@
 <!ENTITY pref.soondays.label "Одељак предстојећег садржи:">
 <!ENTITY pref.soondays.accesskey "к">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "Одељак „Предстојећи“ приказује:">
+<!ENTITY pref.soondays2.accesskey "О">
+
 <!ENTITY pref.accessibility.label "Приступачност" >
 <!ENTITY pref.systemcolors.label "Побољшај боје за већу приступачност" >
 <!ENTITY pref.systemcolors.accesskey "б">
