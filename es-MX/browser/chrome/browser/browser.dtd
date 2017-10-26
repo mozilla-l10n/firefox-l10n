@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir panel de mensajes">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir panel de solicitud de ubicación">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir panel de mensajes de instalación de complementos">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Administrar permiso de extracción de canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir panel de mensajes de almacenamiento sin conexión">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir panel de mensajes de contraseñas guardadas">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrar uso de plugins">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Está bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Están bloqueadas las notificaciones para este sitio web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Has bloqueado el almacenamiento persistente para este sitio.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Tienes bloqueadas las pop-ups para este sitio web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
