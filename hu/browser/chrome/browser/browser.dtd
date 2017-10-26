@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Üzenetpanel megnyitása">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Helymeghatározási kérés panel megnyitása">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Kiegészítő telepítési üzenetpanel megnyitása">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Vászonból kinyerés engedélyének kezelése">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Kapcsolat nélküli tárolás üzenetpanel megnyitása">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Jelszó mentési üzenetpanel megnyitása">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Bővítményhasználat kezelése">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Blokkolta az adattárolást ezen az oldalon.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Blokkolta az értesítéseket ezen az oldalon.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokkolta az állandó adattárolást ezen az oldalon.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Blokkolta a felugró ablakokat ezen az oldalon.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Előzmények megjelenítése">
 
