@@ -365,7 +365,7 @@
 <!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเบราว์เซอร์ในเครื่อง">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "แท็บที่เปิด">
+<!ENTITY pref_private_data_openTabs "แท็บที่เปิดอยู่">
 <!ENTITY pref_private_data_history2 "ประวัติการท่องเว็บ">
 <!ENTITY pref_private_data_searchHistory "ประวัติการค้นหา">
 <!ENTITY pref_private_data_formdata2 "ประวัติแบบฟอร์ม">
