@@ -14,7 +14,7 @@
 <!ENTITY newPref.stringPlaceholder     "Rhowch linyn">
 <!ENTITY newPref.numberPlaceholder     "Rhowch rif">
 
-<!ENTITY newPref.toggleButton          "Newid">
+<!ENTITY newPref.toggleButton          "Toglo">
 <!ENTITY newPref.cancelButton          "Diddymu">
 
 <!ENTITY contextMenu.copyPrefName      "Copïo Enw">
