@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otevře panel zpráv">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otevře panel se žádostmi o polohu">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otevřít panel zpráv instalace doplňku">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Spravovat oprávnění přístupu k informacím canvasu">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otevřít panel zpráv offline úložiště">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otevřít panel zpráv uložení hesla">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa využití zásuvného modulu">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Tomuto serveru jste zablokovali ukládání dat do vašeho počítače.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tomuto serveru jste zablokovali zobrazovat oznámení.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Této stránce jste zakázali ukládat data natrvalo.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Pro tento server jste zablokovali otevírání vyskakovacích oken.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazí historii">
 
