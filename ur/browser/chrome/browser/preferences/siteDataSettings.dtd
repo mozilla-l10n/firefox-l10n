@@ -8,6 +8,7 @@
 <!ENTITY     usageCol.label                "ذخیرہ">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "تبدیلیاں محفوظ کریں">
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "منسوخ کریں">
 <!ENTITY     cancel.accesskey              "م">

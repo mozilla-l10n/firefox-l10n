@@ -11,15 +11,9 @@
 <!ENTITY window.title         "نئے حامل کا اضافہ کریں">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "نام:">
-<!ENTITY name.accesskey       "ن">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "ایک حامل نام داخل کریں">
-<!ENTITY icon.label           "آئکن:">
-<!ENTITY icon.accesskey       "آ">
-<!ENTITY color.label          "رنگ:">
-<!ENTITY color.accesskey      "ن">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "مکمل">
 <!ENTITY button.ok.accesskey  "م">
-

@@ -6,15 +6,13 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "ترجمہ مندرجہ ذیل زبانوں کے لئے پیش نہیں کیا جائے گا:">
 <!ENTITY treehead.languageName.label      "زبانیں">
 <!ENTITY removeLanguage.label             "زبان ہٹائیں">
 <!ENTITY removeLanguage.accesskey         "ہ">
 <!ENTITY removeAllLanguages.label         "تمام زبانیں ہٹائیں">
 <!ENTITY removeAllLanguages.accesskey     "ٹ">
 
-<!ENTITY noTranslationForSites.label      "ترجمہ مندرجہ ذیل سائٹ کے لئے پیش نہیں کیا جائے گا:">
-
+<!ENTITY treehead.siteName2.label         "ويب سائٹس">
 <!ENTITY removeSite.label                 "سائٹ ہٹائیں">
 <!ENTITY removeSite.accesskey             "ہ">
 <!ENTITY removeAllSites.label             "تمام سائٹیں ہٹائیں">

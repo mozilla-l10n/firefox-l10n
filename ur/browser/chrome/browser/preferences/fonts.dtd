@@ -4,11 +4,16 @@
 
 <!ENTITY  fontsDialog.title                       "فانٹ">
 
+<!ENTITY  fonts.accesskey                         "F">
 
+<!ENTITY  size2.label                             "ماپ">
 <!ENTITY  sizeProportional.accesskey              "س">
 <!ENTITY  sizeMonospace.accesskey                 "م">
 
+<!ENTITY  proportional2.accesskey                 "P">
 
+<!ENTITY  serif2.label                            "سیرف">
+<!ENTITY  serif2.accesskey                        "S">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->

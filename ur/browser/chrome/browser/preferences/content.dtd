@@ -6,15 +6,19 @@
 <!ENTITY  blockPopups.label           "پوپ اپ دریچے بلاک کیجیے">
 <!ENTITY  blockPopups.accesskey       "ب">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "مزید سیکھیں">
-<!ENTITY  notificationsPolicyButton.accesskey  "ا">
-<!ENTITY  notificationsPolicyButton.label      "انتخاب کریں…">
 <!ENTITY  notificationsDoNotDisturb.label      "مجھے خلل نہ ڈالیے">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "جب تک آپ &brandShortName; دوباره شروع نہیں کرتے تب تک اطلاعت نہیں دکھائی دینگے">
 
-<!ENTITY  popupExceptions.label       "استثنیات…">
-<!ENTITY  popupExceptions.accesskey   "ا">
+<!ENTITY  popupExceptions.label                                 "استثنیات…">
+<!ENTITY  popupExceptions.accesskey                             "ا">
+
+
+<!ENTITY  locationPermissions.label                             "محل وقوع">
+
+<!ENTITY  cameraPermissions.label                               "کیمرہ">
+
+<!ENTITY  microphonePermissions.label                           "مائیکروفون">
 
 <!ENTITY  fontsAndColors.label        "فانٹ اور رنگ">
 
