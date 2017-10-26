@@ -14,6 +14,8 @@
 <!ENTITY  color                           "Coc ki Ngeye">
 <!ENTITY  textColor2.label                "Coc">
 <!ENTITY  textColor2.accesskey            "C">
+<!ENTITY  backgroundColor2.label          "Ngeye">
+<!ENTITY  backgroundColor2.accesskey      "N">
 <!ENTITY  useSystemColors.label           "Tii ki rangi pa nyonyo">
 <!ENTITY  useSystemColors.accesskey       "i">
 
