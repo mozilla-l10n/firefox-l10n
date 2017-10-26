@@ -17,6 +17,7 @@
 <!ENTITY firstrun_data_subtext2 "Falo nate ngal ustude ñaamdu keɓe e lowre kala njilloto-ɗaa.">
 <!ENTITY firstrun_sync_title "Yahdin">
 <!ENTITY firstrun_sync_message2 "Ƴettit ɗo ngoppunoɗaa ɗoo.">
+<!ENTITY firstrun_sync_subtext2 "Huutoro Jahdingol ngam yiytude maantore, finndeeji kañum e geɗe goɗɗe ɗe ndaɗndataa e &brandShortName; e masiŋon maa fof.">
 <!ENTITY firstrun_signin_message "Naat e ceŋol, fuɗɗo jooni">
 <!ENTITY firstrun_signin_button "Seŋo ngam syncude">
 <!ENTITY  onboard_start_button_browser "Fuɗɗo Peeragol">
@@ -282,6 +283,12 @@
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Fannuuji ƴeewtindorɗi">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Tabbe peŋtore">
+<!ENTITY pref_custom_tabs_summary4 "Yamir jaaɓnirɗe yo nguddit loowdi geese e gaawtogol jaawngol tabbe peŋtore.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -802,6 +809,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Ɓeydu to hello jaɓɓorgo">
 
+
 <!ENTITY helper_first_offline_bookmark_title "Tar e ceŋtol">
 <!ENTITY helper_first_offline_bookmark_message "Yiytu teme Jiytol Taro maa e Maantore; yah so a seŋaaki.">
 <!ENTITY helper_first_offline_bookmark_button "Yah to Maantore">
@@ -837,3 +845,9 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "Aɗa yiɗi beydude humpito?">
 
 <!ENTITY fullscreen_warning "Kiɓɓal yaynirde naataama">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
