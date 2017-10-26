@@ -223,7 +223,7 @@
 <!ENTITY pref_category_home_homepage "Pagina initial">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "Usar tamben pro schedas nove">
+<!ENTITY home_homepage_every_new_tab "Usar tamben pro le nove schedas">
 <!ENTITY home_homepage_title "Definir un pagina initial">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -618,7 +618,7 @@
 <!ENTITY home_unpinned_site "Sito disclavate">
 
 <!ENTITY remote_tabs_panel_moved_title "Ubi iva mi schedas?">
-<!ENTITY remote_tabs_panel_moved_desc "Nos moveva tu schedas de altere apparatos a un pannello in tu pagina de initio facilemente accessibile cata vice que tu aperi un scheda nove.">
+<!ENTITY remote_tabs_panel_moved_desc "Nos moveva le schedas de tu altere apparatos a un pannello in tu pagina initial que es facilemente accedite a cata vice que tu aperi un nove scheda.">
 <!ENTITY remote_tabs_panel_moved_link "Monstrar mi nove pannello.">
 
 <!ENTITY pin_site_dialog_hint "Inserer un parola recercar">
