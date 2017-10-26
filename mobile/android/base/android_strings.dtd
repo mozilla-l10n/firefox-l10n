@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "પ્રાયોગિક સુવિધાઓ">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "વૈવિધ્યપૂર્ણ ટૅબ્સ">
+<!ENTITY pref_custom_tabs_summary4 "એપ્લિકેશન્સને ઝડપથી લોડ થતાં વૈવિધ્યપૂર્ણ ટેબમાં વેબ સામગ્રી ખોલવાની મંજૂરી આપો.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "ખોલો &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "URL બારમાં QR સ્કેનરની મંજૂરી આપો">
 
 <!ENTITY pref_use_master_password "મુખ્ય પાસવર્ડ વાપરો">
+<!ENTITY pref_sync_default_title "Firefox ખાતુ">
 <!ENTITY pref_sync2 "સાઇન ઇન">
 <!ENTITY pref_sync_summary2 "તમારા ટેબ્સ, બુકમાર્ક્સ, પ્રવેશો, ઇતિહાસને સમન્વયિત કરો">
 <!ENTITY pref_search_suggestions "શોધ સૂચનો બતાવો">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "ખાનગી ટૅબમાં ખોલો">
 <!ENTITY contextmenu_remove "દૂર કરો">
 <!ENTITY contextmenu_add_to_launcher "હોમ સ્ક્રીન પર ઉમેરો">
+<!ENTITY contextmenu_add_page_shortcut "પૃષ્ઠ શોર્ટકટ ઉમેરો">
 <!ENTITY contextmenu_set_as_homepage "હોમપેજ તરીકે સેટ કરો">
 <!ENTITY contextmenu_share "વહેંચો">
 <!ENTITY contextmenu_pasteandgo "પેસ્ટ કરો અને જાઓ">
@@ -811,6 +819,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "મુખ્ય સ્ક્રીન પર ઉમેરો">
 
+<!ENTITY promotion_add_page_shortcut "પૃષ્ઠ શોર્ટકટ ઉમેરો">
+
 <!ENTITY helper_first_offline_bookmark_title "ઓફલાઇન વાંચો">
 <!ENTITY helper_first_offline_bookmark_message "બૉક્મર્ક્સ્ માં તમારા રીડર વસ્તુઓ જુઓ, ઓફલાઇન પણ શોધો.">
 <!ENTITY helper_first_offline_bookmark_button "બુકમાર્ક્સ પર જાઓ">
@@ -850,3 +860,13 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "વધુ જાણવા માગો છો?">
 
 <!ENTITY fullscreen_warning "પૂર્ણ સ્ક્રીનને દાખલ કરો">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ મુખ્ય સ્ક્રીન પર ઉમેરો">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "મુખ્ય સ્ક્રીન પર ઉમેરો">
+<!ENTITY pwa_continue_to_website "વેબસાઇટ પર ચાલુ રાખો">
+<!ENTITY pwa_onboarding_sumo "ઝટપટ ઍક્સેસ મેળવવા માટે તમે સરળતાથી તમારી વેબસાઇટ મુખ્ય સ્ક્રીન પર ઉમેરી શકો છો અને એપ્લિકેશન-જેવી અનુભવ સાથે ઝડપી બ્રાઉઝ કરો.">
