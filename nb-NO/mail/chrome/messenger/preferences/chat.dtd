@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Generelt">
+
 <!ENTITY  startupAction.label         "Når &brandShortName; starter:">
 <!ENTITY  startupAction.accesskey     "N">
 <!ENTITY  startupOffline.label        "Behold nettprat-kontoene frakoblet">
 <!ENTITY  startupConnectAuto.label    "Koble til nettprat-kontoene automatisk">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "La kontaktene mine vite at jeg er inaktiv etter">
 <!ENTITY  reportIdleAfter.accesskey     "L">
 <!ENTITY  idleTime                      "minutter med inaktivitet">
@@ -40,3 +42,16 @@ sentence. -->
 <!ENTITY  browse.label                        "Bla gjennom …">
 <!ENTITY  browse.accesskey                    "l">
 
+<!ENTITY messageStyleTab.title             "Meldingsstiler">
+<!ENTITY messageStylePreview.label         "Forhåndsvisning:">
+<!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Bobler">
+<!ENTITY messageStyleDarkTheme.label       "Mørk">
+<!ENTITY messageStyleSimpleTheme.label     "Enkelt">
+<!ENTITY messageStyleDefaultTheme.label    "Standard">
+<!ENTITY messageStyleVariant.label         "Variant:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Vis overskrift">
+<!ENTITY messageStyleShowHeader.accesskey  "o">
