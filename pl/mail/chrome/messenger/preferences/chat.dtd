@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY generalTab.label "Ogólne">
+
 <!ENTITY startupAction.label "Po uruchomieniu programu &brandShortName;:">
 <!ENTITY startupAction.accesskey "P">
 <!ENTITY startupOffline.label "nie łącz z kontami komunikatora">
@@ -33,3 +35,20 @@
 <!ENTITY customsound.accesskey "u">
 <!ENTITY browse.label "Przeglądaj…">
 <!ENTITY browse.accesskey "r">
+
+<!ENTITY messageStyleTab.title "Style wiadomości">
+<!ENTITY messageStylePreview.label "Podgląd:">
+<!ENTITY messageStyleTheme.label "Motyw:">
+<!ENTITY messageStyleTheme.accesskey "M">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label "Bąbelki">
+<!ENTITY messageStyleDarkTheme.label "Ciemny">
+<!ENTITY messageStylePaperSheetsTheme.label "Arkusze papieru">
+<!ENTITY messageStyleSimpleTheme.label "Prosty">
+<!ENTITY messageStyleDefaultTheme.label "Domyślny">
+<!ENTITY messageStyleVariant.label "Wariant:">
+<!ENTITY messageStyleVariant.accesskey "W">
+<!ENTITY messageStyleShowHeader.label "Wyświetl nagłówek">
+<!ENTITY messageStyleShowHeader.accesskey "n">
+<!ENTITY messageStyleNoPreview.title "Podgląd jest niedostępny">
+<!ENTITY messageStyleNoPreview.description "Ten motyw jest nieprawidłowy lub obecnie niedostępny (wyłączony dodatek, tryb awaryjny itp.).">
