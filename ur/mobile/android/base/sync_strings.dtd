@@ -62,11 +62,13 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; سیٹ کردیا گیا ہے، لیکن خود بخود ہمہ وار نہیں کر رہا ہے۔ “خود-ہمہ وار کوائف” کو انڈروایڈ &gt; کوائف استعمال کی سیٹنگیں میں ٹوگل کریں۔'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; سیٹ کردیا گیا ہے، لیکن خود بخود ہمہ وار نہیں کر رہا ہے۔ “خود-ہمہ وار کوائف” کو مینیو کے انڈروایڈ &gt; اکاؤنٹس کی سیٹنگیں میں ٹوگل کریں۔'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'اپنے نئے Firefox اکاؤنٹ میں سائن ان کرنے کے لیے کلک کریں۔'>
+<!ENTITY fxaccount_status_choose_what 'چنیں کیا ہمہ وقت ساز کرنا ہے'>
 <!ENTITY fxaccount_status_bookmarks 'نشانیاں'>
 <!ENTITY fxaccount_status_history 'سابقات'>
 <!ENTITY fxaccount_status_passwords2 'لاگ ان'>
 <!ENTITY fxaccount_status_tabs 'ٹیب کھولیے'>
 <!ENTITY fxaccount_status_additional_settings 'اضافی سیٹنگیں'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'صرف بعظریہ وائی فائی ہمہ وقت سازی کریں'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_status_legal 'قانونی' >
