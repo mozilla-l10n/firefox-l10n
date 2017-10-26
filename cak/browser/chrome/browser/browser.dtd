@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Jaqäl rupas tzijol">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Rupas ruk'utuxik rokem k'ojlem">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Tijaq tz'aqat pa rupas tzijol richin niyak">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Tinuk'samajïx ya'öl q'ij richin kik'otik ruchi'">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Tijaq rupas tzijol eyakon toq manäq k'amab'ey">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Tijaq ewan tzij yakon pa rupas tzijol">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Tinuk'samajïx rokisaxik nak'ab'äl">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Xq'at ri ruyakik tzij pa re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Xeq'at ri taq rutzijol pa re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Xaq'ät ri jutaqil ruyakoj re ruxaq k'amaya'l re'.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Xq'at ri elesäy pop-ups richin re ruxaq k'amaya'l re'.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
 
