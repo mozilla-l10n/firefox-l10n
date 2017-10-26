@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Cyffredinol">
+
 <!ENTITY  startupAction.label         "Pan fydd &brandShortName; yn cychwyn:">
 <!ENTITY  startupAction.accesskey     "P">
 <!ENTITY  startupOffline.label        "Cadw fy Nghyfrifon Sgwrsio all-lein">
 <!ENTITY  startupConnectAuto.label    "Cysylltu â fy nghyfrifon sgwrsio yn awtomatig">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Hysbysu fy nghysylltiadau fy mod yn Segur ar ôl">
 <!ENTITY  reportIdleAfter.accesskey     "S">
 <!ENTITY  idleTime                      "munud o seibiant">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Pori…">
 <!ENTITY  browse.accesskey                    "P">
 
+<!ENTITY messageStyleTab.title             "Arddulliau Negeseuon">
+<!ENTITY messageStylePreview.label         "Rhagolwg:">
+<!ENTITY messageStyleTheme.label           "Thema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Swigod">
+<!ENTITY messageStyleDarkTheme.label       "Tywyll">
+<!ENTITY messageStylePaperSheetsTheme.label "Dalennau Papur">
+<!ENTITY messageStyleSimpleTheme.label     "Syml">
+<!ENTITY messageStyleDefaultTheme.label    "Rhagosodedig">
+<!ENTITY messageStyleVariant.label         "Amrywiad:">
+<!ENTITY messageStyleVariant.accesskey     "A">
+<!ENTITY messageStyleShowHeader.label      "Dangos Pennyn">
+<!ENTITY messageStyleShowHeader.accesskey  "P">
+<!ENTITY messageStyleNoPreview.title       "Dim rhagolwg ar gael">
+<!ENTITY messageStyleNoPreview.description "Nid yw'r thema yma'n ddilys nac ar gael ar hyn o bryd (ychwanegyn wedi ei analluogi, modd diogel, …).">
