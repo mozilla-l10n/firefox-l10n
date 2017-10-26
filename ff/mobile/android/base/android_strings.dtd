@@ -293,9 +293,11 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Uddit nder &formatS;">
+<!ENTITY custom_tabs_menu_footer "Yaltini ɗum ko &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
-<!ENTITY custom_tabs_hint_url_copy "URL nattaaɗo">
+<!ENTITY custom_tabs_hint_url_copy "URL nattaama">
 
+<!ENTITY pref_pwa "Jaaɓnirɗe Geese Ceeɓtore">
 <!ENTITY pref_pwa_summary "Yamir jaaɓnirɗe geese ɓeydee e jaɓɓorgo maa">
 
 <!ENTITY tracking_protection_prompt_title "Jooni ena waɗi Ndeenka Dewindol">
@@ -346,6 +348,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Huutoro ɓetol fontere yuɓɓo">
+<!ENTITY pref_use_system_font_size_summary "Werngo geese wonande ɓetol fontere yuɓɓo ngoo">
 
 <!ENTITY pref_media_autoplay_enabled "Yamir tarol jaajol">
 <!ENTITY pref_media_autoplay_enabled_summary "Ƴeewto so lowe geese ena mbaawi tarde widewooji e mejaaje goɗɗe e jaajol">
