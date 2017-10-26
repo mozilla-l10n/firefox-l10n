@@ -32,6 +32,8 @@
 <!ENTITY rights.intro-point3-unbranded "Cualquier política de privacidad aplicable a este producto debe indicarse aquí.">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4b "términos del servicio">
+<!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
 
