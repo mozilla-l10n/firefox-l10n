@@ -42,6 +42,8 @@ sentence. -->
 <!ENTITY  browse.label                        "Navegar…">
 <!ENTITY  browse.accesskey                    "N">
 
+<!ENTITY messageStyleTab.title             "Estilos de mensagem">
+<!ENTITY messageStylePreview.label         "Pré-visualização:">
 <!ENTITY messageStyleTheme.label           "Tema:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
@@ -54,3 +56,5 @@ sentence. -->
 <!ENTITY messageStyleVariant.accesskey     "V">
 <!ENTITY messageStyleShowHeader.label      "Mostrar cabeçalho">
 <!ENTITY messageStyleShowHeader.accesskey  "C">
+<!ENTITY messageStyleNoPreview.title       "Sem pré-visualização disponível">
+<!ENTITY messageStyleNoPreview.description "Este tema não é válido ou está atualmente indisponível (extra desativado, modo de segurança, …).">
