@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Uddit alluwal ɓatakuuje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Uddit alluwal ɗaɓɓitanɗe nokkuuje">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Uddit alluwal vatakuure aafirgal ɓeyditte">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Toppito jamirooje jaltingol canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Uddit alluwal ɓatakuuje ndesgu ceŋtol">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Uddit alluwal ɓatakuuje danndugol finnde">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Toppito kuutoragol ceŋe">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "A daaƴii ndesgu keɓe e ndee lowre.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "A daaƴii tintine e ndee lowre.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "A daaƴii ndesgu duumiingu e ndee lowre.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "A faddiima kenorɗe pop-up nder ndee lowre.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Hollir aslol">
 
