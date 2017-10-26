@@ -22,7 +22,7 @@
 <!ENTITY importTitle.label        "Bestari Import &brandShortName;">
 <!ENTITY importShortDesc.label    "Import Mel, Buku Alamat, Tetapan dan Penapis daripada atur cara lain">
 
-<!ENTITY importDescription1.label "Bestari ini akan mengimport mesej mel, entri buku alamat, langganan suapan, keutamaan, dan/atau penapis daripada atur cara mel lain dan buku alamat buku format biasa ke dalam &brandShortName;.">
+<!ENTITY importDescription1.label "Bestari ini akan mengimport mesej mel, entri buku alamat, langganan suapam, keutamaan, dan/atau penapis daripada atur cara mel lain, serta format alamat buku biasa ke dalam &brandShortName;.">
 <!ENTITY importDescription2.label "Setelah diimport, anda akan dapat mengaksesnya dalam &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Sila pilih jenis fail yang mahu diimport:">
