@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir painel de mensagens">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir painel de solicitação de local">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir painel de mensagem de instalação de extensões">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gerenciar permissão de extração de tela">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir painel de mensagem de armazenamento off-line">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir painel de mensagem de senha salva">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerenciar plugin em uso">
