@@ -590,7 +590,7 @@
 <!ENTITY home_most_recent_empty "તમે એકદમ છેલ્લે મુલાકાત લીધેલી વેબસાઇટો અહીં બતાવે છે.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1;ઉપયોગ કરીને નવી ખાનગી ટેબ &formatS2; તમારો ઇતિહાસ સાચવશે નહીં.">
+<!ENTITY home_most_recent_emptyhint2 "કંઈક ખાનગી: &formatS1;ઉપયોગ કરીને નવી ખાનગી ટેબ &formatS2; તમારો ઇતિહાસ સાચવશે નહીં.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
