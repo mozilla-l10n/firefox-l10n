@@ -37,6 +37,14 @@
 <!ENTITY pref.soondays.label "Det kommande avsnittet visar:">
 <!ENTITY pref.soondays.accesskey "k">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "Kommande avsnittet visar:">
+<!ENTITY pref.soondays2.accesskey "K">
+
 <!ENTITY pref.accessibility.label "Tillgänglighet" >
 <!ENTITY pref.systemcolors.label "Optimera färger för tillgänglighet" >
 <!ENTITY pref.systemcolors.accesskey "O">
