@@ -9,7 +9,7 @@
 <!ENTITY position.tile.label        "Jubin">
 <!ENTITY position.stretch.label     "Regang">
 <!ENTITY position.center.label      "Tengah">
-<!ENTITY position.fill.label        "Penuh">
+<!ENTITY position.fill.label        "Isi">
 <!ENTITY position.fit.label         "Muat">
 <!ENTITY picker.label               "Warna:">
 <!ENTITY picker.accesskey           "W">
