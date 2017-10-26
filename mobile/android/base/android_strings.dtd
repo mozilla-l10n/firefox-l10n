@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Características experimentales">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Pestañas de personalización">
+<!ENTITY pref_custom_tabs_summary4 "Permitir que las aplicaciones abran contenido web en una pestaña personalizada para cargas rápidas.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Abrir en &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Permitir escáner de códigos QR en la barra de dirección">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
+<!ENTITY pref_sync_default_title "Cuenta de Firefox">
 <!ENTITY pref_sync2 "Iniciar sesión">
 <!ENTITY pref_sync_summary2 "Sincroniza tus pestañas, marcadores, inicios de sesión, historial">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
 <!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Agregar a la pantalla de inicio">
+<!ENTITY contextmenu_add_page_shortcut "Añadir acceso directo a la página">
 <!ENTITY contextmenu_set_as_homepage "Establecer como página de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
@@ -811,6 +819,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Agregar a la pantalla de inicio">
 
+<!ENTITY promotion_add_page_shortcut "Añadir acceso directo a la página">
+
 <!ENTITY helper_first_offline_bookmark_title "Leer sin conexión">
 <!ENTITY helper_first_offline_bookmark_message "Encuentra los elementos de tu vista de lectura en Marcadores, incluso sin conexión.">
 <!ENTITY helper_first_offline_bookmark_button "Ir a Marcadores">
@@ -850,3 +860,13 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "¿Quieres aprender más?">
 
 <!ENTITY fullscreen_warning "Se ingresó a pantalla completa">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Añadir a la página de inicio">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Añadir a la página de inicio">
+<!ENTITY pwa_continue_to_website "Continuar al sitio web">
+<!ENTITY pwa_onboarding_sumo "Puedes agregar este sitio web a tu página de inicio para tener acceso instantáneo y navegar rápidamente como si fuera una aplicación.">
