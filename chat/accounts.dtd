@@ -28,7 +28,7 @@
 <!ENTITY account.delete.accesskey     "B">
 <!ENTITY account.edit.label           "Sifat">
 <!ENTITY account.edit.accesskey       "S">
-<!ENTITY account.moveup.label         "Alih ke atas">
+<!ENTITY account.moveup.label         "Pindah atas">
 <!ENTITY account.movedown.label       "Pindah bawah">
 <!ENTITY account.cancelReconnection.label         "Batal sambungan semula">
 <!ENTITY account.cancelReconnection.accesskey     "B">
