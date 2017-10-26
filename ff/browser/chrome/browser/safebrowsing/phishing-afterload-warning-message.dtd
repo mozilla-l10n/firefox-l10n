@@ -28,7 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> woni <a id='error_desc_link'> jaŋtaaɗo hono baɗɗo topirde bonnoore </a>. Aɗa waawi <a id='report_detection'> jaŋtaade caɗeele jiytugol </a>.">
 
-<!ENTITY safeb.blocked.malwarePage.learnMore "Ɓeydu humpitobaɗte lowdi geese mbonnoori kañum e mborocce e mbonnanteeri ngoɗndi e hol no ndeenirtaa ordinateer maa ɗo <a id='learn_more_link'> StopBadware.org</a>. Ɗeydu humpito baɗte &brandShortName; jogaade mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'> tammbol.mozilla.org </a>.">
+<!ENTITY safeb.blocked.malwarePage.learnMore "Ɓeydu humpitobaɗte lowdi geese mbonnoori kañum e mborocce e mbonnanteeri ngoɗndi e hol no ndeenirtaa ordinateer maa ɗo <a id='learn_more_link'>StopBadware.org</a>. Ɗeydu humpito baɗte &brandShortName; jogaade mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Lowre aroore ndee ina waawi waɗde topirɗe bonɗe">
@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> woni <a id='error_desc_link'>jaŋtaaɗo hono baɗɗo topirde bonnde </a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "Ɓeydu humpito baɗte topirɗe bonɗe añaaɗe ɗo <a id='learn_more_link'>Dawrugol Topirɗe Añaaɗe </a>. Ɓeydu humpito baɗte &brandShortName; jogaade mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'>tammbol.moɗilla.org</a>.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Ɓeydu humpito baɗte topirɗe bonɗe añaaɗe ɗo <a id='learn_more_link'>Dawrugol Topirɗe Añaaɗe </a>. Ɓeydu humpito baɗte &brandShortName; jogaade mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Lowe puuntooje ina yeeso">
@@ -51,7 +51,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> wonii <a id='error_desc_link'>jaŋtaaɗo hono lowre fuuntoore </a>. Aɗa waawi <a id='report_detection'>jaŋtaade caɗeele jiytugol </a>.">
 
-<!ENTITY safeb.blocked.phishingPage.learnMore "Ɓeydu humpito baɗte lowe puuntooje e ko bonnata ɗo <a id='learn_more_link'> www.antiphishing.org </a>. Ɓeydu humpito baɗte &brandShortName; jogaade Mbonnanteere e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'>tammbol.moɗilla.org </a>.">
+<!ENTITY safeb.blocked.phishingPage.learnMore "Ɓeydu humpito baɗte lowe puuntooje e ko bonnata ɗo <a id='learn_more_link'>www.antiphishing.org</a>. Ɓeydu humpito baɗte &brandShortName; jogaade Mbonnanteere e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Lowre aroore ndee ina waawi waɗde mbonnanteeri">
@@ -62,4 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> wonii <a id='error_desc_link'>jaŋtaaɗo hono baɗɗo jaaɓnirgal baawngal bonnude </a>.">
 
-<!ENTITY safeb.blocked.harmfulPage.learnMore "Ɓeydu humpito baɗte &brandShortName; jogaade Mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'> tammbol.mozilla.org </a>.">
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Ɓeydu humpito baɗte &brandShortName; jogaade Mbonnanteeri e Ndeenka Mbonnanteeri ɗo <a id='firefox_support'>support.mozilla.org </a>.">
