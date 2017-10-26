@@ -21,9 +21,9 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings2.label     "&brandShortName;-ის დახურვისას, ავტომატურად წაიშალოს ყველა:">
+<!ENTITY clearDataSettings2.label     "&brandShortName;-ის დახურვისას, ავტომატურად წაიშალოს:">
 
-<!ENTITY clearDataSettings3.label     "&brandShortName;-ის დახურვისას, ავტომატურად წაიშალოს ყველა">
+<!ENTITY clearDataSettings3.label     "&brandShortName;-ის დახურვისას, ავტომატურად წაიშალოს">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
