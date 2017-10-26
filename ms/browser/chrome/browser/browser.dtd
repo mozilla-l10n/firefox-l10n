@@ -382,7 +382,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
-<!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk untuk Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Urus Peranti…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Papar Bar sisi Sync Tab">
 
