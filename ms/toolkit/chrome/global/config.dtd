@@ -43,7 +43,7 @@
 <!ENTITY new.label "Baru">
 <!ENTITY new.accesskey "B">
 <!ENTITY string.label "String">
-<!ENTITY string.accesskey "e">
+<!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Integer">
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "Boolean">
