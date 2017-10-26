@@ -25,6 +25,7 @@
 <!ENTITY  reloadAllTabs.accesskey            "എ">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.accesskey             "ഡി">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -43,8 +44,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "റ്റാബ് അണ്‍പിന്‍ ചെയ്യുക">
 <!ENTITY  unpinTab.accesskey                 "അ">
 <!ENTITY  sendTabToDevice.label              "ഡിവൈസിലേക്ക് ടാബ് അയയ്ക്കുക">
+<!ENTITY  sendTabToDevice.accesskey          "എൻ">
 <!ENTITY  sendPageToDevice.label             "ഡിവൈസിലേക്ക് താൾ അയയ്ക്കുക">
+<!ENTITY  sendPageToDevice.accesskey         "എൻ">
 <!ENTITY  sendLinkToDevice.label             "ഡിവൈസിലേക്ക് കണ്ണി അയയ്ക്കുക">
+<!ENTITY  sendLinkToDevice.accesskey         "എൻ">
 <!ENTITY  sendToDeviceFeedback.label         "അയച്ചു!">
 <!ENTITY  moveToNewWindow.label              "പുതിയ ജാലകത്തിലേക്ക് നീക്കുക">
 <!ENTITY  moveToNewWindow.accesskey          "W">
@@ -100,6 +104,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "യു">
 
 <!ENTITY pageInfoCmd.label "താള്‍ വിവരങ്ങള്‍">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -117,6 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "എല്ലാ റ്റാബുകളും കാണിക്കുക">
 <!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.key "ആർ">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;-ലേക്ക് പ്രവേശിയ്ക്കുക">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; മുന്‍ഗണനകള്‍ തുറക്കുക">
@@ -172,6 +178,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക">
 <!ENTITY recentBookmarks.label "ഏറ്റവും ഒടുവില്‍ അടയാളക്കുറിപ്പാക്കിയതു്">
 <!ENTITY otherBookmarksCmd.label "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
+<!ENTITY mobileBookmarksCmd.label "മൊബൈൽ ബുക്ക്മാർക്ക്">
 <!ENTITY bookmarksToolbarChevron.tooltip "കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
 <!ENTITY showRecentlyBookmarked.label     "അടുത്തിടെ അടയാളപ്പെടുത്തിയതു് കാണുക">
 <!ENTITY showRecentlyBookmarked.accesskey "ട">
