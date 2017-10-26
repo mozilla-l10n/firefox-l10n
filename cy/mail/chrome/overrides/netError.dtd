@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Anhawster llwytho tudalen">
 <!ENTITY retry.label "Ceisio Eto">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Methu cysylltu">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -38,7 +38,7 @@
 <!ENTITY notCached.longDesc "<p>Nid yw'r ddogfen hon ar gael yn y storfa.</p><ul><li>Fel cam diogelwch nid yw, &brandShortName; yn gofyn eto am ddogfennau sensitif yn awtomatig.</li><li>Cliciwch Ceisio Eto i ofyn eto am y ddogfen o'r wefan.</li></ul>">
 
 <!ENTITY netOffline.title "Modd all-lein">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Press &quot;Ceisio eto&quot; i&apos;r modd ar-lein ac ail lwytho&apos;r dudalen.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Clicio &quot;Ceisio newid eto&quot; i newid i&apos;r modd ar-lein ac ail lwytho'r dudalen.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Gwall amgodio cynnwys">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> </ul>">
@@ -65,7 +65,7 @@
 <!ENTITY redirectLoop.longDesc "<ul> <li>Gall y broblem yma fod wedi ei achosi drwy anablu neu wrthod cookie.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Ymateb annisgwyl gan y gweinydd">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi'i osod.</li> <li>Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.</li> <li>Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Methodd y cysylltiad diogel">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data rydych wedi ei dderbyn.</li> <li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> </ul>">
@@ -84,11 +84,11 @@
 <!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Allan o fan hyn!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ychwanegu Eithriad…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Ni ddylech ychwanegu eithriad os ydych yn defnyddio cyswllt gwe nad ydych yn ymddiried ynddo'n llwyr neu os nad ydych wedi arfer a gweld rhybudd ar y gweinydd hwn.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
