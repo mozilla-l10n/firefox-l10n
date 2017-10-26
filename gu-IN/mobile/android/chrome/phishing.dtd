@@ -4,7 +4,9 @@
 
 <!ENTITY safeb.palm.accept.label "મને અહીંથી બહાર લઇ જાવ!">
 <!ENTITY safeb.palm.decline.label "આ ચેતવણી અવગણો">
+<!ENTITY safeb.palm.reportPage.label "શા માટે આ પૃષ્ઠ અવરોધિત કરવામાં આવ્યું હતું?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "સલાહકાર <a id='advisory_provider'/> દ્વારા પૂરા પાડવામાં આવેલ">
 
 <!ENTITY safeb.blocked.malwarePage.title "અહેવાલ અપાયેલ હુમલા પાનું!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -13,6 +15,12 @@
 
 <!ENTITY safeb.blocked.phishingPage.title3 "છેતરામણી સાઇટ!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "<span id='phishing_sitename'/> પરનું આ વેબ પૃષ્ઠ ભ્રામક સાઇટ તરીકે જાણ કરવામાં આવ્યું છે અને તમારી સુરક્ષા પસંદગીઓ પર આધારિત અવરોધિત કરવામાં આવ્યું છે.">
 
+<!ENTITY safeb.blocked.unwantedPage.title "જાણ કરેલી અનિચ્છનીય સોફ્ટવેર સાઇટ!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> પર આ વેબ પેજને અનિચ્છનીય સૉફ્ટવેર સમાવિષ્ટ કરવામાં આવ્યું છે અને તમારી સુરક્ષા પસંદગીઓ પર આધારિત અવરોધિત કરવામાં આવ્યું છે.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "અવાંછિત સોફ્ટવેર પૃષ્ઠો એવા સોફ્ટવેર ઇન્સ્ટોલ કરવાનો પ્રયાસ કરે છે જે અનિચ્છનીય રીતે તમારી સિસ્ટમને ભ્રામક અને અસર કરી શકે છે.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "આગળ સાઇટમાં માલવેર શામેલ હોઈ શકે છે">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; આ પૃષ્ઠને અવરોધિત કર્યું કારણ કે તે તમારી માહિતી (ઉદાહરણ તરીકે, ફોટા, પાસવર્ડ્સ, સંદેશા અને ક્રેડિટ કાર્ડ્સ)ને ચોરી કે કાઢી નાખતી જોખમી એપ્લિકેશનોને ઇન્સ્ટોલ કરવાનો પ્રયાસ કરી શકે છે.">

@@ -836,6 +836,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "હાલમાં લોકપ્રિય">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "બ્રાઉઝ કરવું પ્રારંભ કરો અને અમે અહીં કેટલાક સરસ લેખો, વિડિઓઝ અને અન્ય પૃષ્ઠો દર્શાવીશું જે તમે તાજેતરમાં મુલાકાત લીધાં છે અથવા બુકમાર્ક કર્યા છે.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -844,6 +845,8 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "ઇતિહાસમાંથી દૂર કરો">
 
 <!ENTITY private_tab_panel_title "ખાનગી બ્રાઉઝિંગ + ટ્રેકિંગ પ્રોટેક્શન">
+<!ENTITY private_tab_panel_description "&brandShortName; તમારી બ્રાઉઝિંગ પ્રવૃત્તિને ટ્રૅક કરી શકે તેવા પૃષ્ઠોના ભાગોને બ્લૉક્સ કરે છે.">
+<!ENTITY private_tab_panel_description2 "અમે કોઈ પણ ઇતિહાસ યાદ રાખશે નહીં, પરંતુ ડાઉનલોડ કરેલી ફાઇલો અને નવા બુકમાર્ક્સ હજી પણ તમારા ઉપકરણ પર સચવાશે.">
 <!ENTITY private_tab_learn_more "વધુ જાણવા માગો છો?">
 
 <!ENTITY fullscreen_warning "પૂર્ણ સ્ક્રીનને દાખલ કરો">
