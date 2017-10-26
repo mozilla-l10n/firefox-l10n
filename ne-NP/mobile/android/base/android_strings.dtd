@@ -290,6 +290,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "अनुकुल ट्याबहरू">
+<!ENTITY pref_custom_tabs_summary4 "अनुप्रयोगहरूलाई छिटो लोड हुने अनुकूलन ट्याबमा वेब सामग्री खोल्न अनुमति दिनुहोस् ।">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -368,7 +369,7 @@
 <!ENTITY pref_search_suggestions "खोजी सुझावहरू देखाउनुहोस्">
 <!ENTITY pref_history_search_suggestions "खोजी इतिहास देखाउनुहोस्">
 <!ENTITY pref_import_options "आयात विकल्पहरू">
-<!ENTITY pref_import_android_summary "मुल ब्रावजरबाट त्यहाँ भएको बुकमार्क र ईतिहास भित्र्याउनुहोस्">
+<!ENTITY pref_import_android_summary "मुल ब्राउजरबाट त्यहाँ भएको बुकमार्क र इतिहास आयात गर्नुहोस्">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "टयाब खोल्नुहोस्">
@@ -484,7 +485,8 @@
 <!ENTITY contextmenu_open_new_tab "नयाँ ट्याबमा खोल्नुहोस्">
 <!ENTITY contextmenu_open_private_tab "निजि ट्याबमा खोल्नुहोस्">
 <!ENTITY contextmenu_remove "हटाउनुहोस्">
-<!ENTITY contextmenu_add_to_launcher "गृह पर्दामा थप्नुहोस">
+<!ENTITY contextmenu_add_to_launcher "गृह पर्दामा थप्नुहोस्">
+<!ENTITY contextmenu_add_page_shortcut "पृष्ठ छोटकरी थप्नुहोस्">
 <!ENTITY contextmenu_set_as_homepage "गृहपृष्ठ चयन गर्नुहोस्">
 <!ENTITY contextmenu_share "साझा गर्ने">
 <!ENTITY contextmenu_pasteandgo "टाँस्नुहोस् र जानुहोस्">
@@ -815,8 +817,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; अप टु डेट छ">
 <!ENTITY whatsnew_notification_summary "यो संस्करणमा नयाँ के छ जान्नुहोस्">
 
-<!ENTITY promotion_add_to_homescreen "गृह पर्दामा थप्नुहोस">
+<!ENTITY promotion_add_to_homescreen "गृह पर्दामा थप्नुहोस्">
 
+<!ENTITY promotion_add_page_shortcut "पृष्ठ छोटकरी थप्नुहोस्">
 
 <!ENTITY helper_first_offline_bookmark_title "अफलाइन पढ्नुहोस्">
 <!ENTITY helper_first_offline_bookmark_message "बुक्मार्कसमा तपाईंको पाठक वस्तुहरू भेट्टाउनुहोस्, अफलाइन हुंदा पनि।">
@@ -859,7 +862,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "पूरा पर्दामा प्रवेश गरियो">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+गृह पर्दामा थप्नुहोस्">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "गृह पर्दामा थप्नुहोस्">
+<!ENTITY pwa_continue_to_website "वेबसाइटमा जारि राख्नुहोस्">
+<!ENTITY pwa_onboarding_sumo "तपाईँ यो वेबसाइटलाई तपाईँको गृह स्क्रिनमा सजिलै थप्न सक्नुहुन्छ सजिलै पहुँच गर्न र अनुप्रयोग जस्तो अनुभव सँग छिटो ब्राउज गर्नको लागि ।">
