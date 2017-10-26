@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Experimentele functies">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Aangepaste tabbladen">
+<!ENTITY pref_custom_tabs_summary4 "Toestaan dat apps webinhoud laden in een snel openend eigen tabblad">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Openen in &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "QR-scanner in de URL-balk toestaan">
 
 <!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
+<!ENTITY pref_sync_default_title "Firefox-account">
 <!ENTITY pref_sync2 "Aanmelden">
 <!ENTITY pref_sync_summary2 "Tabbladen, bladwijzers, aanmeldingen, geschiedenis synchroniseren">
 <!ENTITY pref_search_suggestions "Zoeksuggesties tonen">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Openen in privétabblad">
 <!ENTITY contextmenu_remove "Verwijderen">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan startscherm">
+<!ENTITY contextmenu_add_page_shortcut "Paginasnelkoppeling toevoegen">
 <!ENTITY contextmenu_set_as_homepage "Instellen als startpagina">
 <!ENTITY contextmenu_share "Delen">
 <!ENTITY contextmenu_pasteandgo "Plakken &amp; Gaan">
@@ -814,6 +822,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Toevoegen aan startscherm">
 
+<!ENTITY promotion_add_page_shortcut "Paginasnelkoppeling toevoegen">
+
 <!ENTITY helper_first_offline_bookmark_title "Offline lezen">
 <!ENTITY helper_first_offline_bookmark_message "Vind uw lezerweergave-items in de bladwijzers, zelfs offline.">
 <!ENTITY helper_first_offline_bookmark_button "Naar Bladwijzers">
@@ -854,8 +864,12 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY fullscreen_warning "Volledig scherm geopend">
 
-
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
 <!ENTITY pwa_add_to_launcher_confirm "+ Toevoegen aan startscherm">
-<!ENTITY pwa_add_to_launcher_badge "PWA toevoegen aan startscherm">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Toevoegen aan startscherm">
 <!ENTITY pwa_continue_to_website "Doorgaan naar website">
 <!ENTITY pwa_onboarding_sumo "U kunt deze website eenvoudig aan uw startscherm toevoegen voor directe toegang en sneller surfen met een app-achtige ervaring.">
