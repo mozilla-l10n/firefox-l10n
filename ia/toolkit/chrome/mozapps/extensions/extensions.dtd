@@ -20,8 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Instrumentos pro tote le additivos">
 
-<!ENTITY getThemes.description                "Cerca tu de personalisar tu navigator?">
-<!ENTITY getThemes.learnMore                  "Eliger inter milles de themas.">
+<!ENTITY getThemes.description                "Desira tu personalisar tu navigator?">
+<!ENTITY getThemes.learnMore                  "Elige inter milles de themas.">
 
 <!ENTITY cmd.back.tooltip                     "Ir un pagina retro">
 <!ENTITY cmd.forward.tooltip                  "Ir un pagina avante">

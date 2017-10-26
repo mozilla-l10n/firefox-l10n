@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Aperir le pannello de messages">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Aperi le pannello de requesta de geolocalisation">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Aperir le pannello de messages de installation de additivos">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gere le permission de extraction del canevas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir pannello de messages de stockage disconnectite">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Aperir pannello de messages de contrasignos salvate">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerer utilisation del plugin">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Tu ha blocate le stockage pro iste sito web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tu ha blocate iste sito web de inviar notificationes.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tu ha blocate le stockage persistente pro iste sito web.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Tu ha blocate le fenestras emergente pro iste sito web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Monstrar le chronologia">
 
@@ -842,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Trahe tu elementos favorite e depone los in le barra de instrumentos o in le menu disbordante.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Vole altere instrumentos?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Eliger inter milles de additivos">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Elige inter milles de additivos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinitiones">
 <!ENTITY customizeMode.done "Facite">
 <!ENTITY customizeMode.titlebar "Barra de titulo">

@@ -6,7 +6,7 @@
 <!ENTITY tile.label                 "Quadrellatura">
 <!ENTITY center.label               "Centro">
 <!ENTITY stretch.label              "Tender">
-<!ENTITY fill.label                 "Plenar">
+<!ENTITY fill.label                 "Completar">
 <!ENTITY fit.label                  "Adjustar">
 <!ENTITY preview.label              "Vista preliminar">
 <!ENTITY color.label                "Color:">
