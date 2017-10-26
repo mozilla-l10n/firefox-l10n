@@ -7,8 +7,10 @@
 <!ENTITY firstrun_urlbar_subtext2 "Wanngorde cinndel Mozilla hesere, nde wonaa julorteende, heƴnde e geese ɗe njoɓetaake, udditiiɗe.">
 <!ENTITY firstrun_panel_title_privacy "Suturo">
 <!ENTITY firstrun_privacy_message "Yillo ɗo hay gooto yiyataa ma">
+<!ENTITY firstrun_privacy_subtext "Banngagol Sutura e Ndeenka Dewindol ina faloo ñukkintooɓe saanga nde mbanngotoɗaa kadi ɗum siiftoroytaa aslol maa nde ngasnuɗaa wanngaade.">
 <!ENTITY firstrun_panel_title_customize "Heertin">
 <!ENTITY firstrun_customize_message "Waɗtu &brandShortName; nde maa.">
+<!ENTITY firstrun_customize_subtext "Heertin &brandShortName; e ɓeyditte. Falo ɓaŋŋine, ɓeydu fannuuji, walla suɓo siŋkoore hesere ngam hollit-de neɗɗaagal maa.">
 <!ENTITY firstrun_bookmarks_title "Aslol">
 <!ENTITY firstrun_bookmarks_message "Cuɓaaɗe maa, yeeso e hakkunde">
 <!ENTITY firstrun_bookmarks_subtext "Heɓ njaltudi iwndi e maantore e aslol maa so aɗa yiyloo.">
