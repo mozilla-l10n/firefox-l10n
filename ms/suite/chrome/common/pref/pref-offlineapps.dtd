@@ -5,7 +5,7 @@
 
 <!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
 <!ENTITY pref.offlineapps.title             "Aplikasi Web Luar talian">
-<!ENTITY pref.offlineCache.caption          "Data Kandungan Web dan Pengguna Luar talian">
+<!ENTITY pref.offlineCache.caption          "Data Kandungan Web Luar talian dan Pengguna">
 
 <!ENTITY clearOfflineAppCache.label         "Buang">
 <!ENTITY clearOfflineAppCache.accesskey     "B">
