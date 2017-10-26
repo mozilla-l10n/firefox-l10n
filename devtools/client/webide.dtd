@@ -131,7 +131,7 @@
 <!ENTITY device_typenumber "Integer">
 <!ENTITY device_typestring "String">
 <!ENTITY device_typeobject "Objek">
-<!ENTITY device_typenone "Pilih jenis yang">
+<!ENTITY device_typenone "Pilih jenis">
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "Keutamaan Peranti">
