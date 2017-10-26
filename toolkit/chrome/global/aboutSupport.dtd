@@ -115,6 +115,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Seenorde">
 <!ENTITY aboutSupport.sandboxSyscallAge "Hojomaaji Jawtuɗi">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
 <!ENTITY aboutSupport.safeModeTitle "Eto Mbayka Hoolno">
 <!ENTITY aboutSupport.restartInSafeMode.label "Hurmitin tawa Ɓeyditte ena Ndaaƴaa…">
