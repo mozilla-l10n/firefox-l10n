@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Carauteurístiques esperimentales">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Llingüetes personalizaes">
+<!ENTITY pref_custom_tabs_summary4 "Permite a les aplicaciones abrir el conteníu web nuna llingüeta personalizada de carga rápida.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Abrir en &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Pon l\&apos;escáner QR na barra d\&apos;URLs">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
+<!ENTITY pref_sync_default_title "Cuenta de Firefox">
 <!ENTITY pref_sync2 "Aniciar sesión">
 <!ENTITY pref_sync_summary2 "Sincroniza les llingüetes, marcadores, anicios de sesión, historial">
 <!ENTITY pref_search_suggestions "Amosar suxerencies de gueta">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Abrir en llingüeta privada">
 <!ENTITY contextmenu_remove "Desaniciar">
 <!ENTITY contextmenu_add_to_launcher "Amestar a pantalla d\&apos;aniciu">
+<!ENTITY contextmenu_add_page_shortcut "Amestar atayu de páxina">
 <!ENTITY contextmenu_set_as_homepage "Afita como páxina d\&apos;aniciu">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Apegar y dir">
@@ -814,6 +822,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Amestar a la pantalla d\&apos;aniciu">
 
+<!ENTITY promotion_add_page_shortcut "Amestar atayu de páxina">
+
 <!ENTITY helper_first_offline_bookmark_title "Lleer fuera de llinia">
 <!ENTITY helper_first_offline_bookmark_message "Alcuentra los elementos del to visor de llectura en Marcadores, incluso ensin conexón.">
 <!ENTITY helper_first_offline_bookmark_button "Dir a Marcadores">
@@ -853,3 +863,13 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "¿Quies deprender más?">
 
 <!ENTITY fullscreen_warning "Nel mou pantalla completa">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Amestar a la pantalla d\&apos;aniciu">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Amestar a la pantalla d\&apos;aniciu">
+<!ENTITY pwa_continue_to_website "Siguir col sitiu web">
+<!ENTITY pwa_onboarding_sumo "Pues amestar de mou fácil esti sitiu web a la to pantalla d\&apos;aniciu pa tener accesu nel intre y un restolar rápido.">
