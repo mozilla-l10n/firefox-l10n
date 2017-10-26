@@ -31,7 +31,7 @@
 <!ENTITY saveChangeSyncDeviceName.accesskey "p">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terma dan Syarat Perkhidmatan">
+<!ENTITY prefs.tosLink.label        "Terma Perkhidmatan">
 <!ENTITY fxaPrivacyNotice.link.label "Notis Privasi">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,

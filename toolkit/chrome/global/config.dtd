@@ -42,7 +42,7 @@
 <!ENTITY reset.accesskey "a">
 <!ENTITY new.label "Baru">
 <!ENTITY new.accesskey "B">
-<!ENTITY string.label "Rentetan">
+<!ENTITY string.label "String">
 <!ENTITY string.accesskey "e">
 <!ENTITY integer.label "Integer">
 <!ENTITY integer.accesskey "I">

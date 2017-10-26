@@ -75,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Tab">
 <!ENTITY runtimePanel_usb "Peranti USB">
 <!ENTITY runtimePanel_wifi "Peranti Wi-Fi">
-<!ENTITY runtimePanel_simulator "Pensimulasi">
 <!ENTITY runtimePanel_other "Lain-lain">
-<!ENTITY runtimePanel_installsimulator "Pasang Simulasi">
 <!ENTITY runtimePanel_noadbhelper "Pasangkan Pembantu ADB">
 <!ENTITY runtimePanel_nousbdevice "Tidak nampak peranti anda?">
 <!ENTITY runtimePanel_refreshDevices_label "Muat Semula Peranti">
@@ -131,7 +129,7 @@
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Integer">
-<!ENTITY device_typestring "Rentetan">
+<!ENTITY device_typestring "String">
 <!ENTITY device_typeobject "Objek">
 <!ENTITY device_typenone "Pilih jenis yang">
 
@@ -174,19 +172,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Log Arahan Pra-pakej">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Tetapan Pensimulasi">
-<!ENTITY simulator_remove "Buang Simulator">
-<!ENTITY simulator_reset "Pulih Piawai">
-<!ENTITY simulator_name "Nama">
-<!ENTITY simulator_software "Perisian">
-<!ENTITY simulator_version "Versi">
-<!ENTITY simulator_profile "Profil">
-<!ENTITY simulator_hardware "Perkakasan">
-<!ENTITY simulator_device "Peranti">
-<!ENTITY simulator_screenSize "Skrin">
-<!ENTITY simulator_pixelRatio "Nisbah Piksel">
-<!ENTITY simulator_tv_data "Simulasi TV">
-<!ENTITY simulator_tv_data_open "Config Data">
-<!ENTITY simulator_tv_data_open_button "Buka Direktori Config…">
