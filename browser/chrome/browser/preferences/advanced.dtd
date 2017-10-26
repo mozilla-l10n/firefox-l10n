@@ -74,7 +74,7 @@ available. -->
 <!ENTITY clearCacheNow.accesskey         "B">
 <!ENTITY clearOfflineAppCacheNow.label   "Buang Sekarang">
 <!ENTITY clearOfflineAppCacheNow.accesskey "S">
-<!ENTITY overrideSmartCacheSize.label    "Sampukan automatik pengurusan cache">
+<!ENTITY overrideSmartCacheSize.label    "Terbalikkan pengurusan cache automatik">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Kemaskini">
