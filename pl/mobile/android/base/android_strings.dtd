@@ -614,6 +614,6 @@
 <!ENTITY fullscreen_warning "Włączono tryb pełnoekranowy">
 
 <!ENTITY pwa_add_to_launcher_confirm "+ Dodaj do ekranu głównego">
-<!ENTITY pwa_add_to_launcher_badge "Dodaj do ekranu głównego">
+<!ENTITY pwa_add_to_launcher_badge2 "Dodaj do ekranu głównego">
 <!ENTITY pwa_continue_to_website "Wróć do strony">
 <!ENTITY pwa_onboarding_sumo "Można łatwo dodać tę stronę do ekranu głównego, aby mieć do niej bezpośredni dostęp i używać jej jak aplikację.">
