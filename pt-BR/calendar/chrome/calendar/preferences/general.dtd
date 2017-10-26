@@ -37,6 +37,14 @@
 <!ENTITY pref.soondays.label "A seção seguinte mostra:">
 <!ENTITY pref.soondays.accesskey "g">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "A seção Seguintes exibe:">
+<!ENTITY pref.soondays2.accesskey "S">
+
 <!ENTITY pref.accessibility.label "Acessibilidade" >
 <!ENTITY pref.systemcolors.label "Otimizar as cores para acessibilidade" >
 <!ENTITY pref.systemcolors.accesskey "c">
