@@ -345,6 +345,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "સિસ્ટમ ફોન્ટ કદનો ઉપયોગ કરો">
+<!ENTITY pref_use_system_font_size_summary "સિસ્ટમ ફોન્ટ કદ અનુસાર વેબ સામગ્રીને માપ કરો">
 
 <!ENTITY pref_media_autoplay_enabled "ઑટોપ્લે ની મંજૂરી આપો">
 <!ENTITY pref_media_autoplay_enabled_summary "નિયંત્રણ કરો જો વેબસાઇટ્સ વિડિઓઝ અને અન્ય મીડિયા સામગ્રી ઑટોપ્લે કરતી હોય">
@@ -422,6 +423,7 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ભંગાણનો અહેવાલ આપનાર">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; સ્થાન સેવા">
+<!ENTITY datareporting_wifi_geolocation_summary4 "સહાય &vendorShortName;; વિશ્વમાં નકશા કરો! અમારી ભૌગોલિક સ્થાન સેવાને સુધારવા માટે તમારા ઉપકરણનું આશરે Wi-Fi અને સેલ્યુલર સ્થાન વહેંચો.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -524,6 +526,7 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "કોમ્પેક્ટ ટૅબ્સ">
+<!ENTITY pref_compact_tabs_summary2 "પોટ્રેટ મોડમાં બે સ્તંભાકારમાં ટેબ્સ ગોઠવો">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -587,6 +590,7 @@
 <!ENTITY home_most_recent_empty "તમે એકદમ છેલ્લે મુલાકાત લીધેલી વેબસાઇટો અહીં બતાવે છે.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1;ઉપયોગ કરીને નવી ખાનગી ટેબ &formatS2; તમારો ઇતિહાસ સાચવશે નહીં.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
