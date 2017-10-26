@@ -6,7 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">
 <!ENTITY engine.bookmarks.accesskey "ท">
-<!ENTITY engine.tabs.label2         "แท็บที่เปิด">
+<!ENTITY engine.tabs.label2         "แท็บที่เปิดอยู่">
 <!ENTITY engine.tabs.accesskey      "บ">
 <!ENTITY engine.history.label       "ประวัติ">
 <!ENTITY engine.history.accesskey   "ป">
