@@ -4,19 +4,37 @@
 
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
+<!ENTITY  trackingProtectionLearnMore.label    "Matuto ng higit pa">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
 
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "Matuto ng higit pa">
+<!ENTITY changeBlockList2.accesskey           "C">
 
+<!ENTITY  doNotTrack.learnMore.label    "Matuto ng higit pa">
+<!ENTITY  doNotTrack.always.label       "Palagi">
 
+<!ENTITY  history.label                 "Kasaysayan">
 
+<!ENTITY  locbar.history2.accesskey     "H">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Baguhin ang mga kagustuhan para sa mga suhestiyon sa search engine">
 
-<!ENTITY  acceptCookies.label           "Tumanggap ng cookies mula sa mga site">
-<!ENTITY  acceptCookies.accesskey       "a">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
+<!ENTITY  acceptThirdParty.always.label   "Palagi">
+<!ENTITY  acceptThirdParty.never.label    "Huwag kailanman">
 
+<!ENTITY  keepUntil2.accesskey          "u">
 
 
 <!ENTITY  cookieExceptions.label        "Mga exceptions...">
@@ -25,6 +43,8 @@
 <!ENTITY  showCookies.label             "Ipakita ang Cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
+<!ENTITY  historyHeader2.pre.accesskey     "w">
+<!ENTITY  historyHeader.remember.label     "Tandaan ang kasaysayan">
 <!ENTITY  historyHeader.custom.label       "Gamitin ang custom settings para sa history">
 <!ENTITY  historyHeader.post.label         "">
 
@@ -46,6 +66,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "Burahin ang lahat ng kasalukuyang kasaysayan">
 <!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Tandaan ang aking history sa browsing at download">
 <!ENTITY  rememberHistory2.accesskey  "b">
@@ -58,4 +79,7 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Settings…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  browserContainersLearnMore.label      "Matuto ng higit pa">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
 
