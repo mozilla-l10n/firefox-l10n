@@ -214,7 +214,7 @@
 <!ENTITY addon.updateNow.tooltip              "Installar le actualisation pro iste additivo">
 <!ENTITY addon.includeUpdate.label            "Includer in le actualisation">
 <!ENTITY addon.updateAvailable.label          "Un actualisation es diponibile">
-<!ENTITY addon.checkingForUpdates.label       "Recercante actualisationes…">
+<!ENTITY addon.checkingForUpdates.label       "Cercante actualisationes…">
 <!ENTITY addon.releaseNotes.label             "Notas de revision:">
 <!ENTITY addon.loadingReleaseNotes.label      "Cargante…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Pardono, ma il habeva un error cargante le notas de revision">
