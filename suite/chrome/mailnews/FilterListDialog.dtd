@@ -4,7 +4,7 @@
 
 <!ENTITY filterListDialog.title "Tapis Mesej">
 <!ENTITY nameColumn.label "Nama Penapis">
-<!ENTITY activeColumn.label "Dayakan">
+<!ENTITY activeColumn.label "Didayakan">
 <!ENTITY newButton.label "Baru…">
 <!ENTITY newButton.accesskey "B">
 <!ENTITY editButton.label "Edit…">
