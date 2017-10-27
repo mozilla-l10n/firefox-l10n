@@ -149,7 +149,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceName "Nama">
 <!ENTITY aboutSupport.mediaDeviceGroup "Kumpulan">
 <!ENTITY aboutSupport.mediaDeviceVendor "Pembekal">
-<!ENTITY aboutSupport.mediaDeviceState "Keadaan">
+<!ENTITY aboutSupport.mediaDeviceState "Negara">
 <!ENTITY aboutSupport.mediaDevicePreferred "Diutamakan">
 <!ENTITY aboutSupport.mediaDeviceFormat "Format">
 <!ENTITY aboutSupport.mediaDeviceChannels "Saluran">
