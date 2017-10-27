@@ -16,7 +16,7 @@
 <!ENTITY cancelButton.label "Batal">
 <!ENTITY closeButton.label "Tutup">
 <!ENTITY up.label "Ke Atas">
-<!ENTITY up.accesskey "N">
+<!ENTITY up.accesskey "K">
 <!ENTITY down.label "Turun">
 <!ENTITY down.accesskey "u">
 <!ENTITY direction.label "Arah">
