@@ -4,7 +4,7 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "Disk alanı tasarrufu için şunları indirme:">
 <!ENTITY doNotDownloadNntp.label "Disk alanı tasarrufu için şunları çevrimdışı kullanılmak üzere indirme:">
-<!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesi ve çevrimdışı için yerel kopyalarının bulundurması boyut veya yaş ile sınırlandırılabilir.">
+<!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesini ve çevrimdışı kullanım amacıyla yerel kopyalarının tutulmasını boyut veya yaşla sınırlandırabilirsiniz.">
 <!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
 <!ENTITY allFoldersOffline.accesskey "H">
 <!ENTITY offlineNotDownload.label "İleti">
@@ -37,13 +37,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "G">
 <!ENTITY syncGroupTitle.label "İleti eşitleme">
 <!ENTITY diskspaceGroupTitle.label "Disk alanı">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Tarihini göz ardı ederek tüm iletileri eşitle">
 <!ENTITY allAutosync.accesskey           "T">
 <!ENTITY ageAutosyncBefore.label         "Son">
