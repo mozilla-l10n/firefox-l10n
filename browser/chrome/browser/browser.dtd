@@ -230,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "U hebt notificaties voor deze website geblokkeerd.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "U hebt permanente opslag voor deze website geblokkeerd.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "U hebt pop-ups voor deze website geblokkeerd.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geschiedenis tonen">
 
 <!ENTITY searchItem.title             "Zoeken">
