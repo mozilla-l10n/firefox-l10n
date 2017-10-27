@@ -188,7 +188,7 @@
 <!ENTITY collapseAllThreadsCmd.label "Runtuh Semua Thread">
 <!ENTITY collapseAllThreadsCmd.accesskey "R">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Belum dibaca">
+<!ENTITY unreadMsgsCmd.label "Belum Dibaca">
 <!ENTITY unreadMsgsCmd.accesskey "B">
 <!ENTITY threadsWithUnreadCmd.label "Thread Belum Dibaca">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
