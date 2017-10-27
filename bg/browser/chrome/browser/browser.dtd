@@ -767,13 +767,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Връзката ви със сайта не е поверителна. Изпращаната информация, като например пароли, съобщения, кредитни карти и др., може да бъде видяна от други.">
 <!ENTITY identity.description.insecureLoginForms "Информацията за регистриране, която въведохте в тази страница, не е защитена и може да е компрометирана.">
-<!ENTITY identity.description.weakCipher "Връзката ви с този уебсайт използва слабо шифриране и не е поверителна.">
+<!ENTITY identity.description.weakCipher "Връзката с тази страница използва слабо шифроване и не е поверителна.">
 <!ENTITY identity.description.weakCipher2 "Други хора могат да виждат ваша информация и да променят поведението на уебсайта.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
 <!ENTITY identity.description.passiveLoaded "Връзката не е поверителна и споделяната информация със сайта може да бъде видяна от други.">
-<!ENTITY identity.description.passiveLoaded2 "Уебсайтът има нешифрирано съдържание, като например изображения.">
+<!ENTITY identity.description.passiveLoaded2 "Страницата има нешифровано съдържание, като например изображения.">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; блокира част от съдържанието, но все още има съдържание, което не е шифрирано, като например изображения.">
-<!ENTITY identity.description.activeLoaded "Уебсайтът има съдържание, например скриптове, което не е шифровано, и връзката със сайта не е поверителна.">
+<!ENTITY identity.description.activeLoaded "Страницата има съдържание, например скриптове, което не е шифровано, и връзката със сайта не е поверителна.">
 <!ENTITY identity.description.activeLoaded2 "Споделяната със сайта информация, като например пароли, съобщения, кредитни карти и др., може да бъде виждана от други.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Включване на защита">

@@ -18,7 +18,7 @@
      string visible -->
 <!ENTITY  searchField.width             "15.4em">
 
-<!ENTITY  paneSearchResults.title       "Резултати от търсене">
+<!ENTITY  paneSearchResults.title       "Резултати">
 <!ENTITY  paneGeneral.title             "Основни">
 <!ENTITY  paneSearch.title              "Търсене">
 <!ENTITY  paneFilesApplications.title   "Файлове и приложения">
