@@ -11,4 +11,5 @@
 <!ENTITY addonAction.undo                       "છેલ્લું રદ કરો">
 <!ENTITY addonAction.update                     "સુધારો">
 
+<!ENTITY addonUnsigned.message                  "આ એડ-ઓન &brandShortName;દ્વારા ચકાસી શકાયા નથી.">
 <!ENTITY addonUnsigned.learnMore                "વધુ શીખો">
