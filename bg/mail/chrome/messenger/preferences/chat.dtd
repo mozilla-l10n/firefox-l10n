@@ -50,6 +50,7 @@ sentence. -->
 <!ENTITY messageStyleBubblesTheme.label    "Мехурчета">
 <!ENTITY messageStyleDarkTheme.label       "Тъмна">
 <!ENTITY messageStylePaperSheetsTheme.label "Хартиени листове">
+<!ENTITY messageStyleSimpleTheme.label     "Обикновена">
 <!ENTITY messageStyleDefaultTheme.label    "Стандартна">
 <!ENTITY messageStyleVariant.label         "Вариант:">
 <!ENTITY messageStyleVariant.accesskey     "В">
