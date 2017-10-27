@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "O‘chirib qo‘yish">
 <!ENTITY addonAction.uninstall                  "O‘chirish">
 <!ENTITY addonAction.undo                       "Amalni orqaga qaytarish">
+<!ENTITY addonAction.update                     "Yangilash">
 
 <!ENTITY addonUnsigned.message                  "Ushbu qo‘shimcha dastur &brandShortName; tomonidan tasdiqlanmadi.">
 <!ENTITY addonUnsigned.learnMore                "Koʻproq o‘rganish">
