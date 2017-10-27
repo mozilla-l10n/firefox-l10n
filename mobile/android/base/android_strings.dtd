@@ -486,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Otvoriť na súkromnej karte">
 <!ENTITY contextmenu_remove "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
+<!ENTITY contextmenu_add_page_shortcut "Pridať odkaz na stránku">
 <!ENTITY contextmenu_set_as_homepage "Nastaviť ako domovskú stránku">
 <!ENTITY contextmenu_share "Zdieľať">
 <!ENTITY contextmenu_pasteandgo "Prilepiť a prejsť">
@@ -818,6 +819,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Pridať na úvodnú obrazovku">
 
+<!ENTITY promotion_add_page_shortcut "Pridať odkaz na stránku">
 
 <!ENTITY helper_first_offline_bookmark_title "Prečítať offline">
 <!ENTITY helper_first_offline_bookmark_message "Nájdite svoje položky zo Zoznamu na prečítanie medzi Záložkami, aj v režime offline.">
@@ -860,7 +862,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "Bol spustený režim celej obrazovky">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Pridať na úvodnú obrazovku">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Pridať na úvodnú obrazovku">
+<!ENTITY pwa_continue_to_website "Pokračovať na webovú stránku">
+<!ENTITY pwa_onboarding_sumo "Túto webovú stránku si môžete jednoducho pridať na svoju úvodnú obrazovku a mať tak okamžitý prístup k prehliadaniu.">
