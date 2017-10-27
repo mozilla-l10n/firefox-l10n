@@ -363,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "اجازه دادنِ امکانِ QR در نوار آدرس">
 
 <!ENTITY pref_use_master_password "استفاده از گذرواژهٔ همگانی">
+<!ENTITY pref_sync_default_title "حساب کاربری فایرفاکس">
 <!ENTITY pref_sync2 "ورود">
 <!ENTITY pref_sync_summary2 "زبانه‌ها، نشانک‌ها، ورودها و تاریخچه خود را هم‌گام‌سازی کنید">
 <!ENTITY pref_search_suggestions "نمایش پیشنهادهای جست‌وجو">
@@ -485,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "باز کردن در زبانهٔ خصوصی">
 <!ENTITY contextmenu_remove "حذف">
 <!ENTITY contextmenu_add_to_launcher "اضافه کردن به صفحه‌ی خانه">
+<!ENTITY contextmenu_add_page_shortcut "اضافه کردن میانبر صفحه">
 <!ENTITY contextmenu_set_as_homepage "تنظیم به عنوان صفحه‌خانگی">
 <!ENTITY contextmenu_share "اشتراک‌گذاری">
 <!ENTITY contextmenu_pasteandgo "چسباندن و رفتن">
@@ -817,6 +819,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "اضافه کردن به صفحه‌ی خانه">
 
+<!ENTITY promotion_add_page_shortcut "اضافه کردن میان بر صفحه">
 
 <!ENTITY helper_first_offline_bookmark_title "مطالعه آفلاین">
 <!ENTITY helper_first_offline_bookmark_message "پیدا کردن موارد حالت مشاهده مطالعه در نشانک‌ها ، حتی آفلاین.">
@@ -859,7 +862,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "به حالت تمام‌صفحه وارد شد">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+اضافه به صفحه خانگی">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "اضافه کردن به صفحه خانگی">
+<!ENTITY pwa_continue_to_website "ادامه به این پایگاه اینترنتی">
+<!ENTITY pwa_onboarding_sumo "شما به راحتی می‌توانید این پایگاه اینترنتی را به صفحه خانگی خود اضافه کنید تا دسترسی مستقیم به آن داشته باشید و مرور سریعتی را مانند تجربه کردن یک برنامه داشته باشید.">
