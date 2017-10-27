@@ -14,7 +14,7 @@
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Kemaskini">
 <!ENTITY updatePass.accesskey         "K">
-<!ENTITY resetPass.label              "Mengeset semula">
+<!ENTITY resetPass.label              "Set semula">
 <!ENTITY resetPass.accesskey          "M">
 
 <!-- Manage Account -->
