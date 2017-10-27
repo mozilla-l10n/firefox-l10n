@@ -5,11 +5,11 @@
 <!ENTITY window.title                 "Изключения">
 <!ENTITY window.width                 "52em">
 
-<!ENTITY treehead.sitename2.label     "Уебсайт">
+<!ENTITY treehead.sitename2.label     "Страница">
 <!ENTITY treehead.status.label        "Състояние">
-<!ENTITY removepermission2.label      "Премахване на уебсайт">
+<!ENTITY removepermission2.label      "Премахване на страница">
 <!ENTITY removepermission2.accesskey  "с">
-<!ENTITY removeallpermissions2.label  "Премахване на всички уебсайтове">
+<!ENTITY removeallpermissions2.label  "Премахване на всички страници">
 <!ENTITY removeallpermissions2.accesskey "в">
 <!ENTITY address2.label               "Адрес на страница">
 <!ENTITY address2.accesskey           "д">
