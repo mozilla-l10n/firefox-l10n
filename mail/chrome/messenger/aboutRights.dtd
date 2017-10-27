@@ -48,6 +48,10 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; ofrece servicios opcionales (&quot;Servicios&quot;), como el de actualización de complementos, disponibles para su uso con esta versión binaria de &brandShortName; como se describe abajo. Si no quieres usar los Servicios o si no estás conforme con los términos abajo, puedes deshabilitar el servicio de actualización de complementos abriendo las preferencias de la aplicación y seleccionando ">
+<!ENTITY rights.webservices-b "Avanzado">
+<!ENTITY rights.webservices-c " sección seguido por  ">
+<!ENTITY rights.webservices-d "Actualizar">
 
 <!-- intro paragraph for unbranded builds -->
 
