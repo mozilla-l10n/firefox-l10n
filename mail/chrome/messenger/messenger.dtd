@@ -581,7 +581,7 @@
 <!ENTITY goForwardButton.tooltip "Langkau satu mesej">
 <!ENTITY goBackButton.tooltip "Undur satu mesej">
 <!ENTITY deleteButton.tooltip "Buang mesej atau folder yang dipilih">
-<!ENTITY undeleteButton.tooltip "Batalkan buang mesej yang dipilih">
+<!ENTITY undeleteButton.tooltip "Batal buang mesej yang dipilih">
 <!ENTITY markButton.tooltip "Tandakan mesej">
 <!ENTITY printButton.tooltip "Cetak mesej ini">
 <!ENTITY stopButton.tooltip "Hentikan pemindahan semasa">
