@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ਟਿਕਾਣਾ ਬੇਨਤੀ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ਐਡ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "ਕੈਨਵਸ ਨਤੀਜਾ ਇਜਾਜ਼ਤ ਦਾ ਪਰਬੰਧ">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ਆਫ਼ਲਾਈਨ ਸਟੋਰੇਜ਼ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ਪਲੱਗਇਨ-ਇਨ ਵਰਤੋਂ ਦਾ ਪਰਬੰਧ">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ ਡਾਟਾ ਸਟੋਰੇਜ਼ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਨੋਟੀਫਿਕੇਸ਼ਨ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "ਇਸ ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ ਤੁਸੀਂ ਪੋਪਅੱਪ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
 
@@ -442,6 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ਗੁਰ:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "ਚੀਜ਼ਾਂ ਲੱਭਣ ਲਈ ਮਦਦ ਲਵੋ! ਖੋਜ ਸੁਝਾਆਵਾਂ ਲਈ ਅੱਗੇ &#x1F50E; ਨੂੰ ਲੱਭੋ।">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "…ਚੋਣਾਂ ਨੂੰ ਬਦਲੋ">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "…ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ">
@@ -840,6 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ਸਿੰਕ ਕਰੋ">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਚੀਜ਼ਾਂ ਨੂੰ ਟੂਲਬਾਰ ਜਾਂ ਓਵਰਫਲੋ ਮੇਨੂ ਵਿੱਚ ਖਿੱਚੋ।">
 <!ENTITY customizeMode.menuAndToolbars.empty "ਹੋਰ ਟੂਲ ਚਾਹੀਦੇ ਹਨ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ਹਜ਼ਾਰਾਂ ਐਡ-ਆਨ ਵਿੱਚੋਂ ਚੁਣੋ">
 <!ENTITY customizeMode.restoreDefaults "ਡਿਫਾਲਟ ਮੁੜ-ਸਟੋਰ">
@@ -854,6 +859,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ਹੋਰ ਥੀਮ ਲਵੋ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.overflowList.title2 "ਓਵਰਫਲੋ ਮੇਨੂ">
+<!ENTITY customizeMode.uidensity "ਗਾੜ੍ਹਾਪਣ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "ਸਧਾਰਨ">

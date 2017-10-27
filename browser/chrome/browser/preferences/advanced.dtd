@@ -36,6 +36,7 @@ available. -->
 <!ENTITY dataCollection.label            "&brandShortName; ਡਾਟਾ ਇਕੱਤਰ ਕਰਨਾ ਅਤੇ ਵਰਤੋ">
 <!ENTITY dataCollectionPrivacyNotice.label    "ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "ਹੋਰ ਜਾਣੋ">
 
@@ -91,16 +92,20 @@ available. -->
 <!ENTITY updateApplication.version.pre   "ਵਰਜ਼ਨ ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; ਨੂੰ ਇਜਾਜ਼ਤ ਦਿਓ">
+<!ENTITY updateAuto3.label               "ਅੱਪਡੇਟ ਆਪਣੇ-ਆਪ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ)">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "ਅੱਪਡੇਟ ਦੀ ਜਾਂਚ ਤਾਂ ਕਰੋ, ਪਰ ਉਹਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਚੁਣਨ ਦਿਓ">
 <!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "ਅੱਪਡੇਟ ਲਈ ਕਦੇ ਵੀ ਜਾਂਚ ਨਾ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ ਨਹੀਂ)">
 <!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "…ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ">
 <!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਬੈਕਗਰਾਊਂਡ ਸਰਵਿਸ ਵਰਤੋਂ">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "ਖੋਜ ਇੰਜਣਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY offlineStorageNotify.label               "ਜਦੋਂ ਵੈੱਬਸਾਈਟ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸਟੋਰ ਕਰਨ ਲਈ ਪੁੱਛੇ ਤਾਂ ਤੁਹਾਨੂੰ ਦੱਸੋ">
@@ -125,6 +130,7 @@ available. -->
 <!ENTITY viewSecurityDevices2.label      "…ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ">
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
+<!ENTITY performance.label               "ਕਾਰਗੁਜ਼ਾਰੀ">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "ਸਿਫਾਰਸ਼ੀ ਕਾਰਗੁਜਾਰੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey

@@ -18,16 +18,9 @@
 <!ENTITY deniedPortAccess.title "ਇਹ ਐਡਰੈੱਸ ਪਾਬੰਦੀਸ਼ੁਦਾ ਹੈ">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ ਹੈ">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>ਲਿਖਣ ਦੀਆਂ ਗਲਤੀਆਂ ਲਈ ਐਡਰੈੱਸ ਚੈੱਕ ਕਰੋ, ਜਿਵੇਂ
-   <strong>www</strong>.example.com</li> ਦੀ ਬਜਾਏ
-    <strong>ww</strong>.example.com ਲਿਖਿਆ ਹੋਵੇ
-  <li>ਜੇ ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ ਤਾਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਦਾ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਚੈੱਕ ਕਰੋ।</li>
-  <li>ਜੇ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਜਾਂ ਨੈੱਟਵਰਕ ਫਾਇਰਵਾਲ ਜਾਂ ਪਰਾਕਸੀ ਨਾਲ ਸੁਰੱਖਿਆ ਕੀਤਾ ਹੋਇਆ ਹੈ ਤਾਂ ਯਕੀਨੀ ਬਣਾਓ ਕਿ &brandShortName; ਨੂੰ ਵੈੱਬ ਵਰਤਣ (ਅਸੈੱਸ ਕਰਨ) ਦੀ ਇਜ਼ਾਜ਼ਤ ਹੈ।</li>
-</ul>
-">
+<!ENTITY dnsNotFound.pageTitle "ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "ਓਹ ਹੋ। ਸਾਨੂੰ ਉਹ ਸਾਈਟ ਲੱਭਣ ਲਈ ਸਮੱਸਿਆਵਾਂ ਆ ਰਹੀਆਂ ਹਨ।">
 
 <!ENTITY fileNotFound.title "ਫਾਈਲ ਨਹੀਂ ਲੱਭੀ">
 <!ENTITY fileNotFound.longDesc "
@@ -56,16 +49,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "ਨੈੱਟਵਰਕ ਲਾਗਇਨ ਸਫ਼ਾ ਖੋਲ੍ਹੋ">
 
-
-<!ENTITY malformedURI.title "ਇਹ ਐਡਰੈੱਸ ਠੀਕ ਨਹੀਂ ਹੈ ਜੀ।">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>ਵੈੱਬ ਐਡਰੈੱਸ ਆਮ ਤੌਰ ਉੱਤੇ ਇੰਝ ਲਿਖਿਆ ਜਾਂਦਾ ਹੈ।
-    <strong>http://www.example.com/</strong></li>
-  <li>ਧਿਆਨ ਨਾਲ ਚੈੱਕ ਕਰ ਲਵੋ ਕਿ ਤੁਸੀਂ ਫਾਰਵਰਡ ਸਲੈਸ਼ (ਜਿਵੇਂ
-    <strong>/</strong>) ਹੀ ਵਰਤ ਰਹੇ ਹੋ।</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "ਅਢੁੱਕਵਾਂ URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "ਓਹ ਹੋ। ਉਹ ਸਿਰਨਾਵਾਂ ਠੀਕ ਨਹੀਂ ਜਾਪਦਾ ਹੈ।">
 
 <!ENTITY netInterrupt.title "ਕੁਨੈਕਸ਼ਨ ਰੋਕਿਆ ਗਿਆ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
