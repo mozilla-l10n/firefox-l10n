@@ -38,6 +38,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "દસ્તાવેજ નિવૃત્ત થઇ ગયું">
+<!ENTITY notCached.longDesc "<p>વિનંતી કરેલો દસ્તાવેજ &brandShortName;ના કામચલાઉ સંગ્રહમાં ઉપલબ્ધ નથી.</p><ul><li>સુરક્ષા સાવચેતી તરીકે, &brandShortName; સ્વયંચાલિત પ્રતિબંધિત દસ્તાવેજોને ફરીથી વિનંતિ કરતું નથી.</li><li>વેબસાઇટ પરથી દસ્તાવેજની ફરી વિનંતી કરવા માટે ફરી પ્રયાસ કરો ક્લિક કરો.</li></ul>">
 
 <!ENTITY netOffline.title "ઑફલાઇન સ્થિતિ">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
