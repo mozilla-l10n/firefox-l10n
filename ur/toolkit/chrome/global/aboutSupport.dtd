@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "ازالہ کاری معلومات">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "اس صفحے کو آپ ایک مسئلہ کو حل کرنے کی کوشش کر رہے ہیں جب مفید ہو سکتا ہے کہ تکنیکی معلومات پر مشتمل ہے. آپ &brandShortName;,  بارے میں عمومی سوالات کے جوابات کے لئے تلاش کر رہے ہیں تو ؛، ہمارے <a id='supportLink'> حمایت کی ویب سائٹ کو چیک کریں</a>.">
 
 <!ENTITY aboutSupport.crashes.title "کریش رپورٹیں">
@@ -21,9 +21,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ورژن">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; فیچر">
+<!ENTITY aboutSupport.featureName "نام">
+<!ENTITY aboutSupport.featureVersion "ورژن">
 
 <!ENTITY aboutSupport.experimentsTitle "تجرباتی فیچر">
 <!ENTITY aboutSupport.experimentName "نام">
@@ -38,9 +38,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "نام">
 <!ENTITY aboutSupport.appBasicsVersion "ورژن">
 <!ENTITY aboutSupport.appBasicsBuildID "بلڈ-آی ڈی">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "چینل کی تازہ کاری کریں">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "سابقات تازہ کریں">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "تبدیلیوں کی تاریخ دکھائیں">
@@ -57,14 +57,13 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse " میموری استعمال کریں">
 <!ENTITY aboutSupport.appBasicsPerformance "کارکردگی">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "رجسٹر شدہ خدمت کے کارکنان">
 
 <!ENTITY aboutSupport.appBasicsProfiles "پروفا ئلز">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ملٹی عمل دریچہ">
-
 
 
 
@@ -82,8 +81,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "اہم ترمیمی ترجیحات">
 <!ENTITY aboutSupport.modifiedPrefsName "نام">
 <!ENTITY aboutSupport.modifiedPrefsValue "قدر">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js ترجیحات">
 <!ENTITY aboutSupport.userJSDescription "آپ کے پروفائل میں ایک<a id='prefs-user-js-link'> user.js مسل</a> ہے، جس میں وہ ترجیحات شامپ ہیں جو &brandShortName; نے نہیں بنائیں تھیں۔">
 
@@ -104,7 +103,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "عمل میں لائیں">
 <!ENTITY aboutSupport.a11yForceDisabled "رسائی پزیری روکیں">
 
-
 <!ENTITY aboutSupport.libraryVersionsTitle "لائبریری ورژن">
 
 <!ENTITY aboutSupport.installationHistoryTitle "انسٹا لیشن سابقات">
@@ -114,14 +112,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "تختہ تراشہ پر خام کوائف نقل کریں">
 
 <!ENTITY aboutSupport.sandboxTitle "سینڈ باکس">
-
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "چند سیکنڈ پہلے">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
-
-
-
 
 <!ENTITY aboutSupport.safeModeTitle "محفوظ موڈ آزمائیں">
 <!ENTITY aboutSupport.restartInSafeMode.label "ایڈز آن نا اہل کر کے دوبارہ شروع کریں...">
@@ -135,14 +129,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "حادثے گارڈ معذور خصوصیات">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "متبادل راستے">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "میڈیا">
+<!ENTITY aboutSupport.mediaDeviceName "نام">
+<!ENTITY aboutSupport.mediaDeviceGroup "گروہ">

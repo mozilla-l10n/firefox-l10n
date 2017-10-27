@@ -25,11 +25,8 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "ماڈیول کے لئے جو معلومات آپ شامل کرنا چاہتے ہیں، داخل کریں۔">
-<!ENTITY loaddevice.modname                     "نام ماڈیول:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "نیا PKCS#11 ماڈیول">
-<!ENTITY loaddevice.filename                    "ماڈیول نام مسل:">
-<!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "براؤز کریں…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

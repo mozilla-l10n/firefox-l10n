@@ -13,12 +13,21 @@
 <!ENTITY  popupExceptions.label                                 "استثنیات…">
 <!ENTITY  popupExceptions.accesskey                             "ا">
 
+<!ENTITY  notificationSettingsButton.label                      "سیٹنگیں…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "مزید سیکھیں">
 
 <!ENTITY  locationPermissions.label                             "محل وقوع">
+<!ENTITY  locationSettingsButton.label                          "سیٹنگیں…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
 <!ENTITY  cameraPermissions.label                               "کیمرہ">
+<!ENTITY  cameraSettingsButton.label                            "سیٹنگیں…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
 <!ENTITY  microphonePermissions.label                           "مائیکروفون">
+<!ENTITY  microphoneSettingsButton.label                        "سیٹنگیں…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "فانٹ اور رنگ">
 

@@ -4,16 +4,21 @@
 
 <!ENTITY  fontsDialog.title                       "فانٹ">
 
+<!ENTITY  fonts.label                             "فانٹ برائے">
 <!ENTITY  fonts.accesskey                         "F">
 
 <!ENTITY  size2.label                             "ماپ">
 <!ENTITY  sizeProportional.accesskey              "س">
 <!ENTITY  sizeMonospace.accesskey                 "م">
 
+<!ENTITY  proportional2.label                     "متناسب">
 <!ENTITY  proportional2.accesskey                 "P">
 
 <!ENTITY  serif2.label                            "سیرف">
 <!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "سینس-سیرف">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -47,6 +52,8 @@
 <!ENTITY  font.langGroup.sinhala                  "سنہالہ">
 <!ENTITY  font.langGroup.tibetan                  "تبتى">
 <!-- Minimum font size -->
+<!ENTITY minSize2.label                           "کم سے کم فانٹ کا ماپ">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "کوئی نہیں">
 
 <!-- default font type -->

@@ -20,7 +20,7 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ٹیب پھر لوڈ کریں">
-<!ENTITY  reloadTab.accesskey                "پ">
+<!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "تمام ٹیب پھر لوڈ کریں">
 <!ENTITY  reloadAllTabs.accesskey            "ت">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -228,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "آپ نے اس ویب سائٹ کے لیئے کوائف کے ذخیرہ کو بلاک کیا ہوا ہے">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "آپ نے اس ویب سائٹ کے لیئے اطلاع کو بلاک کیا ہوا ہے">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "آپ نے اس ویب سائٹ کے لیئے مسلسل اسٹوریج کو بلاک کیا ہوا ہے۔">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "سابقات دکھائیں">
 
@@ -805,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "اپنے دیگر آلات پر ٹیب کی فہرست دیکھنے کے لئے ٹیب ہم سازی آن کر دیں۔">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "ہمہ وقت ساز ٹیبز تلاش کریں">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -981,3 +983,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "آلات کی ہمہ وقت سازی کر رہے ہے…">
 
 <!ENTITY libraryButton.tooltip "تاریخیں، محفوظ شدہ نشانیاں، اور بھی مزید دکھائے">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->

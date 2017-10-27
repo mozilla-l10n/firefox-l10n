@@ -10,11 +10,7 @@
 <!ENTITY certmgr.tab.ca                       "مقتدرات">
 <!ENTITY certmgr.tab.orphan2                  "دیگر">
 
-<!ENTITY certmgr.mine                         "آپ کے پاس ان تنظیموں سے تصدیق نامے ہیں جو آپ کی شناخت کرتے ہیں:">
-<!ENTITY certmgr.others                       "آپ کے پاس مسل پر تصدیق نامے ہیں جو ان لوگوں کی شناخت کرتے ہیں:">
-<!ENTITY certmgr.websites2                    "آپ کے پاس مسل پر تصدیق نامے ہیں جو ان پیش کار کی شناخت کرتے ہیں:">
-<!ENTITY certmgr.cas                          "آپ کے پاس مسل پر تصدیق نامے ہیں جو ان تصدیق نامہ مقتدرات کی شناخت کرتے ہیں:">
-<!ENTITY certmgr.orphans                      "آپ کے پاس مسل پر تصدیق نامے ہیں جو کسی بھی دیگر زمرہ جات کے مناسب نہیں۔">
+<!ENTITY certmgr.orphans2                     "آپ کے پاس مسل پر تصدیق نامے ہیں جو کسی بھی دیگر زمرہ جات کے مناسب نہیں">
 
 <!ENTITY certmgr.detail.general_tab.title     "عمومی">
 <!ENTITY certmgr.detail.general_tab.accesskey "ع">

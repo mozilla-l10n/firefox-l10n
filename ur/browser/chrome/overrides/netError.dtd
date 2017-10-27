@@ -9,8 +9,8 @@
 <!ENTITY retry.label "دوبارہ کوشش کریں">
 <!ENTITY returnToPreviousPage.label "واپس جائیں">
 <!ENTITY advanced.label "اعلٰی">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "جڑنے میں ناکامیاب">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,8 @@
 <!ENTITY deniedPortAccess.title "یہ پتہ رسٹرکٹڈ ہے">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "پیش کار نہیں ملا">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>ایڈرس کو ٹائپنگ نقص کے لیے چیک کریں جیسے کہ کی بجائے <strong>ww</strong>.example.com <strong>www</strong>.example.com</li> <li>اگر آپ پیج نہیں لوڈ کر پا رہے، تو اپنے کمپیوٹر کا کنکشن چیک کریں۔</li> <li>اگر آپ کا کمپیوٹر یا نیٹورک فصیل یا پراکسی سے محفوظ ہے تو چیک کریں کہ ویب تک رسائی کر سکتا ہے۔ &brandShortName;</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "پیش کار نہیں ملا">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "مسل نہیں ملی">
 <!ENTITY fileNotFound.longDesc "<ul> <li>مسل نام کو کیپیٹل یا دوسرے ٹائپنگ نقص کے لیے چیک کریں</li> <li>چیک کریں کہ مسل ہٹائی، نام تبدیل یا ڈلیٹ تو نہیں کر دی گئی۔ </li> </ul>">
@@ -35,8 +35,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "نیٹ ورک کا لاگ ان صفحہ کھولیں">
 
-<!ENTITY malformedURI.title "پتہ جائز نہیں ہے">
-<!ENTITY malformedURI.longDesc "<ul> <li>ویب پتے زیادہ تر اس طرح لکھے جاتے ہیں <strong>http://www.example.com/</strong></li> <li>چیک کریں کہ آپ سیدہی سلیشیں استعمال کر رہے ہیں، یعنی کہ <strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "کنکشن خراب ہو گیا">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +103,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اعلی معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> سے نہیں جڑ سکا کیوں کے ایسا ظاہر ہوتا ہے کہ آپکے کمپیوٹر کی گھڑی عٰلط وقت دکھا رہی ہے اور یہ ایک قابل بھروسا کنکشن کو روک ر ہا ہے۔</p> <p> آپکا کمپیوٹر <span id='wrongSystemTime_systemDate'/>، پر سیٹ ہے جبکے اسے <span id='wrongSystemTime_actualDate'/> پر ہونا چاہیے۔ اس مسلہ کو حل کرنے کے لیئے اپنی تاریخ اور وقت کی سیٹکگیں تبدیل کریں تاکہ درست وقت کہ مشابہ ہو سکے۔ </p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; سے <span id='wrongSystemTimeWithoutReference_URL'/> نہیں جڑ سکا کیوں کے ایسا ظاہر ہوتا ہے کہ آپکے کمپیوٹر کی گھڑی عٰلط وقت دکھا رہی ہے اور یہ ایک قابل بھروسا کنکشن کو روک ر ہا ہے۔</p> <p> آپکا کمپیوٹر<span id='wrongSystemTimeWithoutReference_systemDate'/>، پر سیٹ ہے۔ اس مسلہ کو حل کرنے کے لیئے اپنی تاریخ اور وقت کی سیٹکگیں تبدیل کریں تاکہ درست وقت کہ مشابہ ہو سکے۔ </p>">
 

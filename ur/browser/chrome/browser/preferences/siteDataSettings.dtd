@@ -6,6 +6,7 @@
 <!ENTITY     hostCol.label                 "سائٹ">
 <!ENTITY     statusCol.label               "موجودہ حالت ">
 <!ENTITY     usageCol.label                "ذخیرہ">
+<!ENTITY     searchTextboxPlaceHolder             "ویبسائٹ تلاش کریں">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "تبدیلیاں محفوظ کریں">

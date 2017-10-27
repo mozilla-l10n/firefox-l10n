@@ -14,20 +14,27 @@
 <!ENTITY  systemTypeRadio.accesskey     "ا">
 <!ENTITY  WPADTypeRadio.label           "اس نیٹورک کے لیے پراکسی سیٹنگیں خود کھوج کریں">
 <!ENTITY  WPADTypeRadio.accesskey       "ن">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "خودکار پراکسی تشکیل URL">
 <!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "پھر لوڈ کریں">
 <!ENTITY  reload.accesskey              "پ">
 <!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS ورژن 4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS ورژن 5">
 <!ENTITY  socks5.accesskey              "و">
 <!ENTITY  socksRemoteDNS.label2         "پراکسی DNS جب استعمال کر رہے ہوں SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  port2.label                   "پورٹ">
 <!ENTITY  HTTPport.accesskey            "پ">
 <!ENTITY  SSLport.accesskey             "س">
 <!ENTITY  FTPport.accesskey             "ف">
 <!ENTITY  SOCKSport.accesskey           "ٹ">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "مثال: .mozilla.org ،.net.nz ،192.168.1.0/24">
 <!ENTITY  shareproxy.label              "تمام پروٹوکول کے لیے یہ پراکسی سرور استعمال کریں">
 <!ENTITY  shareproxy.accesskey          "ا">

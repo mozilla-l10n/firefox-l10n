@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "سکرین شوٹ">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "چلنے کی معلومات">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "مانیٹر">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "آلہ ترجیحات">
@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "کھولیں ایپلی کیشن">
 <!ENTITY runtimeButton_label "منتخب کریں چلنے کی">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +75,12 @@
 <!ENTITY projectPanel_tabs "ٹیبیں">
 <!ENTITY runtimePanel_usb "USB کے الات">
 <!ENTITY runtimePanel_wifi "وائی فائی آلات">
-<!ENTITY runtimePanel_simulator "سمیلیٹرز">
 <!ENTITY runtimePanel_other "دیگر">
-<!ENTITY runtimePanel_installsimulator "سمیولیٹر کو تنصیب کریں">
 <!ENTITY runtimePanel_noadbhelper "ADB مددگار تنصیب کریں">
 <!ENTITY runtimePanel_nousbdevice "آپ کے آلے کو نہیں دیکھ سکتے؟">
 <!ENTITY runtimePanel_refreshDevices_label " الات تازہ کریں">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "جائز">
 <!ENTITY details_warning_header "تنبیہات">
 <!ENTITY details_error_header "نقائص">
@@ -90,23 +88,23 @@
 <!ENTITY details_location "محل وقوع">
 <!ENTITY details_manifestURL "اپلی کیشن آئی ڈی">
 <!ENTITY details_removeProject_button "پراجیکٹ ہٹائیں">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "نیا اپلی کیشن">
 <!ENTITY newAppHeader "سانچا منتخب کریں">
 <!ENTITY newAppLoadingTemplate "سانچا لوڈ ہو رہا  ہے…">
 <!ENTITY newAppProjectName "پراجیکٹ کا نام">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "بند کریں">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "فالتو اجزاء">
 <!ENTITY addons_aboutaddons "ایڈ اون مینیجر کھولیں">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "ترجیحات">
 <!ENTITY prefs_editor_title "تدوین کار">
 <!ENTITY prefs_general_title "عمومی">
@@ -118,8 +116,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "گزشتہ منصوبے کو بحال کریں جب ویب ائ ڈی ای شروع ہوتا ہے">
 <!ENTITY prefs_options_templatesurl "یو آر ال سانچے">
 <!ENTITY prefs_options_templatesurl_tooltip "دستیاب سانچوں کے اشارے">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "چلنے کے وقت معلومات">
 <!ENTITY runtimedetails_adbIsRoot "ADB کی جڑ ہے:">
 <!ENTITY runtimedetails_summonADBRoot "جڑ آلہ">
@@ -127,36 +125,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "غیر محدود DevTools استحقاق:">
 <!ENTITY runtimedetails_requestPrivileges "اعلی استحقاق کی درخواست کریں">
 <!ENTITY runtimedetails_privilegesWarning "(آلہ دوبارہ شروع کرے گا. جڑ تک رسائی کی طلب ہے.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "بولیائی">
 <!ENTITY device_typenumber "سالم عدد">
 <!ENTITY device_typestring "سٹرنگ">
 <!ENTITY device_typeobject "آبجیکٹ">
 <!ENTITY device_typenone "ایک قسم منتخب کریں">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "آلہ ترجیحات">
 <!ENTITY devicepreference_search "ترجیحات تلاش کریں">
 <!ENTITY devicepreference_newname "نیا ترجیح کا نام">
 <!ENTITY devicepreference_newtext "ترجیح کی قدر">
 <!ENTITY devicepreference_addnew "نئے ترجیح میں اضافہ کریں">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "آلہ سیٹکگیں">
 <!ENTITY devicesetting_search "تلاش کی سیٹکگیں">
 <!ENTITY devicesetting_newname "نیا سیٹگ کا نام">
 <!ENTITY devicesetting_newtext "سیٹنگ قدر">
 <!ENTITY devicesetting_addnew "نئی سیٹ کے لئے اضافہ کریں">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "مانیٹر">
 <!ENTITY monitor_help "مدد">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "کلائنٹ کی شناخت">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,22 +169,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "اپنے دوسرے آلہ کے بجائے ایک QR کوڈ کو سکین کا ٹوکن مانگے تو دوسرے آلہ کے لئے ذیل میں قدر کو کاپی کریں براہ مہربانی:">
 <!ENTITY wifi_auth_qr_size_note "اگر کنکشن کی کامیابی کے لیئے QR کوڈ بہت چھوٹا نظر آئے تو زوم کرنے کی کوشش کریں تاکہ دریچہ بڑا ہو.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "پری پیکیجنگ حکم لاگز">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "سملیٹر اختیارات">
-<!ENTITY simulator_remove "سملیٹر حذف کریں">
-<!ENTITY simulator_reset "طےشدہ بحال کریں">
-<!ENTITY simulator_name "نام">
-<!ENTITY simulator_software "سافٹ ویئر">
-<!ENTITY simulator_version "ورژن">
-<!ENTITY simulator_profile "پروفائل">
-<!ENTITY simulator_hardware "ہاڑڈویئر">
-<!ENTITY simulator_device "آلہ">
-<!ENTITY simulator_screenSize "سکرین">
-<!ENTITY simulator_pixelRatio "دانہ کا تناسب">
-<!ENTITY simulator_tv_data "ٹی وی تخروپن">
-<!ENTITY simulator_tv_data_open "موافقت پذیری ڈیٹا">
-<!ENTITY simulator_tv_data_open_button "کھولیں تشکیل ڈائرکٹری ...">

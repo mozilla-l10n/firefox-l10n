@@ -7,10 +7,12 @@
 
 <!ENTITY treehead.sitename2.label     "ويب سائٹ">
 <!ENTITY treehead.status.label        "حالت">
+<!ENTITY removepermission2.label      "ویب سائٹ ہٹائیں">
 <!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "تمام ویب سائٹیں ہٹائیں">
 <!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address.label                "ویب سائٹ کا پتہ:">
-<!ENTITY address.accesskey            "پ">
+<!ENTITY address2.label               "ویب سائٹ کا پتہ">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "بلاک کریں">
 <!ENTITY block.accesskey              "ب">
 <!ENTITY session.label                "سیشن کے لیے اجازت دیں">
@@ -24,3 +26,4 @@
 <!ENTITY button.ok.label              "تبدیلیاں محفوظ کریں">
 <!ENTITY button.ok.accesskey          "م">
 
+<!ENTITY searchbox.placeholder        "ویبسائٹ تلاش کریں">

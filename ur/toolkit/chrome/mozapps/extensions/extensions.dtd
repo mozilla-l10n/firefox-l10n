@@ -26,12 +26,13 @@
 <!ENTITY cmd.back.tooltip                     "ایک صفحہ واپس جائیں">
 <!ENTITY cmd.forward.tooltip                  "ایک صفحہ آگے جائیں">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "کچھ توسیعات کی تصدیق نہیں ہو سکی">
 <!ENTITY showAllExtensions.button.label       "تمام توسیعات دکھائیں">
 <!ENTITY debugAddons.label                    "ایڈز آن ازالہ کرے">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔">
 <!ENTITY warning.checkcompatibility.label          "ایڈ اون موازنت کی پڑتال نا اہل ہے۔ آپ کے پاس غیر موازن ایڈ اون ہو سکتے ہیں۔">
 <!ENTITY warning.checkcompatibility.enable.label   "اہل بنائیں">
@@ -39,14 +40,14 @@
 <!ENTITY warning.updatesecurity.label              "ایڈ اون سلامتی پڑتال نا اہل ہے۔ آپ کو تازہ کاریوں سے مسلہ ہو سکتا ہے۔">
 <!ENTITY warning.updatesecurity.enable.label       "اہل بنائیں">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ایڈ اون تازہ کاری سلامتی پڑتال کو اہل بنائیں">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "تلاش کریں">
 <!ENTITY view.discover.label                  "ایڈ اون لائیں">
 <!ENTITY view.recentUpdates.label             "حالیہ تازہ کاریاں">
 <!ENTITY view.availableUpdates.label          "دستیاب تازہ کاریاں">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "تازہ کاریوں کے لیے پڑتال کریں">
 <!ENTITY updates.checkForUpdates.accesskey    "پ">
 <!ENTITY updates.viewUpdates.label            "حالیہ تازہ کاریاں نظارہ کریں">
@@ -74,8 +75,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "دستیاب تازہ کاریاں نظارہ کریں">
 <!ENTITY updates.updateSelected.label         "تازہ کاریاں تنصیب کریں">
 <!ENTITY updates.updateSelected.tooltip       "اس فہرست میں دستیاب تازہ کاریاں تنصیب کریں">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "مزید معلومات دکھائیں">
 <!ENTITY cmd.showDetails.accesskey            "د">
 <!ENTITY cmd.findUpdates.label                "تازہ کاریاں ڈھونڈیں">
@@ -118,16 +119,16 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "اس تازہ کاری کے لیے اجرا نوٹ دکھائیں">
 <!ENTITY cmd.hideReleaseNotes.label           "اجرا نوٹ چھپائیں">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "اس تازہ کاری کے لیے اجرا نوٹ چھپائیں">
+<!ENTITY cmd.findReplacement.label            "تبدیلی ڈھونڈیں">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "ایڈ اون کیا ہوتے ہیں؟">
 <!ENTITY discover.description2                "ایڈ اون ایسی ایپلی کیشیں ہوتی ہیں جو آپ کو &brandShortName; کو  اور فعلیت اور طرز سے ذاتی بنانے میں مدد دیتی ہیں. &brandShortName; کو اپنا بنانے لے لیے وقت بچانے والا بغلی بار، موسم اعلان کنندہ  یا کوئی خیالیہ استعمال کر کے دیکھیں۔">
 <!ENTITY discover.footer                      "جب آپ انٹرنیٹ سے جڑے ہوں گے، تو یہ جھروکا آپ کے آزمانے کے لیے  سب سے بہترین اور معروف ایڈ اون فیچر کرے گا۔">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "ورژن">
 <!ENTITY detail.lastupdated.label             "آخری تازہ کاری">
 <!ENTITY detail.creator.label                 "ڈیولپر">
@@ -156,17 +157,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "ترجیحات">
 <!ENTITY detail.showPreferencesUnix.accesskey "ت">
 <!ENTITY detail.showPreferencesUnix.tooltip   "اس ایڈ اون کی ترجیحات تبدیل کریں">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "شرح کاری">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "توقف کریں">
 <!ENTITY progress.cancel.tooltip              "منسوخ کریں">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "نام">
 <!ENTITY sort.name.tooltip                    "بمطابق نام چھانٹیں">
 <!ENTITY sort.dateUpdated.label               "آخری تازہ کاری">
@@ -189,6 +190,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -222,12 +224,12 @@
 <!ENTITY eula.accept                          "قبول اور تنصیب کریں...">
 
 <!ENTITY settings.path.button.label           "براؤز کریں ...">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "یہ کیا ہے؟ Telemetry وقت وقت پر تجربات کو تنصیب اور چلا سکتا ہے۔">
 <!ENTITY experiment.info.learnmore "اور سیکھیں">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -253,8 +255,4 @@
 
 <!ENTITY pluginDeprecation.description "کسی شہ کی کمی ہے؟ &brandShortName;. کی جانب سے کچھ بلگ ان میں تعاون اب نہیں رہا ">
 <!ENTITY pluginDeprecation.learnMore "مزید سیکھیں">
-
-
-
-
 
