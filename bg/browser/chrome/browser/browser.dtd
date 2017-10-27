@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отваряне на панел със съобщението">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Отваряне на панел със заявката за местоположение">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Отваряне на панел със съобщението за инсталиране на добавка">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Управление на правата извличане на изображения чрез canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Отваряне на панел със съобщението за работа без мрежа">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Отваряне на панел със съобщението за запазване на парола">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управление на използването на приставки">
@@ -221,13 +222,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Управление превеждането на страници">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управление използването на софтуер с DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Забранили сте на този сайт достъп до камерата ви.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Забранили сте на този сайт достъп до микрофона ви.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Забранили сте на този сайт споделянето на екрана ви.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Забранили сте на този сайт достъп до местоположението ви.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Забранили сте на този сайт достъп до хранилището.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Забранили сте на този сайт да ви изпраща известия.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Забранили сте на този сайт достъп до хранилището за постоянни данни.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Забранили сте на страницата достъп до вашата камера.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Забранили сте на страницата достъп до вашия микрофон.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Забранили сте на страницата споделянето на вашия екран.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Забранили сте на страницата достъп до вашето местоположение.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Забранили сте на страницата достъп до вашето хранилище.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Забранили сте на страницата да ви изпраща известия.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Забранили сте на страницата достъп до хранилището за постоянни данни.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Забранили сте на страницата да отваря изскачащи прозорци.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показване на историята">
 
