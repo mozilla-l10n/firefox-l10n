@@ -4,8 +4,12 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.providerTitle               "مہیا کار">
+<!ENTITY aboutUrlClassifier.provider                    "مہیا کار">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "تازہ کاری">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "کیسہ">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "تازہ کریں">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "صاف کریں">
+<!ENTITY aboutUrlClassifier.cacheTableName              "نام جدول">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "سابقہ">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ٹھیک کریں">
+<!ENTITY aboutUrlClassifier.debugFile                   "موجودہ لاگ مسل">
