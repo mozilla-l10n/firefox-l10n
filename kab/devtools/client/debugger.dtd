@@ -134,13 +134,13 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
-<!ENTITY debuggerUI.searchVariable           "Zizdeg imuţiyen">
+<!ENTITY debuggerUI.searchVariable           "Zizdeg imuttiyen">
 <!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "V">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
-<!ENTITY debuggerUI.focusVariables           "Fren imuţiyen n useklu">
+<!ENTITY debuggerUI.focusVariables           "Fren imuttiyen n useklu">
 <!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 
@@ -170,7 +170,7 @@
 <!ENTITY debuggerUI.tabs.sources        "Iɣbula">
 <!ENTITY debuggerUI.tabs.traces         "Lǧeṛṛat">
 <!ENTITY debuggerUI.tabs.callstack      "Tanebdant n uselkem">
-<!ENTITY debuggerUI.tabs.variables      "Imeţiyen">
+<!ENTITY debuggerUI.tabs.variables      "Imettiyen">
 <!ENTITY debuggerUI.tabs.events         "Tidyanin">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
