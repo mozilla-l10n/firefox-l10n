@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Experimentálne funkcie">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Vlastné karty">
+<!ENTITY pref_custom_tabs_summary4 "Povoliť aplikáciám otvárať webový obsah vo vlastných kartách.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Otvoriť v aplikácii &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Povolí čítačku kódov QR v paneli s adresou">
 
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
+<!ENTITY pref_sync_default_title "Účet Firefox">
 <!ENTITY pref_sync2 "Prihlásiť sa">
 <!ENTITY pref_sync_summary2 "Synchronizácia kariet, záložiek, prihlasovacích údajov, histórie">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
@@ -811,6 +818,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Pridať na úvodnú obrazovku">
 
+
 <!ENTITY helper_first_offline_bookmark_title "Prečítať offline">
 <!ENTITY helper_first_offline_bookmark_message "Nájdite svoje položky zo Zoznamu na prečítanie medzi Záložkami, aj v režime offline.">
 <!ENTITY helper_first_offline_bookmark_button "Prejsť medzi Záložky">
@@ -850,3 +858,9 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "Chcete sa dozvedieť viac?">
 
 <!ENTITY fullscreen_warning "Bol spustený režim celej obrazovky">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
