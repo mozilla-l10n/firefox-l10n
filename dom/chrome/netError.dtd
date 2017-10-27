@@ -40,7 +40,7 @@
 <!ENTITY contentEncodingError.title "Ralat Pengekodan Kandungan">
 <!ENTITY contentEncodingError.longDesc "<p>Halaman yang anda cuba lihat tidak dapat dipaparkan kerana menggunakan bentuk pemampatan yang tidak sah atau tidak disokong.</p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Jenis Fail yang Tidak Selamat">
+<!ENTITY unsafeContentType.title "Jenis Fail Tidak Selamat">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>

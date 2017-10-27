@@ -152,5 +152,5 @@ available. -->
                                          "Mengubah bilangan proses kandungan hanya boleh dilakukan dengan multi proses &brandShortName;.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "Ketahui cara untuk menyemak samada multi proses didayakan">
-<!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
+<!ENTITY allowHWAccel.label              "Guna pecutan perkakasan, jika tersedia">
 <!ENTITY allowHWAccel.accesskey          "r">
