@@ -32,7 +32,7 @@
 <!ENTITY filterActionDesc.accesskey "L">
 
 <!ENTITY filterActionOrderWarning.label "Nota: Tindakan tapisan akan dilaksanakan dalam turutan berbeza.">
-<!ENTITY filterActionOrder.label "Sila lihat pelaksanaan perintah">
+<!ENTITY filterActionOrder.label "Lihat pelaksanaan perintah">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Pindah Mesej ke">
