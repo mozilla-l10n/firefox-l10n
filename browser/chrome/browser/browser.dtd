@@ -229,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vous avez empêché ce site d’envoyer des notifications.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Vous avez empêché ce site d’utiliser le stockage persistant.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "Vous avez bloqué des popups pour ce site web.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afficher l’historique">
 
 <!ENTITY searchItem.title             "Rechercher">
