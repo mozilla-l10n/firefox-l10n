@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_separator.label           "Pemisah Baru">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Muat semula Tandabuku Live">
+<!ENTITY cmd.reloadLivebookmark.label      "Muat semula Live Bookmark">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "v">
 
 <!ENTITY cmd.moveBookmarks.label                  "Pindah…">
@@ -100,7 +100,7 @@
 
 <!ENTITY detailsPane.more.label "Selanjutnya">
 <!ENTITY detailsPane.more.accesskey "s">
-<!ENTITY detailsPane.less.label "Kurangkan">
+<!ENTITY detailsPane.less.label "Minima">
 <!ENTITY detailsPane.less.accesskey "K">
 <!ENTITY detailsPane.selectAnItemText.description "Pilih item untuk dipapar dan diedit sifatnya">
 
