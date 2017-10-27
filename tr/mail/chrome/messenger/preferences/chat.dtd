@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Genel">
+
 <!ENTITY  startupAction.label         "&brandShortName; açıldığında:">
 <!ENTITY  startupAction.accesskey     "a">
 <!ENTITY  startupOffline.label        "Sohbet hesaplarımı çevrimdışı tut">
 <!ENTITY  startupConnectAuto.label    "Sohbet hesaplarıma otomatik olarak bağlan">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Kişi listemdekiler">
 <!ENTITY  reportIdleAfter.accesskey     "K">
 <!ENTITY  idleTime                      "dakika hareketsizlikten sonra uzakta olduğumu bilsin">
@@ -40,3 +42,8 @@ sentence. -->
 <!ENTITY  browse.label                        "Gözat…">
 <!ENTITY  browse.accesskey                    "G">
 
+<!ENTITY messageStylePreview.label         "Ön izleme:">
+<!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleDefaultTheme.label    "Varsayılan">
