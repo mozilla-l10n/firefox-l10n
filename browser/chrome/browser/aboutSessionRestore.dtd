@@ -6,6 +6,12 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "ਅਫ਼ਸੋਸ। ਤੁਹਾਡੇ ਸਫ਼ੇ ਵਾਪਸ ਲਿਆਉਣ ਲਈ ਸਾਨੂੰ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ।">
+<!ENTITY restorepage.problemDesc2   "ਤੁਹਾਡੇ ਪਿਛਲੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਬਹਾਲ ਕਰਨ 'ਚ ਸਾਨੂੰ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਵਾਸਤੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਬਹਾਲ ਕਰਨ ਲਈ ਚੁਣੋ।">
+<!ENTITY restorepage.tryThis2       "ਹਾਲੇ ਵੀ ਆਪਣੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਬਹਾਲ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ? ਕਈ ਵਾਰ ਇੱਕ ਟੈਬਹੀ ਸਮੱਸਿਆ ਖੜ੍ਹੀ ਕਰਦੀ ਹੈ। ਪਿਛਲੀਆਂ ਟੈਬਾਂ ਦੇਖੋ, ਉਹਨਾਂ ਟੈਬਾਂ ਦੇ ਸਾਹਮਣੇ ਸਹੀਂ ਦੇ ਨਿਸ਼ਾਨ ਨੂੰ ਹਟਾਓ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਬਹਾਲ ਕਰਨ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਅਤੇ ਬਹਾਲ ਕਰੋ।">
+
+<!ENTITY restorepage.hideTabs       "ਪਿਛਲੀਆਂ ਟੈਬਾਂ ਲੁਕਾਓ">
+<!ENTITY restorepage.showTabs       "ਪਿਛਲੀਆਂ ਟੈਬਾਂ ਵੇਖਾਓ">
 
 <!ENTITY restorepage.tryagainButton2 "ਸ਼ੈਸ਼ਨ ਬਹਾਲ ਕਰੋ">
 <!ENTITY restorepage.restore.access2 "R">
