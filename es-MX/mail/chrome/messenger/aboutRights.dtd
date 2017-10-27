@@ -32,11 +32,16 @@
 <!ENTITY rights.intro-point3-unbranded "Cualquier política de privacidad aplicable a este producto debe indicarse aquí.">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; también ofrece servicios opcionales, como actualización de complementos. Sin embargo, no podemos  garantizar que estos servicios sean 100&#37; precisos y sin errores. Para más detalles, incluso como deshabilitarlos, ir a  ">
 <!ENTITY rights.intro-point4b "términos del servicio">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Si este producto incorpora servicios Web, cualquier término de servicio pertinente debería enlazarse a ">
+<!ENTITY rights.intro-point4b-unbranded "Servicios de sitios Web">
+<!ENTITY rights.intro-point4c-unbranded " sección.">
 
+<!ENTITY rights.webservices-header "Servicios de sitios Web &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
