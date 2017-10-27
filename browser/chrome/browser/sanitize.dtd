@@ -33,7 +33,7 @@
 <!ENTITY clearTimeDuration.lastHour       "Satu Jam Lepas">
 <!ENTITY clearTimeDuration.last2Hours     "Dua Jam Lepas">
 <!ENTITY clearTimeDuration.last4Hours     "Empat Jam Lepas">
-<!ENTITY clearTimeDuration.today          "Hari Ini">
+<!ENTITY clearTimeDuration.today          "Hari ini">
 <!ENTITY clearTimeDuration.everything     "Semua">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
