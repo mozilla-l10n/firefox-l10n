@@ -16,6 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "છેતરામણી સાઇટ!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "<span id='phishing_sitename'/> પરનું આ વેબ પૃષ્ઠ ભ્રામક સાઇટ તરીકે જાણ કરવામાં આવ્યું છે અને તમારી સુરક્ષા પસંદગીઓ પર આધારિત અવરોધિત કરવામાં આવ્યું છે.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>ભ્રામક સાઇટ્સ તમને ખતરનાક, સૉફ્ટવેર ઇન્સ્ટોલ કરવા અથવા પાસવર્ડ્સ, ફોન નંબર્સ અથવા ક્રેડિટ કાર્ડ્સ જેવી તમારી વ્યક્તિગત માહિતીને છુપાવી જેવા ખતરામાં કરવા માટે છેતરવામાં રચાયેલ છે.</p><p>આ વેબ પૃષ્ઠ પર કોઈપણ માહિતી દાખલ થઈ શકે છે ઓળખની ચોરી અથવા અન્ય છેતરપિંડીમાં.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "જાણ કરેલી અનિચ્છનીય સોફ્ટવેર સાઇટ!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

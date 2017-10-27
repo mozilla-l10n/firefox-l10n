@@ -24,6 +24,9 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>કેપીટલ અક્ષરોના ઉપયોગ માટે અથવા અન્ય લખતી વખતની ક્ષતિઓ માટે ફાઇલનું નામ ચકાસો.</li> <li>ફાઇલને ખસેડવામાં આવી હતી, તેનું નામ બદલવામાં આવ્યું હતુ કે તેને કાઢી મૂકવામાં આવી હતી તે જોવા માટે ચકાસો.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "ફાઇલની પ્રવેશ માટે નકારવામાં આવી હતી">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>તે દૂર, ખસેડાયેલી અથવા ફાઇલ પરવાનગીઓ હોઈ શકે છે ઍક્સેસ અટકાવી શકે છે.</li>
+</ul>">
 
 <!ENTITY generic.title "અરર.">
 
@@ -76,6 +79,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY cspBlocked.title "સામગ્રી સુરક્ષા નીતિ દ્વારા અવરોધિત">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; આ પૃષ્ઠને આ રીતે લોડ થવાથી અટકાવેલ છે કારણ કે પૃષ્ઠની એવી સામગ્રી સુરક્ષા નીતિ છે જે તેને નામંજૂર કરે છે.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "બગડેલ વસ્તુ ક્ષતિ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે ડૅટા ટ્રાન્સમિશનમાં મળી આવેલી ક્ષતિના કારણે બતાવી શકાશે નહિ.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul>">
@@ -107,3 +111,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "તમારું જોડાણ સુરક્ષિત નથી">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> સુરક્ષા ટેકનોલોજીનો ઉપયોગ કરે છે જે જૂની અને હુમલો કરવા માટે સંવેદનશીલ છે. કોઈ હુમલાખોર સરળતાથી એવી માહિતી ઉઘાડી શકે છે જે તમે સુરક્ષિત હોવાનું માનતા હતા. વેબસાઇટ સંચાલકને તમારે સાઇટની મુલાકાત લઈને પહેલાં સર્વરને ઠીક કરવાની જરૂર પડશે.</p><p>ભૂલ કોડ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
