@@ -10,7 +10,7 @@
 <!ENTITY sidebar.customize.accesskey    "u">
 <!ENTITY sidebar.hide.label             "Sorok Tab">
 <!ENTITY sidebar.hide.accesskey         "S">
-<!ENTITY sidebar.switch.label           "Tukar ke tab">
+<!ENTITY sidebar.switch.label           "Tukar ke Tab">
 <!ENTITY sidebar.switch.accesskey       "T">
 <!ENTITY sidebarCmd.label               "Bar sisi">
 <!ENTITY sidebarCmd.accesskey           "s">
