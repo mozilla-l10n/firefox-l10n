@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Všeobecné">
+
 <!ENTITY  startupAction.label         "Pri spustení programu &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "P">
 <!ENTITY  startupOffline.label        "ponechať všetky moje účty konverzácii v stave offline">
@@ -39,3 +41,4 @@ sentence. -->
 <!ENTITY  customsound.accesskey               "a">
 <!ENTITY  browse.label                        "Prehľadávať…">
 <!ENTITY  browse.accesskey                    "h">
+
