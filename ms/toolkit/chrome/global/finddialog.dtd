@@ -15,7 +15,7 @@
 <!ENTITY findButton.accesskey "C">
 <!ENTITY cancelButton.label "Batal">
 <!ENTITY closeButton.label "Tutup">
-<!ENTITY up.label "Naik">
+<!ENTITY up.label "Ke Atas">
 <!ENTITY up.accesskey "N">
 <!ENTITY down.label "Turun">
 <!ENTITY down.accesskey "u">

@@ -64,7 +64,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; sudah terkini">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Kemaskini dinyahdaya oleh pentadbir sistem anda">
+<!ENTITY update.adminDisabled       "Kemaskini dinyahdayakan oleh pentadbir sistem anda">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; sedang dikemaskini oleh tika lain">
 <!ENTITY update.restarting          "Memulakan semula...">
