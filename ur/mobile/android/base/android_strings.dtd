@@ -7,6 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "ایک جدید موبائل براؤزر موزیلا سے غیر منافع بخش ایک مفت اور آزاد ویب کے لیے پُر عزم ہے۔">
 <!ENTITY firstrun_panel_title_privacy "رازداری">
 <!ENTITY firstrun_privacy_message "اس طرح براؤز کریں جیسے کوئی نہیں دیکھ رہا">
+<!ENTITY firstrun_privacy_subtext "سراغ راہ حفاظت کاری کے ساتھ نجی برائوزنگ سراغ راہ کو آپ کی برائوزنگ کے دوران بلاک کرتی اور آپکے سابقات بھی یاد نہیں رکھتی جب آپ برائوزنگ مکمل کرتے ہیں۔">
 <!ENTITY firstrun_panel_title_customize "تخصیص کریں">
 <!ENTITY firstrun_customize_message "اپنا کھد کا &brandShortName; بنائے۔">
 <!ENTITY firstrun_customize_subtext "&brandShortName; کی تخصیص کرے مع ایڈ اون۔ اشتہار بلاک کرے، خصوصیات شامل کریں، آپ کے شخصیت کے متابک ایک نئی تھیم منتخب کریں۔">
@@ -827,6 +828,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "نمایاں">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "MORE">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
