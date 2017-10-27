@@ -54,7 +54,7 @@
 <!ENTITY safeb.blocked.phishingPage.learnMore "Ketahui lebih lanjut perihal laman mengelirukan dan phishing di <a id='learn_more_link'>www.antiphishing.org</a>. Ketahui lebih lanjut perihal Perlindungan Phishing dan Perisian Hasad &brandShortName; di <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-<!ENTITY safeb.blocked.harmfulPage.title "Laman ini mungkin mengandungi perisian hasad">
+<!ENTITY safeb.blocked.harmfulPage.title "Laman berikut mungkin ada perisian hasad">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; menyekat halaman ini kerana cuba memasang aplikasi yang mencuri data atau menghapuskan data anda (sebagai contoh, foto, kata laluan, mesej dan kad kredit).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
