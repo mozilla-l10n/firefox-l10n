@@ -7,11 +7,21 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Navegación privada">
+<!ENTITY privateBrowsing.title.tracking                  "Navegación privada con protección contra o seguimento">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cando navega nunha xanela privada, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "non garda">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "as páxinas visitadas">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Buscas">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Ficheiros temporais">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "gardará">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " o seu:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcadores">
+<!ENTITY aboutPrivateBrowsing.note.before                "A navegación privada ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "non o fai anónimo">
 
 <!ENTITY trackingProtection.title                        "Protección contra o seguimento">
 <!ENTITY trackingProtection.startTour1                   "Vexa como funciona">

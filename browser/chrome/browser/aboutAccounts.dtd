@@ -10,3 +10,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Sen conexión">
 <!ENTITY aboutAccounts.noConnection.description "É necesario estar conectado á Internet para identificarse.">
 <!ENTITY aboutAccounts.noConnection.retry "Tentar de novo">
+<!ENTITY aboutAccounts.badConfig.title "Configuración incorrecta">
+<!ENTITY aboutAccounts.badConfig.description "Non foi posíbel determinar a configuración de servidor da súa conta Firefox. Tente de novo máis tarde.">
