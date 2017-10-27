@@ -15,6 +15,7 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "اوھ ۔ آپ کا ٹیب ابھی تباہ ہو گیا۔">
+<!ENTITY tabCrashed.offerHelp2 "ہم مدد کر سکتے ہیں!">
 <!ENTITY tabCrashed.requestHelp "کیا آپ ہماری مدد کریں گے؟">
 <!ENTITY tabCrashed.requestHelpMessage "تباہ کی رپورٹس ہمیں مسائل کی تشخیص کرنے میں مدد کرتا ھے اور *&brandShortName;* کو بہترکرتا ہے۔">
 <!ENTITY tabCrashed.requestReport "اس ٹیب کی رپورٹ کریں">
