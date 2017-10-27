@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Відкрити панель повідомлень">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Відкрити панель запитів розташування">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Відкрити панель повідомлень встановлення додатків">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Керувати дозволом видобування canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Відкрити панель повідомлень автономного сховища">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Відкрити панель повідомлень збереження паролів">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Керувати використанням плагінів">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ви заблокували сховище даних для цього веб-сайту.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ви заблокували сповіщення для цього веб-сайту.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ви заблокували постійне сховище для цього веб-сайту.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Ви заблокували виринаючі вікна для цього веб-сайту.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показати історію">
 
