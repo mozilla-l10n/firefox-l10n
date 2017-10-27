@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Sobre o &brandFullName;">
 
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#general.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -10,6 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Buscar actualizacións">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
+<!ENTITY update.updateButton.label3               "Reiniciar para actualizar &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
@@ -43,6 +48,7 @@
 <!ENTITY helpus.getInvolvedLink     "involúcrese!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Novidades">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Información de licenciamento">
@@ -61,6 +67,7 @@
 <!ENTITY update.adminDisabled       "O administrador do sistema desactivou as actualizacións">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; está sendo actualizado por outra instancia">
+<!ENTITY update.restarting          "Reiniciando…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -88,7 +95,7 @@
 <!ENTITY update.unsupported.linkText "Obter máis información ">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
