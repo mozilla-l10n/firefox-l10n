@@ -126,7 +126,7 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Respons tidak dijangka daripada pelayan">
+<!ENTITY unknownSocketType.title "Respon tidak dijangka daripada pelayan">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Semak untuk memastikan sistem sudah ada Pengurus Keselamatan Peribadi
