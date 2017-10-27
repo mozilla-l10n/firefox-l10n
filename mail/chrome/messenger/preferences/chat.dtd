@@ -42,3 +42,5 @@ sentence. -->
 <!ENTITY  browse.label                        "Prehľadávať…">
 <!ENTITY  browse.accesskey                    "h">
 
+<!ENTITY messageStyleTab.title             "Štýl správ">
+<!ENTITY messageStylePreview.label         "Ukážka:">
