@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Основни">
+
 <!ENTITY  startupAction.label         "Когато се стартира &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "с">
 <!ENTITY  startupOffline.label        "Разговорите са изключени">
@@ -40,3 +42,16 @@ sentence. -->
 <!ENTITY  browse.label                        "Разглеждане…">
 <!ENTITY  browse.accesskey                    "Р">
 
+<!ENTITY messageStyleTab.title             "Оформление на съобщенията">
+<!ENTITY messageStylePreview.label         "Преглед:">
+<!ENTITY messageStyleTheme.label           "Тема:">
+<!ENTITY messageStyleTheme.accesskey       "Т">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Мехурчета">
+<!ENTITY messageStyleDarkTheme.label       "Тъмна">
+<!ENTITY messageStylePaperSheetsTheme.label "Хартиени листове">
+<!ENTITY messageStyleDefaultTheme.label    "Стандартна">
+<!ENTITY messageStyleVariant.label         "Вариант:">
+<!ENTITY messageStyleVariant.accesskey     "В">
+<!ENTITY messageStyleNoPreview.title       "Няма преглед">
+<!ENTITY messageStyleNoPreview.description "Темата е непълна или временно недостъпна (изключена добавка, надежден режим и т.н).">
