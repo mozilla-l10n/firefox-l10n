@@ -22,3 +22,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "میں اس ویب صفحہ <span id='unwanted_sitename'/> ناپسندیدہ سافٹ ویئر پر مشتمل کی رپورٹ کیا گیا ہے اور آپ کی سلامتی کی ترجیحات کی بنیاد پر بلاک کر دیا گیا ہے۔">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "ناپسندیدہ سافٹ ویئر کے صفحات برامک ہو اور غیر متوقع طور طریقوں سے آپ کے سسٹم کو متاثر کر سکتا ہے کہ سافٹ ویئر کو انسٹال کرنے کی کوشش کری۔">
 
+<!ENTITY safeb.blocked.harmfulPage.title "آگے سائٹ میں وائرس موجود ہو سکتا ہے">
