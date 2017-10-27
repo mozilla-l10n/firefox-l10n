@@ -12,7 +12,7 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ">
+<!ENTITY update.checkForUpdatesButton.label       "ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label3               "&brandShorterName; ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਮੁੜ ਚਾਲੂ ਕਰੋ">
 <!ENTITY update.updateButton.accesskey            "R">
