@@ -67,7 +67,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Pelayaran Sedar Lokasi: ">
-<!ENTITY rights.locationawarebrowsing-b "sentiasa opt-in.  Tiada maklumat lokasi yang akan dihantar tanpa kizinan anda. Jika anda mahu menyahdayakan ciri ini secara keseluruhan, ikuti arahan berikut:">
+<!ENTITY rights.locationawarebrowsing-b "adalah satu ciri pilihan.  Tiada maklumat lokasi yang akan dihantar tanpa keizinan anda.  Jika anda mahu menyahaktifkan ciri ini secara keseluruhan, ikuti arahan berikut:">
 <!ENTITY rights.locationawarebrowsing-term1a "Di bar URL, taip ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Taip geo.enabled">

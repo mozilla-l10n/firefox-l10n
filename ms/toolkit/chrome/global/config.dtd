@@ -36,7 +36,7 @@
 <!ENTITY copyValue.accesskey "S">
 <!ENTITY modify.label "Ubahsuai">
 <!ENTITY modify.accesskey "b">
-<!ENTITY toggle.label "Tuil">
+<!ENTITY toggle.label "Togol">
 <!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "Set semula">
 <!ENTITY reset.accesskey "a">
