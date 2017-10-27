@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Malfermi panelon de mesaĝoj">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Malfermi panelon de peto de pozicio">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Malfermi panelon de mesaĝoj de instalo de aldonaĵo">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Administri permeson por eltiri la kanvason">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Malfermi panelon de konservejo por malkonektitaĵoj">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Malfermi panelon de konservo de pasvortoj">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administri uzon de kromprogramoj">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Vi blokis konservon de datumoj por ti ĉi retejo.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vi blokis sciigojn por tiu ĉi retejo.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Vi blokis la daŭran konservejon por ĉi tiu retejo.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Vi blokis ŝprucfenestrojn por tiu ĉi retejo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
 
