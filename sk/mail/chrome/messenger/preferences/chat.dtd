@@ -57,3 +57,4 @@ sentence. -->
 <!ENTITY messageStyleShowHeader.label      "Zobraziť hlavičku">
 <!ENTITY messageStyleShowHeader.accesskey  "h">
 <!ENTITY messageStyleNoPreview.title       "K dispozícii nie je žiadny náhľad">
+<!ENTITY messageStyleNoPreview.description "Táto téma vzhľadu nie je platná alebo je momentálne nedostupná (zakázaný doplnok, núdzový režim…).">
