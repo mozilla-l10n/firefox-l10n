@@ -18,7 +18,7 @@
 <!ENTITY tabCrashed.header2 "უჰ. ჩანართი ავარიულად დაიხურა.">
 <!ENTITY tabCrashed.offerHelp2 "შეგვიძლია დაგეხმაროთ!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "დააჭირეთ ღილაკზე „&tabCrashed.restoreTab;“, გვერდის ხელახლა ჩასატვირთად.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "დააჭირეთ ღილაზე „&tabCrashed.restoreTab;“ ან „&tabCrashed.restoreAll;“, გვერდის/გვერდების ხელახლა ჩასატვირთად.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "დააჭირეთ ღილაკზე „&tabCrashed.restoreTab;“ ან „&tabCrashed.restoreAll;“, გვერდის/გვერდების ხელახლა ჩასატვირთად.">
 <!ENTITY tabCrashed.requestHelp "თქვენც დაგვეხმარებით?">
 <!ENTITY tabCrashed.requestHelpMessage "მოხსენებები ავარიული დახურვის შესახებ, დაგვეხმარება გამოვავლინოთ გამუმართაობები და გავხადოთ &brandShortName; უკეთესი.">
 <!ENTITY tabCrashed.requestReport "მოხსენების გაგზავნა ჩანართის შესახებ">
