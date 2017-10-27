@@ -22,6 +22,7 @@
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
 <!ENTITY aboutTelemetry.moreInformations "Butuh informasi lebih lanjut?">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Buka di penampil JSON">
 
 <!ENTITY aboutTelemetry.homeSection "Beranda">
 <!ENTITY aboutTelemetry.generalDataSection "   Data Umum">
