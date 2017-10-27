@@ -34,7 +34,7 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-<!ENTITY translation.translatedFrom.label       "Halaman ini telah diterjemah dari">
+<!ENTITY translation.translatedFrom.label       "Halaman ini telah diterjemahkan daripada">
 <!ENTITY translation.translatedTo.label         "kepada">
 <!ENTITY translation.translatedToSuffix.label   "">
 
