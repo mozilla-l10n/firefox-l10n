@@ -1,6 +1,9 @@
 <!ENTITY aboutDialog.title          "&brandFullName; Hakkında">
 
-
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
@@ -9,7 +12,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "Güncellemeleri denetle">
 <!ENTITY update.checkForUpdatesButton.accesskey   "G">
 <!ENTITY update.updateButton.label3               "&brandShorterName;’ü güncellemek için yeniden başlat">
-<!ENTITY update.updateButton.accesskey            "G">
+<!ENTITY update.updateButton.accesskey            "n">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->

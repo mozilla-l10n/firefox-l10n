@@ -497,9 +497,9 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Geliştirici Araçları">
+<!ENTITY devtoolsMenu.label "Geliştirici araçları">
 <!ENTITY devtoolsMenu.accesskey "e">
-<!ENTITY devToolboxCmd.label "Geliştirici Araç Kutusu">
+<!ENTITY devToolboxCmd.label "Geliştirici alet çantası">
 <!ENTITY devToolboxCmd.accesskey "T">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Eklenti hata ayıklayıcısı">
