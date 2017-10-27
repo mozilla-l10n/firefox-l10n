@@ -2,17 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  startupAction.label         "عند بدء &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "ب">
 <!ENTITY  startupOffline.label        "اترك حسابات الدردشة غير متصلة">
 <!ENTITY  startupConnectAuto.label    "اتصل بحسابات الدردشة تلقائيا">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "أعلِم جهات اتصالي بخمولي بعد">
 <!ENTITY  reportIdleAfter.accesskey     "ع">
 <!ENTITY  idleTime                      "دقائق من عدم النشاط">
@@ -40,3 +41,7 @@ sentence. -->
 <!ENTITY  browse.label                        "تصفّح…">
 <!ENTITY  browse.accesskey                    "ف">
 
+<!ENTITY messageStyleTab.title             "أنماط الرسائل">
+<!ENTITY messageStyleTheme.label           "السمة:">
+<!ENTITY messageStyleTheme.accesskey       "س">
+<!ENTITY messageStyleThunderbirdTheme.label "ثنْدَربِرد">
