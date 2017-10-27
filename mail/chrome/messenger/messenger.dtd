@@ -455,10 +455,10 @@
 <!ENTITY messengerCmd.label "E-mail &amp; nieuwsgroepen">
 <!ENTITY messengerCmd.accesskey "E">
 <!ENTITY addressBookCmd.label "Adresboek">
-<!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.accesskey "b">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
+<!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "Activiteitenbeheerder">
 <!ENTITY activitymanager.accesskey "e">
 <!ENTITY imAccountsStatus.label "Chatstatus">
@@ -473,7 +473,7 @@
 <!ENTITY savedFiles.accesskey "n">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Berichtenfilters">
-<!ENTITY filtersCmd2.accesskey "B">
+<!ENTITY filtersCmd2.accesskey "f">
 <!ENTITY filtersApply.label "Filters toepassen op map">
 <!ENTITY filtersApply.accesskey "t">
 <!ENTITY filtersApplyToSelection.label "Filters toepassen op geselecteerde berichten">
