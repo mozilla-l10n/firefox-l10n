@@ -764,7 +764,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Cette page utilise un faible niveau de chiffrement.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Votre connexion à ce site n’est pas privée. Les informations que vous transmettez peuvent être visualisées par d’autres personnes (comme par exemple les mots de passe, les messages, les cartes de crédit, etc.).">
+<!ENTITY identity.description.insecure "Votre connexion à ce site n’est pas privée. Les informations que vous transmettez peuvent être visualisées par d’autres personnes (comme par exemple les mots de passe, les messages, les cartes bancaires, etc.).">
 <!ENTITY identity.description.insecureLoginForms "Les informations d’identification que vous saisissez sur cette page ne sont pas sécurisées et pourraient être compromises.">
 <!ENTITY identity.description.weakCipher "Votre connexion à ce site web n’est pas privée et utilise un faible niveau de chiffrement.">
 <!ENTITY identity.description.weakCipher2 "D’autres personnes peuvent accéder à vos informations ou modifier le comportement du site web.">
@@ -773,7 +773,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Ce site web possède du contenu non sécurisé (tel que des images).">
 <!ENTITY identity.description.passiveLoaded3 "Bien que &brandShortName; ait bloqué du contenu, il reste néanmoins des éléments non sécurisés sur la page (tels que des images).">
 <!ENTITY identity.description.activeLoaded "Ce site web possède du contenu non sécurisé (tel que des scripts) et la connexion établie n’est pas privée.">
-<!ENTITY identity.description.activeLoaded2 "Les informations que vous partagez avec ce site peuvent être visualisées par d’autres personnes (comme par exemple les mots de passe, les messages, les cartes de crédit, etc.).">
+<!ENTITY identity.description.activeLoaded2 "Les informations que vous partagez avec ce site peuvent être visualisées par d’autres personnes (comme par exemple les mots de passe, les messages, les cartes bancaires, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activer la protection">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
