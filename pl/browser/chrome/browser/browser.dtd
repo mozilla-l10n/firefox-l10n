@@ -181,6 +181,7 @@
 <!ENTITY urlbar.indexedDBBlocked.tooltip "Przechowywanie danych offline przez tę witrynę zostało zablokowane">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej witryny zostały zablokowane">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez witrynę zostało zablokowane">
+<!ENTITY urlbar.popupBlocked.tooltip "Wyskakujące okna na tej stronie są blokowane">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
 
 <!ENTITY searchItem.title "Znajdź" >
