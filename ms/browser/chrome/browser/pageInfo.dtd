@@ -81,8 +81,8 @@
 <!ENTITY  securityView.privacy.viewCookies              "Papar Kuki">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Adakah saya pernah simpan kata laluan bagi laman web ini?">
-<!ENTITY  securityView.privacy.viewPasswords            "Papar kata laluan yang telah disimpan">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+<!ENTITY  securityView.privacy.viewPasswords            "Papar Kata laluan yang Disimpan">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "p">
 
 <!ENTITY  securityView.technical.header                 "Butiran Teknikal">
 

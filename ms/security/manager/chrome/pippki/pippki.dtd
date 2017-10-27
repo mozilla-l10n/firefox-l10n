@@ -26,7 +26,7 @@
 <!ENTITY downloadCert.viewCert.text "Periksa sijil CA">
 
 <!-- Strings for the SSL client auth ask dialog -->
-<!ENTITY clientAuthAsk.title "Permohonan Pengenalan Pengguna">
+<!ENTITY clientAuthAsk.title "Permintaan Pengenalan Pengguna">
 <!ENTITY clientAuthAsk.message1 "Laman ini meminta anda memperkenalkan diri menggunakan sijil:">
 <!ENTITY clientAuthAsk.message2 "Pilih sijil untuk dijadikan sebagai pengenalan:">
 <!ENTITY clientAuthAsk.message3 "Butiran sijil yang dipilih:">
