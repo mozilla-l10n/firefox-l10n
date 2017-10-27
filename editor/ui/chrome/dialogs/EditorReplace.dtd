@@ -15,7 +15,7 @@
 <!ENTITY wrapCheckbox.accesskey "B">
 <!ENTITY backwardsCheckbox.label "Carian mengundur">
 <!ENTITY backwardsCheckbox.accesskey "m">
-<!ENTITY findNextButton.label "Cari Seterusnya">
+<!ENTITY findNextButton.label "Cari Berikut">
 <!ENTITY findNextButton.accesskey "C">
 <!ENTITY replaceButton.label "Ganti">
 <!ENTITY replaceButton.accesskey "G">
