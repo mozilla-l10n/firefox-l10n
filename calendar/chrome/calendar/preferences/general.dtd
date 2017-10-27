@@ -37,6 +37,14 @@
 <!ENTITY pref.soondays.label "Η ενότητα «Επερχόμενα» εμφανίζει:">
 <!ENTITY pref.soondays.accesskey "π">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label 'Η ενότητα "Επερχόμενα" εμφανίζει:'>
+<!ENTITY pref.soondays2.accesskey "Ε">
+
 <!ENTITY pref.accessibility.label "Προσιτότητα" >
 <!ENTITY pref.systemcolors.label "Βελτιστοποίηση χρωμάτων για προσιτότητα" >
 <!ENTITY pref.systemcolors.accesskey "Β">
