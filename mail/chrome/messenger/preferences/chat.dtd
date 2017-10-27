@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Général">
+
 <!ENTITY  startupAction.label         "Au démarrage de &brandShortName; :">
 <!ENTITY  startupAction.accesskey     "A">
 <!ENTITY  startupOffline.label        "Laisser mes comptes de messagerie instantanée déconnectés">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Parcourir…">
 <!ENTITY  browse.accesskey                    "r">
 
+<!ENTITY messageStyleTab.title             "Styles des messages">
+<!ENTITY messageStylePreview.label         "Aperçu :">
+<!ENTITY messageStyleTheme.label           "Thème :">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Bulles">
+<!ENTITY messageStyleDarkTheme.label       "Sombre">
+<!ENTITY messageStylePaperSheetsTheme.label "Feuilles de papier">
+<!ENTITY messageStyleSimpleTheme.label     "Simple">
+<!ENTITY messageStyleDefaultTheme.label    "Thème par défaut">
+<!ENTITY messageStyleVariant.label         "Variante :">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Afficher l’en-tête">
+<!ENTITY messageStyleShowHeader.accesskey  "E">
+<!ENTITY messageStyleNoPreview.title       "Pas d’aperçu disponible">
+<!ENTITY messageStyleNoPreview.description "Ce thème n’est plus valide ou est indisponible (module désactivé, mode sans échec, …).">
