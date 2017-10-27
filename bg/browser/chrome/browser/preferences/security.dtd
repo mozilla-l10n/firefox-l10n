@@ -35,7 +35,7 @@
 
 <!ENTITY  useMasterPassword.label        "Използване на главна парола">
 <!ENTITY  useMasterPassword.accesskey    "г">
-<!ENTITY  changeMasterPassword.label     "Смяна на главната парола…">
+<!ENTITY  changeMasterPassword.label     "Промяна на главна парола…">
 <!ENTITY  changeMasterPassword.accesskey "л">
 
 <!ENTITY  savedLogins.label              "Запазени регистрации…">
