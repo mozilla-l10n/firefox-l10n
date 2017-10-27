@@ -119,6 +119,7 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "ਆਫਲਾਈਨ ਡਾਟੇ ਨੂੰ ਹਟਾਓ">
 
 <!ENTITY certificateTab.label            "ਸਰਟੀਫਿਕੇਟ">
+<!ENTITY certPersonal2.description       "ਜਦ ਸਰਵਰ ਤੁਹਾਡੇ ਪਰਸਨਲ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮੰਗ ਕਰੇ">
 <!ENTITY selectCerts.auto                "ਕਿਸੇ ਦੀ ਆਪਣੇ-ਆਪ ਚੋਣ ਕਰੋ">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "ਹਰ ਵਾਰ ਤੁਹਾਨੂੰ ਪੁੱਛੋ">
