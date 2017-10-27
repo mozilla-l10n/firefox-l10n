@@ -33,7 +33,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentsTitle "Ciri-ciri Eksperimen">
 <!ENTITY aboutSupport.experimentName "Nama">
 <!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Huraian">
+<!ENTITY aboutSupport.experimentDescription "Keterangan">
 <!ENTITY aboutSupport.experimentActive "Aktif">
 <!ENTITY aboutSupport.experimentEndDate "Tarikh Akhir">
 <!ENTITY aboutSupport.experimentHomepage "Halaman utama">

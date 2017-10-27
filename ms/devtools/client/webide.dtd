@@ -84,7 +84,7 @@
 <!ENTITY details_valid_header "sah">
 <!ENTITY details_warning_header "amaran">
 <!ENTITY details_error_header "ralat">
-<!ENTITY details_description "Huraian">
+<!ENTITY details_description "Keterangan">
 <!ENTITY details_location "Lokasi">
 <!ENTITY details_manifestURL "ID App">
 <!ENTITY details_removeProject_button "Buang Projek">
