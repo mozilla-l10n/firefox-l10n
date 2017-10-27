@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Експериментални възможности">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Потребителски раздели">
+<!ENTITY pref_custom_tabs_summary4 "Разрешаване на приложенията да отварят мрежово съдържание в бързозареждащи се потребителски раздели.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Отваряне с &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Позволява скенер на QR в адресната лента">
 
 <!ENTITY pref_use_master_password "Използване на главна парола">
+<!ENTITY pref_sync_default_title "Firefox Account">
 <!ENTITY pref_sync2 "Вписване">
 <!ENTITY pref_sync_summary2 "Синхронизиране на раздели, отметки, регистрации, история">
 <!ENTITY pref_search_suggestions "Показване на предложения">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Отваряне в поверителен раздел">
 <!ENTITY contextmenu_remove "Премахване">
 <!ENTITY contextmenu_add_to_launcher "Връзка на началния екран">
+<!ENTITY contextmenu_add_page_shortcut "Връзка на началния екран">
 <!ENTITY contextmenu_set_as_homepage "Избиране за начална страница">
 <!ENTITY contextmenu_share "Споделяне">
 <!ENTITY contextmenu_pasteandgo "Поставяне и посещаване">
@@ -493,7 +501,7 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Добавяне към най-посещаваните">
+<!ENTITY contextmenu_pin_to_top_sites "Добавяне в най-посещаваните">
 <!ENTITY contextmenu_unpin_from_top_sites "Премахване от най-посещаваните">
 <!ENTITY contextmenu_add_search_engine "Добавяне на търсачка">
 
@@ -814,6 +822,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Връзка на началния екран">
 
+<!ENTITY promotion_add_page_shortcut "Връзка на началния екран">
+
 <!ENTITY helper_first_offline_bookmark_title "Четене извън мрежа">
 <!ENTITY helper_first_offline_bookmark_message "Ще намерите статиите от изгледа за четене в отметките \u2014 даже и извън мрежа.">
 <!ENTITY helper_first_offline_bookmark_button "Към отметките">
@@ -853,3 +863,13 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "Искате ли да научите повече?">
 
 <!ENTITY fullscreen_warning "Режим на цял екран">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Връзка на началния екран">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Връзка на началния екран">
+<!ENTITY pwa_continue_to_website "Към страницата">
+<!ENTITY pwa_onboarding_sumo "Можете лесно да добавите страницата към вашия начален екран, да имате незабавен достъп и да разглеждате по-бързо все едно сте в приложение.">
