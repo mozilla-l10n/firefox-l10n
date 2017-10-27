@@ -8,7 +8,7 @@
 <!ENTITY viewPicker.accesskey "p">
 <!ENTITY viewAll.label "Semua">
 <!ENTITY viewAll.accesskey "S">
-<!ENTITY viewUnread.label "Belum dibaca">
+<!ENTITY viewUnread.label "Belum Dibaca">
 <!ENTITY viewUnread.accesskey "B">
 <!ENTITY viewNotDeleted.label "Tidak Dibuang">
 <!ENTITY viewNotDeleted.accesskey "D">
