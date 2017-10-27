@@ -101,7 +101,7 @@
 <!ENTITY detailsPane.more.label "Selanjutnya">
 <!ENTITY detailsPane.more.accesskey "s">
 <!ENTITY detailsPane.less.label "Minima">
-<!ENTITY detailsPane.less.accesskey "K">
+<!ENTITY detailsPane.less.accesskey "m">
 <!ENTITY detailsPane.selectAnItemText.description "Pilih item untuk dipapar dan diedit sifatnya">
 
 <!ENTITY view.label               "Papar">
