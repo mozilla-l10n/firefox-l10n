@@ -25,6 +25,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ਵਰਜ਼ਨ">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; ਫ਼ੀਚਰ">
+<!ENTITY aboutSupport.featureName "ਨਾਂ">
+<!ENTITY aboutSupport.featureVersion "ਵਰਜ਼ਨ">
 <!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ">
@@ -67,6 +70,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ਬਹੁ-ਕਾਰਜ ਵਿੰਡੋਜ਼">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "ਵੈੱਬ ਸਮੱਗਰੀ ਕਾਰਵਾਈ">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
@@ -106,6 +110,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "ਅਸੈਸਬਿਲਟੀ">
 <!ENTITY aboutSupport.a11yActivated "ਸਰਗਰਮ ਹੈ">
 <!ENTITY aboutSupport.a11yForceDisabled "ਅਸੈਸਬਿਲਟੀ ਰੋਕੋ">
+<!ENTITY aboutSupport.a11yHandlerUsed "ਵਰਤੇ ਗਏ ਅਸੈਸਬਲ ਹੈਂਡਲਰ ">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "ਲਾਇਬਰੇਰੀ ਵਰਜ਼ਨ">
 
@@ -137,3 +142,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "ਕਰੈਸ਼ ਗਾਰਡ ਆਯੋਗ ਫੀਚਰ">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "ਜੁਗਾੜ">
 
+<!ENTITY aboutSupport.mediaTitle "ਮੀਡੀਆ">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "ਆਉਟਪੁ਼ਟ ਡਿਵਾਈਸ">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "ਇਨਪੁਟ ਡਿਵਾਈਸ">
+<!ENTITY aboutSupport.mediaDeviceName "ਨਾਂ">
+<!ENTITY aboutSupport.mediaDeviceGroup "ਗਰੁੱਪ">
+<!ENTITY aboutSupport.mediaDeviceVendor "ਵੇਂਡਰ">
+<!ENTITY aboutSupport.mediaDeviceState "ਹਾਲਤ">
+<!ENTITY aboutSupport.mediaDevicePreferred "ਤਰਜੀਹੀ">
+<!ENTITY aboutSupport.mediaDeviceFormat "ਫਾਰਮੈਟ">
+<!ENTITY aboutSupport.mediaDeviceChannels "ਚੈਨਲ">
+<!ENTITY aboutSupport.mediaDeviceRate "ਰੇਟ">
+<!ENTITY aboutSupport.mediaDeviceLatency "ਦੇਰੀ">
