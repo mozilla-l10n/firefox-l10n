@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Algemeen">
+
 <!ENTITY startupAction.label          "Als &brandShortName; start:">
 <!ENTITY startupAction.accesskey      "s">
 <!ENTITY startupOffline.label         "Mijn chataccounts offline houden">
@@ -39,3 +41,20 @@ sentence. -->
 <!ENTITY  customsound.accesskey               "v">
 <!ENTITY  browse.label                        "Bladeren…">
 <!ENTITY  browse.accesskey                    "B">
+
+<!ENTITY messageStyleTab.title             "Berichtstijlen">
+<!ENTITY messageStylePreview.label         "Voorbeeld:">
+<!ENTITY messageStyleTheme.label           "Thema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Tekstballonnen">
+<!ENTITY messageStyleDarkTheme.label       "Donker">
+<!ENTITY messageStylePaperSheetsTheme.label "Papieren vellen">
+<!ENTITY messageStyleSimpleTheme.label     "Eenvoudig">
+<!ENTITY messageStyleDefaultTheme.label    "Standaard">
+<!ENTITY messageStyleVariant.label         "Variant:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Kop tonen">
+<!ENTITY messageStyleShowHeader.accesskey  "K">
+<!ENTITY messageStyleNoPreview.title       "Geen voorbeeld beschikbaar">
+<!ENTITY messageStyleNoPreview.description "Dit thema is ongeldig of momenteel niet beschikbaar (uitgeschakelde add-on, veilige modus, …).">
