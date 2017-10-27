@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отвори панел са порукама">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Отвори панел за захтев локације">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Отвори панел са инсталацијом додатака">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Управљајте дозволама за екстракцију слике">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Отвори панел за ванмрежно складиште">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Отвори панел за снимање лозинке">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управљајте додацима">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Блокирали сте складиште за овај веб сајт.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Блокирали сте обавештења за овај веб сајт.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Блокирали сте трајно складиштење за овај веб сајт.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Блокирали сте искачуће прозоре за овај веб сајт.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историјат">
 
