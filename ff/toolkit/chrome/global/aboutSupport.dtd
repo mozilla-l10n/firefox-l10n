@@ -66,8 +66,10 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Kenorɗe Cili Keewɗi">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Sifaaji Loowdi Geese">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Coktirgal Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Nokkuje Coktirɗe Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mbayka Hoolno">
 
