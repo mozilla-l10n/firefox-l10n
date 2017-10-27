@@ -485,7 +485,7 @@
 <!ENTITY contextmenu_open_new_tab "Buka dalam Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Peribadi">
 <!ENTITY contextmenu_remove "Buang">
-<!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Halaman utama">
+<!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Utama">
 <!ENTITY contextmenu_add_page_shortcut "Tambah Pintasan Halaman">
 <!ENTITY contextmenu_set_as_homepage "Tetapkan sebagai Halaman Utama">
 <!ENTITY contextmenu_share "Kongsi">
@@ -820,7 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; sudah terkini">
 <!ENTITY whatsnew_notification_summary "Ketahui berita terbaru versi ini">
 
-<!ENTITY promotion_add_to_homescreen "Tambah ke skrin halaman utama">
+<!ENTITY promotion_add_to_homescreen "Tambah ke skrin utama">
 
 <!ENTITY promotion_add_page_shortcut "Tambah pintasan halaman">
 
