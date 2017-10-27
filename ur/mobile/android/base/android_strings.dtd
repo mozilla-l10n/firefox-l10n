@@ -295,6 +295,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "نقل شدہ URL">
 
+<!ENTITY pref_pwa_summary "ابتدائی اسکرین پر ویب ایپس شامل کرنے کی اجازت دیں">
 
 <!ENTITY tracking_protection_prompt_title "اب سراغ کاری حفاظت کے ساتھ">
 <!ENTITY tracking_protection_prompt_text "خود سے سراغ کاری عناصر بلات کریں تاکہ آپ کو پریشانی نہ ہو۔">
@@ -844,13 +845,16 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "ہٹائیں">
 <!ENTITY activity_stream_delete_history "تاریخ سے حذف کریں">
 
+<!ENTITY private_tab_panel_title "ٹریکنگ پروٹیکشن + نجی براؤزنگ">
 <!ENTITY private_tab_panel_description2 "ہم کوئی سابقات یاد نہیں رکھتے، لیکن ڈاؤن لوڈ کی گئ مسلیں اور نئ نشانیاںآپ کے آلہ پر مہفوظ ہونگی۔">
 <!ENTITY private_tab_learn_more "مزید سیکھنا چاہیں گے؟">
 
 <!ENTITY fullscreen_warning "پوری اسکرین میں داخل ہو گیا">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ ابتدائی سکرین پر شامل کریں">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "ابتدائی سکرین پر شا،ل کریں">
