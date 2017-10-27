@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "ਸੁਰੱਖਿਆ">
 
+<!ENTITY  warnOnAddonInstall2.label       "ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰੋ, ਜਦੋਂ ਵੈੱਬਸਾਈਟਾਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ਾਂ ਕਰਨ">
 <!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -26,6 +27,7 @@
 
 <!ENTITY  formsAndPasswords.label       "ਫਾਰਮ ਤੇ ਪਾਸਵਰਡ">
 
+<!ENTITY  rememberLogins2.label         "ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 <!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "…ਛੋਟਾਂ">
 <!ENTITY  passwordExceptions.accesskey  "x">

@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "ਇੱਕ ਸਫ਼ਾ ਪਿੱਛੇ ਜਾਓ">
 <!ENTITY cmd.forward.tooltip                  "ਇੱਕ ਸਫ਼ਾ ਅੱਗੇ ਜਾਓ">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ">
 <!ENTITY showAllExtensions.button.label       "ਸਭ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਿਖਾਉ">
 <!ENTITY debugAddons.label                    "ਐਡ-ਆਨ ਨੂੰ ਡੀਬੱਗ ਕਰੋ">
@@ -252,7 +253,7 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ਦਸਤੀ">
 <!ENTITY disabledUnsigned.devInfo.end " ਨੂੰ ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹਨ।">
 
-<!ENTITY pluginDeprecation.description "Missing something? Some plugins are no longer supported by &brandShortName;.">
+<!ENTITY pluginDeprecation.description "ਕੁਝ ਗੁਆਚ ਗਿਆ? ਕੁਝ ਪਲੱਗਇਨਾਂ &brandShortName; ਵਲੋਂ ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹਨ।">
 <!ENTITY pluginDeprecation.learnMore "ਹੋਰ ਜਾਣੋ।">
 
 <!ENTITY legacyWarning.showLegacy "ਪੁਰਾਣੀਆਂ ਇਕਸਟੈਸ਼ਨਾਂ ਵੇਖਾਓ">
