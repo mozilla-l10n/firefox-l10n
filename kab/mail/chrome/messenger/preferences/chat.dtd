@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Amatu">
+
 <!ENTITY  startupAction.label         "Di tnekra n &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "D">
 <!ENTITY  startupOffline.label        "Eǧǧ amiḍan inu n udiwenni usrid di war  tuqqna">
 <!ENTITY  startupConnectAuto.label    "Qqen amiḍan inu n udiwenni s srid s wudem awurman">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Eǧǧ inermisen-iw ad ẓren d akken ulac-iyi di">
 <!ENTITY  reportIdleAfter.accesskey     "I">
 <!ENTITY  idleTime                      "tisdatin anda ulac-iyi">
@@ -40,3 +42,10 @@ sentence. -->
 <!ENTITY  browse.label                        "Ḍum…">
 <!ENTITY  browse.accesskey                    "Ḍ">
 
+<!ENTITY messageStyleTab.title             "Aɣanib n izen">
+<!ENTITY messageStylePreview.label         "Taskant:">
+<!ENTITY messageStyleTheme.label           "Asentel:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleDarkTheme.label       "Aberkan">
+<!ENTITY messageStyleSimpleTheme.label     "Aḥerfi">
