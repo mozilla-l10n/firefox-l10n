@@ -294,6 +294,7 @@
      actual notification that an update is available. -->
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Usaidizi">
 
 <!ENTITY quit "Acha">
 
@@ -301,17 +302,34 @@
 <!ENTITY char_encoding "Usimbaji wa Kibambo">
 
 <!ENTITY share "Shiriki">
+<!ENTITY share_title "Shiriki kupitia">
 <!ENTITY save_as_pdf "Hifadhi kama PDF">
+<!ENTITY print "Chapisha">
+<!ENTITY find_in_page "Tafuta katika ukurasa">
+<!ENTITY desktop_mode "Omba tovuti ya eneokazi">
+<!ENTITY page "Ukurasa">
+<!ENTITY tools "Zana">
 <!ENTITY new_tab "Kichupo Kipya">
+<!ENTITY close_all_tabs "Funga tabo zote">
+<!ENTITY close_private_tabs "Funga tabo za binafsi">
+<!ENTITY tabs_normal "Tabo">
+<!ENTITY set_image_fail "Haiwezi kuseti picha">
+<!ENTITY set_image_path_fail "Haiwezi kuhifadhi picha">
+<!ENTITY set_image_chooser_title "Seti Picha Kama">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Tafuta katika Ukurasa">
+<!ENTITY find_prev "Ya awali">
 <!ENTITY find_next "Ifuatayo">
+<!ENTITY find_close "Funga">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_sending_to "Inatuma kwa kifaa">
 <!ENTITY media_play "Chezesha">
 <!ENTITY media_pause "Sitisha">
+<!ENTITY media_stop "Sitisha">
 
 <!ENTITY contextmenu_open_new_tab "Fungua katika Kichupo Kipya">
 <!ENTITY contextmenu_add_to_launcher "Ongeza kwa Skrini ya Nyumbani">
@@ -341,12 +359,17 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
+<!ENTITY bookmark_edit_folder_title "Hariri Folda">
 <!ENTITY bookmark_edit_name "Jina">
 <!ENTITY bookmark_edit_location "Mahali">
+<!ENTITY bookmark_edit_keyword "Nenomsingi">
+<!ENTITY bookmark_select_folder "Chagua folda">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Vipimo vya Tovuti">
 <!ENTITY site_settings_cancel       "Ghairi">
+<!ENTITY site_settings_clear        "Ondoa">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -365,8 +388,12 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_history_title "Historia">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "kifaa 1">
+<!ENTITY home_closed_tabs_number "&formatD; tabo">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "tabo 1">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
@@ -382,14 +409,22 @@
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Vifaa vilivyofichwa">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Fichua vifaa vilivyoteulia">
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Tovuti iliyobanwa">
+<!ENTITY home_unpinned_site "Tovuti iliyobanuliwa">
 
 
 
+<!ENTITY filepicker_title "Chagua faili">
+<!ENTITY filepicker_audio_title "Chagua au rekodi sauti">
+<!ENTITY filepicker_image_title "Chagua au chukua picha">
+<!ENTITY filepicker_video_title "Chagua au rekodi video">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Umeunganishwa kwa">
@@ -404,6 +439,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "Muunganisho salama">
 
 <!-- Mixed content notifications in site identity popup -->
 
@@ -427,8 +463,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_select2 "Gusa kupakua">
 
 <!ENTITY updater_downloading_title2 "Kupakua &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Imeshindwa kupakua">
 
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -438,18 +476,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
     <!-- Guest mode -->
 <!ENTITY guest_session_dialog_continue "Endelea">
+<!ENTITY guest_browsing_notification_text "Bomba kutoka">
 
+<!ENTITY exit_guest_session_title "&brandShortName; sasa itaanza upya">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+<!ENTITY actionbar_menu "Orodha">
 
 <!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Sema sasa">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -481,11 +525,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_clear_history "Ondoa historia">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Msaada">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 
@@ -493,12 +539,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_summary "Bomba kujifunza zaidi">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; ni ya sasa hivi">
+<!ENTITY whatsnew_notification_summary "Jifunze ni nini mpya katika toleo hili">
 
+<!ENTITY promotion_add_to_homescreen "Ongeza kwenye skrini nyumbani">
 
+<!ENTITY promotion_add_page_shortcut "Ongeza mkato wa ukurasa">
 
+<!ENTITY helper_first_offline_bookmark_title "Soma nje ya mtandao">
 
 
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
@@ -509,17 +561,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Iliyotembelewa">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Inayovuma">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Ondoa">
 
+<!ENTITY private_tab_learn_more "Unataka kujifunza zaidi?">
 
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Ongeza kwenye skrini nyumbani">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Ongeza kwenye skrini nyumbani">
