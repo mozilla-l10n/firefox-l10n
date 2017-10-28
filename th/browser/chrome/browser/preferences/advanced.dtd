@@ -7,7 +7,7 @@
 <!ENTITY generalTab.label                "ทั่วไป">
 
 <!ENTITY useCursorNavigation.label       "ใช้ปุ่มลูกศรเพื่อนำทางภายในหน้าเสมอ">
-<!ENTITY useCursorNavigation.accesskey   "ก">
+<!ENTITY useCursorNavigation.accesskey   "ป">
 <!ENTITY searchOnStartTyping.label       "ค้นหาข้อความเมื่อคุณเริ่มพิมพ์">
 <!ENTITY searchOnStartTyping.accesskey   "ว">
 <!ENTITY useOnScreenKeyboard.label       "แสดงแป้นพิมพ์แบบสัมผัสเมื่อจำเป็น">
