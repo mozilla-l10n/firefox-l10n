@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Wobcerk powěsćow wócyniś">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wobcerk stojnišćowego napšašowanja wócyniś">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Wobcerk powěźeńki dodankoweje instalacije wócyniś">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Pšawo za ekstrahěrowanje canvas zastojaś">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Wobcerk powěźeńki składowanja offline wócyniś">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Wobcerk powěźeńki składowanja gronidła wócyniś">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Wužywanje tykacow zastojaś">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Sćo toś tomu websedłoju zakazał, daty składowaś.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Sćo powěźeńki za toś to websedło zablokěrował.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Sćo trajny składowak za toś to websedło blokěrował.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Sćo wuskokujuce wokna za toś to websedło blokěrował.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazaś">
 
