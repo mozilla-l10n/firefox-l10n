@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Timahihilin tirmitanin">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Iccaren udmawanen">
+<!ENTITY pref_custom_tabs_summary4 "Sireg isnasen ad ldin agbur n web deg iccer n usali arurad.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Ldi deg &formatS;">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Sireg asnirem QR deg ufeggag n tansa URL">
 
 <!ENTITY pref_use_master_password "Seqdec awal uffir agejdan">
+<!ENTITY pref_sync_default_title "Amiḍan Firefox">
 <!ENTITY pref_sync2 "Qqen">
 <!ENTITY pref_sync_summary2 "Semtawi iccaren-inek, ticraḍ n isebtar, inekcam, amazray">
 <!ENTITY pref_search_suggestions "Sken isumren n unadi">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Ldi deg iccer uslig">
 <!ENTITY contextmenu_remove "Kkes">
 <!ENTITY contextmenu_add_to_launcher "Rnu ɣer ugilal agejdan">
+<!ENTITY contextmenu_add_page_shortcut "Rnu anegzum n usebter">
 <!ENTITY contextmenu_set_as_homepage "Sbadu d asebter agejdan">
 <!ENTITY contextmenu_share "Bḍu">
 <!ENTITY contextmenu_pasteandgo "Senṭeḍ &amp; ddu">
@@ -811,6 +819,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Rnu ɣer ugdil agejdan">
 
+<!ENTITY promotion_add_page_shortcut "Rnu anegzum n usebter">
+
 <!ENTITY helper_first_offline_bookmark_title "Ɣɣer war tuqqna">
 <!ENTITY helper_first_offline_bookmark_message "Aff-d iferdisen-inek n uskan n umeɣṛi deg ticraḍ, xas deg war tuqqna.">
 <!ENTITY helper_first_offline_bookmark_button "Ddu ɣer tecraḍ">
@@ -850,3 +860,13 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "Tebγiḍ ad tissineḍ ugar?">
 
 <!ENTITY fullscreen_warning "Yekcem ar ugdil aččuran">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Rnu ɣer ugilal agejdan">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Rnu ɣer ugilal agejdan">
+<!ENTITY pwa_continue_to_website "Kemmel γer usmel web">
+<!ENTITY pwa_onboarding_sumo "Tzemreḍ ad ternuḍ asmel-a web γer ugilal inek agejdan akken ad tizmireḍ ad tinigeḍ γer-s s wudem arurad am akken telliḍ deg usnas.">
