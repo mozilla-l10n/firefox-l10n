@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Serveren ikke funnet">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kontroller om det er skrivefeil i adressen, for eksempel <strong>ww</strong>.eksempel.no istedenfor <strong>www</strong>.eksempel.no</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Søk</button> </div> <li>Hvis du ikke klarer å laste noen nettsider, kontroller data- eller Wi-Fi-forbindelsen til enheten din. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kontroller om det er skrivefeil i adressen, for eksempel <strong>ww</strong>.example.com istedenfor <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Søk</button> </div> <li>Hvis du ikke klarer å laste noen nettsider, kontroller data- eller Wi-Fi-forbindelsen til enheten din. <button id='wifi'>Slå på Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fil ikke funnet">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnavnet etter forskjeller i store/små bokstaver eller andre skrivefeil.</li> <li>Sjekk om filen er flyttet, har endret navn eller er slettet.</li> </ul>">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "Adressen er ugyldig">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Nettsideadresser skrives vanligvis på formen <strong>http://www.eksempel.no/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Søk</button> </div> <li>Kontroller at du bruker fremover-skråstrek (f.eks. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Nettsideadresser skrives vanligvis på formen <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Søk</button> </div> <li>Kontroller at du bruker fremover-skråstrek (f.eks. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Tilkoblingen ble avbrutt">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
