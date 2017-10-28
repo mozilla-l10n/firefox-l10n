@@ -286,6 +286,11 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "प्रायोगिक विशेषताएँ">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "कस्टम टैब">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "नये &formatS; में खोलें">
@@ -357,6 +362,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "URL पट्टी में QR स्कैनर की अनुमति दें">
 
 <!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
+<!ENTITY pref_sync_default_title "Firefox खाता">
 <!ENTITY pref_sync2 "साइन इन">
 <!ENTITY pref_sync_summary2 "अपने टैब, बुकमार्क, कूटशब्द, इतिहास समन्वयित करें">
 <!ENTITY pref_search_suggestions "खोज सलाह दिखाएँ">
@@ -479,6 +485,7 @@
 <!ENTITY contextmenu_open_private_tab "निजी टैब में खोलें">
 <!ENTITY contextmenu_remove "हटाएँ">
 <!ENTITY contextmenu_add_to_launcher "मुख्य स्क्रीन में जोड़ें">
+<!ENTITY contextmenu_add_page_shortcut "पृष्ठ शॉर्टकट जोड़ें">
 <!ENTITY contextmenu_set_as_homepage "मुख पृष्ठ के रूप में स्थापित करें">
 <!ENTITY contextmenu_share "साझा करें">
 <!ENTITY contextmenu_pasteandgo "चिपकाएँ व जाएँ">
@@ -811,6 +818,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "मुख्य स्क्रीन में जोड़ें">
 
+<!ENTITY promotion_add_page_shortcut "पृष्ठ शॉर्टकट जोड़ें">
+
 <!ENTITY helper_first_offline_bookmark_title "ऑफलाइन पढ़ें">
 <!ENTITY helper_first_offline_bookmark_message "पुस्तचिन्हों में अपनी पाठ्य दृष्टि वस्तुएँ ढूँढ़ें, ऑफ़लाइन भी.">
 <!ENTITY helper_first_offline_bookmark_button "पुस्तचिह्नों पर जायें">
@@ -850,3 +859,12 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "अधिक जानना चाहते हैं?">
 
 <!ENTITY fullscreen_warning "पूर्ण स्क्रीन दर्ज">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ मुख्य स्क्रीन में जोड़ें">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "मुख्य स्क्रीन में जोड़ें">
+<!ENTITY pwa_continue_to_website "वेबसाइट की ओर जारी रखें">
