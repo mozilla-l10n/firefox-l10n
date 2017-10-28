@@ -39,6 +39,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "إجمالي الوقت">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "الوقت الذي استُغرق في هذه الدالة وما استدعته من دوال.">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "الوقت المستغرق في هذه الدالة فقط.">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "النسبة المئوية للوقت المستغرق في هذه الدالة وما تستدعيه من دوال.">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "النسبة المئوية للوقت المستغرق في هذه الدالة فقط.">
