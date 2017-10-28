@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Wobłuk powěsćow wočinić">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wobłuk stejnišćoweho naprašowanja wočinić">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Wobłuk zdźělenki přidatkoweje instalacije wočinić">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Prawo za ekstrahowanje canvas rjadować">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Wobłuk zdźělenki składowanja offline wočinić">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Wobłuk zdźělenki składowanja hesła wočinić">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Wužiwanje tykačow rjadować">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Sće tutomu websydłu zakazał, daty składować.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Sće zdźělenki za tute websydło zablokował.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Sće trajny składowak za tute websydło zablokował.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Sće wuskakowace wokna za tute websydło zablokował.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazać">
 
