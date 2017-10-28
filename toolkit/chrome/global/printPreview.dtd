@@ -32,6 +32,10 @@
 <!ENTITY Custom.label         "Сопствено…">
 <!ENTITY ShrinkToFit.label    "На цел лист">
 <!ENTITY customPrompt.title   "Сопствена големина…">
+<!ENTITY simplifyPage.label   "Поедностави страница">
+<!ENTITY simplifyPage.accesskey "п">
+<!ENTITY simplifyPage.enabled.tooltip  "Смени распоред за полесно читање">
+<!ENTITY simplifyPage.disabled.tooltip "Оваа страница не може да се поедностави автоматски">
 
 <!ENTITY homearrow.tooltip    "Прва страница">
 <!ENTITY endarrow.tooltip     "Последна страница">
