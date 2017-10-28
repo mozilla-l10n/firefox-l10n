@@ -29,3 +29,4 @@
 <!ENTITY tabCrashed.emailMe "अधिक माहिती उपलब्ध झाल्यास मला ईमेल करा">
 <!ENTITY tabCrashed.reportSent "क्रॅश अहवाल आधीच सादर केला आहे; &brandShortName; अधिक चांगले बनविण्यास मदत केल्याबद्दल आपले धन्यवाद !">
 <!ENTITY tabCrashed.requestAutoSubmit2 "पार्श्वभूमी टॅबचा अहवाल द्या">
+<!ENTITY tabCrashed.autoSubmit3 "जेव्हा & brandShortName; क्रॅश करेल तेव्हा प्राधान्ये स्वयंचलितरीत्या अहवाल सादर करण्यावर अद्ययावत करा.">
