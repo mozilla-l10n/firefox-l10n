@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Na'ué gana'nin ñanj nan">
 <!ENTITY retry.label "A'ngô ñû">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Na'ue gatu riña internet ma">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Nu nari'ìj servidor">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Gini'iaj hue'ê si nu gachrun hue'êt 'ngo nuguan'an dàj rû' <strong>ww</strong>dàj rû'.com lugâ gachrunt <strong>www</strong>.dàj rû'.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nanà'uì'</button> </div> <li>Sisi na'ue nayi'nï gà' si 'ngo página ni, ni'iaj si hua hue'ê si datô si aga't asi hua hue'ê Wi-Fi. <button id='wifi'>Nachrun Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Gini'iaj hue'ê si nu gachrun hue'êt 'ngo nuguan'an dàj rû' <strong>ww</strong>.example.com lugâ gachrunt <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nanà'uì'</button> </div> <li>Sisi na'ue nayi'nï gà' si 'ngo página ni, ni'iaj si hua hue'ê si datô si aga't asi hua hue'ê Wi-Fi. <button id='wifi'>Nachrun Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Nu narì'ij archivo">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Natsij ni ni'iajt si nu gachrun a'na't si yugui archivo.</li> <li>Natsij ni ni'iajt si nu narè' archivo, gisikij asi nadunâ si yugui.</li> </ul>">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Gire' conexión nikà">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Nagi'iaj chì' na dadin' ga'ue sisi nu nagi'aij hue'êt servidor asi hua 'ngo sa ânej eruhuâ natu riña sa huin ruhuât na'nïnt.</li> <li>Sisi gà' gatuj ñùt riña servidor na ni nitaj nùj gi'iaj chìj ni ga'ue sisi ma si giyichin' akuanjyakaj da'nga' gatut nanâ doj a.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Ga'ue si sitio na ni duyichin' akuan si ma asi ûta ga'ì duguî araj sun ma. Yakaj da'nga' ñû ngàj akuan nï doj.</li> <li>Sisi na'ue nayi'nï gà' si 'ngo página ni, ni'iaj dàj hua achrûnt asi hua Wi-Fi riña si aga't. <button id='wifi'>Nachrun Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "'Ngo narán aga' na riña sitiô na yi'ì sa mà riñaj">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Gahué nuta' ngo sa së sa anin ruat…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡gahui' ñunan!">
 <!ENTITY securityOverride.exceptionButtonLabel "Nitaj ama na'nìn' na ma...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Nitaj si da'uí nuta' doj sa huaj si nun yuman sa' ruat daj hua Internet raj sun, nej si nitaj si u'ñun nariki agat nan ngo sa naduyu'ui so' .</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
