@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Kudenn o kargañ ar bajennad">
 <!ENTITY retry.label "Klask en-dro">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "N'haller ket kennaskañ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Dafariad ebet kavet">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Gwiriit ar chomlec'h da gaout fazioù biziata evel <strong>ww</strong>.skouer.com e-lec'h <strong>www</strong>.skouer.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Klask</button> </div> <li>Ma n'eus ket tro da gargañ pajennad ebet, gwiriit roadennoù ho trevnad pe ho kennask dre Wi-Fi. <button id='wifi'>Enable Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Gwiriit ar chomlec'h da gaout fazioù biziata evel <strong>ww</strong>.example.com e-lec'h <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Klask</button> </div> <li>Ma n'eus ket tro da gargañ pajennad ebet, gwiriit roadennoù ho trevnad pe ho kennask dre Wi-Fi. <button id='wifi'>Enable Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Restr ebet kavet">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Gwiriit anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li> <li>Gwiriit hag-eñ eo bet dilec'hiet, adanvet pe dilamet ar restr</li> </ul>">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "N'eo ket talvoudek ar chomlec'h">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Skrivet e vez ar chomlec'hioù evel <strong>http://www.skouer.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Klask</button> </div> <li>Bezit sur ez arverit beskelloù (d.l.e. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Skrivet e vez ar chomlec'hioù evel <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Klask</button> </div> <li>Bezit sur ez arverit beskelloù (d.l.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Troc'het eo bet ar c'hennask">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "C'hwitadenn war ar c'hennaskañ diogel">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Marteze e vefe ur gudenn gant kefluniadur an dafariad, pe unan bennak o klask dreveziñ an dafariad.</li> <li>Mard oc'h bet kennasket ouzh an dafariad gant berzh a-raok ez eus ur fazi padennek moarvat, klaskit diwezhatoc'h.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Marteze ez eo al lec'hienn dihegerz pe re ac'hubet evit poent. Klaskit tuchant.</li> <li>Ma n'oc'h ket evit pellgargañ pajennad ebet, gwiriit da vezañ sur ez eus ur c'hennask dre Wi-Fi ha roadennoù o vont en-dro. <button id='wifi'>Gweredekaat ar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Pe un nemedenn a vez ouzhpennet ganeoc'h...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Lamit kuit ac'hanon deus amañ !">
 <!ENTITY securityOverride.exceptionButtonLabel "Ouzhpennañ un nemedenn…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Gwell e vefe deoc'h chom hep ouzhpennañ un nemedenn ma n'eus ket fiziañs penn-da-benn en dafariad-mañ ganeoc'h pe ma n'oc'h ket boaziet gwelout un taol evezh a-berzh an dafariad-mañ.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
