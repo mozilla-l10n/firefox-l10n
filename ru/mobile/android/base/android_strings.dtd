@@ -869,3 +869,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Добавить на домашний экран">
 <!ENTITY pwa_continue_to_website "Вернуться к веб-сайту">
+<!ENTITY pwa_onboarding_sumo "Вы можете легко добавить этот веб-сайт на домашний экран, чтобы иметь к нему мгновенный доступ и сёрфить быстрее со скоростью нативного приложения.">
