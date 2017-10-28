@@ -869,3 +869,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Añadir a la pantalla de inicio">
 <!ENTITY pwa_continue_to_website "Continuar al sitio web">
+<!ENTITY pwa_onboarding_sumo "Puedes añadir fácilmente este sitio web a tu pantalla de inicio para tener acceso instantáneo y navegar rápidamente, consiguiendo una experiencia similar a la de una aplicación real.">
