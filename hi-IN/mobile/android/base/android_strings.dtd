@@ -290,6 +290,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "कस्टम टैब">
+<!ENTITY pref_custom_tabs_summary4 "ऐप्स को वेब सामग्री शीघ्र लोड होने वाले कस्टम टैब में खोलने की अनुमति दें.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -868,3 +869,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "मुख्य स्क्रीन में जोड़ें">
 <!ENTITY pwa_continue_to_website "वेबसाइट की ओर जारी रखें">
+<!ENTITY pwa_onboarding_sumo "आप आसानी से इस वेबसाइट को अपने मुख्य स्क्रीन पर त्वरित अभिगमन के लिए जोड़ सकते हैं और ऐप जैसे अनुभव के साथ तीव्रतर ब्राउज़ कर सकते हैं.">
