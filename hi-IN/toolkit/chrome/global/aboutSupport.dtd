@@ -21,8 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "संस्करण">
 <!ENTITY aboutSupport.extensionId "आईडी">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; विशेषताएं">
 <!ENTITY aboutSupport.featureName "नाम">
 <!ENTITY aboutSupport.featureVersion "संस्करण">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "प्रायोगिक विशेषताएँ">
 <!ENTITY aboutSupport.experimentName "नाम">
@@ -67,6 +69,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProcessCount "वेब सामग्री प्रक्रियाएं">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "गूगल कुंजी">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla अवस्थिति सेवा कुंजी">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "सेफ मोड">
 
@@ -113,6 +116,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "कच्चे डाटा क्लिपबोर्ड में नक़ल लें">
 
 <!ENTITY aboutSupport.sandboxTitle "सैंडबॉक्स ">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "अस्वीकृत सिस्टम कॉल">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "क्षण पहले">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
