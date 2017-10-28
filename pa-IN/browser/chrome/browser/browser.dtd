@@ -215,7 +215,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਕੈਮਰੇ ਅਤੇ/ਜਾਂ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ਸਾਈਟ ਨਾਲ ਆਪਣੇ ਮਾਈਕਰੋਫ਼ੋਨ ਦੇ ਸਾਂਝਾ ਕਰਨ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ਇੰਸਟਾਲ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ਇਹ ਸਫ਼ੇ ਦਾ ਉਲੱਥਾ ਕਰੋ">
