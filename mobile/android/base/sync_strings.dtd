@@ -68,6 +68,7 @@
 <!ENTITY fxaccount_status_passwords2 'Logins'>
 <!ENTITY fxaccount_status_tabs 'Åbne faneblade'>
 <!ENTITY fxaccount_status_additional_settings 'Flere indstillinger'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Synkroniser kun over wi-fi'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_status_legal 'Juridisk' >
