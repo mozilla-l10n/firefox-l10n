@@ -20,9 +20,12 @@
 <!ENTITY installAddonFromFile.accesskey       "И">
 <!ENTITY toolsMenu.tooltip                    "Алатки за сите додатоци">
 
+<!ENTITY getThemes.description                "Барате начин да го персонализирате вашиот прелистувач?">
+<!ENTITY getThemes.learnMore                  "Изберете од илјадници теми.">
 
 <!ENTITY cmd.back.tooltip                     "Оди една страница назад">
 <!ENTITY cmd.forward.tooltip                  "Оди една страница напред">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Некои додатоци не може да се верификуваат">
 <!ENTITY showAllExtensions.button.label       "Прикажи ги сите додатоци">
@@ -116,6 +119,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Прикажи ги белешките за оваа надградба">
 <!ENTITY cmd.hideReleaseNotes.label           "Скриј ги белешките за верзијата">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Скриј ги белешките за оваа надградба">
+<!ENTITY cmd.findReplacement.label            "Најди замена">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -188,6 +192,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "ЗАСТАРЕНО">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -250,4 +255,10 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "рачно">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Ви недостасува нешто? Некои приклучоци повеќе не се поддржани во &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Дознајте повеќе.">
 
+<!ENTITY legacyWarning.showLegacy "Прикажи застарени проширувања">
+<!ENTITY legacyExtensions.title "Застарени проширувања">
+<!ENTITY legacyExtensions.description "Овие проширувања не се во согласност со сегашните стандарди на &brandShortName; па, беа исклучени.">
+<!ENTITY legacyExtensions.learnMore "Дознајте повеќе за измените на додатоците">
