@@ -16,5 +16,5 @@
 <!ENTITY AlignCenter.label "Orta">
 <!ENTITY AlignRight.label "Sağ">
 
-<!ENTITY RemoveFieldSet.label "Alan Kümesini Kaldır">
+<!ENTITY RemoveFieldSet.label "Alan kümesini kaldır">
 <!ENTITY RemoveFieldSet.accesskey "l">
