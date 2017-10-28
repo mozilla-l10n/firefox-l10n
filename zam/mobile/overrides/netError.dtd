@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Ngyé-n kùe">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Güil cho dizh kap mkel <strong>ww</strong>.loo.com nó nakin gáb bá <strong>www</strong>.loo.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Kuan</button> </div> <li>Güi cho tak lab lu loo re, güi cho lí che Wi-Fi na lú. <button id='wifi'>Lá kí Wi-Fi</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Güil cho dizh kap mkel <strong>ww</strong>.example.com nó nakin gáb bá <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Kuan</button> </div> <li>Güi cho tak lab lu loo re, güi cho lí che Wi-Fi na lú. <button id='wifi'>Lá kí Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Ngyé-n yêtz">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Güi cho besta mkel lé yets na lú.</li> <li>Güi cho tre ka xóg, ná xént lu le ní o mtedon luy.</li> </ul>">
