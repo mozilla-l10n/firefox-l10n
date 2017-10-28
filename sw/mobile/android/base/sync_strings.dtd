@@ -63,25 +63,34 @@
 <!ENTITY fxaccount_pref_sync_use_metered2 'Landanisha tu kwenye Wi-Fi'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_status_legal 'Sheria' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 'Masharti ya huduma'>
+<!ENTITY fxaccount_status_linkprivacy2 'Ilani ya faragha'>
+<!ENTITY fxaccount_remove_account 'Tenganisha&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Tenganisha ulandanishi?'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Kata mawasiliano'>
 
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Chaguo'>
+<!ENTITY fxaccount_options_configure_title 'Sanidi &syncBrand.shortName.label;'>
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

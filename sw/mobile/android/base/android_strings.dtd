@@ -150,10 +150,13 @@
 
 <!ENTITY pref_category_search3 "Tafuta">
 <!ENTITY pref_category_privacy_short "Faragha">
+<!ENTITY pref_category_logins "Kuingia">
 <!ENTITY pref_learn_more "Jifunze zaidi">
 <!ENTITY pref_category_installed_search_engines "Mitambo ya utafutaji iliyowekwa">
 <!ENTITY pref_category_add_search_providers "Ongeza mitambo ya utafutaji zaidi">
 <!ENTITY pref_category_search_restore_defaults "Rejesha injini za utafutaji">
+<!ENTITY pref_search_restore_defaults "Rejesha chaguo-msingi">
+<!ENTITY pref_search_restore_defaults_summary "Rejesha chaguo-msingi">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -188,21 +191,31 @@
 <!ENTITY pref_header_search "Tafuta">
 <!ENTITY pref_header_privacy_short "Faragha">
 <!ENTITY pref_header_accessibility "Ufikiaji">
+<!ENTITY pref_header_notifications "Arifa">
+<!ENTITY pref_header_advanced "Ya hali ya juu">
 <!ENTITY pref_header_help "Usaidizi">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Vidakuzi">
+<!ENTITY pref_cookies_accept_all "Imewezeshwa">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 
+<!ENTITY pref_tap_to_load_images_disabled2 "Imezuiwa">
 
+<!ENTITY pref_show_web_fonts "Onyesha fonti za wavuti">
 
 
 
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -212,6 +225,7 @@
 
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_negative_action_button "Sio sasa">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!-- Localization note (tab_queue_notification_text_plural2) : The
@@ -220,29 +234,49 @@
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "tabo 1 inasubiri">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
 <!ENTITY pref_char_encoding "Usimbaji wa kibambo">
 <!ENTITY pref_char_encoding_on "Onyesha menyu">
+<!ENTITY pref_char_encoding_off "Usionyeshe menyu">
+<!ENTITY pref_clear_private_data2 "Futa data ya kibinafsi">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Ondoa sasa">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
 
 <!ENTITY pref_use_master_password "Tumia nenosiri kuu ">
+<!ENTITY pref_sync_default_title "Akaunti za Firefox">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_history2 "Historia ya kuvinjari">
+<!ENTITY pref_private_data_searchHistory "Historia ya utafutaji">
+<!ENTITY pref_private_data_formdata2 "Historia ya fomu">
+<!ENTITY pref_private_data_siteSettings2 "Vipimo vya tovuti">
 
 <!ENTITY pref_about_firefox "Kuhusu &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQs">
 
 <!ENTITY pref_dialog_default "Chaguo-msingi">
+<!ENTITY pref_dialog_remove "Ondoa">
+<!ENTITY pref_dialog_activitystream_header_content "Maudhui ya ziada">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Vialamisho vya hivi karibuni">
+<!ENTITY pref_dialog_activitystream_visited "Iliyotembelewa">
 
+<!ENTITY pref_search_last_toast "Haiwezi kuondoa au kulemaza injini yako ya utafutaji ya mwisho.">
 
+<!ENTITY pref_panels_show "Onyesha">
+<!ENTITY pref_panels_hide "Ficha">
+<!ENTITY pref_panels_move_up "Sogeza juu">
+<!ENTITY pref_panels_move_down "Sogeza chini">
 
+<!ENTITY datareporting_notification_action "Chagua cha kushiriki">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
@@ -466,6 +500,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
@@ -482,3 +517,9 @@ and allows hiding a URL/page from highlights or topsites. The page remains in hi
 is simply hidden from the Activity Stream panel. -->
 
 
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
