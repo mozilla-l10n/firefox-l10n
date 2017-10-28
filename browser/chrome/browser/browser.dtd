@@ -229,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "आपण ह्या वेबसाइटसाठी सूचना अवरोधित केल्या आहे.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "आपण दीर्घस्थायी स्टोरेज ह्या वेबसाईटसाठी अवरोधित केला आहे.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "ह्या संकेतस्थळासाठी आपण पॉप-अप अडवले आहेत.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दाखवा">
 
 <!ENTITY searchItem.title             "शोधा">
@@ -805,6 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "आपल्या इतर उपकरणावरुन या उपकरणावर टॅब्स पाहण्यासाठी टॅब ताळमेळ सक्रीय करा.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "ताळमेळीत टॅब शोधा">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -845,6 +848,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "पूर्वनिर्धारित पूर्वस्थितीत आणा">
 <!ENTITY customizeMode.done "झाले">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
+<!ENTITY customizeMode.extraDragSpace "जागा द्या">
 <!ENTITY customizeMode.toolbars2 "साधनपट्ट्या">
 <!ENTITY customizeMode.lwthemes "थीम्स">
 <!ENTITY customizeMode.lwthemes.myThemes "माझ्या थीम्स">
@@ -854,6 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "अधिक थिम्स मिळवा">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "आपल्या साधनपट्टीच्या बाहेर पण त्वरित उपलब्ध होण्यासाठी ओढून घटक इथे सोडा…">
+<!ENTITY customizeMode.overflowList.title2 "ओव्हरफ्लो मेनू">
 <!ENTITY customizeMode.uidensity "घनता">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -978,3 +983,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणे सिंक करत आहे…">
 
 <!ENTITY libraryButton.tooltip "इतिहास दाखवा, जतन केलेल्या वाचनखुणा, आणि अधिक">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
