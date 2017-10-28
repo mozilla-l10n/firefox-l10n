@@ -28,7 +28,10 @@
 <!ENTITY searchTextBox.clear.label "Избриши">
 
 <!ENTITY fillLoginMenu.label          "Внеси најава">
+<!ENTITY fillLoginMenu.accesskey      "Н">
 <!ENTITY fillPasswordMenu.label       "Внеси лозинка">
+<!ENTITY fillPasswordMenu.accesskey   "Л">
 <!ENTITY fillUsernameMenu.label       "Внеси корисничко име">
+<!ENTITY fillUsernameMenu.accesskey   "И">
 <!ENTITY noLoginSuggestions.label     "(Нема предложени најави)">
 <!ENTITY viewSavedLogins.label        "Види зачувани најави">

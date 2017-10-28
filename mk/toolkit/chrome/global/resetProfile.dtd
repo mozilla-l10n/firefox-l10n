@@ -3,10 +3,13 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY refreshProfile.dialog.title         "Освежи &brandShortName;">
+<!ENTITY refreshProfile.dialog.description1  "Започнете одново за да ги решите проблемите и да ја вратите брзината.">
 <!ENTITY refreshProfile.dialog.description2  "Ова ќе:">
 <!ENTITY refreshProfile.dialog.items.label1  "Отстранете ги вашите додатоци и прилагодувања">
 <!ENTITY refreshProfile.dialog.items.label2  "Вратете ги поставките на вашиот прелистувач на основните вредности">
 <!ENTITY refreshProfile.dialog.button.label  "Освежи го &brandShortName;">
 
+<!ENTITY refreshProfile.title                "Наштелувајте го &brandShortName;">
+<!ENTITY refreshProfile.button.label         "Освежи &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Скоро готово…">
