@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "ਜੀ ਆਇਆਂ ਨੂੰ">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; ਚੁਣਨ ਵਾਸਤੇ ਧੰਨਵਾਦ">
+<!ENTITY firstrun_urlbar_subtext2 "ਮੋਜ਼ੀਲਾ, ਮੁਫ਼ਤ ਅਤੇ ਆਜ਼ਾਦ ਵੈੱਬ ਲਈ ਗ਼ੇੈਰ-ਫਾਇਦੇ ਨਾਲ ਵਚਨਬੱਧ, ਵਲੋਂ ਨਵਾਂ ਨਕੋਰ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ।">
 <!ENTITY firstrun_panel_title_privacy "ਪਰਦੇਦਾਰੀ">
 <!ENTITY firstrun_privacy_message "ਬਰਾਊਜ਼ ਇੰਝ ਕਰੋ ਕਿ ਕੋਈ ਨਾ ਵੇਖੇ">
 <!ENTITY firstrun_panel_title_customize "ਕਸਟਮਾਈਜ਼">
@@ -16,6 +17,7 @@
 <!ENTITY firstrun_data_subtext2 "ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾਂਦੀ ਹਰ ਸਾਈਟ ਲਈ ਡਾਟੇ ਨੂੰ ਘਟਾਉਣ ਲਈ ਚਿੱਤਰਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।">
 <!ENTITY firstrun_sync_title "ਸਿੰਕ ਕਰੋ">
 <!ENTITY firstrun_sync_message2 "ਜਿੱਥੇ ਛੱਡਿਆ ਸੀ, ਉੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ।">
+<!ENTITY firstrun_sync_subtext2 "ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ &brandShortName; \&apos;ਤੇ ਸੰਭਾਲਿਆ ਹੈ, ਨੂੰ ਲੱਭਣ ਲਈ ਸਿੰਕ ਨੂੰ ਵਰਤੋਂ।">
 <!ENTITY firstrun_signin_message "ਕਨੈਕਟ ਹੋਵੋ, ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY firstrun_signin_button "ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ">
 <!ENTITY  onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
@@ -88,6 +90,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; ਆਈਟਮਾਂ">
 <!ENTITY bookmark_folder_one_item "1 ਆਈਟਮ">
+<!ENTITY bookmark_folder_updated "ਫੋਲਡਰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ">
 <!ENTITY bookmark_parent_folder "ਮੂਲ ਫੋਲਡਰ">
 <!ENTITY bookmark_add_folder "ਨਵਾਂ ਫੋਲਡਰ ਜੋੜੋ">
 
@@ -281,6 +284,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "ਕਸਟਮ ਟੈਬਾਂ">
+<!ENTITY pref_custom_tabs_summary4 "ਐਪਾਂ ਨੂੰ ਕਸਟਮ ਟੈਬ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਕਰਨ ਵਿੱਚ ਵੈੱਬ ਸਮੱਗਰੀ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS; \&apos;ਚ ਖੋਲ੍ਹੋ">
@@ -352,6 +361,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "URL ਪੱਟੀ ਵਿੱਚ QR ਸਕੈਨਰ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ">
+<!ENTITY pref_sync_default_title "ਫਾਇਰਫਾਕਸ ਖਾਤਾ">
 <!ENTITY pref_sync2 "ਸਾਈਨ ਇਨ ਕਰੋ">
 <!ENTITY pref_sync_summary2 "ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕਾਂ, ਲਾਗਇਨ, ਅਤੀਤ ਨੂੰ ਸਿੰਕ ਕਰੋ">
 <!ENTITY pref_search_suggestions "ਖੋਜ ਲਈ ਸੁਝਾਆਵਾਂ ਨੂੰ ਦਿਖਾਓ">
@@ -474,6 +484,7 @@
 <!ENTITY contextmenu_open_private_tab "ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_remove "ਹਟਾਓ">
 <!ENTITY contextmenu_add_to_launcher "ਮੁੱਖ ਸਕਰੀਨ ਉੱਤੇ ਜੋੜੋ">
+<!ENTITY contextmenu_add_page_shortcut "ਸਫ਼ਾ ਸ਼ਾਰਟਕੱਟ ਜੋੜੋ">
 <!ENTITY contextmenu_set_as_homepage "ਮੁੱਖ-ਸਫ਼ੇ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY contextmenu_pasteandgo "ਚੇਪੋ ਤੇ ਖੋਲ੍ਹੋ">
@@ -809,6 +820,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "ਮੁੱਖ ਸਕਰੀਨ ਉੱਤੇ ਜੋੜੋ">
 
+<!ENTITY promotion_add_page_shortcut "ਸਫ਼ਾ ਸ਼ਾਰਟਕੱਤ ਜੋੜੋ">
+
 <!ENTITY helper_first_offline_bookmark_title "ਆਫ਼ਲਾਈਨ ਪੜ੍ਹੋ">
 <!ENTITY helper_first_offline_bookmark_message "ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਪੜ੍ਹਨ ਦੇਖਣ ਆਈਟਮਾਂ ਨੂੰ ਲੱਭੋ, ਭਾਵੇਂ ਆਫ਼ਲਾਈਨ ਹੋਵੋ।">
 <!ENTITY helper_first_offline_bookmark_button "ਬੁੱਕਮਾਰਕ ਉੱਤੇ ਜੋੜੋ">
@@ -845,3 +858,12 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "ਹੋਰ ਸਿੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
 
 <!ENTITY fullscreen_warning "ਪੂਰੀ ਸਕਰੀਨ \&apos;ਤੇ">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ ਮੁੱਖ ਸਕਰੀਨ \&apos;ਤੇ ਜੋੜੋ">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "ਮੁੱਖ ਸਕਰੀਨ \&apos;ਤੇ ਜੋੜੋ">
+<!ENTITY pwa_continue_to_website "ਵੈੱਬਸਾਈਟ ਨਾਲ ਜਾਰੀ ਰੱਖੋ">
