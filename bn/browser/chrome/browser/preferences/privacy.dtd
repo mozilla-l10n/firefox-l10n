@@ -26,6 +26,7 @@
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "আরও জানুন">
+<!ENTITY  doNotTrack.default.label      "শুধুমাত্র যখন ট্রাকিং সুরক্ষা ব্যবহার করে">
 <!ENTITY  doNotTrack.always.label       "সর্বদা">
 
 <!ENTITY  history.label                 "ইতিহাস">
