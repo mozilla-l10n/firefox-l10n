@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip       "Åbn panelet for beskeder">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip   "Åbn panelet for positions-forespørgsler">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip        "Åbn panelet for beskeder om installering af tilføjelser">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip        "Håndter tilladelser for canvas-ekstraktion">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip     "Åbn panelet for beskeder om app-offline-lager">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip      "Åbn panelet for beskeder om at gemme adgangskoder">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip       "Administrer brug af plugins">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blokeret datalagring for dette websted.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokeret beskeder fra dette websted.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokeret vedvarende lager for dette websted.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Du har blokeret pop op-vinduer for dette websted.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
 
