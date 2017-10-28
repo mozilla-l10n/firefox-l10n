@@ -63,7 +63,7 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.beforeLogo "तर्फे भाषांतरीत">
-<!ENTITY translation.options.attribution.afterLogo "‌">
+<!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent2.label              "डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर">
 
