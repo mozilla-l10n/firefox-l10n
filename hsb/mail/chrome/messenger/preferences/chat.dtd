@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Powšitkowne">
+
 <!ENTITY  startupAction.label         "Hdyž &brandShortName; startuje:">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Chatowe konto offline wostajić">
 <!ENTITY  startupConnectAuto.label    "Chatowe konta awtomatisce zwjazać">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Kontakty informować, zo sym potom">
 <!ENTITY  reportIdleAfter.accesskey     "i">
 <!ENTITY  idleTime                      "mjeńšin preč">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Přepytać…">
 <!ENTITY  browse.accesskey                    "P">
 
+<!ENTITY messageStyleTab.title             "Powěsćowe stile">
+<!ENTITY messageStylePreview.label         "Přehlad:">
+<!ENTITY messageStyleTheme.label           "Drasta:">
+<!ENTITY messageStyleTheme.accesskey       "D">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Puchery">
+<!ENTITY messageStyleDarkTheme.label       "Ćmowe">
+<!ENTITY messageStylePaperSheetsTheme.label "Papjerowe łopjena">
+<!ENTITY messageStyleSimpleTheme.label     "Jednora">
+<!ENTITY messageStyleDefaultTheme.label    "Standardna">
+<!ENTITY messageStyleVariant.label         "Warianta:">
+<!ENTITY messageStyleVariant.accesskey     "W">
+<!ENTITY messageStyleShowHeader.label      "Hłowu pokazać">
+<!ENTITY messageStyleShowHeader.accesskey  "H">
+<!ENTITY messageStyleNoPreview.title       "Přehlad k dispoziciji njeje">
+<!ENTITY messageStyleNoPreview.description "Tuta drasta płaćiwa njeje abo njeje tuchwilu k dispoziciji (žnjemóžnjeny přidatk, wěsty modus …).">
