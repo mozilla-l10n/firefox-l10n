@@ -36,7 +36,7 @@
 <!ENTITY event.attendees.notify.label                "Katılımcılara bildir">
 <!ENTITY event.attendees.notify.accesskey            "b">
 <!ENTITY event.attendees.notifyundisclosed.label     "Her katılımcı için ayrı davetiye">
-<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "d">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Bu seçenek katılımcı başına bir e-posta daveti gönderir. Her davet, diğer katılımcı kimliklerini ifşa etmeyecek şekilde alıcı katılımcıyı içerir.">
 <!ENTITY event.attendees.disallowcounter.label       "Geri çevirmeye izin verme">
 <!ENTITY event.attendees.disallowcounter.accesskey   "g">
@@ -206,7 +206,7 @@
 <!ENTITY event.calendar.label                             "Takvim:" >
 <!ENTITY event.calendar.accesskey                         "m">
 <!ENTITY event.attendees.label                            "Katılımcılar:" >
-<!ENTITY event.attendees.accesskey                        "n">
+<!ENTITY event.attendees.accesskey                        "m">
 <!ENTITY event.alldayevent.label                          "Tam günlük etkinlik" >
 <!ENTITY event.alldayevent.accesskey                      "ü">
 <!ENTITY event.from.label                                 "Başlangıç:" >

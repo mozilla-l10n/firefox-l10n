@@ -37,6 +37,14 @@
 <!ENTITY pref.soondays.label "Yaklaşan bölümünde gösterilecek süre:">
 <!ENTITY pref.soondays.accesskey "Y">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "Yaklaşan bölümde gösterilecek süre:">
+<!ENTITY pref.soondays2.accesskey "Y">
+
 <!ENTITY pref.accessibility.label "Erişilebilirlik" >
 <!ENTITY pref.systemcolors.label "Erişilebilirlik için renkleri iyileştir" >
 <!ENTITY pref.systemcolors.accesskey "n">
