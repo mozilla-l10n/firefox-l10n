@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "باز کردن تابلو پیام‌ها">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "باز کردن تابلوی درخواستِ مکان">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "باز کردن تابلو پیام‌های نصب افزودنی‌ها">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "مدیریت مجوز بوم های استخراج شده">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "باز کردن تابلو ذخیرهٔ برون‌خط">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "باز کردن تابلو پیام‌های ذخیره گذواژه">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "مدیریت استفاده از افزونه">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "شما این پایگاه‌وب را برای ذخیره اطلاعات مسدود کرده‌اید.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "شما این پایگاه‌وب را برای امکان ارسال اعلان مسدود کرده‌اید.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "شما این پایگاه‌وب را برای ذخیره اطلاعات مسدود کرده‌اید.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "شما پنجره باز شو مسدود شده برای این پایگاه اینترنتی دارید.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "نمایش تاریخچه">
 
