@@ -867,3 +867,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Lisa avaekraanile">
 <!ENTITY pwa_continue_to_website "Mine veebilehele">
+<!ENTITY pwa_onboarding_sumo "Sa võid lisada selle lehe oma avaekraanile, et pääseda sellele kiirelt ligi ja kasutada seda äpi sarnase kasutuskogemusega.">
