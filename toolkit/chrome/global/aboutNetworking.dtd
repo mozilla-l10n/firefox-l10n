@@ -43,6 +43,8 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "RCWN आँकड़े">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN स्थिति">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "कैश विजय गणना">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "अंतिम विजय गणना">
 <!ENTITY aboutNetworking.totalNetworkRequests  "कुल नेटवर्क अनुरोध गणना">
 <!ENTITY aboutNetworking.rcwnOperation         "कैश कार्रवाई">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "खोलें">
@@ -51,3 +53,6 @@
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "प्रविष्टि खोलें">
 <!ENTITY aboutNetworking.rcwnAvgShort          "कम औसत">
 <!ENTITY aboutNetworking.rcwnAvgLong           "लंबे औसत">
+<!ENTITY aboutNetworking.rcwnStddevLong        "लंबा मानक विचलन">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "कैश सुस्ती गणना">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "कैश असुस्ती गणना">
