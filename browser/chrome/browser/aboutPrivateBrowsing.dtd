@@ -22,6 +22,10 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcadores">
 <!ENTITY aboutPrivateBrowsing.note.before                "A navegación privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "non o fai anónimo">
+<!ENTITY aboutPrivateBrowsing.note.after                 " na Internet. O seu fornecedor do servizo de Internet aínda pode saber que páxina visita.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Obteña máis información sobre ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Navegación privada">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Protección contra o seguimento">
 <!ENTITY trackingProtection.startTour1                   "Vexa como funciona">
