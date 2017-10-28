@@ -36,6 +36,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Muunganisho ulisitishwa">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Hati imekwisha muda">
 <!ENTITY notCached.longDesc "<p>Waraka ulioombwa haupatikani katika &brandShortName; kache. .</p><ul><li>Kama hadhari ya usalama, &brandShortName; haiombi tena kiotomatiki nyaraka zenye hisia.</li><li>Bofya Jaribu Tena ili kuomba tena waraka kutoka kwa wavuti.</li></ul>">

@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Kuhusu &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ni ya kujaribia na inaweza kuwa si thabiti.">
+<!ENTITY aboutPage.telemetryStart               " Hutuma moja kwa moja habari kuhusu utendaji, vifaa, matumizi na usanidi wa kurujelea ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " ili kusaidia kufanya &brandShortName; kua bora.">
 <!ENTITY aboutPage.checkForUpdates.link         "Angalia Sasisho »">
@@ -16,6 +17,8 @@
 <!ENTITY aboutPage.privacyPolicy.label          "Sera ya Faragha">
 <!ENTITY aboutPage.rights.label                 "Jua haki zako">
 <!ENTITY aboutPage.relNotes.label               "Vidokezo vya Toleo">
+<!ENTITY aboutPage.credits.label                "Pongezi">
 <!ENTITY aboutPage.license.label                "Maelezo ya Leseni">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.logoTrademark                "Firefox na logi za Firefox ni alama za biashara za Msingi ya Mozilla.">

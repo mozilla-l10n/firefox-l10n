@@ -13,10 +13,13 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Hauko katika utafutaji binafsi">
 
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; huzuia sehemu za kurasa zinazoweza kufuatilia shughuli zako za kuvinjari.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Hatutakumbuka historia yoyote, lakini faili zilizopakuliwa na vifungo mpya bado zitahifadhiwa kwenye kifaa chako.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Katika Kutafuta Binafsi, hatutaweka historia yako yoyote ya kuvinjari au vidakuzi. Vitambulisho unayoongeza na faili unayopakua bado itahifadhiwa kwenye kifaa chako.">
 
 <!ENTITY privatebrowsingpage.link.private "Unataka kujifunza zaidi?">
 <!ENTITY privatebrowsingpage.link.normal "Fungua tabo mpya ya faragha">
