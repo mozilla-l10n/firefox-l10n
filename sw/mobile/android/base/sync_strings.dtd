@@ -1,205 +1,87 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-
 <!ENTITY syncBrand.fullName.label "Landanisha Firefox">
 <!ENTITY syncBrand.shortName.label "Ulandanishi">
+
 <!-- Main titles. -->
-<!ENTITY sync.title.connect.label "Unganisha kwa &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Ongeza &syncBrand.fullName.label; Akaunti">
-<!ENTITY sync.title.pair.label "Oanisha Kifaa">
+<!ENTITY sync.title.connect.label 'Unganisha kwa &syncBrand.shortName.label;'>
+
 <!-- J-PAKE Key Screen -->
-
-
-
-
-
-<!ENTITY sync.link.show.label "Nionyeshe jinsi.">
-
-
-<!-- J-PAKE Waiting Screen -->
-<!-- Account Login Screen -->
-
-
-
-
-
-<!-- Setup Fail -->
-
-<!ENTITY sync.button.tryagain.label "Jaribu tena">
-
-
-
-
-<!-- Setup Success -->
-
-<!ENTITY sync.title.success.label "Usanidi Umekamilika">
-
-<!ENTITY sync.settings.label "Mipangilio">
-
-<!-- Pair Device -->
-
-<!ENTITY sync.pair.tryagain.label "Tafadhali jaribu tena.">
-
-<!-- Firefox SyncAdapter Settings Screen -->
-
-<!ENTITY sync.settings.options.label "Chaguo">
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.link.nodevice.label 'Sina kifaa hiki pamoja nami…'>
 
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.passwords2 'Kuingia'>
+<!ENTITY sync.configure.engines.title.history 'Historia'>
+<!ENTITY sync.configure.engines.title.tabs 'Tabo'>
 
-
-
-
-
-<!-- Common text -->
-
-<!ENTITY sync.button.cancel.label "Katiza">
-<!ENTITY sync.button.connect.label "Unganisha">
-<!ENTITY sync.button.ok.label "OK">
-<!-- Account strings -->
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; kwenye &formatS2;'>
+
 <!-- Bookmark folder strings -->
-
-<!ENTITY bookmarks.folder.menu.label "Menyu ya Vialamisho">
+<!ENTITY bookmarks.folder.menu.label 'Menyu ya Vialamisho'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label "Lebo">
-<!ENTITY bookmarks.folder.toolbar.label "Mwambaa zana wa Vialamisho">
-<!ENTITY bookmarks.folder.unfiled.label "Alamisho Zisizopangwa">
-
-<!ENTITY bookmarks.folder.mobile.label "Vialamisho Jongevu">
-
+<!ENTITY bookmarks.folder.tags.label 'Lebo'>
+<!ENTITY bookmarks.folder.toolbar.label 'Mwambaa zana wa Vialamisho'>
+<!ENTITY bookmarks.folder.other.label 'Vialamisho nyingine'>
+<!ENTITY bookmarks.folder.desktop.label 'Vialamisho vya eneokazi'>
+<!ENTITY bookmarks.folder.mobile.label 'Vialamisho Jongevu'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!-- Notification strings -->
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidserver.label "Tafadhali ingiza sava sahihi URL">
-
-
-<!-- Send tab to device. -->
-
-
-
-
-
+<!ENTITY bookmarks.folder.pinned.label 'Imebanwa'>
 
 <!-- Firefox Account strings. -->
-
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-
-
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
+<!ENTITY fxaccount_back_to_browsing 'Rejea kuvinjari'>
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Karibu kwa &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_get_started 'Mwanzo'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Unatumia toleo la zamani la &syncBrand.shortName.label;?'>
 
-
-
-
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-
-
-
-
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_button "Ifuatayo">
-
-
-
-
-
-
-
-
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_auth_server 'Seva ya akaunti'>
+<!ENTITY fxaccount_status_sync_now 'Oanisha sasa'>
+<!ENTITY fxaccount_status_syncing2 'Ulandanishaji…'>
+<!ENTITY fxaccount_status_device_name 'Jina la kifaa'>
+<!ENTITY fxaccount_status_sync_server 'Seva ya ulandanishi'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Bomba ili kuingia kwenye akaunti yako mpya ya Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Chagua cha kulandanisha'>
+<!ENTITY fxaccount_status_bookmarks 'Maalamisho'>
+<!ENTITY fxaccount_status_history 'Historia'>
+<!ENTITY fxaccount_status_passwords2 'Kuingia'>
+<!ENTITY fxaccount_status_tabs 'Tabo zilizo wazi'>
+<!ENTITY fxaccount_status_additional_settings 'Mipangilio ya ziada'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Landanisha tu kwenye Wi-Fi'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
-
-
-
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
+
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-
-
-
-
-
-
-
-
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

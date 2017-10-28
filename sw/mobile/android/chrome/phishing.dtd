@@ -4,16 +4,19 @@
 
 <!ENTITY safeb.palm.accept.label "Niondoe hapa!">
 <!ENTITY safeb.palm.decline.label "Puuza onyo hili">
-<!ENTITY safeb.palm.notforgery.label2 "Huu si ughushi wa wavuti...">
 <!ENTITY safeb.palm.reportPage.label "Kwa nini ukurasa huu umezuiliwa?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Ushauri zinazotolewa na <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Ukurasa umeripotiwa kuwa Shambulizi!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Ukurasa huu katika <span id='malware_sitename'/> umeripotiwa kuwa ukurasa shambulizi na umezuiliwa ukizingatia mapendeleo yako ya kiusalama.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Kurasa shambulizi hujaribu kusakinisha programu zinazoiba maelezo ya kibinafsi, kutumia tarakilishi yako kushambulia zingine, au kudhuru mfumo wako.</p><p>Kurasa zingine za ushambulizi husambaza maksudi programu mbaya, lakini nyingi zinaafikiana bila ujuzi au ruhusa ya mmiliki.</p>">
 
-
-
+<!ENTITY safeb.blocked.phishingPage.title3 "Tovuti ya uongo!">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
+<!ENTITY safeb.blocked.harmfulPage.title "Tovuti inayofuata inaweza kuwa na programu hasidi">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; imezuia ukurasa huu kwa sababu inaweza kujaribu kusakinisha programu hatari ambazo huiba au kufuta taarifa yako (kwa mfano, picha, nywila, ujumbe na kadi za mkopo).">
