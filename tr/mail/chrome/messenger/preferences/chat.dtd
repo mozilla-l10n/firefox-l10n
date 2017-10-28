@@ -42,8 +42,15 @@ sentence. -->
 <!ENTITY  browse.label                        "Gözat…">
 <!ENTITY  browse.accesskey                    "G">
 
+<!ENTITY messageStyleTab.title             "Mesaj Stilleri">
 <!ENTITY messageStylePreview.label         "Ön izleme:">
 <!ENTITY messageStyleTheme.label           "Tema:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Balonlar">
+<!ENTITY messageStyleDarkTheme.label       "Koyu">
+<!ENTITY messageStylePaperSheetsTheme.label "Kâğıt Sayfaları">
+<!ENTITY messageStyleSimpleTheme.label     "Basit">
 <!ENTITY messageStyleDefaultTheme.label    "Varsayılan">
+<!ENTITY messageStyleNoPreview.title       "Ön izleme yok">
+<!ENTITY messageStyleNoPreview.description "Bu tema geçersiz veya şu anda kullanılamıyor (devre dışı bırakılmış eklenti, güvenli mod…).">

@@ -15,7 +15,7 @@
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Aç">
 <!ENTITY cmd.open.accesskey                        "A">
-<!ENTITY cmd.removeFromHistory.label               "Geçmişten Kaldır">
+<!ENTITY cmd.removeFromHistory.label               "Geçmişten kaldır">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
 <!ENTITY cmd.clearList.label                       "Listeyi temizle">
 <!ENTITY cmd.clearList.accesskey                   "e">

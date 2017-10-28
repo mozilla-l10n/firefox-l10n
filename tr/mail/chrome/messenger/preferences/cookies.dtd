@@ -7,9 +7,9 @@
 <!ENTITY cookiesonsystem.label             "Aşağıdaki çerezler bilgisayarınızda depolanmıştır:">
 <!ENTITY cookiename.label                  "Çerez adı">
 <!ENTITY cookiedomain.label                "Site">
-<!ENTITY button.removecookie.label         "Çerezi Kaldır">
+<!ENTITY button.removecookie.label         "Çerezi sil">
 <!ENTITY button.removecookie.accesskey     "r">
-<!ENTITY button.removeallcookies.label     "Tüm Çerezleri Kaldır">
+<!ENTITY button.removeallcookies.label     "Tüm çerezleri sil">
 <!ENTITY button.removeallcookies.accesskey "T">
 
 <!ENTITY props.name.label                  "Ad:">

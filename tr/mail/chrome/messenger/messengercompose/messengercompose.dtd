@@ -272,14 +272,14 @@
 <!ENTITY copy.accesskey "o">
 <!ENTITY paste.label "Yapıştır">
 <!ENTITY paste.accesskey "a">
-<!ENTITY pasteQuote.label "Alıntı Olarak Yapıştır">
+<!ENTITY pasteQuote.label "Alıntı olarak yapıştır">
 <!ENTITY pasteQuote.accesskey "A">
 
 <!ENTITY openAttachment.label "Aç">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Sil">
 <!ENTITY delete.accesskey "S">
-<!ENTITY removeAttachment.label "Eki Kaldır">
+<!ENTITY removeAttachment.label "Eki kaldır">
 <!ENTITY removeAttachment.accesskey "k">
 <!ENTITY renameAttachment.label "Adını Değiştir…">
 <!ENTITY renameAttachment.accesskey "r">

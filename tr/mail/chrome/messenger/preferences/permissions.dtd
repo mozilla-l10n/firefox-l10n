@@ -7,9 +7,9 @@
 
 <!ENTITY treehead.sitename.label      "Site">
 <!ENTITY treehead.status.label        "Durum">
-<!ENTITY removepermission.label       "Siteyi Kaldır">
+<!ENTITY removepermission.label       "Siteyi sil">
 <!ENTITY removepermission.accesskey   "S">
-<!ENTITY removeallpermissions.label   "Tüm Siteleri Kaldır">
+<!ENTITY removeallpermissions.label   "Tüm siteleri sil">
 <!ENTITY removeallpermissions.accesskey "e">
 <!ENTITY address.label                "Web site adresi:">
 <!ENTITY address.accesskey            "d">

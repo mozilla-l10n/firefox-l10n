@@ -13,7 +13,7 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Farklı Yapıştır">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY pasteAsQuotationCmd.label "Alıntı Olarak Yapıştır">
+<!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Bul…">

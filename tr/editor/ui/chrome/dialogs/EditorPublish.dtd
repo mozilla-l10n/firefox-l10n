@@ -38,7 +38,7 @@
 <!ENTITY filenameExample.label        "ör.: &quot;sayfam.html&quot;">
 <!ENTITY setDefaultButton.label       "Varsayılan olarak ayarla">
 <!ENTITY setDefaultButton.accesskey   "V">
-<!ENTITY removeButton.label           "Siteyi Kaldır">
+<!ENTITY removeButton.label           "Siteyi kaldır">
 <!ENTITY removeButton.accesskey       "r">
 
 <!-- Settings Tab Panel -->
