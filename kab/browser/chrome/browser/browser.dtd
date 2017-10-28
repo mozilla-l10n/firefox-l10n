@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ldi agalis n yizen">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ldi agalis n usuter n wadig">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ldi agalis n yizen i wesbded n uzegrir">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Sefrek tasiregt n usuffeɣ n tneɣruft">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ldi agalis n yizen n usekles aruqqin">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ldi agalis n yizen n wawal uffir yettwakelsen">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n izegrar">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n isefka i usmelweb-a.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-a.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n isefka i usmelweb-a.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Tesweḥleḍ asfaylu udhim i usmel-agi.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
 
