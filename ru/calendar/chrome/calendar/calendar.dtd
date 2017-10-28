@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Сегодня">
 <!ENTITY calendar.tomorrow.button.label       "Завтра">
-<!ENTITY calendar.upcoming.button.label       "Скоро">
+<!ENTITY calendar.upcoming.button.label       "Предстоящие">
 
 <!ENTITY calendar.events.filter.all.label "Все события">
 <!ENTITY calendar.events.filter.today.label "События на сегодня">
