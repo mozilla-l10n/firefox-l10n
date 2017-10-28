@@ -859,6 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "आपल्या साधनपट्टीच्या बाहेर पण त्वरित उपलब्ध होण्यासाठी ओढून घटक इथे सोडा…">
 <!ENTITY customizeMode.overflowList.title2 "ओव्हरफ्लो मेनू">
+<!ENTITY customizeMode.overflowList.description "आपल्या साधनपट्टीच्या पोहोचतायेण्यासारखे परंतु बाहेर ठेवण्यासाठी आयटम येथे ड्रॅग आणि ड्रॉप करा…">
 <!ENTITY customizeMode.uidensity "घनता">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->

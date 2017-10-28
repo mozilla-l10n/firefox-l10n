@@ -33,11 +33,11 @@
 <!ENTITY btnPageSecurity.label "सुरक्षा">
 <!ENTITY btnPageSecurity.tooltip "सुरक्षा त्रुटी व सावधानतेचा लॉग">
 <!ENTITY btnPageSecurity.accesskey "u">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
 <!ENTITY btnPageLogging.label   "लॉगिंग">
 <!ENTITY btnPageLogging.tooltip "window.console घटकाकरिता पाठवलेले लॉग संदेश पाठवा">
 <!ENTITY btnPageLogging.accesskey3 "L">
@@ -47,10 +47,10 @@
 <!ENTITY btnConsoleLog          "लॉग">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "रिफ्लोज">
+
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
-
 <!ENTITY btnServerLogging.label       "सर्व्हर">
 <!ENTITY btnServerLogging.tooltip     "वेब सर्व्हर वरून आलेले नोंद संदेश">
 <!ENTITY btnServerLogging.accesskey   "S">
@@ -58,9 +58,9 @@
 <!ENTITY btnServerInfo                "माहिती">
 <!ENTITY btnServerWarnings            "सावधानता">
 <!ENTITY btnServerLog                 "लॉग">
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
-
 <!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
@@ -75,15 +75,14 @@
 <!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "‌">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "‌">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "‌">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY copyURLCmd.label     "दुवा ठिकाण्याचे प्रत बनवा">
 <!ENTITY copyURLCmd.accesskey "a">
