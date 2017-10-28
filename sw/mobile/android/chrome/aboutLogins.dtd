@@ -6,3 +6,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Kuingia">
 <!ENTITY aboutLogins.update                      "Sashisa">
+<!ENTITY aboutLogins.emptyLoginText              "Weka kuingia kwako salama">
+<!ENTITY aboutLogins.emptyLoginHint              "Kuingia na hati za utambulisho unazohifadhi ukitumia &brandShortName; itaonyeshwa hapa.">
