@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Основные">
+
 <!ENTITY  startupAction.label         "При запуске &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "а">
 <!ENTITY  startupOffline.label        "Не подключать учётные записи чата">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Обзор…">
 <!ENTITY  browse.accesskey                    "з">
 
+<!ENTITY messageStyleTab.title             "Стиль сообщений">
+<!ENTITY messageStylePreview.label         "Предпросмотр:">
+<!ENTITY messageStyleTheme.label           "Тема:">
+<!ENTITY messageStyleTheme.accesskey       "е">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Пузырьки">
+<!ENTITY messageStyleDarkTheme.label       "Тёмная">
+<!ENTITY messageStylePaperSheetsTheme.label "Листы бумаги">
+<!ENTITY messageStyleSimpleTheme.label     "Простая">
+<!ENTITY messageStyleDefaultTheme.label    "Стандартная">
+<!ENTITY messageStyleVariant.label         "Вариант:">
+<!ENTITY messageStyleVariant.accesskey     "а">
+<!ENTITY messageStyleShowHeader.label      "Отображать заголовок">
+<!ENTITY messageStyleShowHeader.accesskey  "ж">
+<!ENTITY messageStyleNoPreview.title       "Предпросмотр недоступен">
+<!ENTITY messageStyleNoPreview.description "Эта тема повреждена или в настоящее время недоступна (отключено дополнение, включен безопасный режим…).">
