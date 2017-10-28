@@ -856,6 +856,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Peeragol Keertingol + Ndeenka Dewindol">
 <!ENTITY private_tab_panel_description "&brandShortName; ina daaƴa huunde e kelle baawɗe rewindaande peeragol maa.">
+<!ENTITY private_tab_panel_description2 "Min ciiftortaa hay aslol gootol, kono piile e maantore gaawtaaɗe ma njokku danndeede e masiŋel maa.">
 <!ENTITY private_tab_learn_more "Aɗa yiɗi beydude humpito?">
 
 <!ENTITY fullscreen_warning "Kiɓɓal yaynirde naataama">
