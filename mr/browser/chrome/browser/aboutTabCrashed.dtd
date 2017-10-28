@@ -24,6 +24,7 @@
 <!ENTITY tabCrashed.requestReport "ही टॅब नोंदवा">
 <!ENTITY tabCrashed.sendReport3 "स्वयंचलित क्रॅश अहवाल पाठवा जेणेकरून आम्ही यासारख्या समस्यांचे निवारण करू शकू.">
 <!ENTITY tabCrashed.commentPlaceholder2 "पर्यायी टिपण्णी (टिपण्णी सार्वजनिकरित्या दृष्यास्पद आहे)">
+<!ENTITY tabCrashed.includeURL3 "& amp; SHORTName; क्रॅश झाल्यावर आपण ज्या संकेतस्थळांवर होतात त्या URL अंतर्भूत करा.">
 <!ENTITY tabCrashed.emailPlaceholder "आपला ईमेल पत्ता येथे प्रविष्ट करा">
 <!ENTITY tabCrashed.emailMe "अधिक माहिती उपलब्ध झाल्यास मला ईमेल करा">
 <!ENTITY tabCrashed.reportSent "क्रॅश अहवाल आधीच सादर केला आहे; &brandShortName; अधिक चांगले बनविण्यास मदत केल्याबद्दल आपले धन्यवाद !">
