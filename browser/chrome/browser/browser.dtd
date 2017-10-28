@@ -229,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблакавалі апавяшчэнні з гэтага вэб-сайта.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "Вы заблакавалі выплыўныя вокны для гэтага вэб-сайта.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Паказаць гісторыю">
 
 <!ENTITY searchItem.title             "Пошук">
