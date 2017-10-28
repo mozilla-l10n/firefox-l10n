@@ -22,8 +22,8 @@
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Tarkista osoite kirjoitusvirheiden varalta: esim.
-    <strong>ww</strong>.mozilla.org oikean muodon,
-    <strong>www</strong>.mozilla.org, sijaan</li>
+    <strong>ww</strong>.example.com oikean muodon,
+    <strong>www</strong>.example.com, sijaan</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Haku</button>
