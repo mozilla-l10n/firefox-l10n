@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problemă la încărcarea paginii">
 <!ENTITY retry.label "Încearcă din nou">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nu se poate conecta">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Server negăsit">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Verifică adresa de erori de tastare cum ar fi <strong>ww</strong>.exemplu.ro în loc de <strong>www</strong>.exemplu.ro</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Caută</button> </div> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului. <button id='wifi'>Activează Wi-Fi-ul</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Verifică adresa de erori de tastare cum ar fi <strong>ww</strong>.example.com în loc de <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Caută</button> </div> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului. <button id='wifi'>Activează Wi-Fi-ul</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifică ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verifică ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.title "Adresa nu este validă">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul> <li>Adresele web se scriu de obicei așa <strong>http://www.exemplu.ro/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Caută</button> </div> <li>Asigură-te că folosești slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Adresele web se scriu de obicei așa <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Caută</button> </div> <li>Asigură-te că folosești slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Aceasta s-ar putea datora unei probleme în configurația serverului sau ar putea să fie cineva care încearcă să uzurpeze identitatea serverului.</li> <li>Dacă te-ai conectat cu succes în trecut la acest server, eroarea poate fi temporară și poți încerca din nou mai târziu.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou în câteva momente.</li> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului. <button id='wifi'>Activează Wi-Fi-ul</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Sau poți adăuga o excepție…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Du-mă de aici!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adaugă excepție…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adaugi o excepție dacă folosești o conexiune la internet în care nu ai încredere în totalitate sau dacă nu ești obișnuit să vezi un avertisment pentru acest server.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
