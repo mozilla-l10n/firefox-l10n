@@ -57,7 +57,7 @@
 <!ENTITY performanceUI.table.selfDuration             "Man-ukud ">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "Akud yezrin kan di twuri-yagi.">
 <!ENTITY performanceUI.table.totalPercentage          "Asamday n tesqamt">
-<!ENTITY performanceUI.table.totalPercentage.tooltip  "Afmiḍi n wakud yezrin di twuri-yagi yakk di tigad imumi tsawel.">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "Afmiḍi n wakud yezrin di twuri-yagi akked di tigad imumi tsawel.">
 <!ENTITY performanceUI.table.selfPercentage           "Tasqamt tasuft">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Afmiḍi n wakud yezrin di twuri-yagi.">
 <!ENTITY performanceUI.table.samples                  "Imadyaten">
@@ -85,13 +85,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "Tti udlif">
-<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Tuţya n udlif ad isken iberdan n isawalen iţumeɣnun seg izilalen imaynuten ɣer iqbuṛen.">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Tuttya n udlif ad isken iberdan n isawalen ittumeɣnun seg izilalen imaynuten ɣer iqbuṛen.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Sken isefka n telɣubliṭ Gecko">
-<!ENTITY performanceUI.showPlatformData.tooltiptext "Askan n isefka n telɣubliṭ ad irmed issaɣen n umaɣnay Javascript akken ad iseddu izumal n telɣubliṭ Gecho.">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Askan n isefka n telɣubliṭ ad irmed issaɣen n umaɣnay Javascript akken ad iseddu izamulen n telɣubliṭ Gecho.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
