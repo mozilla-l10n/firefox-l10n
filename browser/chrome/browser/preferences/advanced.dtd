@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Հիմնական">
 
@@ -23,17 +23,18 @@
 <!ENTITY checkUserSpelling.accesskey     "մ">
 
 <!ENTITY dataChoicesTab.label            "Ընտրել տվյալները">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-
+<!ENTITY enableHealthReport2.label       "Թույլատրել &brandShortName;-ին ուղարկել տեխնիկական և փոխազդելու տվյալներ Mozilla-ին">
 <!ENTITY healthReportLearnMore.label     "Իմանալ ավելին">
 
+<!ENTITY dataCollection.label            "&brandShortName;-ի տվյալների հավաքում և օգտագործում">
+<!ENTITY dataCollectionDesc.label        "Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել միայն այն ժամանակ, երբ մեզ պետք է տրամադրել և լավարկել &brandShortName;-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թույլտվությյուն՝ մինչև անձնական տեղեկություններ ստանալը:">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Թույլատրել &brandShortName;-ին ուղարկել վթարի զեկույցներ Mozilla-ին">
 <!ENTITY crashReporterLearnMore.label    "Իմանալ ավելին">
 
 <!ENTITY networkTab.label                "Ցանցը">
@@ -46,21 +47,21 @@ available. -->
 <!ENTITY httpCache.label                 "Կուտակել ցանցային բովանդակությունը">
 
 <!ENTITY offlineStorage2.label           "Ցանցից դուրս ցանցային բովանդակություն և օգտատերի տվյալներ">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Կայքի տվյալը">
 <!ENTITY clearSiteData.label             "Մաքրել բոլոր տվյալները">
 <!ENTITY clearSiteData.accesskey         "ա">
 <!ENTITY siteDataSettings.label          "Կարգավորումներ...">
 <!ENTITY siteDataSettings.accesskey      "վ">
 <!ENTITY siteDataLearnMoreLink.label     "Իմանալ ավելին">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Սահմանափակել պահոցը՝">
 <!ENTITY limitCacheSizeBefore.accesskey  "Ս">
 <!ENTITY limitCacheSizeAfter.label       "ՄԲ">
@@ -72,11 +73,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "Վ">
 
 <!ENTITY updateTab.label                 "Թարմացնել">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "&brandShortName;-ի թարմացումներ">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -87,8 +88,6 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Տարբերակ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Թույլատրել &brandShortName;-ին">
-
-
 <!ENTITY updateCheckChoose2.label        "Ստուգել թարմացումները, բայց ես կընտրեմ, թե որը տեղադրել">
 <!ENTITY updateCheckChoose2.accesskey    "Ս">
 <!ENTITY updateManual2.label             "Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)">
@@ -122,19 +121,18 @@ available. -->
 <!ENTITY enableOCSP.label                "Հարցում OCSP պատասխանիչի սպասարկիչին՝ հաստատելու հավաստագրի իսկությունը">
 <!ENTITY enableOCSP.accesskey            "Հ">
 
-
-
-
-
 <!ENTITY performance.label               "Արտադրողականություն">
-<!ENTITY useRecommendedPerformanceSettings2.label "Օգտ. արտադրողականության հանձնարարելի կարգավորումները">
-<!ENTITY useRecommendedPerformanceSettings2.description "Այս կարգավորումները հարմարեցված են ձեր համակարգչի սարքաշարին և օպերացիոն համակարգին:">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "Օ">
-<!ENTITY performanceSettingsLearnMore.label "Իմանալ ավելին">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Օգտ. արտադրողականության հանձնարարելի կարգավորումները">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Այս կարգավորումները հարմարեցված են ձեր համակարգչի սարքաշարին և օպերացիոն համակարգին:">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "Օ">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Իմանալ ավելին">
 <!ENTITY limitContentProcessOption.label "Բովանդակության ընթացքի սահմանափակում">
-<!ENTITY limitContentProcessOption.description "Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:">
+<!ENTITY limitContentProcessOption.description
+                                         "Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:">
 <!ENTITY limitContentProcessOption.accesskey   "ս">
-
-
 <!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
 <!ENTITY allowHWAccel.accesskey          "ր">

@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Անվտանգուրյուն">
 
+<!ENTITY  warnOnAddonInstall2.label       "Զգուշացնել, երբ կայքերը փորձում են տեղադրել հավելումներ">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
