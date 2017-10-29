@@ -138,7 +138,7 @@
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "Exequer">
+<!ENTITY executeMenu.label            "Execution">
 <!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches

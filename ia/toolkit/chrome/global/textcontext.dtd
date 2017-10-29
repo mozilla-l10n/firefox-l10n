@@ -10,7 +10,7 @@
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY undoCmd.label "Disfacer">
 <!ENTITY undoCmd.accesskey "D">
-<!ENTITY selectAllCmd.label "Selectionar toto">
+<!ENTITY selectAllCmd.label "Seliger toto">
 <!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Deler">
 <!ENTITY deleteCmd.accesskey "d">

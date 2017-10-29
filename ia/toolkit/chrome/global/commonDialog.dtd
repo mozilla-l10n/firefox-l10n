@@ -6,8 +6,8 @@
 <!ENTITY message.label    "Hic va un exemplo de texto.">
 <!ENTITY editfield0.label "Nomine de usator:"> 
 <!ENTITY editfield1.label "Contrasigno:"> 
-<!ENTITY checkbox.label   "selectionar">
+<!ENTITY checkbox.label   "seliger">
 <!ENTITY copyCmd.label    "Copiar">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Selectionar toto">
+<!ENTITY selectAllCmd.label "Seliger toto">
 <!ENTITY selectAllCmd.accesskey "t">

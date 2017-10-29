@@ -318,7 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "Deler">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label         "Selectionar toto">
+<!ENTITY selectAllCmd.label         "Seliger toto">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "t">
 <!ENTITY preferencesCmd2.label       "Optiones">

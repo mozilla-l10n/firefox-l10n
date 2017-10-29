@@ -14,7 +14,7 @@
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Aperir un application...">
 <!ENTITY projectMenu_selectApp_accesskey "O">
-<!ENTITY projectMenu_play_label "Installar e facer fluer">
+<!ENTITY projectMenu_play_label "Installar e exequer">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Cessar le applicatin">
 <!ENTITY projectMenu_stop_accesskey "S">

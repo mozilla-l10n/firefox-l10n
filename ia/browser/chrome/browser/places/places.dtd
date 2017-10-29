@@ -102,7 +102,7 @@
 <!ENTITY detailsPane.more.accesskey "s">
 <!ENTITY detailsPane.less.label "Minus">
 <!ENTITY detailsPane.less.accesskey "s">
-<!ENTITY detailsPane.selectAnItemText.description "Selectiona un elemento pro vider e modificar su proprietates">
+<!ENTITY detailsPane.selectAnItemText.description "Selige un elemento pro vider e modificar su proprietates">
 
 <!ENTITY view.label               "Vider">
 <!ENTITY view.accesskey           "r">

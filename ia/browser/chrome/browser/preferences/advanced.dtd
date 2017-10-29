@@ -124,7 +124,7 @@ available. -->
 
 <!ENTITY certificateTab.label            "Certificatos">
 <!ENTITY certPersonal2.description       "Quando un servitor requesta tu certificato personal">
-<!ENTITY selectCerts.auto                "Selectionar un automaticamente">
+<!ENTITY selectCerts.auto                "Seliger un automaticamente">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Questionar te a cata vice">
 <!ENTITY selectCerts.ask.accesskey       "A">

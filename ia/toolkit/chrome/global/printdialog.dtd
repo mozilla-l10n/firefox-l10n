@@ -38,7 +38,7 @@
 <!ENTITY printframeGroup.label "Imprimer le quadros">
 <!ENTITY aslaidoutRadio.label "Como arrangiate in le tela">
 <!ENTITY aslaidoutRadio.accesskey "C">
-<!ENTITY selectedframeRadio.label  "Le quadro selectionate">
+<!ENTITY selectedframeRadio.label  "Le quadro seligite">
 <!ENTITY selectedframeRadio.accesskey  "q">
 <!ENTITY eachframesepRadio.label  "Cata quadro separatemente">
 <!ENTITY eachframesepRadio.accesskey  "E">

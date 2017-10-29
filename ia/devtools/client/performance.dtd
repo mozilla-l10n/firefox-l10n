@@ -71,7 +71,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
-<!ENTITY performanceUI.options.filter.tooltiptext "Selectiona que datos monstrar in le linea de tempore">
+<!ENTITY performanceUI.options.filter.tooltiptext "Selige que datos monstrar in le linea de tempore">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->

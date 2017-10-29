@@ -9,7 +9,7 @@
 <!ENTITY  copy.label            "Copiar">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Selectionar toto">
+<!ENTITY  selectall.label       "Seliger toto">
 <!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 

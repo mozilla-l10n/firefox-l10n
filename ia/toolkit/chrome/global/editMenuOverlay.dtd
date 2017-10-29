@@ -21,7 +21,7 @@
 <!ENTITY pasteCmd.accesskey        "l">
 <!ENTITY deleteCmd.label           "Deler">
 <!ENTITY deleteCmd.accesskey       "d">
-<!ENTITY selectAllCmd.label        "Selectionar toto">
+<!ENTITY selectAllCmd.label        "Seliger toto">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "t">
 <!ENTITY findCmd.label             "Cercar">
