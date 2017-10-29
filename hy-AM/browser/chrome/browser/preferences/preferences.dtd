@@ -13,6 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 48em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
+
 <!ENTITY  paneSearchResults.title       "Որոնման արդյունքներ">
 <!ENTITY  paneGeneral.title             "Ընդհանուր">
 <!ENTITY  paneSearch.title              "Որոնում">
@@ -21,10 +25,9 @@
 <!ENTITY  paneContainers.title          "Պարունակ ներդիրներ">
 <!ENTITY  paneUpdates.title             "Թարմացումներ">
 
-
+<!ENTITY  browserPrivacy.label          "Դիտարկիչի գաղտնիություն">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
-
 <!ENTITY  paneSync1.title          "Firefox-ի Հաշիվ">
 
 <!ENTITY  helpButton2.label        "&brandShortName;-ի աջակցում">

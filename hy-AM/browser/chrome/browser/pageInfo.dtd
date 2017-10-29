@@ -49,14 +49,14 @@
 <!ENTITY  feedSubscribe         "Բաժանորդագրվել">
 <!ENTITY  feedSubscribe.accesskey "Բ">
 
-<!ENTITY  permTab               "Իրավունքներ">
+<!ENTITY  permTab               "Թույլտվություններ">
 <!ENTITY  permTab.accesskey     "Ի">
 <!ENTITY  permUseDefault        "Օգտ. լռելյայն">
 <!ENTITY  permAskAlways         "Միշտ հարցնել">
 <!ENTITY  permAllow             "Թույլատրել">
 <!ENTITY  permAllowSession      "Թույլատրել այս անգամ">
 <!ENTITY  permBlock             "Արգելել">
-<!ENTITY  permissionsFor        "Թույլատրելիությունները `">
+<!ENTITY  permissionsFor        "Թույլտվություններ՝">
 <!ENTITY  permPlugins           "Ակտիվացնել բաղադրիչները">
 
 <!ENTITY  permClearStorage           "Մաքրել պահոցը">

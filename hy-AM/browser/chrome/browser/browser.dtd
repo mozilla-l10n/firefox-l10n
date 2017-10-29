@@ -229,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Դուք արգելափակել եք ծանուցումները այս կայքի համար:">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Դուք արգելափակել եք մշտական պահեստը այս կայքի համար:">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմությունը">
 
 <!ENTITY searchItem.title             "Որոնում">
@@ -783,7 +784,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Մանրամասն">
 
-<!ENTITY identity.permissions "Իրավունքներ">
+<!ENTITY identity.permissions "Թույլտվություններ">
 <!ENTITY identity.permissionsEmpty "Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:">
 <!ENTITY identity.permissionsReloadHint "Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։">
 
@@ -899,16 +900,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Միացնել պաշտպանությունը">
 <!ENTITY trackingProtection.block2.accesskey "Մ">
 
-<!ENTITY trackingContentBlocked.message "Հետագծում">
-<!ENTITY trackingContentBlocked.moreinfo "Էջի հատվածները, որոնք հետևում են ձեր առցանց ակտիվությանը, արգելափակված են:">
-<!ENTITY trackingContentBlocked.learnMore "Իմանալ ավելին">
-<!ENTITY trackingContentBlocked.options "Ընտրանքներ">
-<!ENTITY trackingContentBlocked.unblock2.label "Անջ. պաշտպանությունը այս կայքի համար">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "Ա">
-<!ENTITY trackingContentBlocked.block.label "Միացնել պաշտպանությունը">
-<!ENTITY trackingContentBlocked.block.accesskey "Մ">
-<!ENTITY trackingContentBlocked.disabled.message "Հետագծման պաշտպանությունը անջատված է">
-
 <!ENTITY pluginNotification.showAll.label "Ցուցադրել բոլորը">
 <!ENTITY pluginNotification.showAll.accesskey "Ց">
 
@@ -988,3 +979,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Սարքերի համաժամեցում...">
 
 <!ENTITY libraryButton.tooltip "Դիտել պատմությունը, պահպանված էջանիշերը և ավելին">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
