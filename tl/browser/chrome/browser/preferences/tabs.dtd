@@ -4,6 +4,7 @@
 
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
+<!ENTITY newWindowsAsTabs.label       "Sa halip, buksan ang mga bagong window sa isang bagong tab">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Babalaan ka kapag nagsasara ng maraming mga tab">
