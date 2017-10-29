@@ -51,9 +51,15 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "Chaidh <a id='error_desc_link'>aithris a dhèanamh</a> gur e làrach foille a tha ann an <span id='phishing_sitename'/>. ’S urrainn dhut <a id='report_detection'>aithris a dhèanamh thu fhèin gu bheil rudeigin cearr a thaobh sin</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Faigh barrachd fiosrachaidh mu làraichean foille agus fiasgach aig <a id='learn_more_link'>www.antiphishing.org</a>. Faigh barrachd fiosrachaidh mun dìon a tha &brandShortName;’s a’ toirt dhut o bhathar-bog droch-rùnach agus fiasgach aig <a id='firefox_support'>support.mozilla.org</a>.">
 
 
+<!ENTITY safeb.blocked.harmfulPage.title "Dh’fhaoidte gu bheil bathar-bog droch rùnach air an làrach seo">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Bhac &brandShortName; an duilleag seo oir tha teans gum feuch e ri aplacaidean cunnartach a stàladh a ghoideas no a sguabas às fiosrachadh agad (mar eisimpleir, dealbhan, faclan-faire, teachdaireachdan is cairtean-creideis).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "Chaidh <a id='error_desc_link'>aithris a dhèanamh gu bheul aplacaid chunnartach</a> air <span id='harmful_sitename'/>. ’S urrainn dhut <a id='ignore_warning_link'>an cunnart a leigeil seachad</a> agus tadhal air an làrach mhì-shàbhailte co-dhiù.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "Chaidh <a id='error_desc_link'>aithris a dhèanamh gu bheul aplacaid chunnartach</a> air <span id='harmful_sitename'/>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Faigh barrachd fiosrachaidh mun dìon a tha &brandShortName;’s a’ toirt dhut o bhathar-bog droch-rùnach agus fiasgach aig <a id='firefox_support'>support.mozilla.org</a>.">
