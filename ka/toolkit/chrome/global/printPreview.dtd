@@ -35,7 +35,7 @@
 <!ENTITY simplifyPage.label   "გვერდის გამარტივება">
 <!ENTITY simplifyPage.accesskey "ტ">
 <!ENTITY simplifyPage.enabled.tooltip  "შეცვალეთ განლაგება გამარტივებული კითხვისთვის">
-<!ENTITY simplifyPage.disabled.tooltip "ეს გვერდი ავტომატურად ვერ გამარტივდება">
+<!ENTITY simplifyPage.disabled.tooltip "ამ გვერდის ავტომატურად გამარტივება შეუძლებელია">
 
 <!ENTITY homearrow.tooltip    "პირველი გვერდი">
 <!ENTITY endarrow.tooltip     "ბოლო გვერდი">
