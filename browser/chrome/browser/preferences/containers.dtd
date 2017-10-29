@@ -7,16 +7,18 @@
 <!ENTITY preferencesButton.label "Նախընտրություններ">
 <!ENTITY removeButton.label   "Հեռացնել">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "&#171; Հետ գնալ">
 
 <!ENTITY window.title         "Ավելացնել նոր պարունակ">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "Անուն">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Մուտքագրեք պարունակի անունը">
-
-
-
-
+<!ENTITY icon2.label          "Պատկերակ">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Գույն">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Պատրաստ է">
