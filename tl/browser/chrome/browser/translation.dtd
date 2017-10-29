@@ -17,6 +17,7 @@
 <!ENTITY translation.translate.button           "Isalin">
 <!ENTITY translation.notNow.button              "Hindi Ngayon">
 
+<!ENTITY translation.translatingContent.label   "Pagsasalin sa nilalaman ng pahina...">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -38,9 +39,12 @@
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "Ipakita ang orihinal">
+<!ENTITY translation.showTranslation.button     "Ipakita ang Pagsasalin">
 
+<!ENTITY translation.errorTranslating.label     "Nagkaroon ng error sa pagsasalin ng pahinang ito.">
 <!ENTITY translation.tryAgain.button            "Ulitin">
 
+<!ENTITY translation.serviceUnavailable.label   "Ang pagsasalin ay hindi magagamit sa sandaling ito. Subukang muli mamaya.">
 
 <!ENTITY translation.options.menu               "Options">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -50,6 +54,7 @@
   -->
 <!ENTITY translation.options.neverForSite.label "Huwag kailanman isalin ang site na ito">
 <!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "Mga kagustuhan sa pagsasalin">
 <!ENTITY translation.options.preferences.accesskey "T">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -57,6 +62,7 @@
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+<!ENTITY translation.options.attribution.beforeLogo "Pagsasalin ni">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
@@ -66,3 +72,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
+<!ENTITY translation.options.attribution.yandexTranslate "Pinapagana ng Yandex.Translate">
