@@ -172,7 +172,7 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Inviar a un altere apparato">
 <!ENTITY overlay_share_no_url "Nulle ligamine trovate in iste compartimento">
-<!ENTITY overlay_share_select_device "Selectionar le apparato">
+<!ENTITY overlay_share_select_device "Seliger le apparato">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
@@ -546,7 +546,7 @@
 <!ENTITY bookmark_edit_name "Nomine">
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Parola clave">
-<!ENTITY bookmark_select_folder "Selectionar un dossier">
+<!ENTITY bookmark_select_folder "Seliger un dossier">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
