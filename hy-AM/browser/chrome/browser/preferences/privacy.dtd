@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Հետագծման պաշտպանություն">
-
-
+<!ENTITY  trackingProtection2.description      "Հետագծումը դա ձեր դիտարկումների տվյալների հավաքումն է բազմաթիվ կայքերից: Այն կարող է օգտագործվել կառուցելու պրոֆիլ և ցուցադրելու բովանդակություն՝ ձեր դիտարկումների և անձնական տեղեկություների վրա հիմնված:">
 <!ENTITY  trackingProtectionAlways.label       "Միշտ">
 <!ENTITY  trackingProtectionAlways.accesskey   "շ">
 <!ENTITY  trackingProtectionPrivate.label      "Միայն գաղտնի պատուհաններում">
@@ -14,26 +13,23 @@
 <!ENTITY  trackingProtectionLearnMore.label    "Իմանալ ավելին">
 <!ENTITY  trackingProtectionExceptions.label   "Բացառություններ…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ա">
+
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-
-<!ENTITY trackingProtectionPBM5.label         "Օգտ. հետագծման պաշտպանությունը Գաղտնի պատուհանում">
+<!ENTITY trackingProtectionPBM5.label         "Օգտագործել հետագծման պաշտպանությունը Գաղտնի պատուհաններում">
 <!ENTITY trackingProtectionPBM5.accesskey     "տ">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Օգտագործել հետագծման պաշտպանությունը՝ հայտնի հետագծիչները արգելափակելու համար">
 <!ENTITY trackingProtectionPBMLearnMore.label "Իմանալ ավելին">
 
-
-
-
-
-
+<!ENTITY  doNotTrack.description        "Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծվել">
+<!ENTITY  doNotTrack.default.label      "Միայն Հետագծման պաշտպանությունը օգտագործելիս">
 
 <!ENTITY  history.label                 "Պատմություն">
 
-
-
-
-
+<!ENTITY  addressBar.label              "Հասցեագոտի">
+<!ENTITY  addressBar.suggest.label      "Հասցեագոտին օգտագործելիս առաջարկել">
+<!ENTITY  locbar.history2.label         "Դիտարկման պատմություն">
 <!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
 <!ENTITY  locbar.bookmarks.accesskey    "ի">
 <!ENTITY  locbar.openpage.label         "Բացել ներդիրները">
@@ -44,12 +40,8 @@
 <!ENTITY  suggestionSettings2.label     "Փոխել որոնիչների նախապատվությունները">
 
 
-
-
-
 <!ENTITY  acceptThirdParty.never.label    "Երբեք">
 <!ENTITY  acceptThirdParty.visited.label  "Այցելածներից">
-
 
 
 <!ENTITY  expire.label                  "ավարտման ժամկերը">
@@ -69,10 +61,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName;-ը հիշելու է ձեր դիտարկումները, ներբեռնումները, լրացված ձևերը, որոնման պատմությունը և պահելու է cookie-ները:">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Դուք կարող եք ">
 <!ENTITY  rememberActions.clearHistory.label  "մաքրել վերջին պատմությունը">
 <!ENTITY  rememberActions.middle.label        " կամ ">
@@ -80,9 +72,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName;ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Դուք նաև հնարավոր է ցանկանաք">
 <!ENTITY  dontrememberActions.clearHistory.label "մաքրել ողջ ընթացիկ պատմությունը">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -107,3 +99,4 @@
 <!ENTITY  browserContainersEnabled.accesskey    "ի">
 <!ENTITY  browserContainersSettings.label        "Կարգավորումներ...">
 <!ENTITY  browserContainersSettings.accesskey    "ր">
+

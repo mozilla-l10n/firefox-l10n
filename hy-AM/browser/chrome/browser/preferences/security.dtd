@@ -5,7 +5,6 @@
 <!ENTITY  security.label                 "Անվտանգուրյուն">
 
 
-
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,7 +25,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Ձևեր և գաղտնաբառեր">
 
-
+<!ENTITY  rememberLogins2.label         "Հիշել մուտքագրումները և գաղտնաբառերը կայքերի համար">
 <!ENTITY  passwordExceptions.label      "Բացառություններ…">
 <!ENTITY  passwordExceptions.accesskey  "ա">
 

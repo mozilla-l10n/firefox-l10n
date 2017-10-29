@@ -4,21 +4,25 @@
 
 <!ENTITY  fontsDialog.title                       "Տառատեսակներ">
 
+<!ENTITY  fonts.label                             "Տառատեսակներ">
+<!ENTITY  fonts.accesskey                         "F">
 
-
+<!ENTITY  size2.label                             "Չափը">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "ի">
 
+<!ENTITY  proportional2.label                     "Համամասնական">
+<!ENTITY  proportional2.accesskey                 "P">
 
-
-
-
-
-
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Լատիներեն">
 <!ENTITY  font.langGroup.japanese                 "Ճապոներեն">
 <!ENTITY  font.langGroup.trad-chinese             "Ավանդական Չիներեն (Թայվան)">
@@ -49,10 +53,11 @@
 <!ENTITY  font.langGroup.sinhala                  "Սինգալյան">
 <!ENTITY  font.langGroup.tibetan                  "Թիբեթերեն">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "Տառատեսակի նվազագույն չափ">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Չնշված">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Հստակ">
 <!ENTITY  useDefaultFontSansSerif.label           "Գծիկավոր">
 
@@ -60,8 +65,6 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "Է">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Գրանշանի կոդավորումը տարբերանշանի բովանդակության համար">
-
-
 <!ENTITY languages.customize.Fallback2.desc       "Գրանշանի կոդավորումը օգտագործվում է այն տարբերանշանի բովանդակության համար, որը չի կարողանում որոշել իր կոդավորումը:">
 
 <!ENTITY languages.customize.Fallback.auto        "Ծրագրայինը տվյալ լեզվի համար">
