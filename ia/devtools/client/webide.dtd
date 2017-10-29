@@ -10,15 +10,15 @@
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Aperir un application impacchettate…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
-<!ENTITY projectMenu_importHostedApp_label "Aperir un application albergate…">
+<!ENTITY projectMenu_importHostedApp_label "Aperir un application in un hoste…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Aperir un application...">
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Installar e exequer">
 <!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "Cessar le applicatin">
+<!ENTITY projectMenu_stop_label "Cessar le application">
 <!ENTITY projectMenu_stop_accesskey "S">
-<!ENTITY projectMenu_debug_label "Facer le debug del application">
+<!ENTITY projectMenu_debug_label "Depurar le application">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Remover le projecto">
 <!ENTITY projectMenu_remove_accesskey "R">
@@ -28,8 +28,8 @@
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "Actualisar le schedas">
 
-<!ENTITY runtimeMenu_label "Execution">
-<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_label "Ambiente de execution">
+<!ENTITY runtimeMenu_accesskey "A">
 <!ENTITY runtimeMenu_disconnect_label "Disconnecter se">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_takeScreenshot_label "Instantaneo de schermo">

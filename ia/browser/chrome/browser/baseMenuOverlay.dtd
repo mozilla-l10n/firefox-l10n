@@ -29,7 +29,7 @@
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "Reporto de sanitate de &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "R">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informationes de diagnostico">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
