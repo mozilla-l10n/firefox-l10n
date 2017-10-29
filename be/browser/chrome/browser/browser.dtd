@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Адкрыць панэль паведамленняў">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Адкрыць панэль запытаў месцазнаходжання">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Адкрыць панэль паведамленняў аб усталяванні дадатка">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Кіраванне доступам да інфармацыі ў canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Адкрыць панэль паведамленняў пазасеткавага сховішча">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Адкрыць панэль паведамленняў аб захаванні пароля">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Кіраваць выкарыстаннем плагіна">
