@@ -26,7 +26,7 @@
 <!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "Nove fenestra">
-<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.accesskey       "f">
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Aperir un file…">
@@ -90,7 +90,7 @@
 <!ENTITY display.accesskey            "M">
 <!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "Imprimer bellemente">
+<!ENTITY pprint.label                 "Formatar bellemente">
 <!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 

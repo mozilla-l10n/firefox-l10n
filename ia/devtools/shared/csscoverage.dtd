@@ -31,7 +31,7 @@
   -  <style> tag -->
 <!ENTITY csscoverage.optimize.body1 "Tu pote alcun vices accelerar le carga movente le etiquettas">
 <!ENTITY csscoverage.optimize.body2 "etiquetta al fundo del pagina e crear un nove elemento">
-<!ENTITY csscoverage.optimize.body3 "elemento con le stilos necessari ante le evento ‘load‘ al summitate. Ecce le blocos de stilos que necessita:">
+<!ENTITY csscoverage.optimize.body3 "elemento con le stilos necessari ante le evento ‘load‘ initial. Ecce le blocos de stilos necessari:">
 
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->

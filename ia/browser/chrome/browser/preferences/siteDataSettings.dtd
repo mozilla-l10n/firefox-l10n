@@ -15,5 +15,5 @@
 <!ENTITY     cancel.label                  "Cancellar">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Removente le datos del sito">
-<!ENTITY     removingSelected.description  "Le remover de iste sito tamben removera le cookies e le contento web disconnectite correlative. Isto pote disconnecter te de sitos web. Desira tu vermente facer le cambios?">
+<!ENTITY     removingSelected.description  "Le remover de iste sito tamben removera le cookies e le contento web disconnectite connexe. Isto pote disconnecter te de sitos web. Desira tu vermente facer le cambios?">
 <!ENTITY     siteTree2.label               "Le cookies del sito sequente essera removite">

@@ -11,5 +11,5 @@
                           al gestor de additivos.">
 <!ENTITY continue        "Continuar">
 <!ENTITY restartMessage  "Tu debe reinitiar &brandShortName; pro finir de installar iste additivo.">
-<!ENTITY restartButton   "Relancear &brandShortName;">
+<!ENTITY restartButton   "Reinitiar &brandShortName;">
 <!ENTITY cancelButton    "Cancellar">

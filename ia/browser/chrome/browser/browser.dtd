@@ -290,12 +290,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "File">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nove scheda contextual">
-<!ENTITY newUserContext.accesskey         "l">
+<!ENTITY newUserContext.accesskey         "c">
 <!ENTITY newNavigatorCmd.label        "Nove fenestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nove fenestra private">
-<!ENTITY newPrivateWindow.accesskey "r">
+<!ENTITY newPrivateWindow.accesskey "p">
 <!ENTITY newNonRemoteWindow.label   "Nove fenestra non e10s">
 
 <!ENTITY editMenu.label         "Edition">
@@ -571,9 +571,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pageAction.copyLink.label    "Copiar le ligamine">
 <!ENTITY copyURLFeedback.label        "Copiate!">
 <!ENTITY emailPageCmd.label           "Inviar le ligamine per email…">
-<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Salvar le pagina como…">
-<!ENTITY savePageCmd.accesskey        "g">
+<!ENTITY savePageCmd.accesskey        "v">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -696,7 +696,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarMenuClose.label         "Clauder barra lateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Exir">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.accesskey   "E">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Exir de &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">

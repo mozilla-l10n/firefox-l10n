@@ -42,7 +42,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Schedas aperite">
 <!ENTITY  locbar.openpage.accesskey     "S">
-<!ENTITY  locbar.searches.label         "Recercas correlative ab le motor de recerca predefinite">
+<!ENTITY  locbar.searches.label         "Recercas simile ab le motor de recerca predefinite">
 <!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  suggestionSettings2.label     "Cambiar le preferentias pro le suggestiones del motor de recerca">
