@@ -16,6 +16,7 @@
 <!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
      of the search field in about:preferences, in order to make entire placeholder
      string visible -->
+<!ENTITY  searchField.width             "15.4em">
 
 <!ENTITY  paneSearchResults.title       "Որոնման արդյունքներ">
 <!ENTITY  paneGeneral.title             "Ընդհանուր">
