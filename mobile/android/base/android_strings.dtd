@@ -290,6 +290,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "Zavihki po meri">
+<!ENTITY pref_custom_tabs_summary4 "Dovoli aplikacijam, da odprejo spletno vsebino v hitro nalagajočem se zavihku po meri.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -871,3 +872,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Dodaj na domač zaslon">
 <!ENTITY pwa_continue_to_website "Nadaljuj na spletno stran">
+<!ENTITY pwa_onboarding_sumo "To stran lahko preprosto dodate na svoj domači zaslon za lažji dostop in hitrejše brskanje v načinu, podobnem aplikaciji.">
