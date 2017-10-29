@@ -206,7 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Aperi le pannello de requesta de geolocalisation">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Aperir le pannello de messages de installation de additivos">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gere le permission de extraction del canevas">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir pannello de messages de stockage disconnectite">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir pannello de messages de immagazinage disconnectite">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Aperir pannello de messages de contrasignos salvate">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerer utilisation del plugin">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Indicar si tu pote reciper notificationes del sito">
@@ -226,9 +226,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tu ha blocate tu microphono pro iste sito web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tu ha blocate iste sito web de compartir tu schermo.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tu ha blocate le accesso al geolocalisation pro iste sito web.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tu ha blocate le stockage pro iste sito web.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tu ha blocate le immagazinage pro iste sito web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tu ha blocate iste sito web de inviar notificationes.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tu ha blocate le stockage persistente pro iste sito web.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tu ha blocate le immagazinage persistente pro iste sito web.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Tu ha blocate le fenestras emergente pro iste sito web.">
 

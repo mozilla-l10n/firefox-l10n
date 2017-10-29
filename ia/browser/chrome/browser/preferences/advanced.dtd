@@ -8,7 +8,7 @@
 
 <!ENTITY useCursorNavigation.label       "Sempre usar le claves con le flechas directional pro navigar intra le paginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchOnStartTyping.label       "Cercar le texto quando tu comencia scriber">
+<!ENTITY searchOnStartTyping.label       "Cercar le texto quando tu comencia a scriber">
 <!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY useOnScreenKeyboard.label       "Monstrar un claviero tactile quando necessari">
 <!ENTITY useOnScreenKeyboard.accesskey   "M">

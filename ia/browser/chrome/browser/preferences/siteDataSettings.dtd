@@ -5,7 +5,7 @@
 <!ENTITY     window.title                  "Parametros - Datos del sitos">
 <!ENTITY     hostCol.label                 "Sito">
 <!ENTITY     statusCol.label               "Stato">
-<!ENTITY     usageCol.label                "Stockage">
+<!ENTITY     usageCol.label                "Immagazinage">
 <!ENTITY     searchTextboxPlaceHolder             "Cercar sitos web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Remover le selecitonates">

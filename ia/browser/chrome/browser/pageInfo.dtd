@@ -59,7 +59,7 @@
 <!ENTITY  permissionsFor        "Permissiones pro:">
 <!ENTITY  permPlugins           "Activar le plugins">
 
-<!ENTITY  permClearStorage           "Vacuar le datos stockate">
+<!ENTITY  permClearStorage           "Vacuar le immagazinage">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Securitate">

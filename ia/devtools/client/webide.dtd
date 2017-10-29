@@ -9,46 +9,46 @@
 <!ENTITY projectMenu_newApp_label "Nove application…">
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Aperir un application impacchettate…">
-<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importPackagedApp_accesskey "e">
 <!ENTITY projectMenu_importHostedApp_label "Aperir un application in un hoste…">
-<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_importHostedApp_accesskey "h">
 <!ENTITY projectMenu_selectApp_label "Aperir un application...">
-<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_selectApp_accesskey "A">
 <!ENTITY projectMenu_play_label "Installar e exequer">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Cessar le application">
-<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_stop_accesskey "C">
 <!ENTITY projectMenu_debug_label "Depurar le application">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Remover le projecto">
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferentias">
-<!ENTITY projectMenu_showPrefs_accesskey "e">
-<!ENTITY projectMenu_manageComponents_label "Gerer les componentes additional">
-<!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_showPrefs_accesskey "P">
+<!ENTITY projectMenu_manageComponents_label "Gerer le componentes additional">
+<!ENTITY projectMenu_manageComponents_accesskey "G">
 <!ENTITY projectMenu_refreshTabs_label "Actualisar le schedas">
 
 <!ENTITY runtimeMenu_label "Ambiente de execution">
 <!ENTITY runtimeMenu_accesskey "A">
 <!ENTITY runtimeMenu_disconnect_label "Disconnecter se">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_takeScreenshot_label "Instantaneo de schermo">
-<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_takeScreenshot_label "Instantaneo del schermo">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "I">
 <!ENTITY runtimeMenu_showDetails_label "Informationes sur le ambiente de execution">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showDetails_accesskey "n">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-<!ENTITY runtimeMenu_showDevicePrefs_label "Preferentias de apparato">
-<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferentias del apparato">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "r">
 <!ENTITY runtimeMenu_showSettings_label "Parametros del apparato">
-<!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showSettings_accesskey "P">
 
 <!ENTITY viewMenu_label "Vider">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_zoomin_label "Aggrandir">
-<!ENTITY viewMenu_zoomin_accesskey "I">
-<!ENTITY viewMenu_zoomout_label "Reducer">
-<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_zoomin_label "Approximar">
+<!ENTITY viewMenu_zoomin_accesskey "A">
+<!ENTITY viewMenu_zoomout_label "Distantiar">
+<!ENTITY viewMenu_zoomout_accesskey "D">
 <!ENTITY viewMenu_resetzoom_label "Remontar le zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
@@ -71,7 +71,7 @@
 <!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Mi projectos">
-<!ENTITY projectPanel_runtimeApps "Applicationes del ambiente de execution">
+<!ENTITY projectPanel_runtimeApps "Applicationes del ambiente">
 <!ENTITY projectPanel_tabs "Schedas">
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
@@ -109,7 +109,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurar le predefinitiones">
-<!ENTITY prefs_manage_components "Gerer les componentes additional">
+<!ENTITY prefs_manage_components "Gerer le componentes additional">
 <!ENTITY prefs_options_autoconnectruntime "Reconnecter al previe ambiente de execution">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnecter al previe ambiente de execution alora que WebIDE parti">
 <!ENTITY prefs_options_rememberlastproject "Memorisar le ultime projecto">
