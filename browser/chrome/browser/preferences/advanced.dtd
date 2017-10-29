@@ -128,7 +128,7 @@ available. -->
 <!ENTITY selectCerts.auto.accesskey      "D">
 <!ENTITY selectCerts.ask                 "Naamno mo e sahaa kala">
 <!ENTITY selectCerts.ask.accesskey       "Y">
-<!ENTITY enableOCSP.label                "Ɗaɓɓitere OCSP carworɗe jaaborɗe ena teeŋtina moƴƴugol seedamfaaje">
+<!ENTITY enableOCSP.label                "Ɗaɓɓitere jaaborɗe carworɗe OCSP ena teeŋtina moƴƴugol seedamfaaje">
 <!ENTITY enableOCSP.accesskey            "Ɗ">
 <!ENTITY viewCerts2.label                "Yiy Seedamfaaji…">
 <!ENTITY viewCerts2.accesskey            "C">
