@@ -14,6 +14,9 @@
 <!ENTITY restorepage.showTabs       "Դիտել նախորդ ներդիրները">
 
 <!ENTITY restorepage.tryagainButton2 "Վերականգնել աշխատաշրջանը">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Սկսել նոր աշխատաշրջան">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Վերականգնել">
 <!ENTITY restorepage.listHeader     "Պատուհաններ և Ներդիրներ">
