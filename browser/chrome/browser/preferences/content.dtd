@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Թույլտվություններ">
+
 <!ENTITY  blockPopups.label           "Կանխել Pop-up պատուհանները">
 <!ENTITY  blockPopups.accesskey       "Կ">
 
@@ -12,16 +14,22 @@
 <!ENTITY  popupExceptions.label                                 "Բացառություններ…">
 <!ENTITY  popupExceptions.accesskey                             "Բ">
 
-
 <!ENTITY  notificationPermissions.label                         "Ծանուցումներ">
+<!ENTITY  notificationSettingsButton.label                      "Կարգավորումներ...">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Իմանալ ավելին">
 
+<!ENTITY  locationPermissions.label                             "Տեղադրություն">
+<!ENTITY  locationSettingsButton.label                          "Կարգավորումներ...">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraPermissions.label                               "Խցիկ">
+<!ENTITY  cameraSettingsButton.label                            "Կարգավորումներ...">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
-
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "Խոսափող">
+<!ENTITY  microphoneSettingsButton.label                        "Կարգավորումներ...">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Տառատեսակները և Գույները">
 
@@ -36,6 +44,8 @@
 <!ENTITY  colors.label                "Գույներ…">
 <!ENTITY  colors.accesskey            "Գ">
 
+
+<!ENTITY language2.label              "Լեզուն">
 <!ENTITY chooseLanguage.label         "Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար">
 <!ENTITY chooseButton.label           "Ընտրել…">
 <!ENTITY chooseButton.accesskey       "տ">
@@ -44,6 +54,7 @@
 <!ENTITY translateWebPages.accesskey  "Թ">
 <!ENTITY translateExceptions.label    "Բացառություններ…">
 <!ENTITY translateExceptions.accesskey "ա">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -51,10 +62,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Թարգմանել է՝">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Digital Rights Management (DRM) բովանդակություն">
 
-
+<!ENTITY  playDRMContent2.label          "Նվագարկել DRM-ղեկավարվող բովանդակությունը">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "Իմանալ ավելին">

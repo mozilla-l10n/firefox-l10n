@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "Օ">
 <!ENTITY  WPADTypeRadio.label           "Ինքնաբացահայտել միջնորդի կազմաձեվումն այս ցանցի համար">
 <!ENTITY  WPADTypeRadio.accesskey       "ն">
-
-
-
-
+<!ENTITY  manualTypeRadio2.label        "Պրոքսիի ձեռքով կազմաձևում">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "Պրոքսիի ինքնաբար կազմաձևում URL">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "Վերբեռնել">
 <!ENTITY  reload.accesskey              "ե">
-
-
-
-
-
-
-
-
+<!ENTITY  ftp2.label                    "FTP պրոքսի">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP պրոքսի">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "SSL պրոքսի">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS հոսթ">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS տ4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS տ5">
 <!ENTITY  socks5.accesskey              "տ">
 <!ENTITY  socksRemoteDNS.label2         "Պրոքսի DNS՝ SOCKS v5 օգտագործելիս">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-
+<!ENTITY  port2.label                   "Պորտ">
 <!ENTITY  HTTPport.accesskey            "Դ">
 <!ENTITY  SSLport.accesskey             "ա">
 <!ENTITY  FTPport.accesskey             "ր">
 <!ENTITY  SOCKSport.accesskey           "պ">
-
-
+<!ENTITY  noproxy2.label                "Չկա պրոքսի">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "Օրինակ՝ .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Օգտագործել նույն միջնորդը բոլոր աշխատակարգերի համար">
 <!ENTITY  shareproxy.accesskey          "գ">
