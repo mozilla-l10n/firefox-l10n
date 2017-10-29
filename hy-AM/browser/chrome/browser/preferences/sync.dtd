@@ -16,6 +16,8 @@
 <!ENTITY engine.prefs.accesskey     "ը">
 <!ENTITY engine.addons.label        "Հավելումները">
 <!ENTITY engine.addons.accesskey    "Հ">
+<!ENTITY engine.addresses.label     "Հասցեներ">
+<!ENTITY engine.creditcards.label   "Բանկային քարտեր">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Սարքի անունը">
@@ -50,6 +52,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Մուտք գործել">
 <!ENTITY signIn.accesskey            "տ">
 <!ENTITY profilePicture.tooltip      "Փոխել պրոֆիլի նկարը">
+<!ENTITY verifiedManage.label        "Կառավարել հաշիվը">
 <!ENTITY disconnect3.label           "Անջատել...">
 <!ENTITY disconnect3.accesskey       "Ա">
 <!ENTITY verify.label                "Հաստատել էլ. փոստը">
@@ -60,6 +63,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Ձեր վեբը Ձեզ հետ է">
 <!ENTITY signedOut.description        "Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:">
 <!ENTITY signedOut.accountBox.title   "Կապակցել &syncBrand.fxAccount.label;-ի հետ">
+<!ENTITY signedOut.accountBox.create2 "Չունե՞ք հաշիվ: Սկսեք">
+<!ENTITY signedOut.accountBox.signin2 "Մուտք գործել...">
 
 <!ENTITY signedIn.settings.label       "Սինքի կարգավորումներ">
 <!ENTITY signedIn.settings.description "Ընտրեք, թե &brandShortName;-ի միջոցով ինչը համաժամեցնել ձեր սարքերի միջև:">
