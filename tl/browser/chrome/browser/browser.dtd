@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Buksan ang panel ng mensahe">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Buksan ang panel ng kahilingan ng lokasyon">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Buksan ang add-on intallation message panel">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Pamahalaan ang pahintulot sa pagkuha ng cavas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Buksan ang offline storage message panel">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Buksan ang panel ng mga naitabing password">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Pangasiwaan ang paggamit ng plug-in">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Na-block mo ang imbakan ng data para sa website na ito.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Na-block mo ang mga notification para sa website na ito.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Na-block mo ang paulit-ulit na imbakan para sa website na ito.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Hinarangan mo ang mga pop-up sa website na ito.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
 

@@ -5,24 +5,31 @@
 <!ENTITY  trackingProtectionHeader2.label      "Proteksyon sa Pagsubaybay">
 <!ENTITY  trackingProtectionAlways.label       "Palagi">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "Sa pribadong mga window lamang">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionNever.label        "Hindi Kailanman">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "Matuto ng higit pa">
+<!ENTITY  trackingProtectionExceptions.label   "Mga eksepsyon…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM5.label         "Gumamit ng Proteksyong Pang-tracking sa mga Pribadong Window">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Matuto ng higit pa">
+<!ENTITY changeBlockList2.label               "Bagohin ang Listahan ng mga Bina-block…">
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "Matuto ng higit pa">
 <!ENTITY  doNotTrack.always.label       "Palagi">
 
 <!ENTITY  history.label                 "Kasaysayan">
+<!ENTITY  permissions.label             "Mga pahintulot">
 
+<!ENTITY  addressBar.label              "Address Bar">
 <!ENTITY  locbar.history2.label         "Kasaysayan ng pag-browse">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Mga bookmark">
@@ -47,6 +54,7 @@
 <!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "sila ay mawawalan ng bisa">
+<!ENTITY  close.label                   "Isasara ko ang &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Mga exceptions...">
 <!ENTITY  cookieExceptions.accesskey    "e">
@@ -54,6 +62,7 @@
 <!ENTITY  showCookies.label             "Ipakita ang Cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
+<!ENTITY  historyHeader2.pre.label         "gusto ng &brandShortName;">
 <!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Tandaan ang kasaysayan">
 <!ENTITY  historyHeader.dontremember.label "Huwag kailanman tandaan ang kasaysayan">
@@ -95,7 +104,9 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersLearnMore.label      "Matuto ng higit pa">
+<!ENTITY  browserContainersEnabled.label        "Paganahin ang mga Container Tab">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "Mga setting…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
