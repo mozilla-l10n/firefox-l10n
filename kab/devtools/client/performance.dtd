@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Asekles srid n isefka ittwarurmed de Firefox ur nelli d agetsekkar">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Asekles srid n isefka ittwarurmed deg Firefox ur nelli d agetsekkar.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -40,10 +40,10 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
-<!ENTITY performanceUI.toolbar.waterfall "Acercur">
+<!ENTITY performanceUI.toolbar.waterfall "Acercuṛ">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Isken-d timhalin iseqdac yiminig deg lawan n usekles, atan ttwaskenen-d s wudem ulkim am ucercur">
 <!ENTITY performanceUI.toolbar.js-calltree "Aseklu n usiwel">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Ad isebṛu req tiwuriwin Javascript anida iminig yettawi deqs n wakud deg usekles.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Ad isebṛureq tiwuriwin Javascript anida iminig yettawi deqs n wakud deg usekles.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Isnasen">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Tesekanay anda tettwakren takatut di lawan usekles.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Udlif JS">
