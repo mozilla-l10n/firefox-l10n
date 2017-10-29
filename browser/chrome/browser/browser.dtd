@@ -387,6 +387,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Կառավարել սարքերը…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Դիտել համաժամեցված ներդիրների Կողագոտին">
 
+<!ENTITY appMenuRecentHighlights.label "Վերջին ընդգծւմները">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ավելացնել  գործիքավահանակում">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Ա">
@@ -805,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Միացրեք ներդիրների համաժամեցումը՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Որոնել համաժամեցված ներդիրներ">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -845,6 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Վերականգնել ծրագրայինը">
 <!ENTITY customizeMode.done "Պատրաստ է">
 <!ENTITY customizeMode.titlebar "Անվանագոտի">
+<!ENTITY customizeMode.extraDragSpace "Քաշել բացատ">
 <!ENTITY customizeMode.toolbars2 "Գործիքագոտիներ">
 <!ENTITY customizeMode.lwthemes "Ձևավորումներ">
 <!ENTITY customizeMode.lwthemes.myThemes "Իմ ձևավորումները">
@@ -854,6 +857,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Նոր ձևավորումներ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Քաշեք և գցեք միույթները այստեղ՝ դրանք այստեղ պահելու համար, բայց գործիքագոտուց դուրս:">
+<!ENTITY customizeMode.overflowList.title2 "Լցվող ցանկ">
+<!ENTITY customizeMode.overflowList.description "Վերցնել և գցել միույթները այստեղ՝ պահելու համար դրանք հասանելի, բայց գործիքագոտուց դուրս:">
 <!ENTITY customizeMode.uidensity "Բաշխում">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -875,6 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Օգտագործել Հպում Թաբլետի կերպում">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Ինքնաթաքցնել">
 
 <!ENTITY getUserMedia.selectCamera.label "Մուտք տեսախցիկին.">
 <!ENTITY getUserMedia.selectCamera.accesskey "Մ">
@@ -984,3 +990,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "ՄԱտչելիության յուրահատկությունները միացված են">

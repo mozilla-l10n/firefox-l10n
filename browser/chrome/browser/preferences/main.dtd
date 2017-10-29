@@ -10,7 +10,8 @@
 <!ENTITY startupBlankPage.label    "Ցուցադրել դատարկ էջ">
 <!ENTITY startupPrevSession.label  "Ցուցադրել ձեր նախորդ պատուհանները և ներդիրները">
 
-
+<!ENTITY homepage2.label           "Տնային էջ">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Օգտագործել ընթացիկ էջը">
 <!ENTITY useCurrentPage.accesskey  "ը">
 <!ENTITY useMultiple.label         "Օգտագործել ընթացիկ էջերը">
@@ -18,6 +19,8 @@
 <!ENTITY chooseBookmark.accesskey  "է">
 <!ENTITY restoreDefault.label      "Վերականգնել լռելայնը">
 <!ENTITY restoreDefault.accesskey  "Վ">
+
+<!ENTITY disableExtension.label    "Անջատել ընդլայնումը">
 
 <!ENTITY downloads.label     "Ներբեռնումներ">
 
@@ -32,8 +35,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Միշտ ստուգել, թե արդյոք &brandShortName;-ը ձեր հիմնական դիտարկիչն է">
 <!ENTITY alwaysCheckDefault2.accesskey    "շ">
-
-
+<!ENTITY setAsMyDefaultBrowser3.label     "Դարձնել լռելյայն...">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName;-ը այժմ ձեր հիմնական դիտարկիչն է">
 <!ENTITY isNotDefault.label               "&brandShortName;-ը այժմ ձեր հիմնական դիտարկիչը չէ">
 

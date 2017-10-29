@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Լեզուներ">
-
+<!ENTITY languages.customize2.description               "Վեբ էջերը հաճախ լինում են մեկից ավելի լեզուներով: Ընտրեք լեզուներ՝ այդպիսի էջերը ցուցադրելու համար՝ համաձայն նախընտրույան">
 <!ENTITY languages.customize.moveUp.label               "Վեր">
 <!ENTITY languages.customize.moveUp.accesskey           "Վ">
 <!ENTITY languages.customize.moveDown.label             "Վար">
