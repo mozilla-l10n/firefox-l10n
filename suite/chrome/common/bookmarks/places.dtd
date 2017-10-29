@@ -103,7 +103,7 @@
 <!ENTITY backButton.tooltip  "Undur">
 <!ENTITY forwardButton.tooltip  "Langkau">
 
-<!ENTITY detailsPane.more.label "Lanjutan">
+<!ENTITY detailsPane.more.label "Selanjutnya">
 <!ENTITY detailsPane.more.accesskey "j">
 <!ENTITY detailsPane.fewer.label "Kurang">
 <!ENTITY detailsPane.fewer.accesskey "r">
