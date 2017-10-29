@@ -6,15 +6,15 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Թարգմանություն չի առաջարկվի հետևյալ լեզուների համար.">
+<!ENTITY noTranslationForLanguages2.label "Թարգմանություն չի առաջարկվի հետևյալ լեզուների համար">
 <!ENTITY treehead.languageName.label      "Լեզուներ">
 <!ENTITY removeLanguage.label             "Հեռացնել լեզուն">
 <!ENTITY removeLanguage.accesskey         "Հ">
 <!ENTITY removeAllLanguages.label         "Հեռացնել բոլոր լեզուները">
 <!ENTITY removeAllLanguages.accesskey     "ե">
 
-<!ENTITY noTranslationForSites.label      "Թարգմանություն չի առաջարկվի հետևյալ կայքերի համար.">
-
+<!ENTITY noTranslationForSites2.label     "Թարգմանություն չի առաջարկվի հետևյալ կայքերի համար">
+<!ENTITY treehead.siteName2.label         "Կայքեր">
 <!ENTITY removeSite.label                 "Հեռացնել կայքը">
 <!ENTITY removeSite.accesskey             "կ">
 <!ENTITY removeAllSites.label             "Հեռացնել Բոլոր Կայքերը">

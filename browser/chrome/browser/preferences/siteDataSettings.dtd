@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "Չ">
 <!ENTITY     removingDialog.title          "Կայքի տվյալները հեռացվում են">
 <!ENTITY     removingSelected.description  "Կայքի տվյալների ջնջելու հետևանքով կջնջվեն նաև դրա հետ կապված cookie-ները և անցանց վեբ բովանդակությունը: Դա կարող է ձեզ դուրս գրել կայքերից: Կատարե՞լ:">
-<!ENTITY     siteTree.label                "Հետևյալ կայքի cookie-ները կհեռացվեն.">
+<!ENTITY     siteTree2.label               "Հետևյալ կայքերի cookie-ները կջնջվեն:">

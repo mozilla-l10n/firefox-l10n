@@ -4,6 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Հետագծման պաշտպանություն">
 <!ENTITY  trackingProtection2.description      "Հետագծումը դա ձեր դիտարկումների տվյալների հավաքումն է բազմաթիվ կայքերից: Այն կարող է օգտագործվել կառուցելու պրոֆիլ և ցուցադրելու բովանդակություն՝ ձեր դիտարկումների և անձնական տեղեկություների վրա հիմնված:">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Օգտագործեք Հետագծման պաշտպանությունը՝ արգելափակելու հայտնի հետագծիչները">
 <!ENTITY  trackingProtectionAlways.label       "Միշտ">
 <!ENTITY  trackingProtectionAlways.accesskey   "շ">
 <!ENTITY  trackingProtectionPrivate.label      "Միայն գաղտնի պատուհաններում">
@@ -20,11 +21,15 @@
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Օգտագործել հետագծման պաշտպանությունը՝ հայտնի հետագծիչները արգելափակելու համար">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Իմանալ ավելին">
 <!ENTITY changeBlockList2.label               "Փոխել Արգելացուցակը...">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.description        "Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծվել">
+<!ENTITY  doNotTrack.learnMore.label    "Իմանալ ավելին">
 <!ENTITY  doNotTrack.default.label      "Միայն Հետագծման պաշտպանությունը օգտագործելիս">
+<!ENTITY  doNotTrack.always.label       "Միշտ">
 
 <!ENTITY  history.label                 "Պատմություն">
 <!ENTITY  permissions.label             "Թույլտվություններ">
@@ -32,6 +37,7 @@
 <!ENTITY  addressBar.label              "Հասցեագոտի">
 <!ENTITY  addressBar.suggest.label      "Հասցեագոտին օգտագործելիս առաջարկել">
 <!ENTITY  locbar.history2.label         "Դիտարկման պատմություն">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
 <!ENTITY  locbar.bookmarks.accesskey    "ի">
 <!ENTITY  locbar.openpage.label         "Բացել ներդիրները">
@@ -41,10 +47,17 @@
 
 <!ENTITY  suggestionSettings2.label     "Փոխել որոնիչների նախապատվությունները">
 
+<!ENTITY  acceptCookies2.label          "Ընդունել cookie-ներ կայքերից">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "Ընդունել երրորդ կողմի cookie-ներ">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
+<!ENTITY  acceptThirdParty.always.label   "Միշտ">
 <!ENTITY  acceptThirdParty.never.label    "Երբեք">
 <!ENTITY  acceptThirdParty.visited.label  "Այցելածներից">
 
+<!ENTITY  keepUntil2.label              "Պահել մինչև՝">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "ավարտման ժամկերը">
 <!ENTITY  close.label                   "&brandShortName;-ը փակելը">
@@ -102,3 +115,5 @@
 <!ENTITY  browserContainersSettings.label        "Կարգավորումներ...">
 <!ENTITY  browserContainersSettings.accesskey    "ր">
 
+<!ENTITY  a11yPrivacy.learnmore.label    "Իմանալ ավելին">
+<!ENTITY enableSafeBrowsingLearnMore.label "Իմանալ ավելին">
