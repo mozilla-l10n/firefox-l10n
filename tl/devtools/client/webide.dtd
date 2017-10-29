@@ -80,6 +80,7 @@
 <!-- Lense -->
 <!ENTITY details_description "Paglalarawan">
 <!ENTITY details_location "Lokasyon">
+<!ENTITY details_manifestURL "App ID">
 
 <!-- New App -->
 
