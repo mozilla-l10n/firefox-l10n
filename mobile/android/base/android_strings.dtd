@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "Un navegador móvil moderno de Mozilla, la organización sin ánimo de lucro comprometida con una Web libre y abierta.">
 <!ENTITY firstrun_panel_title_privacy "Privacidad">
 <!ENTITY firstrun_privacy_message "Navegue como si nadie le observara">
-<!ENTITY firstrun_privacy_subtext "La navegación privada con protección contra el rastreo bloquea los rastreadores mientras navega y no recuerda su historial cuando termina de navegar.">
+<!ENTITY firstrun_privacy_subtext "La navegación privada con protección contra rastreo bloquea los rastreadores mientras navega y no recuerda su historial cuando termina de navegar.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Crea tu propio &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Personaliza &brandShortName; con complementos. Bloquea anuncios, agrega características o elije un nuevo tema que refleje tu personalidad.">
@@ -271,7 +271,7 @@
 <!ENTITY pref_show_web_fonts "Mostrar tipografías web">
 <!ENTITY pref_show_web_fonts_summary2 "Descargar tipos de letra remotos al cargar una página">
 
-<!ENTITY pref_tracking_protection_title2 "Protección contra el rastreo">
+<!ENTITY pref_tracking_protection_title2 "Protección contra rastreo">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
 
@@ -302,7 +302,7 @@
 <!ENTITY pref_pwa "Aplicaciones web progresivas">
 <!ENTITY pref_pwa_summary "Permitir a las aplicaciones web añadirse a la pantalla de inicio">
 
-<!ENTITY tracking_protection_prompt_title "Ahora con protección contra el rastreo">
+<!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
 <!ENTITY tracking_protection_prompt_text "Bloquear activamente los elementos de rastreo para que no tenga que preocuparse.">
 <!ENTITY tracking_protection_prompt_tip_text "Visite los ajustes de privacidad para más información">
 <!ENTITY tracking_protection_prompt_action_button "¡Lo tengo!">
@@ -458,8 +458,8 @@
 <!ENTITY desktop_mode "Pedir sitio de escritorio">
 <!ENTITY page "Página">
 <!ENTITY tools "Herramientas">
-<!ENTITY new_tab "Nueva pestaña">
-<!ENTITY new_private_tab "Nueva pestaña privada">
+<!ENTITY new_tab "Pestaña nueva">
+<!ENTITY new_private_tab "Pestaña privada nueva">
 <!ENTITY close_all_tabs "Cerrar todas las pestañas">
 <!ENTITY close_private_tabs "Cerrar pestañas privadas">
 <!ENTITY tabs_normal "Pestañas">
@@ -660,7 +660,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Ha desactivado la protección del contenido inseguro.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Protección contra el rastreo">
+<!ENTITY doorhanger_tracking_title2 "Protección contra rastreo">
 <!ENTITY doorhanger_tracking_state_enabled "Activado">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivado">
 <!ENTITY doorhanger_tracking_message_enabled1 "Los intentos de rastrear su comportamiento en Internet han sido bloqueado.">
@@ -857,7 +857,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Eliminar">
 <!ENTITY activity_stream_delete_history "Eliminar del historial">
 
-<!ENTITY private_tab_panel_title "Navegación privada con protección contra el rastreo">
+<!ENTITY private_tab_panel_title "Navegación privada con protección contra rastreo">
 <!ENTITY private_tab_panel_description "&brandShortName; bloquea las partes de las páginas que pueden rastrear su navegación.">
 <!ENTITY private_tab_panel_description2 "No recordaremos ningún historial, pero los archivos descargados y los marcadores nuevos continuarán guardados en su dispositivo.">
 <!ENTITY private_tab_learn_more "¿Desea más información?">
