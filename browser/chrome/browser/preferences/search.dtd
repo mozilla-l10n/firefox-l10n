@@ -2,17 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Որոնման գոտի">
+
+<!ENTITY searchBar.hidden.label                "Օգտագործեք հասցեի գոտին՝ որոնման և ուղորդման համար">
+<!ENTITY searchBar.shown.label                 "Ավելացնել որոնման գոտին գործիքագոտիում">
+
 <!ENTITY defaultSearchEngine.label             "Հիմնական որոնիչը">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Ընտրեք լռելյայն որոնիչը՝ օգտագործելու համար հասցեի և որոնման գոտիում:">
 
 <!ENTITY provideSearchSuggestions.label        "Ցուցադրել որոնման հուշումներ">
 <!ENTITY provideSearchSuggestions.accesskey    "ո">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքներում">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք &brandShortName;-ը, որ երբեք չհիշի պատմությունը։">
 
 <!ENTITY oneClickSearchEngines.label           "Մեկ սեղմամբ որոնիչներ">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Ընտրեք այլընտրանքային որոնիչներ, որոնք կերևան ստորև հասցեի գոտում և որոնման գոտիում, երբ մուտքագրեք հիմնաբառ:">
 
 <!ENTITY engineNameColumn.label                "Որոնիչներ">
 <!ENTITY engineKeywordColumn.label             "Հիմնաբառ">
@@ -23,3 +31,4 @@
 <!ENTITY removeEngine.label                    "Հեռացնել">
 <!ENTITY removeEngine.accesskey                "Հ">
 
+<!ENTITY findMoreSearchEngines.label           "Գտնել լրացուցիչ որոնիչներ">

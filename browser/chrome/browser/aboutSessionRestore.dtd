@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Սա ինձ խանգարում է:">
-<!ENTITY restorepage.problemDesc    "&brandShortName;ը չի կարողանում վերականգնել ձեր էջերը և ներդիրները: Դա սովերաբար լինում է վերջերս բացված վեբ կայքի հետևանք:">
-<!ENTITY restorepage.tryThis        "Դուք կարող էք փորձել`">
-<!ENTITY restorepage.restoreSome    "Ջնջելով մեկ կամ մի քանի ներդիրներ, որոնք ձեր կարծիքով կարող են պռոբլեմի պատջճառը լինել">
-<!ENTITY restorepage.startNew       "Սկսել լիովին նոր նավարկան սեսսիա">
+<!ENTITY restorepage.errorTitle2    "Կներեք, խնդիր ծագեց ձեր էջերը հետ բերելիս:">
+<!ENTITY restorepage.problemDesc2   "Խնդիր է ծագել ձեր դիտարկումների վերջին աշծատաշրջանը վերականգնելիս: Ընտրեք Վերականգնել աշխատաշրջանը և կրկին փորձեք:">
+<!ENTITY restorepage.tryThis2       "Դեռ չե՞ք կարողանում վերականգնել աշխատաշրջանը: Երբեմն ներդիրը հանդիպում է խնդիրների: Դիտեք նախորդ ներդիրները, հեռացրեք նշումը այն ներդիրից, որը չեք ցանկանում վերականգնել և հետո վերականգնեք:">
 
-<!ENTITY restorepage.tryagainButton "Վերականգնել">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Փակել">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.hideTabs       "Թաքցնել նախորդ ներդիրները">
+<!ENTITY restorepage.showTabs       "Դիտել նախորդ ներդիրները">
+
+<!ENTITY restorepage.tryagainButton2 "Վերականգնել աշխատաշրջանը">
 
 <!ENTITY restorepage.restoreHeader  "Վերականգնել">
 <!ENTITY restorepage.listHeader     "Պատուհաններ և Ներդիրներ">
