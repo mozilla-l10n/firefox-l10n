@@ -102,7 +102,7 @@
      "switch" to the bookmarks (saved items) panel. -->
 <!ENTITY reader_switch_to_bookmarks "Tukar">
 
-<!ENTITY history_today_section "Hari Ini">
+<!ENTITY history_today_section "Hari ini">
 <!ENTITY history_yesterday_section "Semalam">
 <!ENTITY history_week_section3 "7 hari lepas">
 <!ENTITY history_older_section3 "Lebih dari 6 bulan">
