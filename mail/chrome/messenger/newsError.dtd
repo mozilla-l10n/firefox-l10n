@@ -8,6 +8,7 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.title): The main heading for the news
      error page. -->
+<!ENTITY articleNotFound.title "Հոդվածը չի գտնվել">
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->

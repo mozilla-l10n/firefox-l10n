@@ -7,11 +7,11 @@
 <!ENTITY itemUpdate.label        "Թարմացնել">
 <!ENTITY itemNetworking.label    "Ցանցը և ազատ տեղ">
 <!ENTITY itemCertificates.label  "Հավաստագրեր">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը">
 <!ENTITY enableGlodaSearch.accesskey   "Մ">
-
+<!ENTITY dateTimeFormatting.label      "Ամսաթվի և ժամանակի ձևաչափ">
 <!ENTITY allowHWAccel.label            "Հնարավորության դեպքում օգտագործել սարքակազմի արագացում">
 <!ENTITY allowHWAccel.accesskey        "ս">
 <!ENTITY storeType.label               "Նամակները պահելու եղանակը՝ նոր հաշիվների համար.">
@@ -38,8 +38,8 @@
 <!ENTITY returnReceiptsInfo.label      "Որոշեք, թե &brandShortName;-ը ինչպես վարվի ստացականների հետ։">
 <!ENTITY showReturnReceipts.label      "Ստացականներ...">
 <!ENTITY showReturnReceipts.accesskey  "R">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "Տարածում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումները &vendorShortName;-ի հետ՝ &brandShortName;-ը էլ ավելի լավարկելու համար">
 <!ENTITY enableTelemetry.label           "Միացնել Telemetry-ին">
@@ -51,17 +51,20 @@
 <!ENTITY enableCrashReporter.label       "Միացնել Վթարների Զեկույցը">
 <!ENTITY enableCrashReporter.accesskey   "Վ">
 <!ENTITY crashReporterLearnMore.label    "Իմանալ ավելին">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "&brandShortName;-ի թարմացումներ">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Տարբերակ՝ ">
 <!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Ինքնաշխատ տեղադրել թարմացումները (խորհուրդ է տրվում)">
 <!ENTITY updateAuto.accesskey            "Ի">
@@ -74,8 +77,8 @@
 
 <!ENTITY useService.label                "Թարմացումները տեղադրել խորապատկերում">
 <!ENTITY useService.accesskey            "b">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Կարգավորումներ...">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Կարգավորել, թե ինչպես &brandShortName;-ը մուտք գործի համացանց">
@@ -89,22 +92,22 @@
 <!ENTITY offlineCompactFolders.label     "Սեղմել թղթապանակները, եթե դա կխնայի՝ ">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "ՄԲ ընդամենը">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Օգտագործել մինչև">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "ՄԲ պահոցի համար">
-
-
+<!ENTITY overrideSmartCacheSize.label    "Վերագրել շտեմի ինքնաշխատ կառավարումը">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Մաքրել Հիմա">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Երբ սպասարկիչը պահանջում է հավաստագիր.">
 <!ENTITY certs.auto                      "Ընտրել որևէ մեկը">
 <!ENTITY certs.auto.accesskey            "S">
