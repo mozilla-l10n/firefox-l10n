@@ -39,6 +39,7 @@ available. -->
 
 <!ENTITY networkTab.label                "Ցանցը">
 
+<!ENTITY networkProxy.label              "Ցանցի պրոքսի">
 
 <!ENTITY connectionDesc.label            "Կարգավորեք համացանցին միանալու &brandShortName;-ի ցուցիչները">
 <!ENTITY connectionSettings.label        "Կարգավորել...">
@@ -85,9 +86,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplication.version.pre   "Տարբերակ">
+<!ENTITY updateApplicationDescription.label
+                                         "Պահեք &brandShortName;-ը թարմացված՝ լավագույն արտադրողականության, կայունության և անվտանգության համար:">
+<!ENTITY updateApplication.version.pre   "Տարբերակ ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Թույլատրել &brandShortName;-ին">
+<!ENTITY updateAuto3.label               "Ինքնաբար տեղադրել թարմացումները (հանձնարարելի)">
 <!ENTITY updateCheckChoose2.label        "Ստուգել թարմացումները, բայց ես կընտրեմ, թե որը տեղադրել">
 <!ENTITY updateCheckChoose2.accesskey    "Ս">
 <!ENTITY updateManual2.label             "Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)">
@@ -120,6 +124,8 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Հարցում OCSP պատասխանիչի սպասարկիչին՝ հաստատելու հավաստագրի իսկությունը">
 <!ENTITY enableOCSP.accesskey            "Հ">
+<!ENTITY viewCerts2.label                "Դիտել վկայագրերը...">
+<!ENTITY viewSecurityDevices2.label      "Անվտանգության սարքեր...">
 
 <!ENTITY performance.label               "Արտադրողականություն">
 <!ENTITY useRecommendedPerformanceSettings2.label
@@ -134,5 +140,9 @@ available. -->
 <!ENTITY limitContentProcessOption.description
                                          "Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:">
 <!ENTITY limitContentProcessOption.accesskey   "ս">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Հնարավոր է փոփոխել բովանդակության ընթացքները միայն բազմամշակիչ &brandShortName;-ի դեպքում:">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Կարդալ, թե ինչպես ստուգել՝ արդյոք բազմամշակիչը միացված է:">
 <!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
 <!ENTITY allowHWAccel.accesskey          "ր">

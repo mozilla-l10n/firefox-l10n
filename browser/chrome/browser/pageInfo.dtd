@@ -64,7 +64,7 @@
 
 <!ENTITY  securityTab           "Անվտանգություն">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityView.certView "Զննել Արտոնաթուղթը">
+<!ENTITY  securityView.certView "Դիտել վկայագիրը">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Անհայտ">
 

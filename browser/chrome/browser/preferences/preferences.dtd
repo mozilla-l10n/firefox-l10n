@@ -25,6 +25,8 @@
 <!ENTITY  paneContainers.title          "Պարունակ ներդիրներ">
 <!ENTITY  paneUpdates.title             "Թարմացումներ">
 
+<!ENTITY  languageAndAppearance.label   "Լեզուն և տեսքը">
+<!ENTITY  filesAndApplications.label    "Ֆայլեր և հավելվածներ">
 <!ENTITY  browserPrivacy.label          "Դիտարկիչի գաղտնիություն">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->

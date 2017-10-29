@@ -3,15 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Ծրագրեր">
-
+<!ENTITY  applications.description "Ընտրեք, թե ինչպես &brandShortName;-ը վարվի ձեր ներբեռնած ֆայլերի կամ դիտարկումների ժամանակ ձեր կողմից օգտագործվող հավելվածների հետ:">
 
 <!ENTITY  typeColumn.label        "Բովանդակության տեսակը">
 <!ENTITY  typeColumn.accesskey    "տ">
 
 <!ENTITY  actionColumn2.label     "Գործողություն">
 <!ENTITY  actionColumn2.accesskey "Գ">
-
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
 
 <!ENTITY  filter2.emptytext        "Որոնել ֆայլերի տեսակները կամ ծրագրերը">
