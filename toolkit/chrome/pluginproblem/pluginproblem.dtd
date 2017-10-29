@@ -4,7 +4,7 @@
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY pluginActivationWarning                             "Tiu ĉi retejo uzas kromprogramon, kiu povas malrapidigi &brandShortName;.">
-<!ENTITY tapToPlayPlugin                                     "Tuŝetu ĉi tie por aktivigi komprogramon.">
+<!ENTITY tapToPlayPlugin                                     "Tuŝetu ĉi tie por aktivigi kromprogramon.">
 <!ENTITY clickToActivatePlugin                               "Aktivigi kromprogramon.">
 <!ENTITY checkForUpdates                                     "Kontroli ĉu estas ĝisdatigoj…">
 <!ENTITY blockedPlugin.label                                 "Tiu ĉi kromprogramo estis blokita por protekti vin.">
