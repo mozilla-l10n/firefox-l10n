@@ -31,7 +31,7 @@
 <!ENTITY healthReport2.label      "Доклад за изправност на &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "Д">
 
-<!ENTITY helpTroubleshootingInfo.label      "Информация за отстраняване на неизправности">
+<!ENTITY helpTroubleshootingInfo.label      "Отстраняване на неизправности">
 <!ENTITY helpTroubleshootingInfo.accesskey  "И">
 
 <!ENTITY helpFeedbackPage.label      "Обратна връзка…">
