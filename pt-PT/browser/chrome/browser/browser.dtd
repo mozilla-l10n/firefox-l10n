@@ -816,7 +816,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Abrir">
 <!ENTITY syncedTabs.context.open.accesskey                   "A">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Abrir em novo separador">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Abrir num novo separador">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "s">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Abrir ligação em nova janela">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "j">
