@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Algemien">
+
 <!ENTITY  startupAction.label         "As &brandShortName; start:">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "De accountbehearder iepenje">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Blêdzje…">
 <!ENTITY  browse.accesskey                    "B">
 
+<!ENTITY messageStyleTab.title             "Berjochtstilen">
+<!ENTITY messageStylePreview.label         "Foarbyld:">
+<!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Bubbels">
+<!ENTITY messageStyleDarkTheme.label       "Donker">
+<!ENTITY messageStylePaperSheetsTheme.label "Papier">
+<!ENTITY messageStyleSimpleTheme.label     "Simpel">
+<!ENTITY messageStyleDefaultTheme.label    "Standert">
+<!ENTITY messageStyleVariant.label         "Fariant:">
+<!ENTITY messageStyleVariant.accesskey     "F">
+<!ENTITY messageStyleShowHeader.label      "Kop toane">
+<!ENTITY messageStyleShowHeader.accesskey  "K">
+<!ENTITY messageStyleNoPreview.title       "Gjin foarbyld beskikber">
+<!ENTITY messageStyleNoPreview.description "Dit tema is net falide of is op dit stuit net beskikber (útskeakele add-on, feilige modus, …).">
