@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "સંદેશ પેનલ ખોલો">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "સ્થાન વિનંતી પેનલ ખોલો">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ઍડ-ઑન ઇન્સ્ટોલેશન મેસેજ પેનલ ખોલો">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "કેનવાસ નિષ્કર્ષણ પરવાનગી વહીવટ કરો">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ઑફલાઇન સંગ્રહ સંદેશ પેનલ ખોલો">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "પાસવર્ડ સંદેશ પેનલ સાચવો ખોલો">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "પ્લગ-ઇનનો ઉપયોગ સંચાલિત કરો">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "તમે આ વેબસાઇટ માટે માહિતી સંગ્રહ અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "તમે આ વેબસાઇટ માટે સૂચનાઓ અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "તમે આ વેબસાઇટ માટે સતત સંગ્રહ અવરોધિત કર્યા છે.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "તમે આ વેબસાઇટ માટે પોપ-અપ્સને અવરોધિત કર્યા છે.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ઇતિહાસ બતાવો">
 
@@ -857,6 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "આઇટમ્સને અહીં પહોંચવા માટે અથવા તમારા ટૂલબારમાંથી બહાર રાખવા માટે તેને અહીં ખેંચો અને છોડો…">
 <!ENTITY customizeMode.overflowList.title2 "ઓવરફ્લો મેનૂ">
+<!ENTITY customizeMode.overflowList.description "આઇટમ્સને અહીં પહોંચવા માટે અથવા તમારા ટૂલબારમાંથી બહાર રાખવા માટે તેને અહીં ખેંચો અને છોડો…">
 <!ENTITY customizeMode.uidensity "ઘનતા">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
