@@ -7,7 +7,7 @@
 <!ENTITY search.buttonlabel                   "Tikanöx">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "p">
+<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Tajin nusamajib'ej…">
 <!ENTITY listEmpty.installed.label            "Man ayakon ta re ruwäch tz'aqat re'">
@@ -26,12 +26,13 @@
 <!ENTITY cmd.back.tooltip                     "Titzolïx jun ruxaq">
 <!ENTITY cmd.forward.tooltip                  "Jun chik ruxaq">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Jujun taq k'amal man tikirel ta yenik'öx">
 <!ENTITY showAllExtensions.button.label       "Kek'ut pe konojel ri taq ruk'amal">
 <!ENTITY debugAddons.label                    "Kechojmirisäx taq tz'aqat">
 <!ENTITY debugAddons.accesskey                "c">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Konojel ri taq tz'aqat xechup pa ri ütz rub'eyal.">
 <!ENTITY warning.checkcompatibility.label          "Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.">
 <!ENTITY warning.checkcompatibility.enable.label   "Titzij">
@@ -39,14 +40,14 @@
 <!ENTITY warning.updatesecurity.label              "Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.">
 <!ENTITY warning.updatesecurity.enable.label       "Titzij">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Titzij ri ya'öl retal chajinïk richin nik'ex ri tz'aqat">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Tikanöx">
 <!ENTITY view.discover.label                  "Kek'ulutäj ri taq tz'aqat">
 <!ENTITY view.recentUpdates.label             "K'ak'a' taq k'exoj">
 <!ENTITY view.availableUpdates.label          "Taq k'exoj e k'o">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Kekanöx taq k'exoj">
 <!ENTITY updates.checkForUpdates.accesskey    "K">
 <!ENTITY updates.viewUpdates.label            "Ketz'et k'ak'a' taq k'exoj">
@@ -74,8 +75,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Ketz'et ri taq k'exoj e k'o">
 <!ENTITY updates.updateSelected.label         "Keyak taq k'exoj">
 <!ENTITY updates.updateSelected.tooltip       "Keyak ri taq k'exoj e k'o pa re rucholajem re'">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Kek'ut pe ch'aqa' chik rutzijol">
 <!ENTITY cmd.showDetails.accesskey            "K">
 <!ENTITY cmd.findUpdates.label                "Kekanöx taq k'exoj">
@@ -119,15 +120,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Ke'ewäx taq rutziol ri ruwäch">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ke'ewäx ri taq rutzijol re ruwäch chi k'exoj re'">
 <!ENTITY cmd.findReplacement.label            "Tikanöx jun richin nijal">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "¿Atux ri taq tz'aqat?">
 <!ENTITY discover.description2                "Ri taq tz'aqat taq e chokoy, ri nikiya' q'ij chawe richin nawichinaj &brandShortName; rik'in rutz'aqat rusamaj o rub'anikil. Tatojtob'ej rik'in rukajtz'ik ruchi' richin nayäk aramaj, jun rutzijonel rub'anikil ri q'ij o tatz'eta' konojel ri taq na'oj richin naya' kan &brandShortName; achi'el arayib'al.">
 <!ENTITY discover.footer                      "Toq atokinäq pa k'amaya'l, re pas re' xtiwachin pe jujun chi ke ri e ütz chuqa' ri konojel yekanon ri taq tz'aqat ri', richin ye'atojtob'ej.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Ruwäch">
 <!ENTITY detail.lastupdated.label             "Ruk'isib'äl k'exoj">
 <!ENTITY detail.creator.label                 "Nuk'unel">
@@ -156,17 +157,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Taq ajowab'äl">
 <!ENTITY detail.showPreferencesUnix.accesskey "a">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Kejal ri taq rajowaxik re tz'aqat re'">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Kijachik">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tuxlan">
 <!ENTITY progress.cancel.tooltip              "Tiq'at">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "B'i'aj">
 <!ENTITY sort.name.tooltip                    "Kenuk' chi b'i'aj">
 <!ENTITY sort.dateUpdated.label               "Ruk'isib'äl k'exoj">
@@ -223,12 +224,12 @@
 <!ENTITY eula.accept                          "Ütz chuqa' tiyak…">
 
 <!ENTITY settings.path.button.label           "Tinik'öx…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "¿Achike re re'? Ri Telemetry nitikïr yeruyäk chuqa' yerusamajij jujun taq solna'oj. ">
 <!ENTITY experiment.info.learnmore "Tetamäx ch'aqa' chik">
 <!ENTITY experiment.info.learnmore.accesskey "K">
@@ -255,7 +256,6 @@
 <!ENTITY pluginDeprecation.description "¿La k'o nanataj? Jujun taq nak'ab'äl man nikixïm ta chik ki' ruma &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Tetamäx ch'aqa' chik.">
 
-<!ENTITY legacyWarning.description "¿La k'o nanataj? Jujun taq k'amal man nikixïm ta chik ki' ruma &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Kek'ut pe ri kochin taq k'amal">
 <!ENTITY legacyExtensions.title "Kochin taq k'amaya'l">
 <!ENTITY legacyExtensions.description "Re taq k'amal re' man nikik'äm ta ki' rik'in current &brandShortName; taq rub'eyal richin chi xechuputäj.">
