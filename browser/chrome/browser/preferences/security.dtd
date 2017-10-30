@@ -3,14 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "सुरक्षा">
-<!ENTITY  phishingProtection.label       "फिशिंग सुरक्षा">
 
+<!ENTITY  warnOnAddonInstall2.label       "वेबसाइटों द्वारा ऐड-ऑन अधिस्थापित करने के प्रयास पर आपको चेतावनी दें">
 <!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
+<!ENTITY  browsingProtection.label        "भ्रामक सामग्री और खतरनाक सॉफ़्टवेयर सुरक्षा">
 <!ENTITY  enableSafeBrowsing.label        "ख़तरनाक और संदेहास्पद सामग्री रोकें">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
