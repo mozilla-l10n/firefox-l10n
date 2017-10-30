@@ -517,11 +517,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.label     "Definir como motor de pesquisa predefinido">
 <!ENTITY searchSetAsDefault.accesskey "d">
 
-<!ENTITY openLinkCmdInTab.label       "Abrir ligação em novo separador">
+<!ENTITY openLinkCmdInTab.label       "Abrir ligação num novo separador">
 <!ENTITY openLinkCmdInTab.accesskey   "s">
-<!ENTITY openLinkCmd.label            "Abrir ligação em nova janela">
+<!ENTITY openLinkCmd.label            "Abrir ligação numa nova janela">
 <!ENTITY openLinkCmd.accesskey        "j">
-<!ENTITY openLinkInPrivateWindowCmd.label "Abrir ligação em nova janela privada">
+<!ENTITY openLinkInPrivateWindowCmd.label "Abrir ligação numa nova janela privada">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir ligação">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
@@ -529,7 +529,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY openFrameCmd.label           "Abrir frame em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
-<!ENTITY openLinkCmdInContainerTab.label "Abrir ligação em novo separador contentor">
+<!ENTITY openLinkCmdInContainerTab.label "Abrir ligação num novo separador contentor">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
@@ -541,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Ver código fonte da página">
+<!ENTITY viewPageSourceCmd.label      "Ver fonte da página">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Ver código fonte do frame">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
@@ -563,14 +563,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "m">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir como fundo do ambiente de trabalho…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "e">
-<!ENTITY bookmarkPageCmd2.label       "Criar marcador para esta página">
-<!ENTITY bookmarkThisLinkCmd.label      "Criar marcador para esta ligação">
+<!ENTITY bookmarkPageCmd2.label       "Guardar esta página nos marcadores">
+<!ENTITY bookmarkThisLinkCmd.label      "Guardar esta ligação nos marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
-<!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para este frame">
+<!ENTITY bookmarkThisFrameCmd.label      "Guardar endereço desta frame nos marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Copiar ligação">
 <!ENTITY copyURLFeedback.label        "Copiado!">
-<!ENTITY emailPageCmd.label           "Enviar ligação por email…">
+<!ENTITY emailPageCmd.label           "Enviar ligação por e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -589,11 +589,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Guardar áudio como…">
 <!ENTITY saveAudioCmd.accesskey       "u">
-<!ENTITY emailImageCmd.label          "Enviar imagem por email…">
+<!ENTITY emailImageCmd.label          "Enviar imagem por e-mail…">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Enviar vídeo por email…">
+<!ENTITY emailVideoCmd.label          "Enviar vídeo por e-mail…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Enviar áudio por email…">
+<!ENTITY emailAudioCmd.label          "Enviar áudio por e-mail…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Ativar este plugin">
 <!ENTITY playPluginCmd.accesskey      "t">
@@ -609,7 +609,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar localização do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Copiar endereço de email">
+<!ENTITY copyEmailCmd.label           "Copiar endereço de e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Este frame">
 <!ENTITY thisFrameMenu.accesskey          "t">
@@ -735,10 +735,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Localizar nesta página…">
+<!ENTITY findOnCmd.label     "Encontrar nesta página…">
 <!ENTITY findOnCmd.accesskey "n">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Localizar novamente">
+<!ENTITY findAgainCmd.label  "Encontrar novamente">
 <!ENTITY findAgainCmd.accesskey "m">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
@@ -847,7 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha de entre milhares de extras">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinições">
-<!ENTITY customizeMode.done "Feito">
+<!ENTITY customizeMode.done "Concluir">
 <!ENTITY customizeMode.titlebar "Barra de título">
 <!ENTITY customizeMode.extraDragSpace "Espaço de arrasto">
 <!ENTITY customizeMode.toolbars2 "Barras de ferramentas">
@@ -943,7 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>separadores</html:strong> e <html:strong>janelas</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">
 
-<!ENTITY panicButton.view.undoWarning             "Esta ação não pode ser desfeita.">
+<!ENTITY panicButton.view.undoWarning             "Esta ação não pode ser anulada.">
 <!ENTITY panicButton.view.forgetButton            "Esquecer!">
 
 <!ENTITY panicButton.thankyou.msg1                "O seu histórico recente foi limpo.">
