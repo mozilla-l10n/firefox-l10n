@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "메시지 패널 열기">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "위치 요청 패널 열기">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "부가기능 설치 메시지 패널 열기">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "캔바스 추출 권한 관리">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "오프라인 저장소 메시지 패널 열기">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "저장된 비밀번호 메시지 패널 열기">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "플러그인 사용 관리">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "이 사이트에서 데이터 저장소 사용을 차단하였습니다.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "이 사이트에서 알림 사용을 차단하였습니다.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "이 사이트에서 영구 저장소 사용을 차단하였습니다.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "이 사이트에서 팝업을 차단하였습니다.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "방문 목록 보기">
 
