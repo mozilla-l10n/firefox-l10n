@@ -2886,7 +2886,7 @@ SFX I   ±¼æ       ê¼niemy   ±¼æ
 SFX I   ±¼æ       ê¼niecie  ±¼æ
 SFX I   ±¼æ       êzn±      ±¼æ
 
-SFX J Y 330
+SFX J Y 336
 SFX J   ±æ        êgê       si±c
 SFX J   ±æ        ê¿esz     si±c
 SFX J   ±æ        ê¿e       si±c
@@ -2971,6 +2971,12 @@ SFX J   spaæ      ¶pi       spaæ
 SFX J   spaæ      ¶pimy     spaæ
 SFX J   spaæ      ¶picie    spaæ
 SFX J   spaæ      ¶pi±      spaæ
+SFX J   æ         m         [^±s]paæ
+SFX J   æ         sz        [^±s]paæ
+SFX J   æ         0         [^±s]paæ
+SFX J   æ         my        [^±s]paæ
+SFX J   æ         cie       [^±s]paæ
+SFX J   æ         j±        [^±s]paæ
 SFX J   aæ        zê        [^bp]raæ
 SFX J   aæ        zesz      [^bp]raæ
 SFX J   aæ        ze        [^bp]raæ
