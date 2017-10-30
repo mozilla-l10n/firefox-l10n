@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Humpito Ñawndugol Caɗeele">
+<!ENTITY aboutSupport.pageTitle "Humpito ñawndugol caɗeele">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Ngoo hello ena waɗi humpito karallaagal baawngol nafde so aɗaetoo safrude caɗeele. So aɗa yiyloo jaabawuuji naamne ganndaaɗe  baɗte &brandShortName;, ƴeewto wallitorde amen <a id='supportLink'>lowre wallitorde</a>.">
