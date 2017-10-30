@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "실험적인 기능">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "커스텀 탭">
+<!ENTITY pref_custom_tabs_summary4 "앱이 빠르게 로딩되는 커스텀 탭에서 웹 콘텐츠를 열어볼 수 있게 허용">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS;에서 열기">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "제목창에 QR 스캐너 허가">
 
 <!ENTITY pref_use_master_password "기본 암호 사용">
+<!ENTITY pref_sync_default_title "Firefox 계정">
 <!ENTITY pref_sync2 "로그인">
 <!ENTITY pref_sync_summary2 "탭, 북마크, 로그인, 방문 이력 동기화">
 <!ENTITY pref_search_suggestions "추천 검색어 표시">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "사생활 탭 열기">
 <!ENTITY contextmenu_remove "삭제">
 <!ENTITY contextmenu_add_to_launcher "홈 화면에 추가">
+<!ENTITY contextmenu_add_page_shortcut "페이지 바로가기 추가">
 <!ENTITY contextmenu_set_as_homepage "홈페이지로 설정">
 <!ENTITY contextmenu_share "공유">
 <!ENTITY contextmenu_pasteandgo "붙여넣고 바로 가기">
@@ -811,6 +819,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "홈 화면에 추가">
 
+<!ENTITY promotion_add_page_shortcut "페이지 바로가기 추가">
+
 <!ENTITY helper_first_offline_bookmark_title "오프라인으로 읽기">
 <!ENTITY helper_first_offline_bookmark_message "오프라인에서도 북마크된 읽기 모드 항목들을 볼 수 있습니다.">
 <!ENTITY helper_first_offline_bookmark_button "북마크로 이동">
@@ -850,3 +860,13 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "더 알고 싶은가요?">
 
 <!ENTITY fullscreen_warning "전체 화면 모드 진입">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ 홈 화면에 추가">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "홈 화면에 추가">
+<!ENTITY pwa_continue_to_website "웹사이트로 계속">
+<!ENTITY pwa_onboarding_sumo "이 웹사이트를 홈스크린에 추가하여 앱과 같이 빠르고 쉽게 접근할 수 있습니다.">
