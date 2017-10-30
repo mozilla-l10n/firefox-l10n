@@ -2,76 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Dàta telemeatraidh">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping tùs an dàta:">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "Dàta làithreach nam ping">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "Dàta nam ping tasglannaichte">
+<!ENTITY aboutTelemetry.showSubsessionData "Seall dàta nam fo-sheiseanan">
+<!ENTITY aboutTelemetry.choosePing "Tagh ping:">
+<!ENTITY aboutTelemetry.archivePingType "Seòrsa a’ phing">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "An-diugh">
+<!ENTITY aboutTelemetry.optionGroupYesterday "An-dè">
+<!ENTITY aboutTelemetry.optionGroupOlder "Nas sine">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
+<!ENTITY aboutTelemetry.pageTitle "Dàta telemeatraidh">
+<!ENTITY aboutTelemetry.moreInformations "Barrachd fiosrachaidh a dhìth ort?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "Tha treòirean ann am <a>Firefox Data Documentation</a> a dh’innseas dhut mar a dh’obraicheas tu leis na h-innealan dàta againn.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "Gheibh thu deifiniseanan choincheapan, docamaideadh API agus reifreansan dàta san docamaidean <a>Firefox Telemetry Client</a>.">
+<!ENTITY aboutTelemetry.telemetryDashboard "Bheir <a>deas-bhùird an telemeatraidh</a> comas dhut dealbh a dhèanamh dhen dàta a gheibh Mozilla slighe gleus an telemeatraidh.">
+
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Fosgail san t-sealladair JSON">
+
+<!ENTITY aboutTelemetry.homeSection "Dhachaidh">
+<!ENTITY aboutTelemetry.generalDataSection "  Dàta coitcheann">
+<!ENTITY aboutTelemetry.environmentDataSection "  Dàta na h-àrainneachd">
+<!ENTITY aboutTelemetry.sessionInfoSection "  Fiosrachadh mun t‑seisean">
+<!ENTITY aboutTelemetry.scalarsSection "  Scalars">
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Keyed Scalars">
+<!ENTITY aboutTelemetry.histogramsSection "  Histograms">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+<!ENTITY aboutTelemetry.eventsSection "  Tachartasan">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Tomhaisean simplidh">
+<!ENTITY aboutTelemetry.telemetryLogSection " Loga telemeatraidh">
+<!ENTITY aboutTelemetry.slowSqlSection "  SQL Statements slaodach">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Brabhsair reòite">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Mion-fhiosrachadh an tuilleadain">
+<!ENTITY aboutTelemetry.capturedStacksSection "  Stacan glacte">
+<!ENTITY aboutTelemetry.lateWritesSection "  Sgrìobhaidhean fadalach">
+<!ENTITY aboutTelemetry.rawPayloadSection "Raw Payload">
 <!ENTITY aboutTelemetry.raw "JSON amh">
 
-
-<!ENTITY aboutTelemetry.showSubsessionData "Seall dàta nam fo-sheiseanan">
-
-<!ENTITY aboutTelemetry.choosePing "Tagh ping:">
-
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping nas ùire">
-
-<!ENTITY aboutTelemetry.showOlderPing "Ping nas sine &gt;&gt;">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "Seachdain">
-
-<!ENTITY aboutTelemetry.archivePingType "Seòrsa a’ phing">
-
-<!ENTITY aboutTelemetry.archivePingHeader "Ping">
-
-<!ENTITY aboutTelemetry.optionGroupToday "An-diugh">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "An-dè">
-
-<!ENTITY aboutTelemetry.optionGroupOlder "Nas sine">
-
-<!ENTITY aboutTelemetry.generalDataSection "  Dàta coitcheann">
-
-<!ENTITY aboutTelemetry.environmentDataSection "  Dàta na h-àrainneachd">
-
-<!ENTITY aboutTelemetry.telemetryLogSection " Loga telemeatraidh">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  SQL Statements slaodach">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  Brabhsair reòite">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Snàithlean reòite">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "  Stacan glacte">
-
-<!ENTITY aboutTelemetry.scalarsSection "  Scalars">
-
-<!ENTITY aboutTelemetry.keyedScalarsSection "  Keyed Scalars">
-
-<!ENTITY aboutTelemetry.histogramsSection "  Histograms">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
-
-<!ENTITY aboutTelemetry.eventsSection "  Tachartasan">
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Tomhaisean simplidh">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "  Mion-fhiosrachadh an tuilleadain">
-
-<!ENTITY aboutTelemetry.lateWritesSection "  Sgrìobhaidhean fadalach">
-
-
-<!ENTITY aboutTelemetry.sessionInfoSection "  Fiosrachadh mun t‑seisean">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  AN AIRE: Tha Slow SQL Debugging an comas. Ma dh'fhaoidte gum faic thu sreangan SQL slàna gu h-ìosal ach cha dèid a chur gu gleus an telemeatraidh.">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Faigh ainmean nam foincseanan aig na stacaichean">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "  Seall dàta amh nan stacaichean">
-
-<!ENTITY aboutTelemetry.filterText "  Criathraich (sreangan no /regexp/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">

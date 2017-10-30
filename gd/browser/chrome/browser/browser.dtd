@@ -849,6 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Aisig na bun-roghainnean">
 <!ENTITY customizeMode.done "Dèanta">
 <!ENTITY customizeMode.titlebar "Bàr an tiotail">
+<!ENTITY customizeMode.extraDragSpace "Raon slaodaidh">
 <!ENTITY customizeMode.toolbars2 "Na bàraichean-inneal">
 <!ENTITY customizeMode.lwthemes "Ùrlaran">
 <!ENTITY customizeMode.lwthemes.myThemes "Na h-ùrlaran agam">

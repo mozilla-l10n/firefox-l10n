@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Taic le duilgheadasan">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Tha fiosrachadh teicnigeach air an duilleag seo a dh'fhaodadh a bhith feumail dhut ann am fuasgladh dhuilgheadasan. Ma tha ceist neo-theicnigeach agad mu &brandShortName;, cuir sùil air an <a id='supportLink'>làrach-taice</a> againn.">
 
 <!ENTITY aboutSupport.crashes.title "Aithisgean tuislidh">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Ainm">
 <!ENTITY aboutSupport.appBasicsVersion "Tionndadh">
 <!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Ùraich an t-seanail">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Eachdraidh nan ùrachaidhean">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Seall eachdraidh nan ùrachaidhean">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Cleachdadh na cuimhne">
 <!ENTITY aboutSupport.appBasicsPerformance "Dèanadas">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Obraichean seirbheise clàraichte">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Pròifilean">
@@ -85,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Roghainnean cudromach a chaidh atharrachadh">
 <!ENTITY aboutSupport.modifiedPrefsName "Ainm">
 <!ENTITY aboutSupport.modifiedPrefsValue "Luach">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Roghainnean user.js">
 <!ENTITY aboutSupport.userJSDescription "Tha faidhle air a bheil <a id='prefs-user-js-link'>user.js</a> ann am pasgan na pròifil agad agus gheibh thu roghainnean 'na bhroinn nach deach an cruthachadh le &brandShortName;.">
 
@@ -107,7 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Air gnìomhachadh">
 <!ENTITY aboutSupport.a11yForceDisabled "Casg air so-inntrigeachd">
 <!ENTITY aboutSupport.a11yHandlerUsed "Làimhsichear na so-inntrigeachd a chaidh a chleachdadh">
-
+<!ENTITY aboutSupport.a11yInstantiator "Accessibility Instantiator">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Tionndaidhean leabharlainn">
 
