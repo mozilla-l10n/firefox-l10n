@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Жалпы">
+
 <!ENTITY  startupAction.label         "&brandShortName; қосылу кезінде:">
 <!ENTITY  startupAction.accesskey     "ы">
 <!ENTITY  startupOffline.label        "Менің чат тіркелгілерімді желіден тыс ұстау">
 <!ENTITY  startupConnectAuto.label    "Менің чат тіркелгілерімді автобайланыстыру">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Мен белсенді емес туралы контакттарыма кейін айту">
 <!ENTITY  reportIdleAfter.accesskey     "М">
 <!ENTITY  idleTime                      "минут белсенді еместік">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Шолу…">
 <!ENTITY  browse.accesskey                    "Ш">
 
+<!ENTITY messageStyleTab.title             "Хабарлама стильдері">
+<!ENTITY messageStylePreview.label         "Алдын-ала қарау:">
+<!ENTITY messageStyleTheme.label           "Тема:">
+<!ENTITY messageStyleTheme.accesskey       "Т">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Көпіршіктер">
+<!ENTITY messageStyleDarkTheme.label       "Күңгірт">
+<!ENTITY messageStylePaperSheetsTheme.label "Қағаз парақтары">
+<!ENTITY messageStyleSimpleTheme.label     "Қарапайым">
+<!ENTITY messageStyleDefaultTheme.label    "Бастапқы">
+<!ENTITY messageStyleVariant.label         "Нұсқасы:">
+<!ENTITY messageStyleVariant.accesskey     "с">
+<!ENTITY messageStyleShowHeader.label      "Тақырыптаманы көрсету">
+<!ENTITY messageStyleShowHeader.accesskey  "т">
+<!ENTITY messageStyleNoPreview.title       "Алдын-ала қарау қолжетерсіз">
+<!ENTITY messageStyleNoPreview.description "Бұл тема жарамсыз немесе ағымдағы уақытта қолжетерсіз (сөндірілген кеңейту, қауіпсіз режимі, …).">
