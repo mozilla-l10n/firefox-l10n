@@ -3,15 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "अनुप्रयोग">
-
+<!ENTITY  applications.description "चुने कैसे &brandShortName; वेब से डाउनलोड की हुई आपकी फ़ाइलों या ब्राउज़ करते समय आपके एप्लिकेशनों को कैसे संभालता है.">
 
 <!ENTITY  typeColumn.label        "अंतर्वस्तु प्रकार">
 <!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "क्रिया">
 <!ENTITY  actionColumn2.accesskey "A">
-
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
 
 <!ENTITY  filter2.emptytext        "फ़ाइल टाइप या अनुप्रयोगों को खोजें">
