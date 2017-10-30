@@ -62,3 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> એ <a id='error_desc_link'>સંભવિત રૂપે નુકસાનકારક એપ્લિકેશન ધરાવતી હોવાના અહેવાલ છે</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "વધુ જાણો &brandShortName;ના ફિશિંગ અને માલવેર સુરક્ષા વિશે <a id='firefox_support'>support.mozilla.org</a>પર.">
