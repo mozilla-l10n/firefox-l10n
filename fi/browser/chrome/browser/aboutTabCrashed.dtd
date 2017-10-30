@@ -24,7 +24,9 @@
 <!ENTITY tabCrashed.requestReport "Ilmoita tästä välilehdestä">
 <!ENTITY tabCrashed.sendReport3 "Lähetä automatisoitu kaatumisilmoitus, jotta voimme korjata tällaisia ongelmia.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Vapaaehtoisia kommentteja (kommentit ovat julkisia)">
+<!ENTITY tabCrashed.includeURL3 "Liitä mukaan &brandShortName;in kaatuessa auki olleiden sivusojen osoitteet.">
 <!ENTITY tabCrashed.emailPlaceholder "Kirjoita sähköpostiosoitteesi">
 <!ENTITY tabCrashed.emailMe "Lähettäkää minulle sähköpostia kun lisätietoja on saatavilla">
 <!ENTITY tabCrashed.reportSent "Kaatumisilmoitus on jo lähetetty. Kiitos avustasi &brandShortName;in kehittämiseksi!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Ilmoita taustalla olevista välilehdistä">
+<!ENTITY tabCrashed.autoSubmit3 "Päivitä asetukset lähettämään ilmoitukset automaattisesti, kun &brandShortName; kaatuu.">
