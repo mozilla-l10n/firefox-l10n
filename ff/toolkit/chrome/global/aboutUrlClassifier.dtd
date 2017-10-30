@@ -7,5 +7,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Carwinoowo">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Saha kesɗitinal battanal">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Saha kesɗitinal jawtungal">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Ngonka kesɗitinal sakket">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Kesɗitinal">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Hesɗitin">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Momtu">
