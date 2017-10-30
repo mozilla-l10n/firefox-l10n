@@ -545,12 +545,12 @@
 
 <!ENTITY quitApplicationCmdWin2.label "Zakończ">
 <!ENTITY quitApplicationCmdWin2.accesskey "k">
-<!ENTITY quitApplicationCmdWin2.tooltip "Zakończ program &brandShorterName;">
+<!ENTITY quitApplicationCmdWin2.tooltip "Zakończ Firefoksa">
 <!ENTITY goBackCmd.commandKey           "[" >
 <!ENTITY goForwardCmd.commandKey        "]" >
 <!ENTITY quitApplicationCmd.label       "Zakończ" >
 <!ENTITY quitApplicationCmd.accesskey   "k" >
-<!ENTITY quitApplicationCmdMac2.label "Zakończ program &brandShorterName;">
+<!ENTITY quitApplicationCmdMac2.label "Zakończ Firefoksa">
 <!ENTITY quitApplicationCmd.key "Q">
 
 <!ENTITY closeCmd.label "Zamknij" >
@@ -599,7 +599,7 @@
 <!ENTITY identity.connectionNotSecure "Połączenie nie jest bezpieczne">
 <!ENTITY identity.connectionFile "Strona wczytana z tego komputera">
 <!ENTITY identity.connectionVerified2 "Połączenie bezpieczne, strona:">
-<!ENTITY identity.connectionInternal "To jest strona programu &brandShortName;.">
+<!ENTITY identity.connectionInternal "To jest strona Firefoksa.">
 <!ENTITY identity.extensionPage "Ta strona została wczytana przez rozszerzenie.">
 <!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione">
 
@@ -752,31 +752,31 @@
 <!ENTITY emeLearnMoreContextMenu.label "Więcej informacji o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 
-<!ENTITY updateAvailable.message "Uaktualnij program &brandShorterName; dla szybkości i bezpieczeństwa.">
+<!ENTITY updateAvailable.message "Uaktualnij Firefoksa dla szybkości i bezpieczeństwa.">
 <!ENTITY updateAvailable.whatsnew.label "Sprawdź co nowego.">
-<!ENTITY updateAvailable.header.message "Nowa wersja programu &brandShorterName; jest dostępna.">
+<!ENTITY updateAvailable.header.message "Nowa wersja Firefoksa jest dostępna.">
 <!ENTITY updateAvailable.acceptButton.label "Pobierz aktualizację">
 <!ENTITY updateAvailable.acceptButton.accesskey "P">
 <!ENTITY updateAvailable.cancelButton.label "Nie teraz">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
-<!ENTITY updateAvailable.panelUI.label "Pobierz aktualizację programu &brandShorterName;">
+<!ENTITY updateAvailable.panelUI.label "Pobierz aktualizację Firefoksa">
 
-<!ENTITY updateManual.message "Pobierz świeżą kopię programu &brandShorterName;, a my pomożemy ją zainstalować.">
+<!ENTITY updateManual.message "Pobierz świeżą kopię Firefoksa, a my pomożemy ją zainstalować.">
 <!ENTITY updateManual.whatsnew.label "Sprawdź co nowego.">
 <!ENTITY updateManual.header.message "&brandShorterName; nie może zostać uaktualniony do najnowszej wersji.">
-<!ENTITY updateManual.acceptButton.label "Pobierz program &brandShorterName;">
+<!ENTITY updateManual.acceptButton.label "Pobierz Firefoksa">
 <!ENTITY updateManual.acceptButton.accesskey "P">
 <!ENTITY updateManual.cancelButton.label "Nie teraz">
 <!ENTITY updateManual.cancelButton.accesskey "N">
-<!ENTITY updateManual.panelUI.label "Pobierz świeżą kopię programu &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Pobierz świeżą kopię Firefoksa">
 
 <!ENTITY updateRestart.message2 "&brandShorterName; po ponownym uruchomieniu przywróci wszystkie karty i okna (oprócz okien prywatnych).">
-<!ENTITY updateRestart.header.message2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić.">
+<!ENTITY updateRestart.header.message2 "Uruchom ponownie Firefoksa, aby go uaktualnić.">
 <!ENTITY updateRestart.acceptButton.label "Uruchom i przywróć">
 <!ENTITY updateRestart.acceptButton.accesskey "U">
 <!ENTITY updateRestart.cancelButton.label "Nie teraz">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić">
+<!ENTITY updateRestart.panelUI.label2 "Uruchom ponownie Firefoksa, aby go uaktualnić">
 
 <!ENTITY pageActionButton.tooltip "Interakcje">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj do paska adresu">

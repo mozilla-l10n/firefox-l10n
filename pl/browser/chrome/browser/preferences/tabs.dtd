@@ -12,7 +12,7 @@
 
 <!ENTITY warnOnCloseMultipleTabs.label "Ostrzeganie przed zamknięciem wielu kart">
 <!ENTITY warnOnCloseMultipleTabs.accesskey "">
-<!ENTITY warnOnOpenManyTabs.label "Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić program &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.label "Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić Firefoksa">
 <!ENTITY warnOnOpenManyTabs.accesskey "">
 
 <!ENTITY switchLinksToNewTabs.label "Przechodzenie do nowych kart otwieranych poprzez odnośniki">

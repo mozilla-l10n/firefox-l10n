@@ -4,7 +4,7 @@
 
 <!ENTITY startup.label             "Uruchamianie">
 
-<!ENTITY startupPage2.label "Po uruchomieniu programu &brandShortName;:">
+<!ENTITY startupPage2.label "Po uruchomieniu Firefoksa:">
 <!ENTITY startupPage2.accesskey "">
 <!ENTITY startupUserHomePage.label "wyświetl stronę startową">
 <!ENTITY startupBlankPage.label    "wyświetl pustą stronę">

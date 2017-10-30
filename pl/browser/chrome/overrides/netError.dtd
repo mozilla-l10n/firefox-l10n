@@ -64,7 +64,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>Należy sprawdzić, czy ustawienia serwerów proxy są prawidłowe.</li><li>Należy zapytać administratora sieci, czy serwer proxy funkcjonuje prawidłowo.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Nie odnaleziono serwera proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul><li>Należy sprawdzić, czy ustawienia serwerów proxy są prawidłowe.</li><li>Należy sprawdzić, czy połączenie z siecią komputera użytkownika funkcjonuje prawidłowo.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>Należy sprawdzić, czy ustawienia serwerów proxy są prawidłowe.</li><li>Należy sprawdzić, czy połączenie z siecią komputera użytkownika funkcjonuje prawidłowo.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
 
 <!ENTITY redirectLoop.title "Pętla przekierowań">
 <!ENTITY redirectLoop.longDesc "<ul><li>Problem ten może się pojawić w wyniku zablokowania lub odrzucenia ciasteczek.</li></ul>">
@@ -76,12 +76,12 @@
 <!ENTITY nssFailure2.longDesc2 "<ul><li>Żądana strona nie może zostać wyświetlona, ponieważ nie udało się potwierdzić autentyczności otrzymanych danych.</li><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 
 <!ENTITY certerror.longpagetitle1 "Połączenie nie jest bezpieczne">
-<!ENTITY certerror.introPara "Właściciel witryny <span class='hostname'/> niepoprawnie ją skonfigurował. Program &brandShortName; nie połączył się z nią, aby chronić użytkownika przed kradzieżą informacji.">
+<!ENTITY certerror.introPara "Właściciel witryny <span class='hostname'/> niepoprawnie ją skonfigurował. &brandShortName; nie połączył się z nią, aby chronić użytkownika przed kradzieżą informacji.">
 
-<!ENTITY sharedLongDesc "<ul><li>Witryna może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li><li>Jeśli nie możesz otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
+<!ENTITY sharedLongDesc "<ul><li>Witryna może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li><li>Jeśli nie możesz otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, należy sprawdzić, czy &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
 
 <!ENTITY cspBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
-<!ENTITY cspBlocked.longDesc "<p>Program &brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; uniemożliwił tej stronie wczytanie treści w ten sposób, ponieważ jej polityka bezpieczeństwa treści na to nie pozwala.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Błąd: treść uszkodzona">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
@@ -101,7 +101,7 @@
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nie połączył się z <span id='wrongSystemTimeWithoutReference_URL'/>, ponieważ zegar systemowy wydaje się wskazywać złą datę, co uniemożliwia bezpieczne połączenie.</p><p>Komputer ma ustawioną datę <span id='wrongSystemTimeWithoutReference_systemDate'/>. Zmień ustawioną datę i czas na aktualne, aby rozwiązać ten problem.</p>">
 
 <!ENTITY certerror.pagetitle1 "Niezabezpieczone połączenie">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta strona określa poprzez HSTS (HTTP Strict Transport Security), że program &brandShortName; ma się z nią łączyć jedynie w sposób bezpieczny. W związku z tym, dodanie wyjątku dla tego certyfikatu jest niemożliwe.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta strona określa poprzez HSTS (HTTP Strict Transport Security), że &brandShortName; ma się z nią łączyć jedynie w sposób bezpieczny. W związku z tym, dodanie wyjątku dla tego certyfikatu jest niemożliwe.">
 <!ENTITY certerror.copyToClipboard.label "Kopiuj tekst do schowka">
 
 <!ENTITY inadequateSecurityError.title "Połączenie nie gwarantuje bezpieczeństwa">

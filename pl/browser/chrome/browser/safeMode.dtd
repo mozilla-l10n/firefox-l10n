@@ -6,10 +6,10 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Uruchom w trybie awaryjnym">
-<!ENTITY refreshProfile.label "Odśwież program &brandShortName;">
+<!ENTITY refreshProfile.label "Odśwież Firefoksa">
 
-<!ENTITY safeModeDescription3.label   "Tryb awaryjny to specjalny tryb pracy programu &brandShortName;, przydatny podczas rozwiązywania problemów.">
+<!ENTITY safeModeDescription3.label "Tryb awaryjny to specjalny tryb pracy Firefoksa, przydatny podczas rozwiązywania problemów.">
 <!ENTITY safeModeDescription4.label   "Dodatki i ustawienia własne użytkownika zostaną tymczasowo wyłączone.">
 
-<!ENTITY refreshProfileInstead.label "Można także pominąć rozwiązywanie problemów i spróbować odświeżyć program &brandShortName;.">
-<!ENTITY autoSafeModeDescription3.label "Program &brandShortName; nieoczekiwanie zakończył działanie podczas uruchamiania. Mogło to zostać spowodowane przez dodatki lub inny problem. Można spróbować zbadać sytuację i rozwiązać problem w trybie awaryjnym.">
+<!ENTITY refreshProfileInstead.label "Można także pominąć rozwiązywanie problemów i spróbować odświeżyć Firefoksa.">
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; nieoczekiwanie zakończył działanie podczas uruchamiania. Mogło to zostać spowodowane przez dodatki lub inny problem. Można spróbować zbadać sytuację i rozwiązać problem w trybie awaryjnym.">
