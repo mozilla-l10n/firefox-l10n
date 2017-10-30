@@ -28,7 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> ha sido <a id='error_desc_link'>reportado por contener software malicioso</a>. Puede <a id='report_detection'>reportar un problema de detección</a>.">
 
-<!ENTITY safeb.blocked.malwarePage.learnMore "Conozca más sobre el contenido web que puede ser perjudicial, incluyendo virus y otro tipo de software malicioso y cómo proteger su computadora en <a id='learn_more_link'>StopBadware.org</a>. Lea más sobre la protección anti phising y software malicioso de &brandShortName; en <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.malwarePage.learnMore "Conozca más sobre el contenido web que puede ser perjudicial, incluyendo virus y otro tipo de software malicioso y cómo proteger su computadora en <a id='learn_more_link'>StopBadware.org</a>. Lea más sobre la protección anti phishing y software malicioso de &brandShortName; en <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "El próximo sitio puede contener programas dañinos">
