@@ -106,6 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Weeɓitaare">
 <!ENTITY aboutSupport.a11yActivated "Hurminaama">
 <!ENTITY aboutSupport.a11yForceDisabled "Haɗ Naatgol">
+<!ENTITY aboutSupport.a11yHandlerUsed "Toppitagol keɓotoongol huutoraa">
+<!ENTITY aboutSupport.a11yInstantiator "Kurminoowel keɓagol">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Jame Deftorli">
 
@@ -116,9 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Natto keɓe kecce to ɗakkitorde">
 
 <!ENTITY aboutSupport.sandboxTitle "Seenorde">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Nodde njuɓɓudi ndiiwtaama">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Hojomaaji Jawtuɗi">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Sifaa silsil">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Bannanɗe">
 
 <!ENTITY aboutSupport.safeModeTitle "Eto Mbayka Hoolno">
 <!ENTITY aboutSupport.restartInSafeMode.label "Hurmitin tawa Ɓeyditte ena Ndaaƴaa…">
@@ -132,6 +139,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Fannuuji Palol Kooke Daaƴaaɗe">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Taarataare">
 
+<!ENTITY aboutSupport.mediaTitle "Mejaa">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Kaɓirkon njaltinirkon">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Kaɓirkon naatnirkon">
 <!ENTITY aboutSupport.mediaDeviceName "Innde">
 <!ENTITY aboutSupport.mediaDeviceGroup "Dental">
+<!ENTITY aboutSupport.mediaDeviceVendor "Jeeyowel">
+<!ENTITY aboutSupport.mediaDeviceState "Ngonka">
 <!ENTITY aboutSupport.mediaDevicePreferred "Cuɓaaɗo">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formaa">
+<!ENTITY aboutSupport.mediaDeviceChannels "Ceenuuji">
+<!ENTITY aboutSupport.mediaDeviceRate "Battal">
+<!ENTITY aboutSupport.mediaDeviceLatency "Deeƴtal">
