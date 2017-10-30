@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Ùghdarrasan">
 <!ENTITY certmgr.tab.orphan2                  "Feadhainn eile">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "Tha teisteanasan agad a bheir aithne ort fhèin o na buidhnean seo">
+<!ENTITY certmgr.others2                      "Tha teisteanasan agad a bheir aithne air na daoine a leanas">
+<!ENTITY certmgr.websites3                    "Tha teisteanasan agad a bheir aithne air na frithealaichean a leanas">
+<!ENTITY certmgr.cas2                         "Tha teisteanasan agad a bheir aithne air na h-ùghdarrasan teisteanachaidh a leanas">
+<!ENTITY certmgr.orphans2                     "Tha teisteanasan agad nach eil a’ freagairt ris na roinnean eile">
 
 <!ENTITY certmgr.detail.general_tab.title     "Coitcheann">
 <!ENTITY certmgr.detail.general_tab.accesskey "C">
