@@ -5,10 +5,10 @@
 <!-- File menu items -->
 <!ENTITY openFileCmd.label "Tijaq Yakb'äl…">
 <!ENTITY openFileCmd.accesskey "j">
-<!ENTITY openFileCmd.key "j">
+<!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Tijaq ri Ajk'amaya'l K'ojlemal…">
 <!ENTITY openRemoteCmd.accesskey "K">
-<!ENTITY openRemoteCmd.key "K">
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "K'ak'a' Ruxaq">
 <!ENTITY fileRecentMenu.accesskey "K">
 <!ENTITY saveCmd.label "Tiyak">
@@ -19,7 +19,7 @@
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "E">
 <!ENTITY publishCmd.label "Titalüx rutzijol">
 <!ENTITY publishCmd.accesskey "l">
-<!ENTITY publishCmd.key "u">
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Titalüx Rutzijol Achi'el…">
 <!ENTITY publishAsCmd.accesskey "l">
 <!ENTITY fileRevert.label "Titzolïx">

@@ -10,7 +10,7 @@
 <!ENTITY newMenu.label "K'ak'a'">
 <!ENTITY newMenu.accesskey "K">
 <!ENTITY newMessage.label "Tzijol">
-<!ENTITY newMessage.key "T">
+<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "T">
 <!ENTITY attachPageCmd.label "Ajk'amaya'l Ruxaq…">
@@ -20,7 +20,7 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "t">
 <!ENTITY saveCmd.label "Tiyak">
-<!ENTITY saveCmd.key "Y">
+<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "y">
 <!ENTITY saveAsCmd.label "Tiyak Achi'el">
 <!ENTITY saveAsCmd.accesskey "A">
@@ -37,7 +37,7 @@
 <!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
 <!ENTITY printPreviewCmd.accesskey "b">
 <!ENTITY printCmd.label "Titz'ajb'äx…">
-<!ENTITY printCmd.key "t">
+<!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
 
 <!-- Edit Menu -->
@@ -64,11 +64,11 @@
 <!ENTITY deleteCmd.label "Tiyuj">
 <!ENTITY deleteCmd.accesskey "y">
 <!ENTITY selectAllCmd.label "Ticha' Ronojel">
-<!ENTITY selectAllCmd.key "R">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "r">
 <!ENTITY findBarCmd.label "Tikanöx…">
 <!ENTITY findBarCmd.accesskey "k">
-<!ENTITY findBarCmd.key "k">
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Tikanöx chuqa' Tijal…">
 <!ENTITY findReplaceCmd.accesskey "I">
 <!ENTITY findReplaceCmd.key "H">
@@ -102,7 +102,7 @@
 <!ENTITY optionsMenu.label "Taq cha'oj">
 <!ENTITY optionsMenu.accesskey "c">
 <!ENTITY checkSpellingCmd2.label "Tinik'öx Rutz'ib'axik…">
-<!ENTITY checkSpellingCmd2.key "t">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 
@@ -126,7 +126,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Kiwujil taq Ochochib'äl">
 <!ENTITY addressBookCmd.accesskey "o">
-<!ENTITY addressBookCmd.key "K">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Kinuk'ulem Rub'i' Taqoya'l">
 <!ENTITY accountManagerCmd2.accesskey "S">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">

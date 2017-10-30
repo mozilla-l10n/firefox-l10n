@@ -22,14 +22,14 @@
 <!ENTITY enableInlineSpellChecker.accesskey "R">
 <!ENTITY checkSpellingCmd2.label "Tinik'öx Rutz'ib'axik…">
 <!ENTITY checkSpellingCmd2.accesskey "n">
-<!ENTITY checkSpellingCmd2.key "b">
+<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Tich'ap">
 <!ENTITY insertMenu.accesskey "c">
 <!ENTITY insertLinkCmd2.label "Ximonel…">
 <!ENTITY insertLinkCmd2.accesskey "X">
-<!ENTITY insertLinkCmd2.key "L">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Xukuxüb'B'ina'am…">
 <!ENTITY insertAnchorCmd.accesskey "X">
 <!ENTITY insertImageCmd.label "Wachib'äl…">
@@ -100,13 +100,13 @@
 <!ENTITY fontStyleMenu.accesskey "b">
 <!ENTITY styleBoldCmd.label "Q'eqatz'ib'">
 <!ENTITY styleBoldCmd.accesskey "Q">
-<!ENTITY styleBoldCmd.key "Q">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Q'e'etz'ib'">
 <!ENTITY styleItalicCmd.accesskey "e">
-<!ENTITY styleItalicCmd.key "e">
+<!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Juxül">
 <!ENTITY styleUnderlineCmd.accesskey "J">
-<!ENTITY styleUnderlineCmd.key "J">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Juxun">
 <!ENTITY styleStrikeThruCmd.accesskey "x">
 <!ENTITY styleSuperscriptCmd.label "Witz'ib'">
@@ -141,7 +141,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Keyuj taq Xukuxüb' K'o Kib'i'">
 <!ENTITY formatRemoveNamedAnchors.accesskey "K">
-<!ENTITY formatRemoveNamedAnchors2.key "K">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Pajtzij">
 <!ENTITY paragraphMenu.accesskey "P">

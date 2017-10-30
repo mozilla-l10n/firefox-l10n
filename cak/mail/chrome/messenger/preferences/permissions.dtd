@@ -19,7 +19,7 @@
 <!ENTITY session.accesskey            "j">
 <!ENTITY allow.label                  "Tiya' q'ij">
 <!ENTITY allow.accesskey              "y">
-<!ENTITY windowClose.key              "j">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Tiq'at">
 <!ENTITY button.cancel.accesskey      "q">

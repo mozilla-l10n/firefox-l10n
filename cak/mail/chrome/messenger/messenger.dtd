@@ -15,7 +15,7 @@
 <!ENTITY recentlyClosedTabsCmd.label "Taq ruwi' k'a b'a' ketz'apïx">
 <!ENTITY recentlyClosedTabsCmd.accesskey "k">
 
-<!ENTITY undoCloseTabCmd.commandkey "r">
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
@@ -50,7 +50,7 @@
 <!ENTITY settingsOfflineCmd2.accesskey "u">
 <!ENTITY printCmd.label "Titz'ajb'äx…">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "b">
+<!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
 <!ENTITY printPreviewCmd.accesskey "b">
 <!ENTITY printSetupCmd.label "Tinuk'samajïx Ruxaq…">
@@ -161,9 +161,9 @@
 <!ENTITY findCmd.key "k">
 <!ENTITY findAgainCmd.label "Tikanöx Chik">
 <!ENTITY findAgainCmd.accesskey "h">
-<!ENTITY findAgainCmd.key "h">
+<!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.key "h">
+<!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "Kekanöx Tzijol…">
 <!ENTITY searchMailCmd.accesskey "T">
@@ -213,15 +213,15 @@
 <!ENTITY newNewMsgCmd.accesskey "T">
 <!ENTITY archiveMsgCmd.label "Yakb'äl">
 <!ENTITY archiveMsgCmd.accesskey "Y">
-<!ENTITY archiveMsgCmd.key "y">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Tiq'at Rutzijol">
 <!ENTITY cancelNewsMsgCmd.accesskey "T">
 <!ENTITY replyMsgCmd.label "Titzolïx tzij">
 <!ENTITY replyMsgCmd.accesskey "t">
-<!ENTITY replyMsgCmd.key "t">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyToAllMsgCmd.label "Titzolïx tzij chi ke Konojel">
 <!ENTITY replyToAllMsgCmd.accesskey "z">
-<!ENTITY replyToAllMsgCmd.key "t">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToListMsgCmd.label "Titzolïx tzij chi re ri Cholb'äl">
 <!ENTITY replyToListMsgCmd.accesskey "C">
 <!ENTITY replyToListMsgCmd.key "l">
@@ -234,7 +234,7 @@
 <!ENTITY forwardAsAttachmentCmd.accesskey "T">
 <!ENTITY editAsNewMsgCmd.label "Tinuk' Achi'el K'ak'a' Tzijol">
 <!ENTITY editAsNewMsgCmd.accesskey "n">
-<!ENTITY editAsNewMsgCmd.key "a">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY moveMsgToMenu.label "Tiq'asäx Pa">
 <!ENTITY moveMsgToMenu.accesskey "q">
@@ -246,7 +246,7 @@
 <!ENTITY copyMsgToMenu.accesskey "w">
 <!ENTITY moveToFolderAgain.label "Tisilöx Chik">
 <!ENTITY moveToFolderAgain.accesskey "i">
-<!ENTITY moveToFolderAgainCmd.key "s">
+<!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY tagMenu.label "Etal">
 <!ENTITY tagMenu.accesskey "l">
 <!ENTITY tagCmd0.key "0">
@@ -261,14 +261,14 @@
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Tiya' retal">
 <!ENTITY markMenu.accesskey "r">
-<!ENTITY toggleReadCmd.key "l">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Achi'el Sik'in">
 <!ENTITY markAsReadCmd.accesskey "S">
 <!ENTITY markAsUnreadCmd.label "Achi'el Man Sik'in Ta">
 <!ENTITY markAsUnreadCmd.accesskey "M">
 <!ENTITY markThreadAsReadCmd.label "tzijonem Achi'el Sik'in">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
-<!ENTITY markThreadAsReadCmd.key "j">
+<!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markReadByDateCmd.label "Achi'el Sik'in chi Q'ijul…">
 <!ENTITY markReadByDateCmd.accesskey "Q">
 <!ENTITY markReadByDateCmd.key "c">
@@ -277,10 +277,10 @@
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY openMessageWindowCmd.label "Tijaq Rutzijol">
 <!ENTITY openMessageWindowCmd.accesskey "T">
-<!ENTITY openMessageWindowCmd.key "t">
+<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Tijaq pa Tzijonem">
 <!ENTITY openConversationCmd.accesskey "j">
-<!ENTITY openConversationCmd.key "a">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Taq taqoj">
 <!ENTITY openAttachmentListCmd.accesskey "q">
 <!ENTITY openFeedWebPage.label "Tijaq achi'el Ajk'maya'l Ruxaq">
@@ -296,7 +296,7 @@
 <!ENTITY tasksMenu.accesskey "s">
 <!ENTITY addressBookCmd.label "Kiwujil taq Ochochib'äl">
 <!ENTITY addressBookCmd.accesskey "K">
-<!ENTITY addressBookCmd.key "K">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Taq tz'aqat">
 <!ENTITY addons.accesskey "t">
 <!ENTITY activitymanager.label "Runuk'samajel Samaj">
@@ -639,7 +639,7 @@
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Ch'utinarisaxïk">
-<!ENTITY minimizeWindow.key "c">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Tik'am pe Ronojel Chuwäch">
 <!ENTITY zoomWindow.label "Sum">
 
@@ -649,10 +649,10 @@
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Taq samaj">
 <!ENTITY hideThisAppCmdMac.label        "Tewüx &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "T">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Ke'ewäx Juley Chik">
-<!ENTITY hideOtherAppsCmdMac.commandkey "K">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Tik'ut pe Ronojel">
 

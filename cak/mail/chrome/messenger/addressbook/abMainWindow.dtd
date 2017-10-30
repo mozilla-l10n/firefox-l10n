@@ -14,7 +14,7 @@
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP Cholb'äl…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Rutzijol taqoj">
-<!ENTITY newMessageCmd.key                              "t">
+<!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "t">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY closeCmd.label                                 "Titz'apïx">
@@ -48,7 +48,7 @@
 <!ENTITY deleteListsCmd.label                           "Keyuj Cholb'äl">
 <!ENTITY deleteItemsCmd.label                           "Keyuj Ch'akulal">
 <!ENTITY selectAllCmd.label                             "Ticha' Ronojel">
-<!ENTITY selectAllCmd.key                               "R">
+<!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "R">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
@@ -176,6 +176,6 @@ because displayed names don't have the comma in between. -->
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Window">
 <!ENTITY minimizeWindow.label                           "Ch'utinarisaxïk">
-<!ENTITY minimizeWindow.key                             "n">
+<!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "Tik'am pe Ronojel Chuwa">
 <!ENTITY zoomWindow.label                               "Sum">
