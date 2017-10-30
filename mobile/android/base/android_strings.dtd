@@ -486,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
 <!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Agregar a pantalla de inicio">
+<!ENTITY contextmenu_add_page_shortcut "Agregar Acceso directo a la página">
 <!ENTITY contextmenu_set_as_homepage "Establecer como página de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
@@ -821,6 +822,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Agregar a pantalla de inicio">
 
+<!ENTITY promotion_add_page_shortcut "Agregar acceso directo a la página">
 
 <!ENTITY helper_first_offline_bookmark_title "Leer sin conexión">
 <!ENTITY helper_first_offline_bookmark_message "Encontrar items de vista de lectura en marcadores, incluso sin conexión.">
