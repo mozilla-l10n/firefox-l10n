@@ -31,6 +31,7 @@ available. -->
 <!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "مزید سیکھیں">
 
+<!ENTITY dataCollectionPrivacyNotice.label    "رازداری کا نوٹس">
 
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "مزید سیکھیں">

@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "مالک:">
 <!ENTITY  securityView.identity.domain   "ویب سائٹ:">
 <!ENTITY  securityView.identity.verifier "توثیق کردہ برائے:">
-
+<!ENTITY  securityView.identity.validity "اختتامی میعاد:">
 
 <!ENTITY  securityView.privacy.header                   "نجی نوعیت &amp; سابقات">
 <!ENTITY  securityView.privacy.history                  "میں نے آج سے پہلے یہ ویب سائٹ دیکھی ہے؟">
