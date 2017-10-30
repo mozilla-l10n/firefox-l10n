@@ -19,13 +19,14 @@
 <!ENTITY safeb.palm.advisory.desc2 "<a id='advisory_provider'/> के द्वारा परामर्श प्रदान की गई.">
 
 
-<!ENTITY safeb.blocked.malwarePage.title2 "इस वेबसाइट पर जाना आपके कंप्यूटर के लिए नुक़सानदायी हो सकता है">
-<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; ने इस पृष्ठ को अवरुद्ध किया है क्योंकि यह द्वेषपूर्ण सॉफ़्टवेयर अधिस्थापित करने का प्रयास कर सकता है जो आपके कंप्यूटर पर व्यक्तिगत जानकारी चुरा या हटा सकता हैं.">
+<!ENTITY safeb.blocked.malwarePage.title2 "इस वेबसाइट पर जाना आपके कंप्यूटर के लिए हानिकारी हो सकता है">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; ने इस पृष्ठ को अवरुद्ध किया है क्योंकि यह द्वेषपूर्ण सॉफ़्टवेयर स्थापित करने का प्रयास कर सकता है जो आपके कंप्यूटर पर व्यक्तिगत जानकारी चुरा या हटा सकता है.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> को <a id='error_desc_link'>द्वेषपूर्ण सॉफ़्टवेयर युक्त बताया गया है</a>. आप <a id='report_detection'>पहचान की समस्या की रिपोर्ट कर सकते हैं</a> या <a id='ignore_warning_link'>जोखिम को अनदेखा कर सकते हैं</a> और इस असुरक्षित साइट पर जा सकते हैं.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> को <a id='error_desc_link'>द्वेषपूर्ण सॉफ़्टवेयर युक्त बताया गया है</a>. आप <a id='report_detection'>पहचान की समस्या की रिपोर्ट कर सकते हैं</a>.">
 
 
 
