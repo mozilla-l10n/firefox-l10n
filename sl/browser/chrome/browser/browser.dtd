@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Odpri ploščo s sporočili">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Odpri ploščo z zahtevami za lokacijo">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Odpri ploščo s sporočili o namestitvah dodatkov">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljaj z dovoljenji za izločanje platna">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Odpri ploščo s sporočili o shrambi brez povezave">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Odpri ploščo s sporočili o shranjevanju gesel">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje uporabe vtičnikov">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Za to stran ste zavrnili shranjevanje podatkov.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Za to stran ste zavrnili prikaz obvestil.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Za to spletno stran ste zavrnili trajno shrambo.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Za to stran ste zavrnili pojavna okna.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
 
