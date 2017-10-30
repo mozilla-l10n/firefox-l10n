@@ -15,4 +15,5 @@
 <!ENTITY     cancel.label                  "रद्द करें">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "साइट आँकड़ा हटाया जा रहा है">
-<!ENTITY     siteTree.label                "निम्नलिखित वेबसाइट कुकीज़ निकाल दिए जाएँगे:">
+<!ENTITY     removingSelected.description  "साइट डेटा हटाने पर संबंधित कुकीज और ऑफ़लाइन वेब सामग्री भी निकाल दी जाएंगी. यह आपको वेबसाइटों से लॉग आउट कर सकता है. क्या आप वाकई बदलाव करना चाहते हैं?">
+<!ENTITY     siteTree2.label               "निम्नलिखित वेबसाइट कुकीज़ निकाल दिए जाएँगे:">
