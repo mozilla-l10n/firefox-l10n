@@ -150,5 +150,7 @@ available. -->
 <!ENTITY limitContentProcessOption.accesskey   "l">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "कंटेंट प्रक्रियाओं की संख्या केवल मल्टीप्रासेस &brandShortName; के साथ बदली जा सकती है.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "जाँचना सीखें कि क्या मल्टीप्रासेस सक्रिय है">
 <!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
 <!ENTITY allowHWAccel.accesskey          "r">
