@@ -49,7 +49,7 @@ sentence. -->
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Tekstballonnen">
 <!ENTITY messageStyleDarkTheme.label       "Donker">
-<!ENTITY messageStylePaperSheetsTheme.label "Papieren vellen">
+<!ENTITY messageStylePaperSheetsTheme.label "Vellen papier">
 <!ENTITY messageStyleSimpleTheme.label     "Eenvoudig">
 <!ENTITY messageStyleDefaultTheme.label    "Standaard">
 <!ENTITY messageStyleVariant.label         "Variant:">
