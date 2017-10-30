@@ -34,7 +34,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informação para resolução de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "r">
 
-<!ENTITY helpFeedbackPage.label      "Submeter feedback…">
+<!ENTITY helpFeedbackPage.label      "Enviar comentário…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "Visita ao &brandShorterName;">

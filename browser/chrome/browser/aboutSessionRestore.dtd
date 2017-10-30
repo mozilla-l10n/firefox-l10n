@@ -15,7 +15,7 @@
 
 <!ENTITY restorepage.tryagainButton2 "Restaurar sessão">
 <!ENTITY restorepage.restore.access2 "R">
-<!ENTITY restorepage.closeButton2    "Começar nova sessão">
+<!ENTITY restorepage.closeButton2    "Iniciar nova sessão">
 <!ENTITY restorepage.close.access2   "n">
 
 <!ENTITY restorepage.restoreHeader  "Restaurar">
