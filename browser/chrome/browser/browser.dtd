@@ -570,7 +570,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY pageAction.copyLink.label    "Salin Tautan">
 <!ENTITY copyURLFeedback.label        "Tersalin!">
-<!ENTITY emailPageCmd.label           "Kirim Tautan…">
+<!ENTITY emailPageCmd.label           "Surelkan Tautan…">
 <!ENTITY emailPageCmd.accesskey       "K">
 <!ENTITY savePageCmd.label            "Simpan Laman dengan Nama…">
 <!ENTITY savePageCmd.accesskey        "S">

@@ -21,6 +21,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
 <!ENTITY aboutTelemetry.moreInformations "Butuh informasi lebih lanjut?">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Dasbor Telemetry</a> mengizinkan Anda memvisualkan data yang diterima Mozilla via Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Buka di penampil JSON">
 
