@@ -25,7 +25,7 @@
 <!ENTITY fileMenu.label               "Afaylu">
 <!ENTITY fileMenu.accesskey           "f">
 
-<!ENTITY newWindowCmd.label           "aAsfaylu amaynut">
+<!ENTITY newWindowCmd.label           "Asfaylu amaynut">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
