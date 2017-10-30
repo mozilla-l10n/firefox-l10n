@@ -54,5 +54,7 @@ sentence. -->
 <!ENTITY messageStyleDefaultTheme.label    "Стандартна">
 <!ENTITY messageStyleVariant.label         "Вариант:">
 <!ENTITY messageStyleVariant.accesskey     "В">
+<!ENTITY messageStyleShowHeader.label      "Показване на заглавен ред">
+<!ENTITY messageStyleShowHeader.accesskey  "з">
 <!ENTITY messageStyleNoPreview.title       "Няма преглед">
 <!ENTITY messageStyleNoPreview.description "Темата е непълна или временно недостъпна (изключена добавка, надежден режим и т.н).">
