@@ -49,9 +49,12 @@ sentence. -->
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Bobler">
 <!ENTITY messageStyleDarkTheme.label       "Mørk">
+<!ENTITY messageStylePaperSheetsTheme.label "Papirark">
 <!ENTITY messageStyleSimpleTheme.label     "Enkelt">
 <!ENTITY messageStyleDefaultTheme.label    "Standard">
 <!ENTITY messageStyleVariant.label         "Variant:">
 <!ENTITY messageStyleVariant.accesskey     "V">
 <!ENTITY messageStyleShowHeader.label      "Vis overskrift">
 <!ENTITY messageStyleShowHeader.accesskey  "o">
+<!ENTITY messageStyleNoPreview.title       "Ingen forhåndsvisning tilgjengelig">
+<!ENTITY messageStyleNoPreview.description "Dette temaet er ikke gyldig eller er for øyeblikket utilgjengelig (deaktivert utvidelse, sikker modus, ...).">
