@@ -45,6 +45,7 @@ sentence. -->
 <!ENTITY messageStyleTab.title             "Stil poruke">
 <!ENTITY messageStylePreview.label         "Pregled:">
 <!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Mjehurići">
 <!ENTITY messageStyleDarkTheme.label       "Tamno">
@@ -52,6 +53,8 @@ sentence. -->
 <!ENTITY messageStyleSimpleTheme.label     "Jednostavno">
 <!ENTITY messageStyleDefaultTheme.label    "Zadano">
 <!ENTITY messageStyleVariant.label         "Varijanta:">
+<!ENTITY messageStyleVariant.accesskey     "V">
 <!ENTITY messageStyleShowHeader.label      "Prikaži zaglavlje">
+<!ENTITY messageStyleShowHeader.accesskey  "H">
 <!ENTITY messageStyleNoPreview.title       "Nije dostupan pregled">
 <!ENTITY messageStyleNoPreview.description "Ova tema nije važeća ili trenutno nije dostupna (onemogućeni dodatak, siguran režim, ...).">
