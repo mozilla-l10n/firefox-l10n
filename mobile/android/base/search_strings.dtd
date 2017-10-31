@@ -2,23 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name "Mesa a jorn de &brandShortName;">
+<!ENTITY search_app_name 'Mesa a jorn de &brandShortName;'>
+
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Recercar amb &formatS;'>
 
-<!ENTITY search_bar_hint "Recercar amb &formatS;">
-
-<!ENTITY search_empty_title2 "Començar la recèrca">
+<!ENTITY search_empty_title2 'Començar la recèrca'>
+<!ENTITY search_empty_message 'Recercar rapidament tot çò que volètz'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Apondre a la barra de recèrca'>
 
-<!ENTITY search_pref_title "Paramètres">
-<!ENTITY search_pref_button_content_description "Paramètres">
+<!ENTITY search_pref_title 'Paramètres'>
+<!ENTITY search_pref_button_content_description 'Paramètres'>
 
+<!ENTITY pref_clearHistory_confirmation 'Istoric escafat'>
+<!ENTITY pref_clearHistory_dialogMessage 'Suprimir l’ensemble de l’istoric de recèrca d\&apos;aquel periferic ?'>
+<!ENTITY pref_clearHistory_title 'Voidar l\&apos;istoric de recèrca'>
 
+<!ENTITY search_widget_button_label 'Recercar'>
 
-
-<!ENTITY search_widget_button_label "Recercar">
-
-
+<!ENTITY network_error_title 'I a pas cap de connexion internet'>
+<!ENTITY network_error_message 'Tocar aquí per verificar los paramètres del ret'>
