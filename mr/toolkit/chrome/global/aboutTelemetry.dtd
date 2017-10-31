@@ -16,8 +16,12 @@
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry माहिती">
+<!ENTITY aboutTelemetry.moreInformations "अधिक माहिती शोधत आहात?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox डेटा डॉक्युमेंटेशन</a> मध्ये डेटा टूल्ससह कार्य कसे करावे त्याविषयी मार्गदर्शिका आहेत.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 JSON दर्शकामध्ये उघडा
