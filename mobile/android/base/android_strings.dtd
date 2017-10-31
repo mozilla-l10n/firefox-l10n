@@ -7,6 +7,10 @@
 <!ENTITY firstrun_urlbar_subtext2 "Mozillaचे आधुनिक ब्राउझर ना नफा, मुक्त आणि खुल्या वेबसाठी समर्पित आहे.">
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
 <!ENTITY firstrun_privacy_message "कोणीच पाहत नाही आहे असे ब्राउजिंग करा">
+<!ENTITY firstrun_privacy_subtext "ट्रॅकिंग संरक्षणसह खाजगी ब्राउझिंग ट्रॅकर्सना अवरोधित करतात आणि ब्राउझिंग पूर्ण केल्यावर आपला इतिहास लक्षात ठेवत नाही.">
+<!ENTITY firstrun_panel_title_customize "सानुकूलित">
+<!ENTITY firstrun_customize_message "&brandShortName; ला स्वतःच बनवा.">
+<!ENTITY firstrun_customize_subtext "&brandShortName; अॅड-ऑन्स सह सानुकूलित करा. जाहिराती अवरोधित करा, वैशिष्ट्ये जोडा किंवा आपले व्यक्तिमत्व परिवर्तित करणारी थिम निवडा.">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "आपले आवडते, अग्रभाग आणि मध्य">
 <!ENTITY firstrun_bookmarks_subtext "शोधताना आपल्या वाचनखूणा आणि इतिहासातुन शोध निष्कर्ष मिळवा.">
@@ -14,6 +18,8 @@
 <!ENTITY firstrun_data_message "कमी डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "प्रत्येक साईट भेटीवर कमी माहिती खर्च करण्यासाठी प्रतिमा अडवा.">
 <!ENTITY firstrun_sync_title "ताळमेळ">
+<!ENTITY firstrun_sync_message2 "आपण जिथून सोडले तिथून उचला.">
+<!ENTITY firstrun_sync_subtext2 "आपल्या सर्व डिव्हाइसेसवर &brandShortName; मध्ये आपण जतन केलेले बुकमार्क, संकेतशब्द आणि इतर गोष्टी शोधण्यासाठी Sync वापरा.">
 <!ENTITY firstrun_signin_message "जोडणी करा, प्रारंभ करा">
 <!ENTITY firstrun_signin_button "सींक करण्यासाठी साइन इन करा">
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
@@ -86,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; घटक">
 <!ENTITY bookmark_folder_one_item "1 घटक">
+<!ENTITY bookmark_folder_updated "फोल्डर अद्ययावत झाले आहे">
 <!ENTITY bookmark_parent_folder "पॅरेंट फोल्डर">
 <!ENTITY bookmark_add_folder "नवीन फोल्डर जोडा">
 
@@ -279,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "प्रायोगिक वैशिष्ट्ये">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "सानुकूल टॅब्स">
+<!ENTITY pref_custom_tabs_summary4 "अँप ला जलद चालू होणाऱ्या सानुकूल टॅब मध्ये वेब मजकूर ऊघडण्यास परवानगी द्या.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS; मध्ये उघडा">
@@ -350,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "URL पट्टीवर मध्ये QR स्कॅनरला परवानगी द्या">
 
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
+<!ENTITY pref_sync_default_title "Firefox खाते">
 <!ENTITY pref_sync2 "साइन इन">
 <!ENTITY pref_sync_summary2 "आपले टॅब्स, वाचनखूणा, लॉगइन्स, इतिहास यांचा ताळमेळ साधा">
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
@@ -472,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "खाजगी टॅब मध्ये उघडा">
 <!ENTITY contextmenu_remove "काढा">
 <!ENTITY contextmenu_add_to_launcher "मुख्य पटलावर जोडा">
+<!ENTITY contextmenu_add_page_shortcut "पृष्ठाचा शॉर्टकट जोडा">
 <!ENTITY contextmenu_set_as_homepage "मुखपृष्ठ म्हणून निश्चित करा">
 <!ENTITY contextmenu_share "शेअर">
 <!ENTITY contextmenu_pasteandgo "चिकटवा आणि चला">
@@ -486,10 +501,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "शीर्षस्थानी असलेल्या साइटवर पिन करा">
+<!ENTITY contextmenu_unpin_from_top_sites "शीर्ष साइटवरील अनपिन करा">
 <!ENTITY contextmenu_add_search_engine "शोध इंजिन जोडा">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "शीर्ष साइटवरील पिन केलेला पृष्ठ">
+<!ENTITY unpinned_page_from_top_sites "शीर्ष साइटवरील अनपिन केलेले पृष्ठ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -800,6 +819,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "मुख्य पटलावर जोडा">
 
+<!ENTITY promotion_add_page_shortcut "पृष्ठाचा शॉर्टकट जोडा">
+
 <!ENTITY helper_first_offline_bookmark_title "ऑफलाइन वाचा">
 <!ENTITY helper_first_offline_bookmark_message "वाचणखूणां मध्ये आपले वाचक दृश्य घटक शोधा, अगदी ऑफलाइन सुद्धा.">
 <!ENTITY helper_first_offline_bookmark_button "वाचणखूणा बघा">
@@ -810,6 +831,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "खास साईट्स">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; द्वारे शिफारस केलेले">
 <!ENTITY activity_stream_highlights "महत्त्वाचे">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
@@ -822,12 +844,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "भेट दिलेले">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "ट्रेंडिंग">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 <!ENTITY activity_stream_highlights_empty "ब्राउझिंग सुरू करा, आणि आम्ही आपल्याला इथे आपण अलीकडील भेट दिलेले किंवा वाचनखूण लावलेले उत्कृष्ठ लेख, व्हिडिओ, आणि इतर पृष्ठांपैकी काही दाखवू.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "काढून टाका">
 <!ENTITY activity_stream_delete_history "इतिहासातून नष्ट करा">
 
 <!ENTITY private_tab_panel_title "खाजगी ब्राउझिंग + ट्रॅकिंग संरक्षण">
@@ -835,3 +859,14 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "आम्ही कुठलाही इतिहास लक्षात ठेवणार नाही, पण डाउनलोड केलेल्या फाइल आणि नवीन वाचनखूणा मात्र आपल्या उपकरणावर साठवल्या जातील.">
 <!ENTITY private_tab_learn_more "अधिक जाणून घेऊ इच्छिता?">
 
+<!ENTITY fullscreen_warning "पूर्ण स्क्रीन प्रविष्ट केली">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ मुख्य पृष्ठाला जोडा">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "मुख्य पृष्ठाला जोडा">
+<!ENTITY pwa_continue_to_website "संकेतस्थळावर चला">
+<!ENTITY pwa_onboarding_sumo "त्वरित पाहण्यासाठी आपल्या मुख्य पृष्ठावर हे संकेतस्थळ सहजरित्या जोडू शकता व जलद ब्राउझ करून अॅप सारखा अनुभव मिळवू शकता.">
