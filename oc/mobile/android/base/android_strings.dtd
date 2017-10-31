@@ -414,6 +414,7 @@
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Rapòrt de plantatge de &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Manda de donadas a &vendorShortName; al subjècte de la santat de vòstre navigator e vos ajuda a comprene las performanças de vòstre navigator">
 <!ENTITY datareporting_abouthr_title "Afichar mon rapòrt de santat">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Manda d\&apos;informacions sus las performàncias, lo material, l\&apos;utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
@@ -422,6 +423,7 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportador de plantatge">
 <!ENTITY datareporting_wifi_title2 "Servici de localizacion &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Ajudatz &vendorShortName; a mapar lo mond ! Parteja la localizacion approximativa de rets Wi-Fi e mobils de vòstres periferics per melhorar nòstre servici de geolocalizacion.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -612,7 +614,10 @@
 <!ENTITY home_unpinned_site "Site despenjat">
 
 <!ENTITY remote_tabs_panel_moved_title "Mos onglets, ont son ?">
+<!ENTITY remote_tabs_panel_moved_desc "Avèm mudat vòstres onglets dels autres periferics cap a un panèl sus vòstra pagina d\&apos;acuèlh, aissí es mai aisit d\&apos;i accedir cada còp que dobrissètz un onglet novèl.">
+<!ENTITY remote_tabs_panel_moved_link "Anar al panèl novèl.">
 
+<!ENTITY pin_site_dialog_hint "Picar un mot clau per la recèrca">
 
 <!ENTITY filepicker_title "Causir un fichièr">
 <!ENTITY filepicker_audio_title "Causir o enregistrar un son">
@@ -634,13 +639,20 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexion securizada">
 <!ENTITY identity_connection_insecure "Connexion pas segura">
+<!ENTITY identity_connection_chromeui "Aquò es una pagina de &brandShortName; segura">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; a blocat lo contengut pas segur d\&apos;aquesta pagina.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; a blocat de contengut pas segur d\&apos;aquesta pagina.">
+<!ENTITY mixed_content_display_loaded1 "D\&apos;elements de la pagina son pas segurs (coma los imatges).">
+<!ENTITY mixed_content_protection_disabled1 "Avètz desactivat la proteccion contra lo contengut pas segur.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Proteccion contra lo seguiment">
 <!ENTITY doorhanger_tracking_state_enabled "Activat">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivat">
+<!ENTITY doorhanger_tracking_message_enabled1 "Avèm blocats los ensages de pistatge de vòstre comportament en linha.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Aquesta pagina compren d\&apos;elements que pòdon pistar vòstra navigacion.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Ne saber mai">
@@ -680,10 +692,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tocar per aplicar la mesa a jorn un còp telecargada">
 <!ENTITY updater_downloading_retry2 "Tocar per tornar ensajar">
 
+<!ENTITY updater_apply_title3 "Mesa a jorn de &brandShortName; telecargada">
+<!ENTITY updater_apply_select3 "Tocar per installar">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Per telecargar de fichièrs o de mesas a jorn, vos cal autorizar &brandShortName; a accedir a l’espaci d\&apos;estocatge.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Autorizar">
 
@@ -692,8 +707,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "Tampar la session de convidat ">
 <!ENTITY guest_session_dialog_continue "Contunhar">
 <!ENTITY guest_session_dialog_cancel "Anullar">
+<!ENTITY new_guest_session_title "&brandShortName; reaviarà ara">
+<!ENTITY new_guest_session_text2 "La persona que l\&apos;utiliza poirà pas veire cap de vòstras donadas de navigacion personalas (coma senhals servats, istoric o marcapaginas).\n\nQuand vòstre convidat aurà acabarat,sas donadas de navigacion seràn suprimidas e se restablirà vòstra session.">
+<!ENTITY guest_browsing_notification_title "Navigacion convidat activada">
 <!ENTITY guest_browsing_notification_text "Tocatz per sortir">
 
+<!ENTITY exit_guest_session_title "&brandShortName; tornar aviar ara">
+<!ENTITY exit_guest_session_text "Las donadas de navigacion d\&apos;aquela session seràn suprimidas.">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -725,6 +745,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Aquel ligam serà dobèrt dins &formatS;. Segur que volatz quitar la navigacion privada ?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
