@@ -40,19 +40,25 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> telah <a id='error_desc_link'>dilaporkan mengandung perangkat lunak berbahaya</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Pelajari lebih lanjut tentang perangkat lunak berbahaya dan tidak diinginkan di <a id='learn_more_link'>Unwanted Software Policy</a>. Pelajari lebih lanjut tentang Perlindungan Pengelabuan dan Perangkat Perusak di <a id='firefox_support'>support.mozilla.org</a>.">
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Situs tipuan">
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; memblokir laman ini karena diduga akan mengecoh Anda untuk melakukan sesuatu yang berbahaya seperti memasang perangkat lunak atau mengungkap informasi pribadi seperti sandi atau kartu kredit.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> telah <a id='error_desc_link'>dilaporkan sebagai situs tipuan</a>. Anda dapat <a id='report_detection'>melaporkan masalah pendeteksian</a> atau <a id='ignore_warning_link'>abaikan risikonya</a> dan mengunjungi situs tidak aman ini.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> telah <a id='error_desc_link'>dilaporkan sebagai situs tipuan</a>. Anda dapat <a id='report_detection'>melaporkan masalah pendeteksian</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Pelajari lebih lanjut tentang situs tipuan dan pengelabuan di <a id='learn_more_link'>www.antiphishing.org</a>. Pelajari lebih lanjut tentang Perlindungan Pengelabuan dan Perangkat Perusak dari &brandShortName; di <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Situs tujuan mungkin mengandung perangkat perusak">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; memblokir laman ini karena mencoba memasang aplikasi berbahaya yang dapat mencuri atau menghapus infomasi Anda (seperti foto, sandi, pesan, dan kartu kredit).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> telah <a id='error_desc_link'>dilaporkan berisi aplikasi yang diduga berbahaya</a>. Anda dapat <a id='ignore_warning_link'>mengabaikan risikonya</a> dan mengunjungi situs tidak aman ini.">
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> telah <a id='error_desc_link'>dilaporkan berisi aplikasi yang mungkin berbahaya</a>.">
 

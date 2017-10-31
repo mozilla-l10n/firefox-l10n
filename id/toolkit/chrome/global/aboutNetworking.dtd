@@ -54,3 +54,5 @@
 <!ENTITY aboutNetworking.rcwnAvgShort          "Rata-rata Pendek">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Rata-rata Panjang">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Deviasi Standar Panjang">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Tembolok hitung lambat">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Tembolok hitung tidak lambat">
