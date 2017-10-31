@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "সাইডবার">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "স্বনির্ধারণ…">
+<!ENTITY viewCustomizeToolbar.label       "কাস্টোমাইজ…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "কাস্টোমাইজ টুলবার…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "সব ইতিহাস প্রদর্শন">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "স্বনির্ধারণ">
+<!ENTITY appMenuCustomize.label "কাস্টোমাইজ">
 <!ENTITY appMenuCustomize.tooltip "মেনু এবং টুলবার সাজান">
 <!ENTITY appMenuCustomizeExit.label "সাজানো থেকে প্রস্থান">
 <!ENTITY appMenuCustomizeExit.tooltip "সাজানো সম্পন্ন">
