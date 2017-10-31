@@ -24,3 +24,10 @@
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Puni hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Istek pozitivnog keša">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debagiraj">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Podesi module zapisnika">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Podesi fajl zapisnika">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Podesi JS zapisnik">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Moduli zapisivanja sigurnog surfanja">
+<!ENTITY aboutUrlClassifier.debugModules                "Trenutni moduli zapisivanja">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS zapisnik sigurnog surfanja">
+<!ENTITY aboutUrlClassifier.debugFile                   "Trenutni fajl zapisnika">

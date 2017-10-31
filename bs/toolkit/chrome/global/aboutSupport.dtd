@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesni prozori">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procesi web sadržaja">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
@@ -105,6 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Pristupačnost">
 <!ENTITY aboutSupport.a11yActivated "Aktivirana">
 <!ENTITY aboutSupport.a11yForceDisabled "Prevencija pristupačnosti">
+<!ENTITY aboutSupport.a11yHandlerUsed "Korišteni upravljač pristupačnosti">
+<!ENTITY aboutSupport.a11yInstantiator "Instancijator pristupačnosti">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Verzije biblioteke">
 

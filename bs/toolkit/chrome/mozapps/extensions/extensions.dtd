@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "Idi nazad jednu stranicu">
 <!ENTITY cmd.forward.tooltip                  "Idi naprijed jednu stranicu">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Neke ekstenzije nisu mogle biti verifikovane">
 <!ENTITY showAllExtensions.button.label       "Prikaži sve ekstenzije">
 <!ENTITY debugAddons.label                    "Debagiranje add-ona">
@@ -189,6 +190,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "ZASTARJELO">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -254,3 +256,7 @@
 <!ENTITY pluginDeprecation.description "Fali vam nešto? Neki plugini više nisu podržani od strane &brandShortName;a.">
 <!ENTITY pluginDeprecation.learnMore "Saznajte više.">
 
+<!ENTITY legacyWarning.showLegacy "Prikaže zastarjele ekstenzije">
+<!ENTITY legacyExtensions.title "Zastarjele ekstenzije">
+<!ENTITY legacyExtensions.description "Ove ekstenzije ne zadovoljavaju trenutne &brandShortName; standarde i stoga su deaktivirane.">
+<!ENTITY legacyExtensions.learnMore "Saznajte više o promjenama na add-onima">

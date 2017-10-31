@@ -43,7 +43,16 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP adrese">
 <!ENTITY aboutNetworking.rcwn                  "RCWN statistika">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN status">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache won count">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Ukupan broj mrežnih zahtjeva">
 <!ENTITY aboutNetworking.rcwnOperation         "Keš operacija">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Otvori">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Čitaj">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Piši">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Unos otvoren">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Kratka prosječna">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Duga prosječna">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Dugo standardno odstupanje">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache slow count">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache not slow count">

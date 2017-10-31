@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otvori panel s porukama">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otvori panel sa zahtjevima lokacije">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otvori panel s porukama instalacije add-ona">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljanje dozvolama za ekstrakciju canvasa">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvori panel s porukama offline pohrane">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvori panel s porukama o spašenim lozinkama">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje korištenjem plugina">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Blokirali ste pohranjivanje podataka za ovu web stranicu.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Blokirali ste notifikacije za ovu web stranicu.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokirali ste trajno spremište za ovu web stranicu.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Imate blokirane pop-up prozore za ovu web stranicu.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži historiju">
 
@@ -784,7 +787,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Više informacija">
 
-<!ENTITY identity.permissions "Permisije">
+<!ENTITY identity.permissions "Dozvole">
 <!ENTITY identity.permissionsEmpty "Ovoj stranici niste dodijelili nikakve posebne dozvole.">
 <!ENTITY identity.permissionsReloadHint "Možda ćete morati ponovo učitati stranicu radi primjene izmjena.">
 
@@ -846,6 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Vrati izvorne vrijednosti">
 <!ENTITY customizeMode.done "Gotovo">
 <!ENTITY customizeMode.titlebar "Traka s naslovom">
+<!ENTITY customizeMode.extraDragSpace "Prostor za prevlačenje">
 <!ENTITY customizeMode.toolbars2 "Alatne trake">
 <!ENTITY customizeMode.lwthemes "Teme">
 <!ENTITY customizeMode.lwthemes.myThemes "Moje teme">
@@ -855,6 +859,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Preuzmite više tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Prevucite stavke ovdje kako bi vam bile na dohvat ruke a izvan vaše alatne trake…">
+<!ENTITY customizeMode.overflowList.title2 "Dodatni meni">
+<!ENTITY customizeMode.overflowList.description "Prevucite stavke ovdje kako bi vam bile na dohvat ruke ali izvan vaše alatne trake…">
 <!ENTITY customizeMode.uidensity "Gustina">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
