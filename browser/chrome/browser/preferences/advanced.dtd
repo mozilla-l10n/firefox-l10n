@@ -29,7 +29,7 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे">
 
-<!ENTITY enableHealthReport2.label       "Mozilla ला तांत्रिक व परस्परसंवाद माहिती पाठविण्यासाठी &BrandShortName; ला परवानगी द्या">
+<!ENTITY enableHealthReport2.label       "Mozilla ला तांत्रिक व परस्परसंवाद माहिती पाठविण्यासाठी &brandShortName; ला परवानगी द्या">
 <!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "आणखी जाणा">
 

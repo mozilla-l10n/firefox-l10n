@@ -971,7 +971,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; ची नवी प्रत डाऊनलोड करा.">
 
-<!ENTITY updateRestart.message2 "द्रुत पुनःसुरु केल्यानंतर, & brandShorterName; आपल्या सर्व उघडे टॅब आणि पटल जे खाजगी ब्राउझिंग स्थितीमध्ये नसतील, ते पुनर्संचयित करेल.">
+<!ENTITY updateRestart.message2 "द्रुत पुनःसुरु केल्यानंतर, &brandShorterName; आपल्या सर्व उघडे टॅब आणि पटल जे खाजगी ब्राउझिंग स्थितीमध्ये नसतील, ते पुनर्संचयित करेल.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; अद्ययावत करण्यासाठी बंद करून पुन्हा सुरु करा.">
 <!ENTITY updateRestart.acceptButton.label "पुन्हा सुरु करा व पूर्वस्थितीत आणा">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
