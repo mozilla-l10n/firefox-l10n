@@ -21,11 +21,14 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
+<!ENTITY clearDataSettings2.label     "Kapag huminto ako &brandShortName;, dapat itong awtomatikong i-clear ang lahat:">
 
+<!ENTITY clearDataSettings3.label     "Kapag huminto ako &brandShortName;, dapat itong awtomatikong i-clear ang lahat">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
+<!ENTITY clearTimeDuration.label          "Saklaw ng oras upang i-clear: ">
 <!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "Huling Oras">
 <!ENTITY clearTimeDuration.last2Hours     "Nakaraang dalawang oras">
@@ -45,12 +48,15 @@ that require it.  -->
 <!ENTITY historySection.label         "Kasaysayan">
 <!ENTITY dataSection.label            "Data">
 
+<!ENTITY itemHistoryAndDownloads.label     "Pag-browse &amp; I-download ang Kasaysayan">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemFormSearchHistory.label       "Form &amp; Kasaysayan ng Paghahanap">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">
 <!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemOfflineApps.label             "Data ng Offline na Website">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "Mga Login na Aktibo">
 <!ENTITY itemActiveLogins.accesskey        "L">

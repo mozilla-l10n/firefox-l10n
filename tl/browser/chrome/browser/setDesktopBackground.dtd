@@ -6,6 +6,9 @@
 <!ENTITY tile.label                 "Tile">
 <!ENTITY center.label               "Gitna">
 <!ENTITY stretch.label              "Mag-stretch">
+<!ENTITY fill.label                 "Punan">
+<!ENTITY fit.label                  "Pagkasyahin">
+<!ENTITY preview.label              "I-preview">
 <!ENTITY color.label                "Kulay:">
 <!ENTITY setDesktopBackground.title "Gawing Background ng Desktop">
 <!ENTITY openDesktopPrefs.label     "Buksan ang mga Preferences ng Desktop">

@@ -1,18 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY retry.label "Ulitin">
-<!-- Specific error messages -->
 
+<!ENTITY retry.label "Ulitin">
+
+<!-- Specific error messages -->
 
 
 
 <!ENTITY dnsNotFound.title "Hindi matagpuan ang Address">
 
-
 <!ENTITY fileNotFound.title "File Hindi Natagpuan">
-
-
 
 
 <!ENTITY generic.longDesc "<p>Karagdagang impormasyon tungkol sa problema o error na ito ay kasalukuyang hindi magagamit.</p>">
@@ -22,10 +20,7 @@
 
 
 
-
-
-
-
+<!ENTITY contentEncodingError.title "Error sa Pag-encode ng Nilalaman">
 
 <!ENTITY unsafeContentType.title "Hindi ligtas na file type">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">
@@ -35,32 +30,22 @@
 
 <!ENTITY netTimeout.title "Network Timeout">
 
-
 <!ENTITY unknownProtocolFound.title "Unknown Protocol">
-
 
 <!ENTITY proxyConnectFailure.title "Proxy Server Refused Connection">
 
-
 <!ENTITY proxyResolveFailure.title "Hindi Matagpuan ang Proxy Server">
-
 
 <!ENTITY redirectLoop.title "Redirect Loop">
 
-
 <!ENTITY unknownSocketType.title "Maling Kasagutan">
 
-
 <!ENTITY nssFailure2.title "Nagbigo ang Panatag na Koneksiyon">
-
 
 <!ENTITY nssBadCert.title "Nagbigo ang Panatag na Koneksiyon">
 
 
-
-
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
-
 
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ang pahinang sinusubukan mong tignan ay hindi pwedeng ipakita sapagkat mayroong problemang napuna sa pagpapadala nang data.</p><ul><li>Ipagbigay alam sa may-ari nang website ang tungkol sa problemang ito.</li></ul>">
