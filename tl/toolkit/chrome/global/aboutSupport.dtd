@@ -44,10 +44,16 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Paganahin na mga Plugin">
+<!ENTITY aboutSupport.appBasicsOS "OS">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Paggamit ng Memory">
+<!ENTITY aboutSupport.appBasicsPerformance "Pagganap">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Mga Nakarehistrong Manggagawa ng Serbisyo">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Mga Profile">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess Windows">
 
 
 
@@ -83,6 +89,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopyahhin ang raw na datus sa clipboard">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
 
 

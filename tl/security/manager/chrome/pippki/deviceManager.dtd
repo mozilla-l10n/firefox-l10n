@@ -13,10 +13,15 @@
 <!ENTITY devmgr.button.logout.accesskey         "O">
 <!ENTITY devmgr.button.changepw.label           "Palitan ang Password">
 <!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "I-unload">
+<!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Ipasok ang impormasyon para sa module na gusto mong idagdag.">
-<!ENTITY loaddevice.modname.accesskey           "M">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.modname2.accesskey          "M">
+<!ENTITY loaddevice.modname.default             "Bago PKCS#11 Module">
+<!ENTITY loaddevice.filename2.accesskey         "f">
+<!ENTITY loaddevice.browse                      "Mag browse…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

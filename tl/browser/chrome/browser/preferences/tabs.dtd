@@ -13,6 +13,7 @@
 
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.label        "Kapag binuksan mo ang isang link sa isang bagong tab, agad itong lumipat">
 <!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Ipakita ang paunang-tingin na tab sa Windows taskbar">
