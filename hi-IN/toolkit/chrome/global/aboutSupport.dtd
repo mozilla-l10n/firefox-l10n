@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "सक्रिय">
 <!ENTITY aboutSupport.a11yForceDisabled "पहुँच रोकें">
 <!ENTITY aboutSupport.a11yHandlerUsed "सुगम संचालक प्रयुक्त">
+<!ENTITY aboutSupport.a11yInstantiator "अभिगम्यता दृष्टांतकर्ता">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "लाइब्रेरी संस्करण">
 
@@ -123,6 +124,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "प्रक्रिया का प्रकार">
+<!ENTITY aboutSupport.sandboxSyscallNumber "सिसकॉल">
 <!ENTITY aboutSupport.sandboxSyscallArgs "मापदंड">
 
 <!ENTITY aboutSupport.safeModeTitle "सुरक्षित मोड में कोशिश करें">

@@ -22,6 +22,8 @@
 <!ENTITY aboutTelemetry.pageTitle " दूरमापी आंकड़ा">
 <!ENTITY aboutTelemetry.moreInformations "और अधिक जानकारी खोज रहे हैं?">
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox डेटा दस्तावेज़ीकरण</a> में हमारे डेटा उपकरणों के साथ काम करने के तरीक़े हैं.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox दूरमापी ग्राहक प्रलेखन</a> में संकल्पनाओं, API प्रलेखन और आँकड़ों के संदर्भ के लिए परिभाषाएँ शामिल हैं.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>दूरमापी नियंत्रण-पट्ट</a> आपको दूरमापी के माध्यम से Mozilla को प्राप्त होने वाले आँकड़ों को देखने का अवसर देता है.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON दर्शक में खोलें">
 
