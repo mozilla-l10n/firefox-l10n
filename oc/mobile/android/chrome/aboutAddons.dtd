@@ -4,11 +4,11 @@
 
 <!ENTITY aboutAddons.title2                     "Moduls complementaris">
 <!ENTITY aboutAddons.header2                    "Vòstres moduls complementaris">
-<!ENTITY aboutAddons.options                    "Opcions">
 
 <!ENTITY addonAction.enable                     "Activar">
 <!ENTITY addonAction.disable                    "Desactivar">
 <!ENTITY addonAction.uninstall                  "Desinstallar">
 <!ENTITY addonAction.undo                       "Anullar">
 
+<!ENTITY addonUnsigned.message                  "&brandShortName; a pas pogut verificar aqueste modul.">
 <!ENTITY addonUnsigned.learnMore                "Ne saber mai…">
