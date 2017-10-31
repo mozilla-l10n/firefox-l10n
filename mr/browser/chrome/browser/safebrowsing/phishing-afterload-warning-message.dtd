@@ -24,7 +24,9 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> ला <a id='error_desc_link'>दुर्भावनापूर्ण सॉफ्टवेअर समाविष्ट केल्याच्या रुपात नोंदवले गेले आहे</a>. आपण <a id='report_detection'>ओळख समस्या नोंदवू शकता</a> किंवा <a id='ignore_warning_link'>धोका दुर्लक्ष करू शकता</a> आणि या असुरक्षित साइटवर जाऊ शकता.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> यामध्ये <a id='error_desc_link'>धोकादायक सॉफ्टवेअर आहे असे निदर्शनास आणण्यात आलेले आहे</a>. आपण <a id='report_detection'>शोधण्याची समस्या</a> निदर्शनास आणु शकता.">
 
 
 
