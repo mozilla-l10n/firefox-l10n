@@ -47,7 +47,9 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; ने इस पृष्ठ को अवरुद्ध किया क्योंकि यह आपको सॉफ़्टवेयर अधिस्थापित करने अथवा पासवर्ड या क्रेडिट कार्ड जैसी व्यक्तिगत जानकारी का खुलासा करने जैसी खतरनाक कार्य करने में छल कर सकता हैं.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> को <a id='error_desc_link'>एक भ्रामक साइट के रूप में प्रतिवेदित किया गया है</a>. आप <a id='report_detection'>एक पहचान की समस्या की रिपोर्ट कर सकते हैं</a> या <a id='ignore_warning_link'>जोखिम को अनदेखा करें</a> और इस असुरक्षित साइट पर जाएँ.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> को <a id='error_desc_link'>एक भ्रामक साइट के रूप में प्रतिवेदित किया गया है</a>. आप <a id='report_detection'>एक पहचान की समस्या की रिपोर्ट कर सकते हैं</a>.">
 
 <!ENTITY safeb.blocked.phishingPage.learnMore "धोखादायक साइटों और फ़िशिंग के बारे में <a id='learn_more_link'>www.antiphishing.org</a> पर और जानें. &brandShortName; के फ़िशिंग और मैलवेयर संरक्षण के बारे में <a id='firefox_support'>support.mozilla.org</a> पर और जानें.">
 
@@ -56,6 +58,8 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; ने इस पृष्ठ को अवरोधित कर दिया क्योंकि यह ख़तरनाक ऐप्स अधिस्थापित करने का प्रयास कर सकता है जो कि आपकी जानकारियाँ (जैसे फ़ोटो, पासवर्ड, संदेश और क्रेडिट कार्ड) चुरा अथवा मिटा सकती हैं.">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> को <a id='error_desc_link'>संभावित हानिकारक अनुप्रयोग युक्त प्रतिवेदित किया गया है</a>. आप <a id='ignore_warning_link'>जोखिम को अनदेखा कर</a> इस असुरक्षित साइट पर जा सकते हैं.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> को <a id='error_desc_link'>संभावित हानिकारक अनुप्रयोग युक्त प्रतिवेदित किया गया है</a>.">
 
 <!ENTITY safeb.blocked.harmfulPage.learnMore "&brandShortName; के फ़िशिंग और मैलवेयर संरक्षण के बारे में <a id='firefox_support'>support.mozilla.org</a> पर और जानें.">
