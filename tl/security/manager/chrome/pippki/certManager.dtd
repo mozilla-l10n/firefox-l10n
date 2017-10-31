@@ -5,11 +5,6 @@
 
 <!ENTITY certmgr.tab.orphan2                  "Iba pa">
 
-<!ENTITY certmgr.mine                         "Mayroon kang mga sertipiko mula sa mga organisasyong ito na makilala mo:">
-<!ENTITY certmgr.others                       "Mayroon kang mga sertipiko sa file na makilala ang mga taong ito:">
-<!ENTITY certmgr.websites2                    "Mayroon kang mga sertipiko sa file na kilalanin ang mga server:">
-<!ENTITY certmgr.cas                          "Mayroon kang mga sertipiko sa file na kilalanin ng mga certificate authorities na ito:">
-<!ENTITY certmgr.orphans                      "Mayroon kang mga sertipiko sa file na hindi magkasya sa anumang iba pang mga kategorya:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Pangkalahatan">
 <!ENTITY certmgr.detail.general_tab.accesskey "P">
@@ -19,28 +14,43 @@
 <!ENTITY certmgr.pending.label                "Kasalukuyan pang beneberipika ang certificate...">
 <!ENTITY certmgr.certdetail.title             "Detalye ng Sertipiko">
 <!ENTITY certmgr.certdetail.o                 "Organisasyon (O)">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Fingerprint">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Fingerprint">
 
 <!ENTITY certmgr.editcacert.title             "i-Edit ang CA certificate trust settings">
 <!ENTITY certmgr.editcert.edittrust           "i-Edit ang trust settings:">
 <!ENTITY certmgr.editcert.trustssl            "This certificate can identify web sites.">
+<!ENTITY certmgr.editcert.trustemail          "Ang sertipiko na ito ay maaaring makilala ang mga gumagamit ng mail.">
 <!ENTITY certmgr.editcert.trustobjsign        "Ang certificate na ito ay may kakayahan na i-identify ang mga may gawa ng software.">
 
 <!ENTITY certmgr.deletecert.title             "Burahin ang Sertipiko">
 
 <!ENTITY certmgr.certname                     "Pangalan ng Sertipiko">
+<!ENTITY certmgr.certserver                   "Server">
+<!ENTITY certmgr.serial                       "Serial Number">
 
 <!ENTITY certmgr.close.label                  "Isara">
 <!ENTITY certmgr.close.accesskey              "I">
 <!ENTITY certmgr.view2.label                  "Tingnan">
 <!ENTITY certmgr.view2.accesskey              "T">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.export.label                 "I-export...">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Burahin…">
 <!ENTITY certmgr.delete2.accesskey            "B">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.backup2.label                "Backup…">
+<!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "I-backup ang Lahat…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label               "I-import...">
 <!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.details.label                "Mga Patlang ng Certificate">
+<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.fields.label                 "Halaga ng Patlang">
+<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.hierarchy.label              "Certificate Hierarchy">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 
 <!ENTITY exceptionMgr.title                   "Magdagdag ng Security Exception">
 <!ENTITY exceptionMgr.exceptionButton.label   "I-Confirm ang Security Exception">

@@ -140,3 +140,6 @@
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "Keybindings">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">

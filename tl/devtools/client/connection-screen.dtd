@@ -7,6 +7,7 @@
   - in the Web Developer menu.
   - -->
 
+<!ENTITY host       "Host:">
 <!ENTITY port       "Port:">
 <!ENTITY connecting "Kumokonek...">
 
