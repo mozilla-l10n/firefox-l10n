@@ -104,44 +104,44 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile           "Φιλτράρισμα σεναρίων">
-<!ENTITY debuggerUI.searchFile.key       "Ρ">
+<!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "Λ">
 <!ENTITY debuggerUI.searchFile.accesskey "Ρ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 <!ENTITY debuggerUI.searchGlobal           "Αναζήτηση σε όλα τα αρχεία">
-<!ENTITY debuggerUI.searchGlobal.key       "Α">
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "Α">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 <!ENTITY debuggerUI.searchFunction           "Αναζήτηση ορισμού συνάρτησης">
-<!ENTITY debuggerUI.searchFunction.key       "Ο">
+<!ENTITY debuggerUI.searchFunction.key       "D">
 <!ENTITY debuggerUI.searchFunction.accesskey "Ο">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken           "Εύρεση">
-<!ENTITY debuggerUI.searchToken.key       "Ε">
+<!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Μετάβαση στη σειρά…">
-<!ENTITY debuggerUI.searchGoToLine.key       "Σ">
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "Σ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable           "Φιλτράρισμα μεταβλητών">
-<!ENTITY debuggerUI.searchVariable.key       "Μ">
+<!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "Μ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 <!ENTITY debuggerUI.focusVariables           "Εστίαση στο δέντρο μεταβλητών">
-<!ENTITY debuggerUI.focusVariables.key       "Μ">
+<!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "Μ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
@@ -151,18 +151,18 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak     "Προσθήκη σημείου διακοπής">
-<!ENTITY debuggerUI.seMenuBreak.key "Δ">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Προσθήκη σημείου διακοπής υπό όρους">
-<!ENTITY debuggerUI.seMenuCondBreak.key "Δ">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Επεξεργασία σημείου διακοπής υπό όρους">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "Δ">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
@@ -176,7 +176,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "Επιλογή για έκφραση παρακολούθησης">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "Ε">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
@@ -186,7 +186,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch           "Αφαίρεση όλων των εκφράσεων παρακολούθησης">
-<!ENTITY debuggerUI.removeAllWatch.key       "Ε">
+<!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
@@ -209,4 +209,4 @@
   -  the same as netmonitorUI.context.copyUrl -->
 <!ENTITY debuggerUI.context.copyUrl           "Αντιγραφή URL">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "Α">
-<!ENTITY debuggerUI.context.copyUrl.key "Α">
+<!ENTITY debuggerUI.context.copyUrl.key "C">
