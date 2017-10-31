@@ -77,7 +77,7 @@ available. -->
 <!ENTITY overrideSmartCacheSize.label    "Preskoči automatsko upravljanje cacheom">
 <!ENTITY overrideSmartCacheSize.accesskey "c">
 
-<!ENTITY updateTab.label                 "Update">
+<!ENTITY updateTab.label                 "Nadogradnja">
 
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
@@ -105,7 +105,7 @@ available. -->
 <!ENTITY updateHistory2.label            "Prikaži historijat nadogradnji…">
 <!ENTITY updateHistory2.accesskey        "P">
 
-<!ENTITY useService.label                "Koristi pozadinski servis za instalaciju update-a">
+<!ENTITY useService.label                "Koristi pozadinski servis za instalaciju nadogradnji">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY enableSearchUpdate2.label       "Automatski nadograđuj pretraživače">
