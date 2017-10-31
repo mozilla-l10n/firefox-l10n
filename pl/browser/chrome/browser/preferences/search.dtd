@@ -12,7 +12,7 @@
 <!ENTITY provideSearchSuggestions.accesskey "">
 <!ENTITY showURLBarSuggestions2.label "Podpowiedzi wyszukiwania w podpowiedziach paska adresu">
 <!ENTITY showURLBarSuggestions2.accesskey "">
-<!ENTITY urlBarSuggestionsPermanentPB.label "Podpowiedzi wyszukiwania nie będą wyświetlane w podpowiedziach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania Firefoksa.">
+<!ENTITY urlBarSuggestionsPermanentPB.label "Podpowiedzi wyszukiwania nie będą wyświetlane w podpowiedziach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu &brandShortName;.">
 
 <!ENTITY oneClickSearchEngines.label "Dodatkowe wyszukiwarki">
 <!ENTITY chooseWhichOneToDisplay2.label "Wybierz dodatkowe wyszukiwarki wyświetlane na dole wyników wyszukiwania w pasku adresu i pasku wyszukiwania.">

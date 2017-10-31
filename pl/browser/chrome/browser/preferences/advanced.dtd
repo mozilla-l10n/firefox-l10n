@@ -24,8 +24,8 @@
 
 <!ENTITY healthReportingDisabled.label "Przesyłanie danych jest wyłączone przy tej konfiguracji programu">
 
-<!ENTITY dataCollection.label "Dane zbierane przez Firefoksa">
-<!ENTITY dataCollectionDesc.label "Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić Firefoksa dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.">
+<!ENTITY dataCollection.label "Dane zbierane przez program &brandShortName;">
+<!ENTITY dataCollectionDesc.label "Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program &brandShortName; dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.">
 <!ENTITY dataCollectionPrivacyNotice.label "Uwagi dotyczące prywatności">
 <!ENTITY enableHealthReport2.label "Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.">
 <!ENTITY enableHealthReport2.accesskey "">
@@ -62,11 +62,11 @@
 <!ENTITY overrideSmartCacheSize.accesskey "">
 
 <!ENTITY updateTab.label                 "Aktualizacja">
-<!ENTITY updateApplication.label "Aktualizacje Firefoksa">
-<!ENTITY updateApplicationDescription.label "Utrzymuj Firefoksa aktualnym dla najlepszej wydajności, stabilności i bezpieczeństwa.">
+<!ENTITY updateApplication.label "Aktualizacje programu &brandShortName;">
+<!ENTITY updateApplicationDescription.label "Utrzymuj program &brandShortName; aktualnym dla najlepszej wydajności, stabilności i bezpieczeństwa.">
 <!ENTITY updateApplication.version.pre "Wersja: ">
 <!ENTITY updateApplication.version.post "">
-<!ENTITY updateApplication.description "Zezwalaj Firefoksowi na:">
+<!ENTITY updateApplication.description "Zezwalaj programowi &brandShortName; na:">
 <!ENTITY updateAuto3.label "Automatyczne instalowanie aktualizacji (zalecane)">
 <!ENTITY updateAuto3.accesskey "">
 <!ENTITY updateCheckChoose2.label "Sprawdzanie dostępności aktualizacji i pytania o ich instalację">
@@ -113,7 +113,7 @@
 <!ENTITY limitContentProcessOption.label "Limit liczby procesów treści:">
 <!ENTITY limitContentProcessOption.description "Więcej procesów treści może poprawić wydajność przy wielu otwartych kartach, ale zwiększy też zapotrzebowanie na pamięć.">
 <!ENTITY limitContentProcessOption.accesskey "">
-<!ENTITY limitContentProcessOption.disabledDescription "Zmiana liczby procesów jest możliwa, jeśli &brandShortName; został uruchomiony z obsługą wielu procesów.">
+<!ENTITY limitContentProcessOption.disabledDescription "Zmiana liczby procesów jest możliwa, jeśli program &brandShortName; został uruchomiony z obsługą wielu procesów.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink "Jak sprawdzić, czy obsługa wielu procesów jest włączona?">
 <!ENTITY allowHWAccel.label "Korzystaj ze sprzętowego przyspieszania, jeśli jest dostępne">
 <!ENTITY allowHWAccel.accesskey "">

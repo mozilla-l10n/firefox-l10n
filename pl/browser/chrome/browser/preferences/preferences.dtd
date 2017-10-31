@@ -4,7 +4,7 @@
 
 <!ENTITY prefWindow.titleWin "Opcje">
 <!ENTITY prefWindow.title "Preferencje">
-<!ENTITY prefWindow.titleGNOME "Preferencje Firefoksa">
+<!ENTITY prefWindow.titleGNOME "Preferencje programu &brandShortName;">
 
 <!ENTITY prefWinMinSize.styleWin2 "width: 47em; min-height: 37.5em;">
 <!ENTITY prefWinMinSize.styleMac "width: 50em; min-height: 40em;">
@@ -23,4 +23,4 @@
 <!ENTITY browserPrivacy.label "Prywatność">
 <!ENTITY paneSync1.title "Konto Firefoksa">
 
-<!ENTITY helpButton2.label "Wsparcie Firefoksa">
+<!ENTITY helpButton2.label "Wsparcie programu &brandShortName;">

@@ -6,11 +6,11 @@
 
 <!ENTITY update.checkForUpdatesButton.label "Sprawdź dostępność aktualizacji">
 <!ENTITY update.checkForUpdatesButton.accesskey "S">
-<!ENTITY update.updateButton.label3 "Uruchom ponownie Firefoksa, aby go uaktualnić">
+<!ENTITY update.updateButton.label3 "Uruchom ponownie program &brandShortName;, aby go uaktualnić">
 <!ENTITY update.updateButton.accesskey "U">
 
-<!ENTITY warningDesc.version "&brandShortName; jest wersją rozwojową i może być niestabilny.">
-<!ENTITY warningDesc.telemetryDesc "Dane o wydajności, wykorzystaniu, modyfikacjach oraz o sprzęcie, na którym działa, są wysyłane do organizacji &vendorShortName;, aby ulepszać Firefoksa.">
+<!ENTITY warningDesc.version "Program &brandShortName; jest wersją rozwojową i może być niestabilny.">
+<!ENTITY warningDesc.telemetryDesc "Dane o wydajności, wykorzystaniu, modyfikacjach oraz o sprzęcie, na którym działa, są wysyłane do organizacji &vendorShortName;, aby ulepszać program &brandShortName;.">
 
 <!ENTITY community.exp.start "">
 <!ENTITY community.exp.mozillaLink "&vendorShortName;">
@@ -18,7 +18,7 @@
 <!ENTITY community.exp.creditsLink "globalną społecznością">
 <!ENTITY community.exp.end ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
 
-<!ENTITY community.start2 "&brandShortName; został opracowany przez ">
+<!ENTITY community.start2 "Program &brandShortName; został opracowany przez ">
 <!ENTITY community.mozillaLink "organizację &vendorShortName;">
 <!ENTITY community.middle2 ", która jest ">
 <!ENTITY community.creditsLink "globalną społecznością">
@@ -37,9 +37,9 @@
 <!ENTITY bottomLinks.privacy        "Polityka prywatności">
 
 <!ENTITY update.checkingForUpdates "Poszukiwanie aktualizacji…">
-<!ENTITY update.noUpdatesFound "&brandShortName; jest aktualny">
+<!ENTITY update.noUpdatesFound "Program &brandShortName; jest aktualny">
 <!ENTITY update.adminDisabled "Aktualizacje zablokowane przez administratora">
-<!ENTITY update.otherInstanceHandlingUpdates "Inna instancja właśnie aktualizuje Firefoksa">
+<!ENTITY update.otherInstanceHandlingUpdates "Inna instancja właśnie aktualizuje program &brandShortName;">
 <!ENTITY update.restarting "Ponowne uruchamianie…">
 
 <!ENTITY update.failed.start        "Aktualizacja się nie powiodła. ">
