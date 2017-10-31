@@ -38,6 +38,11 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas)</li> <li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "L'accès al fichièr es estat refusat">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Es benlèu estat suprimit, desplaçat, o las permissions pels fichièrs poirián empachar l'accès.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName;  pòt pas cargar aquesta pagina.</p>">
@@ -45,6 +50,18 @@
 <!ENTITY malformedURI.title "Aquesta adreça es pas valida.">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
+  <li>L'adreça web s'escriu abitualament atal
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Recercar</button>
+    </div>
+  <li>Asseguratz-vos d'utilizar coma cal las barras oblicas (i.e.
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "La connexion es estada interrompuda">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -55,6 +72,13 @@
 <!ENTITY netOffline.title "Mòde sens connexion">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>Tornatz ensajar. &brandShortName; esperarà per dobrir una connexion e tornarà cargar la pagina.
+    <button id='wifi'>Activar la connexion Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
@@ -86,6 +110,12 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verificatz que lo gestionari de seguretat personala (PSM) es installat sus vòstre sistèma.</li> <li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Fracàs de la connexion securizada">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>La pagina qu'ensajatz de veire se pòt pas afichar pr'amor que l'autenticitat de las donadas recebudas se pòdon pas verificar.</li>
+  <li>Contactatz los proprietaris del site web per los informar de problèma.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
 <!ENTITY nssBadCert.longDesc2 "<ul><li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensajad'usurpar l'identitat del servidor.</li> <li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> </ul>">
@@ -127,3 +157,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Vòstra connexion es pas segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza de tecnologias de seguretat obsolètas e vulnerablas a las atacas. Un atacaire poiriá revelar aisidament d'informacions que pensèssetz seguras. L'administrator del site web deurà d'en primièr adobar lo servidor abans que poscatz visitar lo site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
