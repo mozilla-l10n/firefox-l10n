@@ -6,8 +6,8 @@
 <!ENTITY firstrun_urlbar_message2 "感謝選用 &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "來自 Mozilla 的現代行動瀏覽器。Mozilla 是一個致力於自由與開放 Web 的非營利組織。">
 <!ENTITY firstrun_panel_title_privacy "隱私權">
-<!ENTITY firstrun_privacy_message "上網時，彷彿沒有人看著你。">
-<!ENTITY firstrun_privacy_subtext "含有追蹤保護的隱私瀏覽模式會在您上網時封鎖追蹤器，並且在結束瀏覽後，自動忘記您的瀏覽紀錄。">
+<!ENTITY firstrun_privacy_message "隱私瀏覽不留痕跡">
+<!ENTITY firstrun_privacy_subtext "打開隱私分頁，不僅可阻擋追蹤廣告，也不會留下瀏覽紀錄，上網好安心。">
 <!ENTITY firstrun_panel_title_customize "自訂">
 <!ENTITY firstrun_customize_message "讓 &brandShortName; 有您的風格。">
 <!ENTITY firstrun_customize_subtext "使用附加元件自訂 &brandShortName;。您可封鎖廣告、新增功能，或選擇一套新的佈景主題來展現您的個性。">
