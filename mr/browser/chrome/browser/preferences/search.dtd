@@ -4,6 +4,7 @@
 
 <!ENTITY searchBar.label                       "शोध पट्टी">
 
+<!ENTITY searchBar.hidden.label                "शोध आणि नेव्हिगेशनसाठी पत्ता पट्टी वापरा">
 <!ENTITY searchBar.shown.label                 "साधनपट्टीत शोध पट्टी जोडा">
 
 <!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित शोध इंजिन">

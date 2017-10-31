@@ -115,5 +115,7 @@
 <!ENTITY  browserContainersSettings.label        "सेटिंग्ज…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "सुलभता सेवांना आपल्या ब्राउझरमध्ये प्रवेश करण्यापासून प्रतिबंधित करा">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "अधिक जाणून घ्या">
+<!ENTITY enableSafeBrowsingLearnMore.label "अधिक जाणा">
