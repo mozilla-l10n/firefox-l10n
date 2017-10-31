@@ -18,7 +18,9 @@
 <!ENTITY deniedPortAccess.title "हा पत्ता प्रतिबंधित आहे">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "सर्व्हर आढळला नाही">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "हं. आम्हाला ते संकेतस्थळ शोधताना त्रास होत आहे.">
 
 <!ENTITY fileNotFound.title "फाइल सापडली नाही">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ठकळपणा किंवा इतर टायपिंग त्रूटी करता फाइलचे नाव तपासा.</li> <li>फाइल स्थानांतरित,पुनःनामांकित किंवा काढून टाकली आहे याची तपासनी करा.</li> </ul>">
@@ -34,7 +36,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "नेटवर्क लॉग इन पृष्ठ उघडा">
 
+<!ENTITY malformedURI.pageTitle "अवैध URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "हं. तो पत्ता बरोबर वाटत नाही.">
 
 <!ENTITY netInterrupt.title "जोडणी मध्ये अडथळा">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
