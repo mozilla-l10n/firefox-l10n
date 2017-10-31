@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problèma al moment de cargar la pagina">
 <!ENTITY retry.label "Tornatz ensajar">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Impossible de se connectar">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -19,11 +19,25 @@
 <!ENTITY dnsNotFound.title "Impossible de trobar lo servidor">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
+<ul>
+  <li>Verificar l'adreça qu'i a agut pas d'errors a la sasida coma
+    <strong>ww</strong>.example.com puslèu que
+    <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Recercar</button>
+    </div>
+  <li>S'es impossible de telecargar quitament una pagina, verificatz las donadas de connexion o WIFI de vòstre periferic.
+    <button id='wifi'>Activar Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fichièrs pas trobat">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas)</li> <li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "L'accès al fichièr es estat refusat">
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>&brandShortName;  pòt pas cargar aquesta pagina.</p>">
@@ -73,12 +87,11 @@
 
 <!ENTITY nssFailure2.title "Fracàs de la connexion securizada">
 
-
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
 <!ENTITY nssBadCert.longDesc2 "<ul><li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensajad'usurpar l'identitat del servidor.</li> <li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar mai tard.</li> <li>Se capitatz pas de navigar sus cap de site, verificatz la connexion donadas o WiFi de vòstre aparelh. <button id='wifi'>Activar lo Wifi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
@@ -90,22 +103,27 @@
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Quitar aquesta pagina !">
 <!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Vos cal pas apondre cap d'exception s'utilizatz una connexion a Internet dins la quala vos fisatz pas totalament o se sètz pas acostumats a recebre un avertiment per aqueste servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Impossible d'establir una connexion segura">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Informacion avançada : SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Vòstra connexion es pas segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Informacion avançada : SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Vòstra connexion es pas segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

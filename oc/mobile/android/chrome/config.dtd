@@ -11,7 +11,8 @@
 <!ENTITY newPref.valueString           "Cadena">
 <!ENTITY newPref.valueInteger          "Nombre entièr">
 
-
+<!ENTITY newPref.stringPlaceholder     "Picar una cadena">
+<!ENTITY newPref.numberPlaceholder     "Picar un nombre">
 
 <!ENTITY newPref.toggleButton          "Intervertir">
 <!ENTITY newPref.cancelButton          "Anullar">
