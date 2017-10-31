@@ -66,7 +66,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "आपला वेब आपल्याबरोबर घेऊन चला">
 <!ENTITY signedOut.description        "आपल्या सर्व साधणांकरीता आपल्या वाचनखूणा, इतिहास, टॅब, पासवर्ड, ॲड-ऑन्स्, आणि प्राधान्ये समक्रमित करा.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; सह जोडा">
+<!ENTITY signedOut.accountBox.create2 "खाते नाही? सुरु करूया">
 <!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "साइन इन…">
 <!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "ताळमेळ सेटिंग्ज">

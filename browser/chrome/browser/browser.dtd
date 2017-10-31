@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "संदेश फलक उघडा">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "स्थळ विनंती फलक उघडा">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "अॅड-ऑन प्रतिष्ठापन संदेश फलक उघडा">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "कॅनव्हस एक्सट्रॅकशन च्या परवानग्या व्यवस्थापित करा">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ऑफलाईन साठ्याचा संदेश फलक उघडा">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "साठवलेल्या पासवर्डसचा संदेश फलक उघडा">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्लग-इनचा वापर व्यवस्थापित करा">
@@ -970,6 +971,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; ची नवी प्रत डाऊनलोड करा.">
 
+<!ENTITY updateRestart.message2 "द्रुत पुनःसुरु केल्यानंतर, & brandShorterName; आपल्या सर्व उघडे टॅब आणि पटल जे खाजगी ब्राउझिंग स्थितीमध्ये नसतील, ते पुनर्संचयित करेल.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; अद्ययावत करण्यासाठी बंद करून पुन्हा सुरु करा.">
 <!ENTITY updateRestart.acceptButton.label "पुन्हा सुरु करा व पूर्वस्थितीत आणा">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -981,6 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "पत्ता पट्टी मध्ये जोडा">
 <!ENTITY pageAction.removeFromUrlbar.label "पत्ता पट्टीमधून काढा">
 
+<!ENTITY pageAction.sendTabToDevice.label "टॅब उपकरणाला पाठवा">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणे सिंक करत आहे…">
 
 <!ENTITY libraryButton.tooltip "इतिहास दाखवा, जतन केलेल्या वाचनखुणा, आणि अधिक">
@@ -989,3 +992,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "सुलभता वैशिष्ट्ये सक्षम आहेत">
