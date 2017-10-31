@@ -171,6 +171,8 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "कैमरा शटर ध्वनि चलाएँ">
+<!ENTITY options.screenshot.audio.tooltip    "स्क्रीनशॉट लेते समय कैमरा ऑडियो ध्वनि सक्षम करता है">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
