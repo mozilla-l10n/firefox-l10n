@@ -3,18 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Navigacion privada">
+
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
-
 <!ENTITY privatebrowsingpage.title.private "+ Proteccion contra lo seguiment">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Sètz pas en mòde de navigacion privada">
 
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloca d'elements de las paginas que pòdon espiar vòstra activitat de navigacion.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Serà pas memorizat cap istoric, pasmens los dossièrs telecargats e los marcapaginas novèls contunharàn a èsser enregistradas sus vòstre periferic.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "En navigacion privada, seràn pas servats quin que siá de vòstre istoric de navigacion o cookies. Los marcapaginas apondudas e fichièrs telecargats seràn pasmens enregistrats sus vòstre periferic.">
 
-
+<!ENTITY privatebrowsingpage.link.private "Volètz ne saber mai ?">
+<!ENTITY privatebrowsingpage.link.normal "Dobrir un onglet privat novèl">
