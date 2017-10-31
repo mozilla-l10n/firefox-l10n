@@ -11,6 +11,7 @@
 <!ENTITY warnOnCloseMultipleTabs.label      "Babalaan ka kapag nagsasara ng maraming mga tab">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "Binabalaan ka kapag nagbubukas ng maramihang mga tab ay maaaring makapagpabagal &brandShortName;">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "Kapag binuksan mo ang isang link sa isang bagong tab, agad itong lumipat">

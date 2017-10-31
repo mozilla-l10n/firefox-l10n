@@ -26,6 +26,7 @@
 <!ENTITY changeBlockList2.label               "Bagohin ang Listahan ng mga Bina-block…">
 <!ENTITY changeBlockList2.accesskey           "C">
 
+<!ENTITY  doNotTrack.description        "Magpadala ng mga website ng signal na ”Huwag Subaybayan” na hindi mo gustong masubaybayan">
 <!ENTITY  doNotTrack.learnMore.label    "Matuto ng higit pa">
 <!ENTITY  doNotTrack.default.label      "Lamang kapag gumagamit ng Pagsubaybay na Proteksyon">
 <!ENTITY  doNotTrack.always.label       "Palagi">
