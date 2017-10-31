@@ -62,12 +62,16 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; मांडले गेले, पण आपोआप ताळमेळ होत नाही आहे. Android सेटिंगमध्ये “माहितीचे आपोआप ताळमेळ” &gt; माहिती वापर टॉगल करा.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; सेट अप झाले, पण आपोआप ताळमेळ होत नाहीये. Android Settings &gt; Accounts मध्ये “Auto-sync data” चालू करा.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'आपल्या नवीन Firefox खात्यात साइन इन करण्यासाठी टॅप करा.'>
+<!ENTITY fxaccount_status_choose_what 'काय ताळमेळ करायचे ते निवडा'>
 <!ENTITY fxaccount_status_bookmarks 'वाचनखूणा'>
 <!ENTITY fxaccount_status_history 'इतिहास'>
 <!ENTITY fxaccount_status_passwords2 'लॉगइन्स'>
 <!ENTITY fxaccount_status_tabs 'टॅब्स उघडा'>
+<!ENTITY fxaccount_status_additional_settings 'अतिरिक्त सेटिंग'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'फक्त वाय-फायवर ताळमेळ करा'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 '&brandShortName; ला सेल्युलर किंवा खर्चिक जोडणीवर ताळमेळ करण्यापासून प्रतिबंधित करा'>
 <!ENTITY fxaccount_status_legal 'कायदेविषयक' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
