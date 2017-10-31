@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Хабарлама панелін ашу">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Орналасуды сұрау панелін ашу">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Кеңейтулерді орнату хабарламалар панелін ашу">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Canvas ақпаратына қатынауды басқару">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Желіден тыс қойма хабарламалары панелін ашу">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Парольді сақтау хабарламасы панелін ашу">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Плагиндерді қолдануды басқару">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Сіз деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Сіз хабарламаларды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Сіз тұрақты деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
 
