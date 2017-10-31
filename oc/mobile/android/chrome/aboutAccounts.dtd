@@ -4,9 +4,10 @@
 
 <!ENTITY aboutAccounts.connected.title "Comptes de Firefox">
 <!ENTITY aboutAccounts.connected.description "Sètz connectat en tant que">
+<!ENTITY aboutAccounts.syncPreferences.label "Tocatz aquí per verificar los paramètres de sincronizacion">
 
-
+<!ENTITY aboutAccounts.noConnection.title "I a pas de connexion internet">
 <!ENTITY aboutAccounts.retry.label "Ensajatz tornamai">
 
 <!ENTITY aboutAccounts.restrictedError.title "Restrent">
-
+<!ENTITY aboutAccounts.restrictedError.description "Podètz pas gerir los comptes Firefox a partir d'aqueste perfil.">
