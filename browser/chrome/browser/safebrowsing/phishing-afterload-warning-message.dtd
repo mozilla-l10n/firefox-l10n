@@ -28,14 +28,19 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> को <a id='error_desc_link'>द्वेषपूर्ण सॉफ़्टवेयर युक्त बताया गया है</a>. आप <a id='report_detection'>पहचान की समस्या की रिपोर्ट कर सकते हैं</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "वायरस और अन्य मैलवेयर सहित हानिकारक वेब सामग्री और अपने कंप्यूटर को सुरक्षित करने के बारे में <a id='learn_more_link'>StopBadware.org</a> पर और जानें. &brandShortName; के फ़िशिंग और मैलवेयर सुरक्षा के बारे में <a id='firefox_support'>support.mozilla.org</a> पर और जानें.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "अगली साइट में हानिकारक प्रोग्राम हो सकते हैं">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ने इस पृष्ठ को अवरुद्ध कर दिया क्योंकि यह आपको ऐसे प्रोग्राम संस्थापित करने में उलझाने का प्रयास कर सकता है जो आपके ब्राउज़िंग अनुभव को नुकसान पहुँचाते हैं (उदाहरण के लिए, अपने मुखपृष्ठ को बदलकर या आपके द्वारा देखी जाने वाली साइटों पर अतिरिक्त विज्ञापन दिखाकर).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> को <a id='error_desc_link'>हानिकारक सॉफ़्टवेयर युक्त सूचित किया गया है</a>. आप <a id='ignore_warning_link'>जोखिम को अनदेखा</a> कर सकते हैं और इस असुरक्षित साइट पर जा सकते हैं.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> को <a id='error_desc_link'>हानिकारक सॉफ़्टवेयर युक्त सूचित किया गया है</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "हानिकारक और अवांछित सॉफ़्टवेयर के बारे में <a id='learn_more_link'>अवांछित सॉफ़्टवेयर नीति</a> पर और जानें. &brandShortName; के फ़िशिंग और मैलवेयर सुरक्षा के बारे में <a id='firefox_support'>support.mozilla.org</a> पर और जानें.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "आगे धोखादायक साइट">
