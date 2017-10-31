@@ -80,18 +80,18 @@
 
 <!ENTITY run.label                    "Εκτέλεση">
 <!ENTITY run.accesskey                "Λ">
-<!ENTITY run.key                      "λ">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Επιθεώρηση">
 <!ENTITY inspect.accesskey            "Θ">
-<!ENTITY inspect.key                  "θ">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Προβολή">
 <!ENTITY display.accesskey            "Π">
 <!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Όμορφη εκτύπωση">
-<!ENTITY pprint.key                   "ε">
+<!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "Ο">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was

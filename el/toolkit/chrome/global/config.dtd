@@ -27,7 +27,7 @@
 <!ENTITY columnChooser.tooltip "Πατήστε να επιλέξετε τις προς εμφάνιση στήλες"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "Ψ">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Αντιγραφή">
 <!ENTITY copyPref.accesskey "γ">
 <!ENTITY copyName.label "Αντιγραφή ονόματος">

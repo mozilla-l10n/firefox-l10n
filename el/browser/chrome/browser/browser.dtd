@@ -228,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Έχετε αποκλείσει τις ειδοποιήσεις για τον ιστοτόπο.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Έχετε αποκλείσει την επίμονη αποθήκευση για αυτή την ιστοσελίδα.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 
 <!ENTITY searchItem.title             "Αναζήτηση">
@@ -312,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "π">
 <!ENTITY deleteCmd.label          "Διαγραφή">
-<!ENTITY deleteCmd.key            "Δ">
+<!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "Δ">
 <!ENTITY selectAllCmd.label         "Επιλογή όλων">
 <!ENTITY selectAllCmd.key         "A">

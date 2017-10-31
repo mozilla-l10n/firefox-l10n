@@ -19,7 +19,7 @@
 <!ENTITY icon2.accesskey      "Ε">
 <!ENTITY color2.label         "Χρώμα">
 <!ENTITY color2.accesskey     "ρ">
-<!ENTITY windowClose.key      "κ">
+<!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Τέλος">
 <!ENTITY button.ok.accesskey  "Τ">
