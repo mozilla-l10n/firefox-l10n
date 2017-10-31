@@ -38,7 +38,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Основни за приложението">
 <!ENTITY aboutSupport.appBasicsName "Наименование">
 <!ENTITY aboutSupport.appBasicsVersion "Версия">
-<!ENTITY aboutSupport.appBasicsBuildID "Build идентификатор">
+<!ENTITY aboutSupport.appBasicsBuildID "Идентификатор на компилиране">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->

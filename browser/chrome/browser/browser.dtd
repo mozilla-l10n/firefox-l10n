@@ -572,7 +572,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyURLFeedback.label        "Копирана!">
 <!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
-<!ENTITY savePageCmd.label            "Запазване на страницата като…">
+<!ENTITY savePageCmd.label            "Запазване на като…">
 <!ENTITY savePageCmd.accesskey        "З">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "с">
