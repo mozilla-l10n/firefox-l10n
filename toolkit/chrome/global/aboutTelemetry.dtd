@@ -22,6 +22,8 @@
 <!ENTITY aboutTelemetry.pageTitle "Telemetry माहिती">
 <!ENTITY aboutTelemetry.moreInformations "अधिक माहिती शोधत आहात?">
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox डेटा डॉक्युमेंटेशन</a> मध्ये डेटा टूल्ससह कार्य कसे करावे त्याविषयी मार्गदर्शिका आहेत.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetry क्लायंट दस्तऐवजीकरण</a> मध्ये संकल्पना, API दस्तऐवजीकरण आणि डेटा संदर्भांची परिभाषा समाविष्ट आहे.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetry डॅशबोर्ड</a> आपल्याला Mozilla ला Telemetry द्वारे प्राप्त डेटाची कल्पना करण्यास अनुमती देतात.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 JSON दर्शकामध्ये उघडा
