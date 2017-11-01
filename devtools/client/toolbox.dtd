@@ -189,4 +189,10 @@
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Maandin boowal hoore diidol pawingal e loowdi sewnde">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Uddugol jowirɗi binndi">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Naatnu guddugol jowirɗi binndi">
+<!ENTITY options.sourceeditor.expandtab.label           "Waɗ boowal e hoore diidol kuutoroɗaa boowe">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Huutoro boowe ɗo potnoɗaa huutoraade alkulal tabbere">
+<!ENTITY options.sourceeditor.tabsize.label             "Mawneeki tabbere">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "Jokkondire coktirɗe">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Goowaaɗo">
