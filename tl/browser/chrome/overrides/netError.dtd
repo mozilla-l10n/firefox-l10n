@@ -32,7 +32,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Buksan ang Login na Pahina para sa Network">
 
+<!ENTITY malformedURI.pageTitle "Di-wastong URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Ang address na iyon ay hindi tama.">
 
 <!ENTITY netInterrupt.title "Nasagabal ang koneksyon">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
