@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa">
 
-<!ENTITY enableHealthReport1.label       "Salli, että &brandShortName; lähettää teknisiä ja käyttötilastoja Mozillalle automaattisesti">
-<!ENTITY enableHealthReport1.accesskey   "ö">
+<!ENTITY enableHealthReport2.label       "Salli, että &brandShortName; lähettää teknisiä ja käyttötilastoja Mozillalle">
+<!ENTITY enableHealthReport2.accesskey   "S">
 <!ENTITY healthReportLearnMore.label     "Lue lisää">
 
 <!ENTITY dataCollection.label            "&brandShortName;in tietojen keräys ja käyttö">
