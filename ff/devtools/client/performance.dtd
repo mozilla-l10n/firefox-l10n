@@ -85,34 +85,48 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "Walkit Tigilde Lewlewndu">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Walkit-de tigilde lewlewndu ina holla boli noddogul keftinaaɗi fuɗɗoraade e kaareeji ɓurɗi famɗude etee jokka haa to kaareeji ɓurɗi naywude ɗii.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+<!ENTITY performanceUI.showPlatformData             "Hollu Keɓe Yuɓɓo Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Hollirde keɓe yuɓɓo ina walla ciimte Heftinirde JavaScript ndee naatnude maalle yuɓɓo Gecko.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
+<!ENTITY performanceUI.showJITOptimizations             "Hollu Ittingol JIT">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Hollu keɓe ittingol JIT jubbitaaɗe nder kala tigilde JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
+<!ENTITY performanceUI.flattenTreeRecursion             "Dam gartugol Lekki">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Dam gartugol tuma ndee ƴeewndotoɗaa golle ɗee.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "Nanngito Teskorde">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Nanngito ñaamgol teskorde saanga keftinirgol.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableAllocations             "Nanngito Taƴne">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Nanngito taƴne Geɗe saanga keftingol.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+<!ENTITY performanceUI.enableFramerate             "Nanngito santaas Tigilde">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Nanngito santaas tigilde saanga keftingol.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+<!ENTITY performanceUI.console.recordingNoticeStart "Woni ko e nanngitaade rewrude">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
