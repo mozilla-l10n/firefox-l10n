@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Općenito">
+
 <!ENTITY  startupAction.label         "Kada se &brandShortName; pokrene:">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Ostavi moj račun za razgovore odjavljenim">
 <!ENTITY  startupConnectAuto.label    "Automatski spoji moje računa za razgovor">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Obavjesti moje kontakte da sam neaktivan nakon">
 <!ENTITY  reportIdleAfter.accesskey     "i">
 <!ENTITY  idleTime                      "minuta neaktivnosti">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Odaberi…">
 <!ENTITY  browse.accesskey                    "d">
 
+<!ENTITY messageStyleTab.title             "Stilovi poruke">
+<!ENTITY messageStylePreview.label         "Pregled:">
+<!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Mjehurići">
+<!ENTITY messageStyleDarkTheme.label       "Tamno">
+<!ENTITY messageStylePaperSheetsTheme.label "Papirnati listovi">
+<!ENTITY messageStyleSimpleTheme.label     "Jednostavno">
+<!ENTITY messageStyleDefaultTheme.label    "Zadano">
+<!ENTITY messageStyleVariant.label         "Varijanta:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Prikaži zaglavlje">
+<!ENTITY messageStyleShowHeader.accesskey  "z">
+<!ENTITY messageStyleNoPreview.title       "Nema dostupnog pregleda">
+<!ENTITY messageStyleNoPreview.description "Ova tema je neispravna ili trenutno nedostupna (isključen dodatak, siguran način rada, …).">
