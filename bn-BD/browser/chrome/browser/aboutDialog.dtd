@@ -76,7 +76,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "হালনাগাদ ব্যর্থ। ">
 <!ENTITY update.failed.linkText     "সর্বশেষ সংস্করণ ডাউনলোড করুন">
-<!ENTITY update.failed.end          "‍">
+<!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
