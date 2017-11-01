@@ -290,6 +290,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "ປັບແຕ່ງແທັບ">
+<!ENTITY pref_custom_tabs_summary4 "ອະນຸຍາດໃຫ້ແອັບເປີດເນື້ອຫາຂອງເວັບໃນການໂຫລດປັບແຕ່ງແທັບໄດ້ຢ່າງວ່ອງໄວ.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -863,7 +864,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "ເຂົ້າສູ່ໂມດເຕັມຫນ້າຈໍແລ້ວ">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ ເພີ່ມໃສ່ໜ້າທໍາອິດ">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "ເພີ່ມໃສ່ໜ້າທໍາອິດ">
+<!ENTITY pwa_continue_to_website "ດຳເນີນການຕໍ່ໄປທີ່ເວັບໄຊທ">
+<!ENTITY pwa_onboarding_sumo "ທ່ານສາມາດເພີ່ມເວັບໄຊທນີ້ໄປທີ່ຫນ້າທຳອິດໄດ້ຢ່າງງ່າຍດາຍເພື່ອໃຫ້ສາມາດນຳເຂົ້າໄປໃຊ້ໄດ້ງ່າຍ ແລະ ທ່ອງເວັບໄດ້ໄວຂື້ນ.">
