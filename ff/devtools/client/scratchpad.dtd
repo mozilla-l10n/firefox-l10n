@@ -34,47 +34,65 @@
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Uddit Cakkitol">
+<!ENTITY openRecentMenu.accesskey     "R">
 
 <!ENTITY revertCmd.label              "Waklit…">
+<!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "Danndu">
-<!ENTITY saveFileCmd.accesskey        "D">
+<!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Danndu e Innde…">
-<!ENTITY saveFileAsCmd.accesskey      "I">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "Uddu">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "U">
+<!ENTITY closeCmd.accesskey           "C">
 
 <!ENTITY viewMenu.label               "Hollir">
-<!ENTITY viewMenu.accesskey           "H">
+<!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.label             "Hollu tonngooɗe diidi">
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "Soom Winndande">
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "Jalbin Boowal Joofnirde">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
- <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.label             "Fontere Ɓurnde Yaajnde">
+<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.commandkey        "+">
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
+<!ENTITY smallerFont.label            "Fonter ɓurnde Famɗude">
+<!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "Ɓetol Potngol">
-<!ENTITY normalSize.accesskey         "Ɓ">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Taƴto">
-<!ENTITY editMenu.accesskey           "T">
+<!ENTITY editMenu.accesskey           "E">
 
 <!ENTITY run.label                    "Hurmito">
-<!ENTITY run.accesskey                "H">
+<!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Yuurnito">
-<!ENTITY inspect.accesskey            "Y">
+<!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Jaytin">
-<!ENTITY display.accesskey            "J">
+<!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "Muulngo Yooɗngo">
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "P">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -83,11 +101,11 @@
   -  (browser).
   -->
 <!ENTITY environmentMenu.label        "Sato">
-<!ENTITY environmentMenu.accesskey    "t">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
 <!ENTITY contentContext.label         "Loowdi">
-<!ENTITY contentContext.accesskey     "L">
+<!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -96,21 +114,25 @@
   -  was called "Chrome".
   -->
 <!ENTITY browserContext.label         "Wanngorde">
-<!ENTITY browserContext.accesskey     "W">
+<!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
 <!ENTITY helpMenu.label               "Ballal">
-<!ENTITY helpMenu.accesskey           "B">
+<!ENTITY helpMenu.accesskey           "H">
 <!ENTITY helpMenuWin.label            "Ballal">
-<!ENTITY helpMenuWin.accesskey        "B">
+<!ENTITY helpMenuWin.accesskey        "H">
 
+<!ENTITY documentationLink.label      "Ballal Siiforde dow MDN">
+<!ENTITY documentationLink.accesskey  "D">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+<!ENTITY resetContext2.label          "Fuɗɗito Baylotooɗe">
+<!ENTITY resetContext2.accesskey      "T">
 
 
 <!ENTITY executeMenu.label            "Hurmito">
