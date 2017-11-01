@@ -16,7 +16,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "এই ঠিকানাটি সীমাবদ্ধ">
-<!ENTITY deniedPortAccess.longDesc "‍">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "সার্ভার খুঁজে পাওয়া যায় নি">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
@@ -29,7 +29,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>এটা মুছে ফেলা হতে পারে, সরিয়ে নেয়া হতে পারে, অথবা ফাইল প্রবেশাধিকার প্রতিরোধ করা হয়ে থাকতে পারে।</li></ul>">
 
 <!ENTITY generic.title "ওহ্ হো!">
-<!ENTITY generic.longDesc "<p>কোনো কারণে &brandShortName; এই পাতাটি লোড করতে পারছে না।</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; এই পাতাটি কোনো কারণে লোড করতে পারছে না।</p>">
 
 <!ENTITY captivePortal.title "নেটওয়ার্কে লগইন করুন">
 <!ENTITY captivePortal.longDesc2 "<p>ইন্টারনেট প্রবেশ করতে হলে, আপনাকে এই নেটওয়ার্কে অবশ্যই লগইন করতে হবে।</p>">
