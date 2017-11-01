@@ -409,8 +409,10 @@
 <!ENTITY datareporting_notification_action "Piliin kung ano ang ibabahagi">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Piliin kung anong impormasyon ang ibabahagi">
+<!ENTITY datareporting_notification_summary "Upang mapabuti ang iyong karanasan, &brandShortName; awtomatikong nagpapadala ng ilang impormasyon sa &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -418,36 +420,81 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "&brandShortName; Ulat sa Kalusugan">
+<!ENTITY datareporting_fhr_summary2 "Nagbahagi ng data sa &vendorShortName; tungkol sa kalusugan ng iyong browser at tumutulong sa iyo na maunawaan ang pagganap ng iyong browser">
 <!ENTITY datareporting_abouthr_title "Ipakita ang aking Health Report">
 <!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_telemetry_summary "Nagbabahagi ng data ng pagganap, paggamit, hardware at pagpapasadya tungkol sa iyong browser na may &vendorShortName; upang matulungan kaming gawing &brandShortName; mas mabuti">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; nagsusumite ng mga ulat ng pag-crash upang makatulong sa &vendorShortName; gawing mas matatag at secure ang iyong browser">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Tulong &vendorShortName; mapa sa mundo! Ibahagi ang humigit-kumulang na Wi-Fi at cellular na lokasyon ng iyong device upang mapabuti ang aming serbisyong geolocation.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Awtomatikong pag-update">
+<!ENTITY pref_update_autodownload_wifi "Lamang sa paglipas ng Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Huwag kailanman">
 <!ENTITY pref_update_autodownload_always "Palagian">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Tulong">
 
+<!ENTITY quit "Mag-quit">
 
+<!ENTITY addons "Add-ons">
+<!ENTITY logins "Mga login">
 <!ENTITY downloads "Mga Download">
+<!ENTITY char_encoding "Character Encoding">
 
+<!ENTITY share "I-share">
+<!ENTITY share_title "I-share sa pamamagitan ng">
+<!ENTITY share_image_failed "Hindi maibahagi ang larawang ito">
 <!ENTITY save_as_pdf "I-save bilang PDF">
+<!ENTITY print "I-print">
+<!ENTITY find_in_page "Hanapin sa pahina">
+<!ENTITY desktop_mode "Humiling ng desktop site">
+<!ENTITY page "Pahina">
 <!ENTITY tools "Mga Tools">
 <!ENTITY new_tab "Bagong tab">
+<!ENTITY new_private_tab "Bagong pribado na tab">
+<!ENTITY close_all_tabs "Isarado ang Lahat ng mga Tab">
+<!ENTITY close_private_tabs "Isara ang Mga Pribadong Tab">
 <!ENTITY tabs_normal "Mga tab">
+<!ENTITY tabs_private "Pribado">
+<!ENTITY set_image_fail "Hindi ma-set ang larawan">
+<!ENTITY set_image_path_fail "Hindi mai-save ang larawan">
+<!ENTITY set_image_chooser_title "Itakda ang Larawan Bilang">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_text "Hanapin sa Page">
 <!ENTITY find_prev "Nakaraan">
+<!ENTITY find_next "Sunod">
+<!ENTITY find_close "Sarado">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_sending_to "Nagpapadala sa Device">
+<!ENTITY media_play "Play">
+<!ENTITY media_pause "Pause">
+<!ENTITY media_stop "Hinto">
 
+<!ENTITY contextmenu_open_new_tab "Buksan sa Bagong Tab">
+<!ENTITY contextmenu_open_private_tab "Buksan sa Pribadong Tab">
 <!ENTITY contextmenu_remove "Alisin">
+<!ENTITY contextmenu_add_to_launcher "Magdagdag ng Home Screen">
+<!ENTITY contextmenu_add_page_shortcut "Magdagdag ng Shortcut ng Pahina">
+<!ENTITY contextmenu_set_as_homepage "Itakda bilang Homepage">
+<!ENTITY contextmenu_share "Ibahagi">
+<!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
+<!ENTITY contextmenu_paste "I-paste">
+<!ENTITY contextmenu_copyurl "Kopyahin ang Address">
+<!ENTITY contextmenu_edit_bookmark "I-edit">
+<!ENTITY contextmenu_subscribe "Mag-subscribe sa Pahina">
+<!ENTITY contextmenu_site_settings "I-edit ang Mga Setting ng Site">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
