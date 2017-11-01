@@ -14,7 +14,7 @@
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "এই ঠিকানাটির উপর বিধি নিষেধ আরোপিত হয়েছে">
-<!ENTITY deniedPortAccess.longDesc ".">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
@@ -93,7 +93,7 @@
 
 <!ENTITY securityOverride.linkText "অথবা আপনি একটি ব্যতিক্রম যোগ করতে পারেন…">
 <!ENTITY securityOverride.getMeOutOfHereButton "আমাকে এখান থেকে উদ্ধার করো!">
-<!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ করুন…">
+<!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
