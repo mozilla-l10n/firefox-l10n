@@ -38,7 +38,7 @@
 <!ENTITY  defaultSize2.label          "আকার">
 <!ENTITY  defaultSize2.accesskey      "S">
 
-<!ENTITY  advancedFonts.label         "A উচ্চপর্যায়ের...">
+<!ENTITY  advancedFonts.label         "উচ্চপর্যায়...">
 <!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "রং... C">
@@ -63,7 +63,7 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.beforeLogo "অনুবাদ করেছেন">
-<!ENTITY translation.options.attribution.afterLogo "‍">
+<!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent2.label              "Digital Rights Management (DRM) কন্টেন্ট">
 
