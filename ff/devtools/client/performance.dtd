@@ -43,9 +43,28 @@
 <!ENTITY performanceUI.toolbar.waterfall "Waltunde">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Ina holla golle goɗɗe ɗe wanngorde ndee woni e gollaade saanga nanngitogol ngol. feewniraa no doggol waltunde nii.">
 <!ENTITY performanceUI.toolbar.js-calltree "Lekki Noddugol">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Ina jalbina nafooje JavaScript ɗo wanngorde ndee waɗi sahaa juut-ɗo saanga nanngitogoll ngol.">
+<!ENTITY performanceUI.toolbar.memory-calltree "Taƴne">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ina holla hol ɗo teskorde rokkiranoo saanga nanngitogol ngol.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "Tigilde Lewlewndu JS">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Ina holla joowre noddugol JavaScript ndee saanga nanngitogol ngol.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Tigilde Lewlewndu Taƴne">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+<!ENTITY performanceUI.table.totalDuration            "Kuuɓal Sahaa">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "Sahaa mbaɗaaɗo e ngal gollal kam e golle ɗum noddi.">
+<!ENTITY performanceUI.table.selfDuration             "Sahaa Hoore mum">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Sahaa mbaɗaaɗo e ngal gollal tan.">
+<!ENTITY performanceUI.table.totalPercentage          "Kuuɓal Njar">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "Santaas sahaa mbaɗaaɗo e ngal gollal kam e golle ɗum noddi.">
+<!ENTITY performanceUI.table.selfPercentage           "Njar Hoore mum">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Santaas sahaa mbaɗaaɗo e ngal gollal tan.">
+<!ENTITY performanceUI.table.samples                  "Jubbitte">
+<!ENTITY performanceUI.table.samples.tooltip          "Laabi ngal gollal wonnoo e joowre ndee tuma nde heftinirde ndee ƴetti jubbitere.">
+<!ENTITY performanceUI.table.function                 "Gollal">
+<!ENTITY performanceUI.table.function.tooltip         "Innde e nokku iwdi gollal jubbitaangal ngal.">
+<!ENTITY performanceUI.table.totalAlloc               "Kuuɓal Taƴne Jubbitaaɗe">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
