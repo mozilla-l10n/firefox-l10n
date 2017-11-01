@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Lisäosat">
 <!ENTITY aboutAddons.header2                    "Asennetut lisäosat">
-<!ENTITY aboutAddons.options                    "Asetukset">
 
 <!ENTITY addonAction.enable                     "Ota käyttöön">
 <!ENTITY addonAction.disable                    "Poista käytöstä">
 <!ENTITY addonAction.uninstall                  "Poista">
 <!ENTITY addonAction.undo                       "Kumoa">
+<!ENTITY addonAction.update                     "Päivitä">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName; ei voinut varmentaa tätä lisäosaa.">
 <!ENTITY addonUnsigned.learnMore                "Lue lisää">

@@ -23,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tämän sivuston osoitteessa <span id='unwanted_sitename'/> on ilmoitettu yrittävän asentaa sovelluksia pyytämättä ja sen avaaminen on estetty turvallisuusasetuksiesi perusteella.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Sivustot, jotka jakelevat ei-toivottuja sovelluksia, yrittävät asentaa tietokoneellesi sovelluksia, jotka ovat petollisia tai vaikuttavat järjestelmään odottamattomalla tavalla.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Edessä olevalla sivustolla voi olla haittaohjelmia">
