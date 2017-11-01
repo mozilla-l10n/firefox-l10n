@@ -5,7 +5,7 @@
 
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
-# See about:preferences#advanced.
+# See about:preferences#general.
 -->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
@@ -62,7 +62,7 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Проверка за обновяване…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "Версията на &brandShortName; е актуална">
+<!ENTITY update.noUpdatesFound      "Използвате последната версия на &brandShortName;">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Обновяванията са изключени от вашия системен администратор">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
