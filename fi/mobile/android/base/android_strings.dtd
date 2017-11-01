@@ -197,8 +197,6 @@
 <!ENTITY pref_category_advanced_summary3 "Välilehtien palauttaminen, datan säästäminen, kehittäjien työkalut">
 <!ENTITY pref_category_notifications "Ilmoitukset">
 <!ENTITY pref_category_notifications_summary "Uudet ominaisuudet, sivustojen päivitykset">
-<!ENTITY pref_content_notifications "Sivustojen päivitykset">
-<!ENTITY pref_content_notifications_summary2 "Löydä uutta sisältöä tuetuilta sivustoilta">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debugging requires your device to have a QR code reader app installed.">
@@ -264,7 +262,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Lataa verkosta sivujen omat kirjasinlajit sivua ladattaessa">
 
 <!ENTITY pref_tracking_protection_title2 "Seurannan suojaus">
-<!ENTITY pref_tracking_protection_summary3 "Käytössä yksityisen selaamisen tilassa">
 <!ENTITY pref_donottrack_title "Älä seuraa">
 <!ENTITY pref_donottrack_summary "&brandShortName; ilmoittaa sivustoille, ettet halua niiden seuraavan sinua">
 
@@ -282,8 +279,7 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Omat välilehdet">
-<!ENTITY pref_custom_tabs_summary3 "Salli sovellusten avata verkkosivustoja mukautetulla &brandShortName;in versiolla">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Avaa &formatS;">
@@ -325,23 +321,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Avataksesi useita linkkejä kerralla, anna &brandShortName;ille \&apos;piirrä muihin sovelluksiin\&apos; -käyttöoikeus">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; sivustoa päivitetty">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Ilmoitusten asetukset">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Lue nyt">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Päivitetty &formatS;">
 
 <!ENTITY pref_char_encoding "Merkistökoodaus">
 <!ENTITY pref_char_encoding_on "Näytä valikko">
@@ -502,7 +481,13 @@
 <!ENTITY contextmenu_top_sites_edit "Muokkaa">
 <!ENTITY contextmenu_top_sites_pin "Kiinnitä sivusto">
 <!ENTITY contextmenu_top_sites_unpin "Irrota sivusto">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "Lisää hakukone">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -816,6 +801,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Lisää kotinäytölle">
 
+
 <!ENTITY helper_first_offline_bookmark_title "Lue yhteydettömässä tilassa">
 <!ENTITY helper_first_offline_bookmark_message "Löydä lukunäkymäsi kohteet kirjanmerkeistä, jopa yhteydettömässä tilassa.">
 <!ENTITY helper_first_offline_bookmark_button "Siirry kirjanmerkkeihin">
@@ -825,7 +811,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Lisää kirjanmerkkeihin">
 
 <!ENTITY activity_stream_topsites "Ykkössivustot">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "Nostot">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -833,14 +822,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Vieraillut">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Poista">
 <!ENTITY activity_stream_delete_history "Poista historiasta">
-
-<!ENTITY activity_stream_welcome_title "Tervetuloa nostoihin">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; nostaa nyt esille verkosta löytämiäsi asioita, jotta voit palata hienoihin artikkeleihin, videoihin, kirjanmerkkeihin ja muille sivuille.">
 
 <!ENTITY private_tab_panel_title "Yksityinen selaus + seurannan suojaus">
 <!ENTITY private_tab_panel_description "&brandShortName; estää sivulta osat, jotka voivat seurata selainkäyttäytymistäsi.">
@@ -848,3 +837,12 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "Haluatko lukea lisää?">
 
 <!ENTITY fullscreen_warning "Siirryttiin kokoruututilaan">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Lisää kotinäkymään">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Lisää kotinäkymään">
+<!ENTITY pwa_continue_to_website "Jatka sivustolle">
