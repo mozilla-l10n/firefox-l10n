@@ -28,17 +28,23 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> यामध्ये <a id='error_desc_link'>धोकादायक सॉफ्टवेअर आहे असे निदर्शनास आणण्यात आलेले आहे</a>. आपण <a id='report_detection'>शोधण्याची समस्या</a> निदर्शनास आणु शकता.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "व्हायरस आणि मालवेअर असलेल्या धोकादायक वेब मजकूराबद्दल आणि यापासून आपला संगणक कसा वाचवायचा याबद्दल <a id='learn_more_link'>StopBadware.org</a> इथे अधिक जाणून घ्या. &brandShortName; च्या फिशिंग आणि मालवेअर सुरक्षेबद्दल <a id='firefox_support'>support.mozilla.org</a> इथे अधिक जाणून घ्या.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "साइटमध्ये पुढे नुकसानदेय कार्यक्रम असू शकतात">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ने या पृष्ठाला आडवले कारण हे पृष्ठ फसवेगिरीने काही प्रणाली प्रस्थापित करून आपला ब्राऊझिंग चा अनुभव दूषित करू शकते(उदाहरणार्थ, आपले गृह पृष्ठ बदलून किंवा आपण ज्या संकेतस्थळांना भेट देता त्यावर अति जाहिराती दाखवून).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> हे संकेतस्थळ <a id='error_desc_link'>घातक सॉफ्टवेअर असलेले</a> म्हणून निदर्शनास आणून देण्यात आले आहे. आपण <a id='ignore_warning_link'>धोका दुर्लक्षित करून</a> या असुरक्षित संकेतस्थळावर जाऊ शकता.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> हे संकेतस्थळ <a id='error_desc_link'>घातक सॉफ्टवेअर असलेले</a> म्हणून निदर्शनास आणून देण्यात आले आहे.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "धोकादायक व अवांछित सॉफ्टवेअर बद्दल इथे अधिक जाणून घ्या <a id='learn_more_link'>अवांछित सॉफ्टवेअर धोरण</a>. &brandShortName; फिशिंग आणि मालवेअर सुरक्षेबद्दल इथे अधिक जाणून घ्या <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "पुढे फसवी साईट आहे">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; ने या पृष्ठाला आडवले कारण हे पृष्ठ फसवेगिरीने आपल्याला काहीतरी करण्यास प्रवृत्त करू शकते जसे की धोकादायक सॉफ्टवेअर प्रस्थापित करणे किंवा पासवर्डस व क्रेडिट कार्ड सारखी वैयक्तिक माहिती उघड करणे.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
