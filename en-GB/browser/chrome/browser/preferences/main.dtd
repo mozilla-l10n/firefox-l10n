@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Restore to Default">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "Disable Extension">
+
 <!ENTITY downloads.label     "Downloads">
 
 <!ENTITY saveTo.label "Save files to">
@@ -33,8 +35,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Always check if &brandShortName; is your default browser">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "Make Default">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser3.label     "Make Default…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; is currently your default browser">
 <!ENTITY isNotDefault.label               "&brandShortName; is not your default browser">
 

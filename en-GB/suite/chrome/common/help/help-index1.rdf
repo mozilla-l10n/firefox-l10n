@@ -2216,6 +2216,11 @@
          nc:name="web pages"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="WebIDE"
+         nc:name="WebIDE"
+         nc:link="developer_tools.xhtml#webide"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="Working_Offline"
          nc:name="Working Offline"
          nc:link="mailnews_offline.xhtml#working_offline"/>
