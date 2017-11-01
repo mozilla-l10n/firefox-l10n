@@ -171,13 +171,18 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Taro daande gudditirgel kameraa">
+<!ENTITY options.screenshot.audio.tooltip    "Ina hurmina daande ojoo kameraa oo saanga nde ƴettata leƴƴannde kuurgal">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "Hollu keɓe yuɓɓo Gecko">
+<!ENTITY options.showPlatformData.tooltip  "So tawii a hurminii ndee suɓre ciimte heftinirde JavaScript maa naatnu maalle yuɓɓo Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
+<!ENTITY options.sourceeditor.label                     "Cuɓe Taƴtorde">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Goowaaɗo">
