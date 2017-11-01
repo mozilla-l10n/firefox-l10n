@@ -137,13 +137,17 @@
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
-<!ENTITY options.timestampMessages.label      "Hurmin seedeeji sahaa">
+<!ENTITY options.timestampMessages.label      "Hurmin timmoode jot">
+<!ENTITY options.timestampMessages.tooltip    "So tawii a hurminii ndee suɓre gine e njaltudi Ginorde Geese maa hollu timmoode jot">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Momtirgel ella">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
+<!ENTITY options.sourceMaps.label      "Hurmin Karte Sewnde">
+<!ENTITY options.sourceMaps.tooltip1   "So tawii a hurminii ndee suɓre cewe ɗee maa nate e kuutorɗe ɗee.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -152,6 +156,7 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "CSS Jokkit hoore mum">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
