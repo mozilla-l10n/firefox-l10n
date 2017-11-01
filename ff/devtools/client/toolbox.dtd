@@ -157,13 +157,17 @@
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "CSS Jokkit hoore mum">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Binndugol hoore mum feccere CSS, kiise kam e cuɓorɗe Taƴtorde Panni tawa aɗa tappa">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Sifaa Leƴƴannde kuurgal">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Leƴƴannde kuurgal e gostorel">
+<!ENTITY options.screenshot.clipboard.tooltip    "Danndii e leƴƴannde kuurgal faade e gostorel ngel">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
