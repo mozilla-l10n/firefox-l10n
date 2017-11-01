@@ -6,7 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Danke für die Nutzung von &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Ein moderner mobiler Browser von Mozilla, der gemeinnützigen Organisation, die sich für ein frei zugängliches und offenes Web einsetzt.">
 <!ENTITY firstrun_panel_title_privacy "Datenschutz">
-<!ENTITY firstrun_privacy_message "Surfen Sie so, als würde Sie niemand beobachten">
+<!ENTITY firstrun_privacy_message "Surfen Sie so, als würde Sie niemand beobachten.">
 <!ENTITY firstrun_privacy_subtext "Privates Surfen schützt Sie vor Webinhalten, welche Ihre Aktivitäten verfolgen, und löscht die Seitenbesuche der Sitzung, wenn Sie die App schließen.">
 <!ENTITY firstrun_panel_title_customize "Anpassen">
 <!ENTITY firstrun_customize_message "Machen Sie &brandShortName; so, wie Sie ihn sich wünschen.">
@@ -19,7 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Sperren Sie das Laden von Grafiken, damit für jede besuchte Seite weniger Daten geladen werden müssen.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Machen Sie da weiter, wo Sie aufgehört haben.">
-<!ENTITY firstrun_sync_subtext2 "Mit Sync können Sie jederzeit auf alle Ihre Lesezeichen, Passwörter und andere Dinge zugreifen, die Sie in &brandShortName; auf anderen Geräten speichern.">
+<!ENTITY firstrun_sync_subtext2 "Mit Sync können Sie jederzeit auf alle Ihre Lesezeichen, Passwörter und anderen Dinge zugreifen, die Sie in &brandShortName; auf anderen Geräten speichern.">
 <!ENTITY firstrun_signin_message "Verbinden Sie und legen Sie los">
 <!ENTITY firstrun_signin_button "Bei Sync anmelden">
 <!ENTITY  onboard_start_button_browser "Mit dem Surfen beginnen">
@@ -498,7 +498,7 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
-<!ENTITY pinned_page_to_top_sites "Zu wichtigen Seiten">
+<!ENTITY pinned_page_to_top_sites "Zu wichtigen Seiten hinzugefügt">
 <!ENTITY unpinned_page_from_top_sites "Aus wichtigen Seiten entfernt">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -563,7 +563,7 @@
 <!ENTITY button_clear "Leeren">
 <!ENTITY button_copy "Kopieren">
 
-<!ENTITY home_top_sites_title "Meistbesuchte Seiten">
+<!ENTITY home_top_sites_title "Wichtige Seiten">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Eine Seite hinzufügen">
@@ -820,7 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Wichtige Seiten">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
-<!ENTITY activity_stream_topstories "Empfehlung von &brandPocket;">
+<!ENTITY activity_stream_topstories "Empfohlen von &brandPocket;">
 <!ENTITY activity_stream_highlights "Besonders">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
