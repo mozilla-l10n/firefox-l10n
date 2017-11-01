@@ -21,6 +21,12 @@
 <!ENTITY dnsNotFound.pageTitle "सर्व्हर आढळला नाही">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "हं. आम्हाला ते संकेतस्थळ शोधताना त्रास होत आहे.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>जर तो पत्ता बरोबर आहे तर आपण ह्या तीन कृती करू शकता:</strong>
+<ul>
+  <li>पुन्हा प्रयत्न करा.</li>
+  <li>आपली जोडणी तपासा.</li>
+  <li>आपण जोडलेले असाल आणि फायरवॉल च्या कक्षात असाल तर &brandShortName; ला वेब ला जोडण्याची परवानगी आहे का ते तपासा.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "फाइल सापडली नाही">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ठकळपणा किंवा इतर टायपिंग त्रूटी करता फाइलचे नाव तपासा.</li> <li>फाइल स्थानांतरित,पुनःनामांकित किंवा काढून टाकली आहे याची तपासनी करा.</li> </ul>">
@@ -111,6 +117,7 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> ला जोडले गेले नाही कारण आपल्या संगणकाचे घड्य़ाळ चुकिची वेळ दर्शवत आहे असे दिसते आणि ही बाब सुरक्षित जोडणी करण्यासाठी अडथळा आणत आहे.</p> <p> आपला संगणक <span id='wrongSystemTime_systemDate'/> या वेळेवर आहे, जो की <span id='wrongSystemTime_actualDate'/> या वेळेवर असायला हवा होता. ही समस्या निवारण्यासाठी, आपली तारीख आणि वेळ बदलून बरोबर करा. </p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/> ला जोडले गेले नाही कारण आपल्या संगणकाचे घड्य़ाळ चुकीची वेळ दर्शवत आहे असे दिसते आणि ही बाब सुरक्षित जोडणी करण्यासाठी अडथळा आणत आहे.</p> <p> आपला संगणक <span id='wrongSystemTimeWithoutReference_systemDate'/> या वेळेवर आहे. ही समस्या निवारण्यासाठी, आपली तारीख आणि वेळ बदलून बरोबर करा.</p>">
 
 <!ENTITY certerror.pagetitle1  "असुरक्षित जोडणी">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ही साईट HTTP वापरते कठोर वाहतूक सुरक्षा (HSTS) असे निर्देशित करते की &brandShortName;हिच्याशी फक्त सुरक्षितपणे जोडणी करू शकतो. परिणामी, या एका प्रमाणपत्रासाठी अपवाद समाविष्ट करणे  शक्य नाही.">

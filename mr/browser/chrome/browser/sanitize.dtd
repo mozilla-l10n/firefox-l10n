@@ -23,6 +23,7 @@
 
 <!ENTITY clearDataSettings2.label     "&brandShortName; पासू बाहेर पडल्यास, सर्व आपोआप नष्ट व्हायला हवे:">
 
+<!ENTITY clearDataSettings3.label     "&brandShortName; मधून बाहेर पडल्यास, सर्व आपोआप नष्ट व्हायला हवे">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
