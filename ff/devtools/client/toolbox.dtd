@@ -32,42 +32,54 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 <!ENTITY options.collapseAttrs.label "Dottu joopanɗe DOM">
+<!ENTITY options.collapseAttrs.tooltip "Dottu joopanɗe juuɗɗe nder ƴeewtitoro oo">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.label "Noordi ngoowaandi">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.accesskey "U">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.authored "Hono Yamiraa">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hex "Hex">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
+<!ENTITY options.defaultColorUnit.name "Inɗe Noordi">
 
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh  "* Rogere wonaande tan, ina loowta hello ngo">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableChrome.label5    "Hurminchrome wangorde kam e ɓeyditte momtugol ella boeytuuji kuutorɗe">
+<!ENTITY options.enableChrome.tooltip3  "Dognude ndee suɓre maa weeɓ-nane huutoraade kuutorɗe topotooɓe keewɗe nder ngonka wanngorde (rewde Kuutorɗe > Topotooɗo Geese > Boyet Kuutorɗe Wanngorde) kam e momtugol ella ɓeyditte e jiiloowo Ɓeyditte oo">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableRemote.label3    "Hurmin momtugol ella goɗɗungol">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
