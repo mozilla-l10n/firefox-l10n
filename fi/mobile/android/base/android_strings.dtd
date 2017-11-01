@@ -4,7 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Tervetuloa">
 <!ENTITY firstrun_urlbar_message2 "Kiitos, että valitsit &brandShortName;in">
+<!ENTITY firstrun_urlbar_subtext2 "Nykyaikainen mobiiliselain voittoa tavoittelemattomalta Mozillalta, joka on omistautunut vapaaseen ja avoimeen verkkoon.">
 <!ENTITY firstrun_panel_title_privacy "Tietosuoja">
+<!ENTITY firstrun_privacy_message "Selaa kenenkään tarkkailematta sinua">
+<!ENTITY firstrun_privacy_subtext "Yksityinen selaus seurannan suojauksen kanssa estää seurantamenetelmiä selatessasi verkkoa eikä muista historiaa, kun lopetat selaamisen.">
+<!ENTITY firstrun_panel_title_customize "Mukauta">
+<!ENTITY firstrun_customize_message "Tee &brandShortName;ista omanlaisesi.">
+<!ENTITY firstrun_customize_subtext "Mukauta &brandShortName;ia lisäosilla. Estä mainoksia, lisää ominaisuuksia tai valitse teema, joka sopii tyyliisi.">
 <!ENTITY firstrun_bookmarks_title "Historia">
 <!ENTITY firstrun_bookmarks_message "Kaikkein tärkeimmät suosikkisi">
 <!ENTITY firstrun_bookmarks_subtext "Saa hakutuloksia kirjanmerkeistäsi ja historiastasi.">
@@ -12,6 +18,7 @@
 <!ENTITY firstrun_data_message "Vähemmän dataa, enemmän säästöä">
 <!ENTITY firstrun_data_subtext2 "Estä kuvat käyttääksesi vähemmän dataa sivustoilla, joilla vierailet.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Jatka siitä, mihin jäit.">
 <!ENTITY firstrun_signin_message "Yhdistä ja aloita">
 <!ENTITY firstrun_signin_button "Kirjaudu sisään Synciin">
 <!ENTITY  onboard_start_button_browser "Aloita selaaminen">
@@ -84,6 +91,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; kohdetta">
 <!ENTITY bookmark_folder_one_item "1 kohde">
+<!ENTITY bookmark_folder_updated "Kansio päivitetty">
 <!ENTITY bookmark_parent_folder "Yläkansio">
 <!ENTITY bookmark_add_folder "Lisää uusi kansio">
 
@@ -486,6 +494,8 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Kiinnitä ykkössivustoihin">
+<!ENTITY contextmenu_unpin_from_top_sites "Poista kiinnitys ykkössivustoista">
 <!ENTITY contextmenu_add_search_engine "Lisää hakukone">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
