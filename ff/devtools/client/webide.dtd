@@ -52,23 +52,48 @@
 <!ENTITY viewMenu_resetzoom_label "Fuɗɗito Lonngogol">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
+<!ENTITY projectButton_label "Uddit Jaaɓnirgal">
+<!ENTITY runtimeButton_label "Suɓo Sahaa dogdu">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_myProjects "Eɓɓaande am">
+<!ENTITY projectPanel_runtimeApps "Jaabnirɗe Sahaa dogdu">
 <!ENTITY projectPanel_tabs "Tabbe">
+<!ENTITY runtimePanel_usb "Masiŋon USB">
+<!ENTITY runtimePanel_wifi "Masiŋon Wi-Fi">
 <!ENTITY runtimePanel_other "Goɗɗe">
+<!ENTITY runtimePanel_noadbhelper "Aaf Balloowo ADB">
+<!ENTITY runtimePanel_nousbdevice "A horiima yiyde masiŋel maa?">
+<!ENTITY runtimePanel_refreshDevices_label "Hesɗitin masiŋon">
 
 <!-- Lense -->
+<!ENTITY details_valid_header "ina moƴƴi">
+<!ENTITY details_warning_header "deentine">
+<!ENTITY details_error_header "juume">
 <!ENTITY details_description "Cifagol">
 <!ENTITY details_location "Nokkuure">
+<!ENTITY details_manifestURL "ID Jaaɓnirgal">
+<!ENTITY details_removeProject_button "Ittu Eɓɓaande">
 
 <!-- New App -->
+<!ENTITY newAppWindowTitle "Jaaɓnirgal kesal">
+<!ENTITY newAppHeader "Suɓo tiimtorde">
+<!ENTITY newAppLoadingTemplate "Nana loowa tiimtorɗe…">
+<!ENTITY newAppProjectName "Innde Eɓɓaande:">
 
 
 <!-- Decks -->
@@ -76,12 +101,27 @@
 <!ENTITY deck_close "Uddu">
 
 <!-- Addons -->
+<!ENTITY addons_title "Geɗe Beyditte">
 <!ENTITY addons_aboutaddons "Uddit Topitorde Ɓeyditte">
 
 <!-- Prefs -->
+<!ENTITY prefs_title "Cuɓoraaɗe">
+<!ENTITY prefs_editor_title "Taƴtorde">
 <!ENTITY prefs_general_title "Kuuɓal">
+<!ENTITY prefs_restore "Artir Goowaaze">
+<!ENTITY prefs_manage_components "Yiil Geɗe Ɓeyditte">
+<!ENTITY prefs_options_autoconnectruntime "Seŋo kadi e saha dogdu vennuɗo">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Seŋo kadi e sahaa dogdu ɓennuɗo saanga nde WebIDE fuɗɗii">
+<!ENTITY prefs_options_rememberlastproject "Siiftor eɓɓaande sakkitiinde">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Artir eɓɓaande ɓennunde saanga nde WebIDE fuɗɗii">
+<!ENTITY prefs_options_templatesurl "URL Tiimtorɗe">
+<!ENTITY prefs_options_templatesurl_tooltip "Endeks tiimtorɗe goodɗe">
 
 <!-- Runtime Details -->
+<!ENTITY runtimedetails_title "Humpito Sahaa dogdu">
+<!ENTITY runtimedetails_adbIsRoot "ADB ko ɗaɗol: ">
+<!ENTITY runtimedetails_summonADBRoot "masiŋel ɗaɗol">
+<!ENTITY runtimedetails_ADBRootWarning "(ina ɗaɓɓi loowirde puɗɗogol mo daaƴaaka)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeobject "Piiyol">
