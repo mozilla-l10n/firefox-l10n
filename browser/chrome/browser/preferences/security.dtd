@@ -4,13 +4,15 @@
 
 <!ENTITY  security.label                 "Security">
 
-<!ENTITY  warnOnAddonInstall.label        "Warn you when sites try to install add-ons">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.label       "Warn you when web sites try to install add-ons">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
+<!ENTITY  browsingProtection.label        "Deceptive Content and Dangerous Software Protection">
 <!ENTITY  enableSafeBrowsing.label        "Block dangerous and deceptive content">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -26,8 +28,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Forms &amp; Passwords">
 
-<!ENTITY  rememberLogins1.label          "Remember logins and passwords for sites">
-<!ENTITY  rememberLogins1.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "Remember logins and passwords for web sites">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Exceptions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
