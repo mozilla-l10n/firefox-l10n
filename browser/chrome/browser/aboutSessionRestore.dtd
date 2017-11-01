@@ -7,6 +7,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Üzr istəyirik. Səhifələrinizi bərpa edə bilmədik.">
+<!ENTITY restorepage.problemDesc2   "Son səyahət sessiyanızın bərpasında çətinlik var. Təkrar yoxlamaq üçün Sessiyanı Bərpa et seçin.">
 
 <!ENTITY restorepage.hideTabs       "Əvvəlki Vərəqləri Gizlət">
 <!ENTITY restorepage.showTabs       "Əvvəlki Vərəqləri Göstər">
