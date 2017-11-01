@@ -345,6 +345,7 @@
 <!ENTITY pref_compact_tabs "Schede compatte">
 <!ENTITY pref_compact_tabs_summary2 "Visualizza le schede su due colonne in modalità verticale">
 <!ENTITY page_removed "Pagina rimossa">
+<!ENTITY folder_removed "Cartella rimossa">
 <!ENTITY bookmark_edit_title "Modifica segnalibro">
 <!ENTITY bookmark_edit_folder_title "Modifica cartella">
 <!ENTITY bookmark_edit_name "Nome">
