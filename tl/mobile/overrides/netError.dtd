@@ -23,7 +23,7 @@
   <li>Lagyan ng check ang address para sa mga error sa pag-type tulad ng 
     <strong>ww</strong>.example.com sa halip ng 
     <strong>www</strong>.example.com</li> 
-    <div id = 'searchbox'> 
+    <div id='searchbox'> 
       <input id='searchtext' type='search'> </input> 
       <button id='searchbutton'>Paghahanap</button> 
     </div>
