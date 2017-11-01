@@ -351,6 +351,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "QR-koodin lukija toimii otsikkopalkissa">
 
 <!ENTITY pref_use_master_password "Käytä pääsalasanaa">
+<!ENTITY pref_sync_default_title "Firefox-tili">
 <!ENTITY pref_sync2 "Kirjaudu sisään">
 <!ENTITY pref_sync_summary2 "Synkronoi välilehdet, kirjanmerkit, kirjautumistiedot, sivuhistoria">
 <!ENTITY pref_search_suggestions "Näytä hakuehdotukset">
@@ -812,9 +813,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Ykkössivustot">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket;in suosituksia">
 <!ENTITY activity_stream_highlights "Nostot">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "LISÄÄ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -823,6 +826,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Vieraillut">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Pinnalla">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
