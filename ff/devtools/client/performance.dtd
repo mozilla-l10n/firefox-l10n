@@ -65,18 +65,26 @@
 <!ENTITY performanceUI.table.function                 "Gollal">
 <!ENTITY performanceUI.table.function.tooltip         "Innde e nokku iwdi gollal jubbitaangal ngal.">
 <!ENTITY performanceUI.table.totalAlloc               "Kuuɓal Taƴne Jubbitaaɗe">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Kuuɓal taƴne geɗe jubbitaaɗe e oo nokku e nder noddirgon.">
+<!ENTITY performanceUI.table.selfAlloc                "Taƴne Jubbit-ɗe Koye mum en">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "Keeweendi taƴne geɗe jubbitaaɗe e oo nokku.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+<!ENTITY performanceUI.options.filter.tooltiptext "Suɓo hol keɓe hollirte doggol kabaruuji ngol">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
+<!ENTITY performanceUI.options.gear.tooltiptext "Teelto cuɓe jaawgol golle.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+<!ENTITY performanceUI.invertTree             "Walkit Lekki noddugol">
+<!ENTITY performanceUI.invertTree.tooltiptext "Walkit-de lekki noddugol ngol ina holla boli noddogul keftinaaɗi fuɗɗoraade e kaareeji ɓurɗi famɗude etee jokka haa to kaareeji ɓurɗi naywude ɗii.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+<!ENTITY performanceUI.invertFlameGraph             "Walkit Tigilde Lewlewndu">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
