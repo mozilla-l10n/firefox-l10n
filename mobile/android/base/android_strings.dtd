@@ -290,6 +290,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "ಇಚ್ಛೆಯ ಟ್ಯಾಬ್‍‍‍ಗಳು">
+<!ENTITY pref_custom_tabs_summary4 "ತ್ವರಿತವಾಗಿ ಲೋಡ್ ಮಾಡುವ ಕಸ್ಟಮ್ ಟ್ಯಾಬ್ನಲ್ಲಿ ವೆಬ್ ವಿಷಯವನ್ನು ತೆರೆಯಲು ಅಪ್ಸ್‌ಗಳನ್ನು ಅನುಮತಿಸಿ.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -485,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "ಖಾಸಗಿ ಟ್ಯಾಬ್ ನಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_remove "ತೆಗೆದು ಹಾಕು">
 <!ENTITY contextmenu_add_to_launcher "ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
+<!ENTITY contextmenu_add_page_shortcut "ಪುಟಕ್ಕೆ ಶಾರ್ಟ-ಕಟ್ಅನ್ನು ಸೇರಿಸಿ">
 <!ENTITY contextmenu_set_as_homepage "ಮುಖಪುಟವನ್ನಾಗಿ ಹೊಂದಿಸು">
 <!ENTITY contextmenu_share "ಹಂಚು">
 <!ENTITY contextmenu_pasteandgo "ಅಂಟಿಸು ಹಾಗು ಮುಂದುವರೆ">
@@ -817,6 +819,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "ಮುಖ್ಯ ತೆರೆಗೆ ಸೇರಿಸು">
 
+<!ENTITY promotion_add_page_shortcut "ಪುಟಕ್ಕೆ ಶಾರ್ಟ-ಕಟ್ಅನ್ನು ಸೇರಿಸಿ">
 
 <!ENTITY helper_first_offline_bookmark_title "ಆಫ್‍‌‍ಲೈನ್ ಓದು">
 <!ENTITY helper_first_offline_bookmark_message "ಆಫ್‌ಲೈನ್ ಇದ್ದಾಗ್ಯೂ, ನಿಮ್ಮ ಪುಟಗುರುತುಗಳಲ್ಲಿನ ಓದುಗ ನೋಟದ ಅಂಶಗಳನ್ನು ಹುಡುಕಿರಿ.">
