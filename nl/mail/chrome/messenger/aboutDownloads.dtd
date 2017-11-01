@@ -21,4 +21,4 @@
 <!ENTITY cmd.clearList.accesskey                   "s">
 <!ENTITY cmd.clearList.tooltip                     "Verwijdert alle vermeldingen uit de lijst van opgeslagen bestanden, behalve actieve downloads">
 <!ENTITY cmd.searchDownloads.label                 "Zoeken…">
-<!ENTITY cmd.searchDownloads.key                   "Z">
+<!ENTITY cmd.searchDownloads.key                   "F">
