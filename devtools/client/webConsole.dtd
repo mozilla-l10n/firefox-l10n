@@ -9,7 +9,8 @@
 <!ENTITY window.title "Ginorde Geese">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
-
+<!ENTITY openURL.label     "Uddit URL e tabbere hesere">
+<!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -22,60 +23,70 @@
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
+<!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-
+<!ENTITY btnPageCSS.tooltip2 "Nanngito juume CSS kam e deentine">
 <!ENTITY btnPageCSS.accesskey "C">
-
+<!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Logo paltooje JavaScript">
-
+<!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Kisal">
-
+<!ENTITY btnPageSecurity.tooltip "Nanngito juume kisal kam e deentine">
 <!ENTITY btnPageSecurity.accesskey "i">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
+<!ENTITY btnPageLogging.label   "Nanngitogol">
 <!ENTITY btnPageLogging.tooltip "Logo ɓatakuuje neldaaɗe to piiyol window.console">
-
-
-
-
-
-
+<!ENTITY btnPageLogging.accesskey3 "L">
+<!ENTITY btnConsoleErrors       "Juume">
+<!ENTITY btnConsoleInfo         "Humpito">
+<!ENTITY btnConsoleWarnings     "Deentine">
+<!ENTITY btnConsoleLog          "Nanngito">
+<!ENTITY btnConsoleXhr          "XHR">
+<!ENTITY btnConsoleReflows      "Reflows">
 
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
-
-
-
-
-
+<!ENTITY btnServerLogging.label       "Sarworde">
+<!ENTITY btnServerLogging.tooltip     "Nanngito mesaasuuji keɓaaɗi e sarworde geese">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "Juume">
+<!ENTITY btnServerInfo                "Humpito">
+<!ENTITY btnServerWarnings            "Deentine">
+<!ENTITY btnServerLog                 "Nanngito">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleSharedWorkers "Gollotooɓe Lollinaaɓe">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Gollotooɓe Sarworde">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Ɓeyditte walla Gollotooɓe Chrome">
 
+<!ENTITY filterOutput.placeholder "Yaltirde ciiwtirgal">
 <!ENTITY btnClear.label        "Momtu">
-
+<!ENTITY btnClear.tooltip      "Momtu yaltirde Ginorde Geese ndee">
 <!ENTITY btnClear.accesskey    "t">
 
-<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY copyURLCmd.label     "Natto Nokkuure Jokkol">
 <!ENTITY copyURLCmd.accesskey "u">
 
-
-
-
-
-
-
+<!ENTITY closeCmd.key         "W">
+<!ENTITY findCmd.key          "F">
+<!ENTITY clearOutputCtrl.key  "L">
