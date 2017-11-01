@@ -391,7 +391,9 @@
 <!ENTITY pref_dialog_set_default "Aseta oletukseksi">
 <!ENTITY pref_dialog_default "Oletus">
 <!ENTITY pref_dialog_remove "Poista">
+<!ENTITY pref_dialog_activitystream_header_content "Lisäsisältö">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Uusimmat kirjanmerkit">
+<!ENTITY pref_dialog_activitystream_visited "Vieraillut">
 
 <!ENTITY pref_search_last_toast "Et voi poistaa tai ottaa pois käytöstä viimeistä hakukonetta.">
 
@@ -502,6 +504,8 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Sivu kiinnitetty ykkössivustoihin">
+<!ENTITY unpinned_page_from_top_sites "Sivun kiinnitys ykkössivustoista poistettu">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
