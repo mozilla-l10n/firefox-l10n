@@ -4,7 +4,7 @@
 
 
 <!ENTITY  history.title             "Update History">
-<!ENTITY  history.intro             "The following updates have been installed:">
+<!ENTITY  history2.intro            "The following updates have been installed">
 <!ENTITY  closebutton.label         "Close">
                                      
 <!ENTITY  noupdates.label           "No updates installed yet">
