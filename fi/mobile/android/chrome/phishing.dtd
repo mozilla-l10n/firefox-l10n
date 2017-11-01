@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Sivustot, jotka jakelevat ei-toivottuja sovelluksia, yrittävät asentaa tietokoneellesi sovelluksia, jotka ovat petollisia tai vaikuttavat järjestelmään odottamattomalla tavalla.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Edessä olevalla sivustolla voi olla haittaohjelmia">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; esti tämän sivun, koska se saattaa asentaa vaarallisia sovelluksia, jotka varastavat tai poistavat tietojasi, kuten valokuvia, salasanoja, viestejä ja luottokorttitietoja.">
