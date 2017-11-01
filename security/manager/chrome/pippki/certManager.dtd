@@ -10,11 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "কর্তৃপক্ষ">
 <!ENTITY certmgr.tab.orphan2                  "অন্যান্য">
 
-<!ENTITY certmgr.mine                         "উল্লেখিত প্রতিষ্ঠানগুলি থেকে সনাক্তকারী সার্টিফিকেট বিদ্যমান:">
-<!ENTITY certmgr.others                       "উল্লেখিত ব্যক্তিদের সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে বিদ্যমান:">
-<!ENTITY certmgr.websites2                    "নিম্নলিখিত সার্ভারগুলির সনাক্ত করতে ব্যবহৃত সার্টিফিকেট ফাইলে বিদ্যমান:">
-<!ENTITY certmgr.cas                          "উল্লেখিত সার্টিফিকেট কর্তৃপক্ষকে সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে বিদ্যমান:">
-<!ENTITY certmgr.orphans                      "ফাইলের মধ্যে বেশ কয়েকটি সার্টিফিকেট অন্যান্য কোনো বিভাগের ক্ষেত্রে প্রযোজ্য নয়:">
 
 <!ENTITY certmgr.detail.general_tab.title     "সাধারণ (G)">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -75,7 +70,7 @@
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "সার্টিফিকেটের অনুক্রম">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
-<!ENTITY certmgr.addException.label           "ব্যতিক্রম যোগ… (x)">
+<!ENTITY certmgr.addException.label           "ব্যতিক্রম যোগ…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "নিরাপত্তা ব্যতিক্রম যোগ করুন">
