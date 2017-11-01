@@ -78,24 +78,38 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Mga palatuntunan'>
+<!ENTITY fxaccount_status_linkprivacy2 'Paunawa sa privacy'>
+<!ENTITY fxaccount_remove_account 'Idiskonekta&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Idiskonekta mula sa Pag-sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Ang iyong data sa pagba-browse ay mananatili sa device na ito, ngunit hindi na ito i-sync sa iyong account.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Firefox Account &formatS; naalis na.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Idiskonekta'>
 
+<!ENTITY fxaccount_enable_debug_mode 'Paganahin ang Mode ng Pag-debug'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Mga option'>
+<!ENTITY fxaccount_options_configure_title 'I-configure &syncBrand.shortName.label;'>
 
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; hinid konektado'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Mag type para mag sign in &formatS;'>
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Tapusin ang pagupgrade &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tapusin ang pag sign in &formatS;'>
