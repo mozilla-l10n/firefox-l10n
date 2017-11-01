@@ -147,7 +147,7 @@ available. -->
 <!ENTITY limitContentProcessOption.label "বিষয়বস্তু প্রক্রিয়াকরণ সীমা">
 <!ENTITY limitContentProcessOption.description
                                          "একাধিক ট্যাব ব্যবহারের সময় বাড়তি কন্টেন্ট প্রসেস কার্যক্ষমতা বৃদ্ধি করে, কিন্তু এতে বেশি মেমরি ব্যবহৃত হয়।">
-<!ENTITY limitContentProcessOption.accesskey   "">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস &brandShortName; এ সম্ভব।">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink

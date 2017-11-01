@@ -631,11 +631,11 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "চালনার গতি d">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
-<!ENTITY mediaPlaybackRate050x2.label "Slow (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.label "ধীরে (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "স্বাভাবিক">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
-<!ENTITY mediaPlaybackRate125x2.label "Fast (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.label "দ্রুত (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "Faster (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "a">
