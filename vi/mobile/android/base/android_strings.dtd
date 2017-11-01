@@ -47,7 +47,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Trang ưa thích">
+<!ENTITY  bookmarks_title "Trang đánh dấu">
 <!ENTITY  history_title "Lược sử">
 
 <!ENTITY  switch_to_tab "Chuyển sang thẻ">
@@ -501,8 +501,8 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Ghim các trang web hàng đầu">
-<!ENTITY contextmenu_unpin_from_top_sites "Bỏ ghim các trang web hàng đầu">
+<!ENTITY contextmenu_pin_to_top_sites "Ghim trang lên đầu">
+<!ENTITY contextmenu_unpin_from_top_sites "Bỏ ghim các trang lên đầu">
 <!ENTITY contextmenu_add_search_engine "Thêm công cụ tìm kiếm">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
@@ -598,7 +598,7 @@
 <!ENTITY home_most_recent_empty "Các trang bạn vào nhiều gần đây được hiển thị ở đây.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Mẹo: sử dụng &formatS1;Thẻ riêng tư mới&formatS2; sẽ không lưu lịch sử của bạn.">
+<!ENTITY home_most_recent_emptyhint2 "Mẹo: sử dụng &formatS1;thẻ riêng tư mới&formatS2; sẽ không lưu lịch sử của bạn.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
