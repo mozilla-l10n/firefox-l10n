@@ -186,23 +186,39 @@
 <!ENTITY pref_category_privacy_summary4 "Pagsubaybay, mga pag-login, mga pagpipilian ng data">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Tungkol sa &brandShortName;, FAQs, feedback">
+<!ENTITY pref_category_datareporting "Mga pagpipilian sa data">
 <!ENTITY pref_category_logins "Mga login">
 <!ENTITY pref_learn_more "Alamin pa">
 <!ENTITY pref_category_installed_search_engines "Mga naka-install na search engine">
 <!ENTITY pref_category_add_search_providers "Magdagdag ng mga search provider">
+<!ENTITY pref_category_search_restore_defaults "I-restore ang search engine">
+<!ENTITY pref_search_restore_defaults "Ibalik sa dating ayos">
 <!ENTITY pref_search_restore_defaults_summary "Ibalik sa defaults">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIP: Magdagdag ng anumang website sa iyong listahan ng mga provider ng paghahanap sa pamamagitan ng mahabang pagpindot sa patlang ng paghahanap nito at pagkatapos ay hawakan ang &formatI; icon.">
+<!ENTITY pref_category_advanced "Pasulong">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Ibalik ang mga tab, data saver, mga tool ng developer">
+<!ENTITY pref_category_notifications "Mga abiso">
+<!ENTITY pref_category_notifications_summary "Mga bagong tampok, mga update sa website">
+<!ENTITY pref_developer_remotedebugging_usb "Remote debugging sa pamamagitan ng USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Remote debugging sa pamamagitan ng Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Kinakailangan ng pag-debug ng Wi-Fi ang iyong aparato upang ma-install ang isang pag-install ng QR code reader app.">
+<!ENTITY pref_remember_signons2 "Tandaan ang mga pag-login">
+<!ENTITY pref_manage_logins "Pamahalaan ang mga pag-login">
 
 <!ENTITY pref_category_home "Home">
+<!ENTITY pref_category_home_summary "Ipasadya ang iyong homepage">
 <!ENTITY pref_category_home_panels "Mga panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
+<!ENTITY pref_home_updates2 "Mga update sa nilalaman">
+<!ENTITY pref_home_updates_enabled "Pinagana">
 <!ENTITY pref_home_updates_wifi "Kapag Wi-Fi lamang">
 <!ENTITY pref_category_home_homepage "Homepage">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
@@ -212,44 +228,69 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; Home">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Pasadya">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Ipasok ang address o termino sa paghahanap">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Pangkalahatan">
 <!ENTITY pref_header_search "Paghahanap">
+<!ENTITY pref_header_privacy_short "Privacy">
+<!ENTITY pref_header_accessibility "Accessibility">
+<!ENTITY pref_header_notifications "Mga abiso">
+<!ENTITY pref_header_advanced "Pasulong">
 <!ENTITY pref_header_help "Tulong">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Pinagana">
+<!ENTITY pref_cookies_not_accept_foreign "Pinagana, hindi kasama ang 3rd party">
 <!ENTITY pref_cookies_disabled "Baldado">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "Data saver">
+<!ENTITY pref_category_media "Media">
+<!ENTITY pref_category_developer_tools "Mga tool ng developer">
 
+<!ENTITY pref_tap_to_load_images_title2 "Ipakita ang mga larawan">
 <!ENTITY pref_tap_to_load_images_enabled "Palagi">
+<!ENTITY pref_tap_to_load_images_data "Lamang sa paglipas ng Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Blocked">
 
 <!ENTITY pref_show_web_fonts "Ipakita ang web fonts">
+<!ENTITY pref_show_web_fonts_summary2 "Mag-download ng mga remote na font kapag naglo-load ng isang pahina">
 
+<!ENTITY pref_tracking_protection_title2 "Proteksyon sa Pagsubaybay">
+<!ENTITY pref_donottrack_title "Huwag subaybayan">
+<!ENTITY pref_donottrack_summary "&brandShortName; ay magsasabi sa mga site na hindi mo gustong masubaybayan">
 
 <!ENTITY pref_tracking_protection_enabled "Pinagana">
+<!ENTITY pref_tracking_protection_enabled_pb "Pinagana sa Pribadong Pagba-browse">
 <!ENTITY pref_tracking_protection_disabled "Baldado">
 
 <!ENTITY pref_whats_new_notification "Anong bago sa">
+<!ENTITY pref_whats_new_notification_summary "Alamin ang tungkol sa mga bagong tampok pagkatapos ng pag-update">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Mga pang-eksperimentong tampok">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Mga Custom na Tab">
+<!ENTITY pref_custom_tabs_summary4 "Payagan ang mga app upang buksan ang nilalaman ng web sa isang mabilis na pag-load ng pasadyang tab.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -258,50 +299,105 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL ay na kopya na">
 
+<!ENTITY pref_pwa "Progressive Web Apps">
+<!ENTITY pref_pwa_summary "Pahintulutan ang mga web app na idadagdag sa home screen">
 
+<!ENTITY tracking_protection_prompt_title "Ngayon sa Pagsubaybay">
+<!ENTITY tracking_protection_prompt_text "Aktibong i-block ang mga elemento sa pagsubaybay upang hindi mo kailangang mag-alala.">
+<!ENTITY tracking_protection_prompt_tip_text "Bisitahin ang Mga setting ng privacy upang matuto nang higit pa">
 <!ENTITY tracking_protection_prompt_action_button "Nakuha ko!">
 
+<!ENTITY tab_queue_toast_message3 "Naka-save ang tab sa &brandShortName;">
 <!ENTITY tab_queue_toast_action "Buksan ngayun">
+<!ENTITY tab_queue_prompt_title "Pagbubukas ng maramihang mga link?">
+<!ENTITY tab_queue_prompt_text4 "I-save ito hanggang sa susunod na buksan mo ang &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Maaari mo itong baguhin sa ibang pagkakataon sa Mga Setting">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "I-on ang pagguhit ng Permit sa iba pang apps">
 <!ENTITY tab_queue_prompt_positive_action_button "Paganahin">
 <!ENTITY tab_queue_prompt_negative_action_button "Hindi muna">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Magpunta sa Settings">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; mga tab na naghihintay">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 tab na naghihintay">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Upang \&quot;Buksan ang maramihang mga link\&quot;, mangyaring paganahin ang pahintulot na \&apos;Gumuhit sa iba pang apps\&apos; para sa &brandShortName;">
 
+<!ENTITY pref_char_encoding "Character encoding">
 <!ENTITY pref_char_encoding_on "Ipakita ang menu">
+<!ENTITY pref_char_encoding_off "Huwag ipakita ang menu">
 <!ENTITY pref_clear_private_data2 "Burahin ang private data">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Burahin ngayon">
 <!ENTITY pref_clear_on_exit_title3 "Burahin ang private data sa pagsasara">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; awtomatikong i-clear ang iyong data tuwing pipiliin mo ang \&quot;Quit\&quot; mula sa pangunahing menu">
+<!ENTITY pref_clear_on_exit_dialog_title "Piliin kung aling data ang i-clear">
+<!ENTITY pref_restore_tabs "I-restore ang mga tab">
+<!ENTITY pref_restore_always "Palaging i-restore">
+<!ENTITY pref_restore_quit "Huwag ibalik pagkatapos na umalis &brandShortName;">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Gamitin ang system font size">
+<!ENTITY pref_use_system_font_size_summary "Scale web content ayon sa laki ng font ng system">
 
 <!ENTITY pref_media_autoplay_enabled "Payagan ang autoplay">
+<!ENTITY pref_media_autoplay_enabled_summary "Kontrolin kung maaaring i-autoplay ng mga website ang mga video at iba pang nilalaman ng media">
+<!ENTITY pref_zoom_force_enabled "Laging paganahin ang pag-zoom">
+<!ENTITY pref_zoom_force_enabled_summary "I-override ang puwersa upang maaari kang mag-zoom sa anumang pahina">
 <!ENTITY pref_voice_input "Voice input">
+<!ENTITY pref_voice_input_summary2 "Payagan ang pagdidikta ng boses sa URL bar">
+<!ENTITY pref_qrcode_enabled "QR code reader">
+<!ENTITY pref_qrcode_enabled_summary2 "Payagan ang QR scanner sa URL bar">
 
+<!ENTITY pref_use_master_password "Gumamit ng master password">
+<!ENTITY pref_sync_default_title "Firefox Account">
+<!ENTITY pref_sync2 "Mag sign-in">
+<!ENTITY pref_sync_summary2 "I-sync ang iyong mga tab, bookmark, pag-login, kasaysayan">
 <!ENTITY pref_search_suggestions "Ipakita ang mga suhestiyon sa paghahanap">
 <!ENTITY pref_history_search_suggestions "Ipakita ang nakaraan na paghahanap">
+<!ENTITY pref_import_options "Mag-import ng mga pagpipilian">
+<!ENTITY pref_import_android_summary "Mag-import ng mga bookmark at kasaysayan mula sa katutubong browser">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Buksan ang mga tab">
+<!ENTITY pref_private_data_history2 "Kasaysayan ng pag-browse">
+<!ENTITY pref_private_data_searchHistory "Kasaysayan ng paghahanap">
+<!ENTITY pref_private_data_formdata2 "Form ng kasaysayan">
+<!ENTITY pref_private_data_cookies2 "Mga cookie &amp; aktibong mga pag-login">
+<!ENTITY pref_private_data_passwords2 "Naka-save na mga pag-login">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_offlineApps "Offline na data ng website">
+<!ENTITY pref_private_data_siteSettings2 "Mga site setting">
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
+<!ENTITY pref_private_data_syncedTabs "Na synced na mga tab">
 
+<!ENTITY pref_default_browser "Gawing default browser">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Bisitahin ang Mozilla Support">
+<!ENTITY pref_about_firefox "Tungkol &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "Magbigay ng feedback">
 
+<!ENTITY pref_dialog_set_default "Itakda bilang default">
+<!ENTITY pref_dialog_default "Default">
 <!ENTITY pref_dialog_remove "Tanggalin">
+<!ENTITY pref_dialog_activitystream_header_content "Karagdagang nilalaman">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Mga Kamakailang Bookmark">
+<!ENTITY pref_dialog_activitystream_visited "Nabisita">
 
+<!ENTITY pref_search_last_toast "Hindi mo maaaring alisin o huwag paganahin ang iyong huling search engine.">
 
 <!ENTITY pref_panels_show "Ipakita">
 <!ENTITY pref_panels_hide "Itago">
@@ -309,7 +405,10 @@
 <!ENTITY pref_panels_move_up "Igalaw paitaas">
 <!ENTITY pref_panels_move_down "Igalaw paibaba">
 
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_action "Piliin kung ano ang ibabahagi">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Piliin kung anong impormasyon ang ibabahagi">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 
@@ -323,6 +422,7 @@
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
