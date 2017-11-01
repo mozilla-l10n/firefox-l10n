@@ -15,8 +15,10 @@
 
 <!ENTITY generic.longDesc "<p>Karagdagang impormasyon tungkol sa problema o error na ito ay kasalukuyang hindi magagamit.</p>">
 
+<!ENTITY malformedURI.title "Di-wastong Address">
 <!ENTITY malformedURI.longDesc "<p> Ang ibinigay na address ay nasa hindi kilalang format. Mangyaring suriin ang location bar para sa mga pagkakamali at subukan muli. </p>">
 
+<!ENTITY netInterrupt.title "Naging Interrupted ang Data Transfer">
 
 
 
