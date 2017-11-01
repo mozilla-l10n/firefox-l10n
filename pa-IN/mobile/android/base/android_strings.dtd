@@ -9,6 +9,7 @@
 <!ENTITY firstrun_privacy_message "ਬਰਾਊਜ਼ ਇੰਝ ਕਰੋ ਕਿ ਕੋਈ ਨਾ ਵੇਖੇ">
 <!ENTITY firstrun_panel_title_customize "ਕਸਟਮਾਈਜ਼">
 <!ENTITY firstrun_customize_message "&brandShortName; ਨੂੰ ਆਪਣਾ ਬਣਾਓ।">
+<!ENTITY firstrun_customize_subtext "ਐਡ-ਆਨ ਰਾਹੀਂ &brandShortName; ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ। ਇਸ਼ਤਿਹਾਰਾਂ \&apos;ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ, ਫੀਚਰ ਜੋੜੋ ਜਾਂ ਨਵਾਂ ਥੀਮ ਚੁਣੋ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਸੁਭਾਅ ਦੇ ਮੁਤਾਬਕ ਹੋਵੇ।">
 <!ENTITY firstrun_bookmarks_title "ਅਤੀਤ">
 <!ENTITY firstrun_bookmarks_message "ਤੁਹਾਡੇ ਮਨਪਸੰਦ, ਅੱਗੇ ਅਤੇ ਕੇਂਦਰ ਵਿੱਚ">
 <!ENTITY firstrun_bookmarks_subtext "ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਅਤੀਤ ਤੋਂ ਨਤੀਜੇ ਲਵੋ, ਜਦੋਂ ਤੁਸੀਂ ਲੱਭਦੇ ਹੋ।">
@@ -855,6 +856,8 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "ਅਤੀਤ ਚੋਂ ਹਟਾਓ">
 
 <!ENTITY private_tab_panel_title "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ + ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ">
+<!ENTITY private_tab_panel_description "&brandShortName; ਸਫ਼ੇ ਦੇ ਹਿੱਸਿਆਂ \&apos;ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਸਰਗਰਮੀ ਨੂੰ ਟਰੈਕ ਕਰ ਸਕਦਾ ਹੈ।">
+<!ENTITY private_tab_panel_description2 "ਅਸੀਂ ਕਿਸੇ ਵੀ ਅਤੀਤ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖਾਂਗੇ, ਪਰ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਈਲਾਂ ਅਤੇ ਨਵੇਂ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਡਿਵਾਈਸ \&apos;ਤੇ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।">
 <!ENTITY private_tab_learn_more "ਹੋਰ ਸਿੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
 
 <!ENTITY fullscreen_warning "ਪੂਰੀ ਸਕਰੀਨ \&apos;ਤੇ">
@@ -867,3 +870,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "ਮੁੱਖ ਸਕਰੀਨ \&apos;ਤੇ ਜੋੜੋ">
 <!ENTITY pwa_continue_to_website "ਵੈੱਬਸਾਈਟ ਨਾਲ ਜਾਰੀ ਰੱਖੋ">
+<!ENTITY pwa_onboarding_sumo "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਨੂੰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ \&apos;ਤੇ ਜੋੜ ਸਕਦੇ ਹੋ ਤਾਂ ਕਿ ਐਪ ਵਰਗੇ ਤਜਰਬੇ ਵਾਸਤੇ ਤੁਰੰਤ ਪਹੁੰਚ ਅਤੇ ਤੇਜ਼ੀ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕੇ।">
