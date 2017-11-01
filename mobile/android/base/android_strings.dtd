@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Tervetuloa">
 <!ENTITY firstrun_urlbar_message2 "Kiitos, että valitsit &brandShortName;in">
+<!ENTITY firstrun_panel_title_privacy "Tietosuoja">
 <!ENTITY firstrun_bookmarks_title "Historia">
 <!ENTITY firstrun_bookmarks_message "Kaikkein tärkeimmät suosikkisi">
 <!ENTITY firstrun_bookmarks_subtext "Saa hakutuloksia kirjanmerkeistäsi ja historiastasi.">
