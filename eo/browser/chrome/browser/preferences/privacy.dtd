@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Uzi protekton kontraŭ spurado en privataj fenestroj">
 <!ENTITY trackingProtectionPBM5.accesskey     "f">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Uzi protekton kontraŭ spurado dum privata retumo por bloki konatajn spurilojn">
 <!ENTITY trackingProtectionPBM6.accesskey     "U">
 <!ENTITY trackingProtectionPBMLearnMore.label "Pli da informo">
@@ -102,7 +103,7 @@
 <!ENTITY  rememberSearchForm.label       "Memori historion de serĉadoj kaj formularoj">
 <!ENTITY  rememberSearchForm.accesskey   "s">
 
-<!ENTITY  clearOnClose.label             "Forviŝi historion kiam &brandShortName; finas">
+<!ENTITY  clearOnClose.label             "Forviŝi historion kiam &brandShortName; finiĝas">
 <!ENTITY  clearOnClose.accesskey         "v">
 
 <!ENTITY  clearOnCloseSettings.label     "Agordoj…">
