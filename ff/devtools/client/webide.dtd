@@ -2,51 +2,55 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "WebIDE Firefox">
 
+<!ENTITY projectMenu_label "Eɓɓaande">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "Jaaɓnirgal kesal…">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Uddit Jaaɓnirgal tiggangal…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Uddit Jaaɓnirgal koɗal…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "Uddit Jaaɓnirgal…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Aaf etee dognu">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "Dartin Jaaɓnirgal">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "Momtu ella Jaaɓnirgal">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "Ittu Eɓɓaande">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Cuɓoraaɗe">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Yiil Geɗe Ɓeyditte">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "Hesditin Tabbe">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_label "Sahaa dogdu">
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "Seŋto">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_takeScreenshot_label "Leƴƴannde kuurgal">
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Humpito Sahaa dogdu">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "Ɗowoowo">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Cuɓe Masiŋel">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "Teelte Masiŋel">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Hollir">
-
+<!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Lonngo Ara">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Lonngo Woɗɗa">
-
-
-
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "Fuɗɗito Lonngogol">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -57,72 +61,38 @@
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
 
-
-
-
-
 <!ENTITY projectPanel_tabs "Tabbe">
-
-
-
 <!ENTITY runtimePanel_other "Goɗɗe">
-<!ENTITY runtimePanel_installsimulator "Loowde Ñebbitorde">
-
-
 
 <!-- Lense -->
-
-
 <!ENTITY details_description "Cifagol">
 <!ENTITY details_location "Nokkuure">
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Uddu">
+
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "Uddit Topitorde Ɓeyditte">
+
 <!-- Prefs -->
-
 <!ENTITY prefs_general_title "Kuuɓal">
-
-
-
-
-
-
-
 
 <!-- Runtime Details -->
 
-
-
-
-
-
 <!-- Device Preferences and Settings -->
-
-
 <!ENTITY device_typeobject "Piiyol">
 
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
 
 <!-- Monitor -->
 <!ENTITY monitor_help "Ballal">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -137,17 +107,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "Yamre">
-
-
-<!ENTITY simulator_device "masiŋel">
-
-
-
-
-

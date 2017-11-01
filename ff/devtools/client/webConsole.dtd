@@ -90,3 +90,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "Uddit e yiyngo Bayle">
+<!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.label "Mooftu hono baylal kuuɓal">
+<!ENTITY storeAsGlobalVar.accesskey "S">
