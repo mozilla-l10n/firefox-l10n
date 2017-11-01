@@ -32,10 +32,12 @@
 <!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Mga Tag'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
 <!ENTITY bookmarks.folder.other.label 'Iba pang mga Bookmark'>
 <!ENTITY bookmarks.folder.desktop.label 'Mga Bookmark sa Desktop'>
 <!ENTITY bookmarks.folder.mobile.label 'Mga Bookmark sa Mobile'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Naka-pin'>
 
 <!-- Firefox Account strings. -->
 
@@ -44,19 +46,38 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Balik sa pag-browse'>
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Maligayang pagdating sa &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Mag-sign in upang i-sync ang iyong mga tab, bookmark, pag-login &amp; higit pa.'>
+<!ENTITY fxaccount_getting_started_get_started 'Magsimula'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Gamit ang isang mas lumang bersyon ng &syncBrand.shortName.label;?'>
 
+<!ENTITY fxaccount_status_auth_server 'Account server'>
+<!ENTITY fxaccount_status_sync_now 'Sync now'>
+<!ENTITY fxaccount_status_syncing2 'Syncing…'>
 <!ENTITY fxaccount_status_device_name 'Pangalan ng device'>
+<!ENTITY fxaccount_status_sync_server 'Sync server'>
+<!ENTITY fxaccount_status_needs_verification2 'Ang iyong account ay kailangang ma-verify. Tapikin upang muling ipadala ang email ng pagpapatunay.'>
 <!ENTITY fxaccount_status_needs_credentials 'Hindi makakonek. I-tap para mag-sign in.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Kailangan mong i-upgrade ang &brandShortName; upang mag-sign in.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ay naka-set up, ngunit hindi awtomatikong pag-sync. I-toggle ang “Auto-sync data” sa Mga Setting ng Android &gt; Paggamit ng Data.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; ay naka-set up, ngunit hindi awtomatikong pag-sync. Magpalipat-lipat sa “Auto-sync data” sa menu ng Mga Setting ng Android &gt; Mga Account.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tapikin upang mag-sign in sa iyong bagong Firefox Account.'>
+<!ENTITY fxaccount_status_choose_what 'Piliin kung ano ang i-sync'>
 <!ENTITY fxaccount_status_bookmarks 'Mga bookmark'>
+<!ENTITY fxaccount_status_history 'Kasaysayan'>
 <!ENTITY fxaccount_status_passwords2 'Mga login'>
 <!ENTITY fxaccount_status_tabs 'Mga nakabukas na tab'>
+<!ENTITY fxaccount_status_additional_settings 'Karagdagang Mga Setting'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'I-sync lamang sa paglipas ng Wi-Fi'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Pigilan &brandShortName; mula sa pag-sync sa isang cellular o metered network'>
 <!ENTITY fxaccount_status_legal 'Legal' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 'Mga palatuntunan'>
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
