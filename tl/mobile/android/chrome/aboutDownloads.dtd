@@ -3,13 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Mga Download">
-
-
+<!ENTITY aboutDownloads.empty                      "Walang Download">
 
 <!ENTITY aboutDownloads.open                       "Buksan">
-
-
-
-
-
-
+<!ENTITY aboutDownloads.remove                     "Burahin">
+<!ENTITY aboutDownloads.removeAll                  "Burahin Lahat">
+<!ENTITY aboutDownloads.cancel                     "Kanselahin">
+<!ENTITY aboutDownloads.retry                      "Subukan muli">

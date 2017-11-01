@@ -3,12 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Mabuhay">
-
-<!ENTITY firstrun_urlbar_message "Isang pagbati mula sa &brandShortName;">
+<!ENTITY firstrun_urlbar_message2 "Salamat sa pagpili &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Isang modernong mobile browser mula sa Mozilla, ang non-profit na nakatuon sa isang libre at bukas na web.">
+<!ENTITY firstrun_panel_title_privacy "Privacy">
+<!ENTITY firstrun_privacy_message "Mag-browse tulad ng walang nanonood">
+<!ENTITY firstrun_privacy_subtext "Pribadong Pagba-browse na may Pagsubaybay Mga bloke ng proteksyon tracker habang nagba-browse ka at hindi matatandaan ang iyong kasaysayan kapag natapos mo ang pag-browse.">
+<!ENTITY firstrun_panel_title_customize "I-customize">
+<!ENTITY firstrun_customize_message "Gumawa ng &brandShortName; iyong sarili.">
+<!ENTITY firstrun_customize_subtext "I-customize &brandShortName; may mga add-on. I-block ang mga ad, magdagdag ng mga tampok, o pumili ng isang bagong tema upang maipakita ang iyong pagkatao.">
 <!ENTITY firstrun_bookmarks_title "Kasaysayan">
+<!ENTITY firstrun_bookmarks_message "Ang iyong mga gusto, harap at sentro">
+<!ENTITY firstrun_bookmarks_subtext "Kunin ang mga resulta ng bookmarks at history pag ikaw ay nag search.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Konting datos, mas maraming ipon">
+<!ENTITY firstrun_data_subtext2 "I-off ang mga imahe upang gumastos ng mas kaunting data sa bawat site na iyong binibisita.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Kunin kung saan ka umalis.">
+<!ENTITY firstrun_sync_subtext2 "Gamitin ang Sync upang mahanap ang mga bookmark, password, at iba pang mga bagay na iyong ini-save sa &brandShortName; sa lahat ng iyong device.">
+<!ENTITY firstrun_signin_message "Kumuha ng konektado, magsimula">
 <!ENTITY firstrun_signin_button "Mag-sign in sa Sync">
 <!ENTITY  onboard_start_button_browser "Simulan ang pag-browse">
 <!ENTITY firstrun_button_notnow "Hindi ngayon">
@@ -17,8 +29,10 @@
 <!ENTITY firstrun_tabqueue_title "Mga Link">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Buksan ang Tab queue">
+<!ENTITY firstrun_tabqueue_subtext_off "I-save ang mga link para sa ibang pagkakataon sa &brandShortName; kapag pinindot ang mga ito sa iba pang apps.">
 
 <!ENTITY firstrun_tabqueue_message_on "Tagumpay!">
+<!ENTITY firstrun_tabqueue_subtext_on "Maaari mong palaging i-off ito sa &settings; sa ilalim ng &pref_category_general ;.">
 
 <!ENTITY firstrun_readerview_title "Mga artikulo">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -29,6 +43,7 @@
 <!ENTITY firstrun_account_title "Ikaw">
 <!ENTITY firstrun_account_message "Mayroon &brandShortName; sa ibang aparato?">
 
+<!ENTITY  onboard_start_restricted1 "Maging ligtas at may kontrol sa pamamagitan ng pinasimpleng bersyon ng &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -41,19 +56,32 @@
 <!ENTITY  tab_offline_version "Ipakita ang offline na bersyon">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_message2 "&brandShortName; ay may problema at nag-crash. Ang iyong mga tabs ay dapat nakalista sa &brandShortName; pag ito\&apos;y inulit.">
+<!ENTITY  crash_send_report_message3 "Sabihin sa &vendorShortName; tungkol sa crash para ito ay maayos nila">
+<!ENTITY  crash_include_url2 "Isama ang address ng pahina na aking pinagana">
 <!ENTITY  crash_sorry "Ipagpaumahin po">
 <!ENTITY  crash_comment "Mag-comment (ang mga comment ay kita ng publiko)">
+<!ENTITY  crash_allow_contact2 "Payagan &vendorShortName; makipag-ugnay sa akin tungkol sa ulat na ito">
 <!ENTITY  crash_email "Email mo">
+<!ENTITY  crash_closing_alert "Lumabas ng walang pinapadalang crash report?">
+<!ENTITY  sending_crash_report "Pagpapadala ng crash report\u2026">
 <!ENTITY  crash_close_label "Isarado">
 <!ENTITY  crash_restart_label "Mag-restart &brandShortName;">
 
+<!ENTITY url_bar_default_text2 "Maghanap o ilagay ang address">
 
 <!ENTITY bookmark "Bookmark">
 <!ENTITY bookmark_remove "Alisin ang bookmark">
+<!ENTITY bookmark_added "Naidagdag na ang Bookmark">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Na-bookmark na">
+<!ENTITY bookmark_removed "Natanggal na ang bookmark">
+<!ENTITY bookmark_updated "Bookmark ay na-update">
 <!ENTITY bookmark_options "Options">
+<!ENTITY bookmark_save "Save">
+<!ENTITY screenshot_added_to_bookmarks "Screenshot ay naidagdag sa bookmarks">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -62,7 +90,13 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; mga items">
+<!ENTITY bookmark_folder_one_item "1 item">
+<!ENTITY bookmark_folder_updated "Na-update ang folder">
+<!ENTITY bookmark_parent_folder "Parent Folder">
+<!ENTITY bookmark_add_folder "Magdagdag ng bagong folder">
 
+<!ENTITY reader_saved_offline "Nai-save offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -71,6 +105,7 @@
 <!ENTITY history_today_section "Ngayon">
 <!ENTITY history_yesterday_section "Kahapon">
 <!ENTITY history_week_section3 "Nakaraang 7 araw">
+<!ENTITY history_older_section3 "Mas luma pa sa 6 na buwan">
 
 <!ENTITY search "Hanapin">
 <!ENTITY reload "I-reload">
@@ -78,6 +113,7 @@
 <!ENTITY menu "Menu">
 <!ENTITY back "Balik">
 <!ENTITY stop "Hinto">
+<!ENTITY site_security "Seguridad ng Site">
 <!ENTITY edit_mode_cancel "Kanselahin">
 
 <!ENTITY close_tab "Isara ang Tab">
@@ -86,6 +122,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; mga tab">
 <!ENTITY new_tab_opened "Bagong tab na binuksan">
+<!ENTITY new_private_tab_opened "Bagong pribadong tab ay nabuksan">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -97,19 +134,24 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Naglalaro ng audio – &formatS;">
 
 <!ENTITY settings "Settings">
 <!ENTITY settings_title "Settings">
 <!ENTITY pref_category_general "Pangkalahatan">
+<!ENTITY pref_category_general_summary3 "Home, wika, tab queue">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Linggwahe">
+<!ENTITY pref_category_language_summary "Palitan ang linggwahe ng iyong browser">
+<!ENTITY pref_browser_locale "Linggwahe ng browser">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "Default na sistema">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -120,18 +162,35 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bookmark">
+<!ENTITY overlay_share_bookmark_btn_label_already "Naka-bookmarked na">
+<!ENTITY overlay_share_send_other "I-send sa iba pang mga aparato">
 
+<!ENTITY overlay_share_open_browser_btn_label "Buksan sa &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Ipadala sa isa pang device">
+<!ENTITY overlay_share_no_url "Walang natagpuan na link sa ibahagi">
+<!ENTITY overlay_share_select_device "Mamili ng aparato">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Natagpuan ang mga nakakonektang device sa Firefox Account">
 
 <!ENTITY pref_category_search3 "Paghahanap">
+<!ENTITY pref_category_search_summary2 "Magdagdag, magtakda ng default, ipakita ang mga suhestiyon">
+<!ENTITY pref_category_accessibility "Accessibility">
+<!ENTITY pref_category_accessibility_summary2 "Laki ng teksto, pag-zoom, input ng boses">
+<!ENTITY pref_category_privacy_short "Privacy">
+<!ENTITY pref_category_privacy_summary4 "Pagsubaybay, mga pag-login, mga pagpipilian ng data">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Tungkol sa &brandShortName;, FAQs, feedback">
 <!ENTITY pref_category_logins "Mga login">
 <!ENTITY pref_learn_more "Alamin pa">
+<!ENTITY pref_category_installed_search_engines "Mga naka-install na search engine">
+<!ENTITY pref_category_add_search_providers "Magdagdag ng mga search provider">
+<!ENTITY pref_search_restore_defaults_summary "Ibalik sa defaults">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -144,9 +203,12 @@
 <!ENTITY pref_category_home "Home">
 <!ENTITY pref_category_home_panels "Mga panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
+<!ENTITY pref_home_updates_wifi "Kapag Wi-Fi lamang">
 <!ENTITY pref_category_home_homepage "Homepage">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Ginagamit din para sa mga bagong tabs">
+<!ENTITY home_homepage_title "Mag set ng Homepage">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -174,9 +236,13 @@
 
 <!ENTITY pref_tap_to_load_images_enabled "Palagi">
 
+<!ENTITY pref_show_web_fonts "Ipakita ang web fonts">
 
 
+<!ENTITY pref_tracking_protection_enabled "Pinagana">
+<!ENTITY pref_tracking_protection_disabled "Baldado">
 
+<!ENTITY pref_whats_new_notification "Anong bago sa">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -184,8 +250,11 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Buksan sa">
+<!ENTITY custom_tabs_menu_footer "Pinagagana ng">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL ay na kopya na">
 
@@ -196,6 +265,7 @@
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_positive_action_button "Paganahin">
+<!ENTITY tab_queue_prompt_negative_action_button "Hindi muna">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Magpunta sa Settings">
@@ -209,36 +279,35 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Basahin ngayun">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-
 <!ENTITY pref_char_encoding_on "Ipakita ang menu">
+<!ENTITY pref_clear_private_data2 "Burahin ang private data">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Burahin ngayon">
+<!ENTITY pref_clear_on_exit_title3 "Burahin ang private data sa pagsasara">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Gamitin ang system font size">
 
+<!ENTITY pref_media_autoplay_enabled "Payagan ang autoplay">
+<!ENTITY pref_voice_input "Voice input">
 
 <!ENTITY pref_search_suggestions "Ipakita ang mga suhestiyon sa paghahanap">
+<!ENTITY pref_history_search_suggestions "Ipakita ang nakaraan na paghahanap">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_downloadFiles2 "Downloads">
 
 
+<!ENTITY pref_dialog_remove "Tanggalin">
 
 
+<!ENTITY pref_panels_show "Ipakita">
 <!ENTITY pref_panels_hide "Itago">
+<!ENTITY pref_panels_reorder "Ibahin ang pagkaka-ayos">
+<!ENTITY pref_panels_move_up "Igalaw paitaas">
+<!ENTITY pref_panels_move_down "Igalaw paibaba">
 
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
@@ -250,6 +319,7 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_abouthr_title "Ipakita ang aking Health Report">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -264,15 +334,26 @@
 
 <!ENTITY downloads "Mga Download">
 
+<!ENTITY save_as_pdf "I-save bilang PDF">
 <!ENTITY tools "Mga Tools">
+<!ENTITY new_tab "Bagong tab">
+<!ENTITY tabs_normal "Mga tab">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Hanapin sa Page">
 <!ENTITY find_prev "Nakaraan">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
+<!ENTITY contextmenu_remove "Alisin">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -340,6 +421,9 @@
 
 
 
+<!ENTITY filepicker_audio_title "Mamili o mag rekord ng tunog">
+<!ENTITY filepicker_image_title "Mamili o kumuha ng litrato">
+<!ENTITY filepicker_video_title "Mamili o mag rekord ng video">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ikaw ay konektado sa">
@@ -354,16 +438,22 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "Tiyak ang koneksyon">
+<!ENTITY identity_connection_insecure "Walang katiyakan ang koneksyon">
+<!ENTITY identity_connection_chromeui "Itong pahina ay ligtas">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_display_loaded1 "Parte ng pahinang ito ay walang sekyuridad(kagaya ng mga imahe).">
 
 <!-- Tracking content notifications in site identity popup -->
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Alamin pa">
+<!ENTITY disable_protection "Huwag paganahin ang proteksyon">
 
 
 <!ENTITY bookmarkhistory_button_import "I-import">
+<!ENTITY bookmarkhistory_import_wait "Pakiusap maghintay...">
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
@@ -388,6 +478,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
     <!-- Guest mode -->
 <!ENTITY guest_session_dialog_continue "Magpatuloy">
+<!ENTITY guest_session_dialog_cancel "Kanselahin">
 
 
 <!-- Miscellaneous -->
@@ -400,6 +491,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+<!ENTITY actionbar_done "Tapos na">
 
 <!-- Voice search in the awesome bar -->
 
@@ -452,15 +544,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY helper_first_offline_bookmark_title "Magbasa ng offline">
 
+
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Binisita">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_delete_history "Inalis sa History">
 
 
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->

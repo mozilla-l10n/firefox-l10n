@@ -3,11 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2                     "Mga Add-ons">
-
-<!ENTITY aboutAddons.options                    "Options">
-
-
+<!ENTITY aboutAddons.header2                    "Ang mga Add-ons mo">
 
 <!ENTITY addonAction.undo                       "I-undo">
 
-
+<!ENTITY addonUnsigned.learnMore                "Alamin pa">

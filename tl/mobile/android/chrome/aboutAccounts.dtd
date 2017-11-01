@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.connected.title "Mga Account sa Firefox">
 <!ENTITY aboutAccounts.connected.description "Ikaw ay konektado bilang">
 <!ENTITY aboutAccounts.syncPreferences.label "Mag-click dito upang suriin ang mga Sync settings">
 
