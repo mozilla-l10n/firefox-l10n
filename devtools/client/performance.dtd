@@ -23,13 +23,16 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Hurmin Firefox silsilaaji keewɗi e cuɓe ngam yaltinde nanngugol keɓe e sahaa gooɗɗo.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY performanceUI.bufferStatusFull "Seede oo ko keewɗo. Jubbitte ɓuɗe naywude ngoni jooni ko e moññeede.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Nanngitogol heftinirde heɓotaako e oo sahaa. Tiiɗno uddu kenorɗe banngogol keeringol kadi puɗɗitoɗaa.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -37,6 +40,9 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.waterfall "Waltunde">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Ina holla golle goɗɗe ɗe wanngorde ndee woni e gollaade saanga nanngitogol ngol. feewniraa no doggol waltunde nii.">
+<!ENTITY performanceUI.toolbar.js-calltree "Lekki Noddugol">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
