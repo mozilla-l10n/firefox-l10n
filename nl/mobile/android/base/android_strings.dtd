@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Pagina verwijderd">
 
+<!ENTITY folder_removed "Map verwijderd">
+
 <!ENTITY bookmark_edit_title "Bladwijzer bewerken">
 <!ENTITY bookmark_edit_folder_title "Map bewerken">
 <!ENTITY bookmark_edit_name "Naam">
