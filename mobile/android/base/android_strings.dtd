@@ -869,3 +869,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
 <!ENTITY pwa_continue_to_website "ಜಾಲತಾಣಕ್ಕೆ ಮುಂದುವರೆಯಿರಿ">
+<!ENTITY pwa_onboarding_sumo "ನೀವು ಸುಲಭವಾಗಿ ಈ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಮುಖ್ಯ ಪರದೆಗೆ ಸೇರಿಸಿ ತಕ್ಷಣದ ಪ್ರವೇಶ ಪಡೆಯಬಹುದು ಮತ್ತು ಆಪ್‍ನಲ್ಲಿಯೇ ಶೀಘ್ರವಾಗಿ ಜಾಲಾಡುವ ಅನುಭವ ಪಡೆಯಬಹುದು.">
