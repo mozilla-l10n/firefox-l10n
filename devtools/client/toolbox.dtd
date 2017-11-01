@@ -186,4 +186,7 @@
 
 <!ENTITY options.sourceeditor.label                     "Cuɓe Taƴtorde">
 <!ENTITY options.sourceeditor.detectindentation.label   "Ejtu boowal hoore e diidol">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Maandin boowal hoore diidol pawingal e loowdi sewnde">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Uddugol jowirɗi binndi">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Naatnu guddugol jowirɗi binndi">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Goowaaɗo">
