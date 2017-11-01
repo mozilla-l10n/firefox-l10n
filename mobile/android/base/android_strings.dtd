@@ -362,6 +362,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "URL ಪಟ್ಟಿಯಲ್ಲಿ QR ಶೋಧಕವನ್ನು ಅನುಮತಿಸು">
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
+<!ENTITY pref_sync_default_title "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
 <!ENTITY pref_sync2 "ಪ್ರವೇಶಿಸು">
 <!ENTITY pref_sync_summary2 "ನಿಮ್ಮ ಹಾಳೆಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶ ಪದಗಳು, ಇತಿಹಾಸ ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
@@ -858,7 +859,10 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "ಪೂರ್ಣಪರದೆಗೆ ಪ್ರವೇಶಿಸಿದೆ">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
+<!ENTITY pwa_continue_to_website "ಜಾಲತಾಣಕ್ಕೆ ಮುಂದುವರೆಯಿರಿ">
