@@ -19,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Estä kuvat käyttääksesi vähemmän dataa sivustoilla, joilla vierailet.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Jatka siitä, mihin jäit.">
+<!ENTITY firstrun_sync_subtext2 "Käytä Sync-palvelua löytämään kirjanmerkit, salasanat ynnä muut &brandShortName;iin tallentamasi tiedot kaikilla laitteillasi.">
 <!ENTITY firstrun_signin_message "Yhdistä ja aloita">
 <!ENTITY firstrun_signin_button "Kirjaudu sisään Synciin">
 <!ENTITY  onboard_start_button_browser "Aloita selaaminen">
@@ -390,6 +391,7 @@
 <!ENTITY pref_dialog_set_default "Aseta oletukseksi">
 <!ENTITY pref_dialog_default "Oletus">
 <!ENTITY pref_dialog_remove "Poista">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Uusimmat kirjanmerkit">
 
 <!ENTITY pref_search_last_toast "Et voi poistaa tai ottaa pois käytöstä viimeistä hakukonetta.">
 
