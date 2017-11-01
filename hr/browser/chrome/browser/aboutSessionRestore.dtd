@@ -11,7 +11,12 @@
 <!ENTITY restorepage.tryThis2       "Još uvijek ne možete vratiti vašu sesiju? Ponekad je uzrok problema kartica. Pregledajte posljednje kartice, uklonite kvačicu s kartica koje ne trebate vratiti, i zatim obnovite.">
 
 <!ENTITY restorepage.hideTabs       "Sakrij prethodne kartice">
+<!ENTITY restorepage.showTabs       "Prikaži prethodne kartice">
 
+<!ENTITY restorepage.tryagainButton2 "Obnovi sesiju">
+<!ENTITY restorepage.restore.access2 "O">
+<!ENTITY restorepage.closeButton2    "Započni novu sesiju">
+<!ENTITY restorepage.close.access2   "n">
 
 <!ENTITY restorepage.restoreHeader  "Vrati">
 <!ENTITY restorepage.listHeader     "Prozore i kartice">
