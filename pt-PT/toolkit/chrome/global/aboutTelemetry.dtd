@@ -70,7 +70,7 @@ Abrir no visualizador de JSON
 <!ENTITY aboutTelemetry.telemetryLogSection "  Registo de telemetria">
 <!ENTITY aboutTelemetry.slowSqlSection "  Instruções SQL lentas">
 <!ENTITY aboutTelemetry.chromeHangsSection "  Bloqueios do navegador">
-<!ENTITY aboutTelemetry.addonDetailsSection "  Detalhes do extra">
+<!ENTITY aboutTelemetry.addonDetailsSection "Detalhes de extras">
 <!ENTITY aboutTelemetry.capturedStacksSection "  Stacks capturadas">
 <!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
 <!ENTITY aboutTelemetry.rawPayloadSection "
