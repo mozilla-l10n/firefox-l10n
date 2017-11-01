@@ -13,7 +13,7 @@
 
 <!ENTITY searchPrefs.label "Zoeken:">
 <!ENTITY searchPrefs.accesskey "Z">
-<!ENTITY focusSearch.key "z">
+<!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
