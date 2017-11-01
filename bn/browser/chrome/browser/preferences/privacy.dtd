@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader.remember.label     "ইতিহাস মনে রাখবে">
 <!ENTITY  historyHeader.dontremember.label "কখনোই ইতিহাস মনে রাখবে না">
 <!ENTITY  historyHeader.custom.label       "ইতিহাসের জন্য স্বনির্বাচিত সেটিং ব্যবহার করবে">
-<!ENTITY  historyHeader.post.label         "ইতিহাস">
+<!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; আপনার ব্রাউজিং, ডাউনলোড, ফরম এবং অনুসন্ধানের ইতিহাস মনে রাখবে এবং পরিদর্শিত ওয়েবসাইটের কুকি সংরক্ষণ করবে।">
 
