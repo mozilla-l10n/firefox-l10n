@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title                      "Tải về">
-<!ENTITY aboutDownloads.header                     "Tải về của bạn">
-<!ENTITY aboutDownloads.empty                      "Không có tải về nào">
+<!ENTITY aboutDownloads.header                     "Các tập tin tải về của bạn">
+<!ENTITY aboutDownloads.empty                      "Không có tập tin tải về nào">
 
 <!ENTITY aboutDownloads.open                       "Mở">
 <!ENTITY aboutDownloads.remove                     "Xóa">
