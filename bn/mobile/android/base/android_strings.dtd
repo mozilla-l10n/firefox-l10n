@@ -592,7 +592,7 @@
 <!ENTITY home_closed_tabs_title2 "সম্প্রতি বন্ধ করা ট্যাব">
 <!ENTITY home_last_tabs_empty "আপনার সাম্প্রতিক ট্যাব এখানে দেখাবে।">
 <!ENTITY home_restore_all "সব কিছু পুনরুদ্ধার">
-<!ENTITY home_closed_tabs_number "&formatD; ট্যাব">
+<!ENTITY home_closed_tabs_number "&formatD; টি ট্যাব">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ট্যাব">
 <!ENTITY home_most_recent_empty "সাম্প্রতিককালে আপনার দর্শন করা ওয়েবসাইট এখানে দেখাবে।">
