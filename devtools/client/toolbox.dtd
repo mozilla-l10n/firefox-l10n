@@ -185,4 +185,5 @@
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "Cuɓe Taƴtorde">
+<!ENTITY options.sourceeditor.detectindentation.label   "Ejtu boowal hoore e diidol">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Goowaaɗo">
