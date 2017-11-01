@@ -8,7 +8,7 @@
 <!ENTITY errLine.label   "লাইন:">
 <!ENTITY errColumn.label "কলাম:">
 
-<!ENTITY all.label          "সব (A)">
+<!ENTITY all.label          "সব">
 <!ENTITY all.accesskey      "A">
 <!ENTITY errors.label       "ত্রুটি (E)">
 <!ENTITY errors.accesskey   "E">

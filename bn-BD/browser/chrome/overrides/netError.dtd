@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "পাতা লোড করতে সমস্যা">
 <!ENTITY retry.label "পুনরায় চেষ্টা করুন">
 <!ENTITY returnToPreviousPage.label "পিছনে ফিরে যাও">
-<!ENTITY advanced.label "উন্নততর">
+<!ENTITY advanced.label "উচ্চপর্যায়">
 
 <!-- Specific error messages -->
 
