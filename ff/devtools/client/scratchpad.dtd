@@ -134,9 +134,12 @@
 <!ENTITY resetContext2.label          "Fuɗɗito Baylotooɗe">
 <!ENTITY resetContext2.accesskey      "T">
 
+<!ENTITY reloadAndRun.label           "Loowtu Etee Hurmin">
+<!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Hurmito">
-<!ENTITY executeMenu.accesskey        "r">
+<!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
@@ -147,3 +150,6 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
+<!ENTITY evalFunction.label "Ɓet Gollal Gonangal ngal">
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">
