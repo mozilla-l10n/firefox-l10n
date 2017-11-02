@@ -37,7 +37,7 @@
 <!ENTITY editMailingListContext.accesskey   "e">
 
 <!ENTITY newContactAbContext.label          "Yeni kişi">
-<!ENTITY newContactAbContext.accesskey      "B">
+<!ENTITY newContactAbContext.accesskey      "k">
 <!ENTITY newListAbContext.label             "Yeni liste">
 <!ENTITY newListAbContext.accesskey         "L">
 
