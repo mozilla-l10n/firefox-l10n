@@ -122,6 +122,8 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB ko ɗaɗol: ">
 <!ENTITY runtimedetails_summonADBRoot "masiŋel ɗaɗol">
 <!ENTITY runtimedetails_ADBRootWarning "(ina ɗaɓɓi loowirde puɗɗogol mo daaƴaaka)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Jamirooje DevTools bellitaaɗe: ">
+<!ENTITY runtimedetails_requestPrivileges "ina naamndii jamirooje dowrowe">
 <!ENTITY runtimedetails_privilegesWarning "(Maa huɓɓit masiŋel. Ina ɗaɓɓi naatgol e ɗaɗol.)">
 
 <!-- Device Preferences and Settings -->
