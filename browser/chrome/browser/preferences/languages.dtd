@@ -12,7 +12,7 @@
 <!ENTITY languages.customize.moveDown.accesskey         "M">
 <!ENTITY languages.customize.deleteButton.label         "Forigi">
 <!ENTITY languages.customize.deleteButton.accesskey     "F">
-<!ENTITY languages.customize.selectLanguage.label       "Elekti lingvon aldonotan…">
+<!ENTITY languages.customize.selectLanguage.label       "Elektu lingvon aldonotan…">
 <!ENTITY languages.customize.addButton.label            "Aldoni">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 
