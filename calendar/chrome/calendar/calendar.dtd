@@ -210,7 +210,7 @@
 <!ENTITY priority.level.normal              "Normal">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Yüksek">
-<!ENTITY priority.level.high.accesskey      "H">
+<!ENTITY priority.level.high.accesskey      "Y">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 saat">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "s">
