@@ -108,7 +108,7 @@
 <!ENTITY prefs_title "Cuɓoraaɗe">
 <!ENTITY prefs_editor_title "Taƴtorde">
 <!ENTITY prefs_general_title "Kuuɓal">
-<!ENTITY prefs_restore "Artir Goowaaze">
+<!ENTITY prefs_restore "Artir Goowaaɗe">
 <!ENTITY prefs_manage_components "Yiil Geɗe Ɓeyditte">
 <!ENTITY prefs_options_autoconnectruntime "Seŋo kadi e saha dogdu vennuɗo">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Seŋo kadi e sahaa dogdu ɓennuɗo saanga nde WebIDE fuɗɗii">
@@ -122,21 +122,38 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB ko ɗaɗol: ">
 <!ENTITY runtimedetails_summonADBRoot "masiŋel ɗaɗol">
 <!ENTITY runtimedetails_ADBRootWarning "(ina ɗaɓɓi loowirde puɗɗogol mo daaƴaaka)">
+<!ENTITY runtimedetails_privilegesWarning "(Maa huɓɓit masiŋel. Ina ɗaɓɓi naatgol e ɗaɗol.)">
 
 <!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Buleaare">
+<!ENTITY device_typenumber "Timmunde">
+<!ENTITY device_typestring "Ɓoggol">
 <!ENTITY device_typeobject "Piiyol">
+<!ENTITY device_typenone "Suɓo fannu">
 
 <!-- Device Preferences -->
+<!ENTITY devicepreference_title "Cuɓoraaɗe Masiŋel">
+<!ENTITY devicepreference_search "Cuɓoraaɗe jiylagol">
+<!ENTITY devicepreference_newname "Innde suɓoraare hesere">
+<!ENTITY devicepreference_newtext "Kiisol suɓoraare">
+<!ENTITY devicepreference_addnew "Ɓeydu suɓoraare hesere">
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_title "Teelte masiŋel">
+<!ENTITY devicesetting_search "Yiylo teelte">
+<!ENTITY devicesetting_newname "Innde teelte hesere">
+<!ENTITY devicesetting_newtext "Kiisol teelte">
+<!ENTITY devicesetting_addnew "Ɓeydu teelte keseó">
 
 <!-- Monitor -->
+<!ENTITY monitor_title "Ɗowoowo">
 <!ENTITY monitor_help "Ballal">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "Innitol Jowitiiɗo">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
