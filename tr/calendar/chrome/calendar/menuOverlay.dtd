@@ -7,7 +7,7 @@
 <!ENTITY event.new.event.accesskey              "Y">
 
 <!ENTITY event.new.task                         "Yeni görev…">
-<!ENTITY event.new.task.accesskey               "k">
+<!ENTITY event.new.task.accesskey               "n">
 
 <!ENTITY calendar.import.label                  "İçe aktar…">
 <!ENTITY calendar.import.accesskey              "e">

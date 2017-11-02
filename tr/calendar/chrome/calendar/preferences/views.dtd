@@ -23,7 +23,7 @@
 <!ENTITY pref.calendar.view.dayend.label "Gün bitişi:">
 <!ENTITY pref.calendar.view.dayend.accesskey "n">
 <!ENTITY pref.calendar.view.visiblehours.label "Bir seferde">
-<!ENTITY pref.calendar.view.visiblehours.accesskey "t">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "B">
 <!ENTITY pref.calendar.view.visiblehoursend.label "saat göster">
 
 <!ENTITY pref.numberofweeks.label "Gösterilecek hafta sayısı (önceki haftalar da dahil):">
