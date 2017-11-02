@@ -27,7 +27,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Search</button>
     </div>
-  <li>Jika anda gagal memnuat mana-mana halaman, semak data peranti anda atau sambungan Wi-Fi.
+  <li>Jika anda gagal memuatkan mana-mana halaman, semak data peranti atau sambungan Wi-Fi.
     <button id='wifi'>Dayakan Wi-Fi</button>
   </li> </ul>">
 
@@ -165,7 +165,7 @@ sementara, dan anda boleh cuba lagi nanti.</li>
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Laman ini mungkin tidak bersedia atau terlalu sibuk. cuba lagi kemudian.</li>
-  <li>Jika anda gagal memuat mana-mana halaman, semak data telefon atau sambungan Wi-Fi anda.
+  <li>Jika anda gagal memuatkan mana-mana halaman, semak data telefon atau sambungan Wi-Fi.
     <button id='wifi'>Enable Wi-Fi</button>
   </li>
 </ul>
