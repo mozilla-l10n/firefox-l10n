@@ -18,13 +18,7 @@
 <!ENTITY deniedPortAccess.title "ఈ చిరునామా నిషిద్దం">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "సేవిక కనబడలేదు">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>చిరునామాలో <strong>www</strong>.example.com బదులుగా <strong>ww</strong>.example.com టైపుచేయడం లాంటి తప్పులు ఉన్నాయేమో పరిశీలించండి</li>
-   <li>మీరు వేరే పేజీలను కూడా తెరవలేకపోతూంటే, మీ కంప్యూటర్ నెట్‌వర్క్ అనుసంధానాన్ని సరిచూసుకోండి.</li> 
-  <li>మీ కంప్యూటర్ లేక నెట్‌వర్క్ గానీ  ఫైర్‌వాల్ చేత రక్షించబడుతూంటే, &brandShortName;కి జాలానికి అనుసంధానమయ్యే అనుమతి ఉండేట్లు చూసుకోండి.</li>
-</ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "ఫైలు కనబడ లేదు">
 <!ENTITY fileNotFound.longDesc "
@@ -48,12 +42,8 @@
 
 <!ENTITY openPortalLoginPage.label2 "నెట్వర్క్ లాగిన్ పేజీని తెరవండి">
 
-<!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>సాధారణంగా జాల చిరునామాలను ఇలా వ్రాస్తారు <strong>http://www.example.com/</strong></li>
-  <li>మీరు ఫార్వార్డు స్లాషులనే (అంటే <strong>/</strong>) వాడుతున్నారో లేదో చూసుకోండి .</li>
-</ul>">
+<!ENTITY malformedURI.pageTitle "చెల్లని URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "అనుసంధానానికి అంతరాయం కలిగింది">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
