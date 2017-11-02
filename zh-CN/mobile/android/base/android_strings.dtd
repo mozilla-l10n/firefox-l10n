@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "页面已移除">
 
+<!ENTITY folder_removed "文件夹已移除">
+
 <!ENTITY bookmark_edit_title "编辑书签">
 <!ENTITY bookmark_edit_folder_title "编辑文件夹">
 <!ENTITY bookmark_edit_name "名称">
