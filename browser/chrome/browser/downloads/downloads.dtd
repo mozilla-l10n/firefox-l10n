@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "ఫైండర్‌లో చూపించు">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "దింపుకోళ్ళ సంచయాన్ని తెరువు">
 <!ENTITY cmd.retry.label                  "మళ్ళీ ప్రయత్నించు">
 <!ENTITY cmd.goToDownloadPage.label       "దింపుకోళ్ళ పేజీకి వెళ్ళు">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">

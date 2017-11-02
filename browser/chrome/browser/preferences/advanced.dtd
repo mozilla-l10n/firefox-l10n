@@ -29,7 +29,7 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది">
 
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "ఇంకా తెలుసుకోండి">
 
 <!ENTITY dataCollection.label            "&brandShortName; డేటా సేకరణ మరియు ఉపయోగం">
@@ -112,7 +112,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "మినహాయింపులు…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "కింది వెబ్‌ సైట్ల దత్తాంశము దాచి ఆఫ్‌లైన్ వాడుక కొరకు ఉపయోగించుటకు అనుమతి కలిగి ఉన్నది:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "తీసివేయి…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "మినహాయింపులు…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
-<!ENTITY  permissionSettingsButton2.label                       "అమరికలు…">
-
 <!ENTITY  notificationPermissions.label                         "గమనింపులు">
+<!ENTITY  notificationSettingsButton.label                      "అమరికలు…">
 <!ENTITY  notificationSettingsButton.accesskey                  "n">
 <!ENTITY  notificationPermissionsLearnMore.label                "ఇంకా తెలుసుకోండి">
 
 <!ENTITY  locationPermissions.label                             "స్థానము">
+<!ENTITY  locationSettingsButton.label                          "అమరికలు…">
 <!ENTITY  locationSettingsButton.accesskey                      "I">
 
 <!ENTITY  cameraPermissions.label                               "కెమేరా">
+<!ENTITY  cameraSettingsButton.label                            "అమరికలు…">
 <!ENTITY  cameraSettingsButton.accesskey                        "c">
 
 <!ENTITY  microphonePermissions.label                           "మైక్రోఫోను">
+<!ENTITY  microphoneSettingsButton.label                        "అమరికలు…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "ఫాంట్స్ &amp; రంగులు">

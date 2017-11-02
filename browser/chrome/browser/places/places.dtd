@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "జతచేయబడింది">
 <!ENTITY col.lastmodified.label  "చివరిగా సవరించిన">
 
+<!ENTITY historySearch.placeholder  "చరిత్రను శోధించు">
 <!ENTITY bookmarksSearch.placeholder  "ఇష్టాంశాలను శోధించు">
 
 <!ENTITY cmd.find.key  "f">
