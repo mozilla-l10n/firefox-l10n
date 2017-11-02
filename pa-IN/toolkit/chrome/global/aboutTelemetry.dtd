@@ -35,6 +35,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ਟੈਲੀਮੈਂਟਰੀ ਡਾਟਾ">
 <!ENTITY aboutTelemetry.moreInformations "ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਖੋਜਣਾ ਹੈ?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>ਫਾਇਰਫਾਕਸ ਡਾਟਾ ਦਸਤਾਵੇਜ਼ (ਅੰਗਰੇਜ਼ੀ)</a> ਵਿੱਚ ਗਾਈਡਾਂ ਹਨ, ਜੋ ਕਿ ਸਾਡੇ ਡਾਟਾ ਟੂਲ ਨਾਲ ਕੰਮ ਕਰਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿੰਦੀਆਂ ਹਨ।">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON ਦਰਸ਼ਕ 'ਚ ਖੋਲ੍ਹੋ">
 

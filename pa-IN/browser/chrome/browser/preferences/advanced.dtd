@@ -113,6 +113,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "…ਛੋਟਾਂ">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਆਫ਼ਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸੰਭਾਲਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "…ਹਟਾਓ">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -134,11 +135,15 @@ available. -->
 <!ENTITY performance.label               "ਕਾਰਗੁਜ਼ਾਰੀ">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "ਸਿਫਾਰਸ਼ੀ ਕਾਰਗੁਜਾਰੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੋਂ">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "ਇਹ ਸੈਟਿੰਗਾਂ ਨੂੰ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੇ ਹਾਰਡਵੇਅਰ ਅਤੇ ਓਪਰੇਟਿੰਗ ਸਿਸਤਮ ਦੇ ਮੁਤਾਬਕ ਬਣਾਇਆ ਗਿਆ ਹੈ।">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "ਹੋਰ ਜਾਣੋ">
 <!ENTITY limitContentProcessOption.label "ਸਮੱਗਰੀ ਕਾਰਵਾਈ ਹੱਦ">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "ਕੀ ਬਹੁ-ਪਰੋਸੈਸ ਸਮਰੱਥ ਹੈ ਜਾਂ ਨਹੀਂ, ਇਸ ਬਾਰੇ ਪਤਾ ਕਿਵੇਂ ਕਰੀਏ ਦੇ ਬਾਰੇ ਜਾਣੋ">
 <!ENTITY allowHWAccel.label              "ਜਦੋਂ ਵੀ ਉਪਲੱਬਧ ਹੋਵੇ ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ ਵਰਤੋਂ">
 <!ENTITY allowHWAccel.accesskey          "h">

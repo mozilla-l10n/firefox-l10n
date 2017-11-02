@@ -37,7 +37,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "ਸਰਗਰਮ">
 <!ENTITY aboutSupport.experimentEndDate "ਅੰਤ ਮਿਤੀ">
 <!ENTITY aboutSupport.experimentHomepage "ਮੁੱਖ ਸਫ਼ਾ">
-<!ENTITY aboutSupport.experimentBranch "Branch">
+<!ENTITY aboutSupport.experimentBranch "ਬਰਾਂਚ">
 
 <!ENTITY aboutSupport.appBasicsTitle "ਐਪਲੀਕੇਸ਼ਨ ਬੇਸਿਕ">
 <!ENTITY aboutSupport.appBasicsName "ਨਾਂ">
