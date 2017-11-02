@@ -15,7 +15,7 @@
 <!ENTITY listEmpty.recentUpdates.label        "ბოლო დროს, არცერთი დამატება არ განგიახლებიათ.">
 <!ENTITY listEmpty.findUpdates.label          "განახლებების შემოწმება">
 <!ENTITY listEmpty.search.label               "შესაბამისი დაამტებები ვერ მოიძებნა">
-<!ENTITY listEmpty.button.label               "შეიტყვეთ მეტი დამატებების შესახებ">
+<!ENTITY listEmpty.button.label               "ვრცლად, დამატებების შესახებ">
 <!ENTITY installAddonFromFile.label           "დამატების დაყენება ფაილის მეშვეობით…">
 <!ENTITY installAddonFromFile.accesskey       "ფ">
 <!ENTITY toolsMenu.tooltip                    "ხელსაწყოები ყველა დამატებისთვის">
@@ -25,6 +25,7 @@
 
 <!ENTITY cmd.back.tooltip                     "უკან ერთი გვერდით">
 <!ENTITY cmd.forward.tooltip                  "წინ ერთი გვერდით">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "ზოგიერთი გაფართოება ვერ გადამოწმდა">
 <!ENTITY showAllExtensions.button.label       "ყველა გაფართოების ჩვენება">
