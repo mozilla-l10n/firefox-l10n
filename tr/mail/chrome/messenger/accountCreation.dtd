@@ -44,7 +44,7 @@
 <!ENTITY cancel.label                    "Vazgeç">
 <!ENTITY cancel.accesskey                "z">
 <!ENTITY continue.label                  "Devam et">
-<!ENTITY continue.accesskey              "l">
+<!ENTITY continue.accesskey              "D">
 <!ENTITY stop.label                      "Dur">
 <!ENTITY stop.accesskey                  "D">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
