@@ -52,5 +52,9 @@ sentence. -->
 <!ENTITY messageStylePaperSheetsTheme.label "Kâğıt Sayfaları">
 <!ENTITY messageStyleSimpleTheme.label     "Basit">
 <!ENTITY messageStyleDefaultTheme.label    "Varsayılan">
+<!ENTITY messageStyleVariant.label         "Varyant:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Başlığı göster">
+<!ENTITY messageStyleShowHeader.accesskey  "B">
 <!ENTITY messageStyleNoPreview.title       "Ön izleme yok">
 <!ENTITY messageStyleNoPreview.description "Bu tema geçersiz veya şu anda kullanılamıyor (devre dışı bırakılmış eklenti, güvenli mod…).">
