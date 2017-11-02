@@ -831,7 +831,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ਰੀਡਰ ਝਲਕ ਆਈਤਮਾਂ ਨੂੰ ਆਫ਼ਲਾਈਨ ਪੜ੍ਹਨ ਵਾਸਤੇ ਬੁੱਕਮਾਰਕ ਕਰੋ।">
 <!ENTITY helper_triple_readerview_open_button "ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਜੋੜੋ">
 
-<!ENTITY activity_stream_topsites "ਚੋਟੀ ਦੀਆਂ ਸਟਾਈਆਂ">
+<!ENTITY activity_stream_topsites "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ">
 <!ENTITY activity_stream_highlights "ਸੁਰਖੀਆਂ">
