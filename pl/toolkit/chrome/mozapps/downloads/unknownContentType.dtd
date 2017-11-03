@@ -15,7 +15,7 @@
 <!ENTITY saveFile.label "Zapisz plik" >
 <!ENTITY saveFile.accesskey "s" >
 
-<!ENTITY rememberChoice.label "Zapamiętaj tę decyzję dla wszystkich plików tego typu" >
+<!ENTITY rememberChoice.label "Pamiętaj tę decyzję dla wszystkich plików tego typu">
 <!ENTITY rememberChoice.accesskey "a" >
 
 <!ENTITY whichIs.label "Typ pliku:" >
