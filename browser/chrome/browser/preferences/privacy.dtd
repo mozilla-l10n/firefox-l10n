@@ -40,7 +40,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ট্যাব খুলুন O">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "পূর্বনির্ধারিত অনুসন্ধান ইঞ্জিন থেকে সংশ্লিষ্ট অনুসন্ধানসমূহ d">
+<!ENTITY  locbar.searches.label         "ডিফল্ট অনুসন্ধান ইঞ্জিন থেকে সংশ্লিষ্ট অনুসন্ধান">
 <!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  suggestionSettings2.label     "অনুসন্ধান ইঞ্জিন পরামর্শের জন্য পছন্দসমূহ পরিবর্তন করুন">

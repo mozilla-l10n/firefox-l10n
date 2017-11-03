@@ -29,4 +29,4 @@
 <!ENTITY tabCrashed.emailMe "আমাকে ইমেইল করুন যখন আরও তথ্য পাওয়া যাবে">
 <!ENTITY tabCrashed.reportSent "ক্র্যাশ রিপোর্ট ইতিমধ্যে জমা হয়ে গেছে; ধন্যবাদ &brandShortName; বানাতে সাহায্য করবার জন্য এবং আরও ভালো করবার জন্য!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "ব্যাকগ্রাউন্ড ট্যাব রিপোর্ট করুন">
-<!ENTITY tabCrashed.autoSubmit3 "আপনার প্রেফারেন্স আপডেট করুণ যেন &brandShortName; ক্র্যাশ করলে স্বয়ংক্রিয়ভাবে প্রতিবেদন পাঠায়া যায়।">
+<!ENTITY tabCrashed.autoSubmit3 "আপনার পছন্দসমূহ হালনাগাদ করুন যেন &brandShortName; ক্র্যাশ করলে স্বয়ংক্রিয়ভাবে প্রতিবেদন জমা করে।">

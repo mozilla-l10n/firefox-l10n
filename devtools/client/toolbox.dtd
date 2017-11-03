@@ -103,7 +103,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label2    "পূর্বনির্ধারিত ডেভেলপার টুলসমূহ">
+<!ENTITY options.selectDefaultTools.label2    "ডিফল্ট ডেভেলপার টুলসমূহ">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
@@ -194,4 +194,4 @@
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "কীবাইন্ডিং">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
-<!ENTITY options.sourceeditor.keybinding.default.label  "পূর্বনির্ধারিত">
+<!ENTITY options.sourceeditor.keybinding.default.label  "ডিফল্ট">

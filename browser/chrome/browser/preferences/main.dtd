@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "স্টার্টআপ">
+<!ENTITY startup.label             "শুরুতে">
 
 <!ENTITY startupPage2.label        "যখন &brandShortName; শুরু হবে">
 <!ENTITY startupPage2.accesskey    "s">
-<!ENTITY startupUserHomePage.label "আপনার হোমপেজ দেখান">
+<!ENTITY startupUserHomePage.label "আপনার নীড়পাতা দেখাবে">
 <!ENTITY startupBlankPage.label    "ফাঁকা পাতা দেখাও">
 <!ENTITY startupPrevSession.label  "শেষ সময় থেকে আপনার উইন্ডো এবং ট্যাব প্রদর্শন করা হবে">
 
@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "বর্তমান পাতা ব্যবহার কর">
 <!ENTITY chooseBookmark.label      "বুকমার্ক ব্যাবহার করুন... B">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "পূর্বনির্ধারিত মান পুনঃস্থাপন করা হবে R">
+<!ENTITY restoreDefault.label      "ডিফল্ট মানে পুনঃস্থাপন করা হবে">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY disableExtension.label    "এক্সটেনশনটি নিষ্ক্রিয় করুন">
@@ -33,11 +33,11 @@
 <!ENTITY alwaysAskWhere.label         "যেখানে ফাইল সংরক্ষণ করবেন তা সর্বদা জিজ্ঞাসা করবে">
 <!ENTITY alwaysAskWhere.accesskey     "A">
 
-<!ENTITY alwaysCheckDefault2.label        "সবসময় পরীক্ষা করুন &brandShortName; আপনার ডিফল্ট ব্রাউজার কিনা">
+<!ENTITY alwaysCheckDefault2.label        "সর্বদা যাচাই করবে &brandShortName; আপনার ডিফল্ট ব্রাউজার কি না">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser3.label     "ডিফল্ট করুন…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "D">
-<!ENTITY isDefault.label                  "&brandShortName; আপনার বর্তমান পূর্বনির্ধারিত ব্রাউজার">
+<!ENTITY isDefault.label                  "&brandShortName; আপনার বর্তমান ডিফল্ট ব্রাউজার">
 <!ENTITY isNotDefault.label               "&brandShortName; আপনার নির্ধারিত ব্রাউজার নয়">
 
 <!ENTITY separateProfileMode.label        "অনুমতি দিন &brandShortName; এবং ফায়ারফক্স একই সময়ে চালানোর জন্য">
