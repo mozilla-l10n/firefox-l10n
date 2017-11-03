@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "Z থেকে A ক্রমে">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "এইচটিএমএল থেকে বুকমার্ক ইম্পোর্ট করুন…">
+<!ENTITY importBookmarksFromHTML.label     "HTML থেকে বুকমার্ক ইম্পোর্ট করুন…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "এইচটিএমএল এ বুকমার্ক এক্সপোর্ট করুন… E">
+<!ENTITY exportBookmarksToHTML.label       "HTML এ বুকমার্ক এক্সপোর্ট করুন…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "অন্যান্য ব্রাউজার থেকে ডাটা ইম্পোর্ট করুন…">
 <!ENTITY importOtherBrowser.accesskey      "A">

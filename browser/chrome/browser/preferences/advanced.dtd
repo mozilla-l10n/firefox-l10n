@@ -91,15 +91,15 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplicationDescription.label
-                                         "সেরা পারফরম্যান্স, স্থায়িত্ব এবং নিরাপত্তা এর জন্য &brandShortName; কে আপডেট রাখুন।">
+                                         "সেরা পারফরম্যান্স, স্থায়ীত্ব এবং নিরাপত্তার জন্য &brandShortName; হালনাগাদ রাখুন।">
 <!ENTITY updateApplication.version.pre   "সংস্করণ ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; কে যে কাজে অনুমতি দেওয়া হবে">
-<!ENTITY updateAuto3.label               "স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করুন (সুপারিশকৃত)">
+<!ENTITY updateAuto3.label               "স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করুন (সুপারিশকৃত)">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "হালনাগাদকরণ যাচাই করুন তবে ইনস্টলের পূর্বে আপনাকে জানাবে">
 <!ENTITY updateCheckChoose2.accesskey    "C">
-<!ENTITY updateManual2.label             "কখনই আপডেট আছে কিনা পরীক্ষা করবেন না (সুপারিশকৃত না)">
+<!ENTITY updateManual2.label             "কখনই হালনাগাদ পরীক্ষা করবেন না (সুপারিশকৃত নয়)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "হালনাগাদের ইতিহাস দেখাও…">
@@ -144,7 +144,7 @@ available. -->
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "আরও জানুন">
-<!ENTITY limitContentProcessOption.label "বিষয়বস্তু প্রক্রিয়াকরণ সীমা">
+<!ENTITY limitContentProcessOption.label "কন্টেন্ট প্রক্রিয়াকরণ সীমা">
 <!ENTITY limitContentProcessOption.description
                                          "একাধিক ট্যাব ব্যবহারের সময় বাড়তি কন্টেন্ট প্রসেস কার্যক্ষমতা বৃদ্ধি করে, কিন্তু এতে বেশি মেমরি ব্যবহৃত হয়।">
 <!ENTITY limitContentProcessOption.accesskey   "L">

@@ -20,7 +20,7 @@
 <!ENTITY tabCrashed.single.offerHelpMessage2 "পাতার কন্টেন্ট রিলোড করতে &tabCrashed.restoreTab; নির্বাচন করুণ।">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "&tabCrashed.restoreTab; অথবা &tabCrashed.restoreAll; নির্বাচন করুণ পাতা/পাতাগুলি রিলোড করতে।">
 <!ENTITY tabCrashed.requestHelp "আপনি কি আমাদের সাহায্য করবেন?">
-<!ENTITY tabCrashed.requestHelpMessage "ক্রাশ রিপোর্ট আমাদের সমস্যা নির্ণয় ও সমাধানে সহায়তা করবে এবং &brandShortName; কে আরো ভাল করবে।">
+<!ENTITY tabCrashed.requestHelpMessage "ক্রাশ রিপোর্ট আমাদের সমস্যা নির্ণয় ও সমাধানে সহায়তা করবে এবং &brandShortName; কে আরও ভাল করবে।">
 <!ENTITY tabCrashed.requestReport "ট্যাবকে রিপোর্ট করুন">
 <!ENTITY tabCrashed.sendReport3 "একটি স্বয়ংক্রিয়ভাবে প্রস্তুতকৃত প্রতিবেদন পাঠান যেন আমরা এই ধরনের সমস্যার সমাধান করতে পারি।">
 <!ENTITY tabCrashed.commentPlaceholder2 "ঐচ্ছিক মন্তব্য (মন্তব্যগুলো সবাই দেখতে পাবে)">
