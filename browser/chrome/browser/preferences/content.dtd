@@ -31,7 +31,7 @@
 <!ENTITY  microphoneSettingsButton.label                        "সেটিং…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
-<!ENTITY  fontsAndColors.label        "ফন্ট এবং রং">
+<!ENTITY  fontsAndColors.label        "ফন্ট ও রঙ">
 
 <!ENTITY  defaultFont2.label          "ডিফল্ট ফন্ট">
 <!ENTITY  defaultFont2.accesskey      "D">
@@ -41,7 +41,7 @@
 <!ENTITY  advancedFonts.label         "উচ্চপর্যায়...">
 <!ENTITY  advancedFonts.accesskey     "A">
 
-<!ENTITY  colors.label                "রং... C">
+<!ENTITY  colors.label                "রঙ...">
 <!ENTITY  colors.accesskey            "C">
 
 

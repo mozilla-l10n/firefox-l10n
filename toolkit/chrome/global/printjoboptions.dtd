@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printJobOptions.title "মুদ্রণযন্ত্রের বৈশিষ্ট্যাবলী">
 
@@ -12,7 +12,7 @@
 <!ENTITY jobTitleInput.label "কাজের নাম: (J)">
 <!ENTITY jobTitleInput.accesskey "J">
 
-<!ENTITY colorGroup.label "রং:">
+<!ENTITY colorGroup.label "রঙ:">
 <!ENTITY grayRadio.label "গ্রেস্কেল (G)">
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "রঙিন (C)">
