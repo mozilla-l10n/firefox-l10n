@@ -31,6 +31,6 @@
 <!ENTITY loaddevice.filename2                   "Enw ffeil modiwl">
 <!ENTITY loaddevice.filename2.accesskey         "E">
 <!ENTITY loaddevice.browse                      "Pori…">
-<!ENTITY loaddevice.browse.accesskey            "B">
+<!ENTITY loaddevice.browse.accesskey            "P">
 
 <!ENTITY loaddevice.title2                      "Llwytho Gyrrwr Dyfais PKCS#11">

@@ -29,7 +29,7 @@
 
 <!ENTITY  microphonePermissions.label                           "Meicroffon">
 <!ENTITY  microphoneSettingsButton.label                        "Gosodiadau…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "m">
+<!ENTITY  microphoneSettingsButton.accesskey                    "o">
 
 <!ENTITY  fontsAndColors.label        "Ffontiau a Lliwiau">
 
