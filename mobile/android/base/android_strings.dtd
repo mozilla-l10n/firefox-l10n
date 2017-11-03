@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Halaman telah dibuang">
 
+<!ENTITY folder_removed "Folder dibuang">
+
 <!ENTITY bookmark_edit_title "Edit Tandabuku">
 <!ENTITY bookmark_edit_folder_title "Edit Folder">
 <!ENTITY bookmark_edit_name "Nama">
