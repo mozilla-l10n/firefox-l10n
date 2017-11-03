@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Yujun ruxaq">
 
+<!ENTITY folder_removed "Yujun yakwuj">
+
 <!ENTITY bookmark_edit_title "Tinuk\&apos; ri yaketal">
 <!ENTITY bookmark_edit_folder_title "Tinuk\&apos; Molyakb\&apos;äl">
 <!ENTITY bookmark_edit_name "B\&apos;i\&apos;aj">
