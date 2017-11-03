@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Stran odstranjena">
 
+<!ENTITY folder_removed "Mapa odstranjena">
+
 <!ENTITY bookmark_edit_title "Uredi zaznamek">
 <!ENTITY bookmark_edit_folder_title "Uredi mapo">
 <!ENTITY bookmark_edit_name "Ime">
