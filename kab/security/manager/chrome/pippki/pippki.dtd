@@ -46,6 +46,6 @@
 <!ENTITY createCertInfo.msg2 "Ṛǧǧu ma ulac aɣilif…">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Asesteb iţummesten  s ujiṭnu">
+<!ENTITY protectedAuth.title "Asesteb iţummesten s ujiṭnu">
 <!ENTITY protectedAuth.msg "Ma ulac aɣilif, sesteb s ujitun. Tarrayt n usesteb tcudd ɣeṛ tewsit n ujiṭun-inek.">
 <!ENTITY protectedAuth.tokenName.label "Ajiṭun:">
