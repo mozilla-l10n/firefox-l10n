@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "페이지 삭제됨">
 
+<!ENTITY folder_removed "폴더 삭제됨">
+
 <!ENTITY bookmark_edit_title "북마크 편집">
 <!ENTITY bookmark_edit_folder_title "폴더 편집">
 <!ENTITY bookmark_edit_name "이름">
