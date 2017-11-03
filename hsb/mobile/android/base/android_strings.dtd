@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Strona je so wotstroniła">
 
+<!ENTITY folder_removed "Rjadowak je so wotstronił">
+
 <!ENTITY bookmark_edit_title "Zapołožku wobdźěłać">
 <!ENTITY bookmark_edit_folder_title "Rjadowak wobdźěłać">
 <!ENTITY bookmark_edit_name "Mjeno">
