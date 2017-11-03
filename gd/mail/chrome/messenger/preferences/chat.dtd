@@ -42,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Brabhsaich…">
 <!ENTITY  browse.accesskey                    "B">
 
+<!ENTITY messageStyleTab.title             "Stoidhlean nan teachdaireachdan">
+<!ENTITY messageStylePreview.label         "Ro-shealladh:">
+<!ENTITY messageStyleTheme.label           "Ùrlar:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Builgeanan">
+<!ENTITY messageStyleDarkTheme.label       "Dorcha">
+<!ENTITY messageStylePaperSheetsTheme.label "Siotaichean pàipeir">
+<!ENTITY messageStyleSimpleTheme.label     "Simplidh">
+<!ENTITY messageStyleDefaultTheme.label    "Bun-roghainn">
+<!ENTITY messageStyleVariant.label         "Eug-samhail:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Seall am bann-cinn">
+<!ENTITY messageStyleShowHeader.accesskey  "H">
+<!ENTITY messageStyleNoPreview.title       "Chan eil ro-shealladh ri fhaighinn">
+<!ENTITY messageStyleNoPreview.description "Chan eil an t-ùrlar seo dligheach no chan eil e ri fhaighinn aig an àm seo (tuilleadan à comas, modh sàbhailte, ...).">
