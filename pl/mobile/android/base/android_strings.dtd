@@ -401,6 +401,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Dwie kolumny kart w trybie pionowym">
 
 <!ENTITY page_removed "Usunięto stronę">
+<!ENTITY folder_removed "Usunięto folder">
 
 <!ENTITY bookmark_edit_title "Edytuj zakładkę">
 <!ENTITY bookmark_edit_folder_title "Edytuj folder">
