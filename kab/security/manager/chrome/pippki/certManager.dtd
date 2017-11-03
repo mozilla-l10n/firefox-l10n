@@ -23,7 +23,7 @@
 
 <!ENTITY certmgr.pending.label                "Asenqed n iselkan imiranen…">
 <!ENTITY certmgr.subjectinfo.label            "Ittusgel i:">
-<!ENTITY certmgr.issuerinfo.label             "Iţwazen i:">
+<!ENTITY certmgr.issuerinfo.label             "Yessuffeɣ-it-id:">
 <!ENTITY certmgr.periodofvalidity.label       "Tawala n tneɣbalt" >
 <!ENTITY certmgr.fingerprints.label           "Idsilen umḍinen">
 <!ENTITY certmgr.certdetail.title             "Talɣut leqqayen n uselkin">
