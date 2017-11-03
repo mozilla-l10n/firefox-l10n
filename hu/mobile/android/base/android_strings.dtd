@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Oldal eltávolítva">
 
+<!ENTITY folder_removed "Mappa eltávolítva">
+
 <!ENTITY bookmark_edit_title "Könyvjelző szerkesztése">
 <!ENTITY bookmark_edit_folder_title "Mappa szerkesztése">
 <!ENTITY bookmark_edit_name "Név">
