@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Side fuortsmiten">
 
+<!ENTITY folder_removed "Map fuortsmiten">
+
 <!ENTITY bookmark_edit_title "Blêdwizer bewurkje">
 <!ENTITY bookmark_edit_folder_title "Map bewurkje">
 <!ENTITY bookmark_edit_name "Namme">
