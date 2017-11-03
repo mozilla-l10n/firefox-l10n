@@ -10,7 +10,7 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "কখনো নয় N">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "আরো জানতে">
+<!ENTITY  trackingProtectionLearnMore.label    "আরও জানুন">
 <!ENTITY  trackingProtectionExceptions.label   "ব্যতিক্রম… E">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
 
@@ -107,7 +107,7 @@
 <!ENTITY  clearOnCloseSettings.label     "সেটিং…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersLearnMore.label      "আরো জানতে">
+<!ENTITY  browserContainersLearnMore.label      "আরও জানুন">
 <!ENTITY  browserContainersEnabled.label        "কন্টেইনার ট্যাব সক্রিয় করুন">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "সেটিং">
