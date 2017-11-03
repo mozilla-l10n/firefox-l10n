@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Парақ өшірілді">
 
+<!ENTITY folder_removed "Бума өшірілді">
+
 <!ENTITY bookmark_edit_title "Бетбелгіні түзету">
 <!ENTITY bookmark_edit_folder_title "Буманы түзету">
 <!ENTITY bookmark_edit_name "Аты">
