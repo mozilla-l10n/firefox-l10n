@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Paĝo forigita">
 
+<!ENTITY folder_removed "Dosierujo forigita">
+
 <!ENTITY bookmark_edit_title "Redakti legosignon">
 <!ENTITY bookmark_edit_folder_title "Redakti dosierujon">
 <!ENTITY bookmark_edit_name "Nomo">
