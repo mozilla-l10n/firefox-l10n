@@ -24,7 +24,7 @@
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON ভিউয়ারে খুলুন">
 
-<!ENTITY aboutTelemetry.homeSection "হোম">
+<!ENTITY aboutTelemetry.homeSection "নীড়">
 <!ENTITY aboutTelemetry.generalDataSection "   সাধারণ তথ্য">
 <!ENTITY aboutTelemetry.environmentDataSection "   পরিবেশ ডেটা">
 <!ENTITY aboutTelemetry.sessionInfoSection "  সিস্টেম সংক্রান্ত তথ্য">
