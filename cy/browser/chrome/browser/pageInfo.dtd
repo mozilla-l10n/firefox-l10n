@@ -28,7 +28,7 @@
 <!ENTITY  generalMetaContent    "Cynnwys">
 
 <!ENTITY  mediaTab              "Cyfrwng">
-<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaTab.accesskey    "C">
 <!ENTITY  mediaLocation         "Lleoliad:">
 <!ENTITY  mediaText             "Testun Cysylltiedig:">
 <!ENTITY  mediaAltHeader        "Testun Arall">
@@ -47,10 +47,10 @@
 <!ENTITY  feedTab               "Llif">
 <!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "Tanysgrifio">
-<!ENTITY  feedSubscribe.accesskey "u">
+<!ENTITY  feedSubscribe.accesskey "y">
 
 <!ENTITY  permTab               "Caniatâd">
-<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permTab.accesskey     "C">
 <!ENTITY  permUseDefault        "Defnyddio'r Rhagosodedig">
 <!ENTITY  permAskAlways         "Gofyn bob tro">
 <!ENTITY  permAllow             "Caniatáu">
