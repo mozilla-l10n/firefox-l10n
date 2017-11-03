@@ -168,5 +168,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "So tawii masiŋel maa goɗngel ngel naamniima seede ɗo fot-noo niiwtaade kod QR, tiiɗno natto kiisol ngol les ɗoo e masiŋel goɗngel ngel:">
+<!ENTITY wifi_auth_qr_size_note "So kod QR famɗii no feewi ngam ceŋogol ngol laatoo no haanirtanii, eto lonngaade walla mawninde henorde ndee.">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Jaayndeeji jamirooje ko adii kaɓɓugol">
