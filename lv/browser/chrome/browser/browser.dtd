@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Atvērt ziņojumu paneli">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Atvērt atrašanās vietu pieprasījumu paneli">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Atvērt papildinājumu instalēšanas ziņojumu paneli">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Pārvaldīt audekla izguves atļaujas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Atvērt nesaistes datu saglabāšanas ziņojumu paneli">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Atvērt paroles saglabāšanas ziņojumu paneli">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Pārvaldīt papildinājumu izmantošanu">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Šīs lapas datu glabāšana ir bloķēta.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Paziņojumu saņemšana no šīs lapas ir bloķēta.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Datu glabāšana ir bloķēta šajā lapā.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Uzlecošo logu rādīšana no šīs lapas ir bloķēta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Parādīt vēsturi">
 
