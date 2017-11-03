@@ -13,7 +13,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Sfeḍ">
 <!ENTITY resetPassword.title  "Ales awennez n wawal uffir agejdan">
-<!ENTITY resetPassword.text  "Me tsefḍeḍ awal-ik uffir agejdan, akk awallen uffiren n web neɣ n imaylen, ifekfa n tferkitin, iselkinen udmawanen, tisura tusligin ad ttwattun. Tebɣiḍ ad tekseḍ awal uffir agejdan? ">
+<!ENTITY resetPassword.text  "Ma tsefḍeḍ awal-ik uffir agejdan, akk awallen uffiren n web neɣ n imaylen, ifecka n tferkitin, iselkinen udmawanen, tisura tusligin ad ttwattun. Tebɣiḍ ad tekseḍ awal uffir agejdan? ">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Asider n uselkin">
@@ -34,8 +34,8 @@
 <!ENTITY pkcs12.setpassword.title  "Fen awal uffir n uḥraz n uselkin">
 <!ENTITY pkcs12.setpassword.message  "Awal uffir n usekles n uselkin i tesbaduḍ yakan, iḥrez ayaylu n usekles i terniḍ. Issefk ad muddeḍ awal uffir i wesenker n usekles-agi.">
 <!ENTITY pkcs12.setpassword.label1 "Awal uffir n usekles n uselkin:">
-<!ENTITY pkcs12.setpassword.label2 "Awal uffir n usekles n uselkin (tikelt nniḍen): ">
-<!ENTITY pkcs12.setpassword.reminder "Ɣuṛ-k: Ma yella tettuḍ awal uffir n uḥraz n uselkin-inek, ur tettizmireḍ ara ad d-erreḍ aḥraz-agi sya ɣer zdat.  Ma ulac aɣilif sekles-it deg adig aɣelsan.">
+<!ENTITY pkcs12.setpassword.label2 "Awal uffir n usekles n uselkin (tikelt-nniḍen): ">
+<!ENTITY pkcs12.setpassword.reminder "Ɣuṛ-k: Ma yella tettuḍ awal uffir n uḥraz n uselkin-inek, ur tettizmireḍ ara ad d-terreḍ aḥraz-agi sya ɣer zdat.  Ma ulac aɣilif sekles-it deg adig aɣelsan.">
 
 <!ENTITY chooseToken.title  "Afran n ujiṭun">
 <!ENTITY chooseToken.message1 "Ma ulac aɣilif, fren ajiṭun.">

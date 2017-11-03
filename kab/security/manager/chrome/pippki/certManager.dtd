@@ -10,7 +10,7 @@
 <!ENTITY certmgr.tab.ca                       "Iduba">
 <!ENTITY certmgr.tab.orphan2                  "Wiyaḍ">
 
-<!ENTITY certmgr.mine2                        "Γuṛ-ek iselkan n tuddsiwin seg tekebbanit-agi i k-isuluyen">
+<!ENTITY certmgr.mine2                        "Γuṛ-k iselkan n tuddsiwin seg tekebbanit-agi i k-isuluyen">
 <!ENTITY certmgr.others2                      "Ɣur-k iselkinen ɣef ufaylu  yessuluyen imdanen-agi">
 <!ENTITY certmgr.websites3                    "Ɣuṛ-k iselkinen deg ufaylu yessuluyen iqeddacen-agi">
 <!ENTITY certmgr.cas2                         "Ɣur-k iselkinen ɣef ufaylu yessuluyen iduba-agi n iselkinen">
@@ -89,5 +89,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "Addad n uselkin">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Timeẓri…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Sekles ilebda tasureft-agi">
+<!ENTITY exceptionMgr.permanent.label         "Sekles i lebda tasureft-agi">
 <!ENTITY exceptionMgr.permanent.accesskey     "k">
