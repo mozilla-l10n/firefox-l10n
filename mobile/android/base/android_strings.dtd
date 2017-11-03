@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Air a thoirt air falbh">
 
+<!ENTITY folder_removed "Chaidh am pasgan a thoirt air falbh">
+
 <!ENTITY bookmark_edit_title "Deasaich an comharra-lìn">
 <!ENTITY bookmark_edit_folder_title "Deasaich am pasgan">
 <!ENTITY bookmark_edit_name "Ainm">
