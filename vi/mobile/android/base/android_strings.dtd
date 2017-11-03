@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Trang đã bị xóa">
 
+<!ENTITY folder_removed "Thư mục đã xóa">
+
 <!ENTITY bookmark_edit_title "Chỉnh sửa Trang đánh dấu">
 <!ENTITY bookmark_edit_folder_title "Chỉnh sửa thư mục">
 <!ENTITY bookmark_edit_name "Tên">
