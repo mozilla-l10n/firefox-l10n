@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Tinklalapis pašalintas">
 
+<!ENTITY folder_removed "Aplankas pašalintas">
+
 <!ENTITY bookmark_edit_title "Adresyno įrašo savybės">
 <!ENTITY bookmark_edit_folder_title "Redaguoti aplanką">
 <!ENTITY bookmark_edit_name "Pavadinimas">
