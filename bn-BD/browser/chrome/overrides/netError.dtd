@@ -115,7 +115,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "অনিরাপদ সংযোগ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "সাইটটি HTTP ব্যবহার করে পরিবহনে সর্বোচ্চ নিরাপত্তা (HSTS) নিশ্চিত করে যে &brandShortName; এর সাথে শুধুমাত্র সুরক্ষিত সংযোগ করবে। যার ফলে, এই সার্টিফিকেট এর জন্যে একটি ব্যতিক্রম যোগ করা যাবেনা।">
-<!ENTITY certerror.copyToClipboard.label "লেখা ক্লিপবোর্ডে কপি করুন।">
+<!ENTITY certerror.copyToClipboard.label "লেখা ক্লিপবোর্ডে অনুলিপি করুন।">
 
 <!ENTITY inadequateSecurityError.title "আপনার সংযোগ নিরাপদ নয়">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

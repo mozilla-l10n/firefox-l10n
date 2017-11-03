@@ -21,7 +21,7 @@
 <!ENTITY  useSystemColors.label           "সিস্টেম রঙ ব্যবহার হবে">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "লিংক নিম্নরেখাঙ্কিত করা হবে">
+<!ENTITY  underlineLinks.label            "লিঙ্ক নিম্নরেখাঙ্কিত করা হবে">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "লিঙ্কের রঙ">
 <!ENTITY  linkColor2.label                "অপরিদর্শিত লিঙ্ক">
