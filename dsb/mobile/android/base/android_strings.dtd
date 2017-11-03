@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Bok jo se wótpórał">
 
+<!ENTITY folder_removed "Zarědnik jo se wótwónoźeł">
+
 <!ENTITY bookmark_edit_title "Cytańske znamje wobźěłaś">
 <!ENTITY bookmark_edit_folder_title "Zarědnik wobźěłaś">
 <!ENTITY bookmark_edit_name "Mě">
