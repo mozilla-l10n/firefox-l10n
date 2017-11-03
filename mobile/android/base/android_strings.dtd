@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Sidan borttagen">
 
+<!ENTITY folder_removed "Mapp borttagen">
+
 <!ENTITY bookmark_edit_title "Redigera bokmärke">
 <!ENTITY bookmark_edit_folder_title "Redigera mapp">
 <!ENTITY bookmark_edit_name "Namn">
