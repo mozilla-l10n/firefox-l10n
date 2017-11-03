@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printdialog.xul -->
 
+<!-- extracted from printdialog.xul -->
 
 <!ENTITY printButton.label "মুদ্রণ">
 
@@ -31,7 +31,7 @@
 <!ENTITY selectionRadio.label "নির্বাচিত অংশ (S)">
 <!ENTITY selectionRadio.accesskey "S">
 
-<!ENTITY copies.label "কপি">
+<!ENTITY copies.label "অনুলিপি">
 <!ENTITY numCopies.label "কপির সংখ্যা: (c)">
 <!ENTITY numCopies.accesskey "c">
 

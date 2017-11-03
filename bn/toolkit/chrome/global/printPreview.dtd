@@ -9,7 +9,7 @@
 <!ENTITY page.label           "পাতা:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "সর্বমোট">
-<!ENTITY scale.label          "আকার পরিবর্তন: (S)">
+<!ENTITY scale.label          "আকার পরিবর্তন:">
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "লম্বালম্বি (o)">
 <!ENTITY portrait.accesskey   "o">
