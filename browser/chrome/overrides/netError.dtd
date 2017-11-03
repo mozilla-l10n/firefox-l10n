@@ -21,12 +21,11 @@
 <!ENTITY dnsNotFound.pageTitle "সার্ভার খুঁজে পাওয়া যায় নি">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "হুমম। আমরা সাইটটি ঠিক খুঁজে পাচ্ছি না।">
-<!ENTITY dnsNotFound.longDesc1 "
-<strong>যদি ঠিকানা সঠিক হয়, এখানে আরও তিনটি জিনিস আছে যা অাপনি চেস্টা করতে পারেন:</strong>
+<!ENTITY dnsNotFound.longDesc1 "<strong>যদি ঠিকানা সঠিক হয়, এখানে আরও তিনটি জিনিস আছে যা অাপনি চেস্টা করতে পারেন:</strong>
 <ul>
   <li>আবার চেস্টা করুন।</li>
   <li>আপনার নেটওয়ার্ক সংযোগ পরীক্ষা করুন।</li>
-  <li>আপনি যদি সংযুক্ত থাকেন কিন্তু ফায়ারওয়ালের পিছনে, তাহলে তা & brandShortName; ওয়েবে প্রবেশ করার অনুমতি পরীক্ষা করুন।</li>
+  <li>আপনি যদি সংযুক্ত থাকেন কিন্তু ফায়ারওয়ালের পিছনে, তাহলে তা &brandShortName; ওয়েবে প্রবেশ করার অনুমতি পরীক্ষা করুন।</li>
 </ul>
 ">
 
