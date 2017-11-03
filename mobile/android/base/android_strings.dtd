@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Wedi tynnu\&apos;r dudalen">
 
+<!ENTITY folder_removed "Tynnwyd y ffolder">
+
 <!ENTITY bookmark_edit_title "Golygu Nod Tudalen">
 <!ENTITY bookmark_edit_folder_title "Golygu Ffolder">
 <!ENTITY bookmark_edit_name "Enw">
