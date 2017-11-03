@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "पान काढले गेले">
 
+<!ENTITY folder_removed "फोल्डर काढले">
+
 <!ENTITY bookmark_edit_title "वाचनखूण संपादीत करा">
 <!ENTITY bookmark_edit_folder_title "फोल्डर संपादित करा">
 <!ENTITY bookmark_edit_name "नाव">
