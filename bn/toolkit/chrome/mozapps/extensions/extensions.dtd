@@ -138,8 +138,8 @@
 <!ENTITY detail.contributions.description     "এ অ্যাড-অন ডেভেলপার বলে যে, আপনি আপনার যে কোনো ছোট অবদান দিয়েও এই অ্যাড-অনের উন্নয়নে সহায়তা করতে পারেন।">
 
 <!ENTITY detail.updateType                    "স্বয়ংক্রিয় হালনাগাদ">
-<!ENTITY detail.updateDefault.label           "পূর্বনির্ধারিত">
-<!ENTITY detail.updateDefault.tooltip         "পূর্বনির্ধারিত হলেই কেবল স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে">
+<!ENTITY detail.updateDefault.label           "ডিফল্ট">
+<!ENTITY detail.updateDefault.tooltip         "ডিফল্ট হলেই কেবল স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে">
 <!ENTITY detail.updateAutomatic.label         "সচল">
 <!ENTITY detail.updateAutomatic.tooltip       "স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে">
 <!ENTITY detail.updateManual.label            "বন্ধ">

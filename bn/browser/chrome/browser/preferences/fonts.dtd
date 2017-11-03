@@ -69,7 +69,7 @@
 <!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "এই অক্ষরের এনকোডিং ব্যবহৃত হয়েছে লিগ্যাসি বিষয়বস্তুর জন্য যা এর এনকোডিং ডিক্লেয়ার করতে ব্যর্থ।">
 
-<!ENTITY languages.customize.Fallback.auto        "বর্তমান লোকেলের জন্য পূর্বনির্ধারিত">
+<!ENTITY languages.customize.Fallback.auto        "বর্তমান লোকেলের জন্য ডিফল্ট">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "আরবি">
