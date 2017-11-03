@@ -20,8 +20,8 @@
 <!ENTITY            renameButton.accesskey "R">
 <!ENTITY            deleteButton.label     "প্রোফাইল মুছে ফেলা… (D)">
 <!ENTITY            deleteButton.accesskey "D">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "আপনার ব্যবহৃত সেটিংসমূহ, পছন্দসমূহ ও অন্যান্য ব্যবহারকারী আইটেম সম্পর্কে &brandShortName; আপনার প্রোফাইলে তথ্য সংরক্ষণ করে।">
 
 <!ENTITY            offlineState.label    "অফলাইনে কাজ (o)">

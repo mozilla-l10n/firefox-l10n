@@ -509,12 +509,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "সার্চ সেটিংস বদল করুন">
-<!ENTITY changeSearchSettings.tooltip "অনুসন্ধানের সেটিংস বদল করুন">
+<!ENTITY changeSearchSettings.button  "অনুসন্ধান সেটিং বদল করুন">
+<!ENTITY changeSearchSettings.tooltip "অনুসন্ধানের সেটিং বদল করুন">
 
 <!ENTITY searchInNewTab.label         "নতুন ট্যাবে অনুসন্ধান T">
 <!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "ডিফল্ট সার্চ ইঞ্জিন হিসেবে সেট কর D">
+<!ENTITY searchSetAsDefault.label     "ডিফল্ট অনুসন্ধান ইঞ্জিন হিসেবে সেট কর D">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "নতুন ট্যাবে লিঙ্ক খুলুন">

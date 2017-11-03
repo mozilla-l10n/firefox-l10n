@@ -135,7 +135,7 @@
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "সাইট সংক্রান্ত পছন্দসমূহ">
-<!ENTITY devicepreference_search "সার্চের পছন্দসমূহ">
+<!ENTITY devicepreference_search "অনুসন্ধান পছন্দসমূহ">
 <!ENTITY devicepreference_newname "নতুন পছন্দের নাম">
 <!ENTITY devicepreference_newtext "পছন্দের মান">
 <!ENTITY devicepreference_addnew "নতুন পছন্দ যোগ করুন">
