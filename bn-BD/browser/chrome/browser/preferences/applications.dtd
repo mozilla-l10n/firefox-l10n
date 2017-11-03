@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "অ্যাপ্লিকেশন">
-<!ENTITY  applications.description "নির্বাচন করুণ &brandShortName; কিভাবে আপনার ওয়েব বা অন্য কোন অ্যাপলিকেশন থেকে ডাউনলোড করা ফাইল গুলি নিয়ন্ত্রণ করবে।">
+<!ENTITY  applications.description "&brandShortName; কিভাবে আপনার ওয়েব বা অন্য কোন অ্যাপ্লিকেশন থেকে ডাউনলোড করা ফাইল নিয়ন্ত্রণ করবে তা নির্বাচন করুন।">
 
-<!ENTITY  typeColumn.label        "বিষয়বস্তুর ধরণ">
+<!ENTITY  typeColumn.label        "কন্টেন্টর ধরণ">
 <!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "করণীয়">

@@ -25,7 +25,7 @@
 <!ENTITY  generalModified       "পরিবর্তিত:">
 <!ENTITY  generalEncoding2      "টেক্সট এনকোডিংঃ">
 <!ENTITY  generalMetaName       "নাম">
-<!ENTITY  generalMetaContent    "বিষয়বস্তু">
+<!ENTITY  generalMetaContent    "কন্টেন্ট">
 
 <!ENTITY  mediaTab              "মিডিয়া">
 <!ENTITY  mediaTab.accesskey    "M">

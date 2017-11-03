@@ -14,7 +14,7 @@
 <!ENTITY showHiddenFiles.label  "লুকানো ফাইল ও ডিরেক্টরি প্রদর্শন (S)">
 <!ENTITY showHiddenFiles.accesskey  "S">
 
-<!ENTITY noPermissionError.label "এই ডিরেক্টরির বিষয়বস্তু দেখার জন্য প্রয়োজনীয় অনুমতি আপনার নেই।">
+<!ENTITY noPermissionError.label "এই ডিরেক্টরির কন্টেন্ট দেখার জন্য প্রয়োজনীয় অনুমতি আপনার নেই।">
 
 <!ENTITY folderUp.tooltiptext   "এক ধাপ উপরে যান">
 <!ENTITY folderHome.tooltiptext "নীড় পাতায় যাও">
