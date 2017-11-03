@@ -62,7 +62,7 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mae'r gweinydd dirprwy yn gwrthod cysylltiadau">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Gwiriwch osodiadau'r dirprwy i wneud yn siŵr eu bod yn gywir.</li> <li>Cysylltwch âch gweinyddwr system i wneud yn siŵr fod y gweinydd dirprwyol yn gweithio.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Gwiriwch osodiadau'r dirprwy i wneud yn siŵr eu bod yn gywir.</li> <li>Cysylltwch â'ch gweinyddwr system i wneud yn siŵr fod y gweinydd dirprwyol yn gweithio.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Methu canfod y gweinydd dirprwyol">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
@@ -70,7 +70,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Gwiriwch eich gosodiadau dirprwy i sicrhau eu bod yn gywir.</li> <li>Gwiriwch i sicrhau fod gennych gysylltiad data a Wi-Fi sy'n gweithio. <button id='wifi'>Galluogi Diwifr</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Nid yw'r dudalen yn ailgyfeirio'n iawn">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Gall y broblem yma fod wedi ei achosi drwy analluogi neu wrthod cwci.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Gall y broblem yma fod wedi ei hachosi drwy analluogi neu wrthod cwci.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Ymateb annisgwyl gan y gweinydd">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.</li> <li>Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.</li> </ul>">
