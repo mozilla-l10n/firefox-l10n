@@ -185,7 +185,7 @@
 
 <!ENTITY options.sourceeditor.label                     "এডিটর পছন্দসমূহ">
 <!ENTITY options.sourceeditor.detectindentation.label   "ইনডেন্টেশন শনাক্তকরণ">
-<!ENTITY options.sourceeditor.detectindentation.tooltip "উৎসের বিষয়বস্তুর ভিত্তিতে ইনডেন্টেশন ধারণা করুন">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "উৎসের কন্টেন্টের ভিত্তিতে ইনডেন্টেশন ধারণা করুন">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "অটোক্লোজ ব্র্যাকেট">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন">
 <!ENTITY options.sourceeditor.expandtab.label           "ফাঁকাস্থান ব্যবহার করে ইনডেন্ট করুন">

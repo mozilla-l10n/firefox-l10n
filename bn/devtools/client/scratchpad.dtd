@@ -104,7 +104,7 @@
 <!ENTITY environmentMenu.accesskey    "n">
 
 
-<!ENTITY contentContext.label         "বিষয়বস্তু C">
+<!ENTITY contentContext.label         "কন্টেন্ট C">
 <!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used

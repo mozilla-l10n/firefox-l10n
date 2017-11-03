@@ -9,7 +9,7 @@
 <!ENTITY     cookiedomain.label             "সাইট">
 
 <!ENTITY     props.name.label               "নাম:">
-<!ENTITY     props.value.label              "বিষয়বস্তু:">
+<!ENTITY     props.value.label              "কন্টেন্ট:">
 <!ENTITY     props.domain.label             "হোস্ট:">
 <!ENTITY     props.path.label               "পাথ:">
 <!ENTITY     props.secure.label             "ব্যবহৃত সংযোগ:">
