@@ -55,7 +55,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.accesskey "W">
 <!ENTITY menu_highlightSyntax.label "সিনট্যাক্স হাইলাইট করা হবে (H)">
 <!ENTITY menu_highlightSyntax.accesskey "H">
-<!ENTITY menu_textSize.label "লেখার আকার (z)">
+<!ENTITY menu_textSize.label "লেখার আকার">
 <!ENTITY menu_textSize.accesskey "z">
 <!ENTITY menu_textEnlarge.label "বৃদ্ধি (I)">
 <!ENTITY menu_textEnlarge.accesskey "I">
@@ -80,7 +80,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "লিংকের ঠিকানা অনুলিপি করুন L">
+<!ENTITY copyLinkCmd.label "লিঙ্কের ঠিকানা অনুলিপি">
 <!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "ইমেইল ঠিকানা অনুলিপি (E)">
 <!ENTITY copyEmailCmd.accesskey "E">
