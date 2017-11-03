@@ -81,9 +81,9 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "হালনাগাদ অনুসন্ধান করা হবে F">
 <!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "অপশন O">
+<!ENTITY cmd.preferencesWin.label             "অপশন">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "পছন্দ P">
+<!ENTITY cmd.preferencesUnix.label            "পছন্দসমূহ">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "সম্পর্কিত A">
 <!ENTITY cmd.about.accesskey                  "A">
@@ -151,10 +151,10 @@
 <!ENTITY detail.checkForUpdates.label         "হালনাগাদ এর জন্য পরীক্ষা f">
 <!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "এই অ্যাড-অনের জন্য হালনাগাদ পরীক্ষা">
-<!ENTITY detail.showPreferencesWin.label      "অপশন O">
+<!ENTITY detail.showPreferencesWin.label      "অপশন">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "এই অ্যাড-অন এর অপশন পরিবর্তন করুন">
-<!ENTITY detail.showPreferencesUnix.label     "পছন্দ সমূহ P">
+<!ENTITY detail.showPreferencesUnix.label     "পছন্দসমূহ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "এই অ্যাড-অন এর পছন্দসমূহ পরিবর্তন করুন">
 

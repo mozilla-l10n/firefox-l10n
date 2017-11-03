@@ -82,7 +82,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "ফোল্ডার খুলুন">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "গুরুত্বপূর্ণ পরিমিত পছন্দ সমূহ">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "গুরুত্বপূর্ণ পরিবর্তিত পছন্দসমূহ">
 <!ENTITY aboutSupport.modifiedPrefsName "নাম">
 <!ENTITY aboutSupport.modifiedPrefsValue "মান">
 
@@ -90,7 +90,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js পছন্দসমূহ">
 <!ENTITY aboutSupport.userJSDescription "আপনার প্রোফাইল ফোল্ডারে একটি <a id='prefs-user-js-link'> user.js ফাইল রয়েছে</a>, যাতে &brandShortName; কর্তৃক তৈরিকৃত নয় এমন পছন্দসমূহ অর্ন্তভূক্ত।">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "গুরুত্বপূর্ণ পরিমিত পছন্দ সমূহ">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "গুরুত্বপূর্ণ অবরুদ্ধ পছন্দসমূহ">
 <!ENTITY aboutSupport.lockedPrefsName "নাম">
 <!ENTITY aboutSupport.lockedPrefsValue "মান">
 

@@ -26,7 +26,7 @@
 <!ENTITY  paneContainers.title          "কন্টেইনার ট্যাব">
 <!ENTITY  paneUpdates.title             "হালনাগাদ">
 
-<!ENTITY  languageAndAppearance.label   "ভাষা এবং বাহ্য রূপ">
+<!ENTITY  languageAndAppearance.label   "ভাষা ও অবয়ব">
 <!ENTITY  filesAndApplications.label    "ফাইল ও অ্যাপ্লিকেশন">
 <!ENTITY  browserPrivacy.label          "ব্রাউজার গোপনীয়তা">
 

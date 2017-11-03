@@ -9,7 +9,7 @@
 <!ENTITY fill.label                 "পূরণ করুন">
 <!ENTITY fit.label                  "মানানসই">
 <!ENTITY preview.label              "প্রাকদর্শন">
-<!ENTITY color.label                "রং:">
+<!ENTITY color.label                "রঙ:">
 <!ENTITY setDesktopBackground.title "ডেস্কটপের পটভূমি নির্ধারণ">
 <!ENTITY openDesktopPrefs.label     "ডেস্কটপ সংক্রান্ত পছন্দসমূহ">
 <!ENTITY closeWindow.key            "w">
