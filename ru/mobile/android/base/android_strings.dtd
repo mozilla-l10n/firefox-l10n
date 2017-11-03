@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Страница удалена">
 
+<!ENTITY folder_removed "Папка удалена">
+
 <!ENTITY bookmark_edit_title "Изменение закладки">
 <!ENTITY bookmark_edit_folder_title "Изменение папки">
 <!ENTITY bookmark_edit_name "Имя">
