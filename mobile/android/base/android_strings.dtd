@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "已移除頁面">
 
+<!ENTITY folder_removed "已移除資料夾">
+
 <!ENTITY bookmark_edit_title "編輯書籤">
 <!ENTITY bookmark_edit_folder_title "編輯資料夾">
 <!ENTITY bookmark_edit_name "名稱">
