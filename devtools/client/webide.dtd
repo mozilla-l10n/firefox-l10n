@@ -167,5 +167,6 @@
 <!ENTITY wifi_auth_yes_scanner "Aɗa jogii naamndal niiwtagol QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "So tawii masiŋel maa goɗngel ngel naamniima seede ɗo fot-noo niiwtaade kod QR, tiiɗno natto kiisol ngol les ɗoo e masiŋel goɗngel ngel:">
 
 <!-- Logs panel -->
