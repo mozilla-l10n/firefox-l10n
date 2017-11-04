@@ -9,5 +9,9 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Saha kesɗitinal jawtungal">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Ngonka kesɗitinal sakket">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Kesɗitinal">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Moggirde">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Hesɗitin">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Momtu">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Innde haatumeere">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Limoore naatirɗe moggirde uste">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Limoore naatirɗe moggirde ɓeyde">
