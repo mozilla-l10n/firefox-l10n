@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "כאשר אני יוצא מ־&brandShortName;, הפריטים הבאים ינוקו אוטומטית:">
 
+<!ENTITY clearDataSettings3.label     "בעת סגירת &brandShortName;, הפריטים הבאים ינוקו אוטומטית">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
