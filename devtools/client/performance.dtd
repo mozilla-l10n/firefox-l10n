@@ -13,6 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+<!ENTITY performanceUI.bufferStatusTooltip "પ્રોફાઇલ એક પરિપત્ર બફરમાં નમૂનાઓનું સંગ્રહ કરે છે, અને એકવાર બફર રેકોર્ડીંગની મર્યાદા સુધી પહોંચે છે, નવા નમૂનાઓ રેકોર્ડીંગની શરૂઆતમાં નમૂનાઓને ફરીથી લખે છે.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
