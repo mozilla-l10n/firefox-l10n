@@ -5,7 +5,7 @@
 <!ENTITY autoconfigWizard2.title         "Mevcut E-posta Adresimi Kur">
 <!ENTITY name.label                      "Adınız:">
 <!ENTITY name.accesskey                  "A">
-<!ENTITY name.placeholder                "Ad Soyad">
+<!ENTITY name.placeholder                "Ad Soyadı">
 <!ENTITY name.text                       "Başkalarına gösterilecek adınız">
 <!ENTITY email.label                     "E-posta adresi:">
 <!ENTITY email.accesskey                 "E">
@@ -62,7 +62,7 @@
 <!ENTITY warning.label                   "Uyarı!">
 <!ENTITY incomingSettings.label          "Gelen posta ayarları:">
 <!ENTITY outgoingSettings.label          "Giden posta ayarları:">
-<!ENTITY technicaldetails.label          "Teknik Ayrıntılar">
+<!ENTITY technicaldetails.label          "Teknik ayrıntılar">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
@@ -77,12 +77,12 @@
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Ayarları Değiştir">
+<!ENTITY changeSettings.label            "Ayarları değiştir">
 <!ENTITY changeSettings.accesskey        "A">
 
 <!ENTITY contactYourProvider.description "&brandShortName; mevcut yapılandırmayı kullanarak e-postalarınızı almanızı sağlayabilir ama sorunlu bağlantılarla ilgili olarak sistem yöneticinizle veya e-posta sağlayıcınızla iletişime geçmelisiniz. Daha fazla bilgi için Thunderbird SSS'ye bakın.">
 
-<!ENTITY insecureServer.tooltip.title    "Uyarı! Bu, güvensiz bir sunucu.">
+<!ENTITY insecureServer.tooltip.title    "Uyarı! Bu sunucu güvensizdir.">
 <!ENTITY insecureServer.tooltip.details  "Daha fazla ayrıntı için çembere tıklayın.">
 
 <!ENTITY insecureUnencrypted.description "E-postanız ve yetkilendirme bilgileriniz şifrelenmeden gönderiliyor, bu yüzden parolanız (ve iletiniz) kolaylıkla başkaları tarafından okunabilir. &brandShortName; e-postalarınıza erişmenizi sağlayacak, ama güvenli bir bağlantı yapılandırması için e-posta sağlayıcınızla iletişime geçmelisiniz.">
