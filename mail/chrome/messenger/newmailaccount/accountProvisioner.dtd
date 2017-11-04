@@ -7,23 +7,23 @@
 <!ENTITY other.languages "Yalnızca sizin bölgenize adres sunan sağlayıcıları görüntülüyoruz. Tüm sağlayıcıları görmek için buraya tıklayın.">
 <!ENTITY error.line1 "Üzgünüz, hiçbir e-posta adres önerisi bulamadık.">
 <!ENTITY error.line2 "Daha fazla e-posta bulmak için rumuz veya başka bir terim de arayabilirsiniz.">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-
 <!ENTITY error.suggest.before "Ayrıca ">
 <!ENTITY error.suggest.middle "bedava e-posta hesabı seçeneklerinden birini">
 <!ENTITY error.suggest.after "de deneyebilirsiniz.">
+
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-
 <!ENTITY success.title.before "Merhaba">
 <!ENTITY success.title.after ", aşağıdaki e-posta adresleri sizin için uygun olabilir:">
 <!ENTITY success.tip "(Daha fazla e-posta bulmak için rumuz veya başka bir terim de arayabilirsiniz.)">
 <!ENTITY partnership.description "Çeşitli sağlayıcılarla ortaklık kuran &brandShortName; size yeni bir e-posta hesabı önerebilir. Başlamak için yukarıdaki alana adınızı ve soyadınızı veya istediğiniz diğer kelimeleri yazmanız yeterli.">
-<!ENTITY existing.header "Kullanmak istediğiniz hâlihazırda bir adresiniz mı var?">
+<!ENTITY existing.header "Kullanmak istediğiniz bir adresiniz zaten var mı?">
 <!ENTITY tinyheader.title "Adresiniz var mı?">
 <!ENTITY tinyheader.existing "Bunu geç ve mevcut e-postamı kullan">
 <!ENTITY content.close "Hesabımı daha sonra yapılandıracağım">

@@ -23,10 +23,10 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "l">
-<!ENTITY attachPageCmd.label "Web Sayfası…">
+<!ENTITY attachPageCmd.label "Web sayfası…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Kişisel Kart (vCard)">
+<!ENTITY attachVCardCmd.label "Kişisel kart (vCard)">
 <!ENTITY attachVCardCmd.accesskey "K">
 <!ENTITY remindLater.label "Daha Sonra Hatırlat">
 <!ENTITY remindLater.accesskey "S">
@@ -83,7 +83,7 @@
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY editRewrapCmd.label "Yeniden Kaydır">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Ekin Adını Değiştir…">
+<!ENTITY renameAttachmentCmd.label "Ekin adını değiştir…">
 <!ENTITY renameAttachmentCmd.accesskey "n">
 <!ENTITY selectAllCmd.label "Tümünü Seç">
 <!ENTITY selectAllCmd.key "A">
@@ -139,7 +139,7 @@
 <!ENTITY quoteCmd.accesskey "n">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Kişisel Kart Ekle (vCard)">
+<!ENTITY attachVCard.label "Kişisel kart ekle (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Alındı onayı">
@@ -203,7 +203,7 @@
 <!ENTITY sendButton.label "Gönder">
 <!ENTITY quoteButton.label "Alıntıla">
 <!ENTITY addressButton.label "Kişiler">
-<!ENTITY attachButton.label "Ek">
+<!ENTITY attachButton.label "Ekle">
 <!ENTITY spellingButton.label "Yazım Denetimi">
 <!ENTITY saveButton.label "Kaydet">
 <!ENTITY printButton.label "Yazdır">
@@ -281,7 +281,7 @@
 <!ENTITY delete.accesskey "S">
 <!ENTITY removeAttachment.label "Eki kaldır">
 <!ENTITY removeAttachment.accesskey "k">
-<!ENTITY renameAttachment.label "Adını Değiştir…">
+<!ENTITY renameAttachment.label "Adını değiştir…">
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY selectAll.label "Tümünü Seç">
 <!ENTITY selectAll.accesskey "e">
@@ -293,9 +293,9 @@
 <!ENTITY convertCloud.accesskey "D">
 <!ENTITY cancelUpload.label "Yüklemekten Vazgeç">
 <!ENTITY cancelUpload.accesskey "e">
-<!ENTITY convertRegularAttachment.label "Normal Ek">
+<!ENTITY convertRegularAttachment.label "Normal ek">
 <!ENTITY convertRegularAttachment.accesskey "E">
-<!ENTITY attachPage.label "Web Sayfası Ekle…">
+<!ENTITY attachPage.label "Web sayfası ekle…">
 <!ENTITY attachPage.accesskey "W">
 
 <!-- Spell checker context menu items -->
