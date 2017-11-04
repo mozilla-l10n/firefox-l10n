@@ -299,6 +299,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL-ja u kopjua">
 
+<!ENTITY pref_pwa "Aplikacione Web Progresive">
 <!ENTITY pref_pwa_summary "Lejojini aplikacionet web të shtohen te skena e kreut">
 
 <!ENTITY tracking_protection_prompt_title "Tani me Mbrojtje Nga Gjurmimet">
@@ -871,3 +872,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Shtoje te Skena Hyrëse">
 <!ENTITY pwa_continue_to_website "Vazhdo te Sajti">
+<!ENTITY pwa_onboarding_sumo "Këtë sajt mund ta shtoni lehtë te skena juaj Kreu, që ta hapni në çast dhe të shfletoni më shpejt, si të ish aplikacion.">

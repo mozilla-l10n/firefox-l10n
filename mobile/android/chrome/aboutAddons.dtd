@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Shtesa">
 <!ENTITY aboutAddons.header2                    "Shtesat Tuaja">
-<!ENTITY aboutAddons.options                    "Mundësi">
 
 <!ENTITY addonAction.enable                     "Aktivizoje">
 <!ENTITY addonAction.disable                    "Çaktivizoje">
 <!ENTITY addonAction.uninstall                  "Çinstaloje">
 <!ENTITY addonAction.undo                       "Anuloje">
+<!ENTITY addonAction.update                     "Përditësoje">
 
 <!ENTITY addonUnsigned.message                  "Kjo shtesë s&apos;u verifikua dot nga &brandShortName;-u.">
 <!ENTITY addonUnsigned.learnMore                "Mësoni më tepër">
