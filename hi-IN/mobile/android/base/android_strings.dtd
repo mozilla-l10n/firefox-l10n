@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "पृष्ठ हटाया">
 
+<!ENTITY folder_removed "फ़ोल्डर हटाया गया">
+
 <!ENTITY bookmark_edit_title "पुस्तचिह्न संपादित करें">
 <!ENTITY bookmark_edit_folder_title "फ़ोल्डर सम्पादन">
 <!ENTITY bookmark_edit_name "नाम">
