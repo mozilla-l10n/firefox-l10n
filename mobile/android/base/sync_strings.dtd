@@ -51,25 +51,27 @@
 <!ENTITY fxaccount_getting_started_get_started 'Fillojani'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Po përdorni një version të vjetër të &syncBrand.shortName.label;-ut'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Futur si'>
-<!ENTITY fxaccount_status_manage_account 'Administroni llogari'>
 <!ENTITY fxaccount_status_auth_server 'Shërbyes llogarie'>
 <!ENTITY fxaccount_status_sync_now 'Njëkohësoje tani'>
 <!ENTITY fxaccount_status_syncing2 'Po njëkohësohet…'>
 <!ENTITY fxaccount_status_device_name 'Emër pajisjeje'>
 <!ENTITY fxaccount_status_sync_server 'Shërbyes Sync'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: i aktivizuar'>
 <!ENTITY fxaccount_status_needs_verification2 'Llogaria juaj duhet verifikuar. Prekeni që të ridërgohet email-i i verifikimit.'>
 <!ENTITY fxaccount_status_needs_credentials 'Nuk lidhet dot. Prekeni që të hyni.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Lypset të përmirësoni &brandShortName;-un që të hyni.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Përdorim të Dhënash.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Llogari.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Prekeni që të bëni hyrjen te Llogaria juaj e re Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Zgjidhni çfarë të njëkohësohet'>
 <!ENTITY fxaccount_status_bookmarks 'Faqerojtës'>
 <!ENTITY fxaccount_status_history 'Historik'>
 <!ENTITY fxaccount_status_passwords2 'Kredenciale hyrjesh'>
 <!ENTITY fxaccount_status_tabs 'Skeda të hapura'>
+<!ENTITY fxaccount_status_additional_settings 'Rregullime Shtesë'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Njëkohëso vetëm përmes Wi-Fi'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Parandloje &brandShortName;-i të njëkohësojë përmes një rrjeti celular apo me pagesë'>
 <!ENTITY fxaccount_status_legal 'Ligjore' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +79,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Kushte shërbimi'>
 <!ENTITY fxaccount_status_linkprivacy2 'Shënim mbi privatësinë'>
-<!ENTITY fxaccount_status_more 'Më tepër&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Shkëputeni&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Të shkëputet prej Sync-u?'>
@@ -102,21 +103,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Mundësi &syncBrand.shortName.label;-u'>
 <!ENTITY fxaccount_options_configure_title 'Formësoni &syncBrand.shortName.label;-un'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Lypset të përmirësoni Firefox-in'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Llogaria ekziston tashmë. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Email ose fjalëkalim i pavlefshëm'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Email ose fjalëkalim i pavlefshëm'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Llogaria nuk është verifikuar'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Shërbyes i zënë, riprovoni së shpejti'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Shërbyes i zënë, riprovoni së shpejti'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Pati një problem'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Llogaria është e kyçur. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label;-u nuk është i lidhur'>
 <!-- Localization note: the format string below will be replaced
