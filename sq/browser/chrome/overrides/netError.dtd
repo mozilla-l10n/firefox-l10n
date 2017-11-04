@@ -18,15 +18,15 @@
 <!ENTITY deniedPortAccess.title "Kjo adresë është e ndaluar">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Nuk u gjet shërbyes">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "S’u Gjet Shërbyes">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Po kemi probleme me gjetjen e atij sajti.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Nëse adresa është e saktë, ja tre gjëra të tjera që mund të provoni:</strong>
 <ul>
-  <li>Kontrolloni adresën për gabime shkrimi si p.sh.
-    <strong>ww</strong>.example.com në vend të
-    <strong>www</strong>.example.com</li>
-  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet të kompjuterit tuaj.</li>
-  <li>Nëse kompjuteri ose rrjeti juaj mbrohet nga një &quot;firewall&quot; ose ndërmjetës, sigurohuni
-    që &brandShortName;-it i lejohet hyrja në Web.</li>
+  <li>Riprovoni më vonë.</li>
+  <li>Kontrolloni lidhjen tuaj në rrjet.</li>
+  <li>Nëse jeni të lidhur, por pas një firewall-i, kontrolloni nëse &brandShortName;-i ka leje të hyjë në Web.</li>
 </ul>
 ">
 
@@ -57,15 +57,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Hap Faqe Hyrjeje në Rrjet">
 
-<!ENTITY malformedURI.title "Adresa nuk është e vlefshme">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Adresat Web zakonisht shkruhen si
-    <strong>http://www.example.com/</strong></li>
-  <li>Sigurohuni që po përdorni pjerrake djathtas (d.m.th.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "URL e pavlefshme">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. AJo adresë s’duket në rregull.">
 
 <!ENTITY netInterrupt.title "Lidhja u ndërpre">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

@@ -141,10 +141,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zgjidhje të përkohshme">
 
 <!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Pajisje Dalje">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Pajisje Hyrje">
 <!ENTITY aboutSupport.mediaDeviceName "Emër">
 <!ENTITY aboutSupport.mediaDeviceGroup "Grup">
 <!ENTITY aboutSupport.mediaDeviceVendor "Tregtues">
 <!ENTITY aboutSupport.mediaDeviceState "Gjendje">
+<!ENTITY aboutSupport.mediaDevicePreferred "E parapëlqyer">
 <!ENTITY aboutSupport.mediaDeviceFormat "Format">
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanale">
 <!ENTITY aboutSupport.mediaDeviceLatency "Vonesë">
