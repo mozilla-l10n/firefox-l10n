@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "გვერდი ამოიშალა">
 
+<!ENTITY folder_removed "საქაღალდე წაიშალა">
+
 <!ENTITY bookmark_edit_title "სანიშნის ჩასწორება">
 <!ENTITY bookmark_edit_folder_title "საქაღალდის ჩასწორება">
 <!ENTITY bookmark_edit_name "სახელი">
