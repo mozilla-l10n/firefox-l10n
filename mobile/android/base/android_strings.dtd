@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Stránka odstránená">
 
+<!ENTITY folder_removed "Priečinok bol odstránený">
+
 <!ENTITY bookmark_edit_title "Úprava záložky">
 <!ENTITY bookmark_edit_folder_title "Upraviť priečinok">
 <!ENTITY bookmark_edit_name "Názov">
