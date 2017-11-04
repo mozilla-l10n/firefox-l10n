@@ -57,4 +57,4 @@ sentence. -->
 <!ENTITY messageStyleShowHeader.label      "Kuva päist">
 <!ENTITY messageStyleShowHeader.accesskey  "K">
 <!ENTITY messageStyleNoPreview.title       "Eelvaade pole saadaval">
-<!ENTITY messageStyleNoPreview.description "See teema pole korrektne või on pole praegu saadaval (keelatud lisa, ohutu režiim, …).">
+<!ENTITY messageStyleNoPreview.description "See teema pole korrektne või pole praegu saadaval (keelatud lisa, ohutu režiim, …).">
