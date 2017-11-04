@@ -434,6 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ndihmëz:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Merrni ndihmë në gjetje gjërash! Shihni për &#x1F50E; në krah të këshillimeve të kërkimit.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Ndryshoni Mundësitë…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "N">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Ndryshoni Parapëlqimet…">
@@ -949,6 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "J">
 <!ENTITY updateManual.panelUI.label "Shkarkoni një kopje të freskët të &brandShorterName;-it">
 
+<!ENTITY updateRestart.message2 "Pas një rinisjeje të shpejtë, &brandShorterName;-i do të rikthejë krejt skedat dhe dritaret tuaja të hapura që nuk gjenden nën mënyrën Shfletim Privat.">
 <!ENTITY updateRestart.header.message2 "Që të përditësohet &brandShorterName;-i, riniseni.">
 <!ENTITY updateRestart.acceptButton.label "Rinise dhe Riktheji">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -960,8 +962,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Shtoje te Shtyllë Adresash">
 <!ENTITY pageAction.removeFromUrlbar.label "Hiqe prej Shtylle Adresash">
 
+<!ENTITY pageAction.sendTabToDevice.label "Dërgojeni Skedën në Pajisje">
 <!ENTITY sendToDevice.syncNotReady.label "Po njëkohësohen Pajisje…">
 
+<!ENTITY libraryButton.tooltip "Shihni historikun, faqerojtësit e ruajtur, etj">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
