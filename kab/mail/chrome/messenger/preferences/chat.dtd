@@ -48,6 +48,7 @@ sentence. -->
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleDarkTheme.label       "Aberkan">
+<!ENTITY messageStylePaperSheetsTheme.label "Tawriqt">
 <!ENTITY messageStyleSimpleTheme.label     "Aḥerfi">
 <!ENTITY messageStyleDefaultTheme.label    "Amezwer">
 <!ENTITY messageStyleVariant.accesskey     "V">
