@@ -26,6 +26,8 @@
 <!ENTITY pref.calendar.todaypane.agenda.caption "Panel Para hoy">
 <!ENTITY pref.soondays.label "La sección Próximamente muestra:">
 <!ENTITY pref.soondays.accesskey "L">
+<!ENTITY pref.soondays2.label "La sección Próximamente muestra:">
+<!ENTITY pref.soondays2.accesskey "P">
 <!ENTITY pref.accessibility.label "Accesibilidad">
 <!ENTITY pref.systemcolors.label "Optimizar colores para accesibilidad">
 <!ENTITY pref.systemcolors.accesskey "O">

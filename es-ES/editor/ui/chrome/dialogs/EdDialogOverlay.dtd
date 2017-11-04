@@ -14,3 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Alterna entre URL absoluta y relativa. Debe guardar previamente la página para cambiar esta propiedad.">
 <!ENTITY LinkURLEditField.label "Introduzca una dirección de página web, un archivo local, o seleccione un enlace con nombre o encabezado de la lista desplegable:">
 <!ENTITY LinkURLEditField.accessKey "I">
+<!ENTITY LinkURLEditField2.label "Introduzca una dirección de página web, un archivo local, o seleccione un enlace con nombre o encabezado del menú contextual del campo:">
+<!ENTITY LinkURLEditField2.accessKey "n">
