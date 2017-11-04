@@ -2,10 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  startupAction.label           "&brandShortName;i käivitumisel:">
-<!ENTITY  startupAction.accesskey       "k">
-<!ENTITY  startupOffline.label          "jäetakse kiirsuhtluse kontod ühendamata">
-<!ENTITY  startupConnectAuto.label      "ühendatakse kiirsuhtluse kontod automaatselt">
+<!ENTITY  generalTab.label            "Üldine">
+
+<!ENTITY  startupAction.label         "&brandShortName;i käivitumisel:">
+<!ENTITY  startupAction.accesskey     "k">
+<!ENTITY  startupOffline.label        "jäetakse kiirsuhtluse kontod ühendamata">
+<!ENTITY  startupConnectAuto.label    "ühendatakse kiirsuhtluse kontod automaatselt">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Lehitse…">
 <!ENTITY  browse.accesskey                    "L">
 
+<!ENTITY messageStyleTab.title             "Sõnumite stiilid">
+<!ENTITY messageStylePreview.label         "Eelvaade:">
+<!ENTITY messageStyleTheme.label           "Teema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Mullid">
+<!ENTITY messageStyleDarkTheme.label       "Tume">
+<!ENTITY messageStylePaperSheetsTheme.label "Paberilehed">
+<!ENTITY messageStyleSimpleTheme.label     "Lihtne">
+<!ENTITY messageStyleDefaultTheme.label    "Vaikimisi">
+<!ENTITY messageStyleVariant.label         "Variant:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Kuva päist">
+<!ENTITY messageStyleShowHeader.accesskey  "K">
+<!ENTITY messageStyleNoPreview.title       "Eelvaade pole saadaval">
+<!ENTITY messageStyleNoPreview.description "See teema pole korrektne või on pole praegu saadaval (keelatud lisa, ohutu režiim, …).">
