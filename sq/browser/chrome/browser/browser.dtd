@@ -23,6 +23,8 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Ringarko Krejt Skedat">
 <!ENTITY  reloadAllTabs.accesskey            "K">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -46,6 +48,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "P">
 <!ENTITY  sendLinkToDevice.label             "Dërgoje Lidhjen te Pajisja">
 <!ENTITY  sendLinkToDevice.accesskey         "P">
+<!ENTITY  sendToDeviceFeedback.label         "U dërgua!">
 <!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
 <!ENTITY  moveToNewWindow.accesskey          "D">
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
@@ -95,6 +98,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Burim Faqeje">
 <!ENTITY pageSourceCmd.accesskey "B">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "Të dhëna Faqeje">
 <!ENTITY pageInfoCmd.accesskey "T">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -217,6 +226,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ia keni bllokuar këtij sajti njoftimet.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "E keni bllokuar depozitimin e qëndrueshëm për këtë sajt.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "I keni bllokuar flluskat për këtë sajt.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaq historikun">
 
 <!ENTITY searchItem.title             "Kërkoni">
@@ -227,6 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Faqerojtës">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Faqerojtës">
+<!ENTITY bookmarksMenuButton2.label         "Menu Faqerojtësish">
 <!ENTITY bookmarksMenuButton.other.label    "Faqerojtës të Tjerë">
 <!ENTITY bookmarksMenuButton.mobile.label   "Faqerojtës Celulari">
 <!ENTITY viewBookmarksSidebar2.label        "Shihni Anështyllë Faqerojtësish">
@@ -254,6 +267,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Shkarkime">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Shkarkime">
 <!ENTITY downloads.accesskey          "S">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -369,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administroni Pajisje…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Shihni Anështyllën e Skedave të Njëkohësuara">
 
+
 <!ENTITY customizeMenu.addToToolbar.label "Shtoje te Paneli">
 <!ENTITY customizeMenu.addToToolbar.accesskey "P">
 <!ENTITY customizeMenu.addToPanel.label "Shtoje te Menuja">
@@ -454,6 +471,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Kërkoni">
+<!ENTITY searchIcon.tooltip           "Kërkoni">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -537,7 +556,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "F">
 <!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kornizë">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "K">
-<!ENTITY copyURLCmd.label             "Kopjojo URL-në">
+<!ENTITY pageAction.copyLink.label    "Kopjoje Lidhjen">
+<!ENTITY copyURLFeedback.label        "U kopjua!">
 <!ENTITY emailPageCmd.label           "Dërgoni Lidhje me Email…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Ruajeni Faqen Si…">
@@ -561,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Dërgoni Video me Email…">
 <!ENTITY emailVideoCmd.accesskey      "v">
-<!ENTITY castVideoCmd.label           "Dërgoje Videon Te Pajisja">
-<!ENTITY castVideoCmd.accesskey       "s">
 <!ENTITY emailAudioCmd.label          "Dërgoni Audio me Email…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktivizoje këtë shtojcë">
@@ -842,6 +860,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Vetëfshihe">
+
 <!ENTITY getUserMedia.selectCamera.label "Kamerë për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon për ndarje me të tjerët:">
@@ -865,16 +885,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "Ç">
 <!ENTITY trackingProtection.block2.label "Aktivizo mbrojtjen">
 <!ENTITY trackingProtection.block2.accesskey "A">
-
-<!ENTITY trackingContentBlocked.message "Gjurmim">
-<!ENTITY trackingContentBlocked.moreinfo "U bllokuan pjesë të faqes që gjurmojnë veprimtarinë tuaj në rrjet.">
-<!ENTITY trackingContentBlocked.learnMore "Mësoni Më Tepër">
-<!ENTITY trackingContentBlocked.options "Mundësi">
-<!ENTITY trackingContentBlocked.unblock2.label "Çaktivizoje mbrojtjen për këtë sajt">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "Ç">
-<!ENTITY trackingContentBlocked.block.label "Aktivizoje mbrojtjen">
-<!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "Mbrojtja nga gjurmimet është e çaktivizuar">
 
 <!ENTITY pluginNotification.showAll.label "Shfaqi Krejt">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -939,7 +949,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "J">
 <!ENTITY updateManual.panelUI.label "Shkarkoni një kopje të freskët të &brandShorterName;-it">
 
-<!ENTITY updateRestart.message "Pas një rinisje të shpejtë, &brandShorterName;-i do të rikthejë krejt skedat dhe dritaret tuaja të hapura.">
 <!ENTITY updateRestart.header.message2 "Që të përditësohet &brandShorterName;-i, riniseni.">
 <!ENTITY updateRestart.acceptButton.label "Rinise dhe Riktheji">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -951,6 +960,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Shtoje te Shtyllë Adresash">
 <!ENTITY pageAction.removeFromUrlbar.label "Hiqe prej Shtylle Adresash">
 
-<!ENTITY sendToDevice.label3 "Dërgoje Faqen te Pajisja">
 <!ENTITY sendToDevice.syncNotReady.label "Po njëkohësohen Pajisje…">
 
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->

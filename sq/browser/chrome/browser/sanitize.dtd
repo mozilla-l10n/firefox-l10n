@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "Kur dal prej &brandShortName;-it, do të duhej të pastronte vetvetiu tërë:">
 
+<!ENTITY clearDataSettings3.label     "Kur e mbyll &brandShortName;-in, duhet të pastrojë vetvetiu krejt">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->

@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Riktheje te Parazgjedhja">
 <!ENTITY restoreDefault.accesskey  "P">
 
+<!ENTITY disableExtension.label    "Çaktivizoje Zgjerimin">
+
 <!ENTITY downloads.label     "Shkarkime">
 
 <!ENTITY saveTo.label "Ruaji kartelat te">
