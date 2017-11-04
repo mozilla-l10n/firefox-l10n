@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Hello momtaama">
 
+<!ENTITY folder_removed "Rungere momtaama">
+
 <!ENTITY bookmark_edit_title "Taƴto Maantorol">
 <!ENTITY bookmark_edit_folder_title "Taƴto runngere">
 <!ENTITY bookmark_edit_name "Innde">
