@@ -394,6 +394,8 @@
 <!ENTITY pref_dialog_default "Parazgjedhje">
 <!ENTITY pref_dialog_remove "Hiqe">
 <!ENTITY pref_dialog_activitystream_header_content "Lëndë shtesë">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Faqerojtës Së Fundi">
+<!ENTITY pref_dialog_activitystream_visited "Vizituar">
 
 <!ENTITY pref_search_last_toast "Nuk mund të hiqni ose të çaktivizoni edhe motorin tuaj të fundit të kërkimeve.">
 
@@ -484,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Hape në Skedë Private">
 <!ENTITY contextmenu_remove "Hiqe">
 <!ENTITY contextmenu_add_to_launcher "Shtoje te Skena Hyrëse">
+<!ENTITY contextmenu_add_page_shortcut "Shtoni Shkurtore Faqeje">
 <!ENTITY contextmenu_set_as_homepage "Vëre si Kreun">
 <!ENTITY contextmenu_share "Ndajeni me të tjerët">
 <!ENTITY contextmenu_pasteandgo "Ngjite &amp; Shko Atje">
@@ -498,10 +501,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Fiksoje te Sajtet Kryesues">
+<!ENTITY contextmenu_unpin_from_top_sites "Hiqe Si të Fksuar Nga Sajtet Kryesues">
 <!ENTITY contextmenu_add_search_engine "Shtoni një Motor Kërkimesh">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Faqja u fiksua te Sajtet Kryesues">
+<!ENTITY unpinned_page_from_top_sites "Faqja u hoq si e fiksuar nga Sajtet Kryesues">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -534,8 +541,10 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Faqja u hoq">
 
+<!ENTITY folder_removed "Dosja u hoq">
 
 <!ENTITY bookmark_edit_title "Përpunoni Faqerojtësin">
+<!ENTITY bookmark_edit_folder_title "Përpunoni Dosjen">
 <!ENTITY bookmark_edit_name "Emër">
 <!ENTITY bookmark_edit_location "Vend">
 <!ENTITY bookmark_edit_keyword "Fjalëkyç">
@@ -615,6 +624,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Sajti u fiksua">
+<!ENTITY home_unpinned_site "Sajti u hoq nga i fiksuar">
 
 <!ENTITY remote_tabs_panel_moved_title "Ku shkuan skedat e mia?">
 <!ENTITY remote_tabs_panel_moved_desc "Skedat tuaja prej pajisjesh të tjera i kemi kaluar te një panel në faqen tuaj hyrëse, nga ku mund të përdoren kollaj sa herë hapni një skedë të re.">
@@ -810,6 +821,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Shtojeni te skena e kreut">
 
+<!ENTITY promotion_add_page_shortcut "Shtoni shkurtore faqeje">
 
 <!ENTITY helper_first_offline_bookmark_title "Lexojeni pa internet">
 <!ENTITY helper_first_offline_bookmark_message "Gjeni te Faqerojtësit objekte Reader View , edhe pa internet.">
@@ -821,9 +833,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Sajte Kryesues">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Këshilluar nga &brandPocket;">
 <!ENTITY activity_stream_highlights "Highlights">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "MË TEPËR">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -832,17 +846,28 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Vizituar">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Në modë">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Filloni shfletimin, dhe do t&apos;ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqerojtur këtu kohët e fundit.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Hiqe">
 <!ENTITY activity_stream_delete_history "Fshije prej Historiku">
 
+<!ENTITY private_tab_panel_title "Shfletim Privat + Mbrojtje Nga Gjurmimet">
+<!ENTITY private_tab_panel_description "&brandShortName;-i bllokon pjesë faqesh që mund të gjurmojnë veprimtarinë tuaj të shfletimit.">
+<!ENTITY private_tab_panel_description2 "S&apos;do të mbajmë mend asgjë nga historiku i shfletimeve, por kartelat e shkarkuara dhe faqerojtësit e rinj do të ruhen te pajisja juaj.">
+<!ENTITY private_tab_learn_more "Doni të mësoni më tepër rreth kësaj?">
 
+<!ENTITY fullscreen_warning "U kalua nën Sa Krejt Ekrani">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Shtoje te Skena Hyrëse">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Shtoje te Skena Hyrëse">
+<!ENTITY pwa_continue_to_website "Vazhdo te Sajti">
