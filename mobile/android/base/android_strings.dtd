@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "صفحه حذف شده">
 
+<!ENTITY folder_removed "پوشه حذف شد">
+
 <!ENTITY bookmark_edit_title "ویرایش نشانک">
 <!ENTITY bookmark_edit_folder_title "ویرایش پوشه">
 <!ENTITY bookmark_edit_name "نام">
