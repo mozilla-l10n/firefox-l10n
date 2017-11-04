@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY generalTab.label "General">
 <!ENTITY startupAction.label "Al iniciar &brandShortName;:">
 <!ENTITY startupAction.accesskey "A">
 <!ENTITY startupOffline.label "Mantener mis cuentas de chat no conectadas">
@@ -29,3 +30,19 @@
 <!ENTITY customsound.accesskey "U">
 <!ENTITY browse.label "Examinar…">
 <!ENTITY browse.accesskey "x">
+<!ENTITY messageStyleTab.title "Estilos de mensajes">
+<!ENTITY messageStylePreview.label "Vista preliminar:">
+<!ENTITY messageStyleTheme.label "Tema:">
+<!ENTITY messageStyleTheme.accesskey "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label "Burbujas">
+<!ENTITY messageStyleDarkTheme.label "Oscuro">
+<!ENTITY messageStylePaperSheetsTheme.label "Hojas de papel">
+<!ENTITY messageStyleSimpleTheme.label "Simple">
+<!ENTITY messageStyleDefaultTheme.label "Predeterminado">
+<!ENTITY messageStyleVariant.label "Vaiante:">
+<!ENTITY messageStyleVariant.accesskey "V">
+<!ENTITY messageStyleShowHeader.label "Mostrar encabezado">
+<!ENTITY messageStyleShowHeader.accesskey "z">
+<!ENTITY messageStyleNoPreview.title "No está disponible la vista preliminar">
+<!ENTITY messageStyleNoPreview.description "Este tema no es válido o no está actualmente disponible (complemento desactivado, modo seguro…).">
