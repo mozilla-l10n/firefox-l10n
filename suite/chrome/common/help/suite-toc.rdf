@@ -903,7 +903,6 @@
         <rdf:li><rdf:Description ID="password_mgr" nc:name="Administrador de contraseñas" nc:link="passwords_help.xhtml#password_manager"/> </rdf:li>
         <rdf:li><rdf:Description ID="passwords_master" nc:name="Preferencias de privacidad y seguridad -  Contraseñas maestras" nc:link="passwords_help.xhtml#master_passwords"/> </rdf:li>
         <rdf:li><rdf:Description ID="master-prefs-change" nc:name="Cambiar la contraseña maestra" nc:link="passwords_help.xhtml#change_master_password"/> </rdf:li>
-        <rdf:li><rdf:Description ID="master-prefs-timeout" nc:name="Caducidad de la contraseña  maestra" nc:link="passwords_help.xhtml#master_password_timeout"/> </rdf:li>
         <rdf:li><rdf:Description ID="master-prefs-reset" nc:name="Restablecer la contraseña maestra" nc:link="passwords_help.xhtml#reset_master_password"/> </rdf:li>
         <rdf:li><rdf:Description ID="choosing-good-password" nc:name="Elegir una buena contraseña" nc:link="passwords_help.xhtml#choosing_a_good_password"/> </rdf:li>
       </rdf:Seq>
