@@ -37,6 +37,14 @@
 <!ENTITY pref.soondays.label "Ndarja për së afërmi shfaq:">
 <!ENTITY pref.soondays.accesskey "a">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "Ndarja Së Afërmi shfaq:">
+<!ENTITY pref.soondays2.accesskey "A">
+
 <!ENTITY pref.accessibility.label "Përdorshmëri" >
 <!ENTITY pref.systemcolors.label "Optimizo ngjyrat për përdorshmëri" >
 <!ENTITY pref.systemcolors.accesskey "O">
