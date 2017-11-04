@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Shtuar më">
 <!ENTITY col.lastmodified.label  "Ndryshuar Së Fundi">
 
-<!ENTITY search.placeholder  "Kërkoni">
+<!ENTITY historySearch.placeholder  "Kërkoni te historiku">
+<!ENTITY bookmarksSearch.placeholder  "Kërkoni te faqerojtësit">
 
 <!ENTITY cmd.find.key  "f">
 

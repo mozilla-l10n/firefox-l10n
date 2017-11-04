@@ -82,12 +82,6 @@
 <!ENTITY options.enableRemote.label3    "Aktivizoni diagnostikim të largët">
 <!ENTITY options.enableRemote.tooltip2  "Aktivizimi i kësaj mundësie do t&apos;u lejojë mjeteve të zhvilluesit të diagnostikojnë një instancë të largët, fjala vjen Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Aktivizoni diagnostikim worker-ësh (në zhvillim e sipër)">
-<!ENTITY options.enableWorkers.tooltip  "Aktivizimi i kësaj mundësie do t&apos;u lejojë mjeteve të zhvilluesit të diagnostikojnë worker-ë">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -151,19 +145,14 @@
 <!ENTITY options.debugger.label            "Diagnostikues">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Aktivizo Harta Burimesh">
-<!ENTITY options.sourceMaps.tooltip    "Nëse e aktivizoni këtë mundësi, burimet do të shfaqen në hartë te Diagnostikuesi dhe Konsola.">
+<!ENTITY options.sourceMaps.tooltip1   "Nëse e aktivizoni këtë mundësi, burimet do të pasqyrohen te mjetet.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Përpunues Stilesh">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Shfaq burime origjnale">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Shfaq te Përpunuesi dhe Mbikëqyrësi i Stileve burime origjinale (p.sh. kartela Sass)">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -184,18 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Prodho tingull shkrepje të kamerës">
 <!ENTITY options.screenshot.audio.tooltip    "Aktivizon tingullin e kamerës kur bëhen foto ekrani">
-
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Parapëlqime të Përbashkëta">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Aktivizoni regjistra të pandërprerë">
-<!ENTITY options.enablePersistentLogs.tooltip  "Nëse e aktivizoni këtë mundësi, Konsola Web dhe Mbikëqyrësi i Rrjetit nuk do të pastrojnë lëndën, kur hidheni në një faqe të re">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
