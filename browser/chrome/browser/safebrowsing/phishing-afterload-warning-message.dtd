@@ -27,12 +27,17 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> është <a id='error_desc_link'>raportuar se përmban software dashakeq</a>. Mund <a id='report_detection'>të raportoni një problem zbulimi</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Mësoni më tepër rreth lënde web të dëmshme, përfshi viruse dhe tjetër malware, dhe se si ta mbroni kompjuterin tuaj, te <a id='learn_more_link'>StopBadware.org</a>. Mësoni më tepër rreth Mbrojtjes nga Karremëzime dhe Malware nën &brandShortName;, te <a id='firefox_support'>support.mozilla.org</a>.">
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "Sajti ku po shkoni mund të përmbajë programe të dëmshëm">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName;-i e bllokoi këtë faqe ngaqë mund të provojë t’ju mashtrojë dhe të instaloni programe që dëmtojnë shfletimin tuaj (për shembull, duke ndryshuar faqen tuaj hyrëse ose duke shfaqur reklama shtesë në sajte që vizitoni).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> është <a id='error_desc_link'>raportuar se përmban software të dëmshëm</a>. Mund <a id='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt i pasigurt.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> është <a id='error_desc_link'>raportuar se përmban software të dëmshëm</a>. ">
 
 
 
@@ -42,6 +47,7 @@
 
 
 
+<!ENTITY safeb.blocked.harmfulPage.title "Sajti ku po shkoni mund të përmbajë malware">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 

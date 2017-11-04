@@ -6,25 +6,25 @@
 <!ENTITY  window.width                    "41em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Anashkaloji ngjyrat e përcaktuara nga faqja me përzgjedhjet e mia më sipër:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "A">
+<!ENTITY  overrideDefaultPageColors2.label       "Anashkaloni përmes përzgjedhjeve tuaja më sipër ngjyrat e caktuara nga faqja">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "A">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Përherë">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Vetëm për tema Me Shumë Kontrast">
 <!ENTITY  overrideDefaultPageColors.never.label  "Kurrë">
 
 <!ENTITY  color                           "Tekst dhe Sfond">
-<!ENTITY  textColor.label                 "Tekst:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Sfond:">
-<!ENTITY  backgroundColor.accesskey       "S">
+<!ENTITY  textColor2.label                "Tekst">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Sfond">
+<!ENTITY  backgroundColor2.accesskey      "S">
 <!ENTITY  useSystemColors.label           "Përdor ngjyra sistemi">
 <!ENTITY  useSystemColors.accesskey       "i">
 
 <!ENTITY  underlineLinks.label            "Nënvizoji lidhjet">
 <!ENTITY  underlineLinks.accesskey        "o">
 <!ENTITY  links                           "Ngjyra Lidhjesh">
-<!ENTITY  linkColor.label                 "Lidhje të Pavizituara:">
-<!ENTITY  linkColor.accesskey             "P">
-<!ENTITY  visitedLinkColor.label          "Lidhje të Vizituara:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  linkColor2.label                "Lidhje të Pavizituara">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Lidhje të Vizituara">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
