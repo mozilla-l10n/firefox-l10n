@@ -141,6 +141,7 @@
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip "Abrir panel de mensajes">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip "Abrir panel de peticiones de ubicación">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip "Abrir el panel de mensajes de instalación de complementos">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip "Administrar permisos de extracción de canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Abrir panel de mensajes de almacenamiento sin conexión">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Abrir el panel de mensajes de contraseñas">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Administrar uso de plugins">
@@ -161,6 +162,7 @@
 <!ENTITY urlbar.indexedDBBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Ha bloqueado las notificaciones para este sitio web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
+<!ENTITY urlbar.popupBlocked.tooltip "Ha bloqueado las ventanas emergentes en este sitio web.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Mostrar historial">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
