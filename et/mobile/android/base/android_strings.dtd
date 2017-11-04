@@ -391,6 +391,7 @@
 <!ENTITY pref_dialog_set_default "Määra vaikeväärtuseks">
 <!ENTITY pref_dialog_default "vaikeväärtus">
 <!ENTITY pref_dialog_remove "Eemalda">
+<!ENTITY pref_dialog_activitystream_header_content "Täiendav sisu">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Hiljutised järjehoidjad">
 <!ENTITY pref_dialog_activitystream_visited "Külastatud">
 
@@ -483,6 +484,7 @@
 <!ENTITY contextmenu_open_private_tab "Ava privaatsel kaardil">
 <!ENTITY contextmenu_remove "Eemalda">
 <!ENTITY contextmenu_add_to_launcher "Lisa avaekraanile">
+<!ENTITY contextmenu_add_page_shortcut "Lisa otsetee lehele">
 <!ENTITY contextmenu_set_as_homepage "Määra avaleheks">
 <!ENTITY contextmenu_share "Jaga">
 <!ENTITY contextmenu_pasteandgo "Aseta ja mine">
@@ -536,6 +538,8 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Leht eemaldatud">
+
+<!ENTITY folder_removed "Kaust eemaldati">
 
 <!ENTITY bookmark_edit_title "Järjehoidja muutmine">
 <!ENTITY bookmark_edit_folder_title "Kausta muutmine">
@@ -818,6 +822,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Lisa avaekraanile">
 
+<!ENTITY promotion_add_page_shortcut "Lisa otsetee lehele">
 
 <!ENTITY helper_first_offline_bookmark_title "Võrguta režiimis lugemine">
 <!ENTITY helper_first_offline_bookmark_message "Leia oma lugemisnimekirja asjad järjehoidjatest, ka võrguta režiimis olles.">
