@@ -6,7 +6,7 @@
 
 <!ENTITY Settings.label "Ayarlar">
 
-<!ENTITY TextAreaName.label "Alan Adı:">
+<!ENTITY TextAreaName.label "Alan adı:">
 <!ENTITY TextAreaName.accessKey "n">
 <!ENTITY TextAreaRows.label "Satır:">
 <!ENTITY TextAreaRows.accessKey "r">
