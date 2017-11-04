@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "D">
 <!ENTITY cmd.showMac.label                "Shfaqe Te Gjetësi">
 <!ENTITY cmd.showMac.accesskey            "S">
+<!ENTITY cmd.showDownloads.label          "Shfaq Dosjen e Shkarkimeve">
 <!ENTITY cmd.retry.label                  "Riprovo">
 <!ENTITY cmd.goToDownloadPage.label       "Shko Te Faqja e Shkarkimit">
 <!ENTITY cmd.goToDownloadPage.accesskey   "F">
@@ -134,7 +135,17 @@
 <!ENTITY downloadsHistory.label           "Shfaqi Krejt Shkarkimet">
 <!ENTITY downloadsHistory.accesskey       "e">
 
-<!ENTITY openDownloadsFolder.label       "Hap Dosjen e Shkarkimeve">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Hollësi Shkarkimi">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Hap Dosjen e Shkarkimeve">
 
 <!ENTITY clearDownloadsButton.label       "Pastroji Shkarkimet">
 <!ENTITY clearDownloadsButton.tooltip     "Pastron shkarkime të plotësuara, të anuluara ose të dështuara">

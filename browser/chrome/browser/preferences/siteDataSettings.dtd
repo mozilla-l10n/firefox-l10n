@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Po Hiqen të Dhëna Sajti">
 <!ENTITY     removingSelected.description  "Heqja e të dhënave mbi sajtin do të sjellë edhe heqje cookie-sh dhe të dhënash për shfletim pa u lidhur në internet. Kjo mund të shkaktojë daljen nga sajte. Jeni i sigurt se doni të bëhen ndryshimet?">
-<!ENTITY     siteTree.label                "Cookie-t vijuese do të hiqen:">
+<!ENTITY     siteTree2.label               "Cookie-t vijuese të sajteve do të hiqen">

@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Hiqmë prej këtej!">
-<!ENTITY safeb.palm.decline.label "Shpërfille këtë sinjalizim">
+<!ENTITY safeb.palm.accept.label2 "Kthehuni mbrapsht">
+<!ENTITY safeb.palm.seedetails.label "Shihni hollësitë">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,20 +14,35 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "r">
-<!ENTITY safeb.palm.reportPage.label "Pse u bllokua kjo faqe?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Faqe e Raportuar për Sulme!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Kjo faqe web te <span id='malware_sitename'/> është raportuar si faqe sulmesh dhe është bllokuar bazuar në parapëlqimet tuaja të sigurisë.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Faqet e sulmeve përpiqen të instalojnë programe që përvetësojnë të dhëna private, përdorin kompjuterin tuaj për të sulmuar të tjerët, ose dëmtojnë sistemin tuaj.</p><p>Disa faqe sulmesh shpërndajnë me dashje &quot;software&quot; të dëmshëm, por shumë prej tyre janë të komprometuara pa dijeninë apo lejen e të zotit.</p>">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
-<!ENTITY safeb.blocked.unwantedPage.title "Faqe e Raportuar për Software të Padëshiruar!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Kjo faqe web te <span id='unwanted_sitename'/> është raportuar se përmban software të padëshiruar dhe është bllokuar bazuar mbi parapëlqimet tuaja për sigurinë.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Faqet e software-it të padëshiruar përpiqen të instalojnë software që mund të jetë i rrejshëm dhe të ndikojnë mbi sistemin tuaj në rrugë të paparashikuara.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Sajt i Rremë!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Kjo faqe web te <span id='phishing_sitename'/> është raportuar si sajt i rremë dhe u bllokua në bazë të parapëlqimeve tuaja për sigurinë.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Sajtet e rremë hartohen për t&apos;ju shtyrë të bëni gjëra të rrezikshme, fjala vjen, instalim software-i, ose zbulim të të dhënave tuaja personale të tilla si, fjalëkalime, numra telefonash ose kartash krediti.</p><p>Dhënia e çfarëdo të dhëne në këtë faqe mund të sjellë vjedhje identiteti ose të tjera rrengje.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Vizita në këtë sajt mund të dëmtojë kompjuterin tuaj">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; e bllokoi këtë faqe ngaqë mund të rreket të instalojë software dashakeq që mund të vjedhë ose fshijë të dhëna personale në kompjuterin tuaj.">
+
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> është <a id='error_desc_link'>raportuar se përmban software dashakeq</a>. Mund <a id='report_detection'>të raportoni një problem zbulimi</a> ose <a id='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt jo i sigurt.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> është <a id='error_desc_link'>raportuar se përmban software dashakeq</a>. Mund <a id='report_detection'>të raportoni një problem zbulimi</a>.">
+
+
+
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
 
