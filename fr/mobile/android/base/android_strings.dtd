@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Page retirée">
 
+<!ENTITY folder_removed "Dossier supprimé">
+
 <!ENTITY bookmark_edit_title "Modifier le marque-page">
 <!ENTITY bookmark_edit_folder_title "Modifier le dossier">
 <!ENTITY bookmark_edit_name "Nom">
