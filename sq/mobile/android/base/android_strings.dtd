@@ -10,6 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Shfletimi Privat me Mbrojtje Nga Gjurmimet bllokon gjurmues teksa shfletoni dhe nuk do të mbajë mend historikun tuaj kur të mbaroni së shfletuari.">
 <!ENTITY firstrun_panel_title_customize "Përshtateni">
 <!ENTITY firstrun_customize_message "Bëjeni &brandShortName;-in tuajin.">
+<!ENTITY firstrun_customize_subtext "Përshtateni &brandShortName;-in me shtesa. Bllokoni shtesa, shtojini veçori, ose zgjidhni një temë të re që pasqyron personalitetin tuaj.">
 <!ENTITY firstrun_bookmarks_title "Historik">
 <!ENTITY firstrun_bookmarks_message "Të parapëlqyerit tuaj, në ballë">
 <!ENTITY firstrun_bookmarks_subtext "Merrni përfundime kërkimi nga faqerojtësit dhe historiku juaj, kur kërkoni.">
@@ -17,6 +18,8 @@
 <!ENTITY firstrun_data_message "Më pak të dhëna, më shumë kursim">
 <!ENTITY firstrun_data_subtext2 "Bllokojini figurat, që të harxhoni më pak të dhëna, në çdo sajt që vizitoni.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Vazhdoni atje ku e latë.">
+<!ENTITY firstrun_sync_subtext2 "Përdoreni Sync-un që të gjeni faqerojtës, fjalëkalime dhe të tjera gjëra që ruani në &brandShortName; në krejt pajisjet tuaja.">
 <!ENTITY firstrun_signin_message "Lidhuni, fillojani">
 <!ENTITY firstrun_signin_button "Bëni hyrjen, që të Njëkohësohet">
 <!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
@@ -89,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; objekte">
 <!ENTITY bookmark_folder_one_item "1 objekt">
+<!ENTITY bookmark_folder_updated "Dosja u përditësua">
 <!ENTITY bookmark_parent_folder "Dosja Mëmë">
 <!ENTITY bookmark_add_folder "Shtoni dosje të re">
 
@@ -285,6 +289,8 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Skeda Vetjake">
+<!ENTITY pref_custom_tabs_summary4 "Lejojini aplikacionet të hapin lëndë web në një skedë të përshtatur që ngarkohet shpejt.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -293,6 +299,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL-ja u kopjua">
 
+<!ENTITY pref_pwa_summary "Lejojini aplikacionet web të shtohen te skena e kreut">
 
 <!ENTITY tracking_protection_prompt_title "Tani me Mbrojtje Nga Gjurmimet">
 <!ENTITY tracking_protection_prompt_text "Bllokoni aktivisht elemente gjurmimi, që të mos keni pse të shqetësoheni.">
@@ -356,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Lejo te shtylla e URL-ve skaner QR">
 
 <!ENTITY pref_use_master_password "Përdor fjalëkalim të përgjithshëm">
+<!ENTITY pref_sync_default_title "Llogari Firefox-i">
 <!ENTITY pref_sync2 "Hyni">
 <!ENTITY pref_sync_summary2 "Njëkohësoni skeda, faqerojtës, kredenciale hyrjesh dhe historikun tuaj">
 <!ENTITY pref_search_suggestions "Shfaq këshillime kërkimi">
@@ -385,6 +393,7 @@
 <!ENTITY pref_dialog_set_default "Caktoje si parazgjedhje">
 <!ENTITY pref_dialog_default "Parazgjedhje">
 <!ENTITY pref_dialog_remove "Hiqe">
+<!ENTITY pref_dialog_activitystream_header_content "Lëndë shtesë">
 
 <!ENTITY pref_search_last_toast "Nuk mund të hiqni ose të çaktivizoni edhe motorin tuaj të fundit të kërkimeve.">
 
