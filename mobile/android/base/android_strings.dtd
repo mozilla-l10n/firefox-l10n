@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Sayfa silindi">
 
+<!ENTITY folder_removed "Dizin silindi">
+
 <!ENTITY bookmark_edit_title "Yer imini düzenle">
 <!ENTITY bookmark_edit_folder_title "Klasörü düzenle">
 <!ENTITY bookmark_edit_name "İsim">
