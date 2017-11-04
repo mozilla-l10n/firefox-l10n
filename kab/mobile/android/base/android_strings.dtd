@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Asbter yettwakkes">
 
+<!ENTITY folder_removed "Akaram ittwakes">
+
 <!ENTITY bookmark_edit_title "Ẓreg tacreṭ n usebter">
 <!ENTITY bookmark_edit_folder_title "Ẓreg Akaram">
 <!ENTITY bookmark_edit_name "Isem">
