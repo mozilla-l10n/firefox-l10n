@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ຫນ້າເວັບໄຊທ໌ໄດ້ຖືກລົບອອກແລ້ວ">
 
+<!ENTITY folder_removed "ໂຟລເດີຖືກລຶບແລ້ວ">
+
 <!ENTITY bookmark_edit_title "ແກ້ໄຂບຸກມາກສ໌">
 <!ENTITY bookmark_edit_folder_title "ແກ້ໄຂໂຟນເດີ">
 <!ENTITY bookmark_edit_name "ຊື່">
