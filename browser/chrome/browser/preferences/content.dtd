@@ -2,22 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Flluska">
+<!ENTITY  permissions.label           "Leje">
 
 <!ENTITY  blockPopups.label           "Blloko dritare flluska">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Njoftime">
-<!ENTITY  notificationsPolicyLearnMore.label   "Mësoni më tepër">
-<!ENTITY  notificationsPolicyDesc3.label       "Zgjidhni cilëve sajte u lejohet t&apos;ju dërgojnë njoftime">
-<!ENTITY  notificationsPolicyButton.accesskey  "c">
-<!ENTITY  notificationsPolicyButton.label      "Zgjidhni…">
 <!ENTITY  notificationsDoNotDisturb.label      "Mos më shqetësoni">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "M">
 <!ENTITY  notificationsDoNotDisturbDetails.value "S&apos;do të shfaqen njoftime, pa rinisur &brandShortName;-in">
 
-<!ENTITY  popupExceptions.label       "Përjashtime…">
-<!ENTITY  popupExceptions.accesskey   "P">
+<!ENTITY  popupExceptions.label                                 "Përjashtime…">
+<!ENTITY  popupExceptions.accesskey                             "P">
+
+<!ENTITY  notificationPermissions.label                         "Njoftime">
+<!ENTITY  notificationSettingsButton.label                      "Rregullime…">
+<!ENTITY  notificationSettingsButton.accesskey                  "R">
+<!ENTITY  notificationPermissionsLearnMore.label                "Mësoni më tepër">
+
+<!ENTITY  locationPermissions.label                             "Vend">
+<!ENTITY  locationSettingsButton.label                          "Rregullime…">
+<!ENTITY  locationSettingsButton.accesskey                      "r">
+
+<!ENTITY  cameraPermissions.label                               "Kamerë">
+<!ENTITY  cameraSettingsButton.label                            "Rregullime…">
+<!ENTITY  cameraSettingsButton.accesskey                        "R">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.label                        "Rregullime…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "R">
 
 <!ENTITY  fontsAndColors.label        "Shkronja &amp; Ngjyra">
 
@@ -33,7 +45,7 @@
 <!ENTITY  colors.accesskey            "y">
 
 
-<!ENTITY languages.label              "Gjuhë">
+<!ENTITY language2.label              "Gjuhë">
 <!ENTITY chooseLanguage.label         "Zgjidhni gjuhën tuaj të parapëlqyer për shfaqje faqesh">
 <!ENTITY chooseButton.label           "Zgjidhni…">
 <!ENTITY chooseButton.accesskey       "z">
@@ -53,8 +65,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Përkthime nga">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Lëndë DRM">
+<!ENTITY  drmContent2.label              "Lëndën nën Digital Rights Management (DRM)">
 
-<!ENTITY  playDRMContent.label         "Luani lëndë DRM">
-<!ENTITY  playDRMContent.accesskey     "L">
+<!ENTITY  playDRMContent2.label          "Luaj lëndë të kontrolluar nga DRM">
+<!ENTITY  playDRMContent2.accesskey      "L">
 <!ENTITY  playDRMContent.learnMore.label "Mësoni më tepër">
