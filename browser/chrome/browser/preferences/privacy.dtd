@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Naudoti apsaugą nuo stebėjimo privačiuosiuose languose">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Naudokite apsaugą nuo stebėjimo privačiojo naršymo veiksenoje, norėdami užblokuoti žinomus stebėjimo elementus">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Sužinoti daugiau">
@@ -27,7 +28,7 @@
 
 <!ENTITY  doNotTrack.description        "Siųsti svetainėms „Do Not Track“ signalą, nurodant pageidavimą nebūti sekamiems">
 <!ENTITY  doNotTrack.learnMore.label    "Sužinoti daugiau">
-<!ENTITY  doNotTrack.default.label      "Tik naudojant apsaugą nuo sekimo">
+<!ENTITY  doNotTrack.default.label      "Tik naudojant apsaugą nuo stebėjimo">
 <!ENTITY  doNotTrack.always.label       "Visada">
 
 <!ENTITY  history.label                 "Žurnalas">
