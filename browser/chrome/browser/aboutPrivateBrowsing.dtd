@@ -23,7 +23,7 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "პირადი თვალიერების რეჟიმი ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "არ უზრუნველყოფს თქვენს ანონიმურობას">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ინტერნეტში. თქვენს დამსაქმებელს ან ინტერნეტ მომსახურების მომწოდებელს, მაინც შეუძლიათ გაიგონ, რომელ გვერდებს ეწვიეთ.">
-<!ENTITY aboutPrivateBrowsing.learnMore3.before          "გაიგეთ მეტი ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "ვრცლად, ">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "პირადი თვალიერების რეჟიმზე">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
