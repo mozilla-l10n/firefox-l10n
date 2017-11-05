@@ -2,14 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "ແທັບຄົ້ນຫາ">
+
+<!ENTITY searchBar.hidden.label                "ນໍາໃຊ້ແທັບທີ່ຢູ່ເພື່ອຄົ້ນຫາ ແລະ ນໍາທາງ">
+<!ENTITY searchBar.shown.label                 "ເພີ່ມແທັບຄົ້ນຫາໃນແທັບເຄື່ອງມື">
+
+<!ENTITY defaultSearchEngine.label             "ເຄື່ອງມືການຄົ້ນຫາເລີ່ມຕົ້ນ">
+
+<!ENTITY chooseYourDefaultSearchEngine2.label   "ເລືອກເຄື່ອງມືການຄົ້ນຫາເລີ່ມຕົ້ນເພື່ອໃຊ້ໃນແທັບທີ່ຢູ່ ແລະ ແທັບຄົ້ນຫາ">
+
+<!ENTITY provideSearchSuggestions.label        "ໃຫ້ຄໍາແນະນໍາໃນການຄົ້ນຫາ">
+<!ENTITY provideSearchSuggestions.accesskey    "S">
+
+<!ENTITY showURLBarSuggestions2.label           "ສະແດງຜົນໄດ້ຮັບໃນແທັບທີ່ຢູ່">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
+
+<!ENTITY oneClickSearchEngines.label           "One-Click ເຄື່ອງມືການຄົ້ນຫາ">
 
 
+<!ENTITY engineNameColumn.label                "ເຄື່ອງມືການຄົ້ນຫາ">
+<!ENTITY engineKeywordColumn.label             "ຄໍາທີ່ຕ້ອງການຄົ້ນຫາ">
 
-
-
-
-
+<!ENTITY restoreDefaultSearchEngines.label     "ກູ້ຄືນເຄື່ອງມືການຄົ້ນຫາເລີ່ມຕົ້ນ">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
 <!ENTITY removeEngine.label                    "ລຶບ">
 <!ENTITY removeEngine.accesskey                "ລ">
 
+<!ENTITY findMoreSearchEngines.label           "ໃຊ້ເຄື່ອງມືການຄົ້ນຫາເພີ່ມ">

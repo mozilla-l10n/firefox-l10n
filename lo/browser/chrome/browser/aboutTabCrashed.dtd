@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "ປິດແທັບນີ້">
+
 <!ENTITY tabCrashed.restoreTab "ເອີ້ນຄືນແທັບນີ້">
+<!ENTITY tabCrashed.restoreAll "ກູ້ຄືນແຖບທີ່ເກີດຂໍ້ຂັດຂ້ອງທັງໝົດ">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
@@ -12,5 +13,12 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.offerHelp "ພວກເຮົາສາມາດຊ່ວຍທ່ານໄດ້!">
+<!ENTITY tabCrashed.header2 "ອ໊ະ. ແຖບຂອງທ່ານໄດ້ຂັດຂ້ອງ.">
+<!ENTITY tabCrashed.requestHelp "ທ່ານຈະຊ່ວຍພວກເຮົາໄດ້ຫຼືບໍ່?">
+<!ENTITY tabCrashed.requestHelpMessage "ລາຍງານຂໍ້ຂັດຂ້ອງຊ່ວຍພວກເຮົາວິນິດໄສບັນຫາແລະສ້າງ &brandShortName; ໃຫ້ດີຂຶ້ນ.">
 <!ENTITY tabCrashed.requestReport "ລາຍງານແທັບນີ້">
+<!ENTITY tabCrashed.commentPlaceholder2 "ປະກອບຄຳເຫັນ (ຄຳເຫັນນີ້ແມ່ນທຸກໆຄົນສາມາດເຫັນໄດ້)">
+<!ENTITY tabCrashed.emailPlaceholder "ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານທີ່ນີ້">
+<!ENTITY tabCrashed.emailMe "ສົ່ງອີເມລຫາຂ້ອຍເມື່ອມີຂໍ້ມູນເພີ່ນທີ່ໃຊ້ງານໄດ້">
+<!ENTITY tabCrashed.reportSent "ສົ່ງລາຍງານຂໍ້ຂັດຂ້ອງແລ້ວ; ຂອບໃຈທີ່ຊ່ວຍເຮັດ &brandShortName; ໃຫ້ດີຂຶ້ນ">
+<!ENTITY tabCrashed.requestAutoSubmit2 "ລາຍງານແຖບເບື່ອງຫຼັງ">

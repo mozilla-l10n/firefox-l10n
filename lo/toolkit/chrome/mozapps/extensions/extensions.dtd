@@ -24,6 +24,7 @@
 <!ENTITY cmd.back.tooltip                     "ກັບກັບໄປໜ້າກ່ອນໜ້ານີ້">
 <!ENTITY cmd.forward.tooltip                  "ໄປໜ້າຖັດໄປ">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "ບໍ່ສາມາດຢືນຢັນບາງ extension ໄດ້">
 <!ENTITY showAllExtensions.button.label       "ສະແດງ extension ທັງຫມົດ">
 <!ENTITY debugAddons.label                    "ດີບັກ Add-on">
@@ -139,6 +140,8 @@
 <!ENTITY addon.update.postfix                 "ອັບເດດ">
 <!ENTITY addon.undoAction.label               "ເອົາກັບຄືນ">
 <!ENTITY addon.undoAction.tooltip             "ຍົກເລີກການກະທຳນີ້">
+<!ENTITY addon.undoRemove.label               "ເອົາກັບຄືນ">
+<!ENTITY addon.restartNow.label               "ເລີ່ມລະບົບໃໝ່ດຽວນີ້">
 <!ENTITY addon.install.label                  "ຕິດຕັ້ງ">
 <!ENTITY addon.install.tooltip                "ຕິດຕັ້ງ add-on ນີ້">
 <!ENTITY addon.updateNow.label                "ອັບເດດຕອນນີ້ເລີຍ">
@@ -173,3 +176,4 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.learnMore "ຮຽນຮູ້ເພີ່ມເຕີມ.">
+

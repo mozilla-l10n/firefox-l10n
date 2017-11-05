@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "ກ່ຽວກັບສິດທິຂອງທ່ານ">
 <!ENTITY rights.intro "&brandFullName; ເປັນຊັອບແວຟຣີ ແລະ ໂອເພັນຊອດ ທີ່ຖືກສ້າງຂື້ນມາໂດຍຄົນຈາກທົ່ວທຸກມູມໂລກ. ມັນມີສອງສາມຢ່າງທີ່ທ່ານຄວນຈະຮູ້ໄວ້:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -67,14 +65,19 @@
 <!ENTITY rights.safebrowsing-term4 "ໂຫມດການທ່ອງເວັບແບບປອດໄພໄດ້ຖືກປິດນຳໃຊ້">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "ສະຖານທີ່ຕັ້ງຜົນການຊອກຫາຄໍານຶງເຖິງ: ">
+<!ENTITY rights.locationawarebrowsing-b "ມັກຈະລືອກໃນ. ຂໍ້ມຼນທີ່ບໍ່ເຄີຍສົ່ງບໍ່ເຄີຍໄດ້ຮັບອະນຸຍາດຂອງທ່ານ. ຖ້າຫາກວ່າທ່ານຕ້ອງການທີ່ຈະປິດການໃຊ້ງານຄຸນນະສົມບັດທັງຫມົດ, ປະຕິບັດຕາມຂັ້ນຕອນເຫຼົ່ານີ້ :">
 <!ENTITY rights.locationawarebrowsing-term1a "ຢູ່ໃນ URL ບາ, ປະເພດ ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "ປະເພດ geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "ດັບເບິນຄິກໃສ່ geo.enabled  ໃນການຕັ້ງຄ່າ">
+<!ENTITY rights.locationawarebrowsing-term4 "ສະຖານທີ່ຄໍານຶງເຖິງຜົນການຊອກຫາຖືກປິດໃນປັດຈຸບັນ">
 
 <!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "ສະພາບລວມຂອງການບໍລິການເວັບໄຊທ໌ຜະລິດຕະພັນປະກອບດ້ວຍ, ພ້ອມກັບຄໍາແນະນໍາກ່ຽວກັບວິທີການທີ່ຈະປິດການໃຊ້ງານໃຫ້ເຂົາເຈົ້າ, ຖ້າຫາກວ່າສາມາດນໍາໃຊ້, ຄວນໄດ້ຮັບການລວມຢູ່ທີ່ນີ້.">
 
 <!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "ຂໍ້ກໍານົດການບໍລິການສາມາດນໍາໃຊ້ສໍາລັບການຜະລິດຕະພັນນີ້ຄວນໄດ້ຮັບການລະບຸໄວ້ທີ່ນີ້.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights2.webservices-term1 "&vendorShortName; ແລະ ຜູ້ພັດທະນາ, ຜູ້ອອກໃບອະນຸຍາດ ແລະ ພາຄີໄດ້ຮ່ວມມືກັນເພື່ອສ້າງຖານຂໍ້ມູນຫນຶ່ງຂື້ນໄວ້ເກັບກຳຂໍ້ມູນເວັບໄຊທ໌ປອມແປງ ແລະ ມັລແວຣ໌ໄວ້. ເຖິງຢ່າງໃດກໍຕາມກຸ່ມຜູ້ພັດທະນາຫຍັງບໍ່ສາມາດຮັບປະກັນໄດ້ວ່າຂໍ້ມູນເຫລົ່ານັ້ນຈະຄອບຄູ່ມໄດ້ຫຫມົດ ແລະ ອາດມີຄວາມຜິດດ່ຽງໄດ້. ເວັບໄຊທ໌ທີ່ມີເປັນອັນຕະລາຍບາງເວັບອາດຈະບໍ່ໄດ້ຮັບການລະບຸວ່າເປັນເວັບໄຊທ໌ທີ່ອັນຕະລາຍ ແລະ ບາງເວັບໄຊທ໌ທີ່ປອດໄພອາດຈະໄດ້ຮັບການລະບຸວ່າເປັນເວັບໄຊທ໌ທີ່ອັນຕະລາຍໄດ້.">
