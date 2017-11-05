@@ -45,7 +45,7 @@
 <!ENTITY helpus.donateLink          "გააკეთეთ შემოწირულება">
 <!ENTITY helpus.middle              " ან ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "შემოგვიერთდი!">
+<!ENTITY helpus.getInvolvedLink     "შემოგვიერთდით!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "რა არის ახალი">
@@ -92,7 +92,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "თქვენ ამ სისტემაზე დამატებითი განახლებების შესრულებაც შეგიძლიათ. ">
-<!ENTITY update.unsupported.linkText "გაიგეთ მეტი">
+<!ENTITY update.unsupported.linkText "ვრცლად">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and

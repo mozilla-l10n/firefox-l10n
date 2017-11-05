@@ -435,7 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "გადასვლა დაფაზე:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "გსურთ ძიების პროცესის შემოთავაზებებით გაუმჯობესება?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "გაიგეთ მეტი…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "ვრცლად…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "გ">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "არა">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ა">
@@ -780,7 +780,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "რ">
 <!ENTITY identity.disableMixedContentBlocking.label "დაცვის გამორთვა დროებით">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "დ">
-<!ENTITY identity.learnMore "გაიგეთ მეტი">
+<!ENTITY identity.learnMore "ვრცლად">
 
 <!ENTITY identity.removeCertException.label "გამონაკლისის წაშლა">
 <!ENTITY identity.removeCertException.accesskey "წ">
@@ -950,7 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "მოინახულეთ გვერდები უსაფრთხოდ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "გმადლობთ!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "გაიგეთ მეტი DRM-ის შესახებ…">
+<!ENTITY emeLearnMoreContextMenu.label            "ვრცლად, DRM-ის შესახებ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "ტ">
 
 <!ENTITY updateAvailable.message "განაახლეთ &brandShorterName; გაუმჯობესებული სიჩქარისა და უსაფრთხოებისთვის.">
