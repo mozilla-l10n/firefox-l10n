@@ -5,6 +5,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -26,6 +32,12 @@
 <!ENTITY openFileCmd.label            "Hapni Kartelë…">
 <!ENTITY openFileCmd.accesskey        "H">
 <!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY openRecentMenu.label         "Hap të Fundit">
+<!ENTITY openRecentMenu.accesskey     "H">
+
+<!ENTITY revertCmd.label              "Rikthejeni…">
+<!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "Ruaje">
 <!ENTITY saveFileCmd.accesskey        "R">
@@ -79,9 +91,8 @@
 <!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Shtypje e Hijshme">
-<!ENTITY pprint.key                   "S">
+<!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "S">
-
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -105,11 +116,27 @@
 <!ENTITY browserContext.label         "Shfletues">
 <!ENTITY browserContext.accesskey     "S">
 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Ndihmë">
+<!ENTITY helpMenu.accesskey           "N">
+<!ENTITY helpMenuWin.label            "Ndihmë">
+<!ENTITY helpMenuWin.accesskey        "N">
+
+<!ENTITY documentationLink.label      "Ndihmë te MDN për Fletën e Papastër">
+<!ENTITY documentationLink.accesskey  "N">
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 <!ENTITY resetContext2.label          "Ricaktoni Ndryshoret">
 <!ENTITY resetContext2.accesskey      "R">
+
+<!ENTITY reloadAndRun.label           "Ringarkoje dhe Xhiroje">
+<!ENTITY reloadAndRun.accesskey       "o">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "Ekzekutoje">
 <!ENTITY executeMenu.accesskey        "E">
@@ -120,31 +147,9 @@
   -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY documentationLink.label      "Ndihmë te MDN për Fletën e Papastër">
-<!ENTITY documentationLink.accesskey  "N">
-
-<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
-  -  for the help button in the menubar but Gnome does not.
-  -->
-<!ENTITY helpMenu.label               "Ndihmë">
-<!ENTITY helpMenu.accesskey           "N">
-<!ENTITY helpMenuWin.label            "Ndihmë">
-<!ENTITY helpMenuWin.accesskey        "N">
-
-<!ENTITY openRecentMenu.label         "Hap të Fundit">
-<!ENTITY openRecentMenu.accesskey     "H">
-
-<!ENTITY revertCmd.label              "Rikthejeni…">
-<!ENTITY revertCmd.accesskey          "t">
-
-<!ENTITY reloadAndRun.label           "Ringarkoje dhe Xhiroje">
-<!ENTITY reloadAndRun.accesskey       "o">
-<!ENTITY reloadAndRun.key             "r">
-
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 <!ENTITY evalFunction.label "Vleftësoni Funksionin e Tanishëm">
 <!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">
-

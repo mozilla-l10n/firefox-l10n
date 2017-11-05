@@ -315,7 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "F">
 <!ENTITY selectAllCmd.label         "Përzgjidhe Krejt">
-<!ENTITY selectAllCmd.key         "K">
+<!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "P">
 <!ENTITY preferencesCmd2.label       "Mundësi">
 <!ENTITY preferencesCmd2.accesskey     "M">

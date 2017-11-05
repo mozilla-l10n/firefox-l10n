@@ -46,7 +46,7 @@
 <!ENTITY servicesMenuMac.label          "Shërbime">
 
 <!ENTITY hideThisAppCmdMac2.label       "Fshihe &brandShorterName;-in">
-<!ENTITY hideThisAppCmdMac2.commandkey  "F">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fshihi të Tjerat">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
