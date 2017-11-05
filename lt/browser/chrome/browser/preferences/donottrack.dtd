@@ -9,5 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Visada naudoti „Do Not Track“">
 <!ENTITY doNotTrackCheckbox2.accesskey "V">
 
-<!ENTITY doNotTrackTPInfo.description "„&brandShortName;“ svetainėms praneš, kad nenorite būti sekami, kuomet yra įjungta apsauga nuo stebėjimo.">
+<!ENTITY doNotTrackTPInfo.description "„&brandShortName;“ svetainėms praneš, kad nenorite būti stebimi, kuomet yra įjungta apsauga nuo stebėjimo.">
 <!ENTITY doNotTrackLearnMore.label    "Sužinoti daugiau">
