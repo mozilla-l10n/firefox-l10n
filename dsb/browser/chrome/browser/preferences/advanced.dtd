@@ -94,7 +94,7 @@ available. -->
                                          "Źaržćo &brandShortName; aktualny, za nejlěpše wugbaśe, stabilnosć a wěstotu.">
 <!ENTITY updateApplication.version.pre   "Wersija ">
 <!ENTITY updateApplication.version.post  "">
-<!ENTITY updateApplication.description   "&amp;brandShortName dowóliś,">
+<!ENTITY updateApplication.description   "&brandShortName; dowóliś,">
 <!ENTITY updateAuto3.label               "Aktualizacije awtomatiski instalěrowaś (dopórucone)">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Za aktualizacijami pytaś, ale do togo se pšašaś, lěc maju se instalěrowaś">
