@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Het menu en de werkbalken aanpassen">
 <!ENTITY appMenuCustomizeExit.label "Aanpassen afsluiten">
 <!ENTITY appMenuCustomizeExit.tooltip "Aanpassen voltooien">
+
 <!ENTITY appMenuHistory.showAll.label "Alle geschiedenis tonen">
 <!ENTITY appMenuHistory.clearRecent.label "Recente geschiedenis wissen…">
 <!ENTITY appMenuHistory.restoreSession.label "Vorige sessie herstellen">
