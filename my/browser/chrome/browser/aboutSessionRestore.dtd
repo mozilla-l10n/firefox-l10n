@@ -6,16 +6,16 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "အားနာပါတယ်၊ စိတ်မကောင်းပါဘူး။">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ဟာ သင့်ရဲ့ ၀င်းဒိုးနဲ့ စာအမှတ်များကို ပြန်ဖေါ်ဖို့ အခက်အခဲ ရှိနေတယ်။ ဒါဟာ လတ်တလော ဖွင့်နေတဲ့ ကွန်ရက် စာမျက်နှာ တခုကြောင့် ဖြစ်တယ်။">
-<!ENTITY restorepage.tryThis        "သင် စမ်းကြည့်နိုင်တယ် - ">
-<!ENTITY restorepage.restoreSome    "သင်ဖယ်ရှားဖို့ လုပ်နေတဲ့ စာအမှတ် တခု (သို့) အများ​ကြောင့် ပြဿနာ ဖြစ်နေနိုင်တယ်။">
-<!ENTITY restorepage.startNew       "ကြည့်ရှုမှုဆက်ရှင်တစ်ခုလုံးကို အသစ် စတင်နေပါသည်">
+<!ENTITY restorepage.errorTitle2    "တောင်းပန်အပ်ပါသည်။ စာမျက်နှာကို ပြန်လည်ဖွင့်ရန် ဆောင်ရွက်ရာတွင် ပြဿနာ ကြုံတွေ့နေပါသည်။">
+<!ENTITY restorepage.problemDesc2   "သင်နောက်ဆုံး လည်ပတ်ခဲ့သည့်စာမျက်နှာများကို ပြန်လည်ဖွင့်ရန် ဆောင်ရွက်နေစဉ် ပြဿနာတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။ ထပ်မံဆောင်ရွက်ကြည့်ရန် စာမျက်နှာများကို ပြန်ဖွင့်ပါကို ရွေးပါ။">
 
-<!ENTITY restorepage.tryagainButton "ပြန်ဖွင့်ပါ">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "ပိတ်ပါ">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.hideTabs       "ယခင်တပ်ဗ်များကို မပြပါနှင့်">
+<!ENTITY restorepage.showTabs       "ယခင်တပ်ဗ်များကို ပြပါ">
+
+<!ENTITY restorepage.tryagainButton2 "စာမျက်နှာများကို ပြန်ဖွင့်ပါ">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "အသစ်ကြည့်ရှုမည်">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "ပြန်ဖွင့်ပါ">
 <!ENTITY restorepage.listHeader     "၀င်းဒိုးများနှင့် တပ်ဗ်များ">
@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "အောင်မြင်ပါသည်။">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName;ကို စတင်အသုံးနိုင်ပါပြီ။">
 
-<!ENTITY welcomeback2.label.restoreAll  "ဝင်းဒိုးနှင့် တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်">
-<!ENTITY welcomeback2.label.restoreSome "သင်ကြည့်ချင်သည့်တစ်ခုကို ပြန်ဖွင့်ရန်">
+<!ENTITY welcomeback2.restoreAll.label  "ဝင်းဒိုး &amp; တပ်ဗ်အားလုံးကို ပြန်ဖွင့်ရန်">
+<!ENTITY welcomeback2.restoreSome.label "ကြည့်လိုသော စာမျက်နှာကို ပြန်ဖွင့်ပါ">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
