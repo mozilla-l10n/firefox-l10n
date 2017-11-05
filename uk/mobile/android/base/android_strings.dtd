@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Сторінку вилучено">
 
+<!ENTITY folder_removed "Теку вилучено">
+
 <!ENTITY bookmark_edit_title "Редагувати закладку">
 <!ENTITY bookmark_edit_folder_title "Змінити теку">
 <!ENTITY bookmark_edit_name "Назва">
