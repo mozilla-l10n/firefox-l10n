@@ -23,6 +23,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "વાસ્તવિકમાં રેકોર્ડિંગ ડેટાને રેન્ડર કરવા માટે પસંદગીઓમાં બહુવિધ પ્રોસેસિંગ Firefox સક્ષમ કરો.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
@@ -44,7 +45,9 @@
 <!ENTITY performanceUI.toolbar.js-calltree "કૉલ શાખા">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "JavaScript કાર્યોને પ્રકાશિત કરે છે જ્યાં બ્રાઉઝર રેકોર્ડિંગ દરમિયાન વધુ સમય પસાર કરે છે.">
 <!ENTITY performanceUI.toolbar.memory-calltree "ફાળવણી">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "રેકોર્ડીંગ દરમિયાન મેમરીની ફાળવણી કરવામાં આવી હતી તે દર્શાવે છે.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS ફ્લેમ ચાર્ટ">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "રેકોર્ડિંગ દરમિયાન JavaScript કૉલ સ્ટેક બતાવે છે.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "ફાળવણી ફ્લેમ ચાર્ટ">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -64,12 +67,15 @@
 <!ENTITY performanceUI.table.totalAlloc               "કુલ નમૂનારૂપ ફાળવણી">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "ઑબ્જેક્ટની ફાળવણીની કુલ સંખ્યા આ સ્થાન અને કેલેલ્સમાં મળેલી છે.">
 <!ENTITY performanceUI.table.selfAlloc                "સ્વયં નમૂનારૂપ ફાળવણી">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "આ સ્થાન પર નમૂનાની ઑબ્જેક્ટની ફાળવણીની સંખ્યા.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+<!ENTITY performanceUI.options.filter.tooltiptext "સમયરેખામાં કયા ડેટા પ્રદર્શિત કરવો તે પસંદ કરો">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
+<!ENTITY performanceUI.options.gear.tooltiptext "કામગીરી પસંદગીઓને ગોઠવો.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
