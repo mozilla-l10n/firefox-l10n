@@ -2,106 +2,61 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "ຂໍ້ມູນ Telemetry">
-
-<!ENTITY aboutTelemetry.changeDataChoices "  ປ່ຽນ">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  ການອັບໂຫລດຂໍ້ມູນ FHR ແມ່ນ <span>ຖືກເປີດໃຊ້ງານຢູ່</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  ການອັບໂຫລດຂໍ້ມູນ FHR ແມ່ນ <span>ຖືກປິດໃຊ້ງານຢູ່</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  ການບັນທຶກ Extended Telemetry ແມ່ນ <span>ຖືກເປີດໃຊ້ງານຢູ່</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  ການບັນທຶກ Extended Telemetry ແມ່ນ <span>ຖືກປິດໃຊ້ງານຢູ່</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "ແຫລ່ງຂໍ້ມູນການປີ້ງ:">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "ຂໍ້ມູນການປີ້ງປະຈຸບັນ">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "ບັນທຶກຂໍ້ມູນການປີ້ງແລ້ວ">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "ສະແດງຂໍ້ມູນການປີ້ງ:">
-
-<!ENTITY aboutTelemetry.structured "ໂຄງສ້າງ">
-
-<!ENTITY aboutTelemetry.raw "Raw JSON">
-
 <!ENTITY aboutTelemetry.showSubsessionData "ສະແດງຂໍ້ມູນ Subsession">
-
 <!ENTITY aboutTelemetry.choosePing "ເລືອກປີ້ງ:">
-
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; ປີ້ງທີ່ໃຫມ່ກວ່າ">
-
-<!ENTITY aboutTelemetry.showOlderPing "ປີ້ງທີ່ເກົ່າກວ່າ &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "ຂໍ້ມູນດິບການປີ້ງ…">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "ອາທິດ">
-
+<!ENTITY aboutTelemetry.archivePingType "ປະເພດ Ping">
 <!ENTITY aboutTelemetry.archivePingHeader "ປີ້ງ">
+<!ENTITY aboutTelemetry.optionGroupToday "ມື້ນີ້">
+<!ENTITY aboutTelemetry.optionGroupYesterday "ມື້ວານ">
+<!ENTITY aboutTelemetry.optionGroupOlder "ເກົ່າກວ່າ">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
+<!ENTITY aboutTelemetry.pageTitle "ຂໍ້ມູນ Telemetry">
+<!ENTITY aboutTelemetry.moreInformations "ຊອກຫາຂໍ້ມູນອື່ນໆອີກບໍ່?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>ຂໍ້ມູນເອກະສານຂອງ Firefox</a> ປະກອບມີຄູ່ມືກ່ຽວກັບວິທີການເຮັດວຽກກັບເຄື່ອງມືຂໍ້ມູນຂອງພວກເຮົາ.">
+
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "ເປີດໃນຕົວເບິງ JSON">
+
+<!ENTITY aboutTelemetry.homeSection "ໜ້າຫຼັກ">
 <!ENTITY aboutTelemetry.generalDataSection "  ຂໍ້ມູນທົ່ວໄປ">
-
 <!ENTITY aboutTelemetry.environmentDataSection "  ຂໍ້ມູນສະພາບແວດລ້ອມ">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "  ລັອກ Telemetry">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  ຄຳສັ່ງ SQL ທີ່ເຮັດວຽກຊ້າ">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  ບຣາວເຊີຄ້າງ">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "Thread ຄ້າງ
-  ">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Stacks ທີ່ຈັບພາບໄດ້
-  ">
-
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  ຂໍ້ມູນຂອງແຊສຊັນ">
 <!ENTITY aboutTelemetry.scalarsSection "Scalars
   ">
-
 <!ENTITY aboutTelemetry.keyedScalarsSection "Keyed Scalars">
-
 <!ENTITY aboutTelemetry.histogramsSection "
   
   Histograms">
-
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
-
 <!ENTITY aboutTelemetry.eventsSection "
   
   ເຫດການ">
-
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ການວັດແທກທີ່ງ່າຍດາຍ">
-
+<!ENTITY aboutTelemetry.telemetryLogSection "  ລັອກ Telemetry">
+<!ENTITY aboutTelemetry.slowSqlSection "  ຄຳສັ່ງ SQL ທີ່ເຮັດວຽກຊ້າ">
+<!ENTITY aboutTelemetry.chromeHangsSection "  ບຣາວເຊີຄ້າງ">
 <!ENTITY aboutTelemetry.addonDetailsSection "  ລາຍລະອຽດຂອງ Add-on">
-
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Stacks ທີ່ຈັບພາບໄດ້
+  ">
 <!ENTITY aboutTelemetry.lateWritesSection "
   ການຂຽນພາຍຫລັງ">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  ຂໍ້ມູນຂອງແຊສຊັນ">
-
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histograms ທີ່ຖືກເກັບໂດຍ Add-ons">
-
-<!ENTITY aboutTelemetry.toggle "
-  ຄລິກເພື່ອເຊື່ອງ/ສະແດງພາກສ່ວນນີ້">
-
-<!ENTITY aboutTelemetry.emptySection "  (ບໍ່ໄດ້ເກັບຂໍ້ມູນໄວ້)">
+<!ENTITY aboutTelemetry.rawPayloadSection "Raw Payload">
+<!ENTITY aboutTelemetry.raw "Raw JSON">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  ຫມາຍເຫດ: ການດີບັກ SQL ທີ່ເຮັດວຽກຊ້າໄດ້ຖືກເປີດໃຊ້ງານຢູ່. ຄຳສັ່ງ SQL ແບບເຕັມອາດຈະຖືກສະແດງໄວ້ດ້ານລຸ່ມ ແຕ່ຈະບໍ່ຖືກສົ່ງອອກໄປຫາ Telemetry.">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   
   ດຶງຊື່ຂອງຟັງຊັນສຳລັບ stacks">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "
   
   ສະແດງຂໍ້ມູນ stack">
-
-<!ENTITY aboutTelemetry.filterText "
-  ຕົວກັ່ນຕອງ (ສະຕລິງ ຫລື /regexp/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
-
-<!ENTITY aboutTelemetry.rawPayload "  Raw Payload">
