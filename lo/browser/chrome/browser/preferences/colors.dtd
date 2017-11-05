@@ -4,7 +4,7 @@
 
 <!ENTITY  colorsDialog.title              "ສີ">
 <!ENTITY  window.width                    "38em">
-<!ENTITY  window.macWidth                 "41 em">
+<!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
