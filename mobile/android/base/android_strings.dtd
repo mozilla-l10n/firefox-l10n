@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ಪುಟವನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 
+<!ENTITY folder_removed "ಕಡತಕೋಶದ ಹೆಸರು">
+
 <!ENTITY bookmark_edit_title "ಪುಟ ಗುರುತನ್ನು ಸಂಪಾದಿಸು">
 <!ENTITY bookmark_edit_folder_title "ಕಡತಕೋಶ ಸಂಪಾದಿಸಿ">
 <!ENTITY bookmark_edit_name "ಹೆಸರು">
