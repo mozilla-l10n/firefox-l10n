@@ -22,7 +22,7 @@
 <!ENTITY deleteCmd.label           "Fshije">
 <!ENTITY deleteCmd.accesskey       "F">
 <!ENTITY selectAllCmd.label        "Përzgjidhi Krejt">
-<!ENTITY selectAllCmd.key          "j">
+<!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "T">
 <!ENTITY findCmd.label             "Gjej">
 <!ENTITY findCmd.key               "F">

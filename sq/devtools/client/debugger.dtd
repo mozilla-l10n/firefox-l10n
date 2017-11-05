@@ -60,35 +60,35 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions     "Ndalesë Kur Hasen Përjashtime">
+<!ENTITY debuggerUI.pauseExceptions           "Ndalesë Kur Hasen Përjashtime">
 <!ENTITY debuggerUI.pauseExceptions.accesskey "N">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions     "Shpërfilli Përjashtimet e Hasura">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "Shpërfilli Përjashtimet e Hasura">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
-<!ENTITY debuggerUI.showPanesOnInit     "Shfaqi Kuadratet Kur Niset">
+<!ENTITY debuggerUI.showPanesOnInit           "Shfaqi Kuadratet Kur Niset">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "r">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-<!ENTITY debuggerUI.showVarsFilter      "Shfaq Kutinë e Filtrit të Ndryshoreve">
+<!ENTITY debuggerUI.showVarsFilter           "Shfaq Kutinë e Filtrit të Ndryshoreve">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
-<!ENTITY debuggerUI.showOnlyEnum        "Shfaq Vetëm Veti të Numërtueshme">
+<!ENTITY debuggerUI.showOnlyEnum           "Shfaq Vetëm Veti të Numërtueshme">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "m">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
-<!ENTITY debuggerUI.showOriginalSource      "Shfaq Burimet Origjinale">
+<!ENTITY debuggerUI.showOriginalSource           "Shfaq Burimet Origjinale">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "b">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
@@ -97,53 +97,51 @@
 <!ENTITY debuggerUI.autoBlackBox           "Izoloji Vetvetiu Burimet e Minimizuara">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 
-
-
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 <!ENTITY debuggerUI.searchPanelOperators    "Operatorë:">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
-<!ENTITY debuggerUI.searchFile          "Filtro Skriptet">
-<!ENTITY debuggerUI.searchFile.key      "e">
-<!ENTITY debuggerUI.searchFile.altkey   "O">
+<!ENTITY debuggerUI.searchFile           "Filtro Skriptet">
+<!ENTITY debuggerUI.searchFile.key       "P">
+<!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "e">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
-<!ENTITY debuggerUI.searchGlobal        "Kërko Në Krejt Kartelat">
-<!ENTITY debuggerUI.searchGlobal.key    "K">
+<!ENTITY debuggerUI.searchGlobal           "Kërko Në Krejt Kartelat">
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "K">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 <!ENTITY debuggerUI.searchFunction           "Kërkoni Për Përkufizim Funksioni">
-<!ENTITY debuggerUI.searchFunction.key       "U">
+<!ENTITY debuggerUI.searchFunction.key       "D">
 <!ENTITY debuggerUI.searchFunction.accesskey "U">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken           "Gjej">
-<!ENTITY debuggerUI.searchToken.key       "G">
+<!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "G">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Kalo te Rreshti…">
-<!ENTITY debuggerUI.searchGoToLine.key       "a">
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "a">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable           "Filtro ndryshoret">
-<!ENTITY debuggerUI.searchVariable.key       "F">
+<!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "F">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
-<!ENTITY debuggerUI.focusVariables      "Fokusohu te pema e ndryshoreve">
-<!ENTITY debuggerUI.focusVariables.key       "P">
+<!ENTITY debuggerUI.focusVariables           "Fokusohu te pema e ndryshoreve">
+<!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
@@ -152,19 +150,19 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
-<!ENTITY debuggerUI.seMenuBreak         "Shtoni Pikëndërprerje">
-<!ENTITY debuggerUI.seMenuBreak.key     "d">
+<!ENTITY debuggerUI.seMenuBreak     "Shtoni Pikëndërprerje">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Shtoni Pikëndërprerje të Kushtëzuar">
-<!ENTITY debuggerUI.seMenuCondBreak.key "S">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Përpunoni Pikëndërprerje të Kushtëzuar">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "P">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
@@ -178,7 +176,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "Përzgjedhje Shprehjeje Për Vëzhgim">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "h">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
@@ -187,8 +185,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
-<!ENTITY debuggerUI.removeAllWatch      "Hiqi Krejt Shprehjet Për Vëzhgim">
-<!ENTITY debuggerUI.removeAllWatch.key  "q">
+<!ENTITY debuggerUI.removeAllWatch           "Hiqi Krejt Shprehjet Për Vëzhgim">
+<!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "Q">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
