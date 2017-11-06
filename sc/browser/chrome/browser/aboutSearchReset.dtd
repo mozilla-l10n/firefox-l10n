@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY searchreset.tabtitle       "Ripristina cunfiguratzione de chirca">
+
+<!ENTITY searchreset.pageTitle      "Cheres ripristinare sa cunfiguratzione de chirca?">
+
+<!ENTITY searchreset.pageInfo1      "Podet dare chi custa cunfiguratzione de chirca no siat agiornada. &amp;brandShortName, ti podet agiudare a ripristinare sa cunfiguratzione de chirca predefinida.">
+<!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
+followed by a dropdown of all the built-in search engines. -->
+
+
+<!ENTITY searchreset.selector.label "Sèbera su motore de chirca predefinidu">
+<!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
+searchreset.afterlink.pageInfo): these two string are used respectively
+before and after the "Settings page" link (searchreset.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language. -->
+
+<!ENTITY searchreset.beforelink.pageInfo2 "Podes modificare custa cunfiguratzione cando chere dae sa ">
+
+
+<!ENTITY searchreset.link.pageInfo2       "pàgina de cunfiguratziones">
+
+<!ENTITY searchreset.noChangeButton        "No modìfiches">
+
+
+<!ENTITY searchreset.changeEngineButton        "Modìfica su motore de chirca">
+

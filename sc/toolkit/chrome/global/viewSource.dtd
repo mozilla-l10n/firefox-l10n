@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from content/viewSource.xul -->
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+
+
+<!ENTITY fileMenu.label "Archìviu">
+<!ENTITY fileMenu.accesskey "A">
+<!ENTITY savePageCmd.label "Sarva sa pàgina comente...">
+<!ENTITY savePageCmd.accesskey "a">
+
+<!ENTITY pageSetupCmd.label "Cunfiguratzione de pàgina...">
+<!ENTITY pageSetupCmd.accesskey "z">
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY textEnlarge.commandkey3 "">
+
+<!ENTITY textReduce.commandkey2 "">
+
+<!ENTITY textReset.commandkey2 "">
+
+
+
+
+<!ENTITY viewMenu.label           "Visualiza">
+<!ENTITY viewMenu.accesskey       "V">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY findOnCmd.commandkey "m">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY copyEmailCmd.label "Còpia s'indiritzu">
+<!ENTITY copyEmailCmd.accesskey "C">

@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Como no ses in una ventana privada.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Aberi una ventana privada">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+
+<!ENTITY privateBrowsing.title                           "Sa navigatzione privada">
+
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cando nàvigas in una ventana privada, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "no sarva">
+
+<!ENTITY aboutPrivateBrowsing.info.visited               "pàginas visitadas">
+<!ENTITY aboutPrivateBrowsing.info.searches              "chircas">
+
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "archìvios temporales">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "at a sarvare">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " :">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "iscarrigamentos">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "signa-libros">
+<!ENTITY aboutPrivateBrowsing.note.before                "Sa navigatzione privada ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "no ti faghet anònimu">
+<!ENTITY aboutPrivateBrowsing.note.after                 " in internet. Your employer or Internet service provider can still know what page you visit.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Leghe àteru subra ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "sa navigatzione privada">
+
+
+
+<!ENTITY trackingProtection.startTour1                   "Càstia comente funtzionat">

@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  copy.label            "Còpia">
+<!ENTITY  copy.accesskey        "C">
+
+<!ENTITY  selectall.label       "Seletziona totu">
+<!ENTITY  selectall.accesskey   "S">
+
+
+<!ENTITY  generalTab            "Generale">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  generalMetaName       "Nùmene">
+<!ENTITY  generalMetaContent    "Cuntatos">
+
+<!ENTITY  mediaTab              "Cuntenutos multimediales">
+
+
+
+
+<!ENTITY  mediaAddress          "Indiritzu">
+
+<!ENTITY  mediaSize             "Mannària">
+
+
+
+<!ENTITY  mediaBlockImage.accesskey "B">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  permAllow             "Permite">
+
+<!ENTITY  permBlock             "Bloca">
+
+
+
+
+
+<!ENTITY  securityTab           "Seguresa">
+
+
+
+<!ENTITY  securityView.unknown   "Disconnotu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  helpButton.label                              "Agiudu">
