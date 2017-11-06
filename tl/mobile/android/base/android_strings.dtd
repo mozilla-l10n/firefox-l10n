@@ -495,9 +495,15 @@
 <!ENTITY contextmenu_edit_bookmark "I-edit">
 <!ENTITY contextmenu_subscribe "Mag-subscribe sa Pahina">
 <!ENTITY contextmenu_site_settings "I-edit ang Mga Setting ng Site">
+<!ENTITY contextmenu_top_sites_edit "I-edit">
+<!ENTITY contextmenu_top_sites_pin "I-pin ang Site">
+<!ENTITY contextmenu_top_sites_unpin "I-unpin ang Site">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "I-pin sa Top Site">
+<!ENTITY contextmenu_unpin_from_top_sites "I-unpin sa Top Site">
+<!ENTITY contextmenu_add_search_engine "Magdagdag ng Search Engine">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
@@ -505,6 +511,14 @@
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Walang username]">
+<!ENTITY doorhanger_login_edit_title "I-edit ang login">
+<!ENTITY doorhanger_login_edit_username_hint "Username">
+<!ENTITY doorhanger_login_edit_password_hint "Password">
+<!ENTITY doorhanger_login_edit_toggle "Ipakita ang password">
+<!ENTITY doorhanger_login_select_message "Kopyahin ang password mula sa &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Nakopya ang password sa clipboard">
+<!ENTITY doorhanger_login_select_action_text "Pumili ng ibang login">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -516,6 +530,7 @@
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+
 
 <!ENTITY bookmark_edit_name "Pangalan">
 <!ENTITY bookmark_edit_location "Lokasyon">
@@ -540,6 +555,7 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; Home">
 <!ENTITY home_history_title "Kasaysayan">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_closed_tabs_number "&formatD; tabs">
@@ -697,6 +713,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "MORE">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
