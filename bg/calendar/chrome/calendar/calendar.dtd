@@ -50,7 +50,7 @@
 <!ENTITY calendar.unifinder.tree.location.label            "Местоположение">
 <!ENTITY calendar.unifinder.tree.location.tooltip2         "Сортиране по местоположение">
 <!ENTITY calendar.unifinder.tree.status.label              "Статус">
-<!ENTITY calendar.unifinder.tree.status.tooltip2           "Сортиране по статус">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Сортиране по състояние">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Име на календара">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Сортиране по име на календар">
 <!ENTITY calendar.unifinder.tree.duration.label            "До">
