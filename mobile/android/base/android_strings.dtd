@@ -352,8 +352,8 @@
 <!ENTITY pref_zoom_force_enabled_summary "Vorgabe der Seite überschreiben, sodass die Zoomfunktion immer verwendet werden kann">
 <!ENTITY pref_voice_input "Spracheingabe">
 <!ENTITY pref_voice_input_summary2 "Spracheingabe in der Adressleiste erlauben">
-<!ENTITY pref_qrcode_enabled "QR-Code-Leser">
-<!ENTITY pref_qrcode_enabled_summary2 "QR-Code-Leser in der Adressleiste erlauben">
+<!ENTITY pref_qrcode_enabled "QR-Code-Scanner">
+<!ENTITY pref_qrcode_enabled_summary2 "QR-Code-Scanner in der Adressleiste anzeigen">
 
 <!ENTITY pref_use_master_password "Master-Passwort benutzen">
 <!ENTITY pref_sync2 "Anmelden">
