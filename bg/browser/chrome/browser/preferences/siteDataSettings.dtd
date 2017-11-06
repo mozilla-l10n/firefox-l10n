@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Настройки - Данни на сайтове">
-<!ENTITY     hostCol.label                 "Сайт">
+<!ENTITY     hostCol.label                 "Страница">
 <!ENTITY     statusCol.label               "Състояние">
 <!ENTITY     usageCol.label                "Хранилище">
 <!ENTITY     searchTextboxPlaceHolder             "Търсене на сайтове">
