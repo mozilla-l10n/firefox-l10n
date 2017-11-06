@@ -25,6 +25,8 @@
 <!ENTITY  reloadAllTabs.accesskey            "K">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Përsëdyte Skedën">
+<!ENTITY  duplicateTab.accesskey             "P">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -103,6 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Të dhëna Faqeje">
 <!ENTITY pageInfoCmd.accesskey "T">
@@ -202,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Hapni panelin e mesazheve">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Hapni panelin e kërkesave për vend">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Hapni kuadratin e mesazhit të instalimit të shtesës">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Administroni leje përftimesh nga kanavaca">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Hapni panelin për depozitim jashtë linje">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Hapni panelin e mesazhit Ruaje fjalëkalimin">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administroni përdorim shtojcash">
