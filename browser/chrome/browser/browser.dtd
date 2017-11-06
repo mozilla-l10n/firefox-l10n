@@ -971,7 +971,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "下载 &brandShorterName; 的副本">
 
-<!ENTITY updateRestart.message2 "快速地重启后，&brandShorterName; 将恢复您所有并非在隐私浏览模式中打开的标签页和窗口。">
+<!ENTITY updateRestart.message2 "快速地重启后，&brandShorterName; 将恢复您所有在隐私浏览模式外打开的标签页和窗口。">
 <!ENTITY updateRestart.header.message2 "重启 &brandShorterName; 以更新。">
 <!ENTITY updateRestart.acceptButton.label "重启并恢复">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
