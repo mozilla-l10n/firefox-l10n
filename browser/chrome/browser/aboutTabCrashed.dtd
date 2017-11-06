@@ -22,8 +22,11 @@
 <!ENTITY tabCrashed.requestHelp "Lagunduko diguzu?">
 <!ENTITY tabCrashed.requestHelpMessage "Hutsegite-txostenek arazoak diagnostikatu eta &brandShortName; hobetzen laguntzen digute.">
 <!ENTITY tabCrashed.requestReport "Eman fitxa honen berri">
+<!ENTITY tabCrashed.sendReport3 "Bidali hutsegite-txosten automatiko bat honelako arazoak konpondu ahal izan ditzagun.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Aukerazko iruzkinak (iruzkinak publikoki ikus daitezke)">
+<!ENTITY tabCrashed.includeURL3 "Sartu &brandShortName;(e)k huts egin zuenean bisitatzen ari zinen guneen URLak.">
 <!ENTITY tabCrashed.emailPlaceholder "Sartu zure helbide elektronikoa hemen">
 <!ENTITY tabCrashed.emailMe "Jakinarazi postaz informazio gehiago erabilgarri dagoenean">
 <!ENTITY tabCrashed.reportSent "Hutsegite-txostena bidalita dago; eskerrik asko &brandShortName; hobetzen laguntzeagatik!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Eman atzeko planoko fitxen berri">
+<!ENTITY tabCrashed.autoSubmit3 "Eguneratu hobespenak automatikoki bidal daitezen txostenak &brandShortName;(e)k huts egiten duenean.">

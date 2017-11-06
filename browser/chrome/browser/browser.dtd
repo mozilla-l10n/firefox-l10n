@@ -105,6 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Orriaren informazioa">
 <!ENTITY pageInfoCmd.accesskey "i">
@@ -204,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ireki mezuen panela">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ireki helbide-eskaeren panela">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ireki gehigarrien instalazio-mezuen panela">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Kudeatu canvas-etik erauzteko baimenak">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ireki lineaz kanpoko biltegiratzearen mezuen panela">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ireki pasahitza gordetzeko mezuen panela">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Kudeatu pluginen erabilera">
@@ -227,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Datuen biltegiratzea blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jakinarazpenak blokeatuta dauzkazu webgune honetarako.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Popup leihoak blokeatuta dauzkazu webgune honetarako.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
 

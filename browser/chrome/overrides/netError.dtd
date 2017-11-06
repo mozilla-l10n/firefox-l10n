@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Saiatu berriro">
 <!ENTITY returnToPreviousPage.label "Joan atzera">
 <!ENTITY advanced.label "Aurreratua">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ezin da konektatu">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,9 @@
 <!ENTITY deniedPortAccess.title "Helbide hau murriztuta dago">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Zerbitzaria ez da aurkitu">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.eus <strong>www</strong>.adibidea.eus-en ordez</li> <li>Ezin baduzu inolako orririk kargatu, begiratu zure ordenagailuaren sareko konexioa.</li> <li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName;(e)k weba nabigatzeko baimenik daukan.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Ez da zerbitzaria aurkitu">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hara. Arazoak izaten ari gara gune hori aurkitzen.">
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li> <li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin den.</li> </ul>">
@@ -35,8 +36,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Ireki sarearen saio-hasiera orria">
 
-<!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
-<!ENTITY malformedURI.longDesc "<ul> <li>Web helbideak normalean <strong>http://www.adibidea.eus/</strong> formatukoak dira</li> <li>Ziurtatu aurrerako barrak erabiltzen dituzula (<strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "URL baliogabea">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hara. Helbide horrek ez dirudi zuzena.">
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +106,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informazio aurreratua: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ezin da <span id='wrongSystemTime_URL'/> ostalarira konektatu zure ordulariak okerreko ordua erakusten duela dirudielako eta honek konexio segurua eragozten duelako.</p> <p>Zure ordenagailuak uste du <span id='wrongSystemTime_systemDate'/> dela baina <span id='wrongSystemTime_actualDate'/> izan behar luke. Arazo hau konpontzeko, aldatu zure data- eta ordu-ezarpenak ordu egokira.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ezin da <span id='wrongSystemTimeWithoutReference_URL'/> ostalarira konektatu zure ordulariak okerreko ordua erakusten duela dirudielako eta honek konexio segurua eragozten duelako.</p> <p>Zure ordenagailuak dio <span id='wrongSystemTimeWithoutReference_systemDate'/> dela. Arazo hau konpontzeko, aldatu zure data- eta ordu-ezarpenak ordu egokira.</p>">
 
