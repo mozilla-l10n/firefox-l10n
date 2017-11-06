@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Pagina suprimida">
 
+<!ENTITY folder_removed "Dorsièr levat">
+
 <!ENTITY bookmark_edit_title "Modificar lo marcapaginas">
 <!ENTITY bookmark_edit_folder_title "Modificar lo dossièr">
 <!ENTITY bookmark_edit_name "Nom">
