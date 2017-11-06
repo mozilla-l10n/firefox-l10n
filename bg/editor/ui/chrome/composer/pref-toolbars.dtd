@@ -19,7 +19,7 @@
 <!ENTITY image.label            "Изображение">
 <!ENTITY hline.label            "Хор. линия">
 <!ENTITY table.label            "Таблица">
-<!ENTITY link.label             "Връзка">
+<!ENTITY link.label             "Препратка">
 <!ENTITY anchor.label           "Котва">
 
 <!ENTITY formatting.caption     "Тези бутони ще се покажат в лентата с инструменти за форматиране:">

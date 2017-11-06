@@ -18,7 +18,7 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Търсене…">
 <!ENTITY findReplaceCmd.label "Търсене и замяна…">
-<!ENTITY enableInlineSpellChecker.label "Проверка на правопис при писане">
+<!ENTITY enableInlineSpellChecker.label "Проверка на правописа при писане">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY checkSpellingCmd2.label "Проверка на правописа…">
 <!ENTITY checkSpellingCmd2.accesskey "в">
@@ -300,7 +300,7 @@
 <!ENTITY hruleToolbarCmd.tooltip "Вмъкване на  хоризонтална линия или редактиране свойствата на избраната линия">
 <!ENTITY tableToolbarCmd.label "Таблица">
 <!ENTITY tableToolbarCmd.tooltip "Вмъкване на нова таблица или редактиране свойствата на избраната таблица">
-<!ENTITY linkToolbarCmd.label "Връзка">
+<!ENTITY linkToolbarCmd.label "Препратка">
 <!ENTITY linkToolbarCmd.tooltip "Вмъкване на нова връзка или редактиране свойствата на избраната връзка">
 <!ENTITY anchorToolbarCmd.label "Котва">
 <!ENTITY anchorToolbarCmd.tooltip "Вмъкване на нова именувана котва или редактиране свойствата на избраната котва">

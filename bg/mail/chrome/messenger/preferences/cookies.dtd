@@ -6,7 +6,7 @@
 
 <!ENTITY cookiesonsystem.label             "Бисквитки, запазени на вашия компютър:">
 <!ENTITY cookiename.label                  "Име на бисквитката">
-<!ENTITY cookiedomain.label                "Сайт">
+<!ENTITY cookiedomain.label                "Страница">
 <!ENTITY button.removecookie.label         "Премахване">
 <!ENTITY button.removecookie.accesskey     "П">
 <!ENTITY button.removeallcookies.label     "Премахване на всички">
