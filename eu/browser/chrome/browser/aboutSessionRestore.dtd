@@ -6,6 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Sentitzen dugu. Arazoak izaten ari gara zure orriak berreskuratzen.">
+<!ENTITY restorepage.problemDesc2   "Arazoak izaten ari gara zure azken nabigatze-saioa berreskuratzen. Berriro saiatzeko, hautatu 'Berreskuratu saioa'.">
+<!ENTITY restorepage.tryThis2       "Oraindik ezin duzu zure saioa berreskuratu? Batzuetan fitxa batek eragin lezake hau. Ikusi aurreko fitxak, kendu marka berreskuratu behar ez dituzun fitxetatik eta gero berreskuratu.">
 
 <!ENTITY restorepage.hideTabs       "Ezkutatu aurreko fitxak">
 <!ENTITY restorepage.showTabs       "Ikusi aurreko fitxak">
