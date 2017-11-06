@@ -6,7 +6,7 @@
 <!ENTITY wizard.label             "Създаване на нов календар" >
 <!ENTITY wizard.description       "Намиране на вашия календар" >
 
-<!ENTITY initialpage.description    "Вашият календар може да бъде запазен локално или на сървър, за да бъде достъпен отдалечено или за да го споделяте с приятели или колеги." >
+<!ENTITY initialpage.description    "Календарът може да бъде запазен местно или на сървър, за да бъде достъпен отдалечено или за да го споделяте с приятели или колеги." >
 <!ENTITY initialpage.computer.label  "Локално">
 <!ENTITY initialpage.network.label  "На сървър">
 
@@ -19,4 +19,4 @@
 <!ENTITY custompage.longdescription   "Може да дадете кратко име и цвят на събитията от този календар." >
 
 <!ENTITY finishpage.shortdescription  "Календарът е създаден" >
-<!ENTITY finishpage.longdescription   "Вашият календар е създаден." >
+<!ENTITY finishpage.longdescription   "Календарът е създаден." >
