@@ -5,13 +5,13 @@
 <!ENTITY doNotDownloadPop3Movemail.label "За икономия на дисково пространство да не бъдат изтегляни:">
 <!ENTITY doNotDownloadNntp.label "За икономия на дисково пространство да не бъдат изтегляни за употреба без мрежа:">
 <!ENTITY doNotDownloadImap.label "За икономия на дисково пространство, изтеглянето на съобщения от сървъра и съхраняването на копия от тях за употреба без мрежа, може да бъде ограничено според възрастта и големината им.">
-<!ENTITY allFoldersOffline.label "Съхранява писмата от тази сметка на този компютър">
+<!ENTITY allFoldersOffline.label "Съхранява съобщенията от тази сметка на компютъра">
 <!ENTITY allFoldersOffline.accesskey "т">
-<!ENTITY offlineNotDownload.label "Писма по-големи от">
+<!ENTITY offlineNotDownload.label "Съобщения по-големи от">
 <!ENTITY offlineNotDownload.accesskey "г">
-<!ENTITY autosyncNotDownload.label "Не се свалят съобщения по-големи от">
+<!ENTITY autosyncNotDownload.label "Не се изтеглят съобщения по-големи от">
 <!ENTITY autosyncNotDownload.accesskey "ъ">
-<!ENTITY kb.label "KB">
+<!ENTITY kb.label "КБ">
 <!ENTITY daysOld.label "дни">
 <!ENTITY message.label "писма">
 <!ENTITY nntpNotDownloadRead.label "Прочетени писма">

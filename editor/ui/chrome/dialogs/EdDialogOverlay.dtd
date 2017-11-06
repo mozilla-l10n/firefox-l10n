@@ -4,7 +4,7 @@
 
 <!ENTITY AdvancedEditButton.label "Разширено редактиране…">
 <!ENTITY AdvancedEditButton.accessKey "Р">
-<!ENTITY AdvancedEditButton.tooltip "Добавяне или променяне на HTML атрибути, атрибути на стила и JavaScript">
+<!ENTITY AdvancedEditButton.tooltip "Добавяне или променяне на атрибути на HTML, стилови атрибути и JavaScript">
 <!ENTITY chooseFileButton.label "Избор на файл…">
 <!ENTITY chooseFileButton.accessKey "ф">
 <!ENTITY chooseFileLinkButton.label "Избор на файл…">
