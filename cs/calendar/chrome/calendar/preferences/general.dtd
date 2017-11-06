@@ -43,6 +43,7 @@
      it should be upper case (as a proper name) if the target language permits.
   -->
 <!ENTITY pref.soondays2.label "Sekce Nadcházející zobrazuje:">
+<!ENTITY pref.soondays2.accesskey "N">
 
 <!ENTITY pref.accessibility.label "Přístupnost" >
 <!ENTITY pref.systemcolors.label "Optimalizovat barvy kvůli přístupnosti" >
