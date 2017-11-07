@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Pajenn dilamet">
 
+<!ENTITY folder_removed "Teuliad dilamet">
+
 <!ENTITY bookmark_edit_title "Embann ar sined">
 <!ENTITY bookmark_edit_folder_title "Embann an teuliad">
 <!ENTITY bookmark_edit_name "Anv">
