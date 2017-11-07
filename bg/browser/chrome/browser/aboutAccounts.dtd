@@ -9,6 +9,6 @@
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Настройки на Sync">
 <!ENTITY aboutAccounts.noConnection.title "Няма връзка с Интернет">
 <!ENTITY aboutAccounts.noConnection.description "Трябва да сте свързан към Интернет, за да може да се впишете.">
-<!ENTITY aboutAccounts.noConnection.retry "Нов опит">
+<!ENTITY aboutAccounts.noConnection.retry "Повторен опит">
 <!ENTITY aboutAccounts.badConfig.title "Неправилна настройка">
 <!ENTITY aboutAccounts.badConfig.description "Настройката на сървъра на вашия Firefox Account не може да бъде намерена. Моля, опитайте по-късно.">

@@ -16,7 +16,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Презареждане на страницата">
-<!ENTITY reloadPlugin.post                                   " за нов опит.">
+<!ENTITY reloadPlugin.post                                   " за повторен опит.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Изпращане на доклад за срив">
 <!ENTITY report.submitting                                   "Изпращане на доклад…">
