@@ -60,7 +60,7 @@
 <!ENTITY fxaccount_status_needs_credentials 'Nuk lidhet dot. Prekeni që të hyni.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Lypset të përmirësoni &brandShortName;-un që të hyni.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Përdorim të Dhënash.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Llogari.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Llogari.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Prekeni që të bëni hyrjen te Llogaria juaj e re Firefox.'>
 <!ENTITY fxaccount_status_choose_what 'Zgjidhni çfarë të njëkohësohet'>
 <!ENTITY fxaccount_status_bookmarks 'Faqerojtës'>
