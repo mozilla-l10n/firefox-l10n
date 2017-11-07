@@ -65,7 +65,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
-<!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като предпазна мярка &brandShortName; не прави повторна заявка на документи с поверително съдържание.</li><li>Натиснете Повторен опит за нова заявка на документа от страницата.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като предпазна мярка &brandShortName; не прави повторна заявка на документи с поверително съдържание.</li><li>Натиснете „Повторен опит“ за нова заявка на документа от страницата.</li></ul>">
 
 <!ENTITY netOffline.title "Работа извън мрежата">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
