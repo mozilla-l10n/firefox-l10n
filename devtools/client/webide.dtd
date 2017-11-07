@@ -23,6 +23,7 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "પસંદગીઓ">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "વધારાના ઘટકોનું સંચાલન કરો">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "ટૅબ્સ તાજુ કરો">
 
@@ -119,6 +120,7 @@
 <!ENTITY runtimedetails_title "રનટાઇમ માહિતી">
 <!ENTITY runtimedetails_adbIsRoot "ADB મૂળ છે: ">
 <!ENTITY runtimedetails_summonADBRoot "મૂળ ઉપકરણ">
+<!ENTITY runtimedetails_requestPrivileges "ઉચ્ચ વિશેષાધિકારોની વિનંતી કરો">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "બુલિયન">
@@ -154,8 +156,10 @@
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "કોઈ QR સ્કેનર પ્રોમ્પ્ટ નથી?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "તમારી પાસે QR સ્કેનર પ્રોમ્પ્ટ છે?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 
