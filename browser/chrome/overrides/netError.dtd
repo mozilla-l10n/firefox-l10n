@@ -20,7 +20,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "שרת לא נמצא">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "אבוי. נראה כי יש לנו בעיה למצוא את אתר זה.">
+<!ENTITY dnsNotFound.title1 "אבוי. יש לנו בעיה למצוא את האתר הזה.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>אם הכתובת הזאת נכונה, הנה שלוש אפשרויות נוספות שכדאי לנסות:</strong>
 <ul>
