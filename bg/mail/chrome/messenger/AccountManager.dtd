@@ -6,7 +6,7 @@
 
 <!ENTITY accountManagerTitle.label "Настройки на регистрация">
 
-<!ENTITY accountActionsButton.label "Действия по регистрация">
+<!ENTITY accountActionsButton.label "Действия по регистрацията">
 <!ENTITY accountActionsButton.accesskey "р">
 <!ENTITY addMailAccountButton.label "Добавяне на пощенска регистрация…">
 <!ENTITY addMailAccountButton.accesskey "Д">
@@ -18,7 +18,7 @@
 <!ENTITY addOtherAccountButton.accesskey "у">
 <!ENTITY setDefaultButton.label "По подразбиране">
 <!ENTITY setDefaultButton.accesskey "П">
-<!ENTITY removeButton.label "Премахване на регистрация">
+<!ENTITY removeButton.label "Премахване на регистрацията">
 <!ENTITY removeButton.accesskey "П">
 
 <!-- AccountManager.xul -->
