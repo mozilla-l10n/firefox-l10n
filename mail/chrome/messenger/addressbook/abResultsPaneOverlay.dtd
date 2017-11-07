@@ -6,7 +6,7 @@
 <!ENTITY Addrbook.accesskey                    "А">
 <!ENTITY GeneratedName.label                   "Име">
 <!ENTITY GeneratedName.accesskey               "И">
-<!ENTITY PrimaryEmail.label                    "Е-поща">
+<!ENTITY PrimaryEmail.label                    "Ел. адрес">
 <!ENTITY PrimaryEmail.accesskey                "Е">
 <!ENTITY Company.label                         "Организация">
 <!ENTITY Company.accesskey                     "О">
