@@ -20,6 +20,7 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Gweladenniñ al lec'hienn-mañ a c'hall ober droug d’hoc’h urzhiataer">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "Stanket eo bet ar bajenn gant &brandShortName; dre ma c'hall klask staliañ meziantoù touellus a c'hallfe laerañ pe dilemel titouroù personel war hoc'h urzhiataer.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
