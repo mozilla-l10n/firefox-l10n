@@ -535,6 +535,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "صفحہ ہٹا دیا گیا">
 
+<!ENTITY folder_removed "پوشہ ہٹا دیا گیا">
+
 <!ENTITY bookmark_edit_title "نشانی تدوین کریں">
 <!ENTITY bookmark_edit_folder_title "پوشہ کی تدوین کریں">
 <!ENTITY bookmark_edit_name "نام">
