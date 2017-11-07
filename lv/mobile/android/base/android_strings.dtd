@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Lapa aizvākta">
 
+<!ENTITY folder_removed "Mape aizvākta">
+
 <!ENTITY bookmark_edit_title "Grāmatzīmes rediģēšana">
 <!ENTITY bookmark_edit_folder_title "Rediģēt mapi">
 <!ENTITY bookmark_edit_name "Nosaukums">
