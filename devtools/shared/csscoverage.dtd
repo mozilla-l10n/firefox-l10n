@@ -31,6 +31,7 @@
   -  <style> tag -->
 <!ENTITY csscoverage.optimize.body1 "Aɗa waawi sahaaji yaawtinde loowgol so dirtinde">
 <!ENTITY csscoverage.optimize.body2 "takkon teppere hello e cosgol gorol kesol">
+<!ENTITY csscoverage.optimize.body3 "geɗel gonndungel e panni coklaaɗi ɗii ko adii joljole ‘loowtugol’ faade dow. Bolokuuji panni cokluɗaa ɗii nani:">
 
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
@@ -42,3 +43,5 @@
   -  is clicked -->
 <!ENTITY csscoverage.footer1 "Yiy">
 <!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "winndannde MDN e Kuutorgal Coomgol CSS">
+<!ENTITY csscoverage.footer4 "ngam ndesaaje e jaltingol ngol ciimtol.">
