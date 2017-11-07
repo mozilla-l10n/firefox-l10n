@@ -983,7 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Añadir a la barra de direcciones">
 <!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
 
-<!ENTITY pageAction.sendTabToDevice.label "Envía pestaña al dispositivo">
+<!ENTITY pageAction.sendTabToDevice.label "Enviar pestaña a un dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 
 <!ENTITY libraryButton.tooltip "Ver historial, marcadores guardados y más">
