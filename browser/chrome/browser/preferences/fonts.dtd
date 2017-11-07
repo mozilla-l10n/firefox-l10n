@@ -65,7 +65,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "旧式内容的文字编码">
-<!ENTITY languages.customize.Fallback3.label      "后被文字编码">
+<!ENTITY languages.customize.Fallback3.label      "后备文字编码">
 <!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "这个文字编码用于未能声明其编码的旧式内容。">
 
