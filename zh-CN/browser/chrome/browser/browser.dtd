@@ -205,7 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "打开消息面板">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "打开位置请求面板">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "打开附加组件安装消息面板">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "管理画布（canva）提取权限">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "管理画布(canvas)提取权限">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "打开离线存储消息面板">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "打开保存密码消息面板">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "管理插件使用">
