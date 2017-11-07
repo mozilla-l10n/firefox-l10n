@@ -42,7 +42,7 @@
 <!ENTITY translation.showTranslation.button     "Показване на превода">
 
 <!ENTITY translation.errorTranslating.label     "Възникна проблем при превода на страницата.">
-<!ENTITY translation.tryAgain.button            "Нов опит">
+<!ENTITY translation.tryAgain.button            "Повторен опит">
 
 <!ENTITY translation.serviceUnavailable.label   "Превеждането е недостъпно в момента. Моля, опитайте по-късно.">
 
