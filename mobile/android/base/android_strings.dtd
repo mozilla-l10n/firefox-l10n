@@ -708,7 +708,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title2 "Изтегляне на &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Грешка при изтегляне">
 <!ENTITY updater_downloading_select2 "Докоснете за инсталиране след това">
-<!ENTITY updater_downloading_retry2 "Докоснете за нов опит">
+<!ENTITY updater_downloading_retry2 "Докоснете за повторен опит">
 
 <!ENTITY updater_apply_title3 "Изтеглено е обновяване за &brandShortName;">
 <!ENTITY updater_apply_select3 "Докоснете за инсталиране">
