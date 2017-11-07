@@ -502,7 +502,7 @@
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "Ghim trang lên đầu">
-<!ENTITY contextmenu_unpin_from_top_sites "Bỏ ghim các trang lên đầu">
+<!ENTITY contextmenu_unpin_from_top_sites "Bỏ ghim trang lên đầu">
 <!ENTITY contextmenu_add_search_engine "Thêm công cụ tìm kiếm">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
