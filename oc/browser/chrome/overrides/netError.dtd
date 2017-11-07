@@ -110,6 +110,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; s'es pas connectat a <span id='wrongSystemTime_URL'/> pr'amor que lo relòtge de vòstre ordenador sembla donar un temps fals e aquò empacha una connexion segura.</p> <p>Vòstre ordenador es reglat sus <span id='wrongSystemTime_systemDate'/> alara que deuriá o èsser sus <span id='wrongSystemTime_actualDate'/>. Per reglar aqueste problèma, cambiatz los paramètres de data e d'ora per que correspondan al temps corrècte.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; s'es pas connectat a <span id='wrongSystemTimeWithoutReference_URL'/> que lo relòtge de vòstre ordenador sembla donar un temps fals e aquò empacha una connexion segura.</p> <p>Vòstre ordenador es reglat sus <span id='wrongSystemTimeWithoutReference_systemDate'/>. Per reglar aqueste problèma, cambiatz los paramètres de data e d'ora per los far correspondre al temps correcte.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexion pas segura">
