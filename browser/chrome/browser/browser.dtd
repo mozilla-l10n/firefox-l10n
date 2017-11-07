@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigacion privada)">
 
 <!ENTITY appmenu.tooltip                     "Dobrir lo menú">
-<!ENTITY navbarOverflow.label                "Autras aisinas...">
+<!ENTITY navbarOverflow.label                "Mai d'aisinas…">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Tornar cargar l'onglet">
@@ -100,6 +100,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Còdi font de la pagina">
 <!ENTITY pageSourceCmd.accesskey "C">
 <!ENTITY pageSourceCmd.commandkey "g">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "Informacion sus la pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -222,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Avètz blocat las notificacions per aquel site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Avètz empachat aquel site de gardar de biais persistent de donadas.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
 
 <!ENTITY searchItem.title             "Recercar">
@@ -261,6 +268,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "A">
 
 <!ENTITY downloads.label              "Telecargaments">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "T">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -375,6 +384,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Començar la session de Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerir los periferics…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Veire los onglets sincronizats dins la barra laterala">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Apondre a la barra d'aisinas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -553,7 +563,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcapagina sus aqueste quadre">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
-<!ENTITY copyURLCmd.label             "Copiar l'URL">
 <!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
 <!ENTITY savePageCmd.label            "Enregistrar jos...">
@@ -577,8 +586,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "t">
 <!ENTITY emailVideoCmd.label          "Mandar la vidèo per corrièr electronic...">
 <!ENTITY emailVideoCmd.accesskey      "d">
-<!ENTITY castVideoCmd.label           "Mandar la vidèo a un aparelh">
-<!ENTITY castVideoCmd.accesskey       "p">
 <!ENTITY emailAudioCmd.label          "Mandar lo fichièr àudio per corrièr electronic...">
 <!ENTITY emailAudioCmd.accesskey      "d">
 <!ENTITY playPluginCmd.label          "Activar aqueste plugin">
@@ -864,6 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilizatz lo tactil pel mòde tauleta">
 
+
 <!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar :">
@@ -887,16 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Activar la proteccion">
 <!ENTITY trackingProtection.block2.accesskey "v">
-
-<!ENTITY trackingContentBlocked.message "Pistatge">
-<!ENTITY trackingContentBlocked.moreinfo "Las partidas de la pagina qu'espian la vòstra activitat en linha son estadas blocadas.">
-<!ENTITY trackingContentBlocked.learnMore "Ne saber mai">
-<!ENTITY trackingContentBlocked.options "Opcions">
-<!ENTITY trackingContentBlocked.unblock2.label "Desactivar la proteccion per aqueste site">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Activar la proteccion">
-<!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "La proteccion de traçatge es desactivada">
 
 <!ENTITY pluginNotification.showAll.label "Afichar tot">
 <!ENTITY pluginNotification.showAll.accesskey "f">
@@ -961,7 +959,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "A">
 <!ENTITY updateManual.panelUI.label "Telecargatz una còpia novèla de &brandShorterName;">
 
-<!ENTITY updateRestart.message "Après una reaviada rapida, &brandShorterName; restablirà l’ensemble de vòstras fenèstras e onglets dobèrts.">
 <!ENTITY updateRestart.header.message2 "Tornatz aviar per metre a jorn &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reaviar e restablir">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -973,7 +970,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Apondre la barra d'adreça">
 <!ENTITY pageAction.removeFromUrlbar.label "Levar de la barra d'adreça">
 
-<!ENTITY sendToDevice.label3 "Enviar la pagina al periferic">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisacion dels periferics…">
 
 <!ENTITY libraryButton.tooltip "Veire l'istoric, salvar los marcapaginas, e mai">
