@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Nta xitaá">
 <!ENTITY addonAction.uninstall                  "Stoò">
 <!ENTITY addonAction.undo                       "stoòy">
+<!ENTITY addonAction.update                     "Ntu tsaá">
 
 <!ENTITY addonUnsigned.message                  "Mani kuu saa kunchekue complemento yoo tsaa &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Skua'a kuakaa">

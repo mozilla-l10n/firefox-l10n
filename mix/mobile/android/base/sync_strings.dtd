@@ -62,6 +62,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label;nta sai\&apos;ña, mani\&apos;ku chitain\&apos;ña, Katavi “Auto-sync data” nu nda sama Android &gt; uso de datos.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; nta sai\&apos;ña, mani\&apos;ku chitain\&apos;ña, Katavi “Auto-sync data” menu nda sama Android &gt;Cuentas.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Katavi tava kuu kitsau nuu kuenta staa Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Katsi ña kunu chita\&apos;un'>
 <!ENTITY fxaccount_status_bookmarks 'Marcadores'>
 <!ENTITY fxaccount_status_history 'ña niya\&apos;a'>
 <!ENTITY fxaccount_status_passwords2 'ki\&apos;tsa'>

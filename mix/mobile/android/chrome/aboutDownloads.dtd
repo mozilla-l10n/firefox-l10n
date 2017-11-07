@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "snuù">
-
-
+<!ENTITY aboutDownloads.title                      "Snuù">
+<!ENTITY aboutDownloads.header                     "Ña snuù">
+<!ENTITY aboutDownloads.empty                      "Koo ña snuù">
 
 <!ENTITY aboutDownloads.open                       "Kuna">
 <!ENTITY aboutDownloads.remove                     "Stoò">
 <!ENTITY aboutDownloads.removeAll                  "Stoò ntiaa">
 <!ENTITY aboutDownloads.pause                      "Kunchatu">
-<!ENTITY aboutDownloads.resume                     "ntaki'in tsaà">
+<!ENTITY aboutDownloads.resume                     "Ntaki'in tsaà">
 <!ENTITY aboutDownloads.cancel                     "Kunchatu">
 <!ENTITY aboutDownloads.retry                      "Reintentar">
