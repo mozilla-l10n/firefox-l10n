@@ -10,7 +10,7 @@
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Seliger toto">
-<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  selectall.accesskey   "t">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "General">
