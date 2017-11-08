@@ -20,7 +20,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "გვერდი ვერ მოიძებნა">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "ჰმ. საიტის მონახვა ვერ მოხერხდა.">
+<!ENTITY dnsNotFound.title1 "ჰმ. გვერდი ვერ მოიძებნა.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>თუ ეს მისამართი სწორია, კიდევ სამი რამ შეგიძლიათ სცადოთ:</strong>
 <ul>
