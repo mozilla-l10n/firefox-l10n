@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Ez da itzulpenik eskainiko ondorengo hizkuntzetarako:">
+<!ENTITY noTranslationForLanguages2.label "Ez da itzulpenik eskainiko ondorengo hizkuntzetarako">
 <!ENTITY treehead.languageName.label      "Hizkuntzak">
 <!ENTITY removeLanguage.label             "Kendu hizkuntza">
 <!ENTITY removeLanguage.accesskey         "K">
 <!ENTITY removeAllLanguages.label         "Kendu hizkuntza guztiak">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "Ez da itzulpenik eskainiko ondorengo guneetarako:">
+<!ENTITY noTranslationForSites2.label     "Ez da itzulpenik eskainiko ondorengo guneetarako">
 <!ENTITY treehead.siteName2.label         "Webguneak">
 <!ENTITY removeSite.label                 "Kendu gunea">
 <!ENTITY removeSite.accesskey             "n">
