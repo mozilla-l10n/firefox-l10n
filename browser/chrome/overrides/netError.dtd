@@ -15,7 +15,7 @@
 <!ENTITY connectionFailure.title "დაკავშირება ვერ მოხერხდა">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "უსაფრთხოების მიზნით პორტი აკრძალულია">
+<!ENTITY deniedPortAccess.title "ეს მისამართი შეზღუდულია უსაფრთხოების მიზნით">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "გვერდი ვერ მოიძებნა">
@@ -63,7 +63,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "დოკუმენტი ვადაგასულია">
-<!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი არაა ხელმისაწვდომი &brandShortName;-ის კეშში.</p><ul><li>უსაფრთხოების დაცვის მიზნით, &brandShortName; მნიშვნელოვან დოკუმენტებს ხელმეორედ ავტომატურად არ ჩამოტვირთავს.</li><li>კვლავ სცადეთ დაწკაპება, საიტიდან დოკუმენტის ხელმეორედ მოთხოვნისთვის.</li></ul>">
+<!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი არაა ხელმისაწვდომი &brandShortName;-ის კეშში.</p><ul><li>უსაფრთხოების მიზნით, &brandShortName; მნიშვნელოვან დოკუმენტებს ავტომატურად არ ტვირთავს ხოლმე ხელმეორედ.</li><li>დააწკაპეთ „სცადეთ ხელახლა“ ღილაკზე, საიტიდან დოკუმენტის ხელახლა ჩამოსატვირთად.</li></ul>">
 
 <!ENTITY netOffline.title "კავშირგარეშე რეჟიმი">
 <!ENTITY netOffline.longDesc2 "
@@ -73,9 +73,11 @@
 ">
 
 <!ENTITY contentEncodingError.title "შეცდომა შიგთავსის კოდირებაში">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>გთხოვთ, დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "ფაილის სახიფათი ტიპი">
 <!ENTITY unsafeContentType.longDesc "
@@ -126,10 +128,12 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "უსაფრთხო დაკავშირება ვერ მოხერხდა">
-<!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>თქვენს მიერ მოთხოვნილი გვერდის ვერ გამოჩნდება, რადგან მიღებული მონაცემების ნამდვილობის დადასტურება ვერ ხერხდება.</li> 
-<li>გთხოვთ დაუკავშირდით ვებ-საიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>გვერდის ჩვენება, რომლის ნახვასაც ცდილობთ შეუძლებელია, რადგან მიღებული მონაცემების ნამდვილობის დადასტურება ვერ ხერხდება.</li>
+  <li>გთხოვთ, დაუკავშირდეთ ვებსაიტის მფლობელებს და მოახსენოთ ამ ხარვეზის შესახებ.</li>
+</ul>
+">
 
 <!ENTITY certerror.longpagetitle1 "თქვენი კავშირი დაუცველია">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
@@ -161,7 +165,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "შეიტყვეთ მეტი…">
 
 <!ENTITY remoteXUL.title "დისტანციური XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ დაუკავშირდით ვებსაიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ, დაუკავშირდეთ ვებსაიტის მფლობელებს და მოახსენოთ ამ ხარვეზის შესახებ.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "უსაფრთხო კავშირი ვერ ხერხდება">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
@@ -171,8 +175,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ვერ უკავშირდება <span id='wrongSystemTime_URL'/> -ს, რადგან როგორც ჩანს, თქვენი კომპიუტერის საათი არასწორ დროს აჩვენებს, რაც ხელს უშლის უსაფრთხო კავშირის დამყარებას.</p><p>თქვენს კომპიუტერზე არის <span id='wrongSystemTime_systemDate'/> , მაშინ როცა, უნდა იყოს <span id='wrongSystemTime_actualDate'/>. პრობლების აღმოსაფხვრელად, გაასწორეთ სისტემის დრო და თარიღი.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ვერ უკავშირდება <span id='wrongSystemTimeWithoutReference_URL'/> -ს, რადგან როგორც ჩანს, თქვენი კომპიუტერის საათი არასწორ დროს აჩვენებს, რაც ხელს უშლის უსაფრთხო კავშირის დამყარებას.</p> <p>თქვენს კომპიუტერზე არის <span id='wrongSystemTimeWithoutReference_systemDate'/>. პრობლების აღმოსაფხვრელად, გაასწორეთ სისტემის დრო და თარიღი.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ვერ უკავშირდება <span id='wrongSystemTime_URL'/> -ს, რადგან როგორც ჩანს, თქვენი კომპიუტერის საათი არასწორ დროს აჩვენებს, რაც ხელს უშლის უსაფრთხო კავშირის დამყარებას.</p><p>თქვენს კომპიუტერზე არის <span id='wrongSystemTime_systemDate'/> , მაშინ როცა, უნდა იყოს <span id='wrongSystemTime_actualDate'/>. ხარვეზის აღმოსაფხვრელად, გაასწორეთ სისტემის დრო და თარიღი.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ვერ უკავშირდება <span id='wrongSystemTimeWithoutReference_URL'/> -ს, რადგან როგორც ჩანს, თქვენი კომპიუტერის საათი არასწორ დროს აჩვენებს, რაც ხელს უშლის უსაფრთხო კავშირის დამყარებას.</p> <p>თქვენს კომპიუტერზე არის <span id='wrongSystemTimeWithoutReference_systemDate'/>. ხარვეზის აღმოსაფხვრელად, გაასწორეთ სისტემის დრო და თარიღი.</p>">
 
 <!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი HTTP-ს იყენებს 
