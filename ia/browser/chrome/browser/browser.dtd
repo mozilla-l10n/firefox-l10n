@@ -382,7 +382,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Nulle schedas synchronisate… ancora!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Vole tu vider schedas de altere apparatos hic?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Desira tu vider le schedas de altere apparatos hic?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferentias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Authentica te pro vider un lista de schedas de tu altere apparatos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Connecter se a Sync">
@@ -801,7 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "Schedas synchronisate">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Authentica te a Firefox sur tu altere apparatos pro vider lor schedas hic.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nulle schedas synchronisate… ancora!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Desira tu vider le schedas de tu altere apparatos hic?">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Desira tu vider le schedas de altere apparatos hic?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Authentica te pro vider un lista de schedas de tu altere apparatos.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nulle schedas aperite">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Aperir le preferentias de &syncBrand.shortName.label;">

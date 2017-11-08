@@ -38,9 +38,9 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-<!ENTITY btnPageLogging.label   "Registro">
+<!ENTITY btnPageLogging.label   "Registration">
 <!ENTITY btnPageLogging.tooltip "Registrar le messages inviate al objecto de window.console">
-<!ENTITY btnPageLogging.accesskey3 "L">
+<!ENTITY btnPageLogging.accesskey3 "R">
 <!ENTITY btnConsoleErrors       "Errores">
 <!ENTITY btnConsoleInfo         "Informationes">
 <!ENTITY btnConsoleWarnings     "Advertentias">
