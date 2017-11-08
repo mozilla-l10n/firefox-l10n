@@ -142,7 +142,7 @@
 
 <!ENTITY detail.updateType                    "Actualisationes automatic">
 <!ENTITY detail.updateDefault.label           "Predefinite">
-<!ENTITY detail.updateDefault.tooltip         "Installa automaticamente le actualisationes solo si isto es predefinite">
+<!ENTITY detail.updateDefault.tooltip         "Installa automaticamente le actualisationes solmente si isto es le predefinition">
 <!ENTITY detail.updateAutomatic.label         "Active">
 <!ENTITY detail.updateAutomatic.tooltip       "Installae automaticamente le actualisationes">
 <!ENTITY detail.updateManual.label            "Inactive">

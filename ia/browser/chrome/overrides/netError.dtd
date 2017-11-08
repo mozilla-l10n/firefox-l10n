@@ -20,7 +20,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "Servitor non trovate">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Nos ha problemas a trovar iste sito.">
+<!ENTITY dnsNotFound.title1 "Guai. Nos ha problemas a trovar iste sito.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Si ille adresse es correcte, ecce tres altere cosas que tu pote tentar:</strong>
 <ul>
@@ -54,7 +54,7 @@
 
 <!ENTITY malformedURI.pageTitle "URL invalide">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Ille adresse non pare correcte.">
+<!ENTITY malformedURI.title1 "Guai. Ille adresse non pare correcte.">
 
 <!ENTITY netInterrupt.title "La connexion esseva interrumpite">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
