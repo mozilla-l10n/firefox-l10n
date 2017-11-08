@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> მიჩნეულია <a id='error_desc_link'>საზიანო პროგრამების გამავრცელებელად</a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "გაეცანით საზიანო და არასასურველ პროგრამებზე ინფორმაციას <a id='learn_more_link'>არასასურველი პროგრამების დებულებაში</a>. შეიტყვეთ მეტი &brandShortName;-ის დაცვის შესახებ, ყალბი და მავნე საიტებისგან, ბმულზე <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "გაეცანით საზიანო და არასასურველ პროგრამებზე ინფორმაციას <a id='learn_more_link'>არასასურველი პროგრამების დებულებაში</a>. იხილეთ ვრცლად, &brandShortName;-ის დაცვის შესახებ, ყალბი და მავნე საიტებისგან, ბმულზე <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "თაღლითური საიტი">
@@ -51,7 +51,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> მიჩნეულია <a id='error_desc_link'>თაღლითურ საიტად</a>. თუ ფიქრობთ, რომ ეს ინფორმაცია არასწორია, შეგიძლიათ <a id='report_detection'>მოგვახსენოთ ამის შესახებ</a>.">
 
-<!ENTITY safeb.blocked.phishingPage.learnMore "შეიტყვეთ მეტი თაღლითური და ყალბი საიტების შესახებ ბმულზე <a id='learn_more_link'>www.antiphishing.org</a>. გაეცანით ინფორმაციას &brandShortName;-ის ყალბი და სახიფათო საიტებისგან დაცვის შესახებ ინფორმაციას საიტზე <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.phishingPage.learnMore "იხილეთ ვრცლად, თაღლითური და ყალბი საიტების შესახებ ბმულზე <a id='learn_more_link'>www.antiphishing.org</a>. გაეცანით ინფორმაციას &brandShortName;-ის ყალბი და სახიფათო საიტებისგან დაცვის შესახებ საიტზე <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "ეს საიტი შესაძლოა მავნე კოდს შეიცავდეს">
@@ -62,4 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> მიჩნეულია <a id='error_desc_link'>საზიანო პროგრამების გამავრცელებლად</a>.">
 
-<!ENTITY safeb.blocked.harmfulPage.learnMore "შეიტყვეთ მეტი &brandShortName;-ის ყალბი და სახიფათო საიტებისგან დაცვის შესახებ საიტზე <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.harmfulPage.learnMore "იხილეთ ვრცლად, &brandShortName;-ის ყალბი და სახიფათო საიტებისგან დაცვის შესახებ საიტზე <a id='firefox_support'>support.mozilla.org</a>.">
