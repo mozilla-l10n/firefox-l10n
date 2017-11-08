@@ -15,3 +15,4 @@
 <!ENTITY     cancel.label                  "বাতিল">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "সাইটা ডাটা অপসারণ">
+<!ENTITY     siteTree2.label               "এই ওয়েবসাইট কুকিগুলো মুছে ফেলা হবে">
