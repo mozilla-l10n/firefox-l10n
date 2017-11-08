@@ -44,16 +44,22 @@
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Gune iruzurtia">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName;(e)k orri hau blokeatu du softwarea instalatzera edo pasahitz edo kreditu-txartelen tankerako informazio pertsonala argitara ematera bultza liezazukeelako.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> gunea <a id='error_desc_link'>iruzurgilea izateagatik salatuta dago</a>. <a id='report_detection'>Atzemate-arazo baten berri eman</a> edo <a id='ignore_warning_link'>arriskua ezikusi</a> eta gune ez-segurura joan zaitezke.">
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> gunea <a id='error_desc_link'>gune iruzurti gisa salatuta dago</a>. <a id='report_detection'>Atzemate-arazo baten berri eman</a> dezakezu.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "<a id='learn_more_link'>www.antiphishing.org</a> gunean phishing-a eta iruzurra egiten duten guneei buruzko argibide gehiago dituzu. <a id='firefox_support'>support.mozilla.org</a> gunean &brandShortName;(r)en phishing eta malware babesari buruzko argibide gehiago dituzu.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Hurrengo webguneak malwarea izan lezake">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName;(e)k orri hau blokeatu du zure informazio pertsonala lapurtzen edo ezabatzen duten aplikazioak instalatzen saia daitekeelako (adibidez argazkiak, mezuak edo kreditu-txartelak).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> gunea <a id='error_desc_link'>balizko aplikazio kaltegarri bat izateagatik salatuta dago</a>. <a id='ignore_warning_link'>Arriskua ezikusi</a> eta gune ez-segurura joan zaitezke.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> gunea <a id='error_desc_link'>balizko aplikazio kaltegarri bat izateagatik salatuta dago</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "<a id='firefox_support'>support.mozilla.org</a> gunean &brandShortName;(r)en phishing eta malware babesari buruzko argibide gehiago dituzu.">
