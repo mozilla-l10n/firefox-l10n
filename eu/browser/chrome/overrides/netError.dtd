@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "Ez da zerbitzaria aurkitu">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hara. Arazoak izaten ari gara gune hori aurkitzen.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Helbidea zuzena bada, hona hemen proba ditzakezun beste hiru gauza:</strong>
+<ul>
+  <li>Saiatu berriro geroago.</li>
+  <li>Egiaztatu zure sareko konexioa.</li>
+  <li>Konektatuta baina firewall baten atzean bazaude, egiaztatu &brandShortName;(e)k webera sartzeko baimena duela.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li> <li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin den.</li> </ul>">

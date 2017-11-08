@@ -20,13 +20,18 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Webgune hau bisitatzeak zure ordenagailua kalte lezake">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName;(e)k orri hau blokeatu du zure ordenagailuko informazio pertsonala lapur edo ezaba lezakeen software maltzurra instalatzen saia litekeelako.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> gunea <a id='error_desc_link'>software maltzurra izateagatik salatuta dago</a>. <a id='report_detection'>Atzemate-arazo baten berri eman</a> edo <a id='ignore_warning_link'>arriskua ezikusi</a> dezakezu eta gune ez-segurura joan.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> gunea <a id='error_desc_link'>software maltzurra izateagatik salatuta dago</a>. <a id='report_detection'>Atzemate-arazo baten berri eman</a> dezakezu.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "<a id='learn_more_link'>StopBadware.org</a> gunean web eduki kaltegarriari buruzko argibide gehiago dituzu, hala nola birus eta malware-ari buruzko eta ordenagailua babesteko informazioa. <a id='firefox_support'>support.mozilla.org</a> gunean &brandShortName;(r)en phishing eta malware babesari buruzko argibide gehiago dituzu.">
 
 
-
-
+<!ENTITY safeb.blocked.unwantedPage.title2 "Hurrengo webguneak programa kaltegarriak izan litzake">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -34,6 +39,7 @@
 
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Gune iruzurtia">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
