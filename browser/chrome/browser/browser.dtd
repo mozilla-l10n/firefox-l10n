@@ -950,7 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Pelayaran selamat!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Ketahui selanjutnya mengenai DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Ketahui selanjutnya perihal DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "K">
 
 <!ENTITY updateAvailable.message "Kemaskini &brandShorterName; anda untuk kepantasan dan privasi terkini.">
