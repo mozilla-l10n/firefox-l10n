@@ -384,13 +384,13 @@
 <!ENTITY pref_private_data_downloadFiles2 "Atsiuntimai">
 <!ENTITY pref_private_data_syncedTabs "Sinchronizuotos kortelės">
 
-<!ENTITY pref_default_browser "Padaryti numatytąja naršykle">
+<!ENTITY pref_default_browser "Paskirti numatytąja naršykle">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Aplankyti „Mozillos“ žinyną">
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
 <!ENTITY pref_vendor_faqs "Dažni klausimai">
 <!ENTITY pref_vendor_feedback "Palikti atsiliepimą">
 
-<!ENTITY pref_dialog_set_default "Skirti numatytąja">
+<!ENTITY pref_dialog_set_default "Paskirti numatytąja">
 <!ENTITY pref_dialog_default "Numatytoji">
 <!ENTITY pref_dialog_remove "Pašalinti">
 <!ENTITY pref_dialog_activitystream_header_content "Papildomas turinys">
@@ -487,7 +487,7 @@
 <!ENTITY contextmenu_remove "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
 <!ENTITY contextmenu_add_page_shortcut "Pridėti tinklalapio šaukinį">
-<!ENTITY contextmenu_set_as_homepage "Padaryti pradžios tinklalapiu">
+<!ENTITY contextmenu_set_as_homepage "Paskirti pradžios tinklalapiu">
 <!ENTITY contextmenu_share "Dalintis">
 <!ENTITY contextmenu_pasteandgo "Įdėti ir atverti">
 <!ENTITY contextmenu_paste "Įdėti">
