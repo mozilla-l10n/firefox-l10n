@@ -21,7 +21,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "საკვანძო სიტყვა:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "კ">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "ყველა ჭდის ჩვენება">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "სანიშნის გვერდითა პანელში ჩატვირთვა">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "სანიშნეთა გვერდით ზოლსში გადატანა">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "პ">
 <!ENTITY editBookmarkOverlay.choose.label                    "შერჩევა…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "ახალი საქაღალდე">
