@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "Lapok tic pe ononge">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Wa tye ka nongo peko i nongo kakube meno.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Kace kanonge meno tye kakare, magi aye jami adek mukene ma itero temo:</strong>
+<ul>
+  <li>Tem doki lacen.</li>
+  <li>Rot kube me netwak mamegi.</li>
+  <li>Kace ikube ento inge firewall, rot me neno ni &brandShortName; tye ki twero nongo Kakube.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Pwal pe ononge">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ngi nying pwail pi nukta madongo onyo coc mogo ma pe kicoyo maber.</li> <li>Ngi me neno kace pwaile kikobo woko, kicako nyinge manyen onyo kijwayo woko.</li> </ul>">
@@ -36,7 +44,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Yab potbuk me donyo iyie netwak">
 
+<!ENTITY malformedURI.pageTitle "URL mape atir">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Kanonge meno pe tye kakare.">
 
 <!ENTITY netInterrupt.title "Kibalo kube woko">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
