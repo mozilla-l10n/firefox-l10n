@@ -28,6 +28,7 @@
 <!ENTITY  history.label                 "Gin mukato">
 <!ENTITY  permissions.label             "Rukuca">
 
+<!ENTITY  addressBar.label              "Lanyut me kanonge">
 <!ENTITY  addressBar.suggest.label      "Ka i tye katic ki lanyut me kabedo, mi tam">
 <!ENTITY  locbar.history2.label         "Gin mukato me yeny">
 <!ENTITY  locbar.history2.accesskey     "">

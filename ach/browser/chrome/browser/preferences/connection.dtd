@@ -14,8 +14,18 @@
 <!ENTITY  systemTypeRadio.accesskey     "T">
 <!ENTITY  WPADTypeRadio.label           "Nong pire kene ter me proxy pi kube man">
 <!ENTITY  WPADTypeRadio.accesskey       "b">
+<!ENTITY  manualTypeRadio2.label        "Tero proxy ki komi">
+<!ENTITY  manualTypeRadio2.accesskey    "k">
+<!ENTITY  autoTypeRadio2.label          "URL me proxy ma ki tero pire kene">
+<!ENTITY  autoTypeRadio2.accesskey      "P">
 <!ENTITY  reload.label                  "Nwo cano">
 <!ENTITY  reload.accesskey              "o">
+<!ENTITY  ftp2.label                    "Proxy me FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "Proxy me HTTP">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "Proxy me SSL">
+<!ENTITY  ssl2.accesskey                "L">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
@@ -27,6 +37,8 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy2.label                "Pe tye Proxy pi">
+<!ENTITY  noproxy2.accesskey            "p">
 <!ENTITY  noproxyExplain.label          "Labolle: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Tii ki proxy me lapok tic man pi cik me kube weng">
 <!ENTITY  shareproxy.accesskey          "i">

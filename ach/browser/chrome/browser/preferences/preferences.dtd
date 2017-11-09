@@ -26,6 +26,7 @@
 <!ENTITY  paneContainers.title          "Dirica matidi me mako jami">
 <!ENTITY  paneUpdates.title             "Ngec manyen">
 
+<!ENTITY  languageAndAppearance.label   "Leb ki Neno">
 <!ENTITY  filesAndApplications.label    "Pwail ki Purugram">
 <!ENTITY  browserPrivacy.label          "Mung pa layeny">
 
