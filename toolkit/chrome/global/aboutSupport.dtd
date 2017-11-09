@@ -106,3 +106,12 @@
 <!ENTITY aboutSupport.mediaDeviceChannels "Canali">
 <!ENTITY aboutSupport.mediaDeviceRate "Frequenza">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latenza">
+<!ENTITY aboutSupport.intlTitle "Internazionalizzazione e localizzazione">
+<!ENTITY aboutSupport.intlAppTitle "Impostazioni dell’applicazione">
+<!ENTITY aboutSupport.intlLocalesRequested "Lingue richieste">
+<!ENTITY aboutSupport.intlLocalesAvailable "Lingue disponibili">
+<!ENTITY aboutSupport.intlLocalesSupported "Lingue applicazione">
+<!ENTITY aboutSupport.intlLocalesDefault "Lingua predefinita">
+<!ENTITY aboutSupport.intlOSTitle "Sistema operativo">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Lingue del sistema">
+<!ENTITY aboutSupport.intlRegionalPrefs "Impostazioni internazionali">
