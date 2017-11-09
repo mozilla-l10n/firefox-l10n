@@ -692,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "ზომის ცვლილება">
 <!ENTITY fullZoom.accesskey             "მ">
 
-<!ENTITY sidebarCloseButton.tooltip     "გვერდითი პანელის დახურვა">
+<!ENTITY sidebarCloseButton.tooltip     "გვერდითი ზოლის დახურვა">
 <!ENTITY sidebarMenuClose.label         "გვერდითი ზოლის დახურვა">
 
 <!ENTITY quitApplicationCmdWin2.label       "გასვლა">
