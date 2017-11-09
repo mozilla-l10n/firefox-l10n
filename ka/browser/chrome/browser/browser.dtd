@@ -650,9 +650,9 @@ fast. -->
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "სამართავი ზოლის გამოჩენა">
-<!ENTITY mediaShowControls.accesskey "ღ">
+<!ENTITY mediaShowControls.accesskey "ს">
 <!ENTITY mediaHideControls.label     "სამართავი ზოლის დამალვა">
-<!ENTITY mediaHideControls.accesskey "ღ">
+<!ENTITY mediaHideControls.accesskey "ს">
 <!ENTITY videoFullScreen.label       "სრული ეკრანი">
 <!ENTITY videoFullScreen.accesskey   "ს">
 <!ENTITY videoSaveImage.label        "კადრის შენახვა როგორც…">
