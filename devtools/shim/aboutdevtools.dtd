@@ -7,9 +7,9 @@
 <!ENTITY aboutDevtools.enable.inspectElementTitle "Attiva gli strumenti di sviluppo di Firefox per utilizzare “Analizza elemento”">
 <!ENTITY aboutDevtools.enable.inspectElementMessage "Analizza e modifica HTML e CSS con Analisi pagina.">
 <!ENTITY aboutDevtools.enable.aboutDebuggingMessage "Sviluppa ed effettua il debug di WebExtension, web worker, service worker e altro ancora con gli strumenti di sviluppo di Firefox.">
-<!ENTITY aboutDevtools.enable.keyShortcutMessage "È stata attivata una scorciatoia da tastiera degli strumenti di sviluppo. Chiudere questa scheda se si è trattato di un errore.">
+<!ENTITY aboutDevtools.enable.keyShortcutMessage "È stata attivata una scorciatoia da tastiera degli strumenti di sviluppo. È possibile chiudere questa scheda se si è trattato soltanto di un errore.">
 <!ENTITY aboutDevtools.enable.menuMessage "Analizza, modifica ed effettua il debug di HTML, CSS e JavaScript con strumenti come Analisi pagina e Debugger.">
-<!ENTITY aboutDevtools.enable.commonMessage "Gli strumenti di sviluppo di Firefox sono disattivati per impostazione predefinita, offrendo all’utente maggiore controllo del proprio browser.">
+<!ENTITY aboutDevtools.enable.commonMessage "Gli strumenti di sviluppo di Firefox sono disattivati per impostazione predefinita, garantendo agli utenti il pieno controllo del proprio browser.">
 <!ENTITY aboutDevtools.enable.learnMoreLink "Ulteriori informazioni sugli strumenti di sviluppo">
 <!ENTITY aboutDevtools.enable.enableButton "Attiva strumenti di sviluppo">
 <!ENTITY aboutDevtools.enable.closeButton "Chiudi questa pagina">
