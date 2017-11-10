@@ -199,7 +199,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "MẸO: Thêm trang web vào danh sách các nhà cung cấp tìm kiếm bằng cách giữ ô tìm kiếm và chạm vào biểu tượng &formatI;.">
+<!ENTITY pref_search_hint2 "MẸO: Thêm trang web vào danh sách các công cụ tìm kiếm bằng cách giữ ô tìm kiếm và chạm vào biểu tượng &formatI;.">
 <!ENTITY pref_category_advanced "Nâng cao">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -223,7 +223,7 @@
 <!ENTITY pref_category_home_homepage "Trang chủ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "Cũng sử dụng cho các tab mới">
+<!ENTITY home_homepage_every_new_tab "Cũng áp dụng đối với các thẻ mới">
 <!ENTITY home_homepage_title "Đặt trang chủ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -273,10 +273,10 @@
 
 <!ENTITY pref_tracking_protection_title2 "Chống theo dõi">
 <!ENTITY pref_donottrack_title "Không theo dõi">
-<!ENTITY pref_donottrack_summary "&brandShortName; sẽ báo với trang rằng bạn không muốn bị theo dõi">
+<!ENTITY pref_donottrack_summary "&brandShortName; sẽ báo với trang web rằng bạn không muốn bị theo dõi">
 
 <!ENTITY pref_tracking_protection_enabled "Đã bật">
-<!ENTITY pref_tracking_protection_enabled_pb "Đã bật chế độ riêng tư">
+<!ENTITY pref_tracking_protection_enabled_pb "Đã bật chế độ duyệt web riêng tư">
 <!ENTITY pref_tracking_protection_disabled "Đã tắt">
 
 <!ENTITY pref_whats_new_notification "Có gì mới trong &brandShortName;">
@@ -342,7 +342,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Xóa ngay">
 <!ENTITY pref_clear_on_exit_title3 "Xóa dữ liệu riêng tư khi thoát">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; sẽ tự động xóa dữ liệu của bạn khi bạn chọn \&quot;Thoát\&quot; khỏi ứng dụng">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; sẽ tự động xóa dữ liệu của bạn khi bạn bấm nút \&quot;Thoát\&quot; trên bảng chọn.">
 <!ENTITY pref_clear_on_exit_dialog_title "Chọn dữ liệu để xóa">
 <!ENTITY pref_restore_tabs "Khôi phục thẻ">
 <!ENTITY pref_restore_always "Luôn khôi phục">
