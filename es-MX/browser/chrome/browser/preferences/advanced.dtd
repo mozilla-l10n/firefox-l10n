@@ -94,12 +94,12 @@ available. -->
                                          "Mantener &brandShortName; actualizado para el mejor rendimiento, estabilidad y seguridad.">
 <!ENTITY updateApplication.version.pre   "Versión ">
 <!ENTITY updateApplication.version.post  "">
-<!ENTITY updateApplication.description   "Permitir que &brandShortName;">
-<!ENTITY updateAuto3.label               "Instalar actualizaciones automáticamente (recomendado)">
-<!ENTITY updateAuto3.accesskey           "A">
-<!ENTITY updateCheckChoose2.label        "Busca actualizaciones pero te permite elegir si instalarlas o no">
-<!ENTITY updateCheckChoose2.accesskey    "C">
-<!ENTITY updateManual2.label             "No buscar nunca actualizaciones (no se recomienda)">
+<!ENTITY updateApplication.description   "Quiero que &brandShortName;">
+<!ENTITY updateAuto3.label               "Instale actualizaciones automáticamente (recomendado)">
+<!ENTITY updateAuto3.accesskey           "I">
+<!ENTITY updateCheckChoose2.label        "Busque actualizaciones pero me permita elegir si instalarlas o no">
+<!ENTITY updateCheckChoose2.accesskey    "B">
+<!ENTITY updateManual2.label             "Nunca busque actualizaciones (no recomendado)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Mostrar historial de actualizaciones…">
@@ -108,7 +108,7 @@ available. -->
 <!ENTITY useService.label                "Utilizar un servicio en segundo plano para instalar las actualizaciones">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY enableSearchUpdate2.label       "Actualizar automáticamente los motores de búsqueda">
+<!ENTITY enableSearchUpdate2.label       "Actualice automáticamente los motores de búsqueda">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY offlineStorageNotify.label               "Te avisa cuando los sitios web te piden almacenar datos para utilizarlos fuera de línea">
