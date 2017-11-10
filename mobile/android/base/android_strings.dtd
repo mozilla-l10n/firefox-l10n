@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "เอาหน้าออกแล้ว">
 
+<!ENTITY folder_removed "เอาโฟลเดอร์ออกแล้ว">
+
 <!ENTITY bookmark_edit_title "แก้ไขที่คั่นหน้า">
 <!ENTITY bookmark_edit_folder_title "แก้ไขโฟลเดอร์">
 <!ENTITY bookmark_edit_name "ชื่อ">
