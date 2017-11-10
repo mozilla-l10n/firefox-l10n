@@ -7,6 +7,8 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
+<!ENTITY restorepage.showTabs       "Mostra les pestanyes anteriors">
+
 <!ENTITY restorepage.tryagainButton2 "Restaura la sessió">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Inicia una sessió nova">
