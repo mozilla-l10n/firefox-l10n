@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "عام">
 
 <!ENTITY  startupAction.label         "عند بدء &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "ب">
@@ -45,3 +46,8 @@ sentence. -->
 <!ENTITY messageStyleTheme.label           "السمة:">
 <!ENTITY messageStyleTheme.accesskey       "س">
 <!ENTITY messageStyleThunderbirdTheme.label "ثنْدَربِرد">
+<!ENTITY messageStyleVariant.label         "التنويعة:">
+<!ENTITY messageStyleVariant.accesskey     "ع">
+<!ENTITY messageStyleShowHeader.label      "اعرض الترويسة">
+<!ENTITY messageStyleShowHeader.accesskey  "ت">
+<!ENTITY messageStyleNoPreview.title       "لا معاينة متوفرة">
