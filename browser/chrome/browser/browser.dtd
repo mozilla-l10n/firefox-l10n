@@ -100,6 +100,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Codi font de la pàgina">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "Informació de la pàgina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -221,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Heu blocat l'emmagatzematge de dades per a aquest lloc web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Heu blocat les notificacions per a aquest lloc web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Heu blocat l'emmagatzematge persistent per a aquest lloc web.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
@@ -378,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestiona els dispositius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mostra la barra lateral «Pestanyes sincronitzades»">
+
+<!ENTITY appMenuRecentHighlights.label "Destacats recents">
 
 <!ENTITY customizeMenu.addToToolbar.label "Afegeix a la barra d'eines">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -796,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activeu la sincronització de pestanyes per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cerca en les pestanyes sincronitzades">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -892,16 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Activa la protecció">
 <!ENTITY trackingProtection.block2.accesskey "v">
 
-<!ENTITY trackingContentBlocked.message "Seguiment">
-<!ENTITY trackingContentBlocked.moreinfo "S'han blocat les parts de la pàgina que fan el seguiment de la vostra activitat a Internet.">
-<!ENTITY trackingContentBlocked.learnMore "Més informació">
-<!ENTITY trackingContentBlocked.options "Opcions">
-<!ENTITY trackingContentBlocked.unblock2.label "Desactiva la protecció per a aquest lloc">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Activa la protecció">
-<!ENTITY trackingContentBlocked.block.accesskey "v">
-<!ENTITY trackingContentBlocked.disabled.message "La protecció contra el seguiment està desactivada">
-
 <!ENTITY pluginNotification.showAll.label "Mostra-ho tot">
 <!ENTITY pluginNotification.showAll.accesskey "s">
 
@@ -981,3 +981,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
 
 <!ENTITY libraryButton.tooltip "Mostra l'historial, les adreces d'interès desades i més">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
