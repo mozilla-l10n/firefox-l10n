@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Laman dihapus">
 
+<!ENTITY folder_removed "Folder dihapus">
+
 <!ENTITY bookmark_edit_title "Edit Markah">
 <!ENTITY bookmark_edit_folder_title "Edit Direktori">
 <!ENTITY bookmark_edit_name "Nama">
