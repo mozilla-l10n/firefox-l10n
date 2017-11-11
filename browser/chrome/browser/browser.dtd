@@ -707,7 +707,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label                 "Закрыць">
 <!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "ч">
+<!ENTITY closeCmd.accesskey             "З">
 
 <!ENTITY toggleMuteCmd.key              "Ь">
 
