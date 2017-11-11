@@ -6,11 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "Mercé d’aver causit &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un navigator mobil modèrne de Mozilla, que s\&apos;engatja per tòca non lucrativa a defendre un web liure e dobèrt.">
 <!ENTITY firstrun_panel_title_privacy "Vida privada">
-<!ENTITY firstrun_privacy_message "Navigatz coma se degun vos gaitava pas">
+<!ENTITY firstrun_privacy_message "Navigatz coma se degun vos gaitèsse pas">
 <!ENTITY firstrun_privacy_subtext "La navigacion privada amb proteccion de traçatge bloca los pistaires pendent que navigatz e se remembra pas de vòstre istoric un còp la navigacion acabada.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
-<!ENTITY firstrun_customize_message "Personalizar &brandShortName;.">
-<!ENTITY firstrun_customize_subtext "Personalizar &brandShortName; amb de moduls. Blocatz la publicitat, ajustatz de foncionalitats o causissètz un tèma novèl que rabat vòstra personalisat.">
+<!ENTITY firstrun_customize_message "Personalizatz &brandShortName;">
+<!ENTITY firstrun_customize_subtext "Personalizatz &brandShortName; amb de moduls. Blocatz la publicitat, ajustatz de foncionalitats o causissètz un tèma novèl que rabat vòstra personalisat.">
 <!ENTITY firstrun_bookmarks_title "Istoric">
 <!ENTITY firstrun_bookmarks_message "Vòstres favorits, al primièr plan">
 <!ENTITY firstrun_bookmarks_subtext "Obtenir los resultats de vòstres marcapaginas e istoric quand fasètz vòstras recèrcas.">
