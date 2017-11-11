@@ -827,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Trobar las paginas de vòstre mòde de lectura dins los marcapaginas, quitament fòra de connexion.">
 <!ENTITY helper_first_offline_bookmark_button "Anatz als marcapaginas">
 
-<!ENTITY helper_triple_readerview_open_title "Disponible fòra de linha">
+<!ENTITY helper_triple_readerview_open_title "Disponible fòra linha">
 <!ENTITY helper_triple_readerview_open_message "Marcatz las paginas del mòde lectura per poder las legir fòra linha.">
 <!ENTITY helper_triple_readerview_open_button "Anatz als marcapaginas">
 
