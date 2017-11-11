@@ -199,7 +199,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "CONSELH : Per apondre quin que siá site web a vòstra lista dels provesidors de recèrca per premsa longa sul camp de recèrca puèi marcar l\&apos;icòna &formatI;.">
+<!ENTITY pref_search_hint2 "CONSELH : ajustatz quin que siá site a vòstra lista de motors de recèrca per premsa longa sul camp de recèrca puèi tocatz l\&apos;icòna &formatI;.">
 <!ENTITY pref_category_advanced "Avançat">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -252,9 +252,9 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Activat">
-<!ENTITY pref_cookies_not_accept_foreign "Autorizats, levat cookies tèrces">
-<!ENTITY pref_cookies_disabled "Desactivat">
+<!ENTITY pref_cookies_accept_all "Autorizats">
+<!ENTITY pref_cookies_not_accept_foreign "Autorizats, levats cookies tèrces">
+<!ENTITY pref_cookies_disabled "Defenduts">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -275,9 +275,9 @@
 <!ENTITY pref_donottrack_title "Me pistar pas">
 <!ENTITY pref_donottrack_summary "&brandShortName; senhalarà als sites que volètz pas èsser pistat">
 
-<!ENTITY pref_tracking_protection_enabled "Activat">
-<!ENTITY pref_tracking_protection_enabled_pb "Activar la navigacion privada">
-<!ENTITY pref_tracking_protection_disabled "Desactivat">
+<!ENTITY pref_tracking_protection_enabled "Activada">
+<!ENTITY pref_tracking_protection_enabled_pb "En navigacion privada">
+<!ENTITY pref_tracking_protection_disabled "Desactivada">
 
 <!ENTITY pref_whats_new_notification "Novetats de &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Ne saber mai sus las foncions novèlas après una mesa a jorn">
@@ -355,7 +355,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "Permetre la lectura automatica">
 <!ENTITY pref_media_autoplay_enabled_summary "Regular los sites web que pòdon legir automaticament e d\&apos;autres contenguts mèdia">
-<!ENTITY pref_zoom_force_enabled "Totjorn activar lo zoom">
+<!ENTITY pref_zoom_force_enabled "Zoom permanent">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar las paginas a totjorn vos permetre de zoomar">
 <!ENTITY pref_voice_input "Sasida vocala">
 <!ENTITY pref_voice_input_summary2 "Permetre la sasida vocala dins la barra d\&apos;URL">
@@ -379,8 +379,8 @@
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; connexions activas">
 <!ENTITY pref_private_data_passwords2 "Identificants salvats">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
-<!ENTITY pref_private_data_siteSettings2 "Paramètres del site">
+<!ENTITY pref_private_data_offlineApps "Donadas de sites fòra connexion">
+<!ENTITY pref_private_data_siteSettings2 "Paramètres de site">
 <!ENTITY pref_private_data_downloadFiles2 "Telecargaments">
 <!ENTITY pref_private_data_syncedTabs "Onglets sincronizats">
 
@@ -494,7 +494,7 @@
 <!ENTITY contextmenu_copyurl "Copiar l\&apos;adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
 <!ENTITY contextmenu_subscribe "S\&apos;abonar a aquesta pagina">
-<!ENTITY contextmenu_site_settings "Editar los paramètres del Site">
+<!ENTITY contextmenu_site_settings "Editar los paramètres del site">
 <!ENTITY contextmenu_top_sites_edit "Modificar">
 <!ENTITY contextmenu_top_sites_pin "Penjar aqueste site">
 <!ENTITY contextmenu_top_sites_unpin "Levar aqueste site">
@@ -552,7 +552,7 @@
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_title3       "Paramètres del site">
+<!ENTITY site_settings_title3       "Paramètres de site">
 <!ENTITY site_settings_cancel       "Anullar">
 <!ENTITY site_settings_clear        "Escafar">
 
@@ -671,7 +671,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Ne saber mai">
 <!ENTITY enable_protection "Activar la proteccion">
-<!ENTITY disable_protection "Desactivar la proteccion ">
+<!ENTITY disable_protection "Desactivar la proteccion">
 
 <!ENTITY private_data_success "Donadas personalas escafadas">
 <!ENTITY private_data_fail "D\&apos;unas donadas personalas pòdon pas èsser escafadas">
@@ -871,4 +871,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Apondre a l\&apos;ecran d\&apos;acuèlh">
 <!ENTITY pwa_continue_to_website "Contunhar cap al site web">
-<!ENTITY pwa_onboarding_sumo "Podètz facilament apondre aqueste site web a vòstre ecran d\&apos;acuèlh per i accedir rapidament e navigar mai rapidament coma se foguèssetz dins l\&apos;aplicacion.">
+<!ENTITY pwa_onboarding_sumo "Podètz facilament apondre aqueste site a vòstre ecran d\&apos;acuèlh per i accedir e navigar mai rapidament coma se foguèssetz dins l\&apos;aplicacion.">
