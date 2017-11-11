@@ -17,6 +17,7 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Ukurasa huu wa wavuti katika <span id='phishing_sitename'/> imeripotiwa kama tovuti ya uongo na imezuiwa kwa kuzingatia mapendeleo yako ya usalama.">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Iliripoti Tovuti ya Programu isiyohitajika!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 <!ENTITY safeb.blocked.harmfulPage.title "Tovuti inayofuata inaweza kuwa na programu hasidi">
