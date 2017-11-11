@@ -689,6 +689,9 @@
 <!ENTITY pageActionButton.tooltip "Azioni per questa pagina">
 <!ENTITY pageAction.addToUrlbar.label "Aggiungi alla barra degli indirizzi">
 <!ENTITY pageAction.removeFromUrlbar.label "Rimuovi dalla barra degli indirizzi">
+<!ENTITY pageAction.allowInUrlbar.label "Visualizza nella barra degli indirizzi">
+<!ENTITY pageAction.disallowInUrlbar.label "Non visualizzare nella barra degli indirizzi">
+<!ENTITY pageAction.manageExtension.label "Gestisci estensione…">
 <!ENTITY pageAction.sendTabToDevice.label "Invia scheda a dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizzazione dispositivi…">
 <!ENTITY libraryButton.tooltip "Visualizza cronologia, password salvate e altro ancora">
