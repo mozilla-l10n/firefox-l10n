@@ -409,7 +409,7 @@
 <!ENTITY datareporting_notification_action "Causir çò que mandi">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Causir quinas informacions mandi">
-<!ENTITY datareporting_notification_summary "Per melhorar vòstra navigacion, &brandShortName; manda automaticament certanas informacions a &vendorShortName;.">
+<!ENTITY datareporting_notification_summary "Per melhorar vòstra experiéncia, &brandShortName; manda automaticament d’informacions a &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title; : &datareporting_notification_action_long;">
