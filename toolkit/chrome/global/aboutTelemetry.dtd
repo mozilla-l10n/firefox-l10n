@@ -2,167 +2,92 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Të dhëna Telemetry-e">
-
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Ndryshojini
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  Ngarkimi FHR i të dhënave është <span>i aktivizuar</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  Ngarkimi FHR i të dhënave është <span>i çaktivizuar</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Regjistrimi i zgjeruar nga Telemetry-a është <span>i aktivizuar</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Regjistrimi i zgjeruar nga Telemetry-a është <span>i çaktivizuar</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Burim të dhënash ping-u:
 ">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Të dhëna ping-u të tanishme
 ">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Të dhëna ping-u të arkivuara
 ">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Shfaqje të dhënash ping-u:
+<!ENTITY aboutTelemetry.showSubsessionData "
+Shfaqni të dhëna nënsesioni
 ">
-
-<!ENTITY aboutTelemetry.structured "
-Të strukturuara
+<!ENTITY aboutTelemetry.choosePing "
+Zgjidhni ping:
 ">
+<!ENTITY aboutTelemetry.archivePingType "Lloj Ping-u">
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
+">
+<!ENTITY aboutTelemetry.optionGroupToday "Sot">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Dje">
+<!ENTITY aboutTelemetry.optionGroupOlder "Më të vjetër">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Ngarkesë
+">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
+<!ENTITY aboutTelemetry.pageTitle "Të dhëna Telemetry-e">
+<!ENTITY aboutTelemetry.moreInformations "Po kërkoni për më tepër informacion?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Dokumentimi i të Dhënave të Firefox-it</a> përmban udhërrëfyes se si të punohet me mjetet tona për të dhënat.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Dokumentimi i klientit të Firefox Telemetry-së</a> përfshin përkufizime për koncepte, dokumentim të API-t dhe referenca të dhënash.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Pultet e Telemetry-së</a> ju lejojnë të vizualizoni të dhënat që Mozilla merr përmes Telemetry-së.">
+
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Hape në parësin JSON">
+
+<!ENTITY aboutTelemetry.homeSection "Kreu">
+<!ENTITY aboutTelemetry.generalDataSection "
+  Të dhëna të Përgjithshme
+">
+<!ENTITY aboutTelemetry.environmentDataSection "
+  Të dhëna Mjedisi
+">
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Të dhëna Sesioni
+">
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skalarë
+">
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Skalarë Me Fjalëkyçe
+">
+<!ENTITY aboutTelemetry.histogramsSection "
+  Histograme
+">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Histograme Me Kyç
+">
+<!ENTITY aboutTelemetry.eventsSection "
+  Akte
+">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "
+  Matje të Thjeshta
+">
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Regjistër Telemetry-e
+">
+<!ENTITY aboutTelemetry.slowSqlSection "
+  Deklarime SQL të Ngadalta
+">
+<!ENTITY aboutTelemetry.chromeHangsSection "
+  Ngecje Shfletuesi
+">
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Hollësi Shtese
+">
+<!ENTITY aboutTelemetry.lateWritesSection "
+  Shkrime të Vonshme
+">
 <!ENTITY aboutTelemetry.raw "
 JSON të papërpunuar
 ">
 
-<!ENTITY aboutTelemetry.showSubsessionData "
-Shfaqni të dhëna nënsesioni
-">
-
-<!ENTITY aboutTelemetry.choosePing "
-Zgjidhni ping:
-">
-
-<!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Ping më të ri
-">
-
-<!ENTITY aboutTelemetry.showOlderPing "
-Ping më të vjetër &gt;&gt;
-">
-
-<!ENTITY aboutTelemetry.rawPingData "
-Të dhëna të papërpunuara pingjesh ...
-">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "
-Javë
-">
-
-<!ENTITY aboutTelemetry.archivePingHeader "
-Ping
-">
-
-<!ENTITY aboutTelemetry.generalDataSection "
-  Të dhëna të Përgjithshme
-">
-
-<!ENTITY aboutTelemetry.environmentDataSection "
-  Të dhëna Mjedisi
-">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Regjistër Telemetry-e
-">
-
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Deklarime SQL të Ngadalta
-">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Ngecje Shfletuesi
-">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Ngecje Rrjedhe
-">
-
-
-<!ENTITY aboutTelemetry.scalarsSection "
-  Skalarë
-">
-
-<!ENTITY aboutTelemetry.keyedScalarsSection "
-  Skalarë Me Fjalëkyçe
-">
-
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histograme
-">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Histograme Me Kyç
-">
-
-<!ENTITY aboutTelemetry.eventsSection "
-  Akte
-">
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Matje të Thjeshta
-">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Hollësi Shtese
-">
-
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Shkrime të Vonshme
-">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  Të dhëna Sesioni
-">
-
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograme të Grumbulluara nga Shtesat
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Klikojeni që të zgjerohet/tkurret ndarja
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Nuk ka të dhëna të grumbulluara)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   SHËNIM: Diagnostikimi i Ngadalësisë në SQL është i aktivizuar. Vargjet e plota SQL mund të shfaqen më poshtë, por ato nuk do t&apos;i parashtrohen Telemetry-së.
-">
-
-
-
-<!ENTITY aboutTelemetry.filterText "
-  Filtroni (vargje ose /regexp/)
-">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Ngarkesë
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Ngarkesë e Papërpunuar
 ">
