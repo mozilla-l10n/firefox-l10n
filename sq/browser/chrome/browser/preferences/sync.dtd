@@ -10,13 +10,21 @@
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.logins.label        "Kredenciale Hyrjesh">
+<!ENTITY engine.logins.accesskey    "K">
 <!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Shtesat e Mia">
 <!ENTITY engine.addons.accesskey    "t">
+<!ENTITY engine.addresses.label     "Adresa">
+<!ENTITY engine.addresses.accesskey "A">
+<!ENTITY engine.creditcards.label   "Karta krediti">
+<!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Emër Pajisjeje">
+<!ENTITY changeSyncDeviceName2.label "Ndryshoni Emër Pajisjeje…">
+<!ENTITY changeSyncDeviceName2.accesskey "N">
 <!ENTITY cancelChangeSyncDeviceName.label "Anuloje">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Ruaje">
@@ -48,6 +56,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Ndryshoni foto profili">
 <!ENTITY verifiedManage.label        "Administroni Llogari">
 <!ENTITY verifiedManage.accesskey    "A">
+<!ENTITY disconnect3.label           "Shkëputeni…">
+<!ENTITY disconnect3.accesskey       "S">
 <!ENTITY verify.label                "Verifikoni Email">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Harroje këtë Email">
@@ -56,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Merreni Web-in me vete">
 <!ENTITY signedOut.description        "Njëkohësoni nëpër krejt pajisjet tuaja faqerojtësit, historikun e shfletimeve, skedat, fjalëkalimet, shtesat dhe parapëlqimet tuaja.">
 <!ENTITY signedOut.accountBox.title   "Lidhuni përmes një &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Krijoje Llogarinë">
-<!ENTITY signedOut.accountBox.create.accesskey  "K">
-<!ENTITY signedOut.accountBox.signin  "Hyni">
-<!ENTITY signedOut.accountBox.signin.accesskey  "H">
+<!ENTITY signedOut.accountBox.create2 "S&apos;keni llogari? Fillojani">
+<!ENTITY signedOut.accountBox.create2.accesskey "S">
+<!ENTITY signedOut.accountBox.signin2 "Hyni…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "y">
 
 <!ENTITY signedIn.settings.label       "Rregullime Njëkohësimesh">
 <!ENTITY signedIn.settings.description "Zgjidhni ç&apos;të njëkohësohet në pajisjet tuaja duke përdorur &brandShortName;-in.">

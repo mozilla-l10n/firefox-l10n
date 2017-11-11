@@ -4,13 +4,15 @@
 
 <!ENTITY  security.label                 "Siguri">
 
-<!ENTITY  warnOnAddonInstall.label        "Sinjalizo kur sajte përpiqen të instalojnë shtesa">
-<!ENTITY  warnOnAddonInstall.accesskey    "S">
+<!ENTITY  warnOnAddonInstall2.label       "Njofto kur sajte përpiqen të instalojnë shtesa">
+<!ENTITY  warnOnAddonInstall2.accesskey   "T">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
+<!ENTITY  browsingProtection.label        "Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm">
 <!ENTITY  enableSafeBrowsing.label        "Bllokoni lëndë të rrezikshme dhe të rrejshme">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -26,8 +28,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formularë &amp; Fjalëkalime">
 
-<!ENTITY  rememberLogins1.label          "Mba mend kredenciale hyrjesh dhe fjalëkalime për sajtet">
-<!ENTITY  rememberLogins1.accesskey      "M">
+<!ENTITY  rememberLogins2.label         "Mba mend kredenciale hyrjesh dhe fjalëkalime për sajte">
+<!ENTITY  rememberLogins2.accesskey     "M">
 <!ENTITY  passwordExceptions.label      "Përjashtime…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 
