@@ -107,7 +107,7 @@
 <!ENTITY history_week_section3 "Los 7 darrièrs jorns">
 <!ENTITY history_older_section3 "De mai de 6 meses">
 
-<!ENTITY search "Recercar">
+<!ENTITY search "Recèrcas">
 <!ENTITY reload "Tornar cargar">
 <!ENTITY forward "Pagina seguenta">
 <!ENTITY menu "Menú">
@@ -178,7 +178,7 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "Cap de periferic pas connectat al compte Firefox">
 
-<!ENTITY pref_category_search3 "Recercar">
+<!ENTITY pref_category_search3 "Recèrcas">
 <!ENTITY pref_category_search_summary2 "Apondre, definir la valor per defaut, mostrar las suggestions">
 <!ENTITY pref_category_accessibility "Accessibilitat">
 <!ENTITY pref_category_accessibility_summary2 "Talha del tèxte, zoom, sasida vocala">
@@ -214,11 +214,11 @@
 <!ENTITY pref_manage_logins "Gerir los identificants">
 
 <!ENTITY pref_category_home "Acuèlh">
-<!ENTITY pref_category_home_summary "Personalizatz vòstra pagina d\&apos;acuèlh">
+<!ENTITY pref_category_home_summary "Personalizar vòstra pagina d\&apos;acuèlh">
 <!ENTITY pref_category_home_panels "Panèls">
 <!ENTITY pref_category_home_add_ons "Moduls complementaris">
-<!ENTITY pref_home_updates2 "Mesa a jorn del contengut">
-<!ENTITY pref_home_updates_enabled "Activat">
+<!ENTITY pref_home_updates2 "Mesas a jorn del contengut">
+<!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Solament per Wi-Fi">
 <!ENTITY pref_category_home_homepage "Pagina d\&apos;acuèlh">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
@@ -243,7 +243,7 @@
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "General">
-<!ENTITY pref_header_search "Recercar">
+<!ENTITY pref_header_search "Recèrcas">
 <!ENTITY pref_header_privacy_short "Vida privada">
 <!ENTITY pref_header_accessibility "Accessibilitat">
 <!ENTITY pref_header_notifications "Notificacions">
@@ -271,7 +271,7 @@
 <!ENTITY pref_show_web_fonts "Mostrar las poliças web">
 <!ENTITY pref_show_web_fonts_summary2 "Telecargar las poliças alonhadas pendent lo cargament de la pagina">
 
-<!ENTITY pref_tracking_protection_title2 "Proteccion contra lo seguiment">
+<!ENTITY pref_tracking_protection_title2 "Proteccion contra lo traçatge">
 <!ENTITY pref_donottrack_title "Me pistar pas">
 <!ENTITY pref_donottrack_summary "&brandShortName; senhalarà als sites que volètz pas èsser pistat">
 
@@ -302,7 +302,7 @@
 <!ENTITY pref_pwa "Aplicacions web progressivas">
 <!ENTITY pref_pwa_summary "Autorizar d\&apos;apondre las aplicacions web sus l\&apos;ecran d\&apos;acuèlh">
 
-<!ENTITY tracking_protection_prompt_title "Ara amb proteccion contra lo pistatge">
+<!ENTITY tracking_protection_prompt_title "Ara amb proteccion contra lo traçatge">
 <!ENTITY tracking_protection_prompt_text "Los elements de pistatge son blocats aital vos preocupetz pas d\&apos;aquò.">
 <!ENTITY tracking_protection_prompt_tip_text "Consultar los paramètres de vida privada per ne saber mai">
 <!ENTITY tracking_protection_prompt_action_button "Ai comprés !">
@@ -526,7 +526,7 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Navigacion en plen ecran">
-<!ENTITY pref_scroll_title_bar_summary2 "Amagar la barra d\&apos;aisina de &brandShortName; en desplaçar la pagina cap al bas">
+<!ENTITY pref_scroll_title_bar_summary2 "Amagar la barra d\&apos;aisina de &brandShortName; en desplaçar la pagina aval">
 
 <!ENTITY pref_tab_queue_title3 "Lista d\&apos;onglets">
 <!ENTITY pref_tab_queue_summary4 "Gardar los ligams fins al còp venent que dobriguètz &brandShortName;">
@@ -589,9 +589,9 @@
 <!ENTITY home_synced_devices_one "1 periferic">
 <!ENTITY home_history_back_to2 "Tornar a l\&apos;istoric complet">
 <!ENTITY home_clear_history_button "Netejar l\&apos;istoric de navigacion">
-<!ENTITY home_clear_history_confirm "Es segur que volètz netejar l\&apos;istoric ?">
+<!ENTITY home_clear_history_confirm "Volètz vertadièrament netejar l\&apos;istoric ?">
 <!ENTITY home_bookmarks_empty "Aquí s\&apos;afichan los marcapaginas servadas.">
-<!ENTITY home_closed_tabs_title2 "Tampadas recentas">
+<!ENTITY home_closed_tabs_title2 "Tampaduras recentas">
 <!ENTITY home_last_tabs_empty "Aquí s\&apos;afichan vòtres onglets recents.">
 <!ENTITY home_restore_all "O restablir tot">
 <!ENTITY home_closed_tabs_number "&formatD; onglets">
@@ -662,10 +662,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Avètz desactivat la proteccion contra lo contengut pas segur.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Proteccion contra lo seguiment">
+<!ENTITY doorhanger_tracking_title2 "Proteccion contra lo traçatge">
 <!ENTITY doorhanger_tracking_state_enabled "Activat">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivat">
-<!ENTITY doorhanger_tracking_message_enabled1 "Avèm blocats los ensages de pistatge de vòstre comportament en linha.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Avèm blocats los ensages de traçatge de vòstre comportament en linha.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Aquesta pagina compren d\&apos;elements que pòdon pistar vòstra navigacion.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -824,7 +824,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_page_shortcut "Apondre un acorchi cap a la pagina">
 
 <!ENTITY helper_first_offline_bookmark_title "Legir fòra linha">
-<!ENTITY helper_first_offline_bookmark_message "Trobar las paginas de vòstre mòde de lectura dins los marcapaginas, quitament fòra de connexion.">
+<!ENTITY helper_first_offline_bookmark_message "Trapatz las paginas de vòstre mòde de lectura dins los marcapaginas, quitament fòra de connexion.">
 <!ENTITY helper_first_offline_bookmark_button "Anatz als marcapaginas">
 
 <!ENTITY helper_triple_readerview_open_title "Disponible fòra linha">
@@ -844,7 +844,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_bookmarked "Apondut als marcapaginas">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_visited "Visitat">
+<!ENTITY activity_stream_highlight_label_visited "Visitats">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tendéncia">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
@@ -856,7 +856,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Suprimir">
 <!ENTITY activity_stream_delete_history "Suprimir de l\&apos;istoric">
 
-<!ENTITY private_tab_panel_title "Navigacion privada + proteccion contra lo seguiment">
+<!ENTITY private_tab_panel_title "Navigacion privada + proteccion contra lo traçatge">
 <!ENTITY private_tab_panel_description "&brandShortName; a blocat d\&apos;elements de las paginas que pòdon espiar vòstra activitat.">
 <!ENTITY private_tab_panel_description2 "Cap d\&apos;istoric serà pas salvat, pasmens los fichièrs telecargats e marcapaginas novèlas aponduts son encara enregistrats sus vòstre periferic.">
 <!ENTITY private_tab_learn_more "Volètz ne saber mai ?">
