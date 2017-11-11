@@ -507,6 +507,7 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Pinindot na pahina sa Mga Nangungunang Site">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -519,6 +520,7 @@
 <!ENTITY doorhanger_login_select_message "Kopyahin ang password mula sa &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Nakopya ang password sa clipboard">
 <!ENTITY doorhanger_login_select_action_text "Pumili ng ibang login">
+<!ENTITY doorhanger_login_select_title "Kopyahin ang password mula sa">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -530,18 +532,28 @@
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "Inalis ang pahina">
 
+<!ENTITY folder_removed "Inalis ang folder">
 
+<!ENTITY bookmark_edit_title "I-edit ang Bookmark">
+<!ENTITY bookmark_edit_folder_title "I-edit ang Folder">
 <!ENTITY bookmark_edit_name "Pangalan">
 <!ENTITY bookmark_edit_location "Lokasyon">
+<!ENTITY bookmark_edit_keyword "Keyword">
+<!ENTITY bookmark_select_folder "Pumili ng folder">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Mga Setting ng Site">
 <!ENTITY site_settings_cancel       "Kanselahin">
+<!ENTITY site_settings_clear        "Malinaw">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Mga Karagdagang Pagkilos">
 
+<!ENTITY masterpassword_create_title "Lumikha ng Master Password">
 <!ENTITY masterpassword_confirm "Ikumpirma ang password">
 
 <!ENTITY button_ok "OK">
