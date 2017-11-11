@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Shkronja">
 
-<!ENTITY  language.label                          "Shkronja për:">
-<!ENTITY  language.accesskey                      "o">
+<!ENTITY  fonts.label                             "Shkronja për">
+<!ENTITY  fonts.accesskey                         "S">
 
-<!ENTITY  size.label                              "Madhësi:">
+<!ENTITY  size2.label                             "Madhësi">
 <!ENTITY  sizeProportional.accesskey              "d">
 <!ENTITY  sizeMonospace.accesskey                 "h">
 
-<!ENTITY  proportional.label                      "Përpjesëtimore:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proporcionale">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "a">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhaleze">
 <!ENTITY  font.langGroup.tibetan                  "Tibetane">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Madhësi shkronjash minimum: ">
-<!ENTITY minSize.accesskey                        "v">
+<!ENTITY minSize2.label                           "Madhësi shkronjash minimum">
+<!ENTITY minSize2.accesskey                       "u">
 <!ENTITY minSize.none                             "Asnjë">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "L">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Kodim Teksti për Lëndë të Dikurshme">
-<!ENTITY languages.customize.Fallback2.label      "Kodim Teksti Kur Nuk Ka Zgjidhje Tjetër:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "Kodim Teksti Kur S’deklarohet">
+<!ENTITY languages.customize.Fallback3.accesskey  "F">
 <!ENTITY languages.customize.Fallback2.desc       "Ky kodim teksti përdoret për lëndë të dikurshme për të cilën nuk ka kodim të deklaruar.">
 
 <!ENTITY languages.customize.Fallback.auto        "Parazgjedhje për Vendoren e Tanishme">
