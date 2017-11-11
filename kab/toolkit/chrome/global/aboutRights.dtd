@@ -4,7 +4,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title "Talɣut ɣef izerfan-ik">
-<!ENTITY rights.intro "&brandFullName; d-aseɣẓan ilelli yeldin, mahlent yifḍan n imţekkiyen deg umaḍal. Atan wayen issefk aţeẓreḍ:">
+<!ENTITY rights.intro "&brandFullName; d aseɣẓan ilelli yeldin, mahlent yifḍan n imţekkiyen deg umaḍal. Atan wayen issefk ad teẓreḍ:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -16,14 +16,14 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; yellan akken llant tiskarin n">
 <!ENTITY rights.intro-point1b "Turagt tazayezt n Mozilla">
-<!ENTITY rights.intro-point1c ". Aya yebɣa ad yini tzemreḍ ad tqedceḍ, ad tneɣleḍ u ad tzuzreḍ &brandShortName; i wiyaḍ.  Tzemreḍ daɣen ad tesnifleḍ tangalt aɣbalu n &brandShortName; akken tesriḍ. Turagt tazayezt n Mozilla ad k-teǧǧ daɣen ad tzuzreḍ ileqman ittusniflen.">
+<!ENTITY rights.intro-point1c ". Aya yebɣa ad d-yini tzemreḍ ad tqedceḍ, ad tneɣleḍ u ad tzuzreḍ &brandShortName; i wiyaḍ.  Tzemreḍ daɣen ad tesnifleḍ tangalt aɣbalu n &brandShortName; akken tesriḍ. Turagt tazayezt n Mozilla ad k-teǧǧ daɣen ad tzuzreḍ ileqman ittusniflen.">
 
-<!ENTITY rights.intro-point2-a "Ur ɣuṛ-k ara azref neɣ turagt ɣef ticṛaḍ yersen n Mozilla neɣ n wis kraḍ ɣas war tilisa ɣef yisem neɣ alugu n Firfox. Tzemreḍ aţwaliḍ talɣut tasemmadant ɣef ticṛaḍ yersen ">
-<!ENTITY rights.intro-point2-b "d-agi">
+<!ENTITY rights.intro-point2-a "Ur ɣuṛ-k ara azref neɣ turagt ɣef ticṛaḍ yersen n Mozilla neɣ n wis kraḍ ɣas war tilisa ɣef yisem neɣ alugu n Firefox. Tzemreḍ ad twaliḍ talɣut tasemmadant ɣef ticṛaḍ yersen ">
+<!ENTITY rights.intro-point2-b "dagi">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Kra n tmahilin deg &brandShortName; am uneqqis n uɣelluy, ad k-yeǧǧ ad d-terreḍ talɣut i &vendorShortName;. Ma tferneḍ ad tazneḍ tilɣa-yagi, ad tmuddeḍ i &vendorShortName; tasiregt n useqdec n telɣut-agi n tririt akken ad isnerni ifarisen ines, ad isuffeɣ tiririt-agi ɣef yesmal ines web, u a ten-imudd i wiyaḍ.">
+<!ENTITY rights.intro-point2.5 "Kra n tmahilin deg &brandShortName; am uneqqis n uɣelluy, ad k-yeǧǧ ad d-terreḍ talɣut i &vendorShortName;. Ma tferneḍ ad tazneḍ tilɣa-yagi, ad tmuddeḍ i &vendorShortName; tasiregt n useqdec n telɣut-agi n tririt akken ad isnerni ifarisen- ines, ad isuffeɣ tiririt-agi ɣef yesmal-ines web, u ad ten-imudd i wiyaḍ.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Tarray amek ad nseqdec tilɣa-inek tudmawanin d tririt yuznen i &vendorShortName; s wallal n &brandShortName; tettwagelem deg ">
