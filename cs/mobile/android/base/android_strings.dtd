@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Stránka odebrána">
 
+<!ENTITY folder_removed "Složka byla odebrána">
+
 <!ENTITY bookmark_edit_title "Upravit záložku">
 <!ENTITY bookmark_edit_folder_title "Upravit složku">
 <!ENTITY bookmark_edit_name "Název">
