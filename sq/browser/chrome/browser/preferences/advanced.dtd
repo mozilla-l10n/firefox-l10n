@@ -138,5 +138,19 @@ available. -->
 <!ENTITY performance.label               "Punim">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Përdor rregullimet e këshilluara për punimin">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Këto rregullime janë qepur për hardware-in dhe sistemin operativ të kompjuterit tuaj.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "q">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Mësoni më tepër">
+<!ENTITY limitContentProcessOption.label "Kufi procesesh lënde">
+<!ENTITY limitContentProcessOption.description
+                                         "Proceset shtesë për lëndën mund të përmirësojnë punimin kur përdoren shumë skeda njëherësh, por kështu do të përdoret më tepër kujtesë.">
+<!ENTITY limitContentProcessOption.accesskey   "P">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Ndryshimi i numrit të proceseve të lëndës është i mundur vetëm me &brandShortName;-in shumëprocesësh.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Mësoni se si të kontrolloni nëse mënyra shumëprocesëshe është e aktivizuar">
 <!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
 <!ENTITY allowHWAccel.accesskey          "u">
