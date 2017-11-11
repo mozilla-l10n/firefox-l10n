@@ -43,7 +43,7 @@ available. -->
 
 <!ENTITY networkTab.label                "Sarea">
 
-<!ENTITY networkProxy.label              "Sareko proxya">
+<!ENTITY networkProxy.label              "Sareko proxy-a">
 
 <!ENTITY connectionDesc.label            "Konfiguratu &brandShortName; nola konektatzen den Internetera">
 <!ENTITY connectionSettings.label        "Ezarpenak…">

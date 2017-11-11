@@ -73,10 +73,17 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Agian bestelako softwarea instalatu behar duzu helbide hau irekitzeko.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy-zerbitzaria konexioak ukatzen ari da">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Egiaztatu proxyaren konexioaren ezarpenak.</li> <li>Jarri harremanetan sare-kudeatzailearekin proxy-zerbitzaria martxan dagoela ziurtatzeko.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul>
+  <li>Egiaztatu proxy-aren konexioaren ezarpenak.</li>
+  <li>Jarri harremanetan sarearen kudeatzailearekin proxy-zerbitzaria martxan dagoela ziurtatzeko.</li>
+</ul>">
 
-<!ENTITY proxyResolveFailure.title "Proxy-zerbitzaria ezin da aurkitu">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Egiaztatu proxyaren konexioaren ezarpenak.</li> <li>Egiaztatu zure ordenagailuak sareko konexioa duela.</li> <li> Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
+<!ENTITY proxyResolveFailure.title "Ezin da proxy-zerbitzaria aurkitu">
+<!ENTITY proxyResolveFailure.longDesc "<ul>
+  <li>Egiaztatu proxy-aren konexioaren ezarpenak.</li>
+  <li>Egiaztatu zure ordenagailuak sareko konexioa duela.</li>
+  <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera sartzeko baimena daukala.</li>
+</ul>">
 
 <!ENTITY redirectLoop.title "Orriak ez du birbideraketa ondo egiten">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik izatea.</li> </ul>">
@@ -93,7 +100,11 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> gunearen jabeak webgunea gaizki konfiguratu du. Zure informazioa lapurtzea saihesteko, &brandShortName; ez da webgune honetara konektatu.">
 
-<!ENTITY sharedLongDesc "<ul> <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> <li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul>
+  <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro geroago.</li>
+  <li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li>
+  <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera sartzeko baimena daukala.</li>
+</ul>">
 
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du edukien segurtasun-politikak baimentzen ez duelako.</p>">
