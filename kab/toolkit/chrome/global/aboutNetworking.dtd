@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Talɣut ɣef uẓeṭṭa">
-<!ENTITY aboutNetworking.warning               "Tamhelt-agi d tirmit kan. Ur tt-seqdac ara arma yella umdan meqqren.">
+<!ENTITY aboutNetworking.warning               "Tamhelt-agi d tirmit kan. Ur tt-seqdac ara arma yella yid-k umdan meqqren.">
 <!ENTITY aboutNetworking.showNextTime          "Sken alɣu-a tikelt d-itteddun">
 <!ENTITY aboutNetworking.ok                    "IH">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
