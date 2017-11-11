@@ -58,7 +58,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "n">
 <!ENTITY itemOfflineApps.label             "Çevrimdışı site verileri">
 <!ENTITY itemOfflineApps.accesskey         "s">
-<!ENTITY itemActiveLogins.label            "Etkin hesaplar">
+<!ENTITY itemActiveLogins.label            "Etkin oturumlar">
 <!ENTITY itemActiveLogins.accesskey        "h">
 <!ENTITY itemSitePreferences.label         "Site tercihleri">
 <!ENTITY itemSitePreferences.accesskey     "e">
