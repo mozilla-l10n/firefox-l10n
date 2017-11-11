@@ -540,6 +540,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ਸਫ਼ਾ ਹਟਾਇਆ">
 
+<!ENTITY folder_removed "ਫੋਲਡਰ ਹਟਾਇਆ ਗਿਆ">
+
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ">
 <!ENTITY bookmark_edit_folder_title "ਫੋਲਡਰ ਸੋਧੋ">
 <!ENTITY bookmark_edit_name "ਨਾਂ">
