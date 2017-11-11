@@ -6,7 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Mercé d’aver causit &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un navigator mobil modèrne de Mozilla, que s\&apos;engatja per tòca non lucrativa a defendre un web liure e dobèrt.">
 <!ENTITY firstrun_panel_title_privacy "Vida privada">
-<!ENTITY firstrun_privacy_message "Navigatz coma si pas degun vos gaitava">
+<!ENTITY firstrun_privacy_message "Navigatz coma se degun vos gaitava pas">
 <!ENTITY firstrun_privacy_subtext "La navigacion privada amb proteccion de traçatge bloca los pistaires pendent que navigatz e se remembra pas de vòstre istoric un còp la navigacion acabada.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Personalizar &brandShortName;.">
@@ -345,7 +345,7 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; escafarà automaticament vòstras donadas en causir \&quot;Quitar\&quot; al menú màger">
 <!ENTITY pref_clear_on_exit_dialog_title "Causir quinas donadas escafar">
 <!ENTITY pref_restore_tabs "Restablir los onglets">
-<!ENTITY pref_restore_always "Restablir totjorn">
+<!ENTITY pref_restore_always "Totjorn restablir">
 <!ENTITY pref_restore_quit "Restablir pas aprèp aver quitat &brandShortName;">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
@@ -496,8 +496,8 @@
 <!ENTITY contextmenu_subscribe "S\&apos;abonar a aquesta pagina">
 <!ENTITY contextmenu_site_settings "Editar los paramètres del Site">
 <!ENTITY contextmenu_top_sites_edit "Modificar">
-<!ENTITY contextmenu_top_sites_pin "Espingolar aqueste Site">
-<!ENTITY contextmenu_top_sites_unpin "Despingolar aqueste Site ">
+<!ENTITY contextmenu_top_sites_pin "Penjar aqueste site">
+<!ENTITY contextmenu_top_sites_unpin "Levar aqueste site">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -593,14 +593,14 @@
 <!ENTITY home_bookmarks_empty "Aquí s\&apos;afichan los marcapaginas servadas.">
 <!ENTITY home_closed_tabs_title2 "Tampadas recentas">
 <!ENTITY home_last_tabs_empty "Aquí s\&apos;afichan vòtres onglets recents.">
-<!ENTITY home_restore_all "Los restablir totes">
+<!ENTITY home_restore_all "O restablir tot">
 <!ENTITY home_closed_tabs_number "&formatD; onglets">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 onglet">
 <!ENTITY home_most_recent_empty "Los sites visitats recentament s\&apos;afichan aicí.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: utilizar un &formatS1;New Private Tab&formatS2; gardarà pas vòstre istoric.">
+<!ENTITY home_most_recent_emptyhint2 "Psst : utilizar un &formatS1;onglet de navigacion privada&formatS2; gardarà pas vòstre istoric.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -682,7 +682,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importacion de l\&apos;istoric dempuèi Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
 
-<!ENTITY suggestions_prompt3 "Volètz activar las suggestions de recèrca?">
+<!ENTITY suggestions_prompt3 "Volètz activar las suggestions de recèrca ?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -723,9 +723,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Contunhar">
 <!ENTITY guest_session_dialog_cancel "Anullar">
 <!ENTITY new_guest_session_title "&brandShortName; reaviarà ara">
-<!ENTITY new_guest_session_text2 "La persona que l\&apos;utiliza poirà pas veire cap de vòstras donadas de navigacion personalas (coma senhals servats, istoric o marcapaginas).\n\nQuand vòstre convidat aurà acabarat,sas donadas de navigacion seràn suprimidas e se restablirà vòstra session.">
+<!ENTITY new_guest_session_text2 "La persona que l\&apos;utiliza poirà pas veire cap de vòstras donadas de navigacion personalas (coma los senhals servats, istoric o marcapaginas).\n\nQuand vòstre convidat aurà acabat, sas donadas de navigacion seràn suprimidas e se restablirà vòstra session.">
 <!ENTITY guest_browsing_notification_title "Navigacion convidat activada">
-<!ENTITY guest_browsing_notification_text "Tocatz per sortir">
+<!ENTITY guest_browsing_notification_text "Tocatz per ne sortir">
 
 <!ENTITY exit_guest_session_title "&brandShortName; tornar aviar ara">
 <!ENTITY exit_guest_session_text "Las donadas de navigacion d\&apos;aquela session seràn suprimidas.">
@@ -848,7 +848,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tendéncia">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Navigatz e pauc a pauc vos mostrarem d\&apos;articles, vidèos e d\&apos;autras paginas qu\&apos;avètz visitadas o apondudas als marcapaginas.">
+<!ENTITY activity_stream_highlights_empty "Navigatz e pauc a pauc vos mostrarem d\&apos;articles, de vidèos e d\&apos;autras paginas qu\&apos;avètz visitadas o apondudas als marcapaginas.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
