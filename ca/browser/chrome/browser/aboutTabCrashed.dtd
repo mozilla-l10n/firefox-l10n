@@ -17,9 +17,12 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Vaja, la pestanya ha fallat.">
 <!ENTITY tabCrashed.offerHelp2 "Us podem ajudar!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Trieu «&tabCrashed.restoreTab;» per tornar a carregar la pàgina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Trieu «&tabCrashed.restoreTab;» o «&tabCrashed.restoreAll;» per tornar a carregar les pàgines.">
 <!ENTITY tabCrashed.requestHelp "Voleu ajudar-nos?">
 <!ENTITY tabCrashed.requestHelpMessage "Els informes de fallada ens ajuden a diagnosticar problemes i a millorar el &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Informa d'aquesta pestanya">
+<!ENTITY tabCrashed.sendReport3 "Envia un informe de fallada automàtic per ajudar a corregir errors com aquest.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentaris opcionals (els comentaris són visibles públicament)">
 <!ENTITY tabCrashed.emailPlaceholder "Introduïu la vostra adreça electrònica aquí">
 <!ENTITY tabCrashed.emailMe "Envia'm un missatge de correu quan hi hagi més informació disponible">
