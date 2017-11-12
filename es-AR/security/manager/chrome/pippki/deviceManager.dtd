@@ -29,7 +29,7 @@
 <!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Nuevo módulo PKCS#11">
 <!ENTITY loaddevice.filename2                   "Nombre del archivo del módulo">
-<!ENTITY loaddevice.filename2.accesskey         "f">
+<!ENTITY loaddevice.filename2.accesskey         "v">
 <!ENTITY loaddevice.browse                      "Examinar...">
 <!ENTITY loaddevice.browse.accesskey            "x">
 
