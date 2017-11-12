@@ -8,7 +8,9 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Malauradament, estem tenint problemes per recuperar les vostres pàgines.">
 <!ENTITY restorepage.problemDesc2   "Estem tenint problemes per restaurar l'última sessió de navegació. Trieu «Restaura la sessió» per tornar-ho a provar.">
+<!ENTITY restorepage.tryThis2       "Encara no podeu restaurar la sessió? A vegades, la causa del problema pot ser una pestanya determinada. Reviseu les pestanyes anteriors, desmarqueu les que no necessiteu i, a continuació, proveu de tornar a restaurar.">
 
+<!ENTITY restorepage.hideTabs       "Amaga les pestanyes anteriors">
 <!ENTITY restorepage.showTabs       "Mostra les pestanyes anteriors">
 
 <!ENTITY restorepage.tryagainButton2 "Restaura la sessió">
