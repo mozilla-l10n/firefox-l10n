@@ -6,6 +6,8 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Malauradament, estem tenint problemes per recuperar les vostres pàgines.">
+<!ENTITY restorepage.problemDesc2   "Estem tenint problemes per restaurar l'última sessió de navegació. Trieu «Restaura la sessió» per tornar-ho a provar.">
 
 <!ENTITY restorepage.showTabs       "Mostra les pestanyes anteriors">
 
