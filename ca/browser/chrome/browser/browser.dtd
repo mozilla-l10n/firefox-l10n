@@ -105,6 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Informació de la pàgina">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -204,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Obre la subfinestra del missatge">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Obre la subfinestra de la sol·licitud d'ubicació">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Obre la subfinestra del missatge d'instal·lació del complement">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gestiona el permís d'extracció de llenç">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Obre la subfinestra del missatge d'emmagatzematge fora de línia">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Obre la subfinestra del missatge de desar la contrasenya">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestiona l'ús dels complements">
@@ -228,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Heu blocat les notificacions per a aquest lloc web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Heu blocat l'emmagatzematge persistent per a aquest lloc web.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "Heu blocat les finestres emergents per aquest lloc web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
@@ -846,6 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Restaura els valors per defecte">
 <!ENTITY customizeMode.done "Fet">
 <!ENTITY customizeMode.titlebar "Barra de títol">
+<!ENTITY customizeMode.extraDragSpace "Espai per arrossegar la finestra">
 <!ENTITY customizeMode.toolbars2 "Barres d'eines">
 <!ENTITY customizeMode.lwthemes "Temes">
 <!ENTITY customizeMode.lwthemes.myThemes "Els meus temes">
@@ -855,6 +859,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Baixa més temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "B">
 <!ENTITY customizeMode.emptyOverflowList.description "Arrossegueu elements i deixeu-los anar aquí per tenir-los a mà, però fora de la barra d'eines…">
+<!ENTITY customizeMode.overflowList.title2 "Menú d'eines addicionals (»)">
+<!ENTITY customizeMode.overflowList.description "Arrossegueu elements i deixeu-los anar aquí per tenir-los a mà, però fora de la barra d'eines…">
 <!ENTITY customizeMode.uidensity "Densitat">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -986,3 +992,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Funcions d'accessibilitat activades">
