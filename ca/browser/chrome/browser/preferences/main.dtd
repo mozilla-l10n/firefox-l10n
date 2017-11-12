@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Restaura les pàgines per defecte">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "Inhabilita l'extensió">
+
 <!ENTITY downloads.label     "Baixades">
 
 <!ENTITY saveTo.label "Desa els fitxers a">
