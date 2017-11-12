@@ -16,7 +16,7 @@
 <!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Ingrese un nombre de contenedor">
 <!ENTITY icon2.label          "Ícono">
-<!ENTITY icon2.accesskey      "I">
+<!ENTITY icon2.accesskey      "o">
 <!ENTITY color2.label         "Color">
 <!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">

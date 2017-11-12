@@ -17,7 +17,7 @@
 <!ENTITY  textColor2.label                "Texto">
 <!ENTITY  textColor2.accesskey            "T">
 <!ENTITY  backgroundColor2.label          "Fondo de pantalla">
-<!ENTITY  backgroundColor2.accesskey      "B">
+<!ENTITY  backgroundColor2.accesskey      "F">
 <!ENTITY  useSystemColors.label           "Usar colores del sistema">
 <!ENTITY  useSystemColors.accesskey       "s">
 
