@@ -486,7 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Dobrir en navigacion privada">
 <!ENTITY contextmenu_remove "Suprimir">
 <!ENTITY contextmenu_add_to_launcher "Apondre a l\&apos;ecran d\&apos;acuèlh">
-<!ENTITY contextmenu_add_page_shortcut "Apondre un acorchi cap a la pagina">
+<!ENTITY contextmenu_add_page_shortcut "Apondre un acorchi a la pagina">
 <!ENTITY contextmenu_set_as_homepage "Definir coma pagina d\&apos;acuèlh">
 <!ENTITY contextmenu_share "Partejar">
 <!ENTITY contextmenu_pasteandgo "Pegar e i anar">
@@ -821,7 +821,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Apondre a l\&apos;ecran d\&apos;acuèlh">
 
-<!ENTITY promotion_add_page_shortcut "Apondre un acorchi cap a la pagina">
+<!ENTITY promotion_add_page_shortcut "Apondre un acorchi a la pagina">
 
 <!ENTITY helper_first_offline_bookmark_title "Legir fòra linha">
 <!ENTITY helper_first_offline_bookmark_message "Trapatz las paginas de vòstre mòde de lectura dins los marcapaginas, quitament fòra de connexion.">
