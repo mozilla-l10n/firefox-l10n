@@ -120,6 +120,8 @@
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informacions sus l'entorn d'execucion">
 <!ENTITY runtimedetails_adbIsRoot "ADB a los privilègis administrator :">
+<!ENTITY runtimedetails_summonADBRoot "periferics amb privliègis administrator">
+<!ENTITY runtimedetails_ADBRootWarning "(demanda un bootloader desvarolhat)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Valor booleana">
