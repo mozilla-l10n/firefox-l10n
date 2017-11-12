@@ -21,7 +21,7 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>Verificar que i aja pas d'errors a la sasida dins l'adreça coma
+  <li>Verificatz qu’i aja pas d'errors de sasida dins l'adreça coma
     <strong>ww</strong>.example.com al lòc
     <strong>www</strong>.example.com</li>
     <div id='searchbox'>
