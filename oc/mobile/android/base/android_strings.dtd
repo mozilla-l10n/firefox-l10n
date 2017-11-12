@@ -857,7 +857,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Suprimir de l\&apos;istoric">
 
 <!ENTITY private_tab_panel_title "Navigacion privada + proteccion contra lo traçatge">
-<!ENTITY private_tab_panel_description "&brandShortName; a blocat d\&apos;elements de las paginas que pòdon espiar vòstra activitat.">
+<!ENTITY private_tab_panel_description "&brandShortName; bloca d\&apos;elements de las paginas que pòdon espiar vòstra activitat.">
 <!ENTITY private_tab_panel_description2 "Cap d\&apos;istoric serà pas salvat, pasmens los fichièrs telecargats e marcapaginas novèlas aponduts son encara enregistrats sus vòstre periferic.">
 <!ENTITY private_tab_learn_more "Volètz ne saber mai ?">
 

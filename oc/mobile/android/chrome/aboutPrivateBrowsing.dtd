@@ -14,12 +14,12 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Sètz pas en mòde de navigacion privada">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloca d'elements de las paginas que pòdon espiar vòstra activitat de navigacion.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Serà pas memorizat cap istoric, pasmens los dossièrs telecargats e los marcapaginas novèls contunharàn a èsser enregistradas sus vòstre periferic.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Serà pas memorizat cap istoric, pasmens contunharem d'enregistrar los dossièrs telecargats e los marcapaginas novèls sus vòstre periferic.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "En navigacion privada, seràn pas servats quin que siá de vòstre istoric de navigacion o cookies. Los marcapaginas apondudas e fichièrs telecargats seràn pasmens enregistrats sus vòstre periferic.">
+<!ENTITY privatebrowsingpage.description.normal2 "En navigacion privada, gardarem pas cap de vòstre istoric de navigacion o cookies. Los marcapaginas qu'ajustatz e los fichièrs que telecargatz seràn pasmens enregistrats sus vòstre periferic.">
 
 <!ENTITY privatebrowsingpage.link.private "Volètz ne saber mai ?">
 <!ENTITY privatebrowsingpage.link.normal "Dobrir un novèl onglet privat">
