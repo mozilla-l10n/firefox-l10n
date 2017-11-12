@@ -8,7 +8,7 @@
 
 <!ENTITY aboutDownloads.open                       "Dobrir">
 <!ENTITY aboutDownloads.remove                     "Suprimir">
-<!ENTITY aboutDownloads.removeAll                  "Suprimir tot">
+<!ENTITY aboutDownloads.removeAll                  "O suprimir tot">
 <!ENTITY aboutDownloads.pause                      "Pausa">
 <!ENTITY aboutDownloads.resume                     "Tornar prene">
 <!ENTITY aboutDownloads.cancel                     "Anullar">
