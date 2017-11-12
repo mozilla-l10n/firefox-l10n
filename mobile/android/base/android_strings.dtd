@@ -19,7 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Desactivatz los imatges per far cargar mens donadas per cada site que visitatz.">
 <!ENTITY firstrun_sync_title "Sincr">
 <!ENTITY firstrun_sync_message2 "Tornatz ont èretz.">
-<!ENTITY firstrun_sync_subtext2 "Usar Sinc per trobar de marcapaginas, senhals, e autras donadas que gardatz dins &brandShortName; sus totes vòstres periferics.">
+<!ENTITY firstrun_sync_subtext2 "Utilizatz Sync per retrobar de marcapaginas, senhals, e autras donadas que gardatz dins &brandShortName; sus totes vòstres periferics.">
 <!ENTITY firstrun_signin_message "Connectatz-vos e començatz">
 <!ENTITY firstrun_signin_button "Se connectar a Sync">
 <!ENTITY  onboard_start_button_browser "Començar de navegar">
@@ -266,7 +266,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "Afichar los imatges">
 <!ENTITY pref_tap_to_load_images_enabled "Totjorn">
 <!ENTITY pref_tap_to_load_images_data "Solament per Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "Blocat">
+<!ENTITY pref_tap_to_load_images_disabled2 "Blocar">
 
 <!ENTITY pref_show_web_fonts "Mostrar las poliças web">
 <!ENTITY pref_show_web_fonts_summary2 "Telecargar las poliças alonhadas pendent lo cargament de la pagina">
