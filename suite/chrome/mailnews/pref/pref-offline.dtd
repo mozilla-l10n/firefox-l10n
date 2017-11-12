@@ -23,7 +23,7 @@
 <!ENTITY radioAskUnsent.accesskey         "P">
 <!ENTITY textGoingOffline                 "Al desconectarse, ¿descargar mensajes para usar sin conexión?">
 <!ENTITY radioAutoDownload                "Sí">
-<!ENTITY radioAutoDownload.accesskey      "i">
+<!ENTITY radioAutoDownload.accesskey      "S">
 <!ENTITY radioNotDownload                 "No">
 <!ENTITY radioNotDownload.accesskey       "o">
 <!ENTITY radioAskDownload                 "Preguntarme">
@@ -33,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "segundos">
 <!ENTITY Diskspace                        "Espacio en disco">
-<!ENTITY offlineCompactFolders.label     "Compactar carpetas cuando se recuperen más de">
-<!ENTITY offlineCompactFolders.accesskey "C">
-<!ENTITY offlineCompactFoldersMB.label   "MB en total">
+<!ENTITY offlineCompactFolders.label      "Compactar carpetas cuando se recuperen más de">
+<!ENTITY offlineCompactFolders.accesskey  "C">
+<!ENTITY offlineCompactFoldersMB.label    "MB en total">
