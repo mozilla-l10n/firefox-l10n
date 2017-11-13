@@ -7,7 +7,7 @@
 <!ENTITY  history2.intro            "Следећа ажурирања су инсталирана">
 <!ENTITY  closebutton.label         "Затвори">
 
-<!ENTITY  noupdates.label           "Још није инсталирана ниједна надоградња">
+<!ENTITY  noupdates.label           "Још није инсталирано ниједно ажурирање">
 
 <!ENTITY  name.header               "Име надоградње">
 <!ENTITY  date.header               "Датум инсталирања">
