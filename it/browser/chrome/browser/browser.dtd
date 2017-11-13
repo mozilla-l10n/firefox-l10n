@@ -527,6 +527,7 @@
 <!ENTITY spellAddDictionaries.accesskey "z">
 <!ENTITY editBookmark.done.label "Fatto">
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
+<!ENTITY identity.securityView.label "Sicurezza del sito">
 <!ENTITY identity.connectionSecure "Connessione sicura">
 <!ENTITY identity.connectionNotSecure "Connessione non sicura">
 <!ENTITY identity.connectionFile "Questa pagina è salvata sul dispositivo in uso.">
