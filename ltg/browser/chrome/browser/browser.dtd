@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Attaiseit ziņuojumu paneli">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Attaiseit atsarasšona vītu pīprasiejumu paneli">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Attaiseit papyldynuojumu instaliešonys ziņuojumu paneli">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Porvaldēt canvas izģiušonys atļaujis">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Attaiseit nasaistis datu saglobuošonys ziņuojumu paneli">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Attaiseit paroles saglobuošonys ziņuojumu paneli">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Puorvaļdeit papyldynuojumu izmontuošonu">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "You have blocked data storage for this website.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Paziņuojumu sajimšona nu ituos lopys ir blokeita.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "You have blocked persistent storage for this website.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Izlacušū lūku rōdiešona itymā lopā ir aizlīgta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Paruodeit viesturi">
 
