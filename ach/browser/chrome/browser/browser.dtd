@@ -954,6 +954,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "P">
 <!ENTITY updateManual.panelUI.label "Gam &brandShorterName; manyenne">
 
+<!ENTITY updateRestart.message2 "Inge nwoyo cako oyoto, &brandShorterName; bi dwoko dirica matino ki dirica mamegi ma tye ayaba ento pe tye i kit me Yeny me Mung.">
 <!ENTITY updateRestart.header.message2 "Nwo cako me keto ngec manyen i &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "Nwo cako ka i dwoki">
 <!ENTITY updateRestart.acceptButton.accesskey "N">
@@ -962,6 +963,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Nwo cako me keto ngec manyen i &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
+<!ENTITY pageAction.addToUrlbar.label "Medi i Lanyut me kanonge">
+<!ENTITY pageAction.removeFromUrlbar.label "Kwany ki i lanyut me kanonge">
 
 <!ENTITY pageAction.sendTabToDevice.label "Cwal dirica matidi i nyonyo">
 <!ENTITY sendToDevice.syncNotReady.label "Ribo nyonyo…">
