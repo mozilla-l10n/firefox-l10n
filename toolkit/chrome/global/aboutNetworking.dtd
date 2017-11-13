@@ -12,7 +12,7 @@
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Obnovit">
 <!ENTITY aboutNetworking.autoRefresh           "Automatické obnovení každé 3 sekundy">
-<!ENTITY aboutNetworking.hostname              "Adresa server">
+<!ENTITY aboutNetworking.hostname              "Adresa serveru">
 <!ENTITY aboutNetworking.port                  "Port">
 <!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
