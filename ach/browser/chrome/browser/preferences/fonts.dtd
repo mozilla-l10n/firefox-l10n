@@ -64,6 +64,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "W">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Kit ma kicoyo kwede pi gin manonge iye ma loko ne tek">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Kit ma kicoyo kwede man kitiyo kwede pi gin manonge iye ma loko tek ma pe otucco cocce.">
 
 <!ENTITY languages.customize.Fallback.auto        "Makwongo pi kabedo ma kombedi">

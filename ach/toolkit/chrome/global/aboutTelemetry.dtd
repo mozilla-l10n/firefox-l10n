@@ -21,6 +21,7 @@
 <!ENTITY aboutTelemetry.moreInformations "Itye ka yenyo ngec mapol?">
 
 
+<!ENTITY aboutTelemetry.homeSection "Acakki">
 <!ENTITY aboutTelemetry.generalDataSection "  Tic lumuku">
 <!ENTITY aboutTelemetry.environmentDataSection "  Data me kama orumu wa">
 <!ENTITY aboutTelemetry.sessionInfoSection "  Ngec me Kare">
