@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY tabCrashed.closeTab2  "Փակել ներդիրը">
 <!ENTITY tabCrashed.restoreTab "Վերականգնել ներդիրը">
 <!ENTITY tabCrashed.restoreAll "Վերականգնել վթարված բոլոր ներդիրները">
 
@@ -14,6 +15,7 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "Վա՜յ։ Ձեր ներդիրը հենց նոր վթարվեց։">
+<!ENTITY tabCrashed.offerHelp2 "Մենք կարող ենք օգնել:">
 <!ENTITY tabCrashed.requestHelp "Կօգնե՞ք մեզ։">
 <!ENTITY tabCrashed.requestHelpMessage "Վթարի զեկույցներն օգնում են մեզ վերլուծել խնդիրները և դարձնել &brandShortName;-ն ավելի լավը։">
 <!ENTITY tabCrashed.requestReport "Զեկուցել այս ներդիրը">

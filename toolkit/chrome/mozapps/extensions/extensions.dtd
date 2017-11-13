@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "Նախորդ էջ">
 <!ENTITY cmd.forward.tooltip                  "Հաջորդ էջ">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Որոշ ընդլայնումներ չեն կարող ստուգվել:">
 <!ENTITY showAllExtensions.button.label       "Ցուցադրել բոլորը">
 <!ENTITY debugAddons.label                    "Վրիպազերծել հավելումները">
@@ -118,6 +119,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Ցուցադրել այս թարմացման նշումները">
 <!ENTITY cmd.hideReleaseNotes.label           "Թաքցնել Թողարկման Նշումները">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Թաքցնել այս թարմացման թողարկման նշումները">
+<!ENTITY cmd.findReplacement.label            "Գտնել փոխարինող">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -254,7 +256,6 @@
 <!ENTITY pluginDeprecation.description "Ինչ-որ բան բացակայու՞մ է: Որոշ բաղադրիչներ այլևս չեն աջակցվում &brandShortName;-ի կողմից:">
 <!ENTITY pluginDeprecation.learnMore "Իմանալ ավելին:">
 
-<!ENTITY legacyWarning.description "Ինչ-որ բան բացակայո՞ւմ է: Որոշ ընդլայնումներ այլևս չեն աջակցվում &brandShortName;-ի կողմից:">
 <!ENTITY legacyWarning.showLegacy "Ցուցադրել հնացած ընդլայնումները">
 <!ENTITY legacyExtensions.title "Հնացած ընդլայնումներ">
 <!ENTITY legacyExtensions.description "Այս ընդլայնումները չեն համապատասխանում &brandShortName;-ի պահանջներին և ապաակտիվացվել են:">
