@@ -405,7 +405,7 @@
 <!ENTITY pref_panels_move_up "Montar">
 <!ENTITY pref_panels_move_down "Davalar">
 
-<!ENTITY datareporting_notification_title "estatisticas &amp; donadas de &brandShortName;">
+<!ENTITY datareporting_notification_title "Estatisticas &amp; donadas de &brandShortName;">
 <!ENTITY datareporting_notification_action "Causir çò que mandi">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Causir quinas informacions mandi">
