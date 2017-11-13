@@ -3,3 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.providerTitle               "ຜູ້ໃຫ້ບໍລິການ">
+<!ENTITY aboutUrlClassifier.provider                    "ຜູ້ໃຫ້ບໍລິການ">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "ເວລາອັບເດດຫຼ້າສຸດ">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "ເວລາອັບເດດຄັ້ງຕໍ່ໄປ">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "ເວລາປິດກັບຄືນ">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "ສະຖານະອັບເດດຫຼ້າສຸດ">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "ອັບເດດ">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "ແຄຊ໌">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "ຟື້ນຟູ">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "ລົບລ້າງ">
+<!ENTITY aboutUrlClassifier.cacheTableName              "ຊື່ຕາຕະລາງ">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "ສະແດງລາຍລະອຽດ">

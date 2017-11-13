@@ -14,10 +14,13 @@
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
 <!ENTITY robots.errorShortDescText "ພວກເຮົາໄດ້ມາຢ້ຽມຢາມທ່ານດ້ວຍຄວາມສັນຕິພາບ ແລະ ຄວາມປາດຖະໜາດີ.">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
+<!ENTITY robots.errorLongDesc1 "ຫຸ່ນຍົນບໍ່ອາດຈະກະທຳຮ້າຍຕໍ່ມະນຸດ, ຢຸດນິ່ງ, ປ່ອຍໃຫ້ມະນຸດຕົກຢູ່ໃນອັນຕະລາຍໄດ້">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
 <!ENTITY robots.errorLongDesc2 "ຫຸ່ນຍົນໄດ້ເຫັນສີ່ງທີ່ປະຊາຊົນຂອງທ່ານບໍເຊື່ອ.">
 <!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
+<!ENTITY robots.errorLongDesc3 "ຫຸ່ນຍົນເປັນສະຫາຍພາສຕິກຜູ່ມ່ວນຊື່ນ.">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
+<!ENTITY robots.errorLongDesc4 "ຫຸ່ນຍົນມີກົ້ນທີ່ເຫຼື້ອມແຈ້ງຢ່າໄປລອງກັດຫຼິ້ນລະ.">
 <!-- TV: Battlestar Galactica (2004 series). From the opening text. -->
 <!ENTITY robots.errorTrailerDescText "ແລະ ພວກເຂົາມີແຜນການ.">
 <!-- TV: Battlestar Galactica (2004 series). Common expletive referring to Cylons. -->
