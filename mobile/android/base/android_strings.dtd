@@ -541,6 +541,8 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Էջը հեռացվել է">
 
+<!ENTITY folder_removed "Թղթապանակը հեռացվել է">
+
 <!ENTITY bookmark_edit_title "Խմբագրել Էջանիշը">
 <!ENTITY bookmark_edit_folder_title "Խմբագրել թղթապանակը">
 <!ENTITY bookmark_edit_name "Անունը">
