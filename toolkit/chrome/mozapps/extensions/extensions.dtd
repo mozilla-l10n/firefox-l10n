@@ -67,7 +67,7 @@
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "С">
 <!ENTITY updates.resetUpdatesToManual.label          "Све додатке мануелно надогради">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "м">
-<!ENTITY updates.updating.label               "Надоградња додатака">
+<!ENTITY updates.updating.label               "Ажурирам додатке">
 <!ENTITY updates.installed.label              "Ваши додаци су ажурирани.">
 <!ENTITY updates.downloaded.label             "Ваши додаци су преузети.">
 <!ENTITY updates.restart.label                "Поново покрените да бисте довршили инсталацију">
@@ -173,7 +173,7 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Име">
 <!ENTITY sort.name.tooltip                    "Сортирај по имену">
-<!ENTITY sort.dateUpdated.label               "Последња надоградња">
+<!ENTITY sort.dateUpdated.label               "Последње ажурирање">
 <!ENTITY sort.dateUpdated.tooltip             "Сортирај по датуму ажурирања">
 <!ENTITY sort.relevance.label                 "По значају">
 <!ENTITY sort.relevance.tooltip               "Поређај по значају">
@@ -202,7 +202,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "надоградња">
+<!ENTITY addon.update.postfix                 "ажурирање">
 <!ENTITY addon.undoAction.label               "Опозови">
 <!ENTITY addon.undoAction.tooltip             "Опозови ову радњу">
 <!ENTITY addon.undoRemove.label               "Опозови">
