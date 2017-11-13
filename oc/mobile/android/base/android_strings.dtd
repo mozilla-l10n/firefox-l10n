@@ -66,19 +66,19 @@
 <!ENTITY  crash_closing_alert "Quitar sens mandar cap de rapòrt de plantatge ?">
 <!ENTITY  sending_crash_report "Mandadís del rapòrt de plantatge\u2026">
 <!ENTITY  crash_close_label "Tampar">
-<!ENTITY  crash_restart_label "Tornar aviar &brandShortName;">
+<!ENTITY  crash_restart_label "Reaviar &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Picar un tèrme de recercar o una adreça">
 
 <!ENTITY bookmark "Marcapaginas">
-<!ENTITY bookmark_remove "Suprimir lo marcapaginas">
-<!ENTITY bookmark_added "Marcapaginas apondut">
+<!ENTITY bookmark_remove "Suprimir lo marcapagina">
+<!ENTITY bookmark_added "Marcapagina apondut">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Es ja dins los marcapaginas">
-<!ENTITY bookmark_removed "Marcapaginas suprimit">
-<!ENTITY bookmark_updated "Marcapaginas mes a jorn">
+<!ENTITY bookmark_removed "Marcapagina suprimit">
+<!ENTITY bookmark_updated "Marcapagina mes a jorn">
 <!ENTITY bookmark_options "Opcions">
 <!ENTITY bookmark_save "Enregistrar">
 <!ENTITY screenshot_added_to_bookmarks "Captura d’ecran aponduda als marcapaginas">
@@ -543,7 +543,7 @@
 
 <!ENTITY folder_removed "Dorsièr levat">
 
-<!ENTITY bookmark_edit_title "Modificar lo marcapaginas">
+<!ENTITY bookmark_edit_title "Modificar lo marcapagina">
 <!ENTITY bookmark_edit_folder_title "Modificar lo dossièr">
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Emplaçament">
@@ -727,7 +727,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_browsing_notification_title "Navigacion convidat activada">
 <!ENTITY guest_browsing_notification_text "Tocatz per ne sortir">
 
-<!ENTITY exit_guest_session_title "&brandShortName; tornar aviar ara">
+<!ENTITY exit_guest_session_title "&brandShortName; es per reaviar">
 <!ENTITY exit_guest_session_text "Las donadas de navigacion d\&apos;aquela session seràn suprimidas.">
 
 <!-- Miscellaneous -->
