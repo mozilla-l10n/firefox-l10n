@@ -395,7 +395,7 @@
 <!ENTITY pref_dialog_remove "Suprimir">
 <!ENTITY pref_dialog_activitystream_header_content "Contengut suplementari">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Marcapaginas recents">
-<!ENTITY pref_dialog_activitystream_visited "Visitat">
+<!ENTITY pref_dialog_activitystream_visited "Sites visitats">
 
 <!ENTITY pref_search_last_toast "Se pòt pas suprimir o desactivar vòtre darrièr motor de recèrca.">
 
@@ -430,7 +430,7 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportador de plantatge">
 <!ENTITY datareporting_wifi_title2 "Servici de localizacion &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Ajudatz &vendorShortName; a mapar lo mond ! Parteja la localizacion approximativa de rets Wi-Fi e mobils de vòstres periferics per melhorar nòstre servici de geolocalizacion.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Ajuda &vendorShortName; a mapar lo monde. Parteja la localizacion approximativa de rets Wi-Fi e mobils de vòstres periferics per melhorar nòstre servici de geolocalizacion.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -844,7 +844,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_bookmarked "Apondut als marcapaginas">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_visited "Visitats">
+<!ENTITY activity_stream_highlight_label_visited "Visitat">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tendéncia">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
