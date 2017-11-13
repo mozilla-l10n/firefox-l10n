@@ -10,14 +10,14 @@
 <!ENTITY firstrun_privacy_subtext "Privatno pretraživanje sa zaštitom od praćenja blokira pratioce dok pretražujete i neće pamtiti vašu historiju nakon što završite sa pretraživanjem.">
 <!ENTITY firstrun_panel_title_customize "Prilagodi">
 <!ENTITY firstrun_customize_message "Prilagodite &brandShortName; sebi.">
-<!ENTITY firstrun_customize_subtext "Prilagodite &brandShortName; sa dodacima. Blokirajte reklame, dodatje mogućnosti ili izaberite temu koja vam najviše leži.">
+<!ENTITY firstrun_customize_subtext "Prilagodite &brandShortName; sa dodacima. Blokirajte reklame, dodajte mogućnosti ili izaberite temu koja vam najviše leži.">
 <!ENTITY firstrun_bookmarks_title "Historija">
-<!ENTITY firstrun_bookmarks_message "Tvoji favoriti, naprijed i centar">
-<!ENTITY firstrun_bookmarks_subtext "Uzmi rezultate od svojih oznaka i historije kada pretražuješ.">
+<!ENTITY firstrun_bookmarks_message "Vaši favoriti, naprijed i u sredini">
+<!ENTITY firstrun_bookmarks_subtext "Dobijte rezultate iz vaših zabilješki i historije kada pretražujete.">
 <!ENTITY firstrun_data_title "Podatak">
 <!ENTITY firstrun_data_message "Manje podataka, veća ušteda">
 <!ENTITY firstrun_data_subtext2 "Onemogućite slike da bi trošili manje podataka na svakoj stranici koju posjetite.">
-<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_title "Sinhronizacija">
 <!ENTITY firstrun_sync_message2 "Nastavite gdje ste stali.">
 <!ENTITY firstrun_sync_subtext2 "Iskoristite Sinhronizaciju da nađete zabilješke, lozinke i druge stvari koje ste sačuvali u &brandShortName; na svim vašim uređajima.">
 <!ENTITY firstrun_signin_message "Povežite se, započnite">
