@@ -227,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Igengo woko kano data pi kakube man.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Igengo woko jami angeya pi kakube man.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
 
 <!ENTITY searchItem.title             "Yeny">
@@ -238,13 +239,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Alamabuk">
+<!ENTITY bookmarksMenuButton2.label         "Jami ayera me alamabuk">
 <!ENTITY bookmarksMenuButton.other.label    "Alamabuk Mukene">
 <!ENTITY bookmarksMenuButton.mobile.label   "Alamabuk me cing">
 <!ENTITY viewBookmarksSidebar2.label        "Nen gintic alama buk ma inget">
+<!ENTITY hideBookmarksSidebar.label         "Kan lanyut nget me alamabuk">
 <!ENTITY viewBookmarksToolbar.label         "Nen gintic alama buk">
 <!ENTITY hideBookmarksToolbar.label         "Kan gitic me alamabuk">
 <!ENTITY searchBookmarks.label              "Yeny Alamabuk">
 <!ENTITY bookmarkingTools.label             "Gtic me keto alamabuk">
+<!ENTITY addBookmarksMenu.label             "Med jami ayera me alamabuk ii Gitic">
+<!ENTITY removeBookmarksMenu.label          "Kwany jami ayera me alamabuk ki i Gitic">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -391,6 +396,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Medi i Jami ayera ma okane">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Kob bot gintic">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -400,7 +407,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Kob bot nying gin ayera">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Mwon ii Jami ayera ma okane">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "M">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "War ki ii Jami ayera ma okane">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "W">
 <!ENTITY customizeMenu.removeFromToolbar.label "Kwany ki bot gintic">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
 <!ENTITY customizeMenu.removeFromMenu.label "Kwany ki bot nying gin ayera">
@@ -432,6 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ngec:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Nong kony i yenyo jami! Yeny &#x1F50E; ma inget tam amiya me yeny.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Lok ter…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Lok ter…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
@@ -676,6 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "K">
 
 <!ENTITY sidebarCloseButton.tooltip     "Lor gintic ma inget">
+<!ENTITY sidebarMenuClose.label         "Lor lanyut me nget">
 
 <!ENTITY quitApplicationCmdWin2.label       "Kat woko">
 <!ENTITY quitApplicationCmdWin2.accesskey   "a">
@@ -825,11 +837,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "N">
 <!ENTITY syncToolbarButton.label      "Ribo">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Ywar jami ma imaro loyo ii gitic onyo jami ayera ma okane.">
 <!ENTITY customizeMode.menuAndToolbars.empty "I mito gin tic mukene?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Yer ki ikin med-ikome alip ki alip">
 <!ENTITY customizeMode.restoreDefaults "Dwok i makwongo">
 <!ENTITY customizeMode.done "Otum">
 <!ENTITY customizeMode.titlebar "Gintic me wiye">
+<!ENTITY customizeMode.extraDragSpace "Kabedo me ywac">
 <!ENTITY customizeMode.toolbars2 "Gitic">
 <!ENTITY customizeMode.lwthemes "Theme">
 <!ENTITY customizeMode.lwthemes.myThemes "Theme mamega">
@@ -838,6 +852,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Gam them mapol">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "Ywar ka i bol jami kany me gwoko gi kama cok ento woko me gitic mamegi…">
+<!ENTITY customizeMode.overflowList.title2 "Jami ayera ma okane">
+<!ENTITY customizeMode.overflowList.description "Ywar ka i bol jami kany me gwoko gi kama cok ento woko me gitic mamegi…">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
