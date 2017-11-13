@@ -22,6 +22,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName;-ի յուրահատկություններ">
+<!ENTITY aboutSupport.featureName "Անուն">
+<!ENTITY aboutSupport.featureVersion "Տարբերակ">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Փորձարարական հատկություններ">
 <!ENTITY aboutSupport.experimentName "Անուն">
