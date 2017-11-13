@@ -29,10 +29,10 @@
 <!ENTITY sync.default.client.name '&formatS1; ikom &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Ket Alama Buk me Acaki'>
+<!ENTITY bookmarks.folder.menu.label 'Jami ayera me alamabuk'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Dan'>
-<!ENTITY bookmarks.folder.toolbar.label 'Keto alama me me Gitic'>
+<!ENTITY bookmarks.folder.tags.label 'Lanyut'>
+<!ENTITY bookmarks.folder.toolbar.label 'Gitic me alamabuk'>
 <!ENTITY bookmarks.folder.other.label 'Alamabuk Mukene'>
 <!ENTITY bookmarks.folder.desktop.label 'Alamabuk me wang kompiuta'>
 <!ENTITY bookmarks.folder.mobile.label 'Alama me pot buk ma kiwoto kwede'>
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'Dok cen i yeny'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Ki joli i &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Dony iyie wek i rib dirica matino, alama buk, donyo iyie ki mukene mamegi.'>
+<!ENTITY fxaccount_getting_started_description2 'Dony iyie wek i rib dirica matino, alamabuk, donyo iyie ki mukene mamegi.'>
 <!ENTITY fxaccount_getting_started_get_started 'Caki'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Itye ka tic ki kit me &syncBrand.shortName.label; ma con?'>
 

@@ -28,7 +28,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Kakube">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Cak keto dirica matidi i lain">
+<!ENTITY firstrun_tabqueue_message_off "Cak cano dirica matidi">
 <!ENTITY firstrun_tabqueue_subtext_off "gwok lakub pi tic ma lacen &brandShortName; ka i tye ka gudu i purugram mukene">
 
 <!ENTITY firstrun_tabqueue_message_on "Loc!">
@@ -47,7 +47,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Alama me buk">
+<!ENTITY  bookmarks_title "Alamabuk">
 <!ENTITY  history_title "Gin mukato">
 
 <!ENTITY  switch_to_tab "Lokke i dirica matidi">
@@ -70,18 +70,18 @@
 
 <!ENTITY url_bar_default_text2 "Yeny onyo ket kanonge">
 
-<!ENTITY bookmark "Alama buk">
+<!ENTITY bookmark "Alamabuk">
 <!ENTITY bookmark_remove "Kwany alamabuk woko">
-<!ENTITY bookmark_added "Kimedo Alama me buk">
+<!ENTITY bookmark_added "Kimedo alamabuk">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Dong kiketo alama i potbuk">
-<!ENTITY bookmark_removed "Kikwanyo woko Alama me buk">
-<!ENTITY bookmark_updated "Kimedo Alama me buk">
+<!ENTITY bookmark_removed "Kikwanyo woko alamabuk">
+<!ENTITY bookmark_updated "Kimedo alamabuk">
 <!ENTITY bookmark_options "Me ayera">
 <!ENTITY bookmark_save "Gwoki">
-<!ENTITY screenshot_added_to_bookmarks "Cal me wang kio kimedo i alama me buk">
+<!ENTITY screenshot_added_to_bookmarks "Kimedo cal ii alamabuk">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -139,7 +139,7 @@
 <!ENTITY settings "Tero">
 <!ENTITY settings_title "Ter">
 <!ENTITY pref_category_general "Weng">
-<!ENTITY pref_category_general_summary3 "Gang, Leb, Yoo me dirica ma tidi">
+<!ENTITY pref_category_general_summary3 "Acakki, leb, cano dirica matidi">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -213,22 +213,22 @@
 <!ENTITY pref_remember_signons2 "Poo ikom donyo iyie">
 <!ENTITY pref_manage_logins "Lo donyo iyie">
 
-<!ENTITY pref_category_home "Gang">
-<!ENTITY pref_category_home_summary "Yik potbuk me gang mamegi">
+<!ENTITY pref_category_home "Acakki">
+<!ENTITY pref_category_home_summary "Yub potbuk me acakki mamegi">
 <!ENTITY pref_category_home_panels "Dirica">
 <!ENTITY pref_category_home_add_ons "Med-ikome">
 <!ENTITY pref_home_updates2 "Ngec manyen me jami">
 <!ENTITY pref_home_updates_enabled "Kicako">
 <!ENTITY pref_home_updates_wifi "Ki i Wi-Fi keken">
-<!ENTITY pref_category_home_homepage "Potbuk me gang">
+<!ENTITY pref_category_home_homepage "Potbuk me acakki">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
 <!ENTITY home_homepage_every_new_tab "Bene tic pa dirica matidi manyen">
-<!ENTITY home_homepage_title "Ter potbuk me gang">
+<!ENTITY home_homepage_title "Ter potbuk me acakki">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; Gang">
+<!ENTITY home_homepage_radio_default "&brandShortName; Acakki">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -300,7 +300,7 @@
 <!ENTITY custom_tabs_hint_url_copy "Kiloko URL">
 
 <!ENTITY pref_pwa "Purugram me kakube me diro ma lamal">
-<!ENTITY pref_pwa_summary "Yee me medo purugram me kakube i wang kio me acaki">
+<!ENTITY pref_pwa_summary "Yee me medo purugram me kakube i wang kio me acakki">
 
 <!ENTITY tracking_protection_prompt_title "Kombedi ki gwokke ikom lubo kor">
 <!ENTITY tracking_protection_prompt_text "Geng matek jami ma lubo kor wek pe i par.">
@@ -485,9 +485,9 @@
 <!ENTITY contextmenu_open_new_tab "Yab ki iyi Tab Manyen">
 <!ENTITY contextmenu_open_private_tab "Yab i dirica matidi me mung">
 <!ENTITY contextmenu_remove "Kwany">
-<!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
+<!ENTITY contextmenu_add_to_launcher "Med I Kio me Acakki">
 <!ENTITY contextmenu_add_page_shortcut "Med yoo macek me potbuk">
-<!ENTITY contextmenu_set_as_homepage "Ter calo potbuk me gang">
+<!ENTITY contextmenu_set_as_homepage "Ter calo Potbuk me Acakki">
 <!ENTITY contextmenu_share "Nywak">
 <!ENTITY contextmenu_pasteandgo "Mwon ka iciti">
 <!ENTITY contextmenu_paste "Dani">
@@ -528,7 +528,7 @@
 <!ENTITY pref_scroll_title_bar2 "Yeny me wang kio ma opong">
 <!ENTITY pref_scroll_title_bar_summary2 "Kan lanyut me &brandShortName; ka itye ka dok piny i potbuk">
 
-<!ENTITY pref_tab_queue_title3 "Keto dirica matidi i lain">
+<!ENTITY pref_tab_queue_title3 "Cano dirica matidi">
 <!ENTITY pref_tab_queue_summary4 "Gwok kakube naka wa tyen ma lacen ma iyabo &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
@@ -581,7 +581,7 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName; Gang">
+<!ENTITY home_title "&brandShortName; Acakki">
 <!ENTITY home_history_title "Gin mukato">
 <!ENTITY home_synced_devices_smartfolder "Nyonyo ma ki ribo">
 <!ENTITY home_synced_devices_number "&formatD; nyonyo">
@@ -819,17 +819,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; tye kakare">
 <!ENTITY whatsnew_notification_summary "Niang ngo manyen i kit man">
 
-<!ENTITY promotion_add_to_homescreen "Med i kio me gang">
+<!ENTITY promotion_add_to_homescreen "Med i kio me acakki">
 
 <!ENTITY promotion_add_page_shortcut "Med yoo macek me potbuk">
 
 <!ENTITY helper_first_offline_bookmark_title "Kwan mape ikube iwi yamo">
 <!ENTITY helper_first_offline_bookmark_message "Nong jami mamegi me Neno me Kwan i Alamabuk, bene mape iwiyamo.">
-<!ENTITY helper_first_offline_bookmark_button "Cit i alamabuk">
+<!ENTITY helper_first_offline_bookmark_button "Cit ii alamabuk">
 
 <!ENTITY helper_triple_readerview_open_title "Nonge mape iwiyamo">
 <!ENTITY helper_triple_readerview_open_message "Ket alamabuk i jami me Neno me Kwan me kwano gi mape iwiyamo.">
-<!ENTITY helper_triple_readerview_open_button "Med ikom alamabuk">
+<!ENTITY helper_triple_readerview_open_button "Medi ikom alamabuk">
 
 <!ENTITY activity_stream_topsites "Kakube maloyo">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
@@ -864,11 +864,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "Odonyo ii wang kio ma opong">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
-<!ENTITY pwa_add_to_launcher_confirm "+ Med i kio me acaki">
+<!ENTITY pwa_add_to_launcher_confirm "+ Med i Kio me Acakki">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
-<!ENTITY pwa_add_to_launcher_badge2 "Med i kio me acaki">
+<!ENTITY pwa_add_to_launcher_badge2 "Med i Kio me Acakki">
 <!ENTITY pwa_continue_to_website "Mede i Kakube">
-<!ENTITY pwa_onboarding_sumo "Itwero medo mayot kakube man i Kio me acaki mamegi me nongo cutcut ki yenyo oyot calo itye katic ki purugram.">
+<!ENTITY pwa_onboarding_sumo "Itwero medo mayot kakube man i Kio me acakki mamegi me nongo cutcut ki yenyo oyot calo itye katic ki purugram.">
