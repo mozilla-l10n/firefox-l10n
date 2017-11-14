@@ -35,7 +35,12 @@
 ">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite da li u nazivu datoteke postoji greška u velikim/malim slovima, ili neka druga greška.</li> <li>Provjerite da li je datoteka premještena, izbrisana ili joj je promijenjen naziv.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Provjerite da li u nazivu datoteke postoji greška u velikim/malim slovima, ili neka druga greška.</li>
+  <li>Provjerite da li je datoteka premještena, izbrisana ili joj je promijenjen naziv.</li>
+</ul>
+">
 
 <!ENTITY fileAccessDenied.title "Pristup datoteci je odbijen">
 <!ENTITY fileAccessDenied.longDesc "
@@ -79,8 +84,12 @@
 <!ENTITY contentEncodingError.title "Greška u enkodiranju sadržaja">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Molimo da kontaktirate vlasnike web stranice kako biste ih informisali o ovom problemu.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "Nesiguran tip fajla">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Molimo da kontaktirate vlasnike web stranice kako biste ih informisali o ovom problemu.</li> </ul>">
+<!ENTITY unsafeContentType.title "Nesiguran tip datoteke">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Molimo da kontaktirate vlasnike web stranice kako biste ih informisali o ovom problemu.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Veza je resetovana">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -92,21 +101,50 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Možda ćete trebati instalirati dodatni softver da otvorite ovu adresu.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy server odbija veze">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Provjerite da li su postavke proxyja ispravne.</li> <li>Kontaktirajte vašeg mrežnog administratora da provjerite da li proxy server radi.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Provjerite da li su postavke proxyja ispravne.</li>
+  <li>Kontaktirajte vašeg mrežnog administratora da provjerite da li proxy server 
+    radi.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Ne mogu da pronađem proxy server">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Provjerite da li su postavke proxyja ispravne.</li> <li>Provjerite radi li podatkovna ili Wi-Fi veza vašeg uređaja. <button id='wifi'>Omogući Wi-Fi</button> </li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "
+<ul>
+  <li>Provjerite da li su postavke proxyja ispravne.</li>
+  <li>Provjerite radi li podatkovna ili Wi-Fi veza vašeg uređaja.
+    <button id='wifi'>Omogući Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Stranica ne preusmjerava ispravno">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Ovaj problem ponekad može biti izazvan onemogućavanjem ili odbijanjem prihvatanja kolačića.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Ovaj problem ponekad može biti izazvan onemogućavanjem ili odbijanjem prihvatanja
+    kolačića.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Neočekivani odgovor od servera">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Provjerite da li je na vaš sistem instaliran Personal Security Manager.</li> <li>Ovo može biti usljed nestandardne konfiguracije servera.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Provjerite da li je na vaš sistem Personal Security Manager
+    instaliran.</li>
+  <li>Ovo može biti usljed nestandardne konfiguracije servera.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "Neuspjela sigurna veza">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.</li> <li>Molimo da kontaktirate vlasnike web stranice i da ih obavijestite o ovom problemu.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.</li>
+  <li>Molimo da kontaktirate vlasnike web stranice i da ih obavijestite o ovom problemu.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Neuspjela sigurna veza">
 <!ENTITY nssBadCert.longDesc2 "
@@ -131,7 +169,7 @@ uređaja.
 
 ">
 
-<!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
+<!ENTITY cspBlocked.title "Blokirana sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je spriječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Oštećen sadržaj">
@@ -146,7 +184,12 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodati izuzetak ukoliko koristite internet konekciju kojoj ne vjerujete u potpunosti ili ako niste navikli da vidite upozorenje za ovaj server.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "
+<p>Ne biste trebali dodati izuzetak ukoliko koristite internet konekciju kojoj ne vjerujete u potpunosti ili ako niste navikli da vidite upozorenje za ovaj server.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Molimo da obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
