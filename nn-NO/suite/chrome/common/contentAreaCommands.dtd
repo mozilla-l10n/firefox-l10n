@@ -69,7 +69,7 @@
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameAsCmd.label         "Lagre ramme som…">
 <!ENTITY saveFrameCmd.label           "Lagre ramme">
-<!ENTITY saveFrameCmd.accesskey       "S">
+<!ENTITY saveFrameCmd.accesskey       "r">
 <!ENTITY printFrameCmd.label          "Skriv ut ramma…">
 <!ENTITY printFrameCmd.accesskey      "S">
 <!ENTITY saveLinkAsCmd.label          "Lagre lenkjemål som…">

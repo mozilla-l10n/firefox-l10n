@@ -13,7 +13,7 @@
 <!ENTITY errors.label         "Feil">
 <!ENTITY errors.accesskey     "e">
 <!ENTITY warnings.label       "Åtvaringar">
-<!ENTITY warnings.accesskey   "d">
+<!ENTITY warnings.accesskey   "Å">
 <!ENTITY messages.label       "Meldingar">
 <!ENTITY messages.accesskey   "M">
 <!ENTITY clear.label          "Tøm">
