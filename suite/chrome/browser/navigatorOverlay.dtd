@@ -95,7 +95,7 @@
 
 <!ENTITY cookieMessageTitle.label "Løyve for infokapslar endra">
 <!ENTITY cookieDisplayCookiesCmd.label "Handter lagra infokapslar">
-<!ENTITY cookieDisplayCookiesCmd.accesskey "B">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "H">
 <!ENTITY cookieAllowCookiesCmd.label "Tillat infokapslar frå denne nettstaden">
 <!ENTITY cookieAllowCookiesCmd.accesskey "T">
 <!ENTITY cookieAllowCookiesMsg.label "Infokapslar frå denne nettstaden vil allttid tillatast.">

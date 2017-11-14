@@ -5,10 +5,10 @@
 <!ENTITY  untitledTab            "(Namnlaus)">
 <!ENTITY  newTab.label           "Ny fane">
 <!ENTITY  newTab.accesskey       "N">
-<!ENTITY  closeTab.label         "Lukk fane">
+<!ENTITY  closeTab.label         "Lat att fane">
 <!ENTITY  closeTab.accesskey         "L">
-<!ENTITY  closeOtherTabs.label   "Lukk andre faner">
-<!ENTITY  closeOtherTabs.accesskey         "O">
+<!ENTITY  closeOtherTabs.label   "Lat att andre faner">
+<!ENTITY  closeOtherTabs.accesskey         "a">
 <!ENTITY  reloadAllTabs.label    "Oppdater alle faner">
 <!ENTITY  reloadAllTabs.accesskey         "d">
 <!ENTITY  reloadTab.label        "Oppdater fane">
