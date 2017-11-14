@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
+<!ENTITY popupWindowAllowCmd.label      "Tillat sprettoppvindauge frå denne nettstaden">
+<!ENTITY popupWindowAllowCmd.accesskey  "o">
 <!ENTITY openLinkCmdInTab.label       "Opne lenkje i ny fane">
 <!ENTITY openLinkCmdInTab.accesskey   "p">
 <!ENTITY openLinkCmd.label            "Opne lenkje i nytt vindauge">
@@ -15,6 +17,8 @@
 <!ENTITY openFrameCmd.accesskey       "O">
 <!ENTITY openFrameCmdInTab.label      "Opne ramme i ny fane">
 <!ENTITY openFrameCmdInTab.accesskey  "f">
+<!ENTITY keywordfield.label           "Legg til eit nykelord i dette søket…">
+<!ENTITY keywordfield.accesskey       "L">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis berre denne ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY goBackCmd.label              "Tilbake">
