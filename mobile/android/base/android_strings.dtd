@@ -677,9 +677,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "D\&apos;unas donadas personalas pòdon pas èsser escafadas">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
-<!ENTITY bookmarkhistory_import_both "Importacion dels marcapaginas e de l\&apos;istoric dempuèi Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas dempuèi Android">
-<!ENTITY bookmarkhistory_import_history "Importacion de l\&apos;istoric dempuèi Android">
+<!ENTITY bookmarkhistory_import_both "Importar los marcapaginas e istoric
+                                      d’Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas
+                                           d’Android">
+<!ENTITY bookmarkhistory_import_history "Importacion de l\&apos;istoric
+                                         d’Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
 
 <!ENTITY suggestions_prompt3 "Volètz activar las suggestions de recèrca ?">
