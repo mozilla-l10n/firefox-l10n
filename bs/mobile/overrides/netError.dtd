@@ -10,7 +10,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Ne mogu da se povežem">
+<!ENTITY connectionFailure.title "Povezivanje nije moguće">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Ova adresa je zabranjena">
@@ -34,8 +34,8 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "Fajl nije pronađen">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite da li u nazivu fajla postoji greška u velikim/malim slovima, ili neka druga greška.</li> <li>Provjerite da li je fajl premješten, obrisan ili mu je promijenjen naziv.</li> </ul>">
+<!ENTITY fileNotFound.title "Datoteka nije pronađena">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite da li u nazivu datoteke postoji greška u velikim/malim slovima, ili neka druga greška.</li> <li>Provjerite da li je datoteka premještena, izbrisana ili joj je promijenjen naziv.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Pristup datoteci je odbijen">
 <!ENTITY fileAccessDenied.longDesc "
