@@ -13,7 +13,7 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Procurar atualizações">
-<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.checkForUpdatesButton.accesskey   "c">
 <!ENTITY update.updateButton.label3               "Reiniciar para atualizar o &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
