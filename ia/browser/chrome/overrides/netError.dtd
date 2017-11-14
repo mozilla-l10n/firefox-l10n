@@ -56,7 +56,7 @@
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY malformedURI.title1 "Guai. Ille adresse non pare correcte.">
 
-<!ENTITY netInterrupt.title "La connexion esseva interrumpite">
+<!ENTITY netInterrupt.title "Le connexion ha essite interrumpite">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento expirate">
@@ -162,7 +162,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adder un exception…">
 
-<!ENTITY errorReporting.automatic2 "Reporta le errores simile pro adjutar Mozilla a identificar e blocar le sitos malitiose">
+<!ENTITY errorReporting.automatic2 "Reporta errores como tal pro adjutar Mozilla a identificar e blocar le sitos malitiose">
 <!ENTITY errorReporting.learnMore "Saper plus…">
 
 <!ENTITY remoteXUL.title "XUL remote">
