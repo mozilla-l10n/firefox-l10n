@@ -85,6 +85,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Bijlage hernoemen…">
 <!ENTITY renameAttachmentCmd.accesskey "B">
+<!ENTITY reorderAttachmentsCmd.label "Volgorde bijlagen wijzigen…">
+<!ENTITY reorderAttachmentsCmd.accesskey "V">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Alles selecteren">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
@@ -102,6 +105,30 @@
 <!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Volgorde bijlagen wijzigen">
+<!ENTITY moveAttachmentTopPanelBtn.label "Bovenaan plaatsen">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "e">
+<!ENTITY moveAttachmentUpPanelBtn.label "Omhoog verplaatsen">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "t">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Samen plaatsen">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "p">
+<!ENTITY moveAttachmentDownPanelBtn.label "Omlaag verplaatsen">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "r">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Onderaan plaatsen">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "d">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Selectie sorteren: A - Z">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
+     the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "S">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Selectie sorteren: Z - A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "S">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Beeld">
@@ -283,6 +310,8 @@
 <!ENTITY removeAttachment.accesskey "v">
 <!ENTITY renameAttachment.label "Hernoemen…">
 <!ENTITY renameAttachment.accesskey "H">
+<!ENTITY reorderAttachments.label "Volgorde bijlagen wijzigen…">
+<!ENTITY reorderAttachments.accesskey "d">
 <!ENTITY selectAll.label "Alles selecteren">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Bestand(en) koppelen…">
