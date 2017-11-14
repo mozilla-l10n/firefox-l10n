@@ -12,13 +12,13 @@
 <!ENTITY aboutPage.checkForUpdates.available2   "Preuzmi nadogradnju">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Preuzimam nadogradnju…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Instaliraj nadogradnju">
-<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.faq.label                    "Često postavljena pitanja">
 <!ENTITY aboutPage.support.label                "Podrška">
 <!ENTITY aboutPage.privacyPolicy.label          "Polica privatnosti">
 <!ENTITY aboutPage.rights.label                 "Upoznajte vaša prava">
 <!ENTITY aboutPage.relNotes.label               "Bilješke o izdanju">
 <!ENTITY aboutPage.credits.label                "Zasluge">
 <!ENTITY aboutPage.license.label                "Informacije o licenciranju">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox i Firefox logo su zaštićeni znakovi Mozilla Fondacije.">
