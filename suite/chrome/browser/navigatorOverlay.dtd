@@ -123,6 +123,10 @@
 
 <!ENTITY popupAllowCmd.label "Tillat sprettoppvindauge frå denne nettsida">
 <!ENTITY popupAllowCmd.accesskey "T">
+<!ENTITY popupDefaultCmd.label "Bruk standardreglar for sprettoppvindauge">
+<!ENTITY popupDefaultCmd.accesskey "B">
+<!ENTITY popupBlockCmd.label "Blokker sprettoppvindauge frå denne nettstaden">
+<!ENTITY popupBlockCmd.accesskey "B">
 <!ENTITY popupsManage.label "Handsam sprettoppvindauge">
 <!ENTITY popupsManage.accesskey "H">
 

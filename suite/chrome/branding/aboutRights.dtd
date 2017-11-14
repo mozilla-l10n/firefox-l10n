@@ -6,6 +6,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Om rettane dine">
+<!ENTITY rights.intro "&brandFullName; er programvare basert på fri og open kjeldekode, utvikla av eit samfunn med tusenvis av medlemmar rundt om i verda. Det er nokre ting du bør vite:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -15,6 +16,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1b "Mozilla Public License">
 
 <!ENTITY rights.intro-point2b "her">
 <!ENTITY rights.intro-point2c ".">
@@ -35,9 +37,11 @@
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Utvidingstenester: ">
+<!ENTITY rights.addons-term1 "Opne programinnstillingane">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Trygg nettlesing: ">
+<!ENTITY rights.safebrowsing-term4 "Trygg nettlesing er no slått av">
 
 <!-- location aware browsing points for branded builds -->
 
