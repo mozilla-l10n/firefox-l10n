@@ -1,21 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-
 <!ENTITY window.title "Веб-консоль">
-<!ENTITY browserConsole.title "Консоль браузера">
-
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY openURL.label     "Открыть URL в новой вкладке">
 <!ENTITY openURL.accesskey "к">
-
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -74,7 +69,7 @@
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "Дополнение или Chrome Workers">
 
-<!ENTITY filterOutput.placeholder "Фильтр вывода">
+<!ENTITY filterOutput.placeholder "Поиск в консоли">
 <!ENTITY btnClear.label        "Очистить">
 <!ENTITY btnClear.tooltip      "Очистить вывод веб-консоли">
 <!ENTITY btnClear.accesskey    "и">

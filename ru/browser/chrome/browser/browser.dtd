@@ -425,7 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
-<!ENTITY moreMenu.label "Больше">
+<!ENTITY moreMenu.label "Ещё">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Введите поисковый запрос или адрес">
@@ -858,9 +858,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "п">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Получить больше тем">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "о">
-<!ENTITY customizeMode.emptyOverflowList.description "Перемещайте элементы сюда, чтобы иметь их под рукой, но не на панели инструментов…">
+<!ENTITY customizeMode.emptyOverflowList.description "Перетаскивайте элементы сюда, чтобы иметь их под рукой, но не на панели инструментов…">
 <!ENTITY customizeMode.overflowList.title2 "Расширенное меню">
-<!ENTITY customizeMode.overflowList.description "Перемещайте элементы сюда, чтобы иметь их под рукой, но не на панели инструментов…">
+<!ENTITY customizeMode.overflowList.description "Перетаскивайте элементы сюда, чтобы иметь их под рукой, но не на панели инструментов…">
 <!ENTITY customizeMode.uidensity "Значки">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
