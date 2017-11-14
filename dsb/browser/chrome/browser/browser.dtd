@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Meni cytańskich znamjenjow">
 <!ENTITY bookmarksMenuButton.other.label    "Druge cytańske znamjenja">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobilne cytańske znamjenja">
-<!ENTITY viewBookmarksSidebar2.label        "Rědku cytańskich znamjenjow pokazaś">
+<!ENTITY viewBookmarksSidebar2.label        "Bocnicu cytańskich znamjenjow pokazaś">
 <!ENTITY hideBookmarksSidebar.label         "Bocnicu cytańskich znamjenjow schowaś">
 <!ENTITY viewBookmarksToolbar.label         "Rědku cytańskich znamjenjow pokazaś">
 <!ENTITY hideBookmarksToolbar.label         "Rědku cytańskich znamjenjow schowaś">
