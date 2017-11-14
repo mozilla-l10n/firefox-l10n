@@ -28,4 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Protección contra o seguimento">
+<!ENTITY trackingProtection.description2                 "Algúns sitios web usan elementos que poden facer un seguimento da súa actividade na Internet. Coa protección contra o seguimento, Firefox bloqueará moitos elementos de seguimento que poden recoller información sobre a súa navegación.">
 <!ENTITY trackingProtection.startTour1                   "Vexa como funciona">
