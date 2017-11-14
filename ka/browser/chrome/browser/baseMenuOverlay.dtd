@@ -45,10 +45,10 @@
 
 <!ENTITY servicesMenuMac.label          "მომსახურებები">
 
-<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName;-ის დამალვა">
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName;-ის ჩაკეცვა">
 <!ENTITY hideThisAppCmdMac2.commandkey  "დ">
 
-<!ENTITY hideOtherAppsCmdMac.label      "სხვების დამალვა">
+<!ENTITY hideOtherAppsCmdMac.label      "სხვების ჩაკეცვა">
 <!ENTITY hideOtherAppsCmdMac.commandkey "დ">
 
 <!ENTITY showAllAppsCmdMac.label        "ყველას გამოჩენა">
