@@ -62,7 +62,7 @@
 <!ENTITY  crash_sorry "Žao nam je">
 <!ENTITY  crash_comment "Dodajte komentar (komentari su javno vidljivi)">
 <!ENTITY  crash_allow_contact2 "Dozvoli &vendorShortName; da me kontaktira vezano za ovaj izvještaj">
-<!ENTITY  crash_email "Vaš email">
+<!ENTITY  crash_email "Vaša e-pošta">
 <!ENTITY  crash_closing_alert "Izađi bez slanja izvještaja o rušenju?">
 <!ENTITY  sending_crash_report "Šaljem izvještaj o rušenju\u2026">
 <!ENTITY  crash_close_label "Zatvori">
