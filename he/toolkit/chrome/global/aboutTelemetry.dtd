@@ -59,3 +59,4 @@ JSON גולמי
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  הערה: ניפוי שגיאות עבור משפטי SQL איטיים פעילה. מחרוזות SQL מלאות אמנם יוצגו, אבל הן לא תישלחנה אל Telemetry.">
+<!ENTITY aboutTelemetry.hideStackSymbols "הצגת נתוני מחסנית גולמיים">
