@@ -8,7 +8,7 @@
 <!ENTITY  closeTab.label         "Lukk fane">
 <!ENTITY  closeTab.accesskey         "L">
 <!ENTITY  closeOtherTabs.label   "Lukk andre faner">
-<!ENTITY  closeOtherTabs.accesskey         "O">
+<!ENTITY  closeOtherTabs.accesskey         "L">
 <!ENTITY  reloadAllTabs.label    "Oppdater alle faner">
 <!ENTITY  reloadAllTabs.accesskey         "d">
 <!ENTITY  reloadTab.label        "Oppdater fane">
