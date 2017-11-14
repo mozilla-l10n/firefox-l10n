@@ -13,7 +13,7 @@
 <!ENTITY jobTitleInput.accesskey "T">
 
 <!ENTITY colorGroup.label "Color:">
-<!ENTITY grayRadio.label "Scade gris">
+<!ENTITY grayRadio.label "Scala de gris">
 <!ENTITY grayRadio.accesskey "S">
 <!ENTITY colorRadio.label "Color">
 <!ENTITY colorRadio.accesskey "C">
