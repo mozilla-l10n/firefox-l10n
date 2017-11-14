@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Meni zapołožkow">
 <!ENTITY bookmarksMenuButton.other.label    "Druhe zapołožki">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobilne zapołožki">
-<!ENTITY viewBookmarksSidebar2.label        "Lajstu zapołožkow pokazać">
+<!ENTITY viewBookmarksSidebar2.label        "Bóčnicu zapołožkow pokazać">
 <!ENTITY hideBookmarksSidebar.label         "Bóčnicu zapołožkow schować">
 <!ENTITY viewBookmarksToolbar.label         "Lajstu zapołožkow pokazać">
 <!ENTITY hideBookmarksToolbar.label         "Lajstu zapołožkow schować">
