@@ -353,7 +353,7 @@
 <!ENTITY pref_use_system_font_size "Koristi sistemski određenu veličinu fonta">
 <!ENTITY pref_use_system_font_size_summary "Prilagodi sadržaj prema sistemski određenoj veličini fonta">
 
-<!ENTITY pref_media_autoplay_enabled "Dozvoli autoplay">
+<!ENTITY pref_media_autoplay_enabled "Dozvoli automatsku reprodukciju">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolišite da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
 <!ENTITY pref_zoom_force_enabled "Uvijek omogući zumiranje">
 <!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke da bi mogli zumirati svaku stranicu">
@@ -369,7 +369,7 @@
 <!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
 <!ENTITY pref_history_search_suggestions "Prikaži historiju pretraživanja">
 <!ENTITY pref_import_options "Opcije uvoza">
-<!ENTITY pref_import_android_summary "Uvezi zabilješke i historiju iz nativnog browsera">
+<!ENTITY pref_import_android_summary "Uvezi zabilješke i historiju iz izvornog pretraživača">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Otvoreni tabovi">
@@ -379,7 +379,7 @@
 <!ENTITY pref_private_data_cookies2 "Kolačići i aktivne prijave">
 <!ENTITY pref_private_data_passwords2 "Spašene prijave">
 <!ENTITY pref_private_data_cache "Keš">
-<!ENTITY pref_private_data_offlineApps "Offline podaci web stranice">
+<!ENTITY pref_private_data_offlineApps "Vanmrežni podaci web stranice">
 <!ENTITY pref_private_data_siteSettings2 "Postavke stranice">
 <!ENTITY pref_private_data_downloadFiles2 "Preuzimanja">
 <!ENTITY pref_private_data_syncedTabs "Sinhronizovani tabovi">
@@ -390,8 +390,8 @@
 <!ENTITY pref_vendor_faqs "Često postavljena pitanja">
 <!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
 
-<!ENTITY pref_dialog_set_default "Postavi kao glavno">
-<!ENTITY pref_dialog_default "Izvorno">
+<!ENTITY pref_dialog_set_default "Postavi kao zadano">
+<!ENTITY pref_dialog_default "Zadano">
 <!ENTITY pref_dialog_remove "Ukloni">
 <!ENTITY pref_dialog_activitystream_header_content "Dodatni sadržaj">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Nedavne zabilješke">
@@ -403,7 +403,7 @@
 <!ENTITY pref_panels_hide "Sakrij">
 <!ENTITY pref_panels_reorder "Promijeni redoslijed">
 <!ENTITY pref_panels_move_up "Pomjeri gore">
-<!ENTITY pref_panels_move_down "Pomjeri dolje">
+<!ENTITY pref_panels_move_down "Pomjeri dole">
 
 <!ENTITY datareporting_notification_title "&brandShortName; statistika i podaci">
 <!ENTITY datareporting_notification_action "Izaberite šta ćete dijeliti">
