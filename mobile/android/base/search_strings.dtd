@@ -20,7 +20,7 @@
 
 <!ENTITY pref_clearHistory_confirmation 'Istoric escafat'>
 <!ENTITY pref_clearHistory_dialogMessage 'Suprimir l’ensemble de l’istoric de recèrca d\&apos;aquel periferic ?'>
-<!ENTITY pref_clearHistory_title 'Voidar l\&apos;istoric de recèrca'>
+<!ENTITY pref_clearHistory_title 'Voidar l’istoric de recèrca'>
 
 <!ENTITY search_widget_button_label 'Recercar'>
 

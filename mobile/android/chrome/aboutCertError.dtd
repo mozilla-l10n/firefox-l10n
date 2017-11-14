@@ -23,7 +23,7 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "Sortissètz-me d'aicí !">
 
 <!ENTITY certerror.expert.heading "Ai compreses los risques">
-<!ENTITY certerror.expert.content "S'avètz compres çò que se passa, podètz dire a &brandShortName; de començar a se fisar de l'identificacion del site. <b>Quitament se vos fisatz del site, aquesta error pòt voler dire que qualqu'un es a jogar amb vòstra connexion.</b>">
+<!ENTITY certerror.expert.content "S’avètz compres çò que se passa, podètz dire a &brandShortName; de començar a se fisar de l’identificacion del site. <b>Quitament se vos fisatz del site, aquesta error pòt voler dire que qualqu’un es a jogar amb vòstra connexion.</b>">
 <!ENTITY certerror.expert.contentPara2 "Apondatz pas d'exception, levat se sabètz que i a una bona rason per qu'aqueste site utilize pas d'identificacion segura.">
 <!ENTITY certerror.addTemporaryException.label "Visitar lo site">
 <!ENTITY certerror.addPermanentException.label "Apondre una excepcion permanenta">

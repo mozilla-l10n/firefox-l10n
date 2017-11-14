@@ -50,7 +50,7 @@
 <!ENTITY  bookmarks_title "Marcapaginas">
 <!ENTITY  history_title "Istoric">
 
-<!ENTITY  switch_to_tab "Anar a l\&apos;onglet">
+<!ENTITY  switch_to_tab "Anar a l’onglet">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Mòstra de la version fòra linha">
@@ -58,7 +58,7 @@
 <!ENTITY  crash_reporter_title "Rapòrt de fracàs de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a fracassat. Vòstres onglets deurián aparéisser sus la pagina d\&apos;aviada de &brandShortName; a son aviada que ven.">
 <!ENTITY  crash_send_report_message3 "Assabentar &vendorShortName; d\&apos;aqueste problèma per que pòsca èsser corregit">
-<!ENTITY  crash_include_url2 "Inclure l\&apos;URL de la pagina ont vos trobàvetz">
+<!ENTITY  crash_include_url2 "Inclure l’URL de la pagina ont vos trobàvetz">
 <!ENTITY  crash_sorry "O planhèm">
 <!ENTITY  crash_comment "Apondre un comentari (los comentaris son visibles publicament)">
 <!ENTITY  crash_allow_contact2 "Permetre a &vendorShortName; de vos contactar a prepaus d\&apos;aqueste rapòrt">
@@ -116,7 +116,7 @@
 <!ENTITY site_security "Seguretat del site">
 <!ENTITY edit_mode_cancel "Anullar">
 
-<!ENTITY close_tab "Tampar l\&apos;onglet">
+<!ENTITY close_tab "Tampar l’onglet">
 <!ENTITY one_tab "1 onglet">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -199,7 +199,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "CONSELH : ajustatz quin que siá site a vòstra lista de motors de recèrca per premsa longa sul camp de recèrca puèi tocatz l\&apos;icòna &formatI;.">
+<!ENTITY pref_search_hint2 "CONSELH : ajustatz quin que siá site a vòstra lista de motors de recèrca per premsa longa sul camp de recèrca puèi tocatz l\&apos;icòna &formatI;.">
 <!ENTITY pref_category_advanced "Avançat">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -300,7 +300,7 @@
 <!ENTITY custom_tabs_hint_url_copy "URL copiada">
 
 <!ENTITY pref_pwa "Aplicacions web progressivas">
-<!ENTITY pref_pwa_summary "Autorizar d\&apos;apondre las aplicacions web sus l\&apos;ecran d\&apos;acuèlh">
+<!ENTITY pref_pwa_summary "Autorizar d’apondre las aplicacions web sus l’ecran d’acuèlh">
 
 <!ENTITY tracking_protection_prompt_title "Ara amb proteccion contra lo traçatge">
 <!ENTITY tracking_protection_prompt_text "Los elements de pistatge son blocats aital vos preocupetz pas d\&apos;aquò.">
@@ -332,7 +332,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Per \&quot;Dobrir de ligams multiples\&quot;, deuriatz activar la permission \&apos;Superpausar d\&apos;autras aplicacions\&apos; per &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Per « Dobrir de ligams multiples », deuriatz activar la permission « Superpausar d’autras aplicacions » per &brandShortName;">
 
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
 <!ENTITY pref_char_encoding_on "Afichar lo menú">
@@ -367,7 +367,7 @@
 <!ENTITY pref_sync2 "Connexion">
 <!ENTITY pref_sync_summary2 "Sincronizar los onglets, marcapaginas, senhals, e istoric">
 <!ENTITY pref_search_suggestions "Afichar las suggestions de recèrca">
-<!ENTITY pref_history_search_suggestions "Afichar l\&apos;istoric de recèrca">
+<!ENTITY pref_history_search_suggestions "Afichar l’istoric de recèrca">
 <!ENTITY pref_import_options "Opcions d’importacion">
 <!ENTITY pref_import_android_summary "Importar los marcapaginas e istoric del navigator d’origina">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
@@ -385,7 +385,7 @@
 <!ENTITY pref_private_data_syncedTabs "Onglets sincronizats">
 
 <!ENTITY pref_default_browser "Definir coma navigator per defaut">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar l\&apos;ajuda de Mozilla">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar l’ajuda de Mozilla">
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Retorns d\&apos;utilizacion">
@@ -401,7 +401,7 @@
 
 <!ENTITY pref_panels_show "Afichar">
 <!ENTITY pref_panels_hide "Amagar">
-<!ENTITY pref_panels_reorder "Modificar l\&apos;òrdre">
+<!ENTITY pref_panels_reorder "Modificar l’òrdre">
 <!ENTITY pref_panels_move_up "Montar">
 <!ENTITY pref_panels_move_down "Davalar">
 
@@ -412,7 +412,7 @@
 <!ENTITY datareporting_notification_summary "Per melhorar vòstra experiéncia, &brandShortName; manda automaticament d’informacions a &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
-<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title; : &datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title; : &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -424,7 +424,7 @@
 <!ENTITY datareporting_fhr_summary2 "Manda de donadas a &vendorShortName; al subjècte de la santat de vòstre navigator e vos ajuda a comprene las performanças de vòstre navigator">
 <!ENTITY datareporting_abouthr_title "Afichar mon rapòrt de santat">
 <!ENTITY datareporting_telemetry_title "Telemetria">
-<!ENTITY datareporting_telemetry_summary "Manda d\&apos;informacions sus las performàncias, lo material, l\&apos;utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
+<!ENTITY datareporting_telemetry_summary "Manda d’informacions sus las performàncias, lo material, l’utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navigador mai estable e securizat">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -450,7 +450,7 @@
 <!ENTITY char_encoding "Encodatge de caractèr">
 
 <!ENTITY share "Partejar">
-<!ENTITY share_title "Partejar amb l\&apos;ajuda de">
+<!ENTITY share_title "Partejar amb l’ajuda de">
 <!ENTITY share_image_failed "Impossible de partejar aqueste imatge">
 <!ENTITY save_as_pdf "Enregistrar en PDF">
 <!ENTITY print "Imprimir">
@@ -466,7 +466,7 @@
 <!ENTITY tabs_private "Privats">
 <!ENTITY set_image_fail "Impossible de partejar aqueste imatge">
 <!ENTITY set_image_path_fail "Impossible de partejar aqueste imatge">
-<!ENTITY set_image_chooser_title "Enregistrar l\&apos;imatge jos">
+<!ENTITY set_image_chooser_title "Enregistrar l’imatge jos">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -485,13 +485,13 @@
 <!ENTITY contextmenu_open_new_tab "Dobrir dins un onglet novèl">
 <!ENTITY contextmenu_open_private_tab "Dobrir en navigacion privada">
 <!ENTITY contextmenu_remove "Suprimir">
-<!ENTITY contextmenu_add_to_launcher "Apondre a l\&apos;ecran d\&apos;acuèlh">
+<!ENTITY contextmenu_add_to_launcher "Apondre a l’ecran d\&apos;acuèlh">
 <!ENTITY contextmenu_add_page_shortcut "Apondre un acorchi a la pagina">
 <!ENTITY contextmenu_set_as_homepage "Definir coma pagina d\&apos;acuèlh">
 <!ENTITY contextmenu_share "Partejar">
 <!ENTITY contextmenu_pasteandgo "Pegar e i anar">
 <!ENTITY contextmenu_paste "Empegar">
-<!ENTITY contextmenu_copyurl "Copiar l\&apos;adreça">
+<!ENTITY contextmenu_copyurl "Copiar l’adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
 <!ENTITY contextmenu_subscribe "S\&apos;abonar a aquesta pagina">
 <!ENTITY contextmenu_site_settings "Editar los paramètres del site">
@@ -514,7 +514,7 @@
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 <!ENTITY doorhanger_login_no_username "[Pas cap de nom d\&apos;utilizaire]">
-<!ENTITY doorhanger_login_edit_title "Modificar l\&apos;identificant">
+<!ENTITY doorhanger_login_edit_title "Modificar l’identificant">
 <!ENTITY doorhanger_login_edit_username_hint "Nom d\&apos;utilizaire">
 <!ENTITY doorhanger_login_edit_password_hint "Senhal">
 <!ENTITY doorhanger_login_edit_toggle "Afichar lo senhal">
@@ -587,9 +587,9 @@
 <!ENTITY home_synced_devices_number "&formatD; periferics">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 periferic">
-<!ENTITY home_history_back_to2 "Tornar a l\&apos;istoric complet">
-<!ENTITY home_clear_history_button "Netejar l\&apos;istoric de navigacion">
-<!ENTITY home_clear_history_confirm "Volètz vertadièrament netejar l\&apos;istoric ?">
+<!ENTITY home_history_back_to2 "Tornar a l’istoric complet">
+<!ENTITY home_clear_history_button "Netejar l’istoric de navigacion">
+<!ENTITY home_clear_history_confirm "Volètz vertadièrament netejar l’istoric ?">
 <!ENTITY home_bookmarks_empty "Aquí s\&apos;afichan los marcapaginas servadas.">
 <!ENTITY home_closed_tabs_title2 "Tampaduras recentas">
 <!ENTITY home_last_tabs_empty "Aquí s\&apos;afichan vòtres onglets recents.">
@@ -681,7 +681,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                       d’Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas
                                            d’Android">
-<!ENTITY bookmarkhistory_import_history "Importacion de l\&apos;istoric
+<!ENTITY bookmarkhistory_import_history "Importacion de l’istoric
                                          d’Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
 
@@ -726,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Contunhar">
 <!ENTITY guest_session_dialog_cancel "Anullar">
 <!ENTITY new_guest_session_title "&brandShortName; es per reaviar">
-<!ENTITY new_guest_session_text2 "La persona que l\&apos;utiliza poirà pas veire cap de vòstras donadas de navigacion personalas (coma los senhals servats, istoric o marcapaginas).\n\nQuand vòstre convidat aurà acabat, sas donadas de navigacion seràn suprimidas e se restablirà vòstra session.">
+<!ENTITY new_guest_session_text2 "La persona que l’utiliza poirà pas veire cap de vòstras donadas de navigacion personalas (coma los senhals servats, istoric o marcapaginas).\n\nQuand vòstre convidat aurà acabat, sas donadas de navigacion seràn suprimidas e se restablirà vòstra session.">
 <!ENTITY guest_browsing_notification_title "Navigacion convidat activada">
 <!ENTITY guest_browsing_notification_text "Tocatz per ne sortir">
 
@@ -788,7 +788,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation_description "Apondre de foncionalitats novèlas a Firefox. Nòta: Los moduls pòdon desactivar unas restriccions.">
 <!ENTITY restrictable_feature_private_browsing "Navigacion privada">
 <!ENTITY restrictable_feature_private_browsing_description "Autorizar los membres de la familha a navigar sens enregistrar d\&apos;informacions suls sites qu\&apos;an visitat.">
-<!ENTITY restrictable_feature_clear_history "Voidar l\&apos;istoric">
+<!ENTITY restrictable_feature_clear_history "Escafar l’istoric">
 <!ENTITY restrictable_feature_clear_history_description "Autorizar los membres de la familha a escafar d\&apos;informacions al subjècte dels sites e paginas qu\&apos;an visitat.">
 <!ENTITY restrictable_feature_advanced_settings "Paramètres avançats">
 <!ENTITY restrictable_feature_advanced_settings_description "Aquò compren de marcapaginas importats, onglets restablits e mesas a jorn automaticas. Desactivatz-o se volètz de paramètres mai simples per totes los membres de la familha.">
@@ -822,7 +822,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; es a jorn">
 <!ENTITY whatsnew_notification_summary "Novetats d\&apos;aquela version">
 
-<!ENTITY promotion_add_to_homescreen "Apondre a l\&apos;ecran d\&apos;acuèlh">
+<!ENTITY promotion_add_to_homescreen "Apondre a l’ecran d’acuèlh">
 
 <!ENTITY promotion_add_page_shortcut "Apondre un acorchi a la pagina">
 
@@ -857,7 +857,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Suprimir">
-<!ENTITY activity_stream_delete_history "Suprimir de l\&apos;istoric">
+<!ENTITY activity_stream_delete_history "Suprimir de l’istoric">
 
 <!ENTITY private_tab_panel_title "Navigacion privada + proteccion contra lo traçatge">
 <!ENTITY private_tab_panel_description "&brandShortName; bloca d\&apos;elements de las paginas que pòdon espiar vòstra activitat.">
@@ -867,11 +867,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "Mòde plen ecran actiu">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
-<!ENTITY pwa_add_to_launcher_confirm "+ Apondre a l\&apos;ecran d\&apos;acuèlh">
+<!ENTITY pwa_add_to_launcher_confirm "+ Apondre a l’ecran d’acuèlh">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
-<!ENTITY pwa_add_to_launcher_badge2 "Apondre a l\&apos;ecran d\&apos;acuèlh">
+<!ENTITY pwa_add_to_launcher_badge2 "Apondre a l’ecran d’acuèlh">
 <!ENTITY pwa_continue_to_website "Contunhar cap al site web">
-<!ENTITY pwa_onboarding_sumo "Podètz facilament apondre aqueste site a vòstre ecran d\&apos;acuèlh per i accedir e navigar mai rapidament coma se foguèssetz dins l\&apos;aplicacion.">
+<!ENTITY pwa_onboarding_sumo "Podètz facilament apondre aqueste site a vòstre ecran d’acuèlh per i accedir e navigar mai rapidament coma se foguèssetz dins l’aplicacion.">
