@@ -49,7 +49,7 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Se connectar a &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Connectatz-vos per sincronizar vòstres onglets, marcapaginas, senhals &amp; plan mai encara.'>
 <!ENTITY fxaccount_getting_started_get_started 'Aviar'>
-<!ENTITY fxaccount_getting_started_old_firefox 'Utilizar una version anciana de &syncBrand.shortName.label; ?'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Utilizar una version anciana de &syncBrand.shortName.label; ?'>
 
 <!ENTITY fxaccount_status_auth_server 'Servidor de comptes'>
 <!ENTITY fxaccount_status_sync_now 'Sincronizar ara'>
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_status_linkprivacy2 'Politica de confidencialitat'>
 <!ENTITY fxaccount_remove_account 'Desconnectar&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 'Se desconnectar de Sync ?'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Se desconnectar de Sync ?'>
 <!ENTITY fxaccount_remove_account_dialog_message2 'Vòstras donadas de navigacion seràn servadas sus aqueste periferic, mas seràn pas mai sincronizadas amb vòstre compte.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
@@ -109,7 +109,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tocatz per vos connectar coma &formatS;'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Acabar la mesa a jorn &syncBrand.shortName.label; ?'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Acabar la mesa a jorn de &syncBrand.shortName.label; ?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tocatz per vos connectar coma &formatS;'>

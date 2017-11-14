@@ -131,7 +131,7 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada. </p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Quitar aquesta pagina !">
+<!ENTITY securityOverride.getMeOutOfHereButton "Sortissètz-me d'aicí !">
 <!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
