@@ -273,7 +273,7 @@
 
 <!ENTITY pref_tracking_protection_title2 "Proteccion contra lo traçatge">
 <!ENTITY pref_donottrack_title "Me pistar pas">
-<!ENTITY pref_donottrack_summary "&brandShortName; senhalarà als sites que volètz pas èsser pistat">
+<!ENTITY pref_donottrack_summary "&brandShortName; senhalarà als sites que refusatz lo traçatge">
 
 <!ENTITY pref_tracking_protection_enabled "Activada">
 <!ENTITY pref_tracking_protection_enabled_pb "En navigacion privada">
