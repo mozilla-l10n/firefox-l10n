@@ -2,21 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Quyền hạn">
 
 <!ENTITY  blockPopups.label           "Chặn các cửa sổ pop-up">
 <!ENTITY  blockPopups.accesskey       "C">
 
-<!ENTITY  notificationsPolicy.label            "Thông báo">
-<!ENTITY  notificationsPolicyLearnMore.label   "Tìm hiểu thêm">
-<!ENTITY  notificationsPolicyDesc3.label       "Chọn trang được phép gửi cho bạn thông báo">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "Chọn…">
 <!ENTITY  notificationsDoNotDisturb.label      "Không làm phiền tôi">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "K">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Không có thông báo nào được hiển thị cho đến khi bạn khởi động lại &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Ngoại lệ…">
-<!ENTITY  popupExceptions.accesskey   "N">
+<!ENTITY  popupExceptions.label                                 "Ngoại lệ…">
+<!ENTITY  popupExceptions.accesskey                             "N">
+
+<!ENTITY  notificationPermissions.label                         "Thông báo">
+<!ENTITY  notificationSettingsButton.label                      "Thiết lập…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Tìm hiểu thêm">
+
+<!ENTITY  locationPermissions.label                             "Vị trí">
+<!ENTITY  locationSettingsButton.label                          "Thiết lập…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
+
+<!ENTITY  cameraPermissions.label                               "Máy ảnh">
+<!ENTITY  cameraSettingsButton.label                            "Thiết lập…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
+
+<!ENTITY  microphonePermissions.label                           "Micrô">
+<!ENTITY  microphoneSettingsButton.label                        "Thiết lập…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Phông &amp; Màu sắc">
 
@@ -32,7 +45,7 @@
 <!ENTITY  colors.accesskey            "M">
 
 
-<!ENTITY languages.label              "Ngôn ngữ">
+<!ENTITY language2.label              "Ngôn ngữ">
 <!ENTITY chooseLanguage.label         "Chọn ngôn ngữ ưu tiên bạn muốn để hiển thị trang">
 <!ENTITY chooseButton.label           "Chọn…">
 <!ENTITY chooseButton.accesskey       "C">
@@ -52,8 +65,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Dịch bởi">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Nội dung DRM">
+<!ENTITY  drmContent2.label              "Nội dung quản lý bản quyền kỹ thuật số (DRM)">
 
-<!ENTITY  playDRMContent.label         "Phát nội dung có bảo vệ DRM">
-<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent2.label          "Phát nội dung DRM được kiểm soát">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "Tìm hiểu thêm">
