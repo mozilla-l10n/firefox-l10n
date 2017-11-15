@@ -123,12 +123,12 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Eliminar datos sin conexión">
 
 <!ENTITY certificateTab.label            "Certificados">
-<!ENTITY certPersonal2.description       "Cuando un servidor solicite el certificado personal">
+<!ENTITY certPersonal2.description       "Cuando un servidor solicite su certificado personal">
 <!ENTITY selectCerts.auto                "Seleccionar uno automáticamente">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Preguntarme cada vez">
 <!ENTITY selectCerts.ask.accesskey       "a">
-<!ENTITY enableOCSP.label                "Solicitar a los servidores respondedores de OCSP que confirmen la validez actual de los certificados">
+<!ENTITY enableOCSP.label                "Solicitar a los servidores de respuesta de OCSP que confirmen la validez actual de los certificados">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts2.label                "Ver certificados…">
 <!ENTITY viewCerts2.accesskey            "c">
