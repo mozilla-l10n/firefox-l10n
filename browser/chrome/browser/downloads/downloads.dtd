@@ -145,6 +145,7 @@
      This command is not currently available in the user interface, but the
      string was preserved by bug 1362207 to be used in a future version.
      -->
+<!ENTITY openDownloadsFolder.label        "Abrir cartafol de descargas">
 
 <!ENTITY clearDownloadsButton.label       "Borrar as descargas">
 <!ENTITY clearDownloadsButton.tooltip     "Borra as descargas rematadas, canceladas ou que fallaron">
