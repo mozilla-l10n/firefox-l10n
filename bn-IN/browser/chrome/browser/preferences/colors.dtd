@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "ওপরে আমার নির্বাচনের সাহায্যে এই পেজের দ্বারা উল্লেখ্য রঙগুলো ওভাররাইড করে:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "উপরে আপনার নির্বাচনের সাথে পেজের রঙ পুনঃস্থাপিত করুন">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "সর্বদা">
 <!ENTITY  overrideDefaultPageColors.auto.label   "শুধুমাত্র উচ্চ বৈসাদৃশ্য থিমের সাথে">

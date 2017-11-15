@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "সকল ট্যাব পুনরায় লোড করুন">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "অনুরূপ ট্যাব">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -46,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Device-এ লিঙ্ক পাঠান">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendToDeviceFeedback.label         "পাঠানো হয়েছে!">
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোর মধ্যে স্থানান্তর করুন">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন…">
@@ -95,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "পৃষ্ঠার উৎস">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -162,7 +174,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "চিহ্নিত বুকমার্ক পরিবর্তন করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenupopup.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenuitem.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন...">
 <!ENTITY addCurPagesCmd.label "সমস্ত ট্যাব বুকমার্ক করুন...">
@@ -218,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "আপনি এই ওয়েবসাইটের ক্ষেত্রে নোটিফিকেশন ব্লক করেছেন।">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "আপনি এই ওয়েবসাইটের ক্ষেত্রে স্থায়ী স্টোরেজ ব্লক করেছেন।">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখান">
 
 <!ENTITY searchItem.title             "অনুসন্ধান">
@@ -228,7 +240,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "বুকমার্ক">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "বুকমার্ক">
+<!ENTITY bookmarksSubview.label             "বুকমার্কগুলি">
+<!ENTITY bookmarksMenuButton2.label         "বুকমার্কস মেনু">
 <!ENTITY bookmarksMenuButton.other.label    "অন্যান্য বুকমার্ক">
 <!ENTITY bookmarksMenuButton.mobile.label   "মোবাইলের বুকমার্কগুলি">
 <!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক টুল-বার প্রদর্শন করা হবে">
@@ -239,8 +252,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "বুকমার্ক করার টুল">
 <!ENTITY addBookmarksMenu.label             "বুকমার্ক মেনুকে টুলবারে যোগ করুন">
 <!ENTITY removeBookmarksMenu.label          "বুকমার্ক মেনুকে টুলবার থেকে সরান">
-
-<!ENTITY containersMenu.label "কন্টেইনারস">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -258,6 +269,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ডাউনলোড">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "ডাউনলোডগুলি">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -339,7 +353,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "টুলবার এবং মেনু স্বনির্ধারণ করুন">
 <!ENTITY appMenuCustomizeExit.label "স্বনির্ধারণ প্রস্থান">
 <!ENTITY appMenuCustomizeExit.tooltip "স্বনির্ধারণ সমাপ্ত">
-<!ENTITY appMenuHistory.label "ইতিহাস">
 <!ENTITY appMenuHistory.showAll.label "সকল পূর্ববর্তী তথ্য প্রদর্শন করা হবে">
 <!ENTITY appMenuHistory.clearRecent.label "সম্প্রতি ব্যবহারের পূর্ববর্তী তথ্য মুছে ফেলুন…">
 <!ENTITY appMenuHistory.restoreSession.label "পূর্ববর্তী সেশান পুনরুদ্ধার করুন">
@@ -373,6 +386,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "সিঙ্কে সাইন ইন করুন">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ডিভাইসগুলির পরিচালনা করুন…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "সিঙ্ক হওয়া ট্যাবের সাইডবার দেখুন">
+
+<!ENTITY appMenuRecentHighlights.label "সাম্প্রতিক হাইলাইট">
 
 <!ENTITY customizeMenu.addToToolbar.label "টুল-বারে যোগ করুন">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -551,7 +566,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "বর্তমান ফ্রেম বুকমার্ক করুন">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ব">
-<!ENTITY copyURLCmd.label             "URL কপি করুন">
+<!ENTITY pageAction.copyLink.label    "লিংক কপি করুন">
+<!ENTITY copyURLFeedback.label        "অনুলিপি করা হয়েছে!">
 <!ENTITY emailPageCmd.label           "লিংক ই-মেইল করুন…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "নতুন নামে পৃষ্ঠা সংরক্ষণ করুন…">
@@ -575,8 +591,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ছ">
 <!ENTITY emailVideoCmd.label          "ভিডিও ই-মেইল করুন…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "ডিভাইসে ভিডিও পাঠান">
-<!ENTITY castVideoCmd.accesskey       "ঠ">
 <!ENTITY emailAudioCmd.label          "অডিও ই-মেইল করুন…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "এই প্লাগিনটি সক্রিয় করুন">
@@ -792,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ট্যাব সিঙ্কিং খুলুন আপনার অন্যান্য ডিভাইস থেকে ট্যাবের তালিকা দেখুন।">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "সিঙ্কড ট্যাবগুলি সন্ধান করুন">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -832,6 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "ডিফল্ট মান পুনরায় স্থাপন করা হবে">
 <!ENTITY customizeMode.done "সমাপ্ত">
 <!ENTITY customizeMode.titlebar "শিরোনাম বার">
+<!ENTITY customizeMode.extraDragSpace "টানার জায়গা">
 <!ENTITY customizeMode.toolbars2 "টুলবার">
 <!ENTITY customizeMode.lwthemes "থিমসমূহ">
 <!ENTITY customizeMode.lwthemes.myThemes "আমার থিমসমূহ">
@@ -862,6 +878,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ট্যাবলেট মোডের জন্য স্পর্শ ব্যবহার করুন">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "স্বয়ংক্রিয়-লুকানো">
+
 <!ENTITY getUserMedia.selectCamera.label "শেয়ার করার ক্যামেরা:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "শেয়ার করার মাইক্রোফোন :">
@@ -886,16 +904,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "সুরক্ষা সক্রিয় করুন">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "অনুসরণকরণ">
-<!ENTITY trackingContentBlocked.moreinfo "পৃষ্ঠার যে অংশগুলি অাপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
-<!ENTITY trackingContentBlocked.learnMore "আরও জানুন">
-<!ENTITY trackingContentBlocked.options "বিকল্প">
-<!ENTITY trackingContentBlocked.unblock2.label "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "সুরক্ষা সক্রিয় করুন">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করা হয়েছে">
-
 <!ENTITY pluginNotification.showAll.label "সব প্রদর্শন">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -912,8 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "বন্ধ">
-
-<!ENTITY appMenuSidebars.label         "সাইড-বার">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
@@ -961,7 +967,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName;-র একটি নতুন কপি ডাউনলোড করুন">
 
-<!ENTITY updateRestart.message "দ্রুততার সাথে পুনরায় চালু করার পরে, &brandShorterName; আপনার সব খোলা ট্যাব এবং উইন্ডোগুলি পুনরুদ্ধার করবে।">
+<!ENTITY updateRestart.message2 "দ্রুত পুনর্সূচনার পরে, &brandShorterName; আপনার সমস্ত খোলা ট্যাব এবং উইন্ডোগুলি পুনরুদ্ধার করবে যা ব্যক্তিগত ব্রাউজিং মোডে ছিল না।">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; আপডেট করতে পুনরায় চালু করুন।">
 <!ENTITY updateRestart.acceptButton.label "পুনরারম্ভ করুন এবং পুনরুদ্ধার করুন">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -973,5 +979,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "ঠিকানা বারে যোগ করুন">
 <!ENTITY pageAction.removeFromUrlbar.label "ঠিকানা বার থেকে অপসারণ করুন">
 
-<!ENTITY sendToDevice.label3 "পৃষ্ঠা থেকে ডিভাইসে পাঠান">
+<!ENTITY pageAction.sendTabToDevice.label "ডিভাইসে ট্যাব পাঠান">
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইসগুলিকে সিঙ্ক করা হচ্ছে…">
+
+<!ENTITY libraryButton.tooltip "দেখুন ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "অ্যাক্সেসিবিলিটি বৈশিষ্ট্য সক্রিয় করা হয়েছে">

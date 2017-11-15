@@ -8,12 +8,15 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
 <!ENTITY  enableSafeBrowsing.label        "বিপজ্জনক এবং প্রতারণামূলক কন্টেন্ট ব্লক করুন">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "বিপজ্জনক ডাউনলোড ব্লক করুন">
 <!ENTITY  blockDownloads.accesskey        "d">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "অবাঞ্ছিত এবং বিরল সফটওয়্যার সম্পর্কে অাপনাকে সাবধান করা হবে">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "ব্যতিক্রম...">
 <!ENTITY  addonExceptions.accesskey     "E">

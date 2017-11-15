@@ -6,16 +6,15 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "এটি অত্যন্ত লজ্জাজনক পরিস্থিতি।">
-<!ENTITY restorepage.problemDesc    "&brandShortName; দ্বারা উইন্ডো ও ট্যাবগুলি পুনরুদ্ধার করতে সমস্যা দেখা দিয়েছে। সম্প্রতি খোলা কোনো ওয়েব-পেজের ফলে এই সমস্যার সৃষ্টি হতে পারে।">
-<!ENTITY restorepage.tryThis        "নিম্নলিখিত উপায়ে সমস্যা মেটানোর চেষ্টা করুন:">
-<!ENTITY restorepage.restoreSome    "সমস্যার কারণ হিসাবে চিহ্নিত সন্দেহজনক এক অথবা অধিক সংখ্যক ট্যাব বন্ধ করুন">
-<!ENTITY restorepage.startNew       "ব্রাউজিংয়ের জন্য নতুন সেশান আরম্ভ করুন">
+<!ENTITY restorepage.errorTitle2    "দুঃখিত। আপনার পূর্বের পেজগুলি ফিরিয়ে আনতে আমাদের সমস্যা হচ্ছে।">
+<!ENTITY restorepage.problemDesc2   "আপনার পূর্ববর্তী ব্রাউজিং সেশন ফিরিয়ে আনতে সমস্যা হচ্ছে। সেশন পুনরুদ্ধার নির্বাচন করে আবার চেষ্টা করুন।">
+<!ENTITY restorepage.tryThis2       "এখনও আপনার সেশন পুনরুদ্ধার করতে অক্ষম? কিছুসময় একটা ট্যাবই সমস্যার কারণ হয়। পূর্ববর্তী ট্যাব গুলি দেখুন এবং যেগুলি আপনার পুনরুদ্ধার করার প্রয়োজন নেই সেগুলির পাশের টিক চিহ্ন উঠিয়ে দিয়ে পুনরুদ্ধার করুন।">
 
-<!ENTITY restorepage.tryagainButton "পুনরুদ্ধার করুন">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "বন্ধ করুন">
-<!ENTITY restorepage.close.access   "C">
+
+<!ENTITY restorepage.tryagainButton2 "সেশনকে পুনরুদ্ধার করুন">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "নতুন সেশন শুরু করুন">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "পুনরুদ্ধার করুন">
 <!ENTITY restorepage.listHeader     "উইন্ডো ও ট্যাব">
