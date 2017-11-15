@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "নিম্নলিখিত কুকিগুলি আপনার কম্পিউটারের মধ্যে সংরক্ষিত রয়েছে:">
+<!ENTITY     cookiesonsystem2.label         "নিম্নোক্ত কুকিগুলি আপনার কম্পিউটারে সংরক্ষিত আছে">
 <!ENTITY     cookiename.label               "কুকির নাম">
 <!ENTITY     cookiedomain.label             "সাইট">
 

@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "যোগ হওয়ার তারিখ">
 <!ENTITY col.lastmodified.label  "সর্বশেষ পরিবর্তনের সময়">
 
-<!ENTITY search.placeholder  "অনুসন্ধান">
+<!ENTITY historySearch.placeholder  "ইতিহাস খুঁজুন">
+<!ENTITY bookmarksSearch.placeholder  "বুকমার্কগুলি খুঁজুন">
 
 <!ENTITY cmd.find.key  "f">
 

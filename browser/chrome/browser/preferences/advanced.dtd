@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "এই বিল্ড কনফিগারেশনের জন্যে তথ্য রিপোর্ট করা নিস্ক্রিয় করা হয়েছে">
 
-<!ENTITY enableHealthReport1.label       "Mozilla-র কাছে স্বয়ংক্রিয়ভাবে প্রযুক্তিগত এবং ইন্টারঅ্যাকশন ডেটা পাঠাতে &brandShortName; অনুমোদন করুন">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "&brandShortName; কে Mozilla তে কারিগরী এবং ইন্টার‍্যাক্সান তথ্য পাঠাতে অনুমতি দিন">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "আরও জানুন">
 
 <!ENTITY dataCollection.label            "&brandShortName; তথ্য সংগ্রহ এবং ব্যবহার">
