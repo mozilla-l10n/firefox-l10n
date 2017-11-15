@@ -80,7 +80,7 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
+<!ENTITY contentEncodingError.title "Error d’encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Contactatz lo webmèstre del site per l’informar d’aqueste problèma.</li>
@@ -97,11 +97,15 @@
 <!ENTITY netReset.title "La connexion es estada reinicializada">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY netTimeout.title "Relambi d'espèra passat">
+<!ENTITY netTimeout.title "Relambi d’espèra passat">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "La connexion es pas estada compresa">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Benlèu es necessari d'installar una autra aplicacion per dobrir aqueste tipe d'adreça.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Benlèu es necessari d’installar una autra aplicacion per dobrir aqueste tipe d’adreça.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Lo servidor mandatòri refusa las connexions">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verificatz que los paramètres del proxy son corrèctes</li> <li>Contactatz vòstre administrator de ret per vos assegurar que lo servidor proxy fonciona.</li> </ul>">
@@ -112,7 +116,12 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Verificatz que los paramètres del proxy son corrèctes.</li> <li>Verificatz que la connexion donadas o WiFi de vòstre aparelh fonciona. <button id='wifi'>Activar lo Wifi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Redireccion de pagina incorrècta">
-<!ENTITY redirectLoop.longDesc "<ul> <li>La causa d'aqueste problèma pòt èsser la desactivacion o lo refús dels cookies.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>La causa d’aqueste problèma pòt èsser la desactivacion o lo refús dels
+    cookies.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Responsa inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verificatz que lo gestionari de seguretat personala (PSM) es installat sus vòstre sistèma.</li> <li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li> </ul>">
@@ -139,10 +148,10 @@ be temporary, and you can try again later.</li>
 <!ENTITY sharedLongDesc3 "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar mai tard.</li> <li>Se capitatz pas de navigar sus cap de site, verificatz la connexion donadas o WiFi de vòstre aparelh. <button id='wifi'>Activar lo Wifi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacht lo cargament d'aquesta pagina d'aquel biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacht lo cargament d’aquesta pagina d’aquel biais perque son estrategia de seguretat de contengut lo permet pas.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error deguda a un contengut corromput">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada. </p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada. </p><ul><li>Contactatz los proprietaris del site Web per los informar d’aqueste problèma.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sortissètz-me d’aicí !">
@@ -153,7 +162,12 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Vos cal pas apondre cap d'exception s'utilizatz una connexion a Internet dins la quala vos fisatz pas totalament o se sètz pas acostumats a recebre un avertiment per aqueste servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+<!ENTITY securityOverride.warningContent "
+<p>Vos cal pas apondre cap d’exception s’utilizatz una connexion a Internet dins la quala vos fisatz pas totalament o se sètz pas acostumat a recebre un avertiment per aqueste servidor.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l’informar d’aqueste problèma.</li></ul></p>">
