@@ -161,6 +161,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.afterDomain.label "ten o control do punteiro. Prema Esc para recuperar o control.">
+<!ENTITY pointerlockWarning.generic.label "Este documento ten o control do punteiro. Prema Esc para recuperar o control.">
 
 <!ENTITY closeWindow.label "Pechar xanela">
 <!ENTITY closeWindow.accesskey "P">
@@ -175,7 +177,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "Subscribirse a esta páxina…">
 <!ENTITY addCurPagesCmd.label "Marcar todas as lapelas…">
 <!ENTITY showAllBookmarks2.label "Amosar todos os marcadores">
+<!ENTITY recentBookmarks.label "Marcadores máis recentes">
+<!ENTITY otherBookmarksCmd.label "Outros marcadores">
+<!ENTITY mobileBookmarksCmd.label "Marcadores do móbil">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar máis marcadores">
+<!ENTITY showRecentlyBookmarked.label     "Amosar os marcadores máis recentes">
+<!ENTITY showRecentlyBookmarked.accesskey "m">
+<!ENTITY hideRecentlyBookmarked.label     "Agochar os marcadores máis recentes">
+<!ENTITY hideRecentlyBookmarked.accesskey "m">
 
 <!ENTITY backCmd.label                "Atrás">
 <!ENTITY backButton.tooltip           "Retroceder unha páxina">
