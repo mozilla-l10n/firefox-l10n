@@ -145,7 +145,7 @@ be temporary, and you can try again later.</li>
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque una error dins la transmission de donadas es estada detectada. </p><ul><li>Contactatz los proprietaris del site Web per los assabentar d'aqueste problèma.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O podètz apondre una excepcion…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Sortissètz-me d'aicí !">
+<!ENTITY securityOverride.getMeOutOfHereButton "Sortissètz-me d’aicí !">
 <!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -158,7 +158,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL distant">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l’informar d’aqueste problèma.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Impossible d'establir una connexion segura">
+<!ENTITY sslv3Used.title "Impossible d’establir una connexion segura">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Informacion avançada : SSL_ERROR_UNSUPPORTED_VERSION">

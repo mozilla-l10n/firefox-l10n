@@ -9,8 +9,8 @@
 <!ENTITY aboutPage.checkForUpdates.link         "Verificar las mesas a jorn »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Recèrca de mesas a jorn...">
 <!ENTITY aboutPage.checkForUpdates.none         "Pas cap de mesa a jorn disponibla">
-<!ENTITY aboutPage.checkForUpdates.available2   "Telecargament d'una mesa a jorn">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Telecargament d'una mesa a jorn…">
+<!ENTITY aboutPage.checkForUpdates.available2   "Telecargament d’una mesa a jorn">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Telecargament d’una mesa a jorn…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Installar la mesa a jorn">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Assisténcia">

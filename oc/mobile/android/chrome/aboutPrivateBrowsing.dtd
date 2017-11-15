@@ -13,8 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Sètz pas en mòde de navigacion privada">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloca d'elements de las paginas que pòdon espiar vòstra activitat de navigacion.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Serà pas memorizat cap istoric, pasmens contunharem d'enregistrar los dossièrs telecargats e los marcapaginas novèls sus vòstre periferic.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloca d’elements de las paginas que pòdon pistar vòstra activitat de navigacion.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Serà pas memorizat cap istoric, pasmens contunharem d’enregistrar los dossièrs telecargats e los marcapaginas novèls sus vòstre periferic.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
