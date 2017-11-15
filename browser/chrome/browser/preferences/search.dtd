@@ -15,10 +15,12 @@
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 <!ENTITY showURLBarSuggestions2.label           "ঠিকানা বার ফলাফলগুলিতে অনুসন্ধানের পরামর্শগুলি দেখান">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "অনুসন্ধানের পরামর্শগুলি লোকেশান বারে দেখানো হবেনা কারণ আপনি &brandShortName; কনফিগার করেছেন হিস্ট্রিতে মনে না রাখার জন্য।">
 
 <!ENTITY oneClickSearchEngines.label           "একক-ক্লিক সার্চ ইঞ্জিন">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "আপনি কীওয়ার্ড লিখতে শুরু করার সময় ঠিকানা বার এবং অনুসন্ধান বারের নীচে প্রদর্শিত বিকল্প অনুসন্ধান ইঞ্জিনগুলি নির্বাচন করুন।">
 
 <!ENTITY engineNameColumn.label                "সার্চ ইঞ্জিন">
 <!ENTITY engineKeywordColumn.label             "নির্দেশক শব্দ">
@@ -29,3 +31,4 @@
 <!ENTITY removeEngine.label                    "মুছে ফেলুন">
 <!ENTITY removeEngine.accesskey                "R">
 
+<!ENTITY findMoreSearchEngines.label           "আরো অনুসন্ধানের ইঞ্জিনগুলিকে খুঁজুন">
