@@ -29,5 +29,24 @@
 <!ENTITY day.4.name "Miércoles" >
 <!ENTITY day.5.name "Jueves" >
 <!ENTITY day.6.name "Viernes" >
+<!ENTITY day.7.name "Sábado" >
 
+<!ENTITY month.1.name "Enero" >
+<!ENTITY month.2.name "Febrero" >
+<!ENTITY month.3.name "Marzo" >
+<!ENTITY month.4.name "Abril" >
+<!ENTITY month.5.name "Mayo" >
+<!ENTITY month.6.name "Junio" >
+<!ENTITY month.7.name "Julio" >
+<!ENTITY month.8.name "Agosto" >
+<!ENTITY month.9.name "Septiembre" >
+<!ENTITY month.10.name "Octubre" >
+<!ENTITY month.11.name "Noviembre" >
+<!ENTITY month.12.name "Diciembre" >
 
+<!ENTITY onemonthbackward.tooltip "Un mes atrás" >
+<!ENTITY onemonthforward.tooltip "Un mes después" >
+<!ENTITY showToday.tooltip "Ir al día de hoy">
+<!ENTITY onedayforward.tooltip "Un día después">
+<!ENTITY onedaybackward.tooltip "Un día atrás">
+<!ENTITY showselectedday.tooltip "Mostrar eventos para el día seleccionado">
