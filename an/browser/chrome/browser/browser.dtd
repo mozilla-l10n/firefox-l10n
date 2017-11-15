@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ubrir lo panel d'o mensache">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ubrir lo panel de requesta de localización">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ubrir lo panel de mensaches d'instalación de complementos">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Chestionar lo permiso d'extracción d'o lienzo">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ubrir lo panel de mensaches d'almagazenamiento difuera de linia">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ubrir lo panel de mensaches d'alzar claus">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Chestionar l'uso de plugins">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ha blocau l'almagazenamiento de datos pa iste puesto web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha blocau las notificacions pa iste puesto web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ha blocau l'almagazenamiento persistent de datos pa iste puesto web.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Has blocau las finestras emerchents en este puesto web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amostrar lo historial">
 
