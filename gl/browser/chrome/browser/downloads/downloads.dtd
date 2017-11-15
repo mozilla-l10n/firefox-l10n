@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "f">
 <!ENTITY cmd.showMac.label                "Amosar no Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Amosar o cartafol de descargas">
 <!ENTITY cmd.retry.label                  "Tentar de novo">
 <!ENTITY cmd.goToDownloadPage.label       "Ir á páxina de descargas">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
@@ -63,11 +64,15 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Retirar do historial">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "Limpa o panel de previsualización">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Borrar as descargas">
 <!ENTITY cmd.clearDownloads.accesskey     "d">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.label               "Permitir a descarga">
+<!ENTITY cmd.unblock2.accesskey           "e">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -77,11 +82,37 @@
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
+<!ENTITY cmd.chooseUnblock.label          "Retira o ficheiro ou permite a descarga">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "Abre ou elimina o ficheiro">
+
+<!-- LOCALIZATION NOTE (showMoreInformation.label):
+     Displayed when hovering a blocked download, indicates that it's possible to
+     show more information for user to take the next action.
+     -->
+<!ENTITY showMoreInformation.label        "Amosar máis información">
+
+<!-- LOCALIZATION NOTE (openFile.label):
+     Displayed when hovering a complete download, indicates that it's possible to
+     open the file using an app available in the system.
+     -->
+<!ENTITY openFile.label                   "Abrir ficheiro">
+
+<!-- LOCALIZATION NOTE (retryDownload.label):
+     Displayed when hovering a download which is able to be retried by users,
+     indicates that it's possible to download this file again.
+     -->
+<!ENTITY retryDownload.label              "Reintentar descarga">
+
+<!-- LOCALIZATION NOTE (cancelDownload.label):
+     Displayed when hovering a download which is able to be cancelled by users,
+     indicates that it's possible to cancel and stop the download.
+     -->
+<!ENTITY cancelDownload.label             "Cancelar descarga">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
@@ -104,6 +135,16 @@
 <!ENTITY downloadsHistory.label           "Amosar todas as descargas">
 <!ENTITY downloadsHistory.accesskey       "s">
 
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Detalles da descarga">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
 <!ENTITY clearDownloadsButton.label       "Borrar as descargas">
 <!ENTITY clearDownloadsButton.tooltip     "Borra as descargas rematadas, canceladas ou que fallaron">
