@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "উন্মুক্ত ম্যাসেজ প্যানেল">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "অবস্থান আবেদনের প্যানেল খুলুন">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "অ্যাড-অন ইন্সটল করার ম্যাসেজ প্যানেল খুলুন">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "ক্যানভাস এক্সট্রাকশনের অনুমোদন ব্যবস্থাপনা">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "অফলাইন স্টোরেজ ম্যাসেজ প্যানেল খুলুন">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "পাসওয়ার্ড সংরক্ষণ ম্যাসেজ প্যানেল খুলুন">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "প্লাগ-ইনের ব্যবহার পরিচালনা করুন">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "আপনি এই ওয়েবসাইটের ক্ষেত্রে নোটিফিকেশন ব্লক করেছেন।">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "আপনি এই ওয়েবসাইটের ক্ষেত্রে স্থায়ী স্টোরেজ ব্লক করেছেন।">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "আপনি এই ওয়েবসাইটের জন্য পপ-আপ ব্লক করেছেন।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখান">
 
@@ -857,6 +859,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "আরও থিম দেখুন">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "আপনার টুলবারের বাইরে কিন্তু আইটেমগুলিকে নাগালের মধ্যে রাখতে আইটেমগুলি টেনে এনে ছেড়ে দিন…">
+<!ENTITY customizeMode.overflowList.title2 "ওভারফ্লো মেনুতে যোগ করুন">
+<!ENTITY customizeMode.overflowList.description "হাতের নাগালে কিন্তু আপনার টুলবারের বাইরে রাখতে আইটেমগুলিকে এখানে ড্র্যাগ করে ছেড়ে দিন…">
 <!ENTITY customizeMode.uidensity "ঘনত্ব">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
