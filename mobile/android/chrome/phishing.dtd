@@ -10,17 +10,17 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Site d'atac raportat !">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Lo site de <span id='malware_sitename'/> es estat raportat coma un site d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Los sites d'atac ensajan d'installar de programas que vos raubar d'entresenhas personalas, utilizan vòstre ordenador per n'atacar d'autres o damatjan vòstre sistèma.</p><p>D'unes sites d'atac distribuisson amb intencion de programas dangieroses mas fòrça son implicats sens o que sos proprietaris lo sàpian o l'ajan permés.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Lo site de <span id='malware_sitename'/> es estat raportat coma un site d’atac e l’avèm blocat en nos basar sus vòstras preferéncias de seguretat.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Los sites d’atac ensajan d'installar de programas que vos raubar d’entresenhas personalas, utilizan vòstre ordenador per n’atacar d’autres o damatjan vòstre sistèma.</p><p>D’unes sites d’atac distribuisson amb intencion de programas dangieroses mas fòrça son implicats sens o que sos proprietaris lo sàpian o l’ajan permés.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Site enganaire !">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Lo site de <span id='phishing_sitename'/> es estat raportat coma un site d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Lo site de <span id='phishing_sitename'/> es estat raportat coma un site d’atac e l’avèm blocat en nos basar sus vòstras preferéncias de seguretat.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Los sites enganaires son desenhats per vos prene a far quicòm de perilhós, coma installar un logicial, o revelar d'informacions personalas, coma vòstres senhals, numèros de telefòn o de cartas de crèdit.</p><p>Marcar d'informacions sus aquestas paginas web pòt resultar a una usurpacion d'identitat o autra frauda.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Pagina que compòrta de logicials pas desirats !">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "La pagina web de <span id='unwanted_sitename'/> es estat raportat coma un site d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "La pagina web de <span id='unwanted_sitename'/> es estat raportat coma un site d’atac e l’avèm blocat en nos basar sus vòstras preferéncias de seguretat.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "De paginas d'un logicial pas desirat ensajan d'installar un logicial que pòt èsser enganaire e tocar vòstre sistèma d'un biais imprevist.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Aqueste site pòt conténer de logicials malvolents">
