@@ -16,15 +16,17 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Avètz demandat a &brandShortName; de se connectar d'un biais segur a <b>#1</b> mas vos podèm pas confirmar que vòstra connexion es segura.">
+<!ENTITY certerror.introPara1 "Avètz demandat a &brandShortName; de se connectar
+d’un biais segur a <b>#1</b>, mas vos podèm pas confirmar que vòstra connexion es segura.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Qué me cal far ?">
 <!ENTITY certerror.whatShouldIDo.content "Se vos connectatz sovent a aqueste site sens problèma, aquesta error pòt voler dire que qualqu'un es a s'apropriar lo site e deuriatz pas contunhar.">
-<!ENTITY certerror.getMeOutOfHere.label "Sortissètz-me d'aicí !">
+<!ENTITY certerror.getMeOutOfHere.label "Sortissètz-me d’aicí !">
 
 <!ENTITY certerror.expert.heading "Ai compreses los risques">
 <!ENTITY certerror.expert.content "S’avètz compres çò que se passa, podètz dire a &brandShortName; de començar a se fisar de l’identificacion del site. <b>Quitament se vos fisatz del site, aquesta error pòt voler dire que qualqu’un es a jogar amb vòstra connexion.</b>">
-<!ENTITY certerror.expert.contentPara2 "Apondatz pas d'exception, levat se sabètz que i a una bona rason per qu'aqueste site utilize pas d'identificacion segura.">
+<!ENTITY certerror.expert.contentPara2 "Apondatz pas cap d’exception, levat
+se sabètz que i a una bona rason per qu'aqueste site utilize pas d’identificacion segura.">
 <!ENTITY certerror.addTemporaryException.label "Visitar lo site">
 <!ENTITY certerror.addPermanentException.label "Apondre una excepcion permanenta">
 

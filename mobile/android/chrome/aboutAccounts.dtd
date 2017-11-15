@@ -10,4 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "Ensajatz tornamai">
 
 <!ENTITY aboutAccounts.restrictedError.title "Restrent">
-<!ENTITY aboutAccounts.restrictedError.description "Podètz pas gerir los comptes Firefox a partir d'aqueste perfil.">
+<!ENTITY aboutAccounts.restrictedError.description "Podètz pas gerir los comptes Firefox d’aqueste perfil.">
