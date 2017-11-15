@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "ট্র্যাকিং সুরক্ষা">
+<!ENTITY  trackingProtection2.description      "ট্র্যাকিং হল একাধিক ওয়েবসাইট থেকে আপনার ব্রাউজিং ডেটা সংগ্রহ করা। প্রোফাইল নির্মাণে এবং আপনার ব্রাউজিং ও ব্যক্তিগত তথ্যের উপর ভিত্তি করে কন্টেন্ট প্রদর্শনে ট্র্যাকিং ব্যবহার হতে পারে।">
+<!ENTITY  trackingProtection2.radioGroupLabel  "জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন">
 <!ENTITY  trackingProtectionAlways.label       "সর্বদা">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "নতুন প্রাইভেট উইন্ডোতে খোলা হোক">
@@ -12,25 +15,17 @@
 <!ENTITY  trackingProtectionExceptions.label   "ব্যতিক্রম...">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "অনুসরণকরণ">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "ট্র্যাকিং সুরক্ষা ব্যবহার করুন ব্যক্তিগত উইন্ডোতে">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "আরও জানুন">
-<!ENTITY changeBlockList.label          "ব্লক তালিকা পরিবর্তন করুন">
-<!ENTITY changeBlockList.accesskey      "C">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "আপি আর করতে পারেন ">
-<!ENTITY  doNotTrack.settings.label     "পরিচালনা করুন আপনার ডু নট ট্র্যাক বৈশিষ্ট্যাবলী">
-<!ENTITY  doNotTrack.post.label         ".">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM6.label         "ব্যক্তিগত ব্রাউজিং এ জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন">
+<!ENTITY trackingProtectionPBMLearnMore.label "আরও জানুন">
+
 
 <!ENTITY  history.label                 "পূর্ববর্তী তথ্য">
 
-<!ENTITY  locationBar.label             "অবস্থানসূচক বার">
-
-<!ENTITY  locbar.history.label          "পূর্ববর্তী তথ্য">
-<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ট্যাব খুলুন">
@@ -39,17 +34,11 @@
 <!ENTITY  locbar.searches.accesskey     "d">
 
 
-<!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
-<!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "তৃতীয় পক্ষের কুকি গ্রহণ করুন:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "সর্বদা">
 <!ENTITY  acceptThirdParty.never.label    "কখনই নয়">
 <!ENTITY  acceptThirdParty.visited.label  "পরিদর্শিত থেকে">
 
-<!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল:">
-<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "মেয়াদ উত্তীর্ণ না হওয়া অবধি">
 <!ENTITY  close.label                   "&brandShortName; বন্ধ করার সময় অবধি">
@@ -99,9 +88,9 @@
 <!ENTITY  clearOnCloseSettings.label     "বিবিধ বৈশিষ্ট্য…">
 <!ENTITY  clearOnCloseSettings.accesskey "ব">
 
-<!ENTITY  browserContainersHeader.label         "কন্টেইনার ট্যাব">
 <!ENTITY  browserContainersLearnMore.label      "আরও জানুন">
 <!ENTITY  browserContainersEnabled.label        "কন্টেইনার ট্যাব সক্রিয় করুন">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "সেটিংস…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
+
