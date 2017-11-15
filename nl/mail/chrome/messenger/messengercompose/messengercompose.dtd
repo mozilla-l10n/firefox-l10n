@@ -85,7 +85,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Bijlage hernoemen…">
 <!ENTITY renameAttachmentCmd.accesskey "B">
-<!ENTITY reorderAttachmentsCmd.label "Volgorde bijlagen wijzigen…">
+<!ENTITY reorderAttachmentsCmd.label "Volgorde van bijlagen wijzigen…">
 <!ENTITY reorderAttachmentsCmd.accesskey "V">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Alles selecteren">
@@ -107,7 +107,7 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
-<!ENTITY reorderAttachmentsPanel.label "Volgorde bijlagen wijzigen">
+<!ENTITY reorderAttachmentsPanel.label "Volgorde van bijlagen wijzigen">
 <!ENTITY moveAttachmentTopPanelBtn.label "Bovenaan plaatsen">
 <!ENTITY moveAttachmentTopPanelBtn.accesskey "e">
 <!ENTITY moveAttachmentUpPanelBtn.label "Omhoog verplaatsen">
