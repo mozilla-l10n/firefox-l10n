@@ -601,6 +601,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaLoop.label             "Bucle">
+<!ENTITY mediaLoop.accesskey         "B">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -648,6 +650,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Pechar a barra lateral">
+<!ENTITY sidebarMenuClose.label         "Pechar a barra lateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Saír">
 <!ENTITY quitApplicationCmdWin2.accesskey   "S">
@@ -657,6 +660,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Saír">
 <!ENTITY quitApplicationCmd.accesskey   "S">
 <!ENTITY quitApplicationCmdMac2.label   "Saír do &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Pechar">
 <!ENTITY closeCmd.key                   "W">
@@ -706,7 +710,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "A conexión non é segura">
 <!ENTITY identity.connectionFile "Está páxina está almacenada no computador.">
+<!ENTITY identity.connectionVerified2 "Está conectado de forma segura a este sitio, que pertence a:">
 <!ENTITY identity.connectionInternal "Esta é unha páxina segura de &brandShortName;.">
+<!ENTITY identity.extensionPage "Este páxina cargouse dende unha extensión.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; bloqueou partes desta páxina que non son seguras.">
@@ -751,7 +757,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
+<!ENTITY syncedTabs.context.open.label                       "Abrir">
+<!ENTITY syncedTabs.context.open.accesskey                   "A">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Abrir nunha nova lapela">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "o">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Abrir nunha nova xanela">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Abrir nunha nova xanela privada">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Marcar esta lapela…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
+<!ENTITY syncedTabs.context.copy.label                       "Copiar">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Abrir todo en lapelas">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
+<!ENTITY syncedTabs.context.managedevices.label              "Xestionar dispositivos…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "d">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -858,7 +880,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY pageActionButton.tooltip "Accións da páxina">
+<!ENTITY pageAction.addToUrlbar.label "Engadir á barra de enderezos">
+<!ENTITY pageAction.removeFromUrlbar.label "Retirar da barra de enderezos">
 
+<!ENTITY pageAction.sendTabToDevice.label "Enviar a lapela ao dispositivo">
+<!ENTITY sendToDevice.syncNotReady.label "Sincronizando os dispositivos…">
 
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
