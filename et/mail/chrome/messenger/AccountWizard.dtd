@@ -57,7 +57,7 @@
 <!ENTITY incomingServer.label "Saabuva e-posti server:">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Sisesta oma saabuva e-posti serveri kasutajanimi (näiteks &quot;akaru&quot;).">
+<!ENTITY incomingUsername.description "Sisesta oma saabuva e-posti serveri kasutajanimi (näiteks &quot;akaerajaan&quot;).">
 <!ENTITY incomingUsername.label "Kasutajanimi:">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
