@@ -4,9 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "সুস্বাগতম">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; পছন্দ করার জন্য ধন্যবাদ">
+<!ENTITY firstrun_urlbar_subtext2 "Mozilla, একটি মুক্ত এবং খোলা ওয়েবের জন্য প্রতিশ্রুতিবদ্ধ অলাভজনক সংস্থার একটি আধুনিক মোবাইল ব্রাউজার।">
 <!ENTITY firstrun_panel_title_privacy "গোপনীয়তা">
 <!ENTITY firstrun_privacy_message "ব্রাউজ করুন এমন ভাবে, যেনো কেউ দেখছে না বলে মনে হয়">
+<!ENTITY firstrun_privacy_subtext "ব্যক্তিগত ব্রাউজিং করুন ট্র্যাকিং সুরক্ষার সাথে যা ট্র্যাকারগুলিকে অবরুদ্ধ করে আপনার ব্রাউজ করার সময় এবং আপনার ব্রাউজিং শেষ করার সময় আপনার ইতিহাস মনে রাখে না।">
 <!ENTITY firstrun_panel_title_customize "স্বনির্ধারণ">
+<!ENTITY firstrun_customize_message "&brandShortName; আপনার নিজের বলে তৈরি করুন।">
+<!ENTITY firstrun_customize_subtext "কাস্টমাইজ করুন &brandShortName; অ্যাড-অন সহ। বিজ্ঞাপনগুলি অবরোধ করুন, বৈশিষ্ট্য যোগ করুন, বা আপনার ব্যক্তিত্ব প্রতিফলিত করে এমন নতুন থিম চয়ন করুন।">
 <!ENTITY firstrun_bookmarks_title "পূর্ববর্তী তথ্য">
 <!ENTITY firstrun_bookmarks_message "আপনার পছন্দের জিনিসগুলি, সামনে এবং কেন্দ্রে">
 <!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক এবং ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছেন">
@@ -14,6 +18,8 @@
 <!ENTITY firstrun_data_message "কম তথ্য, আরও সঞ্চয়">
 <!ENTITY firstrun_data_subtext2 "যে সাইটে যাবেন সেখানে কম তথ্য ব্যয় করতে ছবিগুলিকে বন্ধ করুন">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
+<!ENTITY firstrun_sync_message2 "আপনি যেখানে ছেড়ে গিয়েছিলেন সেখান থেকেই তুলুন।">
+<!ENTITY firstrun_sync_subtext2 "সিঙ্ক ব্যবহার করুন বুকমার্কগুলি, পাসওয়ার্ডগুলি এবং অন্যান্য জিনিসগুলি খুঁজে পাওয়ার জন্য যা আপনি &brandShortName; এ সংরক্ষণ করেছেন আপনার সমস্ত ডিভাইসগুলিতে।">
 <!ENTITY firstrun_signin_message "সংযোগ করুন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
@@ -86,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; উপাদানগুলি">
 <!ENTITY bookmark_folder_one_item "1 উপাদান">
+<!ENTITY bookmark_folder_updated "ফোল্ডার আপডেট হয়েছে">
 <!ENTITY bookmark_parent_folder "ঊর্ধ্বতন ফোল্ডার">
 <!ENTITY bookmark_add_folder "নতুন ফোল্ডার যোগ করুন">
 
@@ -200,8 +207,6 @@
 <!ENTITY pref_category_advanced_summary3 "ট্যাব, তথ্য সেভার নির্বাচন করে, ডেভেলপার টুলস পুনরুদ্ধার করুন">
 <!ENTITY pref_category_notifications "সূচনাবার্তা">
 <!ENTITY pref_category_notifications_summary "নতুন বৈশিষ্ট্যগুলি, ওয়েবসাইট আপডেটগুলি">
-<!ENTITY pref_content_notifications "ওয়েবসাইট আপডেটগুলি ">
-<!ENTITY pref_content_notifications_summary2 "নতুন বিষয়বস্তু সমর্থন সাইটগুলি থেকে আবিষ্কার করুন">
 <!ENTITY pref_developer_remotedebugging_usb "USB- এর মাধ্যমে দূরবর্তী ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi- এর মাধ্যমে দূরবর্তী ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ডিবাগিং -র জন্য একটি QR কোড রিডার অ্যাপ্লিকেশন ইনস্টল করা ডিভাইসের প্রয়োজন।">
@@ -218,6 +223,7 @@
 <!ENTITY pref_category_home_homepage "হোম-পেজ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "নতুন ট্যাবগুলির জন্যও ব্যবহার করুন">
 <!ENTITY home_homepage_title "হোম-পেজ সেট করুন">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -266,7 +272,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "দূরবর্তী ফন্টগুলি পেজগুলি লোড করার সমায় ডাউনলোড করুন">
 
 <!ENTITY pref_tracking_protection_title2 "ট্র্যাককরার সুরক্ষা">
-<!ENTITY pref_tracking_protection_summary3 "ব্যক্তিগত ব্রাউজিং এর মধ্যে সক্রিয়">
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
@@ -284,14 +289,18 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "স্বনির্ধারিত লেখা">
-<!ENTITY pref_custom_tabs_summary3 "&brandShortName; এর একটি কাস্টমাইজ করা সংস্করণ ব্যবহারের দ্বারা অ্যাপগুলিকে ওয়েবসাইট খোলার অনুমতি দিন">
+<!ENTITY pref_custom_tabs2 "কাস্টম ট্যাবগুলি">
+<!ENTITY pref_custom_tabs_summary4 "দ্রুত লোডিং করা কাস্টম ট্যাবে অ্যাপকে ওয়েব কন্টেন্ট খোলার অনুমতি দিন।">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS; এ খুলুন">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; দ্বারা প্রস্তুত">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL কপি করা হয়েছে">
 
+<!ENTITY pref_pwa "প্রগতিশীল ওয়েব অ্যাপস">
+<!ENTITY pref_pwa_summary "হোম স্ক্রীনে যোগ করার জন্য ওয়েব অ্যাপ্লিকেশনগুলিকে মঞ্জুরি দিন">
 
 <!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষার সঙ্গে">
 <!ENTITY tracking_protection_prompt_text "সক্রিয়ভাবে ট্র্যাকিং উপাদান অবরোধ করে, আপনাকে চিন্তা করতে হবে না।">
@@ -325,23 +334,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "\&quot;প্রচুর লিঙ্ক খুলুন\&quot; এটা করতে, অনুগ্রহ করে \&apos;অ্যাপের ওপরে টানুন\&apos; অনুমুতি সক্রিয় করুন &brandShortName;-এর জন্য">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; ওয়েবসাইটগুলি আপডেট করা হয়েছে">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "বৈশিষ্ট্যাবলী">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "পরুন এখন">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "&formatS; এ আপডেট করা হয়েছে">
-
 <!ENTITY pref_char_encoding "ক্যারেক্টার এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু দেখাও">
 <!ENTITY pref_char_encoding_off "মেনু দেখানো না হোক">
@@ -358,6 +350,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "সিস্টেম ফন্টের সাইজ ব্যবহার করুন">
+<!ENTITY pref_use_system_font_size_summary "সিস্টেম ফন্ট সাইজ অনুযায়ী ওয়েব সামগ্রী স্কেল করুন">
 
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
 <!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট গুলি ভিডিও এবং অন্যান্য মিডিয়া নিজে থেকে চালু করবে নাকি তা নিয়ন্ত্রণ করুন">
@@ -369,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "QR স্ক্যানারকে URL বারে অনুমতি দেওয়া হোক">
 
 <!ENTITY pref_use_master_password "মূখ্য পাসওয়ার্ড ব্যবহার">
+<!ENTITY pref_sync_default_title "Firefox অ্যাকাউন্ট">
 <!ENTITY pref_sync2 "সাইন ইন">
 <!ENTITY pref_sync_summary2 "ট্যাবের বুকমার্ক সংকলন,পাসওয়ার্ডসমূহ,ব্রাউজিং ইতিহাসইতিহাস সিঙ্ক করুন">
 <!ENTITY pref_search_suggestions "অনুসন্ধান পরামর্শ দেখাও">
@@ -398,6 +393,9 @@
 <!ENTITY pref_dialog_set_default "ডিফল্ট নির্ধারণ করুন">
 <!ENTITY pref_dialog_default "ডিফল্ট">
 <!ENTITY pref_dialog_remove "মুছে ফেলুন">
+<!ENTITY pref_dialog_activitystream_header_content "অতিরিক্ত বিষয়বস্তু">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "সাম্প্রতিক বুকমার্কগুলি">
+<!ENTITY pref_dialog_activitystream_visited "পরিদর্শিত">
 
 <!ENTITY pref_search_last_toast "আপনি আপনার শেষ ব্যবহৃত সার্চ ইঞ্জিনটি অপসারণ বা অক্ষম করতে পারবেন না।">
 
@@ -488,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_remove "মুছে ফেলুন">
 <!ENTITY contextmenu_add_to_launcher "হোম স্ক্রিনে যুক্ত করুন">
+<!ENTITY contextmenu_add_page_shortcut "পাতার সর্টকাট যোগ করুন">
 <!ENTITY contextmenu_set_as_homepage "হোমপেজ সেট করুন">
 <!ENTITY contextmenu_share "শেয়ার">
 <!ENTITY contextmenu_pasteandgo "পেস্ট ও পরিদর্শন করুন">
@@ -499,7 +498,17 @@
 <!ENTITY contextmenu_top_sites_edit "সম্পাদনা করুন">
 <!ENTITY contextmenu_top_sites_pin "সাইট পিন করুন">
 <!ENTITY contextmenu_top_sites_unpin "সাইট আনপিন করুন">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "শীর্ষস্থানীয় সাইটগুলিতে পিন করুন">
+<!ENTITY contextmenu_unpin_from_top_sites "শীর্ষস্থানীয় সাইট থেকে আনপিন করুন">
 <!ENTITY contextmenu_add_search_engine "অনুসন্ধানের ইঞ্জিন যোগ করুন">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "শীর্ষস্থানীয় সাইটগুলিতে পিন করা পেজ">
+<!ENTITY unpinned_page_from_top_sites "শীর্ষস্থানীয় সাইট থেকে আনপিন করা পেজ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -531,6 +540,8 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "পৃষ্ঠা সরিয়ে দেওয়া হয়েছে">
+
+<!ENTITY folder_removed "ফোল্ডার মুছে ফেলা হয়েছে">
 
 <!ENTITY bookmark_edit_title "বুকমার্ক সম্পাদনা করুন">
 <!ENTITY bookmark_edit_folder_title "ফোল্ডারের সম্পাদনা করুন">
@@ -613,6 +624,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "পিনড সাইট">
+<!ENTITY home_unpinned_site "অনপিন্ড সাইট">
 
 <!ENTITY remote_tabs_panel_moved_title "আমার ট্যাবগুলো কোথায় গেল?">
 <!ENTITY remote_tabs_panel_moved_desc "আমরা আপনার হোম পেজে একটি প্যানেলের মধ্যে অন্যান্য ডিভাইস থেকে আপনার ট্যাব স্থানান্তরিত করেছি যাতে করে সহজেই আপনি একটি নতুন ট্যাব খোলার সময় সেগুলো ব্যবহার করতে পারেন।">
@@ -808,6 +821,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "হোম স্ক্রিনে যুক্ত করুন">
 
+<!ENTITY promotion_add_page_shortcut "পাতার সর্টকাট যোগ করুন">
+
 <!ENTITY helper_first_offline_bookmark_title "অফলাইন পড়ুন">
 <!ENTITY helper_first_offline_bookmark_message "অফলাইনেও বুকমার্ক সংকলনে থাকা আপনার রিডার ভিউ উপাদানগুলির অনুসন্ধান করুন">
 <!ENTITY helper_first_offline_bookmark_button "বুকমার্কে যান">
@@ -817,7 +832,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "বুকমার্কে যুক্ত করুন">
 
 <!ENTITY activity_stream_topsites "শীর্ষ সাইটগুলো">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; দ্বারা প্রস্তাবিত">
 <!ENTITY activity_stream_highlights "হাইলাইটস">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "MORE">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -825,14 +845,30 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "দেখা হয়েছে">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "ট্রেন্ডিং">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ব্রাউজিং শুরু করুন, এবং আমরা কিছু মহান নিবন্ধ, ভিডিও, এবং আপনার সম্প্রতি পরিদর্শিত বা এখানে বুকমার্ক করা পেজ প্রদর্শন করব।">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "খারিজ করুন">
+<!ENTITY activity_stream_remove "অপসারণ করুন">
 <!ENTITY activity_stream_delete_history "ইতিহাস থেকে মুছে দিন">
 
-<!ENTITY activity_stream_welcome_title "আপনার হাইলাইটসমূহে স্বাগতম">
-<!ENTITY activity_stream_welcome_content1 "আপনি ওয়েবে যা দেখেছেন &brandShortName; তার হাইলাইটসমূহ এখানে তৈরি করবে, যাতে আপনি আপনার ভালোলাগা প্রবন্ধ, ভিডিও, বুকমার্ক এবং অন্যান্য পাতাগুলিকে খুঁজে পেতে পারেন।">
-
+<!ENTITY private_tab_panel_title "ব্যক্তিগত ব্রাউজিং + ট্র্যাকিং সুরক্ষা">
+<!ENTITY private_tab_panel_description "&brandShortName; আপনার ব্রাউজিং কার্যকলাপ ট্র্যাক করতে পারে এমন পেজ এর অংশগুলিকে ব্লক করে।">
+<!ENTITY private_tab_panel_description2 "আমরা কোনও ইতিহাস মনে রাখব না, তবে ডাউনলোড করা ফাইলগুলি এবং নতুন বুকমার্কগুলি এখনও আপনার ডিভাইসে সংরক্ষিত হবে।">
 <!ENTITY private_tab_learn_more "আরো জানতে চান?">
+
+<!ENTITY fullscreen_warning "পূর্ণ পর্দায় প্রবেশিত">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ হোম স্ক্রিনে যুক্ত করুন">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "হোম স্ক্রিনে যুক্ত করুন">
+<!ENTITY pwa_continue_to_website "ওয়েবসাইটে যান">
+<!ENTITY pwa_onboarding_sumo "তাৎক্ষিণক ব্যবহার ও অ্যাপের মত দ্রুত ব্রাউজিং অভিজ্ঞতা নিতে আপনি সহজেই এই ওয়েবসাইট আপনার হোম স্ক্রিনে যোগ করতে পারেন।">
