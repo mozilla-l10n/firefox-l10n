@@ -17,7 +17,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
-<!ENTITY server.accesskey           "T">
+<!ENTITY server.accesskey           "S">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Bruk en annen server …">
 <!ENTITY signIn.account2.label      "Konto">
