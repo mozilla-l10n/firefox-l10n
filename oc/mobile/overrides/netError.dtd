@@ -171,4 +171,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Vòstra connexion es pas segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza de tecnologias de seguretat obsolètas e vulnerablas a las atacas. Un atacaire poiriá revelar aisidament d'informacions que pensèssetz seguras. L'administrator del site web deurà d'en primièr adobar lo servidor abans que poscatz visitar lo site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza de tecnologias de seguretat obsolètas e vulnerablas a las atacas. Un atacaire poiriá revelar aisidament d’informacions que pensèssetz seguras. L’administrator del site web deurà d’en primièr adobar lo servidor abans que poscatz visitar lo site.</p><p>Còdi error : NS_ERROR_NET_INADEQUATE_SECURITY</p>">
