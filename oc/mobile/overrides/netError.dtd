@@ -21,14 +21,14 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>Verificatz qu’i aja pas d'errors de sasida dins l'adreça coma
+  <li>Verificatz qu’i aja pas d’errors de sasida dins l’adreça coma
     <strong>ww</strong>.example.com al lòc
     <strong>www</strong>.example.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Recercar</button>
     </div>
-  <li>S'es impossible de telecargar quitament una pagina, verificatz las donadas de connexion o WIFI de vòstre periferic.
+  <li>S’es impossible de telecargar quitament una pagina, verificatz las donadas de connexion o WIFI de vòstre periferic.
     <button id='wifi'>Activar la connexion Wi-Fi</button>
   </li>
 </ul>
@@ -40,7 +40,7 @@
 <!ENTITY fileAccessDenied.title "L'accès al fichièr es estat refusat">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Es benlèu estat suprimit, desplaçat, o las permissions pels fichièrs poirián empachar l'accès.</li>
+  <li>Es benlèu estat suprimit, desplaçat, o las permissions pels fichièrs poirián empachar l’accès.</li>
 </ul>
 ">
 
@@ -81,10 +81,18 @@
 ">
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Contactatz lo webmèstre del site per l’informar d’aqueste problèma.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Tipe de fichièr pas segur">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Contactatz los webmèstres del site per l’informar d’aqueste problèma.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "La connexion es estada reinicializada">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -112,13 +120,19 @@
 <!ENTITY nssFailure2.title "Fracàs de la connexion securizada">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>La pagina qu'ensajatz de veire se pòt pas afichar pr'amor que l'autenticitat de las donadas recebudas se pòdon pas verificar.</li>
+  <li>La pagina qu’ensajatz de veire se pòt pas afichar pr’amor que l’autenticitat de las donadas recebudas se pòdon pas verificar.</li>
   <li>Contactatz los proprietaris del site web per los informar de problèma.</li>
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "La connexion segura a pas capitat">
-<!ENTITY nssBadCert.longDesc2 "<ul><li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu'ensajad'usurpar l'identitat del servidor.</li> <li>Se ja sètz connectat(ada) amb succès a aqueste servidor, benlèu l'error es temporària e podètz ensajar tornamai pus tard.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Aquò pòt èsser degut a un problèma de configuracion del servidor o a una persona qu’ensaja d’usurpar l’identitat del servidor.</li> <li>Se ja sètz connectat amb succès a aqueste servidor, benlèu l’error es temporària e podètz ensajar tornamai pus tard.</li>
+  <li>If you have connected to this server successfully in the past, the error may
+be temporary, and you can try again later.</li>
+</ul>
+">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
@@ -142,7 +156,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY securityOverride.warningContent "<p>Vos cal pas apondre cap d'exception s'utilizatz una connexion a Internet dins la quala vos fisatz pas totalament o se sètz pas acostumats a recebre un avertiment per aqueste servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL distant">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l'assabentar d'aqueste problèma.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contactatz lo webmèstre del site per l’informar d’aqueste problèma.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Impossible d'establir una connexion segura">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
