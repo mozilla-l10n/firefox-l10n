@@ -7,9 +7,30 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+<!ENTITY pref.calendar.view.allview.caption "General">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Vistas de día y semana">
+<!ENTITY pref.calendar.view.multiweekview.caption "Vistas para múltiples semanas">
+<!ENTITY pref.calendar.view.workweek.caption "Semana de trabajo">
 
+<!ENTITY pref.weekstarts.label "Empezar la semana el:">
+<!ENTITY pref.weekstarts.accesskey "r">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Mostrar número de semana en vistas y mini mes">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
+<!ENTITY pref.daysoff.label "Incluir estos días en la semana de trabajo:">
 
+<!ENTITY pref.calendar.view.daystart.label "El día comienza a la(s):">
+<!ENTITY pref.calendar.view.daystart.accesskey "D">
+<!ENTITY pref.calendar.view.dayend.label "El día termina a las:">
+<!ENTITY pref.calendar.view.dayend.accesskey "y">
+<!ENTITY pref.calendar.view.visiblehours.label "Mostrar:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "o">
+<!ENTITY pref.calendar.view.visiblehoursend.label "horas a la vez">
 
+<!ENTITY pref.numberofweeks.label "Número de semanas que se muestran (incluso las semanas anteriores):">
+<!ENTITY pref.numberofweeks.accesskey "e">
+<!ENTITY pref.numberofpreviousweeks.label "Semanas anteriores que se muestran:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "P">
+<!ENTITY pref.numberofweeks.0 "ninguno">
 <!ENTITY pref.numberofweeks.1 "1 semana">
 <!ENTITY pref.numberofweeks.2 "2 semanas">
 <!ENTITY pref.numberofweeks.3 "3 semanas">

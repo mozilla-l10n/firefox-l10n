@@ -29,4 +29,8 @@
 <!ENTITY pref.alarm.off "Desactivar">
 <!ENTITY pref.defalarmlen4events.label "Hora predeterminada de activación de un recordatorio antes de un evento:">
 <!ENTITY pref.defalarmlen4events.accesskey "u">
+<!ENTITY pref.defalarmlen4todos.label "Hora predeterminada de activación de un recordatorio antes de una tarea:">
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
 
+<!ENTITY pref.defaultsnoozelength.label "Longitud de pausa predeterminada:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "S">
