@@ -337,7 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.label "Боковая панель">
 <!ENTITY viewSidebarMenu.accesskey "Б">
 <!ENTITY viewCustomizeToolbar.label       "Персонализация…">
-<!ENTITY viewCustomizeToolbar.accesskey     "м">
+<!ENTITY viewCustomizeToolbar.accesskey     "о">
 <!ENTITY overflowCustomizeToolbar.label       "Настроить панель инструментов…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "а">
 
