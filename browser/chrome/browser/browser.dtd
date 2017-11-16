@@ -221,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Bloquiesti l'almacenamientu de datos pa esti sitiu web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bloquiesti los avisos pa esti sitiu web.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amosar historial">
 
 <!ENTITY searchItem.title             "Guetar">
@@ -231,6 +232,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksCmd.commandkey "m">
 
+<!ENTITY bookmarksSubview.label             "Marcadores">
+<!ENTITY bookmarksMenuButton2.label         "Menú de marcadores">
 <!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
 <!ENTITY viewBookmarksSidebar2.label        "Ver panel llateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramientes de marcadores">
@@ -253,6 +256,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Descargues">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Descargues">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -439,6 +443,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Guetar">
+<!ENTITY searchIcon.tooltip           "Guetar">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -645,6 +651,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "m">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zarra'l panel llateral">
+<!ENTITY sidebarMenuClose.label         "Zarrar panel llateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Colar">
 <!ENTITY quitApplicationCmdWin2.accesskey   "c">
@@ -881,8 +888,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY pageActionButton.tooltip "Aiciones de la páxina">
 
 
+<!ENTITY libraryButton.tooltip "Amosar l'historial, marcadores y más">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

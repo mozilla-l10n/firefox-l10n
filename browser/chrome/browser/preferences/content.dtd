@@ -2,25 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Ventanes emerxentes">
 
 <!ENTITY  blockPopups.label           "Bloquiar ventanes emerxentes">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Avisos">
-<!ENTITY  notificationsPolicyLearnMore.label   "Deprendi más">
-<!ENTITY  notificationsPolicyDesc3.label       "Escueyi qué sitios tienen permisu pa unviate avisos">
-<!ENTITY  notificationsPolicyButton.accesskey  "c">
-<!ENTITY  notificationsPolicyButton.label      "Escoyer…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nun me cafiar">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "m">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Nun s'amosará avisu dalu fasta que reanicies &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Esceiciones…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Esceiciones…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Fontes y colores">
 
+<!ENTITY  defaultFont2.label          "Fonte predeterminada">
 
 <!ENTITY  advancedFonts.label         "Avanzaes…">
 <!ENTITY  advancedFonts.accesskey     "v">
@@ -29,7 +28,7 @@
 <!ENTITY  colors.accesskey            "C">
 
 
-<!ENTITY languages.label              "Llingües">
+<!ENTITY language2.label              "Llingua">
 <!ENTITY chooseLanguage.label         "Escoyer llingua preferida p'amosar les páxines web">
 <!ENTITY chooseButton.label           "Escoyer…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -49,8 +48,5 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traducciones de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Conteníu DRM">
 
-<!ENTITY  playDRMContent.label         "Reproducir conteníu DRM">
-<!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "Deprender más">

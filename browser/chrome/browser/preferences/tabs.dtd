@@ -10,6 +10,7 @@
 
 
 
+<!ENTITY switchLinksToNewTabs.label        "Al abrir un enllaz nuna llingüeta nueva, cambiar a ella darréu">
 
 <!ENTITY showTabsInTaskbar.label          "Amosar previsualizaciones de llingüetes na barra de xeres de Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "m">

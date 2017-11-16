@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Amestáu">
 <!ENTITY col.lastmodified.label  "Cabera modificación">
 
-<!ENTITY search.placeholder  "Guetar">
+<!ENTITY historySearch.placeholder  "Historial de gueta">
+<!ENTITY bookmarksSearch.placeholder  "Guetar marcadores">
 
 <!ENTITY cmd.find.key  "f">
 

@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "c">
 <!ENTITY cmd.showMac.label                "Amosar en Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Amosar carpeta de Descargues">
 <!ENTITY cmd.retry.label                  "Retentar">
 <!ENTITY cmd.goToDownloadPage.label       "Dir a la páxina de descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey   "X">
@@ -89,6 +90,26 @@
      -->
 <!ENTITY cmd.chooseOpen.label             "Abrir o desaniciar ficheru">
 
+<!-- LOCALIZATION NOTE (showMoreInformation.label):
+     Displayed when hovering a blocked download, indicates that it's possible to
+     show more information for user to take the next action.
+     -->
+
+<!-- LOCALIZATION NOTE (openFile.label):
+     Displayed when hovering a complete download, indicates that it's possible to
+     open the file using an app available in the system.
+     -->
+
+<!-- LOCALIZATION NOTE (retryDownload.label):
+     Displayed when hovering a download which is able to be retried by users,
+     indicates that it's possible to download this file again.
+     -->
+
+<!-- LOCALIZATION NOTE (cancelDownload.label):
+     Displayed when hovering a download which is able to be cancelled by users,
+     indicates that it's possible to cancel and stop the download.
+     -->
+
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
@@ -110,7 +131,16 @@
 <!ENTITY downloadsHistory.label           "Amosar toles descargues">
 <!ENTITY downloadsHistory.accesskey       "A">
 
-<!ENTITY openDownloadsFolder.label       "Abrir carpeta de Descargues">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Abrir carpeta de Descargues">
 
 <!ENTITY clearDownloadsButton.label       "Llimpiar descargues">
 <!ENTITY clearDownloadsButton.tooltip     "Llimpia les descargues completes, encaboxaes y fallíes">

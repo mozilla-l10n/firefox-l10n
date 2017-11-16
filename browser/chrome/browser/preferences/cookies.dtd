@@ -4,7 +4,6 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Les cookies siguientes tan guardaes nel so equipu:">
 <!ENTITY     cookiename.label               "Nome de la cookie">
 <!ENTITY     cookiedomain.label             "Sitiu">
 
@@ -19,8 +18,9 @@
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "Guetar">
+<!ENTITY     searchFilter.accesskey         "G">
 
 <!ENTITY     button.close.label             "Zarrar">
 <!ENTITY     button.close.accesskey         "Z">
