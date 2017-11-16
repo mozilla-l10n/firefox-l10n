@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Generelt">
+
 <!ENTITY  startupAction.label         "Når &brandShortName; startes:">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Lad mine chat-konti være offline">
@@ -39,3 +41,20 @@ sentence. -->
 <!ENTITY  customsound.accesskey               "B">
 <!ENTITY  browse.label                        "Gennemse…">
 <!ENTITY  browse.accesskey                    "G">
+
+<!ENTITY messageStyleTab.title             "Udseende">
+<!ENTITY messageStylePreview.label         "Forhåndsvisning:">
+<!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Bobler">
+<!ENTITY messageStyleDarkTheme.label       "Mørk">
+<!ENTITY messageStylePaperSheetsTheme.label "Papirark">
+<!ENTITY messageStyleSimpleTheme.label     "Simpel">
+<!ENTITY messageStyleDefaultTheme.label    "Standard">
+<!ENTITY messageStyleVariant.label         "Variant:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Vis hoved">
+<!ENTITY messageStyleShowHeader.accesskey  "H">
+<!ENTITY messageStyleNoPreview.title       "Ingen forhåndsvisning">
+<!ENTITY messageStyleNoPreview.description "Temaet er ikke gyldigt eller kan ikke vises lige nu (tilføjelse deaktiveret, fejlsikret tilstand ...).">
