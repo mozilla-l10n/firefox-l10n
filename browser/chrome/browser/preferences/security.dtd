@@ -8,6 +8,7 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
 <!ENTITY  enableSafeBrowsing.label        "Bloquiar conteníu peligrosu y fraudulentu">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -19,7 +20,9 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "Formularios y contraseñes">
 
+<!ENTITY  rememberLogins2.label         "Recordar logins y contraseñes de los sitios web">
 <!ENTITY  passwordExceptions.label      "Esceiciones…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

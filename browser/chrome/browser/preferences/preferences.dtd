@@ -25,7 +25,9 @@
 
 <!ENTITY  languageAndAppearance.label   "Llingua y aspeutu">
 <!ENTITY  filesAndApplications.label    "Ficheros y aplicaciones">
+<!ENTITY  browserPrivacy.label          "Privacidá del restolador">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Cuenta de Firefox">
 
+<!ENTITY  helpButton2.label        "Ayuda de &brandShortName;">

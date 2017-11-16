@@ -794,6 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Arrastra los tos elementos favoritos a la barra de ferramientes o al menú flotante.">
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quies más ferramientes?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escueyi ente milenta complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminaos">
@@ -805,6 +806,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "L">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Consiguir más temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
+<!ENTITY customizeMode.emptyOverflowList.description "Arrastra y suelta elementos equí pa caltenelos al to algame, pero fuera de la barra de ferramientes…">
+<!ENTITY customizeMode.overflowList.description "Arrastra y suelta elementos equí pa caltenelos al to algame, pero fuera de la barra de ferramientes…">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
