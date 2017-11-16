@@ -11,3 +11,4 @@
 <!ENTITY  actionColumn2.label     "Aición">
 <!ENTITY  actionColumn2.accesskey "A">
 
+<!ENTITY  filter2.emptytext        "Guetar tipos de ficheros o aplicaciones">
