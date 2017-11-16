@@ -6,10 +6,9 @@
 
 <!ENTITY generalTab.label                "Xeneral">
 
-<!ENTITY accessibility.label             "Accesibilidá">
-
 <!ENTITY useCursorNavigation.label       "Usar siempre les tecles del cursor pa restolar dientro de les páxines">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "Guetar el testu mientres s'escribe">
 <!ENTITY useOnScreenKeyboard.label       "Amosar un tecláu en pantalla cuando seya necesario">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -22,24 +21,18 @@
 
 <!ENTITY dataChoicesTab.label            "Eleición de datos">
 
-<!ENTITY healthReportDesc.label          "Ayúdate a entender el rindimientu'l to restolador y comparte datos con &vendorShortName; tocante a la so salú">
-<!ENTITY enableHealthReport.label        "Activar l'informe de salú de &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
 <!ENTITY healthReportLearnMore.label     "Deprender más">
 
-<!ENTITY telemetryDesc.label             "Comparte'l rindimientu, usu, hardware y personalización de datos tocante al to restolador con &vendorShortName; p'ameyorar &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Compartir datos adicionales (p.ex., Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "C">
-<!ENTITY telemetryLearnMore.label        "Deprender más">
 
-<!ENTITY crashReporterDesc2.label         "Los informes de fallu ayuden a &vendorShortName; a iguar problemes y facer más estable y seguru'l to restolador.">
-<!ENTITY alwaysSubmitCrashReports.label   "Permitir que &brandShortName; unvie casques atrasaos nel to nome">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Deprender más">
+<!ENTITY crashReporterLearnMore.label    "Deprender más">
 
 <!ENTITY networkTab.label                "Rede">
 
-<!ENTITY connection.label                "Conexón">
+<!ENTITY networkProxy.label              "Proxy de rede">
 
 <!ENTITY connectionDesc.label            "Configurar cómo se coneuta &brandShortName; a Internet">
 <!ENTITY connectionSettings.label        "Configuración…">
@@ -73,21 +66,25 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApplication.label         "Anovamientos de &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateAuto3.label               "Instalar anovamientos automáticamente (recomendáu)">
+<!ENTITY updateCheckChoose2.label        "Guetar anovamientos pero dexar escoyer cuándo instalalos">
+<!ENTITY updateManual2.label             "Nun guetar por anovamientos (nun se recomienda)">
 
+<!ENTITY updateHistory2.label            "Amosar l'historial d'anovamientos…">
 
 <!ENTITY useService.label                "Usar serviciu en segundu planu pa instalar los anovamientos">
 <!ENTITY useService.accesskey            "v">
 
+<!ENTITY enableSearchUpdate2.label       "Anovar automáticamente motores de gueta">
 
 
-
-<!ENTITY offlineAppsList2.label          "Los siguientes sitios tienen permisu pa guardar datos pal mou ensin conexón:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Desaniciar...">
 <!ENTITY offlineAppsListRemove.accesskey "i">
@@ -96,10 +93,11 @@
 <!ENTITY certificateTab.label            "Certificaos">
 <!ENTITY enableOCSP.label                "Consultar a los sirvidores respondedores OCSP pa confirmar la validez actual de los certificaos">
 <!ENTITY enableOCSP.accesskey            "u">
-<!ENTITY viewCerts.label                 "Ver certificaos">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewSecurityDevices.label       "Preseos de seguridá">
-<!ENTITY viewSecurityDevices.accesskey   "o">
 
+<!ENTITY performance.label               "Rindimientu">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Usar axustes recomendaos de rindimientu">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Estos axustes adáutense al hardware y sistema operativu del to equipu.">
 <!ENTITY allowHWAccel.label              "Usar aceleración de hardware cuando tea disponible">
 <!ENTITY allowHWAccel.accesskey          "h">
