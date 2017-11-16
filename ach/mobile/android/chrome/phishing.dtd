@@ -8,14 +8,14 @@
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 <!ENTITY safeb.palm.advisory.desc "Lami tam obedo <a id='advisory_provider'/>">
 
-<!ENTITY safeb.blocked.malwarePage.title "Mino ngec pi Pot buk ma Kicobo woko!">
+<!ENTITY safeb.blocked.malwarePage.title "Potbuk me mony ma kimiyo ripote!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Pot buk me Web man ki <span id='malware_sitename'/>kityeko mino ngece macalo lweny me pot buk ki kiloro woko kun jenge ikom gwoko kuci ma imito.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Pot buk me kakube man ma i <span id='malware_sitename'/> kimiyo ripot ni obedo kakube me mony kadong kigengo woko malube ki miti ni me ber bedo.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Pot buk ma kicobo temo keto purugram ma kwalo ngec pa dano, tii ki komputa mamegi me cobo jo mukene, onyo balo tic mamegi.</p><p>Pot buk mogo gabo purugram mabalo tic tektek, ento mogo time labongo ngec onyo twero ki bot wegi gi.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Kakube me bwola!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Pot buk me kakube man ma nonge i <span id='phishing_sitename'/> kimiyo ripot ni obedo kakube me bwola kadong kigengo woko malube ki miti ni me ber bedo.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Pot buk me kakube man ma i <span id='phishing_sitename'/> kimiyo ripot ni obedo kakube me bwola kadong kigengo woko malube ki miti ni me ber bedo.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Kakube me bwola ki yubo gi me bwoli me timo gin ma rac, calo keto purugram, onyo nyuto ngec mamegi, calo mungi me donyo, namba cim mamegi onyo ATM kadi.</p><p>Keto ngec mo i potbuk man me kakube twero kelo kwo me moko ada iyamo onyo goba mukene.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Kakube pi purugram mape kimito ma kimiyo ripote!">
