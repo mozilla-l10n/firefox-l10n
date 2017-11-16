@@ -35,6 +35,7 @@
 <!ENTITY aboutNetworking.setLogFile            "Ter pwil me rikod">
 <!ENTITY aboutNetworking.startLogging          "Cak gwoko rikod">
 <!ENTITY aboutNetworking.stopLogging           "Juk gwoko rikod">
+<!ENTITY aboutNetworking.dnsLookupButton       "Yubi">
 <!ENTITY aboutNetworking.dnsDomain             "Ker">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Yabi">

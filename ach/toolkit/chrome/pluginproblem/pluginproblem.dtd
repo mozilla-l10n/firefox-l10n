@@ -30,3 +30,4 @@
 <!ENTITY plugin.file                                         "Pwail">
 <!ENTITY plugin.mimeTypes                                    "Kit me MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Cak kit me Adobe Flash ma kigwokko">
+<!ENTITY plugin.enableBlocklists.label                       "Geng jami me Flash maraco ki ma pe mite">
