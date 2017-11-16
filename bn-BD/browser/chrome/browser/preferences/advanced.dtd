@@ -139,7 +139,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "সুপারিশকৃত কর্মক্ষমতা বিষয়ক সেটিংগুলি ব্যবহার করুন">
 <!ENTITY useRecommendedPerformanceSettings2.description
-                                         "এই সেটিং গুলি আপনার কম্পিউটারের হার্ডওয়ার ও অপারেটিং সিস্টেমের জন্য বিশেষভাবে নির্বাচিত।">
+                                         "এই সেটিং আপনার কম্পিউটারের হার্ডওয়ার ও অপারেটিং সিস্টেমের জন্য তৈরি।">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
