@@ -2,18 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pingDataSource "
-Fonte de datos ping:
-">
-<!ENTITY aboutTelemetry.showCurrentPingData "
-Dados de ping atuais
-">
-<!ENTITY aboutTelemetry.showArchivedPingData "
-Datos de ping arquivados
-">
-<!ENTITY aboutTelemetry.showSubsessionData "
-Mostrar dados de sub-sessão
-">
+<!ENTITY aboutTelemetry.pingDataSource "Fonte de datos de ping:">
+<!ENTITY aboutTelemetry.showCurrentPingData "Dados ping atuais">
+<!ENTITY aboutTelemetry.showArchivedPingData "Dados ping arquivados">
+<!ENTITY aboutTelemetry.showSubsessionData "Mostrar dados de sub-sessão">
 <!ENTITY aboutTelemetry.choosePing "
 Escolha o ping:
 ">
@@ -58,28 +50,26 @@ Abrir no visualizador de JSON
 ">
 
 <!ENTITY aboutTelemetry.homeSection "Início">
-<!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
-<!ENTITY aboutTelemetry.environmentDataSection "  Dados do ambiente">
-<!ENTITY aboutTelemetry.sessionInfoSection "  Informação da sessão">
+<!ENTITY aboutTelemetry.generalDataSection "Dados gerais">
+<!ENTITY aboutTelemetry.environmentDataSection "Dados do ambiente">
+<!ENTITY aboutTelemetry.sessionInfoSection "Informação da sessão">
 <!ENTITY aboutTelemetry.scalarsSection "  Escalares">
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Escalares codificados">
-<!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramas teclados">
+<!ENTITY aboutTelemetry.histogramsSection "Histogramas">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Histogramas teclados">
 <!ENTITY aboutTelemetry.eventsSection "  Eventos">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Medições simples">
 <!ENTITY aboutTelemetry.telemetryLogSection "  Registo de telemetria">
 <!ENTITY aboutTelemetry.slowSqlSection "  Instruções SQL lentas">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Bloqueios do navegador">
+<!ENTITY aboutTelemetry.chromeHangsSection "Bloqueios do navegador">
 <!ENTITY aboutTelemetry.addonDetailsSection "Detalhes de extras">
 <!ENTITY aboutTelemetry.capturedStacksSection "  Stacks capturadas">
 <!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
 <!ENTITY aboutTelemetry.rawPayloadSection "
 Payload em bruto
 ">
-<!ENTITY aboutTelemetry.raw "
-JSON em bruto
-">
+<!ENTITY aboutTelemetry.raw "JSON em bruto">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: A depuração lenta de SQL está ativada. As strings de SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
-<!ENTITY aboutTelemetry.fetchStackSymbols "  Obter nomes de funções para stacks">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Obter nomes de funções para stacks">
 <!ENTITY aboutTelemetry.hideStackSymbols "  Mostrar dados em bruto de stack">
