@@ -74,6 +74,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Activar lo desbogatge del chrome del navigador e dels moduls">
+<!ENTITY options.enableChrome.tooltip3  "Activar aquesta opcion vos autorizarà a utilizar diferentas aisinas de desvelopament dins lo contèxte del navigador (via Aisinas > Desvelopament web > Bòstia d'aisinas del navigador) e de desbogar de moduls dempuèi lo gestionari de moduls complementaris">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -90,14 +91,19 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
+<!ENTITY options.disableHTTPCache.label     "Desactivar lo cache HTTP (quand la bóstia d'aisinas es dobèrta)">
+<!ENTITY options.disableHTTPCache.tooltip   "Activar aquesta opcion desactivarà lo cache HTTP per totes los onglets ont la bóstia d'aisina es dobèrta. Aquesta opcion a pas cap d'efièch sus los trabalhadors de servici.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+<!ENTITY options.enableServiceWorkersHTTP.label     "Activar los trabalhdors de servici via HTTP (quand la bóstia d'aisinas es dobèrta)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Activar aquesta opcion activarà los trabalhadors de servici via HTTP per totes los onglets ont la bóstia d'aisinas es dobèrta.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "Aisinas pels desvolopaires per defaut">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
@@ -122,6 +128,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   "Utiliza lo tèma del navegator « Developer Edition »">
+<!ENTITY options.usedeveditiontheme.tooltip "Activar/Desactivar lo tèma Developer Edition.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -134,9 +142,11 @@
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Desbugador">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
+<!ENTITY options.sourceMaps.label      "Activar las mapas de font">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -151,12 +161,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Comportament per las capturas d’ecran">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Captura d'ecran cap al pòrtapapièr">
+<!ENTITY options.screenshot.clipboard.tooltip    "Servar la captura d'ecran dirèctament al pòrtapapièr">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Far lo son d'un obturador optic">
+<!ENTITY options.screenshot.audio.tooltip    "Activar lo son d’un obturador optic pendent la captura d’ecran">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
@@ -169,6 +184,14 @@
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "Preferéncias de l'editor">
+<!ENTITY options.sourceeditor.detectindentation.label   "Detectar l’indentacion">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Deduire l’indentacion en veire lo contengut font">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Autotampar parentèsis e acoladas">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserir automaticament parentèsis e acoladas tampadas">
+<!ENTITY options.sourceeditor.expandtab.label           "Indentar mejans d’espacis">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Utilizar d'espacis puslèu que de caractèrs de tabulacion">
 <!ENTITY options.sourceeditor.tabsize.label             "Talha de l'onglet">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "Combinasons de tòca">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "C">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Per defaut">
