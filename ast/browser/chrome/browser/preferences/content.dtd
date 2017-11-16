@@ -13,9 +13,17 @@
 <!ENTITY  popupExceptions.label                                 "Esceiciones…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
+<!ENTITY  notificationSettingsButton.label                      "Axustes…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
 
+<!ENTITY  locationSettingsButton.label                          "Axustes…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraSettingsButton.label                            "Axustes…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
+<!ENTITY  microphoneSettingsButton.label                        "Axustes…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Fontes y colores">
 

@@ -6,3 +6,4 @@
 <!ENTITY     hostCol.label                 "Sitiu">
 <!ENTITY     statusCol.label               "Estáu">
 <!ENTITY     usageCol.label                "Almacenamientu">
+<!ENTITY     removingDialog.title          "Desaniciar datos del sitiu">
