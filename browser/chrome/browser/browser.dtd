@@ -735,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "এই পাতায় খুঁজুন…">
+<!ENTITY findOnCmd.label     "এই পাতায় অনুসন্ধান…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "পুনরায় খুঁজুন">
