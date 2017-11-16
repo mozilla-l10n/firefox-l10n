@@ -2,13 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  applications.label       "Aplicaciones">
+<!ENTITY  applications.description "Escueye cómo &brandShortName; xestiona los ficheros que descargues de la Web o les aplicaciones qu'uses mentanto restoles.">
 
 <!ENTITY  typeColumn.label        "Mena de conteníu">
 <!ENTITY  typeColumn.accesskey    "M">
 
 <!ENTITY  actionColumn2.label     "Aición">
 <!ENTITY  actionColumn2.accesskey "A">
-
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
 

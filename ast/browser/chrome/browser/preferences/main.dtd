@@ -6,7 +6,9 @@
 
 <!ENTITY startupUserHomePage.label "Amosar la to páxina d'aniciu">
 <!ENTITY startupBlankPage.label    "Amosar una páxina balera">
+<!ENTITY startupPrevSession.label  "Amosar les ventanes y llingüetes de la cabera sesión">
 
+<!ENTITY homepage2.label           "Páxina d'aniciu">
 <!ENTITY useCurrentPage.label      "Usar páxina actual">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Usar páxines actuales">
@@ -14,6 +16,7 @@
 <!ENTITY chooseBookmark.accesskey  "m">
 <!ENTITY restoreDefault.label      "Reafitar valores">
 <!ENTITY restoreDefault.accesskey  "R">
+
 
 <!ENTITY downloads.label     "Descargues">
 
@@ -23,11 +26,10 @@
 <!ENTITY chooseFolderWin.accesskey    "l">
 <!ENTITY chooseFolderMac.label        "Escoyer…">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "Entrugar siempres aú guardar los ficheros">
 
 <!ENTITY alwaysCheckDefault2.label        "Comprobar siempres si &brandShortName; ye'l to restolador por defeutu">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
-<!ENTITY setAsMyDefaultBrowser2.label     "Predeterminar">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
 <!ENTITY isDefault.label                  "&brandShortName; ye'l to restolador web predetermináu">
 <!ENTITY isNotDefault.label               "&brandShortName; nun ye'l to restolador web predetermináu">
 
