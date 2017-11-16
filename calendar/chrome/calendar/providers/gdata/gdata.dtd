@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+<!ENTITY gdata.reminder.action.sms.label "Enviar un mensaje de texto">
+
+<!ENTITY gdata.wizard.session.description "Por favor, escoge una sesión existente o introduce tu dirección de correo electrónico para crear una nueva sesión. Solo necesitas una sesión por cuenta.">
+<!ENTITY gdata.wizard.calendars.description "Por favor, selecciona los calendarios y listas de tareas a las que te gustaría suscribirte.">
+
+<!ENTITY gdata.wizard.nextstep.description "Por favor, avanza al siguiente paso para establecer tus calendarios.">
