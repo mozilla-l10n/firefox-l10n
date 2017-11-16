@@ -21,4 +21,4 @@
 <!ENTITY cmd.clearList.accesskey                   "P">
 <!ENTITY cmd.clearList.tooltip                     "Hiq krejt zërat prej listës së kartelave të ruajtura, me përjashtim të shkarkimeve në rrugë e sipër.">
 <!ENTITY cmd.searchDownloads.label                 "Kërkoni…">
-<!ENTITY cmd.searchDownloads.key                   "K">
+<!ENTITY cmd.searchDownloads.key                   "F">

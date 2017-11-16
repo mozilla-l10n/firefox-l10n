@@ -141,7 +141,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Hiq Spiranca të Emërtuara">
 <!ENTITY formatRemoveNamedAnchors.accesskey "H">
-<!ENTITY formatRemoveNamedAnchors2.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
