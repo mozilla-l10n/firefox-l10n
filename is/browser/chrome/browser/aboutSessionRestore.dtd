@@ -8,6 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Því miður erum við í smá vandræðum með að ná í síðurnar aftur.">
 <!ENTITY restorepage.problemDesc2   "Vandræði eru við að endurheimta seinustu lotu. Veldu endurheimta vafralotu til að reyna aftur.">
+<!ENTITY restorepage.tryThis2       "Geturðu ekki endurheimt lotu? Stundum er einn flipi sem er að valda vandræðum. Skoðaðu fyrri flipa, fjarlægðu hakið á þeim flipum sem þú vilt ekki og reyndu að endurheimta aftur.">
 
 <!ENTITY restorepage.hideTabs       "Fela fyrri flipa">
 <!ENTITY restorepage.showTabs       "Sýna fyrri flipa">
