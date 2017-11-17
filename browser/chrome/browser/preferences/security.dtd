@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "নিরাপত্তা">
 
+<!ENTITY  warnOnAddonInstall2.label       "যখন ওয়েবসাইট কোন অ্যাড-অন ইন্সটল করার চেষ্টা করলে আপনাকে সর্তক করবে">
 <!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -11,6 +12,7 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "ক্ষতিকারক কন্টেন্ট ও বিপদজনক সফ্টওয়্যার সুরক্ষা">
 <!ENTITY  enableSafeBrowsing.label        "লুকানো এবং ক্ষতিকর কনটেন্ট ব্লক করো">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
