@@ -71,7 +71,7 @@
 <!ENTITY fxaccount_pref_sync_use_metered2 'Synkronoi vain Wi-Fi-yhteydellä'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
-<!ENTITY fxaccount_status_legal 'Lakiteksti' >
+<!ENTITY fxaccount_status_legal 'Juridiset asiat' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
