@@ -105,5 +105,6 @@
 <!ENTITY  browserContainersSettings.label        "Axustes…">
 <!ENTITY  browserContainersSettings.accesskey    "u">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Torgar que los servicios d'accesibilidá accedan al to restolador">
 <!ENTITY  a11yPrivacy.learnmore.label    "Deprendi más">
 <!ENTITY enableSafeBrowsingLearnMore.label "Deprendi más">

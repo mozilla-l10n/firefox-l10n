@@ -340,6 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Llimpiar l'historial recién…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión previa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver panel llateral del historial">
+<!ENTITY appMenuHelp.label "Ayuda">
 <!ENTITY appMenuHelp.tooltip "Abrir menú d'ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Llingüetes sincronizaes">

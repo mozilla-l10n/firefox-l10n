@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Seguranza">
 
+<!ENTITY  warnOnAddonInstall2.label       "Avisar cuando los sitios web intenten instalar add-ons">
+<!ENTITY  warnOnAddonInstall2.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
