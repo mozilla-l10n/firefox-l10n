@@ -61,7 +61,7 @@
 <!ENTITY  event.menu.item.new.label                       "I ri">
 <!ENTITY  event.menu.item.new.accesskey                   "r">
 <!ENTITY  event.menu.item.new.event.label                 "Veprimtari">
-<!ENTITY  event.menu.item.new.event.accesskey             "N">
+<!ENTITY  event.menu.item.new.event.accesskey             "V">
 <!ENTITY  event.menu.item.new.task.label                  "Punë">
 <!ENTITY  event.menu.item.new.task.accesskey              "P">
 <!ENTITY  event.menu.item.new.message.label               "Mesazh">

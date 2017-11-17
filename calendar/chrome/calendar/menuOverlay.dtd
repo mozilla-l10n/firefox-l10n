@@ -4,7 +4,7 @@
 
 <!-- Event Menu -->
 <!ENTITY event.new.event                        "Veprimtari e Re…">
-<!ENTITY event.new.event.accesskey              "N">
+<!ENTITY event.new.event.accesskey              "R">
 
 <!ENTITY event.new.task                         "Punë e Re…">
 <!ENTITY event.new.task.accesskey               "P">
@@ -14,6 +14,7 @@
 
 <!ENTITY calendar.export.label                  "Eksportoni…">
 <!ENTITY calendar.export.accesskey              "E">
+
 <!ENTITY calendar.publish.label                 "Botoni…">
 <!ENTITY calendar.publish.accesskey             "b">
 
@@ -21,6 +22,13 @@
 <!ENTITY calendar.deletecalendar.accesskey      "F">
 <!ENTITY calendar.unsubscribecalendar.label     "Shpajtohuni Prej Kalendarit të Përzgjedhur…">
 <!ENTITY calendar.unsubscribecalendar.accesskey "U">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Hiqeni Kalendarin e Përzgjedhur…">
+<!ENTITY calendar.removecalendar.accesskey      "H">
+
 
 <!ENTITY calendar.menu.customize.label          "Përshtateni…">
 <!ENTITY calendar.menu.customize.accesskey      "a">
@@ -40,9 +48,3 @@
 
 <!ENTITY calendar.properties.label              "Veti Kalendari…">
 <!ENTITY calendar.properties.accesskey          "V">
-
-<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
-      is the general action of removing it, while deleting means to clear the
-      data and unsubscribing means just taking it out of the calendar list. -->
-<!ENTITY calendar.removecalendar.label          "Hiqeni Kalendarin e Përzgjedhur…">
-<!ENTITY calendar.removecalendar.accesskey      "H">
