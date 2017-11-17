@@ -529,12 +529,12 @@
 <!ENTITY pref_scroll_title_bar_summary2 "网页向下滚动时隐藏 &brandShortName; 工具栏">
 
 <!ENTITY pref_tab_queue_title3 "标签页队列">
-<!ENTITY pref_tab_queue_summary4 "保存链接，下次打开 &brandShortName; 时一并开启">
+<!ENTITY pref_tab_queue_summary4 "在其他应用中点击链接时不立即开启，下次启动 &brandShortName; 时一并打开">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "紧凑标签页">
-<!ENTITY pref_compact_tabs_summary2 "纵向模式下标签页列为两排">
+<!ENTITY pref_compact_tabs_summary2 "竖屏模式下标签页列为两排">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
