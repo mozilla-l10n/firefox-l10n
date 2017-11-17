@@ -19,7 +19,7 @@
 <!ENTITY search_pref_button_content_description 'Postavke'>
 
 <!ENTITY pref_clearHistory_confirmation 'Historija očišćena'>
-<!ENTITY pref_clearHistory_dialogMessage 'Izbriši svu historiju pretraživanja sa ovog uređaja?'>
+<!ENTITY pref_clearHistory_dialogMessage 'Izbrisati svu historiju pretraživanja sa ovog uređaja?'>
 <!ENTITY pref_clearHistory_title 'Očisti historiju pretrage'>
 
 <!ENTITY search_widget_button_label 'Traži'>
