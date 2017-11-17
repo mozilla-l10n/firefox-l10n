@@ -102,8 +102,8 @@
 <!ENTITY proxyConnectFailure.title "Shërbyesi ndërmjetës po i hedh poshtë kërkesat për lidhje">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Kontrolloni rregullimet për ndërmjetësin për t&apos;u siguruar që janë të sakta.</li>
-  <li>Lidhuni me përgjegjësin e rrjetit tuaj për t&apos;u siguruar që shërbyesi ndërmjetës po punon.</li>
+  <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
+  <li>Lidhuni me përgjegjësin e rrjetit tuaj, për t&apos;u siguruar që shërbyesi ndërmjetës po punon</li>
 </ul>
 ">
 
@@ -125,7 +125,7 @@
 <!ENTITY unknownSocketType.title "Përgjigje e papritur nga shërbyesi">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Kontrolloni për t&apos;u siguruar që sistemi juaj ka të instaluar Përgjegjësin e Sigurisë Personale.</li>
+  <li>Kontrolloni për t&apos;u siguruar që sistemi juaj ka të instaluar Përgjegjësin e Sigurisë Vetjake.</li>
   <li>Kjo mund të vijë nga një formësim jostandard te shërbyesi.</li>
 </ul>
 ">
@@ -159,7 +159,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-i e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që nuk e lejon këtë.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po përpiqeni të shihni s&apos;mund të shfaqet, ngaqë u pika një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit, për t&apos;ua bërë të ditur këtë problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po përpiqeni të shihni s&apos;mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit, për t&apos;ua bërë të ditur këtë problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hiqmë prej këtej!">

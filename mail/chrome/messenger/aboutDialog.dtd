@@ -1,6 +1,9 @@
 <!ENTITY aboutDialog.title          "Rreth &brandFullName;-it">
 
-
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
@@ -31,7 +34,7 @@
 <!ENTITY community.middle2          ", një ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "bashkësi mbarëbotërore">
-<!ENTITY community.end3             " që punon tok për ta mbajtur Web-in të hapët, publik dhe të mundshëm nga kushdo.">
+<!ENTITY community.end3             " që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.">
 
 <!ENTITY helpus.start               "Dëshironi të ndihmoni? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
