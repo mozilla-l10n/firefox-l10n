@@ -6,15 +6,15 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Không tự động đề nghị dịch các ngôn ngữ sau:">
+<!ENTITY noTranslationForLanguages2.label "Bản dịch sẽ không được cung cấp cho các ngôn ngữ sau">
 <!ENTITY treehead.languageName.label      "Ngôn ngữ">
 <!ENTITY removeLanguage.label             "Xóa ngôn ngữ">
 <!ENTITY removeLanguage.accesskey         "X">
 <!ENTITY removeAllLanguages.label         "Xóa tất cả ngôn ngữ">
 <!ENTITY removeAllLanguages.accesskey     "t">
 
-<!ENTITY noTranslationForSites.label      "Không tự động đề nghị dịch các trang sau:">
-<!ENTITY treehead.siteName.label          "Trang">
+<!ENTITY noTranslationForSites2.label     "Bản dịch sẽ không được cung cấp cho các trang web sau">
+<!ENTITY treehead.siteName2.label         "Trang web">
 <!ENTITY removeSite.label                 "Xóa trang">
 <!ENTITY removeSite.accesskey             "X">
 <!ENTITY removeAllSites.label             "Xóa hết các trang này">
