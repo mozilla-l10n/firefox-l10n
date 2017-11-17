@@ -20,9 +20,9 @@
 
 <!ENTITY dnsNotFound.pageTitle "Palvelinta ei löytynyt">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Emme oikein löydä tuota sivua.">
+<!ENTITY dnsNotFound.title1 "Hmm. Sivua ei löydy.">
 <!ENTITY dnsNotFound.longDesc1 "
-<strong>Jos osoite on oikea, voit kokeilla</strong>
+<strong>Jos osoite on oikea, voit</strong>
 <ul>
   <li>yrittää uudestaan myöhemmin</li>
   <li>tarkistaa verkkoyhteytesi</li>
