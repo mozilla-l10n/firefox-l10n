@@ -38,7 +38,14 @@
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Kontrolloni emrin e kartelës për gabime shkrimi me të mëdha ose të vogla, apo të tjera gabime në shkrim.</li>
-  <li>Shihni mos është lëvizur, riemërtuar a fshirë kartela.</li>
+  <li>Shihni se mos kartela qe lëvizur, riemërtuar ose fshirë.</li>
+</ul>
+">
+
+<!ENTITY fileAccessDenied.title "Hyrja te kartela u mohua">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Kartela mund të jetë hequr, lëvizur, ose hyrjen e pengojnë lejet mbi kartelën.</li>
 </ul>
 ">
 
@@ -63,17 +70,15 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Hyrja te kartela u mohua">
-<!ENTITY fileAccessDenied.longDesc "
-<ul>
-  <li>Kartela mund të jetë hequr, lëvizur, ose hyrjen e pengojnë lejet mbi kartelën.</li>
-</ul>
-">
-
 <!ENTITY netInterrupt.title "Lidhja u ndërpre">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY notCached.title "Dokumenti Ka Skaduar">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese sigurie, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.</li></ul>">
+
 <!ENTITY netOffline.title "Mënyrë i Palidhur">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Riprovojeni. &brandShortName;-i do të përpiqet të hapë një lidhje dhe të ringarkojë faqen.
@@ -81,9 +86,6 @@
   </li>
 </ul>
 ">
-
-<!ENTITY notCached.title "Dokumenti Ka Skaduar">
-<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese sigurie, &brandShortName;-i nuk rikërkon vetvetiu dokumente rezervat.</li><li>Që ta rikërkoni dokumentin prej sajtit, klikoni mbi Riprovoni.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Lënde">
 <!ENTITY contentEncodingError.longDesc "
@@ -121,6 +123,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Nuk arrin të gjejë shërbyesin ndërmjetës">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
@@ -161,6 +165,8 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Sajti mund të jetë përkohësisht jashtë pune ose tepër i zënë. Riprovoni pas pak çastesh.</li>
