@@ -21,6 +21,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Envía automáticamente información acerca del rendimiento, hardware, uso y personalizaciones a &vendorShortName; para mejorar &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " es una ">
@@ -42,6 +43,7 @@
 <!ENTITY helpus.middle              " o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "¡Participa!">
+<!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Notas de la versión">
 
@@ -70,6 +72,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Actualización fallida. ">
 <!ENTITY update.failed.linkText     "Descargar la última versión">
+<!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -77,6 +80,7 @@
      try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.manual.start        "Descargar la">
 <!ENTITY update.manual.linkText     "última versión">
+<!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -86,6 +90,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "No puedes realizar más actualizaciones en este sistema. ">
 <!ENTITY update.unsupported.linkText "Aprender más">
+<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -93,6 +98,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Descargando actualización — ">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aplicando actualización…">
 
