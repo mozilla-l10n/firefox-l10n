@@ -389,6 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administroni Pajisje…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Shihni Anështyllën e Skedave të Njëkohësuara">
 
+<!ENTITY appMenuRecentHighlights.label "Nxjerrje Në Pah Së Fundi">
 
 <!ENTITY customizeMenu.addToToolbar.label "Shtoje te Paneli">
 <!ENTITY customizeMenu.addToToolbar.accesskey "P">
@@ -801,6 +802,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjeve tuaja të tjera.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Kërko në skeda të njëkohësuara">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
