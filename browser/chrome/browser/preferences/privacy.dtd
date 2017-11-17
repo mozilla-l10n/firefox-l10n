@@ -35,6 +35,7 @@
 <!ENTITY  permissions.label             "Leje">
 
 <!ENTITY  addressBar.label              "Shtyllë Adresash">
+<!ENTITY  addressBar.suggest.label      "Kur përdoret shtylla e adresave, jep sugjerime nga">
 <!ENTITY  locbar.history2.label         "Historik shfletimesh">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Faqerojtësit">
@@ -114,5 +115,7 @@
 <!ENTITY  browserContainersSettings.label        "Rregullime…">
 <!ENTITY  browserContainersSettings.accesskey    "R">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Parandaloni shërbime përdorshmërie të hyjnë në shfletuesin tuaj">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "P">
 <!ENTITY  a11yPrivacy.learnmore.label    "Mësoni më tepër">
 <!ENTITY enableSafeBrowsingLearnMore.label "Mësoni më tepër">

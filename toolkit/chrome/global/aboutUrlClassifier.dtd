@@ -15,5 +15,7 @@
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Pastroje">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Emër tabele">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Shfaqi zërat">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Zëra Fshehtine">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Parashtesë">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Diagnostikim">
 <!ENTITY aboutUrlClassifier.debugFile                   "Kartelë regjistri të tanishëm">
