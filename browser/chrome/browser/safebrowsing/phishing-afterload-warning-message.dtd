@@ -16,6 +16,7 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "r">
 
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc2 "Këshillimi u dha nga <a id='advisory_provider'/>.">
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Vizita në këtë sajt mund të dëmtojë kompjuterin tuaj">
@@ -41,9 +42,13 @@
 
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Sajt i rremë përpara">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName;-i e bllokoi këtë faqe ngaqë mund t’jua hedhë dhe të bëni diçka të rrezikshme, të tillë si instalim software-i pse nxjerrje sheshit të dhënash personale, të tilla si fjalëkalime ose karta krediti.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> është <a id='error_desc_link'>raportuar si sajt i rrejshëm</a>. Mundeni <a id='report_detection'>të raportoni një problem me këtë vlerësim</a> ose <a id='ignore_warning_link'>ta shpërfillni rrezikun</a> dhe të shkoni te ky sajt jo i parrezik.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> është <a id='error_desc_link'>raportuar si sajt i rrejshëm</a>. Mundeni <a id='report_detection'>të raportoni një problem me këtë vlerësim</a>.">
 
 
 
