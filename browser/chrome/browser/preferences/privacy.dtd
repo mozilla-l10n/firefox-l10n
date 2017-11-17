@@ -50,6 +50,7 @@
 <!ENTITY  showCookies.accesskey         "s">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; podrá:">
+<!ENTITY  historyHeader2.pre.accesskey     "o">
 <!ENTITY  historyHeader.remember.label     "Recordar l'historial">
 <!ENTITY  historyHeader.dontremember.label "Nun recordar historial">
 <!ENTITY  historyHeader.custom.label       "Usar una configuración personalizada pal historial">
