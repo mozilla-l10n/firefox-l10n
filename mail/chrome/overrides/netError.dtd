@@ -32,7 +32,7 @@
 <!ENTITY fileNotFound.title "Nuk u gjet kartelë">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Kontrolloni emrin e kartelës për gabime në shkrim.</li>
+  <li>Kontrolloni emrin e kartelës për gabime shkrimi me të mëdha ose të vogla, apo të tjera gabime në shkrim.</li>
   <li>Shihni se mos kartela qe lëvizur, riemërtuar ose fshirë.</li>
 </ul>
 ">
