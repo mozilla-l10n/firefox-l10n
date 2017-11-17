@@ -15,6 +15,7 @@
 
 <!ENTITY  notificationSettingsButton.label                      "Axustes…">
 <!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Deprendi más">
 
 <!ENTITY  locationSettingsButton.label                          "Axustes…">
 <!ENTITY  locationSettingsButton.accesskey                      "t">

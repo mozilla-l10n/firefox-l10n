@@ -9,6 +9,7 @@
 <!ENTITY useCursorNavigation.label       "Usar siempre les tecles del cursor pa restolar dientro de les páxines">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Guetar el testu mientres s'escribe">
+<!ENTITY searchOnStartTyping.accesskey   "s">
 <!ENTITY useOnScreenKeyboard.label       "Amosar un tecláu en pantalla cuando seya necesario">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -18,6 +19,7 @@
 <!ENTITY useAutoScroll.accesskey         "d">
 <!ENTITY useSmoothScrolling.label        "Usar desplazamientu sele">
 <!ENTITY useSmoothScrolling.accesskey    "l">
+<!ENTITY checkUserSpelling.label         "Comprobar ortografía mientres s'escribe">
 
 <!ENTITY dataChoicesTab.label            "Eleición de datos">
 
@@ -47,6 +49,7 @@ available. -->
 <!ENTITY clearSiteData.label             "Llimpiar tolos datos">
 <!ENTITY siteDataSettings.label          "Axustes…">
 <!ENTITY siteDataSettings.accesskey      "x">
+<!ENTITY siteDataLearnMoreLink.label     "Deprendi más">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -77,11 +80,14 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Caltén &brandShortName; anováu pa un meyor rindimientu, estabilidá y seguranza.">
 <!ENTITY updateAuto3.label               "Instalar anovamientos automáticamente (recomendáu)">
 <!ENTITY updateCheckChoose2.label        "Guetar anovamientos pero dexar escoyer cuándo instalalos">
 <!ENTITY updateManual2.label             "Nun guetar por anovamientos (nun se recomienda)">
 
 <!ENTITY updateHistory2.label            "Amosar l'historial d'anovamientos…">
+<!ENTITY updateHistory2.accesskey        "t">
 
 <!ENTITY useService.label                "Usar serviciu en segundu planu pa instalar los anovamientos">
 <!ENTITY useService.accesskey            "v">
@@ -105,5 +111,7 @@ available. -->
                                          "Estos axustes adáutense al hardware y sistema operativu del to equipu.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Deprendi más">
 <!ENTITY allowHWAccel.label              "Usar aceleración de hardware cuando tea disponible">
 <!ENTITY allowHWAccel.accesskey          "h">

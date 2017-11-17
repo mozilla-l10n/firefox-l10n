@@ -30,6 +30,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Comprobar siempres si &brandShortName; ye'l to restolador por defeutu">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
+<!ENTITY setAsMyDefaultBrowser3.label     "Facelu predetermináu…">
 <!ENTITY isDefault.label                  "&brandShortName; ye'l to restolador web predetermináu">
 <!ENTITY isNotDefault.label               "&brandShortName; nun ye'l to restolador web predetermináu">
 
