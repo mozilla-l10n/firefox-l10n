@@ -34,7 +34,7 @@
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Kontrolloni emrin e kartelës për gabime shkrimi me të mëdha ose të vogla, apo të tjera gabime në shkrim.</li>
-  <li>Shihni mos është lëvizur, riemërtuar a fshirë kartela.</li>
+  <li>Shihni se mos kartela qe lëvizur, riemërtuar ose fshirë.</li>
 </ul>
 ">
 
@@ -179,8 +179,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName;-i s’u lidh te <span id='wrongSystemTime_URL'/> ngaqë ora e kompjuterit dukes se tregon kohë të gabuar dhe kjo pengon një lidhje të sigurt.</p> <p>Kompjuteri juaj është rregulluar për <span id='wrongSystemTime_systemDate'/>, ndërkohë që duhet të ishte <span id='wrongSystemTime_actualDate'/>. Që të ndreqet ky problem, ndryshoni rregullimet tuaja për datën dhe kohën, për t’i përputhur me kohën e saktë.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; -i s’u lidh te <span id='wrongSystemTimeWithoutReference_URL'/> ngaqë ora e kompjuterit dukes se tregon kohë të gabuar dhe kjo pengon një lidhje të sigurt.</p> <p>Kompjuteri juaj është rregulluar për <span id='wrongSystemTimeWithoutReference_systemDate'/>. Që të ndreqet ky problem, ndryshoni rregullimet tuaja për datën dhe kohën, për t’i përputhur me kohën e saktë.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName;-i s’u lidh te <span id='wrongSystemTime_URL'/>, ngaqë ora e kompjuterit duket se tregon kohë të gabuar dhe kjo pengon një lidhje të sigurt.</p> <p>Kompjuteri juaj është rregulluar për <span id='wrongSystemTime_systemDate'/>, ndërkohë që duhet të ishte <span id='wrongSystemTime_actualDate'/>. Që të ndreqet ky problem, ndryshoni rregullimet tuaja për datën dhe kohën, për t’i përputhur me kohën e saktë.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; -i s’u lidh te <span id='wrongSystemTimeWithoutReference_URL'/>, ngaqë ora e kompjuterit duket se tregon kohë të gabuar dhe kjo pengon një lidhje të sigurt.</p> <p>Kompjuteri juaj është rregulluar për <span id='wrongSystemTimeWithoutReference_systemDate'/>. Që të ndreqet ky problem, ndryshoni rregullimet tuaja për datën dhe kohën, për t’i përputhur me kohën e saktë.</p>">
 
 <!ENTITY certerror.pagetitle1  "Lidhje e Pasigurt">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ky sajt përdor HTTP

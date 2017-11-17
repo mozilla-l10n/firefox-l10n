@@ -129,7 +129,7 @@ available. -->
 <!ENTITY selectCerts.ask                 "Pyetmë çdo herë">
 <!ENTITY selectCerts.ask.accesskey       "y">
 <!ENTITY enableOCSP.label                "Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.accesskey            "K">
 <!ENTITY viewCerts2.label                "Shihni Dëshmi…">
 <!ENTITY viewCerts2.accesskey            "D">
 <!ENTITY viewSecurityDevices2.label      "Pajisje Sigurie…">
@@ -141,7 +141,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Këto rregullime janë qepur për hardware-in dhe sistemin operativ të kompjuterit tuaj.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
-                                         "q">
+                                         "P">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Mësoni më tepër">
 <!ENTITY limitContentProcessOption.label "Kufi procesesh lënde">

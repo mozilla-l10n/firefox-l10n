@@ -53,7 +53,7 @@
 <!ENTITY translateWebPages.label      "Përktheni lëndë web">
 <!ENTITY translateWebPages.accesskey  "P">
 <!ENTITY translateExceptions.label    "Përjashtime…">
-<!ENTITY translateExceptions.accesskey "x">
+<!ENTITY translateExceptions.accesskey "P">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
