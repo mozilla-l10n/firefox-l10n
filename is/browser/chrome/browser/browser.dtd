@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Opna skilaboðaflipa">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Opna staðsetningarbeiðnaflipa">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Opna skilaboðaflipa fyrir viðbótauppsetningu">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Sýsla með öryggi fyrir canvas upplýsingar">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Opna skilaboðaflipa fyrir aftengda geymslu">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Opna skilaboðaflipa fyrir vistuð lykilorð">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sýsla með notkun tengiforrita">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Þú hefur lokað fyrir tilkynningar á þessu vefsvæði.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Þú hefur lokað á sprettiglugga fyrir þetta vefsvæði.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sýna sögu">
 
@@ -856,6 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ná í fleiri þemu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Dragðu og slepptu hlutum hérna til að hafa þau við hendina en ekki á verkfæraslánni…">
+<!ENTITY customizeMode.overflowList.title2 "Yfirflæðisvalmynd">
 <!ENTITY customizeMode.overflowList.description "Dragðu og slepptu hlutum hérna til að hafa þau við hendina en ekki á verkfæraslánni…">
 <!ENTITY customizeMode.uidensity "Þéttleiki">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
