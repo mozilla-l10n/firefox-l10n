@@ -45,6 +45,7 @@ sentence. -->
 <!ENTITY messageStyleTab.title             "Styly zpráv">
 <!ENTITY messageStylePreview.label         "Náhled:">
 <!ENTITY messageStyleTheme.label           "Motiv vzhledu:">
+<!ENTITY messageStyleTheme.accesskey       "t">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Bubliny">
 <!ENTITY messageStyleDarkTheme.label       "Tmavý">
@@ -52,6 +53,8 @@ sentence. -->
 <!ENTITY messageStyleSimpleTheme.label     "Jednoduchý">
 <!ENTITY messageStyleDefaultTheme.label    "Výchozí">
 <!ENTITY messageStyleVariant.label         "Varianta:">
+<!ENTITY messageStyleVariant.accesskey     "V">
 <!ENTITY messageStyleShowHeader.label      "Zobrazit hlavičku">
+<!ENTITY messageStyleShowHeader.accesskey  "h">
 <!ENTITY messageStyleNoPreview.title       "Náhled není k dispozici">
 <!ENTITY messageStyleNoPreview.description "Tento motiv není platný, nebo je momentálně nedostupný (zakázaný doplněk, nouzový režim, …).">
