@@ -66,7 +66,7 @@
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Kodim Teksti për Lëndë të Dikurshme">
 <!ENTITY languages.customize.Fallback3.label      "Kodim Teksti Kur S’deklarohet">
-<!ENTITY languages.customize.Fallback3.accesskey  "F">
+<!ENTITY languages.customize.Fallback3.accesskey  "K">
 <!ENTITY languages.customize.Fallback2.desc       "Ky kodim teksti përdoret për lëndë të dikurshme për të cilën nuk ka kodim të deklaruar.">
 
 <!ENTITY languages.customize.Fallback.auto        "Parazgjedhje për Vendoren e Tanishme">

@@ -630,7 +630,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate100x2.label "Normale">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Shpejt (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate125x2.accesskey "S">
 <!ENTITY mediaPlaybackRate150x2.label "Më shpejt (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "ë">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
