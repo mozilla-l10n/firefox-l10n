@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Mbrojtje Nga Gjurmimet">
+<!ENTITY  trackingProtection2.description      "Gjurmimi është grumbullimi i të dhënave tuaja të shfletimit nëpër sajte të shumtë. Gjurmimi mund të përdoret për të krijuar një profil tuajin dhe për t&apos;ju shfaqur lëndë bazuar në të dhënat tuaja personale dhe të shfletimit.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Përdore Mbrojtjen Nga Gjurmimet për bllokim të gjurmuesve të ditur">
 <!ENTITY  trackingProtectionAlways.label       "Përherë">
 <!ENTITY  trackingProtectionAlways.accesskey   "h">
@@ -19,9 +20,15 @@
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Përdore Mbrojtjen Nga Gjurmimet gjatë Shfletimesh Private për bllokim të gjurmuesve të ditur">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Mësoni më tepër">
+<!ENTITY changeBlockList2.label               "Ndryshoni Listë Bllokimesh…">
+<!ENTITY changeBlockList2.accesskey           "N">
 
+<!ENTITY  doNotTrack.description        "Dërgojuni sajteve një sinjal “Mos Më Gjurmo” se nuk doni të ndiqeni">
 <!ENTITY  doNotTrack.learnMore.label    "Mësoni më tepër">
+<!ENTITY  doNotTrack.default.label      "Vetëm kur përdoret Mbrojtje Nga Gjurmimet">
 <!ENTITY  doNotTrack.always.label       "Përherë">
 
 <!ENTITY  history.label                 "Historik">
