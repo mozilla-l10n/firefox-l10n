@@ -55,10 +55,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Lleva la web contigo">
 <!ENTITY signedOut.description        "Sincroniza los tos marcadores, historial, llingüetes, contraseñes, add-ons y preferencies pente tolos tos preseos.">
 <!ENTITY signedOut.accountBox.title   "Coneutar con una &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Crear cuenta">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Aniciar sesión">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2 "¿Nun tienes una cuenta? Fai una">
+<!ENTITY signedOut.accountBox.signin2 "Aniciar sesión…">
 
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
