@@ -70,6 +70,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Dritare Multiproces">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procese Lënde Web">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Kyç Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Kyç Mozilla Location Service">
@@ -150,4 +151,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDevicePreferred "E parapëlqyer">
 <!ENTITY aboutSupport.mediaDeviceFormat "Format">
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanale">
+<!ENTITY aboutSupport.mediaDeviceRate "Shpeshti">
 <!ENTITY aboutSupport.mediaDeviceLatency "Vonesë">
