@@ -19,6 +19,7 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBMLearnMore.label "Deprender más">
 
+<!ENTITY  doNotTrack.learnMore.label    "Deprendi más">
 
 <!ENTITY  history.label                 "Historial">
 
@@ -94,3 +95,5 @@
 <!ENTITY  browserContainersSettings.label        "Axustes…">
 <!ENTITY  browserContainersSettings.accesskey    "u">
 
+<!ENTITY  a11yPrivacy.learnmore.label    "Deprendi más">
+<!ENTITY enableSafeBrowsingLearnMore.label "Deprendi más">

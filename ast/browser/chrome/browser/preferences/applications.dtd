@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Aplicaciones">
-<!ENTITY  applications.description "Escueye cómo &brandShortName; xestiona los ficheros que descargues de la Web o les aplicaciones qu'uses mentanto restoles.">
+<!ENTITY  applications.description "Escueye cómo xestiona &brandShortName; los ficheros que descargues de la Web o les aplicaciones qu'uses mentanto restoles.">
 
 <!ENTITY  typeColumn.label        "Mena de conteníu">
 <!ENTITY  typeColumn.accesskey    "M">
