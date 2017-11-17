@@ -23,7 +23,9 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> কে <a id='error_desc_link'>ক্ষতিকারক সফ্টওয়্যার রয়েছে বলে রিপোর্ট করা হয়েছে</a>। আপনি <a id='report_detection'>সনাক্তকরণ সমস্যা রিপোর্ট করতে পারেন</a> অথবা <a id='ignore_warning_link'>ঝুঁকি উপেক্ষা করে</a> এই অনিরাপদ সাইটে যেতে পারেন।">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> কে <a id='error_desc_link'>ক্ষতিকারক সফ্টওয়্যার রয়েছে বলে রিপোর্ট করা হয়েছে </a>। আপনি <a id='report_detection'>সনাক্তকরণ সমস্যা রিপোর্ট করতে পারেন</a>।">
 
 
 
