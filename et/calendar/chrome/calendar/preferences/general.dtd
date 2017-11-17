@@ -37,6 +37,14 @@
 <!ENTITY pref.soondays.label "Peatselt saabuvate osas kuvatakse:">
 <!ENTITY pref.soondays.accesskey "P">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "Peatselt saabuvate osas kuvatakse:">
+<!ENTITY pref.soondays2.accesskey "P">
+
 <!ENTITY pref.accessibility.label "Hõlbustus" >
 <!ENTITY pref.systemcolors.label "Kasutamise hõlbustamiseks optimeeritakse värve" >
 <!ENTITY pref.systemcolors.accesskey "v">
