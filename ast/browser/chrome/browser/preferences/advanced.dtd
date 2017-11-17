@@ -57,8 +57,8 @@ available. -->
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Llimitar el caché a">
-<!ENTITY limitCacheSizeBefore.accesskey  "m">
+<!ENTITY limitCacheSizeBefore.label      "Llendar caché a">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB d'espaciu">
 <!ENTITY clearCacheNow.label             "Llimpiar agora">
 <!ENTITY clearCacheNow.accesskey         "g">

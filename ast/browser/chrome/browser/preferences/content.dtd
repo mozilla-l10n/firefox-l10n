@@ -13,16 +13,20 @@
 <!ENTITY  popupExceptions.label                                 "Esceiciones…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
+<!ENTITY  notificationPermissions.label                         "Avisos">
 <!ENTITY  notificationSettingsButton.label                      "Axustes…">
 <!ENTITY  notificationSettingsButton.accesskey                  "t">
 <!ENTITY  notificationPermissionsLearnMore.label                "Deprendi más">
 
+<!ENTITY  locationPermissions.label                             "Allugamientu">
 <!ENTITY  locationSettingsButton.label                          "Axustes…">
 <!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraPermissions.label                               "Cámara">
 <!ENTITY  cameraSettingsButton.label                            "Axustes…">
 <!ENTITY  cameraSettingsButton.accesskey                        "t">
 
+<!ENTITY  microphonePermissions.label                           "Micrófonu">
 <!ENTITY  microphoneSettingsButton.label                        "Axustes…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
