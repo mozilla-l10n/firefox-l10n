@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Deschide panoul cu mesaje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Deschide panoul cu cereri de locație">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Deschide panoul de mesaje cu instalarea de suplimente">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gestionează permisiuni de extragere canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Deschide panoul de mesaje cu stocarea offline">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Deschide panoul de mesaje cu salvarea parolelor">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionează utilizarea pluginurilor">
