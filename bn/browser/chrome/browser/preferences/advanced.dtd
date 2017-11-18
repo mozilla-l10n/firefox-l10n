@@ -70,9 +70,9 @@ available. -->
 <!ENTITY limitCacheSizeBefore.label      "ক্যাশের সীমা L">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "মেগাবাইট জায়গা">
-<!ENTITY clearCacheNow.label             "এখনই পরিষ্কার করা হবে C">
+<!ENTITY clearCacheNow.label             "এখনই পরিষ্কার করুন">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "এখনই পরিষ্কার করুন N">
+<!ENTITY clearOfflineAppCacheNow.label   "এখনই পরিষ্কার করুন">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "স্বয়ংক্রিয় ক্যাশে ব্যবস্থা উপেক্ষা করা হবে">
 <!ENTITY overrideSmartCacheSize.accesskey "O">

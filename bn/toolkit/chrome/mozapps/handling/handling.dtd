@@ -5,6 +5,6 @@
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
 <!ENTITY ChooseOtherApp.description "অন্য অ্যাপ্লিকেশন নির্বাচন">
-<!ENTITY ChooseApp.label "নির্বাচন… (C)">
+<!ENTITY ChooseApp.label "নির্বাচন…">
 <!ENTITY ChooseApp.accessKey "C">
 <!ENTITY accept "লিঙ্ক খুলুন">

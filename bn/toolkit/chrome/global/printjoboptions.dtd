@@ -15,7 +15,7 @@
 <!ENTITY colorGroup.label "রঙ:">
 <!ENTITY grayRadio.label "গ্রেস্কেল (G)">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "রঙিন (C)">
+<!ENTITY colorRadio.label "রঙ">
 <!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY edgeMarginInput.label "কাগজের প্রান্ত ও মার্জিনের মধ্যবর্তী ব্যবধান">
