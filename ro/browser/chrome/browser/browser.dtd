@@ -229,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ai blocat stocarea persistentă de date pentru acest site web.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "Ai blocat ferestrele pop-up pentru acest site.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afișează istoricul">
 
