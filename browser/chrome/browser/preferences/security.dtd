@@ -31,7 +31,7 @@
 <!ENTITY  passwordExceptions.label      "Բացառություններ…">
 <!ENTITY  passwordExceptions.accesskey  "ա">
 
-<!ENTITY  useMasterPassword.label        "Օգտագործել հիմնական գաղտնաբառ">
+<!ENTITY  useMasterPassword.label        "Օգտագործել Հիմնական գաղտնաբառ">
 <!ENTITY  useMasterPassword.accesskey    "Օ">
 <!ENTITY  changeMasterPassword.label     "Փոխել Հիմնական գաղտնաբառը…">
 <!ENTITY  changeMasterPassword.accesskey "Հ">
