@@ -18,8 +18,8 @@
 <!ENTITY deniedPortAccess.title "নিরাপত্তাজনীত কারণে চিহ্নিত ঠিকানার উপর বিধি নিষেধ আরোপ করা হয়েছে">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>এরকমবানান ভুল আছে নাকি দেখে নিন <strong>ww</strong>.example.com instead of <strong>www</strong>.example.com</li> <li>কোন পেজ না খুললে, নেটওয়ার্ক চেক করুন connection.</li> <li>ফায়ারওয়াল বা প্রক্সি দিয়ে সুরক্ষিত থাকলে, নিশ্চিত করুন যে  &brandShortName; কে ওয়েব ব্যবহারের অনুমতি দেওয়া আছে</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "সার্ভার পাওয়া যায়নি">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "ফাইল পাওয়া যায়নি">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ফাইলের নামের মধ্যে ভুলবসত লেখা বড় ছাঁদের হরফ অথবা অন্যান্য ত্রুটি পরীক্ষা করুন।</li> <li>ফাইলের স্থান অথবা নাম পরিবর্তিত হয়েছে কিনা অথবা সেটি মুছে ফেলা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
@@ -33,8 +33,7 @@
 <!ENTITY captivePortal.title "নেটওয়ার্কে লগইন করুন">
 
 
-<!ENTITY malformedURI.title "ঠিকানা বৈধ নয়">
-<!ENTITY malformedURI.longDesc "<ul> <li>ওয়েব ঠিকানা সাধারণত উল্লিখিত রূপে লেখা হয় <strong>http://www.example.com/</strong></li> <li>আপনি ফরওয়ার্ড স্ল্যাশ চিহ্ন ব্যবহার করেছেন কিনা তা পরীক্ষা করুন (i.e. <strong>/</strong>)।</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "সংযোগ বিঘ্নিত হয়েছে">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
