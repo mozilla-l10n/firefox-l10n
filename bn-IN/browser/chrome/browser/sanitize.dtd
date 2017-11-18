@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "&brandShortName; থেকে প্রস্থান করা হলে, স্বয়ংক্রিয়রূপে নিম্নলিখিত সামগ্রী মুছে ফেলা হবে:">
 
+<!ENTITY clearDataSettings3.label     "&brandShortName; থেকে প্রস্থান করা হলে, স্বয়ংক্রিয়রূপে নিম্নলিখিত সামগ্রী মুছে ফেলা হবে">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
