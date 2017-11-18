@@ -15,7 +15,7 @@
 <!ENTITY deleteCmd.label "মুছে ফেলা (D)">
 <!ENTITY deleteCmd.accesskey "D">
 
-<!ENTITY spellAddToDictionary.label "অভিধানে যোগ (o)">
+<!ENTITY spellAddToDictionary.label "অভিধানে যোগ">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "অ্যাড টু ডিকসনারী এর পূর্বাবস্থায় ফিরুন">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
