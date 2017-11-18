@@ -83,7 +83,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.manual.start        "হালনাগাদ যেখানে পাওয়া যাবে ">
-<!ENTITY update.manual.end          "‍">
+<!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -93,7 +93,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "আপনি এই সিস্টেমে আর হালনাগাদ করতে পারবেন না। ">
 <!ENTITY update.unsupported.linkText "আরও জানুন">
-<!ENTITY update.unsupported.end      "‍">
+<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
