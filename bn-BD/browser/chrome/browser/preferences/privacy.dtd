@@ -116,6 +116,7 @@
 <!ENTITY  browserContainersSettings.label        "সেটিং">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "অভিগম্যতা সেবা ব্রাউজার ব্যবহার করবে না">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "আরও জানুন">
 <!ENTITY enableSafeBrowsingLearnMore.label "বিস্তারিত">
