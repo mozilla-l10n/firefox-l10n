@@ -180,7 +180,7 @@
 
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
 <!ENTITY pref_category_search_summary2 "যোগ, ডিফল্ট সেট, পরামর্শ দেখাও">
-<!ENTITY pref_category_accessibility "প্রবেশযোগ্যতা">
+<!ENTITY pref_category_accessibility "অভিগম্যতা">
 <!ENTITY pref_category_accessibility_summary2 "টেক্সটের আকার, জুম করা, ভয়েস ইনপুট">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
 <!ENTITY pref_category_privacy_summary4 "ট্র্যাকিং, লগইন, ডাটা পছন্দ">
@@ -245,7 +245,7 @@
 <!ENTITY pref_header_general "সাধারণ">
 <!ENTITY pref_header_search "অনুসন্ধান">
 <!ENTITY pref_header_privacy_short "গোপনীয়তা">
-<!ENTITY pref_header_accessibility "প্রবেশযোগ্যতা">
+<!ENTITY pref_header_accessibility "অভিগম্যতা">
 <!ENTITY pref_header_notifications "ঘোষণা">
 <!ENTITY pref_header_advanced "উচ্চপর্যায়">
 <!ENTITY pref_header_help "সহায়তা">
