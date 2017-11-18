@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Activat">
 <!ENTITY aboutSupport.a11yForceDisabled "Împiedică accesibilitatea">
 <!ENTITY aboutSupport.a11yHandlerUsed "Handler accesibil folosit">
+<!ENTITY aboutSupport.a11yInstantiator "Instanțiator de accesibilitate">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiuni ale bibliotecii">
 
@@ -117,8 +118,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiază datele brute în clipboard">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Apeluri de sistem respinse">
+<!ENTITY aboutSupport.sandboxSyscallIndex "">
+<!ENTITY aboutSupport.sandboxSyscallAge "Secunde în urmă">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tipul de proces">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Apel sistem">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumente">
 
 <!ENTITY aboutSupport.safeModeTitle "Încearcă modul sigur">
@@ -133,6 +139,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funcții dezactivate de Crash Guard">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Alternative">
 
+<!ENTITY aboutSupport.mediaTitle "Media">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispozitive de ieșire">
 <!ENTITY aboutSupport.mediaInputDevicesTitle "Dispozitive de intrare">
 <!ENTITY aboutSupport.mediaDeviceName "Nume">
