@@ -37,7 +37,7 @@
 
 <!ENTITY  addressBar.label              "ঠিকানা বার">
 <!ENTITY  addressBar.suggest.label      "ঠিকানা বার ব্যবহার করার সময়, সুপারিশ করবে">
-<!ENTITY  locbar.history2.label         "ব্রাউজিং ইতিহাস">
+<!ENTITY  locbar.history2.label         "ব্রাউজ ইতিহাস">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ k">
 <!ENTITY  locbar.bookmarks.accesskey    "k">

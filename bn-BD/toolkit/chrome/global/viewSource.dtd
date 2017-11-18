@@ -24,7 +24,7 @@
 <!ENTITY printCmd.label "মুদ্রণ… (P)">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "বন্ধ (C)">
+<!ENTITY closeCmd.label "বন্ধ">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
 
