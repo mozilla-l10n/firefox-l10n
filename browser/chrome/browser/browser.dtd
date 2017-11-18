@@ -126,13 +126,17 @@
 <!ENTITY hideRecentlyBookmarked.label "Nascondi segnalibri recenti">
 <!ENTITY hideRecentlyBookmarked.accesskey "b">
 <!ENTITY backCmd.label "Indietro">
+<!ENTITY backCmd.accesskey "I">
 <!ENTITY backButton.tooltip "Torna indietro di una pagina">
 <!ENTITY forwardCmd.label "Avanti">
+<!ENTITY forwardCmd.accesskey "A">
 <!ENTITY forwardButton.tooltip "Vai avanti di una pagina">
 <!ENTITY backForwardButtonMenu.tooltip "Tasto destro o trascina verso il basso per visualizzare la cronologia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trascina verso il basso per visualizzare la cronologia">
 <!ENTITY reloadCmd.label "Ricarica">
+<!ENTITY reloadCmd.accesskey "R">
 <!ENTITY stopCmd.label "Stop">
+<!ENTITY stopCmd.accesskey "S">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY goEndCap.tooltip "Vai all’URL inserito nella barra degli indirizzi">
 <!ENTITY printButton.label "Stampa">
