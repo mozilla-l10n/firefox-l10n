@@ -14,7 +14,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; আপনার জন্য সহজলভ্য করা হচ্ছে ">
+<!ENTITY rights.intro-point1a "&brandShortName; শর্তসাপেক্ষে আপনার জন্য সহজলভ্য করা হচ্ছে ">
 <!ENTITY rights.intro-point1b "মোজিলা পাবলিক লাইসেন্সের">
 <!ENTITY rights.intro-point1c " এর অর্থ আপনি &brandShortName; ব্যবহার, অনুলিপি এবং অন্যদের কাছে বিতরণ করতে পারবেন।  আপনি আপনার প্রয়োজনে &brandShortName; এর সোর্স কোডও পরিবর্তন করতে পারেন। মোজিলা পাবলিক লাইসেন্স আপনাকে আপনার পরিবর্তিত সংস্করণটি বিতরণ করার অধিকারও প্রদান করে।">
 
