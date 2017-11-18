@@ -11,7 +11,7 @@
 <!ENTITY email.accesskey                 "I">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
-<!ENTITY email.text                      "Il tuo indirizzo di email esistente">
+<!ENTITY email.text                      "Il tuo indirizzo email esistente">
 <!ENTITY password.label                  "Password:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Password">
