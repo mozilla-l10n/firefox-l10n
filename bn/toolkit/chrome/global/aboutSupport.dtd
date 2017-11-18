@@ -103,7 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "জাভাস্ক্রিপ্ট">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
-<!ENTITY aboutSupport.a11yTitle "স্বচ্ছন্দতা">
+<!ENTITY aboutSupport.a11yTitle "অভিগম্যতা">
 <!ENTITY aboutSupport.a11yActivated "সক্রিয়">
 <!ENTITY aboutSupport.a11yForceDisabled "অভিগম্যতা প্রতিরোধ">
 <!ENTITY aboutSupport.a11yHandlerUsed "অ্যাক্সেসিবল হ্যান্ডলার ইউসড">
