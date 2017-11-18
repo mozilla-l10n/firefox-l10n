@@ -14,4 +14,4 @@
 <!ENTITY refreshProfileInstead.label  "De asemenea, poți sări peste depanare și să încerci să reîmprospătezi &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-<!ENTITY autoSafeModeDescription3.label "&brandShortName; s-a închis în mod neașteptat la pornire. Acest lucru ar putea fi cauzat de suplimente sau alte probleme. Poți încerca să rezolvi problema prin depanarea acesteia pornind în modul sigur.">
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; s-a închis în mod neașteptat la pornire. Aceasta ar putea fi cauzată de suplimente sau alte probleme. Poți încerca să rezolvi problema prin depanare din modul sigur.">

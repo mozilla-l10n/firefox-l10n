@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
-<!ENTITY aboutWarningTitle.label "Acest lucru ți-ar putea invalida garanția!">
+<!ENTITY aboutWarningTitle.label "Aceasta ți-ar putea invalida garanția!">
 <!ENTITY aboutWarningText.label "Schimbarea valorilor acestor setări avansate poate dăuna stabilității, securității și performanței acestei aplicații. Ar trebui să continui doar dacă știi ce faci.">
 <!ENTITY aboutWarningButton2.label "Accept riscul!">
 <!ENTITY aboutWarningCheckbox.label "Arată această avertizare data viitoare">
@@ -15,18 +15,18 @@
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Numele preferinței">
 <!ENTITY lockColumn.label "Stare">
 <!ENTITY typeColumn.label "Tip">
 <!ENTITY valueColumn.label "Valoare">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Clic pentru sortare"> 
 <!ENTITY columnChooser.tooltip "Clic pentru a selecta coloanele de afișat"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiază">
 <!ENTITY copyPref.accesskey "C">
