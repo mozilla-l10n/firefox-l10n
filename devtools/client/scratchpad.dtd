@@ -24,26 +24,53 @@
 <!ENTITY fileMenu.label               "Fișier">
 <!ENTITY fileMenu.accesskey           "F">
 
+<!ENTITY newWindowCmd.label           "Fereastră nouă">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
 
+<!ENTITY openFileCmd.label            "Deschide fișierul…">
+<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.commandkey       "o">
 
+<!ENTITY openRecentMenu.accesskey     "R">
 
+<!ENTITY revertCmd.accesskey          "t">
 
+<!ENTITY saveFileCmd.label            "Salvează">
+<!ENTITY saveFileCmd.accesskey        "S">
 
+<!ENTITY saveFileAsCmd.label          "Salvează ca…">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
+<!ENTITY closeCmd.label               "Închide">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "C">
 
+<!ENTITY viewMenu.accesskey           "V">
 
+<!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
+<!ENTITY largerFont.accesskey         "a">
  <!-- + is above this key on many keyboards -->
 
+<!ENTITY smallerFont.accesskey        "M">
 
 <!ENTITY normalSize.label             "Mărime normală">
+<!ENTITY normalSize.accesskey         "N">
 
+<!ENTITY editMenu.accesskey           "E">
 
+<!ENTITY run.accesskey                "R">
 
+<!ENTITY inspect.accesskey            "I">
 
+<!ENTITY display.accesskey            "D">
 
+<!ENTITY pprint.accesskey             "P">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -51,8 +78,10 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
+<!ENTITY environmentMenu.accesskey    "N">
 
 
+<!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -60,6 +89,7 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
+<!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
@@ -69,13 +99,17 @@
 <!ENTITY helpMenuWin.label            "Ajutor">
 <!ENTITY helpMenuWin.accesskey        "H">
 
+<!ENTITY documentationLink.accesskey  "D">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+<!ENTITY resetContext2.accesskey      "T">
 
+<!ENTITY reloadAndRun.accesskey       "E">
 
+<!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
@@ -85,3 +119,4 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
+<!ENTITY evalFunction.accesskey "v">
