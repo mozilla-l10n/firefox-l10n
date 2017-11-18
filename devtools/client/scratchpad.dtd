@@ -46,7 +46,7 @@
 <!ENTITY saveFileAsCmd.label          "নতুন ভাবে সংরক্ষণ করুন...">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "বন্ধ (C)">
+<!ENTITY closeCmd.label               "বন্ধ">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 

@@ -18,9 +18,9 @@
 
 <!ENTITY  whichIs.label              "এটি একটি:">
 
-<!ENTITY  chooseHandlerMac.label      "নির্বাচন… (C)">
+<!ENTITY  chooseHandlerMac.label      "নির্বাচন…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "ব্রাউজ… (B)">
+<!ENTITY  chooseHandler.label         "ব্রাউজ…">
 <!ENTITY  chooseHandler.accesskey     "B">
 
 <!ENTITY  unknownPromptText.label     "আপনি কি এই ফাইলটি সংরক্ষণ করতে চান?">

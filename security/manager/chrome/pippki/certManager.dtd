@@ -46,7 +46,7 @@
 <!ENTITY certmgr.email                        "ইমেইল ঠিকানা">
 <!ENTITY certmgr.serial                       "ক্রমিক সংখ্যা">
 
-<!ENTITY certmgr.close.label                  "বন্ধ (C)">
+<!ENTITY certmgr.close.label                  "বন্ধ">
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "প্রদর্শন…(V)">
 <!ENTITY certmgr.view2.accesskey              "V">

@@ -4,7 +4,7 @@
 
 <!-- The page shown when logged in... -->
 
-<!ENTITY engine.bookmarks.label     "বুকমার্ক m">
+<!ENTITY engine.bookmarks.label     "বুকমার্ক ">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "ওপেন ট্যাব">
 <!ENTITY engine.tabs.accesskey      "T">

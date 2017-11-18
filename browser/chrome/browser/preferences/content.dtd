@@ -47,7 +47,7 @@
 
 <!ENTITY language2.label              "ভাষা">
 <!ENTITY chooseLanguage.label         "পাতা প্রদর্শনে পছন্দসই ভাষা নির্বাচন করুন">
-<!ENTITY chooseButton.label           "নির্বাচন… o">
+<!ENTITY chooseButton.label           "নির্বাচন…">
 <!ENTITY chooseButton.accesskey       "o">
 
 <!ENTITY translateWebPages.label      "ওয়েব কন্টেন্ট অনুবাদ করুন T">
