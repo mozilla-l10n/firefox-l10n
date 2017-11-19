@@ -10,7 +10,7 @@
 <!ENTITY icons.label              "Pictograme">
 <!ENTITY text.label               "Text">
 <!ENTITY useSmallIcons.label      "Folosește pictograme mici">
-<!ENTITY restoreDefaultSet.label  "Restaurează setul implicit">
+<!ENTITY restoreDefaultSet.label  "Restabilește setul implicit">
 <!ENTITY addNewToolbar.label      "Adaugă o bară de instrumente">
 <!ENTITY saveChanges.label        "Terminat">
 <!ENTITY undoChanges.label        "Anulează schimbările">

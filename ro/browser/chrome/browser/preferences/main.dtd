@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "Folosește paginile actuale">
 <!ENTITY chooseBookmark.label      "Folosește un marcaj…">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "Folosește opțiunea implicită">
+<!ENTITY restoreDefault.label      "Restabilește la opțiunile implicite">
 <!ENTITY restoreDefault.accesskey  "F">
 
 <!ENTITY disableExtension.label    "Dezactivează extensia">

@@ -6,7 +6,7 @@
 <!ENTITY refreshProfile.dialog.description1  "Începe un profil proaspăt pentru a remedia problemele și a restaura performanța.">
 <!ENTITY refreshProfile.dialog.description2  "Aceasta va:">
 <!ENTITY refreshProfile.dialog.items.label1  "Elimina suplimentele și personalizările tale">
-<!ENTITY refreshProfile.dialog.items.label2  "Restabili setările browserului la valorile implicite">
+<!ENTITY refreshProfile.dialog.items.label2  "Restabilește setările browserului la valorile implicite">
 <!ENTITY refreshProfile.dialog.button.label  "Reîmprospătează &brandShortName;">
 
 <!ENTITY refreshProfile.title                "Oferă-i lui &brandShortName; o revigorare">

@@ -132,7 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
-<!ENTITY fullScreenRestore.tooltip "Restaurează">
+<!ENTITY fullScreenRestore.tooltip "Restabilește">
 <!ENTITY fullScreenClose.tooltip "Închide">
 <!ENTITY fullScreenAutohide.label "Ascunde barele de instrumente">
 <!ENTITY fullScreenAutohide.accesskey "H">
@@ -346,7 +346,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "File închise recent">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
-<!ENTITY historyRestoreLastSession.label "Restaurează sesiunea anterioară">
+<!ENTITY historyRestoreLastSession.label "Restabilește sesiunea anterioară">
 
 <!ENTITY showAllHistoryCmd2.label "Afișează tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -357,7 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Finalizează personalizarea">
 <!ENTITY appMenuHistory.showAll.label "Afișează tot istoricul">
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
-<!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
+<!ENTITY appMenuHistory.restoreSession.label "Restabilește sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
 <!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
 <!ENTITY appMenuHelp.label "Ajutor">
@@ -846,7 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header3 "Trage elementele favorite în bara de instrumente sau în meniul excedentar.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Dorești mai multe instrumente?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Alege din mii de suplimente">
-<!ENTITY customizeMode.restoreDefaults "Restaurează valorile implicite">
+<!ENTITY customizeMode.restoreDefaults "Restabilește valorile implicite">
 <!ENTITY customizeMode.done "Terminat">
 <!ENTITY customizeMode.titlebar "Bara de titlu">
 <!ENTITY customizeMode.extraDragSpace "Spațiu de tragere">
@@ -973,7 +973,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message2 "După o repornire rapidă &brandShorterName; va restaura toate filele tale deschise şi ferestrele care nu sunt în modul de navigare privată.">
 <!ENTITY updateRestart.header.message2 "Repornește pentru a actualiza &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Repornește și restaurează">
+<!ENTITY updateRestart.acceptButton.label "Repornește și restabilește">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Nu acum">
 <!ENTITY updateRestart.cancelButton.accesskey "N">

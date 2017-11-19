@@ -29,7 +29,7 @@
 <!-- Addons -->
 
 <!-- Prefs -->
-<!ENTITY prefs_restore "Restaurează valorile implicite">
+<!ENTITY prefs_restore "Restabilește la valorile implicite">
 
 <!-- Runtime Details -->
 
@@ -56,7 +56,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-
-<!-- Simulator Options -->
-<!ENTITY simulator_reset "Restaurează valorile implicite">
-<!ENTITY simulator_screenSize "Ecran">
