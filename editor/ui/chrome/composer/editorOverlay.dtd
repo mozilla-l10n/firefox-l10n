@@ -230,20 +230,117 @@
 <!ENTITY tableSelectMenu2.label "Seleccionar tabla">
 <!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "Insertar tabla">
+<!ENTITY tableInsertMenu2.accesskey "I">
+<!ENTITY tableDeleteMenu2.label "Eliminar tabla">
+<!ENTITY tableDeleteMenu2.accesskey "D">
 
 <!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Insertar">
+<!ENTITY tableInsertMenu.accesskey "I">
+<!ENTITY tableTable.label "Tabla">
+<!ENTITY tableTable.accesskey "T">
+<!ENTITY tableRow.label "Fila">
+<!ENTITY tableRows.label "Fila(s)">
+<!ENTITY tableRow.accesskey "R">
+<!ENTITY tableRowAbove.label "Fila arriba">
+<!ENTITY tableRowAbove.accesskey "R">
+<!ENTITY tableRowBelow.label "Fila abajo">
+<!ENTITY tableRowBelow.accesskey "B">
+<!ENTITY tableColumn.label "Columna">
+<!ENTITY tableColumns.label "Columna(s)">
+<!ENTITY tableColumn.accesskey "o">
+<!ENTITY tableColumnBefore.label "Columna antes">
+<!ENTITY tableColumnBefore.accesskey "o">
+<!ENTITY tableColumnAfter.label "Columna después">
+<!ENTITY tableColumnAfter.accesskey "A">
+<!ENTITY tableCell.label "Celda">
+<!ENTITY tableCells.label "Celda(s)">
+<!ENTITY tableCell.accesskey "C">
+<!ENTITY tableCellContents.label "Contenidos de celda">
+<!ENTITY tableCellContents.accesskey "n">
+<!ENTITY tableAllCells.label "Todas las celdas">
+<!ENTITY tableAllCells.accesskey "A">
+<!ENTITY tableCellBefore.label "Celda antes">
+<!ENTITY tableCellBefore.accesskey "C">
+<!ENTITY tableCellAfter.label "Celda después">
+<!ENTITY tableCellAfter.accesskey "f">
 <!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Eliminar">
+<!ENTITY tableDeleteMenu.accesskey "D">
 
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableSplitCell.label "Dividir celda">
+<!ENTITY tableSplitCell.accesskey "C">
+<!ENTITY convertToTable.label "Crear tabla desde selección">
+<!ENTITY convertToTable.accesskey "r">
+<!ENTITY tableProperties.label "Propiedades de tabla…">
+<!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Barra de menú">
+<!ENTITY formatToolbar.tooltip "Barra de herramientas de formato">
+<!ENTITY cutToolbarCmd.tooltip "Cortar">
+<!ENTITY copyToolbarCmd.tooltip "Copiar">
+<!ENTITY pasteToolbarCmd.tooltip "Pegar">
+<!ENTITY printToolbarCmd.label "Imprimir">
+<!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
+<!ENTITY findToolbarCmd.label "Buscar">
+<!ENTITY findToolbarCmd.tooltip "Buscar texto en esta página">
+<!ENTITY spellToolbarCmd.label "Ortografía">
+<!ENTITY spellToolbarCmd.tooltip "Revisar ortografía de selección o página entera">
+<!ENTITY imageToolbarCmd.label "Imagen">
+<!ENTITY imageToolbarCmd.tooltip "Insertar nueva imagen o editar propiedades de la imagen seleccionada">
+<!ENTITY hruleToolbarCmd.label "Línea H">
+<!ENTITY hruleToolbarCmd.tooltip "Insertar línea horizontal o editar propiedades de la línea seleccionada">
+<!ENTITY tableToolbarCmd.label "Tabla">
+<!ENTITY tableToolbarCmd.tooltip "Insertar nuevas tablas o editar propiedades de la tabla seleccionada">
+<!ENTITY linkToolbarCmd.label "Enlace">
+<!ENTITY linkToolbarCmd.tooltip "Insertar nuevo enlace o editar las propiedades del enlace seleccionado">
+<!ENTITY anchorToolbarCmd.label "Ancla">
+<!ENTITY anchorToolbarCmd.tooltip "Insertar una nueva ancla o editar las propiedades del ancla seleccionada">
+<!ENTITY TextColorButton.tooltip "Elegir color de texto">
+<!ENTITY BackgroundColorButton.tooltip "Elegir color de fondo">
+<!ENTITY throbber.tooltip "Ir a la página de inicio de &vendorShortName;">
+<!ENTITY HighlightColorButton.tooltip "Elegir color para resaltar texto">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Establecer tamaño de fuente">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Tamaño de fuente más pequeño">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Tamaño de fuente más grande">
+<!ENTITY boldToolbarCmd.tooltip "Negrita">
+<!ENTITY italicToolbarCmd.tooltip "Cursiva">
+<!ENTITY underlineToolbarCmd.tooltip "Subrayado">
+<!ENTITY bulletListToolbarCmd.tooltip "Aplicar o eliminar lista de viñeta">
+<!ENTITY numberListToolbarCmd.tooltip "Aplicar o eliminar lista enumerada">
+<!ENTITY outdentToolbarCmd.tooltip "Sangría (mover a la izquierda)">
+<!ENTITY indentToolbarCmd.tooltip "Sangría (mover a la derecha)">
+<!ENTITY AlignPopupButton.tooltip "Elegir alineación">
+<!ENTITY InsertPopupButton.tooltip "Insertar un enlace, un ancla, imagen, línea horizontal o tabla">
+<!ENTITY alignLeftButton.tooltip "Alinear texto al margen izquierdo">
+<!ENTITY alignCenterButton.tooltip "Alinear texto centrado">
+<!ENTITY alignRightButton.tooltip "Alinear texto al margen derecho">
+<!ENTITY alignJustifyButton.tooltip "Alinear texto a los márgenes izquierdo y derecho">
 
 <!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Seleccionar">
+<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structRemoveTag.label      "Eliminar etiqueta">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Cambiar etiqueta">
+<!ENTITY structChangeTag.accesskey  "c">
 
 <!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Insertar">
+<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY updateTOC.label          "Actualizar">
+<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY removeTOC.label          "Eliminar">
+<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY tocMenu.label            "Tabla de contenidos…">
+<!ENTITY tocMenu.accesskey        "b">
