@@ -229,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ ।">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउनुहोस्">
 
 <!ENTITY searchItem.title             "खोजी गर्नुहोस्">
