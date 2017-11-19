@@ -848,7 +848,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Välj bland tusentals tillägg">
 <!ENTITY customizeMode.restoreDefaults "Återställ standard">
 <!ENTITY customizeMode.done "Klar">
-<!ENTITY customizeMode.titlebar "Namnfältet">
+<!ENTITY customizeMode.titlebar "Titelfältet">
 <!ENTITY customizeMode.extraDragSpace "Extra utrymme">
 <!ENTITY customizeMode.toolbars2 "Verktygsfält">
 <!ENTITY customizeMode.lwthemes "Teman">
