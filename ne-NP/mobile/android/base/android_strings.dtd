@@ -837,7 +837,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "हाइलाइटहरू">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
-<!ENTITY activity_stream_link_more1 "MORE">
+<!ENTITY activity_stream_link_more1 "थप">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
