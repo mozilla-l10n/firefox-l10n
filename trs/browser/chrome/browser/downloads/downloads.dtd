@@ -1,11 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
-
 <!ENTITY downloads.title                  "Nadunínj">
+
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -24,6 +25,8 @@
      the hovering case for an item or an action button.
      Bug 1328519 is for discussing the detail rule of `downloadDetails.width`.
      -->
+<!ENTITY downloadDetails.width            "50ch">
+
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -37,34 +40,29 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
+<!ENTITY downloadsSummary.minWidth2       "21ch">
 
-
-
-
-
+<!ENTITY cmd.pause.label                  "Duyichin' akuan'">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Nayi'i ñun">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "Duyichin'">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.showMac.label                "Digun' nga Finder">
+<!ENTITY cmd.showMac.accesskey            "">
+<!ENTITY cmd.retry.label                  "A'ngo ñun">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.accesskey         "">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
-
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -78,35 +76,47 @@
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+
 <!-- LOCALIZATION NOTE (showMoreInformation.label):
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
+
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
      open the file using an app available in the system.
      -->
+
 <!-- LOCALIZATION NOTE (retryDownload.label):
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
+
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
      indicates that it's possible to cancel and stop the download.
      -->
+
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
+     -->
+
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
      -->
 
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
@@ -119,9 +129,11 @@
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
+
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
+
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
