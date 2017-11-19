@@ -77,6 +77,9 @@
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
+<!ENTITY changeSettings.label            "Cambiar configuraciones">
+<!ENTITY changeSettings.accesskey        "S">
 
 
 
+<!ENTITY secureServer.description        "¡Felicidades! Este servidor es seguro.">
