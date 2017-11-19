@@ -23,7 +23,7 @@
 <!ENTITY trackingProtectionPBM6.label         "ใช้การป้องกันการติดตามในการท่องเว็บแบบส่วนตัวเพื่อปิดกั้นตัวติดตามที่รู้จัก">
 <!ENTITY trackingProtectionPBM6.accesskey     "ช">
 <!ENTITY trackingProtectionPBMLearnMore.label "เรียนรู้เพิ่มเติม">
-<!ENTITY changeBlockList2.label               "เปลี่ยนรายการการปิดกั้น…">
+<!ENTITY changeBlockList2.label               "เปลี่ยนรายการปิดกั้น…">
 <!ENTITY changeBlockList2.accesskey           "ร">
 
 <!ENTITY  doNotTrack.description        "ส่งสัญญาณ “ไม่ติดตาม” ให้กับเว็บไซต์ว่าคุณไม่ต้องการถูกติดตาม">
