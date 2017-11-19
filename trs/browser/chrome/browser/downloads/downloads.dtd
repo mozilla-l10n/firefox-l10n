@@ -52,9 +52,11 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
+<!ENTITY cmd.show.label                   "Nà'nin' riña ma rasun un">
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Digun' nga Finder">
 <!ENTITY cmd.showMac.accesskey            "">
+<!ENTITY cmd.showDownloads.label          "Na'ni' ña mā sa naduni'">
 <!ENTITY cmd.retry.label                  "A'ngo ñun">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
@@ -157,3 +159,4 @@
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
+<!ENTITY downloadsListNoMatch.label       "Nitaj si guña hua net sa naduninjt.">
