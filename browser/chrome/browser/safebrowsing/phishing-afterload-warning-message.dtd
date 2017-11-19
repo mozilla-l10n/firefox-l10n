@@ -20,6 +20,7 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "এই ওয়েবসাইটটিতে প্রবেশ করলে আপনার কম্পিউটারের ক্ষতি হতে পারে">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; এই পাতাটিকে অবরুদ্ধ করেছে কারণ এটি আপনার কম্পিউটারে ব্যক্তিগত তথ্য চুরি বা মুছতে পারে এমন দূষিত সফ্টওয়্যার ইনস্টল করার চেষ্টা করতে পারে।">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
