@@ -1,0 +1,82 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY autoconfigWizard2.title         "Configurar una cuenta de correo existente">
+<!ENTITY name.label                      "Tu nombre:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                "Nombre y apellido">
+<!ENTITY name.text                       "Tu nombre, como se muestra a otros usuarios">
+<!ENTITY email.label                     "Correo electrónico:">
+<!ENTITY email.accesskey                 "E">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Tu correo electrónico existente">
+<!ENTITY password.label                  "Contraseña:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.placeholder            "Contraseña">
+<!ENTITY password.text                   "Opcional, se usará solamente para verificar el nombre de usuario">
+<!ENTITY rememberPassword.label          "Recordar contraseña">
+<!ENTITY rememberPassword.accesskey      "m">
+
+<!ENTITY imapLong.label                  "IMAP (carpetas remotas)">
+<!ENTITY pop3Long.label                  "POP3 (mantener correo en tu equipo)">
+
+<!ENTITY incoming.label                  "Entrante:">
+<!ENTITY outgoing.label                  "Saliente:">
+<!ENTITY username.label                  "Nombre de usuario:">
+<!ENTITY hostname.label                  "Nombre host del servidor">
+<!ENTITY port.label                      "Puerto">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autenticación">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Detección automática">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
+<!ENTITY noEncryption.label              "Ninguno">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY advancedSetup.label             "Configuración avanzada">
+<!ENTITY advancedSetup.accesskey         "A">
+<!ENTITY cancel.label                    "Cancelar">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Continuar">
+<!ENTITY continue.accesskey              "C">
+<!ENTITY stop.label                      "Detener">
+<!ENTITY stop.accesskey                  "S">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Volver a probar">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "Configuración manual">
+<!ENTITY manual-edit.accesskey           "M">
+<!ENTITY open-provisioner.label          "Obtener una nueva dirección de correo electrónico…">
+<!ENTITY open-provisioner.accesskey      "g">
+
+
+<!ENTITY warning.label                   "¡Advertencia!">
+<!ENTITY incomingSettings.label          "Configuraciones de entrada:">
+<!ENTITY outgoingSettings.label          "Configuraciones de salida:">
+<!ENTITY technicaldetails.label          "Detalles técnicos">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Entiendo los riesgos.">
+<!ENTITY confirmWarning.accesskey        "u">
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY doneAccount.label               "Hecho">
+<!ENTITY doneAccount.accesskey           "D">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+
+
+
