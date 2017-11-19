@@ -35,7 +35,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>यह हटाया, खिसकाया गया हो सकता है या फ़ाइल अनुमति पहुँच प्रतिबाधित कर सकती हैं.</li> </ul>">
 
 <!ENTITY generic.title " ओफ्फ.">
-<!ENTITY generic.longDesc " <p>&brandShortName; कुछ कारणों से इस पृष्ठ को लोड नहीं किया जा सकता है.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; कुछ कारणों से इस पृष्ठ को लोड नहीं किया जा सकता है.</p>">
 
 <!ENTITY captivePortal.title "नेटवर्क के लिए लॉग इन करें">
 <!ENTITY captivePortal.longDesc2 "<p>इंटरनेट एक्सेस करने से पहले आपको इस नेटवर्क में लॉग इन करना होगा.</p>">
@@ -93,7 +93,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>यह साइट अस्थायी रूप से अनुपलब्ध या अत्यधिक व्यस्त हो सकती है! कुछ क्षणों में फिर कोशिश करें.</li> <li>यदि आप किसी पृष्ठ को लोड करने में असमर्थ हैं, अपने कंप्यूटर प्रसार संयोजन की जांच करें.</li> <li>यदि आपका कंप्यूटर या प्रसार किसी फायरवाल या प्रॉक्सी से संरक्षित है, सुनिश्चित करें कि &brandShortName; वेब अभिगमन के लिए अनुमति प्राप्त है.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.title "अंतर्वस्तु सुरक्षा नीति के द्वारा अवरोधित">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentErrorv2.title " खराब अंतर्वस्तु त्रुटि">

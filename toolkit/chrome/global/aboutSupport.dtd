@@ -30,7 +30,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentName "नाम">
 <!ENTITY aboutSupport.experimentId "आईडी">
 <!ENTITY aboutSupport.experimentDescription "विवरण">
-<!ENTITY aboutSupport.experimentActive "सक्रिय करें">
+<!ENTITY aboutSupport.experimentActive "सक्रिय">
 <!ENTITY aboutSupport.experimentEndDate "समाप्ति तिथि">
 <!ENTITY aboutSupport.experimentHomepage "होमपेज">
 <!ENTITY aboutSupport.experimentBranch "शाखा">

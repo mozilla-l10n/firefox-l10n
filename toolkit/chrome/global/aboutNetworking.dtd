@@ -16,7 +16,7 @@
 <!ENTITY aboutNetworking.port                  "पोर्ट">
 <!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
-<!ENTITY aboutNetworking.active                "सक्रिय करें">
+<!ENTITY aboutNetworking.active                "सक्रिय">
 <!ENTITY aboutNetworking.idle                  "निष्क्रिय">
 <!ENTITY aboutNetworking.host                  "मेजबान">
 <!ENTITY aboutNetworking.tcp                   "TCP">
