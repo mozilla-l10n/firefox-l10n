@@ -388,6 +388,7 @@
 <!ENTITY setDesktopBackgroundCmd.label "Imposta come sfondo del desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "p">
 <!ENTITY bookmarkPageCmd2.label "Aggiungi pagina ai segnalibri">
+<!ENTITY bookmarkPageCmd2.accesskey "u">
 <!ENTITY bookmarkThisLinkCmd.label "Aggiungi link ai segnalibri…">
 <!ENTITY bookmarkThisLinkCmd.accesskey "b">
 <!ENTITY bookmarkThisFrameCmd.label "Aggiungi riquadro ai segnalibri…">
