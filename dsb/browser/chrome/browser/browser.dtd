@@ -55,7 +55,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Wšykne rejtarki ako cytańske znamjenja składowaś…">
 <!ENTITY  bookmarkAllTabs.accesskey          "r">
-<!ENTITY  undoCloseTab.label                 "Zacynjenje rejtarka anulěrowaś">
+<!ENTITY  undoCloseTab.label                 "Zacynjony rejtark wótnowiś">
 <!ENTITY  undoCloseTab.accesskey             "c">
 <!ENTITY  closeTab.label                     "Rejtark zacyniś">
 <!ENTITY  closeTab.accesskey                 "z">
@@ -94,7 +94,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "w">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Wšykne rejtarki ako cytańske znamjenja składowaś…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Zacynjenje rejtarka anulěrowaś">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Zacynjony rejtark wótnowiś">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "c">
 
 <!ENTITY pageSourceCmd.label "Žrědłowy tekst boka">
