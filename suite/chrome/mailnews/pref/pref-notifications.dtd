@@ -42,5 +42,5 @@
 <!ENTITY customsound.label                "Archivo de sonido personalizado">
 <!ENTITY customsound.accesskey            "c">
 <!ENTITY browse.label                     "Examinar…">
-<!ENTITY browse.accesskey                 "x">
+<!ENTITY browse.accesskey                 "v">
 <!ENTITY browse.title                     "Seleccionar archivo">
