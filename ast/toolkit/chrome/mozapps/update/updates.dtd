@@ -7,24 +7,24 @@
 <!ENTITY  updateCheck.label               "Guetando versiones nueves de &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Nun s'alcontraron anovamientos">
-<!ENTITY  noupdatesautoenabled.intro      "Nun hai anovamientos disponibles. &brandShortName;
-                                           comprobará anovamientos davezu.">
+<!ENTITY  noupdatesautoenabled.intro      "Nun hai anovamientos disponibles. &brandShortName; va
+                                           comprobar anovamientos davezu.">
 <!ENTITY  noupdatesautodisabled.intro     "Nun hai anovamientos disponibles. Volvi comprobalo más sero o
-                                           habilita la auto-comprobación d'anovamientos de &brandShortName;.">
+                                           activa l'auto-comprobación d'anovamientos de &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Nun pue anovase">
-<!ENTITY  manualUpdate.desc               "Ta disponible un anovamientu aconseyáu de seguranza y estabilidá pero
+<!ENTITY  manualUpdate.desc               "Hai disponible un anovamientu aconseyáu de seguranza y estabilidá pero
                                            nun tienes los permisos del sistema riquíos pa instalalu. Contauta col to
                                            alministrador de sistemes o volvi tentalo dende una cuenta que tenga
                                            permisos pa instalar software nesti ordenador, por favor.">
-<!ENTITY  manualUpdate.space.desc         "Ta disponible un anovamientu aconseyáu de seguranza y estabilidá pero
-                                           nun tienes espaciu abondo pa instalalu.">
-<!ENTITY  manualUpdateGetMsg.label        "Siempres pues consiguir la cabera versión de &brandShortName; en:">
+<!ENTITY  manualUpdate.space.desc         "Hai disponible un anovamientu aconseyáu de seguranza y estabilidá
+                                           pero nun tienes espaciu abondo pa instalalu.">
+<!ENTITY  manualUpdateGetMsg.label        "Siempres pues consiguir la versión cabera de &brandShortName; en:">
 
 <!ENTITY  unsupported.title               "Sistema non sofitáu">
-<!ENTITY  unsupported.label               "El to &brandShortName;nun ta anováu pero la cabera versión tampoco
-                                           ta sofitada nel to sistema. Anueva'l to sistema y volvi tentalo más sero.
-                                           Nun verás esti avisu de nueves pero pues">
+<!ENTITY  unsupported.label               "&brandShortName; nun ta anováu pero la versión cabera tampoco
+                                           ta sofitada nel sistema. Anueva'l sistema y volvi tentalo más sero.
+                                           Nun vas ver esti avisu de nueves pero pues">
 <!ENTITY  unsupportedLink.label           "deprender más.">
 
 <!ENTITY  clickHere.label                 "Ver más información tocante a esti anovamientu">
