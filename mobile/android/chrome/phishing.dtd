@@ -4,8 +4,9 @@
 
 <!ENTITY safeb.palm.accept.label "ഇവിടുന്നു പുറത്തുകടത്തുക!">
 <!ENTITY safeb.palm.decline.label "ഈ മുന്നറിയിപ്പ്‌ അവഗണിക്കുക">
-
+<!ENTITY safeb.palm.reportPage.label "എന്തുകൊണ്ട് ഈ താള് തടഞ്ഞു?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "ഉപദേശങ്ങൾ നൽകുന്നത് <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "താളിലേക്കുള്ള അതിക്രമം രേഖപ്പെടുത്തിയിരിക്കുന്നു!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -16,9 +17,10 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "<span id='phishing_sitename'/>എന്ന സൈറ്റില്‍ അതിക്രമങ്ങള്‍ നടന്നതായി രേഖപ്പെടുത്തിയിരിക്കുന്നു. നിങ്ങളുടെ സുരക്ഷ കണക്കിലെടുത്തു് ഇതു് ബ്ലോക്ക് ചെയ്തിരിക്കുന്നു..">
 
-
 <!ENTITY safeb.blocked.unwantedPage.title "അനാവശ്യ സോഫ്റ്റ്‌വെയര്‍ സൈറ്റ് എന്ന് അറിയിക്കപ്പെട്ടിട്ടുള്ളതു്!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> എന്ന സൈറ്റില്‍ അതിക്രമങ്ങള്‍ നടന്നതായി രേഖപ്പെടുത്തിയിരിക്കുന്നു. നിങ്ങളുടെ സുരക്ഷ കണക്കിലെടുത്തു് ഇതു് ബ്ലോക്ക് ചെയ്തിരിക്കുന്നു.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "അനാവശ്യമായ സോഫ്റ്റ്‌വെയര്‍ താളുകള്‍ താങ്കളുടെ സിസ്റ്റത്തിനെ തെറ്റിദ്ധരിപ്പിക്കുകയും നിങ്ങള്‍ ഉദ്ദേശിക്കാത്ത രീതിയില്‍ ബാധിക്കുകയും ചെയ്യുന്ന സോഫ്റ്റ്‌വെയറുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യും.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "മുന്നോട്ടുള്ള സൈറ്റിൽ ക്ഷുദ്രവെയർ അടങ്ങിയിരിക്കാം">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; ഈ താള് തടഞ്ഞു കാരണം നിങ്ങളുടെ വിവരം മോഷ്ടിക്കുകയോ ഇല്ലാതാക്കുകയോ ചെയ്യാനാവുന്ന (ഉദാഹരണത്തിന്, ഫോട്ടോകൾ, പാസ്വേഡുകൾ, സന്ദേശങ്ങൾ, ക്രെഡിറ്റ് കാർഡുകൾ) അപകടകരമായ അപ്ലിക്കേഷനുകൾ ഇൻസ്റ്റാൾ ചെയ്യാൻ വേണ്ടി ശ്രമിക്കാനിടയുണ്ട്.">
