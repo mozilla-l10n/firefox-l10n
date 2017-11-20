@@ -28,6 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> kimiyo ripot <a id='error_desc_link'>ni tye ki purugram maraco</a>. Itwero <a id='report_detection'>miyo ripot pi peko ma ononge</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Nong ngec mapol ikom jami me kakube maraco ikine kwidi ki jami maraco mukene ki kit me gwokko kompiuta mamegi ki i <a id='learn_more_link'>StopBadware.org</a>. Nong ngec mapol pa &brandShortName; me gwokke ikom bwola ki jami maraco ki i <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Kakube ma tye anyim ni twero bedo ki purugram maraco">
