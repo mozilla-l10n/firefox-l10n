@@ -122,6 +122,9 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB a los privilègis administrator :">
 <!ENTITY runtimedetails_summonADBRoot "periferics amb privliègis administrator">
 <!ENTITY runtimedetails_ADBRootWarning "(demanda un bootloader desvarolhat)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Privilègis DevTools pas restrents : ">
+<!ENTITY runtimedetails_requestPrivileges "demandar de privilègis superiors">
+<!ENTITY runtimedetails_privilegesWarning "(Tornarà aviar lo periferic. Cal los privilègis administrator.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Valor booleana">
@@ -145,19 +148,26 @@
 <!ENTITY devicesetting_addnew "Apondre un paramètre novèl">
 
 <!-- Monitor -->
+<!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Ajuda">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "Identificacion client">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Pas cap de convit per un escanèr QR ?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Vesètz un convit per un escanèr QR ?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Se l’autre periferic demanda un geton e non pas un escanèr del còde QR, copiar la valor çai-dejós sus l’autre periferic :">
+<!ENTITY wifi_auth_qr_size_note "Se lo còde QR code sembla tròp pichon per que la connexion s'estalisca coma cal, ensajatz de zoomar o d’agrandir la fenèstra.">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Jornals de comandas de preempaquetatge">
