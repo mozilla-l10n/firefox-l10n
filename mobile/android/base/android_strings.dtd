@@ -57,7 +57,7 @@
 
 <!ENTITY  crash_reporter_title "Rapòrt de fracàs de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a fracassat. Vòstres onglets deurián aparéisser sus la pagina d’aviada de &brandShortName; a son aviada que ven.">
-<!ENTITY  crash_send_report_message3 "Assabentar &vendorShortName; d’aqueste problèma per que pòsca èsser corregit">
+<!ENTITY  crash_send_report_message3 "Informar &vendorShortName; d’aqueste problèma per que pòsca èsser corregit">
 <!ENTITY  crash_include_url2 "Inclure l’URL de la pagina ont vos trobàvetz">
 <!ENTITY  crash_sorry "O planhèm">
 <!ENTITY  crash_comment "Apondre un comentari (los comentaris son visibles publicament)">
@@ -391,7 +391,7 @@
 <!ENTITY pref_vendor_feedback "Retorns d’utilizacion">
 
 <!ENTITY pref_dialog_set_default "Definir per defaut">
-<!ENTITY pref_dialog_default "Per manca">
+<!ENTITY pref_dialog_default "Per defaut">
 <!ENTITY pref_dialog_remove "Suprimir">
 <!ENTITY pref_dialog_activitystream_header_content "Contengut suplementari">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Marcapaginas recents">
@@ -436,7 +436,7 @@
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Mesas a jorn automaticas">
 <!ENTITY pref_update_autodownload_wifi "Solament per Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Pas jamai">
+<!ENTITY pref_update_autodownload_never "Jamai">
 <!ENTITY pref_update_autodownload_always "Totjorn">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -757,7 +757,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Darrièra sincr.: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "Darrièra sincr.: pas jamai">
+<!ENTITY remote_tabs_never_synced "Darrièra sincr : pas jamai">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
