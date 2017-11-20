@@ -21,12 +21,13 @@
 <!ENTITY report.please                                       "Unviar informe del casque">
 <!ENTITY report.submitting                                   "Unviando informe…">
 <!ENTITY report.submitted                                    "Unvióse l'informe del casque.">
-<!ENTITY report.disabled                                     "Deshabilitóse l'informe de casques.">
+<!ENTITY report.disabled                                     "Desactivóse l'informe de casques.">
 <!ENTITY report.failed                                       "Falló l'unviu.">
 <!ENTITY report.unavailable                                  "Nun hai informes disponibles.">
-<!ENTITY report.comment                                      "Amiesta un comentariu (los comentarios son públicos)">
+<!ENTITY report.comment                                      "Amiesta un comentariu (los comentarios venlos tol mundu)">
 <!ENTITY report.pageURL                                      "Incluyir URL de páxina">
 
 <!ENTITY plugin.file                                         "Ficheru">
 <!ENTITY plugin.mimeTypes                                    "Tribes MIME">
-<!ENTITY plugin.flashProtectedMode.label                     "Habilitar mou protexíu d'Adobe Flash">
+<!ENTITY plugin.flashProtectedMode.label                     "Activar el mou protexíu d'Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Bloquiar conteníu Flash peligrosu ya intrusivu">
