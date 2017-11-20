@@ -237,6 +237,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
 <!ENTITY viewBookmarksSidebar2.label        "Ver panel llateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramientes de marcadores">
+<!ENTITY searchBookmarks.label              "Guetar marcadores">
+<!ENTITY bookmarkingTools.label             "Ferramientes de marcadores">
+<!ENTITY addBookmarksMenu.label             "Amestar Menú Marcadores a barra ferramientes">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -340,6 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Llimpiar l'historial recién…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión previa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver panel llateral del historial">
+<!ENTITY appMenuHistory.recentHistory.label "Historial de recién">
 <!ENTITY appMenuHelp.label "Ayuda">
 <!ENTITY appMenuHelp.tooltip "Abrir menú d'ayuda">
 
@@ -364,6 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Aniciar sesión en Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver llingüetes sincronizaes na barra llateral">
 
+<!ENTITY appMenuRecentHighlights.label "Destacaos">
 
 <!ENTITY customizeMenu.addToToolbar.label "Amestar a la barra de ferramientes">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -894,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY pageActionButton.tooltip "Aiciones de la páxina">
+<!ENTITY pageAction.addToUrlbar.label "Amestar a la barra de direiciones">
 
 
 <!ENTITY libraryButton.tooltip "Amosar l'historial, marcadores y más">
