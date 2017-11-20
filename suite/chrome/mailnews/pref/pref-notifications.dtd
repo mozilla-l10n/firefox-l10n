@@ -34,7 +34,7 @@
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
 
 <!ENTITY playSound.label                  "Reproduzir um som">
-<!ENTITY playSound.accesskey              "c">
+<!ENTITY playSound.accesskey              "R">
 <!ENTITY playButton.label                 "Reproduzir">
 <!ENTITY playButton.accesskey             "z">
 <!ENTITY systemsound.label                "Som predefinido do sistema">
@@ -42,5 +42,5 @@
 <!ENTITY customsound.label                "Ficheiro áudio personalizado">
 <!ENTITY customsound.accesskey            "F">
 <!ENTITY browse.label                     "Navegar...">
-<!ENTITY browse.accesskey                 "g">
-<!ENTITY browse.title                     "Escolher Ficheiro">
+<!ENTITY browse.accesskey                 "N">
+<!ENTITY browse.title                     "Escolher ficheiro">
