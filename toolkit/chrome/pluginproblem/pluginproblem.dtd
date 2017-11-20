@@ -3,12 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "Calca equí p'activar la estensión.">
-<!ENTITY clickToActivatePlugin                               "Activar estensión.">
+<!ENTITY pluginActivationWarning                             "Esti sitiu usa un complementu que podría volver lentu a &brandShortName;.">
+<!ENTITY tapToPlayPlugin                                     "Calca equí p'activar el complementu.">
+<!ENTITY clickToActivatePlugin                               "Activar complementu.">
 <!ENTITY checkForUpdates                                     "Comprobar anovamientos…">
-<!ENTITY blockedPlugin.label                                 "Bloquióse esta estensicón pa la to proteición.">
-<!ENTITY hidePluginBtn.label                                 "Anubrir estensión">
-<!ENTITY managePlugins                                       "Xestionar estensiones…">
+<!ENTITY blockedPlugin.label                                 "Bloquióse esti complementu pa la to proteición.">
+<!ENTITY hidePluginBtn.label                                 "Anubrir complementu">
+<!ENTITY managePlugins                                       "Xestionar complementos…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -17,9 +18,9 @@
 <!ENTITY reloadPlugin.middle                                 "Recargar páxina">
 <!ENTITY reloadPlugin.post                                   " pa tentalo de nueves.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Unviar informe de casque">
+<!ENTITY report.please                                       "Unviar informe del casque">
 <!ENTITY report.submitting                                   "Unviando informe…">
-<!ENTITY report.submitted                                    "Unvióse l'informe de casque.">
+<!ENTITY report.submitted                                    "Unvióse l'informe del casque.">
 <!ENTITY report.disabled                                     "Deshabilitóse l'informe de casques.">
 <!ENTITY report.failed                                       "Falló l'unviu.">
 <!ENTITY report.unavailable                                  "Nun hai informes disponibles.">
