@@ -35,7 +35,7 @@
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Painel hoje">
 <!ENTITY pref.soondays.label "A secção brevemente mostra:">
-<!ENTITY pref.soondays.accesskey "g">
+<!ENTITY pref.soondays.accesskey "b">
 
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
@@ -43,7 +43,7 @@
      it should be upper case (as a proper name) if the target language permits.
   -->
 <!ENTITY pref.soondays2.label "A secção brevemente mostra:">
-<!ENTITY pref.soondays2.accesskey "P">
+<!ENTITY pref.soondays2.accesskey "b">
 
 <!ENTITY pref.accessibility.label "Acessibilidade" >
 <!ENTITY pref.systemcolors.label "Otimizar cores para acessibilidade" >
