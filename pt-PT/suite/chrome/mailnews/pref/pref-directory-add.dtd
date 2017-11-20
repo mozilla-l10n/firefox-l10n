@@ -22,7 +22,7 @@
 <!ENTITY searchFilter.label                "Filtro de pesquisa: ">
 <!ENTITY searchFilter.accesskey            "F">
 <!ENTITY scope.label                       "Âmbito: ">
-<!ENTITY scope.accesskey                   "c">
+<!ENTITY scope.accesskey                   "m">
 <!ENTITY scopeOneLevel.label               "Um nível">
 <!ENTITY scopeOneLevel.accesskey           "l">
 <!ENTITY scopeSubtree.label                "Sub-árvore">
