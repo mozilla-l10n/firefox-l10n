@@ -5,7 +5,7 @@
 <!ENTITY  button-back-mac.label        "Retroceder">
 <!ENTITY  button-back-mac.accesskey    "R">
 <!ENTITY  button-next-mac.label        "Continuar">
-<!ENTITY  button-next-mac.accesskey    "S">
+<!ENTITY  button-next-mac.accesskey    "C">
 <!ENTITY  button-finish-mac.label      "Feito">
 <!ENTITY  button-cancel-mac.label      "Cancelar">
 
