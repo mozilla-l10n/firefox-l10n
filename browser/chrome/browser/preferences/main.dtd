@@ -4,6 +4,7 @@
 
 <!ENTITY startup.label             "Aniciu">
 
+<!ENTITY startupPage2.label        "Al aniciase &brandShortName;:">
 <!ENTITY startupUserHomePage.label "Amosar la to páxina d'aniciu">
 <!ENTITY startupBlankPage.label    "Amosar una páxina balera">
 <!ENTITY startupPrevSession.label  "Amosar les ventanes y llingüetes de la cabera sesión">
