@@ -61,6 +61,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traducciones de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Conteníu con Digital Rights Management (DRM)">
 
 <!ENTITY  playDRMContent2.label          "Reproducir conteníu remanáu per DRM">
 <!ENTITY  playDRMContent.learnMore.label "Deprender más">
