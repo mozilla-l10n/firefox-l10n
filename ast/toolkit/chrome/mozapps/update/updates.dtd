@@ -30,12 +30,12 @@
 <!ENTITY  clickHere.label                 "Ver más información tocante a esti anovamientu">
 
 <!ENTITY  evangelism.desc                 "Encamiéntase qu'apliques esti anovamientu pa
-                                           &brandShortName; lo más ceo posible.">
+                                           &brandShortName; namái que pueas.">
 
 <!ENTITY  downloadPage.title              "Baxando &brandShortName;">
 <!ENTITY  downloading.intro               "Baxando l'anovamientu…">
 <!ENTITY  connecting.label                "Coneutando col sirvidor d'anovamientu…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; nun foi a verificar la integridá del
+<!ENTITY  verificationFailedText.label    "&brandShortName; nun pue verificar la integridá del
                                            anovamientu incremental que baxó, polo qu'agora ta
                                            baxando'l paquete completu d'anovamientu.">
 
@@ -49,23 +49,23 @@
                                            anovamientu. &brandShortName; nun pudo anovase porque:">
                                            
 <!ENTITY  errorManual.label               "Pues anovar &brandShortName; a mano visitando esti enllaz
-                                           y baxando la cabera versión:">
+                                           y baxando la versión cabera:">
                                            
 <!ENTITY  errorpatching.intro             "Nun pudo aplicase l'anovamientu parcial.
-                                           &brandShortName; tentarálo de nueves baxando un anovamientu completu.">
+                                           &brandShortName; va tentalo de nueves baxando un anovamientu completu.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; nun ye a determinar si hai un anovamientu disponible. Por
-                                           favor asegúrate que tienes la cabera versión de &brandShortName; dende:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; nun pue determinar si hai un anovamientu disponible.
+                                           asegúrate que tienes la versión cabera de &brandShortName; dende:">
 
 <!ENTITY  finishedPage.title              "Anovamientu tresnáu pa instalase">
-<!ENTITY  finishedPage.text               "L'anovamientu instalaráse la próxima vegada qu'anicie &brandShortName;.
+<!ENTITY  finishedPage.text               "L'anovamientu va instalase la próxima vegada qu'anicies &brandShortName;.
                                            Pues reaniciar &brandShortName; agora o siguir trabayando y reaniciar más sero.">
 
 <!ENTITY  finishedBackgroundPage.text     "Baxóse un anovamientu de seguranza y estabilidá pa &brandShortName;
                                            y ta tresnáu pa instalase.">
 <!ENTITY  finishedBackground.name         "Anovamientu:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "L'anovamientu instalaráse la próxima vegada qu'anicie &brandShortName;.
+<!ENTITY  finishedBackground.more         "L'anovamientu va instalase la próxima vegada qu'anicies &brandShortName;.
                                            Pues reaniciar &brandShortName; agora o siguir trabayando y reaniciar más sero.">
 <!ENTITY  finishedBackground.moreElevated "Esti anovamientu rique de privilexos d'alministrador. L'anovamientu va
                                            instalase la próxima vegada qu'anicies &brandShortName;. Pues reaniciar
@@ -73,5 +73,5 @@
                                            anovamientu.">
 
 <!ENTITY  update.details.label            "Detalles">
-<!ENTITY  update.installedOn.label        "Instaláu en:">
+<!ENTITY  update.installedOn.label        "Instalóse en:">
 <!ENTITY  update.status.label             "Estáu:">
