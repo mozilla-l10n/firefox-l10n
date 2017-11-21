@@ -15,17 +15,17 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Bolas. O seu separador acabou de falhar.">
+<!ENTITY tabCrashed.header2 "Bolas! O seu separador acabou de falhar.">
 <!ENTITY tabCrashed.offerHelp2 "Nós podemos ajudar!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Escolha &tabCrashed.restoreTab; para recarregar a página.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Escolha &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recarregar a/as página/páginas.">
 <!ENTITY tabCrashed.requestHelp "Poderia ajudar-nos?">
-<!ENTITY tabCrashed.requestHelpMessage "Os relatórios de falha ajudam-nos a diagnosticar problemas e fazer o &brandShortName; melhor.">
+<!ENTITY tabCrashed.requestHelpMessage "Os relatórios de falha ajudam-nos a diagnosticar problemas e a melhorar o &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Relatar este separador">
 <!ENTITY tabCrashed.sendReport3 "Enviar um relatório de falha automatizado para que possamos reparar problemas como este.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentários opcionais (os comentários são publicamente visíveis)">
 <!ENTITY tabCrashed.includeURL3 "Incluir os URLs dos sites em que estava quando o &brandShortName; falhou.">
-<!ENTITY tabCrashed.emailPlaceholder "Digite aqui o seu endereço de e-mail">
+<!ENTITY tabCrashed.emailPlaceholder "Escreva aqui o seu endereço de email">
 <!ENTITY tabCrashed.emailMe "Enviar-me um email quando estiverem disponíveis mais informações">
 <!ENTITY tabCrashed.reportSent "Relatório de falha já submetido; obrigado por ajudar a tornar o &brandShortName; melhor!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Reportar separadores em segundo plano">
