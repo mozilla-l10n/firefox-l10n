@@ -44,18 +44,18 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Desafixar separador">
 <!ENTITY  unpinTab.accesskey                 "r">
-<!ENTITY  sendTabToDevice.label              "Enviar separador para dispositivo">
+<!ENTITY  sendTabToDevice.label              "Enviar separador para o dispositivo">
 <!ENTITY  sendTabToDevice.accesskey          "d">
-<!ENTITY  sendPageToDevice.label             "Enviar página para dispositivo">
+<!ENTITY  sendPageToDevice.label             "Enviar página para o dispositivo">
 <!ENTITY  sendPageToDevice.accesskey         "d">
-<!ENTITY  sendLinkToDevice.label             "Enviar ligação para dispositivo">
+<!ENTITY  sendLinkToDevice.label             "Enviar ligação para o dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "Enviado!">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "j">
 <!ENTITY  bookmarkAllTabs.label              "Criar marcadores para todos os separadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
-<!ENTITY  undoCloseTab.label                 "Reabrir separador fechado">
+<!ENTITY  undoCloseTab.label                 "Reabrir o separador fechado">
 <!ENTITY  undoCloseTab.accesskey             "b">
 <!ENTITY  closeTab.label                     "Fechar separador">
 <!ENTITY  closeTab.accesskey                 "c">
@@ -94,7 +94,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Criar marcadores para todos os separadores…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir separador fechado">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir o separador fechado">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
 <!ENTITY pageSourceCmd.label "Fonte da página">
@@ -116,7 +116,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Entrar em ecrã completo">
 <!ENTITY enterFullScreenCmd.accesskey "e">
-<!ENTITY exitFullScreenCmd.label "Sair de ecrã completo">
+<!ENTITY exitFullScreenCmd.label "Sair de Ecrã completo">
 <!ENTITY exitFullScreenCmd.accesskey "e">
 <!ENTITY fullScreenCmd.label "Ecrã completo">
 <!ENTITY fullScreenCmd.accesskey "E">
@@ -136,7 +136,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Fechar">
 <!ENTITY fullScreenAutohide.label "Ocultar barras de ferramentas">
 <!ENTITY fullScreenAutohide.accesskey "e">
-<!ENTITY fullScreenExit.label "Sair do modo de ecrã completo">
+<!ENTITY fullScreenExit.label "Sair do modo Ecrã completo">
 <!ENTITY fullScreenExit.accesskey "e">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -151,9 +151,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Sair de ecrã completo (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Sair de ecrã completo (Esc)">
-<!ENTITY leaveDOMFullScreen.label "Sair de ecrã completo">
+<!ENTITY exitDOMFullscreen.button "Sair de Ecrã completo (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Sair de Ecrã completo (Esc)">
+<!ENTITY leaveDOMFullScreen.label "Sair de Ecrã completo">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -162,8 +162,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "tem controlo do seu apontador. Pressione Esc para tomar o controlo de volta.">
-<!ENTITY pointerlockWarning.generic.label "Este documento tem controlo do seu apontador. Pressione Esc para tomar o controlo de volta.">
+<!ENTITY pointerlockWarning.afterDomain.label "tem controlo do seu apontador. Pressione Esc para retomar o controlo.">
+<!ENTITY pointerlockWarning.generic.label "Este documento tem controlo do seu apontador. Pressione Esc para retomar o controlo.">
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "j">
@@ -174,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Subscrever a esta página">
+<!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página…">
 <!ENTITY addCurPagesCmd.label "Criar marcadores para todos os separadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
@@ -270,10 +270,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Adicionar uma palavra-chave para esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "A">
 
-<!ENTITY downloads.label              "Descargas">
+<!ENTITY downloads.label              "Descarregamentos">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
-<!ENTITY libraryDownloads.label       "Descargas">
+<!ENTITY libraryDownloads.label       "Descarregamentos">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
