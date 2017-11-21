@@ -6,9 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Desculpe. Estamos a ter problemas a obter as suas páginas de volta.">
-<!ENTITY restorepage.problemDesc2   "Estamos a ter problemas a restaurar a sua última sessão de navegação. Selecione Restaurar sessão para tentar novamente.">
-<!ENTITY restorepage.tryThis2       "Ainda não consegue restaurar a sua sessão? Ás vezes um separador pode estar a causar o problema. Veja separadores anteriores, remova a marca de verificação dos separadores que não precisa de recuperar, e depois restaure.">
+<!ENTITY restorepage.errorTitle2    "Lamentamos. Estamos a ter problemas para obter as suas páginas de volta.">
+<!ENTITY restorepage.problemDesc2   "Estamos a ter problemas para restaurar a sua última sessão de navegação. Selecione Restaurar sessão para tentar novamente.">
+<!ENTITY restorepage.tryThis2       "Ainda não consegue restaurar a sua sessão? Por vezes, um separador pode estar a causar o problema. Veja os separadores anteriores, remova a marca de verificação dos separadores que não precisa de recuperar, e depois restaure.">
 
 <!ENTITY restorepage.hideTabs       "Ocultar separadores anteriores">
 <!ENTITY restorepage.showTabs       "Ver separadores anteriores">
@@ -48,5 +48,5 @@ their language.
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Os seus extras e personalizações foram removidos e as definições do seu navegador foram restauradas para as suas predefinições. Se isto não corrigiu o seu problema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
-<!ENTITY welcomeback2.link.pageInfo2        "saber mais sobre o que pode fazer.">
+<!ENTITY welcomeback2.link.pageInfo2        "saiba mais sobre o que pode fazer.">
 
