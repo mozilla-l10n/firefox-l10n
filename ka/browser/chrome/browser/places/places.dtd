@@ -6,9 +6,9 @@
 <!ENTITY places.library.title  "ბიბლიოთეკა">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "ორგანიზება">
-<!ENTITY organize.accesskey    "ო">
-<!ENTITY organize.tooltip      "დაალაგეთ სანიშნეები">
+<!ENTITY organize.label        "გამართვა">
+<!ENTITY organize.accesskey    "გ">
+<!ENTITY organize.tooltip      "დაალაგეთ თქვენი სანიშნეები">
 
 <!ENTITY file.close.label               "დახურვა">
 <!ENTITY file.close.accesskey           "დ">
@@ -50,10 +50,10 @@
 <!ENTITY cmd.open_window.accesskey       "ფ">
 <!ENTITY cmd.open_private_window.label     "გახსნა ახალ პირად ფანჯარაში">
 <!ENTITY cmd.open_private_window.accesskey "პ">
-<!ENTITY cmd.open_tab.label              "გახსნა ახალ ჩანართში ">
+<!ENTITY cmd.open_tab.label              "გახსნა ახალ ჩანართში">
 <!ENTITY cmd.open_tab.accesskey          "ლ">
 <!ENTITY cmd.open_all_in_tabs.label      "ყველას გახსნა ჩანართებში">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "გ">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "ყ">
 
 <!ENTITY cmd.properties.label      "თვისებები">
 <!ENTITY cmd.properties.accesskey  "თ">
