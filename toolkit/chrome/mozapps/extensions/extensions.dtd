@@ -3,19 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Xestor de complementos">
 
-<!ENTITY search.placeholder                   "Guetar complementos">
+<!ENTITY search.placeholder                   "Guetar tolos complementos">
 <!ENTITY search.buttonlabel                   "Guetar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Cargando…">
 <!ENTITY listEmpty.installed.label            "Nun tienes instaláu dengún complementu d'esta triba">
 <!ENTITY listEmpty.availableUpdates.label     "Nun s'alcontraron anovamientos">
-<!ENTITY listEmpty.recentUpdates.label        "Nun anovaste recientemente dengún complementu">
-<!ENTITY listEmpty.findUpdates.label          "Guetar anovamientos">
-<!ENTITY listEmpty.search.label               "Nun pudo alcontrase dengún complementu que cumpla los criterios">
-<!ENTITY listEmpty.button.label               "Deprender más tocante a los complementos">
+<!ENTITY listEmpty.recentUpdates.label        "Apocayá nun anovesti dengún complementu">
+<!ENTITY listEmpty.findUpdates.label          "Comprobar anovamientos">
+<!ENTITY listEmpty.search.label               "Nun pudo alcontrase dengún complementu que concase">
+<!ENTITY listEmpty.button.label               "Deprendi más tocante a los complementos">
 <!ENTITY installAddonFromFile.label           "Instalar complementu dende ficheru…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ferramientes pa tolos complementos">
@@ -26,29 +25,30 @@
 <!ENTITY cmd.back.tooltip                     "Retroceder una páxina">
 <!ENTITY cmd.forward.tooltip                  "Avanzar una páxina">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Nun pudieron verificase delles estensiones">
 <!ENTITY showAllExtensions.button.label       "Amosar toles estensiones">
 <!ENTITY debugAddons.label                    "Depurar complementos">
-<!ENTITY debugAddons.accesskey                "B">
+<!ENTITY debugAddons.accesskey                "D">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Desactiváronse tolos complementos pol mou seguru.">
-<!ENTITY warning.checkcompatibility.label          "La comprobación de compatibilidá de los complementos ta desactivada. Pue que tengas complementos incompatibles.">
+<!ENTITY warning.safemode.label                    "El mou seguru desactivó tolos complementos.">
+<!ENTITY warning.checkcompatibility.label          "La comprobación de compatibilidá de complementos ta desactivada. Pue que tengas complementos incompatibles.">
 <!ENTITY warning.checkcompatibility.enable.label   "Activar">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Activar comprobación de compatibilidá de complementos">
-<!ENTITY warning.updatesecurity.label              "La comprobación de seguridá de los complementos ta desactivada. La to seguridá pue vese comprometida durante los anovamientos.">
+<!ENTITY warning.updatesecurity.label              "La comprobación de seguranza de complementos ta desactivada. Los anovamientos podríen ser un riesgu.">
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Activar comprobación de seguridá de complementos">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Activar comprobación de seguranza de complementos">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Guetar">
-<!ENTITY view.discover.label                  "Obtener complementos">
+<!ENTITY view.discover.label                  "Consiguir complementos">
 <!ENTITY view.recentUpdates.label             "Anovamientos recientes">
 <!ENTITY view.availableUpdates.label          "Anovamientos disponibles">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Guetar anovamientos">
-<!ENTITY updates.checkForUpdates.accesskey    "G">
+<!ENTITY updates.checkForUpdates.label        "Comprobar anovamientos">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Ver anovamientos recientes">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
@@ -62,24 +62,24 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reaniciar tolos complementos p'anovalos automáticamente">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reafitar tolos complementos p'anovalos automáticamente">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "Reaniciar tolos complementos p'anovalos manualmente">
+<!ENTITY updates.resetUpdatesToManual.label          "Reafitar tolos complementos p'anovalos a mano">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Anovando complementos">
 <!ENTITY updates.installed.label              "Anováronse los complementos.">
-<!ENTITY updates.downloaded.label             "Descargáronse los anovamientos de los tos complementos.">
-<!ENTITY updates.restart.label                "Reaniciar agora pa instalar">
+<!ENTITY updates.downloaded.label             "Baxáronse los anovamientos de los complementos.">
+<!ENTITY updates.restart.label                "Reaniciar agora pa completar la instalación">
 <!ENTITY updates.noneFound.label              "Nun s'alcontraron anovamientos">
 <!ENTITY updates.manualUpdatesFound.label     "Ver anovamientos disponibles">
 <!ENTITY updates.updateSelected.label         "Instalar anovamientos">
-<!ENTITY updates.updateSelected.tooltip       "Instalar anovamientos disponibles nesta llista">
+<!ENTITY updates.updateSelected.tooltip       "Instalar los anovamientos disponibles nesti llistáu">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Amosar más información">
 <!ENTITY cmd.showDetails.accesskey            "A">
-<!ENTITY cmd.findUpdates.label                "Guetar anovamientos">
-<!ENTITY cmd.findUpdates.accesskey            "G">
+<!ENTITY cmd.findUpdates.label                "Alcontrar anovamientos">
+<!ENTITY cmd.findUpdates.accesskey            "l">
 <!ENTITY cmd.preferencesWin.label             "Opciones">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferencies">
@@ -93,19 +93,19 @@
 <!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Usar tema">
 <!ENTITY cmd.enableTheme.accesskey            "U">
-<!ENTITY cmd.disableTheme.label               "Dexar d'usar el tema">
-<!ENTITY cmd.disableTheme.accesskey           "u">
+<!ENTITY cmd.disableTheme.label               "Dexar d'usar tema">
+<!ENTITY cmd.disableTheme.accesskey           "x">
 <!ENTITY cmd.askToActivate.label              "Entrugar p'activar">
-<!ENTITY cmd.askToActivate.tooltip            "Entrugar cada vegada si usar esti complementu">
-<!ENTITY cmd.alwaysActivate.label             "Activar siempre">
-<!ENTITY cmd.alwaysActivate.tooltip           "Usar siempre esti complementu">
-<!ENTITY cmd.neverActivate.label              "Nun activar nunca">
-<!ENTITY cmd.neverActivate.tooltip            "Nun usar nunca esti complementu">
-<!ENTITY cmd.stateMenu.tooltip                "Camudar cuando s'execute esti complementu">
+<!ENTITY cmd.askToActivate.tooltip            "Entrugar cada vegada pa usar esti complementu">
+<!ENTITY cmd.alwaysActivate.label             "Activar siempres">
+<!ENTITY cmd.alwaysActivate.tooltip           "Usar siempres esti complementu">
+<!ENTITY cmd.neverActivate.label              "Enxamás activar">
+<!ENTITY cmd.neverActivate.tooltip            "Enxamás usar esti complementu">
+<!ENTITY cmd.stateMenu.tooltip                "Camudar al executar esti complementu">
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Desaniciar">
-<!ENTITY cmd.uninstallAddon.accesskey         "c">
+<!ENTITY cmd.uninstallAddon.accesskey         "D">
 <!ENTITY cmd.showPreferencesWin.label         "Opciones">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Camudar les opciones d'esti complementu">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferencies">
@@ -114,10 +114,11 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Collaborar col desendolcu d'esti complementu">
 
-<!ENTITY cmd.showReleaseNotes.label           "Amosar notes de la versión">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Amosar les notes de la versión d'esti anovamientu">
-<!ENTITY cmd.hideReleaseNotes.label           "Anubrir notes de la versión">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Anubrir les notes de la versión d'esti anovamientu">
+<!ENTITY cmd.showReleaseNotes.label           "Amosar notes de llanzamientu">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Amosar les notes de llanzamientu d'esti anovamientu">
+<!ENTITY cmd.hideReleaseNotes.label           "Anubrir notes de llanzamientu">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Anubrir les notes de llanzamientu d'esti anovamientu">
+<!ENTITY cmd.findReplacement.label            "Alcontrar un troquéu">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -185,6 +186,9 @@
 <!ENTITY addon.details.label                  "Más">
 <!ENTITY addon.details.tooltip                "Amosar más detalles tocante a esti complementu">
 <!ENTITY addon.unknownDate                    "Desconocíu">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -249,3 +253,4 @@
 
 <!ENTITY pluginDeprecation.description "¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Deprendi más">
+
