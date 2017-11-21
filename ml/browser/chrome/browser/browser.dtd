@@ -25,6 +25,7 @@
 <!ENTITY  reloadAllTabs.accesskey            "എ">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "ടാബ് പകര്‍ത്തുക">
 <!ENTITY  duplicateTab.accesskey             "ഡി">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -161,6 +162,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "നിങ്ങളുടെ പോയിന്റർ നിയന്ത്രിക്കുന്നു. നിങ്ങൾക്ക് നിയന്ത്രണം തിരികെ ലഭിക്കുന്നതിന് Esc അമർത്തുക.">
 <!ENTITY pointerlockWarning.generic.label "ഈ രേഖ നിങ്ങളുടെ പോയിന്റർ നിയന്ത്രിക്കുന്നു. നിങ്ങൾക്ക് നിയന്ത്രണം തിരികെ ലഭിക്കുന്നതിന് Esc അമർത്തുക.">
 
 <!ENTITY closeWindow.label "ജാലകം അടയ്ക്കുക">
@@ -200,6 +202,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "സൈറ്റ് വിവരങ്ങള്‍ കാണുക">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "സന്ദേശ പാനൽ തുറക്കു">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ലൊക്കേഷൻ അഭ്യർത്ഥന പാനല്‍ തുറക്കുക">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ആഡ് ഓൺ ഇൻസ്റ്റാളേഷൻ പാനൽ തുറക്കുക">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "സൈറ്റില്‍ നിന്നും അറിയിപ്പുകള്‍ ലഭിക്കുന്നതില്‍ മാറ്റം വരുത്തുക">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "താങ്കളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
@@ -216,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ഈ വെബ് സൈറ്റിന് നിങ്ങൾ എവിടെയെന്നുള്ള വിവരം ലഭ്യമല്ല.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ഈ വെബ് സൈറ്റിന് അറിയിപ്പുകൾ ലഭ്യമല്ല.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
 
 <!ENTITY searchItem.title             "തെരയുക">
@@ -229,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksSubview.label             "അടയാളക്കുറിപ്പുകൾ">
 <!ENTITY bookmarksMenuButton2.label         "അടയാളക്കുറിപ്പുകളുടെ പട്ടിക">
 <!ENTITY bookmarksMenuButton.other.label    "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
+<!ENTITY bookmarksMenuButton.mobile.label   "മൊബൈൽ അടയാളകുറിപ്പുകള്‍">
 <!ENTITY viewBookmarksSidebar2.label        "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
 <!ENTITY viewBookmarksToolbar.label         "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
 
@@ -244,12 +251,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "ഉപകരണങ്ങള്‍">
 <!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY keywordfield.label           "ഈ തിരച്ചിലിനു വേണ്ടി ഒരു കീവേര്‍ഡ്‌ ചേര്‍ക്കുക">
+<!ENTITY keywordfield.label           "ഈ തിരച്ചിലിനു വേണ്ടി ഒരു കീവേര്‍ഡ്‌ ചേര്‍ക്കുക…">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ഡൌണ്‍ലോഡുകള്‍">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "ഡൌണ്‍ലോഡുകള്‍">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -265,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ഫയല്‍">
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "പുതിയ കണ്ടെയ്നർ ടാബ്">
+<!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "പുതിയ ജാലകം ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -284,7 +294,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "t">
 <!ENTITY copyCmd.label            "പകര്‍ത്തുക">
-<!ENTITY copyCmd.accesskey          "പ">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
 <!ENTITY pasteCmd.label           "ഒട്ടിക്കുക">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "P">
