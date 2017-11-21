@@ -28,11 +28,11 @@
 <!ENTITY view.sortDescending.accesskey  "დ">
 
 <!ENTITY importBookmarksFromHTML.label     "სანიშნეების შემოტანა HTML ფაილიდან…">
-<!ENTITY importBookmarksFromHTML.accesskey "შ">
+<!ENTITY importBookmarksFromHTML.accesskey "ტ">
 <!ENTITY exportBookmarksToHTML.label       "სანიშნეების შენახვა HTML ფაილად…">
-<!ENTITY exportBookmarksToHTML.accesskey   "გ">
+<!ENTITY exportBookmarksToHTML.accesskey   "ხ">
 <!ENTITY importOtherBrowser.label          "მონაცემების გადმოტანა სხვა ბრაუზერიდან…">
-<!ENTITY importOtherBrowser.accesskey      "ს">
+<!ENTITY importOtherBrowser.accesskey      "მ">
 
 <!ENTITY cmd.backup.label               "დამარქაფება…">
 <!ENTITY cmd.backup.accesskey           "დ">
