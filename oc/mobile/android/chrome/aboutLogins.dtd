@@ -6,5 +6,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Se connectar">
 <!ENTITY aboutLogins.update                      "Metre a jorn">
-<!ENTITY aboutLogins.emptyLoginText              "Gardar vòstres identificants segurs">
+<!ENTITY aboutLogins.emptyLoginText              "Gardatz vòstres identificants segurs">
 <!ENTITY aboutLogins.emptyLoginHint              "Los identificants e los senhals que salvatz amb &brandShortName; s'afichan aquí.">
