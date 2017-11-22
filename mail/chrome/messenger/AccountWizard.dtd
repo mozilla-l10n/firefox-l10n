@@ -15,9 +15,12 @@
 <!ENTITY accountTypeDirections.label "Selecciona el tipo de cuenta que quieres instalar:">
 <!ENTITY accountTypeMail.label "Cuenta de correo electrónico">
 <!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeNews.label "Cuenta de grupo de noticias">
+<!ENTITY accountTypeNews.accesskey "w">
 
 <!-- Entities for Identity page -->
 
+<!ENTITY identityTitle.label "Identidad">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
