@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "Përdor Shërbyesin Parazgjedhje">
 
+<!ENTITY smtpServerEdit.label "Përpunoni shërbyesin SMTP…">
+<!ENTITY smtpServerEdit.accesskey "P">
