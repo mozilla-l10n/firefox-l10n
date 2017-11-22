@@ -11,17 +11,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Enxamás">
 
 <!ENTITY  color                           "Testu y fondu">
-<!ENTITY  textColor.label                 "Testu:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Fondu:">
-<!ENTITY  backgroundColor.accesskey       "F">
+<!ENTITY  textColor2.label                "Testu">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Fondu">
+<!ENTITY  backgroundColor2.accesskey      "F">
 <!ENTITY  useSystemColors.label           "Utilizar los colores del sistema">
 <!ENTITY  useSystemColors.accesskey       "U">
 
 <!ENTITY  underlineLinks.label            "Sorrayar enllaces">
 <!ENTITY  underlineLinks.accesskey        "S">
 <!ENTITY  links                           "Color de los enllaces">
-<!ENTITY  linkColor.label                 "Enllaces non visitaos:">
-<!ENTITY  linkColor.accesskey             "E">
-<!ENTITY  visitedLinkColor.label          "Enllaces visitaos:">
-<!ENTITY  visitedLinkColor.accesskey      "n">
+<!ENTITY  linkColor2.label                "Enllaces non visitaos">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Enllaces visitaos">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
