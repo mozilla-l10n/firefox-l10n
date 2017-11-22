@@ -3,8 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "Sonriente">
+<!ENTITY insertSmiley.accesskey "S">
 
+<!ENTITY smiley1Cmd.label "Sonrisa">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "Insertar una cara sonriente">
 <!ENTITY smiley2Cmd.label "Trieste">
 <!ENTITY smiley2Cmd.accesskey "F">
 <!ENTITY smiley2Cmd.tooltip "Inserir una cara triste">
+<!ENTITY smiley3Cmd.label "Guiño">
+<!ENTITY smiley3Cmd.accesskey "W">
+<!ENTITY smiley3Cmd.tooltip "Insertar una cara guiñando">
+<!ENTITY smiley4Cmd.label "Sacar la lengua">
+<!ENTITY smiley4Cmd.accesskey "T">
+<!ENTITY smiley4Cmd.tooltip "Insertar una cara sacando la lengua">
+<!ENTITY smiley5Cmd.label "Riendo">
+<!ENTITY smiley5Cmd.accesskey "L">
+<!ENTITY smiley5Cmd.tooltip "Insertar una cara riendo">
+<!ENTITY smiley6Cmd.label "Avergonzado">
+<!ENTITY smiley6Cmd.accesskey "E">
+<!ENTITY smiley6Cmd.tooltip "Insertar una cara avergonzada">
+<!ENTITY smiley7Cmd.label "Indeciso">
+<!ENTITY smiley7Cmd.accesskey "U">
 
