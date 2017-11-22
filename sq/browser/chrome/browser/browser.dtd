@@ -42,7 +42,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fiksoje Skedën">
 <!ENTITY  pinTab.accesskey                   "F">
-<!ENTITY  unpinTab.label                     "Çfiksoje Skedën">
+<!ENTITY  unpinTab.label                     "Shfiksoje Skedën">
 <!ENTITY  unpinTab.accesskey                 "ç">
 <!ENTITY  sendTabToDevice.label              "Dërgoje Skedën te Pajisja">
 <!ENTITY  sendTabToDevice.accesskey          "P">
