@@ -11,6 +11,10 @@
 
 <!ENTITY accountSetupInfo2.label "Para poder recibir mensajes, necesitas establecer una cuenta.">
 <!ENTITY accountTypeTitle.label "Establecer una nueva cuenta">
+<!ENTITY accountTypeDesc2.label "Este asistente recopilará la información necesaria para establecer una cuenta. Si no conoces la información solicitada, ponte en contacto con tu administrador del sistema o tu proveedor de Internet.">
+<!ENTITY accountTypeDirections.label "Selecciona el tipo de cuenta que quieres instalar:">
+<!ENTITY accountTypeMail.label "Cuenta de correo electrónico">
+<!ENTITY accountTypeMail.accesskey "m">
 
 <!-- Entities for Identity page -->
 
