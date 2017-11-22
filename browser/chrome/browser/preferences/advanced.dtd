@@ -29,6 +29,7 @@ available. -->
 
 <!ENTITY healthReportLearnMore.label     "Deprender más">
 
+<!ENTITY dataCollectionPrivacyNotice.label    "Avisu de privacidá">
 
 <!ENTITY crashReporterLearnMore.label    "Deprender más">
 
@@ -82,6 +83,8 @@ available. -->
  -->
 <!ENTITY updateApplicationDescription.label
                                          "Caltén &brandShortName; anováu pa un meyor rindimientu, estabilidá y seguranza.">
+<!ENTITY updateApplication.version.pre   "Versión ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir a &brandShortName;:">
 <!ENTITY updateAuto3.label               "Instalar anovamientos automáticamente (recomendáu)">
 <!ENTITY updateCheckChoose2.label        "Guetar anovamientos pero dexar escoyer cuándo instalalos">
@@ -95,7 +98,12 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Anovar automáticamente motores de gueta">
 
+<!ENTITY offlineStorageNotify.label               "Avisame cuando s'entrugue pa guardar datos en mou desconexón">
+<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotifyExceptions.label     "Esceiciones…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "s">
 
+<!ENTITY offlineAppsList3.label          "Los siguientes sitios tienen permisu pa guardar datos pal mou ensin conexón">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Desaniciar...">
 <!ENTITY offlineAppsListRemove.accesskey "i">
@@ -104,11 +112,15 @@ available. -->
 <!ENTITY certificateTab.label            "Certificaos">
 <!ENTITY certPersonal2.description       "Cuando un sirvidor solicite'l to certificáu personal:">
 <!ENTITY selectCerts.auto                "Seleicionar ún automáticamente">
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Entrugame cada vegada">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Consultar a los sirvidores respondedores OCSP pa confirmar la validez actual de los certificaos">
 <!ENTITY enableOCSP.accesskey            "u">
 <!ENTITY viewCerts2.label                "Ver certificaos…">
+<!ENTITY viewCerts2.accesskey            "C">
 <!ENTITY viewSecurityDevices2.label      "Preseos de seguridá…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Rindimientu">
 <!ENTITY useRecommendedPerformanceSettings2.label
