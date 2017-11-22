@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Aktivizo Kërkim dhe Indeksues Global">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY dateTimeFormatting.label      "Formatim Datash dhe Kohe">
 <!ENTITY allowHWAccel.label            "Përdor përshpejtim hardware kur mundet">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Lloj Depoje Mesazhesh për llogari të reja:">
@@ -56,12 +57,15 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "Përditësime &brandShortName;-i">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Version ">
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Instaloji vetvetiu përditësimet (e këshillueshme: përmirësohet siguria)">
 <!ENTITY updateAuto.accesskey            "v">
 <!ENTITY updateCheck.label               "Kontrollo për përditësime, por lejomë të zgjedh t&apos;i instaloj apo jo">
@@ -98,6 +102,8 @@
 <!ENTITY useCacheBefore.label            "Përdor deri më">
 <!ENTITY useCacheBefore.accesskey        "d">
 <!ENTITY useCacheAfter.label             "MB hapësirë për fshehtinën">
+<!ENTITY overrideSmartCacheSize.label    "Anashkaloje administrimin e vetvetishëm të fshehtinës">
+<!ENTITY overrideSmartCacheSize.accesskey "A">
 <!ENTITY clearCacheNow.label             "Pastroje Tani">
 <!ENTITY clearCacheNow.accesskey         "P">
 

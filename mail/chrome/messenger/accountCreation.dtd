@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Rregullim Llogarie Poste">
+<!ENTITY autoconfigWizard2.title         "Rregulloni një Llogari Email Ekzistuese">
 <!ENTITY name.label                      "Emri juaj:">
 <!ENTITY name.accesskey                  "e">
 <!ENTITY name.placeholder                "Emër Mbiemër">
 <!ENTITY name.text                       "Emri juaj, siç do të shihet nga të tjerët">
 <!ENTITY email.label                     "Adresë email:">
 <!ENTITY email.accesskey                 "d">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "ju@example.com">
+<!ENTITY email.text                      "Adresa e email-it tuaj ekzistues">
 <!ENTITY password.label                  "Fjalëkalim:">
 <!ENTITY password.accesskey              "F">
 <!ENTITY password.placeholder            "Fjalëkalim">
@@ -53,8 +55,9 @@
 <!ENTITY half-manual-test.accesskey      "R">
 <!ENTITY manual-edit.label               "Formësim dorazi">
 <!ENTITY manual-edit.accesskey           "m">
-<!ENTITY switch-to-provisioner.label     "Hapni një llogari të re">
-<!ENTITY switch-to-provisioner.accesskey "H">
+<!ENTITY open-provisioner.label          "Merrni një adresë email të re…">
+<!ENTITY open-provisioner.accesskey      "M">
+
 
 <!ENTITY warning.label                   "Kujdes!">
 <!ENTITY incomingSettings.label          "Rregullime për shërbyesin marrës:">

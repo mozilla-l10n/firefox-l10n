@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Të përgjithshme">
+
 <!ENTITY  startupAction.label         "Kur niset &brandShortName;-i:">
 <!ENTITY  startupAction.accesskey     "K">
 <!ENTITY  startupOffline.label        "Mbaji jashtë linje llogaritë e mia të fjalosjeve">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Shfletoni…">
 <!ENTITY  browse.accesskey                    "S">
 
+<!ENTITY messageStyleTab.title             "Stile Mesazhi">
+<!ENTITY messageStylePreview.label         "Paraparje:">
+<!ENTITY messageStyleTheme.label           "Temë:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "">
+<!ENTITY messageStyleBubblesTheme.label    "Flluska">
+<!ENTITY messageStyleDarkTheme.label       "E errët">
+<!ENTITY messageStylePaperSheetsTheme.label "Fletë Letre">
+<!ENTITY messageStyleSimpleTheme.label     "E thjeshtë">
+<!ENTITY messageStyleDefaultTheme.label    "Parazgjedhje">
+<!ENTITY messageStyleVariant.label         "Variant:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Shfaq Kryet">
+<!ENTITY messageStyleShowHeader.accesskey  "K">
+<!ENTITY messageStyleNoPreview.title       "S’ka paraparje gati">
+<!ENTITY messageStyleNoPreview.description "Kjo temë s’është e vlefshme ose hëpërhë jo gati (shtesë e çaktivizuar, mënyrë e parrezik, …).">
