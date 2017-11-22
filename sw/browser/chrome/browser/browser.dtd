@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,40 +17,35 @@
 
 
 <!-- Tab context menu -->
-
 <!ENTITY  reloadTab.label                    "Pakia tena Kichupo">
 <!ENTITY  reloadTab.accesskey                "P">
-
-
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Funga Vichupo upande wa Kulia">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-
+<!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "Pini Kichupo">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Banua Kichupo">
 <!ENTITY  unpinTab.accesskey                 "c">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.accesskey          "n">
+<!ENTITY  sendPageToDevice.accesskey         "n">
+<!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  moveToNewWindow.label              "Hamisha kwa Dirisha Mpya">
 <!ENTITY  moveToNewWindow.accesskey          "M">
-
-
-
-
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Funga Kichupo">
 <!ENTITY  closeTab.accesskey                 "F">
 
@@ -78,25 +73,28 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Pau Menyu">
 <!ENTITY menubarCmd.accesskey "P">
-
 <!ENTITY personalbarCmd.label "Mwamba zana wa Alamisho">
 <!ENTITY personalbarCmd.accesskey "M">
 <!ENTITY bookmarksToolbarItem.label "Vipengee vya Mwamba zana wa Alamisho">
 
-
-
-
-
-
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Ukurasa na Chanzo">
 <!ENTITY pageSourceCmd.accesskey "n">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Ukurasa Maelezo">
 <!ENTITY pageInfoCmd.accesskey "M">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Ingiza Skrini Nzima">
@@ -108,74 +106,57 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Onyesha Vichupo Vyote">
 <!ENTITY showAllTabsCmd.accesskey "V">
-
-
-
-
+<!ENTITY toggleReaderMode.key "R">
 
 
 
 <!ENTITY fullScreenMinimize.tooltip "Punguza">
 <!ENTITY fullScreenRestore.tooltip "Rejesha">
-
 <!ENTITY fullScreenAutohide.label "Funga Mwamba zana">
 <!ENTITY fullScreenAutohide.accesskey "F">
 <!ENTITY fullScreenExit.label "Aga Hali tumizi ya Skrini Nzima">
 <!ENTITY fullScreenExit.accesskey "H">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
 <!ENTITY leaveDOMFullScreen.label "Toka kwenye Skrini Nzima">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
 
 <!ENTITY closeWindow.label "Funga Dirisha">
 <!ENTITY closeWindow.accesskey "s">
 
 <!ENTITY bookmarksMenu.label "Vialamisho">
 <!ENTITY bookmarksMenu.accesskey "V">
-
 <!ENTITY editThisBookmarkCmd.label "Hariri Alamisho Hili">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-
 
 <!ENTITY subscribeToPageMenuitem.label "Jisajili katika Ukurasa Huu…">
 <!ENTITY addCurPagesCmd.label "Alamisha Vichupo Vyote…">
 <!ENTITY showAllBookmarks2.label "Onyesha Alamisho Zote">
-
-
-
 <!ENTITY bookmarksToolbarChevron.tooltip "Onyesha alamisho zaidi">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
-
-
-
-
+<!ENTITY backCmd.label                "Nyuma">
 <!ENTITY backButton.tooltip           "Rudi nyuma ukurasa mmoja">
-
 <!ENTITY forwardButton.tooltip        "Nenda mbele ukurasa mmoja">
 <!ENTITY backForwardButtonMenu.tooltip "Bofya-kulia au vuta chini kuonyesha historia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Vuta chini ili kuonyesha historia">
-
-
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Nenda kwa anwani katika Upau wa Mahali">
 <!ENTITY printButton.label            "Chapisha">
@@ -188,47 +169,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY searchItem.title             "Tafuta">
 
 <!-- Toolbar items -->
-
 <!ENTITY homeButton.label             "Nyumbani">
 
 <!ENTITY bookmarksButton.label          "Vialamisho">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Alamisho">
-
-
-
-
+<!ENTITY bookmarksSubview.label             "Alamisho">
 <!ENTITY viewBookmarksToolbar.label         "Tazama Mwambaa zana wa Alamisho">
-
-
-
-
-
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -241,9 +195,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "N">
 
 <!ENTITY downloads.label              "Upakuzi">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "U">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Vifaa vya nyongeza">
 <!ENTITY addons.accesskey             "V">
 <!ENTITY addons.commandkey            "A">
@@ -256,14 +212,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Faili">
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "Dirisha Mpya">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "D">
 <!ENTITY newPrivateWindow.label     "Window Mpya ya Kibinafsi">
 <!ENTITY newPrivateWindow.accesskey "W">
-
 
 <!ENTITY editMenu.label         "Hariri">
 <!ENTITY editMenu.accesskey       "H">
@@ -276,9 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Kata">
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "t">
-
-
-
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
 <!ENTITY pasteCmd.label           "Bandika">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "B">
@@ -304,8 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "u">
 <!ENTITY viewCustomizeToolbar.label       "Geuza kukufaa…">
 <!ENTITY viewCustomizeToolbar.accesskey     "G">
-
-
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Historia">
 <!ENTITY historyMenu.accesskey "s">
@@ -313,30 +265,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Dirisha Zilizofungwa Hivi Karibuni">
 
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Geuza kukufaa">
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
@@ -344,37 +282,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 
 
-
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
-
-
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -386,17 +313,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Badili kwa kichupo:">
 
-
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable "La">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Ndio">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -418,10 +343,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "i">
+
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
@@ -440,6 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 <!ENTITY searchAfter.label            "">
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -448,10 +374,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 
-
-
-
-
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Fungua Kiungo kwa Kichupo Kipya">
 <!ENTITY openLinkCmdInTab.accesskey   "K">
@@ -465,8 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "K">
 <!ENTITY openFrameCmd.label           "Fungua Fremu kwa Dirisha Mpya">
 <!ENTITY openFrameCmd.accesskey       "M">
-
-
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Onyesha Fremu Hii Pekee">
 <!ENTITY showOnlyThisFrameCmd.accesskey "O">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -499,12 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "l">
 <!ENTITY setDesktopBackgroundCmd.label      "Seti Kama Mandharinyuma ya Eneo kazi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
 <!ENTITY bookmarkThisLinkCmd.label      "Alamisha Kiungo Hiki">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "H">
 <!ENTITY bookmarkThisFrameCmd.label      "Alamisha Fremu Hii">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "i">
-
 <!ENTITY emailPageCmd.label           "Kiungo cha Barua pepe…">
 <!ENTITY emailPageCmd.accesskey       "B">
 <!ENTITY savePageCmd.label            "Hifadhi Ukurasa Kama…">
@@ -520,18 +441,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "n">
 <!ENTITY saveImageCmd.label           "Hifadhi Taswira Kama…">
 <!ENTITY saveImageCmd.accesskey       "d">
-
-
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Hifadhi Sauti Kama…">
 <!ENTITY saveAudioCmd.accesskey       "d">
 <!ENTITY emailImageCmd.label          "Taswira ya Barua pepe…">
 <!ENTITY emailImageCmd.accesskey      "w">
 <!ENTITY emailVideoCmd.label          "Video ya Barua pepe…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
-
-
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Amilisha programu jalizi hii">
 <!ENTITY playPluginCmd.accesskey      "l">
 <!ENTITY hidePluginCmd.label          "Ficha programu jalizi hii">
@@ -550,11 +467,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "A">
 <!ENTITY thisFrameMenu.label              "Fremu Hii">
 <!ENTITY thisFrameMenu.accesskey          "m">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
 <!ENTITY mediaPlay.label             "Chezesha">
 <!ENTITY mediaPlay.accesskey         "C">
 <!ENTITY mediaPause.label            "Sitisha">
@@ -566,22 +483,15 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Nyamazishua">
 <!ENTITY mediaUnmute.accesskey       "z">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -600,18 +510,17 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "a">
 <!ENTITY videoHideStats.label        "Ficha Takwimu">
 <!ENTITY videoHideStats.accesskey    "a">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.label       "Kuza Zaidi">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "Z">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Kuza Nje">
@@ -631,16 +540,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Funga mwambaa wa upande">
 
-
 <!ENTITY quitApplicationCmdWin2.label       "Aga">
 <!ENTITY quitApplicationCmdWin2.accesskey   "g">
-
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Ondoka">
 <!ENTITY quitApplicationCmd.accesskey   "O">
-
-
 
 <!ENTITY closeCmd.label                 "Funga">
 <!ENTITY closeCmd.key                   "W">
@@ -679,58 +584,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
-
 <!ENTITY spellAddDictionaries.label "Ongeza Kamusi…">
 <!ENTITY spellAddDictionaries.accesskey "O">
 
 
 
-
-
-
-
-
-
 <!-- Strings for connection state warnings. -->
-
-
 
 <!-- Strings for connection state warnings in the subview. -->
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY identity.permissions "Ruhusa">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "Kivinjari vichupo">
+
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-
-
-
-
-
-
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
@@ -738,59 +614,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY syncBrand.shortName.label    "Ulandanishi">
-
 
 <!ENTITY syncSyncNowItem.label        "Sync Sasa">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-
-
 <!ENTITY syncToolbarButton.label      "Sync">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
 
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera kushiriki:">
@@ -798,63 +636,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofoni kushiriki:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-
-
-
-
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-
-
-
-<!ENTITY trackingContentBlocked.message "Ufuatiliaji">
-
-
-
-
-
-
-
-
-
 <!ENTITY pluginNotification.showAll.label "Onyesha Yote">
 <!ENTITY pluginNotification.showAll.accesskey "O">
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Ruhusu Sasa">
 <!ENTITY pluginActivateAlways.label "Ruhusu na Ukumbuke">
 <!ENTITY pluginBlockNow.label "Zuia programu jalizi">
+
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
 <!ENTITY pluginNotification.width "28em">
 
 
-<!ENTITY appMenuSidebars.label         "Mwambaa upande">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
-
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
 
 <!ENTITY panicButton.view.undoWarning             "Kitendo hakiwazi kutenduliwa.">
 
@@ -866,28 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->

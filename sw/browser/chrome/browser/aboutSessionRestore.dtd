@@ -3,27 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Rejesha Kikao">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Basi, hili ni la kutia aibu.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; in shida ya kufufua dirisha na vichupo vyako. Hii husababishwa na ukurasa wavuti mpya uliofunguliwa hivi karibuni.">
-<!ENTITY restorepage.tryThis        "Unaweza kujaribu:">
-<!ENTITY restorepage.restoreSome    "Kuondoa kichupo kimoja au zaidi unazofikiri kuwa sababu ya shida hii">
-<!ENTITY restorepage.startNew       "Kuanza kikao kipya kabisa cha kuvinjari">
 
-<!ENTITY restorepage.tryagainButton "Rejesha">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Funga">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Rejesha">
 <!ENTITY restorepage.listHeader     "Dirisha na Vichupo">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Dirisha &#037;S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
+<!ENTITY welcomeback2.restoreButton  "Twende kazi!">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 
 

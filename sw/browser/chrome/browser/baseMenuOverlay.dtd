@@ -25,10 +25,9 @@
 
 <!ENTITY helpSafeMode.label       "Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa…">
 <!ENTITY helpSafeMode.accesskey   "A">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
-
-
-
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Kusuluhisha Maelezo">
 <!ENTITY helpTroubleshootingInfo.accesskey  "K">
@@ -36,7 +35,7 @@
 <!ENTITY helpFeedbackPage.label      "Wasilisha Maoni…">
 <!ENTITY helpFeedbackPage.accesskey  "W">
 
-
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Mapendeleo…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

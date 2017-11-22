@@ -4,7 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-
+<!ENTITY ChooseOtherApp.description "Chagua programu nyingine">
 <!ENTITY ChooseApp.label "Chagua…">
 <!ENTITY ChooseApp.accessKey "C">
-
+<!ENTITY accept "Fungua kiungo">
