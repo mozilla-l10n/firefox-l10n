@@ -498,12 +498,12 @@
 <!ENTITY contextmenu_site_settings "Përpunoni Rregullime Sajti">
 <!ENTITY contextmenu_top_sites_edit "Përpunoni">
 <!ENTITY contextmenu_top_sites_pin "Fiksojeni Sajtin">
-<!ENTITY contextmenu_top_sites_unpin "Çfiksojeni Sajtin">
+<!ENTITY contextmenu_top_sites_unpin "Shfiksojeni Sajtin">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "Fiksoje te Sajtet Kryesues">
-<!ENTITY contextmenu_unpin_from_top_sites "Hiqe Si të Fksuar Nga Sajtet Kryesues">
+<!ENTITY contextmenu_unpin_from_top_sites "Hiqe Si të Fiksuar Nga Sajtet Kryesues">
 <!ENTITY contextmenu_add_search_engine "Shtoni një Motor Kërkimesh">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
