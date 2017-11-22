@@ -4,10 +4,10 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo(a)">
 <!ENTITY firstrun_urlbar_message2 "Obrigado por escolher o &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext2 "Um navegador móvel moderno da Mozilla, a sem fins lucrativos comprometida com uma web livre e aberta.">
+<!ENTITY firstrun_urlbar_subtext2 "Um navegador móvel moderno da Mozilla, a sem fins lucrativos comprometida com uma Web livre e aberta.">
 <!ENTITY firstrun_panel_title_privacy "Privacidade">
 <!ENTITY firstrun_privacy_message "Navegue como se ninguém estivesse a ver">
-<!ENTITY firstrun_privacy_subtext "A Navegação privada com proteção contra monitorização bloqueia trackers enquanto navega e não irá memorizar o seu histórico quando terminar de navegar.">
+<!ENTITY firstrun_privacy_subtext "A Navegação privada com Proteção Contra Monitorização bloqueia monitorizadores enquanto navega na Web e não irá memorizar o seu histórico quando terminar de navegar.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Faça o &brandShortName; seu.">
 <!ENTITY firstrun_customize_subtext "Personalize o &brandShortName; com extras. Bloqueie anúncios, adicione funcionalidades, ou escolha um novo tema para refletir a sua personalidade.">
@@ -26,10 +26,10 @@
 <!ENTITY firstrun_button_notnow "Agora não">
 <!ENTITY firstrun_button_next "Seguinte">
 
-<!ENTITY firstrun_tabqueue_title "Ligações">
+<!ENTITY firstrun_tabqueue_title "Hiperligações">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Ligar a fila de separadores">
-<!ENTITY firstrun_tabqueue_subtext_off "Guarde ligações para mais tarde no &brandShortName;, tocando nelas noutras aplicações.">
+<!ENTITY firstrun_tabqueue_subtext_off "Guarde hiperligações para mais tarde no &brandShortName; tocando nelas em outras aplicações.">
 
 <!ENTITY firstrun_tabqueue_message_on "Sucesso!">
 <!ENTITY firstrun_tabqueue_subtext_on "Pode sempre desativar a opção na categoria &pref_category_general; das &settings;.">
@@ -381,7 +381,7 @@
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline do website">
 <!ENTITY pref_private_data_siteSettings2 "Definições do site">
-<!ENTITY pref_private_data_downloadFiles2 "Descargas">
+<!ENTITY pref_private_data_downloadFiles2 "Descarregamentos">
 <!ENTITY pref_private_data_syncedTabs "Separadores sincronizados">
 
 <!ENTITY pref_default_browser "Tornar navegador predefinido">
@@ -446,7 +446,7 @@
 
 <!ENTITY addons "Extras">
 <!ENTITY logins "Credenciais">
-<!ENTITY downloads "Descargas">
+<!ENTITY downloads "Descarregamentos">
 <!ENTITY char_encoding "Codificação de caracteres">
 
 <!ENTITY share "Partilhar">
@@ -809,7 +809,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "Desculpe! Este &brandShortName; não funciona neste dispositivo (&formatS1;, &formatS2;). Por favor descarregue a versão correta.">
+<!ENTITY unsupported_sdk_version "Desculpe! Este &brandShortName; não funciona neste dispositivo (&formatS1;, &formatS2;). Por favor, descarregue a versão correta.">
 
 <!ENTITY eol_notification_title2 "O &brandShortName; não será mais atualizado">
 <!ENTITY eol_notification_summary "Toque para saber mais">
