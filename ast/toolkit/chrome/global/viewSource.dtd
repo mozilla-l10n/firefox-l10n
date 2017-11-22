@@ -10,23 +10,23 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Códigu fonte de:">
+<!ENTITY mainWindow.preface "Fonte de: ">
 
 <!ENTITY fileMenu.label "Ficheru">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Guardar páxina como…">
-<!ENTITY savePageCmd.accesskey "x">
-<!ENTITY savePageCmd.commandkey "G">
+<!ENTITY savePageCmd.accesskey "c">
+<!ENTITY savePageCmd.commandkey "c">
 <!ENTITY pageSetupCmd.label "Configuración de páxina…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Previsualización">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprentar…">
-<!ENTITY printCmd.accesskey "p">
+<!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "I">
 <!ENTITY closeCmd.label "Zarrar">
-<!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.commandkey "W">
+<!ENTITY closeCmd.accesskey "Z">
+<!ENTITY closeCmd.commandkey "Z">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -44,7 +44,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goToLineCmd.label "Dir a la llinia…">
 <!ENTITY goToLineCmd.accesskey "D">
-<!ENTITY goToLineCmd.commandkey "l">
+<!ENTITY goToLineCmd.commandkey "D">
 
 <!ENTITY viewMenu.label           "Ver">
 <!ENTITY viewMenu.accesskey       "V">
@@ -64,8 +64,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Guetar nesta páxina">
-<!ENTITY findOnCmd.accesskey "G">
+<!ENTITY findOnCmd.label     "Alcontrar nesta páxina…">
+<!ENTITY findOnCmd.accesskey "t">
 <!ENTITY findOnCmd.commandkey "t">
 <!ENTITY findAgainCmd.label  "Repitir gueta">
 <!ENTITY findAgainCmd.accesskey "R">
@@ -76,11 +76,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.label "Atrás">
 <!ENTITY backCmd.accesskey "s">
 <!ENTITY forwardCmd.label "Alantre">
-<!ENTITY forwardCmd.accesskey "t">
+<!ENTITY forwardCmd.accesskey "r">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "Copiar allugamientu d'enllaz">
 <!ENTITY copyLinkCmd.accesskey "d">
 <!ENTITY copyEmailCmd.label "Copiar direición de corréu">
-<!ENTITY copyEmailCmd.accesskey "a">
+<!ENTITY copyEmailCmd.accesskey "c">
