@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Figurë Sfondi:">
 <!ENTITY backgroundImage.accessKey "a">
 <!ENTITY backgroundImage.tooltip "Përdorni kartelë figure si sfond për faqen tuaj">
+<!ENTITY backgroundImage.shortenedDataURI "URI e shkurtuar të dhënash (kopjimi do të hedhë në të papastër URI-n e plotë)">
