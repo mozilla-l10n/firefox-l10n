@@ -49,9 +49,9 @@ available. -->
 <!ENTITY connectionSettings.label        "Definições…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "Conteúdo web em cache">
+<!ENTITY httpCache.label                 "Conteúdo Web em cache">
 
-<!ENTITY offlineStorage2.label           "Conteúdo web offline e dados do utilizador">
+<!ENTITY offlineStorage2.label           "Conteúdo Web offline e dados do utilizador">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Dados de sites">
