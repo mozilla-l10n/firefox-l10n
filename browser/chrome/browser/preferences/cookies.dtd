@@ -4,6 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
+<!ENTITY     cookiesonsystem2.label         "Les siguientes cookies tán guardaes nel equipu">
 <!ENTITY     cookiename.label               "Nome de la cookie">
 <!ENTITY     cookiedomain.label             "Sitiu">
 

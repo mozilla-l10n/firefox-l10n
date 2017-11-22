@@ -16,12 +16,15 @@
 <!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
      of the search field in about:preferences, in order to make entire placeholder
      string visible -->
+<!ENTITY  searchField.width             "15.4em">
 
+<!ENTITY  paneSearchResults.title       "Resultaos de gueta">
 <!ENTITY  paneGeneral.title             "Xeneral">
 <!ENTITY  paneSearch.title              "Guetar">
 <!ENTITY  paneFilesApplications.title   "Ficheros y aplicaciones">
 <!ENTITY  panePrivacySecurity.title     "Privacidá y Seguranza">
 <!ENTITY  paneContainers.title          "Llingüetes contenedor">
+<!ENTITY  paneUpdates.title             "Anovamientos">
 
 <!ENTITY  languageAndAppearance.label   "Llingua y aspeutu">
 <!ENTITY  filesAndApplications.label    "Ficheros y aplicaciones">

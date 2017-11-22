@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Permisos">
 
 <!ENTITY  blockPopups.label           "Bloquiar ventanes emerxentes">
 <!ENTITY  blockPopups.accesskey       "B">
@@ -33,6 +34,8 @@
 <!ENTITY  fontsAndColors.label        "Fontes y colores">
 
 <!ENTITY  defaultFont2.label          "Fonte predeterminada">
+<!ENTITY  defaultSize2.label          "Tamañu">
+<!ENTITY  defaultSize2.accesskey      "T">
 
 <!ENTITY  advancedFonts.label         "Avanzaes…">
 <!ENTITY  advancedFonts.accesskey     "v">
