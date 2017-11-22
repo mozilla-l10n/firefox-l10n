@@ -229,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ovoj ste stranici zabranili slanje obavijesti.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ovoj ste stranici zabranili mogućnost trajne pohrane podataka.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
 
 <!ENTITY searchItem.title             "Traži">
@@ -805,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Uključite sinkronizaciju kartica da biste vidjeli kartice s vaših ostalih uređaja.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Pretraži sinkronizirane kartice">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +904,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Omogući zaštitu">
 <!ENTITY trackingProtection.block2.accesskey "O">
 
-<!ENTITY trackingContentBlocked.message "Praćenje">
-<!ENTITY trackingContentBlocked.moreinfo "Dijelovi stranice koji prate vašu online aktivnost su blokirani.">
-<!ENTITY trackingContentBlocked.learnMore "Saznajte više">
-<!ENTITY trackingContentBlocked.options "Mogućnosti">
-<!ENTITY trackingContentBlocked.unblock2.label "Onemogući zaštitu na ovoj stranici">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "n">
-<!ENTITY trackingContentBlocked.block.label "Omogući zaštitu">
-<!ENTITY trackingContentBlocked.block.accesskey "O">
-<!ENTITY trackingContentBlocked.disabled.message "Zaštita od praćenja je isključena">
-
 <!ENTITY pluginNotification.showAll.label "Prikaži sve">
 <!ENTITY pluginNotification.showAll.accesskey "s">
 
@@ -991,3 +983,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Sinkronizacija uređaja…">
 
 <!ENTITY libraryButton.tooltip "Prikaz povijesti, spremljenih zabilješki i više">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Značajke pristupačnosti omogućene">
