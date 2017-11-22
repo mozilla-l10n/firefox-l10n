@@ -11,6 +11,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Kontrollo për Përditësime">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
+<!ENTITY update.updateButton.label3               "Riniseni që të përditësohet &brandShorterName;-i">
 <!ENTITY update.updateButton.accesskey            "R">
 
 

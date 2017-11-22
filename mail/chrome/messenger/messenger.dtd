@@ -51,6 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Llogarinë e Tanishme">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "l">
+<!ENTITY getNextNMsgCmd2.label "Merr Mesazhet e Rinj Pasues">
+<!ENTITY getNextNMsgCmd2.accesskey "M">
 <!ENTITY sendUnsentCmd.label "Dërgo Mesazhe Të Padërguar">
 <!ENTITY sendUnsentCmd.accesskey "u">
 <!ENTITY subscribeCmd.label "Pajtohuni…">
@@ -364,7 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Përpunoni Mesazhin Skicë">
 <!ENTITY editDraftMsgCmd.accesskey "C">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.label "Mesazh i Ri prej Gjedheje">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Krijoni Filtër Prej Mesazhi…">
 <!ENTITY createFilter.accesskey "F">
 <!ENTITY moveMsgToMenu.label "Shpjere Te">
@@ -733,6 +736,7 @@
 <!ENTITY attachmentColumn2.tooltip "Renditi sipas bashkëngjitjesh">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Mesazh i Ri prej Gjedheje">
 <!ENTITY contextOpenNewWindow.label "Hape Mesazhin në Dritare të Re">
 <!ENTITY contextOpenNewWindow.accesskey "D">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -951,3 +955,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Mundësi Ikone Aplikacioni…">
+<!ENTITY writeNewMessageDock.label      "Shkruani Mesazh të Ri">
+<!ENTITY openAddressBookDock.label      "Hap Libër Adresash">
