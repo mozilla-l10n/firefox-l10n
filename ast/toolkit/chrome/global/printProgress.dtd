@@ -7,7 +7,7 @@
 <!ENTITY title    "Títulu:"> 
 <!ENTITY progress "Progresu:">
 <!ENTITY preparing "Tresnando…">
-<!ENTITY printComplete "La imprentación completóse.">
+<!ENTITY printComplete "Completóse la imprentación.">
 
 <!ENTITY dialogCancel.label "Encaboxar"> 
 <!ENTITY dialogClose.label "Zarrar">

@@ -17,11 +17,11 @@
 <!ENTITY landscape.accesskey "H">
 
 <!ENTITY scale.label         "Escala:">
-<!ENTITY scale.accesskey     "s">
+<!ENTITY scale.accesskey     "E">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Axustar al anchor de páxina">
-<!ENTITY shrinkToFit.accesskey "u">
+<!ENTITY shrinkToFit.accesskey "A">
 
 <!ENTITY optionsGroup.label  "Opciones">
 
@@ -34,17 +34,17 @@
 <!ENTITY marginUnits.inches  "pulgaes">
 <!ENTITY marginUnits.metric  "milímetros">
 <!ENTITY marginTop.label     "Cimero:">
-<!ENTITY marginTop.accesskey "S">
+<!ENTITY marginTop.accesskey "C">
 <!ENTITY marginBottom.label  "Baxero:">
-<!ENTITY marginBottom.accesskey "I">
-<!ENTITY marginLeft.label    "Izquierda:">
-<!ENTITY marginLeft.accesskey "z">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Esquierda:">
+<!ENTITY marginLeft.accesskey "s">
 <!ENTITY marginRight.label   "Drecha:">
 <!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label  "Testeres y pies">
 
-<!ENTITY hfLeft.label        "Izquierda:">
+<!ENTITY hfLeft.label        "Esquierda:">
 <!ENTITY hfCenter.label      "Centru:">
 <!ENTITY hfRight.label       "Drecha:">
 <!ENTITY headerLeft.tip      "Testera esquierda">
@@ -60,7 +60,7 @@
 <!ENTITY hfPage              "Páxina #">
 <!ENTITY hfPageAndTotal      "Páxina # de #">
 <!ENTITY hfBlank             "--balero--">
-<!ENTITY hfCustom            "Personalizáu…">
+<!ENTITY hfCustom            "Personalizar…">
 
-<!ENTITY customPrompt.title  "Personalizáu…">
+<!ENTITY customPrompt.title  "Personalizar…">
 <!ENTITY customPrompt.prompt "Introduz el to testu personalizáu de testera/pie">
