@@ -41,7 +41,7 @@
 <!ENTITY translation.showOriginal.button        "დედნის ჩვენება">
 <!ENTITY translation.showTranslation.button     "თარგმნილის ჩვენება">
 
-<!ENTITY translation.errorTranslating.label     "გვერდის თარგმნისას დაფიქსირდა შეცდომა.">
+<!ENTITY translation.errorTranslating.label     "შეცდომა, გვერდის თარგმნისას.">
 <!ENTITY translation.tryAgain.button            "სცადეთ ხელახლა">
 
 <!ENTITY translation.serviceUnavailable.label   "თარგმნა ამ დროისთვის შეუძლებელია. გთხოვთ, სცადოთ მოგვიანებით.">
