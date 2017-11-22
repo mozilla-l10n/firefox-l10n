@@ -10,4 +10,4 @@
 <!ENTITY setPassword.meter.label           "Indicador de qualidade da palavra-passe">
 <!ENTITY setPassword.meter.loading         "A carregar">
 <!ENTITY masterPasswordDescription.label   "Uma palavra-passe mestra é utilizada para proteger informação sensível como, palavras-passe de sites.  Se criar uma palavra-passe mestra, ser-lhe-á solicitado que a introduza uma vez por cada sessão quando o &brandShortName; adquire informação protegida pela palavra-passe mestra.">
-<!ENTITY masterPasswordWarning.label       "Por favor certifique-se de que memoriza a palavra-passe mestra definida.  Se se esquecer da sua palavra-passe mestra, não conseguirá aceder a quaisquer informações protegidas pela mesma.">
+<!ENTITY masterPasswordWarning.label       "Por favor, certifique-se de que memoriza a palavra-passe mestra definida.  Se se esquecer da sua palavra-passe mestra, não conseguirá aceder a quaisquer informações protegidas pela mesma.">
