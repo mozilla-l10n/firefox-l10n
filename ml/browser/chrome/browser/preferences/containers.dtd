@@ -2,18 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
+<!ENTITY addButton.label      "പുതിയ കണ്ടെയ്നര്‍ ചേര്‍ക്കുക">
+<!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "പരിഗണനകള്‍">
+<!ENTITY removeButton.label   "നീക്കുക">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "&#171; തിരിച്ചുപോവുക">
 
+<!ENTITY window.title         "പുതിയ കണ്ടെയ്നര്‍ ചേര്‍ക്കുക">
+<!ENTITY window.width         "45em">
 
+<!ENTITY name2.label          "പേര്">
+<!ENTITY name2.accesskey      "N">
+<!ENTITY name.placeholder     "കണ്ടെയ്നറിന്റെ പേര് ചേര്‍ക്കുക">
+<!ENTITY icon2.label          "ഐക്കൺ">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "നിറം">
+<!ENTITY color2.accesskey     "o">
+<!ENTITY windowClose.key      "w">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY button.ok.label      "ചെയ്തു">
+<!ENTITY button.ok.accesskey  "D">
