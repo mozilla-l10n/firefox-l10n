@@ -63,7 +63,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Esquecer este email">
 <!ENTITY forget.accesskey            "E">
 
-<!ENTITY signedOut.caption            "Leve a sua Web consigo">
+<!ENTITY signedOut.caption            "Leve a Web consigo">
 <!ENTITY signedOut.description        "Sincronize os marcadores, histórico, separadores, palavras-passe, extras e preferências entre dispositivos.">
 <!ENTITY signedOut.accountBox.title   "Associe uma &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create2 "Não tem uma conta? Comece aqui">
