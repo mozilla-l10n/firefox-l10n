@@ -7,6 +7,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "សូមអភ័យទោស។ យើង​ជួប​បញ្ហា​ក្នុង​ការ​ស្ដារ​ទំព័រ​របស់​អ្នក​មកវិញ។">
+<!ENTITY restorepage.problemDesc2   "យើង​មាន​បញ្ហា​ក្នុង​ការ​ស្ដារ​សម័យ​រុករក​ចុងក្រោយ​របស់​អ្នក។ សូម​ចុច ស្ដារ​សម័យ ដើម្បី​សាកល្បង​ម្ដងទៀត។">
 
 
 
