@@ -28,3 +28,13 @@
 <!ENTITY account.delete.accesskey     "D">
 <!ENTITY account.edit.label           "Proprietăți">
 <!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "Mutare în sus">
+<!ENTITY account.movedown.label       "Mutare în jos">
+<!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.copyDebugLog.label     "Copiază diagnosticarea">
+<!ENTITY account.copyDebugLog.accesskey "C">
+<!ENTITY account.showDebugLog.label     "Arată diagnosticarea">
+<!ENTITY account.showDebugLog.accesskey "H">
+<!ENTITY account.connecting           "Se conectează…">
+<!ENTITY account.disconnecting        "Se deconectează…">
+<!ENTITY account.disconnected         "Nu este conectat">
