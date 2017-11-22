@@ -6,16 +6,12 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Bono, esto ye vergoñoso.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ta teniendo problemes recuperando les tos llingüetes y ventanes. Esto cáusalo davezu una páxina abierta apocayá.">
-<!ENTITY restorepage.tryThis        "Pues tentar de:">
-<!ENTITY restorepage.restoreSome    "Desaniciar una o más llingüetes que camientes que quiciabes causen el problema">
-<!ENTITY restorepage.startNew       "Aniciar una sesión nueva del restolador">
 
-<!ENTITY restorepage.tryagainButton "Restaurar">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Zarrar">
-<!ENTITY restorepage.close.access   "Z">
+
+<!ENTITY restorepage.tryagainButton2 "Restaurar Sesión">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Aniciar sesión nueva">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Ventanes y llingüetes">
@@ -34,8 +30,8 @@
 <!ENTITY welcomeback2.pageTitle     "¡Ésitu!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ta preparáu pa siguir.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Restaurar toles ventanes y llingüetes">
-<!ENTITY welcomeback2.label.restoreSome "Restaurar namái les que quies">
+<!ENTITY welcomeback2.restoreAll.label  "Restaurar toles ventanes y llingüetes">
+<!ENTITY welcomeback2.restoreSome.label "Restaurar namái les que quies">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,

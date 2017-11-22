@@ -176,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Amosar tolos marcadores">
 <!ENTITY recentBookmarks.label "Amestao apocayá a marcadores">
 <!ENTITY otherBookmarksCmd.label "Otros marcadores">
+<!ENTITY mobileBookmarksCmd.label "Marcadores del móvil">
 <!ENTITY bookmarksToolbarChevron.tooltip "Amosar más marcadores">
 <!ENTITY showRecentlyBookmarked.label     "Amosar marcadores de recién">
 <!ENTITY showRecentlyBookmarked.accesskey "m">
@@ -235,6 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksSubview.label             "Marcadores">
 <!ENTITY bookmarksMenuButton2.label         "Menú de marcadores">
 <!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
+<!ENTITY bookmarksMenuButton.mobile.label   "Marcadores del móvil">
 <!ENTITY viewBookmarksSidebar2.label        "Ver panel llateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramientes de marcadores">
 <!ENTITY searchBookmarks.label              "Guetar marcadores">
@@ -324,6 +326,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "a">
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY overflowCustomizeToolbar.label       "Personalizar barra de ferramientes…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
@@ -353,8 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Nun hai llingüetes abiertes">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Amosar más">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Amosar más llingüetes d'esti preséu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Amosalo too">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Amosar toles llingüetes d'esti preséu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activa la sincronización de llingüetes pa ver un llistáu d'elles dende los tos otros preseos.">
@@ -366,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sincronizar preferencies">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Anicia sesión pa ver un llistáu de llingüetes de los tos otros preseos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aniciar sesión en Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Remanar preseos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver llingüetes sincronizaes na barra llateral">
 
 <!ENTITY appMenuRecentHighlights.label "Destacaos">
@@ -379,6 +388,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Amestar a menú flotante">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Mover a la barra de ferramientes">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -388,6 +399,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fixar nel menú flotante">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Desfixar nel menú flotante">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Desaniciar de la barra de ferramientes">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "D">
 <!ENTITY customizeMenu.removeFromMenu.label "Desaniciar del menú">
@@ -416,8 +431,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "s">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Conseyu">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Camudar opciones…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Camudar preferencies…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -536,6 +555,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Amestar esti cuadru a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY pageAction.copyLink.label    "Copiar enllaz">
+<!ENTITY copyURLFeedback.label        "¡Copiáu!">
 <!ENTITY emailPageCmd.label           "Unviar enllaz…">
 <!ENTITY emailPageCmd.accesskey       "U">
 <!ENTITY savePageCmd.label            "Guardar páxina como…">
@@ -669,6 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Colar">
 <!ENTITY quitApplicationCmd.accesskey   "C">
 <!ENTITY quitApplicationCmdMac2.label   "Colar de &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zarrar">
 <!ENTITY closeCmd.key                   "W">
@@ -790,6 +812,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Abrilo too en llingüetes">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
+<!ENTITY syncedTabs.context.managedevices.label              "Remanar preseos…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "P">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -806,7 +832,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quies más ferramientes?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escueyi ente milenta complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminaos">
+<!ENTITY customizeMode.done "Fecho">
 <!ENTITY customizeMode.titlebar "Barra de títulu">
+<!ENTITY customizeMode.toolbars2 "Barres de ferramientes">
 <!ENTITY customizeMode.lwthemes "Temes">
 <!ENTITY customizeMode.lwthemes.myThemes "Los mios temes">
 <!ENTITY customizeMode.lwthemes.recommended "Aconseyaos">
@@ -815,17 +843,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Consiguir más temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
 <!ENTITY customizeMode.emptyOverflowList.description "Arrastra y suelta elementos equí pa caltenelos al to algame, pero fuera de la barra de ferramientes…">
+<!ENTITY customizeMode.overflowList.title2 "Menú flotante">
 <!ENTITY customizeMode.overflowList.description "Arrastra y suelta elementos equí pa caltenelos al to algame, pero fuera de la barra de ferramientes…">
+<!ENTITY customizeMode.uidensity "Densidá">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Compautu">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compautu">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Táctil">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Táctil">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Usar Táctil pa Mou tableta">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Auto-anubrir">
 
 <!ENTITY getUserMedia.selectCamera.label "Cámara pa compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -896,6 +937,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Deprendi más tocante al DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "Mira qué hai nuevo.">
+<!ENTITY updateAvailable.acceptButton.label "Baxar anovamientu">
+<!ENTITY updateAvailable.acceptButton.accesskey "B">
+<!ENTITY updateAvailable.cancelButton.label "Agora non">
+<!ENTITY updateAvailable.cancelButton.accesskey "A">
 
 
 

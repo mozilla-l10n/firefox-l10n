@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Zarrar esta llingüeta">
+<!ENTITY tabCrashed.title "Axente d'informe de fallos">
+
+<!ENTITY tabCrashed.closeTab2  "Zarrar llingüeta">
 <!ENTITY tabCrashed.restoreTab "Restaurar esta llingüeta">
 <!ENTITY tabCrashed.restoreAll "Restaurar toles llingüetes que cascaron">
 
@@ -14,15 +16,13 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "Meca, les tos llingüetes ta acabante de cascar.">
-<!ENTITY tabCrashed.offerHelp "¡Podemos ayudate!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Esbilla &tabCrashed.restoreTab; pa recargar el conteníu de la páxina.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Esbilla &tabCrashed.restoreTab; o &tabCrashed.restoreAll; pa recargar el conteníu de la páxina.">
+<!ENTITY tabCrashed.offerHelp2 "¡Podemos ayudate!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Esbilla &tabCrashed.restoreTab; pa recargar la páxina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Esbilla &tabCrashed.restoreTab; o &tabCrashed.restoreAll; pa recargar la páxina/pages.">
 <!ENTITY tabCrashed.requestHelp "¿Ayúdesnos?">
 <!ENTITY tabCrashed.requestHelpMessage "Los reportes de fallos ayúdennos a diagnosticar problemes y facer un &brandShortName; meyor.">
 <!ENTITY tabCrashed.requestReport "Reportar esta llingüeta">
-<!ENTITY tabCrashed.sendReport2 "Unviar un reporte de fallos pa la llingüeta que tas viendo">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentarios opcionales (los comentarios son públicos y visibles)">
-<!ENTITY tabCrashed.includeURL2 "Incluyir páxina URL con esti informe de fallu">
 <!ENTITY tabCrashed.emailPlaceholder "Introduz equí la to direición de corréu">
 <!ENTITY tabCrashed.emailMe "Unviáime un corréu cuando heba más información disponible">
 <!ENTITY tabCrashed.reportSent "Yá s'unvió l'informe de fallos; ¡gracies por ayudar a ameyorar &brandShortName;!">
