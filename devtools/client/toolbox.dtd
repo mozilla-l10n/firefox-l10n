@@ -133,12 +133,12 @@
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
-<!ENTITY options.webconsole.label            "Consola web">
+<!ENTITY options.webconsole.label            "Consola Web">
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Ativar marcas temporais">
-<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e a saída da consola web irão mostrar uma marca temporal">
+<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e a saída da consola Web irão mostrar uma marca temporal">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
