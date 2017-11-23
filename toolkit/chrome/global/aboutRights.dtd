@@ -16,7 +16,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "O &brandShortName; é disponibilizado nos termos da ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também pode modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
+<!ENTITY rights.intro-point1c ". Isto significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas. Também pode modificar o código fonte do &brandShortName; conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.">
 
 <!ENTITY rights.intro-point2-a "Não tem nenhum direito às marcas registadas ou licenças às marcas registadas da Fundação Mozilla ou qualquer outra, incluindo sem limitações o nome ou logo do Firefox. Pode encontrar informação adicional sobre marcas registadas ">
 <!ENTITY rights.intro-point2-b "aqui">
@@ -39,11 +39,11 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar serviços web, quaisquer termos aplicáveis ao serviço devem ser direcionados para ">
+<!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar serviços Web, quaisquer termos aplicáveis ao serviço devem ser direcionados para ">
 <!ENTITY rights.intro-point4b-unbranded "a secção de">
 <!ENTITY rights.intro-point4c-unbranded " secção.">
 
-<!ENTITY rights2.webservices-header "Serviços de informação baseados na web do &brandFullName;">
+<!ENTITY rights2.webservices-header "Serviços de informação baseados na Web do &brandFullName;">
 
 <!-- point 5 -->
 <!ENTITY rights.intro-point5 "Para poder reproduzir certos tipos de conteúdo de vídeo, o &brandShortName; descarrega certos módulos de desencriptação de conteúdo de terceiros.">
@@ -53,7 +53,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "O &brandFullName; usa serviços de informação baseados na web (&quot;Serviços&quot;) para disponibilizar algumas das funcionalidades fornecidas para uso próprio com esta versão binária do &brandShortName; sobre os termos descritos em baixo. Se não desejar usar um mais serviços ou os termos abaixo são inaceitáveis, pode desativar a funcionalidade ou serviço(s). Instruções sobre como desativar uma funcionalidade em particular ou serviço pode ser encontrada ">
+<!ENTITY rights2.webservices-a "O &brandFullName; usa serviços de informação baseados na Web (&quot;Serviços&quot;) para disponibilizar algumas das funcionalidades fornecidas para uso próprio com esta versão binária do &brandShortName; sobre os termos descritos em baixo. Se não desejar usar um mais serviços ou os termos abaixo são inaceitáveis, pode desativar a funcionalidade ou serviço(s). Instruções sobre como desativar uma funcionalidade em particular ou serviço pode ser encontrada ">
 <!ENTITY rights2.webservices-b "aqui">
 <!ENTITY rights3.webservices-c ". Pode desativar mais funcionalidades ou serviços nas preferências da aplicação.">
 
@@ -75,7 +75,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "A navegação com conhecimento da localização está agora desativada">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Uma visão dos serviços web que o produto incorpora, assim como instruções de como os desativar, se necessário, devem ser colocados aqui.">
+<!ENTITY rights.webservices-unbranded "Uma visão dos serviços Web que o produto incorpora, assim como instruções de como os desativar, se necessário, devem ser colocados aqui.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Quaisquer termos de serviço devem ser listados aqui.">
