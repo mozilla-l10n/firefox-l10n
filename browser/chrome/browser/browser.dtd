@@ -61,21 +61,21 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "Llingüeta nueva">
 <!ENTITY tabCmd.accesskey "L">
-<!ENTITY tabCmd.commandkey "l">
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Abrir allugamientu…">
 <!ENTITY openFileCmd.label "Abrir ficheru…">
 <!ENTITY openFileCmd.accesskey "A">
-<!ENTITY openFileCmd.commandkey "a">
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Configuración de páxina…">
 <!ENTITY printSetupCmd.accesskey "C">
 <!ENTITY printPreviewCmd.label "Previsualización">
 <!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printCmd.label "Imprentar…">
 <!ENTITY printCmd.accesskey "I">
-<!ENTITY printCmd.commandkey "i">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Trabayar ensin conexón">
 <!ENTITY goOfflineCmd.accesskey "y">
@@ -119,7 +119,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "c">
 <!ENTITY showAllTabsCmd.label "Amosar toles llingüetes">
 <!ENTITY showAllTabsCmd.accesskey "t">
-<!ENTITY toggleReaderMode.key "L">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Aniciar sesión en &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir preferencies de &syncBrand.shortName.label;">
@@ -231,7 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "Aniciu">
 
 <!ENTITY bookmarksButton.label          "Marcadores">
-<!ENTITY bookmarksCmd.commandkey "m">
+<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Marcadores">
 <!ENTITY bookmarksMenuButton2.label         "Menú de marcadores">
@@ -246,8 +246,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "m">
-<!ENTITY bookmarksWinCmd.commandkey "m">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historial">
 <!ENTITY historySidebarCmd.commandKey   "h">
@@ -267,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Complementos">
 <!ENTITY addons.accesskey             "C">
-<!ENTITY addons.commandkey            "C">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Desendolcador web">
 <!ENTITY webDeveloperMenu.accesskey   "W">

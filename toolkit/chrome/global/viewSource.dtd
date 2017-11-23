@@ -16,17 +16,17 @@
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Guardar páxina como…">
 <!ENTITY savePageCmd.accesskey "c">
-<!ENTITY savePageCmd.commandkey "c">
+<!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Configuración de páxina…">
 <!ENTITY pageSetupCmd.accesskey "o">
 <!ENTITY printPreviewCmd.label "Previsualización">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprentar…">
 <!ENTITY printCmd.accesskey "I">
-<!ENTITY printCmd.commandkey "I">
+<!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Zarrar">
 <!ENTITY closeCmd.accesskey "Z">
-<!ENTITY closeCmd.commandkey "Z">
+<!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -44,7 +44,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goToLineCmd.label "Dir a la llinia…">
 <!ENTITY goToLineCmd.accesskey "D">
-<!ENTITY goToLineCmd.commandkey "D">
+<!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Ver">
 <!ENTITY viewMenu.accesskey       "V">
@@ -66,10 +66,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     "Alcontrar nesta páxina…">
 <!ENTITY findOnCmd.accesskey "t">
-<!ENTITY findOnCmd.commandkey "t">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Repitir gueta">
 <!ENTITY findAgainCmd.accesskey "R">
-<!ENTITY findAgainCmd.commandkey "R">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
