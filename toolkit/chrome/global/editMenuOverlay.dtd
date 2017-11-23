@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "Editar">
-<!ENTITY editMenu.accesskey        "t">
+<!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label             "Desfacer">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "E">
@@ -27,7 +27,7 @@
 <!ENTITY findCmd.label             "Guetar">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "G">
-<!ENTITY findAgainCmd.label        "Repetir la gueta">
+<!ENTITY findAgainCmd.label        "Repitir la gueta">
 <!ENTITY findAgainCmd.key          "r">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "g">

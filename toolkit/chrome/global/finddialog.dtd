@@ -5,18 +5,18 @@
 <!-- extracted from finddialog.xul -->
 
 <!ENTITY findDialog.title "Alcontrar nesta páxina">
-<!ENTITY findField.label "Qué guetar:">
+<!ENTITY findField.label "Qué alcontrar:">
 <!ENTITY findField.accesskey "Q">
 <!ENTITY caseSensitiveCheckbox.label "Concasar mayúscules">
 <!ENTITY caseSensitiveCheckbox.accesskey "C">
 <!ENTITY wrapCheckbox.label "Axustar">
 <!ENTITY wrapCheckbox.accesskey "A">
-<!ENTITY findButton.label "Guetar siguiente">
-<!ENTITY findButton.accesskey "G">
+<!ENTITY findButton.label "Alcontrar siguiente">
+<!ENTITY findButton.accesskey "s">
 <!ENTITY cancelButton.label "Encaboxar">
 <!ENTITY closeButton.label "Zarrar">
 <!ENTITY up.label "Arriba">
 <!ENTITY up.accesskey "r">
 <!ENTITY down.label "Abaxo">
-<!ENTITY down.accesskey "A">
+<!ENTITY down.accesskey "b">
 <!ENTITY direction.label "Direición">
