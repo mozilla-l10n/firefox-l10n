@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Параметри з’єднання">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Налаштування проксі для доступу в Інтернет">
 <!ENTITY  noProxyTypeRadio.label        "Без проксі">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Зразок: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Використовувати цей проксі-сервер для всіх протоколів">
 <!ENTITY  shareproxy.accesskey          "с">
+<!ENTITY  autologinproxy.label          "Не запитувати про автентифікацію, якщо пароль вже збережено">
+<!ENTITY  autologinproxy.accesskey      "Н">
+<!ENTITY  autologinproxy.tooltip        "Якщо у вас є збережені дані для входу, ця опція проведе вашу авторизацію на проксі без запитів. При невдалій авторизації ви отримаєте запит.">
+<!ENTITY  socksRemoteDNS.label          "Проксі DNS при використанні SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "к">
