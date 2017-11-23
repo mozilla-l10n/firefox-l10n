@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Cal me wang kio">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Ngec me cawa tic">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "C">
 <!ENTITY runtimeMenu_showMonitor_label "Nen">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Ter me nyonyo">
@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "Yab purugram">
 <!ENTITY runtimeButton_label "Yer me cawa tic">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +75,12 @@
 <!ENTITY projectPanel_tabs "Dirica matidi">
 <!ENTITY runtimePanel_usb "Nyonyo me USB">
 <!ENTITY runtimePanel_wifi "Nyonyo me Wi-Fi">
-<!ENTITY runtimePanel_simulator "Lapor">
 <!ENTITY runtimePanel_other "Mukene">
-<!ENTITY runtimePanel_installsimulator "Ket Cuma">
 <!ENTITY runtimePanel_noadbhelper "Ket lakony me ADB">
 <!ENTITY runtimePanel_nousbdevice "Pe itwero neno nyonyo mamegi?">
 <!ENTITY runtimePanel_refreshDevices_label "Nwo cano nyonyo">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "atir">
 <!ENTITY details_warning_header "cik">
 <!ENTITY details_error_header "bal">
@@ -90,23 +88,23 @@
 <!ENTITY details_location "Kabedo">
 <!ENTITY details_manifestURL "ID pa purugram">
 <!ENTITY details_removeProject_button "Kwany tic woko">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Purugram manyen">
 <!ENTITY newAppHeader "Yer gin me cwec">
 <!ENTITY newAppLoadingTemplate "Cano gin me cwec…">
 <!ENTITY newAppProjectName "Nying Tic:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Lor">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Gin ma iye makato">
 <!ENTITY addons_aboutaddons "Yab Gin madoro Lamed ne">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Ter">
 <!ENTITY prefs_editor_title "Kacoc">
 <!ENTITY prefs_general_title "Lumuku">
@@ -118,8 +116,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Dwok tic ma angec ka WebIDE ocake">
 <!ENTITY prefs_options_templatesurl "URL me gin cwec">
 <!ENTITY prefs_options_templatesurl_tooltip "Namba me gin cwec matye">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Ngec me cawa me tic">
 <!ENTITY runtimedetails_adbIsRoot "ADB obedo lwit: ">
 <!ENTITY runtimedetails_summonADBRoot "lwit nyonyo">
@@ -127,36 +125,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Twer me DevTools mape ki lageng: ">
 <!ENTITY runtimedetails_requestPrivileges "kwa pi twero mamalo">
 <!ENTITY runtimedetails_privilegesWarning "(Bi nwoyo cako nyonyo. Mito donyo me lwit.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Cwalo acel onyo not">
 <!ENTITY device_typenumber "Namba">
 <!ENTITY device_typestring "Tol">
 <!ENTITY device_typeobject "Jami">
 <!ENTITY device_typenone "Yer kit">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Ter me nyonyo">
 <!ENTITY devicepreference_search "Ter me yeny">
 <!ENTITY devicepreference_newname "Nying manyen pi ma imaro">
 <!ENTITY devicepreference_newtext "Wel pi ma imaro">
 <!ENTITY devicepreference_addnew "Med ma imaro manyen">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Ter me nyonyo">
 <!ENTITY devicesetting_search "Ter me yeny">
 <!ENTITY devicesetting_newname "Nying manyen me ter">
 <!ENTITY devicesetting_newtext "Tero wel">
 <!ENTITY devicesetting_addnew "Med ter manyen">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "Nen">
 <!ENTITY monitor_help "Kony">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Nyuto Kactoma">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -172,21 +170,4 @@
 <!ENTITY wifi_auth_token_request "Kacce nyonyo ni mukene openyo pi mot me kaka menyo kod me QR, tim ber i lok wel ma piny ni i nyonyo mukene ni:">
 
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Gwok me cik pa boc">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "Ter me Cuma">
-<!ENTITY simulator_remove "Kwany Cuma">
-<!ENTITY simulator_reset "Dwok makwongo">
-<!ENTITY simulator_name "Nying">
-<!ENTITY simulator_software "Purugram">
-<!ENTITY simulator_version "Cik">
-<!ENTITY simulator_profile "Propwail">
-<!ENTITY simulator_hardware "Nyonyo">
-<!ENTITY simulator_device "Nyonyo">
-<!ENTITY simulator_screenSize "Kio">
-<!ENTITY simulator_pixelRatio "Pok me Pixel">
-
-
-
