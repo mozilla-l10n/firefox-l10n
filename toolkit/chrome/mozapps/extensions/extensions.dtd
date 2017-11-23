@@ -37,7 +37,7 @@
 <!ENTITY warning.checkcompatibility.label          "Kompatiblitetskonroll er avslegen. Du har kanskje ikkje-kompatible utvidingar.">
 <!ENTITY warning.checkcompatibility.enable.label   "Slå på">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Slå på kompatibilitetskontroll">
-<!ENTITY warning.updatesecurity.label              "Tryggingskontroll av utvidingsoppdateringar er slått av. Tryggleiken din kan bli sett i fare av oppdateringar.">
+<!ENTITY warning.updatesecurity.label              "Tryggingskontroll av utvidingsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.">
 <!ENTITY warning.updatesecurity.enable.label       "Slå på">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Slå på tryggingskontroll av utvidingsoppdateringar">
 
@@ -125,7 +125,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Kva er utvidingar?">
-<!ENTITY discover.description2                "Utvidingar er program som lèt deg tilpasse &brandShortName; med ekstra funksjonalitet eller stil. Prøv ein sidestolpe som sparar deg tid, vêrvarsling, eller eit tema som får &brandShortName; til å sjå ut som din eigen.">
+<!ENTITY discover.description2                "Utvidingar er program som lèt deg tilpasse &brandShortName; med ekstra funksjonalitet eller stil. Prøv ein sidestolpe som sparar deg tid, vêrvarsling, eller eit tema som gjer &brandShortName; din.">
 <!ENTITY discover.footer                      "Når du er kopla til nettet vil dette vindauge innehalde nokre av dei beste og mest populære utvidingane som du kan teste.">
 
 <!-- detail view -->
