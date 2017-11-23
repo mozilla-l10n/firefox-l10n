@@ -272,7 +272,7 @@
 <!ENTITY pref_show_web_fonts_summary2 "Descarregar fontes remotas ao carregar uma página">
 
 <!ENTITY pref_tracking_protection_title2 "Proteção contra monitorização">
-<!ENTITY pref_donottrack_title "Não monitorizar">
+<!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "O &brandShortName; irá informar os sites que não deseja ser monitorizado">
 
 <!ENTITY pref_tracking_protection_enabled "Ativada">
