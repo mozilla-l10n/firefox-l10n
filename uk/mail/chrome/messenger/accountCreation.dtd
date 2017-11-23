@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Настройка поштового облікового запису">
+<!ENTITY autoconfigWizard2.title         "Налаштувати наявний обліковий запис пошти">
 <!ENTITY name.label                      "Ваше ім’я:">
 <!ENTITY name.accesskey                  "і">
 <!ENTITY name.placeholder                "Ім’я Прізвище">
 <!ENTITY name.text                       "Ваше ім’я, яким його бачитимуть інші">
 <!ENTITY email.label                     "Поштова адреса:">
 <!ENTITY email.accesskey                 "а">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Ваша наявна адреса електронної пошти">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "П">
 <!ENTITY password.placeholder            "Пароль">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "т">
 <!ENTITY manual-edit.label               "Вручну">
 <!ENTITY manual-edit.accesskey           "В">
-<!ENTITY switch-to-provisioner.label     "Завести новий обліковий запис">
-<!ENTITY switch-to-provisioner.accesskey "З">
+<!ENTITY open-provisioner.label          "Отримати нову адресу електронної пошти…">
+<!ENTITY open-provisioner.accesskey      "О">
 
 
 <!ENTITY warning.label                   "Увага!">
