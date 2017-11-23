@@ -205,7 +205,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "സന്ദേശ പാനൽ തുറക്കു">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ലൊക്കേഷൻ അഭ്യർത്ഥന പാനല്‍ തുറക്കുക">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ആഡ് ഓൺ ഇൻസ്റ്റാളേഷൻ പാനൽ തുറക്കുക">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ഓഫ് ലൈൻ സന്ദേശ പാനൽ തുറക്കുക">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "സൈറ്റില്‍ നിന്നും അറിയിപ്പുകള്‍ ലഭിക്കുന്നതില്‍ മാറ്റം വരുത്തുക">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ബ്രൗസർ വിദൂര നിയന്ത്രണത്തിലാണ്">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "താങ്കളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "താങ്കളുടെ മൈക്രോഫോണ്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
@@ -219,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ മൈക്രോഫോൺ ഉപയോഗിയ്ക്കുവാൻ സാധ്യമല്ല.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ സ്ക്രീൻ പങ്കിടുവാൻ സാധ്യമല്ല.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ഈ വെബ് സൈറ്റിന് നിങ്ങൾ എവിടെയെന്നുള്ള വിവരം ലഭ്യമല്ല.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "നിങ്ങൾ ഈ വെബ്സൈറ്റിന്റെ ഡാറ്റ സൂക്ഷിപ്പ് തടഞ്ഞിരിക്കയാണ്.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ഈ വെബ് സൈറ്റിന് അറിയിപ്പുകൾ ലഭ്യമല്ല.">
 
 
