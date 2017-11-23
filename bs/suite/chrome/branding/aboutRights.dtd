@@ -44,9 +44,9 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "&brandFullName; nudi opcione usluge bazirane na webu (&quot;Servisi&quot;) koje su dostupne za vaše korištenje u ovoj binarnoj verziji od &brandShortName; kao što je opisano ispod.  Neke od ovih usluga (kao što je dodaj prijedlog i usluge ažuriranja, usluga sigurnog pretraživanja ili funkcija obavijesti Navigacija s poznavanjem lokacije) su izvorno omogućene.  Ako ne želite koristiti ni jedanu od ovih usluga ili su uslovi ispod neprihvatljivi, uputstva kako onemogućiti neku od funkcija ili usluga može se pronaći ">
+<!ENTITY rights3.webservices-a "&brandFullName; nudi opcione usluge bazirane na webu (&quot;Usluge&quot;) koje su dostupne za vaše korištenje u ovoj binarnoj verziji od &brandShortName; kao što je opisano ispod.  Neke od ovih usluga (kao što je dodaj prijedlog i usluge ažuriranja, usluga sigurnog pretraživanja ili funkcija obavijesti Navigacija s poznavanjem lokacije) su izvorno omogućene.  Ako ne želite koristiti ni jedanu od ovih Usluga ili su uslovi ispod neprihvatljivi, uputstva kako onemogućiti neku od funkcija ili Usluga može se pronaći ">
 <!ENTITY rights3.webservices-b "ovdje">
-<!ENTITY rights3.webservices-c ". Druge funkcije ili usluge mogu se omogućiti ili onemogućiti u postavkama aplikacije.">
+<!ENTITY rights3.webservices-c ". Druge funkcije ili Usluge mogu se omogućiti ili onemogućiti u postavkama aplikacije.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Usluge dodatka: ">
@@ -73,4 +73,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Geografska lokacija je sada onemogućena">
 
 <!-- points 0-6 text for branded builds -->
+<!ENTITY rights.webservices-term0 "&vendorShortName; i Mozilla zajedno sa njihovim saradnicima, davaocima licenci i partnerima rade na pružanju najtačnijih i najsavremenijih Usluga.  Međutim, ne možemo garantovati da ove informacije sveobuhvatne i bez grešaka.  Na primjer, usluga sigurnog pretraživanja možda neće identifikovati neke rizične stranice i možda će identifikovati neke sigurne stranice sa greškom, a usluga geografske lokacije, sve lokacije koje vraćaju naši davaoci usluga samo su procjene. Ni mi ni naši davaoci usluga ne garantujemo tačnost raspoloživih lokacija.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; može prekinuti ili promijeniti Usluge po svom nahođenju.">
+<!ENTITY rights.webservices-term2 "Dobrodošli ste koristiti ove usluge koje dolaze sa verzijom &brandShortName; i imate sva prava potrebna za to. &vendorShortName; i njegovi davaoci licenci rezervišu sva ostala prava u Uslugama. Ovi uslovi su namijenjeni ograničenju bilo kakvih prava dodjeljenih licencama otvorenog koda koji se primjenjuju na &brandShortName; i odgovarajuće verzije otvorenog koda &brandShortName;.">
 
