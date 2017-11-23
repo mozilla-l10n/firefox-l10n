@@ -138,7 +138,7 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Ativar marcas temporais">
-<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e a saída da consola Web irão mostrar uma marca temporal">
+<!ENTITY options.timestampMessages.tooltip    "Se ativar esta opção os comandos e a saída da Consola Web irão mostrar uma marca temporal">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
