@@ -26,7 +26,7 @@
 <!ENTITY changeBlockList2.label               "Alterar lista de bloqueio…">
 <!ENTITY changeBlockList2.accesskey           "A">
 
-<!ENTITY  doNotTrack.description        "Enviar um sinal “Não monitorizar” significando que não deseja ser monitorizado(a)">
+<!ENTITY  doNotTrack.description        "Enviar um sinal “Do Not Track” significando que não deseja ser monitorizado(a)">
 <!ENTITY  doNotTrack.learnMore.label    "Saber mais">
 <!ENTITY  doNotTrack.default.label      "Apenas ao utilizar a Proteção Contra Monitorização">
 <!ENTITY  doNotTrack.always.label       "Sempre">
