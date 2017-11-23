@@ -48,6 +48,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> kimiyo ripot <a id='error_desc_link'>ni obedo kakube me bwola</a>. Itwero <a id='report_detection'>miyo ripot pi peko ma ononge</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Nong ngec mapol ikom kakube me bwola ki bwola i <a id='learn_more_link'>www.antiphishing.org</a>. Nong ngec mapol ikom Gwokke pa &brandShortName; ikom bwola ki purugram maraco i <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Kakube ma tye anyim ni twero bedo ki purugram marac">
