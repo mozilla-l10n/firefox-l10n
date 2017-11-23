@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Загальні">
+
 <!ENTITY  startupAction.label         "Коли &brandShortName; запускається:">
 <!ENTITY  startupAction.accesskey     "з">
 <!ENTITY  startupOffline.label        "Тримати мої чатові облікові записи в офлайні">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Огляд…">
 <!ENTITY  browse.accesskey                    "л">
 
+<!ENTITY messageStyleTab.title             "Стилі повідомлення">
+<!ENTITY messageStylePreview.label         "Попередній перегляд:">
+<!ENTITY messageStyleTheme.label           "Тема:">
+<!ENTITY messageStyleTheme.accesskey       "Т">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Бульбашки">
+<!ENTITY messageStyleDarkTheme.label       "Темна">
+<!ENTITY messageStylePaperSheetsTheme.label "Паперовий лист">
+<!ENTITY messageStyleSimpleTheme.label     "Проста">
+<!ENTITY messageStyleDefaultTheme.label    "Стандартна">
+<!ENTITY messageStyleVariant.label         "Варіант:">
+<!ENTITY messageStyleVariant.accesskey     "В">
+<!ENTITY messageStyleShowHeader.label      "Показувати заголовок">
+<!ENTITY messageStyleShowHeader.accesskey  "з">
+<!ENTITY messageStyleNoPreview.title       "Попередній перегляд недоступний">
+<!ENTITY messageStyleNoPreview.description "Ця тема недоступна (вимкнений додаток, безпечний режим, …).">
