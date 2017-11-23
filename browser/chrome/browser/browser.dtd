@@ -44,11 +44,11 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Desafixar separador">
 <!ENTITY  unpinTab.accesskey                 "r">
-<!ENTITY  sendTabToDevice.label              "Enviar separador para o dispositivo">
+<!ENTITY  sendTabToDevice.label              "Enviar separador para dispositivo">
 <!ENTITY  sendTabToDevice.accesskey          "d">
-<!ENTITY  sendPageToDevice.label             "Enviar página para o dispositivo">
+<!ENTITY  sendPageToDevice.label             "Enviar página para dispositivo">
 <!ENTITY  sendPageToDevice.accesskey         "d">
-<!ENTITY  sendLinkToDevice.label             "Enviar ligação para o dispositivo">
+<!ENTITY  sendLinkToDevice.label             "Enviar ligação para dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "Enviado!">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
@@ -570,7 +570,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Copiar ligação">
 <!ENTITY copyURLFeedback.label        "Copiado!">
-<!ENTITY emailPageCmd.label           "Enviar ligação por e-mail…">
+<!ENTITY emailPageCmd.label           "Enviar ligação por email…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
 <!ENTITY savePageCmd.accesskey        "a">
