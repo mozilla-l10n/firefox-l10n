@@ -35,7 +35,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "Descrição">
 <!ENTITY aboutSupport.experimentActive "Ativa">
 <!ENTITY aboutSupport.experimentEndDate "Data final">
-<!ENTITY aboutSupport.experimentHomepage "Página web">
+<!ENTITY aboutSupport.experimentHomepage "Página Web">
 <!ENTITY aboutSupport.experimentBranch "Ramo">
 
 <!ENTITY aboutSupport.appBasicsTitle "Informações básicas da aplicação">
@@ -69,7 +69,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multi-processamento de janelas">
 
-<!ENTITY aboutSupport.appBasicsProcessCount "Processos de conteúdo web">
+<!ENTITY aboutSupport.appBasicsProcessCount "Processos de conteúdo Web">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Chave Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Chave do serviço de localização da Mozilla">
