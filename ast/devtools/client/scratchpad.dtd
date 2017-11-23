@@ -27,11 +27,11 @@
 
 <!ENTITY newWindowCmd.label           "Ventana nueva">
 <!ENTITY newWindowCmd.accesskey       "V">
-<!ENTITY newWindowCmd.commandkey      "v">
+<!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Abrir ficheru…">
 <!ENTITY openFileCmd.accesskey        "A">
-<!ENTITY openFileCmd.commandkey       "a">
+<!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Abrir recientes">
 <!ENTITY openRecentMenu.accesskey     "R">
@@ -41,7 +41,7 @@
 
 <!ENTITY saveFileCmd.label            "Guardar">
 <!ENTITY saveFileCmd.accesskey        "G">
-<!ENTITY saveFileCmd.commandkey       "g">
+<!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Guardar como…">
 <!ENTITY saveFileAsCmd.accesskey      "m">

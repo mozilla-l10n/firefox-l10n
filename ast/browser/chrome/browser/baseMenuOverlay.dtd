@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Servicios">
 
 <!ENTITY hideThisAppCmdMac2.label       "Anubrir &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "A">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Anubrir otros">
-<!ENTITY hideOtherAppsCmdMac.commandkey "A">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Amosar too">
