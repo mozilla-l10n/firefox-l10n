@@ -44,7 +44,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "&brandFullName; nudi opcione usluge bazirane na webu (&quot;Servisi&quot;) koje su dostupne za vaše korištenje u ovoj binarnoj verziji od &brandShortName; kao što je opisano ispod.  Neke od ovih usluga (kao što je dodaj prijedlog i usluge ažuriranja, usluga sigurnog pretraživanja ili funkcija obavijesti Location Aware Browsing) su izvorno omogućene.  Ako ne želite koristiti ni jedanu od ovih usluga ili su uslovi ispod neprihvatljivi, uputstva kako onemogućiti neku od funkcija ili usluga može se pronaći ">
+<!ENTITY rights3.webservices-a "&brandFullName; nudi opcione usluge bazirane na webu (&quot;Servisi&quot;) koje su dostupne za vaše korištenje u ovoj binarnoj verziji od &brandShortName; kao što je opisano ispod.  Neke od ovih usluga (kao što je dodaj prijedlog i usluge ažuriranja, usluga sigurnog pretraživanja ili funkcija obavijesti Navigacija s poznavanjem lokacije) su izvorno omogućene.  Ako ne želite koristiti ni jedanu od ovih usluga ili su uslovi ispod neprihvatljivi, uputstva kako onemogućiti neku od funkcija ili usluga može se pronaći ">
 <!ENTITY rights3.webservices-b "ovdje">
 <!ENTITY rights3.webservices-c ". Druge funkcije ili usluge mogu se omogućiti ili onemogućiti u postavkama aplikacije.">
 
@@ -66,6 +66,11 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navigacija s poznavanjem lokacije: ">
+<!ENTITY rights.locationawarebrowsing-b "je uvijek opciono.  Nijedna informacija se neće poslati bez vaše dozvole.  Ako želite onemogućiti ovu funkciju u potpunosti, pratite ove korake:">
+<!ENTITY rights.locationawarebrowsing-term1 "Otvorite postavke aplikacije">
+<!ENTITY rights.locationawarebrowsing-term2 "Izaberite glavni panel &security.label;">
+<!ENTITY rights.locationawarebrowsing-term3 "Izaberite opciju za &quot;&geoDisabled.label;&quot;">
+<!ENTITY rights.locationawarebrowsing-term4 "Geografska lokacija je sada onemogućena">
 
 <!-- points 0-6 text for branded builds -->
 
