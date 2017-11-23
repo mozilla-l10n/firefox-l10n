@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader2.label      "Proteção Contra Monitorização">
+<!ENTITY  trackingProtectionHeader2.label      "Proteção contra monitorização">
 <!ENTITY  trackingProtection2.description      "A monitorização é a recolha dos seus dados de navegação através de múltiplos websites. A monitorização pode ser utilizada para construir um perfil e mostrar conteúdo baseado na sua navegação e informação pessoal.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Utilizar proteção contra monitorização para bloquear trackers conhecidos">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
@@ -16,11 +16,11 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Utilizar a Proteção Contra Monitorização em janelas privadas">
+<!ENTITY trackingProtectionPBM5.label         "Utilizar Proteção contra monitorização em janelas privadas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM6.label         "Utilizar a Proteção Contra Monitorização na navegação privada para bloquear monitorizadores conhecidos">
+<!ENTITY trackingProtectionPBM6.label         "Utilizar Proteção contra monitorização na navegação privada para bloquear trackers conhecidos">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber mais">
 <!ENTITY changeBlockList2.label               "Alterar lista de bloqueio…">
@@ -28,7 +28,7 @@
 
 <!ENTITY  doNotTrack.description        "Enviar um sinal “Do Not Track” significando que não deseja ser monitorizado(a)">
 <!ENTITY  doNotTrack.learnMore.label    "Saber mais">
-<!ENTITY  doNotTrack.default.label      "Apenas ao utilizar a Proteção Contra Monitorização">
+<!ENTITY  doNotTrack.default.label      "Apenas ao utilizar a Proteção contra monitorização">
 <!ENTITY  doNotTrack.always.label       "Sempre">
 
 <!ENTITY  history.label                 "Histórico">
