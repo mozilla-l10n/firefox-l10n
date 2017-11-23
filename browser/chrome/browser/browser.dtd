@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "സന്ദേശ പാനൽ തുറക്കു">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ലൊക്കേഷൻ അഭ്യർത്ഥന പാനല്‍ തുറക്കുക">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ആഡ് ഓൺ ഇൻസ്റ്റാളേഷൻ പാനൽ തുറക്കുക">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "കാന്‍വാസ് എക്സ്ട്രാക്ഷന്റെ അനുമതി മാനേജ് ചെയ്യുക">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ഓഫ് ലൈൻ സന്ദേശ പാനൽ തുറക്കുക">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "സൈറ്റില്‍ നിന്നും അറിയിപ്പുകള്‍ ലഭിക്കുന്നതില്‍ മാറ്റം വരുത്തുക">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ബ്രൗസർ വിദൂര നിയന്ത്രണത്തിലാണ്">
