@@ -7,7 +7,8 @@
 <!ENTITY  updateCheck.label               "A procurar novas versões do &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Não foram encontradas atualizações">
-<!ENTITY  noupdatesautoenabled.intro      "Não há atualizações disponíveis. O &brandShortName; vai procurar atualizações regularmente.">
+<!ENTITY  noupdatesautoenabled.intro      "Não há atualizações disponíveis. O &brandShortName; irá procurar
+                                           atualizações periodicamente.">
 <!ENTITY  noupdatesautodisabled.intro     "Não há atualizações disponíveis. Por favor verifique mais tarde ou ative a procura automática de atualizações do &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Não é possível atualizar">
@@ -46,13 +47,18 @@
 <!ENTITY  genericBackgroundError.label    "O &brandShortName; não consegue determinar se existe uma atualização disponível. Por favor verifique se tem a última versão do &brandShortName; em:">
 
 <!ENTITY  finishedPage.title              "Atualização pronta para ser instalada">
-<!ENTITY  finishedPage.text               "A atualização será instalada da próxima vez que o &brandShortName; iniciar. Pode reiniciar agora o &brandShortName; ou continuar a trabalhar e reiniciar mais tarde.">
+<!ENTITY  finishedPage.text               "A atualização será instalada da próxima vez que o &brandShortName; iniciar. Pode 
+                                           reiniciar o &brandShortName; agora, ou continuar a trabalhar e reiniciar mais tarde.">
 
 <!ENTITY  finishedBackgroundPage.text     "Foi descarregada uma atualização de segurança e estabilidade para o &brandShortName; e está pronta para ser instalada.">
 <!ENTITY  finishedBackground.name         "Atualização:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "A atualização será instalada da próxima vez que o &brandShortName; iniciar. Pode reiniciar agora o &brandShortName; ou continuar a trabalhar e reiniciar mais tarde.">
-<!ENTITY  finishedBackground.moreElevated "Esta atualização requer privilégios de administrador. A atualização será instalada da próxima vez que o &brandShortName; iniciar. Pode reiniciar o &brandShortName; agora, e continuar a trabalhar e reiniciar mais tarde, ou rejeitar esta atualização.">
+<!ENTITY  finishedBackground.more         "A atualização será instalada da próxima vez que o &brandShortName; iniciar. Pode
+                                           reiniciar o &brandShortName; agora, ou continuar a trabalhar e reiniciar mais tarde.">
+<!ENTITY  finishedBackground.moreElevated "Esta atualização requer privilégios de administrador. A atualização será
+                                           instalada da próxima vez que o &brandShortName; iniciar. Pode reiniciar
+                                           o &brandShortName; agora, e continuar a trabalhar e reiniciar mais tarde, ou rejeitar esta
+                                           atualização.">
 
 <!ENTITY  update.details.label            "Detalhes">
 <!ENTITY  update.installedOn.label        "Instalada em:">
