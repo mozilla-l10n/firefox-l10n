@@ -9,8 +9,8 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Lastar …">
-<!ENTITY listEmpty.installed.label            "Du har ingen utvidingar av denne typen installert">
+<!ENTITY loading.label                        "Lastar…">
+<!ENTITY listEmpty.installed.label            "Du har ingen utvidingar av denne typen installerte">
 <!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringar funne">
 <!ENTITY listEmpty.recentUpdates.label        "Du har ikkje nyleg oppdatert utvidingane">
 <!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
@@ -18,13 +18,14 @@
 <!ENTITY listEmpty.button.label               "Les meir om utvidingar">
 <!ENTITY installAddonFromFile.label           "Installer utviding frå fil…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidingane">
+<!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidingar">
 
 <!ENTITY getThemes.description                "Ønskjer du å tilpasse nettlesaren din?">
 <!ENTITY getThemes.learnMore                  "Vel mellom tusenvis av tema.">
 
 <!ENTITY cmd.back.tooltip                     "Gå tilbake ei side">
 <!ENTITY cmd.forward.tooltip                  "Gå fram ei side">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Nokre utvidingar kunne ikkje stadfestast">
 <!ENTITY showAllExtensions.button.label       "Vis alle utvidingar">
@@ -255,7 +256,6 @@
 <!ENTITY pluginDeprecation.description "Saknar du noko? Nokre programtillegg er ikkje lenger støtta av &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Les meir.">
 
-<!ENTITY legacyWarning.description "Saknar du noko? Nokre utvidingar er ikkje lenger støtta av &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Vis forelda utvidingar">
 <!ENTITY legacyExtensions.title "Forelda utvidingar">
 <!ENTITY legacyExtensions.description "Desse utvidingane oppfyller ikkje gjeldande standardar i &brandShortName; og er difor slått av.">
