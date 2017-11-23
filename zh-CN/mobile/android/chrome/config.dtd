@@ -11,8 +11,8 @@
 <!ENTITY newPref.valueString           "字符串">
 <!ENTITY newPref.valueInteger          "整数">
 
-<!ENTITY newPref.stringPlaceholder     "输入一个字符串">
-<!ENTITY newPref.numberPlaceholder     "输入一个数值">
+<!ENTITY newPref.stringPlaceholder     "请输入字符串">
+<!ENTITY newPref.numberPlaceholder     "请输入数字">
 
 <!ENTITY newPref.toggleButton          "切换">
 <!ENTITY newPref.cancelButton          "取消">

@@ -653,7 +653,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "连接安全">
 <!ENTITY identity_connection_insecure "连接不安全">
-<!ENTITY identity_connection_chromeui "这是一个安全的 &brandShortName; 页面">
+<!ENTITY identity_connection_chromeui "这是安全的 &brandShortName; 页面">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; 已拦截此页面上不安全的内容。">
