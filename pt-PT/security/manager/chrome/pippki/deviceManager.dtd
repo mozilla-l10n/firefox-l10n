@@ -24,7 +24,7 @@
 <!ENTITY devmgr.button.unload.accesskey         "D">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "Digite a informação para o módulo que pretende adicionar.">
+<!ENTITY loaddevice.info                        "Introduza a informação para o módulo que pretende adicionar.">
 <!ENTITY loaddevice.modname2                    "Nome do módulo">
 <!ENTITY loaddevice.modname2.accesskey          "m">
 <!ENTITY loaddevice.modname.default             "Novo módulo PKCS#11">
