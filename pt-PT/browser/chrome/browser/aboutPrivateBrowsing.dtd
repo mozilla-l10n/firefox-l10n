@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Navegação privada">
-<!ENTITY privateBrowsing.title.tracking                  "Navegação privada com Proteção Contra Monitorização">
+<!ENTITY privateBrowsing.title.tracking                  "Navegação privada com Proteção contra monitorização">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quando navega numa janela privada, o Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "não guarda">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -15,7 +15,7 @@
 <!ENTITY aboutPrivateBrowsing.info.searches              "pesquisas">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ficheiros temporários">
-<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "O Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "irá guardar">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "descarregamentos">
