@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "У">
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Умањи">
 <!ENTITY bringAllToFront.label    "Стави све напред">
 <!ENTITY zoomWindow.label         "Увећај">
@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Услуге">
 
 <!ENTITY hideThisAppCmdMac2.label       "Сакриј &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "С">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Сакриј остале">
-<!ENTITY hideOtherAppsCmdMac.commandkey "С">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Прикажи све">

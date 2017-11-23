@@ -11,7 +11,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Изабери све">
 <!ENTITY  selectall.accesskey   "И">
-<!ENTITY  closeWindow.key       "З">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Опште">
 <!ENTITY  generalTab.accesskey  "О">
