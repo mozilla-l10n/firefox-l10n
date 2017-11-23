@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги">
 <!ENTITY attachButton.tooltip "Вкласти файл в цей лист">
 <!ENTITY spellingButton.tooltip "Перевірити правопис вибірки чи всього листа">
-<!ENTITY statusLanguageText.tooltip "Мова перевірки правопису">
 <!ENTITY saveButton.tooltip "Зберегти цей лист">
 <!ENTITY cutButton.tooltip              "Вирізати">
 <!ENTITY copyButton.tooltip             "Копіювати">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Налаштувати з адреси…">
 <!ENTITY customizeFromAddress.accesskey "а">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Мова перевірки правопису">
+<!ENTITY encodingStatusPanel.tooltip "Кодування тексту">
