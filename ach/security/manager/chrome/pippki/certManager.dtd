@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Twero">
 <!ENTITY certmgr.tab.orphan2                  "Mukene">
 
-<!ENTITY certmgr.mine                         "I tye ki waraga ki campuni magi ma nyutu in kikome:">
-<!ENTITY certmgr.others                       "I tye ki waraga i kom pwail ma nyutu jo magi:">
-<!ENTITY certmgr.websites2                    "I tye ki waraga i kom pwail ma nyutu lupok tic magi:">
-<!ENTITY certmgr.cas                          "I tye ki waraga i kom pwail ma nyutu twero me waraga:">
-<!ENTITY certmgr.orphans                      "I tye ki waraga i kom pwail ma pe moko i kwon gin mo:">
+<!ENTITY certmgr.mine2                        "I tye ki catibiket ma aa kibot dul magi ma nyutu in kikome">
+<!ENTITY certmgr.others2                      "I tye ki catibiket i pwail ma nyutu jo magi kikome">
+<!ENTITY certmgr.websites3                    "I tye ki catibiket i pwail ma nyutu lupok tic magi kikome">
+<!ENTITY certmgr.cas2                         "I tye ki catibiket i pwail ma nyutu lumi catibiket magi kikome">
+<!ENTITY certmgr.orphans2                     "I tye ki catibiket i pwail ma pe rwatte ki i dul mukene mo keken">
 
 <!ENTITY certmgr.detail.general_tab.title     "Weng">
 <!ENTITY certmgr.detail.general_tab.accesskey "W">
