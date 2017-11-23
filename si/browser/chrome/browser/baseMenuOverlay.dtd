@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "සේවා">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; සඟවන්න">
-<!ENTITY hideThisAppCmdMac2.commandkey  "එච්">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "අනෙක්වා සඟවන්න">
-<!ENTITY hideOtherAppsCmdMac.commandkey "එච්">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "සියල්ල ම පෙන්වන්න">

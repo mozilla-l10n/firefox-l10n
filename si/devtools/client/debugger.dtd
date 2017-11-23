@@ -174,7 +174,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "ප්‍රකාශ නැරඹීමට තෝරාගැනීම">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "ප්‍රකාශ නැරඹීමක් එක්කරන්න">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->

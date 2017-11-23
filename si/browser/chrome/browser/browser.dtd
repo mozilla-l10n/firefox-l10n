@@ -64,7 +64,7 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "නව ටැබයක් විවෘත කරන්න">
 <!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "ටී">
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
@@ -228,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "ඔබ මෙම අඩවිය සඳහා දත්ත ගබඩාකිරීම අවහිර කර ඇත.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ඔබ මෙම අඩවිය සඳහා දැනුම්දීම් අවහිර කර ඇත.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ඔබ මෙම අඩවිය සඳහා අනවරත ගබඩාව අවහිර කර ඇත.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "අතීතය පෙන්වන්න">
 
