@@ -5,7 +5,7 @@
 <!ENTITY dockOptionsDialog.title               "Programmaymboolopties">
 <!ENTITY window.macWidth                       "35em">
 
-<!ENTITY bounceSystemDockIcon.label            "Het programmasymbool bewegen als een nieuw bericht binnenkomt">
+<!ENTITY bounceSystemDockIcon.label            "Het programmasymbool laten bewegen als een nieuw bericht binnenkomt">
 <!ENTITY bounceSystemDockIcon.accesskey        "b">
 <!ENTITY newMessagesCountDock.label            "Aantal nieuwe berichten">
 <!ENTITY newMessagesCountDock.accesskey        "n">
