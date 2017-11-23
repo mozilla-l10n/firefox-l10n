@@ -30,7 +30,7 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY showBalloon.label                "Een ballonwaarschuwing tonen">
 <!ENTITY showBalloon.accesskey            "n">
-<!ENTITY bounceSystemDockIcon.label       "Het systeemvakpictogram animeren">
+<!ENTITY bounceSystemDockIcon.label       "Het programmasymbool laten bewegen">
 <!ENTITY bounceSystemDockIcon.accesskey   "a">
 
 <!ENTITY playSound.label                  "Een geluid afspelen">
