@@ -207,7 +207,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ആഡ് ഓൺ ഇൻസ്റ്റാളേഷൻ പാനൽ തുറക്കുക">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "കാന്‍വാസ് എക്സ്ട്രാക്ഷന്റെ അനുമതി മാനേജ് ചെയ്യുക">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ഓഫ് ലൈൻ സന്ദേശ പാനൽ തുറക്കുക">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "പാസ്സ്‌വേർഡ് സംരക്ഷണത്തിനുള്ള സന്ദേശ പാനൽ തുറക്കുക">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "പ്ളഗ് ഇൻ ഉപയോഗം മാനേജ് ചെയ്യുക">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "സൈറ്റില്‍ നിന്നും അറിയിപ്പുകള്‍ ലഭിക്കുന്നതില്‍ മാറ്റം വരുത്തുക">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ഡാറ്റ പെർസിസ്റ്റന്റ് സംഭരണത്തിൽ സംഭരിക്കുക">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ബ്രൗസർ വിദൂര നിയന്ത്രണത്തിലാണ്">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "താങ്കളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
