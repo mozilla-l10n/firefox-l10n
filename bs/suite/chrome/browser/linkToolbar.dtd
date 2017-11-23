@@ -12,11 +12,33 @@
 <!ENTITY linkToolbarNever.label "Uvijek sakrij">
 
 <!-- Toolbar buttons, menus, and menuitems -->
+<!ENTITY topButton.label "Vrh">
+<!ENTITY upButton.label "Gore">
+<!ENTITY firstButton.label "Prvo">
+<!ENTITY prevButton.label "Prethodno">
+<!ENTITY nextButton.label "Sljedeće">
+<!ENTITY lastButton.label "Posljednje">
 
+<!ENTITY documentButton.label "Dokument">
 
+<!ENTITY tocButton.label "Tabela sadržaja">
+<!ENTITY chapterButton.label "Poglavlja">
+<!ENTITY sectionButton.label "Sekcije">
+<!ENTITY subSectionButton.label "Podsekcije">
+<!ENTITY appendixButton.label "Prilozi">
+<!ENTITY glossaryButton.label "Rječnik">
+<!ENTITY indexButton.label "Indeks">
 
+<!ENTITY moreButton.label "Više">
 
+<!ENTITY helpButton.label "Pomoć">
+<!ENTITY searchButton.label "Traži">
 
+<!ENTITY authorButton.label "Autor(i)">
+<!ENTITY copyrightButton.label "Autorska prava">
 
+<!ENTITY bookmarkButton.label "Zabilješke">
 
+<!ENTITY alternateButton.label "Ostale verzije">
 
+<!ENTITY feedButton.label "Pretplatite se">
