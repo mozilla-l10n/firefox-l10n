@@ -52,7 +52,7 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 <!ENTITY btnServerLogging.label       "Servidor">
-<!ENTITY btnServerLogging.tooltip     "Registar mensagens recebidas de um servidor Web">
+<!ENTITY btnServerLogging.tooltip     "Registar mensagens recebidas de um servidor web">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "Erros">
 <!ENTITY btnServerInfo                "Informação">
@@ -71,7 +71,7 @@
 
 <!ENTITY filterOutput.placeholder "Filtrar saída">
 <!ENTITY btnClear.label        "Limpar">
-<!ENTITY btnClear.tooltip      "Limpar a saída da consola Web">
+<!ENTITY btnClear.tooltip      "Limpar a saída da Consola Web">
 <!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
