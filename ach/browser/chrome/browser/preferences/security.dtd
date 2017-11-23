@@ -12,6 +12,7 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Gwokke ikom jami me bwola ki purugram maraco">
 <!ENTITY  enableSafeBrowsing.label        "Geng jami maraco ki me bwola">
 <!ENTITY  enableSafeBrowsing.accesskey    "G">
 
