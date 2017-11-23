@@ -33,31 +33,39 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "&brandShortName; nudi opcione servise informacija web stranice, kao što je dodatak ili servisi sigurnog pretraživanja; međutim, ne možemo garantovati da su oni 100&#37; tačni ili bez grešaka. Više detalja, uključujući informacije kako onemogućiti servise, može se pronaći u ">
-<!ENTITY rights.intro-point4b "servisnim uslovima">
+<!ENTITY rights2.intro-point4a "&brandShortName; nudi opcione usluge informacija web stranice, kao što je dodatak ili usluge sigurnog pretraživanja; međutim, ne možemo garantovati da su one 100&#37; tačne ili bez grešaka. Više detalja, uključujući informacije kako onemogućiti usluge, može se pronaći u ">
+<!ENTITY rights.intro-point4b "uslovima usluga">
 <!ENTITY rights.intro-point4c ".">
 
-<!ENTITY rights.webservices-header "&brandFullName; servisi web stranice">
+<!ENTITY rights.webservices-header "&brandFullName; usluge web stranice">
 
 <!-- Note that this paragraph references entities from extensions.dtd,
      preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "&brandFullName; nudi opcione servise bazirane na webu (&quot;Servisi&quot;) koji su dostupni za vaše korištenje u ovoj binarnoj verziji od &brandShortName; kao što je opisano ispod.  Neki od ovih servisa (kao što je dodaj prijedlog i servisi ažuriranja, servis sigurnog pretraživanja ili funkcija obavijesti Location Aware Browsing) su izvorno omogućeni.  Ako ne želite koristiti ni jedan od ovih servisa ili su uslovi ispod neprihvatljivi, uputstva kako onemogućiti neku od funkcija ili servisa može se pronaći ">
+<!ENTITY rights3.webservices-a "&brandFullName; nudi opcione usluge bazirane na webu (&quot;Servisi&quot;) koje su dostupne za vaše korištenje u ovoj binarnoj verziji od &brandShortName; kao što je opisano ispod.  Neke od ovih usluga (kao što je dodaj prijedlog i usluge ažuriranja, usluga sigurnog pretraživanja ili funkcija obavijesti Location Aware Browsing) su izvorno omogućene.  Ako ne želite koristiti ni jedanu od ovih usluga ili su uslovi ispod neprihvatljivi, uputstva kako onemogućiti neku od funkcija ili usluga može se pronaći ">
 <!ENTITY rights3.webservices-b "ovdje">
-<!ENTITY rights3.webservices-c ". Druge funkcije ili servisi mogu se omogućiti ili onemogućiti u postavkama aplikacije.">
+<!ENTITY rights3.webservices-c ". Druge funkcije ili usluge mogu se omogućiti ili onemogućiti u postavkama aplikacije.">
 
 <!-- add-on related points for branded builds -->
-<!ENTITY rights.addons-a "Servisi dodatka: ">
+<!ENTITY rights.addons-a "Usluge dodatka: ">
 <!ENTITY rights.addons-b "Izvorno &brandShortName; će predložiti dodatke na &view.discover.label; stranici i provjeriti ažuriranja u uobičajenim intervalima.  Ako želite onemogućiti ove funkcije da izbjegnete komunikaciju informacija od instaliranih dodataka sa serverom, pratite sljedeće korake:">
 <!ENTITY rights.addons-term1 "Otvorite postavke aplikacije">
 <!ENTITY rights.addons-term2 "Izaberite &smart.label; panel u &advance.label; kategoriji">
 <!ENTITY rights.addons-term3 "Odznačite opcije za &quot;&autoAddOnsUpdates.label;&quot; i &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Usluge dodataka su sada onemogućene">
 
 <!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Sigurno pretraživanje: ">
+<!ENTITY rights.safebrowsing-b "Onemogućavanje funkcije sigurnog pretraživanja nije preporučljivo jer može rezultovati da odete u nesigurne stranice.  Ako želite da onemogućite ovu funkciju u potpunosti, pratite ove korake:">
+<!ENTITY rights.safebrowsing-term1 "Otvorite postavke aplikacije">
+<!ENTITY rights.safebrowsing-term2 "Izaberite glavni panel &security.label;">
+<!ENTITY rights.safebrowsing-term3 "Odznačite opcije za &quot;&blockAttackSites.label;&quot; i &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Sigurno pretraživanje je sada onemogućeno">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Navigacija s poznavanjem lokacije: ">
 
 <!-- points 0-6 text for branded builds -->
 
