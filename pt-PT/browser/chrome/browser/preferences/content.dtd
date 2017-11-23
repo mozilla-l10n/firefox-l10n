@@ -50,7 +50,7 @@
 <!ENTITY chooseButton.label           "Escolher…">
 <!ENTITY chooseButton.accesskey       "o">
 
-<!ENTITY translateWebPages.label      "Traduzir conteúdo Web">
+<!ENTITY translateWebPages.label      "Traduzir conteúdo web">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Exceções…">
 <!ENTITY translateExceptions.accesskey "x">

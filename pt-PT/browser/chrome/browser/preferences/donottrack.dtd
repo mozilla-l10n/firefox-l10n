@@ -9,5 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Aplicar sempre Do Not Track">
 <!ENTITY doNotTrackCheckbox2.accesskey "A">
 
-<!ENTITY doNotTrackTPInfo.description "O &brandShortName; irá enviar um sinal de que não deseja ser monitorizado quando a Proteção Contra Monitorização estiver ligada.">
+<!ENTITY doNotTrackTPInfo.description "O &brandShortName; irá enviar um sinal que não deseja ser monitorizado(a) quando a Proteção contra monitorização estiver ligada.">
 <!ENTITY doNotTrackLearnMore.label    "Saber mais">

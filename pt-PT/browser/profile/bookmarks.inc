@@ -47,7 +47,7 @@
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-#define bugzilla Monitorizador de Erros da Mozilla
+#define bugzilla Mozilla Bug Tracker
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
