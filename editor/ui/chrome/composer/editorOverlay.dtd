@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Enllaz…">
 <!ENTITY insertLinkCmd2.accesskey "E">
-<!ENTITY insertLinkCmd2.key "N">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Enllaz internu con nome…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Imaxe…">
@@ -141,7 +141,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Desaniciar enllaces internos con nome">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
-<!ENTITY formatRemoveNamedAnchors2.key "D">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Párrafu">
 <!ENTITY paragraphMenu.accesskey "P">
