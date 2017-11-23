@@ -12,7 +12,7 @@
 <!ENTITY all.accesskey      "T">
 <!ENTITY errors.label       "Fallos">
 <!ENTITY errors.accesskey   "F">
-<!ENTITY warnings.label     "Mensaxes d'alvertencia">
+<!ENTITY warnings.label     "Alvertencies">
 <!ENTITY warnings.accesskey "M">
 <!ENTITY messages.label     "Mensaxes">
 <!ENTITY messages.accesskey "M">
@@ -22,6 +22,8 @@
 <!ENTITY codeEval.accesskey "d">
 <!ENTITY evaluate.label     "Evaluar">
 <!ENTITY evaluate.accesskey "v">
+<!ENTITY filter2.label      "Peñera:">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "Copiar">  
 <!ENTITY copyCmd.accesskey   "C"> 
@@ -32,6 +34,4 @@
 <!ENTITY sortLast.accesskey  "O">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
-<!ENTITY focus2.commandkey   "d">
-<!ENTITY filter2.label "Filtru:">
-<!ENTITY filter2.accesskey "F">
+<!ENTITY focus2.commandkey   "d">  
