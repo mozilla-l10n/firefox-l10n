@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "met naam van de afzender en voorbeeld van het bericht">
 <!ENTITY  buddyInfoOnly.label                 "met alleen de naam van de afzender">
 <!ENTITY  dummyNotification.label             "zonder informatie">
+<!ENTITY  getAttention.label                  "Het taakbalkitem laten knipperen">
+<!ENTITY  getAttention.accesskey              "k">
+<!ENTITY  getAttentionMac.label               "Het programmasymbool bewegen">
+<!ENTITY  getAttentionMac.accesskey           "r">
 <!ENTITY  chatSound.accesskey                 "u">
 <!ENTITY  chatSound.label                     "Een geluid afspelen">
 <!ENTITY  play.label                          "Afspelen">
