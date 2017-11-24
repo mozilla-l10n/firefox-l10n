@@ -219,7 +219,7 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 semana">
 <!ENTITY calendar.context.postpone.1week.accesskey  "s">
 
-<!ENTITY calendar.copylink.label       "Copiar ligação da localização">
+<!ENTITY calendar.copylink.label       "Copiar hiperligação da localização">
 <!ENTITY calendar.copylink.accesskey   "C">
 
 <!-- Task View -->
