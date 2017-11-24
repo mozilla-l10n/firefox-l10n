@@ -2,146 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutTelemetry.pingDataSource "Fonte de datos de ping:">
+<!ENTITY aboutTelemetry.showCurrentPingData "Datos actuales de ping">
+<!ENTITY aboutTelemetry.showArchivedPingData "Datos archivaos de ping">
+<!ENTITY aboutTelemetry.showSubsessionData "Amosar datos de sosesión">
+<!ENTITY aboutTelemetry.choosePing "Escoyer ping:">
+<!ENTITY aboutTelemetry.archivePingType "Triba de ping">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Güei">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Ayerí">
+<!ENTITY aboutTelemetry.optionGroupOlder "Vieyo">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Payload">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
+
 <!ENTITY aboutTelemetry.pageTitle "Datos de Telemetry">
+<!ENTITY aboutTelemetry.moreInformations "¿Guetes más información?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "La <a>documentación de datos de Firefox</a> contién guíes tocante a cómo funcionen les nueses ferramientes de datos.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentación de datos de Firefox</a> inclúi definiciones pa conceutos, documentación API y referencies de datos.">
+<!ENTITY aboutTelemetry.telemetryDashboard "El <a>cuadru de mandos de Telemetry</a> permítete visualizar los datos que recibe Mozilla per Telemetry.">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Camudar
-">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Abrir nel visor JSON">
 
-<!ENTITY aboutTelemetry.uploadEnabled "
-  L'unviu de datos de FHR ta <span>activáu</span>.
-">
+<!ENTITY aboutTelemetry.homeSection "Aniciu">
+<!ENTITY aboutTelemetry.generalDataSection "Datos xenerales">
+<!ENTITY aboutTelemetry.environmentDataSection "Datos d'entornu">
+<!ENTITY aboutTelemetry.sessionInfoSection "Información de sesión">
+<!ENTITY aboutTelemetry.scalarsSection "Escalares">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Escalares con llave">
+<!ENTITY aboutTelemetry.histogramsSection "Histogrames">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Historigrames con llave">
+<!ENTITY aboutTelemetry.eventsSection "Eventos">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Midíes simples">
+<!ENTITY aboutTelemetry.telemetryLogSection "Rexistru de Telemetry">
+<!ENTITY aboutTelemetry.slowSqlSection "Sentencies SQL lentes">
+<!ENTITY aboutTelemetry.chromeHangsSection "Cuelgues del restolador">
+<!ENTITY aboutTelemetry.addonDetailsSection "Detalles del complementu">
+<!ENTITY aboutTelemetry.capturedStacksSection "Piles capturaes">
+<!ENTITY aboutTelemetry.lateWritesSection "Escritures apostalgaes">
+<!ENTITY aboutTelemetry.rawPayloadSection "Payload en bruto">
+<!ENTITY aboutTelemetry.raw "JSON en bruto">
 
-<!ENTITY aboutTelemetry.uploadDisabled "
-  L'unviu de datos de FHR ta <span>desactiváu</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  El rexistru estendíu de Telemetry ta <span>activáu</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  El rexistru estendíu de Telemetry ta <span>desactiváu</span>.
-">
-
-<!ENTITY aboutTelemetry.pingDataSource "
-Fonte de datos de ping:
-">
-
-<!ENTITY aboutTelemetry.showCurrentPingData "
-Datos actuales de ping
-">
-
-<!ENTITY aboutTelemetry.showArchivedPingData "
-Datos archivaos de ping
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Amosar datos de ping:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Estructuráu
-">
-
-<!ENTITY aboutTelemetry.raw "
-Raw JSON
-">
-
-<!ENTITY aboutTelemetry.showSubsessionData "
-Amosar datos de subsesión
-">
-
-<!ENTITY aboutTelemetry.choosePing "
-Esbillar ping:
-">
-
-<!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Ping más recién
-">
-
-<!ENTITY aboutTelemetry.showOlderPing "
-Ping más vieyu &gt;&gt;
-">
-
-<!ENTITY aboutTelemetry.rawPingData "
-Datos ensin procesar del ping…
-">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "
-Selmana
-">
-
-<!ENTITY aboutTelemetry.archivePingHeader "
-Ping
-">
-
-<!ENTITY aboutTelemetry.generalDataSection "">
-
-<!ENTITY aboutTelemetry.environmentDataSection "
-  Datos d'entornu
-">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "">
-
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Sentencies SQL lentes
-">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  El restolador colíngase
-">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "">
-
-
-<!ENTITY aboutTelemetry.scalarsSection "
-  Escalares
-">
-
-<!ENTITY aboutTelemetry.keyedScalarsSection "
-  Escalares con llave">
-
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histogrames
-">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "">
-
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Midides simples
-">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "">
-
-<!ENTITY aboutTelemetry.lateWritesSection "">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  Información de sesión">
-
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogrames recopilaos por complementos
-">
-
-<!ENTITY aboutTelemetry.toggle "">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Nun se recopilaron datos)
-">
-
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTA: la depuración SQL lenta ta activada. Puen amosase cadenes completes de SQL pero nun van unviase a Telemetry.
-">
-
-
-
-<!ENTITY aboutTelemetry.filterText "">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Payload
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Raw Payload
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "NOTA: la depuración SQL lenta ta activada. Podríen amosase cadenes completes de SQL pero nun van unviase a Telemetry.">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Dir en cata de nomes de función pa piles">
+<!ENTITY aboutTelemetry.hideStackSymbols "Amosar datos en bruto de piles">
