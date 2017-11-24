@@ -42,6 +42,7 @@
 
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Zabilješke">
+<!ENTITY addCurPageCmd.label "Zabilježi ovu stranicu">
 
 <!-- Tools Menu -->
 
