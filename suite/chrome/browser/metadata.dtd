@@ -16,7 +16,7 @@
 <!ENTITY insdel-sec.label      "Inserir/apagar propriedades">
 <!ENTITY insdel-cite.label     "Informações:">
 <!ENTITY insdel-date.label     "Data:">
-<!ENTITY link-sec.label        "Propriedades da ligação">
+<!ENTITY link-sec.label        "Propriedades da hiperligação">
 <!ENTITY link-url.label        "Endereço:">
 <!ENTITY link-target.label     "Abre em:">
 <!ENTITY link-type.label       "Tipo de destino:">

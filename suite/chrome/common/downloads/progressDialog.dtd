@@ -14,7 +14,7 @@
 <!ENTITY cmd.show.accesskey              "b">
 <!ENTITY cmd.goToDownloadPage.label      "Ir para a página de descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey  "r">
-<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da descarga">
+<!ENTITY cmd.copyDownloadLink.label      "Copiar hiperligação do descarregamento">
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
 <!ENTITY closeWhenDone.label             "Fechar esta janela ao terminar a descarga.">
 <!ENTITY closeWhenDone.accesskey         "F">

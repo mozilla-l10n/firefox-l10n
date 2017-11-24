@@ -29,7 +29,7 @@
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Ficheiro(s)...">
 <!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachPageCmd.label "Página web…">
+<!ENTITY attachPageCmd.label "Página Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Cartão Pessoal (vCard)">
@@ -130,5 +130,5 @@
 <!ENTITY selectAllAttachments.accesskey "t">
 <!ENTITY attachFile.label "Anexar ficheiro(s)…">
 <!ENTITY attachFile.accesskey "f">
-<!ENTITY attachPage.label "Anexar página da web...">
+<!ENTITY attachPage.label "Anexar página Web...">
 <!ENTITY attachPage.accesskey "x">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Message Header View Popup -->
 
+<!-- Message Header View Popup -->
 <!ENTITY AddToAddressBook.label            "Adicionar ao livro de endereços…">
 <!ENTITY AddToAddressBook.accesskey        "A">
 <!ENTITY EditContact.label                 "Editar contacto…">
@@ -17,9 +17,9 @@
 <!ENTITY CreateFilterFrom.accesskey        "f">
 <!ENTITY openInBrowser.label               "Abrir no navegador">
 <!ENTITY openInBrowser.accesskey           "o">
-<!ENTITY bookmarkLinkCmd.label             "Adicionar ligação aos marcadores…">
+<!ENTITY bookmarkLinkCmd.label             "Adicionar hiperligação aos marcadores…">
 <!ENTITY bookmarkLinkCmd.accesskey         "A">
-<!ENTITY copyLinkCmd.label                 "Copiar localização da ligação">
+<!ENTITY copyLinkCmd.label                 "Copiar localização da hiperligação">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "Copiar o ID da mensagem">
 <!ENTITY CopyMessageId.accesskey           "C">

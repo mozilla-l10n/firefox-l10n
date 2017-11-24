@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY linksHeader.label "Comportamento da ligação">
-<!ENTITY newWindow.label "Comportamento da abertura da ligação">
-<!ENTITY newWindowDescription.label "Abrir ligações que deviam abrir uma nova janela em:">
+<!ENTITY linksHeader.label "Comportamento da hiperligação">
+<!ENTITY newWindow.label "Comportamento da abertura da hiperligação">
+<!ENTITY newWindowDescription.label "Abrir hiperligações que deviam abrir uma nova janela em:">
 <!ENTITY newWindowRestriction.label "Quando os scripts querem abrir uma nova janela:">
-<!ENTITY external.label "Ligações de outras aplicações">
-<!ENTITY externalDescription.label "Abrir ligações de outras aplicações em:">
+<!ENTITY external.label "Hiperligações de outras aplicações">
+<!ENTITY externalDescription.label "Abrir hiperligações de outras aplicações em:">
 
 <!ENTITY openCurrent.label "No separador/janela atual">
 <!ENTITY newWindowGroupCurrent.accesskey "j">

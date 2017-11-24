@@ -216,7 +216,7 @@
 
 <!ENTITY bodyMenuFeed.label "Corpo da mensagem de fonte como">
 <!ENTITY bodyMenuFeed.accesskey "f">
-<!ENTITY viewFeedWebPage.label "Página web">
+<!ENTITY viewFeedWebPage.label "Página Web">
 <!ENTITY viewFeedWebPage.accesskey "w">
 <!ENTITY viewFeedSummary.label "Resumo">
 <!ENTITY viewFeedSummary.accesskey "m">
@@ -367,11 +367,11 @@
 <!ENTITY markAsNotPhishCmd.key "p">
 <!ENTITY openFeedMessage.label "Abrir mensagem da fonte">
 <!ENTITY openFeedMessage.accesskey "o">
-<!ENTITY openFeedWebPageInWindow.label "Página web em nova janela">
+<!ENTITY openFeedWebPageInWindow.label "Página Web em nova janela">
 <!ENTITY openFeedWebPageInWindow.accesskey "w">
 <!ENTITY openFeedSummaryInWindow.label "Resumo em nova janela">
 <!ENTITY openFeedSummaryInWindow.accesskey "s">
-<!ENTITY openFeedWebPageInMP.label "Alternar página web e resumo no painel de mensagens">
+<!ENTITY openFeedWebPageInMP.label "Alternar página Web e resumo no painel de mensagens">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
 
 <!-- Tools Menu -->

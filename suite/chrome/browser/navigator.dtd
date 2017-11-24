@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/navigator.xul -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
-
-
-
 <!ENTITY mainWindow.title "&brandShortName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
@@ -37,8 +37,8 @@
 <!ENTITY menuBar.tooltip                  "Barra de menus">
 <!ENTITY bookmarksToolbar.tooltip         "Barra de marcadores">
 <!ENTITY navigationToolbar.tooltip        "Barra de navegação">
-<!-- Toolbar items --> 
 
+<!-- Toolbar items --> 
 <!ENTITY backButton.label             "Anterior">
 <!ENTITY backButton.tooltip           "Retroceder uma página">
 <!ENTITY forwardButton.label          "Avançar">
@@ -56,10 +56,10 @@
 
 <!ENTITY throbber.tooltip             "Ir para a página inicial do &vendorShortName;">
 
-<!ENTITY locationBar.tooltip          "Introduza o termo da pesquisa, palavra chave, ou endereço web">
+<!ENTITY locationBar.tooltip          "Introduza o termo da pesquisa, palavra chave, ou endereço Web">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Localização">
-<!ENTITY proxyIcon.tooltip            "Arraste e largue este ícone para criar uma ligação para esta página">
+<!ENTITY proxyIcon.tooltip            "Arraste e largue este ícone para criar uma hiperligação para esta página">
 
 <!ENTITY searchItem.title             "Pesquisar">
 
@@ -68,8 +68,8 @@
 <!ENTITY homeButton.label             "Página inicial">
 <!ENTITY bookmarksToolbarItem.label   "Itens da barra de ferramentas marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
-<!-- Statusbar -->
 
+<!-- Statusbar -->
 <!ENTITY  statusText.label            "Feito">
 
 <!ENTITY popupIcon.tooltiptext      "Desbloquear janelas pop-up deste site">

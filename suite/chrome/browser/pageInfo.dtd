@@ -15,7 +15,7 @@
 <!ENTITY  selectall.accesskey    "t">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
-<!ENTITY  copyLinks.label           "Copiar ligações">
+<!ENTITY  copyLinks.label           "Copiar hiperligações">
 <!ENTITY  copyLinks.accesskey       "l">
 <!ENTITY  openInNewTab.label        "Abrir num novo separador">
 <!ENTITY  openInNewTab.accesskey    "s">
@@ -50,7 +50,7 @@
 <!ENTITY  formType              "Tipo">
 <!ENTITY  formCValue            "Valor atual">
 
-<!ENTITY  linksTab              "Ligações">
+<!ENTITY  linksTab              "Hiperligações">
 <!ENTITY  linksTab.accesskey    "L">
 <!ENTITY  linkName              "Nome">
 <!ENTITY  linkAddress           "Endereço">
