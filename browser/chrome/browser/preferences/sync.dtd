@@ -4,7 +4,7 @@
 
 <!-- The page shown when logged in... -->
 
-<!ENTITY engine.bookmarks.label     "სანიშნეები">
+<!ENTITY engine.bookmarks.label     "სანიშნები">
 <!ENTITY engine.bookmarks.accesskey "ს">
 <!ENTITY engine.tabs.label2         "გახსნილი ჩანართები">
 <!ENTITY engine.tabs.accesskey      "ჩ">
@@ -64,7 +64,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "ყ">
 
 <!ENTITY signedOut.caption            "წაიყოლეთ თქვენი მონაცემები თან">
-<!ENTITY signedOut.description        "დაასინქრონეთ თქვენი სანიშნეები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
+<!ENTITY signedOut.description        "დაასინქრონეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; - დაკავშირება">
 <!ENTITY signedOut.accountBox.create2 "არ გაქვთ ანგარიში? შექმენით">
 <!ENTITY signedOut.accountBox.create2.accesskey "ქ">

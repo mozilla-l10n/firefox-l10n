@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "გამართვა">
 <!ENTITY organize.accesskey    "გ">
-<!ENTITY organize.tooltip      "დაალაგეთ თქვენი სანიშნეები">
+<!ENTITY organize.tooltip      "დაალაგეთ თქვენი სანიშნები">
 
 <!ENTITY file.close.label               "დახურვა">
 <!ENTITY file.close.accesskey           "დ">
@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "დაღმავალი წესით">
 <!ENTITY view.sortDescending.accesskey  "დ">
 
-<!ENTITY importBookmarksFromHTML.label     "სანიშნეების შემოტანა HTML ფაილიდან…">
+<!ENTITY importBookmarksFromHTML.label     "სანიშნების შემოტანა HTML ფაილიდან…">
 <!ENTITY importBookmarksFromHTML.accesskey "ტ">
-<!ENTITY exportBookmarksToHTML.label       "სანიშნეების შენახვა HTML ფაილად…">
+<!ENTITY exportBookmarksToHTML.label       "სანიშნების შენახვა HTML ფაილად…">
 <!ENTITY exportBookmarksToHTML.accesskey   "ხ">
 <!ENTITY importOtherBrowser.label          "მონაცემების გადმოტანა სხვა ბრაუზერიდან…">
 <!ENTITY importOtherBrowser.accesskey      "მ">
@@ -62,7 +62,7 @@
 <!ENTITY cmd.sortby_name.accesskey          "დ">
 <!ENTITY cmd.context_sortby_name.accesskey  "ხ">
 
-<!ENTITY cmd.new_bookmark.label            "ახალი სანიშნე…">
+<!ENTITY cmd.new_bookmark.label            "ახალი სანიშნი…">
 <!ENTITY cmd.new_bookmark.accesskey        "ს">
 <!ENTITY cmd.new_folder.label              "ახალი საქაღალდე…">
 <!ENTITY cmd.new_folder.accesskey          "ა">
@@ -86,13 +86,13 @@
 <!ENTITY col.lastmodified.label  "ბოლო ცვლილება">
 
 <!ENTITY historySearch.placeholder  "ძიება ისტორიაში">
-<!ENTITY bookmarksSearch.placeholder  "სანიშნეების ძიება">
+<!ENTITY bookmarksSearch.placeholder  "სანიშნების ძიება">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "შემოტანა და მარქაფი">
 <!ENTITY maintenance.accesskey  "შ">
-<!ENTITY maintenance.tooltip    "შემოიტანეთ და დაამარქაფეთ თქვენი სანიშნეები">
+<!ENTITY maintenance.tooltip    "შემოიტანეთ და დაამარქაფეთ თქვენი სანიშნები">
 
 <!ENTITY backButton.tooltip  "უკან დაბრუნება">
 
