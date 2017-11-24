@@ -6,11 +6,10 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.tryThis        "ທ່ານສາມາດລອງ:">
+<!ENTITY restorepage.errorTitle2    "ຂໍອະໄພ ເຮົາມີປັນຫາໃນການນຳຫນ້າຕ່າງໆ ຂອງທ່ານກັບມາ">
 
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "ອອກ">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.hideTabs       "ເຊື່ອງແທັບກ່ອນຫນ້າ">
+
 
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 
