@@ -43,9 +43,16 @@
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Zabilješke">
 <!ENTITY addCurPageCmd.label "Zabilježi ovu stranicu">
+<!ENTITY addCurTabsAsCmd.label "Zabilježi ovu grupu tabova…">
+<!ENTITY manBookmarksCmd.label "Upravljaj zabilješkama…">
 
 <!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "Pretraži web">
+<!ENTITY translateMenu.label "Prevedi stranicu">
 
+<!ENTITY cookieMessageTitle.label "Dozvole kolačića su promijenjene">
+<!ENTITY cookieDisplayCookiesCmd.label "Upravljaj sa spremljenim kolačićima">
+<!ENTITY cookieAllowCookiesCmd.label "Dopusti kolačiće sa ove web stranice">
 
 
 
