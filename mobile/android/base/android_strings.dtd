@@ -12,14 +12,14 @@
 <!ENTITY firstrun_customize_message "გახადეთ &brandShortName; თქვენებური.">
 <!ENTITY firstrun_customize_subtext "მოირგეთ &brandShortName; დამატებების საშუალებით. შეზღუდეთ რეკლამები, დაამატეთ შესაძლებლობები, ან აირჩიეთ ახალი გაფორმება, თქვენი გემოვნებით.">
 <!ENTITY firstrun_bookmarks_title "ისტორია">
-<!ENTITY firstrun_bookmarks_message "თქვენი სანიშნეები თქვენს წინაა">
-<!ENTITY firstrun_bookmarks_subtext "მიიღეთ შედეგები თქვენი სანიშნეებიდან და ისტორიიდან ძიებისას.">
+<!ENTITY firstrun_bookmarks_message "თქვენი სანიშნები თქვენს თვალწინაა">
+<!ENTITY firstrun_bookmarks_subtext "მიიღეთ შედეგები თქვენი სანიშნებიდან და ისტორიიდან ძიებისას.">
 <!ENTITY firstrun_data_title "მონაცემები">
 <!ENTITY firstrun_data_message "ნაკლები მონაცემები, მეტი დანაზოგი">
 <!ENTITY firstrun_data_subtext2 "გამორთეთ გამოსახულებები ნებისმიერ საიტზე ნაკლები მონაცემის დასახარჯად.">
 <!ENTITY firstrun_sync_title "სინქრონიზაცია">
 <!ENTITY firstrun_sync_message2 "განაგრძეთ იქიდან, სადაც გაჩერდით.">
-<!ENTITY firstrun_sync_subtext2 "გამოიყენეთ სინქრონიზაცია სანიშნეების, პაროლების და &brandShortName;-ში დამახსოვრებული სხვა მონაცემების, ყველა მოწყობილობაზე გასაზიარებლად.">
+<!ENTITY firstrun_sync_subtext2 "გამოიყენეთ სინქრონიზაცია სანიშნების, პაროლების და &brandShortName;-ში დამახსოვრებული სხვა მონაცემების, ყველა მოწყობილობაზე გასაზიარებლად.">
 <!ENTITY firstrun_signin_message "დაუკავშირდით და დაიწყეთ">
 <!ENTITY firstrun_signin_button "Sync-ში შესვლა">
 <!ENTITY  onboard_start_button_browser "დაიწყეთ მოგზაურობა ინტერნეტში">
@@ -47,7 +47,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "სანიშნეები">
+<!ENTITY  bookmarks_title "სანიშნები">
 <!ENTITY  history_title "ისტორია">
 
 <!ENTITY  switch_to_tab "ჩანართზე გადართვა">
@@ -70,18 +70,18 @@
 
 <!ENTITY url_bar_default_text2 "მოძებნეთ ან შეიყვანეთ მისამართი">
 
-<!ENTITY bookmark "სანიშნე">
+<!ENTITY bookmark "სანიშნი">
 <!ENTITY bookmark_remove "სანიშნის ამოღება">
-<!ENTITY bookmark_added "სანიშნე დამატებულია">
+<!ENTITY bookmark_added "სანიშნი დამატებულია">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "უკვე ჩანიშნულია">
-<!ENTITY bookmark_removed "სანიშნე ამოღებულია">
-<!ENTITY bookmark_updated "სანიშნე განახლებულია">
+<!ENTITY bookmark_removed "სანიშნი ამოღებულია">
+<!ENTITY bookmark_updated "სანიშნი განახლებულია">
 <!ENTITY bookmark_options "პარამეტრები">
 <!ENTITY bookmark_save "შენახვა">
-<!ENTITY screenshot_added_to_bookmarks "ეკრანის სურათი დაემატა სანიშნეებში">
+<!ENTITY screenshot_added_to_bookmarks "ეკრანის სურათი დაემატა სანიშნებში">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -365,11 +365,11 @@
 <!ENTITY pref_use_master_password "მთავარი პაროლის გამოყენება">
 <!ENTITY pref_sync_default_title "Firefox ანგარიში">
 <!ENTITY pref_sync2 "შესვლა">
-<!ENTITY pref_sync_summary2 "დაასინქრონეთ თქვენი ჩანართები, სანიშნეები, შესვლები, ისტორია">
+<!ENTITY pref_sync_summary2 "დაასინქრონეთ თქვენი ჩანართები, სანიშნები, შესვლები, ისტორია">
 <!ENTITY pref_search_suggestions "ძიების შემოთავაზების ჩვენება">
 <!ENTITY pref_history_search_suggestions "ძიების ისტორიის ჩვენება">
 <!ENTITY pref_import_options "გადმოტანის პარამეტრები">
-<!ENTITY pref_import_android_summary "გადმოიტანეთ სანიშნეები და ისტორია სხვა ბრაუზერებიდან">
+<!ENTITY pref_import_android_summary "გადმოიტანეთ სანიშნები და ისტორია სხვა ბრაუზერებიდან">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "გახსნილი ჩანართები">
@@ -590,7 +590,7 @@
 <!ENTITY home_history_back_to2 "სრულ ისტორიაზე დაბრუნება">
 <!ENTITY home_clear_history_button "დათვალიერების ისტორიის გასუფთავება">
 <!ENTITY home_clear_history_confirm "ნამდვილად გსურთ ისტორიის გასუფთავება?">
-<!ENTITY home_bookmarks_empty "თქვენ მიერ შენახული სანიშნეები აქ გამოჩნდება.">
+<!ENTITY home_bookmarks_empty "თქვენ მიერ შენახული სანიშნები აქ გამოჩნდება.">
 <!ENTITY home_closed_tabs_title2 "ახლახანს დახურული">
 <!ENTITY home_last_tabs_empty "თქვენი ბოლო ჩანართები აქ გამოჩნდება.">
 <!ENTITY home_restore_all "ყველას აღდგენა">
@@ -677,9 +677,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "ზოგიერთი პირადი მონაცემის გასუფთავება ვერ ხერხდება">
 
 <!ENTITY bookmarkhistory_button_import "გადმოტანა">
-<!ENTITY bookmarkhistory_import_both "სანიშნეებისა და ისტორიის გადმოტანა
+<!ENTITY bookmarkhistory_import_both "სანიშნებისა და ისტორიის გადმოტანა
                                       Android-იდან">
-<!ENTITY bookmarkhistory_import_bookmarks "სანიშნეების გადმოტანა
+<!ENTITY bookmarkhistory_import_bookmarks "სანიშნების გადმოტანა
                                            Android-იდან">
 <!ENTITY bookmarkhistory_import_history "ისტორიის გადმოტანა
                                          Android-იდან">
@@ -699,7 +699,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "&formatS1; ძიება - ">
 
-<!ENTITY searchable_description "სანიშნეები და ისტორია">
+<!ENTITY searchable_description "სანიშნები და ისტორია">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 " &brandShortName;-ის განახლება ხელმისაწვდომია">
@@ -726,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "გაგრძელება">
 <!ENTITY guest_session_dialog_cancel "გაუქმება">
 <!ENTITY new_guest_session_title "&brandShortName; გაეშვება ხელახლა">
-<!ENTITY new_guest_session_text2 "ვინც, ამით ისარგებლდებს, ვერ ნახავს თქვენს პირად მონაცემებს (შენახულ შესვლებს, ისტორიას და სანიშნეებს)..\n\nროდესაც სტუმარი თავის საქმეს დაასრულებს, მისი დათვალიერების მონაცემები წაიშლება და თქვენი სეანსი აღდგება.">
+<!ENTITY new_guest_session_text2 "ვინც, ამით ისარგებლდებს, ვერ ნახავს თქვენს პირად მონაცემებს (შენახულ შესვლებს, ისტორიას და სანიშნებს)..\n\nროდესაც სტუმარი თავის საქმეს დაასრულებს, მისი დათვალიერების მონაცემები წაიშლება და თქვენი სეანსი აღდგება.">
 <!ENTITY guest_browsing_notification_title "სტუმრის რეჟიმი ჩართულია">
 <!ENTITY guest_browsing_notification_text "შეეხეთ გამოსასვლელად">
 
@@ -791,7 +791,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "ისტორიის გასუფთავება">
 <!ENTITY restrictable_feature_clear_history_description "ოჯახის წევრებს მათ მიერ მონახულებული საიტების და გვერდების შესახებ ინფორმაციის წაშლის საშუალებას აძლევს.">
 <!ENTITY restrictable_feature_advanced_settings "დამატებითი პარამეტრები">
-<!ENTITY restrictable_feature_advanced_settings_description "ეს მოიცავს სანიშნეების გადმოტანას, ჩანართების აღდგენას და ავტომატურ განახლებებს. შეგიძლიათ გამორთოთ, პარამეტრების გასამარტივებლად ოჯახის დანარჩენი წევრებისთვის.">
+<!ENTITY restrictable_feature_advanced_settings_description "ეს მოიცავს სანიშნების გადმოტანას, ჩანართების აღდგენას და ავტომატურ განახლებებს. შეგიძლიათ გამორთოთ, პარამეტრების გასამარტივებლად ოჯახის დანარჩენი წევრებისთვის.">
 <!ENTITY restrictable_feature_camera_microphone "კამერა და მიკროფონი">
 <!ENTITY restrictable_feature_camera_microphone_description "ოჯახის წევრებს ვებსაიტებზე რეალური დროის კომუნიკაციის საშუალებას აძლევს.">
 <!ENTITY restrictable_feature_block_list "შეზღუდულთა სია">
@@ -827,8 +827,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_page_shortcut "გვერდის მალსახმობის დამატება">
 
 <!ENTITY helper_first_offline_bookmark_title "კავშირგარეშე წაკითხვა">
-<!ENTITY helper_first_offline_bookmark_message "იპოვეთ წასაკითხი ელემენტები სანიშნეებში, კავშირგარეშე რეჟიმის დროსაც.">
-<!ENTITY helper_first_offline_bookmark_button "სანიშნეებზე გადასვლა">
+<!ENTITY helper_first_offline_bookmark_message "იპოვეთ წასაკითხი ელემენტები სანიშნებში, კავშირგარეშე რეჟიმის დროსაც.">
+<!ENTITY helper_first_offline_bookmark_button "სანიშნებზე გადასვლა">
 
 <!ENTITY helper_triple_readerview_open_title "კავშირგარეშე წვდომა">
 <!ENTITY helper_triple_readerview_open_message "ჩაინიშნეთ წაკითხვის რეჟიმის ელემენტები მათზე კავშირგარეშე წვდომისათვის.">

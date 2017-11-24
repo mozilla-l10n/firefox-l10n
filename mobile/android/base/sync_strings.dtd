@@ -29,13 +29,13 @@
 <!ENTITY sync.default.client.name '&formatS1; &formatS2; მოწყობილობაზე '>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'სანიშნეების მენიუ'>
+<!ENTITY bookmarks.folder.menu.label 'სანიშნების მენიუ'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'ჭდეები'>
-<!ENTITY bookmarks.folder.toolbar.label 'სანიშნეების ხელსაწყოები'>
-<!ENTITY bookmarks.folder.other.label 'სხვა სანიშნეები'>
-<!ENTITY bookmarks.folder.desktop.label 'კომპიუტერის სანიშნეები'>
-<!ENTITY bookmarks.folder.mobile.label 'მობილურის სანიშნეები'>
+<!ENTITY bookmarks.folder.toolbar.label 'სანიშნების ხელსაწყოები'>
+<!ENTITY bookmarks.folder.other.label 'სხვა სანიშნები'>
+<!ENTITY bookmarks.folder.desktop.label 'კომპიუტერის სანიშნები'>
+<!ENTITY bookmarks.folder.mobile.label 'მობილურის სანიშნები'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'დამაგრებული'>
 
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'დათვალიერებაზე დაბრუნება'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'მოგესალმებათ &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'შედით სისტემაში თქვენი ჩანართების, სანიშნეების, პაროლების და ა.შ. დასინქრონებისთვის.'>
+<!ENTITY fxaccount_getting_started_description2 'შედით სისტემაში თქვენი ჩანართების, სანიშნების, პაროლების და ა.შ. დასინქრონებისთვის.'>
 <!ENTITY fxaccount_getting_started_get_started 'დაიწყეთ'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label;-ის ძველ ვერსიას იყენებთ?'>
 
@@ -63,7 +63,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; გამართულია, მაგრამ ავტომატურად არ სინქრონირდება. შეამოწმეთ \&quot;ავტომატური სინქრონიზაცია\&quot; მისამართზე Android-ის პარამეტრები &gt; ანგარიშები.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'შეეხეთ თქვენს Firefox ანგარიშში შესასვლელად.'>
 <!ENTITY fxaccount_status_choose_what 'მიუთითეთ, რისი დასინქრონება გსურთ'>
-<!ENTITY fxaccount_status_bookmarks 'სანიშნეები'>
+<!ENTITY fxaccount_status_bookmarks 'სანიშნები'>
 <!ENTITY fxaccount_status_history 'ისტორია'>
 <!ENTITY fxaccount_status_passwords2 'შესვლები'>
 <!ENTITY fxaccount_status_tabs 'გახსნილი ჩანართები'>
