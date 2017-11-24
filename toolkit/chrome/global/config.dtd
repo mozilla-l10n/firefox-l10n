@@ -46,5 +46,5 @@
 <!ENTITY string.accesskey "C">
 <!ENTITY integer.label "Enteru">
 <!ENTITY integer.accesskey "E">
-<!ENTITY boolean.label "Lóxicu">
+<!ENTITY boolean.label "Llóxicu">
 <!ENTITY boolean.accesskey "L">
