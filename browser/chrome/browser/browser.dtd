@@ -845,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "把需要的东西拖进工具栏或折叠菜单。">
 <!ENTITY customizeMode.menuAndToolbars.empty "想要更多的工具？">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "来挑选成千上万的附加组件吧">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "在成千上万的附加组件里挑选吧">
 <!ENTITY customizeMode.restoreDefaults "恢复默认设置">
 <!ENTITY customizeMode.done "完成">
 <!ENTITY customizeMode.titlebar "标题栏">
