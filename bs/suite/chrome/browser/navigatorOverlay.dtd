@@ -26,10 +26,22 @@
 
 <!ENTITY useStyleSheetMenu.label "Korištenje stila">
 <!ENTITY useStyleSheetNone.label "Nijedan">
+<!ENTITY useStyleSheetPersistentOnly.label "Izvorni stil">
+<!ENTITY bidiSwitchPageDirectionItem.label "Promijeni smjer stranice">
+<!ENTITY pageSourceCmd.label "Izvorni kod stranice">
+<!ENTITY pageInfoCmd.label "Informacije o stranici">
 
 <!-- Go Menu -->
+<!ENTITY goMenu.label "Idi">
+<!ENTITY goHomeCmd.label "Početna">
+<!ENTITY historyCmd.label "Historija">
+<!ENTITY recentTabs.label "Nedavno zatvoreni tabovi">
+<!ENTITY recentWindows.label "Nedavno zatvoreni prozori">
+<!ENTITY historyRestoreLastSession.label "Povrati prethodnu sesiju">
+<!ENTITY syncTabsMenu.label "Tabovi sa drugih računara">
 
 <!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "Zabilješke">
 
 <!-- Tools Menu -->
 
