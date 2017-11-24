@@ -24,6 +24,7 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "ನೀವು ಸೇರಿಸಲು ಬಯಸುವ ಘಟಕಕ್ಕೆ ಮಾಹಿತಿಯನ್ನು ದಾಖಲಿಸಿ.">
+<!ENTITY loaddevice.modname2                    "ಘಟಕದ ಹೆಸರು">
 <!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "ಹೊಸ PKCS#11 ಘಟಕ">
 <!ENTITY loaddevice.filename2                   "ಘಟಕ ಕಡತ ಹೆಸರು">
