@@ -86,9 +86,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "მენიუს ზოლი">
 <!ENTITY menubarCmd.accesskey "ზ">
 <!ENTITY navbarCmd.label "ნავიგაციის ხელსაწყოთა ზოლი">
-<!ENTITY personalbarCmd.label "სანიშნეების ხელსაწყოთა ზოლი">
+<!ENTITY personalbarCmd.label "სანიშნების ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.accesskey "ს">
-<!ENTITY bookmarksToolbarItem.label "სანიშნეების ზოლის ხელსაწყოები">
+<!ENTITY bookmarksToolbarItem.label "სანიშნების ზოლის ხელსაწყოები">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "ყველა ჩანართის განახლება">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ყ">
@@ -168,7 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "ფანჯრის დახურვა">
 <!ENTITY closeWindow.accesskey "ხ">
 
-<!ENTITY bookmarksMenu.label "სანიშნეები">
+<!ENTITY bookmarksMenu.label "სანიშნები">
 <!ENTITY bookmarksMenu.accesskey "ს">
 <!ENTITY bookmarkThisPageCmd.label "გვერდის ჩანიშვნა">
 <!ENTITY editThisBookmarkCmd.label "სანიშნის ჩასწორება">
@@ -179,8 +179,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
 <!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
-<!ENTITY otherBookmarksCmd.label "სხვა სანიშნეები">
-<!ENTITY mobileBookmarksCmd.label "მობილურის სანიშნეები">
+<!ENTITY otherBookmarksCmd.label "სხვა სანიშნები">
+<!ENTITY mobileBookmarksCmd.label "მობილურის სანიშნები">
 <!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნის ჩვენება">
 <!ENTITY showRecentlyBookmarked.label     "ბოლოს ჩანიშნულების ჩვენება">
 <!ENTITY showRecentlyBookmarked.accesskey "ჩ">
@@ -239,21 +239,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "სახლი">
 
-<!ENTITY bookmarksButton.label          "სანიშნეები">
+<!ENTITY bookmarksButton.label          "სანიშნები">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksSubview.label             "სანიშნეები">
-<!ENTITY bookmarksMenuButton2.label         "სანიშნეების მენიუ">
-<!ENTITY bookmarksMenuButton.other.label    "სხვა სანიშნეები">
-<!ENTITY bookmarksMenuButton.mobile.label   "მობილურის სანიშნეები">
-<!ENTITY viewBookmarksSidebar2.label        "სანიშნეთა გვერდითი ზოლის ჩვენება">
-<!ENTITY hideBookmarksSidebar.label         "სანიშნეთა გვერდითი ზოლის დამალვა">
-<!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
-<!ENTITY hideBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის დამალვა">
-<!ENTITY searchBookmarks.label              "სანიშნეების ძიება">
-<!ENTITY bookmarkingTools.label             "სანიშნეების ხელსაწყოები">
-<!ENTITY addBookmarksMenu.label             "სანიშნეთა მენიუს, ხელსაწყოთა ზოლში დამატება">
-<!ENTITY removeBookmarksMenu.label          "სანიშნეთა მენიუს, ხელსაწყოთა ზოლიდან ამოღება">
+<!ENTITY bookmarksSubview.label             "სანიშნები">
+<!ENTITY bookmarksMenuButton2.label         "სანიშნების მენიუ">
+<!ENTITY bookmarksMenuButton.other.label    "სხვა სანიშნები">
+<!ENTITY bookmarksMenuButton.mobile.label   "მობილურის სანიშნები">
+<!ENTITY viewBookmarksSidebar2.label        "სანიშნების გვერდითი ზოლის ჩვენება">
+<!ENTITY hideBookmarksSidebar.label         "სანიშნების გვერდითი ზოლის დამალვა">
+<!ENTITY viewBookmarksToolbar.label         "სანიშნების ხელსაწყოთა ზოლის ჩვენება">
+<!ENTITY hideBookmarksToolbar.label         "სანიშნების ხელსაწყოთა ზოლის დამალვა">
+<!ENTITY searchBookmarks.label              "სანიშნების ძიება">
+<!ENTITY bookmarkingTools.label             "სანიშნების ხელსაწყოები">
+<!ENTITY addBookmarksMenu.label             "სანიშნების მენიუს, ხელსაწყოთა ზოლში დამატება">
+<!ENTITY removeBookmarksMenu.label          "სანიშნების მენიუს, ხელსაწყოთა ზოლიდან ამოღება">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -986,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "ჩანართის გაგზავნა მოწყობილობაზე">
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
 
-<!ENTITY libraryButton.tooltip "იხილეთ ისტორია, შენახული სანიშნეები და ა.შ.">
+<!ENTITY libraryButton.tooltip "იხილეთ ისტორია, შენახული სანიშნები და ა.შ.">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

@@ -19,7 +19,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "შეინახავს">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " თქვენს:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ჩამოტვირთვებს">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks             "სანიშნეებს">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "სანიშნებს">
 <!ENTITY aboutPrivateBrowsing.note.before                "პირადი თვალიერების რეჟიმი ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "არ უზრუნველყოფს თქვენს ანონიმურობას">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ინტერნეტში. თქვენს დამსაქმებელს ან ინტერნეტ მომსახურების მომწოდებელს, მაინც შეუძლიათ გაიგონ, რომელ გვერდებს ეწვიეთ.">
