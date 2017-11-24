@@ -10,11 +10,13 @@
      A good criteria is the language in which you'd find the best documentation
      on web development on the web. -->
 
+<!ENTITY newButton.label            "Nou">
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.accesskey     "I">
 
 
+<!ENTITY saveButton.label           "Salvează">
 <!ENTITY saveButton.accesskey       "S">
 
 
