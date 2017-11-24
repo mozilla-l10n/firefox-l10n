@@ -26,7 +26,7 @@
 <!ENTITY downloadCert.viewCert.text "სააგენტოს სერთიფიკატის შემოწმება">
 
 <!-- Strings for the SSL client auth ask dialog -->
-<!ENTITY clientAuthAsk.title "კლიენტის იდენტიფიცირების მოთხოვნა">
+<!ENTITY clientAuthAsk.title "მოთხოვნა მომხმარებლის დასადგენად">
 <!ENTITY clientAuthAsk.message1 "ეს საიტი თქვენი სერთიფიკატის წარდგენას ითხოვს:">
 <!ENTITY clientAuthAsk.message2 "წარსადგენი სერთიფიკატის არჩევა:">
 <!ENTITY clientAuthAsk.message3 "არჩეული სერთიფიკატის მონაცემები:">
@@ -37,7 +37,7 @@
 <!ENTITY pkcs12.setpassword.label2 "სერთიფიკატის დუბლირების პაროლი (კვლავ):">
 <!ENTITY pkcs12.setpassword.reminder "მნიშვნელოვანია: თუ სერთიფიკატის დუბლირების პაროლი დაგავიწყდათ, დუბლიკატის აღდგენას ვეღარ შეძლებთ.  გთხოვთ საიმედოდ შეინახოთ იგი.">
 
-<!ENTITY chooseToken.title  "ტალონის არჩევა">
+<!ENTITY chooseToken.title  "სიტყვა-ნიშნის არჩევა">
 <!ENTITY chooseToken.message1 "გთხოვთ აირჩიოთ ტალონი">
 
 <!-- Strings for the CreateCertInfo dialog  -->
@@ -46,6 +46,6 @@
 <!ENTITY createCertInfo.msg2 "შეიცადეთ…">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "დაცული ავტორიზაცია ტალონით">
+<!ENTITY protectedAuth.title "უსაფრთხო შესვლა ანგარიშზე სიტყვა-ნიშნის საშუალებით">
 <!ENTITY protectedAuth.msg "გთხოვთ გაიაროთ ავტორიაცია ტალონის გამოყენებით. ავტორიზაციის მეთოდი ტალონის ტიპზეა დამოკიდებული.">
 <!ENTITY protectedAuth.tokenName.label "ტალონი:">
