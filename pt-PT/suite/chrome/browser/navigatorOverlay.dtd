@@ -6,7 +6,7 @@
 <!ENTITY tabCmd.label "Separador de navegação">
 <!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openCmd.label "Abrir localização web…">
+<!ENTITY openCmd.label "Abrir localização Web…">
 <!ENTITY openCmd.accesskey "l">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Abrir ficheiro…">
@@ -87,7 +87,7 @@
 <!ENTITY manBookmarksCmd.commandkey "b">
 
 <!-- Tools Menu -->
-<!ENTITY searchInternetCmd.label "Pesquisar na web">
+<!ENTITY searchInternetCmd.label "Pesquisar na Web">
 <!ENTITY searchInternetCmd.accesskey "b">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "Traduzir página">

@@ -4,7 +4,7 @@
 
 <!ENTITY pref.keyNav.title "Navegação de teclado">
 <!ENTITY tabNavigationBehavior.label "Tecla de navegação por separadores">
-<!ENTITY tabNavigationLinks.label "Ligações">
+<!ENTITY tabNavigationLinks.label "Hiperligações">
 <!ENTITY tabNavigationLinks.accesskey "L">
 <!ENTITY tabNavigationForms.label "Botões, botões de seleção, caixas de verificação e listas de seleção">
 <!ENTITY tabNavigationForms.accesskey "B">

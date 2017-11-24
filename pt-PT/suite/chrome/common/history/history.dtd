@@ -37,14 +37,14 @@
 
 <!ENTITY cmd.open.label                 "Abrir">
 <!ENTITY cmd.open.accesskey             "A">
-<!ENTITY cmd.open_window.label          "Abrir ligação numa nova janela">
+<!ENTITY cmd.open_window.label          "Abrir hiperligação numa nova janela">
 <!ENTITY cmd.open_window.accesskey      "j">
-<!ENTITY cmd.open_tab.label             "Abrir ligação num novo separador">
+<!ENTITY cmd.open_tab.label             "Abrir hiperligação num novo separador">
 <!ENTITY cmd.open_tab.accesskey         "s">
 
-<!ENTITY bookmarkLinkCmd.label          "Adicionar ligação aos marcadores…">
+<!ENTITY bookmarkLinkCmd.label          "Adicionar hiperligação aos marcadores…">
 <!ENTITY bookmarkLinkCmd.accesskey      "A">
-<!ENTITY bookmarkLinksCmd.label         "Adicionar estas ligações aos marcadores…">
+<!ENTITY bookmarkLinksCmd.label         "Adicionar estas hiperligações aos marcadores…">
 <!ENTITY bookmarkLinksCmd.accesskey     "A">
 
 <!ENTITY col.title.label                "Título">

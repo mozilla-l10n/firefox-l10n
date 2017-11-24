@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-
-<!ENTITY languages.customize.prefLangDescript           "Algumas páginas web estão disponíveis em diversos idiomas. Escolha os idiomas para as páginas web, por ordem de preferência.">
+<!ENTITY languages.customize.prefLangDescript           "Algumas páginas Web estão disponíveis em diversos idiomas. Escolha os idiomas para as páginas Web, por ordem de preferência.">
 <!ENTITY languages.customize.title                      "Idiomas">
-<!ENTITY langtitle.label                                "Idiomas para páginas web">
+<!ENTITY langtitle.label                                "Idiomas para páginas Web">
 <!ENTITY languages.customize.prefAddLangDescript        "Selecione o(s) idioma(s) que deseja adicionar.">
 <!ENTITY languages.customize.addButton.label            "Adicionar…">
 <!ENTITY languages.customize.addButton.accesskey        "A">

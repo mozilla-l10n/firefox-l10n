@@ -21,7 +21,7 @@
 <!ENTITY referencesField.label "Referências: ">
 <!ENTITY messageIdField.label "ID da mensagem: ">
 <!ENTITY inReplyToField.label "Em-Resposta-Para: ">
-<!ENTITY originalWebsite.label "Página web: ">
+<!ENTITY originalWebsite.label "Página Web: ">
 
 <!ENTITY editMessage.label                 "Editar rascunho…">
 <!ENTITY editMessage.accesskey             "d">
