@@ -129,7 +129,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
 
-<!ENTITY errorReporting.automatic2 "反馈此类错误，帮助 Mozilla 识别并拦截恶意网站">
+<!ENTITY errorReporting.automatic2 "报告此类错误，帮助 Mozilla 识别与拦截恶意网站">
 <!ENTITY errorReporting.learnMore "详细了解…">
 
 <!ENTITY remoteXUL.title "远程 XUL">
