@@ -4,13 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "환영합니다">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName;를 선택해 주셔서 감사합니다">
-<!ENTITY firstrun_urlbar_subtext2 "자유롭과 개방된 웹을 위해 일하는 비영리재단 Mozilla에서 만든 최신 모바일 브라우저입니다.">
+<!ENTITY firstrun_urlbar_subtext2 "자유롭고 개방된 웹을 위해 일하는 비영리재단 Mozilla에서 만든 최신 모바일 브라우저입니다.">
 <!ENTITY firstrun_panel_title_privacy "개인 정보">
 <!ENTITY firstrun_privacy_message "누구에게도 보이지 않는 웹 이용">
 <!ENTITY firstrun_privacy_subtext "추적 방지가 되어 있는 개인정보 보호 브라우징은 추적자를 차단하고 브라우징을 마칠 때 탐색 기록을 저장하지 않습니다.">
 <!ENTITY firstrun_panel_title_customize "개인화">
 <!ENTITY firstrun_customize_message "나만의 &brandShortName;를 만드세요.">
-<!ENTITY firstrun_customize_subtext "부가 기능으로 &brandShortName;를 개인화 해보세요. 광를 차단하고 새 기능을 추가하고 새로운 테마를 골라보세요.">
+<!ENTITY firstrun_customize_subtext "부가 기능으로 &brandShortName;를 개인화 해보세요. 광고를 차단하고 새 기능을 추가하고 새로운 테마를 골라보세요.">
 <!ENTITY firstrun_bookmarks_title "방문목록">
 <!ENTITY firstrun_bookmarks_message "좋아하는 내용을, 맨 앞에 두세요">
 <!ENTITY firstrun_bookmarks_subtext "북마크와 방문기록에서 검색하여 결과를 가져옵니다.">
