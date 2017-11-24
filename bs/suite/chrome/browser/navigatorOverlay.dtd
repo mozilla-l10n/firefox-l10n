@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- File Menu -->
+<!ENTITY tabCmd.label "Tab pretraživača">
+<!ENTITY openCmd.label "Otvori web lokaciju…">
+<!ENTITY openFileCmd.label "Otvori datoteku…">
+
+<!ENTITY closeOtherTabs.label "Zatvori ostale tabove">
+
+<!ENTITY uploadFile.label "Prenesi datoteku…">
+
+<!ENTITY printSetupCmd.label "Postavljanje stranice…">
+
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Pronađi na ovoj stranici…">
+
+<!-- View Menu -->
+<!ENTITY toolbarsCmd.label "Prikaži/sakrij">
+<!ENTITY tabbarCmd.label "Tab traka">
+<!ENTITY taskbarCmd.label "Statusna traka">
+<!ENTITY componentbarCmd.label "Komponentna traka">
+
+<!ENTITY fullScreenCmd.label "Prikaz preko cijelog ekrana">
+
+<!ENTITY useStyleSheetMenu.label "Korištenje stila">
+<!ENTITY useStyleSheetNone.label "Nijedan">
+
+<!-- Go Menu -->
+
+<!-- Bookmarks Menu -->
+
+<!-- Tools Menu -->
+
+
+
+
+

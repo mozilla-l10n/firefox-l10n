@@ -75,3 +75,4 @@
 
 <!ENTITY viewSecurityInfo.label      "Prikaži sigurnosne informacije">
 <!ENTITY viewCertificate.label       "Prikaži certifikat">
+<!ENTITY viewCertManager.label       "Otvori menadžera certifikata">
