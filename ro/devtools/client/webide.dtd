@@ -15,12 +15,24 @@
 <!-- reload app -->
 <!-- show toolbox -->
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_myProjects "Proiectele mele">
+<!ENTITY runtimePanel_usb "Dispozitive USB">
+<!ENTITY runtimePanel_wifi "Dispozitive Wi-Fi">
 <!ENTITY runtimePanel_refreshDevices_label "Reîmprospătează dispozitivele">
 
 <!-- Lense -->
+<!ENTITY details_error_header "erori">
+<!ENTITY details_description "Descriere">
+<!ENTITY details_location "Locație">
+<!ENTITY details_manifestURL "ID-ul aplicației">
 
 <!-- New App -->
+<!ENTITY newAppWindowTitle "Aplicație nouă">
 
 
 <!-- Decks -->
@@ -29,6 +41,7 @@
 <!-- Addons -->
 
 <!-- Prefs -->
+<!ENTITY prefs_title "Preferințe">
 <!ENTITY prefs_restore "Restabilește la valorile implicite">
 
 <!-- Runtime Details -->

@@ -131,6 +131,7 @@
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.sources        "Surse">
 <!ENTITY debuggerUI.tabs.variables      "Variabile">
+<!ENTITY debuggerUI.tabs.events         "Evenimente">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
