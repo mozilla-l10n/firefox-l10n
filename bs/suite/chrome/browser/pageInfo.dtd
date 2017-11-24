@@ -21,9 +21,52 @@
 <!ENTITY  generalTab            "Opće">
 <!ENTITY  generalURL            "Adresa:">
 <!ENTITY  generalType           "Tip:">
+<!ENTITY  generalMode           "Vrsta vizualizacije:">
+<!ENTITY  generalSize           "Veličina:">
+<!ENTITY  generalReferrer       "Referirajući URL:">
+<!ENTITY  generalSource         "Izvor predmemorije:">
+<!ENTITY  generalModified       "Izmijenjeno:">
+<!ENTITY  generalEncoding2      "Kodiranje teksta:">
+<!ENTITY  generalMetaName       "Naziv">
+<!ENTITY  generalMetaContent    "Sadržaj">
+<!ENTITY  generalSecurityDetails           "Detalji">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
+<!ENTITY  formsTab              "Obrasci">
+<!ENTITY  formsTab.accesskey    "O">
+<!ENTITY  formAction            "Obrazac akcije">
+<!ENTITY  formMethod            "Način">
+<!ENTITY  formName              "Naziv">
+<!ENTITY  formEncoding          "Kodiranje:">
+<!ENTITY  formTarget            "Cilj:">
+<!ENTITY  formFields            "Polja:">
+<!ENTITY  formLabel             "Oznaka">
+<!ENTITY  formFName             "Naziv polja">
+<!ENTITY  formType              "Tip">
+<!ENTITY  formCValue            "Trenutna vrijednost">
 
+<!ENTITY  linksTab              "Linkovi">
+<!ENTITY  linksTab.accesskey    "L">
+<!ENTITY  linkName              "Naziv">
+<!ENTITY  linkAddress           "Adresa">
+<!ENTITY  linkType              "Tip">
+<!ENTITY  linkTarget            "Cilj">
+<!ENTITY  linkAccessKey         "Pristupni ključ">
 
+<!ENTITY  mediaTab              "Mediji">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaURL              "Adresa:">
+<!ENTITY  mediaAlt              "Alternativni tekst:">
+<!ENTITY  mediaAltHeader        "Alternativni tekst">
+<!ENTITY  mediaAddress          "Adresa">
+<!ENTITY  mediaType             "Tip">
+<!ENTITY  mediaSize             "Veličina">
+<!ENTITY  mediaCount            "Broj">
+<!ENTITY  mediaDimensions       "Specifične dimenzije:">
+<!ENTITY  mediaPhysDimensions   "Stvarne dimenzije:">
+<!ENTITY  mediaTitle            "Naslov:">
+<!ENTITY  mediaLongdesc         "Dugi opis:">
+<!ENTITY  mediaSaveAs           "Sačuvaj kao…">
 
 
 
