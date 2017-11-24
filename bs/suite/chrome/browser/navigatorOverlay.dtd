@@ -52,8 +52,35 @@
 
 <!ENTITY cookieMessageTitle.label "Dozvole kolačića su promijenjene">
 <!ENTITY cookieDisplayCookiesCmd.label "Upravljaj sa spremljenim kolačićima">
-<!ENTITY cookieAllowCookiesCmd.label "Dopusti kolačiće sa ove web stranice">
+<!ENTITY cookieAllowCookiesCmd.label "Dozvoli kolačiće sa ove web stranice">
+<!ENTITY cookieAllowCookiesMsg.label "Kolačići sa ove web stranice će uvijek biti dozvoljeni.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Dozvoli kolačiće sesije sa ove web stranice">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Ova web stranica će biti u mogućnosti postaviti kolačiće samo da trenutnu sesiju.">
+<!ENTITY cookieCookiesDefaultCmd.label "Koristite izvorne dozvole za kolačiće">
+<!ENTITY cookieCookiesDefaultMsg.label "Kolačići sa ove web stranice će biti prihvaćeni ili odbaćeni na osnovu izvornih postavki.">
+<!ENTITY cookieBlockCookiesCmd.label "Blokiraj kolačiće sa ove web stranice">
+<!ENTITY cookieBlockCookiesMsg.label "Kolačići sa ove web stranice će uvijek biti odbaćeni.">
 
+<!ENTITY cookieImageMessageTitle.label "Dozvole za slike su promijenjene">
+<!ENTITY cookieDisplayImagesCmd.label "Upravljaj dozvolama za slike">
+<!ENTITY cookieAllowImagesCmd.label "Dozvoli slike sa ove web stranice">
+<!ENTITY cookieAllowImagesMsg.label "Slike sa ove web stranice će uvijek biti preuzete.">
+<!ENTITY cookieImagesDefaultCmd.label "Koristite izvorne dozvole za slike">
+<!ENTITY cookieImagesDefaultMsg.label "Slike sa ove web stranice će biti preuzete na osnovu izvornih postavki.">
+<!ENTITY cookieBlockImagesCmd.label "Blokiraj slike sa ove web stranice">
+<!ENTITY cookieBlockImagesMsg.label "Slike sa ove web stranice neće nikad biti preuzete.">
 
+<!ENTITY popupsMessageChangeTitle.label "Dozvole za iskočne prozore su promijenjene">
+<!ENTITY popupAllowCmd.label "Dozvoli iskočne prozore za ovu web stranicu">
+<!ENTITY popupAllowMsg.label "Iskočni prozori sa ove web stranice će uvijek biti prikazani.">
+<!ENTITY popupDefaultCmd.label "Koristite izvorne dozvole za iskočne prozore">
+<!ENTITY popupDefaultMsg.label "Iskočni prozori sa ove web stranice će biti prikazani na osnovu izvornih postavki.">
+<!ENTITY popupBlockCmd.label "Blokiraj iskočne prozore sa ove web stranice">
+<!ENTITY popupBlockMsg.label "Iskočni prozori sa ove web stranice neće biti prikazani.">
+<!ENTITY popupsManage.label "Upravljaj iskočnim prozorima">
 
+<!ENTITY cookieCookieManager.label "Menadžer kolačića">
+<!ENTITY cookieImageManager.label "Menadžer slika">
+<!ENTITY popupsManager.label "Menadžer iskočnih prozora">
 
+<!ENTITY clearPrivateDataCmd.label "Očisti privatne podatke…">
