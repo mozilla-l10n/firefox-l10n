@@ -85,7 +85,7 @@
 <!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findTypeTextCmd.label "Localizar texto ao escrever">
 <!ENTITY findTypeTextCmd.accesskey "e">
-<!ENTITY findTypeLinksCmd.label "Localizar hiperligações ao escrever">
+<!ENTITY findTypeLinksCmd.label "Localizar ligações ao escrever">
 <!ENTITY findTypeLinksCmd.accesskey "g">
 
 <!ENTITY viewMenu.label					"Ver"> 
