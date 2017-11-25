@@ -370,9 +370,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "കൂടുതൽ കാണിക്കുക">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "ഈ ഡിവൈസിൽ നിന്നും കൂടുതൽ ടാബുകള്‍ കാണിക്കുക">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "എല്ലാം കാണിയ്ക്കുക">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "ഈ ഡിവൈസിലെ എല്ലാ ടാബ്‌കളും പ്രദർശിപ്പിക്കുക">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ">
@@ -384,8 +386,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "സിന്‍ക് മുന്‍ഗണനകള്‍">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണാന്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
 <!ENTITY appMenuRemoteTabs.signin.label "സിങ്കിലേയ്ക്ക് പ്രവേശിക്കുക">
+<!ENTITY appMenuRemoteTabs.managedevices.label "ഡിവൈസുകള്‍ മാനേജ് ചെയ്യുക…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "സിന്‍ക് ചെയ്ത ടാബുകളുടെ സൈഡ്ബാര്‍ കാണിക്കുക">
 
+<!ENTITY appMenuRecentHighlights.label "സമീപകാല ഹൈലൈറ്റുകൾ">
 
 <!ENTITY customizeMenu.addToToolbar.label "ടൂള്‍ബാറിലേക്ക് ചേര്‍ക്കുക">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ക">
@@ -396,6 +400,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "ഓവർഫ്ലോ മെനുലേക്ക് ആഡ് ചെയ്യുക">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ടൂള്‍ബാറിലേക്ക് നീക്കുക">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ക">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -405,6 +411,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "മെനുവിലേക്ക് നീക്കുക">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ക">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "ഓവർഫ്ലോ മെനുവിൽ പിൻ ചെയ്യുക">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ഓവർഫ്ലോ മെനുവിൽ നിന്നും അൺപിൻ ചെയ്യുക">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "ടൂള്‍ബാറില്‍ നിന്നും നീക്കം ചെയ്യുക">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ക">
 <!ENTITY customizeMenu.removeFromMenu.label "മെനുവില്‍ നിന്നും നീക്കം ചെയ്യുക">
@@ -415,11 +425,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "കൂടുതൽ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "‌‌എക്സ്ടെൻഷൻ:">
 <!ENTITY urlbar.switchToTab.label     "ഏതു് റ്റാബ്:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "താങ്കളുടെ തിരയല്‍ അനുഭവങ്ങള്‍ നിര്‍ദ്ദേശങ്ങള്‍ വഴി ഭേദപെടുത്താന്‍ താങ്കള്‍ ആഗ്രഹിക്കുന്നുണ്ടോ?">
@@ -431,7 +443,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ടിപ്സ്:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "സംഗതികള്‍ കണ്ടുപിടിക്കുന്നതിന് സഹായം സ്വീകരിക്കുക. തിരയലിന്റെ സജഷനുകള്‍ എന്നതിനടുത്തുള്ള &#x1F50E; നായി നോക്കുക.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "ഓപ്ഷൻ മാറ്റം…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "മുൻഗണനകൾ മാറ്റുക…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -465,6 +483,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "തിരയുക">
+<!ENTITY searchIcon.tooltip           "തിരയുക">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -490,6 +510,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "തിരയല്‍ സജ്ജീകരണങ്ങള്‍ മാറ്റൂ">
+<!ENTITY changeSearchSettings.tooltip "തിരച്ചിൽ സെറ്റിങ്സ് ‌മാറ്റുക">
 
 <!ENTITY searchInNewTab.label         "പുതിയ ടാബില്‍ തിരയുക">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -508,6 +529,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "ഫ്രെയിം പുതിയ ജാലകത്തില്‍ തുറക്കുക">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.label "പുതിയ കണ്ടെയ്നർ ടാബിൽ ലിങ്ക് തുറക്കുക">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "ഈ ഫ്രെയിം മാത്രം കാണിക്കുക ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -545,6 +568,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ഈ ഫ്രെയിം അടയാളപ്പെടുത്തുക">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY pageAction.copyLink.label    "ലിങ്ക് പകർത്തുക">
+<!ENTITY copyURLFeedback.label        "പകർത്തി!">
 <!ENTITY emailPageCmd.label           "കണ്ണി ഈമെയില്‍ അയയ്ക്കുക…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക">
@@ -608,6 +633,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "ത">
 <!ENTITY mediaPlaybackRate050x2.label "പതുക്കെ (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "പ">
+<!ENTITY mediaPlaybackRate100x2.label "സാധാരണ">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "വേഗത്തില്‍ (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "വ">
 <!ENTITY mediaPlaybackRate150x2.label "വേഗത്തില്‍ (1.5×)">
@@ -666,6 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "സൈഡ് ബാര്‍ അടയ്ക്കുക">
+<!ENTITY sidebarMenuClose.label         "സൈഡ്ബാർ അടയ്ക്കുക">
 
 <!ENTITY quitApplicationCmdWin2.label       "പുറത്തു കടക്കുക">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -675,6 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "പുറത്തേക്ക്‌">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;-ല്‍ നിന്നും പുറത്ത് കടക്കുക">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "അടയ്ക്കുക">
 <!ENTITY closeCmd.key                   "W">
@@ -718,12 +747,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "നിഘണ്ടുവിലേക്കു ചേര്‍ക്കുക...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "ചെയ്തു">
+<!ENTITY editBookmark.removeBookmark.accessKey       "ഈ">
 
 <!ENTITY identity.connectionSecure "സുരക്ഷിത കണക്ഷന്‍">
 <!ENTITY identity.connectionNotSecure "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
 <!ENTITY identity.connectionFile "ഈ താള്‍ താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ ശേഖരിച്ചിട്ടുണ്ട്.">
 <!ENTITY identity.connectionVerified2 "താങ്കള്‍ സുരക്ഷിതമായി ഈ വെബ്‌ സൈറ്റിലേക്ക് കണക്റ്റ് ചെയ്തിട്ടുണ്ട്, പ്രവര്‍ത്തിപ്പിക്കുന്നത്:">
 <!ENTITY identity.connectionInternal "ഇതു് സുരക്ഷിതമായൊരു &brandShortName; താള്‍ ആകുന്നു.">
+<!ENTITY identity.extensionPage "ഒരു എക്സ്റ്റന്‍ഷനില്‍നിന്നാണ് ഈ പേജ് ലോഡ് ചെയ്തിരിക്കുന്നത്.">
+<!ENTITY identity.insecureLoginForms2 "ഈ പേജില്‍ എന്റര്‍ചെയ്യുന്ന ലോഗിനുകള്‍ വീഴ്ചകള്‍ക്കുവിധേയമായേക്കാം.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "ഈ താളിന്റെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ലാത്തതിനാല്‍ &brandShortName; അത് തടഞ്ഞിട്ടുണ്ട്.">
@@ -749,11 +782,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "കൂടുതല്‍ അറിയുക">
 
+<!ENTITY identity.removeCertException.label "എക്സപ്ഷൻ നീക്കം ചെയ്യുക">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "കൂടുതല്‍ വിവരങ്ങള്‍">
 
 <!ENTITY identity.permissions "ആനുകൂല്യങ്ങള്‍">
 <!ENTITY identity.permissionsEmpty "താങ്കള്‍ ഈ വെബ്‌ സൈറ്റിന് പ്രത്യേക അനുമതികള്‍ ഒന്നും നല്‍കിയിട്ടില്ല.">
+<!ENTITY identity.permissionsReloadHint "മാറ്റങ്ങൾ പ്രയോഗത്തിൽ വരുവാൻ പേജ് വീണ്ടും ലോഡുചെയ്യേണ്ടി വന്നേക്കാം.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -763,6 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
 <!ENTITY syncedTabs.sidebar.label              "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
+<!ENTITY syncedTabs.sidebar.noclients.label    "മറ്റു ഡിവൈസുകളിലെ ടാബുകള്‍ കാണാന്‍ അവയില്‍ നിന്നും ഫയര്‍ഫോക്സില്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "ഒരു ടാബും സിന്‍ക് ചെയ്തിട്ടില്ല …ഇതുവരെ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണാന്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
@@ -771,6 +808,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "സമന്വയിപ്പിച്ച ടാബുകൾ തിരയുക">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -789,6 +827,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "പകര്‍ത്തുക">
 <!ENTITY syncedTabs.context.copy.accesskey                   "പ">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "എല്ലാം ടാബുകളില്‍തുറക്കുക">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "ഡിവൈസ് നിയന്ത്രിക്കുവാൻ…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
@@ -801,10 +843,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "സിന്‍ക് ചെയ്യുക">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "നിങ്ങളുടെ പ്രിയപ്പെട്ട ഇനങ്ങൾ ടൂൾബാറിൽ അല്ലെങ്കിൽ ഓവർഫ്ലോ മെനുവിലേക്ക് ഡ്രാഗ് ചെയ്യുക.">
 <!ENTITY customizeMode.menuAndToolbars.empty "കൂടുതല്‍ പ്രയോഗങ്ങള്‍ ആവശ്യമുണ്ടോ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "അനേകം ആഡ്-ഓണുകളില്‍ നിന്നും തെരഞ്ഞെടുക്കുക">
 <!ENTITY customizeMode.restoreDefaults "സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക">
+<!ENTITY customizeMode.done "ചെയ്തു">
 <!ENTITY customizeMode.titlebar "തലക്കെട്ട് പട്ട">
+<!ENTITY customizeMode.extraDragSpace "സ്പെയ്സ് ഡ്രാഗ് ചെയ്യുക">
 <!ENTITY customizeMode.lwthemes "പ്രമേയങ്ങള്‍">
 <!ENTITY customizeMode.lwthemes.myThemes "എന്റെ പ്രമേയങ്ങള്‍">
 <!ENTITY customizeMode.lwthemes.recommended "ഉചിതമായതു്">
