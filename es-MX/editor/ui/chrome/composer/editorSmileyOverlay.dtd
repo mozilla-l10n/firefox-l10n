@@ -43,4 +43,16 @@
 <!ENTITY smiley12Cmd.accesskey "M">
 <!ENTITY smiley12Cmd.tooltip "Insertar una cara con dinero en la boca">
 <!ENTITY smiley13Cmd.label "Pie en boca">
+<!ENTITY smiley13Cmd.accesskey "o">
+<!ENTITY smiley13Cmd.tooltip "Insertar una cara con el pie en la boca">
+<!ENTITY smiley14Cmd.label "Inocente">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "Insertar una cara de inocente">
+<!ENTITY smiley15Cmd.label "Llorar">
+<!ENTITY smiley15Cmd.accesskey "r">
+<!ENTITY smiley15Cmd.tooltip "Insertar una cara llorando">
+<!ENTITY smiley16Cmd.label "Labios sellados">
+<!ENTITY smiley16Cmd.accesskey "a">
+<!ENTITY smiley16Cmd.tooltip "Insertar una cara con labios sellados">
+<!ENTITY SmileButton.tooltip "Insertar una cara sonriendo">
 
