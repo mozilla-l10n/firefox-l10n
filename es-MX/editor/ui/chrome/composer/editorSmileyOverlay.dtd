@@ -26,4 +26,21 @@
 <!ENTITY smiley6Cmd.tooltip "Insertar una cara avergonzada">
 <!ENTITY smiley7Cmd.label "Indeciso">
 <!ENTITY smiley7Cmd.accesskey "U">
+<!ENTITY smiley7Cmd.tooltip "Insertar una cara indecisa">
+<!ENTITY smiley8Cmd.label "Sorpresa">
+<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.tooltip "Insertar una cara sorprendida">
+<!ENTITY smiley9Cmd.label "Beso">
+<!ENTITY smiley9Cmd.accesskey "K">
+<!ENTITY smiley9Cmd.tooltip "Insertar una cara besando">
+<!ENTITY smiley10Cmd.label "Grito">
+<!ENTITY smiley10Cmd.accesskey "Y">
+<!ENTITY smiley10Cmd.tooltip "Insertar una cara gritando">
+<!ENTITY smiley11Cmd.label "Divertida">
+<!ENTITY smiley11Cmd.accesskey "C">
+<!ENTITY smiley11Cmd.tooltip "Insertar una cara divertida">
+<!ENTITY smiley12Cmd.label "Dinero en la boca">
+<!ENTITY smiley12Cmd.accesskey "M">
+<!ENTITY smiley12Cmd.tooltip "Insertar una cara con dinero en la boca">
+<!ENTITY smiley13Cmd.label "Pie en boca">
 
