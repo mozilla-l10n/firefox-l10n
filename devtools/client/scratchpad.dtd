@@ -1,13 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -17,9 +20,6 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-
-
-
 <!ENTITY window.title                 "Quaderno de prebatinas">
 
 <!ENTITY fileMenu.label               "Fichero">
@@ -65,8 +65,7 @@
 <!ENTITY largerFont.label             "Tipo de letra mas gran">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY largerFont.commandkey2       "="> 
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Tipo de letra mas chicot">
 <!ENTITY smallerFont.accesskey        "m">
@@ -89,37 +88,37 @@
 
 <!ENTITY display.label                "Amostrar">
 <!ENTITY display.accesskey            "A">
-<!ENTITY display.key                  "s">
+<!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Escoscar o codigo">
 <!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "g">
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-
 <!ENTITY environmentMenu.label        "Entorno">
 <!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "Conteniu">
 <!ENTITY contentContext.accesskey     "C">
+
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-
 <!ENTITY browserContext.label         "Navegador">
 <!ENTITY browserContext.accesskey     "v">
+
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-
 <!ENTITY helpMenu.label               "Aduya">
 <!ENTITY helpMenu.accesskey           "A">
 <!ENTITY helpMenuWin.label            "Aduya">
@@ -127,11 +126,11 @@
 
 <!ENTITY documentationLink.label      "Aduya d'o quaderno de prebatinas en o MDN">
 <!ENTITY documentationLink.accesskey  "d">
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-
-
 <!ENTITY resetContext2.label          "Restaurar as variables">
 <!ENTITY resetContext2.accesskey      "t">
 
@@ -141,16 +140,16 @@
 
 <!ENTITY executeMenu.label            "Executar">
 <!ENTITY executeMenu.accesskey        "x">
+
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
-
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
-
 <!ENTITY evalFunction.label "Evaluar a función actual">
 <!ENTITY evalFunction.accesskey "f">
 <!ENTITY evalFunction.key "e">
