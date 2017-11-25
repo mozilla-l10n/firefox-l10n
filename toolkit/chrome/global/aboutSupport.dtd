@@ -94,7 +94,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Preferencies de user.js">
 <!ENTITY aboutSupport.userJSDescription "La carpeta del perfil contień un <a id='prefs-user-js-link'>ficheru user.js</a> qu'inclúi preferencies que nun les creó &brandShortName;.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "Preferencies importantes bloquiaes">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Bloquiáronse preferencies imporantes">
 <!ENTITY aboutSupport.lockedPrefsName "Nome">
 <!ENTITY aboutSupport.lockedPrefsValue "Valor">
 
@@ -105,11 +105,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verificar integridá">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Recoyida de basoria incremental">
+<!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
 
 <!ENTITY aboutSupport.a11yTitle "Accesibilidá">
-<!ENTITY aboutSupport.a11yActivated "Activáu">
-<!ENTITY aboutSupport.a11yForceDisabled "Torgar accesibilidá">
+<!ENTITY aboutSupport.a11yActivated "Activóse">
+<!ENTITY aboutSupport.a11yForceDisabled "Evitar accesibilidá">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de biblioteques">
 
