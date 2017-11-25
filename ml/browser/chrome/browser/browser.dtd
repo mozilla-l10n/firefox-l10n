@@ -877,6 +877,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "തൊടുക">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "തൊടുക">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ടാബ്ലെറ്റ് മോഡിനുവേണ്ടി ടച്ച് ഉപയോഗിക്കുക">
@@ -968,12 +969,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "ഇപ്പോൾ വേണ്ട">
 <!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; ന്റെ ഒരു പുതിയ പകർപ്പ് ഡൌൺലോഡ് ചെയ്യുവാൻ">
 
+<!ENTITY updateRestart.message2 "റീസ്റ്റാർട്ടിങ്ങു് ശേഷം &brandShorterName; സ്വകാര്യ ബ്രൌസിംഗ് മോഡിൽ ഇല്ലാത്ത നിങ്ങളുടെ എല്ലാ ഓപ്പൺ ടാബുകളും വിൻഡോകളും പുനഃസ്ഥാപിക്കും.">
+<!ENTITY updateRestart.header.message2 "&brandShorterName; അപ്ഡേറ്റ് ചെയ്യുവാനായി റീസ്റ്റാർട്ട് ചെയ്യുക.">
+<!ENTITY updateRestart.acceptButton.label "റീ സ്റ്റാർട്ട് ചെയ്ത് പുനഃസ്ഥാപിക്കുക">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "ഇപ്പോൾ വേണ്ട">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; അപ്ഡേറ്റ് ചെയ്യുവാനായി റീ സ്റ്റാർട്ട് ചെയ്യുക">
 
+<!ENTITY pageActionButton.tooltip "പേജ് പ്രവർത്തനങ്ങൾ">
+<!ENTITY pageAction.addToUrlbar.label "അഡ്രസ് ബാറിലേക്ക് ചേർക്കുക">
+<!ENTITY pageAction.removeFromUrlbar.label "അഡ്രസ് ബാറിൽ നിന്ന് നീക്കം ചെയ്യുക">
 
+<!ENTITY pageAction.sendTabToDevice.label "ടാബ് മറ്റൊരുപകരണത്തിലേക്കയക്കുക">
+<!ENTITY sendToDevice.syncNotReady.label "ഉപകരണങ്ങള്‍ സിങ്ക് ചെയ്യുന്നു…">
 
+<!ENTITY libraryButton.tooltip "ഹിസ്റ്ററിയും സേവുചെയ്ത ബുക്‍മാര്‍ക്കുളും മറ്റും കാണിക്കുക">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "അക്സസ്സിബിലിറ്റി ഫീച്ചേര്‍സ് സജ്ജമാണ്">
