@@ -5,19 +5,23 @@
 <!ENTITY aboutSupport.pageTitle "Información pa iguar problemes">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "Esta páxina contién información téunica que pue ser útil cuando intentes iguar un problema. Si tas guetando rempuestes a entrugues frecuentes tocante a &brandShortName;, mira nel <a id='supportLink'>sitiu de sofitu téunicu</a>.">
+<!ENTITY aboutSupport.pageSubtitle "
+  Esta páxina contién información téunica que podría ser útil cuando teas
+  tentando d'iguar un problema. Si guetes rempuestes a entruges fecuentes
+  tocante a &brandShortName;, écha-y un güeyu al nuesu <a id='supportLink'>sitiu web de sofitu</a>.
+">
 
-<!ENTITY aboutSupport.crashes.title "Informes de fallos">
+<!ENTITY aboutSupport.crashes.title "Informes de casques">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID del informe">
-<!ENTITY aboutSupport.crashes.sendDate "Unviáu">
-<!ENTITY aboutSupport.crashes.allReports "Tolos informes de fallu">
-<!ENTITY aboutSupport.crashes.noConfig "Esta aplicación nun se configuró p'amosar informes de fallos.">
+<!ENTITY aboutSupport.crashes.sendDate "Unvióse">
+<!ENTITY aboutSupport.crashes.allReports "Tolos informes de casques">
+<!ENTITY aboutSupport.crashes.noConfig "Esta aplicación nun se configuró p'amosar informes de casques.">
 
 <!ENTITY aboutSupport.extensionsTitle "Estensiones">
 <!ENTITY aboutSupport.extensionName "Nome">
-<!ENTITY aboutSupport.extensionEnabled "Activada">
+<!ENTITY aboutSupport.extensionEnabled "Activóse">
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
 
@@ -30,8 +34,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentName "Nome">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Descripción">
-<!ENTITY aboutSupport.experimentActive "Activu">
-<!ENTITY aboutSupport.experimentEndDate "Data de finalización">
+<!ENTITY aboutSupport.experimentActive "Activóse">
+<!ENTITY aboutSupport.experimentEndDate "Data de fin">
 <!ENTITY aboutSupport.experimentHomepage "Páxina d'aniciu">
 <!ENTITY aboutSupport.experimentBranch "Rama">
 
@@ -123,3 +127,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Rexistru de decisión">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Carauterístiques de proteición escontra fallos deshabilitaes">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluciones">
+
