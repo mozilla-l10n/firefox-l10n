@@ -119,7 +119,7 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalizar…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
-<!ENTITY  event.menu.view.showlink.label                  "Mostrar hiperligações relacionadas">
+<!ENTITY  event.menu.view.showlink.label                  "Mostrar ligações relacionadas">
 <!ENTITY  event.menu.view.showlink.accesskey              "r">
 
 <!ENTITY  event.menu.options.label                            "Opções">
@@ -241,7 +241,7 @@
 <!ENTITY event.attachments.popup.removeAll.accesskey      "t" >
 <!ENTITY event.attachments.popup.attachPage.label         "Anexar página Web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
-<!ENTITY event.url.label                                  "Hiperligação relacionada:" >
+<!ENTITY event.url.label                                  "Ligação relacionada:" >
 <!ENTITY event.priority2.label                            "Prioridade:">
 
 <!ENTITY event.reminder.none.label                        "Sem lembrete " >
@@ -415,4 +415,4 @@
 <!ENTITY read.only.attachments.label     "Anexos:">
 <!ENTITY read.only.attendees.label       "Participantes">
 <!ENTITY read.only.description.label     "Descrição">
-<!ENTITY read.only.link.label            "Hiperligação relacionada">
+<!ENTITY read.only.link.label            "Ligação relacionada">
