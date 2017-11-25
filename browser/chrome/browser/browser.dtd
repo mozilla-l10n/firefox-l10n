@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "S">
 <!ENTITY showAllTabsCmd.label "Dangos Pob Tab">
 <!ENTITY showAllTabsCmd.accesskey "a">
-<!ENTITY toggleReaderMode.key "D">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Mewngofnodi i &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Agor dewisiadau &syncBrand.shortName.label;">
@@ -427,7 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 <!ENTITY moreMenu.label "Rhagor">
 
-<!ENTITY openCmd.commandkey           "I">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Chwilio neu gyfeiriad gwe">
 <!ENTITY urlbar.accesskey             "g">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
