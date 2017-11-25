@@ -104,14 +104,14 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile           "Filtri skriptojn">
-<!ENTITY debuggerUI.searchFile.key       "s">
+<!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "s">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 <!ENTITY debuggerUI.searchGlobal           "Serĉi en ĉiuj dosieroj">
-<!ENTITY debuggerUI.searchGlobal.key       "d">
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "d">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
@@ -123,7 +123,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken           "Serĉi">
-<!ENTITY debuggerUI.searchToken.key       "S">
+<!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
@@ -151,18 +151,18 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak     "Aldoni haltopunkton">
-<!ENTITY debuggerUI.seMenuBreak.key "h">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Aldoni kondiĉan haltopunkton">
-<!ENTITY debuggerUI.seMenuCondBreak.key "k">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Redakti kondiĉan haltopunkton">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "k">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
@@ -176,7 +176,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "Observa esprimo el elektaĵo">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "O">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
@@ -186,7 +186,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch           "Forigi ĉiujn observajn esprimojn">
-<!ENTITY debuggerUI.removeAllWatch.key       "F">
+<!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "F">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that

@@ -25,7 +25,7 @@
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "E">
 <!ENTITY findCmd.label             "Serĉi">
-<!ENTITY findCmd.key               "M">
+<!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "S">
 <!ENTITY findAgainCmd.label        "Serĉi denove">
 <!ENTITY findAgainCmd.key          "G">
