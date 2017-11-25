@@ -270,10 +270,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Adicionar uma palavra-chave para esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "A">
 
-<!ENTITY downloads.label              "Descarregamentos">
+<!ENTITY downloads.label              "Descargas">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
-<!ENTITY libraryDownloads.label       "Descarregamentos">
+<!ENTITY libraryDownloads.label       "Descargas">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">

@@ -25,7 +25,7 @@
 <!ENTITY tabCrashed.sendReport3 "Enviar um relatório de falha automatizado para que possamos reparar problemas como este.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentários opcionais (os comentários são publicamente visíveis)">
 <!ENTITY tabCrashed.includeURL3 "Incluir os URLs dos sites em que estava quando o &brandShortName; falhou.">
-<!ENTITY tabCrashed.emailPlaceholder "Digite o seu endereço de email aqui">
+<!ENTITY tabCrashed.emailPlaceholder "Introduza o seu endereço de email aqui">
 <!ENTITY tabCrashed.emailMe "Enviar-me um email quando estiverem disponíveis mais informações">
 <!ENTITY tabCrashed.reportSent "Relatório de falha já submetido; obrigado por ajudar a tornar o &brandShortName; melhor!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Reportar separadores em segundo plano">

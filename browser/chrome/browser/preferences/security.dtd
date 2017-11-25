@@ -16,7 +16,7 @@
 <!ENTITY  enableSafeBrowsing.label        "Bloquear conteúdo perigoso e decetivo">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
-<!ENTITY  blockDownloads.label            "Bloquear descarregamentos perigosos">
+<!ENTITY  blockDownloads.label            "Bloquear descargas perigosas">
 <!ENTITY  blockDownloads.accesskey        "d">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "Avisar-lhe acerca de software não-solicitado e incomum">

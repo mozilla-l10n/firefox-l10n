@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Histórico">
 <!ENTITY dataSection.label            "Dados">
 
-<!ENTITY itemHistoryAndDownloads.label     "Histórico de navegação e de descarregamentos">
+<!ENTITY itemHistoryAndDownloads.label     "Histórico de navegação e de descargas">
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemFormSearchHistory.label       "Histórico de pesquisa">
 <!ENTITY itemFormSearchHistory.accesskey   "q">
