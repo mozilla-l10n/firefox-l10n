@@ -61,7 +61,7 @@
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "Nun s'aconseya desactivar la carauterística de restolar seguro darréu que podría facer que visites sitios non seguros. Si desees desactviar dafechu la carauterística, sigui estos pasos:">
 <!ENTITY rights.safebrowsing-term1 "Abri les preferencies de l'aplicación">
-<!ENTITY rights.safebrowsing-term2 "Esbilla'l panel de Seguranza">
+<!ENTITY rights.safebrowsing-term2 "Esbilla'l panel Seguranza">
 <!ENTITY rights2.safebrowsing-term3 "Nun conseñes la opción a «&enableSafeBrowsing.label;»">
 <!ENTITY rights.safebrowsing-term4 "Agora la navegación segura ta desactivada">
 
