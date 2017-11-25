@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "എല്ലാ റ്റാബുകളും കാണിക്കുക">
 <!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY toggleReaderMode.key "ആർ">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;-ലേക്ക് പ്രവേശിയ്ക്കുക">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; മുന്‍ഗണനകള്‍ തുറക്കുക">
