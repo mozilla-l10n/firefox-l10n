@@ -48,15 +48,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Canal d'anovamientu">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Historial d'anovamientos">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Amosar l'historial d'anovamientos">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Amosar historial d'anovamientos">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Direutoriu de perfil ">
+<!ENTITY aboutSupport.appBasicsProfileDir "Direutoriu del perfil">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta del perfil">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activaos">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Complementos activaos">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Axente d'usuariu">
 <!ENTITY aboutSupport.appBasicsOS "SO">
@@ -64,13 +64,16 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsPerformance "Rindimientu">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutSupport.appBasicsServiceWorkers "Trabayadores de serviciu rexistraos">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Trabayadores rexistraos del serviciu">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Perfiles">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ventanes multiprocesu">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procesos de conteníu web">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Clave de Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Clave del serviciu d'allugmientu de Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mou seguru">
 
@@ -83,13 +86,13 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "Abrir carpeta">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferencies importantes modificaes">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Modificáronse preferencies importantes">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
-<!ENTITY aboutSupport.userJSTitle "Preferencies en user.js">
-<!ENTITY aboutSupport.userJSDescription "La to carpeta del perfil contień un <a id='prefs-user-js-link'>ficheru user.js</a>, qu'inclúi preferencies que nun se crearon por &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "Preferencies de user.js">
+<!ENTITY aboutSupport.userJSDescription "La carpeta del perfil contień un <a id='prefs-user-js-link'>ficheru user.js</a> qu'inclúi preferencies que nun les creó &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Preferencies importantes bloquiaes">
 <!ENTITY aboutSupport.lockedPrefsName "Nome">
