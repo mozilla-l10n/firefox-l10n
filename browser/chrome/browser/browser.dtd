@@ -850,6 +850,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.done "ചെയ്തു">
 <!ENTITY customizeMode.titlebar "തലക്കെട്ട് പട്ട">
 <!ENTITY customizeMode.extraDragSpace "സ്പെയ്സ് ഡ്രാഗ് ചെയ്യുക">
+<!ENTITY customizeMode.toolbars2 "ടൂൾബാറുകൾ">
 <!ENTITY customizeMode.lwthemes "പ്രമേയങ്ങള്‍">
 <!ENTITY customizeMode.lwthemes.myThemes "എന്റെ പ്രമേയങ്ങള്‍">
 <!ENTITY customizeMode.lwthemes.recommended "ഉചിതമായതു്">
@@ -857,16 +858,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "കൂടുതല്‍ തീമുകള്‍ ലഭ്യമാക്കുക">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "ടൂള്‍ബാറില്‍ നിന്നു മാറി, കയ്യകലത്തില്‍ വക്കാനായി ഇങ്ങോട്ട് വലിച്ചിടുക…">
+<!ENTITY customizeMode.overflowList.title2 "ഓവർഫ്ളോ മെനു">
+<!ENTITY customizeMode.overflowList.description "ടൂള്‍ബാറില്‍ നിന്നു മാറി, കയ്യകലത്തില്‍ വക്കാനായി ഇങ്ങോട്ട് വലിച്ചിടുക…">
+<!ENTITY customizeMode.uidensity "സാന്ദ്രത">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "സാധാരണ">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "സാധാരണ">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "കോംപാക്റ്റ്">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "കോംപാക്റ്റ്">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "തൊടുക">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ടാബ്ലെറ്റ് മോഡിനുവേണ്ടി ടച്ച് ഉപയോഗിക്കുക">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "യാന്ത്രികമായ- മറയ്ക്കൽ">
 
 <!ENTITY getUserMedia.selectCamera.label "പങ്കിടുവാനുള്ള ക്യാമറ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "മ">
@@ -937,7 +952,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "മികച്ച വേഗതയ്ക്കും സ്വകാര്യതക്കും നിങ്ങളുടെ &brandShorterName; അപ്ഡേറ്റ് ചെയ്യുക.">
+<!ENTITY updateAvailable.whatsnew.label "പുതിയതായി എന്താണ് ഉള്ളതെന്ന് കാണുക.">
+<!ENTITY updateAvailable.header.message "പുതിയ &brandShorterName; അപ്ഡേറ്റ് ലഭ്യമാണ്.">
+<!ENTITY updateAvailable.acceptButton.label "അപ്ഡേറ്റ് ഡൗൺലോഡ് ചെയ്യുവാൻ">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "ഇപ്പോൾ വേണ്ട">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; അപ്ഡേറ്റ് ഡൗൺലോഡ് ചെയ്യുക">
 
+<!ENTITY updateManual.message "&brandShorterName; ന്റെ പുതിയ പകർപ്പ് ഡൌൺലോഡ് ചെയ്യുക. അത് ഇൻസ്റ്റാൾ ചെയ്യാൻ ഞങ്ങൾ നിങ്ങളെ സഹായിക്കാം.">
+<!ENTITY updateManual.whatsnew.label "പുതിയതായി എന്താണ് ഉള്ളത് എന്ന് കാണുക.">
+<!ENTITY updateManual.header.message "&brandShorterName; നു പുതിയ പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്യാൻ കഴിയില്ല.">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; ഡൌൺലോഡ് ചെയ്യുക">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "ഇപ്പോൾ വേണ്ട">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 
 
 
