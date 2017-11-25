@@ -23,43 +23,43 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Delles carauterístiques en &brandShortName;, como por exemplu l'informador de casques, dante la opción d'apurrir comentarios a &vendorShortName;. Escoyendo unvialu, das-y a &vendorShortName; permisu pa usar el feedback p'ameyorar los sos productos, pa espublizalu nos sos sitios web y pa distribuyilu.">
+<!ENTITY rights.intro-point2.5 "Delles carauterístiques en &brandShortName;, como por exemplu l'informador de casques, dante la opción d'apurrir comentarios a &vendorShortName;. Escoyendo unvialu, das-y a &vendorShortName; permisu pa usar les opiniones p'ameyorar los sos productos, pa espublizalu nos sos sitios web y pa distribuyilu.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "La manera na qu'usamos la to información personal y les opiniones unviaes a &vendorShortName; a traviés de &brandShortName; descríbese na ">
+<!ENTITY rights2.intro-point3a "El mou nel qu'usamos la to información personal y les opiniones unviaes a &vendorShortName; pente &brandShortName; descríbese na ">
 <!ENTITY rights2.intro-point3b "Política de privacidá de &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Toles polítiques de privacidá aplicables a esti productu tienen qu'apaecer enumberaes equí.">
+<!ENTITY rights.intro-point3-unbranded "Toles polítiques de privacidá aplicables a esti productu deberíen llistase equí.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Dalgunes carauterístiques de &brandShortName; faen usu uso de servicios d'información basaos en web; sicasí, nun podemos garantizar que seyan 100&#037; precisos nin llibres d'errores. Pues alcontrar más detalles, incluyendo información tocante a cómo desactivar les carauterístiques qu'usen estos servicios, nos ">
+<!ENTITY rights2.intro-point4a "Delles carauterístiques de &brandShortName; usen servicios d'información basaos na web; por embargu, nun podemos garantizar que seyan 100&#037; precisos nin llibres de fallos. Pues alcontrar más detalles, incluyendo información tocante a cómo desactivar les carauterístiques qu'usen estos servicios, nos ">
 <!ENTITY rights.intro-point4b "términos del serviciu">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Si esti productu incorpora servicios web, cualesquier términu de serviciu aplicable al serviciu (o servicios) tendrán d'enllazase en ">
+<!ENTITY rights.intro-point4a-unbranded "Si esti productu incorpora servicios web, cualesquier términu de serviciu aplicable al serviciu (o servicios) deberíen enllazase en ">
 <!ENTITY rights.intro-point4b-unbranded "Servicios de sitiu web">
 <!ENTITY rights.intro-point4c-unbranded " seición.">
 
-<!ENTITY rights2.webservices-header "Servicios d'información de &brandFullName; basaos en web">
+<!ENTITY rights2.webservices-header "Servicios d'información de &brandFullName; basaos na web">
 
 <!-- point 5 -->
-<!ENTITY rights.intro-point5 "Pa reproducir ciertes tribes de conteníu de videu. &brandShortName; baxa ciertos módulos de descifráu de conteníu dende terceres partes.">
+<!ENTITY rights.intro-point5 "Pa reproducir ciertes tribes de conteníu de videu, &brandShortName; baxa ciertos módulos de descifráu de conteníu dende terceres partes.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName;&brandFullName; usa servicios d'información basaos na web («Servicios») pa fornir delles carauterístiques apurríes pol to usu con esta versión binaria de &brandShortName; so los términos descritos embaxo. Si nun quies usar ún o más de los Servicios, o los términos d'embaxo son inaceutables, quiciabes quieras deshabilitar la carauterística Serviciu(os). Quciabes alcuentres les instrucciones en cómo deshabilitar la carauterística o Serviciu ">
+<!ENTITY rights2.webservices-a "&brandFullName;&brandFullName; usa servicios d'información basaos na web («Servicios») pa fornir delles carauterístiques apurríes pol to usu con esta versión binaria de &brandShortName; so los términos descritos embaxo. Si nun quies usar ún o más de los servicios, o los términos d'embaxo son inaceutables, quiciabes quieras desactivar la carauterística serviciu(os). Podríes alcontrar les instrucciones en cómo desactivar la carauterística o serviciu ">
 <!ENTITY rights2.webservices-b "equí">
 <!ENTITY rights3.webservices-c ". Otres carauterístiques y servicios puen desactivase nes preferencies de l'aplicación.">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "Navegación segura:">
-<!ENTITY rights.safebrowsing-b "Desactivar la carauterística de navegación segura nun se recomienda porque pue dar como resultáu que visites sitios non seguros. Si quies desactivar la carauterística dafechu, sigui estos pasos:">
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Nun s'aconseya desactivar la carauterística de restolar seguro darréu que podría facer que visites sitios non seguros. Si desees desactviar dafechu la carauterística, sigui estos pasos:">
 <!ENTITY rights.safebrowsing-term1 "Abri les preferencies de l'aplicación">
 <!ENTITY rights.safebrowsing-term2 "Esbilla'l panel de Seguranza">
 <!ENTITY rights2.safebrowsing-term3 "Nun conseñes la opción a «&enableSafeBrowsing.label;»">
