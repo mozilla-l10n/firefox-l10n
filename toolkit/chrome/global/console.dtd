@@ -27,7 +27,7 @@
 
 <!ENTITY copyCmd.label       "Kopii">  
 <!ENTITY copyCmd.accesskey   "K"> 
-<!ENTITY copyCmd.commandkey  "K"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Konsideri unua > lasta por ordigo">
 <!ENTITY sortFirst.accesskey "k">
 <!ENTITY sortLast.label      "Konsideri lasta > unua por ordigo">
