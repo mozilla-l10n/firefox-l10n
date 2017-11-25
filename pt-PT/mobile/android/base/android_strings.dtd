@@ -272,7 +272,7 @@
 <!ENTITY pref_show_web_fonts_summary2 "Descarregar fontes remotas ao carregar uma página">
 
 <!ENTITY pref_tracking_protection_title2 "Proteção contra monitorização">
-<!ENTITY pref_donottrack_title "Não monitorizar">
+<!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "O &brandShortName; irá informar os sites que não deseja ser monitorizado">
 
 <!ENTITY pref_tracking_protection_enabled "Ativada">
@@ -381,7 +381,7 @@
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline do website">
 <!ENTITY pref_private_data_siteSettings2 "Definições do site">
-<!ENTITY pref_private_data_downloadFiles2 "Descarregamentos">
+<!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Separadores sincronizados">
 
 <!ENTITY pref_default_browser "Tornar navegador predefinido">
@@ -446,7 +446,7 @@
 
 <!ENTITY addons "Extras">
 <!ENTITY logins "Credenciais">
-<!ENTITY downloads "Descarregamentos">
+<!ENTITY downloads "Descargas">
 <!ENTITY char_encoding "Codificação de caracteres">
 
 <!ENTITY share "Partilhar">
