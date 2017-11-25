@@ -217,6 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "താങ്കളുടെ മൈക്രോഫോണ്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "താങ്കളുടെ ജാലകം അല്ലെങ്കില്‍ സ്ക്രീന്‍ സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ഇൻസ്റ്റാൾ മെസ്സേജ് പാനൽ തുറക്കുക">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ഈ താള്‍ തര്‍ജ്ജമ ചെയ്യുക">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "താള്‍ തര്‍ജ്ജമ ചെയ്യുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "ഡിആര്‍എം സോഫ്റ്റ്‌വെയറിന്റെ ഉപയോഗം ക്രമീകരിക്കുക">
@@ -227,7 +228,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ഈ വെബ് സൈറ്റിന് നിങ്ങൾ എവിടെയെന്നുള്ള വിവരം ലഭ്യമല്ല.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "നിങ്ങൾ ഈ വെബ്സൈറ്റിന്റെ ഡാറ്റ സൂക്ഷിപ്പ് തടഞ്ഞിരിക്കയാണ്.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ഈ വെബ് സൈറ്റിന് അറിയിപ്പുകൾ ലഭ്യമല്ല.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "നിങ്ങൾ ഈ വെബ് സൈറ്റ്ലെ സ്ഥിര ഡാറ്റ സൂക്ഷിപ്പ്  തടഞ്ഞിരിക്കുകയാണ്">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
 
@@ -244,7 +247,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarksMenuButton.mobile.label   "മൊബൈൽ അടയാളകുറിപ്പുകള്‍">
 <!ENTITY viewBookmarksSidebar2.label        "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
+<!ENTITY hideBookmarksSidebar.label         "ബുക്ക്മാർക്ക് സൈഡ്ബാർ മറയ്ക്കുക">
 <!ENTITY viewBookmarksToolbar.label         "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
+<!ENTITY hideBookmarksToolbar.label         "ബുക്ക്മാർക്ക് ടൂൾ ബാർ മറയ്ക്കുക">
+<!ENTITY searchBookmarks.label              "ബുക്ക്മാർക്ക് തിരയുക">
+<!ENTITY bookmarkingTools.label             "ബുക്ക്‌മാർക്കിങ് ഉപകരണങ്ങൾ">
+<!ENTITY addBookmarksMenu.label             "ബൂക്കമാർക്ക് മെനു ടൂൾ ബാർലേക്ക് ചേർക്കുക">
+<!ENTITY removeBookmarksMenu.label          "ടൂൾബാറിൽ നിന്ന് ബൂക്കമാർക്ക് മെനു നീക്കം ചെയ്യുക">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -329,6 +338,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "ഇച്ഛാനുസൃതമാക്കുക...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "ടൂൾബാർ ഇഷ്ടമുള്ള രീതിയിൽ ആക്കുക…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "നാള്‍വഴി">
 <!ENTITY historyMenu.accesskey "s">
