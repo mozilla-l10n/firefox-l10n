@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Паказаць усе карткі">
 <!ENTITY showAllTabsCmd.accesskey "у">
-<!ENTITY toggleReaderMode.key "К">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Увайсці ў &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Адкрыць налады &syncBrand.shortName.label;">
@@ -709,7 +709,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "З">
 
-<!ENTITY toggleMuteCmd.key              "Ь">
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Стыль старонкі">
 <!ENTITY pageStyleMenu.accesskey "С">

@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "Спіс">
-<!ENTITY windowClose.key              "ц">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Скасаваць">
 <!ENTITY button.cancel.accesskey      "С">
