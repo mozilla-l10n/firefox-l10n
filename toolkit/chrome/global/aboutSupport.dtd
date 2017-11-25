@@ -110,14 +110,26 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Accesibilidá">
 <!ENTITY aboutSupport.a11yActivated "Activóse">
 <!ENTITY aboutSupport.a11yForceDisabled "Evitar accesibilidá">
+<!ENTITY aboutSupport.a11yHandlerUsed "Usóse'l remanador accesible">
+<!ENTITY aboutSupport.a11yInstantiator "Instanciador d'accesibilidá">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de biblioteques">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instalaciones">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial d'anovamientos">
 
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copiar testu al cartafueyu">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en bruto al cartafueyu">
 
 <!ENTITY aboutSupport.sandboxTitle "Entornu de pruebes">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Llamaes al sistema refugaes">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Hai segundos">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Triba de procesu">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Llamada al sistema">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar de mou seguru">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reaniciar con complementos desactivaos…">
@@ -127,7 +139,19 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Rexistru de fallos">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-<!ENTITY aboutSupport.graphicsDecisionLogTitle "Rexistru de decisión">
-<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Carauterístiques de proteición escontra fallos deshabilitaes">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Rexistru de decisiones">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Carauterístiques desactivaes del guardián de casques">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluciones">
 
+<!ENTITY aboutSupport.mediaTitle "Medios">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Preseos de salida">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Preseos d'entrada">
+<!ENTITY aboutSupport.mediaDeviceName "Nome">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupu">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vendedor">
+<!ENTITY aboutSupport.mediaDeviceState "Estáu">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferíu">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formatu">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canal">
+<!ENTITY aboutSupport.mediaDeviceRate "Tasa">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latencia">
