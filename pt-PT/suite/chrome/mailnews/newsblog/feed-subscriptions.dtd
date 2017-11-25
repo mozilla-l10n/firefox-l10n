@@ -27,7 +27,7 @@
 <!ENTITY biffDays.accesskey          "d">
 <!ENTITY recommendedUnits.label      "O publicador recomenda:">
 
-<!ENTITY quickMode.label             "Mostrar resumo do artigo em vez de carregar a página Web">
+<!ENTITY quickMode.label             "Mostrar o resumo do artigo em vez de carregar a página web">
 <!ENTITY quickMode.accesskey         "M">
 
 <!ENTITY autotagEnable.label         "Criar etiquetas automaticamente a partir dos nomes de &lt;categorias&gt; da fonte">

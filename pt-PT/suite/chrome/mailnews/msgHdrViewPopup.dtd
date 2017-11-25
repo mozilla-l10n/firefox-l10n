@@ -17,9 +17,9 @@
 <!ENTITY CreateFilterFrom.accesskey        "f">
 <!ENTITY openInBrowser.label               "Abrir no navegador">
 <!ENTITY openInBrowser.accesskey           "o">
-<!ENTITY bookmarkLinkCmd.label             "Adicionar hiperligação aos marcadores…">
+<!ENTITY bookmarkLinkCmd.label             "Adicionar ligação aos marcadores…">
 <!ENTITY bookmarkLinkCmd.accesskey         "A">
-<!ENTITY copyLinkCmd.label                 "Copiar localização da hiperligação">
+<!ENTITY copyLinkCmd.label                 "Copiar localização da ligação">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "Copiar o ID da mensagem">
 <!ENTITY CopyMessageId.accesskey           "C">

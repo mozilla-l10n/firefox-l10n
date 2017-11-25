@@ -7,7 +7,7 @@
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "Cache">
 <!ENTITY pref.cache.caption              "Aplicar opções de cache">
-<!ENTITY cachePara                       "A cache mantém cópias das páginas Web visitadas frequentemente no seu disco rígido. (Clicar em Recarregar mostra sempre a última versão da página.)">
+<!ENTITY cachePara                       "A cache mantém cópias das páginas web visitadas frequentemente no seu disco rígido. (Clicar em Recarregar mostra sempre a última versão da página.)">
 <!ENTITY cacheCheck.label                "Deixar o &brandShortName; gerir o tamanho da minha cache">
 <!ENTITY cacheCheck.accesskey            "D">
 <!ENTITY diskCacheUpTo.label             "Utilizar até">
@@ -26,6 +26,6 @@
 <!ENTITY checkNever.label                "Nunca">
 <!ENTITY checkAutomatically.label        "Se a página estiver desatualizada">
 
-<!ENTITY prefetchTitle.label             "Hiperligação de pré-carregamento">
-<!ENTITY enablePrefetch.label            "Pré-carregar páginas Web quando estiver em espera, para que as hiperligações em páginas Web passíveis de pré-carregamento possam ser carregadas mais rapidamente">
+<!ENTITY prefetchTitle.label             "Ligação de pré-carregamento">
+<!ENTITY enablePrefetch.label            "Pré-carregar páginas web quando estiver em espera, para que ligações em páginas web passíveis de pré-carregamento possam ser carregadas mais rapidamente">
 <!ENTITY enablePrefetch.accesskey        "P">

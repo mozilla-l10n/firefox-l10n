@@ -37,14 +37,14 @@
 <!ENTITY rights.intro-point4b "termos do serviço">
 <!ENTITY rights.intro-point4c ".">
 
-<!ENTITY rights.webservices-header "Serviços Web do &brandFullName;">
+<!ENTITY rights.webservices-header "Serviços de websites do &brandFullName;">
 
 <!-- Note that this paragraph references entities from extensions.dtd,
      preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "O &brandFullName; oferece serviços Web opcionais (&quot;Serviços&quot;) que estão disponíveis para sua utilização com esta versão binária do &brandShortName;, tal como descrito abaixo.  Alguns destes serviços (tais como os serviços de sugestões e atualização de extras, o serviço de navegação segura ou a funcionalidade de notificação de navegação com conhecimento da localização) estão ativas por predefinição. Se não quiser utilizar qualquer um destes serviços ou os termos abaixo não são aceitáveis, instruções para desativar uma determinada funcionalidade ou serviços podem ser encontradas ">
+<!ENTITY rights3.webservices-a "O &brandFullName; oferece serviços web opcionais (&quot;Serviços&quot;) que estão disponíveis para sua utilização com esta versão binária do &brandShortName;, tal como descrito abaixo.  Alguns destes serviços (tais como os serviços de sugestões e atualização de extras, o serviço de navegação segura ou a funcionalidade de notificação de navegação com conhecimento da localização) estão ativas por predefinição.  Se não quiser utilizar qualquer um destes serviços ou os termos abaixo não são aceitáveis, instruções para desativar uma determinada funcionalidade ou serviços podem ser encontradas ">
 <!ENTITY rights3.webservices-b "aqui">
 <!ENTITY rights3.webservices-c ". Outras funcionalidades e serviços podem ser ativados ou desativados nas preferências da aplicação.">
 

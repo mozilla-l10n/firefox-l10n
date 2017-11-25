@@ -14,7 +14,7 @@
 
 <!ENTITY contextSendThisPage.label       "Enviar esta página…">
 <!ENTITY contextSendThisPage.accesskey   "s">
-<!ENTITY contextSendThisLink.label       "Enviar esta hiperligação…">
+<!ENTITY contextSendThisLink.label       "Enviar esta ligação…">
 <!ENTITY contextSendThisLink.accesskey   "g">
 <!ENTITY contextSendImage.label          "Enviar imagem…">
 <!ENTITY contextSendImage.accesskey      "n">
@@ -25,6 +25,6 @@
 <!ENTITY contextSendFrame.label          "Enviar frame…">
 <!ENTITY contextSendFrame.accesskey      "v">
 
-<!ENTITY sendLinkCmd.label               "Enviar hiperligação…"> 
+<!ENTITY sendLinkCmd.label               "Enviar ligação…"> 
 <!ENTITY sendLinkCmd.accesskey           "n">
 

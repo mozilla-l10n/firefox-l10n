@@ -14,5 +14,5 @@
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "Ctrl+Enter na barra de localização">
 <!ENTITY urlbar.accesskey             "l">
-<!ENTITY middleClick.label            "Clique central, Ctrl+clique ou Ctrl+Enter em hiperligações de uma página Web">
+<!ENTITY middleClick.label            "Clique central, Ctrl+clique ou Ctrl+Enter em ligações de uma página Web">
 <!ENTITY middleClick.accesskey        "c">

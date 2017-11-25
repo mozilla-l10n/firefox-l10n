@@ -13,7 +13,7 @@
 <!ENTITY findAsYouTypeEnableAuto.accesskey "L">
 <!ENTITY findAsYouTypeAutoText.label "Qualquer texto na página">
 <!ENTITY findAsYouTypeAutoText.accesskey "a">
-<!ENTITY findAsYouTypeAutoLinks.label "Apenas hiperligações">
+<!ENTITY findAsYouTypeAutoLinks.label "Apenas ligações">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "l">
 
 <!ENTITY findAsYouTypeFindbarEnable.label "Mostrar barra de ferramentas Localizar ao escrever">
