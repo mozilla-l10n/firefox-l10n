@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Zəmanətiniz ləğv oluna bilər!">
 <!ENTITY aboutWarningText.label "Bu təkmilləşmiş dəyərləri dəyişdirmək bu tətbiqin sabitliyinə, təhlükəsizliyinə və performansına zərər verə bilər. Sadəcə nə etdiyinizə əminsinizsə davam etməlisiniz.">
 <!ENTITY aboutWarningButton2.label "Riski qəbul edirəm!">
@@ -13,20 +13,20 @@
 
 <!ENTITY searchPrefs.label "Axtar:">
 <!ENTITY searchPrefs.accesskey "A">
-<!ENTITY focusSearch.key "k">
+<!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Parametr adı">
 <!ENTITY lockColumn.label "Durum">
 <!ENTITY typeColumn.label "Format">
 <!ENTITY valueColumn.label "Dəyər">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Sıralamak için tıklayın"> 
 <!ENTITY columnChooser.tooltip "Sütunları görmək üçün seçib klikləyin"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Köçür">
 <!ENTITY copyPref.accesskey "K">
