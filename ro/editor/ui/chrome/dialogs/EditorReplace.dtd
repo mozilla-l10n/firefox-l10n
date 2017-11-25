@@ -9,6 +9,7 @@
 <!ENTITY findField.accesskey "a">
 <!ENTITY replaceField.label "Înlocuiește cu:">
 <!ENTITY replaceField.accesskey "n">
+<!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Împrejur">
 <!ENTITY wrapCheckbox.accesskey "p">
 <!ENTITY backwardsCheckbox.label "Caută înapoi">

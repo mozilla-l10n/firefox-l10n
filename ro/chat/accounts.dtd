@@ -30,6 +30,7 @@
 <!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Mutare în sus">
 <!ENTITY account.movedown.label       "Mutare în jos">
+<!ENTITY account.cancelReconnection.label         "Anulează reconectarea">
 <!ENTITY account.cancelReconnection.accesskey     "A">
 <!ENTITY account.copyDebugLog.label     "Copiază diagnosticarea">
 <!ENTITY account.copyDebugLog.accesskey "C">
