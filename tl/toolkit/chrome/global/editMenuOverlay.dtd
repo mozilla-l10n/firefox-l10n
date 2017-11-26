@@ -15,7 +15,7 @@
 <!ENTITY deleteCmd.accesskey       "B">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY findCmd.label             "Hanapin">
-<!ENTITY findCmd.key               "H">
+<!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "H">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">

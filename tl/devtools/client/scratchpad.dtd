@@ -44,7 +44,7 @@
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "Close">
-<!ENTITY closeCmd.key                 "I">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
 <!ENTITY viewMenu.label               "Tingnan">

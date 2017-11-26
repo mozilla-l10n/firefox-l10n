@@ -258,7 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "H">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Kasaysayan">
@@ -328,7 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY clearRecentHistory.label               "Burahin ang Kasaysayan…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "M">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Tingnan">
 <!ENTITY viewMenu.accesskey       "T">
@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Ibalik ang Nakaraang Session">
 
 <!ENTITY showAllHistoryCmd2.label "Ipakita ang Lahat ng Kasaysayan">
-<!ENTITY showAllHistoryCmd.commandkey "I">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "I-Customize">
 <!ENTITY appMenuCustomize.tooltip "I-cuztomize ang Menu at Toolbars">
