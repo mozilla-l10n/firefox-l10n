@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "പൊതുവായവ">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "തലക്കെട്ട്:">
 <!ENTITY  generalURL            "വിലാസം">
 <!ENTITY  generalType           "ഏതു് തരം:">
 <!ENTITY  generalMode           "ആവിഷ്കരണ രീതി">
@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "ഉടമസ്ഥന്‍: ">
 <!ENTITY  securityView.identity.domain   "വെബ് സൈറ്റ്: ">
 <!ENTITY  securityView.identity.verifier "ഉറപ്പാക്കിയതു്:: ">
-
+<!ENTITY  securityView.identity.validity "കാലഹരണപ്പെടുന്നത്:">
 
 <!ENTITY  securityView.privacy.header                   "സ്വകാര്യതയും നാള്‍വഴിയും">
 <!ENTITY  securityView.privacy.history                  "ഇതിനു് മുമ്പു് ഈ വെബ് സൈറ്റ് സന്ദര്‍ശിച്ചിട്ടുണ്ടോ?">
