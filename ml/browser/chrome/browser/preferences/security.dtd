@@ -2,24 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "സുരക്ഷ">
 
+<!ENTITY  warnOnAddonInstall2.label       "വെബ്സൈറ്റുകൾ ആഡ്-ഓൺസ് ഇൻസ്റ്റാൾ ചെയ്യാൻ ശ്രമിക്കുമ്പോൾ നിങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുക">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "വഞ്ചനാപരമായ ഉള്ളടക്കത്തില്‍ നിന്നും അപകടകരമായ സോഫ്റ്റ്വെയറില്‍ നിന്നും സുരക്ഷ">
+<!ENTITY  enableSafeBrowsing.label        "അപകടകരവും വഞ്ചനാപരവുമായ ഉള്ളടക്കം തടയുക">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "അപകടകരമായ ഡൗണ്‍ലോഡുകള്‍ തടയുക">
 <!ENTITY  blockDownloads.accesskey        "അ">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "ആവശ്യമില്ലാത്തതും അസാധാരണവുമായ സോഫ്റ്റ്വെയറിനെക്കുറിച്ച് നിങ്ങൾക്ക് മുന്നറിയിപ്പ് നൽകുക">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "ഒഴിവാക്കേണ്ടവ…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "ഫോമുകള്‍ &amp; പാസ്വേഡുകള്‍">
 
+<!ENTITY  rememberLogins2.label         "വെബ്സൈറ്റുകൾക്കായുള്ള ലോഗിനുകളും പാസ്വേഡുകളും ഓർക്കുക">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "ഒഴിവാക്കേണ്ടവ…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

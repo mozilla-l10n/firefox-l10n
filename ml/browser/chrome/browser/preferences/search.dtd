@@ -2,16 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "സെര്‍ച്ച് ബാര്‍">
+
+<!ENTITY searchBar.hidden.label                "തിരയൽ, നാവിഗേഷൻ എന്നിവയ്ക്കായി അഡ്ഡ്രസ്സ് ബാര്‍ ഉപയോഗിക്കുക">
+<!ENTITY searchBar.shown.label                 "ടൂൾബാറിൽ സെർച്ച് ബാർ ചേർക്കുക">
+
 <!ENTITY defaultSearchEngine.label             "സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രം">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "വിലാസ ബാറിലും തിരയൽ ബാറിലും ഉപയോഗിക്കാൻ സ്ഥിര തിരയൽ എഞ്ചിൻ തിരഞ്ഞെടുക്കുക.">
 
 <!ENTITY provideSearchSuggestions.label        "തിരച്ചിലിനുള്ള നിര്‍ദ്ദേശങ്ങള്‍ നല്‍കുക">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY showURLBarSuggestions2.label           "അഡ്ഡ്രസ്സ് ബാറിലെ ഫലങ്ങളിൽ തിരയൽ നിർദ്ദേശങ്ങൾ ദൃശ്യമാക്കുക">
+<!ENTITY showURLBarSuggestions2.accesskey       "I">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "സ്ഥാനപട്ടയില്‍ തെരച്ചില്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുന്നതല്ല. കാരണം, താങ്കള്‍ &brandShortName; ക്രമീകരിച്ചിരിയ്ക്കുന്നതു് നാള്‍വഴി ഒരിക്കലും ഓര്‍ക്കാതിരിയ്ക്കാനാണു്.">
 
+<!ENTITY oneClickSearchEngines.label           "ഒറ്റ-ക്ലിക്ക് സെര്‍ച്ച് എഞ്ചിനുകൾ">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "നിങ്ങൾ കീവേഡ് നൽകുന്നത് ആരംഭിക്കുമ്പോൾ വിലാസ ബാറിനും സെർച്ച് ബാറിനും താഴെയുള്ള ഇതര തിരയൽ എഞ്ചിനുകൾ തിരഞ്ഞെടുക്കുക.">
 
 <!ENTITY engineNameColumn.label                "തെരച്ചില്‍ എഞ്ചിന്‍">
 <!ENTITY engineKeywordColumn.label             "കീവേര്‍ഡ്">
@@ -22,3 +31,4 @@
 <!ENTITY removeEngine.label                    "നീക്കം ചെയ്യുക">
 <!ENTITY removeEngine.accesskey                "R">
 
+<!ENTITY findMoreSearchEngines.label           "കൂടുതൽ സെര്‍ച്ച് എഞ്ചിനുകൾ കണ്ടെത്തുക">
