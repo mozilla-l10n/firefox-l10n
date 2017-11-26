@@ -42,7 +42,7 @@
 <!ENTITY aboutTelemetry.chromeHangsSection "  Asewḥel n iminig">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Aglam leqqayen n izegrar">
 <!ENTITY aboutTelemetry.capturedStacksSection "   Tinebdanin ittwaṭfen">
-<!ENTITY aboutTelemetry.lateWritesSection "  tira tineggura">
+<!ENTITY aboutTelemetry.lateWritesSection "Tira tineggura">
 <!ENTITY aboutTelemetry.rawPayloadSection "Taɛekkemt tarewwayt">
 <!ENTITY aboutTelemetry.raw "Izirig JSON">
 

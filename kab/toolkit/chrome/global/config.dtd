@@ -6,7 +6,7 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Ɣuṛ-k, aya yezmer ad k-iḍuṛṛ!">
+<!ENTITY aboutWarningTitle.label "Ɣuṛ-k, aya yezmer ad k-iḍuṛ!">
 <!ENTITY aboutWarningText.label "Asnifel n ismenyifen-agi zemren ad sexṣeren arkad, taɣellist d timellit n usnas-agi. Tzemreḍ kan ad kemleḍ ma yella teẓriḍ ayen tmahaleḍ.">
 <!ENTITY aboutWarningButton2.label "Gziɣ uguren!">
 <!ENTITY aboutWarningCheckbox.label "Sken alɣu-yagi tikelt d-iteddun">
@@ -34,11 +34,11 @@
 <!ENTITY copyName.accesskey "s">
 <!ENTITY copyValue.label "Nɣel azal">
 <!ENTITY copyValue.accesskey "a">
-<!ENTITY modify.label "snifel">
+<!ENTITY modify.label "Snifel">
 <!ENTITY modify.accesskey "s">
 <!ENTITY toggle.label "Tti">
 <!ENTITY toggle.accesskey "i">
-<!ENTITY reset.label "Wennez tikelt nniḍen">
+<!ENTITY reset.label "Wennez tikelt-nniḍen">
 <!ENTITY reset.accesskey "W">
 <!ENTITY new.label "Amaynut">
 <!ENTITY new.accesskey "m">
