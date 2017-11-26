@@ -204,8 +204,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abre o panel de mensaxes">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abre o panel da solicitude de localización">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abre o panel da mensaxe de instalación do complemento">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Xestiona o permiso de extracción do lenzo">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abre o panel da mensaxe de almacenamento sen conexión">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abre o panel da mensaxe de gardar o contrasinal">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Xestiona o uso dos engadidos">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambia a opción se pode recibir notificacións do sitio">
 
 
 
