@@ -1,85 +1,91 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when logged in... -->
 
+<!-- The page shown when logged in... -->
 
 <!ENTITY engine.bookmarks.label     "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "ടാബുകള്‍ തുറക്കുക">
+<!ENTITY engine.tabs.accesskey      "ടി">
 <!ENTITY engine.history.label       "നാള്‍വഴി">
 <!ENTITY engine.history.accesskey   "r">
-
-
+<!ENTITY engine.logins.label        "പ്രവേശനങ്ങള്‍">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "മുന്‍ഗണനകള്‍">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ആഡ്-ഓണുകള്‍">
 <!ENTITY engine.addons.accesskey    "A">
-
-
-
+<!ENTITY engine.addresses.label     "മേല്‍വിലാസം">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "ക്രെ‍ഡിറ്റ് കാര്‍ഡുകള്‍">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
-
 <!ENTITY fxaSyncDeviceName.label       "ഡിവൈസ് പേര്">
-
-
-
-
-
+<!ENTITY changeSyncDeviceName2.label "ഉപകരണത്തിന്റെ പേര് മാറ്റുക…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "റദ്ദാക്കുക">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "സംരക്ഷിക്കുക">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 
 <!-- Footer stuff -->
-
 <!ENTITY prefs.tosLink.label        "സേവന നിബന്ധനകള്‍">
 <!ENTITY fxaPrivacyNotice.link.label "സ്വകാര്യ പോളിസി">
+
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInUnverified.beforename.label "‌">
 <!ENTITY signedInUnverified.aftername.label "ഉറപ്പാക്കിയിട്ടില്ല.">
+
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInLoginFailure.beforename.label "വീണ്ടും കണക്ട് ചെയ്യുന്നതിന് പ്രവേശിയ്ക്കുക">
 <!ENTITY signedInLoginFailure.aftername.label "‌">
 
 <!ENTITY notSignedIn.label           "നിങ്ങള്‍ പ്രവേശിച്ചിട്ടില്ല.">
-
-
+<!ENTITY signIn.label                "പ്രവേശിക്കുക">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക">
+<!ENTITY verifiedManage.label        "അക്കൗണ്ട് കൈകാര്യം ചെയ്യുക">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "ബന്ധം വിച്ചേദിക്കുക">
+<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY verify.label                "ഇമെയില്‍ പരിശോധിക്കുക">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "ഈ ഇമെയില്‍ മറക്കുക">
+<!ENTITY forget.accesskey            "F">
 
-
-
-
-
-
-
-
-
+<!ENTITY signedOut.caption            "നിങ്ങളുടെ വെബിനെ നിങ്ങളുടെ കൂടെ കൊണ്ട് പോവുക">
 <!ENTITY signedOut.description        "നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍, നാള്‍വഴി, ടാബുകള്‍, രഹസ്യവാക്കുകള്‍, ആഡോണുകള്‍, ക്രമീകരണങ്ങള്‍ നിങ്ങളുടെ എല്ലാ ഡിവൈസുകളിലേക്കും പൊരുത്തപ്പെടുത്തുക.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; -ന്‍റെ ഒപ്പം കണക്റ്റ് ചെയ്യുക">
+<!ENTITY signedOut.accountBox.create2 "അക്കൗണ്ട് ഇല്ല? പുതിയത് തുടങ്ങുക">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "പ്രവേശിക്കുക">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
-
-
-
-
+<!ENTITY signedIn.settings.label       "സിങ്ക് ക്രമീകരണങ്ങള്‍">
+<!ENTITY signedIn.settings.description "&brandShortName; ഉപയോഗിച്ച് എന്താണ് നിങ്ങളുടെ ഉപകരണങ്ങളിൽ സമന്വയിപ്പിക്കേണ്ടത് എന്ന് തിരഞ്ഞെടുക്കുക.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
+
+<!ENTITY mobilePromo3.start            "വേണ്ടി ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "ആന്‍ഡ്രോയിഡ്">
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " അല്ലെങ്കില്‍ ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "ഐഓഎസ്">
 
+<!ENTITY mobilePromo3.end              " നിങ്ങളുടെ മൊബൈൽ ഉപകരണം ഉപയോഗിച്ച് സമന്വയിപ്പിക്കാൻ വേണ്ടി.">
