@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  applications.label       "ആപ്ലിക്കേഷനുകള്‍">
+<!ENTITY  applications.description "വെബിൽ നിന്നും ഡൗൺലോഡുചെയ്യുന്ന ഫയലുകൾ അല്ലെങ്കിൽ ബ്രൌസുചെയ്യുമ്പോൾ നിങ്ങൾ ഉപയോഗിക്കുന്ന അപ്ലിക്കേഷനുകൾ എങ്ങനെയാണ് &brandShortName; കൈകാര്യം ചെയ്യുന്നതെന്ന് തിരഞ്ഞെടുക്കുക.">
 
 <!ENTITY  typeColumn.label        "ഏതു് തരത്തിലുള്ള ഉള്ളടക്കം">
 <!ENTITY  typeColumn.accesskey    "T">
@@ -9,6 +11,4 @@
 <!ENTITY  actionColumn2.label     "പ്രവര്‍ത്തി">
 <!ENTITY  actionColumn2.accesskey "A">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
-
+<!ENTITY  filter2.emptytext        "ഫയല്‍ടൈപ്പുകള്‍ക്കായോ ആപ്ലിക്കേഷനുകള്‍ക്കായോ സെര്‍ച്ച് ചെയ്യുക">

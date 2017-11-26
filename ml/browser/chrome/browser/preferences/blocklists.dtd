@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "തടയല്‍ പട്ടികകൾ">
-
+<!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "പട്ടിക">
 <!ENTITY windowClose.key              "w">
