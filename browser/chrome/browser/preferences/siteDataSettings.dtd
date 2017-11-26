@@ -2,16 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     window.title                  "ക്രമീകരണങ്ങള്‍- സൈറ്റ് ഡാറ്റ">
+<!ENTITY     hostCol.label                 "സൈറ്റ്‌">
+<!ENTITY     statusCol.label               "അവസ്ഥ">
+<!ENTITY     usageCol.label                "സംഭരണം">
+<!ENTITY     searchTextboxPlaceHolder             "വെബ്‍സൈറ്റുകള്‍ തിരയുക">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "തിരഞ്ഞെടുത്തവ നീക്കം ചെയ്യുക">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "റദ്ദാക്കുക">
+<!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "സൈറ്റ് ഡാറ്റ നീക്കം ചെയ്യുക">
+<!ENTITY     removingSelected.description  "സൈറ്റ് ഡാറ്റ നീക്കം ചെയ്യുന്നതുവഴി അവയുമായി ബന്ധമുള്ള കുക്കികളും ഓഫ്‍ലൈനിലുള്ള വെബ് ഉള്ളടക്കങ്ങളും നീക്കംചെയ്യപ്പെടും. ഇത് നിങ്ങളെ വെബ്‍സൈറ്റുകളില്‍നിന്നും ലോഗൌട്ട് ചെയ്യുന്നതിനിടവരുത്തും. മാറ്റങ്ങള്‍ വരുത്താമെന്ന് താങ്കള്‍ക്ക് ഉറപ്പാണോ?">
+<!ENTITY     siteTree2.label               "ചുവടെയുള്ള വെബ്‍സൈറ്റുകളുടെ കുക്കികള്‍ നീക്കംചെയ്യപ്പെടും">
