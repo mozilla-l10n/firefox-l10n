@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "അനുമതികൾ">
+
 <!ENTITY  blockPopups.label           "പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക">
 <!ENTITY  blockPopups.accesskey       "B">
 
@@ -12,22 +14,29 @@
 <!ENTITY  popupExceptions.label                                 "വിട്ടുവീഴ്ചകള്‍...">
 <!ENTITY  popupExceptions.accesskey                             "ക">
 
-
 <!ENTITY  notificationPermissions.label                         "അറിയിപ്പുകള്‍">
+<!ENTITY  notificationSettingsButton.label                      "ക്രമീകരണങ്ങൾ…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "കൂടുതലറിയുക">
 
+<!ENTITY  locationPermissions.label                             "സ്ഥലവിവരം">
+<!ENTITY  locationSettingsButton.label                          "ക്രമീകരണങ്ങൾ…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraPermissions.label                               "ക്യാമറ">
+<!ENTITY  cameraSettingsButton.label                            "ക്രമീകരണങ്ങൾ…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
-
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "മൈക്രോഫോണ്‍">
+<!ENTITY  microphoneSettingsButton.label                        "ക്രമീകരണങ്ങൾ…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "അക്ഷരസഞ്ചയങ്ങളും നിറങ്ങളും">
 
-
-
-
+<!ENTITY  defaultFont2.label          "ഡിഫള്‍ട്ട് ഫോണ്ട്">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "വലുപ്പം">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "സങ്കീര്‍ണ്ണമായവ...">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -35,6 +44,8 @@
 <!ENTITY  colors.label                "നിറങ്ങള്‍…">
 <!ENTITY  colors.accesskey            "റ">
 
+
+<!ENTITY language2.label              "ഭാഷ">
 <!ENTITY chooseLanguage.label         "താളുകള്‍ക്കുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക">
 <!ENTITY chooseButton.label           "തെരഞ്ഞെടുക്കുക…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -43,6 +54,7 @@
 <!ENTITY translateWebPages.accesskey  "ത">
 <!ENTITY translateExceptions.label    "വിട്ടുവീഴ്ചകള്‍…">
 <!ENTITY translateExceptions.accesskey "ക">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -50,10 +62,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "തര്‍ജ്ജമ ചെയ്തത്">
 <!ENTITY translation.options.attribution.afterLogo "‌‌">
 
+<!ENTITY  drmContent2.label              "ഡിജിറ്റല്‍ റൈറ്റ് മാനേജ്മെന്റ്(DRM) കണ്ടന്റ്">
 
-
+<!ENTITY  playDRMContent2.label          "DRM- നിയന്ത്രിത കണ്ടന്റ് പ്ലേ ചെയ്യുക">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "കൂടുതല്‍ മനസിലാക്കൂ">

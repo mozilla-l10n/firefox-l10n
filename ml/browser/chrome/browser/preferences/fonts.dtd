@@ -4,21 +4,25 @@
 
 <!ENTITY  fontsDialog.title                       "ഫോണ്ടുകള്‍">
 
+<!ENTITY  fonts.label                             "നുള്ള ഫോണ്ടുകൾ">
+<!ENTITY  fonts.accesskey                         "F">
 
-
+<!ENTITY  size2.label                             "വലുപ്പം">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "ആനുപാതികം">
+<!ENTITY  proportional2.accesskey                 "P">
 
-
-
-
-
-
+<!ENTITY  serif2.label                            "സെരിഫ്">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "സാന്‍സ്-സെരിഫ്">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "മോണോസ്പേസ്">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "ലാറ്റിന്‍">
 <!ENTITY  font.langGroup.japanese                 "ജാപ്പനീസ്‌">
 <!ENTITY  font.langGroup.trad-chinese             "സമ്പ്രദായ ചൈനീസ്‌ (തായ്‌വാന്‍)">
@@ -43,24 +47,26 @@
 <!ENTITY  font.langGroup.khmer                    "ഖെമെര്‍ ">
 <!ENTITY  font.langGroup.malayalam                "മലയാളം ">
 <!ENTITY  font.langGroup.math                     "ഗണിതം">
-
+<!ENTITY  font.langGroup.odia                     "ഒഡിയ">
 <!ENTITY  font.langGroup.telugu                   "തെലുങ്കു">
 <!ENTITY  font.langGroup.kannada                  "കന്നഡാ">
 <!ENTITY  font.langGroup.sinhala                  "സിന്‍ഹാലാ">
 <!ENTITY  font.langGroup.tibetan                  "ടിബറ്റന്‍">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "ഏറ്റവും കുറഞ്ഞ ഫോണ്ട് വലുപ്പം">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "ഒന്നുമില്ല">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "സെറിഫ്">
 <!ENTITY  useDefaultFontSansSerif.label           "സാന്‍സ് സെറിഫ്">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "നിങ്ങളുടെ തിരഞ്ഞെടുക്കലിനു പകരം, സ്വന്തം ഫോണ്ടുകൾ തിരഞ്ഞെടുക്കാൻ പേജുകളെ അനുവദിക്കുക">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "പരമ്പരാഗത ഉള്ളടക്കത്തിനുള്ള ടെക്സ്റ്റ്‌ എന്‍കോഡിങ്">
-
-
+<!ENTITY languages.customize.Fallback3.label      "ഫോൾബാക്ക് ടെക്സ്റ്റ് എൻകോഡിംഗ്">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "എൻകോഡിങ് രേഖപ്പെടുത്തിയിട്ടില്ലാത്ത പഴയ ഉള്ളടക്കങ്ങൾക്ക് ഈ എൻകോഡിങ് ഉപയോഗിക്കുന്നു.">
 
 <!ENTITY languages.customize.Fallback.auto        "നിലവിലുള്ള ലോക്കേലിനു് സ്വതവേയുള്ളതു്">

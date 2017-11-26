@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "തുടക്കം">
 
-
-
+<!ENTITY startupPage2.label        "&brandShortName; തുടങ്ങുമ്പോള്‍">
+<!ENTITY startupPage2.accesskey    "s">
+<!ENTITY startupUserHomePage.label "നിങ്ങളുടെ ഹോം പേജ് കാണിക്കുക">
 <!ENTITY startupBlankPage.label    "ഒരു ശൂന്യമായ താള്‍ കാണിക്കുക ">
+<!ENTITY startupPrevSession.label  "കഴിഞ്ഞ തവണത്തെ നിങ്ങളുടെ വിന്‍ഡോസും ടാബുകളും പ്രദർശിപ്പിക്കുക">
 
-
-
+<!ENTITY homepage2.label           "ഹോം പേജ്">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "നിലവിലുളള താള്‍ ഉപയോഗിക്കുക ">
 <!ENTITY useCurrentPage.accesskey  "ല">
 <!ENTITY useMultiple.label         "ഇപ്പോഴത്തെ താളുകള്‍ ഉപയോഗിക്കുക">
@@ -17,6 +19,8 @@
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "സ്വതവേയുള്ളതു് വീണ്ടെടുക്കുക ">
 <!ENTITY restoreDefault.accesskey  "ത">
+
+<!ENTITY disableExtension.label    "എക്സ്റ്റന്‍ഷന്‍ ഡിസേബിള്‍ ചെയ്യുക">
 
 <!ENTITY downloads.label     "ഡൌണ്‍ലോഡുകള്‍">
 
@@ -26,18 +30,19 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "തിരഞ്ഞെടുക്കുക ">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "ഫയലുകള്‍ എവിടെ സൂക്ഷിക്കണമെന്ന് എപ്പോഴും ചോദിക്കുക">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
-
-
-
-
-
+<!ENTITY alwaysCheckDefault2.label        "&brandShortName; നിങ്ങളുടെ ഡിഫള്‍ട്ട് ബ്രൌസറാണോ എന്ന് എപ്പോഴും പരിശോധിക്കുക">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY setAsMyDefaultBrowser3.label     "ഡിഫള്‍ട്ടാക്കുക…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; ആണു് ഇപ്പോള്‍ സ്വതവേയുള്ള ബ്രൌസര്‍">
 <!ENTITY isNotDefault.label               "&brandShortName; ആണു് ഇപ്പോള്‍ സ്വതവേയുള്ള ബ്രൌസര്‍">
 
 <!ENTITY separateProfileMode.label        "&brandShortName;-ഉം ഫയര്‍ഫോക്സും ഒരേ സമയത്തു് പ്രവര്‍ത്തിയ്ക്കുവാന്‍ അനുവദിയ്ക്കുക">
 <!ENTITY useFirefoxSync.label             "സൂചന: ഇതു് വെവ്വേറെ പ്രൊഫൈലുകള്‍ ഉപയോഗിയ്ക്കുന്നു. ഇവയ്ക്കിടയില്‍ ഡേറ്റാ പങ്കിടാന്‍ സിന്‍ക് ഉപയോഗിയ്ക്കുക.">
-
-
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; ലേക്ക് സൈന്‍ ഇന്‍ ചെയ്യുക…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; പ്രഫറന്‍സുകള്‍ തുറക്കുക">
 
 <!ENTITY e10sEnabled.label                "മൾട്ടിപ്രോസസ് &brandShortName; സജ്ജമാക്കുക">
