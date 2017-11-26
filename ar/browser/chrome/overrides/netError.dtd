@@ -21,7 +21,7 @@
 <!ENTITY dnsNotFound.pageTitle "الخادوم غير موجود">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "ممم. نواجه مشكلة في إيجاد ذلك الموقع.">
-<!ENTITY dnsNotFound.longDesc1 "<strong>إن لم يكن العنوان صحيحا، فهذه ثلاث أمور يمكنك تجربتها:</strong>
+<!ENTITY dnsNotFound.longDesc1 "<strong>إن كان العنوان صحيحا، فهذه ثلاث أمور يمكنك تجربتها:</strong>
 <ul>
   <li>معاودة المحاولة لاحقا.</li>
   <li>فحص اتصال الشبكة لديك.</li>
