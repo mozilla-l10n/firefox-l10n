@@ -14,3 +14,5 @@
 <!ENTITY tabCSS.label                   "Estilo en línea">
 <!ENTITY tabJSE.label                   "Eventos JavaScript">
 
+<!ENTITY editAttribute.label    "Haz click en un ítem de abajo para editar su valor">
+<!ENTITY removeAttribute.label  "Eliminar">
