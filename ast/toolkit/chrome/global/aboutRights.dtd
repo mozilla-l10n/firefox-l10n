@@ -67,18 +67,18 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Restolar según l'allugamientu: ">
-<!ENTITY rights.locationawarebrowsing-b "siempre son a eleición del usuariu. Enxamás s'unvia información tocante a la llocalización ensin el to permiso. Si quies desactivar la carauterística por completu, sigui estos pasos:">
-<!ENTITY rights.locationawarebrowsing-term1a "Na barra de direiciones, escribi ">
+<!ENTITY rights.locationawarebrowsing-b "siempres son a eleición del usuariu.   Enxamás s'unvia información d'allugamientu ensin el to permisu.  Si desees desactivar dafechu la carauterística, sigui estos pasos:">
+<!ENTITY rights.locationawarebrowsing-term1a "Na barra de direiciones, teclexa ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
-<!ENTITY rights.locationawarebrowsing-term2 "Escribi geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Fai dible clic na preferencia geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Agora'l restolar según l'allugamientu ta deshabilitáu">
+<!ENTITY rights.locationawarebrowsing-term2 "Teclexa geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Fai clic doblu na preferencia geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Agora'l restolar según l'allugamientu ta desactiváu">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Equí tien qu'incluyise un repasu de los servicios de sitiu web qu'incorpora'l productu, xunto con instrucciones sobre como deshabilitalos, de ser posible.">
+<!ENTITY rights.webservices-unbranded "Un vistazu xeneral de los servicios web qu'inclúi'l productu, xunto colos instrucciones tocante a cómo desactivales si ye posible.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Tolos términos de serviciu aplicables a esti productu tienen d'enumberase equí.">
+<!ENTITY rights.webservices-term1-unbranded "Equí debería llistase cualesquier términu de serviciu aplicable a esti productu.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights2.webservices-term1 "&vendorShortName; y los sos collaboradores, llicenciatarios y socios trabayen p'apurrir los servicios más precisos y anovaos. Sicasí, nun podemos garantizar qu'esta información seya completa y tea llibre d'errores. Por exemplu, el serviciu de navegación segura pue que nun identifique dalgunos sitios peligrosos y pue qu'identifique dalgunos sitios seguros por error y les direiciones devueltes polos nuesos fornidores del serviciu de navegación basada na llocalización son namái estimaciones y nin nosotros nin los nuesos fornidores garantizamos la exactitú de les llocalizaciones proporcionaes.">
