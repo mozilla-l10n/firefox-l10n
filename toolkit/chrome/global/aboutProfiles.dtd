@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutProfiles.title "Tocante a Perfiles">
-<!ENTITY aboutProfiles.subtitle "Esta páxina ayuda a xestinar los perfiles. Cada perfil ye un mundu únicu que contién historial, marcadores, configuraciones y complementos.">
+<!ENTITY aboutProfiles.subtitle "Esta páxina ayúdate a xestionar los perfiles. Cada perfil ye un mundu únicu que contién l'historial, marcadores, axustes y complementos.">
 <!ENTITY aboutProfiles.create "Crear un perfil nuevu">
 <!ENTITY aboutProfiles.restart.title "Reaniciar">
 <!ENTITY aboutProfiles.restart.inSafeMode "Reaniciar colos complementos desactivaos…">
