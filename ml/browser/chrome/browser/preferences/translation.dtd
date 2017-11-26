@@ -6,15 +6,15 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "ഈ ഭാഷകള്‍ക്ക്, തര്‍ജ്ജമ ലഭ്യമല്ല:">
+<!ENTITY noTranslationForLanguages2.label "താഴെപ്പറയുന്ന ഭാഷകൾക്കായി പരിഭാഷ നൽകുന്നതല്ല">
 <!ENTITY treehead.languageName.label      "ഭാഷകള്‍">
 <!ENTITY removeLanguage.label             "ഭാഷ നീക്കം ചെയ്യുക">
 <!ENTITY removeLanguage.accesskey         "ക">
 <!ENTITY removeAllLanguages.label         "എല്ലാ ഭാഷകളും നീക്കം ചെയ്യുക">
 <!ENTITY removeAllLanguages.accesskey     "ക">
 
-<!ENTITY noTranslationForSites.label      "ഈ സൈറ്റുകള്‍ക്ക് തര്‍ജ്ജമ ലഭ്യമല്ല:">
-
+<!ENTITY noTranslationForSites2.label     "താഴെപ്പറയുന്ന സൈറ്റുകൾക്കായി പരിഭാഷ നൽകുന്നതല്ല">
+<!ENTITY treehead.siteName2.label         "വെബ്സൈറ്റുകള്‍">
 <!ENTITY removeSite.label                 "സൈറ്റ് നീക്കം ചെയ്യുക">
 <!ENTITY removeSite.accesskey             "സ">
 <!ENTITY removeAllSites.label             "എല്ലാ സൈറ്റുകളും നീക്കം ചെയ്യുക">
