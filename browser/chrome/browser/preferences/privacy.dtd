@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ">
+<!ENTITY  trackingProtection2.description      "ഒന്നിലധികം വെബ്സൈറ്റുകളിൽ നിന്നും നിങ്ങളുടെ ബ്രൗസിംഗ് ഡാറ്റ ശേഖരിക്കുന്നതിനെയാണ് ട്രാക്കിംഗ് എന്നു പറയുന്നത്. നിങ്ങളുടെ ബ്രൗസിംഗും വ്യക്തിഗത വിവരങ്ങളും അടിസ്ഥാനമാക്കി ഒരു പ്രൊഫൈൽ നിർമ്മിക്കുന്നതിനും പ്രദർശിപ്പിക്കുന്നതിനും ട്രാക്കിംഗ് ഉപയോഗിക്കാനാകും.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "അറിയപ്പെടുന്ന ട്രാക്കറുകൾ തടയുന്നതിന് ട്രാക്കിംഗ് പരിരക്ഷ ഉപയോഗിക്കുക">
 <!ENTITY  trackingProtectionAlways.label       "എപ്പോഴും">
 <!ENTITY  trackingProtectionAlways.accesskey   "ഴ">
 <!ENTITY  trackingProtectionPrivate.label      "സ്വകാര്യ ജാലകങ്ങളില്‍ മാത്രം">
@@ -18,10 +20,13 @@
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM6.label         "അറിയപ്പെടുന്ന ട്രാക്കറുകൾ തടയാൻ സ്വകാര്യ ബ്രൗസറിൽ ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ ഉപയോഗിക്കുക">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "കൂടുതല്‍ അറിയുക">
+<!ENTITY changeBlockList2.label               "ബ്ലോക്ക് ലിസ്റ്റില്‍ മാറ്റം വരുത്തുക...">
 <!ENTITY changeBlockList2.accesskey           "C">
 
+<!ENTITY  doNotTrack.description        "“ട്രാക്ക് ചെയ്യരുത്” എന്ന സിഗ്നൽ വെബ്സൈറ്റുകൾക്ക് അയയ്ക്കുക">
 <!ENTITY  doNotTrack.learnMore.label    "കൂടുതലറിവ് നേടുക">
 <!ENTITY  doNotTrack.default.label      "ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ ഉപയോഗിക്കുമ്പോൾ മാത്രം">
 <!ENTITY  doNotTrack.always.label       "എപ്പോഴും">
@@ -30,6 +35,7 @@
 <!ENTITY  permissions.label             "അനുമതികൾ">
 
 <!ENTITY  addressBar.label              "അഡ്രസ്സ് ബാര്‍">
+<!ENTITY  addressBar.suggest.label      "അഡ്രസ്സ് ബാര്‍ ഉപയോഗിക്കുമ്പോള്‍ സജ്ജസ്റ്റ് ചെയ്യുക">
 <!ENTITY  locbar.history2.label         "ബ്രൌസിങ്ങ് ഹിസ്റ്ററി">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "അടയാളക്കുറിപ്പുകള്‍">
@@ -109,6 +115,7 @@
 <!ENTITY  browserContainersSettings.label        "ക്രമീകരണങ്ങൾ…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "നിങ്ങളുടെ ബ്രൗസർ ആക്സസ്സുചെയ്യുന്നതിൽ നിന്നും അക്സസ്സിബിലിറ്റി സേവനങ്ങളെ തടയുക">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "കൂടുതലറിവ് നേടുക">
 <!ENTITY enableSafeBrowsingLearnMore.label "കൂടുതലറിവ് നേടുക">
