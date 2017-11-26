@@ -209,9 +209,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abre o panel da mensaxe de gardar o contrasinal">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Xestiona o uso dos engadidos">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambia a opción se pode recibir notificacións do sitio">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "O navegador está baixo control remoto">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Xestiona o uso compartido da cámara e/ou do micrófono co sitio">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Xestiona o uso compartido do seu micrófono co sitio">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Xestiona o uso compartido das súas xanelas ou pantalla co sitio">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Abre o panel da mensaxe de instalación">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta páxina">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Xestiona a tradución da páxina">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Xestiona o uso de software DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bloqueou a súa cámara para este sitio web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bloqueou o seu micrófono para este sitio web.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amosar historial">
