@@ -188,9 +188,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "დ">
 
 <!ENTITY backCmd.label                "უკან">
-<!ENTITY backButton.tooltip           "ერთი გვერდით უკან">
+<!ENTITY backButton.tooltip           "წინა გვერდი">
 <!ENTITY forwardCmd.label             "წინ">
-<!ENTITY forwardButton.tooltip        "ერთი გვერდით წინ">
+<!ENTITY forwardButton.tooltip        "მომდევნო გვერდი">
 <!ENTITY backForwardButtonMenu.tooltip "ისტორიის საჩვენებლად გამოიყენეთ მარჯვენა წკაპი ან ჩამოქაჩეთ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ისტორიის საჩვენებლად ჩამოქაჩეთ">
 <!ENTITY reloadCmd.label              "განახლება">
