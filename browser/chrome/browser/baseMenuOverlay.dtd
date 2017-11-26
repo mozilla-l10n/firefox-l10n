@@ -18,7 +18,7 @@
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "راهنمای &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "؟">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "میانبرهای صفحه کلید">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
