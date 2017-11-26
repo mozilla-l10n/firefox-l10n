@@ -92,17 +92,21 @@
 <!ENTITY netTimeout.title "კავშირის ვადა გავიდა">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "უცნობი ოქმი">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>ამ მისამართის გასახსნელად შესაძლოა სხვა პროგრამის ჩადგმა მოგიწიოთ.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.title "მისამართი გაუგებარია">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>ამ მისამართის გასახსნელად შესაძლოა სხვა პროგრამის დაყენება იყოს საჭირო.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "პროქსი სერვერმა კავშირი უარყო">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>გადაამოწმეთ პროქსის პარამეტრები და დარწმუნდით მათ მართებულობაში.</li> 
-<li>დაუკავშირდით ქსელის ადმინისტრატორს და დარწმუნდით, რომ პროქსი სერვერი 
-მუშაობს.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>გადაამოწმეთ პროქსის პარამეტრები და დარწმუნდით მათ მართებულობაში.</li>
+  <li>დაუკავშირდით ქსელის ადმინისტრატორს და დარწმუნდით, რომ პროქსი სერვერი 
+    მუშაობს.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "პროქსი სერვერის პოვნა ვერ ხერხდება">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
