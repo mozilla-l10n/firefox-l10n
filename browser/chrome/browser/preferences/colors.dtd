@@ -6,24 +6,25 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors2.label       "പേജ് വ്യക്തമാക്കിയ നിറങ്ങളെ അസാധുവാക്കി, മുകളിലുള്ള നിങ്ങളുടെ തിരഞ്ഞെടുക്കലുകൾ ഉപയോഗിക്കുക">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "എപ്പോഴും">
 <!ENTITY  overrideDefaultPageColors.auto.label   "കൂടിയ കോണ്ട്രാസ്റ്റുള്ള തീമുകളില്‍ മാത്രം">
 <!ENTITY  overrideDefaultPageColors.never.label  "ഒരിക്കലും ഇല്ല">
 
 <!ENTITY  color                           "ടെക്സ്റ്റും പശ്ചാത്തലവും">
-
-
-
-
+<!ENTITY  textColor2.label                "ടെക്സ്റ്റ്">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "ബാഗ്രൌണ്ട്">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "സിസ്റ്റമിലുള്ള നിറങ്ങള്‍ ഉപയോഗിക്കുക">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "ലിങ്കുകള്‍ക്ക്‌ അടിവരയിടുക ">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "ലിങ്കിന്റെ നിറങ്ങള്‍ ">
-
-
-
-
+<!ENTITY  linkColor2.label                "സന്ദർശിക്കാത്ത ലിങ്കുകൾ">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "സന്ദർശിച്ച ലിങ്കുകള്‍">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
