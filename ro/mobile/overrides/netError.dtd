@@ -28,7 +28,9 @@
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.</li> </ul>">
 
 <!ENTITY generic.title "Ups.">
-<!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca această pagină dintr-un motiv oarecare.</p>">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; nu poate încărca pagina.</p>
+">
 
 <!ENTITY malformedURI.title "Adresa nu este validă">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
