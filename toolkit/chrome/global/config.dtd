@@ -13,7 +13,7 @@
 
 <!ENTITY searchPrefs.label "Iskanje:">
 <!ENTITY searchPrefs.accesskey "I">
-<!ENTITY focusSearch.key "i">
+<!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
@@ -27,7 +27,7 @@
 <!ENTITY columnChooser.tooltip "Kliknite za izbiro stolpcev za prikaz"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "z">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopiraj">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Kopiraj ime">

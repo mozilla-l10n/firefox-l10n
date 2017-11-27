@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Prikaži vse zavihke">
 <!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY toggleReaderMode.key "B">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Prijava v &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Odpri nastavitve &syncBrand.shortName.label;a">
@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Obnovi prejšnjo sejo">
 
 <!ENTITY showAllHistoryCmd2.label "Prikaži vso zgodovino">
-<!ENTITY showAllHistoryCmd.commandkey "S">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Prilagodi">
 <!ENTITY appMenuCustomize.tooltip "Prilagodi meni in orodne vrstice">

@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Storitve">
 
 <!ENTITY hideThisAppCmdMac2.label       "Skrij &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "S">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skrij ostale">
-<!ENTITY hideOtherAppsCmdMac.commandkey "S">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Prikaži vse">
