@@ -129,7 +129,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Pojdi v vrstico …">
-<!ENTITY debuggerUI.searchGoToLine.key       "V">
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
@@ -151,18 +151,18 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak     "Dodaj prekinitveno točko">
-<!ENTITY debuggerUI.seMenuBreak.key "P">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Dodaj pogojno prekinitveno točko">
-<!ENTITY debuggerUI.seMenuCondBreak.key "P">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Uredi pogojno prekinitveno točko">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "U">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
@@ -176,7 +176,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "Izbira za izraz za spremljanje">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "I">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->

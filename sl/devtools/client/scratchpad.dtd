@@ -88,7 +88,7 @@
 
 <!ENTITY display.label                "Prikaži">
 <!ENTITY display.accesskey            "i">
-<!ENTITY display.key                  "D">
+<!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Olepšan izpis">
 <!ENTITY pprint.key                   "p">
