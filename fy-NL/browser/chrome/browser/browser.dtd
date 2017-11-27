@@ -109,7 +109,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Side-ynfo">
 <!ENTITY pageInfoCmd.accesskey "f">
-<!ENTITY pageInfoCmd.commandkey "y">
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Ljepblêd spegelje">
 <!ENTITY mirrorTabCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Foargeande sesje werom bringe">
 
 <!ENTITY showAllHistoryCmd2.label "Alle skiednis toane">
-<!ENTITY showAllHistoryCmd.commandkey "s">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Oanpasse">
 <!ENTITY appMenuCustomize.tooltip "It menu en de arkbalken oanpasse">
