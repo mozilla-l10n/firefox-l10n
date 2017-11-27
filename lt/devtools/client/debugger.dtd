@@ -162,7 +162,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Keisti stabdos tašką su sąlyga">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "s">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
@@ -209,4 +209,4 @@
   -  the same as netmonitorUI.context.copyUrl -->
 <!ENTITY debuggerUI.context.copyUrl           "Kopijuoti URL adresą">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "K">
-<!ENTITY debuggerUI.context.copyUrl.key "K">
+<!ENTITY debuggerUI.context.copyUrl.key "C">
