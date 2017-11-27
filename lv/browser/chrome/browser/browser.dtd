@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Rādīt visas cilnes">
 <!ENTITY showAllTabsCmd.accesskey "v">
-<!ENTITY toggleReaderMode.key "L">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Pierakstīties &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Atvērt &syncBrand.shortName.label; iestatījumus">

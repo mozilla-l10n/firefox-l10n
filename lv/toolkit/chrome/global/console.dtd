@@ -27,7 +27,7 @@
 
 <!ENTITY copyCmd.label       "Kopēt">  
 <!ENTITY copyCmd.accesskey   "K"> 
-<!ENTITY copyCmd.commandkey  "K"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Pirmais > Pēdējais kārtošanas secība">
 <!ENTITY sortFirst.accesskey "P">
 <!ENTITY sortLast.label      "Pēdējais > Pirmais kārtošanas secība">

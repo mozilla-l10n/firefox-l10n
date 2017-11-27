@@ -13,7 +13,7 @@
 
 <!ENTITY searchPrefs.label "Meklēt:">
 <!ENTITY searchPrefs.accesskey "l">
-<!ENTITY focusSearch.key "l">
+<!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
@@ -27,7 +27,7 @@
 <!ENTITY columnChooser.tooltip "Spiest, lai izvēlētos rādāmās kolonas"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "K">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopēt">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Kopēt nosaukumu">
