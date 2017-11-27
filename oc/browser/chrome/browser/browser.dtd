@@ -99,7 +99,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY pageSourceCmd.label "Còdi font de la pagina">
 <!ENTITY pageSourceCmd.accesskey "C">
-<!ENTITY pageSourceCmd.commandkey "g">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard

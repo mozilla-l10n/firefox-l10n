@@ -33,5 +33,5 @@
 <!ENTITY sortLast.label      "Òrdre cronologic invèrse">
 <!ENTITY sortLast.accesskey  "d">
 <!ENTITY closeCmd.commandkey "w">  
-<!ENTITY focus1.commandkey   "I">  
+<!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  
