@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Szolgáltatások">
 
 <!ENTITY hideThisAppCmdMac2.label       "A &brandShorterName; elrejtése">
-<!ENTITY hideThisAppCmdMac2.commandkey  "e">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "A több elrejtése">
-<!ENTITY hideOtherAppsCmdMac.commandkey "t">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mindet mutat">
