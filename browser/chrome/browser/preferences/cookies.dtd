@@ -17,8 +17,8 @@
 <!ENTITY     props.container.label          "სათავსი:">
 
 <!ENTITY     window.title                   "ფუნთუშები">
-<!ENTITY     windowClose.key                "ფ">
-<!ENTITY     focusSearch1.key               "ძ">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
 
 <!ENTITY     searchFilter.label             "ძიება">
 <!ENTITY     searchFilter.accesskey         "ძ">
