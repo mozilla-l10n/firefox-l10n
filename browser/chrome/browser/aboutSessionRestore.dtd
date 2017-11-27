@@ -6,16 +6,15 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Bon, es embestiant.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; a de dificultats per restablir vòstras fenèstras e onglets. En general, lo problèma ven d'una pagina web dobèrta recentament.">
-<!ENTITY restorepage.tryThis        "Podètz ensajar de :">
-<!ENTITY restorepage.restoreSome    "suprimir un o mai d'un onglet que sospeitatz qu'es a l'origina del problèma">
-<!ENTITY restorepage.startNew       "aviar una session de navigacion novèla">
+<!ENTITY restorepage.errorTitle2    "O planhèm, capitam pas de recuperar vòstras paginas.">
 
-<!ENTITY restorepage.tryagainButton "Restablir">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "R">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.hideTabs       "Amagar los onglets precedents">
+<!ENTITY restorepage.showTabs       "Afichar los onglets precedents">
+
+<!ENTITY restorepage.tryagainButton2 "Restablir la session">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Aviar una novèla session">
+<!ENTITY restorepage.close.access2   "A">
 
 <!ENTITY restorepage.restoreHeader  "Restablir">
 <!ENTITY restorepage.listHeader     "Fenèstras e onglets">

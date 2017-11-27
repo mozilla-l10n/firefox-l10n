@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Tampar aqueste onglet">
+<!ENTITY tabCrashed.title "Raportaire de plantatge d’onglet">
+
+<!ENTITY tabCrashed.closeTab2  "Tampar l’onglet">
 <!ENTITY tabCrashed.restoreTab "Restablir aqueste onglet">
 <!ENTITY tabCrashed.restoreAll "Restablir totes los onglets plantats">
 
@@ -14,17 +16,14 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "Macassiu ! L'onglet a fach mèuca.">
-<!ENTITY tabCrashed.offerHelp "Vos podèm ajudar !">
-<!ENTITY tabCrashed.single.offerHelpMessage "Causissètz &tabCrashed.restoreTab; per tornar cargar lo conteengut de la pagina.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Causissètz &tabCrashed.restoreTab; o &tabCrashed.restoreAll; per tornar cargar lo contengut de la pagina.">
+<!ENTITY tabCrashed.offerHelp2 "Vos podèm ajudar !">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Causissètz &tabCrashed.restoreTab; per recargar la pagina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Causissètz &tabCrashed.restoreTab; o &tabCrashed.restoreAll; per recargar la pagina.">
 <!ENTITY tabCrashed.requestHelp "Volètz nos ajudar ?">
 <!ENTITY tabCrashed.requestHelpMessage "Los rapòrts de plantatges nos ajudan a diagnosticar de problèmas e melhorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Senhalar aqueste onglet">
-<!ENTITY tabCrashed.sendReport2 "Enviar un rapòrt de plantatge per aqueste onglet">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentaris opcionals (los comentaris son visibles publicament)">
-<!ENTITY tabCrashed.includeURL2 "Enclure l'URL de la pagina amb aqueste rapòrt de plantatge">
 <!ENTITY tabCrashed.emailPlaceholder "Picatz vòstra adreça electronica aicí">
 <!ENTITY tabCrashed.emailMe "Enviatz-me un corrièl quand d'informacions mai son disponiblas">
 <!ENTITY tabCrashed.reportSent "Rapòrt de plantatges ja enviat. Mercés plan per vòstra ajuda per melhorar &brandShortName; !">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Enviar los rapòrts dels onglets de rèire plan">
-<!ENTITY tabCrashed.autoSubmit2 "Modificar las preferéncias per enviar automaticament los rapòrts de plantatges, tanben los rapòrts pels onglets en rèire plan qu'an fach mèuca pendent aqueste session o las venentas">

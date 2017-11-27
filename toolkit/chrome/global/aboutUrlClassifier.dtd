@@ -1,38 +1,33 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.pageTitle                   "Informacions sus l’url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Provesidor">
+<!ENTITY aboutUrlClassifier.provider                    "Provesidor">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Darrièra mesa a jorn">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Mesa a jorn seguenta">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Periòde d’interrupcion">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Estat de la darrièra mesa a jorn">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Mesa a jorn">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Escondedor">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Actualizar">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Escafar">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Nom del tablèu">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Nombre de dintradas negativas de l'escondedor">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Nombre de dintradas positivas de l'escondedor">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Afichar las dintradas">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Dintradas de l'escondedor">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefixe">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Expiracion d'escondedor negativa">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Emprenta completa">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Expiracion d'escondedor positiva">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Desbugatge">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Activar los moduls de jornalizacion">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Definir un fichièr de jornalizacion">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Activar la jornalizacion JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Moduls de jornalizacion pel blocatge de sites malvolents">
+<!ENTITY aboutUrlClassifier.debugModules                "Moduls de jornalizacion actuals">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Jornal JS del blocatge de sites malvolents">
+<!ENTITY aboutUrlClassifier.debugFile                   "Fichièr de jornalizacion actual">
