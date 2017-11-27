@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY downloadManager.title           "Gestor de descargas">
+<!ENTITY downloadManager.title           "Gestor de transferências">
 
 <!ENTITY menuBar.tooltip                 "Barra de menu">
 <!ENTITY searchBar.tooltip               "Barra de pesquisa">
 
-<!ENTITY search.placeholder              "Pesquise descargas">
-<!ENTITY search.label                    "Pesquise descargas">
+<!ENTITY search.placeholder              "Pesquisar transferências">
+<!ENTITY search.label                    "Pesquisar transferências">
 <!ENTITY search.accesskey                "s">
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Limpar lista">
-<!ENTITY cmd.clearList.tooltip           "Remove as descargas concluídas, canceladas e falhadas da lista">
+<!ENTITY cmd.clearList.tooltip           "Remove as transferências concluídas, canceladas e falhadas da lista">
 <!ENTITY cmd.clearList.accesskey         "L">
 
 <!ENTITY col.name.label                  "Nome">
@@ -82,9 +82,9 @@
 <!ENTITY cmd.open.accesskey              "b">
 <!ENTITY cmd.show.label                  "Abrir pasta respetiva">
 <!ENTITY cmd.show.accesskey              "A">
-<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de descarga">
+<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de transferência">
 <!ENTITY cmd.goToDownloadPage.accesskey  "I">
-<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da descarga">
+<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da transferência">
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
 <!ENTITY cmd.properties.label            "Propriedades…">
 <!ENTITY cmd.properties.accesskey        "s">
