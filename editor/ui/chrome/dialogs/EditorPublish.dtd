@@ -3,8 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY windowTitle.label            "Publicar página">
+<!ENTITY windowTitleSettings.label    "Ajustes de publicación">
+<!ENTITY publishTab.label             "Publicar">
+<!ENTITY settingsTab.label            "Ajustes">
+<!ENTITY publishButton.label          "Publicar">
 
 <!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Nombre del sitio:">
+<!ENTITY siteList.accesskey           "e">
+<!ENTITY siteList.tooltip             "Elige el sitio al que quieres publicar">
+<!ENTITY newSiteButton.label          "Nuevo sitio">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.label             "Subdirectorio del sitio para esta página:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Elige o ingresa el nombre del subdirectorio remoto para esta página">
+<!ENTITY publishImgCheckbox.label     "Incluir imágenes y otros archivos">
 
 <!-- Settings Tab Panel -->
 <!ENTITY savePassword.tooltip         "Selecciona esto para guardar tu contraseña de manera segura con Password Manager">
