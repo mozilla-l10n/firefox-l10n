@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir painel de mensagem">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir painel de solicitação de localização">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir painel de mensagem de instalação de extra">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Abrir painel de mensagem de instalação de Extra">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gerir permissão de extração da tela">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Abrir painel de mensagem de armazenamento offline">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir painel de mensagem de guardar palavra-passe">
@@ -845,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Arraste os seus itens favoritos para a barra de ferramentas ou menu de excesso.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha de entre milhares de extras">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha de entre milhares de Extras">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinições">
 <!ENTITY customizeMode.done "Concluir">
 <!ENTITY customizeMode.titlebar "Barra de título">
