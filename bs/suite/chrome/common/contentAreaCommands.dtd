@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Odbacite iskočne prozore sa ove web stranice">
+<!ENTITY popupWindowAllowCmd.label      "Dozvolite iskočne prozore sa ove web stranice">
+<!ENTITY openLinkCmdInTab.label       "Otvori link u novom tabu">
+<!ENTITY openLinkCmd.label            "Otvori link u novom prozoru">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Otvori link u privatnom prozoru">
+<!ENTITY openLinkInWindowCmd.label    "Otvori">
+<!ENTITY openFrameCmd.label           "Otvori okvir u novom prozoru">
+<!ENTITY openFrameCmdInTab.label      "Otvori okvir u novom tabu">
+<!ENTITY keywordfield.label           "Dodaj ključnu riječ za ovu pretragu…">
+<!ENTITY showOnlyThisFrameCmd.label     "Prikaži samo ovaj okvir">
+<!ENTITY goBackCmd.label              "Nazad">
+<!ENTITY goForwardCmd.label           "Naprijed">
+<!ENTITY goUpCmd.label                "Gore">
+<!ENTITY reloadCmd.label              "Učitaj ponovo">
+<!ENTITY stopCmd.label                "Zaustavi">
+<!ENTITY reloadFrameCmd.label         "Ponovo učitaj okvir">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!-- Developer Tools -->
