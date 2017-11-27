@@ -6,28 +6,28 @@
 <!ENTITY setPassword.title  "Camudar contraseña maestra">
 <!ENTITY setPassword.tokenName.label "Preséu de seguranza">
 <!ENTITY setPassword.oldPassword.label "Contraseña actual:">
-<!ENTITY setPassword.newPassword.label "Nueva contraseña:">
-<!ENTITY setPassword.reenterPassword.label "Nueva contraseña (confirmar):">
+<!ENTITY setPassword.newPassword.label "Contraseña nueva:">
+<!ENTITY setPassword.reenterPassword.label "Contraseña nueva (de nueves):">
 <!ENTITY setPassword.meter.label "Mididor de calidá de la contraseña">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Restablecer">
-<!ENTITY resetPassword.title  "Restablecer la contraseña maestra">
-<!ENTITY resetPassword.text  "Si restableces la contraseña maestra, escaeceránse toles contraseñes web y de corréu electrónicu guardaes, los datos de los formularios, certificaos personales y claves privaes. ¿Daveres que quies restablecer la contraseña maestra?">
+<!ENTITY resetPasswordButtonLabel "Reafitar">
+<!ENTITY resetPassword.title  "Reafitar contraseña maestra">
+<!ENTITY resetPassword.text  "Si reafites la contraseña maestra, van escaecese tolos datos de contraseñes, formularios y certificaos personales. ¿De xuru que quies reafitar la contraseña maestra?">
 
 <!-- Downloading a cert -->
-<!ENTITY downloadCert.title "Descargando certificáu">
-<!ENTITY downloadCert.message1 "Pidiste l'enfotu nuna nueva Autoridá Certificadora (CA).">
+<!ENTITY downloadCert.title "Baxando certificáu">
+<!ENTITY downloadCert.message1 "Pidiósete que t'enfotares nuna autoridá certificadora nueva (CA).">
 <!ENTITY downloadCert.trustSSL "Enfotase nesta CA pa identificar sitios web.">
 <!ENTITY downloadCert.trustEmail "Enfotase nesta CA pa identificar usuarios de corréu.">
 <!ENTITY downloadCert.trustObjSign "Enfotase nesta CA pa identificar desendolcadores de software.">
-<!ENTITY downloadCert.message3 "Enantes d'enfotase nesta CA pa cualesquier propósitu, tienes de desaminar el certificáu, política y procedimientos de la CA (si tán disponibles).">
+<!ENTITY downloadCert.message3 "Enantes d'enfotase nesta CA pa cualesquier propósitu, deberíes desaminar el certificáu, política y procedimientos (si tán disponibles).">
 <!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewCert.text "Desaminar certificáu de CA">
 
 <!-- Strings for the SSL client auth ask dialog -->
-<!ENTITY clientAuthAsk.title "Petición d'identificación d'usuariu">
-<!ENTITY clientAuthAsk.message1 "El siguiente sitiu pidió que t'identifiques con un certificáu:">
+<!ENTITY clientAuthAsk.title "Solicitú d'identificación d'usuariu">
+<!ENTITY clientAuthAsk.message1 "El sitiu solicitó que t'indentifiques con un certificáu:">
 <!ENTITY clientAuthAsk.message2 "Escueyi un certificáu pa presentalu como identificación:">
 <!ENTITY clientAuthAsk.message3 "Detalles del certificáu esbilláu:">
 
