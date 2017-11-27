@@ -46,7 +46,7 @@
 <!ENTITY servicesMenuMac.label          "Servisi">
 
 <!ENTITY hideThisAppCmdMac2.label       "Sakrij &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "S">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Sakrij ostale">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
