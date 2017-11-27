@@ -62,3 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> hefur verið <a id='error_desc_link'>tilkynnt að innihaldi hættulegt forrit</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Lærðu meira um &brandShortName;’s vörninni gegn netveiðum og spilliforritum á <a id='firefox_support'>support.mozilla.org</a>.">
