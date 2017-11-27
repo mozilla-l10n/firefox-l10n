@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
-<!ENTITY closeCmd.key  "ល">
+<!ENTITY closeCmd.key  "W">
 <!ENTITY toggleToolbox.key  "I">
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
@@ -78,12 +78,6 @@
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "បើក​ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "បើក​ការ​កែ​កំហុស Worker (នៅ​ក្នុង​ការ​អភិវឌ្ឍ)">
-<!ENTITY options.enableWorkers.tooltip  "ការ​បើក​ជម្រើស​នេះ​​នឹង​អនុញ្ញាត​ឲ្យ​ឧបករណ៍​អ្នក​អភិវឌ្ឍ​ធ្វើការ​កែ​កំហុស​ Workers">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -143,17 +137,12 @@
   -  heading of the group of Debugger preferences in the options panel. -->
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "កម្មវិធី​កែ​សម្រួល​រចនា​ប័ទ្ម">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "បង្ហាញ​ប្រភព​ដើម">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "បង្ហាញ​ប្រភព​ដើម (ឧ. ឯកសារ Sass) ក្នុង​កម្មវិធី​ពិនិត្យមើល និង​កម្មវិធី​កែ​រចនាសម្ព័ន្ធ">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -169,18 +158,6 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
-
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "ចំណូលចិត្ត​ទូទៅ">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "បើក​កំណត់​ហេតុ persistent">
-<!ENTITY options.enablePersistentLogs.tooltip  "ប្រសិនបើ​អ្នក​បើក​ជម្រើស​នេះ​កុង​សូល​វេបសាយ និង​កម្មវិធី​គ្រប់គ្រង​បណ្ដាញ​នឹង​មិន​សម្អាត​ពេលវេលា​នីមួយៗ​​ដែល​អ្នក​បាន​រក​មើល​នៅ​ទំព័រ​ថ្មី">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

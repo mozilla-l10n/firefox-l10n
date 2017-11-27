@@ -27,7 +27,7 @@
 
 <!ENTITY copyCmd.label       "ចម្លង">  
 <!ENTITY copyCmd.accesskey   "ច"> 
-<!ENTITY copyCmd.commandkey  "ច"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "លំដាប់​តម្រៀប ដំបូង > ​ចុង​ក្រោយ">
 <!ENTITY sortFirst.accesskey "F">
 <!ENTITY sortLast.label      "លំដាប់​តម្រៀប ចុងក្រោយ > ​ដំបូង">

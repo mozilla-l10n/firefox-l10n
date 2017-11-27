@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "">
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "បង្រួម​អប្បបរមា">
 <!ENTITY bringAllToFront.label    "នាំទៅ​មុខ​ទាំងអស់">
 <!ENTITY zoomWindow.label         "ពង្រីក">
@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "សេវាកម្ម">
 
 <!ENTITY hideThisAppCmdMac2.label       "លាក់ &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "លាក់​ផ្សេងទៀត">
-<!ENTITY hideOtherAppsCmdMac.commandkey "">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "បង្ហាញ​ទាំងអស់">
