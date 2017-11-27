@@ -19,7 +19,7 @@
 <!ENTITY icon2.accesskey      "ხ">
 <!ENTITY color2.label         "ფერი">
 <!ENTITY color2.accesskey     "ფ">
-<!ENTITY windowClose.key      "დ">
+<!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "მზადაა">
 <!ENTITY button.ok.accesskey  "მ">
