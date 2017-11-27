@@ -31,7 +31,7 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Preferências">
 <!ENTITY abouthome.addonsButton.label    "Extras">
-<!ENTITY abouthome.downloadsButton.label "Descargas">
+<!ENTITY abouthome.downloadsButton.label "Transferências">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
