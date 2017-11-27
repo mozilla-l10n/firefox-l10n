@@ -4,7 +4,7 @@
 
 <!ENTITY  security.label                 "Segurança">
 
-<!ENTITY  warnOnAddonInstall2.label       "Avisar-lhe quando os websites tentam instalar extras">
+<!ENTITY  warnOnAddonInstall2.label       "Avisar-lhe quando os websites tentam instalar Extras">
 <!ENTITY  warnOnAddonInstall2.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
