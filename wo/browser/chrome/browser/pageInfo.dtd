@@ -4,14 +4,13 @@
 
 <!ENTITY  pageInfoWindow.width  "650">
 
-
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Duppi">
 <!ENTITY  copy.accesskey        "D">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Fal lépp">
 <!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "v">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Ëmb lépp">
 <!ENTITY  generalTab.accesskey  "G">
@@ -22,7 +21,6 @@
 <!ENTITY  generalReferrer       "URL bi mu tukkee :">
 <!ENTITY  generalSource         "Cosaanu nëbb gi :">
 <!ENTITY  generalModified       "Soppi ci :">
-
 <!ENTITY  generalMetaName       "Tur">
 <!ENTITY  generalMetaContent    "Ëmb li">
 
