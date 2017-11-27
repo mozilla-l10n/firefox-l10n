@@ -31,7 +31,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "بعد میں میں اور &brandShortName; لئے لنکس کو محفوظ کریں؛ دیگر اطلاقات میں ان ٹیپ.">
 
 <!ENTITY firstrun_tabqueue_message_on "کامیابی!">
-<!ENTITY firstrun_tabqueue_subtext_on "آپ پمیشہ &amp;سیٹکگیں؛ سے پند کرسکتے ہیں &pref_category_general;. کے نیچے">
+<!ENTITY firstrun_tabqueue_subtext_on "آپ پمیشہ &settings; سے پند کرسکتے ہیں &pref_category_general;. کے نیچے">
 
 <!ENTITY firstrun_readerview_title "مضامین">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
