@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printdialog.xul -->
 
+<!-- extracted from printdialog.xul -->
 
 <!ENTITY printButton.label "Siggez">
 
@@ -24,7 +24,7 @@
 <!ENTITY allpagesRadio.accesskey "A">
 <!ENTITY rangeRadio.label  "Isebtar">
 <!ENTITY rangeRadio.accesskey  "I">
-<!ENTITY frompageInput.label  "si">
+<!ENTITY frompageInput.label  "seg">
 <!ENTITY frompageInput.accesskey  "i">
 <!ENTITY topageInput.label  "ɣeṛ">
 <!ENTITY topageInput.accesskey  "e">
