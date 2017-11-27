@@ -231,7 +231,7 @@
 <!ENTITY event.attachments.accesskey                      "x" >
 <!ENTITY event.attachments.menubutton.label               "Anexar">
 <!ENTITY event.attachments.menubutton.accesskey           "A">
-<!ENTITY event.attachments.url.label                      "Página Web…">
+<!ENTITY event.attachments.url.label                      "Página web…">
 <!ENTITY event.attachments.url.accesskey                  "w">
 <!ENTITY event.attachments.popup.remove.label             "Remover" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
