@@ -111,7 +111,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 <!ENTITY debuggerUI.searchGlobal           "Sykje yn alle bestannen">
-<!ENTITY debuggerUI.searchGlobal.key       "B">
+<!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
@@ -135,7 +135,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable           "Fariabelen filterje">
-<!ENTITY debuggerUI.searchVariable.key       "a">
+<!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "F">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears

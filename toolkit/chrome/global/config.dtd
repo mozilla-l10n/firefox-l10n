@@ -13,7 +13,7 @@
 
 <!ENTITY searchPrefs.label "Sykje:">
 <!ENTITY searchPrefs.accesskey "S">
-<!ENTITY focusSearch.key "s">
+<!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
@@ -27,7 +27,7 @@
 <!ENTITY columnChooser.tooltip "Klik om te toanen kolommen te selektearjen"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "K">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopiearje">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Namme kopiearje">

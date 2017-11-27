@@ -80,7 +80,7 @@
 
 <!ENTITY run.label                    "Utfiere">
 <!ENTITY run.accesskey                "U">
-<!ENTITY run.key                      "t">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Ynspektearje">
 <!ENTITY inspect.accesskey            "Y">
@@ -88,7 +88,7 @@
 
 <!ENTITY display.label                "Werjaan">
 <!ENTITY display.accesskey            "W">
-<!ENTITY display.key                  "o">
+<!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "Moaie ôfdruk">
 <!ENTITY pprint.key                   "p">
