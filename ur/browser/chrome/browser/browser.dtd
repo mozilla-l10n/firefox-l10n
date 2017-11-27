@@ -961,7 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.message "&brandShorterName; کی تازہ کاپی ڈاون لوڈ کرے اور اسے تنصب کرنے میں ہم آپکی مدد کریں گے۔">
 <!ENTITY updateManual.whatsnew.label "نظارہ کریں نیا کیا ہے">
 <!ENTITY updateManual.header.message "&brandShorterName; تازہ ترین ورژن پر تازہ کاری نہیں ہو سکا۔">
-<!ENTITY updateManual.acceptButton.label "brandShorterName; کو Download کریں">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; کو Download کریں">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "ابھی نہیں">
 <!ENTITY updateManual.cancelButton.accesskey "ا">

@@ -6,18 +6,18 @@
 
 <!ENTITY searchreset.pageTitle      "اپنی تلاش کی سیٹکگیں بحال کریں؟">
 
-<!ENTITY searchreset.pageInfo1      "اپنی تلاش کی سیٹکگیں پرانی ہو سکتی ہی ۔  &amp;brandShortName آپکی طےشدہ تلاش سیٹکگیں بحال کرنے میں مدد کر سکتا ہے۔">
+<!ENTITY searchreset.pageInfo1      "اپنی تلاش کی سیٹکگیں پرانی ہو سکتی ہی ۔  &brandShortName; آپکی طےشدہ تلاش سیٹکگیں بحال کرنے میں مدد کر سکتا ہے۔">
+
+
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-
-
 <!ENTITY searchreset.selector.label "یہ آپکے طے شدہ تلاش انجنن کو  سیٹ کر دے گا">
+
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
-
 <!ENTITY searchreset.beforelink.pageInfo2 "آپ ویاں سے ان سیٹکگیں کو کسی بھِی  وقت تبدیل کرسکتے ہیں ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
