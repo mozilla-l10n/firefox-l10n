@@ -17,4 +17,10 @@
 <!ENTITY privatebrowsingpage.learnmore.label     "Saznajte više">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "S">
 
+<!ENTITY privatebrowsingpage.close.info          "Po završetku, zatvorite prozor da obustavite privatno pretraživanje.">
+<!ENTITY privatebrowsingpage.close.label         "Zatvori ovaj prozor sad">
+<!ENTITY privatebrowsingpage.close.accesskey     "Z">
 
+<!ENTITY privatebrowsingpage.start.info          "Da započnete privatno pretraživanje, kliknite dugme ispod ili odaberite datoteku ▶ Novi ▶ Privatni prozor iz menija.">
+<!ENTITY privatebrowsingpage.private.label       "Otvorite novi privatni prozor">
+<!ENTITY privatebrowsingpage.private.accesskey   "O">
