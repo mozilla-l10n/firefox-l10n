@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Az összes böngészőlap megjelenítése">
 <!ENTITY showAllTabsCmd.accesskey "m">
-<!ENTITY toggleReaderMode.key "O">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Bejelentkezés a &syncBrand.shortName.label;be">
 <!ENTITY fxaSignedIn.tooltip "A &syncBrand.shortName.label; beállításainak megnyitása">
@@ -709,7 +709,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "B">
 
-<!ENTITY toggleMuteCmd.key              "N">
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Oldalstílus">
 <!ENTITY pageStyleMenu.accesskey "s">
