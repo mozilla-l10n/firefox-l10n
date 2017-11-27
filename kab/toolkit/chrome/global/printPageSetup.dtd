@@ -58,7 +58,7 @@
 <!ENTITY hfURL               "Tansa URL">
 <!ENTITY hfDateAndTime       "Azemz/Akud">
 <!ENTITY hfPage              "Asebter #">
-<!ENTITY hfPageAndTotal      "Asebter # si  #">
+<!ENTITY hfPageAndTotal      "Asebter # si #">
 <!ENTITY hfBlank             "--ilem--">
 <!ENTITY hfCustom            "Sagen…">
 
