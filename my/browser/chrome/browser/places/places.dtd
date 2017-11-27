@@ -12,7 +12,7 @@
 
 <!ENTITY file.close.label               "ပိတ်ပါ ">
 <!ENTITY file.close.accesskey           "C">
-<!ENTITY cmd.close.key                  "w ">
+<!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "ရှုမြင်ချက်များ">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "သင်၏မြင်ကွင်းအားပြောင်းပါ">
@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "ထည့်သွင်းထားပြီ">
 <!ENTITY col.lastmodified.label  "နောက်ဆုံး မွမ်းမံချိန်">
 
-<!ENTITY search.label                              "ရှာဖွေပါ -">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "အချက်တခုကို ရှုမြင်ဖို့နဲ့ ၄င်းရဲ့ ဂုဏ်အင်္ဂါရပ်များကို တည်းဖြတ်ဖို့ ရွေးချယ်ပါ">
 
-<!ENTITY find.label               "ရှာဖွေပါ -">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "ရှုမြင်ချက်">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "ရက်ဆွဲအားဖြင့်">

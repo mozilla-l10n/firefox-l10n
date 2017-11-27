@@ -27,7 +27,7 @@
 
 <!ENTITY newWindowCmd.label           "ဝင်းဒိုးသစ်">
 <!ENTITY newWindowCmd.accesskey       "ဝ">
-<!ENTITY newWindowCmd.commandkey      "ဝ">
+<!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Oဖိုင် ဖွင့်ပါ...">
 <!ENTITY openFileCmd.accesskey        "O">
@@ -59,15 +59,15 @@
 
 <!ENTITY run.label                    "မောင်းပါ">
 <!ENTITY run.accesskey                "မ">
-<!ENTITY run.key                      "မ">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "တိုင်းတာမည်">
 <!ENTITY inspect.accesskey            "တ">
-<!ENTITY inspect.key                  "တ">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "ပြသပါ">
 <!ENTITY display.accesskey            "ပ">
-<!ENTITY display.key                  "ပ">
+<!ENTITY display.key                  "l">
 
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
