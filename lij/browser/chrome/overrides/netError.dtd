@@ -18,16 +18,7 @@
 <!ENTITY deniedPortAccess.title "L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seguessa">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "No treuvo l'indirisso">
-<!ENTITY dnsNotFound.longDesc "<ul>
-  <li>Contròlla che l'indirisso o no l'agge di eroî comme
-    <strong>ww</strong>.ezenpio.com invece de
-    <strong>www</strong>.ezenpio.com</li>
-  <li>Se no ti peu caregâ nisciunn-a pagina contròlla a conescion a-a ræ.</li>
-  <li>Se o teu computer ò ræ son protezui da un firewall ò proxy verifica se 
-     &brandShortName; o peu acede a-a ræ.</li>
-</ul>
-">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "File no trovou">
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu ese che l'ògetto o segge stæto rinominou, scancelou ò mesciou?</li><li>Gh'é quarche erô inte l'indirisso?</li><li>Ti ghe l'æ i permissi pe acede a l'ògetto?</li></ul>">
@@ -40,7 +31,6 @@
 ">
 
 <!ENTITY generic.title "Ahi me mi!">
-<!ENTITY generic.longDesc "<p>No gh'é atre informaçioin in sciô problema.</p>">
 
 <!ENTITY captivePortal.title "Intra inta ræ">
 <!ENTITY captivePortal.longDesc2 "
@@ -49,8 +39,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Arvi a Pagina de Login da ræ">
 
-<!ENTITY malformedURI.title "L'indirisso o no l'é valido">
-<!ENTITY malformedURI.longDesc "<p>L'indirisso che ti me dæto o no va ben. Pe piaxei contròlla che no gh'é di eroî inta bara di indirissi e preuva torna.</p>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Trasferimento di dæti scancellou">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
