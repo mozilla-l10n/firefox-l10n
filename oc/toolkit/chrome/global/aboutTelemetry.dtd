@@ -2,68 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutTelemetry.pingDataSource " Font de donadas de ping : ">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "
+Uèi
+">
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Ièr
+">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+
 <!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
 
 
-
-
-
-
-
-
+<!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
+<!ENTITY aboutTelemetry.sessionInfoSection "  Informacions del sistèma">
+<!ENTITY aboutTelemetry.scalarsSection "  Escalars">
+<!ENTITY aboutTelemetry.histogramsSection "  Istogramas">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Istogramas amb clau">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
+<!ENTITY aboutTelemetry.telemetryLogSection "  Jornal de la telemetria">
+<!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Detalhs suls moduls complementaris">
+<!ENTITY aboutTelemetry.lateWritesSection "  Escrituras tardièras">
 <!ENTITY aboutTelemetry.raw "
 JSON brut
 ">
 
-
-
-
-
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "Setmana">
-
-
-<!ENTITY aboutTelemetry.archivePingHeader "Ping">
-
-<!ENTITY aboutTelemetry.optionGroupToday "
-Uèi
-">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-Ièr
-">
-
-
-<!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
-
-
-<!ENTITY aboutTelemetry.telemetryLogSection "  Jornal de la telemetria">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">
-
-
-<!ENTITY aboutTelemetry.scalarsSection "  Escalars">
-
-
-<!ENTITY aboutTelemetry.histogramsSection "  Istogramas">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  Istogramas amb clau">
-
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "  Detalhs suls moduls complementaris">
-
-<!ENTITY aboutTelemetry.lateWritesSection "  Escrituras tardièras">
-
-
-<!ENTITY aboutTelemetry.sessionInfoSection "  Informacions del sistèma">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NÒTA : Lo desbugatge de las requèstas SQL lentas es activat. De requèstas SQL completas pòdon èsser afichadas çaijós, mas seràn pas mandadas per telemetria.">
-
-
-
-<!ENTITY aboutTelemetry.filterText "  Filtrar (cadena de caractèrs o expression regulara)">
-
