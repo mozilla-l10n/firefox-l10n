@@ -508,6 +508,7 @@
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
 <!ENTITY pinned_page_to_top_sites "Pinindot na pahina sa Mga Nangungunang Site">
+<!ENTITY unpinned_page_from_top_sites "I-unpin ang pahina mula sa mga Top Site">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -524,10 +525,12 @@
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar2 "Mag-browse ng naka-full-screen">
 
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Isiksik ang mga tab">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -569,7 +572,16 @@
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY home_history_title "Kasaysayan">
+<!ENTITY home_synced_devices_number "&formatD; na mga device">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 na device">
+<!ENTITY home_history_back_to2 "Bumalik sa buong Kasaysayan">
+<!ENTITY home_clear_history_button "Burahin ang lahat ng kasaysayan sa pag-browse">
+<!ENTITY home_clear_history_confirm "Sigurado ka ba na burahin ang lahat ng iyong kasaysayan?">
+<!ENTITY home_bookmarks_empty "Dito makikita ang lahat ng mga bookmark na iyong nai-save.">
+<!ENTITY home_closed_tabs_title2 "Mga naisarang tab kamakailan lang">
+<!ENTITY home_last_tabs_empty "Makikita rito ang iyong ngangayon lang na mga tab.">
+<!ENTITY home_restore_all "I-restore ang lahat">
 <!ENTITY home_closed_tabs_number "&formatD; tabs">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 tab">
@@ -596,6 +608,7 @@
 
 
 
+<!ENTITY filepicker_title "Piliin ang File">
 <!ENTITY filepicker_audio_title "Mamili o mag rekord ng tunog">
 <!ENTITY filepicker_image_title "Mamili o kumuha ng litrato">
 <!ENTITY filepicker_video_title "Mamili o mag rekord ng video">
@@ -650,6 +663,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Hayaan">
 
     <!-- Guest mode -->
 <!ENTITY guest_session_dialog_continue "Magpatuloy">
@@ -666,6 +680,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+<!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Tapos na">
 
 <!-- Voice search in the awesome bar -->
