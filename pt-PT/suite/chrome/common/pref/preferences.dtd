@@ -20,7 +20,7 @@
 <!ENTITY search.label "Pesquisa na Internet">
 <!ENTITY tabWindows.label "Navegação por separadores">
 <!ENTITY links.label "Comportamento da ligação">
-<!ENTITY download.label "Descargas">
+<!ENTITY download.label "Transferências">
 
 <!ENTITY security.label "Privacidade e segurança">
 <!ENTITY privatedata.label "Dados privados">

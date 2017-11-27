@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 
+<!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title               "Instalação de Software">
 <!ENTITY addOnsTitle.label                    "Extras">
 <!ENTITY addOnsAllow.label                    "Permitir websites de instalar atualizações de extras">
@@ -14,7 +14,7 @@
 <!ENTITY addOnsDaily.accesskey                "d">
 <!ENTITY weekly.label                         "semanalmente">
 <!ENTITY addOnsWeekly.accesskey               "l">
-<!ENTITY addOnsModeAutomatic.label            "Descarregar e instalar atualizações automaticamente">
+<!ENTITY addOnsModeAutomatic.label            "Transferir e instalar atualizações automaticamente">
 <!ENTITY addOnsModeAutomatic.accesskey        "m">
 <!ENTITY enablePersonalized.label             "Recomendação de personalização de extras">
 <!ENTITY enablePersonalized.accesskey         "p">
@@ -25,7 +25,7 @@
 <!ENTITY autoAppUpdates.accesskey             "t">
 <!ENTITY appDaily.accesskey                   "a">
 <!ENTITY appWeekly.accesskey                  "e">
-<!ENTITY appModeAutomatic.label               "Descarregar e instalar atualização automaticamente">
+<!ENTITY appModeAutomatic.label               "Transferir e instalar atualização automaticamente">
 <!ENTITY appModeAutomatic.accesskey           "u">
 <!ENTITY updateHistoryButton.label            "Mostrar histórico de atualizações…">
 <!ENTITY updateHistoryButton.accesskey        "s">
