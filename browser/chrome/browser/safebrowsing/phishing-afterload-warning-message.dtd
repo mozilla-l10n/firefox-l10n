@@ -24,9 +24,11 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
-<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> hefur verið <a id='error_desc_link'>tilkynnt að innihalda hættulegan hugbúnað</a>. Þú getur <a id='report_detection'>sent inn tilkynningu á rangri flokkun</a> eða <a id='ignore_warning_link'>hunsað áhættuna</a> og haldið áfram á þessa óöruggu síðu.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> hefur verið <a id='error_desc_link'>tilkynnt að innihalda splliforrit</a>. Þú getur <a id='report_detection'>sent inn tilkynningu á rangri flokkun</a> eða <a id='ignore_warning_link'>hunsað áhættuna</a> og haldið áfram á þessa óöruggu síðu.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> hefur verið <a id='error_desc_link'>tilkynnt að innihalda spilliforrit</a>. Þú getur <a id='report_detection'>sent inn tilkynningu á rangri flokkun</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Lærðu meira um hættuleg vefforrit eins og vírusa og annan svikahugbúnað og hvernig þú getur verndað tölvuna þína á <a id='learn_more_link'>StopBadware.org</a>. Lærðu meira um &brandShortName;’s vörninni gegn svikum og svikahugbúnaði á <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Vefsvæði hér á eftir gæti innihaldið spilliforrit">
