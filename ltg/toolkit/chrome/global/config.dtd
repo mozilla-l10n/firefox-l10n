@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Ahoi! Prīška beistamys īspiejis!">
 <!ENTITY aboutWarningText.label "Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.">
 <!ENTITY aboutWarningButton2.label "Es apsazynoju risku!">
@@ -13,21 +13,21 @@
 
 <!ENTITY searchPrefs.label "Mekleit:">
 <!ENTITY searchPrefs.accesskey "l">
-<!ENTITY focusSearch.key "l">
+<!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Īstatiejuma nūsaukums">
 <!ENTITY lockColumn.label "Statuss">
 <!ENTITY typeColumn.label "Tips">
 <!ENTITY valueColumn.label "Vierteiba">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Spīst, kab kuortuotu"> 
 <!ENTITY columnChooser.tooltip "Spīst, kab izavālātūs ruodamuos kolonys"> 
-<!-- Context Menu -->
 
-<!ENTITY copyPref.key "K">
+<!-- Context Menu -->
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Kopēt">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Kopēt nūsaukumu">
