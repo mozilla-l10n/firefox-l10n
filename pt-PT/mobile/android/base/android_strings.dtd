@@ -269,7 +269,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Bloqueado">
 
 <!ENTITY pref_show_web_fonts "Mostrar tipos de letra da web">
-<!ENTITY pref_show_web_fonts_summary2 "Descarregar fontes remotas ao carregar uma página">
+<!ENTITY pref_show_web_fonts_summary2 "Transferir fontes remotas ao carregar uma página">
 
 <!ENTITY pref_tracking_protection_title2 "Proteção contra monitorização">
 <!ENTITY pref_donottrack_title "Do not track">
@@ -381,7 +381,7 @@
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Dados offline do website">
 <!ENTITY pref_private_data_siteSettings2 "Definições do site">
-<!ENTITY pref_private_data_downloadFiles2 "Descargas">
+<!ENTITY pref_private_data_downloadFiles2 "Transferências">
 <!ENTITY pref_private_data_syncedTabs "Separadores sincronizados">
 
 <!ENTITY pref_default_browser "Tornar navegador predefinido">
@@ -446,7 +446,7 @@
 
 <!ENTITY addons "Extras">
 <!ENTITY logins "Credenciais">
-<!ENTITY downloads "Descargas">
+<!ENTITY downloads "Transferências">
 <!ENTITY char_encoding "Codificação de caracteres">
 
 <!ENTITY share "Partilhar">
@@ -700,20 +700,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Atualização disponível para o &brandShortName;">
-<!ENTITY updater_start_select2 "Toque para descarregar">
+<!ENTITY updater_start_select2 "Toque para transferir">
 
-<!ENTITY updater_downloading_title2 "A descarregar o &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Erro ao descarregar">
-<!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for descarregada">
+<!ENTITY updater_downloading_title2 "A transferir o &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Erro ao transferir">
+<!ENTITY updater_downloading_select2 "Toque para aplicar a atualização assim que for transferida">
 <!ENTITY updater_downloading_retry2 "Toque para repetir">
 
-<!ENTITY updater_apply_title3 "Atualização descarregada para o &brandShortName;">
+<!ENTITY updater_apply_title3 "Atualização transferida para o &brandShortName;">
 <!ENTITY updater_apply_select3 "Toque para instalar">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Para descarregar ficheiros e atualizações, autorize o &brandShortName; a aceder ao armazenamento.">
+<!ENTITY updater_permission_text "Para transferir ficheiros e atualizações, autorize o &brandShortName; a aceder ao armazenamento.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Permitir">
 
@@ -809,7 +809,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "Desculpe! Este &brandShortName; não funciona neste dispositivo (&formatS1;, &formatS2;). Por favor, descarregue a versão correta.">
+<!ENTITY unsupported_sdk_version "Desculpe! Este &brandShortName; não funciona neste dispositivo (&formatS1;, &formatS2;). Por favor, transfira a versão correta.">
 
 <!ENTITY eol_notification_title2 "O &brandShortName; não será mais atualizado">
 <!ENTITY eol_notification_summary "Toque para saber mais">
@@ -858,7 +858,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Navegação privada + Proteção contra monitorização">
 <!ENTITY private_tab_panel_description "O &brandShortName; bloqueia partes das páginas que podem monitorizar a sua atividade de navegação.">
-<!ENTITY private_tab_panel_description2 "Não iremos memorizar qualquer histórico, mas os ficheiros descarregados e novos marcadores ainda serão guardados no seu dispositivo.">
+<!ENTITY private_tab_panel_description2 "Não iremos memorizar qualquer histórico, mas os ficheiros transferidos e novos marcadores ainda serão guardados no seu dispositivo.">
 <!ENTITY private_tab_learn_more "Deseja saber mais?">
 
 <!ENTITY fullscreen_warning "Entrou no modo de ecrã completo">

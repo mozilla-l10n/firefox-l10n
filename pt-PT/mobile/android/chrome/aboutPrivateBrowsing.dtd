@@ -14,12 +14,12 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Não está na navegação privada">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "O &brandShortName; bloqueia partes das páginas que podem monitorizar a sua atividade de navegação.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Não iremos memorizar qualquer histórico, mas os ficheiros descarregados e novos marcadores ainda serão guardados no seu dispositivo.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Não iremos memorizar qualquer histórico, mas os ficheiros transferidos e novos marcadores ainda serão guardados no seu dispositivo.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "Na navegação privada, não manteremos o seu histórico de navegação ou cookies. Os marcadores que adicionar e os ficheiros que descarregar ainda serão guardados no seu dispositivo.">
+<!ENTITY privatebrowsingpage.description.normal2 "Na navegação privada, não manteremos o seu histórico de navegação ou cookies. Os marcadores que adicionar e os ficheiros que transferir ainda serão guardados no seu dispositivo.">
 
 <!ENTITY privatebrowsingpage.link.private "Deseja saber mais?">
 <!ENTITY privatebrowsingpage.link.normal "Abrir uma janela privada">
