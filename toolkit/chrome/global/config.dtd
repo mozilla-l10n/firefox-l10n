@@ -27,7 +27,7 @@
 <!ENTITY columnChooser.tooltip "ចុ​ច ដើម្បីជ្រើស​ជួរ​ឈរ​ដែល​ត្រូវ​បង្ហាញ"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "ច">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "ចម្លង">
 <!ENTITY copyPref.accesskey "ច">
 <!ENTITY copyName.label "ចម្លង​ឈ្មោះ">
