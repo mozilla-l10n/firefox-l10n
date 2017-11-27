@@ -11,5 +11,5 @@
 <!ENTITY addonAction.undo                       "I-undo">
 <!ENTITY addonAction.update                     "I-update">
 
-<!ENTITY addonUnsigned.message                  "Ang add-on na ito ay hindi ma-verify sa pamamagitan ng &brandShortName ;.">
+<!ENTITY addonUnsigned.message                  "Ang add-on na ito ay hindi ma-verify sa pamamagitan ng &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Alamin pa">

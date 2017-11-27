@@ -279,7 +279,6 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Pinagana sa Pribadong Pagba-browse">
 <!ENTITY pref_tracking_protection_disabled "Baldado">
 
-<!ENTITY pref_whats_new_notification "Anong bago sa">
 <!ENTITY pref_whats_new_notification_summary "Alamin ang tungkol sa mga bagong tampok pagkatapos ng pag-update">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
@@ -294,8 +293,6 @@
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-<!ENTITY custom_tabs_menu_item_open_in "Buksan sa">
-<!ENTITY custom_tabs_menu_footer "Pinagagana ng">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL ay na kopya na">
 
@@ -628,7 +625,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Tiyak ang koneksyon">
 <!ENTITY identity_connection_insecure "Walang katiyakan ang koneksyon">
-<!ENTITY identity_connection_chromeui "Itong pahina ay ligtas">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_display_loaded1 "Parte ng pahinang ito ay walang sekyuridad(kagaya ng mga imahe).">
