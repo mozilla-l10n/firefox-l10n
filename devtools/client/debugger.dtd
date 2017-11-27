@@ -123,25 +123,25 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken           "Meklēt">
-<!ENTITY debuggerUI.searchToken.key       "M">
+<!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "M">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Iet uz rindiņu…">
-<!ENTITY debuggerUI.searchGoToLine.key       "r">
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "r">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable           "Filtrēt mainīgos">
-<!ENTITY debuggerUI.searchVariable.key       "g">
+<!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "g">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 <!ENTITY debuggerUI.focusVariables           "Fokusēt mainīgo koku">
-<!ENTITY debuggerUI.focusVariables.key       "m">
+<!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "m">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
@@ -209,4 +209,4 @@
   -  the same as netmonitorUI.context.copyUrl -->
 <!ENTITY debuggerUI.context.copyUrl           "Kopēt adresi">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "k">
-<!ENTITY debuggerUI.context.copyUrl.key "o">
+<!ENTITY debuggerUI.context.copyUrl.key "C">
