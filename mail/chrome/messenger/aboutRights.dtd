@@ -52,6 +52,7 @@
 <!ENTITY rights.webservices-b "Avanzado">
 <!ENTITY rights.webservices-c " sección seguido por  ">
 <!ENTITY rights.webservices-d "Actualizar">
+<!ENTITY rights.webservices-e " y deseleccionar las opciones para &quot;Buscar periódicamente actualizaciones para&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
 
