@@ -17,8 +17,8 @@
 <!ENTITY     props.container.label          "Amagbar:">
 
 <!ENTITY     window.title                   "Inagan n tuqqna">
-<!ENTITY     windowClose.key                "f">
-<!ENTITY     focusSearch1.key               "c">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
 
 <!ENTITY     searchFilter.label             "Nadi">
 <!ENTITY     searchFilter.accesskey         "N">
