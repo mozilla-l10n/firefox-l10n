@@ -11,3 +11,11 @@
 <!ENTITY editBookmarkOverlay.folder.label                    "Direktorij:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Prikaži sve direktorije zabilješki">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Sakrij">
+<!ENTITY editBookmarkOverlay.tags.label                      "Oznake:">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Odvojite oznake zarezima">
+<!ENTITY editBookmarkOverlay.description.label               "Opis:">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Ključna riječ:">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Prikaži sve oznake">
+<!ENTITY editBookmarkOverlay.choose.label                    "Izaberi…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Novi direktorij">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Kreiraj novi direktorij">

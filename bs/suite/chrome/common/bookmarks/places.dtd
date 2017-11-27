@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY bookmarksManager.title         "Menadžer zabilješki">
+<!ENTITY bookmarksManager.width         "700">
+<!ENTITY bookmarksManager.height        "500">
+
+<!ENTITY file.close.label               "Zatvori">
+
+<!ENTITY view.columns.label             "Prikaži kolone">
+<!ENTITY view.sort.label                "Sortiraj">
+<!ENTITY view.unsorted.label            "Nesortirano">
+<!ENTITY view.sortAscending.label       "A > Z Redoslijed">
+<!ENTITY view.sortDescending.label      "Z > A Redoslijed">
+
+<!ENTITY cmd.findInBookmarks.label      "Nađi u zabilješkama…">
+<!ENTITY cmd.findCurrent.label          "Nađi u trenutnoj kolekciji…">
+
+<!ENTITY cmd.exportHTML.label           "Izvoz HTML…">
+<!ENTITY cmd.importHTML.label           "Uvoz HTML…">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
