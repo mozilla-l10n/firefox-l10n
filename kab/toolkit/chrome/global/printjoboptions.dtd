@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printJobOptions.title "Taɣaṛa n tsaggazt">
 
@@ -12,10 +12,10 @@
 <!ENTITY jobTitleInput.label "Azwel n isemli:">
 <!ENTITY jobTitleInput.accesskey "z">
 
-<!ENTITY colorGroup.label "Ini:">
+<!ENTITY colorGroup.label "Init:">
 <!ENTITY grayRadio.label "Tafesna n tkaẓaṭ">
 <!ENTITY grayRadio.accesskey "f">
-<!ENTITY colorRadio.label "Initen">
+<!ENTITY colorRadio.label "Init">
 <!ENTITY colorRadio.accesskey "I">
 
 <!ENTITY edgeMarginInput.label "Tallunt gar yiri n lkaɣeḍ d timiwa">
