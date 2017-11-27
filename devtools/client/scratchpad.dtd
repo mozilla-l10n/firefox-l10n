@@ -47,7 +47,7 @@
 <!ENTITY saveFileAsCmd.accesskey      "ש">
 
 <!ENTITY closeCmd.label               "סגירה">
-<!ENTITY closeCmd.key                 "ס">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "ס">
 
 <!ENTITY viewMenu.label               "תצוגה">
@@ -84,7 +84,7 @@
 
 <!ENTITY inspect.label                "חקירה">
 <!ENTITY inspect.accesskey            "ח">
-<!ENTITY inspect.key                  "ח">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "תצוגה">
 <!ENTITY display.accesskey            "ת">
