@@ -1,0 +1,67 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dataman.windowTitle "Menadžer podataka">
+
+
+<!ENTITY select.all.label "Sve vrste podataka">
+<!ENTITY select.cookies.label "Samo kolačiće">
+<!ENTITY select.permissions.label "Samo dozvole">
+<!ENTITY select.preferences.label "Samo preferencije">
+<!ENTITY select.passwords.label "Samo lozinke">
+<!ENTITY select.storage.label "Samo skladišta">
+
+<!ENTITY domain.search.placeholder "Traži domene">
+
+<!ENTITY domain.tree.domain.label "Domena">
+
+<!ENTITY domain.ctx.forgetdomain.label "Zaboravi na ovu domenu">
+<!ENTITY domain.ctx.forgetglobal.label "Zaboravi globalne podatke">
+
+
+<!ENTITY tab.cookies.label "Kolačići">
+<!ENTITY tab.permissions.label "Dozvole">
+<!ENTITY tab.preferences.label "Preferencije">
+<!ENTITY tab.passwords.label "Lozinke">
+<!ENTITY tab.storage.label "Skladište">
+<!ENTITY tab.formdata.label "Oblik podataka">
+<!ENTITY tab.forget.label "Zaboravi">
+
+<!-- cookies -->
+<!ENTITY cookies.description "Ova domena skladišti sljedeće kolačiće na vaš računar:">
+
+<!ENTITY cookies.tree.host.label "Web stranica">
+<!ENTITY cookies.tree.name.label "Naziv kolačića">
+<!ENTITY cookies.tree.expires.label "Ističe">
+
+
+
+
+
+
+<!-- permissions -->
+
+
+<!-- preferences -->
+
+
+
+
+<!-- passwords -->
+
+
+
+
+<!-- storage -->
+
+
+
+
+<!-- form data -->
+
+
+
+
+<!-- forget -->
+

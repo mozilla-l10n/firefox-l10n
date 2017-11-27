@@ -38,7 +38,48 @@
 <!ENTITY savePageCmd.label            "Sačuvaj stranicu">
 <!ENTITY saveFrameAsCmd.label         "Sačuvaj okvir kao…">
 <!ENTITY saveFrameCmd.label           "Sačuvaj okvir">
+<!ENTITY printFrameCmd.label          "Štampaj okvir…">
+<!ENTITY saveLinkAsCmd.label          "Sačuvaj link cilja kao…">
+<!ENTITY saveLinkCmd.label            "Sačuvaj link cilja">
+<!ENTITY saveImageAsCmd.label         "Sačuvaj sliku kao…">
+<!ENTITY saveImageCmd.label           "Sačuvaj sliku">
+<!ENTITY saveVideoCmd.label           "Sačuvaj video kao…">
+<!ENTITY saveAudioCmd.label           "Sačuvaj audio kao…">
+<!ENTITY copyLinkCmd.label            "Kopiraj lokaciju linka">
+<!ENTITY copyImageCmd.label           "Kopiraj sliku">
+<!ENTITY copyVideoURLCmd.label        "Kopiraj lokaciju videa">
+<!ENTITY copyAudioURLCmd.label        "Kopiraj lokaciju audia">
+<!ENTITY metadataCmd.label            "Svojstva">
+<!ENTITY copyEmailCmd.label           "Kopiraj adresu e-pošte">
+<!ENTITY thisFrameMenu.label          "Ovaj okvir">
+<!ENTITY mediaPlay.label              "Reproduciraj">
+<!ENTITY mediaPause.label             "Pauziraj">
+<!ENTITY mediaMute.label              "Isključi zvuk">
+<!ENTITY mediaUnmute.label            "Uključi zvuk">
+<!ENTITY mediaPlaybackRate.label        "Brzina reprodukcije">
+<!ENTITY mediaPlaybackRate050.label     "Usporeno (½ x)">
+<!ENTITY mediaPlaybackRate100.label     "Normalna brzina">
+<!ENTITY mediaPlaybackRate125.label     "Ubrzano (1¼×)">
+<!ENTITY mediaPlaybackRate150.label     "Visoka brzina (1½ ×)">
+<!ENTITY mediaPlaybackRate200.label     "Dvostruka brzina">
+<!ENTITY mediaLoop.label              "Ponavljaj">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label      "Pokaži kontrole medija">
+<!ENTITY mediaHideControls.label      "Sakrij kontrole medija">
+<!ENTITY videoFullScreen.label        "Prikaz preko cijelog ekrana">
+<!ENTITY videoSaveImage.label         "Sačuvaj Snapshot kao…">
+<!ENTITY videoShowStats.label         "Prikaži statistiku">
+<!ENTITY videoHideStats.label         "Sakrij statistiku">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Promijeni smjer stranice">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Promijeni smjer teksta">
+<!ENTITY spellAddToDictionary.label     "Dodaj u rječnik">
+<!ENTITY spellUndoAddToDictionary.label      "Poništi dodavanje u rječnik">
+<!ENTITY spellIgnoreWord.label          "Ignoriši riječ">
+<!ENTITY spellCheckEnable.label         "Provjeri pravopis">
+<!ENTITY spellNoSuggestions.label       "(Nema pravopisnih prijedloga)">
+<!ENTITY spellDictionaries.label        "Jezici">
+<!ENTITY spellAddDictionaries.label     "Preuzmite više rječnika…">
 <!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Inspekcija elementa">
