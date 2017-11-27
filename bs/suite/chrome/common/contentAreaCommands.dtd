@@ -19,6 +19,25 @@
 <!ENTITY reloadCmd.label              "Učitaj ponovo">
 <!ENTITY stopCmd.label                "Zaustavi">
 <!ENTITY reloadFrameCmd.label         "Ponovo učitaj okvir">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Pregled izvornog koda selekcije">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Pregled MathML izvornog koda">
+<!ENTITY viewPageSourceCmd.label      "Pregled izvornog koda stranice">
+<!ENTITY viewFrameSourceCmd.label     "Pregled izvornog koda okvira">
+<!ENTITY viewPageInfoCmd.label        "Pogledajte informacije o stranici">
+<!ENTITY viewFrameInfoCmd.label       "Pogledajte informacije o okviru">
+<!ENTITY fitImageCmd.label            "Prilagodi veličinu slike prozoru">
+<!ENTITY reloadImageCmd.label         "Ponovo učitaj sliku">
+<!ENTITY viewImageCmd.label           "Pogledaj sliku">
+<!ENTITY viewVideoCmd.label           "Pogledaj video">
+<!ENTITY viewBGImageCmd.label         "Pogledaj sliku pozadine">
+<!ENTITY setDesktopBackgroundCmd.label     "Postavi pozadinu desktopa…">
+<!ENTITY bookmarkPageCmd.label        "Zabilježi ovu stranicu…">
+<!ENTITY bookmarkLinkCmd.label        "Zabilježi ovaj link…">
+<!ENTITY bookmarkFrameCmd.label       "Zabilježi ovaj okvir…">
+<!ENTITY savePageAsCmd.label          "Sačuvaj stranicu kao…">
+<!ENTITY savePageCmd.label            "Sačuvaj stranicu">
+<!ENTITY saveFrameAsCmd.label         "Sačuvaj okvir kao…">
+<!ENTITY saveFrameCmd.label           "Sačuvaj okvir">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
