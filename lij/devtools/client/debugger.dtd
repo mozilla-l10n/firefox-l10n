@@ -104,7 +104,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile           "Filtra script">
-<!ENTITY debuggerUI.searchFile.key       "s">
+<!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "F">
 
@@ -123,7 +123,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken           "Treuva">
-<!ENTITY debuggerUI.searchToken.key       "T">
+<!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "T">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
@@ -135,7 +135,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable           "Filtra variabili">
-<!ENTITY debuggerUI.searchVariable.key       "F">
+<!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "r">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
@@ -151,18 +151,18 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak     "Azonzi ponto de interuçion">
-<!ENTITY debuggerUI.seMenuBreak.key "u">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Azonto ponto de interuçion condiçionâ">
-<!ENTITY debuggerUI.seMenuCondBreak.key "u">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Cangia Breakpoint condiçionâ">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "C">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
@@ -176,7 +176,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 <!ENTITY debuggerUI.seMenuAddWatch      "Crea esprescion de contròllo da seleçion">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "a">
+<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
