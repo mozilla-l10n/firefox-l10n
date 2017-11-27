@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "ຕ້ອງການກູ້ຄືນການຕັ້ງຄ່າການຄົ້ນຫາຫລືບໍ່?">
 
-<!ENTITY searchreset.pageInfo1      "ການຕັ້ງຄ່າການຄົ້ນຫາຂອງທ່ານອາດຈະບໍ່ໄດ້ຮັບການອັບເດດ. ແລະ brandShortName; ສາມາດຊ່ວຍໃຫ້ທ່ານກູ້ຄືນການຕັ້ງຄ່າການຄົ້ນຫາ.">
+<!ENTITY searchreset.pageInfo1      "ການຕັ້ງຄ່າການຄົ້ນຫາຂອງທ່ານອາດຈະບໍ່ໄດ້ຮັບການອັບເດດ. ແລະ &brandShortName; ສາມາດຊ່ວຍໃຫ້ທ່ານກູ້ຄືນການຕັ້ງຄ່າການຄົ້ນຫາ.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
