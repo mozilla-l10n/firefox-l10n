@@ -631,7 +631,7 @@
 <!ENTITY remote_tabs_panel_moved_desc "თქვენი სხვა მოწყობილობების ჩანართები გადავიტანეთ თქვენი საწყისი გვერდის პანელში, რათა მარტივად გქონდეთ მათზე წვდომა ახალი ჩანართის გახსნისას.">
 <!ENTITY remote_tabs_panel_moved_link "მაჩვენეთ ახალი პანელი.">
 
-<!ENTITY pin_site_dialog_hint "შეიყვანეთ საძიებო სიტყვა">
+<!ENTITY pin_site_dialog_hint "შეიყვანეთ საძიებო ფრაზა">
 
 <!ENTITY filepicker_title "ფაილის შერჩევა">
 <!ENTITY filepicker_audio_title "ხმოვანი სიგნალის შერჩევა ან ჩაწერა">
