@@ -37,7 +37,7 @@
 <!ENTITY helpFeedbackPage.label      "Enviar comentarios…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-<!ENTITY helpShowTour2.label            "Tur de &brandShorterName;">
+<!ENTITY helpShowTour2.label            "Tour de &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Preferencias…">
