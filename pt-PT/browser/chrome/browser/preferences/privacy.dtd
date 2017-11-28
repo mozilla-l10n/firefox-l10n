@@ -20,7 +20,7 @@
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM6.label         "Utilizar Proteção contra monitorização na navegação privada para bloquear trackers conhecidos">
+<!ENTITY trackingProtectionPBM6.label         "Utilizar Proteção contra monitorização na Navegação privada para bloquear trackers conhecidos">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber mais">
 <!ENTITY changeBlockList2.label               "Alterar lista de bloqueio…">
