@@ -108,3 +108,8 @@
 <!ENTITY completionTitle.label "¡Felicidades!">
 <!ENTITY completionText.label "Por favor, verifica que la información de abajo sea correcta.">
 <!ENTITY serverTypePrefix.label "Tipo de servidor entrante:">
+<!ENTITY serverNamePrefix.label "Nombre del servidor entrante:">
+<!ENTITY smtpServerNamePrefix.label "Nombre del servidor de salida (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nombre del servidor de noticias (NNTP):">
+<!ENTITY downloadOnLogin.label "Descargar mensajes ahora">
+<!ENTITY downloadOnLogin.accesskey "D">
