@@ -3,19 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
-
-<!ENTITY firstrun_urlbar_message "&brandShortName; -ലേക്ക് സ്വാഗതം">
-<!ENTITY firstrun_urlbar_subtext "സഹായകരമായ തിരയല്‍ നിര്‍ദ്ദേശ എളുപ്പവഴികളുപയോഗിച്ച് കാര്യങ്ങള്‍ വേഗത്തിലാക്കൂ.">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName; തിരഞ്ഞെടുത്തതിന് നന്ദി">
 <!ENTITY firstrun_bookmarks_title "നാള്‍വഴി">
-
 <!ENTITY firstrun_bookmarks_subtext "നിങ്ങള്‍ തിരയുമ്പോള്‍ അടയാളക്കുറിപ്പുകളില്‍ നിന്നും നാള്‍വഴിയില്‍ നിന്നും ഫലങ്ങള്‍ ലഭ്യമാക്കൂ.">
 <!ENTITY firstrun_data_title "ഡേറ്റാ">
 <!ENTITY firstrun_data_message "കുറച്ച് ഡേറ്റ, കൂടുതല്‍ നീക്കിയിരുപ്പ്‌">
 <!ENTITY firstrun_data_subtext2 "ഡേറ്റാ ഉപയോഗം കുറക്കാന്‍ നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന സൈറ്റുകളില്‍ ചിത്രങ്ങള്‍ കാണിക്കാതിരിക്കുക">
 <!ENTITY firstrun_sync_title "സിന്‍ക്">
-<!ENTITY firstrun_sync_message "&brandShortName;, എല്ലായ്പ്പോഴും നിങ്ങളോടൊപ്പം">
-<!ENTITY firstrun_sync_subtext "നിങ്ങള്‍ ഉപയോഗിക്കുന്നിടത്തെല്ലാം നിങ്ങളുടെ ടാബുകളും രഹസ്യവാക്കുകളും സിന്‍ക് ചെയ്യൂ.">
-
 <!ENTITY firstrun_signin_button "സിന്‍കിലേയ്ക്ക് പ്രവേശിക്കൂ">
 <!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!ENTITY firstrun_button_notnow "ഇപ്പോള്‍ വേണ്ട">
@@ -24,26 +18,24 @@
 <!ENTITY firstrun_tabqueue_title "കണ്ണികള്‍">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
-
 <!ENTITY firstrun_tabqueue_message_on "വിജയിച്ചു!">
-
 
 <!ENTITY firstrun_readerview_title "ലേഖനങ്ങള്‍">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
-
 <!ENTITY firstrun_account_title "നിങ്ങള്‍">
 <!ENTITY firstrun_account_message "&brandShortName; മറ്റൊരു ഉപകരണത്തിലുണ്ടോ?">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ന്‍റെ ഈ ലളിതമാക്കിയ പതിപ്പ് വഴി സുരക്ഷിതമായും നിയന്ത്രണത്തിലായും തുടരൂ.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY  history_title "നാള്‍വഴി">
 
 <!ENTITY  switch_to_tab "ടാബ് മാറ്റുക">
+
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
 <!ENTITY  crash_reporter_title "&brandShortName; തകരാര്‍ അറിയിയ്ക്കുന്നതിനുള്ള പ്രയോഗം">
@@ -78,11 +70,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "സ്ക്രീന്‍ഷോട്ടുകള്‍">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "വായനാ പട്ടിക">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
-
-
 
 <!ENTITY reader_saved_offline "ഓഫ്‍ലൈനായി സൂക്ഷിച്ചു">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -130,24 +120,23 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "ഭാഷ">
 <!ENTITY pref_category_language_summary "താങ്കളുടെ ബ്രൗസറിന്റെ ഭാഷ മാറ്റൂ">
 <!ENTITY pref_browser_locale "ബ്രൗസറിന്റെ ഭാഷ">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "സ്വതവേയുള്ളതു്">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "&brandShortName; - ഇതിലേക്ക് ചേര്‍ക്കൂ">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "അടയാളം">
 <!ENTITY overlay_share_bookmark_btn_label_already "നേരത്തെതന്നെ അടയാളപ്പെടുത്തിയത്">
 <!ENTITY overlay_share_send_other "മറ്റു് ഉപകരണങ്ങളിലേക്ക് അയയ്ക്കുക">
@@ -165,11 +154,7 @@
 <!ENTITY overlay_no_synced_devices "ഫയര്‍ഫോക്സ് അക്കൗണ്ടുമായി ബന്ധിപ്പിച്ചിട്ടുള്ള ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല">
 
 <!ENTITY pref_category_search3 "തെരയുക">
-
-
-
 <!ENTITY pref_category_privacy_short "സ്വകാര്യത">
-
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName;-നെ സംബന്ധിച്ച്, സ്ഥിരം ചോദ്യങ്ങള്‍, പ്രതികരണം">
 <!ENTITY pref_category_datareporting "ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
@@ -192,8 +177,6 @@
      “storing data”. -->
 <!ENTITY pref_category_notifications "അറിയിപ്പുകള്‍">
 <!ENTITY pref_category_notifications_summary "പുതിയ സവിശേഷതകള്‍, വെബ്സൈറ്റ്പുതുക്കലുകള്‍">
-<!ENTITY pref_content_notifications "വെബ്സൈറ്റ്പുതുക്കലുകള്‍">
-<!ENTITY pref_content_notifications_summary2 "പിന്തുണയുള്ള സൈറ്റുകളില്‍ നിന്നും കൂടുതല്‍ ഉള്ളടക്കം കണ്ടെത്തൂ">
 <!ENTITY pref_developer_remotedebugging_usb "യു എസ് ബി വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗിനു താങ്കളുടെ ഡിവൈസില്‍ ക്യുആര്‍ കോഡ് റീഡര്‍ ആപ്പ് ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടതുണ്ട്.">
@@ -226,12 +209,11 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "വിലാസം നല്‍കുകയോ എന്തെങ്കിലും തിരയുകയോ ചെയ്യൂ">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "പൊതുവായവ">
 <!ENTITY pref_header_search "തിരയുക">
 <!ENTITY pref_header_privacy_short "സ്വകാര്യത">
-
 <!ENTITY pref_header_notifications "അറിയിപ്പുകള്‍">
 <!ENTITY pref_header_advanced "സങ്കീര്‍ണ്ണമായവ">
 <!ENTITY pref_header_help "സഹായം">
@@ -241,6 +223,7 @@
 <!ENTITY pref_cookies_accept_all "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY pref_cookies_not_accept_foreign "മൂന്നാം കക്ഷിയെ ഒഴിവാക്കി, പ്രവര്‍ത്തനസജ്ജമാക്കി">
 <!ENTITY pref_cookies_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
@@ -254,9 +237,7 @@
 
 <!ENTITY pref_show_web_fonts "വെബ് ഫോണ്ടുകള്‍ കാണിക്കുക">
 
-
 <!ENTITY pref_tracking_protection_title2 "പിന്തുടരല്‍ സംരക്ഷണം">
-<!ENTITY pref_tracking_protection_summary3 "സ്വകാര്യ ബ്രൗസിങ്ങില്‍ സജ്ജം">
 <!ENTITY pref_donottrack_title "നിരീക്ഷിയ്ക്കേണ്ട">
 <!ENTITY pref_donottrack_summary "&brandShortName; നിങ്ങള്‍ നിരീക്ഷിക്കപ്പെടാന്‍ ആഗ്രഹിക്കുന്നില്ല എന്ന് വെബ്സൈറ്റുകളോട് പറയും">
 
@@ -266,21 +247,20 @@
 
 <!ENTITY pref_whats_new_notification "&brandShortName;-ല്‍ പുതിയതെന്തെല്ലാം">
 <!ENTITY pref_whats_new_notification_summary "ഒരു പുതുക്കലിനു ശേഷം പുതിയ സവിശേഷതകളെ കുറിച്ച് മനസ്സിലാക്കൂ">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 
-
 <!ENTITY tracking_protection_prompt_title "ഇപ്പോള്‍ പിന്തുടല്‍ സുരക്ഷയോടുകൂടെ">
-
 <!ENTITY tracking_protection_prompt_tip_text "കൂടുതലറിയാന്‍ സ്വകാര്യ സജ്ജീകരണങ്ങള്‍ സന്ദര്‍ശിക്കൂ">
 <!ENTITY tracking_protection_prompt_action_button "കിട്ടിപ്പോയി!">
 
@@ -304,25 +284,9 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "ഒരു ടാബ് കാത്തിരിക്കുന്നു">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; വെബ്സൈറ്റുകള്‍ പുതുക്കി">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "സജ്ജീകരണങ്ങള്‍">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "ഇപ്പോള്‍ വായിക്കുക">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "&formatS; എന്നതില്‍ പുതുക്കി">
 
 <!ENTITY pref_char_encoding "അക്ഷരങ്ങളുടെ എന്‍കോഡിംഗ്‌">
 <!ENTITY pref_char_encoding_on "മെനു കാണിക്കുക">
@@ -332,21 +296,17 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ഇപ്പോള്‍ മായ്ക്കുക">
 <!ENTITY pref_clear_on_exit_title3 "പുറത്തു പോകുമ്പോള്‍ സ്വകാര്യവിവരങ്ങള്‍ നീക്കം ചെയ്യൂ">
-<!ENTITY pref_clear_on_exit_summary2 "മെയിന്‍ മെനുവില്‍ നിന്നും \u0022പുറത്തു് കടക്കൂ\u0022 എന്നതെടുക്കുമ്പോള്‍ &brandShortName; നിങ്ങളുടെ ഉപയോഗവിവരങ്ങള്‍ സ്വയം നീക്കം ചെയ്യും.">
+<!ENTITY pref_clear_on_exit_summary2 "മെയിന്‍ മെനുവില്‍ നിന്നും \&quot;പുറത്തു് കടക്കൂ\&quot; എന്നതെടുക്കുമ്പോള്‍ &brandShortName; നിങ്ങളുടെ ഉപയോഗവിവരങ്ങള്‍ സ്വയം നീക്കം ചെയ്യും.">
 <!ENTITY pref_clear_on_exit_dialog_title "വെടിപ്പാക്കേണ്ട ഡേറ്റാ തെരഞ്ഞെടുക്കൂ">
-
 <!ENTITY pref_restore_always "എപ്പോഴും പഴയപടിയാക്കുക">
 <!ENTITY pref_restore_quit "&brandShortName;-ല്‍ വിരമിച്ച ശേഷം പഴയപടിയാക്കേണ്ട">
+
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-
 
 <!ENTITY pref_media_autoplay_enabled "ഓട്ടോപ്ലേ അനുവദിക്കുക">
 <!ENTITY pref_media_autoplay_enabled_summary "വെബ്സൈറ്റുകള്‍ ചലച്ചിത്രങ്ങളോ മറ്റു മീഡിയാ ഉള്ളടക്കങ്ങളോ തനിയെ പ്രവര്‍ത്തിപ്പിക്കുന്നുണ്ടെങ്കില്‍ നിയന്ത്രിക്കുക">
 <!ENTITY pref_zoom_force_enabled "ഇപ്പോഴും സൂം പ്രവര്‍ത്തനസജ്ജമാക്കുക">
-
-
-
 <!ENTITY pref_qrcode_enabled "ക്യുആര്‍ കോഡ് റീഡര്‍">
 <!ENTITY pref_qrcode_enabled_summary2 "യുആര്‍എല്‍ ബാറില്‍ ക്യുആര്‍ സ്കാന്നര്‍ അനുവദിക്കൂ">
 
@@ -371,7 +331,6 @@
 <!ENTITY pref_private_data_syncedTabs "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
 <!ENTITY pref_default_browser "സ്വതേയുള്ള ബ്രൗസര്‍ ആക്കുക">
-
 <!ENTITY pref_about_firefox "&brandShortName;-നെ സംബന്ധിച്ച്">
 <!ENTITY pref_vendor_faqs "സ്ഥിരം ചോദ്യങ്ങള്‍">
 <!ENTITY pref_vendor_feedback "പ്രതികരണം നല്‍കുക">
@@ -396,13 +355,13 @@
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "&brandShortName; ആരോഗ്യ റിപ്പോര്‍ട്ട്">
 <!ENTITY datareporting_fhr_summary2 "നിങ്ങളുടെ ബ്രൌസറിന്റെ അവസ്ഥയെപ്പറ്റി &vendorShortName;-മായി പങ്കു് വച്ചു്, നിങ്ങളുടെ ബ്രൌസറിന്റെ പ്രവര്‍ത്തനം മനസ്സിലാക്കുക.">
 <!ENTITY datareporting_abouthr_title "എന്റെ ആരോഗ്യ റിപ്പോര്‍ട്ട് കാണുക">
@@ -421,8 +380,8 @@
 <!ENTITY pref_update_autodownload_wifi "വൈ-ഫൈ വഴി മാത്രം">
 <!ENTITY pref_update_autodownload_never "ഒരിക്കലുമില്ല">
 <!ENTITY pref_update_autodownload_always "എപ്പോഴും">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "സഹായം">
 
 <!ENTITY quit "പുറത്തു കടക്കുക">
@@ -450,16 +409,16 @@
 <!ENTITY set_image_fail "ചിത്രം ചേര്‍ക്കാന്‍ കഴിഞ്ഞില്ല">
 <!ENTITY set_image_path_fail "ചിത്രം സൂക്ഷിക്കുവാനായില്ല">
 <!ENTITY set_image_chooser_title "ചിത്രം ഉപയോഗിക്കുക">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "താളില്‍ കണ്ടെത്തൂ">
 <!ENTITY find_prev "മുമ്പു്">
 <!ENTITY find_next "അടുത്തതു്">
 <!ENTITY find_close "അടക്കുക">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "ഡിവൈസിലേക്കു് അയക്കുന്നു">
 <!ENTITY media_play "പ്ലെ ചെയ്യുക">
 <!ENTITY media_pause "തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തിയിരിയ്ക്കുന്നു">
@@ -469,7 +428,6 @@
 <!ENTITY contextmenu_open_private_tab "സ്വകാര്യ ടാബിൽ തുറക്കുക">
 <!ENTITY contextmenu_remove "ഒഴിവാക്കുക">
 <!ENTITY contextmenu_add_to_launcher "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
-
 <!ENTITY contextmenu_share "പങ്കിടുക">
 <!ENTITY contextmenu_pasteandgo "ഒട്ടിച്ച് തുടരുക">
 <!ENTITY contextmenu_paste "ഒട്ടിക്കുക">
@@ -480,11 +438,17 @@
 <!ENTITY contextmenu_top_sites_edit "തിരുത്തുക">
 <!ENTITY contextmenu_top_sites_pin "സൈറ്റ് ചേര്‍ക്കുക">
 <!ENTITY contextmenu_top_sites_unpin "സൈറ്റ് ഉപേക്ഷിയ്ക്കുക">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "തെരച്ചിലിനുള്ള പ്രയോഗം ചേര്‍ക്കുക">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[ഉപയോക്തൃനാമമില്ല]">
 <!ENTITY doorhanger_login_edit_title "പ്രവേശനം തിരുത്തൂ">
 <!ENTITY doorhanger_login_edit_username_hint "ഉപയോക്തൃനാമം ">
@@ -496,35 +460,33 @@
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "മുഴുസ്ക്രീന്‍ ബ്രൗസിങ്">
 <!ENTITY pref_scroll_title_bar_summary2 "ഒരു താളില്‍ താഴേക്ക് സ്ക്രോള്‍ ചെയ്യുമ്പോള്‍ &brandShortName; ടൂള്‍ബാര്‍ മറക്കൂ">
 
 <!ENTITY pref_tab_queue_summary4 "അടുത്ത തവണ &brandShortName; തുറക്കുന്നത് വരെ അവയെ സൂക്ഷിക്കൂ">
+
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "താൾ നീക്കം ചെയ്തു">
 
-<!ENTITY bookmark_edit_title "ഓർമ്മക്കുറിപ്പ് പുനക്രമീകരിക്കുക">
 
+<!ENTITY bookmark_edit_title "ഓർമ്മക്കുറിപ്പ് പുനക്രമീകരിക്കുക">
 <!ENTITY bookmark_edit_name "പേരു്">
 <!ENTITY bookmark_edit_location "സ്ഥലം">
 <!ENTITY bookmark_edit_keyword "കീവേര്‍ഡ്">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "വെബ്സൈറ്റ് സജ്ജീകരണങ്ങള്‍">
 <!ENTITY site_settings_cancel       "റദ്ദാക്കുക">
 <!ENTITY site_settings_clear        "വൃത്തിയാക്കുക">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "കൂടുതല്‍ പ്രവർത്തികൾ">
 
 <!ENTITY masterpassword_create_title "പ്രധാന പാസ്‌വേഡ്‌ നിര്‍മ്മിക്കുക">
@@ -537,48 +499,43 @@
 <!ENTITY button_yes "അതെ">
 <!ENTITY button_no "ഇല്ല">
 <!ENTITY button_clear_data "ഡേറ്റാ മായ്ക്കുക">
-
 <!ENTITY button_clear "വൃത്തിയാക്കുക">
 <!ENTITY button_copy "പകര്‍ത്തുക">
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ഒരു സൈറ്റ് ചേര്‍ക്കുാം">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "&brandShortName; ആസ്ഥാനം">
 <!ENTITY home_history_title "നാള്‍വഴി">
 <!ENTITY home_synced_devices_smartfolder "സിന്‍ക് ചെയ്ത ഉപകരണങ്ങള്‍">
 <!ENTITY home_synced_devices_number "&formatD; ഉപകരണങ്ങള്‍">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "ഒരു ഉപകരണം">
-
 <!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കുക">
 <!ENTITY home_clear_history_confirm "നാള്‍വഴി മായ്ക്കട്ടെ?">
 <!ENTITY home_bookmarks_empty "നിങ്ങൾ സൂക്ഷിച്ച അടയാളക്കുറിപ്പുകള്‍ ഇവിടെ കാണിക്കുക">
-
 <!ENTITY home_last_tabs_empty "നിങ്ങളുടെ ഒടുവിലത്തെ ടാബുകള്‍ ഇവിടെ കാണിക്കുക.">
-
-
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "അടുത്തിടെ സന്ദര്‍ശിച്ച വെബ്സ്റ്റൈറ്റുകള്‍ ഇവിടെ കാണാം.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "ഏയ്, &formatS1;പുതിയ സ്വകാര്യ ടാബ്&formatS2; ഉപയോഗിയ്ക്കുന്നത് താങ്കളുടെ നാള്‍വഴി സൂക്ഷിക്കില്ല.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "ഈ പാനലിൽ ഒന്നും കാണാൻ സാധിച്ചില്ല">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "&formatS; എന്നതിലേക്ക് തിരികെ">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; മറഞ്ഞിരിക്കുന്ന ഉപകരണങ്ങള്‍">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -586,9 +543,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "തിരഞ്ഞെടുത്തിരിക്കുന്ന ഡിവൈസുകള്‍ മറനീക്കുക">
+
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-
 
 <!ENTITY remote_tabs_panel_moved_title "എന്റെ ടാബുകള്‍ എവിടെപ്പോയി?">
 <!ENTITY remote_tabs_panel_moved_desc "പുതിയ ടാബ് തുറക്കുമ്പോള്‍ ലഭ്യമാവുന്ന തരത്തില്‍ നിങ്ങളുടെ മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഞങ്ങള്‍ ആസ്ഥാന താളില്‍ ഒരു പാനല്‍ വഴി സജ്ജമാക്കിയിരിക്കുന്നു.">
@@ -600,8 +557,8 @@
 <!ENTITY filepicker_audio_title "ഒരു ഒച്ച തിരഞ്ഞെടുക്കുകയോ റിക്കാര്‍ഡാക്കുകയോ ചെയ്യുക">
 <!ENTITY filepicker_image_title "ഒരു ചിത്രം തിരഞ്ഞെടുക്കുകയോ എടുക്കുകയോ ചെയ്യുക">
 <!ENTITY filepicker_video_title "ഒരു വീഡീയോ തിരഞ്ഞെടുക്കുകയോ റിക്കാര്‍ഡാക്കുകയോ ചെയ്യുക">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "നിങ്ങള്‍ കണക്ട് ചെയ്യപ്പെട്ടിരിക്കുന്ന ഡൊമെയിന്‍">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -617,21 +574,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "സുരക്ഷിതമായ കണക്ഷന്‍">
 <!ENTITY identity_connection_insecure "സുരക്ഷിതമല്ലാത്ത കണക്ഷന്‍">
 <!ENTITY identity_connection_chromeui "ഇതൊരു സുരക്ഷിതമായ &brandShortName; താളാകുന്നു">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "ഈ താളിലെ സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കം &brandShortName; തടഞ്ഞിട്ടുണ്ട്.">
 <!ENTITY mixed_content_blocked_some1 "ഈ താളിലെ സുരക്ഷിതമല്ലാത്ത കുറച്ച് ഉള്ളടക്കം &brandShortName; തടഞ്ഞിട്ടുണ്ട്.">
 <!ENTITY mixed_content_display_loaded1 "ഈ താളിലെ ചില ഭാഗങ്ങള്‍ സുരക്ഷിതമല്ല (ചിത്രങ്ങള്‍ മുതലായവ).">
 <!ENTITY mixed_content_protection_disabled1 "സുരക്ഷിതമല്ലാത്ത ഉള്ളടക്കത്തില്‍ നിന്നുള്ള സംരക്ഷണം നിങ്ങള്‍ സജ്ജമാക്കിയിട്ടില്ല.">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "നിരീക്ഷണ സുരക്ഷ">
 <!ENTITY doorhanger_tracking_state_enabled "പ്രവർത്തനസജ്ജം">
 <!ENTITY doorhanger_tracking_state_disabled "പ്രവർത്തന രഹിതം">
 <!ENTITY doorhanger_tracking_message_enabled1 "നിങ്ങളുടെ ഓണ്‍ലൈന്‍ പെരുമാറ്റം കണ്ടെത്താനുള്ള ശ്രമങ്ങള്‍ തടഞ്ഞിരിക്കുന്നു.">
 <!ENTITY doorhanger_tracking_message_disabled2 "നിങ്ങളുടെ ബ്രൗസിങ് നിരീക്ഷിക്കാനാവുന്ന സംഗതികള്‍ ഈ താളിലുണ്ട്,">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "കൂടുതല്‍ അറിയുക">
 <!ENTITY enable_protection "സംരക്ഷണം സജ്ജമാക്കുക">
 <!ENTITY disable_protection "സംരക്ഷണം വേണ്ടെന്നു വയ്ക്കുക">
@@ -653,14 +610,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "&formatS; ഉപയോഗിച്ച് തിരയൂ">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "&formatS2;-നായി &formatS1; തെരയൂ">
 
 <!ENTITY searchable_description "ഓര്‍മ്മക്കുറിപ്പുകളും നാൾവഴിയും">
-<!-- Updater notifications -->
+
+ <!-- Updater notifications -->
 <!ENTITY updater_start_select2 "ഡൗണ്‍ലോഡ് ചെയ്യാൻ തൊടുക">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ഡൌണ്‍ലോഡ് ചെയ്യുന്നു">
@@ -672,12 +630,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "ഫയലുകളും പുതുക്കലുകളും ഡൗണ്‍ലോഡ് ചെയ്യാന്‍ &brandShortName; എന്നതിനു സ്റ്റോറേജ് ഉപയോഗിക്കാന്‍ അനുവാദം നല്‍കൂ.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "അനുവദിക്കുക">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "പുതിയ ഗസ്റ്റ് സെഷന്‍">
 <!ENTITY exit_guest_session "ഗസ്റ്റ് സെഷനില്‍ നിന്നും പറത്തുകടക്കുക">
 <!ENTITY guest_session_dialog_continue "തുടരുക">
@@ -689,37 +646,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; ഇപ്പോൾ പുനരാരംഭിക്കും">
 <!ENTITY exit_guest_session_text "ഈ സെഷനിലെ ബ്രൗസിങ്ങ് ഡേറ്റ നീക്കം ചെയ്യുന്നതാണ്.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "മെനു">
 <!ENTITY actionbar_done "ചെയ്തു">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "ഇപ്പോള്‍ സംസാരിക്കൂ">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "അവസാന സിങ്ക്: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "അവസാനമായി സിന്‍ക് ചെയ്തത്: ഇതുവരെയില്ല">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "ഈ കണ്ണി &formatS; എന്നതില്‍ തുറക്കും. സ്വകാര്യ ബ്രൗസിങ് വിട്ടുപോകണമെന്നു് ഉറപ്പാണോ?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -729,16 +686,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "സ്വകാര്യ ബ്രൗസിങ്ങില്‍ നിന്നു പുറത്തുപോകണോ?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "ആഡ്-ഓണുകള്‍">
 <!ENTITY restrictable_feature_addons_installation_description "ഫയര്‍ഫോക്സിലേക്ക് വിവിധ സവിശേഷതകള്‍ കൂട്ടിച്ചേര്‍ക്കാം. കുറിപ്പ്: ആഡ്-ഓണുകള്‍ ചില നിയന്ത്രണങ്ങളെ അസാധുവാക്കിയേക്കും.">
 <!ENTITY restrictable_feature_private_browsing "സ്വകാര്യ ബ്രൗസിങ്">
@@ -746,14 +704,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "നാള്‍വഴി മായ്ക്കൂ">
 <!ENTITY restrictable_feature_clear_history_description "കുടുംബാഗങ്ങളെ അവര്‍ സന്ദര്‍ശിച്ച സൈറ്റുകളെയും താളുകളെയും സംബന്ധിച്ച വിവരങ്ങള്‍ മായ്ച്ചു കളയാന്‍ അനുവദിക്കുന്നു.">
 <!ENTITY restrictable_feature_advanced_settings "വിശദമായ ക്രമീകരണങ്ങള്‍">
-
 <!ENTITY restrictable_feature_camera_microphone "ക്യാമറയും മൈക്രോഫോണും">
-
 <!ENTITY restrictable_feature_block_list "തടയല്‍ പട്ടിക">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "ഫയര്‍ഫോക്സ്: നിങ്ങളുടെ ബ്രൗസറിനെപ്പറ്റി">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "ഫയര്‍ഫോക്സ്: ആഡ്-ഓണുകളുപയോഗിച്ച് ഇഷ്ടാനുസൃതമാക്കൂ">
@@ -762,39 +717,46 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "വെബിനെ കുറിച്ച് മനസ്സിലാക്കൂ: മോസില്ല വെബ്മേക്കര്‍">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
 <!ENTITY eol_notification_summary "കൂടുതലറിയാൻ തട്ടുക">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "&brandShortName; ഏറ്റവും പുതിയതാണു്">
 <!ENTITY whatsnew_notification_summary "ഈ പതിപ്പില്‍ പുതിയതായിട്ട് എന്താണുള്ളതെന്ന് കണ്ടെത്തൂ">
 
 <!ENTITY promotion_add_to_homescreen "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
 
-<!ENTITY helper_first_offline_bookmark_title "ഓഫ്‍ലൈനായി വായിക്കൂ">
 
+<!ENTITY helper_first_offline_bookmark_title "ഓഫ്‍ലൈനായി വായിക്കൂ">
 <!ENTITY helper_first_offline_bookmark_button "അടയാളങ്ങളിലേക്ക് പോകൂ">
 
 <!ENTITY helper_triple_readerview_open_title "ഓഫ്‍ലൈനായി ലഭ്യമാണ്">
-
 <!ENTITY helper_triple_readerview_open_button "അടയാളം  ചേര്‍ക്കൂ">
 
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 
 
 
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
 
-
-
-
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
