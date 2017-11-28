@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutNetworking.title                 "Despre Rețea">
-<!ENTITY aboutNetworking.warning               "Acesta este foarte experimental. Nu utilizați fără supravegherea unui specialist.">
+<!ENTITY aboutNetworking.title                 "Despre rețea">
+<!ENTITY aboutNetworking.warning               "Acesta este foarte experimental. Nu folosi fără supravegherea unui specialist.">
 <!ENTITY aboutNetworking.showNextTime          "Arată acest avertisment data viitoare">
 <!ENTITY aboutNetworking.ok                    "Ok">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
@@ -11,38 +11,38 @@
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Reîmprospătează">
-<!ENTITY aboutNetworking.autoRefresh           "Autoreîmprospătare la fiecare 3 secunde">
-<!ENTITY aboutNetworking.hostname              "Nume gazdă">
+<!ENTITY aboutNetworking.autoRefresh           "Reîmprospătare automată la fiecare 3 secunde">
+<!ENTITY aboutNetworking.hostname              "Numele gazdei">
 <!ENTITY aboutNetworking.port                  "Port">
 <!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Activă">
-<!ENTITY aboutNetworking.idle                  "Fără activitate">
-<!ENTITY aboutNetworking.host                  "Gazda">
+<!ENTITY aboutNetworking.idle                  "Inactivă">
+<!ENTITY aboutNetworking.host                  "Gazdă">
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Trimise">
 <!ENTITY aboutNetworking.received              "Primite">
-<!ENTITY aboutNetworking.family                "Familia">
+<!ENTITY aboutNetworking.family                "Familie">
 <!ENTITY aboutNetworking.addresses             "Adrese">
 <!ENTITY aboutNetworking.expires               "Expirate (secunde)">
 <!ENTITY aboutNetworking.messagesSent          "Mesaje trimise">
 <!ENTITY aboutNetworking.messagesReceived      "Mesaje primite">
 <!ENTITY aboutNetworking.bytesSent             "Byți trimiși">
 <!ENTITY aboutNetworking.bytesReceived         "Byți primiți">
-<!ENTITY aboutNetworking.logging               "Logging">
-<!ENTITY aboutNetworking.logTutorial           "Vezi <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> pentru instrucțiuni de folosire a acestei unelte.">
-<!ENTITY aboutNetworking.currentLogFile        "Fișierul curent:">
-<!ENTITY aboutNetworking.currentLogModules     "Module de logging curente:">
+<!ENTITY aboutNetworking.logging               "Înregistrare în jurnal">
+<!ENTITY aboutNetworking.logTutorial           "Vezi <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>înregistrarea în jurnal pentru HTTP</a> pentru instrucțiuni de folosire a acestui instrument.">
+<!ENTITY aboutNetworking.currentLogFile        "Fișierul actual pentru jurnal:">
+<!ENTITY aboutNetworking.currentLogModules     "Modulele actuale de înregistrare în jurnal:">
 <!ENTITY aboutNetworking.setLogFile            "Setează fișierul cu loguri">
-<!ENTITY aboutNetworking.setLogModules         "Setează modulele de logging">
-<!ENTITY aboutNetworking.startLogging          "Pornește logging-ul">
-<!ENTITY aboutNetworking.stopLogging           "Oprește logging-ul">
-<!ENTITY aboutNetworking.dnsLookup             "Analiză DNS">
+<!ENTITY aboutNetworking.setLogModules         "Setează modulele de înregistrare în jurnal">
+<!ENTITY aboutNetworking.startLogging          "Pornește înregistrarea în jurnal">
+<!ENTITY aboutNetworking.stopLogging           "Oprește înregistrarea în jurnal">
+<!ENTITY aboutNetworking.dnsLookup             "Analizare DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Rezolvă">
 <!ENTITY aboutNetworking.dnsDomain             "Domeniu">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-uri">
-<!ENTITY aboutNetworking.rcwn                  "RCWN Stats">
-<!ENTITY aboutNetworking.rcwnStatus            "RCWN Status">
+<!ENTITY aboutNetworking.rcwn                  "Statistici RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Starea RCWN">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache won count">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
