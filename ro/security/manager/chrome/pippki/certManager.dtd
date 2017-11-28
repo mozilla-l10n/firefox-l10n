@@ -62,7 +62,7 @@
 <!ENTITY certmgr.delete2.label                "Șterge…">
 <!ENTITY certmgr.delete2.accesskey            "g">
 <!ENTITY certmgr.delete_builtin.label         "Șterge sau anulează încrederea…">
-<!ENTITY certmgr.delete_builtin.accesskey     "d">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Salvează">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Salvează tot">

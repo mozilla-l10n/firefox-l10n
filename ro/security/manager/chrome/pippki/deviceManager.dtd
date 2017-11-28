@@ -12,9 +12,9 @@
 <!ENTITY devmgr.details.title                   "Detalii">
 <!ENTITY devmgr.details.title2                  "Valoare">
 
-<!ENTITY devmgr.button.login.label              "Autentificare">
+<!ENTITY devmgr.button.login.label              "Autentifică-te">
 <!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label             "Deautentificare">
+<!ENTITY devmgr.button.logout.label             "Deautentifică-te">
 <!ENTITY devmgr.button.logout.accesskey         "i">
 <!ENTITY devmgr.button.changepw.label           "Schimbă parola">
 <!ENTITY devmgr.button.changepw.accesskey       "p">
@@ -25,10 +25,10 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Introdu informații despre modulul pe care dorești să îl adaugi.">
-<!ENTITY loaddevice.modname2                    "Nume modul">
+<!ENTITY loaddevice.modname2                    "Numele modului">
 <!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Modul PKCS#11 nou">
-<!ENTITY loaddevice.filename2                   "Nume fișier modul">
+<!ENTITY loaddevice.filename2                   "Numele fișierului modulului">
 <!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Răsfoiește…">
 <!ENTITY loaddevice.browse.accesskey            "R">
