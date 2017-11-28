@@ -692,6 +692,12 @@
 <!ENTITY updateRestart.cancelButton.label "Non adesso">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Riavvia per aggiornare &brandShorterName;">
+<!ENTITY newTabControlled.message "Un’estensione ha sostituito la pagina visualizzata quando si apre una nuova scheda. È possibile ripristinare queste impostazioni se si tratta di una modifica non voluta.">
+<!ENTITY newTabControlled.header.message "La pagina Nuova scheda è cambiata">
+<!ENTITY newTabControlled.keepButton.label "Mantieni modifiche">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
+<!ENTITY newTabControlled.restoreButton.label "Ripristina impostazioni">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 <!ENTITY pageActionButton.tooltip "Azioni per questa pagina">
 <!ENTITY pageAction.addToUrlbar.label "Aggiungi alla barra degli indirizzi">
 <!ENTITY pageAction.removeFromUrlbar.label "Rimuovi dalla barra degli indirizzi">
