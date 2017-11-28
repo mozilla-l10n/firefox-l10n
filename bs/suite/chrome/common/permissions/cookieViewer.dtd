@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     tab.cookiesonsystem.label      "Pohranjeni kolačići">
+<!ENTITY     tab.bannedservers.label        "Web stranice kolačića">
+<!ENTITY     div.bannedservers.label        "Upravljajte web stranicama koje mogu i ne mogu spremati kolačiće na vaš računar.">
+<!ENTITY     div.cookiesonsystem.label      "Pogledajte i uklonite kolačiće koji su pohranjeni na vaš računar.">
+<!ENTITY     treehead.cookiename.label      "Naziv kolačića">
+<!ENTITY     treehead.cookiedomain.label    "Web stranica">
+<!ENTITY     treehead.cookieexpires.label   "Ističe">
+<!ENTITY     treehead.infoselected.label    "Informacije o odabranom kolačiću">
+<!ENTITY     button.removecookie.label      "Ukloni kolačić">
+
+
+
+
+
