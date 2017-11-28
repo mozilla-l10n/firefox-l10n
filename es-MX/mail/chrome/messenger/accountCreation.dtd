@@ -81,5 +81,6 @@
 <!ENTITY changeSettings.accesskey        "S">
 
 
+<!ENTITY insecureServer.tooltip.details  "Haz clic en el círculo para más detalles.">
 
 <!ENTITY secureServer.description        "¡Felicidades! Este servidor es seguro.">
