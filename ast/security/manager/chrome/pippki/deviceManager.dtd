@@ -8,14 +8,14 @@
      to make window contents fit. -->
 <!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
 
-<!ENTITY devmgr.devlist.label                   "Módulos de seguridá y preseos">
+<!ENTITY devmgr.devlist.label                   "Módulos de seguranza y preseos">
 <!ENTITY devmgr.details.title                   "Detalles">
 <!ENTITY devmgr.details.title2                  "Valor">
 
-<!ENTITY devmgr.button.login.label              "Entamar sesión">
+<!ENTITY devmgr.button.login.label              "Aniciar sesión">
 <!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label             "Finar sesión">
-<!ENTITY devmgr.button.logout.accesskey         "F">
+<!ENTITY devmgr.button.logout.label             "Zarrar sesión">
+<!ENTITY devmgr.button.logout.accesskey         "Z">
 <!ENTITY devmgr.button.changepw.label           "Camudar contraseña">
 <!ENTITY devmgr.button.changepw.accesskey       "C">
 <!ENTITY devmgr.button.load.label               "Cargar">
@@ -24,12 +24,13 @@
 <!ENTITY devmgr.button.unload.accesskey         "D">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "Introduza la información pal módulo que quier amestar.">
-<!ENTITY loaddevice.modname                     "Nome del módulu:">
-<!ENTITY loaddevice.modname.accesskey           "m">
-<!ENTITY loaddevice.modname.default             "Nuevu módulu PKCS#11">
-<!ENTITY loaddevice.filename                    "Ficheru del módulu:">
-<!ENTITY loaddevice.filename.accesskey          "i">
-<!ENTITY loaddevice.browse                      "Agüeyar…">
-<!ENTITY loaddevice.browse.accesskey            "A">
+<!ENTITY loaddevice.info                        "Introduz la información pal módulu que quies amestar.">
+<!ENTITY loaddevice.modname2                    "Nome del módulu">
+<!ENTITY loaddevice.modname2.accesskey          "M">
+<!ENTITY loaddevice.modname.default             "Módulu nuevu PKCS#11">
+<!ENTITY loaddevice.filename2                   "Nome del ficheru del módulu">
+<!ENTITY loaddevice.filename2.accesskey         "f">
+<!ENTITY loaddevice.browse                      "Desaminar…">
+<!ENTITY loaddevice.browse.accesskey            "D">
 
+<!ENTITY loaddevice.title2                      "Cargar controlador de preséu PKCS#11">
