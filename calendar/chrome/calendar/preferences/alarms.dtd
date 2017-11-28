@@ -8,7 +8,7 @@
   -->
 
 <!ENTITY pref.alarmgoesoff.label "Когато е време за припомняне:">
-<!ENTITY pref.playasound "Пускане на звук">
+<!ENTITY pref.playasound "Изпълняване на звук">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "П">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Стандартен звук">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "С">
