@@ -960,7 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Agora não">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
-<!ENTITY updateAvailable.panelUI.label "Transferir a atualização do &brandShorterName;">
+<!ENTITY updateAvailable.panelUI.label "Transferir atualização do &brandShorterName;">
 
 <!ENTITY updateManual.message "Transfira uma nova cópia do &brandShorterName; e iremos ajudar-lhe a instalá-lo.">
 <!ENTITY updateManual.whatsnew.label "Veja as novidades.">
