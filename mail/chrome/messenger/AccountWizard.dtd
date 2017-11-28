@@ -46,7 +46,7 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Запазване съобщенията на сървъра">
+<!ENTITY leaveMsgsOnSrvr.label "Оставяне на копие от писмата на сървъра">
 <!ENTITY leaveMsgsOnSrvr.accesskey "З">
 <!ENTITY portNum.label "Порт:">
 <!ENTITY portNum.accesskey "о">

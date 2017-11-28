@@ -34,4 +34,4 @@
 <!ENTITY add.htmltitle                "Добавяне име на домейн">
 <!ENTITY add.htmldomain               "Име на домейн за HTML:">
 <!ENTITY add.plaintexttitle           "Добавяне име на домейн">
-<!ENTITY add.plaintextdomain          "Име на домейн за обикновен текст:">
+<!ENTITY add.plaintextdomain          "Име на домейн като текст:">

@@ -81,7 +81,7 @@
 <!ENTITY printCmd.label "Печат…">
 <!ENTITY printCmd.accesskey "П">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Преглед за отпечатване">
+<!ENTITY printPreviewCmd.label "Преглед преди отпечатване">
 <!ENTITY printPreviewCmd.accesskey "г">
 <!ENTITY printSetupCmd.label "Настройки на отпечатване…">
 <!ENTITY printSetupCmd.accesskey "К">
@@ -99,7 +99,7 @@
 <!ENTITY deleteFolderCmd.accesskey "з">
 <!ENTITY unsubscribeNewsgroupCmd.label "Отписване">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "О">
-<!ENTITY selectMenu.label "Избор">
+<!ENTITY selectMenu.label "Избиране">
 <!ENTITY selectMenu.accesskey "И">
 <!ENTITY all.label "Всичко">
 <!ENTITY all.accesskey "В">
@@ -792,7 +792,7 @@
 <!ENTITY contextSaveAs.accesskey "а">
 <!ENTITY contextPrint.label "Печат…">
 <!ENTITY contextPrint.accesskey "П">
-<!ENTITY contextPrintPreview.label "Преглед за отпечатване">
+<!ENTITY contextPrintPreview.label "Преглед преди отпечатване">
 <!ENTITY contextPrintPreview.accesskey "г">
 
 <!-- Thread Pane Column Picker -->

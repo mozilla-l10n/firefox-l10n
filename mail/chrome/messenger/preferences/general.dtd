@@ -15,7 +15,7 @@
 <!ENTITY dockOptions.accesskey            "и">
 
 <!ENTITY newMessagesArrive.label          "При пристигане на ново писмо:">
-<!ENTITY playSound.label                  "Изсвирва звук">
+<!ENTITY playSound.label                  "Изпълняване на звук">
 <!ENTITY playSound1.accesskey             "у">
 <!ENTITY playSoundMac.label               "Използване на следния звуков файл:">
 <!ENTITY playSoundMac.accesskey           "з">

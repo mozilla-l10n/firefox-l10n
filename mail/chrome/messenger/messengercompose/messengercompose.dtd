@@ -28,7 +28,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Лична визитка (vCard)">
 <!ENTITY attachVCardCmd.accesskey "Л">
-<!ENTITY remindLater.label "Припомни ми по-късно">
+<!ENTITY remindLater.label "Напомняне по-късно">
 <!ENTITY remindLater.accesskey "П">
 <!ENTITY closeCmd.label "Затваряне">
 <!ENTITY closeCmd.key "W">
@@ -52,7 +52,7 @@
 <!ENTITY sendLaterCmd.accesskey "о">
 <!ENTITY printSetupCmd.label "Настройки на отпечатване…">
 <!ENTITY printSetupCmd.accesskey "К">
-<!ENTITY printPreviewCmd.label "Предварителен преглед преди отпечатване">
+<!ENTITY printPreviewCmd.label "Преглед преди отпечатване">
 <!ENTITY printPreviewCmd.accesskey "П">
 <!ENTITY printCmd.label "Печат…">
 <!ENTITY printCmd.key "P">

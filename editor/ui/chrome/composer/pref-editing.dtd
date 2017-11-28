@@ -8,7 +8,7 @@
 <!ENTITY  authorName.accesskey      "А">
 <!ENTITY  pageColorHeader           "Подразбиращ се изглед на страница">
 
-<!ENTITY defaultColors.label        "Читателски цветове по подразбиране (без определяне на цветове в страницата)">
+<!ENTITY defaultColors.label        "Цветовете по подразбиране на читателя (без определяне на цветове в страницата)">
 <!ENTITY defaultColors.accesskey    "б">
 <!ENTITY customColors.label         "Използвайте ваши цветове:">
 <!ENTITY customColors.accesskey     "в">

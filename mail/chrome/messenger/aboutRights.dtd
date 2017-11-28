@@ -16,8 +16,8 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; е достъпен под условията на ">
-<!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Това означава, че може да използвате, копирате и давате на други &brandShortName;. Също така, да променяте програмния код според вашите специфични нужди. Лицензът „Mozilla Public License“ ви дава правото да разпространявате променени версии.">
+<!ENTITY rights.intro-point1b "Публичния лиценз на Mozilla">
+<!ENTITY rights.intro-point1c ". Това означава, че може да използвате, копирате и разпространявате &brandShortName;. Също може да променяте изходния код на &brandShortName; според вашите нужди. Публичният лиценз на Mozilla също ви дава право да разпространявате променените версии.">
 
 <!ENTITY rights.intro-point2a "Не ви се предоставят права върху търговските марки или логота на Mozilla и Thunderbird. Допълнителна информация за търговските марки може да бъде намерена ">
 <!ENTITY rights.intro-point2b "тук">
@@ -58,7 +58,7 @@
 <!ENTITY rights.webservices-unbranded "Тук трябва да има общ преглед на услугите за уеб сайтове и инструкции как да се изключат.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Всички приложими условия на услугите трябва да са изброени тук.">
+<!ENTITY rights.webservices-term1-unbranded "Всички приложими условия на услугата за продукта трябва да бъдат изброени тук.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; може да оттегли или промени Услугите по свое усмотрение.">

@@ -5,7 +5,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Цветове и фон на страницата">
 <!ENTITY pageColors.label "Цветове за страницата">
-<!ENTITY defaultColorsRadio.label "Цветове по подразбиране на читателя (без определяне на цветове в страницата)">
+<!ENTITY defaultColorsRadio.label "Цветовете по подразбиране на читателя (без определяне на цветове в страницата)">
 <!ENTITY defaultColorsRadio.accessKey "б">
 <!ENTITY defaultColorsRadio.tooltip "Ще се използват цветовите настройки на браузъра на потребителя (читателя)">
 <!ENTITY customColorsRadio.label "Използвайте ваши цветове:">

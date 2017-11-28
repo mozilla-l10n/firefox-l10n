@@ -224,7 +224,7 @@
 <!ENTITY tableMenu.accesskey "Т">
 
 <!-- Select Submenu -->
-<!ENTITY tableSelectMenu.label "Избор">
+<!ENTITY tableSelectMenu.label "Избиране">
 <!ENTITY tableSelectMenu.accesskey "И">
 
 <!ENTITY tableSelectMenu2.label "Избор на таблица">
@@ -328,7 +328,7 @@
 <!ENTITY alignJustifyButton.tooltip "Подравняване на текста към лявата и дясната граница">
 
 <!-- Structure Toolbar Context Menu items -->
-<!ENTITY structSelect.label         "Избор">
+<!ENTITY structSelect.label         "Избиране">
 <!ENTITY structSelect.accesskey     "И">
 <!ENTITY structRemoveTag.label      "Премахване на етикет">
 <!ENTITY structRemoveTag.accesskey  "м">
