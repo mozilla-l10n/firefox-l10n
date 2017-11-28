@@ -14,6 +14,6 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Renunță">
 <!ENTITY     cancel.accesskey              "C">
-<!ENTITY     removingDialog.title          "Ştergere datele privind site-urile">
-<!ENTITY     removingSelected.description  "Ştergerea datelor privind site-urile va şterge cookie-urile asociate şi conținuturile web offline. Acesta poate să te deconecteze de site-uri. Sigur dorești să efectuezi aceste schimbări?">
+<!ENTITY     removingDialog.title          "Eliminarea datelor privind site-urile">
+<!ENTITY     removingSelected.description  "Eliminarea datelor privind site-urile va elimina și cookie-urile asociate şi conținutul web offline. Acesta poate să te deconecteze de pe site-uri web. Sigur dorești să efectuezi aceste schimbări?">
 <!ENTITY     siteTree2.label               "Următoarele cookie-uri ale site-urilor web vor fi eliminate">
