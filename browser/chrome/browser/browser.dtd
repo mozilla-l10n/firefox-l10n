@@ -971,7 +971,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Descarcă o copie nouă de &brandShorterName;">
 
-<!ENTITY updateRestart.message2 "După o repornire rapidă &brandShorterName; va restaura toate filele tale deschise şi ferestrele care nu sunt în modul de navigare privată.">
+<!ENTITY updateRestart.message2 "După o repornire rapidă, &brandShorterName; va restaura toate filele tale deschise și ferestrele care nu sunt în modul de navigare privată.">
 <!ENTITY updateRestart.header.message2 "Repornește pentru a actualiza &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Repornește și restabilește">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -986,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Trimite fila pe dispozitiv">
 <!ENTITY sendToDevice.syncNotReady.label "Se sincronizează dispozitivele…">
 
-<!ENTITY libraryButton.tooltip "Vezi istoricul, marcajele salvate şi mai multe">
+<!ENTITY libraryButton.tooltip "Vezi istoricul, marcajele salvate și mai multe">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
