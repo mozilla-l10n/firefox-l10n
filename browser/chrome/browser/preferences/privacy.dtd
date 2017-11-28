@@ -103,7 +103,7 @@
 <!ENTITY  rememberSearchForm.label       "Memorează istoricul formularelor și al căutărilor">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Curăță istoricul când &brandShortName; este închis">
+<!ENTITY  clearOnClose.label             "Șterge istoricul când &brandShortName; este închis">
 <!ENTITY  clearOnClose.accesskey         "C">
 
 <!ENTITY  clearOnCloseSettings.label     "Setări…">
