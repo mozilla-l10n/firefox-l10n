@@ -18,4 +18,6 @@
 <!ENTITY aboutUrlClassifier.cacheEntries                "Zëra Fshehtine">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Parashtesë">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Diagnostikim">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Caktoni Kartelë Regjistër">
+<!ENTITY aboutUrlClassifier.debugModules                "Module të tanishëm regjistrimi">
 <!ENTITY aboutUrlClassifier.debugFile                   "Kartelë regjistri të tanishëm">
