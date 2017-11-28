@@ -17,7 +17,7 @@
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "Bloquear transferências perigosas">
-<!ENTITY  blockDownloads.accesskey        "d">
+<!ENTITY  blockDownloads.accesskey        "t">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "Avisar-lhe acerca de software não-solicitado e incomum">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "c">
