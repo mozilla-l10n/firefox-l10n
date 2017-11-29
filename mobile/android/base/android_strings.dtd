@@ -486,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Avaa yksityiseen välilehteen">
 <!ENTITY contextmenu_remove "Poista">
 <!ENTITY contextmenu_add_to_launcher "Lisää linkki kotinäkymään">
+<!ENTITY contextmenu_add_page_shortcut "Lisää sivun pikakuvake">
 <!ENTITY contextmenu_set_as_homepage "Aseta aloitussivuksi">
 <!ENTITY contextmenu_share "Jaa">
 <!ENTITY contextmenu_pasteandgo "Liitä ja avaa">
@@ -823,6 +824,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Lisää kotinäytölle">
 
+<!ENTITY promotion_add_page_shortcut "Lisää sivun pikakuvake">
 
 <!ENTITY helper_first_offline_bookmark_title "Lue yhteydettömässä tilassa">
 <!ENTITY helper_first_offline_bookmark_message "Löydä lukunäkymäsi kohteet kirjanmerkeistä, jopa yhteydettömässä tilassa.">
@@ -872,3 +874,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Lisää kotinäkymään">
 <!ENTITY pwa_continue_to_website "Jatka sivustolle">
+<!ENTITY pwa_onboarding_sumo "Voit lisätä tämän sivuston helposti kotinäyttöön saadaksesi nopean, sovelluksen kaltaisen käyttökokemuksen.">
