@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Avaa viestipaneeli">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Avaa paikannustietojen pyyntöpaneeli">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Avaa lisäosan asentamisen viestipaneeli">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Hallinnoi kanvaksen sisällön lukemisen oikeutta">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Avaa verkkoyhteydettömän tilan tietovaraston viestipaneeli">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Avaa salasanan tallentamisen viestipaneeli">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hallinnoi liitännäisen käyttöä">
