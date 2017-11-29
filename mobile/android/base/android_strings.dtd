@@ -29,7 +29,7 @@
 <!ENTITY firstrun_tabqueue_title "Liên kết">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Bật hàng đợi thẻ">
-<!ENTITY firstrun_tabqueue_subtext_off "Lưu liên kết trong &brandShortName; để xem sau khi bạn truy cập chúng trong các ứng dụng khác.">
+<!ENTITY firstrun_tabqueue_subtext_off "Lưu đường dẫn trong &brandShortName; để xem sau khi bạn truy cập chúng trong các ứng dụng khác.">
 
 <!ENTITY firstrun_tabqueue_message_on "Thành công!">
 <!ENTITY firstrun_tabqueue_subtext_on "Bạn có thể tắt hoàn toàn trong &settings; dưới &pref_category_general;.">
@@ -529,7 +529,7 @@
 <!ENTITY pref_scroll_title_bar_summary2 "Ẩn thanh công cụ của &brandShortName; khi kéo trang xuống dưới">
 
 <!ENTITY pref_tab_queue_title3 "Hàng đợi thẻ">
-<!ENTITY pref_tab_queue_summary4 "Lưu liên kết cho lần mở &brandShortName; tiếp theo">
+<!ENTITY pref_tab_queue_summary4 "Lưu đường dẫn cho lần mở &brandShortName; tiếp theo">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
