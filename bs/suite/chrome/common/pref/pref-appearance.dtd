@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
+
+<!ENTITY pref.appearance.title "Izgled">
+<!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY onStartLegend.label                    "Kada se &brandShortName; pokrene, otvori">
+<!ENTITY navCheck.label                         "Browser">
+<!ENTITY showToolsLegend.label                  "Prikaži alatne trake kao">
+<!ENTITY picsNtextRadio.label                   "Slike i tekst">
+<!ENTITY picsOnlyRadio.label                    "Samo slike">
+<!ENTITY textonlyRadio.label                    "Samo tekst">
+
+<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+
