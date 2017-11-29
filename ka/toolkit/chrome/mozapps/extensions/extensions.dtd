@@ -14,8 +14,8 @@
 <!ENTITY listEmpty.availableUpdates.label     "განახლებები ვერ მოიძებნა">
 <!ENTITY listEmpty.recentUpdates.label        "ბოლო დროს, არცერთი დამატება არ განგიახლებიათ.">
 <!ENTITY listEmpty.findUpdates.label          "განახლებების შემოწმება">
-<!ENTITY listEmpty.search.label               "შესაბამისი დაამტებები ვერ მოიძებნა">
-<!ENTITY listEmpty.button.label               "ვრცლად, დამატებების შესახებ">
+<!ENTITY listEmpty.search.label               "შესაბამისი დამატებები ვერ მოიძებნა">
+<!ENTITY listEmpty.button.label               "იხილეთ ვრცლად, დამატებების შესახებ">
 <!ENTITY installAddonFromFile.label           "დამატების დაყენება ფაილის მეშვეობით…">
 <!ENTITY installAddonFromFile.accesskey       "ფ">
 <!ENTITY toolsMenu.tooltip                    "ხელსაწყოები ყველა დამატებისთვის">
