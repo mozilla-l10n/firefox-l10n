@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-cache.xul -->
+
+<!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
+<!ENTITY pref.cache.title                "Keš">
+<!ENTITY pref.cache.caption              "Podešavanja keša">
+<!ENTITY cachePara                       "Keš čuva kopije od nedavno posjećenih web stranica na vaš disk. (Klikanjem Učitaj ponovo pokazuje vam najnoviju verziju stranice.)">
+
