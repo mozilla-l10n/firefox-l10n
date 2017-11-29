@@ -11,29 +11,29 @@
 
 <!-- Specific error messages -->
 
-
 <!ENTITY connectionFailure.title "കണക്ട്‌ ചെയ്യുവാന്‍ സാധിച്ചില്ല">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "ഈ വിലാസം നിരോധിക്കപ്പെട്ടതാണ്‌ ">
 <!ENTITY deniedPortAccess.longDesc "‌">
 
-<!ENTITY dnsNotFound.title "സെര്‍വര്‍ കണ്ടെത്താനായില്ല">
-<!ENTITY dnsNotFound.longDesc "<ul> <li> <strong>www</strong>.example.com-ന് പകരം <strong>ww</strong>.example.com എന്നത് പോലുള്ള അക്ഷര പിശകുകള്‍ക്കായി വിലാസം പരിശോധിക്കുക. </li><li>നിങ്ങള്‍ക്ക് ഏതെങ്കിലും പേജ് ലഭ്യമല്ലെങ്കില്‍, കംപ്യൂട്ടറിന്റെ നെറ്റ്‌വര്‍ക്ക് കണക്ഷന്‍ പരിശോധിക്കുക.</li> <li>നിങ്ങളുടെ കംപ്യൂട്ടര്‍ അല്ലെങ്കില്‍ നെറ്റ്‌വര്‍ക്ക് ഒരു ഫയര്‍വോള്‍ അല്ലെങ്കില്‍ പ്രോക്സി ഉപയോഗിച്ച് സുരക്ഷിതമാക്കിയിരിക്കുന്നു എങ്കില്‍, &brandShortName; -ന് വെബിലേക്ക് പ്രവേശിക്കുവാനുള്ള അനുവാദം ഉണ്ടെന്നുറപ്പാക്കുക..</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "സെർവർ കണ്ടെത്താനായില്ല">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "ഫയല്‍ കാണ്‍മാനില്ല">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ടൈപ്പ് ചെയ്യുന്നതിലുള്ള പിശകുകള്‍ക്കായി ഫയലിന്റെ പേര് പരിശോധിക്കുക.</li> <li>ഫയല്‍ നീക്കം ചെയ്യുകയോ,പേര് മാറ്റുകയോ അല്ലെങ്കില്‍  വെട്ടി നീക്കുകയോ മറ്റോ ചെയ്തോ എന്ന് പരിശോധിക്കുക.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "ഫയലിലേക്കുള്ള ആക്സസ്സ് നിരസിച്ചു">
 
 <!ENTITY generic.title "അയ്യോ!!">
 <!ENTITY generic.longDesc "<p>ചില കാരണങ്ങളാല്‍ &brandShortName;-ന്‌ ഈ താള്‍ ലോഡ്‌ ചെയ്യുവാന്‍ സാധ്യമല്ല</p>">
 
+<!ENTITY captivePortal.title "നെറ്റ്‍വർക്കിൽ പ്രവേശിക്കുക">
 
+<!ENTITY openPortalLoginPage.label2 "നെറ്റ്‍വർക്ക് ലോഗിൻ പേജ് തുറക്കുക">
 
-
-<!ENTITY malformedURI.title "വിലാസം വാലിഡ്‌ അല്ല">
-<!ENTITY malformedURI.longDesc "<ul> <li>വെബിന്റെ വിലാസങ്ങള്‍ സാധാരണ ഇപ്രകാരമാണ് എഴുതുന്നത്: <strong>http://www.example.com/</strong></li> <li>മുന്നോട്ടുള്ള സ്ളാഷ് ആണുപയോഗിക്കുന്നത് എന്നുറപ്പാക്കുക (അതായത്, <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "അസാധുവായ URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "ഈ കണക്ഷന്‍ തടസ്സപ്പെട്ടിരിക്കുന്നു">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -73,6 +73,7 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>നിങ്ങള്‍ ഇപ്പോള്‍ കാണുവാന്‍ ശ്രമിക്കുന്ന താള്‍ ലഭ്യമല്ല. കാരണം ലഭ്യമായ ഡേറ്റയുടെ ആധികാരികത ഉറപ്പാക്കുവാന്‍ സാധ്യമായില്ല.</li> <li>ഇതു് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ ദയവായി വെബ്സൈറ്റ് ഉടമസ്ഥരെ അറിയിക്കുക.</li> </ul>">
 
+<!ENTITY certerror.longpagetitle1 "നിങ്ങളുടെ കണക്ഷൻ സുരക്ഷിതമല്ല">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -96,13 +97,12 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "സുരക്ഷിതമായി കണക്ട് ചെയ്യുവാന്‍ സാധ്യമല്ല">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
-
 <!ENTITY certerror.pagetitle1  "സുരക്ഷിതമല്ലാത്ത കണക്ഷന്‍">
-
 <!ENTITY certerror.copyToClipboard.label "ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് വാചകം പകര്‍ത്തുക">
 
 <!ENTITY inadequateSecurityError.title "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
