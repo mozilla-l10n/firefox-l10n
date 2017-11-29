@@ -29,6 +29,7 @@
 <!ENTITY sendLinkToDevice.label "Invia link a dispositivo">
 <!ENTITY sendLinkToDevice.accesskey "I">
 <!ENTITY sendToDeviceFeedback.label "Inviato">
+<!ENTITY sendToDeviceOfflineFeedback.label "In coda (non in linea)">
 <!ENTITY moveToNewWindow.label "Sposta in una nuova finestra">
 <!ENTITY moveToNewWindow.accesskey "f">
 <!ENTITY bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
