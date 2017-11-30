@@ -62,7 +62,7 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക">
 
-<!ENTITY tabCmd.label "പുതിയ റ്റാബ്‌ ">
+<!ENTITY tabCmd.label "പുതിയ റ്റാബ്‌">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -291,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "പുതിയ കണ്ടെയ്നർ ടാബ്">
 <!ENTITY newUserContext.accesskey         "B">
-<!ENTITY newNavigatorCmd.label        "പുതിയ ജാലകം ">
+<!ENTITY newNavigatorCmd.label        "പുതിയ ജാലകം">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "പുതിയ സ്വകാര്യ ജാലകം">
@@ -955,21 +955,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.message "മികച്ച വേഗതയ്ക്കും സ്വകാര്യതക്കും നിങ്ങളുടെ &brandShorterName; അപ്ഡേറ്റ് ചെയ്യുക.">
 <!ENTITY updateAvailable.whatsnew.label "പുതിയതായി എന്താണ് ഉള്ളതെന്ന് കാണുക.">
-<!ENTITY updateAvailable.header.message "പുതിയ &brandShorterName; അപ്ഡേറ്റ് ലഭ്യമാണ്.">
-<!ENTITY updateAvailable.acceptButton.label "അപ്ഡേറ്റ് ഡൗൺലോഡ് ചെയ്യുവാൻ">
+<!ENTITY updateAvailable.header.message "പുതിയ &brandShorterName; പുതുക്കല്‍ ലഭ്യമാണ്.">
+<!ENTITY updateAvailable.acceptButton.label "പുതുക്കല്‍ ഡൗൺലോഡു">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ഇപ്പോൾ വേണ്ട">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
-<!ENTITY updateAvailable.panelUI.label "&brandShorterName; അപ്ഡേറ്റ് ഡൗൺലോഡ് ചെയ്യുക">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; പുതുക്കല്‍ ഡൗൺലോഡു">
 
 <!ENTITY updateManual.message "&brandShorterName; ന്റെ പുതിയ പകർപ്പ് ഡൌൺലോഡ് ചെയ്യുക. അത് ഇൻസ്റ്റാൾ ചെയ്യാൻ ഞങ്ങൾ നിങ്ങളെ സഹായിക്കാം.">
 <!ENTITY updateManual.whatsnew.label "പുതിയതായി എന്താണ് ഉള്ളത് എന്ന് കാണുക.">
-<!ENTITY updateManual.header.message "&brandShorterName; നു പുതിയ പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്യാൻ കഴിയില്ല.">
+<!ENTITY updateManual.header.message "&brandShorterName; നു പുതിയ പതിപ്പിലേക്ക് പുതുക്കാന്‍ പറ്റില്ല.">
 <!ENTITY updateManual.acceptButton.label "&brandShorterName; ഡൌൺലോഡ് ചെയ്യുക">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "ഇപ്പോൾ വേണ്ട">
 <!ENTITY updateManual.cancelButton.accesskey "N">
-<!ENTITY updateManual.panelUI.label "&brandShorterName; ന്റെ ഒരു പുതിയ പകർപ്പ് ഡൌൺലോഡ് ചെയ്യുവാൻ">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; ന്റെ ഒരു പുതിയ പകർപ്പ് ഡൌൺലോഡ് ചെയ്യു">
 
 <!ENTITY updateRestart.message2 "റീസ്റ്റാർട്ടിങ്ങു് ശേഷം &brandShorterName; സ്വകാര്യ ബ്രൌസിംഗ് മോഡിൽ ഇല്ലാത്ത നിങ്ങളുടെ എല്ലാ ഓപ്പൺ ടാബുകളും വിൻഡോകളും പുനഃസ്ഥാപിക്കും.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; അപ്ഡേറ്റ് ചെയ്യുവാനായി റീസ്റ്റാർട്ട് ചെയ്യുക.">
