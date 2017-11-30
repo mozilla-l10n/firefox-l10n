@@ -351,12 +351,12 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Sử dụng cỡ phông hệ thống">
-<!ENTITY pref_use_system_font_size_summary "Co dãn nội dung trang web dựa vào kích thước phông chữ hệ thống">
+<!ENTITY pref_use_system_font_size_summary "Co giãn nội dung trang web dựa vào kích thước phông chữ hệ thống">
 
 <!ENTITY pref_media_autoplay_enabled "Cho phép tự động phát">
 <!ENTITY pref_media_autoplay_enabled_summary "Kiểm soát nếu trang web có thể tự động phát video và nội dung đa phương tiện khác">
-<!ENTITY pref_zoom_force_enabled "Luôn cho phép phóng to">
-<!ENTITY pref_zoom_force_enabled_summary "Buộc ghi đè để bạn có thể thu phóng ở bất kì trang nào">
+<!ENTITY pref_zoom_force_enabled "Luôn bật chế độ thu phóng">
+<!ENTITY pref_zoom_force_enabled_summary "Luôn bật để bạn có thể thu phóng ở bất kì trang nào">
 <!ENTITY pref_voice_input "Nhập liệu giọng nói">
 <!ENTITY pref_voice_input_summary2 "Cho phép ghi âm giọng nói trong thanh URL">
 <!ENTITY pref_qrcode_enabled "Bộ đọc mã QR">
