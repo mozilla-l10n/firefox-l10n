@@ -80,7 +80,10 @@
 <!ENTITY changeSettings.label            "Cambiar configuraciones">
 <!ENTITY changeSettings.accesskey        "S">
 
+<!ENTITY contactYourProvider.description "Firefox puede permitirte llegar a tu correo, utilizando las configuraciones proporcionadas. Sin embargo, debes contactar a tu administrador o proveedor de correo electrónico con respecto a estas conexiones incorrectas. Mira las preguntas frecuentes de Thunderbird para más información.">
 
+<!ENTITY insecureServer.tooltip.title    "¡Advertencia! Este es un servidor inseguro.">
 <!ENTITY insecureServer.tooltip.details  "Haz clic en el círculo para más detalles.">
 
+<!ENTITY insecureUnencrypted.description "Tu correo electrónico y autenticación se envían sin cifrar, por lo que tu contraseña (y tu mensaje) podrían ser leídos fácilmente por otras personas. &brandShortName; te permitirá acceder a tu correo, pero debes contactar a tu proveedor de correo electrónico para configurar el servidor con una conexión segura.">
 <!ENTITY secureServer.description        "¡Felicidades! Este servidor es seguro.">
