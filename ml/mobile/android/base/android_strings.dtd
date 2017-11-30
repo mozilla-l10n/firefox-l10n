@@ -5,6 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; തിരഞ്ഞെടുത്തതിന് നന്ദി">
 <!ENTITY firstrun_panel_title_privacy "സ്വകാര്യത">
+<!ENTITY firstrun_privacy_message "ആരാരും കാണാതെ ബ്രൗസ് ചെയ്യൂ">
 <!ENTITY firstrun_panel_title_customize "ഇഷ്ടാനുസൃതമാക്കുക">
 <!ENTITY firstrun_customize_message "&brandShortName; നിങ്ങളുടേതാക്കി മാറ്റുക.">
 <!ENTITY firstrun_bookmarks_title "നാള്‍വഴി">
