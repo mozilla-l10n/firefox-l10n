@@ -6,9 +6,9 @@
 <!ENTITY searchreset.pageTitle "Ripristinare le impostazioni di ricerca?">
 <!ENTITY searchreset.pageInfo1 "Le impostazioni di ricerca attuali potrebbero essere obsolete. Se lo si desidera è possibile ripristinare le impostazioni predefinite di &brandShortName;.">
 <!ENTITY searchreset.selector.label "Questa operazione imposterà come motore di ricerca predefinito">
-<!ENTITY searchreset.beforelink.pageInfo2 "È possibile modificare le opzioni di ricerca in qualunque momento nelle ">
+<!ENTITY searchreset.beforelink.pageInfo2 "È possibile modificare in qualunque momento le ">
 <!ENTITY searchreset.afterlink.pageInfo2 ".">
-<!ENTITY searchreset.link.pageInfo2 "impostazioni">
+<!ENTITY searchreset.link.pageInfo2 "impostazioni di ricerca">
 <!ENTITY searchreset.noChangeButton "Non modificare">
 <!ENTITY searchreset.noChangeButton.access "N">
 <!ENTITY searchreset.changeEngineButton "Modifica motore di ricerca">
