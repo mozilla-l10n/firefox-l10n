@@ -19,6 +19,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "സെർവർ കണ്ടെത്താനായില്ല">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "ഹും. ആ സൈറ്റിനെ കണ്ടെത്തുന്നതിൽ ഞങ്ങൾക്ക് പ്രശ്നമുണ്ട്.">
 
 <!ENTITY fileNotFound.title "ഫയല്‍ കാണ്‍മാനില്ല">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ടൈപ്പ് ചെയ്യുന്നതിലുള്ള പിശകുകള്‍ക്കായി ഫയലിന്റെ പേര് പരിശോധിക്കുക.</li> <li>ഫയല്‍ നീക്കം ചെയ്യുകയോ,പേര് മാറ്റുകയോ അല്ലെങ്കില്‍  വെട്ടി നീക്കുകയോ മറ്റോ ചെയ്തോ എന്ന് പരിശോധിക്കുക.</li> </ul>">
