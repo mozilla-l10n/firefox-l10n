@@ -4,28 +4,44 @@
 
 <!-- File Menu -->
 <!ENTITY tabCmd.label "Tab pretraživača">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Otvori web lokaciju…">
+<!ENTITY openCmd.accesskey "L">
+<!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Otvori datoteku…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
 
 <!ENTITY closeOtherTabs.label "Zatvori ostale tabove">
+<!ENTITY closeOtherTabs.accesskey "T">
 
 <!ENTITY uploadFile.label "Prenesi datoteku…">
+<!ENTITY uploadFile.accesskey "F">
 
 <!ENTITY printSetupCmd.label "Postavljanje stranice…">
+<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Pronađi na ovoj stranici…">
 
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Prikaži/sakrij">
+<!ENTITY toolbarsCmd.accesskey "w">
 <!ENTITY tabbarCmd.label "Tab traka">
+<!ENTITY tabbarCmd.accesskey "T">
 <!ENTITY taskbarCmd.label "Statusna traka">
+<!ENTITY taskbarCmd.accesskey "S">
 <!ENTITY componentbarCmd.label "Komponentna traka">
+<!ENTITY componentbarCmd.accesskey "C">
 
-<!ENTITY fullScreenCmd.label "Prikaz preko cijelog ekrana">
+<!ENTITY fullScreenCmd.label "Prikaz na cijelom ekranu">
+<!ENTITY fullScreenCmd.accesskey "F">
 
-<!ENTITY useStyleSheetMenu.label "Korištenje stila">
+<!ENTITY useStyleSheetMenu.label "Koristite stil">
+<!ENTITY useStyleSheetMenu.accesskey "U">
 <!ENTITY useStyleSheetNone.label "Nijedan">
+<!ENTITY useStyleSheetNone.accesskey "N">
 <!ENTITY useStyleSheetPersistentOnly.label "Izvorni stil">
 <!ENTITY bidiSwitchPageDirectionItem.label "Promijeni smjer stranice">
 <!ENTITY pageSourceCmd.label "Izvorni kod stranice">

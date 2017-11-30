@@ -9,3 +9,11 @@
 <!ENTITY  enableHistory.label               "Zapamti posjećene stranice">
 <!ENTITY  clearHistory.label                "Očisti historiju">
 
+<!ENTITY  locationBarHistory.caption        "Historija adresne trake">
+<!ENTITY  urlBarHistoryEnabled.caption      "Omogući historiju adresne trake">
+<!ENTITY  clearLocationBar.label            "Očisti listu web stranica u meniju adresne trake.">
+<!ENTITY  clearLocationBarButton.label      "Očisti adresnu traku">
+<!ENTITY  formfillHistory.caption           "Historija obazaca i pretrage">
+<!ENTITY  enableFormfill.label              "Omogući historiju obrazaca i pretrage">
+<!ENTITY  formfillExpire.label              "Zapamti historiju obrazaca i pretrage do">
+<!ENTITY  formfillDays.label                "dana">

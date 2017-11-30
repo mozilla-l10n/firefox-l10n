@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.http.title                     "HTTP umrežavanje">
+
+<!-- Network-->
+<!ENTITY prefDirect.label                    "Opcije direktne veze">
+<!ENTITY prefProxy.label                     "Opcije proxy veze">
+<!ENTITY prefEnableHTTP10.label              "Koristite HTTP 1.0">
+<!ENTITY prefEnableHTTP11.label              "Koristite HTTP 1.1">
