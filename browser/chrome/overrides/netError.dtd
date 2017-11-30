@@ -169,7 +169,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "გამონაკლისის დამატება…">
 
-<!ENTITY errorReporting.automatic2 "შეატყობინეთ მსგავსი შეცდომები რათა დაეხმაროთ Mozilla-ს მავნე საიტების დადგენაში და მათ დაბლოკვაში.">
+<!ENTITY errorReporting.automatic2 "მოახსენეთ Mozilla-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში">
 <!ENTITY errorReporting.learnMore "ვრცლად…">
 
 <!ENTITY remoteXUL.title "დისტანციური XUL">
