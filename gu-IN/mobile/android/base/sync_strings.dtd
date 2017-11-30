@@ -4,8 +4,8 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "Firefox સીંક">
-<!ENTITY syncBrand.shortName.label "સીંક">
+<!ENTITY syncBrand.fullName.label "Firefox સમન્વય">
+<!ENTITY syncBrand.shortName.label "સમન્વય">
 
 <!-- Main titles. -->
 <!ENTITY sync.title.connect.label '&syncBrand.shortName.label; સાથે જોડાવ'>
@@ -59,7 +59,7 @@
 <!ENTITY fxaccount_status_needs_verification2 'તમારા ખાતાની ખાતરી કરવાની જરૂર છે. તપાસ ઇમેલ પુનઃમોકલવા માટે ઠપકારો.'>
 <!ENTITY fxaccount_status_needs_credentials 'જોડાઇ શકતા નથી. પ્રવેશ કરવા માટે ઠપકારો.'>
 <!ENTITY fxaccount_status_needs_upgrade 'પ્રવેશ કરવા માટે તમારે &brandShortName; ને અપગ્રેડ કરવાની જરૂર છે.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સીંક થતુ નથી. Android સેટીંગ > માહિતી વપરાશમાં ”માહિતી સ્વયં-સીંક કરો” બદલો.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; એ સુયોજીત છે, પરંતુ સ્વયં સમન્વયિત થતુ નથી. Android સેટીંગ માહિતી વપરાશમાં “માહિતી સ્વયં-સમન્વય કરો” બદલો.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; સેટ કરેલું છે, પરંતુ આપમેળે સમન્વયિત થતો નથી. Android સેટિંગ્સ &gt; ના મેનૂમાં “સ્વતઃ-સમન્વયન ડેટા” ટૉગલ કરો એકાઉન્ટ્સ.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'તમારા નવા Firefox ખાતામાં સાઇન ઇન કરવા માટે ટેપ કરો.'>
 <!ENTITY fxaccount_status_choose_what 'શું સમન્વયિત કરવું તે પસંદ કરો'>
