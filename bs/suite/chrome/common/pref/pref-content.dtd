@@ -25,7 +25,8 @@
 <!ENTITY percent.label                          "&#37;">
 
 <!ENTITY siteSpecific.label                     "Zapamtite nivo uvećanja na osnovu stranice">
-<!ENTITY textZoomOnly.label                     "Uvećaj samo tekst umjesto cijelih stranica">
-<!ENTITY enableAutomaticImageResizing.label     "Promijeni veličinu slika da odgovaraju prozoru browsera">
+<!ENTITY textZoomOnly.label                     "Uvećajte samo tekst umjesto cijelih stranica">
+<!ENTITY enableAutomaticImageResizing.label     "Promijenite veličinu slika da odgovaraju prozoru browsera">
 
 <!ENTITY allowHWAccel.label                     "Koristite hardversko ubrzanje kada je dostupno">
+<!ENTITY blockAutoRefresh.label                 "Upozori me kada se web stranica pokuša preusmjeriti ili ponovo učitati">
