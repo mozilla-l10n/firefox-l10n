@@ -9,10 +9,12 @@
 <!ENTITY aboutDevtools.enable.aboutDebuggingMessage "Sviluppa ed effettua il debug di WebExtension, web worker, service worker e altro ancora con gli strumenti di sviluppo di Firefox.">
 <!ENTITY aboutDevtools.enable.keyShortcutMessage "È stata attivata una scorciatoia da tastiera degli strumenti di sviluppo. È possibile chiudere questa scheda se si è trattato soltanto di un errore.">
 <!ENTITY aboutDevtools.enable.menuMessage "Analizza, modifica ed effettua il debug di HTML, CSS e JavaScript con strumenti come Analisi pagina e Debugger.">
+<!ENTITY aboutDevtools.enable.menuMessage2 "Perfeziona HTML, CSS e JavaScript nei tuoi siti con strumenti come Analisi pagina e Debugger.">
 <!ENTITY aboutDevtools.enable.commonMessage "Gli strumenti di sviluppo di Firefox sono disattivati per impostazione predefinita, garantendo agli utenti il pieno controllo del proprio browser.">
 <!ENTITY aboutDevtools.enable.learnMoreLink "Ulteriori informazioni sugli strumenti di sviluppo">
 <!ENTITY aboutDevtools.enable.enableButton "Attiva strumenti di sviluppo">
 <!ENTITY aboutDevtools.enable.closeButton "Chiudi questa pagina">
+<!ENTITY aboutDevtools.enable.closeButton2 "Chiudi questa scheda">
 <!ENTITY aboutDevtools.welcome.title "Benvenuto negli strumenti di sviluppo di Firefox">
 <!ENTITY aboutDevtools.newsletter.title "Newsletter Mozilla dedicata agli sviluppatori">
 <!ENTITY aboutDevtools.newsletter.message "Ricevi notizie, suggerimenti e risorse sullo sviluppo web direttamente nella tua casella di posta.">
