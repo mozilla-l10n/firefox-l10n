@@ -4,12 +4,14 @@
 
 <!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; തിരഞ്ഞെടുത്തതിന് നന്ദി">
+<!ENTITY firstrun_panel_title_privacy "സ്വകാര്യത">
 <!ENTITY firstrun_bookmarks_title "നാള്‍വഴി">
 <!ENTITY firstrun_bookmarks_subtext "നിങ്ങള്‍ തിരയുമ്പോള്‍ അടയാളക്കുറിപ്പുകളില്‍ നിന്നും നാള്‍വഴിയില്‍ നിന്നും ഫലങ്ങള്‍ ലഭ്യമാക്കൂ.">
 <!ENTITY firstrun_data_title "ഡേറ്റാ">
 <!ENTITY firstrun_data_message "കുറച്ച് ഡേറ്റ, കൂടുതല്‍ നീക്കിയിരുപ്പ്‌">
 <!ENTITY firstrun_data_subtext2 "ഡേറ്റാ ഉപയോഗം കുറക്കാന്‍ നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന സൈറ്റുകളില്‍ ചിത്രങ്ങള്‍ കാണിക്കാതിരിക്കുക">
 <!ENTITY firstrun_sync_title "സിന്‍ക്">
+<!ENTITY firstrun_sync_message2 "അവസാനിപ്പിച്ചിടത്തു നിന്ന് തുടങ്ങുക.">
 <!ENTITY firstrun_signin_button "സിന്‍കിലേയ്ക്ക് പ്രവേശിക്കൂ">
 <!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!ENTITY firstrun_button_notnow "ഇപ്പോള്‍ വേണ്ട">
@@ -73,6 +75,9 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_one_item "1 ഇനം">
+<!ENTITY bookmark_folder_updated "ഫോൾഡർ അപ്ഡേറ്റുചെയ്തു">
+<!ENTITY bookmark_add_folder "പുതിയ ഫോൾഡർ ചേർക്കുക">
 
 <!ENTITY reader_saved_offline "ഓഫ്‍ലൈനായി സൂക്ഷിച്ചു">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -98,6 +103,7 @@
 <!ENTITY one_tab "ഒരു ടാബ്">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; ടാബുകൾ">
 <!ENTITY new_tab_opened "പുതിയ ടാബ് തുറന്നു">
 <!ENTITY new_private_tab_opened "പുതിയ സ്വകാര്യ ടാബ് തുറന്നു">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -116,6 +122,7 @@
 <!ENTITY settings "സജ്ജീകരണങ്ങള്‍">
 <!ENTITY settings_title "ക്രമീകരണങ്ങള്‍">
 <!ENTITY pref_category_general "പൊതുവായവ">
+<!ENTITY pref_category_general_summary3 "ഹോം, ഭാഷ, ടാബ് ക്യൂ">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -141,6 +148,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "നേരത്തെതന്നെ അടയാളപ്പെടുത്തിയത്">
 <!ENTITY overlay_share_send_other "മറ്റു് ഉപകരണങ്ങളിലേക്ക് അയയ്ക്കുക">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; ൽ തുറക്കുക">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -193,6 +201,7 @@
 <!ENTITY pref_category_home_homepage "ആസ്ഥാനതാള്‍">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "പുതിയ ടാബുകൾക്കായും ഉപയോഗിക്കൂ">
 <!ENTITY home_homepage_title "ഒരു ആസ്ഥാനതാള്‍ സജ്ജമാക്കുക">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -236,6 +245,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "തടഞ്ഞുവച്ചിരിക്കുന്നു">
 
 <!ENTITY pref_show_web_fonts "വെബ് ഫോണ്ടുകള്‍ കാണിക്കുക">
+<!ENTITY pref_show_web_fonts_summary2 "ഒരു പേജ് ലോഡുചെയ്യുമ്പോൾ വിദൂര ഫോണ്ടുകൾ ഡൗൺലോഡ് ചെയ്യുക">
 
 <!ENTITY pref_tracking_protection_title2 "പിന്തുടരല്‍ സംരക്ഷണം">
 <!ENTITY pref_donottrack_title "നിരീക്ഷിയ്ക്കേണ്ട">
@@ -250,15 +260,20 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "പരീക്ഷണാത്മക സവിശേഷതകൾ">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "ഇഷ്ടാനുസൃത ടാബുകൾ">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; ൽ തുറക്കുക">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL പകർത്തി">
 
+<!ENTITY pref_pwa_summary "വെബ് ആപ്പുകൾ ഹോം സ്ക്രീനിൽ ചേർക്കാൻ അനുവദിക്കുക">
 
 <!ENTITY tracking_protection_prompt_title "ഇപ്പോള്‍ പിന്തുടല്‍ സുരക്ഷയോടുകൂടെ">
 <!ENTITY tracking_protection_prompt_tip_text "കൂടുതലറിയാന്‍ സ്വകാര്യ സജ്ജീകരണങ്ങള്‍ സന്ദര്‍ശിക്കൂ">
@@ -281,6 +296,7 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ടാബുകൾ കാത്തിരിക്കുന്നു">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "ഒരു ടാബ് കാത്തിരിക്കുന്നു">
@@ -298,11 +314,13 @@
 <!ENTITY pref_clear_on_exit_title3 "പുറത്തു പോകുമ്പോള്‍ സ്വകാര്യവിവരങ്ങള്‍ നീക്കം ചെയ്യൂ">
 <!ENTITY pref_clear_on_exit_summary2 "മെയിന്‍ മെനുവില്‍ നിന്നും \&quot;പുറത്തു് കടക്കൂ\&quot; എന്നതെടുക്കുമ്പോള്‍ &brandShortName; നിങ്ങളുടെ ഉപയോഗവിവരങ്ങള്‍ സ്വയം നീക്കം ചെയ്യും.">
 <!ENTITY pref_clear_on_exit_dialog_title "വെടിപ്പാക്കേണ്ട ഡേറ്റാ തെരഞ്ഞെടുക്കൂ">
+<!ENTITY pref_restore_tabs "ടാബുകൾ പുനസ്ഥാപിക്കുക">
 <!ENTITY pref_restore_always "എപ്പോഴും പഴയപടിയാക്കുക">
 <!ENTITY pref_restore_quit "&brandShortName;-ല്‍ വിരമിച്ച ശേഷം പഴയപടിയാക്കേണ്ട">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "സിസ്റ്റത്തിന്റെ ഫോണ്ട് വലിപ്പം ഉപയോഗിക്കുക">
 
 <!ENTITY pref_media_autoplay_enabled "ഓട്ടോപ്ലേ അനുവദിക്കുക">
 <!ENTITY pref_media_autoplay_enabled_summary "വെബ്സൈറ്റുകള്‍ ചലച്ചിത്രങ്ങളോ മറ്റു മീഡിയാ ഉള്ളടക്കങ്ങളോ തനിയെ പ്രവര്‍ത്തിപ്പിക്കുന്നുണ്ടെങ്കില്‍ നിയന്ത്രിക്കുക">
@@ -311,6 +329,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "യുആര്‍എല്‍ ബാറില്‍ ക്യുആര്‍ സ്കാന്നര്‍ അനുവദിക്കൂ">
 
 <!ENTITY pref_use_master_password "ഒരു പ്രധാന രഹസ്യവാക്ക് ഉപയോഗിക്കുക">
+<!ENTITY pref_sync_default_title "ഫയർഫോക്സ് അക്കൗണ്ട്">
 <!ENTITY pref_sync2 "പ്രവേശിക്കുക">
 <!ENTITY pref_sync_summary2 "നിങ്ങളുടെ ടാബുകള്‍, അടയാളക്കുറിപ്പുകള്‍, പ്രവേശനങ്ങള്‍, നാള്‍വഴി എന്നിവ സിന്‍ക് ചെയ്യൂ">
 <!ENTITY pref_search_suggestions "തിരയല്‍ നിര്‍ദ്ദേശങ്ങള്‍ കാണിക്കുക">
@@ -319,6 +338,7 @@
 <!ENTITY pref_import_android_summary "നിങ്ങളുടെ നാള്‍വഴികളും അടയാളക്കുറിപ്പുകളും സഹജ ബ്രൗസറില്‍ നിന്നു ഇറക്കുമതി ചെയ്യൂ">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "ടാബുകൾ തുറക്കുക">
 <!ENTITY pref_private_data_history2 "ബ്രൌസ് ചെയ്ത വെബ്സൈറ്റുകള്‍">
 <!ENTITY pref_private_data_searchHistory "ചരിത്രം തിരയുക">
 <!ENTITY pref_private_data_formdata2 "നാള്‍വഴിയില്‍ നിന്ന്">
@@ -331,6 +351,7 @@
 <!ENTITY pref_private_data_syncedTabs "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
 <!ENTITY pref_default_browser "സ്വതേയുള്ള ബ്രൗസര്‍ ആക്കുക">
+<!ENTITY pref_default_browser_mozilla_support_tablet "മോസില്ല സപ്പോർട്ട് സന്ദർശിക്കുക">
 <!ENTITY pref_about_firefox "&brandShortName;-നെ സംബന്ധിച്ച്">
 <!ENTITY pref_vendor_faqs "സ്ഥിരം ചോദ്യങ്ങള്‍">
 <!ENTITY pref_vendor_feedback "പ്രതികരണം നല്‍കുക">
@@ -338,6 +359,8 @@
 <!ENTITY pref_dialog_set_default "സ്വതേയുള്ളതാക്കുക">
 <!ENTITY pref_dialog_default "സ്വതവേയുള്ള">
 <!ENTITY pref_dialog_remove "ഒഴിവാക്കുക">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "സമീപകാല ബുക്ക്മാർക്കുകൾ">
+<!ENTITY pref_dialog_activitystream_visited "സന്ദർശിച്ചവ">
 
 <!ENTITY pref_search_last_toast "അവസാനത്തെ തിരയല്‍ യന്ത്രത്തെ ഒഴിവാക്കാനോ പ്രവര്‍ത്തനരഹിതമാക്കാനോ താങ്കള്‍ക്കാവില്ല.">
 
@@ -428,6 +451,8 @@
 <!ENTITY contextmenu_open_private_tab "സ്വകാര്യ ടാബിൽ തുറക്കുക">
 <!ENTITY contextmenu_remove "ഒഴിവാക്കുക">
 <!ENTITY contextmenu_add_to_launcher "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
+<!ENTITY contextmenu_add_page_shortcut "പേജ് ഷോ‍ർട്ട്കട്ടുകൾ ചേർക്കുക">
+<!ENTITY contextmenu_set_as_homepage "ഹോംപേജ് ആക്കുക">
 <!ENTITY contextmenu_share "പങ്കിടുക">
 <!ENTITY contextmenu_pasteandgo "ഒട്ടിച്ച് തുടരുക">
 <!ENTITY contextmenu_paste "ഒട്ടിക്കുക">
@@ -441,6 +466,8 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "പ്രധാന സൈറ്റുകളിലേക്ക് പിൻ ചെയ്യുക">
+<!ENTITY contextmenu_unpin_from_top_sites "പ്രധാന സൈറ്റുകളിൽ നിന്ന് അൺപിൻ ചെയ്യുക">
 <!ENTITY contextmenu_add_search_engine "തെരച്ചിലിനുള്ള പ്രയോഗം ചേര്‍ക്കുക">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
@@ -463,6 +490,7 @@
 <!ENTITY pref_scroll_title_bar2 "മുഴുസ്ക്രീന്‍ ബ്രൗസിങ്">
 <!ENTITY pref_scroll_title_bar_summary2 "ഒരു താളില്‍ താഴേക്ക് സ്ക്രോള്‍ ചെയ്യുമ്പോള്‍ &brandShortName; ടൂള്‍ബാര്‍ മറക്കൂ">
 
+<!ENTITY pref_tab_queue_title3 "ടാബ് ക്യൂ">
 <!ENTITY pref_tab_queue_summary4 "അടുത്ത തവണ &brandShortName; തുറക്കുന്നത് വരെ അവയെ സൂക്ഷിക്കൂ">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
@@ -473,11 +501,13 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "താൾ നീക്കം ചെയ്തു">
 
+<!ENTITY folder_removed "ഫോൾഡർ നീക്കം ചെയ്തു">
 
 <!ENTITY bookmark_edit_title "ഓർമ്മക്കുറിപ്പ് പുനക്രമീകരിക്കുക">
 <!ENTITY bookmark_edit_name "പേരു്">
 <!ENTITY bookmark_edit_location "സ്ഥലം">
 <!ENTITY bookmark_edit_keyword "കീവേര്‍ഡ്">
+<!ENTITY bookmark_select_folder "ഫോൾഡർ തിരഞ്ഞെടുക്കുക">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -502,6 +532,7 @@
 <!ENTITY button_clear "വൃത്തിയാക്കുക">
 <!ENTITY button_copy "പകര്‍ത്തുക">
 
+<!ENTITY home_top_sites_title "പ്രധാന സൈറ്റുകൾ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "ഒരു സൈറ്റ് ചേര്‍ക്കുാം">
@@ -517,8 +548,12 @@
 <!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കുക">
 <!ENTITY home_clear_history_confirm "നാള്‍വഴി മായ്ക്കട്ടെ?">
 <!ENTITY home_bookmarks_empty "നിങ്ങൾ സൂക്ഷിച്ച അടയാളക്കുറിപ്പുകള്‍ ഇവിടെ കാണിക്കുക">
+<!ENTITY home_closed_tabs_title2 "സമീപകാലത്ത് അടച്ചവ">
 <!ENTITY home_last_tabs_empty "നിങ്ങളുടെ ഒടുവിലത്തെ ടാബുകള്‍ ഇവിടെ കാണിക്കുക.">
+<!ENTITY home_restore_all "എല്ലാം പുനഃസ്ഥാപിക്കുക">
+<!ENTITY home_closed_tabs_number "&formatD; ടാബുകൾ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ടാബ്">
 <!ENTITY home_most_recent_empty "അടുത്തിടെ സന്ദര്‍ശിച്ച വെബ്സ്റ്റൈറ്റുകള്‍ ഇവിടെ കാണാം.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -546,6 +581,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "പിൻ ചെയ്ത സൈറ്റ്">
+<!ENTITY home_unpinned_site "അൺപിൻ ചെയ്ത സൈറ്റ്">
 
 <!ENTITY remote_tabs_panel_moved_title "എന്റെ ടാബുകള്‍ എവിടെപ്പോയി?">
 <!ENTITY remote_tabs_panel_moved_desc "പുതിയ ടാബ് തുറക്കുമ്പോള്‍ ലഭ്യമാവുന്ന തരത്തില്‍ നിങ്ങളുടെ മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഞങ്ങള്‍ ആസ്ഥാന താളില്‍ ഒരു പാനല്‍ വഴി സജ്ജമാക്കിയിരിക്കുന്നു.">
@@ -626,6 +663,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ഡൗൺലോഡ് ചെയ്തു കഴിഞ്ഞാൽ നവീകരണങ്ങൾ പ്രയോഗിക്കാൻ തൊടുക">
 <!ENTITY updater_downloading_retry2 "വീണ്ടു ശ്രമിക്കാൻ തൊടുക">
 
+<!ENTITY updater_apply_select3 "ഇൻസ്റ്റാൾ ചെയ്യുന്നതിനായി ടാപ് ചെയ്യൂ">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -693,6 +731,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+<!ENTITY devtools_auth_scan_header "നിങ്ങളുടെ മറ്റ് ഉപകരണത്തിൽ പ്രദർശിപ്പിച്ചിരിക്കുന്ന ക്യൂആർ കോഡ് സ്കാൻ ചെയ്യുന്നു">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
