@@ -70,6 +70,7 @@
 <!ENTITY bookmark_removed "A ta´a ini noo´o nkuvi náxitá-ma">
 <!ENTITY bookmark_updated "A ta´a ini noo´o nkuvi saa actualizar">
 <!ENTITY bookmark_options "Kaji">
+<!ENTITY bookmark_save "Chuva´a">
 <!ENTITY screenshot_added_to_bookmarks "An tɨɨn nchisónu nuu daa a ta´a ini noo´o">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
