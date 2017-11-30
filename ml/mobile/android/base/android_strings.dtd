@@ -812,7 +812,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "ചരിത്രത്തിൽ നിന്ന് ഇല്ലാതാക്കുക">
 
 <!ENTITY private_tab_panel_title "സ്വകാര്യ ബ്രൌസിംഗ് + ട്രാക്കിംഗ് സംരക്ഷണം">
-<!ENTITY private_tab_panel_description "നിങ്ങളുടെ ബ്രൗസിംഗ് പ്രവർത്തനം ട്രാക്കുചെയ്യുന്ന പേജിന്റെ ഭാഗങ്ങൾ & brandShortName; തടയുന്നു.">
+<!ENTITY private_tab_panel_description "നിങ്ങളുടെ ബ്രൗസിംഗ് പ്രവർത്തനം ട്രാക്കുചെയ്യുന്ന പേജിന്റെ ഭാഗങ്ങൾ &brandShortName; തടയുന്നു.">
 <!ENTITY private_tab_panel_description2 "ഞങ്ങൾ യാതൊരു ചരിത്രവും ഓർത്തുവെയ്ക്കുന്നില്ല, പക്ഷേ ഡൌൺലോഡ് ചെയ്ത ഫയലുകളും പുതിയ ബുക്ക്മാർക്കുകളും നിങ്ങളുടെ ഉപകരണത്തിൽ സംരക്ഷിക്കപ്പെടും.">
 <!ENTITY private_tab_learn_more "കൂടുതൽ അറിയണോ?">
 
