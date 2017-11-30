@@ -67,7 +67,7 @@
 <!ENTITY aboutSupport.jsIncrementalGC "GC incrementale">
 <!ENTITY aboutSupport.a11yTitle "Accessibilità">
 <!ENTITY aboutSupport.a11yActivated "Attivato">
-<!ENTITY aboutSupport.a11yForceDisabled "Impedisci accessibilità">
+<!ENTITY aboutSupport.a11yForceDisabled "Blocca servizi accessibilità">
 <!ENTITY aboutSupport.a11yHandlerUsed "Handler accessibilità utilizzato">
 <!ENTITY aboutSupport.a11yInstantiator "Istanziatore accessibilità">
 <!ENTITY aboutSupport.libraryVersionsTitle "Versioni librerie">
