@@ -81,6 +81,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; pestañas">
 <!ENTITY bookmark_folder_one_item "1 item">
+<!ENTITY bookmark_add_folder "Tee a jíía carpeta">
 
 <!ENTITY reader_saved_offline "Chuva´a en linea">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -256,7 +257,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Xinuu jíká fuentes saa kuvi túvi iin página">
 
 <!ENTITY pref_tracking_protection_title2 "A kumi nkutada-ja">
-<!ENTITY pref_tracking_protection_summary3 "Kutúvi nuu Navegación Privada">
 <!ENTITY pref_donottrack_title "Nku kuntada">
 <!ENTITY pref_donottrack_summary "&brandShortName; kachi nuu da sitio ntu kuninu a kuntada-ja noo´o">
 
@@ -274,7 +274,7 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Sá´á vii daa pestañas">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
@@ -467,7 +467,13 @@
 <!ENTITY contextmenu_top_sites_edit "Natee">
 <!ENTITY contextmenu_top_sites_pin "Fijar sitio">
 <!ENTITY contextmenu_top_sites_unpin "Sia sitio">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "Chisó iin ka̱a̱ nanuku">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -497,6 +503,7 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Nxita página">
+
 
 <!ENTITY bookmark_edit_title "Natee a ta´a ini noo´o">
 <!ENTITY bookmark_edit_name "Sivɨ">
@@ -768,6 +775,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Chisó ya´a nuu kajie´e xinañu´un">
 
+
 <!ENTITY helper_first_offline_bookmark_title "Ka´vi offline">
 <!ENTITY helper_first_offline_bookmark_message "Nani´i tee ka´vi kune´yá a ta´a ini noo´o, naa kuvi dee ntu yɨ´ɨnu nuu internet.">
 <!ENTITY helper_first_offline_bookmark_button "Nkon´on nuu a ta´a ini noo´o">
@@ -780,6 +788,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "Reflejos">
 
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
@@ -790,5 +800,12 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Xita">
 
 
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
