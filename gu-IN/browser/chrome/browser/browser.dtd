@@ -833,15 +833,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
-<!ENTITY syncBrand.shortName.label    "સીંક">
+<!ENTITY syncBrand.shortName.label    "સમન્વય">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; માં પ્રવેશો…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "હવે સીંક કરો">
+<!ENTITY syncSyncNowItem.label        "હમણાં સમન્વયિત કરો">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; માં પુન:જોડાવો…">
 <!ENTITY syncReAuthItem.accesskey     "R">
-<!ENTITY syncToolbarButton.label      "સીંક">
+<!ENTITY syncToolbarButton.label      "સમન્વય">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "તમારી મનપસંદ વસ્તુઓ ટૂલબાર અથવા ઓવરફ્લો મેનૂમાં ખેંચો.">
 <!ENTITY customizeMode.menuAndToolbars.empty "વધારે સાધનો ઇચ્છો છો?">
