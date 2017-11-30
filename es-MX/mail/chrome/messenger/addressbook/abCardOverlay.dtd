@@ -26,7 +26,20 @@
 <!ENTITY NameField1.label               "Nombre:">
 <!ENTITY NameField1.accesskey           "F">
 <!ENTITY NameField2.label               "Apellido:">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "Fonética:">
+<!ENTITY PhoneticField2.label           "Fonética:">
+<!ENTITY DisplayName.label              "Mostrar:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY preferDisplayName.label        "Preferir siempre el nombre mostrado en lugar del encabezado del mensaje">
+<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY NickName.label                 "Apodo:">
+<!ENTITY NickName.accesskey             "N">
 
+<!ENTITY PrimaryEmail.label             "Correo electrónico:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "Correo electrónico adicional:">
+<!ENTITY SecondEmail.accesskey          "i">
 
 
 
