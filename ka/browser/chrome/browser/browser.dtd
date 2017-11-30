@@ -914,7 +914,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "დაშვება ახლა">
 <!ENTITY pluginActivateAlways.label "დაშვება და დამახსოვრება">
-<!ENTITY pluginBlockNow.label "შეჩერება">
+<!ENTITY pluginBlockNow.label "მოდულის შეზღუდვა">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
