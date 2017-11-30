@@ -5,6 +5,8 @@
 <!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; തിരഞ്ഞെടുത്തതിന് നന്ദി">
 <!ENTITY firstrun_panel_title_privacy "സ്വകാര്യത">
+<!ENTITY firstrun_panel_title_customize "ഇഷ്ടാനുസൃതമാക്കുക">
+<!ENTITY firstrun_customize_message "&brandShortName; നിങ്ങളുടേതാക്കി മാറ്റുക.">
 <!ENTITY firstrun_bookmarks_title "നാള്‍വഴി">
 <!ENTITY firstrun_bookmarks_subtext "നിങ്ങള്‍ തിരയുമ്പോള്‍ അടയാളക്കുറിപ്പുകളില്‍ നിന്നും നാള്‍വഴിയില്‍ നിന്നും ഫലങ്ങള്‍ ലഭ്യമാക്കൂ.">
 <!ENTITY firstrun_data_title "ഡേറ്റാ">
@@ -19,6 +21,7 @@
 
 <!ENTITY firstrun_tabqueue_title "കണ്ണികള്‍">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "ടാബ് ക്യൂ ഓണാക്കുക">
 
 <!ENTITY firstrun_tabqueue_message_on "വിജയിച്ചു!">
 
@@ -162,6 +165,7 @@
 <!ENTITY overlay_no_synced_devices "ഫയര്‍ഫോക്സ് അക്കൗണ്ടുമായി ബന്ധിപ്പിച്ചിട്ടുള്ള ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല">
 
 <!ENTITY pref_category_search3 "തെരയുക">
+<!ENTITY pref_category_accessibility "ആക്സസ്സെബിലിറ്റി">
 <!ENTITY pref_category_privacy_short "സ്വകാര്യത">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName;-നെ സംബന്ധിച്ച്, സ്ഥിരം ചോദ്യങ്ങള്‍, പ്രതികരണം">
@@ -236,6 +240,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "ഡാറ്റ ലാഭിക്കുക">
 <!ENTITY pref_category_media "മീഡിയ">
 <!ENTITY pref_category_developer_tools "ഡെവലപ്പര്‍ ഉപകരണങ്ങള്‍">
 
@@ -321,10 +326,12 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "സിസ്റ്റത്തിന്റെ ഫോണ്ട് വലിപ്പം ഉപയോഗിക്കുക">
+<!ENTITY pref_use_system_font_size_summary "സിസ്റ്റത്തിലെ ഫോണ്ടിന്റെ വലുപ്പത്തിനനുസരിച്ച് വെബ് ഉള്ളടക്കം ക്രമീകരിക്കുക">
 
 <!ENTITY pref_media_autoplay_enabled "ഓട്ടോപ്ലേ അനുവദിക്കുക">
 <!ENTITY pref_media_autoplay_enabled_summary "വെബ്സൈറ്റുകള്‍ ചലച്ചിത്രങ്ങളോ മറ്റു മീഡിയാ ഉള്ളടക്കങ്ങളോ തനിയെ പ്രവര്‍ത്തിപ്പിക്കുന്നുണ്ടെങ്കില്‍ നിയന്ത്രിക്കുക">
 <!ENTITY pref_zoom_force_enabled "ഇപ്പോഴും സൂം പ്രവര്‍ത്തനസജ്ജമാക്കുക">
+<!ENTITY pref_voice_input "ശബ്ദ ഇന്‍പുട്ട്">
 <!ENTITY pref_qrcode_enabled "ക്യുആര്‍ കോഡ് റീഡര്‍">
 <!ENTITY pref_qrcode_enabled_summary2 "യുആര്‍എല്‍ ബാറില്‍ ക്യുആര്‍ സ്കാന്നര്‍ അനുവദിക്കൂ">
 
@@ -484,6 +491,7 @@
 <!ENTITY doorhanger_login_select_message "&formatS; ല്‍ നിന്ന്‍ രഹസ്യവാക്ക് പകര്‍ത്തണോ?">
 <!ENTITY doorhanger_login_select_toast_copy "ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് രഹസ്യവാക്ക് പകര്‍ത്തി">
 <!ENTITY doorhanger_login_select_action_text "മറ്റൊരു പ്രവേശനം തിരഞ്ഞെടുക്കുക">
+<!ENTITY doorhanger_login_select_title "ഇതില്‍നിന്ന് രഹസ്യവാക്ക് പകര്‍ത്തുക">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -504,6 +512,7 @@
 <!ENTITY folder_removed "ഫോൾഡർ നീക്കം ചെയ്തു">
 
 <!ENTITY bookmark_edit_title "ഓർമ്മക്കുറിപ്പ് പുനക്രമീകരിക്കുക">
+<!ENTITY bookmark_edit_folder_title "ഫോള്‍ഡര്‍ തിരുത്തുക">
 <!ENTITY bookmark_edit_name "പേരു്">
 <!ENTITY bookmark_edit_location "സ്ഥലം">
 <!ENTITY bookmark_edit_keyword "കീവേര്‍ഡ്">
@@ -529,6 +538,7 @@
 <!ENTITY button_yes "അതെ">
 <!ENTITY button_no "ഇല്ല">
 <!ENTITY button_clear_data "ഡേറ്റാ മായ്ക്കുക">
+<!ENTITY button_set "ഉറപ്പിക്കുക">
 <!ENTITY button_clear "വൃത്തിയാക്കുക">
 <!ENTITY button_copy "പകര്‍ത്തുക">
 
@@ -777,25 +787,43 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "ഓഫ്‍ലൈനായി ലഭ്യമാണ്">
 <!ENTITY helper_triple_readerview_open_button "അടയാളം  ചേര്‍ക്കൂ">
 
+<!ENTITY activity_stream_topsites "പ്രധാന സൈറ്റുകൾ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; ശുപാർശ ചെയ്തത്">
+<!ENTITY activity_stream_highlights "ഹൈലൈറ്റുകൾ">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "കൂടുതൽ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "ബുക്ക്മാർക്ക് ചെയ്തവ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "സന്ദർശിച്ചവ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ബ്രൗസിംഗ് ആരംഭിക്കൂ, നിങ്ങൾ അടുത്തിടെ സന്ദർശിച്ചതും ബുക്ക്മാർക്ക് ചെയ്തതുമായ മികച്ച ലേഖനങ്ങൾ, വീഡിയോകൾ, മറ്റ് പേജ് എന്നിവ ഞങ്ങൾ നിങ്ങൾക്കായി കാണിക്കും.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "നീക്കം ചെയ്യുക">
+<!ENTITY activity_stream_delete_history "ചരിത്രത്തിൽ നിന്ന് ഇല്ലാതാക്കുക">
 
+<!ENTITY private_tab_panel_title "സ്വകാര്യ ബ്രൌസിംഗ് + ട്രാക്കിംഗ് സംരക്ഷണം">
+<!ENTITY private_tab_panel_description "നിങ്ങളുടെ ബ്രൗസിംഗ് പ്രവർത്തനം ട്രാക്കുചെയ്യുന്ന പേജിന്റെ ഭാഗങ്ങൾ & brandShortName; തടയുന്നു.">
+<!ENTITY private_tab_panel_description2 "ഞങ്ങൾ യാതൊരു ചരിത്രവും ഓർത്തുവെയ്ക്കുന്നില്ല, പക്ഷേ ഡൌൺലോഡ് ചെയ്ത ഫയലുകളും പുതിയ ബുക്ക്മാർക്കുകളും നിങ്ങളുടെ ഉപകരണത്തിൽ സംരക്ഷിക്കപ്പെടും.">
+<!ENTITY private_tab_learn_more "കൂടുതൽ അറിയണോ?">
 
+<!ENTITY fullscreen_warning "സ്ക്രീന്‍ പൂര്‍ണ്ണവലിപ്പത്തിലാക്കുക">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ ഹോം സ്ക്രീനിലേക്ക് ചേർക്കുക">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "ഹോം സ്ക്രീനിലേക്ക് ചേർക്കുക">
+<!ENTITY pwa_continue_to_website "വെബ്സൈറ്റിലേക്ക് തുടരുക">
+<!ENTITY pwa_onboarding_sumo "നിങ്ങൾക്ക് തൽക്ഷണ ആക്സസ്സിനായി ഈ വെബ്സൈറ്റ് നിങ്ങളുടെ ഹോം സ്ക്രീനിലേക്ക് എളുപ്പത്തിൽ ചേർക്കാം. കൂടാതെ അപ്ലിക്കേഷൻ-പോലുള്ള അനുഭവത്തിലൂടെ വേഗത്തിൽ ബ്രൗസുചെയ്യുക.">
