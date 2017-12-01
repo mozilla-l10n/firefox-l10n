@@ -20,18 +20,23 @@
 
 <!ENTITY dnsNotFound.pageTitle "Netþjónn fannst ekki">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Við eigum í erfiðleikum með að finna þetta vefsvæði.">
+<!ENTITY dnsNotFound.title1 "Við eigum í einhverjum erfiðleikum með að finna þetta vefsvæði.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Ef slóðin er rétt, þá er þrennt sem þú getur reynt að gera:</strong>
 <ul>
   <li>Reynt aftur seinna.</li>
   <li>Athuga tenginguna við netið.</li>
-  <li>Ef þú ert tengdur en á bakvið eldvegg, geturð athugaðu hvort &brandShortName; hafi leyfi til að tengjast við netið.</li>
+  <li>Ef þú ert tengdur en á bakvið eldvegg, geturðu athugaðu hvort &brandShortName; hafi leyfi til að tengjast við netið.</li>
 </ul>
 ">
 
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Athugaðu hvort þú hefur slegið inn skráarnafnið með hástafaritun eða aðra innsláttarvillu.</li> <li>Athugaðu hvort skráin hefur verið færð, endurnefnt eða eytt.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Athugaðu hvort þú hefur slegið inn skráarnafnið með hástafaritun eða aðra innsláttarvillu.</li>
+  <li>Athugaðu hvort skráin hefur verið færð, endurnefnd eða eytt.</li>
+</ul>
+">
 
 <!ENTITY fileAccessDenied.title "Aðgangur að skránni ekki leyfður">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Vera má að skráin hafi verið fjarlægð, færð til eða réttindi leyfi ekki aðgengi.</li> </ul>">
