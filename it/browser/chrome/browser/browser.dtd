@@ -286,6 +286,7 @@
 <!ENTITY appMenuRemoteTabs.signin.label "Accedi a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestione dispositivi…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Visualizza barra laterale Schede sincronizzate">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Connetti un altro dispositivo">
 <!ENTITY appMenuRecentHighlights.label "Elementi recenti in evidenza">
 <!ENTITY customizeMenu.addToToolbar.label "Aggiungi alla barra degli strumenti">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -577,6 +578,7 @@
 <!ENTITY syncedTabs.sidebar.openprefs.label "Apri le impostazioni di &syncBrand.shortName.label;">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Attiva la sincronizzazione delle schede per visualizzare le schede disponibili negli altri dispositivi.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder "Cerca nelle schede sincronizzate">
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice "Connetti un altro dispositivo">
 <!ENTITY syncedTabs.context.open.label "Apri">
 <!ENTITY syncedTabs.context.open.accesskey "A">
 <!ENTITY syncedTabs.context.openInNewTab.label "Apri in una nuova scheda">
