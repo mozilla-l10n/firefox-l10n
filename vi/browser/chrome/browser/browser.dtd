@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mở bảng thông báo">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Mở bảng yêu cầu vị trí">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Mở bảng thông báo cài đặt tiện ích">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Quản lý quyền khai thác canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Mở bảng thông báo lưu trữ ngoại tuyến">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Mở bảng thông báo lưu mật khẩu">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Quản lý sử dụng phần bổ trợ">
@@ -228,6 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Bạn đã chặn lưu trữ dữ liệu ở trang này.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bạn đã chặn thông báo ở trang này.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bạn đã chặn lưu dữ liệu lâu dài ở trang này.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Bạn đã chặn popup ở trang web này.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Xem lịch sử">
 
