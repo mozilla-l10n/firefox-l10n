@@ -75,7 +75,7 @@
 <!ENTITY  historyHeader.custom.label       "uzos personajn agordojn por la historio">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; memoros la historion de via retumado, elŝuto, serĉadoj kaj formularoj, kaj ĝi konservos kuketojn de retejoj kiujn vi vizitas.">
+<!ENTITY  rememberDescription.label      "&brandShortName; memoros la historion de via retumo, elŝutoj, serĉoj kaj formularoj, kaj ĝi konservos kuketojn de retejoj kiujn vi vizitas.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -97,7 +97,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "Ĉiam uzi la reĝimon de privata retumado">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "Memori mian historion de retumado kaj elŝuto">
+<!ENTITY  rememberHistory2.label      "Memori mian historion de retumo kaj elŝutoj">
 <!ENTITY  rememberHistory2.accesskey  "h">
 
 <!ENTITY  rememberSearchForm.label       "Memori historion de serĉadoj kaj formularoj">
