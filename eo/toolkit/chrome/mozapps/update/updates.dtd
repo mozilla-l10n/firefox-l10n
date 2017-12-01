@@ -26,7 +26,7 @@
 <!ENTITY  evangelism.desc                 "Estas treege rekomendata apliki tiun ĉi ĝisdatigon de &brandShortName; kiel eble plej frue.">
 
 <!ENTITY  downloadPage.title              "&brandShortName; elŝutata">
-<!ENTITY  downloading.intro               "Elŝutado de ĝisdatigo…">
+<!ENTITY  downloading.intro               "Elŝuto de ĝisdatigo…">
 <!ENTITY  connecting.label                "Konektado al la ĝisdatiga servilo…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ne povis kontroli la sanon de la 
 poioma ĝisdatigo kiun ĝi elŝutis kaj 
@@ -43,7 +43,7 @@ do ĝi elŝutas nun la tutan ĝisdatigan pakon.">
 <!ENTITY  errorManual.label               "Vi povas ĝisdatigi &brandShortName; mem. Vizitu tiun ĉi ligilon kaj elŝutu la lastan version:">
                                            
 <!ENTITY  errorpatching.intro             "La parta ĝisdatigo ne povis esti aplikita. 
-&brandShortName; klopodos denove per elŝutado de kompleta ĝisdatigo.">
+&brandShortName; klopodos denove per elŝuto de kompleta ĝisdatigo.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ne povas eltrovi ĉu ekistas havebla ĝisdatigo. Bonvolu konfirmi ĉu vi havas la lastan version de &brandShortName; en:">
 
