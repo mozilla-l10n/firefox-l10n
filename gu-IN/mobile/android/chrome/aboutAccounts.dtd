@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.connected.title "Firefox ખાતુ">
+<!ENTITY aboutAccounts.connected.title "Firefox એકાઉન્ટ">
 <!ENTITY aboutAccounts.connected.description "તમે જોડાયેલ છે">
 <!ENTITY aboutAccounts.syncPreferences.label "સમન્વયન સેટિંગ્સ તપાસવા માટે અહીં ટેપ કરો">
 
