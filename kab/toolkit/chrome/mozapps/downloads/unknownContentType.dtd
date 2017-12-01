@@ -16,11 +16,11 @@
 <!ENTITY  rememberChoice.label        "Egg aya yal tikelt s wudem awurman i yifuyla meṛṛa.">
 <!ENTITY  rememberChoice.accesskey    "E">
 
-<!ENTITY  whichIs.label              "d-afaylu n tewsit:">
+<!ENTITY  whichIs.label              "d afaylu n tewsit:">
 
 <!ENTITY  chooseHandlerMac.label      "Fren…">
 <!ENTITY  chooseHandlerMac.accesskey  "F">
 <!ENTITY  chooseHandler.label         "Ḍum…">
 <!ENTITY  chooseHandler.accesskey     "Ḍ">
 
-<!ENTITY  unknownPromptText.label     "Tebɣiḍ ad sekkelsed afaylu-yagi?">
+<!ENTITY  unknownPromptText.label     "Tevɣiḍ ad teskelsed afaylu-yagi?">

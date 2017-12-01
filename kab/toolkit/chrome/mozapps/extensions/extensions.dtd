@@ -23,17 +23,18 @@
 <!ENTITY getThemes.description                "Nadi akken ad tsagneḍ iminig-inek?">
 <!ENTITY getThemes.learnMore                  "Fren seg agimen n isental">
 
-<!ENTITY cmd.back.tooltip                     "Uγal s yiwen n usebter">
+<!ENTITY cmd.back.tooltip                     "Uɣal s yiwen n usebter">
 <!ENTITY cmd.forward.tooltip                  "Aẓ s yiwen usebter">
 
-<!ENTITY showUnsignedExtensions.button.label  "Kra n iseɣzaf ur ţwasenqed ara">
+
+<!ENTITY showUnsignedExtensions.button.label  "Kra n iseɣzaf ur ţwasenqeden ara">
 <!ENTITY showAllExtensions.button.label       "Sken akk iseɣzaf">
 <!ENTITY debugAddons.label                    "Izegrar n tseɣtit">
 <!ENTITY debugAddons.accesskey                "I">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Armad n izegrar yekkes-it uskar aɣalsan.">
-<!ENTITY warning.checkcompatibility.label          "Asenqedn umṣada n izegrar ur yermid ara. Yezmer ad tesɛuḍ izegrar ur yemṣadan ara.">
+<!ENTITY warning.checkcompatibility.label          "Asenqed n umṣada n izegrar ur yermid ara. Yezmer ad tesɛuḍ izegrar ur yemṣadan ara.">
 <!ENTITY warning.checkcompatibility.enable.label   "Rmed">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Rmed asenqed n tisiḍent">
 <!ENTITY warning.updatesecurity.label              "Asenqed n ileqman n tɣellist n izegrar ur yermid ara. Yezmer ad tesɛuḍ yir izegrar.">
@@ -123,8 +124,8 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "D acu i d-izegrar?">
-<!ENTITY discover.description2                "Izegrar d isnasen a k-yeǧǧen ad tsagneḍ &brandShortName; s  tmahilin neɣ iɣunab isemmadanen. Faṛes tagnitt s ugalis adisan, qaṛeɛ tagnawt neɣ snifel arwes n &brandShortName; akken tebɣiḍ. ">
+<!ENTITY discover.title                       "D acu i d izegrar?">
+<!ENTITY discover.description2                "Izegrar d isnasen ara k-yeǧǧen ad tsagneḍ &brandShortName; s  tmahilin neɣ iɣunab isemmadanen. Faṛes tagnitt s ugalis adisan, qaṛeɛ tagnawt neɣ snifel arwes n &brandShortName; akken tebɣiḍ. ">
 <!ENTITY discover.footer                      "Ticki tuqqna-inek ɣer Internet termed, agalis-a ad k-d-isken kra n izegrar ifazen d wid yettwassnen aṭas.">
 
 <!-- detail view -->
@@ -134,7 +135,7 @@
 <!ENTITY detail.homepage.label                "Asebter agejdan">
 <!ENTITY detail.numberOfDownloads.label       "Isidar">
 
-<!ENTITY detail.contributions.description     "Aneflay n uzegrir-agi isutur-ak-d tallalt akken ad iseddu taneflit ines ticki tmuddeḍ-as cwiṭ n tewsa.">
+<!ENTITY detail.contributions.description     "Aneflay n uzegrir-agi isutur-ak-d tallalt akken ad iseddu taneflit-ines ticki tmuddeḍ-as cwiṭ n tewsa.">
 
 <!ENTITY detail.updateType                    "Aleqqem awurman">
 <!ENTITY detail.updateDefault.label           "Awennez amezwaru">
@@ -184,7 +185,7 @@
 
 <!ENTITY addon.homepage                       "Asebter agejdan">
 <!ENTITY addon.details.label                  "Ugar">
-<!ENTITY addon.details.tooltip                "Sken aglam leqqayen ɣef uzegrir-agi">
+<!ENTITY addon.details.tooltip                "Sken aglam lqayen ɣef uzegrir-agi">
 <!ENTITY addon.unknownDate                    "Arussin">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
@@ -213,23 +214,23 @@
 <!ENTITY addon.checkingForUpdates.label       "Asenqed n ileqman…">
 <!ENTITY addon.releaseNotes.label             "Iwenniten n lqem:">
 <!ENTITY addon.loadingReleaseNotes.label      "Asali…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Suref-aɣ, teḍṛa-sd tuccḍa deg usali n iwenniten n lqem.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Suref-aɣ, teḍṛa-d tuccḍa deg usali n iwenniten n lqem.">
 
 <!ENTITY addon.createdBy.label                "Sɣuṛ ">
 
 <!ENTITY eula.title                           "Awati n turagt n usedac anegwray">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Qbel u sebded…">
+<!ENTITY eula.accept                          "Qvel u sebded…">
 
-<!ENTITY settings.path.button.label           "ɛiwed nadi ...">
+<!ENTITY settings.path.button.label           "Ɛiwed nadi ...">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "D-acu-t wa?Tilisɣelt tezmer ad tessebded, daɣen ad tessenker tirmitin si sya ɣeṛ da.">
+<!ENTITY experiment.info.label "D acu-t wa? Tilisɣelt tezmer ad tessebded, daɣen ad tessenker tirmitin si sya ɣeṛ da.">
 <!ENTITY experiment.info.learnmore "Issin ugar">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Iɣewwaṛen n tilisɣel">
@@ -255,7 +256,6 @@
 <!ENTITY pluginDeprecation.description "Tettut kra? Kra nizegrar ur ttwasefranken ara tura di &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Issin ugar">
 
-<!ENTITY legacyWarning.description "Tettut kra? Kra n izegrar ur ttwasefraken ara tura di &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Sken akk iseɣzaf iqburen">
 <!ENTITY legacyExtensions.title "Iseγzaf iqburen">
 <!ENTITY legacyExtensions.description "Iseγzaf-agi ur sεin ara ilugan n &brandShortName; imiranen γef aya ittwasensen.">
