@@ -8,13 +8,13 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Malsukcesa konektado">
-<!ENTITY connectionFailure.longDesc "<p>Malgraŭ tio ke la retejo aspektas valida la retlegilo ne sukcesis konektiĝi al ĝi.</p><ul><li>Ĉu eble la retejo estas tempe ne aktiva? Klopodu denove poste.</li><li>Ĉu ankaŭ aliajn retejojn vi ne sukcesas vidi?  Kontrolu la retan konekton de la komputilo.</li><li>Ĉu vi komputilo aŭ reto estas protektata de retbarilo aŭ retperanto? Malĝustaj agordoj povus malhelpi la retumadon.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Malgraŭ tio ke la retejo aspektas valida la retlegilo ne sukcesis konektiĝi al ĝi.</p><ul><li>Ĉu eble la retejo estas tempe ne aktiva? Klopodu denove poste.</li><li>Ĉu ankaŭ aliajn retejojn vi ne sukcesas vidi?  Kontrolu la retan konekton de la komputilo.</li><li>Ĉu vi komputilo aŭ reto estas protektata de retbarilo aŭ retperanto? Malĝustaj agordoj povus malhelpi la retumon.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Aliro al pordo limigita pro sekurecaj kialoj">
-<!ENTITY deniedPortAccess.longDesc "<p>La petita retadreso enhavas pordon (e.g. <q>mozilla.org:80</q> por pordo 80 en mozilla.org) kiu normale ne estas uzata por retumado sed por <em>aliaj</em> celoj. La retlegilo, celante vian sekurecon kaj protekton, nuligis vian peton.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>La petita retadreso enhavas pordon (e.g. <q>mozilla.org:80</q> por pordo 80 en mozilla.org) kiu normale ne estas uzata por retumo sed por <em>aliaj</em> celoj. La retlegilo, celante vian sekurecon kaj protekton, nuligis vian peton.</p>">
 
 <!ENTITY dnsNotFound.title "Adreso ne trovita">
-<!ENTITY dnsNotFound.longDesc "<p>La retlegilo ne povis trovi la servilon asociata al la adreso indikita.</p><ul><li>Ĉu vi mistajpis la adreson? (ekz. <q><strong>ww</strong>.mozilla.org</q> Anstataŭ <q><strong>www</strong>.mozilla.org</q>)</li><li>Ĉu vi certas ke tiu adreso ekzistas?  Eble ĝi senvalidiĝis.</li><li>Ĉu ankaŭ aliajn retejojn vi ne povas esplori?  Kontrolu vian retan konekton kaj la agordojn de la servilo DNS.</li><li>Ĉu via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto?  Malĝustaj agordoj povas malhelpi retumadon.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>La retlegilo ne povis trovi la servilon asociata al la adreso indikita.</p><ul><li>Ĉu vi mistajpis la adreson? (ekz. <q><strong>ww</strong>.mozilla.org</q> Anstataŭ <q><strong>www</strong>.mozilla.org</q>)</li><li>Ĉu vi certas ke tiu adreso ekzistas?  Eble ĝi senvalidiĝis.</li><li>Ĉu ankaŭ aliajn retejojn vi ne povas esplori?  Kontrolu vian retan konekton kaj la agordojn de la servilo DNS.</li><li>Ĉu via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto?  Malĝustaj agordoj povas malhelpi retumon.</li></ul>">
 
 <!ENTITY fileNotFound.title "Dosiero ne trovita">
 <!ENTITY fileNotFound.longDesc "<ul><li>Ĉu eble la elemento estis renomita, forigita aŭ translokigita?</li><li>Ĉu estas literumada, mismetitaj majuskloj aŭ minuskloj aŭ alia tajpada eraro en la adreso?</li><li>Ĉu vi havas sufiĉajn rajtojn por la petita elemento?</li></ul>">
@@ -49,7 +49,7 @@
 <!ENTITY netReset.longDesc "<p>La reta ligo estis haltigita dum la establado de la konekto. Bonvolu klopodi denove.</p>">
 
 <!ENTITY netTimeout.title "Reta limtempo atingita">
-<!ENTITY netTimeout.longDesc "<p>La petita retejo ne respondis la konektan peton kaj la retlegilo ĉesis atendi respondon.</p><ul><li>Ĉu eble la servilo estas tro okupata aŭ tempe malaktiva? Klopodu denove poste.</li><li>Ĉu ankaŭ aliajn retejojn vi ne povas esplori?  Kontrolu vian retan konekton.</li><li>Ĉu via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto? Malĝustaj agordoj povas malhelpi retumadon.</li><li>Ĉu ankoraŭ estas problemoj? Serĉu asistadon ĉe via reta administranto aŭ retprovizanto.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>La petita retejo ne respondis la konektan peton kaj la retlegilo ĉesis atendi respondon.</p><ul><li>Ĉu eble la servilo estas tro okupata aŭ tempe malaktiva? Klopodu denove poste.</li><li>Ĉu ankaŭ aliajn retejojn vi ne povas esplori?  Kontrolu vian retan konekton.</li><li>Ĉu via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto? Malĝustaj agordoj povas malhelpi retumon.</li><li>Ĉu ankoraŭ estas problemoj? Serĉu asistadon ĉe via reta administranto aŭ retprovizanto.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Nekonata protokolo">
 <!ENTITY unknownProtocolFound.longDesc "<p>La adreso specifas protokolon (ekzemple <q>wxyz://</q>) ne rekonata de la retumilo, kiu ne povas taŭge konektiĝi al la retejo.</p><ul><li>Ĉu vi klopodas aliri aŭdvidaĵon aŭ alian servon ne tekstan?  Kontrolu ĉe la retejo, kio estas postulata por aliri ĝin.</li><li>Kelkaj protokoloj povas postuli apartajn programojn aŭ kromprogramojn antaŭ la retlegilo povos ilin rekoni.</li></ul>">

@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privata retumado)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privata retumo)">
 
 <!ENTITY appmenu.tooltip                     "Malfermi menuon">
 <!ENTITY navbarOverflow.label                "Pli da iloj…">
@@ -892,8 +892,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.">
 
 <!ENTITY trackingProtection.title "Protekto kontraŭ spurado">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokas partojn de la paĝo kiuj povus spuri vian retumadon.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Tiu ĉi retejo enhavas elementojn kiuj povus spuri vian retumadon. Vi malaktivigis la protekton.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokas partojn de la paĝo kiuj povus spuri vian retumon.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Tiu ĉi retejo enhavas elementojn kiuj povus spuri vian retumon. Vi malaktivigis la protekton.">
 <!ENTITY trackingProtection.notDetected3 "Neniu spura elemento en tiu ĉi paĝo.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
