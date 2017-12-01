@@ -38,7 +38,7 @@
 <!ENTITY pkcs12.setpassword.reminder "მნიშვნელოვანია: თუ სერთიფიკატის დუბლირების პაროლი დაგავიწყდათ, დუბლიკატის აღდგენას ვეღარ შეძლებთ.  გთხოვთ საიმედოდ შეინახოთ იგი.">
 
 <!ENTITY chooseToken.title  "სიტყვა-ნიშნის არჩევა">
-<!ENTITY chooseToken.message1 "გთხოვთ აირჩიოთ ტალონი">
+<!ENTITY chooseToken.message1 "გთხოვთ აირჩიოთ სიტყვა-ნიშანი.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "პირადი გასაღების შექმნა">
