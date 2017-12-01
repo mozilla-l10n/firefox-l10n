@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label   "סימניות מהנייד">
 <!ENTITY viewBookmarksSidebar2.label        "הצגת סרגל הצד">
 <!ENTITY hideBookmarksSidebar.label         "הסתרת סרגל הצד סימניות">
-<!ENTITY viewBookmarksToolbar.label         "הצגת סרגל הכלים">
+<!ENTITY viewBookmarksToolbar.label         "הצגת סרגל הכלים סימניות">
 <!ENTITY hideBookmarksToolbar.label         "הסתרת סרגל הכלים סימניות">
 <!ENTITY searchBookmarks.label              "חיפוש בסימניות">
 <!ENTITY bookmarkingTools.label             "כלי סימניות">
