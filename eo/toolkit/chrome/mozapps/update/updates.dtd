@@ -49,14 +49,14 @@ do ĝi elŝutas nun la tutan ĝisdatigan pakon.">
 
 <!ENTITY  finishedPage.title              "Preta instali ĝisdatigon">
 <!ENTITY  finishedPage.text               "La ĝisdatigo estos instalita kiam &brandShortName; startos denove. Vi 
-povas restartigi &brandShortName; nun aŭ daŭrigi vian retumadon kaj restartigi poste.">
+povas restartigi &brandShortName; nun aŭ daŭrigi vian retumon kaj restartigi poste.">
 
 <!ENTITY  finishedBackgroundPage.text     "Sekureca kaj stabileca ĝisdatigo por &brandShortName; estis 
 elŝutita kaj ĝi pretas esti instalita.">
 <!ENTITY  finishedBackground.name         "Ĝisdatigo:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "La ĝisdatigo estis instalita kiam &brandShortName; startos. Vi 
-povas restartigi &brandShortName; nun aŭ daŭrigi la retumadon kaj restartigi poste.">
+povas restartigi &brandShortName; nun aŭ daŭrigi la retumon kaj restartigi poste.">
 <!ENTITY  finishedBackground.moreElevated "Tiu ĉi ĝisdatigo postulas administrajn rajtojn. Kiam &brandShortName; startos denove, la ĝisdatigo esos instalita. Vi povas restartigi &brandShortName; nun, aŭ plu retumi kaj restartigi poste, aŭ rifuzi tiun ĉi ĝisdatigon.">
 
 <!ENTITY  update.details.label            "Detaloj">
