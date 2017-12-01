@@ -56,7 +56,7 @@
 <!ENTITY cmd.show.accesskey               "E">
 <!ENTITY cmd.showMac.label                "Montri en dosierserĉilo">
 <!ENTITY cmd.showMac.accesskey            "M">
-<!ENTITY cmd.showDownloads.label          "Montri dosierujon de elŝutoj">
+<!ENTITY cmd.showDownloads.label          "Montri dosierujon por elŝutoj">
 <!ENTITY cmd.retry.label                  "Klopodi denove">
 <!ENTITY cmd.goToDownloadPage.label       "Iri al la paĝo de elŝuto">
 <!ENTITY cmd.goToDownloadPage.accesskey   "I">
