@@ -91,7 +91,7 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "Nid oes modd diweddaru'r system hwn ymhellach. ">
+<!ENTITY update.unsupported.start    "Nid oes modd i chi ddiweddaru'r system hon ymhellach. ">
 <!ENTITY update.unsupported.linkText "Dysgu rhagor">
 <!ENTITY update.unsupported.end      "">
 
