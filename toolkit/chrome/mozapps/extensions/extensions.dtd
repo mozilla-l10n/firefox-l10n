@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Administranto de aldonaĵoj">
+<!ENTITY addons.windowTitle                   "Administrilo de aldonaĵoj">
 
 <!ENTITY search.placeholder                   "Serĉi ĉiujn aldonaĵojn">
 <!ENTITY search.buttonlabel                   "Serĉi">
@@ -25,6 +25,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Unu paĝo malantaŭen">
 <!ENTITY cmd.forward.tooltip                  "Unu paĝo antaŭen">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Montri etendaĵojn kiuj ne povis esti kontrolitaj">
 <!ENTITY showAllExtensions.button.label       "Montri ĉiujn etendaĵojn">
@@ -255,7 +256,6 @@
 <!ENTITY pluginDeprecation.description "Ĉu io mankas? Kelkaj kromprogramoj ne plu estas subtenataj de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Pli da informo.">
 
-<!ENTITY legacyWarning.description "Ĉu io mankas? Kelkaj etendaĵoj ne plu estas subtenataj de &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Montri kadukajn etendaĵojn">
 <!ENTITY legacyExtensions.title "Kadukaj etendaĵoj">
 <!ENTITY legacyExtensions.description "Tiuj ĉi etendaĵoj ne kongruas kun la nunaj normoj de &brandShortName;, tial ili estis malaktivigitaj.">
