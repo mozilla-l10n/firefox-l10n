@@ -80,7 +80,13 @@
 <!ENTITY Year.placeholder               "Año">
 <!ENTITY Or.value                       "o">
 <!ENTITY Age.placeholder                "Edad">
+<!ENTITY YearsOld.label                 "">
 
+<!ENTITY Work.tab                       "Trabajo">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "Título:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "Departamento:">
 
 
 
