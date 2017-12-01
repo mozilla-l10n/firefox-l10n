@@ -15,3 +15,6 @@
 <!ENTITY addonManagerLink.label               "Upravljajte dodacima">
 
 <!ENTITY appUpdates.caption                   "&brandShortName;">
+<!ENTITY autoAppUpdates.label                 "Automatski provjeri ažuriranja">
+<!ENTITY appModeAutomatic.label               "Automatski preuzmi i instaliraj ažuriranja">
+<!ENTITY updateHistoryButton.label            "Prikaži historiju ažuriranja…">

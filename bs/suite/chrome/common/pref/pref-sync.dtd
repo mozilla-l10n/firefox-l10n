@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Postavite &syncBrand.fullName.label;">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; vam dopušta pristup vašoj historiji, zabilješkama, lozinkama i otvorenim tabovima putem svih vaših uređaja.">
+
+<!-- The page shown when logged in... -->
+<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; račun">
+<!ENTITY accountName.label            "Naziv računa:">
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Ažuriraj">
+<!ENTITY resetPass.label              "Resetuj">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Upravljanje računom">
+
+<!-- Sync Settings -->
+
+
+<!-- Footer stuff -->
