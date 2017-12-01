@@ -7,5 +7,13 @@
 <!ENTITY  managepassword.text                    "&brandShortName; će pitati za vašu glavnu lozinku:">
 <!ENTITY  managepassword.askfirsttime            "Prvi put kad je to potrebno">
 <!ENTITY  managepassword.askeverytime            "Svaki put kad je to potrebno">
+<!ENTITY  managepassword.asktimeout              "Ako nije bilo korišteno ">
+<!ENTITY  managepassword.timeout.unit            "minuta ili duže">
 
+<!ENTITY  changepassword.caption                 "Promijeni glavnu lozinku">
+<!ENTITY  changepassword.text                    "Vaša glavna lozinka štiti osjetljive informacije kao što su web lozinke i certifikati.">
+<!ENTITY  changepassword.button                  "Promijeni lozinku…">
 
+<!ENTITY  resetpassword.caption                  "Resetuj glavnu lozinku">
+<!ENTITY  resetpassword.text                     "Ako resetujete glavu lozinku, sve vaše pohranjene web i e-mail lozinke, podaci obrazaca, lični certifikati i privatni ključevi će biti izgubljeni.">
+<!ENTITY  resetpassword.button                   "Resetuj lozinku">
