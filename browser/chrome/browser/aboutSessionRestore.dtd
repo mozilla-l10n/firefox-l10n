@@ -10,6 +10,8 @@
 <!ENTITY restorepage.problemDesc2   'Chúng tôi đang gặp sự cố khi khôi phục lại phiên duyệt web lần cuối của bạn. Chọn "Khôi phục phiên làm việc" để thử lại.'>
 <!ENTITY restorepage.tryThis2       "Vẫn không thể phục hồi phiên làm việc của bạn? Đôi khi một thẻ đang gây ra sự cố. Xem các thẻ trước đó, bỏ chọn các thẻ mà bạn không cần khôi phục, và sau đó khôi phục lại.">
 
+<!ENTITY restorepage.hideTabs       "Ẩn thẻ trước đó">
+<!ENTITY restorepage.showTabs       "Xem thẻ trước đó">
 
 <!ENTITY restorepage.tryagainButton2 "Khôi phục phiên làm việc">
 <!ENTITY restorepage.restore.access2 "R">
