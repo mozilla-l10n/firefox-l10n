@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addressbookWindow.title                        "Agenda de direcciones">
+<!ENTITY blankResultsPaneMessage.label                  "Esta agenda de direcciones muestra solo los contactos después de la búsqueda">
+<!ENTITY localResultsOnlyMessage.label                  "Contactos desde agendas remotas de direcciones no se muestran hasta que hagas una búsqueda">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Archivo">
+<!ENTITY fileMenu.accesskey                             "F">
+<!ENTITY newMenu.label                                  "Nuevo">
+<!ENTITY newMenu.accesskey                              "N">
+<!ENTITY newContact.label                               "Contacto de agenda de direcciones…">
+<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
+<!ENTITY newListCmd.label                               "Lista de correo…">
+<!ENTITY newListCmd.accesskey                           "L">
+<!ENTITY newAddressBookCmd.label                        "Agenda de direcciones…">
+<!ENTITY newAddressBookCmd.accesskey                    "B">
+<!ENTITY newLDAPDirectoryCmd.label                      "Directorio LDAP…">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+
+<!-- Edit Menu -->
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+
+<!-- View Menu -->
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+
+<!-- Tools Menu -->
+
+<!-- Address Book Toolbar and Context Menus -->
+
+<!-- Address Book Toolbar Tooltips -->
+
+<!-- Dir Tree header -->
+
+<!-- Search Bar -->
+
+<!-- Results Pane -->
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!-- Special Box Headings, for mailing lists -->
+<!-- For Map It! -->
+
+<!-- Status Bar -->
+
+<!--  Mac OS X Window Menu -->
