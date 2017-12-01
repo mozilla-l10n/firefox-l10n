@@ -20,7 +20,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "محركات البحث بنقرة واحدة">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "اختر محركات البحث البديلة التي تظهر تحت شريطي العناوين و البحث عندما تكتب كبمة بحث.">
+<!ENTITY chooseWhichOneToDisplay2.label         "اختر محركات البحث البديلة التي تظهر تحت شريطي العناوين و البحث عندما تكتب كلمة بحث.">
 
 <!ENTITY engineNameColumn.label                "محرك البحث">
 <!ENTITY engineKeywordColumn.label             "كلمة مفتاحية">
