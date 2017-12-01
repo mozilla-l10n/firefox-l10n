@@ -145,3 +145,12 @@
 <!ENTITY GenericPhoto.label             "Foto genérica">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Predeterminada">
+<!ENTITY PhotoFile.label                "En este equipo">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Navegar">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "En la Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Pega o escribe la dirección web de una foto">
+<!ENTITY UpdatePhoto.label              "Actualizar">
+<!ENTITY UpdatePhoto.accesskey          "u">
