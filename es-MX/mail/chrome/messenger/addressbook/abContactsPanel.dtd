@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY propertiesMenu.label               "Propiedades">
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Propiedades de la agenda de direcciones">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Propiedades del contacto">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Propiedades de la lista de correo">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
+
+<!ENTITY abContextMenuButton.tooltip        "Mostrar el menú de contexto de la agenda de direcciones">
+<!ENTITY addressbookPicker.label            "Agenda de direcciones:">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.label               "Buscar contactos:">
+<!ENTITY searchContacts.accesskey           "n">
+<!ENTITY SearchNameOrEmail.label            "Nombre o correo electrónico">
+
+<!ENTITY addtoToFieldMenu.label             "Agregar a Campo">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.label             "Agregar al campo Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Agregar al campo Bcc">
+
+
