@@ -859,6 +859,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Tải thêm các diện mạo">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
 <!ENTITY customizeMode.emptyOverflowList.description "Kéo và thả các mục dưới đây để giữ chúng trong tầm tay, nhưng ra khỏi thanh công cụ của bạn…">
+<!ENTITY customizeMode.overflowList.title2 "Bảng chọn">
+<!ENTITY customizeMode.overflowList.description "Kéo và thả các mục vào đây để dễ sử dụng chúng và nó sẽ nằm ngoài thanh công cụ của bạn…">
 <!ENTITY customizeMode.uidensity "Mật độ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->

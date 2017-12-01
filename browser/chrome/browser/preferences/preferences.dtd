@@ -13,12 +13,24 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
+<!ENTITY  searchField.width             "15.4em">
+
+<!ENTITY  paneSearchResults.title       "Kết quả tìm kiếm">
 <!ENTITY  paneGeneral.title             "Tổng quát">
-
-
+<!ENTITY  paneSearch.title              "Tìm kiếm">
+<!ENTITY  paneFilesApplications.title   "Tập tin &amp; Ứng dụng">
+<!ENTITY  panePrivacySecurity.title     "Riêng tư &amp; Bảo mật">
 <!ENTITY  paneContainers.title          "Thẻ ngăn chứa">
+<!ENTITY  paneUpdates.title             "Cập nhật">
+
+<!ENTITY  languageAndAppearance.label   "Ngôn ngữ và giao diện">
+<!ENTITY  filesAndApplications.label    "Tập tin và ứng dụng">
+<!ENTITY  browserPrivacy.label          "Duyệt web riêng tư">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Tài khoản Firefox">
 
-
-<!ENTITY  searchInput.label        "Tìm kiếm">
+<!ENTITY  helpButton2.label        "Hỗ trợ &brandShortName;">
