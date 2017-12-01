@@ -24,5 +24,26 @@
 <!ENTITY addtoCcFieldMenu.label             "Agregar al campo Cc">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Agregar al campo Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "Eliminar">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY propertiesContext.label            "Propiedades">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Propiedades">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Editar contacto">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "Editar lista">
+<!ENTITY editMailingListContext.accesskey   "E">
 
+<!ENTITY newContactAbContext.label          "Nuevo contacto">
+<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "Nueva lista">
+<!ENTITY newListAbContext.accesskey         "L">
 
+<!ENTITY toButton.label                     "Agregar a Para:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Agregar a Cc:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Agregar a Bcc:">
+<!ENTITY bccButton.accesskey                "B">
