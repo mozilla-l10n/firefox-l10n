@@ -791,6 +791,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "Reflejos">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "Kue´e-ka">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -804,6 +805,7 @@ and allows hiding a URL/page from highlights or topsites. The page remains in hi
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Xita">
 
+<!ENTITY private_tab_learn_more "¿A kuvinu kutu´va-ka?">
 
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
