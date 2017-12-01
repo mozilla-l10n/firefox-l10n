@@ -73,7 +73,7 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mae'r gweinydd dirprwy yn gwrthod cysylltiadau">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Gwiriwch osodiadau'r dirprwy i wneud yn siŵr eu bod yn gywir.</li> <li>Cysylltwch â'ch gweinyddwr system i wneud yn siŵr fod y gweinydd dirprwyol yn gweithio.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Gwiriwch osodiadau'r dirprwy i wneud yn siŵr eu bod yn gywir.</li> <li>Cysylltwch â'ch gweinyddwr system i wneud yn siŵr fod y gweinydd dirprwyol yn gweithio.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Methu canfod y gweinydd dirprwyol">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Gwiriwch y gosodiadau dirprwyol i wneud yn siŵr eu bod yn gywir.</li> <li>Gwiriwch fod gan eich cyfrifiadur cyswllt a'r we sy'n gweithio.</li> <li>Os yw eich cyfrifiadur wedi ei ddiogelu gan fur cadarn neu ddirprwy, gwnewch yn siŵr fod gan &brandShortName; fynediad i'r we.</li> </ul>">
@@ -85,7 +85,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.</li> <li>Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Methodd y Cysylltiad Diogel">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen gan nad oes modd gwirio dilysrwydd y data derbyniwyd.</li> <li>Cysylltwch â pherchennog y wefan i'w hysbysu o'r anhawster.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data rydych wedi ei dderbyn.</li> <li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Nid yw eich cysylltiad yn ddiogel">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
