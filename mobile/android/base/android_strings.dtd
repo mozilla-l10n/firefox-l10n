@@ -428,7 +428,7 @@
 <!ENTITY save_as_pdf "PDF ആയി സൂക്ഷിക്കുക">
 <!ENTITY print "അച്ചടിയ്ക്കുക">
 <!ENTITY find_in_page "താളില്‍ കണ്ടെത്തുക">
-<!ENTITY desktop_mode "ഡെസ്ക്ടോപ്പ് സൈറ്റ് ആവശ്യപ്പെടൂ">
+<!ENTITY desktop_mode "ഡെസ്ക്ടോപ്പ് സൈറ്റ്">
 <!ENTITY page "താള്‍">
 <!ENTITY tools "ഉപകരണങ്ങള്‍">
 <!ENTITY new_tab "പുതിയ ടാബ്">
