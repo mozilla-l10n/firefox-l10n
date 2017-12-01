@@ -43,7 +43,7 @@
 <!ENTITY firstrun_account_title "Vi">
 <!ENTITY firstrun_account_message "Ĉu vi havas &brandShortName; en alia aparato?">
 
-<!ENTITY  onboard_start_restricted1 "Estu sekura kaj regu vian retumadon per tiu ĉi simpligita versio de &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "Estu sekura kaj regu vian retumon per tiu ĉi simpligita versio de &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -373,7 +373,7 @@
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Malfermitaj langetoj">
-<!ENTITY pref_private_data_history2 "Historio de retumado">
+<!ENTITY pref_private_data_history2 "Historio de retumo">
 <!ENTITY pref_private_data_searchHistory "Historio de serĉoj">
 <!ENTITY pref_private_data_formdata2 "Historio de formularoj">
 <!ENTITY pref_private_data_cookies2 "Kuketoj kaj aktivaj seancoj">
@@ -665,8 +665,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "Protekto kontraŭ spurado">
 <!ENTITY doorhanger_tracking_state_enabled "Aktiva">
 <!ENTITY doorhanger_tracking_state_disabled "Malaktiva">
-<!ENTITY doorhanger_tracking_message_enabled1 "Provoj spuri vian retumadon estis blokitaj.">
-<!ENTITY doorhanger_tracking_message_disabled2 "Tiu ĉi paĝo enahavas elementojn, kiuj povus spuri vian retumadon.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Provoj spuri vian retumon estis blokitaj.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Tiu ĉi paĝo enahavas elementojn, kiuj povus spuri vian retumon.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Pli da informo">
