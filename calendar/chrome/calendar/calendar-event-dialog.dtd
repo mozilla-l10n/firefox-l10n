@@ -52,9 +52,9 @@
 <!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
-<!ENTITY event.dialog.cut.key                     "n">
+<!ENTITY event.dialog.cut.key                     "X">
 <!ENTITY event.dialog.copy.key                    "C">
-<!ENTITY event.dialog.paste.key                   "F">
+<!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
@@ -214,7 +214,7 @@
 <!ENTITY task.from.label                                  "Cychwyn:" >
 <!ENTITY task.from.accesskey                              "C">
 <!ENTITY event.to.label                                   "Gorffen:" >
-<!ENTITY event.to.accesskey                               "0">
+<!ENTITY event.to.accesskey                               "o">
 <!ENTITY task.to.label                                    "Erbyn Dyddiad:" >
 <!ENTITY task.to.accesskey                                "E">
 <!ENTITY task.status.label                                "Statws:" >
