@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Vidi">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Ŝalti/malŝalti redaktilon">
-<!ENTITY viewMenu_toggleEditor_accesskey "r">
 <!ENTITY viewMenu_zoomin_label "Grandigi">
 <!ENTITY viewMenu_zoomin_accesskey "G">
 <!ENTITY viewMenu_zoomout_label "Malpligrandigi">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Langetoj">
 <!ENTITY runtimePanel_usb "Aparatoj USB">
 <!ENTITY runtimePanel_wifi "Aparatoj sendrataj">
-<!ENTITY runtimePanel_simulator "Imitiloj">
 <!ENTITY runtimePanel_other "Aliaj">
-<!ENTITY runtimePanel_installsimulator "Instali imitilon">
 <!ENTITY runtimePanel_noadbhelper "Instali helpanton de ADB">
 <!ENTITY runtimePanel_nousbdevice "Ĉu vi ne povas vidi vian aparaton?">
 <!ENTITY runtimePanel_refreshDevices_label "Aktualigi aparatojn">
@@ -94,7 +88,6 @@
 <!ENTITY details_location "Adreso">
 <!ENTITY details_manifestURL "Programa ID">
 <!ENTITY details_removeProject_button "Forigi projekton">
-<!ENTITY details_showPrepackageLog_button "Montri la antaŭpakan registron">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nova programo">
@@ -109,7 +102,7 @@
 
 <!-- Addons -->
 <!ENTITY addons_title "Ekstraj komponantoj">
-<!ENTITY addons_aboutaddons "Malfermi administranton de aldonaĵoj">
+<!ENTITY addons_aboutaddons "Malfermi administrilon de aldonaĵoj">
 
 <!-- Prefs -->
 <!ENTITY prefs_title "Preferoj">
@@ -123,21 +116,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Uzi antaŭan projekton kiam WebIDE komenciĝas">
 <!ENTITY prefs_options_templatesurl "URL de ŝablonoj">
 <!ENTITY prefs_options_templatesurl_tooltip "Indekso de haveblaj ŝablonoj">
-<!ENTITY prefs_options_showeditor "Montri redaktilon">
-<!ENTITY prefs_options_showeditor_tooltip "Montri internan redaktilon">
-<!ENTITY prefs_options_tabsize "Tabogrando">
-<!ENTITY prefs_options_expandtab "Kvazaŭtaboj">
-<!ENTITY prefs_options_expandtab_tooltip "Uzi spacojn anstataŭ la tabosignon">
-<!ENTITY prefs_options_detectindentation "Aŭtomate krei krommarĝenojn">
-<!ENTITY prefs_options_detectindentation_tooltip "Diveni krommarĝenojn surbaze de la enhavo de la fonto">
-<!ENTITY prefs_options_autocomplete "Aŭtomate kompletigi">
-<!ENTITY prefs_options_autocomplete_tooltip "Aktivigi la aŭtomatan kompletigon de kodo">
-<!ENTITY prefs_options_autoclosebrackets "Aŭtomate fermi krampojn">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Aŭtomate enmeti fermajn krampojn">
-<!ENTITY prefs_options_keybindings "Klavkombinoj">
-<!ENTITY prefs_options_keybindings_default "Normaj">
-<!ENTITY prefs_options_autosavefiles "Aŭtomate konservi dosierojn">
-<!ENTITY prefs_options_autosavefiles_tooltip "Aŭtomate konservi modifitajn dosierojn antaŭ ol ruli la projekton">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informo de rulĉirkaŭaĵo">
@@ -194,19 +172,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Registrado de antaŭpakaj ordonoj">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Elektebloj de imitilo">
-<!ENTITY simulator_remove "Forigi imitilon">
-<!ENTITY simulator_reset "Remeti normajn valorojn">
-<!ENTITY simulator_name "Nomo">
-<!ENTITY simulator_software "Programaro">
-<!ENTITY simulator_version "Versio">
-<!ENTITY simulator_profile "Profilo">
-<!ENTITY simulator_hardware "Aparataro">
-<!ENTITY simulator_device "Aparato">
-<!ENTITY simulator_screenSize "Ekrano">
-<!ENTITY simulator_pixelRatio "Bildera proporcio">
-<!ENTITY simulator_tv_data "Imito de TV">
-<!ENTITY simulator_tv_data_open "Agordaj datumoj">
-<!ENTITY simulator_tv_data_open_button "Malfermi agordan dosierujon…">
