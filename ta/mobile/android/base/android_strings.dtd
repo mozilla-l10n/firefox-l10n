@@ -286,6 +286,11 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "பரிசோதனையிலுள்ள வசதிகள்">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "தனிபயன் கீற்றுகள்">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS; உலாவியில் திறக்கவும்">
@@ -357,6 +362,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "உரல் பட்டையில் QR வருடியை அனுமதி">
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
+<!ENTITY pref_sync_default_title "பயர்பாக்ஸ் கணக்கு">
 <!ENTITY pref_sync2 "புகுபதிகை">
 <!ENTITY pref_sync_summary2 "உங்கள் கீற்றுகளை, புத்தகக்குறிகளை, கடவுச்சொற்களை, வரலாற்றை ஒத்திசை">
 <!ENTITY pref_search_suggestions "தேடல் பரிந்துரைகளைக் காட்டு">
@@ -479,6 +485,7 @@
 <!ENTITY contextmenu_open_private_tab "தனியார் தாவலில் திறக்கவும்">
 <!ENTITY contextmenu_remove "நீக்கு">
 <!ENTITY contextmenu_add_to_launcher "முகப்பு திரையில் சேர்">
+<!ENTITY contextmenu_add_page_shortcut "பக்கத்தின் குறுக்குவழியை சேர்">
 <!ENTITY contextmenu_set_as_homepage "முகப்பு பக்கமாக்குக">
 <!ENTITY contextmenu_share "பகிர்">
 <!ENTITY contextmenu_pasteandgo "ஒட்டி செல்">
@@ -532,6 +539,8 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "பக்கம் நீக்கப்பட்டது">
+
+<!ENTITY folder_removed "அடைவு நீக்கப்பட்டது">
 
 <!ENTITY bookmark_edit_title "புத்தகக்குறியை திருத்து">
 <!ENTITY bookmark_edit_folder_title "அடைத் தொகு">
@@ -811,6 +820,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "முகப்பு திரையில் சேர்">
 
+<!ENTITY promotion_add_page_shortcut "பக்கத்தின் குறுக்குவழியை சேர்">
+
 <!ENTITY helper_first_offline_bookmark_title "இணையம் இல்லாமல் வாசி">
 <!ENTITY helper_first_offline_bookmark_message "இணையமற்ற நிலையிலும் வாசிப்பு பட்டியலை புத்தகக்குறிகளில் காணலாம்.">
 <!ENTITY helper_first_offline_bookmark_button "புத்தகக்குறிக்குச் செல்">
@@ -850,3 +861,12 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "அதிகம் கற்க வேண்டுமா?">
 
 <!ENTITY fullscreen_warning "முழுத்திரைக்குச் செல்">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+முகப்பு திரையில் சேர்">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "முகப்பு திரையில் சேர்">
+<!ENTITY pwa_continue_to_website "இணையத்தளத்தில் தொடர்">
