@@ -18,7 +18,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Links">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Stu su´ma pestaña">
+<!ENTITY firstrun_tabqueue_message_off "Activar cola de pestaña">
 <!ENTITY firstrun_tabqueue_subtext_off "Chuva´a enlaces íchu nuu jii &brandShortName; saa ke´inu daa inka-ka daa aplicaciones.">
 
 <!ENTITY firstrun_tabqueue_message_on "Nkuneí!">
