@@ -336,7 +336,7 @@
 <!ENTITY pref_qrcode_enabled "ക്യുആര്‍ കോഡ് റീഡര്‍">
 <!ENTITY pref_qrcode_enabled_summary2 "യുആര്‍എല്‍ ബാറില്‍ ക്യുആര്‍ സ്കാന്നര്‍ അനുവദിക്കൂ">
 
-<!ENTITY pref_use_master_password "ഒരു പ്രധാന രഹസ്യവാക്ക് ഉപയോഗിക്കുക">
+<!ENTITY pref_use_master_password "പ്രധാന രഹസ്യവാക്ക് ഉപയോഗിക്കുക">
 <!ENTITY pref_sync_default_title "ഫയർഫോക്സ് അക്കൗണ്ട്">
 <!ENTITY pref_sync2 "പ്രവേശിക്കുക">
 <!ENTITY pref_sync_summary2 "നിങ്ങളുടെ ടാബുകള്‍, അടയാളക്കുറിപ്പുകള്‍, പ്രവേശനങ്ങള്‍, നാള്‍വഴി എന്നിവ സിന്‍ക് ചെയ്യൂ">
