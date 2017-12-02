@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteção contra monitorização">
 <!ENTITY  trackingProtection2.description      "A monitorização é a recolha dos seus dados de navegação através de múltiplos websites. A monitorização pode ser utilizada para construir um perfil e mostrar conteúdo baseado na sua navegação e informação pessoal.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Utilizar proteção contra monitorização para bloquear trackers conhecidos">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Utilizar Proteção contra monitorização para bloquear trackers conhecidos">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "r">
 <!ENTITY  trackingProtectionPrivate.label      "Apenas em janelas privadas">
