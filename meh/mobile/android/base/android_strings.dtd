@@ -621,7 +621,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Nxitanu protección a kimiji noo´o nuu daa contenido ntu tuvi vatu.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Rastreando protección">
+<!ENTITY doorhanger_tracking_title2 "A kumi nkutada-ja">
 <!ENTITY doorhanger_tracking_state_enabled "Tee">
 <!ENTITY doorhanger_tracking_state_disabled "Xitá">
 <!ENTITY doorhanger_tracking_message_enabled1 "Daa a kuvi kuntada a nánukunu nñasɨani jia´ada.">
