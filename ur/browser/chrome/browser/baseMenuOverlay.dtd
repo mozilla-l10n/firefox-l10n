@@ -18,7 +18,7 @@
 <!ENTITY aboutProduct2.accesskey  "ک">
 <!ENTITY productHelp2.label       "&brandShorterName; مدد">
 <!ENTITY productHelp2.accesskey   "م">
-<!ENTITY helpMac.commandkey       "؟">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     " کلیدی تختہ تیز راہیں">
 <!ENTITY helpKeyboardShortcuts.accesskey "ک">

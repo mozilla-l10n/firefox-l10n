@@ -4,7 +4,6 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "مندرجہ ذیل کوکیاں آپ کے کمپیوٹر پر ذخیرہ ہیں:">
 <!ENTITY     cookiename.label               "نام کوکی">
 <!ENTITY     cookiedomain.label             "سائٹ">
 
@@ -17,9 +16,8 @@
 <!ENTITY     props.container.label          "حامل:">
 
 <!ENTITY     window.title                   "کوکیاں">
-<!ENTITY     windowClose.key                "د">
-<!ENTITY     focusSearch1.key               "ف">
-<!ENTITY     focusSearch2.key               "ک">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
 
 <!ENTITY     searchFilter.label             "تلاش کریں">
 <!ENTITY     searchFilter.accesskey         "ت">

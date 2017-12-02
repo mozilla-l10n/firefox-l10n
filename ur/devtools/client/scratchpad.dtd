@@ -1,13 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -17,9 +20,6 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-
-
-
 <!ENTITY window.title                 "Scratchpad">
 
 <!ENTITY fileMenu.label               "مسل">
@@ -27,11 +27,11 @@
 
 <!ENTITY newWindowCmd.label           "نیا دریچہ">
 <!ENTITY newWindowCmd.accesskey       "ن">
-<!ENTITY newWindowCmd.commandkey      "ن">
+<!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "مسل کھولیں…">
 <!ENTITY openFileCmd.accesskey        "م">
-<!ENTITY openFileCmd.commandkey       "ہ">
+<!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "Recent کھولیں">
 <!ENTITY openRecentMenu.accesskey     "R">
@@ -41,13 +41,13 @@
 
 <!ENTITY saveFileCmd.label            "محفوظ کریں">
 <!ENTITY saveFileCmd.accesskey        "م">
-<!ENTITY saveFileCmd.commandkey       "س">
+<!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "محفوظ کریں بطور…">
 <!ENTITY saveFileAsCmd.accesskey      "ب">
 
 <!ENTITY closeCmd.label               "بند کریں">
-<!ENTITY closeCmd.key                 "و">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "ب">
 
 <!ENTITY viewMenu.label               "نظارہ">
@@ -65,12 +65,11 @@
 <!ENTITY largerFont.label             "بڑا تر فانٹ">
 <!ENTITY largerFont.accesskey         "ڑ">
 <!ENTITY largerFont.commandkey        "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY largerFont.commandkey2       "="> 
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "چھوٹا تر فانٹ">
 <!ENTITY smallerFont.accesskey        "و">
-<!ENTITY smallerFont.commandkey       "- ">
+<!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "عام ناپ">
 <!ENTITY normalSize.accesskey         "ع">
@@ -92,34 +91,34 @@
 <!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "خوبصورت پرنٹ">
-<!ENTITY pprint.key                   "پ">
+<!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "خ">
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-
 <!ENTITY environmentMenu.label        "Environment">
 <!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "مشمولات">
 <!ENTITY contentContext.accesskey     "م">
+
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-
 <!ENTITY browserContext.label         "براؤزر">
 <!ENTITY browserContext.accesskey     "ب">
+
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-
 <!ENTITY helpMenu.label               "مدد">
 <!ENTITY helpMenu.accesskey           "م">
 <!ENTITY helpMenuWin.label            "مدد">
@@ -127,11 +126,11 @@
 
 <!ENTITY documentationLink.label      "MDN پر سکریچ پیڈ مدد">
 <!ENTITY documentationLink.accesskey  "D">
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-
-
 <!ENTITY resetContext2.label          "متغیرہ پھر سیٹ کریں">
 <!ENTITY resetContext2.accesskey      "پ">
 
@@ -141,16 +140,16 @@
 
 <!ENTITY executeMenu.label            "پرعمل">
 <!ENTITY executeMenu.accesskey        "ع">
+
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
   -  the same name in browser.dtd.
   -->
+<!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY errorConsoleCmd.commandkey   "ج">
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
-
 <!ENTITY evalFunction.label "موجودہ تقریب کا اندازہ کریں">
 <!ENTITY evalFunction.accesskey "v">
-<!ENTITY evalFunction.key "ع">
+<!ENTITY evalFunction.key "e">

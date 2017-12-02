@@ -33,11 +33,11 @@
 <!ENTITY btnPageSecurity.label "سلامتی">
 <!ENTITY btnPageSecurity.tooltip "نقائص اور تنبیہ لاگ کریں">
 <!ENTITY btnPageSecurity.accesskey "م">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
 <!ENTITY btnPageLogging.label   "لاگنگ">
 <!ENTITY btnPageLogging.tooltip "لاگ پیغام دریچہ کنسول آبجیکٹ کو ارسال کیا گیا">
 <!ENTITY btnPageLogging.accesskey3 "L">
@@ -47,10 +47,10 @@
 <!ENTITY btnConsoleLog          "لاگ">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "بازروانی">
+
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
-
 <!ENTITY btnServerLogging.label       "پیش کار">
 <!ENTITY btnServerLogging.tooltip     "لاگ ہپیغام ویب پیش کار سے وصول پایا">
 <!ENTITY btnServerLogging.accesskey   "پ">
@@ -58,9 +58,9 @@
 <!ENTITY btnServerInfo                "معلومات">
 <!ENTITY btnServerWarnings            "تنبیہ">
 <!ENTITY btnServerLog                 "لاگ">
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
-
 <!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
@@ -75,8 +75,7 @@
 <!ENTITY btnClear.accesskey    "ص">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
@@ -88,9 +87,9 @@
 <!ENTITY copyURLCmd.label     "ربط محل وقوع نقل کریں">
 <!ENTITY copyURLCmd.accesskey "ق">
 
-<!ENTITY closeCmd.key         "و">
-<!ENTITY findCmd.key          "ف">
-<!ENTITY clearOutputCtrl.key  "ل">
+<!ENTITY closeCmd.key         "W">
+<!ENTITY findCmd.key          "F">
+<!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "متغیرہ نظارہ میں کھولیں">
 <!ENTITY openInVarViewCmd.accesskey "م">
 <!ENTITY storeAsGlobalVar.label "ذخیرہ کریں عالمی متغیرہ کی طرز پر">

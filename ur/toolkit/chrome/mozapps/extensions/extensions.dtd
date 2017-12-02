@@ -7,7 +7,7 @@
 <!ENTITY search.buttonlabel                   "تلاش">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "ڈ">
+<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "لوڈ کر رہا ہے...">
 <!ENTITY listEmpty.installed.label            "آپ کے پاس اس قسم کے کوئی ایڈ اون تنصیب شدہ نہیں">

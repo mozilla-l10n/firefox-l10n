@@ -12,7 +12,7 @@
 
 <!ENTITY file.close.label               "بند کریں">
 <!ENTITY file.close.accesskey           "ب">
-<!ENTITY cmd.close.key                  "ب">
+<!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "نظارے">
 <!ENTITY views.accesskey                "ن">
 <!ENTITY views.tooltip                  "اپنا نظارہ تبدیل کریں">
@@ -88,7 +88,7 @@
 <!ENTITY historySearch.placeholder  "سابقات تلاش کریں">
 <!ENTITY bookmarksSearch.placeholder  "نشانیاں تلاش کریں">
 
-<!ENTITY cmd.find.key  "ڈ">
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "درآمد و پشتارہ">
 <!ENTITY maintenance.accesskey  "د">

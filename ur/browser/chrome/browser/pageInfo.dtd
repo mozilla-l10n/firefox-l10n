@@ -5,13 +5,13 @@
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "550">
 
-<!ENTITY  copy.key              "س">
+<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "نقل کریں ">
 <!ENTITY  copy.accesskey        "ن">
-<!ENTITY  selectall.key         "آ">
+<!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "تمام منتخب کریں">
 <!ENTITY  selectall.accesskey   "ت">
-<!ENTITY  closeWindow.key       "و">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "عمومی">
 <!ENTITY  generalTab.accesskey  "ج">
