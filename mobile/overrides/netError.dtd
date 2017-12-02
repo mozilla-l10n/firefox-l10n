@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "താള്‍ ലോഡ്‌ ചെയ്യുന്നതില്‍ തകരാര്‍ ">
 <!ENTITY retry.label "വീണ്ടും ശ്രമിക്കുക">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "കണക്ട്‌ ചെയ്യുവാന്‍ സാധിച്ചില്ല">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -24,7 +24,7 @@
 <!ENTITY fileNotFound.title "ഫയല്‍ കാണ്‍മാനില്ല">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ടൈപ്പ് ചെയ്യുന്നതിലുള്ള പിശകുകള്‍ക്കായി ഫയലിന്റെ പേര് പരിശോധിക്കുക.</li> <li>ഫയല്‍ നീക്കം ചെയ്യുകയോ,പേര് മാറ്റുകയോ അല്ലെങ്കില്‍  വെട്ടി നീക്കുകയോ മറ്റോ ചെയ്തോ എന്ന് പരിശോധിക്കുക.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "ഫയലിലേക്കുള്ള ആക്സസ്സ് നിരസിച്ചു">
 
 <!ENTITY generic.title "അയ്യോ!!">
 <!ENTITY generic.longDesc "<p>ചില കാരണങ്ങളാല്‍ &brandShortName; എന്നതിനു് ഈ താള്‍ ലോഡ്‌ ലഭ്യമാക്കുവാനായില്ല.</p>">
@@ -38,7 +38,6 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "രേഖയുടെ കാലാവധി കഴിഞ്ഞിരിയ്ക്കുന്നു">
-
 
 <!ENTITY netOffline.title "ഓഫ്‌ലൈന്‍ മോഡ്‌">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -78,9 +77,9 @@
 
 <!ENTITY nssBadCert.title "സുരക്ഷിതമായ കണക്ഷന്‍ പരാജയപ്പെട്ടു">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>ഇത് സെര്‍വറിന്റെ ക്രമീകരണത്തിലുള്ള പിശകോ അല്ലെങ്കില്‍ ആരെങ്കിലും ഈ സെര്‍വറാണെന്നു  തെറ്റിദ്ധരിപ്പിയ്ക്കാന്‍ ശ്രമിയ്ക്കുന്നതോ ആവും കാരണം.</li> <li>നിങ്ങള്‍ ഇതിനു് മുമ്പു് ഈ സെര്‍വറിലേക്കു് വിജയകരമായി കണക്ട് ചെയ്തിട്ടുണ്ടെങ്കില്‍, ഇതു് വെറും ഒരു താല്‍ക്കാലിക പ്രശ്നമാവാം, അതുകൊണ്ടു് അല്പസമയം കഴിഞ്ഞ് ശ്രമിക്കുക.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>ഈ സൈറ്റ് തല്‍ക്കാലം ലഭ്യമല്ല. അല്‍പ സമയത്തിനു് ശേഷം വീണ്ടും ശ്രമിയ്ക്കുക.</li> <li>ഒരു താളും ലഭ്യമാക്കാനാവുന്നില്ലെങ്കില്‍, ഉപകരണത്തിന്റെ ഡേറ്റാ അല്ലെങ്കില്‍ വൈഫൈ കണക്ഷന്‍ പരിശോധിയ്ക്കുക. <button id='wifi'>വൈഫൈ സജ്ജമാക്കുക</button>  </li> </ul>">
 
 <!ENTITY cspBlocked.title "ഉള്ളടക്കത്തിനുള്ള സുരക്ഷാ വ്യവസ്ഥകള്‍ കാരണം തടഞ്ഞിരിയ്ക്കുന്നു">
@@ -92,11 +91,11 @@
 <!ENTITY securityOverride.linkText "അല്ലെങ്കില്‍ നിങ്ങള്‍ക്കു് ഒരു എക്സെപ്ഷന്‍ ചേര്‍ക്കാം…">
 <!ENTITY securityOverride.getMeOutOfHereButton "പുറത്തു് കടക്കുവാന്‍ സഹായിക്കുക!">
 <!ENTITY securityOverride.exceptionButtonLabel "എക്സെപ്ഷന്‍ ചേര്‍ക്കുക…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>ഈ സര്‍വറില്‍ നിന്നും മുന്നറിയിപ്പുകള്‍ ലഭ്യമാകാറില്ല, അല്ലെങ്കില്‍ വിശ്വസനീയമല്ലാത്തൊരു ഇന്റര്‍നെറ്റ് കണക്ഷനാണുപയോഗിയ്ക്കുന്നതു് എങ്കില്‍ എക്സെപ്ഷന്‍ ചേര്‍ക്കരുതു്.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -106,10 +105,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "സുരക്ഷിതമായി കണക്ട് ചെയ്യുവാനായില്ല">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "കുടുതല്‍ വിവരം: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "കുടുതല്‍ വിവരം: SSL_ERROR_NO_CYPHER_OVERLAP">
 
 <!ENTITY inadequateSecurityError.title "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
