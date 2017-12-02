@@ -6,7 +6,7 @@
 <!ENTITY setPassword.tokenName.label       "Ibenk n tɣellist">
 <!ENTITY setPassword.oldPassword.label     "Awal uffir aqbuṛ:">
 <!ENTITY setPassword.newPassword.label     "Sekcem awal uffir amaynut:">
-<!ENTITY setPassword.reenterPassword.label "Sekcem tikelt nniḍen awal uffir:">
+<!ENTITY setPassword.reenterPassword.label "Sekcem tikelt-nniḍen awal uffir:">
 <!ENTITY setPassword.meter.label           "Asɣel n tɣaṛa n wawal uffir">
 <!ENTITY setPassword.meter.loading         "Asali">
 <!ENTITY masterPasswordDescription.label   "Awal uffir agejdan ittuseqdac akken ad immesten talɣut tamḥulfut am awalen uffiren n usmel. Ma terniḍ Awala uffir agejdan, ad ittawsteqsayeḍ yal tikelt ad senkreḍ tiɣimit ticki &brandShortName; yettnadi talɣut ittummestnen s wawal-agi uffir.">
