@@ -556,6 +556,7 @@
 <!ENTITY home_synced_devices_number "&formatD; ഉപകരണങ്ങള്‍">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "ഒരു ഉപകരണം">
+<!ENTITY home_history_back_to2 "മുഴുവന്‍ ചരിത്രത്തിലോട്ട് പോവുക">
 <!ENTITY home_clear_history_button "ബ്രൗസിങ്ങ് നാൾവഴി വെടിപ്പാക്കുക">
 <!ENTITY home_clear_history_confirm "നാള്‍വഴി മായ്ക്കട്ടെ?">
 <!ENTITY home_bookmarks_empty "നിങ്ങൾ സൂക്ഷിച്ച അടയാളക്കുറിപ്പുകള്‍ ഇവിടെ കാണിക്കുക">
@@ -667,6 +668,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "ഓര്‍മ്മക്കുറിപ്പുകളും നാൾവഴിയും">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "&brandShortName; നായുള്ള പുതുക്കലുകള്‍ ലഭ്യമാണ്">
 <!ENTITY updater_start_select2 "ഡൗണ്‍ലോഡ് ചെയ്യാൻ തൊടുക">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; ഡൌണ്‍ലോഡ് ചെയ്യുന്നു">
