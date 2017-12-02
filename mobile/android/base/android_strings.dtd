@@ -459,7 +459,7 @@
 <!ENTITY contextmenu_open_private_tab "സ്വകാര്യ ടാബിൽ തുറക്കുക">
 <!ENTITY contextmenu_remove "ഒഴിവാക്കുക">
 <!ENTITY contextmenu_add_to_launcher "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
-<!ENTITY contextmenu_add_page_shortcut "പേജ് ഷോ‍ർട്ട്കട്ടുകൾ ചേർക്കുക">
+<!ENTITY contextmenu_add_page_shortcut "പേജ് കുറുക്കുവഴി ചേർക്കുക">
 <!ENTITY contextmenu_set_as_homepage "ഹോംപേജ് ആക്കുക">
 <!ENTITY contextmenu_share "പങ്കിടുക">
 <!ENTITY contextmenu_pasteandgo "ഒട്ടിച്ച് തുടരുക">
@@ -474,8 +474,8 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "പ്രധാന സൈറ്റുകളിലേക്ക് പിൻ ചെയ്യുക">
-<!ENTITY contextmenu_unpin_from_top_sites "പ്രധാന സൈറ്റുകളിൽ നിന്ന് അൺപിൻ ചെയ്യുക">
+<!ENTITY contextmenu_pin_to_top_sites "പ്രധാന സൈറ്റിലേക്ക് ചേര്‍ക്കുക">
+<!ENTITY contextmenu_unpin_from_top_sites "പ്രധാന സൈറ്റുകളിൽ നിന്ന് മാറ്റുക">
 <!ENTITY contextmenu_add_search_engine "തെരച്ചിലിനുള്ള പ്രയോഗം ചേര്‍ക്കുക">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
