@@ -309,7 +309,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "काटें">
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "t">
-<!ENTITY copyCmd.label            "नक़ल करें">
+<!ENTITY copyCmd.label            "नकल करें">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "C">
 <!ENTITY pasteCmd.label           "चिपकाएँ">
@@ -568,7 +568,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "यह फ्रेम पुस्तचिह्नित करें">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY pageAction.copyLink.label    "कड़ी नक़ल करें">
+<!ENTITY pageAction.copyLink.label    "कड़ी नकल करें">
 <!ENTITY copyURLFeedback.label        "प्रतिलिपि!">
 <!ENTITY emailPageCmd.label           "कड़ी ईमेल करें…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -603,13 +603,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "छवि स्थान की नक़ल लें">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "छवि की नक़ल लें">
+<!ENTITY copyImageContentsCmd.label   "छवि की नकल लें">
 <!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "वीडियो स्थान की नक़ल लें">
+<!ENTITY copyVideoURLCmd.label        "वीडियो स्थान की नकल लें">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "ऑडियो स्थान की नक़ल लें">
+<!ENTITY copyAudioURLCmd.label        "ऑडियो स्थान की नकल लें">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "ईमेल पता की नक़ल लें">
+<!ENTITY copyEmailCmd.label           "ईमेल पता की नकल लें">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "यह फ्रेम">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -824,7 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यह टैब पुस्तचिह्नित करें...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "नक़ल करें">
+<!ENTITY syncedTabs.context.copy.label                       "नकल करें">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "सभी टैब में खोलें">
