@@ -4,7 +4,7 @@
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY pluginActivationWarning                             "Asmel-agi iseqdac izegrar izemren ad saẓayen &brandShortName;.">
-<!ENTITY tapToPlayPlugin                                     "Sit d-agi akken ad tremded azegrir.">
+<!ENTITY tapToPlayPlugin                                     "Sit dagi akken ad tremded azegrir.">
 <!ENTITY clickToActivatePlugin                               "Rmed azegrir.">
 <!ENTITY checkForUpdates                                     "Senqed ileqman…">
 <!ENTITY blockedPlugin.label                                 "Azegrir-agi amernan ad ittusewḥel i ummesten-inek.">
