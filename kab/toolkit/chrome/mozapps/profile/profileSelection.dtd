@@ -20,9 +20,9 @@
 <!ENTITY            renameButton.accesskey "n">
 <!ENTITY            deleteButton.label     "Kkes amaɣnu…">
 <!ENTITY            deleteButton.accesskey "K">
-<!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; ad iḥrez talɣut n iɣewwaṛen-ik usligen d isme,yifen-ik ɣef umaɣnu-ik.">
+<!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; ad iḥrez talɣut n iɣewwaṛen-ik usligen d ismeyifen-ik ɣef umaɣnu-ik.">
 
 <!ENTITY            offlineState.label    "Mahel war tuqqna">
 <!ENTITY            offlineState.accesskey "M">
