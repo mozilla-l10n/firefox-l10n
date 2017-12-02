@@ -136,7 +136,7 @@
 
 <!ENTITY reloadAndRun.label           "Reload اور چلیں">
 <!ENTITY reloadAndRun.accesskey       "e">
-<!ENTITY reloadAndRun.key             "ر">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "پرعمل">
 <!ENTITY executeMenu.accesskey        "ع">
