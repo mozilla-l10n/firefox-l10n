@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Ntu nkuvi síne página ya´a">
 <!ENTITY retry.label "Nakivɨ tuku">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ntu kuvi kivɨ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Conexión segura ntu nkuvi">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Sa̱naan kuvi iin problema jii configuración ka̱a̱ servidor a xíín íyo neva kuvi sa´a xeen.</li> <li>Dee a kivɨ-nu servidor ya´a íchi yata sa̱naan kuvi iin error nkuvi sa̱naan, kuvi nakivɨ-nu íchika dee nníní.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Sa̱naan sitio ya´a ntu íyo tiñu ntañu´u a xíín íyo chitu. Kunetu jee nakivɨ-nu íchika.</li> <li>Dee ntu kuvi kivɨ-nu nuu ni´í página, kune´ya daa datos ka̱a̱-nu a xíín conexión Wi-Fi. <button id='wifi'>Sikune Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Yɨ´ɨ yu´u jiee Política de Seguridad de Contenido">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "A xíín kuvi tee-nu iin excepción...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tava nuu´u ya´a!">
 <!ENTITY securityOverride.exceptionButtonLabel "Tee excepción...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Ntu nejika tee-nu iin excepción ntu túvi va´a dee ni´í-nu iin conexión nuu ka̱a̱ nántu´un ne jíka a xíín jininu a ntu túvi daa advertencia ya´a saa kivɨ-nu íchi yata nuun servidor ya´a.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -110,7 +110,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Conexión-nu ntu túvi vatu ">
+<!ENTITY weakCryptoUsed.title "Conexión-nu ntu túvi vatu">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
