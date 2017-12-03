@@ -799,7 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Synchronizované panely">
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizované panely">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Přihlaste se do Firefoxu z vašich ostatních zařízení pro zobrazení jejich panelů zde.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Pro zobrazení panelů z vašich ostatních zařízeních se na nich přihlaste k účtu Firefoxu.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Žádné synchronizované panely… zatím!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Chcete zde vidět vaše panely z ostatních zařízení?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.">

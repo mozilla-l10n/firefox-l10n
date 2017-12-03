@@ -88,4 +88,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " a synchronizujte Firefox se svým mobilním zařízením.">
+<!ENTITY mobilePromo3.end              " a synchronizujte svá data se svým mobilním zařízením.">
