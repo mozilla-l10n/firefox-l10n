@@ -85,10 +85,10 @@
 <!ENTITY fxaccount_remove_account_dialog_message2 'მონახულებული გვერდების მონაცემები ამ მოწყობილობაზე დარჩება, მაგრამ აღარ დასინქრონდება თქვენს ანგარიშთან.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 '&formatS; Firefox ანგარიშთან კავშირი შეწყვეტილია.'>
+<!ENTITY fxaccount_remove_account_toast2 'Firefox ანგარიშთან &formatS; კავშირი გათიშულია.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
-<!ENTITY fxaccount_remove_account_dialog_action_confirm 'კავშირის შეწყვეტა'>
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'გათიშვა'>
 
 <!ENTITY fxaccount_enable_debug_mode 'გამართვის რეჟიმის ჩართვა'>
 
