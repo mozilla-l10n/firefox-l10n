@@ -286,6 +286,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimental özəlliklər">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Fərdi Vərəqlər">
+<!ENTITY pref_custom_tabs_summary4 "Tətbiqlərə web məzmunu sürətli yüklənən fərdi vərəqdə açmağa icazə ver.">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS; ilə aç">
@@ -357,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Başlıq sətrində QR oxuyucuya icazə ver">
 
 <!ENTITY pref_use_master_password "Ana şifrədən istifadə et">
+<!ENTITY pref_sync_default_title "Firefox Hesabı">
 <!ENTITY pref_sync2 "Daxil ol">
 <!ENTITY pref_sync_summary2 "Vərəqlərinizi, əlfəcinlərinizi, daxil olmaları, tarixçənizi sinxronlaşdırın">
 <!ENTITY pref_search_suggestions "Axtarış təkliflərini göstər">
@@ -479,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Məxfi Vərəqdə Aç">
 <!ENTITY contextmenu_remove "Sil">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana əlavə et">
+<!ENTITY contextmenu_add_page_shortcut "Səhifə Qısayolu Əlavə et">
 <!ENTITY contextmenu_set_as_homepage "Ana səhifə olaraq qur">
 <!ENTITY contextmenu_share "Paylaş">
 <!ENTITY contextmenu_pasteandgo "Yapışdır və aç">
@@ -532,6 +540,8 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Səhifə silindi">
+
+<!ENTITY folder_removed "Qovluq silindi">
 
 <!ENTITY bookmark_edit_title "Əlfəcini düzəlt">
 <!ENTITY bookmark_edit_folder_title "Qovluğu redaktə et">
@@ -811,6 +821,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Ana ekrana əlavə et">
 
+<!ENTITY promotion_add_page_shortcut "Səhifə qısayolu əlavə et">
+
 <!ENTITY helper_first_offline_bookmark_title "Oflayn oxu">
 <!ENTITY helper_first_offline_bookmark_message "Oxuma Görünüşü elementlərinizi Əlfəcinlərdə tapın, hətta oflaynda belə.">
 <!ENTITY helper_first_offline_bookmark_button "Əlfəcinlərə Get">
@@ -850,3 +862,12 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_learn_more "Ətraflı öyrənmək istərdiniz?">
 
 <!ENTITY fullscreen_warning "Tam ekrana daxil oldu">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Ana ekrana əlavə et">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Ana ekrana əlavə et">
+<!ENTITY pwa_continue_to_website "Sayta davam et">
