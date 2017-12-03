@@ -51,7 +51,7 @@ available. -->
 
 <!ENTITY httpCache.label                 "კეშირებული ვებშიგთავსი">
 
-<!ENTITY offlineStorage2.label           "კავშირგარეშე ვებშიგთავსი და მომხმარებლის მონაცემები">
+<!ENTITY offlineStorage2.label           "ვებშიგთავსი და მომხმარებლის მონაცემები, კავშირგარეშე წვდომისთვის">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "საიტის მონაცემები">
@@ -111,16 +111,16 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "საძიებო სისტემების ავტომატური განახლება">
 <!ENTITY enableSearchUpdate2.accesskey   "ს">
 
-<!ENTITY offlineStorageNotify.label               "გაფრთხილება, საიტის მიერ მონაცემების კავშირგარეშე გამოყენებისთვის შენახვისას">
+<!ENTITY offlineStorageNotify.label               "გაფრთხილება, საიტის მიერ მონაცემების კავშირგარეშე წვდომისთვის შენახვისას">
 <!ENTITY offlineStorageNotify.accesskey           "ფ">
 <!ENTITY offlineStorageNotifyExceptions.label     "გამონაკლისები…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ნ">
 
-<!ENTITY offlineAppsList3.label          "მოცემულ ვებსაიტებს, მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლება აქვთ">
+<!ENTITY offlineAppsList3.label          "მოცემულ ვებსაიტებს, მონაცემების კავშირგარეშე წვდომისთვის შენახვის უფლება აქვთ">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ამოღება…">
 <!ENTITY offlineAppsListRemove.accesskey "ა">
-<!ENTITY offlineAppRemove.confirm        "კავშირგარეშე მონაცემთა წაშლა">
+<!ENTITY offlineAppRemove.confirm        "კავშირგარეშე წვდომის მონაცემთა წაშლა">
 
 <!ENTITY certificateTab.label            "სერთიფიკატები">
 <!ENTITY certPersonal2.description       "როცა სერვერი თქვენს პირად სერთიფიკატს ითხოვს">
