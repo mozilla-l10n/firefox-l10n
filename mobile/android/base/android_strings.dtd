@@ -36,8 +36,8 @@
 
 <!ENTITY firstrun_readerview_title "სტატიები">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "მოაშორეთ უწესრიგობა">
-<!ENTITY firstrun_readerview_subtext "გამოიყენეთ წაკითხვის რეჟიმი, რათა სტატიები უფრო მარტივად წასაკითხი გახადოთ \u2014 კავშირგარეშე რეჟიმშიც კი.">
+<!ENTITY firstrun_readerview_message "დაივიწყეთ უწესრიგობა">
+<!ENTITY firstrun_readerview_subtext "გამოიყენეთ კითხვის რეჟიმი, რომ სტატიებს, უფრო მოხერხებულად გაეცნოთ \u2014 კავშირგარეშე რეჟიმშიც კი.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "თქვენ">
@@ -96,7 +96,7 @@
 <!ENTITY bookmark_parent_folder "საქაღალდე">
 <!ENTITY bookmark_add_folder "ახალი საქაღალდის დამატება">
 
-<!ENTITY reader_saved_offline "შენახულია კავშირგარეშე">
+<!ENTITY reader_saved_offline "შენახულია კავშირგარეშე წვდომისთვის">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -779,7 +779,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "სკანირდება თქვენს სხვა მოწყობილბოაზე გამოჩენილი QR კოდი">
+<!ENTITY devtools_auth_scan_header "მიმდინარეობს, სხვა მოწყობილობაში ნაჩვენები QR კოდის წაკითხვა">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
@@ -827,11 +827,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_page_shortcut "გვერდის მალსახმობის დამატება">
 
 <!ENTITY helper_first_offline_bookmark_title "კავშირგარეშე წაკითხვა">
-<!ENTITY helper_first_offline_bookmark_message "იპოვეთ წასაკითხი ელემენტები სანიშნებში, კავშირგარეშე რეჟიმის დროსაც.">
+<!ENTITY helper_first_offline_bookmark_message "მონახეთ წასაკითხი სტატიები სანიშნებში, კავშირგარეშე რეჟიმის დროსაც.">
 <!ENTITY helper_first_offline_bookmark_button "სანიშნებზე გადასვლა">
 
 <!ENTITY helper_triple_readerview_open_title "კავშირგარეშე წვდომა">
-<!ENTITY helper_triple_readerview_open_message "ჩაინიშნეთ წაკითხვის რეჟიმის ელემენტები მათზე კავშირგარეშე წვდომისათვის.">
+<!ENTITY helper_triple_readerview_open_message "ჩაინიშნეთ წასაკითხი სტატიები, კავშირგარეშე წვდომისთვის.">
 <!ENTITY helper_triple_readerview_open_button "ჩანიშვნა">
 
 <!ENTITY activity_stream_topsites "რჩეული საიტები">
