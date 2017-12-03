@@ -47,5 +47,5 @@
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "უსაფრთხო შესვლა ანგარიშზე სიტყვა-ნიშნის საშუალებით">
-<!ENTITY protectedAuth.msg "გთხოვთ გაიაროთ ავტორიაცია ტალონის გამოყენებით. ავტორიზაციის მეთოდი ტალონის ტიპზეა დამოკიდებული.">
+<!ENTITY protectedAuth.msg "გთხოვთ, დაამოწმოთ ვინაობა სიტყვა-ნიშნის საშუალებით. დამოწმების მეთოდი დამოკიდებულია, სიტყვა-ნიშნის სახესხვაობაზე.">
 <!ENTITY protectedAuth.tokenName.label "ტალონი:">
