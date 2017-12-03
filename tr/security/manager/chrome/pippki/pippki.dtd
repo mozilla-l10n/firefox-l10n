@@ -13,7 +13,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Sıfırla">
 <!ENTITY resetPassword.title  "Ana Parolayı Sıfırla">
-<!ENTITY resetPassword.text  "Eğer ana parolanızı sıfırlarsanız, web ve e-posta parolanız, form verileriniz, kişisel sertifikalarınız ve özel anahtarlarınız kaybolur. Ana parolanızı sıfırlamak istediğinizden emin misiniz?">
+<!ENTITY resetPassword.text  "Ana parolanızı sıfırlarsanız tüm kayıtlı web ve e-posta parolalarınız, form verileriniz, kişisel sertifikalarınız ve özel anahtarlarınız silinecektir. Ana parolanızı sıfırlamak istediğinizden emin misiniz?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Sertifika indiriliyor">
