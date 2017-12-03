@@ -120,7 +120,9 @@
 <!ENTITY runtimedetails_title "રનટાઇમ માહિતી">
 <!ENTITY runtimedetails_adbIsRoot "ADB મૂળ છે: ">
 <!ENTITY runtimedetails_summonADBRoot "મૂળ ઉપકરણ">
+<!ENTITY runtimedetails_unrestrictedPrivileges "પ્રતિબંધિત DevTools અધિકારો: ">
 <!ENTITY runtimedetails_requestPrivileges "ઉચ્ચ વિશેષાધિકારોની વિનંતી કરો">
+<!ENTITY runtimedetails_privilegesWarning "(ઉપકરણ ફરીથી ચાલુ થશે. રૂટ અધિકારની જરૂર છે.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "બુલિયન">
@@ -164,3 +166,4 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+<!ENTITY logs_title "પ્રી-પેકેજિંગ કમાન્ડ લૉગ્સ">
