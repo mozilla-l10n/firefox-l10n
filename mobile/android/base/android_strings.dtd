@@ -28,7 +28,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Ligams">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Activatz la fila d’onglets">
+<!ENTITY firstrun_tabqueue_message_off "Activatz la lista d’onglets">
 <!ENTITY firstrun_tabqueue_subtext_off "Salvar los ligams per mai tard dins &brandShortName; en los marcant dins las autras aplicacions.">
 
 <!ENTITY firstrun_tabqueue_message_on "Succès !">
@@ -139,7 +139,7 @@
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
 <!ENTITY pref_category_general "General">
-<!ENTITY pref_category_general_summary3 "Acuèlh, lenga, fila d’onglets">
+<!ENTITY pref_category_general_summary3 "Acuèlh, lenga, lista d’onglets">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
