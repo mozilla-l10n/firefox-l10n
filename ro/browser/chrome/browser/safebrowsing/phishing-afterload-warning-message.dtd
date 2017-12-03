@@ -24,9 +24,9 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
-<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> a fost <a id='error_desc_link'>raportat cu conținut de programe rău intenționate</a>. Poți <a id='report_detection'>să raportezi o problemă de detectare</a> sau <a id='ignore_warning_link'>să ignori riscul</a> și să mergi pe acest site nesigur.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> a fost <a id='error_desc_link'>raportat ca având conținut de programe rău intenționate</a>. Poți <a id='report_detection'>să raportezi o problemă de detectare</a> sau <a id='ignore_warning_link'>să ignori riscul</a> și să mergi pe acest site nesigur.">
 
-<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> a fost <a id='error_desc_link'>raportat cu conținut de programe rău intenționate</a>. Poți <a id='report_detection'>să raportezi o problemă de detectare</a>.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> a fost <a id='error_desc_link'>raportat ca având conținut conținut de programe rău intenționate</a>. Poți <a id='report_detection'>să raportezi o problemă de detectare</a>.">
 
 <!ENTITY safeb.blocked.malwarePage.learnMore "Află mai multe despre conținuturi web dăunătoare, inclusiv viruși și alt malware și cum să protejezi calculatorul la <a id='learn_more_link'>StopBadware.org</a>. Află mai multe despre protecția împotriva phishingului și malware-ului din &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
 
@@ -36,9 +36,9 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
-<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> a fost <a id='error_desc_link'>raportat cu conținut de programe dăunătoare</a>. Poți <a id='ignore_warning_link'>să ignori riscul</a> și să mergi pe acest site nesigur.">
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> a fost <a id='error_desc_link'>raportat ca având conținut de programe dăunătoare</a>. Poți <a id='ignore_warning_link'>să ignori riscul</a> și să mergi pe acest site nesigur.">
 
-<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> a fost <a id='error_desc_link'>raportat cu conținut de programe dăunătoare</a>.">
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> a fost <a id='error_desc_link'>raportat ca având conținut de programe dăunătoare</a>.">
 
 <!ENTITY safeb.blocked.unwantedPage.learnMore "Află mai multe despre programe dăunătoare și nedorite la <a id='learn_more_link'>Politica de programe nedorite</a>. Află mai multe despre protecția împotriva phishingului și malware-ului din &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
 
@@ -58,8 +58,8 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; a blocat această pagină deoarece ar putea să încerce să instaleze programe periculoase care fură sau șterg informațiile tale (de exemplu, fotografii, parole, mesaje și carduri de credit).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
-<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> a fost <a id='error_desc_link'>raportat cu conţinut de aplicaţie dăunătoare</a>. Poţi <a id='ignore_warning_link'>ignora riscul</a> şi să mergi la site-ul nesigur.">
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> a fost <a id='error_desc_link'>raportat ca având conținut de aplicație potențial dăunătoare</a>. Poți <a id='ignore_warning_link'>să ignori riscul</a> și să mergi pe acest site nesigur.">
 
-<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> a fost<a id='error_desc_link'>raportat cu conţinut de aplicaţie dăunătoare</a>.">
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> a fost <a id='error_desc_link'>raportat ca având conținut de aplicație potențial dăunătoare</a>.">
 
 <!ENTITY safeb.blocked.harmfulPage.learnMore "Află mai multe despre protecția împotriva phishingului și malware-ului din &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
