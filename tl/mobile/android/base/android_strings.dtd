@@ -527,10 +527,12 @@
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Mag-browse ng naka-full-screen">
 
+<!ENTITY pref_tab_queue_title3 "Tab queue">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Isiksik ang mga tab">
+<!ENTITY pref_compact_tabs_summary2 "Balangkasin ang mga tab sa dalawang hanay nang naka-portrait">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -557,22 +559,29 @@
 <!ENTITY page_action_dropmarker_description "Mga Karagdagang Pagkilos">
 
 <!ENTITY masterpassword_create_title "Lumikha ng Master Password">
+<!ENTITY masterpassword_remove_title "Tanggalin ang Pangunahing Password">
+<!ENTITY masterpassword_password "Password">
 <!ENTITY masterpassword_confirm "Ikumpirma ang password">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Kanselahin">
 <!ENTITY button_yes "Oo">
 <!ENTITY button_no "Hindi">
+<!ENTITY button_clear_data "Burahin ang mga datus">
+<!ENTITY button_set "Set">
+<!ENTITY button_clear "I-clear">
 <!ENTITY button_copy "Kopyahin">
 
 <!ENTITY home_top_sites_title "Mga nangungunang mga Site">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Magdagdag ng site">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY home_history_title "Kasaysayan">
+<!ENTITY home_synced_devices_smartfolder "Mga naka-sync na device">
 <!ENTITY home_synced_devices_number "&formatD; na mga device">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 na device">
@@ -629,6 +638,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Tiyak ang koneksyon">
 <!ENTITY identity_connection_insecure "Walang katiyakan ang koneksyon">
+<!ENTITY identity_connection_chromeui "Itong ay ligtas &brandShortName; na pahina">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_display_loaded1 "Parte ng pahinang ito ay walang sekyuridad(kagaya ng mga imahe).">
@@ -684,6 +694,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_done "Tapos na">
 
 <!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Magsalita ngayon">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -716,6 +727,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Add-ons">
+<!ENTITY restrictable_feature_block_list "Listahan ng mga nai-block">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -749,6 +761,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Binisita">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Trending">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
