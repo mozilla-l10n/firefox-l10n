@@ -21,7 +21,7 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "সব ট্যাব পুনরায় লোড করুন A">
+<!ENTITY  reloadAllTabs.label                "সব ট্যাব পুনরায় লোড করুন">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
@@ -30,9 +30,9 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "ডানদিকের ট্যাব বন্ধ করুন i">
+<!ENTITY  closeTabsToTheEnd.label            "ডানদিকের ট্যাব বন্ধ করুন">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "অন্যান্য ট্যাব বন্ধ করুন O">
+<!ENTITY  closeOtherTabs.label               "অন্যান্য ট্যাব বন্ধ করুন">
 <!ENTITY  closeOtherTabs.accesskey           "O">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -53,7 +53,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceFeedback.label         "পাঠানো হয়েছে!">
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোতে স্থানান্তর W">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন T…">
+<!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "বন্ধ করা ট্যাব পুনরায় খুলুন U">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -92,7 +92,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "সব ট্যাব পুনরায় লোড A">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "সকল ট্যাব বুকমার্ক করুন T…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "সকল ট্যাব বুকমার্ক করুন…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "বন্ধ করা ট্যাব পুনরায় খুলুন U">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -391,9 +391,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuRecentHighlights.label "বর্তমান হাইলাইট">
 
-<!ENTITY customizeMenu.addToToolbar.label "টুলবারে যোগ করুন A">
+<!ENTITY customizeMenu.addToToolbar.label "টুলবারে যোগ করুন">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "মেনুতে যোগ করুন M">
+<!ENTITY customizeMenu.addToPanel.label "মেনুতে যোগ করুন">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
@@ -402,14 +402,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "ওভারফ্লো মেনুতে যোগ করুন">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "টুলবারে স্থানান্তর করুন o">
+<!ENTITY customizeMenu.moveToToolbar.label "টুলবারে স্থানান্তর করুন">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "মেনুতে স্থানান্তর করুন o">
+<!ENTITY customizeMenu.moveToPanel.label "মেনুতে স্থানান্তর করুন">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "ওভারফ্লো মেনুতে পিন করুন">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
@@ -585,7 +585,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "ছবি নতুনভাবে সংরক্ষণ…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "V ভিডিও নতুনভাবে সংরক্ষণ…">
+<!ENTITY saveVideoCmd.label           "ভিডিও নতুনভাবে সংরক্ষণ…">
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "অডিও নতুনভাবে সংরক্ষণ…">
 <!ENTITY saveAudioCmd.accesskey       "v">
@@ -595,9 +595,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.label          "A অডিও ইমেইল করুন...">
 <!ENTITY emailAudioCmd.accesskey      "A">
-<!ENTITY playPluginCmd.label          "এই প্লাগইনটি সচল করুন c">
+<!ENTITY playPluginCmd.label          "এই প্লাগইনটি সচল করুন">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "প্লাগইনটি আড়াল করুন H">
+<!ENTITY hidePluginCmd.label          "প্লাগইনটি আড়াল করুন">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "লিঙ্কের ঠিকানা অনুলিপি">
 <!ENTITY copyLinkCmd.accesskey        "a">
@@ -655,7 +655,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "পূর্ণ পর্দাজুড়ে">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "স্ন্যাপশট নতুন করে সংরক্ষণ করুন... S">
+<!ENTITY videoSaveImage.label        "স্ন্যাপশট হিসেবে সংরক্ষণ করুন...">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu

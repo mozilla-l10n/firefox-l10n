@@ -20,7 +20,7 @@
 
 <!ENTITY visibilityToggle.tooltip   "স্টাইল শীটের দৃশ্যমানতা টগল করুন">
 
-<!ENTITY saveButton.label           "সংরক্ষণ (S)">
+<!ENTITY saveButton.label           "সংরক্ষণ">
 <!ENTITY saveButton.tooltip         "ফাইলে স্টাইল শীট সংরক্ষণ করুন">
 <!ENTITY saveButton.accesskey       "S">
 

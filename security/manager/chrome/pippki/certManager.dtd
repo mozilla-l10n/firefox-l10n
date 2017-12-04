@@ -84,5 +84,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "সার্টিফিকেটের অবস্থা">
 <!ENTITY exceptionMgr.certstatus.viewCert     "প্রদর্শন…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "এই ব্যতিক্রমটি স্থায়ীরূপে সংরক্ষণ করুন (P)">
+<!ENTITY exceptionMgr.permanent.label         "এই ব্যতিক্রমটি স্থায়ীরূপে সংরক্ষণ করুন">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">

@@ -39,7 +39,7 @@
 <!ENTITY revertCmd.label              "Revert…">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "সংরক্ষণ (S)">
+<!ENTITY saveFileCmd.label            "সংরক্ষণ">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
