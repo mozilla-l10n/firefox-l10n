@@ -69,6 +69,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY forwardCmd.label             "Avanti">
+<!ENTITY forwardButton.tooltip        "Vai avanti di na pàggina">
+<!ENTITY backForwardButtonMenuMac.tooltip "Tira pi sutta p'ammustrari la storia">
+<!ENTITY printButton.label            "Stampa">
 
 
 
@@ -98,6 +102,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY pasteCmd.label           "Ncoḍḍa">
 
 
 
@@ -129,6 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
+<!ENTITY customizeMenu.removeFromMenu.label "Leva dô Menu">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
