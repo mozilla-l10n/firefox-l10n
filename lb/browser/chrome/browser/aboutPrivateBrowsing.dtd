@@ -8,9 +8,18 @@
 
 <!ENTITY privateBrowsing.title                           "Privat surfen">
 <!ENTITY privateBrowsing.title.tracking                  "Privat surfen mat Verfollegungsschutz">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Wann's Du an enger privater Fënster surfs, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "späichert net">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "besichte Säiten">
+<!ENTITY aboutPrivateBrowsing.info.searches              "Recherchen">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "temporär Dateien">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "gëtt gespäichert">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " :">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "Downloads">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Lieszeechen">
+<!ENTITY aboutPrivateBrowsing.note.before                "Privat surfen ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "mécht Dech net anonym">
 
