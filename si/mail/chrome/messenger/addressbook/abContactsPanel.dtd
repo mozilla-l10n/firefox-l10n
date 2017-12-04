@@ -2,23 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "ලිපින පොත:">
 <!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY searchInput.label                  "සොයන්න:">
-<!ENTITY searchInput.accesskey              "o">
+<!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "නම හෝ වි.තැ. ලිපිනය">
 
-<!ENTITY deleteAddrBookCard.label           "මකන්න">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
-<!ENTITY addrBookCardProperties.label       "ලක්ෂණ">
-<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "ලබන්නා තීරුවට යවන්න">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "පිටපත් තීරුවට යවන්න">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "රහස්‍ය පිටපත් තීරුවට යවන්න">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "මකන්න">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.accesskey   "E">
+
+<!ENTITY newListAbContext.accesskey         "L">
 
 <!ENTITY toButton.label                     "ලබන්නා තීරුවට යවන්න:">
 <!ENTITY toButton.accesskey                 "A">
@@ -26,8 +34,3 @@
 <!ENTITY ccButton.accesskey                 "d">
 <!ENTITY bccButton.label                    "රහස්‍ය පිටපත් තීරුවට යවන්න:">
 <!ENTITY bccButton.accesskey                "B">
-
-
-
-
-
