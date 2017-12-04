@@ -24,7 +24,7 @@
 
 <!ENTITY downloads.label     "ডাউনলোড">
 
-<!ENTITY saveTo.label "ফাইল সংরক্ষণের স্থান v">
+<!ENTITY saveTo.label "ফাইল সংরক্ষণের স্থান">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "ব্রাউজ...">
 <!ENTITY chooseFolderWin.accesskey    "o">
