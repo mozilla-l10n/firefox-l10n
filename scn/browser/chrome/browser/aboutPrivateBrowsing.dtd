@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "P'accamora non si nta na finestra privata.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Àpri na finestra privata">
+
+<!ENTITY privateBrowsing.title                           "Navigazzioni Privata">
+<!ENTITY privateBrowsing.title.tracking                  "Navigazzioni Privata cu Prutizzioni">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quannu navighi nta na Finestra Privata, Firefox">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nun sarbari">
+<!ENTITY aboutPrivateBrowsing.info.visited               "pàggini visitati">
+
