@@ -21,6 +21,7 @@
 <!ENTITY abouthome.defaultSnippet2.v1 "Et ass einfach Däi Firefox genee esou ze gestalten wéi's Du et wëlls. <a>Dausenden vun Add-ons stinn zur Auswiel</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 
+<!ENTITY abouthome.bookmarksButton.label "Lieszeechen">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
