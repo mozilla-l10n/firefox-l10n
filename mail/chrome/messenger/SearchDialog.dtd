@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "ලිපි සෙවීම">
 <!ENTITY results.label               "ප්‍රතිඵල">
-<!ENTITY moveHereMenu.label          "Move Here">
-<!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "Move To">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
@@ -34,12 +32,15 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "ලිපියක් ලියන්න">
 <!ENTITY composeButton.accesskey     "W">
+<!ENTITY deleteCardButton.label      "මකන්න">
+<!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "ලිපින පොතේ වැඩිමනත් සවීම්">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "සබැඳි">
 <!ENTITY fromColumn.label "වෙතින්">
 <!ENTITY recipientColumn.label "ලබන්නා">
+<!ENTITY correspondentColumn.label "සාමාජිකයන්">
 <!ENTITY subjectColumn.label "විෂයය">
 <!ENTITY dateColumn.label "දිනය">
 <!ENTITY priorityColumn.label "ප්‍රමුඛතාවය">
@@ -57,22 +58,23 @@
 <!ENTITY idColumn.label "ලැබුණු පිළිටවළ">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "පෙන්වීම සඳහා තීරු තේරීමට ක්ලික් කරන්න">
-<!ENTITY threadColumn.tooltip "බැඳි ලිපි පෙන්වීමට ක්ලික් කරන්න"> 
-<!ENTITY fromColumn.tooltip "එවන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY recipientColumn.tooltip "ලබන්නා අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY subjectColumn.tooltip "විෂයය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY dateColumn.tooltip "දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY priorityColumn.tooltip "ප්‍රමුඛතාවය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY tagsColumn.tooltip "ටැග අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY accountColumn.tooltip "ගිණුම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY statusColumn.tooltip "තත්ත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY sizeColumn.tooltip "විශාලත්වය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY junkStatusColumn.tooltip "නිසරුබව අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY unreadColumn.tooltip "සබැඳිලිපි තුළ ඇති නොකියවූ ලිපි ගණන">
-<!ENTITY totalColumn.tooltip "සබැඳිලිපි තුළ ඇති මුළු ලිපි ගණන">
-<!ENTITY readColumn.tooltip "කියවීම අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY receivedColumn.tooltip "ලැබුණු දිනය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY starredColumn.tooltip "තරු අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY locationColumn.tooltip "ස්ථානය අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
-<!ENTITY idColumn.tooltip "ලැබුණු අනුපිළිවෙළට අනුව පිළිවෙළ කිරීමට ක්ලික් කරන්න">
+<!ENTITY columnChooser2.tooltip "දර්ශනය වන තීරු තෝරන්න">
+<!ENTITY threadColumn2.tooltip "පණිවුඩ දාම පෙන්වන්න">
+<!ENTITY fromColumn2.tooltip "වෙතින් මගින් පෙළ ගසන්න">
+<!ENTITY recipientColumn2.tooltip "ලබන්නා මගින් පෙළ ගසන්න">
+<!ENTITY correspondentColumn2.tooltip "සාමාජිකයන් මගින් පෙළ ගසන්න">
+<!ENTITY subjectColumn2.tooltip "මාතෘකාව මගින් පෙළ ගසන්න">
+<!ENTITY dateColumn2.tooltip "දිනය මගින් පෙළ ගසන්න">
+<!ENTITY priorityColumn2.tooltip "ප්‍රමුඛතාව මගින් පෙළ ගසන්න">
+<!ENTITY tagsColumn2.tooltip "ටැග මගින් පෙළගසන්න">
+<!ENTITY accountColumn2.tooltip "ගිනුම මගින් පෙළ ගසන්න">
+<!ENTITY statusColumn2.tooltip "තත්වය මගින් පෙළ ගසන්න">
+<!ENTITY sizeColumn2.tooltip "ප්‍රමාණය මගින් පෙළ ගසන්න">
+<!ENTITY junkStatusColumn2.tooltip "කසළ තත්වය මගින් පෙළ ගසන්න">
+<!ENTITY unreadColumn2.tooltip "දාමය තුළ නොකියවූ පණිවුඩ ගණන">
+<!ENTITY totalColumn2.tooltip "දාමය තුළ ඇති මුළු පණිවුඩ ගණන">
+<!ENTITY readColumn2.tooltip "කියවුම මගින් පෙළ ගසන්න">
+<!ENTITY receivedColumn2.tooltip "ලැබූ දිනය මගින් පෙළ ගසන්න">
+<!ENTITY starredColumn2.tooltip "තාරුකාව මගින් පෙළ ගසන්න">
+<!ENTITY locationColumn2.tooltip "ස්ථානය මගින් පෙළ ගසන්න">
+<!ENTITY idColumn2.tooltip "ලැබූ පිළිවෙල මගින් පෙළ ගසන්න">
