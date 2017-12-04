@@ -18,6 +18,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
+<!ENTITY abouthome.defaultSnippet2.v1 "Et ass einfach Däi Firefox genee esou ze gestalten wéi's Du et wëlls. <a>Dausenden vun Add-ons stinn zur Auswiel</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
