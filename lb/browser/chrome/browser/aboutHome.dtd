@@ -14,6 +14,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
+<!ENTITY abouthome.defaultSnippet1.v1 "Merci Firefox gewielt ze hunn! Entdeck déi <a>lescht Funktionalitéiten</a> fir voll kënnen vum Dengem Browser ze profitéieren.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
