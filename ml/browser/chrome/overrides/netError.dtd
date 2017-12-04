@@ -8,6 +8,7 @@
 <!ENTITY loadError.label "താള്‍ ലോഡ്‌ ചെയ്യുന്നതില്‍ തകരാര്‍ ">
 <!ENTITY retry.label "വീണ്ടും ശ്രമിക്കുക">
 <!ENTITY returnToPreviousPage.label "തിരികെ പോകൂ">
+<!ENTITY advanced.label "വിപുലമായത്">
 
 <!-- Specific error messages -->
 
@@ -30,11 +31,13 @@
 <!ENTITY generic.longDesc "<p>ചില കാരണങ്ങളാല്‍ &brandShortName;-ന്‌ ഈ താള്‍ ലോഡ്‌ ചെയ്യുവാന്‍ സാധ്യമല്ല</p>">
 
 <!ENTITY captivePortal.title "നെറ്റ്‍വർക്കിൽ പ്രവേശിക്കുക">
+<!ENTITY captivePortal.longDesc2 "<p>ഇന്റർനെറ്റ് ആക്സസ് ചെയ്യുന്നതിനു മുമ്പ് ഈ നെറ്റ്‍വർക്കിലേക്ക് നിങ്ങൾ ലോഗിൻ ചെയ്യണം.</p>">
 
 <!ENTITY openPortalLoginPage.label2 "നെറ്റ്‍വർക്ക് ലോഗിൻ പേജ് തുറക്കുക">
 
 <!ENTITY malformedURI.pageTitle "അസാധുവായ URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "ഹും. ആ വിലാസം ശരിയാണെന്ന് തോന്നുന്നില്ല.">
 
 <!ENTITY netInterrupt.title "ഈ കണക്ഷന്‍ തടസ്സപ്പെട്ടിരിക്കുന്നു">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -72,6 +75,7 @@
 <!ENTITY unknownSocketType.title "സെര്‍വറില്‍ നിന്നും പ്രതീക്ഷിക്കാത്ത പ്രതികരണം">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>പേഴ്സണല്‍ സെക്യൂരിറ്റി മാനേജര്‍ നിങ്ങളുടെ സിസ്റ്റത്തില്‍ ഇന്‍‌സ്റ്റോള്‍ ചെയ്തിട്ടുണ്ട്‌ എന്നു് ഉറപ്പു് വരുത്തുക.</li> <li> എത്‌ ചിലപ്പോള്‍ സെര്‍വറിന്റെ നിലവാരമില്ലാത്ത ക്രമീകരണം മൂലമാകാം.</li> </ul>">
 
+<!ENTITY nssFailure2.title "സുരക്ഷിതമായ കണക്ഷൻ പരാജയപ്പെട്ടു">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>നിങ്ങള്‍ ഇപ്പോള്‍ കാണുവാന്‍ ശ്രമിക്കുന്ന താള്‍ ലഭ്യമല്ല. കാരണം ലഭ്യമായ ഡേറ്റയുടെ ആധികാരികത ഉറപ്പാക്കുവാന്‍ സാധ്യമായില്ല.</li> <li>ഇതു് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ ദയവായി വെബ്സൈറ്റ് ഉടമസ്ഥരെ അറിയിക്കുക.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "നിങ്ങളുടെ കണക്ഷൻ സുരക്ഷിതമല്ല">
