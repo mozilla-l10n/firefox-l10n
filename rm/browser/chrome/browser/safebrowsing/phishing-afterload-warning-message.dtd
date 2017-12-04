@@ -28,24 +28,38 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> è vegnì <a id='error_desc_link'>rapportà sco pagina che cuntegna software donnegiusa</a>. Ti pos <a id='report_detection'>annunziar ina categorisaziun sbagliada</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Ve a savair dapli davart cuntegn da web donnegius, sco virus ed autra software donnegiusa e co proteger tes computer da quests privels sin <a id='learn_more_link'>StopBadware.org</a>. Ve a savair dapli davart la protecziun da &brandShortName; cunter phishing e software donnegiusa sin <a id='firefox_support'>support.mozilla.org</a>.">
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "Questa website pudess cuntegnair programs donnegius">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ha bloccà questa pagina perquai ch'ella emprova da ta far installar programs che tangheschan tia experientscha da navigar (per exempel cun midar tia pagina da partenza u mussar reclamas supplementaras sin paginas che ti visitas).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> è vegnì <a id='error_desc_link'>rapportà sco pagina che cuntegna software donnegiusa</a>. Ti pos <a id='ignore_warning_link'>ignorar quest avertiment</a> e visitar questa pagina malsegira.">
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> è vegnì rapportà <a id='error_desc_link'>sco pagina che cuntegna software donnegiusa</a>.">
+
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Consultescha las <a id='learn_more_link'>Directivas areguard software nungiavischada</a> per vegnir a savair dapli davart software nungiavischada e software donnegiusa. Ve a savair dapli davart la protecziun da &brandShortName; cunter phishing e software donnegiusa sin <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-
-
+<!ENTITY safeb.blocked.phishingPage.title3 "Bloccà ina pagina che engiona">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; ha bloccà questa pagina perquai ch'ella emprova forsa da ta surmanar a far insatge privlus sco installar software u tradir infurmaziuns persunalas (p.ex. pleds-clav u cartas da credit).">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> è vegnì <a id='error_desc_link'>rapportada sco pagina che engiona</a>. Ti sas <a id='report_detection'>annunziar in problem da categorisaziun</a> u <a id='ignore_warning_link'>ignorar quest avertiment</a> e visitar la pagina privlusa.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> è vegnì <a id='error_desc_link'>rapportada sco pagina che engiona</a>. Ti pos <a id='report_detection'>annunziar ina categorisaziun sbagliada</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Ve a savair dapli davart paginas che engionan e phising sin <a id='learn_more_link'>www.antiphishing.org</a>. Ve a savair dapli davart la protecziun da &brandShortName; cunter phishing e software donnegiusa sin <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "La pagina en mira cuntegna eventualmain malware">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; ha bloccà questa pagina perquai ch'ella emprova eventualmain dad installar applicaziuns privlusas che engolan u stizzan tias datas (p.ex. fotos, pleds-clav, messadis e cartas da credit).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> è vegnì <a id='error_desc_link'>rapportà sco pagina che cuntegna ina applicaziun potenzialmain donnegiusa</a>. Ti pos <a id='ignore_warning_link'>ignorar quest avertiment</a> e visitar questa pagina malsegira.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> è vegnì <a id='error_desc_link'>rapportà sco pagina che cuntegna ina applicaziun potenzialmain donnegiusa</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Ve a savair dapli davart la protecziun da &brandShortName; cunter phishing e software donnegiusa sin <a id='firefox_support'>support.mozilla.org</a>.">

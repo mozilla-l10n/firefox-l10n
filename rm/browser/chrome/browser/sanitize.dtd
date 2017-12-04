@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "Stizzar las suandantas datas cura che jau terminesch &brandShortName;:">
 
+<!ENTITY clearDataSettings3.label     "Stizzar las suandantas datas cura che jau terminesch &brandShortName;">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
