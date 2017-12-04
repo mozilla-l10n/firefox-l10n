@@ -74,12 +74,16 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "Den Update ass feelgeschloen. ">
 <!ENTITY update.failed.linkText     "Déi lescht Versioun eroflueden">
+<!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Aktualiséierung disponibel ënner ">
+<!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -87,7 +91,9 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.start    "Op dësem System si keng weider Aktualiséierungen méiglech. ">
 <!ENTITY update.unsupported.linkText "Fir méi ze wëssen">
+<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -95,6 +101,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Aktualisatioun gëtt erofgelueden — ">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Aktualisatioun gëtt duerchgefouert…">
 
