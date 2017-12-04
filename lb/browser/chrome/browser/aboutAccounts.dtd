@@ -4,3 +4,11 @@
 
 <!ENTITY aboutAccounts.welcome "Wëllkomm bei &syncBrand.shortName.label;">
 
+<!ENTITY aboutAccountsConfig.description "Loggt Iech a fir Är Tabs, Lieszeechen, Passwierder &amp; méi ze synchroniséieren.">
+<!ENTITY aboutAccountsConfig.startButton.label "Fir unzefänken">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Astellunge vun der Synchronisatioun">
+<!ENTITY aboutAccounts.noConnection.title "Keng Verbindung">
+<!ENTITY aboutAccounts.noConnection.description "Dir musst mam Internet verbonne sinn fir Iech anzeloggen.">
+<!ENTITY aboutAccounts.noConnection.retry "Nach eng Kéier probéieren">
+<!ENTITY aboutAccounts.badConfig.title "Falsch Astellung">
+<!ENTITY aboutAccounts.badConfig.description "Är Firefox Benotzerkont Server Astellung konnt net bestëmmt ginn. Probéiert w.e.g. méi spéit nach eng Kéier.">
