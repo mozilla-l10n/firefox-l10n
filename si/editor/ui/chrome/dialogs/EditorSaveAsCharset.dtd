@@ -7,10 +7,10 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "අනුලකුණු කේතනය වෙනස් කිරීම සහ සුරැකීම">
+<!ENTITY windowTitle2.label "පෙළ සංකේතනය සුරැකීම හා වෙනස් කිරීම">
 <!ENTITY documentTitleTitle.label "පිටු සිරස්තලය">
-<!ENTITY documentCharsetTitle.label "අනුලකුණු කේතනය">
-<!ENTITY documentCharsetDesc.label "ඔබට ලේඛණය සුරැකීමට අවශ්‍ය අනුලකුණු කේතනය තෝරන්න:">
+<!ENTITY documentCharsetTitle2.label "පෙළ සංකේතනය">
+<!ENTITY documentCharsetDesc2.label "ඔබට ලේඛනය සුරැකීමට අවශ්‍ය පෙළ සංකේතනය තෝරන්න:">
 <!ENTITY documentExportToText.label "පාඨ ලෙසට නිර්යාත කරන්න">
 
 

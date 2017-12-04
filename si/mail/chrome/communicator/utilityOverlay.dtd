@@ -2,63 +2,57 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- these things need to move into utilityOverlay.xul -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!ENTITY fileMenu.label          "ගොනුව">
+<!ENTITY fileMenu.accesskey        "F">
+<!ENTITY newMenu.label            "නව">
+<!ENTITY newMenu.accesskey          "N">
 
-<!ENTITY fileMenu.label					"ගොනු"> 
-<!ENTITY fileMenu.accesskey				"F">
-<!ENTITY newMenu.label					"නව">
-<!ENTITY newMenu.accesskey				"N">
-
-<!ENTITY editMenu.label					"සැකසුම්"> 
-<!ENTITY editMenu.accesskey				"E"> 
-<!ENTITY undoCmd.label					"අහෝසි කරන්න">  
-<!ENTITY undoCmd.key					"Z">  
-<!ENTITY undoCmd.accesskey				"U"> 
-<!ENTITY redoCmd.label					"යළි කරන්න">  
-<!ENTITY redoCmd.key					"Y">  
-<!ENTITY redoCmd.accesskey				"R"> 
-<!ENTITY cutCmd.label					"කපන්න">  
-<!ENTITY cutCmd.key					"X">  
-<!ENTITY cutCmd.accesskey				"t"> 
-<!ENTITY copyCmd.label					"පිටපත් කරන්න">  
-<!ENTITY copyCmd.key					"C">  
-<!ENTITY copyCmd.accesskey				"C"> 
-<!ENTITY pasteCmd.label					"අලවන්න">  
-<!ENTITY pasteCmd.key					"V">  
-<!ENTITY pasteCmd.accesskey				"P"> 
-<!ENTITY deleteCmd.label				"මකන්න">  
-<!ENTITY deleteCmd.accesskey				"D"> 
-<!ENTITY selectAllCmd.label				"සියල්ල තෝරන්න">  
-<!ENTITY selectAllCmd.key				"A">  
-<!ENTITY selectAllCmd.accesskey				"A"> 
-<!ENTITY preferencesCmd.label				"විකල්ප...">
-<!ENTITY preferencesCmd.accesskey			"O"> 
+<!ENTITY editMenu.label          "සැකසුම්">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label            "අහෝසි කරන්න">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "යළි කරන්න">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label            "කපන්න">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label            "පිටපත් කරන්න">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label            "අලවන්න">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "P">
+<!ENTITY deleteCmd.label          "මකන්න">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label          "සියල්ල තෝරන්න">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "A">
+<!ENTITY preferencesCmd2.label "විකල්ප">
+<!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "මනාපයන්">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY viewMenu.label					"දසුන්"> 
-<!ENTITY viewMenu.accesskey				"V"> 
-<!ENTITY viewToolbarsMenu.label				"මෙවලම් තීරු"> 
-<!ENTITY viewToolbarsMenu.accesskey			"T"> 
-<!ENTITY showTaskbarCmd.label				"තත්ත්ව තීරුව">  
-<!ENTITY showTaskbarCmd.accesskey			"S"> 
+<!ENTITY viewMenu.label          "දසුන්">
+<!ENTITY viewMenu.accesskey        "V">
+<!ENTITY viewToolbarsMenu.label        "මෙවලම් තීරු">
+<!ENTITY viewToolbarsMenu.accesskey      "T">
+<!ENTITY showTaskbarCmd.label          "තත්ත්ව තීරුව">
+<!ENTITY showTaskbarCmd.accesskey        "S">
 
-<!ENTITY proxy.label                                    "ප්‍රොක්සි වින්‍යාස (Configuration) කිරීම...">
-<!ENTITY proxy.accesskey                                "C">
+<!ENTITY closeCmd.label      "වසන්න">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "C">
 
-<!ENTITY closeCmd.label			"වසන්න">  
-<!ENTITY closeCmd.key			"W">  
-<!ENTITY closeCmd.accesskey		"C">
+<!ENTITY quitApplicationCmd.label  "පිටවෙන්න">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "x">
 
-<!ENTITY quitApplicationCmd.label	"පිටවෙන්න"> 
-<!ENTITY quitApplicationCmd.key		"Q"> 
-<!ENTITY quitApplicationCmd.accesskey	"x">
-
-<!ENTITY quitApplicationCmdUnix.label	"පිටවෙන්න"> 
-<!ENTITY quitApplicationCmdUnix.accesskey	"Q">
+<!ENTITY quitApplicationCmdUnix.label  "පිටවෙන්න">
+<!ENTITY quitApplicationCmdUnix.accesskey  "Q">
 
 <!ENTITY quitApplicationCmdMac.label  "&brandShortName; පිටවෙන්න">
 <!ENTITY quitApplicationCmdMac.accesskey  "q">
-
