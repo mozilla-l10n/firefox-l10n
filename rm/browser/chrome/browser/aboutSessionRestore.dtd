@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "I dat difficultads cun restaurar tia ultima sesida da navigar. Tscherna «Restaurar la sesida» per empruvar danovamain.">
 <!ENTITY restorepage.tryThis2       "Na funcziunescha la restauraziun anc adina betg? Mintgatant fa in tab problems. Controllescha ils ultims tabs, allontanescha il crutsch dals tabs che ti na dovras betg pli ed emprova lura anc ina giada da restaurar.">
 
+<!ENTITY restorepage.hideTabs       "Zuppentar ils tabs precedents">
+<!ENTITY restorepage.showTabs       "Mussar ils tabs precedents">
+
 <!ENTITY restorepage.tryagainButton2 "Restaurar la sesida">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Cumenzar ina nova sesida">
