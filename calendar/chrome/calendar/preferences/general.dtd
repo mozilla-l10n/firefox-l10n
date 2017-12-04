@@ -34,9 +34,16 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relativamain a l'ura proxima">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Lastra dal di">
-<!ENTITY pref.soondays.label "La secziun per proxims elements mussa:">
+<!ENTITY pref.soondays.label "La secziun «Proximamain» mussa:">
 <!ENTITY pref.soondays.accesskey "p">
+
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
 
 <!ENTITY pref.accessibility.label "Accessibladad" >
 <!ENTITY pref.systemcolors.label "Optimar colurs per l'accessibladad" >
 <!ENTITY pref.systemcolors.accesskey "c">
+

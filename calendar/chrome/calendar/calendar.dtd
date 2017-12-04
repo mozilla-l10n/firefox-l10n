@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Oz">
 <!ENTITY calendar.tomorrow.button.label       "Damaun">
-<!ENTITY calendar.upcoming.button.label       "Proxims">
+<!ENTITY calendar.upcoming.button.label       "Proximamain">
 
 <!ENTITY calendar.events.filter.all.label "Tut ils eveniments">
 <!ENTITY calendar.events.filter.today.label "Ils eveniments dad oz">
