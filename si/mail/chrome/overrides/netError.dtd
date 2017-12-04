@@ -33,6 +33,13 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "මෙම ගොනුවට පිවිසීම අවහිර කර ඇත">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>එය ඉවත් කර , ස්ථාන මාරු කර හෝ, ගොනු අවසරදීම් මගින් පිවිසුම වළකාලීම සිදුවේ .</li>
+</ul>
+">
+
 <!ENTITY generic.title "ඔහ්!">
 <!ENTITY generic.longDesc "
 <p>කුමන හෝ හේතුවක් නිසා මේ පිටුව &brandShortName; හට පූරණය කළ නොහැක.</p>
@@ -54,6 +61,12 @@
 <!ENTITY notCached.longDesc "<p>ඉල්ලූ ලේඛනය &brandShortName;හි කෑෂ් තුළ නැත.</p><ul><li> ආරක්ෂක ක්‍රමවේදයක් ලෙස, &brandShortName; ස්වයංක්‍රීයව සංවේදී දත්ත සහිත ලේඛන යළි ලබා ගන්නේ නැත.</li><li>වෙබ් අඩවියෙන් ලේඛන යළි ලබා ගැනීමට නැවත උත්සාහ කරන්න මත ක්ලික් කරන්න.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
+
 <!ENTITY contentEncodingError.title "අන්තර්ගත සංකේතාංකන දෝෂය">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -74,10 +87,10 @@
 <!ENTITY netTimeout.title "සම්බන්ධක කාළය ඉකුත් විය">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "ලිපිනය අවබෝධ කරගත නොහැකි විය">
-<!ENTITY protocolNotFound.longDesc "
+<!ENTITY unknownProtocolFound.title "ලිපිනය තේරුම් ගැනීමට නොහැක">
+<!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>මෙම ලිපිනය විවෘත කිරීම සඳහා ඔබට වෙනත් මෘදුකාංගයක් ස්ථාපනය කිරිමට සිදු විය හැකිය.</li>
+  <li>මෙම ලිපිනය විවෘත කිරීම සඳහා ඔබට වෙනත් මෘදුකාංග ස්ථාපනයට සිදුවනු ඇත.</li>
 </ul>
 ">
 
@@ -114,12 +127,6 @@
 ">
 
 <!ENTITY nssFailure2.title "ආරක්‍ෂිත සම්බන්ධය බිද වැටිනි">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>ඔබට නැරඹීමට උත්සාහ කරන පිටුවේන් ලැබුණු දත්ත වල සත්‍යාපනය පිරික්සිය නොහැකි විය.</li>
-  <li>මෙම ගැටළුව දැන්වීම සඳහා කරුණාකර වෙබ් අඩවියේ හිමිකරු හමුවන්න.</li>
-</ul>
-">
 
 <!ENTITY nssBadCert.title "ආරක්‍ෂිත සම්බන්ධය බිද වැටිනි">
 <!ENTITY nssBadCert.longDesc2 "
@@ -137,61 +144,30 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "සැකසහිත ප්‍රහාරත්මක අඩවියක්!">
-<!ENTITY malwareBlocked.longDesc "
-<p>ප්‍රහාරක අඩවි පෞද්ගලික දත්ත සොරකම් කළ හැකි,  වෙනත් අයට හානි කිරීමට ඔබගේ පද්ධතිය භාවිතා කළ හැකි, ඔබගේ පද්ධතියට හානි කළ හැකි වැඩසටහන් ස්ථාපනය කළ හැකිය.</p>
-<p>දෝෂයක් නිසා තමාගේ අඩවිය අක්‍රමණය අඩවියක් ලෙස වාර්තා කරැති බව විශ්වාස කරන වෙබ් අඩවි හිමිකරුවන් <a href='http://www.stopbadware.org/home/reviewinfo' > යළි සලකා බැලීමට ඉල්ලීමක් කරන්න</a>.</p>
-">
+<!ENTITY cspBlocked.title "අන්තර්ගත ආරක්ෂක ප්‍රතිපත්තිය මගින් වළකා ඇත">
+<!ENTITY cspBlocked.longDesc "<p>අන්තර්ගත ආරක්ෂක ප්‍රතිපත්තිය මගින් ඉඩ නොදෙන නිසා &brandShortName; මගින් මෙම පිටුව පූර්ණය වීම වළකා ඇත.</p>">
 
-<!ENTITY phishingBlocked.title "සැක කළ ව්‍යාජ වෙව් අඩවියක්!">
-<!ENTITY phishingBlocked.longDesc "
-<p>මෙම පිටුවේදී ඕනෑම තොරතුරක් ඇතුළත් කිරීම අනන්‍යතා සොරා ගැනීමකට හෝ වෙනත් වංචාවකට හේතු විය හැක.</p>
-<p>මෙවැනි ව්‍යාජ වෙබ් phishing ආක්‍රමණ ලෙස හදුන්වන වංචාවන් තුළ ඇත, එම ව්‍යාජ වෙබ් පිටු විද්‍යුත් තැපැල් තුළ ඔබ විශ්වාස කරන මූලයක් අනුකරණය කිරීම මඟින්  තොරතුරු අනාවරණය කරගනී.</p>
-">
+<!ENTITY corruptedContentErrorv2.title "දූශිත අන්තර්ගත දෝශයක්">
 
 <!ENTITY securityOverride.linkText "හෝ ඔබට හැරදැමීමක් එක් කළ හැකිය…">
 <!ENTITY securityOverride.getMeOutOfHereButton "මා මෙතනින් ඉවතට ගන්න!">
 <!ENTITY securityOverride.exceptionButtonLabel "හැරදැමීමක් එක් කරන්න…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to thunderbird. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
 
-<!-- <!ENTITY securityOverride.warningText "
-<p>ඔබ පූර්ණ විශ්වාසයක් නොමැති අන්තර්ජාල සම්බන්ධතාවයක් භාවිතා කරයි නම් හෝ ඔබ මෙම අඩවියට අවවාද පණිවිඩ දැක නැත්නම් ඔබ හැරදැමීම් එක් කළ නොකළ යුතුයි.
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-"> -->
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY securityOverride.warningContent "
 <p>ඔබ පූර්ණ විශ්වාසයක් නොමැති අන්තර්ජාල සම්බන්ධතාවයක් භාවිතා කරයි නම් හෝ ඔබ මෙම අඩවියට අවවාද පණිවිඩ දැක නැත්නම් ඔබ හැරදැමීම් එක් කළ නොකළ යුතුයි.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>මේ සඳහා ඉඩ නොදෙන අන්තර්ගත ආරක්ෂක ප්‍රතිපත්තියක් පිටුවේ ඇති නිසා  &brandShortName; මේ ආකාරයෙන් පූරණය කිරීමෙන් වැලකී සිටී.</p>">
+
+<!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>කරුණාකර මෙම ගැටලුව පිළිබද අඩවියේ හිමිකරුට දන්වන්න.</li></ul></p>">
-<!ENTITY cspFrameAncestorBlocked.title "ආරක්ෂක ප්‍රතිපත්තියට අනුව අවහිර කර ඇත">
 
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY corruptedContentError.longDesc "<p>The content you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the owners to inform them of this problem.</li></ul>">
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">
+<!ENTITY inadequateSecurityError.title "ඔබේ සබඳතාව ආරක්ෂිත නොමැත">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

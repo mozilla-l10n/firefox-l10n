@@ -4,12 +4,12 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "Find and Replace">
-<!ENTITY findField.label "පාඨ :">
+<!ENTITY replaceDialog.title "සොයා යළි පිහිටුවන්න">
+<!ENTITY findField.label "පෙළ සොයන්න :">
 <!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "Replace with:">
+<!ENTITY replaceField.label "යළි පිහිටුවන්නේ:">
 <!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "Match upper/lower case">
+<!ENTITY caseSensitiveCheckbox.label "කුඩා/ලොකු අකුරු ගළපන්න">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "පේළි කඩන්න">
 <!ENTITY wrapCheckbox.accesskey "W">
@@ -17,11 +17,11 @@
 <!ENTITY backwardsCheckbox.accesskey "b">
 <!ENTITY findNextButton.label "ඊළඟ ගැලපුම සොයන්න">
 <!ENTITY findNextButton.accesskey "F">
-<!ENTITY replaceButton.label "Replace">
+<!ENTITY replaceButton.label "යළි පිහිටුවන්න">
 <!ENTITY replaceButton.accesskey "R">
-<!ENTITY replaceAndFindButton.label "Replace and Find">
+<!ENTITY replaceAndFindButton.label "සොයා යළි පිහිටුවන්න">
 <!ENTITY replaceAndFindButton.accesskey "d">
-<!ENTITY replaceAllButton.label "Replace All">
+<!ENTITY replaceAllButton.label "සියළ්ල යළි පිහිටුවන්න">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "වහන්න">
-
+<!ENTITY closeButton.accesskey "C">
