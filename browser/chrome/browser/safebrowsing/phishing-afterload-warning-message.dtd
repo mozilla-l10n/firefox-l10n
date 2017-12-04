@@ -35,6 +35,7 @@
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> ദോഷകരമായ സോഫ്റ്റവെയർ അടിങ്ങിയിരിക്കുന്നതായി <a id='error_desc_link'>റിപ്പോർട്ട് ചെയ്യപ്പെട്ടിരിക്കുന്നു</a>.">
 
 
 
