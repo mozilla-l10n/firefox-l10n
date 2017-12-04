@@ -202,12 +202,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "საიტის ინფორმაციის ჩვენება">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "შეტყობინებების პანელის გახსნა">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "მდებარეობის მოთხოვნის პანელის გახსნა">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "დამატების ჩადგმისას შეტყობინების არის გახსნა">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "შეტყობინებების არე">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "მდებარეობის მოთხოვნის არე">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "დამატების ჩადგმის შეტყობინების არის გახსნა">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "გრაფიკული ელემენტების გამოსახვის უფლებების მართვა">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "კავშირგარეშე საცავის შეტყობინების პანელის გახსნა">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "პაროლის შენახვის შეტყობინების პანელის გახსნა">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "კავშირგარეშე საცავის შეტყობინების არის გახსნა">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "პაროლის შენახვის შეტყობინების არის გახსნა">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "გამოყენებული მოდულების მართვა">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "აირჩიეთ მიიღოთ თუ არა შეტყობინებები ამ საიტისგან">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "მონაცემების შენახვა მუდმივ მეხსიერებაზე">
@@ -217,7 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "საიტისთვის თქვენი მიკროფონის გაზიარების მართვა">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "საიტისთვის თქვენი ფანჯრების ან ეკრანის გაზიარების მართვა">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ჩადგმისას შეტყობინების არის გახსნა">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ჩადგმის შეტყობინების არის გახსნა">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "გვერდის თარგმნა">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "გვერდის თარგმნის მართვა">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
