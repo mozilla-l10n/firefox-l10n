@@ -4,7 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-<!ENTITY ChooseOtherApp.description "სხვა აპლიკაციის არჩევა">
-<!ENTITY ChooseApp.label "შერჩევა…">
-<!ENTITY ChooseApp.accessKey "C">
+<!ENTITY ChooseOtherApp.description "სხვა პროგრამის არჩევა">
+<!ENTITY ChooseApp.label "მოძიება…">
+<!ENTITY ChooseApp.accessKey "მ">
 <!ENTITY accept "ბმულის გახსნა">
