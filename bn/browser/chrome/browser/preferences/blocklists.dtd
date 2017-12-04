@@ -10,5 +10,5 @@
 
 <!ENTITY button.cancel.label          "বাতিল C">
 <!ENTITY button.cancel.accesskey      "C">
-<!ENTITY button.ok.label              "পরিবর্তন সংরক্ষণ করুন S">
+<!ENTITY button.ok.label              "পরিবর্তন সংরক্ষণ করুন">
 <!ENTITY button.ok.accesskey          "S">

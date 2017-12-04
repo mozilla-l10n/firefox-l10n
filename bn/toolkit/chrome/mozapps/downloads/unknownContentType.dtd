@@ -10,7 +10,7 @@
 <!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "অন্যান্য…">
 
-<!ENTITY  saveFile.label              "ফাইল সংরক্ষণ (S)">
+<!ENTITY  saveFile.label              "ফাইল সংরক্ষণ">
 <!ENTITY  saveFile.accesskey          "S">
 
 <!ENTITY  rememberChoice.label        "এই ধরনের ফাইলের জন্য এখন থেকে স্বয়ংক্রিয়ভাবে এই ব্যবস্থা গ্রহণ করা হবে। (a)">
