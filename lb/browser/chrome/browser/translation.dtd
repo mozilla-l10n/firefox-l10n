@@ -44,18 +44,26 @@
 <!ENTITY translation.errorTranslating.label     "Et gouf e Feeler beim Iwwersetze vun dëser Säit.">
 <!ENTITY translation.tryAgain.button            "Nach eng Kéier probéieren">
 
+<!ENTITY translation.serviceUnavailable.label   "D'Iwwersetzung ass den Ament net disponibel. Probéier w.e.g. méi spéit nach eng Kéier.">
 
+<!ENTITY translation.options.menu               "Optiounen">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
+<!ENTITY translation.options.neverForSite.label "Dëse Site ni iwwersetzen">
+<!ENTITY translation.options.neverForSite.accesskey "n">
+<!ENTITY translation.options.preferences.label  "Iwwersetzungsastellungen">
+<!ENTITY translation.options.preferences.accesskey "I">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+<!ENTITY translation.options.attribution.beforeLogo "Iwwersetzunge vu(n)">
+<!ENTITY translation.options.attribution.afterLogo "">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
@@ -64,3 +72,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
+<!ENTITY translation.options.attribution.yandexTranslate "Zur Verfügung gestallt vu Yandex.Translate">
