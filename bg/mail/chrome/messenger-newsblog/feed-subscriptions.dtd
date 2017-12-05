@@ -39,7 +39,7 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Добавяне">
 <!ENTITY button.addFeed.accesskey    "Д">
-<!ENTITY button.updateFeed.label     "Актуализиране">
+<!ENTITY button.updateFeed.label     "Обновяване">
 <!ENTITY button.updateFeed.accesskey "а">
 <!ENTITY button.removeFeed.label     "Премахване">
 <!ENTITY button.removeFeed.accesskey "П">
