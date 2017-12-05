@@ -91,6 +91,7 @@
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Gecko પ્લેટફોર્મ માહિતીને બતાવો">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "પ્લેટફોર્મ ડેટા બતાવતા JavaScript પ્રોફાઇલર અહેવાલને સક્ષમ કરે છે જેમાં Gecko પ્લેટફોર્મ પ્રતીકોનો સમાવેશ થાય છે.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
