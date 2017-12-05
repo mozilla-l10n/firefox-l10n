@@ -28,4 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Verfollegungsschutz">
+<!ENTITY trackingProtection.description2                 "Verschidde Internetsitte benotzen Tracker, déi Deng Aktivitéit um Internet verfollegen. Mam Verfollegungsschutz blockéiert de Firefox vill Tracker déi Informatiounen iwwer Déng Surfgewunnechten sammele kënnen.">
 <!ENTITY trackingProtection.startTour1                   "Gewuer ginn wéi et funktionéiert">
