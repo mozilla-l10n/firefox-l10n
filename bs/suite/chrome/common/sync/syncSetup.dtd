@@ -52,13 +52,44 @@
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Dodajte uređaj">
 <!ENTITY addDevice.showMeHow.label          "Pokaži mi kako.">
+<!ENTITY addDevice.dontHaveDevice.label     "Nemam uređaj sa sobom">
+<!ENTITY addDevice.setup.description.label  "Da aktivirate, idite na &syncBrand.shortName.label; Postavke/Opcije na vašem drugom uređaju i izaberite &#x0022;Dodatj uređaj&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Zatim, unesite ovaj kod:">
+<!ENTITY addDevice.dialog.description.label "Da aktivirate vaš novi uređaj, idite na &syncBrand.shortName.label; Postavke/Opcije na uređaju i izaberite &#x0022;Poveži.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Unesite kod koji uređaj obezbjeđuje:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Molimo pokušajte ponovo.">
+<!ENTITY addDevice.dialog.successful.label  "Uređaj je uspješno dodan. Početna sinhronizacija može potrajati nekoliko minuta i završit će se u pozadini.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Da aktivirate vaš uređaj morat ćete unijeti vaš ključ za oporavak. Molimo da odštampate ili sačuvate ovaj ključ i nosite ga sa sobom.">
+<!ENTITY addDevice.dialog.connected.label   "Uređaj povezan">
 
 <!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Prijavite se">
+<!ENTITY existingRecoveryKey.description "Možete dobiti kopiju vašeg ključa za oporavak ako odete na &syncBrand.shortName.label; Postavke/Opcije na vašem drugom uređaju, i izaberete &#x0022;Moj ključ za oporavak&#x0022; ispod &#x0022;Upravljanje računom&#x0022;.">
+<!ENTITY verifying.label              "Provjera…">
+<!ENTITY resetPassword.label          "Resetuj lozinku">
+<!ENTITY resetSyncKey.label           "Izgubio sam svoj drugi uređaj.">
 
 <!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Sync opcije">
+<!ENTITY syncComputerName.label       "Naziv računara:">
 
+<!ENTITY syncMy.label               "Sync moje">
+<!ENTITY engine.addons.label        "Dodatke">
+<!ENTITY engine.bookmarks.label     "Zabilješke">
+<!ENTITY engine.tabs.label          "Tabove">
+<!ENTITY engine.history.label       "Historiju">
+<!ENTITY engine.passwords.label     "Lozinke">
+<!ENTITY engine.prefs.label         "Postavke">
 
+<!ENTITY choice2.merge.main.label      "Spoji podatke ovog računara s mojim &syncBrand.shortName.label; podacima">
+<!ENTITY choice2.merge.recommended.label "(preporučeno)">
+<!ENTITY choice2.client.main.label     "Zamijenite sve podatke na ovom računaru s mojim &syncBrand.shortName.label; podacima">
+<!ENTITY choice2.server.main.label     "Zamijenite podatke svih drugih uređaja s podacima ovog računara">
 
 <!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Potvrdi">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; će sada spojiti sve podatke browsera ovog računara u vaš Sync račun.">
+<!ENTITY confirm.client2.label         "Upozorenje: Sljedeći &brandShortName; podaci na ovom računaru će biti izbrisani:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; će potom kopirati vaše &syncBrand.fullName.label; podatke na ovaj računar.">
 
 <!-- New & Existing Account: Setup Complete -->
