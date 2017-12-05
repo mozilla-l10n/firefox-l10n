@@ -8,6 +8,7 @@
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "નવી એપ્લિકેશન…">
 <!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "પેક થયેલ એપ્લિકેશન ખોલો…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 <!ENTITY projectMenu_importHostedApp_label "યજમાનિત થયેલ એપ્લિકેશન ખોલો…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
@@ -120,6 +121,7 @@
 <!ENTITY runtimedetails_title "રનટાઇમ માહિતી">
 <!ENTITY runtimedetails_adbIsRoot "ADB મૂળ છે: ">
 <!ENTITY runtimedetails_summonADBRoot "મૂળ ઉપકરણ">
+<!ENTITY runtimedetails_ADBRootWarning "(ખુલ્લા બુટલોડરની જરૂર છે)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "પ્રતિબંધિત DevTools અધિકારો: ">
 <!ENTITY runtimedetails_requestPrivileges "ઉચ્ચ વિશેષાધિકારોની વિનંતી કરો">
 <!ENTITY runtimedetails_privilegesWarning "(ઉપકરણ ફરીથી ચાલુ થશે. રૂટ અધિકારની જરૂર છે.)">
