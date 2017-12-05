@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otvori ploču s porukama">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otvori ploču sa zahtjevima lokacije">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otvori ploču s informacijama o instaliranim dodacima">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljanje dozvolama za ekstrakciju canvasa">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvori ploču s informacijama o lokalnom pohranjivanju">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvori ploču s informacijama o spremljenim lozinkama">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje korištenjem priključaka">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ovoj ste stranici zabranili slanje obavijesti.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ovoj ste stranici zabranili mogućnost trajne pohrane podataka.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "Blokirali ste pop-up prozore za ovu web stranicu.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
 
@@ -857,6 +859,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Preuzmite dodatne teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
 <!ENTITY customizeMode.emptyOverflowList.description "Dovucite i ispustite stavke ovdje kako biste ih zadržali blizu, ali izvan vaše alatne trake…">
+<!ENTITY customizeMode.overflowList.title2 "Dodatni meni">
+<!ENTITY customizeMode.overflowList.description "Ovdje dovucite stavke kako bi vam bile blizu ali izvan vaše alatne trake…">
 <!ENTITY customizeMode.uidensity "Gustoća">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
