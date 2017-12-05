@@ -16,3 +16,5 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
 <!ENTITY LinkURLEditField.accessKey "l">
+<!ENTITY LinkURLEditField2.label "مکان یک صفحه وب، یک پرونده محلّی، یا یک لنگر نام گذاری شده یا یک عنوان از منوی زمینهٔ فیلد را وارد کنید:">
+<!ENTITY LinkURLEditField2.accessKey "و">

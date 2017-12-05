@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Page Colors and Background">
 <!ENTITY pageColors.label "Page Colors">
 <!ENTITY defaultColorsRadio.label "Reader's default colors (Don't set colors in page)">
@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "تصویر پس‌زمینه:">
 <!ENTITY backgroundImage.accessKey "ت">
 <!ENTITY backgroundImage.tooltip "استفاده از یک پرونده‌ی تصویری به عنوان پس زمینه برای صفحه‌ی شما">
-
+<!ENTITY backgroundImage.shortenedDataURI "داده کوتاه شدهٔ URI (کپی URI کامل را در کلیپ بورد قرار خواهد داد)">
