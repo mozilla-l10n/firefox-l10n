@@ -15,10 +15,24 @@
 
 <!ENTITY  mediaTab              "Medien">
 <!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaText             "Associéierten Text:">
+<!ENTITY  mediaAltHeader        "Alternativen Text">
+<!ENTITY  mediaAddress          "Adress">
+<!ENTITY  mediaType             "Typ">
+<!ENTITY  mediaSize             "Gréisst">
+<!ENTITY  mediaCount            "Zuel">
+<!ENTITY  mediaDimension        "Dimensiounen:">
+<!ENTITY  mediaLongdesc         "Laang Beschreiwung:">
+<!ENTITY  mediaSaveAs           "Späicheren Ënner…">
+
+<!ENTITY  feedSubscribe         "Abonnéieren">
+
+<!ENTITY  permAskAlways         "Ëmmer froen">
+<!ENTITY  permAllow             "Erlaben">
+<!ENTITY  permAllowSession      "Fir d'Sessioun erlaben">
 
 
-
-
+<!ENTITY  securityTab           "Sécherheet">
 
 
 
