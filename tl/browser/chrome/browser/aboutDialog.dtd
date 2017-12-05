@@ -14,6 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Magsiyasat ng mga pagbabago">
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
+<!ENTITY update.updateButton.label3               "I-restart upang i-update ang &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
