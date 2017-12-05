@@ -11,7 +11,7 @@
 
 <!ENTITY loading.label                        "Учитавање…">
 <!ENTITY listEmpty.installed.label            "Нисте инсталирали ниједан додатак ове врсте">
-<!ENTITY listEmpty.availableUpdates.label     "Нема надоградњи">
+<!ENTITY listEmpty.availableUpdates.label     "Нема ажурирања">
 <!ENTITY listEmpty.recentUpdates.label        "Нисте недавно ажурирали додатке">
 <!ENTITY listEmpty.findUpdates.label          "Провери да ли постоје ажурирања">
 <!ENTITY listEmpty.search.label               "Нема резултата претраге додатака">
@@ -71,7 +71,7 @@
 <!ENTITY updates.installed.label              "Ваши додаци су ажурирани.">
 <!ENTITY updates.downloaded.label             "Ваши додаци су преузети.">
 <!ENTITY updates.restart.label                "Поново покрените да бисте довршили инсталацију">
-<!ENTITY updates.noneFound.label              "Нема надоградњи">
+<!ENTITY updates.noneFound.label              "Нема ажурирања">
 <!ENTITY updates.manualUpdatesFound.label     "Погледај доступна ажурирања">
 <!ENTITY updates.updateSelected.label         "Инсталирај ажурирања">
 <!ENTITY updates.updateSelected.tooltip       "Инсталирајте доступна ажурирања са овог списка">
