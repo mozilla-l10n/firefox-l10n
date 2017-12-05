@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY searchreset.tabtitle       "Sichastellungen zeréck setzen">
+
+<!ENTITY searchreset.pageTitle      "Deng Sichastellungen zeréck setzen?">
+
+<!ENTITY searchreset.pageInfo1      "Deng Sichastellungen kënnen vereelzt sinn. De &brandShortName; kann Dir hëllefen d'Standard Sichastellungen zeréck ze setzen.">
+
+
+<!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
+followed by a dropdown of all the built-in search engines. -->
+<!ENTITY searchreset.selector.label "Dëst setzt Deng Standard Sichmaschinn op">
+
+<!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
+searchreset.afterlink.pageInfo): these two string are used respectively
+before and after the "Settings page" link (searchreset.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language. -->
+<!ENTITY searchreset.beforelink.pageInfo2 "Du kanns dës Astellungen zu all Zäit ënner ">
+<!ENTITY searchreset.afterlink.pageInfo2  "änneren.">
+
+<!ENTITY searchreset.link.pageInfo2       "Astellungssäit">
+
+<!ENTITY searchreset.noChangeButton        "Net änneren">
+<!ENTITY searchreset.noChangeButton.access "N">
+
+<!ENTITY searchreset.changeEngineButton        "Sichmaschinn änneren">
+<!ENTITY searchreset.changeEngineButton.access "A">
