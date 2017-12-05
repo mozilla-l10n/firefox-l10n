@@ -1,0 +1,64 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accountSetupTitle.label    "Postavljanje &syncBrand.fullName.label; ">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "Dobrodošli, ako nikad prije niste koristili &syncBrand.fullName.label; trebate napraviti novi račun.">
+<!ENTITY button.createNewAccount.label "Napravite novi račun">
+<!ENTITY setup.haveAccount.label "Već imam &syncBrand.fullName.label; račun.">
+<!ENTITY button.connect.label "Poveži">
+
+<!ENTITY setup.choicePage.title.label     "Jeste li prije koristili &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label       "Nikad prije nisam koristio &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "Već koristim &syncBrand.shortName.label; na drugom računaru">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Server">
+<!ENTITY serverType.main.label      "Server &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Koristite prilagođeni server…">
+<!ENTITY signIn.account2.label      "Račun">
+<!ENTITY signIn.password.label      "Lozinka">
+<!ENTITY signIn.recoveryKey.label     "Ključ za oporavak">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Detalji računa">
+<!ENTITY setup.confirmPassword.label             "Potvrdite lozinku">
+<!ENTITY setup.emailAddress.label                "Email adresa">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Slažem se s">
+<!ENTITY setup.tosLink.label        "Uslovima servisa">
+<!ENTITY setup.tosAgree2.label      "i">
+<!ENTITY setup.ppLink.label         "Policom privatnosti">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; brine o vašoj privatnosti">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Da osiguramo vašu potpunu privatnost, svi vaši podaci su šifrovani prije otpremanja. Ključ za oporavak potreban za dešifrovanje vaših podataka nije otpemljen.">
+<!ENTITY recoveryKeyEntry.label        "Vaš ključ za oporavak">
+<!ENTITY recoveryGenerateNewKey.label  "Generišite novi ključ">
+<!ENTITY recoveryKeyBackup.description "Vaš ključ za oporavak je potreban da pristupite &syncBrand.fullName.label; na drugim uređajima. Molimo napravite sigurnosnu kopiju. Ne možemo vam pomoći da dobijete natrag vaš ključ za oporavak.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Štampaj…">
+<!ENTITY button.syncKeyBackup.save.label      "Sačuvaj…">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Molimo potvrdite da niste robot">
+
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Dodajte uređaj">
+<!ENTITY addDevice.showMeHow.label          "Pokaži mi kako.">
+
+<!-- Existing Account Page 2: Manual Login -->
+
+<!-- Sync Options -->
+
+
+
+<!-- Confirm Merge Options -->
+
+<!-- New & Existing Account: Setup Complete -->
