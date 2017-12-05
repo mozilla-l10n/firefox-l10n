@@ -85,6 +85,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "ફ્લૅટ ચાર્ટ ઉલટાવો">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "ફ્લેમ ચાર્ટને ઉતારીને સૌથી નાની ફ્રેમથી શરૂ થયેલી પ્રોફાઈલ કોલ પાથ દર્શાવે છે અને જૂની ચોકઠાં સુધી વિસ્તરણ કરે છે.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
