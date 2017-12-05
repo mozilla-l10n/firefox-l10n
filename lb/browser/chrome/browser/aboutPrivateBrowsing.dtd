@@ -22,4 +22,10 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Lieszeechen">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat surfen ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "mécht Dech net anonym">
+<!ENTITY aboutPrivateBrowsing.note.after                 " um Internet. Däi Patron oder Internet Service Provider kann ëmmer nach wësse wat fir Säite besicht goufen.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Gëff méi gewuer iwwer ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privat surfen">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
+<!ENTITY trackingProtection.title                        "Verfollegungsschutz">
+<!ENTITY trackingProtection.startTour1                   "Gewuer ginn wéi et funktionéiert">
