@@ -18,8 +18,13 @@
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
+<!ENTITY welcomeback2.restoreButton  "Lass geet et!">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
+<!ENTITY welcomeback2.tabtitle      "Erfolleg!">
 
+<!ENTITY welcomeback2.pageTitle     "Erfolleg!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; ass prett.">
 
 
 
@@ -29,5 +34,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 
