@@ -31,7 +31,7 @@
 <!ENTITY saveChangeSyncDeviceName.accesskey "r">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Termos do serviço">
+<!ENTITY prefs.tosLink.label        "Termos de serviço">
 <!ENTITY fxaPrivacyNotice.link.label "Aviso de privacidade">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
