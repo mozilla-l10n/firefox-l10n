@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader2.label      "Kontraŭspura protekto">
+<!ENTITY  trackingProtectionHeader2.label      "Protekto kontraŭ spurado">
 <!ENTITY  trackingProtection2.description      "Spurado estas la kolekto de viaj retumaj datumoj tra pluraj retejoj. Spurado povas esti uzita por konstrui profilon kaj montri enhavon surbaze de viaj retumaj kaj personaj informoj.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Uzi protekton kontraŭ spurado por bloki konatajn spurilojn">
 <!ENTITY  trackingProtectionAlways.label       "Ĉiam">
