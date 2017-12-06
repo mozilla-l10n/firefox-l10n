@@ -27,6 +27,10 @@
 <!ENTITY aboutNetworking.messagesReceived      "ലഭിച്ച സന്ദേശങ്ങള്‍">
 <!ENTITY aboutNetworking.bytesSent             "അയച്ച ബൈറ്റുകള്‍">
 <!ENTITY aboutNetworking.bytesReceived         "ലഭിച്ച ബൈറ്റുകള്‍">
+<!ENTITY aboutNetworking.currentLogFile        "നിലവിലെ ലോഗ് ഫയൽ:">
+<!ENTITY aboutNetworking.currentLogModules     "നിലവിലുള്ള ലോഗ് മൊഡ്യൂളുകൾ:">
+<!ENTITY aboutNetworking.setLogFile            "ലോഗ് ഫയൽ സജ്ജമാക്കുക">
+<!ENTITY aboutNetworking.setLogModules         "ലോഗ് മൊഡ്യൂളുകൾ സജ്ജമാക്കുക">
 <!ENTITY aboutNetworking.startLogging          "ലോഗ് ചെയ്ത് തുടങ്ങുക">
 <!ENTITY aboutNetworking.stopLogging           "ലോഗ് ചെയ്യുന്നത് അവസാനിപ്പിക്കുക">
 <!ENTITY aboutNetworking.dnsDomain             "ഡൊമെയിൻ">
