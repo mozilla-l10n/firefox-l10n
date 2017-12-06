@@ -6,9 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Nesḥassef. Nesɛa uguren akken ad d-nner asebter-inek.">
-<!ENTITY restorepage.problemDesc2   "Nesɛa uguren akken ad d-nerr tiɣimit-inek n tugniwin taneggarut. Fren err-d tiɣimit akken ad naɛreḍ tikkelt-nniḍen.">
-<!ENTITY restorepage.tryThis2       "Ur tezmireḍ ara ad terreḍ tiɣimit-ik? Tikwal iccer igellu-d s wugur-agi. Wali iccaren yezrin, kkes tacreḍt n rrcem seg iccaren ur tesriḍ ara ad terreḍ, sakin err-d.">
+<!ENTITY restorepage.errorTitle2    "Nesḥassef. Nesɛa uguren akken ad d-nerr asebter-inek.">
+<!ENTITY restorepage.problemDesc2   "Nesɛa uguren akken ad d-nerr tiɣimit-inek n tunigin taneggarut. Fren err-d tiɣimit akken ad neɛreḍ tikkelt-nniḍen.">
+<!ENTITY restorepage.tryThis2       "Ur tezmireḍ ara ad terreḍ tiɣimit-ik? Tikwal iccer igellu-d s wugur-agi. Wali iccaren yezrin, kkes tacreḍt n rrcem seg iccaren ur tesriḍ ara ad d-terreḍ, sakin err-d.">
 
 <!ENTITY restorepage.hideTabs       "Ffer iccaren yezrin">
 <!ENTITY restorepage.showTabs       "Sken iccaren yezrin">

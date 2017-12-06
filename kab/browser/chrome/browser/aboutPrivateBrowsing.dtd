@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Mačči deg usfaylu uslig i telliḍ tura.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Ldi asfaylu n tunigin tusligt ">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Ldi asfaylu uslig">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "s">
 
 <!ENTITY privateBrowsing.title                           "Tunigin tusligt ">

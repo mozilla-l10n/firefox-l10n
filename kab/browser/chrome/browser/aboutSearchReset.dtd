@@ -21,9 +21,9 @@ their language. -->
 <!ENTITY searchreset.beforelink.pageInfo2 "Tzemreḍ ad tbeddleḍ iɣewwaren-ik melmi i tebɣiḍ seg ">
 <!ENTITY searchreset.afterlink.pageInfo2  ". ">
 
-<!ENTITY searchreset.link.pageInfo2       "Asebter iɣewwaṛen">
+<!ENTITY searchreset.link.pageInfo2       "Asebter n yiɣewwaren">
 
-<!ENTITY searchreset.noChangeButton        "Ur senfell ara">
+<!ENTITY searchreset.noChangeButton        "Ur ttbeddil ara">
 <!ENTITY searchreset.noChangeButton.access "D ">
 
 <!ENTITY searchreset.changeEngineButton        "Snifel amsedday n unadi ">
