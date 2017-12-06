@@ -74,16 +74,31 @@
 <!ENTITY newlistButton.tooltip                          "Kreiraj novu listu"> 
 <!ENTITY editItemButton.tooltip                         "Uredi izabranu stavku">
 <!ENTITY newmsgButton.tooltip                           "Pošalji email poruku"> 
- 
+<!ENTITY newIM.tooltip                                  "Pošaljite instant poruku ili započnite razgovor"> 
+<!ENTITY deleteItemButton.tooltip                       "Izbriši označenu stavku">
+<!ENTITY throbber.tooltip                               "Idite na &vendorShortName; početnu stranicu">
+<!ENTITY advancedButton.tooltip                         "Napredno pretraživanje adresa">
 
 <!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Adresari">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+<!ENTITY contact.heading                                "Kontakt">
+<!ENTITY home.heading                                   "Početna">
+<!ENTITY other.heading                                  "Ostalo">
+<!ENTITY phone.heading                                  "Telefon">
+<!ENTITY work.heading                                   "Posao">
 <!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Opis">
+<!ENTITY addresses.heading                              "Adrese">
 <!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Dobavi kartu">
+<!ENTITY mapIt.tooltip                                  "Prikaži ovu adresu na internet karti">
 
 <!-- Status Bar -->  
+<!ENTITY statusText.label                               "">
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">
