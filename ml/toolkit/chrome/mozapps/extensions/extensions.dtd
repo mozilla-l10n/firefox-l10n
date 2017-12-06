@@ -20,17 +20,19 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "എല്ലാ ആഡ്-ഓണുകള്‍ക്കുമുള്ള പ്രയോഗങ്ങള്‍">
 
-
+<!ENTITY getThemes.description                "നിങ്ങളുടെ ബ്രൗസർ വ്യക്തിപരമാക്കാൻ നോക്കുകയാണോ?">
+<!ENTITY getThemes.learnMore                  "ആയിരം ആഡ്-ഓണുകളില്‍ നിന്നും തെരഞ്ഞെടുക്കുക.">
 
 <!ENTITY cmd.back.tooltip                     "ഒരു താള്‍ പുറകോട്ട് പോകുക">
 <!ENTITY cmd.forward.tooltip                  "ഒരു താള്‍ മുമ്പോട്ട് പോകുക">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "ചില എക്റ്റെന്‍ഷനുകള്‍ പരിശോധിക്കാന്‍ പറ്റുന്നില്ല">
 <!ENTITY showAllExtensions.button.label       "എല്ലാ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക">
-
+<!ENTITY debugAddons.label                    "ആഡ്-ഓണുകള്‍ ഡീബഗ് ചെയ്യുക">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
-
 <!ENTITY warning.safemode.label                    "എല്ലാ ആഡ്-ഓണുകളും സേഫ് മോഡില്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു.">
 <!ENTITY warning.checkcompatibility.label          "ആഡ്-ഓണ്‍ പൊരുത്തം പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. പൊരുത്തപ്പെടാത്ത ആഡ്-ഓണുകളുണ്ടാവാം.">
 <!ENTITY warning.checkcompatibility.enable.label   "പ്രവര്‍ത്തന സജ്ജം">
@@ -38,14 +40,14 @@
 <!ENTITY warning.updatesecurity.label              "ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. ഉചിതമായ പരിഷ്കരണങ്ങള്‍ ലഭ്യമായില്ല.">
 <!ENTITY warning.updatesecurity.enable.label       "പ്രവര്‍ത്തന സജ്ജം">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന സജ്ജമാക്കുക">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "തെരയുക">
 <!ENTITY view.discover.label                  "ആഡ്-ഓണുകള്‍ ലഭ്യമാകുക">
 <!ENTITY view.recentUpdates.label             "ഏറ്റവും പുതിയ പരിഷ്കരണങ്ങള്‍">
 <!ENTITY view.availableUpdates.label          "ലഭ്യമായ പരിഷ്കരണങ്ങള്‍">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "ഏറ്റവും പുതിയ പരിഷ്കരങ്ങള്‍ കാണുക">
@@ -73,8 +75,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "ലഭ്യമായ പരിഷ്കരണങ്ങള്‍ കാണുക">
 <!ENTITY updates.updateSelected.label         "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
 <!ENTITY updates.updateSelected.tooltip       "പട്ടികയില്‍ ലഭ്യമായ പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "കൂടുതല്‍ വിവരങ്ങള്‍ കാണിയ്ക്കുക">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുക">
@@ -117,16 +119,16 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "ഈ പരിഷ്കരണത്തിനുള്ള പ്രകാശനക്കുറിപ്പുകള്‍ കാണിയ്ക്കുക">
 <!ENTITY cmd.hideReleaseNotes.label           "പ്രകാശനക്കുറിപ്പുകള്‍ അദൃശ്യമാക്കുക">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ഈ പരിഷ്കരണത്തിനുള്ള പ്രകാശനക്കുറിപ്പുകള്‍ അദൃശ്യമാക്കുക">
+<!ENTITY cmd.findReplacement.label            "പകരം വെക്കാനാവുന്നവ കണ്ടെത്താം">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "എന്താണു് ആഡ്-ഓണുകള്‍?">
 <!ENTITY discover.description2                "നിങ്ങളുടെ ഇഷ്ടാനുസൃതം &brandShortName; -നു് കൂടുതല്‍ പ്രവര്‍ത്തനശേഷിയും ശൈലിയും ലഭ്യമാക്കുന്ന പ്രയോഗങ്ങളാണു് ആഡ്-ഓണുകള്‍. &brandShortName; നിങ്ങളുടെ ഇഷ്ടമുള്ളത് പോലെ ആക്കാന്‍ ഒരു കാലാവസ്ഥാ അറിയിപ്പോ, തീം മാറ്റുകയോ ചെയ്ത് നോക്കു.">
 <!ENTITY discover.footer                      "ഇന്റര്‍നെറ്റ് കണക്ഷനുള്ളപ്പോള്‍, ഈ പെയിനില്‍ ഏറ്റവും  ഉത്തമമായ ആഡ്-ഓണുകള്‍ നിങ്ങള്‍ക്കു് കാണാം.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "പതിപ്പു്">
 <!ENTITY detail.lastupdated.label             "ഏറ്റവും ഒടുവില്‍ പുതുക്കിയതു്">
 <!ENTITY detail.creator.label                 "ഡവലപ്പര്‍">
@@ -155,17 +157,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "മുന്‍ഗണനകള്‍">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "ഈ ആഡ്-ഓണിനുള്ള മുന്‍ഗണനകള്‍ മാറ്റുക">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "റേറ്റിങ്">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തുക">
 <!ENTITY progress.cancel.tooltip              "റദ്ദാക്കുക">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "പേരു്">
 <!ENTITY sort.name.tooltip                    "പേരു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക">
 <!ENTITY sort.dateUpdated.label               "ഏറ്റവും ഒടുവില്‍ പരിഷ്കരിച്ചതു്">
@@ -188,6 +190,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -213,6 +216,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "ലഭ്യമാക്കുക…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "ക്ഷമിയ്ക്കുക, പ്രകാശനക്കുറിപ്പുകള്‍ ലഭ്യമാക്കുന്നതില്‍ പിശക്.">
 
+<!ENTITY addon.createdBy.label                "ഉണ്ടാക്കിയത് ">
 
 <!ENTITY eula.title                           "ഉപയോക്താവിനുള്ള ലൈസന്‍സ് എഗ്രീമെന്റ്">
 <!ENTITY eula.width                           "560px">
@@ -220,12 +224,12 @@
 <!ENTITY eula.accept                          "സ്വീകരിച്ചു് ഇന്‍സ്റ്റോള്‍ ചെയ്യുക…">
 
 <!ENTITY settings.path.button.label           "പരതുക…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "എന്താണിതു്? ഓരോ സമയത്തു് ടെലിമെട്രി ഇന്‍സ്റ്റോള്‍ ചെയ്തു് പരീക്ഷണങ്ങള്‍ പ്രവര്‍ത്തിയ്ക്കുന്നു.">
 <!ENTITY experiment.info.learnmore "കൂടുതല്‍ അറിയുക">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -249,9 +253,9 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "മാന്വൽ വായിക്കുന്നത് തുടരാവുന്നതാണ്">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "എന്തെങ്കിലും നഷ്ടമായോ? ചില പ്ലഗിന്നുകൾ ഇനിമുതൽ &brandShortName; പിന്തുണയ്ക്കില്ല.">
+<!ENTITY pluginDeprecation.learnMore "കൂടുതല്‍ അറിയുക.">
 
-
-
-
-
-
+<!ENTITY legacyWarning.showLegacy "പഴയ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക">
+<!ENTITY legacyExtensions.description "ഈ എക്സ്റ്റൻഷെനുകൾ നിലവിലെ &brandShortName; മാനദണ്ഡങ്ങൾ പാലിക്കുന്നുല്ല, ആയതിനാൽ അവ നിർജ്ജീവമാക്കിയിട്ടുണ്ട്.">
+<!ENTITY legacyExtensions.learnMore "ആഡ്-ഓണുകളിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിയുക">
