@@ -4,10 +4,29 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "url-classifier നെ പറ്റിയുള്ള വിവരം">
+<!ENTITY aboutUrlClassifier.providerTitle               "പ്രൊവൈഡര്‍">
+<!ENTITY aboutUrlClassifier.provider                    "പ്രൊവൈഡര്‍">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "ഒടുവില്‍ പുതുക്കിയ സമയം">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "അടുത്ത പുതുക്കലിന്റെ സമയം">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "ബാക്കോഫ് സമയം">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "അവസാന പുതുക്കലിന്റെ സ്ഥിതി">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "പുതുക്കല്‍">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "കാഷ്">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "റീഫ്രെഷ്">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "മായ്ക്കുക">
 <!ENTITY aboutUrlClassifier.cacheTableName              "പട്ടികയുടെ പേര്">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "നെഗറ്റീവ് കാഷേ രേഖകളുടെ എണ്ണം">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "പോസിറ്റീവ് കാഷേ രേഖകളുടെ എണ്ണം">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "രേഖകള്‍ കാണിക്കുക">
+<!ENTITY aboutUrlClassifier.cacheEntries                "കാഷേ രേഖകള്‍">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "ഉപസര്‍ഗ്ഗനമ്പര്‍">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "നെഗറീവ് കാഷേ കാലാവധി">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "പോസിറ്റീവ് കാഷേ കാലാവധി">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ഡീബഗ്">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "ലോഗ് മൊഡ്യൂളുകള്‍ സജ്ജീകരിക്കുക">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "ലോഗ് മൊഡ്യൂളുകള്‍ സെറ്റു ചെയ്യുക">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS ലോഗ് സെറ്റു ചെയ്യുക">
+<!ENTITY aboutUrlClassifier.debugSBModules              "സേഫ് ബ്രൌസിങ്ങ് ലോഗ് മൊഡ്യൂളുകള്‍">
+<!ENTITY aboutUrlClassifier.debugModules                "നിലവിലുള്ള ലോഗ് മൊഡ്യൂളുകള്‍">
 <!ENTITY aboutUrlClassifier.debugSBJSModules            "സുരക്ഷിത ബ്രൗസിങ്ങ് JS ലോഗ്">
 <!ENTITY aboutUrlClassifier.debugFile                   "നിലവിലുള്ള ലോഗ് ഫയല്‍">
