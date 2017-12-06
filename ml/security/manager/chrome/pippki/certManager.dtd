@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "അതോരിറ്റികള്‍">
 <!ENTITY certmgr.tab.orphan2                  "വേറെ">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "നിങ്ങളെ തിരിച്ചറിയുന്ന ഈ സംഘടനകളിൽ നിന്നും നിങ്ങൾക്ക് സർട്ടിഫിക്കറ്റുകൾ ഉണ്ട്">
+<!ENTITY certmgr.others2                      "ഈ വ്യക്തികളെ തിരിച്ചറിയുന്ന സർട്ടിഫിക്കറ്റുകൾ നിങ്ങളുടെ ഫയലിലുണ്ട്">
+<!ENTITY certmgr.websites3                    "ഈ സെർവറുകളെ തിരിച്ചറിയുന്ന സർട്ടിഫിക്കറ്റുകൾ നിങ്ങളുടെ ഫയലിലുണ്ട്">
+<!ENTITY certmgr.cas2                         "ഈ സർട്ടിഫിക്കറ്റ് അതോറിറ്റികളെ തിരിച്ചറിയുന്ന സർട്ടിഫിക്കറ്റുകൾ നിങ്ങളുടെ ഫയലിലുണ്ട്">
+<!ENTITY certmgr.orphans2                     "മറ്റ് വിഭാഗങ്ങളിലൊന്നും അനുയോജ്യമല്ലാത്ത സർട്ടിഫിക്കറ്റുകൾ നിങ്ങളുടെ ഫയലിലുണ്ട്">
 
 <!ENTITY certmgr.detail.general_tab.title     "പൊതുവായവ">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
