@@ -5,7 +5,8 @@
 <!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; തിരഞ്ഞെടുത്തതിന് നന്ദി">
 <!ENTITY firstrun_panel_title_privacy "സ്വകാര്യത">
-<!ENTITY firstrun_privacy_message "ആരാരും കാണാതെ ബ്രൗസ് ചെയ്യൂ">
+<!ENTITY firstrun_privacy_message "ആരും കാണാതെ ബ്രൗസ് ചെയ്യൂ">
+<!ENTITY firstrun_privacy_subtext "ട്രാക്കിങ്ങ് സംരക്ഷണത്തോടൊപ്പമുള്ള സ്വകാര്യ ബ്രൌസിങ്ങ് നിങ്ങള്‍ ബ്രൌസ് ചെയ്യുമ്പോള്‍ ട്രാക്കറുകളെ തടയുന്നതോടൊപ്പം നിങ്ങള്‍ ബ്രൌസിങ്ങ് അവസാനിപ്പിക്കുമ്പോള്‍ നാള്‍വഴി സൂക്ഷിക്കുന്നില്ല.">
 <!ENTITY firstrun_panel_title_customize "ഇഷ്ടാനുസൃതമാക്കുക">
 <!ENTITY firstrun_customize_message "&brandShortName; നിങ്ങളുടേതാക്കി മാറ്റുക.">
 <!ENTITY firstrun_bookmarks_title "നാള്‍വഴി">
@@ -18,7 +19,7 @@
 <!ENTITY firstrun_signin_button "സിന്‍കിലേയ്ക്ക് പ്രവേശിക്കൂ">
 <!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!ENTITY firstrun_button_notnow "ഇപ്പോള്‍ വേണ്ട">
-<!ENTITY firstrun_button_next "അടുത്ത">
+<!ENTITY firstrun_button_next "തുടരുക">
 
 <!ENTITY firstrun_tabqueue_title "കണ്ണികള്‍">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
@@ -43,6 +44,7 @@
 <!ENTITY  switch_to_tab "ടാബ് മാറ്റുക">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "ഓഫ്‍ലൈന്‍ പതിപ്പ് കാണിക്കുന്നു">
 
 <!ENTITY  crash_reporter_title "&brandShortName; തകരാര്‍ അറിയിയ്ക്കുന്നതിനുള്ള പ്രയോഗം">
 <!ENTITY  crash_message2 "&brandShortName;നു എന്തോ പ്രശ്നം സംഭവിച്ച് തകരാറായിരിക്കുന്നു. നിങ്ങളുടെ ടാബുകള്‍ &brandShortName; എന്നതില്‍ പട്ടികപ്പെടുത്തിയിട്ടുണ്ട്. പുനരാംരംഭിക്കുമ്പോഴുള്ള ആരംഭതാള്‍.">
@@ -79,7 +81,8 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-<!ENTITY bookmark_folder_one_item "1 ഇനം">
+<!ENTITY bookmark_folder_items "&formatD; എണ്ണം">
+<!ENTITY bookmark_folder_one_item "ഒരെണ്ണം">
 <!ENTITY bookmark_folder_updated "ഫോൾഡർ അപ്ഡേറ്റുചെയ്തു">
 <!ENTITY bookmark_add_folder "പുതിയ ഫോൾഡർ ചേർക്കുക">
 
