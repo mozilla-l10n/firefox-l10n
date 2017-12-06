@@ -7,8 +7,8 @@
 <!ENTITY aboutAccountsConfig.description "Kcem akken ad temtawiḍ iccaren, ticraḍ n isebtar, awalen uffiren d wayen-nniḍen.">
 <!ENTITY aboutAccountsConfig.startButton.label "Bdu">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Ismenyifen n Sync ">
-<!ENTITY aboutAccounts.noConnection.title "Ur telli tuqqna">
+<!ENTITY aboutAccounts.noConnection.title "Ulac tuqqna">
 <!ENTITY aboutAccounts.noConnection.description "Yessefk ad teqqneḍ ɣer Internet akken ad tkecmeḍ.">
 <!ENTITY aboutAccounts.noConnection.retry "Ɛreḍ tikelt-nniḍen">
 <!ENTITY aboutAccounts.badConfig.title "Yir tawila ">
-<!ENTITY aboutAccounts.badConfig.description "Ur yezmir ara ad d-yaf tawila n uqeddac n umiḍan Firefox. Ma ulac aɣilif εreḍ tikelt-nniḍen.">
+<!ENTITY aboutAccounts.badConfig.description "Ur yezmir ara ad d-yaf tawila n uqeddac n umiḍan Firefox. Ttxil-k εreḍ tikelt-nniḍen.">

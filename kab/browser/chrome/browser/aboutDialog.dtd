@@ -14,14 +14,14 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Nadi ileqman ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "N">
-<!ENTITY update.updateButton.label3               "Sker i tikelt-nniḍen akken ad tleqmeḍ&brandShorterName;">
+<!ENTITY update.updateButton.label3               "Sker i tikelt-nniḍen akken ad tleqqmeḍ&brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R ">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; d armitan yerna ur yerkid.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Yettazen s wudem awurman talɣut ɣef tmellit, arrum, aseqdec d waggan i &vendorShortName; iwakken ad d-yefk tallelt n usnerni n &brandShortName;. ">
+<!ENTITY warningDesc.telemetryDesc  "Yettazen s wudem awurman talɣut ɣef tmellit, arrum, aseqdec d waggan i &vendorShortName; i wakken ad d-yefk tallelt n uwenneɛ n &brandShortName;">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -54,13 +54,13 @@
 <!ENTITY bottomLinks.license        "Talɣut n turagt">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Izarfan n useqdac ">
+<!ENTITY bottomLinks.rights         "Izerfan n useqdac">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Tasertit n tbaḍnit ">
+<!ENTITY bottomLinks.privacy        "Tasertit n tbaḍnit">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Muqel ma yella lqem amaynut... ">
+<!ENTITY update.checkingForUpdates  "Muqel ma yella lqem amaynut...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; yettwaleqqem">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
