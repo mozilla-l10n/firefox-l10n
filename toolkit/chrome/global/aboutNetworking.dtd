@@ -27,6 +27,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "ലഭിച്ച സന്ദേശങ്ങള്‍">
 <!ENTITY aboutNetworking.bytesSent             "അയച്ച ബൈറ്റുകള്‍">
 <!ENTITY aboutNetworking.bytesReceived         "ലഭിച്ച ബൈറ്റുകള്‍">
+<!ENTITY aboutNetworking.logTutorial           "ഈ ടൂള്‍ ഉപയോഗിക്കുന്നത് എങ്ങനെ എന്നറിയാന്‍ <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP ലോഗിങ്ങ്</a> കാണുക.">
 <!ENTITY aboutNetworking.currentLogFile        "നിലവിലെ ലോഗ് ഫയൽ:">
 <!ENTITY aboutNetworking.currentLogModules     "നിലവിലുള്ള ലോഗ് മൊഡ്യൂളുകൾ:">
 <!ENTITY aboutNetworking.setLogFile            "ലോഗ് ഫയൽ സജ്ജമാക്കുക">
@@ -35,3 +36,8 @@
 <!ENTITY aboutNetworking.stopLogging           "ലോഗ് ചെയ്യുന്നത് അവസാനിപ്പിക്കുക">
 <!ENTITY aboutNetworking.dnsDomain             "ഡൊമെയിൻ">
 <!ENTITY aboutNetworking.totalNetworkRequests  "മൊത്തം നെറ്റ്‍വർക്ക് അഭ്യർത്ഥനയുടെ എണ്ണം">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "തുറന്നത്">
+<!ENTITY aboutNetworking.rcwnPerfRead          "വായിച്ചത്">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "എഴുതിയത്">
+<!ENTITY aboutNetworking.rcwnAvgShort          "ചെറിയ ശരാശരി">
+<!ENTITY aboutNetworking.rcwnAvgLong           "വലിയ ശരാശരി">
