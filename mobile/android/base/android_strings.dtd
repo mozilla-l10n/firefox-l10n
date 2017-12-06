@@ -231,6 +231,7 @@
 <!ENTITY pref_header_general "പൊതുവായവ">
 <!ENTITY pref_header_search "തിരയുക">
 <!ENTITY pref_header_privacy_short "സ്വകാര്യത">
+<!ENTITY pref_header_accessibility "ലഭ്യത">
 <!ENTITY pref_header_notifications "അറിയിപ്പുകള്‍">
 <!ENTITY pref_header_advanced "സങ്കീര്‍ണ്ണമായവ">
 <!ENTITY pref_header_help "സഹായം">
@@ -279,9 +280,11 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS; ൽ തുറക്കുക">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; നാല്‍ ശാക്തീകരിച്ചത്">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL പകർത്തി">
 
+<!ENTITY pref_pwa "പുരോഗമന വെബ് ആപ്പുകള്‍">
 <!ENTITY pref_pwa_summary "വെബ് ആപ്പുകൾ ഹോം സ്ക്രീനിൽ ചേർക്കാൻ അനുവദിക്കുക">
 
 <!ENTITY tracking_protection_prompt_title "ഇപ്പോള്‍ പിന്തുടല്‍ സുരക്ഷയോടുകൂടെ">
@@ -336,6 +339,7 @@
 <!ENTITY pref_media_autoplay_enabled_summary "വെബ്സൈറ്റുകള്‍ ചലച്ചിത്രങ്ങളോ മറ്റു മീഡിയാ ഉള്ളടക്കങ്ങളോ തനിയെ പ്രവര്‍ത്തിപ്പിക്കുന്നുണ്ടെങ്കില്‍ നിയന്ത്രിക്കുക">
 <!ENTITY pref_zoom_force_enabled "ഇപ്പോഴും സൂം പ്രവര്‍ത്തനസജ്ജമാക്കുക">
 <!ENTITY pref_voice_input "ശബ്ദ ഇന്‍പുട്ട്">
+<!ENTITY pref_voice_input_summary2 "URL ബാറില്‍ കേട്ടെഴുത്ത് അനുവദിക്കുക">
 <!ENTITY pref_qrcode_enabled "ക്യുആര്‍ കോഡ് റീഡര്‍">
 <!ENTITY pref_qrcode_enabled_summary2 "യുആര്‍എല്‍ ബാറില്‍ ക്യുആര്‍ സ്കാന്നര്‍ അനുവദിക്കൂ">
 
@@ -370,6 +374,7 @@
 <!ENTITY pref_dialog_set_default "സ്വതേയുള്ളതാക്കുക">
 <!ENTITY pref_dialog_default "സ്വതവേയുള്ള">
 <!ENTITY pref_dialog_remove "ഒഴിവാക്കുക">
+<!ENTITY pref_dialog_activitystream_header_content "കൂടുതല്‍ ഉള്ളടക്കം">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "സമീപകാല ബുക്ക്മാർക്കുകൾ">
 <!ENTITY pref_dialog_activitystream_visited "സന്ദർശിച്ചവ">
 
@@ -507,6 +512,7 @@
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "ചെറിയ ടാബുകള്‍">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -572,7 +578,7 @@
 <!ENTITY home_most_recent_empty "അടുത്തിടെ സന്ദര്‍ശിച്ച വെബ്സ്റ്റൈറ്റുകള്‍ ഇവിടെ കാണാം.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "ഏയ്, &formatS1;പുതിയ സ്വകാര്യ ടാബ്&formatS2; ഉപയോഗിയ്ക്കുന്നത് താങ്കളുടെ നാള്‍വഴി സൂക്ഷിക്കില്ല.">
+<!ENTITY home_most_recent_emptyhint2 "&formatS1;പുതിയ സ്വകാര്യ ടാബ്&formatS2; ഉപയോഗിച്ചാല്‍ നിങ്ങളുടെ നാള്‍വഴി സൂക്ഷിക്കില്ല.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -679,6 +685,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ഡൗൺലോഡ് ചെയ്തു കഴിഞ്ഞാൽ നവീകരണങ്ങൾ പ്രയോഗിക്കാൻ തൊടുക">
 <!ENTITY updater_downloading_retry2 "വീണ്ടു ശ്രമിക്കാൻ തൊടുക">
 
+<!ENTITY updater_apply_title3 "&brandShortName; നുള്ള പുതുക്കലുകള്‍ ഡൌണ്‍ലോഡ് ചെയ്തു">
 <!ENTITY updater_apply_select3 "ഇൻസ്റ്റാൾ ചെയ്യുന്നതിനായി ടാപ് ചെയ്യൂ">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -777,6 +784,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_title2 "&brandShortName; ഇനി പുതുക്കില്ല">
 <!ENTITY eol_notification_summary "കൂടുതലറിയാൻ തട്ടുക">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
@@ -786,6 +794,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
 
+<!ENTITY promotion_add_page_shortcut "താളിന് കറുക്കുവഴി ചേര്‍ക്കുക">
 
 <!ENTITY helper_first_offline_bookmark_title "ഓഫ്‍ലൈനായി വായിക്കൂ">
 <!ENTITY helper_first_offline_bookmark_button "അടയാളങ്ങളിലേക്ക് പോകൂ">
@@ -808,6 +817,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "സന്ദർശിച്ചവ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "ട്രന്റിങ്ങ്">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 <!ENTITY activity_stream_highlights_empty "ബ്രൗസിംഗ് ആരംഭിക്കൂ, നിങ്ങൾ അടുത്തിടെ സന്ദർശിച്ചതും ബുക്ക്മാർക്ക് ചെയ്തതുമായ മികച്ച ലേഖനങ്ങൾ, വീഡിയോകൾ, മറ്റ് പേജ് എന്നിവ ഞങ്ങൾ നിങ്ങൾക്കായി കാണിക്കും.">
 
