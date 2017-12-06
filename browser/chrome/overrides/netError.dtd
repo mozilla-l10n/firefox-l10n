@@ -82,6 +82,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> ന്റെ ഉടമ അവരുടെ വെബ്സൈറ്റ് തെറ്റായി ക്രമീകരിച്ചു. നിങ്ങളുടെ വിവരങ്ങൾ മോഷ്ടിക്കാതിരിക്കാൻ, &brandShortName; ഈ വെബ്സൈറ്റിൽ കണക്റ്റുചെയ്തിട്ടില്ല.">
 
 <!ENTITY sharedLongDesc "<ul> <li>ഈ സൈറ്റ് തല്‍ക്കാലം ലഭ്യമല്ല അല്ലെങ്കില്‍ തിരക്കിലാവാം. കുറച്ച് സമയത്തിന് ശേഷം വീണ്ടും ശ്രമിക്കുക.</li> <li>നിങ്ങള്‍ക്ക് ഒരു പേജും കിട്ടുന്നില്ലെങ്കില്‍, നിങ്ങളുടെ കംപ്യൂട്ടറിന്റെ നെറ്റ്‌വര്‍ക്ക് കണക്ഷന്‍ പരിശോധിക്കുക.</li> <li>നിങ്ങളുടെ കംപ്യൂട്ടര്‍ അല്ലെങ്കില്‍ നെറ്റ്‌വര്‍ക്ക്, ഫയര്‍വോള്‍ അല്ലെങ്കില്‍ പ്രോക്സി ഉപയോഗിച്ച് സുരക്ഷിതമാക്കിയിരിക്കുന്നു എങ്കില്‍, &brandShortName; -ന് വെബിലേക്ക് പ്രവേശിക്കുവാനുള്ള അനുവാദം ഉണ്ടെന്നുറപ്പാക്കുക.</li> </ul>">
 
@@ -94,6 +95,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "എക്സെപ്ഷന്‍ ചേര്‍ക്കുക…">
 
+<!ENTITY errorReporting.automatic2 "ക്ഷുദ്രകരമായ സൈറ്റുകൾ തിരിച്ചറിയാനും തടയാനും സഹായിക്കുന്നതിന് ഇതുപോലുള്ള പിശകുകൾ മോസില്ലായെ റിപ്പോർട്ടുചെയ്യുക">
 <!ENTITY errorReporting.learnMore "കൂടുതല്‍ അറിയുക...">
 
 <!ENTITY remoteXUL.title "റിമോട്ട് XUL">
@@ -102,6 +104,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "സുരക്ഷിതമായി കണക്ട് ചെയ്യുവാന്‍ സാധ്യമല്ല">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "വിപുലമായ വിവരം: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
@@ -114,4 +117,5 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY prefReset.longDesc "ഇതിനു കാരണം നെറ്റ്‍വർക്ക് സുരക്ഷ ക്രമീകരണങ്ങളാണെന്നു തോന്നുന്നു. സ്ഥിരസ്ഥിതി ക്രമീകരണങ്ങൾ പുനഃസ്ഥാപിക്കേണ്ടതുണ്ടോ?">
 <!ENTITY prefReset.label "സ്വതേയുള്ള സജ്ജീകരണങ്ങള്‍ വീണ്ടെടുക്കുക">

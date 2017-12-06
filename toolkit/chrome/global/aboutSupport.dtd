@@ -21,6 +21,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "പതിപ്പു്">
 <!ENTITY aboutSupport.extensionId "ഐഡി">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; സവിശേഷതകൾ">
+<!ENTITY aboutSupport.featureName "പേര്">
+<!ENTITY aboutSupport.featureVersion "പതിപ്പ്">
 
 <!ENTITY aboutSupport.experimentsTitle "പരീക്ഷണാര്‍ത്ഥമായ വിശേഷതകള്‍">
 <!ENTITY aboutSupport.experimentName "പേരു്">
@@ -70,6 +73,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "ഫൈന്‍ഡറില്‍ കാണിയ്ക്കുക">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "ഫോൾഡർ തുറക്കുക">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "മാറ്റം വരുത്തിയ പ്രധാനപ്പെട്ട മുന്‍ഗണനകള്‍">
 <!ENTITY aboutSupport.modifiedPrefsName "പേരു്">
@@ -102,11 +106,18 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് ഡേറ്റാ പകര്‍ത്തുക">
 
 <!ENTITY aboutSupport.sandboxTitle "സാന്റ്ബോക്സ്">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "നിരസിച്ച സിസ്റ്റം കോളുകൾ">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "നിമിഷങ്ങൾക്ക് മുമ്പ്">
 
 <!ENTITY aboutSupport.safeModeTitle "സേഫ് മോഡ് ശ്രമിച്ചുനോക്കുക">
 <!ENTITY aboutSupport.restartInSafeMode.label "ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കുക…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "സവിശേഷതകൾ">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "തീരുമാനങ്ങളുടെ ലോഗ്">
 
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "ഔട്ട്പുട്ട് ഉപകരണങ്ങൾ">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "ഇൻപുട്ട് ഉപകരണങ്ങൾ">
 <!ENTITY aboutSupport.mediaDeviceName "പേര്">
 <!ENTITY aboutSupport.mediaDeviceGroup "ഗ്രൂപ്പ്">
 <!ENTITY aboutSupport.mediaDeviceState "അവസ്ഥ">

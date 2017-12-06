@@ -1,17 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "&brandShortName; മന്ദഗതിയിലാകാനിടയുള്ള ഒരു പ്ലഗിൻ ഈ സൈറ്റ് ഉപയോഗിക്കുന്നു.">
 <!ENTITY tapToPlayPlugin                                     "പ്ലഗിന്‍ സജീവമാക്കുന്നതിനായി ഇവിടെ അമര്‍ത്തുക.">
 <!ENTITY clickToActivatePlugin                               "പ്ലഗിന്‍ സജീവമാക്കുക.">
 <!ENTITY checkForUpdates                                     "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക…">
 <!ENTITY blockedPlugin.label                                 "താങ്കളുടെ സുരക്ഷയ്ക്കായി ഈ പ്ലഗ്ഗിന്‍ തടഞ്ഞിരിക്കുന്നു.">
 <!ENTITY hidePluginBtn.label                                 "പ്ലഗിന്‍ അദൃശ്യമാക്കുക">
 <!ENTITY managePlugins                                       "പ്ലഗിനുകള്‍ കൈകാര്യം ചെയ്യുക…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
-
 <!ENTITY reloadPlugin.pre                                    "‌">
 <!ENTITY reloadPlugin.middle                                 "താള്‍ വീണ്ടും ലഭ്യമാക്കുക">
 <!ENTITY reloadPlugin.post                                   " വീണ്ടും ശ്രമിക്കാന്‍.">
@@ -28,4 +30,4 @@
 <!ENTITY plugin.file                                         "ഫയല്‍">
 <!ENTITY plugin.mimeTypes                                    "MIME തരങ്ങള്‍">
 <!ENTITY plugin.flashProtectedMode.label                     "അഡോബി ഫ്ലാഷ് സംരക്ഷിത രീതി പ്രവര്‍ത്തനസജ്ജമാക്കുക">
-
+<!ENTITY plugin.enableBlocklists.label                       "അപകടകരമായതും സങ്കീർണ്ണവുമായ ഫ്ലാഷ് ഉള്ളടക്കം തടയുക">
