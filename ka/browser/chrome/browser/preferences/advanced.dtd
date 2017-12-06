@@ -74,7 +74,7 @@ available. -->
 <!ENTITY clearCacheNow.accesskey         "ფ">
 <!ENTITY clearOfflineAppCacheNow.label   "გასუფთავება">
 <!ENTITY clearOfflineAppCacheNow.accesskey "გ">
-<!ENTITY overrideSmartCacheSize.label    "კეშის ზომის ავტომატურად განსაზღვრის უგულებელყოფა">
+<!ENTITY overrideSmartCacheSize.label    "კეშის ზომის თვითგანსაზღვრის უგულებელყოფა">
 <!ENTITY overrideSmartCacheSize.accesskey "უ">
 
 <!ENTITY updateTab.label                 "განახლება">
@@ -95,10 +95,10 @@ available. -->
 <!ENTITY updateApplication.version.pre   "ვერსია ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "ნების დართვა &brandShortName;-ისთვის">
-<!ENTITY updateAuto3.label               "ავტომატურად დააყენოს განახლებები (სასურველია)">
-<!ENTITY updateAuto3.accesskey           "ტ">
-<!ENTITY updateCheckChoose2.label        "შემოწმდეს განახლებებზე, მაგრამ თავად მიუთითებთ, დაყენდეს თუ არა">
-<!ENTITY updateCheckChoose2.accesskey    "ე">
+<!ENTITY updateAuto3.label               "თავად დააყენოს განახლებები (სასურველია)">
+<!ENTITY updateAuto3.accesskey           "თ">
+<!ENTITY updateCheckChoose2.label        "შემოწმდეს განახლებებზე, მაგრამ დაგეკითხოთ, დაყენებამდე">
+<!ENTITY updateCheckChoose2.accesskey    "შ">
 <!ENTITY updateManual2.label             "არასდროს შემოწმდეს განახლებებზე (არაა სასურველი)">
 <!ENTITY updateManual2.accesskey         "ა">
 
@@ -108,7 +108,7 @@ available. -->
 <!ENTITY useService.label                "განახლებების დასაყენებლად ფონური მომსახურების გამოყენება">
 <!ENTITY useService.accesskey            "ფ">
 
-<!ENTITY enableSearchUpdate2.label       "საძიებო სისტემების ავტომატური განახლება">
+<!ENTITY enableSearchUpdate2.label       "საძიებო სისტემების თვითგანახლება">
 <!ENTITY enableSearchUpdate2.accesskey   "ს">
 
 <!ENTITY offlineStorageNotify.label               "გაფრთხილება, საიტის მიერ მონაცემების კავშირგარეშე წვდომისთვის შენახვისას">
@@ -124,8 +124,8 @@ available. -->
 
 <!ENTITY certificateTab.label            "სერთიფიკატები">
 <!ENTITY certPersonal2.description       "როცა სერვერი თქვენს პირად სერთიფიკატს ითხოვს">
-<!ENTITY selectCerts.auto                "შეირჩეს ავტომატურად">
-<!ENTITY selectCerts.auto.accesskey      "ა">
+<!ENTITY selectCerts.auto                "თვითშერჩევა">
+<!ENTITY selectCerts.auto.accesskey      "თ">
 <!ENTITY selectCerts.ask                 "ყოველ ჯერზე კითხვა">
 <!ENTITY selectCerts.ask.accesskey       "ყ">
 <!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერთიფიკატების დამოწმების მოთხოვნა">
