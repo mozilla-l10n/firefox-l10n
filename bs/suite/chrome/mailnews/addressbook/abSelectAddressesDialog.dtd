@@ -8,22 +8,23 @@
 <!-- Buttons -->
 <!ENTITY toButton.label                      "Za->"> 
  
-<!ENTITY ccButton.label                      "Kopija->"> 
+<!ENTITY ccButton.label                      "Cc->"> 
  
+<!ENTITY bccButton.label                     "Bcc->">  
   
-  
+<!ENTITY newButton.label                     "Nova…"> 
  
+<!ENTITY editButton.label                    "Uredi…"> 
+<!ENTITY removeButton.label                  "Ukloni"> 
  
+<!ENTITY lookIn.label                        "Pogledaj u:"> 
  
+<!ENTITY for.label                           "za:"> 
  
- 
- 
- 
- 
- 
- 
+<!ENTITY for.placeholder                     "Ime ili email">
+<!ENTITY addressMessageTo.label              "Adresiraj poruku za:"> 
 
 <!-- Tooltips items -->  
- 
- 
+<!ENTITY addressPickerNewButton.tooltip      "Napravi novu karticu adresara"> 
+<!ENTITY addressPickerEditButton.tooltip     "Uredi odabranu karticu"> 
 
