@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
+<!ENTITY aboutProfiles.title "പ്രൊഫൈലുകളെ കുറിച്ച്">
+<!ENTITY aboutProfiles.subtitle "നിങ്ങളുടെ പ്രൊഫൈലുകൾ നിയന്ത്രിക്കാൻ ഈ പേജ് നിങ്ങളെ സഹായിക്കുന്നു. ഓരോ പ്രൊഫൈലും പ്രത്യേക ചരിത്രം, ബുക്ക്മാർക്കുകൾ, സജ്ജീകരണങ്ങൾ, ആഡ്-ഓണുകൾ എന്നിവ ഉൾക്കൊള്ളുന്ന ഒരു പ്രത്യേക ഇ‍ടമാണ്.">
+<!ENTITY aboutProfiles.create "ഒരു പുതിയ പ്രൊഫൈൽ സൃഷ്ടിക്കുക">
+<!ENTITY aboutProfiles.restart.title "പുനരാരംഭിക്കുക">
+<!ENTITY aboutProfiles.restart.inSafeMode "ആഡ്-ഓണുകൾ നിർജ്ജീവമാക്കിക്കൊണ്ട് പുനരാരംഭിക്കുക…">
+<!ENTITY aboutProfiles.restart.normal "സാധാരണരീതിയിൽ പുനരാരംഭിക്കുക…">
