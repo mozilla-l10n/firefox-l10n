@@ -105,6 +105,9 @@
 <!ENTITY certs.ask                       "Пытацца ў мяне кожны раз">
 <!ENTITY certs.ask.accesskey             "р">
 <!ENTITY enableOCSP.label                "Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў">
+<!ENTITY enableOCSP.accesskey            "З">
 
+<!ENTITY manageCertificates.label "Кіраванне сертыфікатамі">
+<!ENTITY manageCertificates.accesskey "К">
 <!ENTITY viewSecurityDevices.label "Збудовы бяспекі">
 <!ENTITY viewSecurityDevices.accesskey "б">
