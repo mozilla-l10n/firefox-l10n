@@ -2,16 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.titleWin "Наладжванні">
-<!ENTITY prefWindow.titleGNOME "Перавагі &brandShortName;">
-<!ENTITY prefWindow.styleWindows "width: 54em; min-height: 40em;">
-<!ENTITY prefWindow.styleMac "width: 54em;">
-<!ENTITY prefWindow.styleGNOME "width: 58em; min-height: 42em;">
-<!ENTITY paneGeneral.title "Агульныя">
-<!ENTITY paneDisplay.title "Адлюстраванне">
-<!ENTITY paneComposition.title "Укладанне">
-<!ENTITY paneChat.title "Гутарка">
-<!ENTITY paneAttachments.title "Далучэнні">
-<!ENTITY panePrivacy.title "Адасабленне">
-<!ENTITY paneSecurity.title "Бяспека">
-<!ENTITY paneAdvanced.title "Пашыраны">
+<!ENTITY  prefWindow.titleWin     "Наладжванні">
+<!ENTITY  prefWindow.titleGNOME   "Перавагі &brandShortName;">
+<!ENTITY  prefWindow.styleWindows "width: 54em; min-height: 40em;">
+<!ENTITY  prefWindow.styleMac     "width: 54em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 58em; min-height: 42em;">
+
+<!ENTITY paneGeneral.title        "Агульныя">
+<!ENTITY paneDisplay.title        "Адлюстраванне">
+<!ENTITY paneComposition.title    "Укладанне">
+<!ENTITY paneChat.title           "Гутарка">
+<!ENTITY paneAttachments.title    "Далучэнні">
+<!ENTITY panePrivacy.title        "Адасабленне">
+<!ENTITY paneSecurity.title       "Бяспека">
+<!ENTITY paneAdvanced.title       "Пашыраны">
+<!ENTITY paneAccount.title        "Уліковыя запісы">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">
