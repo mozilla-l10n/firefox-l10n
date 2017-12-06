@@ -5,8 +5,10 @@
 <!ENTITY toField4.label "Да">
 <!ENTITY fromField4.label "Ад">
 <!ENTITY senderField4.label "Адпраўнік">
+<!ENTITY author.label "Аўтар">
 <!ENTITY organizationField4.label "Установа">
 <!ENTITY replyToField4.label "Адказ-Да">
+
 <!ENTITY subjectField4.label "Тэма">
 <!ENTITY ccField4.label "СА">
 <!ENTITY bccField4.label "Сса">
@@ -19,8 +21,10 @@
 <!ENTITY messageIdField4.label "Вызначальнік-Ліста">
 <!ENTITY inReplyToField4.label "У адказ на">
 <!ENTITY originalWebsite4.label "Пляцоўка Сеціва">
+
 <!ENTITY hdrArchiveButton1.label "У архіў">
 <!ENTITY hdrArchiveButton1.tooltip "Архіваваць гэты ліст">
+<!ENTITY hdrOpenConversationButton1.label "Размова">
 <!ENTITY hdrSmartReplyButton1.label "Кемны адказ">
 <!ENTITY hdrReplyButton1.label "Адказаць">
 <!ENTITY hdrReplyButton2.tooltip "Адказаць дасылальніку гэтага ліста">
@@ -37,6 +41,7 @@
 <!ENTITY hdrJunkButton1.tooltip "Пазначыць гэты ліст як лухту">
 <!ENTITY hdrTrashButton1.label "Выдаліць">
 <!ENTITY hdrTrashButton1.tooltip "Выдаліць ліст">
+
 <!ENTITY hdrViewToolbarShowFull.label "Паказваць значкі і тэкст">
 <!ENTITY hdrViewToolbarShowFull.accesskey "а">
 <!ENTITY hdrViewToolbarShowIcons.label "Паказваць толькі значкі">
@@ -45,7 +50,9 @@
 <!ENTITY hdrViewToolbarShowText.accesskey "т">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Заўсёды паказваць адказ дасылальніку">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "д">
-<!ENTITY otherActionsButton1.label "Іншыя дзеянні">
+
+<!ENTITY otherActionsButton2.label "Больш">
+<!ENTITY otherActionsButton.tooltip "Дадатковыя дзеянні">
 <!ENTITY otherActionsOpenConversation1.label "Адкрыць у гутарцы">
 <!ENTITY otherActionsOpenConversation1.accesskey "г">
 <!ENTITY otherActionsOpenInNewWindow1.label "Адкрыць у новым акне">
@@ -62,31 +69,40 @@
 <!ENTITY viewSourceMenuItem1.accesskey "з">
 <!ENTITY otherActionsPrint1.label "Друкаваць…">
 <!ENTITY otherActionsPrint1.accesskey "Д">
-<!ENTITY startExpandedCmd.label "Адразу паказваць шыбу далучэнняў">
-<!ENTITY startExpandedCmd.accesskey "ш">
-<!ENTITY openAttachmentCmd.label "Адчыніць">
-<!ENTITY openAttachmentCmd.accesskey "А">
-<!ENTITY saveAsAttachmentCmd.label "Захаваць як…">
-<!ENTITY saveAsAttachmentCmd.accesskey "я">
-<!ENTITY detachAttachmentCmd.label "Адлучыць…">
-<!ENTITY detachAttachmentCmd.accesskey "ц">
-<!ENTITY deleteAttachmentCmd.label "Выдаліць">
-<!ENTITY deleteAttachmentCmd.accesskey "д">
-<!ENTITY openAllAttachmentsCmd.label "Адчыніць усе…">
-<!ENTITY openAllAttachmentsCmd.accesskey "А">
-<!ENTITY saveAllAttachmentsCmd.label "Захаваць усе…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "З">
-<!ENTITY detachAllAttachmentsCmd.label "Адлучыць усе…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "А">
-<!ENTITY deleteAllAttachmentsCmd.label "Выдаліць усе…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "В">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Адразу паказваць шыбу далучэнняў">
+<!ENTITY startExpandedCmd.accesskey    "ш">
+
+<!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Адчыніць">
+<!ENTITY openAttachmentCmd.accesskey    "А">
+<!ENTITY saveAsAttachmentCmd.label    "Захаваць як…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "я">
+<!ENTITY detachAttachmentCmd.label    "Адлучыць…">
+<!ENTITY detachAttachmentCmd.accesskey    "ц">
+<!ENTITY deleteAttachmentCmd.label    "Выдаліць">
+<!ENTITY deleteAttachmentCmd.accesskey    "д">
+<!ENTITY openAllAttachmentsCmd.label    "Адчыніць усе…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "А">
+<!ENTITY saveAllAttachmentsCmd.label    "Захаваць усе…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "З">
+<!ENTITY detachAllAttachmentsCmd.label    "Адлучыць усе…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "А">
+<!ENTITY deleteAllAttachmentsCmd.label    "Выдаліць усе…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "В">
+
 <!ENTITY openAttachment.tooltip "Адкрыць далучаны файл">
-<!ENTITY saveAttachmentButton1.label "Захаваць">
-<!ENTITY saveAttachmentButton1.tooltip "Захаваць далучаны файл">
-<!ENTITY saveAllAttachmentsButton1.label "Захаваць усе">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Захаваць">
+<!ENTITY saveAttachmentButton1.tooltip     "Захаваць далучаны файл">
+<!ENTITY saveAllAttachmentsButton1.label   "Захаваць усе">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Захаваць усе далучаныя файлы">
-<!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
-<!ENTITY copyLinkCmd.accesskey "К">
+
+<!ENTITY copyLinkCmd.label        "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyLinkCmd.accesskey    "К">
+
 <!ENTITY CopyMessageId.label "Капіяваць вызначальнік-ліста:">
 <!ENTITY CopyMessageId.accesskey "К">
 <!ENTITY OpenMessageForMsgId.label "Адкрыць ліст з вызначальнікам:">

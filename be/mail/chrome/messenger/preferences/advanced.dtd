@@ -2,92 +2,109 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Асноўныя">
-<!ENTITY itemDisplay.label "Чытанне і адлюстраванне">
-<!ENTITY itemUpdate.label "Абнаўленне">
-<!ENTITY itemNetworking.label "Сетка і дыскавая прастора">
-<!ENTITY itemCertificates.label "Пасведчанні">
-<!ENTITY submitTelemetry.label "Падаць звесткі пра працавыніковасць ">
-<!ENTITY submitTelemetry.accesskey "п">
-<!ENTITY telemetryInfoLink.label "Падрабязней пра тэлеметрыю">
-<!ENTITY enableGlodaSearch.label "Дазволіць агульныя пошук і стварэнне паказнікаў">
-<!ENTITY enableGlodaSearch.accesskey "а">
-<!ENTITY scrolling.label "Пракручванне">
-<!ENTITY useAutoScroll.label "Ужываць самапракручванне">
-<!ENTITY useAutoScroll.accesskey "У">
-<!ENTITY useSmoothScrolling.label "Ужываць плаўнае пракручванне">
-<!ENTITY useSmoothScrolling.accesskey "У">
-<!ENTITY systemIntegration.label "Узаемадзеянне з сістэмай">
-<!ENTITY alwaysCheckDefault.label "Заўсёды правяраць пры запуску, ці з'яўляецца &brandShortName; змоўчным спажыўцом пошты">
-<!ENTITY alwaysCheckDefault.accesskey "ў">
-<!ENTITY searchIntegration.label "Дазволіць &searchIntegration.engineName; шукаць лісты">
-<!ENTITY searchIntegration.accesskey "Д">
-<!ENTITY checkDefaultsNow.label "Праверыць зараз…">
-<!ENTITY checkDefaultsNow.accesskey "з">
-<!ENTITY configEditDesc.label "Пашыраная наладка">
-<!ENTITY configEdit.label "Рэдактар наладкі…">
-<!ENTITY configEdit.accesskey "Р">
-<!ENTITY returnReceiptsInfo.label "Вызначыць, як &brandShortName; апрацоўвае квіткі атрымання">
-<!ENTITY showReturnReceipts.label "Квіткі атрымання…">
-<!ENTITY showReturnReceipts.accesskey "К">
-<!ENTITY reading.caption "Чытанне">
-<!ENTITY display.caption "Адлюстраванне">
-<!ENTITY showCondensedAddresses.label "Паказваць толькі адлюстроўнае імя для людзей з маёй адраснай кнігі">
-<!ENTITY showCondensedAddresses.accesskey "П">
-<!ENTITY autoMarkAsRead.label "Самастойна пазначаць лісты прачытанымі">
-<!ENTITY autoMarkAsRead.accesskey "ч">
-<!ENTITY markAsReadNoDelay.label "Неадкладна пры адлюстраванні">
-<!ENTITY markAsReadNoDelay.accesskey "Н">
-<!ENTITY markAsReadDelay.label "Пасля адлюстравання на працягу">
-<!ENTITY markAsReadDelay.accesskey "П">
-<!ENTITY secondsLabel.label "секундаў">
-<!ENTITY openMsgIn.label "Адчыняць лісты:">
-<!ENTITY openMsgInNewTab.label "У новай устаўцы">
-<!ENTITY openMsgInNewTab.accesskey "у">
-<!ENTITY reuseExpRadio0.label "У новым акне лістоў">
-<!ENTITY reuseExpRadio0.accesskey "н">
-<!ENTITY reuseExpRadio1.label "У існым акне лістоў">
-<!ENTITY reuseExpRadio1.accesskey "і">
-<!ENTITY closeMsgOnMoveOrDelete.label "Зачыніць акно/устаўку пасля перамяшчэння або выдалення ліста">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "ч">
-<!ENTITY updateApp.label "Абнаўленні &brandShortName;:">
-<!ENTITY updateAuto.label "Самастойнае ўсталяванне абнаўленняў (раіцца: палепшаная бяспека)">
-<!ENTITY updateAuto.accesskey "С">
-<!ENTITY updateCheck.label "Правяраць, ці існуюць абнаўленні, але я сам буду вырашаць, ці ўсталёўваць іх">
-<!ENTITY updateCheck.accesskey "П">
-<!ENTITY updateManual.label "Ніколі не правяраць, ці існуюць абнаўленні (не раіцца: рызыка для бяспекі)">
-<!ENTITY updateManual.accesskey "Н">
-<!ENTITY updateAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забараняцца мае дадаткі">
-<!ENTITY updateAutoAddonWarn.accesskey "я">
-<!ENTITY updateHistory.label "Паказаць гісторыю абнаўленняў">
-<!ENTITY updateHistory.accesskey "г">
-<!ENTITY useService.label "Ужываць фонаваю службу для ўсталявання абналенняў">
-<!ENTITY useService.accesskey "У">
-<!ENTITY showSettings.label "Наладжванні…">
-<!ENTITY showSettings.accesskey "л">
-<!ENTITY proxiesConfigure.label "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">
-<!ENTITY connectionsInfo.caption "Злучэнне">
-<!ENTITY offlineInfo.caption "Па-за сеткаю">
-<!ENTITY offlineInfo.label "Наладзіць працу па-за сеткаю">
-<!ENTITY showOffline.label "Па-за сеткаю…">
-<!ENTITY showOffline.accesskey "з">
-<!ENTITY Diskspace "Месца на дыску">
-<!ENTITY offlineCompactFolders.label "Ушчыльняць усе папкі, калі я захоўваю больш">
+<!ENTITY itemGeneral.label       "Асноўныя">
+<!ENTITY dataChoicesTab.label    "Выбар дадзеных">
+<!ENTITY itemUpdate.label        "Абнаўленне">
+<!ENTITY itemNetworking.label    "Сетка і дыскавая прастора">
+<!ENTITY itemCertificates.label  "Пасведчанні">
+
+<!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "Дазволіць агульныя пошук і стварэнне паказнікаў">
+<!ENTITY enableGlodaSearch.accesskey   "а">
+
+<!ENTITY scrolling.label               "Пракручванне">
+<!ENTITY useAutoScroll.label           "Ужываць самапракручванне">
+<!ENTITY useAutoScroll.accesskey       "У">
+<!ENTITY useSmoothScrolling.label      "Ужываць плаўнае пракручванне">
+<!ENTITY useSmoothScrolling.accesskey  "У">
+
+<!ENTITY systemIntegration.label       "Узаемадзеянне з сістэмай">
+<!ENTITY alwaysCheckDefault.label      "Заўсёды правяраць пры запуску, ці з'яўляецца &brandShortName; змоўчным спажыўцом пошты">
+<!ENTITY alwaysCheckDefault.accesskey  "ў">
+<!ENTITY searchIntegration.label       "Дазволіць &searchIntegration.engineName; шукаць лісты">
+<!ENTITY searchIntegration.accesskey   "Д">
+<!ENTITY checkDefaultsNow.label        "Праверыць зараз…">
+<!ENTITY checkDefaultsNow.accesskey    "з">
+<!ENTITY configEditDesc.label          "Пашыраная наладка">
+<!ENTITY configEdit.label              "Рэдактар наладкі…">
+<!ENTITY configEdit.accesskey          "Р">
+<!ENTITY returnReceiptsInfo.label      "Вызначыць, як &brandShortName; апрацоўвае квіткі атрымання">
+<!ENTITY showReturnReceipts.label      "Квіткі атрымання…">
+<!ENTITY showReturnReceipts.accesskey  "К">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Тэлеметрыя">
+<!ENTITY enableTelemetry.label           "Уключыць тэлеметрыю">
+<!ENTITY enableTelemetry.accesskey       "т">
+<!ENTITY telemetryLearnMore.label        "Падрабязней">
+
+<!ENTITY crashReporterSection.label      "Паведамляльнік пра крахі">
+<!ENTITY enableCrashReporter.label       "Уключыць паведамляльнік пра крахі">
+<!ENTITY enableCrashReporter.accesskey   "У">
+<!ENTITY crashReporterLearnMore.label    "Падрабязней">
+
+<!-- Update -->
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!ENTITY updateApp2.label                "Абнаўленні &brandShortName;">
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
+<!ENTITY updateApp.version.pre           "Версія ">
+<!ENTITY updateApp.version.post          "">
+<!ENTITY updateAuto.label                "Самастойнае ўсталяванне абнаўленняў (раіцца: палепшаная бяспека)">
+<!ENTITY updateAuto.accesskey            "С">
+<!ENTITY updateCheck.label               "Правяраць, ці існуюць абнаўленні, але я сам буду вырашаць, ці ўсталёўваць іх">
+<!ENTITY updateCheck.accesskey           "П">
+<!ENTITY updateManual.label              "Ніколі не правяраць, ці існуюць абнаўленні (не раіцца: рызыка для бяспекі)">
+<!ENTITY updateManual.accesskey          "Н">
+<!ENTITY updateHistory.label             "Паказаць гісторыю абнаўленняў">
+<!ENTITY updateHistory.accesskey         "г">
+
+<!ENTITY useService.label                "Ужываць фонаваю службу для ўсталявання абналенняў">
+<!ENTITY useService.accesskey            "У">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Наладжванні…">
+<!ENTITY showSettings.accesskey        "л">
+<!ENTITY proxiesConfigure.label        "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">
+<!ENTITY connectionsInfo.caption       "Злучэнне">
+<!ENTITY offlineInfo.caption           "Па-за сеткаю">
+<!ENTITY offlineInfo.label             "Наладзіць працу па-за сеткаю">
+<!ENTITY showOffline.label             "Па-за сеткаю…">
+<!ENTITY showOffline.accesskey         "з">
+
+<!ENTITY Diskspace                       "Месца на дыску">
+<!ENTITY offlineCompactFolders.label     "Ушчыльняць усе папкі, калі я захоўваю больш">
 <!ENTITY offlineCompactFolders.accesskey "ш">
-<!ENTITY offlineCompactFoldersMB.label "МБ">
-<!ENTITY useCacheBefore.label "Ужываць да">
-<!ENTITY useCacheBefore.accesskey "У">
-<!ENTITY useCacheAfter.label "МБ прасторы для запасніку">
-<!ENTITY clearCacheNow.label "Ачысціць зараз">
-<!ENTITY clearCacheNow.accesskey "ч">
-<!ENTITY certSelection.description "Калі паслугач патрабуе маё асабістае пасведчанне:">
-<!ENTITY certs.auto "Выбраць адно самастойна">
-<!ENTITY certs.auto.accesskey "с">
-<!ENTITY certs.ask "Пытацца ў мяне кожны раз">
-<!ENTITY certs.ask.accesskey "р">
-<!ENTITY viewCertificates.label "Прагляд пасведчанняў">
-<!ENTITY viewCertificates.accesskey "г">
-<!ENTITY validation.label "Пацвярджэнне">
-<!ENTITY validation.accesskey "ц">
+<!ENTITY offlineCompactFoldersMB.label   "МБ">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Ужываць да">
+<!ENTITY useCacheBefore.accesskey        "У">
+<!ENTITY useCacheAfter.label             "МБ прасторы для запасніку">
+<!ENTITY overrideSmartCacheSize.label    "Перахапіць кіраванне кэшам">
+<!ENTITY overrideSmartCacheSize.accesskey "а">
+<!ENTITY clearCacheNow.label             "Ачысціць зараз">
+<!ENTITY clearCacheNow.accesskey         "ч">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Калі паслугач патрабуе маё асабістае пасведчанне:">
+<!ENTITY certs.auto                      "Выбраць адно самастойна">
+<!ENTITY certs.auto.accesskey            "с">
+<!ENTITY certs.ask                       "Пытацца ў мяне кожны раз">
+<!ENTITY certs.ask.accesskey             "р">
+<!ENTITY enableOCSP.label                "Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў">
+
 <!ENTITY viewSecurityDevices.label "Збудовы бяспекі">
 <!ENTITY viewSecurityDevices.accesskey "б">
