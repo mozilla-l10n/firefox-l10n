@@ -64,9 +64,9 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; yettwaleqqem">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Aleqqem isweḥlit unedbal n unagraw-ik">
+<!ENTITY update.adminDisabled       "Aleqqem isswḥel-it unedbal n unagraw-ik">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tleqm-it tummant-nniḍen ">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tleqqem-it tummant-nniḍen">
 <!ENTITY update.restarting          "Allus n usenker… ">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):

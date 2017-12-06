@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "Ulac-ik deg usfaylu n tunigin uslig. ">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Mačči deg usfaylu uslig i telliḍ tura.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Ldi asfaylu n tunigin tusligt ">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "s">
 
@@ -28,5 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Ammesten n usfuɣel ">
-<!ENTITY trackingProtection.description2                 "Kra n yesmal web zemren ad sqedcen imsfuɣal akken ad walin armud-inek deg Internet. S ummesten mgal asfuɣel, Firefox ad isewḥel ddeqs n imsfuɣal seg ulqaḍ n telɣut ɣef amek itteddu yiminig-inek.">
+<!ENTITY trackingProtection.description2                 "Kra n yismal web zemren ad sqedcen imesfuɣal akken ad walin armud-inek deg Internet. S ummesten mgal asfuɣel, Firefox ad isewḥel ddeqs n imesfuɣal seg ulqaḍ n telɣut ɣef amek itteddu yiminig-inek.">
 <!ENTITY trackingProtection.startTour1                   "Wali amek i itteddu">

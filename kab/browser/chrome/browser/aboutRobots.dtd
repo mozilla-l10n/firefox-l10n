@@ -12,9 +12,9 @@
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
 <!ENTITY robots.errorTitleText "Ansuf yiswen a yimdanen! Aqliyin ɣeṛ-wen. ">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
-<!ENTITY robots.errorShortDescText "Nusa-d ɣuṛ-wen s talwit d sser! ">
+<!ENTITY robots.errorShortDescText "Nusa-d ɣur-wen s talwit d sser!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
-<!ENTITY robots.errorLongDesc1 "Aṛubut ur izmir ad imges amdan, neɣ, ad yeǧǧ amdan ad imges. ">
+<!ENTITY robots.errorLongDesc1 "Aṛubut ur izmir ad imges amdan, neɣ ad yeǧǧ amdan ad imges.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
 <!ENTITY robots.errorLongDesc2 "Iṛubuten walan tiɣawsiwin ur tezmirem ad tnwim.">
 <!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
@@ -26,4 +26,4 @@
 <!-- TV: Battlestar Galactica (2004 series). Common expletive referring to Cylons. -->
 <!ENTITY robots.imgtitle "Yettwaɣ Kenfɣṛum">
 <!-- Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
-<!ENTITY robots.dontpress "Ttxil-k, ur ttsit ara i tikelt-nniḍen ɣef tqeffalt-a.">
+<!ENTITY robots.dontpress "Ttxil-k, ur ttsiti ara tikelt-nniḍen ɣef tqeffalt-a.">
