@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരം">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
 <!ENTITY aboutSupport.crashes.title "തകരാര്‍ രേഖപ്പെടുത്തുന്ന റിപോര്‍ട്ടുകള്‍">
@@ -22,9 +22,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionId "ഐഡി">
 
 
-
-
-
 <!ENTITY aboutSupport.experimentsTitle "പരീക്ഷണാര്‍ത്ഥമായ വിശേഷതകള്‍">
 <!ENTITY aboutSupport.experimentName "പേരു്">
 <!ENTITY aboutSupport.experimentId "ഐഡി">
@@ -38,9 +35,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "പേരു്">
 <!ENTITY aboutSupport.appBasicsVersion "പതിപ്പു്">
 <!ENTITY aboutSupport.appBasicsBuildID "ബില്‍ഡ് ഐഡി">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "ചാനല്‍ പുതുക്കുക">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "നാള്‍വഴി പുതുക്കുക">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "പരിഷ്കരണ നാള്‍വഴി കാണിക്കുക ">
@@ -54,16 +51,13 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "പ്രവര്‍ത്തന സജ്ജമായ പ്ലഗിനുകള്‍">
 <!ENTITY aboutSupport.appBasicsBuildConfig "ബിള്‍ഡ് ക്രമീകരണം">
 <!ENTITY aboutSupport.appBasicsUserAgent "യൂസര്‍ ഏജന്റ്">
-
 <!ENTITY aboutSupport.appBasicsMemoryUse "മെമ്മറിയുടെ ഉപയോഗം">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-
 <!ENTITY aboutSupport.appBasicsServiceWorkers "രജിസ്റ്റര്‍ ചെയ്‌ത Service Workers">
 
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "അനവധി പ്രക്രിയയ്ക്കുള്ള ജാലകങ്ങള്‍">
-
 
 
 
@@ -80,8 +74,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "മാറ്റം വരുത്തിയ പ്രധാനപ്പെട്ട മുന്‍ഗണനകള്‍">
 <!ENTITY aboutSupport.modifiedPrefsName "പേരു്">
 <!ENTITY aboutSupport.modifiedPrefsValue "മൂല്ല്യം">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js മുന്‍ഗണനകള്‍">
 <!ENTITY aboutSupport.userJSDescription "നിങ്ങളുടെ പ്രൊഫൈല്‍ ഫോള്‍ഡറില്‍ ഒരു <a id='prefs-user-js-link'>user.js file</a> അടങ്ങുന്നു. ഇതില്‍ &brandShortName; തയ്യാറാക്കാത്ത മുന്‍ഗണനങ്ങള്‍ ഉള്‍പ്പെടുന്നു.">
 
@@ -92,16 +86,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "ഗ്രാഫിക്ക്സ്">
 
 
-
-
 <!ENTITY aboutSupport.jsTitle "ജാവാസ്ക്രിപ്റ്റ്">
 <!ENTITY aboutSupport.jsIncrementalGC "വര്‍ദ്ധിച്ച ജിസി">
 
 <!ENTITY aboutSupport.a11yTitle "ആക്സസിബിളിറ്റി">
 <!ENTITY aboutSupport.a11yActivated "സജീവമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY aboutSupport.a11yForceDisabled "ആക്സസിബിളിറ്റി തടയുക">
-
-
 
 <!ENTITY aboutSupport.libraryVersionsTitle "ലൈബ്രറി പതിപ്പുകള്‍">
 
@@ -113,33 +103,12 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "സാന്റ്ബോക്സ്">
 
-
-
-
-
-
-
-
-
 <!ENTITY aboutSupport.safeModeTitle "സേഫ് മോഡ് ശ്രമിച്ചുനോക്കുക">
 <!ENTITY aboutSupport.restartInSafeMode.label "ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കുക…">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaDeviceName "പേര്">
+<!ENTITY aboutSupport.mediaDeviceGroup "ഗ്രൂപ്പ്">
+<!ENTITY aboutSupport.mediaDeviceState "അവസ്ഥ">
+<!ENTITY aboutSupport.mediaDeviceChannels "ചാനലുകൾ">
+<!ENTITY aboutSupport.mediaDeviceRate "നിരക്ക്">

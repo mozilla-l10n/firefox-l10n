@@ -6,7 +6,6 @@
 <!ENTITY aboutNetworking.warning               "ഇതു് പരീക്ഷണമാണു്. നിങ്ങള്‍ക്കു് മേല്‍നോട്ടം ആവശ്യമുണ്ടു്.">
 <!ENTITY aboutNetworking.showNextTime          "ഈ മുന്നറിയിപ്പു് അടുത്ത തവണ കാണിക്കുക">
 <!ENTITY aboutNetworking.ok                    "ശരി">
-
 <!ENTITY aboutNetworking.sockets               "സോക്കറ്റുകള്‍">
 <!ENTITY aboutNetworking.dns                   "ഡിഎന്‍എസ്">
 <!ENTITY aboutNetworking.websockets            "വെബ്സോക്കറ്റുകള്‍">
@@ -14,7 +13,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "എല്ലാ 3 സെക്കന്‍ഡുകളില്‍ സ്വയമായി പുതുക്കുക">
 <!ENTITY aboutNetworking.hostname              "ഹോസ്റ്റ്നാമം">
 <!ENTITY aboutNetworking.port                  "പോര്‍ട്ട്">
-
 <!ENTITY aboutNetworking.ssl                   "എസ്എസ്എല്‍">
 <!ENTITY aboutNetworking.active                "സജീവമാക്കുക">
 <!ENTITY aboutNetworking.idle                  "നിര്‍ജ്ജീവം">
@@ -29,30 +27,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "ലഭിച്ച സന്ദേശങ്ങള്‍">
 <!ENTITY aboutNetworking.bytesSent             "അയച്ച ബൈറ്റുകള്‍">
 <!ENTITY aboutNetworking.bytesReceived         "ലഭിച്ച ബൈറ്റുകള്‍">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.startLogging          "ലോഗ് ചെയ്ത് തുടങ്ങുക">
+<!ENTITY aboutNetworking.stopLogging           "ലോഗ് ചെയ്യുന്നത് അവസാനിപ്പിക്കുക">
+<!ENTITY aboutNetworking.dnsDomain             "ഡൊമെയിൻ">
+<!ENTITY aboutNetworking.totalNetworkRequests  "മൊത്തം നെറ്റ്‍വർക്ക് അഭ്യർത്ഥനയുടെ എണ്ണം">
