@@ -75,7 +75,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.label "Rregullim Faqeje…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
-<!ENTITY printPreviewCmd.accesskey "P">
+<!ENTITY printPreviewCmd.accesskey "a">
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.commandkey "p">
@@ -119,7 +119,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.label "Dilni nga Sa Krejt Ekrani">
 <!ENTITY exitFullScreenCmd.accesskey "D">
 <!ENTITY fullScreenCmd.label "Sa Krejt Ekrani">
-<!ENTITY fullScreenCmd.accesskey "S">
+<!ENTITY fullScreenCmd.accesskey "E">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Shfaqini Krejt Skedat">
 <!ENTITY showAllTabsCmd.accesskey "T">
