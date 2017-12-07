@@ -3,11 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY folderProps.windowtitle.label           "Veti">
+
 <!ENTITY generalInfo.label                       "Të dhëna Të përgjithshme">
-<!ENTITY folderCharsetFallback2.label             "Kodim Teksti Kalimi Vetvetiu:">
-<!ENTITY folderCharsetFallback2.accesskey         "E">
-<!ENTITY folderCharsetEnforce2.label              "Zbatoje kodimin për krejt mesazhet te dosja (kodimi i tekstit për mesazhe individuale dhe vetëzbulimi do të shpërfillen)">
-<!ENTITY folderCharsetEnforce2.accesskey          "A">
+<!ENTITY folderCharsetFallback2.label            "Kodim Teksti Kalimi Vetvetiu:">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetEnforce2.label             "Zbatoje kodimin për krejt mesazhet te dosja (kodimi i tekstit për mesazhe individuale dhe vetëzbulimi do të shpërfillen)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Riformo Treguesin për Përmbledhje Kartele">
 <!ENTITY folderRebuildSummaryFile2.label         "Riparoje Dosjen">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -21,10 +22,16 @@
 <!ENTITY daysOld.label "ditë të vjetër">
 <!ENTITY message.label "mesazhe">
 <!ENTITY retentionCleanup.label "Për të ripatur hapësirë në disk, mesazhet e vjetër mund të fshihen përgjithnjë">
+<!ENTITY retentionCleanupImap.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, si kopjet vendore, ashtu edhe origjinalet në shërbyesin e largët.">
+<!ENTITY retentionCleanupPop.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, përfshi origjinalet në shërbyesin e largët.">
+<!ENTITY retentionDeleteMsg.label "Fshi mesazhe më të vjetër se">
+<!ENTITY retentionDeleteMsg.accesskey "F">
 <!ENTITY retentionKeepAll.label "Mos fshi ndonjë mesazh">
 <!ENTITY retentionKeepAll.accesskey "M">
 <!ENTITY retentionKeepRecent.label "Fshiji krejt, përveç më të fundit">
 <!ENTITY retentionKeepRecent.accesskey "F">
+<!ENTITY retentionApplyToFlagged.label "Mesazhet me yllkë mbaji përherë">
+<!ENTITY retentionApplyToFlagged.accesskey "M">
 
 <!ENTITY folderSynchronizationTab.label          "Njëkohësim">
 <!ENTITY folderCheckForNewMessages2.label         "Kur merren mesazhe të rinj për këtë llogari, kontrolloje përherë këtë dosje">
@@ -42,6 +49,8 @@
 
 <!ENTITY folderProps.name.label                  "Emër:">
 <!ENTITY folderProps.name.accesskey              "E">
+<!ENTITY folderProps.location.label              "Vendndodhje:">
+<!ENTITY folderProps.location.accesskey          "V">
 
 <!ENTITY folderSharingTab.label                  "Përndarje">
 <!ENTITY privileges.button.label                 "Privilegje…">
@@ -53,23 +62,6 @@
 <!ENTITY folderQuotaRoot.label                   "Rrënjë Kuotash:">
 <!ENTITY folderQuotaUsage.label                  "Përdorim:">
 <!ENTITY folderQuotaStatus.label                 "Gjendje:">
-
-<!ENTITY folderRebuildSummaryFile2.label         "Riparoje Dosjen">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Ndonjëherë kartela e treguesit të dosjes (.msf) dëmtohet dhe mesazhet mund të duken sikur mungojnë, ose mesazhe të fshirë të vazhdojnë të duken; riparimi i dosjes mund ta ndreqë këtë punë.">
-
-<!ENTITY folderRebuildSummaryFileTip2.label      "Riformo Treguesin për Përmbledhje Kartele">
-<!ENTITY retentionDeleteMsg.label "Fshi mesazhe më të vjetër se">
-<!ENTITY retentionDeleteMsg.accesskey "F">
-<!ENTITY folderProps.location.label              "Vend:">
-<!ENTITY folderProps.location.accesskey          "V">
-<!ENTITY retentionApplyToFlagged.label "Mesazhet me yllkë mbaji përherë">
-<!ENTITY retentionApplyToFlagged.accesskey "M">
-
-<!ENTITY retentionCleanupImap.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, si kopjet vendore, ashtu edhe origjinalet në shërbyesin e largët.">
-<!ENTITY retentionCleanupPop.label "Për të kursyer vend në disk, mesazhet e vjetra mund të fshihen përgjithmonë, përfshi origjinalet në shërbyesin e largët.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Përfshiji mesazhet e kësaj dosjeje në përfundime Kërkimi Global">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "P">
 
 <!ENTITY numberOfMessages.label                  "Numër mesazhesh:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->

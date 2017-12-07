@@ -708,7 +708,7 @@
 <!ENTITY readColumn.label "Të lexuar">
 <!ENTITY receivedColumn.label "Të marrë">
 <!ENTITY starredColumn.label "Me yllkë">
-<!ENTITY locationColumn.label "Vend">
+<!ENTITY locationColumn.label "Vendndodhje">
 <!ENTITY idColumn.label "Radhë sipas Marrjes">
 <!ENTITY attachmentColumn.label "Bashkëngjitje">
 
@@ -731,7 +731,7 @@
 <!ENTITY readColumn2.tooltip "Renditi sipas të lexuarish">
 <!ENTITY receivedColumn2.tooltip "Renditi sipas datës së marrjes">
 <!ENTITY starredColumn2.tooltip "Renditi sipas yjesh">
-<!ENTITY locationColumn2.tooltip "Renditi sipas vendesh">
+<!ENTITY locationColumn2.tooltip "Renditi sipas vendndodhjesh">
 <!ENTITY idColumn2.tooltip "Renditi sipas rendit të marrjes">
 <!ENTITY attachmentColumn2.tooltip "Renditi sipas bashkëngjitjesh">
 
@@ -916,7 +916,7 @@
 <!ENTITY saveLinkAsCmd.accesskey "L">
 <!ENTITY saveImageAsCmd.label "Ruajeni Figurën Si…">
 <!ENTITY saveImageAsCmd.accesskey "F">
-<!ENTITY copyLinkCmd.label "Kopjo Vend Lidhjeje">
+<!ENTITY copyLinkCmd.label "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey "V">
 <!ENTITY copyImageAllCmd.label "Kopjo Figurën">
 <!ENTITY copyImageAllCmd.accesskey "P">
