@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "Дазволена">
 <!ENTITY newButton.label "Новае…">
 <!ENTITY newButton.accesskey "Н">
+<!ENTITY newButton.popupCopy.label "Капіяваць…">
+<!ENTITY newButton.popupCopy.accesskey "К">
 <!ENTITY editButton.label "Рэдагаваць…">
 <!ENTITY editButton.accesskey "Р">
 <!ENTITY deleteButton.label "Выдаліць">
@@ -34,5 +36,8 @@
 <!ENTITY folderPickerPrefix.accesskey "і">
 <!ENTITY helpButton.label "Даведка">
 <!ENTITY helpButton.accesskey "Д">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Пошук сітаў па назве…">
+
+
+

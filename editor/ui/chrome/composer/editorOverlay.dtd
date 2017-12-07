@@ -92,6 +92,8 @@
 <!ENTITY size-largeCmd.accesskey "в">
 <!ENTITY size-extraLargeCmd.label "Велізарны">
 <!ENTITY size-extraLargeCmd.accesskey "е">
+<!ENTITY size-hugeCmd.label "Гіганцкі">
+<!ENTITY size-hugeCmd.accesskey "Г">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Стыль тэксту">
@@ -308,6 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Выбраць колер падфарбоўкі для тэксту">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ўсталяваць памер шрыфту">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Меншы памер шрыфту">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Большы памер шрыфту">
 <!ENTITY boldToolbarCmd.tooltip "Выразны">
