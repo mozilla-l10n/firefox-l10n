@@ -561,7 +561,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "ნ">
 <!ENTITY viewBGImageCmd.label         "ფონური სურათის ნახვა">
 <!ENTITY viewBGImageCmd.accesskey     "ფ">
-<!ENTITY setDesktopBackgroundCmd.label      "ფონად დაყენება სამუშაო მაგიდაზე…">
+<!ENTITY setDesktopBackgroundCmd.label      "სამუშაო ეკრანის ფონად გამოყენება…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ს">
 <!ENTITY bookmarkPageCmd2.label       "გვერდის ჩანიშვნა">
 <!ENTITY bookmarkThisLinkCmd.label      "ბმულის ჩანიშვნა">
