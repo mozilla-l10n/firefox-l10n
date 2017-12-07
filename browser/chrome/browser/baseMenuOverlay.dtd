@@ -29,16 +29,16 @@
 <!ENTITY helpSafeMode.stop.accesskey   "A">
 
 <!ENTITY healthReport2.label      "Raport Mbi Shëndetin e &brandShorterName;-it">
-<!ENTITY healthReport2.accesskey  "R">
+<!ENTITY healthReport2.accesskey  "a">
 
 <!ENTITY helpTroubleshootingInfo.label      "Të dhëna Diagnostikimi">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.accesskey  "D">
 
 <!ENTITY helpFeedbackPage.label      "Parashtroni Përshtypjet…">
 <!ENTITY helpFeedbackPage.accesskey  "P">
 
 <!ENTITY helpShowTour2.label            "Tur &brandShorterName;-i">
-<!ENTITY helpShowTour2.accesskey        "T">
+<!ENTITY helpShowTour2.accesskey        "u">
 
 <!ENTITY preferencesCmdMac.label        "Parapëlqime…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
