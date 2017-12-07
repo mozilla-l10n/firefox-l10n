@@ -118,17 +118,27 @@
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "r">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Onderaan plaatsen">
 <!ENTITY moveAttachmentBottomPanelBtn.accesskey "d">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Selectie sorteren: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Sorteren: A - Z">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
      This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "S">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Selectie sorteren: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "S">
+     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
+     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
+     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
+     taken from the word "Sort", not from "Selection" or the sort direction part. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "S">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Sorteren: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "S">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Selectie sorteren: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "s">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Selectie sorteren: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "s">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Beeld">
