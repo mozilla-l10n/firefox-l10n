@@ -48,7 +48,7 @@
 <!ENTITY releaseNotes.link          "Shënime versioni">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Të dhëna Lejimi">
+<!ENTITY bottomLinks.license        "Të dhëna Licencimi">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Të drejta Përdoruesi">
