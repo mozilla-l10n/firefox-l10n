@@ -48,7 +48,7 @@
 <!ENTITY calendar.unifinder.tree.categories.label          "Kategori">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Renditi sipas kategorish">
 <!ENTITY calendar.unifinder.tree.location.label            "Vendndodhje">
-<!ENTITY calendar.unifinder.tree.location.tooltip2         "Renditi sipas vendesh">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Renditi sipas vendndodhjesh">
 <!ENTITY calendar.unifinder.tree.status.label              "Gjendje">
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Renditi sipas gjendjesh">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Emër Kalendari">
@@ -219,7 +219,7 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 Javë">
 <!ENTITY calendar.context.postpone.1week.accesskey  "J">
 
-<!ENTITY calendar.copylink.label       "Kopjo Vend Lidhjeje">
+<!ENTITY calendar.copylink.label       "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY calendar.copylink.accesskey   "K">
 
 <!-- Task View -->
