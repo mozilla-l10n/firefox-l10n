@@ -22,7 +22,7 @@
 <!ENTITY tabCrashed.requestHelp "Wilt u ons helpen?">
 <!ENTITY tabCrashed.requestHelpMessage "Crashrapporten helpen ons bij het analyseren van problemen en het verbeteren van &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Dit tabblad rapporteren">
-<!ENTITY tabCrashed.sendReport3 "Een automatisch crashrapport verzenden zodat we problemen als deze kunnen verhelpen">
+<!ENTITY tabCrashed.sendReport3 "Een automatisch crashrapport verzenden, zodat we problemen als deze kunnen verhelpen">
 <!ENTITY tabCrashed.commentPlaceholder2 "Optionele opmerkingen (opmerkingen zijn publiekelijk zichtbaar)">
 <!ENTITY tabCrashed.includeURL3 "De URL’s bijvoegen van de websites die u bezocht toen &brandShortName; crashte">
 <!ENTITY tabCrashed.emailPlaceholder "Voer hier uw e-mailadres in">
