@@ -101,7 +101,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Ruaji Krejt">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Ruajini krejt kartelat e bashkëngjitura">
 
-<!ENTITY copyLinkCmd.label        "Kopjo Adresë Lidhjeje">
+<!ENTITY copyLinkCmd.label        "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopjo ID Mesazhi">

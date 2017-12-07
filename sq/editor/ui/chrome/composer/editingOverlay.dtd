@@ -35,4 +35,4 @@
 <!ENTITY openToolbarCmd.label "Hape">
 <!ENTITY openToolbarCmd.tooltip "Hapni një kartelë vendore">
 <!ENTITY saveToolbarCmd.tooltip "Ruajeni kartelën në një vend në kompjuter">
-<!ENTITY publishToolbarCmd.tooltip "Ngarkojeni kartelën në një vend të largët">
+<!ENTITY publishToolbarCmd.tooltip "Ngarkojeni kartelën në një vendndodhje të largët">

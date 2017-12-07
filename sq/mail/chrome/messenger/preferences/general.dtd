@@ -5,7 +5,7 @@
 <!ENTITY messengerStartPage.label         "Faqe Fillimi për &brandShortName;-in">
 <!ENTITY enableStartPage.label            "Kur niset &brandShortName;-i, te fusha e mesazheve shfaq Faqen e Fillimit">
 <!ENTITY enableStartPage.accesskey        "K">
-<!ENTITY location.label                   "Vend:">
+<!ENTITY location.label                   "Vendndodhje:">
 <!ENTITY location1.accesskey               "V">
 <!ENTITY useDefault.label                 "Rimerr Parazgjedhjet">
 <!ENTITY useDefault.accesskey             "R">

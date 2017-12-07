@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fromColumn.label "Nga">
-<!ENTITY receivedColumn.label "Marrë më">
-
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Kërko për mesazhe në:">
 <!ENTITY searchHeading.accesskey     "o">
@@ -79,7 +76,5 @@
 <!ENTITY readColumn2.tooltip "Renditi sipas të lexuarish">
 <!ENTITY receivedColumn2.tooltip "Renditi sipas datash marrjeje">
 <!ENTITY starredColumn2.tooltip "Renditi sipas yjesh">
-<!ENTITY locationColumn2.tooltip "Renditi sipas vendesh">
+<!ENTITY locationColumn2.tooltip "Renditi sipas vendndodhjesh">
 <!ENTITY idColumn2.tooltip "Renditi sipas radhe marrjeje">
-
-<!ENTITY starredColumn.label "Me yllkë">
