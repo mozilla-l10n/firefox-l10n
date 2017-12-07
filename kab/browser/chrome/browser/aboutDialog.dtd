@@ -67,7 +67,7 @@
 <!ENTITY update.adminDisabled       "Aleqqem isswḥel-it unedbal n unagraw-ik">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tleqqem-it tummant-nniḍen">
-<!ENTITY update.restarting          "Allus n usenker… ">
+<!ENTITY update.restarting          "Aɛiwed n usenker…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

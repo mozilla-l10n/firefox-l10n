@@ -8,10 +8,10 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Nesḥassef. Nesɛa uguren akken ad d-nerr asebter-inek.">
 <!ENTITY restorepage.problemDesc2   "Nesɛa uguren akken ad d-nerr tiɣimit-inek n tunigin taneggarut. Fren err-d tiɣimit akken ad neɛreḍ tikkelt-nniḍen.">
-<!ENTITY restorepage.tryThis2       "Ur tezmireḍ ara ad terreḍ tiɣimit-ik? Tikwal iccer igellu-d s wugur-agi. Wali iccaren yezrin, kkes tacreḍt n rrcem seg iccaren ur tesriḍ ara ad d-terreḍ, sakin err-d.">
+<!ENTITY restorepage.tryThis2       "Ur tezmireḍ ara ad d-terreḍ tiɣimit-ik? Tikwal iccer igellu-d s wugur-agi. Wali iccaren yezrin, kkes tacreḍt n rrcem seg iccaren ur tesriḍ ara ad d-terreḍ, sakin err-d.">
 
-<!ENTITY restorepage.hideTabs       "Ffer iccaren yezrin">
-<!ENTITY restorepage.showTabs       "Sken iccaren yezrin">
+<!ENTITY restorepage.hideTabs       "Ffer accaren yezrin">
+<!ENTITY restorepage.showTabs       "Sken accaren yezrin">
 
 <!ENTITY restorepage.tryagainButton2 "Err-d tiɣimit">
 <!ENTITY restorepage.restore.access2 "R">
@@ -35,7 +35,7 @@
 <!ENTITY welcomeback2.pageTitle     "Ifuk!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ihegga.">
 
-<!ENTITY welcomeback2.restoreAll.label  "Err-d akk isfuyla &amp; d yiccaren">
+<!ENTITY welcomeback2.restoreAll.label  "Err-d akk isfuyla &amp; d waccaren">
 <!ENTITY welcomeback2.restoreSome.label "Fren ayen tebɣiḍ ad d-terreḍ">
 
 
@@ -48,5 +48,5 @@ their language.
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Aggan akked izegrar-inek ttwakksen, iɣewwaṛen n iminig-inek uɣalen ɣer wazalen-nsen amezwer. Ma yella ugur-inek ur yefri-ara, tzemreḍ ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
-<!ENTITY welcomeback2.link.pageInfo2        "issin ugar ɣef ayen tzemreḍ ad tgeḍ.">
+<!ENTITY welcomeback2.link.pageInfo2        "issin ugar ɣef wayen i tzemreḍ ad tgeḍ.">
 
