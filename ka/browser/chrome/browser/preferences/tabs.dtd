@@ -18,5 +18,5 @@
 <!ENTITY switchLinksToNewTabs.accesskey    "დ">
 
 <!ENTITY showTabsInTaskbar.label          "ჩანართების ესკიზების ჩვენება Windows-ის ამოცანათა ზოლში">
-<!ENTITY showTabsInTaskbar.accesskey      "დ">
+<!ENTITY showTabsInTaskbar.accesskey      "ც">
 <!ENTITY tabsGroup.label          "ჩანართები">
