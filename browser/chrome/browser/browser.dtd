@@ -694,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Dilni nga &brandShorterName;-i">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Dil">
+<!ENTITY quitApplicationCmd.label       "Dilni">
 <!ENTITY quitApplicationCmd.accesskey   "l">
 <!ENTITY quitApplicationCmdMac2.label   "Dilni prej &brandShorterName;-it">
 <!ENTITY quitApplicationCmd.key         "Q">
