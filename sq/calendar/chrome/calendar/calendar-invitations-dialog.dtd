@@ -13,7 +13,7 @@
 <!ENTITY calendar.invitations.list.decline.button.label                 "Hidhe Tej">
 <!ENTITY calendar.invitations.list.recurrentevent.text                  "Veprimtari ripërsëritëse">
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Veprimtari gjithë ditën">
-<!ENTITY calendar.invitations.list.location.text                        "Vend: ">
+<!ENTITY calendar.invitations.list.location.text                        "Vendndodhje: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organizator: ">
 <!ENTITY calendar.invitations.list.attendee.text                        "Pjesëmarrës: ">
 <!ENTITY calendar.invitations.list.none.text                            "Asnjë">

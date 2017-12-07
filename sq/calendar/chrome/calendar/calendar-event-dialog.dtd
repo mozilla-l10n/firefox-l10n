@@ -198,7 +198,7 @@
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titull:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "Vend:" >
+<!ENTITY event.location.label                             "Vendndodhje:" >
 <!ENTITY event.location.accesskey                         "V">
 <!ENTITY event.categories.label                           "Kategori:">
 <!ENTITY event.categories.accesskey                       "o">
@@ -403,7 +403,7 @@
 <!ENTITY read.only.event.end.label       "Datë Mbarimi:">
 <!ENTITY read.only.task.due.label        "Datë Përfundimi:">
 <!ENTITY read.only.repeat.label          "Përsëritje:">
-<!ENTITY read.only.location.label        "Vend:">
+<!ENTITY read.only.location.label        "Vendndodhje:">
 <!ENTITY read.only.category.label        "Kategori:">
 <!ENTITY read.only.organizer.label       "Organizues:">
 <!ENTITY read.only.reply.label           "Përgjigje:">
