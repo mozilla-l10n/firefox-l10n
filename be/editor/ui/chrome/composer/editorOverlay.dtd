@@ -2,7 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
 <!ENTITY saveCmd.key "S">
+
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Уставіць без фарматавання">
 <!ENTITY pasteNoFormatting.accesskey "б">
 <!ENTITY pasteNoFormatting.key "V">
@@ -18,11 +23,13 @@
 <!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
 <!ENTITY checkSpellingCmd2.accesskey "р">
 <!ENTITY checkSpellingCmd2.key "p">
+
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Уставіць">
 <!ENTITY insertMenu.accesskey "У">
-<!ENTITY insertLinkCmd.label "Спасылка…">
-<!ENTITY insertLinkCmd.accesskey "ы">
-<!ENTITY insertLinkCmd.key "L">
+<!ENTITY insertLinkCmd2.label "Спасылка…">
+<!ENTITY insertLinkCmd2.accesskey "С">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Іменаваны якар…">
 <!ENTITY insertAnchorCmd.accesskey "я">
 <!ENTITY insertImageCmd.label "Выява…">
@@ -39,10 +46,14 @@
 <!ENTITY insertCharsCmd.accesskey "З">
 <!ENTITY insertBreakAllCmd.label "Разрыў пад выявай(-мі)">
 <!ENTITY insertBreakAllCmd.accesskey "Р">
+
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Стварыць спасылку…">
 <!ENTITY createLinkCmd.accesskey "ы">
 <!ENTITY editLinkCmd.label "Рэдагаваць спасылку ў новым Укладальніку.">
 <!ENTITY editLinkCmd.accesskey "ў">
+
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Выбраць шрыфт">
 <!ENTITY fontfaceMenu.label "Шрыфт">
 <!ENTITY fontfaceMenu.accesskey "Ш">
@@ -57,31 +68,32 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
+
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Выбраць памер шрыфту">
 <!ENTITY decreaseFontSize.label "Меншы">
 <!ENTITY decreaseFontSize.accesskey "е">
 <!ENTITY decrementFontSize.key "&lt;">
-<!ENTITY decrementFontSize.key2 ",">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Большы">
 <!ENTITY increaseFontSize.accesskey "Б">
 <!ENTITY incrementFontSize.key "&gt;">
-<!ENTITY incrementFontSize.key2 ".">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
+
 <!ENTITY fontSizeMenu.label "Памер">
 <!ENTITY fontSizeMenu.accesskey "м">
-<!ENTITY size-xx-smallCmd.label "xx-малы">
-<!ENTITY size-xx-smallCmd.accesskey "л">
-<!ENTITY size-x-smallCmd.label "x-малы">
-<!ENTITY size-x-smallCmd.accesskey "а">
+<!ENTITY size-tinyCmd.label "Драбнюткі">
+<!ENTITY size-tinyCmd.accesskey "Д">
 <!ENTITY size-smallCmd.label "малы">
 <!ENTITY size-smallCmd.accesskey "м">
 <!ENTITY size-mediumCmd.label "сярэдні">
 <!ENTITY size-mediumCmd.accesskey "с">
 <!ENTITY size-largeCmd.label "вялікі">
 <!ENTITY size-largeCmd.accesskey "в">
-<!ENTITY size-x-largeCmd.label "x-вялікі">
-<!ENTITY size-x-largeCmd.accesskey "я">
-<!ENTITY size-xx-largeCmd.label "xx-вялікі">
-<!ENTITY size-xx-largeCmd.accesskey "л">
+<!ENTITY size-extraLargeCmd.label "Велізарны">
+<!ENTITY size-extraLargeCmd.accesskey "е">
+
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Стыль тэксту">
 <!ENTITY fontStyleMenu.accesskey "С">
 <!ENTITY styleBoldCmd.label "Выразны">
@@ -117,15 +129,18 @@
 <!ENTITY styleSamp.accesskey "ы">
 <!ENTITY styleVar.label "Зменная">
 <!ENTITY styleVar.accesskey "м">
+
 <!ENTITY formatFontColor.label "Колер тэксту…">
 <!ENTITY formatFontColor.accesskey "К">
 <!ENTITY tableOrCellColor.label "Фонавы колер табліцы або клеткі…">
 <!ENTITY tableOrCellColor.accesskey "Ф">
+
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Выдаліць іменаваныя якары">
 <!ENTITY formatRemoveNamedAnchors.accesskey "д">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
+
 <!ENTITY paragraphMenu.label "Параграф">
 <!ENTITY paragraphMenu.accesskey "П">
 <!ENTITY paragraphParagraphCmd.label "Параграф">
@@ -146,6 +161,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "А">
 <!ENTITY paragraphPreformatCmd.label "Адфарматаваны">
 <!ENTITY paragraphPreformatCmd.accesskey "ф">
+
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Спіс">
 <!ENTITY formatlistMenu.accesskey "С">
 <!ENTITY noneCmd.label "Няма">
@@ -160,11 +177,16 @@
 <!ENTITY listDefinitionCmd.accesskey "А">
 <!ENTITY listPropsCmd.label "Уласцівасці спіса…">
 <!ENTITY listPropsCmd.accesskey "с">
+
 <!ENTITY ParagraphSelect.tooltip "Выбраць фармат параграфа ">
+<!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Тэкст цела">
 <!ENTITY bodyTextCmd.accesskey "Т">
+<!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Пашыраныя ўласцівасці">
 <!ENTITY advancedPropertiesCmd.accesskey "ш">
+
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Выраўноўванне">
 <!ENTITY alignMenu.accesskey "В">
 <!ENTITY alignLeft.label "Левае">
@@ -179,27 +201,38 @@
 <!ENTITY alignJustify.label "Разасяродзіць">
 <!ENTITY alignJustify.accesskey "з">
 <!ENTITY alignJustify.tooltip "Выраўноўваць разасяроджана">
+
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Слой">
 <!ENTITY layerSendToBack.tooltip "Адпіхнуць назад">
 <!ENTITY layerBringToFront.tooltip "Выцягнуць наперад">
+
 <!ENTITY increaseIndent.label "Павялічыць водступ">
 <!ENTITY increaseIndent.accesskey "в">
 <!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Зменшыць водступ">
 <!ENTITY decreaseIndent.accesskey "м">
 <!ENTITY decreaseIndent.key "[">
+
 <!ENTITY colorsAndBackground.label "Колеры і фон старонкі…">
 <!ENTITY colorsAndBackground.accesskey "ф">
+
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Табліца">
 <!ENTITY tableMenu.accesskey "Т">
+
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Выбраць">
 <!ENTITY tableSelectMenu.accesskey "В">
+
 <!ENTITY tableSelectMenu2.label "Вылучэнне табліцы">
 <!ENTITY tableSelectMenu2.accesskey "В">
 <!ENTITY tableInsertMenu2.label "Устаўка табліцы">
 <!ENTITY tableInsertMenu2.accesskey "а">
 <!ENTITY tableDeleteMenu2.label "Выдаленне табліцы">
 <!ENTITY tableDeleteMenu2.accesskey "д">
+
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Уставіць">
 <!ENTITY tableInsertMenu.accesskey "У">
 <!ENTITY tableTable.label "Табліца">
@@ -229,8 +262,15 @@
 <!ENTITY tableCellBefore.accesskey "р">
 <!ENTITY tableCellAfter.label "Клетка пасля">
 <!ENTITY tableCellAfter.accesskey "а">
+<!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Выдаліць">
 <!ENTITY tableDeleteMenu.accesskey "д">
+
+<!-- text for "Join Cells" is in editor.properties
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
 <!ENTITY tableJoinCells.label "я">
 <!ENTITY tableJoinCells.accesskey "я">
 <!ENTITY tableSplitCell.label "Падзяліць клетку">
@@ -239,6 +279,8 @@
 <!ENTITY convertToTable.accesskey "р">
 <!ENTITY tableProperties.label "Уласцівасці табліцы…">
 <!ENTITY tableProperties.accesskey "ц">
+
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Паліца меню">
 <!ENTITY formatToolbar.tooltip "Паліца прыладаў фарматавання">
 <!ENTITY cutToolbarCmd.tooltip "Выразаць">
@@ -264,6 +306,8 @@
 <!ENTITY BackgroundColorButton.tooltip "Выбраць колер фону">
 <!ENTITY throbber.tooltip "Наведаць хатнюю старонку &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Выбраць колер падфарбоўкі для тэксту">
+
+<!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Меншы памер шрыфту">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Большы памер шрыфту">
 <!ENTITY boldToolbarCmd.tooltip "Выразны">
@@ -279,17 +323,21 @@
 <!ENTITY alignCenterButton.tooltip "Цэнтраванае выраўноўванне тэксту">
 <!ENTITY alignRightButton.tooltip "Выраўноўваць тэкст уздоўж правага прымежку">
 <!ENTITY alignJustifyButton.tooltip "Выраўноваць тэкст да левага і правага прымежкаў">
-<!ENTITY structSelect.label "Вылучыць">
-<!ENTITY structSelect.accesskey "л">
-<!ENTITY structRemoveTag.label "Выдаліць меціну">
-<!ENTITY structRemoveTag.accesskey "д">
-<!ENTITY structChangeTag.label "Змяніць меціну">
-<!ENTITY structChangeTag.accesskey "м">
-<!ENTITY insertTOC.label "Уставіць">
-<!ENTITY insertTOC.accesskey "У">
-<!ENTITY updateTOC.label "Абнавіць">
-<!ENTITY updateTOC.accesskey "н">
-<!ENTITY removeTOC.label "Выдаліць">
-<!ENTITY removeTOC.accesskey "д">
-<!ENTITY tocMenu.label "Табліца зместу…">
-<!ENTITY tocMenu.accesskey "б">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Вылучыць">
+<!ENTITY structSelect.accesskey     "л">
+<!ENTITY structRemoveTag.label      "Выдаліць меціну">
+<!ENTITY structRemoveTag.accesskey  "д">
+<!ENTITY structChangeTag.label      "Змяніць меціну">
+<!ENTITY structChangeTag.accesskey  "м">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Уставіць">
+<!ENTITY insertTOC.accesskey      "У">
+<!ENTITY updateTOC.label          "Абнавіць">
+<!ENTITY updateTOC.accesskey      "н">
+<!ENTITY removeTOC.label          "Выдаліць">
+<!ENTITY removeTOC.accesskey      "д">
+<!ENTITY tocMenu.label            "Табліца зместу…">
+<!ENTITY tocMenu.accesskey        "б">
