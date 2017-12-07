@@ -83,7 +83,7 @@
 <!ENTITY exceptionMgr.exceptionButton.accesskey "R">
 <!ENTITY exceptionMgr.supplementalWarning     "Banka, dyqane të ligjshme, dhe sajte të tjerë publikë nuk do t&apos;ju kërkojnë ta bëni këtë.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Shërbyes">
-<!ENTITY exceptionMgr.certlocation.url        "Vend:">
+<!ENTITY exceptionMgr.certlocation.url        "Vendndodhje:">
 <!ENTITY exceptionMgr.certlocation.download   "Merrni Dëshmi">
 <!ENTITY exceptionMgr.certlocation.accesskey  "b">
 <!ENTITY exceptionMgr.certstatus.caption      "Gjendje Dëshmie">

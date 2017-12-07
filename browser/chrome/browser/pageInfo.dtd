@@ -29,7 +29,7 @@
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Vend:">
+<!ENTITY  mediaLocation         "Vendndodhje:">
 <!ENTITY  mediaText             "Tekst Shoqërues:">
 <!ENTITY  mediaAltHeader        "Tekst Alternativ">
 <!ENTITY  mediaAddress          "Adresë">
