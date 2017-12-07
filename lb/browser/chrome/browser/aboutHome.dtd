@@ -20,6 +20,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Et ass einfach Däi Firefox genee esou ze gestalten wéi's Du et wëlls. <a>Dausenden vun Add-ons stinn zur Auswiel</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; ass fräi a quelloppen Software vun der Mozilla Stëftung. <a>Léier Deng Rechter kennen…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Lieszeechen">
 <!ENTITY abouthome.historyButton.label   "Historique">

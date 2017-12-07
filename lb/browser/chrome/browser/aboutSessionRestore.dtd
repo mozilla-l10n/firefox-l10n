@@ -9,10 +9,14 @@
 <!ENTITY restorepage.errorTitle2    "Entschëllegt, mir hu Schwieregkeeten Deng Säiten zeréck ze kréien.">
 
 
+<!ENTITY restorepage.tryagainButton2 "Sessioun restauréieren">
 <!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Nei Sessioun starten">
 <!ENTITY restorepage.close.access2   "N">
 
+<!ENTITY restorepage.restoreHeader  "Restauréieren">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Fënster &#37;S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
@@ -26,6 +30,7 @@
 <!ENTITY welcomeback2.pageTitle     "Erfolleg!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ass prett.">
 
+<!ENTITY welcomeback2.restoreSome.label "Nëmmen déi restauréieren déi's Du wëlls">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
@@ -36,4 +41,5 @@ their language.
 -->
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "wësse wat's Du méi maache kanns.">
 
