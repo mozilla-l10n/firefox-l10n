@@ -252,8 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "სანიშნების ხელსაწყოთა ზოლის დამალვა">
 <!ENTITY searchBookmarks.label              "სანიშნების ძიება">
 <!ENTITY bookmarkingTools.label             "სანიშნების ხელსაწყოები">
-<!ENTITY addBookmarksMenu.label             "სანიშნების მენიუს, ხელსაწყოთა ზოლში დამატება">
-<!ENTITY removeBookmarksMenu.label          "სანიშნების მენიუს, ხელსაწყოთა ზოლიდან ამოღება">
+<!ENTITY addBookmarksMenu.label             "სანიშნების მენიუს დამატება ხელსაწყოთა ზოლზე">
+<!ENTITY removeBookmarksMenu.label          "სანიშნების მენიუს ამოღება ხელსაწყოთა ზოლიდან">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
