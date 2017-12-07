@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "Een pagina terug gaan">
 <!ENTITY cmd.forward.tooltip                  "Een pagina vooruit gaan">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Sommige extensies konden niet worden geverifieerd">
 <!ENTITY showAllExtensions.button.label       "Alle extensies tonen">
 <!ENTITY debugAddons.label                    "Add-ons debuggen">
@@ -68,7 +69,7 @@
 <!ENTITY updates.resetUpdatesToManual.accesskey      "t">
 <!ENTITY updates.updating.label               "Add-ons worden bijgewerkt">
 <!ENTITY updates.installed.label              "Uw add-ons zijn bijgewerkt.">
-<!ENTITY updates.downloaded.label             "Uw add-on updates zijn gedownload.">
+<!ENTITY updates.downloaded.label             "Uw add-on-updates zijn gedownload.">
 <!ENTITY updates.restart.label                "Herstart nu om de installatie te voltooien.">
 <!ENTITY updates.noneFound.label              "Geen updates gevonden">
 <!ENTITY updates.manualUpdatesFound.label     "Beschikbare updates bekijken">
@@ -79,7 +80,7 @@
 <!ENTITY cmd.showDetails.label                "Meer informatie tonen">
 <!ENTITY cmd.showDetails.accesskey            "M">
 <!ENTITY cmd.findUpdates.label                "Updates zoeken">
-<!ENTITY cmd.findUpdates.accesskey            "U">
+<!ENTITY cmd.findUpdates.accesskey            "z">
 <!ENTITY cmd.preferencesWin.label             "Opties">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Voorkeuren">
