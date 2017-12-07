@@ -20,7 +20,7 @@
 
 <!ENTITY  paneSearchResults.title       "Përfundime Kërkimi">
 <!ENTITY  paneGeneral.title             "Të përgjithshme">
-<!ENTITY  paneSearch.title              "Kërkoni">
+<!ENTITY  paneSearch.title              "Kërkim">
 <!ENTITY  paneFilesApplications.title   "Kartela &amp; Aplikacione">
 <!ENTITY  panePrivacySecurity.title     "Privatësi &amp; Siguri">
 <!ENTITY  paneContainers.title          "Skeda Kontejneri">

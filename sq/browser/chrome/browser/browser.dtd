@@ -274,11 +274,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Shkarkime">
-<!ENTITY downloads.accesskey          "S">
+<!ENTITY downloads.accesskey          "a">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Shtesa">
-<!ENTITY addons.accesskey             "S">
+<!ENTITY addons.accesskey             "a">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Zhvillues Web">
