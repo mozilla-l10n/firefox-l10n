@@ -16,7 +16,7 @@
 
 <!ENTITY showURLBarSuggestions2.label           "Shfaq këshillime kërkimi te përfundimet për shtyllë vendesh">
 <!ENTITY showURLBarSuggestions2.accesskey       "q">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Këshillimet për kërkime nuk do të shfaqen te shtylla e vendeve, ngaqë e keni formësuar &brandShortName;-in të mos mbajë kurrë mend historikun e shfletimeve.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Këshillimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë &brandShortName;-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.">
 
 <!ENTITY oneClickSearchEngines.label           "Motorë kërkimesh me një klikim">
 

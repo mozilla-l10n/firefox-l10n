@@ -80,7 +80,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Kopjo Vend Lidhjeje">
+<!ENTITY copyLinkCmd.label "Kopjo Vendndodhje Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey "V">
 <!ENTITY copyEmailCmd.label "Kopjo Adresën Email">
 <!ENTITY copyEmailCmd.accesskey "E">

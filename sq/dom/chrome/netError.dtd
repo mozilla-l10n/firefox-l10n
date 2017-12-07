@@ -26,16 +26,26 @@
 <!ENTITY generic.longDesc "<p>Hëpërhë nuk ka të dhëna shtesë gati rreth këtij problemi apo gabimi.</p>">
 
 <!ENTITY malformedURI.title "Adresë e Pavlefshme">
-<!ENTITY malformedURI.longDesc "<p>Adresa e dhënë nuk është sipas ndonjë formati të pranuar. Ju lutemi, kontrolloni për gabime te shtylla e vendeve dhe riprovoni.</p>">
+<!ENTITY malformedURI.longDesc "<p>Adresa e dhënë nuk është sipas ndonjë formati të pranuar. Ju lutemi, kontrolloni për gabime te shtylla e vendndodhjeve dhe riprovoni.</p>">
 
 <!ENTITY netInterrupt.title "Shpërngulja e Të dhënave u Ndërpre">
 <!ENTITY netInterrupt.longDesc "<p>Shfletuesi u lidh me sukses, por gjatë shpërnguljes së të dhënave lidhja u ndërpre. Ju lutemi, riprovoni.</p><ul><li>Nuk jeni në gjendje të shfletoni faqe të tjera? Kontrolloni lidhjen në rrjet të kompjuterit.</li><li>Keni ende vështirësi? Për ndihmë, lidhuni me administruesin e rrjetit tuaj ose me furnizuesin e Internetit.</li></ul>">
+
+<!ENTITY notCached.title "Dokumenti Ka Skaduar">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk është më i passhëm prej fshehtinës së shfletuesit.</p><ul><li>Si masë parandaluese sigurie, shfletuesi nuk rikërkon vetvetiu dokumente rezervat.</li><li>Click Riprovoni ta rikërkoni dokumentin prej sajtit.</li></ul>">
 
 <!ENTITY netOffline.title "Mënyrë Jo Në Linjë">
 <!ENTITY netOffline.longDesc2 "<p>Shfletuesi po punon nën mënyrën jashtë linje dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet aktiv?</li><li>Shtypni &quot;Riprovoni&quot; që të kaloni nën mënyrën në linjë dhe të ringarkoni faqen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Lënde">
 <!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot, sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li></ul>">
+
+<!ENTITY unsafeContentType.title "Lloj Kartele Jo i Parrezik">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+<li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Lidhje e Ndërprerë">
 <!ENTITY netReset.longDesc "<p>Lidhja te rrjeti u ndërpre ndërkohë që bëheshin përpjekje për lidhje. Ju lutemi, riprovoni.</p>">
@@ -58,6 +68,9 @@
 <!ENTITY unknownSocketType.title "Përgjigje e Pasaktë">
 <!ENTITY unknownSocketType.longDesc "<p>Sajti iu përgjigj kërkesës së rrjetit në një mënyrë të papritur dhe shfletuesi nuk vazhdon dot.</p>">
 
+<!ENTITY nssFailure2.title "Dështoi Lidhja e Sigurt">
+<!ENTITY nssFailure2.longDesc2 "<p>Faqja që po përpiqeni të shihni nuk shfaqet dot, ngaqë nuk u vërtetua dot mirëfilltësia e të dhënave të marra.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li></ul>">
+
 <!ENTITY nssBadCert.title "Dështoi Lidhja e Sigurt">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Ky mund të jetë problem i formësimit të shërbyesit, ose mund të bëhet fjalë për dikë që po provon të imitojë shërbyesin.</li>
@@ -65,18 +78,11 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Dështoi Lidhja e Sigurt">
-<!ENTITY nssFailure2.longDesc2 "<p>Faqja që po përpiqeni të shihni nuk shfaqet dot, ngaqë nuk u vërtetua dot mirëfilltësia e të dhënave të marra.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li></ul>">
-
-<!ENTITY unsafeContentType.title "Lloj Kartele Jo i Parrezik">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-<li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u bërë të ditur këtë problem.</li>
-</ul>
+<!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
+<!ENTITY securityOverride.warningContent "
+<p>S&apos;do të duhej të shtoni përjashtime, nëse po përdorni një lidhje internet të cilës nuk i zini besë plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizime për këtë shërbyes.</p>
+<p>Nëse doni ende të shtoni një përjashtim për këtë sajt, këtë mund ta bëni që nga rregullimet tuaja të mëtejshme për fshehtëzimet.</p>
 ">
-
-<!ENTITY remoteXUL.title "XUL i Largët">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul></p>">
 
 <!ENTITY cspBlocked.title "Bllokuar nga Rregulla Sigurie Lënde">
 <!ENTITY cspBlocked.longDesc "<p>Shfletuesi e parandaloi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë faqja përmban një rregull sigurie lënde që e pengon këtë.</p>">
@@ -84,14 +90,8 @@
 <!ENTITY corruptedContentErrorv2.title "Gabim nga Lëndë e Dëmtuar">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Faqja që po rrekeni të shihni nuk mund të shfaqet, ngaqë u pikas një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit që t&apos;u njoftoni këtë problem.</li></ul>">
 
-<!ENTITY notCached.title "Dokumenti Ka Skaduar">
-<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk është më i passhëm prej fshehtinës së shfletuesit.</p><ul><li>Si masë parandaluese sigurie, shfletuesi nuk rikërkon vetvetiu dokumente rezervat.</li><li>Click Riprovoni ta rikërkoni dokumentin prej sajtit.</li></ul>">
-
-<!ENTITY securityOverride.linkText "Ose mund të shtoni një përjashtim…">
-<!ENTITY securityOverride.warningContent "
-<p>S&apos;do të duhej të shtoni përjashtime, nëse po përdorni një lidhje internet të cilës nuk i zini besë plotësisht, ose nëse nuk jeni mësuar të shihni sinjalizime për këtë shërbyes.</p>
-<p>Nëse doni ende të shtoni një përjashtim për këtë sajt, këtë mund ta bëni që nga rregullimet tuaja të mëtejshme për fshehtëzimet.</p>
-">
+<!ENTITY remoteXUL.title "XUL i Largët">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ju lutemi, lidhuni me të zotët e sajtit për t&apos;u njoftuar këtë problem.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Lidhja juaj s’është e sigurt">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

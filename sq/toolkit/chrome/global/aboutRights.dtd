@@ -66,13 +66,13 @@
 <!ENTITY rights.safebrowsing-term4 "Shfletimi i Parrezik Sigurt tani është çaktivizuar">
 
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "Shfletimi i Ndjeshëm Ndaj Vendit: ">
-<!ENTITY rights.locationawarebrowsing-b "është përherë në dorën tuaj ta përdorni a jo. Kurrë nuk dërgohen të dhëna vendi pa lejen tuaj. Nëse dëshironi ta çaktivizoni tërësisht veçorinë, ndiqni hapat vijues:">
+<!ENTITY rights.locationawarebrowsing-a "Shfletimi i Ndjeshëm Ndaj Vendndodhjes: ">
+<!ENTITY rights.locationawarebrowsing-b "është përherë në dorën tuaj ta përdorni a jo. Kurrë nuk dërgohen të dhëna vendndodhjeje pa lejen tuaj. Nëse dëshironi ta çaktivizoni tërësisht veçorinë, ndiqni hapat vijues:">
 <!ENTITY rights.locationawarebrowsing-term1a "Te shtylla e URL-ve, shtypni ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Shtypni geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Dyklikoni mbi parapëlqimin geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Shfletimi i Ndjeshëm Ndaj Vendit tani është joveprues">
+<!ENTITY rights.locationawarebrowsing-term4 "Shfletimi i Ndjeshëm Ndaj Vendndodhjes tani është joveprues">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Një përmbledhje shërbimesh sajtesh të përfshirë në produkt, bashkë me udhëzimet se si të çaktivizohen ato, në pastë, do të duhej të përfshiheshin këtu.">
@@ -81,7 +81,7 @@
 <!ENTITY rights.webservices-term1-unbranded "Këtu do të duheshin radhitur çfarëdo kushtesh shërbimi të zbatueshme mbi këtë produkt.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights2.webservices-term1 "&vendorShortName; dhe kontribuesit e saj, të licencuarit prej saj dhe partnerët përpiqen të ofrojnë Shërbimet më të përpikta dhe më të përditësuara. Sidoqoftë, nuk garantojmë dot që këto të dhëna janë të plota dhe pa gabim. Për shembull, Shërbimi i Shfletimi të Parrezik, gabimisht, mundet të mos identifikojë dot disa sajte me rrezik, apo të identifikojë sajte që nuk janë të tillë dhe, në lidhje me Shërbimin Shfletim i Ndjeshëm ndaj Vendit, krejt vendet e furnizuara nga shërbimi ynë janë vetëm propozime dhe as ne, as furnizuesit tanë të shërbimit nuk garantojnë përpikërinë e vendeve të furnizuara.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; dhe kontribuesit e saj, të licencuarit prej saj dhe partnerët përpiqen të ofrojnë Shërbimet më të përpikta dhe më të përditësuara. Sidoqoftë, nuk garantojmë dot që këto të dhëna janë të plota dhe pa gabim. Për shembull, Shërbimi i Shfletimi të Parrezik, gabimisht, mundet të mos identifikojë dot disa sajte me rrezik, apo të identifikojë sajte që nuk janë të tillë dhe, në lidhje me Shërbimin Shfletim i Ndjeshëm ndaj Vendndodhjes, krejt vendndodhjet e furnizuara nga shërbimi ynë janë vetëm propozime dhe as ne, as furnizuesit tanë të shërbimit, nuk garantojmë përpikërinë e vendndodhjeve të furnizuara.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; mund t&apos;i ndërpresë ose ndryshojë Shërbimet kur dhe si të dojë.">
 <!ENTITY rights2.webservices-term3 "Mirëpresim përdorimin e këtyre Shërbimeve me versionin shoqërues të &brandShortName;-it, dhe gëzoni tërë të drejtat e nevojshme në lidhje me këtë. &vendorShortName; dhe të licencuarit prej saj ruajnë tërë të drejtat e tjera mbi Shërbimet. Këto kushte nuk janë hartuar për kufizimin e ndonjë të drejte dhënë sipas licencash burimi të hapur, të zbatueshme mbi &brandShortName;-in dhe versionet përgjegjëse të kodit burim të &brandShortName;-it.">
 <!ENTITY rights.webservices-term4 "Shërbimet jepen &quot;siç janë.&quot;  &vendorShortName;, kontribuesit në të, të licencuarit prej saj, dhe shpërndarësit, nuk marrin përsipër asnjë garanci, qoftë shprehimisht apo të nënkuptuar, përfshi pa kufizime, garanci që Shërbimet janë të tregtueshme dhe të përshtatshme për qëllimet tuaja të veçanta. Merrni mbi vete tërë rrezikun e përzgjedhjes së Shërbimeve për qëllimet tuaja dhe për cilësinë dhe funksionimin e Shërbimeve. Disa juridiksione nuk e lejojnë përjashtimin ose kufizimin e garancive të nënkuptuara, ndaj kjo klauzolë mund të mos ketë vlerë për rastin tuaj.">
