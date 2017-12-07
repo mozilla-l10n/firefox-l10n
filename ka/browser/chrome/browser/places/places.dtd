@@ -18,10 +18,10 @@
 <!ENTITY views.tooltip                  "შეცვალეთ ხედი">
 <!ENTITY view.columns.label             "სვეტების ჩვენება">
 <!ENTITY view.columns.accesskey         "ს">
-<!ENTITY view.sort.label                "დახარისხება">
-<!ENTITY view.sort.accesskey            "რ">
-<!ENTITY view.unsorted.label            "დაუხარისხებლად">
-<!ENTITY view.unsorted.accesskey        "ლ">
+<!ENTITY view.sort.label                "დალაგება">
+<!ENTITY view.sort.accesskey            "ლ">
+<!ENTITY view.unsorted.label            "არეული">
+<!ENTITY view.unsorted.accesskey        "უ">
 <!ENTITY view.sortAscending.label       "აღმავალი წესით">
 <!ENTITY view.sortAscending.accesskey   "ა">
 <!ENTITY view.sortDescending.label      "დაღმავალი წესით">
@@ -58,7 +58,7 @@
 <!ENTITY cmd.properties.label      "თვისებები">
 <!ENTITY cmd.properties.accesskey  "თ">
 
-<!ENTITY cmd.sortby_name.label              "დახარისხება სახელით">
+<!ENTITY cmd.sortby_name.label              "სახელით დალაგება">
 <!ENTITY cmd.sortby_name.accesskey          "დ">
 <!ENTITY cmd.context_sortby_name.accesskey  "ხ">
 
@@ -79,7 +79,7 @@
 <!ENTITY col.name.label          "სახელი">
 <!ENTITY col.tags.label          "ჭდეები">
 <!ENTITY col.url.label           "მისამართი">
-<!ENTITY col.mostrecentvisit.label "ბოლო მონახულება">
+<!ENTITY col.mostrecentvisit.label "ხშირად მონახულებული">
 <!ENTITY col.visitcount.label    "მონახულებები">
 <!ENTITY col.description.label   "აღწერილობა">
 <!ENTITY col.dateadded.label     "დამატებული">
@@ -106,13 +106,13 @@
 
 <!ENTITY view.label               "ხედი">
 <!ENTITY view.accesskey           "ხ">
-<!ENTITY byDate.label             "თარიღით">
+<!ENTITY byDate.label             "თარიღი">
 <!ENTITY byDate.accesskey         "თ">
-<!ENTITY bySite.label             "საიტით">
+<!ENTITY bySite.label             "საიტი">
 <!ENTITY bySite.accesskey         "ს">
-<!ENTITY byMostVisited.label      "მონახულებების რაოდენობით">
+<!ENTITY byMostVisited.label      "ხშირად მონახულებული">
 <!ENTITY byMostVisited.accesskey  "მ">
-<!ENTITY byLastVisited.label      "ბოლო მონახულობის თარიღით">
+<!ENTITY byLastVisited.label      "ბოლოს მონახულებული">
 <!ENTITY byLastVisited.accesskey  "ბ">
-<!ENTITY byDayAndSite.label       "თარიღით და საიტით">
-<!ENTITY byDayAndSite.accesskey   "ს">
+<!ENTITY byDayAndSite.label       "თარიღი და საიტი">
+<!ENTITY byDayAndSite.accesskey   "დ">
