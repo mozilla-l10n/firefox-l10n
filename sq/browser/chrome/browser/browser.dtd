@@ -196,14 +196,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Ringarkoje">
 <!ENTITY stopCmd.label                "Ndale">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY goEndCap.tooltip             "Shkoni te adresa e dhënë te Shtylla e Vendeve">
+<!ENTITY goEndCap.tooltip             "Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve">
 <!ENTITY printButton.label            "Shtype">
 <!ENTITY printButton.tooltip          "Shtypeni këtë faqe">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Shihni të dhëna sajti">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Hapni panelin e mesazheve">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Hapni panelin e kërkesave për vend">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Hapni panel kërkesash vendndodhjesh">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Hapni kuadratin e mesazhit të instalimit të shtesës">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Administroni leje përftimesh nga kanavaca">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Hapni panelin për depozitim jashtë linje">
@@ -225,7 +225,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.cameraBlocked.tooltip            "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ia keni bllokuar këtij sajti përdorimin e ekranit tuaj.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Ia keni bllokuar këtij sajti përdorimin e të dhënave mbi vendin tuaj.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Ia keni bllokuar këtij sajti të dhënat mbi vendndodhjen tuaj.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ia keni bllokuar këtij sajti depozitimin e të dhënave.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ia keni bllokuar këtij sajti njoftimet.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "E keni bllokuar depozitimin e qëndrueshëm për këtë sajt.">

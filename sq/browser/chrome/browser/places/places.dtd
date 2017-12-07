@@ -78,7 +78,7 @@
 
 <!ENTITY col.name.label          "Emër">
 <!ENTITY col.tags.label          "Etiketa">
-<!ENTITY col.url.label           "Vend">
+<!ENTITY col.url.label           "Vendndodhje">
 <!ENTITY col.mostrecentvisit.label "Vizita Më e Freskët">
 <!ENTITY col.visitcount.label    "Numër Vizitash">
 <!ENTITY col.description.label   "Përshkrim">
