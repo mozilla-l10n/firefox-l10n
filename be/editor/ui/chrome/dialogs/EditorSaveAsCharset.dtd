@@ -2,8 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Захаваць і змяніць сукупнасць знакаў">
+<!-- These strings are generic to all or most of the editor's dialogs. -->
+
+<!-- This button is for the progressive disclosure of additional editing functionality -->
+
+<!-- These strings are for use specifically in the editor's link dialog. -->
 <!ENTITY documentTitleTitle.label "Загаловак старонкі">
-<!ENTITY documentCharsetTitle.label "Сукупнасць знакаў">
-<!ENTITY documentCharsetDesc.label "Вылучыце сукупнасць знакаў для захавання дакумента:">
+<!ENTITY documentCharsetTitle2.label "Кадаванне тэксту">
 <!ENTITY documentExportToText.label "Экспартаваць як тэкст">
+
+
+

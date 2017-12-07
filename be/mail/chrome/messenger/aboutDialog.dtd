@@ -19,6 +19,7 @@
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 
 <!ENTITY community.start2           "&brandShortName; распрацаваны ">
@@ -29,7 +30,10 @@
 <!ENTITY community.creditsLink      "сусветным згуртаваннем">
 
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.middle              " або ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "далучайцеся!">
+<!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Заўвагі пры выпуску">
 

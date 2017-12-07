@@ -130,6 +130,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "с">
 <!ENTITY newlistButton.label                            "Новы спіс">
 <!ENTITY newlistButton.accesskey                        "С">
+<!ENTITY editPropertiesButton.label                     "Рэдагаваць">
 <!ENTITY newmsgButton.label                             "Укласці">
 <!ENTITY newmsgButton.accesskey                         "У">
 <!ENTITY newIM.label                                    "Вокамгненнае паведамленне">
