@@ -279,7 +279,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Включено при поверително разглеждане">
 <!ENTITY pref_tracking_protection_disabled "Изключено">
 
-<!ENTITY pref_whats_new_notification "Какво е новото във &brandShortName;">
+<!ENTITY pref_whats_new_notification "Новото в това издание на &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Научете за новите възможности след обновяване">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
@@ -820,7 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Използвате последното издание на &brandShortName;">
-<!ENTITY whatsnew_notification_summary "Разберете какво е новото в тази версия">
+<!ENTITY whatsnew_notification_summary "Разберете какво е новото в това издание">
 
 <!ENTITY promotion_add_to_homescreen "Връзка на началния екран">
 
