@@ -15,7 +15,7 @@
 <!ENTITY helpSafeMode.accesskey "Р">
 <!ENTITY releaseCmd2.label "Бележки по изданието">
 <!ENTITY releaseCmd2.accesskey "Б">
-<!ENTITY whatsNewCmd.label "Новини">
+<!ENTITY whatsNewCmd.label "Новото в това издание">
 <!ENTITY whatsNewCmd.accesskey "Н">
 <!ENTITY openHelp.label "Съдържание">
 <!ENTITY openHelp.accesskey "С">
