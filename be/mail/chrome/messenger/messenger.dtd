@@ -487,6 +487,9 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Прылады распрацоўшчыка">
 <!ENTITY devtoolsMenu.accesskey "а">
+<!ENTITY devToolboxCmd.label "Панэль распрацоўшчыка">
+<!ENTITY devToolboxCmd.accesskey "П">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "п">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -616,6 +619,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Атрымаць лісты">
 <!ENTITY folderContextGetMessages.accesskey "А">
+<!ENTITY folderContextPauseAllUpdates.label "Спыніць усе абнаўленні">
+<!ENTITY folderContextPauseUpdates.label "Спыніць абнаўленні">
+<!ENTITY folderContextPauseUpdates.accesskey "С">
 <!ENTITY folderContextOpenInNewWindow.label "Адкрыць у новым акне">
 <!ENTITY folderContextOpenInNewWindow.accesskey "А">
 <!ENTITY folderContextOpenNewTab.label "Адчыніць у новай устаўцы">
@@ -925,3 +931,4 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Наладжванні значка прыстасавання…">
+<!ENTITY openAddressBookDock.label      "Адкрыць адрасную кнігу">
