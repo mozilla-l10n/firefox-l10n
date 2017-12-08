@@ -9,13 +9,17 @@
 <!ENTITY firstrun_privacy_subtext "ട്രാക്കിങ്ങ് സംരക്ഷണത്തോടൊപ്പമുള്ള സ്വകാര്യ ബ്രൌസിങ്ങ് നിങ്ങള്‍ ബ്രൌസ് ചെയ്യുമ്പോള്‍ ട്രാക്കറുകളെ തടയുന്നതോടൊപ്പം നിങ്ങള്‍ ബ്രൌസിങ്ങ് അവസാനിപ്പിക്കുമ്പോള്‍ നാള്‍വഴി സൂക്ഷിക്കുന്നില്ല.">
 <!ENTITY firstrun_panel_title_customize "ഇഷ്ടാനുസൃതമാക്കുക">
 <!ENTITY firstrun_customize_message "&brandShortName; നിങ്ങളുടേതാക്കി മാറ്റുക.">
+<!ENTITY firstrun_customize_subtext "ആഡ്-ഓൺസ് ഉപയോഗിച്ച് &brandShortName; ഇഷ്ടാനുസൃതമാക്കുക. പരസ്യങ്ങൾ തടയുക, സവിശേഷതകൾ ചേർക്കുക അല്ലെങ്കിൽ നിങ്ങളുടെ വ്യക്തിത്വം പ്രതിഫലിപ്പിക്കാൻ പുതിയ തീം തിരഞ്ഞെടുക്കുക.">
 <!ENTITY firstrun_bookmarks_title "നാള്‍വഴി">
+<!ENTITY firstrun_bookmarks_message "നിങ്ങളുടെ ഇഷ്ടങ്ങള്‍, മുന്നിലും മധ്യത്തിലും">
 <!ENTITY firstrun_bookmarks_subtext "നിങ്ങള്‍ തിരയുമ്പോള്‍ അടയാളക്കുറിപ്പുകളില്‍ നിന്നും നാള്‍വഴിയില്‍ നിന്നും ഫലങ്ങള്‍ ലഭ്യമാക്കൂ.">
 <!ENTITY firstrun_data_title "ഡേറ്റാ">
 <!ENTITY firstrun_data_message "കുറച്ച് ഡേറ്റ, കൂടുതല്‍ നീക്കിയിരുപ്പ്‌">
 <!ENTITY firstrun_data_subtext2 "ഡേറ്റാ ഉപയോഗം കുറക്കാന്‍ നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന സൈറ്റുകളില്‍ ചിത്രങ്ങള്‍ കാണിക്കാതിരിക്കുക">
 <!ENTITY firstrun_sync_title "സിന്‍ക്">
 <!ENTITY firstrun_sync_message2 "അവസാനിപ്പിച്ചിടത്തു നിന്ന് തുടങ്ങുക.">
+<!ENTITY firstrun_sync_subtext2 "നിങ്ങൾ &brandShortName; ൽ നിങ്ങൾ സംരക്ഷിച്ച ബുക്ക്മാർക്കുകൾ, പാസ്വേഡുകൾ, മറ്റ് കാര്യങ്ങൾ എന്നിവ കണ്ടെത്തുന്നതിന് സിങ്ക് ഉപയോഗിക്കുക; നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും.">
+<!ENTITY firstrun_signin_message "കണക്റ്റഡായിരിക്കു, ആരംഭിക്കൂ">
 <!ENTITY firstrun_signin_button "സിന്‍കിലേയ്ക്ക് പ്രവേശിക്കൂ">
 <!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!ENTITY firstrun_button_notnow "ഇപ്പോള്‍ വേണ്ട">
