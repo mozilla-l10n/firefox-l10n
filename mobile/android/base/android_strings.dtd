@@ -355,7 +355,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "Caniatáu awtochwarae">
 <!ENTITY pref_media_autoplay_enabled_summary "Rheoli os yw gwefannau yn awtochwarae fideos neu gynnwys cyfrwng arall">
-<!ENTITY pref_zoom_force_enabled "Galluogi chwyno bob tro">
+<!ENTITY pref_zoom_force_enabled "Galluogi chwyddo bob tro">
 <!ENTITY pref_zoom_force_enabled_summary "Gorfodi gwrthwneud er mwyn gallu chwyddo unrhyw dudalen">
 <!ENTITY pref_voice_input "Mewnbwn llais">
 <!ENTITY pref_voice_input_summary2 "Caniatáu llefaru yn y bar URL">
