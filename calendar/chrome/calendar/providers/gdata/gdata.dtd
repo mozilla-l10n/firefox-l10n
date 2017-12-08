@@ -13,4 +13,7 @@
 <!ENTITY gdata.migration.upgrade.accesskey "U">
 <!ENTITY gdata.migration.showagain.label "შემოწმება ყოველთვის ">
 
+<!ENTITY gdata.reminder.default "ნაგულისხმევი შემხსენებელი">
 <!ENTITY gdata.reminder.action.sms.label "ტექსტური გამოხმაურების გაგზავნა">
+
+
