@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Заштита од праћења">
-<!ENTITY  trackingProtection2.description      "Праћење скуп ваших података прикупљених са мноштво веб сајтова. Праћење се може користити за формирање профила и приказивање садржаја заснованим на вашим интернет и личним подацима.">
+<!ENTITY  trackingProtection2.description      "Праћење је скуп ваших података прикупљених са мноштва веб сајтова. Праћење се може користити за формирање профила и приказивање садржаја заснованим на вашим интернет и личним подацима.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Користите заштиту од праћења да блокирате познате трагаче">
 <!ENTITY  trackingProtectionAlways.label       "Увек">
 <!ENTITY  trackingProtectionAlways.accesskey   "У">
@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Користи заштиту од праћења у приватним прозорима">
 <!ENTITY trackingProtectionPBM5.accesskey     "ш">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Користите заштиту од праћења у приватном режиму да блокирате познате трагаче">
 <!ENTITY trackingProtectionPBM6.accesskey     "в">
 <!ENTITY trackingProtectionPBMLearnMore.label "Сазнајте више">
