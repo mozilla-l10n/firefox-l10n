@@ -56,7 +56,7 @@
 <!ENTITY  tab_offline_version "ઑફલાઇન આવૃત્તિ દર્શાવે છે">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ભંગાણનો અહેવાલ આપનાર">
-<!ENTITY  crash_message2 "&brandShortName; માં સમસ્યા હતી અને ભાંગી ગયુ. જ્યારે તમે પુનઃશરૂ કરો ત્યારે તમારી ટૅબ &brandShortName; પર યાદી થવી જોઇએ.">
+<!ENTITY  crash_message2 "&brandShortName; માં સમસ્યા હતી અને ભાંગી ગયુ. જ્યારે તમે પુનઃશરૂ કરો ત્યારે તમારી ટૅબ્સ &brandShortName; પર યાદી થવી જોઇએ.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; ને આ ભંગાણ વિશે કહો કે જેથી તેઓ તેને સુધારી શકે">
 <!ENTITY  crash_include_url2 "હું જે પાનાં પર હતો તેના સરનામાનો સમાવેશ કરો">
 <!ENTITY  crash_sorry "અમને માફ કરજો">
@@ -120,7 +120,7 @@
 <!ENTITY one_tab "1 ટેબ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; ટેબ">
+<!ENTITY num_tabs2 "&formatD; ટૅબ્સ">
 <!ENTITY new_tab_opened "નવી ટૅબ ખૂલી">
 <!ENTITY new_private_tab_opened "નવી ખાનગી ટૅબ ખૂલી">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -592,7 +592,7 @@
 <!ENTITY home_clear_history_confirm "શું તમે ખરેખર તમારા ઇતિહાસને સાફ કરવા માંગો છો?">
 <!ENTITY home_bookmarks_empty "તમે સંગ્રહો તે બુકમાર્કો અહીં બતાવે છે.">
 <!ENTITY home_closed_tabs_title2 "છેલ્લે બધ થયેલ ટૅબ">
-<!ENTITY home_last_tabs_empty "તમારી છેલ્લી ટૅબ અહીં બતાવવામાં આવે છે.">
+<!ENTITY home_last_tabs_empty "તમારી છેલ્લી ટૅબ્સ અહીં બતાવવામાં આવે છે.">
 <!ENTITY home_restore_all "બધુ પુનર્પ્રાપ્ત કરો">
 <!ENTITY home_closed_tabs_number "&formatD; ટેબ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->

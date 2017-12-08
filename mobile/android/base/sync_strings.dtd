@@ -19,7 +19,7 @@
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'લૉગિન'>
 <!ENTITY sync.configure.engines.title.history 'ઇતિહાસ'>
-<!ENTITY sync.configure.engines.title.tabs 'ટૅબ'>
+<!ENTITY sync.configure.engines.title.tabs 'ટૅબ્સ'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -66,7 +66,7 @@
 <!ENTITY fxaccount_status_bookmarks 'બુકમાર્ક્સ'>
 <!ENTITY fxaccount_status_history 'ઇતિહાસ'>
 <!ENTITY fxaccount_status_passwords2 'લૉગિન'>
-<!ENTITY fxaccount_status_tabs 'ટૅબ ખોલો'>
+<!ENTITY fxaccount_status_tabs 'ટૅબ્સ ખોલો'>
 <!ENTITY fxaccount_status_additional_settings 'વધારાની સેટિંગ્સ'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'ફક્ત Wi-Fi પર સમન્વયિત કરો'>
 <!-- Localization note: Only affects background syncing, user initiated
