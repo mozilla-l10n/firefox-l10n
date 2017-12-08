@@ -10,7 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "La navegación privada con protección de rastreo bloquea a los rastreadores mientras se navega y no recordará el historial al terminar de navegar.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Hacé que &brandShortName; sea tuyo.">
-<!ENTITY firstrun_customize_subtext "Personalizá &brandShortName; con complementos. Bloqueá publicidades, agregá funcionalidades o elegí un nuevo tema para reflejar tu personlidad.">
+<!ENTITY firstrun_customize_subtext "Personalizá &brandShortName; con complementos. Bloqueá publicidades, agregá funcionalidades o elegí un tema nuevo para reflejar tu personalidad.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Tus favs, al frente y al centro">
 <!ENTITY firstrun_bookmarks_subtext "Conseguí resultados de tus marcadores e historial mientras buscás.">
@@ -357,7 +357,7 @@
 <!ENTITY pref_media_autoplay_enabled_summary "Controlar si los sitios web pueden reproducir automáticamente videos y otro contenido de medios">
 <!ENTITY pref_zoom_force_enabled "Siempre habilitar zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar que se pueda hacer zoom en cualquier página">
-<!ENTITY pref_voice_input "Ingfeso por voz">
+<!ENTITY pref_voice_input "Ingreso por voz">
 <!ENTITY pref_voice_input_summary2 "Permitir dictado por voz en la barra de direcciones">
 <!ENTITY pref_qrcode_enabled "Lector de códigos QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Permitir scanner QR en la barra de direcciones">
