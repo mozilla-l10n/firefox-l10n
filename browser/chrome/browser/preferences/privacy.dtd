@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "ખાનગી વિન્ડોઝમાં ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "જાણીતા ટ્રેકર્સને અવરોધિત કરવા માટે ખાનગી બ્રાઉઝિંગમાં ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "વધુ શીખો">
@@ -41,7 +42,7 @@
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "બુકમાર્કો">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "ટૅબ ખોલો">
+<!ENTITY  locbar.openpage.label         "ટૅબ્સ ખોલો">
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "મૂળભૂત શોધ એંજીનથી સંબંધિત શોધ">
 <!ENTITY  locbar.searches.accesskey     "d">

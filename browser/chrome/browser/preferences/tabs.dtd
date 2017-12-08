@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ctrlTabRecentlyUsedOrder.label       "તાજેતરમાં ઉપયોગમાં લેવાયેલી ક્રમમાં ટેબ દ્વારા Ctrl + Tab ચક્ર">
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "તાજેતરમાં ઉપયોગમાં લેવાયેલી ક્રમમાં ટેબ દ્વારા Ctrl+Tab ચક્ર">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "તેના બદલે તેના બદલે નવા ટૅબમાં નવી વિંડોઝ ખોલો">
@@ -19,4 +19,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Windows કાર્યપટ્ટીમાં ટૅબ પૂર્વદર્શનનો બતાવો">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
-<!ENTITY tabsGroup.label          "ટૅબ">
+<!ENTITY tabsGroup.label          "ટૅબ્સ">
