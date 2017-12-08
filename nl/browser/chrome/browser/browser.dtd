@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Koppeling naar apparaat verzenden">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "Verzonden!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "In wachtrij (offline)">
 <!ENTITY  moveToNewWindow.label              "Verplaatsen naar nieuw venster">
 <!ENTITY  moveToNewWindow.accesskey          "w">
 <!ENTITY  bookmarkAllTabs.label              "Bladwijzer voor alle tabbladen maken…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "v">
 
 <!ENTITY backCmd.label                "Terug">
+<!ENTITY backCmd.accesskey            "T">
 <!ENTITY backButton.tooltip           "Een pagina terug gaan">
 <!ENTITY forwardCmd.label             "Vooruit">
+<!ENTITY forwardCmd.accesskey         "V">
 <!ENTITY forwardButton.tooltip        "Een pagina vooruit gaan">
 <!ENTITY backForwardButtonMenu.tooltip "Klik met rechts of houd ingedrukt om geschiedenis te tonen">
 <!ENTITY backForwardButtonMenuMac.tooltip "Houd ingedrukt om geschiedenis te tonen">
 <!ENTITY reloadCmd.label              "Vernieuwen">
+<!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY stopCmd.label                "Stoppen">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Naar het adres in de locatiebalk gaan">
 <!ENTITY printButton.label            "Afdrukken">
@@ -386,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Wilt u hier uw tabbladen van andere apparaten zien?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synchronisatievoorkeuren">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Meld u aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Uw account moet worden geverifieerd.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aanmelden bij Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Apparaten beheren…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Synchrone-tabbladenzijbalk weergeven">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Een ander apparaat verbinden">
 
 <!ENTITY appMenuRecentHighlights.label "Recente Highlights">
 
@@ -565,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Als bureaubladachtergrond instellen…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "c">
 <!ENTITY bookmarkPageCmd2.label       "Bladwijzer voor deze pagina maken">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Bladwijzer voor deze koppeling maken">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Bladwijzer voor dit deelvenster maken">
@@ -751,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Gereed">
 <!ENTITY editBookmark.removeBookmark.accessKey       "v">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Websitebeveiliging">
+
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
 <!ENTITY identity.connectionNotSecure "Verbinding is niet beveiligd">
 <!ENTITY identity.connectionFile "Deze pagina is op uw computer opgeslagen.">
@@ -804,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Wilt u hier uw tabbladen van andere apparaten zien?">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Meld u aan bij Firefox vanaf uw andere apparaten om hun tabbladen hier weer te geven.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Meld u aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Uw account moet worden geverifieerd.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Geen open tabbladen">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label;-voorkeuren openen">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zet tabbladsynchronisatie aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Gesynchroniseerde tabbladen doorzoeken">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Een ander apparaat verbinden">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -980,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Herstart om &brandShorterName; bij te werken">
 
+<!ENTITY newTabControlled.message "Een extensie heeft de pagina die u ziet bij het openen van een nieuw tabblad gewijzigd. Als u deze wijziging niet wilt, kunt u uw instellingen terugzetten.">
+<!ENTITY newTabControlled.header.message "Uw nieuwe tabblad is gewijzigd.">
+<!ENTITY newTabControlled.keepButton.label "Wijzigingen behouden">
+<!ENTITY newTabControlled.keepButton.accesskey "b">
+<!ENTITY newTabControlled.restoreButton.label "Instellingen terugzetten">
+<!ENTITY newTabControlled.restoreButton.accesskey "r">
+
 <!ENTITY pageActionButton.tooltip "Pagina-acties">
 <!ENTITY pageAction.addToUrlbar.label "Toevoegen aan adresbalk">
 <!ENTITY pageAction.removeFromUrlbar.label "Verwijderen van adresbalk">
+
+<!ENTITY pageAction.allowInUrlbar.label "Tonen in adresbalk">
+<!ENTITY pageAction.disallowInUrlbar.label "Niet tonen in adresbalk">
+<!ENTITY pageAction.manageExtension.label "Extensies beheren…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Tabblad naar apparaat verzenden">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten synchroniseren…">
