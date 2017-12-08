@@ -36,7 +36,9 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> সাইটটিতে <a id='error_desc_link'>ক্ষতিকারক সফটওয়ার রয়েছে বলে রিপোর্ট করা হয়েছে</a>। আপনি <a id='ignore_warning_link'>ঝুঁকি উপেক্ষা করে</a> এই অনিরাপদ সাইট ভিজিট করতে পারে।">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> সাইটটিতে <a id='error_desc_link'>ক্ষতিকারক সফটওয়ার রয়েছে বলে রিপোর্ট করা হয়েছে</a>।">
 
 
 
