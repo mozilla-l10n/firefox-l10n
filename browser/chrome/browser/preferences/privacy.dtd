@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Trình chống theo dõi">
+<!ENTITY  trackingProtection2.description      "Theo dõi là sưu tập dữ liệu duyệt web của bạn trên nhiều trang web. Theo dõi có thể được sử dụng để xây dựng hồ sơ và hiển thị nội dung dựa trên thông tin duyệt web và cá nhân của bạn.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Sử dụng trình chống theo dõi để chặn các trình theo dõi đã được nhận biết">
 <!ENTITY  trackingProtectionAlways.label       "Luôn luôn">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Chỉ trong cửa sổ riêng tư">
@@ -23,9 +26,13 @@
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "Tìm hiểu thêm">
+<!ENTITY  doNotTrack.default.label      "Chỉ khi dùng trình chống theo dõi">
+<!ENTITY  doNotTrack.always.label       "Luôn luôn">
 
 <!ENTITY  history.label                 "Lược sử">
 
+<!ENTITY  locbar.history2.label         "Lịch sử duyệt web">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Trang đánh dấu">
 <!ENTITY  locbar.bookmarks.accesskey    "d">
 <!ENTITY  locbar.openpage.label         "Thẻ đang mở">
@@ -89,6 +96,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Thiết lập…">
 <!ENTITY  clearOnCloseSettings.accesskey "p">
 
+<!ENTITY  browserContainersLearnMore.label      "Tìm hiểu thêm">
 <!ENTITY  browserContainersEnabled.label        "Bật thẻ ngăn chứa">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 
