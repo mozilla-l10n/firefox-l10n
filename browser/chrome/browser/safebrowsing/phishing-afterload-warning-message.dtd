@@ -28,6 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> কে <a id='error_desc_link'>ক্ষতিকারক সফ্টওয়্যার রয়েছে বলে রিপোর্ট করা হয়েছে </a>। আপনি <a id='report_detection'>সনাক্তকরণ সমস্যা রিপোর্ট করতে পারেন</a>।">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "ভাইরাস এবং অন্যান্য ম্যালওয়্যার সহ ক্ষতিকর ওয়েব কনটেন্ট সম্পর্কে জানুন আর কিভাবে আপনার কম্পিউটার সুরক্ষিত রাখবেন তা জানতে ভিজিট করুন <a id='learn_more_link'>StopBadware.org</a>। &brandShortName; এর ফিশিং এবং ম্যালওয়্যার সুরক্ষা সম্পর্কে জানতে ভিজিট করুন <a id='firefox_support'>support.mozilla.org</a>।">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "এই সাইটে সামনের দিকে ক্ষতিকারক প্রোগ্রাম থাকতে পারে">
@@ -39,6 +40,7 @@
 
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "সামনে প্রতারক ওয়েবসাইট">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
