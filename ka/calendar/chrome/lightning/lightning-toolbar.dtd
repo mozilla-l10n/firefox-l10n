@@ -14,7 +14,7 @@
 <!ENTITY lightning.toolbar.print.label "ამობეჭდვა">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.calendar.label  "კალენდარი">
+<!ENTITY lightning.toolbar.calendar.label     "კალენდარი">
 <!ENTITY lightning.toolbar.calendar.tooltip   "გადასვლა კალენდრის დაფაზე">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "ამოცანები">
@@ -24,6 +24,7 @@
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "მოვლენა">
 <!ENTITY lightning.toolbar.newtask.label      "ამოცანა">
+<!ENTITY lightning.toolbar.newtask.tooltip    "ახალი დავალების შექმნა">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "დღე">
@@ -37,4 +38,4 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "გარე მენიუ">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip     "&brandShortName; მენიუს ჩვენება">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "&brandShortName; მენიუს ჩვენება">

@@ -40,7 +40,19 @@
 <!ENTITY lightning.calendarproperties.email.label               "ელფოსტა:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "ეს გზავნილი მოვლენაზე მოწვევას შეიცავს.">
+<!ENTITY lightning.imipbar.btnAccept.label                                  "მიღება">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "დამატება">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "მოვლენის დამატება კალენდარზე">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "უარყოფა">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "ყველას უარყოფა">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "უარყოფა">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "წაშლა">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "კალენდრიდან წაშლა">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "ვრცლად…">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "გადავადება">
+<!ENTITY lightning.imipbar.btnTentative.label                               "დასაზუსტებელია">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "განახლება">
+<!ENTITY lightning.imipbar.description                                      "ეს გზავნილი მოვლენაზე მოწვევას შეიცავს.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
