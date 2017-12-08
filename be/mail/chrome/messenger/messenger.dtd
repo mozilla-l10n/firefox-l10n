@@ -4,6 +4,8 @@
 
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
+
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Папка…">
 <!ENTITY newFolderCmd.accesskey "П">
 <!ENTITY closeTabCmd2.label "Зачыніць устаўку">
@@ -12,7 +14,12 @@
 <!ENTITY closeOtherTabsCmd2.accesskey "і">
 <!ENTITY recentlyClosedTabsCmd.label "Нядаўна зачыненыя ўстаўкі">
 <!ENTITY recentlyClosedTabsCmd.accesskey "я">
+
 <!ENTITY undoCloseTabCmd.commandkey "я">
+<!-- LOCALIZATION NOTE (moveToNewWindow.label):
+     Menu option to cause the current tab to be migrated to a new Thunderbird
+     window.
+     -->
 <!ENTITY moveToNewWindow.label "Перамясціць у новае акно">
 <!ENTITY moveToNewWindow.accesskey "н">
 <!ENTITY newVirtualFolderCmd.label "Захаваны пошук…">
@@ -44,8 +51,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "У">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Гэтачасовы рахунак">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "Г">
-<!ENTITY getNextNMsgCmd.label "Атрымаць наступныя 500 лістоў навінаў">
-<!ENTITY getNextNMsgCmd.accesskey "т">
 <!ENTITY sendUnsentCmd.label "Даслаць неадпраўленыя лісты">
 <!ENTITY sendUnsentCmd.accesskey "ь">
 <!ENTITY subscribeCmd.label "Падпісацца…">
@@ -78,6 +83,8 @@
 <!ENTITY printPreviewCmd.accesskey "г">
 <!ENTITY printSetupCmd.label "Уладкаваць старонку…">
 <!ENTITY printSetupCmd.accesskey "у">
+
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Выдаліць ліст">
 <!ENTITY deleteMsgCmd.accesskey "д">
 <!ENTITY undeleteMsgCmd.label "Адмяніць выдаленне ліста">
@@ -117,12 +124,15 @@
 <!ENTITY undoDefaultCmd.accesskey "А">
 <!ENTITY redoDefaultCmd.label "Вярнуць">
 <!ENTITY redoDefaultCmd.accesskey "В">
+
+<!-- View Menu -->
 <!ENTITY menubarCmd.label "Паліца меню">
 <!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showMessengerToolbarCmd.label "Паліца прыладаў пошты">
 <!ENTITY showMessengerToolbarCmd.accesskey "л">
 <!ENTITY customizeToolbar.label "Наладзіць…">
 <!ENTITY customizeToolbar.accesskey "Н">
+
 <!ENTITY messagePaneLayoutStyle.label "Раскладка">
 <!ENTITY messagePaneLayoutStyle.accesskey "Р">
 <!ENTITY messagePaneClassic.label "Класічны від">
@@ -135,6 +145,7 @@
 <!ENTITY showFolderPaneCmd.accesskey "п">
 <!ENTITY showMessageCmd.label "Шыба лістоў">
 <!ENTITY showMessageCmd.accesskey "ш">
+
 <!ENTITY folderView.label "Папкі">
 <!ENTITY folderView.accesskey "П">
 <!ENTITY unifiedFolders.label "Аб'яднаныя">
@@ -149,6 +160,8 @@
 <!ENTITY recentFolders.accesskey "я">
 <!ENTITY compactVersion.label "Шчыльная праява">
 <!ENTITY compactVersion.accesskey "Ш">
+
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Размеркаваць па">
 <!ENTITY sortMenu.accesskey "м">
 <!ENTITY sortByDateCmd.label "Дата">
@@ -209,6 +222,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "г">
 <!ENTITY ignoredThreadsCmd.label "Ігнараваныя нізкі">
 <!ENTITY ignoredThreadsCmd.accesskey "І">
+
 <!ENTITY headersMenu.label "Загалоўкі">
 <!ENTITY headersMenu.accesskey "З">
 <!ENTITY headersAllCmd.label "Усе">
@@ -225,6 +239,7 @@
 <!ENTITY bodyAsPlaintext.accesskey "Т">
 <!ENTITY bodyAllParts.label "Усе часткі цела">
 <!ENTITY bodyAllParts.accesskey "У">
+
 <!ENTITY bodyMenuFeed.label "Жывіць цела ліста як">
 <!ENTITY bodyMenuFeed.accesskey "я">
 <!ENTITY viewFeedWebPage.label "Старонку Сеціва">
@@ -233,13 +248,17 @@
 <!ENTITY viewFeedSummary.accesskey "З">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Змоўчны фармат">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "ф">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Адлюстроўваць далучэнні ўсярэдзіне">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "Ў">
+
 <!ENTITY pageSourceCmd.label "Зыходнік ліста">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
+
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Знайсці">
 <!ENTITY findMenu.accesskey "З">
 <!ENTITY findCmd.label "Знайсці ў гэтым лісце…">
@@ -256,6 +275,8 @@
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Пошук адрасоў…">
 <!ENTITY searchAddressesCmd.accesskey "ш">
+
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Рух">
 <!ENTITY goMenu.accesskey "Р">
 <!ENTITY nextMenu.label "Наступны">
@@ -296,6 +317,8 @@
 <!ENTITY goRecentlyClosedTabs.accesskey "Н">
 <!ENTITY startPageCmd.label "Пачатковая старонка Пошты">
 <!ENTITY startPageCmd.accesskey "П">
+
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Ліст">
 <!ENTITY msgMenu.accesskey "л">
 <!ENTITY newMsgCmd.label "Новы ліст">
@@ -332,6 +355,7 @@
 <!ENTITY editAsNewMsgCmd.label "Правіць як новы ліст">
 <!ENTITY editAsNewMsgCmd.accesskey "П">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Стварыць сіта з ліста…">
 <!ENTITY createFilter.accesskey "с">
 <!ENTITY moveMsgToMenu.label "Перамясціць у">
@@ -409,7 +433,11 @@
 <!ENTITY openFeedSummary.accesskey "з">
 <!ENTITY openFeedWebPageInMP.label "Пераключэнне шыбы ліста: старонка Сеціва, зводка">
 <!ENTITY openFeedWebPageInMP.accesskey "к">
+
+<!-- Windows Menu -->
 <!ENTITY windowMenu.label "Акно">
+
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Прылады">
 <!ENTITY tasksMenu.accesskey "л">
 <!ENTITY messengerCmd.label "Пошта і Навінакупы">
@@ -423,10 +451,10 @@
 <!ENTITY activitymanager.accesskey "д">
 <!ENTITY imAccountsStatus.label "Статус гутаркі">
 <!ENTITY imAccountsStatus.accesskey "г">
-<!ENTITY imStatus.available "Даступны">
-<!ENTITY imStatus.unavailable "Недаступны">
-<!ENTITY imStatus.offline "Па-за сеткаю">
-<!ENTITY imStatus.showAccounts "Паказаць рахункі…">
+<!ENTITY imStatus.available          "Даступны">
+<!ENTITY imStatus.unavailable        "Недаступны">
+<!ENTITY imStatus.offline            "Па-за сеткаю">
+<!ENTITY imStatus.showAccounts       "Паказаць рахункі…">
 <!ENTITY joinChatCmd.label "Далучыцца да гутакі…">
 <!ENTITY joinChatCmd.accesskey "Д">
 <!ENTITY savedFiles.label "Захаваныя файлы">
@@ -446,16 +474,35 @@
 <!ENTITY deleteJunk.accesskey "д">
 <!ENTITY importCmd.label "Імпарт…">
 <!ENTITY importCmd.accesskey "І">
-<!ENTITY errorConsoleCmd.label "Кансоль памылак">
-<!ENTITY errorConsoleCmd.accesskey "п">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Ачысціць нядаўнюю гісторыю…">
 <!ENTITY clearRecentHistory.accesskey "ч">
 <!ENTITY accountManagerCmd2.label "Наладжванні рахунку">
 <!ENTITY accountManagerCmd2.accesskey "Н">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
+     Belongs to accountManagerCmd.label, which is placed under the Edit menu
+     on Unix systems
+  -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY allowRemoteDebugging.label "Дазволіць адлеглую наладку">
-<!ENTITY allowRemoteDebugging.accesskey "д">
+
+<!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Прылады распрацоўшчыка">
+<!ENTITY devtoolsMenu.accesskey "а">
+<!ENTITY errorConsoleCmd.label "Кансоль памылак">
+<!ENTITY errorConsoleCmd.accesskey "п">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Скрэтчпад">
+<!ENTITY scratchpadCmd.accesskey "С">
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
+
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Атрымаць лісты">
 <!ENTITY newMsgButton.label "Укласці">
 <!ENTITY replyButton.label "Адказаць">
@@ -464,6 +511,7 @@
 <!ENTITY forwardButton.label "Накіраваць">
 <!ENTITY fileButton.label "Файл">
 <!ENTITY archiveButton.label "Архіў">
+<!ENTITY openConversationButton.label "Размова">
 <!ENTITY nextButton.label "Наступны">
 <!ENTITY nextButtonToolbarItem.label "Наступны непрачытаны">
 <!ENTITY nextMsgButton.label "Наступны">
@@ -491,6 +539,8 @@
 <!ENTITY tagButton.label "Метка">
 <!ENTITY compactButton.label "Ушчыльніць">
 <!ENTITY appmenuButton.label "Меню прыстасаванняў">
+
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Пашыраны пошук лістоў">
 <!ENTITY getMsgButton.tooltip "Атрымаць новыя лісты">
 <!ENTITY getAllNewMsgCmd.label "Атрымаць усе новыя лісты">
@@ -522,32 +572,48 @@
 <!ENTITY tagButton.tooltip "Меткі лістоў">
 <!ENTITY compactButton.tooltip "Прыняць выдаленыя лісты з вылучанай папкі">
 <!ENTITY appmenuButton1.tooltip "Адлюстраваць меню &brandShortName; Menu">
+
+<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Накіраваць усярэдзіне">
 <!ENTITY buttonMenuForwardAsAttachment.label "Накіраваць як далучэнне">
+
+<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Паказаць адлеглае змесціва ў гэтым лісце">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "П">
 <!ENTITY editRemoteContentSettings.label "Праўка наладжванняў адлеглага змесціва…">
 <!ENTITY editRemoteContentSettings.accesskey "П">
 <!ENTITY editRemoteContentSettingsUnix.label "Праўка перавагаў адлеглага змесціва…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "П">
+
+<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ігнараваць папярэджанне для гэтага ліста">
 <!ENTITY phishingOptionIgnore.accesskey "І">
 <!ENTITY phishingOptionSettings.label "Правіць наладжванні выяўлення ашукаў…">
 <!ENTITY phishingOptionSettings.accesskey "р">
 <!ENTITY phishingOptionSettingsUnix.label "Правіць перавагі выяўлення ашукаў…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "р">
+
+<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Новы ліст">
 <!ENTITY appmenuNewContactCmd.label "Сувязь з адраснай кнігі…">
 <!ENTITY appmenuEditMenu.label "Праўка">
 <!ENTITY appmenuToolbarLayout.label "Раскладка прыладапаліцы…">
 <!ENTITY appmenuSelectThread.label "Вылучыць нізку">
 <!ENTITY appmenuSelectFlagged.label "Вылучыць пазначаныя зоркамі лісты">
+
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Новая метка…">
 <!ENTITY addNewTag.accesskey "Н">
 <!ENTITY manageTags.label "Кіраваць мецінамі…">
 <!ENTITY manageTags.accesskey "К">
-<!ENTITY folderColumn.label "Назва">
+
+<!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "Імя">
+<!ENTITY folderUnreadColumn.label "Непрачытаныя">
+<!ENTITY folderTotalColumn.label "Усяго">
 <!ENTITY folderSizeColumn.label "Памер">
+
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Атрымаць лісты">
 <!ENTITY folderContextGetMessages.accesskey "А">
 <!ENTITY folderContextOpenInNewWindow.label "Адкрыць у новым акне">
@@ -584,9 +650,15 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "л">
 <!ENTITY folderContextSettings2.label "Наладжванні">
 <!ENTITY folderContextSettings2.accesskey "л">
+
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Імя або адрас змяшчаюць:">
 <!ENTITY SearchNameOrEmail.accesskey "І">
+
+<!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.placeholder "Пошук лістоў…">
+
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Тэма">
 <!ENTITY searchFromMenu.label "Ад">
 <!ENTITY searchSubjectOrFromMenu.label "Тэма або Ад">
@@ -594,6 +666,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Тэма, Да ці СА">
 <!ENTITY searchMessageBody.label "Гэты ліст">
 <!ENTITY saveAsVirtualFolderMenu.label "Захаваць пошук як папку…">
+
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Нізка">
 <!ENTITY fromColumn.label "Ад">
 <!ENTITY recipientColumn.label "Атрымальнік">
@@ -613,6 +687,8 @@
 <!ENTITY locationColumn.label "Месцазнаходжанне">
 <!ENTITY idColumn.label "Парадак атрымання">
 <!ENTITY attachmentColumn.label "Далучэнні">
+
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Вылучыць слупкі для адлюстравання">
 <!ENTITY threadColumn2.tooltip "Паказваць нізкі лістоў">
 <!ENTITY fromColumn2.tooltip "Размеркаваць па адпраўнікам">
@@ -633,8 +709,14 @@
 <!ENTITY locationColumn2.tooltip "Размеркаваць па месцазнаходжанню">
 <!ENTITY idColumn2.tooltip "Размеркаваць па парадку атрымання">
 <!ENTITY attachmentColumn2.tooltip "Размеркаваць па далучэнням">
+
+<!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Адчыніць ліст у новым акне">
 <!ENTITY contextOpenNewWindow.accesskey "А">
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Адчыніць ліст у новай устаўцы">
 <!ENTITY contextOpenNewTab.accesskey "у">
 <!ENTITY contextOpenConversation.label "Адкрыць ліст у гутарцы">
@@ -673,17 +755,66 @@
 <!ENTITY contextKillThreadMenu.accesskey "І">
 <!ENTITY contextKillSubthreadMenu.label "Ігнараваць паднізку">
 <!ENTITY contextWatchThreadMenu.label "Сачыць за нізкай">
+<!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
+     In the en-US locale we ran out of access keys, so there is an empty access key for
+     Watch Thread. Localizers can pick a suitable key
+  -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Захаваць як…">
 <!ENTITY contextSaveAs.accesskey "Я">
 <!ENTITY contextPrint.label "Друкаваць…">
 <!ENTITY contextPrint.accesskey "Д">
 <!ENTITY contextPrintPreview.label "Перадпрагляд друку">
 <!ENTITY contextPrintPreview.accesskey "п">
+
+<!-- Thread Pane Column Picker -->
+<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
+     This option in the thread pane column picker causes us to reset the
+     customizations for the thread pane columns in this folder to their default.
+  -->
 <!ENTITY columnPicker.resetToInbox.label "Узнавіць змоўчныя слупкі">
+<!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
+     This option in the thread pane column picker pops up a sub-menu containing
+     the "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" options. This item indicates
+     a desire to apply the currently displayed set of columns to some other
+     folder(s). The sub-menu items indicate whether we want to apply it to just
+     a folder or also its children.
+  -->
 <!ENTITY columnPicker.applyTo.label "Ужыць слупкі…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolderAndChildren.label". It indicates a desire to
+     apply the currently display thread pane column settings to a single folder
+     that the user selects using the same widget as the move to/copy to
+     mechanism (via a series of popups).
+  -->
 <!ENTITY columnPicker.applyToFolder.label "Папка…">
+<!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
+     This option in the thread pane column picker is found on a sub-menu beneath
+     the "columnPicker.applyTo.label" alongside
+     "columnPicker.applyToFolder.label". It indicates a desire to
+     apply the currently display thread pane column settings to a folder and all
+     of its descendents. The user selects the folder using the same widget as the
+     move to/copy to mechanism (via a series of popups).
+  -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Папка і яе нашчадкі…">
+<!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
+     This is used in the folder selection widget for the
+     "columnPicker.applyToFolder.label" and
+     "columnPicker.applyToFolderAndChildren.label" menu options. Whenever
+     a folder has children, it results in a menu popup; the first menu item
+     in that popup is given this label to indicate that that folder should be
+     selected. For example, if folder "A" has two children, "B" and "C", then
+     when the user hovers over "A", a new popup menu will be displayed whose
+     items are "This folder", "B", and "C". This is the equivalent of the
+     "File here" option for the move to/copy to widget.
+  -->
 <!ENTITY columnPicker.thisFolder.label "Гэтая папка">
+
+
+<!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Граць">
 <!ENTITY contextPlay.accesskey "Г">
 <!ENTITY contextPause.label "Прыпыніць">
@@ -692,10 +823,37 @@
 <!ENTITY contextMute.accesskey "З">
 <!ENTITY contextUnmute.label "Уключыць гук">
 <!ENTITY contextUnmute.accesskey "У">
+
+<!-- Quick Search Bar -->
+<!-- LOCALIZATION NOTE (quickSearchCmd.key):
+     This is actually the key used for the global message search box; we have
+     not changed
+  -->
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY search.label.base "Пошук… #1">
+<!-- LOCALIZATION NOTE (search.label.base1):
+      This is the base of the empty text for the global search box. We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
+     The goal is to convey to the user that typing in the box will allow them
+     to search for messages globally and that there is a hotkey they can press
+     to get to the box faster. If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+  -->
+<!ENTITY search.label.base1 "Пошук #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
+     The description of the key-binding to get into the global search box on
+     windows and linux (which use the control key). We use the key defined in
+     the quickSearchCmd.key entity defined above, the letter should match it.
+  -->
 <!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
+     The description of the key-binding to get into the global search box on mac
+     systems. We use the key defined in the quickSearchCmd.key entity defined
+     above, the letter should match it.
+  -->
 <!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
+
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Дадаць у адрасную кнігу…">
 <!ENTITY AddToAddressBook.accesskey "к">
 <!ENTITY AddDirectlyToAddressBook.label "Дадаць у адрасную кнігу">
@@ -718,8 +876,12 @@
 <!ENTITY CreateFilterFrom.accesskey "с">
 <!ENTITY reportPhishingURL.label "Паведаміць пра э-паштовую ашуку">
 <!ENTITY reportPhishingURL.accesskey "П">
+
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">
 <!ENTITY spellAddDictionaries.accesskey "Д">
+
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Захаваць спасылку як…">
 <!ENTITY saveLinkAsCmd.accesskey "с">
 <!ENTITY saveImageAsCmd.label "Захаваць выяву як…">
@@ -738,20 +900,28 @@
 <!ENTITY openInBrowser.accesskey "А">
 <!ENTITY openLinkInBrowser.label "Адкрыць спасылку ў азіральніку">
 <!ENTITY openLinkInBrowser.accesskey "А">
+
+<!-- Statusbar -->
 <!ENTITY statusText.label "Гатова">
+
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Мінімізаваць">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Выцягнуць усе наперад">
 <!ENTITY zoomWindow.label "Павялічыць">
-<!ENTITY preferencesCmdMac2.label "Перавагі">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "Службы">
-<!ENTITY hideThisAppCmdMac.label "Схаваць &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Схаваць іншыя">
+
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac2.label       "Перавагі">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Службы">
+<!ENTITY hideThisAppCmdMac.label        "Схаваць &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Схаваць іншыя">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Паказаць усе">
-<!ENTITY dockOptions.label "Наладжванні значка прыстасавання…">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Паказаць усе">
+
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Наладжванні значка прыстасавання…">

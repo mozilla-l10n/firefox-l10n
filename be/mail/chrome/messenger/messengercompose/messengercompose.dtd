@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Укладанне: (без тэмы)">
+
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "ф">
 <!ENTITY newMenu.label "Новы">
@@ -22,6 +25,7 @@
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Старонку Сеціва…">
 <!ENTITY attachPageCmd.accesskey "С">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Асабістую картку (vCard)">
 <!ENTITY attachVCardCmd.accesskey "А">
 <!ENTITY remindLater.label "Напомніць мне пазней">
@@ -53,6 +57,8 @@
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Д">
+
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Адмяніць">
@@ -96,6 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "я">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenuNew.label "Паліцы прыладаў">
@@ -110,10 +118,15 @@
 <!ENTITY showTaskbarCmd.accesskey "с">
 <!ENTITY customizeToolbar.label "Наладзіць…">
 <!ENTITY customizeToolbar.accesskey "Н">
+
 <!ENTITY addressSidebar.label "Палічка сувязяў">
 <!ENTITY addressSidebar.accesskey "с">
+
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Фармат">
 <!ENTITY formatMenu.accesskey "р">
+
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Наладжванні">
 <!ENTITY optionsMenu.accesskey "Н">
 <!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
@@ -124,8 +137,11 @@
 <!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY quoteCmd.label "Працытаваць ліст">
 <!ENTITY quoteCmd.accesskey "ц">
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Далучыць асабістую картку (vCard)">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY returnReceiptMenu.label "Квіток атрымання">
 <!ENTITY returnReceiptMenu.accesskey "т">
 <!ENTITY dsnMenu.label "Пацвярджэнне дастаўкі">
@@ -142,6 +158,7 @@
 <!ENTITY bothFormatCmd.accesskey "і">
 <!ENTITY priorityMenu.label "Прыярытэт">
 <!ENTITY priorityMenu.accesskey "П">
+<!ENTITY priorityButton.title "Прыярытэт">
 <!ENTITY priorityButton.label "Прыярытэт:">
 <!ENTITY lowestPriorityCmd.label "Найніжэйшы">
 <!ENTITY lowestPriorityCmd.accesskey "й">
@@ -156,6 +173,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Змясціць копію ў">
 <!ENTITY fileCarbonCopyCmd.accesskey "ь">
 <!ENTITY fileHereMenu.label "Пакласці тут">
+
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Прылады">
 <!ENTITY tasksMenu.accesskey "л">
 <!ENTITY messengerCmd.label "Пошта і Навінакупы">
@@ -171,11 +190,15 @@
 <!ENTITY preferencesCmd2.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Перавагі">
 <!ENTITY preferencesCmdUnix.accesskey "П">
+
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Мінімізаваць">
 <!ENTITY bringAllToFront.label "Выцягнуць усе наперад">
 <!ENTITY zoomWindow.label "Павялічыць">
 <!ENTITY windowMenu.label "Акно">
+
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Даслаць">
 <!ENTITY quoteButton.label "Вытрымка">
 <!ENTITY addressButton.label "Адрас">
@@ -183,6 +206,8 @@
 <!ENTITY spellingButton.label "Праверка правапісу">
 <!ENTITY saveButton.label "Захаваць">
 <!ENTITY printButton.label "Друкаваць">
+
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Даслаць гэты ліст зараз">
 <!ENTITY sendlaterButton.tooltip "Даслаць гэты ліст пазней">
 <!ENTITY quoteButton.tooltip "Працытаваць папярэдні ліст">
@@ -190,10 +215,14 @@
 <!ENTITY attachButton.tooltip "Уключыць далучэнне">
 <!ENTITY spellingButton.tooltip "Праверка правапісу вылучэння або ўсяго ліста">
 <!ENTITY saveButton.tooltip "Захаваць гэты ліст">
-<!ENTITY cutButton.tooltip "Выразаць">
-<!ENTITY copyButton.tooltip "Капіяваць">
-<!ENTITY pasteButton.tooltip "Уставіць">
+<!ENTITY cutButton.tooltip              "Выразаць">
+<!ENTITY copyButton.tooltip             "Капіяваць">
+<!ENTITY pasteButton.tooltip            "Уставіць">
 <!ENTITY printButton.tooltip "Надрукаваць гэты ліст">
+
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 10em;">
 <!ENTITY fromAddr.label "Ад:">
 <!ENTITY fromAddr.accesskey "А">
@@ -205,7 +234,11 @@
 <!ENTITY followupAddr.label "Водгук-Да:">
 <!ENTITY subject.label "Тэма:">
 <!ENTITY subject.accesskey "Т">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "ч">
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Уставіць тварык-усмешку">
 <!ENTITY smiley1Cmd.label "Усмешка">
 <!ENTITY smiley2Cmd.label "Пахмурны">
@@ -223,6 +256,8 @@
 <!ENTITY smiley14Cmd.label "Бязгрэшны">
 <!ENTITY smiley15Cmd.label "Рыданне">
 <!ENTITY smiley16Cmd.label "Надзьмуты">
+
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Прапановы не знойдзены">
 <!ENTITY spellCheckIgnoreWord.label "Ігнараваць слова">
 <!ENTITY spellCheckIgnoreWord.accesskey "І">
@@ -238,6 +273,7 @@
 <!ENTITY paste.accesskey "У">
 <!ENTITY pasteQuote.label "Уставіць як вытрымку">
 <!ENTITY pasteQuote.accesskey "В">
+
 <!ENTITY openAttachment.label "Адчыніць">
 <!ENTITY openAttachment.accesskey "А">
 <!ENTITY delete.label "Выдаліць">
@@ -260,6 +296,15 @@
 <!ENTITY convertRegularAttachment.accesskey "д">
 <!ENTITY attachPage.label "Далучыць старонку Сеціва…">
 <!ENTITY attachPage.accesskey "с">
+
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">
 <!ENTITY spellAddDictionaries.accesskey "Д">
+
+<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Сувязі">
+
+<!-- Identity popup customize menuitem -->
+
+<!-- Status Bar -->
+<!ENTITY encodingStatusPanel.tooltip "Кадаванне тэксту">
