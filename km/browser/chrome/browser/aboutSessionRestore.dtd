@@ -8,8 +8,15 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "សូមអភ័យទោស។ យើង​ជួប​បញ្ហា​ក្នុង​ការ​ស្ដារ​ទំព័រ​របស់​អ្នក​មកវិញ។">
 <!ENTITY restorepage.problemDesc2   "យើង​មាន​បញ្ហា​ក្នុង​ការ​ស្ដារ​សម័យ​រុករក​ចុងក្រោយ​របស់​អ្នក។ សូម​ចុច ស្ដារ​សម័យ ដើម្បី​សាកល្បង​ម្ដងទៀត។">
+<!ENTITY restorepage.tryThis2       "នៅតែ​មិន​អាច​ស្ដារ​សម័យ​របស់​អ្នក​បាន? ពេល​ខ្លះ​វា​អាច​បញ្ហា​ដោយសារ​ផ្ទាំង​មួយ។ មើល​ផ្ទាំង​ពីមុន ដោះ​សញ្ញា​ធីក​ចំណាំ​ចេញពី​ផ្ទាំង​ដែល​អ្នក​មិន​ត្រូវការ​ដើម្បី​យក​មក​វិញ បន្ទាប់មក​ស្ដារ។">
 
+<!ENTITY restorepage.hideTabs       "លាក់​ផ្ទាំង​ពីមុន">
+<!ENTITY restorepage.showTabs       "មើល​ផ្ទាំង​ពីមុន">
 
+<!ENTITY restorepage.tryagainButton2 "ស្ដារ​សម័យ">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "ចាប់ផ្តើម​សម័យ​ថ្មី">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "ស្ដារ">
 <!ENTITY restorepage.listHeader     "បង្អួច និង​ផ្ទាំង">
