@@ -9,26 +9,30 @@
 
 <!ENTITY newevent.from.label                "დაწყ." >
 <!ENTITY newevent.to.label                  "-" >
-<!ENTITY newevent.attendees.notify.label    "დამსწრეთა გაფრთხილება">
 
-<!ENTITY newevent.status.label              "სტატუსი" >
-<!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.eventStatus.none.label         "არ მითითებულა" >
-<!ENTITY newevent.eventStatus.none.accesskey       "o" >
+<!ENTITY newevent.status.label                    "სტატუსი" >
+<!ENTITY newevent.status.accesskey                "S" >
+<!ENTITY newevent.eventStatus.none.label          "არ მითითებულა" >
+<!ENTITY newevent.eventStatus.none.accesskey      "o" >
 <!ENTITY newevent.todoStatus.none.label           "არ მითითებულა" >
-<!ENTITY newevent.eventStatus.cancelled.label    "გაუქმდა" >
-<!ENTITY newevent.eventStatus.cancelled.accesskey  "n" >
+<!ENTITY newevent.eventStatus.cancelled.label     "გაუქმდა" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "გაუქმდა" >
-<!ENTITY newevent.status.tentative.label    "დასაზუსტებელია" >
-<!ENTITY newevent.status.tentative.accesskey  "T" >
-<!ENTITY newevent.status.confirmed.label    "დადასტურდა" >
-<!ENTITY newevent.status.confirmed.accesskey  "C" >
-<!ENTITY newevent.status.needsaction.label  "საჭიროებს ქმედებას" >
-<!ENTITY newevent.status.inprogress.label   "მიმდინარეობს" >
-<!ENTITY newevent.status.completed.label    "დასრულდა -" >
+<!ENTITY newevent.status.tentative.label          "დასაზუსტებელია" >
+<!ENTITY newevent.status.tentative.accesskey      "T" >
+<!ENTITY newevent.status.confirmed.label          "დადასტურდა" >
+<!ENTITY newevent.status.confirmed.accesskey      "C" >
+<!ENTITY newevent.status.needsaction.label        "საჭიროებს ქმედებას" >
+<!ENTITY newevent.status.inprogress.label         "მიმდინარეობს" >
+<!ENTITY newevent.status.completed.label          "დასრულდა -" >
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; დასრულდა">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
+     event.attendees.disallowcounter.label)
+   - These three labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -58,10 +62,23 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "დახურვა">
 <!ENTITY  event.menu.item.close.accesskey                 "C">
+
+<!-- LOCALIZATION NOTE
+   - event.menu.item.save.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a dialog window.
+   - event.menu.item.save.tab.accesskey is used for the "Save" menu item
+   - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "შენახვა">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
+
+<!-- LOCALIZATION NOTE
+    - event.menu.item.saveandclose.accesskey is used for "Save and Close"
+    - menu item when editing events/tasks in a dialog window.
+    - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
+    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "შენახვა და დახურვა">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+
 <!ENTITY  event.menu.item.delete.label                    "წაშლა…">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
 <!ENTITY  event.menu.item.page.setup.label                "გვერდის პარამეტრები">
@@ -95,42 +112,36 @@
 <!ENTITY  event.menu.view.showlink.label                  "დაკავშირებული ბმის ჩვენება">
 <!ENTITY  event.menu.view.showlink.accesskey              "R">
 
-<!ENTITY  event.menu.options.label                        "პარამეტრები">
-<!ENTITY  event.menu.options.accesskey                    "O">
-<!ENTITY  event.menu.options.attendees.label              "დამსწრეთა მოწვევა…">
-<!ENTITY  event.menu.options.attendees.accesskey          "I">
-<!ENTITY  event.menu.options.spellcheck.label             "მართლწერის შემოწმება…">
-<!ENTITY  event.menu.options.spellcheck.accesskey         "h">
-<!ENTITY  event.menu.options.inline.spellcheck.label      "მართლწერის შემოწმება შეტანისას">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey  "S">
-<!ENTITY  event.menu.options.link.label                   "ბმის დამატება…">
-<!ENTITY  event.menu.options.link.accesskey               "L">
-<!ENTITY  event.menu.options.timezone2.label               "საათობრივი ზონები">
-<!ENTITY  event.menu.options.timezone2.accesskey           "z">
+<!ENTITY  event.menu.options.label                            "პარამეტრები">
+<!ENTITY  event.menu.options.accesskey                        "O">
+<!ENTITY  event.menu.options.attendees.label                  "დამსწრეთა მოწვევა…">
+<!ENTITY  event.menu.options.attendees.accesskey              "I">
+<!ENTITY  event.menu.options.timezone2.label                  "საათობრივი ზონები">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "პრიორიტეტი">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "არ მითითებულა">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
-<!ENTITY  event.menu.options.priority.low.label           "დაბალი">
-<!ENTITY  event.menu.options.priority.low.accesskey       "L">
-<!ENTITY  event.menu.options.priority.normal.label        "ჩვეულებრივი">
-<!ENTITY  event.menu.options.priority.normal.accesskey    "N">
-<!ENTITY  event.menu.options.priority.high.label          "მაღალი">
-<!ENTITY  event.menu.options.priority.high.accesskey      "H">
-<!ENTITY  event.menu.options.privacy.label                "კონფიდენციალობა">
-<!ENTITY  event.menu.options.privacy.accesskey            "P">
-<!ENTITY  event.menu.options.privacy.public.label         "საზოგადო მოვლენა">
-<!ENTITY  event.menu.options.privacy.public.accesskey     "u">
-<!ENTITY  event.menu.options.privacy.confidential.label   "დროსა და თარიღის ჩვენება">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey "S">
-<!ENTITY  event.menu.options.privacy.private.label        "პირადი მოვლენა">
-<!ENTITY  event.menu.options.privacy.private.accesskey    "r">
-<!ENTITY  event.menu.options.show.time.label              "დროის ჩვენება როგორც">
-<!ENTITY  event.menu.options.show.time.accesskey          "T">
-<!ENTITY  event.menu.options.show.time.busy.label         "დაკავებული">
-<!ENTITY  event.menu.options.show.time.busy.accesskey     "B">
-<!ENTITY  event.menu.options.show.time.free.label         "თავისუფალი">
-<!ENTITY  event.menu.options.show.time.free.accesskey     "F">
+<!ENTITY  event.menu.options.priority.low.label               "დაბალი">
+<!ENTITY  event.menu.options.priority.low.accesskey           "L">
+<!ENTITY  event.menu.options.priority.normal.label            "ჩვეულებრივი">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "მაღალი">
+<!ENTITY  event.menu.options.priority.high.accesskey          "H">
+<!ENTITY  event.menu.options.privacy.label                    "კონფიდენციალობა">
+<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.public.label             "საზოგადო მოვლენა">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
+<!ENTITY  event.menu.options.privacy.confidential.label       "დროსა და თარიღის ჩვენება">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
+<!ENTITY  event.menu.options.privacy.private.label            "პირადი მოვლენა">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "დროის ჩვენება როგორც">
+<!ENTITY  event.menu.options.show.time.accesskey              "T">
+<!ENTITY  event.menu.options.show.time.busy.label             "დაკავებული">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
+<!ENTITY  event.menu.options.show.time.free.label             "თავისუფალი">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "F">
 
 <!ENTITY event.invite.attendees.label                     "დამსწრეთა მოწვევა…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
@@ -140,11 +151,25 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "U">
 
 <!-- Toolbar -->
-<!ENTITY  event.toolbar.save.label                        "შენახვა და დახურვა">
+<!ENTITY  event.toolbar.save.label2                       "შენახვა">
+<!ENTITY  event.toolbar.saveandclose.label                "შენახვა და დახურვა">
 <!ENTITY  event.toolbar.delete.label                      "წაშლა">
 <!ENTITY  event.toolbar.attendees.label                   "დამსწრეთა მოწვევა">
-<!ENTITY  event.toolbar.spellcheck.label                  "მართლწერა">
 <!ENTITY  event.toolbar.privacy.label                     "კონფიდენციალობა">
+
+<!ENTITY  event.toolbar.save.tooltip2                     "შენახვა">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "შენახვა და დახურვა">
+<!ENTITY  event.toolbar.delete.tooltip                    "წაშლა">
+<!ENTITY  event.toolbar.attendees.tooltip                 "დამსწრეთა მოწვევა">
+<!ENTITY  event.toolbar.attachments.tooltip               "დანართების დამატება">
+
+<!-- Counter box -->
+<!-- LOCALIZATON NOTE(counter.button.*)
+   - This is only visible in the UI if you have received a counterproposal before and are going to
+   - reschedule the event from the imipbar in the email view. Clicking on the buttons will only
+   - populate the form fields in the dialog, there's no other immediate action on clicking like with
+   - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
+   - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "სათაური:" >
@@ -154,11 +179,10 @@
 <!ENTITY event.categories.label                           "კატეგორია:">
 <!ENTITY event.categories.accesskey                       "y">
 <!ENTITY event.categories.textbox.label                   "ახალი კატეგორიის დამატება" >
-<!ENTITY event.categories.textbox.accesskey               "A">
 <!ENTITY event.calendar.label                             "კალენდარი:" >
 <!ENTITY event.calendar.accesskey                         "C">
 <!ENTITY event.attendees.label                            "დამსწრეები:" >
-<!ENTITY event.attendees.accesskey                        "I" >
+<!ENTITY event.attendees.accesskey                        "I">
 <!ENTITY event.alldayevent.label                          "მთელი დღის მოვლენა" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "დაწყება:" >
@@ -211,6 +235,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "მრავალჯერადი შეხსენებები…" >
 
+
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "გამეორების რედაქცია">
 
@@ -257,7 +282,7 @@
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "თვის დღე">
 <!ENTITY event.recurrence.repeat.recur.label            "განმეორებითი დღე(ებ)ი">
 
-<!ENTITY event.recurrence.every.label                   "ყოველი:" >
+<!ENTITY event.recurrence.every.label                        "ყოველი:" >
 <!ENTITY repeat.units.years.both                             "წელი" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "ყოველი" >
 
@@ -283,12 +308,12 @@
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "ნოემბერი" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "დეკემბერი" >
 <!ENTITY event.recurrence.yearly.every.label                 "ყოველი">
-<!ENTITY event.recurrence.yearly.first.label         "პირველი">
-<!ENTITY event.recurrence.yearly.second.label        "მეორე">
-<!ENTITY event.recurrence.yearly.third.label         "მესამე">
-<!ENTITY event.recurrence.yearly.fourth.label        "მეოთხე">
-<!ENTITY event.recurrence.yearly.fifth.label         "მეხუთე">
-<!ENTITY event.recurrence.yearly.last.label          "ბოლო">
+<!ENTITY event.recurrence.yearly.first.label                 "პირველი">
+<!ENTITY event.recurrence.yearly.second.label                "მეორე">
+<!ENTITY event.recurrence.yearly.third.label                 "მესამე">
+<!ENTITY event.recurrence.yearly.fourth.label                "მეოთხე">
+<!ENTITY event.recurrence.yearly.fifth.label                 "მეხუთე">
+<!ENTITY event.recurrence.yearly.last.label                  "ბოლო">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "კვირა" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "ორშაბათი" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "სამშაბათი" >
@@ -296,7 +321,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "ხუთშაბათი" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "პარასკევი" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "შაბათი" >
-<!ENTITY event.recurrence.of.label                      "-" >
+<!ENTITY event.recurrence.of.label                           "-" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "იანვარი" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "თებერვალი" >
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label      "მარტი" >
@@ -318,17 +343,15 @@
 <!ENTITY event.recurrence.preview.label                 "ესკიზი">
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label              "დამსწრეთა მოწვევა">
-<!ENTITY event.organizer.label           "დაგეგმვა">
-<!ENTITY event.freebusy.suggest.slot     "დროის სარკმლის შეთავაზება:">
-<!ENTITY event.freebusy.next.slot        "შემდეგი სარკმელი " >
-<!ENTITY event.freebusy.previous.slot    " წინა სარკმელი" >
-<!ENTITY event.freebusy.zoom             "მასშტაბი:">
-<!ENTITY event.freebusy.legend.free      "თავისუფალია" >
-<!ENTITY event.freebusy.legend.busy      "დაკავებულია" >
+<!ENTITY invite.title.label                     "დამსწრეთა მოწვევა">
+<!ENTITY event.organizer.label                  "დაგეგმვა">
+<!ENTITY event.freebusy.suggest.slot            "დროის სარკმლის შეთავაზება:">
+<!ENTITY event.freebusy.zoom                    "მასშტაბი:">
+<!ENTITY event.freebusy.legend.free             "თავისუფალია" >
+<!ENTITY event.freebusy.legend.busy             "დაკავებულია" >
 <!ENTITY event.freebusy.legend.busy_tentative   "დასაზუსტებელია" >
 <!ENTITY event.freebusy.legend.busy_unavailable "ოფისის გარეთ" >
-<!ENTITY event.freebusy.legend.unknown   "ინფორმაცია არაა" >
+<!ENTITY event.freebusy.legend.unknown          "ინფორმაცია არაა" >
 <!ENTITY event.attendee.role.required           "სავალდებულო დამსწრე">
 <!ENTITY event.attendee.role.optional           "არასავალდებულო დამსწრე">
 <!ENTITY event.attendee.role.chair              "ორგანიზატორი">
@@ -361,5 +384,4 @@
 <!ENTITY read.only.reminder.label        "შეხსენება:">
 <!ENTITY read.only.attendees.label       "დამსწრეები">
 <!ENTITY read.only.description.label     "აღწერილობა">
-<!ENTITY read.only.documents.label       "დოკუმენტები">
 <!ENTITY read.only.link.label            "დაკავშირებული ბმა">

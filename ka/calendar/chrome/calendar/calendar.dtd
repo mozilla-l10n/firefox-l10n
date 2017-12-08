@@ -29,19 +29,27 @@
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "მზადაა">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "დასრულებულების დალაგება">
 <!ENTITY calendar.unifinder.tree.priority.label            "პრიორიტეტი">
-<!ENTITY calendar.unifinder.tree.priority.tooltip2         "უპირატესობით დალაგება">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "უპირატესობის მიხედვით დალაგება">
 <!ENTITY calendar.unifinder.tree.title.label               "სათაური">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "დასახელებით დალაგება">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; დასრულდა">
 <!ENTITY calendar.unifinder.tree.startdate.label           "დაწყება">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "დაწყების თარიღით დალაგება">
 <!ENTITY calendar.unifinder.tree.enddate.label             "დასრულება">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "დასრულების თარიღით დალაგება">
 <!ENTITY calendar.unifinder.tree.duedate.label             "ვადა">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "შესრულდა">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "დასრულების თარიღით დალაგება">
 <!ENTITY calendar.unifinder.tree.categories.label          "კატეგორია">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "კატეგორიებით დალაგება">
 <!ENTITY calendar.unifinder.tree.location.label            "მისამართი">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "მდებარეობის მიხედვით დალაგება">
 <!ENTITY calendar.unifinder.tree.status.label              "სტატუსი">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "მდგომარეობის მიხედვით დალაგება">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "კალენდრის სახელი">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "კალენდრის სახელით დალაგება">
 <!ENTITY calendar.unifinder.tree.duration.label            "ხანგრძლიობ">
 <!ENTITY calendar.unifinder.close.tooltip                  "მოვლენათა ძიებისა და სიის დახურვა">
 
@@ -136,6 +144,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "შერჩეულ ამოცანათა დასრულებულად მონიშვნა">
 <!ENTITY calendar.task.priority.button.tooltip  "პრიორიტეტის შეცვლა">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "გაფილტვრის ამოცანები #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
@@ -218,11 +227,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "კალენდრის პოვნა…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
+<!ENTITY calendar.context.deleteserver2.label          "კალენდრის წაშლა…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "წ">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.removeserver.label           "კალენდრის ამოღება…">
+<!ENTITY calendar.context.removeserver.accesskey       "მ">
+<!ENTITY calendar.context.unsubscribeserver.label      "კალენდრის გამოწერის გაუქმება…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "უ">
 <!ENTITY calendar.context.synccalendars.label          "კალენდრების სინქრონიზაცია">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "კალენდრის გამოქვეყნება">
@@ -234,12 +249,17 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "ჩ">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "დ">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "მ">
+<!ENTITY calendar.context.showall.label                "ყველა კალენდრის ჩვენება">
+<!ENTITY calendar.context.showall.accesskey            "ყ">
 
 <!ENTITY calendar.context.convertmenu.label              "გარდაქმნა -">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
