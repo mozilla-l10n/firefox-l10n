@@ -41,9 +41,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Водопад">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Показване на различните операции, извършвани от браузъра по време на следенето, подредени последователно като водопад.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Показване на различните операции, извършвани от четеца по време на следенето, подредени последователно като водопад.">
 <!ENTITY performanceUI.toolbar.js-calltree "Дърво на извикванията">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Осветяване функциите на JavaScript, където браузърът прекарва най-много време, докато се следи производителността.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Осветяване функциите на JavaScript, където четецът прекарва най-много време, докато се следи производителността.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Заделяния">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Показване къде е била заделена паметта по време на записването.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Огнена диаграма на JS">
