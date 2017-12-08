@@ -10,8 +10,26 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "Uren">
+<!ENTITY time.minute.label "Minuten">
+<!ENTITY time.second.label "Seconden">
+<!ENTITY time.millisecond.label "Milliseconden">
+<!ENTITY time.dayperiod.label "AM/PM">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "jjjj">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "Jaar">
+<!ENTITY date.month.label "Maand">
+<!ENTITY date.day.label "Dag">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "Wissen">
