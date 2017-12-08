@@ -12,7 +12,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Грешка при отваряне на кутията с инструменти за браузър:">
+<!ENTITY browserToolboxErrorMessage          "Грешка при отваряне на кутията с инструменти за четеца:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -26,7 +26,7 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 <!ENTITY options.showUserAgentStyles.label "Показване и стиловете на четеца">
-<!ENTITY options.showUserAgentStyles.tooltip "Включването на това ще покаже стандартните стилове, зареждани от браузъра.">
+<!ENTITY options.showUserAgentStyles.tooltip "Ако е включено ще бъдат показвани и стандартните стилове, зареждани от четеца.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
@@ -73,8 +73,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Включване на кутията с дебъгващи инструменти за браузърния хром и добавките">
-<!ENTITY options.enableChrome.tooltip3  "Отмятането на тази настройка ще ви позволи да използвате различни развойни инструменти в контекста на браузъра (чрез Инструменти > Разработчик > Кутия с инструменти) и за дебъгване на добавки от управлението на добавки">
+<!ENTITY options.enableChrome.label5    "Включване на кутията с инструменти за отстраняване на дефекти от хрома на четеца и добавките">
+<!ENTITY options.enableChrome.tooltip3  "Отмятането на тази настройка ще ви позволи да използвате различни развойни инструменти в контекста на четеца (чрез Инструменти > Разработчик > Кутия с инструменти) и за отстраняване на дефекти на добавки от управлението на добавки">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled

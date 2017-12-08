@@ -33,12 +33,12 @@
 <!ENTITY alwaysAskWhere.label         "Винаги да пита къде да бъдат запазвани файловете">
 <!ENTITY alwaysAskWhere.accesskey     "В">
 
-<!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е стандартният браузър">
+<!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е стандартният четец">
 <!ENTITY alwaysCheckDefault2.accesskey    "б">
 <!ENTITY setAsMyDefaultBrowser3.label     "Задаване като стандартен…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "с">
-<!ENTITY isDefault.label                  "&brandShortName; е вашият стандартен браузър">
-<!ENTITY isNotDefault.label               "&brandShortName; не е вашият стандартен браузър">
+<!ENTITY isDefault.label                  "&brandShortName; е вашият стандартен четец">
+<!ENTITY isNotDefault.label               "&brandShortName; не е вашият стандартен четец">
 
 <!ENTITY separateProfileMode.label        "Разрешаване на &brandShortName; и Firefox да работят едновременно">
 <!ENTITY useFirefoxSync.label             "Съвет: Ще бъдат използвани отделни профили. Използвайте Sync, за да споделяте данни между тях.">
