@@ -2,24 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label "Адрасная кніга:">
-<!ENTITY addressbookPicker.accesskey "к">
-<!ENTITY searchInput.label "Пошук:">
-<!ENTITY searchInput.accesskey "ш">
-<!ENTITY SearchNameOrEmail.label "Імя або э-пошта">
-<!ENTITY deleteAddrBookCard.label "Выдаліць">
-<!ENTITY deleteAddrBookCard.accesskey "В">
-<!ENTITY addrBookCardProperties.label "Уласцівасці">
-<!ENTITY addrBookCardProperties.accesskey "У">
-<!ENTITY addtoToFieldMenu.label "Дадаць да поля Да">
-<!ENTITY addtoToFieldMenu.accesskey "Д">
-<!ENTITY addtoCcFieldMenu.label "Дадаць да поля Са">
-<!ENTITY addtoCcFieldMenu.accesskey "С">
-<!ENTITY addtoBccFieldMenu.label "Дадаць да поля Сса">
-<!ENTITY addtoBccFieldMenu.accesskey "а">
-<!ENTITY toButton.label "Дадаць да Да:">
-<!ENTITY toButton.accesskey "Д">
-<!ENTITY ccButton.label "Дадаць да Са:">
-<!ENTITY ccButton.accesskey "С">
-<!ENTITY bccButton.label "Дадаць да Сса:">
-<!ENTITY bccButton.accesskey "а">
+<!ENTITY propertiesMenu.label               "Уласцівасці">
+<!ENTITY propertiesMenu.accesskey           "і">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Уласцівасці адраснай кнігі">
+<!ENTITY abPropertiesMenu.accesskey         "і">
+<!ENTITY contactPropertiesMenu.label        "Уласцівасці кантакта">
+<!ENTITY contactPropertiesMenu.accesskey    "і">
+<!ENTITY mailingListPropertiesMenu.label    "Уласцівасці спіса рассылкі">
+<!ENTITY mailingListPropertiesMenu.accesskey "і">
+
+<!ENTITY addressbookPicker.label            "Адрасная кніга:">
+<!ENTITY addressbookPicker.accesskey        "к">
+<!ENTITY SearchNameOrEmail.label            "Імя або э-пошта">
+
+<!ENTITY addtoToFieldMenu.label             "Дадаць да поля Да">
+<!ENTITY addtoToFieldMenu.accesskey         "Д">
+<!ENTITY addtoCcFieldMenu.label             "Дадаць да поля Са">
+<!ENTITY addtoCcFieldMenu.accesskey         "С">
+<!ENTITY addtoBccFieldMenu.label            "Дадаць да поля Сса">
+<!ENTITY addtoBccFieldMenu.accesskey        "а">
+<!ENTITY deleteAddrBookCard.label           "Выдаліць">
+<!ENTITY deleteAddrBookCard.accesskey       "В">
+
+
+<!ENTITY toButton.label                     "Дадаць да Да:">
+<!ENTITY toButton.accesskey                 "Д">
+<!ENTITY ccButton.label                     "Дадаць да Са:">
+<!ENTITY ccButton.accesskey                 "С">
+<!ENTITY bccButton.label                    "Дадаць да Сса:">
+<!ENTITY bccButton.accesskey                "а">

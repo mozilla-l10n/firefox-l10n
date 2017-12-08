@@ -74,7 +74,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "false">
+<!ENTITY propertiesMenu.label                           "Уласцівасці">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Уласцівасці адраснай кнігі">
+<!ENTITY abPropertiesMenu.accesskey                     "і">
+<!ENTITY contactPropertiesMenu.label                    "Уласцівасці кантакта">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Уласцівасці спіса рассылкі">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Прагляд">
@@ -131,10 +139,20 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.label                            "Новы спіс">
 <!ENTITY newlistButton.accesskey                        "С">
 <!ENTITY editPropertiesButton.label                     "Рэдагаваць">
+<!ENTITY propertiesContext.label                        "Уласцівасці">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Уласцівасці">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Рэдагаваць кантакт">
+<!ENTITY editContactContext.accesskey                   "Р">
+<!ENTITY editMailingListContext.label                   "Рэдагаваць спіс">
+<!ENTITY editMailingListContext.accesskey               "Р">
 <!ENTITY newmsgButton.label                             "Укласці">
 <!ENTITY newmsgButton.accesskey                         "У">
 <!ENTITY newIM.label                                    "Вокамгненнае паведамленне">
 <!ENTITY newIM.accesskey                                "В">
+<!ENTITY printButton.label                              "Друкаваць…">
+<!ENTITY printButton.accesskey                          "а">
 <!ENTITY deleteButton2.label                            "Выдаліць">
 <!ENTITY deleteButton2.accesskey                        "д">
 
