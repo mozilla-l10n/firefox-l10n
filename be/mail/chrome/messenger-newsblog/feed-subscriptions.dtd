@@ -4,6 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Падпіскі на жывільнік">
+<!ENTITY learnMore.label             "Даведайцеся больш пра стужкі навін">
 
 <!ENTITY feedTitle.label             "Загаловак:">
 <!ENTITY feedTitle.accesskey         "г">

@@ -54,3 +54,10 @@
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY secondsLabel.label               "секунд">
+<!ENTITY openMsgIn.label                  "Адкрыць паведамленні ў:">
+<!ENTITY openMsgInNewTab.label            "новай картцы">
+<!ENTITY openMsgInNewTab.accesskey        "к">
+<!ENTITY reuseExpRadio0.label             "новым акне">
+<!ENTITY reuseExpRadio0.accesskey         "н">
+<!ENTITY reuseExpRadio1.label             "ужо існуючым акне">
+<!ENTITY reuseExpRadio1.accesskey         "і">
