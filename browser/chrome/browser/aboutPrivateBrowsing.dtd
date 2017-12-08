@@ -11,7 +11,7 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "যখন আপনি একটি ব্যক্তিগত উইন্ডো ব্রাউজ করেন, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "সংরক্ষিণ করবে না">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
-<!ENTITY aboutPrivateBrowsing.info.visited               "দেখে ফেলা সাইটসমূহ">
+<!ENTITY aboutPrivateBrowsing.info.visited               "দেখে ফেলা পেজসমূহ">
 <!ENTITY aboutPrivateBrowsing.info.searches              "অনুসন্ধান">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "কুকি">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "অস্থায়ী ফাইল">
