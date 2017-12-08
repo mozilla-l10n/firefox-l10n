@@ -43,6 +43,11 @@
 <!ENTITY  aboutDevtools.enable.menuMessage
           "Bestudeer, bewerk en debug HTML, CSS en JavaScript met hulpmiddelen zoals de Inspector en Debugger.">
 
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
+  -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Optimaliseer HTML, CSS en JavaScript van uw website met hulpmiddelen zoals de Inspector en Debugger.">
+
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
 <!ENTITY  aboutDevtools.enable.commonMessage
@@ -55,6 +60,8 @@
 
 <!ENTITY  aboutDevtools.enable.enableButton "Ontwikkelaarshulpmiddelen inschakelen">
 <!ENTITY  aboutDevtools.enable.closeButton "Deze pagina sluiten">
+
+<!ENTITY  aboutDevtools.enable.closeButton2 "Dit tabblad sluiten">
 
 <!ENTITY  aboutDevtools.welcome.title "Welkom bij de Firefox-ontwikkelaarshulpmiddelen!">
 
@@ -75,4 +82,3 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
 <!ENTITY  aboutDevtools.footer.learnMoreLink "Meer info">
-
