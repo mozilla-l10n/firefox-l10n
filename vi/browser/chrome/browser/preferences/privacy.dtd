@@ -100,3 +100,5 @@
 <!ENTITY  browserContainersEnabled.label        "Bật thẻ ngăn chứa">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 
+<!ENTITY  a11yPrivacy.learnmore.label    "Tìm hiểu thêm">
+<!ENTITY enableSafeBrowsingLearnMore.label "Tìm hiểu thêm">
