@@ -6,7 +6,8 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Entschëllegt, mir hu Schwieregkeeten Deng Säiten zeréck ze kréien.">
+<!ENTITY restorepage.errorTitle2    "Et deet eis Leed, mir hu Schwieregkeeten Deng Säiten zeréck ze kréien.">
+<!ENTITY restorepage.problemDesc2   "Mir hu Schwieregkeeten Deng lescht Sessioun ze restauréieren. Wiel Sessioun restauréieren fir nach emol ze probéieren.">
 
 
 <!ENTITY restorepage.tryagainButton2 "Sessioun restauréieren">
@@ -15,6 +16,7 @@
 <!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Restauréieren">
+<!ENTITY restorepage.listHeader     "Fënsteren an Tabs">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Fënster &#37;S">
 
@@ -30,6 +32,7 @@
 <!ENTITY welcomeback2.pageTitle     "Erfolleg!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ass prett.">
 
+<!ENTITY welcomeback2.restoreAll.label  "All Fënsteren &amp; Tabs restauréieren">
 <!ENTITY welcomeback2.restoreSome.label "Nëmmen déi restauréieren déi's Du wëlls">
 
 
@@ -39,6 +42,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Deng Add-ons an Upassungen si geläscht ginn an Deng Browserastellungen sinn op d'Standardwäerter zeréck gesat. Wann dëst de Problem net behieft, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "wësse wat's Du méi maache kanns.">

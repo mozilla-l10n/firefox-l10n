@@ -28,7 +28,11 @@
 <!ENTITY helpSafeMode.stop.label       "Mat Add-ons nei starten">
 <!ENTITY helpSafeMode.stop.accesskey   "O">
 
+<!ENTITY healthReport2.label      "&brandShorterName; Gesondheetsbilan">
+<!ENTITY healthReport2.accesskey  "b">
 
+<!ENTITY helpTroubleshootingInfo.label      "Informatiounen zur Feelerbehiewung">
+<!ENTITY helpTroubleshootingInfo.accesskey  "f">
 
 
 
