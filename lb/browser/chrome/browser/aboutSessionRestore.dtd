@@ -8,7 +8,10 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Et deet eis Leed, mir hu Schwieregkeeten Deng Säiten zeréck ze kréien.">
 <!ENTITY restorepage.problemDesc2   "Mir hu Schwieregkeeten Deng lescht Sessioun ze restauréieren. Wiel Sessioun restauréieren fir nach emol ze probéieren.">
+<!ENTITY restorepage.tryThis2       "D'Sessioun nach ëmmer net restauréiert? Et ass méiglech dass en Tab Problemer mécht. Kuck d'Tab vu virdrun un, an huel den Hoken ewech vun deenen déi's Du net brauchs, a restauréier duerno frësch.">
 
+<!ENTITY restorepage.hideTabs       "Tabs vu virdrun verstoppen">
+<!ENTITY restorepage.showTabs       "Tabs vu virdrun uweisen">
 
 <!ENTITY restorepage.tryagainButton2 "Sessioun restauréieren">
 <!ENTITY restorepage.restore.access2 "R">
