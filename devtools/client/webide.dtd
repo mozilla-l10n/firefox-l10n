@@ -166,6 +166,7 @@
 <!ENTITY wifi_auth_yes_scanner "તમારી પાસે QR સ્કેનર પ્રોમ્પ્ટ છે?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "જો તમારું બીજું ઉપકરણ QR કોડને સ્કેન કરવાને બદલે ટોકન માટે પૂછે છે, તો કૃપા કરીને નીચેની ઉપકરણની કિંમત અન્ય ઉપકરણ પર નકલ કરો:">
 <!ENTITY wifi_auth_qr_size_note "જો જોડાણ સફળતાપૂર્વક સ્થાપિત થવા માટે QR કોડ ખૂબ નાનું દેખાય છે, તો વિન્ડો ઝૂમ અથવા મોટું કરો.">
 
 <!-- Logs panel -->
