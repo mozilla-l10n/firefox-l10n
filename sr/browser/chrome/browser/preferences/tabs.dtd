@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab се креће кроз недавно коришћене језичке">
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Кретање кроз недавно коришћене језичке уз Ctrl+Tab">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "ч">
 
 <!ENTITY newWindowsAsTabs.label       "Нове прозоре отвори у новом језичку">
