@@ -7,9 +7,9 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "კატეგორიის დამატება">
-<!ENTITY pref.categories.addButton.label "დამატება…">
-<!ENTITY pref.categories.addButton.accesskey "A">
+<!ENTITY pref.categories.new.title "ახალი კატეგორია">
+<!ENTITY pref.categories.newButton.label "ახალი…">
+<!ENTITY pref.categories.newButton.accesskey "ხ">
 <!ENTITY pref.categories.edit.title "კატეგორიის რედაქტირება">
 <!ENTITY pref.categories.editButton.label "რედაქტირება…">
 <!ENTITY pref.categories.editButton.accesskey "E">

@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "ნუსხა…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
-<!ENTITY pref.calendar.alarms.sound.preview.label "ესკიზი">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
+<!ENTITY pref.calendar.alarms.sound.play.label "დაკვრა">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "დ">
 <!ENTITY pref.showalarmbox "გაფრთხლების დაფის ჩვენება">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "გამოტოვებული გაფრთხილებების ჩვენება">
@@ -31,5 +31,4 @@
 <!ENTITY pref.defalarmlen4events.accesskey "u">
 <!ENTITY pref.defalarmlen4todos.label "გაფრთხილების ნაგულისხმები დრო ამოცანამდე:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "გაფრთხილებების გაგზავნის ნაგულისხმები მისამართი:">
-<!ENTITY pref.defaulttext.label "გაფრთხილებების ნაგულისხმები ტექსტი:">
+
