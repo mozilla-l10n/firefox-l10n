@@ -28,11 +28,14 @@
 <!ENTITY firstrun_tabqueue_title "കണ്ണികള്‍">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "ടാബ് ക്യൂ ഓണാക്കുക">
+<!ENTITY firstrun_tabqueue_subtext_off "മറ്റ് ആപ്ലിക്കേഷനുകളിൽ നിന്ന് ടാപ്പു ചെയ്യുമ്പോള്‍ &brandShortName; ൽ പിന്നീടത്തേക്കായി ലിങ്കുകൾ സംരക്ഷിക്കുക.">
 
 <!ENTITY firstrun_tabqueue_message_on "വിജയിച്ചു!">
+<!ENTITY firstrun_tabqueue_subtext_on "&settings; ല്‍ &pref_category_general; നിന്നും നിങ്ങള്‍ക്ക് ഇത് എല്ലായിപ്പോഴുംനിറുത്തുവാന്‍ സാധിക്കും.">
 
 <!ENTITY firstrun_readerview_title "ലേഖനങ്ങള്‍">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "കോലാഹലങ്ങളില്‍ നിന്നും രക്ഷപ്പെടൂ">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "നിങ്ങള്‍">
