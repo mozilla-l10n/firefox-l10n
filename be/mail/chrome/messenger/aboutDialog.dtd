@@ -11,16 +11,23 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Праверка існавання абнаўленняў">
 <!ENTITY update.checkForUpdatesButton.accesskey   "і">
+<!ENTITY update.updateButton.label3               "Перазапуск для абнаўлення &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "з">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
+<!ENTITY warningDesc.version        "&brandShortName; з'яўляецца эксперыментальным і можа быць няўстойлівым.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Браўзер будзе самастойна дасылаць звесткі пра сваю прадукцыйнасць, абсталяванне, выкарыстанне і налады да &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " з'яўляецца ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "сусветным згуртаваннем">
+<!ENTITY community.exp.end          ", якое працуе разам, каб захаваць Сеціва адкрытым, публічным і даступным кожнаму.">
 
 <!ENTITY community.start2           "&brandShortName; распрацаваны ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -28,8 +35,11 @@
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "сусветным згуртаваннем">
+<!ENTITY community.end3             ", якое працуе разам, каб захаваць Сеціва адкрытым, публічным і даступным кожнаму.">
 
+<!ENTITY helpus.start               "Хочаце дапамагчы? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Зрабіце ахвяраванне">
 <!ENTITY helpus.middle              " або ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "далучайцеся!">
@@ -53,6 +63,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Абнаўленні забаронены вашым сістэмным спраўнікам">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; абнаўляецца іншым асобнікам">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
