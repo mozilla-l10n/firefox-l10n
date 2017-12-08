@@ -21,7 +21,7 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ટૅબને પુન:લોડ કરો">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "બધા ટૅબને પુન:લોડ કરો">
+<!ENTITY  reloadAllTabs.label                "બધા ટૅબ્સને પુન:લોડ કરો">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
@@ -30,9 +30,9 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "જમણેથી ટૅબ બંધ કરો">
+<!ENTITY  closeTabsToTheEnd.label            "જમણેથી ટૅબ્સ બંધ કરો">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "બીજા ટૅબને બંધ કરો">
+<!ENTITY  closeOtherTabs.label               "બીજા ટૅબ્સને બંધ કરો">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -53,14 +53,14 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceFeedback.label         "મોકલ્યું!">
 <!ENTITY  moveToNewWindow.label              "નવી વિન્ડોમાં ખસેડો">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "બધા ટૅબને બુકમાર્ક કરો…">
+<!ENTITY  bookmarkAllTabs.label              "બધા ટૅબ્સને બુકમાર્ક કરો…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "બંધ કરેલ ટૅબને ફરીથી શરૂ કરો">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ટૅબને બંધ કરો">
 <!ENTITY  closeTab.accesskey                 "C">
 
-<!ENTITY  listAllTabs.label      "બધા ટૅબની યાદી કરો">
+<!ENTITY  listAllTabs.label      "બધા ટૅબ્સની યાદી કરો">
 
 <!ENTITY tabCmd.label "નવી ટૅબ">
 <!ENTITY tabCmd.accesskey "T">
@@ -90,9 +90,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "બુકમાર્ક્સ સાધનપટ્ટી વસ્તુઓ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "બધા ટૅબને ફરી લાવો">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "બધા ટૅબ્સને ફરી લાવો">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "બધા ટૅબને બુકમાર્ક કરો…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "બધા ટૅબ્સને બુકમાર્ક કરો…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "બંધ ટૅબને ફરી લાવો">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -121,7 +121,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "પૂર્ણ સ્ક્રીન">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "બધા ટૅબને બતાવો">
+<!ENTITY showAllTabsCmd.label "બધા ટૅબ્સને બતાવો">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
@@ -176,7 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "આ પાનાંમાં ઉમેદવારી નોંધાવો">
 <!ENTITY subscribeToPageMenuitem.label "આ પાનાંમાં ઉમેદવારી નોંધાવો…">
-<!ENTITY addCurPagesCmd.label "બધી ટૅબ બુકમાર્ક કરો...">
+<!ENTITY addCurPagesCmd.label "બધા ટૅબ્સને બુકમાર્ક કરો…">
 <!ENTITY showAllBookmarks2.label "બધા બુકમાર્ક્સને બતાવો">
 <!ENTITY recentBookmarks.label "તાજેતરમાં કરેલ બુકમાર્ક">
 <!ENTITY otherBookmarksCmd.label "અન્ય બુકમાર્ક્સ">
@@ -343,7 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "ઇતિહાસ">
 <!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "છેલ્લે બધ થયેલ ટૅબ">
+<!ENTITY historyUndoMenu.label "છેલ્લે બધ થયેલ ટૅબ્સ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "છેલ્લે બંધ થયેલ વિન્ડો">
 <!ENTITY historyRestoreLastSession.label "પહેલાનાં સત્રને પુન:સંગ્રહો">
@@ -793,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "બ્રાઉઝર ટૅબ">
+<!ENTITY tabsToolbar.label "બ્રાઉઝર ટૅબ્સ">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "સમન્વિત કરેલા ટૅબ્સ">

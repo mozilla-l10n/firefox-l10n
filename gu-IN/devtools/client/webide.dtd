@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "વધારાના ઘટકોનું સંચાલન કરો">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-<!ENTITY projectMenu_refreshTabs_label "ટૅબ્સ તાજુ કરો">
+<!ENTITY projectMenu_refreshTabs_label "ટૅબ્સ તાજી કરો">
 
 <!ENTITY runtimeMenu_label "રનટાઈમ">
 <!ENTITY runtimeMenu_accesskey "R">

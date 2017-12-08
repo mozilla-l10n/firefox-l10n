@@ -19,7 +19,7 @@
 <!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "પુનઃસંગ્રહો">
-<!ENTITY restorepage.listHeader     "વિન્ડો અને ટૅબ">
+<!ENTITY restorepage.listHeader     "વિન્ડો અને ટૅબ્સ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "વિન્ડો &#037;S">
 
