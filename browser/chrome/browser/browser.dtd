@@ -954,7 +954,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "Обновете &brandShorterName; за да получите най-новото в бързината и поверителността.">
-<!ENTITY updateAvailable.whatsnew.label "Вижте какво е новото.">
+<!ENTITY updateAvailable.whatsnew.label "Вижте новото в това издание.">
 <!ENTITY updateAvailable.header.message "Налично е обновяване на &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Изтегляне на обновяване">
 <!ENTITY updateAvailable.acceptButton.accesskey "и">
@@ -963,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Изтегляне на обновяване на &brandShorterName;">
 
 <!ENTITY updateManual.message "Изтеглете ново копие на &brandShorterName; и ще ви помогнем с инсталирането.">
-<!ENTITY updateManual.whatsnew.label "Вижте какво е новото.">
+<!ENTITY updateManual.whatsnew.label "Вижте новото в това издание.">
 <!ENTITY updateManual.header.message "&brandShorterName; не може да бъде обновен до последната версия.">
 <!ENTITY updateManual.acceptButton.label "Изтегляне на &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "И">
