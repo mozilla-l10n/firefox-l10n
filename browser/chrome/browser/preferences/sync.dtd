@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Bladwijzers">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label2         "Open tabbladen">
+<!ENTITY engine.tabs.title          "Een lijst van wat op alle gesynchroniseerde apparaten is geopend">
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Geschiedenis">
 <!ENTITY engine.history.accesskey   "G">
 <!ENTITY engine.logins.label        "Aanmeldingen">
+<!ENTITY engine.logins.title        "Gebruikersnamen en wachtwoorden die u hebt opgeslagen">
 <!ENTITY engine.logins.accesskey    "n">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Opties">
+<!ENTITY engine.prefsWin.accesskey  "O">
 <!ENTITY engine.prefs.label         "Voorkeuren">
 <!ENTITY engine.prefs.accesskey     "V">
+<!ENTITY engine.prefs.title         "Algemene, privacy- en beveiligingsinstellingen die u hebt gewijzigd">
 <!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.title        "Extensies en thema’s voor Firefox op desktops">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "Adressen">
+<!ENTITY engine.addresses.title     "Postadressen die u hebt opgeslagen (alleen desktop)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Creditcards">
+<!ENTITY engine.creditcards.title   "Namen, nummers en vervaldata (alleen desktop)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->

@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Altijd vragen">
 <!ENTITY  permAllow             "Toestaan">
 <!ENTITY  permAllowSession      "Toestaan voor sessie">
+<!ENTITY  permHide              "Verbergen">
 <!ENTITY  permBlock             "Blokkeren">
 <!ENTITY  permissionsFor        "Toestemmingen voor:">
 <!ENTITY  permPlugins           "Plug-ins activeren">

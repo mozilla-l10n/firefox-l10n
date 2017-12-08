@@ -15,3 +15,5 @@
 <!ENTITY languages.customize.selectLanguage.label       "Selecteer een taal om toe te voegen…">
 <!ENTITY languages.customize.addButton.label            "Toevoegen">
 <!ENTITY languages.customize.addButton.accesskey        "T">
+
+<!ENTITY languages.customize.spoofEnglish               "Engelstalige versies van webpagina’s opvragen voor verbeterde privacy">
