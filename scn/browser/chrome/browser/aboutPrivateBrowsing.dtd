@@ -7,7 +7,8 @@
 
 <!ENTITY privateBrowsing.title                           "Navigazzioni Privata">
 <!ENTITY privateBrowsing.title.tracking                  "Navigazzioni Privata cu Prutizzioni">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quannu navighi nta na Finestra Privata, Firefox">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nun sarbari">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quannu navighi nta na Finestra Ammucciata, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nun sarba">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "pàggini visitati">
 
