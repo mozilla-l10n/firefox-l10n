@@ -3,18 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabHeader.label "დაფების გამოყენება">
+
 <!ENTITY tabDisplay.label "დაფების ჩვენება">
 <!ENTITY autoHide.label "დაფების პანელის დამალვა მხოლოდ ერთი გახსნილი დაფის შემთხვევაში">
-<!ENTITY autoHide.accesskey "d">
 <!ENTITY background.label "ბმებიდან გახსნილი დაფების არჩევა">
 <!ENTITY background.accesskey "S">
 <!ENTITY warnOnClose.label "გამაფრთხილებ მრავალი დაფის ერთდროულად დახურვისას">
 <!ENTITY warnOnClose.accesskey "W">
 <!ENTITY relatedAfterCurrent.label "დაკავშირებული დაფების გახსნა მიმდინარე დაფის შემდეგ">
 <!ENTITY relatedAfterCurrent.accesskey "O">
+
 <!ENTITY loadGroup.label "სანიშნეთა ჯგუფის გახსნისას">
 <!ENTITY loadGroupAppend.label "დაფების დამატება">
 <!ENTITY loadGroupAppend.accesskey "A">
 <!ENTITY loadGroupReplace.label "არსებული დაფების ჩანაცვლება">
 <!ENTITY loadGroupReplace.accesskey "R">
+
 <!ENTITY openTabs.label "გახსნა დაფებზე ნაცვლად სარკმლებისა">
+
+<!ENTITY openDataManager.label "მონაცემთა მმართველი">
+<!ENTITY openDataManager.accesskey "მ">
+<!ENTITY openAddOnsManager.label "დამატებების მმართველი">
+<!ENTITY openAddOnsManager.accesskey "დ">

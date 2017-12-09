@@ -8,19 +8,19 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
-<!ENTITY fileMenu.label					"ფაილი"> 
+<!ENTITY fileMenu.label                   "ფაილი">
 <!ENTITY fileMenu.accesskey               "F">
-<!ENTITY newMenu.label						"ახალი">
-<!ENTITY newMenu.accesskey					"N">
-<!ENTITY newBlankPageCmd.label "რედაქტორის გვერდი">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY newMenu.label                    "ახალი">
+<!ENTITY newMenu.accesskey                "N">
+<!ENTITY newBlankPageCmd.label            "რედაქტორის გვერდი">
+<!ENTITY newBlankPageCmd.accesskey        "P">
+<!ENTITY newBlankPageCmd.key              "n">
 <!ENTITY newPageFromTemplateCmd.label "შაბლონური გვერდი">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "გვერდის ესკიზი">
 <!ENTITY newPageFromDraftCmd.accesskey "d">
 <!ENTITY newNavigatorCmd.label "ბრაუზერის სარკმელი">
-<!ENTITY newNavigatorCmd.key				"N">
+<!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "B">
 <!ENTITY newPrivateWindowCmd.label "პირადი სარკმელი">
 <!ENTITY newPrivateWindowCmd.key "B">
@@ -33,22 +33,22 @@
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
 
-<!ENTITY editMenu.label					"რედაქცია"> 
+<!ENTITY editMenu.label                   "რედაქცია">
 <!ENTITY editMenu.accesskey               "E">
-<!ENTITY undoCmd.label						"დაბრუნება">  
-<!ENTITY undoCmd.key						"Z">  
-<!ENTITY undoCmd.accesskey					"U"> 
-<!ENTITY redoCmd.label						"გამეორება">  
-<!ENTITY redoCmd.key						"Y">  
-<!ENTITY redoCmd.accesskey					"R"> 
-<!ENTITY cutCmd.label						"ამოჭრა">  
-<!ENTITY cutCmd.key							"X">  
-<!ENTITY cutCmd.accesskey					"t"> 
-<!ENTITY copyCmd.label						"კოპირება">  
-<!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"c"> 
-<!ENTITY pasteCmd.label						"ჩასმა">  
-<!ENTITY pasteCmd.key						"V">  
+<!ENTITY undoCmd.label                    "დაბრუნება">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "U">
+<!ENTITY redoCmd.label                    "გამეორება">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmd.accesskey                "R">
+<!ENTITY cutCmd.label                     "ამოჭრა">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "t">
+<!ENTITY copyCmd.label                    "კოპირება">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "c">
+<!ENTITY pasteCmd.label                   "ჩასმა">
+<!ENTITY pasteCmd.key                     "V">
 <!ENTITY pasteCmd.accesskey               "P">
 <!ENTITY pasteGoCmd.label                 "ჩასმა და გადასვლა">
 <!ENTITY pasteGoCmd.accesskey             "G">
@@ -60,7 +60,7 @@
 <!ENTITY deleteCmd.label                  "წაშლა">
 <!ENTITY deleteCmd.accesskey              "D">
 <!ENTITY selectAllCmd.label               "ყველას მონიშვნა">
-<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "A">
 <!ENTITY clearHistoryCmd.label				"ძიების ისტორიის გასუფთავება">  
 <!ENTITY clearHistoryCmd.accesskey			"H"> 
@@ -69,11 +69,10 @@
 <!ENTITY preferencesCmd.label				"პარამეტრები…">
 <!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"e"> 
-<!ENTITY findCmd.key "F">
-<!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
-     findCmd.label found in messengercompose.dtd, messenger.dtd and
-     editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findBarCmd.key "F">
+<!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
+     findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
+     and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
 <!ENTITY findAgainCmd.label "შემდეგის პოვნა">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -88,7 +87,7 @@
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
 <!ENTITY viewMenu.label					"ჩვენება"> 
-<!ENTITY viewMenu.accesskey				"v"> 
+<!ENTITY viewMenu.accesskey               "v">
 <!ENTITY viewToolbarsMenu.label				"აჩვენე/დამალე"> 
 <!ENTITY viewToolbarsMenu.accesskey			"w"> 
 <!ENTITY showTaskbarCmd.label					"სტატუსის პანელი">  
@@ -99,12 +98,12 @@
 
 <!ENTITY helpTroubleshootingInfo.label      "თექმომსახურების ინფორმაცია">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
-<!ENTITY releaseCmd.label				"ვერსიის დოკუმენტაცია">
-<!ENTITY releaseCmd.accesskey                   "N">
+<!ENTITY releaseCmd.label                   "ვერსიის დოკუმენტაცია">
+<!ENTITY releaseCmd.accesskey               "N">
 <!ENTITY helpSafeMode.label                 "ხელახლა გახსნა ამორთული მოდულებით">
 <!ENTITY helpSafeMode.accesskey             "R">
-<!ENTITY updateCmd.label                        "შემოწმება განახლებებზე…">
-<!ENTITY updateCmd.accesskey                    "C">
+<!ENTITY updateCmd.label                    "შემოწმება განახლებებზე…">
+<!ENTITY updateCmd.accesskey                "C">
 <!ENTITY aboutCmd.label					"&brandShortName; პროგრამის შესახებ">
 <!ENTITY aboutCmd.accesskey				"A">
 <!ENTITY aboutCommPluginsCmd.label			"მოდულების შესახებ">
