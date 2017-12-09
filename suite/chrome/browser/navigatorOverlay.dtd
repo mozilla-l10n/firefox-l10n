@@ -130,11 +130,17 @@
 <!ENTITY popupDefaultCmd.accesskey "გ">
 <!ENTITY popupDefaultMsg.label "ამომხტომი ფირნიშები ამ საიტზე დაშვებულია, ნაგულისხმევი უფლებების შესაბამისად.">
 <!ENTITY popupBlockCmd.label "ამომხტომი ფირნიშების შეზღუდვა ამ საიტზე">
+<!ENTITY popupBlockCmd.accesskey "ზ">
+<!ENTITY popupBlockMsg.label "ამომხტომი ფირნიშები ამ საიტზე შეზღუდულია.">
+<!ENTITY popupsManage.label "ფირნიშების მართვა">
+<!ENTITY popupsManage.accesskey "მ">
 
 <!ENTITY cookieCookieManager.label "ნაჭდევების მმართველი">
 <!ENTITY cookieCookieManager.accesskey "C">
 <!ENTITY cookieImageManager.label "გამოსახულებათა მმართველი">
 <!ENTITY cookieImageManager.accesskey "I">
+<!ENTITY popupsManager.label "ფირნიშების მმართველი">
+<!ENTITY popupsManager.accesskey "თ">
 
 <!ENTITY clearPrivateDataCmd.label "პირად მონაცემთა გასუფთავება…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
