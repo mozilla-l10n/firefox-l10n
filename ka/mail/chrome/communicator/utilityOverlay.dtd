@@ -2,59 +2,53 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- these things need to move into utilityOverlay.xul -->
-
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label          "ფაილი">
 <!ENTITY fileMenu.accesskey        "F">
 <!ENTITY newMenu.label            "ახალი">
-<!ENTITY newMenu.accesskey					"N">
+<!ENTITY newMenu.accesskey          "N">
 
 <!ENTITY editMenu.label          "რედაქცია">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "დაბრუნება">
-<!ENTITY undoCmd.key						"Z">  
+<!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "გამეორება">
-<!ENTITY redoCmd.key						"Y">  
+<!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY cutCmd.label            "ამოჭრა">
-<!ENTITY cutCmd.key							"X">  
-<!ENTITY cutCmd.accesskey					"t"> 
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label            "ასლი">
-<!ENTITY copyCmd.key						"C">  
+<!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "C">
 <!ENTITY pasteCmd.label            "ჩასმა">
-<!ENTITY pasteCmd.key						"V">  
+<!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "P">
 <!ENTITY deleteCmd.label          "წაშლა">
 <!ENTITY deleteCmd.accesskey        "D">
 <!ENTITY selectAllCmd.label          "ყველას მონიშვნა">
-<!ENTITY selectAllCmd.key					"A">  
+<!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "A">
-<!ENTITY preferencesCmd.label        "პარამეტრები…">
-<!ENTITY preferencesCmd.accesskey			"O"> 
+<!ENTITY preferencesCmd2.label "პარამეტრები">
 <!ENTITY preferencesCmdUnix.label       "პარამეტრები">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY viewMenu.label          "ჩვენება">
 <!ENTITY viewMenu.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label        "პულტები">
-<!ENTITY viewToolbarsMenu.accesskey			"T"> 
+<!ENTITY viewToolbarsMenu.accesskey      "T">
 <!ENTITY showTaskbarCmd.label          "სტატუსის პანელი">
 <!ENTITY showTaskbarCmd.accesskey        "u">
 
-<!ENTITY proxy.label                                    "პროქსის კონფიგურაცია…">
-<!ENTITY proxy.accesskey                                "C">
-
 <!ENTITY closeCmd.label      "დახურვა">
-<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.key      "W">
 <!ENTITY closeCmd.accesskey    "C">
 
 <!ENTITY quitApplicationCmd.label  "გასვლა">
-<!ENTITY quitApplicationCmd.key		"Q"> 
-<!ENTITY quitApplicationCmd.accesskey	"x">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "x">
 
 <!ENTITY quitApplicationCmdUnix.label  "დასრულება">
 <!ENTITY quitApplicationCmdUnix.accesskey  "Q">

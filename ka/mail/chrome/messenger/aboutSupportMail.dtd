@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "კავშირის უსაფრთხოება">
 <!ENTITY aboutSupport.accountsAuthMethod "აუთენტიფიკაციის მეთოდი">
 <!ENTITY aboutSupport.accountsDefault "ნაგულისხმები?">
+<!ENTITY aboutSupport.identityName "მოწმობა">
 
 <!ENTITY aboutSupport.sendViaEmail.label "გაგზავნა ელფოსტით">
