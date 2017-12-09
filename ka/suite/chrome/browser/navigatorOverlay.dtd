@@ -124,6 +124,12 @@
 
 <!ENTITY popupsMessageChangeTitle.label "ამომხტომი ფირნიშების ნებართვები შეიცვალა">
 <!ENTITY popupAllowCmd.label "ამომხტომი ფირნიშების დაშვება ამ საიტზე">
+<!ENTITY popupAllowCmd.accesskey "დ">
+<!ENTITY popupAllowMsg.label "ამომხტომი ფირნიშები ამ საიტზე ყოველთვის დაშვებულია.">
+<!ENTITY popupDefaultCmd.label "ამომხტომი ფირნიშებისთვის ნაგულისხმევი ნებართვების დაბრუნება">
+<!ENTITY popupDefaultCmd.accesskey "გ">
+<!ENTITY popupDefaultMsg.label "ამომხტომი ფირნიშები ამ საიტზე დაშვებულია, ნაგულისხმევი უფლებების შესაბამისად.">
+<!ENTITY popupBlockCmd.label "ამომხტომი ფირნიშების შეზღუდვა ამ საიტზე">
 
 <!ENTITY cookieCookieManager.label "ნაჭდევების მმართველი">
 <!ENTITY cookieCookieManager.accesskey "C">
