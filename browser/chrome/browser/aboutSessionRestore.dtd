@@ -9,6 +9,9 @@
 <!ENTITY restorepage.errorTitle2    "Συγγνώμη. Έχουμε πρόβλημα στην επαναφορά των σελίδων σας.">
 <!ENTITY restorepage.problemDesc2   "Έχουμε πρόβλημα στην επαναφορά της τελευταίας σας συνόδου περιήγησης. Επιλέξτε την Επαναφορά Συνόδου και δοκιμάστε πάλι.">
 
+<!ENTITY restorepage.hideTabs       "Απόκρυψη προηγούμενων καρτελών">
+<!ENTITY restorepage.showTabs       "Προβολή προηγούμενων καρτελών">
+
 <!ENTITY restorepage.tryagainButton2 "Επαναφορά Συνόδου">
 <!ENTITY restorepage.closeButton2    "Εκκίνηση Νέας Συνόδου">
 <!ENTITY restorepage.close.access2   "Ν">
