@@ -494,7 +494,7 @@
 <!ENTITY contextmenu_copyurl "Copiar l’adreça">
 <!ENTITY contextmenu_edit_bookmark "Modificar">
 <!ENTITY contextmenu_subscribe "S\&apos;abonar a aquesta pagina">
-<!ENTITY contextmenu_site_settings "Editar los paramètres del site">
+<!ENTITY contextmenu_site_settings "Modificar los paramètres del site">
 <!ENTITY contextmenu_top_sites_edit "Modificar">
 <!ENTITY contextmenu_top_sites_pin "Penjar aqueste site">
 <!ENTITY contextmenu_top_sites_unpin "Levar aqueste site">
