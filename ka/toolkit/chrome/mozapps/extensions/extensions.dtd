@@ -113,7 +113,7 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "ამ დამატების პარამეტრების შეცვლა">
 <!ENTITY cmd.contribute.label                 "მონაწილეობა">
 <!ENTITY cmd.contribute.accesskey             "წ">
-<!ENTITY cmd.contribute.tooltip               "მიიღეთ მონაწილეობა ამ დამატების დეველოპემნტში.">
+<!ENTITY cmd.contribute.tooltip               "შეიტანეთ წვლილი ამ დამატების შემუშავებაში">
 
 <!ENTITY cmd.showReleaseNotes.label           "გამოშვების შენიშვნების ჩვენება">
 <!ENTITY cmd.showReleaseNotes.tooltip         "ამ განახლების შესახებ შენიშვნების ჩვენება">
@@ -134,7 +134,7 @@
 <!-- detail view -->
 <!ENTITY detail.version.label                 "ვერსია">
 <!ENTITY detail.lastupdated.label             "ბოლო განახლება">
-<!ENTITY detail.creator.label                 "დეველოპერი">
+<!ENTITY detail.creator.label                 "შემმუშავებელი">
 <!ENTITY detail.homepage.label                "მთავარი გვერდი">
 <!ENTITY detail.numberOfDownloads.label       "ჩამოტვირთვები">
 
