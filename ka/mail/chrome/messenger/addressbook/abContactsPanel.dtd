@@ -2,22 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "პარამეტრები">
+<!ENTITY propertiesMenu.accesskey           "პ">
+<!ENTITY abPropertiesMenu.label             "მისამართების წიგნაკის პარამეტრები">
+<!ENTITY abPropertiesMenu.accesskey         "წ">
+
 <!ENTITY addressbookPicker.label            "წიგნაკი:">
 <!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY searchInput.label                  "ძიება:">
-<!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "წერილის სახელი">
 
-<!ENTITY deleteAddrBookCard.label           "წაშლა">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
-<!ENTITY addrBookCardProperties.label       "პარამეტრები">
-<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "დამატება ველში">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "დამატება ასლის ველში">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "დამატება ფარული ასლის ველში">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "წაშლა">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY propertiesContext.label            "პარამეტრები">
+<!ENTITY propertiesContext.accesskey        "პ">
+<!ENTITY abPropertiesContext.label          "პარამეტრები">
+<!ENTITY abPropertiesContext.accesskey      "რ">
+<!ENTITY editMailingListContext.label       "სიის ჩასწორება">
+<!ENTITY editMailingListContext.accesskey   "ს">
+
 
 <!ENTITY toButton.label                     "დამატება ველში - ვის:">
 <!ENTITY toButton.accesskey                 "A">

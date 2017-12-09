@@ -60,8 +60,8 @@
 <!ENTITY deleteCmd.label                                "წაშლა">
 <!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "წიგნაკის წაშლა">
-<!ENTITY deleteContactCmd.label                            "კონტაქტის წაშლა">
-<!ENTITY deleteContactsCmd.label                           "კონტაქტების წაშლა">
+<!ENTITY deleteContactCmd.label                         "კონტაქტის წაშლა">
+<!ENTITY deleteContactsCmd.label                        "კონტაქტების წაშლა">
 <!ENTITY deleteListCmd.label                            "სიის წაშლა">
 <!ENTITY deleteListsCmd.label                           "სიების წაშლა">
 <!ENTITY deleteItemsCmd.label                           "ელემენტების წაშლა">
@@ -74,15 +74,17 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "პარამეტრები…">
-<!ENTITY propertiesCmd.accesskey                        "i">
+<!ENTITY propertiesMenu.label                           "პარამეტრები">
+<!ENTITY propertiesMenu.accesskey                       "რ">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "მისამართების წიგნაკის პარამეტრები">
+<!ENTITY abPropertiesMenu.accesskey                     "პ">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "ჩვენება">
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "პულტები">
-<!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY viewToolbarsMenu.accesskey                     "T">
 <!ENTITY menubarCmd.label                               "მენიუს პანელი">
 <!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "წიგნაკის პულტი">
@@ -98,11 +100,11 @@
 <!ENTITY showContactPane2.label                         "კონტაქტის პანელი">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "სახელის ჩვენება როგორც">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "სახელი, გვარი">
-<!ENTITY firstLastCmd2.accesskey                        "f"> 
+<!ENTITY firstLastCmd2.accesskey                        "f">
 <!ENTITY lastFirstCmd.label                             "გვარი, სახელი">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "ეკრანული სახელი">
@@ -122,32 +124,38 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "ექსპორტი…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "პარამეტრები…">
-<!ENTITY preferencesCmd.accesskey                       "O">
+<!ENTITY preferencesCmd2.label                          "პარამეტრები">
+<!ENTITY preferencesCmd2.accesskey                      "მ">
 <!ENTITY preferencesCmdUnix.label                       "პარამეტრები">
-<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
+<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
-<!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newContactButton.label                            "ახალი კონტაქტი">
-<!ENTITY newContactButton.accesskey                        "C">
+<!-- Address Book Toolbar and Context Menus -->
+<!ENTITY newContactButton.label                         "ახალი კონტაქტი">
+<!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "ახალი სია">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                               "პარამეტრები">
-<!ENTITY editButton2.accesskey                           "P">
+<!ENTITY editPropertiesButton.label                     "ჩასწორება">
+<!ENTITY propertiesContext.label                        "პარამეტრები">
+<!ENTITY propertiesContext.accesskey                    "პ">
+<!ENTITY abPropertiesContext.label                      "პარამეტრები">
+<!ENTITY abPropertiesContext.accesskey                  "რ">
+<!ENTITY editMailingListContext.label                   "სიის ჩასწორება">
+<!ENTITY editMailingListContext.accesskey               "ს">
 <!ENTITY newmsgButton.label                             "ჩაწერა">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "მყისი შეტყობინება">
 <!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton2.label                             "წაშლა">
-<!ENTITY deleteButton2.accesskey                         "D">
+<!ENTITY printButton.label                              "ამობეჭდვა…">
+<!ENTITY printButton.accesskey                          "ჭ">
+<!ENTITY deleteButton2.label                            "წაშლა">
+<!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                          "წიგნაკის ახალი კონტაქტის შექმნა">
+<!ENTITY newContactButton.tooltip                       "წიგნაკის ახალი კონტაქტის შექმნა">
 <!ENTITY newlistButton.tooltip                          "ახალი სიის შექმნა">
-<!ENTITY editButton2.tooltip                             "მონიშნული კონტაქტის რედაქტირება">
 <!ENTITY newmsgButton.tooltip                           "წერილის გაგზავნა">
 <!ENTITY newIM.tooltip                                  "მყისი შეტყობინების გაგზავნა ან საუბარი">
-<!ENTITY deleteButton2.tooltip                           "მონიშნული ელემენტის წაშლა">
+<!ENTITY deleteButton2.tooltip                          "მონიშნული ელემენტის წაშლა">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "წიგნაკები">
@@ -160,6 +168,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "სწრაფი ძიება">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "მისამართების წიგნაკი">
+<!ENTITY Addrbook.accesskey                             "წ">
 <!ENTITY GeneratedName.label                            "სახელი">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "ელფოსტა">
@@ -209,11 +219,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY mapIt.tooltip                                  "ამ მისამართის რუკის ჩვენება ინტერნეტიდან">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "ფანჯარა">
-<!ENTITY minimizeWindow.label "მინიმიზება">
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "წინა პლანზე გადმოტანა">
-<!ENTITY zoomWindow.label "მასშტაბი">
+<!ENTITY windowMenu.label                               "ფანჯარა">
+<!ENTITY minimizeWindow.label                           "მინიმიზება">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "წინა პლანზე გადმოტანა">
+<!ENTITY zoomWindow.label                               "მასშტაბი">
