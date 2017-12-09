@@ -24,30 +24,48 @@
 <!ENTITY rights.intro-point2b "ამ საიტზე">
 <!ENTITY rights.intro-point2c ".">
 
+<!-- point 2d is technically point 3. in the list -->
+
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "&vendorShortName;-ს პროდუქტების კონფიდენციალობის პოლიტიკას შეგიძლიათ გაეცნოთ ">
 <!ENTITY rights.intro-point3b "ამ საიტზე">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; ასევე, დამატებით გთავაზობთ საინფორმაციო მომსახურებას ინტერნეტით, როგორიცაა უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება; თუმცა, ჩვენ ვერ მოგცემთ 100&#37; გარანტიას სიზუსტესა და უშეცდომობაზე. უფრო დაწვრილებით, იმის ჩათვლით თუ როგორ შეგიძლიათ ამორთოთ ეს მომსახურებები შეგიძლიათ იხილოთ ">
 <!ENTITY rights.intro-point4b "მომსახურების პირობებში">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "&brandFullName; ინტერნეტ მომსახურებები">
 
-<!-- Note that this paragraph references a couple of entities from
-     preferences/security.dtd, so that we can refer to text the user sees in
-     the UI, without this page being forgotten every time those strings are
-     updated.  -->
+<!-- Note that this paragraph references entities from extensions.dtd,
+     preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
+     so that we can refer to text the user sees in the UI, without
+     this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; სარგებლობს ვებსაიტების ისეთი საინფორმაციო მომსახურებებით (შემდგომში «მომსახურებები»), როგორიცაა უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება, და რომელიც თქვენთვის მისაწვდომია &brandShortName; ბრაუზერის ამ ვერსიით, იხილეთ ქვემოთ. თუ არ გსურთ «მომსახურებებით» სარგებლობა ქვემოთ მოტანილი პირობებით, შეგიძლიათ ამორთოთ  უსაფრთხო ნავიგაციის (SafeBrowsing) მომსახურება თუ პროგრამის პარამეტრებიდან გახსნით ">
-<!ENTITY rights.webservices-b "დეტალური">
-<!ENTITY rights.webservices-c " და შემდეგ დაფაზე ">
-<!ENTITY rights.webservices-d "განახლება">
-<!ENTITY rights.webservices-e " ამორთავთ პარამეტრებს «განახლებების ავტომატური შემოწმება».">
+<!ENTITY rights3.webservices-b "აქ">
+<!ENTITY rights3.webservices-c ". დანარჩენი ფუნქციები და მომსახურებები შეგიძლიათ ჩართოთ, ან გამორთოთ პროგრამის პარამეტრებიდან.">
 
-<!-- points 1-6 text for branded builds -->
+<!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "დამატების მომსახურებები: ">
+<!ENTITY rights.addons-term1 "გახსენით პროგრამის პარამეტრები">
+
+<!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "გვერდების უსაფრთხოდ მონახულება: ">
+<!ENTITY rights.safebrowsing-b "გვერდების უსაფრთხოდ მონახულების შესაძლებლობის გამორთვა არაა სასურველი, რადგან შედეგად შეიძლება ეწვიოთ სახიფათო საიტებს.  თუ მაინც გსურთ ფუნქციის სრულად გათიშვა, მიჰყევით შემდეგ მითითებებს:">
+<!ENTITY rights.safebrowsing-term1 "გახსენით პროგრამის პარამეტრები">
+<!ENTITY rights.safebrowsing-term2 "გადადით მთავარ &security.label; არეზე">
+<!ENTITY rights.safebrowsing-term3 "მოხსენით მონიშვნა &quot;&blockAttackSites.label;&quot;-ს და &quot;&blockWebForgeries.label;&quot;-ს">
+<!ENTITY rights.safebrowsing-term4 "და უსაფრთხო რეჟიმი გამოირთვება">
+
+<!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "გეოლოკაცია ინტერნეტში მოგზაურობისას: ">
+<!ENTITY rights.locationawarebrowsing-b "მხოლოდ თანხმობის შემთხვევაში.  მდებარეობის შესახებ ინფორმაცია, თქვენი ნებართვის გარეშე, არასდროს გაიგზავნება.  თუ გსურთ ამ შესაძლებლობის სრულად გათიშვა, მიჰყევით შემდეგ მითითებებს:">
+<!ENTITY rights.locationawarebrowsing-term1 "გახსენით პროგრამის პარამეტრები">
+<!ENTITY rights.locationawarebrowsing-term2 "გადადით მთავარ &security.label; არეზე">
+<!ENTITY rights.locationawarebrowsing-term3 "აირჩიეთ &quot;&geoDisabled.label;&quot; პარამეტრი">
+<!ENTITY rights.locationawarebrowsing-term4 "ადგილმდებარეობის დადგენა გვერდების მონახულებისას, გამოირთვება">
+
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName;-ს შეუძლია საკუთარი შეხედულებისამებრ შეწყვიტოს ან შეცვალოს მომსახურებები.">
 <!ENTITY rights.webservices-term2 "მოხარული ვიქნებით თუ ისარგებლებთ ამ მომსახურებებით და მისი უზრუნველმყოფი &brandShortName; ბრაუზერით, თქვენ ამის ყველა საჭირო უფლება გაგაჩნიათ.  &vendorShortName; და მისი ლიცენზორები ინარჩუნებენ ყველა სხვა უფლებას მომსახურებებზე.  ეს პირობები არაა მოწოდებული შეზღუდოს რაიმე უფლებები &brandShortName; ღია კოდის და &brandShortName; შესაბამისი პირველწყარო კოდების ლიცენზიებზე.">
 <!ENTITY rights.webservices-term3 "მომსახურებები მოწოდებულია «როგორც არის და რაც არის.»  &vendorShortName;, მისი შემქმნელები, ლიცენზორები და გამავრცელებლები იხსნიან ყველა სახის, ღია თუ შეფარულ, შეუზღუდავის ჩათვლით, პასუხისმგებლობას მომსახურებების კომერციულობასა და მორგებაზე თქვენი საჭიროებისამებრ.  მომსახურებების, როგორც თქვენი საჭიროებისამებრ შემრჩევს მომსახურებების ხარისხსა და წარმადობაზე სრული რისკი მთლიანად თქვენ გეკისრებათ. ზოგიერთი კანონმდებლობა არ იძლევა ირიბი პასუხისმგებლობის გამორიცხვის ან შეზღუდვის უფლებას, ამგვარად ეს უარყოფა თქვენ ვერ შეგეხებათ.">

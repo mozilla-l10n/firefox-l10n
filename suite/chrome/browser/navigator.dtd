@@ -63,13 +63,16 @@
 
 <!ENTITY searchItem.title             "ძიება">
 
-<!ENTITY  bookmarksButton.label       "სანიშნეები">
-<!ENTITY  bookmarksButton.tooltip     "სანიშნეების სია">
-<!ENTITY  homeButton.label            "სათაო გვერდი">
-<!ENTITY  bookmarksToolbarItem.label  "სანიშნეთა პულტის ელემენტები">
+<!ENTITY bookmarksButton.label        "სანიშნეები">
+<!ENTITY bookmarksButton.tooltip      "სანიშნეების სია">
+<!ENTITY homeButton.label             "სათაო გვერდი">
+<!ENTITY bookmarksToolbarItem.label   "სანიშნეთა პულტის ელემენტები">
 <!ENTITY bookmarksToolbarChevron.tooltip "სხვა სანიშნეების ჩვენება">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "მზადაა">
 
 <!ENTITY popupIcon.tooltiptext      "ფირნიშების დაშვება ამ გვერდისთვის">
+
+<!ENTITY viewSecurityInfo.label      "უსაფრთხოების მონაცემების ნახვა">
+<!ENTITY viewSecurityInfo.accesskey  "უ">
