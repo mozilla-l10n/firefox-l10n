@@ -122,17 +122,13 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "გამოსახულებები ამ ვებსაიტიდან არასოდეს ჩამოიტვირთება.">
 
-<!ENTITY cookieAllowPopupsCmd.label "ფირნიშების ნებართვა ამ ვებსაიტიდან">
-<!ENTITY cookieAllowPopupsCmd.accesskey "A">
-<!ENTITY cookieManagePopups.label "ფირნიშების მართვა">
-<!ENTITY cookieManagePopups.accesskey "M">
+<!ENTITY popupsMessageChangeTitle.label "ამომხტომი ფირნიშების ნებართვები შეიცვალა">
+<!ENTITY popupAllowCmd.label "ამომხტომი ფირნიშების დაშვება ამ საიტზე">
 
 <!ENTITY cookieCookieManager.label "ნაჭდევების მმართველი">
 <!ENTITY cookieCookieManager.accesskey "C">
 <!ENTITY cookieImageManager.label "გამოსახულებათა მმართველი">
 <!ENTITY cookieImageManager.accesskey "I">
-<!ENTITY cookiePopupManager.label "ფირნიშების მმართველი">
-<!ENTITY cookiePopupManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "პირად მონაცემთა გასუფთავება…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">

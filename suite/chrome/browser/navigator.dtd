@@ -76,3 +76,7 @@
 
 <!ENTITY viewSecurityInfo.label      "უსაფრთხოების მონაცემების ნახვა">
 <!ENTITY viewSecurityInfo.accesskey  "უ">
+<!ENTITY viewCertificate.label       "სერტიფიკატის ნახვა">
+<!ENTITY viewCertificate.accesskey   "ს">
+<!ENTITY viewCertManager.label       "სერტიფიკატების მმართველი">
+<!ENTITY viewCertManager.accesskey   "მ">
