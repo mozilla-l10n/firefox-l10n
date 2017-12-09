@@ -7,14 +7,14 @@
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 120ch; height: 40em;">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "კოპირება">
-<!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "სრული მონიშვნა">
-<!ENTITY  selectall.accesskey   "A">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "კოპირება">
+<!ENTITY  copy.accesskey         "C">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "სრული მონიშვნა">
+<!ENTITY  selectall.accesskey    "A">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "ბმ(ებ)ის კოპირება">
 <!ENTITY  copyLinks.accesskey       "L">
 <!ENTITY  openInNewTab.label        "გახსნა ახალ დფაზე">
@@ -31,7 +31,7 @@
 <!ENTITY  generalReferrer       "დამოწმება:">
 <!ENTITY  generalSource         "წყარო:">
 <!ENTITY  generalModified       "შეიცვალა:">
-<!ENTITY  generalEncoding       "კოდირება:">
+<!ENTITY  generalEncoding2      "ტექსტის კოდირება:">
 <!ENTITY  generalMetaName       "სახელი">
 <!ENTITY  generalMetaContent    "შიგთავსი">
 <!ENTITY  generalSecurityDetails           "დაწვრილებით">
@@ -59,7 +59,7 @@
 <!ENTITY  linkAccessKey         "წვდომის კლავიში">
 
 <!ENTITY  mediaTab              "მედია">
-<!ENTITY  mediaTab.accesskey        "M">
+<!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "მისამართი:">
 <!ENTITY  mediaAlt              "ალტერნატული ტექსტი:">
 <!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
