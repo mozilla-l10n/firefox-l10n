@@ -400,7 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "Додај у додатну траку">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Додај у додатни мени">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "т">
 <!ENTITY customizeMenu.moveToToolbar.label "Помери на траку">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "т">
@@ -411,11 +411,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Помери до менија">
 <!ENTITY customizeMenu.moveToPanel.accesskey "м">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Закачи на додатну траку">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Закачи за додатни мени">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "З">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Откачи са додатне траке">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Откачи са додатног менија">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "О">
-<!ENTITY customizeMenu.removeFromToolbar.label "Уклони са траке">
+<!ENTITY customizeMenu.removeFromToolbar.label "Уклони">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "у">
 <!ENTITY customizeMenu.removeFromMenu.label "Уклони са менија">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "е">
@@ -843,7 +843,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ж">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Превуците ваше омиљене ставке на алатну траку или на додатну траку.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Превуците ваше омиљене ставке на алатну траку или у додатни мени.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Желите више алата?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изаберите неки од хиљада додатака">
 <!ENTITY customizeMode.restoreDefaults "Обнови подразумевано">
@@ -859,7 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Набавите теме">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
 <!ENTITY customizeMode.emptyOverflowList.description "Превуците и спустите ставке овде како бисте их држали близу али ван алатне траке…">
-<!ENTITY customizeMode.overflowList.title2 "Додатна трака">
+<!ENTITY customizeMode.overflowList.title2 "Додатни мени">
 <!ENTITY customizeMode.overflowList.description "Превуците овде ставке да их имате на дохват руке али ван ваше алатне траке…">
 <!ENTITY customizeMode.uidensity "Збијеност">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
