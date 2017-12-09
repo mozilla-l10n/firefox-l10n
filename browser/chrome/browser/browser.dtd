@@ -400,6 +400,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Shtoje te Menuja Më Tepër Mjete">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Kaloje te Paneli">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -409,6 +411,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Kaloje te Menuja">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fiksoje te Menuja Më Tepër Mjete">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Shfiksoje nga Menuja Më Tepër Mjete">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "S">
 <!ENTITY customizeMenu.removeFromToolbar.label "Hiqe nga Paneli">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "H">
 <!ENTITY customizeMenu.removeFromMenu.label "Hiqe nga Menuja">
@@ -837,11 +843,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Njëkohësoni">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Tërhiqini elementët tuaj të parapëlqyer te paneli ose te menuja Më Tepër Mjete.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Doni më tepër mjete?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Zgjidhni prej mijëra shtesave">
 <!ENTITY customizeMode.restoreDefaults "Rikthejeni te Parazgjedhjet">
 <!ENTITY customizeMode.done "U bë">
 <!ENTITY customizeMode.titlebar "Shtyllë Titujsh">
+<!ENTITY customizeMode.extraDragSpace "Tërhiqni hapësirë">
 <!ENTITY customizeMode.toolbars2 "Panele">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Temat e Mia">
@@ -850,6 +858,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Merrni Më Shumë Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
+<!ENTITY customizeMode.emptyOverflowList.description "Tërhiqni dhe lini këtu elementë për t&apos;i mbajtur një hap larg, por jashtë panelit tuaj…">
+<!ENTITY customizeMode.overflowList.title2 "Menuja Më Tepër Mjete">
+<!ENTITY customizeMode.overflowList.description "Tërhiqni dhe lini këtu elementë për t&apos;i mbajtur një hap larg, por jashtë panelit tuaj…">
 <!ENTITY customizeMode.uidensity "Dendësi">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -866,6 +877,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Me Prekje">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Me Prekje">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "P">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Përdor Prekje për Mënyrën Tablet">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Vetëfshihe">
 
@@ -977,3 +992,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Me Veçori Përdorshmërie të Aktivizuara ">
