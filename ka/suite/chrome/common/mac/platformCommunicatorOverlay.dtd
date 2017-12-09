@@ -26,27 +26,34 @@
 <!-- End of Application menu -->
 
 <!ENTITY closeCmd.label                 "დახურვა">  
-<!ENTITY closeCmd.key			"W">  
+<!ENTITY closeCmd.key                   "W">  
 
-<!ENTITY printSetupCmd.label		"გვერდის პარამეტრები…">
-<!ENTITY printSetupCmd.accesskey	"u">
+<!ENTITY printSetupCmd.label            "გვერდის პარამეტრები…">
+<!ENTITY printSetupCmd.accesskey        "u">
 
-<!ENTITY redoCmd.key			"Z">  
+<!ENTITY findReplaceCmd.key             "F">
+<!ENTITY redoCmd.key                    "Z">
 
-<!ENTITY historyCmd.key   "H">  
+<!-- Keys for toggling Sidebar, Folder Pane in mailNews and Directory Pane in
+  Address Book -->
+<!ENTITY showHideSidebarCmd.key         "S">
+<!ENTITY toggleFolderPaneCmd.key        "S">
+<!ENTITY toggleDirectoryPaneCmd.key     "S">
 
-<!ENTITY findTypeTextCmd.key        "">
-<!ENTITY findTypeLinksCmd.key       "">
+<!ENTITY historyCmd.key                 "H">  
 
-<!ENTITY accel.emacs_conflict       "accel">
+<!ENTITY findTypeTextCmd.key            "">
+<!ENTITY findTypeLinksCmd.key           "">
 
-<!ENTITY minimizeWindowCmd.label    "მინიმიზება">
-<!ENTITY minimizeWindowCmd.key      "M">
-<!ENTITY zoomWindowCmd.label        "მასშტაბი">
+<!ENTITY accel.emacs_conflict           "accel">
+
+<!ENTITY minimizeWindowCmd.label        "მინიმიზება">
+<!ENTITY minimizeWindowCmd.key          "M">
+<!ENTITY zoomWindowCmd.label            "მასშტაბი">
 
 <!-- Help menu -->
-<!ENTITY openHelpCmd.label          "&brandShortName; დახმარება">
-<!ENTITY openHelpCmd.accesskey      "H">
+<!ENTITY openHelpCmd.label              "&brandShortName; დახმარება">
+<!ENTITY openHelpCmd.accesskey          "H">
 <!ENTITY openHelpCmd.key                "?">
 <!ENTITY openHelpCmd.modifiers          "accel">
 

@@ -7,8 +7,8 @@
 <!ENTITY     div.bannedservers.label        "ინტერნეტის საიტები რომლებსაც ნებას რთავთ ან უკრძალავთ ნაჭდევის ჩაწერას.">
 <!ENTITY     div.cookiesonsystem.label      "კომპიუტერში ჩაწერილი ნაჭდევების ჩვენება და ამოშლა.">
 <!ENTITY     treehead.cookiename.label      "ნაჭდევის სახელი">
-<!ENTITY     treehead.cookiedomain.label    "საიტი"> 
-<!ENTITY     treehead.cookieexpires.label   "ვადა"> 
+<!ENTITY     treehead.cookiedomain.label    "საიტი">
+<!ENTITY     treehead.cookieexpires.label   "ვადა">
 <!ENTITY     treehead.infoselected.label    "შერჩეული ნაჭდევის მონაცემები">
 <!ENTITY     button.removecookie.label      "ნაჭდევის ამოშლა">
 <!ENTITY     button.removecookie.accesskey  "R">
@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "ნაჭდევების ძიება">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "სახელი:">
@@ -28,10 +27,9 @@
 <!ENTITY     props.expires.label            "ვადა:">
 
 <!ENTITY     treehead.sitename.label        "საიტი">
+<!ENTITY     treehead.scheme.label          "სქემა">
 <!ENTITY     treehead.status.label          "სტატუსი">
 <!ENTITY     windowtitle.label              "ნაჭდევების მართვა">
-<!ENTITY     buttonaccept.label             "დახურვა">
-<!ENTITY     buttonaccept.accesskey         "C">
 
 <!ENTITY     blockSite.label                "დაბლოკვა">
 <!ENTITY     blockSite.accesskey            "B">
