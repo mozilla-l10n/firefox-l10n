@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "ბლოკის შენახვა როგორც…">
 <!ENTITY saveFrameCmd.label           "ბლოკის შენახვა…">
 <!ENTITY saveFrameCmd.accesskey       "a">
+<!ENTITY printFrameCmd.label          "ჩარჩოს ამობეჭდვა…">
+<!ENTITY printFrameCmd.accesskey      "ჭ">
 <!ENTITY saveLinkAsCmd.label          "ბმის შენახვა როგორც…">
 <!ENTITY saveLinkCmd.label            "ბმის შენახვა…">
 <!ENTITY saveLinkCmd.accesskey        "S">
@@ -114,6 +116,8 @@
 <!ENTITY mediaPlaybackRate150.accesskey "H">
 <!ENTITY mediaPlaybackRate200.label     "ორმაგი სიჩქარე">
 <!ENTITY mediaPlaybackRate200.accesskey "D">
+<!ENTITY mediaLoop.label              "ციკლი">
+<!ENTITY mediaLoop.accesskey          "ც">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -147,3 +151,6 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "L">
 <!ENTITY spellAddDictionaries.label     "სხვა ლექსიკონების ჩამოტვირთვა…">
 <!ENTITY spellAddDictionaries.accesskey "D">
+<!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "ელემენტზე დაკვირვება">
+<!ENTITY devtoolsInspect.accesskey      "ე">

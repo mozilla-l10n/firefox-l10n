@@ -22,6 +22,10 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "თუ ამ საიტს ჩვეულებრივ
 უპრობლემოდ უკავშირდებოდით, ეს შეცდომა შესაძლოა ნიშნავდეს, რომ ვიღაც
 ცდილობს საიტის თავად გასაღება, ასეთ შემთხვევაში აღარ გააგრძელოთ.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი იყენებს HTTP
+Strict Transport Security (HSTS) შეერთებას, რომ &brandShortName; მხოლოდ დაცულად
+დაუკავშირდეს. ამის გამო, შეუძლებელია მოცემული სერტიფიკატისთვის გამონაკლისის 
+დაშვება.">
 <!ENTITY certerror.getMeOutOfHere.label "რაღაც არ მომწონს - დამაბრუნეთ თავფურცელზე">
 
 <!ENTITY certerror.expert.heading "მე ვაცნობიერებ რისკებს">
