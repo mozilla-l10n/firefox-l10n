@@ -14,10 +14,18 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Rifreskoje">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Pastroje">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Emër tabele">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Numër zërash fshehtine negative">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Numër zërash fshehtine pozitive">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Shfaqi zërat">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Zëra Fshehtine">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Parashtesë">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Skadim fshehtine negative">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Skadim fshehtine pozitive">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Diagnostikim">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Rregulloni Module Regjistrimi">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Caktoni Kartelë Regjistër">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Rregulloni Regjistër JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Module regjistrash Shfletimi të Parrezik">
 <!ENTITY aboutUrlClassifier.debugModules                "Module të tanishëm regjistrimi">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Regjistër JS Shfletimi të Parrezik">
 <!ENTITY aboutUrlClassifier.debugFile                   "Kartelë regjistri të tanishëm">
