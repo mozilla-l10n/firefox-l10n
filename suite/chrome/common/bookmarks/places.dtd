@@ -48,10 +48,12 @@
 
 <!ENTITY cmd.open.label                  "გახსნა">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "გახსნა ახალ სარკმელში">
-<!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_tab.label              "გაზსნა ახალ დაფაზე">
 <!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_window.label           "გახსნა ახალ სარკმელში">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_private.label          "გახსნა ახალ პირად ფანჯარაში">
+<!ENTITY cmd.open_private.accesskey      "პ">
 <!ENTITY cmd.open_all_in_tabs.label      "ყველას გახსნა დაფებზე">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
