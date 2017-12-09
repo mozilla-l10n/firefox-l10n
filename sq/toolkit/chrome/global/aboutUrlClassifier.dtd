@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Furnizues">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Koha e përditësimit të fundit">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Koha e përditësimit pasues">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Hash i plotë">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Gjendje e përditësimit të fundit">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Përditësim">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Fshehtinë">
