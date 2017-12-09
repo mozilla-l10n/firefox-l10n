@@ -6,16 +6,15 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate "accel" or "shift",
                          You may want to translate the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label			"დახურვა">  
-<!ENTITY closeCmd.key			"W">  
-<!ENTITY closeCmd.accesskey		"c">
+<!ENTITY closeCmd.label                 "დახურვა">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "c">
 
-<!ENTITY quitApplicationCmd.label	"გასვლა"> 
-<!ENTITY quitApplicationCmd.key		"Q"> 
-<!ENTITY quitApplicationCmd.accesskey	"x">
+<!ENTITY quitApplicationCmd.label       "გასვლა"> 
+<!ENTITY quitApplicationCmd.key         "Q"> 
+<!ENTITY quitApplicationCmd.accesskey   "x">
 
-<!ENTITY redoCmd.key			"Y">  
-
+<!ENTITY redoCmd.key                    "Y">  
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">
 
@@ -37,3 +36,5 @@
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "Shift">
 
+<!ENTITY menubarCmd.label               "მენიუს ზოლი">
+<!ENTITY menubarCmd.accesskey           "ზ">

@@ -7,16 +7,22 @@
 <!ENTITY safeb.palm.reportPage.label "რატომაა ეს გვერდი დაბლოკილი?">
 
 <!ENTITY safeb.blocked.malwarePage.title "ნაპატაკები შემტევი გვერდი!">
-<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "ეს ვებგვერდი <span id='malware_sitename'/> ნაპატაკებია, როგორც შემტევი გვერდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების მიხედვით.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>შემტევი გვერდები ცდილობენ ჩადგან პროგრამები, რომლებიც პირად მონაცემებს იპარავენ, იყენებენ თქვენს კომპიუტერს სხვაზე შეტევებისთვის ან სულაც აზიანებენ თქვენს სისტემას.</p><p>ზოგი შემტევი გვერდი წინასწარი განზრახვით ავრცელებს მავნე პროგრამებს, თუმცა ხშირია შემთხვევა, როცა საიტის მფლობელებმა ამის შესახებ არც იციან.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "ნაპატაკები ვებ ყალთაბანდობა!">
-<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "ეს ვებგვერდი <span id='phishing_sitename'/> ნაპატაკებია, როგორც ვებ ყალთაბანდობა და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების მიხედვით.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>ვებ ყალთაბანდები შექმნილია რათა გამოგტყუონ პირადი ან ფინანსური მონაცემები თქვენთვის შესაძლო სანდო წყაროს იმიტაციით.</p><p>რაიმე მონაცემთა შეტანა ასეთ გვერდებზე შესაძლოა თქვენი მონაცემების გადინების ან აფერაში გახვევის მიზეზი გახდეს.</p>">
+<!ENTITY safeb.blocked.unwantedPage.title "საიტი, შემჩნეულია არასასურველი პროგრამის გავრცელებაში!">
+<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> შემჩნეულია, არასასურველი პროგრამის გავრცელებაში და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>მსგავსი საიტები ცდილობს დააყენოს არასასურველი პროგრამა, რომელსაც შეუძლია თაღლითური ან სხვა გაუთვალისწინებელი ხერხებით სისტემისთვის ზიანის მოყენება.</p>">
 
-<!ENTITY reportPhishSite.label         "ვებ ყალთაბანდობის პატაკი…">
-<!ENTITY reportPhishSite.accesskey     "F">
-<!ENTITY notAForgery.label             "ეს არაა ვებ ყალთაბანდობა…">
-<!ENTITY notAForgery.accesskey         "f">
+<!ENTITY safeb.blocked.phishingPage.title2 "თაღლითური საიტი!">
+<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> ცნობილია, როგორც თაღლითური საიტი და შეზღუდულია უსაფრთხოების მიზნით.">
+
+<!-- Localization note (reportDeceptiveSite, notADeceptiveSite) - The two button strings will never be shown at the same time, so it's okay for them to have the same access key. -->
+<!ENTITY reportDeceptiveSite.label "მოხსენება თაღლითურ საიტზე…">
+<!ENTITY reportDeceptiveSite.accesskey "მ">
+<!ENTITY notADeceptiveSite.label "ეს თაღლითური საიტი არაა…">
+<!ENTITY notADeceptiveSite.accesskey "თ">
+
