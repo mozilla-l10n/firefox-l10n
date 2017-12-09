@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Account manager window for Instantbird -->
+<!ENTITY accounts.title                      "ანგარიშები - &brandShortName;">
+<!ENTITY accountManager.width                "450">
+<!-- Instant messaging account status window for Thunderbird -->
+
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY account.connect.label        "დაკავშირება">
+<!ENTITY account.disconnect.label     "კავშირის შეწყვეტა">
+<!ENTITY account.delete.label         "წაშლა">
+<!ENTITY account.edit.label           "პარამეტრები">
+<!ENTITY account.edit.accesskey       "პ">
+<!ENTITY account.moveup.label         "გადაადგილება ზემოთ">
+<!ENTITY account.movedown.label       "გადაადგილება ქვემოთ">
+<!ENTITY account.connecting           "დაკავშირება…">
+<!ENTITY account.disconnecting        "კავშირის გაწყვეტა…">
+<!ENTITY account.disconnected         "არაა დაკავშირებული">
