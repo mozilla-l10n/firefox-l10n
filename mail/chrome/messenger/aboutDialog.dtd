@@ -1,4 +1,33 @@
-<!ENTITY aboutDialog.title      "&brandFullName; პროგრამის შესახებ">
+<!ENTITY aboutDialog.title          "&brandFullName; პროგრამის შესახებ">
+
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
+<!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
+# Only one button is present at a time.
+# The button when displayed is located directly under the Thunderbird version in
+# the about dialog.
+-->
+<!ENTITY update.checkForUpdatesButton.label       "განახლებების შემოწმება">
+<!ENTITY update.checkForUpdatesButton.accesskey   "შ">
+<!ENTITY update.updateButton.label3               "&brandShorterName;-ის გასაახლებლად, გაუშვით ხელახლა">
+<!ENTITY update.updateButton.accesskey            "ხ">
+
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
+<!ENTITY warningDesc.version        "&brandShortName; საცდელი ვერსიაა და შესაძლოა არამდგრადად იმუშაოს.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "იგი ავტომატურად უგზავნის &vendorShortName;-ს ინფორმაციას წარმადობის, აპარატურის, მორგებისა და გამოყენების შესახებ &brandShortName;-ის გასაუმჯობესებლად.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " არის ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "მსოფლიო საზოგადოების მიერ">
+<!ENTITY community.exp.end          ", რომელიც მუშაობს იმისთვის, რომ ინტერნეტი დარჩეს გახსნილი, საჯარო და საყოველთაოდ ხელმისაწვდომი.">
 
 <!ENTITY community.start2           "&brandShortName; შექმნილია ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -6,12 +35,17 @@
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "გლობალური საზოგადოების მიერ">
-<!ENTITY community.end2             " რომელიც ინტერნეტისგასაუმჯობესებლად მუშაობს. ჩვენ გვწამს, რომ ინტერნეტი უნდა იყოს ღია, საზოგადო და ყველასათვის მისაწვდომი რაიმე შეზღუდვების გარეშე.">
+<!ENTITY community.end3             ", რომელიც მუშაობს იმისთვის, რომ ინტერნეტი დარჩეს გახსნილი, საჯარო და საყოველთაოდ ხელმისაწვდომი.">
 
-<!ENTITY contribute.start           "დაინტერესდით? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "შემოგვიერთდით!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "გსურთ დახმარება? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "გააკეთეთ შემოწირულობა">
+<!ENTITY helpus.middle              " ან ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "შემოგვიერთდით!">
+<!ENTITY helpus.end                 "">
+
+<!ENTITY releaseNotes.link          "ვერსიის მონაცემები">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "ლიცენზიის შესახებ">
@@ -19,17 +53,17 @@
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "მომხმარებლის უფლებები">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "კონფიდენციალობა">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "შემოწმება განახლებებზე…">
-<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "შემოწმება მოდულების თავსებადობაზე…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; განახლებულია">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "განახლებები ამორთულია თქვენი სისტემის ადმინის მიერ">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName;-ის განახლება უკვე მიმდინარეობს">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -58,7 +92,7 @@
 <!ENTITY update.unsupported.linkText "Learn more">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).

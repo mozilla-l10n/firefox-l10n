@@ -2,17 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "საფოსტო ანგარიშის გამართვა">
 <!ENTITY name.label                      "თქვენი სახელი:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                  "სახელი გვარი">
+<!ENTITY name.placeholder                "სახელი გვარი">
 <!ENTITY name.text                       "სახელი, რომლებსაც სხვები დაინახავენ">
 <!ENTITY email.label                     "ელფოსტის მისამართი:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder                 "email@example.ge">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "სახელი@example.com">
+<!ENTITY email.text                      "თქვენი მიმდინარე ელფოსტის მისამართი">
 <!ENTITY password.label                  "პაროლი:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.placeholder              "პაროლი">
+<!ENTITY password.placeholder            "პაროლი">
 <!ENTITY password.text                   "სურვილისამებრ, გამოიყენება მხოლოდ სახელის ამოსაცნობად">
 <!ENTITY rememberPassword.label          "პაროლის დამახსოვრება">
 <!ENTITY rememberPassword.accesskey      "m">
@@ -53,8 +54,6 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "ხელით კონფიგურაცია">
 <!ENTITY manual-edit.accesskey           "M">
-<!ENTITY switch-to-provisioner.label     "ახალი ანგარიშის შექმნა">
-<!ENTITY switch-to-provisioner.accesskey "G">
 
 
 <!ENTITY warning.label                   "გაფრთხილება!">
@@ -83,6 +82,6 @@
 <!ENTITY insecureServer.tooltip.title    "გაფრთხილება! ეს სერვერი უსაფრთხო არაა.">
 <!ENTITY insecureServer.tooltip.details  "დეტალებისთვის დაწკაპეთ წრე.">
 
-<!ENTITY insecureUnencrypted.description   "ელფოსტა გაიგზავნება როგორც ტექსტი და მისი წაკითხვა სხვა პირების მიერ შესაძლებელია. &brandShortName; პროგრამა საშუალებას მოგცემთ ისარგებლოთ ელფოსტის ამ ანგარიშით, მაგრამ მკაცრად რეკომენდებულია სთხოვოთ თქვენი ელფოსტის პროვაიდერს გამართოს სერვერი უსაფრთხო კავშირით მუშაობის შესაძლებლობით.">
+<!ENTITY insecureUnencrypted.description "ელფოსტა გაიგზავნება როგორც ტექსტი და მისი წაკითხვა სხვა პირების მიერ შესაძლებელია. &brandShortName; პროგრამა საშუალებას მოგცემთ ისარგებლოთ ელფოსტის ამ ანგარიშით, მაგრამ მკაცრად რეკომენდებულია სთხოვოთ თქვენი ელფოსტის პროვაიდერს გამართოს სერვერი უსაფრთხო კავშირით მუშაობის შესაძლებლობით.">
 <!ENTITY insecureSelfSigned.description  "სერვერი იყენებს სერთიფიკატს, რომლის ნდობაც არ შეიძლება.  ამგვარად, დარწმუნებული ვერ ვიქნებით, რომ ვიღაც არ აკონტროლებს კავშირს &brandShortName; პროგრამასა და თქვენს სერვერს შორის. &brandShortName; პროგრამა საშუალებას მოგცემთ ისარგებლოთ ელფოსტის ამ ანგარიშით, მაგრამ მკაცრად რეკომენდებულია სთხოვოთ თქვენი ელფოსტის პროვაიდერს ისარგებლოს სანდო სერთიფიკატით.">
 <!ENTITY secureServer.description        "გილოცავთ! ეს სერვერი უსაფრთხოა.">
