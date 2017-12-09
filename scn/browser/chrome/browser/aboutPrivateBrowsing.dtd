@@ -2,13 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "P'accamora non si nta na finestra privata.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Àpri na finestra privata">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "P'accamora nun si nta na finestra ammucciata.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Grapi na Finestra Ammucciata">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "A">
 
-<!ENTITY privateBrowsing.title                           "Navigazzioni Privata">
-<!ENTITY privateBrowsing.title.tracking                  "Navigazzioni Privata cu Prutizzioni">
+<!ENTITY privateBrowsing.title                           "Navigazzioni Ammucciata">
+<!ENTITY privateBrowsing.title.tracking                  "Navigazzioni Ammucciata chî Prutizzioni">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quannu navighi nta na Finestra Ammucciata, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nun sarba">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "pàggini visitati">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "sarba">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " li toi:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "scarricamenti">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "nzinga-libbra">
 
