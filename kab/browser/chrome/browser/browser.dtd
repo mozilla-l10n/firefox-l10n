@@ -382,16 +382,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Ulac accaren yemtawin… yakan!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ da iccaren-inek seg ibenkan-nniḍen?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ismenyifen n umtawi">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad-sekneḍ tabdart n yiccaren seg ibenkan-ik-nniḍen.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n yiccaren yemtawin">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n waccaren yemtawin">
 
-<!ENTITY appMenuRecentHighlights.label "Izwilen n yakan">
+<!ENTITY appMenuRecentHighlights.label "Izwilen n melmi kan">
 
-<!ENTITY customizeMenu.addToToolbar.label "Rnu ɣer ufeggag n ifecka">
+<!ENTITY customizeMenu.addToToolbar.label "Rnu ɣer ufeggag n yifecka">
 <!ENTITY customizeMenu.addToToolbar.accesskey "R">
 <!ENTITY customizeMenu.addToPanel.label "Rnu ɣer wumuɣ">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
@@ -400,9 +400,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "Rnu ɣer umuɣ n tfuli">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Rnu ɣer wumuɣ n tfuli">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "F">
-<!ENTITY customizeMenu.moveToToolbar.label "Rnu ɣer ufeggag n ifecka">
+<!ENTITY customizeMenu.moveToToolbar.label "Rnu ɣer ufeggag n yifecka">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "R">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
@@ -411,15 +411,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Rnu ɣer wumuɣ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "R">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Senṭeḍ deg umuɣ n tfuli">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Senṭeḍ deg wumuɣ n tfuli">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "R">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Kkes seg Umuɣ n tfuli">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Kkes seg wumuɣ n tfuli">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "S">
-<!ENTITY customizeMenu.removeFromToolbar.label "Kkes seg ufeggag n ifecka">
+<!ENTITY customizeMenu.removeFromToolbar.label "Kkes seg ufeggag n yifecka">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
-<!ENTITY customizeMenu.removeFromMenu.label "Kkes seg umuɣ">
+<!ENTITY customizeMenu.removeFromMenu.label "Kkes seg wumuɣ">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "K">
-<!ENTITY customizeMenu.addMoreItems.label "Rnu ugar n iferdisen…">
+<!ENTITY customizeMenu.addMoreItems.label "Rnu ugar n yiferdisen…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "n">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -434,7 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.extension.label       "Asiɣzef:">
 <!ENTITY urlbar.switchToTab.label     "Ddu ɣer yiccer:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Tebɣiḍ aɣ-d-tefkeḍ tallalt i wenerni n tarmit n unadi s usumer?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Tebɣiḍ ad twennɛeḍ tarmit-ik n unadi s usumer?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Issin ugar…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ala">
@@ -446,9 +446,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Taxbalut:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Awi tallelt deg unadi! nadi tigit &#x1F50E; tama n usumer n unadi.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Snifel iɣewwaṛen…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Beddel iɣewwaren…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Y">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Snifel Ismenyifen…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Beddel Ismenyifen…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "Y">
 
 <!--
@@ -509,15 +509,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Iɣewwaṛen n unadi">
-<!ENTITY changeSearchSettings.tooltip "Snifel iɣewwaṛen n unadi">
+<!ENTITY changeSearchSettings.button  "Iɣewwaren n unadi">
+<!ENTITY changeSearchSettings.tooltip "Beddel iɣewwaren n unadi">
 
-<!ENTITY searchInNewTab.label         "Nadi deg iccer amaynut">
+<!ENTITY searchInNewTab.label         "Nadi deg yiccer amaynut">
 <!ENTITY searchInNewTab.accesskey     "c">
 <!ENTITY searchSetAsDefault.label     "Sers-it d amsedday n unadi amezwer">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
-<!ENTITY openLinkCmdInTab.label       "Ldi aseɣwen deg iccer amaynut">
+<!ENTITY openLinkCmdInTab.label       "Ldi aseɣwen deg yiccer amaynut">
 <!ENTITY openLinkCmdInTab.accesskey   "d">
 <!ENTITY openLinkCmd.label            "Ldi aseɣwen deg usfaylu amaynut">
 <!ENTITY openLinkCmd.accesskey        "d">
@@ -529,7 +529,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "L">
 <!ENTITY openFrameCmd.label           "Ldi akatar deg usfaylu amaynut">
 <!ENTITY openFrameCmd.accesskey       "L">
-<!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg iccer n umagbar amaynut">
+<!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg yiccer amagbar amaynut">
 <!ENTITY openLinkCmdInContainerTab.accesskey "L">
 <!ENTITY showOnlyThisFrameCmd.label     "Sken akatar-a kan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
