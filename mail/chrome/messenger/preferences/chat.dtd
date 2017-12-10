@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "General">
+
 <!ENTITY  startupAction.label         "Sche &brandShortName; aviescha:">
 <!ENTITY  startupAction.accesskey     "s">
 <!ENTITY  startupOffline.label        "Restar offline cun mes contos">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Navigar…">
 <!ENTITY  browse.accesskey                    "N">
 
+<!ENTITY messageStyleTab.title             "Stils da messadi">
+<!ENTITY messageStylePreview.label         "Prevista:">
+<!ENTITY messageStyleTheme.label           "Design:">
+<!ENTITY messageStyleTheme.accesskey       "e">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Borlas">
+<!ENTITY messageStyleDarkTheme.label       "Stgir">
+<!ENTITY messageStylePaperSheetsTheme.label "Fegls da palpiri">
+<!ENTITY messageStyleSimpleTheme.label     "Simpel">
+<!ENTITY messageStyleDefaultTheme.label    "Standard">
+<!ENTITY messageStyleVariant.label         "Varianta:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Mussar il chau-pagina">
+<!ENTITY messageStyleShowHeader.accesskey  "c">
+<!ENTITY messageStyleNoPreview.title       "Nagina prevista disponibla">
+<!ENTITY messageStyleNoPreview.description "Quest design è nunvalid u actualmain indisponibel (supplement deactivà, modus segirà, …).">

@@ -16,6 +16,7 @@
 <!ENTITY ListDescription.accesskey      "e">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Endatescha adressas d'e-mail per las agiuntar a la glista d'e-mail:">
+<!ENTITY AddressTitle.accesskey         "m">
 <!ENTITY UpButton.label                 "Ensi">
 <!ENTITY DownButton.label               "Engiu">
 

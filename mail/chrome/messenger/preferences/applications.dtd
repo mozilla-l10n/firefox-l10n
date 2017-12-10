@@ -25,6 +25,8 @@
 <!ENTITY attachments.incoming.label   "Posta che entra">
 <!ENTITY attachments.outgoing.label   "Posta che sorta">
 
+<!ENTITY addCloudFileAccount1.label       "Agiuntar…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
 <!ENTITY addCloudFileAccount.description  "Agiuntar in nov servetsch per memorisar datotecas">
 <!ENTITY removeCloudFileAccount.label     "Allontanar">
 <!ENTITY removeCloudFileAccount.accesskey "R">
