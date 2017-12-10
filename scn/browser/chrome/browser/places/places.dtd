@@ -8,6 +8,7 @@
 
 
 <!ENTITY cmd.deleteDomainData.label     "Scòrdati stu situ">
+<!ENTITY cmd.deleteDomainData.accesskey "S">
 
 
 
