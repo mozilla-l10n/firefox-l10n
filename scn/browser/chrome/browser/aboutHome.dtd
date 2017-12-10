@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; esti un prugramma líbbiru cû còdici graputu dâ funnazzioni non-profit Mozilla. <a> Canusci li to' diritti…</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Nzinga-libbra">
+<!ENTITY abouthome.bookmarksButton.label "Nzingalibbra">
 <!ENTITY abouthome.historyButton.label   "Crunuluggía">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
