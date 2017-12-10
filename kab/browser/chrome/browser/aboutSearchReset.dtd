@@ -26,5 +26,5 @@ their language. -->
 <!ENTITY searchreset.noChangeButton        "Ur ttbeddil ara">
 <!ENTITY searchreset.noChangeButton.access "D ">
 
-<!ENTITY searchreset.changeEngineButton        "Snifel amsedday n unadi ">
+<!ENTITY searchreset.changeEngineButton        "Beddel amsedday n unadi">
 <!ENTITY searchreset.changeEngineButton.access "C ">
