@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Crear ina nova etichetta">
+<!ENTITY newTagDialog1.title     "Nova etichetta">
 <!ENTITY name.label              "Num e colur da la etichetta:">
 <!ENTITY name.accesskey          "T">

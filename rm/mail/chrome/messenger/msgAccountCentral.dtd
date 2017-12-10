@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Contos">
 <!ENTITY subscribeImapFolders.label   "Administrar abunaments dad ordinaturs">
 <!ENTITY settingsLink.label           "Vesair la configuraziun da quest conto">
-<!ENTITY newAcctLink.label            "Crear in nov conto">
-<!ENTITY newAcct.label                "Crear in nov conto:">
+<!ENTITY setupNewAcct.label           "Configurar in conto:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Funcziunalitads avanzadas">
 <!ENTITY searchMsgsLink.label         "Tschertgar messadis">
