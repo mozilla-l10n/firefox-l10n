@@ -20,7 +20,7 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Bu site bilgisayarınıza zarar verebilir">
-<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; bu sayfayı engelledi, çünkü bu sayfa bilgisayarınıza kişisel bilgilerinizi çalan veya bu bilgileri silen kötü amaçlı yazılım kurmaya çalışabilir.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; bu sayfayı engelledi, çünkü bu sayfa bilgisayarınızdaki kişisel bilgilerinizi çalabilecek veya silebilecek kötü amaçlı yazılımlar kurmaya çalışabilir.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
