@@ -7,6 +7,8 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "a">
 
 <!ENTITY privateBrowsing.title                           "Navigazzioni Ammucciata">
+<!ENTITY privateBrowsing.title.tracking                  "Navigazzioni ammucciata chî prutizzioni dî tracciamenti">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quannu navighi nta na finestra ammucciata, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nun sarba">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "pàggini visitati">
@@ -23,3 +25,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Prutizzioni dî tracciamenti">
+<!ENTITY trackingProtection.description2                 "Certi siti ùsanu tracciaturi chi ponnu taliari li to' attivitati supra l'internet. Câ prutizzioni dî tracciamenti Firefox po' firmari l'appricazzioni chi putissiru arricògghiri nfurmazzioni supra di tia.">
+<!ENTITY trackingProtection.startTour1                   "Talia comu funziona">
