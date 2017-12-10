@@ -64,7 +64,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; yettwaleqqem">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Aleqqem isswḥel-it unedbal n unagraw-ik">
+<!ENTITY update.adminDisabled       "Aleqqem issewḥel-it unedbal n unagraw-ik">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tleqqem-it tummant-nniḍen">
 <!ENTITY update.restarting          "Aɛiwed n usenker…">
@@ -74,7 +74,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Aleqqem ur yedda">
+<!ENTITY update.failed.start        "Aleqqem ur yemmid ara. ">
 <!ENTITY update.failed.linkText     "Sider lqem aneggaru ">
 <!ENTITY update.failed.end          "">
 
@@ -109,4 +109,4 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Aqli-k tura deg ">
-<!ENTITY channel.description.end    " Adabu n uleqqem. ">
+<!ENTITY channel.description.end    " . ">
