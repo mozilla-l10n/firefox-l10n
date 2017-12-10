@@ -24,7 +24,7 @@
 <!ENTITY report.disabled                                     "ავარიული დახურვის მომხსენებელი გამორთულია.">
 <!ENTITY report.failed                                       "გადაგზავნა ვერ მოხერხდა.">
 <!ENTITY report.unavailable                                  "პატაკები არაა ხელმისაწვდომი.">
-<!ENTITY report.comment                                      "დაამატეთ კომენტარი (მისი ნახვა ყველას შეეძლება)">
+<!ENTITY report.comment                                      "დაურთეთ შენიშვნა (შენიშვნები, საჯაროდ გამოჩნდება)">
 <!ENTITY report.pageURL                                      "გვერდის URL-ს მითითება">
 
 <!ENTITY plugin.file                                         "ფაილი">
