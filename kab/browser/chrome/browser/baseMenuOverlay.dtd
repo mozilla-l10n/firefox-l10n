@@ -4,8 +4,8 @@
 
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Semẓi">
-<!ENTITY bringAllToFront.label    "Awi-d Akk ɣer Zdat">
-<!ENTITY zoomWindow.label         "Semɣeṛ/Semẓi">
+<!ENTITY bringAllToFront.label    "Awi-d Kullec ɣer Zdat">
+<!ENTITY zoomWindow.label         "Semɣer/Semẓi">
 <!ENTITY windowMenu.label         "Asfaylu">
 
 <!ENTITY helpMenu.label           "Tallalt"> 
@@ -28,7 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "Ales asenker s yizegrar urmiden">
 <!ENTITY helpSafeMode.stop.accesskey   "A">
 
-<!ENTITY healthReport2.label      "Tacrawt n tezmert n &brandShorterName;">
+<!ENTITY healthReport2.label      "Aneqqis n tezmert n &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "T">
 
 <!ENTITY helpTroubleshootingInfo.label      "Talɣut n usellek">
