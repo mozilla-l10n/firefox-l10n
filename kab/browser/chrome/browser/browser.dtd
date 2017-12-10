@@ -547,7 +547,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameSourceCmd.accesskey "g">
 <!ENTITY viewPageInfoCmd.label        "Wali talɣut n usebter">
 <!ENTITY viewPageInfoCmd.accesskey    "l">
-<!ENTITY viewFrameInfoCmd.label       "Talɣut ɣef ukatar-a">
+<!ENTITY viewFrameInfoCmd.label       "Wali talɣut n ukatar-a">
 <!ENTITY viewFrameInfoCmd.accesskey   "l">
 <!ENTITY reloadImageCmd.label         "Smiren tugna">
 <!ENTITY reloadImageCmd.accesskey     "S">
