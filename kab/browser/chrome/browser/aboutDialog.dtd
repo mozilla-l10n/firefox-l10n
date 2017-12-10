@@ -30,15 +30,15 @@
 <!ENTITY community.exp.middle       " d ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "tamezdagnut tamaḍalant ">
-<!ENTITY community.exp.end          " ad nmahel lwaḥid  bac ad neǧǧ Web yeldi, d azayez, d uffar i yal yiwen.">
+<!ENTITY community.exp.end          " ad neqdec lwaḥid akken ad neǧǧ Web yeldi, d azayez, d uffran i yal yiwen.">
 
-<!ENTITY community.start2           "&brandShortName; ifeṣl-it  ">
+<!ENTITY community.start2           "&brandShortName; ifeṣṣel-it ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName; ">
 <!ENTITY community.middle2          ",agraw amaḍlan n  ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "imttekkiyen ">
-<!ENTITY community.end3             " ad nexdem lwaḥid akken ad neǧǧ Web yeldi, d azayez, d uffar i yal yiwen.">
+<!ENTITY community.end3             " ad nexdem lwaḥid akken ad neǧǧ Web yeldi, d azayez, d uffran i yal yiwen.">
 
 <!ENTITY helpus.start               "Tebɣiḍ tallalt? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
@@ -48,7 +48,7 @@
 <!ENTITY helpus.getInvolvedLink     "kki!">
 <!ENTITY helpus.end                 "‌">
 
-<!ENTITY releaseNotes.link          "D acu n umaynut">
+<!ENTITY releaseNotes.link          "D acu i d amaynut">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Talɣut n turagt">
