@@ -225,9 +225,9 @@
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "发件人:">
+<!ENTITY fromAddr.label "来自：">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "收件人：">
+<!ENTITY toAddr.label "发至：">
 <!ENTITY ccAddr.label "抄送：">
 <!ENTITY bccAddr.label "密件抄送：">
 <!ENTITY replyAddr.label "回复地址：">
