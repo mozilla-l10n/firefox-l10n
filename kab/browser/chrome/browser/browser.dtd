@@ -57,10 +57,10 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "c">
 <!ENTITY  undoCloseTab.label                 "Sefsex amdal n yiccer.">
 <!ENTITY  undoCloseTab.accesskey             "S">
-<!ENTITY  closeTab.label                     "Mdel accer">
+<!ENTITY  closeTab.label                     "Mdel iccer">
 <!ENTITY  closeTab.accesskey                 "M">
 
-<!ENTITY  listAllTabs.label      "Bder akk iccaren">
+<!ENTITY  listAllTabs.label      "Bder akk accaren">
 
 <!ENTITY tabCmd.label "Iccer amaynut">
 <!ENTITY tabCmd.accesskey "I">
@@ -68,11 +68,11 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Ldi adig…">
+<!ENTITY openLocationCmd.label "Ldi adeg…">
 <!ENTITY openFileCmd.label "Ldi afaylu…">
 <!ENTITY openFileCmd.accesskey "L">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Tarusi n isebtar…">
+<!ENTITY printSetupCmd.label "Tarusi n yisebtar…">
 <!ENTITY printSetupCmd.accesskey "a">
 <!ENTITY printPreviewCmd.label "Awali send asiggez">
 <!ENTITY printPreviewCmd.accesskey "s">
@@ -80,7 +80,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Mahel war tuqqna">
+<!ENTITY goOfflineCmd.label "Xdem war tuqqna">
 <!ENTITY goOfflineCmd.accesskey "q">
 
 <!ENTITY menubarCmd.label "Afeggag n wumuɣ">
@@ -90,9 +90,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "d">
 <!ENTITY bookmarksToolbarItem.label "Iferdisen n ufeggag n tecraḍ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Smiren akk iccaren">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Smiren akk accaren">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "m">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Creḍ akk iccaren…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Creḍ akk accaren…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "e">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Sefsex amdal n yiccer">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "S">
@@ -114,14 +114,14 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "l">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Uɣal ɣer uskar agdil ačuran">
+<!ENTITY enterFullScreenCmd.label "Uɣal ɣer Agdil Ačaran">
 <!ENTITY enterFullScreenCmd.accesskey "U">
-<!ENTITY exitFullScreenCmd.label "Ffeɣ seg uskar agdil ačuran">
+<!ENTITY exitFullScreenCmd.label "Ffeɣ seg Agdil Ačaran">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "Agdil ačuran">
+<!ENTITY fullScreenCmd.label "Agdil Ačaran">
 <!ENTITY fullScreenCmd.accesskey "A">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Sken akk iccaren">
+<!ENTITY showAllTabsCmd.label "Sken akk accaren">
 <!ENTITY showAllTabsCmd.accesskey "k">
 <!ENTITY toggleReaderMode.key "R">
 
@@ -134,9 +134,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Semẓi">
 <!ENTITY fullScreenRestore.tooltip "Err-d">
 <!ENTITY fullScreenClose.tooltip "Mdel">
-<!ENTITY fullScreenAutohide.label "Ffer afeggag n ifecka">
+<!ENTITY fullScreenAutohide.label "Ffer afeggag n yifecka">
 <!ENTITY fullScreenAutohide.accesskey "F">
-<!ENTITY fullScreenExit.label "Ffeɣ seg uskar n ugdil ačuran">
+<!ENTITY fullScreenExit.label "Ffeɣ seg uskar n ugdil ačaran">
 <!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -145,7 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "Hatan tura deg ugdil ačuṛan">
+<!ENTITY fullscreenWarning.afterDomain.label "atan tura deg ugdil ačaran">
 <!ENTITY fullscreenWarning.generic.label "Isemli-a, atan tura deg ugdil ačuṛan">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
