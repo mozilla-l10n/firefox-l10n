@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "Ansuf yis-k ɣer &syncBrand.shortName.label;">
 
-<!ENTITY aboutAccountsConfig.description "Kcem akken ad temtawiḍ iccaren, ticraḍ n isebtar, awalen uffiren d wayen-nniḍen.">
+<!ENTITY aboutAccountsConfig.description "Kcem akken ad temtawiḍ accaren, ticraḍ n yisebtar, awalen uffiren d wayen-nniḍen.">
 <!ENTITY aboutAccountsConfig.startButton.label "Bdu">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Ismenyifen n Sync ">
 <!ENTITY aboutAccounts.noConnection.title "Ulac tuqqna">
