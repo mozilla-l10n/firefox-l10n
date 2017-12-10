@@ -213,22 +213,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Err-d isefka deg uselkim">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Iminig yettwaṭṭef s wudem anmeggag">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n texdellist-inek d/neɣ asawaḍ-inek d usmel">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ-inek d usmel">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sefrek beṭṭu n isfuyla neɣ igdilen d usmel">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n tkamirat-ik d/neɣ asawaḍ-ik d usmel">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ-ik d usmel">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sefrek beṭṭu n yisfuyla neɣ igdilen d usmel">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ldi agalis n yizen n usebded">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Suqel asebter-a">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sefrek tasuqilt n usebter">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-inek i usmelweb-a.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-ik i usmelweb-a.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ-inek i usmelweb-a.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadig i usmelweb-a.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n isefka i usmelweb-a.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadeg i usmelweb-a.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n yisefka i usmelweb-a.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-a.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n isefka i usmelweb-a.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n yisefka i usmelweb-a.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Tesweḥleḍ asfaylu udhim i usmel-agi.">
 
@@ -239,21 +239,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Asebter agejdan">
 
-<!ENTITY bookmarksButton.label          "Ticraḍ n isebtar">
+<!ENTITY bookmarksButton.label          "Ticraḍ n yisebtar">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksSubview.label             "Ticraḍ n isebtar">
-<!ENTITY bookmarksMenuButton2.label         "Umuɣ n ticraḍ n isebtar">
+<!ENTITY bookmarksSubview.label             "Ticraḍ n yisebtar">
+<!ENTITY bookmarksMenuButton2.label         "Umuɣ n tecraḍ n yisebtar">
 <!ENTITY bookmarksMenuButton.other.label    "Ticraḍ-nniḍen">
-<!ENTITY bookmarksMenuButton.mobile.label   "Ticraḍ n isebtar n uziraz">
-<!ENTITY viewBookmarksSidebar2.label        "Sken agalis n tecraḍ n isebtar">
-<!ENTITY hideBookmarksSidebar.label         "Ffer ticraḍ n isebtar">
-<!ENTITY viewBookmarksToolbar.label         "Sken afeggag n ticraḍ">
+<!ENTITY bookmarksMenuButton.mobile.label   "Ticraḍ n yisebtar n uziraz">
+<!ENTITY viewBookmarksSidebar2.label        "Sken agalis n tecraḍ n yisebtar">
+<!ENTITY hideBookmarksSidebar.label         "Ffer ticraḍ n yisebtar">
+<!ENTITY viewBookmarksToolbar.label         "Sken afeggag n tecraḍ">
 <!ENTITY hideBookmarksToolbar.label         "Ffer afeggag n tecraḍ">
-<!ENTITY searchBookmarks.label              "Nadi ticraḍ n isebtar">
+<!ENTITY searchBookmarks.label              "Nadi ticraḍ n yisebtar">
 <!ENTITY bookmarkingTools.label             "Ifecka n tecraḍ">
-<!ENTITY addBookmarksMenu.label             "Rnu umuγ n tecraḍ n isebtar ɣer ufeggag">
-<!ENTITY removeBookmarksMenu.label          "Kkes umuγ n tecraḍ n isebtar seg ufeggag">
+<!ENTITY addBookmarksMenu.label             "Rnu umuγ n tecraḍ n yisebtar ɣer ufeggag">
+<!ENTITY removeBookmarksMenu.label          "Kkes umuγ n tecraḍ n yisebtar seg ufeggag">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -289,7 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Afaylu">
 <!ENTITY fileMenu.accesskey       "f">
-<!ENTITY newUserContext.label             "Rnu iccer amagbar">
+<!ENTITY newUserContext.label             "Iccer amagbar amaynut">
 <!ENTITY newUserContext.accesskey         "m">
 <!ENTITY newNavigatorCmd.label        "Asfaylu amaynut">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -312,27 +312,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.label            "Nɣel">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "N">
-<!ENTITY pasteCmd.label           "Senteḍ">
+<!ENTITY pasteCmd.label           "Senṭeḍ">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "n">
 <!ENTITY deleteCmd.label          "Kkes">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "K">
-<!ENTITY selectAllCmd.label         "Fren Akk">
+<!ENTITY selectAllCmd.label         "Fren Kullec">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "F">
-<!ENTITY preferencesCmd2.label       "Iɣewwaṛen">
+<!ENTITY preferencesCmd2.label       "Iɣewwaren">
 <!ENTITY preferencesCmd2.accesskey     "w">
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">
 <!ENTITY preferencesCmdUnix.accesskey     "s">
 
-<!ENTITY clearRecentHistory.label               "Sfeḍ amazray-inek n melmi kan…">
+<!ENTITY clearRecentHistory.label               "Sfeḍ amazray-ik n melmi kan…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Timeẓriwt">
 <!ENTITY viewMenu.accesskey       "i">
-<!ENTITY viewToolbarsMenu.label       "Afeggag n ifecka">
+<!ENTITY viewToolbarsMenu.label       "Afeggag n yifecka">
 <!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Agalis adisan">
 <!ENTITY viewSidebarMenu.accesskey "g">
