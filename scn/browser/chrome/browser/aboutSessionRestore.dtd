@@ -8,8 +8,15 @@
      and regret that we are unable to restore the session for the user -->
 
 
+<!ENTITY restorepage.tryagainButton2 "Arripigghia la sissioni">
+<!ENTITY restorepage.restore.access2 "A">
+<!ENTITY restorepage.closeButton2    "Accumencia na nova sissioni">
+<!ENTITY restorepage.close.access2   "n">
 
+<!ENTITY restorepage.restoreHeader  "Arripigghia">
+<!ENTITY restorepage.listHeader     "Finestri e schedi">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Finestra &#37;S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
@@ -21,6 +28,7 @@
 <!ENTITY welcomeback2.tabtitle      "Fattu!">
 
 <!ENTITY welcomeback2.pageTitle     "Fattu!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; e' prontu.">
 
 <!ENTITY welcomeback2.restoreAll.label  "Arripigghia tutti li finestri e li schedi">
 <!ENTITY welcomeback2.restoreSome.label "Arripigghia sulu chiḍḍi ca voi">
@@ -32,6 +40,8 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Li to' agghiuncitini e pirsunalizzazzioni foru livati e li to' prifirenzi foru misi pi com'èranu l'urigginali. Siḍḍu macari chistu nun abbastò pi sistimari lu to' probblema, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "poi lèggiri cchiú nfurmazzioni supra a chiḍḍu ca poi fari.">
 
