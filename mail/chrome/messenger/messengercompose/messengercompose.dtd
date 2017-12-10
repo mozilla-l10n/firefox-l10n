@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Tscherner in destinatur ord in cudeschet d'adressas">
 <!ENTITY attachButton.tooltip "Includer ina agiunta">
 <!ENTITY spellingButton.tooltip "Controllar l'ortografia da la part selecziunada u da l'entir messadi">
-<!ENTITY statusLanguageText.tooltip "Lingua da la controlla d'ortografia">
 <!ENTITY saveButton.tooltip "Memorisar quest messadi">
 <!ENTITY cutButton.tooltip              "Tagliar ora">
 <!ENTITY copyButton.tooltip             "Copiar">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Midar l'adressa da speditur…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Lingua per la controlla ortografica">
+<!ENTITY encodingStatusPanel.tooltip "Codaziun dal text">

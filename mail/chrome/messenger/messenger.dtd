@@ -51,6 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conto actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNextNMsgCmd2.label "Mussar ils proxims messadis da novitads">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Trametter ils messadis betg tramess">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Abunar…">
@@ -163,6 +165,7 @@
 <!ENTITY compactVersion.label "Vista cumpacta">
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Trav d'utensils da la panela d'ordinaturs">
+<!ENTITY folderPaneBar.accesskey "e">
 <!ENTITY folderModeSelector.label "Vistas dad ordinaturs">
 
 <!-- Sort Menu -->
@@ -363,7 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Modifitgar il sboz dal messadi">
 <!ENTITY editDraftMsgCmd.accesskey "s">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.label "Nov messadi cun agid dad in model">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Crear in filter or dal messadi…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Spustar a">
@@ -632,6 +636,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Retschaiver messadis">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextPauseAllUpdates.label "Metter en pausa tut las actualisaziuns">
+<!ENTITY folderContextPauseUpdates.label "Metter en pausa las actualisaziuns">
+<!ENTITY folderContextPauseUpdates.accesskey "u">
 <!ENTITY folderContextOpenInNewWindow.label "Avrir en ina nova fanestra">
 <!ENTITY folderContextOpenInNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Avrir en in nov tab">
@@ -729,6 +736,7 @@
 <!ENTITY attachmentColumn2.tooltip "Zavrar tenor agiuntas">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Nov messadi cun agid dad in model">
 <!ENTITY contextOpenNewWindow.label "Avrir il messadi en ina nova fanestra">
 <!ENTITY contextOpenNewWindow.accesskey "f">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -947,3 +955,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Opziuns da l'icona da l'applicaziun…">
+<!ENTITY writeNewMessageDock.label      "Scriver in nov messadi">
+<!ENTITY openAddressBookDock.label      "Avrir il cudeschet d'adressas">
