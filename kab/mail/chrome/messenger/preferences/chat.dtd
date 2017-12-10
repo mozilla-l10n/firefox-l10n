@@ -47,11 +47,14 @@ sentence. -->
 <!ENTITY messageStyleTheme.label           "Asentel:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Tililac">
 <!ENTITY messageStyleDarkTheme.label       "Aberkan">
 <!ENTITY messageStylePaperSheetsTheme.label "Tawriqt">
 <!ENTITY messageStyleSimpleTheme.label     "Aḥerfi">
 <!ENTITY messageStyleDefaultTheme.label    "Amezwer">
+<!ENTITY messageStyleVariant.label         "Talmest:">
 <!ENTITY messageStyleVariant.accesskey     "V">
 <!ENTITY messageStyleShowHeader.label      "Sken-d aqeṛṛu">
 <!ENTITY messageStyleShowHeader.accesskey  "H">
 <!ENTITY messageStyleNoPreview.title       "Ulac taskant">
+<!ENTITY messageStyleNoPreview.description "Asentel-agi mačči d ameɣtu neɣ ulac-it akka tura (azegrir yettwasens, askar war taruẓi, ...).">
