@@ -15,12 +15,12 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Ihuh. Akken kan yeɣli yiccer-inek.">
+<!ENTITY tabCrashed.header2 "Ihuh. Akken kan yeɣli yiccer-ik.">
 <!ENTITY tabCrashed.offerHelp2 "Nezmer ad nɛiwen!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Fren &tabCrashed.restoreTab; akken ad d-tessaliḍ asebter.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Fren &tabCrashed.restoreTab; neɣ &tabCrashed.restoreAll; akken ad d-tessaliḍ asebter/pages.">
 <!ENTITY tabCrashed.requestHelp "Ad ɣ-tɛiwneḍ?">
-<!ENTITY tabCrashed.requestHelpMessage "Aneqqis n uɣelluy ad ɣ-iɛiwen i wakken ad neg tawassna u daɣen ad nerr &brandShortName; iwenneɛ.">
+<!ENTITY tabCrashed.requestHelpMessage "Aneqqis n uɣelluy ad ɣ-iɛiwen ad nessenqed uguren u daɣen ad nerr &brandShortName; iwenneɛ.">
 <!ENTITY tabCrashed.requestReport "Azen iccer-a">
 <!ENTITY tabCrashed.sendReport3 "Azen aneqqis n uɣelluy awurman akken ad nizmir ad nefru uguren am wigi.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Iwenniten ifrayanen (iwenniten ad ten-walin akk medden)">
