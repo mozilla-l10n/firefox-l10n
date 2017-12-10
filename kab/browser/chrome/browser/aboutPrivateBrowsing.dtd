@@ -21,12 +21,12 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads             "isidar ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ticraḍ n yisebtar">
 <!ENTITY aboutPrivateBrowsing.note.before                "Tunigin tusligt  ">
-<!ENTITY aboutPrivateBrowsing.note.emphasize             "ur k-yettarra d udrig">
-<!ENTITY aboutPrivateBrowsing.note.after                 " deg Internet, asemras-ik neɣ aseǧǧaw-ik n tuqqna internet zemren ad ẓren isebtar ɣur trezzuḍ.">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "ur k-yettarra ara d udrig">
+<!ENTITY aboutPrivateBrowsing.note.after                 " deg Internet, asemras-ik neɣ aseǧǧaw-ik n tuqqna internet zemren ad ẓren isebtar iɣer trezzuḍ.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Issin ugar ɣef ">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Tunigin tusligt">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Ammesten n usfuɣel ">
-<!ENTITY trackingProtection.description2                 "Kra n yismal web zemren ad sqedcen imesfuɣal akken ad walin armud-inek deg Internet. S ummesten mgal asfuɣel, Firefox ad isewḥel ddeqs n imesfuɣal seg ulqaḍ n telɣut ɣef amek itteddu yiminig-inek.">
-<!ENTITY trackingProtection.startTour1                   "Wali amek i itteddu">
+<!ENTITY trackingProtection.description2                 "Kra n yismal web zemren ad sqedcen imesfuɣal akken ad walin armud-ik deg Internet. S ummesten mgal asfuɣel, Firefox ad issewḥel ddeqs n yimesfuɣal seg ulqaḍ n telɣut ɣef wamek iteddu yiminig-inek.">
+<!ENTITY trackingProtection.startTour1                   "Wali amek i iteddu">
