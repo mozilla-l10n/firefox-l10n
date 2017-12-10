@@ -3,7 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY migrationWizard.title          "Mpurtazzioni cunnuciuta">
 
+<!ENTITY importFrom.label               "Pigghia l'uzzioni, li nzinga libbra, la crunuluggìa, li palori d’òrdini e àutri cosi di:">
+<!ENTITY importFromUnix.label           "Pigghia li prifirenzi, li nzinga-libbra, la crunuluggìa, li palori d’òrdini e àutri cosi di:">
+<!ENTITY importFromBookmarks.label      "Pigghia li nzinga-libbra di:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -24,8 +28,15 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
+<!ENTITY noMigrationSources.label       "Nun potti truvari nuḍḍu prugramma ca c'àvi nzinga-libbra, crunuluggìa o palori d'òrdini.">
+
+<!ENTITY importSource.title             "Pigghia mpustazzioni e àutri nfurmazzioni">
+<!ENTITY importItems.title              "Cosi di pigghiari">
+<!ENTITY importItems.label              "Scegghi quali cosi pigghiari:">
 
 
+<!ENTITY selectProfile.title            "Scegghi lu profilu">
 
+<!ENTITY done.label                     "Chisti sunnu li cosi ca potti pigghiari:">
 
-
+<!ENTITY closeSourceBrowser.label       "Pi favuri vidi si lu navigaturi ca scigghisti fu chiusu prima di cuntinuari.">
