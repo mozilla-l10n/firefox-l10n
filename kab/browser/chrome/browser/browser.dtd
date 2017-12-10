@@ -163,34 +163,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "Ɣur-s asenqed n usewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
-<!ENTITY pointerlockWarning.generic.label "Isemli-a yeṭṭef asewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
+<!ENTITY pointerlockWarning.generic.label "Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc akken ad teṭṭfeḍ asewwaṛ.">
 
 <!ENTITY closeWindow.label "Mdel asfaylu">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Ticraḍ n isebtar">
+<!ENTITY bookmarksMenu.label "Ticraḍ n yisebtar">
 <!ENTITY bookmarksMenu.accesskey "r">
 <!ENTITY bookmarkThisPageCmd.label "Creḍ asebter-a">
 <!ENTITY editThisBookmarkCmd.label "Ẓreg tacreḍṭ n usebter-a">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Multeɣ ɣer usebter-a">
-<!ENTITY subscribeToPageMenuitem.label "Multeɣ ɣer usebter-a…">
-<!ENTITY addCurPagesCmd.label "Creḍ akk Iccaren...">
-<!ENTITY showAllBookmarks2.label "Sken akk ticraḍ n isebtar">
+<!ENTITY subscribeToPageMenupopup.label "Lteɣ ɣer usebter-a">
+<!ENTITY subscribeToPageMenuitem.label "Lteɣ ɣer usebter-a…">
+<!ENTITY addCurPagesCmd.label "Creḍ akk accaren…">
+<!ENTITY showAllBookmarks2.label "Sken akk ticraḍ n yisebtar">
 <!ENTITY recentBookmarks.label "Wid ittwacerḍen melmi kan">
 <!ENTITY otherBookmarksCmd.label "Ticraḍ-nniḍen">
-<!ENTITY mobileBookmarksCmd.label "Ticraḍ n isebtar n uziraz">
-<!ENTITY bookmarksToolbarChevron.tooltip "Sken ugar n tecraḍ n isebtar">
-<!ENTITY showRecentlyBookmarked.label     "Wali tid ittwacerḍen melmi kan">
+<!ENTITY mobileBookmarksCmd.label "Ticraḍ n yisebtar n uziraz">
+<!ENTITY bookmarksToolbarChevron.tooltip "Sken ugar n tecraḍ n yisebtar">
+<!ENTITY showRecentlyBookmarked.label     "Wali wid ittwacerḍen melmi kan">
 <!ENTITY showRecentlyBookmarked.accesskey "W">
 <!ENTITY hideRecentlyBookmarked.label     "Ffer wid ittwacerḍen melmi kan">
 <!ENTITY hideRecentlyBookmarked.accesskey "F">
 
-<!ENTITY backCmd.label                "ɣer deffir">
-<!ENTITY backButton.tooltip           "Uɣal s yiwen usebter">
+<!ENTITY backCmd.label                "Ɣer deffir">
+<!ENTITY backButton.tooltip           "Uɣal s yiwen n usebter">
 <!ENTITY forwardCmd.label             "ɣer zdat">
-<!ENTITY forwardButton.tooltip        "Aẓ s yiwen usebter">
+<!ENTITY forwardButton.tooltip        "Ɣer zdat s yiwen usebter">
 <!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
 <!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
 <!ENTITY reloadCmd.label              "Smiren">
