@@ -21,12 +21,11 @@
 <!ENTITY dnsNotFound.pageTitle "Ulac aqeddac">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Nesɛa uguren akken ad naf asmel.">
-<!ENTITY dnsNotFound.longDesc1 "
-<strong>Ma tella tansa-agi d tameɣtut, llant tɣawsiwin-nniḍen ara tɛarḍeḍ:</strong>
+<!ENTITY dnsNotFound.longDesc1 "<strong>Ma tella tansa-agi d tameɣtut, llant tɣawsiwin-nniḍen ara tɛarḍeḍ:</strong>
 <ul>
   <li>Ɛreḍ tikelt-niḍen.</li>
-  <li>Senqed tuqna-inek internet.</li>
-  <li>Ma telliḍ teqneḍ maca s firewall, senqedd akken &brandShortName; isεa isirag n unekcum ɣer Web.</li>
+  <li>Senqed tuqqna-inek internet.</li>
+  <li>Ma telliḍ teqqneḍ maca s firewall, senqedd akken &brandShortName; isεa isirag n unekcum ɣer Web.</li>
 </ul>
 ">
 
@@ -123,8 +122,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTime_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqna-yagi d taɣelsant.</p> <p>Aselkim-inek ittwasbadu ɣer <span id='wrongSystemTime_systemDate'/>, ilaq ad yili di <span id='wrongSystemTime_actualDate'/>. Akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTimeWithoutReference_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqna-yagi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTimeWithoutReference_systemDate'/>, akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTime_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqqna-agi d taɣelsant.</p> <p>Aselkim-inek ittwasbadu ɣer <span id='wrongSystemTime_systemDate'/>, ilaq ad yili di <span id='wrongSystemTime_actualDate'/>. Akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ur yeqqin ara ɣer <span id='wrongSystemTimeWithoutReference_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqqna-agi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTimeWithoutReference_systemDate'/>, akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
 
 <!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">

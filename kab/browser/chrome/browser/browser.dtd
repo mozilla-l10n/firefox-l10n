@@ -21,7 +21,7 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Smiren iccer">
 <!ENTITY  reloadTab.accesskey                "S">
-<!ENTITY  reloadAllTabs.label                "Smiren akk accarren">
+<!ENTITY  reloadAllTabs.label                "Smiren akk accaren">
 <!ENTITY  reloadAllTabs.accesskey            "m">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
@@ -51,7 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Azen aseɣwen ɣer yibenk">
 <!ENTITY  sendLinkToDevice.accesskey         "b">
 <!ENTITY  sendToDeviceFeedback.label         "Ttwaznen!">
-<!ENTITY  moveToNewWindow.label              "Senkez ɣer usfaylu amayanut">
+<!ENTITY  moveToNewWindow.label              "Senkez ɣer usfaylu amaynut">
 <!ENTITY  moveToNewWindow.accesskey          "m">
 <!ENTITY  bookmarkAllTabs.label              "Creḍ akk Accaren...">
 <!ENTITY  bookmarkAllTabs.accesskey          "c">

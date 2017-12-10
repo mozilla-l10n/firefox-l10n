@@ -34,7 +34,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "Talɣut n usellek">
 <!ENTITY helpTroubleshootingInfo.accesskey  "Γ">
 
-<!ENTITY helpFeedbackPage.label      "Efk-d tamuɣli-inek…">
+<!ENTITY helpFeedbackPage.label      "Efk-d tamuɣli-ik…">
 <!ENTITY helpFeedbackPage.accesskey  "M">
 
 <!ENTITY helpShowTour2.label            "Tirza fessusen ɣer &brandShorterName;">
@@ -51,4 +51,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Ffer Wiyaḍ">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Sken Akk">
+<!ENTITY showAllAppsCmdMac.label        "Sken Kullec">
