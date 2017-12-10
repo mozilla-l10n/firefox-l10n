@@ -6,7 +6,7 @@
 
 <!ENTITY tabCrashed.closeTab2  "ჩანართის დახურვა">
 <!ENTITY tabCrashed.restoreTab "ჩანართის აღდგენა">
-<!ENTITY tabCrashed.restoreAll "ყველა ავარულად დახურული ჩანართის აღდგენა">
+<!ENTITY tabCrashed.restoreAll "ყველა ავარიულად დახურული ჩანართის აღდგენა">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
@@ -23,7 +23,7 @@
 <!ENTITY tabCrashed.requestHelpMessage "მოხსენებები, ავარიული დახურვის შესახებ, საშუალებას გვაძლევს გამოვავლინოთ გაუმართაობები და გავხადოთ &brandShortName; უკეთესი.">
 <!ENTITY tabCrashed.requestReport "მოხსენების გაგზავნა ჩანართის შესახებ">
 <!ENTITY tabCrashed.sendReport3 "გაგზავნეთ ავარიული დახურვის ავტომატური შეტყობინებები, რომ შევძლოთ მსგავსი ხარვეზების აღმოფხვრა.">
-<!ENTITY tabCrashed.commentPlaceholder2 "დამატებითი კომენტარი (კომენტარები ხილულია საჯაროდ)">
+<!ENTITY tabCrashed.commentPlaceholder2 "დამატებითი შენიშვნა (შენიშვნები, საჯაროდ გამოჩნდება)">
 <!ENTITY tabCrashed.includeURL3 "მათ შორის საიტების URL ბმულები, რომელზეც იმყოფებოდით &brandShortName;-ის ავარიულად დახურვისას.">
 <!ENTITY tabCrashed.emailPlaceholder "შეიყვანეთ თქვენი ელფოსტის მისამართი">
 <!ENTITY tabCrashed.emailMe "მომწერეთ, როდესაც მეტი ინფრომაცია გახდება ცნობილი">
