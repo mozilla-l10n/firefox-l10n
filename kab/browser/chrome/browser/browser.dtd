@@ -189,10 +189,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backCmd.label                "Ɣer deffir">
 <!ENTITY backButton.tooltip           "Uɣal s yiwen n usebter">
-<!ENTITY forwardCmd.label             "ɣer zdat">
-<!ENTITY forwardButton.tooltip        "Ɣer zdat s yiwen usebter">
-<!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
-<!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
+<!ENTITY forwardCmd.label             "Ɣer zdat">
+<!ENTITY forwardButton.tooltip        "Aẓ ɣer zdat s yiwen usebter">
+<!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt d akessar akken ad twaliḍ amazray">
+<!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣer taɣeṛdayt d akessar akken ad twaliḍ amazray">
 <!ENTITY reloadCmd.label              "Smiren">
 <!ENTITY stopCmd.label                "Seḥbes">
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -203,13 +203,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Sken talɣut n usmel">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ldi agalis n yizen">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ldi agalis n usuter n wadig">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ldi agalis n yizen i wesbded n uzegrir">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ldi agalis n usuter n wadeg">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ldi agalis n yizen i usebded n uzegrir">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Sefrek tasiregt n usuffeɣ n tneɣruft">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ldi agalis n yizen n usekles aruqqin">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ldi agalis n yizen n wawal uffir yettwakelsen">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n izegrar">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Snifel ma yella tebɣiḍ ad d-remseḍ ilɣuten seg usmel">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n yizegrar">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Beddel ma yella tebɣiḍ ad d-tremseḍ ilɣa seg usmel">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Err-d isefka deg uselkim">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Iminig yettwaṭṭef s wudem anmeggag">
 
