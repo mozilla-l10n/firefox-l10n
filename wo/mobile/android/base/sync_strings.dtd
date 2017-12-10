@@ -68,6 +68,10 @@
 <!ENTITY fxaccount_status_passwords2 'Duggukaay'>
 <!ENTITY fxaccount_status_tabs 'Làcc yi ubbeeku'>
 <!ENTITY fxaccount_status_additional_settings 'Yeneen Jekk-jekkal'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Lonku ci boo ame Wi-Fi rekk'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Tere &brandShortName; muy lonku ci mbaalu wootekaay walla ci buñ lay fayloo'>
 <!ENTITY fxaccount_status_legal 'Yoon' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
