@@ -33,6 +33,8 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openFileCmd.label "Grapi pricu…">
+<!ENTITY openFileCmd.accesskey "G">
 <!ENTITY openFileCmd.commandkey "o">
 
 
@@ -101,6 +103,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY fileMenu.label         "Pricu">
+<!ENTITY fileMenu.accesskey       "P">
 
 <!ENTITY pasteCmd.label           "Ncoḍḍa">
 <!ENTITY deleteCmd.label          "Scancella">

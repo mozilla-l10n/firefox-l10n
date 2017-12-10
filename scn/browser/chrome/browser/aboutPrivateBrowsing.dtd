@@ -12,6 +12,7 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "nun sarba">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "pàggini visitati">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "prichi pruvvisori">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "sarba">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " li toi:">
