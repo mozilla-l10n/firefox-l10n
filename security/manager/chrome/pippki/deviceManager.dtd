@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE (devmgr.style2): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
+<!ENTITY devmgr.style2                          "પહોળાઇ: 67em; ઊંચાઇ: 32em;">
 
 <!ENTITY devmgr.devlist.label                   "સુરક્ષા મોડ્યુલો અને ઉપકરણો">
 <!ENTITY devmgr.details.title                   "વિગતો">
@@ -24,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "તમે જે મોડ્યુલ ઉમેરવા માંગો તેના માટે જાણકારી દાખલ કરો.">
-<!ENTITY loaddevice.modname                     "મોડ્યુલ નામ:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "મોડ્યુલનું નામ">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "નવું PKCS#11 મોડ્યુલ">
-<!ENTITY loaddevice.filename                    "મોડ્યુલ ફાઈલનામ:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename2                   "મોડ્યુલ ફાઇલનું નામ">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "બ્રાઉઝ કરો...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

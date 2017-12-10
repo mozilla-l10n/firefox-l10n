@@ -10,11 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "સત્તા">
 <!ENTITY certmgr.tab.orphan2                  "બીજા">
 
-<!ENTITY certmgr.mine                         "તમારા પાસે આ સંસ્થા ના પ્રમાણપત્રો છે જે તમને ઓળખી શકે છે:">
-<!ENTITY certmgr.others                       "તમારી પાસે ફાઇલમાં પ્રમાણપત્રો છે જે આ માણસોને ઓળખી શકે છે:">
-<!ENTITY certmgr.websites2                    "તમારી પાસે ફાઈલ પર પ્રમાણપત્રો છે કે જે આ સર્વરોને ઓળખે છે:">
-<!ENTITY certmgr.cas                          "તમારા પાસે ફાઇલમાં પ્રમાણપત્રો છે જે આ પ્રમાણપત્ર પ્રકાશિત કરનાર અધિકારી ને ઓળખે છે:">
-<!ENTITY certmgr.orphans                      "તમારી પાસે ફાઈલ પર પ્રમાણપત્રો છે કે જેઓ અન્ય વર્ગોમાંના કોઈમાં પણ બંધબેસતા નથી:">
 
 <!ENTITY certmgr.detail.general_tab.title     "સામાન્ય">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -74,7 +69,7 @@
 <!ENTITY certmgr.fields.label                 "ક્ષેત્ર કિંમત">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "ક્રમવાર પ્રમાણપત્ર">
-
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "અપવાદ એડ-ઓન...">
 <!ENTITY certmgr.addException.accesskey       "x">
 
