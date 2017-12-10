@@ -60,14 +60,14 @@
 <!ENTITY bottomLinks.privacy        "Pulìtica di risirvatizza">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Stàiu cuntrullannu si cci sunnu agghiurnamenti…">
+<!ENTITY update.checkingForUpdates  "Staiu cuntrullannu si cci sunnu agghiurnamenti…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; e' agghiurnatu">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "L'agghiurnamenti foru sdisarmati dû vostru amministraturi di sistema">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "N'àutra finestra sta agghiurnannu &brandShortName;">
-<!ENTITY update.restarting          "Stàiu accuminzannu arredi…">
+<!ENTITY update.restarting          "Staiu accuminzannu arredi…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -100,10 +100,10 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Stàiu scarricannu l'agghiurnamentu — ">
+<!ENTITY update.downloading.start   "Staiu scarricannu l'agghiurnamentu — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Stàiu appricannu l'agghiurnamentu…">
+<!ENTITY update.applying            "Staiu appricannu l'agghiurnamentu…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
