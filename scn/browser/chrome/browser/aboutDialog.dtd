@@ -14,7 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Varda si cci su' agghiurnamenti">
 <!ENTITY update.checkForUpdatesButton.accesskey   "V">
-<!ENTITY update.updateButton.label3               "Accumencia arredi p'agghiurnari &brandShorterName;">
+<!ENTITY update.updateButton.label3               "Accumincia arredi p'agghiurnari &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "A">
 
 
@@ -67,7 +67,7 @@
 <!ENTITY update.adminDisabled       "L'agghiurnamenti foru sdisarmati dû vostru amministraturi di sistema">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "N'àutra finestra sta agghiurnannu &brandShortName;">
-<!ENTITY update.restarting          "Staju accumenciannu arredi…">
+<!ENTITY update.restarting          "Staju accuminciannu arredi…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
