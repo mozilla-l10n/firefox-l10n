@@ -12,11 +12,15 @@
 <!ENTITY  generalTitle          "Titulu:">
 <!ENTITY  generalURL            "Nnirizzu:">
 <!ENTITY  generalType           "Tipu:">
+<!ENTITY  generalMetaName       "Nomi">
+
+<!ENTITY  mediaType             "Tipu">
+<!ENTITY  mediaLongdesc         "Discrizzioni longa:">
 
 
 
 
-
+<!ENTITY  securityView.certView "Talia lu cirtificatu">
 
 
 
