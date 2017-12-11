@@ -7,6 +7,7 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
+<!ENTITY windowTitle2.label "Захаваць і змяніць кадаванне сімвалаў">
 <!ENTITY documentTitleTitle.label "Загаловак старонкі">
 <!ENTITY documentCharsetTitle2.label "Кадаванне тэксту">
 <!ENTITY documentExportToText.label "Экспартаваць як тэкст">
