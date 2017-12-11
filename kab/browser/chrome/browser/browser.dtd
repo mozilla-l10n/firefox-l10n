@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Timeẓriwt">
+<!ENTITY viewMenu.label         "Askan">
 <!ENTITY viewMenu.accesskey       "i">
 <!ENTITY viewToolbarsMenu.label       "Afeggag n yifecka">
 <!ENTITY viewToolbarsMenu.accesskey     "A">
@@ -660,9 +660,9 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Sken tiddadanin">
+<!ENTITY videoShowStats.label        "Sken asiḍen">
 <!ENTITY videoShowStats.accesskey    "d">
-<!ENTITY videoHideStats.label        "Ffer tidaddanin">
+<!ENTITY videoHideStats.label        "Ffer asiḍen">
 <!ENTITY videoHideStats.accesskey    "d">
 
 <!-- LOCALIZATION NOTE :
@@ -671,7 +671,7 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Semɣeṛ">
+<!ENTITY fullZoomEnlargeCmd.label       "Semɣer">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "m">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
