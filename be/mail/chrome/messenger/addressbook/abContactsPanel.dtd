@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Уласцівасці спіса рассылкі">
 <!ENTITY mailingListPropertiesMenu.accesskey "і">
 
+<!ENTITY abContextMenuButton.tooltip        "Паказваць кантэкстнае меню адраснай кнігі">
 <!ENTITY addressbookPicker.label            "Адрасная кніга:">
 <!ENTITY addressbookPicker.accesskey        "к">
 <!ENTITY searchContacts.label               "Пошук кантактаў:">
