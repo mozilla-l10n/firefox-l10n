@@ -655,7 +655,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "F">
 <!ENTITY videoFullScreen.label       "Agdil ačaran">
 <!ENTITY videoFullScreen.accesskey   "A">
-<!ENTITY videoSaveImage.label        "Sekles anɣel n wegdil s yisem…">
+<!ENTITY videoSaveImage.label        "Sekles anɣel n ugdil s yisem…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Semɣer kan aḍris">
 <!ENTITY fullZoomToggleCmd.accesskey    "S">
-<!ENTITY fullZoom.label                 "Semɣeṛ">
+<!ENTITY fullZoom.label                 "Semɣer">
 <!ENTITY fullZoom.accesskey             "S">
 
 <!ENTITY sidebarCloseButton.tooltip     "Mdel agalis adisan">
@@ -718,18 +718,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Aɣanib azadur n usebter">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Snifel tasertit n usewḥel n isfuyla udhimen n usmelweb-a">
+<!ENTITY pageReportIcon.tooltip            "Snifel tasertit n usewḥel n yisfuyla udhimen n usmelweb-a">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Ẓreg ismenyifen n usewḥel n isfuyla udhimen…">
-<!ENTITY editPopupSettings.label "Ẓreg ismenyifen n usewḥel n isfuyla udhimen…">
+<!ENTITY editPopupSettingsUnix.label "Ẓreg ismenyifen n usewḥel n yisfuyla udhimen…">
+<!ENTITY editPopupSettings.label "Ẓreg ismenyifen n usewḥel n yisfuyla udhimen…">
 <!ENTITY editPopupSettings.accesskey "r">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Snifel tanila n usebter">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Beddel tanila n usebter">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Snifel taɣda n uḍris">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "n">
