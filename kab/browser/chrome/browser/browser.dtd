@@ -756,17 +756,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "Aqli-k tura teqqneḍ s tɣellist ɣeṛ usmel-a, bab-is d:">
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
 <!ENTITY identity.extensionPage "Asebter-a yuli-d seg usiɣzef.">
-<!ENTITY identity.insecureLoginForms2 "Yezmer dakken aseqdac d wawal uffir i tesqedceḍ ɣef usmel-a, ad ttwakren.">
+<!ENTITY identity.insecureLoginForms2 "Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; isewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.">
-<!ENTITY identity.passiveLoaded "Kra n yeḥricen ɣef usebter-a d iraɣelsanen (am tugniwin).">
-<!ENTITY identity.activeLoaded "Treremdeḍ ammesten ɣef usebter-a.">
-<!ENTITY identity.weakEncryption "Asebter-a iseqdac awgelhen fessusen.">
+<!ENTITY identity.activeBlocked "&brandShortName; issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.">
+<!ENTITY identity.passiveLoaded "Kra n yiḥricen deg usebter-a mačči d iɣelsanen (am tugniwin).">
+<!ENTITY identity.activeLoaded "Tessenseḍ ammesten deg usebter-a.">
+<!ENTITY identity.weakEncryption "Asebter-a isseqdac awgelhen fessusen.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Tuqqna-inek ɣer usmel-a mačči d tusligt. Zemren wiyaḍ ad walin talɣut tuzneḍ (am awalen uffiren, iznan, atg.).">
-<!ENTITY identity.description.insecureLoginForms "Talɣut n yisem n useqdac i d-tefkiḍ ɣef usebter-a mačči d aɣelsan u yezmer ad ittwaker.">
+<!ENTITY identity.description.insecure "Tuqqna-inek ɣer usmel-a mačči d tusligt. Zemren wiyaḍ ad walin talɣut ara tazneḍ (am wawalen uffiren, iznan, atg.).">
+<!ENTITY identity.description.insecureLoginForms "Talɣut n yisem n useqdac i d-tefkiḍ deg usebter-a mačči d taɣelsant u yezmer ad tettwaker.">
 <!ENTITY identity.description.weakCipher "Tuqqna-inek ɣeṛ usmel-a teseqdac awgelhen fessusen u mačči d tusligt.">
 <!ENTITY identity.description.weakCipher2 "Zemren imdanen-nniḍen ad walin talɣut neɣ ad sniflen tiddin n usmel web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; isewḥel kra n yeḥricen n usebter-a ur nelli ara d iɣelsanen.">
