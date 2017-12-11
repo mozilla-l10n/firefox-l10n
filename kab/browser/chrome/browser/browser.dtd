@@ -607,7 +607,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageContentsCmd.accesskey  "n">
 <!ENTITY copyVideoURLCmd.label        "Nɣel tansa n tvidyut">
 <!ENTITY copyVideoURLCmd.accesskey    "N">
-<!ENTITY copyAudioURLCmd.label        "Nɣel tansa n tmesliwt">
+<!ENTITY copyAudioURLCmd.label        "Nɣel tansa n umeslaw">
 <!ENTITY copyAudioURLCmd.accesskey    "N">
 <!ENTITY copyEmailCmd.label           "Nɣel tansa imayl">
 <!ENTITY copyEmailCmd.accesskey       "t">
