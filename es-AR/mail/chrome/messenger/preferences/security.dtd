@@ -17,7 +17,7 @@
 <!ENTITY manualMarkModeDelete.accesskey "B">
 <!ENTITY markAsReadOnSpam.label "Marcar los mensajes determinados como basura como ya leídos">
 <!ENTITY markAsReadOnSpam.accesskey "a">
-<!ENTITY enableAdaptiveJunkLogging.label "Habilitar el registro del filtro de basura adaptivo">
+<!ENTITY enableAdaptiveJunkLogging.label "Habilitar el registro del filtro de basura adaptativo">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "g">
 <!ENTITY openJunkLog.label "Mostrar el registro">
 <!ENTITY openJunkLog.accesskey "s">
@@ -32,10 +32,10 @@
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro         "&brandShortName; puede recordar las contraseñas para todas sus cuentas.">
+<!ENTITY savedPasswords.intro           "&brandShortName; puede recordar las contraseñas para todas sus cuentas.">
 <!ENTITY useMasterPassword.label        "Usar una contraseña maestra">
 <!ENTITY useMasterPassword.accesskey    "m">
-<!ENTITY  masterPassword.intro        "Una contraseña maestra protege todas sus contraseñas pero deberá ingresarla una vez por sesión.">
+<!ENTITY masterPassword.intro           "Una contraseña maestra protege todas sus contraseñas pero deberá ingresarla una vez por sesión.">
 <!ENTITY changeMasterPassword.label     "Cambiar contraseña maestra…">
 <!ENTITY changeMasterPassword.accesskey "C">
 <!ENTITY savedPasswords.label           "Contraseñas guardadas…">
