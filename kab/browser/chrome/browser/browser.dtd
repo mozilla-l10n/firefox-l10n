@@ -267,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Ifecka">
 <!ENTITY toolsMenu.accesskey          "I">
 
-<!ENTITY keywordfield.label           "Rnu awal asaru i unadi-a…">
+<!ENTITY keywordfield.label           "Rnu awal tasarut i unadi-a…">
 <!ENTITY keywordfield.accesskey       "w">
 
 <!ENTITY downloads.label              "isidar">
@@ -353,7 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Sagen">
 <!ENTITY appMenuCustomize.tooltip "Sagen umuɣ akked yifeggagen n yifecka">
-<!ENTITY appMenuCustomizeExit.label "Ffeɣ seg aggan">
+<!ENTITY appMenuCustomizeExit.label "Ffeɣ seg waggan">
 <!ENTITY appMenuCustomizeExit.tooltip "Fak aggan">
 <!ENTITY appMenuHistory.showAll.label "Sken akk amazray">
 <!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray-ik n melmi kan…">
@@ -555,7 +555,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "k">
 <!ENTITY viewImageInfoCmd.label       "Talɣut ɣef tugna">
 <!ENTITY viewImageInfoCmd.accesskey   "l">
-<!ENTITY viewImageDescCmd.label       "Aglam tugna">
+<!ENTITY viewImageDescCmd.label       "Aglam n tugna">
 <!ENTITY viewImageDescCmd.accesskey   "t">
 <!ENTITY viewVideoCmd.label           "Sken tavidyut">
 <!ENTITY viewVideoCmd.accesskey       "m">
@@ -566,7 +566,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkPageCmd2.label       "Creḍ asebter-a">
 <!ENTITY bookmarkThisLinkCmd.label      "Creḍ aseɣwen-a">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "r">
-<!ENTITY bookmarkThisFrameCmd.label      "Tacreṭ ɣef ukatar-a">
+<!ENTITY bookmarkThisFrameCmd.label      "Creḍ akatar-a">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "c">
 <!ENTITY pageAction.copyLink.label    "Nɣel aseɣwen">
 <!ENTITY copyURLFeedback.label        "Inɣel!">
@@ -585,9 +585,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "S">
 <!ENTITY saveImageCmd.label           "Sekles tugna s yisem…">
 <!ENTITY saveImageCmd.accesskey       "u">
-<!ENTITY saveVideoCmd.label           "Kles tavidyut s yisem…">
+<!ENTITY saveVideoCmd.label           "Sekles tavidyut s yisem…">
 <!ENTITY saveVideoCmd.accesskey       "l">
-<!ENTITY saveAudioCmd.label           "Kles ameslaw s yisem…">
+<!ENTITY saveAudioCmd.label           "Sekles ameslaw s yisem…">
 <!ENTITY saveAudioCmd.accesskey       "m">
 <!ENTITY emailImageCmd.label          "Azen tugna s yimayl…">
 <!ENTITY emailImageCmd.accesskey      "g">
