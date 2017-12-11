@@ -26,9 +26,8 @@
 </ul>">
 
 <!ENTITY fileAccessDenied.title "Достъпът до файла е отказан">
-<!ENTITY fileAccessDenied.longDesc "
-<ul>
-  <li>Може да е премахнат, преместен или правата му да забраняват достъпа.</li>
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Може да е премахнат, преместен или правата му да ограничават достъпа.</li>
 </ul>
 ">
 
@@ -45,7 +44,9 @@
 <!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като предпазна мярка &brandShortName; не прави повторна заявка на документи с поверително съдържание.</li><li>Натиснете „Повторен опит“ за нова заявка на документа от сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Работа извън мрежата">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Натиснете &quot;Отново&quot;, за да превключите в режим на линия и да презаредите страницата.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul>
+  <li>Натиснете „Повторен опит“, за да превключите към режим с връзка и да презаредите страницата.</li>
+</ul>">
 
 <!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
@@ -69,10 +70,10 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде открит">
-<!ENTITY proxyResolveFailure.longDesc "<ul><li>Проверете дали настройките на прокси сървъра са правилни.</li><li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали на &brandShortName; е разрешен достъпът до Интернет.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>Уверете се, че настройките на прокси сървъра са правилни.</li><li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали &brandShortName; има право на достъп до Интернет.</li></ul>">
 
 <!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
-<!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитки.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитките.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
