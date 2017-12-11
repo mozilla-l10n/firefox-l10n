@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Aɣanib azadur n usebter">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Snifel tasertit n usewḥel n yisfuyla udhimen n usmelweb-a">
+<!ENTITY pageReportIcon.tooltip            "Beddel tasertit n usewḥel n yisfuyla udhimen n usmelweb-a">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -731,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Beddel tanila n usebter">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Snifel taɣda n uḍris">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Beddel taɣda n uḍris">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "n">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
@@ -744,14 +744,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Rnu imawalen...">
+<!ENTITY spellAddDictionaries.label "Rnu isegzawalen ...">
 <!ENTITY spellAddDictionaries.accesskey "n">
 
 <!ENTITY editBookmark.done.label                     "Immed">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
-<!ENTITY identity.connectionNotSecure "Tuqqna taraɣelsant">
+<!ENTITY identity.connectionNotSecure "Tuqqna-a mačči d taɣelsant">
 <!ENTITY identity.connectionFile "Asebter-a yettwakles deg uselkim-inek.">
 <!ENTITY identity.connectionVerified2 "Aqli-k tura teqqneḍ s tɣellist ɣeṛ usmel-a, bab-is d:">
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
