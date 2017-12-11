@@ -154,7 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreen.button "სრული ეკრანიდან გამოსვლა (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "სრული ეკრანიდან გამოსვლა (esc)">
 <!ENTITY leaveDOMFullScreen.label "სრულეკრანიანი რეჟიმიდან გამოსვლა">
-<!ENTITY leaveDOMFullScreen.accesskey "გ">
+<!ENTITY leaveDOMFullScreen.accesskey "ს">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
