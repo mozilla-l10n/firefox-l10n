@@ -19,5 +19,6 @@
 <!ENTITY cmd.removeFromHistory.accesskey           "ы">
 <!ENTITY cmd.clearList.label                       "Ачысціць спіс">
 <!ENTITY cmd.clearList.accesskey                   "А">
+<!ENTITY cmd.clearList.tooltip                     "Выдаліць усе запісы са спісу захаваных файлаў, за выключэннем бягучых сцягванняў.">
 <!ENTITY cmd.searchDownloads.label                 "Пошук…">
 <!ENTITY cmd.searchDownloads.key                   "П">

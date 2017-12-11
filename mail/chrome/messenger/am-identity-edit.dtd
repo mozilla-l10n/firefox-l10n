@@ -14,3 +14,5 @@
 
 <!ENTITY publicData.label        "Публічныя дадзеныя">
 <!ENTITY privateData.label       "Прыватныя дадзеныя">
+<!ENTITY identityAlias.label     "Пазнака тоеснасці:">
+<!ENTITY identityAlias.accesskey "а">
