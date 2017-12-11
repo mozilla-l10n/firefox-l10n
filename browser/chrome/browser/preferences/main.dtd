@@ -34,7 +34,7 @@
 <!ENTITY alwaysAskWhere.accesskey     "В">
 
 <!ENTITY alwaysCheckDefault2.label        "Проверяване дали &brandShortName; е стандартният четец">
-<!ENTITY alwaysCheckDefault2.accesskey    "б">
+<!ENTITY alwaysCheckDefault2.accesskey    "ч">
 <!ENTITY setAsMyDefaultBrowser3.label     "Задаване като стандартен…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "с">
 <!ENTITY isDefault.label                  "&brandShortName; е вашият стандартен четец">

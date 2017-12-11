@@ -114,7 +114,7 @@
   -  was called "Chrome".
   -->
 <!ENTITY browserContext.label         "Четец">
-<!ENTITY browserContext.accesskey     "Б">
+<!ENTITY browserContext.accesskey     "ч">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
