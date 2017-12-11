@@ -14,6 +14,8 @@
 
 <!ENTITY addressbookPicker.label            "Адрасная кніга:">
 <!ENTITY addressbookPicker.accesskey        "к">
+<!ENTITY searchContacts.label               "Пошук кантактаў:">
+<!ENTITY searchContacts.accesskey           "н">
 <!ENTITY SearchNameOrEmail.label            "Імя або э-пошта">
 
 <!ENTITY addtoToFieldMenu.label             "Дадаць да поля Да">
@@ -24,7 +26,19 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "а">
 <!ENTITY deleteAddrBookCard.label           "Выдаліць">
 <!ENTITY deleteAddrBookCard.accesskey       "В">
+<!ENTITY propertiesContext.label            "Уласцівасці">
+<!ENTITY propertiesContext.accesskey        "і">
+<!ENTITY abPropertiesContext.label          "Уласцівасці">
+<!ENTITY abPropertiesContext.accesskey      "і">
+<!ENTITY editContactContext.label           "Рэдагаваць кантакт">
+<!ENTITY editContactContext.accesskey       "Р">
+<!ENTITY editMailingListContext.label       "Рэдагаваць спіс">
+<!ENTITY editMailingListContext.accesskey   "Р">
 
+<!ENTITY newContactAbContext.label          "Новы кантакт">
+<!ENTITY newContactAbContext.accesskey      "Н">
+<!ENTITY newListAbContext.label             "Новы спіс">
+<!ENTITY newListAbContext.accesskey         "с">
 
 <!ENTITY toButton.label                     "Дадаць да Да:">
 <!ENTITY toButton.accesskey                 "Д">

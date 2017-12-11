@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Праверка правапісу">
+
 <!ENTITY misspelledWord.label "Слова з памылкамі:">
 <!ENTITY wordEditField.label "Замяніць (чым):">
 <!ENTITY wordEditField.accessKey "я">
@@ -26,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "а">
 <!ENTITY editUserDictionaryButton.label "Рэдагаваць…">
 <!ENTITY editUserDictionaryButton.accessKey "Р">
-<!ENTITY recheckButton.label "Пераправерыць старонку">
-<!ENTITY recheckButton.accessKey "е">
+<!ENTITY recheckButton2.label "Паўторна праверыць тэкст">
+<!ENTITY recheckButton2.accessKey "П">
 <!ENTITY closeButton.label "Зачыніць">
 <!ENTITY closeButton.accessKey "ч">
 <!ENTITY sendButton.label "Даслаць">

@@ -53,6 +53,8 @@
 <!ENTITY half-manual-test.accesskey      "е">
 <!ENTITY manual-edit.label               "Ручная наладка">
 <!ENTITY manual-edit.accesskey           "Р">
+<!ENTITY open-provisioner.label          "Атрымаць новы адрас эл.пошты…">
+<!ENTITY open-provisioner.accesskey      "а">
 
 
 <!ENTITY warning.label                   "Увага!">

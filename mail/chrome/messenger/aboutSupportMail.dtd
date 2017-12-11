@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "Вызначальнік пабудовы прыстасавання">
+
 <!ENTITY aboutSupport.accountsTitle "Рахункі пошты і навінаў">
 <!ENTITY aboutSupport.showPrivateData.mainText "Уключаць назвы рахункаў">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(магчымыя вызначальныя звесткі)">
@@ -14,4 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Бяспека злучэння">
 <!ENTITY aboutSupport.accountsAuthMethod "Метад апазнавання">
 <!ENTITY aboutSupport.accountsDefault "Змоўчна?">
+<!ENTITY aboutSupport.identityName "Ідэнтыфікатар">
+
 <!ENTITY aboutSupport.sendViaEmail.label "Даслаць э-поштай">
