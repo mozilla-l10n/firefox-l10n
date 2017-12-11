@@ -32,7 +32,7 @@
 <!ENTITY exportBookmarksToHTML.label       "Изнасяне на отметки в HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "И">
 <!ENTITY importOtherBrowser.label          "Внасяне на данни от друг четец…">
-<!ENTITY importOtherBrowser.accesskey      "б">
+<!ENTITY importOtherBrowser.accesskey      "ч">
 
 <!ENTITY cmd.backup.label               "Резервно копие…">
 <!ENTITY cmd.backup.accesskey           "Р">
