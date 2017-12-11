@@ -635,9 +635,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "Amagnu">
 <!ENTITY mediaPlaybackRate100x2.accesskey "m">
-<!ENTITY mediaPlaybackRate125x2.label "S zreb (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.label "S tɣawla (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "z">
-<!ENTITY mediaPlaybackRate150x2.label "Yezreb aṭas (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.label "Ittɣawal aṭas (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "r">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
@@ -651,9 +651,9 @@ fast. -->
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Sken isenqaden">
 <!ENTITY mediaShowControls.accesskey "k">
-<!ENTITY mediaHideControls.label     "Fer isenqaden">
+<!ENTITY mediaHideControls.label     "Ffer isenqaden">
 <!ENTITY mediaHideControls.accesskey "F">
-<!ENTITY videoFullScreen.label       "Agdil aččuran">
+<!ENTITY videoFullScreen.label       "Agdil ačaran">
 <!ENTITY videoFullScreen.accesskey   "A">
 <!ENTITY videoSaveImage.label        "Sekles anɣel n wegdil s yisem…">
 <!ENTITY videoSaveImage.accesskey    "S">
