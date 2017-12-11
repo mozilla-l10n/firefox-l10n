@@ -7,6 +7,8 @@
 <!ENTITY generalInfo.label                       "Агульныя звесткі">
 <!ENTITY folderCharsetFallback2.label            "Запасное кадаванне тэксту:">
 <!ENTITY folderCharsetFallback2.accesskey        "З">
+<!ENTITY folderCharsetEnforce2.label             "Ужываць кадаванне ўсіх паведамленняў у папцы (індывідуальныя налады кадавання тэксту і аўтавызначэнне будуць ігнаравацца)">
+<!ENTITY folderCharsetEnforce2.accesskey         "У">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Перабудова паказальніка зводкавага файла">
 <!ENTITY folderRebuildSummaryFile2.label         "Выправіць папку">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "В">
