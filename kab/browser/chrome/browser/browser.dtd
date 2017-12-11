@@ -877,23 +877,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Amennal">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Amennal">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Seqdec annalan deg uskar n tfelwit n uselkem">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Tanalit">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tanalit">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "N">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Seqdec tanalit deg uskar n tfelwit n uselkem">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Ffer s wudem awurman">
 
 <!ENTITY getUserMedia.selectCamera.label "Takamiṛat i beṭṭu:">
-<!ENTITY getUserMedia.selectCamera.accesskey "T">
-<!ENTITY getUserMedia.selectMicrophone.label "Asawaḍ n beṭṭu:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "A">
-<!ENTITY getUserMedia.audioCapture.label "Ameslaw seg iccer i tebḍiḍ.">
-<!ENTITY getUserMedia.allWindowsShared.message "Akk isfuyla umanen deg ugdil-inek ad ttwabḍun.">
+<!ENTITY getUserMedia.selectCamera.accesskey "K">
+<!ENTITY getUserMedia.selectMicrophone.label "Asawaḍ i beṭṭu:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "S">
+<!ENTITY getUserMedia.audioCapture.label "Ameslaw seg yiccer ad ittwabḍu.">
+<!ENTITY getUserMedia.allWindowsShared.message "Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.">
 
 <!ENTITY trackingProtection.title "Ammesten mgal asfuɣel">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; isewḥel kra n yeḥricen n usebter izemren ad sfuɣlen tunigin-inek.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-a igber iferdisen i izemren ad sfuɣlen tunigin-inek. Treremdeḍ ammesten.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; issewḥel kra n yiḥricen n usebter izemren ad sfuɣlen tunigin-ik.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-a igber iferdisen i izemren ad sfuɣlen tunigin-ik. Tekkseḍ ammesten.">
 <!ENTITY trackingProtection.notDetected3 "Ulac iferdisen iṭafaṛen i ittwafen ɣef usebter-a.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
