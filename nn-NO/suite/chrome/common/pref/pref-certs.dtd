@@ -4,6 +4,7 @@
 
 <!ENTITY  managecerts.caption      "Handter sertifikat">
 <!ENTITY  managecerts.button       "Handter sertifikat…">
+<!ENTITY  managedevices.caption    "Handter tryggingseiningar">
 <!ENTITY  managedevices.button     "Handsam tryggingseiningar…">
 <!ENTITY  managedevices.accesskey  "H">
 
