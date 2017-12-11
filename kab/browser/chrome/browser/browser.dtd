@@ -767,16 +767,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Tuqqna-inek ɣer usmel-a mačči d tusligt. Zemren wiyaḍ ad walin talɣut ara tazneḍ (am wawalen uffiren, iznan, atg.).">
 <!ENTITY identity.description.insecureLoginForms "Talɣut n yisem n useqdac i d-tefkiḍ deg usebter-a mačči d taɣelsant u yezmer ad tettwaker.">
-<!ENTITY identity.description.weakCipher "Tuqqna-inek ɣeṛ usmel-a teseqdac awgelhen fessusen u mačči d tusligt.">
-<!ENTITY identity.description.weakCipher2 "Zemren imdanen-nniḍen ad walin talɣut neɣ ad sniflen tiddin n usmel web.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; isewḥel kra n yeḥricen n usebter-a ur nelli ara d iɣelsanen.">
-<!ENTITY identity.description.passiveLoaded "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-a acku tuqqna-inek mačči d tusligt.">
+<!ENTITY identity.description.weakCipher "Tuqqna-inek ɣeṛ usmel-a tesseqdac awgelhen fessusen u mačči d tusligt.">
+<!ENTITY identity.description.weakCipher2 "Zemren imdanen-nniḍen ad walin talɣut-ik neɣ ad beddlen tikli n usmel web.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; issewḥel kra n yiḥricen n usebter-a ur nelli ara d iɣelsanen.">
+<!ENTITY identity.description.passiveLoaded "Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a acku tuqqna-k mačči d tusligt.">
 <!ENTITY identity.description.passiveLoaded2 "Asmel-a isεa agbur araɣelsan (am tugniwin).">
-<!ENTITY identity.description.passiveLoaded3 "Ɣas akken &brandShortName; isewḥel kra n ugbur, mazal yella kra n ugbur ur nelli d aɣelsan ɣef usebter (am tugniwin).">
+<!ENTITY identity.description.passiveLoaded3 "Ɣas akken &brandShortName; issewḥel kra n ugbur, mazal yella kra n ugbur ur nelli d aɣelsan deg usebter (am tugniwin).">
 <!ENTITY identity.description.activeLoaded "Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.">
-<!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-a (am awalen uffiren, iznan, atg.).">
+<!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut ara tebḍuḍ d usmel-a (am wawalen uffiren, iznan, atg.).">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Rmed ammesten">
+<!ENTITY identity.enableMixedContentBlocking.label "Sermed ammesten">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "R">
 <!ENTITY identity.disableMixedContentBlocking.label "Kkes armed n uḥraz tura">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "K">
