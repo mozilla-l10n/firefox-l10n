@@ -26,9 +26,12 @@
 <!ENTITY signingCert.message "Ужываць гэтае пасведчанне, каб лічбава падпісваць лісты, што вы адсылаеце:">
 
 <!ENTITY certificates.label "Пасведчанні">
+<!ENTITY manageCerts2.label "Кіраваць сертыфікатамі">
+<!ENTITY manageCerts2.accesskey "К">
 <!ENTITY manageDevices.label "Збудовы бяспекі">
 <!ENTITY manageDevices.accesskey "б">
 
 <!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "Абраць сертыфікат">
 <!ENTITY certPicker.info  "Сертыфікат:">
 <!ENTITY certPicker.detailsLabel "Падрабязнасці вылучанага сертыфіката:">

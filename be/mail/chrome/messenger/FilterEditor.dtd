@@ -23,6 +23,8 @@
 <!ENTITY contextManual.accesskey "Р">
 <!ENTITY contextBeforeCls.label "Сітаваць перад вызначэннем лухты">
 <!ENTITY contextAfterCls.label "Сітаваць пасля вызначэннем лухты">
+<!ENTITY contextOutgoing.label "Пасля адпраўкі">
+<!ENTITY contextOutgoing.accesskey "П">
 <!ENTITY contextArchive.label "Архіваванне">
 <!ENTITY contextArchive.accesskey "А">
 
