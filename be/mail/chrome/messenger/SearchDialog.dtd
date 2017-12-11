@@ -2,39 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchHeading.label "Шукаць лісты ў:">
-<!ENTITY searchHeading.accesskey "ў">
-<!ENTITY searchSubfolders.label "Пошук у падпапках">
-<!ENTITY searchSubfolders.accesskey "о">
-<!ENTITY searchOnServer.label "Выканаць пошук на паслугачы">
-<!ENTITY searchOnServer.accesskey "ы">
-<!ENTITY resetButton.label "Ачысціць">
-<!ENTITY resetButton.accesskey "ч">
-<!ENTITY openButton.label "Адчыніць">
-<!ENTITY openButton.accesskey "А">
-<!ENTITY deleteButton.label "Выдаліць">
-<!ENTITY deleteButton.accesskey "д">
-<!ENTITY searchDialogTitle.label "Пошук лістоў">
-<!ENTITY results.label "Вынікі">
-<!ENTITY moveButton.label "Перамясціць у">
-<!ENTITY moveButton.accesskey "у">
-<!ENTITY closeCmd.key "W">
-<!ENTITY openInFolder.label "Адкрыць у папцы">
-<!ENTITY openInFolder.accesskey "п">
-<!ENTITY saveAsVFButton.label "Захаваць як папку пошуку">
-<!ENTITY saveAsVFButton.accesskey "а">
-<!ENTITY abSearchHeading.label "Шукаць у:">
-<!ENTITY abSearchHeading.accesskey "Ш">
-<!ENTITY propertiesButton.label "Уласцівасці">
-<!ENTITY propertiesButton.accesskey "л">
-<!ENTITY composeButton.label "Укласці">
-<!ENTITY composeButton.accesskey "У">
-<!ENTITY deleteCardButton.label "Выдаліць">
-<!ENTITY deleteCardButton.accesskey "д">
-<!ENTITY abSearchDialogTitle.label "Удасканалены пошук у адраснай кнізе">
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Шукаць лісты ў:">
+<!ENTITY searchHeading.accesskey     "ў">
+<!ENTITY searchSubfolders.label      "Пошук у падпапках">
+<!ENTITY searchSubfolders.accesskey  "о">
+<!ENTITY searchOnServer.label        "Выканаць пошук на паслугачы">
+<!ENTITY searchOnServer.accesskey    "ы">
+<!ENTITY resetButton.label           "Ачысціць">
+<!ENTITY resetButton.accesskey       "ч">
+<!ENTITY openButton.label            "Адчыніць">
+<!ENTITY openButton.accesskey        "А">
+<!ENTITY deleteButton.label          "Выдаліць">
+<!ENTITY deleteButton.accesskey      "д">
+<!ENTITY searchDialogTitle.label     "Пошук лістоў">
+<!ENTITY results.label               "Вынікі">
+<!ENTITY moveButton.label            "Перамясціць у">
+<!ENTITY moveButton.accesskey        "у">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Адкрыць у папцы">
+<!ENTITY openInFolder.accesskey      "п">
+<!ENTITY saveAsVFButton.label        "Захаваць як папку пошуку">
+<!ENTITY saveAsVFButton.accesskey    "а">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Шукаць у:">
+<!ENTITY abSearchHeading.accesskey   "Ш">
+<!ENTITY propertiesButton.label      "Уласцівасці">
+<!ENTITY propertiesButton.accesskey  "л">
+<!ENTITY composeButton.label         "Укласці">
+<!ENTITY composeButton.accesskey     "У">
+<!ENTITY deleteCardButton.label      "Выдаліць">
+<!ENTITY deleteCardButton.accesskey  "д">
+<!ENTITY abSearchDialogTitle.label   "Удасканалены пошук у адраснай кнізе">
+
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Нізка">
 <!ENTITY fromColumn.label "Ад">
 <!ENTITY recipientColumn.label "Атрымальнік">
+<!ENTITY correspondentColumn.label "Карэспандэнты">
 <!ENTITY subjectColumn.label "Тэма">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Прыярытэт">
@@ -50,10 +56,13 @@
 <!ENTITY starredColumn.label "З зоркаю">
 <!ENTITY locationColumn.label "Месцазнаходжанне">
 <!ENTITY idColumn.label "Парадак атрымання">
+
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Вылучыць слупкі для адлюстравання">
 <!ENTITY threadColumn2.tooltip "Паказваць нізкі лістоў">
 <!ENTITY fromColumn2.tooltip "Размеркаваць па адпраўнікам">
 <!ENTITY recipientColumn2.tooltip "Размеркаваць па атрымальнікам">
+<!ENTITY correspondentColumn2.tooltip "Сартаваць па карэспандэнтам">
 <!ENTITY subjectColumn2.tooltip "Размеркаваць па тэмам">
 <!ENTITY dateColumn2.tooltip "Размеркаваць па датам">
 <!ENTITY priorityColumn2.tooltip "Размеркаваць па прыярытэтам">

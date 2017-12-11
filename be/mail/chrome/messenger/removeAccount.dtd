@@ -2,5 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dialogTitle                  "Выдаленне уліковага запісу і дадзеных">
 <!ENTITY removeButton.label           "Выдаліць">
 <!ENTITY removeButton.accesskey       "В">
+<!ENTITY removeAccount.label          "Выдаліць звесткі ўліковага запісу">
+<!ENTITY removeAccount.accesskey      "у">
+<!ENTITY removeData.label             "Выдаліць дадзеныя паведамленняў">
+<!ENTITY removeData.accesskey         "д">
+<!ENTITY removeDataChat.label         "Выдаліць дадзеныя размовы">
+<!ENTITY removeDataChat.accesskey     "д">
+<!ENTITY showData.label               "Паказаць размяшчэнне дадзеных">
+<!ENTITY showData.accesskey           "П">
+<!ENTITY progressPending              "Выдаленне абраных дадзеных…">
+<!ENTITY progressSuccess              "Паспяхова выдалена.">
+<!ENTITY progressFailure              "Памылка выдалення.">
