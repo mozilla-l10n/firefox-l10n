@@ -10,7 +10,7 @@
 <!ENTITY windowTitle2.label "Захаваць і змяніць кадаванне сімвалаў">
 <!ENTITY documentTitleTitle.label "Загаловак старонкі">
 <!ENTITY documentCharsetTitle2.label "Кадаванне тэксту">
-<!ENTITY documentCharsetDesc2.label "Абярыце кадыроўку тэксту, у якой хочаце захаваць дакумент:">
+<!ENTITY documentCharsetDesc2.label "Абярыце кадаванне тэксту, у якім хочаце захаваць дакумент:">
 <!ENTITY documentExportToText.label "Экспартаваць як тэкст">
 
 
