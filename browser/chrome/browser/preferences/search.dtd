@@ -2,19 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Thanh tìm kiếm">
+
+<!ENTITY searchBar.hidden.label                "Dùng thanh địa chỉ để tìm kiếm và điều hướng">
+<!ENTITY searchBar.shown.label                 "Thêm thanh tìm kiếm vào thanh công cụ">
+
 <!ENTITY defaultSearchEngine.label             "Dịch vụ tìm kiếm mặc định">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Xin hãy lựa chọn dịch vụ tìm kiếm mặc định. &brandShortName; sẽ sử dụng nó trong thanh địa chỉ, thanh tìm kiếm và trang khởi động.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Chọn công cụ tìm kiếm mặc định để sử dụng trong thanh địa chỉ và thanh tìm kiếm.">
 
 <!ENTITY provideSearchSuggestions.label        "Tự động đề nghị từ khóa tìm kiếm">
 <!ENTITY provideSearchSuggestions.accesskey    "n">
 
-<!ENTITY showURLBarSuggestions.label           "Hiển thị đề xuất tìm kiếm trong kết quả thanh địa chỉ">
-<!ENTITY showURLBarSuggestions.accesskey       "c">
+<!ENTITY showURLBarSuggestions2.label           "Hiển thị gợi ý tìm kiếm trong kết quả thanh địa chỉ">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Gợi ý tìm kiếm sẽ không được hiện ở thanh địa chỉ vì bạn đã thiết lập &brandShortName; không bao giờ ghi nhớ lịch sử.">
 
+<!ENTITY oneClickSearchEngines.label           "Công cụ tìm kiếm với một lần nhấn">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Thanh tìm kiếm cho phép bạn tìm kiếm nhanh bằng các dịch vụ không phải mặc định. Xin hãy lựa chọn những dịch vụ nào được hiển thị.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Chọn các công cụ tìm kiếm thay thế xuất hiện bên dưới thanh địa chỉ và thanh tìm kiếm khi bạn bắt đầu nhập một từ khoá.">
 
 <!ENTITY engineNameColumn.label                "Dịch vụ tìm kiếm">
 <!ENTITY engineKeywordColumn.label             "Từ khóa">
@@ -25,3 +31,4 @@
 <!ENTITY removeEngine.label                    "Xóa">
 <!ENTITY removeEngine.accesskey                "X">
 
+<!ENTITY findMoreSearchEngines.label           "Tìm các công cụ tìm kiếm khác">

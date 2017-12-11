@@ -20,17 +20,22 @@
 <!ENTITY trackingProtectionPBM5.accesskey     "r">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Sử dụng trình chống theo dõi ở chế độ duyệt web riêng tư để chặn các trình theo dõi đã được nhận biết">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Tìm hiểu thêm">
 <!ENTITY changeBlockList2.label               "Thay đổi danh sách chặn…">
 <!ENTITY changeBlockList2.accesskey           "C">
 
+<!ENTITY  doNotTrack.description        "Gửi tín hiệu “Không theo dõi” tới trang web để cho biết bạn không muốn bị theo dõi">
 <!ENTITY  doNotTrack.learnMore.label    "Tìm hiểu thêm">
 <!ENTITY  doNotTrack.default.label      "Chỉ khi dùng trình chống theo dõi">
 <!ENTITY  doNotTrack.always.label       "Luôn luôn">
 
 <!ENTITY  history.label                 "Lược sử">
+<!ENTITY  permissions.label             "Quyền hạn">
 
+<!ENTITY  addressBar.label              "Thanh địa chỉ">
+<!ENTITY  addressBar.suggest.label      "Khi dùng thanh địa chỉ, gợi ý">
 <!ENTITY  locbar.history2.label         "Lịch sử duyệt web">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Trang đánh dấu">
@@ -42,11 +47,17 @@
 
 <!ENTITY  suggestionSettings2.label     "Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm">
 
+<!ENTITY  acceptCookies2.label          "Cho phép cookie từ các trang">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "Cho phép cookie bên thứ 3">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Luôn luôn">
 <!ENTITY  acceptThirdParty.never.label    "Không bao giờ">
 <!ENTITY  acceptThirdParty.visited.label  "Từ các trang đã truy cập">
 
+<!ENTITY  keepUntil2.label              "Giữ cho đến khi">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "chúng hết hạn">
 <!ENTITY  close.label                   "tôi thoát &brandShortName;">
@@ -57,6 +68,8 @@
 <!ENTITY  showCookies.label             "Hiện Cookie…">
 <!ENTITY  showCookies.accesskey         "e">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; sẽ">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Ghi nhớ lược sử">
 <!ENTITY  historyHeader.dontremember.label "Không bao giờ ghi nhớ lược sử">
 <!ENTITY  historyHeader.custom.label       "Sử dụng thiết lập tùy biến cho lược sử">
@@ -99,6 +112,10 @@
 <!ENTITY  browserContainersLearnMore.label      "Tìm hiểu thêm">
 <!ENTITY  browserContainersEnabled.label        "Bật thẻ ngăn chứa">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "Cài đặt…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Ngăn chặn khả năng tiếp cận dịch vụ truy cập vào trình duyệt của bạn">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Tìm hiểu thêm">
 <!ENTITY enableSafeBrowsingLearnMore.label "Tìm hiểu thêm">
