@@ -50,9 +50,15 @@
 <!ENTITY getNextNMsgCmd.accesskey "N">
 
 <!-- Edit Menu -->
+<!ENTITY undoDefaultCmd.label "Angre">
+<!ENTITY redoDefaultCmd.label "Gjer om">
 
 <!-- View Menu -->
+<!ENTITY showSearchToolbarCmd.label "Søkjelinje">
+<!ENTITY showSearchToolbarCmd.accesskey "S">
 
+<!ENTITY messagePaneClassic.label "Klassisk vising">
+<!ENTITY messagePaneClassic.accesskey "K">
 
 <!-- sortMenu is also used by addressbook -->
 
