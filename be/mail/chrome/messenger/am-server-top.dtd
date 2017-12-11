@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Правяраць, ці існуюць новыя лісты, кожныя">
 <!ENTITY biffStart.accesskey "а">
 <!ENTITY biffEnd.label "хвілінаў">
+<!ENTITY useIdleNotifications.label "Дазволіць серверу пры паступленні новых паведамленняў неадкладна адлюстроўваць апавяшчэнне">
+<!ENTITY useIdleNotifications.accesskey "з">
 <!ENTITY connectionSecurity.label "Бяспека злучэння:">
 <!ENTITY connectionSecurity.accesskey "Б">
 <!ENTITY connectionSecurityType-0.label "Няма">
@@ -84,3 +86,7 @@
 
 <!ENTITY accountTitle.label "Наладжванні рахунку">
 <!ENTITY accountSettingsDesc.label "Гэта адмысловы рахунак.  Няма адметаў, злучаных з ім.">
+<!ENTITY storeType.label "Тып захоўвання паведамленняў:">
+<!ENTITY storeType.accesskey "Т">
+<!ENTITY mboxStore2.label "Адзін файл на папку (mbox)">
+<!ENTITY maildirStore.label "Адзін файл на паведамленне (maildir)">
