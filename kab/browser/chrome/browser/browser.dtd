@@ -833,9 +833,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Mtawi">
 
-<!ENTITY syncSignIn.label             "Qqen ɣer &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Kcem ɣer &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Mtawi tura">
 <!ENTITY syncSyncNowItem.accesskey    "M">
@@ -843,22 +843,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Q">
 <!ENTITY syncToolbarButton.label      "Mtawi">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Zuɣer iferdisen-ik ismenyifen ɣer ufeggag n ifecka neɣ ɣer umuɣn tfuli.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Zuɣer iferdisen-ik ismenyifen ɣer ufeggag n yifecka neɣ ɣer umuɣ n tfuli.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Tesriḍ ifecka-nniḍen?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Fren seg igimen n izegrar">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Fren seg yigimen n yizegrar">
 <!ENTITY customizeMode.restoreDefaults "Err-d tawila tamezwert">
 <!ENTITY customizeMode.done "Immed">
 <!ENTITY customizeMode.titlebar "Afeggag n uzwel">
 <!ENTITY customizeMode.extraDragSpace "Zuɣer tallunt">
-<!ENTITY customizeMode.toolbars2 "Afeggag n ifecka">
+<!ENTITY customizeMode.toolbars2 "Afeggag n yifecka">
 <!ENTITY customizeMode.lwthemes "Isental">
 <!ENTITY customizeMode.lwthemes.myThemes "Isental-iw">
 <!ENTITY customizeMode.lwthemes.recommended "Ihul">
 <!ENTITY customizeMode.lwthemes.menuManage "Sefrek">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Awi-d ugar n isental">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Awi-d ugar n yisental">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Zuɣer sakin sers iferdisen akken ad ten-teǧǧeḍ ɣef afus, acu kan beṛṛa n ufeggag-ik n ifecka...">
+<!ENTITY customizeMode.emptyOverflowList.description "Zuɣer sakin sers dagi iferdisen akken ad ten-teǧǧeḍ ɣef ufus, acu kan beṛṛa n ufeggag-ik n yifecka...">
 <!ENTITY customizeMode.overflowList.title2 "Umuɣ n usiɣzef n ufeggag n ifecka">
 <!ENTITY customizeMode.overflowList.description "Zuɣer sakin sers iferdisen dagi akken ad ten-teǧǧeḍ ɣef afus, acu kan beṛṛa n ufeggag-ik n ifecka…">
 <!ENTITY customizeMode.uidensity "Taneẓẓi">
