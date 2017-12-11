@@ -6,6 +6,8 @@
 <!ENTITY  window.width                    "43em">
 <!ENTITY  window.macWidth                 "44em">
 
+<!ENTITY  overridePageColors.label        "Замяняць колеры, пазначаныя змесцівам, на выбраныя мной вышэй:">
+<!ENTITY  overridePageColors.accesskey    "З">
 
 <!ENTITY  overridePageColors.always.label "Заўсёды">
 <!ENTITY  overridePageColors.auto.label   "Толькі з высокакантраснымі тэмамі">
