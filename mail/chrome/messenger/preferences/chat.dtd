@@ -19,7 +19,7 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "i">
 <!ENTITY  idleTime                      "minutos de inactividad">
 
-<!ENTITY  andSetStatusToAway.label      "and set my status to Away with this status message:">
+<!ENTITY  andSetStatusToAway.label      "y establecer mi estado como Ausente con el siguiente mensaje de estado:">
 <!ENTITY  andSetStatusToAway.accesskey  "A">
 
 <!ENTITY  sendTyping.label              "Enviar notificaciones de tipeo en las notificaciones">
