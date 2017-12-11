@@ -625,11 +625,11 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Susem">
+<!ENTITY mediaMute.label             "Tasusmi">
 <!ENTITY mediaMute.accesskey         "S">
-<!ENTITY mediaUnmute.label           "Amesil">
+<!ENTITY mediaUnmute.label           "Kkes tasusmi">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "Arured n tɣuṛi">
+<!ENTITY mediaPlaybackRate2.label     "Arured n tɣuri">
 <!ENTITY mediaPlaybackRate2.accesskey "r">
 <!ENTITY mediaPlaybackRate050x2.label "S ttawil (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
