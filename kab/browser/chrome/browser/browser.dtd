@@ -778,7 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "Sermed ammesten">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "R">
-<!ENTITY identity.disableMixedContentBlocking.label "Kkes armed n uḥraz tura">
+<!ENTITY identity.disableMixedContentBlocking.label "Kkes ammesten i tura">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "K">
 <!ENTITY identity.learnMore "Issin ugar">
 
@@ -788,19 +788,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Ugar n telɣut">
 
 <!ENTITY identity.permissions "Tisirag">
-<!ENTITY identity.permissionsEmpty "Ur ɣuṛ-k ara tasiregt akken ad tkecmeḍ ɣeṛ usmel-a web.">
-<!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken isnifal ad ttwasensen.">
+<!ENTITY identity.permissionsEmpty "Ur tefkiḍ ara kra n tsiregt i usmel-a.">
+<!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken yemmed wayen i tbeddleḍ.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Iccaren n uminig">
+<!ENTITY tabsToolbar.label "Accaren n yiminig">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Iccaren yemtawin">
+<!ENTITY syncTabsMenu3.label     "Accaren yemtawin">
 
-<!ENTITY syncedTabs.sidebar.label              "Iccaren yemtawin">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Kcem ɣeṛ Firefox seg ibenkan-nniḍen akken ad sekneḍ iccaren-is nniḍen.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Ulac iccaren yemtawi…yakan!">
+<!ENTITY syncedTabs.sidebar.label              "Accaren yemtawin">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Kcem ɣeṛ Firefox seg yibenkan-nniḍen akken ad tsekneḍ dagi accaren-nsen.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Ulac accaren yemtawin… yakan!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ da iccaren-inek seg ibenkan-nniḍen?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Qqen akken ad sekneḍ tabdart n yiccaren seg ibenkan-ik-nniḍen.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ulac iccaren yeldin">
