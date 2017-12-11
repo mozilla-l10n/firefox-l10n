@@ -138,6 +138,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "с">
 <!ENTITY newlistButton.label                            "Новы спіс">
 <!ENTITY newlistButton.accesskey                        "С">
+<!ENTITY showAsDefault.label                            "Прадвызначаны пачатковы каталог">
+<!ENTITY showAsDefault.accesskey                        "П">
 <!ENTITY editPropertiesButton.label                     "Рэдагаваць">
 <!ENTITY propertiesContext.label                        "Уласцівасці">
 <!ENTITY propertiesContext.accesskey                    "i">
@@ -159,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Стварыць новую сувязь у адраснай кнізе">
 <!ENTITY newlistButton.tooltip                          "Стварыць новы спіс">
+<!ENTITY editPropertiesButton.tooltip                   "Рэдагаваць вылучаную адзінку">
+<!ENTITY editAbPropertiesButton.tooltip                 "Рэдагаваць уласцівасці выбранай адраснай кнігі">
+<!ENTITY editContactPropertiesButton.tooltip            "Рэдагаваць вылучаны кантакт">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Рэдагаваць вылучаны спіс рассылкі">
 <!ENTITY newmsgButton.tooltip                           "Даслаць паштовы ліст">
 <!ENTITY newIM.tooltip                                  "Даслаць вокамгненнае паведамленне ці распачаць гутарку">
 <!ENTITY deleteButton2.tooltip                          "Выдаліць вылучаную адзінку">

@@ -10,6 +10,7 @@
 <!ENTITY email.accesskey                 "А">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Ваш існуючы адрас эл.пошты">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "П">
 <!ENTITY password.placeholder            "Пароль">
