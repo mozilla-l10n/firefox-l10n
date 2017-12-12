@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Enviar Link para dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "Enviado!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Na fila (off-line)">
 <!ENTITY  moveToNewWindow.label              "Mover para uma nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todas as abas…">
@@ -355,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizar menu e barras de ferramentas">
 <!ENTITY appMenuCustomizeExit.label "Concluir personalização">
 <!ENTITY appMenuCustomizeExit.tooltip "Concluir a personalização">
+
 <!ENTITY appMenuHistory.showAll.label "Mostrar histórico">
 <!ENTITY appMenuHistory.clearRecent.label "Limpar dados de navegação…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
@@ -385,9 +387,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Quer ver suas abas de outros dispositivos aqui?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Entrar para ver uma lista de abas de outros dispositivos.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Sua conta precisa ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Entrar no Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerenciar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver abas sincronizadas na barra lateral">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar outro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destaques recentes">
 
@@ -750,6 +755,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Concluído">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Segurança do site">
+
 <!ENTITY identity.connectionSecure "Conexão segura">
 <!ENTITY identity.connectionNotSecure "Conexão não é segura">
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
@@ -803,12 +812,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Sem abas sincronizadas... ainda!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Quer ver suas abas de outros dispositivos aqui?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Entrar para ver uma lista de abas de outros dispositivos.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Sua conta precisa ser verificada.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nenhuma aba aberta">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir preferências &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ligar a sincronização para ver uma lista de abas de outros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Pesquisar em abas sincronizadas">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectar outro dispositivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +991,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para atualizar o &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Uma extensão alterou a página que você vê quando ao abrir uma nova aba. Você pode restaurar as suas definições se não quiser esta alteração.">
+<!ENTITY newTabControlled.header.message "Sua nova aba foi alterada.">
+<!ENTITY newTabControlled.keepButton.label "Manter alterações">
+<!ENTITY newTabControlled.restoreButton.label "Restaurar configurações">
+
 <!ENTITY pageActionButton.tooltip "Ações da página">
 <!ENTITY pageAction.addToUrlbar.label "Adicionar na barra de endereço">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover da barra de endereço">
+
+<!ENTITY pageAction.allowInUrlbar.label "Mostrar na barra de endereço">
+<!ENTITY pageAction.disallowInUrlbar.label "Não mostrar na barra de endereço">
+<!ENTITY pageAction.manageExtension.label "Gerenciar extensão…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Enviar aba para dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
