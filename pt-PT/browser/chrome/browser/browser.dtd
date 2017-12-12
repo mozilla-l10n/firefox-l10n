@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizar menu e barras de ferramentas">
 <!ENTITY appMenuCustomizeExit.label "Sair da personalização">
 <!ENTITY appMenuCustomizeExit.tooltip "Concluir personalização">
+
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
 <!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
@@ -385,9 +386,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Pretende ver os seus separadores de outros dispositivos aqui?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sessão para ver uma lista de separadores a partir dos seus outros dispositivos.">
+<!ENTITY appMenuRemoteTabs.unverified.label "A sua conta necessita de ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Iniciar sessão no Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerir dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver barra lateral de separadores sincronizados">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Ligar outro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destaques recentes">
 
@@ -564,6 +568,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Definir como fundo do ambiente de trabalho…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "e">
 <!ENTITY bookmarkPageCmd2.label       "Guardar esta página nos marcadores">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Guardar esta ligação nos marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Guardar endereço desta frame nos marcadores">
@@ -750,6 +755,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Feito">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Segurança do site">
+
 <!ENTITY identity.connectionSecure "Ligação segura">
 <!ENTITY identity.connectionNotSecure "Ligação não segura">
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
@@ -803,12 +812,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Sem separadores sincronizados... ainda!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Pretende ver os seus separadores de outros dispositivos aqui?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicie sessão para ver uma lista de separadores a partir dos seus outros dispositivos.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "A sua conta necessita de ser verificada.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Sem separadores abertos">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir as preferências do &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ative a sincronização de separadores para ver uma lista de separadores dos seus outros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Pesquisar separadores sincronizados">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Ligar outro dispositivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +991,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para atualizar o &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Uma extensão alterou a página que vê quando abre um novo separador. Pode restaurar as suas definições se não quiser esta alteração.">
+<!ENTITY newTabControlled.header.message "O seu novo separador foi alterado.">
+<!ENTITY newTabControlled.keepButton.label "Manter alterações">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
+<!ENTITY newTabControlled.restoreButton.label "Restaurar definições">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Ações da página">
 <!ENTITY pageAction.addToUrlbar.label "Adicionar à barra de endereço">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover da barra de endereço">
+
+<!ENTITY pageAction.allowInUrlbar.label "Mostrar na barra de endereço">
+<!ENTITY pageAction.disallowInUrlbar.label "Não mostrar na barra de endereço">
+<!ENTITY pageAction.manageExtension.label "Gerir extensão…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Enviar separador para dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "A sincronizar dispositivos…">
