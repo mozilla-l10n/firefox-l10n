@@ -188,13 +188,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "F">
 
 <!ENTITY backCmd.label                "Ɣer deffir">
+<!ENTITY backCmd.accesskey            "D">
 <!ENTITY backButton.tooltip           "Uɣal s yiwen n usebter">
 <!ENTITY forwardCmd.label             "Ɣer zdat">
+<!ENTITY forwardCmd.accesskey         "Z">
 <!ENTITY forwardButton.tooltip        "Aẓ ɣer zdat s yiwen usebter">
 <!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt d akessar akken ad twaliḍ amazray">
 <!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣer taɣeṛdayt d akessar akken ad twaliḍ amazray">
 <!ENTITY reloadCmd.label              "Smiren">
+<!ENTITY reloadCmd.accesskey          "M">
 <!ENTITY stopCmd.label                "Seḥbes">
+<!ENTITY stopCmd.accesskey            "Ḥ">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tansa">
 <!ENTITY printButton.label            "Siggez">
@@ -386,10 +390,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ismenyifen n umtawi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Amiḍan-ik yeḥwaǧ ad ittusenqed.">
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n waccaren yemtawin">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Qqen ibenk-nniḍen">
 
 <!ENTITY appMenuRecentHighlights.label "Izwilen n melmi kan">
 
@@ -566,6 +572,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Fren tugna n ugilal...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "F">
 <!ENTITY bookmarkPageCmd2.label       "Creḍ asebter-a">
+<!ENTITY bookmarkPageCmd2.accesskey   "c">
 <!ENTITY bookmarkThisLinkCmd.label      "Creḍ aseɣwen-a">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "r">
 <!ENTITY bookmarkThisFrameCmd.label      "Creḍ akatar-a">
@@ -754,6 +761,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Taɣellist n usmel">
 
 <!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
 <!ENTITY identity.connectionNotSecure "Tuqqna-a mačči d taɣelsant">
@@ -816,6 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Nadi accaren yemtawan">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Qqen ibenk-nniḍen">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -994,17 +1003,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
-<!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ imedlis n tensa">
+<!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ yimedlis n tansa">
 <!ENTITY pageAction.removeFromUrlbar.label "Kkes seg ufeggag n tansa">
 
+<!ENTITY pageAction.allowInUrlbar.label "Sken deg ufeggag n tansa">
+<!ENTITY pageAction.disallowInUrlbar.label "Ur skan ara deg ufeggag n tansa">
+<!ENTITY pageAction.manageExtension.label "Sefrek aseɣzef…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Azen iccer ɣer yibenk">
-<!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
+<!ENTITY sendToDevice.syncNotReady.label "Amtawi n yibenkan…">
 
-<!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwaskelsen, d wayen-nniḍen">
+<!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwakelsen, d wayen-nniḍen">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
-<!ENTITY accessibilityIndicator.tooltip "Timahaltin n unekcum remdent">
+<!ENTITY accessibilityIndicator.tooltip "Timahilin n unekcum remdent">
