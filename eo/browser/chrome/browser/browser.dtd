@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personecigi la menuon kaj ilarstriojn">
 <!ENTITY appMenuCustomizeExit.label "Fini personecigon">
 <!ENTITY appMenuCustomizeExit.tooltip "Fini personecigon">
+
 <!ENTITY appMenuHistory.showAll.label "Montri tutan historion">
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
@@ -388,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Komencu seancon en Spegulado">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administri aparatojn…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vidi flankan strion de spegulitaj langetoj">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Konekti alian aparaton">
 
 <!ENTITY appMenuRecentHighlights.label "Ĵusaj elstaraĵoj">
 
@@ -750,6 +753,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Preta">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Sekura konekto">
 <!ENTITY identity.connectionNotSecure "Nesekura konekto">
 <!ENTITY identity.connectionFile "Tiu ĉi paĝo estas konservita en via komputilo.">
@@ -809,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ŝaltu la speguladon de langetoj por vidi liston de langetoj el viaj aliaj aparatoj.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Serĉi spegulitajn langetojn">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +986,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Restartigu por ĝisdatigi &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Retpaĝaj agoj">
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
 <!ENTITY pageAction.removeFromUrlbar.label "Forigi el adresa strio">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Sendi langeton al aparato">
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">

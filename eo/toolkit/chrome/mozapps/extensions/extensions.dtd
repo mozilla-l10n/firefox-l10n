@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Administrilo de aldonaĵoj">
 
 <!ENTITY search.placeholder                   "Serĉi ĉiujn aldonaĵojn">
+
+<!ENTITY search.placeholder2                  "Serĉi en addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Serĉi">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
