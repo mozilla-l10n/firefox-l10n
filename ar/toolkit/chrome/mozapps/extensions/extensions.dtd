@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "مدير الإضافات">
 
 <!ENTITY search.placeholder                   "ابحث في كل الإضافات">
+
+<!ENTITY search.placeholder2                  "ابحث في addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "ابحث">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -26,12 +28,13 @@
 <!ENTITY cmd.back.tooltip                     "عُد للخلف صفحة واحدة">
 <!ENTITY cmd.forward.tooltip                  "تقدم للأمام صفحة واحدة">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "تعذّر التحقق من بعض الامتدادات">
 <!ENTITY showAllExtensions.button.label       "اعرض كل الامتدادات">
 <!ENTITY debugAddons.label                    "نقّح الإضافات">
 <!ENTITY debugAddons.accesskey                "ن">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "النمط الآمن عطّل جميع الإضافات.">
 <!ENTITY warning.checkcompatibility.label          "التحقق من توافقية الإضافات قد عُطّل. قد يكون لديك إضافات غير متوافقة.">
 <!ENTITY warning.checkcompatibility.enable.label   "فعّل">
@@ -39,14 +42,14 @@
 <!ENTITY warning.updatesecurity.label              "التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.">
 <!ENTITY warning.updatesecurity.enable.label       "فعّل">
 <!ENTITY warning.updatesecurity.enable.tooltip     "فعّل التحقق من أمن تحديثات الإضافات">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "ابحث">
 <!ENTITY view.discover.label                  "احصل على الإضافات">
 <!ENTITY view.recentUpdates.label             "التحديثات الأخيرة">
 <!ENTITY view.availableUpdates.label          "التحديثات المتاحة">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "التمس التحديثات">
 <!ENTITY updates.checkForUpdates.accesskey    "ت">
 <!ENTITY updates.viewUpdates.label            "اعرض التحديثات الأخيرة">
@@ -74,8 +77,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "اعرض التحديثات المتاحة">
 <!ENTITY updates.updateSelected.label         "نصّب التحديثات">
 <!ENTITY updates.updateSelected.tooltip       "نصّب التحديثات المتاحة في هذه اللائحة">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "أظهر المزيد من المعلومات">
 <!ENTITY cmd.showDetails.accesskey            "ظ">
 <!ENTITY cmd.findUpdates.label                "ابحث عن التحديثات">
@@ -119,15 +122,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "أخفِ ملاحظات الإصدار">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "أخفِ ملاحظات الإصدار لهذا التحديث">
 <!ENTITY cmd.findReplacement.label            "ابحث عن بديل">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "ما هي الإضافات؟">
 <!ENTITY discover.description2                "الإضافات هي تطبيقات تسمح لك بتخصيص &brandShortName; إما من خلال وظيفة إضافية أو سِمت جديد. جرّب الشريط الجانبي لتوفير الوقت، أو متتبع أحوال الطقس، أو سمة جديدة من السمات، لكي تجعل &brandShortName; على ذوقك.">
 <!ENTITY discover.footer                      "عندما تتصل بالإنترنت، سيظهر في هذه اللوحة بعض من أفضل الإضافات وأكثرها شعبية لكي تستطيع تجربتها.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "النسخة">
 <!ENTITY detail.lastupdated.label             "آخر تحديث">
 <!ENTITY detail.creator.label                 "المطوّرين">
@@ -156,17 +159,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "تفضيلات">
 <!ENTITY detail.showPreferencesUnix.accesskey "ض">
 <!ENTITY detail.showPreferencesUnix.tooltip   "غيّر تفضيلات هذه الإضافة">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "التقييم">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "ألبِث">
 <!ENTITY progress.cancel.tooltip              "ألغِ">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "الاسم">
 <!ENTITY sort.name.tooltip                    "رتّب حسب الاسم">
 <!ENTITY sort.dateUpdated.label               "آخر تحديث">
@@ -223,12 +226,12 @@
 <!ENTITY eula.accept                          "اقبل و نصّب…">
 
 <!ENTITY settings.path.button.label           "تصفّح…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "ما هذا؟ قد ينصّب تليمتري بعض التجارب و يشغّلها من وقت لآخر.">
 <!ENTITY experiment.info.learnmore "اطّلع على المزيد">
 <!ENTITY experiment.info.learnmore.accesskey "ط">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "أهناك ما تفتقده؟ لم يعد &brandShortName; يدعم بعض الملحقات.">
 <!ENTITY pluginDeprecation.learnMore "اطّلع على المزيد.">
 
-<!ENTITY legacyWarning.description "أهناك ما تفتقده؟ لم يعد &brandShortName; يدعم بعض الامتدادات.">
 <!ENTITY legacyWarning.showLegacy "اعرض الامتدادات العتيقة">
 <!ENTITY legacyExtensions.title "امتدادات عتيقة">
 <!ENTITY legacyExtensions.description "لا تحقق هذه الامتدادات معايير &brandShortName; الحالية، لذا عُطّلت.">
