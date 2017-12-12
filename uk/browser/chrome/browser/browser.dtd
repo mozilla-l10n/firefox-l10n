@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Відправити посилання на пристрій">
 <!ENTITY  sendLinkToDevice.accesskey         "л">
 <!ENTITY  sendToDeviceFeedback.label         "Надіслано!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "В черзі (офлайн)">
 <!ENTITY  moveToNewWindow.label              "Перенести в нове вікно">
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "х">
 
 <!ENTITY backCmd.label                "Назад">
+<!ENTITY backCmd.accesskey            "Н">
 <!ENTITY backButton.tooltip           "Назад на одну сторінку">
 <!ENTITY forwardCmd.label             "Вперед">
+<!ENTITY forwardCmd.accesskey         "В">
 <!ENTITY forwardButton.tooltip        "Вперед на одну сторінку">
 <!ENTITY backForwardButtonMenu.tooltip "Натисніть праву клавішу чи потягніть вниз, щоб показати історію вкладки">
 <!ENTITY backForwardButtonMenuMac.tooltip "Потягніть вниз, щоб показати історію вкладки">
 <!ENTITY reloadCmd.label              "Оновити">
+<!ENTITY reloadCmd.accesskey          "О">
 <!ENTITY stopCmd.label                "Зупинити">
+<!ENTITY stopCmd.accesskey            "З">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Перейти за адресою з панелі адреси">
 <!ENTITY printButton.label            "Друкувати">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Пристосувати меню та панелі">
 <!ENTITY appMenuCustomizeExit.label "Вийти з пристосування">
 <!ENTITY appMenuCustomizeExit.tooltip "Завершити пристосування">
+
 <!ENTITY appMenuHistory.showAll.label "Показати всю історію">
 <!ENTITY appMenuHistory.clearRecent.label "Стерти недавню історію…">
 <!ENTITY appMenuHistory.restoreSession.label "Відновити попередній сеанс">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочете побачити тут свої вкладки з інших пристроїв?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налаштування синхронізації">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ваш обліковий запис потребує підтвердження.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увійти в Синхронізацію">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Керувати пристроями…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Переглянути бічну панель синхронізованих вкладок">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Під'єднати інший пристрій">
 
 <!ENTITY appMenuRecentHighlights.label "Останнє обране">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Встановити як тло робочого столу…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "с">
 <!ENTITY bookmarkPageCmd2.label       "Закласти цю сторінку">
+<!ENTITY bookmarkPageCmd2.accesskey   "к">
 <!ENTITY bookmarkThisLinkCmd.label      "Закласти це посилання">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Закласти цей фрейм">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.removeBookmark.accessKey       "П">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Безпека сайту">
+
 <!ENTITY identity.connectionSecure "Захищене з'єднання">
 <!ENTITY identity.connectionNotSecure "Незахищене з'єднання">
 <!ENTITY identity.connectionFile "Ця сторінка збережена на вашому комп'ютері.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Немає синхронізованих вкладок… поки що!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Хочете побачити тут свої вкладки з інших пристроїв?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Ваш обліковий запис потребує підтвердження.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Немає відкритих вкладок">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Відкрити налаштування Синхронізації">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Увімкніть синхронізацію вкладок для перегляду списку вкладок з інших пристроїв.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Шукати синхронізовані вкладки">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Під'єднати інший пристрій">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Перезапуск для оновлення &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Розширення змінило сторінку, яку ви бачите, коли ви відкрили нову вкладку. Якщо ви не хочете цих змін, ви можете відновити налаштування.">
+<!ENTITY newTabControlled.header.message "Ваша нова вкладка була змінена.">
+<!ENTITY newTabControlled.keepButton.label "Зберегти зміни">
+<!ENTITY newTabControlled.keepButton.accesskey "б">
+<!ENTITY newTabControlled.restoreButton.label "Відновити налаштування">
+<!ENTITY newTabControlled.restoreButton.accesskey "н">
+
 <!ENTITY pageActionButton.tooltip "Дії сторінки">
 <!ENTITY pageAction.addToUrlbar.label "Додати до панелі адреси">
 <!ENTITY pageAction.removeFromUrlbar.label "Вилучити з панелі адреси">
+
+<!ENTITY pageAction.allowInUrlbar.label "Показувати в панелі адреси">
+<!ENTITY pageAction.disallowInUrlbar.label "Не показувати в панелі адреси">
+<!ENTITY pageAction.manageExtension.label "Керувати розширенням…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Відправити вкладку на пристрій">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
