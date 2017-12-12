@@ -7,12 +7,20 @@
 <!ENTITY engine.bookmarks.label     "Faqerojtësit e Mi">
 <!ENTITY engine.bookmarks.accesskey "F">
 <!ENTITY engine.tabs.label2         "Hapi Skedat">
+<!ENTITY engine.tabs.title          "Një listë e çka të hapur në krejt pajisjet e njëkohësuara">
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.logins.label        "Kredenciale Hyrjesh">
+<!ENTITY engine.logins.title        "Emra përdoruesi dhe fjalëkalime qe keni ruajtur">
 <!ENTITY engine.logins.accesskey    "K">
-<!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Mundësi">
+<!ENTITY engine.prefsWin.accesskey  "M">
+<!ENTITY engine.prefs.label         "Parapëlqime">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Shtesat e Mia">
 <!ENTITY engine.addons.accesskey    "t">
