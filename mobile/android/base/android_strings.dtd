@@ -113,7 +113,7 @@
 <!ENTITY menu "Menú">
 <!ENTITY back "Regresar">
 <!ENTITY stop "Detener">
-<!ENTITY site_security "Sitio de seguridad">
+<!ENTITY site_security "Seguridad del sitio">
 <!ENTITY edit_mode_cancel "Cancelar">
 
 <!ENTITY close_tab "Cerrar pestaña">
