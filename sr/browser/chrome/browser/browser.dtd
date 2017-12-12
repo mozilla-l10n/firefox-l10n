@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Пошаљи везу на уређај">
 <!ENTITY  sendLinkToDevice.accesskey         "у">
 <!ENTITY  sendToDeviceFeedback.label         "Послато!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "На чекању (ван мреже)">
 <!ENTITY  moveToNewWindow.label              "Премести у нови прозор">
 <!ENTITY  moveToNewWindow.accesskey          "н">
 <!ENTITY  bookmarkAllTabs.label              "Забележи све језичке…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "н">
 
 <!ENTITY backCmd.label                "Назад">
+<!ENTITY backCmd.accesskey            "Н">
 <!ENTITY backButton.tooltip           "Назад за једну страну">
 <!ENTITY forwardCmd.label             "Проследи">
+<!ENTITY forwardCmd.accesskey         "а">
 <!ENTITY forwardButton.tooltip        "Напред за једну страну">
 <!ENTITY backForwardButtonMenu.tooltip "Десни клик или мени за приказ историјата">
 <!ENTITY backForwardButtonMenuMac.tooltip "Падајући мени показује историјат">
 <!ENTITY reloadCmd.label              "Опет учитај">
+<!ENTITY reloadCmd.accesskey          "Р">
 <!ENTITY stopCmd.label                "Стани">
+<!ENTITY stopCmd.accesskey            "С">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Приказ адресе уписане у траку за адресе">
 <!ENTITY printButton.label            "Штампање">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Прилагоди мени и траку са алаткама">
 <!ENTITY appMenuCustomizeExit.label "Изађи из прилагођавања">
 <!ENTITY appMenuCustomizeExit.tooltip "Завршите прилагођавање">
+
 <!ENTITY appMenuHistory.showAll.label "Прикажи целу историју">
 <!ENTITY appMenuHistory.clearRecent.label "Обриши историјат…">
 <!ENTITY appMenuHistory.restoreSession.label "Обнови претходну сесију">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Поставке синхронизације">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Пријавите се да видите листу језичака са других уређаја.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ваш налог мора бити потврђен.">
 <!ENTITY appMenuRemoteTabs.signin.label "Пријави се на Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управљај уређајима…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи траку са син. језичцима">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Повежите други уређај">
 
 <!ENTITY appMenuRecentHighlights.label "Недавно истакнуто">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Постави на радну површину…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ш">
 <!ENTITY bookmarkPageCmd2.label       "Забележи ову страницу">
+<!ENTITY bookmarkPageCmd2.accesskey   "з">
 <!ENTITY bookmarkThisLinkCmd.label      "Забележи ову везу">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "в">
 <!ENTITY bookmarkThisFrameCmd.label      "Забележи овај оквир">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.removeBookmark.accessKey       "У">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Безбедност сајта">
+
 <!ENTITY identity.connectionSecure "Безбедна веза">
 <!ENTITY identity.connectionNotSecure "Веза није безбедна">
 <!ENTITY identity.connectionFile "Ова страница се складишти на рачунару.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Нема синхронизованих језичака…">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Пријавите се да видите листу језичака са других уређаја.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Ваш налог мора бити потврђен.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Нема отворених језичака">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Отвори &syncBrand.shortName.label; поставке">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Укључите синхронизацију језичака да видите листу језичака са других уређаја.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Претражите синхронизоване језичке">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Повежи други уређај">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Рестартуј да се &brandShorterName; ажурира">
 
+<!ENTITY newTabControlled.message "Екстензија је променила подразумевану страницу новог језичка. Можете повратити ваше поставке ако не желите ову промену странице.">
+<!ENTITY newTabControlled.header.message "Ваша страница новог језичка се променила.">
+<!ENTITY newTabControlled.keepButton.label "Задржи промене">
+
 <!ENTITY pageActionButton.tooltip "Радње странице">
 <!ENTITY pageAction.addToUrlbar.label "Додај адресној траци">
 <!ENTITY pageAction.removeFromUrlbar.label "Уклони са адресне траке">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Пошаљи језичак на уређај">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизујем уређаје…">
