@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Zastojnik dodankow">
 
 <!ENTITY search.placeholder                   "Wšykne dodanki pytaś">
+
+<!ENTITY search.placeholder2                  "Na addons.mozilla.org pytaś">
 <!ENTITY search.buttonlabel                   "Pytaś">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -26,12 +28,13 @@
 <!ENTITY cmd.back.tooltip                     "Jaden bok slědk">
 <!ENTITY cmd.forward.tooltip                  "Jaden bok doprědka">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Někotare rozšyrjenja njejsu dali se wobkšuśiś">
 <!ENTITY showAllExtensions.button.label       "Wšykne rozšyrjenja pokazaś">
 <!ENTITY debugAddons.label                    "Dodanki za zmólkami pśepytowaś">
 <!ENTITY debugAddons.accesskey                "m">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Wšykne dodanki su se pśez wěsty modus znjemóžnili.">
 <!ENTITY warning.checkcompatibility.label          "Pśespytowanje dodankoweje kompatibelnosći jo znjemóžnjone. Jo móžno, až maśo njekompatibelne dodanki.">
 <!ENTITY warning.checkcompatibility.enable.label   "Zmóžniś">
@@ -39,17 +42,17 @@
 <!ENTITY warning.updatesecurity.label              "Pśespytowanje wěstoty aktualizacije jo znjemóžnjone. Jo móžno, až aktualizacije wam wobgrozuju.">
 <!ENTITY warning.updatesecurity.enable.label       "Zmóžniś">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Pśespytowanje wěstoty aktualizacije zmóžniś">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Pytaś">
 <!ENTITY view.discover.label                  "Dodanki wobstaraś">
-<!ENTITY view.recentUpdates.label             "Nejnowše aktualizacije">
+<!ENTITY view.recentUpdates.label             "Nowe aktualizacije">
 <!ENTITY view.availableUpdates.label          "K dispoziciji stojece aktualizacije">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Za aktualizacijami pytaś">
 <!ENTITY updates.checkForUpdates.accesskey    "a">
-<!ENTITY updates.viewUpdates.label            "Nejnowše aktualizacije se woglědaś">
+<!ENTITY updates.viewUpdates.label            "Nowe aktualizacije se woglědaś">
 <!ENTITY updates.viewUpdates.accesskey        "N">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
@@ -74,8 +77,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "K dispoziciji stojece aktualizacije se woglědaś">
 <!ENTITY updates.updateSelected.label         "Aktualizacije instalěrowaś">
 <!ENTITY updates.updateSelected.tooltip       "K dispoziciji stojece aktualizacije z lisćiny instalěrowaś">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Dalšne informacije pokazaś">
 <!ENTITY cmd.showDetails.accesskey            "i">
 <!ENTITY cmd.findUpdates.label                "Aktualizacije pytaś">
@@ -119,15 +122,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Wersijowe informacije schowaś">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Wersijowe informacije za toś tu aktualizaciju schowaś">
 <!ENTITY cmd.findReplacement.label            "Narownanje pytaś">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Co su dodanki?">
 <!ENTITY discover.description2                "Dodanki su nałoženja, z kótarymiž móžośo &brandShortName; z pśidatneju funkcionalnosću abo pśidatnym stilom swójim žycenjam a pótrjebam pśiměriś. Wopytajśo cas žarjecu bócnicu, pśedpowěsć wjedra abo drastwu, aby swój wósobinski &brandShortName; dostał.">
 <!ENTITY discover.footer                      "Gaž sćo z internetom zwězany, buźo toś to wokno wam někotare z lěpšych a nejpopularnjejšych dodankow za wopytowanje póbitowaś.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Wersija">
 <!ENTITY detail.lastupdated.label             "Slědny raz zaktualizěrowany">
 <!ENTITY detail.creator.label                 "Wuwijaŕ">
@@ -156,17 +159,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Nastajenja">
 <!ENTITY detail.showPreferencesUnix.accesskey "N">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Nastajenja toś togo dodanka změniś">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Pógódnośenje">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Zastajiś">
 <!ENTITY progress.cancel.tooltip              "Pśetergnuś">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Mě">
 <!ENTITY sort.name.tooltip                    "Pó mjenju sortěrowaś">
 <!ENTITY sort.dateUpdated.label               "Slědny raz zaktualizěrowany">
@@ -223,12 +226,12 @@
 <!ENTITY eula.accept                          "Akceptěrowaś a instalěrowaś…">
 
 <!ENTITY settings.path.button.label           "Pśepytaś…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Co to jo? Telemetrija móžo wótergi eksperimenty instalěrowaś a běžaś daś.">
 <!ENTITY experiment.info.learnmore "Dalšne informacije">
 <!ENTITY experiment.info.learnmore.accesskey "D">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "Felujo něco? Někotare tykace njepódpěraju se wěcej pśez &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Dalšne informacije.">
 
-<!ENTITY legacyWarning.description "Felujo něco? Někotare rozšyrjenja njepódpěraju se wěcej pśez &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Zestarjone rozšyrjenja pokazaś">
 <!ENTITY legacyExtensions.title "Zestarjone rozšyrjenja">
 <!ENTITY legacyExtensions.description "Toś te rozšyrjenja su se znjemóžnili, dokulaž standardam &brandShortName; njewótpowěduju.">
