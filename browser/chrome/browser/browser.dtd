@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Даслаць спасылку на прыладу">
 <!ENTITY  sendLinkToDevice.accesskey         "п">
 <!ENTITY  sendToDeviceFeedback.label         "Адпраўлена!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "У чарзе (афлайн)">
 <!ENTITY  moveToNewWindow.label              "Перанесці ў новае акно">
 <!ENTITY  moveToNewWindow.accesskey          "а">
 <!ENTITY  bookmarkAllTabs.label              "Закладкі на ўсе карткі…">
@@ -386,10 +387,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочаце пабачыць свае карткі з іншых прылад?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налады сінхранізацыі">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увайдзіце, каб пабачыць спіс картак з іншых сваіх прылад.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ваш уліковы запіс патрабуе пацвярджэння.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Кіраваць прыладамі...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Злучыць іншую прыладу">
 
 <!ENTITY appMenuRecentHighlights.label "Апошнія падсвятленні">
 
@@ -809,6 +812,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Няма сінхранізаваных картак… пакуль!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Хочаце пабачыць вашы карткі з іншых прылад тут?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Увайдзіце, каб бачыць спіс картак з вашых астатніх прылад.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Ваш уліковы запіс патрабуе пацвярджэння.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Няма адкрытых картак">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Адкрыць &syncBrand.shortName.label; Налады">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -816,6 +820,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Уключыце сінхранізацыю картак, каб бачыць спіс картак з вашых іншых прылад.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Шукаць у сінхранізаваных картках">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Злучыць іншую прыладу">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -986,11 +991,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Перазапуск для абнаўлення &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Пашырэнне змяніла старонку, якую вы бачыце, калі адкрылі новую картку. Калі не хочаце гэтых змен, вы можаце аднавіць наладкі.">
+<!ENTITY newTabControlled.header.message "Ваша новая картка была зменена.">
+<!ENTITY newTabControlled.keepButton.label "Замацаваць змены">
+<!ENTITY newTabControlled.keepButton.accesskey "З">
+<!ENTITY newTabControlled.restoreButton.label "Аднавіць наладкі">
+<!ENTITY newTabControlled.restoreButton.accesskey "А">
 
 <!ENTITY pageActionButton.tooltip "Дзеянні старонкі">
 <!ENTITY pageAction.addToUrlbar.label "Дадаць у адрасны радок">
 <!ENTITY pageAction.removeFromUrlbar.label "Выдаліць з адраснага радка">
 
+<!ENTITY pageAction.allowInUrlbar.label "Паказваць у адрасным радку">
+<!ENTITY pageAction.disallowInUrlbar.label "Не паказваць у адрасным радку">
+<!ENTITY pageAction.manageExtension.label "Кіраваць пашырэннямі…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Даслаць картку на прыладу">
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
