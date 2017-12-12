@@ -212,7 +212,7 @@
 <!ENTITY pref_category_experimental "Funkcje eksperymentalne">
 
 <!ENTITY pref_custom_tabs2 "Niestandardowe karty">
-<!ENTITY pref_custom_tabs_summary4 "Aplikacje mogą otwierać strony w szybko wczytywanej niestandardowej karcie.">
+<!ENTITY pref_custom_tabs_summary4 "Aplikacje mogą otwierać strony w szybko wczytywanej niestandardowej karcie">
 
 <!ENTITY custom_tabs_menu_item_open_in "Otwórz w przeglądarce &formatS;">
 <!ENTITY custom_tabs_menu_footer "Funkcja programu &brandShortName;">
