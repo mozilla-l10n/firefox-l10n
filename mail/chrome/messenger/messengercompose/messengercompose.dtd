@@ -85,6 +85,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Ekin adını değiştir…">
 <!ENTITY renameAttachmentCmd.accesskey "n">
+<!ENTITY reorderAttachmentsCmd.label "Eklerin sırasını değiştir…">
+<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Tümünü Seç">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "e">
@@ -102,6 +105,32 @@
 <!ENTITY findPrevCmd.accesskey "Ö">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Eklerin sırasını değiştir">
+<!ENTITY moveAttachmentTopPanelBtn.label "Üste taşı">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "Ü">
+<!ENTITY moveAttachmentUpPanelBtn.label "Yukarı taşı">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "u">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Birlikte taşı">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "B">
+<!ENTITY moveAttachmentDownPanelBtn.label "Aşağı taşı">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "A">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Alta taşı">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "t">
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
+     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
+     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
+     taken from the word "Sort", not from "Selection" or the sort direction part. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Görünüm">
