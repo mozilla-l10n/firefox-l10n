@@ -188,13 +188,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "к">
 
 <!ENTITY backCmd.label                "Назад">
+<!ENTITY backCmd.accesskey            "а">
 <!ENTITY backButton.tooltip           "На предыдущую страницу">
 <!ENTITY forwardCmd.label             "Вперёд">
+<!ENTITY forwardCmd.accesskey         "е">
 <!ENTITY forwardButton.tooltip        "На следующую страницу">
 <!ENTITY backForwardButtonMenu.tooltip "Щёлкните правой кнопкой или потяните вниз для показа истории">
 <!ENTITY backForwardButtonMenuMac.tooltip "Потяните вниз для показа истории">
 <!ENTITY reloadCmd.label              "Обновить">
+<!ENTITY reloadCmd.accesskey          "в">
 <!ENTITY stopCmd.label                "Остановить">
+<!ENTITY stopCmd.accesskey            "н">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Перейти по введённому адресу">
 <!ENTITY printButton.label            "Печать">
@@ -355,6 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Настроить меню и панели инструментов">
 <!ENTITY appMenuCustomizeExit.label "Выход из настройки">
 <!ENTITY appMenuCustomizeExit.tooltip "Завершить настройку">
+
 <!ENTITY appMenuHistory.showAll.label "Показать весь журнал">
 <!ENTITY appMenuHistory.clearRecent.label "Удалить историю…">
 <!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
@@ -388,6 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Войти в Синхронизацию">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление устройствами…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Показать боковую панель облачных вкладок">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Подключить другое устройство">
 
 <!ENTITY appMenuRecentHighlights.label "Последнее Избранное">
 
@@ -564,6 +571,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Сделать фоновым рисунком рабочего стола…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "е">
 <!ENTITY bookmarkPageCmd2.label       "Добавить страницу в закладки">
+<!ENTITY bookmarkPageCmd2.accesskey   "в">
 <!ENTITY bookmarkThisLinkCmd.label      "Добавить ссылку в закладки">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Добавить фрейм в закладки">
@@ -750,6 +758,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.removeBookmark.accessKey       "д">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Защищённое соединение">
 <!ENTITY identity.connectionNotSecure "Незащищённое соединение">
 <!ENTITY identity.connectionFile "Эта страница хранится на вашем компьютере.">
@@ -809,6 +820,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включите синхронизацию вкладок, чтобы увидеть список вкладок с других устройств.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Поиск облачных вкладок">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Подключить другое устройство">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +992,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "е">
 <!ENTITY updateRestart.panelUI.label2 "Перезапустить &brandShorterName; для обновления">
 
+
 <!ENTITY pageActionButton.tooltip "Действия на странице">
 <!ENTITY pageAction.addToUrlbar.label "Добавить на панель адреса">
 <!ENTITY pageAction.removeFromUrlbar.label "Удалить с панели адреса">
+
+<!ENTITY pageAction.allowInUrlbar.label "Отображать на панели адреса">
+<!ENTITY pageAction.disallowInUrlbar.label "Не отображать на панели адреса">
 
 <!ENTITY pageAction.sendTabToDevice.label "Отправить вкладку на устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизация устройств…">
