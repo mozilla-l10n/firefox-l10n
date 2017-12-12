@@ -20,11 +20,15 @@
 <!ENTITY engine.prefsWin.label      "Beállítások">
 <!ENTITY engine.prefs.label         "Beállítások">
 <!ENTITY engine.prefs.accesskey     "B">
+<!ENTITY engine.prefs.title         "Módosított általános, adatvédelmi és biztonsági beállítások">
 <!ENTITY engine.addons.label        "Kiegészítők">
+<!ENTITY engine.addons.title        "Kiterjesztések és témák az asztali Firefoxhoz">
 <!ENTITY engine.addons.accesskey    "K">
 <!ENTITY engine.addresses.label     "Címek">
+<!ENTITY engine.addresses.title     "Mentett postai címek (csak asztali gépen)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Bankkártyák">
+<!ENTITY engine.creditcards.title   "Nevek, számok és lejárati dátumok (csak asztali gépen)">
 <!ENTITY engine.creditcards.accesskey "B">
 
 <!-- Device Settings -->
