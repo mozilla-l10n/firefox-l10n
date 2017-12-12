@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizoni Menunë dhe Panelet">
 <!ENTITY appMenuCustomizeExit.label "Dilni nga Personalizimi">
 <!ENTITY appMenuCustomizeExit.tooltip "Përfundojeni Personalizimin">
+
 <!ENTITY appMenuHistory.showAll.label "Shfaqni Krejt Historikun">
 <!ENTITY appMenuHistory.clearRecent.label "Pastroni Historikun Së Fundi…">
 <!ENTITY appMenuHistory.restoreSession.label "Riktheni Sesionin e Mëparshëm">
@@ -385,9 +386,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Parapëlqime Njëkohësimi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Bëni hyrjen që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Llogaria juaj duhet verifikuar.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hyni në Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administroni Pajisje…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Shihni Anështyllën e Skedave të Njëkohësuara">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Lidhni Një Pajisje Tjetër">
 
 <!ENTITY appMenuRecentHighlights.label "Nxjerrje Në Pah Së Fundi">
 
@@ -750,6 +754,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "U bë">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Siguri Sajti">
+
 <!ENTITY identity.connectionSecure "Lidhje e Sigurt">
 <!ENTITY identity.connectionNotSecure "Lidhja S&apos;është e Sigurt">
 <!ENTITY identity.connectionFile "Kjo është faqe e depozituar në kompjuterin tuaj.">
@@ -803,12 +811,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Ende pa skeda të njëkohësuara!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Bëni hyrjen që të shihni një listë skedash nga pajisjet tuaja të tjera.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Llogaria juaj duhet verifikuar.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "S&apos;ka skeda të hapura">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Hapni Parapëlqimet për &syncBrand.shortName.label;-un">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjeve tuaja të tjera.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Kërko në skeda të njëkohësuara">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Lidhni Një Pajisje Tjetër">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +990,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "J">
 <!ENTITY updateRestart.panelUI.label2 "Që të përditësohet &brandShorterName;-i, riniseni">
 
+<!ENTITY newTabControlled.message "Një zgjerim ka ndryshuar faqen që shihni kur hapni një Skedë të Re. Nëse nuk e doni këtë ndryshim, mund të riktheni rregullimet tuaja të mëparshme.">
+<!ENTITY newTabControlled.header.message "Rregullimet tuaja për Skedë të Re kanë ndryshuar.">
+<!ENTITY newTabControlled.keepButton.label "Mbaji Ndryshimet">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
+<!ENTITY newTabControlled.restoreButton.label "Rikthe Rregullimet">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Veprime faqeje">
 <!ENTITY pageAction.addToUrlbar.label "Shtoje te Shtyllë Adresash">
 <!ENTITY pageAction.removeFromUrlbar.label "Hiqe prej Shtylle Adresash">
+
+<!ENTITY pageAction.allowInUrlbar.label "Shfaqe në Shtyllë Adresash">
+<!ENTITY pageAction.disallowInUrlbar.label "Mos e Shfaq në Shtyllë Adresash">
 
 <!ENTITY pageAction.sendTabToDevice.label "Dërgojeni Skedën në Pajisje">
 <!ENTITY sendToDevice.syncNotReady.label "Po njëkohësohen Pajisje…">

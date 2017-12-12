@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Pyetmë përherë">
 <!ENTITY  permAllow             "Lejoje">
 <!ENTITY  permAllowSession      "Lejoje për Sesionin">
+<!ENTITY  permHide              "Fshihi">
 <!ENTITY  permBlock             "Bllokoje">
 <!ENTITY  permissionsFor        "Leje për:">
 <!ENTITY  permPlugins           "Aktivizo Shtojcat">
