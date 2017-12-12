@@ -13,13 +13,13 @@
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Credenciais">
 <!ENTITY engine.logins.title        "Nomes de utilizador e palavras-passe que guardou">
-<!ENTITY engine.logins.accesskey    "C">
+<!ENTITY engine.logins.accesskey    "i">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Opções">
-<!ENTITY engine.prefsWin.accesskey  "S">
+<!ENTITY engine.prefsWin.accesskey  "p">
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.prefs.title         "Definições gerais, de privacidade, e segurança que alterou">
