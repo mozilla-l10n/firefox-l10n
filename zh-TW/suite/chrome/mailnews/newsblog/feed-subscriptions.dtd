@@ -39,6 +39,7 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "新增">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "更新">
 <!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "移除">
