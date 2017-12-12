@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "me emrin e dërguesit dhe një paraparje të mesazhit">
 <!ENTITY  buddyInfoOnly.label                 "vetëm me emrin e dërguesit">
 <!ENTITY  dummyNotification.label             "pa ndonjë të dhënë">
+<!ENTITY  getAttention.label                  "Xixëlloje objektin e panelit">
+<!ENTITY  getAttention.accesskey              "X">
+<!ENTITY  getAttentionMac.label               "Kryej animacion ikone paneli">
+<!ENTITY  getAttentionMac.accesskey           "a">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Luaj një tingull">
 <!ENTITY  play.label                          "Luaje">

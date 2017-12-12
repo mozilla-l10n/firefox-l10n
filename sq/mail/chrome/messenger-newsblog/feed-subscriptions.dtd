@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "URL Prurjeje: ">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Jepni për Shtim një url të vlefshme prurjeje">
+<!ENTITY feedLocation2.placeholder   "Jepni një url të vlefshme prurjeje">
 <!ENTITY locationValidate.label      "Kontrolloje">
 <!ENTITY validateText.label          "Kontrolloji vlefshmërinë dhe përdor një url të vlefshme.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Shtoni">
 <!ENTITY button.addFeed.accesskey    "S">
+<!ENTITY button.verifyFeed.label     "Verifikoje">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Përditësoje">
 <!ENTITY button.updateFeed.accesskey "P">
 <!ENTITY button.removeFeed.label     "Hiq">
