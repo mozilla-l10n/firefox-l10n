@@ -13,8 +13,8 @@
 <!ENTITY lightning.toolbar.delete.tooltip "Изтриване на избраните събития или задачи">
 <!ENTITY lightning.toolbar.edit.label "Редактиране">
 <!ENTITY lightning.toolbar.edit.tooltip "Редактиране на избраното събитие или задача">
-<!ENTITY lightning.toolbar.gototoday.label "Преход към днешния ден">
-<!ENTITY lightning.toolbar.gototoday.tooltip "Преход към днешния ден">
+<!ENTITY lightning.toolbar.gototoday.label "Отваряне на днешния ден">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Отваряне на днешния ден">
 <!ENTITY lightning.toolbar.print.label "Отпечатване">
 <!ENTITY lightning.toolbar.print.tooltip "Отпечатване на събития или задачи">
 

@@ -57,7 +57,7 @@
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Сортиране по време до крайния срок">
 <!ENTITY calendar.unifinder.close.tooltip                  "Затваряне на търсенето и списъка на събития">
 
-<!ENTITY calendar.today.button.tooltip          "Отиване на днес" >
+<!ENTITY calendar.today.button.tooltip          "Отваряне на днешния ден" >
 <!ENTITY calendar.todaypane.button.tooltip      "Показване на дневния график" >
 
 <!ENTITY calendar.day.button.tooltip            "Превключване към дневен изглед" >
