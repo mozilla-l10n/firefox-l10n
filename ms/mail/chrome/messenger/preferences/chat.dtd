@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "dengan nama pengirim dan previu mesej">
 <!ENTITY  buddyInfoOnly.label                 "dengan nama pengirim sahaja">
 <!ENTITY  dummyNotification.label             "tanpa sebarang info">
+<!ENTITY  getAttention.label                  "Pancar item bar tugasan">
+<!ENTITY  getAttention.accesskey              "P">
+<!ENTITY  getAttentionMac.label               "Animasi ikon dok">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "i">
 <!ENTITY  chatSound.label                     "Mainkan bunyian">
 <!ENTITY  play.label                          "Main">
