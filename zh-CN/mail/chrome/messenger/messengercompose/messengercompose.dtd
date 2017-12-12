@@ -85,6 +85,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "重命名附件…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "重新排列附件…">
+<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "选择全部">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
@@ -102,6 +105,31 @@
 <!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "重新排列附件">
+<!ENTITY moveAttachmentTopPanelBtn.label "移动到顶">
+<!ENTITY moveAttachmentUpPanelBtn.label "向上移动">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "共同移动">
+<!ENTITY moveAttachmentDownPanelBtn.label "向下移动">
+<!ENTITY moveAttachmentBottomPanelBtn.label "移动到底">
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "排序: A - Z">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
+     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
+     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
+     taken from the word "Sort", not from "Selection" or the sort direction part. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "排序: Z - A">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "排序选中: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "排序选中: Z - A">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "查看">
