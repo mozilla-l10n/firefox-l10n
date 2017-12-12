@@ -48,6 +48,8 @@
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "現在起，您只能在行事曆伺服器會安排行程時，才可以在屬性對話框設定好這本行事曆後，啟用此設定。">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "此選項僅在行事曆伺服器安排行程時可以使用。開啟後，將允許透過電子郵件來進行排程，而不經由伺服器管理。">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "接受">
