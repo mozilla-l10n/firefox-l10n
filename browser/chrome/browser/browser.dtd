@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Menüyü ve araç çubuklarını özelleştir">
 <!ENTITY appMenuCustomizeExit.label "Özelleştirmeyi bitir">
 <!ENTITY appMenuCustomizeExit.tooltip "Özelleştirmeyi bitir">
+
 <!ENTITY appMenuHistory.showAll.label "Tüm geçmişi göster">
 <!ENTITY appMenuHistory.clearRecent.label "Yakın geçmişi temizle…">
 <!ENTITY appMenuHistory.restoreSession.label "Önceki oturumu geri yükle">
@@ -385,9 +386,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Eşitleme Tercihleri">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Hesabınızın doğrulanması gerekiyor.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Cihazları yönet…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Kenar çubuğunda göster">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Başka bir cihaz bağla">
 
 <!ENTITY appMenuRecentHighlights.label "Öne çıkanlar">
 
@@ -750,6 +754,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Tamam">
 <!ENTITY editBookmark.removeBookmark.accessKey       "s">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Site Güvenliği">
+
 <!ENTITY identity.connectionSecure "Güvenli bağlantı">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
 <!ENTITY identity.connectionFile "Bu sayfa bilgisayarınızda depolanıyor.">
@@ -803,12 +811,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Henüz eşitlenmiş bir sekme yok.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Hesabınızın doğrulanması gerekiyor.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Açık sekme yok">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; tercihlerini aç">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Diğer cihazlardaki sekmeleri görmek için sekme eşitlemeyi açın.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Eşitlenmiş sekmelerde ara">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Başka bir cihaz bağla">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +990,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "D">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlat">
 
+
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
 <!ENTITY pageAction.addToUrlbar.label "Adres çubuğuna ekle">
 <!ENTITY pageAction.removeFromUrlbar.label "Adres çubuğundan kaldır">
+
+<!ENTITY pageAction.allowInUrlbar.label "Adres çubuğunda göster">
+<!ENTITY pageAction.disallowInUrlbar.label "Adres çubuğunda gösterme">
+<!ENTITY pageAction.manageExtension.label "Eklentiyi yönet…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Sekmeyi cihaza gönder">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar eşitleniyor…">

@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Eklenti Yöneticisi">
 
 <!ENTITY search.placeholder                   "Tüm eklentilerde ara">
+
+<!ENTITY search.placeholder2                  "addons.mozilla.org’da ara">
 <!ENTITY search.buttonlabel                   "Ara">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Önceki sayfaya git">
 <!ENTITY cmd.forward.tooltip                  "Sonraki sayfaya git">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Bazı eklentiler doğrulanamadı">
 <!ENTITY showAllExtensions.button.label       "Tüm eklentileri göster">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "Bir şeyler mi eksik? Bazı yan uygulamalar artık &brandShortName; tarafından desteklenmiyor.">
 <!ENTITY pluginDeprecation.learnMore "Daha fazla bilgi alın.">
 
-<!ENTITY legacyWarning.description "Bir şeyler mi eksik? Bazı eklentiler artık &brandShortName; tarafından desteklenmiyor.">
 <!ENTITY legacyWarning.showLegacy "Eski teknoloji eklentileri göster">
 <!ENTITY legacyExtensions.title "Eski teknoloji eklentiler">
 <!ENTITY legacyExtensions.description "Bu eklentiler yeni &brandShortName; standartlarını karşılamadığı için etkisiz hale getirilmiştir.">

@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanallar">
 <!ENTITY aboutSupport.mediaDeviceRate "Oran">
 <!ENTITY aboutSupport.mediaDeviceLatency "Gecikme">
+
+<!ENTITY aboutSupport.intlTitle "Uluslararasılaştırma ve yerelleştirme">
+<!ENTITY aboutSupport.intlAppTitle "Uygulama ayarları">
+<!ENTITY aboutSupport.intlLocalesRequested "İstenen diller">
+<!ENTITY aboutSupport.intlLocalesAvailable "Mevcut diller">
+<!ENTITY aboutSupport.intlLocalesSupported "Uygulama dilleri">
+<!ENTITY aboutSupport.intlLocalesDefault "Varsayılan dil">
+<!ENTITY aboutSupport.intlOSTitle "İşletim sistemi">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Sistem dilleri">
+<!ENTITY aboutSupport.intlRegionalPrefs "Bölgesel tercihler">
