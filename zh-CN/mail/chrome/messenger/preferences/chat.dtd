@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "带有发送者的名称和消息预览">
 <!ENTITY  buddyInfoOnly.label                 "仅带有发送者的名称">
 <!ENTITY  dummyNotification.label             "不带有任何信息">
+<!ENTITY  getAttention.label                  "刷新任务栏项目">
+<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "动画 Dock 图标">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "播放声音">
 <!ENTITY  play.label                          "播放">

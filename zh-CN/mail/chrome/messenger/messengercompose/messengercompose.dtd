@@ -109,10 +109,15 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "重新排列附件">
 <!ENTITY moveAttachmentTopPanelBtn.label "移动到顶">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "T">
 <!ENTITY moveAttachmentUpPanelBtn.label "向上移动">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "U">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "共同移动">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentDownPanelBtn.label "向下移动">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "D">
 <!ENTITY moveAttachmentBottomPanelBtn.label "移动到底">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "B">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -124,12 +129,16 @@
      sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
      sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
      taken from the word "Sort", not from "Selection" or the sort direction part. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "o">
 <!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "排序: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "o">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "排序选中: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "o">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "排序选中: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "查看">
@@ -311,6 +320,8 @@
 <!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "重命名…">
 <!ENTITY renameAttachment.accesskey "R">
+<!ENTITY reorderAttachments.label "重新排列附件…">
+<!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY selectAll.label "选择全部">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "附件…">
