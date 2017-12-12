@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Hivatkozás küldése eszközre">
 <!ENTITY  sendLinkToDevice.accesskey         "e">
 <!ENTITY  sendToDeviceFeedback.label         "Elküldve!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Sorba állítva (offline)">
 <!ENTITY  moveToNewWindow.label              "Áthelyezés új ablakba">
 <!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Minden lap egy könyvjelzőbe…">
@@ -355,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "A menü és az eszköztárak testreszabása">
 <!ENTITY appMenuCustomizeExit.label "Kilépés a testreszabásból">
 <!ENTITY appMenuCustomizeExit.tooltip "Testreszabás befejezése">
+
 <!ENTITY appMenuHistory.showAll.label "Minden előzmény megjelenítése">
 <!ENTITY appMenuHistory.clearRecent.label "Előzmények törlése…">
 <!ENTITY appMenuHistory.restoreSession.label "Előző munkamenet helyreállítása">
@@ -385,9 +387,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Szeretné a más eszközein megnyitott lapjait itt látni?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Szinkronizálás beállításai">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
+<!ENTITY appMenuRemoteTabs.unverified.label "A fiókját ellenőrizni kell.">
 <!ENTITY appMenuRemoteTabs.signin.label "Bejelentkezés a Syncbe">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Eszközök kezelése…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Szinkronizált lapok oldalsáv">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Másik eszköz csatlakoztatása">
 
 <!ENTITY appMenuRecentHighlights.label "Friss kiemelések">
 
@@ -750,6 +755,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Kész">
 <!ENTITY editBookmark.removeBookmark.accessKey       "E">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Webhely biztonsága">
+
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
 <!ENTITY identity.connectionNotSecure "A kapcsolat nem biztonságos">
 <!ENTITY identity.connectionFile "Ez az oldal a számítógépén van tárolva.">
@@ -803,12 +812,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nincs szinkronizált lap… még!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Szeretné a más eszközein megnyitott lapjait itt látni?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "A fiókját ellenőrizni kell.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nincsenek nyitott lapok">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "A &syncBrand.shortName.label; beállításainak megnyitása">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kapcsolja be a lapszinkronizálást a más készülékeiről származó lapok listájának megjelenítéséhez.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Szinkronizált lapok keresése">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Másik eszköz csatlakoztatása">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +991,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "M">
 <!ENTITY updateRestart.panelUI.label2 "Újraindítás a &brandShorterName; frissítéséhez">
 
+<!ENTITY newTabControlled.message "Egy kiterjesztés megváltoztatta a lapot, amely az Új lap megnyitásakor fogadja. Visszaállíthatja a beállításokat, ha nem szeretné ezt a változást.">
+<!ENTITY newTabControlled.header.message "Az Új lap megváltozott.">
+<!ENTITY newTabControlled.keepButton.label "Módosítások megtartása">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
+<!ENTITY newTabControlled.restoreButton.label "Beállítások visszaállítása">
+<!ENTITY newTabControlled.restoreButton.accesskey "v">
+
 <!ENTITY pageActionButton.tooltip "Oldal műveletek">
 <!ENTITY pageAction.addToUrlbar.label "Hozzáadás a címsávhoz">
 <!ENTITY pageAction.removeFromUrlbar.label "Eltávolítás a címsávból">
+
+<!ENTITY pageAction.allowInUrlbar.label "Megjelenítés a címsávban">
+<!ENTITY pageAction.disallowInUrlbar.label "Ne jelenjen meg a címsávban">
+<!ENTITY pageAction.manageExtension.label "Kiterjesztés kezelése…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Lap küldése eszközre">
 <!ENTITY sendToDevice.syncNotReady.label "Eszközök szinkronizálása…">
