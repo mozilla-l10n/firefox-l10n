@@ -113,10 +113,14 @@
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "w">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Przenieś na dół">
 <!ENTITY moveAttachmentBottomPanelBtn.accesskey "d">
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Sortuj zaznaczone: A-Z">
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "S">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Sortuj zaznaczone: Z-A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "S">
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Sortuj: A-Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "S">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Sortuj: Z-A">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "S">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Sortuj zaznaczone: A-Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "S">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Sortuj zaznaczone: Z-A">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "S">
 
 <!ENTITY viewMenu.label "Widok">
 <!ENTITY viewMenu.accesskey "W">
