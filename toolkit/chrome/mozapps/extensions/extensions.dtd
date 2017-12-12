@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Управление на добавки">
 
 <!ENTITY search.placeholder                   "Търсене във всички добавки">
+
+<!ENTITY search.placeholder2                  "Търсене в addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Търсене">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Връщане една страница назад">
 <!ENTITY cmd.forward.tooltip                  "Отиване една страница напред">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Някои разширения не можаха да бъдат проверени">
 <!ENTITY showAllExtensions.button.label       "Показване на всички разширения">
