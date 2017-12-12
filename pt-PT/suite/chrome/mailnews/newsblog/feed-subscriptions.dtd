@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "URL da fonte:">
 <!ENTITY feedLocation.accesskey      "f">
 <!ENTITY feedLocation.placeholder    "Introduza um URL para adicionar a fonte">
+<!ENTITY feedLocation2.placeholder   "Introduza um url de fonte válido">
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Validar e obter um URL válido.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Adicionar">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.label     "Verificar">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Editar">
 <!ENTITY button.updateFeed.accesskey "E">
 <!ENTITY button.removeFeed.label     "Remover">
