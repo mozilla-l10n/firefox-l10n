@@ -33,6 +33,10 @@
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
+<!ENTITY event.attendees.notify.label                "დამსწრეებისთვის შეტყობინება">
+<!ENTITY event.attendees.notify.accesskey            "წ">
+<!ENTITY event.attendees.notifyundisclosed.label     "თითოეული დამსწრის ცალ-ცალკე მოწვევა">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "ც">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
