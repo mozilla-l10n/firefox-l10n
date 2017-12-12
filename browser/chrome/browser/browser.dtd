@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "خصّص القائمة و أشرطة الأدوات">
 <!ENTITY appMenuCustomizeExit.label "أغلق التخصيص">
 <!ENTITY appMenuCustomizeExit.tooltip "أنهِ التخصيص">
+
 <!ENTITY appMenuHistory.showAll.label "أظهر كل التأريخ">
 <!ENTITY appMenuHistory.clearRecent.label "امسح التأريخ الحالي…">
 <!ENTITY appMenuHistory.restoreSession.label "استعد الجلسة السابقة">
@@ -388,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
 <!ENTITY appMenuRemoteTabs.managedevices.label "أدِر الأجهزة…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "أظهر شريط الألسنة المزامَنة الجانبي">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "صِلْ جهازا آخر">
 
 <!ENTITY appMenuRecentHighlights.label "آخر الأخبار المهمة">
 
@@ -750,6 +753,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "تمّ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ع">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "أمن الموقع">
+
 <!ENTITY identity.connectionSecure "اتصال آمن">
 <!ENTITY identity.connectionNotSecure "الاتصال غير آمن">
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
@@ -809,6 +816,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "فعّل مزامنة الألسنة لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ابحث في الألسنة المُزامنة">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "صِلْ جهازا آخر">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +988,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ل">
 <!ENTITY updateRestart.panelUI.label2 "أعد التشغيل لتحديث &brandShorterName;">
 
+<!ENTITY newTabControlled.message "ثمة امتداد غيّر الصفحة التي تراها عند فتح لسان جديد. يمكنك استعادة الإعداد السابق إن لم تقبل بهذا التغيير.">
+<!ENTITY newTabControlled.header.message "لقد تغيرت صفحة اللسان الجديد.">
+<!ENTITY newTabControlled.keepButton.label "أبقِ التغييرات">
+<!ENTITY newTabControlled.keepButton.accesskey "غ">
+<!ENTITY newTabControlled.restoreButton.label "استعد ما كان">
+<!ENTITY newTabControlled.restoreButton.accesskey "ك">
+
 <!ENTITY pageActionButton.tooltip "إجراءات الصفحة">
 <!ENTITY pageAction.addToUrlbar.label "أضف إلى شريط العناوين">
 <!ENTITY pageAction.removeFromUrlbar.label "أزل من شريط العناوين">
+
+<!ENTITY pageAction.allowInUrlbar.label "اعرض في شريط العنوان">
+<!ENTITY pageAction.disallowInUrlbar.label "لا تعرض في شريط العنوان">
+<!ENTITY pageAction.manageExtension.label "أدِر الامتدادات…">
 
 <!ENTITY pageAction.sendTabToDevice.label "أرسل اللسان إلى جهاز">
 <!ENTITY sendToDevice.syncNotReady.label "يُزامن الأجهزة…">
