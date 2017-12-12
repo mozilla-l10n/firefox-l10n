@@ -44,6 +44,7 @@
 <!ENTITY aboutNetworking.rcwn                  "Gjendje RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Gjendje RCWN">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Numër gjithsej kërkesash rrjeti">
+<!ENTITY aboutNetworking.rcwnOperation         "Veprim Fshehtine">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Hape">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Lexim">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Shkrim">
