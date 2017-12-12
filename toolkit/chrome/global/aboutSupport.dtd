@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Csatornák">
 <!ENTITY aboutSupport.mediaDeviceRate "Sebesség">
 <!ENTITY aboutSupport.mediaDeviceLatency "Késleltetés">
+
+<!ENTITY aboutSupport.intlTitle "Nemzetköziesítés és honosítás">
+<!ENTITY aboutSupport.intlAppTitle "Alkalmazásbeállítások">
+<!ENTITY aboutSupport.intlLocalesRequested "Kért területi beállítások">
+<!ENTITY aboutSupport.intlLocalesAvailable "Rendelkezésre álló területi beállítások">
+<!ENTITY aboutSupport.intlLocalesSupported "Alkalmazás területi beállításai">
+<!ENTITY aboutSupport.intlLocalesDefault "Alapértelmezett területi beállítás">
+<!ENTITY aboutSupport.intlOSTitle "Operációs rendszer">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Rendszer területi beállításai">
+<!ENTITY aboutSupport.intlRegionalPrefs "Területi beállítások">
