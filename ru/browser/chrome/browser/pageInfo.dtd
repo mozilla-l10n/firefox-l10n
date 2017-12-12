@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Всегда спрашивать">
 <!ENTITY  permAllow             "Разрешить">
 <!ENTITY  permAllowSession      "Разрешить на сессию">
+<!ENTITY  permHide              "Скрыть">
 <!ENTITY  permBlock             "Блокировать">
 <!ENTITY  permissionsFor        "Разрешения для:">
 <!ENTITY  permPlugins           "Включать плагины">
