@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "z mjenom wotpósłarja a powěsćowym přehladom">
 <!ENTITY  buddyInfoOnly.label                 "jenož z mjenom wotpósłarja">
 <!ENTITY  dummyNotification.label             "bjez někajkich informacijow">
+<!ENTITY  getAttention.label                  "Zapisk nadawkoweje lajsty zablendować">
+<!ENTITY  getAttention.accesskey              "Z">
+<!ENTITY  getAttentionMac.label               "Dokowy symbol animěrować">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "h">
 <!ENTITY  chatSound.label                     "Zynk wothrać">
 <!ENTITY  play.label                          "Wothrać">
