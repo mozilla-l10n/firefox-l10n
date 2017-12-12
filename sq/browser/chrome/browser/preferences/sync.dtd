@@ -22,11 +22,15 @@
 <!ENTITY engine.prefsWin.accesskey  "M">
 <!ENTITY engine.prefs.label         "Parapëlqime">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.prefs.title         "Të dhëna të Përgjithshme, Privatësie dhe Sigurie që i keni ndryshuar ju">
 <!ENTITY engine.addons.label        "Shtesat e Mia">
+<!ENTITY engine.addons.title        "Zgjerime dhe tema për Firefox Desktop">
 <!ENTITY engine.addons.accesskey    "t">
 <!ENTITY engine.addresses.label     "Adresa">
+<!ENTITY engine.addresses.title     "Adresa postare që keni ruajtur (vetëm për desktop)">
 <!ENTITY engine.addresses.accesskey "A">
 <!ENTITY engine.creditcards.label   "Karta krediti">
+<!ENTITY engine.creditcards.title   "Emra, numra dhe data skadimi (vetëm për desktop)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
