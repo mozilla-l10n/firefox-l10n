@@ -983,9 +983,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.label "Sker i tikkelt-nniḍen imir err-d">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Mačči tura">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt-nniḍen akken ad tleqmeḍ&brandShorterName;">
+<!ENTITY updateRestart.cancelButton.accesskey "T">
+<!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt-nniḍen akken ad tleqqmeḍ&brandShorterName;">
 
+<!ENTITY newTabControlled.message "Yiwen n usiɣzef ibeddel asebter-a i tettwaliḍ mi teldiḍ iccer amaynut. Tzemreḍ ad d-terreḍ iɣewwaren-ik ma ur k-yeɛǧib ara ubeddel-agi.">
+<!ENTITY newTabControlled.header.message "Iccer-ik amaynut ibeddel.">
+<!ENTITY newTabControlled.keepButton.label "Ḥrez abeddel">
+<!ENTITY newTabControlled.keepButton.accesskey "Ḥ">
+<!ENTITY newTabControlled.restoreButton.label "Err-d iɣewwaren">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
 <!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ imedlis n tensa">
