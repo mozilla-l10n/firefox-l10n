@@ -12,6 +12,12 @@
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "登入資訊">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "選項">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "偏好設定">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "附加元件">

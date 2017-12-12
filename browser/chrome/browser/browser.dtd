@@ -188,13 +188,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "上一頁">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "回到上一頁">
 <!ENTITY forwardCmd.label             "下一頁">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "前進下一頁">
 <!ENTITY backForwardButtonMenu.tooltip "按滑鼠右鍵或長按以顯示歷史記錄">
 <!ENTITY backForwardButtonMenuMac.tooltip "長按以顯示歷史記錄">
 <!ENTITY reloadCmd.label              "重新載入">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "停止">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "按此前往網址列中的網址">
 <!ENTITY printButton.label            "列印">
@@ -355,6 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "自訂選單與工具列">
 <!ENTITY appMenuCustomizeExit.label "結束自訂模式">
 <!ENTITY appMenuCustomizeExit.tooltip "完成自訂">
+
 <!ENTITY appMenuHistory.showAll.label "顯示所有瀏覽記錄">
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的歷史記錄…">
 <!ENTITY appMenuHistory.restoreSession.label "回復先前的瀏覽狀態">
@@ -385,9 +390,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "想在這裡看到您其他裝置上開啟的分頁嗎？">
 <!ENTITY appMenuRemoteTabs.openprefs.label "同步偏好設定">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登入以檢視您其他裝置中的分頁清單。">
+<!ENTITY appMenuRemoteTabs.unverified.label "需要驗證您的帳號。">
 <!ENTITY appMenuRemoteTabs.signin.label "登入至 Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理裝置…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "檢視「已同步的分頁」側邊欄">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "連結其他裝置">
 
 <!ENTITY appMenuRecentHighlights.label "近期焦點">
 
@@ -564,6 +572,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "設為桌布…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "將本頁加入書籤">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "將此鏈結加入書籤">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "將此頁框加入書籤">
@@ -750,6 +759,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "完成">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "網站安全性">
+
 <!ENTITY identity.connectionSecure "安全連線">
 <!ENTITY identity.connectionNotSecure "連線不安全">
 <!ENTITY identity.connectionFile "此頁面位於您的電腦上。">
@@ -803,12 +816,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "還沒有同步過來的分頁！">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "想在這裡看到您其他裝置上開啟的分頁嗎？">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "登入以檢視您其他裝置中的分頁清單。">
+<!ENTITY syncedTabs.sidebar.unverified.label   "需要驗證您的帳號。">
 <!ENTITY syncedTabs.sidebar.notabs.label       "無已開啟的分頁">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "開啟 &syncBrand.shortName.label; 偏好設定">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "開啟分頁同步功能以檢視您其他裝置中的分頁清單。">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "搜尋同步的分頁">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "連結其他裝置">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +995,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "重新啟動以更新 &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "您的「新分頁」已經變更。">
+<!ENTITY newTabControlled.keepButton.label "保留不變">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "還原設定">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "頁面操作">
 <!ENTITY pageAction.addToUrlbar.label "新增至網址列">
 <!ENTITY pageAction.removeFromUrlbar.label "從網址列移除">
+
+<!ENTITY pageAction.allowInUrlbar.label "在網址列顯示">
+<!ENTITY pageAction.disallowInUrlbar.label "不要在網址列顯示">
+<!ENTITY pageAction.manageExtension.label "管理擴充套件…">
 
 <!ENTITY pageAction.sendTabToDevice.label "將分頁傳送至裝置">
 <!ENTITY sendToDevice.syncNotReady.label "正在同步裝置…">
