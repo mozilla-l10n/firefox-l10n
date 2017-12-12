@@ -155,6 +155,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "采样率">
 <!ENTITY aboutSupport.mediaDeviceLatency "延迟">
 
+<!ENTITY aboutSupport.intlTitle "国际化与本地化">
 <!ENTITY aboutSupport.intlAppTitle "应用程序设置">
 <!ENTITY aboutSupport.intlLocalesRequested "需要的语言环境">
 <!ENTITY aboutSupport.intlLocalesAvailable "可用的语言环境">
