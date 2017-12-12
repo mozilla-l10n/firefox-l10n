@@ -76,7 +76,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.accesskey "у">
 <!ENTITY printPreviewCmd.label "Преглед пре штампе">
 <!ENTITY printPreviewCmd.accesskey "т">
-<!ENTITY printCmd.label "Штампа…">
+<!ENTITY printCmd.label "Штампај…">
 <!ENTITY printCmd.accesskey "Ш">
 <!ENTITY printCmd.commandkey "p">
 
