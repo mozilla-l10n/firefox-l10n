@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Shamupay">
+<!ENTITY firstrun_urlbar_message2 "Akllashkamanta pagrachuni &brandShortName;">
 <!ENTITY firstrun_bookmarks_title "Mawka pankakuna">
 <!ENTITY firstrun_bookmarks_message "Kanpak allikachishka, ñawpaman chawpipash">
 <!ENTITY firstrun_bookmarks_subtext "Tarini kutinchiykuna kanpak akllashka pankakunamanta mawka pankakunapash hayka shinanki mashkanakuna.">
