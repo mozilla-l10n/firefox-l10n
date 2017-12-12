@@ -71,8 +71,15 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Merrni lajme, marifete dhe burime zhvilluesish drejt e te email-i juaj.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Email">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Nuk e kam problem trajtimin e këtyre të dhënave nga Mozilla ashtu si shpjegohet te këto <a class='external' href='https://www.mozilla.org/privacy/'>Rregulla Privatësie</a>.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Pajtohuni">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Faleminderit!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Nëse s’e keni ripohuar më parë pajtimin te një buletin i Mozilla-s, mund t’ju duhet ta bëni. Ju lutemi, kontrolloni email-et e marrë ose filtrin tuaj për mesazhe të padëshiruar për një email prej nesh.">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Po kërkoni për më tepër se thjesht Mjete Zhvilluesi? Shihni shfletuesin tonë Firefox të ndërtuar posaçërisht për zhvillues dhe rrjedha pune moderne.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
+<!ENTITY  aboutDevtools.footer.learnMoreLink "Mësoni më tepër">
 
