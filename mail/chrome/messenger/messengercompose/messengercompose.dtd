@@ -85,6 +85,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Riemërtojeni Bashkëngjitjen…">
 <!ENTITY renameAttachmentCmd.accesskey "R">
+<!ENTITY reorderAttachmentsCmd.label "Rirenditni Bashkëngjitjet…">
+<!ENTITY reorderAttachmentsCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "K">
@@ -102,6 +105,40 @@
 <!ENTITY findPrevCmd.accesskey "m">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Rirenditni Bashkëngjitje">
+<!ENTITY moveAttachmentTopPanelBtn.label "Kaloje në Krye">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "y">
+<!ENTITY moveAttachmentUpPanelBtn.label "Ngjite Sipër">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "S">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Lëvizi bashkë">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "b">
+<!ENTITY moveAttachmentDownPanelBtn.label "Zbrite Poshtë">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "P">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Kaloje në Fund">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "u">
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Renditje: A - Z">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
+     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
+     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
+     taken from the word "Sort", not from "Selection" or the sort direction part. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "d">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Rend: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "d">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Përzgjedhje Renditjeje: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "d">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Përzgjedhje Renditjeje: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "d">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Shfaqje">
@@ -283,6 +320,8 @@
 <!ENTITY removeAttachment.accesskey "H">
 <!ENTITY renameAttachment.label "Riemërtojeni…">
 <!ENTITY renameAttachment.accesskey "R">
+<!ENTITY reorderAttachments.label "Rirenditni Bashkëngjitjet…">
+<!ENTITY reorderAttachments.accesskey "e">
 <!ENTITY selectAll.label "Përzgjidhe Krejt">
 <!ENTITY selectAll.accesskey "T">
 <!ENTITY attachFile.label "Bashkëngjitni Kartelë(a)…">
