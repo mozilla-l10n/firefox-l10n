@@ -1,45 +1,57 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 <!-- Tools menu -->
-
-
 <!ENTITY lightning.preferencesLabel "Protyka">
-<!-- New menu popup in File menu -->
 
+<!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Podawk…">
 <!ENTITY lightning.menupopup.new.event.accesskey "P">
 <!ENTITY lightning.menupopup.new.task.label     "Nadawk…">
 <!ENTITY lightning.menupopup.new.task.accesskey "N">
 <!ENTITY lightning.menupopup.new.calendar.label "Protyka…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "t">
-<!-- Open menu popup in File menu -->
 
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Wočinić">
 <!ENTITY lightning.menupopup.open.accesskey           "o">
 <!ENTITY lightning.menupopup.open.message.label       "Składowana powěsć…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "p">
 <!ENTITY lightning.menupopup.open.calendar.label      "Protykowa dataja…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "P">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "Protyka">
 <!ENTITY lightning.menu.view.calendar.accesskey        "r">
 <!ENTITY lightning.menu.view.tasks.label               "Nadawki">
 <!ENTITY lightning.menu.view.tasks.accesskey           "k">
-<!-- Events and Tasks menu -->
 
+<!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Podawki a nadawki">
 <!ENTITY lightning.menu.eventtask.accesskey            "d">
+
 <!-- properties dialog, calendar creation wizard -->
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "E-mejl:">
 
-<!ENTITY lightning.calendarproperties.email.label               "E-mejl:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "E-mejlowe planowanje ze strony klienta preferować">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Mjeztym móžeće to jenož zmóžnić, po tym zo sće tutu protyku w dialogu kajkosćow konfigurował, jeli so protykowy serwer wo planowanje stara.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Tuta móžnosć je jenož k dispoziciji, jeli protykowy serwer planowanje přewjedźe. Hdyž ju zmóžnjeće, móžeće na planowanje na zakładźe standardneje e-mejle wróćo sahać, mjeztym zo byšće so na serwer spušćił.">
+
 <!-- iMIP Bar (meeting support) -->
-
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Akceptować">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Přeprošenje k podawkej akceptować">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Wšě akceptować">
@@ -71,17 +83,17 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Aktualizować">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Podawk w protyce aktualizować">
 <!ENTITY lightning.imipbar.description                                      "Tuta powěsć přeprošenje na podawk wobsahuje.">
-<!-- Lightning specific keybindings -->
 
+<!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
+
 <!-- Account Central page -->
-
 <!ENTITY lightning.acctCentral.newCalendar.label "Nowu protyku wutworić">
-<!-- today-pane-specific -->
 
+<!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Měsačny přehlad pokazać">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "Dnjowy přehlad pokazać">
