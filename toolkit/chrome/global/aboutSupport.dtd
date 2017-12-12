@@ -157,3 +157,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlTitle "Internacionalização &amp; Localização">
 <!ENTITY aboutSupport.intlAppTitle "Configurações do aplicativo">
 <!ENTITY aboutSupport.intlLocalesRequested "Idiomas solicitados">
+<!ENTITY aboutSupport.intlLocalesAvailable "Idiomas disponíveis">
+<!ENTITY aboutSupport.intlLocalesSupported "Idiomas do aplicativo">
+<!ENTITY aboutSupport.intlLocalesDefault "Idioma padrão">
+<!ENTITY aboutSupport.intlOSTitle "Sistema operacional">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Idiomas do sistema">
+<!ENTITY aboutSupport.intlRegionalPrefs "Preferências regionais">
