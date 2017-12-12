@@ -1,0 +1,78 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : This file contains the strings used in aboutdevtools.xhtml,
+  -  displayed when going to about:devtools. UI depends on the value of the preference
+  -  "devtools.enabled".
+  -
+  -  "aboutDevtools.enable.*" and "aboutDevtools.newsletter.*" keys are used when DevTools
+     are disabled
+  -  "aboutDevtools.welcome.*" keys are used when DevTools are enabled
+  - -->
+
+<!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "Rreth Mjeteve të Zhvilluesit">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
+  -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Aktivizoni Mjete Zhvilluesi Firefox">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
+  -  section displayed when devtools are disabled and the user triggered DevTools by using
+  -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Që të përdorni Inspekto Element, aktivizoni Mjete Zhvilluesi Firefox">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
+  -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Ekzaminoni dhe përpunoni HTML dhe CSS me mbikëqërysin e Mjeteve të Zhvilluesit.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
+  -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Zhvilloni dhe diagnostikoni WebExtensions, web workers, service workers, etj me Mjete Zhvilluesi Firefox.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
+  -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Aktivizuat një shkurtore Mjetesh Zhvilluesi. Nëse kjo qe gabim, mund ta mbyllni këtë Skedë.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
+  -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Ekzaminoni, përpunoni dhe diagnostikoni HTML, CSS, dhe JavaScript me mjete si Mbikëqyrësi dhe Diagnostikuesi.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
+  -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Përsosni HTML-në, CSS-në, dhe JavaScript-in e sajtit tuaj me mjete si Mbikëqyrësi dhe Diagnostikuesi.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
+  -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Mjetet e Zhvilluesit Firefox, si parazgjedhje, janë të çaktivizuara, për t’ju dhënë më tepër kontroll mbi shfletuesin tuaj.">
+
+<!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
+  -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
+  -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Mësoni më tepër rreth Mjetesh Zhvilluesi">
+
+<!ENTITY  aboutDevtools.enable.enableButton "Aktivizoni Mjete Zhvilluesi">
+<!ENTITY  aboutDevtools.enable.closeButton "Mbylle këtë faqe">
+
+<!ENTITY  aboutDevtools.enable.closeButton2 "Mbylle këtë Skedë">
+
+<!ENTITY  aboutDevtools.welcome.title "Mirë se vini te Mjete Zhvilluesi Firefox!">
+
+<!ENTITY  aboutDevtools.newsletter.title "Buletini i Zhvilluesve Mozilla">
+<!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
+  -  The newsletter is only available in english at the moment.
+  -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Merrni lajme, marifete dhe burime zhvilluesish drejt e te email-i juaj.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Email">
+
+
+<!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
+  -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
+
