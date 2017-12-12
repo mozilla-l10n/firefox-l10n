@@ -808,6 +808,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Ulac accaren yemtawin… yakan!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Amiḍan-ik yeḥwaǧ ad ittusenqed.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ulac accaren yeldin">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ldi ismenyifen n &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -909,16 +910,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Kkes armad n ummesten n tɣimit-a">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "K">
-<!ENTITY trackingProtection.block2.label "Rmed amesten">
+<!ENTITY trackingProtection.unblockPrivate.label "Sens ammesten i tɣimit-a">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "N">
+<!ENTITY trackingProtection.block2.label "Rmed ammesten">
 <!ENTITY trackingProtection.block2.accesskey "R">
 
-<!ENTITY pluginNotification.showAll.label "Sken imeṛṛa">
+<!ENTITY pluginNotification.showAll.label "Sken kullec">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Rmed tura">
+<!ENTITY pluginActivateNow.label "Sireg tura">
 <!ENTITY pluginActivateAlways.label "Sireg u cfu">
 <!ENTITY pluginBlockNow.label "Sewḥel azegrir">
 
@@ -935,9 +936,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 <!ENTITY panicButton.view.mainTimeframeDesc       "Sfeḍ:">
-<!ENTITY panicButton.view.5min                    "Semus n tesdatin">
-<!ENTITY panicButton.view.2hr                     "Sin isragen">
-<!ENTITY panicButton.view.day                     "24 n yesragen">
+<!ENTITY panicButton.view.5min                    "Semmus n tesdatin">
+<!ENTITY panicButton.view.2hr                     "Sin yisragen">
+<!ENTITY panicButton.view.day                     "24 n yisragen">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
@@ -952,33 +953,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "Ulac tuɣalin ɣer deffir.">
 <!ENTITY panicButton.view.forgetButton            "Sfeḍ!">
 
-<!ENTITY panicButton.thankyou.msg1                "Amazray-inek n melmi kan yesfeḍ.">
-<!ENTITY panicButton.thankyou.msg2                "Tunigin igarrezen!">
+<!ENTITY panicButton.thankyou.msg1                "Amazray-ik n melmi kan yesfeḍ.">
+<!ENTITY panicButton.thankyou.msg2                "Tunigin igerrzen!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Tanemmirt!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Issin ugar ɣef DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Lqqem &brandShorterName; inek akken ad tesεu timahalin timaynutin di truradt akked tbaḍnit.">
+<!ENTITY updateAvailable.message "Leqqem &brandShorterName; inek akken ad tesεu timahalin timaynutin di truradt akked tbaḍnit.">
 <!ENTITY updateAvailable.whatsnew.label "Wali amaynut.">
 <!ENTITY updateAvailable.header.message "Illa lqem amaynut &brandShorterName;">
 <!ENTITY updateAvailable.acceptButton.label "Sider lqem">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Mačči tura">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.cancelButton.accesskey "T">
 <!ENTITY updateAvailable.panelUI.label "Sider lqem n &brandShorterName;">
 
-<!ENTITY updateManual.message "Sali-d lqem aneggaru n &brandShorterName; sakin ad k-nmud tallalt akken ad tt-saliḍt.">
+<!ENTITY updateManual.message "Sider lqem aneggaru n &brandShorterName; sakin ad k-nɛiwen ad t-tesbeddeḍ.">
 <!ENTITY updateManual.whatsnew.label "Wali amaynut.">
 <!ENTITY updateManual.header.message "&brandShorterName; ur izmir ara ad ilqem ɣer lqem aneggaru.">
 <!ENTITY updateManual.acceptButton.label "Sider &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "Mačči tura">
-<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.cancelButton.accesskey "T">
 <!ENTITY updateManual.panelUI.label "Sider anɣel amaynut n &brandShorterName;">
 
-<!ENTITY updateRestart.message2 "Seld asker arurad, &brandShorterName; ad d-yerr akk iccaren yeldin akked isfayluyen ur nelli ara deg uskar n tunigin tusligt.">
-<!ENTITY updateRestart.header.message2 "Sker i tikkelt-nniḍen akken ad tleqmeḍ &brandShorterName;.">
+<!ENTITY updateRestart.message2 "Seld askar arurad, &brandShorterName; ad d-yerr akk accaren yeldin akked yisfayluyen ur nelli ara deg uskar n tunigin tusligt.">
+<!ENTITY updateRestart.header.message2 "Sker i tikkelt-nniḍen akken ad tleqqmeḍ &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Sker i tikkelt-nniḍen imir err-d">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Mačči tura">
