@@ -4,7 +4,7 @@
 
 <!ENTITY adaptiveJunkLog.title "Дневник на нежеланата поща">
 <!ENTITY adaptiveJunkLogInfo.label "Журнал за действията при разпознаване на нежелана поща.">
-<!ENTITY clearLog.label "Изчистване на дневника">
+<!ENTITY clearLog.label "Изчистване на журнала">
 <!ENTITY clearLog.accesskey "И">
 <!ENTITY closeLog.label "Затваряне">
 <!ENTITY closeLog.accesskey "З">

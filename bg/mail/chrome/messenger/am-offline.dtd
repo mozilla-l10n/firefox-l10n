@@ -23,7 +23,7 @@
 <!ENTITY retentionCleanupPop.label "За освобождаване на дисково пространство, старите писма може да бъдат изтривани необратимо, включително оригиналите на отдалечения сървър.">
 <!ENTITY retentionKeepMsg.label "Изтриване на писма на повече от">
 <!ENTITY retentionKeepMsg.accesskey "м">
-<!ENTITY retentionKeepAll.label "Не се изтриват никакви писма">
+<!ENTITY retentionKeepAll.label "Никакви писма да не бъдат изтривани">
 <!ENTITY retentionKeepAll.accesskey "Н">
 <!ENTITY retentionKeepRecent.label "Изтриване на всички без най-новите">
 <!ENTITY retentionKeepRecent.accesskey "в">

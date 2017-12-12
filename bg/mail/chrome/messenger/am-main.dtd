@@ -11,7 +11,7 @@
 <!ENTITY identityDesc.label "Всяка регистрация е уникална. Това е информация, която другите виждат, четейки вашите писма.">
 <!ENTITY name.label "Вашето име:">
 <!ENTITY name.accesskey "В">
-<!ENTITY email.label "Адрес на е-поща:">
+<!ENTITY email.label "Адрес на ел. поща:">
 <!ENTITY email.accesskey "А">
 <!ENTITY replyTo.label "Адрес за отговор:">
 <!ENTITY replyTo.accesskey "р">
