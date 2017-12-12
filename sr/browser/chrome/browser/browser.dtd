@@ -996,14 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Рестартуј да се &brandShorterName; ажурира">
 
-<!ENTITY newTabControlled.message "Екстензија је променила подразумевану страницу новог језичка. Можете повратити ваше поставке ако не желите ову промену странице.">
+<!ENTITY newTabControlled.message "Екстензија је променила подразумевану страницу новог језичка. Можете вратити ваше поставке ако не желите ову промену странице.">
 <!ENTITY newTabControlled.header.message "Ваша страница новог језичка се променила.">
 <!ENTITY newTabControlled.keepButton.label "Задржи промене">
+<!ENTITY newTabControlled.keepButton.accesskey "З">
+<!ENTITY newTabControlled.restoreButton.label "Врати поставке">
+<!ENTITY newTabControlled.restoreButton.accesskey "В">
 
 <!ENTITY pageActionButton.tooltip "Радње странице">
 <!ENTITY pageAction.addToUrlbar.label "Додај адресној траци">
 <!ENTITY pageAction.removeFromUrlbar.label "Уклони са адресне траке">
 
+<!ENTITY pageAction.allowInUrlbar.label "Прикажи у адресној траци">
+<!ENTITY pageAction.disallowInUrlbar.label "Немој приказати у адресној траци">
+<!ENTITY pageAction.manageExtension.label "Управљај екстензијама…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Пошаљи језичак на уређај">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизујем уређаје…">
