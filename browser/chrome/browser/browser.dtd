@@ -996,6 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "重新啟動以更新 &brandShorterName;">
 
+<!ENTITY newTabControlled.message "有套擴充套件修改了開啟新分頁時會看到的頁面。若您不想要這個修改，可還原此設定。">
 <!ENTITY newTabControlled.header.message "您的「新分頁」已經變更。">
 <!ENTITY newTabControlled.keepButton.label "保留不變">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
