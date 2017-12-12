@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "Besleme adresi:">
 <!ENTITY feedLocation.accesskey      "a">
 <!ENTITY feedLocation.placeholder    "Eklemek için geçerli bir besleme adresi girin">
+<!ENTITY feedLocation2.placeholder   "Geçerli bir besleme adresi girin">
 <!ENTITY locationValidate.label      "Doğrula">
 <!ENTITY validateText.label          "Doğurlamayı denetle ve geçerli bir adres al.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Ekle">
 <!ENTITY button.addFeed.accesskey    "l">
+<!ENTITY button.verifyFeed.label     "Doğrula">
+<!ENTITY button.verifyFeed.accesskey "D">
 <!ENTITY button.updateFeed.label     "Güncelle">
 <!ENTITY button.updateFeed.accesskey "G">
 <!ENTITY button.removeFeed.label     "Kaldır">
