@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Přeco so prašeć">
 <!ENTITY  permAllow             "Dowolić">
 <!ENTITY  permAllowSession      "Za posedźenje dowolić">
+<!ENTITY  permHide              "Schować">
 <!ENTITY  permBlock             "Blokować">
 <!ENTITY  permissionsFor        "Prawa za:">
 <!ENTITY  permPlugins           "Tykače aktiwizować">
