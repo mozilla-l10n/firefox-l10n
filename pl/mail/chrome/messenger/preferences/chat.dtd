@@ -24,6 +24,10 @@
 <!ENTITY completeNotification.label "z nazwą nadawcy i podglądem wiadomości">
 <!ENTITY buddyInfoOnly.label "tylko z nazwą nadawcy">
 <!ENTITY dummyNotification.label "bez żadnych informacji">
+<!ENTITY getAttention.label "Migaj elementem paska zadań">
+<!ENTITY getAttention.accesskey "M">
+<!ENTITY getAttentionMac.label "Animuj ikonę dokowania">
+<!ENTITY getAttentionMac.accesskey "A">
 <!ENTITY desktopChatNotifications.accesskey "e">
 <!ENTITY chatSound.accesskey "d">
 <!ENTITY chatSound.label "odtwarzaj dźwięk">
