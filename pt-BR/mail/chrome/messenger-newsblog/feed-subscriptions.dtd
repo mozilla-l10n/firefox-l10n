@@ -13,7 +13,7 @@
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Forneça uma URL de RSS válida a adicionar">
 <!ENTITY locationValidate.label      "Validar">
-<!ENTITY validateText.label          "Verificar validação e carregar uma URL válida.">
+<!ENTITY validateText.label          "Verificar validação e carregar um URL válido.">
 
 <!ENTITY feedFolder.label            "Armazenar artigos em:">
 <!ENTITY feedFolder.accesskey        "r">
