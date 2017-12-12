@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Rákérdezés mindig">
 <!ENTITY  permAllow             "Engedélyezés">
 <!ENTITY  permAllowSession      "Engedélyezés a munkamenetben">
+<!ENTITY  permHide              "Elrejtés">
 <!ENTITY  permBlock             "Tiltás">
 <!ENTITY  permissionsFor        "Engedélyezés:">
 <!ENTITY  permPlugins           "Bővítmények aktiválása">
