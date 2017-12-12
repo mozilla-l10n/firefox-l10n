@@ -4,7 +4,8 @@
 
 <!ENTITY firstrun_panel_title_welcome "Shamupay">
 <!ENTITY firstrun_urlbar_message2 "Akllashkamanta pagrachuni &brandShortName;">
-<!ENTITY firstrun_bookmarks_title "Mawka pankakuna">
+<!ENTITY firstrun_urlbar_subtext2 "Shuk mushuk kuyurik mashkakka, shuk paskashka willaywan mana kullkipak yanapakwasimi.">
+<!ENTITY firstrun_bookmarks_title "Maskashkakuna">
 <!ENTITY firstrun_bookmarks_message "Kanpak allikachishka, ñawpaman chawpipash">
 <!ENTITY firstrun_bookmarks_subtext "Tarini kutinchiykuna kanpak akllashka pankakunamanta mawka pankakunapash hayka shinanki mashkanakuna.">
 <!ENTITY firstrun_data_title "Chanikuna">
@@ -14,7 +15,7 @@
 <!ENTITY firstrun_signin_message "Llamiraypak, kallari">
 <!ENTITY firstrun_signin_button "Yaykuy Sync-man">
 <!ENTITY  onboard_start_button_browser "Wanpunata Kallarina">
-<!ENTITY firstrun_button_next "Chayshuk shamuna">
+<!ENTITY firstrun_button_next "kati">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
