@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Enviar ligação para dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "Enviado!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Na fila (offline)">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "j">
 <!ENTITY  bookmarkAllTabs.label              "Criar marcadores para todos os separadores…">
@@ -187,14 +188,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.label     "Ocultar marcadores recentemente adicionados">
 <!ENTITY hideRecentlyBookmarked.accesskey "c">
 
-<!ENTITY backCmd.label                "Retroceder">
+<!ENTITY backCmd.label                "Anterior">
+<!ENTITY backCmd.accesskey            "A">
 <!ENTITY backButton.tooltip           "Retroceder uma página">
 <!ENTITY forwardCmd.label             "Seguinte">
+<!ENTITY forwardCmd.accesskey         "S">
 <!ENTITY forwardButton.tooltip        "Ir para a página seguinte">
 <!ENTITY backForwardButtonMenu.tooltip "Clique com o botão direito ou desloque para baixo para mostrar o histórico">
 <!ENTITY backForwardButtonMenuMac.tooltip "Desloque para baixo para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Parar">
+<!ENTITY stopCmd.accesskey            "P">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Ir para o endereço da barra de localização">
 <!ENTITY printButton.label            "Imprimir">
