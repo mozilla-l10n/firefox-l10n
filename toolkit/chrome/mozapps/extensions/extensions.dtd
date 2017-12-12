@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "附加元件管理員">
 
 <!ENTITY search.placeholder                   "搜尋所有附加元件">
+
+<!ENTITY search.placeholder2                  "在 addons.mozilla.org 搜尋">
 <!ENTITY search.buttonlabel                   "搜尋">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "回到上一頁">
 <!ENTITY cmd.forward.tooltip                  "前進下一頁">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "無法驗證某些擴充套件">
 <!ENTITY showAllExtensions.button.label       "顯示所有擴充套件">
@@ -257,7 +260,6 @@
 <!ENTITY pluginDeprecation.description "少了點東西嗎？&brandShortName; 已不再支援某些外掛程式。">
 <!ENTITY pluginDeprecation.learnMore "了解更多。">
 
-<!ENTITY legacyWarning.description "少了點東西嗎？&brandShortName; 已不再支援某些擴充套件。">
 <!ENTITY legacyWarning.showLegacy "顯示傳統擴充套件">
 <!ENTITY legacyExtensions.title "傳統擴充套件">
 <!ENTITY legacyExtensions.description "這些擴充套件不符合 &brandShortName; 目前的標準，已被停用。">

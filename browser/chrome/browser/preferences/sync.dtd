@@ -7,10 +7,12 @@
 <!ENTITY engine.bookmarks.label     "書籤">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "開啟分頁">
+<!ENTITY engine.tabs.title          "所有同步設備中，開啟的網頁清單">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "瀏覽紀錄">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "登入資訊">
+<!ENTITY engine.logins.title        "您儲存的使用者名稱與密碼">
 <!ENTITY engine.logins.accesskey    "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -20,11 +22,15 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "偏好設定">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.title         "您調整過的一般、隱私權、安全性設定">
 <!ENTITY engine.addons.label        "附加元件">
+<!ENTITY engine.addons.title        "Firefox 桌機版的擴充套件與佈景主題">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "地址">
+<!ENTITY engine.addresses.title     "您儲存的郵政地址（僅桌機）">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "信用卡">
+<!ENTITY engine.creditcards.title   "姓名、卡號及到期日（僅桌機）">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
