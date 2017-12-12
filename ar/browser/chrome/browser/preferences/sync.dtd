@@ -11,14 +11,23 @@
 <!ENTITY engine.history.label       "تأريخي">
 <!ENTITY engine.history.accesskey   "خ">
 <!ENTITY engine.logins.label        "جلسات الولوج">
+<!ENTITY engine.logins.title        "أسماء المستخدمين وكلمات السر التي حفظتها">
 <!ENTITY engine.logins.accesskey    "س">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
 <!ENTITY engine.prefs.label         "تفضيلاتي">
 <!ENTITY engine.prefs.accesskey     "ض">
+<!ENTITY engine.prefs.title         "الإعدادات العامة، وإعدادات الخصوصية والأمن التي غيرتها">
 <!ENTITY engine.addons.label        "الإضافات">
+<!ENTITY engine.addons.title        "امتدادات وسمات لنسخة سطح المكتب من فَيَرفُكس">
 <!ENTITY engine.addons.accesskey    "ض">
 <!ENTITY engine.addresses.label     "العناوين">
+<!ENTITY engine.addresses.title     "العناوين البريدية التي حفظتها (لسطح المكتب فقط)">
 <!ENTITY engine.addresses.accesskey "ع">
 <!ENTITY engine.creditcards.label   "بطاقات الائتمان">
+<!ENTITY engine.creditcards.title   "الأسماء والأرقام وتواريخ الانتهاء (لسطح المكتب فقط)">
 <!ENTITY engine.creditcards.accesskey "ق">
 
 <!-- Device Settings -->

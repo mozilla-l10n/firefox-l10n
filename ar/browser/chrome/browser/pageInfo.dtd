@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "اسأل دائمًا">
 <!ENTITY  permAllow             "اسمح">
 <!ENTITY  permAllowSession      "اسمح للجلسة">
+<!ENTITY  permHide              "أخفِ">
 <!ENTITY  permBlock             "احجب">
 <!ENTITY  permissionsFor        "صلاحيات:">
 <!ENTITY  permPlugins           "تفعيل الملحقات">
