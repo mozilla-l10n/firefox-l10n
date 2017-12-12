@@ -7,6 +7,7 @@
 <!ENTITY engine.bookmarks.label     "علاماتي">
 <!ENTITY engine.bookmarks.accesskey "م">
 <!ENTITY engine.tabs.label2         "الألسنة المفتوحة">
+<!ENTITY engine.tabs.title          "قائمة بالألسنة المفتوحة على كل الأجهزة">
 <!ENTITY engine.tabs.accesskey      "س">
 <!ENTITY engine.history.label       "تأريخي">
 <!ENTITY engine.history.accesskey   "خ">
@@ -17,7 +18,9 @@
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
-<!ENTITY engine.prefs.label         "تفضيلاتي">
+<!ENTITY engine.prefsWin.label      "الخيارات">
+<!ENTITY engine.prefsWin.accesskey  "خ">
+<!ENTITY engine.prefs.label         "التفضيلات">
 <!ENTITY engine.prefs.accesskey     "ض">
 <!ENTITY engine.prefs.title         "الإعدادات العامة، وإعدادات الخصوصية والأمن التي غيرتها">
 <!ENTITY engine.addons.label        "الإضافات">
