@@ -112,8 +112,12 @@
 <!ENTITY moveAttachmentTopPanelBtn.accesskey "П">
 <!ENTITY moveAttachmentUpPanelBtn.label "Перамясціць уверх">
 <!ENTITY moveAttachmentUpPanelBtn.accesskey "П">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Перамясціць разам">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "р">
 <!ENTITY moveAttachmentDownPanelBtn.label "Перамясціць уніз">
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "н">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Перамясціць у канец">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "ц">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
