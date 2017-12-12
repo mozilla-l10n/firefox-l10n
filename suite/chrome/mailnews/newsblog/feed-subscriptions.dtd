@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "URL Suapan:">
 <!ENTITY feedLocation.accesskey      "S">
 <!ENTITY feedLocation.placeholder    "Masukkan url suapan yang sah">
+<!ENTITY feedLocation2.placeholder   "Masukkan url suapan yang sah">
 <!ENTITY locationValidate.label      "Sahkan">
 <!ENTITY validateText.label          "Semak pengesahan dan dapatkan url yang sah.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Tambah">
 <!ENTITY button.addFeed.accesskey    "T">
+<!ENTITY button.verifyFeed.label     "Sahkan">
+<!ENTITY button.verifyFeed.accesskey "S">
 <!ENTITY button.updateFeed.label     "Kemaskini">
 <!ENTITY button.updateFeed.accesskey "K">
 <!ENTITY button.removeFeed.label     "Buang">
