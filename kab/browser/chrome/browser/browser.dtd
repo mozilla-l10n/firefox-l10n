@@ -20,9 +20,9 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Smiren iccer">
-<!ENTITY  reloadTab.accesskey                "S">
+<!ENTITY  reloadTab.accesskey                "M">
 <!ENTITY  reloadAllTabs.label                "Smiren akk accaren">
-<!ENTITY  reloadAllTabs.accesskey            "m">
+<!ENTITY  reloadAllTabs.accesskey            "M">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Sleg iccer">
@@ -310,7 +310,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "G">
 <!ENTITY copyCmd.label            "Nɣel">
-<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.key            "N">
 <!ENTITY copyCmd.accesskey          "N">
 <!ENTITY pasteCmd.label           "Senṭeḍ">
 <!ENTITY pasteCmd.key           "V">
@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Sagen umuɣ akked yifeggagen n yifecka">
 <!ENTITY appMenuCustomizeExit.label "Ffeɣ seg waggan">
 <!ENTITY appMenuCustomizeExit.tooltip "Fak aggan">
+
 <!ENTITY appMenuHistory.showAll.label "Sken akk amazray">
 <!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray-ik n melmi kan…">
 <!ENTITY appMenuHistory.restoreSession.label "Err-d tiɣimit yezrin">
@@ -388,6 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n waccaren yemtawin">
+
 
 <!ENTITY appMenuRecentHighlights.label "Izwilen n melmi kan">
 
@@ -750,6 +752,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Immed">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
 <!ENTITY identity.connectionNotSecure "Tuqqna-a mačči d taɣelsant">
 <!ENTITY identity.connectionFile "Asebter-a yettwakles deg uselkim-inek.">
@@ -809,6 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Nadi accaren yemtawan">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +985,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt-nniḍen akken ad tleqmeḍ&brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
 <!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ imedlis n tensa">
 <!ENTITY pageAction.removeFromUrlbar.label "Kkes seg ufeggag n tansa">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Azen iccer ɣer yibenk">
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
