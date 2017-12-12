@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Наладзіць меню і паліцы прылад">
 <!ENTITY appMenuCustomizeExit.label "Скончыць уладкаванне">
 <!ENTITY appMenuCustomizeExit.tooltip "Завяршэнне ўладкавання">
+
 <!ENTITY appMenuHistory.showAll.label "Паказаць усю гісторыю">
 <!ENTITY appMenuHistory.clearRecent.label "Ачысціць нядаўнюю гісторыю…">
 <!ENTITY appMenuHistory.restoreSession.label "Аднавіць папярэдні сеанс">
@@ -388,6 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Кіраваць прыладамі...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
+
 
 <!ENTITY appMenuRecentHighlights.label "Апошнія падсвятленні">
 
@@ -750,6 +752,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Гатова">
 <!ENTITY editBookmark.removeBookmark.accessKey       "д">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Бяспека сайта">
+
 <!ENTITY identity.connectionSecure "Бяспечнае злучэнне">
 <!ENTITY identity.connectionNotSecure "Небяспечнае злучэнне">
 <!ENTITY identity.connectionFile "Гэта старонка захоўваецца на вашым камп'ютары.">
@@ -809,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Уключыце сінхранізацыю картак, каб бачыць спіс картак з вашых іншых прылад.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Шукаць у сінхранізаваных картках">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +986,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Перазапуск для абнаўлення &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Дзеянні старонкі">
 <!ENTITY pageAction.addToUrlbar.label "Дадаць у адрасны радок">
 <!ENTITY pageAction.removeFromUrlbar.label "Выдаліць з адраснага радка">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Даслаць картку на прыладу">
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
