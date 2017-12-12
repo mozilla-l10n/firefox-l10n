@@ -11,10 +11,18 @@
 <!ENTITY engine.history.label       "Geçmiş">
 <!ENTITY engine.history.accesskey   "G">
 <!ENTITY engine.logins.label        "Hesaplar">
+<!ENTITY engine.logins.title        "Kaydettiğim kullanıcı adları ve parolaları">
 <!ENTITY engine.logins.accesskey    "H">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Seçenekler">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Tercihler">
 <!ENTITY engine.prefs.accesskey     "T">
 <!ENTITY engine.addons.label        "Eklentiler">
+<!ENTITY engine.addons.title        "Masaüstü Firefox eklentileri ve temaları">
 <!ENTITY engine.addons.accesskey    "E">
 <!ENTITY engine.addresses.label     "Adresler">
 <!ENTITY engine.addresses.accesskey "e">
