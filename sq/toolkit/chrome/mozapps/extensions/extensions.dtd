@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Përgjegjësi i Shtesave">
 
 <!ENTITY search.placeholder                   "Kërko në tërë shtesat">
+
+<!ENTITY search.placeholder2                  "Kërkoni te addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Kërko">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Shkoni mbrapsht një faqe">
 <!ENTITY cmd.forward.tooltip                  "Shkoni përpara një faqe">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Disa nga shtesat nuk u verifikuan dot">
 <!ENTITY showAllExtensions.button.label       "Shfaqi krejt zgjerimet">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "Mos mungon gjë? Disa shtojca nuk mbulohen më nga &brandShortName;-i.">
 <!ENTITY pluginDeprecation.learnMore "Mësoni Më Tepër.">
 
-<!ENTITY legacyWarning.description "S&apos;po gjeni ndonjë gjë? Disa zgjerime nuk mbulohen më nga &brandShortName;-i.">
 <!ENTITY legacyWarning.showLegacy "Shfaq zgjerime të dikurshme">
 <!ENTITY legacyExtensions.title "Zgjerime të Dikurshme">
 <!ENTITY legacyExtensions.description "Këto zgjerime nuk i plotësojnë standardet e tanishme të &brandShortName;-it, ndaj janë çaktivizuar.">

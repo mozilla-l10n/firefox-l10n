@@ -21,6 +21,7 @@
 <!ENTITY aboutUrlClassifier.cacheEntries                "Zëra Fshehtine">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Parashtesë">
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Skadim fshehtine negative">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Hash i plotë">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Skadim fshehtine pozitive">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Diagnostikim">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Rregulloni Module Regjistrimi">
