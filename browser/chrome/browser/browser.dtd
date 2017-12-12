@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Enviar enlace a dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "¡Enviado!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "En cola (sin conexión)">
 <!ENTITY  moveToNewWindow.label              "Mover a una nueva ventana">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Agregar pestañas a marcadores…">
@@ -355,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizar el menú y las barras de herrramientas">
 <!ENTITY appMenuCustomizeExit.label "Terminar personalización">
 <!ENTITY appMenuCustomizeExit.tooltip "Terminar personalización">
+
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
 <!ENTITY appMenuHistory.clearRecent.label "Borrar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar la sesión anterior">
@@ -385,9 +387,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quieres ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sincronizar preferencias">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Tu cuenta necesita ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia sesión en Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver pestañas sincronizadas en la barra lateral">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destacados recientes">
 
@@ -750,6 +755,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Terminar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Seguridad del sitio">
+
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "La conexión no es segura">
 <!ENTITY identity.connectionFile "Esta página está almacenada en tu computadora.">
@@ -803,12 +812,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "No hay pestañas sincronizadas... ¡aún!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quieres ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Tu cuenta necesita ser verificada.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "No hay pestañas abiertas">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Abriendo preferencias de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activa la sincronización de pestañas para ver una lista de pestañas desde tus otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Buscar pestañas sincronizadas">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectar otro dispositivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +991,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para actualizar &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Tu pestaña nueva ha cambiado.">
+<!ENTITY newTabControlled.keepButton.label "Mantener cambios">
+<!ENTITY newTabControlled.restoreButton.label "Restaurar configuraciones">
+
 <!ENTITY pageActionButton.tooltip "Acciones de la página">
 <!ENTITY pageAction.addToUrlbar.label "Agregar a la barra de direcciones">
 <!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
+
+<!ENTITY pageAction.allowInUrlbar.label "Mostrar en la barra de direcciones">
+<!ENTITY pageAction.disallowInUrlbar.label "No mostrar en la barra de direcciones">
 
 <!ENTITY pageAction.sendTabToDevice.label "Enviar pestaña a dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
