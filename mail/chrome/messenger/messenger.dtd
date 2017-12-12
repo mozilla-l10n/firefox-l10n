@@ -51,6 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "У">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Гэтачасовы рахунак">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "Г">
+<!ENTITY getNextNMsgCmd2.label "Атрымаць наступныя паведамленні з навінамі">
+<!ENTITY getNextNMsgCmd2.accesskey "т">
 <!ENTITY sendUnsentCmd.label "Даслаць неадпраўленыя лісты">
 <!ENTITY sendUnsentCmd.accesskey "ь">
 <!ENTITY subscribeCmd.label "Падпісацца…">
@@ -143,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "В">
 <!ENTITY showFolderPaneCmd.label "Шыба папак">
 <!ENTITY showFolderPaneCmd.accesskey "п">
+<!ENTITY showFolderPaneColsCmd.label "Калонкі панэлі папак">
+<!ENTITY showFolderPaneColsCmd.accesskey "п">
 <!ENTITY showMessageCmd.label "Шыба лістоў">
 <!ENTITY showMessageCmd.accesskey "ш">
 
@@ -160,6 +164,9 @@
 <!ENTITY recentFolders.accesskey "я">
 <!ENTITY compactVersion.label "Шчыльная праява">
 <!ENTITY compactVersion.accesskey "Ш">
+<!ENTITY folderPaneBar.label "Панэль прылад папак">
+<!ENTITY folderPaneBar.accesskey "П">
+<!ENTITY folderModeSelector.label "Прадстаўленне папак">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Размеркаваць па">
@@ -188,6 +195,8 @@
 <!ENTITY sortByFromCmd.accesskey "А">
 <!ENTITY sortByRecipientCmd.label "Атрымальнік">
 <!ENTITY sortByRecipientCmd.accesskey "т">
+<!ENTITY sortByCorrespondentCmd.label "Карэспандэнты">
+<!ENTITY sortByCorrespondentCmd.accesskey "н">
 <!ENTITY sortByUnreadCmd.label "Прачытаны">
 <!ENTITY sortByUnreadCmd.accesskey "ч">
 <!ENTITY sortByOrderReceivedCmd.label "У парадку атрымання">
@@ -309,6 +318,7 @@
 <!ENTITY goChatCmd.label "Гутарка">
 <!ENTITY goChatCmd.accesskey "г">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Ліст з зоркаю">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
@@ -355,6 +365,9 @@
 <!ENTITY editAsNewMsgCmd.label "Правіць як новы ліст">
 <!ENTITY editAsNewMsgCmd.accesskey "П">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Рэдагаваць чарнавік паведамлення">
+<!ENTITY editDraftMsgCmd.accesskey "ч">
+<!ENTITY newMsgFromTemplateCmd.label "Новае паведамленне па шаблоне">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Стварыць сіта з ліста…">
 <!ENTITY createFilter.accesskey "с">
@@ -490,6 +503,10 @@
 <!ENTITY devToolboxCmd.label "Панэль распрацоўшчыка">
 <!ENTITY devToolboxCmd.accesskey "П">
 <!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Адладчык дадаткаў">
+<!ENTITY addonDebugCmd.accesskey "А">
+<!ENTITY tabsDebugCmd.label "Адладчык фрэйма змесціва">
+<!ENTITY tabsDebugCmd.accesskey "з">
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "п">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -557,6 +574,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Накіраваць вылучаны ліст як далучэнне">
 <!ENTITY fileButton.tooltip "Перамясціць вылучаны ліст">
 <!ENTITY archiveButton.tooltip "Заархівіраваць вылучаныя лісты">
+<!ENTITY openConversationButton.tooltip "Паказаць размову для абранага паведамлення">
 <!ENTITY nextButton.tooltip "Перамясціцца да наступнага непрачытанага ліста">
 <!ENTITY nextMsgButton.tooltip "Перайсці да наступнага ліста">
 <!ENTITY previousButton.tooltip "Перамясціцца да папярэдняга непрачытанага ліста">
@@ -677,6 +695,7 @@
 <!ENTITY threadColumn.label "Нізка">
 <!ENTITY fromColumn.label "Ад">
 <!ENTITY recipientColumn.label "Атрымальнік">
+<!ENTITY correspondentColumn.label "Карэспандэнты">
 <!ENTITY subjectColumn.label "Тэма">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Прыярытэт">
@@ -699,6 +718,7 @@
 <!ENTITY threadColumn2.tooltip "Паказваць нізкі лістоў">
 <!ENTITY fromColumn2.tooltip "Размеркаваць па адпраўнікам">
 <!ENTITY recipientColumn2.tooltip "Размеркаваць па атрымальнікам">
+<!ENTITY correspondentColumn2.tooltip "Сартаваць па карэспандэнтам">
 <!ENTITY subjectColumn2.tooltip "Размеркаваць па тэмам">
 <!ENTITY dateColumn2.tooltip "Размеркаваць па датам">
 <!ENTITY priorityColumn2.tooltip "Размеркаваць па прыярытэтам">
@@ -717,6 +737,7 @@
 <!ENTITY attachmentColumn2.tooltip "Размеркаваць па далучэнням">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Новае паведамленне па шаблоне">
 <!ENTITY contextOpenNewWindow.label "Адчыніць ліст у новым акне">
 <!ENTITY contextOpenNewWindow.accesskey "А">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -731,6 +752,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "ч">
 <!ENTITY contextEditMsgAsNew.label "Правіць як новы ліст">
 <!ENTITY contextEditMsgAsNew.accesskey "П">
+<!ENTITY contextEditDraftMsg.label "Рэдагаваць чарнавік паведамлення">
 <!ENTITY contextArchive.label "Архіў">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Адказаць толькі адпраўніку">
@@ -758,6 +780,7 @@
 <!ENTITY contextCopyMsgMenu.label "Капіяваць у">
 <!ENTITY contextCopyMsgMenu.accesskey "К">
 <!ENTITY contextKillThreadMenu.label "Ігнараваць нізку">
+<!ENTITY contextKillSubthreadMenu.accesskey "д">
 <!ENTITY contextKillThreadMenu.accesskey "І">
 <!ENTITY contextKillSubthreadMenu.label "Ігнараваць паднізку">
 <!ENTITY contextWatchThreadMenu.label "Сачыць за нізкай">
@@ -874,6 +897,8 @@
 <!ENTITY SendMessageTo.accesskey "і">
 <!ENTITY CopyEmailAddress.label "Капіяваць адрас э-пошты">
 <!ENTITY CopyEmailAddress.accesskey "э">
+<!ENTITY CopyNameAndEmailAddress.label "Капіяваць імя і адрас эл.пошты">
+<!ENTITY CopyNameAndEmailAddress.accesskey "і">
 <!ENTITY CopyNewsgroupName.label "Капіяваць назву навінакупы">
 <!ENTITY CopyNewsgroupName.accesskey "К">
 <!ENTITY CopyNewsgroupURL.label "Скапіяваць URL навінакупы">
@@ -931,4 +956,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Наладжванні значка прыстасавання…">
+<!ENTITY writeNewMessageDock.label      "Напісаць новы ліст">
 <!ENTITY openAddressBookDock.label      "Адкрыць адрасную кнігу">
