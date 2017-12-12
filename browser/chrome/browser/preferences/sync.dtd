@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "书签">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "打开的标签页">
+<!ENTITY engine.tabs.title          "已同步的所有设备目前打开什么">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "历史记录">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "登录信息">
+<!ENTITY engine.logins.title        "您已保存的用户名和密码">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "选项">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "首选项">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.title         "您已更改的常规、隐私和安全设置">
 <!ENTITY engine.addons.label        "附加组件">
+<!ENTITY engine.addons.title        "用于 Firefox 桌面版的扩展和主题">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "地址">
+<!ENTITY engine.addresses.title     "您已保存的邮政地址（仅限桌面版）">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "信用卡">
+<!ENTITY engine.creditcards.title   "姓名、号码和过期日（仅限桌面版）">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->

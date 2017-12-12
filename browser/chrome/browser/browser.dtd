@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "发送链接到设备">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "已发送！">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "已排队 (离线)">
 <!ENTITY  moveToNewWindow.label              "移动到新窗口">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "为全部标签页添加书签…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "后退">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "转到上一页">
 <!ENTITY forwardCmd.label             "前进">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "转到下一页">
 <!ENTITY backForwardButtonMenu.tooltip "右击或下拉显示历史">
 <!ENTITY backForwardButtonMenuMac.tooltip "下拉显示历史">
 <!ENTITY reloadCmd.label              "重新载入">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "停止">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "转到地址栏中指向的网址">
 <!ENTITY printButton.label            "打印">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "定制菜单和工具栏">
 <!ENTITY appMenuCustomizeExit.label "退出定制">
 <!ENTITY appMenuCustomizeExit.tooltip "完成定制">
+
 <!ENTITY appMenuHistory.showAll.label "管理所有历史记录">
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的历史记录…">
 <!ENTITY appMenuHistory.restoreSession.label "恢复先前的浏览状态">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "想查看您在其他设备上的标签页吗？">
 <!ENTITY appMenuRemoteTabs.openprefs.label "同步服务首选项">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登录以查看来自您的其他设备的标签页列表。">
+<!ENTITY appMenuRemoteTabs.unverified.label "您的账号需要验证。">
 <!ENTITY appMenuRemoteTabs.signin.label "登录同步服务">
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理设备…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "显示受同步标签页侧栏">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "连接其他设备">
 
 <!ENTITY appMenuRecentHighlights.label "近期聚焦">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "设为桌面背景…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "为此网页添加书签">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "为此链接添加书签">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "为此框架添加书签">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "完成">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "站点安全">
+
 <!ENTITY identity.connectionSecure "安全连接">
 <!ENTITY identity.connectionNotSecure "连接不安全">
 <!ENTITY identity.connectionFile "此页面存储在您的计算机上。">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "还没有同步过来的标签页！">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "想查看您在其他设备上的标签页吗？">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "登录即可查看您的其他设备上的标签页列表。">
+<!ENTITY syncedTabs.sidebar.unverified.label   "您的账号需要验证。">
 <!ENTITY syncedTabs.sidebar.notabs.label       "没有已打开的标签页">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "打开&syncBrand.shortName.label;服务首选项">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "开启标签页同步服务，即可查看您的其他设备上的标签页列表。">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "在受同步的标签页中搜索">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "连接其他设备">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "重启 &brandShorterName; 以更新">
 
+<!ENTITY newTabControlled.message "一个扩展更改了您打开新标签页时看到的页面。如果您不想做此更改，可以还原此设置。">
+<!ENTITY newTabControlled.header.message "您的新标签页已变更。">
+<!ENTITY newTabControlled.keepButton.label "保留更改">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "还原设置">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "页面动作">
 <!ENTITY pageAction.addToUrlbar.label "添加到地址栏">
 <!ENTITY pageAction.removeFromUrlbar.label "从地址栏移除">
+
+<!ENTITY pageAction.allowInUrlbar.label "在地址栏中显示">
+<!ENTITY pageAction.disallowInUrlbar.label "不在地址栏中显示">
+<!ENTITY pageAction.manageExtension.label "管理扩展…">
 
 <!ENTITY pageAction.sendTabToDevice.label "将标签页发送到设备">
 <!ENTITY sendToDevice.syncNotReady.label "正在同步设备…">

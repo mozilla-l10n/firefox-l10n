@@ -16,3 +16,4 @@
 <!ENTITY languages.customize.addButton.label            "添加">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 
+<!ENTITY languages.customize.spoofEnglish               "请求英文版网页以强化隐私">

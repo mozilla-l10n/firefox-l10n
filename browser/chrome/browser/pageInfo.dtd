@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "总是询问">
 <!ENTITY  permAllow             "允许">
 <!ENTITY  permAllowSession      "在这次浏览期间允许">
+<!ENTITY  permHide              "隐藏">
 <!ENTITY  permBlock             "阻止">
 <!ENTITY  permissionsFor        "权限，对于:">
 <!ENTITY  permPlugins           "激活插件">
