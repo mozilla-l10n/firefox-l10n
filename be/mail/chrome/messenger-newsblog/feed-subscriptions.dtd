@@ -39,6 +39,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Дадаць">
 <!ENTITY button.addFeed.accesskey    "Д">
+<!ENTITY button.verifyFeed.label     "Праверыць">
+<!ENTITY button.verifyFeed.accesskey "П">
 <!ENTITY button.updateFeed.label     "Абнавіць">
 <!ENTITY button.updateFeed.accesskey "А">
 <!ENTITY button.removeFeed.label     "Выдаліць">

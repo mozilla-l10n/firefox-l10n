@@ -11,6 +11,10 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Дазволіць агульныя пошук і стварэнне паказнікаў">
 <!ENTITY enableGlodaSearch.accesskey   "а">
+<!ENTITY allowHWAccel.label            "Выкарыстоўваць, калі можна, апаратнае паскарэнне">
+<!ENTITY allowHWAccel.accesskey        "а">
+<!ENTITY mboxStore2.label              "Адзін файл на папку (mbox)">
+<!ENTITY maildirStore.label            "Адзін файл на паведамленне (maildir)">
 
 <!ENTITY scrolling.label               "Пракручванне">
 <!ENTITY useAutoScroll.label           "Ужываць самапракручванне">
@@ -34,11 +38,13 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Тэлеметрыя">
+<!ENTITY telemetryDesc.label             "Дзяліцца дадзенымі пра прадукцыйнасць, выкарыстанне, апаратнае забеспячэнне і налады вашага паштовага кліента з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
 <!ENTITY enableTelemetry.label           "Уключыць тэлеметрыю">
 <!ENTITY enableTelemetry.accesskey       "т">
 <!ENTITY telemetryLearnMore.label        "Падрабязней">
 
 <!ENTITY crashReporterSection.label      "Паведамляльнік пра крахі">
+<!ENTITY crashReporterDesc.label         "&brandShortName; падае справаздачы пра крахі, каб дапамагчы &vendorShortName; зрабіць ваш паштовы кліент больш устойлівым і бяспечным">
 <!ENTITY enableCrashReporter.label       "Уключыць паведамляльнік пра крахі">
 <!ENTITY enableCrashReporter.accesskey   "У">
 <!ENTITY crashReporterLearnMore.label    "Падрабязней">
