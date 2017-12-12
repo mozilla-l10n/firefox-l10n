@@ -86,6 +86,8 @@
 <!ENTITY renameAttachmentCmd.label "Перайменаваць далучэнне…">
 <!ENTITY renameAttachmentCmd.accesskey "й">
 <!ENTITY reorderAttachmentsCmd.label "Перапарадкаваць укладанні…">
+<!ENTITY reorderAttachmentsCmd.accesskey "а">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "у">
@@ -105,6 +107,13 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Перапарадкаваць укладанні">
+<!ENTITY moveAttachmentTopPanelBtn.label "Перайсці да пачатку">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "П">
+<!ENTITY moveAttachmentUpPanelBtn.label "Перамясціць уверх">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "П">
+<!ENTITY moveAttachmentDownPanelBtn.label "Перамясціць уніз">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "н">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
