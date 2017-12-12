@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Wotkaz na grat pósłać">
 <!ENTITY  sendLinkToDevice.accesskey         "W">
 <!ENTITY  sendToDeviceFeedback.label         "Pósłane!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "W čakanskim rynku (offline)">
 <!ENTITY  moveToNewWindow.label              "Do noweho wokna přesunyć">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Wšě rajtarki jako zapołožki składować…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "d">
 
 <!ENTITY backCmd.label                "Wróćo">
+<!ENTITY backCmd.accesskey            "W">
 <!ENTITY backButton.tooltip           "Jednu stronu wróćo">
 <!ENTITY forwardCmd.label             "Doprědka">
+<!ENTITY forwardCmd.accesskey         "D">
 <!ENTITY forwardButton.tooltip        "Jednu stronu doprědka">
 <!ENTITY backForwardButtonMenu.tooltip "Klikńće z prawej tastu abo ćehńće dele, zo byšće historiju pokazał">
 <!ENTITY backForwardButtonMenuMac.tooltip "Ćehńće dele, zo byšce historiju pokazał">
 <!ENTITY reloadCmd.label              "Znowa">
+<!ENTITY reloadCmd.accesskey          "Z">
 <!ENTITY stopCmd.label                "Stój">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "K adresy w adresowym polu">
 <!ENTITY printButton.label            "Ćišćeć">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Meni a symbolowe lajsty přiměrić">
 <!ENTITY appMenuCustomizeExit.label "Přiměrjenje skónčić">
 <!ENTITY appMenuCustomizeExit.tooltip "Přiměrjenje skónčić">
+
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazać">
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprózdnić…">
 <!ENTITY appMenuHistory.restoreSession.label "Předchadne posedźenje wobnowić">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceće tu swoje rajtarki z druhich gratow widźeć?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizować">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Waše konto dyrbi so wobkrućić.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pola Sync přizjewić">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Graty zrjadować…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Bóčnicu synchronizowanych rajtarkow pokazać">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Druhi grat zwjazać">
 
 <!ENTITY appMenuRecentHighlights.label "Aktualne wjerški">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Jako desktopowy pozadk nastajić…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "J">
 <!ENTITY bookmarkPageCmd2.label       "Tutu stronu jako zapołožku składować">
+<!ENTITY bookmarkPageCmd2.accesskey   "z">
 <!ENTITY bookmarkThisLinkCmd.label      "Tutón wotkaz jako zapołožku składować">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Tutón wobłuk jako zapołožku skladować">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Dokónčeny">
 <!ENTITY editBookmark.removeBookmark.accessKey       "w">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sydłowa wěstota">
+
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk wěsty njeje">
 <!ENTITY identity.connectionFile "Tuta strona je so na wašim ličaku składowała.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Hišće žane synchronizowane rajtarki…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Chceće tu swoje rajtarki z druhich gratow widźeć?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Waše konto dyrbi so wobkrućić.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žane wočinjene rajtarki">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Nastajenja &syncBrand.shortName.label; wočinić">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Synchronizowanje rajtarkow zapinać, zo by so lisćina rajtarkow z wašich druhich gratow pokazała.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Synchronizowane rajtarki pytać">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Druhi grat zwjazać">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Startujće znowa, zo byšće &brandShorterName; aktualizował">
 
+<!ENTITY newTabControlled.message "Rozšěrjenje je stronu změnił, kotruž widźiće, hdyž nowy rajtark wočinjeće. Móžeće swoje nastajenja wobnowić, jeli tutu změnu nochceće.">
+<!ENTITY newTabControlled.header.message "Waš nowy rajtark je so změnił.">
+<!ENTITY newTabControlled.keepButton.label "Změny wobchować">
+<!ENTITY newTabControlled.keepButton.accesskey "Z">
+<!ENTITY newTabControlled.restoreButton.label "Nastajenja wobnowić">
+<!ENTITY newTabControlled.restoreButton.accesskey "N">
+
 <!ENTITY pageActionButton.tooltip "Akcije strony">
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu polu přidać">
 <!ENTITY pageAction.removeFromUrlbar.label "Z adresoweho pola wotstronić">
+
+<!ENTITY pageAction.allowInUrlbar.label "W adresowym polu pokazać">
+<!ENTITY pageAction.disallowInUrlbar.label "W adresowym polu njepokazać">
+<!ENTITY pageAction.manageExtension.label "Rozšěrjenje rjadować…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Rajtark na grat pósłać">
 <!ENTITY sendToDevice.syncNotReady.label "Graty so synchronizuja…">
