@@ -25,6 +25,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "使用開發者工具的檢測器來檢測和編輯 HTML 和 CSS。">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
@@ -44,6 +46,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "了解開發者工具的更多資訊">
 
 <!ENTITY  aboutDevtools.enable.enableButton "啟用開發者工具">
 <!ENTITY  aboutDevtools.enable.closeButton "關閉此頁面">
@@ -56,10 +59,12 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "讓開發者消息、秘訣與資源直接寄到信箱裡。">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "電子郵件">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "我同意 Mozilla 依照<a class='external' href='https://www.mozilla.org/privacy/'>隱私權保護政策</a>當中描述的方式處理這些資訊。">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "訂閱">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "感謝您！">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "若您先前沒有確認訂閱過 Mozilla 電子報，現在可能需要確認。請到信箱收信，或到垃圾信件匣中看看有沒有來自我們的訊息。">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
