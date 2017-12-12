@@ -81,9 +81,11 @@ Ping
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Hollësi Shtese
 ">
+<!ENTITY aboutTelemetry.capturedStacksSection "Stack-e të Ndjekur">
 <!ENTITY aboutTelemetry.lateWritesSection "
   Shkrime të Vonshme
 ">
+<!ENTITY aboutTelemetry.rawPayloadSection "Ngarkesë e Papërpunuar">
 <!ENTITY aboutTelemetry.raw "
 JSON të papërpunuar
 ">
@@ -91,3 +93,5 @@ JSON të papërpunuar
 <!ENTITY aboutTelemetry.fullSqlWarning "
   SHËNIM: Diagnostikimi i Ngadalësisë në SQL është i aktivizuar. Vargjet e plota SQL mund të shfaqen më poshtë, por ato nuk do t&apos;i parashtrohen Telemetry-së.
 ">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Sill emra funksionesh për stack-e">
+<!ENTITY aboutTelemetry.hideStackSymbols "Shfaq të dhëna të papërpunuara stack-u">
