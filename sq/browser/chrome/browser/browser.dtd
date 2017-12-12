@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Dërgoje Lidhjen te Pajisja">
 <!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  sendToDeviceFeedback.label         "U dërgua!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "U vu në radhë (jo në linjë)">
 <!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
 <!ENTITY  moveToNewWindow.accesskey          "D">
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "F">
 
 <!ENTITY backCmd.label                "Mbrapsht">
+<!ENTITY backCmd.accesskey            "M">
 <!ENTITY backButton.tooltip           "Shkoni mbrapsht një faqe">
 <!ENTITY forwardCmd.label             "Para">
+<!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Shkoni para një faqe">
 <!ENTITY backForwardButtonMenu.tooltip "Djathtasklikojeni ose tërhiqeni poshtë që të shfaqet historiku">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tërhiqeni poshtë që të shfaqet historiku">
 <!ENTITY reloadCmd.label              "Ringarkoje">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Ndale">
+<!ENTITY stopCmd.accesskey            "N">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve">
 <!ENTITY printButton.label            "Shtype">
@@ -568,8 +573,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Vëreni Si Sfond Desktopi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Faqeruaje Këtë Faqe">
+<!ENTITY bookmarkPageCmd2.accesskey   "F">
 <!ENTITY bookmarkThisLinkCmd.label      "Faqeruaje Këtë Lidhje">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "F">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kornizë">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "K">
 <!ENTITY pageAction.copyLink.label    "Kopjoje Lidhjen">
@@ -1003,6 +1009,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.allowInUrlbar.label "Shfaqe në Shtyllë Adresash">
 <!ENTITY pageAction.disallowInUrlbar.label "Mos e Shfaq në Shtyllë Adresash">
+<!ENTITY pageAction.manageExtension.label "Administroni Zgjerime…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Dërgojeni Skedën në Pajisje">
 <!ENTITY sendToDevice.syncNotReady.label "Po njëkohësohen Pajisje…">

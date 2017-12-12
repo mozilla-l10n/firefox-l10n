@@ -10,8 +10,26 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "Orë">
+<!ENTITY time.minute.label "Minuta">
+<!ENTITY time.second.label "Sekonda">
+<!ENTITY time.millisecond.label "Milisekonda">
+<!ENTITY time.dayperiod.label "AM/PM">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "yyyy">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "Vit">
+<!ENTITY date.month.label "Muaj">
+<!ENTITY date.day.label "Ditë">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "Pastroje">
