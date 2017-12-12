@@ -14,6 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "დღეს">
 <!ENTITY calendar.tomorrow.button.label       "ხვალ">
+<!ENTITY calendar.upcoming.button.label       "მოახლოებული">
 
 <!ENTITY calendar.events.filter.all.label "ყველა მოვლენა">
 <!ENTITY calendar.events.filter.today.label "დღევანდელი მოვლენები">
@@ -35,11 +36,13 @@
 <!ENTITY calendar.unifinder.tree.title.label               "სათაური">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "დასახელებით დალაგება">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; დასრულდა">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "&#37;-ით დალაგება დასრულებულია">
 <!ENTITY calendar.unifinder.tree.startdate.label           "დაწყება">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "დაწყების თარიღით დალაგება">
 <!ENTITY calendar.unifinder.tree.enddate.label             "დასრულება">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "დასრულების თარიღით დალაგება">
 <!ENTITY calendar.unifinder.tree.duedate.label             "ვადა">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "დალაგება ვადის მიხედვით">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "შესრულდა">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "დასრულების თარიღით დალაგება">
 <!ENTITY calendar.unifinder.tree.categories.label          "კატეგორია">
@@ -51,6 +54,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label        "კალენდრის სახელი">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "კალენდრის სახელით დალაგება">
 <!ENTITY calendar.unifinder.tree.duration.label            "ხანგრძლიობ">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "დალაგება ხანგრძლივობის მიხედვით">
 <!ENTITY calendar.unifinder.close.tooltip                  "მოვლენათა ძიებისა და სიის დახურვა">
 
 <!ENTITY calendar.today.button.tooltip          "გადასვლა დღევანდელზე" >
@@ -84,6 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "ახალი მოვლენა" >
 <!ENTITY calendar.newtask.button.label          "რედაქტირება" >
 <!ENTITY calendar.print.button.label            "ბეჭდვა" >
+<!ENTITY calendar.print.button.accesskey        "ჭ">
 
 <!ENTITY calendar.day.button.label              "დღე" >
 <!ENTITY calendar.week.button.label             "კვირა" >
