@@ -154,3 +154,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "声道">
 <!ENTITY aboutSupport.mediaDeviceRate "采样率">
 <!ENTITY aboutSupport.mediaDeviceLatency "延迟">
+
+<!ENTITY aboutSupport.intlAppTitle "应用程序设置">
+<!ENTITY aboutSupport.intlLocalesRequested "需要的语言环境">
+<!ENTITY aboutSupport.intlLocalesAvailable "可用的语言环境">
+<!ENTITY aboutSupport.intlLocalesSupported "应用程序语言环境">
+<!ENTITY aboutSupport.intlLocalesDefault "默认语言环境">
+<!ENTITY aboutSupport.intlOSTitle "操作系统">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "系统语言环境">
+<!ENTITY aboutSupport.intlRegionalPrefs "地区偏好">

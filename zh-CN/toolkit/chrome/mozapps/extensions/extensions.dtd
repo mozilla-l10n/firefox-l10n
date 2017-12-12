@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "附加组件管理器">
 
 <!ENTITY search.placeholder                   "在全部的附加组件中搜索">
+
+<!ENTITY search.placeholder2                  "在 addons.mozilla.org 上搜索">
 <!ENTITY search.buttonlabel                   "搜索">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
