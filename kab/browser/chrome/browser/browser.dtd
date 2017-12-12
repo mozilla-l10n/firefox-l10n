@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Azen aseɣwen ɣer yibenk">
 <!ENTITY  sendLinkToDevice.accesskey         "b">
 <!ENTITY  sendToDeviceFeedback.label         "Ttwaznen!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Ittraǧu (war tuqqna)">
 <!ENTITY  moveToNewWindow.label              "Senkez ɣer usfaylu amaynut">
 <!ENTITY  moveToNewWindow.accesskey          "m">
 <!ENTITY  bookmarkAllTabs.label              "Creḍ akk Accaren...">
