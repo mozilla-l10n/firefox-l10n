@@ -37,6 +37,7 @@
 <!ENTITY event.attendees.notify.accesskey            "წ">
 <!ENTITY event.attendees.notifyundisclosed.label     "თითოეული დამსწრის ცალ-ცალკე მოწვევა">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "ც">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "ამის შედეგად, მოწვევა ცალ-ცალკე გაეგზავნება დამსწრეებს. თითოეულ მოსაწვევში, მხოლოდ მიმღები იქნება მოხსენიებული და სხვა მონაწილეები, არ გამოჩნდებიან.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
