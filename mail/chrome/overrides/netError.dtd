@@ -28,8 +28,7 @@
 <!ENTITY fileAccessDenied.title "Достъпът до файла е отказан">
 <!ENTITY fileAccessDenied.longDesc "<ul>
   <li>Може да е премахнат, преместен или правата му да ограничават достъпа.</li>
-</ul>
-">
+</ul>">
 
 <!ENTITY generic.title "Олеле.">
 <!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да зареди тази страница.</p>">

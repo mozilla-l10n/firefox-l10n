@@ -7,5 +7,5 @@
 <!ENTITY  newMessageCmd.label             "Писмо">
 <!ENTITY  newMessageCmd.accesskey         "П">
  
-<!ENTITY  newContactCmd.label             "Контакт в адресника…">
+<!ENTITY  newContactCmd.label             "Контакт от адресника…">
 <!ENTITY  newContactCmd.accesskey         "К">
