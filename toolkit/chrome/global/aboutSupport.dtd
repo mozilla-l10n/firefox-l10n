@@ -153,3 +153,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanale">
 <!ENTITY aboutSupport.mediaDeviceRate "Shpeshti">
 <!ENTITY aboutSupport.mediaDeviceLatency "Vonesë">
+
+<!ENTITY aboutSupport.intlTitle "Ndërkombëtarizim &amp; Përkthim">
+<!ENTITY aboutSupport.intlAppTitle "Rregullime Aplikacionesh">
+<!ENTITY aboutSupport.intlLocalesRequested "Gjuhë të Kërkuara">
+<!ENTITY aboutSupport.intlLocalesAvailable "Gjuhë të Mundshme">
+<!ENTITY aboutSupport.intlLocalesSupported "Gjuhë Aplikacioni">
+<!ENTITY aboutSupport.intlLocalesDefault "Gjuhë Parazgjedhje">
+<!ENTITY aboutSupport.intlOSTitle "Sistem Operativ">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Gjuhë Sistemi">
+<!ENTITY aboutSupport.intlRegionalPrefs "Parapëlqime Rajoni">
