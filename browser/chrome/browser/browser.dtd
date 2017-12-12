@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "أرسل الرابط إلى جهاز">
 <!ENTITY  sendLinkToDevice.accesskey         "ه">
 <!ENTITY  sendToDeviceFeedback.label         "تم الإرسال">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "مصطف (غير متصل)">
 <!ENTITY  moveToNewWindow.label              "انقل إلى نافذة جديدة">
 <!ENTITY  moveToNewWindow.accesskey          "ذ">
 <!ENTITY  bookmarkAllTabs.label              "علّم كل الألسنة…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "خ">
 
 <!ENTITY backCmd.label                "السابق">
+<!ENTITY backCmd.accesskey            "س">
 <!ENTITY backButton.tooltip           "عُد للخلف صفحة واحدة">
 <!ENTITY forwardCmd.label             "التالي">
+<!ENTITY forwardCmd.accesskey         "ت">
 <!ENTITY forwardButton.tooltip        "اذهب للأمام صفحة واحدة">
 <!ENTITY backForwardButtonMenu.tooltip "انقر بالزر الأيمن أو اسحب للأسفل لإظهار التأريخ">
 <!ENTITY backForwardButtonMenuMac.tooltip "اسحب للأسفل لإظهار التأريخ">
 <!ENTITY reloadCmd.label              "أعد التحميل">
+<!ENTITY reloadCmd.accesskey          "ع">
 <!ENTITY stopCmd.label                "أوقف">
+<!ENTITY stopCmd.accesskey            "ق">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "اذهب للعنوان في شريط الموقع">
 <!ENTITY printButton.label            "اطبع">
@@ -386,6 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟">
 <!ENTITY appMenuRemoteTabs.openprefs.label "تفضيلات المزامنة">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.">
+<!ENTITY appMenuRemoteTabs.unverified.label "يجب تأكيد حسابك.">
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
 <!ENTITY appMenuRemoteTabs.managedevices.label "أدِر الأجهزة…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "أظهر شريط الألسنة المزامَنة الجانبي">
@@ -567,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "اجعلها خلفية سطح المكتب…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ج">
 <!ENTITY bookmarkPageCmd2.label       "علّم هذه الصفحة">
+<!ENTITY bookmarkPageCmd2.accesskey   "ه">
 <!ENTITY bookmarkThisLinkCmd.label      "علِّم هذا الرابط">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ر">
 <!ENTITY bookmarkThisFrameCmd.label      "علِّم هذا الإطار">
@@ -810,6 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "لم تُزامَن أي ألسنة… بعد">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "يجب تأكيد حسابك.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "لا ألسنة مفتوحة">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "افتح تفضيلات &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
