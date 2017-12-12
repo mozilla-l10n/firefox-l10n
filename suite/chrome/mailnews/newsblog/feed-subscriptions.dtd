@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "收取点网址：">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "输入要添加的有效的收取点网址">
+<!ENTITY feedLocation2.placeholder   "请输入一个有效的收取点网址">
 <!ENTITY locationValidate.label      "确认有效">
 <!ENTITY validateText.label          "检查验证并获取一个有效的网址。">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "添加">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.label     "验证">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "更新">
 <!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "删除">
