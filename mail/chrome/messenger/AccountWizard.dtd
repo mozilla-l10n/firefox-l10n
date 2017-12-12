@@ -33,7 +33,7 @@
 <!ENTITY fullnameLabel.label "Вашето име:">
 <!ENTITY fullnameLabel.accesskey "В">
 
-<!ENTITY emailLabel.label "Адрес на е-поща:">
+<!ENTITY emailLabel.label "Адрес на ел. поща:">
 <!ENTITY emailLabel.accesskey "А">
 
 <!-- Entities for Incoming Server page -->

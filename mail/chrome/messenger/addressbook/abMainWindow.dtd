@@ -239,5 +239,5 @@ because displayed names don't have the comma in between. -->
 <!ENTITY windowMenu.label                               "Прозорец">
 <!ENTITY minimizeWindow.label                           "Минимизиране">
 <!ENTITY minimizeWindow.key                             "m">
-<!ENTITY bringAllToFront.label                          "Извежда всичко на преден план">
+<!ENTITY bringAllToFront.label                          "Извеждане всичко на преден план">
 <!ENTITY zoomWindow.label                               "Мащабиране">

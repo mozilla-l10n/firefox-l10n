@@ -7,7 +7,7 @@
 <!ENTITY name.accesskey                  "и">
 <!ENTITY name.placeholder                "Име Фамилия">
 <!ENTITY name.text                       "Вашето име, както ще го видят другите">
-<!ENTITY email.label                     "Е-поща:">
+<!ENTITY email.label                     "Адрес на ел. поща:">
 <!ENTITY email.accesskey                 "Е">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
