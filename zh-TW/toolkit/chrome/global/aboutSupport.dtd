@@ -153,3 +153,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "頻道">
 <!ENTITY aboutSupport.mediaDeviceRate "取樣率">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latency">
+
+<!ENTITY aboutSupport.intlTitle "國際化與在地化">
+<!ENTITY aboutSupport.intlAppTitle "應用程式設定">
+<!ENTITY aboutSupport.intlLocalesRequested "要求使用的語系">
+<!ENTITY aboutSupport.intlLocalesAvailable "可用的語系">
+<!ENTITY aboutSupport.intlLocalesSupported "應用程式語系">
+<!ENTITY aboutSupport.intlLocalesDefault "預設語系">
+<!ENTITY aboutSupport.intlOSTitle "作業系統">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "系統語系">
+<!ENTITY aboutSupport.intlRegionalPrefs "區域偏好設定">
