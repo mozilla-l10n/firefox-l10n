@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "مشكلة في تحميل الصفحة">
-<!ENTITY retry.label "حاول مرة أخرى">
+<!ENTITY retry.label "حاول مجددًا">
 <!ENTITY returnToPreviousPage.label "عُد للخلف">
 <!ENTITY advanced.label "متقدم">
 
