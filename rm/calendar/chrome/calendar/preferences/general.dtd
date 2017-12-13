@@ -42,8 +42,13 @@
      translation of that section name (calendar.upcoming.button.label). Also,
      it should be upper case (as a proper name) if the target language permits.
   -->
+<!ENTITY pref.soondays2.label "La secziun «Proximamain» mussa:">
+<!ENTITY pref.soondays2.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Accessibladad" >
 <!ENTITY pref.systemcolors.label "Optimar colurs per l'accessibladad" >
 <!ENTITY pref.systemcolors.accesskey "c">
 
+<!ENTITY pref.eventsandtasks.label "Eveniments ed incumbensas" >
+<!ENTITY pref.editInTab.label "Modifitgar eveniments ed incumbensas en in tab enstagl dad en ina fanestra." >
+<!ENTITY pref.editInTab.accesskey "t">
