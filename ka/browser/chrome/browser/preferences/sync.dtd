@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "სანიშნები">
 <!ENTITY engine.bookmarks.accesskey "ს">
 <!ENTITY engine.tabs.label2         "გახსნილი ჩანართები">
+<!ENTITY engine.tabs.title          "ყველა დასინქრონებულ მოწყობილობაზე გახსნილი ჩანართების სია">
 <!ENTITY engine.tabs.accesskey      "ჩ">
 <!ENTITY engine.history.label       "ისტორია">
 <!ENTITY engine.history.accesskey   "ი">
 <!ENTITY engine.logins.label        "შესვლები">
+<!ENTITY engine.logins.title        "შენახული სახელები და პაროლები">
 <!ENTITY engine.logins.accesskey    "შ">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "პარამეტრები">
+<!ENTITY engine.prefsWin.accesskey  "პ">
 <!ENTITY engine.prefs.label         "პარამეტრები">
-<!ENTITY engine.prefs.accesskey     "პ">
+<!ENTITY engine.prefs.accesskey     "რ">
+<!ENTITY engine.prefs.title         "ზოგადი, პირადულობისა და უსაფრთხოების ჩასწორებული პარამეტრები">
 <!ENTITY engine.addons.label        "დამატებები">
+<!ENTITY engine.addons.title        "Firefox სამაგიდო ვერსიის გაფართოებები და თემები">
 <!ENTITY engine.addons.accesskey    "დ">
 <!ENTITY engine.addresses.label     "მისამართები">
+<!ENTITY engine.addresses.title     "შენახული საფოსტო მისამართები (კომპიუტერზე მხოლოდ)">
 <!ENTITY engine.addresses.accesskey "ს">
 <!ENTITY engine.creditcards.label   "საკრედიტო ბარათები">
+<!ENTITY engine.creditcards.title   "სახელები, ნომრები და ვადები (კომპიუტერზე მხოლოდ)">
 <!ENTITY engine.creditcards.accesskey "კ">
 
 <!-- Device Settings -->
