@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "URL жывільніка:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Увядзіце спраўны URL жывільніка для дадання">
+<!ENTITY feedLocation2.placeholder   "Увядзіце сапраўдны url канала">
 <!ENTITY locationValidate.label      "Праверыць">
 <!ENTITY validateText.label          "Правяраць і атрымліваць спраўны URL.">
 
