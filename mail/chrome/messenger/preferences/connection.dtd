@@ -38,7 +38,7 @@
 <!ENTITY  noproxy.label                 "Без прокси за:">
 <!ENTITY  noproxy.accesskey             "Б">
 <!ENTITY  noproxyExplain.label          "Например: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Един сървър за всички протоколи">
+<!ENTITY  shareproxy.label              "Използване на този мрежов посредник за всички протоколи">
 <!ENTITY  shareproxy.accesskey          "с">
 <!ENTITY  autologinproxy.label          "Да не се пита за удостоверяване, ако паролата е запазена">
 <!ENTITY  autologinproxy.accesskey      "у">
