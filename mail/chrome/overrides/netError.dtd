@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "تعذر الاتصال">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "العنوان ممنوع">
+<!ENTITY deniedPortAccess.title "هذا العنوان غير مسموح به">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "الخادوم غير موجود">
