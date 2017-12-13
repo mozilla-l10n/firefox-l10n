@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "اشتراكات التلقيمات">
 <!ENTITY learnMore.label             "اعرف المزيد عن التلقيمات">
 
@@ -17,8 +17,8 @@
 
 <!ENTITY feedFolder.label            "احفظ المقالات في:">
 <!ENTITY feedFolder.accesskey        "ظ">
-<!-- Account Settings and Subscription Dialog -->
 
+<!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "التمس المقالات الجديدة كلّ ">
 <!ENTITY biffStart.accesskey         "ت">
 <!ENTITY biffMinutes.label           "دقائق">
@@ -35,11 +35,11 @@
 <!ENTITY autotagUsePrefix.label      "ضع قبل أسماء الوسوم:">
 <!ENTITY autotagUsePrefix.accesskey  "س">
 <!ENTITY autoTagPrefix.placeholder   "أدخل سابقة الوسوم">
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "أضِف">
 <!ENTITY button.addFeed.accesskey    "ض">
-<!ENTITY button.updateFeed.label     "حرّر">
+<!ENTITY button.updateFeed.label     "حدّث">
 <!ENTITY button.updateFeed.accesskey "ح">
 <!ENTITY button.removeFeed.label     "احذف">
 <!ENTITY button.removeFeed.accesskey "ح">
