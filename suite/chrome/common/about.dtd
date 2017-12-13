@@ -25,7 +25,7 @@
      so if your locale needs a space between words, add it at the end of this
      entity. -->
 <!ENTITY about.license.beforeTheLink  "Baca ">
-<!ENTITY about.license.linkTitle      "maklumat pelesenan">
+<!ENTITY about.license.linkTitle      "maklumat perlesenan">
 <!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no
      space between the linked about.license.linkTitle phrase and this phrase,
      so if your locale needs a space between words, add it at the start of
