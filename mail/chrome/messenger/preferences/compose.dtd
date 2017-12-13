@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Nagina">
 <!ENTITY editDirectories.label                 "Modifitgar registers…">
 <!ENTITY editDirectories.accesskey             "E">
+<!ENTITY showAsDefault.label                   "Ordinatur da standard cun avrir la fanestra dal cudeschet d'adressas:">
+<!ENTITY showAsDefault.accesskey               "s">
+<!ENTITY showAsDefaultLast.label               "Ultim ordinatur utilisà">
 
 <!ENTITY sendOptionsDescription.label          "Configurar il cumportament dal format da text">
 <!ENTITY sendOptions.label                     "Opziuns da trametter…">
