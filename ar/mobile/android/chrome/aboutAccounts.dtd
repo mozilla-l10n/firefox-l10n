@@ -7,7 +7,7 @@
 <!ENTITY aboutAccounts.syncPreferences.label "اضغط هنا للتحقق من إعدادات المزامنة">
 
 <!ENTITY aboutAccounts.noConnection.title "لا يوجد اتصال بالإنترنت">
-<!ENTITY aboutAccounts.retry.label "حاول مرة أخرى">
+<!ENTITY aboutAccounts.retry.label "حاول مجددًا">
 
 <!ENTITY aboutAccounts.restrictedError.title "مقيّد">
 <!ENTITY aboutAccounts.restrictedError.description "لا يمكنك إدارة حسابات فَيَرفُكس من هذا الملف الشخصي.">
