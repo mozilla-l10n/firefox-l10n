@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Keppeling nei apparaat ferstjoere">
 <!ENTITY  sendLinkToDevice.accesskey         "p">
 <!ENTITY  sendToDeviceFeedback.label         "Ferstjoerd!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Yn wachtrige (offline)">
 <!ENTITY  moveToNewWindow.label              "Ferpleatse nei nij finster">
 <!ENTITY  moveToNewWindow.accesskey          "f">
 <!ENTITY  bookmarkAllTabs.label              "Blêdwizer foar alle ljepblêden meitsje…">
