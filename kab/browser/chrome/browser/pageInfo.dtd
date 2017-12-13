@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Sutur yal tikelt">
 <!ENTITY  permAllow             "Sireg">
 <!ENTITY  permAllowSession      "Sireg i tɣimit">
+<!ENTITY  permHide              "Ffer">
 <!ENTITY  permBlock             "Sewḥel">
 <!ENTITY  permissionsFor        "Tisirag i:">
 <!ENTITY  permPlugins           "Rmed izegrar ">

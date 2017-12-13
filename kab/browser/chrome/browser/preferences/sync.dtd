@@ -12,6 +12,12 @@
 <!ENTITY engine.history.accesskey   "A">
 <!ENTITY engine.logins.label        "Inekcam">
 <!ENTITY engine.logins.accesskey    "Y">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Iγewwaṛen">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Imsenyifen">
 <!ENTITY engine.prefs.accesskey     "y">
 <!ENTITY engine.addons.label        "Izegrar">
