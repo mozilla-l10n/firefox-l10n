@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "შეკითხვა ყოველ ჯერზე">
 <!ENTITY  permAllow             "დაშვება">
 <!ENTITY  permAllowSession      "დაშვება სეანსზე">
+<!ENTITY  permHide              "დამალვა">
 <!ENTITY  permBlock             "აკრძალვა">
 <!ENTITY  permissionsFor        "ნებართვები საიტისთვის:">
 <!ENTITY  permPlugins           "მოდულების გააქტიურება">
