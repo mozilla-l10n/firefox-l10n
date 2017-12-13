@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Завжди питати">
 <!ENTITY  permAllow             "Дозволити">
 <!ENTITY  permAllowSession      "Дозволити на сеанс">
+<!ENTITY  permHide              "Приховати">
 <!ENTITY  permBlock             "Заблокувати">
 <!ENTITY  permissionsFor        "Дозволи для:">
 <!ENTITY  permPlugins           "Активувати плагіни">

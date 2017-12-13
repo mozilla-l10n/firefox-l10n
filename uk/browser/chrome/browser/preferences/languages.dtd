@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.width                                   "30em">
+<!ENTITY window.width                                   "38em">
 
 <!ENTITY languages.customize.Header                     "Мови">
 <!ENTITY languages.customize2.description               "Деякі веб-сторінки можуть бути доступними більш ніж однією мовою. Оберіть мови, якими показувати такі сторінки, в порядку зручності">
@@ -16,3 +16,4 @@
 <!ENTITY languages.customize.addButton.label            "Додати">
 <!ENTITY languages.customize.addButton.accesskey        "о">
 
+<!ENTITY languages.customize.spoofEnglish               "Запитувати англійську версію веб-сайтів для покращеної приватності">
