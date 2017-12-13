@@ -31,5 +31,5 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "o">
-<!ENTITY findPreviousCmd.label     "Nong Mukatoangec">
+<!ENTITY findPreviousCmd.label     "Nong Mukato">
 <!ENTITY findPreviousCmd.accesskey "a">
