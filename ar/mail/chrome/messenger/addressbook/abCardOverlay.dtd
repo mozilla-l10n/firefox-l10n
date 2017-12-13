@@ -44,7 +44,7 @@
 <!ENTITY PreferMailFormat.accesskey     "ف">
 <!ENTITY PlainText.label                "نص صرف">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "مجهول">
+<!ENTITY Unknown.label                  "غير معروف">
 <!ENTITY chatName.label                 "اسم الدردشة:">
 
 <!ENTITY WorkPhone.label                "العمل:">
