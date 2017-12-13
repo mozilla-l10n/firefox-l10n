@@ -315,7 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "G">
 <!ENTITY copyCmd.label            "Nɣel">
-<!ENTITY copyCmd.key            "N">
+<!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "N">
 <!ENTITY pasteCmd.label           "Senṭeḍ">
 <!ENTITY pasteCmd.key           "V">
