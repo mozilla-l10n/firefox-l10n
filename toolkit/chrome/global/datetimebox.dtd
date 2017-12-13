@@ -10,8 +10,26 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "საათი">
+<!ENTITY time.minute.label "წუთი">
+<!ENTITY time.second.label "წამი">
+<!ENTITY time.millisecond.label "მილიწამი">
+<!ENTITY time.dayperiod.label "AM/PM">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "წელი yyyy">
 <!ENTITY date.month.placeholder "თვე mm">
 <!ENTITY date.day.placeholder "რიცხვი dd">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "წელიწადი">
+<!ENTITY date.month.label "თვე">
+<!ENTITY date.day.label "დღე">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "გასუფთავება">

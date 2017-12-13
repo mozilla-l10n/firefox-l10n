@@ -163,3 +163,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlLocalesDefault "ნაგულისხმევი ენა">
 <!ENTITY aboutSupport.intlOSTitle "საოპერაციო სისტემა">
 <!ENTITY aboutSupport.intlOSPrefsSystemLocales "სისტემის ენები">
+<!ENTITY aboutSupport.intlRegionalPrefs "რეგიონალური პარამეტრები">
