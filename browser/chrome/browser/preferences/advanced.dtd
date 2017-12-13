@@ -43,7 +43,7 @@ available. -->
 
 <!ENTITY networkTab.label                "Мрежа">
 
-<!ENTITY networkProxy.label              "Прокси">
+<!ENTITY networkProxy.label              "Мрежов посредник">
 
 <!ENTITY connectionDesc.label            "Настройки на &brandShortName; за достъп до Мрежата">
 <!ENTITY connectionSettings.label        "Настройки…">
