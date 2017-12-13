@@ -31,6 +31,8 @@ sentence. -->
 <!ENTITY  completeNotification.label          "com nome do destinatário e prévia da mensagem">
 <!ENTITY  buddyInfoOnly.label                 "com o nome do remetente apenas">
 <!ENTITY  dummyNotification.label             "sem qualquer informação">
+<!ENTITY  getAttention.label                  "Piscar o item da barra de tarefas">
+<!ENTITY  getAttention.accesskey              "f">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Reproduzir um som">
 <!ENTITY  play.label                          "Reproduzir">
