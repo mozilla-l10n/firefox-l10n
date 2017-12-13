@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "ხელმოწერები არხზე">
-<!ENTITY subscriptionDesc.label "შენიშვნა: სიახლეების არხის დასტის ამოღება ან შეცვლა ადრე ჩამოტვირთულ სტატიებს არ შეეხება.">
+<!ENTITY feedSubscriptions.label     "ხელმოწერები არხზე">
 
 <!ENTITY feedTitle.label             "სათაური:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -12,26 +11,29 @@
 <!ENTITY feedLocation.label          "არხის URL:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "მიუთითეთ დასამატებელი არხის მართებული URL">
+<!ENTITY locationValidate.label      "შემოწმება">
+<!ENTITY validateText.label          "მისამართების შემოწმების ჩართვა.">
 
 <!ENTITY feedFolder.label            "სტატიების შენახვა დასტაში:">
 <!ENTITY feedFolder.accesskey        "S">
 
+<!-- Account Settings and Subscription Dialog -->
+
 <!ENTITY quickMode.label             "სტატიის ანოტაციის ჩვენება ვებგვერდის ჩატვირთვის ნაცვლად">
 <!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY locationValidate.label      "შემოწმება">
-<!ENTITY validateText.label          "მისამართების შემოწმების ჩართვა.">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "დამატება">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "განახლება">
-<!ENTITY button.editFeed.accesskey   "U">
-<!ENTITY button.removeFeed.label "ამოღება">
-<!ENTITY button.removeFeed.accesskey   "R">
-<!ENTITY button.importOPML.label "იმპორტი">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "ექსპორტი">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.updateFeed.label     "განახლება">
+<!ENTITY button.updateFeed.accesskey "გ">
+<!ENTITY button.removeFeed.label     "ამოღება">
+<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.importOPML.label     "იმპორტი">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "ექსპორტი">
+<!ENTITY button.exportOPML.accesskey "X">
 <!ENTITY button.exportOPML.tooltip   "არხების ექსპორტი დასტების სტრუქტურით; ctrl-დაწკაპვა ან ctrl-enter არხების ექსპორტისთვის სიის სახით">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY cmd.close.commandKey        "w">

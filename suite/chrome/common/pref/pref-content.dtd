@@ -20,6 +20,7 @@
      single hbox with minZoom.label preceding the minZoom control and
      maxZoom.label preceding the maxZoom control; percent.label shows
      the ASCII '%' character at the end of that string -->
+<!ENTITY minZoom.label                          "შუალედი">
 <!ENTITY percent.label                          "&#37;">
 
 <!ENTITY siteSpecific.label                     "მასშტაბების დამახსოვრება ცალკეული საიტებისათვის">

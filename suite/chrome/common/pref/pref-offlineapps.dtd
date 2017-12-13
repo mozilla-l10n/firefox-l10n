@@ -10,6 +10,8 @@
 <!ENTITY clearOfflineAppCache.label         "გასუფთავება">
 <!ENTITY clearOfflineAppCache.accesskey     "C">
 
+<!ENTITY offlineAlwaysAllow.label           "ყველა საიტისთვის, მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლების მიცემა">
+<!ENTITY offlineAlwaysAllow.accesskey       "ყ">
 <!ENTITY offlineNotifyAsk.label             "ცნობება საიტის მიერ მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის შესახებ">
 <!ENTITY offlineNotifyAsk.accesskey         "ც">
 <!ENTITY offlineNotifyPermissions.label     "უფლებების მართვა">
