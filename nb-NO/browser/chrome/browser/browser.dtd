@@ -391,10 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du se faner fra de andre enhetene dine her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinnstillinger">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å vise en liste over faner fra andre enheter.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Kontoen din må verifiseres.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrer enheter …">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe med synkroniserte faner">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Koble til en annen enhet">
 
 <!ENTITY appMenuRecentHighlights.label "Siste høydepunkter">
 
@@ -571,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Bruk som skrivebordsbakgrunn …">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
 <!ENTITY bookmarkPageCmd2.label       "Bokmerk denne siden">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Bokmerk denne lenken">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne rammen">
@@ -759,6 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Nettstedssikkerhet">
 
 <!ENTITY identity.connectionSecure "Sikker tilkobling">
 <!ENTITY identity.connectionNotSecure "Tilkoblingen er ikke sikker">
@@ -813,6 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Ingen synkroniserte faner … ennå!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vil du se faner fra de andre enhetene dine her?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logg inn for å vise en liste over faner fra andre enheter.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Kontoen din må verifiseres.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen åpne faner">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Åpne innstillinger for &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -820,6 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Skru på fane-synkronisering for å vise en liste over faner fra dine andre enheter.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Søk synkroniserte faner">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Koble til en annen enhet">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -990,11 +996,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Start om for å oppdatere &brandShorterName;">
 
+<!ENTITY newTabControlled.keepButton.label "Behold endringer">
+<!ENTITY newTabControlled.keepButton.accesskey "B">
+<!ENTITY newTabControlled.restoreButton.label "Gjenopprett innstillinger">
+<!ENTITY newTabControlled.restoreButton.accesskey "r">
 
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinjen">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinjen">
 
+<!ENTITY pageAction.allowInUrlbar.label "Vis i adresselinjen">
+<!ENTITY pageAction.disallowInUrlbar.label "Ikke vis i adresselinjen">
+<!ENTITY pageAction.manageExtension.label "Behandle utvidelser…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Send fane til enhet">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheter…">
