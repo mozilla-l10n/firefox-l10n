@@ -20,10 +20,11 @@
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Wiel &tabCrashed.restoreTab; fir d'Säit nei ze lueden.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Wiel &tabCrashed.restoreTab; oder &tabCrashed.restoreAll; fir d'Säit /pages nei ze lueden.">
 <!ENTITY tabCrashed.requestHelp "Géifs Du eis hëllefen?">
+<!ENTITY tabCrashed.requestHelpMessage "Ofstierzberichter hëllefen eis d'Problemer ze diagnostizéieren a verbesseren de &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Dësen Tab mellen">
-<!ENTITY tabCrashed.sendReport3 "Schéck en automatesche Crash-Rapport dass mir sou Problemer léise kënnen.">
+<!ENTITY tabCrashed.sendReport3 "Schéck en automatesche Ofstierzbericht dass mir sou Problemer léise kënnen.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Fakultativ Bemierkungen (Bemierkunge sinn ëffentlech visibel)">
-<!ENTITY tabCrashed.includeURL3 "D'URLe vun de Sitten drasetzen op deenen Dir waart wéi de &brandShortName; gecrasht ass.">
+<!ENTITY tabCrashed.includeURL3 "D'URLe vun de Sitten drasetzen op deenen Dir waart wéi de &brandShortName; ofgestierzt ass.">
 <!ENTITY tabCrashed.emailPlaceholder "Gëff Deng E-Mail-Adress hei an">
 <!ENTITY tabCrashed.emailMe "Mir eng E-Mail schécke wa méi Informatiounen disponibel sinn">
 <!ENTITY tabCrashed.autoSubmit3 "Astellungen aktualiséieren fir automatesch Rapporten ze schécke wann de &brandShortName; ofstierzt.">
