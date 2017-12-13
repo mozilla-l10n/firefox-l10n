@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Bate-papo">
 <!ENTITY goChatCmd.accesskey "B">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Pasta">
