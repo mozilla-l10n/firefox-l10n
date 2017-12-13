@@ -16,3 +16,4 @@
 <!ENTITY languages.customize.addButton.label            "Přidat">
 <!ENTITY languages.customize.addButton.accesskey        "a">
 
+<!ENTITY languages.customize.spoofEnglish               "Požadovat anglické verze webových stránek pro vyšší úroveň soukromí">
