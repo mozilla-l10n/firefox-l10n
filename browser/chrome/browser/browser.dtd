@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Gửi đường dẫn tới thiết bị">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "Đã gửi!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Đã xếp hàng đợi (ngoại tuyến)">
 <!ENTITY  moveToNewWindow.label              "Di chuyển sang cửa sổ mới">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Đánh dấu tất cả các thẻ…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Trở lại">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Trở lại trang trước">
 <!ENTITY forwardCmd.label             "Tiếc tục">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Tiến đến một trang">
 <!ENTITY backForwardButtonMenu.tooltip "Nhấn chuột phải hoặc kéo xuống để hiển thị lịch sử">
 <!ENTITY backForwardButtonMenuMac.tooltip "Kéo xuống để xem lịch sử">
 <!ENTITY reloadCmd.label              "Tải lại">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Dừng">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Mở trang trong thanh địa chỉ">
 <!ENTITY printButton.label            "In">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Tùy biến thanh menu và công cụ">
 <!ENTITY appMenuCustomizeExit.label "Thoát chế độ tùy biến">
 <!ENTITY appMenuCustomizeExit.tooltip "Chấp nhận tùy biến">
+
 <!ENTITY appMenuHistory.showAll.label "Xem toàn bộ lược sử">
 <!ENTITY appMenuHistory.clearRecent.label "Xóa lược sử gần đây…">
 <!ENTITY appMenuHistory.restoreSession.label "Khôi phục phiên làm việc trước">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Muốn xem thẻ từ các thiết bị khác của bạn ở đây?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Tùy chỉnh đồng bộ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Tài khoản của bạn cần phải xác thực.">
 <!ENTITY appMenuRemoteTabs.signin.label "Đăng nhập vào đồng bộ hóa">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Quản lý thiết bị…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Xem các thẻ trên thanh lề đã đồng bộ">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Kết nối thiết bị khác">
 
 <!ENTITY appMenuRecentHighlights.label "Nổi bật gần đây">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Đặt làm ảnh nền desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Đánh dấu trang này">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Đánh dấu liên kết này">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Đánh dấu khung này">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Xong">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Bảo mật trang web">
+
 <!ENTITY identity.connectionSecure "Kết nối an toàn">
 <!ENTITY identity.connectionNotSecure "Kết nối này không an toàn">
 <!ENTITY identity.connectionFile "Trang này đã được lưu ở máy tính của bạn.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Hiện… chưa có thẻ đã đồng bộ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Muốn xem thẻ từ các thiết bị khác của bạn ở đây?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Tài khoản của bạn cần được xác thực.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Không có thẻ đang mở">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Mở tùy chỉnh của &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Bật đồng bộ thẻ để xem danh sách thẻ từ các thiết bị khác của bạn.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Tìm các thẻ đã đồng bộ">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Kết nối thiết bị khác">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Khởi động lại để cập nhật &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Hành động trên trang">
 <!ENTITY pageAction.addToUrlbar.label "Thêm vào thanh địa chỉ">
 <!ENTITY pageAction.removeFromUrlbar.label "Xóa khỏi thanh địa chỉ">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Gửi thẻ tới thiết bị">
 <!ENTITY sendToDevice.syncNotReady.label "Đang đồng bộ các thiết bị…">
