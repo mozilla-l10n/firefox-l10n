@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Менаџер додатака">
 
 <!ENTITY search.placeholder                   "Претражи све додатке">
+
+<!ENTITY search.placeholder2                  "Претражи на addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Претражи">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
