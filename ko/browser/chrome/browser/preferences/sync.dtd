@@ -11,12 +11,21 @@
 <!ENTITY engine.history.label       "방문 기록">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "로그인">
+<!ENTITY engine.logins.title        "저장한 사용자 이름과 비밀번호">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "설정">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "환경 설정">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "부가 기능">
+<!ENTITY engine.addons.title        "데스크톱용 Firefox를 위한 확장 프로그램과 테마">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "주소">
+<!ENTITY engine.addresses.title     "저장한 우편 주소(데스크탑)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "신용카드">
 <!ENTITY engine.creditcards.accesskey "C">
