@@ -4,3 +4,6 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "ເປີດໜ້າຕ່າງໃໝ່">
+<!ENTITY newtab.customize.blank2 "ສະແດງໜ້າເປົ່າ">
+<!ENTITY newtab.undo.restoreButton "ກູ້ຄືນທັງໝົດ">
+<!ENTITY newtab.undo.closeTooltip "ເຊືອງ">

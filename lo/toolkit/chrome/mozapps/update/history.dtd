@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "ປະຫວັດການອັບເດດ">
-<!ENTITY  history.intro             "ການອັບເດດຕໍ່ໄປນີ້ແມ່ນໄດ້ຮັບການຕິດຕັ້ງແລ້ວ:">
+<!ENTITY  history2.intro            "ການອັບເດດຄັ້ງຕໍ່ໄປນີ້ໄດ້ຮັບການຕິດຕັ້ງແລ້ວ">
 <!ENTITY  closebutton.label         "ອອກ">
-                                     
+
 <!ENTITY  noupdates.label           "ບໍ່ມີກາານອັບເດດຖືກຕິດຕັ້ງເທື່ອ">
 
 <!ENTITY  name.header               "ຊື່ການອັບເດດ">
