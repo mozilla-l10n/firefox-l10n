@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Vždy se zeptat">
 <!ENTITY  permAllow             "Povolit">
 <!ENTITY  permAllowSession      "Povolit pro relaci">
+<!ENTITY  permHide              "Skrýt">
 <!ENTITY  permBlock             "Blokovat">
 <!ENTITY  permissionsFor        "Oprávnění pro server:">
 <!ENTITY  permPlugins           "Spouštět zásuvné moduly">
