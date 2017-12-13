@@ -155,3 +155,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "채널">
 <!ENTITY aboutSupport.mediaDeviceRate "비율">
 <!ENTITY aboutSupport.mediaDeviceLatency "지연">
+
+<!ENTITY aboutSupport.intlLocalesRequested "요청된 언어">
+<!ENTITY aboutSupport.intlLocalesAvailable "사용 가능한 언어">
+<!ENTITY aboutSupport.intlLocalesSupported "응용 프로그램 언어">
+<!ENTITY aboutSupport.intlLocalesDefault "기본 언어">
+<!ENTITY aboutSupport.intlOSTitle "운영 체제">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "시스템 언어">
+<!ENTITY aboutSupport.intlRegionalPrefs "지역 설정">
