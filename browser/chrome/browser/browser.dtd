@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "ბმულის გაგზავნა მოწყობილობაზე">
 <!ENTITY  sendLinkToDevice.accesskey         "წ">
 <!ENTITY  sendToDeviceFeedback.label         "გაგზავნილია!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "დაყოვნებულია (კავშირგარეშე)">
 <!ENTITY  moveToNewWindow.label              "ახალ ფანჯარაში გადატანა">
 <!ENTITY  moveToNewWindow.accesskey          "ფ">
 <!ENTITY  bookmarkAllTabs.label              "ყველა ჩანართის ჩანიშვნა…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "დ">
 
 <!ENTITY backCmd.label                "უკან">
+<!ENTITY backCmd.accesskey            "უ">
 <!ENTITY backButton.tooltip           "წინა გვერდი">
 <!ENTITY forwardCmd.label             "წინ">
+<!ENTITY forwardCmd.accesskey         "წ">
 <!ENTITY forwardButton.tooltip        "მომდევნო გვერდი">
 <!ENTITY backForwardButtonMenu.tooltip "ისტორიის საჩვენებლად გამოიყენეთ მარჯვენა წკაპი ან ჩამოქაჩეთ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ისტორიის საჩვენებლად ჩამოქაჩეთ">
 <!ENTITY reloadCmd.label              "განახლება">
+<!ENTITY reloadCmd.accesskey          "ნ">
 <!ENTITY stopCmd.label                "გაჩერება">
+<!ENTITY stopCmd.accesskey            "ჩ">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "მისამართზე გადასვლა">
 <!ENTITY printButton.label            "ამობეჭდვა">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "მენიუს და ხელსაწყოთა ზოლების მორგება">
 <!ENTITY appMenuCustomizeExit.label "მორგებიდან გამოსვლა">
 <!ENTITY appMenuCustomizeExit.tooltip "მორგების დასრულება">
+
 <!ENTITY appMenuHistory.showAll.label "სრული ისტორიის ჩვენება">
 <!ENTITY appMenuHistory.clearRecent.label "უახლესი ისტორიის გასუფთავება…">
 <!ENTITY appMenuHistory.restoreSession.label "წინა სეანსის აღდგენა">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
+<!ENTITY appMenuRemoteTabs.unverified.label "თქვენი ანგარიში საჭიროებს დამოწმებას.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ში შესვლა">
 <!ENTITY appMenuRemoteTabs.managedevices.label "მოწყობილობების მართვა…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "დასინქრონებული ჩანართების გვერდითი ზოლის ნახვა">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "სხვა მოწყობილობის დაკავშირება">
 
 <!ENTITY appMenuRecentHighlights.label "გამორჩეული სიახლეები">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "სამუშაო ეკრანის ფონად გამოყენება…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ს">
 <!ENTITY bookmarkPageCmd2.label       "გვერდის ჩანიშვნა">
+<!ENTITY bookmarkPageCmd2.accesskey   "გ">
 <!ENTITY bookmarkThisLinkCmd.label      "ბმულის ჩანიშვნა">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ბ">
 <!ENTITY bookmarkThisFrameCmd.label      "ჩარჩოს ჩანიშვნა">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "მზადაა">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ს">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "საიტის უსაფრთხოება">
+
 <!ENTITY identity.connectionSecure "დაცული კავშირი">
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
 <!ENTITY identity.connectionFile "ეს გვერდი თქვენს კომპიუტერშია შენახული.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "დასინქრონებული ჩანართები არაა… ჯერ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "თქვენი ანგარიში საჭიროებს დამოწმებას.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "გახსნილი ჩანართები არაა">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; მითითებების გახსნა">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "დასინქრონებული ჩანართების მოძიება">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "სხვა მოწყობილობის დაკავშირება">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ა">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;-ის გასაახლებლად, გაუშვით ხელახლა">
 
+<!ENTITY newTabControlled.message "გვერდი რომელსაც ხედავთ ახალი ჩანართის გახსნისას, ჩანაცვლებულია გაფართოების მიერ. თუ არ გსურთ ეს ცვლილება, შეგიძლიათ დააბრუნოთ ძველი პარამეტრები.">
+<!ENTITY newTabControlled.header.message "ახალი ჩანართის გვერდი შეიცვალა.">
+<!ENTITY newTabControlled.keepButton.label "ცვლილებების დატოვება">
+<!ENTITY newTabControlled.keepButton.accesskey "დ">
+<!ENTITY newTabControlled.restoreButton.label "წინა პარამეტრების დაბრუნება">
+<!ENTITY newTabControlled.restoreButton.accesskey "წ">
+
 <!ENTITY pageActionButton.tooltip "ვებგვერდზე მოქმედებები">
 <!ENTITY pageAction.addToUrlbar.label "მისამართების ზოლში დამატება">
 <!ENTITY pageAction.removeFromUrlbar.label "მისამართების ზოლიდან ამოღება">
+
+<!ENTITY pageAction.allowInUrlbar.label "მისამართების ველში ჩვენება">
+<!ENTITY pageAction.disallowInUrlbar.label "მისამართების ველიდან ამოღება">
+<!ENTITY pageAction.manageExtension.label "გაფართოების მართვა…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ჩანართის გაგზავნა მოწყობილობაზე">
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
