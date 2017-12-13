@@ -202,9 +202,9 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "تحديث">
-<!ENTITY addon.undoAction.label               "تراجَع">
+<!ENTITY addon.undoAction.label               "تراجع">
 <!ENTITY addon.undoAction.tooltip             "تراجع عن هذا الإجراء">
-<!ENTITY addon.undoRemove.label               "تراجَع">
+<!ENTITY addon.undoRemove.label               "تراجع">
 <!ENTITY addon.undoRemove.tooltip             "احتفظ بهذه الإضافة منصّبة">
 <!ENTITY addon.restartNow.label               "أعد التشغيل الآن">
 <!ENTITY addon.install.label                  "نصّب">

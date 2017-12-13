@@ -42,7 +42,7 @@
 <!ENTITY translation.showTranslation.button     "اعرض الترجمة">
 
 <!ENTITY translation.errorTranslating.label     "حدث خطأ أثناء ترجمة هذه الصفحة.">
-<!ENTITY translation.tryAgain.button            "أعِد المحاولة">
+<!ENTITY translation.tryAgain.button            "حاول مجددًا">
 
 <!ENTITY translation.serviceUnavailable.label   "الترجمة ليست متوفرة حاليًا. من فضلك أعد المحاولة لاحقًا.">
 
