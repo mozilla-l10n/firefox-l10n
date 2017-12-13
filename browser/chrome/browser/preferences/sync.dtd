@@ -11,7 +11,12 @@
 <!ENTITY engine.history.label       "Historikk">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.logins.label        "Innloggingar">
+<!ENTITY engine.logins.title        "Brukarnamn og passord du har lagra">
 <!ENTITY engine.logins.accesskey    "l">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
 <!ENTITY engine.prefs.label         "Innstillingar">
 <!ENTITY engine.prefs.accesskey     "n">
 <!ENTITY engine.addons.label        "Utvidingar">
