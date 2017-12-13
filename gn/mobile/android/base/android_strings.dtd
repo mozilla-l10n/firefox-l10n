@@ -7,6 +7,10 @@
 <!ENTITY firstrun_urlbar_subtext2 "Peteĩ kundahára ojapóva Mozilla, peteĩ aty oheka\&apos;ỹva viru ha oipotáva ñandutiveve isãso ha oikóva opavavépe g̃uarã.">
 <!ENTITY firstrun_panel_title_privacy "Tekovepypegua">
 <!ENTITY firstrun_privacy_message "Eikundaha ndaiporiramoguáicha omañañemíva nderehe">
+<!ENTITY firstrun_privacy_subtext "Kundahañemi rupive oñeñangareko nderehe ani hag̃ua ambuekuéra oikuaa mba\&apos;épa rejapo ha resẽ vove ñandutivevégui ndojekuaamo\&apos;ãi mba\&apos;épa rehecha kuri.">
+<!ENTITY firstrun_panel_title_customize "Ñemomba\&apos;ete">
+<!ENTITY firstrun_customize_message "Emboheko &brandShortName; ikatuhaguáicha omba\&apos;apo reipotaháicha.">
+<!ENTITY firstrun_customize_subtext "Eñemomba\&apos;ete &brandShortName; rehe eipurúvo tembipuru\&apos;i joajupyre. Emboyke ta\&apos;ãnga omba\&apos;evendeséva ndéve, embojoapy Firefox-re tembipuru\&apos;i ojapóva reikotevẽva ýrõ embojegua reipotaháicha.">
 <!ENTITY firstrun_bookmarks_title "Tembiasakue">
 <!ENTITY firstrun_bookmarks_message "Eguerohoryvéva, tenonde ha mbytépe">
 <!ENTITY firstrun_bookmarks_subtext "Eguerekokuaa techaukahakuéra ha tembiasakue eheka vove eikuaasevéva.">
@@ -14,6 +18,8 @@
 <!ENTITY firstrun_data_message "Mba\&apos;ekuaarã\&apos;ive, ñembyatyve">
 <!ENTITY firstrun_data_subtext2 "Embogue ta\&apos;angakuéra embohasa\&apos;ive hag̃ua mba\&apos;ekuaarã peteĩteĩva tenda eho hague pegua.">
 <!ENTITY firstrun_sync_title "Mbojuehe">
+<!ENTITY firstrun_sync_message2 "Ejapyhyjey eheja haguépe.">
+<!ENTITY firstrun_sync_subtext2 "Eipuru Sync ejuhu hag̃ua ne rechaukaha, ñe\&apos;ẽñemi ha ambueve reñongatuva\&apos;ekue &brandShortName; pe eipuru vove oimeraẽva mba\&apos;e\&apos;oka rerekóva (ne mohendaha, ne pumbyry, tablet  hamba\&apos;e).">
 <!ENTITY firstrun_signin_message "Eike, eñepyrũ">
 <!ENTITY firstrun_signin_button "Emoñepyrũ tembiapo embojuehe hag̃ua">
 <!ENTITY  onboard_start_button_browser "Eñepyrũ eikundaha">
@@ -86,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; temimoĩ">
 <!ENTITY bookmark_folder_one_item "1 temimoĩ">
+<!ENTITY bookmark_folder_updated "Ñongatuha oñembohekopyahúma">
 <!ENTITY bookmark_parent_folder "Ñongatuha mba\&apos;eguasuvéva">
 <!ENTITY bookmark_add_folder "Embojuaju ñongatuha pyahu">
 
@@ -282,6 +289,8 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Tendayke Oñemomba\&apos;epyre">
+<!ENTITY pref_custom_tabs_summary4 "Emoneĩ app-kuérape ohechauka hag̃ua chéve peteĩ tendayke pyahúpe oimeraẽva mba\&apos;e ñandutivevepegua ikatuhaguáicha ojehechauka pya\&apos;eve chéve">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -354,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Emoneĩ QR moha\&apos;ãngaha URL rendápe">
 
 <!ENTITY pref_use_master_password "Ñe\&apos;ẽñemi ha\&apos;etéva jepuru">
+<!ENTITY pref_sync_default_title "Firefox Mba\&apos;ete">
 <!ENTITY pref_sync2 "Eñemboheraguapy">
 <!ENTITY pref_sync_summary2 "Embojuehe tendayke, techaukaha, tembiapo ñepyrũ, tembiasakue">
 <!ENTITY pref_search_suggestions "Ehechauka ñe\&apos;ẽme\&apos;ẽ jehekarã">
