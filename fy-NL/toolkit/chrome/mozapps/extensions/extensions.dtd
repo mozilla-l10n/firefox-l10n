@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Add-onbehearder">
 
 <!ENTITY search.placeholder                   "Alle add-ons trochsykje">
+
+<!ENTITY search.placeholder2                  "Sykje op addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Sykje">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "In side tebek gean">
 <!ENTITY cmd.forward.tooltip                  "In side foarút gean">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Guon útwreidingen koene net ferifiearre wurde">
 <!ENTITY showAllExtensions.button.label       "Alle útwreidingen toane">
@@ -258,7 +261,6 @@
 <!ENTITY pluginDeprecation.description "Misse jo wat? Guon ynstekkers wurde net langer stipe troch &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Mear ynfo.">
 
-<!ENTITY legacyWarning.description "Misse jo wat? Guon útwreidingen wurde net langer stipe troch &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Ferâldere útwreidingen toane">
 <!ENTITY legacyExtensions.title "Ferâldere útwreidingen">
 <!ENTITY legacyExtensions.description "Dizze útwreidingen foldogge op dit stuit net oan de &brandShortName;-standerts binne dêrom de-aktivearre.">

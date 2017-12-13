@@ -155,3 +155,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanalen">
 <!ENTITY aboutSupport.mediaDeviceRate "Wurdearrring">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latintens">
+
+<!ENTITY aboutSupport.intlAppTitle "Applikaasjeynstellingen">
+<!ENTITY aboutSupport.intlLocalesRequested "Fersochte talen">
+<!ENTITY aboutSupport.intlLocalesAvailable "Beskikbere talen">
+<!ENTITY aboutSupport.intlLocalesSupported "App-talen">
+<!ENTITY aboutSupport.intlLocalesDefault "Standerttaal">
+<!ENTITY aboutSupport.intlOSTitle "Bestjoeringssysteem">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Systeemtalen">
+<!ENTITY aboutSupport.intlRegionalPrefs "Regionale foarkarren">
