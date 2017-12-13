@@ -37,3 +37,4 @@
 <!ENTITY button.exportOPML.tooltip   "არხების ექსპორტი დასტების სტრუქტურით; ctrl-დაწკაპვა ან ctrl-enter არხების ექსპორტისთვის სიის სახით">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "დახურვა">
