@@ -41,13 +41,21 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Aprender más sobre las herramientas de desarrollador">
 
+<!ENTITY  aboutDevtools.enable.closeButton "Cerrar esta página">
 
+<!ENTITY  aboutDevtools.enable.closeButton2 "Cerrar esta pestaña">
 
+<!ENTITY  aboutDevtools.welcome.title "¡Bienvenido a las herramientas de desarrollador de Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Boletín de desarrollador de Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Obtén noticias, trucos y recursos para desarrolladores enviados directo a tu bandeja de entrada.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Correo">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Suscribirme">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "¡Gracias!">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
