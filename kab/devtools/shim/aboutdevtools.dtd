@@ -43,13 +43,23 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Issin ugar γef Ifecka n tneflit">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Rmed ifecka n tneflit">
+<!ENTITY  aboutDevtools.enable.closeButton "Mdel asebter-agi">
 
+<!ENTITY  aboutDevtools.enable.closeButton2 "Mdel iccer-a">
 
+<!ENTITY  aboutDevtools.welcome.title "Ansuf yis-k γer Ifecka Firefox Developer!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Aγmis n ineflayen n Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Rmes-d isallen, tixbula akked tiɣbula i yineflayen srid di tnaka-ik n urmas.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Imayl">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Jerred">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Tanemmirt!">
 
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
