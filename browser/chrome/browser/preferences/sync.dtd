@@ -12,13 +12,23 @@
 <!ENTITY engine.history.accesskey   "n">
 <!ENTITY engine.logins.label        "Oanmeldingen">
 <!ENTITY engine.logins.accesskey    "O">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Opsjes">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Foarkarren">
 <!ENTITY engine.prefs.accesskey     "F">
+<!ENTITY engine.prefs.title         "Algemiene, privacy- en feilichheidsynstellingen dy't jo wizige hawwe">
 <!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.title        "Utwreidingen en tema's foar Firefox foar desktop">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "Adressen">
+<!ENTITY engine.addresses.title     "Bewarre adressen (allinnich desktop)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Creditcards">
+<!ENTITY engine.creditcards.title   "Nammen, nûmers en ferrindatums (allinnich desktop)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->

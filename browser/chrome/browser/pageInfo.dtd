@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Altyd freegje">
 <!ENTITY  permAllow             "Tastean">
 <!ENTITY  permAllowSession      "Tastean foar sesje">
+<!ENTITY  permHide              "Ferstopje">
 <!ENTITY  permBlock             "Blokkearje">
 <!ENTITY  permissionsFor        "Tastimmingen foar:">
 <!ENTITY  permPlugins           "Ynstekkers aktivearje">

@@ -993,11 +993,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Jo nije ljepblêd is wizige.">
 <!ENTITY newTabControlled.keepButton.label "Wizigingen bewarje">
 <!ENTITY newTabControlled.keepButton.accesskey "W">
+<!ENTITY newTabControlled.restoreButton.label "Ynstellingen weromsette">
+<!ENTITY newTabControlled.restoreButton.accesskey "Y">
 
 <!ENTITY pageActionButton.tooltip "Side-aksjes">
 <!ENTITY pageAction.addToUrlbar.label "Tafoegje oan adresbalke">
 <!ENTITY pageAction.removeFromUrlbar.label "Fuortsmite fan adresbalke">
 
+<!ENTITY pageAction.allowInUrlbar.label "Yn adresbalke toane">
+<!ENTITY pageAction.disallowInUrlbar.label "Net yn adresbalke toane">
+<!ENTITY pageAction.manageExtension.label "Utwreiding beheare…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Ljepblêd nei apparaat ferstjoere">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">
