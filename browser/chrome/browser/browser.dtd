@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Send lenke til eining">
 <!ENTITY  sendLinkToDevice.accesskey         "e">
 <!ENTITY  sendToDeviceFeedback.label         "Sendt!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "I kø (fråkopla)">
 <!ENTITY  moveToNewWindow.label              "Flytt til eit nytt vindauge">
 <!ENTITY  moveToNewWindow.accesskey          "F">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner…">
@@ -190,6 +191,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backCmd.label                "Tilbake">
 <!ENTITY backButton.tooltip           "Gå tilbake ei side">
 <!ENTITY forwardCmd.label             "Fram">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gå fram ei side">
 <!ENTITY backForwardButtonMenu.tooltip "Høgreklikk eller trekk ned for å vise historikk">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trekk ned for å vise historikk">
@@ -355,6 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Tilpass meny og verktøylinjer">
 <!ENTITY appMenuCustomizeExit.label "Avslutt tilpasning">
 <!ENTITY appMenuCustomizeExit.tooltip "Fullfør tilpassing">
+
 <!ENTITY appMenuHistory.showAll.label "Vis all historikk">
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nyleg historikk…">
 <!ENTITY appMenuHistory.restoreSession.label "Bygg oppatt siste programøkt">
@@ -388,6 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Handter einingar…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe for synkroniserte faner">
+
 
 <!ENTITY appMenuRecentHighlights.label "Siste høgdepunkt">
 
@@ -750,6 +754,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Ferdig">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Trygt samband">
 <!ENTITY identity.connectionNotSecure "Sambandet er ikkje trygt">
 <!ENTITY identity.connectionFile "Denne sida er lagra på datamaskina di.">
@@ -809,6 +816,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fane-sync for å vise ei liste over faner frå dei andre einingane dine.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Søk synkroniserte faner">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +987,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Start på nytt for å oppdatere &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Sidehandlingar">
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinja">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinja">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Send fane til eining">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
