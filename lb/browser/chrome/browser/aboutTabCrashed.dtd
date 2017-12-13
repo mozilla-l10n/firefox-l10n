@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabCrashed.title "Melder fir gecrasht Tabs">
+
+<!ENTITY tabCrashed.closeTab2  "Tab zoumaachen">
+<!ENTITY tabCrashed.restoreTab "Dësen Tab restauréieren">
+<!ENTITY tabCrashed.restoreAll "All gecrasht Tabs restauréieren">
+
+<!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
+     used to express surprise or frustration (or both at the same time).  We
+     are using it to communicate in an informal way that it is both
+     frustrating that your tab crashed and a surprise that we didn't want to
+     happen. If you have a similar word or short phrase that is not profane or
+     vulgar, use it. If not, feel free to skip the word in your
+     translation. -->
+<!ENTITY tabCrashed.header2 "Ären Tab ass elo grad gecrasht.">
+<!ENTITY tabCrashed.offerHelp2 "Mir kënnen hëllefen!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Wiel &tabCrashed.restoreTab; fir d'Säit nei ze lueden.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Wiel &tabCrashed.restoreTab; oder &tabCrashed.restoreAll; fir d'Säit /pages nei ze lueden.">
+<!ENTITY tabCrashed.requestHelp "Géifs Du eis hëllefen?">
+<!ENTITY tabCrashed.requestReport "Dësen Tab mellen">
+<!ENTITY tabCrashed.sendReport3 "Schéck en automatesche Crash-Rapport dass mir sou Problemer léise kënnen.">
+<!ENTITY tabCrashed.commentPlaceholder2 "Fakultativ Bemierkungen (Bemierkunge sinn ëffentlech visibel)">
