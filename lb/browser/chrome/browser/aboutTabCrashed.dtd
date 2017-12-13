@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.title "Melder fir gecrasht Tabs">
+<!ENTITY tabCrashed.title "Melder fir ofgestierzt Tabs">
 
 <!ENTITY tabCrashed.closeTab2  "Tab zoumaachen">
 <!ENTITY tabCrashed.restoreTab "Dësen Tab restauréieren">
@@ -15,7 +15,7 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Ären Tab ass elo grad gecrasht.">
+<!ENTITY tabCrashed.header2 "Ären Tab ass elo grad ofgestierzt.">
 <!ENTITY tabCrashed.offerHelp2 "Mir kënnen hëllefen!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Wiel &tabCrashed.restoreTab; fir d'Säit nei ze lueden.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Wiel &tabCrashed.restoreTab; oder &tabCrashed.restoreAll; fir d'Säit /pages nei ze lueden.">
@@ -23,3 +23,7 @@
 <!ENTITY tabCrashed.requestReport "Dësen Tab mellen">
 <!ENTITY tabCrashed.sendReport3 "Schéck en automatesche Crash-Rapport dass mir sou Problemer léise kënnen.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Fakultativ Bemierkungen (Bemierkunge sinn ëffentlech visibel)">
+<!ENTITY tabCrashed.includeURL3 "D'URLe vun de Sitten drasetzen op deenen Dir waart wéi de &brandShortName; gecrasht ass.">
+<!ENTITY tabCrashed.emailPlaceholder "Gëff Deng E-Mail-Adress hei an">
+<!ENTITY tabCrashed.emailMe "Mir eng E-Mail schécke wa méi Informatiounen disponibel sinn">
+<!ENTITY tabCrashed.autoSubmit3 "Astellungen aktualiséieren fir automatesch Rapporten ze schécke wann de &brandShortName; ofstierzt.">
