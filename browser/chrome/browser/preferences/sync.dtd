@@ -21,11 +21,11 @@
 <!ENTITY engine.prefsWin.label      "الخيارات">
 <!ENTITY engine.prefsWin.accesskey  "خ">
 <!ENTITY engine.prefs.label         "التفضيلات">
-<!ENTITY engine.prefs.accesskey     "ض">
-<!ENTITY engine.prefs.title         "الإعدادات العامة، وإعدادات الخصوصية والأمن التي غيرتها">
+<!ENTITY engine.prefs.accesskey     "ت">
+<!ENTITY engine.prefs.title         "الإعدادات العامة، و إعدادات الخصوصية و الأمن التي غيرتها">
 <!ENTITY engine.addons.label        "الإضافات">
-<!ENTITY engine.addons.title        "امتدادات وسمات لنسخة سطح المكتب من فَيَرفُكس">
-<!ENTITY engine.addons.accesskey    "ض">
+<!ENTITY engine.addons.title        "امتدادات و سمات لنسخة سطح المكتب من فَيَرفُكس">
+<!ENTITY engine.addons.accesskey    "ت">
 <!ENTITY engine.addresses.label     "العناوين">
 <!ENTITY engine.addresses.title     "العناوين البريدية التي حفظتها (لسطح المكتب فقط)">
 <!ENTITY engine.addresses.accesskey "ع">
