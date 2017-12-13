@@ -11,7 +11,4 @@
 <!ENTITY  actionColumn2.label     "Дејство">
 <!ENTITY  actionColumn2.accesskey "Д">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
-
-<!ENTITY  filter2.emptytext        "Претражи типове података или аплиакција">
+<!ENTITY  filter2.emptytext        "Претражи типове података или апликација">
