@@ -67,7 +67,7 @@
 <!ENTITY  securityTab.accesskey "س">
 <!ENTITY  securityView.certView "اعرض الشهادة">
 <!ENTITY  securityView.accesskey "ع">
-<!ENTITY  securityView.unknown   "مجهول">
+<!ENTITY  securityView.unknown   "غير معروف">
 
 
 <!ENTITY  securityView.identity.header   "هوية الموقع">
