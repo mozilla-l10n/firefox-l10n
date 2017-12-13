@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "معلومات عن url-classifier">
 <!ENTITY aboutUrlClassifier.providerTitle               "المزوِّد">
 <!ENTITY aboutUrlClassifier.provider                    "المزوِّد">
@@ -10,7 +10,7 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "وقت التحديث التالي">
 <!ENTITY aboutUrlClassifier.providerBackOffTime         "وقت التراجع">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "حالة آخر تحديث">
-<!ENTITY aboutUrlClassifier.providerUpdateBtn           "حدِّث">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "حدّث">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "الخبيئة">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "حدّث">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "امسح">

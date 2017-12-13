@@ -188,7 +188,7 @@
 <!ENTITY addon.homepage                       "صفحة البداية">
 <!ENTITY addon.details.label                  "المزيد">
 <!ENTITY addon.details.tooltip                "أظهِر المزيد من التفاصيل عن هذه الإضافة">
-<!ENTITY addon.unknownDate                    "مجهول">
+<!ENTITY addon.unknownDate                    "غير معروف">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->

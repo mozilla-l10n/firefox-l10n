@@ -15,7 +15,7 @@
 <!ENTITY connectionFailure.title "تعذر الاتصال">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "العنوان ممنوع">
+<!ENTITY deniedPortAccess.title "هذا العنوان غير مسموح به">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "الخادوم غير موجود">
@@ -70,7 +70,7 @@
 <!ENTITY unknownProtocolFound.title "لم يُفهم العنوان">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>قد تحتاج تنصيب برمجيات أخرى لفتح هذا العنوان.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "يرفض الخادوم الوسيط الاتصال">
+<!ENTITY proxyConnectFailure.title "يرفض الخادوم الوسيط الاتصالات">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "تعذر العثور على الخادوم الوسيط">
