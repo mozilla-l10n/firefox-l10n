@@ -155,3 +155,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Канали">
 <!ENTITY aboutSupport.mediaDeviceRate "Стопа">
 <!ENTITY aboutSupport.mediaDeviceLatency "Латентност">
+
+<!ENTITY aboutSupport.intlTitle "Интернационализација &amp; Локализација">
+<!ENTITY aboutSupport.intlAppTitle "Поставке апликације">
+<!ENTITY aboutSupport.intlLocalesRequested "Захтевани локали">
+<!ENTITY aboutSupport.intlLocalesAvailable "Доступни локали">
+<!ENTITY aboutSupport.intlLocalesSupported "Локали апликације">
+<!ENTITY aboutSupport.intlLocalesDefault "Подразумевани локал">
+<!ENTITY aboutSupport.intlOSTitle "Оперативни систем">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Локали система">
+<!ENTITY aboutSupport.intlRegionalPrefs "Регионалне поставке">
