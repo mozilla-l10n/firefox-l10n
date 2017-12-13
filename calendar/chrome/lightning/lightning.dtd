@@ -37,7 +37,16 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "v">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "E-Mail:">
+
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptar">
@@ -50,6 +59,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Refusar l'invit a l'eveniment">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Refusar tuts">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Refusar l'invit per mintga occurrenza da quest eveniment">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Refusar">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Refusar la cuntraproposta">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Stizzar">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Stizzar dal chalender">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detagls…">
@@ -58,6 +69,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Cliccar qua per mussar ulteriuras opziuns">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Re-confermar">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trametta ina re-conferma a l'organisatur">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Spustar">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Spustar l'eveniment">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Memorisar ina copia">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Memorisar ina copia da l'eveniment en il chalender, independentamain dad ina resposta a l'organisatur. La glista dals participants vegn stizzada.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Provisoric">
