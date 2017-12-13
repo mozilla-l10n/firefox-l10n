@@ -31,6 +31,8 @@ sentence. -->
 <!ENTITY  completeNotification.label          "feladó nevével és az üzenet előnézetével">
 <!ENTITY  buddyInfoOnly.label                 "csak a feladó nevével">
 <!ENTITY  dummyNotification.label             "információ nélkül">
+<!ENTITY  getAttentionMac.label               "Dokkolóikon animálása">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "H">
 <!ENTITY  chatSound.label                     "Hangjelzés">
 <!ENTITY  play.label                          "Lejátszás">
