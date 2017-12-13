@@ -64,7 +64,7 @@
 <!ENTITY proxyConnectFailure.title "الخادوم الوسيط يرفض الاتصالات">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "تعذر إيجاد الخادوم الوسيط">
+<!ENTITY proxyResolveFailure.title "تعذر العثور على الخادوم الوسيط">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>تحقق من أن إعدادات الوسيط صحيحة.</li> <li>تأكد بأن جهازك متصل بشكل سليم بشبكة بيانات أو شبكة لاسلكية. <button id='wifi'>فعّل الواي فاي</button> </li> </ul>">
