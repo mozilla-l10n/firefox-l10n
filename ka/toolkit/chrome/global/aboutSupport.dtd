@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  ეს გვერდი შეიცავს ტექნიკურ ინფორმაციას, რომელიც შესაძლოა წარმოქმნილი პრობლემის
+  ეს გვერდი შეიცავს ტექნიკურ მონაცემებს, რომელიც შესაძლოა წარმოქმნილი ხარვეზის
   მოგვარებაში დაგეხმაროთ. თუ &brandShortName;-ის შესახებ ხშირად დასმულ კითხვებზე
   ეძებთ პასუხს, ეწვიეთ ჩვენს <a id='supportLink'>მხარდაჭერის გვერდს</a>.">
 
@@ -154,3 +154,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "არხები">
 <!ENTITY aboutSupport.mediaDeviceRate "სიხშირე">
 <!ENTITY aboutSupport.mediaDeviceLatency "დაყოვნება">
+
+<!ENTITY aboutSupport.intlTitle "გასაერთაშორისოება &amp; გადათარგმნა">
+<!ENTITY aboutSupport.intlAppTitle "პროგრამის პარამეტრები">
+<!ENTITY aboutSupport.intlLocalesRequested "მოთხოვნილი ენები">
+<!ENTITY aboutSupport.intlLocalesAvailable "ხელმისაწვდომი ენები">
+<!ENTITY aboutSupport.intlLocalesSupported "პროგრამის ენები">
+<!ENTITY aboutSupport.intlLocalesDefault "ნაგულისხმევი ენა">
+<!ENTITY aboutSupport.intlOSTitle "საოპერაციო სისტემა">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "სისტემის ენები">
