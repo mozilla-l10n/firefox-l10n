@@ -773,7 +773,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "حجب &brandShortName; الأجزاء غير الآمنة من هذه الصفحة.">
+<!ENTITY identity.activeBlocked "حجب &brandShortName; الأجزاء غير الآمنة في هذه الصفحة.">
 <!ENTITY identity.passiveLoaded "بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).">
 <!ENTITY identity.activeLoaded "لقد أوقفت الحماية على هذه الصفحة.">
 <!ENTITY identity.weakEncryption "تستخدم هذه الصفحة تعمية ضعيفة.">
