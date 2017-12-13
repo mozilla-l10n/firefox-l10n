@@ -189,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Voltar">
+<!ENTITY backCmd.accesskey            "V">
 <!ENTITY backButton.tooltip           "Voltar uma página">
 <!ENTITY forwardCmd.label             "Avançar">
+<!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Avançar uma página">
 <!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou arraste-o para baixo para mostrar o histórico">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastar para baixo para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Parar">
+<!ENTITY stopCmd.accesskey            "P">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Abrir a página">
 <!ENTITY printButton.label            "Imprimir">
@@ -994,7 +998,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.message "Uma extensão alterou a página que você vê quando ao abrir uma nova aba. Você pode restaurar as suas definições se não quiser esta alteração.">
 <!ENTITY newTabControlled.header.message "Sua nova aba foi alterada.">
 <!ENTITY newTabControlled.keepButton.label "Manter alterações">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.restoreButton.label "Restaurar configurações">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Ações da página">
 <!ENTITY pageAction.addToUrlbar.label "Adicionar na barra de endereço">
