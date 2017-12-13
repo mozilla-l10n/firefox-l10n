@@ -35,7 +35,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> <li>تكتب عادة عناوين وِب بالشكل <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>ابحث</button> </div> <li>تأكد أنك لا تستخدم سلاش أمامية (<strong>/</strong>).</li> </ul>">
 
-<!ENTITY netInterrupt.title "قوطع الاتصال">
+<!ENTITY netInterrupt.title "قُوطِع الاتصال">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "انتهت صلاحية المستند">
@@ -52,7 +52,7 @@
 <!ENTITY unsafeContentType.title "نوع ملف غير آمن">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
 
-<!ENTITY netReset.title "صُفّر الاتصال">
+<!ENTITY netReset.title "صُفِّر الاتصال">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "انتهت مهلة الاتصال">
@@ -61,7 +61,7 @@
 <!ENTITY unknownProtocolFound.title "العنوان غير مفهوم">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>قد تحتاج تنصيب برمجيات أخرى لفتح هذا العنوان.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "الخادوم الوسيط يرفض الاتصالات">
+<!ENTITY proxyConnectFailure.title "يرفض الخادوم الوسيط الاتصالات">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "تعذر العثور على الخادوم الوسيط">
