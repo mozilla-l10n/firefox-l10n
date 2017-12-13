@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Selalu tanyakan">
 <!ENTITY  permAllow             "Izinkan">
 <!ENTITY  permAllowSession      "Izinkan selama Sesi">
+<!ENTITY  permHide              "Sembunyikan">
 <!ENTITY  permBlock             "Blokir">
 <!ENTITY  permissionsFor        "Hak akses untuk:">
 <!ENTITY  permPlugins           "Aktifkan Plugin">

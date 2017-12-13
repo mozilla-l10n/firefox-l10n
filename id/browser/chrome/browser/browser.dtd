@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Ubahsuai Menu dan Bilah Alat">
 <!ENTITY appMenuCustomizeExit.label "Selesaikan Pengubahsuaian">
 <!ENTITY appMenuCustomizeExit.tooltip "Selesaikan Pengubahsuaian">
+
 <!ENTITY appMenuHistory.showAll.label "Tampilkan Semua Riwayat">
 <!ENTITY appMenuHistory.clearRecent.label "Bersihkan Riwayat Terakhir">
 <!ENTITY appMenuHistory.restoreSession.label "Pulihkan Sesi Sebelumnya">
@@ -385,9 +386,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ingin melihat tab dari perangkat Anda yang lain di sini?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Pengaturan Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat lainnya.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Akun Anda perlu diverifikasi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kelola Perangkat…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tampilkan Bilah Samping Tab yang Disinkronkan ">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Sambungkan Peranti Lain">
 
 <!ENTITY appMenuRecentHighlights.label "Sorotan Terkini">
 
@@ -750,6 +754,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Selesai">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">
 <!ENTITY identity.connectionFile "Laman ini tersimpan di komputer Anda.">
@@ -803,12 +810,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Belum ada tab yang disinkronkan!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Ingin melihat tab dari perangkat Anda yang lain di sini?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Masuk untuk melihat daftar tab dari perangkat lainnya.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Akun Anda perlu diverifikasi.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Tidak ada tab terbuka">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Buka preferensi &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat lainnya.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cari tab tersinkron">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Sambungkan Peranti Lain">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +989,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Mulai ulang untuk memutakhirkan &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Tab Baru Anda telah berubah.">
+<!ENTITY newTabControlled.restoreButton.label "Pulihkan Setelan">
+
 <!ENTITY pageActionButton.tooltip "Tindakan laman">
 <!ENTITY pageAction.addToUrlbar.label "Tambahkan ke Bilah Alamat">
 <!ENTITY pageAction.removeFromUrlbar.label "Singkirkan dari Bilah Alamat">
+
+<!ENTITY pageAction.allowInUrlbar.label "Tampilkan di Bilah Alamat">
 
 <!ENTITY pageAction.sendTabToDevice.label "Kirim Tab ke Peranti">
 <!ENTITY sendToDevice.syncNotReady.label "Menyinkronkan Peranti…">
