@@ -351,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Yik nying gin ayera ki gintic">
 <!ENTITY appMenuCustomizeExit.label "Kat woko ki i yiko">
 <!ENTITY appMenuCustomizeExit.tooltip "Tyek yiko">
+
 <!ENTITY appMenuHistory.showAll.label "Nyut gin mukato weng">
 <!ENTITY appMenuHistory.clearRecent.label "Jwa gin mukato cokki…">
 <!ENTITY appMenuHistory.restoreSession.label "Dwok kare ma okato ni">
@@ -384,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me ribo">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Lor nyonyo…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Nen gitic ma inget me dirica matino ma kiribo">
+
 
 <!ENTITY appMenuRecentHighlights.label "Wiye madito ma cokki">
 
@@ -744,6 +746,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Otum">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Kube maber">
 <!ENTITY identity.connectionNotSecure "Kube pe tye ki ber bedo">
 <!ENTITY identity.connectionFile "Kigwoko potbuk man i kompiuta mamegi.">
@@ -803,6 +808,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Yeny dirica matino ma ki ribo">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -962,9 +968,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label2 "Nwo cako me keto ngec manyen i &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Dirica matidi ni manyen olokke.">
+
 <!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
 <!ENTITY pageAction.addToUrlbar.label "Medi i Lanyut me kanonge">
 <!ENTITY pageAction.removeFromUrlbar.label "Kwany ki i lanyut me kanonge">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Cwal dirica matidi i nyonyo">
 <!ENTITY sendToDevice.syncNotReady.label "Ribo nyonyo…">
