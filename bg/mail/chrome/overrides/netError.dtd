@@ -56,13 +56,13 @@
 <!ENTITY netReset.title "Връзката е прекъсната">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Времето за изчакване при свързване изтече">
+<!ENTITY netTimeout.title "Времето за изчакване на връзка изтече">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Адресът не беше разпознат">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Вероятно ще трябва да инсталирате друг софтуер, за да отворите този адрес.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Прокси сървърът отказва връзката">
+<!ENTITY proxyConnectFailure.title "Мрежовият посредник отказва връзката">
 <!ENTITY proxyConnectFailure.longDesc "<ul>
   <li>Уверете се, че настройките на прокси сървъра са правилни.</li>
   <li>Свържете се с мрежовия администратор и проверете дали прокси сървърът работи.</li>
