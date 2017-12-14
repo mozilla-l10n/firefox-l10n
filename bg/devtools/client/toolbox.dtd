@@ -91,8 +91,8 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-<!ENTITY options.disableHTTPCache.label     "Изключване на кеша на HTTP (при отворена кутия с инструменти)">
-<!ENTITY options.disableHTTPCache.tooltip   "Когато е избрана тази отметка кеша на HTTP, за всички раздели с отворена кутия с инструменти, ще бъде изключен.">
+<!ENTITY options.disableHTTPCache.label     "Изключване на буфера на HTTP (при отворена кутия с инструменти)">
+<!ENTITY options.disableHTTPCache.tooltip   "Когато е избрана тази отметка буферът на HTTP, за всички раздели с отворена кутия с инструменти, ще бъде изключен. Обслужващи нишки не се влияят от тази настройка.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and

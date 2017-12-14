@@ -56,7 +56,11 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
-<!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като предпазна мярка &brandShortName; не прави повторна заявка на документи с поверително съдържание.</li><li>Натиснете „Повторен опит“ за нова заявка на документа от страницата.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Търсеният документ не е наличен в буфера на &brandShortName;.</p>
+<ul>
+  <li>Като предпазна мярка &brandShortName; не прави повторна заявка на документи с поверително съдържание.</li>
+  <li>Натиснете „Повторен опит“ за нова заявка на документа от страницата.</li>
+</ul>">
 
 <!ENTITY netOffline.title "Работа извън мрежата">
 <!ENTITY netOffline.longDesc2 "<ul>

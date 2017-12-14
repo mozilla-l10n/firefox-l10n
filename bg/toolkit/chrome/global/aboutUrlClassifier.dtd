@@ -11,18 +11,18 @@
 <!ENTITY aboutUrlClassifier.providerBackOffTime         "Време за премахване на елемент">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Състояние на последното обновяване">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Обновяване">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Буфер">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Опресняване">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Изчистване">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Име на таблица">
-<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Брой на отрицателни записи в кеша">
-<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Брой на положителни записи в кеша">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Брой на отрицателни записи в буфера">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Брой на положителни записи в буфера">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Показване на записите">
-<!ENTITY aboutUrlClassifier.cacheEntries                "Записи в кеша">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Записи в буфера">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Представка">
-<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Срок на отрицателен кеш">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Срок на отрицателен буфер">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Пълен хеш">
-<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Срок на положителен кеш">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Срок на положителен буфер">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Отстраняване на дефекти">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Задаване на модули за журнала">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Задаване на файлове за журнала">

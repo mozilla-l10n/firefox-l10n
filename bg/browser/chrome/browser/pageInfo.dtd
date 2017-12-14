@@ -21,7 +21,7 @@
 <!ENTITY  generalMode           "Изчертаване:">
 <!ENTITY  generalSize           "Големина:">
 <!ENTITY  generalReferrer       "Препращащ адрес:">
-<!ENTITY  generalSource         "Кеш:">
+<!ENTITY  generalSource         "Буфер:">
 <!ENTITY  generalModified       "Последна промяна:">
 <!ENTITY  generalEncoding2      "Кодиране на текста:">
 <!ENTITY  generalMetaName       "Наименование">

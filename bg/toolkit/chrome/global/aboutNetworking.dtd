@@ -43,10 +43,10 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-та">
 <!ENTITY aboutNetworking.rcwn                  "Статистика на RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Състояние на RCWN">
-<!ENTITY aboutNetworking.rcwnCacheWonCount     "Спечелени от кеша">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Спечелени от буфера">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Спечелени от мрежата">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Общ брой мрежови заявки">
-<!ENTITY aboutNetworking.rcwnOperation         "Действия с кеша">
+<!ENTITY aboutNetworking.rcwnOperation         "Действия с буфера">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Отваряне">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Четене">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Писане">
@@ -54,5 +54,5 @@
 <!ENTITY aboutNetworking.rcwnAvgShort          "Късо усреднение">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Дълго усреднение">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Дълго стандартно отклонение">
-<!ENTITY aboutNetworking.rcwnCacheSlow         "Брой бавен кеш">
-<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Брой не бавен кеш">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Брой бавен буфер">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Брой не бавен буфер">

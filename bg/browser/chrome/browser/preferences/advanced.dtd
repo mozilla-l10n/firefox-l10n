@@ -67,14 +67,14 @@ available. -->
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Ограничаване на кеша до">
+<!ENTITY limitCacheSizeBefore.label      "Ограничаване на буфера до">
 <!ENTITY limitCacheSizeBefore.accesskey  "О">
 <!ENTITY limitCacheSizeAfter.label       "МБ пространство">
 <!ENTITY clearCacheNow.label             "Изчистване">
 <!ENTITY clearCacheNow.accesskey         "И">
 <!ENTITY clearOfflineAppCacheNow.label   "Изчистване">
 <!ENTITY clearOfflineAppCacheNow.accesskey "ч">
-<!ENTITY overrideSmartCacheSize.label    "Незачитане на автоматичното управление на кеша">
+<!ENTITY overrideSmartCacheSize.label    "Незачитане на автоматичното управление на буфера">
 <!ENTITY overrideSmartCacheSize.accesskey "Н">
 
 <!ENTITY updateTab.label                 "Обновяване">
@@ -97,7 +97,7 @@ available. -->
 <!ENTITY updateApplication.description   "Разрешаване на &brandShortName;">
 <!ENTITY updateAuto3.label               "Да инсталира обновяванията автоматично (препоръчва се)">
 <!ENTITY updateAuto3.accesskey           "и">
-<!ENTITY updateCheckChoose2.label        "Да прави проверка за обновяванията, на да дава избор дали да бъдат инсталирани">
+<!ENTITY updateCheckChoose2.label        "Да прави проверка за обновяванията, но да дава избор дали да бъдат инсталирани">
 <!ENTITY updateCheckChoose2.accesskey    "п">
 <!ENTITY updateManual2.label             "Никога да не прави проверка за обновявания (непрепоръчително)">
 <!ENTITY updateManual2.accesskey         "Н">
