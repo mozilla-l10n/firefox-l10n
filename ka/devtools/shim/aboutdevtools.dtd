@@ -26,12 +26,12 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
 <!ENTITY  aboutDevtools.enable.inspectElementMessage
-          "Examine and edit HTML and CSS with the Developer Tools’ Inspector.">
+          "გამოიკვლიეთ, შეამოწმეთ და ჩაასწორეთ HTML და CSS, ელემენტზე დაკვირვების ხელსაწყოების მეშვეობით.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
 <!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
-          "Develop and debug WebExtensions, web workers, service workers and more with Firefox Developer Tools.">
+          "შეიმუშავეთ და გამართეთ WebExtensions (გაფართოებების), Webworkers (მრავალამოცანიანი), Serviceworkers (ფონურად დასამუშავებელი) და სხვა სახის სკრიპტები, Firefox-ის შემმუშავებლის ხელსაწყოებით.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
