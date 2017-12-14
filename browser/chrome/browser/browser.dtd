@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Kirim Tautan ke Perangkat">
 <!ENTITY  sendLinkToDevice.accesskey         "T">
 <!ENTITY  sendToDeviceFeedback.label         "Terkirim!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Antrean (luring)">
 <!ENTITY  moveToNewWindow.label              "Pindahkan ke Jendela Baru">
 <!ENTITY  moveToNewWindow.accesskey          "J">
 <!ENTITY  bookmarkAllTabs.label              "Markahi Semua Tab…">
@@ -188,6 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Mundur">
+<!ENTITY backCmd.accesskey            "K">
 <!ENTITY backButton.tooltip           "Mundur satu laman">
 <!ENTITY forwardCmd.label             "Maju">
 <!ENTITY forwardButton.tooltip        "Maju satu laman">
@@ -568,6 +570,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Jadikan sebagai Latar Belakang Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "D">
 <!ENTITY bookmarkPageCmd2.label       "Markahi Laman ini">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Markahi Tautan Ini">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Markahi Bingkai Ini">
@@ -756,6 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Keamanan Situs">
 
 <!ENTITY identity.connectionSecure "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">
@@ -989,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Mulai ulang untuk memutakhirkan &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Sebuah ekstensi telah mengubah laman yang Anda lihat ketika membuka Tab Baru. Anda dapat memulihkan setelan Anda jika tidak menginginkan perubahan ini.">
 <!ENTITY newTabControlled.header.message "Tab Baru Anda telah berubah.">
 <!ENTITY newTabControlled.restoreButton.label "Pulihkan Setelan">
 
@@ -997,6 +1002,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "Singkirkan dari Bilah Alamat">
 
 <!ENTITY pageAction.allowInUrlbar.label "Tampilkan di Bilah Alamat">
+<!ENTITY pageAction.disallowInUrlbar.label "Jangan Tampilkan di Bilah Alamat">
+<!ENTITY pageAction.manageExtension.label "Kelola Ekstensi…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Kirim Tab ke Peranti">
 <!ENTITY sendToDevice.syncNotReady.label "Menyinkronkan Peranti…">
