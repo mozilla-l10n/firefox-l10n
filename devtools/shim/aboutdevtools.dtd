@@ -71,15 +71,15 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "მიიღეთ, ვებშემუშავებასთან დაკავშირებული სიახლეები, რჩევები და სასარგებლო ბმულები, პირდაპირ თქვენს საფოსტო ყუთში.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "ელფოსტა">
-<!ENTITY  aboutDevtools.newsletter.privacy.label "I’m okay with Mozilla handling my info as explained in this <a class='external' href='https://www.mozilla.org/privacy/'>Privacy Policy</a>.">
-<!ENTITY  aboutDevtools.newsletter.subscribeButton "Subscribe">
-<!ENTITY  aboutDevtools.newsletter.thanks.title "Thanks!">
-<!ENTITY  aboutDevtools.newsletter.thanks.message "If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "თანახმა ვარ, რომ Mozilla-მ ჩემი მონაცემები გამოიყენოს, <a class='external' href='https://www.mozilla.org/privacy/'>პირადულობის დაცვის დებულების</a> შესაბამისად.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "გამოწერა">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "გმადლობთ!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "თუ ჯერ არ დაგიმოწმებიათ Mozilla-ს საინფორმაციო ცნობების გამოწერა, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების, ან სპამის საქაღალდეში.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
-<!ENTITY  aboutDevtools.footer.message "Looking for more than just Developer Tools? Check out the Firefox browser that is built specifically for developers and modern workflows.">
+<!ENTITY  aboutDevtools.footer.message "გსურთ მეტი, ვიდრე შემმუშავებლის ხელსაწყოებია? იხილეთ Firefox ბრაუზერი, შექმნილი საგანგებოდ შემმუშავებლებისთვის და განკუთვნილი, თანამედროვე სამუშაო პროცესებისთვის.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
-<!ENTITY  aboutDevtools.footer.learnMoreLink "Learn more">
+<!ENTITY  aboutDevtools.footer.learnMoreLink "იხილეთ ვრცლად">
 
