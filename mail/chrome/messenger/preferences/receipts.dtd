@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title                  "إعلامات الوصول">
-<!ENTITY requestReceipt.label          "دائمًا اطلب إعلام الوصول عند إرسال الرسائل">
+<!ENTITY requestReceipt.label          "اطلب إعلام الوصول دائمًا عند إرسال الرسائل">
 <!ENTITY requestReceipt.accesskey      "ع">
 <!ENTITY receiptArrive.label           "عند وصول الإعلام:">
 <!ENTITY leaveIt.label                 "اتركه في صندوق الوارد">
