@@ -31,7 +31,7 @@
 <!ENTITY firstrun_tabqueue_message_off "فعّل طابور الألسنة">
 <!ENTITY firstrun_tabqueue_subtext_off "احفظ الروابط لقراءتها لاحقا في &brandShortName; عند الضغط عليها في التطبيقات الأخرى.">
 
-<!ENTITY firstrun_tabqueue_message_on "نجاح!">
+<!ENTITY firstrun_tabqueue_message_on "تم">
 <!ENTITY firstrun_tabqueue_subtext_on "يمكنك متى ما أحببت تعطيل هذا في &settings; تحت &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "المقالات">
@@ -517,7 +517,7 @@
 <!ENTITY doorhanger_login_edit_title "حرّر الولوج">
 <!ENTITY doorhanger_login_edit_username_hint "اسم المستخدم">
 <!ENTITY doorhanger_login_edit_password_hint "كلمة السر">
-<!ENTITY doorhanger_login_edit_toggle "أظهِر كلمة السر">
+<!ENTITY doorhanger_login_edit_toggle "أظهر كلمة السر">
 <!ENTITY doorhanger_login_select_message "أأنسخ كلمة السر من &formatS;؟">
 <!ENTITY doorhanger_login_select_toast_copy "نُسخت كلمة السر إلى الحافظة">
 <!ENTITY doorhanger_login_select_action_text "اختر ولوجا آخر">
