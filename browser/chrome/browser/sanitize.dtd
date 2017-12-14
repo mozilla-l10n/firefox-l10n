@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "Khi tôi thoát &brandShortName;, chương trình sẽ tự động xóa tất cả:">
 
+<!ENTITY clearDataSettings3.label     "Khi tôi thoát &brandShortName;, nó sẽ tự động xóa tất cả">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->

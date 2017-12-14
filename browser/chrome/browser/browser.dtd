@@ -215,7 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Mở bảng thông báo lưu mật khẩu">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Quản lý sử dụng phần bổ trợ">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Thay đổi liệu bạn có thể nhận thông báo từ trang web hay không">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lưu dữ liệu vào Bộ nhớ lâu dài">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lưu dữ liệu vào bộ nhớ lâu dài">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Trình duyệt đang ở trong chế độ truy cập từ xa">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Quản lý chia sẻ máy ảnh và/hoặc micrô với trang">
