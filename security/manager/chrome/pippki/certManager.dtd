@@ -58,7 +58,7 @@
 <!ENTITY certmgr.edit3.label                  "ნდობის რედაქტირება…">
 <!ENTITY certmgr.edit3.accesskey              "რ">
 <!ENTITY certmgr.export.label                 "შენახვა…">
-<!ENTITY certmgr.export.accesskey             "გ">
+<!ENTITY certmgr.export.accesskey             "ხ">
 <!ENTITY certmgr.delete2.label                "წაშლა…">
 <!ENTITY certmgr.delete2.accesskey            "წ">
 <!ENTITY certmgr.delete_builtin.label         "წაშლა ან უნდობლობა…">
@@ -89,5 +89,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "სერთიფიკატის მდგომარეობა">
 <!ENTITY exceptionMgr.certstatus.viewCert     "ჩვენება…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "ჩ">
-<!ENTITY exceptionMgr.permanent.label         "ამ გამონაკლისის მუდმივად შენახვა">
+<!ENTITY exceptionMgr.permanent.label         "გამონაკლისის დამახსოვრება">
 <!ENTITY exceptionMgr.permanent.accesskey     "მ">
