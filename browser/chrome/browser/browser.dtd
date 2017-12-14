@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Hantar Pautan ke Peranti">
 <!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  sendToDeviceFeedback.label         "Sudah dihantar!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Susunan (luar talian)">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
 <!ENTITY  moveToNewWindow.accesskey          "T">
 <!ENTITY  bookmarkAllTabs.label              "Tandabuku Semua Tab…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Undur">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Undur satu halaman">
 <!ENTITY forwardCmd.label             "Maju">
+<!ENTITY forwardCmd.accesskey         "M">
 <!ENTITY forwardButton.tooltip        "Langkau satu halaman">
 <!ENTITY backForwardButtonMenu.tooltip "Klik-kanan atau tarik turun untuk papar sejarah">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarik turun untuk papar sejarah">
 <!ENTITY reloadCmd.label              "Muat semula">
+<!ENTITY reloadCmd.accesskey          "M">
 <!ENTITY stopCmd.label                "Berhenti">
+<!ENTITY stopCmd.accesskey            "B">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Pergi ke alamat dalam Bar Lokasi">
 <!ENTITY printButton.label            "Cetak">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Penyesuaian Menu dan Bar alat">
 <!ENTITY appMenuCustomizeExit.label "Keluar Penyesuaian">
 <!ENTITY appMenuCustomizeExit.tooltip "Siap Penyesuaian">
+
 <!ENTITY appMenuHistory.showAll.label "Papar Semua Sejarah">
 <!ENTITY appMenuHistory.clearRecent.label "Buang Sejarah Terkini…">
 <!ENTITY appMenuHistory.restoreSession.label "Pulih Sesi Dahulu">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Akaun anda perlu disahkan.">
 <!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Urus Peranti…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Papar Bar sisi Sync Tab">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Sambung Peranti Lain">
 
 <!ENTITY appMenuRecentHighlights.label "Serlahan Terkini">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Tetapkan Sebagai Latar Belakang Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Tandabuku Halaman Ini">
+<!ENTITY bookmarkPageCmd2.accesskey   "b">
 <!ENTITY bookmarkThisLinkCmd.label      "Tandabuku Pautan Ini">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Tandabuku Bingkai Ini">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Selesai">
 <!ENTITY editBookmark.removeBookmark.accessKey       "B">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Keselamatan Laman">
+
 <!ENTITY identity.connectionSecure "Sambungan Selamat">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Selamat">
 <!ENTITY identity.connectionFile "Halaman ini disimpan dalam komputer anda.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Tiada tab sync… lagi!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Akaun anda perlu disahkan.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Tiada tab terbuka">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Buka Keutamaan &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cari tab yang diselaraskan">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Sambung Peranti Lain">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "B">
 <!ENTITY updateRestart.panelUI.label2 "Mula semula untuk mengemaskini &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Ekstensi telah mengubah halaman yang anda lihat apabila membuka Tab Baru. Anda boleh pulihkan tetapan jika tidak mahu perubahan ini.">
+<!ENTITY newTabControlled.header.message "Tab Baru anda telah berubah.">
+<!ENTITY newTabControlled.keepButton.label "Simpan Perubahan">
+<!ENTITY newTabControlled.keepButton.accesskey "S">
+<!ENTITY newTabControlled.restoreButton.label "Pulih Tetapan">
+<!ENTITY newTabControlled.restoreButton.accesskey "P">
+
 <!ENTITY pageActionButton.tooltip "Tindakan halaman">
 <!ENTITY pageAction.addToUrlbar.label "Tambah ke Bar Alamat">
 <!ENTITY pageAction.removeFromUrlbar.label "Buang daripada Bar Alamat">
+
+<!ENTITY pageAction.allowInUrlbar.label "Papar dalam Bar Alamat">
+<!ENTITY pageAction.disallowInUrlbar.label "Jangan Papar dalam Bar Alamat">
+<!ENTITY pageAction.manageExtension.label "Urus Ekstensi…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Hantar Tab ke Peranti">
 <!ENTITY sendToDevice.syncNotReady.label "Sync Peranti…">
