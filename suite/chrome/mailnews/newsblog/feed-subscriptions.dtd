@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "Hírforrás URL: ">
 <!ENTITY feedLocation.accesskey      "H">
 <!ENTITY feedLocation.placeholder    "Érvényes hírforrás hozzáadása">
+<!ENTITY feedLocation2.placeholder   "Adjon meg érvényes hírforrást">
 <!ENTITY locationValidate.label      "Ellenőrzés">
 <!ENTITY validateText.label          "Ellenőrzés és érvényes URL letöltése.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Hozzáadás">
 <!ENTITY button.addFeed.accesskey    "H">
+<!ENTITY button.verifyFeed.label     "Ellenőrzés">
+<!ENTITY button.verifyFeed.accesskey "E">
 <!ENTITY button.updateFeed.label     "Szerkesztés">
 <!ENTITY button.updateFeed.accesskey "z">
 <!ENTITY button.removeFeed.label     "Eltávolítás">

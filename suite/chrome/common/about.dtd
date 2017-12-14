@@ -37,21 +37,26 @@
      so if your locale needs a space between words, add it at the end of this
      entity. -->
 <!ENTITY about.relnotes.beforeTheLink "Olvassa el a ">
-<!ENTITY about.relnotes.linkTitle     "verzióinformációkat">
+<!ENTITY about.relnotes.linkTitle     "kiadási megjegyzéseket">
 <!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no
      space between the linked about.relnotes.linkTitle phrase and this phrase,
      so if your locale needs a space between words, add it at the start of
      this entity. -->
+<!ENTITY about.relnotes.afterTheLink  " ehhez a verzióhoz.">
 
 <!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is
      no space between this phrase and the linked about.buildconfig.linkTitle
      phrase, so if your locale needs a space between words, add it at the end
      of this entity. -->
+<!ENTITY about.buildconfig.beforeTheLink "Nézze meg a ">
+<!ENTITY about.buildconfig.linkTitle     "konfigurációs paramétereket">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no
      space between the linked about.buildconfig.linkTitle phrase and this
      phrase, so if your locale needs a space between words, add it at the
      start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  " ehhez a verzióhoz.">
 
+<!ENTITY about.buildIdentifier        "Összeállítás azonosítója: ">
 
 <!-- LOCALIZATION NOTE end of declarations that were copied from
      mozilla/toolkit/locales/en-US/chrome/global/about.dtd -->
