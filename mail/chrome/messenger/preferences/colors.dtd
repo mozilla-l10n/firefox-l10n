@@ -18,7 +18,7 @@
 <!ENTITY  textColor.accesskey             "Т">
 <!ENTITY  backgroundColor.label           "Фон:">
 <!ENTITY  backgroundColor.accesskey       "Ф">
-<!ENTITY  useSystemColors.label           "Използване на системните цветове">
+<!ENTITY  useSystemColors.label           "Използване на системни цветове">
 <!ENTITY  useSystemColors.accesskey       "с">
 
 <!ENTITY  underlineLinks.label            "Подчертаване на връзките">
