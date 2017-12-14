@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Luôn hỏi">
 <!ENTITY  permAllow             "Cho phép">
 <!ENTITY  permAllowSession      "Cho phép theo Phiên">
+<!ENTITY  permHide              "Ẩn">
 <!ENTITY  permBlock             "Chặn">
 <!ENTITY  permissionsFor        "Quyền hạn cho:">
 <!ENTITY  permPlugins           "Kích hoạt Plugins">
