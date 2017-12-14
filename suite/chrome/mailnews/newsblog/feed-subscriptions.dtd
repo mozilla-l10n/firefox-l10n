@@ -39,6 +39,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Přidat">
 <!ENTITY button.addFeed.accesskey    "a">
+<!ENTITY button.verifyFeed.label     "Ověřit">
+<!ENTITY button.verifyFeed.accesskey "v">
 <!ENTITY button.updateFeed.label     "Aktualizovat">
 <!ENTITY button.updateFeed.accesskey "k">
 <!ENTITY button.removeFeed.label     "Odebrat">
