@@ -10,7 +10,10 @@
 
 <!ENTITY restorepage.hideTabs       "ເຊື່ອງແທັບກ່ອນຫນ້າ">
 
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.close.access2   "N">
 
+<!ENTITY restorepage.restoreHeader  "ກູ້ຄືນ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 
 
@@ -21,6 +24,7 @@
 
 <!ENTITY welcomeback2.tabtitle      "ສຳເລັດ!">
 
+<!ENTITY welcomeback2.pageTitle     "ສຳເລັດ!">
 
 
 

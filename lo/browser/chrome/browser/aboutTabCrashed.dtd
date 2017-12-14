@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY tabCrashed.closeTab2  "ປິດແທັບ">
 <!ENTITY tabCrashed.restoreTab "ເອີ້ນຄືນແທັບນີ້">
 <!ENTITY tabCrashed.restoreAll "ກູ້ຄືນແຖບທີ່ເກີດຂໍ້ຂັດຂ້ອງທັງໝົດ">
 
