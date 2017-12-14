@@ -25,7 +25,7 @@
 <!ENTITY engineNameColumn.label                "Търсеща машина">
 <!ENTITY engineKeywordColumn.label             "Ключова дума">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Връщане на стандартните търсещи машини">
+<!ENTITY restoreDefaultSearchEngines.label     "Връщане на стандартните">
 <!ENTITY restoreDefaultSearchEngines.accesskey "В">
 
 <!ENTITY removeEngine.label                    "Премахване">
