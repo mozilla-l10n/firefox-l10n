@@ -12,9 +12,11 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "Pri la iloj por programistoj">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Aktivigi la ilojn de Firefox por programistoj">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
@@ -41,17 +43,25 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Pli da informo pri la iloj por programistoj">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Aktivigi la ilojn por programistoj">
+<!ENTITY  aboutDevtools.enable.closeButton "Fermi tiun ĉi paĝon">
 
+<!ENTITY  aboutDevtools.enable.closeButton2 "Fermi tiun ĉi langeton">
 
+<!ENTITY  aboutDevtools.welcome.title "Bonvenon al la iloj de Firefox por programistoj!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Novaĵletero de Mozilla por programistoj">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Ricevu novaĵojn por programistoj, trukojn kaj rimedojn rekte en via enirkesto.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Retpoŝto">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Aboni">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Dankon!">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
