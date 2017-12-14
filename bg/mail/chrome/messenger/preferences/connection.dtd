@@ -9,7 +9,7 @@
 <!ENTITY  proxyTitle.label              "Конфигуриране на междинни сървъри за достъп до Интернет">
 <!ENTITY  noProxyTypeRadio.label        "Без прокси">
 <!ENTITY  noProxyTypeRadio.accesskey    "к">
-<!ENTITY  systemTypeRadio.label         "Използване системните настройки за прокси">
+<!ENTITY  systemTypeRadio.label         "Използване на системните настройки за мрежов посредник">
 <!ENTITY  systemTypeRadio.accesskey     "з">
 <!ENTITY  WPADTypeRadio.label           "Автоматично конфигуриране с настройките на мрежата">
 <!ENTITY  WPADTypeRadio.accesskey       "м">
