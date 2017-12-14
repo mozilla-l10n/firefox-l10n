@@ -996,11 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Khởi động lại để cập nhật &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Phần mở rộng đã thay đổi trang mà bạn thấy khi mở thẻ mới. Bạn có thể khôi phục cài đặt của mình nếu bạn không muốn thay đổi này.">
+<!ENTITY newTabControlled.header.message "Thẻ mới của bạn đã bị thay đổi.">
+<!ENTITY newTabControlled.keepButton.label "Giữ các thay đổi">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "Khôi phục cài đặt">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Hành động trên trang">
 <!ENTITY pageAction.addToUrlbar.label "Thêm vào thanh địa chỉ">
 <!ENTITY pageAction.removeFromUrlbar.label "Xóa khỏi thanh địa chỉ">
 
+<!ENTITY pageAction.allowInUrlbar.label "Hiển thị trên thanh địa chỉ">
+<!ENTITY pageAction.disallowInUrlbar.label "Không hiển thị trên thanh địa chỉ">
+<!ENTITY pageAction.manageExtension.label "Quản lý phần mở rộng…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Gửi thẻ tới thiết bị">
 <!ENTITY sendToDevice.syncNotReady.label "Đang đồng bộ các thiết bị…">
