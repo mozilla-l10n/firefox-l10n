@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Záložky">
 <!ENTITY engine.bookmarks.accesskey "Z">
 <!ENTITY engine.tabs.label2         "Otevřené panely">
+<!ENTITY engine.tabs.title          "Seznam panelů otevřených v ostatních zařízeních">
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historii">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Přihlašovací údaje">
+<!ENTITY engine.logins.title        "Uložená uživatelská jména a hesla">
 <!ENTITY engine.logins.accesskey    "l">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Možnosti">
+<!ENTITY engine.prefsWin.accesskey  "M">
 <!ENTITY engine.prefs.label         "Předvolby">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.prefs.title         "Nastavení v sekcích Obecné a Soukromí a zabezpečení">
 <!ENTITY engine.addons.label        "Doplňky">
+<!ENTITY engine.addons.title        "Rozšíření a motivy vzhledu ve Firefoxu pro počítač">
 <!ENTITY engine.addons.accesskey    "D">
 <!ENTITY engine.addresses.label     "Adresy">
+<!ENTITY engine.addresses.title     "Uložené poštovní adresy (pouze na počítači)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Platební karty">
+<!ENTITY engine.creditcards.title   "Jména, čísla a data expirace (pouze na počítači)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
