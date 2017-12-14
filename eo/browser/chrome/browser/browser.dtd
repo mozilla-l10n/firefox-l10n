@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Sendi ligilon al aparato">
 <!ENTITY  sendLinkToDevice.accesskey         "a">
 <!ENTITY  sendToDeviceFeedback.label         "Sendita!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Vicigita (malkonektite)">
 <!ENTITY  moveToNewWindow.label              "Movi al nova fenestro">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Aldoni legosignon por ĉiuj langetoj…">
@@ -386,6 +387,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferoj de Spegulado">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Via konto bezonas esti kontrolita.">
 <!ENTITY appMenuRemoteTabs.signin.label "Komencu seancon en Spegulado">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administri aparatojn…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vidi flankan strion de spegulitaj langetoj">
@@ -755,6 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sekureco de retejo">
 
 <!ENTITY identity.connectionSecure "Sekura konekto">
 <!ENTITY identity.connectionNotSecure "Nesekura konekto">
@@ -809,6 +812,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Neniu spegulita langeto… ankoraŭ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Via konto bezonas esti kontrolita.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Neniu malfermita langeto">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Malfermi preferojn de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -816,6 +820,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ŝaltu la speguladon de langetoj por vidi liston de langetoj el viaj aliaj aparatoj.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Serĉi spegulitajn langetojn">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Konekti alian aparaton">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -987,11 +992,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Restartigu por ĝisdatigi &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Via nova langeto ŝanĝiĝis.">
+<!ENTITY newTabControlled.keepButton.label "Gardi ŝanĝojn">
+<!ENTITY newTabControlled.keepButton.accesskey "G">
+<!ENTITY newTabControlled.restoreButton.label "Remeti agordojn">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Retpaĝaj agoj">
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
 <!ENTITY pageAction.removeFromUrlbar.label "Forigi el adresa strio">
 
+<!ENTITY pageAction.allowInUrlbar.label "Montri en la adresa strio">
+<!ENTITY pageAction.disallowInUrlbar.label "Ne montri en la adresa strio">
+<!ENTITY pageAction.manageExtension.label "Administri etendaĵon…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Sendi langeton al aparato">
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">

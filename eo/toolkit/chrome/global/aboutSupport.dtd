@@ -153,3 +153,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanaloj">
 <!ENTITY aboutSupport.mediaDeviceRate "Frekvenco">
 <!ENTITY aboutSupport.mediaDeviceLatency "Prokrasto">
+
+<!ENTITY aboutSupport.intlAppTitle "Agordoj de programo">
+<!ENTITY aboutSupport.intlLocalesRequested "Petitaj lingvoj">
+<!ENTITY aboutSupport.intlLocalesAvailable "Disponeblaj lingvoj">
+<!ENTITY aboutSupport.intlLocalesSupported "Lingvoj de la programo">
+<!ENTITY aboutSupport.intlLocalesDefault "Norma lingvo">
+<!ENTITY aboutSupport.intlOSTitle "Mastruma sistemo">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Lingvoj de la sistemo">
+<!ENTITY aboutSupport.intlRegionalPrefs "Regionaj preferoj">
