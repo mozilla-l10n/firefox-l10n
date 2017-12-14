@@ -58,7 +58,7 @@
 <!ENTITY netTimeout.title "انتهت مهلة الاتصال">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "العنوان غير مفهوم">
+<!ENTITY unknownProtocolFound.title "لم يُفهم العنوان">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>قد تحتاج تنصيب برمجيات أخرى لفتح هذا العنوان.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "يرفض الخادوم الوسيط الاتصالات">
@@ -72,7 +72,7 @@
 <!ENTITY redirectLoop.title "لا تعيد الصفحة التوجيه بشكل سليم">
 <!ENTITY redirectLoop.longDesc "<ul> <li>سبب هذه المشكلة هو تعطيل الكعكات أو عدم قبولها.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "إجابة غير متوقعة من الخادوم">
+<!ENTITY unknownSocketType.title "استجابة غير متوقعة من الخادوم">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>تأكّد أنّ مدير الأمن الشخصي منصّب في نظامك.</li> <li>قد يكون سبب هذا هو إعداد مخالف للمعايير في الخادوم.</li> </ul>">
 
 <!ENTITY nssFailure2.title "فشل الاتصال الآمن">
