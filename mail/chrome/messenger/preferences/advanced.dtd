@@ -20,7 +20,7 @@
 <!ENTITY maildirStore.label            "Файл за всяко писмо (maildir)">
 
 <!ENTITY scrolling.label               "Плъзгане">
-<!ENTITY useAutoScroll.label           "Използване на автоматично плъзгане">
+<!ENTITY useAutoScroll.label           "Автоматично плъзгане">
 <!ENTITY useAutoScroll.accesskey       "И">
 <!ENTITY useSmoothScrolling.label      "Използване на плавно плъзгане">
 <!ENTITY useSmoothScrolling.accesskey  "п">
@@ -75,7 +75,7 @@
 <!ENTITY updateHistory.label             "История на обновяванията">
 <!ENTITY updateHistory.accesskey         "о">
 
-<!ENTITY useService.label                "Използване на фонова услуга за инсталиране на обновявания">
+<!ENTITY useService.label                "Използване на услуга във фонов режим за инсталиране на обновявания">
 <!ENTITY useService.accesskey            "ф">
 
 <!-- Networking and Disk Space -->
