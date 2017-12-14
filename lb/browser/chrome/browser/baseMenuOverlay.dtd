@@ -34,9 +34,16 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informatiounen zur Feelerbehiewung">
 <!ENTITY helpTroubleshootingInfo.accesskey  "f">
 
+<!ENTITY helpFeedbackPage.label      "Feedback schécken…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
+<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
+<!ENTITY helpShowTour2.accesskey        "o">
 
+<!ENTITY preferencesCmdMac.label        "Astellungen…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
+<!ENTITY servicesMenuMac.label          "Servicer">
 
 
 

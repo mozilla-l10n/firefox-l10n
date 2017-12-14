@@ -27,4 +27,6 @@
 <!ENTITY tabCrashed.includeURL3 "D'URLe vun de Sitten drasetzen op deenen Dir waart wéi de &brandShortName; ofgestierzt ass.">
 <!ENTITY tabCrashed.emailPlaceholder "Gëff Deng E-Mail-Adress hei an">
 <!ENTITY tabCrashed.emailMe "Mir eng E-Mail schécke wa méi Informatiounen disponibel sinn">
+<!ENTITY tabCrashed.reportSent "Ofstierzbericht scho geschéckt; Merci fir d'Hëllef fir de &brandShortName; besser ze maachen!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Hannergrond-Tabs mellen">
 <!ENTITY tabCrashed.autoSubmit3 "Astellungen aktualiséieren fir automatesch Rapporten ze schécke wann de &brandShortName; ofstierzt.">
