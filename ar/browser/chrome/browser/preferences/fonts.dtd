@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif2.accesskey                   "غ">
 <!ENTITY  monospace2.label                        "ثابت العرض">
 <!ENTITY  monospace2.accesskey                    "ث">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "اللاتينية">
 <!ENTITY  font.langGroup.japanese                 "اليابانية">
 <!ENTITY  font.langGroup.trad-chinese             "الصينية التقليدية (تايوان)">
@@ -56,9 +56,9 @@
 <!ENTITY minSize2.label                           "الحجم الأدنى للخط">
 <!ENTITY minSize2.accesskey                       "ط">
 <!ENTITY minSize.none                             "لا شيء">
-<!-- default font type -->
 
-<!ENTITY  useDefaultFontSerif.label               "مذيل">
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "مذيّل">
 <!ENTITY  useDefaultFontSansSerif.label           "غير مذيل">
 
 <!ENTITY  allowPagesToUseOwn.label                "اسمح للصفحات باستعمال خطوطها الخاصة، عوضًا عن اختياراتي في الأعلى">

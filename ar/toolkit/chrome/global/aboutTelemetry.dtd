@@ -36,7 +36,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  رسوم بيانية مفتاحية">
 <!ENTITY aboutTelemetry.eventsSection "  الأحداث">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  قياسات بسيطة">
-<!ENTITY aboutTelemetry.telemetryLogSection "  سجل تليمتري">
+<!ENTITY aboutTelemetry.telemetryLogSection "سجل تليمتري">
 <!ENTITY aboutTelemetry.slowSqlSection "  استعلامات SQL بطيئة">
 <!ENTITY aboutTelemetry.chromeHangsSection "  تعليقات المتصفح">
 <!ENTITY aboutTelemetry.addonDetailsSection "  تفاصيل الإضافة">

@@ -63,7 +63,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "لست والجًا.">
-<!ENTITY signIn.label                "لج">
+<!ENTITY signIn.label                "لِج">
 <!ENTITY signIn.accesskey            "ل">
 <!ENTITY profilePicture.tooltip      "غيّر صورة الحساب">
 <!ENTITY verifiedManage.label        "أدِر الحساب">
