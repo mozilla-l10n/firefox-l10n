@@ -49,6 +49,7 @@
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Buat masa sekarang, anda hanya boleh mengaktifkan tetapan kalendar ini dalam dialog sifat jika pelayan kalendar menguruskan penjadualan.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Pilihan ini hanya disediakan jika pelayan kalendar mengendalikan penjadualan. Penjadualan e-mel piawai boleh didapatkan semula, bukan ditentukan oleh pelayan jika pilihan ini didayakan.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Terima">
