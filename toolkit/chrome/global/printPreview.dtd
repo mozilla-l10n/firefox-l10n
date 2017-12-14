@@ -30,7 +30,7 @@
 <!ENTITY p175.label           "١٧٥٪">
 <!ENTITY p200.label           "٢٠٠٪">
 <!ENTITY Custom.label         "مخصص…">
-<!ENTITY ShrinkToFit.label    "قلّص ليناسب">
+<!ENTITY ShrinkToFit.label    "قلّص لملاءمة حجم الصفحة">
 <!ENTITY customPrompt.title   "مقياس مخصص…">
 <!ENTITY simplifyPage.label   "بسّط الصفحة">
 <!ENTITY simplifyPage.accesskey "س">

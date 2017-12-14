@@ -113,7 +113,7 @@
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "عدد منطقي">
 <!ENTITY device_typenumber "عدد صحيح">
-<!ENTITY device_typestring "نصّ">
+<!ENTITY device_typestring "نص">
 <!ENTITY device_typeobject "كائن">
 <!ENTITY device_typenone "اختر نوعًا">
 
