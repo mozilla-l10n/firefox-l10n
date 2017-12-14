@@ -105,7 +105,7 @@ available. -->
 <!ENTITY updateHistory2.label            "Хронология на обновяванията…">
 <!ENTITY updateHistory2.accesskey        "х">
 
-<!ENTITY useService.label                "Използване на услуга на заден план за инсталиране на обновявания">
+<!ENTITY useService.label                "Използване на услуга във фонов режим за инсталиране на обновявания">
 <!ENTITY useService.accesskey            "у">
 
 <!ENTITY enableSearchUpdate2.label       "Автоматично обновяване на търсещите машини">
