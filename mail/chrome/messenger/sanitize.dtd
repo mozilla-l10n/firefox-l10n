@@ -7,7 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-<!ENTITY clearTimeDuration.label          "Период от време за изтриване">
+<!ENTITY clearTimeDuration.label          "Времеви обхват за изчистване">
 <!ENTITY clearTimeDuration.accesskey      "П">
 <!ENTITY clearTimeDuration.lastHour       "Последния час">
 <!ENTITY clearTimeDuration.last2Hours     "Последните 2 часа">

@@ -6,7 +6,7 @@
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "Основни">
 <!ENTITY account.advanced              "За напреднали">
-<!ENTITY account.name                  "Потребител:">
+<!ENTITY account.name                  "Потребителско име:">
 <!ENTITY account.password              "Парола:">
 <!ENTITY account.alias                 "Псевдоним:">
 <!ENTITY account.newMailNotification   "Известяване при нова поща">
