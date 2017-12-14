@@ -12,6 +12,12 @@
 <!ENTITY engine.history.accesskey   "ت">
 <!ENTITY engine.logins.label        "ورودها">
 <!ENTITY engine.logins.accesskey    "و">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "گزینه‌ها">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "ترجیحات">
 <!ENTITY engine.prefs.accesskey     "ت">
 <!ENTITY engine.addons.label        "افزودنی‌ها">
