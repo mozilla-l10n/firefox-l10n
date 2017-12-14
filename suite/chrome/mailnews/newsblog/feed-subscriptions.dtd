@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "Adresa kanálu: ">
 <!ENTITY feedLocation.accesskey      "A">
 <!ENTITY feedLocation.placeholder    "Vložte platnou adresu kanálu">
+<!ENTITY feedLocation2.placeholder   "Vložte platnou adresu kanálu">
 <!ENTITY locationValidate.label      "Zkontrolovat platnost">
 <!ENTITY validateText.label          "Zkontrolovat platnost a vrátit platnou adresu.">
 
