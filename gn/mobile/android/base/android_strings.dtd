@@ -393,6 +393,9 @@
 <!ENTITY pref_dialog_set_default "Eipuru ijypykuévaramo">
 <!ENTITY pref_dialog_default "Ijypykue">
 <!ENTITY pref_dialog_remove "Mboguete">
+<!ENTITY pref_dialog_activitystream_header_content "Mba\&apos;erecharã mbojo\&apos;aharã">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Techaukaha Ramoguáva">
+<!ENTITY pref_dialog_activitystream_visited "Jeikehague">
 
 <!ENTITY pref_search_last_toast "Ndaikatúi emboguete térã eipe\&apos;aite jehekaha mongu\&apos;eha ipaháva.">
 
@@ -483,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Eike peteĩ tendayke ñemiguápe">
 <!ENTITY contextmenu_remove "Pe\&apos;a">
 <!ENTITY contextmenu_add_to_launcher "Mba\&apos;erechaha ñepyrũme ñemoĩ">
+<!ENTITY contextmenu_add_page_shortcut "Embojoaju Jeike Mbopya\&apos;eha ko toguépe g̃uarã">
 <!ENTITY contextmenu_set_as_homepage "Embohape kuatiarogue ñepyrũramo">
 <!ENTITY contextmenu_share "Moherakuã">
 <!ENTITY contextmenu_pasteandgo "Emboja &amp; Ho">
@@ -497,10 +501,13 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Embojoapy Togue Ojeikevévape">
+<!ENTITY contextmenu_unpin_from_top_sites "Eipe\&apos;a Togue Ojeikevévagui">
 <!ENTITY contextmenu_add_search_engine "Embojoapy hekaha">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Ko togue oñembojoapýma Togue Ojeikevévare">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
