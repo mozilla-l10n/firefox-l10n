@@ -9,12 +9,15 @@
 <!ENTITY restorepage.errorTitle2    "ຂໍອະໄພ ເຮົາມີປັນຫາໃນການນຳຫນ້າຕ່າງໆ ຂອງທ່ານກັບມາ">
 
 <!ENTITY restorepage.hideTabs       "ເຊື່ອງແທັບກ່ອນຫນ້າ">
+<!ENTITY restorepage.showTabs       "ເບິ່ງແທັບກ່ອນຫນ້າ">
 
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "ກູ້ຄືນ">
+<!ENTITY restorepage.listHeader     "ວີນໂດ້ ແລະ ແທັບ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "ວີນໂດ້ &#37;S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
@@ -25,7 +28,10 @@
 <!ENTITY welcomeback2.tabtitle      "ສຳເລັດ!">
 
 <!ENTITY welcomeback2.pageTitle     "ສຳເລັດ!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; ພ້ອມທີ່ຈະເລີ່ມແລ້ວ">
 
+<!ENTITY welcomeback2.restoreAll.label  "ກູ້ຄືນວີນໂດ້ ແລະ ແທັບທັງຫມົດ">
+<!ENTITY welcomeback2.restoreSome.label "ກູ້ຄືນສະເພາະທີ່ເຈົ້າຕ້ອງການ">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
@@ -34,6 +40,8 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "ສ່ວນເສິມ ແລະ ການປັບແຕ່ງຂອງເຈົ້າຖືກເອົາອອກແລະການຕັ້ງຄ່າບຣາວເຊິຂອງເຈົ້າຖືກກູ້ຄືນເປັນຄ່າເລີ່ມຕົ້ນ ຖ້ານີ້ບໍ່ແກ້ປັນຫາຂອງເຈົ້າ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບສີ່ງທີ່ເຈົ້າເຮັດໄດ້">
 

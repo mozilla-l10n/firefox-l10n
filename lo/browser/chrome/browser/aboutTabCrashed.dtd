@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "ຜູ່ລາຍງານບັນຫາແທັບ">
 
 <!ENTITY tabCrashed.closeTab2  "ປິດແທັບ">
 <!ENTITY tabCrashed.restoreTab "ເອີ້ນຄືນແທັບນີ້">
@@ -15,11 +16,17 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "ອ໊ະ. ແຖບຂອງທ່ານໄດ້ຂັດຂ້ອງ.">
+<!ENTITY tabCrashed.offerHelp2 "ພວກເຮົາຊ່ວຍໄດ້!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "ເລືອກ &tabCrashed.restoreTab; ເພື່ອໂຫລດຫນ້າໃຫມ່">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "ເລືອກ &tabCrashed.restoreTab; ຫຼື &tabCrashed.restoreAll; ເພື່ອໂຫລດຫນ້າໃຫມ່">
 <!ENTITY tabCrashed.requestHelp "ທ່ານຈະຊ່ວຍພວກເຮົາໄດ້ຫຼືບໍ່?">
 <!ENTITY tabCrashed.requestHelpMessage "ລາຍງານຂໍ້ຂັດຂ້ອງຊ່ວຍພວກເຮົາວິນິດໄສບັນຫາແລະສ້າງ &brandShortName; ໃຫ້ດີຂຶ້ນ.">
 <!ENTITY tabCrashed.requestReport "ລາຍງານແທັບນີ້">
+<!ENTITY tabCrashed.sendReport3 "ສົ່ງລາຍງານຂໍ້ຂັດຂ້ອງອັດຕະໂນມັດເພື່ອໃຫ້ເຮົາສາມາດແກ້ໄຂປັນຫາແບບນີ້ໄດ້.">
 <!ENTITY tabCrashed.commentPlaceholder2 "ປະກອບຄຳເຫັນ (ຄຳເຫັນນີ້ແມ່ນທຸກໆຄົນສາມາດເຫັນໄດ້)">
+<!ENTITY tabCrashed.includeURL3 "ຮວມ URLs ຂອງໄຊ໌ທີ່ເຈົ້າກຳລັງຢ້ຽມຢາມເມື່ອ &brandShortName; ຂັດຂ້ອງ">
 <!ENTITY tabCrashed.emailPlaceholder "ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານທີ່ນີ້">
 <!ENTITY tabCrashed.emailMe "ສົ່ງອີເມລຫາຂ້ອຍເມື່ອມີຂໍ້ມູນເພີ່ນທີ່ໃຊ້ງານໄດ້">
 <!ENTITY tabCrashed.reportSent "ສົ່ງລາຍງານຂໍ້ຂັດຂ້ອງແລ້ວ; ຂອບໃຈທີ່ຊ່ວຍເຮັດ &brandShortName; ໃຫ້ດີຂຶ້ນ">
 <!ENTITY tabCrashed.requestAutoSubmit2 "ລາຍງານແຖບເບື່ອງຫຼັງ">
+<!ENTITY tabCrashed.autoSubmit3 "ອັບເດດການຕັ້ງຄ່າເພື່ອສົ່ງລາຍງານເມື່ອ &brandShortName; ຂັດຂ້ອງໂດຍອັດຕະໂນມັດ">
