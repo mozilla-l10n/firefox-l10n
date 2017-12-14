@@ -7,11 +7,12 @@
 <!ENTITY engine.bookmarks.label     "Yer imleri">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Açık sekmeler">
+<!ENTITY engine.tabs.title          "Eşitlenen tüm cihazlarınızdaki açık sekmelerin listesi">
 <!ENTITY engine.tabs.accesskey      "s">
 <!ENTITY engine.history.label       "Geçmiş">
 <!ENTITY engine.history.accesskey   "G">
 <!ENTITY engine.logins.label        "Hesaplar">
-<!ENTITY engine.logins.title        "Kaydettiğim kullanıcı adları ve parolaları">
+<!ENTITY engine.logins.title        "Kaydettiğiniz kullanıcı adları ve parolaları">
 <!ENTITY engine.logins.accesskey    "H">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -21,12 +22,15 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Tercihler">
 <!ENTITY engine.prefs.accesskey     "T">
+<!ENTITY engine.prefs.title         "Değiştirdiğiniz Genel, Gizlilik ve Güvenlik ayarları">
 <!ENTITY engine.addons.label        "Eklentiler">
 <!ENTITY engine.addons.title        "Masaüstü Firefox eklentileri ve temaları">
 <!ENTITY engine.addons.accesskey    "E">
 <!ENTITY engine.addresses.label     "Adresler">
+<!ENTITY engine.addresses.title     "Kaydettiğiniz posta adresleri (yalnızca masaüstü)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kredi kartları">
+<!ENTITY engine.creditcards.title   "Adlar, numaralar ve son kullanma tarihleri (yalnızca masaüstü)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
