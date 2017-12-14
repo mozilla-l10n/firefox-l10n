@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "هر بار پرسیده شود">
 <!ENTITY  permAllow             "اجازه دادن">
 <!ENTITY  permAllowSession      "اجازه دادن برای نشست">
+<!ENTITY  permHide              "پنهان کردن">
 <!ENTITY  permBlock             "باز داشتن">
 <!ENTITY  permissionsFor        "مجوزها برای:">
 <!ENTITY  permPlugins           "فعال کردن افزونه‌ها">

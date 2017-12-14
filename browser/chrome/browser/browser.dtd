@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "ارسال پیوند به دستگاه">
 <!ENTITY  sendLinkToDevice.accesskey         "د">
 <!ENTITY  sendToDeviceFeedback.label         "ارسال شد!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "صف‌بندی شده (آفلاین)">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "پ">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "م">
 
 <!ENTITY backCmd.label                "برگشت">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "برگشتن به یک صفحه قبل">
 <!ENTITY forwardCmd.label             "جلو">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "جلو رفتن به یک صفحه بعد">
 <!ENTITY backForwardButtonMenu.tooltip "برای نمایش تاریخچه، کلیک راست کنید یا به طرف پایین بکشید">
 <!ENTITY backForwardButtonMenuMac.tooltip "برای نمایش تاریخجه، به طرف پایین بکشید">
 <!ENTITY reloadCmd.label              "بارگیری مجدد">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "توقف">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "رفتن به نشانی موجود در نوار مکان">
 <!ENTITY printButton.label            "چاپ">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "سفارشی‌سازی منو و نوار ابزار ها">
 <!ENTITY appMenuCustomizeExit.label "خروج از سفارشی‌سازی">
 <!ENTITY appMenuCustomizeExit.tooltip "پایان شخصی‌سازی">
+
 <!ENTITY appMenuHistory.showAll.label "نمایش تمام تاریخچه">
 <!ENTITY appMenuHistory.clearRecent.label "پاک کردن تاریخچه اخیر…">
 <!ENTITY appMenuHistory.restoreSession.label "بازآوری نشست قبلی">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "می‌خواهید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ترجیحات همگام‌سازی">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "وارد شوید تا فهرست زبانه‌ها را از دستگاه‌های دیگر خود ببینید.">
+<!ENTITY appMenuRemoteTabs.unverified.label "حساب‌کاربری شما باید تایید شود.">
 <!ENTITY appMenuRemoteTabs.signin.label "برای همگام‌سازی وارد شوید">
 <!ENTITY appMenuRemoteTabs.managedevices.label "مدیریت دستگاه‌ها…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "نمایش نوار زبانه‌های همگام شده">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "اتصال به دستگاه دیگر">
 
 <!ENTITY appMenuRecentHighlights.label "برجسته‌سازی های اخیر">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "قرار دادن در پس‌زمینهٔ رومیزی ">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ق">
 <!ENTITY bookmarkPageCmd2.label       "نشانک‌گذاری این صفحه">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "نشانک‌گذاری این پیوند">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ش">
 <!ENTITY bookmarkThisFrameCmd.label      "نشانک‌گذاری این چارچوب">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "انجام شد">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "امنیت سایت">
+
 <!ENTITY identity.connectionSecure "اتصال امن">
 <!ENTITY identity.connectionNotSecure "اتصال امن نیست">
 <!ENTITY identity.connectionFile "این صفحه بر روی رایانه شما ذخیره شده است.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "هیچ زبانهٔ بهنگام‌سازی شده‌ای نیست… هنوز!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "مایلید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "برای نمایش فهرست زبانه‌ها از دستگاه‌های دیگر وارد شوید.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "حساب‌کاربری شما باید تایید شود.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "بدون زبانهٔ باز">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "باز کردن ترجیحات &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "همگام‌سازی زبانه‌ها را برای نمایش فهرست زبانه‌ها در دستگاه‌های دیگر خود روشن کنید.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "جست‌وجو در زبانه‌های همگام‌سازی شده">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "اتصال به دستگاه دیگر">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ا">
 <!ENTITY updateRestart.panelUI.label2 "راه‌اندازی مجدد برای بروزرسانی &brandShorterName;">
 
+<!ENTITY newTabControlled.keepButton.label "نگه‌داری تغییرات">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "بازیابی تنظیمات">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "کنش‌های صفحه">
 <!ENTITY pageAction.addToUrlbar.label "اضافه کردن به نوار آدرس">
 <!ENTITY pageAction.removeFromUrlbar.label "حذف از نوار آدرس">
+
+<!ENTITY pageAction.allowInUrlbar.label "نمایش در نوار آدرس">
+<!ENTITY pageAction.disallowInUrlbar.label "عدم نمایش در نوار آدرس">
+<!ENTITY pageAction.manageExtension.label "مدیریت افزونه…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ارسال زبانه به دستگاه">
 <!ENTITY sendToDevice.syncNotReady.label "همرسانی دستگاه‌ها…">
