@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Přizpůsobí nabídku a lišty">
 <!ENTITY appMenuCustomizeExit.label "Ukončit přizpůsobení">
 <!ENTITY appMenuCustomizeExit.tooltip "Ukončí přizpůsobení">
+
 <!ENTITY appMenuHistory.showAll.label "Zobrazit celou historii">
 <!ENTITY appMenuHistory.clearRecent.label "Vymazat nedávnou historii…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovit předchozí relaci">
@@ -388,6 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Přihlásit se ke službě Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Správa zařízení…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobrazit v postranní liště">
+
 
 <!ENTITY appMenuRecentHighlights.label "Vybrané">
 
@@ -750,6 +752,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Hotovo">
 <!ENTITY editBookmark.removeBookmark.accessKey       "S">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Zabezpečení stránky">
+
 <!ENTITY identity.connectionSecure "Zabezpečené připojení">
 <!ENTITY identity.connectionNotSecure "Připojení není zabezpečeno">
 <!ENTITY identity.connectionFile "Tato stránka je uložena ve vašem počítači.">
@@ -803,12 +809,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Žádné synchronizované panely… zatím!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Chcete zde vidět vaše panely z ostatních zařízení?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Je potřeba ověřit váš účet.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žádné otevřené panely">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Otevřít předvolby služby &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zapněte synchronizaci panelů pro zobrazení seznamu panelů z vašich ostatních zařízení.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Hledat v synchronizovaných panelech">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Připojit další zařízení">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +988,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Restartovat a aktualizovat aplikaci &brandShorterName;">
 
+<!ENTITY newTabControlled.keepButton.label "Zachovat změny">
+
 <!ENTITY pageActionButton.tooltip "Akce stránky">
 <!ENTITY pageAction.addToUrlbar.label "Přidat do adresního řádku">
 <!ENTITY pageAction.removeFromUrlbar.label "Odebrat z adresního řádku">
+
+<!ENTITY pageAction.allowInUrlbar.label "Zobrazit v adresním řádku">
 
 <!ENTITY pageAction.sendTabToDevice.label "Poslat panel do zařízení">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
