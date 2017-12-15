@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "Adresa kanála:">
 <!ENTITY feedLocation.accesskey      "A">
 <!ENTITY feedLocation.placeholder    "Zadajte platnú adresu kanála">
+<!ENTITY feedLocation2.placeholder   "Zadajte platnú adresu kanála">
 <!ENTITY locationValidate.label      "Skontrolovať">
 <!ENTITY validateText.label          "Skontrolovať platnosť kanálu a získať platnú adresu URL.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Pridať">
 <!ENTITY button.addFeed.accesskey    "P">
+<!ENTITY button.verifyFeed.label     "Overiť">
+<!ENTITY button.verifyFeed.accesskey "v">
 <!ENTITY button.updateFeed.label     "Aktualizovať">
 <!ENTITY button.updateFeed.accesskey "u">
 <!ENTITY button.removeFeed.label     "Odstrániť">
