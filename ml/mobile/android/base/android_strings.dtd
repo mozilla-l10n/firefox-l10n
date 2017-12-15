@@ -179,8 +179,11 @@
 <!ENTITY overlay_no_synced_devices "ഫയര്‍ഫോക്സ് അക്കൗണ്ടുമായി ബന്ധിപ്പിച്ചിട്ടുള്ള ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല">
 
 <!ENTITY pref_category_search3 "തെരയുക">
+<!ENTITY pref_category_search_summary2 "ചേര്‍ക്കുക, സ്ഥിരസ്ഥിതി സജ്ജമാക്കുക, നിർദ്ദേശങ്ങൾ കാണിക്കുക">
 <!ENTITY pref_category_accessibility "ആക്സസ്സെബിലിറ്റി">
+<!ENTITY pref_category_accessibility_summary2 "അക്ഷര വലുപ്പം, സൂം, വോയ്സ് ഇൻപുട്ട്">
 <!ENTITY pref_category_privacy_short "സ്വകാര്യത">
+<!ENTITY pref_category_privacy_summary4 "ട്രാക്കിംഗ്, ലോഗിനുകൾ, ഡാറ്റ ചോയ്സുകൾ">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName;-നെ സംബന്ധിച്ച്, സ്ഥിരം ചോദ്യങ്ങള്‍, പ്രതികരണം">
 <!ENTITY pref_category_datareporting "ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
@@ -201,6 +204,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "ടാബുകൾ പുനഃസ്ഥാപിക്കല്‍, ഡാറ്റാ സേവർ, ഡവലപ്പർ ഉപകരണങ്ങൾ">
 <!ENTITY pref_category_notifications "അറിയിപ്പുകള്‍">
 <!ENTITY pref_category_notifications_summary "പുതിയ സവിശേഷതകള്‍, വെബ്സൈറ്റ്പുതുക്കലുകള്‍">
 <!ENTITY pref_developer_remotedebugging_usb "യു എസ് ബി വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
@@ -286,6 +290,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "ഇഷ്ടാനുസൃത ടാബുകൾ">
+<!ENTITY pref_custom_tabs_summary4 "വേഗത്തിൽ ലോഡുചെയ്യുന്ന കസ്റ്റം ടാബിൽ വെബ് ഉള്ളടക്കം തുറക്കുന്നതിന് അപ്ലിക്കേഷനുകളെ അനുവദിക്കുക">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -298,6 +303,7 @@
 <!ENTITY pref_pwa_summary "വെബ് ആപ്പുകൾ ഹോം സ്ക്രീനിൽ ചേർക്കാൻ അനുവദിക്കുക">
 
 <!ENTITY tracking_protection_prompt_title "ഇപ്പോള്‍ പിന്തുടല്‍ സുരക്ഷയോടുകൂടെ">
+<!ENTITY tracking_protection_prompt_text "ട്രാക്കുചെയ്യുന്ന ഘടകങ്ങളെ സജീവമായി തടയുക, ആകുലതകള്‍ വേണ്ടെന്നു വക്കുക.">
 <!ENTITY tracking_protection_prompt_tip_text "കൂടുതലറിയാന്‍ സ്വകാര്യ സജ്ജീകരണങ്ങള്‍ സന്ദര്‍ശിക്കൂ">
 <!ENTITY tracking_protection_prompt_action_button "കിട്ടിപ്പോയി!">
 
@@ -308,6 +314,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "നിങ്ങള്‍ക്ക് സജ്ജീകരണങ്ങളില്‍ പിന്നീടിതു  മാറ്റാം">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "മറ്റ് ആപ്പുകള്‍ക്ക് മേലുള്ള പെർമിറ്റ് ഡ്രോയിംഗ് സജ്ജമാക്കുക">
 <!ENTITY tab_queue_prompt_positive_action_button "പ്രവര്‍ത്തന സജ്ജമാക്കുക">
 <!ENTITY tab_queue_prompt_negative_action_button "ഇപ്പോള്‍ വേണ്ട">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
