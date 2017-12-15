@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY tabCrashed.closeTab2  "Chiudi scheda">
+<!ENTITY tabCrashed.restoreTab "Arripigghia sta scheda">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We

@@ -14,8 +14,12 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 
+<!ENTITY appmenu.tooltip                     "Grapi lu menú">
+<!ENTITY navbarOverflow.label                "Cchiú strummenta…">
 
 <!-- Tab context menu -->
+<!ENTITY  reloadTab.label                    "Càrrica la scheda arredi">
+<!ENTITY  reloadAllTabs.label                "Càrrica tutti li schedi arredi">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
@@ -70,10 +74,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY otherBookmarksCmd.label "Àutri nzingalibbra">
 
+<!ENTITY backButton.tooltip           "Vai na pàggina nn'arredi">
 <!ENTITY forwardCmd.label             "Avanti">
 <!ENTITY forwardButton.tooltip        "Vai avanti di na pàggina">
-<!ENTITY backForwardButtonMenuMac.tooltip "Tira pi sutta p'ammustrari la storia">
 <!ENTITY printButton.label            "Stampa">
 
 
