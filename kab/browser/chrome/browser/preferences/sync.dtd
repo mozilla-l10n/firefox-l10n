@@ -22,6 +22,7 @@
 <!ENTITY engine.prefs.label         "Imsenyifen">
 <!ENTITY engine.prefs.accesskey     "y">
 <!ENTITY engine.addons.label        "Izegrar">
+<!ENTITY engine.addons.title        "Iseɣzaf akked isental i Firefox n uselkim">
 <!ENTITY engine.addons.accesskey    "z">
 <!ENTITY engine.addresses.label     "Tansiwin">
 <!ENTITY engine.addresses.accesskey "w">
