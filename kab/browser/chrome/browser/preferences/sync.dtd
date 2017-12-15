@@ -4,9 +4,9 @@
 
 <!-- The page shown when logged in... -->
 
-<!ENTITY engine.bookmarks.label     "Ticraḍ n isebtar">
-<!ENTITY engine.bookmarks.accesskey "T">
-<!ENTITY engine.tabs.label2         "Ldi icarren">
+<!ENTITY engine.bookmarks.label     "Ticraḍ n yisebtar">
+<!ENTITY engine.bookmarks.accesskey "c">
+<!ENTITY engine.tabs.label2         "Ldi accaren">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Amazray">
 <!ENTITY engine.history.accesskey   "A">
@@ -21,10 +21,12 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Imsenyifen">
 <!ENTITY engine.prefs.accesskey     "y">
+<!ENTITY engine.prefs.title         "Amatu, tabaḍnit, akked yiɣewwaren n tɣellist ttubeddlen">
 <!ENTITY engine.addons.label        "Izegrar">
 <!ENTITY engine.addons.title        "Iseɣzaf akked isental i Firefox n uselkim">
 <!ENTITY engine.addons.accesskey    "z">
 <!ENTITY engine.addresses.label     "Tansiwin">
+<!ENTITY engine.addresses.title     "Tansiwin n lpusṭa iteskelseḍ (lbiru kan)">
 <!ENTITY engine.addresses.accesskey "w">
 <!ENTITY engine.creditcards.label   "Tikarḍiwin n usmad">
 <!ENTITY engine.creditcards.accesskey "G">
