@@ -361,7 +361,7 @@
 <!ENTITY forwardAsInline.accesskey "В">
 <!ENTITY forwardAsAttachmentCmd.label "Прикачен файл">
 <!ENTITY forwardAsAttachmentCmd.accesskey "ф">
-<!ENTITY editAsNewMsgCmd.label "Редактиране като ново">
+<!ENTITY editAsNewMsgCmd.label "Редактиране като ново съобщение">
 <!ENTITY editAsNewMsgCmd.accesskey "н">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Редактиране на чернова на съобщение">

@@ -6,12 +6,12 @@
 <!ENTITY  window.width                  "49em">
 <!ENTITY  window.macWidth               "44em">
 
-<!ENTITY  proxyTitle.label              "Конфигуриране на междинни сървъри за достъп до Интернет">
+<!ENTITY  proxyTitle.label              "Настройване на мрежов посредник за достъп до интернет">
 <!ENTITY  noProxyTypeRadio.label        "Без прокси">
 <!ENTITY  noProxyTypeRadio.accesskey    "к">
 <!ENTITY  systemTypeRadio.label         "Използване на системните настройки за мрежов посредник">
 <!ENTITY  systemTypeRadio.accesskey     "з">
-<!ENTITY  WPADTypeRadio.label           "Автоматично конфигуриране с настройките на мрежата">
+<!ENTITY  WPADTypeRadio.label           "Автоматично откриване">
 <!ENTITY  WPADTypeRadio.accesskey       "м">
 <!ENTITY  manualTypeRadio.label         "Ръчно конфигуриране:">
 <!ENTITY  manualTypeRadio.accesskey     "Р">
