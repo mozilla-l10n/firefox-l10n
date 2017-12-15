@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Administraziun dals supplements">
 
 <!ENTITY search.placeholder                   "Tschertgar en ils supplements">
+
+<!ENTITY search.placeholder2                  "Tschertgar sin addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Tschertgar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Ir enavos ina pagina">
 <!ENTITY cmd.forward.tooltip                  "Ir anavant ina pagina">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Impussibel da verifitgar tschertas extensiuns">
 <!ENTITY showAllExtensions.button.label       "Mussar tut las extensiuns">
@@ -258,7 +261,6 @@
 <!ENTITY pluginDeprecation.description "Manca insatge? Tscherts plug-ins na vegnan betg pli sustegnids da &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ulteriuras infurmaziuns.">
 
-<!ENTITY legacyWarning.description "Manca insatge? Tschertas extensiuns na vegnan betg pli sustegnidas da &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Mussar las extensiuns obsoletas">
 <!ENTITY legacyExtensions.title "Extensiuns obsoletas">
 <!ENTITY legacyExtensions.description "Questas extensiuns na correspundan betg als standards actuals da &brandShortName; ed èn perquai deactivadas.">

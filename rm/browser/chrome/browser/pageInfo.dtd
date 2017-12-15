@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Adina dumandar">
 <!ENTITY  permAllow             "Permetter">
 <!ENTITY  permAllowSession      "Permetter per questa sesida">
+<!ENTITY  permHide              "Zuppentar">
 <!ENTITY  permBlock             "Bloccar">
 <!ENTITY  permissionsFor        "Autorisaziuns per:">
 <!ENTITY  permPlugins           "Activar ils plug-ins">
