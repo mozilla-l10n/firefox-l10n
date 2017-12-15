@@ -209,9 +209,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 
 
+<!ENTITY openLinkCmdInTab.label       "Grapi lu lijami nta na nova scheda">
+<!ENTITY openLinkCmdInTab.accesskey   "s">
+<!ENTITY openLinkCmd.label            "Grapi lu lijami nta na nova finestra">
+<!ENTITY openLinkCmd.accesskey        "f">
+<!ENTITY openLinkInPrivateWindowCmd.label "Grapi lu lijami nta na nova finestra ammucciata">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "a">
+<!ENTITY openLinkCmdInCurrent.label     "Grapi lu lijami">
+<!ENTITY openLinkCmdInCurrent.accesskey "l">
+<!ENTITY openLinkCmdInContainerTab.label "Grapi lu lijami nta na scheda di cuntinituri nova">
+<!ENTITY openLinkCmdInContainerTab.accesskey "c">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY bookmarkThisLinkCmd.accesskey  "z">
+<!ENTITY pageAction.copyLink.label    "Copia lu lijami">
 <!-- alternate for content area context menu -->
+<!ENTITY saveLinkCmd.label            "Sarba lu lijami comu…">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
