@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Trametter la colliaziun ad in apparat">
 <!ENTITY  sendLinkToDevice.accesskey         "a">
 <!ENTITY  sendToDeviceFeedback.label         "Tramess!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "En colonna (offline)">
 <!ENTITY  moveToNewWindow.label              "Spustar en ina nova fanestra">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Agiuntar in segnapagina per mintga tab…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "Z">
 
 <!ENTITY backCmd.label                "Enavos">
+<!ENTITY backCmd.accesskey            "E">
 <!ENTITY backButton.tooltip           "Ina pagina enavos">
 <!ENTITY forwardCmd.label             "Enavant">
+<!ENTITY forwardCmd.accesskey         "n">
 <!ENTITY forwardButton.tooltip        "Ina pagina enavant">
 <!ENTITY backForwardButtonMenu.tooltip "Cliccar cun la tasta dretga da la mieur u tegnair smatgà per vesair la cronologia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tegnair smatgà per vesair la cronologia">
 <!ENTITY reloadCmd.label              "Chargiar danovamain">
+<!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY stopCmd.label                "Stop">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Chargiar l'adressa endatada en la trav d'adressas">
 <!ENTITY printButton.label            "Stampar">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Persunalisar il menu e las travs d'utensils">
 <!ENTITY appMenuCustomizeExit.label "Serrar il modus da persunalisar">
 <!ENTITY appMenuCustomizeExit.tooltip "Terminar il persunalisar">
+
 <!ENTITY appMenuHistory.showAll.label "Mussar l'entira cronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Stizzar la cronologia la pli nova…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar l'ultima sesida">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vuls ti vesair qua tes tabs dad auters apparats?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferenzas da la sincronisaziun">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "S'annunziar per vesair ina glista dals tabs da tes auters apparats.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Tes conto sto vegnir verifitgà.">
 <!ENTITY appMenuRemoteTabs.signin.label "S'annunziar tar Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar apparats…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mussar la trav laterala dals tabs sincronisads">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Colliar in auter apparat">
 
 <!ENTITY appMenuRecentHighlights.label "Ultims accents">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Configurar sco culissa…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "a">
 <!ENTITY bookmarkPageCmd2.label       "Agiuntar in segnapagina per la pagina">
+<!ENTITY bookmarkPageCmd2.accesskey   "t">
 <!ENTITY bookmarkThisLinkCmd.label      "Agiuntar in segnapagina per la colliaziun">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Agiuntar in segnapagina per il frame">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Terminar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "L">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Segirezza da la website">
+
 <!ENTITY identity.connectionSecure "Connexiun segirada">
 <!ENTITY identity.connectionNotSecure "Questa connexiun n'è betg segirada">
 <!ENTITY identity.connectionFile "Questa pagina è memorisada sin tes computer.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nagins tabs sincronisads… anc!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vuls ti vesair qua tes tabs dad auters apparats?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "T'annunzia per vesair ina glista dals tabs da tes auters apparats.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Tes conto sto vegnir verifitgà.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nagins tabs averts">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Avrir las preferenzas da &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activescha la sincronisaziun da tabs per vesair ina glista dals tabs da tes auters apparats.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Tschertgar en ils tabs sincronisads">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Colliar in auter apparat">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "B">
 <!ENTITY updateRestart.panelUI.label2 "Reaviar per actualisar &brandShorterName;">
 
+<!ENTITY newTabControlled.message "In supplement ha modifitgà la pagina che ti vesas cura che ti avras in nov tab. Ti pos restaurar tias preferenzas sche questa midada na ta plascha betg.">
+<!ENTITY newTabControlled.header.message "La pagina «Nov tab» è vegnida midada.">
+<!ENTITY newTabControlled.keepButton.label "Preservar las modificaziuns">
+<!ENTITY newTabControlled.keepButton.accesskey "P">
+<!ENTITY newTabControlled.restoreButton.label "Restaurar las preferenzas">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Acziuns da pagina">
 <!ENTITY pageAction.addToUrlbar.label "Agiuntar a la trav d'adressas">
 <!ENTITY pageAction.removeFromUrlbar.label "Allontanar da la trav d'adressas">
+
+<!ENTITY pageAction.allowInUrlbar.label "Mussar en la trav d'adressas">
+<!ENTITY pageAction.disallowInUrlbar.label "Betg mussar en la trav d'adressas">
+<!ENTITY pageAction.manageExtension.label "Administrar il supplement…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Trametter il tab ad in apparat">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisar apparats…">

@@ -155,3 +155,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Chanals">
 <!ENTITY aboutSupport.mediaDeviceRate "Frequenza">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latenza">
+
+<!ENTITY aboutSupport.intlTitle "Internaziunalisaziun &amp; lingua">
+<!ENTITY aboutSupport.intlAppTitle "Configuraziun da l'applicaziun">
+<!ENTITY aboutSupport.intlLocalesRequested "Linguas dumandadas">
+<!ENTITY aboutSupport.intlLocalesAvailable "Linguas disponiblas">
+<!ENTITY aboutSupport.intlLocalesSupported "Linguas da l'applicaziun">
+<!ENTITY aboutSupport.intlLocalesDefault "Lingua predefinida">
+<!ENTITY aboutSupport.intlOSTitle "Sistem operativ">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Linguas dal sistem">
+<!ENTITY aboutSupport.intlRegionalPrefs "Preferenzas regiunalas">
