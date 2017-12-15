@@ -573,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Definir como papel de parede…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "n">
 <!ENTITY bookmarkPageCmd2.label       "Adicionar esta página aos favoritos">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Adicionar este link aos favoritos">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Adicionar este frame aos favoritos">
