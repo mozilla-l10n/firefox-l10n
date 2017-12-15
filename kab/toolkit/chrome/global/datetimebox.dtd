@@ -10,8 +10,18 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "Isragen">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "yyyy">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
+
+<!-- Field labels for input type=date -->
+
+
+<!-- Date/time clear button -->
+
