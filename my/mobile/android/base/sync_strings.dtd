@@ -4,8 +4,8 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "မီးမြေခွေးထပ်တူအသုံးချခြင်း">
-<!ENTITY syncBrand.shortName.label "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
 <!ENTITY sync.title.connect.label '&syncBrand.shortName.label;… ကို တပ်ဆင်တော့မည်။'>
@@ -68,6 +68,9 @@
 <!ENTITY fxaccount_status_passwords2 'ဝင်ရောက်မှုများ'>
 <!ENTITY fxaccount_status_tabs 'ဖွင့်ထားသောတပ်ဗ်များ'>
 <!ENTITY fxaccount_status_additional_settings 'အခြားအပြင်အဆင်များ'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Wi-Fi ဖြင့်သာ တစ်ပြေးညီ ထပ်တူပြုပါ'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_status_legal 'ဥပဒေရေးရာ' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
