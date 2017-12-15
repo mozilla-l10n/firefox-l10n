@@ -16,3 +16,4 @@
 <!ENTITY languages.customize.addButton.label            "추가">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 
+<!ENTITY languages.customize.spoofEnglish               "향상된 개인 정보 보호를 위해 웹 페이지의 영어 버전을 요청하기">

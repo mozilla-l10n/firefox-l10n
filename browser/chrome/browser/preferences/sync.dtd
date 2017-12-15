@@ -21,6 +21,7 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "환경 설정">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.title         "변경된 일반, 개인 정보 및 보안 설정">
 <!ENTITY engine.addons.label        "부가 기능">
 <!ENTITY engine.addons.title        "데스크톱용 Firefox를 위한 확장 프로그램과 테마">
 <!ENTITY engine.addons.accesskey    "A">

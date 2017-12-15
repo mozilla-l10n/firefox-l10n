@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "항상 물어보기">
 <!ENTITY  permAllow             "허가">
 <!ENTITY  permAllowSession      "세션에 허가">
+<!ENTITY  permHide              "숨기기">
 <!ENTITY  permBlock             "차단">
 <!ENTITY  permissionsFor        "이용 권한:">
 <!ENTITY  permPlugins           "플러그인 활성화">
