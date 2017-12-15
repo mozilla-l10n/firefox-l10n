@@ -68,13 +68,23 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Càrrica arredi tutti li schedi">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "t">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Nzinga tutti li schedi…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "s">
 
+<!ENTITY pageSourceCmd.label "Còdici dâ pàggina">
+<!ENTITY pageSourceCmd.accesskey "d">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
+<!ENTITY pageInfoCmd.label "Nfurmazzioni dâ pàggina">
+<!ENTITY pageInfoCmd.accesskey "N">
+<!ENTITY pageInfoCmd.commandkey "n">
+<!ENTITY mirrorTabCmd.label "Dúpprica scheda">
+<!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 
