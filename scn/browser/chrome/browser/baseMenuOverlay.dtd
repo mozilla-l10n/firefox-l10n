@@ -4,19 +4,40 @@
 
 <!ENTITY windowMenu.label         "Finestra">
 
- 
- 
+<!ENTITY helpMenu.label           "Aiutu"> 
+<!ENTITY helpMenu.accesskey       "A"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
- 
+<!ENTITY helpMenuWin.label        "Aiutu"> 
+<!ENTITY helpMenuWin.accesskey    "A">
+<!ENTITY aboutProduct2.label      "Supra &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "S">
+<!ENTITY productHelp2.label       "Aiutu di &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "A">
+<!ENTITY helpMac.commandkey       "?">
 
 
 
+<!ENTITY healthReport2.label      "Nfurmazzioni statu di saluti di &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "s">
 
+<!ENTITY helpTroubleshootingInfo.label      "Nfurmazzioni p'arrisòrbiri prubblemi">
+<!ENTITY helpTroubleshootingInfo.accesskey  "p">
 
+<!ENTITY helpFeedbackPage.label      "Manna cummentu…">
+<!ENTITY helpFeedbackPage.accesskey  "c">
 
+<!ENTITY helpShowTour2.label            "Vísita cunnuciuta di &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "V">
 
+<!ENTITY preferencesCmdMac.label        "Prifirenzi…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
+<!ENTITY servicesMenuMac.label          "Sirbizza">
 
+<!ENTITY hideThisAppCmdMac2.label       "Ammuccia &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "A">
 
+<!ENTITY hideOtherAppsCmdMac.label      "Ammuccia l'àutri">
+<!ENTITY hideOtherAppsCmdMac.commandkey "A">
 

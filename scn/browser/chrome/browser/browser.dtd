@@ -13,6 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigazzioni ammucciata)">
 
 <!ENTITY appmenu.tooltip                     "Grapi lu menú">
 <!ENTITY navbarOverflow.label                "Cchiú strummenta…">
@@ -25,12 +26,20 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "Chiudi li schedi a manu dritta">
+<!ENTITY  closeOtherTabs.label               "Chiudi àutri schedi">
+<!ENTITY  closeOtherTabs.accesskey           "s">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+<!ENTITY  pinTab.label                       "Signalía scheda">
+<!ENTITY  pinTab.accesskey                   "S">
+<!ENTITY  unpinTab.label                     "Leva signali dâ scheda">
+<!ENTITY  unpinTab.accesskey                 "L">
+<!ENTITY  sendTabToDevice.label              "Manna la scheda nna l'apparecchiu">
 
 
 <!ENTITY tabCmd.commandkey "t">
