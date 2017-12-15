@@ -7,11 +7,17 @@
 <!ENTITY engine.bookmarks.label     "Maantore am">
 <!ENTITY engine.bookmarks.accesskey "t">
 <!ENTITY engine.tabs.label2         "Uddit tabbe">
+<!ENTITY engine.tabs.title          "Doggol ko udditii e masiŋaaji maa jahdinaaɗi fof">
 <!ENTITY engine.tabs.accesskey      "N">
 <!ENTITY engine.history.label       "Aslol">
 <!ENTITY engine.history.accesskey   "o">
 <!ENTITY engine.logins.label        "Ceŋorɗe">
+<!ENTITY engine.logins.title        "Inle kuutoro kam e finndeeji ɗi dannduɗaa">
 <!ENTITY engine.logins.accesskey    "C">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
 <!ENTITY engine.prefs.label         "Cuɓoraaɗe">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Ɓeyditte">
