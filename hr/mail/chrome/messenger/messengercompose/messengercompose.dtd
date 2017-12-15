@@ -114,10 +114,12 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Poredaj odabir: A - Z">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
      the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Poredaj odabir: Z - A">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
