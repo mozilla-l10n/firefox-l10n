@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Ћаскање">
 <!ENTITY goChatCmd.accesskey "к">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Порука са звездицом">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Фасцикла">

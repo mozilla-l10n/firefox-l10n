@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "URL довода:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Унесите исправну адресу довода да бисте додали">
+<!ENTITY feedLocation2.placeholder   "Унесите исправну адресу довода">
 <!ENTITY locationValidate.label      "Провери исправност">
 <!ENTITY validateText.label          "Провери исправност и добави исправан урл.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Додај">
 <!ENTITY button.addFeed.accesskey    "Д">
+<!ENTITY button.verifyFeed.label     "Потврди">
+<!ENTITY button.verifyFeed.accesskey "т">
 <!ENTITY button.updateFeed.label     "Ажурирај">
 <!ENTITY button.updateFeed.accesskey "j">
 <!ENTITY button.removeFeed.label     "Уклони">
