@@ -40,8 +40,16 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Leva signali dâ scheda">
 <!ENTITY  unpinTab.accesskey                 "L">
 <!ENTITY  sendTabToDevice.label              "Manna la scheda nna l'apparecchiu">
+<!ENTITY  sendLinkToDevice.label             "Manna lu lijami nna l'apparecchiu">
+<!ENTITY  sendToDeviceFeedback.label         "Mannatu!">
+<!ENTITY  moveToNewWindow.label              "Movi nta na finestra nova">
+<!ENTITY  moveToNewWindow.accesskey          "f">
+<!ENTITY  bookmarkAllTabs.label              "Agghiunci tutti li schedi nnê nzingalibbra…">
+<!ENTITY  bookmarkAllTabs.accesskey          "s">
+<!ENTITY  closeTab.label                     "Chiudi scheda">
 
 
+<!ENTITY tabCmd.label "Nova scheda">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
@@ -51,7 +59,15 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 
 
+<!ENTITY menubarCmd.label "Sbarra dî menú">
+<!ENTITY menubarCmd.accesskey "m">
+<!ENTITY navbarCmd.label "Sbarra di navigazzioni">
+<!ENTITY personalbarCmd.label "Sbarra dî nzingalibbra">
+<!ENTITY personalbarCmd.accesskey "n">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Càrrica arredi tutti li schedi">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Nzinga tutti li schedi…">
 
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
