@@ -21,15 +21,21 @@
 <!ENTITY dnsNotFound.pageTitle "Không tìm thấy máy chủ">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Chúng tôi gặp khó khăn khi tìm trang web đó.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Nếu địa chỉ đúng, có ba việc bạn có thể thử:</strong> <ul>
+  <li>Thử lại sau.</li>
+  <li>Kiểm tra kết nối mạng của bạn.</li>
+  <li>Nếu bạn đã kết nối mạng nhưng có cài đặt tường lửa, hãy kiểm tra &brandShortName; có quyền truy cập web không.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Không tìm thấy tập tin">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kiểm tra tên xem có lỗi gõ HOA-thường hay lỗi nào khác không.</li> <li>Kiểm tra xem tập tin có bị di chuyển, đổi tên hay bị xóa không.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Truy cập tập tin bị từ chối">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Nó có thể đã bị xóa, chuyển đi, hay quyền truy cập tập tin đã bị chặn.</li> </ul>">
 
 <!ENTITY generic.title "Lỗi.">
 <!ENTITY generic.longDesc "<p>Vì lý do nào đó, &brandShortName; không thể mở trang này.</p>">
 
+<!ENTITY captivePortal.title "Đăng nhập vào mạng">
 
 
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
