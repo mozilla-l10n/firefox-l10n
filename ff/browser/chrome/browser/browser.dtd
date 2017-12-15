@@ -571,6 +571,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Waɗtu Ngal Cakkital Biro…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "W">
 <!ENTITY bookmarkPageCmd2.label       "Maantoro Ngoo Hello">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Maantoro Ngol Jokkol">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "J">
 <!ENTITY bookmarkThisFrameCmd.label      "Maantoro Ngol Kaarewol">
@@ -759,6 +760,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Kisal Lowre">
 
 <!ENTITY identity.connectionSecure "Ceŋagol Kisnangol">
 <!ENTITY identity.connectionNotSecure "Ceŋagol hisaani">
@@ -813,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Alaa tabbe cynkaaɗe… tawo!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Seŋo ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Konte maa ina cokli ƴeewteede.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Alaa tabbe udditiiɗe">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Uddit cuɓoraaɗe &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -820,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Yiylo tabbe ceŋondiraaɗe">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Seŋ Masiŋ Goɗɗo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -990,11 +994,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "W">
 <!ENTITY updateRestart.panelUI.label2 "Huɓɓit ngam hesɗitinde &brandShorterName;.">
 
+<!ENTITY newTabControlled.message "Timmitere waylii hello njiyataa ngoo saanga nde uddit-ɗaa Tabbere Hesere. Aɗa waawi artirde teelte maa so tawii a yiɗii ngoo waylo.">
+<!ENTITY newTabControlled.header.message "Tabbere maa Hesere wayliima.">
+<!ENTITY newTabControlled.keepButton.label "Mooftu Bayle">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "Artir Teelte">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Baɗe hello">
 <!ENTITY pageAction.addToUrlbar.label "Ɓeydu to Palal Ñiiɓirɗe">
 <!ENTITY pageAction.removeFromUrlbar.label "Ittu e Palal Ñiiɓirɗe">
 
+<!ENTITY pageAction.allowInUrlbar.label "Hollu Palal Ñiiɓirde">
+<!ENTITY pageAction.disallowInUrlbar.label "Woto Hollu e Palal Ñiiɓirde">
+<!ENTITY pageAction.manageExtension.label "Yiil Timmitere…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Neldu Tabbere to Kaɓirgol">
 <!ENTITY sendToDevice.syncNotReady.label "Jahdingol masiŋon...">
