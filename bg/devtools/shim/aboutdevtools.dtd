@@ -56,11 +56,18 @@
 
 <!ENTITY  aboutDevtools.welcome.title "Добре дошли в развойните инструменти на Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Бюлетин на разработчиците на Мозила">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Получавайте новини, хитрости и ресурси за програмисти директно в своята поща.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Адрес на ел. поща">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Абониране">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Благодарим!">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
+<!ENTITY  aboutDevtools.footer.learnMoreLink "Научете повече">
 
