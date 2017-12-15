@@ -7,33 +7,35 @@
 <!ENTITY engine.bookmarks.label     "Ticraḍ n yisebtar">
 <!ENTITY engine.bookmarks.accesskey "c">
 <!ENTITY engine.tabs.label2         "Ldi accaren">
+<!ENTITY engine.tabs.title          "Tabdart n wayen akka yeldin deg yibenkan akk yemtawan">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Amazray">
 <!ENTITY engine.history.accesskey   "A">
-<!ENTITY engine.logins.label        "Inekcam">
+<!ENTITY engine.logins.label        "Anekcum">
 <!ENTITY engine.logins.title        "Isem n uqesdac d wawalen uffiren i teskelseḍ">
 <!ENTITY engine.logins.accesskey    "Y">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
-<!ENTITY engine.prefsWin.label      "Iγewwaṛen">
+<!ENTITY engine.prefsWin.label      "Iγewwaren">
 <!ENTITY engine.prefsWin.accesskey  "S">
-<!ENTITY engine.prefs.label         "Imsenyifen">
+<!ENTITY engine.prefs.label         "Ismenyifen">
 <!ENTITY engine.prefs.accesskey     "y">
 <!ENTITY engine.prefs.title         "Amatu, tabaḍnit, akked yiɣewwaren n tɣellist ttubeddlen">
 <!ENTITY engine.addons.label        "Izegrar">
-<!ENTITY engine.addons.title        "Iseɣzaf akked isental i Firefox n uselkim">
+<!ENTITY engine.addons.title        "Iseɣzaf akked yisental i Firefox n uselkim">
 <!ENTITY engine.addons.accesskey    "z">
 <!ENTITY engine.addresses.label     "Tansiwin">
-<!ENTITY engine.addresses.title     "Tansiwin n lpusṭa iteskelseḍ (lbiru kan)">
+<!ENTITY engine.addresses.title     "Tansiwin n lpusṭa i teskelseḍ (aselkim kan)">
 <!ENTITY engine.addresses.accesskey "w">
 <!ENTITY engine.creditcards.label   "Tikarḍiwin n usmad">
+<!ENTITY engine.creditcards.title   "Ismawen, imḍanen akked yizemziyen ifaten (aselkim kan)">
 <!ENTITY engine.creditcards.accesskey "G">
 
 <!-- Device Settings -->
-<!ENTITY fxaSyncDeviceName.label       "Isem n wallal">
-<!ENTITY changeSyncDeviceName2.label "Snifel isem n yibenk…">
+<!ENTITY fxaSyncDeviceName.label       "Isem n yibenk">
+<!ENTITY changeSyncDeviceName2.label "Beddel isem n yibenk…">
 <!ENTITY changeSyncDeviceName2.accesskey "q">
 <!ENTITY cancelChangeSyncDeviceName.label "Sefsex">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "x">
