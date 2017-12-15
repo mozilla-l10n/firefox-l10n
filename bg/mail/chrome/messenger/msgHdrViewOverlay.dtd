@@ -80,7 +80,7 @@
 <!ENTITY openAttachmentCmd.accesskey    "О">
 <!ENTITY saveAsAttachmentCmd.label    "Запазване на всички…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "в">
-<!ENTITY detachAttachmentCmd.label    "Откачане…">
+<!ENTITY detachAttachmentCmd.label    "Разкачане…">
 <!ENTITY detachAttachmentCmd.accesskey    "к">
 <!ENTITY deleteAttachmentCmd.label    "Изтриване">
 <!ENTITY deleteAttachmentCmd.accesskey    "р">

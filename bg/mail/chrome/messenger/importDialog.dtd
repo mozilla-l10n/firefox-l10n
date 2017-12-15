@@ -42,7 +42,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY back.label               "&lt; Назад">
 <!ENTITY forward.label            "Напред &gt;">
-<!ENTITY finish.label             "Край">
+<!ENTITY finish.label             "Завършване">
 <!ENTITY cancel.label             "Отказ">
 
 <!ENTITY select.label             "или изберете какъв материал искате да внесете:">

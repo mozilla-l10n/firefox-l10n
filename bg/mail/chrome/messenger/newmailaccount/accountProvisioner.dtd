@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Изобразени са само доставчиците, които предлагат адреси във вашия район.  Натиснете тук, за да се покажат всички доставчици.">
 <!ENTITY error.line1 "За съжаление не са открити никакви предложени адреси.">
 <!ENTITY error.line2 "Можете да опитате търсене по прякори или някакъв друг термин, за да откриете повече е-пощенски адреси.">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-
 <!ENTITY error.suggest.before "Също така можете да пробвате някои ">
 <!ENTITY error.suggest.middle "безплатни алтернативи за пощенска регистрация">
 <!ENTITY error.suggest.after ".">
+
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-
 <!ENTITY success.title.before "Здравейте ">
 <!ENTITY success.title.after ", следните пощенски адреси са достъпни за вас:">
 <!ENTITY success.tip "(Можете също да опитате търсене по прякори или някакъв друг термин, за да откриете повече е-пощенски адреси.)">
@@ -40,4 +40,4 @@
 <!ENTITY input.search "Търсене">
 <!ENTITY search_engine.title "Персонализиране на търсачката">
 <!ENTITY search_engine.message "Вашият пощенски доставчик може също да ви предложи възможност за уеб търсене.">
-<!ENTITY search_engine.button "Край">
+<!ENTITY search_engine.button "Завършване">
