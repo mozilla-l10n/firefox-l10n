@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "סימניות">
 <!ENTITY engine.bookmarks.accesskey "ס">
 <!ENTITY engine.tabs.label2         "פתיחת לשוניות">
+<!ENTITY engine.tabs.title          "רשימה של מה שפתוח בכל ההתקנים המסונכרנים">
 <!ENTITY engine.tabs.accesskey      "ל">
 <!ENTITY engine.history.label       "היסטוריה">
 <!ENTITY engine.history.accesskey   "ה">
 <!ENTITY engine.logins.label        "כניסות">
+<!ENTITY engine.logins.title        "שמות משתמשים וסיסמאות ששמרת">
 <!ENTITY engine.logins.accesskey    "כ">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "אפשרויות">
+<!ENTITY engine.prefsWin.accesskey  "א">
 <!ENTITY engine.prefs.label         "העדפות">
 <!ENTITY engine.prefs.accesskey     "ה">
+<!ENTITY engine.prefs.title         "הגדרות כלליות, פרטיות ואבטחה ששינית">
 <!ENTITY engine.addons.label        "תוספות">
+<!ENTITY engine.addons.title        "הרחבות וערכות נושא עבור Firefox שולחני">
 <!ENTITY engine.addons.accesskey    "ת">
 <!ENTITY engine.addresses.label     "כתובות">
+<!ENTITY engine.addresses.title     "כתובות למשלוח דואר ששמרת (שולחן עבודה בלבד)">
 <!ENTITY engine.addresses.accesskey "כ">
 <!ENTITY engine.creditcards.label   "כרטיסי אשראי">
+<!ENTITY engine.creditcards.title   "שמות, מספרים ותאריכי תפוגה (שולחן עבודה בלבד)">
 <!ENTITY engine.creditcards.accesskey "א">
 
 <!-- Device Settings -->

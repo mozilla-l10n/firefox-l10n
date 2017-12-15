@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "שליחת קישור להתקן">
 <!ENTITY  sendLinkToDevice.accesskey         "ה">
 <!ENTITY  sendToDeviceFeedback.label         "נשלח!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "בתור (לא מקוון)">
 <!ENTITY  moveToNewWindow.label              "העברה לחלון חדש">
 <!ENTITY  moveToNewWindow.accesskey          "ה">
 <!ENTITY  bookmarkAllTabs.label              "יצירת סימנייה לכל הלשוניות…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "ס">
 
 <!ENTITY backCmd.label                "אחורה">
+<!ENTITY backCmd.accesskey            "ז">
 <!ENTITY backButton.tooltip           "חזרה דף אחד אחורה">
 <!ENTITY forwardCmd.label             "קדימה">
+<!ENTITY forwardCmd.accesskey         "ק">
 <!ENTITY forwardButton.tooltip        "התקדמות דף אחד קדימה">
 <!ENTITY backForwardButtonMenu.tooltip "לחיצה ימנית או משיכה מטה כדי להציג היסטוריה">
 <!ENTITY backForwardButtonMenuMac.tooltip "משיכה מטה כדי להציג היסטוריה">
 <!ENTITY reloadCmd.label              "טעינה מחדש">
+<!ENTITY reloadCmd.accesskey          "ר">
 <!ENTITY stopCmd.label                "עצירה">
+<!ENTITY stopCmd.accesskey            "ע">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "מעבר לכתובת שבסרגל המיקום">
 <!ENTITY printButton.label            "הדפסה">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "התאמה אישית של התפריט וסרגלי הכלים">
 <!ENTITY appMenuCustomizeExit.label "יציאה ממצב ההתאמה האישית">
 <!ENTITY appMenuCustomizeExit.tooltip "סיום ההתאמה האישית">
+
 <!ENTITY appMenuHistory.showAll.label "הצגת כל ההיסטוריה">
 <!ENTITY appMenuHistory.clearRecent.label "מחיקת היסטוריה אחרונה…">
 <!ENTITY appMenuHistory.restoreSession.label "שחזור הפעלה קודמת">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "להציג כאן את הלשוניות שלך מהתקנים אחרים?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "העדפות Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "יש להיכנס כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
+<!ENTITY appMenuRemoteTabs.unverified.label "יש לאמת את החשבון שלך.">
 <!ENTITY appMenuRemoteTabs.signin.label "התחברות אל Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ניהול התקנים…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "הצגת סרגל צד של לשוניות מסונכרנות">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "חיבור התקן נוסף">
 
 <!ENTITY appMenuRecentHighlights.label "הדגשות אחרונות">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "קביעה כתמונת רקע בשולחן העבודה…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "כ">
 <!ENTITY bookmarkPageCmd2.label       "יצירת סימנייה לדף זה">
+<!ENTITY bookmarkPageCmd2.accesskey   "ס">
 <!ENTITY bookmarkThisLinkCmd.label      "יצירת סימנייה לקישור זה">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ק">
 <!ENTITY bookmarkThisFrameCmd.label      "יצירת סימנייה למסגרת זו">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "סיום">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ה">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "אבטחת האתר">
+
 <!ENTITY identity.connectionSecure "חיבור מאובטח">
 <!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "אין לשוניות מסונכרנות… בינתיים!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "להציע כאן את הלשוניות שלך מהתקנים אחרים?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "יש להיכנס כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "יש לאמת את החשבון שלך.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "אין לשוניות פתוחות">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "פתיחת ההעדפות של &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "יש להפעיל סנכרון כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "חיפוש לשוניות שסונכרנו">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "חיבור התקן נוסף">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ל">
 <!ENTITY updateRestart.panelUI.label2 "הפעלה מחדש לעדכון &brandShorterName;">
 
+<!ENTITY newTabControlled.message "הרחבה שינתה את הדף הנראה בעת פתיחת לשונית חדשה. באפשרותך לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
+<!ENTITY newTabControlled.header.message "הלשונית החדשה שלך השתנתה.">
+<!ENTITY newTabControlled.keepButton.label "להשאיר שינויים">
+<!ENTITY newTabControlled.keepButton.accesskey "ש">
+<!ENTITY newTabControlled.restoreButton.label "לשחזר הגדרות">
+<!ENTITY newTabControlled.restoreButton.accesskey "ה">
+
 <!ENTITY pageActionButton.tooltip "פעולות דף">
 <!ENTITY pageAction.addToUrlbar.label "הוספה לשורת הכתובת">
 <!ENTITY pageAction.removeFromUrlbar.label "הסרה משורת הכתובת">
+
+<!ENTITY pageAction.allowInUrlbar.label "להציג בשורת הכתובת">
+<!ENTITY pageAction.disallowInUrlbar.label "לא להציג בשורת הכתובת">
+<!ENTITY pageAction.manageExtension.label "ניהול הרחבה…">
 
 <!ENTITY pageAction.sendTabToDevice.label "שליחת לשונית להתקן">
 <!ENTITY sendToDevice.syncNotReady.label "סנכרון התקנים…">
