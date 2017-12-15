@@ -73,8 +73,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 
+<!ENTITY bookmarksMenu.label "Nzingalibbra">
 
+<!ENTITY addCurPagesCmd.label "Agghiunci tutti li schedi a li nzingalibbra…">
 <!ENTITY otherBookmarksCmd.label "Àutri nzingalibbra">
+<!ENTITY mobileBookmarksCmd.label "Nzingalibbra dû smarfu">
+<!ENTITY hideRecentlyBookmarked.label     "Ammuccia nzingalibbra cchiú novi">
 
 <!ENTITY backButton.tooltip           "Vai na pàggina nn'arredi">
 <!ENTITY forwardCmd.label             "Avanti">
@@ -91,8 +95,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 
+<!ENTITY bookmarksButton.label          "Nzingalibbra">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Nzingalibbra">
+<!ENTITY bookmarksMenuButton2.label         "Menú nzingalibbra">
+<!ENTITY bookmarksMenuButton.other.label    "Àutri nzingalibbra">
+<!ENTITY bookmarksMenuButton.mobile.label   "Nzingalibbra dû smarfu">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -225,6 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pageAction.copyLink.label    "Copia lu lijami">
 <!-- alternate for content area context menu -->
 <!ENTITY saveLinkCmd.label            "Sarba lu lijami comu…">
+<!ENTITY saveLinkCmd.accesskey        "j">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
@@ -295,6 +305,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.learnMore "Cchiú nfurmazzioni">
 
 
+<!ENTITY identity.moreInfoLinkText2 "Cchiú nfurmazzioni">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -315,6 +326,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Poi scègghiri di migghiara d'agghiuncitini">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
@@ -364,6 +376,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY libraryButton.tooltip "Vidi crunuluggìa, nzingalibbra sarbati e àutru">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
