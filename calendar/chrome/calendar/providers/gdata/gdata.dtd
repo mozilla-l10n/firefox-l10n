@@ -10,7 +10,7 @@
 <!ENTITY gdata.migration.title "Мигриране на календарите „само за четене“">
 <!ENTITY gdata.migration.description "Добавката за достъп до Google Календар откри, че имате съществуващи календари, които могат да достъпят Google Календар само в режим за четене. Ако искате да обновите някой от тях, моля изберете ги по-долу">
 <!ENTITY gdata.migration.upgrade.label "Надграждане">
-<!ENTITY gdata.migration.upgrade.accesskey "О">
+<!ENTITY gdata.migration.upgrade.accesskey "н">
 <!ENTITY gdata.migration.showagain.label "Винаги да се проверява">
 
 <!ENTITY gdata.reminder.default "Напомняне по подразбиране">
