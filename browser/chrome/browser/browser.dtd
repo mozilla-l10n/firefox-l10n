@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Odoslať odkaz do zariadenia">
 <!ENTITY  sendLinkToDevice.accesskey         "a">
 <!ENTITY  sendToDeviceFeedback.label         "Odoslané!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "V poradí (offline)">
 <!ENTITY  moveToNewWindow.label              "Presunúť do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Naspäť">
+<!ENTITY backCmd.accesskey            "N">
 <!ENTITY backButton.tooltip           "Späť o jednu stránku">
 <!ENTITY forwardCmd.label             "Dopredu">
+<!ENTITY forwardCmd.accesskey         "D">
 <!ENTITY forwardButton.tooltip        "Dopredu o jednu stránku">
 <!ENTITY backForwardButtonMenu.tooltip "Kliknutím pravým tlačidlom alebo dlhším stlačením zobrazíte históriu">
 <!ENTITY backForwardButtonMenuMac.tooltip "Dlhším stlačením zobrazíte históriu">
 <!ENTITY reloadCmd.label              "Obnoviť">
+<!ENTITY reloadCmd.accesskey          "O">
 <!ENTITY stopCmd.label                "Zastaviť">
+<!ENTITY stopCmd.accesskey            "s">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Prejsť na adresu zadanú v paneli s adresou">
 <!ENTITY printButton.label            "Tlačiť">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Umožní prispôsobiť ponuku a panely s nástrojmi">
 <!ENTITY appMenuCustomizeExit.label "Ukončiť prispôsobenie">
 <!ENTITY appMenuCustomizeExit.tooltip "Ukončí režim prispôsobenia">
+
 <!ENTITY appMenuHistory.showAll.label "Zobraziť celú históriu">
 <!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnoviť poslednú reláciu">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Váš účet musí byť overený.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Spravovať zariadenia…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobraziť synchronizované karty na bočnom paneli">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Pripojiť ďalšie zariadenie">
 
 <!ENTITY appMenuRecentHighlights.label "Nedávno vybrané">
 
@@ -750,6 +759,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Hotovo">
 <!ENTITY editBookmark.removeBookmark.accessKey       "O">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Zabezpečenie stránky">
+
 <!ENTITY identity.connectionSecure "Zabezpečené pripojenie">
 <!ENTITY identity.connectionNotSecure "Pripojenie nie je zabezpečené">
 <!ENTITY identity.connectionFile "Táto stránka je uložená vo vašom počítači.">
@@ -803,12 +816,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nemáte žiadne synchronizované karty… zatiaľ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Váš účet musí byť overený.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žiadne otvorené karty">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Otvoriť nastavenia služby &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Hľadať v synchronizovaných kartách">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Pripojiť ďalšie zariadenie">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +995,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Akcie stránky">
 <!ENTITY pageAction.addToUrlbar.label "Pridať do panela s adresou">
 <!ENTITY pageAction.removeFromUrlbar.label "Odstrániť z panela s adresou">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Odoslať kartu do zariadenia">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
