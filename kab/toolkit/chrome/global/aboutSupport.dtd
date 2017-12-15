@@ -151,3 +151,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Ibuda">
 <!ENTITY aboutSupport.mediaDeviceRate "Afmiḍi">
 <!ENTITY aboutSupport.mediaDeviceLatency "Akud n ugani">
+
+<!ENTITY aboutSupport.intlAppTitle "Iɣewwaṛen n usnas">
