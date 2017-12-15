@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Neldu Jokkol to Kaɓirgol">
 <!ENTITY  sendLinkToDevice.accesskey         "K">
 <!ENTITY  sendToDeviceFeedback.label         "Neldaama!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Reggondirii (ceŋtol)">
 <!ENTITY  moveToNewWindow.label              "Dirtin to Henorde Hesere">
 <!ENTITY  moveToNewWindow.accesskey          "H">
 <!ENTITY  bookmarkAllTabs.label              "Maantoto Tabbe Kala…">
@@ -188,12 +189,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Rutto">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Rutto hello wooto">
 <!ENTITY forwardCmd.label             "Yeeso">
 <!ENTITY forwardButton.tooltip        "Yah yeeso hello wooto">
 <!ENTITY backForwardButtonMenu.tooltip "Dobo ñaamo walla fooɗ ngam hollude aslol">
 <!ENTITY backForwardButtonMenuMac.tooltip "Wertu ngam hollude aslol">
 <!ENTITY reloadCmd.label              "Hesɗitin">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Dartin">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Yah to ñiiɓirde wonde e Palal Nokkuuje">
@@ -355,6 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Heertin Dosol e Palal Kuutorɗe">
 <!ENTITY appMenuCustomizeExit.label "Yaltu Keertingol">
 <!ENTITY appMenuCustomizeExit.tooltip "Gasnu Keertingol">
+
 <!ENTITY appMenuHistory.showAll.label "Hollu Asli ɗii Fof">
 <!ENTITY appMenuHistory.clearRecent.label "Momtu Aslol Sakketol…">
 <!ENTITY appMenuHistory.restoreSession.label "Artir Yillannde Ɓennunde">
@@ -385,9 +389,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Cuɓoraaɗe Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Seŋo ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Konte maa ina cokli ƴeewteede.">
 <!ENTITY appMenuRemoteTabs.signin.label "Seŋo nga syncude">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Toppito Kaɓirɗi…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Yiy Tabbe Cynkaaɗe">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Seŋ Masiŋ Goɗɗo">
 
 <!ENTITY appMenuRecentHighlights.label "Maantinooje Cakkitiiɗe">
 
@@ -750,6 +757,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Gasii">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Ceŋagol Kisnangol">
 <!ENTITY identity.connectionNotSecure "Ceŋagol hisaani">
 <!ENTITY identity.connectionFile "Ngoo hello mooftaa ko e ordinateer maa.">
@@ -809,6 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Yiylo tabbe ceŋondiraaɗe">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +990,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "W">
 <!ENTITY updateRestart.panelUI.label2 "Huɓɓit ngam hesɗitinde &brandShorterName;.">
 
+
 <!ENTITY pageActionButton.tooltip "Baɗe hello">
 <!ENTITY pageAction.addToUrlbar.label "Ɓeydu to Palal Ñiiɓirɗe">
 <!ENTITY pageAction.removeFromUrlbar.label "Ittu e Palal Ñiiɓirɗe">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Neldu Tabbere to Kaɓirgol">
 <!ENTITY sendToDevice.syncNotReady.label "Jahdingol masiŋon...">
