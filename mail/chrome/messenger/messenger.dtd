@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Konverzácie">
 <!ENTITY goChatCmd.accesskey "K">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Správa s hviezdičkou">
 <!ENTITY prevStarredMsgCmd.accesskey "h">
 <!ENTITY folderMenu.label "Priečinok">
