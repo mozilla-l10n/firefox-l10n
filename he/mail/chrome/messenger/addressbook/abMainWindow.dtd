@@ -106,7 +106,6 @@
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "פרטי משפחה">
 <!ENTITY firstLastCmd2.accesskey                        "פ">
-<!ENTITY lastFirstCmd.label                             "שם משפחה,  שם פרטי">
 <!ENTITY lastFirstCmd.accesskey                         "מ">
 <!ENTITY displayNameCmd.label                           "שם תצוגה">
 <!ENTITY displayNameCmd.accesskey                       "ת">
