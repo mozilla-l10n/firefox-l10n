@@ -41,11 +41,11 @@
 <!ENTITY community.end3             " يعمل للمحافظة على انفتاح الوب و عموميتها و إتاحتها للجميع.">
 
 <!ENTITY helpus.start               "هل تُريد المساعدة؟ ">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "تبرّع">
 <!ENTITY helpus.middle              " أو ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "شارِك معنا.">
+<!ENTITY helpus.getInvolvedLink     "شارِك معنا">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "ما الجديد">
