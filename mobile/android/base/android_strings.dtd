@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "സ്വാഗതം">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; തിരഞ്ഞെടുത്തതിന് നന്ദി">
+<!ENTITY firstrun_urlbar_subtext2 "ലാഭേച്ഛയില്ലാതെ സ്വതന്ത്രമായ വെബ്ബിനായിതാ, മോസില്ലയില്‍ നിന്നൊരു ആധുനിക മൊബൈല്‍ ബ്രൌസര്‍.">
 <!ENTITY firstrun_panel_title_privacy "സ്വകാര്യത">
 <!ENTITY firstrun_privacy_message "ആരും കാണാതെ ബ്രൗസ് ചെയ്യൂ">
 <!ENTITY firstrun_privacy_subtext "ട്രാക്കിങ്ങ് സംരക്ഷണത്തോടൊപ്പമുള്ള സ്വകാര്യ ബ്രൌസിങ്ങ് നിങ്ങള്‍ ബ്രൌസ് ചെയ്യുമ്പോള്‍ ട്രാക്കറുകളെ തടയുന്നതോടൊപ്പം നിങ്ങള്‍ ബ്രൌസിങ്ങ് അവസാനിപ്പിക്കുമ്പോള്‍ നാള്‍വഴി സൂക്ഷിക്കുന്നില്ല.">
@@ -36,6 +37,7 @@
 <!ENTITY firstrun_readerview_title "ലേഖനങ്ങള്‍">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "കോലാഹലങ്ങളില്‍ നിന്നും രക്ഷപ്പെടൂ">
+<!ENTITY firstrun_readerview_subtext "സുഖമാര്‍ന്ന വായനാനുഭവത്തിന് ലേഖനങ്ങൾ റീഡർ വ്യൂ ഉപയോഗിച്ചു വായിക്കുക \u2014 ഓഫ്ലൈൻ ആണെങ്കിലും.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "നിങ്ങള്‍">
@@ -91,6 +93,7 @@
 <!ENTITY bookmark_folder_items "&formatD; എണ്ണം">
 <!ENTITY bookmark_folder_one_item "ഒരെണ്ണം">
 <!ENTITY bookmark_folder_updated "ഫോൾഡർ അപ്ഡേറ്റുചെയ്തു">
+<!ENTITY bookmark_parent_folder "മാതൃ ഫോള്‍ഡര്‍">
 <!ENTITY bookmark_add_folder "പുതിയ ഫോൾഡർ ചേർക്കുക">
 
 <!ENTITY reader_saved_offline "ഓഫ്‍ലൈനായി സൂക്ഷിച്ചു">
