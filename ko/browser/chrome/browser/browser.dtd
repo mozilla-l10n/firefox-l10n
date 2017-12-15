@@ -190,11 +190,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backCmd.label                "뒤로">
 <!ENTITY backButton.tooltip           "한 페이지 뒤로 가기">
 <!ENTITY forwardCmd.label             "앞으로">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "한 페이지 앞으로 가기">
 <!ENTITY backForwardButtonMenu.tooltip "오른쪽 클릭 혹은 풀다운으로 방문 기록 보기">
 <!ENTITY backForwardButtonMenuMac.tooltip "방문 기록 내려 보기">
 <!ENTITY reloadCmd.label              "새로 고침">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "중지">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "주소 표시줄에 있는 주소로 접속하기">
 <!ENTITY printButton.label            "인쇄">
@@ -355,6 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "메뉴와 도구 상자 사용자 설정">
 <!ENTITY appMenuCustomizeExit.label "사용자 설정 종료">
 <!ENTITY appMenuCustomizeExit.tooltip "사용자 설정 완료">
+
 <!ENTITY appMenuHistory.showAll.label "방문 기록 보기">
 <!ENTITY appMenuHistory.clearRecent.label "최근 방문 기록 삭제…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
@@ -385,9 +389,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "다른 기기에서도 여기에서 열린 탭을 사용하시겠습니까?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync 설정">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "다른 기기의 탭 목록을 보기 위해서 로그인 하세요.">
+<!ENTITY appMenuRemoteTabs.unverified.label "계정 확인이 필요합니다.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync에 로그인">
 <!ENTITY appMenuRemoteTabs.managedevices.label "기기 관리…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "동기화한 탭 탐색창 보이기">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "다른 기기에 연결">
 
 <!ENTITY appMenuRecentHighlights.label "최근 하이라이트">
 
@@ -750,6 +757,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "완료">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "안전한 연결">
 <!ENTITY identity.connectionNotSecure "안전하지 않은 연결">
 <!ENTITY identity.connectionFile "이 페이지는 사용자의 컴퓨터에 저장됩니다.">
@@ -809,6 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "다른 기기의 탭 목록을 보려면 탭 동기화를 켜십시오.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "동기화된 탭 검색">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +990,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; 업데이트를 위해 재시작">
 
+<!ENTITY newTabControlled.message "새 탭을 열 때 지금 보고 있는 페이지를 확장 프로그램이 변경했습니다. 이 변경을 원하지 않으면 설정을 복원할 수 있습니다.">
+<!ENTITY newTabControlled.header.message "새 탭이 변경되었습니다.">
+<!ENTITY newTabControlled.keepButton.label "변경 사항 유지">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "설정 복원">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "페이지 작업">
 <!ENTITY pageAction.addToUrlbar.label "주소 표시줄에 추가">
 <!ENTITY pageAction.removeFromUrlbar.label "주소 표시줄에서 제거">
+
+<!ENTITY pageAction.allowInUrlbar.label "주소 표시줄에 보이기">
+<!ENTITY pageAction.disallowInUrlbar.label "주소 표시줄에 보이지 않기">
+<!ENTITY pageAction.manageExtension.label "확장 프로그램 관리…">
 
 <!ENTITY pageAction.sendTabToDevice.label "기기로 탭 보내기">
 <!ENTITY sendToDevice.syncNotReady.label "기기를 동기화하고 있습니다…">
