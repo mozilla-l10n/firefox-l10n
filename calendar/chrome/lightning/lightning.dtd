@@ -49,6 +49,7 @@
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Ar hyn o bryd, mae modd galluogi hwn ar ôl gosod y calendr hwn yn ei ddeialog priodwedd os yw gweinydd y calendr yn cymryd gofal o amserlennu.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Dim ond os yw gweinydd yr amserlenni ar gael mae'r dewis hwn ar gael. Bydd ei alluogi yn caniatau mynd yn ol i'r amserlemnni e-bost safonol yn lle ei adael ar y gweinydd.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Derbyn">
