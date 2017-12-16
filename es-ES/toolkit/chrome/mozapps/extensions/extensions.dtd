@@ -4,6 +4,7 @@
 
 <!ENTITY addons.windowTitle "Administrador de complementos">
 <!ENTITY search.placeholder "Buscar complementos">
+<!ENTITY search.placeholder2 "Buscar en addons.mozilla.org">
 <!ENTITY search.buttonlabel "Buscar">
 <!ENTITY search.commandkey "f">
 <!ENTITY loading.label "Cargando…">
