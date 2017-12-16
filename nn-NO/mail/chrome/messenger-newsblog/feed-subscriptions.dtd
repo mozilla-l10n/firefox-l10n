@@ -39,6 +39,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Legg til">
 <!ENTITY button.addFeed.accesskey    "L">
+<!ENTITY button.verifyFeed.label     "Stadfest">
+<!ENTITY button.verifyFeed.accesskey "S">
 <!ENTITY button.updateFeed.label     "Rediger">
 <!ENTITY button.updateFeed.accesskey "R">
 <!ENTITY button.removeFeed.label     "Slett">
