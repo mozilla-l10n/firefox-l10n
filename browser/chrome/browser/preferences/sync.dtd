@@ -7,16 +7,27 @@
 <!ENTITY engine.bookmarks.label     "Cytańske znamjenja">
 <!ENTITY engine.bookmarks.accesskey "C">
 <!ENTITY engine.tabs.label2         "Wócynjone rejtarki">
+<!ENTITY engine.tabs.title          "Lisćina ze wšym, což jo wócynjone na wšych synchronizěrowanych rědach">
 <!ENTITY engine.tabs.accesskey      "r">
 <!ENTITY engine.history.label       "Historiju">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.logins.label        "Pśizjawjenja">
+<!ENTITY engine.logins.title        "Wužywarske mjenja a gronidła, kótarež sćo składł">
 <!ENTITY engine.logins.accesskey    "P">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Nastajenja">
+<!ENTITY engine.prefsWin.accesskey  "N">
 <!ENTITY engine.prefs.label         "Nastajenja">
 <!ENTITY engine.prefs.accesskey     "N">
+<!ENTITY engine.prefs.title         "Powšykne nastajenja, nastajenja priwatnosći a wěstoty, kótarež sćo změnił">
 <!ENTITY engine.addons.label        "Dodanki">
+<!ENTITY engine.addons.title        "Rozšyrjenja a drastwy za desktopowy Firefox">
 <!ENTITY engine.addons.accesskey    "D">
 <!ENTITY engine.addresses.label     "Adrese">
+<!ENTITY engine.addresses.title     "Postowe adrese, kótarež sćo składł (jano desktop)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kreditowe kórty">
 <!ENTITY engine.creditcards.accesskey "K">
