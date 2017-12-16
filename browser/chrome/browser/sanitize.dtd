@@ -54,7 +54,7 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.accesskey   "S">
 <!ENTITY itemCookies.label                 "Infokapslar">
 <!ENTITY itemCookies.accesskey             "I">
-<!ENTITY itemCache.label                   "Snøgglager for nettsider">
+<!ENTITY itemCache.label                   "Snøgglager (Cache) for nettsider">
 <!ENTITY itemCache.accesskey               "S">
 <!ENTITY itemOfflineApps.label             "Fråkopla nettsidedata">
 <!ENTITY itemOfflineApps.accesskey         "F">

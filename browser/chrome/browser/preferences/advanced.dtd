@@ -49,7 +49,7 @@ available. -->
 <!ENTITY connectionSettings.label        "Innstillingar…">
 <!ENTITY connectionSettings.accesskey    "I">
 
-<!ENTITY httpCache.label                 "Snøgglagra nettinnhald">
+<!ENTITY httpCache.label                 "Snøgglagra nettinnhald (Cache)">
 
 <!ENTITY offlineStorage2.label           "Fråkopla nettinnhald og brukardata">
 
