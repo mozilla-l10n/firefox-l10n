@@ -12,37 +12,53 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "Acerca de las herramientas de desarrollador">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Habilitar las herramientas de desarrollador de Firefox">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Habilitar las herramientas de desarrollador de Firefox para usar Inspeccionar elemento">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Examina y edita HTML y CSS con el inspector de las herramientas de desarrollador">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Desarrolla y depura WebExtensions, web workers, service workers y más con las herramientas de desarrollador de Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Activaste un atajo de las herramientas de desarrollador. Si eso fue un error, puedes cerrar esta pestaña.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Examina, edita y depura HTML, CSS y JavaScript con herramientas como el Inspector y el Depurador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Perfecciona el HTML, CSS y JavaScript de tu sitio web con herramientas como el Inspector y el Depurador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Las herramientas de desarrollador están desactivadas por defecto para darte más control sobre tu navegador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Aprender más sobre las herramientas de desarrollador">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Habilitar herramientas de desarrollador">
 <!ENTITY  aboutDevtools.enable.closeButton "Cerrar esta página">
 
 <!ENTITY  aboutDevtools.enable.closeButton2 "Cerrar esta pestaña">
