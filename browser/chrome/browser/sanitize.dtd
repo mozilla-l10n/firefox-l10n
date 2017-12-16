@@ -23,6 +23,7 @@
 
 <!ENTITY clearDataSettings2.label     "যখন &brandShortName; বন্ধ করা হবে, স্বয়ংক্রিয়ভাবে সব মুছে ফেলা হবে:">
 
+<!ENTITY clearDataSettings3.label     "যখন আমি &brandShortName; বন্ধ করব, তখন স্বয়ংক্রিয়ভাবে সব মুছে ফেলা হবে">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
