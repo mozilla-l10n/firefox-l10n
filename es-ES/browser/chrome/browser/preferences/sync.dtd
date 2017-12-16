@@ -5,18 +5,26 @@
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2 "Pestañas abiertas">
+<!ENTITY engine.tabs.title "Una lista de lo que está abierto en todos los dispositivos sincronizados">
 <!ENTITY engine.tabs.accesskey "t">
 <!ENTITY engine.history.label "Historial">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.logins.label "Inicios de sesión">
+<!ENTITY engine.logins.title "Nombres de usuario y contraseñas que ha guardado">
 <!ENTITY engine.logins.accesskey "I">
+<!ENTITY engine.prefsWin.label "Opciones">
+<!ENTITY engine.prefsWin.accesskey "O">
 <!ENTITY engine.prefs.label "Preferencias">
 <!ENTITY engine.prefs.accesskey "S">
+<!ENTITY engine.prefs.title "Configuración general, de privacidad y de seguridad que ha cambiado">
 <!ENTITY engine.addons.label "Complementos">
+<!ENTITY engine.addons.title "Extensiones y temas para Firefox de escritorio">
 <!ENTITY engine.addons.accesskey "C">
 <!ENTITY engine.addresses.label "Direcciones">
+<!ENTITY engine.addresses.title "Direcciones postales que ha guardado (solo escritorio)">
 <!ENTITY engine.addresses.accesskey "D">
 <!ENTITY engine.creditcards.label "Tarjetas de crédito">
+<!ENTITY engine.creditcards.title "Nombres, números y fechas de caducidad (solo escritorio)">
 <!ENTITY engine.creditcards.accesskey "T">
 <!ENTITY fxaSyncDeviceName.label "Nombre del dispositivo">
 <!ENTITY changeSyncDeviceName2.label "Cambiar nombre del dispositivo…">
