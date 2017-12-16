@@ -391,7 +391,7 @@
 <!ENTITY pref_vendor_feedback "Enviar opinião">
 
 <!ENTITY pref_dialog_set_default "Definir como predefinição">
-<!ENTITY pref_dialog_default "Padrão">
+<!ENTITY pref_dialog_default "Predefinido">
 <!ENTITY pref_dialog_remove "Remover">
 <!ENTITY pref_dialog_activitystream_header_content "Conteúdo adicional">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Favoritos recentes">
