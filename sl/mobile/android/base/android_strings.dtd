@@ -358,9 +358,9 @@
 <!ENTITY pref_zoom_force_enabled "Vedno omogoči povečavo">
 <!ENTITY pref_zoom_force_enabled_summary "Vsili povečavo, tako da je mogoča na vsaki strani">
 <!ENTITY pref_voice_input "Glasovni vnos">
-<!ENTITY pref_voice_input_summary2 "Dovoli glasovne ukaze v vrstici URL">
+<!ENTITY pref_voice_input_summary2 "Dovoli glasovne ukaze v naslovni vrstici">
 <!ENTITY pref_qrcode_enabled "Bralnik QR-kode">
-<!ENTITY pref_qrcode_enabled_summary2 "Dovoli bralnik QR-kode v vrstici URL">
+<!ENTITY pref_qrcode_enabled_summary2 "Dovoli bralnik QR-kod v naslovni vrstici">
 
 <!ENTITY pref_use_master_password "Uporabljaj glavno geslo">
 <!ENTITY pref_sync_default_title "Firefox Račun">
