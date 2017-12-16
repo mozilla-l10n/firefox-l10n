@@ -147,7 +147,7 @@
 <!ENTITY DefaultPhoto.label             "مبدئية">
 <!ENTITY PhotoFile.label                "في هذا الحاسوب">
 <!ENTITY PhotoFile.accesskey            "ف">
-<!ENTITY BrowsePhoto.label              "استعرض">
+<!ENTITY BrowsePhoto.label              "تصفّح">
 <!ENTITY BrowsePhoto.accesskey          "ر">
 <!ENTITY PhotoURL.label                 "في الوب">
 <!ENTITY PhotoURL.accesskey             "و">
