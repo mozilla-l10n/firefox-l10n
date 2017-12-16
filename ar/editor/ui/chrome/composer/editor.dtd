@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-
 <!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
 <!-- Toolbar-only items -->
-
-
 <!ENTITY compositionToolbar.tooltip "شريط أدوات التحرير">
-<!ENTITY previewToolbarCmd.label "تصفح">
+<!ENTITY previewToolbarCmd.label "تصفّح">
 <!ENTITY previewToolbarCmd.tooltip "يحمّل هذه الصفحة في المتصفح">
-<!-- File menu items -->
 
+<!-- File menu items -->
 <!ENTITY exportToTextCmd.label "صدّر إلى نص…">
 <!ENTITY exportToTextCmd.accesskey "ص">
 <!ENTITY previewCmd.label "عاين الصفحة">
 <!ENTITY previewCmd.accesskey "ع">
 <!ENTITY sendPageCmd.label "أرسِل الصفحة…">
 <!ENTITY sendPageCmd.accesskey "ر">
-<!-- View menu items -->
 
+<!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "شريط أدوات التحرير">
 <!ENTITY compositionToolbarCmd.accesskey "ش">
 <!ENTITY formattingToolbarCmd.label "شريط أدوات التنسيق">
 <!ENTITY formattingToolbarCmd.accesskey "س">
 <!ENTITY editmodeToolbarCmd.label "شريط أدوات نمط التحرير">
 <!ENTITY editmodeToolbarCmd.accesskey "ش">
-<!-- Format menu items -->
 
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "تنسيق">
 <!ENTITY formatMenu.accesskey "ق">
 <!ENTITY grid.label "شبكة التموضع">
 <!ENTITY grid.accesskey "ك">
 <!ENTITY pageProperties.label "عنوان الصفحة وخصائصها…">
 <!ENTITY pageProperties.accesskey "ع">
-<!-- Tools menu items -->
 
+<!-- Tools menu items -->
 <!ENTITY validateCmd.label "تحقق من صحة HTML">
 <!ENTITY validateCmd.accesskey "ق">
-<!-- Display Mode toolbar and View menu items -->
 
+<!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "عادي">
 <!ENTITY NormalMode.label "نمط التحرير العادي">
 <!ENTITY NormalMode.accesskey "د">
