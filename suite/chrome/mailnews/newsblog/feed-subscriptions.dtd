@@ -9,6 +9,7 @@
 <!ENTITY feedLocation.label "URL del canal:">
 <!ENTITY feedLocation.accesskey "L">
 <!ENTITY feedLocation.placeholder "Introduzca una URL de canal válida para añadir">
+<!ENTITY feedLocation2.placeholder "Introduzca una URL de canal válida">
 <!ENTITY locationValidate.label "Validar">
 <!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
 <!ENTITY feedFolder.label "Guardar artículos en:">
@@ -29,6 +30,8 @@
 <!ENTITY autoTagPrefix.placeholder "Introduzca un prefijo de etiqueta">
 <!ENTITY button.addFeed.label "Añadir">
 <!ENTITY button.addFeed.accesskey "A">
+<!ENTITY button.verifyFeed.label "Verificar">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label "Actualizar">
 <!ENTITY button.updateFeed.accesskey "c">
 <!ENTITY button.removeFeed.label "Eliminar">
