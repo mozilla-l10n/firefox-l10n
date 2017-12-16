@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Wótkaz na rěd pósłaś">
 <!ENTITY  sendLinkToDevice.accesskey         "W">
 <!ENTITY  sendToDeviceFeedback.label         "Pósłany!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "W cakajucem rěźe (offline)">
 <!ENTITY  moveToNewWindow.label              "Do nowego wokna pśesunuś">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Wšykne rejtarki ako cytańske znamjenja składowaś…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "c">
 
 <!ENTITY backCmd.label                "Slědk">
+<!ENTITY backCmd.accesskey            "S">
 <!ENTITY backButton.tooltip           "Jaden bok slědk">
 <!ENTITY forwardCmd.label             "Doprědka">
+<!ENTITY forwardCmd.accesskey         "D">
 <!ENTITY forwardButton.tooltip        "Jaden bok doprědka">
 <!ENTITY backForwardButtonMenu.tooltip "Klikniśo z pšawej tastu abo śěgniśo dołoj, aby historiju pokazał">
 <!ENTITY backForwardButtonMenuMac.tooltip "Śěgniśo dołoj, aby historiju pokazał">
 <!ENTITY reloadCmd.label              "Znowego">
+<!ENTITY reloadCmd.accesskey          "Z">
 <!ENTITY stopCmd.label                "Stoj">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "K adresy w adresowem pólu">
 <!ENTITY printButton.label            "Śišćaś">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Meni a symbolowe rědki pśiměriś">
 <!ENTITY appMenuCustomizeExit.label "Pśiměrjenje skóńcyś">
 <!ENTITY appMenuCustomizeExit.tooltip "Pśiměrjenje skóńcyś">
+
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazaś">
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprozniś…">
 <!ENTITY appMenuHistory.restoreSession.label "Pjerwjejšne pósejźenje wótnowiś">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Cośo how swóje rejtarki z drugich rědow wiźeś?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizěrowaś">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Wašo konto musy se wobkšuśiś.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pla Sync pśizjawiś">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Rědy rědowaś…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Bocnicu synchronizěrowanych rejtarkow pokazaś">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Drugi rěd zwězaś">
 
 <!ENTITY appMenuRecentHighlights.label "Aktualne wjerški">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Ako desktopowu slězynu nastajiś…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "A">
 <!ENTITY bookmarkPageCmd2.label       "Toś ten bok ako cytańske znamje składowaś">
+<!ENTITY bookmarkPageCmd2.accesskey   "c">
 <!ENTITY bookmarkThisLinkCmd.label      "Toś ten wótkaz ako cytańske znamje składowaś">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Toś ten wobłuk ako cytańske znamje skladowaś">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Dokóńcony">
 <!ENTITY editBookmark.removeBookmark.accessKey       "w">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sedłowa wěstota">
+
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
 <!ENTITY identity.connectionFile "Toś ten bok jo se na wašom licadle składł.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Hyšći žedne synchronizěrowane rejtarki …!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Cośo how swóje rejtarki z drugich rědow wiźeś?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Wašo konto musy se wobkšuśiś.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žedne wócynjone rejtarki">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Nastajenja &syncBrand.shortName.label; wócyniś">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Synchronizěrowane rejtarki pytaś">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Drugi rěd zwězaś">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Startujśo znowego, aby &brandShorterName; aktualizěrował">
 
+<!ENTITY newTabControlled.message "Rozšyrjenje jo bok změnił, kótaryž wiźiśo, gaž nowy rejtark wócynjaśo. Móžośo swóje nastajenja wótnowiś, jolic toś tu změnu njocośo.">
+<!ENTITY newTabControlled.header.message "Waš nowy rejtark jo se změnił.">
+<!ENTITY newTabControlled.keepButton.label "Změny wobchowaś">
+<!ENTITY newTabControlled.keepButton.accesskey "Z">
+<!ENTITY newTabControlled.restoreButton.label "Nastajenja wótnowiś">
+<!ENTITY newTabControlled.restoreButton.accesskey "N">
+
 <!ENTITY pageActionButton.tooltip "Akcije boka">
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
 <!ENTITY pageAction.removeFromUrlbar.label "Z adresowego póla wótwónoźeś">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Rejtark na rěd pósłaś">
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">
