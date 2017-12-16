@@ -188,13 +188,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "z">
 
 <!ENTITY backCmd.label                "Geri">
+<!ENTITY backCmd.accesskey            "G">
 <!ENTITY backButton.tooltip           "Bir sayfa geriye">
 <!ENTITY forwardCmd.label             "İleri">
 <!ENTITY forwardButton.tooltip        "Bir sayfa ileriye">
 <!ENTITY backForwardButtonMenu.tooltip "Geçmişi göstermek için sağ tıklayın veya aşağı çekin">
 <!ENTITY backForwardButtonMenuMac.tooltip "Geçmişi göstermek için aşağı çekin">
 <!ENTITY reloadCmd.label              "Tazele">
+<!ENTITY reloadCmd.accesskey          "z">
 <!ENTITY stopCmd.label                "Durdur">
+<!ENTITY stopCmd.accesskey            "D">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Konum çubuğundaki adrese git">
 <!ENTITY printButton.label            "Yazdır">
@@ -568,6 +571,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Masaüstü arka planı olarak ayarla…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "M">
 <!ENTITY bookmarkPageCmd2.label       "Bu sayfayı yer imlerine ekle">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Bu bağlantıyı yer imlerine ekle">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "u">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu çerçeveyi yer imlerine ekle">
@@ -990,6 +994,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "D">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlat">
 
+<!ENTITY newTabControlled.keepButton.label "Değişiklikleri koru">
+<!ENTITY newTabControlled.keepButton.accesskey "D">
+<!ENTITY newTabControlled.restoreButton.label "Ayarları geri yükle">
+<!ENTITY newTabControlled.restoreButton.accesskey "A">
 
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
 <!ENTITY pageAction.addToUrlbar.label "Adres çubuğuna ekle">

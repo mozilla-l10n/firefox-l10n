@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Her zaman sor">
 <!ENTITY  permAllow             "İzin ver">
 <!ENTITY  permAllowSession      "Oturum boyunca izin ver">
+<!ENTITY  permHide              "Gizle">
 <!ENTITY  permBlock             "Engelle">
 <!ENTITY  permissionsFor        "İzinler:">
 <!ENTITY  permPlugins           "Yan uygulamaları etkinleştirebilir">
