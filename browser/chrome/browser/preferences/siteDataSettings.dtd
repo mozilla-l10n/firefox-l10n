@@ -12,7 +12,7 @@
 <!ENTITY     removeSelected.accesskey      "م">
 <!ENTITY     save.label                    "احفظ التغييرات">
 <!ENTITY     save.accesskey                "ظ">
-<!ENTITY     cancel.label                  "ألغ">
+<!ENTITY     cancel.label                  "ألغِ">
 <!ENTITY     cancel.accesskey              "ل">
 <!ENTITY     removingDialog.title          "إزالة بيانات المواقع">
 <!ENTITY     removingSelected.description  "إزالة بيانات الموقع سيزيل أيضا الكعكات و محتوى الوب للعمل دون اتصال. قد يتسبب هذا في ولوجك خارج المواقع. أمتأكد أنك تريد إجراء التغييرات؟">
