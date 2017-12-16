@@ -57,8 +57,10 @@
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "E-mejl">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Sym přezjedny, zo Mozilla po <a class='external' href='https://www.mozilla.org/privacy/'>tutych prawidłach priwatnosće</a> z mojimi informacijemi wobchadźa.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Abonować">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Wulki dźak!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Jeli hišće njejsće abonement powěsćoweho lista Mozilla wobkrućił, dyrbiće to nětko činić. Prošu hladajće do dochadneje e-mejle abo papjernika za e-mejlku wot nas.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
