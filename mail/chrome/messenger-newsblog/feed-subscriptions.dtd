@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "Kanal-URL:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Ange en giltig kanal-URL för att lägga till">
+<!ENTITY feedLocation2.placeholder   "Ange en giltig kanal-URL">
 <!ENTITY locationValidate.label      "Validera">
 <!ENTITY validateText.label          "Kontrollera validering och hämta en giltig webbadress.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Lägg till">
 <!ENTITY button.addFeed.accesskey    "L">
+<!ENTITY button.verifyFeed.label     "Verifiera">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Uppdatera">
 <!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Ta bort">
