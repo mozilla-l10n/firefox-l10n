@@ -65,7 +65,7 @@
 <!ENTITY  cookieExceptions.label        "الاستثناءات…">
 <!ENTITY  cookieExceptions.accesskey    "س">
 
-<!ENTITY  showCookies.label             "اعرض الكعكات…">
+<!ENTITY  showCookies.label             "أظهِر الكعكات…">
 <!ENTITY  showCookies.accesskey         "ع">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; سوف">
