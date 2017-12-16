@@ -102,14 +102,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Trasi nna &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Grapi li prifirenzi di &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Cullégati arredi cu &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Virífica lu to' cuntu">
 
 
+<!ENTITY fullScreenClose.tooltip "Chiudi">
+<!ENTITY fullScreenAutohide.label "Ammuccia sbarri dî strummenta">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -120,29 +124,44 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
 
+<!ENTITY closeWindow.label "Chiudi finestra">
+<!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Nzingalibbra">
+<!ENTITY bookmarkThisPageCmd.label "Nzinga sta pàggina">
+<!ENTITY editThisBookmarkCmd.label "Cancia stu nzingalibbru">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Agghiunci tutti li schedi a li nzingalibbra…">
+<!ENTITY showAllBookmarks2.label "Mustra tutti li nzingalibbra">
 <!ENTITY otherBookmarksCmd.label "Àutri nzingalibbra">
 <!ENTITY mobileBookmarksCmd.label "Nzingalibbra dû smarfu">
 <!ENTITY hideRecentlyBookmarked.label     "Ammuccia nzingalibbra cchiú novi">
 
+<!ENTITY backCmd.label                "Nn'arredi">
+<!ENTITY backCmd.accesskey            "a">
 <!ENTITY backButton.tooltip           "Vai na pàggina nn'arredi">
 <!ENTITY forwardCmd.label             "Avanti">
 <!ENTITY forwardButton.tooltip        "Vai avanti di na pàggina">
+<!ENTITY reloadCmd.label              "Càrrica arredi">
+<!ENTITY reloadCmd.accesskey          "C">
 <!ENTITY printButton.label            "Stampa">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Talìa nfurmazzioni dû situ">
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduci sta pàggina">
 
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Mustra crunuluggía">
 
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "Pàggina mastra">
 
 <!ENTITY bookmarksButton.label          "Nzingalibbra">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -151,6 +170,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Menú nzingalibbra">
 <!ENTITY bookmarksMenuButton.other.label    "Àutri nzingalibbra">
 <!ENTITY bookmarksMenuButton.mobile.label   "Nzingalibbra dû smarfu">
+<!ENTITY viewBookmarksToolbar.label         "Talía sbarra dî nzingalibbra">
+<!ENTITY hideBookmarksToolbar.label         "Ammuccia la sbarra dî nzingalibbra">
+<!ENTITY searchBookmarks.label              "Cerca nzingalibbra">
+<!ENTITY bookmarkingTools.label             "Strummenta pi nzingari">
+<!ENTITY addBookmarksMenu.label             "Agghiunci lu menú dî nzingalibbra â sbarra dî strummenta">
+<!ENTITY removeBookmarksMenu.label          "Leva lu menú dî nzingalibbra dâ sbarra dî strummenta">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -158,18 +183,46 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "Crunuluggía">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Strummenta">
+<!ENTITY toolsMenu.accesskey          "S">
 
 
-
+<!ENTITY downloads.label              "Scarricamenti">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Scarricamenti">
+<!ENTITY downloads.accesskey          "S">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Agghiuncitini">
+<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
 
 
 
 <!ENTITY fileMenu.label         "Pricu">
 <!ENTITY fileMenu.accesskey       "P">
+<!ENTITY newNavigatorCmd.label        "Nova finestra">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Nova finestra ammucciata">
+<!ENTITY newPrivateWindow.accesskey "a">
+<!ENTITY newNonRemoteWindow.label   "Nova finestra nun-e10s">
 
+<!ENTITY editMenu.label         "Cancia">
+<!ENTITY editMenu.accesskey       "C">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY cutCmd.label           "Tagghia">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY copyCmd.label            "Copia">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
 <!ENTITY pasteCmd.label           "Ncoḍḍa">
+<!ENTITY pasteCmd.key           "V">
 <!ENTITY deleteCmd.label          "Scancella">
 <!ENTITY deleteCmd.key            "S">
 <!ENTITY deleteCmd.accesskey        "S">
