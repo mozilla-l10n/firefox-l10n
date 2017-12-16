@@ -419,6 +419,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.key         "Q">
 
+<!ENTITY closeCmd.label                 "Chiudi">
 <!ENTITY closeCmd.key                   "W">
 
 <!ENTITY toggleMuteCmd.key              "M">
