@@ -1011,7 +1011,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.disallowInUrlbar.label "لا تعرض في شريط العنوان">
 <!ENTITY pageAction.manageExtension.label "أدِر الامتدادات…">
 
-<!ENTITY pageAction.sendTabToDevice.label "أرسل اللسان إلى جهاز">
+<!ENTITY pageAction.sendTabToDevice.label "أرسِل اللسان إلى جهاز">
 <!ENTITY sendToDevice.syncNotReady.label "يُزامن الأجهزة…">
 
 <!ENTITY libraryButton.tooltip "اعرض التأريخ، والعلامات المحفوظة وغيرها">

@@ -8,7 +8,7 @@
 <!ENTITY treehead.list.label          "قائمة">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.cancel.label          "ألغ">
+<!ENTITY button.cancel.label          "ألغِ">
 <!ENTITY button.cancel.accesskey      "ل">
 <!ENTITY button.ok.label              "احفظ التغييرات">
 <!ENTITY button.ok.accesskey          "ح">

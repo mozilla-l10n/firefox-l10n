@@ -63,7 +63,7 @@
 <!ENTITY certmgr.delete2.accesskey            "ح">
 <!ENTITY certmgr.delete_builtin.label         "احذف أو لا تثق…">
 <!ENTITY certmgr.delete_builtin.accesskey     "ذ">
-<!ENTITY certmgr.backup2.label                "احفظ احتياطيا…">
+<!ENTITY certmgr.backup2.label                "احفظ احتياطيًا…">
 <!ENTITY certmgr.backup2.accesskey            "ط">
 <!ENTITY certmgr.backupall2.label             "احفظ الكل احتياطيا…">
 <!ENTITY certmgr.backupall2.accesskey         "ك">
