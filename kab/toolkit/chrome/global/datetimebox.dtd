@@ -13,6 +13,7 @@
 <!-- Field labels for input type=time -->
 
 <!ENTITY time.hour.label "Isragen">
+<!ENTITY time.minute.label "Tisdatin">
 
 <!-- Placeholders for input type=date -->
 
