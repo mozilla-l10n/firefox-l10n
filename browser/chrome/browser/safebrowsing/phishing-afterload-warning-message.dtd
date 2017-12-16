@@ -44,7 +44,7 @@
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Klamavá stránka">
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Aplikace &brandShortName; zablokovala tuto stránku, protože se vás může snažit přimět k něčemu nebezpečnému, jako je instalace softwaru nebo prozrazení osobních informací, např. hesel nebo čísla kreditní karty.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Aplikace &brandShortName; zablokovala tuto stránku, protože se vás může snažit přimět k něčemu nebezpečnému, jako je instalace softwaru nebo prozrazení osobních informací, např. hesel nebo čísla platební karty.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.phishingPage.errorDesc.override "Stránka <span id='phishing_sitename'/> byla <a id='error_desc_link'>nahlášena jako klamavá</a>. Můžete <a id='report_detection'>nahlásit chybu v detekci</a> nebo se rozhodnout <a id='ignore_warning_link'>ignorovat riziko</a> a pokračovat na tuto nebezpečnou stránku.">
@@ -55,7 +55,7 @@
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Tato stránka může obsahovat malware">
-<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Aplikace &brandShortName; zablokovala tuto stránku, protože se může pokoušet nainstalovat nebezpečné programy a ukrást nebo smazat vaše data (např. fotografie, hesla, zprávy nebo číslo kreditní karty).">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Aplikace &brandShortName; zablokovala tuto stránku, protože se může pokoušet nainstalovat nebezpečné programy a ukrást nebo smazat vaše data (např. fotografie, hesla, zprávy nebo číslo platební karty).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.override "Stránka <span id='harmful_sitename'/> byla <a id='error_desc_link'>nahlášena jako stránka s potenciálně škodlivou aplikací</a>. Můžete se rozhodnout <a id='ignore_warning_link'>ignorovat riziko</a> a pokračovat na tuto nebezpečnou stránku.">
