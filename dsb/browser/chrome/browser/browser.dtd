@@ -1007,6 +1007,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
 <!ENTITY pageAction.removeFromUrlbar.label "Z adresowego póla wótwónoźeś">
 
+<!ENTITY pageAction.allowInUrlbar.label "W adresowem pólu pokazaś">
+<!ENTITY pageAction.disallowInUrlbar.label "W adresowem pólu njepokazaś">
+<!ENTITY pageAction.manageExtension.label "Rozšyrjenje zastojaś…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Rejtark na rěd pósłaś">
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">

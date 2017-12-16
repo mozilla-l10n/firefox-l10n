@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Pśecej se pšašaś">
 <!ENTITY  permAllow             "Dowóliś">
 <!ENTITY  permAllowSession      "Za pósejźenje dowóliś">
+<!ENTITY  permHide              "Schowaś">
 <!ENTITY  permBlock             "Blokěrowaś">
 <!ENTITY  permissionsFor        "Pšawa za:">
 <!ENTITY  permPlugins           "Tykace aktiwěrowaś">
