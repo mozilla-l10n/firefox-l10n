@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "ערוצים">
 <!ENTITY aboutSupport.mediaDeviceRate "קצב">
 <!ENTITY aboutSupport.mediaDeviceLatency "עיכוב">
+
+<!ENTITY aboutSupport.intlTitle "בינלאומי ושפות">
+<!ENTITY aboutSupport.intlAppTitle "הגדרות יישום">
+<!ENTITY aboutSupport.intlLocalesRequested "שפות מבוקשות">
+<!ENTITY aboutSupport.intlLocalesAvailable "שפות זמינות">
+<!ENTITY aboutSupport.intlLocalesSupported "שפות היישום">
+<!ENTITY aboutSupport.intlLocalesDefault "שפת ברירת המחדל">
+<!ENTITY aboutSupport.intlOSTitle "מערכת הפעלה">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "שפות המערכת">
+<!ENTITY aboutSupport.intlRegionalPrefs "העדפות אזוריות">

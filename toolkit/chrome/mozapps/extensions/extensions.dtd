@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "מנהל התוספות">
 
 <!ENTITY search.placeholder                   "חיפוש בכל התוספות">
+
 <!ENTITY search.buttonlabel                   "חיפוש">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +26,7 @@
 
 <!ENTITY cmd.back.tooltip                     "חזרה דף אחד אחורה">
 <!ENTITY cmd.forward.tooltip                  "התקדמות דף אחד קדימה">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "אין אפשרות לאמת חלק מההרחבות">
 <!ENTITY showAllExtensions.button.label       "הצגת כל ההרחבות">
@@ -88,7 +90,7 @@
 <!ENTITY cmd.about.accesskey                  "א">
 
 <!ENTITY cmd.enableAddon.label                "הפעלה">
-<!ENTITY cmd.enableAddon.accesskey            "א">
+<!ENTITY cmd.enableAddon.accesskey            "פ">
 <!ENTITY cmd.disableAddon.label               "ניטרול">
 <!ENTITY cmd.disableAddon.accesskey           "נ">
 <!ENTITY cmd.enableTheme.label                "לבש ערכת נושא">
@@ -256,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "חסר כאן משהו? חלק מהתוספים החיצוניים אינם נתמכים עוד ב־&brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "למידע נוסף.">
 
-<!ENTITY legacyWarning.description "מפספסים משהו? חלק מההרחבות לא נתמכות עוד על־ידי &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "הצגת הרחבות דור קודם">
 <!ENTITY legacyExtensions.title "הרחבות מדור קודם">
 <!ENTITY legacyExtensions.description "הרחבות אלו לא עומדות בתקנים הנוכחיים של &brandShortName; ולכן כובו.">
