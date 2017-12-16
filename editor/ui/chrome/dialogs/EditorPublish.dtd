@@ -48,7 +48,7 @@
 <!ENTITY siteName.label               "Ime spletne strani:">
 <!ENTITY siteName.accesskey           "s">
 <!ENTITY siteName.tooltip             "Vzdevek za prepoznavo te spletne strani objave (npr.: 'MojSplet')">
-<!ENTITY siteUrl.label                "Naslov za objavo (e.g.: 'ftp://ftp.myisp.com/mojeime'):">
+<!ENTITY siteUrl.label                "Naslov za objavo (e.g.: 'ftp://ftp.mojponudnik.com/mojeime'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "Naslov FTP:// ali HTTP://, ki ste ga dobili od svojega ponudnika internetnih storitev ali storitve spletnega gostovanja">
 <!ENTITY browseUrl.label              'Naslov HTTP vaše domače strani (npr.: "http://www.mojponudnik.com/mojeime"):'>
