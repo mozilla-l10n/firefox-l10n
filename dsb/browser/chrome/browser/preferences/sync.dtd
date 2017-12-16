@@ -30,6 +30,7 @@
 <!ENTITY engine.addresses.title     "Postowe adrese, kótarež sćo składł (jano desktop)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kreditowe kórty">
+<!ENTITY engine.creditcards.title   "Mjenja, licby a datumy pśepadnjenja (jano desktop)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
