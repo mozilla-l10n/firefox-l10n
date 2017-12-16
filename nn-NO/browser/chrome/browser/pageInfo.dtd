@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Spør alltid">
 <!ENTITY  permAllow             "Tillat">
 <!ENTITY  permAllowSession      "Tillat for programøkta">
+<!ENTITY  permHide              "Gøym">
 <!ENTITY  permBlock             "Blokker">
 <!ENTITY  permissionsFor        "Løyve for:">
 <!ENTITY  permPlugins           "Slå på programtillegg">

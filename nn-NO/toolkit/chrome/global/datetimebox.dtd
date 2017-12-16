@@ -10,8 +10,21 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "åååå">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "År">
+<!ENTITY date.month.label "Månad">
+<!ENTITY date.day.label "Dag">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "Tøm">
