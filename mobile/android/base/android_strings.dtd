@@ -151,7 +151,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "Padrão do sistema">
+<!ENTITY locale_system_default "Predefinição do sistema">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -179,7 +179,7 @@
 <!ENTITY overlay_no_synced_devices "Nenhum dispositivo conectado a conta Firefox">
 
 <!ENTITY pref_category_search3 "Pesquisa">
-<!ENTITY pref_category_search_summary2 "Adicionar, definir padrão, mostrar sugestões">
+<!ENTITY pref_category_search_summary2 "Adicionar, definir predefinição, mostrar sugestões">
 <!ENTITY pref_category_accessibility "Acessibilidade">
 <!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, entrada de voz">
 <!ENTITY pref_category_privacy_short "Privacidade">
@@ -192,8 +192,8 @@
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
 <!ENTITY pref_category_add_search_providers "Adicionar mais mecanismos de pesquisa">
 <!ENTITY pref_category_search_restore_defaults "Restaurar mecanismos de pesquisa">
-<!ENTITY pref_search_restore_defaults "Restaurar padrões">
-<!ENTITY pref_search_restore_defaults_summary "Restaurar padrões">
+<!ENTITY pref_search_restore_defaults "Restaurar predefinições">
+<!ENTITY pref_search_restore_defaults_summary "Restaurar predefinições">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -384,13 +384,13 @@
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
 <!ENTITY pref_private_data_syncedTabs "Abas sincronizadas">
 
-<!ENTITY pref_default_browser "Definir como navegador padrão">
+<!ENTITY pref_default_browser "Tornar navegador predefinido">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar o suporte da Mozilla">
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_vendor_faqs "Perguntas frequentes">
 <!ENTITY pref_vendor_feedback "Enviar opinião">
 
-<!ENTITY pref_dialog_set_default "Definir como padrão">
+<!ENTITY pref_dialog_set_default "Definir como predefinição">
 <!ENTITY pref_dialog_default "Padrão">
 <!ENTITY pref_dialog_remove "Remover">
 <!ENTITY pref_dialog_activitystream_header_content "Conteúdo adicional">
