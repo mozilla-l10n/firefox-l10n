@@ -29,6 +29,7 @@
 <!ENTITY sendLinkToDevice.label "Enviar enlace al dispositivo">
 <!ENTITY sendLinkToDevice.accesskey "v">
 <!ENTITY sendToDeviceFeedback.label "¡Enviado!">
+<!ENTITY sendToDeviceOfflineFeedback.label "Encolado (sin conexión)">
 <!ENTITY moveToNewWindow.label "Mover a una nueva ventana">
 <!ENTITY moveToNewWindow.accesskey "V">
 <!ENTITY bookmarkAllTabs.label "Añadir pestañas a marcadores…">
@@ -126,13 +127,17 @@
 <!ENTITY hideRecentlyBookmarked.label "Ocultar los últimos añadidos a marcadores">
 <!ENTITY hideRecentlyBookmarked.accesskey "O">
 <!ENTITY backCmd.label "Anterior">
+<!ENTITY backCmd.accesskey "A">
 <!ENTITY backButton.tooltip "Ir a la página anterior">
 <!ENTITY forwardCmd.label "Siguiente">
+<!ENTITY forwardCmd.accesskey "S">
 <!ENTITY forwardButton.tooltip "Ir a la página siguiente">
 <!ENTITY backForwardButtonMenu.tooltip "Pinche con el botón derecho o arrastre hacia abajo para ver el historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastre hacia abajo para ver el historial">
 <!ENTITY reloadCmd.label "Recargar">
+<!ENTITY reloadCmd.accesskey "R">
 <!ENTITY stopCmd.label "Detener">
+<!ENTITY stopCmd.accesskey "D">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY goEndCap.tooltip "Ir a la URL de la barra de direcciones">
 <!ENTITY printButton.label "Imprimir">
@@ -278,9 +283,11 @@
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quiere ver sus pestañas de otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sesión para ver una lista de pestañas de sus otros dispositivos.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Su cuenta debe ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicie sesión en Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver panel lateral de pestañas sincronizadas">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otro dispositivo">
 <!ENTITY appMenuRecentHighlights.label "Destacados recientes">
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a la barra de herramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "b">
@@ -384,6 +391,7 @@
 <!ENTITY setDesktopBackgroundCmd.label "Establecer como fondo de escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "S">
 <!ENTITY bookmarkPageCmd2.label "Añadir esta página a marcadores">
+<!ENTITY bookmarkPageCmd2.accesskey "m">
 <!ENTITY bookmarkThisLinkCmd.label "Añadir este enlace a marcadores">
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
 <!ENTITY bookmarkThisFrameCmd.label "Añadir este cuadro a marcadores">
@@ -527,6 +535,7 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY editBookmark.done.label "Terminar">
 <!ENTITY editBookmark.removeBookmark.accessKey "r">
+<!ENTITY identity.securityView.label "Seguridad del sitio">
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "La conexión no es segura">
 <!ENTITY identity.connectionFile "Esta página se guarda en su equipo.">
@@ -566,10 +575,12 @@
 <!ENTITY syncedTabs.sidebar.noclients.title "No hay pestañas sincronizadas… ¡aún!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quiere ver sus pestañas de otros dispositivos aquí?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label "Inicie sesión para ver una lista de pestañas de sus otros dispositivos.">
+<!ENTITY syncedTabs.sidebar.unverified.label "Su cuenta debe ser verificada.">
 <!ENTITY syncedTabs.sidebar.notabs.label "No hay pestañas abiertas">
 <!ENTITY syncedTabs.sidebar.openprefs.label "Abrir preferencias de &syncBrand.shortName.label;">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Active la sincronización de pestañas para ver una lista de las mismas de sus otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder "Buscar en pestañas sincronizadas">
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice "Conectar otro dispositivo">
 <!ENTITY syncedTabs.context.open.label "Abrir">
 <!ENTITY syncedTabs.context.open.accesskey "A">
 <!ENTITY syncedTabs.context.openInNewTab.label "Abrir en una pestaña nueva">
@@ -686,9 +697,18 @@
 <!ENTITY updateRestart.cancelButton.label "Ahora no">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reinicie para actualizar &brandShorterName;">
+<!ENTITY newTabControlled.message "Una extensión ha cambiado la página que ve cuando abre una pestaña nueva. puede restaurar su configuración si no deseaba este cambio.">
+<!ENTITY newTabControlled.header.message "Su pestaña nueva ha cambiado.">
+<!ENTITY newTabControlled.keepButton.label "Conservar cambios">
+<!ENTITY newTabControlled.keepButton.accesskey "v">
+<!ENTITY newTabControlled.restoreButton.label "Restaurar configuración">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 <!ENTITY pageActionButton.tooltip "Acciones con la página">
 <!ENTITY pageAction.addToUrlbar.label "Añadir a la barra de direcciones">
 <!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
+<!ENTITY pageAction.allowInUrlbar.label "Mostrar en la barra de direcciones">
+<!ENTITY pageAction.disallowInUrlbar.label "No mostrar en la barra de direcciones">
+<!ENTITY pageAction.manageExtension.label "Administrar extensión…">
 <!ENTITY pageAction.sendTabToDevice.label "Enviar pestaña al dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 <!ENTITY libraryButton.tooltip "Ver historial, marcadores guardados y más">
