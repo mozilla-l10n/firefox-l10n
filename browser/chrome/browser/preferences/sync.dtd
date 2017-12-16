@@ -18,9 +18,12 @@
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
+<!ENTITY engine.prefsWin.label      "Innstillingar">
+<!ENTITY engine.prefsWin.accesskey  "I">
 <!ENTITY engine.prefs.label         "Innstillingar">
 <!ENTITY engine.prefs.accesskey     "n">
 <!ENTITY engine.addons.label        "Utvidingar">
+<!ENTITY engine.addons.title        "Utvidingar og tema for Firefox desktop">
 <!ENTITY engine.addons.accesskey    "U">
 <!ENTITY engine.addresses.label     "Adresser">
 <!ENTITY engine.addresses.accesskey "e">
