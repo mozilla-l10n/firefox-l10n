@@ -95,6 +95,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Mustra tutti li schedi">
 <!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY toggleReaderMode.key "R">
@@ -147,6 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "Vai avanti di na pàggina">
 <!ENTITY reloadCmd.label              "Càrrica arredi">
 <!ENTITY reloadCmd.accesskey          "C">
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY printButton.label            "Stampa">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Talìa nfurmazzioni dû situ">
@@ -226,26 +228,60 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "Scancella">
 <!ENTITY deleteCmd.key            "S">
 <!ENTITY deleteCmd.accesskey        "S">
+<!ENTITY selectAllCmd.label         "Scegghi tuttu">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "t">
+<!ENTITY preferencesCmd2.label       "Uzzioni">
+<!ENTITY preferencesCmd2.accesskey     "U">
+<!ENTITY preferencesCmdUnix.label       "Prifirenzi">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
+<!ENTITY viewMenu.label         "Vidi">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "Sbarri dî strummenta">
+<!ENTITY viewToolbarsMenu.accesskey     "s">
+<!ENTITY viewCustomizeToolbar.label       "Pirsunalizza…">
+<!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY overflowCustomizeToolbar.label       "Pirsunalizza la sbarra dî strummenta…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
+<!ENTITY historyMenu.label "Crunuluggía">
+<!ENTITY historyMenu.accesskey "u">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyRestoreLastSession.label "Arripigghia la sissioni pricidenti">
 
+<!ENTITY showAllHistoryCmd2.label "Mustra tutta la crunuluggía">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuCustomize.label "Pirsunalizza">
 
+<!ENTITY appMenuHistory.showAll.label "Mustra tutta la crunuluggía">
+<!ENTITY appMenuHelp.label "Aiutu">
+<!ENTITY appMenuHelp.tooltip "Grapi menú d'aiutu">
 
+<!ENTITY appMenuRemoteTabs.label "Schedi sincrunizzati">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Nuḍḍa scheda graputa">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Mustra chiossai">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Mustra chiossai schedi di st'apparecchiu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Mustra tuttu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.openprefs.label "Prifirenzi di sincrunizzazzioni">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Trasi pi taliari na lista dî schedi di l'àutri apparecchi toi.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Lu to' cuntu àvi a èssiri virificatu.">
+<!ENTITY appMenuRemoteTabs.signin.label "Trasi nna Sync">
 
 
 
@@ -265,6 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+<!ENTITY openCmd.commandkey           "l">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Cchiú nfurmazzioni…">
@@ -292,6 +329,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
 
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
@@ -330,11 +370,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInCurrent.accesskey "l">
 <!ENTITY openLinkCmdInContainerTab.label "Grapi lu lijami nta na scheda di cuntinituri nova">
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
+<!ENTITY reloadCmd.commandkey         "r">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
 <!ENTITY pageAction.copyLink.label    "Copia lu lijami">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveLinkCmd.label            "Sarba lu lijami comu…">
 <!ENTITY saveLinkCmd.accesskey        "j">
 
