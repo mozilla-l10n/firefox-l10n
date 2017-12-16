@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Kysy aina">
 <!ENTITY  permAllow             "Salli">
 <!ENTITY  permAllowSession      "Salli istunnon ajaksi">
+<!ENTITY  permHide              "Piilota">
 <!ENTITY  permBlock             "Estä">
 <!ENTITY  permissionsFor        "Oikeudet sivustolle:">
 <!ENTITY  permPlugins           "Käynnistä liitännäiset">

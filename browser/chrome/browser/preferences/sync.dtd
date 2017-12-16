@@ -11,7 +11,14 @@
 <!ENTITY engine.history.label       "Sivuhistoria">
 <!ENTITY engine.history.accesskey   "S">
 <!ENTITY engine.logins.label        "Kirjautumistiedot">
+<!ENTITY engine.logins.title        "Tallentamasi käyttäjätunnukset ja salasanat">
 <!ENTITY engine.logins.accesskey    "r">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Asetukset">
+<!ENTITY engine.prefsWin.accesskey  "A">
 <!ENTITY engine.prefs.label         "Asetukset">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Lisäosat">
