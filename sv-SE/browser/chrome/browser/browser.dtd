@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Skicka länk till enhet">
 <!ENTITY  sendLinkToDevice.accesskey         "e">
 <!ENTITY  sendToDeviceFeedback.label         "Skickat!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "I kö (offline)">
 <!ENTITY  moveToNewWindow.label              "Flytta till nytt fönster">
 <!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Bokmärk alla flikar...">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "D">
 
 <!ENTITY backCmd.label                "Bakåt">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Gå bakåt en sida">
 <!ENTITY forwardCmd.label             "Framåt">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gå framåt en sida">
 <!ENTITY backForwardButtonMenu.tooltip "Högerklicka eller dra ner för att visa historik">
 <!ENTITY backForwardButtonMenuMac.tooltip "Dra ner för att visa historik">
 <!ENTITY reloadCmd.label              "Uppdatera">
+<!ENTITY reloadCmd.accesskey          "U">
 <!ENTITY stopCmd.label                "Stopp">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Gå till adressen i adressfältet">
 <!ENTITY printButton.label            "Skriv ut">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Anpassa menyn och verktygsfälten">
 <!ENTITY appMenuCustomizeExit.label "Avsluta anpassning">
 <!ENTITY appMenuCustomizeExit.tooltip "Slutför anpassningen">
+
 <!ENTITY appMenuHistory.showAll.label "Visa all historik">
 <!ENTITY appMenuHistory.clearRecent.label "Rensa ut tidigare historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Återställ föregående session">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vill du se dina flikar från andra enheter här?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinställningar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logga in för att se en lista med flikar från dina andra enheter.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ditt konto behöver verifieras.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logga in till Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Hantera enheter…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Visa sidofält Synkade flikar">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Anslut en annan enhet">
 
 <!ENTITY appMenuRecentHighlights.label "Senaste höjdpunkterna">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Använd som skrivbordsbakgrund…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Bokmärk denna sida">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Lägg till bokmärke för länkmål">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Lägg till bokmärke för ram">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Klar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Webbplatssäkerhet">
+
 <!ENTITY identity.connectionSecure "Säker anslutning">
 <!ENTITY identity.connectionNotSecure "Anslutningen är inte säker ">
 <!ENTITY identity.connectionFile "Den här sidan är lagrad på din dator.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Inga synkroniserade flikar… än!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vill du se dina flikar från andra enheter här?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logga in för att se en lista med flikar från dina andra enheter.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Ditt konto behöver verifieras.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Inga öppna flikar">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Öppna inställningar för &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fliksynkronisering för att visa en lista med flikar från dina andra enheter.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Sök synkroniserade flikar">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Anslut en annan enhet">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Starta om för att uppdatera &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Ett tillägg har ändrat den sida du ser när du öppnar en ny flik. Du kan återställa dina inställningar om du inte vill ha den här ändringen.">
+<!ENTITY newTabControlled.header.message "Din nya flik har ändrats.">
+<!ENTITY newTabControlled.keepButton.label "Behåll ändringar">
+<!ENTITY newTabControlled.keepButton.accesskey "B">
+<!ENTITY newTabControlled.restoreButton.label "Återställ inställningar">
+<!ENTITY newTabControlled.restoreButton.accesskey "t">
+
 <!ENTITY pageActionButton.tooltip "Åtgärder för sida">
 <!ENTITY pageAction.addToUrlbar.label "Lägg till i adressfältet">
 <!ENTITY pageAction.removeFromUrlbar.label "Ta bort från adressfältet">
+
+<!ENTITY pageAction.allowInUrlbar.label "Visa i adressfältet">
+<!ENTITY pageAction.disallowInUrlbar.label "Visa inte i adressfältet">
+<!ENTITY pageAction.manageExtension.label "Hantera tillägg…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Skicka flik till enhet">
 <!ENTITY sendToDevice.syncNotReady.label "Synkar enheter…">
