@@ -11,7 +11,7 @@
 <!ENTITY aboutUrlClassifier.providerBackOffTime         "Back-off tid">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Siste oppdateringsstatus">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Oppdater">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Snøgglager">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Snøgglager (Cache)">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Oppdater">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Tøm">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Tabellnamn">
