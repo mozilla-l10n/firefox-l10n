@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.label           "Ncoḍḍa">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY deleteCmd.label          "Scancella">
-<!ENTITY deleteCmd.key            "S">
+<!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "S">
 <!ENTITY selectAllCmd.label         "Scegghi tuttu">
 <!ENTITY selectAllCmd.key         "A">

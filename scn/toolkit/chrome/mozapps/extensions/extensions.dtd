@@ -5,6 +5,7 @@
 
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
 
 <!ENTITY listEmpty.button.label               "Cchiú nfurmazzioni supra li agghiuncitini">
 

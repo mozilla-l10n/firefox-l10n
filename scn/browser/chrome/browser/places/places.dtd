@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY organize.tooltip      "Duna na sistimata a li to' nzingalibbra">
 
+<!ENTITY cmd.close.key                  "w">
 
 
 
@@ -20,6 +21,7 @@
 
 
 
+<!ENTITY cmd.find.key  "f">
 
 
 
