@@ -25,6 +25,8 @@
 
 <!-- Field labels for input type=date -->
 
+<!ENTITY date.year.label "Aseggwass">
+<!ENTITY date.month.label "Aggur">
 
 <!-- Date/time clear button -->
 
