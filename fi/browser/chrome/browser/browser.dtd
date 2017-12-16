@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Muokkaa valikkoa ja työkalupalkkeja">
 <!ENTITY appMenuCustomizeExit.label "Lopeta muokkaus">
 <!ENTITY appMenuCustomizeExit.tooltip "Lopeta muokkaus">
+
 <!ENTITY appMenuHistory.showAll.label "Näytä koko sivuhistoria">
 <!ENTITY appMenuHistory.clearRecent.label "Poista viimeaikaisia historiatietoja…">
 <!ENTITY appMenuHistory.restoreSession.label "Palauta edellinen istunto">
@@ -385,9 +386,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Haluatko nähdä muiden laitteiden välilehdet tässä?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-palvelun asetukset">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Tilisi tarvitsee vahvistaa.">
 <!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Hallitse laitteita…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Synkronoitujen välilehtien sivupaneeli">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Yhdistä toinen laite">
 
 <!ENTITY appMenuRecentHighlights.label "Viimeaikaiset nostot">
 
@@ -750,6 +754,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Valmis">
 <!ENTITY editBookmark.removeBookmark.accessKey       "P">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sivuston tietoturva">
+
 <!ENTITY identity.connectionSecure "Suojattu yhteys">
 <!ENTITY identity.connectionNotSecure "Yhteys ei ole suojattu">
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
@@ -803,12 +811,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Ei synkronoituja välilehtiä… vielä!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Haluatko nähdä muiden laitteiden välilehdet tässä?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Tilisi tarvitsee vahvistaa.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ei avoimia välilehtiä">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Avaa &syncBrand.shortName.label;-asetukset">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ota välilehtien synkronointi käyttöön, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Etsi synkronoiduista välilehdistä">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Yhdistä toinen laite">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +990,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "E">
 <!ENTITY updateRestart.panelUI.label2 "Päivitä käynnistämällä &brandShorterName; uudestaan">
 
+<!ENTITY newTabControlled.message "Laajennus on vaihtanut sivun, jonka näet avatessasi uuden välilehden. Voit palauttaa asetukset, jos et halua tätä muutosta.">
+<!ENTITY newTabControlled.header.message "Uusi välilehti -sivu on vaihtunut.">
+<!ENTITY newTabControlled.keepButton.label "Säilytä muutokset">
+<!ENTITY newTabControlled.keepButton.accesskey "S">
+<!ENTITY newTabControlled.restoreButton.label "Palauta asetukset">
+<!ENTITY newTabControlled.restoreButton.accesskey "P">
+
 <!ENTITY pageActionButton.tooltip "Sivun toiminnot">
 <!ENTITY pageAction.addToUrlbar.label "Lisää osoitepalkkiin">
 <!ENTITY pageAction.removeFromUrlbar.label "Poista osoitepalkista">
+
+<!ENTITY pageAction.allowInUrlbar.label "Näytä osoitepalkissa">
+<!ENTITY pageAction.disallowInUrlbar.label "Älä näytä osoitepalkissa">
+<!ENTITY pageAction.manageExtension.label "Hallitse laajennusta…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Lähetä välilehti laitteeseen">
 <!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">
