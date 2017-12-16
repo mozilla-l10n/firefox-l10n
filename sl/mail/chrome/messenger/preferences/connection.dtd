@@ -15,7 +15,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "m">
 <!ENTITY  manualTypeRadio.label         "Ročna nastavitev posrednika:">
 <!ENTITY  manualTypeRadio.accesskey     "č">
-<!ENTITY  autoTypeRadio.label           "URL za samodejno nastavitev posrednika:">
+<!ENTITY  autoTypeRadio.label           "Spletni naslov za samodejno nastavitev posrednika:">
 <!ENTITY  autoTypeRadio.accesskey       "L">
 <!ENTITY  reload.label                  "Ponovno naloži">
 <!ENTITY  reload.accesskey              "P">
