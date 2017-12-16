@@ -197,7 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "לחיצה ימנית או משיכה מטה כדי להציג היסטוריה">
 <!ENTITY backForwardButtonMenuMac.tooltip "משיכה מטה כדי להציג היסטוריה">
 <!ENTITY reloadCmd.label              "טעינה מחדש">
-<!ENTITY reloadCmd.accesskey          "ר">
+<!ENTITY reloadCmd.accesskey          "מ">
 <!ENTITY stopCmd.label                "עצירה">
 <!ENTITY stopCmd.accesskey            "ע">
 <!ENTITY stopCmd.macCommandKey        ".">
