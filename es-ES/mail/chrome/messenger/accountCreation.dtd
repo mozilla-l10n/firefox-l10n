@@ -8,7 +8,7 @@
 <!ENTITY name.placeholder "Nombre y apellidos">
 <!ENTITY name.text "Su nombre, tal y como se muestra a los demás">
 <!ENTITY email.label "Dirección de correo:">
-<!ENTITY email.accesskey "S">
+<!ENTITY email.accesskey "D">
 <!ENTITY email2.placeholder "usted@example.com">
 <!ENTITY email.text "Su dirección de correo existente">
 <!ENTITY password.label "Contraseña:">

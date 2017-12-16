@@ -79,6 +79,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Renombrar adjunto…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "Reordenar adjuntos…">
+<!ENTITY reorderAttachmentsCmd.accesskey "R">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "t">
@@ -96,6 +99,29 @@
 <!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY reorderAttachmentsPanel.label "Reordenar adjuntos">
+<!ENTITY moveAttachmentTopPanelBtn.label "Mover a la parte superior">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "o">
+<!ENTITY moveAttachmentUpPanelBtn.label "Arriba">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "b">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Mover juntos">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "e">
+<!ENTITY moveAttachmentDownPanelBtn.label "Abajo">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "A">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Mover a la parte inferior">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "M">
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Ordenar selección: A - Z">
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "O">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Ordenar selección: Z - A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "O">
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ordenar: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "O">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ordenar: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "O">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordenar selección: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "O">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordenar selección: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "O">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "Barras de herramientas">
@@ -248,6 +274,8 @@
 <!ENTITY removeAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "Renombrar…">
 <!ENTITY renameAttachment.accesskey "R">
+<!ENTITY reorderAttachments.label "Reordenar adjuntos…">
+<!ENTITY reorderAttachments.accesskey "R">
 <!ENTITY selectAll.label "Seleccionar todo">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Adjuntar archivo(s)…">

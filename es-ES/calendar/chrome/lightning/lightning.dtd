@@ -22,6 +22,9 @@
 <!ENTITY lightning.menu.eventtask.label "Eventos y tareas">
 <!ENTITY lightning.menu.eventtask.accesskey "n">
 <!ENTITY lightning.calendarproperties.email.label "Correo-e:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label "Preferir planificación de correo en el lado del cliente">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1 "Desde ahora, solo puede activar esto tras configurar este calendario en su diálogo de propiedades si el servidor del calendario maneja planificaciones.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2 "Esta opción solo está disponible si el servidor de calendario gestiona planificaciones. Activarlo le permitirá recurrir a la planificación estándar basada en correo electrónico en lugar de dejarla en manos del servidor.">
 <!ENTITY lightning.imipbar.btnAccept.label "Aceptar">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext "Aceptar invitación al evento">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label "Aceptar todo">
