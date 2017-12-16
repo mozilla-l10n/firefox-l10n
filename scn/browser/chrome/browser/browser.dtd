@@ -23,6 +23,8 @@
 <!ENTITY  reloadAllTabs.label                "Càrrica tutti li schedi arredi">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Scheda duppricata">
+<!ENTITY  duplicateTab.accesskey             "d">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -40,6 +42,7 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Leva signali dâ scheda">
 <!ENTITY  unpinTab.accesskey                 "L">
 <!ENTITY  sendTabToDevice.label              "Manna la scheda nna l'apparecchiu">
+<!ENTITY  sendPageToDevice.label             "Manna la pàggina nna l'apparecchiu">
 <!ENTITY  sendLinkToDevice.label             "Manna lu lijami nna l'apparecchiu">
 <!ENTITY  sendToDeviceFeedback.label         "Mannatu!">
 <!ENTITY  moveToNewWindow.label              "Movi nta na finestra nova">
@@ -57,7 +60,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Grapi pricu…">
 <!ENTITY openFileCmd.accesskey "G">
 <!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printCmd.label "Stampa…">
+<!ENTITY printCmd.accesskey "S">
+<!ENTITY printCmd.commandkey "p">
 
+<!ENTITY goOfflineCmd.label "Travagghia sculligatu">
+<!ENTITY goOfflineCmd.accesskey "g">
 
 <!ENTITY menubarCmd.label "Sbarra dî menú">
 <!ENTITY menubarCmd.accesskey "m">
@@ -87,7 +95,13 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY showAllTabsCmd.label "Mustra tutti li schedi">
+<!ENTITY showAllTabsCmd.accesskey "t">
+<!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY fxaSignIn.label "Trasi nna &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Grapi li prifirenzi di &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Cullégati arredi cu &syncBrand.shortName.label;">
 
 
 
