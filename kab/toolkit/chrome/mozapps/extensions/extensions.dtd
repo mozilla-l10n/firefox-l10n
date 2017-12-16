@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Ldi amsefrak n izegrar">
 
 <!ENTITY search.placeholder                   "Nadi akk izegrar">
+
+<!ENTITY search.placeholder2                  "Nadi deg addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Nadi">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->

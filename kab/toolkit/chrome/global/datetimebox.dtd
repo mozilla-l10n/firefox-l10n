@@ -27,6 +27,8 @@
 
 <!ENTITY date.year.label "Aseggwass">
 <!ENTITY date.month.label "Aggur">
+<!ENTITY date.day.label "Ass">
 
 <!-- Date/time clear button -->
 
+<!ENTITY datetime.reset.label "Sfeḍ">
