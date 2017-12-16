@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "URL spletne strani:">
+<!ENTITY siteUrl.label         "Naslov spletne strani:">
 <!ENTITY docSubdir.label       "Podmapa strani:">
 <!ENTITY otherSubdir.label     "Podmapa slik:">
 
