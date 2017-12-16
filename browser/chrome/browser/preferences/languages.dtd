@@ -16,3 +16,4 @@
 <!ENTITY languages.customize.addButton.label            "Lägg till">
 <!ENTITY languages.customize.addButton.accesskey        "L">
 
+<!ENTITY languages.customize.spoofEnglish               "Begär engelska versioner av webbsidor för ökad integritet">

@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Bokmärken">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label2         "Öppna flikar">
+<!ENTITY engine.tabs.title          "En lista över vad som är öppet på alla synkroniserade enheter">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Historik">
 <!ENTITY engine.history.accesskey   "o">
 <!ENTITY engine.logins.label        "Inloggningar">
+<!ENTITY engine.logins.title        "Användarnamn och lösenord du har sparat">
 <!ENTITY engine.logins.accesskey    "l">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Inställningar">
+<!ENTITY engine.prefsWin.accesskey  "n">
 <!ENTITY engine.prefs.label         "Inställningar">
 <!ENTITY engine.prefs.accesskey     "n">
+<!ENTITY engine.prefs.title         "Allmänna, sekretess och säkerhetsinställningar du har ändrat">
 <!ENTITY engine.addons.label        "Tillägg">
+<!ENTITY engine.addons.title        "Tillägg och teman för Firefox skrivbord">
 <!ENTITY engine.addons.accesskey    "T">
 <!ENTITY engine.addresses.label     "Adresser">
+<!ENTITY engine.addresses.title     "Postadresser du har sparat (endast skrivbord)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kreditkort">
+<!ENTITY engine.creditcards.title   "Namn, nummer och utgångsdatum (endast skrivbord)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->

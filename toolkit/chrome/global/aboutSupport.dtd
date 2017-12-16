@@ -151,3 +151,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanaler">
 <!ENTITY aboutSupport.mediaDeviceRate "Hastighet">
 <!ENTITY aboutSupport.mediaDeviceLatency "Fördröjning">
+
+<!ENTITY aboutSupport.intlOSTitle "Operativsystem">

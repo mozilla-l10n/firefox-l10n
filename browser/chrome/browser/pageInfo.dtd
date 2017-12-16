@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Fråga alltid">
 <!ENTITY  permAllow             "Tillåt">
 <!ENTITY  permAllowSession      "Tillåt för sessionen">
+<!ENTITY  permHide              "Dölj">
 <!ENTITY  permBlock             "Blockera">
 <!ENTITY  permissionsFor        "Rättigheter för:">
 <!ENTITY  permPlugins           "Aktivera insticksmoduler">
