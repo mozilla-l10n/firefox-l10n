@@ -63,3 +63,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> কে <a id='error_desc_link'>সম্ভাব্য ক্ষতিকারক অ্যাপ্লিকেশন সরবরাহকারী হিসাবে রিপোর্ট করা হয়েছে</a>।">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "&brandShortName; এর ফিশিং এবং ম্যালওয়্যার সুরক্ষা সম্পর্কে আরও জানুন <a id='firefox_support'>support.mozilla.org</a> তে।">
