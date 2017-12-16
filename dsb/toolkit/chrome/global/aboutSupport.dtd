@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Informacije za rozwězowanje problemow">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "Toś ten bok wopśimujo techniske informacije, kótarež by mógli wužytne byś, gaž wopytujośo problem rozwězaś. Jolic pytaśo za wótegronami za zwucone pšašanja qó &brandShortName;, woglědajśo k našomu <a id='supportLink'>pódpěrańskemu websydłoju</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Rozpšawy wowalenjow">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Mě">
 <!ENTITY aboutSupport.appBasicsVersion "Wersija">
 <!ENTITY aboutSupport.appBasicsBuildID "Wersijowy ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Aktualizěrowański kanal">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Aktualizaciska historija">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Aktualizacisku historiju pokazaś">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "Źěłowy system">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Wužyty składowak">
 <!ENTITY aboutSupport.appBasicsPerformance "Wugbaśe">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Zregistrěrowane &quot;service workers&quot;">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profile">
@@ -85,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Wažne změnjone nastajenja">
 <!ENTITY aboutSupport.modifiedPrefsName "Mě">
 <!ENTITY aboutSupport.modifiedPrefsValue "Gódnota">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Nastajenja w user.js">
 <!ENTITY aboutSupport.userJSDescription "Waš profilowy zarědnik wopśimujo <a id='prefs-user-js-link'>dataju user.js</a>, kótaraž wopśimujo nastajenja, kótarež njejsu se pśez &brandShortName; napórali.">
 
@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanale">
 <!ENTITY aboutSupport.mediaDeviceRate "Rata">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latenca">
+
+<!ENTITY aboutSupport.intlTitle "Internacionalizacija a lokalizacija">
+<!ENTITY aboutSupport.intlAppTitle "Nastajenja nałoženja">
+<!ENTITY aboutSupport.intlLocalesRequested "Pominane rěcy">
+<!ENTITY aboutSupport.intlLocalesAvailable "K dispoziciji stojece rěcy">
+<!ENTITY aboutSupport.intlLocalesSupported "Rěcy nałoženja">
+<!ENTITY aboutSupport.intlLocalesDefault "Standardna rěc">
+<!ENTITY aboutSupport.intlOSTitle "Źěłowy system">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Systemowe rěcy">
+<!ENTITY aboutSupport.intlRegionalPrefs "Regionalne nastajenja">
