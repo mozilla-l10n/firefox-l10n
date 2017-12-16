@@ -17,3 +17,6 @@
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Scegghi «&tabCrashed.restoreTab;» pi scarricari la pàggina arredi.">
 <!ENTITY tabCrashed.requestHelp "Ni poi aiutari?">
 <!ENTITY tabCrashed.requestReport "Riporta sta scheda">
+<!ENTITY tabCrashed.commentPlaceholder2 "Cummenti uzziunali (chi sunnu visìbbili a tutti)">
+<!ENTITY tabCrashed.emailPlaceholder "Scrivi lu to' nnirizzu email ccà">
+<!ENTITY tabCrashed.emailMe "Mànnami n'email quannu ài chiossai nfurmazzioni">
