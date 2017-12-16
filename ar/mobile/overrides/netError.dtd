@@ -86,7 +86,7 @@
 <!ENTITY sharedLongDesc3 "<ul> <li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد قليل.</li> <li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة البيانات أو الشبكة اللاسلكية. <button id='wifi'>فعّل الواي فاي</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "حجبتها سياسة أمن المحتوى">
-<!ENTITY cspBlocked.longDesc "<p>يمنع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأنّ لهذه الصفحة سياسة أمن المحتوى تمنع ذلك.</p>">
+<!ENTITY cspBlocked.longDesc "<p>منع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأن للصفحة سياسة أمن محتوى تمنع ذلك.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "خطأ محتوى فاسد">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
