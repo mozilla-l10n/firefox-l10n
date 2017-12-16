@@ -71,10 +71,13 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Obtén noticias, trucos y recursos para desarrolladores enviados directo a tu bandeja de entrada.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Correo">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "No tengo problemas con que Mozilla maneje mi información como se explica en <a class='external' href='https://www.mozilla.org/privacy/'>esta Política de privacidad</a>">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Suscribirme">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "¡Gracias!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Si no has confirmado previamente una suscripción a un boletín relacionado a Mozilla, puede que tengas que hacerlo. Por favor, revisa tu bandeja de entrada o filtro de spam en busca de un email de nosotros.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "¿Buscas más que unas simples herramientas de desarrollador? Revisa el navegador Firefox que está desarrollado específicamente para desarrolladores y flujos de trabajo modernos.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
