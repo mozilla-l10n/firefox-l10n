@@ -189,6 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "G">
 
 <!ENTITY backCmd.label                "Tilbake">
+<!ENTITY backCmd.accesskey            "b">
 <!ENTITY backButton.tooltip           "Gå tilbake ei side">
 <!ENTITY forwardCmd.label             "Fram">
 <!ENTITY forwardCmd.accesskey         "F">
@@ -196,7 +197,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Høgreklikk eller trekk ned for å vise historikk">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trekk ned for å vise historikk">
 <!ENTITY reloadCmd.label              "Oppdater">
+<!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY stopCmd.label                "Stopp">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Gå til adressa i adresselinja">
 <!ENTITY printButton.label            "Skriv ut">
@@ -388,10 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du sjå faner frå dei andre einingane dine her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-innstillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å vise ei liste over faner frå andre einingar.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Kontoen din må stadfestast.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Handter einingar…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe for synkroniserte faner">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "KOple til ei anna eining">
 
 <!ENTITY appMenuRecentHighlights.label "Siste høgdepunkt">
 
@@ -568,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Bruk som skrivebordbakgrunn…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
 <!ENTITY bookmarkPageCmd2.label       "Bokmerk denne sida">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Bokmerk denne lenka">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma">
@@ -756,6 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Nettstadsikkerheit">
 
 <!ENTITY identity.connectionSecure "Trygt samband">
 <!ENTITY identity.connectionNotSecure "Sambandet er ikkje trygt">
@@ -810,6 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Ingen synkroniserte faner … enno!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vil du sjå faner frå dei andre einingane dine her?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logg inn for å vise ei liste over faner frå dei andre einingane dine.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Kontoen din må stadfestast.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen opne faner">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Opne innstillingar for &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -817,6 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fane-sync for å vise ei liste over faner frå dei andre einingane dine.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Søk synkroniserte faner">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Kople til ei anna eining">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -987,11 +996,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Start på nytt for å oppdatere &brandShorterName;">
 
+<!ENTITY newTabControlled.keepButton.label "Behald endringane">
+<!ENTITY newTabControlled.keepButton.accesskey "B">
+<!ENTITY newTabControlled.restoreButton.label "Bygg oppatt innstillingane">
+<!ENTITY newTabControlled.restoreButton.accesskey "B">
 
 <!ENTITY pageActionButton.tooltip "Sidehandlingar">
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinja">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinja">
 
+<!ENTITY pageAction.allowInUrlbar.label "Vis i adresselinja">
+<!ENTITY pageAction.disallowInUrlbar.label "Ikkje vis i adresselinja">
+<!ENTITY pageAction.manageExtension.label "Handter utvidingar…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Send fane til eining">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
