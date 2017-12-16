@@ -31,6 +31,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Bir Geliştirici Araçları kısayolunu etkinleştirdiniz. Yanlışlıkla olduysa bu sekmeyi kapatabilirsiniz.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
@@ -58,11 +60,14 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Geliştiricilere yönelik haberler, ipuçları ve kaynaklar e-posta adresinize gelsin.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "E-posta">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Mozilla’nın bilgilerimi bu <a class='external' href='https://www.mozilla.org/privacy/'>gizlilik politikasında</a> açıklandığı şekilde kullanmasına onay veriyorum.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Abone ol">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Teşekkürler!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir. Lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
+<!ENTITY  aboutDevtools.footer.learnMoreLink "Daha fazla bilgi al">
 
