@@ -7,11 +7,19 @@
 <!ENTITY engine.bookmarks.label     "Sinedoù">
 <!ENTITY engine.bookmarks.accesskey "S">
 <!ENTITY engine.tabs.label2         "Digeriñ ivinelloù">
+<!ENTITY engine.tabs.title          "Ur roll eus ar pezh a zo digor war an holl drevnadoù goubredet">
 <!ENTITY engine.tabs.accesskey      "D">
 <!ENTITY engine.history.label       "Roll istor">
 <!ENTITY engine.history.accesskey   "R">
 <!ENTITY engine.logins.label        "Titouroù kennaskañ">
+<!ENTITY engine.logins.title        "Anvioù implijer ha gerioù-tremen enrollet ganeoc'h">
 <!ENTITY engine.logins.accesskey    "T">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Dibarzhioù">
+<!ENTITY engine.prefsWin.accesskey  "">
 <!ENTITY engine.prefs.label         "Gwellvezioù">
 <!ENTITY engine.prefs.accesskey     "G">
 <!ENTITY engine.addons.label        "Askouezhioù">

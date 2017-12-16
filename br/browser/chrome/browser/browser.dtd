@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Kas an ere d'an trevnad">
 <!ENTITY  sendLinkToDevice.accesskey         "t">
 <!ENTITY  sendToDeviceFeedback.label         "Kaset!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Lakaet er roll (ezlinenn)">
 <!ENTITY  moveToNewWindow.label              "Dilec'hiañ en ur prenestr nevez">
 <!ENTITY  moveToNewWindow.accesskey          "D">
 <!ENTITY  bookmarkAllTabs.label              "Lakaat ur sined war an holl ivinelloù…">
@@ -355,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personelaat al lañser hag ar barrennoù ostilhoù">
 <!ENTITY appMenuCustomizeExit.label "Kuitaat ar personelaat">
 <!ENTITY appMenuCustomizeExit.tooltip "Echuiñ ar personelaat">
+
 <!ENTITY appMenuHistory.showAll.label "Diskouez ar roll istor a-bezh">
 <!ENTITY appMenuHistory.clearRecent.label "Skarzhañ ar roll istor nevesañ…">
 <!ENTITY appMenuHistory.restoreSession.label "Assav an estez kent">
@@ -385,9 +387,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Gwellvezvioù goubredañ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ret eo gwiriekaat ho kont.">
 <!ENTITY appMenuRemoteTabs.signin.label "Kennaskañ da Synx">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Ardeiñ an trevnadoù…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gwelout barrenn-gostez an ivinelloù goubredet ">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Kennaskañ un trevnad all">
 
 <!ENTITY appMenuRecentHighlights.label "Usskedoù nevez">
 
@@ -750,6 +755,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Graet">
 <!ENTITY editBookmark.removeBookmark.accessKey       "D">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Diogelroez al lec'hienn">
+
 <!ENTITY identity.connectionSecure "Secure Connection">
 <!ENTITY identity.connectionNotSecure "N'eo ket diarvar ar c'hennask">
 <!ENTITY identity.connectionFile "War hoc'h urzhiataer eo kadavet ar bajenn-mañ.">
@@ -803,12 +812,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Sinedoù goubredet ebet... Evit ar mare!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Ret eo gwiriekaat ho kont.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ivinell digor ebet">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Digeriñ gwellvezioù &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Klask en ivinelloù goubredet">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Kennaskañ un trevnad all">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +991,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "D">
 <!ENTITY updateRestart.panelUI.label2 "Adloc'hit evit hizivaat &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Kemmet eo bet gant un askouezh ar bajenn a welit pa tigorit un ivinell nevez. Gallout a rit he atoriñ en arventennoù.">
+<!ENTITY newTabControlled.header.message "Kemmet eo bet pajenn an ivinell nevez.">
+<!ENTITY newTabControlled.keepButton.label "Mirout ar c'hemmoù">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
+<!ENTITY newTabControlled.restoreButton.label "Atoriñ an arventennoù">
+<!ENTITY newTabControlled.restoreButton.accesskey "A">
+
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
 <!ENTITY pageAction.addToUrlbar.label "Ouzhpennañ d'ar varenn chomlec'h">
 <!ENTITY pageAction.removeFromUrlbar.label "Lemel kuit diouzh ar varrenn chomlec'h">
+
+<!ENTITY pageAction.allowInUrlbar.label "Diskouez er varrenn chomlec'h">
+<!ENTITY pageAction.disallowInUrlbar.label "Na ziskouez er varrenn chomlec'h">
+<!ENTITY pageAction.manageExtension.label "Merañ an askouezh...">
 
 <!ENTITY pageAction.sendTabToDevice.label "Kas an ivinell d'an trevnad">
 <!ENTITY sendToDevice.syncNotReady.label "Trevnadoù o c'houbredañ...">

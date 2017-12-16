@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Goulenn bewech">
 <!ENTITY  permAllow             "Aotren">
 <!ENTITY  permAllowSession      "Aotren evit an estez">
+<!ENTITY  permHide              "Kuzhat">
 <!ENTITY  permBlock             "Herzel">
 <!ENTITY  permissionsFor        "Aotreoù evit :">
 <!ENTITY  permPlugins           "Gweredekaat an enlugelladoù">
