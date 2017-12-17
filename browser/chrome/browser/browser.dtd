@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Enviar enlace a dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "¡Enviado!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "En cola (fuera de línea)">
 <!ENTITY  moveToNewWindow.label              "Mover a nueva ventana">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Marcar todas las pestañas…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "O">
 
 <!ENTITY backCmd.label                "Atrás">
+<!ENTITY backCmd.accesskey            "t">
 <!ENTITY backButton.tooltip           "Retroceder una página">
 <!ENTITY forwardCmd.label             "Adelante">
+<!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Avanzar una página">
 <!ENTITY backForwardButtonMenu.tooltip "Botón derecho o descolgar para mostrar historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Descolgar para mostrar historial">
 <!ENTITY reloadCmd.label              "Recargar">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Detener">
+<!ENTITY stopCmd.accesskey            "D">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Ir a la dirección de la barra de direcciones">
 <!ENTITY printButton.label            "Imprimir">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizar el menú y las barras de herramientas">
 <!ENTITY appMenuCustomizeExit.label "Salir de personalizar">
 <!ENTITY appMenuCustomizeExit.tooltip "Finalizar personalización">
+
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión previa">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Desea ver las pestañas de sus otros dispositivos acá?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Ingrese para ver una lista de pestañas de los otros dispositivos.">
+<!ENTITY appMenuRemoteTabs.unverified.label "La cuenta necesita ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Ingresar a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver barra lateral de pestañas sincronizadas">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destacados recientes">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Poner como fondo del escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Marcar esta página">
+<!ENTITY bookmarkPageCmd2.accesskey   "M">
 <!ENTITY bookmarkThisLinkCmd.label      "Marcar este enlace">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcar este marco…">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Listo">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Seguridad del sitio">
+
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "Conexión insegura">
 <!ENTITY identity.connectionFile "Esta página está guardada en su computadora.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "No hay pestañas sincronizadas… ¡aún!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quiere ver las pestañas de sus otros dispositivos aquí?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Ingrese para ver una lista de pestañas de los otros dispositivos.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "La cuenta necesita ser verificada.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Sin pestañas abiertas">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir preferencias de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Habilite sincronización de pestañas para ver una lista de pestañas de los otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Buscar en pestañas sincronizadas">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectar otro dispositivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para actualizar &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Una extensión ha cambiado la página que se ve al abrir una nueva pestaña. Se puede restaurar la configuración si no desea este cambio.">
+<!ENTITY newTabControlled.header.message "La nueva pestaña ha cambiado.">
+<!ENTITY newTabControlled.keepButton.label "Mantener cambios">
+<!ENTITY newTabControlled.keepButton.accesskey "t">
+<!ENTITY newTabControlled.restoreButton.label "Restaurar configuración">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Acciones de página">
 <!ENTITY pageAction.addToUrlbar.label "Agregar a la barra de direcciones">
 <!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
+
+<!ENTITY pageAction.allowInUrlbar.label "Mostrar en barra de direcciones">
+<!ENTITY pageAction.disallowInUrlbar.label "No mostrar en barra de direcciones">
+<!ENTITY pageAction.manageExtension.label "Administrar extensión…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Enviar pestaña a dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
