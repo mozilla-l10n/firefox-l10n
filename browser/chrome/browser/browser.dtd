@@ -996,6 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Start på nytt for å oppdatere &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Den nye fana di er endra.">
 <!ENTITY newTabControlled.keepButton.label "Behald endringane">
 <!ENTITY newTabControlled.keepButton.accesskey "B">
 <!ENTITY newTabControlled.restoreButton.label "Bygg oppatt innstillingane">
