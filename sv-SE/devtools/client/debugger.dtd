@@ -44,7 +44,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
 <!ENTITY debuggerUI.autoPrettyPrint     "Snygga automatiskt till minifierad källkod">
-<!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "S">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -61,7 +61,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions           "Pausa för undantag">
-<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "U">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
@@ -95,7 +95,7 @@
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 <!ENTITY debuggerUI.autoBlackBox           "Lägg automatisk minifierade källor i svarta lådan">
-<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "s">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
