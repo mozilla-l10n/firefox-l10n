@@ -16,47 +16,32 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
-<!ENTITY  aboutDevtools.enable.title "Enable Firefox Developer Tools">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
-<!ENTITY  aboutDevtools.enable.inspectElementTitle "Enable Firefox Developer Tools to use Inspect Element">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
-<!ENTITY  aboutDevtools.enable.inspectElementMessage
-          "Examine and edit HTML and CSS with the Developer Tools’ Inspector.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
-<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
-          "Develop and debug WebExtensions, web workers, service workers and more with Firefox Developer Tools.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
-<!ENTITY  aboutDevtools.enable.keyShortcutMessage
-          "You activated a Developer Tools shortcut. If that was a mistake, you can close this Tab.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage
-          "Examine, edit and debug HTML, CSS, and JavaScript with tools like Inspector and Debugger.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage2
-          "Perfect your website’s HTML, CSS, and JavaScript with tools like Inspector and Debugger.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
-<!ENTITY  aboutDevtools.enable.commonMessage
-          "Firefox Developer Tools are disabled by default to give you more control over your browser.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
-<!ENTITY  aboutDevtools.enable.learnMoreLink "Learn more about Developer Tools">
 
 
 
