@@ -77,6 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Jeli hišće njejsće abonement powěsćoweho lista Mozilla wobkrućił, dyrbiće to nětko činić. Prošu hladajće do dochadneje e-mejle abo papjernika za e-mejlku wot nas.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Pytaće wjace hač jenož wuwiwarske nastroje? Wuslědźće wobhladowak Firefox, kotryž je so specielnje za wuwiwarjow a moderne dźěłowe wotběhi wuwił.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
