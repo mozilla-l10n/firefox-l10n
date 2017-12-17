@@ -11,14 +11,22 @@
 <!ENTITY engine.history.label       "Riwayat">
 <!ENTITY engine.history.accesskey   "w">
 <!ENTITY engine.logins.label        "Info masuk">
+<!ENTITY engine.logins.title        "Nama pengguna dan sandi yang Anda simpan">
 <!ENTITY engine.logins.accesskey    "I">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
 <!ENTITY engine.prefs.label         "Pengaturan">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Pengaya">
+<!ENTITY engine.addons.title        "Ekstensi dan tema untuk Firefox desktop">
 <!ENTITY engine.addons.accesskey    "y">
 <!ENTITY engine.addresses.label     "Alamat">
+<!ENTITY engine.addresses.title     "Alamat surat yang Anda simpan (hanya desktop)">
 <!ENTITY engine.addresses.accesskey "a">
 <!ENTITY engine.creditcards.label   "Kartu kredit">
+<!ENTITY engine.creditcards.title   "Nama, nomor, dan tanggal kedaluwarsa (hanya desktop)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
