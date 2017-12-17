@@ -15,6 +15,7 @@
 <!ENTITY time.hour.label "Waktuuji">
 <!ENTITY time.minute.label "Hojomeeji">
 <!ENTITY time.second.label "Leƴƴanɗe">
+<!ENTITY time.millisecond.label "Ujjunaaje leƴƴanɗe">
 <!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
