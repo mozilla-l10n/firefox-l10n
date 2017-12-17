@@ -8,7 +8,7 @@
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label2         "Öppna flikar">
 <!ENTITY engine.tabs.title          "En lista över vad som är öppet på alla synkroniserade enheter">
-<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historik">
 <!ENTITY engine.history.accesskey   "o">
 <!ENTITY engine.logins.label        "Inloggningar">
