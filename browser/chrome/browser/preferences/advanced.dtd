@@ -29,7 +29,7 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Raportarea datelor este dezactivată în configurația folosită">
 
-<!ENTITY enableHealthReport2.label       "Permite &brandShortName; să trimită informații tehnice și interactive către Mozilla">
+<!ENTITY enableHealthReport2.label       "Permite-i lui &brandShortName; să trimită informații tehnice și interactive către Mozilla">
 <!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Află mai multe">
 
@@ -37,7 +37,7 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim &brandShortName; pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații personale.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Politica de confidențialitate">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Permite-i lui &brandShortName; să trimită Mozillei rapoarte de defecțiuni">
+<!ENTITY alwaysSubmitCrashReports1.label  "Permite-i lui &brandShortName; să trimită rapoarte de defecțiuni către Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">
 
