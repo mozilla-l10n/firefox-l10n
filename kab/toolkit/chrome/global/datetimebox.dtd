@@ -15,6 +15,7 @@
 <!ENTITY time.hour.label "Isragen">
 <!ENTITY time.minute.label "Tisdatin">
 <!ENTITY time.second.label "Tasinin">
+<!ENTITY time.millisecond.label "Militasinin">
 <!ENTITY time.dayperiod.label "Tifawt/Tameddit">
 
 <!-- Placeholders for input type=date -->
