@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Inviar le ligamine a un apparato">
 <!ENTITY  sendLinkToDevice.accesskey         "v">
 <!ENTITY  sendToDeviceFeedback.label         "Inviate!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "In fila (sin connexion)">
 <!ENTITY  moveToNewWindow.label              "Mover a un nove fenestra">
 <!ENTITY  moveToNewWindow.accesskey          "f">
 <!ENTITY  bookmarkAllTabs.label              "Adder marcapaginas sur tote le schedas…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "C">
 
 <!ENTITY backCmd.label                "Retro">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Ir un pagina retro">
 <!ENTITY forwardCmd.label             "Avante">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Ir un pagina avante">
 <!ENTITY backForwardButtonMenu.tooltip "Clicca dextere o trahe a basso pro monstrar le chronologia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trahe a basso pro monstrar le chronologia">
 <!ENTITY reloadCmd.label              "Recargar">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Cessar">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Ir al adresse in le barra de adresses">
 <!ENTITY printButton.label            "Imprimer">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalisar le menu e le barras de instrumentos">
 <!ENTITY appMenuCustomizeExit.label "Exir del personalisation">
 <!ENTITY appMenuCustomizeExit.tooltip "Finir le personalisation">
+
 <!ENTITY appMenuHistory.showAll.label "Monstrar tote le chronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Vacuar le chronologia recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar le session previe">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Desira tu vider le schedas de altere apparatos hic?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferentias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Authentica te pro vider un lista de schedas de tu altere apparatos.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Il necesse verificar tu conto.">
 <!ENTITY appMenuRemoteTabs.signin.label "Connecter se a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerer le apparatos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vider le barra lateral de schedas synchronisate">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Connecter un altere apparato">
 
 <!ENTITY appMenuRecentHighlights.label "Evidentias recente">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Definir le imagine como fundo del scriptorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Adder un marcapaginas">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Adder un marcapaginas sur iste ligamine">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Adder un marcapaginas sur iste quadro">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Facite">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Securitate del sito">
+
 <!ENTITY identity.connectionSecure "Connexion secur">
 <!ENTITY identity.connectionNotSecure "Le connexion non es secur">
 <!ENTITY identity.connectionFile "Iste pagina es stockate in tu computator.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nulle schedas synchronisate… ancora!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Desira tu vider le schedas de altere apparatos hic?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Authentica te pro vider un lista de schedas de tu altere apparatos.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Il necesse verificar tu conto.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nulle schedas aperite">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Aperir le preferentias de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activar le synchronisation de schedas pro vider un lista del schedas de tu altere apparatos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cercar in le schedas synchronisate">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connecter un altere apparato">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reinitiar pro actualisar &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">
 <!ENTITY pageAction.addToUrlbar.label "Adder al barra de adresse">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover del barra de adresse">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Inviar le scheda a un apparato">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisante apparatos…">
