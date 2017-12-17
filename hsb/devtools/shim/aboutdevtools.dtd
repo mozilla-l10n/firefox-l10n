@@ -41,13 +41,17 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 <!ENTITY  aboutDevtools.enable.menuMessage
-          "Přepytajće a wobdźěłajće HTML a CSS a JavaScript z nastrojemi kaž Inspektor a pytanje za zmylkami.">
+          "Přepytajće a wobdźěłajće HTML, CSS a JavaScript z nastrojemi kaž Inspektor a pytanje za zmylkami.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Wudokonjejće HTML, CSS a JavaScript swojeho websydła z nastrojemi kaž Inspektor a pytanje za zmylkami.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Wuwiwarske nastroje Firefox su znjemóžnjene po standardźe, zo byšće wjace kontrole nad swojim wobhladowaku měł.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -65,6 +69,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Wobstarajće sej nowinki wuwiwarjow, pokiwy a resursy, kotrež so direktnje na was sćelu.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "E-mejl">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Sym přezjedny, zo Mozilla po <a class='external' href='https://www.mozilla.org/privacy/'>tutych prawidłach priwatnosće</a> z mojimi informacijemi wobchadźa.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Abonować">
