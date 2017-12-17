@@ -74,6 +74,7 @@
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Jau sun d'accord che Mozilla tracta mias datas tenor questas <a class='external' href='https://www.mozilla.org/privacy/'>reglas da la protecziun da datas</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Abunar">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Grazia!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Sche ti n'has anc mai abunà in newsletter da Mozilla, stos ti confermar l'abunament. Controllescha per plaschair sche tia posta entrada u tes filter da posta nungiavischada cuntegnia in e-mail da nus.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 <!ENTITY  aboutDevtools.footer.message "Tschertgas ti dapli che mo ils utensils per sviluppaders? Emprova il navigatur da Firefox creà aposta per sviluppaders e process da lavur moderns.">
