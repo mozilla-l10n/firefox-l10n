@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "URL dal feed:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Endatar ina URL valida per agiuntar">
+<!ENTITY feedLocation2.placeholder   "Endatar in URL valid dal feed">
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Controllar la validaziun e retschaiver ina URL valida.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Agiuntar">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.label     "Verifitgar">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Actualisar">
 <!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Allontanar">

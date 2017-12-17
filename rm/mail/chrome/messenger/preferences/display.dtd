@@ -28,10 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Etichettas pon ins utilisar per categorisar messadis e definir lur prioritad.">
-<!ENTITY addTagButton.label        "Agiuntar">
-<!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "Modifitgar…">
-<!ENTITY editTagButton.accesskey   "M">
+<!ENTITY newTagButton.label        "Nov…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "Modifitgar…">
+<!ENTITY editTagButton1.accesskey  "M">
 <!ENTITY removeTagButton.label     "Stizzar">
 <!ENTITY removeTagButton.accesskey "z">
 
