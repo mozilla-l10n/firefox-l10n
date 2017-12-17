@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Әрқашан сұрау">
 <!ENTITY  permAllow             "Рұқсат ету">
 <!ENTITY  permAllowSession      "Тек осы сессия үшін рұқсат ету">
+<!ENTITY  permHide              "Жасыру">
 <!ENTITY  permBlock             "Блоктау">
 <!ENTITY  permissionsFor        "Келесі үшін рұқсаттар:">
 <!ENTITY  permPlugins           "Плагиндерді белсендіру">

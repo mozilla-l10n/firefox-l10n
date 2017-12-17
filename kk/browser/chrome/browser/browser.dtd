@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Мәзір мен құралдар панельдерін баптау">
 <!ENTITY appMenuCustomizeExit.label "Баптаудан шығу">
 <!ENTITY appMenuCustomizeExit.tooltip "Баптауды аяқтау">
+
 <!ENTITY appMenuHistory.showAll.label "Бүкіл тарихты көрсету">
 <!ENTITY appMenuHistory.clearRecent.label "Жуырдағы тарихты өшіру…">
 <!ENTITY appMenuHistory.restoreSession.label "Алдыңғы сессияны қалпына келтіру">
@@ -385,9 +386,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Басқа құрылғыларыңыздан беттерді осында көргіңіз келе ме?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Синхрондау баптаулары">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Тіркелгіңіз расталуы тиіс.">
 <!ENTITY appMenuRemoteTabs.signin.label "Синхрондау ішіне кіру">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Құрылғыларды басқару…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Синхрондалған беттер бүйір панелін қарау">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Басқа құрылғыны байланыстыру">
 
 <!ENTITY appMenuRecentHighlights.label "Соңғы Таңдамалылар">
 
@@ -750,6 +754,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Дайын">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ш">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Сайт қауіпсіздігі">
+
 <!ENTITY identity.connectionSecure "Қауіпсіз байланыс">
 <!ENTITY identity.connectionNotSecure "Байланыс қауіпсіз емес">
 <!ENTITY identity.connectionFile "Бұл парақ сіздің компьютеріңізде сақталған.">
@@ -803,12 +811,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Синхрондалған беттер жоқ… әзірше!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Басқа құрылғыларыңыздан беттерді осында көргіңіз келе ме?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Тіркелгіңіз расталуы тиіс.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ашық беттер жоқ">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; баптауларын ашу">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін беттерді синхрондауды іске қосыңыз.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Синхрондалған беттерден іздеу">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Басқа құрылғыны байланыстыру">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +990,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "м">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; жаңарту үшін қайта іске қосу">
 
+<!ENTITY newTabControlled.keepButton.label "Өзгерістерді сақтау">
+<!ENTITY newTabControlled.keepButton.accesskey "с">
+<!ENTITY newTabControlled.restoreButton.label "Баптауларды қалпына келтіру">
+<!ENTITY newTabControlled.restoreButton.accesskey "р">
+
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
 <!ENTITY pageAction.addToUrlbar.label "Адрес жолағына қосу">
 <!ENTITY pageAction.removeFromUrlbar.label "Адрес жолағынан алып тастау">
+
+<!ENTITY pageAction.allowInUrlbar.label "Адрестік жолақта көрсету">
+<!ENTITY pageAction.disallowInUrlbar.label "Адрестік жолақта көрсетпеу">
+<!ENTITY pageAction.manageExtension.label "Кеңейтуді басқару…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Бетті құрылғыға жіберу">
 <!ENTITY sendToDevice.syncNotReady.label "Құрылғыларды синхрондау…">
