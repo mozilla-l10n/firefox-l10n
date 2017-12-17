@@ -22,12 +22,15 @@
 <!ENTITY engine.prefsWin.accesskey  "I">
 <!ENTITY engine.prefs.label         "Innstillingar">
 <!ENTITY engine.prefs.accesskey     "n">
+<!ENTITY engine.prefs.title         "Generelle, personvern og sikkerheitsinnstillingar du har endra">
 <!ENTITY engine.addons.label        "Utvidingar">
 <!ENTITY engine.addons.title        "Utvidingar og tema for Firefox desktop">
 <!ENTITY engine.addons.accesskey    "U">
 <!ENTITY engine.addresses.label     "Adresser">
+<!ENTITY engine.addresses.title     "Postadresser du har lagra (berre skrivebord)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kredittkort">
+<!ENTITY engine.creditcards.title   "Namn, nummer og forfallsdato (berre skrivebord)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
