@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Topitorde Ɓeyditte">
 
 <!ENTITY search.placeholder                   "Yiylo ɓeyditte fof">
+
+<!ENTITY search.placeholder2                  "Yiylo e addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Yiylo">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
