@@ -27,8 +27,10 @@
 <!ENTITY engine.addons.title        "Taq k'amal chuqa' taq wachinïk richin Firefox ajk'ematz'ib'">
 <!ENTITY engine.addons.accesskey    "t">
 <!ENTITY engine.addresses.label     "Taq Ochochib'äl">
+<!ENTITY engine.addresses.title     "Kochochib'al b'ow e'ayakon (xa xe ajkematz'ib')">
 <!ENTITY engine.addresses.accesskey "i">
 <!ENTITY engine.creditcards.label   "Taq Ch'utit'im pwäq">
+<!ENTITY engine.creditcards.title   "Taq b'i'aj, taq ajilab'äl chuqa' nik'is kiq'ijul taq q'ijul (xa xe ajk'ematz'ib')">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
