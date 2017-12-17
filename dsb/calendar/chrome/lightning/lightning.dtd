@@ -49,7 +49,7 @@
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Mjaztym móžośo to jano zmóžniś, za tym až sćo toś ten kalendaŕ w dialogu kakosćow konfigurěrował, jolic se kalendrowy serwer wó planowanje stara.">
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Toś ta móžnosć jo jano k dispoziciji, jolic kalendrowy serwer planowanje pśewjeźo. Gaž ju zmóžnijośo, móžośo se na planowanje na zakłaźe standardneje e-maile zepěraś, město aby se spušćił na serwer.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Toś ta móžnosć jo jano k dispoziciji, jolic kalendrowy serwer planowanje pśewjeźo. Gaž ju zmóžnijośo, móžośo se na planowanje na zakłaźe standardneje e-maile zepěraś, město togo aby se spušćił na serwer.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Akceptěrowaś">
