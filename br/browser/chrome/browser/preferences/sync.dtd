@@ -26,8 +26,10 @@
 <!ENTITY engine.addons.title        "Askouezhioù ha neuzioù evit Firefox war burev">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "Chomlec'hioù">
+<!ENTITY engine.addresses.title     "Chomlec'hioù post enrollet (burev hepken)">
 <!ENTITY engine.addresses.accesskey "C">
 <!ENTITY engine.creditcards.label   "Kartennoù kred">
+<!ENTITY engine.creditcards.title   "Anvioù, niveroù ha deiziadoù diamzeriñ (burev hepken)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
