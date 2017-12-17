@@ -992,6 +992,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "е">
 <!ENTITY updateRestart.panelUI.label2 "Перезапустить &brandShorterName; для обновления">
 
+<!ENTITY newTabControlled.header.message "Ваша Новая вкладка изменилась.">
 
 <!ENTITY pageActionButton.tooltip "Действия на странице">
 <!ENTITY pageAction.addToUrlbar.label "Добавить на панель адреса">
