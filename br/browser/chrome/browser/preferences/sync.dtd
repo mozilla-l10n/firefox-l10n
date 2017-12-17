@@ -19,7 +19,6 @@
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Dibarzhioù">
-<!ENTITY engine.prefsWin.accesskey  "">
 <!ENTITY engine.prefs.label         "Gwellvezioù">
 <!ENTITY engine.prefs.accesskey     "G">
 <!ENTITY engine.addons.label        "Askouezhioù">
