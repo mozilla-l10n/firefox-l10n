@@ -22,12 +22,15 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Cuɓoraaɗe">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.prefs.title         "Teelte Kuuɓɗe Suturo kam e Kisal ɗe mbayluɗaa">
 <!ENTITY engine.addons.label        "Ɓeyditte">
 <!ENTITY engine.addons.title        "Timmitte kam e ciŋkooje wonande ordinateer">
 <!ENTITY engine.addons.accesskey    "Ɓ">
 <!ENTITY engine.addresses.label     "Ñiiɓirɗe">
+<!ENTITY engine.addresses.title     "Xiiɓirde maa posto dannduɗaa (ordinateer tan)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Karte banke">
+<!ENTITY engine.creditcards.title   "Inɗe, tonngooɗe kam e buntugol laje (ordinateer tan)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
