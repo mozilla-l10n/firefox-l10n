@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Мәселелерді шешу ақпараты">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Бұл парақта мәселелерді шешуде пайдалы бола алатын техникалық ақпарат бар. Егер сіз &brandShortName; туралы жалпы сұрақтарға жауапты іздесеңіз, біздің <a id='supportLink'>қолдау көрсету</a> сайтын шолыңыз.">
 
 <!ENTITY aboutSupport.crashes.title "Құлау туралы хабарлар">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Аты">
 <!ENTITY aboutSupport.appBasicsVersion "Нұсқасы">
 <!ENTITY aboutSupport.appBasicsBuildID "Жинақ ID-і">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Жаңарту арнасы">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Жаңартулар тарихы">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Жаңартулар тарихын көрсету">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "ОЖ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Жады қолданылуы">
 <!ENTITY aboutSupport.appBasicsPerformance "Өнімділік">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Тіркелген жұмыс үрдістері">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Профильдер">
@@ -85,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Өзгертілген маңызды баптаулар">
 <!ENTITY aboutSupport.modifiedPrefsName "Аты">
 <!ENTITY aboutSupport.modifiedPrefsValue "Мәні">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js баптаулары">
 <!ENTITY aboutSupport.userJSDescription "Профиль сақталатын бумада <a id='prefs-user-js-link'>user.js файлды</a> бар, оның ішінде &brandShortName; жасамаған баптаулары сақталған.">
 
@@ -151,3 +151,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Арналар">
 <!ENTITY aboutSupport.mediaDeviceRate "Жиілігі">
 <!ENTITY aboutSupport.mediaDeviceLatency "Кідірісі">
+
+<!ENTITY aboutSupport.intlAppTitle "Қолданба баптаулары">
+<!ENTITY aboutSupport.intlLocalesRequested "Сұралған локальдер">
+<!ENTITY aboutSupport.intlLocalesAvailable "Қолжетерлік локальдер">
+<!ENTITY aboutSupport.intlLocalesSupported "Қолданба локальдері">
+<!ENTITY aboutSupport.intlLocalesDefault "Бастапқы локаль">
+<!ENTITY aboutSupport.intlOSTitle "Операциялық жүйе">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Жүйелік локальдер">
+<!ENTITY aboutSupport.intlRegionalPrefs "Аймақтық баптаулар">
