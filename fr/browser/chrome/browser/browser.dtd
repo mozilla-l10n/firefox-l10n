@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personnaliser le menu et les barres d’outils">
 <!ENTITY appMenuCustomizeExit.label "Quitter la personnalisation">
 <!ENTITY appMenuCustomizeExit.tooltip "Terminer la personnalisation">
+
 <!ENTITY appMenuHistory.showAll.label "Afficher l’historique">
 <!ENTITY appMenuHistory.clearRecent.label "Effacer l’historique récent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurer la session précédente">
@@ -385,9 +386,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vous souhaitez afficher ici les onglets de vos autres appareils ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Préférences de synchronisation">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectez-vous pour afficher la liste des onglets de vos autres appareils.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Votre compte doit être vérifié.">
 <!ENTITY appMenuRemoteTabs.signin.label "Se connecter à Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gérer les appareils…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Panneau latéral des onglets synchronisés">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Connecter un autre appareil">
 
 <!ENTITY appMenuRecentHighlights.label "Éléments-clés récents">
 
@@ -750,6 +754,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Terminer">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sécurité du site">
+
 <!ENTITY identity.connectionSecure "Connexion sécurisée">
 <!ENTITY identity.connectionNotSecure "Connexion non sécurisée">
 <!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
@@ -803,12 +811,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Aucun onglet synchronisé pour l’instant.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vous souhaitez afficher ici les onglets de vos autres appareils ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Connectez-vous pour afficher la liste des onglets de vos autres appareils.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Votre compte doit être vérifié.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Aucun onglet ouvert">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ouvrir les préférences de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activez la synchronisation des onglets pour afficher la liste des onglets de vos autres appareils.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Rechercher dans les onglets synchronisés">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connecter un autre appareil">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +990,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label2 "Redémarrer pour mettre à jour &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Actions pour la page">
 <!ENTITY pageAction.addToUrlbar.label "Ajouter à la barre d’adresse">
 <!ENTITY pageAction.removeFromUrlbar.label "Retirer de la barre d’adresse">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Envoyer l’onglet vers un appareil">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisation des appareils…">
