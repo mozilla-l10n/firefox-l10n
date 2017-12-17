@@ -40,12 +40,18 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Pśepytajśo a wobźěłajśo HTML, CSS a JavaScript z rědami ako Inspektor a pytanje za zmólkami.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Wudopołniśo HTML, CSS a JavaScript swójogo websedła z rědami ako Inspektor a pytanje za zmólkami.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Wuwijarske rědy Firefox su znjemóžnjone pó standarźe, aby wy wěcej kontrole nad swójim wobglědowakom měł.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -71,6 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Jolic hyšći njejsćo abonement powěsćowego lista Mozilla wobkšuśił, musyśo to něnto cyniś. Pšosym glědajśo do dochada posta abo papjernika za mejlku wót nas.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Pytaśo wěcej ako jano wuwijarske rědy? Wuslěźćo wobglědowak Firefox, kótaryž jo se specielnje za wuwijarje a moderne źěłowe wótběgi wuwił.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
