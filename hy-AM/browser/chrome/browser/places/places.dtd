@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Ավելացվել է">
 <!ENTITY col.lastmodified.label  "Վերջին փոփոխությունը">
 
-<!ENTITY search.placeholder  "Որոնում">
+<!ENTITY historySearch.placeholder  "Որոնել պատմություն">
+<!ENTITY bookmarksSearch.placeholder  "Որոնել էջանիշեր">
 
 <!ENTITY cmd.find.key  "f">
 

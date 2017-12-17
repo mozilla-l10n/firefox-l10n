@@ -115,5 +115,7 @@
 <!ENTITY  browserContainersSettings.label        "Կարգավորումներ...">
 <!ENTITY  browserContainersSettings.accesskey    "ր">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Կանխել մատչելիության ծառայությունների կողմից ձեր դիտարկիչի մատչումը">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Իմանալ ավելին">
 <!ENTITY enableSafeBrowsingLearnMore.label "Իմանալ ավելին">

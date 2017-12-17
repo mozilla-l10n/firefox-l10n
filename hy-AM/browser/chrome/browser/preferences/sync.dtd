@@ -12,12 +12,18 @@
 <!ENTITY engine.history.accesskey   "թ">
 <!ENTITY engine.logins.label        "Մուտքագրումներ">
 <!ENTITY engine.logins.accesskey    "Մ">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
 <!ENTITY engine.prefs.label         "Կարգավորումները">
 <!ENTITY engine.prefs.accesskey     "ը">
 <!ENTITY engine.addons.label        "Հավելումները">
 <!ENTITY engine.addons.accesskey    "Հ">
 <!ENTITY engine.addresses.label     "Հասցեներ">
+<!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Բանկային քարտեր">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Սարքի անունը">
@@ -53,6 +59,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.accesskey            "տ">
 <!ENTITY profilePicture.tooltip      "Փոխել պրոֆիլի նկարը">
 <!ENTITY verifiedManage.label        "Կառավարել հաշիվը">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect3.label           "Անջատել...">
 <!ENTITY disconnect3.accesskey       "Ա">
 <!ENTITY verify.label                "Հաստատել էլ. փոստը">
@@ -64,7 +71,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:">
 <!ENTITY signedOut.accountBox.title   "Կապակցել &syncBrand.fxAccount.label;-ի հետ">
 <!ENTITY signedOut.accountBox.create2 "Չունե՞ք հաշիվ: Սկսեք">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
 <!ENTITY signedOut.accountBox.signin2 "Մուտք գործել...">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Սինքի կարգավորումներ">
 <!ENTITY signedIn.settings.description "Ընտրեք, թե &brandShortName;-ի միջոցով ինչը համաժամեցնել ձեր սարքերի միջև:">

@@ -12,6 +12,7 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Խաբուսիկ բովանդակություն և պաշտպանություն վտանգավոր ծրագրերից">
 <!ENTITY  enableSafeBrowsing.label        "Արգելափակել վտանգավոր և խաբուսիկ բովանդակությունը">
 <!ENTITY  enableSafeBrowsing.accesskey    "Ա">
 
@@ -28,6 +29,7 @@
 <!ENTITY  formsAndPasswords.label       "Ձևեր և գաղտնաբառեր">
 
 <!ENTITY  rememberLogins2.label         "Հիշել մուտքագրումները և գաղտնաբառերը կայքերի համար">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Բացառություններ…">
 <!ENTITY  passwordExceptions.accesskey  "ա">
 

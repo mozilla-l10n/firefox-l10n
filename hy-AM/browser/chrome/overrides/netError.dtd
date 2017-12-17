@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Կրկին փորձել">
 <!ENTITY returnToPreviousPage.label "Հետ գնալ">
 <!ENTITY advanced.label "Լրացուցիչ">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Չհաջողվեց կապ հաստատել">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,16 @@
 <!ENTITY deniedPortAccess.title "Այս հասցեն արգելափակված է">
 <!ENTITY deniedPortAccess.longDesc "Այս հասցեն արգելափակված է">
 
-<!ENTITY dnsNotFound.title "Սպասարկիչը չի գտնվել">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ստուգեք հասցեն մուտքագրման սխալի համար, օրինակ՝ <strong>ww</strong>.example.com <strong>www</strong>.example.com-ի փոխարեն</li> <li>Եթե չի ստացվում բեռնել որևէ էջ՝ ստուգեք համակարգչի ցանցային կապակցումը:</li> <li>Եթե ձեր համակարգիչը կամ ցանցը ապահովագրված է firewall-ով կամ պրոքսիով՝ համոզվեք, որ &brandShortName;-ին թույլատրված է միանալ ցանցին:</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Սպասարկիչը չի գտնվել">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Հնարավոր չէ գտնել այդ կայքը:">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Եթե հասցեն ճիշտ է՝ ահա երեք այլ տարբերակ, որոնք կարող եք փորձել.</strong>
+<ul>
+  <li>Կրկին փորձե քավելի ուշ:</li>
+  <li>Ստուգեք ցանցային կապակցումը:</li>
+  <li>Եթե կապակցված եք, բայց ունեք firewall, ստուգեք, թե արդյոք &brandShortName;-ը ունի վեբ մուտք գործելու թույլտվություն:</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ստուգեք ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:</li> <li>Ստուգեք, թե արդյոք ֆայլը չի տեղափոխվել, անվանափոխվել կամ ջնջվել:</li> </ul>">
@@ -35,8 +43,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Բացել ցանց մուտք գործելու էջը">
 
-<!ENTITY malformedURI.title "Հասցեի սխալ ձևաչափ">
-<!ENTITY malformedURI.longDesc "<ul> <li>Վեբ հասցեները սովորաբար գրվում են հետևյալ կերպ` <strong>http://www.example.com/</strong></li> <li>Համոզվեք, որ օգտագործում եք հակադարձ սլեշներ (այսինքն` <strong>/</strong>):</li> </ul>">
+<!ENTITY malformedURI.pageTitle "Անվավեր URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Կարծես հասցեն ճիշտ չէ:">
 
 <!ENTITY netInterrupt.title "Կապը խզվեց">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +113,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Լրացուցիչ՝ SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName;-ը չի կապակցվել <span id='wrongSystemTime_URL'/>-ին, քանի որ կարծես թե ձեր համակարգչի ժամացույցը սխալ ժամանակ է ցույց տալիս և դա խանգարում է անվտանգ կապակցմանը:</p> <p>Ձեր համակարգչի ժամանակն է՝ <span id='wrongSystemTime_systemDate'/>, այնինչ պետք է լինի՝ <span id='wrongSystemTime_actualDate'/>: Խնդիրը ուղղելու համար փոխեք ամսաթիվը և ժամանակը համակարգչում:</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName;-ը չի կապակցվել <span id='wrongSystemTimeWithoutReference_URL'/> -ին, քանի որ կարծես թե ձեր համակարգչի ժամացույցը սխալ ժամանակ է ցույց տալիս և դա խանգարում է անվտանգ կապակցմանը:</p> <p>Ձեր համակարգչի ժամանակն է՝ <span id='wrongSystemTimeWithoutReference_systemDate'/>: Խնդիրը ուղղելու համար փոխեք ամսաթիվը և ժամանակը համակարգչում:</p>">
 
