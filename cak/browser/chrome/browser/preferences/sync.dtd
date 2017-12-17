@@ -7,14 +7,24 @@
 <!ENTITY engine.bookmarks.label     "Taq etal">
 <!ENTITY engine.bookmarks.accesskey "e">
 <!ENTITY engine.tabs.label2         "Kejaq taq ruwi'">
+<!ENTITY engine.tabs.title          "Jun rucholb'al ri achike jaqäl pa konojel ri taq okisaxel eximon">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "K'ulwachinel">
 <!ENTITY engine.history.accesskey   "e">
 <!ENTITY engine.logins.label        "Ketikirisäx molojri'ïl">
+<!ENTITY engine.logins.title        "Kib'i' winäq chuqa' ewan taq tzij e'ayakon">
 <!ENTITY engine.logins.accesskey    "K">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Taq cha'oj">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Taq ajowab'äl">
 <!ENTITY engine.prefs.accesskey     "a">
+<!ENTITY engine.prefs.title         "Chijun Runuk'ulem, Ichinanem chuqa' Jikomal e'ajalon">
 <!ENTITY engine.addons.label        "Taq tz'aqat">
+<!ENTITY engine.addons.title        "Taq k'amal chuqa' taq wachinïk richin Firefox ajk'ematz'ib'">
 <!ENTITY engine.addons.accesskey    "t">
 <!ENTITY engine.addresses.label     "Taq Ochochib'äl">
 <!ENTITY engine.addresses.accesskey "i">

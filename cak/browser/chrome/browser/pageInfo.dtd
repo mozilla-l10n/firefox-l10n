@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Junelïk tik'utüx pe">
 <!ENTITY  permAllow             "Tiya' q'ij">
 <!ENTITY  permAllowSession      "Tiya' q'ij pa re molojri'ïl re'">
+<!ENTITY  permHide              "Tewäx">
 <!ENTITY  permBlock             "Tiq'eleb'ëx">
 <!ENTITY  permissionsFor        "Taq ruya'ik q'ij richin:">
 <!ENTITY  permPlugins           "Titzij ri nak'ab'äl">
