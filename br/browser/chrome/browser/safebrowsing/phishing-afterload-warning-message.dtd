@@ -47,11 +47,19 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Stanket eo bet ar bajenn gant &brandShortName; rak gallout a ra touellañ ac'hanoc'h d'ober traoù arvarus eel staliañ meziantoù pe diskouez titouroù personel evel gerioù-tremen pe kartennoù kred.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "Danevellet eo bet <span id='phishing_sitename'/> evel <a id='error_desc_link'>ul lec'hienn touellus</a>. Gallout a rit <a id='report_detection'>danevelliñ ur gudenn dinoiñ</a> pe <a id='ignore_warning_link'>leuskel ar riskl a-gostez</a> ha mont etrezek al lec'hienn diasur.">
+
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "Danevellet eo bet <span id='phishing_sitename'/> evel <a id='error_desc_link'>ul lec'hienn touellus</a>. Gallout a rit <a id='report_detection'>danevelliñ ur gudenn dinoiñ</a>.">
+
+<!ENTITY safeb.blocked.phishingPage.learnMore "Deskit hiroc'h a-zivout lec'hiennoù touellus ha higennañ war <a id='learn_more_link'>www.antiphishing.org</a>. Deskit hiroc'h a-zivout gwarez &brandShortName; a-enep an higennañ hag an drougveziantoù war <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-
-
+<!ENTITY safeb.blocked.harmfulPage.title "Al lec'hienn a c'hell enderc'hel drougveziantoù">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Stanket eo bet ar bajenn gant &brandShortName; peogwir e c'hall klask staliañ arloadoù arvarus a laer pe lamm kuit ho titouroù (skeudennoù, gerioù-tremen, kemennadennoù ha kartennoù kred).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "Danevellet eo bet <span id='harmful_sitename'/> evel <a id='error_desc_link'>ul lec'hienn gant un arload arvarus</a>. Gallout a rit <a id='ignore_warning_link'>leuskel ar riskl a-gostez</a> ha mont etrezek al lec'hienn diasur.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "Dinoet eo bet <span id='harmful_sitename'/> evel <a id='error_desc_link'>ul lec'hienn gant un arload a c'hall bezañ arvarus</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Deskit hiroc'h a-zivout gwarez &brandShortName; a-enep d'an higennañ hag an drougveziantoù war <a id='firefox_support'>support.mozilla.org</a>.">
