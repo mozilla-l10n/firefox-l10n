@@ -7,23 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Tandabuku">
 <!ENTITY engine.bookmarks.accesskey "a">
 <!ENTITY engine.tabs.label2         "Buka tab">
+<!ENTITY engine.tabs.title          "Senarai laman yang dibuka dalam semua peranti yang diselaraskan">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Sejarah">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Log masuk">
+<!ENTITY engine.logins.title        "Nama pengguna dan kata laluan yang anda sudah simpan">
 <!ENTITY engine.logins.accesskey    "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Pilihan">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Keutamaan">
 <!ENTITY engine.prefs.accesskey     "a">
+<!ENTITY engine.prefs.title         "Tetapan Umum, Privasi dan Keselamatan yang anda sudah ubah">
 <!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.title        "Ekstensi dan tema untuk Firefox desktop">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "Alamat">
+<!ENTITY engine.addresses.title     "Alamat pos yang anda sudah simpan (desktop sahaja)">
 <!ENTITY engine.addresses.accesskey "a">
 <!ENTITY engine.creditcards.label   "Kad kredit">
+<!ENTITY engine.creditcards.title   "Nama, nombor dan tarikh luput (desktop sahaja)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
