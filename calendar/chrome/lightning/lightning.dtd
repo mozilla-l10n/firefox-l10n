@@ -43,10 +43,13 @@
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-Mail:">
 
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Preferir l'agendaziun dad e-mail da vart dal client">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Per entant pos ti mo activar questa opziun suenter avair configurà quest chalender en ses dialog da caracteristicas sch'il server dal chalender s'occupa da l'agendaziun.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Questa opziun è mo disponibla sch'il server dal chalender s'occupa da l'agendaziun. Activar permetta da duvrar l'agendaziun dad e-mail da standard sco alternativa en cas da panna enstagl da surlaschar quai al server.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptar">
