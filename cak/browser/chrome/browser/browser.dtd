@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Titaq Ximojri'ïl pa Okisaxel">
 <!ENTITY  sendLinkToDevice.accesskey         "O">
 <!ENTITY  sendToDeviceFeedback.label         "¡Titaq!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Pa cholaj (majun k'amaya'l)">
 <!ENTITY  moveToNewWindow.label              "Rujalik pa jun k'aka' ruwi' kajtz'ïk">
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  bookmarkAllTabs.label              "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "T">
 
 <!ENTITY backCmd.label                "Chi ruwäch">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Titzolïx jun ruxaq">
 <!ENTITY forwardCmd.label             "Jun chik">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Jun chik ruxaq">
 <!ENTITY backForwardButtonMenu.tooltip "Tapitz'a' ruka'n ruwi' ri ch'oy, taqirirej pa xulan richin natz'ët ri natab'äl">
 <!ENTITY backForwardButtonMenuMac.tooltip "Taqirirej richin niq'alajin pe ri natab'äl">
 <!ENTITY reloadCmd.label              "Tisamajib'ëx chik">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Tiq'at">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Tib'e pa JAY richin ri rucholob'al taq ochochib'äl">
 <!ENTITY printButton.label            "Titz'ajb'äx">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Ti'ichinäx ri MENU chuqa' ri rucholajem samajib'äl">
 <!ENTITY appMenuCustomizeExit.label "Tel chi richinaxik">
 <!ENTITY appMenuCustomizeExit.tooltip "Xk'is chi richinaxik">
+
 <!ENTITY appMenuHistory.showAll.label "Tik'ut pe ronojel ri natab'äl">
 <!ENTITY appMenuHistory.clearRecent.label "Tiyuj ri k'ak'a' natab'äl…">
 <!ENTITY appMenuHistory.restoreSession.label "Titzolin pa ri molojri'ïl xik'o">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Kexim ri taq ajowanik">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
+<!ENTITY appMenuRemoteTabs.unverified.label "K'atzinel nijikib'äx ri rub'i' ataqoya'l.">
 <!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Ximojri'ïl">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kenuk'samajïx taq okisaxel…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ketz'et ximïl taq ruwi' pa ajxikin kajtz'ik">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Tokisäx Jun Chik Okisaxel">
 
 <!ENTITY appMenuRecentHighlights.label "K'ak'a' K'exawachinïk">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Ticha' achi'el richin rupam ch'atal…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "T">
 <!ENTITY bookmarkPageCmd2.label       "Titz'aqatisäx re ruxaq re' pa taq yaketal">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Titzaqatisäx re jun ximonel re' pa taq yaketal">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "x">
 <!ENTITY bookmarkThisFrameCmd.label      "Titz'aqatisäx re ruchi' kajtz'ik re' pa taq etal">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "K'isoj">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Rujikomal ri Ruxaq K'amaya'l">
+
 <!ENTITY identity.connectionSecure "Ütz Okem">
 <!ENTITY identity.connectionNotSecure "Itzel chi Okem">
 <!ENTITY identity.connectionFile "Re ruxaq k'amaya'l re' yakon pan akematz'ib'.">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "¡K'a majani yexim ri taq ruwi'…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "K'atzinel nijikib'äx ri rub'i' ataqoya'l.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Majun ruwi' ejaqon">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Tajin yejaq ri taq rajowab'al &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Kekanöx ri taq ruwi' eximon">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Tokisäx Jun Chik Okisaxel">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "m">
 <!ENTITY updateRestart.panelUI.label2 "Titikirisäx chik richin nik'ex &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Jun k'amal xujäl ri ruxaq natz'ët toq najäq jun K'ak'a' Ruwi'. Yatikïr natzolij ri taq anuk'ulem we man niqa ta chawäch re jaloj re'.">
+<!ENTITY newTabControlled.header.message "Xjal ri K'ak'a' Ruwi'.">
+<!ENTITY newTabControlled.keepButton.label "Kek'oje' na ri taq Jaloj">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "Ketzolïx ri taq Nuk'ulem">
+<!ENTITY newTabControlled.restoreButton.accesskey "K">
+
 <!ENTITY pageActionButton.tooltip "Taq rub'anoj ruxaq">
 <!ENTITY pageAction.addToUrlbar.label "Titz'aqatisäx ri Kikajtz'ik Ochochib'äl">
 <!ENTITY pageAction.removeFromUrlbar.label "Tiyuj el chupam ri Kikajtz'ik Ochoch">
+
+<!ENTITY pageAction.allowInUrlbar.label "Tik'ut pe pa Kikajtz'ik Ochochib'äl">
+<!ENTITY pageAction.disallowInUrlbar.label "Man tik'ut pe pa Kikajtz'ik Ochochib'äl">
+<!ENTITY pageAction.manageExtension.label "Tinuk'samajïx K'amal…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Titaq Ruwi' pan Okisaxel">
 <!ENTITY sendToDevice.syncNotReady.label "Tajin yexim ri taq Okisaxel…">
