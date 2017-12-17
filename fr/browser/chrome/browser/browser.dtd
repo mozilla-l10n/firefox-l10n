@@ -990,11 +990,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label2 "Redémarrer pour mettre à jour &brandShorterName;">
 
+<!ENTITY newTabControlled.keepButton.label "Conserver les modifications">
+<!ENTITY newTabControlled.restoreButton.label "Restaurer les paramètres">
 
 <!ENTITY pageActionButton.tooltip "Actions pour la page">
 <!ENTITY pageAction.addToUrlbar.label "Ajouter à la barre d’adresse">
 <!ENTITY pageAction.removeFromUrlbar.label "Retirer de la barre d’adresse">
 
+<!ENTITY pageAction.allowInUrlbar.label "Afficher dans la barre d’adresse">
+<!ENTITY pageAction.disallowInUrlbar.label "Ne pas afficher dans la barre d’adresse">
+<!ENTITY pageAction.manageExtension.label "Gérer l’extension…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Envoyer l’onglet vers un appareil">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisation des appareils…">
