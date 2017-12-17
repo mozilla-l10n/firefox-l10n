@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "Ներդիրի վթարի զեկուցում">
 
 <!ENTITY tabCrashed.closeTab2  "Փակել ներդիրը">
 <!ENTITY tabCrashed.restoreTab "Վերականգնել ներդիրը">
@@ -16,10 +17,14 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Վա՜յ։ Ձեր ներդիրը հենց նոր վթարվեց։">
 <!ENTITY tabCrashed.offerHelp2 "Մենք կարող ենք օգնել:">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Ընտրեք &tabCrashed.restoreTab;՝ էջը կրին բեռնելու համար:">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Ընտրեք &tabCrashed.restoreTab; կամ &tabCrashed.restoreAll;՝ էջը/էջերը կրկին բեռնելու համար:">
 <!ENTITY tabCrashed.requestHelp "Կօգնե՞ք մեզ։">
 <!ENTITY tabCrashed.requestHelpMessage "Վթարի զեկույցներն օգնում են մեզ վերլուծել խնդիրները և դարձնել &brandShortName;-ն ավելի լավը։">
 <!ENTITY tabCrashed.requestReport "Զեկուցել այս ներդիրը">
+<!ENTITY tabCrashed.sendReport3 "Ուղարկել վթարի ինքնաշխատ զեկույց՝ խնդիրները ուղղելու համար:">
 <!ENTITY tabCrashed.commentPlaceholder2 "Լրացուցիչ մեկնաբանություններ (մեկնաբանությունները հանրային են)">
+<!ENTITY tabCrashed.includeURL3 "Ներառեք կայքերի URL-ները, որոնք բացելիս &brandShortName;-ը վթարվել է:">
 <!ENTITY tabCrashed.emailPlaceholder "Մուտքագրեք ձեր էլ. փոստի հասցեն">
 <!ENTITY tabCrashed.emailMe "Նոր տեղեկությունների դեպքում ծանուցել ինձ">
 <!ENTITY tabCrashed.reportSent "Վթարի զեկույցը արդեն ուղարկվել է: Շնորհակալություն, որ օգնում եք &brandShortName;-ը դարձնել էլ ավելի լավը:">

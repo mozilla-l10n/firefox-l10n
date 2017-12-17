@@ -27,14 +27,18 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Տվյալների զեկուցումը անջատված է կազմաձևի այս կառուցման համար">
 
 <!ENTITY enableHealthReport2.label       "Թույլատրել &brandShortName;-ին ուղարկել տեխնիկական և փոխազդելու տվյալներ Mozilla-ին">
+<!ENTITY enableHealthReport2.accesskey   "">
 <!ENTITY healthReportLearnMore.label     "Իմանալ ավելին">
 
 <!ENTITY dataCollection.label            "&brandShortName;-ի տվյալների հավաքում և օգտագործում">
 <!ENTITY dataCollectionDesc.label        "Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել միայն այն ժամանակ, երբ մեզ պետք է տրամադրել և լավարկել &brandShortName;-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թույլտվությյուն՝ մինչև անձնական տեղեկություններ ստանալը:">
+<!ENTITY dataCollectionPrivacyNotice.label    "Գաղտնիության ծանուցում">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Թույլատրել &brandShortName;-ին ուղարկել վթարի զեկույցներ Mozilla-ին">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Իմանալ ավելին">
 
 <!ENTITY networkTab.label                "Ցանցը">
@@ -92,6 +96,7 @@ available. -->
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Թույլատրել &brandShortName;-ին">
 <!ENTITY updateAuto3.label               "Ինքնաբար տեղադրել թարմացումները (հանձնարարելի)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Ստուգել թարմացումները, բայց ես կընտրեմ, թե որը տեղադրել">
 <!ENTITY updateCheckChoose2.accesskey    "Ս">
 <!ENTITY updateManual2.label             "Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)">
@@ -111,6 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Բացառություններ…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ց">
 
+<!ENTITY offlineAppsList3.label          "Հետևյալ կայքերին թույլատրված է պահել տվյալները անցանց օգտագործման համար">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ջնջել…">
 <!ENTITY offlineAppsListRemove.accesskey "Ջ">
@@ -125,7 +131,9 @@ available. -->
 <!ENTITY enableOCSP.label                "Հարցում OCSP պատասխանիչի սպասարկիչին՝ հաստատելու հավաստագրի իսկությունը">
 <!ENTITY enableOCSP.accesskey            "Հ">
 <!ENTITY viewCerts2.label                "Դիտել վկայագրերը...">
+<!ENTITY viewCerts2.accesskey            "C">
 <!ENTITY viewSecurityDevices2.label      "Անվտանգության սարքեր...">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Արտադրողականություն">
 <!ENTITY useRecommendedPerformanceSettings2.label

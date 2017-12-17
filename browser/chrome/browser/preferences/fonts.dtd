@@ -65,6 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "Է">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Գրանշանի կոդավորումը տարբերանշանի բովանդակության համար">
+<!ENTITY languages.customize.Fallback3.label      "Գրվածքի պահոստային կոդավորում">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Գրանշանի կոդավորումը օգտագործվում է այն տարբերանշանի բովանդակության համար, որը չի կարողանում որոշել իր կոդավորումը:">
 
 <!ENTITY languages.customize.Fallback.auto        "Ծրագրայինը տվյալ լեզվի համար">
