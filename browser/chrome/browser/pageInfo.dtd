@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "எப்போதும் கேள்">
 <!ENTITY  permAllow             "அனுமதி">
 <!ENTITY  permAllowSession      "அமர்வுக்கு அனுமதி">
+<!ENTITY  permHide              "மறை">
 <!ENTITY  permBlock             "தடு">
 <!ENTITY  permissionsFor        "அனுமதி:">
 <!ENTITY  permPlugins           "செருகுநிரல்களைச் செயல்படுத்து">
