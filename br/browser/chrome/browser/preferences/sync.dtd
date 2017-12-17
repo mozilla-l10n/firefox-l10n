@@ -21,7 +21,9 @@
 <!ENTITY engine.prefsWin.label      "Dibarzhioù">
 <!ENTITY engine.prefs.label         "Gwellvezioù">
 <!ENTITY engine.prefs.accesskey     "G">
+<!ENTITY engine.prefs.title         "Arventennoù hollek, buhez prevez ha diogelroez kemmet ganeoc'h">
 <!ENTITY engine.addons.label        "Askouezhioù">
+<!ENTITY engine.addons.title        "Askouezhioù ha neuzioù evit Firefox war burev">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "Chomlec'hioù">
 <!ENTITY engine.addresses.accesskey "C">
