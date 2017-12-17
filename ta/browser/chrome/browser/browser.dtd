@@ -188,13 +188,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "பின்செல்">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "ஒரு பக்கம் பின்செல்">
 <!ENTITY forwardCmd.label             "முன்செல்">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ஒரு பக்கம் முன்செல்">
 <!ENTITY backForwardButtonMenu.tooltip "வரலாற்றைப் பார்க்க வலதாக சொடுக்கு (அ) அழுத்தி இழு">
 <!ENTITY backForwardButtonMenuMac.tooltip "வரலாற்றைப் பார்க்க கீழாக இழு">
 <!ENTITY reloadCmd.label              "மீளேற்று">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "நிறுத்து">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "இடப் பட்டையில் முகவரிக்கு செல்லவும்">
 <!ENTITY printButton.label            "அச்சிடு">
@@ -354,6 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "பட்டிகளையும் கருவிப்பட்டைகளையும் விருப்பமை">
 <!ENTITY appMenuCustomizeExit.label "வெளியேறு">
 <!ENTITY appMenuCustomizeExit.tooltip "தனிப்பயனாக்கத்தை முடி">
+
 <!ENTITY appMenuHistory.showAll.label "அனைத்தையும் காண்பி">
 <!ENTITY appMenuHistory.clearRecent.label "சமீபத்திய வரலாற்றைத் துடை...">
 <!ENTITY appMenuHistory.restoreSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
@@ -384,9 +389,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ஒத்திசைவு முன்னுரிமைகள்">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "உங்கள் மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைப் பார்க்க உள்நுழை.">
+<!ENTITY appMenuRemoteTabs.unverified.label "உங்கள் கணக்கு சரிபார்க்கப்பட வேண்டும்.">
 <!ENTITY appMenuRemoteTabs.signin.label "ஒத்திசைக்க உள்நுழை">
 <!ENTITY appMenuRemoteTabs.managedevices.label "சாதனங்களை நிர்வகி...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ஒத்திசைத்த கீற்றுகள் பக்கப்பட்டையைப் பார்">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "மற்றொரு சாதனத்தை இணை">
 
 <!ENTITY appMenuRecentHighlights.label "அண்மைய மிளிர்ப்புகள்">
 
@@ -563,6 +571,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "பணிமேடையின் பின்னணியாக அமை…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "இப்பக்கத்தைப் புத்தகக்குறியிடு">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "இந்த இணைப்பை புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "இந்த சட்டத்தை புத்தகக்குறியிடு">
@@ -749,6 +758,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "முடிந்தது">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "வலைத்தள பாதுகாப்பு">
+
 <!ENTITY identity.connectionSecure "பாதுகாப்பான இணைப்பு">
 <!ENTITY identity.connectionNotSecure "இணைப்பு பாதுகாப்பற்றது">
 <!ENTITY identity.connectionFile "உங்கள் கணினியில் இப்பக்கம் சேமிக்கப்பட்டது. ">
@@ -802,12 +815,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "இதுவரையில்… ஒத்திசைத்த கீற்றுகள் ஏதுமில்லை!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "உங்களின் மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைப் பார்க்க உள்நுழை.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "உங்கள் கணக்கு சரிபார்க்கப்பட வேண்டும்.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "திறந்த கீற்றுகள் இல்லை">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைக் காண கீற்று ஒத்திசைவை இயக்கு.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ஒத்திசைத்த கீற்றுகளைத் தேடவும்">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "மற்றொரு சாதனத்தை இணை">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -975,9 +991,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
 
+<!ENTITY newTabControlled.header.message "உங்களது புதிய கீற்று மாறிவிட்டது.">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "மீட்டமைப்பு அமைவுகள்">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 <!ENTITY pageAction.addToUrlbar.label "முகவரி பட்டையில் சேர்">
 <!ENTITY pageAction.removeFromUrlbar.label "முகவரி பட்டையிலிருந்து நீக்கு">
+
+<!ENTITY pageAction.allowInUrlbar.label "முகவரி பட்டையில் காண்பி">
+<!ENTITY pageAction.disallowInUrlbar.label "முகவரி பட்டையில் காட்டாதே">
+<!ENTITY pageAction.manageExtension.label "நீட்சிகளை நிர்வகி…">
 
 <!ENTITY pageAction.sendTabToDevice.label "சாதனத்திற்கு கீற்றுகளை அனுப்பு">
 <!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">

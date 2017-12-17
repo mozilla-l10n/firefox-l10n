@@ -12,13 +12,21 @@
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "உள்நுழைவுகள்">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "விருப்பங்கள்">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "விருப்பங்கள்">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "கூடுதல்-வசதிகள்">
+<!ENTITY engine.addons.title        "பணித்திரை பயர்பாக்சிற்கான நீட்சிகள் மற்றும் தீம்கள்">
 <!ENTITY engine.addons.accesskey    "க">
 <!ENTITY engine.addresses.label     "முகவரிகள்">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "கடன் அட்டைகள்">
+<!ENTITY engine.creditcards.title   "பெயர்கள், எண்கள் மற்றும் காலாவதி தேதிகள் (பணித்திரைக்கு மட்டும்)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
