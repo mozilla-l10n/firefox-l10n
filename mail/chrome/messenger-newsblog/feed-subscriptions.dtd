@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Kanalowe abonementy">
 <!ENTITY learnMore.label             "Zgóńśo wěcej wó kanalach">
 
@@ -12,13 +12,14 @@
 <!ENTITY feedLocation.label          "URL kanala:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Zapódajśo płaśiwy URL kanala">
+<!ENTITY feedLocation2.placeholder   "Zapódajśo płaśiwy URL kanala">
 <!ENTITY locationValidate.label      "Płaśiwosć pśespytaś">
 <!ENTITY validateText.label          "Płaśiwosć pśespytaś a płaśiwy URL wótwołaś.">
 
 <!ENTITY feedFolder.label            "Nastawki składowaś w:">
 <!ENTITY feedFolder.accesskey        "N">
-<!-- Account Settings and Subscription Dialog -->
 
+<!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Za nowymi nastawkami pytaś kužde ">
 <!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "minutow">
@@ -35,10 +36,12 @@
 <!ENTITY autotagUsePrefix.label      "Wobznamjenja prefigěrowaś z:">
 <!ENTITY autotagUsePrefix.accesskey  "f">
 <!ENTITY autoTagPrefix.placeholder   "Zapódajśo wobznamjenjowy prefiks">
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Pśidaś">
 <!ENTITY button.addFeed.accesskey    "P">
+<!ENTITY button.verifyFeed.label     "Pśespytowaś">
+<!ENTITY button.verifyFeed.accesskey "P">
 <!ENTITY button.updateFeed.label     "Aktualizěrowaś">
 <!ENTITY button.updateFeed.accesskey "A">
 <!ENTITY button.removeFeed.label     "Wótpóraś">
