@@ -151,3 +151,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Taq b'ey">
 <!ENTITY aboutSupport.mediaDeviceRate "Rajil">
 <!ENTITY aboutSupport.mediaDeviceLatency "Rub'anikil k'o wi">
+
+<!ENTITY aboutSupport.intlOSTitle "Samajel taq Q'inoj">
