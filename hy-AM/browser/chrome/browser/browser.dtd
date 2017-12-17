@@ -188,13 +188,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "Թ">
 
 <!ENTITY backCmd.label                "Նախորդը">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Գնալ Նախորդ Էջ">
 <!ENTITY forwardCmd.label             "Հաջորդը">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Գնալ Հաջորդ Էջ">
 <!ENTITY backForwardButtonMenu.tooltip "Աջ սեղմում կամ պտտում ներքև՝ պատմությունը դիտելու համար">
 <!ENTITY backForwardButtonMenuMac.tooltip "Պտտեք ներքև՝ պատմությունը դիտելու համար">
 <!ENTITY reloadCmd.label              "Կրկին բեռնել">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Ընդհատել">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Գնալ Հասցեի Տողում նշված հասցեով">
 <!ENTITY printButton.label            "Տպել">
@@ -753,6 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Կայքի անվտանգությունը">
 
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
 <!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">
@@ -807,6 +812,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Դեռ չկան համաժամեցված ներդիրներ:">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Ձեր հաշիվը պետք է ստուգվի:">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Չկան բաց ներդիրներ">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -814,6 +820,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Միացրեք ներդիրների համաժամեցումը՝ տեսնելու Ձեր այլ սարքերից ավելացրած ներդիրների ցանկը։">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Որոնել համաժամեցված ներդիրներ">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Կապակցվել այլ սարքի">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -989,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Ավելացնել Հասցեագոտում">
 <!ENTITY pageAction.removeFromUrlbar.label "ՀԵռացնել Հասցեագոտուց">
 
+<!ENTITY pageAction.allowInUrlbar.label "Ցուցմադրել Հասցեի գոտում">
+<!ENTITY pageAction.disallowInUrlbar.label "Չցուցադրել ՀԱսցեի գոտում">
+<!ENTITY pageAction.manageExtension.label "Կառավարել ընդլայնումը...">
 
 <!ENTITY pageAction.sendTabToDevice.label "Ուղարկել ներդիրը Սարքում">
 <!ENTITY sendToDevice.syncNotReady.label "Սարքերի համաժամեցում...">
