@@ -5,7 +5,7 @@
 <!ENTITY identitiesListManageDesc.label "أدِر هويات هذا الحساب. الهوية الأولى ستستخدم مبدئيا.">
 <!ENTITY identitiesListAdd.label  "أضِف…">
 <!ENTITY identitiesListAdd.accesskey  "ض">
-<!ENTITY identitiesListEdit.label "حرِّر…">
+<!ENTITY identitiesListEdit.label "حرّر…">
 <!ENTITY identitiesListEdit.accesskey "ح">
 <!ENTITY identitiesListDefault.label "اجعلها المبدئية">
 <!ENTITY identitiesListDefault.accesskey "ب">

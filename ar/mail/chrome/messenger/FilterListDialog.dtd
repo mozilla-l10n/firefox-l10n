@@ -9,7 +9,7 @@
 <!ENTITY newButton.accesskey "ج">
 <!ENTITY newButton.popupCopy.label "انسخ…">
 <!ENTITY newButton.popupCopy.accesskey "س">
-<!ENTITY editButton.label "حرر…">
+<!ENTITY editButton.label "حرّر…">
 <!ENTITY editButton.accesskey "ح">
 <!ENTITY deleteButton.label "احذف">
 <!ENTITY deleteButton.accesskey "ح">
@@ -38,4 +38,6 @@
 <!ENTITY helpButton.accesskey "م">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "ابحث في المُرشّحات بالاسم…">
+
+
 

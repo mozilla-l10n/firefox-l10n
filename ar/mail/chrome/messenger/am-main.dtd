@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "إعدادات الحسابات">
 <!ENTITY accountName.label "اسم الحساب:">
@@ -24,7 +24,7 @@
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "أرفِق التوقيع من ملف (نص أو HTML أو صورة):">
 <!ENTITY signatureFile.accesskey "ف">
-<!ENTITY edit.label "حرِّر…">
+<!ENTITY edit.label "حرّر…">
 <!ENTITY choose.label "اختر…">
 <!ENTITY choose.accesskey "ر">
 <!ENTITY editVCard.label "حرّر البطاقة…">
@@ -35,8 +35,8 @@
 
 <!ENTITY manageIdentities.label "أدِر الهويّات…">
 <!ENTITY manageIdentities.accesskey "د">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "خادوم الصّادر (SMTP):‏">
 <!ENTITY smtpName.accesskey "ص">
 <!ENTITY smtpDefaultServer.label "استخدم الخادوم المبدئي">

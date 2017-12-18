@@ -28,7 +28,7 @@
 <!ENTITY expire.label "تنتهي صلاحيتها">
 <!ENTITY close.label "أُغلق &brandShortName;">
 <!ENTITY askEachTime.label "اسألني كل مرة">
-<!ENTITY cookieExceptions.label "استثناءات…">
+<!ENTITY cookieExceptions.label "الاستثناءات…">
 <!ENTITY cookieExceptions.accesskey "ث">
 <!ENTITY showCookies.label "أظهِر الكعكات…">
 <!ENTITY showCookies.accesskey "ظ">
