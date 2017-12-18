@@ -305,7 +305,7 @@
 <!ENTITY tracking_protection_prompt_title "الآن مع حماية من التعقّب">
 <!ENTITY tracking_protection_prompt_text "يحجب عناصر التعقب لئلا تقلق بشأنها.">
 <!ENTITY tracking_protection_prompt_tip_text "طالع إعدادات الخصوصية للاطلاع على المزيد">
-<!ENTITY tracking_protection_prompt_action_button "فهمت!">
+<!ENTITY tracking_protection_prompt_action_button "فهمت">
 
 <!ENTITY tab_queue_toast_message3 "حُفظ اللسان في &brandShortName;">
 <!ENTITY tab_queue_toast_action "افتح الآن">
@@ -492,10 +492,10 @@
 <!ENTITY contextmenu_pasteandgo "ألصق و اذهب">
 <!ENTITY contextmenu_paste "لصق">
 <!ENTITY contextmenu_copyurl "انسخ العنوان">
-<!ENTITY contextmenu_edit_bookmark "حرِّر">
+<!ENTITY contextmenu_edit_bookmark "حرّر">
 <!ENTITY contextmenu_subscribe "اشترك بهذه الصفحة">
 <!ENTITY contextmenu_site_settings "حرر إعدادات الموقع">
-<!ENTITY contextmenu_top_sites_edit "حرِّر">
+<!ENTITY contextmenu_top_sites_edit "حرّر">
 <!ENTITY contextmenu_top_sites_pin "ثبّت الموقع">
 <!ENTITY contextmenu_top_sites_unpin "افصل الموقع">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
