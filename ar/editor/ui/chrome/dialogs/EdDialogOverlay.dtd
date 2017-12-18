@@ -4,7 +4,7 @@
 
 <!ENTITY AdvancedEditButton.label "تحرير متقدم…">
 <!ENTITY AdvancedEditButton.accessKey "م">
-<!ENTITY AdvancedEditButton.tooltip "أضِف أو عدّل صفات HTML، و خصائص الطراز و جافا سكربت">
+<!ENTITY AdvancedEditButton.tooltip "أضِف أو عدّل صفات HTML، و صفات الطراز و جافا سكربت">
 <!ENTITY chooseFileButton.label "اختر الملف...">
 <!ENTITY chooseFileButton.accessKey "ف">
 <!ENTITY chooseFileLinkButton.label "اختر الملف...">
