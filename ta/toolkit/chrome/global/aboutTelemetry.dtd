@@ -40,6 +40,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  கூடுதல் இணைப்புகளின் விவரங்கள்">
 <!ENTITY aboutTelemetry.capturedStacksSection "  கைப்பற்றிய அடுக்குகள்">
 <!ENTITY aboutTelemetry.lateWritesSection "  தாமத எழுதல்கள்">
+<!ENTITY aboutTelemetry.rawPayloadSection "பதனிடப்படாத சரக்கு">
 <!ENTITY aboutTelemetry.raw "பதனிடப்படாத JSON">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  குறிப்பு: மெதுவான SQL வழுநீக்கல் செயல்படுத்தப்பட்டுள்ளது. முழு SQL சரங்கள் கீழே காண்பிக்கப்படலாம்ஆனால் அவை டெலிமெட்ரிக்கு சமர்ப்பிக்கப்படாது.">
