@@ -6,7 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "Забелешке">
 <!ENTITY engine.bookmarks.accesskey "З">
-<!ENTITY engine.tabs.label2         "Отвори језичке">
+<!ENTITY engine.tabs.label2         "Отворени језичци">
 <!ENTITY engine.tabs.title          "Листа свега што је отворено на свим синхронизованим уређајима">
 <!ENTITY engine.tabs.accesskey      "Ј">
 <!ENTITY engine.history.label       "Историјат">
