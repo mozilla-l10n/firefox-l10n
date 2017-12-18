@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY junkLog.title "Ongewenste-berichtenlogboek">
-<!ENTITY junkLogInfo.label "Ongewenste-berichten controle activiteiten">
-<!ENTITY clearLog.label "Logboek wissen">
-<!ENTITY clearLog.accesskey "W">
-<!ENTITY closeLog.label "Sluiten">
-<!ENTITY closeLog.accesskey "S">
