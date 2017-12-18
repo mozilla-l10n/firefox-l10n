@@ -908,7 +908,7 @@
 <!ENTITY reportPhishingURL.accesskey "ب">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "أضِف القواميس…">
+<!ENTITY spellAddDictionaries.label "أضِف قواميس…">
 <!ENTITY spellAddDictionaries.accesskey "س">
 
 <!-- Content Pane Context Menu -->

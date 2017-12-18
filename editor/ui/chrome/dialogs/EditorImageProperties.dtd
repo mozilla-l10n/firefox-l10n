@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "خصائص الصورة">
 
 <!ENTITY pixelsPopup.value "بكسل">
-<!-- These are in the Location tab panel -->
 
+<!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "مكان الصورة:">
 <!ENTITY locationEditField.accessKey "م">
 <!ENTITY locationEditField.tooltip "اكتب مكان أو اسم ملف الصورة">
@@ -24,9 +24,9 @@
 <!ENTITY noAltText.accessKey "ل">
 
 <!ENTITY previewBox.label "معاينة الصورة">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-
 <!ENTITY actualSize.label "الحجم الفعلي:">
 <!ENTITY actualSizeRadio.label "الحجم الفعلي">
 <!ENTITY actualSizeRadio.accessKey "ح">
@@ -41,21 +41,21 @@
 <!ENTITY constrainCheckbox.label "قيد">
 <!ENTITY constrainCheckbox.accessKey "ق">
 <!ENTITY constrainCheckbox.tooltip "حافظ على نِسب الصورة">
-<!-- These controls are in the Image Map box of the expanded area -->
 
+<!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "خريطة الصورة">
 <!ENTITY removeImageMapButton.label "احذف">
 <!ENTITY removeImageMapButton.accessKey "ح">
-<!-- These are the options for image alignment -->
 
+<!-- These are the options for image alignment -->
 <!ENTITY alignment.label "حاذِ النص إلى الصورة">
 <!ENTITY bottomPopup.value "في القاع">
 <!ENTITY topPopup.value "في القمة">
 <!ENTITY centerPopup.value "في المنتصف">
 <!ENTITY wrapRightPopup.value "لف يمينًا">
 <!ENTITY wrapLeftPopup.value "لف يسارًا">
-<!-- These controls are in the Spacing Box -->
 
+<!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "التباعد">
 <!ENTITY leftRightEditField.label "يمينًا ويسارًا:">
 <!ENTITY leftRightEditField.accessKey "م">
@@ -63,15 +63,15 @@
 <!ENTITY topBottomEditField.accessKey "م">
 <!ENTITY borderEditField.label "حد صلب:">
 <!ENTITY borderEditField.accessKey "ص">
-<!-- These controls are in the Link Box -->
 
+<!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "اعرض حدًا حول الصور المربوطة">
 <!ENTITY showImageLinkBorder.accessKey "ح">
 <!ENTITY LinkAdvancedEditButton.label "تحرير الروابط المتقدم…">
 <!ENTITY LinkAdvancedEditButton.accessKey "ر">
-<!ENTITY LinkAdvancedEditButton.tooltip "أضِف أو عدّل صفات HTML وصفات السمت و جافاسكربت">
-<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY LinkAdvancedEditButton.tooltip "أضِف أو عدّل صفات HTML، و صفات الطراز و جافا سكربت">
 
+<!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "مِن">
 <!ENTITY imageLocationTab.label "المكان">
 <!ENTITY imageDimensionsTab.label "الأبعاد">
