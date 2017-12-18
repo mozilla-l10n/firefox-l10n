@@ -12,13 +12,22 @@
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "પ્રવેશો">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "વિકલ્પો">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "પસંદગીઓ">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ઍડ-ઓન">
+<!ENTITY engine.addons.title        "Firefox ડેસ્કટૉપ માટે વિસ્તરક અને થીમ્સ">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "સરનામાઓ">
+<!ENTITY engine.addresses.title     "તમે સાચવેલા પોસ્ટલ સરનામા (ફક્ત ડેસ્કટૉપ)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "ક્રડિટ કાર્ડ્ઝ">
+<!ENTITY engine.creditcards.title   "નામ, નંબર અને સમાપ્તિની તારીખ (ફક્ત ડેસ્કટૉપ)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
