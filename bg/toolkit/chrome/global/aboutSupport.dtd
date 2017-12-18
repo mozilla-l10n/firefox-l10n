@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Канали">
 <!ENTITY aboutSupport.mediaDeviceRate "Честота">
 <!ENTITY aboutSupport.mediaDeviceLatency "Закъснение">
+
+<!ENTITY aboutSupport.intlTitle "Интернационализиране и локализация">
+<!ENTITY aboutSupport.intlAppTitle "Настройки на приложението">
+<!ENTITY aboutSupport.intlLocalesRequested "Искани локали">
+<!ENTITY aboutSupport.intlLocalesAvailable "Налични локали">
+<!ENTITY aboutSupport.intlLocalesSupported "Локали на приложението">
+<!ENTITY aboutSupport.intlLocalesDefault "Локал по подразбиране">
+<!ENTITY aboutSupport.intlOSTitle "Настройки на операционната система">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Системен локал">
+<!ENTITY aboutSupport.intlRegionalPrefs "Местни настройки">
