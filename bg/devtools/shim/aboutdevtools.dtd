@@ -40,9 +40,13 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Проверявайте и променяйте и отстранявайте дефекти от HTML, CSS и JavaScript с инструментите като инспектор и дебъгер.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Усъвършенствайте HTML, CSS и JavaScript на страницата си с инструментите като инспектор и дебъгер.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
@@ -70,8 +74,10 @@
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Съгласен съм Mozilla да борави с дадената от мен информация, както е обяснено в тази <a class='external' href='https://www.mozilla.org/privacy/'>декларация за поверителност</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Абониране">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Благодарим!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Ако преди не сте потвърждавали абонамент за бюлетин на Mozilla ще трябва да го направите сега. Моля, проверете входящата или папката с нежелана поща за писмо от нас.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Търсите нещо повече от развойни инструменти? Изпробвайте мрежовият четец Firefox, създаден специално за разработчици и съвременни похвати на разработка.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
