@@ -36,9 +36,15 @@
 <!ENTITY generic.longDesc "<p>Vì lý do nào đó, &brandShortName; không thể mở trang này.</p>">
 
 <!ENTITY captivePortal.title "Đăng nhập vào mạng">
+<!ENTITY captivePortal.longDesc2 "
+<p>Bạn cần đăng nhập vào mạng trước khi có thể truy cập Internet.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Mở trang đăng nhập mạng">
 
+<!ENTITY malformedURI.pageTitle "URL không hợp lệ">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Địa chỉ không đúng.">
 
 <!ENTITY netInterrupt.title "Kết nối bị ngắt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
