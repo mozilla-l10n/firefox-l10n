@@ -11,6 +11,7 @@
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Inicios de sesión">
+<!ENTITY engine.logins.title        "Usuarios y contraseñas que has guardado">
 <!ENTITY engine.logins.accesskey    "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -21,6 +22,7 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.prefs.title         "Configuraciones generales, de privacidad y de seguridad que has cambiado">
 <!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.title        "Extensiones y temas para Firefox para escritorio">
 <!ENTITY engine.addons.accesskey    "C">
 <!ENTITY engine.addresses.label     "Direcciones">
 <!ENTITY engine.addresses.accesskey "e">
