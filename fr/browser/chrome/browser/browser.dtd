@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Envoyer le lien à un appareil">
 <!ENTITY  sendLinkToDevice.accesskey         "v">
 <!ENTITY  sendToDeviceFeedback.label         "Envoyé !">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Mis en attente (hors connexion)">
 <!ENTITY  moveToNewWindow.label              "Déplacer vers une nouvelle fenêtre">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Marquer tous les onglets…">
@@ -990,6 +991,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label2 "Redémarrer pour mettre à jour &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Une extension a modifié la page qui s’affiche lorsque vous ouvrez un nouvel onglet. Vous pouvez restaurer vos paramètres si vous n’acceptez pas ces modifications.">
+<!ENTITY newTabControlled.header.message "La page Nouvel onglet a été modifiée.">
 <!ENTITY newTabControlled.keepButton.label "Conserver les modifications">
 <!ENTITY newTabControlled.restoreButton.label "Restaurer les paramètres">
 
