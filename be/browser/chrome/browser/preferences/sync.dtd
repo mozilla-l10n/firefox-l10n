@@ -7,6 +7,7 @@
 <!ENTITY engine.bookmarks.label     "Закладкі">
 <!ENTITY engine.bookmarks.accesskey "З">
 <!ENTITY engine.tabs.label2         "Адкрытыя карткі">
+<!ENTITY engine.tabs.title          "Спіс адкрытага на ўсіх сінхранізаваных прыладах">
 <!ENTITY engine.tabs.accesskey      "к">
 <!ENTITY engine.history.label       "Гісторыя">
 <!ENTITY engine.history.accesskey   "Г">
@@ -21,6 +22,7 @@
 <!ENTITY engine.prefs.label         "Налады">
 <!ENTITY engine.prefs.accesskey     "Н">
 <!ENTITY engine.addons.label        "Дадаткі">
+<!ENTITY engine.addons.title        "Пашырэнні і тэмы для настольнага Firefox">
 <!ENTITY engine.addons.accesskey    "Д">
 <!ENTITY engine.addresses.label     "Адрасы">
 <!ENTITY engine.addresses.accesskey "а">
