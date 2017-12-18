@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListAdd.label  "Agregar…">
-<!ENTITY identitiesListEdit.label "Editar…">
-<!ENTITY identitiesListDelete.label "Eliminar">
-<!ENTITY identitiesListClose.label "Cerrar">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY otherUsersNamespace.label "Otros usuarios:">

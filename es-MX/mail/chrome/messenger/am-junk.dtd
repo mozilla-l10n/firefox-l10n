@@ -4,8 +4,10 @@
 
 
 <!ENTITY otherFolder.label "Otro:">
+<!ENTITY purge2.label "días">
 
 
 
 <!ENTITY junkClassification.label "Selección">
+<!ENTITY junkActions.label "Destino y retención">
 
