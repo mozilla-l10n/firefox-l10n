@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "હંમેશા પૂછો">
 <!ENTITY  permAllow             "પરવાનગી આપો">
 <!ENTITY  permAllowSession      "સત્ર માટે પરવાનગી આપો">
+<!ENTITY  permHide              "છુપાવો">
 <!ENTITY  permBlock             "અટકાવો">
 <!ENTITY  permissionsFor        "માટેની પરવાનગીઓ:">
 <!ENTITY  permPlugins           "પ્લગઇનને સક્રિય કરો">
