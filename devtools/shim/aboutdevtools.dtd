@@ -16,12 +16,12 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
-<!ENTITY  aboutDevtools.enable.title "Включване на развойните инструменти на Firefox">
+<!ENTITY  aboutDevtools.enable.title "Включване на развойните инструменти във Firefox">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
-<!ENTITY  aboutDevtools.enable.inspectElementTitle "Включване на развойните инструменти на Firefox, за да можете да изследвате елементи">
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Включване на развойните инструменти във Firefox, за да изследвате елементи">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
@@ -31,12 +31,12 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
 <!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
-          "Разработвайте и отстранявайте дефекти от WebExtensions, обслужващи нишки и много други с инструментите на разработчика на Firefox.">
+          "Разработвайте и отстранявайте дефекти от WebExtensions, обслужващи нишки и много други с инструментите на разработчика във Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
-          "Използвахте клавишна комбинация от развойните инструменти. Ако се е случило по погрешка може да затворите този раздел.">
+          "Използвахте клавишна комбинация от развойните инструменти. Ако сте го направили по погрешка може да затворите този раздел.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
