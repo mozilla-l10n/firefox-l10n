@@ -17,6 +17,6 @@
 <!ENTITY switchLinksToNewTabs.label        "ბმულის ახალ ჩანართში გახსნისას, მაშინვე მასზე გადასვლა">
 <!ENTITY switchLinksToNewTabs.accesskey    "დ">
 
-<!ENTITY showTabsInTaskbar.label          "ჩანართების ესკიზების ჩვენება Windows-ის ამოცანათა ზოლში">
+<!ENTITY showTabsInTaskbar.label          "ჩანართების შეთვალიერება Windows-ის ამოცანათა ზოლში">
 <!ENTITY showTabsInTaskbar.accesskey      "ც">
 <!ENTITY tabsGroup.label          "ჩანართები">

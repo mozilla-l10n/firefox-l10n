@@ -286,7 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "დ">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "ვებშემმუშავებელი">
+<!ENTITY webDeveloperMenu.label       "ვებშემმუშავება">
 <!ENTITY webDeveloperMenu.accesskey   "ვ">
 
 <!ENTITY inspectContextMenu.label     "ელემენტზე დაკვირვება">
