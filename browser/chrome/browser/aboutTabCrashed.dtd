@@ -15,7 +15,7 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Е-ех. Разделът току-що се срина">
+<!ENTITY tabCrashed.header2 "Ееее. Разделът току-що се срина">
 <!ENTITY tabCrashed.offerHelp2 "Можем да ви помогнем!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Изберете &tabCrashed.restoreTab; за презареждане на страницата.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Изберете &tabCrashed.restoreTab; или &tabCrashed.restoreAll; за презареждане на страниците.">
