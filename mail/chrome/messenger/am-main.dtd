@@ -4,7 +4,9 @@
 
 <!-- extracted from am-main.xul -->
 
+<!ENTITY accountTitle.label "Configuración de cuenta">
 <!ENTITY name.label "Tu nombre:">
+<!ENTITY organization.label "Organización:">
 <!ENTITY edit.label "Editar…">
 <!ENTITY choose.label "Elegir…">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
