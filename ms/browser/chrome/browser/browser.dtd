@@ -189,7 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Undur">
-<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backCmd.accesskey            "U">
 <!ENTITY backButton.tooltip           "Undur satu halaman">
 <!ENTITY forwardCmd.label             "Maju">
 <!ENTITY forwardCmd.accesskey         "M">
