@@ -138,5 +138,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "நொறுக்கல் பாதுகாப்பு முடக்கிய வசதிகள்">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "சுற்றுவேலைகள்">
 
+<!ENTITY aboutSupport.mediaTitle "ஊடகம்">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "வெளியீடு சாதனங்கள்">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "உள்ளீடு சாதனங்கள்">
 <!ENTITY aboutSupport.mediaDeviceName "பெயர்">
 <!ENTITY aboutSupport.mediaDeviceGroup "குழு">
+<!ENTITY aboutSupport.mediaDeviceVendor "விற்பனையாளர்">
+<!ENTITY aboutSupport.mediaDeviceState "நிலை">
+<!ENTITY aboutSupport.mediaDevicePreferred "விருப்பமான">
+<!ENTITY aboutSupport.mediaDeviceFormat "முறை">
+

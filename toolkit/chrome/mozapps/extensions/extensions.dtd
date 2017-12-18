@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "கூடுதல் இணைப்பு மேலாளர் ">
 
 <!ENTITY search.placeholder                   "அனைத்து கூடுதல் இணைப்புகளையும் தேடு">
+
+<!ENTITY search.placeholder2                  "addons.mozilla.org தளத்தில் தேடு">
 <!ENTITY search.buttonlabel                   "தேடு">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -26,12 +28,13 @@
 <!ENTITY cmd.back.tooltip                     "ஒரு பக்கம் பின் செல்">
 <!ENTITY cmd.forward.tooltip                  "ஒரு பக்கம் முன் செல்">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "சில நீட்சிகளைச் சரிபார்க்க இயலாது">
 <!ENTITY showAllExtensions.button.label       "எல்லா நீட்சிகளையும் காட்டு">
 <!ENTITY debugAddons.label                    "கூடுதல் இணைப்புளை வழுநீக்கு">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "பாதுகாப்பு முறைமையால் அனைத்து கூடுதல் இணைப்புகளும் செயல்நீக்கப்பட்டன.">
 <!ENTITY warning.checkcompatibility.label          "கூடுதல் இணைப்பு ஒத்தியல்பு சரிபார்த்தல் செயல்நீக்கப்பட்டுள்ளது. நீங்கள் ஒத்தியல்பில்லாத கூடுதல் இணைப்புகளை கொண்டிருக்கலாம்.">
 <!ENTITY warning.checkcompatibility.enable.label   "செயல்படுத்து">
@@ -39,14 +42,14 @@
 <!ENTITY warning.updatesecurity.label              "கூடுதல் இணைப்பு புதுப்பித்தல் பாதுகாப்பு சரிபார்த்தல் செயல்நீக்கப்பட்டுள்ளது.நீங்கள் புதுப்பித்தல்களால் திருப்தியடையலாம்.">
 <!ENTITY warning.updatesecurity.enable.label       "செயல்படுத்து">
 <!ENTITY warning.updatesecurity.enable.tooltip     "கூடுதல் இணைப்பு மேம்படுத்தல் பாதுகாப்பு சரிபார்த்தலை செயல்படுத்து">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "தேடுக">
 <!ENTITY view.discover.label                  "துணை நிரல்களைப் பெறு">
 <!ENTITY view.recentUpdates.label             "சமீபத்திய புதுப்பித்தல்கள்">
 <!ENTITY view.availableUpdates.label          "இருக்கும் புதுப்பித்தல்கள்">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "புதியவை உள்ளதா எனப்பார்">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "சமீபத்திய மேம்படுத்தல்களை பார்">
@@ -74,8 +77,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "இருக்கும் புதுப்பித்தல்களை பார்">
 <!ENTITY updates.updateSelected.label         "புதுப்பித்தல்களை நிறுவு">
 <!ENTITY updates.updateSelected.tooltip       "இந்த பட்டியலில் இருக்கும் புதுப்பித்தல்களை நிறுவவும்">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "கூடுதல் தகவலைக் காட்டு">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "புதுப்பித்தல்களை தேடு">
@@ -119,15 +122,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "வெளியீட்டு அறிக்கையை மறை">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "இந்த புதுப்பித்தலின் வெளியீட்டு அறிக்கையை மறை">
 <!ENTITY cmd.findReplacement.label            "ஒரு மாற்றைக் கண்டுபிடி">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "கூடுதல் இணைப்பு என்றால் என்ன?">
 <!ENTITY discover.description2                "துணை நிரல்கள் என்பது கூடுதல் செயல்பாடு அல்லது பாணியுடன் &brandShortName; விருப்பமைக்க உதவும் பயன்பாடுகள் ஆகும். நேரம் சேமிக்கும் ஒரு பக்கப்பட்டை, ஒரு வானிலை அறிவிப்பி அல்லது உங்களுக்கு சொந்தமாக உள்ள &brandShortName; கருப்பொருளை முயற்சிக்கவும்.">
 <!ENTITY discover.footer                      "நீங்கள் இணையத்தில் இணைக்கப்படும் போது, இந்த பலகம் உங்களுக்கு மிகவும் பிரபலமான கூடுதல் இணைப்புகளை நீங்கள் முயற்சிக்க காட்டும்.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "பதிப்பு">
 <!ENTITY detail.lastupdated.label             "கடைசி புதுப்பிக்கப்பட்டது">
 <!ENTITY detail.creator.label                 "உருவாக்குபவர்">
@@ -156,17 +159,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "விருப்பங்கள்">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "இந்த கூடுதல் இணைப்பு விருப்பங்களை மாற்றவும்">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "மதிப்பெண்">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "இடைநிறுத்து">
 <!ENTITY progress.cancel.tooltip              "ரத்து">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "பெயர்">
 <!ENTITY sort.name.tooltip                    "பெயரால் வரிசைப்படுத்து">
 <!ENTITY sort.dateUpdated.label               "கடைசியாக புதுப்பிக்கப்பட்டது">
@@ -223,12 +226,12 @@
 <!ENTITY eula.accept                          "ஏற்று நிறுவு…">
 
 <!ENTITY settings.path.button.label           "உலாவு...">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "என்ன இது? நேரத்திற்கு நேரம் தொலைப்பதிவவானது சோதனைகளை நிறுவி இயக்க கூடும்.">
 <!ENTITY experiment.info.learnmore "மேலும் அறிய">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "ஏதோ ஒன்று இல்லையா? சில நீட்டிப்புகள் &brandShortName; உலாவியால் ஆதரிக்கப்படாது.">
 <!ENTITY pluginDeprecation.learnMore "மேலும் அறிய.">
 
-<!ENTITY legacyWarning.description "ஏதோ ஒன்று இல்லையா? சில நீட்டிப்புகள் &brandShortName; உலாவியால் ஆதரிக்கப்படாது.">
 <!ENTITY legacyWarning.showLegacy "மரபு நீட்சிகளைக் காண்பி">
 <!ENTITY legacyExtensions.title "மரபு நீட்சிகள்">
 <!ENTITY legacyExtensions.description "தற்போதைய &brandShortName; தரத்துடன் இல்லாததால் இந்த நீட்சிகள் முடக்கி வைக்கப்படும்.">
