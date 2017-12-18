@@ -651,7 +651,7 @@
 <!ENTITY folderContextRemove.accesskey "ذ">
 <!ENTITY folderContextCompact.label "اضغط">
 <!ENTITY folderContextCompact.accesskey "ط">
-<!ENTITY folderContextEmptyTrash.label "أفرغ المهملات">
+<!ENTITY folderContextEmptyTrash.label "أفرغ سلة المهملات">
 <!ENTITY folderContextEmptyTrash.accesskey "ف">
 <!ENTITY folderContextEmptyJunk.label "أفرِغ السُخام">
 <!ENTITY folderContextEmptyJunk.accesskey "ف">

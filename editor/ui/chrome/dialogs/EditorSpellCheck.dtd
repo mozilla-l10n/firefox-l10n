@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "دقق الإملاء">
 
 <!ENTITY misspelledWord.label "كلمة خاطئة:">
@@ -26,7 +26,7 @@
 <!ENTITY moreDictionaries.label "نزّل المزيد من المعاجم…">
 <!ENTITY addToUserDictionaryButton.label "أضِف كلمة">
 <!ENTITY addToUserDictionaryButton.accessKey "ض">
-<!ENTITY editUserDictionaryButton.label "حرر…">
+<!ENTITY editUserDictionaryButton.label "حرّر…">
 <!ENTITY editUserDictionaryButton.accessKey "ح">
 <!ENTITY recheckButton2.label "أعد تدقيق النص">
 <!ENTITY recheckButton2.accessKey "ع">
