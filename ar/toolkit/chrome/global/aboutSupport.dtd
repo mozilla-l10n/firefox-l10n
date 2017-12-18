@@ -152,3 +152,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "المعدل">
 <!ENTITY aboutSupport.mediaDeviceLatency "الكمون">
 
+<!ENTITY aboutSupport.intlTitle "التدويل و التوطين">
+<!ENTITY aboutSupport.intlAppTitle "إعدادات التطبيق">
+<!ENTITY aboutSupport.intlLocalesRequested "المحليات المطلوبة">
+<!ENTITY aboutSupport.intlLocalesAvailable "المحليات المتاحة">
+<!ENTITY aboutSupport.intlLocalesSupported "محليات التطبيق">
+<!ENTITY aboutSupport.intlLocalesDefault "المحلية المبدئية">
+<!ENTITY aboutSupport.intlOSTitle "نظام التشغيل">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "محليات النظام">
