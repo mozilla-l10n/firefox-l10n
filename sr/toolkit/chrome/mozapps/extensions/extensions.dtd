@@ -121,7 +121,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Прикажи напомене о издању овог ажурирања">
 <!ENTITY cmd.hideReleaseNotes.label           "Сакриј напомене о издању">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Сакриј напомене о издању овог ажурирања">
-<!ENTITY cmd.findReplacement.label            "Пронаћи замену">
+<!ENTITY cmd.findReplacement.label            "Пронађи замену">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
