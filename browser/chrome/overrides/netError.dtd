@@ -63,7 +63,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "შიგთავსი ვადაგასულია">
-<!ENTITY notCached.longDesc '<p>მოთხოვნილი შიგთავსი არაა ხელმისაწვდომი &brandShortName;-ის კავშირგარეშე საცავში.</p><ul><li>უსაფრთხოების მიზნით, &brandShortName; დაუკითხავად არ ითხოვს ხოლმე საიტიდან მნიშვნელოვანი მასალის ხელმეორედ ჩამოტვირთვას.</li><li>შიგთავსის ხელახალი მოთხოვნისთვის, დააწკაპეთ ღილაკს "სცადეთ ხელახლა".</li></ul>'>
+<!ENTITY notCached.longDesc "<p>მოთხოვნილი შიგთავსი არაა ხელმისაწვდომი &brandShortName;-ის კავშირგარეშე საცავში (კეშში).</p><ul><li>უსაფრთხოების მიზნით, &brandShortName; დაუკითხავად არ ითხოვს ხოლმე საიტიდან მნიშვნელოვანი მასალის ხელახლა ჩამოტვირთვას.</li><li>ჩამოტვირთვის ხელმეორედ მოთხოვნისთვის, დააწკაპეთ ღილაკზე „სცადეთ ხელახლა“.</li></ul>">
 
 <!ENTITY netOffline.title "კავშირგარეშე რეჟიმი">
 <!ENTITY netOffline.longDesc2 "
@@ -196,7 +196,7 @@ Strict Transport Security (HSTS) შეერთებას, რომ &brandSh
 <!ENTITY inadequateSecurityError.title "კავშირი დაუცველია">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს დაცვის ტექნოლოგიას, რომელიც მოძველებული და მარტივად შესატევია. თავდამსხმელმა შესაძლოა მარტივად იხილოს ის ინფორმაცია, რომელიც უსაფრთხო გეგონათ. სანამ საიტზე შეხვალთ, აუცილებელია მისმა ადმინისტრატორმა ეს შეცდომა მოაგვაროს.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ ტექნოლოგიას, რომელიც მოძველებული და დაუცველია. თავდამსხმელმა შესაძლოა მარტივად მიიღოს იმ მონაცემებზე წვდომა, რომელიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY prefReset.longDesc "შესაძლოა ამის მიზეზს, თქვენ მიერ მითითებული, ქსელის უსაფრთხოების პარამეტრები წარმოადგენდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?">
 <!ENTITY prefReset.label "ნაგულისხმევი პარამეტრების აღდგენა">
