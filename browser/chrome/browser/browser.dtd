@@ -355,6 +355,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Персонализиране на менюто и лентите с инструменти">
 <!ENTITY appMenuCustomizeExit.label "Изход от персонализиране">
 <!ENTITY appMenuCustomizeExit.tooltip "Край на персонализирането">
+
 <!ENTITY appMenuHistory.showAll.label "Цялата история">
 <!ENTITY appMenuHistory.clearRecent.label "Изчистване на скорошна история…">
 <!ENTITY appMenuHistory.restoreSession.label "Възстановяване на предишна сесия">
@@ -388,6 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента с раздели">
+
 
 <!ENTITY appMenuRecentHighlights.label "Последни акценти">
 
@@ -750,6 +752,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.removeBookmark.accessKey       "П">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Защитена връзка">
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включете синхронизирането на раздели, за да видите списък с раздели от други ваши устройства.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Търсене в синхронизираните">
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
@@ -843,7 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "С">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Преместете вашите любими елементи в лентата с инструменти или допълнителното меню.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Преместете своите любими елементи в лентата с инструменти или допълнителното меню.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Искате още инструменти?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете измежду хиляди добавки">
 <!ENTITY customizeMode.restoreDefaults "Стандартни настройки">
@@ -979,9 +985,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Рестарт за обновяване на &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Действия със страницата">
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
 <!ENTITY pageAction.removeFromUrlbar.label "Премахване от адресната лента">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Изпращане на раздела до устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
