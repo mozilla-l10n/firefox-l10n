@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Administrador de complementos">
 
 <!ENTITY search.placeholder                   "Buscar complementos">
+
+<!ENTITY search.placeholder2                  "Buscar en addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Buscar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Retroceder una página">
 <!ENTITY cmd.forward.tooltip                  "Avanzar una página">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Algunas extensiones no pueden ser verificadas">
 <!ENTITY showAllExtensions.button.label       "Mostrar todas las extensiones">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "¿Te perdiste de algo? Algunos plugins ya no están disponibles en &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Saber más.">
 
-<!ENTITY legacyWarning.description "¿Te falta algo? Algunas extensiones ya no son respaldadas por &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Mostrar las extensiones heredadas">
 <!ENTITY legacyExtensions.title "Extensiones heredadas">
 <!ENTITY legacyExtensions.description "Estas extensiones no cumplen los estándares actuales de &brandShortName; por lo que han sido desactivadas.">
