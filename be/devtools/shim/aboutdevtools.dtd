@@ -12,9 +12,11 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "Пра прылады распрацоўшчыка">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Уключыць прылады распрацоўшчыка Firefox">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
@@ -41,11 +43,14 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Падрабязней пра прылады распрацоўшчыка">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Уключыць прылады распрацоўшчыка">
 <!ENTITY  aboutDevtools.enable.closeButton "Закрыць гэту старонку">
 
 <!ENTITY  aboutDevtools.enable.closeButton2 "Закрыць гэту картку">
 
+<!ENTITY  aboutDevtools.welcome.title "Сардэчна запрашаем у прылады распрацоўшчыка Firefox!">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
@@ -54,6 +59,7 @@
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Падпісацца">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Дзякуй!">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->

@@ -17,6 +17,7 @@
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Налады">
+<!ENTITY engine.prefsWin.accesskey  "Н">
 <!ENTITY engine.prefs.label         "Налады">
 <!ENTITY engine.prefs.accesskey     "Н">
 <!ENTITY engine.addons.label        "Дадаткі">
