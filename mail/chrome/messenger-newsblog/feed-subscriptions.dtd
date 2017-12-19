@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "Feed-URL:">
 <!ENTITY feedLocation.accesskey      "F">
 <!ENTITY feedLocation.placeholder    "Fier in jildige feed-url yn om ta te foegjen">
+<!ENTITY feedLocation2.placeholder   "Fier in jildige feed-url yn">
 <!ENTITY locationValidate.label      "Falidearje">
 <!ENTITY validateText.label          "Kontrolearje falidaasje en helje in jildige url op.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Tafoegje">
 <!ENTITY button.addFeed.accesskey    "T">
+<!ENTITY button.verifyFeed.label     "Ferifiearje">
+<!ENTITY button.verifyFeed.accesskey "F">
 <!ENTITY button.updateFeed.label     "Fernije">
 <!ENTITY button.updateFeed.accesskey "F">
 <!ENTITY button.removeFeed.label     "Fuortsmite">
