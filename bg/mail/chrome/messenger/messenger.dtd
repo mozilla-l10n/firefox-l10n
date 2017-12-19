@@ -914,7 +914,7 @@
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Запазване на препратката като…">
 <!ENTITY saveLinkAsCmd.accesskey "к">
-<!ENTITY saveImageAsCmd.label "Запазване на изображението…">
+<!ENTITY saveImageAsCmd.label "Запазване на изображението като…">
 <!ENTITY saveImageAsCmd.accesskey "ж">
 <!ENTITY copyLinkCmd.label "Копиране на препратката">
 <!ENTITY copyLinkCmd.accesskey "К">
