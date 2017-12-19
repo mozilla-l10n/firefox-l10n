@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "mei namme fan ôfstjoerder en berjochtfoarbyld">
 <!ENTITY  buddyInfoOnly.label                 "allinnich mei namme fan ôfstjoerder">
 <!ENTITY  dummyNotification.label             "sûnder ynfo">
+<!ENTITY  getAttention.label                  "It taakbalke-item knipperje litte">
+<!ENTITY  getAttention.accesskey              "I">
+<!ENTITY  getAttentionMac.label               "It programmasymboal beweegje">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Spylje in lûd">
 <!ENTITY  play.label                          "Spylje">
