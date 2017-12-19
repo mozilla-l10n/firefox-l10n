@@ -27,7 +27,7 @@
 
 <!ENTITY searchTextBox.clear.label "Limpar">
 
-<!ENTITY fillLoginMenu.label          "Preencher login">
+<!ENTITY fillLoginMenu.label          "Preencher conta de acesso">
 <!ENTITY fillLoginMenu.accesskey      "P">
 <!ENTITY fillPasswordMenu.label       "Preencher senha">
 <!ENTITY fillPasswordMenu.accesskey   "P">
