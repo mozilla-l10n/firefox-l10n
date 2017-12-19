@@ -37,7 +37,19 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "e">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "E-postadresse:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "E-postadresse:">
+
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Lat klienten handtere utsending av e-post">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Denne innstillinga kan for tida berre endrast, viss du har oppretta ein kalender, der det er kalenderserveren som handterar utsending av e-post.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Denne innstillinga kan berre endrast, viss det er kalenderserveren som handterer utsending av e-post. Vel du å aktivere innstillinga, har kalenderen moglegheit for sjølv å sende ut e-post i staden for å overlate det til serveren.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Godta">
