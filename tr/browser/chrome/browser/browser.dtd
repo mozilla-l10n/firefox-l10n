@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Bağlantıyı cihaza gönder">
 <!ENTITY  sendLinkToDevice.accesskey         "c">
 <!ENTITY  sendToDeviceFeedback.label         "Gönderdi!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Sıraya alındı (çevrimdışı)">
 <!ENTITY  moveToNewWindow.label              "Yeni pencereye taşı">
 <!ENTITY  moveToNewWindow.accesskey          "Y">
 <!ENTITY  bookmarkAllTabs.label              "Tüm sekmeleri yer imlerine ekle…">
