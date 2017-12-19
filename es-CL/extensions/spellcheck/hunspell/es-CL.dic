@@ -1,4 +1,4 @@
-54628
+54656
 a
 ababa/S
 ababillar/RED
@@ -9092,6 +9092,7 @@ calefactorio/S
 caleidoscópico/GS
 caleidoscopio/S
 calendario/S
+calendarizar/REDA
 calentador/GS
 calentador/S
 calentamiento/pSr
@@ -9643,6 +9644,7 @@ capacidad/kS
 capacitación/S
 capacitador/GS
 capacitar/REDÀÁÄñ
+capacitor/S
 capadocio/GS
 capador/S
 capadura/S
@@ -12557,7 +12559,7 @@ combar/RED
 comba/S
 combate/S
 combatidor/S
-combatiente/S
+combatiente/wS
 combatir/REDÀÁÂÄñT
 combatividad/S
 combativo/SG
@@ -12919,8 +12921,10 @@ comúnmente
 común/S
 con
 conato/S
+concadenadamente
 concadenar/RED
 concatenación/S
+concatenadamente
 concatenar/RED
 cóncava/S
 cóncavo/GS
@@ -12936,7 +12940,8 @@ concelebrar/RED
 concentración/S
 concentrador/GS
 concentrado/S
-concentrar/REDÀÁÄÅñòôøT
+concentrar/hpREDÀÁÄÅñòôøT
+concéntricamente
 concepcionista/S
 concepción/S
 conceptismo/S
@@ -13341,7 +13346,7 @@ connotativo/SG
 connumerar
 conocedor/GS
 conocedor/hSGp
-conocer/IRDÀÁÂÄÅÆÇñòõ
+conocer/IÍRDÀÁÂÄÅÆÇñòõ
 conocible/Sp
 conocida/hp
 conocidamente
@@ -14798,6 +14803,7 @@ cuaresmal/S
 cuaresmar
 cuaresmario/S
 cuaresma/S
+cuark/S
 cuartago/S
 cuartal/S
 cuartana/S
@@ -15133,6 +15139,7 @@ curioso/S
 currar/REDÃÇ
 curricular/S
 currículo/S
+currículum
 curro/GS
 curro/S
 curruca/S
@@ -15748,6 +15755,7 @@ demora/S
 demoroso/GS
 demos
 demo/S
+démoselo
 demosofía/S
 demóstenes
 demostrable/kS
@@ -15809,10 +15817,6 @@ denotativo/GS
 densa/fS
 densar
 dense
-dénsela
-dénselas
-dénselo
-dénselos
 densidad/S
 densificar/RED
 denso/GS
@@ -15943,6 +15947,7 @@ dermatitis
 dermatoesqueleto/S
 dermatosis
 dermesto/S
+dérmico/GS
 dermis
 dermitis
 derogador/GS
@@ -18102,6 +18107,7 @@ diestro/GS
 dietario/S
 dietar/RED
 dieta/S
+dietético/GS
 Díez
 diezmar/RED
 diezmero/GS
@@ -19016,6 +19022,7 @@ driblar/RED
 dril/S
 drino/iS
 driza/S
+drogadicción/S
 drogadicto/GS
 droga/LS
 drogar/REDÁÅñò
@@ -21021,6 +21028,7 @@ enjuagadura/S
 enjuagar/REDÀÁñôø
 enjuagatorio/S
 enjuague/S
+enjugador/GS
 enjugador/S
 enjugar/REDÀÆ
 enjuiciamiento/S
@@ -23036,6 +23044,7 @@ estando
 estándola
 estándole
 estándoles
+estándolo
 estándome
 estándonos
 estándoos
@@ -23752,7 +23761,6 @@ excluso/GS
 excluyente/S
 Excmo/G
 excogitar/RED
-excombatiente/S
 excomulgador/S
 excomulgar/REDÀÁ
 excomunión/S
@@ -23797,7 +23805,6 @@ exequial/S
 exequias
 exfoliador/GS
 exfoliar/RED
-exfutbolista/S
 exhalador/GS
 exhalar/AREDÀ
 exhausta/k
@@ -23836,7 +23843,7 @@ existir/RED
 éxito/S
 exitosamente
 exitoso/GS
-exjugador/S
+exjugador/GS
 exocrino/GS
 éxodo/S
 exoesqueleto/S
@@ -25751,7 +25758,7 @@ fuste/aS
 fustigador/GS
 fustigar/RED
 Futaleufú
-futbolista/S
+futbolista/wS
 futbolístico/GS
 fútbol/S
 futesa/S
@@ -26348,6 +26355,8 @@ geométrico/GS
 geopolíticamente
 Georgia
 georgiano/SG
+geotermia
+geotérmico/GS
 geraniácea/S
 geraniáceo/GS
 geranio/S
@@ -26704,6 +26713,7 @@ graduar/IRDÁÂñT
 grafía/S
 gráfica/m
 gráficamente
+graficar/RED
 gráfica/S
 gráfico/GS
 gráfico/mGS
@@ -26940,7 +26950,7 @@ gruñón/GS
 grupal/S
 grupa/S
 grupera/S
-grupo/S
+grupo/sS
 grupuscular/S
 grupúsculo/S
 gruta/S
@@ -26948,6 +26958,7 @@ grutesco/GS
 gruyer/S
 gta
 guacamayo/S
+guacamole/S
 guaca/S
 guachaje/S
 guachapear/RED
@@ -27406,6 +27417,7 @@ hadar
 hadario/GS
 hada/S
 hado/S
+hadrón/S
 hafiz/S
 hágala
 hágalas
@@ -27584,6 +27596,7 @@ házmela
 házmelas
 házmelo
 házmelos
+hazmerreír/S
 haznos
 háznosla
 háznoslas
@@ -28287,6 +28300,7 @@ historicista/S
 histórico/nSG
 histórico/S
 historieta/S
+historificar/RED
 historiografía/S
 histriónicamente
 histrionisa/S
@@ -29970,6 +29984,7 @@ insoluto/GS
 insolvente
 insomne/S
 insomnio/S
+insonorización/S
 insonorizar/RED
 insoslayable/S
 insospechado/GS
@@ -30431,6 +30446,7 @@ irlandés/GS
 irlandés/S
 irle
 irles
+irlo
 irme
 irnos
 ironía/S
@@ -31018,7 +31034,7 @@ jugadas
 jugada/S
 jugadera/S
 jugado
-jugador/SGi
+jugador/wSG
 jugados
 jugamos
 jugando
@@ -32142,7 +32158,7 @@ licantrópicamente
 licaón/S
 licenciadillo/S
 licenciado/GS
-licenciado/SG
+licenciador/GS
 licenciamiento/S
 licenciar/REDñ
 licencia/S
@@ -33568,7 +33584,7 @@ mandamiento/Sh
 mandanga/S
 mandante/gS
 mandarín/GS
-mandar/REDÀÁÂÃÄÅÌÍÙñòô
+mandar/REDÀÁÂÃÄÅÌÍÏÙñòô
 mandarria/S
 mandatario/GS
 mandato/S
@@ -33606,6 +33622,7 @@ maneota/S
 manera/S
 manero/GS
 manes/h
+maneto/GS
 manezuela/S
 manferir/XD
 manfla/S
@@ -33859,6 +33876,7 @@ mapear/RED
 mapuche/S
 mapurite/S
 maquear/RED
+maquetación/S
 maqueta/S
 maquiavelismo/S
 maquiavelista/S
@@ -36355,6 +36373,7 @@ multifloro/GS
 multiforme/S
 multilateral/S
 multimedia/S
+multímetro/S
 multimillonario/GS
 multinacional/S
 multípara/S
@@ -37151,7 +37170,7 @@ nombrada/p
 nombradía/S
 nombrado/pSG
 nombramiento/S
-nombrar/REDÀÁÂÄÅÆ
+nombrar/pREDÀÁÂÄÅÆ
 nombre/pnSorb
 nomenclador/S
 nomenclátor/S
@@ -37387,6 +37406,7 @@ Nuria
 nutra/S
 nutria/S
 nutricio/GS
+nutricional/S
 nutrición/Sh
 nutrido/GS
 nutriente/S
@@ -38965,6 +38985,7 @@ paracaídas
 paracaidismo/S
 paracaidista/S
 paracentesis
+paracetamol
 parachoques
 paracleto/S
 paráclito/S
@@ -39012,6 +39033,8 @@ paralelepípedo/S
 paralelismo/S
 paralelogramo/S
 paralelo/GS
+paralimpiada/S
+paralimpíada/S
 paralímpico/GS
 parálisis
 paraliticar/RED
@@ -39023,6 +39046,8 @@ paralizar/REDÀÅñò
 paralogizar/RED
 paramentar/RED
 paramento/nS
+paramétrico/GS
+parametrizar/RED
 parámetro/S
 paramilitar/S
 páramo/S
@@ -42347,8 +42372,10 @@ prioradgo/S
 priora/S
 priorato/S
 priorazgo/S
+priori
 prioridad/S
 prioritario/GS
+priorización/S
 priorizar/REDÀ
 prior/S
 prioste/S
@@ -44219,7 +44246,6 @@ recompón
 recomponer/XÀÁÂ
 recompuesto/GS
 reconcentramiento/S
-reconcentrar/RED
 reconciliar/REDÁÂñò
 reconcomer/RED
 reconcomio/S
@@ -45029,7 +45055,6 @@ renguera/S
 renil/S
 renitencia/S
 renitente/S
-renombrar
 reno/S
 renovación/S
 renovador/GS
@@ -48402,6 +48427,7 @@ socarronería/S
 socarrón/SG
 soca/S
 socavar/REDÀÄÅò
+socavón/S
 socaz/S
 sochantre/S
 sociabilidad/Sk
@@ -48432,7 +48458,7 @@ soconusco/S
 socorredor/SG
 socorrer/REDÀÁÂÍñ
 socorrista/S
-socorro/S
+socorro/OS
 socrocio/S
 soda/S
 sódica/o
@@ -48987,6 +49013,7 @@ subscribir/RE
 subscriptor/GS
 subscrito/GS
 subsecretaría/S
+subsecuentemente
 subsecuente/S
 subseguir/XD
 subsidiariamente
@@ -50476,7 +50503,7 @@ teso/GS
 tesonero/GS
 tesón/S
 tesorería/S
-tesorero/GS
+tesorero/wGS
 tesorizar
 tesoro/S
 teso/S
@@ -50492,6 +50519,7 @@ testa/oS
 testarada/S
 testarazo/S
 testar/RED
+testar/REDÄ
 testarudamente
 testarudez/S
 testarudo/GS
