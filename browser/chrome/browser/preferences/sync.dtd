@@ -25,13 +25,13 @@
 <!ENTITY engine.prefs.title         "Променени настройки">
 <!ENTITY engine.addons.label        "Добавки">
 <!ENTITY engine.addons.title        "Разширения и теми за настолния Firefox">
-<!ENTITY engine.addons.accesskey    "б">
+<!ENTITY engine.addons.accesskey    "н">
 <!ENTITY engine.addresses.label     "Адреси">
 <!ENTITY engine.addresses.title     "Запазени адреси (само от настолния)">
 <!ENTITY engine.addresses.accesskey "а">
 <!ENTITY engine.creditcards.label   "Кредитни карти">
 <!ENTITY engine.creditcards.title   "Имена, номера и дати на изтичане (само от настолния)">
-<!ENTITY engine.creditcards.accesskey "к">
+<!ENTITY engine.creditcards.accesskey "н">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Име на текущото устройство">
