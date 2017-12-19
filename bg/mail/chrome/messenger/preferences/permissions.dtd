@@ -7,7 +7,7 @@
 
 <!ENTITY treehead.sitename.label      "Страница">
 <!ENTITY treehead.status.label        "Състояние">
-<!ENTITY removepermission.label       "Премахване">
+<!ENTITY removepermission.label       "Премахване на сайт">
 <!ENTITY removepermission.accesskey   "П">
 <!ENTITY removeallpermissions.label   "Премахване на всички">
 <!ENTITY removeallpermissions.accesskey "р">
