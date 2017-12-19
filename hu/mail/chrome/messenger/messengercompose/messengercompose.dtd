@@ -118,6 +118,17 @@
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "l">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Mozgatás az aljára">
 <!ENTITY moveAttachmentBottomPanelBtn.accesskey "a">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Kiválasztás rendezése: A – Z">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
+     the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "r">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Kiválasztás rendezése: Z – A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "r">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
