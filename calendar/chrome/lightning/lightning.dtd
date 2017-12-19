@@ -37,7 +37,19 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "E-mail:">
+
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Foarkar foar e-mailplanning oan clientside">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Foarearst kinne jo dit allinnich ynskeakelje nei it ynstellen fan dizze aginda yn it eigenskippenfinster derfan as de agindaserver de planning fersoarget.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Dizze opsje is allinnich beskikber as de agindaserver planning fersoarget. By ynskeakeljen kin weromfallen wurde nei de standert op e-mail basearre planning yn stee fan dit oan de server oer te litten.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Akseptearje">
