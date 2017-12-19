@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Nettprat">
 <!ENTITY goChatCmd.accesskey "e">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Mappe">
