@@ -30,7 +30,7 @@
 
 <!ENTITY play.label                       "Изпълняване">
 <!ENTITY play.accesskey                   "в">
-<!ENTITY systemsound.label                "Стандартен системен звук за ново писмо">
+<!ENTITY systemsound.label                "Стандартен системен звук за нови писма">
 <!ENTITY systemsound.accesskey            "м">
 <!ENTITY customsound.label                "Използване на следния звуков файл">
 <!ENTITY customsound.accesskey            "И">
