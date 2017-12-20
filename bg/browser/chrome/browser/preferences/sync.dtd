@@ -25,7 +25,7 @@
 <!ENTITY engine.prefs.title         "Променени настройки">
 <!ENTITY engine.addons.label        "Добавки">
 <!ENTITY engine.addons.title        "Разширения и теми за настолния Firefox">
-<!ENTITY engine.addons.accesskey    "н">
+<!ENTITY engine.addons.accesskey    "в">
 <!ENTITY engine.addresses.label     "Адреси">
 <!ENTITY engine.addresses.title     "Запазени адреси (само от настолния)">
 <!ENTITY engine.addresses.accesskey "а">
