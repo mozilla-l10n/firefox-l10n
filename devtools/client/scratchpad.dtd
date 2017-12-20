@@ -46,7 +46,7 @@
 <!ENTITY saveFileAsCmd.label          "احفظ باسم…">
 <!ENTITY saveFileAsCmd.accesskey      "س">
 
-<!ENTITY closeCmd.label               "أغلِق">
+<!ENTITY closeCmd.label               "أغلق">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "ق">
 

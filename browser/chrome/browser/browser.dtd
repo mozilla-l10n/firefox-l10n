@@ -341,7 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "ش">
 <!ENTITY viewSidebarMenu.label "الشريط الجانبي">
 <!ENTITY viewSidebarMenu.accesskey "ط">
-<!ENTITY viewCustomizeToolbar.label       "خصص…">
+<!ENTITY viewCustomizeToolbar.label       "خصّص…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ص">
 <!ENTITY overflowCustomizeToolbar.label       "خصّص شريط الأدوات…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ش">
