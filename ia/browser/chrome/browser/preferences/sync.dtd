@@ -11,6 +11,7 @@
 <!ENTITY engine.history.label       "Chronologia">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Authenticationes">
+<!ENTITY engine.logins.title        "Nomines de usator e contrasignos que tu salvava">
 <!ENTITY engine.logins.accesskey    "A">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -20,11 +21,15 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Preferentias">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.title         "Parametros gederal, de confidentialitate e de securitate que tu modificava">
 <!ENTITY engine.addons.label        "Additivos">
+<!ENTITY engine.addons.title        "Extensiones e themas pro Firefox scriptorio">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "Adresses">
+<!ENTITY engine.addresses.title     "Adresses postal que tu salvava (solo scriptorio)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Cartas de credito">
+<!ENTITY engine.creditcards.title   "Nomines, numeros e datas de expiration (solo scriptorio)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
