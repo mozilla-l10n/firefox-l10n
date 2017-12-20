@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "მისამართები">
 <!ENTITY itemSpellCheck.label                "მართლწერა">
 
+
 <!ENTITY forwardMsg.label                     "წერილების გადაგზავნა:">
 <!ENTITY forwardMsg.accesskey                 "F">
 <!ENTITY inline.label                         "წერილშივე">
@@ -55,7 +56,7 @@
 <!ENTITY sendOptions.label                     "გაგზავნის პარამეტრები…">
 <!ENTITY sendOptions.accesskey                 "S">
 
-<!ENTITY attachmentReminder.label              "ჩანართების სისრულის შემოწმება">
+<!ENTITY attachmentReminder.label              "გამოტოვებული დანართების შემოწმება">
 <!ENTITY attachmentReminder.accesskey          "m">
 <!ENTITY attachmentReminderOptions.label       "საკვანძო სიტყვები…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">

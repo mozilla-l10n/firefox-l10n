@@ -21,8 +21,6 @@
 <!ENTITY inReplyToField4.label "პასუხად ">
 <!ENTITY originalWebsite4.label "ვებსაიტი ">
 
-<!ENTITY editMessageDescription.label "ეს გხავნილის ესკიზია">
-<!ENTITY editMessageButton.label "რედაქცია…">
 <!ENTITY hdrArchiveButton1.label "არქივი">
 <!ENTITY hdrArchiveButton1.tooltip "ამ წერილის დაარქივება">
 <!ENTITY hdrSmartReplyButton1.label "სხარტი პასუხი">
@@ -51,7 +49,6 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "პასუხის ყოველთვის ჩვენება გამომგზავნისთვის">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton1.label "სხვა ქმედებები">
 <!ENTITY otherActionsOpenConversation1.label "გახსნა განხილვაში">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "გახსნა ახალ სარკმელში">
@@ -70,12 +67,12 @@
 <!ENTITY otherActionsPrint1.accesskey "P">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "თავიდანვე ჩანართების პანელის ჩვენება">
+<!ENTITY startExpandedCmd.label    "თავიდანვე დანართების არის ჩვენება">
 <!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "გახსნა">
-<!ENTITY openAttachmentCmd.accesskey		"O">  
+<!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "შენახვა როგორც…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "S">
 <!ENTITY detachAttachmentCmd.label    "განცალკევება…">
@@ -85,22 +82,22 @@
 <!ENTITY openAllAttachmentsCmd.label    "ყველას გახსნა…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "ტველას შენახვა…">
-<!ENTITY saveAllAttachmentsCmd.accesskey		"S">  
-<!ENTITY detachAllAttachmentsCmd.label    "ყველას განცალკევება…">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "D">  
-<!ENTITY deleteAllAttachmentsCmd.label    "ყველას წაშლა…">  
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">  
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "ყველას განცალკევება…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "ყველას წაშლა…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
 
-<!ENTITY openAttachment.tooltip "ჩანართი ფაილის გახსნა">
+<!ENTITY openAttachment.tooltip "დართული ფაილის გახსნა">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "შენახვა">
-<!ENTITY saveAttachmentButton1.tooltip     "ჩანართი ფაილის შენახვა">
+<!ENTITY saveAttachmentButton1.tooltip     "დართული ფაილის შენახვა">
 <!ENTITY saveAllAttachmentsButton1.label   "ყველას შენახვა">
-<!ENTITY saveAllAttachmentsButton1.tooltip "ყველა ჩანართი ფაილის შენახვა">
+<!ENTITY saveAllAttachmentsButton1.tooltip "ყველა დართული ფაილის შენახვა">
 
 <!ENTITY copyLinkCmd.label        "ბმის მისამართის ასლი">
-<!ENTITY copyLinkCmd.accesskey		"C">  
+<!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "წერილის კოდის კოპირება">
 <!ENTITY CopyMessageId.accesskey "C">

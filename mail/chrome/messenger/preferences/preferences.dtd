@@ -12,6 +12,7 @@
 <!ENTITY paneDisplay.title        "ჩვენება">
 <!ENTITY paneComposition.title    "შექმნა">
 <!ENTITY paneChat.title           "ჩათი">
-<!ENTITY paneAttachments.title    "ჩანართები">
+<!ENTITY paneAttachments.title    "დანართები">
 <!ENTITY paneSecurity.title       "უსაფრთხოება">
 <!ENTITY paneAdvanced.title       "დეტალები">
+
