@@ -50,7 +50,7 @@
 <!ENTITY redoCmd.label                                  "أعِد">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "ع">
-<!ENTITY cutCmd.label                                   "قص">
+<!ENTITY cutCmd.label                                   "قصّ">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "ق">
 <!ENTITY copyCmd.label                                  "انسخ">

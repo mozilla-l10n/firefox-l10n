@@ -22,7 +22,7 @@
 <!ENTITY showAnimatedAlert.label          "اعرض تنبيهًا">
 <!ENTITY showAnimatedAlert.accesskey      "ر">
 <!ENTITY notificationAlertSettings2.label "يمكن تعطيل التنبيهات و الصوت المبدئي من لوحة التنويهات في تفضيلات النظام.">
-<!ENTITY customizeMailAlert.label         "خصص…">
+<!ENTITY customizeMailAlert.label         "خصّص…">
 <!ENTITY customizeMailAlert.accesskey     "خ">
 
 <!ENTITY showTrayIcon.label               "أظهر أيقونة في لوحة النظام">
