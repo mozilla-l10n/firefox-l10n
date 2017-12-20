@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Gofyn bob tro">
 <!ENTITY  permAllow             "Caniatáu">
 <!ENTITY  permAllowSession      "Caniatáu ar gyfer y Sesiwn">
+<!ENTITY  permHide              "Cuddio">
 <!ENTITY  permBlock             "Rhwystro">
 <!ENTITY  permissionsFor        "Caniatâd ar gyfer:">
 <!ENTITY  permPlugins           "Gweithredu'r Ategion">
