@@ -86,6 +86,8 @@
 <!ENTITY renameAttachmentCmd.label "Přejmenovat přílohu…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY reorderAttachmentsCmd.label "Uspořádat přílohy…">
+<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -110,6 +112,17 @@
 <!ENTITY moveAttachmentUpPanelBtn.label "Posunout výše">
 <!ENTITY moveAttachmentDownPanelBtn.label "Posunout níže">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Přesunout dolů">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Uspořádat výběr od A do Z">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
+     the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Uspořádat výběr od Z do A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -121,12 +134,16 @@
      sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
      sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
      taken from the word "Sort", not from "Selection" or the sort direction part. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "o">
 <!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Uspořádat od Z do A">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "o">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Uspořádat výběr od A do Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "o">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Uspořádat výběr od Z do A">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Zobrazení">
@@ -309,6 +326,7 @@
 <!ENTITY renameAttachment.label "Přejmenovat…">
 <!ENTITY renameAttachment.accesskey "P">
 <!ENTITY reorderAttachments.label "Uspořádat přílohy…">
+<!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY selectAll.label "Vybrat vše">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Připojit soubor…">
