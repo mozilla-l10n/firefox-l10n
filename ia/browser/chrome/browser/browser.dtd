@@ -996,11 +996,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reinitiar pro actualisar &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Tu nove scheda cambiava.">
+<!ENTITY newTabControlled.keepButton.label "Mantener le cambios">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
+<!ENTITY newTabControlled.restoreButton.label "Restaurar le definitiones">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">
 <!ENTITY pageAction.addToUrlbar.label "Adder al barra de adresse">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover del barra de adresse">
 
+<!ENTITY pageAction.allowInUrlbar.label "Monstrar in le barra de adresse">
+<!ENTITY pageAction.disallowInUrlbar.label "Non monstrar in le barra de adresse">
+<!ENTITY pageAction.manageExtension.label "Gerer le extension…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Inviar le scheda a un apparato">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisante apparatos…">

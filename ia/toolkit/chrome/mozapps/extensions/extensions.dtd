@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Gestor de additivos">
 
 <!ENTITY search.placeholder                   "Cercar in tote le additivos">
+
+<!ENTITY search.placeholder2                  "Cercar sur addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Cercar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
