@@ -19,3 +19,4 @@
 <!ENTITY submitCrashes.accesskey          "S">
 
 <!ENTITY devTools.caption                 "შემმუშავებლის ხელსაწყოები">
+<!ENTITY allowRemoteConnections.label     "სხვა კომპიუტერებიდან კავშირის დაშვება">
