@@ -1008,6 +1008,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "Tynnu o'r Bar Cyfeiriadau">
 
 <!ENTITY pageAction.allowInUrlbar.label "Dangos yn y Bar Cyfeiriad">
+<!ENTITY pageAction.disallowInUrlbar.label "Peidio dangos yn y Bar Cyfeiriad">
+<!ENTITY pageAction.manageExtension.label "Rheoli Estyniad…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Anfon Tab i Ddyfais">
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
