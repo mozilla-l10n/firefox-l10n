@@ -34,7 +34,7 @@
 <!ENTITY saslMechanism.label               "Kaedah log masuk: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "Ringkas">
-<!ENTITY saslOff.accesskey		   "d">
+<!ENTITY saslOff.accesskey		   "k">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey		   "K">
 
