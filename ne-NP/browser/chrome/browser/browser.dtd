@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "लिङ्कलाई यन्त्रमा पठाउनुहोस्">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "पठाइयो!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "लामबद्ध (अफलाइन)">
 <!ENTITY  moveToNewWindow.label              "नयाँ सञ्झ्यालमा सार्नुहोस्">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सबै ट्याबहरूलाई पुस्तकचिनो गर्नुहोस्…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "पछाडि जाने">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "एक पृष्ठ पछाडि जानुहोस्">
 <!ENTITY forwardCmd.label             "अगाडि">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "एक पृष्ठ अगाडि जानुहोस्">
 <!ENTITY backForwardButtonMenu.tooltip "इतिहास हेर्न बाँया क्लिक गर्नुहोस् अथवा तल तान्नुहोस">
 <!ENTITY backForwardButtonMenuMac.tooltip "इतिहास हेर्न तल तान्नुहोस">
 <!ENTITY reloadCmd.label              "पुनः लोड गर्नुहोस्">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "रोक्नुहोस्">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "लोकेसन बारमा भएको स्थानमा जानुहोस्">
 <!ENTITY printButton.label            "मुद्रण गर्नुहोस्">
@@ -205,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "सन्देश प्यानल खोल">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "स्थान अनुरोध प्यानल खोल">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "एडअन स्थापना सन्देश प्यानल खोल्नुहोस्">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "क्यानभस निकासको अनुमति म्यानेज गर्नुहोस्">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "अफलाइन सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "गोप्यशब्द सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्रयोगमा रहेका प्लगइनहरू व्यवस्थापन गर्नुहोस्">
@@ -354,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "मेनु र उपकरणपट्टीहरू अनुकूलित गर्नुहोस्">
 <!ENTITY appMenuCustomizeExit.label "अनुकूलित निकास">
 <!ENTITY appMenuCustomizeExit.tooltip "अनुकूलित समाप्त">
+
 <!ENTITY appMenuHistory.showAll.label "सबै इतिहासहरू देखाउनुहोस्">
 <!ENTITY appMenuHistory.clearRecent.label "हालको इतिहास खाली गर्नुहोस्…">
 <!ENTITY appMenuHistory.restoreSession.label "अघिल्लो सत्र पुनर्स्थापना गर्नुहोस्">
@@ -384,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "अन्य यन्त्रहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync प्राथमिकताहरू">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।">
+<!ENTITY appMenuRemoteTabs.unverified.label "तपाईँको खाता प्रमाणित गर्न जरुरी छ।">
 <!ENTITY appMenuRemoteTabs.signin.label "सिङ्क गर्न साइन इन गर्नुहोस्">
 <!ENTITY appMenuRemoteTabs.managedevices.label "यन्त्रहरू प्रबन्धन गर्नुहोस्...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sync गरिएका ट्याब साइडबारहरू हेर्नुहोस्">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "अर्को उपकरण जडान गर्नुहोस्">
 
 <!ENTITY appMenuRecentHighlights.label "हालको उल्लेखनीय पक्षहरू">
 
@@ -563,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप पृष्ठभूमिको रूपमा बसाउनुहोस्…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "यो लिङ्कमा पुस्तकचिनो लगाउनुहोस्">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "यो फ्रेमलाई पुस्तकचिनो हाल्नुहोस्">
@@ -749,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "सम्पन्न भयो">
 <!ENTITY editBookmark.removeBookmark.accessKey       "र">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "साईट सुरक्षा">
+
 <!ENTITY identity.connectionSecure "जडानलाई सुरक्षित बनाउनुहोस्">
 <!ENTITY identity.connectionNotSecure "जडान सुरक्षित छैन">
 <!ENTITY identity.connectionFile "यो पृष्ठ तपाईँको कम्प्युटरमा भण्डारण छ।">
@@ -802,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "अझै समन्वयन नभएका ट्याबहरू…">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "अन्य यन्त्रहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।">
+<!ENTITY syncedTabs.sidebar.unverified.label   "तपाईँको खाता प्रमाणित गर्न जरुरी छ।">
 <!ENTITY syncedTabs.sidebar.notabs.label       "खुला ट्याबहरू छैनन्">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; को प्राथमिकताहरू खोल्नुहोस्">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "समक्रमण गरिएका ट्याबहरू खोजि गर्नुहोस्">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "अर्को उपकरण जडान गर्नुहोस्">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -978,9 +996,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "अद्यावधिक गर्न &brandShorterName; पुनःसुरु गर्नुहोस्">
 
+<!ENTITY newTabControlled.header.message "तपाईँको नया ट्याब परिवर्तन भएको छ।">
+<!ENTITY newTabControlled.keepButton.label "परिवर्तन राख्नुहोस">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "सेटिङ पुन:स्थापना गर्नुहोस्">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "पृष्ठ कार्यहरु">
 <!ENTITY pageAction.addToUrlbar.label "ठेगानापट्टिमा थप्नुहोस्">
 <!ENTITY pageAction.removeFromUrlbar.label "ठेगानापट्टिबाट हटाउनुहोस्">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "ट्याबलाई उपकरणमा पठाउनुहोस्">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणहरू समक्रमण गरिंदै…">
