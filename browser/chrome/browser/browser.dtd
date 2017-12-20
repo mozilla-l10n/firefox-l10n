@@ -573,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Gosod fel Cefndir Bwrdd Gwaith…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "B">
 <!ENTITY bookmarkPageCmd2.label       "Gosod Nod Tudalen i'r Dudalen">
+<!ENTITY bookmarkPageCmd2.accesskey   "N">
 <!ENTITY bookmarkThisLinkCmd.label      "Gosod Nod Tudalen i'r Ddolen">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "D">
 <!ENTITY bookmarkThisFrameCmd.label      "Gosod Nod Tudalen i'r Ffrâm">
@@ -761,6 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Diogelwch Gwefan">
 
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
@@ -815,6 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Dim tabiau wedi eu cydweddu … eto!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Mae angen i'ch cyfrif cael ei gwirio.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Dim tabiau agored">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Agor Dewisiadau &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -822,6 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Chwilio'r tabiau wedi eu cydweddu">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Cysylltu Dyfais Arall">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -992,11 +996,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Ailgychwyn i ddiweddaru &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Mae estyniad wedi newid y dudalen rydych yn ei gweld pan fyddwch yn agor Tab Newydd. Gallwch adfer eich gosodiadau os nad ydych yn dymuno'r newid hwn.">
+<!ENTITY newTabControlled.header.message "Mae eich Tab Newydd wedi newid.">
+<!ENTITY newTabControlled.keepButton.label "Cadw Newidiadau">
+<!ENTITY newTabControlled.keepButton.accesskey "N">
+<!ENTITY newTabControlled.restoreButton.label "Adfer y Gosodiadau">
+<!ENTITY newTabControlled.restoreButton.accesskey "A">
 
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
 <!ENTITY pageAction.addToUrlbar.label "Ychwanegu i'r Llyfr Cyfeiriadau">
 <!ENTITY pageAction.removeFromUrlbar.label "Tynnu o'r Bar Cyfeiriadau">
 
+<!ENTITY pageAction.allowInUrlbar.label "Dangos yn y Bar Cyfeiriad">
 
 <!ENTITY pageAction.sendTabToDevice.label "Anfon Tab i Ddyfais">
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
