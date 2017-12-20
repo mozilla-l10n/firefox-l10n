@@ -59,8 +59,10 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Rmes-d isallen, tixbula akked tiɣbula i yineflayen srid di tnaka-ik n urmas.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Imayl">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Qebleɣ akken ad tesqedcem talɣut-agi am akken i d-yettwasegza di <a class='external' href='https://www.mozilla.org/privacy/'>tsertit n tbaḍnit agi</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Jerred">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Tanemmirt!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Ma yella ur tsentmeḍ ara ajerred inek ar tebratt n isallen icudden ar Mozilla, ahat tzemreḍ akka tura. Ma ulac aɣilif, wali ma yella yimayl di tebwaṭ inek n imaylen neɣ ula deg ispamen.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
