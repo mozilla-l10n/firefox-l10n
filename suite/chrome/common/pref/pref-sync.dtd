@@ -5,7 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "გამართვა - &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; თქვენი ისტორიის, სანიშნების, პაროლების და გახსნილი ჩანართების ყველა მოწყობილობიდან წვდომის საშუალებას გაძლევთ.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; თქვენი ისტორიის, სანიშნების, პაროლების და გახსნილი დაფების ყველა მოწყობილობიდან წვდომის საშუალებას გაძლევთ.">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; ანგარიში">

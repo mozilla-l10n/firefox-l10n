@@ -13,7 +13,7 @@
 <!ENTITY tabmailCloseButton.tooltip "მიმდინარე დაფის დახურვა">
 <!ENTITY tabmailAllTabs.tooltip "ყველა დაფის სია">
 
-<!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- menu items: the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
 <!ENTITY newMessage.label "ახალი წერილი">
@@ -31,7 +31,7 @@
 <!ENTITY newAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "ფაილის გახსნა…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "ჩანართები">
+<!ENTITY openAttachmentCmd.label "დანართები">
 <!ENTITY openAttachmentCmd.accesskey "h">
 <!ENTITY saveAsMenu.label "შენახვა როგორც">
 <!ENTITY saveAsMenu.accesskey "S">
@@ -112,10 +112,10 @@
 <!ENTITY redoDefaultCmd.label "გამეორება">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label		"ფოსტის პულტი">
+<!ENTITY showMessengerToolbarCmd.label "ფოსტის პულტი">
 <!ENTITY showMessengerToolbarCmd.accesskey "M">
-<!ENTITY showSearchToolbarCmd.label		"ძიების პანელი">
-<!ENTITY showSearchToolbarCmd.accesskey	"e">
+<!ENTITY showSearchToolbarCmd.label "ძიების პანელი">
+<!ENTITY showSearchToolbarCmd.accesskey "e">
 <!ENTITY showTabsToolbarCmd.label "დაფების პულტი">
 <!ENTITY showTabsToolbarCmd.accesskey "T">
 
@@ -164,7 +164,7 @@
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "მიღების რიგით">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
-<!ENTITY sortByAttachmentsCmd.label "ჩანართებით">
+<!ENTITY sortByAttachmentsCmd.label "დანართებით">
 <!ENTITY sortByAttachmentsCmd.accesskey "m">
 <!ENTITY sortAscending.label "აღმავალი">
 <!ENTITY sortAscending.accesskey "A">
@@ -195,7 +195,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "წასაკითხი საქაღალდეების თვალის მიდევნება">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "იგნორირებული საქაღალდეები">
-<!ENTITY ignoredThreadsCmd.accesskey "i">  
+<!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "თავსართები">
 <!ENTITY headersMenu.accesskey "H">
@@ -223,7 +223,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "ნაგულისხმები ფორმატი">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
-<!ENTITY viewAttachmentsInlineCmd.label "ჩანართების წერილშივე ჩვენება">
+<!ENTITY viewAttachmentsInlineCmd.label "დანართების წერილშივე ჩვენება">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 <!ENTITY reloadCmd.label "განახლება">
 <!ENTITY reloadCmd.accesskey "R">
@@ -305,7 +305,7 @@
 <!ENTITY forwardAsMenu.accesskey "o">
 <!ENTITY forwardAsInline.label "წერლიშივე">
 <!ENTITY forwardAsInline.accesskey "I">
-<!ENTITY forwardAsAttachmentCmd.label "ჩანართი">
+<!ENTITY forwardAsAttachmentCmd.label "დანართი">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editMsgAsNewCmd.label "რედაქტირება, როგორც ახლის">
 <!ENTITY editMsgAsNewCmd.accesskey "E">
@@ -422,7 +422,7 @@
 <!ENTITY notJunkButton.label "არა ჯართი">
 <!ENTITY searchButton.title "დეტალური ძიება">
 
-<!--Tooltips-->
+<!-- Tooltips -->
 <!ENTITY menuBar.tooltip "მენიუს პანელი">
 <!ENTITY mailToolbar.tooltip "წერილების პულტი">
 <!ENTITY searchToolbar.tooltip "მისამართის პულტი">
@@ -445,8 +445,10 @@
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
 <!ENTITY notJunkButton.tooltip "შერჩეული წერილების არაჯართად მონიშვნა">
 
+<!-- Remote Content Button Popup -->
+
 <!-- Statusbar -->
-<!ENTITY  statusText.label "მზადაა">
+<!ENTITY statusText.label "მზადაა">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "წერილის ახალ სარკმელში გახსნა">
@@ -467,7 +469,7 @@
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
 <!ENTITY contextForward.label "გადაგზავნა">
 <!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsAttachment.label "გადაგზავნა ჩანართად">
+<!ENTITY contextForwardAsAttachment.label "გადაგზავნა დანართის სახით">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextArchive.label "არქივი">
 <!ENTITY contextArchive.accesskey "A">
@@ -529,22 +531,3 @@
 
 <!ENTITY all.label "ყველა">
 <!ENTITY all.accesskey "A">
-
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; ვარაუდობს, რომ ეს წერილი ჯართია.">
-<!ENTITY junkBarButton.label "არაა ჯართი">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "თქვენი უსაფრთხოებისთვის &brandShortName; ამ წერილში გარე ნახატების ჩვენებას ბლოკავს.">
-<!ENTITY loadRemoteContentButton.label "ნახატების ჩვენება">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; ვარაუდობს, რომ ეს წერილი შესაძლოა ელფოსტით შემოჭრის მცდელობაა.">
-<!ENTITY removePhishingBarButton.label "არაა შემოჭრა">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "მოთხოვნის იგნორირება">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "დასტურის გაგზავნა">
-<!ENTITY mdnBarSendButton.accesskey "S">
