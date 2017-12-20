@@ -996,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ا">
 <!ENTITY updateRestart.panelUI.label2 "راه‌اندازی مجدد برای بروزرسانی &brandShorterName;">
 
+<!ENTITY newTabControlled.message "یک افزایه صفحه‌ای که مشغول به مشاهده آن هستید را در هنگام باز کردن یک زبانه جدید تغییر می‌دهد. شما می توانید در صورتی که مایل هستید این تغییرات صورت نگیرد تنظیمات خود را بازگردانی کنید.">
+<!ENTITY newTabControlled.header.message "زبانه جدید شما دچار تغییر شده است.">
 <!ENTITY newTabControlled.keepButton.label "نگه‌داری تغییرات">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "بازیابی تنظیمات">
