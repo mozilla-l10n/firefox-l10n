@@ -3,8 +3,8 @@
 # LOCALIZATION NOTE: The 'en-US' strings in some URLs will be replaced with
 # your locale code, and link to your translated pages as soon as they're live.
 
-#define bookmarks_title სანიშნეები
-#define bookmarks_heading სანიშნეები
+#define bookmarks_title სანიშნები
+#define bookmarks_heading სანიშნები
 
 #define personal_toolbarfolder პირადი პულტის დასტა
 

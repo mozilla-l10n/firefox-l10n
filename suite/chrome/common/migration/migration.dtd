@@ -5,14 +5,14 @@
 <!ENTITY migrationWizard.title           "იმპორტის მეგზური">
 
 <!ENTITY importAllFrom.label             "ყველა ელემენტის იმპორტი პროგრამიდან:">
-<!ENTITY importBookmarksFrom.label       "სანიშნეების იმპორტი პროგრამიდან:">
+<!ENTITY importBookmarksFrom.label       "სანიშნების გადმოტანა:">
 
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label            "ფაილი">
 <!ENTITY importFromFile.accesskey        "F">
 <!ENTITY importFromNothing.label         "იმპორტის გარეშე">
-<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromNothing.accesskey     "D">
 
 <!ENTITY importSource.title              "იმპორტის პარამეტრები და თარიღი">
 <!ENTITY importItems.title               "საიმპორტო ელემენტები">

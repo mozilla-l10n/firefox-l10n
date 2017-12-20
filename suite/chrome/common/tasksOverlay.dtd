@@ -25,7 +25,7 @@
 <!ENTITY windowMenu.label "სარკმელი">
 <!ENTITY windowMenu.accesskey "W">
 
-<!ENTITY tasksMenu.label "სამარჯვები">
+<!ENTITY tasksMenu.label "ხელსაწყოები">
 <!ENTITY tasksMenu.accesskey "T">
 
 <!ENTITY datamanCmd.label "მონაცემთა მმართველი">

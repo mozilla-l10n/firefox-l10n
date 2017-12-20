@@ -73,7 +73,7 @@
 <!ENTITY syncTabsMenu.accesskey "O">
 
 <!-- Bookmarks Menu -->
-<!ENTITY bookmarksMenu.label "სანიშნეები">
+<!ENTITY bookmarksMenu.label "სანიშნები">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY addCurPageCmd.label "ამ გვერდის ჩანიშვნა">
 <!ENTITY addCurPageCmd.accesskey "B">
@@ -82,7 +82,7 @@
 <!ENTITY addCurPageAsCmd.commandkey "d">
 <!ENTITY addCurTabsAsCmd.label "ამ დაფების ჯგუფის ჩანიშვნა…">
 <!ENTITY addCurTabsAsCmd.accesskey "G">
-<!ENTITY manBookmarksCmd.label "სანიშნეების მართვა…">
+<!ENTITY manBookmarksCmd.label "სანიშნების მართვა…">
 <!ENTITY manBookmarksCmd.accesskey "M">
 <!ENTITY manBookmarksCmd.commandkey "b">
 

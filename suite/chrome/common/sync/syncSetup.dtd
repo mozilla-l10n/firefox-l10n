@@ -8,7 +8,7 @@
 
 <!ENTITY setup.pickSetupType.description "მოგესალმებით, თუ არასოდეს გისარგებლიათ &syncBrand.fullName.label; ბრაუზერით, ახალი ანგარიშის შექმნა დაგჭირდებათ.">
 <!ENTITY button.createNewAccount.label "ახალი ანგარიშის შექმნა">
-<!ENTITY setup.haveAccount.label      "უკვე მაქვს ანგარიში">
+<!ENTITY setup.haveAccount.label "უკვე მაქვს ანგარიში">
 <!ENTITY button.connect.label "დაკავშირება">
 
 <!ENTITY setup.choicePage.title.label     "გისარგებლიათ ადრე &syncBrand.fullName.label; ბრაუზერით?">
@@ -24,15 +24,15 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "პაროლი">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.recoveryKey.label       "აღდგენის კოდი">
-<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label     "აღდგენის კოდი">
+<!ENTITY signIn.recoveryKey.accesskey "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "ანგარიშის პარამეტრები">
 <!ENTITY setup.confirmPassword.label             "პაროლი ხელახლა">
 <!ENTITY setup.confirmPassword.accesskey         "C">
-<!ENTITY setup.emailAddress.label     "ელფოსტის მისამართი">
-<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.emailAddress.label                "ელფოსტის მისამართი">
+<!ENTITY setup.emailAddress.accesskey            "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "ვეთანხმები">
@@ -69,7 +69,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "შეიტანეთ მოწყობილობის მოწოდებული კოდი:">
 <!ENTITY addDevice.dialog.tryAgain.label    "გთხოვთ სცადოთ ხელახლა.">
 <!ENTITY addDevice.dialog.successful.label  "მოწყობილობა დაემატა. პირველად სინქრონიზაციას რამდენიმე წუთი დასჭირდება და ფონურ რეჟიმში დასრულდება.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "თქვენი მოწყობილობის გასააქტივებლად აღდგენის კოდის მითითებაა საჭირო. გთხოვთ ამობეჭდოთ ან შეინახოთ ეს კოდი და თან იქონიოთ.">
+<!ENTITY addDevice.dialog.recoveryKey.label "თქვენი მოწყობილობის გასააქტივებლად აღდგენის კოდის მითითებაა საჭირო. გთხოვთ ამობეჭდოთ ან შეინახოთ ეს კოდი და თან იქონიოთ.">
 <!ENTITY addDevice.dialog.connected.label   "მოწყობილობა მიერთებულია">
 
 <!-- Existing Account Page 2: Manual Login -->
@@ -87,7 +87,7 @@
 <!ENTITY syncMy.label               "სინქრონიზაცია">
 <!ENTITY engine.addons.label        "მოდულები">
 <!ENTITY engine.addons.accesskey    "A">
-<!ENTITY engine.bookmarks.label     "სანიშნეები">
+<!ENTITY engine.bookmarks.label     "სანიშნები">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "დაფები">
 <!ENTITY engine.tabs.accesskey      "T">

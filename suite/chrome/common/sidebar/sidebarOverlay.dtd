@@ -29,6 +29,6 @@
 <!ENTITY sidebar.open.tooltip        "სტენდის გახსნა">
 
 <!ENTITY sidebar.search.label         "ძიება">
-<!ENTITY sidebar.client-bookmarks.label     "სანიშნეები">
+<!ENTITY sidebar.client-bookmarks.label     "სანიშნები">
 <!ENTITY sidebar.client-history.label       "ისტორია">
 <!ENTITY sidebar.client-addressbook.label   "წიგნაკი">
