@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Nodau Tudalen">
 <!ENTITY engine.bookmarks.accesskey "T">
 <!ENTITY engine.tabs.label2         "Agor Tabiau">
+<!ENTITY engine.tabs.title          "Rhestr o'r hyn sydd ar agor ar bob dyfais wedi eu cydweddu">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Hanes">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.logins.label        "Mewngofnodion">
+<!ENTITY engine.logins.title        "Enwau defnyddwyr a chyfrineiriau rydych wedi eu cadw">
 <!ENTITY engine.logins.accesskey    "M">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Dewisiadau">
+<!ENTITY engine.prefsWin.accesskey  "C">
 <!ENTITY engine.prefs.label         "Dewisiadau">
 <!ENTITY engine.prefs.accesskey     "D">
+<!ENTITY engine.prefs.title         "Gosodiadau Cyffredinol, Preifatrwydd a Diogelwch rydych wedi eu newid">
 <!ENTITY engine.addons.label        "Ychwanegion">
+<!ENTITY engine.addons.title        "Estyniadau a themâu ar gyfer Firefox bwrdd gwaith">
 <!ENTITY engine.addons.accesskey    "Y">
 <!ENTITY engine.addresses.label     "Cyfeiriadau">
+<!ENTITY engine.addresses.title     "Cyfeiriadau post rydych wedi eu cadw (bwrdd gwaith yn unig)">
 <!ENTITY engine.addresses.accesskey "y">
 <!ENTITY engine.creditcards.label   "Cardiau Credyd">
+<!ENTITY engine.creditcards.title   "Enwau, rhifau a dyddiadau dod i ben (bwrdd gwaith yn unig)">
 <!ENTITY engine.creditcards.accesskey "r">
 
 <!-- Device Settings -->
