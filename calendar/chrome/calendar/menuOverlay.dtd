@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Event Menu -->
 
+<!-- Event Menu -->
 <!ENTITY event.new.event                        "حدث جديد…">
 <!ENTITY event.new.event.accesskey              "ج">
 
@@ -22,15 +22,15 @@
 <!ENTITY calendar.deletecalendar.accesskey      "ح">
 <!ENTITY calendar.unsubscribecalendar.label     "ألغ الاشتراك من التقويم المحدد…">
 <!ENTITY calendar.unsubscribecalendar.accesskey "غ">
+
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
-
 <!ENTITY calendar.removecalendar.label          "أزل التقويم المحدد…">
 <!ENTITY calendar.removecalendar.accesskey      "ز">
 
 
-<!ENTITY calendar.menu.customize.label          "خصص…">
+<!ENTITY calendar.menu.customize.label          "خصّص…">
 <!ENTITY calendar.menu.customize.accesskey      "ص">
 
 <!ENTITY showUnifinderCmd.label                 "اعثر على أحداث">
