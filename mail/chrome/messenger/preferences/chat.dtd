@@ -31,7 +31,9 @@ sentence. -->
 <!ENTITY  completeNotification.label          "se jménem odesílatele a náhledem zprávy">
 <!ENTITY  buddyInfoOnly.label                 "pouze se jménem odesílatele">
 <!ENTITY  dummyNotification.label             "bez dalších informací">
+<!ENTITY  getAttention.accesskey              "F">
 <!ENTITY  getAttentionMac.label               "Animovat ikonku v doku">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "P">
 <!ENTITY  chatSound.label                     "Přehrát zvuk">
 <!ENTITY  play.label                          "Přehrát">
