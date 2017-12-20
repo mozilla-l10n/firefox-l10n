@@ -6,16 +6,14 @@
 <!ENTITY pref.locationBar.title                "მისამართების პანელი">
 
 <!ENTITY autoComplete.label                    "თვითდასრულება">
-<!ENTITY enableAutoComplete.label              "თვითდასრულება ისტორიაზე დაყრდნობით ტექსტის შეტანისას">
-<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteMatchHistory.label        "საიტების თვითშემოთავაზება ისტორიიდან">
+<!ENTITY autoCompleteMatchBookmarks.label      "საიტების თვითშემოთავაზება სანიშნებიდან">
 <!ENTITY autoCompleteAutoFill.label            "თვითშევსება საუკეთესო თანხვედრის მიხედვით">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "თანხვედრათა შედეგების სიის ჩვენება">
 <!ENTITY autoCompleteShowPopup.accesskey       "S">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "თანხვედრები მხოლოდ ადრე მითითებული ვებსაიტებთან">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "მხოლოდ შესაბამისი მისამართები, საიტის სათაურების გარეშე">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
@@ -30,10 +28,6 @@
 <!ENTITY formatting.label                      "დაფორმატება">
 <!ENTITY domainFormatting.label                "დომენის გამოკვეთა ვებსაიტებისა და FTP სერვერებისთვის">
 <!ENTITY domainFormatting.accesskey            "d">
-
-<!ENTITY searchEngine.label                    "ინტერნეტის საძიებო სისტემა">
-<!ENTITY showSearchEngine.label                "ნაგულისხმები საძიებო სისტემის ჩვენება">
-<!ENTITY showSearchEngine.accesskey            "e">
 
 <!ENTITY unknownLocations.label                "უცნობი მისამართები">
 <!ENTITY domainGuessing.label                  "მისამართებისთვის &quot;www.&quot; და &quot;.com&quot; დამატება თუ ვებგვერდი ვერ მოიძებნა">

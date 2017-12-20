@@ -6,7 +6,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "თქვენი უფლებების შესახებ">
-<!ENTITY rights.intro "&brandFullName; ბრაუზერი უფასო, ღია კოდების პროგრამაა, რომელიც შექმნილია ათასობით მონაწილის მიერ მსოფლიოს ყველა კუთხიდან. რამდენიმე რამ, რაც უნდა იცოდეთ:">
+<!ENTITY rights.intro "&brandFullName; ბრაუზერი უფასო, ღია კოდის პროგრამაა, რომელიც შექმნილია ათასობით მონაწილის მიერ მსოფლიოს ყველა კუთხიდან. რამდენიმე რამ, რაც უნდა იცოდეთ:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -42,6 +42,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "&brandFullName; გთავაზობთ ინტერნეტზე დაფუძნებულ მომსახურებებს (&quot;სერვისებს&quot;), რომელიც ხელმისაწვდომია &brandShortName;-ის ორობითი კოდის ვერსიით სარგებლობისას, ქვემოთ მოცემული პირობების თანახმად.  ზოგიერთი მათგანი (მაგალითად, დამატებების შემოთავაზებისა და განახლების სერვისები, უსაფრთხო თვალიერების სერვისი, ან ადგილმდებარეობაზე დაფუძნებული მომსახურებები) ჩართულია ნაგულისხმევად.  თუ არ გსურთ რომელიმე ამ სერვისით სარგებლობა, ან მოცემული პირობები მიუღებელია, მათი გამორთვის ინსტრუქციები შეგიძლიათ იხილოთ ">
 <!ENTITY rights3.webservices-b "აქ">
 <!ENTITY rights3.webservices-c ". დანარჩენი ფუნქციები და მომსახურებები შეგიძლიათ ჩართოთ, ან გამორთოთ პროგრამის პარამეტრებიდან.">
 
