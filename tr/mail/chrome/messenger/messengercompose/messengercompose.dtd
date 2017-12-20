@@ -118,19 +118,38 @@
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "A">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Alta taşı">
 <!ENTITY moveAttachmentBottomPanelBtn.accesskey "t">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Seçimi sırala: A - Z">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
+     the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "S">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Seçimi sırala: Z - A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "S">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Sırala: A - Z">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsPanelBtn.Sort.ZA.accesskey,
      sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
      sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
      taken from the word "Sort", not from "Selection" or the sort direction part. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "S">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Sırala: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "S">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Seçimi sırala: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "S">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Seçimi sırala: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "S">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Görünüm">
@@ -312,6 +331,8 @@
 <!ENTITY removeAttachment.accesskey "k">
 <!ENTITY renameAttachment.label "Adını değiştir…">
 <!ENTITY renameAttachment.accesskey "r">
+<!ENTITY reorderAttachments.label "Eklerin sırasını değiştir…">
+<!ENTITY reorderAttachments.accesskey "d">
 <!ENTITY selectAll.label "Tümünü Seç">
 <!ENTITY selectAll.accesskey "e">
 <!ENTITY attachFile.label "Dosya ekle…">

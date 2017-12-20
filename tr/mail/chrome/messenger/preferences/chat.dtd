@@ -31,6 +31,8 @@ sentence. -->
 <!ENTITY  completeNotification.label          "gönderenin adı ve ileti önizlemesiyle">
 <!ENTITY  buddyInfoOnly.label                 "yalnızca gönderenin adıyla">
 <!ENTITY  dummyNotification.label             "hiçbir bilgi olmadan">
+<!ENTITY  getAttentionMac.label               "Hareketli dock simgesi">
+<!ENTITY  getAttentionMac.accesskey           "H">
 <!ENTITY  chatSound.accesskey                 "S">
 <!ENTITY  chatSound.label                     "Ses çal">
 <!ENTITY  play.label                          "Çal">
