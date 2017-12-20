@@ -9,4 +9,4 @@
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Worker 未启用。">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "没有已注册的 Service Worker。">
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "尚无已注册的 Service Worker。">
