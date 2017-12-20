@@ -13,6 +13,7 @@
 <!ENTITY port       "Cổng:">
 <!ENTITY connect    "Kết nối">
 <!ENTITY connecting "Đang kết nối…">
+<!ENTITY availableAddons "Các tiện ích từ xa có sẵn:">
 <!ENTITY availableTabs "Các thẻ từ xa có hiệu lực:">
 <!ENTITY availableProcesses "Các xử lý từ xa còn hoạt động:">
 <!ENTITY connectionError "Lỗi:">
@@ -23,5 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+<!ENTITY remoteHelp "Công cụ phát triển Firefox có thể gỡ lỗi từ xa các thiết bị (Firefox cho Android và Firefox OS là một ví dụ). Hãy chắc chắn rằng bạn đã bật tùy chọn ‘Gỡ lỗi từ xa’ trong thiết bị từ xa. Để biết thêm, xem ">
+<!ENTITY remoteDocumentation "tài liệu">
 <!ENTITY remoteHelpSuffix ".">
 
