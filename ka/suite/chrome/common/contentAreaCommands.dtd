@@ -59,11 +59,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label     "სამუშაო ფონის მითითება…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "a">
-<!ENTITY bookmarkPageCmd.label        "გვერდის სანიშნეებში შეტანა…">
+<!ENTITY bookmarkPageCmd.label        "გვერდის ჩანიშვნა…">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
-<!ENTITY bookmarkLinkCmd.label        "ბმის სანიშნეებში შეტანა…">
+<!ENTITY bookmarkLinkCmd.label        "ბმულის ჩანიშვნა…">
 <!ENTITY bookmarkLinkCmd.accesskey    "B">
-<!ENTITY bookmarkFrameCmd.label       "ბლოკის სანიშნეებში შეტანა…">
+<!ENTITY bookmarkFrameCmd.label       "ჩარჩოს ჩანიშვნა…">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
 <!ENTITY savePageAsCmd.label          "გვერდის შენახვა როგორც…">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა…">

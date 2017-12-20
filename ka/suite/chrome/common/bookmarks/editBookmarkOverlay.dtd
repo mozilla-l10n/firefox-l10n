@@ -12,7 +12,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "დასტა:">
 <!ENTITY editBookmarkOverlay.folder.accesskey                "F">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "სანიშნეთა ყველა დასტის ჩვენება">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "სანიშნების ყველა საქაღალდის ჩვენება">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "დამალვა">
 <!ENTITY editBookmarkOverlay.tags.label                      "ჭდეები:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "a">
@@ -22,8 +22,6 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "საკვანძო სიტყვა:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "ყველა ჭდის ჩვენება">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "ამ სანიშნის ასახვა სტენდზე">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "o">
 <!ENTITY editBookmarkOverlay.choose.label                    "შერჩევა…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "ახალი დასტა">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY bookmarksManager.title         "სანიშნეთა მმართველი">
+<!ENTITY bookmarksManager.title         "სანიშნების მმართველი">
 <!ENTITY bookmarksManager.width         "700">
 <!ENTITY bookmarksManager.height        "500">
 
@@ -22,7 +22,7 @@
 <!ENTITY view.sortDescending.label      "უკუანბანურად">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "ძიება სანიშნეებში…">
+<!ENTITY cmd.findInBookmarks.label      "ძიება სანიშნებში…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
 <!ENTITY cmd.findCurrent.label          "ძიება მიმდინარე კოლექციაში…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
@@ -63,7 +63,7 @@
 <!ENTITY cmd.sortby_name.label              "დახარისხება სახელით">
 <!ENTITY cmd.sortby_name.accesskey          "r">
 
-<!ENTITY cmd.new_bookmark.label            "ახალი სანიშნე…">
+<!ENTITY cmd.new_bookmark.label            "ახალი სანიშნი…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "ახალი დასტა…">
 <!ENTITY cmd.new_folder.accesskey          "o">
@@ -88,12 +88,12 @@
 <!ENTITY col.lastmodified.label  "შეიცვალა">
 
 <!ENTITY search.label                              "ძიება:">
-<!ENTITY search.placeholder                        "ძიება სანიშნეებში">
+<!ENTITY search.placeholder                        "ძიება სანიშნებში">
 
 <!ENTITY search.in.label                           "ძიება:">
 <!ENTITY search.scopeFolder.label                  "შერჩეული დასტა">
 <!ENTITY search.scopeFolder.accesskey              "m">
-<!ENTITY search.scopeBookmarks.label               "სანიშნეები">
+<!ENTITY search.scopeBookmarks.label               "სანიშნები">
 <!ENTITY search.scopeBookmarks.accesskey           "B">
 <!ENTITY saveSearch.label                          "შენახვა">
 <!ENTITY saveSearch.accesskey                      "S">
