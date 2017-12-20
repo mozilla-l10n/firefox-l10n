@@ -158,6 +158,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlAppTitle "Parametros del application">
 <!ENTITY aboutSupport.intlLocalesRequested "Localisationes requirite">
 <!ENTITY aboutSupport.intlLocalesAvailable "Localisationes disponibile">
+<!ENTITY aboutSupport.intlLocalesSupported "Linguas del application">
 <!ENTITY aboutSupport.intlLocalesDefault "Localisation predefinite">
 <!ENTITY aboutSupport.intlOSTitle "Systema operative">
 <!ENTITY aboutSupport.intlOSPrefsSystemLocales "Localisationes del systema">
