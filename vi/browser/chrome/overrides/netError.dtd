@@ -82,6 +82,7 @@
 <!ENTITY unknownSocketType.title "Nhận được phản hồi lạ từ máy chủ">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Kiểm tra để chắc chắn rằng hệ thống của bạn có Trình quản lí Bảo mật Cá nhân đã được cài đặt.</li> <li>Điều này có thể là do cấu hình không chuẩn trên máy chủ.</li> </ul>">
 
+<!ENTITY nssFailure2.title "Không thể kết nối an toàn">
 <!ENTITY nssFailure2.longDesc2 "<ul><li>Không thể hiển thị trang bạn muốn xem vì không thể kiểm tra tính xác thực của dữ liệu nhận được.</li><li>Vui lòng liên hệ chủ trang web để báo với họ vấn đề này.</li></ul>">
 
 <!ENTITY certerror.longpagetitle1 "Kết nối của bạn không an toàn">
@@ -110,6 +111,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "Không thể kết nối một cách an toàn">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Thông tin bổ sung: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
