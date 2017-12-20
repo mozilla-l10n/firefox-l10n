@@ -818,7 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "想查看您在其他设备上的标签页吗？">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "登录即可查看您的其他设备上的标签页列表。">
 <!ENTITY syncedTabs.sidebar.unverified.label   "您的账号需要验证。">
-<!ENTITY syncedTabs.sidebar.notabs.label       "没有已打开的标签页">
+<!ENTITY syncedTabs.sidebar.notabs.label       "尚无打开的标签页">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "打开&syncBrand.shortName.label;服务首选项">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
