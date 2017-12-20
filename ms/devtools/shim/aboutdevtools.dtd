@@ -41,14 +41,23 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Ketahui selanjutnya perihal Alatan Pembangun">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Dayakan Alatan Pembangun">
+<!ENTITY  aboutDevtools.enable.closeButton "Tutup halaman ini">
 
+<!ENTITY  aboutDevtools.enable.closeButton2 "Tutup Tab ini">
 
+<!ENTITY  aboutDevtools.welcome.title "Selamat datang ke Alatan Pembangun Firefox!">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "E-mel">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Langgan">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Terima kasih!">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
