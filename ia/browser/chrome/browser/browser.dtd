@@ -996,6 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reinitiar pro actualisar &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Un extension cambiava le pagina que tu vide quando tu aperi un scheda nove. Tu pote restaurar iste parametros si tu non vole iste modification.">
 <!ENTITY newTabControlled.header.message "Tu nove scheda cambiava.">
 <!ENTITY newTabControlled.keepButton.label "Mantener le cambios">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
