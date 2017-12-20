@@ -11,6 +11,7 @@
 <!ENTITY engine.history.label       "Ferill">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Innskráningar">
+<!ENTITY engine.logins.title        "Notandanöfn og lykilorð sem þú hefur vistað">
 <!ENTITY engine.logins.accesskey    "I">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -21,6 +22,7 @@
 <!ENTITY engine.prefs.label         "Valkostir">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Viðbætur">
+<!ENTITY engine.addons.title        "Viðbætur og þema fyrir Firefox á borðtölvu">
 <!ENTITY engine.addons.accesskey    "æ">
 <!ENTITY engine.addresses.label     "Vistföng">
 <!ENTITY engine.addresses.accesskey "V">
