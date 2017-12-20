@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Senda tengil á tæki">
 <!ENTITY  sendLinkToDevice.accesskey         "æ">
 <!ENTITY  sendToDeviceFeedback.label         "Sent!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Í biðröð (ótengt)">
 <!ENTITY  moveToNewWindow.label              "Færa yfir í nýjan glugga">
 <!ENTITY  moveToNewWindow.accesskey          "g">
 <!ENTITY  bookmarkAllTabs.label              "Setja alla flipa í bókamerki…">
@@ -390,10 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Viltu sjá hérna þína flipa frá öðrum tækjum?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Samstilla stillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Nauðsynlegt er að staðfesta reikning.">
 <!ENTITY appMenuRemoteTabs.signin.label "Skráðu þig inn í Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sýsla með tæki…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Skoða samstillta flipavalmynd">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Tengja annað tæki">
 
 <!ENTITY appMenuRecentHighlights.label "Nýlegir atburðir">
 
@@ -759,6 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Öryggi svæðis">
 
 <!ENTITY identity.connectionSecure "Örugg tenging">
 <!ENTITY identity.connectionNotSecure "Tenging er ekki örugg">
@@ -813,6 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Engir samstilltir flipar… ennþá!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Viltu sjá hérna þína flipa frá öðrum tækjum?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Nauðsynlegt er að staðfesta reikning.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Engir opnir flipar">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Opna &syncBrand.shortName.label; stillingar">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -820,6 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Leita í samstilltum flipum">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Tengja annað tæki">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -990,6 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Nýi flipinn breyttist.">
 <!ENTITY newTabControlled.keepButton.label "Halda breytingum">
 <!ENTITY newTabControlled.keepButton.accesskey "g">
 <!ENTITY newTabControlled.restoreButton.label "Endurheimta stillingar">
@@ -999,6 +1006,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjarlægja úr staðsetningarslá">
 
+<!ENTITY pageAction.allowInUrlbar.label "Sýna í staðsetningarslá">
+<!ENTITY pageAction.disallowInUrlbar.label "Ekki sýna í staðsetningarslá">
+<!ENTITY pageAction.manageExtension.label "Sýsla með viðbót…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Senda flipa á tæki">
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
