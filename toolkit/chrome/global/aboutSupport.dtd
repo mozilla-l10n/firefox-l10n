@@ -147,4 +147,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceState "நிலை">
 <!ENTITY aboutSupport.mediaDevicePreferred "விருப்பமான">
 <!ENTITY aboutSupport.mediaDeviceFormat "முறை">
+<!ENTITY aboutSupport.mediaDeviceChannels "சேனல்கள்">
 
