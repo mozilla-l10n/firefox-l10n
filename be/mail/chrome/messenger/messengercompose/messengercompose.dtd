@@ -207,6 +207,7 @@
 <!ENTITY priorityMenu.label "Прыярытэт">
 <!ENTITY priorityMenu.accesskey "П">
 <!ENTITY priorityButton.title "Прыярытэт">
+<!ENTITY priorityButton.tooltiptext "Змена прыярытэту паведамлення">
 <!ENTITY priorityButton.label "Прыярытэт:">
 <!ENTITY lowestPriorityCmd.label "Найніжэйшы">
 <!ENTITY lowestPriorityCmd.accesskey "й">
