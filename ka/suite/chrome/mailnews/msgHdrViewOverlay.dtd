@@ -26,21 +26,21 @@
 <!ENTITY editMessage.label                 "ესკიზის რედაქტირება…">
 <!ENTITY editMessage.accesskey             "D">
 
-<!ENTITY attachmentsTree.label             "ჩანართები:">
+<!ENTITY attachmentsTree.label             "დანართები:">
 <!ENTITY attachmentsTree.accesskey         "c">
 <!ENTITY openAttachmentCmd.label           "გახსნა">
-<!ENTITY openAttachmentCmd.accesskey		"O">  
+<!ENTITY openAttachmentCmd.accesskey       "O">
 <!ENTITY viewAttachmentCmd.label           "წყაროს ჩვენება">
 <!ENTITY viewAttachmentCmd.accesskey       "V">
 <!ENTITY saveAsAttachmentCmd.label         "შენახვა…">
-<!ENTITY saveAsAttachmentCmd.accesskey		"A"> 
+<!ENTITY saveAsAttachmentCmd.accesskey     "A">
 <!ENTITY detachAttachmentCmd.label         "განცალკევება…">
 <!ENTITY detachAttachmentCmd.accesskey     "h">
 <!ENTITY deleteAttachmentCmd.label         "წაშლა">
 <!ENTITY deleteAttachmentCmd.accesskey     "t">
 <!ENTITY saveAllAttachmentsCmd.label       "ყველას შენახვა…">
-<!ENTITY saveAllAttachmentsCmd.accesskey		"S">  
-<!ENTITY detachAllAttachmentsCmd.label    "ყველას განცალკევება…">  
-<!ENTITY detachAllAttachmentsCmd.accesskey    "D">  
-<!ENTITY deleteAllAttachmentsCmd.label    "ყველას წაშლა…">  
+<!ENTITY saveAllAttachmentsCmd.accesskey   "S">
+<!ENTITY detachAllAttachmentsCmd.label     "ყველას განცალკევება…">
+<!ENTITY detachAllAttachmentsCmd.accesskey "D">
+<!ENTITY deleteAllAttachmentsCmd.label     "ყველას წაშლა…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "e">

@@ -13,7 +13,7 @@
 <!ENTITY  reloadAllTabs.accesskey         "A">
 <!ENTITY  reloadTab.label        "დაფის განახლება">
 <!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  bookmarkGroup.label    "ამ ჩანართების ჯგუფის ჩანიშვნა">
+<!ENTITY  bookmarkGroup.label    "ამ დაფების ჯგუფის ჩანიშვნა">
 <!ENTITY  bookmarkGroup.accesskey  "B">
 <!ENTITY  closeTabButton.tooltip   "მიმდინარე დაფის დახურვა">
 <!ENTITY  newTabButton.tooltip   "ახალი დაფის გახსნა">
