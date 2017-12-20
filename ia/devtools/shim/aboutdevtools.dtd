@@ -59,7 +59,9 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Recipe novas, artificios e ressources de disveloppamento inviate directemente a tu cassa de entrata.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Email">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Io consenti con le tractamento per Mozilla de mi informationes como explicate in iste <a class='external' href='https://www.mozilla.org/privacy/'>Politica de confidentialitate</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Subscriber">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Gratias!">
 
