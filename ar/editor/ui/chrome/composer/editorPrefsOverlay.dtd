@@ -4,10 +4,10 @@
 
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
-<!ENTITY editorCheck.label "Composer">
+<!ENTITY editorCheck.label "المحرر">
 <!ENTITY editorCheck.accesskey "c">
 
-<!ENTITY compose.label "منشئ الرسائل">
+<!ENTITY compose.label "المحرر">
 <!ENTITY editing.label "إعدادات الصفحة الجديدة">
 <!ENTITY toolbars.label "أشرطة الأدوات">
 <!ENTITY publish.label "النشر">

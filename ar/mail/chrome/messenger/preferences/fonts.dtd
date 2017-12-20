@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "ر">
 <!ENTITY  monospace.label                         "ثابت العرض:">
 <!ENTITY  monospace.accesskey                     "ث">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "لاتيني">
 <!ENTITY  font.langGroup.japanese                 "ياباني">
 <!ENTITY  font.langGroup.trad-chinese             "صيني تقليدي (تايوان)">
@@ -35,9 +35,9 @@
 <!ENTITY  font.langGroup.thai                     "تايلندي">
 <!ENTITY  font.langGroup.hebrew                   "عبري">
 <!ENTITY  font.langGroup.arabic                   "عربي">
-<!ENTITY  font.langGroup.devanagari               "دفنجاري">
+<!ENTITY  font.langGroup.devanagari               "ديفاناجاري">
 <!ENTITY  font.langGroup.tamil                    "تاميلي">
-<!ENTITY  font.langGroup.armenian                 "أرميني">
+<!ENTITY  font.langGroup.armenian                 "أرمني">
 <!ENTITY  font.langGroup.bengali                  "بنغالي">
 <!ENTITY  font.langGroup.canadian                 "المقاطع الكنديّة الموحّدة">
 <!ENTITY  font.langGroup.ethiopic                 "إثيوبي">
@@ -45,9 +45,9 @@
 <!ENTITY  font.langGroup.gujarati                 "گوجراتي">
 <!ENTITY  font.langGroup.gurmukhi                 "گورموخي">
 <!ENTITY  font.langGroup.khmer                    "خميري">
-<!ENTITY  font.langGroup.malayalam                "ملايلام">
-<!ENTITY  font.langGroup.math                     "الرياضيات">
-<!ENTITY  font.langGroup.odia                     "الأوريا">
+<!ENTITY  font.langGroup.malayalam                "ملايلامي">
+<!ENTITY  font.langGroup.math                     "رياضيات">
+<!ENTITY  font.langGroup.odia                     "أوريا">
 <!ENTITY  font.langGroup.telugu                   "تلوگو">
 <!ENTITY  font.langGroup.kannada                  "كنّادا">
 <!ENTITY  font.langGroup.sinhala                  "سنهالا">
@@ -56,19 +56,19 @@
 <!ENTITY minSize.label                            "أقل حجم للخط:">
 <!ENTITY minSize.accesskey                        "ح">
 <!ENTITY minSize.none                             "لا شيء">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "مذيّل">
 <!ENTITY  useDefaultFontSansSerif.label           "غير مذيّل">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "التحكم بالخطوط">
 <!ENTITY  useFixedWidthForPlainText.label         "استخدم الخط الثابت العرض لرسائل النص الصرف">
 <!ENTITY  fixedWidth.accesskey                    "ن">
 <!ENTITY  useDocumentFonts.label                  "اسمح للرسائل باستخدام خطوط أخرى">
 <!ENTITY  useDocumentFonts.accesskey              "س">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "البريد الصادر:">
 <!ENTITY sendDefaultCharset.accesskey     "ص">
 <!ENTITY languagesTitle2.label            "ترميز النص">
