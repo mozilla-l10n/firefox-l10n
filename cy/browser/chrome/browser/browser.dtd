@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Anfon Dolen i Ddyfais">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "Anfonwyd!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Mewn Ciw (all-lein)">
 <!ENTITY  moveToNewWindow.label              "Symud i Ffenestr Newydd">
 <!ENTITY  moveToNewWindow.accesskey          "N">
 <!ENTITY  bookmarkAllTabs.label              "Nod Tudalen i Bob Tab…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "C">
 
 <!ENTITY backCmd.label                "Nôl">
+<!ENTITY backCmd.accesskey            "N">
 <!ENTITY backButton.tooltip           "Nôl un tudalen">
 <!ENTITY forwardCmd.label             "Ymlaen">
+<!ENTITY forwardCmd.accesskey         "Y">
 <!ENTITY forwardButton.tooltip        "Ymlaen un tudalen">
 <!ENTITY backForwardButtonMenu.tooltip "Clic de neu dynnu lawr i ddangos hanes">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tynnu lawr i ddangos hanes">
 <!ENTITY reloadCmd.label              "Ail-lwytho">
+<!ENTITY reloadCmd.accesskey          "A">
 <!ENTITY stopCmd.label                "Atal">
+<!ENTITY stopCmd.accesskey            "t">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Mynd i'r cyfeiriad yn y Bar Lleoliad">
 <!ENTITY printButton.label            "Argraffu">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Cyfaddasu'r Ddewislen a'r Barau Offer">
 <!ENTITY appMenuCustomizeExit.label "Gadael Cyfaddasu">
 <!ENTITY appMenuCustomizeExit.tooltip "Gorffen Cyfaddasu">
+
 <!ENTITY appMenuHistory.showAll.label "Dangos yr Holl Hanes">
 <!ENTITY appMenuHistory.clearRecent.label "Clirio Hanes Diweddar…">
 <!ENTITY appMenuHistory.restoreSession.label "Adfer y Sesiwn Flaenorol">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Dewisiadau Cydweddu">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Mae angen i'ch cyfrif cael ei gwirio.">
 <!ENTITY appMenuRemoteTabs.signin.label "Mewngofnodwch i Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Rheoli Dyfeisiadau…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gweld Bar Ochr Tabiau wedi eu Cydweddu">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Cysylltu Dyfais Arall">
 
 <!ENTITY appMenuRecentHighlights.label "Uchafbwyntiau Diweddar">
 
@@ -750,6 +759,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Gorffen">
 <!ENTITY editBookmark.removeBookmark.accessKey       "T">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
 <!ENTITY identity.connectionFile "Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.">
@@ -809,6 +821,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Chwilio'r tabiau wedi eu cydweddu">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +992,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Ailgychwyn i ddiweddaru &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
 <!ENTITY pageAction.addToUrlbar.label "Ychwanegu i'r Llyfr Cyfeiriadau">
 <!ENTITY pageAction.removeFromUrlbar.label "Tynnu o'r Bar Cyfeiriadau">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Anfon Tab i Ddyfais">
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
