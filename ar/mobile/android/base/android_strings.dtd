@@ -65,7 +65,7 @@
 <!ENTITY  crash_email "بريدك الإلكتروني">
 <!ENTITY  crash_closing_alert "أأخرج بدون إرسال بلاغ الانهيار؟">
 <!ENTITY  sending_crash_report "يرسل بلاغ الانهيار\u2026">
-<!ENTITY  crash_close_label "أغلِق">
+<!ENTITY  crash_close_label "أغلق">
 <!ENTITY  crash_restart_label "أعِد تشغيل &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "ابحث أو أدخل عنوانا">
