@@ -4,6 +4,7 @@
 
 <!ENTITY addressbookWindow.title                        "Адрасная кніга">
 <!ENTITY blankResultsPaneMessage.label                  "Гэта адрасная кніга паказвае кантакты толькі пасля пошуку">
+<!ENTITY localResultsOnlyMessage.label                  "Кантакты з аддаленых адрасных кніг не паказваюцца, пакуль вы не скарыстаецеся пошукам">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Файл">
