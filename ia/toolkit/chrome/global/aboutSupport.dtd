@@ -154,3 +154,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Canales">
 <!ENTITY aboutSupport.mediaDeviceRate "Rata">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latentia">
+
+<!ENTITY aboutSupport.intlAppTitle "Parametros del application">
+<!ENTITY aboutSupport.intlLocalesRequested "Localisationes requirite">
+<!ENTITY aboutSupport.intlLocalesAvailable "Localisationes disponibile">
