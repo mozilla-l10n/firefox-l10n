@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Ninviar lo vinclo ta lo dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "Ninviada!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Meso en coda (defuera de linia)">
 <!ENTITY  moveToNewWindow.label              "Mover ta una finestra nueva">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Anyader todas as pestanyas en marcapachinas…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "A">
 
 <!ENTITY backCmd.label                "Enta zaga">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Ir una pachina enta zaga">
 <!ENTITY forwardCmd.label             "Enta debant">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Ir una pachina enta debant">
 <!ENTITY backForwardButtonMenu.tooltip "Punche con o botón dreito u arrociegue enta baixo ta veyer l'historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrociegue enta baixo ta veyer l'historial">
 <!ENTITY reloadCmd.label              "Recargar">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Aturar">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Ir ta la URL d'a barra d'adrezas">
 <!ENTITY printButton.label            "Imprentar">
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizar o menú y as barras de ferramientas">
 <!ENTITY appMenuCustomizeExit.label "Salir d'a personalización">
 <!ENTITY appMenuCustomizeExit.tooltip "Rematar a personalización">
+
 <!ENTITY appMenuHistory.showAll.label "Amostrar tot lo historial">
 <!ENTITY appMenuHistory.clearRecent.label "Borrar o historial recient…">
 <!ENTITY appMenuHistory.restoreSession.label "Recuperar a sesión anterior">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Quiere veyer aquí las pestanyas d'os atros dispositivos?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Dentrar pa veyer una lista de pestanyas d'os atros dispositivos.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Fa falta verificar lo tuyo conto.">
 <!ENTITY appMenuRemoteTabs.signin.label "Dentrar en Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Chestionar los servicios…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Amostrar la barra lateral de Pestanyas Sincronizadas">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Connectar belatro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destacaus recients">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Establir como fundo d'escritorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Marcar ista pachina con un marcapachinas">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Adhibir iste vinclo a os marcapachinas">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Adhibir ista bastida a las marcapachinas">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Feito">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Seguranza d'o puesto">
+
 <!ENTITY identity.connectionSecure "Connexión segura">
 <!ENTITY identity.connectionNotSecure "A connexion no ye segura">
 <!ENTITY identity.connectionFile "Ista pachina s'alza en o suyo ordinadora">
@@ -803,12 +817,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "No i hai encara pestanyas sincronizadas!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Quiere veyer aquí las pestanyas d'os atros dispositivos?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Iniciar la sesión pa veyer una lista d'as pestanyas d'os atros dispositivos.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Fa falta verificar lo tuyo conto.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "No i hai garra pestanya ubierta">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ubrir las preferencias d'o &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activar la sincronización de pestanyas pa veyer una lista de pestanyas dende los atros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Mirar pestanyas sincronizadas">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connectar belatro dispositivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar pa esviellar &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Bella extensión ha cambiau la pachina que veyes quan s'ubre una Nueva Pestanya. Si no quiers este cambio puetz tornar ta los tuyos achustes d'antes.">
+<!ENTITY newTabControlled.header.message "La tuya Pestanya Nueva ha cambiau.">
+<!ENTITY newTabControlled.keepButton.label "Mantener los cambios">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
+<!ENTITY newTabControlled.restoreButton.label "Restaurar los achustes anteriors">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Accions de pachina">
 <!ENTITY pageAction.addToUrlbar.label "Anyader ta la barra d'adrezas">
 <!ENTITY pageAction.removeFromUrlbar.label "Borrar d'a barra d'adrezas">
+
+<!ENTITY pageAction.allowInUrlbar.label "Amostrar en a barra d'adrezas">
+<!ENTITY pageAction.disallowInUrlbar.label "No amostrar en a barra d'adrezas">
+<!ENTITY pageAction.manageExtension.label "Chestionar la extensión…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Ninviar pestanya a lo dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
