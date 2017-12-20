@@ -22,6 +22,7 @@
 <!ENTITY quickMode.label             "სტატიის ანოტაციის ჩვენება ვებგვერდის ჩატვირთვის ნაცვლად">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.label         "ჭდეების ავტომატურად შექმნა, &lt;კატეგორიის&gt; სახელის არხიდან">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "დამატება">

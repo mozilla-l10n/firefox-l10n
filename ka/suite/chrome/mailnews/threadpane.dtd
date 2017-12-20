@@ -23,3 +23,4 @@
 <!ENTITY idColumn.label "მიღების რიგი">
 
 <!--Tooltips-->
+<!ENTITY fromColumn2.tooltip "ავტორის მიხედვით დალაგება">
