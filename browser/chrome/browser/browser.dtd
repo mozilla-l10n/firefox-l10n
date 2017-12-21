@@ -391,6 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с раздели от други ваши устройства.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Сметката ви трябва да бъде потвърдена.">
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента с раздели">
@@ -816,6 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Няма синхронизирани раздели… все още!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Впишете се, за да видите списък с раздели от други ваши устройства.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Сметката ви трябва да бъде потвърдена.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Няма отворени раздели">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Настройки на &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -994,11 +996,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Рестарт за обновяване на &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Разширение промени страницата, която виждате при отваряне на нов раздел. Може да възстановите настройките ако такава промяна е нежелателна.">
+<!ENTITY newTabControlled.header.message "Новият раздел е променен">
+<!ENTITY newTabControlled.keepButton.label "Запазване">
+<!ENTITY newTabControlled.keepButton.accesskey "з">
+<!ENTITY newTabControlled.restoreButton.label "Отмяна">
+<!ENTITY newTabControlled.restoreButton.accesskey "о">
 
 <!ENTITY pageActionButton.tooltip "Действия със страницата">
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
 <!ENTITY pageAction.removeFromUrlbar.label "Премахване от адресната лента">
 
+<!ENTITY pageAction.allowInUrlbar.label "Показване в адресната лента">
+<!ENTITY pageAction.disallowInUrlbar.label "Скриване от адресната лента">
+<!ENTITY pageAction.manageExtension.label "Управление на добавката…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Изпращане на раздела до устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
