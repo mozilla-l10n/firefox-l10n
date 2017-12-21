@@ -32,6 +32,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Vous avez activé un raccourci vers les outils de développement. S’il s’agit d’une erreur, vous pouvez fermer cet onglet.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
