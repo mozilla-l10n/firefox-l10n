@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Изпращане на препратката до устройство">
 <!ENTITY  sendLinkToDevice.accesskey         "у">
 <!ENTITY  sendToDeviceFeedback.label         "Изпратено!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "На опашката (без мрежа)">
 <!ENTITY  moveToNewWindow.label              "Преместване в нов прозорец">
 <!ENTITY  moveToNewWindow.accesskey          "н">
 <!ENTITY  bookmarkAllTabs.label              "Отмятане на всички раздели…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "С">
 
 <!ENTITY backCmd.label                "Назад">
+<!ENTITY backCmd.accesskey            "з">
 <!ENTITY backButton.tooltip           "Връщане една страница назад">
 <!ENTITY forwardCmd.label             "Напред">
+<!ENTITY forwardCmd.accesskey         "п">
 <!ENTITY forwardButton.tooltip        "Отиване една страница напред">
 <!ENTITY backForwardButtonMenu.tooltip "Натиснете с десния бутон или дръпнете надолу, за да се покаже историята">
 <!ENTITY backForwardButtonMenuMac.tooltip "Дръпнете надолу, за да се покаже историята">
 <!ENTITY reloadCmd.label              "Презареждане">
+<!ENTITY reloadCmd.accesskey          "п">
 <!ENTITY stopCmd.label                "Спиране">
+<!ENTITY stopCmd.accesskey            "с">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Зареждане на адреса в полето">
 <!ENTITY printButton.label            "Отпечатване">
@@ -390,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента с раздели">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Добавяне на устройство">
 
 <!ENTITY appMenuRecentHighlights.label "Последни акценти">
 
@@ -566,6 +572,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Поставяне като фон на работния плот…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "П">
 <!ENTITY bookmarkPageCmd2.label       "Отмятане на страницата">
+<!ENTITY bookmarkPageCmd2.accesskey   "м">
 <!ENTITY bookmarkThisLinkCmd.label      "Отмятане на препратката">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "О">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
@@ -754,6 +761,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Защита на страницата">
 
 <!ENTITY identity.connectionSecure "Защитена връзка">
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
@@ -815,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включете синхронизирането на раздели, за да видите списък с раздели от други ваши устройства.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Търсене в синхронизираните">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Добавяне на устройство">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
