@@ -59,6 +59,7 @@
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "이메일">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "전 Mozilla에서 제 정보를 이 <a class='external' href='https://www.mozilla.org/privacy/'>개인 정보 정책</a>에 나와있는 대로 다뤄도 괜찮습니다.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "구독">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "고맙습니다!">
 
