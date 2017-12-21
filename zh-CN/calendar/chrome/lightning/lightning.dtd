@@ -43,7 +43,7 @@
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-Mail:">
 
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "偏好由客户端进行邮件排程">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "偏好由客户端安排定时发送邮件">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
