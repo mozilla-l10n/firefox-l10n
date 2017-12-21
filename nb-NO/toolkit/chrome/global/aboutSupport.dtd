@@ -153,3 +153,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceLatency "Forsinkelse">
 
 <!ENTITY aboutSupport.intlAppTitle "Programinnstillinger">
+<!ENTITY aboutSupport.intlLocalesDefault "Standardspråk">
+<!ENTITY aboutSupport.intlOSTitle "Operativsystem">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "System-språkversjoner">
+<!ENTITY aboutSupport.intlRegionalPrefs "Regionale innstillinger">
