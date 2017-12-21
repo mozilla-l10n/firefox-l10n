@@ -17,7 +17,7 @@
 <!ENTITY  notificationPermissions.label                         "알림">
 <!ENTITY  notificationSettingsButton.label                      "설정…">
 <!ENTITY  notificationSettingsButton.accesskey                  "n">
-<!ENTITY  notificationPermissionsLearnMore.label                "자세히 보기">
+<!ENTITY  notificationPermissionsLearnMore.label                "더 알아보기">
 
 <!ENTITY  locationPermissions.label                             "위치">
 <!ENTITY  locationSettingsButton.label                          "설정…">
