@@ -995,6 +995,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;">
 
+<!ENTITY newTabControlled.keepButton.label "Zachovať zmeny">
+<!ENTITY newTabControlled.keepButton.accesskey "Z">
+<!ENTITY newTabControlled.restoreButton.label "Obnoviť nastavenia">
+<!ENTITY newTabControlled.restoreButton.accesskey "O">
 
 <!ENTITY pageActionButton.tooltip "Akcie stránky">
 <!ENTITY pageAction.addToUrlbar.label "Pridať do panela s adresou">
