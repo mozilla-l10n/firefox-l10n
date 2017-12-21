@@ -54,8 +54,13 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "ईमेल">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "सदस्यता लें">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "धन्यवाद!">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox डेवलपर संस्करण">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
+<!ENTITY  aboutDevtools.footer.learnMoreLink "अधिक जानें">
 
