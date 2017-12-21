@@ -285,6 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY customizeMenu.addToToolbar.label "Agghiunci nnâ sbarra dî strummenta">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
@@ -373,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbra">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
 <!ENTITY pageAction.copyLink.label    "Copia lu lijami">
 <!-- alternate for content area context menu -->
@@ -518,6 +520,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY pageAction.addToUrlbar.label "Agghiunci nnâ sbarra dû nnirizzu">
 
 
 
