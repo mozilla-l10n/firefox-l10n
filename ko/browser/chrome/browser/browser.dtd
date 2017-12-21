@@ -444,7 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "탭 전환:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "추천기능을 이용해서 검색 경험을 향상시키시겠습니까?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "자세히 보기…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "더 알아보기…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "아니요">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
@@ -794,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "지금부터 보호 끄기">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "자세히 보기">
+<!ENTITY identity.learnMore "더 알아보기">
 
 <!ENTITY identity.removeCertException.label "예외 제거">
 <!ENTITY identity.removeCertException.accesskey "R">
