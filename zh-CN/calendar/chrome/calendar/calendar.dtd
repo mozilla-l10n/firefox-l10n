@@ -24,7 +24,7 @@
 <!ENTITY calendar.events.filter.next7Days.label "后7天事件">
 <!ENTITY calendar.events.filter.next14Days.label "后14天事件">
 <!ENTITY calendar.events.filter.next31Days.label "后31天事件">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "当前月日历事件">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "本月事件">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
@@ -329,7 +329,7 @@
 <!ENTITY calendarproperties.firealarms.label               "显示提醒">
 <!ENTITY calendarproperties.cache3.label                   "离线支持">
 <!ENTITY calendarproperties.enabled.label                  "启用此日历">
-<!ENTITY calendarproperties.forceDisabled.label            "未找到该日历的提供者，常见原因是你禁用或者卸载了某些附加组件。">
+<!ENTITY calendarproperties.forceDisabled.label            "未找到该日历的提供者。通常是由于您禁用或者卸载了某些附加组件。">
 <!ENTITY calendarproperties.unsubscribe.label              "取消订阅">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
