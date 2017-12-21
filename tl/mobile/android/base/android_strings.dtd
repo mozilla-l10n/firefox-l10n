@@ -610,13 +610,21 @@
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Nakatagong mga device">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "I-unhide ang mga piniling device">
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Naka-pin na site">
+<!ENTITY home_unpinned_site "Hindi naka-pin na site">
 
+<!ENTITY remote_tabs_panel_moved_title "Nasaan ang aking mga tab?">
+<!ENTITY remote_tabs_panel_moved_desc "Inilipat namin ang iyong mga tab mula sa iba pang mga device sa isang panel sa iyong home page na maaaring madaling ma-access tuwing magbubukas ka ng bagong tab.">
+<!ENTITY remote_tabs_panel_moved_link "Dalhin mo ako sa aking bagong panel.">
 
+<!ENTITY pin_site_dialog_hint "Magpasok ng isang keyword sa paghahanap">
 
 <!ENTITY filepicker_title "Piliin ang File">
 <!ENTITY filepicker_audio_title "Mamili o mag rekord ng tunog">
@@ -642,11 +650,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_display_loaded1 "Parte ng pahinang ito ay walang sekyuridad(kagaya ng mga imahe).">
+<!ENTITY mixed_content_protection_disabled1 "Pinigilan mo ang proteksyon mula sa hindi secure na nilalaman.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "Proteksyon sa Pagsubaybay">
+<!ENTITY doorhanger_tracking_state_enabled "Pinagana">
+<!ENTITY doorhanger_tracking_state_disabled "Hindi pinagana">
+<!ENTITY doorhanger_tracking_message_enabled1 "Na-block ang mga pagtatangkang subaybayan ang iyong online na pag-uugali.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Kasama sa pahinang ito ang mga elemento na maaaring subaybayan ang iyong pagba-browse.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Alamin pa">
+<!ENTITY enable_protection "Paganahin ang proteksyon">
 <!ENTITY disable_protection "Huwag paganahin ang proteksyon">
 
 
