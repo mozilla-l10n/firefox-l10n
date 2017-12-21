@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Page Load Error">
 <!ENTITY retry.label "Ensajatz tornarmai">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Failed to Connect">
 <!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
@@ -19,7 +19,8 @@
 <!ENTITY fileNotFound.title "Fichièr introbable">
 <!ENTITY fileNotFound.longDesc "<ul><li>Could the item have been renamed, removed, or relocated?</li><li>Is there a spelling, capitalization, or other typographical error in the address?</li><li>Do you have sufficient access permissions to the requested item?</li></ul>">
 
-
+<!ENTITY fileAccessDenied.title "L’accès al fichièr a estat refusat">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Benlèu es estat suprimit, desplaçat o las permissions associadas al fichièr permeton pas d'i accedir.</li></ul>">
 
 <!ENTITY generic.title "Cannot Complete Request">
 <!ENTITY generic.longDesc "<p>Additional information about this problem or error is currently unavailable.</p>">

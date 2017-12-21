@@ -56,6 +56,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent utilizaire">
 <!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizacion memòria">
+<!ENTITY aboutSupport.appBasicsPerformance "Performança">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Servici Workers enregistrats">
@@ -64,6 +65,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenèstras multiprocessus">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procediments de contengut web">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Clau Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Clau del servici de localizacion de Mozilla">
@@ -104,6 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Activar">
 <!ENTITY aboutSupport.a11yForceDisabled "Limitar l'accessibilitat">
 <!ENTITY aboutSupport.a11yHandlerUsed "Utilizar un gestionari accessible">
+<!ENTITY aboutSupport.a11yInstantiator "Instanciator d'accesibilitat">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Version de las bibliotèca">
 
@@ -127,9 +130,24 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.restartInSafeMode.label "Reaviar amb los moduls desactivats…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Foncionalitats">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostics">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Jornal de las errors">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Jornal de las decisions">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Foncionalitats desactivadas per la proteccion contra los plantatges">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solucions de retirada">
 
+<!ENTITY aboutSupport.mediaTitle "Mèdia">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Periferics de sortida">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Periferics de dintrada">
+<!ENTITY aboutSupport.mediaDeviceName "Nom">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grop">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vendeire">
 <!ENTITY aboutSupport.mediaDeviceState "Estat">
 <!ENTITY aboutSupport.mediaDevicePreferred "Preferit">
 <!ENTITY aboutSupport.mediaDeviceFormat "Format">
 <!ENTITY aboutSupport.mediaDeviceChannels "Canals">
+<!ENTITY aboutSupport.mediaDeviceRate "Taus">
 <!ENTITY aboutSupport.mediaDeviceLatency "Laténcia">
+
