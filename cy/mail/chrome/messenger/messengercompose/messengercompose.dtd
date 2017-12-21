@@ -331,6 +331,8 @@
 <!ENTITY removeAttachment.accesskey "y">
 <!ENTITY renameAttachment.label "Ailenwi…">
 <!ENTITY renameAttachment.accesskey "A">
+<!ENTITY reorderAttachments.label "Aildrefnu Atodiadau…">
+<!ENTITY reorderAttachments.accesskey "a">
 <!ENTITY selectAll.label "Dewis Popeth">
 <!ENTITY selectAll.accesskey "D">
 <!ENTITY attachFile.label "Atodi Ffeil(iau)…">

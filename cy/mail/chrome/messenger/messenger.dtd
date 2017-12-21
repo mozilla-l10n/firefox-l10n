@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Ffolder…">
 <!ENTITY newFolderCmd.accesskey "F">
 <!ENTITY closeTabCmd2.label "Cau'r Tab">
@@ -85,8 +85,8 @@
 <!ENTITY printPreviewCmd.accesskey "R">
 <!ENTITY printSetupCmd.label "Gosodiad Tudalen…">
 <!ENTITY printSetupCmd.accesskey "o">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Dileu Neges">
 <!ENTITY deleteMsgCmd.accesskey "N">
 <!ENTITY undeleteMsgCmd.label "Dad-ddileu Neges">
@@ -126,8 +126,8 @@
 <!ENTITY undoDefaultCmd.accesskey "u">
 <!ENTITY redoDefaultCmd.label "Ailwneud">
 <!ENTITY redoDefaultCmd.accesskey "A">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY menubarCmd.label "Bar Dewislen">
 <!ENTITY menubarCmd.accesskey "D">
 <!ENTITY showMessengerToolbarCmd.label "Bar Offer E-bost">
@@ -167,8 +167,8 @@
 <!ENTITY folderPaneBar.label "Bar Offer Paen Ffolder">
 <!ENTITY folderPaneBar.accesskey "B">
 <!ENTITY folderModeSelector.label "Golwg Ffolder">
-<!-- Sort Menu -->
 
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Trefnu yn ôl">
 <!ENTITY sortMenu.accesskey "T">
 <!ENTITY sortByDateCmd.label "Dyddiad">
@@ -266,8 +266,8 @@
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
-<!-- Search Menu -->
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Canfod">
 <!ENTITY findMenu.accesskey "f">
 <!ENTITY findCmd.label "Canfod yn y Neges…">
@@ -284,8 +284,8 @@
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Chwilio Cyfeiriadau…">
 <!ENTITY searchAddressesCmd.accesskey "y">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Mynd">
 <!ENTITY goMenu.accesskey "M">
 <!ENTITY nextMenu.label "Nesaf">
@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Sgwrsio">
 <!ENTITY goChatCmd.accesskey "g">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "g">
 <!ENTITY prevStarredMsgCmd.label "Neges Serennog">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Ffolder">
@@ -326,8 +327,8 @@
 <!ENTITY goRecentlyClosedTabs.accesskey "T">
 <!ENTITY startPageCmd.label "Tudalen Cychwyn E-bost">
 <!ENTITY startPageCmd.accesskey "T">
-<!-- Message Menu -->
 
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Neges">
 <!ENTITY msgMenu.accesskey "N">
 <!ENTITY newMsgCmd.label "Neges Newydd">
@@ -367,8 +368,7 @@
 <!ENTITY editDraftMsgCmd.label "Golygu Neges Ddrafft">
 <!ENTITY editDraftMsgCmd.accesskey "D">
 <!ENTITY newMsgFromTemplateCmd.label "Neges Newydd o Dempled">
-<!-- do not change "VK_RETURN" -->
-<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Creu Hidl o'r Neges…">
 <!ENTITY createFilter.accesskey "H">
 <!ENTITY moveMsgToMenu.label "Symud i">
@@ -446,11 +446,11 @@
 <!ENTITY openFeedSummary.accesskey "C">
 <!ENTITY openFeedWebPageInMP.label "Toglo Tudalen We a Chrynodeb mewn Paen Neges">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
+
 <!-- Windows Menu -->
-
 <!ENTITY windowMenu.label "Ffenestr">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Offer">
 <!ENTITY tasksMenu.accesskey "O">
 <!ENTITY messengerCmd.label "E-bost a Grwpiau Newyddion">
@@ -496,8 +496,8 @@
      on Unix systems
   -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!-- Developer Tools Submenu -->
 
+<!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Offer Datblygwyr">
 <!ENTITY devtoolsMenu.accesskey "D">
 <!ENTITY devToolboxCmd.label "Blwch Offer Datblygwyr">
@@ -512,17 +512,17 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Scratchpad">
 <!ENTITY scratchpadCmd.accesskey "S">
+
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
-
 <!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!ENTITY scratchpadCmd.keytext "F4">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Estyn Negeseuon">
 <!ENTITY newMsgButton.label "Ysgrifennu">
 <!ENTITY replyButton.label "Ateb">
@@ -559,8 +559,8 @@
 <!ENTITY tagButton.label "Tag">
 <!ENTITY compactButton.label "Cywasgu">
 <!ENTITY appmenuButton.label "AppMenu">
-<!-- Mail Toolbar Tooltips-->
 
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Chwilio neges uwch">
 <!ENTITY getMsgButton.tooltip "Estyn negeseuon newydd">
 <!ENTITY getAllNewMsgCmd.label "Estyn Pob Neges Newydd">
@@ -593,48 +593,48 @@
 <!ENTITY tagButton.tooltip "Tagio negeseuon">
 <!ENTITY compactButton.tooltip "Tynnu negeseuon wedi'u dileu o'r ffolder">
 <!ENTITY appmenuButton1.tooltip "Dangos Dewislen &brandShortName;">
-<!-- Toolbar Button Popup -->
 
+<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Anfon Ymlaen fel Mewnlin">
 <!ENTITY buttonMenuForwardAsAttachment.label "Anfon Ymlaen fel Atodiad">
-<!-- Remote Content Button Popup -->
 
+<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Dangos cynnwys pell o fewn y neges hon">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "D">
 <!ENTITY editRemoteContentSettings.label "Golygu dewisiadau cynnwys pell…">
 <!ENTITY editRemoteContentSettings.accesskey "G">
 <!ENTITY editRemoteContentSettingsUnix.label "Golygu dewisiadau cynnwys pell…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "d">
-<!-- Phishing Button Popup -->
 
+<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Anwybyddu rhybudd am y neges hon">
 <!ENTITY phishingOptionIgnore.accesskey "A">
 <!ENTITY phishingOptionSettings.label "Golygu dewisiadau canfod twyll…">
 <!ENTITY phishingOptionSettings.accesskey "o">
 <!ENTITY phishingOptionSettingsUnix.label "Golygu dewisiadau canfod twyll…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "o">
-<!-- AppMenu Popup -->
 
+<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Neges Newydd">
 <!ENTITY appmenuNewContactCmd.label "Cysylltiad Llyfr Cyfeiriadau…">
 <!ENTITY appmenuEditMenu.label "Golygu">
 <!ENTITY appmenuToolbarLayout.label "Cynllun Bar Offer…">
 <!ENTITY appmenuSelectThread.label "Dewis Edefyn">
 <!ENTITY appmenuSelectFlagged.label "Estyn Negeseuon Serennog">
-<!-- Tags Menu Popup -->
 
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Tag Newydd…">
 <!ENTITY addNewTag.accesskey "T">
 <!ENTITY manageTags.label "Rheoli Tagiau…">
 <!ENTITY manageTags.accesskey "T">
-<!-- Folder Pane -->
 
+<!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Enw">
 <!ENTITY folderUnreadColumn.label "Heb ei Ddarllen">
 <!ENTITY folderTotalColumn.label "Cyfanswm">
 <!ENTITY folderSizeColumn.label "Maint">
-<!-- Folder Pane Context Menu -->
 
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Estyn Negeseuon">
 <!ENTITY folderContextGetMessages.accesskey "s">
 <!ENTITY folderContextPauseAllUpdates.label "Oedi Pob Diweddariad">
@@ -674,15 +674,15 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "H">
 <!ENTITY folderContextSettings2.label "Gosodiadau">
 <!ENTITY folderContextSettings2.accesskey "o">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Mae'r Enw neu E-bost yn cynnwys:">
 <!ENTITY SearchNameOrEmail.accesskey "E">
+
 <!-- Gloda Search Bar -->
-
 <!ENTITY glodaSearchBar.placeholder "Chwilio negeseuon…">
-<!-- Quick Search Menu Bar -->
 
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Pwnc">
 <!ENTITY searchFromMenu.label "Oddi wrth">
 <!ENTITY searchSubjectOrFromMenu.label "Pwnc neu Oddi wrth">
@@ -690,8 +690,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Pwnc, At neu Cc">
 <!ENTITY searchMessageBody.label "Neges Gyfan">
 <!ENTITY saveAsVirtualFolderMenu.label "Cadw'r Chwilio fel Ffolder…">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Edefyn">
 <!ENTITY fromColumn.label "Oddi wrth">
 <!ENTITY recipientColumn.label "Derbynnydd">
@@ -712,8 +712,8 @@
 <!ENTITY locationColumn.label "Lleoliad">
 <!ENTITY idColumn.label "Trefn Derbyn">
 <!ENTITY attachmentColumn.label "Atodiadau">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Dewis colofnau i'w dangos">
 <!ENTITY threadColumn2.tooltip "Dangos edafedd negeseuon">
 <!ENTITY fromColumn2.tooltip "Trefnu yn ôl anfonwr">
@@ -735,8 +735,8 @@
 <!ENTITY locationColumn2.tooltip "Trefnu yn ôl lleoliad">
 <!ENTITY idColumn2.tooltip "Trefnu yn ôl y drefn derbyniwyd">
 <!ENTITY attachmentColumn2.tooltip "Trefnu yn ôl atodiad">
-<!-- Thread Pane Context Menu -->
 
+<!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Neges Newydd o Dempled">
 <!ENTITY contextOpenNewWindow.label "Agor Neges mewn Ffenestr Newydd">
 <!ENTITY contextOpenNewWindow.accesskey "F">
@@ -795,12 +795,12 @@
 <!ENTITY contextPrint.accesskey "A">
 <!ENTITY contextPrintPreview.label "Rhagolwg Argraffu">
 <!ENTITY contextPrintPreview.accesskey "R">
+
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
-
 <!ENTITY columnPicker.resetToInbox.label "Ailosod y colofnau i'r rhagosodedig">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -841,9 +841,9 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Y ffolder hwn">
+
+
 <!-- Media (video/audio) controls -->
-
-
 <!ENTITY contextPlay.label "Chwarae">
 <!ENTITY contextPlay.accesskey "h">
 <!ENTITY contextPause.label "Oedi">
@@ -852,12 +852,12 @@
 <!ENTITY contextMute.accesskey "T">
 <!ENTITY contextUnmute.label "Dad-dewi">
 <!ENTITY contextUnmute.accesskey "D">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
   -->
-
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
       This is the base of the empty text for the global search box. We replace
@@ -881,8 +881,8 @@
      above, the letter should match it.
   -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
-<!-- Message Header Context Menu -->
 
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Ychwanegu i'r Llyfr Cyfeiriadau…">
 <!ENTITY AddToAddressBook.accesskey "L">
 <!ENTITY AddDirectlyToAddressBook.label "Ychwanegu i'r Llyfr Cyfeiriadau">
@@ -907,12 +907,12 @@
 <!ENTITY CreateFilterFrom.accesskey "H">
 <!ENTITY reportPhishingURL.label "Adrodd ar Dwyll E-bost">
 <!ENTITY reportPhishingURL.accesskey "A">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron…">
 <!ENTITY spellAddDictionaries.accesskey "Y">
-<!-- Content Pane Context Menu -->
 
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Cadw Dolen Fel…">
 <!ENTITY saveLinkAsCmd.accesskey "D">
 <!ENTITY saveImageAsCmd.label "Cadw Delwedd Fel…">
@@ -931,17 +931,17 @@
 <!ENTITY openInBrowser.accesskey "A">
 <!ENTITY openLinkInBrowser.label "Agor Dolen yn y Porwr">
 <!ENTITY openLinkInBrowser.accesskey "D">
+
 <!-- Statusbar -->
-
 <!ENTITY statusText.label "Gorffen">
-<!-- Mac OS X Window Menu -->
 
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Lleihau">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Dwyn y Cyfan i'r Blaen">
 <!ENTITY zoomWindow.label "Chwyddo">
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Dewisiadau">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
@@ -953,8 +953,8 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "E">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Dangos Popeth">
-<!-- Mac OS X Dock Icon pop-up menu -->
 
+<!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Dewisiadau Eicon Ap…">
 <!ENTITY writeNewMessageDock.label      "Ysgrifennu Neges Newydd">
 <!ENTITY openAddressBookDock.label      "Agor y Llyfr Cyfeiriadau">

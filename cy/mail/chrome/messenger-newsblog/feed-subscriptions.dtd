@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Tanysgrifiad Llif">
 <!ENTITY learnMore.label             "Dysgu rhagor am Llif">
 
@@ -12,13 +12,14 @@
 <!ENTITY feedLocation.label          "URL Llif:">
 <!ENTITY feedLocation.accesskey      "L">
 <!ENTITY feedLocation.placeholder    "Rhowch URL llif dilys i'w Ychwanegu">
+<!ENTITY feedLocation2.placeholder   "Rhowch URL llif dilys">
 <!ENTITY locationValidate.label      "Dilysu">
 <!ENTITY validateText.label          "Gwirio dilysiad ac estyn url dilys.">
 
 <!ENTITY feedFolder.label            "Cadw erthyglau yn:">
 <!ENTITY feedFolder.accesskey        "e">
-<!-- Account Settings and Subscription Dialog -->
 
+<!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Gwirio am erthyglau newydd bob ">
 <!ENTITY biffStart.accesskey         "e">
 <!ENTITY biffMinutes.label           "munud">
@@ -35,10 +36,12 @@
 <!ENTITY autotagUsePrefix.label      "Rhagosod tagiau gyda:">
 <!ENTITY autotagUsePrefix.accesskey  "R">
 <!ENTITY autoTagPrefix.placeholder   "Rhoi rhagosodiad tag">
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Ychwanegu">
 <!ENTITY button.addFeed.accesskey    "Y">
+<!ENTITY button.verifyFeed.label     "Dilysu">
+<!ENTITY button.verifyFeed.accesskey "D">
 <!ENTITY button.updateFeed.label     "Diweddaru">
 <!ENTITY button.updateFeed.accesskey "D">
 <!ENTITY button.removeFeed.label     "Tynnu">

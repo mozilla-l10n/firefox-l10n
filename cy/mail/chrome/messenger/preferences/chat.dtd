@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "gydag enw'r anfonwr a rhagolwg o'r neges">
 <!ENTITY  buddyInfoOnly.label                 "gydag enw'r anfonwr yn unig">
 <!ENTITY  dummyNotification.label             "heb unrhyw wybodaeth">
+<!ENTITY  getAttention.label                  "Fflachio'r eitem bar tasgau">
+<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "Animeiddio eitem docio">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "C">
 <!ENTITY  chatSound.label                     "Canu nodyn">
 <!ENTITY  play.label                          "Chwarae">
