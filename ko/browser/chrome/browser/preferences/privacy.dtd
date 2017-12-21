@@ -11,7 +11,7 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "y">
 <!ENTITY  trackingProtectionNever.label        "항상 사용하지 않기">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "자세히 보기">
+<!ENTITY  trackingProtectionLearnMore.label    "더 알아보기">
 <!ENTITY  trackingProtectionExceptions.label   "예외…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
@@ -27,7 +27,7 @@
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.description        "웹사이트에 “방문자 추적 금지” 신호를 보내서 추적을 원하지 않는다고 알림">
-<!ENTITY  doNotTrack.learnMore.label    "자세히 보기">
+<!ENTITY  doNotTrack.learnMore.label    "더 알아보기">
 <!ENTITY  doNotTrack.default.label      "추적 방지 기능을 사용할 때만">
 <!ENTITY  doNotTrack.always.label       "항상">
 
@@ -109,7 +109,7 @@
 <!ENTITY  clearOnCloseSettings.label     "설정…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersLearnMore.label      "자세히 보기">
+<!ENTITY  browserContainersLearnMore.label      "더 알아보기">
 <!ENTITY  browserContainersEnabled.label        "포함 탭 활성화">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "설정…">
@@ -117,5 +117,5 @@
 
 <!ENTITY  a11yPrivacy.checkbox.label     "접근성 서비스가 브라우저에 접근하지 못하게 함">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
-<!ENTITY  a11yPrivacy.learnmore.label    "자세히 보기">
-<!ENTITY enableSafeBrowsingLearnMore.label "자세히 보기">
+<!ENTITY  a11yPrivacy.learnmore.label    "더 알아보기">
+<!ENTITY enableSafeBrowsingLearnMore.label "더 알아보기">
