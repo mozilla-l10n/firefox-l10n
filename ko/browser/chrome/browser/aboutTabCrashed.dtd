@@ -24,7 +24,7 @@
 <!ENTITY tabCrashed.requestReport "이 탭 보고하기">
 <!ENTITY tabCrashed.sendReport3 "이런 이슈를 고칠 수 있도록 자동화된 오류 보고서를 보냅니다.">
 <!ENTITY tabCrashed.commentPlaceholder2 "추가 의견(외부에 공개됨)">
-<!ENTITY tabCrashed.includeURL3 "&brandShortName;에 오류가 발생할때 이용한 사이트의 URLs을 포함합니다.">
+<!ENTITY tabCrashed.includeURL3 "&brandShortName;에 오류가 발생할 때 이용한 사이트의 URL을 포함합니다.">
 <!ENTITY tabCrashed.emailPlaceholder "이메일 주소를 입력하세요">
 <!ENTITY tabCrashed.emailMe "추가 정보가 있을 경우 이메일 받기">
 <!ENTITY tabCrashed.reportSent "충돌 보고서를 이미 전송했습니다. &brandShortName;가 보다 나아지도록 도와주셔서 고맙습니다!">
