@@ -996,6 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Einhver viðbót hefur breytt síðunni sem er alltaf opnuð fyrir nýja flipa. Ef þú vilt ekki þessa breytingu geturðu endurheimt eldri stillingar.">
 <!ENTITY newTabControlled.header.message "Nýi flipinn breyttist.">
 <!ENTITY newTabControlled.keepButton.label "Halda breytingum">
 <!ENTITY newTabControlled.keepButton.accesskey "g">
