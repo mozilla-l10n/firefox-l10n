@@ -158,6 +158,7 @@
 <!ENTITY wifi_auth_header "Identificacion client">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Lo pont final que sètz a connectar demanda mai d'informacions per autentificar aquesta connexion.  Escanizar lo còde QR seguent via lo convit afichat sus l'autre periferic.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Pas cap de convit per un escanèr QR ?">
