@@ -12,6 +12,11 @@
 <!ENTITY engine.history.accesskey   "ป">
 <!ENTITY engine.logins.label        "การเข้าสู่ระบบ">
 <!ENTITY engine.logins.accesskey    "ก">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "ตัวเลือก">
 <!ENTITY engine.prefs.label         "ค่ากำหนด">
 <!ENTITY engine.prefs.accesskey     "ค">
 <!ENTITY engine.addons.label        "ส่วนเสริม">
