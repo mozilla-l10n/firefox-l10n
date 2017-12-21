@@ -664,10 +664,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY enable_protection "Paganahin ang proteksyon">
 <!ENTITY disable_protection "Huwag paganahin ang proteksyon">
 
+<!ENTITY private_data_success "Na-clear ang pribadong data">
+<!ENTITY private_data_fail "Ang ilang pribadong data ay hindi ma-clear">
 
 <!ENTITY bookmarkhistory_button_import "I-import">
 <!ENTITY bookmarkhistory_import_wait "Pakiusap maghintay...">
 
+<!ENTITY suggestions_prompt3 "Gusto mo bang i-on ang mga suhestiyon sa paghahanap?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -679,10 +682,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY searchable_description "Mga bookmark at kasaysayan">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_select2 "Pindutin upang i-download">
 
+<!ENTITY updater_downloading_title_failed2 "Nabigo ang pag-download">
+<!ENTITY updater_downloading_select2 "Pindutin upang ilapat ang pag-update sa sandaling nai-download">
+<!ENTITY updater_downloading_retry2 "Pindutin upang muling subukan">
 
+<!ENTITY updater_apply_select3 "Pindutin upang i-install">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -691,6 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_permission_allow "Hayaan">
 
     <!-- Guest mode -->
+<!ENTITY new_guest_session "Bagong Guest Session">
 <!ENTITY guest_session_dialog_continue "Magpatuloy">
 <!ENTITY guest_session_dialog_cancel "Kanselahin">
 
@@ -742,10 +752,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Add-ons">
+<!ENTITY restrictable_feature_clear_history "I-clear ang Kasaysayan">
+<!ENTITY restrictable_feature_clear_history_description "Pinapayagan ang mga miyembro ng pamilya na tanggalin ang impormasyon tungkol sa mga site at mga pahinang binisita nila.">
+<!ENTITY restrictable_feature_camera_microphone_description "Pinapayagan ang mga miyembro ng pamilya na makipag-ugnayan sa real time sa mga website.">
 <!ENTITY restrictable_feature_block_list "Listahan ng mga nai-block">
+<!ENTITY restrictable_feature_block_list_description "Harangan ang mga website na kasama ang sensitibong nilalaman.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Tungkol sa iyong browser">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
@@ -759,12 +774,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_summary "Alamin kung ano ang bago sa bersyong ito">
 
+<!ENTITY promotion_add_to_homescreen "Idagdag sa home screen">
 
+<!ENTITY promotion_add_page_shortcut "Magdagdag ng shortcut sa pahina">
 
 <!ENTITY helper_first_offline_bookmark_title "Magbasa ng offline">
+<!ENTITY helper_first_offline_bookmark_message "Hanapin ang iyong Reader Tingnan ang mga item sa Mga Bookmark, kahit offline.">
+<!ENTITY helper_first_offline_bookmark_button "Pumunta sa Mga Bookmark">
 
 
+<!ENTITY activity_stream_topsites "Nangungunang Mga Site">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
