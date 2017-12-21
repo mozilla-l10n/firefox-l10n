@@ -188,13 +188,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "อ">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
+<!ENTITY backCmd.accesskey            "ย">
 <!ENTITY backButton.tooltip           "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY forwardCmd.label             "เดินหน้า">
+<!ENTITY forwardCmd.accesskey         "ด">
 <!ENTITY forwardButton.tooltip        "เดินหน้าไปหนึ่งหน้า">
 <!ENTITY backForwardButtonMenu.tooltip "คลิกขวาหรือดึงลงเพื่อแสดงประวัติ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ดึงลงเพื่อแสดงประวัติ">
 <!ENTITY reloadCmd.label              "โหลดใหม่">
+<!ENTITY reloadCmd.accesskey          "ห">
 <!ENTITY stopCmd.label                "หยุด">
+<!ENTITY stopCmd.accesskey            "ห">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง">
 <!ENTITY printButton.label            "พิมพ์">
@@ -228,6 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "คุณได้ปิดกั้นที่เก็บข้อมูลสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "คุณได้ปิดกั้นการแจ้งเตือนสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "คุณได้ปิดกั้นที่เก็บข้อมูลถาวรสำหรับเว็บไซต์นี้">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
 
@@ -352,6 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "ปรับแต่งเมนูและแถบเครื่องมือ">
 <!ENTITY appMenuCustomizeExit.label "ออกจากการปรับแต่ง">
 <!ENTITY appMenuCustomizeExit.tooltip "เสร็จสิ้นการปรับแต่ง">
+
 <!ENTITY appMenuHistory.showAll.label "แสดงประวัติทั้งหมด">
 <!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติล่าสุด…">
 <!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระที่แล้ว">
@@ -385,6 +391,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้า Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "จัดการอุปกรณ์…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "เชื่อมต่ออุปกรณ์อื่น">
 
 <!ENTITY appMenuRecentHighlights.label "รายการเด่นล่าสุด">
 
@@ -747,6 +755,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "เสร็จสิ้น">
 <!ENTITY editBookmark.removeBookmark.accessKey       "อ">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "ความปลอดภัยของไซต์">
+
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ">
@@ -806,6 +818,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "เปิดการซิงค์แท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ค้นหาแท็บที่ซิงค์">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "เชื่อมต่ออุปกรณ์อื่น">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -976,9 +990,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ม">
 <!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "การกระทำของหน้า">
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
 <!ENTITY pageAction.removeFromUrlbar.label "เอาออกจากแถบที่อยู่">
+
+<!ENTITY pageAction.allowInUrlbar.label "แสดงในแถบที่อยู่">
+<!ENTITY pageAction.disallowInUrlbar.label "ไม่แสดงในแถบที่อยู่">
+<!ENTITY pageAction.manageExtension.label "จัดการส่วนขยาย…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ส่งแท็บไปยังอุปกรณ์">
 <!ENTITY sendToDevice.syncNotReady.label "กำลังซิงค์อุปกรณ์…">
