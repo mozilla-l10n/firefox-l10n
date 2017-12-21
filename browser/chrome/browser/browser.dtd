@@ -188,6 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "뒤로">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "한 페이지 뒤로 가기">
 <!ENTITY forwardCmd.label             "앞으로">
 <!ENTITY forwardCmd.accesskey         "F">
@@ -571,6 +572,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "배경으로 지정…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "북마크에 추가">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "링크를 북마크에 추가">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "프레임을 북마크에 추가">
