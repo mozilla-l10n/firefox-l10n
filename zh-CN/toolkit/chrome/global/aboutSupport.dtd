@@ -149,7 +149,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "组别">
 <!ENTITY aboutSupport.mediaDeviceVendor "厂商">
 <!ENTITY aboutSupport.mediaDeviceState "状态">
-<!ENTITY aboutSupport.mediaDevicePreferred "被首选">
+<!ENTITY aboutSupport.mediaDevicePreferred "首选">
 <!ENTITY aboutSupport.mediaDeviceFormat "格式">
 <!ENTITY aboutSupport.mediaDeviceChannels "声道">
 <!ENTITY aboutSupport.mediaDeviceRate "采样率">
