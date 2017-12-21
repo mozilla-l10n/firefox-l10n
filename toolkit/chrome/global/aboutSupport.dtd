@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Gwybodaeth am Ddatrys Problemau">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiolpan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynaucyffredin am &brandShortName;, edrychwch ar ein wefan cefnogi <a id='supportLink'></a>.">
 
 <!ENTITY aboutSupport.crashes.title "Ardroddiad Chwalu">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Enw">
 <!ENTITY aboutSupport.appBasicsVersion "Fersiwn">
 <!ENTITY aboutSupport.appBasicsBuildID "Cyfeirnod Adeiladu">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Sianel Diweddaru">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Hanes Diweddaru">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Dangos Hanes Diweddaru">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "SW">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Defnydd o'r cof">
 <!ENTITY aboutSupport.appBasicsPerformance "Perfformiad">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers Cofrestredig">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Proffiliau">
@@ -85,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Dewisiadau Pwysig wedi eu Newid">
 <!ENTITY aboutSupport.modifiedPrefsName "Enw">
 <!ENTITY aboutSupport.modifiedPrefsValue "Gwerth">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Dewisiadau user.js">
 <!ENTITY aboutSupport.userJSDescription "Mae eich ffolder profil yn cynnwys <a id='prefs-user-js-link'>ffeil user.js</a>, sy'n cynnwys dewisiadau sydd heb eu creu gan &brandShortName;.">
 
@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Sianeli">
 <!ENTITY aboutSupport.mediaDeviceRate "Cyfradd">
 <!ENTITY aboutSupport.mediaDeviceLatency "Cuddni">
+
+<!ENTITY aboutSupport.intlTitle "Rhyngwladoli a Lleoleiddio">
+<!ENTITY aboutSupport.intlAppTitle "Gosodiadau'r Rhaglen">
+<!ENTITY aboutSupport.intlLocalesRequested "Locales Gofynnwyd Amdanynt">
+<!ENTITY aboutSupport.intlLocalesAvailable "Locales ar Gael">
+<!ENTITY aboutSupport.intlLocalesSupported "Locales Apiau">
+<!ENTITY aboutSupport.intlLocalesDefault "Locale Rhagosodedig">
+<!ENTITY aboutSupport.intlOSTitle "System Weithredu">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Locales y System">
+<!ENTITY aboutSupport.intlRegionalPrefs "Dewisiadau Rhanbarthol">

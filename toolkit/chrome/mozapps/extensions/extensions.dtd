@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Rheolwr Ychwanegion">
 
 <!ENTITY search.placeholder                   "Chwilio drwy'r ychwanegion">
+
+<!ENTITY search.placeholder2                  "Chwilio ar addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Chwilio">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -26,12 +28,13 @@
 <!ENTITY cmd.back.tooltip                     "Nôl un tudalen">
 <!ENTITY cmd.forward.tooltip                  "Ymlaen un tudalen">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Nid oedd modd dilysu rhai estyniadau">
 <!ENTITY showAllExtensions.button.label       "Dangos pob estyniad">
 <!ENTITY debugAddons.label                    "Dadfygio Ychwanegion">
 <!ENTITY debugAddons.accesskey                "Y">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Mae pob ychwanegyn wedi eu hanalluogi gan y modd diogel.">
 <!ENTITY warning.checkcompatibility.label          "Mae gwirio cydnawsedd ychwanegion wedi ei analluogi. Efallai fod gennych ychwanegion anghydnaws.">
 <!ENTITY warning.checkcompatibility.enable.label   "Galluogi">
@@ -39,14 +42,14 @@
 <!ENTITY warning.updatesecurity.label              "Mae gwirio diogelwch diweddariad wedi ei analluogi. Efallai eich bod o dan fygythiad gan ddiweddariad.">
 <!ENTITY warning.updatesecurity.enable.label       "Galluogi">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Galluogi gwirio diogelwch diweddariad ychwanegyn">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Chwilio">
 <!ENTITY view.discover.label                  "Estyn Ychwanegion">
 <!ENTITY view.recentUpdates.label             "Diweddariadau Diweddar">
 <!ENTITY view.availableUpdates.label          "Diweddariadau ar Gael">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Gwirio am Ddiweddariadau">
 <!ENTITY updates.checkForUpdates.accesskey    "G">
 <!ENTITY updates.viewUpdates.label            "Gweld Diweddariadau Diweddar">
@@ -74,8 +77,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Gweld Diweddariadau ar Gael">
 <!ENTITY updates.updateSelected.label         "Gosod Diweddariadau">
 <!ENTITY updates.updateSelected.tooltip       "Gosod diweddariadau sydd ar gael o'r rhestr">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Dangos Rhagor o Wybodaeth">
 <!ENTITY cmd.showDetails.accesskey            "D">
 <!ENTITY cmd.findUpdates.label                "Canfod Diweddariadau">
@@ -119,15 +122,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Cuddio'r Nodiadau Ryddhau">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Cuddio nodiadau ryddhau'r diweddariad yma">
 <!ENTITY cmd.findReplacement.label            "Canfod Amnewidyn">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Beth yw Ychwanegion?">
 <!ENTITY discover.description2                "Mae Ychwanegion yn raglenni sy'n caniatáu i chi bersenoleiddio &brandShortName; gyda swyddogaethau neu steil ychwanegol. Defnyddiwch y bar ochr, hysbysydd tywydd, neu thema i'ch gwneud yn gysurus gyda &brandShortName;.">
 <!ENTITY discover.footer                      "Pan fyddwch wedi cysylltu â'r rhyngrwyd, bydd y paen yn cynnwys rhai o'r ychwanegion gorau a mwyaf poblogaidd i chi eu dewis.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Fersiwn">
 <!ENTITY detail.lastupdated.label             "Diweddarwyd Diwethaf">
 <!ENTITY detail.creator.label                 "Datblygwr">
@@ -156,17 +159,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Dewisiadau">
 <!ENTITY detail.showPreferencesUnix.accesskey "e">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Newid dewisiadau'r ychwanegyn">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Graddio">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Oedi">
 <!ENTITY progress.cancel.tooltip              "Diddymu">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Enw">
 <!ENTITY sort.name.tooltip                    "Trefnu yn ôl enw">
 <!ENTITY sort.dateUpdated.label               "Diweddarwyd Diwethaf">
@@ -223,12 +226,12 @@
 <!ENTITY eula.accept                          "Derbyn a Gosod…">
 
 <!ENTITY settings.path.button.label           "Pori…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Beth yw hyn? Mae Telemetreg yn gallu gosod a rhedeg arbrofion o bryd i'w gilydd.">
 <!ENTITY experiment.info.learnmore "Dysgu Rhagor">
 <!ENTITY experiment.info.learnmore.accesskey "D">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "Rhywbeth ar goll? Nid yw rhai ategion yn cael eu cynnal bellach gan &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Dysgu Rhagor.">
 
-<!ENTITY legacyWarning.description "Colli rhywbeth? Nid yw rhai ategion yn cael eu cynnal bellach gan &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Dangos hen estyniadau">
 <!ENTITY legacyExtensions.title "Hen Estyniadau">
 <!ENTITY legacyExtensions.description "Nid yw'r estyniadau hyn yn cyrraedd safonau cyfredol &brandShortName; ac mae nhw wedi cael eu diffodd.">
