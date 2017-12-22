@@ -37,7 +37,7 @@
 <!ENTITY community.creditsLink      "küresel bir topluluktur.">
 <!ENTITY community.end3             "İnterneti herkes için açık, kamuya hizmet eden ve erişilebilir kılmak için birlikte çaba sarf edenlerden oluşur.">
 
-<!ENTITY helpus.start               "Yardım etmek ister misiniz?">
+<!ENTITY helpus.start               "Yardım etmek ister misiniz? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Bağış yapın">
 <!ENTITY helpus.middle              " veya ">
