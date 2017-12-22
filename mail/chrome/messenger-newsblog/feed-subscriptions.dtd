@@ -39,6 +39,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Προσθήκη">
 <!ENTITY button.addFeed.accesskey    "θ">
+<!ENTITY button.verifyFeed.label     "Επαλήθευση">
+<!ENTITY button.verifyFeed.accesskey "Ε">
 <!ENTITY button.updateFeed.label     "Ενημέρωση">
 <!ENTITY button.updateFeed.accesskey "Ε">
 <!ENTITY button.removeFeed.label     "Απομάκρυνση">
