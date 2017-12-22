@@ -13,7 +13,7 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Kiểm tra cập nhật">
-<!ENTITY update.checkForUpdatesButton.accesskey   "c">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label3               "Khởi động lại để cập nhật &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
@@ -51,7 +51,7 @@
 <!ENTITY releaseNotes.link          "Có gì mới">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Thông tin Giấy phép">
+<!ENTITY bottomLinks.license        "Thông tin giấy phép">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Quyền hạn người dùng cuối">
@@ -74,7 +74,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Cập nhật bị thất bại. ">
+<!ENTITY update.failed.start        "Cập nhật thất bại. ">
 <!ENTITY update.failed.linkText     "Tải phiên bản mới nhất">
 <!ENTITY update.failed.end          "">
 
