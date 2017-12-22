@@ -197,7 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Faire un clic droit ou cliquer en déplaçant la souris vers le bas pour afficher l’historique">
 <!ENTITY backForwardButtonMenuMac.tooltip "Cliquer tout en déplaçant la souris vers le bas pour afficher l’historique">
 <!ENTITY reloadCmd.label              "Actualiser">
-<!ENTITY reloadCmd.accesskey          "c">
+<!ENTITY reloadCmd.accesskey          "u">
 <!ENTITY stopCmd.label                "Arrêter">
 <!ENTITY stopCmd.accesskey            "r">
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -575,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Choisir l’image comme fond d’écran">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "d">
 <!ENTITY bookmarkPageCmd2.label       "Marquer cette page">
+<!ENTITY bookmarkPageCmd2.accesskey   "c">
 <!ENTITY bookmarkThisLinkCmd.label      "Marque-page sur ce lien">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Marque-page sur ce cadre">
@@ -1000,7 +1001,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.message "Une extension a modifié la page qui s’affiche lorsque vous ouvrez un nouvel onglet. Vous pouvez restaurer vos paramètres si vous n’acceptez pas ces modifications.">
 <!ENTITY newTabControlled.header.message "La page Nouvel onglet a été modifiée.">
 <!ENTITY newTabControlled.keepButton.label "Conserver les modifications">
+<!ENTITY newTabControlled.keepButton.accesskey "C">
 <!ENTITY newTabControlled.restoreButton.label "Restaurer les paramètres">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Actions pour la page">
 <!ENTITY pageAction.addToUrlbar.label "Ajouter à la barre d’adresse">
