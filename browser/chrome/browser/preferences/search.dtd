@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Hem arama hem de gezinti için adres çubuğunu kullan">
 <!ENTITY searchBar.shown.label                 "Araç çubuğuna arama çubuğunu ekle">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Adres çubuğu sonuçlarında arama önerilerini gezinti geçmişinden önce göster">
+
 <!ENTITY defaultSearchEngine.label             "Varsayılan arama motoru">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Adres çubuğunda ve arama çubuğunda kullanılacak varsayılan arama motorunu seçin.">
