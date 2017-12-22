@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "თითოეული მონაწილის ცალ-ცალკე მოწვევა">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "ც">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "შედეგად, მოწვევა ცალ-ცალკე დაეგზავნებათ მონაწილეებს. თითოეულ მოსაწვევში, მხოლოდ მიმღები იქნება მითითებული და სხვა მონაწილეები, არ გამოჩნდებიან.">
-<!ENTITY event.attendees.disallowcounter.label       "შეხვედრის შეთავაზების აკრძალვა">
+<!ENTITY event.attendees.disallowcounter.label       "შემხვედრი შეთავაზების აკრძალვა">
 <!ENTITY event.attendees.disallowcounter.accesskey   "თ">
-<!ENTITY event.attendees.disallowcounter.tooltip     "მიუთითებს, რომ თქვენ არ იღებთ შეხვედრის შეთავაზებებს">
+<!ENTITY event.attendees.disallowcounter.tooltip     "მიუთითებს, რომ თქვენ არ იღებთ შემხვედრ შეთავაზებებს">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "ღ">
@@ -125,56 +125,61 @@
 <!ENTITY  event.menu.options.label                            "პარამეტრები">
 <!ENTITY  event.menu.options.accesskey                        "ტ">
 <!ENTITY  event.menu.options.attendees.label                  "მონაწილეების მოწვევა…">
-<!ENTITY  event.menu.options.attendees.accesskey              "I">
-<!ENTITY  event.menu.options.timezone2.label                  "საათობრივი ზონები">
-<!ENTITY  event.menu.options.timezone2.accesskey              "z">
-<!ENTITY  event.menu.options.priority2.label                  "პრიორიტეტი">
-<!ENTITY  event.menu.options.priority2.accesskey              "y">
-<!ENTITY  event.menu.options.priority.notspecified.label      "არ მითითებულა">
-<!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
+<!ENTITY  event.menu.options.attendees.accesskey              "მ">
+<!ENTITY  event.menu.options.timezone2.label                  "დროის სარტყელები">
+<!ENTITY  event.menu.options.timezone2.accesskey              "ყ">
+<!ENTITY  event.menu.options.priority2.label                  "უპირატესობა">
+<!ENTITY  event.menu.options.priority2.accesskey              "უ">
+<!ENTITY  event.menu.options.priority.notspecified.label      "განუსაზღვრელია">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "ზ">
 <!ENTITY  event.menu.options.priority.low.label               "დაბალი">
-<!ENTITY  event.menu.options.priority.low.accesskey           "L">
+<!ENTITY  event.menu.options.priority.low.accesskey           "ბ">
 <!ENTITY  event.menu.options.priority.normal.label            "ჩვეულებრივი">
-<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "ე">
 <!ENTITY  event.menu.options.priority.high.label              "მაღალი">
-<!ENTITY  event.menu.options.priority.high.accesskey          "H">
-<!ENTITY  event.menu.options.privacy.label                    "კონფიდენციალობა">
-<!ENTITY  event.menu.options.privacy.accesskey                "P">
-<!ENTITY  event.menu.options.privacy.public.label             "საზოგადო მოვლენა">
-<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
-<!ENTITY  event.menu.options.privacy.confidential.label       "დროსა და თარიღის ჩვენება">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
-<!ENTITY  event.menu.options.privacy.private.label            "პირადი მოვლენა">
-<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
-<!ENTITY  event.menu.options.show.time.label                  "დროის ჩვენება როგორც">
-<!ENTITY  event.menu.options.show.time.accesskey              "T">
+<!ENTITY  event.menu.options.priority.high.accesskey          "ღ">
+<!ENTITY  event.menu.options.privacy.label                    "პირადულობა">
+<!ENTITY  event.menu.options.privacy.accesskey                "პ">
+<!ENTITY  event.menu.options.privacy.public.label             "საჯარო ღონისძიება">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "ჯ">
+<!ENTITY  event.menu.options.privacy.confidential.label       "მხოლოდ დროისა და თარიღის ჩვენება">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "ხ">
+<!ENTITY  event.menu.options.privacy.private.label            "დახურული ღონისძიება">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "რ">
+<!ENTITY  event.menu.options.show.time.label                  "დროის ჩვენება, როგორც">
+<!ENTITY  event.menu.options.show.time.accesskey              "ც">
 <!ENTITY  event.menu.options.show.time.busy.label             "დაკავებული">
-<!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "კ">
 <!ENTITY  event.menu.options.show.time.free.label             "თავისუფალი">
-<!ENTITY  event.menu.options.show.time.free.accesskey         "F">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "ფ">
 
-<!ENTITY event.invite.attendees.label                     "დამსწრეთა მოწვევა…">
-<!ENTITY event.invite.attendees.accesskey                 "I">
+<!ENTITY event.invite.attendees.label                     "მონაწილეების მოწვევა…">
+<!ENTITY event.invite.attendees.accesskey                 "ვ">
 <!ENTITY event.email.attendees.label                      "წერილის შედგენა ყველა დამსწრისთვის…">
-<!ENTITY event.email.attendees.accesskey                  "A">
+<!ENTITY event.email.attendees.accesskey                  "ყ">
 <!ENTITY event.email.tentative.attendees.label            "წერილის შედგენა დასაზუსტებელი დამსწრეთათვის…">
-<!ENTITY event.email.tentative.attendees.accesskey        "U">
+<!ENTITY event.email.tentative.attendees.accesskey        "ზ">
+<!ENTITY event.remove.attendees.label2                    "ყველა მონაწილის წაშლა">
+<!ENTITY event.remove.attendees.accesskey                 "წ">
+<!ENTITY event.remove.attendee.label                      "მონაწილის წაშლა">
+<!ENTITY event.remove.attendee.accesskey                  "შ">
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "შენახვა">
 <!ENTITY  event.toolbar.saveandclose.label                "შენახვა და დახურვა">
 <!ENTITY  event.toolbar.delete.label                      "წაშლა">
-<!ENTITY  event.toolbar.attendees.label                   "დამსწრეთა მოწვევა">
-<!ENTITY  event.toolbar.privacy.label                     "კონფიდენციალობა">
+<!ENTITY  event.toolbar.attendees.label                   "მონაწილეების მოწვევა">
+<!ENTITY  event.toolbar.privacy.label                     "პირადულობა">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "შენახვა">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "შენახვა და დახურვა">
 <!ENTITY  event.toolbar.delete.tooltip                    "წაშლა">
-<!ENTITY  event.toolbar.attendees.tooltip                 "დამსწრეთა მოწვევა">
+<!ENTITY  event.toolbar.attendees.tooltip                 "მონაწილეების მოწვევა">
 <!ENTITY  event.toolbar.attachments.tooltip               "დანართების დამატება">
 <!ENTITY  event.toolbar.privacy.tooltip                   "პირადულობის პარამეტრების შეცვლა">
 <!ENTITY  event.toolbar.priority.tooltip                  "უპირატესობის შეცვლა">
 <!ENTITY  event.toolbar.status.tooltip                    "მდგომარეობის შეცვლა">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "თავისუფალი/დაკავებული დროის შუალედების შეცვლა">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
@@ -183,6 +188,8 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "შეთავაზების მიღება">
+<!ENTITY counter.button.proposal.tooltip2                 "ღონისძიების ველები, უნდა შეივსოს მნიშვნელობებით, შემხვედრი შეთავაზებიდან, მხოლოდ, დამატებითი ცვლილებებით, ან მათ გარეშე შენახვა, თავისთავად ეცნობება თითოეულ მონაწილეს">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "სათაური:" >
