@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Dodanki">
 <!ENTITY addons.accesskey "D">
+<!ENTITY addonPrefs.label "Nastajenja dodanka">
+<!ENTITY addonPrefs.accesskey "N">
+<!ENTITY addonPrefsUnix.label "Nastajenja dodanka">
+<!ENTITY addonPrefsUnix.accesskey "N">
+<!ENTITY addonNoPrefs.label "Nastajenja dodanka njejsu se namakali.">
 <!ENTITY activitymanager.label "Zastojnik aktiwity">
 <!ENTITY activitymanager.accesskey "Z">
 <!ENTITY imAccountsStatus.label "Chatowy status">
