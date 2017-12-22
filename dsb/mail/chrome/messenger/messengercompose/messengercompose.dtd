@@ -82,7 +82,7 @@
 <!ENTITY deleteCmd.label "Wulašowaś">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY editRewrapCmd.label "Znowego łamaś">
-<!ENTITY editRewrapCmd.key "n">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Pśidank pśemjeniś…">
 <!ENTITY renameAttachmentCmd.accesskey "m">
 <!ENTITY reorderAttachmentsCmd.label "Pśidanki pśerědowaś…">
