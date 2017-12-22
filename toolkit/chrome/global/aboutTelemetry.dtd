@@ -7,7 +7,7 @@
 <!ENTITY aboutTelemetry.showCurrentPingData "
 პინგის მიმდინარე მონაცემები">
 <!ENTITY aboutTelemetry.showArchivedPingData "
-პინგის არქივირებული მონაცემები">
+პინგის დაარქივებული მონაცემები">
 <!ENTITY aboutTelemetry.showSubsessionData "
 ქვესეანსის მონაცემების ჩვენება
 ">
