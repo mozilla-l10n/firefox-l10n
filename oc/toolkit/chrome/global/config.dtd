@@ -3,30 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Atencion, dangièr !">
 <!ENTITY aboutWarningText.label "La modificacion d'aquestas preferéncias avançadas pòt èsser damatjable per l'estabilitat, la seguretat e las performàncias d'aquesta aplicacion. Contunhetz que se sabètz çò que fasètz.">
-
+<!ENTITY aboutWarningButton2.label "Preni lo risc">
 <!ENTITY aboutWarningCheckbox.label "Afichar aqueste avertiment lo còp que ven">
 
 <!ENTITY searchPrefs.label "Recercar...">
 <!ENTITY searchPrefs.accesskey "R">
 <!ENTITY focusSearch.key "r">
+<!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
-
 <!ENTITY prefColumn.label "Nom de l'opcion">
 <!ENTITY lockColumn.label "Estatut">
 <!ENTITY typeColumn.label "Tipe">
 <!ENTITY valueColumn.label "Valor">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Clicatz per triar"> 
 <!ENTITY columnChooser.tooltip "Clicatz per seleccionar las colomnas de visualizar"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiar">
 <!ENTITY copyPref.accesskey "C">
