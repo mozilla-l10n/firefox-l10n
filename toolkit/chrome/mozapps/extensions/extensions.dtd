@@ -142,7 +142,7 @@
 
 <!ENTITY detail.contributions.description     "ამ დამატების შემქმნელი, პროგრამის მომავალი განვითარებისთვის, გთხოვთ მხარდაჭერას, მცირეოდენი შემოწირულობის სახით.">
 
-<!ENTITY detail.updateType                    "ავტომატური განახლება">
+<!ENTITY detail.updateType                    "თვითგანახლებები">
 <!ENTITY detail.updateDefault.label           "ნაგულისხმევი">
 <!ENTITY detail.updateDefault.tooltip         "განახლებების ავტომატურად დაყენება, თუ ნაგულისხმევადაა მითითებული.">
 <!ENTITY detail.updateAutomatic.label         "ჩართვა">

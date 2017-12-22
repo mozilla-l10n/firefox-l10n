@@ -37,8 +37,8 @@
 <!ENTITY helpFeedbackPage.label      "უკუკავშირი...">
 <!ENTITY helpFeedbackPage.accesskey  "უ">
 
-<!ENTITY helpShowTour2.label            "&brandShorterName; ტური">
-<!ENTITY helpShowTour2.accesskey        "ტ">
+<!ENTITY helpShowTour2.label            "&brandShorterName; გზამკვლევი">
+<!ENTITY helpShowTour2.accesskey        "ზ">
 
 <!ENTITY preferencesCmdMac.label        "პარამეტრები…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
