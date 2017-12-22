@@ -12,6 +12,10 @@
 
 <!-- Field labels for input type=time -->
 
+<!ENTITY time.hour.label "Jam">
+<!ENTITY time.minute.label "Minit">
+<!ENTITY time.second.label "Saat">
+<!ENTITY time.millisecond.label "Milisaat">
 <!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
