@@ -32,6 +32,8 @@
 <!ENTITY aboutNetworking.logging               "Jornal">
 <!ENTITY aboutNetworking.setLogFile            "Definir un fichièr pel jornal">
 <!ENTITY aboutNetworking.setLogModules         "Definir de modul d'enregistrament pel jornal">
+<!ENTITY aboutNetworking.startLogging          "Començar la jornalizacion">
+<!ENTITY aboutNetworking.stopLogging           "Arrestar la jornalizacion">
 <!ENTITY aboutNetworking.dnsLookup             "Recèrca DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolucion">
 <!ENTITY aboutNetworking.dnsDomain             "Domeni">
@@ -40,7 +42,14 @@
 <!ENTITY aboutNetworking.rcwnStatus            "Estatuts RCWN">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Nombre de victòrias de l'escondedor">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Nombre de victòrias del ret">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Nombre total de requista del ret">
 <!ENTITY aboutNetworking.rcwnOperation         "Operacion de l'escondedor">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Dobrir">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Legir">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Escriure">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Dintrada dobèrta">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Corta mejana">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Longa mejana">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Long escart tipe">
 <!ENTITY aboutNetworking.rcwnCacheSlow         "Comptador d'escondedor lent">
 <!ENTITY aboutNetworking.rcwnCacheNotSlow      "Comptador d'escondedor non lent">
