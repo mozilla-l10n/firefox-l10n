@@ -82,7 +82,7 @@
 <!ENTITY deleteCmd.label "Zhašeć">
 <!ENTITY deleteCmd.accesskey "h">
 <!ENTITY editRewrapCmd.label "Znowa łamać">
-<!ENTITY editRewrapCmd.key "n">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Přiwěšk přemjenować…">
 <!ENTITY renameAttachmentCmd.accesskey "m">
 <!ENTITY reorderAttachmentsCmd.label "Přiwěški přerjadować…">
