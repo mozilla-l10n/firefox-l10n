@@ -3,6 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pingDataSource " Font de donadas de ping : ">
+<!ENTITY aboutTelemetry.showCurrentPingData "Donadas actualas ping">
+<!ENTITY aboutTelemetry.showArchivedPingData "Donadas ping archivadas">
+<!ENTITY aboutTelemetry.showSubsessionData "Afichar las donadas de substitucion">
+<!ENTITY aboutTelemetry.choosePing "Causir lo ping :">
+<!ENTITY aboutTelemetry.archivePingType "Tipe de ping">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.optionGroupToday "
 Uèi
@@ -10,11 +15,14 @@ Uèi
 <!ENTITY aboutTelemetry.optionGroupYesterday "
 Ièr
 ">
+<!ENTITY aboutTelemetry.optionGroupOlder "Mai ancian">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Carga utila">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
 
 <!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
+<!ENTITY aboutTelemetry.moreInformations "A la recèrca de mai d'informacions ?">
 
 
 <!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
