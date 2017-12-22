@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Utiliser la barre d’adresse pour naviguer et effectuer des recherches">
 <!ENTITY searchBar.shown.label                 "Ajouter la barre de recherche à la barre d’outils">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Afficher les suggestions de recherche avant l’historique de navigation dans les résultats de la barre d’adresse">
+
 <!ENTITY defaultSearchEngine.label             "Moteur de recherche par défaut">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Sélectionnez le moteur de recherche à utiliser par défaut dans la barre d’adresse et la barre de recherche.">
