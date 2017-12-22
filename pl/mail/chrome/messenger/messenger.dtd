@@ -448,6 +448,11 @@
 <!ENTITY tasksMenu.accesskey "N">
 <!ENTITY addons.label "Dodatki">
 <!ENTITY addons.accesskey "D">
+<!ENTITY addonPrefs.label "Opcje dodatku">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Preferencje dodatku">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Nie odnaleziono ustawień dodatku.">
 <!ENTITY activitymanager.label "Monitor aktywności">
 <!ENTITY activitymanager.accesskey "M">
 <!ENTITY imAccountsStatus.label "Status komunikatora">
