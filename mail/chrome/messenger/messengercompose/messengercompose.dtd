@@ -331,6 +331,8 @@
 <!ENTITY removeAttachment.accesskey "д">
 <!ENTITY renameAttachment.label "Змяніць назву…">
 <!ENTITY renameAttachment.accesskey "З">
+<!ENTITY reorderAttachments.label "Перапарадкаваць укладанні…">
+<!ENTITY reorderAttachments.accesskey "а">
 <!ENTITY selectAll.label "Вылучыць усё">
 <!ENTITY selectAll.accesskey "У">
 <!ENTITY attachFile.label "Далучыць файл(ы)…">
@@ -354,6 +356,9 @@
 <!ENTITY addressesSidebarTitle.label "Сувязі">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Наладзіць адрас адпраўніка…">
+<!ENTITY customizeFromAddress.accesskey "Н">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Мова праверкі правапісу">
 <!ENTITY encodingStatusPanel.tooltip "Кадаванне тэксту">

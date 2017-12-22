@@ -39,6 +39,7 @@ sentence. -->
 <!ENTITY  browse.label                        "Агляд…">
 <!ENTITY  browse.accesskey                    "г">
 
+<!ENTITY messageStyleTab.title             "Стылі паведамлення">
 <!ENTITY messageStylePreview.label         "Перадпрагляд:">
 <!ENTITY messageStyleTheme.label           "Тэма:">
 <!ENTITY messageStyleTheme.accesskey       "Т">
@@ -50,3 +51,6 @@ sentence. -->
 <!ENTITY messageStyleDefaultTheme.label    "Прадвызначаная">
 <!ENTITY messageStyleVariant.label         "Варыянт:">
 <!ENTITY messageStyleVariant.accesskey     "В">
+<!ENTITY messageStyleShowHeader.label      "Паказваць загаловак">
+<!ENTITY messageStyleShowHeader.accesskey  "П">
+<!ENTITY messageStyleNoPreview.title       "Папярэдні прагляд недаступны">
