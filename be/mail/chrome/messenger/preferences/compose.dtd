@@ -52,6 +52,7 @@
 <!ENTITY directoriesNone.label                 "Няма">
 <!ENTITY editDirectories.label                 "Рэдагаваць дырэкторыі…">
 <!ENTITY editDirectories.accesskey             "Р">
+<!ENTITY showAsDefaultLast.label               "Апошні выкарыстаны каталог">
 
 <!ENTITY sendOptionsDescription.label          "Наладжванне паводзінаў пры фарматаванні тэксту">
 <!ENTITY sendOptions.label                     "Наладжванні дасылання…">

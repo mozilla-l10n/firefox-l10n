@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Дадаткі">
 <!ENTITY addons.accesskey "д">
+<!ENTITY addonPrefs.label "Налады дадатка">
+<!ENTITY addonPrefs.accesskey "Н">
+<!ENTITY addonPrefsUnix.label "Перавагі дадатка">
+<!ENTITY addonPrefsUnix.accesskey "П">
+<!ENTITY addonNoPrefs.label "Не знойдзены налады дадатку.">
 <!ENTITY activitymanager.label "Кіраўнік дзейнасці">
 <!ENTITY activitymanager.accesskey "д">
 <!ENTITY imAccountsStatus.label "Статус гутаркі">

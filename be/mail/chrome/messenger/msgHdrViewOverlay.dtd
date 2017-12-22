@@ -25,6 +25,7 @@
 <!ENTITY hdrArchiveButton1.label "У архіў">
 <!ENTITY hdrArchiveButton1.tooltip "Архіваваць гэты ліст">
 <!ENTITY hdrOpenConversationButton1.label "Размова">
+<!ENTITY hdrOpenConversationButton1.tooltip "Паказаць размову для гэтага паведамлення">
 <!ENTITY hdrSmartReplyButton1.label "Кемны адказ">
 <!ENTITY hdrReplyButton1.label "Адказаць">
 <!ENTITY hdrReplyButton2.tooltip "Адказаць дасылальніку гэтага ліста">
