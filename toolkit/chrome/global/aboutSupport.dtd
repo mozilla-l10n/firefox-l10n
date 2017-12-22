@@ -155,3 +155,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Saluran">
 <!ENTITY aboutSupport.mediaDeviceRate "Kadar">
 <!ENTITY aboutSupport.mediaDeviceLatency "Kependaman">
+
+<!ENTITY aboutSupport.intlAppTitle "Tetapan Aplikasi">
+<!ENTITY aboutSupport.intlLocalesRequested "Lokaliti Diminta">
+<!ENTITY aboutSupport.intlLocalesAvailable "Lokaliti Tersedia">
+<!ENTITY aboutSupport.intlLocalesSupported "Lokaliti Aplikasi">
+<!ENTITY aboutSupport.intlLocalesDefault "Lokaliti Piawai">
+<!ENTITY aboutSupport.intlOSTitle "Sistem Pengoperasian">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Lokaliti Sistem">
+<!ENTITY aboutSupport.intlRegionalPrefs "Keutamaan Wilayah">
