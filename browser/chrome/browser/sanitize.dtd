@@ -58,7 +58,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "კ">
 <!ENTITY itemOfflineApps.label             "ვებსაიტის შენახული მონაცემები">
 <!ENTITY itemOfflineApps.accesskey         "მ">
-<!ENTITY itemActiveLogins.label            "მიმდინარე შესვლები">
+<!ENTITY itemActiveLogins.label            "მოქმედი ანგარიშები">
 <!ENTITY itemActiveLogins.accesskey        "შ">
 <!ENTITY itemSitePreferences.label         "საიტის პარამეტრები">
 <!ENTITY itemSitePreferences.accesskey     "პ">
