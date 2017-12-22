@@ -4,10 +4,10 @@
 
 <!ENTITY time.midnight "Połnoc" >
 <!ENTITY time.noon "Połdnjo" >
+
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-
 <!ENTITY day.1.Ddd "Nj" >
 <!ENTITY day.1.Ddd.accesskey "N">
 <!ENTITY day.2.Ddd "Pó" >
@@ -19,7 +19,7 @@
 <!ENTITY day.5.Ddd "St" >
 <!ENTITY day.5.Ddd.accesskey "t">
 <!ENTITY day.6.Ddd "Pě" >
-<!ENTITY day.6.Ddd.accesskey "k">
+<!ENTITY day.6.Ddd.accesskey "P">
 <!ENTITY day.7.Ddd "So" >
 <!ENTITY day.7.Ddd.accesskey "o">
 
