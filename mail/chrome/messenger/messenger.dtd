@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Додаци">
 <!ENTITY addons.accesskey "Д">
+<!ENTITY addonPrefs.label "Поставке додатка">
+<!ENTITY addonPrefs.accesskey "П">
+<!ENTITY addonPrefsUnix.label "Поставке додатка">
+<!ENTITY addonPrefsUnix.accesskey "П">
+<!ENTITY addonNoPrefs.label "Поставке додатка нису пронађене.">
 <!ENTITY activitymanager.label "Управник активностима">
 <!ENTITY activitymanager.accesskey "в">
 <!ENTITY imAccountsStatus.label "Стање ћаскања">
