@@ -168,6 +168,7 @@
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Le notifiche sono bloccate per questo sito.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Il salvataggio dati nell’archivio permanente è bloccato per questo sito.">
 <!ENTITY urlbar.popupBlocked.tooltip "Sono state bloccate delle finestre pop-up per questo sito web.">
+<!ENTITY urlbar.canvasBlocked.tooltip "È stato bloccato l’accesso ai dati dei canvas per questo sito web.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Visualizza cronologia">
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY homeButton.label "Pagina iniziale&#173;">
