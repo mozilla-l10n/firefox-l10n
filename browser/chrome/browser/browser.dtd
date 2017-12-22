@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Pro tento server jste zablokovali otevírání vyskakovacích oken.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Tomuto serveru jste zablokovali přístup k informacím canvasu.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazí historii">
 
 <!ENTITY searchItem.title             "Hledání">
