@@ -779,7 +779,7 @@
 <!ENTITY contextCopyMsgMenu.label "Copia in">
 <!ENTITY contextCopyMsgMenu.accesskey "n">
 <!ENTITY contextKillThreadMenu.label "Ignora la discussione">
-<!ENTITY contextKillSubthreadMenu.accesskey "b">
+<!ENTITY contextKillSubthreadMenu.accesskey "d">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignora le sotto discussioni">
 <!ENTITY contextWatchThreadMenu.label "Tieni d'occhio la discussione">
