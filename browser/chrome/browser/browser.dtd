@@ -189,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "M">
 
 <!ENTITY backCmd.label                "Page précédente">
+<!ENTITY backCmd.accesskey            "P">
 <!ENTITY backButton.tooltip           "Reculer d’une page">
 <!ENTITY forwardCmd.label             "Page suivante">
+<!ENTITY forwardCmd.accesskey         "s">
 <!ENTITY forwardButton.tooltip        "Avancer d’une page">
 <!ENTITY backForwardButtonMenu.tooltip "Faire un clic droit ou cliquer en déplaçant la souris vers le bas pour afficher l’historique">
 <!ENTITY backForwardButtonMenuMac.tooltip "Cliquer tout en déplaçant la souris vers le bas pour afficher l’historique">
 <!ENTITY reloadCmd.label              "Actualiser">
+<!ENTITY reloadCmd.accesskey          "c">
 <!ENTITY stopCmd.label                "Arrêter">
+<!ENTITY stopCmd.accesskey            "r">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Se rendre à la page indiquée dans la barre d’adresse">
 <!ENTITY printButton.label            "Imprimer">
