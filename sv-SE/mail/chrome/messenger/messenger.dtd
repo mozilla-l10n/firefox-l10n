@@ -464,6 +464,7 @@
 <!ENTITY addonPrefs.accesskey "n">
 <!ENTITY addonPrefsUnix.label "Inställningar för tillägg">
 <!ENTITY addonPrefsUnix.accesskey "n">
+<!ENTITY addonNoPrefs.label "Inga inställningar för tillägg hittades.">
 <!ENTITY activitymanager.label "Aktiviteter">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Chattstatus">
