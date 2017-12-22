@@ -947,10 +947,10 @@
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Słužby">
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; schować">
-<!ENTITY hideThisAppCmdMac.commandkey   "s">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "Druhe schować">
-<!ENTITY hideOtherAppsCmdMac.commandkey "D">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Wšě pokazać">
 
