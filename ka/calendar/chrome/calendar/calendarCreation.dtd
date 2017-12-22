@@ -16,7 +16,7 @@
 <!ENTITY locationpage.password.label      "პაროლი:" >
 
 <!ENTITY custompage.shortdescription  "კალენდრის მორგება" >
-<!ENTITY custompage.longdescription   "შეგიძლიათ ამ კალენდრის მეტსახელის მითითება და მოვლენების შეფერადება." >
+<!ENTITY custompage.longdescription   "შეგიძლიათ კალენდარს შეურჩიოთ მეტსახელი და შეაფერადოთ ღონისძიების აღნიშვნები." >
 
 <!ENTITY finishpage.shortdescription  "კალენდარი შეიქმნა" >
 <!ENTITY finishpage.longdescription   "თქვენი კალენდარი შეიქმნა." >

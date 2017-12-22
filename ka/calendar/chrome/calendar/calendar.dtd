@@ -6,7 +6,7 @@
 <!ENTITY calendar.calendar.label     "კალენდარი">
 <!ENTITY calendar.calendar.accesskey "C">
 
-<!ENTITY calendar.newevent.button.tooltip         "ახალი მოვლენის შექმნა" >
+<!ENTITY calendar.newevent.button.tooltip         "ახალი ღონისძიების შექმნა" >
 <!ENTITY calendar.newtask.button.tooltip          "ახალი ამოცანის შექმნა" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "ამოცანები" >
@@ -16,15 +16,15 @@
 <!ENTITY calendar.tomorrow.button.label       "ხვალ">
 <!ENTITY calendar.upcoming.button.label       "მოახლოებული">
 
-<!ENTITY calendar.events.filter.all.label "ყველა მოვლენა">
-<!ENTITY calendar.events.filter.today.label "დღევანდელი მოვლენები">
-<!ENTITY calendar.events.filter.future.label "ყველა მომავალი მოვლენები">
-<!ENTITY calendar.events.filter.current.label "შერჩეული დღის მოვლენები">
-<!ENTITY calendar.events.filter.currentview.label "მოვლენები მიმდინარე გვრდზე">
-<!ENTITY calendar.events.filter.next7Days.label "შემდეგი 7 დღის მოვლენები">
-<!ENTITY calendar.events.filter.next14Days.label "შემდეგი 14 დღის მოვლენები">
-<!ENTITY calendar.events.filter.next31Days.label "შემდეგი 31 დღის მოვლენები">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "ამ კალენდარული თვის მოვლენები">
+<!ENTITY calendar.events.filter.all.label "ყველა ღონისძიება">
+<!ENTITY calendar.events.filter.today.label "დღევანდელი ღონისძიებები">
+<!ENTITY calendar.events.filter.future.label "ყველა მომავალი ღონისძიება">
+<!ENTITY calendar.events.filter.current.label "მითითებული დღის">
+<!ENTITY calendar.events.filter.currentview.label "ღონისძიებები მიმდინარე გვერდზე">
+<!ENTITY calendar.events.filter.next7Days.label "ღონისძიებები, მომდევნო 7 დღეში">
+<!ENTITY calendar.events.filter.next14Days.label "ღონისძიებები, მომდევნო 14 დღეში">
+<!ENTITY calendar.events.filter.next31Days.label "ღონისძიებები, მომდევნო 31 დღეში">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "ღონისძიებები, ამ კალენდარულ თვეში">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
@@ -55,7 +55,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "კალენდრის სახელით დალაგება">
 <!ENTITY calendar.unifinder.tree.duration.label            "ხანგრძლიობ">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "დალაგება ხანგრძლივობის მიხედვით">
-<!ENTITY calendar.unifinder.close.tooltip                  "მოვლენათა ძიებისა და სიის დახურვა">
+<!ENTITY calendar.unifinder.close.tooltip                  "ღონისძიებათა ძიებისა და სიის დახურვა">
 
 <!ENTITY calendar.today.button.tooltip          "გადასვლა დღევანდელზე" >
 <!ENTITY calendar.todaypane.button.tooltip      "დღევანდელი დაფა" >
@@ -85,7 +85,7 @@
 <!ENTITY calendar.navigation.nextmonth.tooltip  "ერთი თვით წინ" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "ერთი თვით უკან" >
 
-<!ENTITY calendar.newevent.button.label         "ახალი მოვლენა" >
+<!ENTITY calendar.newevent.button.label         "ახალი ღონისძიება" >
 <!ENTITY calendar.newtask.button.label          "რედაქტირება" >
 <!ENTITY calendar.print.button.label            "ბეჭდვა" >
 <!ENTITY calendar.print.button.accesskey        "ჭ">
@@ -158,20 +158,20 @@
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "ამოცანის გახსნა…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
-<!ENTITY calendar.context.newevent.label              "ახალი მოვლენა">
-<!ENTITY calendar.context.newevent.accesskey          "N">
+<!ENTITY calendar.context.newevent.label              "ახალი ღონისძიება…">
+<!ENTITY calendar.context.newevent.accesskey          "ხ">
 <!ENTITY calendar.context.newtodo.label               "ახალი ამოცანა">
 <!ENTITY calendar.context.newtodo.accesskey           "k">
 <!ENTITY calendar.context.deletetask.label            "ამოცანის წაშლა">
 <!ENTITY calendar.context.deletetask.accesskey        "l">
-<!ENTITY calendar.context.deleteevent.label           "მოვლენის წაშლა">
-<!ENTITY calendar.context.deleteevent.accesskey       "l">
+<!ENTITY calendar.context.deleteevent.label           "ღონისძიების წაშლა">
+<!ENTITY calendar.context.deleteevent.accesskey       "წ">
 <!ENTITY calendar.context.cutevent.label              "ამოჭრა">
-<!ENTITY calendar.context.cutevent.accesskey          "t">
-<!ENTITY calendar.context.copyevent.label             "კოპირება">
-<!ENTITY calendar.context.copyevent.accesskey         "C">
+<!ENTITY calendar.context.cutevent.accesskey          "ჭ">
+<!ENTITY calendar.context.copyevent.label             "დაკოპირება">
+<!ENTITY calendar.context.copyevent.accesskey         "პ">
 <!ENTITY calendar.context.pasteevent.label            "ჩასმა">
-<!ENTITY calendar.context.pasteevent.accesskey        "P">
+<!ENTITY calendar.context.pasteevent.accesskey        "ჩ">
 <!ENTITY calendar.context.button.label                "დღევანდელის სტენდი" >
 <!ENTITY calendar.context.button.accesskey            "T" >
 <!ENTITY calendar.context.attendance.menu.label       "დამსწრეები" >
@@ -269,8 +269,8 @@
 <!ENTITY calendar.context.convertmenu.label              "გარდაქმნა -">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
-<!ENTITY calendar.context.convertmenu.event.label        "მოვლენა…">
-<!ENTITY calendar.context.convertmenu.event.accesskey    "E">
+<!ENTITY calendar.context.convertmenu.event.label        "ღონისძიება…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "ღ">
 <!ENTITY calendar.context.convertmenu.message.label      "გზავნილი…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">
 <!ENTITY calendar.context.convertmenu.task.label         "ამოცანა…">
@@ -350,9 +350,9 @@
 <!ENTITY calendar.print.layout.label "თარგი:">
 <!ENTITY calendar.print.range.label "ამოსაბეჭდი მასალა">
 <!ENTITY calendar.print.currentView2.label "მიმდინარე მოვლენები">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "შერჩეული მოვლენები/ამოცანები">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "მითითებული ღონისძიებები/დავალებები">
 <!ENTITY calendar.print.tasks.label "ამოცანები">
-<!ENTITY calendar.print.events.label "მოვლენები">
+<!ENTITY calendar.print.events.label "ღონისძიებები">
 <!ENTITY calendar.print.custom.label "მონაცემთა საკუთარი რანგი:">
 <!ENTITY calendar.print.from.label "დაწყ.:">
 <!ENTITY calendar.print.to.label "-:">
@@ -368,7 +368,7 @@
 <!ENTITY calendar.error.title "დაიმზირება შეცდომა">
 
 <!-- Extract buttons in message header -->
-<!ENTITY calendar.extract.event.button         "მოვლენის სახით დამატება">
+<!ENTITY calendar.extract.event.button         "ღონისძიების სახით დამატება">
 <!ENTITY calendar.extract.task.button          "ამოცანის სახით დამატება">
-<!ENTITY calendar.extract.event.button.tooltip "კალენდარული მონაცემის ამოღება გზავნილიდან და თქვენს კალენდარში, როგორც მოვლენის, დამატება">
+<!ENTITY calendar.extract.event.button.tooltip "კალენდარული მონაცემის ამოღება გზავნილიდან და თქვენს კალენდარში, ღონისძიების სახით, დამატება">
 <!ENTITY calendar.extract.task.button.tooltip  "კალენდარული მონაცემის ამოღება გზავნილიდან და თქვენს კალენდარში, როგორც ამოცანის, დამატება">
