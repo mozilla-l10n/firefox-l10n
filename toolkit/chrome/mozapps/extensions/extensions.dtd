@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Gestionari de moduls complementaris">
 
 <!ENTITY search.placeholder                   "Recercar dins totes los moduls">
+
 <!ENTITY search.buttonlabel                   "Recercar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -20,16 +21,16 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Aisinas per totes los moduls">
 
-
+<!ENTITY getThemes.description                "Volètz personalizar vòstre navigator ?">
 
 <!ENTITY cmd.back.tooltip                     "Recuolar d'una pagina">
 <!ENTITY cmd.forward.tooltip                  "Avançar d'una pagina">
 
-<!ENTITY showAllExtensions.button.label       "Afichar totas las transicions">
 
+<!ENTITY showAllExtensions.button.label       "Afichar totas las transicions">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
-
 <!ENTITY warning.safemode.label                    "Totes los moduls complementaris son estats desactivats pel mòde sens fracàs.">
 <!ENTITY warning.checkcompatibility.label          "La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unes moduls sián incompatibles.">
 <!ENTITY warning.checkcompatibility.enable.label   "Activar">
@@ -37,14 +38,14 @@
 <!ENTITY warning.updatesecurity.label              "La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unas mesas a jorn sián problematicas.">
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar la verificacion de mesas a jorn de seguretat pels moduls complementaris">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Recercar">
 <!ENTITY view.discover.label                  "Obténer de moduls complementaris">
 <!ENTITY view.recentUpdates.label             "Mes a jorn">
 <!ENTITY view.availableUpdates.label          "De metre a jorn">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Recercar de mesas a jorn">
 <!ENTITY updates.checkForUpdates.accesskey    "R">
 <!ENTITY updates.viewUpdates.label            "Afichar las mesas a jorn recentas">
@@ -72,8 +73,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Afichar las mesas a jorn disponiblas">
 <!ENTITY updates.updateSelected.label         "Installar las mesas a jorn">
 <!ENTITY updates.updateSelected.tooltip       "Installar las mesas a jorn disponiblas dins aquesta lista">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Afichar mai d'entresenhas">
 <!ENTITY cmd.showDetails.accesskey            "f">
 <!ENTITY cmd.findUpdates.label                "Recercar de mesas a jorn">
@@ -116,15 +117,15 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Afichar las nòtas de version per aquesta mesa a jorn">
 <!ENTITY cmd.hideReleaseNotes.label           "Amagar las nòtas de version">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Amagar las nòtas de version per aquesta mesa a jorn">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "De qué son los moduls complementaris ?">
 <!ENTITY discover.description2                "Los moduls complementaris son d'aplicacions que permeton de personalizar &brandShortName; amb de foncionalitats o d'estils suplementaris. Ganhatz de temps amb un panèl lateral, susvelhatz la metèo o cambiatz l'aparéncia de &brandShortName; coma vos agrada.">
 <!ENTITY discover.footer                      "Quand vòstra connexion Internet serà activa, aqueste panèl vos permetrà de descobrir certans dels melhors moduls complementaris e tanben los mai populars.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
 <!ENTITY detail.lastupdated.label             "Darrièra mesa a jorn">
 <!ENTITY detail.creator.label                 "Desvolopaire">
@@ -153,17 +154,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Preferéncias">
 <!ENTITY detail.showPreferencesUnix.accesskey "r">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Modificar las preferéncias d'aqueste modul complementari">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Apreciacion">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
 <!ENTITY progress.cancel.tooltip              "Anullar">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Nom">
 <!ENTITY sort.name.tooltip                    "Triar per nom">
 <!ENTITY sort.dateUpdated.label               "Darrièra mesa a jorn">
@@ -186,6 +187,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "OBSOLÈT">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -219,12 +221,12 @@
 <!ENTITY eula.accept                          "Acceptar e installar...">
 
 <!ENTITY settings.path.button.label           "Percórrer...">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Qu'es aquò ? La telemetria pòt installar e aviar d'experimentacions de temps en temps.">
 <!ENTITY experiment.info.learnmore "N'aprendre mai">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -233,16 +235,16 @@
 
 <!ENTITY setting.learnmore "Ne saber mai…">
 
+<!ENTITY disabledUnsigned.heading "De moduls son estats desactivats">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
+<!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.learnMore "Ne saber mai.">
 
-
+<!ENTITY legacyExtensions.title "Extensions obsolètas">

@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
-
 
 <!ENTITY next.tooltip "Tròba l'ocurréncia venenta de la frasa">
 <!ENTITY previous.tooltip "Tròba l'ocurréncia precedenta de la frasa">
@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "Respectar la cassa">
 <!ENTITY caseSensitive.accesskey "R">
 <!ENTITY caseSensitive.tooltiptext "Efectuar una recèrca en respectant la cassa">
-
-
-
+<!ENTITY entireWord.label "Mots entièrs">
+<!ENTITY entireWord.accesskey "m">
+<!ENTITY entireWord.tooltiptext "Cercar sonque los mots entièrs">
