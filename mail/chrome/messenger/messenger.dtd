@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addonPrefs.label "Pilihan Add-on">
+<!ENTITY addonPrefs.accesskey "P">
+<!ENTITY addonPrefsUnix.label "Keutamaan Add-on">
+<!ENTITY addonPrefsUnix.accesskey "K">
+<!ENTITY addonNoPrefs.label "Tiada tetapan Add-on ditemui.">
 <!ENTITY activitymanager.label "Pengurus Aktiviti">
 <!ENTITY activitymanager.accesskey "t">
 <!ENTITY imAccountsStatus.label "Status sembang">
