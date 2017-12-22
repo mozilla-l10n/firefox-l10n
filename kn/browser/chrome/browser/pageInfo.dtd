@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "ಯಾವಾಗಲೂ ಕೇಳು">
 <!ENTITY  permAllow             "ಅನುಮತಿಸು">
 <!ENTITY  permAllowSession      "ಅಧಿವೇಶನಕ್ಕೆ ಅನುಮತಿಸು">
+<!ENTITY  permHide              "ಅಡಗಿಸು">
 <!ENTITY  permBlock             "ನಿರ್ಬಂಧಿಸು">
 <!ENTITY  permissionsFor        "ಇದಕ್ಕಾಗಿನ ಅನುಮತಿಗಳು:">
 <!ENTITY  permPlugins           "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">

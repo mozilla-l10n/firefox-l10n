@@ -12,6 +12,12 @@
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "ಲಾಗಿನ್‍ಗಳು">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "ಆಯ್ಕೆಗಳು">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "ಆದ್ಯತೆಗಳು">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ಆಡ್-ಆನ್‌ಗಳು">
