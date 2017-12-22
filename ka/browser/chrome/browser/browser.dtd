@@ -888,16 +888,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "მჭიდრო">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "მჭიდრო">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "შემჭიდროებული">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "ჭ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "შეხება">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "შეხება">
+<!ENTITY customizeMode.uidensity.menuTouch.label "შეხებისთვის განკუთვნილი">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "მობილური ეკრანებისთვის">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "შ">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "შეხებაზე რეაგირება პლანშეტის რეჟიმისას">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "შეხების არჩევა, პლანშეტის რეჟიმისას">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "თვითდამალვა">
 
