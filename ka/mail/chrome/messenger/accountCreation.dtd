@@ -38,7 +38,7 @@
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "დეტალური კონფიგურაცია">
+<!ENTITY advancedSetup.label             "სრულად გამართვა">
 <!ENTITY advancedSetup.accesskey         "A">
 <!ENTITY cancel.label                    "გაუქმება">
 <!ENTITY cancel.accesskey                "a">
@@ -52,7 +52,7 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "ხელახლა შემოწმება">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "ხელით კონფიგურაცია">
+<!ENTITY manual-edit.label               "ხელით გამართვა">
 <!ENTITY manual-edit.accesskey           "M">
 
 
