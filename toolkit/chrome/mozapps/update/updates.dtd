@@ -45,7 +45,7 @@
 
 <!ENTITY  error.title                     "განახლება არ შედგა">
 
-<!ENTITY  error.label                     "პრობლემა ამ განახლების ჩამოტვირთვისას ან ჩადგმისას. 
+<!ENTITY  error.label                     "ხარვეზი განახლების ჩამოტვირთვისას ან ჩადგმისას. 
 &brandShortName; ვერ განახლდება რადგან:">
                                            
 <!ENTITY  errorManual.label               "&brandShortName; შეგიძლიათ ხელით განაახლოთ თუ მოინახულებთ 
