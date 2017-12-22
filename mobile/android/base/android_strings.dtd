@@ -223,7 +223,7 @@
 <!ENTITY pref_category_home_homepage "Pagina d’acuèlh">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "Utilizar tanben pels onglets novèls">
+<!ENTITY home_homepage_every_new_tab "Pels onglets novèls tanben">
 <!ENTITY home_homepage_title "Definir una pagina d’acuèlh">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -233,7 +233,7 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "Personalizat">
+<!ENTITY home_homepage_radio_user_address "Personalizada">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
