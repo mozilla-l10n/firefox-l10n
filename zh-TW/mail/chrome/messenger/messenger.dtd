@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "附加元件">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addonPrefs.label "附加元件選項">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "附加元件偏好設定">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "找不到附加元件設定。">
 <!ENTITY activitymanager.label "活動管理員">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "聊天狀態">
