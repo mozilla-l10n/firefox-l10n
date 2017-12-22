@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Wužywajśo adresowe pólo za pytanje a nawigaciju">
 <!ENTITY searchBar.shown.label                 "Pytańske pólo symbolowej rědce pśidaś">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Pytańske naraźenja pśed pśeglědowańskeju historiju we wuslědkach adresowego póla pokazaś">
+
 <!ENTITY defaultSearchEngine.label             "Standardna pytnica">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Wubjeŕśo standardnu pytnicu, kótaraž ma se w adresowem pólu a pytańskem polu wužywaś.">
