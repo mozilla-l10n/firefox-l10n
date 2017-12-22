@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Sće wuskakowace wokna za tute websydło zablokował.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Sće přistup ke canvasowym datam za tute websydło zablokował.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazać">
 
 <!ENTITY searchItem.title             "Pytać">
