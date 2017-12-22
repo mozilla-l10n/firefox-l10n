@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Bloqueou pop-ups para este website.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Bloqueou a extração de dados da tela para este website.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar histórico">
 
 <!ENTITY searchItem.title             "Pesquisa">
