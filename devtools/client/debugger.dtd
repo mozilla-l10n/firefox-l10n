@@ -43,7 +43,6 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-<!ENTITY debuggerUI.autoPrettyPrint     "ייפוי קוד אוטומטי על קבצי מקור מוקטנים">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "פ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
@@ -94,7 +93,6 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
-<!ENTITY debuggerUI.autoBlackBox           "הפעלת קופסה שחורה אוטומטית על קבצי מקור מוקטנים">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "ש">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
