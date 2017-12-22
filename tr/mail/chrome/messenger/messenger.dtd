@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Eklentiler">
 <!ENTITY addons.accesskey "E">
+<!ENTITY addonPrefs.label "Eklenti seçenekleri">
+<!ENTITY addonPrefs.accesskey "E">
+<!ENTITY addonPrefsUnix.label "Eklenti tercihleri">
+<!ENTITY addonPrefsUnix.accesskey "t">
+<!ENTITY addonNoPrefs.label "Hiç eklenti ayarı bulunamadı.">
 <!ENTITY activitymanager.label "Etkinlik yöneticisi">
 <!ENTITY activitymanager.accesskey "Y">
 <!ENTITY imAccountsStatus.label "Sohbet durumu">
