@@ -33,7 +33,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentName "სახელი">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "აღწერილობა">
-<!ENTITY aboutSupport.experimentActive "აქტიური">
+<!ENTITY aboutSupport.experimentActive "მოქმედი">
 <!ENTITY aboutSupport.experimentEndDate "დასრულების თარიღი">
 <!ENTITY aboutSupport.experimentHomepage "მთავარი გვერდი">
 <!ENTITY aboutSupport.experimentBranch "განშტოება">
@@ -107,7 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "თანმიმდევრული GC">
 
 <!ENTITY aboutSupport.a11yTitle "დამხმარე საშუალებები">
-<!ENTITY aboutSupport.a11yActivated "აქტივირებული">
+<!ENTITY aboutSupport.a11yActivated "მოქმედი">
 <!ENTITY aboutSupport.a11yForceDisabled "დამხმარე საშუალებების აკრძალვა">
 <!ENTITY aboutSupport.a11yHandlerUsed "გამოყენებულია ხელმისაწვდომი დამმუშავებელი">
 <!ENTITY aboutSupport.a11yInstantiator "დამხმარე Instantiator">

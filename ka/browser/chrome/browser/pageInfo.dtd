@@ -58,7 +58,7 @@
 <!ENTITY  permHide              "დამალვა">
 <!ENTITY  permBlock             "აკრძალვა">
 <!ENTITY  permissionsFor        "ნებართვები საიტისთვის:">
-<!ENTITY  permPlugins           "მოდულების გააქტიურება">
+<!ENTITY  permPlugins           "მოდულების ამოქმედება">
 
 <!ENTITY  permClearStorage           "საცავის გასუფთავება">
 <!ENTITY  permClearStorage.accesskey "გ">

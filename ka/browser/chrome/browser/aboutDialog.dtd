@@ -103,7 +103,7 @@
 <!ENTITY update.downloading.start   "განახლების ჩამოტვირთვა — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "განახლების გააქტიურება...">
+<!ENTITY update.applying            "განახლების ამოქმედება…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
