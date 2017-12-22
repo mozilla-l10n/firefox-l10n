@@ -987,12 +987,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabControlled.keepButton.label "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸುಕೊ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.restoreButton.label "ಸಂಯೋಜನೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
+<!ENTITY newTabControlled.restoreButton.label "ಸಿದ್ದತೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "ಪುಟದ ಕಾರ್ಯಗಳು">
 <!ENTITY pageAction.addToUrlbar.label "ವಿಳಾಸದ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ">
 <!ENTITY pageAction.removeFromUrlbar.label "ವಿಳಾಸದ ಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ">
 
+<!ENTITY pageAction.allowInUrlbar.label "ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ತೋರಿಸು">
 
 <!ENTITY pageAction.sendTabToDevice.label "ಟ್ಯಾಬ್ಅನ್ನು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು">
 <!ENTITY sendToDevice.syncNotReady.label "ಸಾಧನಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ…">
