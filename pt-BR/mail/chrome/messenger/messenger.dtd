@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "b">
 <!ENTITY addons.label "Extensões">
 <!ENTITY addons.accesskey "C">
+<!ENTITY addonPrefs.label "Opções da extensão">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Preferências da extensão">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Não foram encontradas configurações da extensão.">
 <!ENTITY activitymanager.label "Gerenciador de atividade">
 <!ENTITY activitymanager.accesskey "G">
 <!ENTITY imAccountsStatus.label "Status do bate-papo">
