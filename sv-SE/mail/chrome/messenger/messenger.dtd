@@ -460,6 +460,10 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Tillägg">
 <!ENTITY addons.accesskey "T">
+<!ENTITY addonPrefs.label "Inställningar för tillägg">
+<!ENTITY addonPrefs.accesskey "n">
+<!ENTITY addonPrefsUnix.label "Inställningar för tillägg">
+<!ENTITY addonPrefsUnix.accesskey "n">
 <!ENTITY activitymanager.label "Aktiviteter">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Chattstatus">
