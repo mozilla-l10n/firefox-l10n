@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Kiegészítők">
 <!ENTITY addons.accesskey "t">
+<!ENTITY addonPrefs.label "Kiegészítőbeállítások">
+<!ENTITY addonPrefs.accesskey "b">
+<!ENTITY addonPrefsUnix.label "Kiegészítőbeállítások">
+<!ENTITY addonPrefsUnix.accesskey "b">
+<!ENTITY addonNoPrefs.label "Nincsenek kiegészítőbeállítások.">
 <!ENTITY activitymanager.label "Tevékenységkezelő">
 <!ENTITY activitymanager.accesskey "k">
 <!ENTITY imAccountsStatus.label "Csevegési állapot">
