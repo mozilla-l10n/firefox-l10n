@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Extras">
 <!ENTITY addons.accesskey "E">
+<!ENTITY addonPrefs.label "Opções de extras">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Preferências de extras">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Não foram encontradas definições de extras.">
 <!ENTITY activitymanager.label "Gestor de atividade">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Estado do chat">
