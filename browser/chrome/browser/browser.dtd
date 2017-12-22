@@ -242,7 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "ძიება">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "სახლი">
+<!ENTITY homeButton.label             "მთავარი">
 
 <!ENTITY bookmarksButton.label          "სანიშნები">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -887,9 +887,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "კომპაქტური">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "კომპაქტური">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "კ">
+<!ENTITY customizeMode.uidensity.menuCompact.label "მჭიდრო">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "მჭიდრო">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "ჭ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
