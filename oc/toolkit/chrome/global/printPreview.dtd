@@ -34,8 +34,8 @@
 <!ENTITY customPrompt.title   "Personalizar l'escala...">
 <!ENTITY simplifyPage.label   "Simplificar la pagina">
 <!ENTITY simplifyPage.accesskey "i">
-
-
+<!ENTITY simplifyPage.enabled.tooltip  "Modificar la mesa en pagina per far venir mai aisida la lectura">
+<!ENTITY simplifyPage.disabled.tooltip "Aquesta pagina se pòt pas simplificar automaticament">
 
 <!ENTITY homearrow.tooltip    "Primièra pagina...">
 <!ENTITY endarrow.tooltip     "Darrièra pagina...">
