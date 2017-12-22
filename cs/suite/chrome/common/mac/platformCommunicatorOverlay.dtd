@@ -14,10 +14,10 @@
 <!ENTITY preferencesCmd.modifiers       "accel">
 <!ENTITY servicesMenu.label             "Služby">
 <!ENTITY hideThisAppCmd.label           "Skrýt &brandShortName;">
-<!ENTITY hideThisAppCmd.key             "S">
+<!ENTITY hideThisAppCmd.key             "H">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
 <!ENTITY hideOtherAppsCmd.label         "Skrýt ostatní">
-<!ENTITY hideOtherAppsCmd.key           "O">
+<!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "Zobrazit vše">
 <!ENTITY quitApplicationCmd.label       "Ukončit &brandShortName;"> 
@@ -26,7 +26,7 @@
 <!-- End of Application menu -->
 
 <!ENTITY closeCmd.label                 "Zavřít">  
-<!ENTITY closeCmd.key                   "Z">  
+<!ENTITY closeCmd.key                   "W">  
 
 <!ENTITY printSetupCmd.label            "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey        "v">

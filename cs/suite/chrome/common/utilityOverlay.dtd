@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY offlineGoOfflineCmd.label "Pracovat offline">
-<!ENTITY offlineGoOfflineCmd.accesskey "f">
+<!ENTITY  offlineGoOfflineCmd.label                 "Pracovat offline">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "f">
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
-<!ENTITY fileMenu.label "Soubor">
-<!ENTITY fileMenu.accesskey "s">
-<!ENTITY newMenu.label "Nový">
-<!ENTITY newMenu.accesskey "N">
-<!ENTITY newBlankPageCmd.label "Prázdná stránka">
-<!ENTITY newBlankPageCmd.accesskey "P">
-<!ENTITY newBlankPageCmd.key "n">
+<!ENTITY fileMenu.label                   "Soubor">
+<!ENTITY fileMenu.accesskey               "s">
+<!ENTITY newMenu.label                    "Nový">
+<!ENTITY newMenu.accesskey                "N">
+<!ENTITY newBlankPageCmd.label            "Prázdná stránka">
+<!ENTITY newBlankPageCmd.accesskey        "P">
+<!ENTITY newBlankPageCmd.key              "n">
 <!ENTITY newPageFromTemplateCmd.label "Stránka ze šablony">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "Stránka z konceptu">
@@ -23,7 +23,7 @@
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "O">
 <!ENTITY newPrivateWindowCmd.label "Anonymní okno">
-<!ENTITY newPrivateWindowCmd.key "P">
+<!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "A">
 <!ENTITY printSetupCmd.label "Vzhled stránky…">
 <!ENTITY printSetupCmd.accesskey "v">
@@ -33,42 +33,42 @@
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.key "p">
 
-<!ENTITY editMenu.label "Úpravy">
-<!ENTITY editMenu.accesskey "a">
-<!ENTITY undoCmd.label "Zpět">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "Z">
-<!ENTITY redoCmd.label "Znovu">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "o">
-<!ENTITY cutCmd.label "Vyjmout">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "y">
-<!ENTITY copyCmd.label "Kopírovat">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Vložit">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "l">
-<!ENTITY pasteGoCmd.label "Vložit a přejít">
-<!ENTITY pasteGoCmd.accesskey "p">
+<!ENTITY editMenu.label                   "Úpravy">
+<!ENTITY editMenu.accesskey               "a">
+<!ENTITY undoCmd.label                    "Zpět">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "Z">
+<!ENTITY redoCmd.label                    "Znovu">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmd.accesskey                "o">
+<!ENTITY cutCmd.label                     "Vyjmout">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "y">
+<!ENTITY copyCmd.label                    "Kopírovat">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "K">
+<!ENTITY pasteCmd.label                   "Vložit">
+<!ENTITY pasteCmd.key                     "V">
+<!ENTITY pasteCmd.accesskey               "l">
+<!ENTITY pasteGoCmd.label                 "Vložit a přejít">
+<!ENTITY pasteGoCmd.accesskey             "p">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
-     search bar equivalent to the url bar's "Paste & Go"  --> 
-<!ENTITY pasteSearchCmd.label "Vložit a hledat">
-<!ENTITY pasteSearchCmd.accesskey "h">
-<!ENTITY deleteCmd.label "Smazat">
-<!ENTITY deleteCmd.accesskey "m">
-<!ENTITY selectAllCmd.label "Vybrat vše">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY clearHistoryCmd.label "Vymazat historii hledání">  
-<!ENTITY clearHistoryCmd.accesskey "V">
-<!ENTITY showSuggestionsCmd.label "Povolit našeptávání">  
-<!ENTITY showSuggestionsCmd.accesskey "n"> 
-<!ENTITY preferencesCmd.label "Předvolby…">
-<!ENTITY preferencesCmd.key "E">
-<!ENTITY preferencesCmd.accesskey "e">
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "Vložit a hledat">
+<!ENTITY pasteSearchCmd.accesskey         "h">
+<!ENTITY deleteCmd.label                  "Smazat">
+<!ENTITY deleteCmd.accesskey              "m">
+<!ENTITY selectAllCmd.label               "Vybrat vše">
+<!ENTITY selectAllCmd.key                 "A">
+<!ENTITY selectAllCmd.accesskey           "a">
+<!ENTITY clearHistoryCmd.label				"Vymazat historii hledání">  
+<!ENTITY clearHistoryCmd.accesskey			"V"> 
+<!ENTITY showSuggestionsCmd.label			"Povolit našeptávání">  
+<!ENTITY showSuggestionsCmd.accesskey		"n"> 
+<!ENTITY preferencesCmd.label				"Předvolby…">
+<!ENTITY preferencesCmd.key					"E">  
+<!ENTITY preferencesCmd.accesskey			"e"> 
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -88,70 +88,70 @@
 <!ENTITY findTypeLinksCmd.label "Hledat během psaní odkazy">
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
-<!ENTITY viewMenu.label "Zobrazení">
-<!ENTITY viewMenu.accesskey "Z">
-<!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
-<!ENTITY viewToolbarsMenu.accesskey "N">
-<!ENTITY showTaskbarCmd.label "Stavový řádek">
-<!ENTITY showTaskbarCmd.accesskey "a">
+<!ENTITY viewMenu.label					"Zobrazení"> 
+<!ENTITY viewMenu.accesskey               "Z">
+<!ENTITY viewToolbarsMenu.label				"Nástrojové lišty"> 
+<!ENTITY viewToolbarsMenu.accesskey			"N"> 
+<!ENTITY showTaskbarCmd.label					"Stavový řádek">  
+<!ENTITY showTaskbarCmd.accesskey				"a"> 
 
-<!ENTITY helpMenu.label "Nápověda">
-<!ENTITY helpMenu.accesskey "v">
+<!ENTITY helpMenu.label					"Nápověda"> 
+<!ENTITY helpMenu.accesskey				"v"> 
 
-<!ENTITY helpTroubleshootingInfo.label "Technické informace">
+<!ENTITY helpTroubleshootingInfo.label      "Technické informace">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
-<!ENTITY releaseCmd.label "Poznámky k vydání">
-<!ENTITY releaseCmd.accesskey "P">
-<!ENTITY helpSafeMode.label "Restartovat se zakázanými doplňky">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY updateCmd.label "Zkontrolovat aktualizace…">
-<!ENTITY updateCmd.accesskey "a">
-<!ENTITY aboutCmd.label "O aplikaci &brandShortName;">
-<!ENTITY aboutCmd.accesskey "O">
-<!ENTITY aboutCommPluginsCmd.label "O zásuvných modulech">
-<!ENTITY aboutCommPluginsCmd.accesskey "m">
+<!ENTITY releaseCmd.label                   "Poznámky k vydání">
+<!ENTITY releaseCmd.accesskey               "P">
+<!ENTITY helpSafeMode.label                 "Restartovat se zakázanými doplňky">
+<!ENTITY helpSafeMode.accesskey             "R">
+<!ENTITY updateCmd.label                    "Zkontrolovat aktualizace…">
+<!ENTITY updateCmd.accesskey                "a">
+<!ENTITY aboutCmd.label					"O aplikaci &brandShortName;">
+<!ENTITY aboutCmd.accesskey				"O">
+<!ENTITY aboutCommPluginsCmd.label			"O zásuvných modulech">
+<!ENTITY aboutCommPluginsCmd.accesskey			"m">
 
-<!ENTITY direct.label "Online (proxy: žádná)">
-<!ENTITY direct.accesskey "d">
-<!ENTITY manual.label "Online (proxy: manuální)">
-<!ENTITY manual.accesskey "m">
-<!ENTITY pac.label "Online (proxy: automatická)">
-<!ENTITY pac.accesskey "a">
-<!ENTITY wpad.label "Online (proxy: automaticky nalezená)">
-<!ENTITY wpad.accesskey "n">
-<!ENTITY system.label "Online (proxy: systémová)">
-<!ENTITY system.accesskey "s">
+<!ENTITY direct.label                                   "Online (proxy: žádná)">
+<!ENTITY direct.accesskey                               "d">
+<!ENTITY manual.label                                   "Online (proxy: manuální)">
+<!ENTITY manual.accesskey                               "m">
+<!ENTITY pac.label                                      "Online (proxy: automatická)">
+<!ENTITY pac.accesskey                                  "a">
+<!ENTITY wpad.label                                     "Online (proxy: automaticky nalezená)">
+<!ENTITY wpad.accesskey                                 "n">
+<!ENTITY system.label                                   "Online (proxy: systémová)">
+<!ENTITY system.accesskey                               "s">
 
-<!ENTITY proxy.label "Konfigurace proxy serveru…">
-<!ENTITY proxy.accesskey "C">
+<!ENTITY proxy.label                                    "Konfigurace proxy serveru…">
+<!ENTITY proxy.accesskey                                "C">
 
-<!ENTITY bidiSwitchTextDirectionItem.label "Změnit směr textu">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "r">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Změnit směr textu">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY customizeToolbarContext.label "Přizpůsobit…">
-<!ENTITY customizeToolbarContext.accesskey "z">
+<!ENTITY customizeToolbarContext.label            "Přizpůsobit…">
+<!ENTITY customizeToolbarContext.accesskey        "z">
 
-<!ENTITY customizeToolbar.toolbarmode.label "Nastavení této lišty">
-<!ENTITY customizeToolbar.toolbarmode.accesskey "t">
-<!ENTITY customizeToolbar.iconsAndText.label "Ikony a text">
-<!ENTITY customizeToolbar.iconsAndText.accesskey "a">
-<!ENTITY customizeToolbar.icons.label "Ikony">
-<!ENTITY customizeToolbar.icons.accesskey "I">
-<!ENTITY customizeToolbar.text.label "Text">
-<!ENTITY customizeToolbar.text.accesskey "T">
-<!ENTITY customizeToolbar.useSmallIcons.label "Použít malé ikony">
+<!ENTITY customizeToolbar.toolbarmode.label       "Nastavení této lišty">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
+<!ENTITY customizeToolbar.iconsAndText.label      "Ikony a text">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
+<!ENTITY customizeToolbar.icons.label             "Ikony">
+<!ENTITY customizeToolbar.icons.accesskey         "I">
+<!ENTITY customizeToolbar.text.label              "Text">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Použít malé ikony">
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "m">
-<!ENTITY customizeToolbar.labelAlignEnd.label "Zobrazit text vedle ikon">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Zobrazit text vedle ikon">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "Z">
-<!ENTITY customizeToolbar.useDefault.label "Použít výchozí nastavení">
-<!ENTITY customizeToolbar.useDefault.accesskey "P">
+<!ENTITY customizeToolbar.useDefault.label        "Použít výchozí nastavení">
+<!ENTITY customizeToolbar.useDefault.accesskey    "P">
 
 <!-- Popup Blocked notification menu -->
-<!ENTITY allowPopups.accesskey "P">
-<!ENTITY showPopupManager.label "Správa vyskakovacích oken">
-<!ENTITY showPopupManager.accesskey "S">
-<!ENTITY dontShowMessage.label "Nezobrazovat tuto zprávu, pokud jsou blokována vyskakovací okna">
-<!ENTITY dontShowMessage.accesskey "N">
+<!ENTITY allowPopups.accesskey        "P">
+<!ENTITY showPopupManager.label       "Správa vyskakovacích oken">
+<!ENTITY showPopupManager.accesskey   "S">
+<!ENTITY dontShowMessage.label        "Nezobrazovat tuto zprávu, pokud jsou blokována vyskakovací okna">
+<!ENTITY dontShowMessage.accesskey    "N">
 
 <!ENTITY syncToolbarButton.label "Sync">
