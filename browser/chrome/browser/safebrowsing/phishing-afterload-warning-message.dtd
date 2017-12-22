@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Jo se k wěsći dało, až sedło <span id='unwanted_sitename'/><a id='error_desc_link'>škódnu software wopśimujo</a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "Zgóńśo wěcej wó škódnej a njewitanej software w <a id='learn_more_link'>pšawidłach wó njewitanej software</a>. Zgóńśo na <a id='firefox_support'>support.mozilla.org</a> wěcej wó šćiśe pśeśiwo kšadnjenjeju datow a škódnym programam.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Zgóńśo wěcej wó škódnej a njewitanej software w <a id='learn_more_link'>pšawidłach wó njewitanej software</a>. Zgóńśo na <a id='firefox_support'>support.mozilla.org</a> wěcej wó šćiśe &brandShortName; pśeśiwo kšadnjenjeju datow a škódnym programam.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Wobšudne sedło">
