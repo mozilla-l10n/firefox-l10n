@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Använd adressfältet för sökning och navigering">
 <!ENTITY searchBar.shown.label                 "Lägg till sökfältet i verktygsfältet">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Visa sökförslag före surfhistoriken i adressfältets resultat">
+
 <!ENTITY defaultSearchEngine.label             "Standard sökmotor">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Välj standardsökmotor som ska användas i adressfältet och sökfältet.">
