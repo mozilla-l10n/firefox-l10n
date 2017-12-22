@@ -57,7 +57,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.label              "Wšě rajtarki jako zapołožki składować…">
 <!ENTITY  bookmarkAllTabs.accesskey          "r">
 <!ENTITY  undoCloseTab.label                 "Začinjeny rajtark wobnowić">
-<!ENTITY  undoCloseTab.accesskey             "c">
+<!ENTITY  undoCloseTab.accesskey             "b">
 <!ENTITY  closeTab.label                     "Rajtark začinić">
 <!ENTITY  closeTab.accesskey                 "z">
 
@@ -96,7 +96,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Wšě rajtarki jako zapołožki składować…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Začinjeny rajtark wobnowić">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "c">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
 <!ENTITY pageSourceCmd.label "Žórłowy tekst strony">
 <!ENTITY pageSourceCmd.accesskey "t">

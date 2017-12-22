@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Je so zdźěliło, zo sydło <span id='unwanted_sitename'/><a id='error_desc_link'>škódnu softwaru wobsahuje</a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "Zhońće wjace wo škódnej a njewitanej softwarje w <a id='learn_more_link'>prawidłach wo njewitanej softwarje</a>. Zhońće na <a id='firefox_support'>support.mozilla.org</a> wjace wo škiće přećiwo kradnjenju datow a škódnym programam.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Zhońće wjace wo škódnej a njewitanej softwarje w <a id='learn_more_link'>prawidłach wo njewitanej softwarje</a>. Zhońće na <a id='firefox_support'>support.mozilla.org</a> wjace wo škiće &brandShortName; přećiwo kradnjenju datow a škódnym programam.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Wobšudne sydło">
