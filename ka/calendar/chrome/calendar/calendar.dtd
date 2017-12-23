@@ -99,7 +99,7 @@
 <!ENTITY calendar.displaytodos.checkbox.label   "ნაჩვენები დავალების" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
 <!ENTITY calendar.completedtasks.checkbox.label     "დასრულებული დავალებების ჩვენება" >
-<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "ს" >
 
 <!ENTITY calendar.orientation.label "ხედის დატრიალება" >
 <!ENTITY calendar.orientation.accesskey "o" >
@@ -110,19 +110,19 @@
 
 <!ENTITY calendar.task.filter.title.label           "ჩვენება">
 <!ENTITY calendar.task.filter.all.label             "ყველა">
-<!ENTITY calendar.task.filter.all.accesskey         "A">
+<!ENTITY calendar.task.filter.all.accesskey         "ყ">
 <!ENTITY calendar.task.filter.today.label           "დღეს">
-<!ENTITY calendar.task.filter.today.accesskey       "T">
+<!ENTITY calendar.task.filter.today.accesskey       "ღ">
 <!ENTITY calendar.task.filter.next7days.label       "შემდეგი შვიდი დღე">
-<!ENTITY calendar.task.filter.next7days.accesskey   "N">
+<!ENTITY calendar.task.filter.next7days.accesskey   "ვ">
 <!ENTITY calendar.task.filter.notstarted.label      "დასაწყები დავალებები">
-<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "წ">
 <!ENTITY calendar.task.filter.overdue.label         "გადავადებული დავალებები">
-<!ENTITY calendar.task.filter.overdue.accesskey     "O">
+<!ENTITY calendar.task.filter.overdue.accesskey     "ბ">
 <!ENTITY calendar.task.filter.completed.label       "დასრულებული დავალებები">
-<!ENTITY calendar.task.filter.completed.accesskey   "C">
+<!ENTITY calendar.task.filter.completed.accesskey   "უ">
 <!ENTITY calendar.task.filter.open.label            "დაუსრულებელი დავალებები">
-<!ENTITY calendar.task.filter.open.accesskey        "m">
+<!ENTITY calendar.task.filter.open.accesskey        "რ">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
@@ -130,7 +130,7 @@
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 <!ENTITY calendar.task.filter.current.label         "მიმდინარე დავალებები">
-<!ENTITY calendar.task.filter.current.accesskey     "u">
+<!ENTITY calendar.task.filter.current.accesskey     "ნ">
 
 <!ENTITY calendar.task-details.title.label           "სათაური:">
 <!ENTITY calendar.task-details.organizer.label       "დაწყება:">
@@ -157,13 +157,13 @@
 <!ENTITY calendar.context.modifyorviewitem.label      "გახსნა">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "დავალების გახსნა…">
-<!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "ხ">
 <!ENTITY calendar.context.newevent.label              "ახალი ღონისძიება…">
 <!ENTITY calendar.context.newevent.accesskey          "ხ">
 <!ENTITY calendar.context.newtodo.label               "ახალი ამოცანა">
 <!ENTITY calendar.context.newtodo.accesskey           "k">
 <!ENTITY calendar.context.deletetask.label            "ამოცანის წაშლა">
-<!ENTITY calendar.context.deletetask.accesskey        "l">
+<!ENTITY calendar.context.deletetask.accesskey        "ლ">
 <!ENTITY calendar.context.deleteevent.label           "ღონისძიების წაშლა">
 <!ENTITY calendar.context.deleteevent.accesskey       "წ">
 <!ENTITY calendar.context.cutevent.label              "ამოჭრა">
@@ -274,16 +274,16 @@
 <!ENTITY calendar.context.convertmenu.message.label      "გზავნილი…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">
 <!ENTITY calendar.context.convertmenu.task.label         "ამოცანა…">
-<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "ც">
 
-<!ENTITY calendar.tasks.view.minimonth.label           "მინი თვე">
-<!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
+<!ENTITY calendar.tasks.view.minimonth.label           "მცირე კალენდარი">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "კ">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "კალენდართა სია">
-<!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "ს">
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "დავალებების გაფილტვრა">
-<!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "ფ">
 
 <!-- Calendar Alarm Dialog -->
 

@@ -16,4 +16,5 @@
 <!ENTITY gdata.reminder.default "ნაგულისხმევი შემხსენებელი">
 <!ENTITY gdata.reminder.action.sms.label "ტექსტური გამოხმაურების გაგზავნა">
 
+<!ENTITY gdata.wizard.calendars.description "გთხოვთ, მიუთითოთ კალენდრებისა და დავალებების სია, რომელთა გამოწერაც გსურთ.">
 

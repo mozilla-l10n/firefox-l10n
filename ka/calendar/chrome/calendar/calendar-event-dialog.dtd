@@ -209,16 +209,16 @@
 <!ENTITY event.from.label                                 "დაწყება:" >
 <!ENTITY event.from.accesskey                             "ყ">
 <!ENTITY task.from.label                                  "დაწყება:" >
-<!ENTITY task.from.accesskey                              "B">
+<!ENTITY task.from.accesskey                              "წ">
 <!ENTITY event.to.label                                   "დასრულება:" >
 <!ENTITY event.to.accesskey                               "რ">
 <!ENTITY task.to.label                                    "ვადა:" >
-<!ENTITY task.to.accesskey                                "u">
-<!ENTITY task.status.label                                "სტატუსი:" >
-<!ENTITY task.status.accesskey                            "a">
+<!ENTITY task.to.accesskey                                "ვ">
+<!ENTITY task.status.label                                "მდგომარეობა:" >
+<!ENTITY task.status.accesskey                            "გ">
 <!ENTITY event.repeat.label                               "გამეორება:" >
 <!ENTITY event.repeat.accesskey                           "ო">
-<!ENTITY event.until.label                                "შემდეგ თარიღამდე:">
+<!ENTITY event.until.label                                "მითითებულ თარიღამდე:">
 <!ENTITY event.until.accesskey                            "თ">
 <!ENTITY event.reminder.label                             "შეხსენება:" >
 <!ENTITY event.reminder.accesskey                         "შ">

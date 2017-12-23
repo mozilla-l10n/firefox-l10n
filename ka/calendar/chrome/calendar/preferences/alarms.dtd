@@ -7,7 +7,7 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.alarmgoesoff.label "გაფრთხილების შემოსვლისას:">
+<!ENTITY pref.alarmgoesoff.label "შეხსენებისას:">
 <!ENTITY pref.playasound "გახმოვანება">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "ნაგულისხმები სიგნალის გამოყენება">
@@ -16,9 +16,9 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.play.label "დაკვრა">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "დ">
-<!ENTITY pref.showalarmbox "გაფრთხლების დაფის ჩვენება">
+<!ENTITY pref.showalarmbox "შეხსენების დაფის ჩვენება">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
-<!ENTITY pref.missedalarms "გამოტოვებული გაფრთხილებების ჩვენება">
+<!ENTITY pref.missedalarms "გამოტოვებული შეხსენებების ჩვენება">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "ნაგულისხმები პარამეტრები">
 <!ENTITY pref.defalarm4events.label "შეხსენების ნაგულისხმევი პარამეტრები ამ ღონისძიებისთვის:">

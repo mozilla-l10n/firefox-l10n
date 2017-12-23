@@ -11,10 +11,7 @@
 <!ENTITY reminder.reminderDetails.label                    "შეხსენების დეტალები">
 <!ENTITY reminder.action.label                             "შეხსენების ქმედების შერჩევა">
 
-<!ENTITY reminder.relation.before.label                    "ადრე -" >
-<!ENTITY reminder.relation.after.label                     "შემდეგ -" >
-
-<!ENTITY reminder.action.alert.label                       "გაფრთხილების ჩვენება">
+<!ENTITY reminder.action.alert.label                       "შეტყობინების ჩვენება">
 <!ENTITY reminder.action.email.label                       "ელფოსტის გაგზავნა">
 
 <!ENTITY alarm.units.minutes                               "წუთით" >
