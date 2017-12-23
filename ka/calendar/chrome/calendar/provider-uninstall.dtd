@@ -9,4 +9,4 @@
 <!ENTITY providerUninstall.cancel.accesskey                "K">
 <!ENTITY providerUninstall.preName.label                   "თქვენ მოითხოვეთ ამოღება ან ამორთვა:">
 <!ENTITY providerUninstall.postName.label                  "ასეთ შემთხვევაში ქვემოთ მოტანილი კალენდრები ამოირთვება.">
-<!ENTITY providerUninstall.reinstallNote.label             "თუ ხელახლა არ გეგმავთ პროვაიდერის ჩადგმას, შესაძლოა მოისურვოთ ხელმოწერების გაუქმება ამ პროვაიდერის კალენდრებზე.">
+<!ENTITY providerUninstall.reinstallNote.label             "თუ ხელახლა არ გეგმავთ მომწოდებლის ხელახლა მითითებას, შესაძლოა მოისურვოთ გამოწერის გაუქმება ამ მომწოდებლის კალენდრებზე.">
