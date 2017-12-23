@@ -51,11 +51,13 @@
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "მიღება">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "ღონისძიებაზე მოწვევის მიღება">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "მოწვევაზე თანხმობა, ღონისძიების ჩატარების ყველა თარიღისთვის">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "დამატება">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "ღონისძიების დამატება კალენდარზე">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "უარყოფა">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "ღონისძიებაზე მოწვევის უარყოფა">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "ყველას უარყოფა">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "მოწვევაზე უარი, ღონისძიების ჩატარების ყველა თარიღისთვის">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "უარყოფა">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "წაშლა">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "კალენდრიდან წაშლა">

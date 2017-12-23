@@ -206,11 +206,11 @@
 <!ENTITY event.attendees.accesskey                        "წ">
 <!ENTITY event.alldayevent.label                          "მთელი დღის განმავლობაში" >
 <!ENTITY event.alldayevent.accesskey                      "ღ">
-<!ENTITY event.from.label                                 "დასაწყისი:" >
+<!ENTITY event.from.label                                 "დაწყება:" >
 <!ENTITY event.from.accesskey                             "ყ">
 <!ENTITY task.from.label                                  "დაწყება:" >
 <!ENTITY task.from.accesskey                              "B">
-<!ENTITY event.to.label                                   "დასასრული:" >
+<!ENTITY event.to.label                                   "დასრულება:" >
 <!ENTITY event.to.accesskey                               "რ">
 <!ENTITY task.to.label                                    "ვადა:" >
 <!ENTITY task.to.accesskey                                "u">
