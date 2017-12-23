@@ -7,13 +7,13 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Συγγνώμη. Έχουμε πρόβλημα στην επαναφορά των σελίδων σας.">
-<!ENTITY restorepage.problemDesc2   "Έχουμε πρόβλημα στην επαναφορά της τελευταίας σας συνόδου περιήγησης. Επιλέξτε την Επαναφορά Συνόδου και δοκιμάστε πάλι.">
+<!ENTITY restorepage.problemDesc2   'Αντιμετωπίζουμε προβλήματα με την επαναφορά της τελευταίας σας συνεδρίας περιήγησης. Επιλέξτε το "Επαναφορά συνεδρίας" για να δοκιμάσετε ξανά.'>
 
 <!ENTITY restorepage.hideTabs       "Απόκρυψη προηγούμενων καρτελών">
 <!ENTITY restorepage.showTabs       "Προβολή προηγούμενων καρτελών">
 
-<!ENTITY restorepage.tryagainButton2 "Επαναφορά Συνόδου">
-<!ENTITY restorepage.closeButton2    "Εκκίνηση Νέας Συνόδου">
+<!ENTITY restorepage.tryagainButton2 "Επαναφορά συνεδρίας">
+<!ENTITY restorepage.closeButton2    "Έναρξη νέας συνεδρίας">
 <!ENTITY restorepage.close.access2   "Ν">
 
 <!ENTITY restorepage.restoreHeader  "Επαναφορά">
