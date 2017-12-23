@@ -11,8 +11,8 @@
 <!ENTITY lightning.preferencesLabel "კალენდარი">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "მოვლენა…">
-<!ENTITY lightning.menupopup.new.event.accesskey "E">
+<!ENTITY lightning.menupopup.new.event.label    "ღონისძიება…">
+<!ENTITY lightning.menupopup.new.event.accesskey "ღ">
 <!ENTITY lightning.menupopup.new.task.label     "ამოცანა…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "კალენდარი…">
@@ -33,26 +33,41 @@
 <!ENTITY lightning.menu.view.tasks.accesskey           "k">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "მოვლენები და ამოცანები">
-<!ENTITY lightning.menu.eventtask.accesskey            "n">
+<!ENTITY lightning.menu.eventtask.label                "ღონისძიებები და დავალებები">
+<!ENTITY lightning.menu.eventtask.accesskey            "ვ">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "ელფოსტა:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "ელფოსტა:">
+
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "მიღება">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "ღონისძიებაზე მოწვევის მიღება">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "დამატება">
-<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "მოვლენის დამატება კალენდარზე">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "ღონისძიების დამატება კალენდარზე">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "უარყოფა">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "ღონისძიებაზე მოწვევის უარყოფა">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "ყველას უარყოფა">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "უარყოფა">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "წაშლა">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "კალენდრიდან წაშლა">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "ვრცლად…">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "ღონისძიების მონაცემების ნახვა">
 <!ENTITY lightning.imipbar.btnReschedule.label                              "გადავადება">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "ღონისძიების გადავადება">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "ღონისძიების კალენდარზე დატანა, ხელმძღვანელისადმი პასუხის მიუხედავად. მონაწილეების სია წაიშლება.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "დასაზუსტებელია">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "განახლება">
-<!ENTITY lightning.imipbar.description                                      "ეს გზავნილი მოვლენაზე მოწვევას შეიცავს.">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "ღონისძიების განახლება კალენდარზე">
+<!ENTITY lightning.imipbar.description                                      "ეს გზავნილი შეიცავს ღონისძიების მოსაწვევს.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
