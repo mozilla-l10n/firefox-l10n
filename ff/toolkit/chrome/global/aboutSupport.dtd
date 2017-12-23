@@ -155,3 +155,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlAppTitle "Teelte Jaaɓnirɗe">
 <!ENTITY aboutSupport.intlLocalesRequested "Nokkuuje Ɗaɓɓitaaɗe">
 <!ENTITY aboutSupport.intlLocalesAvailable "Nokkuuje Keɓotooɗe">
+<!ENTITY aboutSupport.intlLocalesSupported "Nokkuuje Jaaɓnirɗe">
+<!ENTITY aboutSupport.intlLocalesDefault "Nokkuuje Goowaaɗe">
+<!ENTITY aboutSupport.intlOSTitle "Yuɓɓo Gollotoongo">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Nokkuuje Yuɓɓo">
+<!ENTITY aboutSupport.intlRegionalPrefs "Cuɓoraaɗe Diiwaniyaŋkooje">
