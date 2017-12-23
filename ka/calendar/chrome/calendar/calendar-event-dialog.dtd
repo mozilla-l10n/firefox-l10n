@@ -12,10 +12,10 @@
 
 <!ENTITY newevent.status.label                    "მდგომარეობა" >
 <!ENTITY newevent.status.accesskey                "მ" >
-<!ENTITY newevent.eventStatus.none.label          "განუსაზღვრელია" >
+<!ENTITY newevent.eventStatus.none.label          "განუსაზღვრელი" >
 <!ENTITY newevent.eventStatus.none.accesskey      "ზ" >
-<!ENTITY newevent.todoStatus.none.label           "განუსაზღვრელია" >
-<!ENTITY newevent.eventStatus.cancelled.label     "გაუქმებულია" >
+<!ENTITY newevent.todoStatus.none.label           "განუსაზღვრელი" >
+<!ENTITY newevent.eventStatus.cancelled.label     "გაუქმებული" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "ქ" >
 <!ENTITY newevent.todoStatus.cancelled.label      "გაუქმდა" >
 <!ENTITY newevent.status.tentative.label          "სავარაუდო" >
@@ -130,7 +130,7 @@
 <!ENTITY  event.menu.options.timezone2.accesskey              "ყ">
 <!ENTITY  event.menu.options.priority2.label                  "უპირატესობა">
 <!ENTITY  event.menu.options.priority2.accesskey              "უ">
-<!ENTITY  event.menu.options.priority.notspecified.label      "განუსაზღვრელია">
+<!ENTITY  event.menu.options.priority.notspecified.label      "განუსაზღვრელი">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "ზ">
 <!ENTITY  event.menu.options.priority.low.label               "დაბალი">
 <!ENTITY  event.menu.options.priority.low.accesskey           "ბ">
