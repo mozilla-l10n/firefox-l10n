@@ -8,27 +8,29 @@
   -->
 
 <!ENTITY pref.alarmgoesoff.label "შეხსენებისას:">
-<!ENTITY pref.playasound "გახმოვანება">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "s">
+<!ENTITY pref.playasound "ხმოვანი სიგნალი">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "ს">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "ნაგულისხმები სიგნალის გამოყენება">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "ნ">
 <!ENTITY pref.calendar.alarms.sound.browse.label "ამორჩევა…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "ჩ">
 <!ENTITY pref.calendar.alarms.sound.play.label "დაკვრა">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "დ">
 <!ENTITY pref.showalarmbox "შეხსენების დაფის ჩვენება">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "შ">
 <!ENTITY pref.missedalarms "გამოტოვებული შეხსენებების ჩვენება">
-<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "გ">
 <!ENTITY pref.calendar.alarms.defaults.label "ნაგულისხმები პარამეტრები">
 <!ENTITY pref.defalarm4events.label "შეხსენების ნაგულისხმევი პარამეტრები ამ ღონისძიებისთვის:">
 <!ENTITY pref.defalarm4events.accesskey "ხ">
 <!ENTITY pref.defalarm4todos.label "შეხსენების ნაგულისხმევი პარამეტრები დავალებებისთვის:">
-<!ENTITY pref.defalarm4todos.accesskey "a">
+<!ENTITY pref.defalarm4todos.accesskey "ა">
 <!ENTITY pref.alarm.on "ჩართვა">
-<!ENTITY pref.alarm.off "ამორთვა">
+<!ENTITY pref.alarm.off "გამორთვა">
 <!ENTITY pref.defalarmlen4events.label "შეხსენების ნაგულისხმევი დრო, დაყენებულია ღონისძიებამდე:">
 <!ENTITY pref.defalarmlen4events.accesskey "დ">
 <!ENTITY pref.defalarmlen4todos.label "შეხსენების ნაგულისხმევი დრო, დაყენებულია დავალებამდე:">
-<!ENTITY pref.defalarmlen4todos.accesskey "o">
+<!ENTITY pref.defalarmlen4todos.accesskey "უ">
 
+<!ENTITY pref.defaultsnoozelength.label "გადადების ნაგულისხმევი ხანგრძლივობა:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "რ">
