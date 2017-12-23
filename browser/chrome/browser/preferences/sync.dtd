@@ -19,6 +19,7 @@
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Opções">
+<!ENTITY engine.prefsWin.accesskey  "P">
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.prefs.title         "Configurações gerais, de privacidade e de segurança que você alterou">
