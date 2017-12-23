@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Data d'apondon">
 <!ENTITY col.lastmodified.label  "Darrièra modificacion">
 
-<!ENTITY search.placeholder  "Recercar">
+<!ENTITY historySearch.placeholder  "Cercar dins l’istoric">
+<!ENTITY bookmarksSearch.placeholder  "Cercar dins los marcapaginas">
 
 <!ENTITY cmd.find.key  "F">
 

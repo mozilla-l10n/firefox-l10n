@@ -10,8 +10,24 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "Oras">
+<!ENTITY time.minute.label "Minutas">
+<!ENTITY time.second.label "Segondas">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "aaaa">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "jj">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "Annada">
+<!ENTITY date.month.label "Mes">
+<!ENTITY date.day.label "Jorn">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "Escafar">
