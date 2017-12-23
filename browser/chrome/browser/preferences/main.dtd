@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Restablir la configuracion per defaut">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "Desactivar l’extension">
+
 <!ENTITY downloads.label     "Telecargaments">
 
 <!ENTITY saveTo.label "Enregistrar los fichièrs dins lo dorsièr">

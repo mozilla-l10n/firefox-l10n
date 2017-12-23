@@ -2,6 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Barra de recèrca">
+
+
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+
 <!ENTITY defaultSearchEngine.label             "Motor de cerca per defaut">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Causir lo motor de recèrca per defaut per d'utilizar dins las barras d'adreça e de recèrca.">

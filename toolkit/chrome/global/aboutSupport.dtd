@@ -152,3 +152,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Taus">
 <!ENTITY aboutSupport.mediaDeviceLatency "Laténcia">
 
+<!ENTITY aboutSupport.intlTitle "Lengas e internacionalizacion">
+<!ENTITY aboutSupport.intlAppTitle "Paramètres de l’aplicacion">
+<!ENTITY aboutSupport.intlLocalesRequested "Lengas demandadas">
+<!ENTITY aboutSupport.intlLocalesAvailable "Lengas disponiblas">
+<!ENTITY aboutSupport.intlLocalesSupported "Lengas">
+<!ENTITY aboutSupport.intlLocalesDefault "Lenga per defaut">
+<!ENTITY aboutSupport.intlOSTitle "Sistèma operatiu">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Lenga del sistèma">
+<!ENTITY aboutSupport.intlRegionalPrefs "Preferéncias regionalas">

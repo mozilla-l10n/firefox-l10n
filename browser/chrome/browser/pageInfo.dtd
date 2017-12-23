@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Totjorn demandar">
 <!ENTITY  permAllow             "Autorizar">
 <!ENTITY  permAllowSession      "Autorizar pendent la session">
+<!ENTITY  permHide              "Amagar">
 <!ENTITY  permBlock             "Blocar">
 <!ENTITY  permissionsFor        "Permissions per :">
 <!ENTITY  permPlugins           "Activar los plugins">

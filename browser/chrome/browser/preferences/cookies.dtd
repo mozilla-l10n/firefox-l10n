@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Los cookies seguents son emmagazinats sus vòstre ordenador :">
+<!ENTITY     cookiesonsystem2.label         "Los cookies seguents son gardats al vòstre ordenador">
 <!ENTITY     cookiename.label               "Nom del cookie">
 <!ENTITY     cookiedomain.label             "Site">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Recèrca">
 <!ENTITY     searchFilter.accesskey         "R">

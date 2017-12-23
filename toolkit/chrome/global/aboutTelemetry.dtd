@@ -20,11 +20,14 @@ Ièr
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
 <!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
 <!ENTITY aboutTelemetry.moreInformations "A la recèrca de mai d'informacions ?">
 
 
+<!ENTITY aboutTelemetry.homeSection "Acuèlh">
 <!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informacions del sistèma">
 <!ENTITY aboutTelemetry.scalarsSection "  Escalars">
