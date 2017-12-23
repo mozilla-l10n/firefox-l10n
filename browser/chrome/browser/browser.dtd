@@ -144,7 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.beforeDomain.label "Το ">
 <!ENTITY fullscreenWarning.afterDomain.label "εκτελείται σε πλήρη οθόνη">
 <!ENTITY fullscreenWarning.generic.label "Αυτό το έγγραφο εμφανίζεται σε πλήρη οθόνη">
 
@@ -161,7 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "Ο τομέας">
+<!ENTITY pointerlockWarning.beforeDomain.label "Το ">
 <!ENTITY pointerlockWarning.afterDomain.label "ελέγχει τον κέρσορα. Πατήστε Esc για ανάκτηση ελέγχου.">
 <!ENTITY pointerlockWarning.generic.label "Αυτό το έγγραφο ελέγχει τον κέρσορα. Πατήστε Esc για ανάκτηση ελέγχου.">
 
@@ -172,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Σ">
 <!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία σελιδοδείκτη">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.commandkey "π">
 
 <!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">

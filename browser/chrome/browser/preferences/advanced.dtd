@@ -29,8 +29,6 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση">
 
-<!ENTITY enableHealthReport1.label       "Να επιτρέπεται στο &brandShortName; η αυτόματη αποστολή τεχνικών και διαδραστικών δεδομένων στη Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "δ">
 <!ENTITY healthReportLearnMore.label     "Μάθετε περισσότερα">
 
 <!ENTITY dataCollection.label            "Συλλογή και χρήση δεδομένων &brandShortName;">
@@ -128,9 +126,9 @@ available. -->
 <!ENTITY selectCerts.auto.accesskey      "Α">
 <!ENTITY selectCerts.ask                 "Ερώτηση κάθε φορά">
 <!ENTITY selectCerts.ask.accesskey       "Ε">
-<!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
+<!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση, ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
 <!ENTITY enableOCSP.accesskey            "Ρ">
-<!ENTITY viewCerts2.label                "Προβολή Πιστοποιητικών…">
+<!ENTITY viewCerts2.label                "Προβολή πιστοποιητικών…">
 <!ENTITY viewCerts2.accesskey            "Π">
 <!ENTITY viewSecurityDevices2.label      "Συσκευές ασφαλείας…">
 <!ENTITY viewSecurityDevices2.accesskey  "Σ">

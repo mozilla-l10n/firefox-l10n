@@ -4,7 +4,14 @@
 
 <!ENTITY searchBar.label                       "Γραμμή αναζήτησης">
 
-<!ENTITY searchBar.shown.label                 "Προσθήκη της μπάρας αναζήτησης στην εργαλειοθήκη">
+<!ENTITY searchBar.hidden.label                "Χρήση της γραμμής διευθύνσεων για αναζήτηση και πλοήγηση">
+<!ENTITY searchBar.shown.label                 "Προσθήκη γραμμής αναζήτησης στη γραμμή εργαλείων">
+
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
 
 <!ENTITY defaultSearchEngine.label             "Προεπιλεγμένη μηχανή αναζήτησης">
 

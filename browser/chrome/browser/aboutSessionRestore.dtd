@@ -13,8 +13,9 @@
 <!ENTITY restorepage.showTabs       "Προβολή προηγούμενων καρτελών">
 
 <!ENTITY restorepage.tryagainButton2 "Επαναφορά συνεδρίας">
+<!ENTITY restorepage.restore.access2 "Ε">
 <!ENTITY restorepage.closeButton2    "Έναρξη νέας συνεδρίας">
-<!ENTITY restorepage.close.access2   "Ν">
+<!ENTITY restorepage.close.access2   "ν">
 
 <!ENTITY restorepage.restoreHeader  "Επαναφορά">
 <!ENTITY restorepage.listHeader     "Παραθύρων και καρτελών">
