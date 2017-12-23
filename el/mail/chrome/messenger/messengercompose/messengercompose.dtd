@@ -104,6 +104,8 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Μετακίνηση μαζί">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "κ">
 <!ENTITY moveAttachmentDownPanelBtn.label "Μετακίνηση προς τα κάτω">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Μετακίνηση στο κάτω μέρος">
 <!ENTITY moveAttachmentBottomPanelBtn.accesskey "Κ">
