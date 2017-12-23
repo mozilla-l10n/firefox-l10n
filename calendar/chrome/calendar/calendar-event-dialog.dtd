@@ -190,47 +190,48 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "შეთავაზების მიღება">
 <!ENTITY counter.button.proposal.tooltip2                 "ღონისძიების ველები, უნდა შეივსოს მნიშვნელობებით, შემხვედრი შეთავაზებიდან, მხოლოდ, დამატებითი ცვლილებებით, ან მათ გარეშე შენახვა, თავისთავად ეცნობება თითოეულ მონაწილეს">
+<!ENTITY counter.button.original.tooltip2                 "ველებში უნდა მიეთითოს მნიშვნელობები, არსებული ღონისძიებიდან გამომდინარე, სანამ შემხვედრი შემოთავაზება გაკეთდება">
 
 <!-- Main page -->
-<!ENTITY event.title.textbox.label                        "სათაური:" >
-<!ENTITY event.title.textbox.accesskey                    "I">
-<!ENTITY event.location.label                             "ადგილი:" >
-<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.title.textbox.label                        "დასახელება:" >
+<!ENTITY event.title.textbox.accesskey                    "ს">
+<!ENTITY event.location.label                             "მდებარეობა:" >
+<!ENTITY event.location.accesskey                         "დ">
 <!ENTITY event.categories.label                           "კატეგორია:">
-<!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.categories.accesskey                       "კ">
 <!ENTITY event.categories.textbox.label                   "ახალი კატეგორიის დამატება" >
 <!ENTITY event.calendar.label                             "კალენდარი:" >
-<!ENTITY event.calendar.accesskey                         "C">
-<!ENTITY event.attendees.label                            "დამსწრეები:" >
-<!ENTITY event.attendees.accesskey                        "I">
-<!ENTITY event.alldayevent.label                          "მთელი დღის მოვლენა" >
-<!ENTITY event.alldayevent.accesskey                      "d">
-<!ENTITY event.from.label                                 "დაწყება:" >
-<!ENTITY event.from.accesskey                             "S">
+<!ENTITY event.calendar.accesskey                         "ლ">
+<!ENTITY event.attendees.label                            "მონაწილეები:" >
+<!ENTITY event.attendees.accesskey                        "წ">
+<!ENTITY event.alldayevent.label                          "მთელი დღის განმავლობაში" >
+<!ENTITY event.alldayevent.accesskey                      "ღ">
+<!ENTITY event.from.label                                 "დასაწყისი:" >
+<!ENTITY event.from.accesskey                             "ყ">
 <!ENTITY task.from.label                                  "დაწყება:" >
 <!ENTITY task.from.accesskey                              "B">
-<!ENTITY event.to.label                                   "დასრულება:" >
-<!ENTITY event.to.accesskey                               "n">
+<!ENTITY event.to.label                                   "დასასრული:" >
+<!ENTITY event.to.accesskey                               "რ">
 <!ENTITY task.to.label                                    "ვადა:" >
 <!ENTITY task.to.accesskey                                "u">
 <!ENTITY task.status.label                                "სტატუსი:" >
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "გამეორება:" >
-<!ENTITY event.repeat.accesskey                           "R">
-<!ENTITY event.until.label                                "ვიდრე:">
-<!ENTITY event.until.accesskey                            "i">
+<!ENTITY event.repeat.accesskey                           "ო">
+<!ENTITY event.until.label                                "შემდეგ თარიღამდე:">
+<!ENTITY event.until.accesskey                            "თ">
 <!ENTITY event.reminder.label                             "შეხსენება:" >
-<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.reminder.accesskey                         "შ">
 <!ENTITY event.description.label                          "აღწერილობა:" >
-<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.description.accesskey                      "ა">
 <!ENTITY event.attachments.label                          "დანართები:" >
-<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.accesskey                      "ნ" >
 <!ENTITY event.attachments.menubutton.label               "თანდართვა">
-<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.menubutton.accesskey           "თ">
 <!ENTITY event.attachments.url.label                      "ვებგვერდი…">
-<!ENTITY event.attachments.url.accesskey                  "W">
-<!ENTITY event.attachments.popup.remove.label             "ამოღება" >
-<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.url.accesskey                  "ვ">
+<!ENTITY event.attachments.popup.remove.label             "წაშლა" >
+<!ENTITY event.attachments.popup.remove.accesskey         "წ" >
 <!ENTITY event.attachments.popup.open.label               "გახსნა" >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "ყველას ამოღება" >
