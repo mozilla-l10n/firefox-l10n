@@ -28,6 +28,7 @@
 
 
 <!ENTITY showAllExtensions.button.label       "Afichar totas las transicions">
+<!ENTITY debugAddons.label                    "Desbugar los moduls">
 <!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
@@ -117,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Afichar las nòtas de version per aquesta mesa a jorn">
 <!ENTITY cmd.hideReleaseNotes.label           "Amagar las nòtas de version">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Amagar las nòtas de version per aquesta mesa a jorn">
+<!ENTITY cmd.findReplacement.label            "Cercar un remplaçament">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -239,12 +241,21 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Los moduls seguents podèron pas èsser verificats per lor utilizacion dins &brandShortName;. Podètz ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "cercar de moduls equivalents">
+<!ENTITY disabledUnsigned.description.end " o demandar a l'autor que los verifique.">
+<!ENTITY disabledUnsigned.learnMore "Ne saber mai sus nòstres esfòrces per garantir vòstra seguretat en linha.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Los desvelopaires interesats per far verificar los moduls complementaris pòdon tenir de legir nòstre ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Quicòm manca ? De moduls extèrnes son pas mai preses en caraga per &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ne saber mai.">
 
+<!ENTITY legacyWarning.showLegacy "Afichar las extensions obsolètas">
 <!ENTITY legacyExtensions.title "Extensions obsolètas">
+<!ENTITY legacyExtensions.description "Aquestas extensions respèctan pas los estandards actuals de &brandShortName; e son estadas desactivadas.">
+<!ENTITY legacyExtensions.learnMore "Ne saber mai suls cambiaments dels moduls">
