@@ -129,7 +129,7 @@
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
-<!ENTITY calendar.task.filter.current.label         "მიმდინარე ამოცანები">
+<!ENTITY calendar.task.filter.current.label         "მიმდინარე დავალებები">
 <!ENTITY calendar.task.filter.current.accesskey     "u">
 
 <!ENTITY calendar.task-details.title.label           "სათაური:">
@@ -176,8 +176,8 @@
 <!ENTITY calendar.context.button.accesskey            "T" >
 <!ENTITY calendar.context.attendance.menu.label       "დამსწრეები" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "ეს გამეორება" >
-<!ENTITY calendar.context.attendance.all.label        "ყველა გამეორება" >
+<!ENTITY calendar.context.attendance.occurrence.label "ჩატარების თარიღი" >
+<!ENTITY calendar.context.attendance.all.label        "განმეორებითი ჩატარების ყველა თარიღი" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "მიმდინარეობა">
@@ -365,7 +365,7 @@
 <!ENTITY calendar.error.detail "დეტალები…">
 <!ENTITY calendar.error.code "შეცდომის კოდი:">
 <!ENTITY calendar.error.description "აღწერილობა:">
-<!ENTITY calendar.error.title "დაიმზირება შეცდომა">
+<!ENTITY calendar.error.title "წარმოიქმნა შეცდომა">
 
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "ღონისძიების სახით დამატება">
