@@ -18,8 +18,8 @@
 <!ENTITY newevent.eventStatus.cancelled.label     "გაუქმებულია" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "ქ" >
 <!ENTITY newevent.todoStatus.cancelled.label      "გაუქმდა" >
-<!ENTITY newevent.status.tentative.label          "დასაზუსტებელია" >
-<!ENTITY newevent.status.tentative.accesskey      "ტ" >
+<!ENTITY newevent.status.tentative.label          "სავარაუდო" >
+<!ENTITY newevent.status.tentative.accesskey      "ვ" >
 <!ENTITY newevent.status.confirmed.label          "დადასტურებული" >
 <!ENTITY newevent.status.confirmed.accesskey      "უ" >
 <!ENTITY newevent.status.needsaction.label        "საჭიროებს მოქმედებას" >
@@ -157,8 +157,8 @@
 <!ENTITY event.invite.attendees.accesskey                 "ვ">
 <!ENTITY event.email.attendees.label                      "წერილის შედგენა ყველა დამსწრისთვის…">
 <!ENTITY event.email.attendees.accesskey                  "ყ">
-<!ENTITY event.email.tentative.attendees.label            "წერილის შედგენა დასაზუსტებელი დამსწრეთათვის…">
-<!ENTITY event.email.tentative.attendees.accesskey        "ზ">
+<!ENTITY event.email.tentative.attendees.label            "წერილის შედგენა, სავარაუდო მონაწილეთათვის…">
+<!ENTITY event.email.tentative.attendees.accesskey        "დ">
 <!ENTITY event.remove.attendees.label2                    "ყველა მონაწილის წაშლა">
 <!ENTITY event.remove.attendees.accesskey                 "წ">
 <!ENTITY event.remove.attendee.label                      "მონაწილის წაშლა">
@@ -375,7 +375,7 @@
 <!ENTITY event.freebusy.zoom                    "მასშტაბი:">
 <!ENTITY event.freebusy.legend.free             "თავისუფალია" >
 <!ENTITY event.freebusy.legend.busy             "დაკავებულია" >
-<!ENTITY event.freebusy.legend.busy_tentative   "დასაზუსტებელია" >
+<!ENTITY event.freebusy.legend.busy_tentative   "სავარაუდო" >
 <!ENTITY event.freebusy.legend.busy_unavailable "ადგილზე არაა" >
 <!ENTITY event.freebusy.legend.unknown          "ინფორმაცია არაა" >
 <!ENTITY event.attendee.role.required           "ძირითადი მონაწილე">
@@ -406,7 +406,7 @@
 <!ENTITY read.only.reply.label           "პასუხი:">
 <!ENTITY read.only.accept.label          "დავესწრები">
 <!ENTITY read.only.decline.label         "არ დავესწრები">
-<!ENTITY read.only.tentative.label       "შევეცდები დავესწრო">
+<!ENTITY read.only.tentative.label       "სავარაუდოდ, მივიღებ მონაწილეობას">
 <!ENTITY read.only.needs.action.label    "მოგვიანებით დავაზუსტებ">
 <!ENTITY read.only.reminder.label        "შეხსენება:">
 <!ENTITY read.only.attachments.label     "დანართები:">
