@@ -229,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Avètz empachat aquel site de gardar de biais persistent de donadas.">
 
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
 
 <!ENTITY searchItem.title             "Recercar">
@@ -270,6 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Telecargaments">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Telecargaments">
 <!ENTITY downloads.accesskey          "T">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -351,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizar lo menú e las barras d'aisinas">
 <!ENTITY appMenuCustomizeExit.label "Quitar la personalizacion">
 <!ENTITY appMenuCustomizeExit.tooltip "Terminar la personalizacion">
+
 <!ENTITY appMenuHistory.showAll.label "Afichar tot l'istoric">
 <!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent...">
 <!ENTITY appMenuHistory.restoreSession.label "Restablir la session precedenta">
@@ -381,10 +384,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Volètz veire aquí los onglets dels vòstres autres periferics ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferéncias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectatz-vos per veire una lista d'onglets dels vòstres autres periferics.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Cal verificar vòstre compte.">
 <!ENTITY appMenuRemoteTabs.signin.label "Començar la session de Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerir los periferics…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Veire los onglets sincronizats dins la barra laterala">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Connectar un autre periferic">
+
+<!ENTITY appMenuRecentHighlights.label "Notables recents">
 
 <!ENTITY customizeMenu.addToToolbar.label "Apondre a la barra d'aisinas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -559,10 +566,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Causir l'imatge coma fons d'ecran">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Marcar aquesta pagina">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Marcapagina sus aqueste ligam">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcapagina sus aqueste quadre">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
+<!ENTITY pageAction.copyLink.label    "Copiar lo ligam">
+<!ENTITY copyURLFeedback.label        "Copiat">
 <!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
 <!ENTITY savePageCmd.label            "Enregistrar jos...">
@@ -743,6 +753,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Acabar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Seguretat del site">
+
 <!ENTITY identity.connectionSecure "Connexion securizada">
 <!ENTITY identity.connectionNotSecure "La connexion es pas securizada">
 <!ENTITY identity.connectionFile "Aquela pagina es enregistrada dins vòstre ordinador.">
@@ -796,11 +810,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Pas cap d’onglet sincronizat pel moment.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Volètz afichar los onglets dels vòstres autres periferics aquí ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Vos cal far verificar vòstre compte.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Pas cap d’onglet dobèrt">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Dobrir las preferénciias del &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cercar dins los onglets sincronizats">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connectar un autre periferic">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -841,6 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Restablir l'òrdre inicial">
 <!ENTITY customizeMode.done "Acabat">
 <!ENTITY customizeMode.titlebar "Barra de títol">
+<!ENTITY customizeMode.extraDragSpace "Espaci per agafar la fenèstra">
 <!ENTITY customizeMode.toolbars2 "Barras d’aisinas">
 <!ENTITY customizeMode.lwthemes "Tèmas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mos tèmas">
@@ -850,6 +869,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Telecargar d'autres tèmas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Far lisar e pausar los elements aquí per los gardar a man, mas fòra de vòstra barra d’aisinas…">
+<!ENTITY customizeMode.overflowList.title2 "Menú suplementari">
 <!ENTITY customizeMode.uidensity "Densitat">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -871,6 +891,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilizatz lo tactil pel mòde tauleta">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Amagar automaticament">
 
 <!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
@@ -966,10 +987,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Tornar aviar per metre a jorn &brandShorterName;">
 
+<!ENTITY newTabControlled.keepButton.label "Servar los cambiaments">
+<!ENTITY newTabControlled.keepButton.accesskey "S">
+<!ENTITY newTabControlled.restoreButton.label "Restablir los paramètres">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Accions de la pagina">
 <!ENTITY pageAction.addToUrlbar.label "Apondre la barra d'adreça">
 <!ENTITY pageAction.removeFromUrlbar.label "Levar de la barra d'adreça">
 
+<!ENTITY pageAction.allowInUrlbar.label "Mostrar dins la barra d’adreça">
+<!ENTITY pageAction.disallowInUrlbar.label "Mostrar pas dins la barra d’adreça">
+<!ENTITY pageAction.manageExtension.label "Gerir l’extension…">
+
+<!ENTITY pageAction.sendTabToDevice.label "Mandar l’onglet al periferic">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisacion dels periferics…">
 
 <!ENTITY libraryButton.tooltip "Veire l'istoric, salvar los marcapaginas, e mai">
