@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "ఎల్లప్పుడు అడుగు">
 <!ENTITY  permAllow             "అనుమతించు">
 <!ENTITY  permAllowSession      "ఈ సెషన్‌కు అనుమతించు">
+<!ENTITY  permHide              "దాచు">
 <!ENTITY  permBlock             "నిరోధించు">
 <!ENTITY  permissionsFor        "దీనికొరకు అనుమతులు:">
 <!ENTITY  permPlugins           "ప్లగిన్ లను క్రియాశీలపరచు">

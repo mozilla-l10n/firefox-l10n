@@ -10,8 +10,25 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "గంటలు">
+<!ENTITY time.minute.label "నిమిషాలు">
+<!ENTITY time.second.label "క్షణాలు">
+<!ENTITY time.millisecond.label "మిల్లీసెకండ్లు">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "yyyy">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "సంవత్సరం">
+<!ENTITY date.month.label "నెల">
+<!ENTITY date.day.label "రోజు">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "చెరిపివేయి">

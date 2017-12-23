@@ -382,10 +382,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ఇతర పరికరాలలో తెరిచివున్న మీ ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "సింక్ అభిరుచులు">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "మీ ఇతర పరికరాల లోని ట్యాబుల జాబితాను చూడడానికి సైన్ ఇన్ అవ్వండి.">
+<!ENTITY appMenuRemoteTabs.unverified.label "మీ ఖాతాను తనిఖీ చెయ్యాలి.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync లోకి ప్రవేశించండి">
 <!ENTITY appMenuRemoteTabs.managedevices.label "పరికరాలను నిర్వహించండి…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "సింక్రనిత ట్యాబుల ప్రక్కపట్టీని చూడండి">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "మరొక పరికరాన్ని అనుసంధానించండి">
 
 <!ENTITY appMenuRecentHighlights.label "ఇటీవలి ముఖ్యాంశాలు">
 
@@ -804,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "సింక్ చేయబడిన ట్యాబులేమీ లేవు… ఇంకా!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "మీ ఇతర పరికరాలోని ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "మీ ఇతర పరికరాల లోని ట్యాబుల జాబితా చూడడానికి ప్రవేశించండి.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "మీ ఖాతాను తనిఖీ చెయ్యాలి.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "తెరిచివున్న ట్యాబులు లేవు">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; అభిరుచులు తెరువు">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
