@@ -459,6 +459,11 @@
 <!ENTITY addressBookCmd.key "Ρ">
 <!ENTITY addons.label "Πρόσθετα">
 <!ENTITY addons.accesskey "θ">
+<!ENTITY addonPrefs.label "Επιλογές προσθέτου">
+<!ENTITY addonPrefs.accesskey "Ε">
+<!ENTITY addonPrefsUnix.label "Προτιμήσεις προσθέτου">
+<!ENTITY addonPrefsUnix.accesskey "Π">
+<!ENTITY addonNoPrefs.label "Δεν βρέθηκαν ρυθμίσεις προσθέτου.">
 <!ENTITY activitymanager.label "Διαχείριση δραστηριότητας">
 <!ENTITY activitymanager.accesskey "χ">
 <!ENTITY imAccountsStatus.label "Κατάσταση συνομιλίας">
