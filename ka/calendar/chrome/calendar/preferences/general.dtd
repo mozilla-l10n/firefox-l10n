@@ -9,7 +9,7 @@
 
 <!ENTITY pref.mainbox.label "ძირითადი პარამეტრები" >
 <!ENTITY pref.dateformat.label "თარიღის ტექსტური ფორმატი:" >
-<!ENTITY pref.dateformat.accesskey "D">
+<!ENTITY pref.dateformat.accesskey "თ">
 <!ENTITY pref.dateformat.long "გრძელი" >
 <!ENTITY pref.dateformat.short "მოკლე"  >
 
@@ -33,6 +33,9 @@
 <!ENTITY pref.default_task_offset_start.label "დასაწყისთან დაკავშირებული">
 <!ENTITY pref.default_task_offset_next_hour.label "შემდეგ საათთან დაკავშირებული">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "დღევანდელის დღის არე">
+<!ENTITY pref.soondays.label "მოახლებულების არეში გამოჩნდება:">
+<!ENTITY pref.soondays.accesskey "ო">
 
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
