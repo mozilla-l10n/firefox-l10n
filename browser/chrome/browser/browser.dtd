@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Сілтемені құрылғыға жіберу">
 <!ENTITY  sendLinkToDevice.accesskey         "ы">
 <!ENTITY  sendToDeviceFeedback.label         "Жіберілді!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Кезекте (желіден тыс)">
 <!ENTITY  moveToNewWindow.label              "Жаңа терезеге жылжыту">
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  bookmarkAllTabs.label              "Барлық беттерді бетбелгілерге қосу…">
@@ -231,6 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Сіз тұрақты деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
 
