@@ -252,25 +252,26 @@
 <!ENTITY event.reminder.1day.before.label                 "1 დღით ადრე" >
 <!ENTITY event.reminder.2days.before.label                "2 დღით ადრე" >
 <!ENTITY event.reminder.1week.before.label                "1 კვირით ადრე" >
-<!ENTITY event.reminder.custom.label                      "მითითებული…" >
+<!ENTITY event.reminder.custom.label                      "მითითებული დროით…" >
 
 <!ENTITY event.reminder.multiple.label                    "მრავალჯერადი შეხსენებები…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "დროის შუალდედი:">
 <!ENTITY event.statusbarpanel.privacy.label               "პირადულობა:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "გამეორების რედაქცია">
 
 <!ENTITY event.repeat.does.not.repeat.label             "გამეორების გარეშე">
-<!ENTITY event.repeat.daily.label                       "ყოვლ დღეს">
-<!ENTITY event.repeat.weekly.label                      "კვირაში ერთხელ">
-<!ENTITY event.repeat.every.weekday.label               "კვირის ყოველ დღეს">
+<!ENTITY event.repeat.daily.label                       "ყოველდღე">
+<!ENTITY event.repeat.weekly.label                      "ყოველკვირა">
+<!ENTITY event.repeat.every.weekday.label               "ყოველ სამუშაო დღეს">
 <!ENTITY event.repeat.bi.weekly.label                   "ორ კვირაში ერთხელ">
-<!ENTITY event.repeat.monthly.label                     "თვეში ერთხელ">
-<!ENTITY event.repeat.yearly.label                      "წელიწადში ერთხელ">
-<!ENTITY event.repeat.custom.label                      "საკუთარი…">
+<!ENTITY event.repeat.monthly.label                     "ყოველთვე">
+<!ENTITY event.repeat.yearly.label                      "ყოველ წელს">
+<!ENTITY event.repeat.custom.label                      "მითითებულ დროს…">
 
-<!ENTITY event.recurrence.pattern.label                 "გამეორების პერიოდი">
+<!ENTITY event.recurrence.pattern.label                 "გამეორების შუალედი">
 <!ENTITY event.recurrence.occurs.label                  "გამეორება" >
 <!ENTITY event.recurrence.day.label                     "ყოველდღიური" >
 <!ENTITY event.recurrence.week.label                    "ყოველკვირეული" >
@@ -279,7 +280,7 @@
 
 <!ENTITY event.recurrence.pattern.every.label           "ყოველ" >
 <!ENTITY repeat.units.days.both                         "დღე" >
-<!ENTITY event.recurrence.pattern.every.weekday.label   "კვირის ყოველ დღეს" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "ყოველ სამუშაო დღეს" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "ყოველი" >
 <!ENTITY repeat.units.weeks.both                        "კვირა" >
@@ -287,13 +288,13 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "ყოველ" >
 <!ENTITY repeat.units.months.both                       "თვე" >
-<!ENTITY event.recurrence.monthly.every.label           "ყპოველი" >
+<!ENTITY event.recurrence.monthly.every.label           "ყოველი" >
 <!ENTITY event.recurrence.monthly.first.label           "პირველი">
-<!ENTITY event.recurrence.monthly.second.label          "The მეორე">
-<!ENTITY event.recurrence.monthly.third.label           "The მესამე">
-<!ENTITY event.recurrence.monthly.fourth.label          "The მეოთხე">
-<!ENTITY event.recurrence.monthly.fifth.label           "The მეხუთე">
-<!ENTITY event.recurrence.monthly.last.label            "The ბოლო">
+<!ENTITY event.recurrence.monthly.second.label          "მეორე">
+<!ENTITY event.recurrence.monthly.third.label           "მესამე">
+<!ENTITY event.recurrence.monthly.fourth.label          "მეოთხე">
+<!ENTITY event.recurrence.monthly.fifth.label           "მეხუთე">
+<!ENTITY event.recurrence.monthly.last.label            "ბოლო">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "კვირა" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "ორშაბათი" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "სამშაბათი" >
@@ -302,7 +303,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "პარასკევი" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "შაბათი" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "თვის დღე">
-<!ENTITY event.recurrence.repeat.recur.label            "განმეორებითი დღე(ებ)ი">
+<!ENTITY event.recurrence.repeat.recur.label            "შემდეგი დღე(ებ)ი">
 
 <!ENTITY event.recurrence.every.label                        "ყოველი:" >
 <!ENTITY repeat.units.years.both                             "წელი" >
@@ -361,9 +362,9 @@
 <!ENTITY event.recurrence.range.label                   "განმეორებათა რანგი">
 <!ENTITY event.recurrence.forever.label                 "დასრულების თარიღის გარეშე" >
 <!ENTITY event.recurrence.repeat.for.label              "შექმნა" >
-<!ENTITY event.recurrence.appointments.label            "შეხვედრა/ები" >
-<!ENTITY event.repeat.until.label                       "გამეორება ვიდრე" >
-<!ENTITY event.recurrence.preview.label                 "ესკიზი">
+<!ENTITY event.recurrence.appointments.label            "დანიშნულ(ებ)ი" >
+<!ENTITY event.repeat.until.label                       "გამეორება მოცემულ თარიღამდე" >
+<!ENTITY event.recurrence.preview.label                 "შეთვალიერება">
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "დამსწრეთა მოწვევა">
