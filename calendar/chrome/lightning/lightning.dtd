@@ -67,6 +67,8 @@
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "ღონისძიების გადავადება">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "ღონისძიების კალენდარზე დატანა, ხელმძღვანელისადმი პასუხის მიუხედავად. მონაწილეების სია წაიშლება.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "სავარაუდოდ">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "მოწვევაზე სავარაუდო თანხმობის განცხადება">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "ყველაზე სავარაუდო">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "განახლება">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "ღონისძიების განახლება კალენდარზე">
 <!ENTITY lightning.imipbar.description                                      "გზავნილი შეიცავს ღონისძიებაზე მოწვევას.">
