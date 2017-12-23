@@ -187,13 +187,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "వెనుకకు">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "ఒక పేజీ వెనుకకు వెళ్ళండి">
 <!ENTITY forwardCmd.label             "ముందుకు">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ఒక పేజీ ముందుకు వెళ్ళండి">
 <!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూడడానికి కుడి-క్లిక్ నొక్కండి లేదా కిందికి లాగండి">
 <!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూడడానికి కిందకు లాగండి">
 <!ENTITY reloadCmd.label              "మళ్ళీ లోడుచేయి">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "ఆపివేయి">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి">
 <!ENTITY printButton.label            "ముద్రించు">
@@ -227,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "డేటా నిల్వ చేయకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "నోటిఫికేషన్లు చూపించకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "మీరు ఈ వెబ్సైట్ కోసం నిరంతర నిల్వ నిరోధించారు.">
+
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
@@ -346,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "మెనూని పనిముట్ల పట్టీని తీర్చిదిద్దుకోండి">
 <!ENTITY appMenuCustomizeExit.label "అనుకూలీకరణను నిష్క్రమించండి">
 <!ENTITY appMenuCustomizeExit.tooltip "అనుకూలీకరణను ముగించండి">
+
 <!ENTITY appMenuHistory.showAll.label "మొత్తం చరిత్రను చూపించు">
 <!ENTITY appMenuHistory.clearRecent.label "ఇటీవలి చరిత్రను తుడిచివేయి…">
 <!ENTITY appMenuHistory.restoreSession.label "మునుపటి సెషన్‌ను పునరుద్ధరించు">
@@ -379,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Sync లోకి ప్రవేశించండి">
 <!ENTITY appMenuRemoteTabs.managedevices.label "పరికరాలను నిర్వహించండి…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "సింక్రనిత ట్యాబుల ప్రక్కపట్టీని చూడండి">
+
 
 <!ENTITY appMenuRecentHighlights.label "ఇటీవలి ముఖ్యాంశాలు">
 
@@ -555,6 +562,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "డెస్క్‌టాపు వెనుతలంగా అమర్చు…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ఈ పేజీని ఇష్టాంశముచేయి">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "ఈ లింకును ఇష్టాంశము చేయి">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ఈ ఫ్రేమును ఇష్టాంశంగా చేయి">
@@ -739,6 +747,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "పూర్తయింది">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "సైటు భద్రత">
+
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
 <!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితమైనది కాదు">
 <!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్లో భద్రమయివుంటుంది.">
@@ -797,6 +809,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల లోని ట్యాబుల జాబితాను చూడటానికి ట్యాబుల సింకింగుని చేతనం చెయ్యండి.">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "మరొక పరికరాన్ని అనుసంధానించండి">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -963,9 +977,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;‌ను నవీకరించడానికి పునఃప్రారంభించండి">
 
+
 <!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
 <!ENTITY pageAction.addToUrlbar.label "చిరునామా పట్టీకి చేర్చండి">
 <!ENTITY pageAction.removeFromUrlbar.label "చిరునామా పట్టీ నుండి తొలగించండి">
+
+<!ENTITY pageAction.allowInUrlbar.label "చిరునామా పట్టీలో చూపించు">
 
 <!ENTITY sendToDevice.syncNotReady.label "పరికరాలను సమకాలీకరిస్తోంది…">
 
