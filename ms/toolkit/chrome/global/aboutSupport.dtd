@@ -156,6 +156,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Kadar">
 <!ENTITY aboutSupport.mediaDeviceLatency "Kependaman">
 
+<!ENTITY aboutSupport.intlTitle "Pengantarabangsaan &amp; Lokalisasi">
 <!ENTITY aboutSupport.intlAppTitle "Tetapan Aplikasi">
 <!ENTITY aboutSupport.intlLocalesRequested "Lokaliti Diminta">
 <!ENTITY aboutSupport.intlLocalesAvailable "Lokaliti Tersedia">
