@@ -5,7 +5,7 @@
 <!ENTITY lightning.toolbar.calendar.name "კალენდრის პულტი">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "ამოცანათა პულტი">
-<!ENTITY lightning.toolbar.task.name.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "ა">
 
 <!ENTITY lightning.toolbar.sync.label "სინქრონიზაცია">
 <!ENTITY lightning.toolbar.delete.label "წაშლა">
@@ -22,7 +22,7 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "დავალებები">
 <!ENTITY lightning.toolbar.task.tooltip       "გადასვლა დავალებების დაფაზე">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
+<!ENTITY lightning.toolbar.task.accesskey     "ფ">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "ღონისძიება">

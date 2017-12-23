@@ -20,5 +20,5 @@
 <!ENTITY pref.categories.usecolor.label "ფერის გამოყენება">
 <!ENTITY pref.categories.none.label "(არა)">
 <!ENTITY pref.categories.overwrite "კატეგორია ამ სახელით უკვე არსებობს. \n გნებავთ მისი ჩანაცვლება?">
-<!ENTITY pref.categories.overwrite.title "გაფრთხილება: დუბლირებული სახელი">
+<!ENTITY pref.categories.overwrite.title "გაფრთხილება: ერთნაირი დასახელება">
 <!ENTITY pref.categories.noBlankCategories "უნდა მიუთითოთ კატეგორიის სახელი.">

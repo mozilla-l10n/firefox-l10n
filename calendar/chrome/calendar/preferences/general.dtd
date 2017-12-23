@@ -29,6 +29,9 @@
 <!ENTITY pref.default_task_end_of_day.label "დასრულების დღე">
 <!ENTITY pref.default_task_tomorrow.label "ხვალ">
 <!ENTITY pref.default_task_next_week.label "შემდეგი კვირა">
+<!ENTITY pref.default_task_offset_current.label "მიმდინარე დროსთან დაკავშირებული">
+<!ENTITY pref.default_task_offset_start.label "დასაწყისთან დაკავშირებული">
+<!ENTITY pref.default_task_offset_next_hour.label "შემდეგ საათთან დაკავშირებული">
 
 
 <!-- LOCALIZATION NOTE (pref.soondays2.label):

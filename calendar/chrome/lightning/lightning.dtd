@@ -14,7 +14,7 @@
 <!ENTITY lightning.menupopup.new.event.label    "ღონისძიება…">
 <!ENTITY lightning.menupopup.new.event.accesskey "ღ">
 <!ENTITY lightning.menupopup.new.task.label     "დავალება…">
-<!ENTITY lightning.menupopup.new.task.accesskey "T">
+<!ENTITY lightning.menupopup.new.task.accesskey "დ">
 <!ENTITY lightning.menupopup.new.calendar.label "კალენდარი…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
@@ -30,7 +30,7 @@
 <!ENTITY lightning.menu.view.calendar.label            "კალენდარი">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
 <!ENTITY lightning.menu.view.tasks.label               "დავალებები">
-<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+<!ENTITY lightning.menu.view.tasks.accesskey           "ბ">
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "ღონისძიებები და დავალებები">

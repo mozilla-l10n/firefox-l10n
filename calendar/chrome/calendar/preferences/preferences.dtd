@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  paneGeneral.title       "ძირითადი">
-<!ENTITY  paneAlarms.title        "გაფრთხილებები">
+<!ENTITY  paneAlarms.title        "შეხსენებები">
 <!ENTITY  paneCategories.title    "კატეგორიები">
 <!ENTITY  paneViews.title         "ჩვენება">
-<!ENTITY  paneTimezones.title     "საათობრივი ზონა">
