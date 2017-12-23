@@ -65,14 +65,19 @@
 
 <!ENTITY  aboutDevtools.welcome.title "Selamat datang ke Alatan Pembangun Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Surat Berita Pembangun Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Dapatkan berita. helah dan sumber yang dihantar terus ke peti masuk anda.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "E-mel">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Saya setuju Mozilla mengendalikan maklumat saya seperti yang dijelaskan dalam <a class='external' href='https://www.mozilla.org/privacy/'>Polisi Privasi ini</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Langgan">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Terima kasih!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Jika anda belum pernah mengesahkan langganan surat berita yang berkaitan dengan Mozilla, anda mungkin perlu untuk berbuat demikian. Sila semak peti masuk anda atau penapis spam anda untuk dapatkan e-mel daripada kami.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Mencari sesuatu yang lebih daripada sekadar Alatan Pembangun? Semak pelayar Firefox yang dibina khusus untuk aliran kerja pembangun dan moden.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
