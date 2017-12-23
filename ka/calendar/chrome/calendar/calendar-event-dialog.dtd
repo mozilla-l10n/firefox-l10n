@@ -146,7 +146,7 @@
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "ხ">
 <!ENTITY  event.menu.options.privacy.private.label            "დახურული ღონისძიება">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "რ">
-<!ENTITY  event.menu.options.show.time.label                  "დროის ჩვენება, როგორც">
+<!ENTITY  event.menu.options.show.time.label                  "დრო მიეთითოს, როგორც">
 <!ENTITY  event.menu.options.show.time.accesskey              "ც">
 <!ENTITY  event.menu.options.show.time.busy.label             "დაკავებული">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "კ">

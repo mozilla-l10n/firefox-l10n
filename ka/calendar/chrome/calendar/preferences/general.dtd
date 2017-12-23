@@ -18,11 +18,11 @@
 <!ENTITY pref.timezones.accesskey "ქ">
 
 <!ENTITY pref.defaults.label "ახალი ელემენტების ნაგულისხმევი მნიშვნელობები">
-<!ENTITY pref.events.label "მოვლენები">
+<!ENTITY pref.events.label "ღონისძიებები">
 <!ENTITY pref.tasks.label "ამოცანები">
 
-<!ENTITY pref.default_event_length.label "ნაგულისხმევი ზომა:" >
-<!ENTITY pref.default_event_length.accesskey "ზ">
+<!ENTITY pref.default_event_length.label "ნაგულისხმევი ხანგრძლივობა:" >
+<!ENTITY pref.default_event_length.accesskey "ძ">
 
 <!ENTITY pref.default_task_none.label "არცერთი">
 <!ENTITY pref.default_task_start_of_day.label "დაწყების დღე">
@@ -41,6 +41,6 @@
 <!ENTITY pref.systemcolors.label "ფერების ოპტიმიზაცია" >
 <!ENTITY pref.systemcolors.accesskey "c">
 
-<!ENTITY pref.eventsandtasks.label "მოვლენები და ამოცანები" >
-<!ENTITY pref.editInTab.label "მოვლენებისა და ამოცანების ჩასწორება ჩანართში, გამოსული ფანჯრის ნაცვლად." >
+<!ENTITY pref.eventsandtasks.label "ღონისძიებები და დავალებები" >
+<!ENTITY pref.editInTab.label "ღონისძიებებისა და დავალებების ჩასწორება ჩანართში, გამოსული ფანჯრის ნაცვლად." >
 <!ENTITY pref.editInTab.accesskey "ჩ">

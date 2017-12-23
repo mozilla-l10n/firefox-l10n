@@ -31,14 +31,6 @@
 <!ENTITY day.6.name "პარასკევი" >
 <!ENTITY day.7.name "შაბათი" >
 
-<!-- Units -->
-<!ENTITY calendar.global.units.minute   "წუთი">
-<!ENTITY calendar.global.units.minutes  "წუთი">
-<!ENTITY calendar.global.units.hour     "საათი">
-<!ENTITY calendar.global.units.hours    "საათი">
-<!ENTITY calendar.global.units.day      "დღე">
-<!ENTITY calendar.global.units.days     "დღე">
-
 <!ENTITY month.1.name "იანვარი" >
 <!ENTITY month.2.name "თებერვალი" >
 <!ENTITY month.3.name "მარტი" >
@@ -57,4 +49,4 @@
 <!ENTITY showToday.tooltip "დღეს">
 <!ENTITY onedayforward.tooltip "ერთი დღით უკან">
 <!ENTITY onedaybackward.tooltip "ერთი დღით წინ">
-<!ENTITY showselectedday.tooltip "მოვლენების ჩვენება შერჩეული დღისთვის">
+<!ENTITY showselectedday.tooltip "ღონისძიებები მითითებული დღისთვის">

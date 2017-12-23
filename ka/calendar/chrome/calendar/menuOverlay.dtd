@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Event Menu -->
-<!ENTITY event.new.event                        "ახალი მოვლენა">
-<!ENTITY event.new.event.accesskey              "N">
+<!ENTITY event.new.event                        "ახალი ღონისძიება…">
+<!ENTITY event.new.event.accesskey              "ხ">
 
-<!ENTITY event.new.task                         "ახალი ამოცანა">
-<!ENTITY event.new.task.accesskey               "k">
+<!ENTITY event.new.task                         "ახალი დავალება…">
+<!ENTITY event.new.task.accesskey               "დ">
 
 <!ENTITY calendar.import.label                  "იმპორტი">
 <!ENTITY calendar.import.accesskey              "I">
@@ -33,8 +33,9 @@
 <!ENTITY calendar.menu.customize.label          "მორგება…">
 <!ENTITY calendar.menu.customize.accesskey      "C">
 
-<!ENTITY showUnifinderCmd.label                 "მოვლენათა პოვნა">
+<!ENTITY showUnifinderCmd.label                 "ღონისძიების მონახვა">
 <!ENTITY showUnifinderCmd.accesskey             "F">
+<!ENTITY showUnifinderCmd.tooltip               "ღონისძიების საძიებო არის გახსნა/დახურვა">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "ამოცანების კალენდარში ჩვენება">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
