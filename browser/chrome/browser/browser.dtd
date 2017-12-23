@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "您已拦截此网站的弹出窗口。">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "您已禁止此网站获取 Canvas 数据。">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "显示历史">
 
 <!ENTITY searchItem.title             "搜索">
