@@ -9,9 +9,12 @@
 
 <!ENTITY lightning.toolbar.sync.label "სინქრონიზაცია">
 <!ENTITY lightning.toolbar.delete.label "წაშლა">
+<!ENTITY lightning.toolbar.delete.tooltip "შერჩეული ღონისძიებების, ან დავალებების წაშლა">
 <!ENTITY lightning.toolbar.edit.label "რედაქცია">
+<!ENTITY lightning.toolbar.edit.tooltip "შერჩეული ღონისძიებების, ან დავალებების ჩასწორება">
 <!ENTITY lightning.toolbar.gototoday.label "დღეს">
 <!ENTITY lightning.toolbar.print.label "ამობეჭდვა">
+<!ENTITY lightning.toolbar.print.tooltip "ღონისძიებების, ან დავალებების ამობეჭდვა">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "კალენდარი">
@@ -22,7 +25,8 @@
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "მოვლენა">
+<!ENTITY lightning.toolbar.newevent.label     "ღონისძიება">
+<!ENTITY lightning.toolbar.newevent.tooltip   "ახალი ღონისძიების შექმნა">
 <!ENTITY lightning.toolbar.newtask.label      "ამოცანა">
 <!ENTITY lightning.toolbar.newtask.tooltip    "ახალი დავალების შექმნა">
 
