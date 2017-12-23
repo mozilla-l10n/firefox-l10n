@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "使用地址栏完成搜索和访问">
 <!ENTITY searchBar.shown.label                 "添加搜索栏到工具栏">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "在地址栏显示的结果中，将搜索建议显示在浏览历史上方">
+
 <!ENTITY defaultSearchEngine.label             "默认搜索引擎">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "选择在地址栏和搜索栏中搜索时默认使用的搜索引擎。">
