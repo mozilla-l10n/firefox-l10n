@@ -369,33 +369,35 @@
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "დამსწრეთა მოწვევა">
 <!ENTITY event.organizer.label                  "დაგეგმვა">
-<!ENTITY event.freebusy.suggest.slot            "დროის სარკმლის შეთავაზება:">
+<!ENTITY event.freebusy.suggest.slot            "დროის შუალედის შეთავაზება:">
+<!ENTITY event.freebusy.button.next.slot        "მომდევნო შუალედი">
+<!ENTITY event.freebusy.button.previous.slot    "წინა შუალედი">
 <!ENTITY event.freebusy.zoom                    "მასშტაბი:">
 <!ENTITY event.freebusy.legend.free             "თავისუფალია" >
 <!ENTITY event.freebusy.legend.busy             "დაკავებულია" >
 <!ENTITY event.freebusy.legend.busy_tentative   "დასაზუსტებელია" >
-<!ENTITY event.freebusy.legend.busy_unavailable "ოფისის გარეთ" >
+<!ENTITY event.freebusy.legend.busy_unavailable "ადგილზე არაა" >
 <!ENTITY event.freebusy.legend.unknown          "ინფორმაცია არაა" >
-<!ENTITY event.attendee.role.required           "სავალდებულო დამსწრე">
-<!ENTITY event.attendee.role.optional           "არასავალდებულო დამსწრე">
-<!ENTITY event.attendee.role.chair              "ორგანიზატორი">
+<!ENTITY event.attendee.role.required           "ძირითადი მონაწილე">
+<!ENTITY event.attendee.role.optional           "სხვა მონაწილე">
+<!ENTITY event.attendee.role.chair              "ხელმძღვანელი">
 <!ENTITY event.attendee.role.nonparticipant     "სტუმარი">
-<!ENTITY event.attendee.usertype.individual     "ინდივიდი">
+<!ENTITY event.attendee.usertype.individual     "ცალკეული">
 <!ENTITY event.attendee.usertype.group          "ჯგუფი">
-<!ENTITY event.attendee.usertype.resource       "რესურსი">
+<!ENTITY event.attendee.usertype.resource       "თანამშრომელი">
 <!ENTITY event.attendee.usertype.room           "ოთახი">
 <!ENTITY event.attendee.usertype.unknown        "უცნობი">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "გთხოვთ მიუთითოთ საათობრივი ზონა">
-<!ENTITY event.timezone.custom.label     "სხვა საათობრივი ზონები…">
+<!ENTITY event.timezone.custom.label     "დროის სხვა სარტყელები…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "ზოგადი">
 <!ENTITY read.only.title.label           "სათაური:">
-<!ENTITY read.only.event.start.label     "დაწყება:">
+<!ENTITY read.only.event.start.label     "დაწყების თარიღი:">
 <!ENTITY read.only.task.start.label      "დაწყება:">
-<!ENTITY read.only.event.end.label       "დასრულება:">
+<!ENTITY read.only.event.end.label       "დასრულების თარიღი:">
 <!ENTITY read.only.task.due.label        "დასრულება:">
 <!ENTITY read.only.repeat.label          "გამეორება:">
 <!ENTITY read.only.location.label        "ადგილი:">
