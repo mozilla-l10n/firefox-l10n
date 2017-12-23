@@ -42,10 +42,12 @@
      translation of that section name (calendar.upcoming.button.label). Also,
      it should be upper case (as a proper name) if the target language permits.
   -->
+<!ENTITY pref.soondays2.label "მოახლებულების არეში გამოჩნდება:">
+<!ENTITY pref.soondays2.accesskey "ა">
 
 <!ENTITY pref.accessibility.label "დამხმარე საშუალებები" >
 <!ENTITY pref.systemcolors.label "ფერების ოპტიმიზაცია" >
-<!ENTITY pref.systemcolors.accesskey "c">
+<!ENTITY pref.systemcolors.accesskey "ფ">
 
 <!ENTITY pref.eventsandtasks.label "ღონისძიებები და დავალებები" >
 <!ENTITY pref.editInTab.label "ღონისძიებებისა და დავალებების ჩასწორება ჩანართში, გამოსული ფანჯრის ნაცვლად." >
