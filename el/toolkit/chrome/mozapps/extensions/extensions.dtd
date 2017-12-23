@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Διαχείριση προσθέτων">
 
 <!ENTITY search.placeholder                   "Αναζήτηση σε όλα τα πρόσθετα">
+
+<!ENTITY search.placeholder2                  "Αναζήτηση στο addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Αναζήτηση">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -26,8 +28,9 @@
 <!ENTITY cmd.back.tooltip                     "Μετάβαση πίσω μια σελίδα">
 <!ENTITY cmd.forward.tooltip                  "Μετάβαση μπροστά μια σελίδα">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Δεν ήταν δυνατή η επαλήθευση ορισμένων πρόσθετων">
-<!ENTITY showAllExtensions.button.label       "Εμφάνιση όλων των επεκτάσεων">
+<!ENTITY showAllExtensions.button.label       "Προβολή όλων των επεκτάσεων">
 <!ENTITY debugAddons.label                    "Αποσφαλμάτωση πρόσθετων">
 <!ENTITY debugAddons.accesskey                "θ">
 
@@ -258,7 +261,6 @@
 <!ENTITY pluginDeprecation.description "Λείπει τίποτα; Ορισμένες πρόσθετες λειτουργίες δεν υποστηρίζονται πλέον από το &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Μάθετε περισσότερα.">
 
-<!ENTITY legacyWarning.description "Λείπει κάτι; Ορισμένες επεκτάσεις δεν υποστηρίζονται πλέον από το &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Εμφάνιση επεκτάσεων παλαιού τύπου">
 <!ENTITY legacyExtensions.title "Επεκτάσεις παλαιού τύπου">
 <!ENTITY legacyExtensions.description "Αυτές οι επεκτάσεις δεν πληρούν τα τρέχοντα κριτήρια του &brandShortName;, επομένως έχουν απενεργοποιηθεί.">
