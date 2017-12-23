@@ -67,7 +67,7 @@
 <!ENTITY lightning.imipbar.btnTentative.label                               "დასაზუსტებელია">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "განახლება">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "ღონისძიების განახლება კალენდარზე">
-<!ENTITY lightning.imipbar.description                                      "ეს გზავნილი შეიცავს ღონისძიების მოსაწვევს.">
+<!ENTITY lightning.imipbar.description                                      "გზავნილი შეიცავს ღონისძიებაზე მოწვევას.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
