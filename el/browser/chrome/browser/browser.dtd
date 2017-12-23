@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Αποστολή συνδέσμου σε συσκευή">
 <!ENTITY  sendLinkToDevice.accesskey         "μ">
 <!ENTITY  sendToDeviceFeedback.label         "Απεστάλη!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Σε ουρά (εκτός σύνδεσης)">
 <!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY  moveToNewWindow.accesskey          "π">
 <!ENTITY  bookmarkAllTabs.label              "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Έχετε αποκλείσει την επίμονη αποθήκευση για αυτή την ιστοσελίδα.">
 
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 
 <!ENTITY searchItem.title             "Αναζήτηση">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και των γραμμών εργαλείων">
 <!ENTITY appMenuCustomizeExit.label "Τέλος προσαρμογής">
 <!ENTITY appMenuCustomizeExit.tooltip "Ολοκλήρωση προσαρμογής">
+
 <!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
 <!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
@@ -385,6 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Σύνδεση στο Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
+
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στην εργαλειοθήκη">
@@ -746,6 +750,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Προσθήκη">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ρ">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
@@ -805,6 +812,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Αναζήτηση συγχρονισμένων καρτελών">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -972,9 +980,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Ο">
 <!ENTITY updateRestart.panelUI.label2 "Επανεκκίνηση για ενημέρωση του &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Η νέα σας καρτέλα έχει αλλάξει.">
+<!ENTITY newTabControlled.keepButton.label "Διατήρηση αλλαγών">
+<!ENTITY newTabControlled.keepButton.accesskey "Δ">
+<!ENTITY newTabControlled.restoreButton.label "Επαναφορά ρυθμίσεων">
+<!ENTITY newTabControlled.restoreButton.accesskey "Ε">
+
 <!ENTITY pageActionButton.tooltip "Ενέργειες σελίδας">
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
 <!ENTITY pageAction.removeFromUrlbar.label "Αφαίρεση από τη γραμμή διευθύνσεων">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Αποστολή καρτέλας σε συσκευή">
 <!ENTITY sendToDevice.syncNotReady.label "Συγχρονισμός συσκευών…">
