@@ -24,6 +24,7 @@
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON వ్యూయర్లో తెరవండి">
 
+<!ENTITY aboutTelemetry.homeSection "ముంగిలి">
 <!ENTITY aboutTelemetry.generalDataSection "సాధారణ దత్తాంశం">
 <!ENTITY aboutTelemetry.environmentDataSection "పర్యావరణ దత్తాంశం">
 <!ENTITY aboutTelemetry.sessionInfoSection "సెషేన్ యొక్క సమాచారం">
