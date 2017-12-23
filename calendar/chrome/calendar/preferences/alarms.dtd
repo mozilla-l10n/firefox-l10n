@@ -12,8 +12,8 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "ნაგულისხმები სიგნალის გამოყენება">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
-<!ENTITY pref.calendar.alarms.sound.browse.label "ნუსხა…">
-<!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
+<!ENTITY pref.calendar.alarms.sound.browse.label "ამორჩევა…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "ჩ">
 <!ENTITY pref.calendar.alarms.sound.play.label "დაკვრა">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "დ">
 <!ENTITY pref.showalarmbox "შეხსენების დაფის ჩვენება">

@@ -290,9 +290,9 @@
 <!ENTITY calendar.alarm.location.label              "ადგილი:" >
 <!ENTITY calendar.alarm.details.label               "დეტალები…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "გაფრთხილება -" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "ყველას გაფრთხილება -" >
-<!ENTITY calendar.alarm.title.label                 "კალენდრის გაფრთხილება" >
+<!ENTITY calendar.alarm.snoozefor.label             "გადადება -" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "ყველას გადადება -" >
+<!ENTITY calendar.alarm.title.label                 "კალენდრის შეხსენებები" >
 <!ENTITY calendar.alarm.dismiss.label               "გამორთვა" >
 <!ENTITY calendar.alarm.dismissall.label            "ყველას გამორთვა" >
 
@@ -309,7 +309,7 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel               "გაფრთხილების გაუქმება">
+<!ENTITY calendar.alarm.snooze.cancel               "გადადების გაუქმება">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "კალენდრის რედაქტირება">

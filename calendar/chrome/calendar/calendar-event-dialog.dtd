@@ -189,7 +189,10 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "შეთავაზების მიღება">
+<!ENTITY counter.button.proposal.accesskey                "თ">
 <!ENTITY counter.button.proposal.tooltip2                 "ღონისძიების ველები, უნდა შეივსოს მნიშვნელობებით, შემხვედრი შეთავაზებიდან, მხოლოდ, დამატებითი ცვლილებებით, ან მათ გარეშე შენახვა, თავისთავად ეცნობება თითოეულ მონაწილეს">
+<!ENTITY counter.button.original.label                    "პირველადი მონაცემების გამოყენება">
+<!ENTITY counter.button.original.accesskey                "პ">
 <!ENTITY counter.button.original.tooltip2                 "ველებში უნდა მიეთითოს მნიშვნელობები, არსებული ღონისძიებიდან გამომდინარე, სანამ შემხვედრი შემოთავაზება გაკეთდება">
 
 <!-- Main page -->
@@ -375,7 +378,7 @@
 <!ENTITY event.freebusy.zoom                    "მასშტაბი:">
 <!ENTITY event.freebusy.legend.free             "თავისუფალია" >
 <!ENTITY event.freebusy.legend.busy             "დაკავებულია" >
-<!ENTITY event.freebusy.legend.busy_tentative   "სავარაუდო" >
+<!ENTITY event.freebusy.legend.busy_tentative   "დასაზუსტებელია" >
 <!ENTITY event.freebusy.legend.busy_unavailable "ადგილზე არაა" >
 <!ENTITY event.freebusy.legend.unknown          "ინფორმაცია არაა" >
 <!ENTITY event.attendee.role.required           "ძირითადი მონაწილე">
