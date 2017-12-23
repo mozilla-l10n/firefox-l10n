@@ -233,13 +233,13 @@
 <!ENTITY event.attachments.popup.remove.label             "წაშლა" >
 <!ENTITY event.attachments.popup.remove.accesskey         "წ" >
 <!ENTITY event.attachments.popup.open.label               "გახსნა" >
-<!ENTITY event.attachments.popup.open.accesskey           "O" >
-<!ENTITY event.attachments.popup.removeAll.label          "ყველას ამოღება" >
-<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.open.accesskey           "გ" >
+<!ENTITY event.attachments.popup.removeAll.label          "ყველას წაშლა" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "ყ" >
 <!ENTITY event.attachments.popup.attachPage.label         "ვებგვერდის თანდართვა…" >
-<!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
-<!ENTITY event.url.label                                  "დაკავშირებული ბმა:" >
-<!ENTITY event.priority2.label                            "პრიორიტეტი:">
+<!ENTITY event.attachments.popup.attachPage.accesskey     "ვ" >
+<!ENTITY event.url.label                                  "დაკავშირებული ბმული:" >
+<!ENTITY event.priority2.label                            "უპირატესობა:">
 
 <!ENTITY event.reminder.none.label                        "შეხსენების გარეშე " >
 <!ENTITY event.reminder.0minutes.before.label             "0 წუთით ადრე" >
@@ -252,7 +252,7 @@
 <!ENTITY event.reminder.1day.before.label                 "1 დღით ადრე" >
 <!ENTITY event.reminder.2days.before.label                "2 დღით ადრე" >
 <!ENTITY event.reminder.1week.before.label                "1 კვირით ადრე" >
-<!ENTITY event.reminder.custom.label                      "საკუთარი…" >
+<!ENTITY event.reminder.custom.label                      "მითითებული…" >
 
 <!ENTITY event.reminder.multiple.label                    "მრავალჯერადი შეხსენებები…" >
 
