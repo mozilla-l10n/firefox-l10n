@@ -12,9 +12,11 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "Әзірлеуші құралдары жөнінде">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Firefox әзірлеуші құралдарын іске қосу">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
