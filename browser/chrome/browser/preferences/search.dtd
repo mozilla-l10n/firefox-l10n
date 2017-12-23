@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Huutoro palal ñiiɓirɗe ngal ngam yiylaade e feeraade">
 <!ENTITY searchBar.shown.label                 "Ɓeydu palal njiilaw e palal kuutorɗe">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Hollu baggine njiilaw ko adii aslol banngogol e njaltudi palal ñiiɓirde">
+
 <!ENTITY defaultSearchEngine.label             "Yiylorde Woowaande">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Suɓo yiylorde woowaande ngam huutoraade e palal ñiiɓirɗe e yiylorde.">
