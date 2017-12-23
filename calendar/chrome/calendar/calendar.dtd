@@ -7,10 +7,10 @@
 <!ENTITY calendar.calendar.accesskey "C">
 
 <!ENTITY calendar.newevent.button.tooltip         "ახალი ღონისძიების შექმნა" >
-<!ENTITY calendar.newtask.button.tooltip          "ახალი ამოცანის შექმნა" >
+<!ENTITY calendar.newtask.button.tooltip          "ახალი დავალების შექმნა" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "ამოცანები" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "დასრულებული ამოცანების ჩვენება">
+<!ENTITY calendar.unifinder.todoitems.label       "დავალებები" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "დასრულებული დავალების ჩვენება">
 
 <!ENTITY calendar.today.button.label          "დღეს">
 <!ENTITY calendar.tomorrow.button.label       "ხვალ">
@@ -96,9 +96,9 @@
 <!ENTITY calendar.multiweek.button.label        "მრავალი კვირა" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "მხოლოდ სამუშაო დღეები" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
-<!ENTITY calendar.displaytodos.checkbox.label   "ნაჩვენები ამოცანები" >
+<!ENTITY calendar.displaytodos.checkbox.label   "ნაჩვენები დავალების" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
-<!ENTITY calendar.completedtasks.checkbox.label     "დასრულებული ამოცანების ჩვენება" >
+<!ENTITY calendar.completedtasks.checkbox.label     "დასრულებული დავალებების ჩვენება" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
 <!ENTITY calendar.orientation.label "ხედის დატრიალება" >
@@ -115,13 +115,13 @@
 <!ENTITY calendar.task.filter.today.accesskey       "T">
 <!ENTITY calendar.task.filter.next7days.label       "შემდეგი შვიდი დღე">
 <!ENTITY calendar.task.filter.next7days.accesskey   "N">
-<!ENTITY calendar.task.filter.notstarted.label      "დასაწყები ამოცანები">
+<!ENTITY calendar.task.filter.notstarted.label      "დასაწყები დავალებები">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
-<!ENTITY calendar.task.filter.overdue.label         "გადავადებული ამოცანები">
+<!ENTITY calendar.task.filter.overdue.label         "გადავადებული დავალებები">
 <!ENTITY calendar.task.filter.overdue.accesskey     "O">
-<!ENTITY calendar.task.filter.completed.label       "დასრულებული ამოცანები">
+<!ENTITY calendar.task.filter.completed.label       "დასრულებული დავალებები">
 <!ENTITY calendar.task.filter.completed.accesskey   "C">
-<!ENTITY calendar.task.filter.open.label            "დაუსრულებელი ამოცანები">
+<!ENTITY calendar.task.filter.open.label            "დაუსრულებელი დავალებები">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
@@ -145,18 +145,18 @@
 <!ENTITY calendar.task-details.start.label           "დაწყება">
 <!ENTITY calendar.task-details.due.label             "ვადა">
 
-<!ENTITY calendar.task.category.button.tooltip  "ამოცანათა კატეგორიები">
-<!ENTITY calendar.task.complete.button.tooltip  "შერჩეულ ამოცანათა დასრულებულად მონიშვნა">
+<!ENTITY calendar.task.category.button.tooltip  "დავალებების კატეგორიები">
+<!ENTITY calendar.task.complete.button.tooltip  "შერჩეული დავალებების დასრულებულად მონიშვნა">
 <!ENTITY calendar.task.priority.button.tooltip  "პრიორიტეტის შეცვლა">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "გაფილტვრის ამოცანები #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "დავალებების #1 ფილტრი">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "გახსნა">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
-<!ENTITY calendar.context.modifyorviewtask.label      "ამოცანის გახსნა…">
+<!ENTITY calendar.context.modifyorviewtask.label      "დავალების გახსნა…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
 <!ENTITY calendar.context.newevent.label              "ახალი ღონისძიება…">
 <!ENTITY calendar.context.newevent.accesskey          "ხ">
@@ -184,7 +184,7 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "პრიორიტეტი">
 <!ENTITY calendar.context.priority.accesskey          "r">
-<!ENTITY calendar.context.postpone.label              "გადადებული ამოცანები">
+<!ENTITY calendar.context.postpone.label              "გადადებული დავალებები">
 <!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
@@ -282,7 +282,7 @@
 <!ENTITY calendar.tasks.view.calendarlist.label        "კალენდართა სია">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
 
-<!ENTITY calendar.tasks.view.filtertasks.label           "გაფილტვრის ამოცანები">
+<!ENTITY calendar.tasks.view.filtertasks.label           "დავალებების გაფილტვრა">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
 
 <!-- Calendar Alarm Dialog -->
@@ -351,15 +351,15 @@
 <!ENTITY calendar.print.range.label "ამოსაბეჭდი მასალა">
 <!ENTITY calendar.print.currentView2.label "მიმდინარე მოვლენები">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "მითითებული ღონისძიებები/დავალებები">
-<!ENTITY calendar.print.tasks.label "ამოცანები">
+<!ENTITY calendar.print.tasks.label "დავალებები">
 <!ENTITY calendar.print.events.label "ღონისძიებები">
 <!ENTITY calendar.print.custom.label "მონაცემთა საკუთარი რანგი:">
 <!ENTITY calendar.print.from.label "დაწყ.:">
 <!ENTITY calendar.print.to.label "-:">
 <!ENTITY calendar.print.settingsGroup.label "ბეჭდვის პარამეტრები">
 <!ENTITY calendar.print.optionsGroup.label "პარამეტრები">
-<!ENTITY calendar.print.taskswithnoduedate.label "უვადო ამოცანები">
-<!ENTITY calendar.print.completedtasks.label "დასრულებული ამოცანები">
+<!ENTITY calendar.print.taskswithnoduedate.label "უვადო დავალებები">
+<!ENTITY calendar.print.completedtasks.label "დასრულებული დავალებები">
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "დეტალები…">
@@ -369,6 +369,6 @@
 
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "ღონისძიების სახით დამატება">
-<!ENTITY calendar.extract.task.button          "ამოცანის სახით დამატება">
+<!ENTITY calendar.extract.task.button          "დავალების სახით დამატება">
 <!ENTITY calendar.extract.event.button.tooltip "კალენდარული მონაცემის ამოღება გზავნილიდან და თქვენს კალენდარში, ღონისძიების სახით, დამატება">
 <!ENTITY calendar.extract.task.button.tooltip  "კალენდარული მონაცემის ამოღება გზავნილიდან და თქვენს კალენდარში, როგორც ამოცანის, დამატება">

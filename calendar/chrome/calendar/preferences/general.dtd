@@ -19,7 +19,7 @@
 
 <!ENTITY pref.defaults.label "ახალი ელემენტების ნაგულისხმევი მნიშვნელობები">
 <!ENTITY pref.events.label "ღონისძიებები">
-<!ENTITY pref.tasks.label "ამოცანები">
+<!ENTITY pref.tasks.label "დავალებები">
 
 <!ENTITY pref.default_event_length.label "ნაგულისხმევი ხანგრძლივობა:" >
 <!ENTITY pref.default_event_length.accesskey "ძ">
