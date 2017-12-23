@@ -149,3 +149,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceFormat "రూపం">
 <!ENTITY aboutSupport.mediaDeviceChannels "వాహికలు">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latency">
+
+<!ENTITY aboutSupport.intlAppTitle "అనువర్తన అమరికలు">
+<!ENTITY aboutSupport.intlOSTitle "నిర్వాహక వ్యవస్థ">
+<!ENTITY aboutSupport.intlRegionalPrefs "ప్రాంతీయ అభిరుచులు">
