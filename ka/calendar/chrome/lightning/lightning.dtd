@@ -13,7 +13,7 @@
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "ღონისძიება…">
 <!ENTITY lightning.menupopup.new.event.accesskey "ღ">
-<!ENTITY lightning.menupopup.new.task.label     "ამოცანა…">
+<!ENTITY lightning.menupopup.new.task.label     "დავალება…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "კალენდარი…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
@@ -29,7 +29,7 @@
 <!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "კალენდარი">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
-<!ENTITY lightning.menu.view.tasks.label               "ამოცანები">
+<!ENTITY lightning.menu.view.tasks.label               "დავალებები">
 <!ENTITY lightning.menu.view.tasks.accesskey           "k">
 
 <!-- Events and Tasks menu -->
@@ -69,6 +69,7 @@
 <!ENTITY lightning.imipbar.btnTentative.label                               "სავარაუდოდ">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "მოწვევაზე სავარაუდო თანხმობის განცხადება">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "ყველასთვის სავარაუდო">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "მოწვევაზე სავარაუდო თანხმობა, ჩატარების თითოეული თარიღისთვის">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "განახლება">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "ღონისძიების განახლება კალენდარზე">
 <!ENTITY lightning.imipbar.description                                      "გზავნილი შეიცავს ღონისძიებაზე მოწვევას.">

@@ -37,7 +37,7 @@
 <!ENTITY showUnifinderCmd.accesskey             "F">
 <!ENTITY showUnifinderCmd.tooltip               "ღონისძიების საძიებო არის გახსნა/დახურვა">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "ამოცანების კალენდარში ჩვენება">
+<!ENTITY calendar.displaytodos.checkbox.label       "დავალებების კალენდარში ჩვენება">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
 
 <!ENTITY goTodayCmd.label                       "დღეს">
