@@ -40,12 +40,18 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Periksa, edit dan nyahpepijat HTML, CSS dan JavaScript dengan alatan seperti Pemeriksa dan Penyahpepijat.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Sempurnakan HTML, CSS dan JavaScript laman web anda dengan alatan seperti Pemeriksa dan Penyahpepijat.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Alatan Pembangun Firefox dinyahdayakan secara piawai untuk memberikan anda lebih banyak kawalan ke atas pelayar anda.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
