@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Використовувати панель адреси для пошуку та навігації">
 <!ENTITY searchBar.shown.label                 "Додати панель пошуку на панель інструментів">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Показувати пошукові пропозиції перед історією перегляду в результатах панелі адреси">
+
 <!ENTITY defaultSearchEngine.label             "Типовий засіб пошуку">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Оберіть типовий пошуковий засіб для використання в панелях адреси і пошуку.">
