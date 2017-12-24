@@ -160,9 +160,9 @@
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "ხ">
 <!ENTITY calendar.context.newevent.label              "ახალი ღონისძიება…">
 <!ENTITY calendar.context.newevent.accesskey          "ხ">
-<!ENTITY calendar.context.newtodo.label               "ახალი ამოცანა">
+<!ENTITY calendar.context.newtodo.label               "ახალი დავალება…">
 <!ENTITY calendar.context.newtodo.accesskey           "k">
-<!ENTITY calendar.context.deletetask.label            "ამოცანის წაშლა">
+<!ENTITY calendar.context.deletetask.label            "დავალების წაშლა">
 <!ENTITY calendar.context.deletetask.accesskey        "ლ">
 <!ENTITY calendar.context.deleteevent.label           "ღონისძიების წაშლა">
 <!ENTITY calendar.context.deleteevent.accesskey       "წ">
@@ -273,7 +273,7 @@
 <!ENTITY calendar.context.convertmenu.event.accesskey    "ღ">
 <!ENTITY calendar.context.convertmenu.message.label      "გზავნილი…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">
-<!ENTITY calendar.context.convertmenu.task.label         "ამოცანა…">
+<!ENTITY calendar.context.convertmenu.task.label         "დავალება…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "ც">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "მცირე კალენდარი">
