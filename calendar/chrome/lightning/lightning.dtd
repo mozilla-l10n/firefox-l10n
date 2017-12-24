@@ -16,19 +16,19 @@
 <!ENTITY lightning.menupopup.new.task.label     "დავალება…">
 <!ENTITY lightning.menupopup.new.task.accesskey "დ">
 <!ENTITY lightning.menupopup.new.calendar.label "კალენდარი…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "კ">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "გახსნა">
-<!ENTITY lightning.menupopup.open.accesskey           "O">
+<!ENTITY lightning.menupopup.open.accesskey           "გ">
 <!ENTITY lightning.menupopup.open.message.label       "შენახული გზავნილი…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "M">
+<!ENTITY lightning.menupopup.open.message.accesskey   "გ">
 <!ENTITY lightning.menupopup.open.calendar.label      "კალენდრის ფაილი…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "ლ">
 
 <!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "კალენდარი">
-<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.calendar.accesskey        "ნ">
 <!ENTITY lightning.menu.view.tasks.label               "დავალებები">
 <!ENTITY lightning.menu.view.tasks.accesskey           "ბ">
 
@@ -43,14 +43,18 @@
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "ელფოსტა:">
 
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "უპირატესია, მომხმარებლის ელფოსტის დაგეგმვა">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "ამიერიდან, ჩართვა შეგიძლიათ, მხოლოდ კალენდრის გამართვის შემდეგ, პარამეტრების გამოსულ ფანჯარაში, თუ სერვერს ექნება დაგეგმვის შესაძლებლობა.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "ეს პარამეტრი ხელმისაწვდომია მხოლოდ მაშინ, როცა სერვერს აქვს დაგეგმვის შესაძლებლობა. ჩართვის შედეგად, დაბრუნდება ჩვეულებრივი ელფოსტის დაგეგმვაზე, ამ შესაძლებლობის, სერვერისთვის დატოვების ნაცვლად.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "მიღება">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "ღონისძიებაზე მოწვევის მიღება">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "ყველას მიღება">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "მოწვევაზე თანხმობა, ღონისძიების ჩატარების ყველა თარიღისთვის">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "დამატება">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "ღონისძიების დამატება კალენდარზე">
@@ -63,6 +67,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "კალენდრიდან წაშლა">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "ვრცლად…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "ღონისძიების მონაცემების ნახვა">
+<!ENTITY lightning.imipbar.btnMore.label                                    "სხვა">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "დააწკაპეთ, დამატებითი პარამეტრების სანახავად">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "ხელახლა დადასტურება">
 <!ENTITY lightning.imipbar.btnReschedule.label                              "გადავადება">
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "ღონისძიების გადავადება">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "ღონისძიების კალენდარზე დატანა, ხელმძღვანელისადმი პასუხის მიუხედავად. მონაწილეების სია წაიშლება.">
