@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Shtesa">
 <!ENTITY addons.accesskey "S">
+<!ENTITY addonPrefs.label "Mundësi Shtese">
+<!ENTITY addonPrefs.accesskey "M">
+<!ENTITY addonPrefsUnix.label "Parapëlqime Për Shtesën">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "S&apos;u gjetën rregullime shtese.">
 <!ENTITY activitymanager.label "Përgjegjës Veprimtarie">
 <!ENTITY activitymanager.accesskey "P">
 <!ENTITY imAccountsStatus.label "Gjendje fjalosjeje">
