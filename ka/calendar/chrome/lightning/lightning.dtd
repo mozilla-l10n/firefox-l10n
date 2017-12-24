@@ -70,8 +70,10 @@
 <!ENTITY lightning.imipbar.btnMore.label                                    "სხვა">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "დააწკაპეთ, დამატებითი პარამეტრების სანახავად">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "ხელახლა დადასტურება">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "დასტური ხელახლა გაეგზავნება ხელმძღვანელს">
 <!ENTITY lightning.imipbar.btnReschedule.label                              "გადავადება">
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "ღონისძიების გადავადება">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "კალენდარზე დატანა">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "ღონისძიების კალენდარზე დატანა, ხელმძღვანელისადმი პასუხის მიუხედავად. მონაწილეების სია წაიშლება.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "სავარაუდოდ">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "მოწვევაზე სავარაუდო თანხმობის განცხადება">
@@ -91,12 +93,12 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "ახალი კალენდრის შექმნა">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "თვის მოკლე ჩვენება">
-<!ENTITY todaypane.showMinimonth.accesskey "M">
-<!ENTITY todaypane.showMiniday.label "დღის მოკლე ჩვენება">
-<!ENTITY todaypane.showMiniday.accesskey  "d">
+<!ENTITY todaypane.showMinimonth.label "მცირე კალენდრის ჩვენება">
+<!ENTITY todaypane.showMinimonth.accesskey "მ">
+<!ENTITY todaypane.showMiniday.label "კედლის კალენდრის ჩვენება">
+<!ENTITY todaypane.showMiniday.accesskey  "კ">
 <!ENTITY todaypane.showNone.label "ჩვენების გარეშე">
-<!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "დღის პანელის ჩვენება">
-<!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.showNone.accesskey "შ">
+<!ENTITY todaypane.showTodayPane.label "დღის ღონისძიებები">
+<!ENTITY todaypane.showTodayPane.accesskey "დ">
 <!ENTITY todaypane.statusButton.label "დღევანდელი დღე">
