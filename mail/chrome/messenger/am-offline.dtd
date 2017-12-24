@@ -7,6 +7,8 @@
 <!ENTITY doNotDownloadImap.label "Да би се уштедео простор на диску, можете ограничити преузимање порука са сервера и чување локалних копија за употребу ван мреже по старости или величини.">
 <!ENTITY allFoldersOffline.label "Чувај поруке овог налога на овај рачунар">
 <!ENTITY allFoldersOffline.accesskey "о">
+<!ENTITY allFoldersOffline2.label "Задржи поруке у свим фасциклама овог налога на овом рачунару.">
+<!ENTITY allFoldersOffline2.accesskey "д">
 <!ENTITY offlineNotDownload.label "Поруке веће од">
 <!ENTITY offlineNotDownload.accesskey "П">
 <!ENTITY autosyncNotDownload.label "Не преузимај поруке веће од">
