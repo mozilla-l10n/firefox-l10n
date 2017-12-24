@@ -31,6 +31,8 @@ sentence. -->
 <!ENTITY  completeNotification.label          "жіберуші аты мен хабарламаның алдын-ала көрінісімен қоса">
 <!ENTITY  buddyInfoOnly.label                 "тек жіберуші атымен">
 <!ENTITY  dummyNotification.label             "ешбір ақпаратсыз">
+<!ENTITY  getAttention.label                  "Құралдар панелі элементін жыпылықтау">
+<!ENTITY  getAttention.accesskey              "ы">
 <!ENTITY  chatSound.accesskey                 "Д">
 <!ENTITY  chatSound.label                     "Дыбысты ойнату">
 <!ENTITY  play.label                          "Ойнау">
