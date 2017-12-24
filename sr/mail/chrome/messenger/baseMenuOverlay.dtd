@@ -21,8 +21,12 @@
 <!ENTITY openHelp.accesskey "С">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Помоћ за &brandShortName;">
+<!ENTITY openHelpMac2.label "&brandFullName; помоћ">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "О програму &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "О">
+
+<!ENTITY aboutMenuCmd2.label "О &brandFullName;-у">
+<!ENTITY aboutMenuCmd2.accesskey "О">

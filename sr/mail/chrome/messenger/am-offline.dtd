@@ -9,6 +9,7 @@
 <!ENTITY allFoldersOffline.accesskey "о">
 <!ENTITY allFoldersOffline2.label "Задржи поруке у свим фасциклама овог налога на овом рачунару.">
 <!ENTITY allFoldersOffline2.accesskey "д">
+<!ENTITY allFoldersOfflineNote.label "Напомена: промена овога утиче на све фасцикле овог налога. Да бисте подесили фасцикле засебно, користите дугме „Напредно…“.">
 <!ENTITY offlineNotDownload.label "Поруке веће од">
 <!ENTITY offlineNotDownload.accesskey "П">
 <!ENTITY autosyncNotDownload.label "Не преузимај поруке веће од">
