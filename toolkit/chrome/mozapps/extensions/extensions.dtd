@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Қосымшалар басқарушысы">
 
 <!ENTITY search.placeholder                   "Қосымшаларды іздеу">
+
+<!ENTITY search.placeholder2                  "addons.mozilla.org-ға іздеу">
 <!ENTITY search.buttonlabel                   "Іздеу">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Бір параққа қайту">
 <!ENTITY cmd.forward.tooltip                  "Бір параққа алға бару">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Кейбір кеңейтулерді растау мүмкін емес">
 <!ENTITY showAllExtensions.button.label       "Барлық кеңейтулерді көрсету">
