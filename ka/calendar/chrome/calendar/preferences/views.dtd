@@ -13,21 +13,23 @@
 <!ENTITY pref.calendar.view.workweek.caption "სამუშაო კვირა">
 
 <!ENTITY pref.weekstarts.label "კვირის დაწყება:">
-<!ENTITY pref.weekstarts.accesskey "r">
+<!ENTITY pref.weekstarts.accesskey "კ">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "კვირების გადანომვრა, სხვადასხვა ხედსა და მცირე კალენდარზე">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "ნ">
 <!ENTITY pref.daysoff.label "სამუშაო კვირის დღეები:">
 
-<!ENTITY pref.calendar.view.daystart.label "დღის დაწყება:">
-<!ENTITY pref.calendar.view.daystart.accesskey "D">
-<!ENTITY pref.calendar.view.dayend.label "დღის დასრულება:">
-<!ENTITY pref.calendar.view.dayend.accesskey "y">
+<!ENTITY pref.calendar.view.daystart.label "დღის დასაწყისი:">
+<!ENTITY pref.calendar.view.daystart.accesskey "წ">
+<!ENTITY pref.calendar.view.dayend.label "დღის დასასრული:">
+<!ENTITY pref.calendar.view.dayend.accesskey "უ">
 <!ENTITY pref.calendar.view.visiblehours.label "ჩვენება:">
-<!ENTITY pref.calendar.view.visiblehours.accesskey "o">
-<!ENTITY pref.calendar.view.visiblehoursend.label "საათ(ებ)ი გვერდზე">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "ვ">
+<!ENTITY pref.calendar.view.visiblehoursend.label "საათ(ებ)ი ამავდროულად">
 
-<!ENTITY pref.numberofweeks.label "კვირების რაოდენობა ჩვენებისას (წინა კვირების ჩათვლით):">
-<!ENTITY pref.numberofweeks.accesskey "e">
-<!ENTITY pref.numberofpreviousweeks.label "წინა კვირების რაოდენობა:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "P">
+<!ENTITY pref.numberofweeks.label "საჩვენებელი კვირების რაოდენობის (წინა კვირების ჩათვლით):">
+<!ENTITY pref.numberofweeks.accesskey "ს">
+<!ENTITY pref.numberofpreviousweeks.label "წინა საჩვენებელი კვირების რაოდენობა:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "წ">
 <!ENTITY pref.numberofweeks.0 "არა">
 <!ENTITY pref.numberofweeks.1 "1 კვირა">
 <!ENTITY pref.numberofweeks.2 "2 კვირა">
