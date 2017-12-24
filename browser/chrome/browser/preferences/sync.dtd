@@ -30,7 +30,7 @@
 <!ENTITY engine.addresses.title     "您已保存的邮政地址（仅限桌面版）">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "信用卡">
-<!ENTITY engine.creditcards.title   "姓名、号码和过期日（仅限桌面版）">
+<!ENTITY engine.creditcards.title   "姓名、号码、有效期限（仅限桌面版）">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
