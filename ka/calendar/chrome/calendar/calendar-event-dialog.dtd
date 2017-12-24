@@ -126,7 +126,7 @@
 <!ENTITY  event.menu.options.accesskey                        "ტ">
 <!ENTITY  event.menu.options.attendees.label                  "მონაწილეების მოწვევა…">
 <!ENTITY  event.menu.options.attendees.accesskey              "მ">
-<!ENTITY  event.menu.options.timezone2.label                  "დროის სარტყელები">
+<!ENTITY  event.menu.options.timezone2.label                  "დროის სარტყლები">
 <!ENTITY  event.menu.options.timezone2.accesskey              "ყ">
 <!ENTITY  event.menu.options.priority2.label                  "უპირატესობა">
 <!ENTITY  event.menu.options.priority2.accesskey              "უ">
@@ -393,7 +393,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "გთხოვთ, მიუთითოთ დროის სარტყელი">
-<!ENTITY event.timezone.custom.label     "დროის სხვა სარტყელები…">
+<!ENTITY event.timezone.custom.label     "დროის სხვა სარტყლები…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "ზოგადი">
