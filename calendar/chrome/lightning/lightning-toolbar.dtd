@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY lightning.toolbar.calendar.name "კალენდრის პულტი">
+<!ENTITY lightning.toolbar.calendar.name "კალენდრის სამართავი ზოლი">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "C">
-<!ENTITY lightning.toolbar.task.name "ამოცანათა პულტი">
+<!ENTITY lightning.toolbar.task.name "დავალებების სამართავი ზოლი">
 <!ENTITY lightning.toolbar.task.name.accesskey "ა">
 
 <!ENTITY lightning.toolbar.sync.label "სინქრონიზაცია">

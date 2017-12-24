@@ -115,7 +115,7 @@
 <!ENTITY  event.menu.view.accesskey                       "ხ">
 <!ENTITY  event.menu.view.toolbars.label                  "ხელსაწყოთა ზოლები">
 <!ENTITY  event.menu.view.toolbars.accesskey              "ზ">
-<!ENTITY  event.menu.view.toolbars.event.label            "ღონისძიებების სამართავი">
+<!ENTITY  event.menu.view.toolbars.event.label            "ღონისძიებების სამართავი ზოლი">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "ძ">
 <!ENTITY  event.menu.view.toolbars.customize.label        "მორგება…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "გ">
