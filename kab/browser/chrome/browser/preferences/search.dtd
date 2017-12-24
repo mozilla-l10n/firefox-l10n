@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Seqdec afeggag n tansa akken ad tnadiḍ wa ad tinigeḍ">
 <!ENTITY searchBar.shown.label                 "Rnu afeggag n unadi deg ufeggag n ifecka">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Sken-d asumer n unadi uqbel amazray n tunigin deg ugemmuḍ deg ufeggag n tansa">
+
 <!ENTITY defaultSearchEngine.label             "Amsedday n unadi amezwer">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Fren amsedday n unadi amezwer ad tesqedceḍ deg ufeggag n tansa akked deg ufeggag n unadi.">

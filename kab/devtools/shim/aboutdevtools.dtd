@@ -25,6 +25,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Sekyed sakin ẓreg HTML akked CSS s umaswaḍ n ifecka n tneflit.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
