@@ -14,6 +14,8 @@
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
+<!ENTITY account.autoSignOn.label     "შესვლა ჩართვისას">
+<!ENTITY account.autoSignOn.accesskey "ჩ">
 <!ENTITY account.connect.label        "დაკავშირება">
 <!ENTITY account.disconnect.label     "კავშირის შეწყვეტა">
 <!ENTITY account.delete.label         "წაშლა">
