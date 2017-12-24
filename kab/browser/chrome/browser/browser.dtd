@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Tesweḥleḍ asfaylu udhim i usmel-agi.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
 
 <!ENTITY searchItem.title             "Nadi">
