@@ -59,7 +59,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Iminig-inek ittuswel akken ad iseqdec aqeddac apṛuksi, acukan apṛksi ulac-it.</p><ul><li>Tawila n uminig-inek d tameɣtut? Senqed iɣewwaṛen sakin ɛreḍ tikelt nniḍen.</li><li>Aselkim-inek iqqen ɣer uẓeṭṭa urmid?</li><li>Zgan ɣur-k wuguren? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik n Internet i tallalt.</li></ul>">
 
 <!ENTITY redirectLoop.title "Asebter-agi ur iweha ara akken iwata">
-<!ENTITY redirectLoop.longDesc "<p>Iminig-inek yerken araǧu n tririt n usmel. Asmel yerna awehi akken tuttra weṛǧin ad taweḍ.</p><ul><li>Ahat treremdeḍ neɣ tesweḥleḍ inagan n tuqqna isran ɣef usmel-agi?</li><li><em>AWENNIT</em>: Ma yella ugur ur yefri ara ticki tremdeḍ inagan n tuqqna, ahat ugur atan di twila n uqeddac mačči deg uselkim-inek.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Iminig-inek yerken araǧu n tririt n usmel. Asmel yerna awehi akken tuttra weṛǧin ad taweḍ.</p><ul><li>Ahat tsenseḍ neɣ tesweḥleḍ inagan n tuqqna ilaqen ɣef usmel-agi?</li><li><em>AWENNIT</em>: Ma yella ugur ur yefri ara ticki tremdeḍ inagan n tuqqna, ahat ugur atan di twila n uqeddac mačči deg uselkim-inek.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Tiririt n uqeddac mačči tameɣtut">
 <!ENTITY unknownSocketType.longDesc "<p>Asmel yerr-ad tiririt ur nettwaṛǧi ara i weẓeṭṭa, iminig ur yezmir ara ad yeddu.</p> ">

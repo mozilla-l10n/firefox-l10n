@@ -24,12 +24,12 @@
 <!ENTITY stats.framesPresented "Tugniwin iţusenkden">
 <!ENTITY stats.framesPainted "Tugniwin iţusunɣen">
 
-<!ENTITY error.aborted "Asali n temwalit irken">
-<!ENTITY error.network "Urar n tvidyutt terken acku tella tuccḍa deg uẓeṭṭa.">
+<!ENTITY error.aborted "Asali n tvidyut yeḥbes">
+<!ENTITY error.network "Urar n tvidyutt yeḥbes acku tella tuccḍa deg uẓeṭṭa.">
 <!ENTITY error.decode "Ur tezmireḍ ara ad twaliḍ tavidyutt acku afaylu diri-t.">
 <!ENTITY error.srcNotSupported "Amasal tvidyutt neɣ tawsit MIME ur ţusefraken ara.">
 <!ENTITY error.noSource2 "Ulac tavidyutt yettwafen anda tawsit MIME tettusefrak.">
-<!ENTITY error.generic "Urar n tvidyutt yerken acku tella tuccḍa tarussint.">
+<!ENTITY error.generic "Urar n tvidyutt yeḥbes acku tella tuccḍa tarussint.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

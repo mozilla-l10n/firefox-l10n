@@ -152,6 +152,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Afmiḍi">
 <!ENTITY aboutSupport.mediaDeviceLatency "Akud n ugani">
 
+<!ENTITY aboutSupport.intlTitle "Asegreɣlen &amp; Asideg">
 <!ENTITY aboutSupport.intlAppTitle "Iɣewwaṛen n usnas">
 <!ENTITY aboutSupport.intlLocalesRequested "Tutlayin ittwasutren">
 <!ENTITY aboutSupport.intlLocalesAvailable "Tutlayin yellan">
