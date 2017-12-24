@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "Aby rum na plaśe žarił, dajo se ześěgowanje powěsćow ze serwera a wobchowanje kopijow za wužywanje offline pó starstwje abo wjelikosći wobgranicowaś.">
 <!ENTITY allFoldersOffline.label "Powěsći za toś to konto na toś tom licadle wobchowaś">
 <!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Powěsći we wšych zarědnikach za toś to konto na toś tom licadle wobchowaś.">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Glědajśo: Gaž to změnijośo, se to na wše zarědniki w toś tom konśe wustatkujo. Wužywajśo tłocašk Rozšyrjene…, aby jadnotliwe zarědniki nastajił.">
 <!ENTITY offlineNotDownload.label "Powěsći, kótarež su wětše ako">
 <!ENTITY offlineNotDownload.accesskey "w">
 <!ENTITY autosyncNotDownload.label "Powěsći njeześěgnuś, kótarež su wětše ako">
@@ -37,13 +40,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "R">
 <!ENTITY syncGroupTitle.label "Synchronizěrowanje powěsćow">
 <!ENTITY diskspaceGroupTitle.label "Rum na plaśe">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Wšykne powěsći lokalnje synchronizěrowaś, njeźiwajucy na starstwo">
 <!ENTITY allAutosync.accesskey           "l">
 <!ENTITY ageAutosyncBefore.label         "Nejnowše synchronizěrowaś">
