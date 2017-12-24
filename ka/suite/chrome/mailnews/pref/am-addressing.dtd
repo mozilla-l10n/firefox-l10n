@@ -21,7 +21,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "წერილების შედგენა">
+<!ENTITY compositionGroupTitle.label          "წერილების შედგენა">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "წერილების შედგენა HTML ფორმატში">
 <!ENTITY useHtml.accesskey                    "C">
@@ -42,7 +42,7 @@
 <!ENTITY includeSigOnForward.label            "ხელმოწერის თანდართვა გადაგზავნისას">
 <!ENTITY includeSigOnForward.accesskey        "w">
 
-<!ENTITY globalComposingPrefs.label           "შექმნის გლობალური პარამეტრები…">
+<!ENTITY globalComposingPrefs.label           "შედგენის საერთო პარამეტრები…">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
 <!ENTITY globalAddressingPrefs.label          "დამისამართების გლობალური პარამეტრები…">
