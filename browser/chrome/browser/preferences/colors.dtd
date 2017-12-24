@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  colorsDialog.title              "Cores">
-<!ENTITY  window.width                    "45em">
+<!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "44em">
 
 <!ENTITY  overrideDefaultPageColors2.label       "Sobrepor as cores especificadas pela página com as suas seleções acima">
