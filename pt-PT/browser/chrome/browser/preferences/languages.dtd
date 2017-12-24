@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.width                                   "34em">
+<!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Idiomas">
 <!ENTITY languages.customize2.description               "Por vezes, as páginas web são oferecidas em mais do que um idioma. Escolha idiomas para mostrar estas páginas web, por ordem de preferência">
