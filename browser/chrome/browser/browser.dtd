@@ -236,6 +236,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Вы заблокировали всплывающие окна с этого сайта.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблокировали извлечение данных canvas с этого веб-сайта.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показать историю">
 
 <!ENTITY searchItem.title             "Поиск">
@@ -390,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хотите увидеть здесь ваши вкладки с других устройств?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки синхронизации">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Войдите, чтобы увидеть список вкладок с других устройств.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ваш аккаунт должен быть подтверждён.">
 <!ENTITY appMenuRemoteTabs.signin.label "Войти в Синхронизацию">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление устройствами…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Показать боковую панель облачных вкладок">
@@ -760,6 +763,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Защита сайта">
 
 <!ENTITY identity.connectionSecure "Защищённое соединение">
 <!ENTITY identity.connectionNotSecure "Незащищённое соединение">
@@ -814,6 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Пока здесь нет облачных вкладок!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Хотите увидеть здесь ваши вкладки с других устройств?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Войдите, чтобы увидеть список вкладок с других устройств.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Ваш аккаунт должен быть подтверждён.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Нет открытых вкладок">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Открыть настройки Синхронизации">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -992,7 +997,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "е">
 <!ENTITY updateRestart.panelUI.label2 "Перезапустить &brandShorterName; для обновления">
 
-<!ENTITY newTabControlled.header.message "Ваша Новая вкладка изменилась.">
+<!ENTITY newTabControlled.message "Страница, отображаемая при открытии Новой вкладки, была изменена расширением. Если вы этого не хотите, вы можете восстановить свои настройки.">
+<!ENTITY newTabControlled.header.message "Ваша Новая вкладка была изменена.">
+<!ENTITY newTabControlled.keepButton.label "Сохранить изменение">
+<!ENTITY newTabControlled.keepButton.accesskey "х">
+<!ENTITY newTabControlled.restoreButton.label "Восстановить настройки">
+<!ENTITY newTabControlled.restoreButton.accesskey "н">
 
 <!ENTITY pageActionButton.tooltip "Действия на странице">
 <!ENTITY pageAction.addToUrlbar.label "Добавить на панель адреса">
@@ -1000,6 +1010,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.allowInUrlbar.label "Отображать на панели адреса">
 <!ENTITY pageAction.disallowInUrlbar.label "Не отображать на панели адреса">
+<!ENTITY pageAction.manageExtension.label "Управление расширением…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Отправить вкладку на устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизация устройств…">
