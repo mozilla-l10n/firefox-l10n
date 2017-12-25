@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Gehigarrien kudeatzailea">
 
 <!ENTITY search.placeholder                   "Bilatu gehigarri guztiak">
+
+<!ENTITY search.placeholder2                  "Bilatu addons.mozilla.org gunean">
 <!ENTITY search.buttonlabel                   "Bilaketa">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -26,12 +28,13 @@
 <!ENTITY cmd.back.tooltip                     "Joan orri bat atzera">
 <!ENTITY cmd.forward.tooltip                  "Joan orri bat aurrera">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Zenbait gehigarri ezin izan dira egiaztatu">
 <!ENTITY showAllExtensions.button.label       "Erakutsi gehigarri guztiak">
 <!ENTITY debugAddons.label                    "Araztu gehigarriak">
 <!ENTITY debugAddons.accesskey                "z">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Modu seguruak gehigarri guztiak desgaitu ditu.">
 <!ENTITY warning.checkcompatibility.label          "Gehigarrien bateragarritasuna egiaztatzea desgaituta dago. Gehigarri bateraezinak izan ditzakezu.">
 <!ENTITY warning.checkcompatibility.enable.label   "Gaitu">
@@ -39,14 +42,14 @@
 <!ENTITY warning.updatesecurity.label              "Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.">
 <!ENTITY warning.updatesecurity.enable.label       "Gaitu">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Bilaketa">
 <!ENTITY view.discover.label                  "Eskuratu gehigarriak">
 <!ENTITY view.recentUpdates.label             "Azken eguneraketak">
 <!ENTITY view.availableUpdates.label          "Eguneraketak eskura">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Bilatu eguneraketak">
 <!ENTITY updates.checkForUpdates.accesskey    "B">
 <!ENTITY updates.viewUpdates.label            "Ikusi azken eguneraketak">
@@ -74,8 +77,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Ikusi eskura dauden eguneraketak">
 <!ENTITY updates.updateSelected.label         "Instalatu eguneraketak">
 <!ENTITY updates.updateSelected.tooltip       "Instalatu zerrenda honetan eskura dauden eguneraketak">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Erakutsi informazio gehiago">
 <!ENTITY cmd.showDetails.accesskey            "E">
 <!ENTITY cmd.findUpdates.label                "Bilatu eguneraketak">
@@ -119,15 +122,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Ezkutatu bertsio-oharrak">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ezkutatu eguneraketa honen bertsio-oharrak">
 <!ENTITY cmd.findReplacement.label            "Bilatu ordezkoa">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Zer dira gehigarriak?">
 <!ENTITY discover.description2                "&brandShortName; aparteko funtzionaltasun edo estiloarekin pertsonalizatzeko aplikazioak dira gehigarriak. Proba ezazu denbora aurrezteko alboko barra bat, eguraldiaren jakinarazlea edo &brandShortName;(r)en itxura zeure egiteko itxura bat.">
 <!ENTITY discover.footer                      "Internetera konektatuta zaudenean, panel honetan gehigarri on eta ezagunenetako batzuk agertuko dira proba ditzazun.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Bertsioa">
 <!ENTITY detail.lastupdated.label             "Azken eguneraketa">
 <!ENTITY detail.creator.label                 "Garatzailea">
@@ -156,17 +159,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Hobespenak">
 <!ENTITY detail.showPreferencesUnix.accesskey "H">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Aldatu gehigarri honen hobespenak">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Puntuazioa">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausatu">
 <!ENTITY progress.cancel.tooltip              "Utzi">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Izena">
 <!ENTITY sort.name.tooltip                    "Ordenatu izenez">
 <!ENTITY sort.dateUpdated.label               "Azken eguneratzea">
@@ -223,12 +226,12 @@
 <!ENTITY eula.accept                          "Onartu eta instalatu…">
 
 <!ENTITY settings.path.button.label           "Arakatu…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Zer da hau? Noizean behin esperimentuak instala eta exekuta litzake Telemetry-k.">
 <!ENTITY experiment.info.learnmore "Argibide gehiago">
 <!ENTITY experiment.info.learnmore.accesskey "A">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "Zerbait falta da? &brandShortName;(e)k ez ditu dagoeneko zenbait plugin onartzen.">
 <!ENTITY pluginDeprecation.learnMore "Argibide gehiago.">
 
-<!ENTITY legacyWarning.description "Zerbait falta da? &brandShortName;(e)k ez ditu dagoeneko zenbait hedapen onartzen.">
 <!ENTITY legacyWarning.showLegacy "Erakutsi legatu-hedapenak">
 <!ENTITY legacyExtensions.title "Legatu-hedapenak">
 <!ENTITY legacyExtensions.description "Hedapen hauek ez dira &brandShortName;(r)en gutxieneko kalitatera heltzen eta desaktibatu egin dira.">

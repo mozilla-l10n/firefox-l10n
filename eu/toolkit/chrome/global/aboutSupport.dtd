@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Arazoak konpontzeko informazioa">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Orri honek arazo bat konpontzeko erabilgarria izan daitekeen informazio teknikoa du. &brandShortName;(r)i buruzko ohiko galderen erantzunen bila bazabiltza, bisitatu gure <a id='supportLink'>laguntzaren webgunea</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Hutsegite-txostenak">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Izena">
 <!ENTITY aboutSupport.appBasicsVersion "Bertsioa">
 <!ENTITY aboutSupport.appBasicsBuildID "Eraikitze IDa">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Eguneraketa-kanala">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Eguneraketen historia">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Erakutsi eguneraketen historia">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "SEa">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Memoriaren erabilpena">
 <!ENTITY aboutSupport.appBasicsPerformance "Errendimendua">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Erregistratutako zerbitzu-langileak">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profilak">
@@ -85,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Aldatutako hobespen garrantzitsuak">
 <!ENTITY aboutSupport.modifiedPrefsName "Izena">
 <!ENTITY aboutSupport.modifiedPrefsValue "Balioa">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js hobespenak">
 <!ENTITY aboutSupport.userJSDescription "Zure profil-karpetak <a id='prefs-user-js-link'>user.js fitxategia</a> dauka, zeinak &brandShortName;(e)k sortu ez dituen hobespenak dauzkan.">
 
@@ -151,3 +151,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanalak">
 <!ENTITY aboutSupport.mediaDeviceRate "Emaria">
 <!ENTITY aboutSupport.mediaDeviceLatency "Atzerapena">
+
+<!ENTITY aboutSupport.intlTitle "Internazionalizazioa eta lokalizazioa">
+<!ENTITY aboutSupport.intlAppTitle "Aplikazioaren ezarpenak">
+<!ENTITY aboutSupport.intlLocalesRequested "Eskatutako hizkuntzak">
+<!ENTITY aboutSupport.intlLocalesAvailable "Hizkuntza erabilgarriak">
+<!ENTITY aboutSupport.intlLocalesSupported "Aplikazioaren hizkuntzak">
+<!ENTITY aboutSupport.intlLocalesDefault "Hizkuntza lehenetsia">
+<!ENTITY aboutSupport.intlOSTitle "Sistema eragilea">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Sistemaren hizkuntzak">
