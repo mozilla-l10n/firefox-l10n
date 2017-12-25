@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "För att spara diskutrymme kan hämtningen av meddelanden från servern och bevarandet av lokala kopior för användning nedkopplad begränsas med ålder eller storlek.">
 <!ENTITY allFoldersOffline.label "Behåll det här kontots meddelanden på den här datorn">
 <!ENTITY allFoldersOffline.accesskey "å">
+<!ENTITY allFoldersOffline2.label "Behåll meddelanden i alla mappar för det här kontot på den här datorn.">
+<!ENTITY allFoldersOffline2.accesskey "p">
+<!ENTITY allFoldersOfflineNote.label "Obs: Om du ändrar detta påverkas alla mappar i detta konto. För att ställa in enskilda mappar, använd knappen Avancerat….">
 <!ENTITY offlineNotDownload.label "Meddelanden större än">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Hämta inte meddelanden större än">
