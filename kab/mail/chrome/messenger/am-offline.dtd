@@ -9,6 +9,7 @@
 <!ENTITY allFoldersOffline.accesskey "ḍ">
 <!ENTITY allFoldersOffline2.label "Eǧǧ iznan deg akk ikaramen i umiḍan agi ɣef uselkim agi.">
 <!ENTITY allFoldersOffline2.accesskey "ḍ">
+<!ENTITY allFoldersOfflineNote.label "Alɣu: Abeddel agi ad iḥaz akk ikaramen deg umiḍan agi. I usbadu n ikaramen n yal yiwen, seqdec taqeffalt... n ileqqayen.">
 <!ENTITY offlineNotDownload.label "Iznan meqqren ɣef">
 <!ENTITY offlineNotDownload.accesskey "z">
 <!ENTITY autosyncNotDownload.label "Ur d-sidir ara iznan yugaren">
