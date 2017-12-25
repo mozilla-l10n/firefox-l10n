@@ -70,14 +70,14 @@
 
 <!ENTITY url_bar_default_text2 "მოძებნეთ ან შეიყვანეთ მისამართი">
 
-<!ENTITY bookmark "სანიშნი">
+<!ENTITY bookmark "ჩანიშვნა">
 <!ENTITY bookmark_remove "სანიშნის ამოღება">
-<!ENTITY bookmark_added "სანიშნი დამატებულია">
+<!ENTITY bookmark_added "ჩანიშნულია">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "უკვე ჩანიშნულია">
-<!ENTITY bookmark_removed "სანიშნი ამოღებულია">
+<!ENTITY bookmark_removed "ბმულის ჩანიშვნა">
 <!ENTITY bookmark_updated "სანიშნი განახლებულია">
 <!ENTITY bookmark_options "პარამეტრები">
 <!ENTITY bookmark_save "შენახვა">
@@ -188,7 +188,7 @@
 <!ENTITY pref_category_vendor_summary2 "&brandShortName;-ის შესახებ, ხ.დ.კ. უკუკავშირი">
 <!ENTITY pref_category_datareporting "მონაცემთა შერჩევა">
 <!ENTITY pref_category_logins "შესვლები">
-<!ENTITY pref_learn_more "შეიტყვეთ მეტი">
+<!ENTITY pref_learn_more "იხილეთ ვრცლად">
 <!ENTITY pref_category_installed_search_engines "დაყენებული საძიებო სისტემები">
 <!ENTITY pref_category_add_search_providers "მეტი საძიებო სისტემის დამატება">
 <!ENTITY pref_category_search_restore_defaults "საძიებო სისტემების აღდგენა">
@@ -837,7 +837,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topsites "რჩეული საიტები">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket;-ის მიერ შემოთავაზებული">
-<!ENTITY activity_stream_highlights "შესამჩნევები">
+<!ENTITY activity_stream_highlights "მნიშვნელოვანი საიტები">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 <!ENTITY activity_stream_link_more1 "მეტი">
@@ -861,7 +861,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "პირადი თვალიერება + თვალთვალისგან დაცვა">
 <!ENTITY private_tab_panel_description "&brandShortName; ზღუდავს გვერდის იმ ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს.">
-<!ENTITY private_tab_panel_description2 "ჩვენ არ დავიმახსოვრებთ ისტორიას, მაგრამ ჩამოტვირთული ფაილები და ახალი სანიშნეები მაინც შეინახება თქვენს მოწყობილობაში.">
+<!ENTITY private_tab_panel_description2 "არანაირი ისტორია არ შეინახება, თუმცა, თქვენ მიერ ჩანიშნული გვერდები და ჩამოტვირთული ფაილები შენარჩუნდება.">
 <!ENTITY private_tab_learn_more "გსურთ შეიტყოთ მეტი?">
 
 <!ENTITY fullscreen_warning "სრულ ეკრანზე გაშლა">
