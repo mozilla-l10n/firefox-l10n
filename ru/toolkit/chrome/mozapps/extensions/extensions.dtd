@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Управление дополнениями">
 
 <!ENTITY search.placeholder                   "Поиск среди дополнений">
+
+<!ENTITY search.placeholder2                  "Поиск на addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Поиск">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "На предыдущую страницу">
 <!ENTITY cmd.forward.tooltip                  "На следующую страницу">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Некоторые расширения не могут быть проверены">
 <!ENTITY showAllExtensions.button.label       "Показать все расширения">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "Что-то отсутствует? &brandShortName; больше не поддерживает некоторые плагины.">
 <!ENTITY pluginDeprecation.learnMore "Подробнее.">
 
-<!ENTITY legacyWarning.description "Что-то отсутствует? &brandShortName; больше не поддерживает некоторые расширения.">
 <!ENTITY legacyWarning.showLegacy "Показать устаревшие расширения">
 <!ENTITY legacyExtensions.title "Устаревшие расширения">
 <!ENTITY legacyExtensions.description "Эти расширения не соответствуют текущим стандартам &brandShortName;, поэтому они были отключены.">
