@@ -7,6 +7,7 @@
 <!ENTITY engine.bookmarks.label     "Bokmerker">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label2         "Åpne faner">
+<!ENTITY engine.tabs.title          "En liste over hva som er åpent på alle synkroniserte enheter">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Historikk">
 <!ENTITY engine.history.accesskey   "s">
