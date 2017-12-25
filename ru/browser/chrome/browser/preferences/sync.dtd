@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Закладки">
 <!ENTITY engine.bookmarks.accesskey "к">
 <!ENTITY engine.tabs.label2         "Открытые вкладки">
+<!ENTITY engine.tabs.title          "Список того, что открыто на всех синхронизированных устройствах">
 <!ENTITY engine.tabs.accesskey      "л">
 <!ENTITY engine.history.label       "Историю">
 <!ENTITY engine.history.accesskey   "т">
 <!ENTITY engine.logins.label        "Логины">
+<!ENTITY engine.logins.title        "Сохранённые имена пользователей и пароли">
 <!ENTITY engine.logins.accesskey    "ы">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Настройки">
+<!ENTITY engine.prefsWin.accesskey  "й">
 <!ENTITY engine.prefs.label         "Настройки">
 <!ENTITY engine.prefs.accesskey     "й">
+<!ENTITY engine.prefs.title         "Изменённые вами настройки: Общие, Приватность и Защита">
 <!ENTITY engine.addons.label        "Дополнения">
+<!ENTITY engine.addons.title        "Расширения и темы для Firefox на компьютере">
 <!ENTITY engine.addons.accesskey    "п">
 <!ENTITY engine.addresses.label     "Адреса">
+<!ENTITY engine.addresses.title     "Сохранённые вами почтовые адреса (только для компьютера)">
 <!ENTITY engine.addresses.accesskey "с">
 <!ENTITY engine.creditcards.label   "Банковские карты">
+<!ENTITY engine.creditcards.title   "Имена, номера и сроки действия (только для компьютера)">
 <!ENTITY engine.creditcards.accesskey "н">
 
 <!-- Device Settings -->
