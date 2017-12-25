@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "کانال‌ها">
 <!ENTITY aboutSupport.mediaDeviceRate "ارزیابی">
 <!ENTITY aboutSupport.mediaDeviceLatency "تاخیر">
+
+<!ENTITY aboutSupport.intlTitle "بین المللی سازی&amp; محلی سازی">
+<!ENTITY aboutSupport.intlAppTitle "تنظیمات برنامه">
+<!ENTITY aboutSupport.intlLocalesRequested "مکان‌های درخواست شده">
+<!ENTITY aboutSupport.intlLocalesAvailable "مکان‌های در دسترس">
+<!ENTITY aboutSupport.intlLocalesSupported "برنامه های محلی">
+<!ENTITY aboutSupport.intlLocalesDefault "مکان‌های پیش فرض">
+<!ENTITY aboutSupport.intlOSTitle "سیستم عامل">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "سیستم‌های محلی">
+<!ENTITY aboutSupport.intlRegionalPrefs "ترجیحات منطقه‌ای">
