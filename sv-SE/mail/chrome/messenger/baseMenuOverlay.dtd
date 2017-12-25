@@ -7,8 +7,8 @@
 <!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Hjälp">
-<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY helpMenuWin.label "Hjälp">
+<!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY helpTroubleshootingInfo.label     "Felsökningsinformation">
 <!ENTITY helpTroubleshootingInfo.accesskey "F">
 <!ENTITY helpSafeMode.label     "Starta om utan tillägg…">
@@ -21,8 +21,12 @@
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; Hjälp">
+<!ENTITY openHelpMac2.label "&brandFullName; Hjälp">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Om &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "O">
+
+<!ENTITY aboutMenuCmd2.label "Om &brandFullName;">
+<!ENTITY aboutMenuCmd2.accesskey "O">

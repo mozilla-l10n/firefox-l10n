@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "För att spara diskutrymme kan hämtning av meddelanden från servern och sparande av lokala kopior för nedkopplad användning begränsas efter ålder eller storlek.">
 <!ENTITY allFoldersOffline.label "Behåll det här kontots meddelanden på den här datorn">
 <!ENTITY allFoldersOffline.accesskey "B">
+<!ENTITY allFoldersOffline2.label "Behåll meddelanden i alla mappar för det här kontot på den här datorn.">
+<!ENTITY allFoldersOffline2.accesskey "B">
+<!ENTITY allFoldersOfflineNote.label "Obs: Om du ändrar detta påverkas alla mappar i detta konto. För att ställa in enskilda mappar, använd knappen Avancerat….">
 <!ENTITY offlineNotDownload.label "Meddelanden större än">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Hämta inte meddelanden som är större än">
@@ -27,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Ta bort alla utom de senaste">
 <!ENTITY retentionKeepRecent.accesskey "a">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Ta alltid bort lästa meddelanden (åsidosätter åldersinställningar)">
 <!ENTITY retentionApplyToFlagged.label "Behåll alltid märkta meddelanden">
 <!ENTITY retentionApplyToFlagged.accesskey "h">
 <!ENTITY nntpRemoveMsgBody.label "Ta bort innehållet i meddelanden äldre än">
