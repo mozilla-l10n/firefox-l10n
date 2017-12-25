@@ -132,7 +132,7 @@
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
-<!ENTITY detail.lastupdated.label             "Përditësuar Së Fundi">
+<!ENTITY detail.lastupdated.label             "Përditësuar Së Fundi Më">
 <!ENTITY detail.creator.label                 "Zhvillues">
 <!ENTITY detail.homepage.label                "Kreu">
 <!ENTITY detail.numberOfDownloads.label       "Shkarkime">
@@ -172,7 +172,7 @@
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Emër">
 <!ENTITY sort.name.tooltip                    "Renditini sipas emrave">
-<!ENTITY sort.dateUpdated.label               "Përditësuar Së Fundi">
+<!ENTITY sort.dateUpdated.label               "Përditësuar Së Fundi Më">
 <!ENTITY sort.dateUpdated.tooltip             "Renditini sipas datës së përditësimit">
 <!ENTITY sort.relevance.label                 "Më e afërta">
 <!ENTITY sort.relevance.tooltip               "Renditini sipas rëndësisë">
