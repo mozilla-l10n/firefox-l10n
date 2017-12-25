@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Galdetu beti">
 <!ENTITY  permAllow             "Baimendu">
 <!ENTITY  permAllowSession      "Baimendu saiorako">
+<!ENTITY  permHide              "Ezkutatu">
 <!ENTITY  permBlock             "Blokeatu">
 <!ENTITY  permissionsFor        "Honen baimenak:">
 <!ENTITY  permPlugins           "Plugin aktibatuak">

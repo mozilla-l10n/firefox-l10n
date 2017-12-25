@@ -822,6 +822,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Bilatu sinkronizatutako fitxak">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Konektatu beste gailu bat">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -992,11 +993,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "z">
 <!ENTITY updateRestart.panelUI.label2 "Berrabiarazi &brandShorterName; eguneratzeko">
 
+<!ENTITY newTabControlled.message "Fitxa berriak irekitzen dituzunean ikusten duzun orria aldatu du hedapen batek. Zure ezarpenak lehenera ditzakezu ez baduzu aldaketa hau nahi.">
+<!ENTITY newTabControlled.header.message "Zure fitxa berria aldatu egin da.">
+<!ENTITY newTabControlled.keepButton.label "Mantendu aldaketak">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
+<!ENTITY newTabControlled.restoreButton.label "Berrezarri ezarpenak">
+<!ENTITY newTabControlled.restoreButton.accesskey "B">
 
 <!ENTITY pageActionButton.tooltip "Orri-ekintzak">
 <!ENTITY pageAction.addToUrlbar.label "Gehitu helbide-barran">
 <!ENTITY pageAction.removeFromUrlbar.label "Kendu helbide-barratik">
 
+<!ENTITY pageAction.allowInUrlbar.label "Erakutsi helbide-barran">
+<!ENTITY pageAction.disallowInUrlbar.label "Ez erakutsi helbide-barran">
+<!ENTITY pageAction.manageExtension.label "Kudeatu hedapena…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Bidali fitxa gailura">
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
