@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Palaging itanong">
 <!ENTITY  permAllow             "Payagan">
 <!ENTITY  permAllowSession      "Payagan para sa Session">
+<!ENTITY  permHide              "Itago">
 <!ENTITY  permBlock             "Harangin">
 <!ENTITY  permissionsFor        "Mga Pahintulot para sa:">
 <!ENTITY  permPlugins           "I-activate ang mga Plugin">
