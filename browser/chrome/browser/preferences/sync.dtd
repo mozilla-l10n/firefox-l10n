@@ -12,6 +12,12 @@
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.logins.label        "Saio-hasierak">
 <!ENTITY engine.logins.accesskey    "S">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Aukerak">
+<!ENTITY engine.prefsWin.accesskey  "k">
 <!ENTITY engine.prefs.label         "Hobespenak">
 <!ENTITY engine.prefs.accesskey     "o">
 <!ENTITY engine.addons.label        "Gehigarriak">
