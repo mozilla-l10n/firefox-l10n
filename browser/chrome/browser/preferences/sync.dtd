@@ -11,6 +11,7 @@
 <!ENTITY engine.history.label       "Historikk">
 <!ENTITY engine.history.accesskey   "s">
 <!ENTITY engine.logins.label        "Innlogginger">
+<!ENTITY engine.logins.title        "Brukarnavn og passord du har lagret">
 <!ENTITY engine.logins.accesskey    "I">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -20,11 +21,15 @@
 <!ENTITY engine.prefsWin.accesskey  "I">
 <!ENTITY engine.prefs.label         "Innstillinger">
 <!ENTITY engine.prefs.accesskey     "I">
+<!ENTITY engine.prefs.title         "Generelle, personvern og sikkerhetsinnstillinger du har endret">
 <!ENTITY engine.addons.label        "Utvidelser">
+<!ENTITY engine.addons.title        "Utvidelser og temaer for Firefox for datamaskin">
 <!ENTITY engine.addons.accesskey    "U">
 <!ENTITY engine.addresses.label     "Adresser">
+<!ENTITY engine.addresses.title     "Postadresser du har lagret (bar datamaskin)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kredittkort">
+<!ENTITY engine.creditcards.title   "Navn, numre og forfallsdato (bar datamaskin)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
