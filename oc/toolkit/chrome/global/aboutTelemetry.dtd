@@ -26,22 +26,29 @@ Ièr
 <!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
 <!ENTITY aboutTelemetry.moreInformations "A la recèrca de mai d'informacions ?">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Dobrir dins la visualizaira JSON">
 
 <!ENTITY aboutTelemetry.homeSection "Acuèlh">
 <!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
+<!ENTITY aboutTelemetry.environmentDataSection "Donadas de l'environament">
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informacions del sistèma">
 <!ENTITY aboutTelemetry.scalarsSection "  Escalars">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Escalar amb mot clau">
 <!ENTITY aboutTelemetry.histogramsSection "  Istogramas">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Istogramas amb clau">
+<!ENTITY aboutTelemetry.eventsSection "Eveniments">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
 <!ENTITY aboutTelemetry.telemetryLogSection "  Jornal de la telemetria">
 <!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
 <!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Detalhs suls moduls complementaris">
+<!ENTITY aboutTelemetry.capturedStacksSection "Pilas capturadas">
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras tardièras">
+<!ENTITY aboutTelemetry.rawPayloadSection "Carga utila bruta">
 <!ENTITY aboutTelemetry.raw "
 JSON brut
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NÒTA : Lo desbugatge de las requèstas SQL lentas es activat. De requèstas SQL completas pòdon èsser afichadas çaijós, mas seràn pas mandadas per telemetria.">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Recuperar los noms de foncions per las pilas">
 <!ENTITY aboutTelemetry.hideStackSymbols "Afichar las donadas brutas de las pilas">
