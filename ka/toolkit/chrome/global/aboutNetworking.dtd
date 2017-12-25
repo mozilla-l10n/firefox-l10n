@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "ქსელის შესახებ">
-<!ENTITY aboutNetworking.warning               "ეს მეტად ექსპერიმენტულია. 
-უფროსების ნებართვის გარეშე არ გამოიყენოთ.">
+<!ENTITY aboutNetworking.warning               "ეს მეტად საცდელია. უფროსების ნებართვის გარეშე, არ გამოიყენოთ.">
 <!ENTITY aboutNetworking.showNextTime          "გაფრთხილების ჩვენება ყოველ ჯერზე">
 <!ENTITY aboutNetworking.ok                    "გასაგებია">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">

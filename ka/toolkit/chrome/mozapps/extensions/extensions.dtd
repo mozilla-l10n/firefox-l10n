@@ -39,7 +39,7 @@
 <!ENTITY warning.checkcompatibility.label          "დამატებების თავსებადობის შემოწმება გამორთულია. შესაძლოა არათავსებადი დამატებები გქონდეთ.">
 <!ENTITY warning.checkcompatibility.enable.label   "ჩართვა">
 <!ENTITY warning.checkcompatibility.enable.tooltip "დამატებების თავსებადობის შემოწმების ჩართვა">
-<!ENTITY warning.updatesecurity.label              "მოდულის განახლების უსაფრთხოების შემოწმება ამორთულია. განახლებამ შესაძლებელია ზიანი მოგაყენოთ.">
+<!ENTITY warning.updatesecurity.label              "დამატების განახლების უსაფრთხოების შემოწმება გამორთულია. განახლებამ შესაძლოა ზიანი მოგაყენოთ.">
 <!ENTITY warning.updatesecurity.enable.label       "ჩართვა">
 <!ENTITY warning.updatesecurity.enable.tooltip     "დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა">
 
