@@ -4,7 +4,7 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "შესვლები">
+<!ENTITY aboutLogins.title                       "ანგარიშები">
 <!ENTITY aboutLogins.update                      "განახლება">
-<!ENTITY aboutLogins.emptyLoginText              "შეინახეთ თქვენი შესვლები უსაფრთხოდ">
-<!ENTITY aboutLogins.emptyLoginHint              "&brandShortName;-ში შენახული შესვლები და ანგარიშების მონაცემები გამოჩნდება აქ.">
+<!ENTITY aboutLogins.emptyLoginText              "შეინახეთ თქვენი ანგარიშის მონაცემები უსაფრთხოდ">
+<!ENTITY aboutLogins.emptyLoginHint              "&brandShortName;-ში დამახსოვრებული შესვლები და ანგარიშების მონაცემები გამოჩნდება აქ.">

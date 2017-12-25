@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'შესვლები'>
+<!ENTITY sync.configure.engines.title.passwords2 'ანგარიშები'>
 <!ENTITY sync.configure.engines.title.history 'ისტორია'>
 <!ENTITY sync.configure.engines.title.tabs 'დაფები'>
 
@@ -53,7 +53,7 @@
 
 <!ENTITY fxaccount_status_auth_server 'ანგარიშის სერვერი'>
 <!ENTITY fxaccount_status_sync_now 'სინქრონიზაცია ახლა'>
-<!ENTITY fxaccount_status_syncing2 'სინქრონირდება...'>
+<!ENTITY fxaccount_status_syncing2 'დასინქრონდება...'>
 <!ENTITY fxaccount_status_device_name 'მოწყობილობის სახელი'>
 <!ENTITY fxaccount_status_sync_server 'სინქრონიზციის სერვერი'>
 <!ENTITY fxaccount_status_needs_verification2 'თქვენს ანგარიშს დამოწმება სჭირდება. შეეხეთ, დასამოწმებელი წერილის ხელახლა გამოსაგზავნად.'>
@@ -65,7 +65,7 @@
 <!ENTITY fxaccount_status_choose_what 'მიუთითეთ, რისი დასინქრონება გსურთ'>
 <!ENTITY fxaccount_status_bookmarks 'სანიშნები'>
 <!ENTITY fxaccount_status_history 'ისტორია'>
-<!ENTITY fxaccount_status_passwords2 'შესვლები'>
+<!ENTITY fxaccount_status_passwords2 'ანგარიშები'>
 <!ENTITY fxaccount_status_tabs 'გახსნილი ჩანართები'>
 <!ENTITY fxaccount_status_additional_settings 'დამატებითი პარამეტრები'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'დასინქრონება მხოლოდ Wi-Fi-ით'>
