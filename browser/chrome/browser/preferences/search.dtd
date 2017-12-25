@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "استفاده از نوادر آدرس برای پیمایش و جست وجو">
 <!ENTITY searchBar.shown.label                 "اضافه کردن نوار جست‌وجو به نوار ابزار">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "نمایش پیشنهادات جست‌وجو در بالا ی تاریخچه مرورگر در نوار آدرس">
+
 <!ENTITY defaultSearchEngine.label             "موتور جست‌وجو پیش‌فرض">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "انتخاب یک موتور جست‌وجو پیش فرض برای استفاده در نوار ادرس و نوار جست‌وجو">

@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "شما پنجره باز شو مسدود شده برای این پایگاه اینترنتی دارید.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "شما بوم‌های استراخ شده‌ای از این وب سایت دادرید که مسدود شده‌‌اند.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "نمایش تاریخچه">
 
 <!ENTITY searchItem.title             "جست‌وجو">
