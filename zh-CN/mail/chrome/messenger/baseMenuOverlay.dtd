@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Help Menu -->
 
+<!-- Help Menu -->
 <!ENTITY helpMenu.label "帮助">
 <!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
@@ -21,8 +21,12 @@
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; 帮助">
+<!ENTITY openHelpMac2.label "&brandFullName; 帮助">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "关于 &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "A">
+
+<!ENTITY aboutMenuCmd2.label "关于 &brandFullName;">
+<!ENTITY aboutMenuCmd2.accesskey "A">
