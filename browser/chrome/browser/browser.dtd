@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Bidali lotura gailura">
 <!ENTITY  sendLinkToDevice.accesskey         "g">
 <!ENTITY  sendToDeviceFeedback.label         "Bidalita!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Ilaratuta (lineaz kanpo)">
 <!ENTITY  moveToNewWindow.label              "Eraman leiho berrira">
 <!ENTITY  moveToNewWindow.accesskey          "h">
 <!ENTITY  bookmarkAllTabs.label              "Egin fitxa guztien laster-marka…">
@@ -232,6 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Popup leihoak blokeatuta dauzkazu webgune honetarako.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Canvas-eko datuen erauzketa blokeatuta daukazu webgune honetarako.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
 
 <!ENTITY searchItem.title             "Bilatu">
@@ -355,6 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Pertsonalizatu menua eta tresna-barrak">
 <!ENTITY appMenuCustomizeExit.label "Irten pertsonalizatzetik">
 <!ENTITY appMenuCustomizeExit.tooltip "Amaitu pertsonalizatzen">
+
 <!ENTITY appMenuHistory.showAll.label "Erakutsi historia guztia">
 <!ENTITY appMenuHistory.clearRecent.label "Garbitu azken historia…">
 <!ENTITY appMenuHistory.restoreSession.label "Berreskuratu aurreko saioa">
@@ -385,9 +389,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Beste gailuetako zure fitxak hemen ikusi nahi dituzu?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync hobespenak">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Hasi saioa zure beste gailuetako fitxak ikusteko.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Zure kontua egiaztatu egin behar da.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kudeatu gailuak…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ikusi sinkronizatutako fitxen alboko barra">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Konektatu beste gailu bat">
 
 <!ENTITY appMenuRecentHighlights.label "Nabarmendutako azkenak">
 
@@ -750,6 +757,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Eginda">
 <!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Gunearen segurtasuna">
+
 <!ENTITY identity.connectionSecure "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
@@ -803,12 +814,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Sinkronizatutako fitxarik ez... momentuz!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Beste gailuetako zure fitxak hemen ikusi nahi dituzu?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Hasi saioa zure beste gailuetako fitxak ikusteko.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Zure kontua egiaztatu egin behar da.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Irekitako fitxarik ez">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ireki &syncBrand.shortName.label; hobespenak">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Bilatu sinkronizatutako fitxak">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +992,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "z">
 <!ENTITY updateRestart.panelUI.label2 "Berrabiarazi &brandShorterName; eguneratzeko">
 
+
 <!ENTITY pageActionButton.tooltip "Orri-ekintzak">
 <!ENTITY pageAction.addToUrlbar.label "Gehitu helbide-barran">
 <!ENTITY pageAction.removeFromUrlbar.label "Kendu helbide-barratik">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Bidali fitxa gailura">
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
