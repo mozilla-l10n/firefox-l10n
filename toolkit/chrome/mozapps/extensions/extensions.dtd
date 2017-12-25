@@ -22,11 +22,13 @@
 <!ENTITY toolsMenu.tooltip                    "Aisinas per totes los moduls">
 
 <!ENTITY getThemes.description                "Volètz personalizar vòstre navigator ?">
+<!ENTITY getThemes.learnMore                  "Fasètz vòstra causida demest de milierats de tèmas.">
 
 <!ENTITY cmd.back.tooltip                     "Recuolar d'una pagina">
 <!ENTITY cmd.forward.tooltip                  "Avançar d'una pagina">
 
 
+<!ENTITY showUnsignedExtensions.button.label  "Unas extensions an pas pogut èsser verificadas">
 <!ENTITY showAllExtensions.button.label       "Afichar totas las transicions">
 <!ENTITY debugAddons.label                    "Desbugar los moduls">
 <!ENTITY debugAddons.accesskey                "B">

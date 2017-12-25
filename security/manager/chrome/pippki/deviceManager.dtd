@@ -25,11 +25,12 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Picar las entresenhas sul modul que volètz apondre.">
-<!ENTITY loaddevice.modname                     "Nom del modul :">
-<!ENTITY loaddevice.modname.accesskey           "o">
+<!ENTITY loaddevice.modname2                    "Nom del modul">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Modul PKCS#11 novèl">
-<!ENTITY loaddevice.filename                    "Nom de fichièr del modul :">
-<!ENTITY loaddevice.filename.accesskey          "i">
+<!ENTITY loaddevice.filename2                   "Nom de fichièr del modul">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Percórrer...">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
+<!ENTITY loaddevice.title2                      "Cargar lo pilòt de periferic PKCS#11">
