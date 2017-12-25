@@ -20,9 +20,9 @@
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "显示项目">
 <!ENTITY aboutUrlClassifier.cacheEntries                "缓存项目">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "前缀">
-<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "阴性缓存过期">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "阴性缓存期限">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "完整散列">
-<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "阳性缓存过期">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "阳性缓存期限">
 <!ENTITY aboutUrlClassifier.debugTitle                  "调试">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "设置日志模块">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "设置日志文件">
