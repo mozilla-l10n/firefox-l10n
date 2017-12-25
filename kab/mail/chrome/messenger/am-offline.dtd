@@ -7,6 +7,8 @@
 <!ENTITY doNotDownloadImap.label "Akken ad teḥ€rzeḍ amkan ɣef udebṣi, asider n yeznan seg uqeddac akked uḥraz n yenɣal idiganen i useqdec deg uskar war tuqqna yezmer ad yettusewḥel s uwtay neɣ s teɣzi.">
 <!ENTITY allFoldersOffline.label "Ḥrez iznan n umiḍan-agi ɣef uselkim-agi">
 <!ENTITY allFoldersOffline.accesskey "ḍ">
+<!ENTITY allFoldersOffline2.label "Eǧǧ iznan deg akk ikaramen i umiḍan agi ɣef uselkim agi.">
+<!ENTITY allFoldersOffline2.accesskey "ḍ">
 <!ENTITY offlineNotDownload.label "Iznan meqqren ɣef">
 <!ENTITY offlineNotDownload.accesskey "z">
 <!ENTITY autosyncNotDownload.label "Ur d-sidir ara iznan yugaren">
@@ -37,13 +39,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "q">
 <!ENTITY syncGroupTitle.label "Amtawi n yeznan">
 <!ENTITY diskspaceGroupTitle.label "Amkan deg udebṣi">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Mtawi akk iznan idiganen akken bɣu yella  uwtay">
 <!ENTITY allAutosync.accesskey           "n">
 <!ENTITY ageAutosyncBefore.label         "Mtawi wid n melmi kan">
