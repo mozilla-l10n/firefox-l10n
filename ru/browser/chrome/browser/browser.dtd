@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Отправить ссылку на устройство">
 <!ENTITY  sendLinkToDevice.accesskey         "й">
 <!ENTITY  sendToDeviceFeedback.label         "Отправлено!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "В очереди (без доступа в Интернет)">
 <!ENTITY  moveToNewWindow.label              "Переместить в новое окно">
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  bookmarkAllTabs.label              "Добавить все вкладки в закладки…">
