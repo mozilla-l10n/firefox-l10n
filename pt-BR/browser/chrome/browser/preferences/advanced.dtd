@@ -49,7 +49,7 @@ available. -->
 <!ENTITY connectionSettings.label        "Configurar conexão…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "Cache de conteúdo web">
+<!ENTITY httpCache.label                 "Conteúdo Web em cache">
 
 <!ENTITY offlineStorage2.label           "Conteúdo web off-line e dados do usuário">
 
@@ -67,14 +67,14 @@ available. -->
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Limitar o cache a">
+<!ENTITY limitCacheSizeBefore.label      "Limitar cache a">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB de espaço">
 <!ENTITY clearCacheNow.label             "Limpar agora">
 <!ENTITY clearCacheNow.accesskey         "L">
 <!ENTITY clearOfflineAppCacheNow.label   "Limpar agora">
 <!ENTITY clearOfflineAppCacheNow.accesskey "m">
-<!ENTITY overrideSmartCacheSize.label    "Desativar o gerenciamento automático do cache">
+<!ENTITY overrideSmartCacheSize.label    "Substituir o gerenciamento automático de cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Atualizações">

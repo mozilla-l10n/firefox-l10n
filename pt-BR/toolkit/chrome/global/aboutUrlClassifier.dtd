@@ -15,14 +15,14 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Atualizar">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Limpar">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Nome da tabela">
-<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Número de entradas cache negativas">
-<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Número de entradas cache positivas">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Número de entradas de cache negativas">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Número de entradas de cache positivas">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Mostrar entradas">
-<!ENTITY aboutUrlClassifier.cacheEntries                "Entradas cache">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Entradas de cache">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefixo">
-<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Expiração do cache negativo">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Expiração de cache negativa">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hash completo">
-<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Expiração do cache positivo">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Expiração de cache positiva">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depurar">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Configurar módulo de registro">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Configurar arquivo de registro">
