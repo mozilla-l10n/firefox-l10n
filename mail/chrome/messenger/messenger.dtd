@@ -459,6 +459,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Utvidelser">
 <!ENTITY addons.accesskey "U">
+<!ENTITY addonPrefsUnix.label "Innstillinger for utvidelse">
 <!ENTITY activitymanager.label "Aktiviteter">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Nettpratstatus">
