@@ -397,7 +397,7 @@
 <!ENTITY pref_dialog_activitystream_recentBookmarks "ბოლოს ჩანიშნულები">
 <!ENTITY pref_dialog_activitystream_visited "მონახულებული">
 
-<!ENTITY pref_search_last_toast "თქვენ არ შეგიძლიათ უკანასკნელი საძიებო სისტემის ამოღება ან გამორთვა.">
+<!ENTITY pref_search_last_toast "თქვენ არ შეგიძლიათ უკანასკნელი საძიებო სისტემის წაშლა, ან გამორთვა.">
 
 <!ENTITY pref_panels_show "ჩვენება">
 <!ENTITY pref_panels_hide "დამალვა">
@@ -484,7 +484,7 @@
 
 <!ENTITY contextmenu_open_new_tab "გახსნა ახალ ჩანართში">
 <!ENTITY contextmenu_open_private_tab "გახსნა პირად ჩანართში">
-<!ENTITY contextmenu_remove "ამოღება">
+<!ENTITY contextmenu_remove "წაშლა">
 <!ENTITY contextmenu_add_to_launcher "საშინაო გვერდზე დამატება">
 <!ENTITY contextmenu_add_page_shortcut "გვერდის მალსახმობის დამატება">
 <!ENTITY contextmenu_set_as_homepage "საწყისი გვერდად დაყენება">
@@ -561,7 +561,7 @@
 <!ENTITY page_action_dropmarker_description "დამატებითი ქმედებები">
 
 <!ENTITY masterpassword_create_title "მთავარი პაროლის შექმნა">
-<!ENTITY masterpassword_remove_title "მთავარი პაროლის ამოღება">
+<!ENTITY masterpassword_remove_title "მთავარი პაროლის წაშლა">
 <!ENTITY masterpassword_password "პაროლი">
 <!ENTITY masterpassword_confirm "პაროლი ხელახლა">
 
@@ -669,7 +669,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_message_disabled2 "ეს გვერდი შეიცავს ელემენტებს, რომელთაც შესაძლოა გითვალთვალონ.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "დაწვრილებით">
+<!ENTITY learn_more "ვრცლად">
 <!ENTITY enable_protection "დაცვის ჩართვა">
 <!ENTITY disable_protection "დაცვის ამორთვა">
 
