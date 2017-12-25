@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "kue vàa niki'tsàa pagina">
 <!ENTITY retry.label "ki'tsàa tuku">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "kue ku ki'tsau">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -68,12 +68,10 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 
-
 <!ENTITY unknownSocketType.title "Tu'un kue nchatuko ña servidor">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Kunchee a kumu nu servidor Personal Security Manager.</li><li>Ña ño'o kui tsa'a nishi kaa servidor.</li></ul>">
 
 <!ENTITY nssFailure2.title "Conexión va'a">
-
 
 <!ENTITY nssBadCert.title "Mani'ku chitai'ña">
 
@@ -89,13 +87,14 @@
 <!ENTITY securityOverride.linkText "chika´a in exception…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tavayu'u yoo">
 <!ENTITY securityOverride.exceptionButtonLabel "chika´a excepción">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY remoteXUL.title "XUL remoto">
 
+<!ENTITY remoteXUL.title "XUL remoto">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
@@ -103,6 +102,8 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Tu'un nchichi: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Vaa conexión">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
