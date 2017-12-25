@@ -7,7 +7,7 @@
 
 <!ENTITY addonAction.enable                     "ჩართვა">
 <!ENTITY addonAction.disable                    "ამორთვა">
-<!ENTITY addonAction.uninstall                  "ამოღება">
+<!ENTITY addonAction.uninstall                  "წაშლა">
 <!ENTITY addonAction.undo                       "დაბრუნება">
 <!ENTITY addonAction.update                     "განახლება">
 
