@@ -233,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Stanket hoc'h eus an diflugelloù evit al lec'hienn-mañ.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
 
 <!ENTITY searchItem.title             "Klask">
@@ -388,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Gwellvezvioù goubredañ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Kennaskit da welet ur roll ivinelloù eus ho trevnadoù all">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ret eo gwiriekaat ho kont.">
-<!ENTITY appMenuRemoteTabs.signin.label "Kennaskañ da Synx">
+<!ENTITY appMenuRemoteTabs.signin.label "Kennaskañ ouzh Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Ardeiñ an trevnadoù…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gwelout barrenn-gostez an ivinelloù goubredet ">
 
