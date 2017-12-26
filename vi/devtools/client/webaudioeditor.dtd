@@ -37,13 +37,17 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
+<!ENTITY webAudioEditorUI.inspectorEmpty  "Chưa chọn AudioNode.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
+<!ENTITY webAudioEditorUI.propertiesEmpty "Node không có bất kỳ thuộc tính nào.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
+<!ENTITY webAudioEditorUI.automationEmpty "Node không có bất kỳ AudioParams nào.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
   -  events. -->
+<!ENTITY webAudioEditorUI.automationNoEvents "AudioParam không có bất kỳ sự kiện tự động nào.">
