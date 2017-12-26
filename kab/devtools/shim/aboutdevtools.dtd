@@ -77,6 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Ma yella ur tsentmeḍ ara ajerred inek ar tebratt n isallen icudden ar Mozilla, ahat tzemreḍ akka tura. Ma ulac aɣilif, wali ma yella yimayl di tebwaṭ inek n imaylen neɣ ula deg ispamen.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Tettnadiḍ ugar n ifecka n uneflay? Senqed iminig Firefox ittwabnan i lmend i yineflayen akked leqdic amaynut.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
