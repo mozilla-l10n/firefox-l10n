@@ -663,7 +663,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Proteccion contra lo traçatge">
-<!ENTITY doorhanger_tracking_state_enabled "Activat">
+<!ENTITY doorhanger_tracking_state_enabled "Activada">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivat">
 <!ENTITY doorhanger_tracking_message_enabled1 "Avèm blocats los ensages de traçatge de vòstre comportament en linha.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Aquesta pagina compren d’elements que pòdon pistar vòstra navigacion.">
