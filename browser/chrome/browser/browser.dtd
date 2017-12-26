@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokkert sprettoppvindauge for denne nettstaden.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokkert canvas-datauthenting for denne nettstaden.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
 
 <!ENTITY searchItem.title             "Søk">
