@@ -50,7 +50,12 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Nechajte si posielať vývojárske novinky, triky a zdroje priamo do svojej schránky.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "E-mail">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Beriem na vedomie, že Mozilla spracuje tieto údaje v súlade so <a class='external' href='https://www.mozilla.org/privacy/'>zásadami ochrany súkromia</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Odoberať">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Ďakujeme!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Ak ste v minulosti nepotvrdili odber noviniek Mozilly, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e-mailovej schránky, prípadne i do priečinku s nevyžiadanou poštou, či sa tam nenachádza e-mail od nás.">
 
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to

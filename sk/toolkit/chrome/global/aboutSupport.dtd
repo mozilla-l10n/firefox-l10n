@@ -164,3 +164,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlLocalesDefault "Predvolený jazyk">
 <!ENTITY aboutSupport.intlOSTitle "Operačný systém">
 <!ENTITY aboutSupport.intlOSPrefsSystemLocales "Jazyky systému">
+<!ENTITY aboutSupport.intlRegionalPrefs "Miestne nastavenia">
