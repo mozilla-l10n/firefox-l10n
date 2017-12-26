@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Συζήτηση">
 <!ENTITY goChatCmd.accesskey "σ">
 <!ENTITY goChatCmd.key "Ζ">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Μήνυμα με αστέρι">
 <!ENTITY prevStarredMsgCmd.accesskey "σ">
 <!ENTITY folderMenu.label "Φάκελος">
