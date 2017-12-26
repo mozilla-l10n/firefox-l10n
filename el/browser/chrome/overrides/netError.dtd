@@ -141,7 +141,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Ο ιδιοκτήτης του <span class='hostname'/> δεν έχει ρυθμίσει την ιστοσελίδα του σωστά.  Για να προστατευτούν οι πληροφορίες σας από κλοπή, ο &brandShortName; δεν συνδέθηκε στην συγκεκριμένη ιστοσελίδα.">
+<!ENTITY certerror.introPara "Ο ιδιοκτήτης του <span class='hostname'/> δεν έχει ρυθμίσει την ιστοσελίδα του σωστά. Για την προστασία των πληροφοριών σας από κλοπή, το &brandShortName; δεν έχει συνδεθεί με αυτή την ιστοσελίδα.">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -155,7 +155,7 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
-<!ENTITY cspBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Το &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Σφάλμα κατεστραμμένου περιεχομένου">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Η σελίδα που προσπαθείτε να προβάλετε δεν μπορεί να εμφανιστεί, λόγω σφάλματος στην μετάδοση των δεδομένων.</p><ul><li>Ενημερώστε τους ιδιοκτήτες της ιστοσελίδας για αυτό το πρόβλημα.</li></ul>">
@@ -182,7 +182,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Μη ασφαλής σύνδεση">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Αυτός ο ιστότοπος χρησιμοποιεί ασφάλεια
-HTTP Strict Transport Security (HSTS) που καθορίζει ότι ο &brandShortName; μπορεί να συνδεθεί
+HTTP Strict Transport Security (HSTS) που καθορίζει ότι το &brandShortName; μπορεί να συνδεθεί
 μόνο με ασφαλή τρόπο σε αυτόν. Ως εκ τούτου, είναι αδύνατον να προσθέσετε εξαίρεση
 για αυτό το πιστοποιητικό.">
 <!ENTITY certerror.copyToClipboard.label "Αντιγραφή κειμένου στο πρόχειρο">

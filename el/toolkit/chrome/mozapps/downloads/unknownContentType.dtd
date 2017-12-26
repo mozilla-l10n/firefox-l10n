@@ -4,7 +4,7 @@
 
 <!ENTITY  intro2.label                "Επιλέξατε να ανοίξετε:">
 <!ENTITY  from.label                  "από:">
-<!ENTITY  actionQuestion.label        "Τι να κάνει ο &brandShortName;  με αυτό το αρχείο;">
+<!ENTITY  actionQuestion.label        "Τι να κάνει το &brandShortName; με αυτό το αρχείο;">
 
 <!ENTITY  openWith.label              "Άνοιγμα με">
 <!ENTITY  openWith.accesskey          "ν">

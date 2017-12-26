@@ -763,7 +763,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Τα στοιχεία σύνδεσης που πληκτρολογήσατε σε αυτή την σελίδα μπορεί να διαρεύσουν.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "Ο &brandShortName; έχει εμποδίσει τμήματα αυτής της σελίδας που δεν είναι ασφαλή.">
+<!ENTITY identity.activeBlocked "Το &brandShortName; έχει αποκλείσει επισφαλή τμήματα αυτής της σελίδας.">
 <!ENTITY identity.passiveLoaded "Κάποια τμήματα αυτής της σελίδας δεν είναι ασφαλή (π.χ. κάποιες εικόνες).">
 <!ENTITY identity.activeLoaded "Έχετε απενεργοποιήσει την προστασία σε αυτή τη σελίδα.">
 <!ENTITY identity.weakEncryption "Αυτή η σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση.">
@@ -773,10 +773,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "Τα στοιχεία σύνδεσης που εισάγατε στη σελίδα δεν είναι ασφαλή και μπορεί να τεθούν σε κίνδυνο.">
 <!ENTITY identity.description.weakCipher "Η σύνδεση σας σε αυτή τη σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση και δεν είναι ασφαλής.">
 <!ENTITY identity.description.weakCipher2 "Τρίτοι μπορούν να δουν τις πληροφορίες σας ή να τροποποιήσουν την συμπεριφορά αυτής της ιστοσελίδας.">
-<!ENTITY identity.description.activeBlocked "Ο &brandShortName; έχει εμποδίσει τμήματα αυτής της σελίδας που δεν είναι ασφαλή.">
+<!ENTITY identity.description.activeBlocked "Το &brandShortName; έχει αποκλείσει επισφαλή τμήματα αυτής της σελίδας.">
 <!ENTITY identity.description.passiveLoaded "Η σύνδεσή σας δεν είναι ασφαλής και πληροφορίες που μοιράζεστε με αυτή τη σελίδα μπορεί να είναι ορατές από τρίτους.">
 <!ENTITY identity.description.passiveLoaded2 "Αυτή η σελίδα έχει περιεχόμενο που δεν είναι ασφαλές (π.χ. εικόνες).">
-<!ENTITY identity.description.passiveLoaded3 "Παρόλο που ο &brandShortName; έχει εμποδίσει τμήματα του περιεχομένου, υπάρχουν ακόμα κάποια τμήματα που δεν είναι ασφαλή (π.χ. εικόνες).">
+<!ENTITY identity.description.passiveLoaded3 "Παρόλο που το &brandShortName; έχει αποκλείσει ορισμένο περιεχόμενο, υπάρχει ακόμη επισφαλές περιεχόμενο (π.χ. εικόνες).">
 <!ENTITY identity.description.activeLoaded "Αυτή η ιστοσελίδα έχει περιεχόμενο που δεν είναι ασφαλές (π.χ. scripts) και η σύνδεσή σας δεν είναι ασφαλής.">
 <!ENTITY identity.description.activeLoaded2 "Πληροφορίες που μοιράζεστε με αυτή τη σελίδα μπορεί να είναι ορατές από τρίτους (όπως κωδικοί, μηνύματα, πιστωτικές κάρτες κ.α.).">
 
@@ -899,7 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.">
 
 <!ENTITY trackingProtection.title "Προστασία από παρακολούθηση">
-<!ENTITY trackingProtection.detectedBlocked3 "Ο &brandShortName; εμποδίζει τμήματα της σελίδας που μπορούν να καταγράψουν τη συμπεριφορά σας.">
+<!ENTITY trackingProtection.detectedBlocked3 "Το &brandShortName; αποκλείει τμήματα της σελίδας που ίσως παρακολουθούν την περιήγησή σας.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Αυτή η ιστοσελίδα περιέχει στοιχεία που μπορούν να καταγράψουν τη συμπεριφορά σας. Έχετε απενεργοποιήσει την προστασία.">
 <!ENTITY trackingProtection.notDetected3 "Κανένα στοιχείο καταγραφής σε αυτή τη σελίδα.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
