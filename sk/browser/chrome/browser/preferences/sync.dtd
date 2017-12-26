@@ -26,6 +26,7 @@
 <!ENTITY engine.addons.title        "Rozšírenia a témy vzhľadu pre Firefox pre počítače">
 <!ENTITY engine.addons.accesskey    "D">
 <!ENTITY engine.addresses.label     "Adresy">
+<!ENTITY engine.addresses.title     "Uložené poštové adresy (len pre počítače)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Platobné karty">
 <!ENTITY engine.creditcards.accesskey "k">
