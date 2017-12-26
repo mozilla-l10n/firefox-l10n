@@ -15,5 +15,5 @@
 <!ENTITY caseSensitive.accesskey "φ">
 <!ENTITY caseSensitive.tooltiptext "Εύρεση με συμφωνία πεζών-κεφαλαίων">
 <!ENTITY entireWord.label "Ολόκληρες λέξεις">
-<!ENTITY entireWord.accesskey "w">
+<!ENTITY entireWord.accesskey "ξ">
 <!ENTITY entireWord.tooltiptext "Αναζήτηση μόνο ολόκληρων λέξεων">

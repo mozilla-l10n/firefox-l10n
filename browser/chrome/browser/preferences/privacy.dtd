@@ -65,7 +65,7 @@
 <!ENTITY  cookieExceptions.label        "Εξαιρέσεις…">
 <!ENTITY  cookieExceptions.accesskey    "Ε">
 
-<!ENTITY  showCookies.label             "Προβολή Cookies…">
+<!ENTITY  showCookies.label             "Προβολή cookies…">
 <!ENTITY  showCookies.accesskey         "Π">
 
 <!ENTITY  historyHeader2.pre.label         "Το &brandShortName;">

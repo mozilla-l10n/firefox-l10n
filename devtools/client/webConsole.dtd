@@ -69,7 +69,7 @@
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "Workers προσθέτων ή Chrome">
 
-<!ENTITY filterOutput.placeholder "Έξοδος φίλτρου">
+<!ENTITY filterOutput.placeholder "Φιλτράρισμα εξόδου">
 <!ENTITY btnClear.label        "Εκκαθάριση">
 <!ENTITY btnClear.tooltip      "Εκκαθάριση εξόδου κονσόλας ιστού">
 <!ENTITY btnClear.accesskey    "ρ">
