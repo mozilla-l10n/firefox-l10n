@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "Αυτή η ιστοσελίδα χρησιμοποιεί μια πρόσθετη λειτουργία που μπορεί να επιβραδύνει το &brandShortName;.">
-<!ENTITY tapToPlayPlugin                                     "Πατήστε εδώ για ενεργοποίηση πρόσθετης λειτουργίας.">
-<!ENTITY clickToActivatePlugin                               "Ενεργοποίηση πρόσθετης λειτουργίας.">
+<!ENTITY pluginActivationWarning                             "Αυτή η ιστοσελίδα χρησιμοποιεί ένα άρθρωμα που ενδέχεται να επιβραδύνει το &brandShortName;.">
+<!ENTITY tapToPlayPlugin                                     "Πατήστε εδώ για ενεργοποίηση του αρθρώματος.">
+<!ENTITY clickToActivatePlugin                               "Ενεργοποίηση αρθρώματος.">
 <!ENTITY checkForUpdates                                     "Έλεγχος για ενημερώσεις…">
-<!ENTITY blockedPlugin.label                                 "Αυτή η πρόσθετη λειτουργία έχει αποκλειστεί για την ασφάλειά σας.">
-<!ENTITY hidePluginBtn.label                                 "Απόκρυψη πρόσθετης λειτουργίας">
-<!ENTITY managePlugins                                       "Διαχείριση πρόσθετων λειτουργιών…">
+<!ENTITY blockedPlugin.label                                 "Αυτό το άρθρωμα έχει αποκλειστεί για την ασφάλειά σας.">
+<!ENTITY hidePluginBtn.label                                 "Απόκρυψη αρθρώματος">
+<!ENTITY managePlugins                                       "Διαχείριση αρθρωμάτων…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
