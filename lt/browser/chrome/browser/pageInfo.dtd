@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Visada klausti">
 <!ENTITY  permAllow             "Leisti">
 <!ENTITY  permAllowSession      "Leisti vienam seansui">
+<!ENTITY  permHide              "Nerodyti">
 <!ENTITY  permBlock             "Neleisti">
 <!ENTITY  permissionsFor        "Leidimai:">
 <!ENTITY  permPlugins           "Papildinių aktyvinimas">

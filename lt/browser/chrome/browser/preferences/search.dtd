@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Paieškai ir naršymui naudoti adreso lauką">
 <!ENTITY searchBar.shown.label                 "Pridėti paieškos lauką į priemonių juostą">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Rodyti paieškos žodžių siūlymus virš naršymo žurnalo, matomus adreso juostos rezultatuose">
+
 <!ENTITY defaultSearchEngine.label             "Numatytoji ieškyklė">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Pasirinkite numatytąją ieškyklę, kuri bus naudojama adreso ir paieškos laukuose.">
