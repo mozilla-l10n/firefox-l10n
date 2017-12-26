@@ -48,7 +48,7 @@
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Καλώς ήλθατε στο &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Συνδεθείτε για να συγχρονίσετε τις καρτέλες, τους σελιδοδείκτες, τα στοιχεία σύνδεσης σας &amp; άλλα.'>
-<!ENTITY fxaccount_getting_started_get_started 'Ξεκινώντας'>
+<!ENTITY fxaccount_getting_started_get_started 'Έναρξη'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Χρησιμοποιείτε μια παλαιότερη έκδοση του &syncBrand.shortName.label;;'>
 
 <!ENTITY fxaccount_status_auth_server 'Διακομιστής λογαριασμών'>
@@ -62,6 +62,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Το &syncBrand.shortName.label; είναι ρυθμισμένο, αλλά δεν συγχρονίζεται αυτόματα. Ενεργοποιήστε τον «Αυτόματο συγχρονισμό δεδομένων» στις Ρυθμίσεις του Android &gt; Χρήση δεδομένων.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'Το &syncBrand.shortName.label; είναι ρυθμισμένο, αλλά δεν συγχρονίζεται αυτόματα. Ενεργοποιήστε τον «Αυτόματο συγχρονισμό δεδομένων» στις Ρυθμίσεις του Android &gt; Λογαριασμοί.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Πατήστε για να συνδεθείτε στον νέο σας λογαριασμό Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Επιλέξτε τι θα συγχρονίζεται'>
 <!ENTITY fxaccount_status_bookmarks 'Σελιδοδείκτες'>
 <!ENTITY fxaccount_status_history 'Ιστορικό'>
 <!ENTITY fxaccount_status_passwords2 'Στοιχεία σύνδεσης'>
