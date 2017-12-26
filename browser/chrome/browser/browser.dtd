@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Šioje svetainėje esate užblokavę iškylančiuosius langus.">
 
-<!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išpakavimą.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išgavimą.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
 

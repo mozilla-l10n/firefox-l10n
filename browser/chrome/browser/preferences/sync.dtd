@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "adresyną">
 <!ENTITY engine.bookmarks.accesskey "a">
 <!ENTITY engine.tabs.label2         "atvertas korteles">
+<!ENTITY engine.tabs.title          "Sąrašas visko, kas atverta visuose sinchronizuojamuose įrenginiuose">
 <!ENTITY engine.tabs.accesskey      "k">
 <!ENTITY engine.history.label       "žurnalą">
 <!ENTITY engine.history.accesskey   "ž">
 <!ENTITY engine.logins.label        "prisijungimus">
+<!ENTITY engine.logins.title        "Įrašyti prisijungimų vardai ir slaptažodžiai">
 <!ENTITY engine.logins.accesskey    "P">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Nuostatos">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "nuostatas">
 <!ENTITY engine.prefs.accesskey     "n">
+<!ENTITY engine.prefs.title         "Bendros, privatumo ir saugumo nuostatos, kurias keitėte">
 <!ENTITY engine.addons.label        "priedus">
+<!ENTITY engine.addons.title        "Priedai ir grafiniai apvalkalai, skirti kompiuterinei „Firefox“">
 <!ENTITY engine.addons.accesskey    "p">
 <!ENTITY engine.addresses.label     "adresus">
+<!ENTITY engine.addresses.title     "Įrašyti pašto adresai (tik kompiuteryje)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kreditinės kortelės">
+<!ENTITY engine.creditcards.title   "Vardai, numeriai ir galiojimo datos (tik kompiuteryje)">
 <!ENTITY engine.creditcards.accesskey "r">
 
 <!-- Device Settings -->
