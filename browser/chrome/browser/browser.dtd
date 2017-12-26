@@ -196,8 +196,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "Vienu tinklalapiu pirmyn">
 <!ENTITY backForwardButtonMenu.tooltip "Spustelėję dešiniu pelės mygtuku arba palaikę nuspaustą kairįjį, pamatysite kortelės žurnalą">
 <!ENTITY backForwardButtonMenuMac.tooltip "Palaikę nuspaustą pelės mygtuką, pamatysite kortelės žurnalą">
-<!ENTITY reloadCmd.label              "Atsiųsti iš naujo">
+<!ENTITY reloadCmd.label              "Įkelti iš naujo">
+<!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY stopCmd.label                "Stabdyti">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Eiti į adreso lauke surinktą adresą">
 <!ENTITY printButton.label            "Spausdinti">
@@ -235,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Šioje svetainėje esate užblokavę iškylančiuosius langus.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išpakavimą.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
 
@@ -390,10 +393,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Norite matyti savo korteles iš kitų įrenginių čia?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinchronizavimo nuostatos">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Jūsų paskyra turi būti patvirtinta.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prisijungti prie „Sync“">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Tvarkyti įrenginius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Rodyti sinchronizuotų kortelių parankinę">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Susieti kitą įrenginį">
 
 <!ENTITY appMenuRecentHighlights.label "Paskiausi akcentai">
 
@@ -570,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Naudoti kaip darbastalio fono piešinį…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "d">
 <!ENTITY bookmarkPageCmd2.label       "Įrašyti į adresyną">
+<!ENTITY bookmarkPageCmd2.accesskey   "y">
 <!ENTITY bookmarkThisLinkCmd.label      "Įtraukti saitą į adresyną">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Įtraukti kadrą į adresyną">
@@ -758,6 +764,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Svetainės saugumas">
 
 <!ENTITY identity.connectionSecure "Saugus ryšys">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
@@ -812,6 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nėra sinchronizuotų kortelių… Kol kas!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Norite matyti savo korteles iš kitų įrenginių čia?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Jūsų paskyra turi būti patvirtinta.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nėra atvirų kortelių">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Atverti „&syncBrand.shortName.label;“ nuostatas">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -819,6 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Ieškoti tarp sinchronizuotų kortelių">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Susieti kitą įrenginį">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -989,11 +998,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 
+<!ENTITY newTabControlled.message "Kažkuris priedas pakeitė tinklalapį, matomą atvėrus naują kortelę. Jei nenorite šio pakeitimo, galite atkurti savo nuostatas.">
+<!ENTITY newTabControlled.header.message "Pasikeitė jūsų nauja kortelė.">
+<!ENTITY newTabControlled.keepButton.label "Palikti pakeitimus">
+<!ENTITY newTabControlled.keepButton.accesskey "k">
+<!ENTITY newTabControlled.restoreButton.label "Atkurti nuostatas">
+<!ENTITY newTabControlled.restoreButton.accesskey "r">
 
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso lauką">
 <!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso lauko">
 
+<!ENTITY pageAction.allowInUrlbar.label "Rodyti adreso juostoje">
+<!ENTITY pageAction.disallowInUrlbar.label "Nerodyti adreso juostoje">
+<!ENTITY pageAction.manageExtension.label "Tvarkyti priedą…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Siųsti kortelę į įrenginį">
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
