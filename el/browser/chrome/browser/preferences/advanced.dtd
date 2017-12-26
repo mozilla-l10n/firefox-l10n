@@ -29,6 +29,7 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση">
 
+<!ENTITY enableHealthReport2.label       "Να επιτρέπεται στο &brandShortName; η αποστολή τεχνικών και διαδραστικών δεδομένων στη Mozilla">
 <!ENTITY healthReportLearnMore.label     "Μάθετε περισσότερα">
 
 <!ENTITY dataCollection.label            "Συλλογή και χρήση δεδομένων &brandShortName;">
