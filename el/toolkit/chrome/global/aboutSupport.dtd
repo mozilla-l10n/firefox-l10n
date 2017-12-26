@@ -56,7 +56,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Φάκελος προφίλ">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ενεργές πρόσθετες λειτουργίες">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Ενεργά αρθρώματα">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Ρύθμιση δομής">
 <!ENTITY aboutSupport.appBasicsUserAgent "Λειτουργία χρήσης">
 <!ENTITY aboutSupport.appBasicsOS "ΛΣ">
@@ -155,3 +155,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Κανάλια">
 <!ENTITY aboutSupport.mediaDeviceRate "Ρυθμός">
 <!ENTITY aboutSupport.mediaDeviceLatency "Καθυστέρηση">
+

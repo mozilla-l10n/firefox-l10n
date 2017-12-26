@@ -58,7 +58,7 @@
 <!ENTITY  permHide              "Απόκρυψη">
 <!ENTITY  permBlock             "Φραγή">
 <!ENTITY  permissionsFor        "Δικαιώματα για:">
-<!ENTITY  permPlugins           "Ενεργοποίηση πρόσθετων λειτουργιών">
+<!ENTITY  permPlugins           "Ενεργοποίηση αρθρωμάτων">
 
 <!ENTITY  permClearStorage           "Εκκαθάριση αποθηκευτικού χώρου">
 <!ENTITY  permClearStorage.accesskey "θ">

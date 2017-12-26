@@ -258,7 +258,7 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "εγχειρίδιο">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-<!ENTITY pluginDeprecation.description "Λείπει τίποτα; Ορισμένες πρόσθετες λειτουργίες δεν υποστηρίζονται πλέον από το &brandShortName;.">
+<!ENTITY pluginDeprecation.description "Λείπει τίποτα; Ορισμένα αρθρώματα δεν υποστηρίζονται πλέον από το &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Μάθετε περισσότερα.">
 
 <!ENTITY legacyWarning.showLegacy "Εμφάνιση επεκτάσεων παλαιού τύπου">

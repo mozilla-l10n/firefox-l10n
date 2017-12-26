@@ -207,7 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης προσθέτων">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Άνοιγμα πλαισίου μηνυμάτων αποθηκευμένων εκτός σύνδεσης">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Άνοιγμα πλαισίου μηνυμάτων αποθήκευσης συνθηματικού">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Διαχείριση χρήσης πρόσθετων λειτουργιών">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Διαχείριση χρήσης αρθρωμάτων">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Αλλαγή του αν θα λαμβάνετε ειδοποιήσεις από τον ιστοτόπο">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Αποθήκευση δεδομένων στην Επίμονη Αποθήκευση">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα">
@@ -517,19 +517,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.label     "Ορισμός ως προκαθορισμένη μηχανή αναζήτησης">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
-<!ENTITY openLinkCmdInTab.label       "Άνοιγμα δεσμού σε νέα καρτέλα">
+<!ENTITY openLinkCmdInTab.label       "Άνοιγμα συνδέσμου σε νέα καρτέλα">
 <!ENTITY openLinkCmdInTab.accesskey   "τ">
 <!ENTITY openLinkCmd.label            "Άνοιγμα συνδέσμου σε νέο παράθυρο">
 <!ENTITY openLinkCmd.accesskey        "δ">
 <!ENTITY openLinkInPrivateWindowCmd.label "Άνοιγμα συνδέσμου σε νέο ιδιωτικό παράθυρο">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "δ">
-<!ENTITY openLinkCmdInCurrent.label     "Άνοιγμα δεσμού">
+<!ENTITY openLinkCmdInCurrent.label     "Άνοιγμα συνδέσμου">
 <!ENTITY openLinkCmdInCurrent.accesskey "ο">
 <!ENTITY openFrameCmdInTab.label      "Άνοιγμα πλαισίου σε νέα καρτέλα">
 <!ENTITY openFrameCmdInTab.accesskey  "π">
 <!ENTITY openFrameCmd.label           "Άνοιγμα πλαισίου σε νέο παράθυρο">
 <!ENTITY openFrameCmd.accesskey       "ν">
-<!ENTITY openLinkCmdInContainerTab.label "Άνοιγμα δεσμού σε νέα καρτέλα εντός περιβάλλοντος">
+<!ENTITY openLinkCmdInContainerTab.label "Άνοιγμα συνδέσμου σε νέα θεματική καρτέλα">
 <!ENTITY openLinkCmdInContainerTab.accesskey "κ">
 <!ENTITY showOnlyThisFrameCmd.label     "Προβολή μόνο αυτού του πλαισίου">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ν">
@@ -581,7 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "π">
 <!ENTITY printFrameCmd.label          "Εκτύπωση πλαισίου…">
 <!ENTITY printFrameCmd.accesskey      "λ">
-<!ENTITY saveLinkCmd.label            "Αποθήκευση δεσμού ως…">
+<!ENTITY saveLinkCmd.label            "Αποθήκευση συνδέσμου ως…">
 <!ENTITY saveLinkCmd.accesskey        "θ">
 <!ENTITY saveImageCmd.label           "Αποθήκευση εικόνας ως…">
 <!ENTITY saveImageCmd.accesskey       "θ">
@@ -595,11 +595,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "σ">
 <!ENTITY emailAudioCmd.label          "Αποστολή ήχου…">
 <!ENTITY emailAudioCmd.accesskey      "χ">
-<!ENTITY playPluginCmd.label          "Ενεργοποίηση αυτής της πρόσθετης λειτουργίας">
+<!ENTITY playPluginCmd.label          "Ενεργοποίηση αρθρώματος">
 <!ENTITY playPluginCmd.accesskey      "γ">
-<!ENTITY hidePluginCmd.label          "Απόκρυψη αυτής της πρόσθετης λειτουργίας">
+<!ENTITY hidePluginCmd.label          "Απόκρυψη αρθρώματος">
 <!ENTITY hidePluginCmd.accesskey      "π">
-<!ENTITY copyLinkCmd.label            "Αντιγραφή τοποθεσίας δεσμού">
+<!ENTITY copyLinkCmd.label            "Αντιγραφή τοποθεσίας συνδέσμου">
 <!ENTITY copyLinkCmd.accesskey        "γ">
 <!ENTITY copyImageCmd.label           "Αντιγραφή τοποθεσίας εικόνας">
 <!ENTITY copyImageCmd.accesskey       "ν">
@@ -921,7 +921,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Να επιτρέπεται για τώρα">
 <!ENTITY pluginActivateAlways.label "Να επιτρέπεται πάντα">
-<!ENTITY pluginBlockNow.label "Φραγή πρόσθετης λειτουργίας">
+<!ENTITY pluginBlockNow.label "Φραγή αρθρώματος">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
