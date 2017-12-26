@@ -17,6 +17,13 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Impussibel da chattar l'adressa">
+<!ENTITY dnsNotFound.longDesc "<ul>
+  <li>Controllescha sche l'adressa cuntegna sbagls da tippar sco 
+    <strong>ww</strong>.example.com empè da <strong>www</strong>.example.com</li>
+  <li>Sche ti na pos era betg chargiar in'autra website, controllescha per plaschair la connexiun a l'internet.</li>
+  <li>Sch'il computer u la rait èn protegids dad ina firewall u dad in proxy, controllescha che 
+    &brandShortName; haja ils dretgs necessaris per acceder al web.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Impussibel da chattar la datoteca">
 <!ENTITY fileNotFound.longDesc "<ul><li>Forsa è l'endataziun vegnida renumnada, stizzada u spustada? </li><li>Cuntegna l'adressa in sbagl ortografic, in sbagl da scripziun grond e pitschen u in auter sbagl da scriver? </li><li>Has ti ils dretgs d'access correspundents per chargiar l'endataziun dumandada?</li></ul>">
@@ -71,6 +78,13 @@
 <!ENTITY proxyConnectFailure.longDesc "<p>Il navigatur è vegnì configurà per l'utilisaziun d'in proxy server, ma il proxy refusescha la connexiun.</p><ul><li>Èn las configuraziuns dal proxy correctas? Controllescha per plaschair las configuraziuns ed emprova anc ina giada.</li><li>Permetta il servetsch da proxy connexiuns or da questa rait?</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Impussibel da chattar il proxy server">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Controllescha ch'ils parameters dal proxy server sajan corrects.</li>
+  <li>Controllescha che la connexiun dal computer cun la rait funcziuneschia.</li>
+  <li>Sch'il computer u la rait èn protegids dad ina firewall u dad in proxy, 
+    controllescha che &brandShortName; haja ils dretgs necessaris per acceder al web.</li>
+ </ul>">
 
 <!ENTITY redirectLoop.title "Cirquit da sviament">
 <!ENTITY redirectLoop.longDesc "<p>L'emprova da connectar cun l'adressa dumandada è vegnida interrutta. La website dumandada sviescha la dumonda uschia ch'ella na po mai vegnir terminada.</p><ul><li>Has ti bloccà u deactivà cookies indispensabels per questa website?</li><li><em>AVIS</em>: Per cas ch'i na gida betg d'acceptar ils cookies ed ils problems cun l'adressa dumandada persistan, sa tracti probablamain d'ina configuraziun fallada dal server e betg d'in problem da tes computer.</li></ul>">
