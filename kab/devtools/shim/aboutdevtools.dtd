@@ -40,12 +40,18 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Sekyed, ẓreg, seγti HTML,CSS, akked JavaScript s ufecku am nspector akked Debugger.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Qaεed asmel inek web HTML,CSS, akked JavaScript s ufecku am nspector akked Debugger.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Ifecka n uneflay Firefox nsan s wudem amezwer akken ad tizmireḍ i usenqed n iminig inek.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
