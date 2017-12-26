@@ -10,6 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Sa aché nun huìt ngà sa narán ngà aché nunt nī naran riña daran’ nej sa naga’nāj sò’ nga aché nunt, nī nitāj si dunanun ruhuaj riña gan’ānjt.">
 <!ENTITY firstrun_panel_title_customize "Nagi\&apos;iô\&apos; daj huin ruhuô\&apos;">
 <!ENTITY firstrun_customize_message "Gi\&apos;iaj &brandShortName; si\&apos;iaj.">
+<!ENTITY firstrun_customize_subtext "Nagi’iaj daj garan’ ruhuât ngà nej complemento. Narán riña anuncio, nachrūn a’ngô sa ruhuât nī nadunā dàj gā riña gachē nunt da’ gini’in guìi sò’.">
 <!ENTITY firstrun_bookmarks_title "Sa gini’iājt">
 <!ENTITY firstrun_bookmarks_message "Hiuj na ma nej sa garan ruat doj">
 <!ENTITY firstrun_bookmarks_subtext "Garasun nej nuguan raj sun nichro\&apos; doj da\&apos; nari hio\&apos; doj sa nana\&apos;ui\&apos;.">
@@ -54,16 +55,16 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Versión nga nitaj najña\&apos;aan hua huin na.">
 
-<!ENTITY  crash_reporter_title "Nataj sa guire &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; gua ngo sa guire\&apos; nin ganaran man. Nej san man ni\&apos;iaj ni nachi nitan man rian &brandShortName; nga ganiyi\&apos;i naka unj">
+<!ENTITY  crash_reporter_title "Nataj sa gire\&apos; &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; gua ngo sa gire\&apos; nin ganaran man. Nej san man ni\&apos;iaj ni nachi nitan man rian &brandShortName; nga ganiyi\&apos;i naka unj">
 <!ENTITY  crash_send_report_message3 "Ganato\&apos; gunin &vendorShortName; rayi\&apos;i sa guire\&apos; nan, da\&apos; nagui\&apos;ia">
 <!ENTITY  crash_include_url2 "Gida\&apos;aj dirección ñaj riña ginut akuan\&apos;">
 <!ENTITY  crash_sorry "Si gaman\&apos; rua">
 <!ENTITY  crash_comment "Gachrūn \&apos;ngo sa anin ruhuât (Sa gachrūn ni ga rànga\&apos; man ni\&apos;iaj daran\&apos; duguî\&apos;)">
 <!ENTITY  crash_allow_contact2 "Ga\&apos;nïn riña &vendorShortName; nanà\&apos;uij ñuj da\&apos; gataj na\&apos;an yi\&apos;î sa huaa">
 <!ENTITY  crash_email "Si Korreôt">
-<!ENTITY  crash_closing_alert "¿Gahui nin si nata\&apos; sa guire\&apos; aj?">
-<!ENTITY  sending_crash_report "A\&apos;nin sa guire\&apos; \u2026">
+<!ENTITY  crash_closing_alert "Gahui nī si natà\&apos; nùhuin si gire\&apos;  aj">
+<!ENTITY  sending_crash_report "A\&apos;nint sa gire\&apos; \u2026">
 <!ENTITY  crash_close_label "Ganarun">
 <!ENTITY  crash_restart_label "Nayi\&apos;i naka &brandShortName;">
 
@@ -698,7 +699,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_select2 "Ga\&apos;ui da\&apos; nadunij">
 
 <!ENTITY updater_downloading_title2 "Naduninj &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Guire\&apos; sa naduninj">
+<!ENTITY updater_downloading_title_failed2 "Girè\&apos; sa naduninjt">
 <!ENTITY updater_downloading_select2 "Guru\&apos;ma ra\&apos;a da\&apos; ga\&apos;ue gi\&apos;iaj sunt ngà \&apos;ngo sa nakà naduninjt">
 <!ENTITY updater_downloading_retry2 "Guru\&apos;ma ra\&apos;a da\&apos; nayi\&apos;ì ñuj">
 
