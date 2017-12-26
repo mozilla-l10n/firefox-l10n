@@ -116,6 +116,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; không thể kết nối đến <span id='wrongSystemTime_URL'/> bởi vì đồng hồ máy tính của bạn dường như hiển thị sai thời gian và điều này chặn một kết nối an toàn.</p> <p>Máy tính của bạn đang được cài đặt là <span id='wrongSystemTime_systemDate'/>, trong khi thời gian thực tế là <span id='wrongSystemTime_actualDate'/>. Để khắc phục sự cố này, thay đổi lại đồng hồ của bạn về thời gian chính xác.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; không thẻ kết nối đến <span id='wrongSystemTimeWithoutReference_URL'/> vì đồng hồ máy tính của bạn có vẻ như hiển thị sai thời gian và điều này ngăn chặn kết nối an toàn. </p> <p>Máy tính của bạn đang cài đặt là <span id='wrongSystemTimeWithoutReference_systemDate'/>. Để khắc phục, hãy thay đổi cài đặt ngày giờ cho đúng.</p>">
 
 <!ENTITY certerror.pagetitle1  "Kết nối không bảo mật">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Trang này dùng HTTP Strict Transport Security (HSTS) để chỉ định &brandShortName; chỉ được kết nối với nó một cách bảo mật. Cho nên, không khả thi để thêm ngoại lệ cho chứng chỉ này.">
