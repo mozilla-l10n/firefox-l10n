@@ -7,6 +7,8 @@
 <!ENTITY doNotDownloadImap.label "Para economizar espaço em disco, o recebimento de mensagens do servidor e a  manutenção das cópias locais para uso em modo desconectado podem ser restringidas pela data ou tamanho.">
 <!ENTITY allFoldersOffline.label "Manter mensagens desta conta no computador">
 <!ENTITY allFoldersOffline.accesskey "M">
+<!ENTITY allFoldersOffline2.label "Manter as mensagens em todas as pastas para esta conta neste computador.">
+<!ENTITY allFoldersOfflineNote.label "Nota: Alterar isto afeta todas as pastas nesta conta. Para definir pastas individuais, use o botão Avançadas…">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "a">
 <!ENTITY autosyncNotDownload.label "Não receber mensagens maiores que">
@@ -27,8 +29,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Excluir tudo, exceto as últimas">
 <!ENTITY retentionKeepRecent.accesskey "E">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Sempre excluir as mensagens lidas (sobrescreve a opção de data)">
 <!ENTITY retentionApplyToFlagged.label "Sempre manter mensagens sinalizadas">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Excluir o conteúdo de mensagens com mais de">
@@ -39,13 +39,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronização de mensagens">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Sincronizar localmente todas as mensagens independentemente da data">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Sincronizar os mais recentes">
