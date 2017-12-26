@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Siųsti saitą į įrenginį">
 <!ENTITY  sendLinkToDevice.accesskey         "r">
 <!ENTITY  sendToDeviceFeedback.label         "Išsiųsta!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Eilėje (neprisijungus)">
 <!ENTITY  moveToNewWindow.label              "Perkelti į naują langą">
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  bookmarkAllTabs.label              "Įrašyti į adresyną visas korteles…">
@@ -188,8 +189,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "l">
 
 <!ENTITY backCmd.label                "Atgal">
+<!ENTITY backCmd.accesskey            "A">
 <!ENTITY backButton.tooltip           "Vienu tinklalapiu atgal">
 <!ENTITY forwardCmd.label             "Pirmyn">
+<!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Vienu tinklalapiu pirmyn">
 <!ENTITY backForwardButtonMenu.tooltip "Spustelėję dešiniu pelės mygtuku arba palaikę nuspaustą kairįjį, pamatysite kortelės žurnalą">
 <!ENTITY backForwardButtonMenuMac.tooltip "Palaikę nuspaustą pelės mygtuką, pamatysite kortelės žurnalą">
@@ -231,6 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Šioje svetainėje esate užblokavę išliekančių duomenų saugojimą.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Šioje svetainėje esate užblokavę iškylančiuosius langus.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
 
@@ -355,6 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Tvarkyti meniu ir priemonių juostas">
 <!ENTITY appMenuCustomizeExit.label "Baigti tvarkymą">
 <!ENTITY appMenuCustomizeExit.tooltip "Užbaigti tvarkymą">
+
 <!ENTITY appMenuHistory.showAll.label "Rodyti visą žurnalą">
 <!ENTITY appMenuHistory.clearRecent.label "Valyti žurnalą…">
 <!ENTITY appMenuHistory.restoreSession.label "Atkurti paskiausiąjį seansą">
@@ -388,6 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Prisijungti prie „Sync“">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Tvarkyti įrenginius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Rodyti sinchronizuotų kortelių parankinę">
+
 
 <!ENTITY appMenuRecentHighlights.label "Paskiausi akcentai">
 
@@ -750,6 +756,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Atlikta">
 <!ENTITY editBookmark.removeBookmark.accessKey       "š">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Saugus ryšys">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
 <!ENTITY identity.connectionFile "Šis tinklalapis yra įrašytas jūsų kompiuteryje.">
@@ -809,6 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Ieškoti tarp sinchronizuotų kortelių">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +989,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 
+
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso lauką">
 <!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso lauko">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Siųsti kortelę į įrenginį">
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
