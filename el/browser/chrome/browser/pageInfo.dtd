@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Ερώτηση πάντα">
 <!ENTITY  permAllow             "Επιτρέπεται">
 <!ENTITY  permAllowSession      "Να επιτρέπεται για αυτή τη συνεδρία">
+<!ENTITY  permHide              "Απόκρυψη">
 <!ENTITY  permBlock             "Φραγή">
 <!ENTITY  permissionsFor        "Δικαιώματα για:">
 <!ENTITY  permPlugins           "Ενεργοποίηση πρόσθετων λειτουργιών">

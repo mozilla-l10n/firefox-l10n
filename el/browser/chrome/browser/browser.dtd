@@ -752,6 +752,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Ασφάλεια ιστοσελίδας">
 
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
@@ -806,6 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Καμία συγχρονισμένη καρτέλα… ακόμη!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Θέλετε να δείτε τις καρτέλες σας από άλλες συσκευές εδώ;">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Συνδεθείτε για να δείτε μια λίστα καρτελών από τις άλλες συσκευές σας.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Ο λογαριασμός σας πρέπει να επαληθευτεί.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Δεν υπάρχουν ανοικτές καρτέλες">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ανοίξτε τις προτιμήσεις του &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -813,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Αναζήτηση συγχρονισμένων καρτελών">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Σύνδεση άλλης συσκευής">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
