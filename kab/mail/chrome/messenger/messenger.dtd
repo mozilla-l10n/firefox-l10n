@@ -459,6 +459,8 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Izegrar imernan">
 <!ENTITY addons.accesskey "z">
+<!ENTITY addonPrefs.label "Iγewwaṛen n uzegrir">
+<!ENTITY addonPrefsUnix.label "Ismenyifen n uzegrir">
 <!ENTITY activitymanager.label "Amsefrak n urmud">
 <!ENTITY activitymanager.accesskey "r">
 <!ENTITY imAccountsStatus.label "Addad n udiwenni usrid">

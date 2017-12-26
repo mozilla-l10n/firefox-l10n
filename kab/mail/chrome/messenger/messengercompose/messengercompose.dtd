@@ -107,7 +107,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY moveAttachmentTopPanelBtn.label "Senkez s afella">
+<!ENTITY moveAttachmentUpPanelBtn.label "Ali">
 <!ENTITY moveAttachmentDownPanelBtn.label "Ader">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Senkez s adda">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
