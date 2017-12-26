@@ -85,3 +85,4 @@
 <!ENTITY inadequateSecurityError.title "Kết nối của bạn không an toàn">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> sử dụng công nghệ bảo mật lỗi thời và dễ bị tấn tông. Một kẻ tấn công có thể dễ dàng tiết lộ thông tin mà bạn nghĩ là an toàn. Người quản trị web sẽ cần phải sửa lỗi hệ thống máy chủ đầu tiên trước khi bạn có thể truy cập vào trang web.</p><p>Mã lỗi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
