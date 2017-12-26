@@ -17,7 +17,7 @@
 <!ENTITY  manualTypeRadio2.label        "Χειροκίνητη ρύθμιση διαμεσολαβητή">
 <!ENTITY  manualTypeRadio2.accesskey    "χ">
 <!ENTITY  autoTypeRadio2.label          "URL αυτόματης ρύθμισης διαμεσολαβητή">
-<!ENTITY  autoTypeRadio2.accesskey      "A">
+<!ENTITY  autoTypeRadio2.accesskey      "α">
 <!ENTITY  reload.label                  "Ανανέωση">
 <!ENTITY  reload.accesskey              "ν">
 <!ENTITY  ftp2.label                    "Διαμεσολαβητής FTP">
@@ -36,7 +36,7 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port2.label                   "Θύρα">
 <!ENTITY  HTTPport.accesskey            "Θ">
-<!ENTITY  SSLport.accesskey             "υ">
+<!ENTITY  SSLport.accesskey             "ύ">
 <!ENTITY  FTPport.accesskey             "ρ">
 <!ENTITY  SOCKSport.accesskey           "α">
 <!ENTITY  noproxy2.label                "Χωρίς διαμεσολαβητή για">

@@ -24,6 +24,7 @@
 <!ENTITY engine.addresses.label     "Διευθύνσεις">
 <!ENTITY engine.addresses.accesskey "Δ">
 <!ENTITY engine.creditcards.label   "Πιστωτικές κάρτες">
+<!ENTITY engine.creditcards.title   "Ονόματα, αριθμοί και ημερομηνίες λήξης (μόνο για υπολογιστές)">
 <!ENTITY engine.creditcards.accesskey "Π">
 
 <!-- Device Settings -->
@@ -69,7 +70,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "Γ">
 
 <!ENTITY signedOut.caption            "Πάρτε μαζί σας το διαδίκτυο">
-<!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις προτιμήσεις σας σε όλες τις συσκευές σας.">
+<!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα, καθώς και τις προτιμήσεις σας σε όλες τις συσκευές σας.">
 <!ENTITY signedOut.accountBox.title   "Σύνδεση με ένα λογαριασμό Firefox">
 <!ENTITY signedOut.accountBox.create2 "Δεν έχετε λογαριασμό; Ξεκινήστε">
 <!ENTITY signedOut.accountBox.create2.accesskey "Γ">

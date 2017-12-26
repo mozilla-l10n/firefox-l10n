@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label   "Σελιδοδείκτες κινητού">
 <!ENTITY viewBookmarksSidebar2.label        "Προβολή πλευρικής στήλης σελιδοδεικτών">
 <!ENTITY hideBookmarksSidebar.label         "Απόκρυψη πλευρικής στήλης σελιδοδεικτών">
-<!ENTITY viewBookmarksToolbar.label         "Προβολή εργαλειοθήκης σελιδοδεικτών">
+<!ENTITY viewBookmarksToolbar.label         "Προβολή γραμμής σελιδοδεικτών">
 <!ENTITY hideBookmarksToolbar.label         "Απόκρυψη γραμμής σελιδοδεικτών">
 <!ENTITY searchBookmarks.label              "Αναζήτηση σελιδοδεικτών">
 <!ENTITY bookmarkingTools.label             "Εργαλεία σελιδοδεικτών">
@@ -331,7 +331,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Προβολή">
 <!ENTITY viewMenu.accesskey       "ρ">
-<!ENTITY viewToolbarsMenu.label       "Εργαλειοθήκες">
+<!ENTITY viewToolbarsMenu.label       "Γραμμές εργαλείων">
 <!ENTITY viewToolbarsMenu.accesskey     "ρ">
 <!ENTITY viewSidebarMenu.label "Πλευρική στήλη">
 <!ENTITY viewSidebarMenu.accesskey "ε">
@@ -391,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στην εργαλειοθήκη">
+<!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στη γραμμή εργαλείων">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Α">
 <!ENTITY customizeMenu.addToPanel.label "Προσθήκη στο μενού">
 <!ENTITY customizeMenu.addToPanel.accesskey "Μ">
@@ -402,7 +402,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Προσθήκη στο αναδυόμενο μενού">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "Μ">
-<!ENTITY customizeMenu.moveToToolbar.label "Μετακίνηση στην εργαλειοθήκη">
+<!ENTITY customizeMenu.moveToToolbar.label "Μετακίνηση στη γραμμή εργαλείων">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ο">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
@@ -852,7 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Σύρετε τα αγαπημένα σας στοιχεία στη γραμμή εργαλείων ή το αναδυόμενο μενού.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Θέλετε περισσότερα εργαλεία;">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα σε χιλιάδες πρόσθετα">
 <!ENTITY customizeMode.restoreDefaults "Επαναφορά προεπιλογών">
 <!ENTITY customizeMode.done "Τέλος">
 <!ENTITY customizeMode.titlebar "Γραμμή τίτλου">
@@ -1009,3 +1009,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Οι λειτουργίες προσβασιμότητας ενεργοποιήθηκαν">
