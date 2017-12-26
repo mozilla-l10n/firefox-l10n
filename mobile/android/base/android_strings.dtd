@@ -290,6 +290,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "Προσαρμοσμένες καρτέλες">
+<!ENTITY pref_custom_tabs_summary4 "Να επιτρέπεται σε εφαρμογές να ανοίγουν περιεχόμενο σε καρτέλα ταχείας φόρτωσης">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -506,6 +507,8 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Η σελίδα καρφιτσώθηκε στις κορυφαίες ιστοσελίδες">
+<!ENTITY unpinned_page_from_top_sites "Η σελίδα ξεκαρφιτσώθηκε από τις κορυφαίες ιστοσελίδες">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -864,8 +867,11 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY fullscreen_warning "Εισήχθη σε πλήρη οθόνη">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Προσθήκη στην αρχική οθόνη">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Προσθήκη στην αρχική οθόνη">
 <!ENTITY pwa_continue_to_website "Συνέχεια στην ιστοσελίδα">
+<!ENTITY pwa_onboarding_sumo "Μπορείτε να προσθέσετε εύκολα αυτή την ιστοσελίδα στην αρχική οθόνη για να άμεση πρόσβαση και ταχύτερη περιήγηση, σαν να ήταν εφαρμογή.">
