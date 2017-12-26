@@ -10,8 +10,25 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "שעות">
+<!ENTITY time.minute.label "דקות">
+<!ENTITY time.second.label "שניות">
+<!ENTITY time.millisecond.label "מילישניות">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "שנה">
 <!ENTITY date.month.placeholder "חודש">
 <!ENTITY date.day.placeholder "יום">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "שנה">
+<!ENTITY date.month.label "חודש">
+<!ENTITY date.day.label "יום">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "ניקוי">

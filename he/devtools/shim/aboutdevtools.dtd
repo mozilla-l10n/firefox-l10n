@@ -54,6 +54,7 @@
 
 <!ENTITY  aboutDevtools.welcome.title "ברוכים הבאים לכלי הפיתוח של Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Mozilla Developer Newsletter">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
