@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Додатки">
 
 <!ENTITY search.placeholder                   "Шукати серед усіх додатків">
+
+<!ENTITY search.placeholder2                  "Пошук на addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Пошук">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "На одну сторінку назад">
 <!ENTITY cmd.forward.tooltip                  "На сторінку вперед">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Деякі розширення не можуть бути перевірені">
 <!ENTITY showAllExtensions.button.label       "Показати всі розширення">
@@ -258,7 +261,6 @@
 <!ENTITY pluginDeprecation.description "Чогось не вистачає? Деякі плагіни більше не підтримуються в &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Докладніше.">
 
-<!ENTITY legacyWarning.description "Чогось не вистачає? Деякі розширення більше не підтримуються в &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Показати застарілі розширення">
 <!ENTITY legacyExtensions.title "Застарілі розширення">
 <!ENTITY legacyExtensions.description "Ці розширення не відповідають поточним стандартам &brandShortName;, тому вони були вимкнені.">
