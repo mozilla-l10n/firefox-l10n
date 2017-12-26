@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "Για εξοικονόμηση αποθηκευτικού χώρου η λήψη μηνυμάτων και η διατήρηση τοπικών αντιγράφων για εργασία χωρίς σύνδεση, μπορεί να περιοριστεί κατά ημερομηνία ή μέγεθος. ">
 <!ENTITY allFoldersOffline.label "Διατήρηση μηνυμάτων αυτού του λογαριασμού σε αυτόν τον υπολογιστή">
 <!ENTITY allFoldersOffline.accesskey "Δ">
+<!ENTITY allFoldersOffline2.label "Να αποθηκεύονται τα μηνύματα σε όλους τους φακέλους για αυτό τον λογαριασμό σε αυτό τον υπολογιστή.">
+<!ENTITY allFoldersOffline2.accesskey "ο">
+<!ENTITY allFoldersOfflineNote.label "Σημείωση: Η αλλαγή θα επηρεάσει όλους τους φακέλους για το λογαριασμό. Για να ορίσετε ξεχωριστά τους φακέλους, πατήστε το πλήκτρο Για προχωρημένους…">
 <!ENTITY offlineNotDownload.label "Μηνύματα μεγαλύτερα από">
 <!ENTITY offlineNotDownload.accesskey "Μ">
 <!ENTITY autosyncNotDownload.label "Να μην γίνεται λήψη μηνυμάτων μεγαλυτέρων από">

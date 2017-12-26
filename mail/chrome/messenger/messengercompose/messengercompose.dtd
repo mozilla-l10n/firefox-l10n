@@ -85,6 +85,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Μετονομασία συνημμένου…">
 <!ENTITY renameAttachmentCmd.accesskey "τ">
+<!ENTITY reorderAttachmentsCmd.label "Επανακατάταξη Συνημμένων…">
+<!ENTITY reorderAttachmentsCmd.accesskey "π">
+<!ENTITY reorderAttachmentsCmd.key "χ">
 <!ENTITY selectAllCmd.label "Επιλογή όλων">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "λ">
@@ -104,31 +107,49 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Επανακατάταξη συνημμένων">
+<!ENTITY moveAttachmentTopPanelBtn.label "Μετακίνηση στην κορυφή">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "Κ">
+<!ENTITY moveAttachmentUpPanelBtn.label "Μετακίνηση επάνω">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "Ε">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Μετακίνηση μαζί">
 <!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "κ">
 <!ENTITY moveAttachmentDownPanelBtn.label "Μετακίνηση προς τα κάτω">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "Τ">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Μετακίνηση στο κάτω μέρος">
 <!ENTITY moveAttachmentBottomPanelBtn.accesskey "Κ">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Ταξινόμηση επιλεγμένων: Α - Ω">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
      the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Ταξινόμηση επιλεγμένων: Ω - Α">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ταξινόμηση: Α - Ω">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsPanelBtn.Sort.ZA.accesskey,
      sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
      sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
      taken from the word "Sort", not from "Selection" or the sort direction part. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "o">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ταξινόμηση: Ω - Α">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "o">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ταξινόμηση επιλεγμένων: Α - Ω">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "o">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ταξινόμηση επιλεγμένων: Ω - Α">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Προβολή">
@@ -310,6 +331,8 @@
 <!ENTITY removeAttachment.accesskey "ρ">
 <!ENTITY renameAttachment.label "Μετονομασία...">
 <!ENTITY renameAttachment.accesskey "τ">
+<!ENTITY reorderAttachments.label "Επανακατάταξη συνημμένων…">
+<!ENTITY reorderAttachments.accesskey "π">
 <!ENTITY selectAll.label "Επιλογή όλων">
 <!ENTITY selectAll.accesskey "λ">
 <!ENTITY attachFile.label "Επισύναψη αρχείου...">

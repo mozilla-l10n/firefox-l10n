@@ -21,8 +21,12 @@
 <!ENTITY openHelp.accesskey "χ">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Βοήθεια για το &brandShortName;">
+<!ENTITY openHelpMac2.label "Βοήθεια για το &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Σχετικά με το &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "ρ">
+
+<!ENTITY aboutMenuCmd2.label "Σχετικά με το &brandFullName;">
+<!ENTITY aboutMenuCmd2.accesskey "Σ">
