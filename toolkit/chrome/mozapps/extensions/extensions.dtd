@@ -87,7 +87,7 @@
 <!ENTITY cmd.preferencesWin.accesskey         "λ">
 <!ENTITY cmd.preferencesUnix.label            "Προτιμήσεις">
 <!ENTITY cmd.preferencesUnix.accesskey        "Π">
-<!ENTITY cmd.about.label                      "Περί">
+<!ENTITY cmd.about.label                      "Πληροφορίες">
 <!ENTITY cmd.about.accesskey                  "ε">
 
 <!ENTITY cmd.enableAddon.label                "Ενεργοποίηση">

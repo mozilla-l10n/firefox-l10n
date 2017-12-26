@@ -46,7 +46,7 @@
 <!ENTITY rights2.webservices-header "Διαδικτυακές υπηρεσίες πληροφοριών του &brandFullName;">
 
 <!-- point 5 -->
-<!ENTITY rights.intro-point5 "Για την αναπαραγωγή ορισμένων τύπων περιεχομένου βίντεο, ο &brandShortName; κατεβάζει ορισμένα πρόσθετα αποκρυπτογράφησης περιεχομένου από τρίτους.">
+<!ENTITY rights.intro-point5 "Για την αναπαραγωγή ορισμένων τύπων περιεχομένου βίντεο, το &brandShortName; κάνει λήψη ορισμένων αρθρωμάτων αποκρυπτογράφησης περιεχομένου από τρίτους.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
