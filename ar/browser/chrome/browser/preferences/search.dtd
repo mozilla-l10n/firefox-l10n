@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "استخدم شريط العنوان للبحث و التنقل">
 <!ENTITY searchBar.shown.label                 "أضف شريط البحث إلى شريط الأدوات">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "فضّل اقتراحات البحث على تأريخ التصفح في نتائج شريط العنوان">
+
 <!ENTITY defaultSearchEngine.label             "محرك البحث المبدئي">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "اختر محرك البحث المبدئي في شريطي العنواوين و البحث.">
