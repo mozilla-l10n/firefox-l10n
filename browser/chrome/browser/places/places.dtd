@@ -85,7 +85,7 @@
 <!ENTITY col.dateadded.label     "Προσθήκη">
 <!ENTITY col.lastmodified.label  "Τελευταία τροποποίηση">
 
-<!ENTITY historySearch.placeholder  "Ιστορικό αναζήτησης">
+<!ENTITY historySearch.placeholder  "Αναζήτηση ιστορικού">
 <!ENTITY bookmarksSearch.placeholder  "Αναζήτηση σελιδοδεικτών">
 
 <!ENTITY cmd.find.key  "f">
@@ -111,7 +111,7 @@
 <!ENTITY bySite.label             "Κατά σελίδα">
 <!ENTITY bySite.accesskey         "σ">
 <!ENTITY byMostVisited.label      "Κατά συχνότητα">
-<!ENTITY byMostVisited.accesskey  "ψ">
+<!ENTITY byMostVisited.accesskey  "χ">
 <!ENTITY byLastVisited.label      "Κατά τελευταία επίσκεψη">
 <!ENTITY byLastVisited.accesskey  "τ">
 <!ENTITY byDayAndSite.label       "Κατά ημερομηνία και σελίδα">

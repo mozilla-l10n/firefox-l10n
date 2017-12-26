@@ -84,12 +84,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Εργασία χωρίς σύνδεση">
 <!ENTITY goOfflineCmd.accesskey "χ">
 
-<!ENTITY menubarCmd.label "Γραμμή εργαλείων μενού">
-<!ENTITY menubarCmd.accesskey "θ">
-<!ENTITY navbarCmd.label "Γραμμή εργαλείων πλοήγησης">
+<!ENTITY menubarCmd.label "Γραμμή μενού">
+<!ENTITY menubarCmd.accesskey "μ">
+<!ENTITY navbarCmd.label "Γραμμή πλοήγησης">
 <!ENTITY personalbarCmd.label "Γραμμή σελιδοδεικτών">
 <!ENTITY personalbarCmd.accesskey "γ">
-<!ENTITY bookmarksToolbarItem.label "Στοιχεία γραμμής εργαλείων σελιδοδεικτών">
+<!ENTITY bookmarksToolbarItem.label "Στοιχεία γραμμής σελιδοδεικτών">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Ανανέωση όλων των καρτελών">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ο">
@@ -400,7 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "Προσθήκη στο μενού">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Προσθήκη στο αναδυόμενο μενού">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "Μ">
 <!ENTITY customizeMenu.moveToToolbar.label "Μετακίνηση στην εργαλειοθήκη">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ο">
@@ -411,9 +411,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Μετακίνηση στο μενού">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ο">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Καρφίτσωμα στο μενού">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Καρφίτσωμα στο αναδυόμενο μενού">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "Κ">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ξεκαρφίτσωμα από το μενού">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ξεκαρφίτσωμα από το αναδυόμενο μενού">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "Ξ">
 <!ENTITY customizeMenu.removeFromToolbar.label "Αφαίρεση από τη γραμμή εργαλείων">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
@@ -800,9 +800,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Συγχρονισμένες καρτέλλες">
+<!ENTITY syncTabsMenu3.label     "Συγχρονισμένες καρτέλες">
 
-<!ENTITY syncedTabs.sidebar.label              "Συγχρονισμένες καρτέλλες">
+<!ENTITY syncedTabs.sidebar.label              "Συγχρονισμένες καρτέλες">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Συνδεθείτε στο Firefox από τις άλλες συσκευές σας για να δείτε τις καρτέλες τους εδώ.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Καμία συγχρονισμένη καρτέλα… ακόμη!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Θέλετε να δείτε τις καρτέλες σας από άλλες συσκευές εδώ;">
@@ -850,21 +850,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Ρ">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Σύρετε τα αγαπημένα σας στοιχεία στη γραμμή εργαλείων ή το αναδιπλούμενο μενού.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Σύρετε τα αγαπημένα σας στοιχεία στη γραμμή εργαλείων ή το αναδυόμενο μενού.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Θέλετε περισσότερα εργαλεία;">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα">
 <!ENTITY customizeMode.restoreDefaults "Επαναφορά προεπιλογών">
 <!ENTITY customizeMode.done "Τέλος">
 <!ENTITY customizeMode.titlebar "Γραμμή τίτλου">
+<!ENTITY customizeMode.extraDragSpace "Χώρος μεταφοράς">
 <!ENTITY customizeMode.toolbars2 "Γραμμές εργαλειών">
 <!ENTITY customizeMode.lwthemes "Θέματα">
 <!ENTITY customizeMode.lwthemes.myThemes "Τα θέματά μου">
 <!ENTITY customizeMode.lwthemes.recommended "Προτεινόμενα">
 <!ENTITY customizeMode.lwthemes.menuManage "Διαχείριση">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "μ">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "χ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Λήψη περισσότερων θεμάτων">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "γ">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Λ">
 <!ENTITY customizeMode.emptyOverflowList.description "Σύρετε και εναποθέστε στοιχεία εδώ για να τα έχετε πάντα κοντά, αλλά όχι στη γραμμή εργαλείων…">
+<!ENTITY customizeMode.overflowList.title2 "Αναδυόμενο μενού">
+<!ENTITY customizeMode.overflowList.description "Σύρετε και εναποθέστε στοιχεία εδώ για να τα έχετε πάντα κοντά, αλλά όχι στη γραμμή εργαλείων…">
 <!ENTITY customizeMode.uidensity "Πυκνότητα">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -993,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
 <!ENTITY pageAction.removeFromUrlbar.label "Αφαίρεση από τη γραμμή διευθύνσεων">
 
+<!ENTITY pageAction.allowInUrlbar.label "Εμφάνιση στη γραμμή διευθύνσεων">
+<!ENTITY pageAction.disallowInUrlbar.label "Απόκρυψη από τη γραμμή διευθύνσεων">
+<!ENTITY pageAction.manageExtension.label "Διαχείριση επέκτασης…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Αποστολή καρτέλας σε συσκευή">
 <!ENTITY sendToDevice.syncNotReady.label "Συγχρονισμός συσκευών…">
