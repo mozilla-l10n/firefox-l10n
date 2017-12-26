@@ -7,9 +7,9 @@
 
 <!ENTITY treehead.sitename2.label     "Ιστοσελίδα">
 <!ENTITY treehead.status.label        "Κατάσταση">
-<!ENTITY removepermission2.label      "Αφαίρεση Ιστοσελίδας">
+<!ENTITY removepermission2.label      "Αφαίρεση ιστοσελίδας">
 <!ENTITY removepermission2.accesskey  "φ">
-<!ENTITY removeallpermissions2.label  "Αφαίρεση όλων των Ιστοσελίδων">
+<!ENTITY removeallpermissions2.label  "Αφαίρεση όλων των ιστοσελίδων">
 <!ENTITY removeallpermissions2.accesskey "λ">
 <!ENTITY address2.label               "Διεύθυνση ιστοσελίδας">
 <!ENTITY address2.accesskey           "ι">
