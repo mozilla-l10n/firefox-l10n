@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "b">
 <!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addonPrefs.label "Add-onopsjes">
+<!ENTITY addonPrefs.accesskey "A">
+<!ENTITY addonPrefsUnix.label "Add-onfoarkarren">
+<!ENTITY addonPrefsUnix.accesskey "f">
+<!ENTITY addonNoPrefs.label "Gjin add-onynstellingen fûn.">
 <!ENTITY activitymanager.label "Aktiviteitebehearder">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Chatsteat">

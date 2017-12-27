@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "Om skiifromte te besparjen, berjochten downloade fan de server en lokale kopyen bewarje foar offline gebrûk kin beheint wurde troch leeftiid of grutte.">
 <!ENTITY allFoldersOffline.label "Berjochten foar dizze account op dizze kompjûter bewarje">
 <!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Berjochten yn alle mappen foar dizze account op dizze kompjûter bewarje.">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Let op: dizze wiziging hat effekt op alle mappen yn dizze account. Brûk de knop Avansearre… om yndividuele mappen yn te stellen.">
 <!ENTITY offlineNotDownload.label "Berjochten grutter as">
 <!ENTITY offlineNotDownload.accesskey "r">
 <!ENTITY autosyncNotDownload.label "Berjochten net downloade dy't grutter binne as">
