@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "med avsenderens navn og forhåndsvisning">
 <!ENTITY  buddyInfoOnly.label                 "bare med avsenderens navn">
 <!ENTITY  dummyNotification.label             "uten noe info">
+<!ENTITY  getAttention.label                  "Blink i oppgavelinjen">
+<!ENTITY  getAttention.accesskey              "B">
+<!ENTITY  getAttentionMac.label               "Animer dock-ikonet">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "l">
 <!ENTITY  chatSound.label                     "Spill av en lyd">
 <!ENTITY  play.label                          "Spill av">

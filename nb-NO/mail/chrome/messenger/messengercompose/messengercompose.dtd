@@ -121,23 +121,35 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Sorter utvalg: A - Z">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
      the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Sorter utvalg: Z - A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Sorter: A - Z">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsPanelBtn.Sort.ZA.accesskey,
      sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
      sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
      taken from the word "Sort", not from "Selection" or the sort direction part. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "o">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Sorter: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "o">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Sorter utvalg: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "o">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Sorter utvalg: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "o">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vis">
@@ -319,6 +331,8 @@
 <!ENTITY removeAttachment.accesskey "v">
 <!ENTITY renameAttachment.label "Endre navn …">
 <!ENTITY renameAttachment.accesskey "E">
+<!ENTITY reorderAttachments.label "Omorganiser vedlegg…">
+<!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY selectAll.label "Merk alt">
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Legg ved filer …">
