@@ -233,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "आपने इस वेबसाइट पर पॉप-अप अवरुद्ध किए हैं.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दिखाएँ">
 
 <!ENTITY searchItem.title             "खोज">
@@ -992,6 +993,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "पतापट्टी में जोड़े">
 <!ENTITY pageAction.removeFromUrlbar.label "पतापट्टी से हटायें">
 
+<!ENTITY pageAction.allowInUrlbar.label "पतापट्टी में दिखाएँ">
+<!ENTITY pageAction.disallowInUrlbar.label "पता पट्टी में न दिखाएँ">
 
 <!ENTITY pageAction.sendTabToDevice.label "टैब को उपकरण में भेजें">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरण सिंक हो रहा है…">
