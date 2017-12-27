@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "보낸 사람 이름과 메시지 미리보기 표시">
 <!ENTITY  buddyInfoOnly.label                 "보낸 사람 이름만 표시">
 <!ENTITY  dummyNotification.label             "추가 정보 표시하지 않음">
+<!ENTITY  getAttention.label                  "작업 표시줄 항목을 번쩍임">
+<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "독 아이콘 애니메이션">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "소리 재생">
 <!ENTITY  play.label                          "재생">
