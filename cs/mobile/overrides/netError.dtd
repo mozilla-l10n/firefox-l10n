@@ -44,7 +44,7 @@
 
 <!ENTITY fileAccessDenied.title "Přístup k souboru byl odepřen">
 <!ENTITY fileAccessDenied.longDesc "<ul>
-  <li>Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.</li>
+  <li>Možná byl odstraněn, přesunut nebo jeho oprávnění zabraňují přístupu.</li>
 </ul>">
 
 <!ENTITY generic.title "Nepodařilo se dokončit požadavek">
