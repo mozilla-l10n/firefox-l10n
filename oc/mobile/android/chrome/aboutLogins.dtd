@@ -4,7 +4,7 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "Se connectar">
+<!ENTITY aboutLogins.title                       "Identificants">
 <!ENTITY aboutLogins.update                      "Metre a jorn">
 <!ENTITY aboutLogins.emptyLoginText              "Gardatz vòstres identificants segurs">
 <!ENTITY aboutLogins.emptyLoginHint              "Los identificants e los senhals que salvatz amb &brandShortName; s'afichan aquí.">
