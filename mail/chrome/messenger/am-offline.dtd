@@ -7,6 +7,8 @@
 <!ENTITY doNotDownloadImap.label "Pour économiser de l’espace disque, le téléchargement des messages depuis le serveur et la conservation des copies peuvent être restreints par âge et par taille.">
 <!ENTITY allFoldersOffline.label "Conserver les messages de ce compte sur cet ordinateur">
 <!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Conserver les messages de tous les dossiers de ce compte sur cet ordinateur">
+<!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY offlineNotDownload.label "Les messages dont la taille dépasse">
 <!ENTITY offlineNotDownload.accesskey "t">
 <!ENTITY autosyncNotDownload.label "Ne pas télécharger les messages dont la taille dépasse">
