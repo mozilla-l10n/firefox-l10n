@@ -156,6 +156,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Wurdearrring">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latintens">
 
+<!ENTITY aboutSupport.intlTitle "Ynternasjonalisaasje &amp; lokalisaasje">
 <!ENTITY aboutSupport.intlAppTitle "Applikaasjeynstellingen">
 <!ENTITY aboutSupport.intlLocalesRequested "Fersochte talen">
 <!ENTITY aboutSupport.intlLocalesAvailable "Beskikbere talen">
