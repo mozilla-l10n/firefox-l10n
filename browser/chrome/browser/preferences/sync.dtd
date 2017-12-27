@@ -7,6 +7,7 @@
 <!ENTITY engine.bookmarks.label     "북마크">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "탭 열기">
+<!ENTITY engine.tabs.title          "모든 동기화된 장치에서 열리는 항목의 목록">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "방문 기록">
 <!ENTITY engine.history.accesskey   "r">
@@ -29,6 +30,7 @@
 <!ENTITY engine.addresses.title     "저장한 우편 주소(데스크탑)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "신용카드">
+<!ENTITY engine.creditcards.title   "이름, 숫자 그리고 만료 날짜 (데스크톱만)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->

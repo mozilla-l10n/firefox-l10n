@@ -156,6 +156,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "비율">
 <!ENTITY aboutSupport.mediaDeviceLatency "지연">
 
+<!ENTITY aboutSupport.intlTitle "국제화 &amp; 현지화">
+<!ENTITY aboutSupport.intlAppTitle "응용 프로그램 설정">
 <!ENTITY aboutSupport.intlLocalesRequested "요청된 언어">
 <!ENTITY aboutSupport.intlLocalesAvailable "사용 가능한 언어">
 <!ENTITY aboutSupport.intlLocalesSupported "응용 프로그램 언어">
