@@ -11,10 +11,19 @@
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "लॉग इन">
+<!ENTITY engine.logins.title        "आपके द्वारा सहेजे गए उपयोगकर्ता नाम तथा पासवर्ड">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "विकल्प">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "वरीयताएँ">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.title         "आपके द्वारा परिवर्तित की गई सामान्य, गोपनीयता और सुरक्षा सेटिंग्स">
 <!ENTITY engine.addons.label        "सहयुक्तियाँ">
+<!ENTITY engine.addons.title        "Firefox डेस्कटॉप के लिए एक्सटेंशन और थीम">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "पता">
 <!ENTITY engine.addresses.accesskey "e">
