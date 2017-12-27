@@ -12,6 +12,7 @@
 <!ENTITY engine.history.label       "Гісторыя">
 <!ENTITY engine.history.accesskey   "Г">
 <!ENTITY engine.logins.label        "Лагіны">
+<!ENTITY engine.logins.title        "Імёны карыстальніка і паролі, якія вы захавалі">
 <!ENTITY engine.logins.accesskey    "Л">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -21,12 +22,15 @@
 <!ENTITY engine.prefsWin.accesskey  "Н">
 <!ENTITY engine.prefs.label         "Налады">
 <!ENTITY engine.prefs.accesskey     "Н">
+<!ENTITY engine.prefs.title         "Змененыя вамі налады: Агульныя, Прыватнасць і бяспека">
 <!ENTITY engine.addons.label        "Дадаткі">
 <!ENTITY engine.addons.title        "Пашырэнні і тэмы для настольнага Firefox">
 <!ENTITY engine.addons.accesskey    "Д">
 <!ENTITY engine.addresses.label     "Адрасы">
+<!ENTITY engine.addresses.title     "Паштовыя адрасы, якія вы захавалі (толькі для камп'ютара)">
 <!ENTITY engine.addresses.accesskey "а">
 <!ENTITY engine.creditcards.label   "Крэдытныя карты">
+<!ENTITY engine.creditcards.title   "Імёны, нумары і тэрміны дзеяння (толькі для камп'ютара)">
 <!ENTITY engine.creditcards.accesskey "К">
 
 <!-- Device Settings -->
