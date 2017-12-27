@@ -20,11 +20,12 @@
 <!ENTITY            renameButton.accesskey "n">
 <!ENTITY            deleteButton.label     "Xóa Hồ Sơ…">
 <!ENTITY            deleteButton.accesskey "X">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; lưu thông tin về các thiết lập, tùy chọn, và các danh mục khác trong hồ sơ người dùng của bạn.">
 
 <!ENTITY            offlineState.label    "Làm việc ngoại tuyến">
 <!ENTITY            offlineState.accesskey "v">
 
-
+<!ENTITY            useSelected.label       "Sử dụng cấu hình đã chọn mà không hỏi lại khi khởi động">
+<!ENTITY            useSelected.accesskey   "s">
