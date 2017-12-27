@@ -189,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "f">
 
 <!ENTITY backCmd.label                "Tebek">
+<!ENTITY backCmd.accesskey            "T">
 <!ENTITY backButton.tooltip           "Ien side tebek gean">
 <!ENTITY forwardCmd.label             "Foarút">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Ien side foarút gean">
 <!ENTITY backForwardButtonMenu.tooltip "Klik mei rjochts of hâld yndrukt om skiednis te toanen">
 <!ENTITY backForwardButtonMenuMac.tooltip "Hâld yndrukt om skiednis te toanen">
 <!ENTITY reloadCmd.label              "Opnij lade">
+<!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY stopCmd.label                "Beëinigje">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "It adres yn de lokaasjebalke iepenje">
 <!ENTITY printButton.label            "Ofdrukke">
@@ -232,6 +236,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Jo hawwe permaninte opslach foar dizze website blokkearre.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Jo hawwe pop-ups foar dizze website blokkearre.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Jo hawwe canvas-gegevensekstraksje foar dizze website blokkearre.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Skiednis toane">
 
@@ -569,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "As eftergrûn ynstelle">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "e">
 <!ENTITY bookmarkPageCmd2.label       "Blêdwizer foar dizze side meitsje">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Blêdwizer foar dizze keppeling meitsje">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Blêdwizer foar dit dielfinster meitsje">
@@ -991,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Start &brandShorterName; opnij om te fernijen">
 
+<!ENTITY newTabControlled.message "In útwreiding hat de side dy't jo sjogge by it iepenjen fan in nij ljepblêd wizige. As jo dizze wiziging net wolle, kinne jo jo ynstellingen weromsette.">
 <!ENTITY newTabControlled.header.message "Jo nije ljepblêd is wizige.">
 <!ENTITY newTabControlled.keepButton.label "Wizigingen bewarje">
 <!ENTITY newTabControlled.keepButton.accesskey "W">

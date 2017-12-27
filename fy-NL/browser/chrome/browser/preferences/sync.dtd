@@ -7,10 +7,12 @@
 <!ENTITY engine.bookmarks.label     "Blêdwizers">
 <!ENTITY engine.bookmarks.accesskey "w">
 <!ENTITY engine.tabs.label2         "Iepen ljeplêden">
+<!ENTITY engine.tabs.title          "In list fan wat op alle syngronisearre apparaten iepene is">
 <!ENTITY engine.tabs.accesskey      "b">
 <!ENTITY engine.history.label       "Skiednis">
 <!ENTITY engine.history.accesskey   "n">
 <!ENTITY engine.logins.label        "Oanmeldingen">
+<!ENTITY engine.logins.title        "Brûkersnammen en wachtwurden dy't jo bewarre hawwe">
 <!ENTITY engine.logins.accesskey    "O">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
