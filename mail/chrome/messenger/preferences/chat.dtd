@@ -33,7 +33,7 @@ sentence. -->
 <!ENTITY  dummyNotification.label             "utan nokon info">
 <!ENTITY  getAttention.label                  "Blink i oppgåvelinja">
 <!ENTITY  getAttention.accesskey              "B">
-<!ENTITY  getAttentionMac.label               "Animer dokkikonet">
+<!ENTITY  getAttentionMac.label               "Animer dock-ikonet">
 <!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "l">
 <!ENTITY  chatSound.label                     "Spel ein lyd">
