@@ -7,7 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Aby rum na plaśe žarił, dajo se ześěgowanje powěsćow ze serwera a wobchowanje kopijow za wužywanje offline pó starstwje abo wjelikosći wobgranicowaś.">
 <!ENTITY allFoldersOffline.label "Powěsći za toś to konto na toś tom licadle wobchowaś">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY allFoldersOffline2.label "Powěsći we wšych zarědnikach za toś to konto na toś tom licadle wobchowaś.">
+<!ENTITY allFoldersOffline2.label "Powěsći we wšych zarědnikach za toś to konto na toś tom licadle wobchowaś">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Glědajśo: Gaž to změnijośo, se to na wše zarědniki w toś tom konśe wustatkujo. Wužywajśo tłocašk Rozšyrjene…, aby jadnotliwe zarědniki nastajił.">
 <!ENTITY offlineNotDownload.label "Powěsći, kótarež su wětše ako">
