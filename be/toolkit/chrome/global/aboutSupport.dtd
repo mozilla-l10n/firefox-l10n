@@ -156,8 +156,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Частата">
 <!ENTITY aboutSupport.mediaDeviceLatency "Затрымка">
 
+<!ENTITY aboutSupport.intlTitle "Інтэрнацыяналізацыя і лакалізацыя">
 <!ENTITY aboutSupport.intlAppTitle "Налады праграмы">
 <!ENTITY aboutSupport.intlLocalesRequested "Запытаная лакалізацыі">
 <!ENTITY aboutSupport.intlLocalesAvailable "Даступныя лакалізацыі">
+<!ENTITY aboutSupport.intlLocalesSupported "Лакалізацыі праграмы">
+<!ENTITY aboutSupport.intlLocalesDefault "Прадвызначаная лакалізацыя">
 <!ENTITY aboutSupport.intlOSTitle "Аперацыйная сістэма">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Сістэмныя лакалізацыі">
 <!ENTITY aboutSupport.intlRegionalPrefs "Рэгіянальныя налады">
