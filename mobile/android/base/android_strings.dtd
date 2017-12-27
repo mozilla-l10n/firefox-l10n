@@ -561,7 +561,7 @@
 <!ENTITY page_action_dropmarker_description "Další akce">
 
 <!ENTITY masterpassword_create_title "Vytvořit hlavní heslo">
-<!ENTITY masterpassword_remove_title "Zrušit hlavní heslo">
+<!ENTITY masterpassword_remove_title "Odstranit hlavní heslo">
 <!ENTITY masterpassword_password "Heslo">
 <!ENTITY masterpassword_confirm "Potvrzení hesla">
 
