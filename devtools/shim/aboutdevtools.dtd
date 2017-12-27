@@ -12,36 +12,53 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "Oer ûntwikkelershelpmiddelen">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Firefox-ûntwikkelershelpmiddelen ynskeakelje">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Skeakel Firefox-ûntwikkelershelpmiddelen yn omElemint ynspektearje te brûken">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Bestudearje en bewurkje HTML en CSS mei de Inspector fan de ûntwikkelershelpmiddelen.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Untwikkel en debug WebExtensions, web workers, service workers en mear mei de Firefox-ûntwikkelershelpmiddelen.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Jo hawwe in snelkeppeling fan de ûntwikkelershelpmiddelen aktivearre. As dat net de bedoeling wie, kinne jo dit ljepblêd slute.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Bestudearje, bewurkje en debug HTML, CSS en JavaScript mei helpmiddelen lykas de Inspector en Debugger.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Optimalisearje HTML, CSS en JavaScript fan jo website mei helpmiddelen lykas de Inspector en Debugger.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Firefox-ûntwikkelershelpmiddelen binne standert útskeakele, sadat jo mear kontrôle hawwe oer jo browser.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Lês mear oer Untwikkelershelpmiddelen">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Untwikkelershelpmiddelen ynskeakelje">
 <!ENTITY  aboutDevtools.enable.closeButton "Dizze side slute">
 
 <!ENTITY  aboutDevtools.enable.closeButton2 "Dit ljepblêd slute">
@@ -60,6 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "As jo noch net earder in ynskriuwing foar in Mozilla-relatearre nijsbrief befêstige hawwe, moatte jo dit mooglik dwaan. Kontrolearje jo Postfek YN of jo spamfilter foar in e-mail fan ús.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Sykje jo mear as allinnich ûntwikkelershelpmiddelen? Probearje de Firefox-browser dy't spesifyk boud is foar ûntwikkelers en moderne wurkstreamen.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
