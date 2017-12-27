@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'Ai pas l\&quot;aparelh amb ieu…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'Se connectar'>
+<!ENTITY sync.configure.engines.title.passwords2 'Identificants'>
 <!ENTITY sync.configure.engines.title.history 'Istoric'>
 <!ENTITY sync.configure.engines.title.tabs 'Onglets'>
 
@@ -65,10 +65,10 @@
 <!ENTITY fxaccount_status_choose_what 'Causir qué sincronizar'>
 <!ENTITY fxaccount_status_bookmarks 'Marcapaginas'>
 <!ENTITY fxaccount_status_history 'Istoric'>
-<!ENTITY fxaccount_status_passwords2 'Se connectar'>
-<!ENTITY fxaccount_status_tabs 'Dobrir los onglets'>
+<!ENTITY fxaccount_status_passwords2 'Identificants'>
+<!ENTITY fxaccount_status_tabs 'Onglets dobèrts'>
 <!ENTITY fxaccount_status_additional_settings 'Paramètres suplementaris'>
-<!ENTITY fxaccount_pref_sync_use_metered2 'Sincronizacion solament amb Wi-Fi'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Amb Wi-Fi solament'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_pref_sync_use_metered_summary2 'Empachar la sincronizacion de &brandShortName; via ret mobil o un ret pagant a l’usatge'>
