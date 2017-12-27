@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "채팅">
 <!ENTITY goChatCmd.accesskey "c">
 <!ENTITY goChatCmd.key "C">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "별표 메시지">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "폴더">
@@ -459,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "부가 기능">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addonPrefs.label "부가 기능 설정">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "부가 기능 설정">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "부가 기능 설정이 없습니다.">
 <!ENTITY activitymanager.label "메시지 작업 관리">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "채팅 상태">
