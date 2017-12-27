@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Inhabilita">
 <!ENTITY addonAction.uninstall                  "Desinstal·la">
 <!ENTITY addonAction.undo                       "Desfés">
+<!ENTITY addonAction.update                     "Actualitza">
 
 <!ENTITY addonUnsigned.message                  "El &brandShortName; no ha pogut verificar aquest complement.">
 <!ENTITY addonUnsigned.learnMore                "Més informació">
