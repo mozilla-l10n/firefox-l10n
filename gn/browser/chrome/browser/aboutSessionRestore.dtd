@@ -3,28 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Tembiapopa'ũ mbojevy">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Oreñyrõmi katu ndajaikatúi jahechauka jey ndéve togue rehechava'ekue.">
+<!ENTITY restorepage.problemDesc2   "Oreapañuãihína rohechaukajey hag̃ua rehechava'ekue. Eiporavomi Tembiapopa'ũ Jehechaukajey.">
+<!ENTITY restorepage.tryThis2       "Ndaikatúi gueteri reike jey rehechava'ekuépe? Sapy'ánte oĩ peteĩ tendayke ombyaíva upéva. Ema'ẽmi tendaykekuérare rehecháva'ekue, ha tysýipe eiporavomi umi tendayke reikotevẽtavante, upéi ikatu reñeha'ãjey.">
 
-<!ENTITY restorepage.errorTitle     "Oreñyrõmi imbeguére.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; oreko apañuãi oguerujey hag̃ua ovetã ha tendayke. Ikatúva ojehu oĩre peteĩ web kuatiarogue ojeikeramóvape.">
-<!ENTITY restorepage.tryThis        "Eha'ãmi:">
-<!ENTITY restorepage.restoreSome    "Emboty peteĩ térã hetave tendayke nde reimo'ãva ha'eha apañuãi ñepyrũmby">
-<!ENTITY restorepage.startNew       "Eñepyrũ kundaha rembiapopa'ũ pyahu">
+<!ENTITY restorepage.hideTabs       "Tendayke Ramoitéva Ñomi">
+<!ENTITY restorepage.showTabs       "Tendayke Ramoitéva Jechauka">
 
-<!ENTITY restorepage.tryagainButton "Mbojevy">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Mboty">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.tryagainButton2 "Tembiapopa'ũ Ñemoñepyrũjey">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Tembiapopa'ũ Pyahu Moñepyrũ">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Mbojevy">
 <!ENTITY restorepage.listHeader     "Ovetã ha tendayke">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Ovetã &#037;S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
 
 <!ENTITY welcomeback2.restoreButton  "¡Jahake!">
 <!ENTITY welcomeback2.restoreButton.access "L">
@@ -36,14 +37,14 @@
 
 <!ENTITY welcomeback2.restoreAll.label  "Ovetã ha tendayke mbojevyjey">
 <!ENTITY welcomeback2.restoreSome.label "Embojevyjey reipotávante">
+
+
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Umi moimbaha ha ñemomba'eguáva oñemboguepáma ha Kundahára ñemboheko porãma ojevyjeývo ijypykuetépe. Ko apañuai guasu ñoñemoĩ porãiramo, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
