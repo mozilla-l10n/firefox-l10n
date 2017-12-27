@@ -7,7 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Për të kursyer vend në disk, shkarkimi i mesazheve prej shërbyesit dhe mbajtja e kopjeve vendore për përdorim jashtë linje mund të kufizohet sipas moshës ose madhësisë.">
 <!ENTITY allFoldersOffline.label "Mesazhet e kësaj llogarie mbaji në këtë kompjuter">
 <!ENTITY allFoldersOffline.accesskey "e">
-<!ENTITY allFoldersOffline2.label "Mesazhet e kësaj llogarie në krejt dosjet mbaji në këtë kompjuter.">
+<!ENTITY allFoldersOffline2.label "Mesazhet e kësaj llogarie në krejt dosjet mbaji në këtë kompjuter">
 <!ENTITY allFoldersOffline2.accesskey "d">
 <!ENTITY allFoldersOfflineNote.label "Shënim: Ndryshimi i kësaj prek krejt dosjet për këtë llogari. Për të caktuar dosje individuale, përdorni butonin Të mëtejshme… .">
 <!ENTITY offlineNotDownload.label "Mesazhe më të mëdhenj se">
