@@ -155,3 +155,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Канали">
 <!ENTITY aboutSupport.mediaDeviceRate "Частота">
 <!ENTITY aboutSupport.mediaDeviceLatency "Затримка">
+
+<!ENTITY aboutSupport.intlTitle "Інтернаціоналізація та локалізація">
+<!ENTITY aboutSupport.intlAppTitle "Налаштування програми">
+<!ENTITY aboutSupport.intlLocalesRequested "Запитані локалі">
+<!ENTITY aboutSupport.intlLocalesAvailable "Доступні локалі">
+<!ENTITY aboutSupport.intlLocalesSupported "Локалі програми">
+<!ENTITY aboutSupport.intlLocalesDefault "Типова локаль">
+<!ENTITY aboutSupport.intlOSTitle "Операційна система">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Системні локалі">
+<!ENTITY aboutSupport.intlRegionalPrefs "Регіональні налаштування">
