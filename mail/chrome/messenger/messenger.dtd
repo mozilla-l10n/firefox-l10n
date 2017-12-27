@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Nettprat">
 <!ENTITY goChatCmd.accesskey "e">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Mappe">
@@ -459,7 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Utvidelser">
 <!ENTITY addons.accesskey "U">
+<!ENTITY addonPrefs.label "Innstillinger for utvidelse">
+<!ENTITY addonPrefs.accesskey "o">
 <!ENTITY addonPrefsUnix.label "Innstillinger for utvidelse">
+<!ENTITY addonPrefsUnix.accesskey "o">
+<!ENTITY addonNoPrefs.label "Ingen innstillinger for utvidelse funnet.">
 <!ENTITY activitymanager.label "Aktiviteter">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Nettpratstatus">
