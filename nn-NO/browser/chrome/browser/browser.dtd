@@ -44,7 +44,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Løys fana">
 <!ENTITY  unpinTab.accesskey                 "s">
-<!ENTITY  sendTabToDevice.label              "Send fane til ei eining">
+<!ENTITY  sendTabToDevice.label              "Send fane til eining">
 <!ENTITY  sendTabToDevice.accesskey          "e">
 <!ENTITY  sendPageToDevice.label             "Send sida til eining">
 <!ENTITY  sendPageToDevice.accesskey         "e">
