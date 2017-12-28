@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Utvidingar">
 <!ENTITY addons.accesskey "U">
+<!ENTITY addonPrefs.label "Innstillingar for utviding">
+<!ENTITY addonPrefs.accesskey "o">
+<!ENTITY addonPrefsUnix.label "Innstillingar for utviding">
+<!ENTITY addonPrefsUnix.accesskey "o">
+<!ENTITY addonNoPrefs.label "Fann ingen innstillingar for utvidinga.">
 <!ENTITY activitymanager.label "Aktivitetar">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Nettpratstatus">

@@ -7,6 +7,8 @@
 <!ENTITY doNotDownloadImap.label "For å spara diskplass kan nedlasting av meldingar frå tenaren og oppbevaring av lokale kopiar for fråkopla bruk avgrensast til ein bestemt alder eller storleik.">
 <!ENTITY allFoldersOffline.label "Lagre meldingar for denne kontoen på datamaskina">
 <!ENTITY allFoldersOffline.accesskey "t">
+<!ENTITY allFoldersOffline2.label "Behald meldingar i alle mapper for denne kontoen, på denne datamaskina">
+<!ENTITY allFoldersOffline2.accesskey "a">
 <!ENTITY offlineNotDownload.label "Meldingar større enn">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Ikkje last ned meldingar større enn">
