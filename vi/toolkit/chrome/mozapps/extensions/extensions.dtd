@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Quản lí tiện ích">
 
 <!ENTITY search.placeholder                   "Tìm tất cả các tiện ích">
+
+<!ENTITY search.placeholder2                  "Tìm kiếm trên addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Tìm kiếm">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -20,17 +22,19 @@
 <!ENTITY installAddonFromFile.accesskey       "i">
 <!ENTITY toolsMenu.tooltip                    "Công cụ cho tất cả tiện ích">
 
-
+<!ENTITY getThemes.description                "Bạn đang tìm cách để cá nhân hóa trình duyệt của bạn?">
+<!ENTITY getThemes.learnMore                  "Lựa chọn từ hàng ngàn diện mạo khác nhau.">
 
 <!ENTITY cmd.back.tooltip                     "Trở lại trang trước">
 <!ENTITY cmd.forward.tooltip                  "Tiến tới trang sau">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Không thể xác thực một số tiện ích">
 <!ENTITY showAllExtensions.button.label       "Hiện tất cả các tiện ích">
-
+<!ENTITY debugAddons.label                    "Gỡ lỗi tiện ích">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
-
 <!ENTITY warning.safemode.label                    "Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ an toàn.">
 <!ENTITY warning.checkcompatibility.label          "Việc kiểm tra tính tương thích của tiện ích đã bị vô hiệu hóa. Có thể bạn đang dùng các tiện ích không còn tương thích nữa.">
 <!ENTITY warning.checkcompatibility.enable.label   "Bật">
@@ -38,14 +42,14 @@
 <!ENTITY warning.updatesecurity.label              "Việc kiểm tra tính an toàn của các cập nhật tiện ích đã bị vô hiệu hóa. Bạn có thể bị tổn hại nếu cập nhật.">
 <!ENTITY warning.updatesecurity.enable.label       "Bật">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Kích hoạt kiểm tra tính bảo mật của cập nhật cho tiện ích">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Tìm kiếm">
 <!ENTITY view.discover.label                  "Tải thêm tiện ích">
 <!ENTITY view.recentUpdates.label             "Cập nhật gần đây">
 <!ENTITY view.availableUpdates.label          "Có thể cập nhật">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Kiểm tra cập nhật">
 <!ENTITY updates.checkForUpdates.accesskey    "c">
 <!ENTITY updates.viewUpdates.label            "Xem các cập nhật gần đây">
@@ -73,8 +77,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Xem các cập nhật hiện có">
 <!ENTITY updates.updateSelected.label         "Cài đặt cập nhật">
 <!ENTITY updates.updateSelected.tooltip       "Cài đặt các cập nhật trong danh sách này">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Hiện thêm thông tin">
 <!ENTITY cmd.showDetails.accesskey            "H">
 <!ENTITY cmd.findUpdates.label                "Tìm bản cập nhật">
@@ -117,15 +121,16 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Hiển thị ghi chú phát hành của cập nhật này">
 <!ENTITY cmd.hideReleaseNotes.label           "Ẩn ghi chú phát hành">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ẩn ghi chú phát hành của cập nhật này">
+<!ENTITY cmd.findReplacement.label            "Tìm tiện ích thay thế">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Tiện ích là gì?">
 <!ENTITY discover.description2                "Tiện ích là những ứng dụng cho phép bạn cá nhân hóa &brandShortName; bằng kiểu dáng hoặc chức năng phụ. Hãy thử một thanh lề tiết kiệm thời gian, một trình báo thời tiết, hoặc một giao diện để biến &brandShortName; thành của riêng bạn.">
 <!ENTITY discover.footer                      "Khi bạn kết nối mạng, bảng này sẽ giới thiệu một số tiện ích tốt nhất và thông dụng nhất để bạn thử.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Phiên bản">
 <!ENTITY detail.lastupdated.label             "Cập nhật cuối">
 <!ENTITY detail.creator.label                 "Nhà phát triển">
@@ -154,17 +159,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Tùy chỉnh">
 <!ENTITY detail.showPreferencesUnix.accesskey "y">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Thay đổi tùy chỉnh của tiện ích này">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Xếp hạng">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tạm dừng">
 <!ENTITY progress.cancel.tooltip              "Hủy bỏ">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Tên">
 <!ENTITY sort.name.tooltip                    "Sắp xếp theo tên">
 <!ENTITY sort.dateUpdated.label               "Cập nhật cuối">
@@ -184,6 +189,10 @@
 <!ENTITY addon.details.label                  "Chi tiết thêm">
 <!ENTITY addon.details.tooltip                "Hiện thêm chi tiết về tiện ích này">
 <!ENTITY addon.unknownDate                    "Không rõ">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "KẾ THỪA">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -217,12 +226,12 @@
 <!ENTITY eula.accept                          "Đồng ý và cài đặt…">
 
 <!ENTITY settings.path.button.label           "Chọn…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Đây là gì? Thỉnh thoảng, Telemetry có thể sẽ cài đặt và chạy một số thử nghiệm.">
 <!ENTITY experiment.info.learnmore "Tìm hiểu thêm">
 <!ENTITY experiment.info.learnmore.accesskey "T">
@@ -246,4 +255,10 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "tài liệu hướng dẫn">
 <!ENTITY disabledUnsigned.devInfo.end " của chúng tôi.">
 
+<!ENTITY pluginDeprecation.description "Bạn đang thấy thiếu gì đó? Một số phần bổ trợ không còn được hỗ trợ bởi &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Tìm hiểu thêm.">
 
+<!ENTITY legacyWarning.showLegacy "Hiển thị các phần mở rộng kế thừa">
+<!ENTITY legacyExtensions.title "Phần mở rộng kế thừa">
+<!ENTITY legacyExtensions.description "Các phần mở rộng này không đáp ứng tiêu chuẩn hiện tại của &brandShortName; do đó chúng đã bị ngừng hoạt động.">
+<!ENTITY legacyExtensions.learnMore "Tìm hiểu về các thay đổi tiện ích">

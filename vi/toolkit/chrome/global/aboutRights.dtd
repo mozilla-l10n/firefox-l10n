@@ -62,6 +62,7 @@
 <!ENTITY rights.safebrowsing-b "Vô hiệu hóa tính năng Duyệt web An toàn là không nên vì nó có thể làm bạn đi vào các trang không an toàn. Nếu bạn muốn vô hiệu hóa hoàn toàn tính năng, hãy theo các bước sau:">
 <!ENTITY rights.safebrowsing-term1 "Mở tùy chỉnh ứng dụng">
 <!ENTITY rights.safebrowsing-term2 "Chọn lựa chọn Bảo mật">
+<!ENTITY rights2.safebrowsing-term3 "Bỏ chọn tùy chọn &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Duyệt web An toàn bây giờ đã bị vô hiệu hóa">
 
 <!-- location aware browsing points for branded builds -->
