@@ -43,11 +43,13 @@
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "Διεύθυνση ηλεκτρονικού ταχυδρομείου:">
 
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Να προτιμάται ο προγραμματισμός με ηλεκτρονικό ταχυδρομείο">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Προς το παρόν, μπορείτε να το ενεργοποιήσετε μόνο αφού ρυθμίσετε αυτό το ημερολόγιο στο παράθυρο ιδιοτήτων, αν ο διακομιστής ημερολογίων διαχειρίζεται τον προγραμματισμό.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Η επιλογή είναι διαθέσιμη αν ο διακομιστής ημερολογίου διαχειρίζεται τον προγραμματισμό. Η ενεργοποίησή του θα επιτρέψει την εναλλακτική ο προγραμματισμός να γίνεται βάσει του ηλεκτρονικού ταχυδρομείου αντί να το αφήνει στον διακομιστή.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Αποδοχή">
