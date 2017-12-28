@@ -150,6 +150,7 @@
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "s">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Selectie sorteren: Z - A">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "s">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Beeld">
