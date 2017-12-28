@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Porandu tapia">
 <!ENTITY  permAllow             "Moneĩ">
 <!ENTITY  permAllowSession      "Ko tendápe ñemoneĩ">
+<!ENTITY  permHide              "Toñemi">
 <!ENTITY  permBlock             "Joko">
 <!ENTITY  permissionsFor        "Emoneĩ hag̃ua:">
 <!ENTITY  permPlugins           "Mba'ejoajurã myendy">

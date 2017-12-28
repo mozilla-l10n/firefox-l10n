@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Embojevy heko ypykuépe">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "Moĩmbaha Monge">
+
 <!ENTITY downloads.label     "Ñemboguejy">
 
 <!ENTITY saveTo.label "Marandurenda ñongatu ko'ápe">
