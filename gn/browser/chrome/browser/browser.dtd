@@ -575,10 +575,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Mba'erechaha rugua mopyenda…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Kuatiarogue mbojoapy">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Ko joajuha mbojoapy techaukaháre">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Ko ovetã'i techaukaháre mbojoapy">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY pageAction.copyLink.label    "Link Mbohasarã">
 <!ENTITY copyURLFeedback.label        "¡Ojekopiáma!">
 <!ENTITY emailPageCmd.label           "Joajuha mondo…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -762,6 +764,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Tenda Rekorosãrã">
 
 <!ENTITY identity.connectionSecure "Jeikekatu">
 <!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
@@ -816,12 +819,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Noñembojuehéi tendaykekuéra… ne'ĩra gueteri!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Tekotevẽ oñemboaje ne mba'ete.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ndaipóri tendayke ijurujáva">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Eike &syncBrand.shortName.label; oguerohoryvévape">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Tendayke mbojuehepyre reka">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Embojoaju Ambue Mba'e'oka">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -862,6 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Ijypykuépe mbojevy">
 <!ENTITY customizeMode.done "Mohu'ã">
 <!ENTITY customizeMode.titlebar "Teratee renda">
+<!ENTITY customizeMode.extraDragSpace "Tyryry Pa'ũ">
 <!ENTITY customizeMode.toolbars2 "Tembipuru renda">
 <!ENTITY customizeMode.lwthemes "Mbojeguaha">
 <!ENTITY customizeMode.lwthemes.myThemes "Mbojeguaha Aipurúva">
@@ -871,6 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ehekave Mbojeguaha">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Embosyryry ha epoi ko'ápe mba'epuru ehupytykuaa potávo hákatu ne rembipuru renda nahániri…">
+<!ENTITY customizeMode.overflowList.title2 "Menu Ojeipysóva">
 <!ENTITY customizeMode.uidensity "Tuicháva">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
