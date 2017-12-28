@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Embosyryry ha epoi ko'ápe mba'epuru ehupytykuaa potávo hákatu ne rembipuru renda nahániri…">
 <!ENTITY customizeMode.overflowList.title2 "Menu Ojeipysóva">
+<!ENTITY customizeMode.overflowList.description "Rembotyry ha repoíramo ápe temimoĩ reguerekóta umíva ne'aguĩ katu noimemo'ãi tembipuru rendápe…">
 <!ENTITY customizeMode.uidensity "Tuicháva">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -900,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "J">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Eipuru jepoko tableta rekópe g̃uarã">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Toñemi-ijeheguirei">
 
 <!ENTITY getUserMedia.selectCamera.label "Ta'angamýi hetápe guarãva:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -988,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "A">
 <!ENTITY updateManual.panelUI.label "Emboguejy &brandShorterName; osẽramovéva.">
 
+<!ENTITY updateRestart.message2 "Pya'e remoñepyrũjey rire, &brandShorterName; omoĩmbajeýta tendayke ha ovetã rehecháva'ekue ha ndaha'éiva Kundahañemimegua.">
 <!ENTITY updateRestart.header.message2 "Emoñepyrũjey embohekopyahu hag̃ua &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "Moñepyrũ ha mboguevijey">
 <!ENTITY updateRestart.acceptButton.accesskey "M">
@@ -995,12 +998,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "A">
 <!ENTITY updateRestart.panelUI.label2 "Emoñepyrũjey embohekopyahu hag̃ua &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Peteĩ moĩmbaha omoambuékuri togue rehecháva ojeike vove pype. Rembojevykuaa heko ndereipotáiramo mba'éichapa ojehechauka.">
+<!ENTITY newTabControlled.header.message "Ne Tendayke Pyahu iñambuékuri.">
+<!ENTITY newTabControlled.keepButton.label "Topyta Ñemoambue">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "Mbohekoha Ñembojevy">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Kuatiarogue rembiapo">
 <!ENTITY pageAction.addToUrlbar.label "Embojuaju kundaharape rendáre ">
 <!ENTITY pageAction.removeFromUrlbar.label "Emboguete kundaharape rendágui">
 
+<!ENTITY pageAction.allowInUrlbar.label "Kundaharapépe Jehechauka">
+<!ENTITY pageAction.disallowInUrlbar.label "Anive Tojechauka Kundaharapépe">
+<!ENTITY pageAction.manageExtension.label "Moĩmbaháre Ñangareko…">
 
+<!ENTITY pageAction.sendTabToDevice.label "Emondo Tendayke Mba'e'okápe">
 <!ENTITY sendToDevice.syncNotReady.label "Mba'e'oka ñembojuehe…">
 
 <!ENTITY libraryButton.tooltip "Ehecha tembiasakue, ñongatupyre ha ambueve">
@@ -1009,3 +1022,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Jeikekatu Reko Oñemyendýkuri">
