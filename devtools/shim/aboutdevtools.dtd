@@ -42,12 +42,15 @@
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
 
+<!ENTITY  aboutDevtools.enable.closeButton "Tampar aquesta pagina">
 
+<!ENTITY  aboutDevtools.enable.closeButton2 "Tampar aqueste onglet">
 
 
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Corrièl">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Mercés plan !">
 
 
