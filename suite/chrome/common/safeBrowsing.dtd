@@ -9,7 +9,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "გვერდი მიჩნეულია მოიერიშედ!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "ეს ვებგვერდი <span id='malware_sitename'/> ნაპატაკებია, როგორც შემტევი გვერდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების მიხედვით.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ დააყენონ პროგრამები, რომლებიც პირად მონაცემებს იპარავენ, იყენებენ თქვენს კომპიუტერს სხვაზე შეტევებისთვის ან სულაც აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი, წინასწარი განზრახვით ავრცელებს მავნე პროგრამებს, თუმცა ხშირია შემთხვევა, როცა საიტი გატეხილია და მისმა მფლობელებმა, ამის შესახებ არც იციან.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობს დააყენოს პროგრამები, რომლებიც პირად მონაცემებს იპარავს, იყენებს თქვენს კომპიუტერს სხვაზე შეტევებისთვის ან სულაც აზიანებს თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი, წინასწარი განზრახვით ავრცელებს მავნე პროგრამებს, თუმცა ხშირია შემთხვევა, როცა საიტი გატეხილია და მისმა მფლობელებმა, ამის შესახებ არც იციან.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "საიტი, შემჩნეულია არასასურველი პროგრამის გავრცელებაში!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

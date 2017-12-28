@@ -446,6 +446,10 @@
 <!ENTITY notJunkButton.tooltip "შერჩეული წერილების არაჯართად მონიშვნა">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "ამ შეტყობინების შიგთავსის ჩვენება ინტერნეტის საშუალებით">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "ჩ">
+<!ENTITY editRemoteContentSettings.label "ინტერნეტშიგთავსის ჩასწორების პარამეტრები…">
+<!ENTITY editRemoteContentSettings.accesskey "წ">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "მზადაა">
