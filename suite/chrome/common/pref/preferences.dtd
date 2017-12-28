@@ -24,7 +24,7 @@
 
 <!ENTITY security.label "კონფიდენციალობა და უსაფრთხოება">
 <!ENTITY privatedata.label "პირადი მონაცემები">
-<!ENTITY cookies.label "ნაჭდევები">
+<!ENTITY cookies.label "ფუნთუშები">
 <!ENTITY images.label "გამოსახულებები">
 <!ENTITY popups.label "ფირნიშები">
 <!ENTITY passwords.label "პაროლები">

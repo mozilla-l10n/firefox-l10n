@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     tab.cookiesonsystem.label      "შენახული ნაჭდევები">
-<!ENTITY     tab.bannedservers.label        "ნაჭდევების საიტები">
-<!ENTITY     div.bannedservers.label        "ინტერნეტის საიტები რომლებსაც ნებას რთავთ ან უკრძალავთ ნაჭდევის ჩაწერას.">
-<!ENTITY     div.cookiesonsystem.label      "კომპიუტერში ჩაწერილი ნაჭდევების ჩვენება და ამოშლა.">
-<!ENTITY     treehead.cookiename.label      "ნაჭდევის სახელი">
+<!ENTITY     tab.cookiesonsystem.label      "შენახული ფუნთუშები">
+<!ENTITY     tab.bannedservers.label        "ფუნთუშების საიტები">
+<!ENTITY     div.bannedservers.label        "საიტები, რომელსაც ნებას რთავთ, ან უკრძალავთ ფუნთუშების კომპიუტერში შენახვას.">
+<!ENTITY     div.cookiesonsystem.label      "კომპიუტერში შენახული ფუნთუშების ჩვენება და ამოშლა.">
+<!ENTITY     treehead.cookiename.label      "ფუნთუშის სახელი">
 <!ENTITY     treehead.cookiedomain.label    "საიტი">
 <!ENTITY     treehead.cookieexpires.label   "ვადა">
-<!ENTITY     treehead.infoselected.label    "შერჩეული ნაჭდევის მონაცემები">
-<!ENTITY     button.removecookie.label      "ნაჭდევის ამოშლა">
+<!ENTITY     treehead.infoselected.label    "შერჩეული ფუნთუშის მონაცემები">
+<!ENTITY     button.removecookie.label      "ფუნთუშის ამოშლა">
 <!ENTITY     button.removecookie.accesskey  "R">
-<!ENTITY     button.removeallcookies.label  "ყველა ნაჭდევის ამოშლა">
+<!ENTITY     button.removeallcookies.label  "ყველა ფუნთუშის ამოშლა">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
-<!ENTITY     search.placeholder             "ნაჭდევების ძიება">
+<!ENTITY     search.placeholder             "ფუნთუშების მოძიება">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     selectAll.key                  "a">
 
@@ -29,7 +29,7 @@
 <!ENTITY     treehead.sitename.label        "საიტი">
 <!ENTITY     treehead.scheme.label          "სქემა">
 <!ENTITY     treehead.status.label          "სტატუსი">
-<!ENTITY     windowtitle.label              "ნაჭდევების მართვა">
+<!ENTITY     windowtitle.label              "ფუნთუშების მმართველი">
 
 <!ENTITY     blockSite.label                "დაბლოკვა">
 <!ENTITY     blockSite.accesskey            "B">
@@ -42,5 +42,5 @@
 <!ENTITY     removeallpermissions.label     "ყველა საიტის ამოღება">
 <!ENTITY     removeallpermissions.accesskey "e">
 
-<!ENTITY     futureCookies.label            "ნაჭდევებამოშლილი საიტებისთვის მომავალში ნაჭდევებს ჩაწერის აკრძალვა">
+<!ENTITY     futureCookies.label            "ფუნთუშებამოშლილი საიტებისთვის, მომავალში ფუნთუშების ჩაწერის აკრძალვა">
 <!ENTITY     futureCookies.accesskey        "D">
