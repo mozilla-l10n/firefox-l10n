@@ -41,6 +41,7 @@
 <!ENTITY button.addFeed.label        "Ajouter">
 <!ENTITY button.addFeed.accesskey    "A">
 <!ENTITY button.verifyFeed.label     "Vérifier">
+<!ENTITY button.verifyFeed.accesskey "f">
 <!ENTITY button.updateFeed.label     "Mettre à jour">
 <!ENTITY button.updateFeed.accesskey "M">
 <!ENTITY button.removeFeed.label     "Supprimer">
