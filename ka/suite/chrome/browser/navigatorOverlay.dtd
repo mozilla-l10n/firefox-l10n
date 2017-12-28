@@ -93,21 +93,21 @@
 <!ENTITY translateMenu.label "გვერდის თარგმნა">
 <!ENTITY translateMenu.accesskey "T">
 
-<!ENTITY cookieMessageTitle.label "ნაჭდევთა უფლებები შეიცვალა">
-<!ENTITY cookieDisplayCookiesCmd.label "შენახული ნაჭდევების მართვა">
+<!ENTITY cookieMessageTitle.label "ფუნთუშების ნებართვები შეიცვალა">
+<!ENTITY cookieDisplayCookiesCmd.label "შენახული ფუნთუშების მართვა">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "M">
-<!ENTITY cookieAllowCookiesCmd.label "ნაჭდევების ნებართვა ამ ვებსაიტიდან">
+<!ENTITY cookieAllowCookiesCmd.label "ფუნთუშების ნებართვა ამ ვებსაიტიდან">
 <!ENTITY cookieAllowCookiesCmd.accesskey "A">
-<!ENTITY cookieAllowCookiesMsg.label "ნაჭდევები ამ ვებსაიტიდან ყოველთვის ნებადართულია.">
-<!ENTITY cookieAllowSessionCookiesCmd.label "სეანსის ნაჭდევების ნებართვა ამ ვებსაიტიდან">
+<!ENTITY cookieAllowCookiesMsg.label "ფუნთუშები ამ ვებსაიტიდან ყოველთვის ნებადართულია.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "სეანსის ფუნთუშების ნებართვა ამ ვებსაიტიდან">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
-<!ENTITY cookieAllowSessionCookiesMsg.label "ამ ვებსაიტს ნაჭდევების შენახვის უფლება მიეცემა მხოლოდ ამ სეანსზე.">
-<!ENTITY cookieCookiesDefaultCmd.label "ნაგულისხმები უფლებების გამოყენება ნაჭდევებისთვის">
+<!ENTITY cookieAllowSessionCookiesMsg.label "ამ ვებსაიტს ფუნთუშების შენახვის უფლება მიეცემა მხოლოდ ამ სეანსზე.">
+<!ENTITY cookieCookiesDefaultCmd.label "ნაგულისხმები უფლებების გამოყენება ფუნთუშებისთვის">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
-<!ENTITY cookieCookiesDefaultMsg.label "ნაჭდევები ამ ვებსაიტიდან მიიღება ნაგულისხმები უფლებების შესაბამისად.">
-<!ENTITY cookieBlockCookiesCmd.label "ნაჭდევების დაბლოკვა ამ ვებსაიტისთვის">
+<!ENTITY cookieCookiesDefaultMsg.label "ფუნთუშები ამ ვებსაიტიდან მიიღება ნაგულისხმევი უფლებების შესაბამისად.">
+<!ENTITY cookieBlockCookiesCmd.label "ფუნთუშების შეზღუდვა ამ ვებსაიტისთვის">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
-<!ENTITY cookieBlockCookiesMsg.label "ნაჭდევები ამ ვებსაიტიდან ყოველთვის აიკრძალება.">
+<!ENTITY cookieBlockCookiesMsg.label "ფუნთუშები ამ ვებსაიტიდან ყოველთვის აიკრძალება.">
 
 <!ENTITY cookieImageMessageTitle.label "გამოსახულებათ უფლებები შეიცვალა">
 <!ENTITY cookieDisplayImagesCmd.label "გამოსახულებათა უფლებების მართვა">
@@ -135,7 +135,7 @@
 <!ENTITY popupsManage.label "ფირნიშების მართვა">
 <!ENTITY popupsManage.accesskey "მ">
 
-<!ENTITY cookieCookieManager.label "ნაჭდევების მმართველი">
+<!ENTITY cookieCookieManager.label "ფუნთუშების მმართველი">
 <!ENTITY cookieCookieManager.accesskey "C">
 <!ENTITY cookieImageManager.label "გამოსახულებათა მმართველი">
 <!ENTITY cookieImageManager.accesskey "I">

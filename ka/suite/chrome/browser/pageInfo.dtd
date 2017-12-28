@@ -92,7 +92,7 @@
 <!ENTITY  permissionsFor        "უფლებები:">
 <!ENTITY  permImage             "გამოსახულების ჩატვირთვა">
 <!ENTITY  permPopup             "ჩამოშლადი სარკმლების გახსნა">
-<!ENTITY  permCookie            "ნაჭდევების მითითება">
+<!ENTITY  permCookie            "ფუნთუშების მითითება">
 <!ENTITY  permNotifications     "შეტყობინებათა ჩვენება">
 <!ENTITY  permInstall           "პაკეტების ან თემების ჩადგმა">
 <!ENTITY  permGeo               "მდებარეობის გაზიარება">
@@ -112,8 +112,8 @@
 
 <!ENTITY  securityView.privacy.header                   "კონფიდენციალობა და ისტორია">
 <!ENTITY  securityView.privacy.history                  "ეს საიტი დღემდე გამიხსნია?">
-<!ENTITY  securityView.privacy.cookies                  "ეს საიტი ინფორმაციას (ნაჭდევებს) ჩემს კომპიუტერში ინახავს?">
-<!ENTITY  securityView.privacy.viewCookies              "ნაჭდევების ჩვენება">
+<!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში მონაცემებს (ფუნთუშებს)?">
+<!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ნახვა">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "ამ საიტისთვის რაიმე პაროლი შენახული მაქვს?">
 <!ENTITY  securityView.privacy.viewPasswords            "შენახული პაროლების ჩვენება">

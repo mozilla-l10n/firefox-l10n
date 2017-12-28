@@ -7,7 +7,7 @@
 <!ENTITY selectAll.key "a">
 
 <!ENTITY select.all.label "მონაცემთა ყველა ტიპი">
-<!ENTITY select.cookies.label "მხოლოდ ნაჭდევები">
+<!ENTITY select.cookies.label "მხოლოდ ფუნთუშები">
 <!ENTITY select.permissions.label "მხოლოდ უფლებები">
 <!ENTITY select.preferences.label "მხოლოდ პარამეტრები">
 <!ENTITY select.passwords.label "მხოლოდ პაროლები">
@@ -25,7 +25,7 @@
 
 <!ENTITY data.search.key "k">
 
-<!ENTITY tab.cookies.label "ნაჭდევები">
+<!ENTITY tab.cookies.label "ფუნთუშები">
 <!ENTITY tab.permissions.label "უფლებები">
 <!ENTITY tab.preferences.label "პარამეტრები">
 <!ENTITY tab.passwords.label "პაროლები">
@@ -37,10 +37,10 @@
 <!ENTITY cookies.description "ეს დომენი თქვენს კომპიუტერში ინახავს შემდეგ დომენებს:">
 
 <!ENTITY cookies.tree.host.label "ვებსაიტი">
-<!ENTITY cookies.tree.name.label "ნაჭდევის სახელი">
+<!ENTITY cookies.tree.name.label "ფუნთუშის სახელი">
 <!ENTITY cookies.tree.expires.label "ვადა">
 
-<!ENTITY cookies.infobox.label "შერჩეული ნაჭდევის მონაცემები">
+<!ENTITY cookies.infobox.label "მითითებული ფუნთუშის მონაცემები">
 
 <!ENTITY cookies.info.name.label "სახელი:">
 <!ENTITY cookies.info.value.label "შიგთავსი:">
@@ -58,7 +58,7 @@
 <!ENTITY cookies.button.remove.label "ამოღება">
 <!ENTITY cookies.button.remove.accesskey "R">
 
-<!ENTITY cookies.blockOnRemove.label "ამოღებისას მომავალში ნაჭდევების აკრძალვა შემდეგი ვებსაიტებისთვის">
+<!ENTITY cookies.blockOnRemove.label "ამოღებისას, მომავალში ფუნთუშების აკრძალვა, შემდეგი ვებსაიტებისთვის">
 <!ENTITY cookies.blockOnRemove.accesskey "W">
 
 <!-- permissions -->
@@ -139,7 +139,7 @@
 <!ENTITY fdata.button.remove.accesskey "R">
 
 <!-- forget -->
-<!ENTITY forget.cookies.label "ნაჭდევები">
+<!ENTITY forget.cookies.label "ფუნთუშები">
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "უფლებები">
 <!ENTITY forget.permissions.accesskey "P">
