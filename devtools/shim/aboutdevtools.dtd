@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
 <!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
-          "Разработка и отладка WebExtensions, процессов Web workers, процессов Service workers и других, используя Инструменты разработчика.">
+          "Разработка и отладка WebExtensions, Web workers, Service workers и много другого в Инструментах разработчика.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
@@ -65,7 +65,7 @@
 
 <!ENTITY  aboutDevtools.welcome.title "Добро пожаловать в Инструменты разработчика!">
 
-<!ENTITY  aboutDevtools.newsletter.title "Информационный бюллетень Разработчика Mozilla">
+<!ENTITY  aboutDevtools.newsletter.title "Новостная рассылка для разработчиков от Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
