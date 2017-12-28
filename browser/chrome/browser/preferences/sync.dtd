@@ -26,8 +26,10 @@
 <!ENTITY engine.addons.title        "Firefox डेस्कटॉप के लिए एक्सटेंशन और थीम">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "पता">
+<!ENTITY engine.addresses.title     "आपके द्वारा सहेजे गए डाक पते (केवल डेस्कटॉप के लिए)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "क्रेडिट कार्ड">
+<!ENTITY engine.creditcards.title   "नाम, संख्या और समाप्ति तिथि (केवल डेस्कटॉप के लिए)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
