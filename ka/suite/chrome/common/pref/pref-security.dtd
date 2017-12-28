@@ -8,12 +8,8 @@
 <!ENTITY tracking.label                   "მომხმარებლის თვალმიდევნება">
 <!ENTITY trackingIntro.label              "ვებსაიტებს შეუძლიათ თქვენი თვალმიდევნება, შესაბამისად პირადულობის გარკვეულწილად დარღვევა.">
 
-<!ENTITY dntTellSites.label               "აცნობეთ ვებსაიტებს თქვენი სურვილი">
-<!ENTITY dntTellSites.accesskey           "T">
-<!ENTITY dntTrackingNotOkay.label         "არ მსურს თვალი მადევნონ">
-<!ENTITY dntTrackingNotOkay.accesskey     "n">
-<!ENTITY dntTrackingOkay.label            "თანახმა ვარ თვალი მადევნონ">
-<!ENTITY dntTrackingOkay.accesskey        "c">
+<!ENTITY trackProtect.label               "ცნობილი მეთვალყურე საიტების შეზღუდვა">
+
 
 
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):

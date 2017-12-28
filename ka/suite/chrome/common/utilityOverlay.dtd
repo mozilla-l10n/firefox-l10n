@@ -73,6 +73,8 @@
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+<!ENTITY findBarCmd.accesskey "მ">
+<!ENTITY findReplaceCmd.accesskey "ა">
 <!ENTITY findAgainCmd.label "შემდეგის პოვნა">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -88,7 +90,7 @@
 
 <!ENTITY viewMenu.label					"ჩვენება"> 
 <!ENTITY viewMenu.accesskey               "v">
-<!ENTITY viewToolbarsMenu.label				"აჩვენე/დამალე"> 
+<!ENTITY viewToolbarsMenu.label				"ჩვენება/დამალვა"> 
 <!ENTITY viewToolbarsMenu.accesskey			"w"> 
 <!ENTITY showTaskbarCmd.label					"სტატუსის პანელი">  
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
