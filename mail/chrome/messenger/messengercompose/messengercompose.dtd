@@ -323,6 +323,7 @@
 <!ENTITY renameAttachment.label "Renommer…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY reorderAttachments.label "Réorganiser les pièces jointes…">
+<!ENTITY reorderAttachments.accesskey "a">
 <!ENTITY selectAll.label "Tout sélectionner">
 <!ENTITY selectAll.accesskey "t">
 <!ENTITY attachFile.label "Joindre fichier(s)…">
