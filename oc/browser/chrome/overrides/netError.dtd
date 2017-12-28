@@ -18,6 +18,7 @@
 <!ENTITY deniedPortAccess.title "Aquesta adreça es restrencha">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "Impossible de trobar lo servidor">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Fichièrs pas trobat">
@@ -38,6 +39,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Dobrir la pagina de connexion al ret">
 
+<!ENTITY malformedURI.pageTitle "URL invalida">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "La connexion es estada interrompuda">
