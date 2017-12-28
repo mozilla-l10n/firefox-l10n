@@ -25,6 +25,9 @@ Ièr
 
 <!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
 <!ENTITY aboutTelemetry.moreInformations "A la recèrca de mai d'informacions ?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "Las <a>Donadas de Documentacion de Firefox</a> contenon de guidas sus cossí trabalhar amb nòstras aisinas de donadas.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentacion de client de Firefox Telemetry</a> inclutz de definicions per de concèptes, documentacion API e referéncias de donadas.">
+<!ENTITY aboutTelemetry.telemetryDashboard "Los <a>panèls de Telemetria</a> permeton de visualizar las donadas que Mozilla recep via la Telemetria.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Dobrir dins la visualizaira JSON">
 

@@ -30,6 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "Octets mandats">
 <!ENTITY aboutNetworking.bytesReceived         "Octets recebuts">
 <!ENTITY aboutNetworking.logging               "Jornal">
+<!ENTITY aboutNetworking.logTutorial           "Veire <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> per saber cossí utilizar aquesta aisina.">
 <!ENTITY aboutNetworking.currentLogFile        "Fichièr de jornalizacion actual :">
 <!ENTITY aboutNetworking.currentLogModules     "Moduls de jornalizacion actuals :">
 <!ENTITY aboutNetworking.setLogFile            "Definir un fichièr pel jornal">
