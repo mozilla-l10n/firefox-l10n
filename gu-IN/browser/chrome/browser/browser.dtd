@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "તમે આ વેબસાઇટ માટે પોપ-અપ્સને અવરોધિત કર્યા છે.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "તમે આ વેબસાઇટ માટે કેનવાસ ડેટા નિષ્કર્ષણને અવરોધિત કર્યો છે.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ઇતિહાસ બતાવો">
 
 <!ENTITY searchItem.title             "શોધો">
@@ -996,14 +998,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "અપડેટ કરવા માટે પુનઃપ્રારંભ કરો &brandShorterName;">
 
+<!ENTITY newTabControlled.message "જ્યારે તમે નવી ટૅબ ખોલો છો ત્યારે તમે જોઈ રહ્યાં છો તે પૃષ્ઠનુ એક્સટેન્શન બદલ્યું છે. જો તમે આ ફેરફાર ન ઇચ્છતા હો તો તમે તમારી સેટિંગ્સને પુનઃસ્થાપિત કરી શકો છો.">
+<!ENTITY newTabControlled.header.message "તમારી નવી ટૅબ બદલાઈ ગઈ છે.">
 <!ENTITY newTabControlled.keepButton.label "પરિવર્તનો રાખો">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "સેટિંગ્સ પુનઃસ્થાપિત કરો">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "પૃષ્ઠ ક્રિયાઓ">
 <!ENTITY pageAction.addToUrlbar.label "સરનામાં બારમાં ઉમેરો">
 <!ENTITY pageAction.removeFromUrlbar.label "સરનામાં બારમાંથી દૂર કરો">
 
+<!ENTITY pageAction.allowInUrlbar.label "સરનામાં બારમાં બતાવો">
+<!ENTITY pageAction.disallowInUrlbar.label "સરનામાં બારમાં બતાવશો નહીં">
+<!ENTITY pageAction.manageExtension.label "એક્સ્ટેંશનનો વહીવટ કરો…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ઉપકરણ પર ટેબ મોકલો">
 <!ENTITY sendToDevice.syncNotReady.label "સમન્વય કરતા ઉપકરણો…">
