@@ -84,8 +84,9 @@
 <!ENTITY editRewrapCmd.label "Reformater">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Renommer la pièce jointe…">
-<!ENTITY renameAttachmentCmd.accesskey "R">
+<!ENTITY renameAttachmentCmd.accesskey "n">
 <!ENTITY reorderAttachmentsCmd.label "Réorganiser les pièces jointes…">
+<!ENTITY reorderAttachmentsCmd.accesskey "a">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
@@ -125,7 +126,9 @@
      This accesskey should be the same like
      sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
      the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "r">
 <!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Trier la sélection : Z - A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "r">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -137,6 +140,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Trier la sélection : A - Z">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Trier la sélection : Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Affichage">
