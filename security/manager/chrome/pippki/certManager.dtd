@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Autoritats">
 <!ENTITY certmgr.tab.orphan2                  "Autres">
 
-<!ENTITY certmgr.mine                         "Avètz de certificats d'aquestas organizacions que vos identifican :">
-<!ENTITY certmgr.others                       "Avètz de certificats enregistrats qu'identifican aquestas personas :">
-<!ENTITY certmgr.websites2                    "Avètz de certificats enregistrats qu'identifican aquestes servidors :">
-<!ENTITY certmgr.cas                          "Avètz de certificats enregistrats qu'identifican aquestas autoritats de certificacion :">
-<!ENTITY certmgr.orphans                      "Avètz de certificats enregistrats que correspondon pas a  cap d'autra categoria :">
+<!ENTITY certmgr.mine2                        "De certificats d'aquestas organizacions vos identifican">
+<!ENTITY certmgr.others2                      "De certificats d'aqueste fichièr identifican aqueles personas">
+<!ENTITY certmgr.websites3                    "De certificats d'aqueste fichièr identifican aqueles servidors">
+<!ENTITY certmgr.cas2                         "De certificats d'aqueste fichièr identifican aquelas autoritats de certificat">
+<!ENTITY certmgr.orphans2                     "De certificats d'aqueste fichièr dintran dins pas cap de las autras categorias">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
