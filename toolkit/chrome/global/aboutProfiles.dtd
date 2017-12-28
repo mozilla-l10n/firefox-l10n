@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutProfiles.title "A perpaus dels perfils">
-
+<!ENTITY aboutProfiles.subtitle "Aquesta pagina vos ajuda a gerir vòstres perfils. Cada perfil es separat e conten un istoric, de marcapaginas e de moduls pròpris.">
 <!ENTITY aboutProfiles.create "Crear un perfil novèl">
 <!ENTITY aboutProfiles.restart.title "Reaviar">
 <!ENTITY aboutProfiles.restart.inSafeMode "Reaviar amb los moduls desactivats…">
