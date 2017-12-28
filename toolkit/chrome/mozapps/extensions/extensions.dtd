@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Managerul de suplimente">
 
 <!ENTITY search.placeholder                   "Caută toate suplimentele">
+
+<!ENTITY search.placeholder2                  "Caută pe addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Căutare">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -115,8 +117,8 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuie la dezvoltarea acestui supliment">
 
-<!ENTITY cmd.showReleaseNotes.label           "Arată notele privind lansarea">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Arată notele privind lansarea pentru această actualizare">
+<!ENTITY cmd.showReleaseNotes.label           "Afișează notele privind lansarea">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Afișează notele privind lansarea pentru această actualizare">
 <!ENTITY cmd.hideReleaseNotes.label           "Ascunde notele privind lansarea">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ascunde notele privind lansarea pentru această actualizare">
 <!ENTITY cmd.findReplacement.label            "Găsești o extensie înlocuitoare">
