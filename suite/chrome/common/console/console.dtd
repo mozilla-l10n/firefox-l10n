@@ -20,6 +20,8 @@
 <!ENTITY clear.accesskey      "ს">
 <!ENTITY codeEval.label       "კოდი:">
 <!ENTITY codeEval.accesskey   "კ">
+<!ENTITY evaluate.label       "ანალიზი">
+<!ENTITY evaluate.accesskey   "ზ">
 <!ENTITY filter2.label        "ფილტრი:">
 <!ENTITY filter2.accesskey    "ფ">
 
@@ -35,5 +37,11 @@
 <!ENTITY focus2.commandkey     "d">
 
 <!ENTITY menuBar.tooltip       "მენიუს ზოლი">
+<!ENTITY modeToolbar.tooltip   "რეჟიმების ხელსაწყოთა ზოლი">
+<!ENTITY entryToolbar.tooltip  "Javascript ელემენტების ხელსაწყოთა ზოლი">
 <!ENTITY toolbarsCmd.label     "ჩვენება/დამალვა">
 <!ENTITY toolbarsCmd.accesskey "ვ">
+<!ENTITY toolbarMode.label     "რეჟიმი">
+<!ENTITY toolbarMode.accesskey "რ">
+<!ENTITY toolbarEval.label     "JavaScript ელემენტი">
+<!ENTITY toolbarEval.accesskey "ლ">
