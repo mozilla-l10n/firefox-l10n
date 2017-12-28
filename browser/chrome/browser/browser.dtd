@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Bạn đã chặn popup ở trang web này.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Bạn đã chặn khai thác dữ liệu canvas đối với trang web này.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Xem lịch sử">
 
 <!ENTITY searchItem.title             "Tìm kiếm">
