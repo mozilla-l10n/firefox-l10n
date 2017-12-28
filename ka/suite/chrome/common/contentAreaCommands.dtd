@@ -110,12 +110,14 @@
 <!ENTITY mediaPlaybackRate.accesskey    "b">
 <!ENTITY mediaPlaybackRate050.label     "შენელებული (½×)">
 <!ENTITY mediaPlaybackRate050.accesskey "S">
-<!ENTITY mediaPlaybackRate100.label     "ჩვეულებრი">
-<!ENTITY mediaPlaybackRate100.accesskey "N">
-<!ENTITY mediaPlaybackRate150.label     "დაჩაქარებული (1½×)">
-<!ENTITY mediaPlaybackRate150.accesskey "H">
-<!ENTITY mediaPlaybackRate200.label     "ორმაგი სიჩქარე">
-<!ENTITY mediaPlaybackRate200.accesskey "D">
+<!ENTITY mediaPlaybackRate100.label     "ჩვეულებრივი">
+<!ENTITY mediaPlaybackRate100.accesskey "ჩ">
+<!ENTITY mediaPlaybackRate125.label     "სწრაფი (1¼×)">
+<!ENTITY mediaPlaybackRate125.accesskey "წ">
+<!ENTITY mediaPlaybackRate150.label     "უფრო სწრაფი (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "უ">
+<!ENTITY mediaPlaybackRate200.label     "ორმაგი სიჩქარის">
+<!ENTITY mediaPlaybackRate200.accesskey "ო">
 <!ENTITY mediaLoop.label              "ციკლი">
 <!ENTITY mediaLoop.accesskey          "ც">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
