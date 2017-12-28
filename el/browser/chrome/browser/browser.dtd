@@ -983,7 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.label "Επανεκκίνηση και επαναφορά">
 <!ENTITY updateRestart.acceptButton.accesskey "Ε">
 <!ENTITY updateRestart.cancelButton.label "Όχι τώρα">
-<!ENTITY updateRestart.cancelButton.accesskey "Ο">
+<!ENTITY updateRestart.cancelButton.accesskey "Ό">
 <!ENTITY updateRestart.panelUI.label2 "Επανεκκίνηση για ενημέρωση του &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Η νέα σας καρτέλα έχει αλλάξει.">
