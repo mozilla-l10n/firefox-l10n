@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Enviar lo ligam al periferic">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "Mandat !">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "En renga (fòra linha)">
 <!ENTITY  moveToNewWindow.label              "Desplaçar cap a una fenèstra novèla">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Marcar totes los onglets…">
@@ -105,6 +106,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Informacion sus la pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -187,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "g">
 
 <!ENTITY backCmd.label                "Pagina precedenta">
+<!ENTITY backCmd.accesskey            "P">
 <!ENTITY backButton.tooltip           "Recuolar d'una pagina">
 <!ENTITY forwardCmd.label             "Pagina seguenta">
+<!ENTITY forwardCmd.accesskey         "s">
 <!ENTITY forwardButton.tooltip        "Avançar d'una pagina">
 <!ENTITY backForwardButtonMenu.tooltip "Far un clic dreit o clicar en desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY backForwardButtonMenuMac.tooltip "Clicar en tot desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY reloadCmd.label              "Actualizar">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Arrestar">
+<!ENTITY stopCmd.accesskey            "A">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Anar a la pagina indicada dins la barra d'adreça">
 <!ENTITY printButton.label            "Imprimir">
@@ -228,7 +234,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Avètz blocat las notificacions per aquel site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Avètz empachat aquel site de gardar de biais persistent de donadas.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "Avètz blocat la fenèstras surgentas per aqueste site.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Avètz empachat aqueste site de traire d’informacions de canvas.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
 
@@ -987,6 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Tornar aviar per metre a jorn &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "La pagina Onglet novèls es estada cambiada.">
 <!ENTITY newTabControlled.keepButton.label "Servar los cambiaments">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
 <!ENTITY newTabControlled.restoreButton.label "Restablir los paramètres">
