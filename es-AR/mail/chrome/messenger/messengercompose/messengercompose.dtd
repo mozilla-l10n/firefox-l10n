@@ -138,6 +138,9 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordenar en sentido A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordenar en sentido Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ver">
@@ -319,6 +322,8 @@
 <!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Renombrar…">
 <!ENTITY renameAttachment.accesskey "R">
+<!ENTITY reorderAttachments.label "Reordenar los archivos adjuntos…">
+<!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY selectAll.label "Seleccionar todo">
 <!ENTITY selectAll.accesskey "t">
 <!ENTITY attachFile.label "Adjuntar archivo(s)…">
