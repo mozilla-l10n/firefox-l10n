@@ -9,6 +9,7 @@
 <!ENTITY allFoldersOffline.accesskey "t">
 <!ENTITY allFoldersOffline2.label "Behald meldingar i alle mapper for denne kontoen, på denne datamaskina">
 <!ENTITY allFoldersOffline2.accesskey "a">
+<!ENTITY allFoldersOfflineNote.label "Merk: Om du endrar dette, påverkar det alle mapper i denne kontoen. For å stille inn einskildmapper, bruk Avansert…-knappen.">
 <!ENTITY offlineNotDownload.label "Meldingar større enn">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Ikkje last ned meldingar større enn">
