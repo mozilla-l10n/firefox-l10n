@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "con nombre de remitente y vista previa de mensaje">
 <!ENTITY  buddyInfoOnly.label                 "solo con nombre de remitente">
 <!ENTITY  dummyNotification.label             "sin otra información">
+<!ENTITY  getAttention.label                  "Titilar el elemento de la barra de tareas">
+<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "Animar el ícono del dock">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Reproducir un sonido">
 <!ENTITY  play.label                          "Reproducir">
