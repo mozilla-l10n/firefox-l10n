@@ -3,15 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Tekorosã">
-<!ENTITY  phishingProtection.label       "Ñemo'ã phishing rovak">
 
 <!ENTITY  warnOnAddonInstall2.label       "Ehechakuaa oĩ jave tenda omohendaséva moĩmbaha.">
 <!ENTITY  warnOnAddonInstall2.accesskey   "E">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Ñemo'ã Mba'e Ag̃ave'ỹvagui">
 <!ENTITY  enableSafeBrowsing.label        "Ejoko tetepy kyhyjerã ha imarãkuaáva">
 <!ENTITY  enableSafeBrowsing.accesskey    "E">
 
