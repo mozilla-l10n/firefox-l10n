@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Bruk adresselinja for søk og navigering">
 <!ENTITY searchBar.shown.label                 "Legg til søkjelinje i verktøylinja">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Vis søkjeforslag før nettlesarhistorikk i adressefeltresultata">
+
 <!ENTITY defaultSearchEngine.label             "Standard søkjemotor">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Vel standard-søkjemotor som skal brukast i adresselinja og søkjelinja.">
