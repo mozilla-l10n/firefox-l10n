@@ -4,10 +4,12 @@
 
 <!ENTITY firstrun_panel_title_welcome "స్వాగతం">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; ఎంచుకున్నందుకు ధన్యవాదాలు">
+<!ENTITY firstrun_urlbar_subtext2 "స్వేచ్ఛా, బహిరంగ జాలానికి కట్టుబడి ఉన్న లాభాపేక్ష-లేని మొజిల్లా నుండి ఒక ఆధునిక మొబైల్ బ్రౌజర్.">
 <!ENTITY firstrun_panel_title_privacy "గోప్యత">
 <!ENTITY firstrun_privacy_message "ఎవరూ చూడనట్టుగా విహరణ చెయ్యండి">
 <!ENTITY firstrun_panel_title_customize "అనుకూలపరచు">
 <!ENTITY firstrun_customize_message "&brandShortName; ను మీ సొంతం చేస్కోండి.">
+<!ENTITY firstrun_customize_subtext "ఆడాన్లతో &brandShortName;‌ను మీకు తగ్గట్టుగా మలచుకోండి. వ్యాపార ప్రకటనలను నిరోధించుకోండి, కొత్త విశేషాలను చేర్చుకోండి, లేదా మీ వ్యక్తిత్వాన్ని ప్రతిబింబించే కొత్త అలంకారాన్ని ఎంచుకోండి.">
 <!ENTITY firstrun_bookmarks_title "చరిత్ర">
 <!ENTITY firstrun_bookmarks_message "మీ ఫేవ్స్, ముందు మరియు సెంటర్">
 <!ENTITY firstrun_bookmarks_subtext "మీరు శోధించినప్పుడు మీ బుక్మార్క్లు మరియు చరిత్ర నుండి ఫలితాలను పొందండి.">
