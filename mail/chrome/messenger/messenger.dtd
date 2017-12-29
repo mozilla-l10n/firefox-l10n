@@ -461,6 +461,10 @@
 <!ENTITY addons.label "Modules complémentaires">
 <!ENTITY addons.accesskey "c">
 <!ENTITY addonPrefs.label "Options des modules">
+<!ENTITY addonPrefs.accesskey "p">
+<!ENTITY addonPrefsUnix.label "Préférences des modules">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "Aucun paramètre de module n’a été trouvé.">
 <!ENTITY activitymanager.label "Activités">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "État de messagerie instantanée">
