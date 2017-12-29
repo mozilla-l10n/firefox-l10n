@@ -45,6 +45,7 @@
 <!ENTITY PlainText.label                "טקסט פשוט">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "לא ידוע">
+<!ENTITY chatName.label                 "שם הצ׳אט:">
 
 <!ENTITY WorkPhone.label                "עבודה:">
 <!ENTITY WorkPhone.accesskey            "ע">
@@ -117,6 +118,16 @@
 <!ENTITY Notes.label                    "הערות:">
 <!ENTITY Notes.accesskey                "ה">
 
+<!ENTITY Chat.tab                       "צ׳אט">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY Yahoo.label                    "Yahoo!‎:">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY XMPP.label                     "מזהה Jabber:">
+<!ENTITY IRC.label                      "כינוי ב־IRC:">
 
 <!ENTITY Photo.tab                      "תמונה">
 <!ENTITY Photo.accesskey                "ת">

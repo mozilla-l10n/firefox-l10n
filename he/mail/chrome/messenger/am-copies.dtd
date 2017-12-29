@@ -2,19 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# Yaron <sh.yaron@gmail.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# hatul <amiadb@gmail.com>
-#
--->
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "עותקים ותיקיות">
@@ -49,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "אחר:">
 <!ENTITY archiveInOtherFolder.accesskey "ח">
 <!ENTITY specialFolders.label "טיוטות ותבניות">
-<!ENTITY keepDrafts.label "שמור טיוטות הודעות בתוך:">
+<!ENTITY keepDrafts2.label "להשאיר הודעות טיוטה בתוך:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "תיקיית &quot;טיוטות&quot; על:">
 <!ENTITY draftsFolderOn.accesskey "ט">
@@ -61,4 +48,3 @@
 <!ENTITY templatesFolderOn.accesskey "ב">
 <!ENTITY templateInOtherFolder.label "אחר:">
 <!ENTITY templateInOtherFolder.accesskey "א">
-

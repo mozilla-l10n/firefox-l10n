@@ -1,9 +1,3 @@
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -22,4 +16,5 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "הכנס מיקום דף אינטרנט, קובץ מקומי, או בחר עוגן או כותרת מן הרשימה המופיעה:">
 <!ENTITY LinkURLEditField.accessKey "מ">
-
+<!ENTITY LinkURLEditField2.label "נא להקליד כתובת עמוד אינטרנט, קובץ מקומי או לבחור בעוגן שמי או כותרת מתפריט ההקשר של השדה:">
+<!ENTITY LinkURLEditField2.accessKey "א">

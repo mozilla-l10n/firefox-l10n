@@ -23,6 +23,7 @@
 <!ENTITY biffStart.label "בדוק אם קיימות הודעות חדשות כל ">
 <!ENTITY biffStart.accesskey "ב">
 <!ENTITY biffEnd.label "דקות">
+<!ENTITY useIdleNotifications.label "לאפשר התרעות מיידיות מהשרת בעת הגעת הודעות חדשות">
 <!ENTITY connectionSecurity.label "אבטחת קישוריות:">
 <!ENTITY connectionSecurity.accesskey "א">
 <!ENTITY connectionSecurityType-0.label "ללא">
@@ -74,6 +75,7 @@
 <!ENTITY abbreviateOff.label "שמות מקוצרים (לדוגמה, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "מתקדם…">
 <!ENTITY advancedButton.accesskey "ק">
+<!ENTITY serverDefaultCharset2.label "קידוד טקסט כבררת מחדל:">
 <!ENTITY localPath.label "ספרייה מקומית:">
 <!ENTITY localFolderPicker.label "בחר ספרייה מקומית">
 <!ENTITY browseFolder.label "עיין…">
@@ -82,3 +84,7 @@
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "הגדרות חשבון">
+<!ENTITY accountSettingsDesc.label "הבא הוא חשבון מיוחד. אינו זהויות שמקושרות אליו.">
+<!ENTITY storeType.label "סוג אחסון הודעות:">
+<!ENTITY mboxStore2.label "קובץ לתיקייה (mbox)">
+<!ENTITY maildirStore.label "קובץ להודעה (maildir)">

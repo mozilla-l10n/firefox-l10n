@@ -38,6 +38,7 @@
 
 <!-- Entities for Incoming Server page -->
 
+<!ENTITY incomingTitle.label "פרטי השרת הנכנס">
 <!ENTITY incomingServerTypeDesc.label "בחר את הסוג של שרת נכנס בו אתה משתמש.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -52,6 +53,7 @@
 <!ENTITY defaultPortLabel.label "ברירת מחדל:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.label "שרת נכנס:">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.label "שם משתמש:">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -61,7 +63,10 @@
 
 <!-- Entities for Outgoing Server page -->
 
+<!ENTITY outgoingTitle.label "פרטי השרת היוצא">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.label "שרת יוצא:">
+<!ENTITY outgoingUsername.label "שם משתמש יוצא:">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .

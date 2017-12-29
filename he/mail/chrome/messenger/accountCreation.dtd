@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY autoconfigWizard2.title         "הגדרת חשבון דוא״ל קיים">
 <!ENTITY name.label                      "השם שלך:">
 <!ENTITY name.accesskey                  "ש">
 <!ENTITY name.placeholder                "שם_פרטי שם_משפחה">
@@ -9,6 +10,8 @@
 <!ENTITY email.label                     "כתובת דוא״ל:">
 <!ENTITY email.accesskey                 "ד">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "כתובת הדוא״ל הנוכחית שלך">
 <!ENTITY password.label                  "ססמה:">
 <!ENTITY password.accesskey              "ס">
 <!ENTITY password.placeholder            "ססמה">
@@ -52,6 +55,7 @@
 <!ENTITY half-manual-test.accesskey      "ב">
 <!ENTITY manual-edit.label               "הגדרות ידניות">
 <!ENTITY manual-edit.accesskey           "ה">
+<!ENTITY open-provisioner.label          "קבלת כתובת דוא״ל חדשה…">
 
 
 <!ENTITY warning.label                   "זהירות!">

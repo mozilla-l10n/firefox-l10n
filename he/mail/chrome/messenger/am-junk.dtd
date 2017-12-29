@@ -16,9 +16,12 @@
 <!ENTITY purge1.accesskey "א">
 <!ENTITY purge2.label "ימים">
 
+<!ENTITY whitelistHeader.label "לא לסמן כזבל אוטומטית אם השולח הוא מבין אלה: ">
 
 <!ENTITY ispHeaders.label "סמוך על כותרי דואר זבל שנוצרו על־ידי:">
 <!ENTITY ispHeaders.accesskey "ס">
 
 <!ENTITY junkClassification.label "בחירה">
+<!ENTITY junkActions.label "יעד ותחלופה">
 
+<!ENTITY globalJunkPrefs.label "העדפות זבל כלליות…">

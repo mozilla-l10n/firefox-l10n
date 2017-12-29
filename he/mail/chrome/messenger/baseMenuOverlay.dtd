@@ -2,18 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "עזרה">
 <!ENTITY helpMenu.accesskey "ע">
@@ -29,15 +17,15 @@
 <!ENTITY releaseCmd2.accesskey "ה">
 <!ENTITY whatsNewCmd.label "מה חדש">
 <!ENTITY whatsNewCmd.accesskey "מ">
-<!ENTITY featureConfiguratorCmd.label "מסייע המעבר">
-<!ENTITY featureConfiguratorCmd.accesskey "מ">
 <!ENTITY openHelp.label "תוכן עזרה">
 <!ENTITY openHelp.accesskey "ע">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "עזרה עבור &brandShortName;">
+<!ENTITY openHelpMac2.label "עזרה ב־&brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "אודות &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "א">
 
+<!ENTITY aboutMenuCmd2.label "על אודות &brandFullName;">
