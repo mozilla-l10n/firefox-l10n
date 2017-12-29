@@ -10,5 +10,8 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                            "פתיחת תיקיה מכילה">
+<!ENTITY cmd.showMac.label                         "הצגה ב־Finder">
 <!ENTITY cmd.open.label                            "פתיחה">
+<!ENTITY cmd.removeFromHistory.label               "הסרה מההיסטוריה">
+<!ENTITY cmd.clearList.label                       "פינוי הרשימה">
 <!ENTITY cmd.searchDownloads.label                 "חיפוש…">

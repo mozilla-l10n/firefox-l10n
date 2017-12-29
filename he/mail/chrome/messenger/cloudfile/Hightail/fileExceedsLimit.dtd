@@ -3,3 +3,4 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
 <!ENTITY fileExceedsLimit.thatsBigFile3 "שליחת קבצים הגדולים מ־50MB נתמכת בחשבונות פרימיום בלבד.">
+<!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">

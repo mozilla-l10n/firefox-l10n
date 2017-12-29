@@ -4,6 +4,7 @@
 
 
 <!ENTITY accountProtocolField.label   "רשת:">
+<!ENTITY accountProtocolGetMore.label "קבלת עוד…">
 
 <!ENTITY accountUsernameTitle.label   "שם משתמש">
 <!ENTITY accountUsernameDuplicate.label "חשבון זה כבר הוגדר!">
@@ -12,7 +13,11 @@
 <!ENTITY accountPasswordField.label   "ססמה:">
 
 <!ENTITY accountAdvancedTitle.label   "אפשרויות מתקדמות">
+<!ENTITY accountAdvanced.newMailNotification.label   "התרעה על הודעה חדשה">
+<!ENTITY accountAliasGroupbox.caption "כינוי מקומי">
+<!ENTITY accountAliasField.label      "כינוי:">
 <!ENTITY accountProxySettings.caption "הגדרות שרת מתווך">
 <!ENTITY accountProxySettings.change.label     "שינוי…">
 
 <!ENTITY accountSummaryTitle.label   "תקציר">
+<!ENTITY accountSummary.connectNow.label "התחברות לחשבון זה כעת.">

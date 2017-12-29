@@ -12,10 +12,14 @@
 <!ENTITY editButton.accesskey "ע">
 <!ENTITY deleteButton.label "מחיקה">
 <!ENTITY deleteButton.accesskey "מ">
+<!ENTITY reorderTopButton "העברה כעליון">
+<!ENTITY reorderTopButton.toolTip "סידור המסנן מחדש כדי שיופעל לפני כל האחרים">
 <!ENTITY reorderUpButton.label "הזז למעלה">
 <!ENTITY reorderUpButton.accesskey "ע">
 <!ENTITY reorderDownButton.label "הזז למטה">
 <!ENTITY reorderDownButton.accesskey "ט">
+<!ENTITY reorderBottomButton "העברה כתחתון">
+<!ENTITY reorderBottomButton.toolTip "סידור המסנן מחדש כדי שיופעל אחרי כל האחרים">
 <!ENTITY filterHeader.label "מסננים מאופשרים יופעלו אוטומטית בסדר הנראה להלן.">
 <!ENTITY filtersForPrefix.label "מסננים עבור:">
 <!ENTITY filtersForPrefix.accesskey "ע">

@@ -6,17 +6,27 @@
 <!ENTITY offlineContactsHeader.label   "אנשי קשר לא מחוברים">
 <!ENTITY conversationsHeader.label     "שיחות">
 <!ENTITY searchResultConversation.label "תוצאת חיפוש">
+<!ENTITY chat.noConv.title             "השיחות תוצגנה כאן.">
+<!ENTITY chat.noAccount.title             "טרם הגדרת חשבון צ׳אט.">
+<!ENTITY chat.accountWizard.button       "איך מתחילים">
+<!ENTITY chat.noConnectedAccount.title             "חשבונות הצ׳אט שלך אינם מחוברים.">
+<!ENTITY chat.noConnectedAccount.description       "ניתן להתחבר אליהם מתיבת הדו־שיח ‚מצב צ׳אט’:">
+<!ENTITY chat.showAccountManager.button       "הצגת מצב הצ׳אט">
 
 <!ENTITY chat.participants             "משתתפים:">
 <!ENTITY chat.previousConversations    "שיחות קודמות:">
+<!ENTITY chat.ongoingConversation      "שיחה מתמשכת">
 
+<!ENTITY openConversationCmd.label     "התחלת שיחה">
 <!ENTITY closeConversationCmd.label    "סגירת שיחה">
 <!ENTITY aliasCmd.label                "שינוי שם">
 <!ENTITY deleteCmd.label               "הסרת איש קשר">
 
+<!ENTITY openConversationButton.tooltip  "התחלת שיחה">
 <!ENTITY closeConversationButton.tooltip "סגירת שיחה">
 
 <!ENTITY addBuddyButton.label          "הוספת איש קשר">
+<!ENTITY joinChatButton.label          "הצטרפות לצ׳אט">
 <!ENTITY chatAccountsButton.label      "הצגת חשבונות">
 
 <!ENTITY status.available          "זמין">

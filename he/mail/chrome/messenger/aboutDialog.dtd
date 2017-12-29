@@ -1,3 +1,4 @@
+<!ENTITY aboutDialog.title          "על אודות &brandFullName;">
 
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
@@ -9,6 +10,7 @@
 # the about dialog.
 -->
 <!ENTITY update.checkForUpdatesButton.label       "בדיקה אחר עדכונים">
+<!ENTITY update.updateButton.label3               "יש להפעיל מחדש כדי לעדכן את &brandShorterName;">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
@@ -19,7 +21,10 @@
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " היא ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "קהילה גלובלית">
+<!ENTITY community.exp.end          " שעובדת יחד כדי לשמור על האינטרנט פתוח, ציבורי ונגיש לכולם.">
 
 <!ENTITY community.start2           "&brandShortName; תוכנן על־ידי ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -27,9 +32,14 @@
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "קהילה עולמית">
+<!ENTITY community.end3             " שעובדת יחד כדי לשמור על האינטרנט פתוח, ציבורי ונגיש לכולם.">
 
+<!ENTITY helpus.start               "רוצה לעזור? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "הגשת תרומה">
+<!ENTITY helpus.middle              " או ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "הצטרפות!">
 
 <!ENTITY releaseNotes.link          "הערות שחרור">
 
@@ -84,6 +94,7 @@
 <!ENTITY update.downloading.start   "מוריד עדכון — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "העדכון חל…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
