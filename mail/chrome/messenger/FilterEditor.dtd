@@ -17,11 +17,18 @@
 <!ENTITY highestPriorityCmd.label "הכי גבוהה">
 
 <!ENTITY contextDesc.label "הפעל מסננים כאשר:">
+<!ENTITY contextIncomingMail.label "קבלת הודעת דוא״ל חדשה:">
 <!ENTITY contextManual.label "מורץ ידנית">
+<!ENTITY contextBeforeCls.label "סינון לפני סיווג כזבל">
+<!ENTITY contextAfterCls.label "סינון אחרי סיווג כזבל">
+<!ENTITY contextOutgoing.label "לאחר השליחה">
+<!ENTITY contextArchive.label "העברה לארכיון">
 
 <!ENTITY filterActionDesc.label "בצע פעולות אלו:">
 <!ENTITY filterActionDesc.accesskey "P">
 
+<!ENTITY filterActionOrderWarning.label "לתשומת לבך: פעולות המסנן תרוצנה בסדר שונה.">
+<!ENTITY filterActionOrder.label "הצגת סדר הפעולות">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "העבר הודעה אל">

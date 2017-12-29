@@ -10,6 +10,7 @@
 <!ENTITY windowTitle2.label "שמירה ושינוי קידוד טקסט">
 <!ENTITY documentTitleTitle.label "כותרת דף">
 <!ENTITY documentCharsetTitle2.label "קידוד טקסט">
+<!ENTITY documentCharsetDesc2.label "נא לבחור את קידוד הטקסט בו יישמר המסמך:">
 <!ENTITY documentExportToText.label "יצא לטקסט">
 
 

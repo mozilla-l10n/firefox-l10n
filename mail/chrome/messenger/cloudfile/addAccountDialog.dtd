@@ -1,5 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.menuTitle "נא לבחור שירות אחסון מקוון">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "שם חשבון:">
+<!ENTITY addAccountDialog.authorizing "האימות נבדק…">
+<!ENTITY addAccountDialog.error "אירעה שגיאה בעת הגדרת החשבון!">
 <!ENTITY addAccountDialog.acceptButton.label "הגדרת חשבון">
+<!ENTITY addAccountDialog.learnMore "מידע נוסף…">
