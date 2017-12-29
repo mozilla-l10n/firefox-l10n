@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanalai">
 <!ENTITY aboutSupport.mediaDeviceRate "Dažnis">
 <!ENTITY aboutSupport.mediaDeviceLatency "Delsa">
+
+<!ENTITY aboutSupport.intlTitle "Internacionalizacija ir lokalizacija">
+<!ENTITY aboutSupport.intlAppTitle "Programos nuostatos">
+<!ENTITY aboutSupport.intlLocalesRequested "Užklaustos lokalės">
+<!ENTITY aboutSupport.intlLocalesAvailable "Galimos lokalės">
+<!ENTITY aboutSupport.intlLocalesSupported "Programos lokalės">
+<!ENTITY aboutSupport.intlLocalesDefault "Numatytoji lokalė">
+<!ENTITY aboutSupport.intlOSTitle "Operacinė sistema">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Sistemos lokalės">
+<!ENTITY aboutSupport.intlRegionalPrefs "Regionų nuostatos">
