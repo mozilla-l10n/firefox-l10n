@@ -30,6 +30,9 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "ח">
 <!ENTITY newExistingEmailAccountCmd.label "חשבון דואר קיים…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "ק">
+<!ENTITY newIMAccountCmd.label "חשבון צ׳אט…">
+<!ENTITY newFeedAccountCmd.label "חשבון הזנה…">
+<!ENTITY newIMContactCmd.label "איש קשר מצ׳אט…">
 <!ENTITY openMessageFileCmd.label "פתח הודעה שמורה…">
 <!ENTITY openMessageFileCmd.accesskey "ת">
 <!ENTITY saveAsMenu.label "שמור">
@@ -45,8 +48,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "כ">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "חשבון נוכחי">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "נ">
-<!ENTITY getNextNMsgCmd.label "קבל את 500 ההודעות הבאות">
-<!ENTITY getNextNMsgCmd.accesskey "ב">
 <!ENTITY sendUnsentCmd.label "שליחת הודעות שטרם נשלחו">
 <!ENTITY sendUnsentCmd.accesskey "ע">
 <!ENTITY subscribeCmd.label "הרשמה כמנוי…">
@@ -66,6 +67,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "ל">
 <!ENTITY synchronizeOfflineCmd.label "הורד/סנכרן כעת...">
 <!ENTITY synchronizeOfflineCmd.accesskey "ס">
+<!ENTITY settingsOfflineCmd2.label "הגדרות מצב לא־מקוון">
 <!ENTITY downloadSelectedCmd.label "קבל הודעות מסומנות">
 <!ENTITY downloadSelectedCmd.accesskey "מ">
 <!ENTITY downloadStarredCmd.label "קבל הודעות מסומנות בכוכבית">
@@ -102,6 +104,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "מ">
 <!ENTITY menuFavoriteFolder.label "תיקייה מועדפת">
 <!ENTITY menuFavoriteFolder.accesskey "ע">
+<!ENTITY folderPropsCmd2.label "מאפיינים">
+<!ENTITY folderPropsFolderCmd2.label "מאפייני תיקייה">
+<!ENTITY folderPropsNewsgroupCmd2.label "מאפייני קבוצת חדשות">
 <!ENTITY folderPropsCmd.accesskey "א">
 <!ENTITY undoDeleteMsgCmd.label "בטל מחיקת הודעה">
 <!ENTITY redoDeleteMsgCmd.label "בצע שוב מחיקת הודעה">
@@ -134,6 +139,7 @@
 <!ENTITY messagePaneVertical.accesskey "א">
 <!ENTITY showFolderPaneCmd.label "לוח תיקיות">
 <!ENTITY showFolderPaneCmd.accesskey "ת">
+<!ENTITY showFolderPaneColsCmd.label "עמודות חלונית תיקיות">
 <!ENTITY showMessageCmd.label "חלונית הודעה">
 <!ENTITY showMessageCmd.accesskey "ה">
 
@@ -149,6 +155,9 @@
 <!ENTITY favoriteFolders.accesskey "מ">
 <!ENTITY recentFolders.label "אחרונים">
 <!ENTITY recentFolders.accesskey "א">
+<!ENTITY compactVersion.label "תצוגה חסכונית">
+<!ENTITY folderPaneBar.label "סרגל כלים של חלונית תיקיות">
+<!ENTITY folderModeSelector.label "תצוגות תיקייה">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "סדר לפי">
@@ -295,6 +304,7 @@
 <!ENTITY goBackCmd.label "אחורה">
 <!ENTITY goBackCmd.accesskey "א">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "צ׳אט">
 <!ENTITY prevStarredMsgCmd.label "הודעה מסומנת בכוכבית">
 <!ENTITY prevStarredMsgCmd.accesskey "ס">
 <!ENTITY folderMenu.label "תיקייה">
@@ -336,6 +346,10 @@
 <!ENTITY forwardAsInline.accesskey "ג">
 <!ENTITY forwardAsAttachmentCmd.label "קובץ מצורף">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
+<!ENTITY editAsNewMsgCmd.label "עריכה כהודעה חדשה">
+<!ENTITY editDraftMsgCmd.label "עריכת הודעת טיוטה">
+<!ENTITY newMsgFromTemplateCmd.label "הודעה חדשה מתבנית">
+<!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "צור מסנן מהודעה…">
 <!ENTITY createFilter.accesskey "צ">
 <!ENTITY moveMsgToMenu.label "העבר">
@@ -403,6 +417,9 @@
 <!ENTITY openConversationCmd.label "פתח בדיון">
 <!ENTITY openConversationCmd.accesskey "ד">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "קבצים מצורפים">
+<!ENTITY openFeedWebPage.label "פתיחה כעמוד אינטרנט">
+<!ENTITY openFeedSummary.label "פתיחה כתקציר">
 <!ENTITY openFeedWebPageInMP.label "החלף בין דף אינטרנט ותקציר בחלונית ההודעה">
 <!ENTITY openFeedWebPageInMP.accesskey "ח">
 
@@ -419,11 +436,21 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "תוספות">
 <!ENTITY addons.accesskey "ת">
+<!ENTITY addonPrefs.label "אפשרויות תוספות">
+<!ENTITY addonPrefsUnix.label "העדפות תוספת">
+<!ENTITY addonNoPrefs.label "לא נמצאו הגדרות לתוסף.">
 <!ENTITY activitymanager.label "מנהל פעילויות">
 <!ENTITY activitymanager.accesskey "פ">
+<!ENTITY imAccountsStatus.label "מצב הצ׳אט">
+<!ENTITY imStatus.available          "זמין">
+<!ENTITY imStatus.unavailable        "לא זמין">
+<!ENTITY imStatus.offline            "כבוי">
+<!ENTITY imStatus.showAccounts       "הצגת חשבונות…">
+<!ENTITY joinChatCmd.label "הצטרפות לצ׳אט…">
 <!ENTITY savedFiles.label "קבצים שמורים">
 <!ENTITY savedFiles.accesskey "ק">
 <!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "מסנני הודעות">
 <!ENTITY filtersApply.label "הפעל מסננים על התיקייה">
 <!ENTITY filtersApply.accesskey "מ">
 <!ENTITY filtersApplyToSelection.label "הפעל מסננים על הודעות נבחרות">
@@ -436,14 +463,20 @@
 <!ENTITY deleteJunk.accesskey "ח">
 <!ENTITY importCmd.label "ייבוא…">
 <!ENTITY importCmd.accesskey "י">
+<!ENTITY clearRecentHistory.label "ניקוי היסטוריה אחרונה…">
+<!ENTITY accountManagerCmd2.label "הגדרות חשבון">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "כלי פיתוח">
+<!ENTITY devToolboxCmd.label "ארגז כלים מפתחים">
+<!ENTITY addonDebugCmd.label "מנפה שגיאות בתוספות">
 <!ENTITY errorConsoleCmd.label "מסוף שגיאות">
 <!ENTITY errorConsoleCmd.accesskey "ש">
+<!ENTITY scratchpadCmd.label "דף טיוטה">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
@@ -453,6 +486,7 @@
     This should be the text printed on the key defined in the previous string. -->
 
 <!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "קבלת הודעות">
 <!ENTITY newMsgButton.label "כתיבה">
 <!ENTITY replyButton.label "השב">
 <!ENTITY replyAllButton.label "השב לכולם">
@@ -460,6 +494,7 @@
 <!ENTITY forwardButton.label "העבר">
 <!ENTITY fileButton.label "תייק">
 <!ENTITY archiveButton.label "העבר לארכיון">
+<!ENTITY openConversationButton.label "שיחה">
 <!ENTITY nextButton.label "הבא">
 <!ENTITY previousButton.label "קודם">
 <!ENTITY backButton1.label "אחורה">
@@ -495,7 +530,9 @@
 <!ENTITY fileButton.tooltip "תייק הודעה נבחרת">
 <!ENTITY archiveButton.tooltip "העברה לארכיון של ההודעות הנבחרות">
 <!ENTITY nextButton.tooltip "עבור להודעה הבאה שלא נקראה">
+<!ENTITY nextMsgButton.tooltip "מעבר להודעה הבאה">
 <!ENTITY previousButton.tooltip "עבור אל ההודעה הקודמת שלא נקראה">
+<!ENTITY previousMsgButton.tooltip "מעבר להודעה הקודמת">
 <!ENTITY goForwardButton.tooltip "עבור קדימה הודעה אחת">
 <!ENTITY goBackButton.tooltip "עבור אחורה הודעה אחת">
 <!ENTITY deleteButton.tooltip "מחק הודעה או תיקייה נבחרות">
@@ -508,25 +545,45 @@
 <!ENTITY addressBookButton.tooltip "עבור לפנקס כתובות">
 <!ENTITY tagButton.tooltip "סמן הודעות בתוויות">
 <!ENTITY compactButton.tooltip "הסר הודעות שנמחקו מתיקייה מסומנת">
+<!ENTITY appmenuButton1.tooltip "הצגת התפריט של &brandShortName;">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsAttachment.label "העברה כקובץ מצורף">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "הצגת תוכן מרוחק בהודעה זו">
+<!ENTITY editRemoteContentSettings.label "עריכת אפשרויות תוכן מרוחק…">
+<!ENTITY editRemoteContentSettingsUnix.label "עריכת העדפות תוכן מרוחק…">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "התעלמות מאזהרות על הודעה זו">
+<!ENTITY phishingOptionSettings.label "עריכת אפשרויות זיהוי הונאה…">
+<!ENTITY phishingOptionSettingsUnix.label "עריכת אפשרויות זיהוי הונאה…">
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "הודעה חדשה">
+<!ENTITY appmenuEditMenu.label "עריכה">
+<!ENTITY appmenuToolbarLayout.label "פריסת סרגל כלים…">
+<!ENTITY appmenuSelectThread.label "בחירת נושא דיון">
+<!ENTITY appmenuSelectFlagged.label "בחירת הודעות שסומנו בכוכבית">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "תווית חדשה…">
 <!ENTITY addNewTag.accesskey "ת">
+<!ENTITY manageTags.label "ניהול תגיות…">
 
 <!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "שם">
+<!ENTITY folderUnreadColumn.label "לא נקראו">
+<!ENTITY folderTotalColumn.label "הכול">
 <!ENTITY folderSizeColumn.label "גודל">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "קבל הודעות">
 <!ENTITY folderContextGetMessages.accesskey "ק">
+<!ENTITY folderContextPauseAllUpdates.label "השהיית כל העדכונים">
+<!ENTITY folderContextPauseUpdates.label "השהיית העדכונים">
+<!ENTITY folderContextOpenInNewWindow.label "פתיחה בחלון חדש">
 <!ENTITY folderContextOpenNewTab.label "פתח בלשונית חדשה">
 <!ENTITY folderContextOpenNewTab.accesskey "ש">
 <!ENTITY folderContextNew.label "תת תיקייה חדשה…">
@@ -553,8 +610,10 @@
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "חיפוש הודעות…">
 <!ENTITY folderContextSearchForMessages.accesskey "ח">
+<!ENTITY folderContextProperties2.label "מאפיינים">
 <!ENTITY folderContextFavoriteFolder.label "תיקייה מועדפת">
 <!ENTITY folderContextFavoriteFolder.accesskey "ע">
+<!ENTITY folderContextSettings2.label "הגדרות">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "שם או דוא״ל מכילים:">
@@ -594,18 +653,35 @@
 <!ENTITY attachmentColumn.label "נספחים">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "נא לבחור עמודות להצגה">
+<!ENTITY fromColumn2.tooltip "מיון לפי מאת">
+<!ENTITY recipientColumn2.tooltip "מיון לפי נמען">
+<!ENTITY subjectColumn2.tooltip "מיון לפי נושא">
+<!ENTITY dateColumn2.tooltip "מיון לפי תאריך">
+<!ENTITY priorityColumn2.tooltip "מיון לפי עדיפות">
+<!ENTITY tagsColumn2.tooltip "מיון לפי תגיות">
+<!ENTITY accountColumn2.tooltip "מיון לפי חשבון">
+<!ENTITY statusColumn2.tooltip "מיון לפי מצב">
+<!ENTITY sizeColumn2.tooltip "מיון לפי גודל">
+<!ENTITY starredColumn2.tooltip "מיון פי כוכבית">
+<!ENTITY locationColumn2.tooltip "מיון לפי מיקום">
+<!ENTITY attachmentColumn2.tooltip "מיון לפי קבצים מצורפים">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "הודעה חדשה מתבנית">
 <!ENTITY contextOpenNewWindow.label "פתח הודעה בחלון חדש">
 <!ENTITY contextOpenNewWindow.accesskey "ח">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "פתח הודעה בלשונית חדשה">
 <!ENTITY contextOpenNewTab.accesskey "ל">
 <!ENTITY contextOpenConversation.label "פתח הודעה בדיון">
 <!ENTITY contextOpenConversation.accesskey "ד">
+<!ENTITY contextOpenContainingFolder.label "פתיחת הודעה בתיקייה המכילה">
+<!ENTITY contextEditMsgAsNew.label "עריכה כהודעה חדשה">
+<!ENTITY contextEditDraftMsg.label "עריכת הודעה טיוטה">
 <!ENTITY contextArchive.label "העבר לארכיון">
 <!ENTITY contextArchive.accesskey "א">
 <!ENTITY contextReplySender.label "השב לשולח בלבד">
@@ -616,12 +692,16 @@
 <!ENTITY contextReplyList.accesskey "ר">
 <!ENTITY contextForward.label "העבר">
 <!ENTITY contextForward.accesskey "ע">
+<!ENTITY contextForwardAsMenu.label "העברה בתור">
+<!ENTITY contextForwardAsAttachmentItem.label "קובץ מצורף">
+<!ENTITY contextMultiForwardAsAttachment.label "העברה כקבצים מצורפים">
 <!ENTITY contextMoveMsgMenu.label "העבר אל">
 <!ENTITY contextMoveMsgMenu.accesskey "ע">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "אחרונים">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "א">
 <!ENTITY contextCopyMsgMenu.label "העתק אל">
 <!ENTITY contextCopyMsgMenu.accesskey "ת">
+<!ENTITY contextWatchThreadMenu.label "מעקב אחר נושא דיון">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
@@ -705,6 +785,7 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "חיפוש #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
@@ -721,6 +802,7 @@
 <!ENTITY AddToAddressBook.accesskey "פ">
 <!ENTITY AddDirectlyToAddressBook.label "הוספה לספר כתובות">
 <!ENTITY AddDirectlyToAddressBook.accesskey "פ">
+<!ENTITY EditContact1.label "עריכת איש קשר">
 <!ENTITY ViewContact.label "הצג איש קשר">
 <!ENTITY ViewContact.accesskey "ה">
 <!ENTITY SubscribeToNewsgroup.label "הרשמה לקבוצת דיון">
@@ -729,6 +811,7 @@
 <!ENTITY SendMessageTo.accesskey "כ">
 <!ENTITY CopyEmailAddress.label "העתקת כתובת דוא״ל">
 <!ENTITY CopyEmailAddress.accesskey "ע">
+<!ENTITY CopyNameAndEmailAddress.label "העתקת שם וכתובת דוא״ל">
 <!ENTITY CopyNewsgroupName.label "העתקת שם קבוצת דיון">
 <!ENTITY CopyNewsgroupName.accesskey "ב">
 <!ENTITY CopyNewsgroupURL.label "העתקת כתובת קבוצת דיון">
@@ -772,6 +855,7 @@
 <!ENTITY zoomWindow.label "הגדלת חלון">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac2.label       "העדפות">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "שרותים">
@@ -784,3 +868,6 @@
 <!ENTITY showAllAppsCmdMac.label        "הצג הכול">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "אפשרויות סמל היישום…">
+<!ENTITY writeNewMessageDock.label      "כתיבת הודעה חדשה">
+<!ENTITY openAddressBookDock.label      "פתיחת פנקס כתובות">
