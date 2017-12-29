@@ -8,6 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "O planhèm, capitam pas de recuperar vòstras paginas.">
 <!ENTITY restorepage.problemDesc2   "Patissèm a restablir vòstra darrièra session de navigacion. Seleccionatz «Restablir la session» per tornar ensajar.">
+<!ENTITY restorepage.tryThis2       "Podètz pas encara restablir vòstra session ? De còps un onglet es lo problèma. Vejatz los onglets anteriors, deseleccionatz los que vos fa pas besonh, e tornatz ensajar.">
 
 <!ENTITY restorepage.hideTabs       "Amagar los onglets precedents">
 <!ENTITY restorepage.showTabs       "Afichar los onglets precedents">

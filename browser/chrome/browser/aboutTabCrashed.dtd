@@ -22,7 +22,9 @@
 <!ENTITY tabCrashed.requestHelp "Volètz nos ajudar ?">
 <!ENTITY tabCrashed.requestHelpMessage "Los rapòrts de plantatges nos ajudan a diagnosticar de problèmas e melhorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Senhalar aqueste onglet">
+<!ENTITY tabCrashed.sendReport3 "Mandar un rapòrt de fracàs automaticament per ajudar a corregir las errors coma aquesta.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentaris opcionals (los comentaris son visibles publicament)">
+<!ENTITY tabCrashed.includeURL3 "Inclure las URL dels sites que visitàvetz quand &brandShortName; s’es arrestat.">
 <!ENTITY tabCrashed.emailPlaceholder "Picatz vòstra adreça electronica aicí">
 <!ENTITY tabCrashed.emailMe "Enviatz-me un corrièl quand d'informacions mai son disponiblas">
 <!ENTITY tabCrashed.reportSent "Rapòrt de plantatges ja enviat. Mercés plan per vòstra ajuda per melhorar &brandShortName; !">
