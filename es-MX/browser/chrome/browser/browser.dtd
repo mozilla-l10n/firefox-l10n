@@ -233,6 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Tienes bloqueadas las pop-ups para este sitio web.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Has bloqueado la extracción de datos de canvas para este sitio.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
 <!ENTITY searchItem.title             "Buscar">
@@ -991,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para actualizar &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Una extensión ha cambiado la página que ves al abrir una nueva pestaña. Puedes restaurar la configuración si no deseas este cambio.">
 <!ENTITY newTabControlled.header.message "Tu pestaña nueva ha cambiado.">
 <!ENTITY newTabControlled.keepButton.label "Mantener cambios">
 <!ENTITY newTabControlled.restoreButton.label "Restaurar configuraciones">
