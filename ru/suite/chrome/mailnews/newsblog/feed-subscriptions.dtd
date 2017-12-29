@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "Адрес ленты новостей:">
 <!ENTITY feedLocation.accesskey      "ы">
 <!ENTITY feedLocation.placeholder    "Введите корректный адрес ленты новостей">
+<!ENTITY feedLocation2.placeholder   "Введите корректный адрес ленты новостей">
 <!ENTITY locationValidate.label      "Валидация">
 <!ENTITY validateText.label          "Проверьте корректность и получите корректную ссылку.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Добавить">
 <!ENTITY button.addFeed.accesskey    "б">
+<!ENTITY button.verifyFeed.label     "Проверить">
+<!ENTITY button.verifyFeed.accesskey "в">
 <!ENTITY button.updateFeed.label     "Обновить">
 <!ENTITY button.updateFeed.accesskey "в">
 <!ENTITY button.removeFeed.label     "Удалить">
