@@ -7,10 +7,12 @@
 <!ENTITY engine.bookmarks.label     "Marcapaginas">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label2         "Onglets dobèrts">
+<!ENTITY engine.tabs.title          "Una lista de çò qu’es dobèrts suls periferics sincronizats">
 <!ENTITY engine.tabs.accesskey      "O">
 <!ENTITY engine.history.label       "Istoric">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Identificants">
+<!ENTITY engine.logins.title        "Los noms d’utilizaires e los senhales qu’avètz salvats">
 <!ENTITY engine.logins.accesskey    "I">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
