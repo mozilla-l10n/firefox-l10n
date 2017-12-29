@@ -101,7 +101,7 @@ available. -->
 <!ENTITY updateHistory2.label            "తాజాకరణ చరిత్రను చూపించు…">
 <!ENTITY updateHistory2.accesskey        "p">
 
-<!ENTITY useService.label                "నవీకరణలను సంస్థాపించుటకు బ్యాక్‌గ్రౌండ్ సేవను ఉపయోగించు">
+<!ENTITY useService.label                "తాజాకరణలను స్థాపించడానికి బ్యాక్‌గ్రౌండ్ సేవను వాడు">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY enableSearchUpdate2.label       "సెర్చింజన్లను స్వయంచాలకంగా తాజాకరించు">

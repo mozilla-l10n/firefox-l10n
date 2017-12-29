@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "పొడిగింతల నిర్వాహకి">
 
 <!ENTITY search.placeholder                   "అన్ని పొడిగింతలు వెతుకు">
+
 <!ENTITY search.buttonlabel                   "వెతుకు">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +26,7 @@
 
 <!ENTITY cmd.back.tooltip                     "ఒక పేజీ వెనుకకు వెళ్ళు">
 <!ENTITY cmd.forward.tooltip                  "ఒక పేజీ ముందుకు వెళ్ళు">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "కొన్ని పొడగింతలను తనిఖీ చేయలేకపోయాం">
 <!ENTITY showAllExtensions.button.label       "అన్ని పొడగింతలను చూపించు">
@@ -72,7 +74,7 @@
 <!ENTITY updates.restart.label                "సంస్థాపనను పూర్తిచేయుటకు ఇప్పుడే పునఃప్రారంభించు">
 <!ENTITY updates.noneFound.label              "ఏ నవీకరణలు కనబడలేదు">
 <!ENTITY updates.manualUpdatesFound.label     "అందుబాటులోని నవీకరణలను దర్శించు">
-<!ENTITY updates.updateSelected.label         "నవీకరణలను సంస్థాపించు">
+<!ENTITY updates.updateSelected.label         "తాజాకరణలను స్థాపించు">
 <!ENTITY updates.updateSelected.tooltip       "అందుబాటులోని నవీకరణలను ఈ జాబితాలో సంస్థాపించు">
 
 <!-- addon actions -->
@@ -102,7 +104,7 @@
 <!ENTITY cmd.neverActivate.label              "ఎప్పుడూ క్రియాశీలపరచవద్దు">
 <!ENTITY cmd.neverActivate.tooltip            "ఈ పొడగింతను ఎప్పుడూ వాడవద్దు">
 <!ENTITY cmd.stateMenu.tooltip                "ఈ పొడగింత ఎప్పుడు నడవాలో మార్చండి">
-<!ENTITY cmd.installAddon.label               "సంస్థాపించు">
+<!ENTITY cmd.installAddon.label               "స్థాపించు">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "తీసివేయి">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
@@ -141,7 +143,7 @@
 <!ENTITY detail.updateDefault.label           "అప్రమేయం">
 <!ENTITY detail.updateDefault.tooltip         "తాజాకరణలను స్థాపిచడం అప్రమేయమైతే వాటిని స్వయంచాలంకగా స్థాపించు">
 <!ENTITY detail.updateAutomatic.label         "ఆన్ చేయి">
-<!ENTITY detail.updateAutomatic.tooltip       "నవీకరణలను స్వయంచాలకంగా సంస్థాపించు">
+<!ENTITY detail.updateAutomatic.tooltip       "తాజాకరణలను స్వయంచాలకంగా స్థాపించు">
 <!ENTITY detail.updateManual.label            "ఆఫ్ చేయి">
 <!ENTITY detail.updateManual.tooltip          "నవీకరణలను స్వయంచాలకంగా సంస్థాపించవద్దు">
 <!ENTITY detail.home                          "హోం పేజీ">
@@ -181,7 +183,7 @@
 <!ENTITY search.filter2.installed.label       "నా పొడిగింతలు">
 <!ENTITY search.filter2.installed.tooltip     "సంస్థాపిత పొడిగింతలు చూపు">
 <!ENTITY search.filter2.available.label       "అందుబాటులోని పొడిగింతలు">
-<!ENTITY search.filter2.available.tooltip     "సంస్థాపించుటకు అందుబాటులోని పొడిగింతలు చూపు">
+<!ENTITY search.filter2.available.tooltip     "స్థాపించుకోడానికి అందుబాటులో ఉన్న పొడిగింతలు చూపించు">
 
 <!ENTITY addon.homepage                       "హోం పేజీ">
 <!ENTITY addon.details.label                  "ఇంకా">
@@ -205,10 +207,10 @@
 <!ENTITY addon.undoRemove.label               "చర్యరద్దు">
 <!ENTITY addon.undoRemove.tooltip             "ఈ పొడిగింత సంస్థాపించబడి ఉండనివ్వు">
 <!ENTITY addon.restartNow.label               "ఇప్పుడు పునఃప్రారంభించు">
-<!ENTITY addon.install.label                  "సంస్థాపించు">
-<!ENTITY addon.install.tooltip                "ఈ పొడిగింతను సంస్థాపించు">
+<!ENTITY addon.install.label                  "స్థాపించు">
+<!ENTITY addon.install.tooltip                "ఈ పొడిగింతను స్థాపించు">
 <!ENTITY addon.updateNow.label                "ఇప్పుడు నవీకరించు">
-<!ENTITY addon.updateNow.tooltip              "ఈ పొడిగింత కొరకు నవీకరణను సంస్థాపించు">
+<!ENTITY addon.updateNow.tooltip              "ఈ పొడిగింత యొక్క తాజాకరణను స్థాపించు">
 <!ENTITY addon.includeUpdate.label            "నవీకరణలో చేర్చు">
 <!ENTITY addon.updateAvailable.label          "ఒక నవీకరణ అందుబాటులోవుంది">
 <!ENTITY addon.checkingForUpdates.label       "నవీకరణల కొరకు పరిశీలిస్తున్నది…">
@@ -221,7 +223,7 @@
 <!ENTITY eula.title                           "అంతిమ-వినియోగదారి లైసెన్సు ఒప్పందపత్రం">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "ఆమోదించి సంస్థాపించు…">
+<!ENTITY eula.accept                          "ఆమోదించి స్థాపించు…">
 
 <!ENTITY settings.path.button.label           "విహరించు…">
 
@@ -256,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "ఏదైనా లేదా? కొన్ని ప్లగిన్లకు &brandShortName; ఇకపై తోడ్పాటు లేదు.">
 <!ENTITY pluginDeprecation.learnMore "ఇంకా తెలుసుకోండి.">
 
-<!ENTITY legacyWarning.description "ఏదైనా లేదా? కొన్ని పొడగింతలను &brandShortName; ఇకపై తోడ్పాటు లేదు.">
 <!ENTITY legacyWarning.showLegacy "లెగసీ పొడగింతలను చూపించు">
 <!ENTITY legacyExtensions.title "లెగసీ పొడిగింతలు">
 <!ENTITY legacyExtensions.description "ఈ పొడిగింతలు ప్రస్తుత &brandShortName; ప్రమాణాలను చేరుకోవు కాబట్టి అవి క్రియారహితం చేయబడ్డాయి.">
