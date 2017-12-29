@@ -21,21 +21,30 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "יש להפעיל את כלי הפיתוח של Firefox כדי להשתמש בחוקר הרכיבים">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "ניתוח ועריכת HTML ו־CSS עם המפקח כחלק מכלי הפיתוח.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "הפעלת את קיצור הדרך אל כלי הפיתוח. אם שגית, ניתן לסגור לשונית זו.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "ניתוח, עריכה וניפוי שגיאות ב־HTML, ב־CSS וב־JavaScript עם כלים כמו המפקח ומנפה השגיאות.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "ניתן להביא את ה־HTML, ה־CSS וה־JavaScript שלך לידי שלמות עם כלים כמו המפקח ומנפה השגיאות.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
@@ -58,12 +67,15 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "קבלת חדשות, טריקים ומשאבים ישירות לתיבת הדואר הנכנס שלך.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "דוא״ל">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "מקובל עליי שצוות Mozilla יטפל במידע שלי כפי שמפורט ב<a class='external' href='https://www.mozilla.org/privacy/'>מדיניות הפרטיות</a> הזו.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "הרשמה">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "תודה!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "אם טרם אישרת מינוי לקבוצת דיוור בנושאי Mozilla יתכן שיהיה עליך לעשות זאת. נא לחפש בתיבת הדואר הנכנס או הספאם שלך אם הגיעה הודעה מאתנו.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "מעניין אותך לחקור לא רק את כלי הפיתוח? ניתן לבחון את דפדפן ה־Firefox שנבנה במיוחד למפתחים ולצורות עבודה מודרניות.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
