@@ -724,7 +724,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "కొనసాగించు">
 <!ENTITY guest_session_dialog_cancel "రద్దుచేయి">
 <!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
-<!ENTITY new_guest_session_text2 "అది ఉపయోగిస్తున్న వ్యక్తి మీ వ్యక్తిగత బ్రౌజింగ్ డేటా (సేవ్ లాగిన్, చరిత్ర లేదా బుక్మార్క్లు) చూడటానికి చెయ్యగలరు. \n \n మీ అతిథి చేసుంటే, వారి బ్రౌజింగ్ డేటా తొలగించబడుతుంది మరియు మీ సెషన్ పునరుద్ధరించబడుతుంది.">
+<!ENTITY new_guest_session_text2 "దీన్ని వాడుతున్నవారు మీ వ్యక్తిగత విహారణ దత్తాంశాన్ని (భద్రపరచిన ప్రవేశాలు, చరిత్ర లేదా ఇష్టాంశాలను) చూడలేరు.\n\nమీ అతిథి ముగించిన తర్వాత వారి విహారణ దత్తాంశం తొలగించబడుతుంది, మీ సెషన్ పునరుద్ధరించబడుతుంది.">
 <!ENTITY guest_browsing_notification_title "అతిథి విహారణ చేతనమైంది">
 <!ENTITY guest_browsing_notification_text "నిష్క్రమించడానికి తాకండి">
 
