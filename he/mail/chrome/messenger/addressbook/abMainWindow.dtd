@@ -4,6 +4,7 @@
 
 <!ENTITY addressbookWindow.title                        "ספר כתובות">
 <!ENTITY blankResultsPaneMessage.label                  "פנקס כתובות זה מציג אנשי קשר רק לאחר חיפוש">
+<!ENTITY localResultsOnlyMessage.label                  "אנשי קשר מפנקסי כתובות מרוחקים לא יופיעו עד לחיפוש">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "קובץ">
