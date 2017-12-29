@@ -95,7 +95,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eigaren av <span class='hostname'/> har konfigurert nettstaden sin feil.  For å verne informasjonen din frå å bli stolen, har &brandShortName; ikkje kopla seg til denne nettstaden.">
 
-<!ENTITY sharedLongDesc "<ul> <li>Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv om att om ei lita stund.</li> <li>Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina er i orden.</li> <li>Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke nettet.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv på nytt om ei lita stund.</li> <li>Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina er i orden.</li> <li>Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke nettet.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Blokkert av tryggingspraksis for innhald">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; hindra nettsida frå å laste inn på denne måten fordi nettsida har ein tryggingspraksis som forbyr det.</p>">
