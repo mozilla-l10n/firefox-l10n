@@ -110,7 +110,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.libraryVersionsTitle "లైబ్రరీ వర్షన్స్">
 
-<!ENTITY aboutSupport.installationHistoryTitle "సంస్థాపనా చరిత్ర">
+<!ENTITY aboutSupport.installationHistoryTitle "స్థాపనా చరిత్ర">
 <!ENTITY aboutSupport.updateHistoryTitle "తాజాకరణ చరిత్ర">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "పాఠంను క్లిప్‌బోర్డునకు కాపీతీయుము">

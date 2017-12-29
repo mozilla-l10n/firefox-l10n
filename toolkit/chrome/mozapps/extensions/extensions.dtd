@@ -17,7 +17,7 @@
 <!ENTITY listEmpty.findUpdates.label          "నవీకరణల కొరకు పరిశీలించు">
 <!ENTITY listEmpty.search.label               "ఎటువంటి సరిపోలు పొడిగింతలు కనుగొనలేక పోయింది">
 <!ENTITY listEmpty.button.label               "పొడిగింతలు గురించి మరింత తెలుసుకొనండి">
-<!ENTITY installAddonFromFile.label           "ఫైలు నుండి పొడిగింతను సంస్థాపించు…">
+<!ENTITY installAddonFromFile.label           "ఫైలు నుండి పొడిగింతను స్థాపించు…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "అన్ని పొడిగింతలు కొరకు సాధనములు">
 
@@ -71,11 +71,11 @@
 <!ENTITY updates.updating.label               "పొడిగింతలను నవీకరిస్తున్నది">
 <!ENTITY updates.installed.label              "మీ పొడిగింతలు నవీకరించబడెను.">
 <!ENTITY updates.downloaded.label             "మీ పొడిగింత నవీకరణలు డౌన్‌లోడైనవి.">
-<!ENTITY updates.restart.label                "సంస్థాపనను పూర్తిచేయుటకు ఇప్పుడే పునఃప్రారంభించు">
+<!ENTITY updates.restart.label                "స్థాపనను పూర్తిచేయడానికి ఇప్పుడే పునఃప్రారంభించు">
 <!ENTITY updates.noneFound.label              "ఏ నవీకరణలు కనబడలేదు">
 <!ENTITY updates.manualUpdatesFound.label     "అందుబాటులోని నవీకరణలను దర్శించు">
 <!ENTITY updates.updateSelected.label         "తాజాకరణలను స్థాపించు">
-<!ENTITY updates.updateSelected.tooltip       "అందుబాటులోని నవీకరణలను ఈ జాబితాలో సంస్థాపించు">
+<!ENTITY updates.updateSelected.tooltip       "ఈ జాబితాలోని తాజాకరణలను స్థాపించు">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "మరింత సమాచారము చూపు">
@@ -145,7 +145,7 @@
 <!ENTITY detail.updateAutomatic.label         "ఆన్ చేయి">
 <!ENTITY detail.updateAutomatic.tooltip       "తాజాకరణలను స్వయంచాలకంగా స్థాపించు">
 <!ENTITY detail.updateManual.label            "ఆఫ్ చేయి">
-<!ENTITY detail.updateManual.tooltip          "నవీకరణలను స్వయంచాలకంగా సంస్థాపించవద్దు">
+<!ENTITY detail.updateManual.tooltip          "తాజాకరణలను స్వయంచాలకంగా స్థాపించవద్దు">
 <!ENTITY detail.home                          "హోం పేజీ">
 <!ENTITY detail.repository                    "పొడిగింత పరిచయపత్రం">
 <!ENTITY detail.size                          "పరిమాణము">
@@ -181,7 +181,7 @@
 
 <!ENTITY search.filter2.label                 "వెతుకు:">
 <!ENTITY search.filter2.installed.label       "నా పొడిగింతలు">
-<!ENTITY search.filter2.installed.tooltip     "సంస్థాపిత పొడిగింతలు చూపు">
+<!ENTITY search.filter2.installed.tooltip     "స్థాపిత పొడిగింతలు చూపించు">
 <!ENTITY search.filter2.available.label       "అందుబాటులోని పొడిగింతలు">
 <!ENTITY search.filter2.available.tooltip     "స్థాపించుకోడానికి అందుబాటులో ఉన్న పొడిగింతలు చూపించు">
 
@@ -205,7 +205,7 @@
 <!ENTITY addon.undoAction.label               "చర్యరద్దు">
 <!ENTITY addon.undoAction.tooltip             "ఈ చర్యను చేయవద్దు">
 <!ENTITY addon.undoRemove.label               "చర్యరద్దు">
-<!ENTITY addon.undoRemove.tooltip             "ఈ పొడిగింత సంస్థాపించబడి ఉండనివ్వు">
+<!ENTITY addon.undoRemove.tooltip             "ఈ పొడిగింతను స్థాపించబడి ఉండనివ్వు">
 <!ENTITY addon.restartNow.label               "ఇప్పుడు పునఃప్రారంభించు">
 <!ENTITY addon.install.label                  "స్థాపించు">
 <!ENTITY addon.install.tooltip                "ఈ పొడిగింతను స్థాపించు">
