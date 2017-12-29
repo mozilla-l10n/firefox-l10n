@@ -53,6 +53,7 @@
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Corrièl">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Mercés plan !">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
