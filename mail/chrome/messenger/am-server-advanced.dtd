@@ -22,6 +22,7 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "הרשה לשרת לעקוף מרחבי שמות אלה">
 <!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY accountInbox.label "דואר נכנס לחשבון זה">
 <!ENTITY deferToServer.label "תיבת דואר נכנס עבור חשבון אחר">
 <!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "כלול שרת זה בקבלת דואר חדש">

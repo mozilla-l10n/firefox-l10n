@@ -7,8 +7,10 @@
 <!ENTITY contactPropertiesMenu.label        "מאפייני איש קשר">
 <!ENTITY mailingListPropertiesMenu.label    "מאפייני רשימת דיוור">
 
+<!ENTITY abContextMenuButton.tooltip        "הצגת תפריט הקשר של פנקס כתובות">
 <!ENTITY addressbookPicker.label            "פנקס כתובות">
 <!ENTITY addressbookPicker.accesskey        "פ">
+<!ENTITY searchContacts.label               "חיפוש באנשי קשר:">
 <!ENTITY SearchNameOrEmail.label            "שם או דוא״ל">
 
 <!ENTITY addtoToFieldMenu.label             "הוספה לשדה אל">
@@ -23,6 +25,9 @@
 <!ENTITY abPropertiesContext.label          "מאפיינים">
 <!ENTITY editContactContext.label           "עריכת איש קשר">
 <!ENTITY editMailingListContext.label       "עריכת רשימה">
+
+<!ENTITY newContactAbContext.label          "איש קשר חדש">
+<!ENTITY newListAbContext.label             "רשימה חדשה">
 
 <!ENTITY toButton.label                     "הוסף לשורה אל:">
 <!ENTITY toButton.accesskey                 "א">

@@ -16,6 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "הדבק כציטוט">
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findBarCmd.label "חיפוש…">
+<!ENTITY findReplaceCmd.label "חיפוש והחלפה…">
 <!ENTITY enableInlineSpellChecker.label "בדוק איות תוך כדי הקלדה">
 <!ENTITY enableInlineSpellChecker.accesskey "ב">
 <!ENTITY checkSpellingCmd2.label "בדיקת איות">
@@ -25,6 +27,8 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "הוספה">
 <!ENTITY insertMenu.accesskey "i">
+<!ENTITY insertLinkCmd2.label "קישור…">
+<!ENTITY insertLinkCmd2.accesskey "ק">
 <!ENTITY insertAnchorCmd.label "עוגן בעל שם...">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "תמונה...">
@@ -35,6 +39,8 @@
 <!ENTITY insertTableCmd.accesskey "t">
 <!ENTITY insertHTMLCmd.label "...HTML">
 <!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "מתמטיקה…">
+<!ENTITY insertMathCmd.accesskey "מ">
 <!ENTITY insertCharsCmd.label "תווים וסמלים...">
 <!ENTITY insertCharsCmd.accesskey "C">
 <!ENTITY insertBreakAllCmd.label "שבור מתחת לתמונה(ות)">
@@ -66,14 +72,17 @@
 <!ENTITY FontSizeSelect.tooltip "בחר גודל גופן">
 <!ENTITY decreaseFontSize.label "קטן יותר">
 <!ENTITY decreaseFontSize.accesskey "ק">
- <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "גדול יותר">
 <!ENTITY increaseFontSize.accesskey "g">
- <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "גודל ">
 <!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY size-tinyCmd.label "קטן מאוד">
+<!ENTITY size-tinyCmd.accesskey "ז">
 <!ENTITY size-smallCmd.label "קטן">
 <!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "בינוני">
@@ -81,7 +90,9 @@
 <!ENTITY size-largeCmd.label "גדול">
 <!ENTITY size-largeCmd.accesskey "l">
 <!ENTITY size-extraLargeCmd.label "גדול מאוד">
+<!ENTITY size-extraLargeCmd.accesskey "ג">
 <!ENTITY size-hugeCmd.label "ענק">
+<!ENTITY size-hugeCmd.accesskey "ע">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "סגנון טקסט">

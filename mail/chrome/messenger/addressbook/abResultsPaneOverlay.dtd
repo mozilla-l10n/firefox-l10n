@@ -29,6 +29,7 @@
 <!ENTITY HomePhone.accesskey                   "ב">
 <!ENTITY WorkPhone.label                       "טלפון בעבודה">
 <!ENTITY WorkPhone.accesskey                   "ב">
+<!ENTITY ChatName.label                        "שם הצ׳אט">
 <!ENTITY sortAscending.label                   "עולה">
 <!ENTITY sortAscending.accesskey               "ע">
 <!ENTITY sortDescending.label                  "יורד">

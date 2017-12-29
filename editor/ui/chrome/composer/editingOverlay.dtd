@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- File menu items -->
+<!ENTITY openFileCmd.label "פתיחת קובץ…">
 <!ENTITY openFileCmd.accesskey "פ">
 <!ENTITY openFileCmd.key "פ">
 <!ENTITY openRemoteCmd.label "פתח כתובת רשת…">
@@ -14,10 +15,13 @@
 <!ENTITY saveCmd.accesskey "ש">
 <!ENTITY saveAsCmd.label "שמירה בשם…">
 <!ENTITY saveAsCmd.accesskey "ב">
+<!ENTITY saveAsChangeEncodingCmd2.label "שמירה ושינוי קידוד הטקסט">
+<!ENTITY publishCmd.label "פרסום">
 <!ENTITY publishCmd.accesskey "פ">
 <!ENTITY publishCmd.key "פ">
 <!ENTITY publishAsCmd.label "פרסם בתור…">
 <!ENTITY publishAsCmd.accesskey "פ">
+<!ENTITY fileRevert.label "החזרה">
 <!ENTITY fileRevert.accesskey "ח">
 
 <!-- Edit menu items -->
