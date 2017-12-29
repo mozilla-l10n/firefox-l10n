@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Чат">
 <!ENTITY goChatCmd.accesskey "а">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "отмеченное звёздочкой сообщение">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
@@ -459,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Дополнения">
 <!ENTITY addons.accesskey "Д">
+<!ENTITY addonPrefs.label "Настройки дополнений">
+<!ENTITY addonPrefs.accesskey "а">
+<!ENTITY addonPrefsUnix.label "Настройки дополнений">
+<!ENTITY addonPrefsUnix.accesskey "а">
+<!ENTITY addonNoPrefs.label "Настройки дополнений не найдены.">
 <!ENTITY activitymanager.label "Диспетчер работы">
 <!ENTITY activitymanager.accesskey "и">
 <!ENTITY imAccountsStatus.label "Статус чата">

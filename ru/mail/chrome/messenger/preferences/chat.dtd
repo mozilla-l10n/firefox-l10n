@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "с именем отправителя и предпросмотром сообщения">
 <!ENTITY  buddyInfoOnly.label                 "только с именем отправителя">
 <!ENTITY  dummyNotification.label             "без какой-либо информации">
+<!ENTITY  getAttention.label                  "Мигать на панели задач">
+<!ENTITY  getAttention.accesskey              "и">
+<!ENTITY  getAttentionMac.label               "Анимировать иконку в доке">
+<!ENTITY  getAttentionMac.accesskey           "н">
 <!ENTITY  chatSound.accesskey                 "в">
 <!ENTITY  chatSound.label                     "Подавать звуковой сигнал">
 <!ENTITY  play.label                          "Воспроизвести">
