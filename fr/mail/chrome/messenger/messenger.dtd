@@ -460,6 +460,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Modules complémentaires">
 <!ENTITY addons.accesskey "c">
+<!ENTITY addonPrefs.label "Options des modules">
 <!ENTITY activitymanager.label "Activités">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "État de messagerie instantanée">
