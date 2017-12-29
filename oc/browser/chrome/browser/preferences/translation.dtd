@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Cap de traduccion serà pas prepausada per las lengas seguentas :">
+<!ENTITY noTranslationForLanguages2.label "Cap de traduccion serà pas provesida per las lengas seguentas">
 <!ENTITY treehead.languageName.label      "Lengas">
 <!ENTITY removeLanguage.label             "Suprimir la lenga">
 <!ENTITY removeLanguage.accesskey         "r">
 <!ENTITY removeAllLanguages.label         "Suprimir totas las lengas">
 <!ENTITY removeAllLanguages.accesskey     "i">
 
-<!ENTITY noTranslationForSites.label      "Cap de traduccion serà pas prepausada pels sites seguentas :">
+<!ENTITY noTranslationForSites2.label     "Cap de traduccion serà pas provesida pels sites seguents">
 <!ENTITY treehead.siteName2.label         "Sites web">
 <!ENTITY removeSite.label                 "Suprimir lo site">
 <!ENTITY removeSite.accesskey             "S">
