@@ -4,11 +4,11 @@ dictionary of brown-uk project https://github.com/brown-uk/dict_uk
 
 xpi package authors:
 	Yaroslav Krytsun <slavko7@gmail.com>, 2006
-	Andriy Rysin <arysin@yahoo.com>, 2007 — 2017
-This is Ukrainian spelling dictionary for myspell & hunspell version 3.7.3.
+	Andriy Rysin <arysin@gmail.com>, 2007 — 2017
+This is Ukrainian spelling dictionary for myspell & hunspell version 4.0.1.
 
 Copyright (C) 1999
-	Vladimir Yakovchuk
+	Volodymyr Yakovchuk
 	Oleg Podgurniy
 
 Copyright (C) 2001 
@@ -33,4 +33,4 @@ Copyright (C) 2017
 	Vasyl Starko
 	"БрУК" team https://r2u.org.ua/corpus
 
-This dictionary is licensed under GPL 3.0 or above and MPL (Mozilla Public License) 1.1 licenses.
+This dictionary is licensed under MPL (Mozilla Public License) 1.1 license.
