@@ -21,11 +21,13 @@
 <!ENTITY attachFileCmd.label "קובץ (קבצים)…">
 <!ENTITY attachFileCmd.accesskey "ק">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "קישור לקובץ">
 <!ENTITY attachPageCmd.label "דף אינטרנט…">
 <!ENTITY attachPageCmd.accesskey "א">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "כרטיס אישי (vCard)">
 <!ENTITY attachVCardCmd.accesskey "כ">
+<!ENTITY remindLater.label "להזכיר לי מאוחר יותר">
 <!ENTITY closeCmd.label "סגירה">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "ג">
@@ -48,6 +50,7 @@
 <!ENTITY sendLaterCmd.accesskey "א">
 <!ENTITY printSetupCmd.label "הגדרת עמוד…">
 <!ENTITY printSetupCmd.accesskey "ה">
+<!ENTITY printPreviewCmd.label "תצוגה מקדימה להדפסה">
 <!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "ד">
@@ -79,9 +82,12 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "שינוי שם קובץ מצורף…">
 <!ENTITY renameAttachmentCmd.accesskey "ש">
+<!ENTITY reorderAttachmentsCmd.label "סידור קבצים מצורפים מחדש…">
 <!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ב">
+<!ENTITY findBarCmd.label "חיפוש…">
+<!ENTITY findReplaceCmd.label "חיפוש והחלפה…">
 <!ENTITY findAgainCmd.label "מצא שוב">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
@@ -90,6 +96,34 @@
 <!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "סידור קבצים מצורפים מחדש">
+<!ENTITY moveAttachmentTopPanelBtn.label "הצבה כעליון">
+<!ENTITY moveAttachmentUpPanelBtn.label "העברה למעלה">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "העברה יחד">
+<!ENTITY moveAttachmentDownPanelBtn.label "העברה למטה">
+<!ENTITY moveAttachmentBottomPanelBtn.label "הצבה בתחתית">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "סידור הבחירה: א - ת">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
+     the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "סידור הבחירה: ת - א">
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "סידור: א - ת">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "סידור: ת - א">
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "סידור הבחירה: א - ת">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "סידור הבחירה: ת - א">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "תצוגה">
@@ -134,6 +168,7 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "יידוע מצב קבלה">
 <!ENTITY dsnMenu.accesskey "י">
+<!ENTITY deliveryFormatMenu.label "תבנית העברה">
 <!ENTITY autoFormatCmd.label "זיהוי אוטומטי">
 <!ENTITY autoFormatCmd.accesskey "א">
 <!ENTITY plainTextFormatCmd.label "טקסט פשוט בלבד">
@@ -144,6 +179,8 @@
 <!ENTITY bothFormatCmd.accesskey "ג">
 <!ENTITY priorityMenu.label "עדיפות">
 <!ENTITY priorityMenu.accesskey "ע">
+<!ENTITY priorityButton.title "עדיפות">
+<!ENTITY priorityButton.tooltiptext "שינוי עדיפות ההודעה">
 <!ENTITY priorityButton.label "עדיפות:">
 <!ENTITY lowestPriorityCmd.label "הכי נמוכה">
 <!ENTITY lowestPriorityCmd.accesskey "נ">
@@ -168,6 +205,7 @@
 <!ENTITY addressBookCmd.label "ספר כתובות">
 <!ENTITY addressBookCmd.accesskey "כ">
 <!ENTITY addressBookCmd.key "B">
+<!ENTITY accountManagerCmd2.label "הגדרות חשבון">
 <!ENTITY preferencesCmd2.label "אפשרויות">
 <!ENTITY preferencesCmdUnix.label "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey "פ">
@@ -199,6 +237,7 @@
 <!ENTITY cutButton.tooltip              "גזירה">
 <!ENTITY copyButton.tooltip             "העתקה">
 <!ENTITY pasteButton.tooltip            "הדבקה">
+<!ENTITY printButton.tooltip "הדפסת הודעה זו">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
@@ -262,10 +301,15 @@
 <!ENTITY removeAttachment.accesskey "מ">
 <!ENTITY renameAttachment.label "שנה שם…">
 <!ENTITY renameAttachment.accesskey "ש">
+<!ENTITY reorderAttachments.label "סידור קבצים מצורפים מחדש…">
 <!ENTITY selectAll.label "בחר הכול">
 <!ENTITY selectAll.accesskey "ב">
 <!ENTITY attachFile.label "צירוף קובץ או קבצים)…">
 <!ENTITY attachFile.accesskey "ק">
+<!ENTITY attachCloud.label "קישור קובץ…">
+<!ENTITY convertCloud.label "המרה אל…">
+<!ENTITY cancelUpload.label "ביטול העלאה">
+<!ENTITY convertRegularAttachment.label "קובץ מצורף רגיל">
 <!ENTITY attachPage.label "צירוף דף אינטרנט…">
 <!ENTITY attachPage.accesskey "א">
 
@@ -277,3 +321,8 @@
 <!ENTITY addressesSidebarTitle.label "אנשי קשר">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "התאמה מכתובת…">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "שפת בדיקת האיות">
+<!ENTITY encodingStatusPanel.tooltip "קידוד טקסט">
