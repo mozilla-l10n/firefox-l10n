@@ -15,6 +15,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.title3 "మోసపూరిత సైట్!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "<span id='malware_sitename'/> వద్ద ఉన్న వెబ్ పేజీ మోసపూరితమైనదిగా నివేదించబడింది; మీ భద్రత అభిరుచుల మేరకు నిరోధించబడింది.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>మోసపూరిత సైట్లు పాస్వర్డ్లు, ఫోన్ నంబర్లు లేదా క్రెడిట్ కార్డుల వలే సాఫ్ట్వేర్ ఇన్స్టాల్, లేదా మీ వ్యక్తిగత సమాచారాన్ని బహిర్గతం చేయడం వంటి ప్రమాదకరమైన పనులు చేయమని మోసపూరిత రూపొందించబడ్డాయి.</p><p>ఈ వెబ్ పేజీలో ఏ సమాచారాన్ని ఎంటర్ దారితీయవచ్చు గుర్తింపు అపహరణ లేదా ఇతర మోసం.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "అవసరంలేని సాఫ్ట్‌వేర్ సైట్ నివేదించెను!">
