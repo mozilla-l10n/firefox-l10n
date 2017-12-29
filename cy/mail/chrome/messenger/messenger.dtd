@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Ychwanegion">
 <!ENTITY addons.accesskey "a">
+<!ENTITY addonPrefs.label "Dewisiadau Ychwanegion">
+<!ENTITY addonPrefs.accesskey "Y">
+<!ENTITY addonPrefsUnix.label "Dewisiadau Ychwanegion">
+<!ENTITY addonPrefsUnix.accesskey "D">
+<!ENTITY addonNoPrefs.label "Heb ganfod gosodiadau Ychwanegion.">
 <!ENTITY activitymanager.label "Rheolwr Gweithgaredd">
 <!ENTITY activitymanager.accesskey "R">
 <!ENTITY imAccountsStatus.label "Statws Sgwrsio">
