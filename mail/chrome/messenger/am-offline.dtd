@@ -7,7 +7,7 @@
 <!ENTITY doNotDownloadImap.label "要节省磁盘空间，可对从服务器下载并保存到本地供离线使用的消息进行大小或时间上的限制。">
 <!ENTITY allFoldersOffline.label "在此计算机中保留此账户的消息">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY allFoldersOffline2.label "在此计算机上保留此账户所有文件夹中的消息。">
+<!ENTITY allFoldersOffline2.label "在此计算机上保留此账户所有文件夹中的消息">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "注意：更改此项将影响此账户的所有文件夹。要设置单个文件夹，请用 高级… 按钮。">
 <!ENTITY offlineNotDownload.label "消息大小超过">
