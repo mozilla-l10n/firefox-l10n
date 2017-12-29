@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Lo rapòrt de donadas es desactivat per aquela configuracion de compilacion">
 
-<!ENTITY enableHealthReport1.label       "Autorizar &brandShortName; a mandar automaticament de donadas tecnicas e d’interaccions a Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Autorizar &brandShortName; a mandar de donadas tecnicas e d’interaccions a Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "A">
 <!ENTITY healthReportLearnMore.label     "Ne saber mai">
 
 <!ENTITY dataCollection.label            "Recuèlh de donadas e utilizacion per &brandShortName;">
