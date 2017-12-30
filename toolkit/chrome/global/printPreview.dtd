@@ -32,10 +32,7 @@
 <!ENTITY Custom.label         "Tùy biến…">
 <!ENTITY ShrinkToFit.label    "Co lại cho Vừa">
 <!ENTITY customPrompt.title   "Tùy biến Tỉ lệ…">
-
-
-
-
+<!ENTITY simplifyPage.accesskey "i">
 
 <!ENTITY homearrow.tooltip    "Trang đầu">
 <!ENTITY endarrow.tooltip     "Trang cuối">
