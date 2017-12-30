@@ -31,7 +31,7 @@
 <!ENTITY aboutTelemetry.moreInformations "בחיפוש אחר מידע נוסף?">
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>תיעוד הנתונים של Firefox</a> מכיל מדריכים על אופן העבודה עם כלי הנתונים שלנו.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>תיעוד הלקוח של Firefox Telemetry</a> כולל הגדרות לשיטות, תיעוד API והפניות למידע.">
-<!ENTITY aboutTelemetry.telemetryDashboard "<a>לוחות הבקרה שלTelemetry</a> מאפשרים לך לראות באופן חזותי את הנתונים ש־Mozilla מקבלת דרך Telemetry.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>לוחות הבקרה של Telemetry</a> מאפשרים לך לראות באופן חזותי את הנתונים ש־Mozilla מקבלת דרך Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "פתיחה במציג ה־JSON">
 
