@@ -29,3 +29,4 @@
 <!ENTITY aboutMenuCmd.accesskey "S">
 
 <!ENTITY aboutMenuCmd2.label "Sobre o &brandFullName;">
+<!ENTITY aboutMenuCmd2.accesskey "A">
