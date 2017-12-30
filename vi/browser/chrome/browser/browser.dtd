@@ -182,7 +182,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Trang đánh dấu gần đây">
 <!ENTITY otherBookmarksCmd.label "Trang đánh dấu khác">
 <!ENTITY mobileBookmarksCmd.label "Trang đánh dấu trên điện thoại di động">
-<!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 <!ENTITY showRecentlyBookmarked.label     "Xem trang đánh dấu gần đây">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "Ẩn trang đánh dấu gần đây">
@@ -228,7 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Quản lý sử dụng phần mềm DRM">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bạn đã chặn máy quay của mình ở trang này">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Bạn đã chặn micrô của mình ở trang này">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bạn đã chặn micro của mình ở trang này">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bạn đã chặn việc chia sẻ màn hình của mình với trang web này.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Bạn đã chặn thông tin địa điểm ở trang này.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Bạn đã chặn lưu trữ dữ liệu ở trang này.">
@@ -253,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Bảng chọn trang đánh dấu">
 <!ENTITY bookmarksMenuButton.other.label    "Trang đánh dấu khác">
 <!ENTITY bookmarksMenuButton.mobile.label   "Trang đánh dấu trên điện thoại di động">
-<!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh lề trang đánh dấu">
+<!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh bên trang đánh dấu">
 <!ENTITY hideBookmarksSidebar.label         "Ẩn thanh lề trang đánh dấu">
 <!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh công cụ trang đánh dấu">
 <!ENTITY hideBookmarksToolbar.label         "Ẩn thanh công cụ trang đánh dấu">
