@@ -37,7 +37,19 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "и">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "Эл. Почта:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "Эл. Почта:">
+
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Предпочитать отправлять эл.письма с приглашениями со стороны клиента">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Пока вы можете включить это только после настройки этого календаря в диалоговом окне его свойств, если сервер календаря сам отправляет эл.письма с приглашениями.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Эта настройка доступна только в том случае, если сервер календаря сам отправляет эл.письма с приглашениями. Её включение позволит вернуться к стандартной отправке эл.писем с приглашениями, а не поручать это серверу.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Подтвердить">
