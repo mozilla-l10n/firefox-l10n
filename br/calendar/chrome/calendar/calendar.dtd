@@ -60,7 +60,7 @@
 <!ENTITY calendar.today.button.tooltip          "Mont da Hiziv" >
 <!ENTITY calendar.todaypane.button.tooltip      "Diskouez Panell Hiziv" >
 
-<!ENTITY calendar.day.button.tooltip            "Tremen d'ar gwel devezj" >
+<!ENTITY calendar.day.button.tooltip            "Tremen d'ar gwel devezh" >
 <!ENTITY calendar.week.button.tooltip           "Tremen d'ar gwel sizhun" >
 <!ENTITY calendar.month.button.tooltip          "Tremen d'ar gwel miz" >
 <!ENTITY calendar.multiweek.button.tooltip      "Tremen d'ar gwel lies-sizhun" >
@@ -235,7 +235,7 @@
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
-<!ENTITY calendar.context.removeserver.label           "Lemel kuit un deiziater">
+<!ENTITY calendar.context.removeserver.label           "Lemel kuit un deiziataer">
 <!ENTITY calendar.context.removeserver.accesskey       "L">
 <!ENTITY calendar.context.unsubscribeserver.label      "Digoumanantin d'un deiziataer...">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "g">
