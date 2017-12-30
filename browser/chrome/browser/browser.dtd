@@ -210,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mostrar la notificacion">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Mostrar la demanda de geolocalizacion">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Mostrar lo messatge d'installation del modul">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gerir las permission d’extraccion de canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Mostrar lo messatge sus l'emmagazinatge fòra linha">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Mostrar lo messatge per enregistrar lo senhal">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerir l'utilizacion dels moduls complementaris">
@@ -878,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Far lisar e pausar los elements aquí per los gardar a man, mas fòra de vòstra barra d’aisinas…">
 <!ENTITY customizeMode.overflowList.title2 "Menú suplementari">
+<!ENTITY customizeMode.overflowList.description "Far lisar e pausar los elements aquí per los gardar a man, mas fòra de vòstra barra d’aisinas…">
 <!ENTITY customizeMode.uidensity "Densitat">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -988,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "A">
 <!ENTITY updateManual.panelUI.label "Telecargatz una còpia novèla de &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "Aprèp una pichoneta reaviada, &brandShorterName; restablirà totes vòstres onglets dobèrts que son pas en navigacion privada.">
 <!ENTITY updateRestart.header.message2 "Tornatz aviar per metre a jorn &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reaviar e restablir">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -995,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Tornar aviar per metre a jorn &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Una extension a cambiat la pagina que se fa veire quand dobrissètz un onglet novèl. Podètz restablir vòstres paramètres s’aquò vos agrada pas.">
 <!ENTITY newTabControlled.header.message "La pagina Onglet novèls es estada cambiada.">
 <!ENTITY newTabControlled.keepButton.label "Servar los cambiaments">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
