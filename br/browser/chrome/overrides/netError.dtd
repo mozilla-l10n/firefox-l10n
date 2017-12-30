@@ -82,7 +82,10 @@
 <!ENTITY redirectLoop.longDesc "<ul><li>A-wechoù e c'hoarvez ar gudenn-mañ rak diweredekaet pe nac'het eo bet an toupinoù.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Respont direizh">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Gwiriekait eo staliet ar Ardoer Diogelroez Personel war ho reizhad.</li> <li>Marteze eo kefluniet an dafariad en un doare divoutin.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul>
+<li>Gwiriekait eo staliet ar Ardoer Diogelroez Personel war ho reizhiad.</li>
+<li>Marteze eo kefluniet an dafariad en un doare divoutin.</li>
+</ul>">
 
 <!ENTITY nssFailure2.title "C'hwitadenn war ar c'hennaskañ diarvar">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>N'hall ket bezañ diskouezet ar bajennad emaoc'h o klask gwelout rak n'hall ket bezañ gwiriet dilested ar roadennoù bet degemeret.</li> <li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li> </ul>">
