@@ -69,9 +69,12 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "डेवलपर समाचार, तरकीबें और संसाधन सीधे अपने इनबॉक्स में पहुँचा हुआ पाएँ.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "ईमेल">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "मैं Mozilla द्वारा मेरी जानकारियों को संभालने से राजी हूँ जैसा कि इस <a class='external' href='https://www.mozilla.org/privacy/'>गोपनीयता निति</a>में बताया गया है.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "सदस्यता लें">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "धन्यवाद!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "अगर आपने पिछले किसी Mozilla संबंधित समाचार की सदस्यता पुष्टि नहीं की है, तो आपको करनी पड़ सकती है. कृपया अपने इनबॉक्स या अवांछनीय ई-मेल फ़िल्टर में हमारे द्वारा भेजी गयी ईमेल की जांच करें.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox डेवलपर संस्करण">
 
