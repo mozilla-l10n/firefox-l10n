@@ -152,4 +152,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Rajil">
 <!ENTITY aboutSupport.mediaDeviceLatency "Rub'anikil k'o wi">
 
+<!ENTITY aboutSupport.intlTitle "Elniminïk &amp; Tzalq'omanri'ïl">
+<!ENTITY aboutSupport.intlAppTitle "Kinuk'ulem Chokoy">
+<!ENTITY aboutSupport.intlLocalesRequested "K'utun taq Tzalq'omanïk">
+<!ENTITY aboutSupport.intlLocalesAvailable "Wachel taq Tzalq'omanïk">
+<!ENTITY aboutSupport.intlLocalesSupported "Kitzaq'omanik Cholkema'">
+<!ENTITY aboutSupport.intlLocalesDefault "Tzalq'omanïk kan k'o wi">
 <!ENTITY aboutSupport.intlOSTitle "Samajel taq Q'inoj">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Kitzalq'omanik Q'inoj">
+<!ENTITY aboutSupport.intlRegionalPrefs "Aj wawe' taq Ajowab'äl">
