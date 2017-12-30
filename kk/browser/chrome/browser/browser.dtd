@@ -992,6 +992,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "м">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; жаңарту үшін қайта іске қосу">
 
+<!ENTITY newTabControlled.message "Жаңа бетті ашқан кезде көретін бетті кеңейту өзгерткен. Бұл өзгерісті қаламасаңыз, өз баптауларыңызды қалпына келтіре аласыз.">
+<!ENTITY newTabControlled.header.message "Сіздің жаңа бетіңіз өзгертілген.">
 <!ENTITY newTabControlled.keepButton.label "Өзгерістерді сақтау">
 <!ENTITY newTabControlled.keepButton.accesskey "с">
 <!ENTITY newTabControlled.restoreButton.label "Баптауларды қалпына келтіру">
