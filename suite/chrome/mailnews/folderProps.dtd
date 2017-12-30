@@ -30,31 +30,31 @@
 <!ENTITY retentionKeepAll.accesskey "ყ">
 <!ENTITY retentionKeepRecent.label "უახლესების გარდა">
 <!ENTITY retentionKeepRecent.accesskey "რ">
-<!ENTITY retentionApplyToFlagged.label "ვარსკვლავიანი გზავნილების შენარჩუნება">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionApplyToFlagged.label "მონიშნულების დატოვება ყოველთვის">
+<!ENTITY retentionApplyToFlagged.accesskey "მ">
 
 <!ENTITY folderSynchronizationTab.label          "სინქრონიზაცია">
 <!ENTITY folderCheckForNewMessages2.label        "ამ დასტის ახალ წერილებზე შემოწმება">
-<!ENTITY folderCheckForNewMessages2.accesskey    "c">
+<!ENTITY folderCheckForNewMessages2.accesskey    "შ">
 
 <!ENTITY offlineFolder.check.label               "დასტის არჩევა ავტონომიური მოხმარებისათვის">
-<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.check.accesskey           "რ">
 <!ENTITY offlineFolder.button.label              "გადმოწერა ახლავე">
-<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY offlineFolder.button.accesskey          "გ">
 
 <!ENTITY selectofflineNewsgroup.check.label      "ჯგუფის არჩევა ავტონომიური მოხმარებისათვის">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "ჯ">
 <!ENTITY offlineNewsgroup.button.label           "გადმოწერა ახლავე">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY offlineNewsgroup.button.accesskey       "დ">
 
 <!ENTITY folderProps.name.label                  "სახელი:">
-<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.name.accesskey              "ს">
 <!ENTITY folderProps.location.label              "მისამართი:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.location.accesskey          "მ">
 
 <!ENTITY folderSharingTab.label                  "გაზიარება">
-<!ENTITY privileges.button.label                 "პრივილეგიები…">
-<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY privileges.button.label                 "უპირატესობები…">
+<!ENTITY privileges.button.accesskey             "უ">
 <!ENTITY permissionsDesc.label                   "თქვენ გაქვთ შემდეგი უფლებები:">
 <!ENTITY folderType.label                        "დასტის ტიპი:">
 
