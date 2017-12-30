@@ -12,13 +12,16 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "A prepaus de las aisinas de desvolopament">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Activar las aisinas de desvolopament de Firefox">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Activatz las aisinas de desvolopament per utilizar Examinar l’element">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
@@ -42,15 +45,20 @@
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
 
+<!ENTITY  aboutDevtools.enable.enableButton "Activar las aisinas pels desvolopaires">
 <!ENTITY  aboutDevtools.enable.closeButton "Tampar aquesta pagina">
 
 <!ENTITY  aboutDevtools.enable.closeButton2 "Tampar aqueste onglet">
 
+<!ENTITY  aboutDevtools.welcome.title "Benvenguda a las aisinas de desvolopament de Firefox !">
 
+<!ENTITY  aboutDevtools.newsletter.title "Letra de ligason de Mozilla pels desvolopaires">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Recebètz de novetats, d’astúcias e de resorgas pels desvolopaires, dirèctament per corrièl.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Corrièl">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Se marcar">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Mercés plan !">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
