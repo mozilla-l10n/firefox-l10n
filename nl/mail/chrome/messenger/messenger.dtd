@@ -461,7 +461,7 @@
 <!ENTITY addons.label "Add-ons">
 <!ENTITY addons.accesskey "A">
 <!ENTITY addonPrefs.label "Add-on-opties">
-<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefs.accesskey "o">
 <!ENTITY addonPrefsUnix.label "Add-on-voorkeuren">
 <!ENTITY addonPrefsUnix.accesskey "k">
 <!ENTITY addonNoPrefs.label "Er zijn geen add-on-instellingen gevonden.">
