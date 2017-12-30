@@ -7,10 +7,6 @@
 <!ENTITY  blockPopups.label           "Pop-up-Fenster blockieren">
 <!ENTITY  blockPopups.accesskey       "P">
 
-<!ENTITY  notificationsDoNotDisturb.label      "Mich nicht stören">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Bis zum Neustart von &brandShortName; werden keine Benachrichtigungen angezeigt.">
-
 <!ENTITY  popupExceptions.label       "Ausnahmen…">
 <!ENTITY  popupExceptions.accesskey   "A">
 
