@@ -29,3 +29,4 @@
 <!ENTITY tabCrashed.emailMe "Enviatz-me un corrièl quand d'informacions mai son disponiblas">
 <!ENTITY tabCrashed.reportSent "Rapòrt de plantatges ja enviat. Mercés plan per vòstra ajuda per melhorar &brandShortName; !">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Enviar los rapòrts dels onglets de rèire plan">
+<!ENTITY tabCrashed.autoSubmit3 "Cambiar las preferéncias per mandar automaticament los rapòrts quand &brandShortName; fraca.">
