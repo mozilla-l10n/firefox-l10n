@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Tokisax ri kikajtz'ik ochochib'äl richin nikanöx chuqa' ri okem pa k'amaya'l">
 <!ENTITY searchBar.shown.label                 "Titz'aqatisäx ri rukajtz'ik kanoxïk pa molsamajib'äl">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Kek'ut pe taq chilab'enïk nab'ey chuwäch ri natab'äl pa ri xe'ilitäj pa ri kikajtz'ik taq ochochib'äl">
+
 <!ENTITY defaultSearchEngine.label             "K'o wi chi kanonel">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Tacha' ri ruk'u'x kanob'äl kan k'o wi richin nawokisaj pa ri kikajtz'ik taq ochochib'äl chuqa' pa ri rukajtz'ik kanoxïk.">
