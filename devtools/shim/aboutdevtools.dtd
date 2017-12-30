@@ -77,6 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "अगर आपने पिछले किसी Mozilla संबंधित समाचार की सदस्यता पुष्टि नहीं की है, तो आपको करनी पड़ सकती है. कृपया अपने इनबॉक्स या अवांछनीय ई-मेल फ़िल्टर में हमारे द्वारा भेजी गयी ईमेल की जांच करें.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox डेवलपर संस्करण">
+<!ENTITY  aboutDevtools.footer.message "सिर्फ डेवलपर उपकरण से ज्यादा की तलाश में हैं? Firefox ब्राउज़र को जाँचें जो कि विशेष रूप से डेवलपरों और आधुनिक कार्यप्रवाहों के लिए बनाया गया है.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
