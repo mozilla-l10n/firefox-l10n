@@ -817,7 +817,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Hizivaet eo &brandShortName;">
-<!ENTITY whatsnew_notification_summary "Kavit petra zo nevez en handlev-mañ">
+<!ENTITY whatsnew_notification_summary "Kavit petra zo nevez en handelv-mañ">
 
 <!ENTITY promotion_add_to_homescreen "Ouzhpennañ d\&apos;ar skramm degemer">
 
