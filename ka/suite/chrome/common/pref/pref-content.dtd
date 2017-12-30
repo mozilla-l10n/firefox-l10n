@@ -9,11 +9,15 @@
 
 <!ENTITY siteIcons.label                        "ვებსაიტის ხატულები">
 <!ENTITY useSiteIcons.label                     "ვებსაიტის ხატულების ჩვენება">
-<!ENTITY useSiteIcons.accesskey                 "S">
+<!ENTITY useSiteIcons.accesskey                 "ხ">
+<!ENTITY useFavIcons2.label                     "სერვერის favicon ხატულის გამოყენების მცდელობა, როცა გვერდს არ გააჩნია განსაზღვრული ხატულა">
+<!ENTITY useFavIcons2.accesskey                 "ც">
 
+<!ENTITY scrolling.label                        "გვერდის გადაადგილება">
 <!ENTITY useAutoScroll.label                    "თვითგადაადგილების გამოყენება">
-<!ENTITY useSmoothScroll.label                  "მდორე გადახვევის გამოყენება">
-<!ENTITY useSmoothScroll.accesskey              "U">
+<!ENTITY useAutoScroll.accesskey                "თ">
+<!ENTITY useSmoothScroll.label                  "გლუვი გადაადგილების გამოყენება">
+<!ENTITY useSmoothScroll.accesskey              "გ">
 
 <!ENTITY zoomPrefs.label                        "ზომები">
 <!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
@@ -21,12 +25,15 @@
      maxZoom.label preceding the maxZoom control; percent.label shows
      the ASCII '%' character at the end of that string -->
 <!ENTITY minZoom.label                          "შუალედი">
+<!ENTITY minZoom.accesskey                      "ც">
+<!ENTITY maxZoom.label                          "—">
+<!ENTITY maxZoom.accesskey                      "ზ">
 <!ENTITY percent.label                          "&#37;">
 
 <!ENTITY siteSpecific.label                     "მასშტაბების დამახსოვრება ცალკეული საიტებისათვის">
-<!ENTITY siteSpecific.accesskey                 "m">
+<!ENTITY siteSpecific.accesskey                 "მ">
 <!ENTITY textZoomOnly.label                     "მხოლოდ ტექსტის მასშტაბირება ნაცვლად გვერდისა">
-<!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY textZoomOnly.accesskey                 "ხ">
 <!ENTITY enableAutomaticImageResizing.label     "დიდი ზომის გამოსახულებათა ბრაუზერის სარკმლის ზომაზე მორგება">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 
