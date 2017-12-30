@@ -5,7 +5,9 @@
 <!ENTITY window.title "ფილტრის წესები">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "ფილტრის სახელი:">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY filterName.accesskey "ფ">
+
+<!ENTITY recentFolders.label "ბოლო">
 
 <!ENTITY junk.label "უსარგებლო">
 <!ENTITY notJunk.label "სასარგებლო">
@@ -18,16 +20,20 @@
 
 <!ENTITY contextDesc.label "ფილტრებით სარგებლობა:">
 <!ENTITY contextIncomingMail.label "ახალი ფოსტის მიღებისას">
-<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextIncomingMail.accesskey "მ">
 <!ENTITY contextManual.label "ხელით შესრულებისას">
-<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextManual.accesskey "ხ">
 <!ENTITY contextBeforeCls.label "გაფილტვრა კლასიფიკაციამდე">
 <!ENTITY contextAfterCls.label "გაფილტვრა კლასიფიკაციის შემდეგ">
+<!ENTITY contextOutgoing.label "გაგზავნის შემდეგ">
+<!ENTITY contextOutgoing.accesskey "გ">
+<!ENTITY contextArchive.label "დაარქივება">
+<!ENTITY contextArchive.accesskey "დ">
 
 <!ENTITY filterActionDesc.label "შესრულდეს ეს ქმედებები:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY filterActionDesc.accesskey "ქ">
 
-<!ENTITY filterActionOrderWarning.label "შენიშვნა: გამოხშირვის ქმედებები სხვა რიგით შესრულდება.">
+<!ENTITY filterActionOrderWarning.label "შენიშვნა: გაფილტვრა სხვა რიგით შესრულდება.">
 <!ENTITY filterActionOrder.label "შესრულების რიგის ჩვენება">
 
 <!-- New Style Filter Rule Actions -->
@@ -52,9 +58,10 @@
 <!ENTITY addAction.tooltip "ახალი ქმედების დამატება">
 <!ENTITY removeAction.tooltip "ამ ქმედების ამოღება">
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
