@@ -9,7 +9,7 @@
 <!ENTITY allFoldersOffline.accesskey "c">
 <!ENTITY allFoldersOffline2.label "Berichten in alle mappen voor deze account op deze computer bewaren">
 <!ENTITY allFoldersOffline2.accesskey "c">
-<!ENTITY allFoldersOfflineNote.label "Noot: Het wijzigen van deze instelling beïnvloedt alle mappen bij deze account. Gebruik om afzonderlijke mappen in te stellen de knop Geavanceerd…">
+<!ENTITY allFoldersOfflineNote.label "Noot: het wijzigen van deze instelling beïnvloedt alle mappen bij deze account. Gebruik de knop Geavanceerd… om afzonderlijke mappen in te stellen">
 <!ENTITY offlineNotDownload.label "Berichten groter dan">
 <!ENTITY offlineNotDownload.accesskey "r">
 <!ENTITY autosyncNotDownload.label "Berichten niet downloaden die groter zijn dan">
