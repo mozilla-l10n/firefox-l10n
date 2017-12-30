@@ -8,26 +8,28 @@
 <!ENTITY pref.colors.title                 "ფერები">
 <!ENTITY color                             "ტექსტი და ფონი">
 <!ENTITY textColor.label                   "ტექსტი:">
-<!ENTITY textColor.accesskey               "T">
+<!ENTITY textColor.accesskey               "ტ">
 <!ENTITY backgroundColor.label             "ფონი:">
-<!ENTITY backgroundColor.accesskey         "B">
+<!ENTITY backgroundColor.accesskey         "ფ">
 <!ENTITY useSystemColors.label             "სისტემური ფერები">
-<!ENTITY useSystemColors.accesskey         "s">
+<!ENTITY useSystemColors.accesskey         "ს">
 
-<!ENTITY underlineLinks.label              "ბმების ხაზგასმა">
-<!ENTITY underlineLinks.accesskey          "U">
-<!ENTITY links                             "ბმების ფერები">
-<!ENTITY linkColor.label                   "გამოუყენებელი ბმები:">
-<!ENTITY linkColor.accesskey               "L">
-<!ENTITY activeLinkColor.label             "აქტიური ბმები:">
-<!ENTITY activeLinkColor.accesskey         "c">
-<!ENTITY visitedLinkColor.label            "მონახულებელი ბმები:">
-<!ENTITY visitedLinkColor.accesskey        "V">
+<!ENTITY underlineLinks.label              "ბმულების ხაზგასმა">
+<!ENTITY underlineLinks.accesskey          "ზ">
+<!ENTITY links                             "ბმულის ფერები">
+<!ENTITY linkColor.label                   "გამოუყენებელი ბმულები:">
+<!ENTITY linkColor.accesskey               "უ">
+<!ENTITY activeLinkColor.label             "მოქმედი ბმულები:">
+<!ENTITY activeLinkColor.accesskey         "ქ">
+<!ENTITY visitedLinkColor.label            "მონახულებული ბმულები:">
+<!ENTITY visitedLinkColor.accesskey        "ხ">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!ENTITY someProvColors                    "როცა ვებგვერდი საკუთარ ფერებსა და ფონს გთავაზობთ">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
 <!ENTITY alwaysUseDocumentColors.label     "ყოველთვის ვებგვერდზე მითითებული ფერების გამოყენება">
-<!ENTITY alwaysUseDocumentColors.accesskey "A">
+<!ENTITY alwaysUseDocumentColors.accesskey "ყ">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
-<!ENTITY  useMyColors.label               "ჩემი ფერების გამოყენება მითითებული ფერებისა და ფონური ნახატის ნაცვლად">
-<!ENTITY useMyColors.accesskey             "m">
+<!ENTITY useMyColors.label                 "შერჩეული ფერების გამოყენება, საიტის მიერ მითითებული ფერებისა და ფონური ნახატის ნაცვლად">
+<!ENTITY useMyColors.accesskey             "შ">
+<!ENTITY automaticColors.label             "მხოლოდ ფერების უგულებელყოფა, მაღალკონტრასტული გაფორმების გამოყენებისას">
+<!ENTITY automaticColors.accesskey         "მ">

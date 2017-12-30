@@ -7,16 +7,23 @@
 
 <!ENTITY systemPref.caption               "სისტემური პარამეტრები">
 <!ENTITY systemPrefCheck.label            "სისტემური პარამეტრების გამოყენება">
-<!ENTITY systemPrefCheck.accesskey        "U">
+<!ENTITY systemPrefCheck.accesskey        "ბ">
 <!ENTITY systemPref.desc                  "ამ კომპონენტით სისტემური პარამეტრების გამოყენებაა შესაძლებელი.  ამ შემთხვევაში &brandShortName; პარამეტრები სისტემური პარამეტრებით ჩანაცვლდება.">
 
 <!ENTITY prefCheckDefault.caption         "სისტემური ინტეგრაცია">
 <!ENTITY prefCheckDefaultClient.label     "პროგრამის ნაგულისხმები პარამეტრების შემოწმება სეანსის დაწყებისას">
-<!ENTITY prefCheckDefaultClient.accesskey "C">
+<!ENTITY prefCheckDefaultClient.accesskey "წ">
 
 <!ENTITY crashReports.caption             "შეცდომის მოპატაკე">
-<!ENTITY submitCrashes.label              "შეცდომის პატაკის გაგზავნა">
-<!ENTITY submitCrashes.accesskey          "S">
+<!ENTITY submitCrashes.label              "ავარიული დახურვის მოხსენების გაგზავნა">
+<!ENTITY submitCrashes.accesskey          "ვ">
 
 <!ENTITY devTools.caption                 "შემმუშავებლის ხელსაწყოები">
+<!ENTITY allowDebugger.label              "გამმართველისთვის, &brandShortName;-თან დაკავშირების ნების დართვა">
+<!ENTITY allowDebugger.accesskey          "ნ">
 <!ENTITY allowRemoteConnections.label     "სხვა კომპიუტერებიდან კავშირის დაშვება">
+<!ENTITY allowRemoteConnections.accesskey "ხ">
+<!ENTITY connectionPrompt.label           "შეტყობინება, შემომავალი კავშირისას">
+<!ENTITY connectionPrompt.accesskey       "ყ">
+<!ENTITY remoteDebuggerPort.label         "პორტის ნომერი, დაკავშირებისას:">
+<!ENTITY remoteDebuggerPort.accesskey     "პ">
