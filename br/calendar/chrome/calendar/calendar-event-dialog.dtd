@@ -25,21 +25,18 @@
 <!ENTITY newevent.status.needsaction.label        "Dleet eo ober un dra bennak" >
 <!ENTITY newevent.status.inprogress.label         "En ardreug" >
 <!ENTITY newevent.status.completed.label          "Echu" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; echu">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
 <!ENTITY event.attendees.notify.label                "Rebuziñ ar berzhidi">
 <!ENTITY event.attendees.notify.accesskey            "b">
 <!ENTITY event.attendees.notifyundisclosed.label     "Pep a bedadenn diforc'h d'ar berzhidi">
-
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Pep a bedadenn a vez kaset d'ar berzhidi gant an dibarzh-mañ. N'eus nemet ar perzhiad kasadour e pep pedadenn evit ma ne vefe ket diskuliet pivelezh ar berzhidi all.">
-
-
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.task.key2               "D">
@@ -54,8 +51,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Nevez">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Darvoud">
@@ -68,12 +65,12 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "d">
 <!ENTITY  event.menu.item.close.label                     "Serriñ">
 <!ENTITY  event.menu.item.close.accesskey                 "S">
+
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.save.label                      "Enrollañ">
 <!ENTITY  event.menu.item.save.accesskey                  "E">
 
@@ -82,10 +79,8 @@
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.saveandclose.label              "Enrollañ ha serriñ">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "n">
-
 
 <!ENTITY  event.menu.item.delete.label                    "Dilemel...">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
@@ -161,12 +156,11 @@
 <!ENTITY event.remove.attendees.accesskey                 "D">
 <!ENTITY event.remove.attendee.label                      "Dilemel ur perzhiad">
 <!ENTITY event.remove.attendee.accesskey                  "D">
-<!-- Toolbar -->
 
+<!-- Toolbar -->
 <!ENTITY  event.toolbar.delete.label                      "Dilemel">
 <!ENTITY  event.toolbar.attendees.label                   "Pediñ perzhidi">
 <!ENTITY  event.toolbar.privacy.label                     "Dangelez">
-
 
 <!ENTITY  event.toolbar.delete.tooltip                    "Dilemel">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Pediñ perzhidi">
@@ -175,6 +169,7 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Kemmañ an tevet">
 <!ENTITY  event.toolbar.status.tooltip                    "Kemmañ ar stad">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Kemmañ an amzer dieub/ac'hubet">
+
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -183,12 +178,7 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
-
-
-
-
 <!-- Main page -->
-
 <!ENTITY event.title.textbox.label                        "Titl :" >
 <!ENTITY event.title.textbox.accesskey                    "i">
 <!ENTITY event.location.label                             "Lec'hiadur :" >
@@ -196,7 +186,7 @@
 <!ENTITY event.categories.label                           "Rummad">
 <!ENTITY event.categories.accesskey                       "a">
 <!ENTITY event.categories.textbox.label                   "Ouzhpennañ ur rummad nevez" >
-<!ENTITY event.calendar.label                             "Deiziataeroù:" >
+<!ENTITY event.calendar.label                             "Deiziataerioù :" >
 <!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Perzhidi:" >
 <!ENTITY event.attendees.accesskey                        "n">
@@ -215,7 +205,6 @@
 <!ENTITY event.repeat.label                               "Bep pegeit?" >
 <!ENTITY event.repeat.accesskey                           "B">
 <!ENTITY event.until.label                                "Bete&amp;k:">
-
 <!ENTITY event.reminder.label                             "Koun:" >
 <!ENTITY event.reminder.accesskey                         "o">
 <!ENTITY event.description.label                          "Deskrivadur:" >
@@ -254,8 +243,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Amzer:">
 <!ENTITY event.statusbarpanel.privacy.label               "Dangelez:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Embann bep pegeit">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Gwezh ebet">
@@ -304,6 +293,7 @@
 <!ENTITY event.recurrence.every.label                        "Bep:" >
 <!ENTITY repeat.units.years.both                             "bloaz" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Bep" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -311,7 +301,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "miz Genver" >
@@ -361,8 +350,8 @@
 <!ENTITY event.recurrence.appointments.label            "emgav" >
 <!ENTITY event.repeat.until.label                       "Betek" >
 <!ENTITY event.recurrence.preview.label                 "Alberz">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Pediñ perzhidi">
 <!ENTITY event.organizer.label                  "Aozer">
 <!ENTITY event.freebusy.suggest.slot            "Kinnig ur pennad amzer:">
@@ -383,12 +372,12 @@
 <!ENTITY event.attendee.usertype.resource       "Loaz">
 <!ENTITY event.attendee.usertype.room           "Sal">
 <!ENTITY event.attendee.usertype.unknown        "Dianav">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Erspizit ar gennad-eur, mar plij">
 <!ENTITY event.timezone.custom.label     "Muioc'h a c'hennadoù-eur...">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Hollek">
 <!ENTITY read.only.title.label           "Titl:">
 <!ENTITY read.only.event.start.label     "Eus:">
@@ -405,7 +394,6 @@
 <!ENTITY read.only.tentative.label       "E c'hellfen kemer perzh">
 <!ENTITY read.only.needs.action.label    "Kadarnaat a rin diwezhatoc'h">
 <!ENTITY read.only.reminder.label        "Koun:">
-
 <!ENTITY read.only.attendees.label       "Perzhidi">
 <!ENTITY read.only.description.label     "Deskrivadur">
 <!ENTITY read.only.link.label            "Ere kar">
