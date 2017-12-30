@@ -23,8 +23,6 @@
 <!ENTITY getThemes.description                "Wollen Sie Ihren Browser anpassen?">
 <!ENTITY getThemes.learnMore                  "Wählen Sie aus Tausenden von Themes.">
 
-<!ENTITY cmd.back.tooltip                     "Eine Seite zurück">
-<!ENTITY cmd.forward.tooltip                  "Eine Seite vor">
 
 <!ENTITY showUnsignedExtensions.button.label  "Einige Erweiterungen konnten nicht verifiziert werden.">
 <!ENTITY showAllExtensions.button.label       "Alle Erweiterungen anzeigen">
