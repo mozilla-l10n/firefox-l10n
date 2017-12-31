@@ -22,10 +22,12 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "Quand sortissi de &brandShortName;, deu voidar automaticament :">
+
+<!ENTITY clearDataSettings3.label     "Quand quiti &brandShortName;, suprimir los elements seguents">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Periòde a suprimir : ">
 <!ENTITY clearTimeDuration.accesskey      "s">
 <!ENTITY clearTimeDuration.lastHour       "la darrièra ora">
@@ -36,10 +38,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Detalhs">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
@@ -60,8 +62,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "a">
 <!ENTITY itemSitePreferences.label         "Preferéncias del site">
 <!ENTITY itemSitePreferences.accesskey     "s">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Impossible d'anullar aquesta accion.">
