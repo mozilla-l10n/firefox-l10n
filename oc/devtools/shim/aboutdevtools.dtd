@@ -33,12 +33,18 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Avètz activat un acorchi cap a las aisinas de desvolopament. Se’s una error, podètz tampar aqueste onglet.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Examinatz, modificatz e desbugatz lo contengut HTML, CSS e JavaScript gràcias a las aisinas coma l’inspector e lo desbugador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Perfeccionatz l’HTML, CSS e JavaScript de vòstre site amb d’aisinas coma l’inspector e lo desbugador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
@@ -63,6 +69,7 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Recebètz de novetats, d’astúcias e de resorgas pels desvolopaires, dirèctament per corrièl.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Corrièl">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Accepti que Mozila utilize mas informacion segon sa <a class='external' href='https://www.mozilla.org/privacy/'>politica de confidencialitat</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Se marcar">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Mercés plan !">
 

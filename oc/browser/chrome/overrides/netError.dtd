@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "Impossible de trobar lo servidor">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Umm. capitam pas a trobar aqueste site.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>S’aquesta adreça es corrècta, vaquí tres mai causas que podètz ensajar :</strong>
+<ul>
+  <li>Tornar ensajar mai tard.</li>
+  <li>Verificar vòstra connexion al ret.</li>
+  <li>Se sètz connectat amb un talha-fòc, verificatz que &brandShortName; as la permission d’accedir al Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fichièrs pas trobat">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas) ;</li> <li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li> </ul>">

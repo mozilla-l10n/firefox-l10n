@@ -51,11 +51,15 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> foguèt <a id='error_desc_link'>senhalat coma un site enganaire</a>. Podètz<a id='report_detection'>senhalar una error de deteccion</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Ne saber mai suls sites enganaires e la pesca electronica sus <a id='learn_more_link'>www.antiphishing.org</a>. Per ne saber mai sus la proteccion de &brandShortName; tocant los logicials malfasents consultatz <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Aqueste site pòt conténer de logicials malvolents">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; a blocat aquesta pagina qu'auriá pogut installar d'aplicacions dangierosas capablas de raubar o suprimir vòstras donadas (per exemple, fotografias, senhals, messatges e cartas de crèdit).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> foguèt <a id='error_desc_link'> senhalat coma albergant una aplicacion nosibla</a>. Podètz <a id='ignore_warning_link'>ignorar aqueste risc</a> e anar sul site pas segur.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> foguèt <a id='error_desc_link'>senhalat coma un site albergant una aplicacion nosibla</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Ne saber mai sus la proteccion de &brandShortName; tocant la pesca electronica e los logicials malfasents sus <a id='firefox_support'>support.mozilla.org</a>.">
