@@ -198,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Hesɗitin">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Dartin">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Yah to ñiiɓirde wonde e Palal Nokkuuje">
 <!ENTITY printButton.label            "Waanjito">
@@ -234,6 +235,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "A daaƴii ndesgu duumiingu e ndee lowre.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "A faddiima kenorɗe pop-up nder ndee lowre.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "A daaƴii aaftogol keɓe keertol wonande ndee lowre geese.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Hollir aslol">
 
