@@ -60,6 +60,9 @@
 <!ENTITY  permissionsFor        "Berechtigungen für:">
 <!ENTITY  permPlugins           "Plugins verwenden">
 
+<!ENTITY  permClearStorage           "Speicher löschen">
+<!ENTITY  permClearStorage.accesskey "l">
+
 <!ENTITY  securityTab           "Sicherheit">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Zertifikat anzeigen">

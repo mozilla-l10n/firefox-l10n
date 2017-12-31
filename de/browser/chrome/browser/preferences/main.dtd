@@ -44,3 +44,5 @@
 <!ENTITY useFirefoxSync.label             "Tipp: Dabei werden getrennte Profile verwendet. Verwenden Sie Sync, um Daten zwischen diesen zu synchronisieren.">
 <!ENTITY getStarted.notloggedin.label     "Bei &syncBrand.shortName.label; anmelden…">
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label;-Einstellungen öffnen">
+
+<!ENTITY e10sEnabled.label                "&brandShortName; mit mehreren Prozessen ausführen">
