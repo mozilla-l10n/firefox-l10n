@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "Щоб заощадити місце на диску, на завантаження листів з сервера та зберігання локальних копій може бути накладене обмеження за віком та розміром.">
 <!ENTITY allFoldersOffline.label "Залишати листи облікового запису на цьому комп'ютері">
 <!ENTITY allFoldersOffline.accesskey "а">
+<!ENTITY allFoldersOffline2.label "Зберігати повідомлення в усіх теках для цього облікового запису на цьому комп'ютері">
+<!ENTITY allFoldersOffline2.accesskey "З">
+<!ENTITY allFoldersOfflineNote.label 'Примітка: Ця зміна стосується всіх тек для цього облікового запису. Щоб налаштувати окремі теки, скористайтеся кнопкою "Додатково…".'>
 <!ENTITY offlineNotDownload.label "Листи, більші за">
 <!ENTITY offlineNotDownload.accesskey "Б">
 <!ENTITY autosyncNotDownload.label "Не завантажувати листи більші за">
