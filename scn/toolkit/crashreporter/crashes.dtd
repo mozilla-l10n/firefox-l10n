@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY crashReports.title         "Nfurmazzioni dû ncidenti">
+<!ENTITY dateCrashed.heading        "Data dû ncidenti">
+<!ENTITY dateSubmitted.heading      "Data mannata">
+<!ENTITY noReports.label            "Nun s'ha mannatu nuḍḍa nfurmazzioni di ncidenti.">
+<!ENTITY noConfig.label             "St'appricazzioni nun fu cunfijurata pi mustrari li nfurmazzioni dî ncidenti. S'àvi a mpustari la prifirenza <code>breakpad.reportURL</code>.">
+<!ENTITY clearAllReports.label      "Leva tuttî report">
