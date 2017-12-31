@@ -147,6 +147,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Activar las mapas de font">
+<!ENTITY options.sourceMaps.tooltip1   "En activar aquesta opcion, las fonts seràn ligadas dins las aisinas.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
