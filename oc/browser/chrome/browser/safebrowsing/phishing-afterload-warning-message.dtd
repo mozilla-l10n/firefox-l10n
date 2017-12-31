@@ -26,20 +26,25 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> es estat <a id='error_desc_link'>senhalat coma comportant un logicial malvolent</a>. Podètz <a id='report_detection'>senhalar una error de deteccion</a> o <a id='ignore_warning_link'>ignorar aqueste avertiment</a> e contunhar cap a aqueste site pas securizat.">
 
-<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/>foguèt<a id='error_desc_link'>senhalat coma un logicial de pas bon fisar.</a>Podètz<a id='report_detection'>reportar aqueste problèma</a>.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> foguèt <a id='error_desc_link'>senhalat coma un logicial de pas bon fisar.</a>Podètz<a id='report_detection'>reportar aqueste problèma</a>.">
 
 <!ENTITY safeb.blocked.malwarePage.learnMore "Aprenètz-ne mai suls contenguts perilhoses e los autres logicials dangeiroses e cossí protegir vòstre ordenador en consultar <a id='learn_more_link'>StopBadware.org</a>. Per ne saber mai sul sistèma de proteccion de &brandShortName; consultatz <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Aqueste site pòt conténer de programas dangierós">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; a blocat aquesta pagina perque poiriá vos far installar de programas capables de nòser vòstra experiéncia de navigacion(per exemple en cambiar vòstra pagina d’acuèlh o n’ajustar de publicitat suls sites que visitatz).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> foguèt <a id='error_desc_link'> senhalat coma un logicial malfasent</a>. Podètz <a id='ignore_warning_link'>ignorar aqueste risc</a> e anar a aqueste site pas segur.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> foguèt <a id='error_desc_link'> senhalat coma comportant de logicials malfasents</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Per ne saber mai suls logicials malfasent e perilhoses consultatz lo <a id='learn_more_link'>Règlament tocant los logicials malfasents</a>. Ne saber mai sus la proteccion contra aquò de &brandShortName; anatz a <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Aqueste site es enganador">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; a blocat aqueste pagina perque poiriá vos menar a realizar d’accions perilhossas coma installar un logicial o donar d’informacions personalas coma vòstres senhals o vòstre numerò de carta bancària.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
