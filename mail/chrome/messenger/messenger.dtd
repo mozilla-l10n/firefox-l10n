@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Чат">
 <!ENTITY goChatCmd.accesskey "Ч">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Лист з зіркою">
 <!ENTITY prevStarredMsgCmd.accesskey "З">
 <!ENTITY folderMenu.label "Тека">
@@ -459,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Додатки">
 <!ENTITY addons.accesskey "Д">
+<!ENTITY addonPrefs.label "Налаштування додатків">
+<!ENTITY addonPrefs.accesskey "ш">
+<!ENTITY addonPrefsUnix.label "Налаштування додатків">
+<!ENTITY addonPrefsUnix.accesskey "ш">
+<!ENTITY addonNoPrefs.label "Не знайдено налаштувань додатків.">
 <!ENTITY activitymanager.label "Менеджер діяльності">
 <!ENTITY activitymanager.accesskey "д">
 <!ENTITY imAccountsStatus.label "Стан у чаті">
