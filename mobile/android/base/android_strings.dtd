@@ -6,7 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Thanks for choosing &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "A modern mobile browser from Mozilla, the non-profit committed to a free and open web.">
 <!ENTITY firstrun_panel_title_privacy "Privacy">
-<!ENTITY firstrun_privacy_message "Browse like no one\'s watching">
+<!ENTITY firstrun_privacy_message "Browse like no one\&apos;s watching">
 <!ENTITY firstrun_privacy_subtext "Private Browsing with Tracking Protection blocks trackers while you browse and won’t remember your history when you finish browsing.">
 <!ENTITY firstrun_panel_title_customize "Customise">
 <!ENTITY firstrun_customize_message "Make &brandShortName; your own.">
@@ -59,7 +59,7 @@
 <!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
 <!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
 <!ENTITY  crash_include_url2 "Include the address of the page I was on">
-<!ENTITY  crash_sorry "We\'re sorry">
+<!ENTITY  crash_sorry "We\&apos;re sorry">
 <!ENTITY  crash_comment "Add a comment (comments are publicly visible)">
 <!ENTITY  crash_allow_contact2 "Allow &vendorShortName; to contact me about this report">
 <!ENTITY  crash_email "Your email">
@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; items">
 <!ENTITY bookmark_folder_one_item "1 item">
+<!ENTITY bookmark_folder_updated "Folder updated">
 <!ENTITY bookmark_parent_folder "Parent Folder">
 <!ENTITY bookmark_add_folder "Add new folder">
 
@@ -278,12 +279,18 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Enabled in Private Browsing">
 <!ENTITY pref_tracking_protection_disabled "Disabled">
 
-<!ENTITY pref_whats_new_notification "What\'s new in &brandShortName;">
+<!ENTITY pref_whats_new_notification "What\&apos;s new in &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Learn about new features after an update">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Experimental features">
+
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Custom Tabs">
+<!ENTITY pref_custom_tabs_summary4 "Allow apps to open web content in a quickly loading custom tab">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -296,7 +303,7 @@
 <!ENTITY pref_pwa_summary "Allow web apps to be added to home screen">
 
 <!ENTITY tracking_protection_prompt_title "Now with Tracking Protection">
-<!ENTITY tracking_protection_prompt_text "Actively block tracking elements so you don\'t have to worry.">
+<!ENTITY tracking_protection_prompt_text "Actively block tracking elements so you don\&apos;t have to worry.">
 <!ENTITY tracking_protection_prompt_tip_text "Visit Privacy settings to learn more">
 <!ENTITY tracking_protection_prompt_action_button "Got it!">
 
@@ -325,21 +332,21 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "To \&quot;Open multiple links\&quot;, please enable the \'Draw over other apps\' permission for &brandShortName;">
+<!ENTITY tab_queue_notification_settings "To \&quot;Open multiple links\&quot;, please enable the \&apos;Draw over other apps\&apos; permission for &brandShortName;">
 
 <!ENTITY pref_char_encoding "Character encoding">
 <!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
+<!ENTITY pref_char_encoding_off "Don\&apos;t show menu">
 <!ENTITY pref_clear_private_data2 "Clear private data">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Clear now">
 <!ENTITY pref_clear_on_exit_title3 "Clear private data on exit">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; will automatically clear your data whenever you select \u0022Quit\u0022 from the main menu">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; will automatically clear your data whenever you select \&quot;Quit\&quot; from the main menu">
 <!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
 <!ENTITY pref_restore_tabs "Restore tabs">
 <!ENTITY pref_restore_always "Always restore">
-<!ENTITY pref_restore_quit "Don\'t restore after quitting &brandShortName;">
+<!ENTITY pref_restore_quit "Don\&apos;t restore after quitting &brandShortName;">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
@@ -356,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Allow QR scanner in the URL bar">
 
 <!ENTITY pref_use_master_password "Use master password">
+<!ENTITY pref_sync_default_title "Firefox Account">
 <!ENTITY pref_sync2 "Sign in">
 <!ENTITY pref_sync_summary2 "Synchronise your tabs, bookmarks, logins, history">
 <!ENTITY pref_search_suggestions "Show search suggestions">
@@ -389,7 +397,7 @@
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Recent Bookmarks">
 <!ENTITY pref_dialog_activitystream_visited "Visited">
 
-<!ENTITY pref_search_last_toast "You can\'t remove or disable your last search engine.">
+<!ENTITY pref_search_last_toast "You can\&apos;t remove or disable your last search engine.">
 
 <!ENTITY pref_panels_show "Show">
 <!ENTITY pref_panels_hide "Hide">
@@ -478,6 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_remove "Remove">
 <!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
+<!ENTITY contextmenu_add_page_shortcut "Add Page Shortcut">
 <!ENTITY contextmenu_set_as_homepage "Set as Homepage">
 <!ENTITY contextmenu_share "Share">
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
@@ -531,6 +540,8 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Page removed">
+
+<!ENTITY folder_removed "Folder removed">
 
 <!ENTITY bookmark_edit_title "Edit Bookmark">
 <!ENTITY bookmark_edit_folder_title "Edit Folder">
@@ -589,7 +600,7 @@
 <!ENTITY home_most_recent_empty "Web sites you visited most recently show up here.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: using a &formatS1;New Private Tab&formatS2; won\'t save your history.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: using a &formatS1;New Private Tab&formatS2; won\&apos;t save your history.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -617,7 +628,7 @@
 <!ENTITY home_unpinned_site "Unpinned site">
 
 <!ENTITY remote_tabs_panel_moved_title "Where did my tabs go?">
-<!ENTITY remote_tabs_panel_moved_desc "We\'ve moved your tabs from other devices into a panel on your home page that can be easily accessed every time you open a new tab.">
+<!ENTITY remote_tabs_panel_moved_desc "We\&apos;ve moved your tabs from other devices into a panel on your home page that can be easily accessed every time you open a new tab.">
 <!ENTITY remote_tabs_panel_moved_link "Take me to my new panel.">
 
 <!ENTITY pin_site_dialog_hint "Enter a search keyword">
@@ -690,7 +701,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bookmarks and history">
 
-<!-- Updater notifications --> 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Update available for &brandShortName;">
 <!ENTITY updater_start_select2 "Touch to download">
 
@@ -709,7 +720,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Allow">
 
-<!-- Guest mode -->
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "New Guest Session">
 <!ENTITY exit_guest_session "Exit Guest Session">
 <!ENTITY guest_session_dialog_continue "Continue">
@@ -730,7 +741,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY colon ":">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Done">
@@ -770,15 +781,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 <!ENTITY devtools_auth_scan_header "Scanning for the QR code displayed on your other device">
 
-<!-- Restrictions -->
-<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Add-ons">
 <!ENTITY restrictable_feature_addons_installation_description "Add features or functionality to Firefox. Note: Add-ons can disable certain restrictions.">
 <!ENTITY restrictable_feature_private_browsing "Private Browsing">
-<!ENTITY restrictable_feature_private_browsing_description "Allows family members to browse without saving information about the sites and pages they\'ve visited.">
+<!ENTITY restrictable_feature_private_browsing_description "Allows family members to browse without saving information about the sites and pages they\&apos;ve visited.">
 <!ENTITY restrictable_feature_clear_history "Clear History">
-<!ENTITY restrictable_feature_clear_history_description "Allows family members to delete information about the sites and pages they\'ve visited.">
+<!ENTITY restrictable_feature_clear_history_description "Allows family members to delete information about the sites and pages they\&apos;ve visited.">
 <!ENTITY restrictable_feature_advanced_settings "Advanced Settings">
 <!ENTITY restrictable_feature_advanced_settings_description "This includes importing bookmarks, restoring tabs and automated updates. Turn off for simplified settings suitable for any family member.">
 <!ENTITY restrictable_feature_camera_microphone "Camera &amp; Microphone">
@@ -801,17 +812,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "Sorry! This &brandShortName; won\'t work on this device (&formatS1;, &formatS2;). Please download the correct version.">
+<!ENTITY unsupported_sdk_version "Sorry! This &brandShortName; won\&apos;t work on this device (&formatS1;, &formatS2;). Please download the correct version.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; will no longer update">
 <!ENTITY eol_notification_summary "Tap to learn more">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
-          are used for a system notification that's shown to users after the app updates. -->
+     are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; is up to date">
-<!ENTITY whatsnew_notification_summary "Find out what\'s new in this version">
+<!ENTITY whatsnew_notification_summary "Find out what\&apos;s new in this version">
 
 <!ENTITY promotion_add_to_homescreen "Add to home screen">
+
+<!ENTITY promotion_add_page_shortcut "Add page shortcut">
 
 <!ENTITY helper_first_offline_bookmark_title "Read offline">
 <!ENTITY helper_first_offline_bookmark_message "Find your Reader View items in Bookmarks, even offline.">
@@ -838,7 +851,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Trending">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Start browsing, and we\'ll show some of the great articles, videos, and other pages you\'ve recently visited or bookmarked here.">
+<!ENTITY activity_stream_highlights_empty "Start browsing, and we\&apos;ll show some of the great articles, videos, and other pages you\&apos;ve recently visited or bookmarked here.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -848,7 +861,17 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Private Browsing + Tracking Protection">
 <!ENTITY private_tab_panel_description "&brandShortName; blocks parts of the pages that may track your browsing activity.">
-<!ENTITY private_tab_panel_description2 "We won\'t remember any history, but downloaded files and new bookmarks will still be saved to your device.">
+<!ENTITY private_tab_panel_description2 "We won\&apos;t remember any history, but downloaded files and new bookmarks will still be saved to your device.">
 <!ENTITY private_tab_learn_more "Want to learn more?">
 
 <!ENTITY fullscreen_warning "Entered full screen">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Add to Home Screen">
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Add to Home Screen">
+<!ENTITY pwa_continue_to_website "Continue to Web Site">
+<!ENTITY pwa_onboarding_sumo "You can easily add this web site to your Home screen to have instant access and browse faster with an app-like experience.">
