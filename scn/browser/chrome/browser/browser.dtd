@@ -421,17 +421,42 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "N">
 <!ENTITY viewFrameInfoCmd.label       "Nfurmazzioni dû quatru">
 <!ENTITY viewFrameInfoCmd.accesskey   "N">
-<!ENTITY reloadImageCmd.label         "Càrrica arredi immàggini">
+<!ENTITY reloadImageCmd.label         "Càrrica arredi mmàggini">
 <!ENTITY reloadImageCmd.accesskey     "C">
-<!ENTITY viewImageCmd.label           "Vidi immàggini">
+<!ENTITY viewImageCmd.label           "Talía mmàggini">
 <!ENTITY viewImageCmd.accesskey       "i">
+<!ENTITY viewImageInfoCmd.label       "Nfurmazzioni dâ mmàggini">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageDescCmd.label       "Talía discrizzioni">
+<!ENTITY viewImageDescCmd.accesskey   "d">
+<!ENTITY viewVideoCmd.label           "Talía vídiu">
+<!ENTITY bookmarkPageCmd2.label       "Nzinga sta pàggina">
 <!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbra">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
+<!ENTITY bookmarkThisFrameCmd.label      "Nzinga stu quatru">
 <!ENTITY pageAction.copyLink.label    "Copia lu lijami">
+<!ENTITY savePageCmd.label            "Sarba la pàggina comu…">
+<!ENTITY savePageCmd.accesskey        "c">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Sarba lu quatru comu…">
+<!ENTITY saveFrameCmd.accesskey       "q">
 <!ENTITY saveLinkCmd.label            "Sarba lu lijami comu…">
 <!ENTITY saveLinkCmd.accesskey        "j">
+<!ENTITY saveImageCmd.label           "Sarba la mmàggini comu…">
+<!ENTITY saveImageCmd.accesskey       "r">
+<!ENTITY saveVideoCmd.label           "Sarba lu vídiu comu…">
+<!ENTITY saveVideoCmd.accesskey       "r">
+<!ENTITY saveAudioCmd.label           "Sarba lu sonu comu…">
+<!ENTITY saveAudioCmd.accesskey       "r">
+<!ENTITY emailImageCmd.label          "Manna la mmàggini…">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Manna lu sonu…">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY copyImageContentsCmd.label   "Copia la mmàggini">
+<!ENTITY thisFrameMenu.label              "Stu quatru">
+<!ENTITY thisFrameMenu.accesskey          "t">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
