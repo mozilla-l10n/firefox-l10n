@@ -30,6 +30,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Firefox Geliştirici Araçları ile WebExtension’ları, web worker’ları, service worker’ları ve daha fazlasını geliştirip hatalarını ayıklayın.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
@@ -38,9 +40,13 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Denetçi ve Hata Ayıklayıcı gibi araçlarımızla HTML, CSS ve JavaScript kodlarını inceleyin, düzenleyin ve hatalarını ayıklayın.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Denetçi ve Hata Ayıklayıcı gibi araçlarımızla web sitenizin HTML, CSS ve JavaScript kodlarını mükemmelleştirin.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
