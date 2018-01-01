@@ -41,7 +41,7 @@
 <!ENTITY isNotDefault.label               "&brandShortName; es pas vòstre navigador per defaut">
 
 <!ENTITY separateProfileMode.label        "Autorizar &brandShortName; e Firefox a s'executar a l’encòp">
-<!ENTITY useFirefoxSync.label             "Astúcia : aquò utiliza de perfils destriats. Utilizatz Sync per partejar de donadas entre eles.">
+<!ENTITY useFirefoxSync.label             "Astúcia : aquò utiliza de perfils destriats. Utilizatz Sync per partejar de donadas entre eles.">
 <!ENTITY getStarted.notloggedin.label     "Se connectar a &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label      "Dobrir las preferéncias del &syncBrand.shortName.label;">
 

@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
-<!ENTITY doNotTrackCheckbox2.label    "Aplicar sempre : Me pistar pas">
+<!ENTITY doNotTrackCheckbox2.label    "Aplicar sempre : Me pistar pas">
 <!ENTITY doNotTrackCheckbox2.accesskey "A">
 
 <!ENTITY doNotTrackTPInfo.description "&brandShortName; mandarà un senhal que volètz pas èsser pistat quand la proteccion es activada.">
