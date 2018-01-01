@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Əlfəcinlər">
 <!ENTITY engine.bookmarks.accesskey "c">
 <!ENTITY engine.tabs.label2         "Açıq Vərəqlər">
+<!ENTITY engine.tabs.title          "Sinxronlaşdırılmış cihazlarda açıq olanların siyahısı">
 <!ENTITY engine.tabs.accesskey      "V">
 <!ENTITY engine.history.label       "Keçmiș">
 <!ENTITY engine.history.accesskey   "i">
 <!ENTITY engine.logins.label        "Daxil olmalar">
+<!ENTITY engine.logins.title        "Saxladığınız istifadəçi adları və parollar">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Seçimlər">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Nizamlamalar">
 <!ENTITY engine.prefs.accesskey     "l">
+<!ENTITY engine.prefs.title         "Dəyişdirdiyiniz Ümumi, Məxfilik və Təhlükəsizlik tənzimləmələri">
 <!ENTITY engine.addons.label        "Əlavələr">
+<!ENTITY engine.addons.title        "Firefox masaüstü üçün uzantı və mövzular">
 <!ENTITY engine.addons.accesskey    "Ə">
 <!ENTITY engine.addresses.label     "Ünvanlar">
+<!ENTITY engine.addresses.title     "Saxladığınız poçt ünvanları (ancaq masaüstü)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kredit kartları">
+<!ENTITY engine.creditcards.title   "Adlar, nömrələr və vaxtı çıxma tarixləri (ancaq masaüstü)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
