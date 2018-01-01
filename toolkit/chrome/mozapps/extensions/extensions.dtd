@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Add-ons Manager">
 
 <!ENTITY search.placeholder                   "Search all add-ons">
+
+<!ENTITY search.placeholder2                  "Search on addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Search">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Go back one page">
 <!ENTITY cmd.forward.tooltip                  "Go forwards one page">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Some extensions could not be verified">
 <!ENTITY showAllExtensions.button.label       "Show all extensions">
