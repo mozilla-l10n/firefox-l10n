@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Arriduci">
 <!ENTITY windowMenu.label         "Finestra">
 
 <!ENTITY helpMenu.label           "Aiutu"> 

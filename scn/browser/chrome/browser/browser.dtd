@@ -106,6 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Virífica lu to' cuntu">
 
 
+<!ENTITY fullScreenMinimize.tooltip "Arriduci">
 <!ENTITY fullScreenClose.tooltip "Chiudi">
 <!ENTITY fullScreenAutohide.label "Ammuccia sbarri dî strummenta">
 
@@ -156,6 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduci sta pàggina">
+
 
 
 
@@ -243,6 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewToolbarsMenu.label       "Sbarri dî strummenta">
 <!ENTITY viewToolbarsMenu.accesskey     "s">
+<!ENTITY viewSidebarMenu.label "Sbarra di ciancu">
 <!ENTITY viewCustomizeToolbar.label       "Pirsunalizza…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Pirsunalizza la sbarra dî strummenta…">
@@ -257,8 +260,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Pirsunalizza">
+<!ENTITY appMenuCustomizeExit.tooltip "Finisci di pirsunalizzari">
 
 <!ENTITY appMenuHistory.showAll.label "Mustra tutta la crunuluggía">
+<!ENTITY appMenuHistory.viewSidebar.label "Talía sbarra di ciancu dâ crunuluggía">
 <!ENTITY appMenuHelp.label "Aiutu">
 <!ENTITY appMenuHelp.tooltip "Grapi menú d'aiutu">
 
@@ -286,17 +291,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Agghiunci nnâ sbarra dî strummenta">
+<!ENTITY customizeMenu.addToPanel.label "Agghiunci nnô menú">
+<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.moveToToolbar.label "Sposta nnâ sbarra dî strummenta">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Sposta nnô menú">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "Leva dâ sbarra dî strummenta">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "L">
 <!ENTITY customizeMenu.removeFromMenu.label "Leva dô Menu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "L">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -304,11 +318,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.switchToTab.label     "Passa â scheda:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Cchiú nfurmazzioni…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "s">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggirimentu:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cancia l'uzzioni…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cancia li prifirenzi…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -359,7 +383,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Mpustazzioni di ricerca">
+<!ENTITY changeSearchSettings.tooltip "Cancia li mpustazzioni di ricerca">
 
+<!ENTITY searchInNewTab.label         "Cerca nta na nova scheda">
+<!ENTITY searchInNewTab.accesskey     "n">
 
 <!ENTITY openLinkCmdInTab.label       "Grapi lu lijami nta na nova scheda">
 <!ENTITY openLinkCmdInTab.accesskey   "s">
@@ -369,9 +397,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "a">
 <!ENTITY openLinkCmdInCurrent.label     "Grapi lu lijami">
 <!ENTITY openLinkCmdInCurrent.accesskey "l">
+<!ENTITY openFrameCmdInTab.label      "Grapi lu quatru nta na nova scheda">
+<!ENTITY openFrameCmdInTab.accesskey  "s">
+<!ENTITY openFrameCmd.label           "Grapi lu quatru nta na nova finestra">
+<!ENTITY openFrameCmd.accesskey       "f">
 <!ENTITY openLinkCmdInContainerTab.label "Grapi lu lijami nta na scheda di cuntinituri nova">
 <!ENTITY openLinkCmdInContainerTab.accesskey "c">
+<!ENTITY showOnlyThisFrameCmd.label     "Mustra sulu stu quatru">
+<!ENTITY showOnlyThisFrameCmd.accesskey "M">
 <!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Càrrica arredi lu quatru">
+<!ENTITY reloadFrameCmd.accesskey     "C">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbra">
