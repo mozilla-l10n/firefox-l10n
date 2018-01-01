@@ -151,3 +151,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "चैनल्स">
 <!ENTITY aboutSupport.mediaDeviceRate "दर">
 <!ENTITY aboutSupport.mediaDeviceLatency "विलंबता">
+
+<!ENTITY aboutSupport.intlAppTitle "अनुप्रयोग सेटिंग्स">
