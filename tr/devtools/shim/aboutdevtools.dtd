@@ -77,6 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir. Lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Geliştirici Araçları’ndan daha fazlasını mı istiyorsunuz? Geliştiriciler ve çağdaş iş akışları için özel olarak hazırladığımız Firefox tarayıcısını deneyin.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
