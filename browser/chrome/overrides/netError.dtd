@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "Server tapılmadı">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Bu saytı tapmaqda çətinlik çəkirik.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Əgər ünvan düzgündürsə, bu üç fərqli şeyləri yoxlaya bilərsiz:</strong>
+<ul>
+  <li>Daha sonra təkrar yoxlayın.</li>
+  <li>İnternet bağlantınızı yoxlayın.</li>
+  <li>Əgər qoşulusunuz və firewall arxasındasınızsa, &brandShortName; səyyahının internetə qoşulma icazəsi olduğundan əmin olun.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fayl tapılmadı">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Faylın adını böyük hərf və ya digər yazı xətaları üçün yoxlayın.</li> <li>Faylın köçürülmüş, adı dəyişdirilmiş və ya silinmiş olmasını yoxlayın.</li> </ul>">

@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Keçidi cihaza göndər">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "Göndərildi!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Növbəyə alındı (oflayn)">
 <!ENTITY  moveToNewWindow.label              "Yeni pəncərəyə daşı">
 <!ENTITY  moveToNewWindow.accesskey          "p">
 <!ENTITY  bookmarkAllTabs.label              "Bütün vərəqləri əlfəcinlə…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "G">
 
 <!ENTITY backCmd.label                "Geri">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Əvvəlki səhifəyə qayıt">
 <!ENTITY forwardCmd.label             "İrəli">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Sonrakı səhifəyə keç">
 <!ENTITY backForwardButtonMenu.tooltip "Tarixçəni göstərmək üçün sağ klikləyin və ya aşağı çəkin">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarixçəni göstərmək üçün aşağı çəkin">
 <!ENTITY reloadCmd.label              "Yenilə">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Dayan">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Ünvan Sətrindəki ünvanı aç">
 <!ENTITY printButton.label            "Çap Et">
@@ -205,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mesaj panelini aç">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Mövqe sorğusu panelini aç">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Əlavə quraşdırma mesaj panelini aç">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Lövhə (canvas) çıxartma icazəsini idarə et">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Oflayn saxlama mesaj panelini aç">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Parolu saxlama mesaj panelini aç">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Qoşma istifadəsini idarə et">
@@ -228,6 +234,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Bu sayt üçün məlumat saxlanmasını bloklamısınız.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu sayt üçün bildirişləri bloklamısınız.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sayt üçün qalıcı yaddaşı bloklamısınız.">
+
+<!ENTITY urlbar.popupBlocked.tooltip             "Bu sayt üçün peyda olan pəncərələri bloklamısınız.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Bu sayt üçün lövhə (canvas) məlumatı çıxartmanı bloklamısınız.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixçəni göstər">
 
@@ -352,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Menyu və yan paneli şəxsiləşdir">
 <!ENTITY appMenuCustomizeExit.label "Şəxsiləşdirməni tərk et">
 <!ENTITY appMenuCustomizeExit.tooltip "Şəxsiləşdirməni Bitir">
+
 <!ENTITY appMenuHistory.showAll.label "Bütün Tarixçəni Göstər">
 <!ENTITY appMenuHistory.clearRecent.label "Son Tarixçəni Təmizlə…">
 <!ENTITY appMenuHistory.restoreSession.label "Əvvəlki Seansı Bərpa et">
@@ -382,9 +393,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync Nizamlamaları">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Hesabınız təsdiqlənməlidir.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ə Daxil ol">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Cihazları İdarə et…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sinxronlaşdırılmış vərəqlər yan panelini göstər">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Başqa Cihazı Qoş">
 
 <!ENTITY appMenuRecentHighlights.label "Son İşıqlandırmalar">
 
@@ -561,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "İşçi stolu arxa fonu et…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Bu Səhifəni Əlfəcinlə">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Bu Keçidi Əlfəcinlə">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu Çərçivəni Əlfəcinlə">
@@ -747,12 +762,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Bitdi">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sayt Təhlükəsizliyi">
+
 <!ENTITY identity.connectionSecure "Təhlükəsiz Əlaqə">
 <!ENTITY identity.connectionNotSecure "Əlaqə Təhlükəsiz deyil">
 <!ENTITY identity.connectionFile "Bu səhifə sizin kompüterinizdə saxlanıb.">
 <!ENTITY identity.connectionVerified2 "Bu sayta təhlükəsiz qoşulmusunuz, sayt sahibi:">
 <!ENTITY identity.connectionInternal "Bu səhifə təhlükəsiz bir &brandShortName; səhifəsidir.">
-<!ENTITY identity.extensionPage "Bu səhifə qoşmadan yüklənib.">
+<!ENTITY identity.extensionPage "Bu səhifə uzantıdan yüklənib.">
 <!ENTITY identity.insecureLoginForms2 "Bu səhifədə girilən məlumatlar oğurlana bilər.">
 
 <!-- Strings for connection state warnings. -->
@@ -800,12 +819,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Hələlik sinxronlaşdırılmış vərəq yoxdur!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Hesabınız təsdiqlənməlidir.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Açıq vərəq yoxdur">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; nizamlamalarını aç">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün vərəq sinxronizasiyasını aktivləşdirin.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Sinxronlaşdırılmış vərəqlərdə axtar">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Başqa Cihazı Qoş">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -976,9 +998,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; yeniləmək üçün yenidən başladın">
 
+<!ENTITY newTabControlled.message "Uzantılardan biri Yeni Vərəqi açdığınızda göstərilən səhifəni dəyişdirib. Əgər bu dəyişikliyi istəmirsinizsə, tənzimləmələrinizi bərpa edə bilərsiz.">
+<!ENTITY newTabControlled.header.message "Yeni Vərəqiniz dəyişdirildi.">
+<!ENTITY newTabControlled.keepButton.label "Dəyişiklikləri saxla">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "Tənzimləmələri bərpa et">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Səhifə əməliyyatları">
 <!ENTITY pageAction.addToUrlbar.label "Ünvan sətrinə əlavə et">
 <!ENTITY pageAction.removeFromUrlbar.label "Ünvan sətrindən sil">
+
+<!ENTITY pageAction.allowInUrlbar.label "Ünvan Sətrində göstər">
+<!ENTITY pageAction.disallowInUrlbar.label "Ünvan Sətrində göstərmə">
+<!ENTITY pageAction.manageExtension.label "Uzantını idarə et…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Vərəqi cihaza göndər">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar Sinxronlaşdırılır…">
