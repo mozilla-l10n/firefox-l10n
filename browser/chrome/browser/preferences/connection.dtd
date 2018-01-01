@@ -41,7 +41,7 @@
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy2.label                "Cap servidor mandatari per">
 <!ENTITY  noproxy2.accesskey            "p">
-<!ENTITY  noproxyExplain.label          "Exemple : .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  noproxyExplain.label          "Exemple : .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utilizar aqueste servidor mandatòri per totes los protocòls">
 <!ENTITY  shareproxy.accesskey          "z">
 <!ENTITY  autologinproxy.label          "Me demandar pas de m'autentificar se lo senhal es enregistrat">
