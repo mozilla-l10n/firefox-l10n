@@ -74,8 +74,10 @@
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Accepti que Mozila utilize mas informacion segon sa <a class='external' href='https://www.mozilla.org/privacy/'>politica de confidencialitat</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Se marcar">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Mercés plan !">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "S’avètz pas ja confirmat un abonament a una letra de ligason de Mozilla, benlèu que o vos cal far. Verificatz vòstra bóstia de recepcion o corrièls pas desirables e cercatz un messatge nòstre.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Cercatz mai que d’aisinas de desvolopament ? Descobrissètz lo navigador Firefox fach especialament pels desvolopaires e los flux laborals del monde modèrn.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
