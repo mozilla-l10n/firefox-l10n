@@ -54,7 +54,7 @@
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Totjorn">
 <!ENTITY  acceptThirdParty.never.label    "Pas jamai">
-<!ENTITY  acceptThirdParty.visited.label  "dempuèi los sites visitats">
+<!ENTITY  acceptThirdParty.visited.label  "Dels sites visitats">
 
 <!ENTITY  keepUntil2.label              "Las conservar fins a">
 <!ENTITY  keepUntil2.accesskey          "f">
