@@ -18,7 +18,7 @@
 <!ENTITY listEmpty.findUpdates.label          "Recèrca las mesas a jorn">
 <!ENTITY listEmpty.search.label               "Pas cap de modul correspondent">
 <!ENTITY listEmpty.button.label               "N'aprene mai suls moduls complementaris">
-<!ENTITY installAddonFromFile.label           "Installar un modul dempuèi un fichièr…">
+<!ENTITY installAddonFromFile.label           "Installar un modul dins d’un fichièr…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Aisinas per totes los moduls">
 

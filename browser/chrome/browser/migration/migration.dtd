@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "Assistent d'importacion">
 
-<!ENTITY importFrom.label               "Importar las opcions, los marcapaginas, l'istoric, los mots de pas e las autras donadas dempuèi :">
-<!ENTITY importFromUnix.label           "Importar las preferéncias, los marcapaginas, l'istoric, los senhals e las autras donadas dempuèi :">
-<!ENTITY importFromBookmarks.label      "Importar los marcapaginas dempuèi :">
+<!ENTITY importFrom.label               "Importar las opcions, los marcapaginas, l'istoric, los mots de pas e las autras donadas de :">
+<!ENTITY importFromUnix.label           "Importar las preferéncias, los marcapaginas, l'istoric, los senhals e las autras donadas de :">
+<!ENTITY importFromBookmarks.label      "Importar los marcapaginas de :">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

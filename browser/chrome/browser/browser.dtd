@@ -771,7 +771,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Aquela pagina es enregistrada dins vòstre ordinador.">
 <!ENTITY identity.connectionVerified2 "Sètz connectat amb seguretat a aquel site, proprietat de :">
 <!ENTITY identity.connectionInternal "Aquò es una pagina segura de &brandShortName;.">
-<!ENTITY identity.extensionPage "Aquela pagina es estada cargada dempuèi una extension.">
+<!ENTITY identity.extensionPage "Aquela pagina es estada cargada d’una extension.">
 <!ENTITY identity.insecureLoginForms2 "Los identificants marcats sus aquela pagina pòdon far perilh.">
 
 <!-- Strings for connection state warnings. -->
@@ -815,7 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Onglets sincronizats">
 
 <!ENTITY syncedTabs.sidebar.label              "Onglets sincronizats">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Connectatz-vos mejan Firefox dempuèi los vòstres autres periferics per afichar lors onglets aquí.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Connectatz-vos mejan Firefox de los vòstres autres periferics per afichar lors onglets aquí.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Pas cap d’onglet sincronizat pel moment.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Volètz afichar los onglets dels vòstres autres periferics aquí ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.">
