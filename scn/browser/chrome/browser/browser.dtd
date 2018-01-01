@@ -408,8 +408,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Càrrica arredi lu quatru">
 <!ENTITY reloadFrameCmd.accesskey     "C">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Talía la funti dâ silizzioni">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Talía la funti MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "f">
+<!ENTITY viewPageSourceCmd.label      "Talía la funti dâ pàggina">
+<!ENTITY viewPageSourceCmd.accesskey  "T">
+<!ENTITY viewFrameSourceCmd.label     "Talía la funti dû quatru">
+<!ENTITY viewFrameSourceCmd.accesskey "T">
+<!ENTITY viewPageInfoCmd.label        "Nfurmazzioni dâ pàggina">
+<!ENTITY viewPageInfoCmd.accesskey    "N">
+<!ENTITY viewFrameInfoCmd.label       "Nfurmazzioni dû quatru">
+<!ENTITY viewFrameInfoCmd.accesskey   "N">
+<!ENTITY reloadImageCmd.label         "Càrrica arredi immàggini">
+<!ENTITY reloadImageCmd.accesskey     "C">
+<!ENTITY viewImageCmd.label           "Vidi immàggini">
+<!ENTITY viewImageCmd.accesskey       "i">
 <!ENTITY bookmarkThisLinkCmd.label      "Agghiunci stu lijami nnê nzingalibbra">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "z">
 <!ENTITY pageAction.copyLink.label    "Copia lu lijami">
