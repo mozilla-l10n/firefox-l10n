@@ -7,6 +7,8 @@
 <!ENTITY doNotDownloadImap.label "Zarad uštede diskovnog prostora, preuzimanje poruka sa servera i čuvanje lokalnih kopija za offline korištenje može biti ograničeno po starosti ili veličini.">
 <!ENTITY allFoldersOffline.label "Zadrži poruke ovog računa na ovom računaru">
 <!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Zadrži poruke u svim direktorijima za ovaj račun na ovom računaru">
+<!ENTITY allFoldersOfflineNote.label "Napomena: Promjena ovog utiče na sve direktorije ovog računa. Koristite dugme Napredno… da biste podesili direktorije zasebno.">
 <!ENTITY offlineNotDownload.label "Poruke veće od">
 <!ENTITY offlineNotDownload.accesskey "P">
 <!ENTITY autosyncNotDownload.label "Ne preuzimaj poruke veće od">
@@ -37,13 +39,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "p">
 <!ENTITY syncGroupTitle.label "Sinhronizacija poruke">
 <!ENTITY diskspaceGroupTitle.label "Prostor na disku">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Sinhronizuj lokalno sve poruke bez obzira na starost">
 <!ENTITY allAutosync.accesskey           "i">
 <!ENTITY ageAutosyncBefore.label         "Sinhronizuj najnovije">
