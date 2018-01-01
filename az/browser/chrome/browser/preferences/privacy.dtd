@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Məxfi Pəncərələrdə İzlənmə Qoruması istifadə et">
 <!ENTITY trackingProtectionPBM5.accesskey     "P">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Bilinən izləyiciləri bloklamaq üçün Məxfi Səyahətdə İzlənmə Qorumasını işlədin">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ətraflı öyrən">
@@ -70,7 +71,7 @@
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; səyyahı">
 <!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Tarixçəni xatırlayacaq">
-<!ENTITY  historyHeader.dontremember.label "Tarixçəni heç vaxt xatırlamayacaq">
+<!ENTITY  historyHeader.dontremember.label "Tarixçəni heç vaxt xatırlama">
 <!ENTITY  historyHeader.custom.label       "Tarixçə üçün fərdi tənzimləmələri işlət">
 <!ENTITY  historyHeader.post.label         "">
 

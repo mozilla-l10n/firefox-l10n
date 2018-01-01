@@ -7,6 +7,12 @@
 <!ENTITY searchBar.hidden.label                "Ünvan sətrini axtarış və naviqasiya üçün işlədin">
 <!ENTITY searchBar.shown.label                 "Axtarış sətrini alət sətrinə əlavə et">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+
 <!ENTITY defaultSearchEngine.label             "Əsas axtarış mühərriyi">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Ünvan və axtarış sətrində işlətmək üçün əsas axtarış mühərriyini seçin.">
@@ -16,7 +22,7 @@
 
 <!ENTITY showURLBarSuggestions2.label           "Ünvan sətri nəticələrində axtarış təkliflərini göstər">
 <!ENTITY showURLBarSuggestions2.accesskey       "l">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "&brandShortName; səyyahını keçmişi xatırlamayacaq şəkildə nizamladığınız üçün ünvan sətri nəticələrində axtarış təklifləri göstərilməyəcək.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "&brandShortName; səyyahını tarixçəni xatırlamayacaq şəkildə nizamladığınız üçün ünvan sətri nəticələrində axtarış təklifləri göstərilməyəcək.">
 
 <!ENTITY oneClickSearchEngines.label           "Tək klikli axtarış mühərrikləri">
 
