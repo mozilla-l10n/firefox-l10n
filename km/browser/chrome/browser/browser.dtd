@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "ផ្ទុក​ផ្ទាំង​ទាំងអស់​ឡើងវិញ">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "ស្ទួន​ផ្ទាំង">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -46,6 +50,8 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ផ្ញើ​តំណ​ទៅ​ឧបករណ៍">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendToDeviceFeedback.label         "បាន​ផ្ញើ!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "នៅ​ក្នុង​ជួរ (គ្មាន​អ៊ីនធឺណិត)">
 <!ENTITY  moveToNewWindow.label              "ផ្លាស់ទី​ទៅកាន់​បង្អួច​ថ្មី">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "ចំណាំ​ផ្ទាំង​​ទាំងអស់…">
@@ -95,6 +101,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "ប្រភព​ទំព័រ">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "ព័ត៌មាន​ទំព័រ">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -161,23 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ចំណាំ​ទំព័រ​នេះ">
 <!ENTITY editThisBookmarkCmd.label "កែ​សម្រួល​ចំណាំ​នេះ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "ស្វែងរក​សេវាកម្ម​ចែករំលែក​ច្រើន​ទៀត…">
-<!ENTITY sharePageCmd.label "ចែករំលែកទំព័រ​នេះ">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "ចែករំលែក​​តំណ​​នេះ">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "ចែករំលែក​រូបភាព​នេះ">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "ចែករំលែក​​ជម្រើស">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "ចែករំលែក​វីដេអូ​នេះ">
-<!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu2.label "ជាវ​ទំព័រ​នេះ">
+
 <!ENTITY subscribeToPageMenupopup.label "ជាវ​ទំព័រ​នេះ">
 <!ENTITY subscribeToPageMenuitem.label "ជាវ​ទំព័រ​នេះ…">
 <!ENTITY addCurPagesCmd.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
@@ -192,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ថយក្រោយ">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "ថយក្រោយ​មួយ​ទំព័រ">
 <!ENTITY forwardCmd.label             "ទៅមុខ">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ទៅមុខ​មួយ​ទំព័រ">
 <!ENTITY backForwardButtonMenu.tooltip "ចុច​កណ្ដុរ​ស្ដាំ ឬ​ចុច​ទម្លាក់​ចុះ ដើម្បី​បង្ហាញ​ប្រវត្តិ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ទម្លាក់​ចុះ ដើម្បី​បង្ហាញ​ប្រវត្តិ">
 <!ENTITY reloadCmd.label              "ផ្ទុក​ឡើងវិញ">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "បញ្ឈប់">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង">
 <!ENTITY printButton.label            "បោះពុម្ព">
@@ -209,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "បើក​ផ្ទាំង​សារ">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "បើក​ផ្ទាំង​ស្នើ​ទីតាំង">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "បើក​ផ្ទាំង​សារ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "គ្រប់គ្រង​ការអនុញ្ញាត​ដកចេញ​កម្មវិធី​កែរូបភាព">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "បើក​ផ្ទាំង​សារ​ទំហំ​ផ្ទុក​គ្មាន​អ៊ីនធឺណិត">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "បើក​ផ្ទាំង​សារ​រក្សាទុក​ពាក្យ​សម្ងាត់">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "គ្រប់គ្រង​ការ​ប្រើប្រាស់​ផ្នែក​បន្ថែម">
@@ -233,6 +235,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "អ្នក​បាន​បិទ​ការ​ជូនដំណឹង​សម្រាប់​វិបសាយ​នេះ។">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "អ្នក​បាន​ទប់ស្កាត់​ការ​ផ្ទុក​រហូត​សម្រាប់​វេបសាយ​នេះ។">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "អ្នក​បាន​ទប់ស្កាត់​ផ្ទាំង​លេចឡើង​សម្រាប់​គេហទំព័រ​នេះ។">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "អ្នក​បាន​ទប់ស្កាត់​ការដកទិន្នន័យ​កម្មវិធីកែ​រូបភាព​សម្រាប់​គេហទំព័រ​នេះ។">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "បង្ហាញ​ប្រវត្តិ">
 
 <!ENTITY searchItem.title             "ស្វែងរក">
@@ -243,14 +249,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "ចំណាំ">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "ចំណាំ">
-<!ENTITY bookmarksMenuButton.other.label "ចំណាំ​ផ្សេងៗ">
-<!ENTITY bookmarksMenuButton.mobile.label "ចំណាំ​ចល័ត">
+<!ENTITY bookmarksSubview.label             "ចំណាំ">
+<!ENTITY bookmarksMenuButton2.label         "ម៉ឺនុយ​ចំណាំ">
+<!ENTITY bookmarksMenuButton.other.label    "ចំណាំ​ផ្សេងៗ">
+<!ENTITY bookmarksMenuButton.mobile.label   "ចំណាំ​ចល័ត">
 <!ENTITY viewBookmarksSidebar2.label        "មើល​របារ​ឧបករណ៍​ចំណាំ">
+<!ENTITY hideBookmarksSidebar.label         "លាក់​របារ​ឧបករណ៍​ចំណាំ">
 <!ENTITY viewBookmarksToolbar.label         "មើល​របារ​ឧបករណ៍​ចំណាំ">
+<!ENTITY hideBookmarksToolbar.label         "លាក់របារឧបករណ៍ចំណាំ">
 <!ENTITY searchBookmarks.label              "ស្វែងរក​ចំណាំ">
-
-<!ENTITY containersMenu.label "ឧបករណ៍​ផ្ទុក">
+<!ENTITY bookmarkingTools.label             "​ឧបករណ៍​ចំណាំ">
+<!ENTITY addBookmarksMenu.label             "បញ្ចូល​ម៉ឺនុយចំណាំទៅកាន់របារឧបករណ៍">
+<!ENTITY removeBookmarksMenu.label          "ដក​ម៉ឺនុយចំណាំចេញពីរបារឧបករណ៍">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -268,6 +278,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ទាញ​យក">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "ទាញ​យក">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -332,6 +345,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "ប្ដូរ​តាម​តម្រូវ​ការ…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "ប្តូរ​របារ​ឧបករណ៍​តាម​បំណង...">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "ប្រវត្តិ">
 <!ENTITY historyMenu.accesskey "s">
@@ -347,11 +362,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "ប្ដូរ​របារ​ឧបករណ៍ និង​ម៉ឺនុយ​តាម​តម្រូវ​ការ">
 <!ENTITY appMenuCustomizeExit.label "បិទ​ការ​ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY appMenuCustomizeExit.tooltip "បញ្ចប់​ការ​ប្ដូរ​តាម​តម្រូវ​ការ">
-<!ENTITY appMenuHistory.label "ប្រវត្តិ">
+
 <!ENTITY appMenuHistory.showAll.label "បង្ហាញ​ប្រវត្តិ​ទាំងអស់">
 <!ENTITY appMenuHistory.clearRecent.label "សម្អាត​ប្រវត្តិ​ថ្មីៗ…">
 <!ENTITY appMenuHistory.restoreSession.label "ស្ដារ​សម័យ​មុន">
 <!ENTITY appMenuHistory.viewSidebar.label "មើល​របារ​ចំហៀង​ប្រវត្តិ">
+<!ENTITY appMenuHistory.recentHistory.label "ប្រវត្តិ​ថ្មីៗ">
 <!ENTITY appMenuHelp.label "ជំនួយ">
 <!ENTITY appMenuHelp.tooltip "បើក​ម៉ឺនុយ​ជំនួយ">
 
@@ -377,9 +393,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ចង់​មើល​ផ្ទាំង​របស់​អ្នក​ពី​ឧបករណ៍​ផ្សេង​នៅ​ទីនេះ​មែន​ទេ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "សមកាលកម្ម​ចំណូលចិត្ត">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ចូល​ដើម្បី​មើល​បញ្ជី​នៃ​ផ្ទាំង​ទាំង​ឡាយ​ពី​ឧបករណ៍​ផ្សេង​ទៀត​របស់​អ្នក។​">
+<!ENTITY appMenuRemoteTabs.unverified.label "គណនី​របស់​អ្នក​ត្រូវធ្វើការ​​ផ្ទៀងផ្ទាត់។">
 <!ENTITY appMenuRemoteTabs.signin.label "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម">
 <!ENTITY appMenuRemoteTabs.managedevices.label "គ្រប់គ្រង​ឧបករណ៍…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "មើល​របា​ចំហៀង​នៃផ្ទាំងដែលបានធ្វើ​សមកាលកម្ម​">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "ភ្ជាប់​ឧបករណ៍​ផ្សេង">
+
+<!ENTITY appMenuRecentHighlights.label "ការរំលេច​ថ្មីៗ">
 
 <!ENTITY customizeMenu.addToToolbar.label "បន្ថែម​ទៅ​របារ​ឧបករណ៍">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -473,6 +494,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "ស្វែងរក">
+<!ENTITY searchIcon.tooltip           "ស្វែងរក">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -552,11 +575,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "កំណត់​ជា​ផ្ទៃ​ខាងក្រោយ​របស់​​ផ្ទៃតុ...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ចំណាំ​ទំព័រ​នេះ">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "ចំណាំ​តំណ​នេះ">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ចំណាំ​ស៊ុម​នេះ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "ចម្លង URL">
+<!ENTITY pageAction.copyLink.label    "ចម្លង​តំណ">
+<!ENTITY copyURLFeedback.label        "បាន​ចម្លង!">
 <!ENTITY emailPageCmd.label           "តំណ​អ៊ីមែល…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "រក្សា​ទុក​ទំព័រជា...">
@@ -580,8 +605,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "អ៊ីមែល​វីដេអូ...">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "ផ្ញើ​វីដេអូ​ទៅឧបករណ៍">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "អ៊ីមែលអូឌីយ៉ូ...">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​នេះ​សកម្ម">
@@ -739,6 +762,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "ធ្វើ​រួច">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "សុវត្ថិភាព​ទំព័រ">
+
 <!ENTITY identity.connectionSecure "ការ​តភ្ជាប់​ដែលមាន​សុវត្ថិភាព">
 <!ENTITY identity.connectionNotSecure "ការតភ្ជាប់​ពុំ​មាន​សុវត្ថិភាព">
 <!ENTITY identity.connectionFile "ទំព័រ​នេះ​ត្រូវ​បាន​រក្សាទុក​នៅ​ក្នុង​កុំព្យូទ័រ​របស់​អ្នក។">
@@ -792,11 +819,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "មិន​មាន​ផ្ទាំង​បាន​ធ្វើ​សមកាលកម្ម… នៅ​ឡើយ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "តើ​អ្នក​ចង់​មើល​ផ្ទាំង​ពី​ឧបករណ៍​ផ្សេង​ទៀត​នៅ​ទីនេះ​ទេ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ចូល​ដើម្បី​មើល​បញ្ជី​នៃ​ផ្ទាំង​ទាំង​ឡាយ​ពី​ឧបករណ៍​ផ្សេង​ទៀត​របស់​អ្នក។​">
+<!ENTITY syncedTabs.sidebar.unverified.label   "គណនី​របស់​អ្នក​ត្រូវ​ធ្វើ​ការផ្ទៀងផ្ទាត់។">
 <!ENTITY syncedTabs.sidebar.notabs.label       "គ្មានផ្ទាំងបើកទេ">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "បើក​ចំណូលចិត្ត &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "បើកការធ្វើសមកាលកម្មផ្ទាំងដើម្បីមើលបញ្ជីនៃផ្ទាំងទាំងឡាយពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក។">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "ផ្ទាំង​បាន​ធ្វើ​សមកាលកម្ម​ការស្វែងរក​">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "ភ្ជាប់​ឧបករណ៍​ផ្សេង">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -831,15 +862,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ធ្វើ​សមកាលកម្ម">
 
-<!ENTITY social.addons.label "គ្រប់គ្រង​សេវាកម្ម...">
-
-<!ENTITY social.directory.label "ថត​ការ​ធ្វើ​ឲ្យ​សកម្ម​នានា">
-<!ENTITY social.directory.text "អ្នក​អាច​ធ្វើ​ឲ្យ​សេវា​កម្ម​ចែករំលែក​សកម្ម​ពី​ថត។">
-<!ENTITY social.directory.button "នាំ​ខ្ញុំ​ទៅ​ទីនោះ!">
-<!ENTITY social.directory.introText "ចុច​លើ​សេវាកម្ម​ណាមួយ​ដើម្បី​បន្ថែម​វា​ទៅកាន់ &brandShortName; ។">
-<!ENTITY social.directory.viewmore.text "មើល​​ច្រើនទៀត">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "ឧបករណ៍និងលក្ខណៈពិសេសបន្ថែម">
 <!ENTITY customizeMode.menuAndToolbars.empty "ចង់​បាន​ឧបករណ៍​បន្ថែម​ឬ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ជ្រើស​ពី​កម្មវិធី​បន្ថែម​រាប់​ពាន់">
 <!ENTITY customizeMode.restoreDefaults "ស្ដារ​លំនាំ​ដើម">
@@ -875,6 +897,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ប្រើ​ការ​ប៉ះ​សម្រាប់​របៀប​ថេប្លេត">
 
+
 <!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក៖">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក៖">
@@ -899,16 +922,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "បើក​ការការពារ">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "ការ​តាមដាន">
-<!ENTITY trackingContentBlocked.moreinfo "ផ្នែក​ទំព័រ​ដែល​តាមដាន​សកម្មភាព​លើ​បណ្ដាញ​របស់​អ្នក​ត្រូវ​បាន​ទប់ស្កាត់។">
-<!ENTITY trackingContentBlocked.learnMore "ស្វែងយល់​បន្ថែម">
-<!ENTITY trackingContentBlocked.options "ជម្រើស">
-<!ENTITY trackingContentBlocked.unblock2.label "បិទ​ការ​ការពារ​សម្រាប់​តំបន់​បណ្ដាញ​នេះ">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "បើក​ការការពារ">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "ការ​ការ​ពារ​ការ​តាមដានត្រូវបានបិទ">
-
 <!ENTITY pluginNotification.showAll.label "បង្ហាញ​ទាំងអស់">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -925,8 +938,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "បិទ">
-
-<!ENTITY appMenuSidebars.label         "របារ​ចំហៀង">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
@@ -974,7 +985,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "ទាញ​យក​ច្បាប់​ចម្លង &brandShorterName; ថ្មី">
 
-<!ENTITY updateRestart.message "បន្ទាប់ពី​ចាប់ផ្ដើម​ឡើងវិញ &brandShorterName; នឹង​ស្ដារ​ផ្ទាំង​កម្មវិធី​ទាំងអស់​របស់​អ្នក​ដូច​ដើម​វិញ។">
 <!ENTITY updateRestart.header.message2 "ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព &brandShorterName;។">
 <!ENTITY updateRestart.acceptButton.label "ចាប់ផ្ដើម និង​ស្ដារ">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -982,6 +992,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព &brandShorterName;">
 
+
 <!ENTITY pageActionButton.tooltip "ទំព័រ​សកម្មភាព">
 
+
 <!ENTITY sendToDevice.syncNotReady.label "កំពុង​ធ្វើ​សមកាលកម្ម​ឧបករណ៍…">
+
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
