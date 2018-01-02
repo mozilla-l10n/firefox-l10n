@@ -58,7 +58,7 @@
 <!ENTITY  permHide              "Ezkutatu">
 <!ENTITY  permBlock             "Blokeatu">
 <!ENTITY  permissionsFor        "Honen baimenak:">
-<!ENTITY  permPlugins           "Plugin aktibatuak">
+<!ENTITY  permPlugins           "Pluginak aktibatzea">
 
 <!ENTITY  permClearStorage           "Garbitu biltegiratzea">
 <!ENTITY  permClearStorage.accesskey "G">
