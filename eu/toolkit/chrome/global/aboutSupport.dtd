@@ -160,3 +160,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlLocalesDefault "Hizkuntza lehenetsia">
 <!ENTITY aboutSupport.intlOSTitle "Sistema eragilea">
 <!ENTITY aboutSupport.intlOSPrefsSystemLocales "Sistemaren hizkuntzak">
+<!ENTITY aboutSupport.intlRegionalPrefs "Eskualdeko hobespenak">
