@@ -12,6 +12,11 @@
 
 <!-- Field labels for input type=time -->
 
+<!ENTITY time.hour.label "Orduak">
+<!ENTITY time.minute.label "Minutuak">
+<!ENTITY time.second.label "Segundoak">
+<!ENTITY time.millisecond.label "Milisegundoak">
+<!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
 
@@ -21,6 +26,9 @@
 
 <!-- Field labels for input type=date -->
 
+<!ENTITY date.year.label "Urtea">
+<!ENTITY date.month.label "Hilabetea">
+<!ENTITY date.day.label "Eguna">
 
 <!-- Date/time clear button -->
 
