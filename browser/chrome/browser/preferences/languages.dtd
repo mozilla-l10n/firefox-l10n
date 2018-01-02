@@ -16,3 +16,4 @@
 <!ENTITY languages.customize.addButton.label            "Hozzáadás">
 <!ENTITY languages.customize.addButton.accesskey        "H">
 
+<!ENTITY languages.customize.spoofEnglish               "A honlapok angol változatának kérése a jobb adatvédelem érdekében">
