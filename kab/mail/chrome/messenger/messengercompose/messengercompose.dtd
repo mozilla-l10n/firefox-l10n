@@ -108,9 +108,14 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY moveAttachmentTopPanelBtn.label "Senkez s afella">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "T">
 <!ENTITY moveAttachmentUpPanelBtn.label "Ali">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "U">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentDownPanelBtn.label "Ader">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "D">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Senkez s adda">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "B">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
@@ -122,12 +127,6 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
-<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
-     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
-     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
-     taken from the word "Sort", not from "Selection" or the sort direction part. -->
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
@@ -312,6 +311,7 @@
 <!ENTITY removeAttachment.accesskey "d">
 <!ENTITY renameAttachment.label "Snifel isem…">
 <!ENTITY renameAttachment.accesskey "n">
+<!ENTITY reorderAttachments.label "Smizwer imeddayen…">
 <!ENTITY selectAll.label "Fren Imaṛṛa">
 <!ENTITY selectAll.accesskey "I">
 <!ENTITY attachFile.label "Seddu afaylu (i-a)…">

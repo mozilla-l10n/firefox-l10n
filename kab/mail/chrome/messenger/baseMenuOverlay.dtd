@@ -29,3 +29,4 @@
 <!ENTITY aboutMenuCmd.accesskey "f">
 
 <!ENTITY aboutMenuCmd2.label "Γef &brandFullName;">
+<!ENTITY aboutMenuCmd2.accesskey "A">
