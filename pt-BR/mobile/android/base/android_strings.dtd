@@ -665,7 +665,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "Proteção contra rastreamento">
 <!ENTITY doorhanger_tracking_state_enabled "Habilitado">
 <!ENTITY doorhanger_tracking_state_disabled "Desabilitado">
-<!ENTITY doorhanger_tracking_message_enabled1 "Tentativas de rastrear seu comportamento online foram bloqueadas.">
+<!ENTITY doorhanger_tracking_message_enabled1 "As tentativas de rastrear o seu comportamento on-line foram bloqueadas.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta página contem elementos que podem rastrear sua navegação.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
