@@ -7,10 +7,12 @@
 <!ENTITY engine.bookmarks.label     "نشانک‌ها">
 <!ENTITY engine.bookmarks.accesskey "ن">
 <!ENTITY engine.tabs.label2         "باز کردن زبانه‌ها">
+<!ENTITY engine.tabs.title          "فهرستی از تمام دستگاه‌های همگام سازی شده باز">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "تاریخچه">
 <!ENTITY engine.history.accesskey   "ت">
 <!ENTITY engine.logins.label        "ورودها">
+<!ENTITY engine.logins.title        "نام کاربری و کلمه عبوری که شما ذخیره کرده‌اید">
 <!ENTITY engine.logins.accesskey    "و">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -20,11 +22,15 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "ترجیحات">
 <!ENTITY engine.prefs.accesskey     "ت">
+<!ENTITY engine.prefs.title         "عمومی،‌ حریم شخصی، و تنظیمات امنیتی که شما تغییر داده اید">
 <!ENTITY engine.addons.label        "افزودنی‌ها">
+<!ENTITY engine.addons.title        "افزونه‌ها و زمینه‌ها برای فایرفاکس رومیزی">
 <!ENTITY engine.addons.accesskey    "ا">
 <!ENTITY engine.addresses.label     "آدرس‌ها">
+<!ENTITY engine.addresses.title     "آدرس پستی که شما ذخیره کرده‌ اید(تنها رومیزی)">
 <!ENTITY engine.addresses.accesskey "آ">
 <!ENTITY engine.creditcards.label   "کارت اعتباری">
+<!ENTITY engine.creditcards.title   "نام، اعداد و تاریخ انتقضا‌( رو میزی تنها)">
 <!ENTITY engine.creditcards.accesskey "ک">
 
 <!-- Device Settings -->
