@@ -107,6 +107,7 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Smizwer imeddayen">
 <!ENTITY moveAttachmentTopPanelBtn.label "Senkez s afella">
 <!ENTITY moveAttachmentTopPanelBtn.accesskey "T">
 <!ENTITY moveAttachmentUpPanelBtn.label "Ali">
