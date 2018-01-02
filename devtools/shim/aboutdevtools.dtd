@@ -21,28 +21,42 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Elementuak ikuskatzekoa erabili ahal izateko, gaitu Firefoxen garatzaile-tresnak">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Aztertu eta editatu HTML eta CSS kodea garatzaile-tresnen ikuskatzailearekin.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Garatu eta araztu WebExtensions gehigarriak, web langileak, zerbitzu-langileak eta gehiago Firefoxen garatzaile-tresnak erabilita.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Garatzaile-tresnen lasterbidea aktibatu duzu. Nahi gabe izan bada, fitxa hau itxi dezakezu.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Aztertu, editatu eta araztu HTML, CSS eta JavaScript kodea ikuskatzailearen eta araztailearen laguntzaz.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Hobetu zure webgunearen HTML, CSS eta JavaScript kodea ikuskatzailearen eta araztailearen laguntzaz.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Zure nabigatzailearen gaineko kontrol gehiago emateko, Firefoxen garatzaile-tresnak desgaituta daude lehenespenez.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Garatzaile-tresnei buruzko argibide gehiago">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Gaitu garatzaile-tresnak">
 <!ENTITY  aboutDevtools.enable.closeButton "Itxi orri hau">
@@ -57,11 +71,13 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Jaso garatzaileen berriak, trikimailuak eta baliabideak zuzenean zure sarrera-ontzian.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Helbide elektronikoa">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Ados nago Mozillak nire informazioa erabiltzea <a class='external' href='https://www.mozilla.org/privacy/'>pribatutasun-politika</a>n adierazten den moduan.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Harpidetu">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Eskerrik asko!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Ez baduzu inoiz berretsi Mozillarekin lotutako buletin baterako harpidetzarik, orain egin beharko duzu. Begiratu zure sarrera-ontzian edo zabor-postan gure mezua aurkitzeko.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Garatzaile-tresnak baino zerbait gehiagoren bila? Begiratu preseski garatzaile eta lan-fluxu modernoentzat eraikitako Firefox nabigatzailea.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
