@@ -759,13 +759,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+<!ENTITY devtools_auth_scan_header "Pag-scan para sa QR code na ipinapakita sa iyong iba pang device">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Add-ons">
+<!ENTITY restrictable_feature_addons_installation_description "Magdagdag ng mga tampok o pag-andar sa Firefox. Tandaan: Ang mga Add-on ay maaaring hindi paganahin ang ilang mga paghihigpit.">
+<!ENTITY restrictable_feature_private_browsing "Pribadong Pag-browse">
+<!ENTITY restrictable_feature_private_browsing_description "Pinapayagan ang mga miyembro ng pamilya na mag-browse nang hindi nagse-save ng impormasyon tungkol sa mga site at mga pahinang binisita nila.">
 <!ENTITY restrictable_feature_clear_history "I-clear ang Kasaysayan">
 <!ENTITY restrictable_feature_clear_history_description "Pinapayagan ang mga miyembro ng pamilya na tanggalin ang impormasyon tungkol sa mga site at mga pahinang binisita nila.">
+<!ENTITY restrictable_feature_advanced_settings "Mga Advanced na Setting">
+<!ENTITY restrictable_feature_advanced_settings_description "Kabilang dito ang pag-import ng mga bookmark, pagpapanumbalik ng mga tab at mga awtomatikong update. I-off ang mga pinasimple na setting na angkop para sa sinumang miyembro ng pamilya.">
+<!ENTITY restrictable_feature_camera_microphone "Camera &amp; Mikropono">
 <!ENTITY restrictable_feature_camera_microphone_description "Pinapayagan ang mga miyembro ng pamilya na makipag-ugnayan sa real time sa mga website.">
 <!ENTITY restrictable_feature_block_list "Listahan ng mga nai-block">
 <!ENTITY restrictable_feature_block_list_description "Harangan ang mga website na kasama ang sensitibong nilalaman.">
@@ -774,9 +781,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: Tungkol sa iyong browser">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Ipasadya ang mga add-on">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Suporta">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Tulong at Suporta sa Firefox para sa mga pinaghihigpit na profile sa Android tablet">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Alamin ang Web: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
