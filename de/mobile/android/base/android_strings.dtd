@@ -485,6 +485,7 @@
 <!ENTITY contextmenu_open_new_tab "In neuem Tab öffnen">
 <!ENTITY contextmenu_open_private_tab "In privatem Tab öffnen">
 <!ENTITY contextmenu_remove "Löschen">
+<!ENTITY contextmenu_add_to_launcher "Zu Startbildschirm hinzufügen">
 <!ENTITY contextmenu_add_page_shortcut "Seitenverknüpfung hinzufügen">
 <!ENTITY contextmenu_set_as_homepage "Als Startseite verwenden">
 <!ENTITY contextmenu_share "Teilen">
@@ -539,7 +540,7 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Seite entfernt">
-<!ENTITY folder_removed "Ordner entfernt">
+<!ENTITY folder_removed "Ordner gelöscht">
 
 <!ENTITY bookmark_edit_title "Lesezeichen bearbeiten">
 <!ENTITY bookmark_edit_folder_title "Ordner bearbeiten">
@@ -817,6 +818,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ist aktuell">
 <!ENTITY whatsnew_notification_summary "Neue Funktionen und Änderungen">
 
+<!ENTITY promotion_add_to_homescreen "Zu Startbildschirm hinzufügen">
 <!ENTITY promotion_add_page_shortcut "Seitenverknüpfung hinzufügen">
 
 <!ENTITY helper_first_offline_bookmark_title "Offline lesen">
