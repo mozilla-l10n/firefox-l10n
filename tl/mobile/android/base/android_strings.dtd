@@ -709,7 +709,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Magpatuloy">
 <!ENTITY guest_session_dialog_cancel "Kanselahin">
 <!ENTITY guest_browsing_notification_title "Pinagana ang pagba-browse ng bisita">
+<!ENTITY guest_browsing_notification_text "Tapikin upang lumabas">
 
+<!ENTITY exit_guest_session_title "&brandShortName; ay muling simulan">
+<!ENTITY exit_guest_session_text "Matatanggal ang data ng pag-browse mula sa session na ito.">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -733,7 +736,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Huling naka-sync: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Huling nai-sync: hindi kailanman">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -746,6 +751,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Lumabas sa Pribadong Pag-browse?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
