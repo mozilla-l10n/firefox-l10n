@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Rydych wedi rhwystro tynnu data canvas o'r wefan hon.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
 
 <!ENTITY searchItem.title             "Chwilio">
