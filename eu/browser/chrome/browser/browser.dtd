@@ -189,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "z">
 
 <!ENTITY backCmd.label                "Atzera">
+<!ENTITY backCmd.accesskey            "z">
 <!ENTITY backButton.tooltip           "Joan orri bat atzera">
 <!ENTITY forwardCmd.label             "Aurrera">
+<!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Joan orri bat aurrera">
 <!ENTITY backForwardButtonMenu.tooltip "Egin eskuin-klika edo ekarri behera historia erakusteko">
 <!ENTITY backForwardButtonMenuMac.tooltip "Ekarri behera historia erakusteko">
 <!ENTITY reloadCmd.label              "Berritu">
+<!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY stopCmd.label                "Gelditu">
+<!ENTITY stopCmd.accesskey            "G">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Joan kokapen-barrako helbidera">
 <!ENTITY printButton.label            "Inprimatu">
@@ -571,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Jarri idazmahaiaren atzeko planoan…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "J">
 <!ENTITY bookmarkPageCmd2.label       "Egin orri honen laster-marka">
+<!ENTITY bookmarkPageCmd2.accesskey   "E">
 <!ENTITY bookmarkThisLinkCmd.label      "Egin lotura honen laster-marka">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">

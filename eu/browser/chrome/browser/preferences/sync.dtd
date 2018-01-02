@@ -7,10 +7,12 @@
 <!ENTITY engine.bookmarks.label     "Laster-markak">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Irekitako fitxak">
+<!ENTITY engine.tabs.title          "Sinkronizatutako gailu guztietan irekita dagoenaren zerrenda">
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historia">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.logins.label        "Saio-hasierak">
+<!ENTITY engine.logins.title        "Gorde dituzun erabiltzaile-izen eta pasahitzak">
 <!ENTITY engine.logins.accesskey    "S">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -20,11 +22,15 @@
 <!ENTITY engine.prefsWin.accesskey  "k">
 <!ENTITY engine.prefs.label         "Hobespenak">
 <!ENTITY engine.prefs.accesskey     "o">
+<!ENTITY engine.prefs.title         "Aldatu dituzun 'Orokorra', 'Pribatutasuna' eta 'Segurtasuna' ataletako ezarpenak">
 <!ENTITY engine.addons.label        "Gehigarriak">
+<!ENTITY engine.addons.title        "Mahaigaineko Firefoxerako hedapenak eta itxurak">
 <!ENTITY engine.addons.accesskey    "G">
 <!ENTITY engine.addresses.label     "Helbideak">
+<!ENTITY engine.addresses.title     "Gorde dituzun helbide postalak (mahaigainerako soilik)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kreditu-txartelak">
+<!ENTITY engine.creditcards.title   "Izenak, zenbakiak eta iraungitze-datak (mahaigainerako soilik)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
