@@ -526,8 +526,10 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Mag-browse ng naka-full-screen">
+<!ENTITY pref_scroll_title_bar_summary2 "Itago ang &brandShortName; toolbar kapag nag-scroll pababa ng isang pahina">
 
 <!ENTITY pref_tab_queue_title3 "Tab queue">
+<!ENTITY pref_tab_queue_summary4 "I-save ang mga link hanggang sa susunod na buksan mo ang &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
@@ -595,6 +597,7 @@
 <!ENTITY home_closed_tabs_number "&formatD; tabs">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 tab">
+<!ENTITY home_most_recent_empty "Ang mga website na iyong binisita pinaka-kamakailang lumabas dito.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
@@ -603,11 +606,13 @@
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "Bumalik sa &formatS;">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; nakatago ang mga device">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Nakatagong mga device">
@@ -703,6 +708,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session "Bagong Guest Session">
 <!ENTITY guest_session_dialog_continue "Magpatuloy">
 <!ENTITY guest_session_dialog_cancel "Kanselahin">
+<!ENTITY guest_browsing_notification_title "Pinagana ang pagba-browse ng bisita">
 
 
 <!-- Miscellaneous -->
