@@ -112,6 +112,7 @@
 <!ENTITY moveAttachmentTopPanelBtn.accesskey "T">
 <!ENTITY moveAttachmentUpPanelBtn.label "Ali">
 <!ENTITY moveAttachmentUpPanelBtn.accesskey "U">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Senkez akk">
 <!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentDownPanelBtn.label "Ader">
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "D">
