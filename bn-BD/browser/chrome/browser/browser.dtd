@@ -188,13 +188,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "পূর্ববর্তী">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "পূর্ববর্তী পাতায় ফিরে যান">
 <!ENTITY forwardCmd.label             "পরবর্তী">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "পরবর্তী পাতা এগিয়ে যান">
 <!ENTITY backForwardButtonMenu.tooltip "ইতিহাস প্রদর্শনের জন্য ডান বাটন ক্লিক করুন অথবা নীচে টেনে আনুন">
 <!ENTITY backForwardButtonMenuMac.tooltip "ইতিহাস দেখতে নীচে টেনে আনুন">
 <!ENTITY reloadCmd.label              "পুনরায় লোড">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "থামুন">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে">
 <!ENTITY printButton.label            "মুদ্রণ">
@@ -231,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "আপনি এই ওয়েব সাইটের জন্য পার্সিস্টেন্ট স্টোরেজ ব্লক করেছেন।">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "আপনি এই ওয়েবসাইটের জন্য পপ-আপ ব্লক করেছেন।">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখুন">
 
@@ -355,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "মেনু এবং টুলবার সাজান">
 <!ENTITY appMenuCustomizeExit.label "সাজানো থেকে প্রস্থান">
 <!ENTITY appMenuCustomizeExit.tooltip "সাজানো সম্পন্ন">
+
 <!ENTITY appMenuHistory.showAll.label "সব ইতিহাস প্রদর্শন">
 <!ENTITY appMenuHistory.clearRecent.label "সাম্প্রতিক ইতিহাস অপসারণ…">
 <!ENTITY appMenuHistory.restoreSession.label "পূর্ববর্তী সেশন পুনরুদ্ধার">
@@ -385,9 +391,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "আপনি কি আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে দেখতে চান?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "সিঙ্ক পছন্দসমূহ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে সাইন ইন করুন।">
+<!ENTITY appMenuRemoteTabs.unverified.label "আপনার অ্যাকাউন্ট যাচাই করা প্রয়োজন।">
 <!ENTITY appMenuRemoteTabs.signin.label "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ডিভাইস ব্যবস্থাপনা…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "সিঙ্ককৃত ট্যাবগুলো সাইডবারে দেখুন">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "অন্য ডিভাইস সংযুক্ত করুন">
 
 <!ENTITY appMenuRecentHighlights.label "বর্তমান হাইলাইট">
 
@@ -564,6 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "ডেস্কটপের পটভূমি হিসেবে নির্ধারণ…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "এই পাতা বুকমার্ক করুন">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "এই লিঙ্ক বুকমার্ক করুন">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "এই ফ্রেম বুকমার্ক করা হবে">
@@ -750,6 +760,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "সম্পন্ন">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "সাইট নিরাপত্তা">
+
 <!ENTITY identity.connectionSecure "নিরাপদ সংযোগ">
 <!ENTITY identity.connectionNotSecure "সংযোগ নিরাপদ নয়">
 <!ENTITY identity.connectionFile "এই পাতা আপনার কম্পিউটারে জমা হয়েছে।">
@@ -809,6 +823,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখতে, ট্যাব সিংক বৈশিষ্ট্যটি চালু করে দিন।">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "সিঙ্ক ট্যাবের খোঁজ করুন">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "অন্য ডিভাইস সংযুক্ত করুন">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +995,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; হালনাগাদ করতে রিস্টার্ট করুন">
 
+<!ENTITY newTabControlled.header.message "আপনার নতুন ট্যাব পরিবর্তিত হয়েছে।">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "পাতা পদক্ষেপ">
 <!ENTITY pageAction.addToUrlbar.label "ঠিকানা বারে যোগ করুন">
 <!ENTITY pageAction.removeFromUrlbar.label "ঠিকানা  বার থেকে অপসারণ করুন">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "ডিভাইসে ট্যাব পাঠান">
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইস সিঙ্ক হচ্ছে…">
