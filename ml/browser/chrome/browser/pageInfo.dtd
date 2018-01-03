@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "എല്ലായ്പ്പോഴും ചോദിക്കുക">
 <!ENTITY  permAllow             "അനുവദിക്കുക">
 <!ENTITY  permAllowSession      "ഈ സെഷനു് വേണ്ടി അനുവദിക്കുക">
+<!ENTITY  permHide              "മറയ്ക്കുക">
 <!ENTITY  permBlock             "തടയുക">
 <!ENTITY  permissionsFor        "ആനുകൂല്യങ്ങള്‍:">
 <!ENTITY  permPlugins           "പ്ലഗിനുകള്‍ സജീവമാക്കുക">
