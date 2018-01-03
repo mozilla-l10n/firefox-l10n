@@ -7,6 +7,8 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
+<!ENTITY restorepage.hideTabs       "మునుపటి ట్యాబులను దాచు">
+<!ENTITY restorepage.showTabs       "మునుపటి ట్యాబులను చూడండి">
 
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "కొత్త సెషన్ ప్రారంభించండి">
