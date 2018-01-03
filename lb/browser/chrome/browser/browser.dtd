@@ -44,12 +44,38 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Tab ewechspéngelen">
 <!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  sendTabToDevice.label              "Tab op en Apparat schécken">
+<!ENTITY  sendTabToDevice.accesskey          "n">
+<!ENTITY  sendPageToDevice.label             "Säit op en Apparat schécken">
+<!ENTITY  sendPageToDevice.accesskey         "n">
+<!ENTITY  sendLinkToDevice.label             "Link op en Apparat schécken">
+<!ENTITY  sendLinkToDevice.accesskey         "n">
+<!ENTITY  sendToDeviceFeedback.label         "Geschéckt!">
+<!ENTITY  moveToNewWindow.label              "An eng nei Fënster réckelen">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "Tab zoumaachen">
+<!ENTITY  closeTab.accesskey                 "c">
 
 
+<!ENTITY tabCmd.label "Neien Tab">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openFileCmd.label "Fichier Opmaachen…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Säitenastellungen…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Dréckvirschau">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Drécken…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
 
+<!ENTITY goOfflineCmd.label "Offline schaffen">
 
 
 
@@ -80,6 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+
 
 
 
