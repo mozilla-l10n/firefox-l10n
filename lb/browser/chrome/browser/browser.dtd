@@ -109,8 +109,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY fxaUnverified.label "Kuckt Äre Benotzerkont no">
 
 
+<!ENTITY fullScreenMinimize.tooltip "Minimiséieren">
+<!ENTITY fullScreenRestore.tooltip "Restauréieren">
+<!ENTITY fullScreenClose.tooltip "Zoumaachen">
+<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -128,14 +134,42 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
+<!ENTITY closeWindow.label "Fënster zoumaachen">
+<!ENTITY closeWindow.accesskey "d">
+
+<!ENTITY bookmarksMenu.label "Lieszeechen">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY editThisBookmarkCmd.label "Dëst Lieszeechen änneren">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+
+<!ENTITY subscribeToPageMenupopup.label "Sech op dës Säit abonnéieren">
+<!ENTITY subscribeToPageMenuitem.label "Sech op dës Säit abonnéieren…">
+<!ENTITY showAllBookmarks2.label "All Lieszeeche weisen">
+<!ENTITY otherBookmarksCmd.label "Aner Lieszeechen">
+<!ENTITY mobileBookmarksCmd.label "Mobil Lieszeechen">
+<!ENTITY bookmarksToolbarChevron.tooltip "Méi Lieszeeche weisen">
+
+<!ENTITY backCmd.label                "Zréck">
+<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backButton.tooltip           "Eng Säit zréckgoen">
+<!ENTITY forwardCmd.label             "Virun">
+<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardButton.tooltip        "Eng Säit no vir goen">
+<!ENTITY reloadCmd.label              "Nei lueden">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY stopCmd.label                "Stopp">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY printButton.label            "Drécken">
+<!ENTITY printButton.tooltip          "Dës Säit drécken">
 
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dës Säit iwwersetzen">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Säitiwwersetzung geréieren">
 
-
-
-
+<!ENTITY urlbar.cameraBlocked.tooltip            "Du hues Deng Kamera fir dësen Internetsite gespaart.">
 
 
 
