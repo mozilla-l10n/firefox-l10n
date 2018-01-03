@@ -8,6 +8,7 @@
 <!ENTITY allFoldersOffline.label "Manter mensagens desta conta no computador">
 <!ENTITY allFoldersOffline.accesskey "M">
 <!ENTITY allFoldersOffline2.label "Manter as mensagens em todas as pastas para esta conta neste computador.">
+<!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Nota: Alterar isto afeta todas as pastas nesta conta. Para definir pastas individuais, use o botão Avançadas…">
 <!ENTITY offlineNotDownload.label "Mensagens com mais de">
 <!ENTITY offlineNotDownload.accesskey "a">
