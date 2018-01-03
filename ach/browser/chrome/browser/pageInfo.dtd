@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Peny jwijwi">
 <!ENTITY  permAllow             "Ye">
 <!ENTITY  permAllowSession      "Ye pi kare">
+<!ENTITY  permHide              "Kan">
 <!ENTITY  permBlock             "Geng">
 <!ENTITY  permissionsFor        "Rukuca pi:">
 <!ENTITY  permPlugins           "Cak larwak">
