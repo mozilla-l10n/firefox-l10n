@@ -188,13 +188,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "k">
 
 <!ENTITY backCmd.label                "Cen">
+<!ENTITY backCmd.accesskey            "C">
 <!ENTITY backButton.tooltip           "Dok cen pot buk acel">
 <!ENTITY forwardCmd.label             "Anyim">
+<!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Cit anyim pot buk acel">
 <!ENTITY backForwardButtonMenu.tooltip "Dii tung lacuc nyo tel piny me nyuto gin mukato">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tel piny me nyuto gin mukato">
 <!ENTITY reloadCmd.label              "Nwo cano">
+<!ENTITY reloadCmd.accesskey          "N">
 <!ENTITY stopCmd.label                "Juk">
+<!ENTITY stopCmd.accesskey            "J">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Cit i kanonge ma i lanyut me gintic kabedo">
 <!ENTITY printButton.label            "Go">
@@ -226,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Igengo woko ngec me kabedo pi kakube man.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Igengo woko kano data pi kakube man.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Igengo woko jami angeya pi kakube man.">
+
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
@@ -382,10 +387,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "imito neno dirica matino ki nyonyo mukene?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ter me rib">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Myero ki mok ada pa akaunt mamegi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me ribo">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Lor nyonyo…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Nen gitic ma inget me dirica matino ma kiribo">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Kub Nyonyo Mukene">
 
 <!ENTITY appMenuRecentHighlights.label "Wiye madito ma cokki">
 
@@ -748,6 +755,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Ber bedo pa kakube">
 
 <!ENTITY identity.connectionSecure "Kube maber">
 <!ENTITY identity.connectionNotSecure "Kube pe tye ki ber bedo">
@@ -802,6 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Dirica matino ma kiribo pud pe tye!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Imito neno dirica matino ni ki i nyonyo mukene kany?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Myero ki mok ada pa akaunt mamegi.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Dirica matino pe ayaba">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Yab ter me &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -809,6 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Yeny dirica matino ma ki ribo">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Kub Nyonyo Mukene">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -968,12 +978,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label2 "Nwo cako me keto ngec manyen i &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Lamed mo oloko potbuk ma ineno ka iyabo Dirica Matidi Manyen. Itwero dwoko ter mamegi kace pe imito alokaloka man.">
 <!ENTITY newTabControlled.header.message "Dirica matidi ni manyen olokke.">
+<!ENTITY newTabControlled.keepButton.label "Gwok alokaloka">
+<!ENTITY newTabControlled.restoreButton.label "Dwok ter">
+<!ENTITY newTabControlled.restoreButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
 <!ENTITY pageAction.addToUrlbar.label "Medi i Lanyut me kanonge">
 <!ENTITY pageAction.removeFromUrlbar.label "Kwany ki i lanyut me kanonge">
 
+<!ENTITY pageAction.allowInUrlbar.label "Nyut ii lanyut me kanonge">
+<!ENTITY pageAction.disallowInUrlbar.label "Pe i Nyuti ii lanyut me kanonge">
+<!ENTITY pageAction.manageExtension.label "Lo Lamed…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Cwal dirica matidi i nyonyo">
 <!ENTITY sendToDevice.syncNotReady.label "Ribo nyonyo…">
