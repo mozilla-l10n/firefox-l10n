@@ -151,3 +151,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "চ্যানেল">
 <!ENTITY aboutSupport.mediaDeviceRate "মূল্যায়ন করুন">
 <!ENTITY aboutSupport.mediaDeviceLatency "যোজনী">
+
+<!ENTITY aboutSupport.intlLocalesRequested "অনুরোধকৃত লোকেলগুলি">
+<!ENTITY aboutSupport.intlLocalesAvailable "উপলব্ধ লোকেলগুলি">
+<!ENTITY aboutSupport.intlLocalesSupported "অ্যাপ লোকেলস">
+<!ENTITY aboutSupport.intlLocalesDefault "ডিফল্ট লোকেল">
+<!ENTITY aboutSupport.intlOSTitle "অপারেটিং সিস্টেম">
+<!ENTITY aboutSupport.intlRegionalPrefs "আঞ্চলিক পছন্দসমূহ">
