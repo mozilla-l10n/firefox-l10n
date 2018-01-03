@@ -232,6 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
 
 <!ENTITY searchItem.title             "തെരയുക">
@@ -355,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "മെനുവും ടൂള്‍ബാറുകള്‍ യഥേഷ്ടമാക്കുക">
 <!ENTITY appMenuCustomizeExit.label "യഥേഷ്ടമാക്കുന്നതില്‍ നിന്നും പുറത്ത് കടക്കുക">
 <!ENTITY appMenuCustomizeExit.tooltip "യഥേഷ്ടമാക്കുന്നത് പൂര്‍ത്തിയാക്കുക">
+
 <!ENTITY appMenuHistory.showAll.label "ഇതുവരെയുള്ള നാള്‍വഴി കാണിക്കുക">
 <!ENTITY appMenuHistory.clearRecent.label "ഏറ്റവും പുതിയ നാള്‍വഴി വെടിപ്പാക്കുക…">
 <!ENTITY appMenuHistory.restoreSession.label "മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക">
@@ -385,9 +387,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "സിന്‍ക് മുന്‍ഗണനകള്‍">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണാന്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
+<!ENTITY appMenuRemoteTabs.unverified.label "നിങ്ങളുടെ അക്കൌണ്ട് സ്ഥിരീകരിക്കേണ്ടതുണ്ട്.">
 <!ENTITY appMenuRemoteTabs.signin.label "സിങ്കിലേയ്ക്ക് പ്രവേശിക്കുക">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ഡിവൈസുകള്‍ മാനേജ് ചെയ്യുക…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "സിന്‍ക് ചെയ്ത ടാബുകളുടെ സൈഡ്ബാര്‍ കാണിക്കുക">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "മറ്റൊരു ഉപകരണം കണക്റ്റുചെയ്യുക">
 
 <!ENTITY appMenuRecentHighlights.label "സമീപകാല ഹൈലൈറ്റുകൾ">
 
@@ -750,6 +755,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "ചെയ്തു">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ഈ">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "സൈറ്റ് സുരക്ഷ">
+
 <!ENTITY identity.connectionSecure "സുരക്ഷിത കണക്ഷന്‍">
 <!ENTITY identity.connectionNotSecure "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
 <!ENTITY identity.connectionFile "ഈ താള്‍ താങ്കളുടെ കമ്പ്യൂട്ടറില്‍ ശേഖരിച്ചിട്ടുണ്ട്.">
@@ -809,6 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "സമന്വയിപ്പിച്ച ടാബുകൾ തിരയുക">
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +989,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; അപ്ഡേറ്റ് ചെയ്യുവാനായി റീ സ്റ്റാർട്ട് ചെയ്യുക">
 
+<!ENTITY newTabControlled.keepButton.label "മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക">
+
 <!ENTITY pageActionButton.tooltip "പേജ് പ്രവർത്തനങ്ങൾ">
 <!ENTITY pageAction.addToUrlbar.label "അഡ്രസ് ബാറിലേക്ക് ചേർക്കുക">
 <!ENTITY pageAction.removeFromUrlbar.label "അഡ്രസ് ബാറിൽ നിന്ന് നീക്കം ചെയ്യുക">
+
+<!ENTITY pageAction.allowInUrlbar.label "അഡ്രസ് ബാറില്‍ കാണിക്കുക">
+<!ENTITY pageAction.disallowInUrlbar.label "അഡ്രസ് ബാറില്‍ കാണിക്കേണ്ടതില്ല">
 
 <!ENTITY pageAction.sendTabToDevice.label "ടാബ് മറ്റൊരുപകരണത്തിലേക്കയക്കുക">
 <!ENTITY sendToDevice.syncNotReady.label "ഉപകരണങ്ങള്‍ സിങ്ക് ചെയ്യുന്നു…">
