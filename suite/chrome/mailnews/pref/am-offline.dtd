@@ -6,8 +6,10 @@
 <!ENTITY doNotDownloadNntp.label "Pro ušetření místa na disku nestahovat pro použití v režimu offline:">
 <!ENTITY doNotDownloadImap.label "Pro ušetření místa na disku lze stahování zpráv ze serveru a uchovávání pro použití v režimu offline omezit velikostí či stářím.">
 <!ENTITY allFoldersOffline.label "V tomto účtu uchovávat místní kopie zpráv">
-<!ENTITY allFoldersOffline.accesskey "Z">
+<!ENTITY allFoldersOffline.accesskey "z">
 <!ENTITY allFoldersOffline2.label "Uchovávat místní kopie zpráv všech složek tohoto účtu">
+<!ENTITY allFoldersOffline2.accesskey "z">
+<!ENTITY allFoldersOfflineNote.label "Poznámka: Tato změna ovlivní všechny složky v tomto účtu. Pro nastavení jednotlivých složek použijte tlačítko Rozšířené...">
 <!ENTITY offlineNotDownload.label "Zprávy větší než">
 <!ENTITY offlineNotDownload.accesskey "n">
 <!ENTITY autosyncNotDownload.label "Nestahovat zprávy větší než">
