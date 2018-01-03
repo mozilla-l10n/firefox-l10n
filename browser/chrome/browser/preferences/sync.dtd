@@ -27,6 +27,7 @@
 <!ENTITY engine.addresses.label     "Vistföng">
 <!ENTITY engine.addresses.accesskey "V">
 <!ENTITY engine.creditcards.label   "Greiðslukort">
+<!ENTITY engine.creditcards.title   "Nöfn, númer og gildistími (aðeins á borðtölvu)">
 <!ENTITY engine.creditcards.accesskey "G">
 
 <!-- Device Settings -->
