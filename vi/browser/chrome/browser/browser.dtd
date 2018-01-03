@@ -182,6 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "Trang đánh dấu gần đây">
 <!ENTITY otherBookmarksCmd.label "Trang đánh dấu khác">
 <!ENTITY mobileBookmarksCmd.label "Trang đánh dấu trên điện thoại di động">
+<!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 <!ENTITY showRecentlyBookmarked.label     "Xem trang đánh dấu gần đây">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "Ẩn trang đánh dấu gần đây">
