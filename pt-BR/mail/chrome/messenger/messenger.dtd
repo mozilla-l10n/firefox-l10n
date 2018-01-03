@@ -529,7 +529,7 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Receber mensagens">
-<!ENTITY newMsgButton.label "Nova msg">
+<!ENTITY newMsgButton.label "Escrever">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Re: Todos">
 <!ENTITY replyListButton.label "Re: Lista">

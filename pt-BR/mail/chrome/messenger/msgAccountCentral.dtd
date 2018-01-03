@@ -4,7 +4,7 @@
 
 <!ENTITY emailSectionHdr.label        "Mensagens">
 <!ENTITY readMsgsLink.label           "Ler mensagens">
-<!ENTITY composeMsgLink.label         "Criar uma nova mensagem">
+<!ENTITY composeMsgLink.label         "Escrever uma nova mensagem">
 
 <!ENTITY newsSectionHdr.label         "Newsgroups">
 <!ENTITY subscribeNewsLink.label      "Gerenciar inscrições de newsgroups">
@@ -18,7 +18,6 @@
 <!ENTITY accountsSectionHdr.label     "Contas">
 <!ENTITY subscribeImapFolders.label   "Gerenciar inscrições de pastas">
 <!ENTITY settingsLink.label           "Ver configurações desta conta">
-<!ENTITY setupNewAcctLink.label       "Configurar uma conta">
 <!ENTITY setupNewAcct.label           "Configurar uma conta:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Recursos avançados">
