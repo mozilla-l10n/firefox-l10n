@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Edição: (assunto em branco)">
+<!ENTITY msgComposeWindow.title "Escrever: (sem assunto)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Arquivo">
@@ -134,22 +134,12 @@
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ordenar: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
-     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
-     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
-     taken from the word "Sort", not from "Selection" or the sort direction part. -->
-<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "O">
 <!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ordenar: Z - A">
-<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "O">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordenar seleção: A - Z">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "O">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordenar seleção: Z - A">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "O">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Exibir">

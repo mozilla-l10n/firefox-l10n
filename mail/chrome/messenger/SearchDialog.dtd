@@ -30,7 +30,7 @@
 <!ENTITY abSearchHeading.accesskey   "s">
 <!ENTITY propertiesButton.label      "Propriedades">
 <!ENTITY propertiesButton.accesskey  "r">
-<!ENTITY composeButton.label         "Nova mensagem">
+<!ENTITY composeButton.label         "Escrever">
 <!ENTITY composeButton.accesskey     "N">
 <!ENTITY deleteCardButton.label      "Excluir">
 <!ENTITY deleteCardButton.accesskey  "x">

@@ -15,7 +15,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "d">
 <!ENTITY  manualTypeRadio.label         "Configuração manual de proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "n">
-<!ENTITY  autoTypeRadio.label           "Endereço para configuração automática de proxy:">
+<!ENTITY  autoTypeRadio.label           "URL de configuração automática do proxy:">
 <!ENTITY  autoTypeRadio.accesskey       "E">
 <!ENTITY  reload.label                  "Recarregar">
 <!ENTITY  reload.accesskey              "c">
