@@ -152,6 +152,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Nilai">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latensi">
 
+<!ENTITY aboutSupport.intlAppTitle "Setelan Aplikasi">
 <!ENTITY aboutSupport.intlLocalesAvailable "Bahasa yang Tersedia">
 <!ENTITY aboutSupport.intlLocalesDefault "Bahasa Baku">
 <!ENTITY aboutSupport.intlOSTitle "Sistem Operasi">
