@@ -24,7 +24,7 @@
 <!ENTITY tabCrashed.requestReport "Relatar esta aba">
 <!ENTITY tabCrashed.sendReport3 "Enviar um relatório automatizado de travamento para que possamos corrigir problemas como este.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentários opcionais (comentários serão visíveis publicamente)">
-<!ENTITY tabCrashed.includeURL3 "Incluir as URLs dos sites em que você estava quando o &brandShortName; travou.">
+<!ENTITY tabCrashed.includeURL3 "Inclua os URLs dos sites em que você estava quando &brandShortName; travou.">
 <!ENTITY tabCrashed.emailPlaceholder "Entrar com seu endereço de e-mail aqui">
 <!ENTITY tabCrashed.emailMe "Enviar um e-mail quando mais informações estiverem disponíveis">
 <!ENTITY tabCrashed.reportSent "Relatório do travamento enviado; obrigado por ajudar a fazer o &brandShortName; melhor!">

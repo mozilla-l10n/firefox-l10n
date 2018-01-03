@@ -50,7 +50,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Abrir página de acesso a rede">
 
-<!ENTITY malformedURI.pageTitle "URL invalida">
+<!ENTITY malformedURI.pageTitle "URL inválido">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY malformedURI.title1 "Hmm. Este endereço não parece correto.">
 
