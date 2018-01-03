@@ -20,9 +20,9 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Muat Ulang Tab">
-<!ENTITY  reloadTab.accesskey                "l">
+<!ENTITY  reloadTab.accesskey                "M">
 <!ENTITY  reloadAllTabs.label                "Muat Ulang Semua Tab">
-<!ENTITY  reloadAllTabs.accesskey            "M">
+<!ENTITY  reloadAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Gandakan Tab">
@@ -192,11 +192,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backCmd.accesskey            "K">
 <!ENTITY backButton.tooltip           "Mundur satu laman">
 <!ENTITY forwardCmd.label             "Maju">
+<!ENTITY forwardCmd.accesskey         "M">
 <!ENTITY forwardButton.tooltip        "Maju satu laman">
 <!ENTITY backForwardButtonMenu.tooltip "Klik kanan atau tekan agak lama untuk menampilkan riwayat">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tekan agak lama untuk menampilkan riwayat">
-<!ENTITY reloadCmd.label              "Muat ulang">
-<!ENTITY stopCmd.label                "Berhenti">
+<!ENTITY reloadCmd.label              "Muat Ulang">
+<!ENTITY reloadCmd.accesskey          "U">
+<!ENTITY stopCmd.label                "Stop">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Pindah ke alamat di Bilah Lokasi">
 <!ENTITY printButton.label            "Cetak">
@@ -234,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Anda telah memblokir pop-up untuk situs web ini.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Anda telah memblokir ekstraksi data kanvas untuk situs web ini.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
 
@@ -997,6 +1001,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.message "Sebuah ekstensi telah mengubah laman yang Anda lihat ketika membuka Tab Baru. Anda dapat memulihkan setelan Anda jika tidak menginginkan perubahan ini.">
 <!ENTITY newTabControlled.header.message "Tab Baru Anda telah berubah.">
 <!ENTITY newTabControlled.restoreButton.label "Pulihkan Setelan">
+<!ENTITY newTabControlled.restoreButton.accesskey "P">
 
 <!ENTITY pageActionButton.tooltip "Tindakan laman">
 <!ENTITY pageAction.addToUrlbar.label "Tambahkan ke Bilah Alamat">

@@ -19,6 +19,7 @@
 -->
 <!ENTITY engine.prefs.label         "Pengaturan">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.prefs.title         "Setelan Umum, Privasi, dan Keamanan yang Anda ubah">
 <!ENTITY engine.addons.label        "Pengaya">
 <!ENTITY engine.addons.title        "Ekstensi dan tema untuk Firefox desktop">
 <!ENTITY engine.addons.accesskey    "y">
