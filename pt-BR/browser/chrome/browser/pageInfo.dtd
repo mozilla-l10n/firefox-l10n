@@ -20,7 +20,7 @@
 <!ENTITY  generalType           "Tipo:">
 <!ENTITY  generalMode           "Modo de renderização:">
 <!ENTITY  generalSize           "Tamanho:">
-<!ENTITY  generalReferrer       "Página de origem:">
+<!ENTITY  generalReferrer       "URL referente:">
 <!ENTITY  generalSource         "Fonte da cache:">
 <!ENTITY  generalModified       "Modificado:">
 <!ENTITY  generalEncoding2      "Codificação de texto:">
