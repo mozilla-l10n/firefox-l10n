@@ -505,6 +505,8 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "പ്രധാന സൈറ്റുകളുടെ കൂട്ടത്തിലേക്ക് പിന്‍ ചെയ്തു">
+<!ENTITY unpinned_page_from_top_sites "പ്രധാന സൈറ്റുകളുടെ കൂട്ടത്തില്‍ നിന്നും ഒഴിവാക്കി">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -530,6 +532,7 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "ചെറിയ ടാബുകള്‍">
+<!ENTITY pref_compact_tabs_summary2 "പോര്‍ട്രേറ്റ് മോഡില്‍ ടാബുകള്‍ രണ്ട് കോളമായി നിരത്തുക">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -785,6 +788,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "വിശദമായ ക്രമീകരണങ്ങള്‍">
 <!ENTITY restrictable_feature_camera_microphone "ക്യാമറയും മൈക്രോഫോണും">
 <!ENTITY restrictable_feature_block_list "തടയല്‍ പട്ടിക">
+<!ENTITY restrictable_feature_block_list_description "സെന്‍സിറ്റീവായ ഉള്ളടക്കമുള്ള വെബ്സൈറ്റുകള്‍ തടയുക.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
