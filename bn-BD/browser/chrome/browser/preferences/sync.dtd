@@ -7,23 +7,30 @@
 <!ENTITY engine.bookmarks.label     "বুকমার্ক ">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "ওপেন ট্যাব">
+<!ENTITY engine.tabs.title          "সিঙ্ক করা ডিভাইসগুলোতে যা যা খোলা তার তালিকা">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ইতিহাস">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "লগইন">
+<!ENTITY engine.logins.title        "আপনার সংরক্ষিত ব্যবহারকারী নাম ও পাসওয়ার্ড">
 <!ENTITY engine.logins.accesskey    "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
+<!ENTITY engine.prefsWin.label      "অপশন">
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "পছন্দসমূহ">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.title         "সাধারণ, গোপনীয়তা এবং নিরাপত্তা সেটিং এ আপনি যা পরিবর্তন করেছেন">
 <!ENTITY engine.addons.label        "অ্যাড-অন">
+<!ENTITY engine.addons.title        "Firefox ডেস্কটপের জন্য এক্সটেনশন ও থিম">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "ঠিকানা">
+<!ENTITY engine.addresses.title     "আপনার সংরক্ষিত ঠিকানা (কেবলমাত্র ডেস্কটপে)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "ক্রেডিট কার্ড">
+<!ENTITY engine.creditcards.title   "নাম, সংখ্যা এবং মেয়াদোত্তীর্ণের তারিখ ( কেবলমাত্র ডেস্কটপে)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->

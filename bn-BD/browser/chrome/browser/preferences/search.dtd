@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "অনুসন্ধান এবং নেভিগেশন জন্য ঠিকানা বার ব্যবহার করুন">
 <!ENTITY searchBar.shown.label                 "টুলবারে অনুসন্ধান বার যুক্ত করুন">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "ঠিকানা বারের ফলাফলে ব্রাউজিং ইতিহাসের আগে অনুসন্ধান প্রস্তাবনা দেখাও">
+
 <!ENTITY defaultSearchEngine.label             "ডিফল্ট অনুসন্ধান ইঞ্জিন">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "ঠিকানা বার এবং অনুসন্ধান বার ব্যবহার করতে ডিফল্ট অনুসন্ধান ইঞ্জিন নির্বাচন করুন।">
