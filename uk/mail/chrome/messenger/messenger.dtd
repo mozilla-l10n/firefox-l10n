@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Зневадження додатків">
 <!ENTITY addonDebugCmd.accesskey "З">
+<!ENTITY debugAddonsCmd.label "Зневадження додатків">
+<!ENTITY debugAddonsCmd.accesskey "З">
 <!ENTITY tabsDebugCmd.label "Зневаджувач фрейму вмісту">
 <!ENTITY tabsDebugCmd.accesskey "ж">
 <!ENTITY errorConsoleCmd.label "Консоль помилок">
