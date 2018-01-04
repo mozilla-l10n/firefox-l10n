@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "ι">
 <!ENTITY addonDebugCmd.label "Ενσωματωμένος Αποσφαλματωτής">
 <!ENTITY addonDebugCmd.accesskey "Α">
+<!ENTITY debugAddonsCmd.label "Αποσφαλμάτωση Πρόσθετων">
+<!ENTITY debugAddonsCmd.accesskey "Α">
 <!ENTITY tabsDebugCmd.label "Αποσφαλματωτής Περιεχομένου Πλαισίου">
 <!ENTITY tabsDebugCmd.accesskey "Π">
 <!ENTITY errorConsoleCmd.label "Κονσόλα σφαλμάτων">
