@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Kiegészítők hibakeresése">
 <!ENTITY addonDebugCmd.accesskey "K">
+<!ENTITY debugAddonsCmd.label "Kiegészítők hibakeresése">
+<!ENTITY debugAddonsCmd.accesskey "h">
 <!ENTITY tabsDebugCmd.label "Tartalomkeret hibakeresése">
 <!ENTITY tabsDebugCmd.accesskey "T">
 <!ENTITY errorConsoleCmd.label "Hibakonzol">
