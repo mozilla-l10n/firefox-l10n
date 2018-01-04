@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Pytanje za zmólkami dodankow">
 <!ENTITY addonDebugCmd.accesskey "P">
+<!ENTITY debugAddonsCmd.label "Dodanki za zmólkami pśepytowaś">
+<!ENTITY debugAddonsCmd.accesskey "D">
 <!ENTITY tabsDebugCmd.label "Pytanje za zmólkami za wopśimjeśowy wobłuk">
 <!ENTITY tabsDebugCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Zmólkowa konsola">
