@@ -2,6 +2,7 @@
 // License, v. 2.0. If a copy of the MPL was not distributed with this
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Enviar aos sites um sinal de “Não rastrear” informando que você não quer ser rastreado
 do-not-track-learn-more = Saber mais
 do-not-track-option-default
     .label = Somente quando usar a proteção contra rastreamento
