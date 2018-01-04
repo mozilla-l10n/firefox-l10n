@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pingDataSource "Ping 数据源：">
-<!ENTITY aboutTelemetry.showCurrentPingData "当前 ping 数据">
+<!ENTITY aboutTelemetry.showCurrentPingData "当前的 ping 数据">
 <!ENTITY aboutTelemetry.showArchivedPingData "存档的 ping 数据">
 <!ENTITY aboutTelemetry.showSubsessionData "显示提交数据">
 <!ENTITY aboutTelemetry.choosePing "选择 ping：">
