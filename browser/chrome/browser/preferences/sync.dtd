@@ -7,6 +7,7 @@
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label2         "Abrir pestañas">
+<!ENTITY engine.tabs.title          "Una lista de qué está abierto en todos los dispositivos sincronizados">
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
@@ -18,6 +19,7 @@
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Opciones">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Preferencias">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.prefs.title         "Configuraciones generales, de privacidad y de seguridad que has cambiado">
@@ -25,8 +27,10 @@
 <!ENTITY engine.addons.title        "Extensiones y temas para Firefox para escritorio">
 <!ENTITY engine.addons.accesskey    "C">
 <!ENTITY engine.addresses.label     "Direcciones">
+<!ENTITY engine.addresses.title     "Direcciones postales que guardaste (sólo escritorio)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Tarjetas de crédito">
+<!ENTITY engine.creditcards.title   "Nombre, números y fechas de expiración (sólo escritorio)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
