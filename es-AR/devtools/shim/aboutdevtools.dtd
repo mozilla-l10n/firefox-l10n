@@ -63,6 +63,7 @@
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Correo electrónico">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Acepto que Mozilla maneje mis datos tal como explica en la <a class='external' href='https://www.mozilla.org/privacy/'>Política de privacidad</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Suscribirse">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "¡Gracias!">
 
