@@ -51,13 +51,17 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Link op en Apparat schécken">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  sendToDeviceFeedback.label         "Geschéckt!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "An der Waardeschlaang (offline)">
 <!ENTITY  moveToNewWindow.label              "An eng nei Fënster réckelen">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  bookmarkAllTabs.label              "Lieszeechen fir all Tabs dobäisetzen…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "Tab zoumaachen réckgängeg maachen">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Tab zoumaachen">
 <!ENTITY  closeTab.accesskey                 "c">
 
+<!ENTITY  listAllTabs.label      "All Tabs oplëschten">
 
 <!ENTITY tabCmd.label "Neien Tab">
 <!ENTITY tabCmd.accesskey "T">
@@ -65,6 +69,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Adress opmaachen…">
 <!ENTITY openFileCmd.label "Fichier Opmaachen…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -79,11 +84,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Offline schaffen">
 <!ENTITY goOfflineCmd.accesskey "k">
 
+<!ENTITY menubarCmd.label "Menüleescht">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY personalbarCmd.accesskey "B">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "All Tabs nei lueden">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lieszeechen fir all Tabs dobäisetzen…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
