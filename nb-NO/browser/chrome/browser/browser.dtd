@@ -210,7 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Åpne meldingspanel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Åpne panel for stedsforespørsel">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Åpne meldingspanel for utvidelsesinstallasjon">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Håndter retter for canvas-datautdraging">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Håndter rettigheter for canvas-datautdraging">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Åpne meldingspanel for frakoblet data">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Åpne meldingspanel for lagring av passord">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrer bruk av programtillegg">
