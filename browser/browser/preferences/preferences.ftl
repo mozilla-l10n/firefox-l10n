@@ -4,5 +4,7 @@
 
 do-not-track-description = যে যে ওয়েবসাইট হতে আপনি ট্র্যাক হতে চান না সেগুলোতে  “ট্রাক করবে না” পাঠাও
 do-not-track-learn-more = আরও জানুন
+do-not-track-option-default
+    .label = শুধুমাত্র যখন ট্রাকিং সুরক্ষা ব্যবহার করে
 do-not-track-option-always
     .label = সর্বদা
