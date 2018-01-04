@@ -3,3 +3,7 @@
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+do-not-track-option-default
+    .label = ಜಾಡು ಇರಿಸುವಿಕೆ ರಕ್ಷಣೆಯನ್ನು ಬಳಸುವಾಗ ಮಾತ್ರ
+do-not-track-option-always
+    .label = ಯಾವಾಗಲೂ
