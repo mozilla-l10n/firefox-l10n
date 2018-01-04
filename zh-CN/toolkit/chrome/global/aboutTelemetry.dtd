@@ -50,9 +50,9 @@ Ping 类型
 <!ENTITY aboutTelemetry.scalarsSection "
   标量
 ">
-<!ENTITY aboutTelemetry.keyedScalarsSection "有键标量">
+<!ENTITY aboutTelemetry.keyedScalarsSection "键索标量">
 <!ENTITY aboutTelemetry.histogramsSection "  直方图">
-<!ENTITY aboutTelemetry.keyedHistogramsSection "键控直方图">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "键索直方图">
 <!ENTITY aboutTelemetry.eventsSection "事件">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  简单测量">
 <!ENTITY aboutTelemetry.telemetryLogSection "  遥测日志">
