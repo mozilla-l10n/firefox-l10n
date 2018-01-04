@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Pytanje za zmylkami přidatkow">
 <!ENTITY addonDebugCmd.accesskey "P">
+<!ENTITY debugAddonsCmd.label "Přidatki za zmylkami přepytować">
+<!ENTITY debugAddonsCmd.accesskey "P">
 <!ENTITY tabsDebugCmd.label "Pytanje za zmylkami za wobsahowy wobłuk">
 <!ENTITY tabsDebugCmd.accesskey "b">
 <!ENTITY errorConsoleCmd.label "Zmylkowa konsola">
