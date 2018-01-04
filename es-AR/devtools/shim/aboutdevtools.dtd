@@ -66,6 +66,7 @@
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Acepto que Mozilla maneje mis datos tal como explica en la <a class='external' href='https://www.mozilla.org/privacy/'>Política de privacidad</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Suscribirse">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "¡Gracias!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Si todavía no confirmó la suscripción a un boletín relacionado con Mozilla, puede que resulte necesario hacerlo. Por favor verifique si le llegó un correo electrónico nuestro a la Bandeja de entrada o si está en el filtro de Correo basura.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
