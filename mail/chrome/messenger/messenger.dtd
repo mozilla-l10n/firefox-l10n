@@ -510,6 +510,7 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Felsökning för tillägg">
 <!ENTITY addonDebugCmd.accesskey "F">
+<!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Felsökning för innehållsram">
 <!ENTITY tabsDebugCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.label "Felkonsol">
