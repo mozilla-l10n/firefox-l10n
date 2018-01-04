@@ -52,6 +52,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  sendToDeviceFeedback.label         "Geschéckt!">
 <!ENTITY  moveToNewWindow.label              "An eng nei Fënster réckelen">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Tab zoumaachen">
