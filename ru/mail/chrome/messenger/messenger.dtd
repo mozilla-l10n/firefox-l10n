@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Отладчик дополнений">
 <!ENTITY addonDebugCmd.accesskey "л">
+<!ENTITY debugAddonsCmd.label "Отладка дополнений">
+<!ENTITY debugAddonsCmd.accesskey "л">
 <!ENTITY tabsDebugCmd.label "Отладчик фрейма содержимого">
 <!ENTITY tabsDebugCmd.accesskey "и">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
