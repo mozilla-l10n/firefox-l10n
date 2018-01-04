@@ -4,5 +4,7 @@
 
 do-not-track-description = Enviar a los sitios web una señal de “No rastrear”, significa que no quieres ser rastreado
 do-not-track-learn-more = Aprender más
+do-not-track-option-default
+    .label = Solo al usar Protección contra el Rastreo
 do-not-track-option-always
     .label = Siempre
