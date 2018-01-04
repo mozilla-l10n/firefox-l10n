@@ -189,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "ж">
 
 <!ENTITY backCmd.label                "Артқа">
+<!ENTITY backCmd.accesskey            "а">
 <!ENTITY backButton.tooltip           "Алдыңғы бетке қайту">
 <!ENTITY forwardCmd.label             "Алға">
+<!ENTITY forwardCmd.accesskey         "л">
 <!ENTITY forwardButton.tooltip        "Келесі бетке өту">
 <!ENTITY backForwardButtonMenu.tooltip "Тарихы үшін оң жақпен шертіңіз не төмен тартыңыз">
 <!ENTITY backForwardButtonMenuMac.tooltip "Тарихы үшін төмен тартыңыз">
 <!ENTITY reloadCmd.label              "Жаңарту">
+<!ENTITY reloadCmd.accesskey          "й">
 <!ENTITY stopCmd.label                "Тоқтату">
+<!ENTITY stopCmd.accesskey            "т">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Енгізілген адреске өту">
 <!ENTITY printButton.label            "Баспаға шығару">
