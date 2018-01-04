@@ -30,18 +30,28 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Fejlesszen WebExtensionöket, web workereket, service workereket és másokat a Firefox fejlesztői eszközeivel.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Aktiválta a fejlesztői eszközök gyorsbillentyűjét. Ha ez véletlenül történt, akkor bezárhatja ezt a lapot.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Vizsgálja meg, szerkessze, és keressen hibát a HTML, CSS vagy JavaScript kódban a Vizsgáló és Hibakereső eszközökkel.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Tökéletesítse a weboldala HTML, CSS és JavaScript kódját a Vizsgáló és Hibakereső eszközökkel.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "A Firefox fejlesztői eszközök alapértelmezett le vannak tiltva, hogy jobb irányítással rendelkezzen a böngészője felett.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
