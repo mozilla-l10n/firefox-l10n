@@ -3,5 +3,8 @@
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = वेबसाइटों को “डू नॉट ट्रैक” संकेत भेजे ताकि वो आपको ट्रैक ना करें
+do-not-track-learn-more = और अधिक जानें
 do-not-track-option-default
     .label = ट्रैकिंग का उपयोग करते समय ही
+do-not-track-option-always
+    .label = हमेशा
