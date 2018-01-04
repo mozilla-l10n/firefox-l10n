@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Penyahpepijat Add-on">
 <!ENTITY addonDebugCmd.accesskey "A">
+<!ENTITY debugAddonsCmd.label "Nyahpepijat Add-ons">
+<!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Penyahpepijat Bingkai Kandungan">
 <!ENTITY tabsDebugCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.label "Konsol Ralat">
