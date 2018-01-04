@@ -86,6 +86,8 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Menüleescht">
 <!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "Navigatiounssymbolleescht">
+<!ENTITY personalbarCmd.label "Lieszeechensymbolleescht">
 <!ENTITY personalbarCmd.accesskey "B">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "All Tabs nei lueden">
