@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Dadfygiwr Ychwanegion">
 <!ENTITY addonDebugCmd.accesskey "D">
+<!ENTITY debugAddonsCmd.label "Ychwanegion Dadfygio">
+<!ENTITY debugAddonsCmd.accesskey "Y">
 <!ENTITY tabsDebugCmd.label "Dadfygiwr Cynnwys Ffrâm">
 <!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Consol Gwall">
