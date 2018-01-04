@@ -511,7 +511,7 @@
 <!ENTITY addonDebugCmd.label "Extra Depurador">
 <!ENTITY addonDebugCmd.accesskey "a">
 <!ENTITY debugAddonsCmd.label "Depurar extras">
-<!ENTITY debugAddonsCmd.accesskey "A">
+<!ENTITY debugAddonsCmd.accesskey "e">
 <!ENTITY tabsDebugCmd.label "Depurador de frame de conteúdo">
 <!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola de erros">
