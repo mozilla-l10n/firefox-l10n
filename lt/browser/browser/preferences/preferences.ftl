@@ -4,5 +4,7 @@
 
 do-not-track-description = Siųsti svetainėms „Do Not Track“ signalą, nurodant pageidavimą nebūti sekamiems
 do-not-track-learn-more = Sužinoti daugiau
+do-not-track-option-default
+    .label = Tik naudojant apsaugą nuo stebėjimo
 do-not-track-option-always
     .label = Visada
