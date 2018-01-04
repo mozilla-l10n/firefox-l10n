@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Add-on-debugger">
 <!ENTITY addonDebugCmd.accesskey "A">
+<!ENTITY debugAddonsCmd.label "Add-ons debugge">
+<!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Frame-ynhâlds-debugger">
 <!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Flaterkonsole">
