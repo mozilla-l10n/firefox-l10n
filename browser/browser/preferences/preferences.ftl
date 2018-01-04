@@ -3,3 +3,8 @@
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = שליחת חיווי ”נא לא לעקוב” לאתרים שאין ברצונך שיעקבו אחריך
+do-not-track-learn-more = מידע נוסף
+do-not-track-option-default
+    .label = רק בעת שימוש בהגנת מעקב
+do-not-track-option-always
+    .label = תמיד
