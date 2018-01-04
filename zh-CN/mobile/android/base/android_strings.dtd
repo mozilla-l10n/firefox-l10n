@@ -290,7 +290,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "自定义标签页（Custom Tabs）">
-<!ENTITY pref_custom_tabs_summary4 "让应用可以在其专门定制的标签页中快速加载网页内容">
+<!ENTITY pref_custom_tabs_summary4 "让应用可以在其特别定制的标签页中快速载入网页内容，不必打开浏览器">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -424,7 +424,7 @@
 <!ENTITY datareporting_fhr_summary2 "帮助您了解浏览器的工作性能，并与 &vendorShortName; 分享您的浏览器健康状况。">
 <!ENTITY datareporting_abouthr_title "查看我的健康报告">
 <!ENTITY datareporting_telemetry_title "遥测技术">
-<!ENTITY datareporting_telemetry_summary "与 &vendorShortName; 分享您浏览器的工作性能、使用方式、硬件设备和有关定制的数据，帮助我们改进 &brandShortName; 让它变得更好。">
+<!ENTITY datareporting_telemetry_summary "与 &vendorShortName; 分享您浏览器的工作性能、使用方式、硬件设备和有关定制的数据，帮助我们改进 &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; 将会提交崩溃报告，帮助 &vendorShortName; 让您的浏览器更加稳定和安全">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -871,4 +871,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "添加到主屏幕">
 <!ENTITY pwa_continue_to_website "继续前往网站">
-<!ENTITY pwa_onboarding_sumo "您可以轻松将此网站添加到主屏幕，以便迅捷访问并以类似应用的体验畅享浏览。">
+<!ENTITY pwa_onboarding_sumo "您可以将此网站添加到主屏幕，像用普通应用般快捷打开浏览。">
