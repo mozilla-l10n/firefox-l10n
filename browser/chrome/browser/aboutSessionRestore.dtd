@@ -10,6 +10,7 @@
 <!ENTITY restorepage.hideTabs       "మునుపటి ట్యాబులను దాచు">
 <!ENTITY restorepage.showTabs       "మునుపటి ట్యాబులను చూడండి">
 
+<!ENTITY restorepage.tryagainButton2 "సెషన్ను పునరుద్ధరించు">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "కొత్త సెషన్ ప్రారంభించండి">
 <!ENTITY restorepage.close.access2   "N">
