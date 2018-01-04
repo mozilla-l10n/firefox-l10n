@@ -233,6 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokkolta a felugró ablakokat ezen az oldalon.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Blokkolta a vászonadatok kinyerését ezen az oldalon.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Előzmények megjelenítése">
 
 <!ENTITY searchItem.title             "Keresés">
