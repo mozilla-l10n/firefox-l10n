@@ -89,11 +89,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY navbarCmd.label "Navigatiounssymbolleescht">
 <!ENTITY personalbarCmd.label "Lieszeechensymbolleescht">
 <!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "Lieszeechensymbolleeschtelementer">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "All Tabs nei lueden">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lieszeechen fir all Tabs dobäisetzen…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Tab zoumaachen réckgängeg maachen">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Quellcode vun der Säit">
@@ -106,8 +108,10 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
+<!ENTITY pageInfoCmd.label "Säiteninformatiounen">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Tab spigelen">
 <!ENTITY mirrorTabCmd.accesskey "n">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
