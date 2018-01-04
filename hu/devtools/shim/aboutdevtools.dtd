@@ -77,6 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Ha korábban nem erősítette meg a Mozillához kapcsolódó hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Többre vágyik a fejlesztői eszközöknél? Nézze meg a Firefox böngészőt, amely kifejezetten a fejlesztőknek, és modern munkamenetekhez készül.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
