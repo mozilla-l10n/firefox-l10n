@@ -13,7 +13,7 @@
 <!ENTITY SelectMultiple.accesskey "М">
 <!ENTITY SelectDisabled.label "Неактивен">
 <!ENTITY SelectDisabled.accesskey "Н">
-<!ENTITY SelectTabIndex.label "Индекс на табулатора:">
+<!ENTITY SelectTabIndex.label "Отместване при табулиране:">
 <!ENTITY SelectTabIndex.accesskey "И">
 
 <!ENTITY OptGroup.label "Група опции">

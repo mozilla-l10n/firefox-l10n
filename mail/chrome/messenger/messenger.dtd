@@ -253,7 +253,7 @@
 <!ENTITY bodyMenuFeed.accesskey "Т">
 <!ENTITY viewFeedWebPage.label "Уеб страница">
 <!ENTITY viewFeedWebPage.accesskey "У">
-<!ENTITY viewFeedSummary.label "Извлечение">
+<!ENTITY viewFeedSummary.label "Обобщение">
 <!ENTITY viewFeedSummary.accesskey "з">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Стандартен формат">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "С">
