@@ -127,13 +127,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Bei &syncBrand.shortName.label; umellen">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; Astellungen opmaachen">
+<!ENTITY fxaSignInError.label "Mam &syncBrand.shortName.label; nei verbannen">
 <!ENTITY fxaUnverified.label "Kuckt Äre Benotzerkont no">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimiséieren">
 <!ENTITY fullScreenRestore.tooltip "Restauréieren">
 <!ENTITY fullScreenClose.tooltip "Zoumaachen">
+<!ENTITY fullScreenAutohide.label "Symbolleescht ausblennen">
 <!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.label "Aus dem Vollbildmodus erausgoen">
 <!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -141,16 +144,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "ass elo am Vollbildmodus">
+<!ENTITY fullscreenWarning.generic.label "Dëst Dokument ass elo am Vollbildmodus">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Vollbild zoumaachen (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Vollbild zoumaachen (esc)">
+<!ENTITY leaveDOMFullScreen.label "Vollbild zoumaachen">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
 
 <!ENTITY closeWindow.label "Fënster zoumaachen">
 <!ENTITY closeWindow.accesskey "d">
