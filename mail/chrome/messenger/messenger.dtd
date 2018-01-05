@@ -90,7 +90,7 @@
 <!ENTITY deleteMsgCmd.label "Ta bort meddelande">
 <!ENTITY deleteMsgCmd.accesskey "T">
 <!ENTITY undeleteMsgCmd.label "Återställ borttaget meddelande">
-<!ENTITY undeleteMsgCmd.accesskey "l">
+<!ENTITY undeleteMsgCmd.accesskey "b">
 <!ENTITY deleteMsgsCmd.label "Ta bort markerade meddelanden">
 <!ENTITY deleteMsgsCmd.accesskey "T">
 <!ENTITY undeleteMsgsCmd.label "Återställ markerade borttagna meddelanden">
@@ -176,7 +176,7 @@
 <!ENTITY sortByReceivedCmd.label "Mottagen">
 <!ENTITY sortByReceivedCmd.accesskey "g">
 <!ENTITY sortByStarCmd.label "Märke">
-<!ENTITY sortByStarCmd.accesskey "ä">
+<!ENTITY sortByStarCmd.accesskey "M">
 <!ENTITY sortByAttachmentsCmd.label "Bilagor">
 <!ENTITY sortByAttachmentsCmd.accesskey "B">
 <!ENTITY sortByPriorityCmd.label "Prioritet">
@@ -230,7 +230,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Trådar som bevakas med olästa meddelanden">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "b">
 <!ENTITY ignoredThreadsCmd.label "Ignorerade trådar">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY ignoredThreadsCmd.accesskey "g">
 
 <!ENTITY headersMenu.label "Rubriker">
 <!ENTITY headersMenu.accesskey "R">
@@ -324,7 +324,7 @@
 <!ENTITY folderMenu.label "Mapp">
 <!ENTITY folderMenu.accesskey "M">
 <!ENTITY goRecentlyClosedTabs.label "Nyligen stängda flikar">
-<!ENTITY goRecentlyClosedTabs.accesskey "l">
+<!ENTITY goRecentlyClosedTabs.accesskey "N">
 <!ENTITY startPageCmd.label "Meddelandestartsidan">
 <!ENTITY startPageCmd.accesskey "S">
 
@@ -336,7 +336,7 @@
 <!ENTITY newNewMsgCmd.label "Nytt meddelande">
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Arkivera">
-<!ENTITY archiveMsgCmd.accesskey "i">
+<!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Återkalla meddelande">
 <!ENTITY cancelNewsMsgCmd.accesskey "t">
@@ -344,7 +344,7 @@
 <!ENTITY replyMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Svara endast avsändaren">
-<!ENTITY replySenderCmd.accesskey "ä">
+<!ENTITY replySenderCmd.accesskey "S">
 <!ENTITY replyNewsgroupCmd2.label "Svara till diskussionsgrupp">
 <!ENTITY replyNewsgroupCmd2.accesskey "d">
 <!ENTITY replyToAllMsgCmd.label "Svara alla">
@@ -359,7 +359,7 @@
 <!ENTITY forwardAsMenu.label "Vidarebefordra som">
 <!ENTITY forwardAsMenu.accesskey "d">
 <!ENTITY forwardAsInline.label "Infogad">
-<!ENTITY forwardAsInline.accesskey "I">
+<!ENTITY forwardAsInline.accesskey "f">
 <!ENTITY forwardAsAttachmentCmd.label "Bilaga">
 <!ENTITY forwardAsAttachmentCmd.accesskey "B">
 <!ENTITY editAsNewMsgCmd.label "Redigera som nytt meddelande">
@@ -376,17 +376,17 @@
 <!ENTITY moveCopyMsgRecentMenu.label "Tidigare">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "T">
 <!ENTITY copyMessageLocation.label "Kopiera meddelandeadress">
-<!ENTITY copyMessageLocation.accesskey "i">
+<!ENTITY copyMessageLocation.accesskey "K">
 <!ENTITY copyMsgToMenu.label "Kopiera till">
 <!ENTITY copyMsgToMenu.accesskey "o">
 <!ENTITY moveToFolderAgain.label "Flytta igen">
 <!ENTITY moveToFolderAgain.accesskey "t">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorera tråd">
-<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.accesskey "g">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignorera undertråd">
-<!ENTITY killSubthreadMenu.accesskey "å">
+<!ENTITY killSubthreadMenu.accesskey "u">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Bevaka tråd">
 <!ENTITY watchThreadMenu.accesskey "B">
@@ -431,7 +431,7 @@
 <!ENTITY recalculateJunkScoreCmd.label "Kör skräppostkontroll">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
 <!ENTITY openMessageWindowCmd.label "Öppna meddelande">
-<!ENTITY openMessageWindowCmd.accesskey "Ö">
+<!ENTITY openMessageWindowCmd.accesskey "p">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Öppna i konversationen">
 <!ENTITY openConversationCmd.accesskey "s">
@@ -439,7 +439,7 @@
 <!ENTITY openAttachmentListCmd.label "Bilagor">
 <!ENTITY openAttachmentListCmd.accesskey "B">
 <!ENTITY openFeedMessage1.label "När du öppnar RSS-meddelanden">
-<!ENTITY openFeedMessage1.accesskey "ö">
+<!ENTITY openFeedMessage1.accesskey "R">
 <!ENTITY openFeedWebPage.label "Öppna som webbsida">
 <!ENTITY openFeedWebPage.accesskey "w">
 <!ENTITY openFeedSummary.label "Öppna som sammanfattning">
@@ -510,7 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Felsökning för tillägg">
 <!ENTITY addonDebugCmd.accesskey "F">
-<!ENTITY debugAddonsCmd.accesskey "A">
+<!ENTITY debugAddonsCmd.label "Felsök tillägg">
+<!ENTITY debugAddonsCmd.accesskey "F">
 <!ENTITY tabsDebugCmd.label "Felsökning för innehållsram">
 <!ENTITY tabsDebugCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.label "Felkonsol">
@@ -760,7 +761,7 @@
 <!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextEditDraftMsg.label "Redigera meddelandeutkast">
 <!ENTITY contextArchive.label "Arkivera">
-<!ENTITY contextArchive.accesskey "i">
+<!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
 <!ENTITY contextReplySender.accesskey "v">
 <!ENTITY contextReplyNewsgroup2.label "Svara till diskussionsgrupp">
@@ -768,13 +769,13 @@
 <!ENTITY contextReplyAll.label "Svara alla">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "Svara till listan">
-<!ENTITY contextReplyList.accesskey "l">
+<!ENTITY contextReplyList.accesskey "t">
 <!ENTITY contextForward.label "Vidarebefordra">
 <!ENTITY contextForward.accesskey "V">
 <!ENTITY contextForwardAsMenu.label "Vidarebefordra som">
 <!ENTITY contextForwardAsMenu.accesskey "d">
 <!ENTITY contextForwardAsInline.label "Infogad text">
-<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsInline.accesskey "t">
 <!ENTITY contextForwardAsAttachmentItem.label "Bilaga">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "B">
 <!ENTITY contextMultiForwardAsAttachment.label "Vidarbefordra som bilagor">
