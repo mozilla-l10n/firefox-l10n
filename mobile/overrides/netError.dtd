@@ -103,7 +103,7 @@
   <li>Свържете се с мрежовия администратор и проверете дали мрежовият посредник работи.</li>
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Прокси сървърът не може да бъде открит">
+<!ENTITY proxyResolveFailure.title "Мрежовия посредник не може да бъде открит">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul>
