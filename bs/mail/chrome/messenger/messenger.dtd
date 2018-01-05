@@ -459,6 +459,9 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Dodaci">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addonPrefs.label "Opcije dodatka">
+<!ENTITY addonPrefsUnix.label "Postavke dodatka">
+<!ENTITY addonNoPrefs.label "Nisu pronađene postavke dodatka.">
 <!ENTITY activitymanager.label "Upravitelj aktivnostima">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Status razgovora">
@@ -504,6 +507,7 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Otklanjač grešaka dodataka">
 <!ENTITY addonDebugCmd.accesskey "A">
+<!ENTITY debugAddonsCmd.label "Otkloni greške dodataka">
 <!ENTITY tabsDebugCmd.label "Otklanjač grešaka za sadržaj okvira">
 <!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Konzola grešaka">

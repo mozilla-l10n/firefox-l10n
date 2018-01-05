@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "URL kanala:">
 <!ENTITY feedLocation.accesskey      "F">
 <!ENTITY feedLocation.placeholder    "Unesite ispravnu adresu feeda za dodati">
+<!ENTITY feedLocation2.placeholder   "Unesite ispravnu web adresu kanala">
 <!ENTITY locationValidate.label      "Validiraj">
 <!ENTITY validateText.label          "Provjeri ispravnost i dobavi ispravan url.">
 
@@ -39,6 +40,7 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "a">
+<!ENTITY button.verifyFeed.label     "Provjeri">
 <!ENTITY button.updateFeed.label     "Update">
 <!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Ukloni">

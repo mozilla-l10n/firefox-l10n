@@ -31,6 +31,8 @@ sentence. -->
 <!ENTITY  completeNotification.label          "s imenom pošiljaoca i pregledom poruke">
 <!ENTITY  buddyInfoOnly.label                 "samo s imenom pošiljaoca">
 <!ENTITY  dummyNotification.label             "bez bilo kakvih informacija">
+<!ENTITY  getAttention.label                  "Zatreperi stavku u traci zadataka">
+<!ENTITY  getAttentionMac.label               "Animiraj ikonicu u docku">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Reproduciraj zvuk">
 <!ENTITY  play.label                          "Reproduciraj">
