@@ -188,6 +188,12 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Aplikatu proposamena">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "Zereginaren eremuak kontraproposamenaren balioekin beteko dira, aldaketa gehigarriekin edo aldaketarik gabe, bakarrik gordetzean jakinaraziko zaie dagokiona gonbidatu guztiei">
+<!ENTITY counter.button.original.label                    "Aplikatu jatorrizko datuak">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "Eremuetan zereginaren jatorrizko balioak hartuko dira, kontraproposamenaren aurrekoak">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Izenburua:" >
@@ -199,8 +205,16 @@
 <!ENTITY event.categories.textbox.label                   "Gehitu kategoria berria" >
 <!ENTITY event.calendar.label                             "Egutegia:" >
 <!ENTITY event.calendar.accesskey                         "E">
+<!ENTITY event.attendees.label                            "Gonbidatuak:" >
+<!ENTITY event.attendees.accesskey                        "n">
 <!ENTITY event.alldayevent.label                          "Egun osoko gertaera" >
 <!ENTITY event.alldayevent.accesskey                      "o">
+<!ENTITY event.from.label                                 "Hasiera:" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "Hasiera:" >
+<!ENTITY task.from.accesskey                              "S">
+<!ENTITY event.to.label                                   "Amaiera:" >
+<!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.to.label                                    "Amaiera data:" >
 <!ENTITY task.to.accesskey                                "d">
 <!ENTITY task.status.label                                "Egoera:" >
