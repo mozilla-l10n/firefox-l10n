@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "అప్రమేయాలను పునరుద్ధరించు">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "పొడగింతను అచేతనించు">
+
 <!ENTITY downloads.label     "దింపుకోళ్ళు">
 
 <!ENTITY saveTo.label "ఇచట ఫైల్సు భద్రపరచు">
