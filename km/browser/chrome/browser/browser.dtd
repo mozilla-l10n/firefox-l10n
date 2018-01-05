@@ -13,13 +13,13 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ការ​រក​មើលជា​​ឯកជន)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ការរកមើលជា​ឯកជន)">
 
-<!ENTITY appmenu.tooltip                     "បើក​ម៉ឺនុយ">
-<!ENTITY navbarOverflow.label                "ឧបករណ៍​ច្រើន​ទៀត…">
+<!ENTITY appmenu.tooltip                     "បើកម៉ឺនុយ">
+<!ENTITY navbarOverflow.label                "ឧបករណ៍ច្រើនទៀត…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "ផ្ទុក​ផ្ទាំង​ឡើងវិញ">
+<!ENTITY  reloadTab.label                    "ផ្ទុកផ្ទាំងឡើងវិញ">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "ផ្ទុក​ផ្ទាំង​ទាំងអស់​ឡើងវិញ">
 <!ENTITY  reloadAllTabs.accesskey            "A">
