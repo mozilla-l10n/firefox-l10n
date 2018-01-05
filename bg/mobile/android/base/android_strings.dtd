@@ -113,7 +113,7 @@
 <!ENTITY menu "Меню">
 <!ENTITY back "Назад">
 <!ENTITY stop "Спиране">
-<!ENTITY site_security "Сигурност на сайта">
+<!ENTITY site_security "Защита на страницата">
 <!ENTITY edit_mode_cancel "Отказ">
 
 <!ENTITY close_tab "Затваряне на раздела">
