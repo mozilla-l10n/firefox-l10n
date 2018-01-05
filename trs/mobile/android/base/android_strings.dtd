@@ -10,6 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Sa aché nun huìt ngà sa narán ngà aché nunt nī naran riña daran’ nej sa naga’nāj sò’ nga aché nunt, nī nitāj si dunanun ruhuaj riña gan’ānjt.">
 <!ENTITY firstrun_panel_title_customize "Nagi\&apos;iô\&apos; daj huin ruhuô\&apos;">
 <!ENTITY firstrun_customize_message "Gi\&apos;iaj &brandShortName; si\&apos;iaj.">
+<!ENTITY firstrun_customize_subtext "Nagi’iaj daj garan’ ruhuât ngà nej complemento. Narán riña anuncio, nachrūn a’ngô sa ruhuât nī nadunā dàj gā riña gachē nunt da’ gini’in guìi sò’.">
 <!ENTITY firstrun_bookmarks_title "Sa gini’iājt">
 <!ENTITY firstrun_bookmarks_message "Hiuj na ma nej sa garan ruat doj">
 <!ENTITY firstrun_bookmarks_subtext "Garasun nej nuguan raj sun nichro\&apos; doj da\&apos; nari hio\&apos; doj sa nana\&apos;ui\&apos;.">
