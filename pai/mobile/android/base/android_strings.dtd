@@ -4,7 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Majaan mnkaab">
 <!ENTITY firstrun_urlbar_message2 "Majanuliwu &brandShortName; ham mtrcheech">
-<!ENTITY firstrun_urlbar_subtext2 "Mozilla Hal jabchu baam  jaanyak, kos ñukweewuliiy mk\&apos;katem web hay sol ñwak looj januyik.">
+<!ENTITY firstrun_urlbar_subtext2 "Mozilla Hal jabchu baam jaanyak, kos ñukweewuliiy mk\&apos;katem web hay sol ñwak looj januyik.">
 <!ENTITY firstrun_panel_title_privacy "Kos jabch tpaay">
 <!ENTITY firstrun_privacy_message "Sal m\&apos; am ñikawuliiy m\&apos; ítem muli">
 <!ENTITY firstrun_privacy_subtext "Sal amchu kos sal jabchu tpaay kŕbo chapayt kjkechyiib kyoha paytum ŕ´am may salm´am ñum amum ñyak ñmwirum ñukwewuliiy nmaktem.">
@@ -42,7 +42,7 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; chamch knaabch">
 <!ENTITY  crash_message2 "&brandShortName; chamchum ŕ´ap. yuŕumee mwihay namanchuhak yakme">
-<!ENTITY  crash_send_report_message3 "&vendorShortName; yak chmchuha  mknaab yak aaw chajancha">
+<!ENTITY  crash_send_report_message3 "&vendorShortName; yak chmchuha mknaab yak aaw chajancha">
 <!ENTITY  crash_include_url2 "pagin mawuhak kwyu jabchuha sak mchmii">
 <!ENTITY  crash_sorry "ñubyuha ibtem yus kjke ">
 <!ENTITY  crash_comment "kwaw paa m´em yak mntñur( kwaaw ñmkwimum pakatee payt ch´ub)">
@@ -171,6 +171,10 @@
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
@@ -253,6 +257,7 @@
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+
 
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -399,6 +404,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
@@ -415,3 +421,9 @@ and allows hiding a URL/page from highlights or topsites. The page remains in hi
 is simply hidden from the Activity Stream panel. -->
 
 
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
