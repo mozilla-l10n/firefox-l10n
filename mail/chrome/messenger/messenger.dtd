@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Depurador de extensão">
 <!ENTITY addonDebugCmd.accesskey "A">
+<!ENTITY debugAddonsCmd.label "Depurar extensões">
+<!ENTITY debugAddonsCmd.accesskey "e">
 <!ENTITY tabsDebugCmd.label "Depurador de conteúdo do quadro">
 <!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Console de erros">

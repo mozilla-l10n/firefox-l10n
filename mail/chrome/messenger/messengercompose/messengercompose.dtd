@@ -140,6 +140,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordenar seleção: A - Z">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordenar seleção: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Exibir">
