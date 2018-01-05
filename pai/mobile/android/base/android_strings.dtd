@@ -28,12 +28,21 @@
 <!ENTITY firstrun_tabqueue_title "Ñukpachuha">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Ch chkwuchu maat ñul kpeeb">
+<!ENTITY firstrun_tabqueue_subtext_off "Maat ukchpach ch chkwaach miib &brandShortName; ha pay miib trchechu jkaayk ñtwaŕchum.">
 
+<!ENTITY firstrun_tabqueue_message_on "Januli!">
+<!ENTITY firstrun_tabqueue_subtext_on "Pichtem mozilla hak ya mujin kyaaw yuk &settings; ham.">
 
+<!ENTITY firstrun_readerview_title "Chapayt">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Chapay blwiiytem kyoha mpok">
+<!ENTITY firstrun_readerview_subtext "Ch\&apos;uchu tñur uchuham mtrchech, tñurha uch hay trchechtem hikyawa \u2014 ñukmchpachtem kamyuso.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "May">
+<!ENTITY firstrun_account_message "Dispositiv jkayk &brandShortName; mwiy\&apos;e?">
 
+<!ENTITY  onboard_start_restricted1 "Maat mtawir majanuk &brandShortName; bam kyakyam.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -43,6 +52,7 @@
 <!ENTITY  switch_to_tab "Yuŕumee ujinch">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Kos sal tublichtem trchechu paa chu ubu">
 
 <!ENTITY  crash_reporter_title "&brandShortName; chamch knaabch">
 <!ENTITY  crash_message2 "&brandShortName; chamchum ŕ´ap. yuŕumee mwihay namanchuhak yakme">
