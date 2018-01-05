@@ -221,6 +221,8 @@
 <!ENTITY task.status.accesskey                            "E">
 <!ENTITY event.repeat.label                               "Errepikatu:" >
 <!ENTITY event.repeat.accesskey                           "r">
+<!ENTITY event.until.label                                "Noiz arte:">
+<!ENTITY event.until.accesskey                            "B">
 <!ENTITY event.reminder.label                             "Gogorarazlea:" >
 <!ENTITY event.reminder.accesskey                         "G">
 <!ENTITY event.description.label                          "Deskribapena:" >
@@ -237,6 +239,8 @@
 <!ENTITY event.attachments.popup.open.accesskey           "I" >
 <!ENTITY event.attachments.popup.removeAll.label          "Kendu denak" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
+<!ENTITY event.attachments.popup.attachPage.label         "Erantsi web-orria…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
 <!ENTITY event.url.label                                  "Erlazionatutako lotura:" >
 <!ENTITY event.priority2.label                            "Lehentasuna:">
 
@@ -408,6 +412,7 @@
 <!ENTITY read.only.tentative.label       "Saiatuko naiz parte hartzen">
 <!ENTITY read.only.needs.action.label    "Beranduago baieztatuko dut">
 <!ENTITY read.only.reminder.label        "Gogoratu:">
+<!ENTITY read.only.attachments.label     "Eranskinak:">
 <!ENTITY read.only.attendees.label       "Partaideak">
 <!ENTITY read.only.description.label     "Azalpena">
 <!ENTITY read.only.link.label            "Erlazionatutako lotura">
