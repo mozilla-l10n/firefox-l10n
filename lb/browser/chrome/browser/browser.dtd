@@ -162,21 +162,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "kontrolléiert de Maus. Esc drécken fir d'Kontroll z'iwwerhuelen.">
+<!ENTITY pointerlockWarning.generic.label "Dëst Dokument huet d'Kontroll iwwert d'Maus. Dréck Esc fir d'Kontroll z'iwwerhuelen.">
 
 <!ENTITY closeWindow.label "Fënster zoumaachen">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Lieszeechen">
 <!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarkThisPageCmd.label "E Lieszeechen fir des Säit dobäisetzen">
 <!ENTITY editThisBookmarkCmd.label "Dëst Lieszeechen änneren">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Sech op dës Säit abonnéieren">
 <!ENTITY subscribeToPageMenuitem.label "Sech op dës Säit abonnéieren…">
+<!ENTITY addCurPagesCmd.label "Lieszeechen fir all Tabs dobäisetzen…">
 <!ENTITY showAllBookmarks2.label "All Lieszeeche weisen">
+<!ENTITY recentBookmarks.label "Rezent Lieszeechen">
 <!ENTITY otherBookmarksCmd.label "Aner Lieszeechen">
 <!ENTITY mobileBookmarksCmd.label "Mobil Lieszeechen">
 <!ENTITY bookmarksToolbarChevron.tooltip "Méi Lieszeeche weisen">
+<!ENTITY showRecentlyBookmarked.label     "Rezent Lieszeeche weisen">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY hideRecentlyBookmarked.label     "Rezent Lieszeeche verstoppen">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Zréck">
 <!ENTITY backCmd.accesskey            "B">
