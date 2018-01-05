@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Nota leitarslá til að leita og stýra">
 <!ENTITY searchBar.shown.label                 "Bæta við leitarslá í verkfæraslá">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Sýna leitarábendingar fyrir framan leitarsögu í niðurstöðum staðsetningarsláar">
+
 <!ENTITY defaultSearchEngine.label             "Sjálfgefin leitarvél">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Veldu sjálfgefna leitarvél sem er notuð fyrir staðsetningarslá og leitarslá">

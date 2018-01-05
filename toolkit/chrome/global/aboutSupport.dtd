@@ -154,6 +154,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.intlTitle "Alþjóðavæðing og þýðingar">
 <!ENTITY aboutSupport.intlAppTitle "Stillingar forrits">
+<!ENTITY aboutSupport.intlLocalesRequested "Umbeðin tungumál">
 <!ENTITY aboutSupport.intlLocalesAvailable "Tiltæk tungumál">
 <!ENTITY aboutSupport.intlLocalesSupported "Tungumál Apps">
 <!ENTITY aboutSupport.intlLocalesDefault "Sjálfgefið tungumál">

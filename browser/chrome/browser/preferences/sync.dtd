@@ -7,6 +7,7 @@
 <!ENTITY engine.bookmarks.label     "Bókamerki">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Opna flipa">
+<!ENTITY engine.tabs.title          "Listi yfir hvað er opið á öllum tengdum tækjum">
 <!ENTITY engine.tabs.accesskey      "f">
 <!ENTITY engine.history.label       "Ferill">
 <!ENTITY engine.history.accesskey   "r">
@@ -21,10 +22,12 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Valkostir">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.title         "Almennt, friðhelgi, og öryggistillingar sem þú hefur breytt">
 <!ENTITY engine.addons.label        "Viðbætur">
 <!ENTITY engine.addons.title        "Viðbætur og þema fyrir Firefox á borðtölvu">
 <!ENTITY engine.addons.accesskey    "æ">
 <!ENTITY engine.addresses.label     "Vistföng">
+<!ENTITY engine.addresses.title     "Heimilisiföng sem þú hefur vistað (bara á borðtölvu)">
 <!ENTITY engine.addresses.accesskey "V">
 <!ENTITY engine.creditcards.label   "Greiðslukort">
 <!ENTITY engine.creditcards.title   "Nöfn, númer og gildistími (aðeins á borðtölvu)">
