@@ -217,7 +217,7 @@
 <!ENTITY event.to.accesskey                               "р">
 <!ENTITY task.to.label                                    "Крайна дата:" >
 <!ENTITY task.to.accesskey                                "й">
-<!ENTITY task.status.label                                "Статус:" >
+<!ENTITY task.status.label                                "Състояние:" >
 <!ENTITY task.status.accesskey                            "у">
 <!ENTITY event.repeat.label                               "Повторение:" >
 <!ENTITY event.repeat.accesskey                           "в">
