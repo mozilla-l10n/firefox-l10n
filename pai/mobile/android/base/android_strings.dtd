@@ -10,12 +10,15 @@
 <!ENTITY firstrun_privacy_subtext "Sal amchu kos sal jabchu tpaay kŕbo chapayt kjkechyiib kyoha paytum ŕ´am may salm´am ñum amum ñyak ñmwirum ñukwewuliiy nmaktem.">
 <!ENTITY firstrun_panel_title_customize "Wii jaan">
 <!ENTITY firstrun_customize_message "&brandShortName; ha mwiiy majanu.">
+<!ENTITY firstrun_bookmarks_title "Chkjkech">
 <!ENTITY firstrun_bookmarks_message "Chapayt janmirabhay, jibok yok ñwak tuubkajanuhak yoyik">
 <!ENTITY firstrun_bookmarks_subtext "Chapayt ñmŕmeek ch\&apos; chkwawuhak ee chkjkeech yakuhak yoom myok.">
 <!ENTITY firstrun_data_title "Chapayt">
 <!ENTITY firstrun_data_message "Chapayt chpay, chaterabum chkwach">
 <!ENTITY firstrun_data_subtext2 "Chpayt tñurch ha mtubpach web hal ñmwak.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Mnmakuhak mnamaan.">
+<!ENTITY firstrun_sync_subtext2 "Sync ham mtrchech chapayt ŕkiru ee, chŕ amu, ee chapayt &brandShortName; hal cchmch kwaha paytum; ñwak chapayt dipositivhal mchkahaya.">
 <!ENTITY firstrun_signin_message "Sak mtblichka, mnamanka">
 <!ENTITY firstrun_signin_button "Sync mjaabka">
 <!ENTITY  onboard_start_button_browser "Chapayt mŕmee mnamaan">
@@ -24,6 +27,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Ñukpachuha">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Ch chkwuchu maat ñul kpeeb">
 
 
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
