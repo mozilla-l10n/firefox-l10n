@@ -93,13 +93,18 @@
 <!ENTITY bookmark_folder_one_item "1 chapayt">
 <!ENTITY bookmark_folder_updated "Ch chkwachu chajanch">
 <!ENTITY bookmark_parent_folder "Ch chkwachu kajan">
+<!ENTITY bookmark_add_folder "Ch chkwachu jkaay yoobch">
 
+<!ENTITY reader_saved_offline "Sal chpachtem chkwak">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Jkaayum tyak">
 
 <!ENTITY history_today_section "baam">
 <!ENTITY history_yesterday_section "tiñee">
+<!ENTITY history_week_section3 "Naam 7 ñikakwaach">
+<!ENTITY history_older_section3 "Jla 6 chayoom">
 
 <!ENTITY search "ŕmeech">
 <!ENTITY reload "jukewu">
@@ -111,8 +116,10 @@
 <!ENTITY edit_mode_cancel "tubspach">
 
 <!ENTITY close_tab "juŕumee ŕ´am">
+<!ENTITY one_tab "1 ch chwachu">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; ch chkwachu te">
 <!ENTITY new_tab_opened "Yuŕumee jkaar sol">
 <!ENTITY new_private_tab_opened "yuŕumee paychak ŕbooch jkaay soolkwa">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -126,14 +133,18 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Ŕwaar akiŕ – &formatS;">
 
 <!ENTITY settings "chajaanch">
 <!ENTITY settings_title "chajaanch">
+<!ENTITY pref_category_general "Ka te">
+<!ENTITY pref_category_general_summary3 "Maat yak , kwawchu, ch chkwaachu maat lul peeb">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Paa kwaaw">
+<!ENTITY pref_category_language_summary "Sal m\&apos;amu kwaawch u mujiñch">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
