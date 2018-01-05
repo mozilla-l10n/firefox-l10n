@@ -63,6 +63,7 @@
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "ყველას უარყოფა">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "მოწვევაზე უარი, ღონისძიების ჩატარების ყველა თარიღისთვის">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "უარყოფა">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "შემხვედრი შემოთავაზების უარყოფა">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "წაშლა">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "კალენდრიდან წაშლა">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "ვრცლად…">
