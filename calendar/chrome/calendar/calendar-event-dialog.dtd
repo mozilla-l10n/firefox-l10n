@@ -25,21 +25,25 @@
 <!ENTITY newevent.status.needsaction.label        "Ekintza beharrean" >
 <!ENTITY newevent.status.inprogress.label         "Prozesuan" >
 <!ENTITY newevent.status.completed.label          "Noiz osatuko" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; osatua">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
+<!ENTITY event.attendees.notify.label                "Jakinarazi gonbidatuak">
+<!ENTITY event.attendees.notify.accesskey            "f">
 <!ENTITY event.attendees.notifyundisclosed.label     "Partaide bakoitzeko gonbidapen bana">
-
+<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Aukera honek partaide bakoitzeko gonbidapen bana bidaltzen du. Gonbidapen bakoitzak gonbidatutako hartzailearen helbidea dauka soilik eta beste partaideak ez dira aditzera emango.">
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Ezgaitu kontraproposamenak">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Adierazi ez duzula kontraproposamenik onartuko">
 
 <!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
@@ -52,8 +56,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Berria">
 <!ENTITY  event.menu.item.new.accesskey                   "B">
 <!ENTITY  event.menu.item.new.event.label                 "Gertaera">
@@ -66,24 +70,24 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "k">
 <!ENTITY  event.menu.item.close.label                     "Itxi">
 <!ENTITY  event.menu.item.close.accesskey                 "t">
+
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.save.label                      "Gorde">
 <!ENTITY  event.menu.item.save.accesskey                  "r">
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.saveandclose.label              "Gorde eta itxi">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "x">
-
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Ezabatu…">
 <!ENTITY  event.menu.item.delete.accesskey                "E">
@@ -120,8 +124,8 @@
 
 <!ENTITY  event.menu.options.label                            "Aukerak">
 <!ENTITY  event.menu.options.accesskey                        "A">
-
-
+<!ENTITY  event.menu.options.attendees.label                  "Gonbidatu partaideak…">
+<!ENTITY  event.menu.options.attendees.accesskey              "I">
 <!ENTITY  event.menu.options.timezone2.label                  "Erakutsi ordu-zonak">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Lehentasuna">
@@ -149,22 +153,26 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Libre">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
-
+<!ENTITY event.invite.attendees.label                     "Gonbidatu partaideak…">
+<!ENTITY event.invite.attendees.accesskey                 "I">
 <!ENTITY event.email.attendees.label                      "Partaide guztientzat e-posta idatzi…">
 <!ENTITY event.email.attendees.accesskey                  "g">
 <!ENTITY event.email.tentative.attendees.label            "Erabaki gabeko partaideei e-posta idatzi…">
 <!ENTITY event.email.tentative.attendees.accesskey        "E">
-
-
-
+<!ENTITY event.remove.attendees.label2                    "Ezabatu gonbidatu guztiak">
+<!ENTITY event.remove.attendees.accesskey                 "r">
+<!ENTITY event.remove.attendee.label                      "Ezabatu gonbidatua">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
-
+<!ENTITY  event.toolbar.save.label2                       "Gorde">
+<!ENTITY  event.toolbar.saveandclose.label                "Gorde eta itxi">
 <!ENTITY  event.toolbar.delete.label                      "Ezabatu">
 <!ENTITY  event.toolbar.attendees.label                   "Gonbidatu partaideak">
 <!ENTITY  event.toolbar.privacy.label                     "Pribatutasuna">
 
-
+<!ENTITY  event.toolbar.save.tooltip2                     "Gorde">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Gorde eta itxi">
 <!ENTITY  event.toolbar.delete.tooltip                    "Ezabatu">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Gonbidatu partaideak">
 <!ENTITY  event.toolbar.attachments.tooltip               "Gehitu eranskinak">
@@ -172,6 +180,7 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Aldatu lehentasuna">
 <!ENTITY  event.toolbar.status.tooltip                    "Aldatu egoera">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Aldatu libre/lanpetuta denbora">
+
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -180,12 +189,7 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
-
-
-
-
 <!-- Main page -->
-
 <!ENTITY event.title.textbox.label                        "Izenburua:" >
 <!ENTITY event.title.textbox.accesskey                    "I">
 <!ENTITY event.location.label                             "Helbidea:" >
@@ -195,24 +199,14 @@
 <!ENTITY event.categories.textbox.label                   "Gehitu kategoria berria" >
 <!ENTITY event.calendar.label                             "Egutegia:" >
 <!ENTITY event.calendar.accesskey                         "E">
-
-
 <!ENTITY event.alldayevent.label                          "Egun osoko gertaera" >
 <!ENTITY event.alldayevent.accesskey                      "o">
-
-
-
-
-
-
 <!ENTITY task.to.label                                    "Amaiera data:" >
 <!ENTITY task.to.accesskey                                "d">
 <!ENTITY task.status.label                                "Egoera:" >
 <!ENTITY task.status.accesskey                            "E">
 <!ENTITY event.repeat.label                               "Errepikatu:" >
 <!ENTITY event.repeat.accesskey                           "r">
-
-
 <!ENTITY event.reminder.label                             "Gogorarazlea:" >
 <!ENTITY event.reminder.accesskey                         "G">
 <!ENTITY event.description.label                          "Deskribapena:" >
@@ -229,8 +223,6 @@
 <!ENTITY event.attachments.popup.open.accesskey           "I" >
 <!ENTITY event.attachments.popup.removeAll.label          "Kendu denak" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-
-
 <!ENTITY event.url.label                                  "Erlazionatutako lotura:" >
 <!ENTITY event.priority2.label                            "Lehentasuna:">
 
@@ -251,8 +243,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Denbora honela:">
 <!ENTITY event.statusbarpanel.privacy.label               "Pribatutasuna:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Errepikatzea editatu">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Ez da errepikatzen">
@@ -301,6 +293,7 @@
 <!ENTITY event.recurrence.every.label                        "Maiztasuna:" >
 <!ENTITY repeat.units.years.both                             "Urte" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Errepikatze-aldia" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -308,7 +301,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "urtarrila" >
@@ -358,8 +350,8 @@
 <!ENTITY event.recurrence.appointments.label            "Hitzordu" >
 <!ENTITY event.repeat.until.label                       "Noiz arte errepikatu:" >
 <!ENTITY event.recurrence.preview.label                 "Aurrebista">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Gonbidatu partaideak">
 <!ENTITY event.organizer.label                  "Antolatzailea">
 <!ENTITY event.freebusy.suggest.slot            "Denbora-tartea proposatu:">
@@ -379,13 +371,13 @@
 <!ENTITY event.attendee.usertype.group          "Taldea">
 <!ENTITY event.attendee.usertype.resource       "Baliabidea">
 <!ENTITY event.attendee.usertype.room           "Gela">
+<!ENTITY event.attendee.usertype.unknown        "Ezezaguna">
 
 <!-- Timezone dialog -->
-
 <!ENTITY timezone.title.label            "Zehaztu ordu-zonaldea">
 <!ENTITY event.timezone.custom.label     "Ordu-zona gehiago…">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Orokorra">
 <!ENTITY read.only.title.label           "Izenburua:">
 <!ENTITY read.only.event.start.label     "Hasiera-data:">
@@ -402,7 +394,6 @@
 <!ENTITY read.only.tentative.label       "Saiatuko naiz parte hartzen">
 <!ENTITY read.only.needs.action.label    "Beranduago baieztatuko dut">
 <!ENTITY read.only.reminder.label        "Gogoratu:">
-
 <!ENTITY read.only.attendees.label       "Partaideak">
 <!ENTITY read.only.description.label     "Azalpena">
 <!ENTITY read.only.link.label            "Erlazionatutako lotura">
