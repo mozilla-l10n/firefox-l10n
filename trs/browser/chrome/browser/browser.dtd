@@ -82,6 +82,13 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -89,6 +96,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY fullScreenMinimize.tooltip "Nagi'iaj lij">
+<!ENTITY fullScreenRestore.tooltip "Dunaj daj rû' gaj">
+<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -100,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -108,6 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
+<!ENTITY closeWindow.label "Nàrrun' Window">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.accesskey "B">
@@ -116,18 +129,40 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
+<!ENTITY backCmd.label                "Ne' rukuu">
+<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backButton.tooltip           "Naniko' 'ngo pagina">
+<!ENTITY forwardCmd.label             "Ne'ñaan">
+<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardButton.tooltip        "Gachin' a'ngo pagina">
+<!ENTITY reloadCmd.label              "Nàgi'iaj naka">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY stopCmd.label                "Duniikin'">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY printButton.label            "Nari' ña du'ua">
+<!ENTITY printButton.tooltip          "Giri' ña du'ua pagina na">
 
 
 
 
 
 
+<!ENTITY urlbar.popupBlocked.tooltip             "Gi'iaj blokeandot nej pop-ups guenda sitio web na.">
 
+
+
+<!ENTITY searchItem.title             "Nana'ui'">
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "Riñan gayi'ij">
 
+<!ENTITY bookmarksButton.label          "Sa raj sun nichrò' doj">
+<!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Sa raj sun nichrò' doj">
+<!ENTITY bookmarksMenuButton2.label         "Menu raj sun nichrò doj">
+<!ENTITY bookmarksMenuButton.other.label    "A'ngo sa raj sun nichrò' doj">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -136,6 +171,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 
 
 
@@ -145,6 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+
 
 
 
@@ -159,6 +197,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
+
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
@@ -279,6 +319,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 
 <!-- Strings for connection state warnings. -->
 
@@ -295,6 +338,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -316,13 +360,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      optimized for touch devices. -->
 
 
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
 
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
@@ -342,6 +386,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+
 
 
 

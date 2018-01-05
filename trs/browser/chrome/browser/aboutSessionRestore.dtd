@@ -3,28 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "Gayi'ì nakà ñun sesiôn">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Si ga'man ruhuât si 'iaj aga' na">
-<!ENTITY restorepage.problemDesc    "&brandShortName; 'ì nayi'nïn nej si ventanânt nga nej rakïj ñanj. Si guruhuaj ni 'ngo ventanâ na'nïnjt akuan' nikaj gakïn'ïn.">
-<!ENTITY restorepage.tryThis        "Ga'ue gayi'ìt:">
-<!ENTITY restorepage.restoreSome    "Nadure' 'ngo huìj rakïj ñanj anïn ruhuât sisi huej 'iaj sun a'nan'">
-<!ENTITY restorepage.startNew       "Gayi'ì nga a'ngô sesiôn nakàa">
 
-<!ENTITY restorepage.tryagainButton "Dunaj daj rû' gaj">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Ganarun">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Dunaj daj rû' gaj">
 <!ENTITY restorepage.listHeader     "Ventâna ni rakïj ñanj">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Bentâna &#037;S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
 
 <!ENTITY welcomeback2.restoreButton  "¡Ne'ian!">
 <!ENTITY welcomeback2.restoreButton.access "L">
@@ -35,14 +29,14 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; hua yugui guendâ gan'an ne' ñaan">
 
 <!ENTITY welcomeback2.restoreSome.label "Man da'aj man nachrunt daj rû' gaj">
+
+
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Daran' chre nej sa nagi'iáj ni nadunïnjt ni nare'e ma riña aga' na. Nanìka huaj dà' si huaj nga gayi'ìt">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
