@@ -27,7 +27,7 @@
 <!ENTITY  font.langGroup.japanese                 "Японски">
 <!ENTITY  font.langGroup.trad-chinese             "Традиционен китайски (Тайван)">
 <!ENTITY  font.langGroup.simpl-chinese            "Опростен китайски">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Традиционен китайски (Хонг-Конг)">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Традиционен китайски (Хонг Конг)">
 <!ENTITY  font.langGroup.korean                   "Корейски">
 <!ENTITY  font.langGroup.cyrillic                 "Кирилица">
 <!ENTITY  font.langGroup.el                       "Гръцки">

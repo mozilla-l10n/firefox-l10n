@@ -19,7 +19,7 @@
 <!ENTITY linkText.accesskey         "Т">
 <!ENTITY activeLinkText.label       "Текст на активна връзка">
 <!ENTITY activeLinkText.accesskey   "а">
-<!ENTITY visitedLinkText.label      "Текст на посетени връзка">
+<!ENTITY visitedLinkText.label      "Текст на посетена препратка">
 <!ENTITY visitedLinkText.accesskey  "п">
 <!ENTITY background.label           "Фон:">
 <!ENTITY background.accesskey       "Ф">

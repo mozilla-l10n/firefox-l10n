@@ -16,7 +16,7 @@
 <!ENTITY ButtonName.accesskey "И">
 <!ENTITY ButtonValue.label "Стойност:">
 <!ENTITY ButtonValue.accesskey "С">
-<!ENTITY tabIndex.label "Индекс на табулатора:">
+<!ENTITY tabIndex.label "Отместване при табулиране:">
 <!ENTITY tabIndex.accesskey "И">
 <!ENTITY ButtonDisabled.label "Неактивен">
 <!ENTITY ButtonDisabled.accesskey "Н">

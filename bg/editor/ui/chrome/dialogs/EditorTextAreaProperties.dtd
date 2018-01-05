@@ -16,7 +16,7 @@
 <!ENTITY TextAreaReadOnly.accessKey "ч">
 <!ENTITY TextAreaDisabled.label "Неактивен">
 <!ENTITY TextAreaDisabled.accessKey "Н">
-<!ENTITY TextAreaTabIndex.label "Индекс на табулатор:">
+<!ENTITY TextAreaTabIndex.label "Отместване при табулиране:">
 <!ENTITY TextAreaTabIndex.accessKey "И">
 <!ENTITY TextAreaAccessKey.label "Клавиш за достъп:">
 <!ENTITY TextAreaAccessKey.accessKey "д">
