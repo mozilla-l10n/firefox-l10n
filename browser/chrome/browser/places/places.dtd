@@ -79,10 +79,10 @@
 <!ENTITY col.name.label          "სახელი">
 <!ENTITY col.tags.label          "ჭდეები">
 <!ENTITY col.url.label           "მისამართი">
-<!ENTITY col.mostrecentvisit.label "ხშირად მონახულებული">
-<!ENTITY col.visitcount.label    "მონახულებები">
+<!ENTITY col.mostrecentvisit.label "ბოლო მონახულება">
+<!ENTITY col.visitcount.label    "ნახვები">
 <!ENTITY col.description.label   "აღწერილობა">
-<!ENTITY col.dateadded.label     "დამატებული">
+<!ENTITY col.dateadded.label     "დამატების თარიღი">
 <!ENTITY col.lastmodified.label  "ბოლო ცვლილება">
 
 <!ENTITY historySearch.placeholder  "ძიება ისტორიაში">
