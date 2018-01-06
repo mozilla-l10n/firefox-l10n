@@ -145,19 +145,26 @@
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Paa kwaaw">
 <!ENTITY pref_category_language_summary "Sal m\&apos;amu kwaawch u mujiñch">
+<!ENTITY pref_browser_locale "Sal amchu kwaawu">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "Sistema kur wiiw wiyha">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "&brandShortName; ah chmiich">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Ŕkirchi">
+<!ENTITY overlay_share_bookmark_btn_label_already "Kur ŕkirchu hal yok">
+<!ENTITY overlay_share_send_other "Dispositiv tubwiyum mkwiim">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; ham msol">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
