@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Lähetä linkki laitteeseen">
 <!ENTITY  sendLinkToDevice.accesskey         "L">
 <!ENTITY  sendToDeviceFeedback.label         "Lähetetty!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Jonossa (ei verkkoyhteyttä)">
 <!ENTITY  moveToNewWindow.label              "Siirrä uuteen ikkunaan">
 <!ENTITY  moveToNewWindow.accesskey          "S">
 <!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
@@ -231,6 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Olet estänyt pysyvän tallennustilan käytön tältä sivustolta.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Olet estänyt ponnahdusikkunat tältä sivustolta.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
 
