@@ -7,6 +7,7 @@
 <!ENTITY engine.bookmarks.label     "Бетбелгілер">
 <!ENTITY engine.bookmarks.accesskey "т">
 <!ENTITY engine.tabs.label2         "Ашық беттер">
+<!ENTITY engine.tabs.title          "Барлық синхрондалған құрылғыларда ашылған нәрселер тізімі">
 <!ENTITY engine.tabs.accesskey      "т">
 <!ENTITY engine.history.label       "Тарих">
 <!ENTITY engine.history.accesskey   "и">
@@ -22,6 +23,7 @@
 <!ENTITY engine.prefs.accesskey     "а">
 <!ENTITY engine.prefs.title         "Сіз өзгерткен негізгі, жекелік және қауіпсіздік баптаулары">
 <!ENTITY engine.addons.label        "Қосымшалар">
+<!ENTITY engine.addons.title        "Firefox жұмыс үстелі үшін кеңейтулер және темалар">
 <!ENTITY engine.addons.accesskey    "о">
 <!ENTITY engine.addresses.label     "Адрестер">
 <!ENTITY engine.addresses.accesskey "е">
