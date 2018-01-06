@@ -4,6 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "ხელმოწერები არხზე">
+<!ENTITY learnMore.label             "იხილეთ ვრცლად, არხების შესახებ">
 
 <!ENTITY feedTitle.label             "სათაური:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -11,6 +12,7 @@
 <!ENTITY feedLocation.label          "არხის URL:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "მიუთითეთ დასამატებელი არხის მართებული URL">
+<!ENTITY feedLocation2.placeholder   "მიუთითეთ არხის მართებული URL">
 <!ENTITY locationValidate.label      "შემოწმება">
 <!ENTITY validateText.label          "მისამართების შემოწმების ჩართვა.">
 
@@ -18,6 +20,8 @@
 <!ENTITY feedFolder.accesskey        "S">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "ახალი სტატიების შემოწმება ყოველ ">
+<!ENTITY biffStart.accesskey         "ს">
 
 <!ENTITY quickMode.label             "სტატიის ანოტაციის ჩვენება ვებგვერდის ჩატვირთვის ნაცვლად">
 <!ENTITY quickMode.accesskey         "h">
