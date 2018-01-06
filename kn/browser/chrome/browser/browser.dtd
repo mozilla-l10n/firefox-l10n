@@ -233,7 +233,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ನೀವು ಅಧಿಸೂಚನೆಗಳನ್ನು ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ಪರ್‌ಸಿಸ್‌ಟೆಂಟ್ ಶೇಖರಣೆಯನ್ನು ನೀವು ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 
+<!ENTITY urlbar.popupBlocked.tooltip             "ನೀವು ಪಾಪ್-ಅಪ್ ಗಳನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "ಕ್ಯಾನ್ವಸ್ ದತ್ತಾಂಶ ಶೇಖರಿಸುವುದನ್ನು ಈ ಜಾಲತಾಣಕ್ಕೆ ನೀವು ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 
@@ -389,6 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಬೇಕೆ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ಸಿಂಕ್‌ನ ಆದ್ಯತೆಗಳು">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.">
+<!ENTITY appMenuRemoteTabs.unverified.label "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಬೇಕಾಗಿದೆ.">
 <!ENTITY appMenuRemoteTabs.signin.label "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ಸಾಧನಗಳನ್ನು ನಿರ್ವಹಿಸು…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳ ಬದಿಪಟ್ಟಿಯನ್ನು ನೋಡಿ">
@@ -812,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "ಸಿಂ ಮಾಡಿದ ಹಾಳೆಗಳಿಲ್ಲ…ಇನ್ನೂ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಬೇಕೆ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಬೇಕಾಗಿದೆ.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "ಯಾವುದೆ ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳಿಲ್ಲ">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ಆದ್ಯತೆಗಳು ಅನ್ನು ತೆರೆ">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -985,6 +989,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಪುನಃ ಪ್ರಾರಂಭಿಸಿ">
 
+<!ENTITY newTabControlled.header.message "ನಿಮ್ಮ ಹೊಸ ಹಾಳೆ ಬದಲಾಗಿದೆ.">
 <!ENTITY newTabControlled.keepButton.label "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸುಕೊ">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "ಸಿದ್ದತೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
@@ -995,6 +1000,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "ವಿಳಾಸದ ಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ">
 
 <!ENTITY pageAction.allowInUrlbar.label "ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ತೋರಿಸು">
+<!ENTITY pageAction.disallowInUrlbar.label "ವಿಳಾಸ ಪಟ್ಟಿಯಲ್ಲಿ ತೋರಿಸಬೇಡಿ">
+<!ENTITY pageAction.manageExtension.label "ವಿಸ್ತರಣೆಯನ್ನು ನಿರ್ವಹಿಸಿ…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ಟ್ಯಾಬ್ಅನ್ನು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು">
 <!ENTITY sendToDevice.syncNotReady.label "ಸಾಧನಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ…">
