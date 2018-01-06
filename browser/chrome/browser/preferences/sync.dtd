@@ -47,7 +47,7 @@
 <!ENTITY verifiedManage.accesskey "G">
 <!ENTITY disconnect3.label "Disconnetti…">
 <!ENTITY disconnect3.accesskey "t">
-<!ENTITY resendVerification.label "Invia di nuovo l’email di verifica">
+<!ENTITY resendVerification.label "Invia di nuovo email di verifica">
 <!ENTITY resendVerification.accesskey "n">
 <!ENTITY cancelSetup.label "Annulla configurazione">
 <!ENTITY cancelSetup.accesskey "z">
