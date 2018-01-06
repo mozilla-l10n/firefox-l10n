@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Marcaje">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label2         "File deschise">
+<!ENTITY engine.tabs.title          "O listă cu ce este deschis pe toate dispozitivele sincronizate">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Istoric">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Autentificări">
+<!ENTITY engine.logins.title        "Numele de utilizatori și parolele pe care le-ai salvat">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Opțiuni">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Preferințe">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.title         "Setările generale, de confidențialitate și securitate pe care le-ai schimbat">
 <!ENTITY engine.addons.label        "Suplimente">
+<!ENTITY engine.addons.title        "Extensii și teme pentru Firefox desktop">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "Adrese">
+<!ENTITY engine.addresses.title     "Adrese poștale salvate (doar desktop)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Carduri de credit">
+<!ENTITY engine.creditcards.title   "Nume, numere și date de expirare (doar desktop)">
 <!ENTITY engine.creditcards.accesskey "c">
 
 <!-- Device Settings -->
