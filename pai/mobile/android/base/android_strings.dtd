@@ -186,14 +186,25 @@
 <!ENTITY pref_category_vendor_summary2 "Chapayt chkwiibch, &brandShortName; ham nyaam, tkweek chknawch">
 <!ENTITY pref_category_datareporting "Chaoayt yooch">
 <!ENTITY pref_category_logins "Chnamanchu">
+<!ENTITY pref_learn_more "Ŕporaab yuk">
+<!ENTITY pref_category_installed_search_engines "Motor chŕmechu ñuk chkwachumyok">
+<!ENTITY pref_category_add_search_providers "Chk\&apos; ech chŕmeechu sal chkwaach yuk">
+<!ENTITY pref_category_search_restore_defaults "Motor chŕmechu chajanch yaŕal">
+<!ENTITY pref_search_restore_defaults "Kur sal kyoha chajanch yuk">
+<!ENTITY pref_search_restore_defaults_summary "Kur sal kyoha chajanch yuk">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "Sak wawu web jkaay sak mchmi chapayt mk\&apos; ech ha chŕmechuha mtawin kyuul ŕitum ñwak tawinchu &formatI; ich hak mtawinya.">
+<!ENTITY pref_category_advanced "Juboom">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Ch chkwachu chajanch">
+<!ENTITY pref_category_notifications "Chknabchu">
+<!ENTITY pref_category_notifications_summary "Kabyuwu baam yak, web ha baam kyakuha mtyaam">
 
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
