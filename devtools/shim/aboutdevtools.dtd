@@ -30,6 +30,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Kehitä WebExtensioneita, web workereitä, service workereitä ynnä muuta sekä jäljitä niiden virheitä Firefoxin web-työkaluilla.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
@@ -38,6 +40,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Tarkastele ja muokkaa HTML:ää, CSS:ää ja JavaScriptiä sekä jäljitä niiden virheitä työkaluilla, kuten Inspector ja Debugger.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
@@ -46,6 +50,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Firefoxin web-työkalut ovat oletusarvoisesti poissa käytöstä, jotta selain on paremmin hallittavissasi.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -59,11 +65,16 @@
 
 <!ENTITY  aboutDevtools.welcome.title "Tervetuloa käyttämään Firefoxin web-työkaluja!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Mozilla Developer Newsletter">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Saa kehittäjille suunnattuja uutisia, vinkkejä ja resursseja sähköpostiisi.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Sähköposti">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Minulle käy, että Mozilla käsittelee tietojani <a class='external' href='https://www.mozilla.org/privacy/'>tietosuojakäytännössä</a> kuvatulla tavalla.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Tilaa">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Kiitos!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut Mozillaan liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 <!ENTITY  aboutDevtools.footer.message "Haluatko enemmän kuin web-työkalut? Kokeile Firefox-selainta, joka on tehty varta vasten kehittäjiä ja nykyaikaisia työtapoja varten.">
