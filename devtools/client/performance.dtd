@@ -43,7 +43,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree "עץ קריאות">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "הדגשת פונקציות ה־JavaScript עליהן השקיע הדפדפן את הזמן הרב ביותר במהלך ההקלטה.">
 <!ENTITY performanceUI.toolbar.memory-calltree "הקצאות">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "הצגת איפה הזיכרון הוקצה במהלך ההקלטה.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "הצגת מיקום הזיכרון שהוקצה במהלך ההקלטה.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "תרשים להבות ל־JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "הצגת מחסנית הקריאות של JavaScript במהלך ההקלטה.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "תרשים להבות להקצאות">
