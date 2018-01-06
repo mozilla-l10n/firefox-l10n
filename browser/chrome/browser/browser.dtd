@@ -573,7 +573,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.label         "ფონური სურათის ნახვა">
 <!ENTITY viewBGImageCmd.accesskey     "ფ">
 <!ENTITY setDesktopBackgroundCmd.label      "სამუშაო ეკრანის ფონად გამოყენება…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "ს">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "ო">
 <!ENTITY bookmarkPageCmd2.label       "გვერდის ჩანიშვნა">
 <!ENTITY bookmarkPageCmd2.accesskey   "გ">
 <!ENTITY bookmarkThisLinkCmd.label      "ბმულის ჩანიშვნა">
@@ -596,27 +596,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.label            "ბმულის შენახვა როგორც…">
 <!ENTITY saveLinkCmd.accesskey        "მ">
 <!ENTITY saveImageCmd.label           "სურათის შენახვა როგორც…">
-<!ENTITY saveImageCmd.accesskey       "ს">
+<!ENTITY saveImageCmd.accesskey       "ნ">
 <!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც...">
-<!ENTITY saveVideoCmd.accesskey       "ვ">
+<!ENTITY saveVideoCmd.accesskey       "ნ">
 <!ENTITY saveAudioCmd.label           "აუდიოს შენახვა როგორც…">
-<!ENTITY saveAudioCmd.accesskey       "ა">
+<!ENTITY saveAudioCmd.accesskey       "ნ">
 <!ENTITY emailImageCmd.label          "სურათის გაგზავნა ელფოსტით…">
-<!ENTITY emailImageCmd.accesskey      "ს">
+<!ENTITY emailImageCmd.accesskey      "ე">
 <!ENTITY emailVideoCmd.label          "ვიდეოს გაგზავნა ელფოსტით…">
 <!ENTITY emailVideoCmd.accesskey      "ე">
 <!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა ელფოსტით…">
-<!ENTITY emailAudioCmd.accesskey      "ა">
+<!ENTITY emailAudioCmd.accesskey      "ე">
 <!ENTITY playPluginCmd.label          "ამ მოდულის ჩართვა">
 <!ENTITY playPluginCmd.accesskey      "ჩ">
 <!ENTITY hidePluginCmd.label          "ამ მოდულის დამალვა">
 <!ENTITY hidePluginCmd.accesskey      "დ">
 <!ENTITY copyLinkCmd.label            "ბმულის დაკოპირება">
-<!ENTITY copyLinkCmd.accesskey        "ბ">
+<!ENTITY copyLinkCmd.accesskey        "უ">
 <!ENTITY copyImageCmd.label           "სურათის მისამართის დაკოპირება">
 <!ENTITY copyImageCmd.accesskey       "კ">
 <!ENTITY copyImageContentsCmd.label   "სურათის დაკოპირება">
-<!ENTITY copyImageContentsCmd.accesskey  "ს">
+<!ENTITY copyImageContentsCmd.accesskey  "რ">
 <!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის დაკოპირება">
 <!ENTITY copyVideoURLCmd.accesskey    "კ">
 <!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის დაკოპირება">
