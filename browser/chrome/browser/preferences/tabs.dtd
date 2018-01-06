@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Nieuwe vensters openen in een nieuw tabblad">
 <!ENTITY newWindowsAsTabs.accesskey   "v">
 
+<!ENTITY newWindowsAsTabs2.label       "Koppelingen openen in tabbladen in plaats van nieuwe vensters">
+<!ENTITY newWindowsAsTabs2.accesskey   "v">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Waarschuwen bij het sluiten van meerdere tabbladen">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
