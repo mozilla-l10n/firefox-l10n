@@ -122,8 +122,8 @@ available. -->
 <!ENTITY offlineAppsListRemove.accesskey "ა">
 <!ENTITY offlineAppRemove.confirm        "კავშირგარეშე წვდომის მონაცემთა წაშლა">
 
-<!ENTITY certificateTab.label            "სერთიფიკატები">
-<!ENTITY certPersonal2.description       "როცა სერვერი თქვენს პირად სერთიფიკატს ითხოვს">
+<!ENTITY certificateTab.label            "სერტიფიკატები">
+<!ENTITY certPersonal2.description       "როცა სერვერი თქვენს პირად სერტიფიკატს ითხოვს">
 <!ENTITY selectCerts.auto                "თვითშერჩევა">
 <!ENTITY selectCerts.auto.accesskey      "თ">
 <!ENTITY selectCerts.ask                 "ყოველ ჯერზე კითხვა">

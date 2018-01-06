@@ -65,7 +65,7 @@
 
 <!ENTITY  securityTab           "უსაფრთხოება">
 <!ENTITY  securityTab.accesskey "უ">
-<!ENTITY  securityView.certView "სერთიფიკატის ნახვა">
+<!ENTITY  securityView.certView "სერტიფიკატის ნახვა">
 <!ENTITY  securityView.accesskey "ნ">
 <!ENTITY  securityView.unknown   "უცნობია">
 
