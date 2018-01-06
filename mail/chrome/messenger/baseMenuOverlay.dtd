@@ -28,3 +28,5 @@
 <!ENTITY aboutMenuCmd.label "O &brandShortName;u">
 <!ENTITY aboutMenuCmd.accesskey "O">
 
+<!ENTITY aboutMenuCmd2.label "O &brandFullName;u">
+<!ENTITY aboutMenuCmd2.accesskey "O">
