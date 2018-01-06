@@ -7,7 +7,7 @@
 <!ENTITY doNotDownloadImap.label "დისკზე ადგილის ეკონომიისთვის, სერვერიდან წერილების ჩამოტვირთვისა და ლოკალურად შენახვის შეზღუდვა შესაძლებელია ასაკით ან ზომით.">
 <!ENTITY allFoldersOffline.label "ამ ანგარიშის წერილების ამ კომპიუტერში შენარჩუნება">
 <!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY allFoldersOffline2.label "ყველა საქაღალდეში არსებული შეტყობინებების შენახვა ამ კომპიუტერში">
+<!ENTITY allFoldersOffline2.label "ყველა საქაღალდეში არსებული წერილების შენახვა ამ კომპიუტერში">
 <!ENTITY allFoldersOffline2.accesskey "ქ">
 <!ENTITY allFoldersOfflineNote.label "შენიშვნა: ამის შეცვლა, იმოქმედებს ანგარიშის ყველა საქაღალდეზე. ცალკეული საქაღალდის პარამეტრების გასამართად, გამოიყენეთ ღილაკი „დამატებითი…“">
 <!ENTITY offlineNotDownload.label "წერილები, რომელთა ზომა მეტია ვიდრე">

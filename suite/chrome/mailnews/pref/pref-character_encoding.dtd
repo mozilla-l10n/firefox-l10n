@@ -13,5 +13,5 @@
 <!ENTITY useMIME.accesskey               "F">
 <!ENTITY sendDefaultCharset2.label       "ტექსტის ნაგულისხმევი კოდირება:">
 <!ENTITY sendDefaultCharset2.accesskey   "ნ">
-<!ENTITY replyInDefaultCharset3.label    "როცა შესაძლებელია, ნაგულისხმევი კოდირების გამოყენება პასუხისას. (თუ არაა მონიშნული, მხოლოდ ახალი შეტყობინებები გამოიყენებს ნაგულისხმევად.)">
+<!ENTITY replyInDefaultCharset3.label    "როცა შესაძლებელია, ნაგულისხმევი კოდირების გამოყენება პასუხისას. (თუ არაა მონიშნული, მხოლოდ ახალი წერილები გამოიყენებს ნაგულისხმევად.)">
 <!ENTITY replyInDefaultCharset3.accesskey "რ">

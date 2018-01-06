@@ -86,7 +86,7 @@
 
 <!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
 <!ENTITY accountSettingsDesc.label "ეს სპეციალური ანგარიშია.  იგი პიროვნულად არავის ეკუთვნის.">
-<!ENTITY storeType.label "შეტყობინების შენახვის სახე:">
+<!ENTITY storeType.label "წერილის შენახვის სახე:">
 <!ENTITY storeType.accesskey "ხ">
 <!ENTITY mboxStore2.label "თითოეული საქაღალდე ფაილში (mbox)">
 <!ENTITY maildirStore.label "თითოეული წერილი ფაილში (maildir)">
