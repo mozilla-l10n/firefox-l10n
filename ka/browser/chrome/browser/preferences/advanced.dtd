@@ -6,14 +6,14 @@
 
 <!ENTITY generalTab.label                "ზოგადი">
 
-<!ENTITY useCursorNavigation.label       "გვერდებზე გადაადგილებისას, ყოველთვის მაჩვენებლის ღილაკების გამოყენება">
+<!ENTITY useCursorNavigation.label       "გვერდზე გადაადგილებისას, ყოველთვის მაჩვენებლის ღილაკების გამოყენება">
 <!ENTITY useCursorNavigation.accesskey   "რ">
 <!ENTITY searchOnStartTyping.label       "ტექსტის ძიება აკრეფის დაწყებისთანავე">
 <!ENTITY searchOnStartTyping.accesskey   "ტ">
 <!ENTITY useOnScreenKeyboard.label       "სენსორული კლავიატურის ჩვენება საჭიროების შემთხვევაში">
 <!ENTITY useOnScreenKeyboard.accesskey   "კ">
 
-<!ENTITY browsing.label                  "ჩვენება">
+<!ENTITY browsing.label                  "გვერდების მონახულება">
 
 <!ENTITY useAutoScroll.label             "თვითგადაადგილების გამოყენება">
 <!ENTITY useAutoScroll.accesskey         "თ">
@@ -35,11 +35,11 @@ available. -->
 
 <!ENTITY dataCollection.label            "&brandShortName; მონაცემთა აღრიცხვა და გამოყენება">
 <!ENTITY dataCollectionDesc.label        "ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რაც საჭიროა &brandShortName;-ის გასაუმჯობესებლად. ჩვენ ყოველთვის დაგეკითხებით, პირადი ინფორმაციის მიღებამდე.">
-<!ENTITY dataCollectionPrivacyNotice.label    "პირადი მონაცემების დაცვის დებულება">
+<!ENTITY dataCollectionPrivacyNotice.label    "პირადი მონაცემების დაცვის შესახებ">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;-ისთვის ნების დართვა, ავარიული დახურვების მოხსენების გასაგზავნად Mozilla-სთვის">
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;-ისთვის ნების დართვა, ავარიული დახურვის მოხსენებების გასაგზავნად Mozilla-სთვის">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "ვ">
-<!ENTITY crashReporterLearnMore.label    "შეიტყვეთ მეტი">
+<!ENTITY crashReporterLearnMore.label    "ვრცლად">
 
 <!ENTITY networkTab.label                "ქსელი">
 
@@ -128,9 +128,9 @@ available. -->
 <!ENTITY selectCerts.auto.accesskey      "თ">
 <!ENTITY selectCerts.ask                 "ყოველ ჯერზე კითხვა">
 <!ENTITY selectCerts.ask.accesskey       "ყ">
-<!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერთიფიკატების დამოწმების მოთხოვნა">
+<!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერტიფიკატების დამოწმების მოთხოვნა">
 <!ENTITY enableOCSP.accesskey            "O">
-<!ENTITY viewCerts2.label                "სერთიფიკატების ნახვა…">
+<!ENTITY viewCerts2.label                "სერტიფიკატების ნახვა…">
 <!ENTITY viewCerts2.accesskey            "ნ">
 <!ENTITY viewSecurityDevices2.label      "უსაფრთხოების მოწყობილობები…">
 <!ENTITY viewSecurityDevices2.accesskey  "მ">
@@ -143,7 +143,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "წ">
 <!ENTITY performanceSettingsLearnMore.label
-                                         "შეიტყვეთ მეტი">
+                                         "იხილეთ ვრცლად">
 <!ENTITY limitContentProcessOption.label "შიგთავსის პროცესების შეზღუდვა">
 <!ENTITY limitContentProcessOption.description
                                          "შიგთავსის დამატებით პროცესებს, ბევრი ჩანართით სარგებლობისას, შეუძლია წარმადობის გაუმჯობესება, მაგრამ ასევე გამოიყენებს მეტ მეხსიერებას.">
