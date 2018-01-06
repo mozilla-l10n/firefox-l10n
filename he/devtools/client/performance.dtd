@@ -28,7 +28,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "המאגר מלא. דגימות ישנות תעבורנה שכתוב.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "הקלטת פרופיל אינה זמינה כרגע. נא לסגור את כל חלונות הגלישה הפרטית ולנסות שוב.">
@@ -61,6 +61,7 @@
 <!ENTITY performanceUI.table.samples                  "דגימות">
 <!ENTITY performanceUI.table.function                 "פונקציה">
 <!ENTITY performanceUI.table.function.tooltip         "השם והמיקום המקורי של הפונקציה שנדגמה.">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "מספר הקצאות העצמים שנדגמו במיקום הזה.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
