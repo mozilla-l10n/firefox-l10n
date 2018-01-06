@@ -22,15 +22,26 @@
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "ახალი სტატიების შემოწმება ყოველ ">
 <!ENTITY biffStart.accesskey         "ს">
+<!ENTITY biffMinutes.label           "წუთს">
+<!ENTITY biffMinutes.accesskey       "წ">
+<!ENTITY biffDays.label              "დღეს">
+<!ENTITY biffDays.accesskey          "დ">
+<!ENTITY recommendedUnits.label      "გამომქვეყნებლის რჩევით:">
 
 <!ENTITY quickMode.label             "სტატიის ანოტაციის ჩვენება ვებგვერდის ჩატვირთვის ნაცვლად">
 <!ENTITY quickMode.accesskey         "h">
 
 <!ENTITY autotagEnable.label         "ჭდეების ავტომატურად შექმნა, &lt;კატეგორიის&gt; სახელის არხიდან">
+<!ENTITY autotagEnable.accesskey     "რ">
+<!ENTITY autotagUsePrefix.label      "წინსართი ჭდეები:">
+<!ENTITY autotagUsePrefix.accesskey  "წ">
+<!ENTITY autoTagPrefix.placeholder   "წინსართი ჭდის შეყვანა">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "დამატება">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.label     "დამოწმება">
+<!ENTITY button.verifyFeed.accesskey "მ">
 <!ENTITY button.updateFeed.label     "განახლება">
 <!ENTITY button.updateFeed.accesskey "გ">
 <!ENTITY button.removeFeed.label     "ამოღება">
