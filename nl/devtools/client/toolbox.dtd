@@ -70,7 +70,7 @@
   -  options panel and is used for settings that trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* Alleen huidige sessie, vernieuwt de pagina">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
   <!ENTITY options.enableChrome.label5    "Browserchrome- en add-on-debugging-werksets inschakelen">
@@ -144,7 +144,7 @@
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Debugger">
 
-<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+<!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Brontoewijzingen inschakelen">
 <!ENTITY options.sourceMaps.tooltip1   "Als u deze optie inschakelt, zullen bronnen in de hulpmiddelen worden toegewezen.">
