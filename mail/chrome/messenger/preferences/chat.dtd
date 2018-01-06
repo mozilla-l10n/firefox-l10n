@@ -31,6 +31,8 @@ sentence. -->
 <!ENTITY  completeNotification.label          "s pošiljateljevim imenom in predogledom sporočila">
 <!ENTITY  buddyInfoOnly.label                 "samo s pošiljateljevim imenom">
 <!ENTITY  dummyNotification.label             "brez podatkov">
+<!ENTITY  getAttention.label                  "Utripaj z gumbom opravilne vrstice">
+<!ENTITY  getAttention.accesskey              "U">
 <!ENTITY  chatSound.accesskey                 "r">
 <!ENTITY  chatSound.label                     "predvajaj zvok">
 <!ENTITY  play.label                          "Predvajaj">
