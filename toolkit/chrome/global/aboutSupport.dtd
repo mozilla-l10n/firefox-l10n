@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Canale">
 <!ENTITY aboutSupport.mediaDeviceRate "Rată">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latență">
+
+<!ENTITY aboutSupport.intlTitle "Internaționalizare și localizare">
+<!ENTITY aboutSupport.intlAppTitle "Setări aplicație">
+<!ENTITY aboutSupport.intlLocalesRequested "Limbile solicitate">
+<!ENTITY aboutSupport.intlLocalesAvailable "Limbile disponibile">
+<!ENTITY aboutSupport.intlLocalesSupported "Limbile de aplicație">
+<!ENTITY aboutSupport.intlLocalesDefault "Limba implicită">
+<!ENTITY aboutSupport.intlOSTitle "Sistem de operare">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Limbi de sistem">
+<!ENTITY aboutSupport.intlRegionalPrefs "Preferințe regionale">

@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Trimite linkul pe dispozitiv">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "Trimis!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "În așteptare (offline)">
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Marchează toate filele…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Înapoi">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Mergi cu o pagină înapoi">
 <!ENTITY forwardCmd.label             "Înainte">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Mergi cu o pagină înainte">
 <!ENTITY backForwardButtonMenu.tooltip "Clic-dreapta sau trage în jos pentru a afișa istoricul">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trage în jos pentru a afișa istoricul">
 <!ENTITY reloadCmd.label              "Reîncarcă">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Oprește">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Mergi la adresa din bara adresei">
 <!ENTITY printButton.label            "Tipărește">
@@ -231,6 +236,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ai blocat stocarea persistentă de date pentru acest site web.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Ai blocat ferestrele pop-up pentru acest site.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Ai blocat extragerea de date canvas pentru acest site.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afișează istoricul">
 
@@ -355,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizează meniul și bara de instrumente">
 <!ENTITY appMenuCustomizeExit.label "Ieși din personalizare">
 <!ENTITY appMenuCustomizeExit.tooltip "Finalizează personalizarea">
+
 <!ENTITY appMenuHistory.showAll.label "Afișează tot istoricul">
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restabilește sesiunea anterioară">
@@ -385,9 +393,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Dorești să vezi filele de pe celelalte dispozitive aici?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferințe de sincronizare">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Contul tău trebuie verificat.">
 <!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sincronizare">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionează dispozitivele…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Conectează alt dispozitiv">
 
 <!ENTITY appMenuRecentHighlights.label "Evidențieri recente">
 
@@ -564,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Setează ca fundal pentru desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Marchează această pagină">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Marchează acest link">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Marchează acest cadru">
@@ -750,6 +762,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Terminat">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Securitate site">
+
 <!ENTITY identity.connectionSecure "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
 <!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
@@ -803,12 +819,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nicio filă sincronizată…încă!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Dorești să vezi filele de pe celelalte dispozitive aici?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Contul tău trebuie verificat.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nicio filă deschisă">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele pentru &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activează sincronizarea filelor pentru a vedea o listă de file de celelalte dispozitive ale tale.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Caută în filele sincronizate">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectează alt dispozitiv">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +998,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Repornește pentru a actualiza &brandShorterName;">
 
+<!ENTITY newTabControlled.message "O extensie a schimbat pagina văzută când deschizi o filă nouă. Poți restaura setările dacă nu dorești această schimbare.">
+<!ENTITY newTabControlled.header.message "Pagina de filă nouă s-a schimbat.">
+<!ENTITY newTabControlled.keepButton.label "Păstrează modificările">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "Restaurează setările">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Acțiuni pentru pagină">
 <!ENTITY pageAction.addToUrlbar.label "Adaugă la bara de adresă">
 <!ENTITY pageAction.removeFromUrlbar.label "Elimină din bara de adresă">
+
+<!ENTITY pageAction.allowInUrlbar.label "Arată în bara de adrese">
+<!ENTITY pageAction.disallowInUrlbar.label "Nu arăta în bara de adrese">
+<!ENTITY pageAction.manageExtension.label "Gestionează extensia…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Trimite fila pe dispozitiv">
 <!ENTITY sendToDevice.syncNotReady.label "Se sincronizează dispozitivele…">
