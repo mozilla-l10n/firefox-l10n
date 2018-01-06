@@ -22,7 +22,7 @@
 <!ENTITY saveAsFileCmd.label "ფაილი…">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "ესკიზი">
-<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsDraftCmd.accesskey "ე">
 <!ENTITY saveAsTemplateCmd.label "შაბლონი">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY attachMenu.label "თანდართვა">
