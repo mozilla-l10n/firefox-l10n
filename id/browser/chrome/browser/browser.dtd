@@ -1000,6 +1000,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabControlled.message "Sebuah ekstensi telah mengubah laman yang Anda lihat ketika membuka Tab Baru. Anda dapat memulihkan setelan Anda jika tidak menginginkan perubahan ini.">
 <!ENTITY newTabControlled.header.message "Tab Baru Anda telah berubah.">
+<!ENTITY newTabControlled.keepButton.label "Simpan Perubahan">
 <!ENTITY newTabControlled.restoreButton.label "Pulihkan Setelan">
 <!ENTITY newTabControlled.restoreButton.accesskey "P">
 
