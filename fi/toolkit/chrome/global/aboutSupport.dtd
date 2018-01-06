@@ -155,3 +155,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanavia">
 <!ENTITY aboutSupport.mediaDeviceRate "Näytteenottotaajuus">
 <!ENTITY aboutSupport.mediaDeviceLatency "Viive">
+
+<!ENTITY aboutSupport.intlTitle "Internationalisointi ja lokalisointi">
+<!ENTITY aboutSupport.intlAppTitle "Sovelluksen asetukset">
+<!ENTITY aboutSupport.intlLocalesRequested "Pyydetyt aluekohtaiset asetukset">
+<!ENTITY aboutSupport.intlLocalesAvailable "Käytettävissä olevat aluekohtaiset asetukset">
+<!ENTITY aboutSupport.intlLocalesSupported "Sovelluksen aluekohtaiset asetukset">
+<!ENTITY aboutSupport.intlLocalesDefault "Oletusarvoiset aluekohtaiset asetukset">
+<!ENTITY aboutSupport.intlOSTitle "Käyttöjärjestelmä">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Järjestelmän aluekohtaiset asetukset">
+<!ENTITY aboutSupport.intlRegionalPrefs "Alueasetukset">
