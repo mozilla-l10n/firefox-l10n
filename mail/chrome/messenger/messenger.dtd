@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "부가 기능 디버거">
 <!ENTITY addonDebugCmd.accesskey "A">
+<!ENTITY debugAddonsCmd.label "부가기능 디버그">
+<!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "콘텐츠 프레임 디버거">
 <!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "오류 정보">
