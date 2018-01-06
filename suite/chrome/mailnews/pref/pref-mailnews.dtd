@@ -19,6 +19,12 @@
 <!ENTITY setDefaultFeed.label             "არხებისთვის">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
+<!ENTITY useInternalSettings.description  "&brandShortName; ფოსტისა &amp; სიახლეების გამოყენება, ბრაუზერის ბმულების გახსნისას:">
+<!ENTITY useInternalMail.label            "ფოსტა (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "სიახლეები (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "s">
+
 <!ENTITY messengerStartPage.caption       "ფოსტის საწყისი გვერდი">
 <!ENTITY enableStartPage.label            "საფოსტო სეანსის დაწყებისას სათაო გვერდის წერილების ველში ჩვენება">
 <!ENTITY enableStartPage.accesskey        "W">

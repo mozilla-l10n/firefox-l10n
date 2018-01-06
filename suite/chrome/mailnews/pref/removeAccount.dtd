@@ -2,5 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dialogTitle                  "ანგარიშის და მონაცემების წაშლა">
+<!ENTITY removeButton.label           "წაშლა">
+<!ENTITY removeButton.accesskey       "წ">
+<!ENTITY removeAccount.label          "ანგარიშის მონაცემების წაშლა">
+<!ENTITY removeAccount.accesskey      "ა">
+<!ENTITY removeAccount.desc           "წაიშლება, მხოლოდ &brandShortName;-ში დამახსოვრებული ანგარიშის მონაცემები. უშუალოდ სერვერზე არსებულ ანგარიშს, არაფერი მოუვა.">
 <!ENTITY removeDataLocalAccount.desc  "ანგარიშთან დაკავშირებული ყველა წერილის, საქაღალდისა და ფილტრის წაშლა, კომპიუტერის დისკიდან. სერვერზე არსებულ წერილებს, არ შეეხება. არ მიუთითოთ, თუ გეგმავთ მათ შენახვას, ან მოგვიანებით გამოყენებას &brandShortName;-ში.">
 <!ENTITY removeDataServerAccount.desc "ანგარიშთან დაკავშირებული ყველა წერილის, საქაღალდისა და ფილტრის წაშლა, კომპიუტერის დისკიდან. სერვერზე არსებულ წერილებს, არ შეეხება.">

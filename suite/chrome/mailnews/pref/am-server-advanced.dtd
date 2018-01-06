@@ -23,6 +23,8 @@
 <!ENTITY overrideNamespaces.label "სერვერისთვის ამ სახელთა არეების გადაფარვის ნების დართვა">
 <!ENTITY overrideNamespaces.accesskey "A">
 <!ENTITY pop3DeferringDesc.label "ანგარიშის სერვერიდან წერილების ჩამოტვირთვისას, მოცემული საქაღალდის გამოყენება მათ შესანახად:" >
+<!ENTITY accountInbox.label "ანგარიშის საფოსტო ყუთი">
+<!ENTITY accountInbox.accesskey "ფ">
 <!ENTITY deferToServer.label "'შემოსული' სხვა ანგარიშისთვის">
 <!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "სერვერის მითითება ახალი ფოსტის მიღებისას">
