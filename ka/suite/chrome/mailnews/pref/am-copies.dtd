@@ -36,12 +36,12 @@
 <!ENTITY archiveInOtherFolder.label "სხვა:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
 <!ENTITY specialFolders.label "ესკიზები, არქივები და თარგები">
-<!ENTITY keepDrafts.label "წერილების ესკიზების დასტა:">
+<!ENTITY keepDrafts2.label "ესკიზების შენახვა:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "დასტაში «ესკიზები»:">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Oსხვა:">
-<!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY draftsFolderOn.label "საქაღალდე &quot;ესკიზები&quot;:">
+<!ENTITY draftsFolderOn.accesskey "ე">
+<!ENTITY draftInOtherFolder.label "სხვა:">
+<!ENTITY draftInOtherFolder.accesskey "ხ">
 <!ENTITY keepTemplates.label "წერილთა თარგების შენახვა:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "დასტაში «თარგები»:">
