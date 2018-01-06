@@ -22,11 +22,15 @@
 <!ENTITY engine.prefsWin.accesskey  "A">
 <!ENTITY engine.prefs.label         "Asetukset">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.prefs.title         "Muuttamasi yleiset asetukset sekä tietosuoja- ja turvallisuusasetukset">
 <!ENTITY engine.addons.label        "Lisäosat">
+<!ENTITY engine.addons.title        "Firefoxin työpöytäversion laajennukset ja teemat">
 <!ENTITY engine.addons.accesskey    "i">
 <!ENTITY engine.addresses.label     "Osoitteet">
+<!ENTITY engine.addresses.title     "Tallentamasi postiosoitteet (vain työpöydällä)">
 <!ENTITY engine.addresses.accesskey "O">
 <!ENTITY engine.creditcards.label   "Luottokortit">
+<!ENTITY engine.creditcards.title   "Nimet, numerot ja vanheneminen (vain työpöydällä)">
 <!ENTITY engine.creditcards.accesskey "u">
 
 <!-- Device Settings -->
