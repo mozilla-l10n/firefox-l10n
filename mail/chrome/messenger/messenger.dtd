@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Dodatki">
 <!ENTITY addons.accesskey "D">
+<!ENTITY addonPrefs.label "Možnosti dodatka">
+<!ENTITY addonPrefs.accesskey "M">
+<!ENTITY addonPrefsUnix.label "Nastavitve dodatka">
+<!ENTITY addonPrefsUnix.accesskey "N">
+<!ENTITY addonNoPrefs.label "Ni najdenih nastavitev dodatka.">
 <!ENTITY activitymanager.label "Upravitelj dejavnosti">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Stanje klepeta">
@@ -505,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Razhroščevalnik dodatkov">
 <!ENTITY addonDebugCmd.accesskey "d">
+<!ENTITY debugAddonsCmd.label "Razhrošči dodatke">
+<!ENTITY debugAddonsCmd.accesskey "R">
 <!ENTITY tabsDebugCmd.label "Razhroščevalnik vsebinskega okvirja">
 <!ENTITY tabsDebugCmd.accesskey "v">
 <!ENTITY errorConsoleCmd.label "Konzola napak">
