@@ -541,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "ჩარჩოს ახალ ფანჯარაში გახსნა">
 <!ENTITY openFrameCmd.accesskey       "ფ">
 <!ENTITY openLinkCmdInContainerTab.label "ბმულის გახსნა ახალ სათავს ჩანართში">
-<!ENTITY openLinkCmdInContainerTab.accesskey "ს">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ვ">
 <!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ჩარჩოს ჩვენება">
 <!ENTITY showOnlyThisFrameCmd.accesskey "მ">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -594,7 +594,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.label          "ჩარჩოს ამობეჭდვა…">
 <!ENTITY printFrameCmd.accesskey      "ჭ">
 <!ENTITY saveLinkCmd.label            "ბმულის შენახვა როგორც…">
-<!ENTITY saveLinkCmd.accesskey        "ბ">
+<!ENTITY saveLinkCmd.accesskey        "მ">
 <!ENTITY saveImageCmd.label           "სურათის შენახვა როგორც…">
 <!ENTITY saveImageCmd.accesskey       "ს">
 <!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც...">
