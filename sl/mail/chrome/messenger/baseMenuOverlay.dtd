@@ -21,8 +21,10 @@
 <!ENTITY openHelp.accesskey "V">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Pomoč za &brandShortName;">
+<!ENTITY openHelpMac2.label "Pomoč za &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "O &brandShortName;u">
 <!ENTITY aboutMenuCmd.accesskey "O">
+
