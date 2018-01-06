@@ -21,6 +21,10 @@
 <!ENTITY showAlertSubject.accesskey       "u">
 <!ENTITY showAlertSender.label            "ავტორის ჩვენება">
 <!ENTITY showAlertSender.accesskey        "n">
+<!ENTITY useSystemAlert.label             "საოპერაციო სისტემის, ეკრანის შეტყობინებების გამოყენება">
+<!ENTITY useSystemAlert.accesskey         "კ">
+<!ENTITY useBuiltInAlert.label            "&brandShortName;-ს საკუთარი შეტყობინების ფანჯრების გამოყენება">
+<!ENTITY useBuiltInAlert.accesskey        "ფ">
 
 <!ENTITY showTrayIcon.label               "ხატულას ქვედა ზოლში ჩვენება">
 <!ENTITY showTrayIcon.accesskey           "t">

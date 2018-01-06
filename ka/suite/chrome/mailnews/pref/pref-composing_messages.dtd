@@ -33,6 +33,11 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "ფონი:">
 <!ENTITY bgColor.accesskey                    "B">
+<!ENTITY defaultCompose.label                 "შექმნის ნაგულისხმევი გაფორმება:">
+<!ENTITY defaultBodyText.label                "ძირითადი ტექსტი (Enter ღილაკით, ახალ ხაზზე გადატანა)">
+<!ENTITY defaultBodyText.accesskey            "ძ">
+<!ENTITY defaultParagraph.label               "პარაგრაფი (Enter ღილაკით, ახალი პარაგრაფის შექმნა)">
+<!ENTITY defaultParagraph.accesskey           "პ">
 
 <!ENTITY selectHeaderType.label               "პასუხის თავსართის ტიპის შერჩევა:">
 <!ENTITY selectHeaderType.accesskey           "e">

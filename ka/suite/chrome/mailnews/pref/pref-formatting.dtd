@@ -6,13 +6,12 @@
 <!ENTITY sendMaildesc.label           "დაფორმატებული (HTML) წერილის გაგზავნისას ადრესატებისთვის რომელთაც მისი წაკითხვა არ შეუძლია:">
 <!ENTITY askMe.label                  "დამეკითხე (საფოსტო პროგრამა დაგეხმარებათ ფორმატის არჩევში)">
 <!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "წერილის ტექსტად გარდაქმნა (ზოგი ფორმატირება შეიძლება დაიკარგოს)">
-<!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "მაინც HTML ფორმატით გაგზავნა (ზოგიერთი საფოსტო პროგრამა ამ წერილს სწორად ვერ აჩვენებს)">
-<!ENTITY sendHTML.accesskey           "S">
-<!ENTITY sendBoth.label               "ორივე - ტექსტური და HTML ფორმატით გაგზავნა (იზრდება წერილის ზომა)">
-<!ENTITY sendBoth.accesskey           "n">
-<!ENTITY override.label               "წერილების რედაქტირებისას ნებისმიერი წერილისთვის ამ პარამეტრების შეცვლა შეგიძლიათ პარამეტრების მენიუში.">
+<!ENTITY convertPlain2.label          "წერილის, ჩვეულებრივ ტექსტურ ფაილად გარდაქმნა (გაფორმება შესაძლოა დაიკარგოს)">
+<!ENTITY convertPlain2.accesskey      "ქ">
+<!ENTITY sendHTML2.label              "წერილის გაგზავნა, მხოლოდ HTML სახით (შესაძლოა, ხარვეზები ჰქონდეს ჩვენებისას)">
+<!ENTITY sendHTML2.accesskey          "ზ">
+<!ENTITY sendBoth2.label              "წერილის ორივე, HTML და ტექსტური სახით გაგზავნა (დიდი ზომის იქნება)">
+<!ENTITY sendBoth2.accesskey          "ო">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "HTML და ტექსტური დომენები">
@@ -38,3 +37,6 @@
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "დომენის სახელი @string@ მცდარია და მხედველობაში არ მიიღება. დომენის მართებული სახელები უნდა შეიცავდეს წერტილის ნიშანს '.' და სიმბოლოებს მის ორივე მხარეს.">
 
+<!-- Global auto-detect switch -->
+<!ENTITY autoDowngrade.label          "წერილის ტექსტური სახით გაგზავნა, მნიშვნელოვანი გაფორმების არარსებობისას (გადაეწერება სხვა პარამეტრებს)">
+<!ENTITY autoDowngrade.accesskey      "ლ">

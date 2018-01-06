@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "ახალი წერილის შემოწმება ყოველ ">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "წუთში">
+<!ENTITY useIdleNotifications.label "მყისიერი შეტყობინების დაშვება, წერილის მიღებისას">
+<!ENTITY useIdleNotifications.accesskey "დ">
 <!ENTITY connectionSecurity.label " კავშირის უსაფრთხოება:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "არა">
@@ -55,9 +57,9 @@
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "&quot;ურნის გასუფთავება&quot; გასვლისას">
 <!ENTITY emptyTrashOnExit.accesskey "x">
-<!ENTITY loginAtStartup.label "ახალი წერილის შემოწმება დაწყებისას"> 
+<!ENTITY loginAtStartup.label "ახალი წერილის შემოწმება დაწყებისას">
 <!ENTITY loginAtStartup.accesskey "C">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
@@ -73,8 +75,8 @@
 <!ENTITY abbreviateOn.label "სრული სახით (მაგალითად, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "შემოკლებულად (მაგალითად, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "დეტალები…">
+<!ENTITY serverDefaultCharset2.label "ტექსტის ნაგულისხმევი კოდირება:">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "ნაგულისხმები კოდირება:">
 <!ENTITY localPath.label "ლოკალური დასტა:">
 <!ENTITY localFolderPicker.label "ადგილობრივი დასტის არჩევა">
 <!ENTITY browseFolder.label "ნუსხა…">
@@ -84,3 +86,7 @@
 
 <!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
 <!ENTITY accountSettingsDesc.label "ეს სპეციალური ანგარიშია.  იგი პიროვნულად არავის ეკუთვნის.">
+<!ENTITY storeType.label "შეტყობინების შენახვის სახე:">
+<!ENTITY storeType.accesskey "ხ">
+<!ENTITY mboxStore2.label "თითოეული საქაღალდე ფაილში (mbox)">
+<!ENTITY maildirStore.label "თითოეული წერილი ფაილში (maildir)">
