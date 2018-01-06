@@ -23,4 +23,17 @@
 <!ENTITY idColumn.label "მიღების რიგი">
 
 <!--Tooltips-->
+<!ENTITY columnChooser2.tooltip "სვეტების შერჩევა საჩვენებლად">
+<!ENTITY threadColumn2.tooltip "წერილების მწკრივის ჩვენება">
 <!ENTITY fromColumn2.tooltip "ავტორის მიხედვით დალაგება">
+<!ENTITY recipientColumn2.tooltip "მიმღების მიხედვით დალაგება">
+<!ENTITY attachmentColumn2.tooltip "დანართების მიხედვით დალაგება">
+<!ENTITY subjectColumn2.tooltip "თემის მიხედვით დავალება">
+<!ENTITY dateColumn2.tooltip "თარიღის მიხედვით დავალება">
+<!ENTITY priorityColumn2.tooltip "უპირატესობის მიხედვით დალაგება">
+<!ENTITY tagsColumn2.tooltip "ჭდეებით დალაგება">
+<!ENTITY accountColumn2.tooltip "ანგარიშით დალაგება">
+<!ENTITY statusColumn2.tooltip "მდგომარეობის მიხედვით დალაგება">
+<!ENTITY sizeColumn2.tooltip "ზომით დალაგება">
+<!ENTITY junkStatusColumn2.tooltip "ჯართად მიჩნეულის დალაგება">
+<!ENTITY unreadColumn2.tooltip "წაუკითხავი წერილების რაოდენობა მწკრივში">
