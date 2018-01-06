@@ -8,7 +8,7 @@
 <!ENTITY removeAccount.label          "ანგარიშის მონაცემების წაშლა">
 <!ENTITY removeAccount.accesskey      "ა">
 <!ENTITY removeAccount.desc           "წაიშლება, მხოლოდ &brandShortName;-ში დამახსოვრებული ანგარიშის მონაცემები. უშუალოდ სერვერზე არსებულ ანგარიშს, არაფერი მოუვა.">
-<!ENTITY removeData.label             "შეტყობინების მონაცემების წაშლა">
+<!ENTITY removeData.label             "წერილის მონაცემების წაშლა">
 <!ENTITY removeData.accesskey         "მ">
 <!ENTITY removeDataChat.label         "საუბრის მონაცემების წაშლა">
 <!ENTITY removeDataChat.accesskey     "მ">
