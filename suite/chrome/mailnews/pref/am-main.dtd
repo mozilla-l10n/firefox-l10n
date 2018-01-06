@@ -39,3 +39,6 @@
 <!ENTITY smtpName.label "გამავალი სერვერი (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "ძირითადი სერვერის გამოყენება">
+
+<!ENTITY smtpServerEdit.label "SMTP სერვერის ჩასწორება…">
+<!ENTITY smtpServerEdit.accesskey "P">

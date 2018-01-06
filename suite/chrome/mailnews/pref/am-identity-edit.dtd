@@ -14,3 +14,5 @@
 
 <!ENTITY publicData.label        "საჯარო მონაცემები">
 <!ENTITY privateData.label       "პირადი მონაცემები">
+<!ENTITY identityAlias.label     "იარლიყით:">
+<!ENTITY identityAlias.accesskey "ყ">
