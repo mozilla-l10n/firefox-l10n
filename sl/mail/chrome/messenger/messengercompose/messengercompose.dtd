@@ -84,7 +84,7 @@
 <!ENTITY editRewrapCmd.label "Ponovno prelomi">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Preimenuj priponko …">
-<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.accesskey "j">
 <!ENTITY reorderAttachmentsCmd.label "Preuredi priponke …">
 <!ENTITY reorderAttachmentsCmd.accesskey "P">
 <!ENTITY reorderAttachmentsCmd.key "x">
@@ -113,6 +113,7 @@
 <!ENTITY moveAttachmentUpPanelBtn.label "Premakni gor">
 <!ENTITY moveAttachmentUpPanelBtn.accesskey "o">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Premakni skupaj">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "s">
 <!ENTITY moveAttachmentDownPanelBtn.label "Premakni dol">
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "d">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Premakni na dno">
@@ -139,6 +140,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Razvrsti izbiro od A do Ž">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Razvrsti izbiro od Ž do A">
+<!ENTITY sortAttachmentsPanelBtn.key "P">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Pogled">
@@ -317,9 +319,11 @@
 <!ENTITY delete.label "Izbriši">
 <!ENTITY delete.accesskey "b">
 <!ENTITY removeAttachment.label "Odstrani priponke">
-<!ENTITY removeAttachment.accesskey "d">
+<!ENTITY removeAttachment.accesskey "s">
 <!ENTITY renameAttachment.label "Preimenuj …">
 <!ENTITY renameAttachment.accesskey "m">
+<!ENTITY reorderAttachments.label "Preuredi priponke …">
+<!ENTITY reorderAttachments.accesskey "e">
 <!ENTITY selectAll.label "Izberi vse">
 <!ENTITY selectAll.accesskey "e">
 <!ENTITY attachFile.label "Pripni datoteke …">
