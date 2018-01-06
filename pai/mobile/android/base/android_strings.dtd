@@ -169,10 +169,23 @@
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Dispositiv jkay mkwiim">
+<!ENTITY overlay_share_no_url "Chapayt maat eyu ha kos yotemutyeeb">
+<!ENTITY overlay_share_select_device "Dispositiv myook">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Kos Firefox jabchu wuliiy dispositiiv tiblich kyom chawtem">
 
+<!ENTITY pref_category_search3 "Ŕmee">
+<!ENTITY pref_category_search_summary2 "Sal chmii, sal yaku jaan, chapyt uuch yum paa chknawch">
+<!ENTITY pref_category_accessibility "Jabch yuk">
+<!ENTITY pref_category_accessibility_summary2 "Tñurch b\&apos; obu, paa kwaawu jabu">
+<!ENTITY pref_category_privacy_short "Jabchu tpaay">
+<!ENTITY pref_category_privacy_summary4 "Chŕmeechu, trchech namanch, chapayt yoch">
+<!ENTITY pref_category_vendor_summary2 "Chapayt chkwiibch, &brandShortName; ham nyaam, tkweek chknawch">
+<!ENTITY pref_category_datareporting "Chaoayt yooch">
+<!ENTITY pref_category_logins "Chnamanchu">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
