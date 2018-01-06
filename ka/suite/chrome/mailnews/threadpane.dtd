@@ -37,3 +37,9 @@
 <!ENTITY sizeColumn2.tooltip "ზომით დალაგება">
 <!ENTITY junkStatusColumn2.tooltip "ჯართად მიჩნეულის დალაგება">
 <!ENTITY unreadColumn2.tooltip "წაუკითხავი წერილების რაოდენობა მწკრივში">
+<!ENTITY totalColumn2.tooltip "წერილების საერთო რაოდენობა მწკრივში">
+<!ENTITY readColumn2.tooltip "წაკითხულების დალაგება">
+<!ENTITY receivedColumn2.tooltip "მიღების თარიღით დალაგება">
+<!ENTITY flagColumn2.tooltip "ჩანიშნულების დალაგება">
+<!ENTITY locationColumn2.tooltip "მდებარეობის მიხედვით დალაგება">
+<!ENTITY idColumn2.tooltip "მიღების თანმიმდევრობით დალაგება">
