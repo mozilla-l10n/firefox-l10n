@@ -795,7 +795,7 @@
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "ხელმოწერა სიახლეთა ჯგუფებზე">
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
-<!ENTITY SendMessageTo.label "წერილის შდგენა -">
+<!ENTITY SendMessageTo.label "წერილის შექმნა -">
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "ელფოსტის მისამართის კოპირება">
 <!ENTITY CopyEmailAddress.accesskey "C">
