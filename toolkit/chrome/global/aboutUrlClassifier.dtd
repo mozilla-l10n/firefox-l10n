@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "ספק">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "מועד עדכון אחרון">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "מועד העדכון הבא">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "זמן נסיגה">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "מצב העדכון האחרון">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "עדכון">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "מטמון">
