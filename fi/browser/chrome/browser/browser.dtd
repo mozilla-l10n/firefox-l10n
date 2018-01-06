@@ -189,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "v">
 
 <!ENTITY backCmd.label                "Edellinen">
+<!ENTITY backCmd.accesskey            "E">
 <!ENTITY backButton.tooltip           "Siirry sivu taaksepäin">
 <!ENTITY forwardCmd.label             "Seuraava">
+<!ENTITY forwardCmd.accesskey         "e">
 <!ENTITY forwardButton.tooltip        "Siirry sivu eteenpäin">
 <!ENTITY backForwardButtonMenu.tooltip "Napsauta hiiren toisella painikkeella tai vedä alaspäin nähdäksesi sivuhistorian">
 <!ENTITY backForwardButtonMenuMac.tooltip "Vedä alaspäin nähdäksesi sivuhistorian">
 <!ENTITY reloadCmd.label              "Päivitä">
+<!ENTITY reloadCmd.accesskey          "P">
 <!ENTITY stopCmd.label                "Pysäytä">
+<!ENTITY stopCmd.accesskey            "P">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Siirry osoitepalkissa olevaan osoitteeseen">
 <!ENTITY printButton.label            "Tulosta">
@@ -233,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Olet estänyt ponnahdusikkunat tältä sivustolta.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Olet estänyt kanvaksen sisällön lukemisen tältä sivustolta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
 
@@ -570,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Aseta työpöydän taustakuvaksi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "A">
 <!ENTITY bookmarkPageCmd2.label       "Lisää sivu kirjanmerkkeihin">
+<!ENTITY bookmarkPageCmd2.accesskey   "k">
 <!ENTITY bookmarkThisLinkCmd.label      "Lisää kohde kirjanmerkkeihin">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "A">
 <!ENTITY bookmarkThisFrameCmd.label      "Lisää kehyssivu kirjanmerkkeihin">
