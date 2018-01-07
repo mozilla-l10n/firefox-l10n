@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Eliminació de les dades dels llocs">
 <!ENTITY     removingSelected.description  "Si elimineu les dades dels llocs, també s'eliminaran les galetes i el contingut web fora de línia d'aquests llocs. Això pot fer que es tanqui la sessió dels llocs web. Segur que voleu fer aquests canvis?">
-<!ENTITY     siteTree.label                "S'eliminaran les galetes de lloc web següents:">
+<!ENTITY     siteTree2.label               "S'eliminaran les galetes de lloc web següents">
