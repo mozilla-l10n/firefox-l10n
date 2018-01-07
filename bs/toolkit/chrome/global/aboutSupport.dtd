@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanali">
 <!ENTITY aboutSupport.mediaDeviceRate "Brzina">
 <!ENTITY aboutSupport.mediaDeviceLatency "Kašnjenje">
+
+<!ENTITY aboutSupport.intlTitle "Internacionalizacija &amp; lokalizacija">
+<!ENTITY aboutSupport.intlAppTitle "Postavke aplikacije">
+<!ENTITY aboutSupport.intlLocalesRequested "Zatraženi lokali">
+<!ENTITY aboutSupport.intlLocalesAvailable "Dostupni lokali">
+<!ENTITY aboutSupport.intlLocalesSupported "App lokali">
+<!ENTITY aboutSupport.intlLocalesDefault "Glavni lokal">
+<!ENTITY aboutSupport.intlOSTitle "Operativni sistem">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Sistemski lokali">
+<!ENTITY aboutSupport.intlRegionalPrefs "Regionalne postavke">
