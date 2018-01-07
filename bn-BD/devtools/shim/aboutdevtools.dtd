@@ -12,6 +12,7 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "ডেভেলপার টুল সম্বন্ধে">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
@@ -43,10 +44,14 @@
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
 
+<!ENTITY  aboutDevtools.enable.enableButton "ডেভেলপার টুল সক্রিয় করুন">
+<!ENTITY  aboutDevtools.enable.closeButton "পাতাটি বন্ধ করুন">
 
 <!ENTITY  aboutDevtools.enable.closeButton2 "এই ট্যাব বন্ধ করুন">
 
+<!ENTITY  aboutDevtools.welcome.title "Firefox ডেভেলপার টুলে স্বাগতম!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Mozilla ডেভেলপার নিউজলেটার">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
