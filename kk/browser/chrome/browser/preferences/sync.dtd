@@ -26,8 +26,10 @@
 <!ENTITY engine.addons.title        "Firefox жұмыс үстелі үшін кеңейтулер және темалар">
 <!ENTITY engine.addons.accesskey    "о">
 <!ENTITY engine.addresses.label     "Адрестер">
+<!ENTITY engine.addresses.title     "Сіз сақтаған пошта адрестері (тек жұмыс үстелі)">
 <!ENTITY engine.addresses.accesskey "е">
 <!ENTITY engine.creditcards.label   "Несиелік карталар">
+<!ENTITY engine.creditcards.title   "Аттар, сандар және мерзімі аяқталу күндері (тек жұмыс үстелі)">
 <!ENTITY engine.creditcards.accesskey "Н">
 
 <!-- Device Settings -->
