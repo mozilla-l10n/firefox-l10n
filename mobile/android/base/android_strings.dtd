@@ -7,6 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "ਮੋਜ਼ੀਲਾ, ਮੁਫ਼ਤ ਅਤੇ ਆਜ਼ਾਦ ਵੈੱਬ ਲਈ ਗ਼ੇੈਰ-ਫਾਇਦੇ ਨਾਲ ਵਚਨਬੱਧ, ਵਲੋਂ ਨਵਾਂ ਨਕੋਰ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ।">
 <!ENTITY firstrun_panel_title_privacy "ਪਰਦੇਦਾਰੀ">
 <!ENTITY firstrun_privacy_message "ਬਰਾਊਜ਼ ਇੰਝ ਕਰੋ ਕਿ ਕੋਈ ਨਾ ਵੇਖੇ">
+<!ENTITY firstrun_privacy_subtext "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨਾਲ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਤੁਹਾਡੇ ਵਲੋਂ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਟਰੈਕਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦੀ ਹੈ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਬਰਾਊਜ਼ ਕਰਨਾ ਪੂਰਾ ਕਰਨ \&apos;ਤੇ ਤੁਹਾਡੇ ਅਤੀਤ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।">
 <!ENTITY firstrun_panel_title_customize "ਕਸਟਮਾਈਜ਼">
 <!ENTITY firstrun_customize_message "&brandShortName; ਨੂੰ ਆਪਣਾ ਬਣਾਓ।">
 <!ENTITY firstrun_customize_subtext "ਐਡ-ਆਨ ਰਾਹੀਂ &brandShortName; ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ। ਇਸ਼ਤਿਹਾਰਾਂ \&apos;ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ, ਫੀਚਰ ਜੋੜੋ ਜਾਂ ਨਵਾਂ ਥੀਮ ਚੁਣੋ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਸੁਭਾਅ ਦੇ ਮੁਤਾਬਕ ਹੋਵੇ।">
@@ -850,6 +851,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "ਰੁਝਾਨ">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਅਸੀਂ ਤੁਹਾਨੂੰ ਵਧੀਆ ਲੇਖ, ਵੀਡੀਓ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਤਾਜ਼ਾ ਖੋਲ੍ਹੇ ਸਫ਼ੇ ਜਾਂ ਬੁੱਕਮਾਰਕ ਇੱਥੇ ਦਿਖਾਵਾਂਗੇ।">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
