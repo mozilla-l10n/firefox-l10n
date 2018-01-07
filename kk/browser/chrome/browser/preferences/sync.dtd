@@ -19,6 +19,7 @@
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Баптаулар">
+<!ENTITY engine.prefsWin.accesskey  "й">
 <!ENTITY engine.prefs.label         "Баптаулар">
 <!ENTITY engine.prefs.accesskey     "а">
 <!ENTITY engine.prefs.title         "Сіз өзгерткен негізгі, жекелік және қауіпсіздік баптаулары">
