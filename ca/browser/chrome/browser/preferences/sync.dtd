@@ -7,11 +7,18 @@
 <!ENTITY engine.bookmarks.label     "Adreces d'interès">
 <!ENTITY engine.bookmarks.accesskey "d">
 <!ENTITY engine.tabs.label2         "Pestanyes obertes">
+<!ENTITY engine.tabs.title          "Una llista d'allò que està obert en tots els dispositius sincronitzats">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Inicis de sessió">
+<!ENTITY engine.logins.title        "Noms d'usuari i contrasenyes que heu desat">
 <!ENTITY engine.logins.accesskey    "I">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Opcions">
 <!ENTITY engine.prefs.label         "Preferències">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Complements">
