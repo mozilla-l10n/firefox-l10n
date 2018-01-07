@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Error de càrrega de la pàgina">
 <!ENTITY retry.label "Torneu-ho a provar">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Error de connexió">
 <!ENTITY connectionFailure.longDesc "<p>Encara que el lloc sembla vàlid, el navegador no ha pogut establir-hi una connexió.</p><ul><li>Pot ser que no estigui disponible temporalment? Torneu-ho a provar més tard.</li><li>No podeu navegar per altres llocs? Comproveu la connexió del vostre ordinador a la xarxa.</li><li>L'ordinador està protegit amb un tallafoc o servidor intermediari? Una configuració incorrecta pot interferir amb la navegació web.</li></ul>">
@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>L'adreça proporcionada no té un format reconegut. Comproveu si a la barra d'ubicació hi ha cap error i torneu-ho a provar.</p>">
 
 <!ENTITY netInterrupt.title "S'ha interromput la transferència de dades">
-<!ENTITY netInterrupt.longDesc "<p>El navegador s'ha connectat amb èxit, però la connexió s'ha interromput mentre es transferia informació. Torneu-ho a provar.</p><ul><li>Podeu navegar per altres llocs web? Comproveu la connexió de l'ordinador a la xarxa.</li><li>Encara teniu problemes? Demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>El navegador s'ha connectat correctament, però la connexió s'ha interromput mentre es transferia informació. Torneu-ho a provar.</p><ul><li>Podeu navegar per altres llocs web? Comproveu la connexió de l'ordinador a la xarxa.</li><li>Encara teniu problemes? Demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
 
 <!ENTITY notCached.title "El document ha caducat">
 <!ENTITY notCached.longDesc "<p>No s'ha trobat el document sol·licitat a la memòria cau del navegador.</p><ul><li>Per precaució el navegador no tornarà a sol·licitar el document al servidor automàticament.</li><li>Feu clic a Prova una altra vegada per tornar a sol·licitar el document al lloc web.</li></ul>">

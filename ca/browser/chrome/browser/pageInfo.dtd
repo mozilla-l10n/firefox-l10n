@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Demana-m'ho sempre">
 <!ENTITY  permAllow             "Permet">
 <!ENTITY  permAllowSession      "Permet durant la sessió">
+<!ENTITY  permHide              "Amaga">
 <!ENTITY  permBlock             "Bloca">
 <!ENTITY  permissionsFor        "Permisos per:">
 <!ENTITY  permPlugins           "Activar els connectors">
