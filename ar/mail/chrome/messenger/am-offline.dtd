@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "لتوفير مساحة القرص، يمكن أن يكون تنزيل الرسائل من الخادوم والاحتفاظ بنسخ محلية منها مقيّدًا بحجمها أو عمرها.">
 <!ENTITY allFoldersOffline.label "احتفظ برسائل هذا الحساب على الحاسوب">
 <!ENTITY allFoldersOffline.accesskey "س">
+<!ENTITY allFoldersOffline2.label "احتفظ بالرسائل في كل مجلدات هذا الحساب على الحاسوب">
+<!ENTITY allFoldersOffline2.accesskey "ح">
+<!ENTITY allFoldersOfflineNote.label "ملاحظة: يؤثر هذا التغيير على كل مجلدات هذا الحساب. لضبط كل مجلد على حدة استخدم زر ”متقدم…“.">
 <!ENTITY offlineNotDownload.label "الرسائل الأكبر من">
 <!ENTITY offlineNotDownload.accesskey "ئ">
 <!ENTITY autosyncNotDownload.label "لا تنزل الرسائل الأكبر من">
