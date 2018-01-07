@@ -20,6 +20,15 @@
 
 <!ENTITY dnsNotFound.pageTitle "No s'ha trobat el servidor">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Tenim problemes per trobar aquest lloc.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Si l'adreça és correcta, podeu provar aquestes tres coses:</strong>
+<ul>
+  <li>Torneu-ho a provar més tard.</li>
+  <li>Comproveu la vostra connexió a la xarxa.</li>
+  <li>Si esteu connectat a través d'un tallafoc, comproveu que el &brandShortName; tingui permís per accedir al web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Comproveu les majúscules i minúscules del nom del fitxer i qualsevol altre error que s'hagi produït en teclejar.</li> <li>Comproveu que el fitxer no s'hagi mogut, canviat de nom o eliminat.</li> </ul>">
@@ -35,7 +44,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Obre la pàgina d'inici de sessió a la xarxa">
 
+<!ENTITY malformedURI.pageTitle "L'URL no és vàlid">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Aquesta adreça no sembla correcta.">
 
 <!ENTITY netInterrupt.title "S'ha interromput la connexió">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
