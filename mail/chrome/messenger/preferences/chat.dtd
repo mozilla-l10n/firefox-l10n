@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "باسم المرسل و معاينة للرسالة">
 <!ENTITY  buddyInfoOnly.label                 "باسم المرسل فقط">
 <!ENTITY  dummyNotification.label             "بدون أي بيانات">
+<!ENTITY  getAttention.label                  "ألمع عنصر شريط المهام">
+<!ENTITY  getAttention.accesskey              "م">
+<!ENTITY  getAttentionMac.label               "حرك أيقونة اللوحة">
+<!ENTITY  getAttentionMac.accesskey           "و">
 <!ENTITY  chatSound.accesskey                 "ع">
 <!ENTITY  chatSound.label                     "اعزف صوتًا">
 <!ENTITY  play.label                          "شغّل">
@@ -43,11 +47,18 @@ sentence. -->
 <!ENTITY  browse.accesskey                    "ف">
 
 <!ENTITY messageStyleTab.title             "أنماط الرسائل">
+<!ENTITY messageStylePreview.label         "المعاينة:">
 <!ENTITY messageStyleTheme.label           "السمة:">
 <!ENTITY messageStyleTheme.accesskey       "س">
 <!ENTITY messageStyleThunderbirdTheme.label "ثنْدَربِرد">
+<!ENTITY messageStyleBubblesTheme.label    "فقاعات">
+<!ENTITY messageStyleDarkTheme.label       "داكن">
+<!ENTITY messageStylePaperSheetsTheme.label "صفحات ورقية">
+<!ENTITY messageStyleSimpleTheme.label     "بسيط">
+<!ENTITY messageStyleDefaultTheme.label    "المبدئي">
 <!ENTITY messageStyleVariant.label         "التنويعة:">
 <!ENTITY messageStyleVariant.accesskey     "ع">
 <!ENTITY messageStyleShowHeader.label      "اعرض الترويسة">
 <!ENTITY messageStyleShowHeader.accesskey  "ت">
 <!ENTITY messageStyleNoPreview.title       "لا معاينة متوفرة">
+<!ENTITY messageStyleNoPreview.description "ليست هذه السمة صحيحة أو ربما غير متاحة حاليًا (إضافة معطلة، صنعتها بنفسك، …).">

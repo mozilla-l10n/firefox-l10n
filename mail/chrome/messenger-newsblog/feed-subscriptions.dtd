@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "مسار التلقيمة:">
 <!ENTITY feedLocation.accesskey      "س">
 <!ENTITY feedLocation.placeholder    "أدخل مسار تلقيمات سليم لإضافته">
+<!ENTITY feedLocation2.placeholder   "أدخل مسار تلقيمات سليم">
 <!ENTITY locationValidate.label      "الصلاحية">
 <!ENTITY validateText.label          "تحقق من الصلاحية واجلب مسارا سليما.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "أضِف">
 <!ENTITY button.addFeed.accesskey    "ض">
+<!ENTITY button.verifyFeed.label     "تحقق">
+<!ENTITY button.verifyFeed.accesskey "ح">
 <!ENTITY button.updateFeed.label     "حدّث">
 <!ENTITY button.updateFeed.accesskey "ح">
 <!ENTITY button.removeFeed.label     "احذف">
