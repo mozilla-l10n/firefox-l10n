@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "ਐਡ-ਆਨ ਮੈਨੇਜਰ">
 
 <!ENTITY search.placeholder                   "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ ਕਰੋ">
+
+<!ENTITY search.placeholder2                  "addons.mozilla.org ਉੱਤੇ ਖੋਜੋ">
 <!ENTITY search.buttonlabel                   "ਖੋਜੋ">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->

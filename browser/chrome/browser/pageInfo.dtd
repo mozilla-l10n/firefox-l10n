@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "ਹਮੇਸ਼ਾ ਪੁੱਛੋ">
 <!ENTITY  permAllow             "ਮਨਜ਼ੂਰ">
 <!ENTITY  permAllowSession      "ਸ਼ੈਸ਼ਨ ਲਈ ਮਨਜ਼ੂਰ ਕਰੋ">
+<!ENTITY  permHide              "ਲੁਕਾਓ">
 <!ENTITY  permBlock             "ਪਾਬੰਦੀ ਲਾਓ">
 <!ENTITY  permissionsFor        "ਅਧਿਕਾਰ:">
 <!ENTITY  permPlugins           "ਪਲੱਗਇਨ ਐਕਟੀਵੇਟ ਕਰੋ">
