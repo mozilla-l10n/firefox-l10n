@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Uvijek pitaj">
 <!ENTITY  permAllow             "Dozvoli">
 <!ENTITY  permAllowSession      "Dozvoli za sesiju">
+<!ENTITY  permHide              "Sakrij">
 <!ENTITY  permBlock             "Blokiraj">
 <!ENTITY  permissionsFor        "Dozvole za:">
 <!ENTITY  permPlugins           "Aktiviraj plugine">
