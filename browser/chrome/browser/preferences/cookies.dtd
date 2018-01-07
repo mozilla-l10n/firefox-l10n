@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "40em">
 
-<!ENTITY     cookiesonsystem.label          "Hi ha les galetes següents emmagatzemades al vostre ordinador:">
+<!ENTITY     cookiesonsystem2.label         "Les galetes següents estan emmagatzemades al vostre ordinador">
 <!ENTITY     cookiename.label               "Nom de la galeta">
 <!ENTITY     cookiedomain.label             "Lloc">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Galetes">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Cerca">
 <!ENTITY     searchFilter.accesskey         "a">
