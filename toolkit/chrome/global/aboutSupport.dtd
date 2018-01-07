@@ -160,3 +160,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlLocalesDefault "المحلية المبدئية">
 <!ENTITY aboutSupport.intlOSTitle "نظام التشغيل">
 <!ENTITY aboutSupport.intlOSPrefsSystemLocales "محليات النظام">
+<!ENTITY aboutSupport.intlRegionalPrefs "التفضيلات الإقليمية">
