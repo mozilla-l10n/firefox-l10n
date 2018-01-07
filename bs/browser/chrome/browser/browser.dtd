@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Pošalji link na uređaj">
 <!ENTITY  sendLinkToDevice.accesskey         "u">
 <!ENTITY  sendToDeviceFeedback.label         "Poslano!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Na čekanju (offline)">
 <!ENTITY  moveToNewWindow.label              "Premjesti u novi prozor">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Zabilježi sve tabove…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "a">
 
 <!ENTITY backCmd.label                "Nazad">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Idi nazad jednu stranicu">
 <!ENTITY forwardCmd.label             "Naprijed">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Idi naprijed jednu stranicu">
 <!ENTITY backForwardButtonMenu.tooltip "Desni klik ili povucite dole za prikaz historije">
 <!ENTITY backForwardButtonMenuMac.tooltip "Povucite dole za prikaz historije">
 <!ENTITY reloadCmd.label              "Obnovi">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Zaustavi">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Idi na adresu upisanu u adresnoj traci">
 <!ENTITY printButton.label            "Štampaj">
@@ -231,6 +236,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokirali ste trajno spremište za ovu web stranicu.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Imate blokirane pop-up prozore za ovu web stranicu.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži historiju">
 
@@ -355,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Prilagodi meni i alatne trake">
 <!ENTITY appMenuCustomizeExit.label "Napusti prilagođavanje">
 <!ENTITY appMenuCustomizeExit.tooltip "Završi prilagođavanje">
+
 <!ENTITY appMenuHistory.showAll.label "Prikaži svu historiju">
 <!ENTITY appMenuHistory.clearRecent.label "Obriši skorašnju historiju…">
 <!ENTITY appMenuHistory.restoreSession.label "Vrati prethodnu sesiju">
@@ -385,9 +393,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite li vidjeti vaše tabove s drugih uređaja ovdje?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync postavke">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se da vidite listu tabova s vaših ostalih uređaja.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Vaš račun mora biti verifikovan.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se na Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Upravljanje servisima…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Prikaz trake sinhroniziranih tabova">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Poveži dodatni uređaj">
 
 <!ENTITY appMenuRecentHighlights.label "Nedavno istaknuto">
 
@@ -564,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Postavi kao pozadinu Desktopa…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Zabilježi ovu stranicu">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Zabilježi ovaj link">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Zabilježi ovaj okvir">
@@ -750,6 +762,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Gotovo">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sigurnost stranice">
+
 <!ENTITY identity.connectionSecure "Sigurna konekcija">
 <!ENTITY identity.connectionNotSecure "Veza nije sigurna">
 <!ENTITY identity.connectionFile "Ova stranica je pohranjena na vaš računar.">
@@ -803,12 +819,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nema sinhroniziranih tabova… još!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Želite li vidjeti vaše tabove s drugih uređaja ovdje?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prijavite se da vidite listu tabova s vaših ostalih uređaja.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Vaš račun mora biti verifikovan.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nema otvorenih tabova">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Otvori &syncBrand.shortName.label; postavke">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Uključite sinhronizaciju tabova da biste vidjeli listu tabova s vaših ostalih uređaja.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Pretraži sinhronizovane tabove">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Poveži dodatni uređaj">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +998,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Restartuj za nadogradnju &brandShorterName;a">
 
+<!ENTITY newTabControlled.message "Ekstenzija je promijenila stranicu koja vam bude prikazana kada otvorite novi tab. Možete promijeniti vaše postavke ukoliko ne želite ovu promjenu.">
+<!ENTITY newTabControlled.header.message "Vaš novi tab je promijenjen.">
+<!ENTITY newTabControlled.keepButton.label "Zadrži promjene">
+<!ENTITY newTabControlled.keepButton.accesskey "Z">
+<!ENTITY newTabControlled.restoreButton.label "Vrati postavke">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
 <!ENTITY pageActionButton.tooltip "Akcije stranice">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj u adresnu traku">
 <!ENTITY pageAction.removeFromUrlbar.label "Ukloni iz adresne trake">
+
+<!ENTITY pageAction.allowInUrlbar.label "Prikaži u adresnoj traci">
+<!ENTITY pageAction.disallowInUrlbar.label "Ne prikazuj u adresnoj traci">
+<!ENTITY pageAction.manageExtension.label "Upravljanje ekstenzijom…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Pošalji tab na uređaj">
 <!ENTITY sendToDevice.syncNotReady.label "Sinhronizujem uređaje…">
