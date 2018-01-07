@@ -27,4 +27,4 @@
 <!ENTITY selectProfile.label            "Els següents perfils estan disponibles per importar-se des de:">
 
 <!ENTITY done.title                     "Fi de la importació">
-<!ENTITY done.label                     "Els següents elements s'han importat amb èxit:">
+<!ENTITY done.label                     "Els elements següents s'han importat correctament:">
