@@ -16,3 +16,4 @@
 <!ENTITY languages.customize.addButton.label            "Afegeix">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 
+<!ENTITY languages.customize.spoofEnglish               "Sol·licita la versió anglesa de les pàgines web per millorar la privadesa">
