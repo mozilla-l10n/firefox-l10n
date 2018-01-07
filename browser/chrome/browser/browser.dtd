@@ -189,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "m">
 
 <!ENTITY backCmd.label                "Enrere">
+<!ENTITY backCmd.accesskey            "r">
 <!ENTITY backButton.tooltip           "Vés una pàgina enrere">
 <!ENTITY forwardCmd.label             "Endavant">
+<!ENTITY forwardCmd.accesskey         "d">
 <!ENTITY forwardButton.tooltip        "Vés una pàgina endavant">
 <!ENTITY backForwardButtonMenu.tooltip "Premeu amb el botó dret o arrossegueu cap avall per veure l'historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrossegueu cap avall per veure l'historial">
 <!ENTITY reloadCmd.label              "Actualitza">
+<!ENTITY reloadCmd.accesskey          "z">
 <!ENTITY stopCmd.label                "Atura">
+<!ENTITY stopCmd.accesskey            "A">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Vés a l'adreça de la barra d'ubicació">
 <!ENTITY printButton.label            "Imprimeix">
@@ -231,8 +235,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Heu blocat les notificacions per a aquest lloc web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Heu blocat l'emmagatzematge persistent per a aquest lloc web.">
 
-<!ENTITY urlbar.popupBlocked.tooltip             "Heu blocat les finestres emergents per aquest lloc web.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Heu blocat les finestres emergents per a aquest lloc web.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Heu blocat l'extracció de dades de llenç (canvas) per a aquest lloc web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
@@ -388,6 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Voleu veure aquí les pestanyes d'altres dispositius?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferències del Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Cal que verifiqueu el compte.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestiona els dispositius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mostra la barra lateral «Pestanyes sincronitzades»">
@@ -569,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Defineix com a fons d'escriptori…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "D">
 <!ENTITY bookmarkPageCmd2.label       "Afegeix la pàgina a les adreces d'interès">
+<!ENTITY bookmarkPageCmd2.accesskey   "d">
 <!ENTITY bookmarkThisLinkCmd.label      "Afegeix l'enllaç a les adreces d'interès">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Afegeix el marc a les adreces d'interès">
@@ -812,6 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Encara no hi ha cap pestanya sincronitzada.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Voleu veure aquí les pestanyes d'altres dispositius?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Cal que verifiqueu el compte.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "No hi ha cap pestanya oberta">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Obre les preferències del &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -819,6 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activeu la sincronització de pestanyes per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cerca en les pestanyes sincronitzades">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connecta un altre dispositiu">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -989,14 +998,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reinicia per actualitzar el &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Una extensió ha canviat la pàgina que es mostra en obrir una pestanya nova. Si no voleu acceptar aquest canvi, podeu restaurar els vostres paràmetres.">
+<!ENTITY newTabControlled.header.message "La pàgina de «Pestanya nova» ha canviat.">
 <!ENTITY newTabControlled.keepButton.label "Mantén els canvis">
+<!ENTITY newTabControlled.keepButton.accesskey "M">
 <!ENTITY newTabControlled.restoreButton.label "Restaura els paràmetres">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
 <!ENTITY pageAction.addToUrlbar.label "Afegeix a la barra d'adreces">
 <!ENTITY pageAction.removeFromUrlbar.label "Elimina de la barra d'adreces">
 
 <!ENTITY pageAction.allowInUrlbar.label "Mostra a la barra d'adreces">
+<!ENTITY pageAction.disallowInUrlbar.label "No mostris a la barra d'adreces">
+<!ENTITY pageAction.manageExtension.label "Gestiona l'extensió…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Envia la pestanya al dispositiu">
 <!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
