@@ -237,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Сіз canvas деректерін тарқатуды бұл вебсайтқа блоктадыңыз.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
 
@@ -574,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Жұмыс үстелінің суреті болып орналастыру…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "с">
 <!ENTITY bookmarkPageCmd2.label       "Бұл бетті бетбелгілерге қосу">
+<!ENTITY bookmarkPageCmd2.accesskey   "е">
 <!ENTITY bookmarkThisLinkCmd.label      "Осы сілтемені бетбелгілерге қосу">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "л">
 <!ENTITY bookmarkThisFrameCmd.label      "Осы фреймді бетбелгілерге қосу">
