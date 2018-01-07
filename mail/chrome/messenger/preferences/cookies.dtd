@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                      "36em">
 
-<!ENTITY cookiesonsystem.label             "Les galetes següents es desaran en el vostre ordinador:">
+<!ENTITY cookiesonsystem.label             "Les galetes següents estan emmagatzemades al vostre ordinador:">
 <!ENTITY cookiename.label                  "Nom de la galeta">
 <!ENTITY cookiedomain.label                "Lloc web">
 <!ENTITY button.removecookie.label         "Suprimeix la galeta">
