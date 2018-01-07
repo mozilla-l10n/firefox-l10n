@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Întreabă întotdeauna">
 <!ENTITY  permAllow             "Permite">
 <!ENTITY  permAllowSession      "Permite pentru sesiune">
+<!ENTITY  permHide              "Ascunde">
 <!ENTITY  permBlock             "Blochează">
 <!ENTITY  permissionsFor        "Permisiuni pentru:">
 <!ENTITY  permPlugins           "Activează pluginurile">
