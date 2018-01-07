@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader2.pre.label         "&brandShortName;:">
 <!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Va memora istoricul">
-<!ENTITY  historyHeader.dontremember.label "Nu va memora istoricul niciodată">
+<!ENTITY  historyHeader.dontremember.label "Nu memora istoricul">
 <!ENTITY  historyHeader.custom.label       "Va folosi setări personalizate pentru istoric">
 <!ENTITY  historyHeader.post.label         "">
 
