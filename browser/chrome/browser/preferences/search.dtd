@@ -2,6 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Barra de cerca">
+
+<!ENTITY searchBar.hidden.label                "Utilitza la barra d'adreces per cercar i navegar">
+<!ENTITY searchBar.shown.label                 "Afegeix la barra de cerca a la barra d'eines">
+
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "En els resultats de la barra d'adreces, mostra els suggeriments de cerca abans de l'historial de navegació">
+
 <!ENTITY defaultSearchEngine.label             "Motor de cerca per defecte">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Trieu el motor de cerca per defecte que s'utilitzarà en la barra d'adreces i de cerca.">
