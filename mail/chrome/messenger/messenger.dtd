@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "الدردشة">
 <!ENTITY goChatCmd.accesskey "د">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "الرسائل ذات النجمة">
 <!ENTITY prevStarredMsgCmd.accesskey "ذ">
 <!ENTITY folderMenu.label "المجلد">
@@ -459,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "إضافات">
 <!ENTITY addons.accesskey "ض">
+<!ENTITY addonPrefs.label "خيارات الإضافة">
+<!ENTITY addonPrefs.accesskey "ض">
+<!ENTITY addonPrefsUnix.label "تفضيلات الإضافة">
+<!ENTITY addonPrefsUnix.accesskey "ت">
+<!ENTITY addonNoPrefs.label "لم يعثر على أي إعدادات إضافات.">
 <!ENTITY activitymanager.label "مدير النشاطات">
 <!ENTITY activitymanager.accesskey "ش">
 <!ENTITY imAccountsStatus.label "حالة الدردشة">
@@ -504,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "منقح الإضافات">
 <!ENTITY addonDebugCmd.accesskey "ق">
+<!ENTITY debugAddonsCmd.label "نقّح الإضافات">
+<!ENTITY debugAddonsCmd.accesskey "ن">
 <!ENTITY tabsDebugCmd.label "منقح إطار المحتوى">
 <!ENTITY tabsDebugCmd.accesskey "ط">
 <!ENTITY errorConsoleCmd.label "مرقاب الأعطال">
