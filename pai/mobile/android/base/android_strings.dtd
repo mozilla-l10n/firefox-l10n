@@ -244,11 +244,14 @@
 <!ENTITY pref_header_search "Ŕmee">
 <!ENTITY pref_header_privacy_short "Jabchu tpaay">
 <!ENTITY pref_header_accessibility "Jabch yu">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
+<!ENTITY pref_cookies_menu "Cookies">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_media "Multimedia">
 
 
 
