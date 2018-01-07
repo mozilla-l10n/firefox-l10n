@@ -998,14 +998,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; হালনাগাদ করতে রিস্টার্ট করুন">
 
+<!ENTITY newTabControlled.message "আপনি যখন পাতা নতুন ট্যাবে খুলেছেন এক্সটেনশনটি পাতায় পরিবর্তন করেছে। আপনি যদি এই পরিবর্তন না চান তবে সেটিং পুনরুদ্ধার করতে পারেন।">
 <!ENTITY newTabControlled.header.message "আপনার নতুন ট্যাব পরিবর্তিত হয়েছে।">
+<!ENTITY newTabControlled.keepButton.label "পরিবর্তনগুলো রাখুন">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "সেটিং পুনরুদ্ধার করুন">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "পাতা পদক্ষেপ">
 <!ENTITY pageAction.addToUrlbar.label "ঠিকানা বারে যোগ করুন">
 <!ENTITY pageAction.removeFromUrlbar.label "ঠিকানা  বার থেকে অপসারণ করুন">
 
+<!ENTITY pageAction.allowInUrlbar.label "ঠিকানা বারে দেখাও">
+<!ENTITY pageAction.disallowInUrlbar.label "ঠিকানা বারে দেখিও না">
+<!ENTITY pageAction.manageExtension.label "এক্সটেনশন ব্যবস্থাপনা...">
 
 <!ENTITY pageAction.sendTabToDevice.label "ডিভাইসে ট্যাব পাঠান">
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইস সিঙ্ক হচ্ছে…">
