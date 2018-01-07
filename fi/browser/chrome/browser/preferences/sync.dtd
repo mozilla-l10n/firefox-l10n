@@ -27,10 +27,10 @@
 <!ENTITY engine.addons.title        "Firefoxin työpöytäversion laajennukset ja teemat">
 <!ENTITY engine.addons.accesskey    "i">
 <!ENTITY engine.addresses.label     "Osoitteet">
-<!ENTITY engine.addresses.title     "Tallentamasi postiosoitteet (vain työpöydällä)">
+<!ENTITY engine.addresses.title     "Tallentamasi postiosoitteet (vain Firefoxin työpöytäversiossa)">
 <!ENTITY engine.addresses.accesskey "O">
 <!ENTITY engine.creditcards.label   "Luottokortit">
-<!ENTITY engine.creditcards.title   "Nimet, numerot ja vanheneminen (vain työpöydällä)">
+<!ENTITY engine.creditcards.title   "Nimet, numerot ja vanheneminen (vain Firefoxin työpöytäversiossa)">
 <!ENTITY engine.creditcards.accesskey "u">
 
 <!-- Device Settings -->
