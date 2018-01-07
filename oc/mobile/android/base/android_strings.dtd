@@ -486,7 +486,7 @@
 <!ENTITY contextmenu_open_private_tab "Dobrir en navigacion privada">
 <!ENTITY contextmenu_remove "Suprimir">
 <!ENTITY contextmenu_add_to_launcher "Apondre a l’ecran d’acuèlh">
-<!ENTITY contextmenu_add_page_shortcut "Apondre un acorchi a la pagina">
+<!ENTITY contextmenu_add_page_shortcut "Apondre un acorchi">
 <!ENTITY contextmenu_set_as_homepage "Definir coma pagina d’acuèlh">
 <!ENTITY contextmenu_share "Partejar">
 <!ENTITY contextmenu_pasteandgo "Pegar e i anar">
@@ -497,7 +497,7 @@
 <!ENTITY contextmenu_site_settings "Modificar los paramètres del site">
 <!ENTITY contextmenu_top_sites_edit "Modificar">
 <!ENTITY contextmenu_top_sites_pin "Penjar aqueste site">
-<!ENTITY contextmenu_top_sites_unpin "Levar aqueste site">
+<!ENTITY contextmenu_top_sites_unpin "Despenjar aqueste site">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -801,7 +801,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox : al subjècte de vòstre navigator">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "Firefox: Personalizar amb de moduls complementaris">
+<!ENTITY bookmarks_addons "Firefox : personalizacion amb de moduls">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox : assisténcia">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
@@ -824,7 +824,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Apondre a l’ecran d’acuèlh">
 
-<!ENTITY promotion_add_page_shortcut "Apondre un acorchi a la pagina">
+<!ENTITY promotion_add_page_shortcut "Apondre un acorchi">
 
 <!ENTITY helper_first_offline_bookmark_title "Legir fòra linha">
 <!ENTITY helper_first_offline_bookmark_message "Trapatz las paginas de vòstre mòde de lectura dins los marcapaginas, quitament fòra de connexion.">
