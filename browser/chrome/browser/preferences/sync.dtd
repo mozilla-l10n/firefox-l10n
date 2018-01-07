@@ -19,13 +19,18 @@
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Opcions">
+<!ENTITY engine.prefsWin.accesskey  "s">
 <!ENTITY engine.prefs.label         "Preferències">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.title         "Paràmetres generals, de privadesa i de seguretat que heu canviat">
 <!ENTITY engine.addons.label        "Complements">
+<!ENTITY engine.addons.title        "Extensions i temes per al Firefox d'escriptori">
 <!ENTITY engine.addons.accesskey    "C">
 <!ENTITY engine.addresses.label     "Adreces">
+<!ENTITY engine.addresses.title     "Adreces postals que heu desat (només a l'ordinador)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Targetes de crèdit">
+<!ENTITY engine.creditcards.title   "Noms, números i dates de venciment (només a l'ordinador)">
 <!ENTITY engine.creditcards.accesskey "c">
 
 <!-- Device Settings -->
