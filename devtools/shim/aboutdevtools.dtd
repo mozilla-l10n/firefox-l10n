@@ -45,6 +45,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Інструменты распрацоўшчыка Firefox пачаткова выключаны, каб даць вам больш магчымасці кіравання вашым браўзерам.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -62,9 +64,12 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Атрымлівайце навіны ад распрацоўшчыкаў, парады і рэсурсы наўпрост у сваю паштовую скрыню.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Эл.пошта">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Я згодзен з тым, як Mozilla апрацоўвае мае звесткі ў адпаведнасці з <a class='external' href='https://www.mozilla.org/privacy/'>Палітыкай прыватнасці</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Падпісацца">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Дзякуй!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Калі вы раней не пацвярджалі падпіску на навіны ад Mozilla, вам можа спатрэбіцца зрабіць гэта. Калі ласка, паглядзіце ліст ад нас у сваёй пошце, у ўваходных або ў спаме.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
