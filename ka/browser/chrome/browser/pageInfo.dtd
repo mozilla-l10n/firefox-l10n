@@ -36,7 +36,7 @@
 <!ENTITY  mediaType             "ტიპი">
 <!ENTITY  mediaSize             "ზომა">
 <!ENTITY  mediaCount            "რაოდენობა">
-<!ENTITY  mediaDimension        "სიგრძე/სიგანე:">
+<!ENTITY  mediaDimension        "სიგრძე-სიგანე:">
 <!ENTITY  mediaLongdesc         "ვრცელი აღწერა:">
 <!ENTITY  mediaBlockImage.accesskey "ბ">
 <!ENTITY  mediaSaveAs           "შენახვა როგორც…">
