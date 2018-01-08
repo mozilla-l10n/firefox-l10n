@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Изузеци">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "И">
 
-<!ENTITY offlineAppsList3.label          "Следећи сајтови смеју да складиште податке за коришћење ван мреже">
+<!ENTITY offlineAppsList3.label          "Следећи веб сајтови смеју да складиште податке за коришћење ван мреже">
 <!ENTITY offlineAppsList.height          "9em">
 <!ENTITY offlineAppsListRemove.label     "Уклони…">
 <!ENTITY offlineAppsListRemove.accesskey "У">
