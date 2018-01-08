@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "მომსახურებები">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName;-ის ჩაკეცვა">
-<!ENTITY hideThisAppCmdMac2.commandkey  "კ">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "სხვების ჩაკეცვა">
-<!ENTITY hideOtherAppsCmdMac.commandkey "ხ">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "ყველას გამოჩენა">
