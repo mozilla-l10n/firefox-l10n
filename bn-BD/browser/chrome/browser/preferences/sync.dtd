@@ -62,18 +62,22 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "পুনরায় সংযোগ স্থাপন করতে সাইন ইন করুন">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "আপনি সাইন ইন করেন নি।">
-<!ENTITY signIn.label                "সাইন ইন">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "প্রোফাইলের ছবি পরিবর্তন করুন">
-<!ENTITY verifiedManage.label        "অ্যাকাউন্ট ব্যবস্থাপনা">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "বিচ্ছিন্ন…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "আপনি সাইন ইন করেন নি।">
+<!ENTITY signIn.label                 "সাইন ইন">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "প্রোফাইলের ছবি পরিবর্তন করুন">
+<!ENTITY verifiedManage.label         "অ্যাকাউন্ট ব্যবস্থাপনা">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "বিচ্ছিন্ন…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "ইমেল যাচাই">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "এই ইমেইল ভুলে যাও">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "সেটাপ বাতিল">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "আপনার ওয়েব আপনার সঙ্গে নিন">
 <!ENTITY signedOut.description        "আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.">
