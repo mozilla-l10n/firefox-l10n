@@ -5,3 +5,6 @@
 <!ENTITY virtualFolderListTitle.title        "Rjadowaki wubrać">
 <!ENTITY virtualFolderDesc.label       "Wubjerće rjadowaki, kotrež maja so přepytać:">
 
+
+<!ENTITY folderName.label "Mjeno rjadowaka">
+<!ENTITY folderSearch.label "Pytać">
