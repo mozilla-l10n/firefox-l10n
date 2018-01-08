@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Logg inn for å koble til på nytt">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Du er ikke innlogget.">
-<!ENTITY signIn.label                "Logg inn">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Endre profilbilde">
-<!ENTITY verifiedManage.label        "Behandle konto">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Koble fra…">
-<!ENTITY disconnect3.accesskey       "f">
+<!ENTITY notSignedIn.label            "Du er ikke innlogget.">
+<!ENTITY signIn.label                 "Logg inn">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Endre profilbilde">
+<!ENTITY verifiedManage.label         "Behandle konto">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Koble fra…">
+<!ENTITY disconnect3.accesskey        "f">
 <!ENTITY verify.label                "Bekreft e-post">
 <!ENTITY verify.accesskey            "B">
 <!ENTITY forget.label                "Glem denne e-posten">
 <!ENTITY forget.accesskey            "G">
+
+<!ENTITY resendVerification.label     "Send bekreftelse på nytt">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Avbryt konfigurasjon">
+<!ENTITY cancelSetup.accesskey        "A">
 
 <!ENTITY signedOut.caption            "Ta med deg webben">
 <!ENTITY signedOut.description        "Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.">
