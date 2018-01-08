@@ -5,6 +5,7 @@
 <!-- Window title -->
 
 
+<!ENTITY options.label "პარამეტრები">
 <!ENTITY optionDisplay.label "გამოსაჩენი სახელი">
 
 <!ENTITY insertButton.label "ჩამატება">
