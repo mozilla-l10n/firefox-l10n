@@ -7,6 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Per estalviar espai, es poden restringir els missatges que es baixen com a còpia local per treballar-hi fora de línia segons la seva antiguitat o la seva mida.">
 <!ENTITY allFoldersOffline.label "Conserva els missatges d'aquest compte a l'ordinador">
 <!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Conserva els missatges de totes les carpetes d'aquest compte a l'ordinador">
 <!ENTITY offlineNotDownload.label "Missatges més grans de">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY autosyncNotDownload.label "No baixis missatges si són més grans de">
@@ -37,13 +38,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronització de missatges">
 <!ENTITY diskspaceGroupTitle.label "Espai de disc">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Sincronitza localment tots els missatges tot i la seva antiguitat">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Sincronitza els més últims">
