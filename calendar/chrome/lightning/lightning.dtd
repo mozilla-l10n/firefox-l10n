@@ -49,6 +49,7 @@
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Oraingoz, zuk hau gaitu dezakezu baldin eta zerbitzaria egutegia antolatzeko gai bada eta egutegi hau bertan konfiguratu ondoren.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Aukera hau zerbitzariak egutegi antolaketa onartzen badu dago eskuragarri. Gaituz posta elektronikoan oinarritutako antolaketara estandarrera itzultzea ahalbidetzen da, zerbitzarian utzi ordez.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Onartu">
@@ -57,9 +58,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Onartu gonbidapena gertaeraren agerpen guztietarako">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Gehitu">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Gehitu gertaera egutegira">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Baztertu">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Baztertu gonbidapena">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Baztertu guztiak">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Baztertu gonbidapena gertaeraren agerpen guztietarako">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Baztertu">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Baztertu kontraproposamena">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Ezabatu">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Ezabatu egutegitik">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Xehetasunak…">
@@ -68,6 +72,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Egin klik aukera gehiago erakusteko">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Birberretsi">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Birberrespena bidaltzen dio antolatzaileari">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Berrantolatu">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Gertaera berrantolatu">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Gorde kopia bat">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Gorde gertaeraren kopia egutegian antolatzaileari erantzutea ala ez alde batera utzita. Partaideen zerrenda aditzera emango da.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Behin-behinekoa">
