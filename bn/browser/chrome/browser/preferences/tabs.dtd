@@ -8,6 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "নতুন উইন্ডো, নতুন ট্যাবে খুলবে">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY newWindowsAsTabs2.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "যখন একাধিক ট্যাব বন্ধ করার চেষ্টা করা হলে আপনাকে সর্তক করা হবে।">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
