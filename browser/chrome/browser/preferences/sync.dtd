@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Meld u aan om">
 <!ENTITY signedInLoginFailure.aftername.label "opnieuw te verbinden">
 
-<!ENTITY notSignedIn.label           "U bent niet aangemeld.">
-<!ENTITY signIn.label                "Aanmelden">
-<!ENTITY signIn.accesskey            "m">
-<!ENTITY profilePicture.tooltip      "Profielafbeelding wijzigen">
-<!ENTITY verifiedManage.label        "Account beheren">
-<!ENTITY verifiedManage.accesskey    "b">
-<!ENTITY disconnect3.label           "Verbinding verbreken…">
-<!ENTITY disconnect3.accesskey       "v">
+<!ENTITY notSignedIn.label            "U bent niet aangemeld.">
+<!ENTITY signIn.label                 "Aanmelden">
+<!ENTITY signIn.accesskey             "m">
+<!ENTITY profilePicture.tooltip       "Profielafbeelding wijzigen">
+<!ENTITY verifiedManage.label         "Account beheren">
+<!ENTITY verifiedManage.accesskey     "b">
+<!ENTITY disconnect3.label            "Verbinding verbreken…">
+<!ENTITY disconnect3.accesskey        "v">
 <!ENTITY verify.label                "E-mailadres verifiëren">
 <!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Dit e-mailadres vergeten">
 <!ENTITY forget.accesskey            "r">
+
+<!ENTITY resendVerification.label     "Verificatie opnieuw verzenden">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Configuratie annuleren">
+<!ENTITY cancelSetup.accesskey        "a">
 
 <!ENTITY signedOut.caption            "Neem uw web mee">
 <!ENTITY signedOut.description        "Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en voorkeuren op al uw apparaten.">
