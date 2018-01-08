@@ -24,6 +24,7 @@
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "ఇంకా తెలుసుకోండి">
+<!ENTITY  doNotTrack.default.label      "ట్రాకింగ్ సంరక్షణ వాడుతున్నప్పుడు మాత్రమే">
 <!ENTITY  doNotTrack.always.label       "ఎల్లప్పుడూ">
 
 <!ENTITY  history.label                 "చరిత్ర">

@@ -72,6 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "మీ జాలాన్ని మీతో తీసుకువెళ్ళండి">
 <!ENTITY signedOut.description        "మీ ఇష్టాంశాలను, చరిత్రను, ట్యాబులను, సంకేతపదాలను, పొడగింతలను, అభిరుచులను మీ పరికరాలన్నింటిలోనూ సింక్రనైజ్ చెయ్యండి.">
 <!ENTITY signedOut.accountBox.title   "ఒక &syncBrand.fxAccount.label;‌తో అనుసంధానించండి">
+<!ENTITY signedOut.accountBox.create2 "మీకు ఖాతా లేదా? మొదలుపెట్టండి">
 <!ENTITY signedOut.accountBox.create2.accesskey "C">
 <!ENTITY signedOut.accountBox.signin2 "ప్రవేశించు…">
 <!ENTITY signedOut.accountBox.signin2.accesskey "i">
