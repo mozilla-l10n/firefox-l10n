@@ -21,24 +21,37 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Элементті бақылаушыны қолдану үшін Firefox Әзірлеуші құралдарын іске қосыңыз">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Әзірлеуші құралдарының Бақылаушысы көмегімен HTML мен CSS зерттеу және түзету.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Firefox Әзірлеуші құралдары көмегімен WebExtensions, Web workers, Service workers және көптеген т.б. әзірлеу және жөндеу.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Сіз Әзірлеуші құралдар жарлығын белсендірдіңіз. Бұл әрекет қате болса, бұл бетті жаба аласыз.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Бақылаушы және Жөндеуші сияқты құралдармен HTML, CSS және JavaScript қарау, түзету және жөндеу.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Бақылаушы және Жөндеуші сияқты құралдармен веб-сайтыңыздың HTML, CSS және JavaScript кодтарын жақсартыңыз.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Firefox Әзірлеуші құралдары үнсіз келісім бойынша сөндірілген, ол сізге браузерді жақсырақ басқаруға мүмкіндік береді.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools

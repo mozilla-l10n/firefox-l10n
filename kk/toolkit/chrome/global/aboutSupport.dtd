@@ -152,6 +152,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Жиілігі">
 <!ENTITY aboutSupport.mediaDeviceLatency "Кідірісі">
 
+<!ENTITY aboutSupport.intlTitle "Интернационалдандыру және локализация">
 <!ENTITY aboutSupport.intlAppTitle "Қолданба баптаулары">
 <!ENTITY aboutSupport.intlLocalesRequested "Сұралған локальдер">
 <!ENTITY aboutSupport.intlLocalesAvailable "Қолжетерлік локальдер">
