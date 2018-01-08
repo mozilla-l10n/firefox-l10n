@@ -5,3 +5,6 @@
 <!ENTITY virtualFolderListTitle.title        "Escolha a(s) pasta(s)">
 <!ENTITY virtualFolderDesc.label       "Escolha as pastas a pesquisar:">
 
+
+<!ENTITY folderName.label "Nome da pasta">
+<!ENTITY folderSearch.label "Pesquisar">
