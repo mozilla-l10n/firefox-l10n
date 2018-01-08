@@ -72,6 +72,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Калі вы раней не пацвярджалі падпіску на навіны ад Mozilla, вам можа спатрэбіцца зрабіць гэта. Калі ласка, паглядзіце ліст ад нас у сваёй пошце, у ўваходных або ў спаме.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Шукаеце нешта большае, чым проста інструменты распрацоўшчыка? Паспрабуйце браўзер Firefox, створаны адмыслова для распрацоўшчыкаў і сучасных працэсаў распрацоўкі.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
