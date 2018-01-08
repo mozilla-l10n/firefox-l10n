@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Xat">
 <!ENTITY goChatCmd.accesskey "X">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Missatge destacat">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Carpeta">
@@ -366,6 +367,7 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Edita l'esborrany">
 <!ENTITY editDraftMsgCmd.accesskey "b">
+<!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Crea un filtre…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mou">
@@ -736,10 +738,10 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
 <!ENTITY contextOpenNewWindow.accesskey "f">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Obre el missatge en una pestanya nova">
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Obre el missatge en la conversa">
