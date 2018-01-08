@@ -5,8 +5,11 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab წრიულად გადართვა ჩანართებზე, ბოლო გამოყენების რიგითობით.">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "წ">
 
-<!ENTITY newWindowsAsTabs.label       "ახალი ფანჯრების ნაცვლად ახალი ჩანართების გახსნა">
+<!ENTITY newWindowsAsTabs.label       "ახალი ფანჯრების ნაცვლად, ახალი ჩანართების გახსნა">
 <!ENTITY newWindowsAsTabs.accesskey   "ჩ">
+
+<!ENTITY newWindowsAsTabs2.label       "ბმულების, ახალი ფანჯრების ნაცვლად, ახალ ჩანართებში გახსნა">
+<!ENTITY newWindowsAsTabs2.accesskey   "ბ">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "გაფრთხილება რამდენიმე ჩანართის ერთბაშად დახურვისას">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "ე">
