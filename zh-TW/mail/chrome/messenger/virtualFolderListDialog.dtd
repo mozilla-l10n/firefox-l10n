@@ -6,4 +6,5 @@
 <!ENTITY virtualFolderDesc.label       "選取要搜尋的資料夾:">
 
 
-
+<!ENTITY folderName.label "資料夾名稱">
+<!ENTITY folderSearch.label "搜尋">
