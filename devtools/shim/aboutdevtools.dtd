@@ -16,7 +16,7 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
-<!ENTITY  aboutDevtools.enable.title "Ota Firefoxin web-työkalut käyttöön">
+<!ENTITY  aboutDevtools.enable.title "Firefoxin web-työkalujen käyttöönotto">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
@@ -56,9 +56,9 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
-<!ENTITY  aboutDevtools.enable.learnMoreLink "Lue lisää web-työkaluista">
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Lue lisää web-työkaluista englanniksi">
 
-<!ENTITY  aboutDevtools.enable.enableButton "Ota web-työkalut käyttöön">
+<!ENTITY  aboutDevtools.enable.enableButton "Ota englanninkieliset web-työkalut käyttöön">
 <!ENTITY  aboutDevtools.enable.closeButton "Sulje tämä sivu">
 
 <!ENTITY  aboutDevtools.enable.closeButton2 "Sulje tämä välilehti">
@@ -69,7 +69,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
-<!ENTITY  aboutDevtools.newsletter.message "Saa kehittäjille suunnattuja uutisia, vinkkejä ja resursseja sähköpostiisi.">
+<!ENTITY  aboutDevtools.newsletter.message "Saa kehittäjille suunnattuja uutisia, vinkkejä ja resursseja sähköpostiisi englanniksi.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Sähköposti">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Minulle käy, että Mozilla käsittelee tietojani <a class='external' href='https://www.mozilla.org/privacy/'>tietosuojakäytännössä</a> kuvatulla tavalla.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Tilaa">
