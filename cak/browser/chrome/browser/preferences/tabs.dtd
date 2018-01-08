@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Kejaq k'ak'a' taq tzuwäch pa jun k'ak'a' ruwi' pa ruk'exel">
 <!ENTITY newWindowsAsTabs.accesskey   "k">
 
+<!ENTITY newWindowsAsTabs2.label       "Kejaq taq ximonel kik'in taq ruwi' pa kik'exel kik'in k'ak'a' taq tzuwäch">
+<!ENTITY newWindowsAsTabs2.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Taya' pe rutzijol we xketz'apitäj jalajöj taq ruwi'">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "j">
 
