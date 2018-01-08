@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Yeniden">
 <!ENTITY signedInLoginFailure.aftername.label "hesabına bağlanmak için lütfen giriş yapın">
 
-<!ENTITY notSignedIn.label           "Giriş yapmadınız.">
-<!ENTITY signIn.label                "Giriş yap">
-<!ENTITY signIn.accesskey            "G">
-<!ENTITY profilePicture.tooltip      "Profil resmini değiştir">
-<!ENTITY verifiedManage.label        "Hesabı yönet">
-<!ENTITY verifiedManage.accesskey    "H">
-<!ENTITY disconnect3.label           "Bağlantıyı kes…">
-<!ENTITY disconnect3.accesskey       "B">
+<!ENTITY notSignedIn.label            "Giriş yapmadınız.">
+<!ENTITY signIn.label                 "Giriş yap">
+<!ENTITY signIn.accesskey             "G">
+<!ENTITY profilePicture.tooltip       "Profil resmini değiştir">
+<!ENTITY verifiedManage.label         "Hesabı yönet">
+<!ENTITY verifiedManage.accesskey     "H">
+<!ENTITY disconnect3.label            "Bağlantıyı kes…">
+<!ENTITY disconnect3.accesskey        "B">
 <!ENTITY verify.label                "E-postayı doğrula">
 <!ENTITY verify.accesskey            "d">
 <!ENTITY forget.label                "Bu e-postayı unut">
 <!ENTITY forget.accesskey            "u">
+
+<!ENTITY resendVerification.label     "Doğrulamayı yeniden gönder">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Kurulumu iptal et">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Web’inizi yanınızda taşıyın">
 <!ENTITY signedOut.description        "Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.">
