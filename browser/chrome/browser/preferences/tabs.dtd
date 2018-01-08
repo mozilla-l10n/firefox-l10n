@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Åpne nytt vindu som faner isteden">
 <!ENTITY newWindowsAsTabs.accesskey   "e">
 
+<!ENTITY newWindowsAsTabs2.label       "Åpn lenker som faner istedenfor nye vindu">
+<!ENTITY newWindowsAsTabs2.accesskey   "v">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Advar ved lukking av flere faner">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "A">
 
