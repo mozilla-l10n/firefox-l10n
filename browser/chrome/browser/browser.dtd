@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "இத்தளத்தில் பாப்பப் அறிவுறுத்தல்களை முடக்கியுள்ளீர்கள்.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "வரலாற்றைக் காட்டு">
 
 <!ENTITY searchItem.title             "தேடு">
@@ -992,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
 
 <!ENTITY newTabControlled.header.message "உங்களது புதிய கீற்று மாறிவிட்டது.">
+<!ENTITY newTabControlled.keepButton.label "மாற்றங்களை வைத்திரு">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "மீட்டமைப்பு அமைவுகள்">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
