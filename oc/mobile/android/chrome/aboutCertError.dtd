@@ -19,7 +19,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "Avètz demandat a &brandShortName; de se connectar
 d’un biais segur a <b>#1</b>, mas vos podèm pas confirmar que vòstra connexion es segura.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Qué me cal far ?">
+<!ENTITY certerror.whatShouldIDo.heading "De qué me cal far ?">
 <!ENTITY certerror.whatShouldIDo.content "Se vos connectatz sovent a aqueste site sens problèma, aquesta error pòt voler dire que qualqu'un es a s'apropriar lo site e deuriatz pas contunhar.">
 <!ENTITY certerror.getMeOutOfHere.label "Sortissètz-me d’aicí !">
 
