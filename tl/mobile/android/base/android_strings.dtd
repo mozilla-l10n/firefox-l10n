@@ -682,6 +682,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Hanapin gamit ang &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
