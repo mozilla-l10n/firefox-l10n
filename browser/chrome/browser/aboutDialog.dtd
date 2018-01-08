@@ -19,12 +19,12 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "Това е изпитателна версия на &brandShortName; и може да е нестабилна.">
+<!ENTITY warningDesc.version        "Това е изпитателно издание на &brandShortName; и може да е нестабилно.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "С цел подобряване, &brandShortName; автоматично изпраща информация за производителността, хардуера, начина на ползване и настройките към &vendorShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-<!ENTITY community.exp.start        "Използвайки изпитателна версия вие помагате за повишаване на качеството на любимия си четец. ">
+<!ENTITY community.exp.start        "Използвайки изпитателните издания помагате за повишаване на качеството на любимия си четец. ">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " е ">
@@ -41,7 +41,7 @@
 <!ENTITY community.end3             ", работеща за една отворена и общодостъпна Мрежа.">
 
 <!ENTITY helpus.start               "Искате да помогнете? ">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "Направете дарение">
 <!ENTITY helpus.middle              " или ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -75,7 +75,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Обновяването е неуспешно. ">
-<!ENTITY update.failed.linkText     "Изтегляне на последната версия">
+<!ENTITY update.failed.linkText     "Изтегляне на последното издание">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end

@@ -92,7 +92,7 @@ available. -->
  -->
 <!ENTITY updateApplicationDescription.label
                                          "За най-добра производителност, стабилност и защита поддържайте вашия &brandShortName; обновен.">
-<!ENTITY updateApplication.version.pre   "Версия ">
+<!ENTITY updateApplication.version.pre   "Издание ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Разрешаване на &brandShortName;">
 <!ENTITY updateAuto3.label               "Да инсталира обновяванията автоматично (препоръчва се)">
