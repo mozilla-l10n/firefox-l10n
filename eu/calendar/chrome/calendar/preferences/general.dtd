@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 
 <!ENTITY pref.mainbox.label "Ezarpen orokorrak" >
 <!ENTITY pref.dateformat.label "Data testu formatua:" >
@@ -37,9 +37,18 @@
 <!ENTITY pref.soondays.label "Hurrengo atalak erakusten du:">
 <!ENTITY pref.soondays.accesskey "H">
 
+<!-- LOCALIZATION NOTE (pref.soondays2.label):
+     "Upcoming" is the name of a section and the translation must match the
+     translation of that section name (calendar.upcoming.button.label). Also,
+     it should be upper case (as a proper name) if the target language permits.
+  -->
+<!ENTITY pref.soondays2.label "Hurrengo atalak erakusten du:">
+<!ENTITY pref.soondays2.accesskey "U">
+
 <!ENTITY pref.accessibility.label "Erabilgarritasuna" >
 <!ENTITY pref.systemcolors.label "Optimizatu koloreak erabilgarritasunerako" >
 <!ENTITY pref.systemcolors.accesskey "k">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Gertaerak eta zereginak" >
+<!ENTITY pref.editInTab.label "Editatu gertaerak eta zereginak fitxan elkarrizketa leihoan egin ordez." >
+<!ENTITY pref.editInTab.accesskey "t">
