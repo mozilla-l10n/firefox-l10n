@@ -27,12 +27,18 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Распрацоўка і адладка WebExtensions, web workers, service workers і шмат іншага ў інструментах распрацоўшчыка Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Вы актывавалі хуткі доступ да інструментаў распрацоўшчыка. Калі гэта незнарок, можаце проста закрыць гэту картку.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Даследуйце, змяняйце і адладжвайце HTML, CSS і JavaScript з дапамогай такіх інструментаў, як інспектар і адладчык.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
