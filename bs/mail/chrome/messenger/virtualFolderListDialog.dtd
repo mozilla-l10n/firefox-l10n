@@ -5,3 +5,6 @@
 <!ENTITY virtualFolderListTitle.title        "Izaberi direktorij(e)">
 <!ENTITY virtualFolderDesc.label       "Izaberi direktorije za pretraživanje:">
 
+
+<!ENTITY folderName.label "Naziv direktorija">
+<!ENTITY folderSearch.label "Traži">
