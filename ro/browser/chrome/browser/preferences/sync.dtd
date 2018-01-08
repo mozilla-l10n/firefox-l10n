@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Te rugăm să te autentifici pentru reconectare">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Nu ești autentificat.">
-<!ENTITY signIn.label                "Autentifică-te">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Schimbă fotografia de profil">
-<!ENTITY verifiedManage.label        "Gestionează contul">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Deconectează-te…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "Nu ești autentificat.">
+<!ENTITY signIn.label                 "Autentifică-te">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Schimbă fotografia de profil">
+<!ENTITY verifiedManage.label         "Gestionează contul">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Deconectează-te…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "Verifică e-mailul">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Uită acest e-mail">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.label     "Retrimite verificarea">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Anulează configurarea">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Ia webul cu tine">
 <!ENTITY signedOut.description        "Sincronizează marcajele, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.">
