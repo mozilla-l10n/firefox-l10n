@@ -237,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Забранили сте на страницата да отваря изскачащи прозорци.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показване на историята">
 
 <!ENTITY searchItem.title             "Търсене">
@@ -981,7 +982,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateManual.message "Изтеглете ново копие на &brandShorterName; и ще ви помогнем с инсталирането.">
 <!ENTITY updateManual.whatsnew.label "Вижте новото в това издание.">
-<!ENTITY updateManual.header.message "&brandShorterName; не може да бъде обновен до последната версия.">
+<!ENTITY updateManual.header.message "&brandShorterName; не може да бъде обновен до последното издание.">
 <!ENTITY updateManual.acceptButton.label "Изтегляне на &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "И">
 <!ENTITY updateManual.cancelButton.label "Не сега">
