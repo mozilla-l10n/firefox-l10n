@@ -278,19 +278,29 @@
 <!ENTITY pref_tracking_protection_disabled "Kos sol tem">
 
 <!ENTITY pref_whats_new_notification "Ñukwee jkaay yo &brandShortName; hal">
+<!ENTITY pref_whats_new_notification_summary "Ñumchjaan kabyuk oichuha mŕpo yamŕaal">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Chmŕpoyiib kabyuwuha">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Ch chkawu myeem mwii">
+<!ENTITY pref_custom_tabs_summary4 "Nmakum aplicación hay ch chkwawu wiha wayiib sol">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; m sol">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; um paa chu ubu">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL tñurch">
 
+<!ENTITY pref_pwa "Aplicacion Web chayoomkyam">
+<!ENTITY pref_pwa_summary "Nmakum aplicacionhay namanchu hal chmiich">
 
+<!ENTITY tracking_protection_prompt_title "Bam chŕmeechu rbooch">
 
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
