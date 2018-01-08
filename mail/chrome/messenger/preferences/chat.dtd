@@ -32,7 +32,7 @@ sentence. -->
 <!ENTITY  buddyInfoOnly.label                 "solo con nombre de remitente">
 <!ENTITY  dummyNotification.label             "sin otra información">
 <!ENTITY  getAttention.label                  "Titilar el elemento de la barra de tareas">
-<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttention.accesskey              "T">
 <!ENTITY  getAttentionMac.label               "Animar el ícono del dock">
 <!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
