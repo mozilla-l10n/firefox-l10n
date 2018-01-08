@@ -21,9 +21,9 @@
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Uusi uudiseid kontrollitakse ">
 <!ENTITY biffStart.accesskey         "u">
-<!ENTITY biffMinutes.label           "minuti">
+<!ENTITY biffMinutes.label           "minuti järel">
 <!ENTITY biffMinutes.accesskey       "m">
-<!ENTITY biffDays.label              "päeva">
+<!ENTITY biffDays.label              "päeva järel">
 <!ENTITY biffDays.accesskey          "p">
 <!ENTITY recommendedUnits.label      "Avaldaja soovitab:">
 
