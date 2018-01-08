@@ -24,7 +24,7 @@
 <!ENTITY helpKeyboardShortcuts.accesskey "კ">
 
 <!ENTITY helpSafeMode.label       "გამორთული დამატებებით გაშვება...">
-<!ENTITY helpSafeMode.accesskey   "შ">
+<!ENTITY helpSafeMode.accesskey   "გ">
 <!ENTITY helpSafeMode.stop.label       "ჩართული დამატებებით გაშვება">
 <!ENTITY helpSafeMode.stop.accesskey   "ჩ">
 
@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "მომსახურებები">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName;-ის ჩაკეცვა">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "კ">
 
 <!ENTITY hideOtherAppsCmdMac.label      "სხვების ჩაკეცვა">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "ხ">
 
 <!ENTITY showAllAppsCmdMac.label        "ყველას გამოჩენა">
