@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Hasi saioa berriro konektatzeko">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Ez duzu saiorik hasi.">
-<!ENTITY signIn.label                "Hasi saioa">
-<!ENTITY signIn.accesskey            "H">
-<!ENTITY profilePicture.tooltip      "Aldatu profileko argazkia">
-<!ENTITY verifiedManage.label        "Kudeatu kontua">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Deskonektatu…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "Ez duzu saiorik hasi.">
+<!ENTITY signIn.label                 "Hasi saioa">
+<!ENTITY signIn.accesskey             "H">
+<!ENTITY profilePicture.tooltip       "Aldatu profileko argazkia">
+<!ENTITY verifiedManage.label         "Kudeatu kontua">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Deskonektatu…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "Egiaztatu helbide elektronikoa">
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Ahaztu helbide elektroniko hau">
 <!ENTITY forget.accesskey            "A">
+
+<!ENTITY resendVerification.label     "Birbidali egiaztapena">
+<!ENTITY resendVerification.accesskey "B">
+<!ENTITY cancelSetup.label            "Utzi konfigurazioa">
+<!ENTITY cancelSetup.accesskey        "z">
 
 <!ENTITY signedOut.caption            "Eraman ezazu weba zurekin">
 <!ENTITY signedOut.description        "Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta hobespenak zure gailu guztien artean.">
