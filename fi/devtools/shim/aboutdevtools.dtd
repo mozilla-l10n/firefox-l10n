@@ -26,12 +26,12 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
 <!ENTITY  aboutDevtools.enable.inspectElementMessage
-          "Tarkastele ja muokkaa HTML:ää ja CSS:ää web-työkalujen Inspector-työkalulla.">
+          "Voit tarkastele ja muokata HTML:ää ja CSS:ää web-työkalujen Inspector-työkalulla.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
 <!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
-          "Kehitä WebExtensioneita, web workereitä, service workereitä ynnä muuta sekä jäljitä niiden virheitä Firefoxin web-työkaluilla.">
+          "Voit kehittää WebExtensioneita, web workereitä, service workereitä ynnä muuta sekä jäljitä niiden virheitä Firefoxin web-työkaluilla.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
@@ -41,7 +41,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 <!ENTITY  aboutDevtools.enable.menuMessage
-          "Tarkastele ja muokkaa HTML:ää, CSS:ää ja JavaScriptiä sekä jäljitä niiden virheitä työkaluilla, kuten Inspector ja Debugger.">
+          "Voit tarkastella ja muokata HTML:ää, CSS:ää ja JavaScriptiä sekä jäljitä niiden virheitä työkaluilla, kuten Inspector ja Debugger.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
