@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Байланысты қайта орнатуға үшін кіріңіз">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Сіз кірген жоқсыз.">
-<!ENTITY signIn.label                "Кіру">
-<!ENTITY signIn.accesskey            "К">
-<!ENTITY profilePicture.tooltip      "Профиль суретін ауыстыру">
-<!ENTITY verifiedManage.label        "Тіркелгіні басқару">
-<!ENTITY verifiedManage.accesskey    "к">
-<!ENTITY disconnect3.label           "Байланысты үзу…">
-<!ENTITY disconnect3.accesskey       "з">
+<!ENTITY notSignedIn.label            "Сіз кірген жоқсыз.">
+<!ENTITY signIn.label                 "Кіру">
+<!ENTITY signIn.accesskey             "К">
+<!ENTITY profilePicture.tooltip       "Профиль суретін ауыстыру">
+<!ENTITY verifiedManage.label         "Тіркелгіні басқару">
+<!ENTITY verifiedManage.accesskey     "к">
+<!ENTITY disconnect3.label            "Байланысты үзу…">
+<!ENTITY disconnect3.accesskey        "з">
 <!ENTITY verify.label                "Эл. поштаны растау">
 <!ENTITY verify.accesskey            "р">
 <!ENTITY forget.label                "Бұл эл. поштаны алып тастау">
 <!ENTITY forget.accesskey            "у">
+
+<!ENTITY resendVerification.label     "Растауды қайта жіберу">
+<!ENTITY resendVerification.accesskey "д">
+<!ENTITY cancelSetup.label            "Баптаудан бас тарту">
+<!ENTITY cancelSetup.accesskey        "п">
 
 <!ENTITY signedOut.caption            "Өз интернетіңізді өзіңізбен бірге ұстаңыз">
 <!ENTITY signedOut.description        "Өзіңіздің бетбелгілер, тарих, беттер, парольдер және қосымшаларыңызды барлық құрылғыларыңыз арасында синхрондаңыз.">
