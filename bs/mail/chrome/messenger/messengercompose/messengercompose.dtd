@@ -86,6 +86,8 @@
 <!ENTITY renameAttachmentCmd.label "Preimenuj prilog…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY reorderAttachmentsCmd.label "Preuredi priloge…">
+<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Označi sve">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -107,10 +109,15 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Preuredi priloge">
 <!ENTITY moveAttachmentTopPanelBtn.label "Pomjeri na vrh">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "T">
 <!ENTITY moveAttachmentUpPanelBtn.label "Pomjeri gore">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "U">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Pomjeri zajedno">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentDownPanelBtn.label "Pomjeri dole">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "D">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Pomjeri na dno">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "B">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
@@ -119,7 +126,9 @@
      This accesskey should be the same like
      sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
      the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
 <!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Poredaj odabir: Z - A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -131,6 +140,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Poredaj odabir: A - Z">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Poredaj odabir: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Pregled">
@@ -313,6 +323,7 @@
 <!ENTITY renameAttachment.label "Preimenuj…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY reorderAttachments.label "Preuredi priloge…">
+<!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY selectAll.label "Označi sve">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Priloži datoteke…">

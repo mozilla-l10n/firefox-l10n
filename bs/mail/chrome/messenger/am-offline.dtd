@@ -8,6 +8,7 @@
 <!ENTITY allFoldersOffline.label "Zadrži poruke ovog računa na ovom računaru">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Zadrži poruke u svim direktorijima za ovaj račun na ovom računaru">
+<!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Napomena: Promjena ovog utiče na sve direktorije ovog računa. Koristite dugme Napredno… da biste podesili direktorije zasebno.">
 <!ENTITY offlineNotDownload.label "Poruke veće od">
 <!ENTITY offlineNotDownload.accesskey "P">

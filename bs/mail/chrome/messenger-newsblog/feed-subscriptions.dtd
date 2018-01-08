@@ -41,6 +41,7 @@
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "a">
 <!ENTITY button.verifyFeed.label     "Provjeri">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Update">
 <!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Ukloni">

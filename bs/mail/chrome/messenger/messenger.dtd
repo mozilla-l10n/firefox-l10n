@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Razgovor">
 <!ENTITY goChatCmd.accesskey "c">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Poruka sa zvjezdicom">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Direktorij">
@@ -460,7 +461,9 @@
 <!ENTITY addons.label "Dodaci">
 <!ENTITY addons.accesskey "A">
 <!ENTITY addonPrefs.label "Opcije dodatka">
+<!ENTITY addonPrefs.accesskey "O">
 <!ENTITY addonPrefsUnix.label "Postavke dodatka">
+<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Nisu pronađene postavke dodatka.">
 <!ENTITY activitymanager.label "Upravitelj aktivnostima">
 <!ENTITY activitymanager.accesskey "v">
@@ -508,6 +511,7 @@
 <!ENTITY addonDebugCmd.label "Otklanjač grešaka dodataka">
 <!ENTITY addonDebugCmd.accesskey "A">
 <!ENTITY debugAddonsCmd.label "Otkloni greške dodataka">
+<!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Otklanjač grešaka za sadržaj okvira">
 <!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Konzola grešaka">
