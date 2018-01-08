@@ -19,7 +19,7 @@
 <!ENTITY alwaysAsk.accesskey          "В">
 <!ENTITY chooseFolderWin.label        "Избор…">
 <!ENTITY chooseFolderWin.accesskey    "И">
-<!ENTITY chooseFolderMac.label        "Избор…">
+<!ENTITY chooseFolderMac.label        "Избиране…">
 <!ENTITY chooseFolderMac.accesskey    "И">
 
 <!ENTITY attachments.incoming.label   "Входящи">
