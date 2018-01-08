@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Logga in för att återansluta">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Du är inte inloggad.">
-<!ENTITY signIn.label                "Logga in">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Ändra profilbild">
-<!ENTITY verifiedManage.label        "Hantera konto">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Koppla från…">
-<!ENTITY disconnect3.accesskey       "f">
+<!ENTITY notSignedIn.label            "Du är inte inloggad.">
+<!ENTITY signIn.label                 "Logga in">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Ändra profilbild">
+<!ENTITY verifiedManage.label         "Hantera konto">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Koppla från…">
+<!ENTITY disconnect3.accesskey        "f">
 <!ENTITY verify.label                "Verifiera e-postadress">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Glöm den här e-postadressen">
 <!ENTITY forget.accesskey            "G">
+
+<!ENTITY resendVerification.label     "Skicka verifiering igen">
+<!ENTITY resendVerification.accesskey "g">
+<!ENTITY cancelSetup.label            "Avbryt konfiguration">
+<!ENTITY cancelSetup.accesskey        "b">
 
 <!ENTITY signedOut.caption            "Ta din webb med dig">
 <!ENTITY signedOut.description        "Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.">
