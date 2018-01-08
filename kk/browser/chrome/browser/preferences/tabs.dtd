@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Терезелерді жаңа бетте ашу">
 <!ENTITY newWindowsAsTabs.accesskey   "Т">
 
+<!ENTITY newWindowsAsTabs2.label       "Сілтемелерді жаңа терезелер орнына жаңа беттерде ашу">
+<!ENTITY newWindowsAsTabs2.accesskey   "з">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Бірнеше беттер бірге жабылған кезде ескерту">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "с">
 
