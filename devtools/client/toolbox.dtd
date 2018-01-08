@@ -70,7 +70,7 @@
   -  options panel and is used for settings that trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* Yalnızca bu oturumda geçerli, sayfayı yeniden yükler">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Tarayıcı chrome’u ve eklenti hata ayıklama araç kutularını etkinleştir">
@@ -144,7 +144,7 @@
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Hata ayıklayıcı">
 
-<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+<!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Kaynak haritalarını etkinleştir">
 <!ENTITY options.sourceMaps.tooltip1   "Bu seçeneği etkinleştirirseniz kaynaklar araçlarda haritalanacaktır.">
@@ -157,7 +157,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "CSS’i otomatik tamamla">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "Stil Editörü’nde siz yazdıkça CSS niteliklerini, değerleri ve seçicileri otomatik tamamlar">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Stil editöründe siz yazdıkça CSS niteliklerini, değerleri ve seçicileri otomatik tamamlar">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options

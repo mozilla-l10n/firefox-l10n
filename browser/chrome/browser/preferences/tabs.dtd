@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Yeni pencere yerine yeni sekme aç">
 <!ENTITY newWindowsAsTabs.accesskey   "Y">
 
+<!ENTITY newWindowsAsTabs2.label       "Bağlantıları yeni pencere yerine yeni sekmede aç">
+<!ENTITY newWindowsAsTabs2.accesskey   "i">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Birden fazla sekmeyi kapatırken beni uyar">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
