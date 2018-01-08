@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Inicia sesión para reconectar">
 <!ENTITY signedInLoginFailure.aftername.label "Favor de iniciar la sesión para reconectar">
 
-<!ENTITY notSignedIn.label           "No has iniciado sesión.">
-<!ENTITY signIn.label                "Iniciar sesión">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Cambiar imagen de perfil">
-<!ENTITY verifiedManage.label        "Administrar cuenta">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Desconectar…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "No has iniciado sesión.">
+<!ENTITY signIn.label                 "Iniciar sesión">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Cambiar imagen de perfil">
+<!ENTITY verifiedManage.label         "Administrar cuenta">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Desconectar…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "Verificar correo electrónico">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Olvidar este correo electrónico">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.label     "Enviar verificación nuevamente">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Cancelar configuración">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Lleva la Web contigo">
 <!ENTITY signedOut.description        "Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y preferencias entre todos tus dispositivos.">
