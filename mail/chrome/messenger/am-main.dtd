@@ -25,7 +25,7 @@
 <!ENTITY signatureFile.label "Прикрепяне на подпис от файл (текст, HTML или изображение):">
 <!ENTITY signatureFile.accesskey "T">
 <!ENTITY edit.label "Промяна…">
-<!ENTITY choose.label "Избор…">
+<!ENTITY choose.label "Избиране…">
 <!ENTITY choose.accesskey "з">
 <!ENTITY editVCard.label "Промяна…">
 <!ENTITY editVCard.accesskey "м">
