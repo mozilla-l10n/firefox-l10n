@@ -819,7 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Pas cap d’onglet sincronizat pel moment.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Volètz afichar los onglets dels vòstres autres periferics aquí ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Vos cal far verificar vòstre compte.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Vos cal verificar vòstre compte.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Pas cap d’onglet dobèrt">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Dobrir las preferénciias del &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
