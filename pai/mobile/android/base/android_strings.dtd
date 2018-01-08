@@ -244,19 +244,40 @@
 <!ENTITY pref_header_search "Ŕmee">
 <!ENTITY pref_header_privacy_short "Jabchu tpaay">
 <!ENTITY pref_header_accessibility "Jabch yu">
+<!ENTITY pref_header_notifications "Chkaabchu">
+<!ENTITY pref_header_advanced "Jiboom">
+<!ENTITY pref_header_help "Chbtaarch">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Sool">
+<!ENTITY pref_cookies_not_accept_foreign "Sool kwa paa jkay uchikyawa">
+<!ENTITY pref_cookies_disabled "Kos sol tem">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "Dat paychak ŕbooch">
 <!ENTITY pref_category_media "Multimedia">
+<!ENTITY pref_category_developer_tools "Chapyt trchechu chajanch">
 
+<!ENTITY pref_tap_to_load_images_title2 "Chapayt paachu ubu">
+<!ENTITY pref_tap_to_load_images_enabled "T t\&apos;or">
+<!ENTITY pref_tap_to_load_images_data "Nyumuk Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Ŕ\&apos; ap">
 
+<!ENTITY pref_show_web_fonts "Tñur ha webm chu ubchu">
+<!ENTITY pref_show_web_fonts_summary2 "Tluruha jukewu ñwam ñulyomuk tñuruha munaal">
 
+<!ENTITY pref_tracking_protection_title2 "Chŕmechuha ŕbooch">
+<!ENTITY pref_donottrack_title "Kos ŕmeetem">
+<!ENTITY pref_donottrack_summary "&brandShortName; hay chmŕmewu kos yamŕal temha mukunaabuwa">
 
+<!ENTITY pref_tracking_protection_enabled "Sool">
+<!ENTITY pref_tracking_protection_enabled_pb "Kos jabch tpaay sol kwa">
+<!ENTITY pref_tracking_protection_disabled "Kos sol tem">
 
+<!ENTITY pref_whats_new_notification "Ñukwee jkaay yo &brandShortName; hal">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -275,6 +296,7 @@
      user needs to enable an Android setting in order to enable tab queues. -->
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
