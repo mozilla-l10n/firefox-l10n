@@ -28,7 +28,7 @@
 <!ENTITY engine.addons.accesskey    "დ">
 <!ENTITY engine.addresses.label     "მისამართები">
 <!ENTITY engine.addresses.title     "შენახული საფოსტო მისამართები (კომპიუტერზე მხოლოდ)">
-<!ENTITY engine.addresses.accesskey "ს">
+<!ENTITY engine.addresses.accesskey "ფ">
 <!ENTITY engine.creditcards.label   "საკრედიტო ბარათები">
 <!ENTITY engine.creditcards.title   "სახელები, ნომრები და ვადები (კომპიუტერზე მხოლოდ)">
 <!ENTITY engine.creditcards.accesskey "კ">
@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "ხელახლა დასაკავშირებლად გთხოვთ შედით სისტემაში">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "თქვენ შესული არ ხართ.">
-<!ENTITY signIn.label                "შესვლა">
-<!ENTITY signIn.accesskey            "ვ">
-<!ENTITY profilePicture.tooltip      "პროფილის სურათის შეცვლა">
-<!ENTITY verifiedManage.label        "ანგარიშის მართვა">
-<!ENTITY verifiedManage.accesskey    "მ">
-<!ENTITY disconnect3.label           "კავშირის გაწყვეტა…">
-<!ENTITY disconnect3.accesskey       "წ">
+<!ENTITY notSignedIn.label            "თქვენ შესული არ ხართ.">
+<!ENTITY signIn.label                 "შესვლა">
+<!ENTITY signIn.accesskey             "ვ">
+<!ENTITY profilePicture.tooltip       "პროფილის სურათის შეცვლა">
+<!ENTITY verifiedManage.label         "ანგარიშის მართვა">
+<!ENTITY verifiedManage.accesskey     "მ">
+<!ENTITY disconnect3.label            "კავშირის გაწყვეტა…">
+<!ENTITY disconnect3.accesskey        "წ">
 <!ENTITY verify.label                "ელფოსტის დამოწმება">
 <!ENTITY verify.accesskey            "დ">
 <!ENTITY forget.label                "ამ ელფოსტის დავიწყება">
 <!ENTITY forget.accesskey            "ყ">
+
+<!ENTITY resendVerification.label     "ხელახლა გამოგზავნა დასამოწმებლად">
+<!ENTITY resendVerification.accesskey "ხ">
+<!ENTITY cancelSetup.label            "გამართვის გაუქმება">
+<!ENTITY cancelSetup.accesskey        "თ">
 
 <!ENTITY signedOut.caption            "წაიყოლეთ თქვენი მონაცემები თან">
 <!ENTITY signedOut.description        "დაასინქრონეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
