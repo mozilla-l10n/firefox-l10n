@@ -8,6 +8,7 @@
 <!ENTITY newWindowsAsTabs.label       "તેના બદલે તેના બદલે નવા ટૅબમાં નવી વિંડોઝ ખોલો">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY newWindowsAsTabs2.label       "નવા વિન્ડોઝને બદલે ટૅબ્સ તરીકે લિંક્સ ખોલો">
 <!ENTITY newWindowsAsTabs2.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "તમને બહુવિધ ટેબ્સ બંધ કરતી વખતે ચેતવશે">
