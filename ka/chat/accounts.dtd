@@ -6,23 +6,36 @@
 <!ENTITY accounts.title                      "ანგარიშები - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow.title                "მყისი შეტყობინების მდგომარეობა">
+<!ENTITY accountsWindow2.style               "სიგრძე: 41em; სიმაღლე: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "ახალი ანგარიში">
 <!ENTITY accountManager.newAccount.accesskey "ა">
 <!ENTITY accountManager.close.label          "დახურვა">
 <!ENTITY accountManager.close.accesskey      "დ">
 <!-- This should match account.commandkey in instantbird.dtd -->
-<!ENTITY accountManager.close.commandkey     "a">
+<!ENTITY accountManager.close.commandkey     "მ">
 <!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "ჯერჯერობით, არცერთი ანგარიში არაა გამართული">
+<!ENTITY accountManager.noAccount.description "დააწკაპეთ &accountManager.newAccount.label; ღილაკზე, რომ დაგეხმაროთ &brandShortName; ახალი ანგარიშის გამართვაში.">
 <!ENTITY account.autoSignOn.label     "შესვლა ჩართვისას">
 <!ENTITY account.autoSignOn.accesskey "ჩ">
 <!ENTITY account.connect.label        "დაკავშირება">
+<!ENTITY account.connect.accesskey    "დ">
 <!ENTITY account.disconnect.label     "კავშირის შეწყვეტა">
+<!ENTITY account.disconnect.accesskey "შ">
 <!ENTITY account.delete.label         "წაშლა">
+<!ENTITY account.delete.accesskey     "წ">
 <!ENTITY account.edit.label           "პარამეტრები">
 <!ENTITY account.edit.accesskey       "პ">
 <!ENTITY account.moveup.label         "გადაადგილება ზემოთ">
 <!ENTITY account.movedown.label       "გადაადგილება ქვემოთ">
+<!ENTITY account.cancelReconnection.label         "ხელახლა დაკავშირების გაუქმება">
+<!ENTITY account.cancelReconnection.accesskey     "გ">
+<!ENTITY account.copyDebugLog.label     "გამართვის აღრიცხვის დაკოპირება">
+<!ENTITY account.copyDebugLog.accesskey "კ">
+<!ENTITY account.showDebugLog.label     "გამართვის აღრიცხვის მონაცემები">
+<!ENTITY account.showDebugLog.accesskey "ც">
 <!ENTITY account.connecting           "დაკავშირება…">
 <!ENTITY account.disconnecting        "კავშირის გაწყვეტა…">
 <!ENTITY account.disconnected         "არაა დაკავშირებული">
