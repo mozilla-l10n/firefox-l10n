@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "من فضلك لج لإعادة التوصيل">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "لست والجًا.">
-<!ENTITY signIn.label                "لِج">
-<!ENTITY signIn.accesskey            "ل">
-<!ENTITY profilePicture.tooltip      "غيّر صورة الحساب">
-<!ENTITY verifiedManage.label        "أدِر الحساب">
-<!ENTITY verifiedManage.accesskey    "س">
-<!ENTITY disconnect3.label           "اقطع الاتصال…">
-<!ENTITY disconnect3.accesskey       "ط">
+<!ENTITY notSignedIn.label            "لست والجًا.">
+<!ENTITY signIn.label                 "لِج">
+<!ENTITY signIn.accesskey             "ل">
+<!ENTITY profilePicture.tooltip       "غيّر صورة الحساب">
+<!ENTITY verifiedManage.label         "أدِر الحساب">
+<!ENTITY verifiedManage.accesskey     "س">
+<!ENTITY disconnect3.label            "اقطع الاتصال…">
+<!ENTITY disconnect3.accesskey        "ط">
 <!ENTITY verify.label                "أكّد البريد">
 <!ENTITY verify.accesskey            "ك">
 <!ENTITY forget.label                "انس هذا البريد">
 <!ENTITY forget.accesskey            "ن">
+
+<!ENTITY resendVerification.label     "أعِد إرسال التأكيد">
+<!ENTITY resendVerification.accesskey "س">
+<!ENTITY cancelSetup.label            "ألغِ الإعداد">
+<!ENTITY cancelSetup.accesskey        "ع">
 
 <!ENTITY signedOut.caption            "خُذ الوِب معك">
 <!ENTITY signedOut.description        "زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.">
