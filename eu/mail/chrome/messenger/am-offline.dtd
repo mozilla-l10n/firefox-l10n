@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "Diskoko lekua aurrezteko, zerbitzaritik mezuak deskargatzea eta lineaz kanpoko erabilerako kopia lokalak gordetzea adinaren edo tamainaren arabera mugatu daiteke.">
 <!ENTITY allFoldersOffline.label "Mantendu kontu honetako mezuak ordenagailu honetan">
 <!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Mantendu kontu honetako karpeta guztietako mezuak ordenagailu honetan">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Oharra: Hau aldatzeak eragina dauka kontu honetako karpeta guztietan. Banakako karpetak ezartzeko erabili Aurreratua… botoia.">
 <!ENTITY offlineNotDownload.label "Hau baino mezu handiagoak:">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Ez deskargatu hau baino mezu handiagoak">
@@ -37,13 +40,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Mezuak sinkronizatzea">
 <!ENTITY diskspaceGroupTitle.label "Diskoko lekua">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Sinkronizatu mezu guztiak lokalki adina kontuan hartu gabe">
 <!ENTITY allAutosync.accesskey           "k">
 <!ENTITY ageAutosyncBefore.label         "Sinkronizatu azken">

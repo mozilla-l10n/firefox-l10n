@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
 
+<!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "Mezuen biltegiratzea">
 <!ENTITY securitySettings.label "Segurtasun-ezarpenak">
@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Begiratu mezurik dagoen ">
 <!ENTITY biffStart.accesskey "g">
 <!ENTITY biffEnd.label "minutuan behin">
-
-
+<!ENTITY useIdleNotifications.label "Baimendu berehalako zerbitzariaren jakinarazpenak mezu berriak iriztean">
+<!ENTITY useIdleNotifications.accesskey "B">
 <!ENTITY connectionSecurity.label "Konexioaren segurtasuna:">
 <!ENTITY connectionSecurity.accesskey "u">
 <!ENTITY connectionSecurityType-0.label "Bat ere ez">
@@ -76,7 +76,7 @@
 <!ENTITY abbreviateOff.label "Izen laburtuak (adibidez, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Aurreratua…">
 <!ENTITY advancedButton.accesskey "u">
-
+<!ENTITY serverDefaultCharset2.label "Testu kodeketa lehenetsia:">
 <!ENTITY localPath.label "Direktorio lokala:">
 <!ENTITY localFolderPicker.label "Hautatu direktorio lokala">
 <!ENTITY browseFolder.label "Arakatu…">
@@ -88,5 +88,5 @@
 <!ENTITY accountSettingsDesc.label "Ondorengoa kontu berezia da. Ez dago identitaterik honi lotuta.">
 <!ENTITY storeType.label "Mezu biltegi mota:">
 <!ENTITY storeType.accesskey "m">
-
+<!ENTITY mboxStore2.label "Karpeta bakoitzeko fitxategi bat (mbox)">
 <!ENTITY maildirStore.label "Mezu bakoitzeko fitxategi bat (maildir)">
