@@ -153,9 +153,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceLatency "যোজনী">
 
 <!ENTITY aboutSupport.intlTitle "আন্তর্জাতিকিকরণ &amp; স্থানীয়করণ">
+<!ENTITY aboutSupport.intlAppTitle "অ্যাপ্লিকেশন সেটিং">
 <!ENTITY aboutSupport.intlLocalesRequested "অনুরোধকৃত লোকেলগুলি">
 <!ENTITY aboutSupport.intlLocalesAvailable "উপলব্ধ লোকেলগুলি">
 <!ENTITY aboutSupport.intlLocalesSupported "অ্যাপ লোকেলস">
 <!ENTITY aboutSupport.intlLocalesDefault "ডিফল্ট লোকেল">
 <!ENTITY aboutSupport.intlOSTitle "অপারেটিং সিস্টেম">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "সিস্টেম লোকেল">
 <!ENTITY aboutSupport.intlRegionalPrefs "আঞ্চলিক পছন্দসমূহ">
