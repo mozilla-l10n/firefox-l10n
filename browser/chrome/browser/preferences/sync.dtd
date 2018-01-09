@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Моля, впишете се, за да се свържете наново">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Не сте вписани.">
-<!ENTITY signIn.label                "Вписване">
-<!ENTITY signIn.accesskey            "В">
-<!ENTITY profilePicture.tooltip      "Промяна снимката на профила">
-<!ENTITY verifiedManage.label        "Управление на сметката">
-<!ENTITY verifiedManage.accesskey    "У">
-<!ENTITY disconnect3.label           "Изключване…">
-<!ENTITY disconnect3.accesskey       "И">
+<!ENTITY notSignedIn.label            "Не сте вписани.">
+<!ENTITY signIn.label                 "Вписване">
+<!ENTITY signIn.accesskey             "В">
+<!ENTITY profilePicture.tooltip       "Промяна снимката на профила">
+<!ENTITY verifiedManage.label         "Управление на сметката">
+<!ENTITY verifiedManage.accesskey     "У">
+<!ENTITY disconnect3.label            "Изключване…">
+<!ENTITY disconnect3.accesskey        "И">
 <!ENTITY verify.label                "Проверка на мейла">
 <!ENTITY verify.accesskey            "П">
 <!ENTITY forget.label                "Забравяне на ел. пощата">
 <!ENTITY forget.accesskey            "З">
+
+<!ENTITY resendVerification.label     "Повторно изпращане на потвърждение">
+<!ENTITY resendVerification.accesskey "в">
+<!ENTITY cancelSetup.label            "Отказ">
+<!ENTITY cancelSetup.accesskey        "з">
 
 <!ENTITY signedOut.caption            "Вземете Мрежата със себе си">
 <!ENTITY signedOut.description        "Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.">
