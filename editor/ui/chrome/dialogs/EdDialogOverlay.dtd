@@ -12,7 +12,9 @@
 <!ENTITY makeUrlRelative.label "URLa orriaren helbidearekiko erlatiboa da">
 <!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "URL erlatibo eta absolutuaren artean aldaketak. Hau gordetzeko orria gorde behar duzu lehendabizi.">
-<!-- Shared by Link and Image dialogs -->
 
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Sartu webgune baten kokalekua edo fitxategi lokal bat, edo aukeratu zerrendatik izendatutako aingura edo goiburuko bat:">
 <!ENTITY LinkURLEditField.accessKey "l">
+<!ENTITY LinkURLEditField2.label "Sartu web orri kokapena, fitxategi lokala, edo aukeratu izendatutako aingura edo izenburua eremuaren laster-menutik:">
+<!ENTITY LinkURLEditField2.accessKey "S">

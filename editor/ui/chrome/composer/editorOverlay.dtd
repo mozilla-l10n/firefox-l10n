@@ -81,6 +81,18 @@
 
 <!ENTITY fontSizeMenu.label "Tamaina">
 <!ENTITY fontSizeMenu.accesskey "m">
+<!ENTITY size-tinyCmd.label "Oso txikia">
+<!ENTITY size-tinyCmd.accesskey "O">
+<!ENTITY size-smallCmd.label "Txikia">
+<!ENTITY size-smallCmd.accesskey "T">
+<!ENTITY size-mediumCmd.label "Ertaina">
+<!ENTITY size-mediumCmd.accesskey "E">
+<!ENTITY size-largeCmd.label "Handia">
+<!ENTITY size-largeCmd.accesskey "H">
+<!ENTITY size-extraLargeCmd.label "Oso handia">
+<!ENTITY size-extraLargeCmd.accesskey "X">
+<!ENTITY size-hugeCmd.label "Itzela">
+<!ENTITY size-hugeCmd.accesskey "I">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Testu estiloa">
@@ -296,6 +308,7 @@
 <!ENTITY HighlightColorButton.tooltip "Aukeratu testuaren nabarmentze-kolorea">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ezarri letra-tipo tamaina">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Letra tamaina txikiagoa">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Letra tamaina handiagoa">
 <!ENTITY boldToolbarCmd.tooltip "Lodia">
