@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY removePassword.title              "მთავარი პაროლის მოხსნა">
-<!ENTITY removeInfo.label                  "გასაგრძელებლად უნდა მიუთითოთ თქვენი მიმდინარე პაროლი:">
+<!ENTITY removeInfo.label                  "გასაგრძელებლად, მიუთითეთ პაროლი:">
 <!ENTITY removeWarning1.label              "თქვენი მთავარი პაროლი გამოიყენება, მნიშვნელოვანი მონაცემების დასაცავად, მაგალითად, ანგარიშების პაროლები.">
 <!ENTITY removeWarning2.label              "თუ მთავარ პაროლს ამოიღებთ თქვენი მონაცემები დაუცველი დარჩება, რაც შეიძლება მათი ხელყოფის მიზეზი გახდეს.">
 <!ENTITY setPassword.oldPassword.label     "მიმდინარე პაროლი:">
