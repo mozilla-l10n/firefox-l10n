@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "o">
-<!ENTITY bookmarkThisPageCmd.label "Pridať medzi záložky">
+<!ENTITY bookmarkThisPageCmd.label "Pridať stránku medzi záložky">
 <!ENTITY editThisBookmarkCmd.label "Upraviť túto záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -574,8 +574,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label      "Nastaviť ako pozadie pracovnej plochy…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "N">
-<!ENTITY bookmarkPageCmd2.label       "Vytvoriť záložku pre túto stránku">
-<!ENTITY bookmarkThisLinkCmd.label      "Vytvoriť záložku pre tento odkaz">
+<!ENTITY bookmarkPageCmd2.label       "Pridať stránku medzi záložky">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.label      "Pridať tento odkaz medzi záložky">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "i">
 <!ENTITY bookmarkThisFrameCmd.label      "Vytvoriť záložku pre tento rámec">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "V">
