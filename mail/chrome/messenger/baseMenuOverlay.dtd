@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Help Menu -->
 
+<!-- Help Menu -->
 <!ENTITY helpMenu.label "Laguntza">
 <!ENTITY helpMenu.accesskey "L">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
@@ -21,8 +21,12 @@
 <!ENTITY openHelp.accesskey "L">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName;(r)en laguntza">
+<!ENTITY openHelpMac2.label "&brandShortName;(r)en laguntza">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "&brandShortName;(r)i buruz">
 <!ENTITY aboutMenuCmd.accesskey "b">
+
+<!ENTITY aboutMenuCmd2.label "&brandFullName;(r)i buruz">
+<!ENTITY aboutMenuCmd2.accesskey "b">

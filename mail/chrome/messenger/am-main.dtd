@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Kontu-ezarpenak">
 <!ENTITY accountName.label "Kontuaren izena:">
@@ -35,10 +35,11 @@
 
 <!ENTITY manageIdentities.label "Kudeatu identitateak…">
 <!ENTITY manageIdentities.accesskey "K">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Irteerako SMTP zerbitzaria:">
 <!ENTITY smtpName.accesskey "o">
 <!ENTITY smtpDefaultServer.label "Erabili zerbitzari lehenetsia">
 
-
+<!ENTITY smtpServerEdit.label "Editatu SMTP zerbitzaria…">
+<!ENTITY smtpServerEdit.accesskey "P">

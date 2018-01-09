@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
@@ -10,6 +11,7 @@
 <!ENTITY copiesFoldersTab.label "Kopiak eta karpetak">
 <!ENTITY addressingTab.label    "Mezuak prestatzea eta helbideratzea">
 
-
-
-
+<!ENTITY publicData.label        "Datu publikoak">
+<!ENTITY privateData.label       "Datu pribatuak">
+<!ENTITY identityAlias.label     "Identitate etiketa:">
+<!ENTITY identityAlias.accesskey "I">
