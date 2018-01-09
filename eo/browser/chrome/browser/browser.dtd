@@ -189,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "K">
 
 <!ENTITY backCmd.label                "Malantaŭen">
+<!ENTITY backCmd.accesskey            "M">
 <!ENTITY backButton.tooltip           "Unu paĝo malantaŭen">
 <!ENTITY forwardCmd.label             "Antaŭen">
+<!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Unu paĝo antaŭen">
 <!ENTITY backForwardButtonMenu.tooltip "Alklaku per la dekstra butono aŭ tiru malsupren por montri la historion">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tiru malsupren por montri la historion">
 <!ENTITY reloadCmd.label              "Reŝargi">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Halti">
+<!ENTITY stopCmd.accesskey            "H">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Iri al la adreso en la retadresa strio">
 <!ENTITY printButton.label            "Presi">
@@ -232,6 +236,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Vi blokis la daŭran konservejon por ĉi tiu retejo.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Vi blokis ŝprucfenestrojn por tiu ĉi retejo.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Vi blokis la eltiron de datumoj el kanvaso por tiu ĉi retejo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
 
@@ -569,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Difini kiel skribotablan fonan bildon…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "D">
 <!ENTITY bookmarkPageCmd2.label       "Aldoni legosignon por tiu ĉi paĝo">
+<!ENTITY bookmarkPageCmd2.accesskey   "l">
 <!ENTITY bookmarkThisLinkCmd.label      "Aldoni legosignon por tiu ĉi ligilo">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
@@ -991,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Restartigu por ĝisdatigi &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Etendaĵo ŝanĝis la paĝon, kiun vi vidas kiam vi malfermas novan langeton. Vi povas remeti viajn agordojn se vi ne volas tiun ĉi ŝanĝon.">
 <!ENTITY newTabControlled.header.message "Via nova langeto ŝanĝiĝis.">
 <!ENTITY newTabControlled.keepButton.label "Gardi ŝanĝojn">
 <!ENTITY newTabControlled.keepButton.accesskey "G">

@@ -154,6 +154,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Frekvenco">
 <!ENTITY aboutSupport.mediaDeviceLatency "Prokrasto">
 
+<!ENTITY aboutSupport.intlTitle "Lingvo kaj internacieco">
 <!ENTITY aboutSupport.intlAppTitle "Agordoj de programo">
 <!ENTITY aboutSupport.intlLocalesRequested "Petitaj lingvoj">
 <!ENTITY aboutSupport.intlLocalesAvailable "Disponeblaj lingvoj">
