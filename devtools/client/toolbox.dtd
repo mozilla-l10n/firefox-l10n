@@ -162,12 +162,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Comportament de la captura de pantalla">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Captura de pantalla al porta-retalls">
+<!ENTITY options.screenshot.clipboard.tooltip    "Desa la captura de pantalla directament al porta-retalls">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Reprodueix un so d'obturador de càmera">
+<!ENTITY options.screenshot.audio.tooltip    "Activa el so d'obturador de càmera fotogràfica en fer una captura de pantalla">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
