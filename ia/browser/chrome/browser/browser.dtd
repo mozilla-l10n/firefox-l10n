@@ -903,7 +903,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Celar automaticamente">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera a compartir:">
+<!ENTITY getUserMedia.selectCamera.label "Photo-camera a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microphono a compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">

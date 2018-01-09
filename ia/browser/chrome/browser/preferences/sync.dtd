@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Per favor authentica te pro te reconnecter">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Tu non es connectite.">
-<!ENTITY signIn.label                "Authenticar se">
-<!ENTITY signIn.accesskey            "A">
-<!ENTITY profilePicture.tooltip      "Cambiar le imagine del profilo">
-<!ENTITY verifiedManage.label        "Gerer le conto">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Disconnecter se…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "Tu non es connectite.">
+<!ENTITY signIn.label                 "Authenticar se">
+<!ENTITY signIn.accesskey             "A">
+<!ENTITY profilePicture.tooltip       "Cambiar le imagine del profilo">
+<!ENTITY verifiedManage.label         "Gerer le conto">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Disconnecter se…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "Verificar le email">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Oblidar iste email">
 <!ENTITY forget.accesskey            "O">
+
+<!ENTITY resendVerification.label     "Reinviar le verification">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Cancellar le configuration">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Porta le web con te">
 <!ENTITY signedOut.description        "Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote tu apparatos.">
