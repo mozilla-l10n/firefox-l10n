@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Вместо новых окон открывать новые вкладки">
 <!ENTITY newWindowsAsTabs.accesskey   "ы">
 
+<!ENTITY newWindowsAsTabs2.label       "Открывать ссылки во вкладках вместо новых окон">
+<!ENTITY newWindowsAsTabs2.accesskey   "ы">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Предупреждать при закрытии нескольких вкладок">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "д">
 
