@@ -460,6 +460,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Doplnky">
 <!ENTITY addons.accesskey "D">
+<!ENTITY addonPrefs.label "Možnosti doplnku">
+<!ENTITY addonPrefs.accesskey "o">
+<!ENTITY addonPrefsUnix.label "Možnosti doplnku">
+<!ENTITY addonPrefsUnix.accesskey "o">
+<!ENTITY addonNoPrefs.label "Neboli nájdené žiadne nastavenia doplnku.">
 <!ENTITY activitymanager.label "Správca činností">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Stav pre konverzácie">
@@ -503,8 +508,10 @@
 <!ENTITY devToolboxCmd.label "Vývojárske nástroje">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Debugger pre doplnky">
-<!ENTITY addonDebugCmd.accesskey "D">
+<!ENTITY addonDebugCmd.label "Ladič doplnkov">
+<!ENTITY addonDebugCmd.accesskey "d">
+<!ENTITY debugAddonsCmd.label "Ladiť doplnky">
+<!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Debugger obsahu rámcov">
 <!ENTITY tabsDebugCmd.accesskey "b">
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
