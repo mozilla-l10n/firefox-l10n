@@ -7,23 +7,30 @@
 <!ENTITY engine.bookmarks.label     "legosignojn">
 <!ENTITY engine.bookmarks.accesskey "l">
 <!ENTITY engine.tabs.label2         "malfermitajn langetojn">
+<!ENTITY engine.tabs.title          "Listo de ĉio, kio estas malfermita, en ĉiuj spegulitaj aparatoj">
 <!ENTITY engine.tabs.accesskey      "g">
 <!ENTITY engine.history.label       "historion">
 <!ENTITY engine.history.accesskey   "h">
 <!ENTITY engine.logins.label        "Akreditiloj">
+<!ENTITY engine.logins.title        "Nomoj de uzanto kaj pasvortoj konservitaj de vi">
 <!ENTITY engine.logins.accesskey    "A">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Elektebloj">
+<!ENTITY engine.prefsWin.accesskey  "E">
 <!ENTITY engine.prefs.label         "preferojn">
 <!ENTITY engine.prefs.accesskey     "p">
+<!ENTITY engine.prefs.title         "Ĝeneralaj, privatecaj kaj sekurecaj agordoj ŝanĝitaj de vi">
 <!ENTITY engine.addons.label        "aldonaĵon">
+<!ENTITY engine.addons.title        "Etendaĵoj kaj etosoj por komputila Firefox">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "Adresoj">
+<!ENTITY engine.addresses.title     "Poŝtaj adresoj konservitaj de vi (nur en komputilo)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kreditkartoj">
+<!ENTITY engine.creditcards.title   "Nomoj, numeroj kaj datoj de senvalidiĝo (nur en komputilo)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
@@ -55,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Bonvolu komenci seancon por rekonekti">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Vi ne komencis seancon.">
-<!ENTITY signIn.label                "Komenci seancon">
-<!ENTITY signIn.accesskey            "K">
-<!ENTITY profilePicture.tooltip      "Ŝanĝi bildon de profilo">
-<!ENTITY verifiedManage.label        "Administri konton">
-<!ENTITY verifiedManage.accesskey    "A">
-<!ENTITY disconnect3.label           "Malkonekti…">
-<!ENTITY disconnect3.accesskey       "M">
+<!ENTITY notSignedIn.label            "Vi ne komencis seancon.">
+<!ENTITY signIn.label                 "Komenci seancon">
+<!ENTITY signIn.accesskey             "K">
+<!ENTITY profilePicture.tooltip       "Ŝanĝi bildon de profilo">
+<!ENTITY verifiedManage.label         "Administri konton">
+<!ENTITY verifiedManage.accesskey     "A">
+<!ENTITY disconnect3.label            "Malkonekti…">
+<!ENTITY disconnect3.accesskey        "M">
 <!ENTITY verify.label                "Konfirmi retpoŝton">
 <!ENTITY verify.accesskey            "r">
 <!ENTITY forget.label                "Forgesi tiun ĉi retpoŝton">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.label     "Resendi kontrolon">
+<!ENTITY resendVerification.accesskey "k">
+<!ENTITY cancelSetup.label            "Nuligi agordon">
+<!ENTITY cancelSetup.accesskey        "a">
 
 <!ENTITY signedOut.caption            "Kunporti vian Teksaĵon kun vi">
 <!ENTITY signedOut.description        "Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj preferojn en ĉiuj viaj aparatoj.">

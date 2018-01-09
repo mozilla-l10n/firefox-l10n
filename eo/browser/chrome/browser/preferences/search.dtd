@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Uzi la adresan strion por serĉi kaj viziti">
 <!ENTITY searchBar.shown.label                 "Aldoni serĉan strion al ilaro">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Montri serĉajn sugestojn antaŭ ol retuman historion en la resultoj de la adresa strio">
+
 <!ENTITY defaultSearchEngine.label             "Norma serĉilo">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Elekti la norman serĉilon por la adresa kaj serĉa strio.">
