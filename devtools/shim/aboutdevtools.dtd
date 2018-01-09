@@ -65,9 +65,11 @@
 
 <!ENTITY  aboutDevtools.welcome.title "¡Bienvenido a las herramientas de desarrollador de Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Boletín de Desarrolladores de Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Obtenga noticias, trucos y recursos de desarrollador directamente en su casilla de correo.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Correo electrónico">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Acepto que Mozilla maneje mis datos tal como explica en la <a class='external' href='https://www.mozilla.org/privacy/'>Política de privacidad</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Suscribirse">
@@ -75,6 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Si todavía no confirmó la suscripción a un boletín relacionado con Mozilla, puede que resulte necesario hacerlo. Por favor verifique si le llegó un correo electrónico nuestro a la Bandeja de entrada o si está en el filtro de Correo basura.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "¿Busca algo más que herramientas para desarrolladores? Compruebe que el navegador Firefox es construido específicamente para los desarrolladores y los procesos de trabajo modernos.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
