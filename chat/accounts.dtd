@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Account manager window for Instantbird -->
 
+<!-- Account manager window for Instantbird -->
 <!ENTITY accounts.title                      "Kontuak - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
@@ -14,6 +14,7 @@
 <!ENTITY accountManager.close.label          "Itxi">
 <!ENTITY accountManager.close.accesskey      "t">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Ez da konturik konfiguratu oraindik">
 <!ENTITY accountManager.noAccount.description "Egin klik &accountManager.newAccount.label; botoian &brandShortName;(e)k konfigurazio-prozesuan zehar gida zaitzan.">
@@ -33,8 +34,8 @@
 <!ENTITY account.cancelReconnection.accesskey     "U">
 <!ENTITY account.copyDebugLog.label     "Kopiatu arazketa-loga">
 <!ENTITY account.copyDebugLog.accesskey "K">
-
-
+<!ENTITY account.showDebugLog.label     "Erakutsi arazketa egunkaria">
+<!ENTITY account.showDebugLog.accesskey "H">
 <!ENTITY account.connecting           "Konektatzen...">
 <!ENTITY account.disconnecting        "Deskonektatzen…">
 <!ENTITY account.disconnected         "Konektatu gabe">
