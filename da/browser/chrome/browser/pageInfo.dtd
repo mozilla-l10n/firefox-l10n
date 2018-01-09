@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Spørg altid">
 <!ENTITY  permAllow             "Tillad">
 <!ENTITY  permAllowSession      "Tillad for sessionen">
+<!ENTITY  permHide              "Skjul">
 <!ENTITY  permBlock             "Bloker">
 <!ENTITY  permissionsFor        "Tilladelser for:">
 <!ENTITY  permPlugins           "Aktivere plugins">

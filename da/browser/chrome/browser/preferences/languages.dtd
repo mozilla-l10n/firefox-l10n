@@ -16,3 +16,5 @@
 <!ENTITY languages.customize.addButton.label            "Tilføj">
 <!ENTITY languages.customize.addButton.accesskey        "T">
 
+
+<!ENTITY languages.customize.spoofEnglish               "Anmod om engelske version af websider for øget beskyttelse af dit privatliv">

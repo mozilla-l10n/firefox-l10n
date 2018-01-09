@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Åbn links i faneblade, hvor de ellers ville blive åbnet i vinduer">
 <!ENTITY newWindowsAsTabs.accesskey   "f">
 
+<!ENTITY newWindowsAsTabs2.label       "Åbn links i faneblade fremfor i nye vinduer">
+<!ENTITY newWindowsAsTabs2.accesskey   "f">
+
 <!ENTITY warnOnCloseMultipleTabs.label  "Advar mig, når jeg lukker flere faneblade">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "l">
 
