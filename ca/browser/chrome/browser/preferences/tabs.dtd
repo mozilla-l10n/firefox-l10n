@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Fes que les finestres noves s'obrin en pestanyes noves">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY newWindowsAsTabs2.label       "Obre els enllaços en pestanyes en lloc de finestres noves">
+<!ENTITY newWindowsAsTabs2.accesskey   "f">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Avisa en tancar diverses pestanyes de cop">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "d">
 
