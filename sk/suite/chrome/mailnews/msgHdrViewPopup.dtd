@@ -17,7 +17,7 @@
 <!ENTITY CreateFilterFrom.accesskey        "f">
 <!ENTITY openInBrowser.label               "Otvoriť v prehliadači">
 <!ENTITY openInBrowser.accesskey           "t">
-<!ENTITY bookmarkLinkCmd.label             "Pridať medzi záložky…">
+<!ENTITY bookmarkLinkCmd.label             "Pridať tento odkaz medzi záložky…">
 <!ENTITY bookmarkLinkCmd.accesskey         "d">
 <!ENTITY copyLinkCmd.label                 "Kopírovať adresu odkazu">
 <!ENTITY copyLinkCmd.accesskey             "a">
