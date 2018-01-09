@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Поправљач грешака додатака">
 <!ENTITY addonDebugCmd.accesskey "П">
+<!ENTITY debugAddonsCmd.label "Поправљај грешке додатака">
+<!ENTITY debugAddonsCmd.accesskey "г">
 <!ENTITY tabsDebugCmd.label "Поправљач грешака кадрова садржаја">
 <!ENTITY tabsDebugCmd.accesskey "г">
 <!ENTITY errorConsoleCmd.label "Конзола са грешкама">

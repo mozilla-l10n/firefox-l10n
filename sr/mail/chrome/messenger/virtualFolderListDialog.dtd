@@ -6,3 +6,5 @@
 <!ENTITY virtualFolderDesc.label       "Изаберите које фасцикле треба претражити:">
 
 
+<!ENTITY folderName.label "Назив фасцикле">
+<!ENTITY folderSearch.label "Претрага">
