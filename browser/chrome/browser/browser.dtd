@@ -274,7 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "ხელსაწყოები">
 <!ENTITY toolsMenu.accesskey          "ხ">
 
-<!ENTITY keywordfield.label           "ძიებისთვის მალსახმობის შექმნა…">
+<!ENTITY keywordfield.label           "ძიებისთვის საკვანძო სიტყვის მინიჭება…">
 <!ENTITY keywordfield.accesskey       "მ">
 
 <!ENTITY downloads.label              "ჩამოტვირთვები">
