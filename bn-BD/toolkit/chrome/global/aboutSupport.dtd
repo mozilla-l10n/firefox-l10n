@@ -152,6 +152,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "মূল্যায়ন করুন">
 <!ENTITY aboutSupport.mediaDeviceLatency "যোজনী">
 
+<!ENTITY aboutSupport.intlTitle "আন্তর্জাতিকিকরণ &amp; স্থানীয়করণ">
 <!ENTITY aboutSupport.intlLocalesRequested "অনুরোধকৃত লোকেলগুলি">
 <!ENTITY aboutSupport.intlLocalesAvailable "উপলব্ধ লোকেলগুলি">
 <!ENTITY aboutSupport.intlLocalesSupported "অ্যাপ লোকেলস">
