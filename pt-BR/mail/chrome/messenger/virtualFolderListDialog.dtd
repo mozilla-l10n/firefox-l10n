@@ -6,3 +6,5 @@
 <!ENTITY virtualFolderDesc.label       "Selecione as pastas que serão pesquisadas:">
 
 
+<!ENTITY folderName.label "Nome da pasta">
+<!ENTITY folderSearch.label "Pesquisar">
