@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Prie">
 <!ENTITY signedInLoginFailure.aftername.label "reikia prisijungti iš naujo">
 
-<!ENTITY notSignedIn.label           "Jūs nesate prisijungę.">
-<!ENTITY signIn.label                "Prisijungti">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Keisti profilio nuotrauką">
-<!ENTITY verifiedManage.label        "Tvarkyti paskyrą">
-<!ENTITY verifiedManage.accesskey    "y">
-<!ENTITY disconnect3.label           "Atsijungti…">
-<!ENTITY disconnect3.accesskey       "t">
+<!ENTITY notSignedIn.label            "Jūs nesate prisijungę.">
+<!ENTITY signIn.label                 "Prisijungti">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Keisti profilio nuotrauką">
+<!ENTITY verifiedManage.label         "Tvarkyti paskyrą">
+<!ENTITY verifiedManage.accesskey     "y">
+<!ENTITY disconnect3.label            "Atsijungti…">
+<!ENTITY disconnect3.accesskey        "t">
 <!ENTITY verify.label                "Patvirtinti el. paštą">
 <!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Užmiršti šį el. paštą">
 <!ENTITY forget.accesskey            "U">
+
+<!ENTITY resendVerification.label     "Pakartotinai išsiųsti patvirtinimą">
+<!ENTITY resendVerification.accesskey "k">
+<!ENTITY cancelSetup.label            "Nutraukti konfigūravimą">
+<!ENTITY cancelSetup.accesskey        "f">
 
 <!ENTITY signedOut.caption            "Pasiimkite savo saityną kartu">
 <!ENTITY signedOut.description        "Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.">
