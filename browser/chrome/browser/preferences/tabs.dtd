@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "కొత్త విండోలను కొత్త ట్యాబులో తెరువు">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY newWindowsAsTabs2.label       "లంకెలను కొత్త విండోలుగా కాక ట్యాబులుగా తెరువు">
+<!ENTITY newWindowsAsTabs2.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "పలు ట్యాబులను మూసివేస్తున్నప్పుడు మిమ్మల్ని హెచ్చరించు">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 

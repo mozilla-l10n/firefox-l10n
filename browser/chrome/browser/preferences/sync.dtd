@@ -56,18 +56,22 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "మళ్ళీ అనుసంధానించడానికి సైన్ ఇన్ అవ్వండి">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "మీరు ప్రవేశించి లేరు.">
-<!ENTITY signIn.label                "ప్రవేశించండి">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "ప్రొఫైల్ చిత్రం మార్చు">
-<!ENTITY verifiedManage.label        "ఖాతా నిర్వహణ">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "అనుసంధానం తెంచు…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "మీరు ప్రవేశించి లేరు.">
+<!ENTITY signIn.label                 "ప్రవేశించండి">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "ప్రొఫైల్ చిత్రం మార్చు">
+<!ENTITY verifiedManage.label         "ఖాతా నిర్వహణ">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "అనుసంధానం తెంచు…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "ఈమెయిలు నిర్థారించు">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ఈ ఈమెయిలును మర్చిపో">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "అమర్పు రద్దుచేయి">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "మీ జాలాన్ని మీతో తీసుకువెళ్ళండి">
 <!ENTITY signedOut.description        "మీ ఇష్టాంశాలను, చరిత్రను, ట్యాబులను, సంకేతపదాలను, పొడగింతలను, అభిరుచులను మీ పరికరాలన్నింటిలోనూ సింక్రనైజ్ చెయ్యండి.">

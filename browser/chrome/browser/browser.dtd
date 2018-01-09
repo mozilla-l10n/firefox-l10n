@@ -999,6 +999,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.allowInUrlbar.label "చిరునామా పట్టీలో చూపించు">
 <!ENTITY pageAction.disallowInUrlbar.label "చిరునామా పట్టీలో చూపించకు">
+<!ENTITY pageAction.manageExtension.label "పొడగింత నిర్వహణ…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ట్యాబుని పరికరానికి పంపు">
 <!ENTITY sendToDevice.syncNotReady.label "పరికరాలను సమకాలీకరిస్తోంది…">
