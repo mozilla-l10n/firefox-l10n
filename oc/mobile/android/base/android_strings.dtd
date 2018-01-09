@@ -792,7 +792,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history_description "Autorizar los membres de la familha a escafar d’informacions al subjècte dels sites e paginas qu’an visitats.">
 <!ENTITY restrictable_feature_advanced_settings "Paramètres avançats">
 <!ENTITY restrictable_feature_advanced_settings_description "Aquò compren de marcapaginas importats, onglets restablits e mesas a jorn automaticas. Desactivatz-o se volètz de paramètres mai simples per totes los membres de la familha.">
-<!ENTITY restrictable_feature_camera_microphone "Camerà e microfòn">
+<!ENTITY restrictable_feature_camera_microphone "Camèra e microfòn">
 <!ENTITY restrictable_feature_camera_microphone_description "Autorizar los membres de la familha a participar a de comunicacions en temps real suls sites web.">
 <!ENTITY restrictable_feature_block_list "Lista dels blocats">
 <!ENTITY restrictable_feature_block_list_description "Blocar los sites web amb de contengut sensible.">
