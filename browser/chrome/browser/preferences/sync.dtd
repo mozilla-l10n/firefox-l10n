@@ -74,6 +74,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Lupakan Surel ini">
 <!ENTITY forget.accesskey            "L">
 
+<!ENTITY resendVerification.label     "Kirim Ulang Verifikasi">
 <!ENTITY resendVerification.accesskey "u">
 <!ENTITY cancelSetup.label            "Batalkan Penyiapan">
 <!ENTITY cancelSetup.accesskey        "B">
