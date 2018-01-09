@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Ĉiam demandi">
 <!ENTITY  permAllow             "Permesi">
 <!ENTITY  permAllowSession      "Permesi dum la seanco">
+<!ENTITY  permHide              "Kaŝi">
 <!ENTITY  permBlock             "Bloki">
 <!ENTITY  permissionsFor        "Permesoj por:">
 <!ENTITY  permPlugins           "Aktivigi komprogramojn">
