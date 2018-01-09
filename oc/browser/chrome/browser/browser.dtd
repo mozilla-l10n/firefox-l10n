@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gardar las donadas dins un emmagazinatge permanent">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Lo navigador es contrarotlat a distància">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra camèra o vòstre microfòn amb aqueste site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Actualament, partejatz vòstre microfòn amb lo site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gerir lo partiment de vòstras fenèstras o d'ecran amb aqueste site">
 
@@ -227,7 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerir la traduccion de paginas">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerir l’utilizacion dels logicials DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Avètz blocat la camarà per aqueste site.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Avètz blocat la camèra per aqueste site.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Avètz blocat lo microfòn per aqueste site.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Avètz empachat aquel site de partejar vòstre ecran.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Avètz blocat la geolocalizacion per aqueste site.">
@@ -903,7 +903,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Amagar automaticament">
 
-<!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
+<!ENTITY getUserMedia.selectCamera.label "Camèra de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
