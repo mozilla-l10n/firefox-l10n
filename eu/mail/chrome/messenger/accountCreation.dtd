@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Posta-kontuaren konfigurazioa">
+<!ENTITY autoconfigWizard2.title         "Ezarri baduzun posta elektroniko bat">
 <!ENTITY name.label                      "Zure izena:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Izena, abizena">
 <!ENTITY name.text                       "Zure izena, besteei erakutsiko zaien bezala">
 <!ENTITY email.label                     "Helbide elektronikoa:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "eposta@adibidea.eus">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Zure posta elektroniko bat">
 <!ENTITY password.label                  "Pasahitza:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Pasahitza">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "B">
 <!ENTITY manual-edit.label               "Eskuzko konfigurazioa">
 <!ENTITY manual-edit.accesskey           "E">
-<!ENTITY switch-to-provisioner.label     "Lortu kontu berria">
-<!ENTITY switch-to-provisioner.accesskey "L">
+<!ENTITY open-provisioner.label          "Eskuratu posta elektroniko berri bat…">
+<!ENTITY open-provisioner.accesskey      "p">
 
 
 <!ENTITY warning.label                   "Kontuz!">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Egiaztatu ortografia">
 
 <!ENTITY misspelledWord.label "Gaizki idatzitako hitza:">
@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "r">
 <!ENTITY replaceAllButton.label "Ordeztu denak">
 <!ENTITY replaceAllButton.accessKey "a">
-
-
+<!ENTITY stopButton.label "Gelditu">
+<!ENTITY stopButton.accessKey "G">
 <!ENTITY userDictionary.label "Hiztegi pertsonala:">
 <!ENTITY moreDictionaries.label "Deskargatu hiztegi gehiago...">
 <!ENTITY addToUserDictionaryButton.label "Hitza gehitu">
 <!ENTITY addToUserDictionaryButton.accessKey "g">
 <!ENTITY editUserDictionaryButton.label "Editatu...">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-
-
+<!ENTITY recheckButton2.label "Berraztertu testua">
+<!ENTITY recheckButton2.accessKey "T">
 <!ENTITY closeButton.label "Itxi">
 <!ENTITY closeButton.accessKey "I">
 <!ENTITY sendButton.label "Bidali">
