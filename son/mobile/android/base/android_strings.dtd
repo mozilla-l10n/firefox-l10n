@@ -289,6 +289,8 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "Boŋše kanjey">
+<!ENTITY pref_custom_tabs_summary4 "Naŋ porogaram-izey ma internet gundekuna feeri zumandi cahãnte kanji ra">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -297,6 +299,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL berante">
 
+<!ENTITY pref_pwa "Interneti sawandi porogam-izey">
+<!ENTITY pref_pwa_summary "Naŋ interneti porogaram-izey ma tonton šintinmoɲoo ga">
 
 <!ENTITY tracking_protection_prompt_title "Sohõ nda ganayan jejebu">
 <!ENTITY tracking_protection_prompt_text "Ga hayizey kaŋyaŋ ga war gana gagay, adiši war ma ši joote.">
@@ -359,6 +363,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Naŋ QR bii-bebekaw URL zuwoo ra">
 
 <!ENTITY pref_use_master_password "Takaddaɲaa šennikufal beeroo">
+<!ENTITY pref_sync_default_title "Firefox kontu">
 <!ENTITY pref_sync2 "Huru">
 <!ENTITY pref_sync_summary2 "War kanjey, doo-šilbawey, šennikufaley, taarikoo hangandi cere">
 <!ENTITY pref_search_suggestions "Ceeci honnandiyaney cebe">
@@ -851,10 +856,19 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Kaa">
 <!ENTITY activity_stream_delete_history "Kaa taarikoo ra">
 
+<!ENTITY private_tab_panel_title "Sutura naaruyan nda ganayan jejebu">
+<!ENTITY private_tab_panel_description "&brandShortName; na moo nunguyaŋ ganji kaŋ ga hin ka war naarumi goyey hawgay.">
+<!ENTITY private_tab_panel_description2 "Ir ši taariki kul gaabu, amma tuku zumantey nda doo-šilbay kokorantey ga gaabandi da war jinaa ga.">
+<!ENTITY private_tab_learn_more "Ga baa ka bay ka tonton?">
 
+<!ENTITY fullscreen_warning "Dijikul azzaati huru">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Tonton šintinmoo ga">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Tonton šintinmoo ga">
+<!ENTITY pwa_continue_to_website "Bisa interneti nungoo do">
+<!ENTITY pwa_onboarding_sumo "A faala war ma interneti nungoo woo tonton war šintinmoɲoo ga ka duu w\&apos;a dogoo ra nda ka cahã ka naaru sanda porogaram-ize ga.">
