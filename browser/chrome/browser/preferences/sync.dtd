@@ -76,7 +76,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "a">
 
 <!ENTITY resendVerification.label     "Znovu odeslat ověření">
+<!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "Zrušit nastavení">
+<!ENTITY cancelSetup.accesskey        "r">
 
 <!ENTITY signedOut.caption            "Vezměte si web s sebou">
 <!ENTITY signedOut.description        "Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.">
