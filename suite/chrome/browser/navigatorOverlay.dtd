@@ -75,7 +75,7 @@
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "o">
-<!ENTITY addCurPageCmd.label "Pridať k záložkám">
+<!ENTITY addCurPageCmd.label "Pridať stránku medzi záložky">
 <!ENTITY addCurPageCmd.accesskey "P">
 <!ENTITY addCurPageAsCmd.label "Pridať k záložkám ako…">
 <!ENTITY addCurPageAsCmd.accesskey "a">
