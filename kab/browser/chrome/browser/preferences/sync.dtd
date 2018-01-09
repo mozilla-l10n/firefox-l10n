@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Ma ulac aɣilif sesteb akken ad tkecmeḍ">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Ur teqqineḍ ara.">
-<!ENTITY signIn.label                "Qqen">
-<!ENTITY signIn.accesskey            "Q">
-<!ENTITY profilePicture.tooltip      "Beddel tugna n umaɣnu">
-<!ENTITY verifiedManage.label        "Sefrek amiḍan">
-<!ENTITY verifiedManage.accesskey    "m">
-<!ENTITY disconnect3.label           "Tuffɣa…">
-<!ENTITY disconnect3.accesskey       "k">
+<!ENTITY notSignedIn.label            "Ur teqqineḍ ara.">
+<!ENTITY signIn.label                 "Qqen">
+<!ENTITY signIn.accesskey             "Q">
+<!ENTITY profilePicture.tooltip       "Beddel tugna n umaɣnu">
+<!ENTITY verifiedManage.label         "Sefrek amiḍan">
+<!ENTITY verifiedManage.accesskey     "m">
+<!ENTITY disconnect3.label            "Tuffɣa…">
+<!ENTITY disconnect3.accesskey        "k">
 <!ENTITY verify.label                "Senqed tansa imayl">
 <!ENTITY verify.accesskey            "e">
 <!ENTITY forget.label                "Ttu tansa-a imayl">
 <!ENTITY forget.accesskey            "y">
+
+<!ENTITY resendVerification.label     "Ales tuzna n usentem">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Sefsex asebded">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Awi web-inek yid-k">
 <!ENTITY signedOut.description        "Semtawi ticraḍ-inek n yisebtar, amazray, accaren, awalen uffiren, izegrar, akked yismenyifen d yibenkan-inek akk.">
