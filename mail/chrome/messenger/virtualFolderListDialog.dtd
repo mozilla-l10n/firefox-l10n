@@ -5,3 +5,5 @@
 <!ENTITY virtualFolderListTitle.title        "اختر مجلدات">
 <!ENTITY virtualFolderDesc.label       "اختر مجلدات للبحث:">
 
+
+<!ENTITY folderName.label "اسم المجلد">
