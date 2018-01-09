@@ -5,7 +5,7 @@
 <!ENTITY     window.title                  "პარამეტრები - საიტის მონაცემები">
 <!ENTITY     hostCol.label                 "საიტი">
 <!ENTITY     statusCol.label               "მდგომარეობა">
-<!ENTITY     usageCol.label                "საცავების მართვა">
+<!ENTITY     usageCol.label                "საცავი">
 <!ENTITY     searchTextboxPlaceHolder             "საიტების ძიება">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "ს">
 <!ENTITY     removeSelected.label          "მონიშნულის წაშლა">
