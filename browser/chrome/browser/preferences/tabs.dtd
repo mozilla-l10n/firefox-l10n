@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Město toho nowe wokna w nowym rajtarku wočinić">
 <!ENTITY newWindowsAsTabs.accesskey   "n">
 
+<!ENTITY newWindowsAsTabs2.label       "Wotkazy jako rajtarki město nowych woknow wočinić">
+<!ENTITY newWindowsAsTabs2.accesskey   "r">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Warnować, hdyž so wjacore rajtarki začinjeja">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "W">
 
