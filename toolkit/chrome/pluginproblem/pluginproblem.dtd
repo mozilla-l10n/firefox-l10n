@@ -28,6 +28,6 @@
 <!ENTITY report.pageURL                                      "გვერდის URL-ს მითითება">
 
 <!ENTITY plugin.file                                         "ფაილი">
-<!ENTITY plugin.mimeTypes                                    "MIME ტიპები">
+<!ENTITY plugin.mimeTypes                                    "MIME სახეობები">
 <!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash-ის დაცული რეჟიმის ჩართვა">
 <!ENTITY plugin.enableBlocklists.label                       "სახიფათო და მომაბეზრებელი Flash შიგთავსის შეზღუდვა ">

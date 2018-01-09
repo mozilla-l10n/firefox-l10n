@@ -19,7 +19,7 @@
 <!-- Columns -->
 <!ENTITY prefColumn.label "პარამეტრი">
 <!ENTITY lockColumn.label "მდგომარეობა">
-<!ENTITY typeColumn.label "ტიპი">
+<!ENTITY typeColumn.label "სახეობა">
 <!ENTITY valueColumn.label "მნიშვნელობა">
 
 <!-- Tooltips -->

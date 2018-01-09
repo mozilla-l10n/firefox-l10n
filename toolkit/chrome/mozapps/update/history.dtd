@@ -11,6 +11,6 @@
 
 <!ENTITY  name.header               "განახლების სახელი">
 <!ENTITY  date.header               "ჩადგმის თარიღი">
-<!ENTITY  type.header               "ტიპი">
+<!ENTITY  type.header               "სახეობა">
 <!ENTITY  state.header              "მდგომარეობა">
 

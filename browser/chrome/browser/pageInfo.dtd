@@ -17,7 +17,7 @@
 <!ENTITY  generalTab.accesskey  "ზ">
 <!ENTITY  generalTitle          "სათაური:">
 <!ENTITY  generalURL            "მისამართი:">
-<!ENTITY  generalType           "ტიპი:">
+<!ENTITY  generalType           "სახეობა:">
 <!ENTITY  generalMode           "ასახვის რეჟიმი:">
 <!ENTITY  generalSize           "ზომა:">
 <!ENTITY  generalReferrer       "დამოწმების URL:">
@@ -33,7 +33,7 @@
 <!ENTITY  mediaText             "ალტერნატული ტექსტი:">
 <!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
 <!ENTITY  mediaAddress          "მისამართი">
-<!ENTITY  mediaType             "ტიპი">
+<!ENTITY  mediaType             "სახეობა">
 <!ENTITY  mediaSize             "ზომა">
 <!ENTITY  mediaCount            "რაოდენობა">
 <!ENTITY  mediaDimension        "სიგრძე-სიგანე:">
