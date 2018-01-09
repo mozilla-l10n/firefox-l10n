@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "Диск орнын үнемдеу мақсатында, серверден хабарламаларды жүктеп алу және желіден тыс режимі үшін жергілікті көшірмелерді ұстау мерзімі немесе өлшемі бойынша шектеуге болады.">
 <!ENTITY allFoldersOffline.label "Бұл компьютерде бұл тіркелгі үшін хабарламаларды сақтау">
 <!ENTITY allFoldersOffline.accesskey "л">
+<!ENTITY allFoldersOffline2.label "Бұл компьютерде бұл тіркелгі үшін барлық бумаларда хабарламаларды сақтау">
+<!ENTITY allFoldersOffline2.accesskey "с">
+<!ENTITY allFoldersOfflineNote.label "Ескерту: Бұны өзгерту бұл тіркелдегі барлық бумаларға әсер етеді. Жеке-жеке бумаларды баптау үшін, Кеңейтілген… батырмасын басыңыз.">
 <!ENTITY offlineNotDownload.label "Келесіден үлкенірек хабарламалар">
 <!ENTITY offlineNotDownload.accesskey "м">
 <!ENTITY autosyncNotDownload.label "Келесіден үлкен хабарламаларды жүктемеу">
@@ -37,13 +40,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "о">
 <!ENTITY syncGroupTitle.label "Хабарламаны синхрондау">
 <!ENTITY diskspaceGroupTitle.label "Дискідегі орын">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Жасына қарамай, барлық хабарламаларды жергілікті қоймаға синхрондау">
 <!ENTITY allAutosync.accesskey           "х">
 <!ENTITY ageAutosyncBefore.label         "Тек соңғыларын синхрондау">
