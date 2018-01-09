@@ -5,7 +5,7 @@
 <!ENTITY startup.label             "ჩართვისას">
 
 <!ENTITY startupPage2.label        "&brandShortName;-ის გაშვებისას">
-<!ENTITY startupPage2.accesskey    "ხ">
+<!ENTITY startupPage2.accesskey    "ვ">
 <!ENTITY startupUserHomePage.label "მთავარი გვერდის ჩვენება">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის ჩვენება">
 <!ENTITY startupPrevSession.label  "ბოლოს დახურული ფანჯრებისა და ჩანართების ჩვენება">
