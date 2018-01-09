@@ -10,5 +10,5 @@
 <!ENTITY aboutDevices.chromecast         "Chromecast">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
      user prompting them to input the IP address of a casting device. -->
-<!ENTITY aboutDevices.placeholder        "Endereço de IP">
+<!ENTITY aboutDevices.placeholder        "Endereço IP">
 <!ENTITY aboutDevices.connectManually    "Ligar manualmente">
