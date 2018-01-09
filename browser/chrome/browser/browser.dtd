@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Pre túto stránku ste zablokovali vyskakovacie okná.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Tejto stránke ste zakázali prístup k údajom canvasu.">
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
 
 <!ENTITY searchItem.title             "Vyhľadávanie">
@@ -995,6 +997,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Rozšírenie zmenilo stránku zobrazovanú pri otvorení novej karty. Ak si túto zmenu neželáte, môžete obnoviť svoje nastavenia.">
+<!ENTITY newTabControlled.header.message "Vaša stránka novej karty bola zmenená.">
 <!ENTITY newTabControlled.keepButton.label "Zachovať zmeny">
 <!ENTITY newTabControlled.keepButton.accesskey "Z">
 <!ENTITY newTabControlled.restoreButton.label "Obnoviť nastavenia">
@@ -1004,6 +1008,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Pridať do panela s adresou">
 <!ENTITY pageAction.removeFromUrlbar.label "Odstrániť z panela s adresou">
 
+<!ENTITY pageAction.allowInUrlbar.label "Zobraziť v paneli s adresou">
+<!ENTITY pageAction.disallowInUrlbar.label "Nezobrazovať v paneli s adresou">
+<!ENTITY pageAction.manageExtension.label "Správa rozšírenia…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Odoslať kartu do zariadenia">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
