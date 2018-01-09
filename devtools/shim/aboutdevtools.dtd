@@ -77,6 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Se vi antaŭe ne konfirmis abonon al novaĵletero de Mozilla, vi eble devos tion fari. Bonvolu kontroli ĉu estas retpoŝto nia en via retpoŝta enirkesto aŭ trudmesaĝujo.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Ĉu vi volas pli ol nur la iloj por programistoj? Kontrolu la retumilon de Firefox, kiu estis farita specife por programistoj kaj modernaj laborfluoj.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
