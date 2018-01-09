@@ -12,7 +12,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "იტვირთება…">
-<!ENTITY listEmpty.installed.label            "ამ ტიპის არცერთი დამატება არ გაქვთ დაყენებული.">
+<!ENTITY listEmpty.installed.label            "ამ სახის არცერთი დამატება არ გაქვთ დაყენებული">
 <!ENTITY listEmpty.availableUpdates.label     "განახლებები ვერ მოიძებნა">
 <!ENTITY listEmpty.recentUpdates.label        "ბოლო დროს, არცერთი დამატება არ განგიახლებიათ.">
 <!ENTITY listEmpty.findUpdates.label          "განახლებების შემოწმება">

@@ -40,7 +40,7 @@
 <!ENTITY contentEncodingError.title "შიგთავსის დაშიფვრის შეცდომა">
 <!ENTITY contentEncodingError.longDesc "<p>გვერდი, რომლის ნახვაც გსურთ ვერ გამოჩნდება, რადგან შეკუმშვის უმართებლო ან მიუღებელ ფორმას იყენებს.</p><ul><li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul>">
 
-<!ENTITY unsafeContentType.title "ფაილის სახიფათო ტიპი">
+<!ENTITY unsafeContentType.title "სახიფათო სახის ფაილი">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
    <li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და შეატყობინოთ ამ ხარვეზის შესახებ.</li>
