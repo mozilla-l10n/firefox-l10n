@@ -19,7 +19,7 @@
 <!ENTITY printerInput.label "საბეჭდის დასახელება:">
 <!ENTITY printerInput.accesskey "ხ">
 
-<!ENTITY printrangeGroup.label "ბეჭდვის რანგი">
+<!ENTITY printrangeGroup.label "ამოსაბეჭდი შუალედი">
 <!ENTITY allpagesRadio.label "ყველა გვერდი">
 <!ENTITY allpagesRadio.accesskey "ყ">
 <!ENTITY rangeRadio.label  "გვერდები">
