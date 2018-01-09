@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Malfermi novajn fenestrojn en novaj langetoj anstataŭe">
 <!ENTITY newWindowsAsTabs.accesskey   "f">
 
+<!ENTITY newWindowsAsTabs2.label       "Malfermi ligilojn en langetoj anstataŭ ol en nova fenestroj">
+<!ENTITY newWindowsAsTabs2.accesskey   "l">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Averti min antaŭ ol fermi plurajn langetojn">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "p">
 
