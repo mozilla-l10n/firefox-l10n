@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Send link til enhed">
 <!ENTITY  sendLinkToDevice.accesskey         "S">
 <!ENTITY  sendToDeviceFeedback.label         "Sendt!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Sat i kø (offline)">
 <!ENTITY  moveToNewWindow.label              "Flyt til nyt vindue">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Bogmærk alle faneblade…">
@@ -188,13 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "d">
 
 <!ENTITY backCmd.label                "Tilbage">
+<!ENTITY backCmd.accesskey            "T">
 <!ENTITY backButton.tooltip           "Gå en side tilbage">
 <!ENTITY forwardCmd.label             "Fremad">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Gå en side fremad">
 <!ENTITY backForwardButtonMenu.tooltip "Højreklik eller klik og hold nede for at vise historik">
 <!ENTITY backForwardButtonMenuMac.tooltip "Klik og hold nede for at vise historik">
 <!ENTITY reloadCmd.label              "Genindlæs">
+<!ENTITY reloadCmd.accesskey          "G">
 <!ENTITY stopCmd.label                "Stop">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Gå til adressen i adresselinjen">
 <!ENTITY printButton.label            "Udskriv">
@@ -231,6 +236,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokeret vedvarende lager for dette websted.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokeret pop op-vinduer for dette websted.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokeret kanvas-ekstraktion for dette websted.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
 
@@ -355,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Tilpas menu og værktøjslinjer">
 <!ENTITY appMenuCustomizeExit.label "Afslut tilpasning">
 <!ENTITY appMenuCustomizeExit.tooltip "Afslut tilpasning">
+
 <!ENTITY appMenuHistory.showAll.label "Vis al historik">
 <!ENTITY appMenuHistory.clearRecent.label "Ryd seneste historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Gendan forrige session">
@@ -385,9 +393,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du se dine faneblade fra andre enheder her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Indstillinger for Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Log ind for at få vist faneblade, som er åbne på dine andre enheder.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Din konto behøver at blive godkendt.">
 <!ENTITY appMenuRemoteTabs.signin.label "Log ind på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Håndter enheder…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis synkroniserede faneblade i sidepanel">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Opret forbindelse til en ny enhed">
 
 <!ENTITY appMenuRecentHighlights.label "Seneste fremhævede">
 
@@ -564,6 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Brug som skrivebordsbaggrund…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "B">
 <!ENTITY bookmarkPageCmd2.label       "Bogmærk denne side">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "Bogmærk dette link">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bogmærk denne ramme">
@@ -750,6 +762,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Færdig">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sikkerhed for siden">
+
 <!ENTITY identity.connectionSecure "Sikker forbindelse">
 <!ENTITY identity.connectionNotSecure "Forbindelsen er usikker">
 <!ENTITY identity.connectionFile "Denne side er gemt på din computer.">
@@ -803,12 +819,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vil du gerne se faneblade fra dine andre enheder her?">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Log ind på Firefox fra dine andre enheder for at se deres faneblade her.">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Log ind for at se en liste med faneblade fra dine andre enheder.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Din konto skal godkendes.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen åbne faneblade">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Åbn Indstillinger i &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivér synkronisering af faneblade for at se en liste med faneblade, der er åbne på dine andre enheder.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Søg i synkroniserede faneblade">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Opret forbindelse til en ny enhed">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -979,9 +998,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Genstart for at opdatere &brandShorterName;">
 
+<!ENTITY newTabControlled.message "En udvidelse har ændret den side, du ser, når du åbner et nyt faneblad. Du kan nulstille dine indstillinger, hvis du ikke ønsker denne ændring.">
+<!ENTITY newTabControlled.header.message "Nyt faneblad er ændret">
+<!ENTITY newTabControlled.keepButton.label "Behold ændringer">
+<!ENTITY newTabControlled.keepButton.accesskey "B">
+<!ENTITY newTabControlled.restoreButton.label "Nulstil indstillinger">
+<!ENTITY newTabControlled.restoreButton.accesskey "N">
+
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
 <!ENTITY pageAction.addToUrlbar.label "Føj til adresselinjen">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinjen">
+
+<!ENTITY pageAction.allowInUrlbar.label "Vis i adresselinjen">
+<!ENTITY pageAction.disallowInUrlbar.label "Vis ikke i adresselinjen">
+<!ENTITY pageAction.manageExtension.label "Håndter udvidelse…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Send faneblad til enhed">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheder…">
