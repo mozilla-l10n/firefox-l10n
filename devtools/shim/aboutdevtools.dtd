@@ -21,24 +21,37 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Aktivigi la ilojn de Firefox por programistoj por uzi «Inspekti elementon»">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Esplori kaj redakti HTML kaj CSS per la inspektilo de la iloj por programistoj.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Programi kaj sencimigi WebExtensions, web workers, service workers kaj pli, per la iloj por programistoj de Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Vi aktivigis ŝparvojon de la iloj por programistoj. Se tio estis eraro, vi povas fermi tiun ĉi langeton.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Esplori, redakti kaj sencimigi HTML, CSS kaj JavaScript per iloj kiel Inspektilo kaj Sencimigilo.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Perfektigi la HTML, CSS kaj JavaScript de via retejo per iloj kiel Inspektilo kaj Sencimigilo.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "La iloj por programistoj de Firefox estas norme malaktivaj por doni al vi pli da regado super via retumilo.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -58,8 +71,10 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Ricevu novaĵojn por programistoj, trukojn kaj rimedojn rekte en via enirkesto.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Retpoŝto">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Mi konsentas la pritrakton de miaj datumoj pere de Mozilla, laŭ la klarigo en tiu ĉi <a class='external' href='https://www.mozilla.org/privacy/'>politiko pri privateco</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Aboni">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Dankon!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Se vi antaŭe ne konfirmis abonon al novaĵletero de Mozilla, vi eble devos tion fari. Bonvolu kontroli ĉu estas retpoŝto nia en via retpoŝta enirkesto aŭ trudmesaĝujo.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
