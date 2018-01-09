@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Nije finsters iepenje yn in nij ljepblêd">
 <!ENTITY newWindowsAsTabs.accesskey   "l">
 
+<!ENTITY newWindowsAsTabs2.label       "Keppelingen iepenje yn ljepblêden yn stee fan nije finsters">
+<!ENTITY newWindowsAsTabs2.accesskey   "l">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "My warskôgje by it sluten fan mear ljepblêden">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "M">
 
