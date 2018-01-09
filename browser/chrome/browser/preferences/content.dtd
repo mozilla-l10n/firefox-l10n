@@ -23,7 +23,7 @@
 <!ENTITY  locationSettingsButton.label                          "Paramètres…">
 <!ENTITY  locationSettingsButton.accesskey                      "A">
 
-<!ENTITY  cameraPermissions.label                               "Camerà">
+<!ENTITY  cameraPermissions.label                               "Camèra">
 <!ENTITY  cameraSettingsButton.label                            "Paramètres…">
 <!ENTITY  cameraSettingsButton.accesskey                        "c">
 
