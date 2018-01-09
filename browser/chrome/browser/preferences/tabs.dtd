@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Nové okná otvárať ako novú kartu">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY newWindowsAsTabs2.label       "Otvárať odkazy ako karty namiesto okien">
+<!ENTITY newWindowsAsTabs2.accesskey   "v">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Upozorniť pri zatváraní viacerých kariet">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "o">
 
