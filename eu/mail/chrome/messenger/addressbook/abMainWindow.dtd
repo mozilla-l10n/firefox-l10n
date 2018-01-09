@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Helbide-liburua">
 <!ENTITY blankResultsPaneMessage.label                  "Helbide-liburu honek kontaktuak bilaketa baten ondoren bakarrik erakusten ditu">
 <!ENTITY localResultsOnlyMessage.label                  "Urruneko helbide-liburuetako kontaktuak ez dira erakusten zuk bilatu arte">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fitxategia">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Berria">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Inprimatu helbide-liburua…">
 <!ENTITY printAddressBook.accesskey                     "a">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editatu">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Desegin">
@@ -76,17 +76,17 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Propietateak">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Helbide-liburuko propietateak">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Kontaktu propietateak">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Posta-zerrenda propietateak">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
-
 <!ENTITY viewMenu.label                                 "Ikusi">
 <!ENTITY viewMenu.accesskey                             "I">
 <!ENTITY viewToolbarsMenu.label                         "Tresna-barrak">
@@ -117,8 +117,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "B">
 <!ENTITY sortMenu.label                                 "Ordenatzeko irizpidea">
 <!ENTITY sortMenu.accesskey                             "O">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Tresnak">
 <!ENTITY tasksMenu.accesskey                            "T">
 <!ENTITY messengerCmd.label                             "Posta eta berri-taldeak">
@@ -134,54 +134,54 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "A">
 <!ENTITY preferencesCmdUnix.label                       "Hobespenak">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Kontaktu berria">
 <!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label                            "Zerrenda berria">
 <!ENTITY newlistButton.accesskey                        "Z">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY showAsDefault.label                            "Abio direktorio lehenetsia">
+<!ENTITY showAsDefault.accesskey                        "d">
+<!ENTITY editPropertiesButton.label                     "Editatu">
+<!ENTITY propertiesContext.label                        "Propietateak">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Propietateak">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Editatu kontaktua">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Editatu zerrenda">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Idatzi">
 <!ENTITY newmsgButton.accesskey                         "I">
 <!ENTITY newIM.label                                    "Berehalako mezua">
 <!ENTITY newIM.accesskey                                "B">
-
-
+<!ENTITY printButton.label                              "Inprimatu…">
+<!ENTITY printButton.accesskey                          "P">
 <!ENTITY deleteButton2.label                            "Ezabatu">
 <!ENTITY deleteButton2.accesskey                        "z">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Sortu kontaktu berria helbide-liburuan">
 <!ENTITY newlistButton.tooltip                          "Sortu zerrenda berria">
 <!ENTITY editPropertiesButton.tooltip                   "Editatu hautatutako elementua">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Editatu hautatutako helbide-liburuko propietateak">
+<!ENTITY editContactPropertiesButton.tooltip            "Editatu hautatutako kontaktua">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Editatu hautatutako posta-zerrenda">
 <!ENTITY newmsgButton.tooltip                           "Bidali posta-mezua">
 <!ENTITY newIM.tooltip                                  "Bidali berehalako mezua edo hasi berriketa">
 <!ENTITY deleteButton2.tooltip                          "Ezabatu hautatutako elementua">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Helbide-liburuak">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Izena edo helbide elektronikoa">
 <!ENTITY SearchNameOrEmail.accesskey                    "I">
 <!ENTITY advancedButton.tooltip                         "Helbideen bilaketa aurreratua">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Bilaketa azkarra">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Helbide-liburua">
 <!ENTITY Addrbook.accesskey                             "l">
 <!ENTITY GeneratedName.label                            "Izena">
@@ -216,9 +216,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "B">
 <!ENTITY _PhoneticName.label                            "Izen fonetikoa">
 <!ENTITY _PhoneticName.accesskey                        "f">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Kontaktua">
 <!ENTITY home.heading                                   "Etxea">
 <!ENTITY other.heading                                  "Besteak">
@@ -231,11 +231,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Lortu mapa">
 <!ENTITY mapIt.tooltip                                  "Bistaratu helbide honen mapa webetik">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Leihoa">
 <!ENTITY minimizeWindow.label                           "Ikonotu">
 <!ENTITY minimizeWindow.key                             "m">

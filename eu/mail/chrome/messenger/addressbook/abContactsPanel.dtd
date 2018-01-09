@@ -36,6 +36,10 @@
 <!ENTITY editMailingListContext.label       "Editatu zerrenda">
 <!ENTITY editMailingListContext.accesskey   "E">
 
+<!ENTITY newContactAbContext.label          "Kontaktu berria">
+<!ENTITY newContactAbContext.accesskey      "K">
+<!ENTITY newListAbContext.label             "Zerrenda berria">
+<!ENTITY newListAbContext.accesskey         "Z">
 
 <!ENTITY toButton.label                     "Gehitu Nori eremura:">
 <!ENTITY toButton.accesskey                 "N">
