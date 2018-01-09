@@ -62,18 +62,21 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Pro přihlášení se znovu připojte">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Nejste přihlášeni.">
-<!ENTITY signIn.label                "Přihlásit se">
-<!ENTITY signIn.accesskey            "i">
-<!ENTITY profilePicture.tooltip      "Změnit profilový obrázek">
-<!ENTITY verifiedManage.label        "Spravovat účet">
-<!ENTITY verifiedManage.accesskey    "S">
-<!ENTITY disconnect3.label           "Odpojit…">
-<!ENTITY disconnect3.accesskey       "d">
+<!ENTITY notSignedIn.label            "Nejste přihlášeni.">
+<!ENTITY signIn.label                 "Přihlásit se">
+<!ENTITY signIn.accesskey             "i">
+<!ENTITY profilePicture.tooltip       "Změnit profilový obrázek">
+<!ENTITY verifiedManage.label         "Spravovat účet">
+<!ENTITY verifiedManage.accesskey     "S">
+<!ENTITY disconnect3.label            "Odpojit…">
+<!ENTITY disconnect3.accesskey        "d">
 <!ENTITY verify.label                "Ověřit e-mail">
 <!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Zapomenout tento e-mail">
 <!ENTITY forget.accesskey            "a">
+
+<!ENTITY resendVerification.label     "Znovu odeslat ověření">
+<!ENTITY cancelSetup.label            "Zrušit nastavení">
 
 <!ENTITY signedOut.caption            "Vezměte si web s sebou">
 <!ENTITY signedOut.description        "Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.">
