@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Agor ffenestr newydd mewn tab yn hytrach na ffenestr">
 <!ENTITY newWindowsAsTabs.accesskey   "A">
 
+<!ENTITY newWindowsAsTabs2.label       "Agor dolenni fel tabiau yn lle ffenestri newydd">
+<!ENTITY newWindowsAsTabs2.accesskey   "t">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Rhybuddio wrth gau mwy nag un tab">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "g">
 
