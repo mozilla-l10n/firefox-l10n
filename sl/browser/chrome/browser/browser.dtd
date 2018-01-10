@@ -81,7 +81,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Nepovezan način">
-<!ENTITY goOfflineCmd.accesskey "n">
+<!ENTITY goOfflineCmd.accesskey "e">
 
 <!ENTITY menubarCmd.label "Vrstica z menijem">
 <!ENTITY menubarCmd.accesskey "M">
@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "H">
 
 <!ENTITY pageSourceCmd.label "Izvorna koda strani">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "v">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -109,7 +109,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Podatki o strani">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY pageInfoCmd.commandkey "o">
 <!ENTITY mirrorTabCmd.label "Prezrcali zavihek">
 <!ENTITY mirrorTabCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -188,8 +188,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Nazaj">
+<!ENTITY backCmd.accesskey            "z">
 <!ENTITY backButton.tooltip           "Pojdi na prejšnjo stran">
 <!ENTITY forwardCmd.label             "Naprej">
+<!ENTITY forwardCmd.accesskey         "r">
 <!ENTITY forwardButton.tooltip        "Pojdi na naslednjo stran">
 <!ENTITY backForwardButtonMenu.tooltip "Desno kliknite ali potegnite navzdol za prikaz zgodovine">
 <!ENTITY backForwardButtonMenuMac.tooltip "Potegnite navzdol za prikaz zgodovine">
@@ -232,6 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Za to stran ste zavrnili pojavna okna.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
 
 <!ENTITY searchItem.title             "Iskanje">
@@ -265,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Orodja">
-<!ENTITY toolsMenu.accesskey          "R">
+<!ENTITY toolsMenu.accesskey          "O">
 
 <!ENTITY keywordfield.label           "Dodaj ključno besedo k iskanju …">
 <!ENTITY keywordfield.accesskey       "K">
@@ -295,7 +298,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Novo zasebno okno">
-<!ENTITY newPrivateWindow.accesskey "z">
+<!ENTITY newPrivateWindow.accesskey "a">
 <!ENTITY newNonRemoteWindow.label   "Novo okno brez e10s">
 
 <!ENTITY editMenu.label         "Uredi">
@@ -322,7 +325,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "V">
 <!ENTITY preferencesCmd2.label       "Možnosti">
-<!ENTITY preferencesCmd2.accesskey     "o">
+<!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
@@ -342,7 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Zgodovina">
-<!ENTITY historyMenu.accesskey "i">
+<!ENTITY historyMenu.accesskey "v">
 <!ENTITY historyUndoMenu.label "Nedavno zaprti zavihki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nedavno zaprta okna">
@@ -355,6 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Prilagodi meni in orodne vrstice">
 <!ENTITY appMenuCustomizeExit.label "Končaj prilagajanje">
 <!ENTITY appMenuCustomizeExit.tooltip "Zaključi s prilagajanjem">
+
 <!ENTITY appMenuHistory.showAll.label "Prikaži vso zgodovino">
 <!ENTITY appMenuHistory.clearRecent.label "Počisti nedavno zgodovino …">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovi prejšnjo sejo">
@@ -388,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se v Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Upravljanje naprav …">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Pokaži stransko vrstico s sinhroniziranimi zavihki">
+
 
 <!ENTITY appMenuRecentHighlights.label "Nedavni poudarki">
 
@@ -571,9 +576,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pageAction.copyLink.label    "Kopiraj povezavo">
 <!ENTITY copyURLFeedback.label        "Kopirano!">
 <!ENTITY emailPageCmd.label           "Pošlji povezavo po e-pošti …">
-<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY emailPageCmd.accesskey       "P">
 <!ENTITY savePageCmd.label            "Shrani stran kot …">
-<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "s">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -750,6 +755,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Shrani">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 <!ENTITY identity.connectionSecure "Varna povezava">
 <!ENTITY identity.connectionNotSecure "Povezava ni varna">
 <!ENTITY identity.connectionFile "Ta stran je shranjena na vašem računalniku.">
@@ -810,6 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Vklopite sinhronizacijo zavihkov za ogled seznama zavihkov drugih naprav.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Iskanje po sinhroniziranih zavihkih">
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
@@ -836,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Prijava v &syncBrand.shortName.label; …">
-<!ENTITY syncSignIn.accesskey         "Y">
+<!ENTITY syncSignIn.accesskey         "n">
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj">
 <!ENTITY syncSyncNowItem.accesskey    "n">
 <!ENTITY syncReAuthItem.label         "Ponovno poveži s &syncBrand.shortName.label;om …">
@@ -979,9 +988,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Ponovno zaženi za posodobitev &brandShorterName;a">
 
+
 <!ENTITY pageActionButton.tooltip "Dejanja strani">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj v naslovno vrstico">
 <!ENTITY pageAction.removeFromUrlbar.label "Odstrani iz naslovne vrstice">
+
 
 <!ENTITY pageAction.sendTabToDevice.label "Pošlji zavihek na napravo">
 <!ENTITY sendToDevice.syncNotReady.label "Sinhroniziranje naprav ...">

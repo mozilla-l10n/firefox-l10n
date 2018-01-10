@@ -14,7 +14,7 @@
 <!ENTITY address2.label               "Naslov spletne strani">
 <!ENTITY address2.accesskey           "N">
 <!ENTITY block.label                  "Prepovej">
-<!ENTITY block.accesskey              "P">
+<!ENTITY block.accesskey              "r">
 <!ENTITY session.label                "Dovoli v tej seji">
 <!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "Dovoli">

@@ -18,7 +18,7 @@
 <!ENTITY chooseBookmark.label      "Uporabi zaznamek …">
 <!ENTITY chooseBookmark.accesskey  "z">
 <!ENTITY restoreDefault.label      "Uporabi privzeto stran">
-<!ENTITY restoreDefault.accesskey  "i">
+<!ENTITY restoreDefault.accesskey  "r">
 
 <!ENTITY disableExtension.label    "Onemogoči razširitev">
 

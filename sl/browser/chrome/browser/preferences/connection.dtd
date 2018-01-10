@@ -19,7 +19,7 @@
 <!ENTITY  autoTypeRadio2.label          "URL samodejne nastavitve posrednika">
 <!ENTITY  autoTypeRadio2.accesskey      "L">
 <!ENTITY  reload.label                  "Ponovno naloži">
-<!ENTITY  reload.accesskey              "i">
+<!ENTITY  reload.accesskey              "n">
 <!ENTITY  ftp2.label                    "Posrednik FTP">
 <!ENTITY  ftp2.accesskey                "F">
 <!ENTITY  http2.label                   "Posrednik HTTP">
