@@ -9,7 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "Jo browserynstellingen nei de standertwearden weromsette">
 <!ENTITY refreshProfile.dialog.button.label  "&brandShortName; fernije">
 
-<!ENTITY refreshProfile.title                "&brandShortName; optimalisearje">
-<!ENTITY refreshProfile.button.label         "&brandShortName; fernije…">
+<!ENTITY refreshProfile.title                "&brandShortName; opfrisse">
+<!ENTITY refreshProfile.button.label         "&brandShortName; opfrisse…">
 
 <!ENTITY refreshProfile.cleaning.description "Hast dien…">
