@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Увайдіце, калі ласка, каб перазлучыцца">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Вы не ўвайшлі.">
-<!ENTITY signIn.label                "Увайсці">
-<!ENTITY signIn.accesskey            "і">
-<!ENTITY profilePicture.tooltip      "Змяніць профільную выяву">
-<!ENTITY verifiedManage.label        "Кіраванне ўліковым запісам">
-<!ENTITY verifiedManage.accesskey    "а">
-<!ENTITY disconnect3.label           "Адлучыцца…">
-<!ENTITY disconnect3.accesskey       "А">
+<!ENTITY notSignedIn.label            "Вы не ўвайшлі.">
+<!ENTITY signIn.label                 "Увайсці">
+<!ENTITY signIn.accesskey             "і">
+<!ENTITY profilePicture.tooltip       "Змяніць профільную выяву">
+<!ENTITY verifiedManage.label         "Кіраванне ўліковым запісам">
+<!ENTITY verifiedManage.accesskey     "а">
+<!ENTITY disconnect3.label            "Адлучыцца…">
+<!ENTITY disconnect3.accesskey        "А">
 <!ENTITY verify.label                "Пацвердзіць эл.пошту">
 <!ENTITY verify.accesskey            "П">
 <!ENTITY forget.label                "Забыць гэты адрас эл.пошты">
 <!ENTITY forget.accesskey            "З">
+
+<!ENTITY resendVerification.label     "Паўторна адправіць пацвярджэнне">
+<!ENTITY resendVerification.accesskey "т">
+<!ENTITY cancelSetup.label            "Скасаваць наладку">
+<!ENTITY cancelSetup.accesskey        "к">
 
 <!ENTITY signedOut.caption            "Вазьміце сваё Сеціва з сабой">
 <!ENTITY signedOut.description        "Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.">
