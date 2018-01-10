@@ -11,6 +11,7 @@
 <!ENTITY engine.history.label       "చరిత్ర">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "లాగిన్ లు">
+<!ENTITY engine.logins.title        "మీరు భద్రపరచుకున్న వాడుకరి పేర్లూ, సంకేతపదాలు">
 <!ENTITY engine.logins.accesskey    "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -25,6 +26,7 @@
 <!ENTITY engine.addresses.label     "చిరునామాలు">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "క్రెడిట్ కార్డులు">
+<!ENTITY engine.creditcards.title   "పేర్లూ, నెంబర్లూ, కాల పరిమితి తేదీలు (డెస్క్‌టాపులో మాత్రమే)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
