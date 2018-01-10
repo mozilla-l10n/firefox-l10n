@@ -155,3 +155,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanaler">
 <!ENTITY aboutSupport.mediaDeviceRate "Rate">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latenstid">
+
+<!ENTITY aboutSupport.intlTitle "Tilpasning til andre sprog og lande">
+<!ENTITY aboutSupport.intlAppTitle "Indstillinger for applikation">
+<!ENTITY aboutSupport.intlLocalesRequested "Forespurgte sprog">
+<!ENTITY aboutSupport.intlLocalesAvailable "Tilgængelige sprog">
+<!ENTITY aboutSupport.intlLocalesSupported "App-sprog">
+<!ENTITY aboutSupport.intlLocalesDefault "Standard-sprog">
+<!ENTITY aboutSupport.intlOSTitle "Operativsystem">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "System-sprog">
+<!ENTITY aboutSupport.intlRegionalPrefs "Regionale indstillinger">
