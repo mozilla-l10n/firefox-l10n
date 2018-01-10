@@ -13,7 +13,7 @@
 <!ENTITY editBookmarkOverlay.folder.label                    "సంచయం:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "అన్ని ఇష్టాంశముల సంచయాలను చూపించు">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "దాచిపెట్టు">
-<!ENTITY editBookmarkOverlay.tags.label                      "ట్యాగ్ లు:">
+<!ENTITY editBookmarkOverlay.tags.label                      "ట్యాగులు:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "ట్యాగులను కామాలతో వేరుచేయి">
 <!ENTITY editBookmarkOverlay.description.label               "వివరణ:">
