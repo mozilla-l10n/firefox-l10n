@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Byld">
 <!ENTITY viewMenu_accesskey "l">
-<!ENTITY viewMenu_toggleEditor_label "Editor yn-/útskeakelje">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Ynzoome">
 <!ENTITY viewMenu_zoomin_accesskey "Y">
 <!ENTITY viewMenu_zoomout_label "Utzoome">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Ljepblêden">
 <!ENTITY runtimePanel_usb "USB-apparaten">
 <!ENTITY runtimePanel_wifi "Wifi-apparaten">
-<!ENTITY runtimePanel_simulator "Simulatoren">
 <!ENTITY runtimePanel_other "Oars">
-<!ENTITY runtimePanel_installsimulator "Simulator ynstallearje">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper ynstallearje">
 <!ENTITY runtimePanel_nousbdevice "Sjogge jo jo apparaat net?">
 <!ENTITY runtimePanel_refreshDevices_label "Apparaten fernije">
@@ -94,7 +88,6 @@
 <!ENTITY details_location "Lokaasje">
 <!ENTITY details_manifestURL "App-id">
 <!ENTITY details_removeProject_button "Projekt fuortsmite">
-<!ENTITY details_showPrepackageLog_button "Lochboek foar ferpakken toane">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nije app">
@@ -123,21 +116,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Foarige projekt werom bringe as WebIDE start">
 <!ENTITY prefs_options_templatesurl "Sjabloan-URL">
 <!ENTITY prefs_options_templatesurl_tooltip "Yndeks fan beskikbere sjabloanen">
-<!ENTITY prefs_options_showeditor "Editor toane">
-<!ENTITY prefs_options_showeditor_tooltip "Ynterne editor toane">
-<!ENTITY prefs_options_tabsize "Ljepblêdgrutte">
-<!ENTITY prefs_options_expandtab "Soft-ljepblêden">
-<!ENTITY prefs_options_expandtab_tooltip "Spaasjes brûke yn stee fan it tabteken">
-<!ENTITY prefs_options_detectindentation "Auto-ynspringe">
-<!ENTITY prefs_options_detectindentation_tooltip "Ynspringing riede op basis fan boarneynhâld">
-<!ENTITY prefs_options_autocomplete "Autofoltôgje">
-<!ENTITY prefs_options_autocomplete_tooltip "Automatysk koadeoanfolling ynskeakelje">
-<!ENTITY prefs_options_autoclosebrackets "Automatysk heaken slute">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Automatysk slútheaken ynfoegje">
-<!ENTITY prefs_options_keybindings "Fluchtoetsen">
-<!ENTITY prefs_options_keybindings_default "Standert">
-<!ENTITY prefs_options_autosavefiles "Bestannen automatysk bewarje">
-<!ENTITY prefs_options_autosavefiles_tooltip "Bewurke bestannen automatysk bewarje foar útfieren fan projekt">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Runtime-ynfo">
@@ -146,7 +124,7 @@
 <!ENTITY runtimedetails_ADBRootWarning "(fereasket net-beskoattele bootloader)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Unbeheinde DevTools-foech: ">
 <!ENTITY runtimedetails_requestPrivileges "hegere foech freegje">
-<!ENTITY runtimedetails_privilegesWarning "(Sil apparaat werstarte. Fereasket root-tagong.)">
+<!ENTITY runtimedetails_privilegesWarning "(Sil apparaat opnij starte. Fereasket root-tagong.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
@@ -194,19 +172,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Lochboek fan opdrachten foar ferpakken">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Simulatoropsjes">
-<!ENTITY simulator_remove "Simulator fuortsmite">
-<!ENTITY simulator_reset "Standertwearden">
-<!ENTITY simulator_name "Namme">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Ferzje">
-<!ENTITY simulator_profile "Profyl">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Apparaat">
-<!ENTITY simulator_screenSize "Skerm">
-<!ENTITY simulator_pixelRatio "Pikselferhâlding">
-<!ENTITY simulator_tv_data "Tf-simulaasje">
-<!ENTITY simulator_tv_data_open "Konfiguraasjegegevens">
-<!ENTITY simulator_tv_data_open_button "Konfiguraasjemap iepenje…">

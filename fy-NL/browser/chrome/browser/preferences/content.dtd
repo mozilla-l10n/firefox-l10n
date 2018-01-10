@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsDoNotDisturb.label      "My net steure">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Der wurde gjin notifikaasjes toand oant jo &brandShortName; werstarte">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Der wurde gjin notifikaasjes toand oant jo &brandShortName; opnij starte">
 
 <!ENTITY  popupExceptions.label                                 "Utsûnderingen…">
 <!ENTITY  popupExceptions.accesskey                             "U">
