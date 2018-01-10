@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Ail fewngofnodwch er mwyn ailgysylltu">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Nid ydych wedi mewngofnodi.">
-<!ENTITY signIn.label                "Mewngofnodi">
-<!ENTITY signIn.accesskey            "M">
-<!ENTITY profilePicture.tooltip      "Newid llun proffil">
-<!ENTITY verifiedManage.label        "Rheoli cyfrif">
-<!ENTITY verifiedManage.accesskey    "R">
-<!ENTITY disconnect3.label           "Datgysylltu…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "Nid ydych wedi mewngofnodi.">
+<!ENTITY signIn.label                 "Mewngofnodi">
+<!ENTITY signIn.accesskey             "M">
+<!ENTITY profilePicture.tooltip       "Newid llun proffil">
+<!ENTITY verifiedManage.label         "Rheoli cyfrif">
+<!ENTITY verifiedManage.accesskey     "R">
+<!ENTITY disconnect3.label            "Datgysylltu…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "Dilysu E-bost">
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Anghofiwch yr E-bost hwn">
 <!ENTITY forget.accesskey            "A">
+
+<!ENTITY resendVerification.label     "Ail Anfon Dilysiad">
+<!ENTITY resendVerification.accesskey "A">
+<!ENTITY cancelSetup.label            "Diddymu'r Gosod">
+<!ENTITY cancelSetup.accesskey        "G">
 
 <!ENTITY signedOut.caption            "Cymrwch eich Gwe gyda Chi">
 <!ENTITY signedOut.description        "Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ymysg eich dyfeisiau i gyd.">
