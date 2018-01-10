@@ -45,7 +45,7 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "వెతుకు">
-<!ENTITY view.discover.label                  "పొడిగింతలు పొందుము">
+<!ENTITY view.discover.label                  "పొడిగింతలు పొందండి">
 <!ENTITY view.recentUpdates.label             "ఇటీవలి నవీకరణలు">
 <!ENTITY view.availableUpdates.label          "అందుబాటులోని నవీకరణలు">
 
