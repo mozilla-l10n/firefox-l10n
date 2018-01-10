@@ -20,7 +20,7 @@
 
 <!ENTITY  paneSearchResults.title       "వెతుకుడు ఫలితాలు">
 <!ENTITY  paneGeneral.title             "సాధారణం">
-<!ENTITY  paneSearch.title              "వెతుకు">
+<!ENTITY  paneSearch.title              "వెతకడం">
 <!ENTITY  paneFilesApplications.title   "దస్త్రాలు &amp; అనువర్తనాలు">
 <!ENTITY  panePrivacySecurity.title     "అంతరంగికత &amp; భద్రత">
 <!ENTITY  paneContainers.title          "కంటైనర్ ట్యాబులు">
