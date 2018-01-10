@@ -333,6 +333,7 @@
 <!ENTITY tab_queue_notification_settings "\&apos;Jabchu t\&apos; t\&apos;or um msoolhimyus\&quot; yam qjkee mik \&quot; pay aplicación jkay &brandShortName; kyaaw 
 chab mtñur">
 
+<!ENTITY pref_char_encoding "Kabyuwuha knaabch">
 <!ENTITY pref_char_encoding_on "Chpayt yaku paa muchuubu">
 <!ENTITY pref_char_encoding_off "Chyaku kos muchu ubu tem">
 <!ENTITY pref_clear_private_data2 "Jabchu tpaay chapayt wii mtryee">
@@ -357,11 +358,31 @@ chab mtñur">
 <!ENTITY pref_zoom_force_enabled_summary "Chab tñuruha wilum m\&apos;aam jabchu ha tubtewu o tchinkoshu kabyuwuya">
 <!ENTITY pref_voice_input "Kwawu jabu">
 <!ENTITY pref_voice_input_summary2 "Kwaw knaabch nmakum jaba jabchu yañkŕaalha">
+<!ENTITY pref_qrcode_enabled "Codig QR tñur uchu">
+<!ENTITY pref_qrcode_enabled_summary2 "Tñur chmichuhal nmakum codig QR hay tñurha tñurhikyawa">
 
+<!ENTITY pref_use_master_password "Contraseñ kubtee han trch chech">
+<!ENTITY pref_sync_default_title "Jabu Firefox">
+<!ENTITY pref_sync2 "Namaan">
+<!ENTITY pref_sync_summary2 "Ch chkwawu ee, ŕkiruha ee, namaanchuha ñwak chkjkeexh haya paytum mchublwiyu">
+<!ENTITY pref_search_suggestions "Kabwik chŕmechuha wakmik">
+<!ENTITY pref_history_search_suggestions "Chkjkech ha kabwik ŕmeechu yiib paa mchuubu">
+<!ENTITY pref_import_options "Chateraab ñukmyook">
+<!ENTITY pref_import_android_summary "Sal amchu yakwach hal chkjkech ee chŕkirchu ñukmyook">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Ch chkwaachu msool">
+<!ENTITY pref_private_data_history2 "Sal amch ha chkjkech wii">
+<!ENTITY pref_private_data_searchHistory "Chŕmeechu chkjkeech">
+<!ENTITY pref_private_data_formdata2 "Sal tñurch chkjkeech">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; namaanchu sool">
+<!ENTITY pref_private_data_passwords2 "Namaanchu chkwaab">
 <!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_offlineApps "Tlur web hay kos chpachtem">
+<!ENTITY pref_private_data_siteSettings2 "Amchu chajaanch">
+<!ENTITY pref_private_data_downloadFiles2 "Unalch">
 
+<!ENTITY pref_vendor_faqs "FAQs">
 
 
 
