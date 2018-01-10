@@ -460,6 +460,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Doplňky">
 <!ENTITY addons.accesskey "D">
+<!ENTITY addonPrefs.label "Nastavení doplňku">
 <!ENTITY activitymanager.label "Správce aktivit">
 <!ENTITY activitymanager.accesskey "k">
 <!ENTITY imAccountsStatus.label "Stav chatu">
