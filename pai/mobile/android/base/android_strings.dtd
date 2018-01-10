@@ -339,10 +339,19 @@ chab mtñur">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Baam mtkryeek">
+<!ENTITY pref_clear_on_exit_title3 "Ñmchpaak tñurch jabchu tpaayha mtkryeek">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; hay byaw ik tñurchu ha paytum tkrye kwira \&quot;Quit\&quot; ha num yom ñwal jabchu kajanha m ñmjabum">
+<!ENTITY pref_clear_on_exit_dialog_title "Ñukwee mtkryewuwiib myok">
+<!ENTITY pref_restore_tabs "Ch chkwawuha mchajaan">
+<!ENTITY pref_restore_always "Pichten mchajaan">
+<!ENTITY pref_restore_quit "&brandShortName; hal ñpchpaak kos ñukweewuliiy mchajantem">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Tñurchu kabyum yaŕaalha sal yakha myo">
+<!ENTITY pref_use_system_font_size_summary "Chpayt web hal kyoha chamuyomuk tñur sal kyak cabyum ñmyoka">
 
+<!ENTITY pref_media_autoplay_enabled "Byaw ik tñurcha mnmak">
 
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
