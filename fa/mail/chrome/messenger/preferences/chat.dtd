@@ -13,21 +13,10 @@ sentence. -->
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY  play.label                          "پخش">
 <!ENTITY  play.accesskey                      "پ">
-
-
+<!ENTITY  systemSound.label                   "صدای پیش فرض سیستم برای نامه جدید">
+<!ENTITY  systemSound.accesskey               "D">
 <!ENTITY  customsound.label                   "Use the following sound file">
 <!ENTITY  customsound.accesskey               "U">
 <!ENTITY  browse.label                        "مرور…">
