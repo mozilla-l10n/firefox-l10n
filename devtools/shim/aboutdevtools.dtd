@@ -60,6 +60,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Dapatkan berita, trik, dan sumber daya untuk pengembang yang dikirim langsung ke kotak masuk Anda.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Surel">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Saya setuju Mozilla menangani informasi saya seperti yang dijelaskan dalam <a class='external' href='https://www.mozilla.org/privacy/'>Kebijakan Privasi</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Berlangganan">
@@ -67,6 +68,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Jika sebelumnya Anda belum pernah mengonfirmasi langganan nawala terkait Mozilla, Anda mungkin harus melakukannya. Silakan cek surel dari kami di kotak masuk atau filter spam Anda.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
+<!ENTITY  aboutDevtools.footer.message "Mencari lebih dari sekadar Alat Pengembang? Cobalah peramban Firefox yang dibuat secara khusus untuk pengembang dan alur kerja modern.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
