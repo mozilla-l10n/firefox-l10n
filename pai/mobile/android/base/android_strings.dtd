@@ -330,9 +330,15 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "\&apos;Jabchu t\&apos; t\&apos;or um msoolhimyus\&quot; yam qjkee mik \&quot; pay aplicación jkay &brandShortName; kyaaw 
+chab mtñur">
 
+<!ENTITY pref_char_encoding_on "Chpayt yaku paa muchuubu">
+<!ENTITY pref_char_encoding_off "Chyaku kos muchu ubu tem">
+<!ENTITY pref_clear_private_data2 "Jabchu tpaay chapayt wii mtryee">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Baam mtkryeek">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
