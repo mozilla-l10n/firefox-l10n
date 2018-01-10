@@ -352,9 +352,15 @@ chab mtñur">
 <!ENTITY pref_use_system_font_size_summary "Chpayt web hal kyoha chamuyomuk tñur sal kyak cabyum ñmyoka">
 
 <!ENTITY pref_media_autoplay_enabled "Byaw ik tñurcha mnmak">
+<!ENTITY pref_media_autoplay_enabled_summary "Web yaku mŕbok yay videey byaw ik chubowumyuso, o chaoayt yañkŕal ha chubooyumyuso">
+<!ENTITY pref_zoom_force_enabled "Sam yamu pichtem msolwaŕit">
+<!ENTITY pref_zoom_force_enabled_summary "Chab tñuruha wilum m\&apos;aam jabchu ha tubtewu o tchinkoshu kabyuwuya">
+<!ENTITY pref_voice_input "Kwawu jabu">
+<!ENTITY pref_voice_input_summary2 "Kwaw knaabch nmakum jaba jabchu yañkŕaalha">
 
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_cache "Caché">
 
 
 
