@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Vedno vprašaj">
 <!ENTITY  permAllow             "Dovoli">
 <!ENTITY  permAllowSession      "Dovoli v tej seji">
+<!ENTITY  permHide              "Skrij">
 <!ENTITY  permBlock             "Prepovej">
 <!ENTITY  permissionsFor        "Dovoljenja za:">
 <!ENTITY  permPlugins           "Omogoči vtičnike">
