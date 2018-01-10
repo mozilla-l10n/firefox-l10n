@@ -209,7 +209,7 @@
 <!ENTITY addon.undoAction.tooltip             "Aksje ûngedien meitsje">
 <!ENTITY addon.undoRemove.label               "Ungedien meitsje">
 <!ENTITY addon.undoRemove.tooltip             "hâld dizze add-on ynstallearre">
-<!ENTITY addon.restartNow.label               "No werstarte">
+<!ENTITY addon.restartNow.label               "No opnij starte">
 <!ENTITY addon.install.label                  "Ynstallearje">
 <!ENTITY addon.install.tooltip                "Dizze add-on ynstallearje">
 <!ENTITY addon.updateNow.label                "Fernij no">

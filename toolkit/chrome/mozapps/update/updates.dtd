@@ -67,9 +67,9 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "De fernijing sil ynstallearre wurde as &brandShortName; de folgjende kear start. Jo
                                            kinne no &brandShortName; opnij starte, of fierder gean en letter opnij starte.">
-<!ENTITY  finishedBackground.moreElevated "Dizze fernijing hat administratorrjochten nedich. De fernjing sil 
-                                           de folgjende kear as &brandShortName; start installearre wurde. Jo kinne
-                                           &brandShortName; no werstarte, trochgean mei wurkjen en letter werstarte, of dizze
+<!ENTITY  finishedBackground.moreElevated "Dizze fernijing hat administratorrjochten nedich. De fernijing sil 
+                                           de folgjende kear as &brandShortName; start ynstallearre wurde. Jo kinne
+                                           &brandShortName; no opnij starte, trochgean mei wurkjen en letter opnij starte, of dizze
                                            fernijing annulearje.">
 
 <!ENTITY  update.details.label            "Details">
