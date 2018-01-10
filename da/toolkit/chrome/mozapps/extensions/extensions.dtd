@@ -6,7 +6,7 @@
 
 <!ENTITY search.placeholder                   "Søg i alle tilføjelser">
 
-<!ENTITY search.placeholder2                  "Søg pSøg på.mozilla.org">
+<!ENTITY search.placeholder2                  "Søg på.mozilla.org">
 
 <!ENTITY search.buttonlabel                   "Søg">
 <!-- LOCALIZATION NOTE (search.commandKey):
