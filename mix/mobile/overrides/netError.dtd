@@ -35,6 +35,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> <li>Tsini ñuù chauña tana <strong>http://www.ejemplo.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nda nduku</button> </div> <li>Kunchee a nchau barra diagonal (i.e. <strong>/</strong>).</li> </ul>">
 
+<!ENTITY netInterrupt.title "Ntasia">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "tutù vaaki">
@@ -67,6 +68,7 @@
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY redirectLoop.title "Página yoo kue ku nuna vai">
 
 <!ENTITY unknownSocketType.title "Tu'un kue nchatuko ña servidor">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Kunchee a kumu nu servidor Personal Security Manager.</li><li>Ña ño'o kui tsa'a nishi kaa servidor.</li></ul>">
@@ -86,7 +88,7 @@
 
 <!ENTITY securityOverride.linkText "chika´a in exception…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tavayu'u yoo">
-<!ENTITY securityOverride.exceptionButtonLabel "chika´a excepción">
+<!ENTITY securityOverride.exceptionButtonLabel "Chika´a excepción…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -96,6 +98,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL remoto">
 
+<!ENTITY sslv3Used.title "Ma ku'u saa conectar ña">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "Tu'un nchi'chi: SSL_ERROR_UNSUPPORTED_VERSION">
