@@ -507,6 +507,7 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Tamseɣtayt n izegrar">
 <!ENTITY addonDebugCmd.accesskey "ɣ">
+<!ENTITY debugAddonsCmd.label "Izegrar n tseɣtit">
 <!ENTITY tabsDebugCmd.label "Tamseɣtayt n ukatar n ugbur">
 <!ENTITY tabsDebugCmd.accesskey "b">
 <!ENTITY errorConsoleCmd.label "Tadiwent n tuccḍa">
