@@ -39,7 +39,7 @@
 <!ENTITY cancelChangeSyncDeviceName.label "Batal">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "B">
 <!ENTITY saveChangeSyncDeviceName.label "Simpan">
-<!ENTITY saveChangeSyncDeviceName.accesskey "v">
+<!ENTITY saveChangeSyncDeviceName.accesskey "S">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Ketentuan Layanan">
