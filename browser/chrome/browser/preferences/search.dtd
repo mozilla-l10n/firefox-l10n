@@ -12,7 +12,7 @@
      suggestions over browsing history in the results that extend down from the
      address bar. In the original English string, "ahead" refers to location
      (appearing most proximate to), not time (appearing before). -->
-<!ENTITY showSearchSuggestionsAboveHistory.label "Vis søgeforslag før resultater fra din browsinghistorik i adresselinjen">
+<!ENTITY showSearchSuggestionsAboveHistory.label "Vis søgeforslag før resultater fra din browserhistorik i adresselinjen">
 
 <!ENTITY defaultSearchEngine.label             "Standard-søgetjeneste">
 
