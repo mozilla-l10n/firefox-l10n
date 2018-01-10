@@ -62,18 +62,21 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Prijavite se za ponovno povezivanje">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Niste prijavljeni.">
-<!ENTITY signIn.label                "Prijava">
-<!ENTITY signIn.accesskey            "a">
-<!ENTITY profilePicture.tooltip      "Promijenite profilnu sliku">
-<!ENTITY verifiedManage.label        "Upravljanje računom">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Diskonektuj…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "Niste prijavljeni.">
+<!ENTITY signIn.label                 "Prijava">
+<!ENTITY signIn.accesskey             "a">
+<!ENTITY profilePicture.tooltip       "Promijenite profilnu sliku">
+<!ENTITY verifiedManage.label         "Upravljanje računom">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Diskonektuj…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "Potvrdi email">
 <!ENTITY verify.accesskey            "e">
 <!ENTITY forget.label                "Zaboravi ovu email adresu">
 <!ENTITY forget.accesskey            "o">
+
+<!ENTITY resendVerification.label     "Ponovo pošalji verifikaciju">
+<!ENTITY cancelSetup.label            "Otkaži podešavanje">
 
 <!ENTITY signedOut.caption            "Ponesite vaš Web sa vama">
 <!ENTITY signedOut.description        "Sinhronizujte vaše zabilješke, historiju, tabove, lozinke, add-one, i druge postavke na svim vašim uređajima.">
