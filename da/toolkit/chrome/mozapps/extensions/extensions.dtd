@@ -3,7 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addons.windowTitle                   "Tilføjelser">
+
 <!ENTITY search.placeholder                   "Søg i alle tilføjelser">
+
+<!ENTITY search.placeholder2                  "Søg pSøg på.mozilla.org">
+
 <!ENTITY search.buttonlabel                   "Søg">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
