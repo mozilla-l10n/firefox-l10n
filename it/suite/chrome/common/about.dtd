@@ -54,7 +54,9 @@
      space between the linked about.buildconfig.linkTitle phrase and this
      phrase, so if your locale needs a space between words, add it at the
      start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  " utilizzata per questa versione.">
 
+<!ENTITY about.buildIdentifier        "Identificativo build: ">
 
 <!-- LOCALIZATION NOTE end of declarations that were copied from
      mozilla/toolkit/locales/en-US/chrome/global/about.dtd -->
