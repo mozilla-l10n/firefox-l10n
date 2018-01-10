@@ -10,11 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "అధారిటీలు">
 <!ENTITY certmgr.tab.orphan2                  "ఇతరులు">
 
-<!ENTITY certmgr.mine                         "మిమ్ముల్ని గుర్తించిన ఈ వ్యవస్థల నుండి మీరు ధృవీకరణపత్రాలను కలిగివున్నారు:">
-<!ENTITY certmgr.others                       "వీరు గుర్తించినటువంటి ఆ ఫైల్ పై మీరు ధృవీకరణపత్రాలను కలిగిఉన్నారు:">
-<!ENTITY certmgr.websites2                    "ఈ సేవికలను గుర్తించే ధృవీకరణపత్రాలను మీరు ఫైల్‌నందు కలిగివున్నారు:">
-<!ENTITY certmgr.cas                          "ఈ ధృవీకరణపత్ర అధారిటీలు గుర్తించినటువంటి ఆ ఫైల్ పై మీరు ధృవీకరణపత్రాలను కలిగివున్నారు:">
-<!ENTITY certmgr.orphans                      "వేరే ఏఇతర వర్గములతోను సరిపోని ధృవీకరణపత్రములను మీరు ఫైల్‌నందు కలిగివున్నారు:">
 
 <!ENTITY certmgr.detail.general_tab.title     "సాధారణం">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -84,7 +79,7 @@
 <!ENTITY exceptionMgr.supplementalWarning     "చట్టబద్దమైన బ్యాంకులు, దుకాణాలు, మరియు ఇతర పబ్లిక్ సైటులు ఇదిచేయమని మిమ్ములను అడగవు.">
 <!ENTITY exceptionMgr.certlocation.caption2   "సేవిక">
 <!ENTITY exceptionMgr.certlocation.url        "స్థానము:">
-<!ENTITY exceptionMgr.certlocation.download   "ధృవీకరణపత్రంను పొందుము">
+<!ENTITY exceptionMgr.certlocation.download   "ధృవీకరణపత్రాన్ని తెచ్చుకో">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "ధృవీకరణపత్రం స్థితి">
 <!ENTITY exceptionMgr.certstatus.viewCert     "దర్శనం…">
