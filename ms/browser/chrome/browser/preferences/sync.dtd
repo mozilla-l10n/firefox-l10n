@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Sila daftar masuk untuk menyambung semula">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Anda tidak mendaftar masuk.">
-<!ENTITY signIn.label                "Daftar masuk">
-<!ENTITY signIn.accesskey            "d">
-<!ENTITY profilePicture.tooltip      "Tukar gambar profil">
-<!ENTITY verifiedManage.label        "Urus Akaun">
-<!ENTITY verifiedManage.accesskey    "s">
-<!ENTITY disconnect3.label           "Memutuskan…">
-<!ENTITY disconnect3.accesskey       "M">
+<!ENTITY notSignedIn.label            "Anda tidak mendaftar masuk.">
+<!ENTITY signIn.label                 "Daftar masuk">
+<!ENTITY signIn.accesskey             "d">
+<!ENTITY profilePicture.tooltip       "Tukar gambar profil">
+<!ENTITY verifiedManage.label         "Urus Akaun">
+<!ENTITY verifiedManage.accesskey     "s">
+<!ENTITY disconnect3.label            "Memutuskan…">
+<!ENTITY disconnect3.accesskey        "M">
 <!ENTITY verify.label                "Sahkan E-mel">
 <!ENTITY verify.accesskey            "S">
 <!ENTITY forget.label                "Lupakan E-mel ini">
 <!ENTITY forget.accesskey            "A">
+
+<!ENTITY resendVerification.label     "Hantar semula Pengesahan">
+<!ENTITY resendVerification.accesskey "t">
+<!ENTITY cancelSetup.label            "Batal Penetapan">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Bawa Web dengan anda">
 <!ENTITY signedOut.description        "Sync tandabuku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.">
