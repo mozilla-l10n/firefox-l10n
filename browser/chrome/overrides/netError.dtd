@@ -19,6 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "హ్మ్. ఆ సైటుని కనుక్కోవడం సమస్యగా ఉంది.">
 
 <!ENTITY fileNotFound.title "ఫైలు కనబడ లేదు">
 <!ENTITY fileNotFound.longDesc "
@@ -44,6 +45,7 @@
 
 <!ENTITY malformedURI.pageTitle "చెల్లని URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "హ్మ్. ఆ చిరునామా సరిగా లేదు.">
 
 <!ENTITY netInterrupt.title "అనుసంధానానికి అంతరాయం కలిగింది">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
