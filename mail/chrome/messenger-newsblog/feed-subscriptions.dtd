@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "URL per il feed:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Inserire un URL valido per il feed da aggiungere">
+<!ENTITY feedLocation2.placeholder   "Scrivere un indirizzo di feed valido">
 <!ENTITY locationValidate.label      "Controllo">
 <!ENTITY validateText.label          "Controlla la correttezza e ottieni un url valido.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Aggiungi">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.label     "Verifica">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Aggiorna">
 <!ENTITY button.updateFeed.accesskey "A">
 <!ENTITY button.removeFeed.label     "Elimina">
