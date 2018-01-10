@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "Gaituta">
 <!ENTITY newButton.label "Berria…">
 <!ENTITY newButton.accesskey "B">
-
-
+<!ENTITY newButton.popupCopy.label "Kopiatu…">
+<!ENTITY newButton.popupCopy.accesskey "K">
 <!ENTITY editButton.label "Editatu…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Ezabatu">
@@ -38,4 +38,6 @@
 <!ENTITY helpButton.accesskey "L">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Bilatu iragazkiak izenearen arabera…">
+
+
 
