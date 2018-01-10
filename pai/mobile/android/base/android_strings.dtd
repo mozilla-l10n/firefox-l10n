@@ -301,18 +301,32 @@
 <!ENTITY pref_pwa_summary "Nmakum aplicacionhay namanchu hal chmiich">
 
 <!ENTITY tracking_protection_prompt_title "Bam chŕmeechu rbooch">
+<!ENTITY tracking_protection_prompt_text "Chŕmeechu chwihay ŕ\&apos;apjanuk ,ñubyumyus kos yampatem.">
+<!ENTITY tracking_protection_prompt_tip_text "Trchech chu jabchtayham m\&apos;am chapayt terabum mŕpo">
+<!ENTITY tracking_protection_prompt_action_button "M\&apos; eb\&apos;e!">
 
+<!ENTITY tab_queue_toast_message3 "Ch chkwachuha &brandShortName; ahl chkwaach">
+<!ENTITY tab_queue_toast_action "Baam sol">
+<!ENTITY tab_queue_prompt_title "Jabchu t\&apos;t\&apos;or um sool?">
+<!ENTITY tab_queue_prompt_text4 "&brandShortName; soltemt chkwaach.">
+<!ENTITY tab_queue_prompt_tip_text2 "Jkayum mtyaktemt jkaayum mtyak yu e">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Applicanion chaab mchkwa mtñur kyaaw msol">
+<!ENTITY tab_queue_prompt_positive_action_button "Msool">
+<!ENTITY tab_queue_prompt_negative_action_button "Baam pem">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Jkayun tyakuhe yaam">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "Trchexh chu ŕbo">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "Ŕbo trchech chu">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
