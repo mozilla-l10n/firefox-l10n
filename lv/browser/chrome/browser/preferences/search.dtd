@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Izmantot adrešu joslu meklēšanai un adresēm">
 <!ENTITY searchBar.shown.label                 "Pievienot meklēšanas joslu rīkjoslai">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Rādīt meklēšanas ieteikumus pirms pārlūkošanas vēstures adreses joslā">
+
 <!ENTITY defaultSearchEngine.label             "Noklusētais meklētājs">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Izvēlieties noklusēto meklētāju adrešu joslai un meklēšanai.">

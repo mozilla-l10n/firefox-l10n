@@ -55,6 +55,7 @@
 <!ENTITY  permAskAlways         "Jautāt katru reizi">
 <!ENTITY  permAllow             "Atļaut">
 <!ENTITY  permAllowSession      "Atļaut šai sesijai">
+<!ENTITY  permHide              "Paslēpt">
 <!ENTITY  permBlock             "Bloķēt">
 <!ENTITY  permissionsFor        "Atļaujas lapai:">
 <!ENTITY  permPlugins           "Aktivizēt spraudņus">
