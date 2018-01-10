@@ -24,6 +24,7 @@
 <!ENTITY engine.addons.label        "పొడిగింతలు">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "చిరునామాలు">
+<!ENTITY engine.addresses.title     "మీరు భద్రపరచుకొన్న తపాలా చిరునామా (డెస్క్‌టాప్ మాత్రమే)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "క్రెడిట్ కార్డులు">
 <!ENTITY engine.creditcards.title   "పేర్లూ, నెంబర్లూ, కాల పరిమితి తేదీలు (డెస్క్‌టాపులో మాత్రమే)">
