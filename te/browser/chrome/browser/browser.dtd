@@ -237,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
 
-<!ENTITY searchItem.title             "వెతుకు">
+<!ENTITY searchItem.title             "వెతకడం">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "ముంగిలి">
@@ -514,8 +514,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "శోధనా అమర్పులను మార్చు">
-<!ENTITY changeSearchSettings.tooltip "శోధనా అమర్పులను మార్చు">
+<!ENTITY changeSearchSettings.button  "వెతుకుడు అమరికలు">
+<!ENTITY changeSearchSettings.tooltip "వెతుకుడు అమరికలను మార్చుకోండి">
 
 <!ENTITY searchInNewTab.label         "కొత్త ట్యాబులో వెతుకు">
 <!ENTITY searchInNewTab.accesskey     "T">

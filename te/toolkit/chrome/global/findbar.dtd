@@ -16,4 +16,4 @@
 <!ENTITY caseSensitive.tooltiptext "చిన్నపెద్ద అక్షరతేడా గుర్తిస్తూ వెతుకు">
 <!ENTITY entireWord.label "మొత్తం పదాలు">
 <!ENTITY entireWord.accesskey "w">
-<!ENTITY entireWord.tooltiptext "మొత్తం పదాలు మాత్రమే వెతుకుము">
+<!ENTITY entireWord.tooltiptext "పూర్తి పదాలు మాత్రమే వెతుకు">
