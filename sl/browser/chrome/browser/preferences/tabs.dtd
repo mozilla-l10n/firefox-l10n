@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Nova okna odpiraj v novih zavihkih">
 <!ENTITY newWindowsAsTabs.accesskey   "n">
 
+<!ENTITY newWindowsAsTabs2.label       "Povezave odpiraj v zavihkih in ne v novih oknih">
+<!ENTITY newWindowsAsTabs2.accesskey   "P">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Opozori ob zapiranju več zavihkov hkrati">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "z">
 
