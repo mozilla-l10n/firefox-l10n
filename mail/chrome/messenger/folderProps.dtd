@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Propietateak">
 
 <!ENTITY generalInfo.label                       "Argibide orokorrak">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Testu-kodeketa lehenetsia:">
+<!ENTITY folderCharsetFallback2.accesskey        "F">
+<!ENTITY folderCharsetEnforce2.label             "Aplikatu testu-kodeketa karpetako mezu guztiei (mezu bakoitzaren kodeketa ezarpenak eta auto-detekzioa ez ikusi egingo dira)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Berreraiki laburpen-fitxategiaren indizea">
 <!ENTITY folderRebuildSummaryFile2.label         "Konpondu karpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "K">
