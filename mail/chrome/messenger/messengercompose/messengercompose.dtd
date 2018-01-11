@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "Mezua prestatu: (gairik ez)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Fitxategia">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Berria">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Inprimatu…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Editatu">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Desegin">
@@ -85,6 +85,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Berrizendatu eranskina…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "Berrordenatu eranskinak…">
+<!ENTITY reorderAttachmentsCmd.accesskey "o">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Hautatu dena">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -102,8 +105,33 @@
 <!ENTITY findPrevCmd.accesskey "o">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Berrordenatu eranskinak">
+<!ENTITY moveAttachmentTopPanelBtn.label "Mugitu goraino">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "G">
+<!ENTITY moveAttachmentUpPanelBtn.label "Eraman gorantz">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "E">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Mugitu batera">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "t">
+<!ENTITY moveAttachmentDownPanelBtn.label "Eraman beherantz">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "b">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
+     the "Sort Selection:" part of the label, not from the sort direction part. -->
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Ikusi">
 <!ENTITY viewMenu.accesskey "I">
 <!ENTITY viewToolbarsMenuNew.label "Tresna-barrak">
@@ -121,12 +149,12 @@
 
 <!ENTITY addressSidebar.label "Kontaktuen alboko barra">
 <!ENTITY addressSidebar.accesskey "o">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatua">
 <!ENTITY formatMenu.accesskey "o">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Aukerak">
 <!ENTITY optionsMenu.accesskey "k">
 <!ENTITY checkSpellingCmd2.label "Egiaztatu ortografia…">
@@ -137,8 +165,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "Z">
 <!ENTITY quoteCmd.label "Zitatu mezua">
 <!ENTITY quoteCmd.accesskey "Z">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Erantsi txartel pertsonala (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -158,8 +186,6 @@
 <!ENTITY bothFormatCmd.accesskey "a">
 <!ENTITY priorityMenu.label "Lehentasuna">
 <!ENTITY priorityMenu.accesskey "L">
-
-
 <!ENTITY priorityButton.label "Lehentasuna:">
 <!ENTITY lowestPriorityCmd.label "Baxuena">
 <!ENTITY lowestPriorityCmd.accesskey "B">
@@ -174,8 +200,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Bidali kopia bat honi">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "Gorde hemen">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Tresnak">
 <!ENTITY tasksMenu.accesskey "T">
 <!ENTITY messengerCmd.label "Posta eta berri-taldeak">
@@ -191,15 +217,15 @@
 <!ENTITY preferencesCmd2.accesskey "k">
 <!ENTITY preferencesCmdUnix.label "Hobespenak">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Txikitu">
 <!ENTITY bringAllToFront.label "Ekarri denak aurrera">
 <!ENTITY zoomWindow.label "Zooma">
 <!ENTITY windowMenu.label "Leihoa">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Bidali">
 <!ENTITY quoteButton.label "Aipamena">
 <!ENTITY addressButton.label "Kontaktuak">
@@ -207,24 +233,23 @@
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Gorde">
 <!ENTITY printButton.label "Inprimatu">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Bidali mezua orain">
 <!ENTITY sendlaterButton.tooltip "Bidali mezua geroago">
 <!ENTITY quoteButton.tooltip "Aipatu aurreko mezua">
 <!ENTITY addressButton.tooltip "Hautatu hartzaile bat helbide-liburuan">
 <!ENTITY attachButton.tooltip "Erantsi fitxategia">
 <!ENTITY spellingButton.tooltip "Egiaztatu hautapenaren edo orri osoaren ortografia">
-
 <!ENTITY saveButton.tooltip "Gorde mezu hau">
 <!ENTITY cutButton.tooltip              "Ebaki">
 <!ENTITY copyButton.tooltip             "Kopiatu">
 <!ENTITY pasteButton.tooltip            "Itsatsi">
 <!ENTITY printButton.tooltip "Inprimatu mezu hau">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Nork:">
 <!ENTITY fromAddr.accesskey "r">
@@ -239,8 +264,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "n">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Txertatu aurpegiera">
 <!ENTITY smiley1Cmd.label "Irribarrea">
 <!ENTITY smiley2Cmd.label "Zimurtua">
@@ -258,8 +283,8 @@
 <!ENTITY smiley14Cmd.label "Errugabea">
 <!ENTITY smiley15Cmd.label "Negarrez">
 <!ENTITY smiley16Cmd.label "Ezpainak-itsatsita">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Ez da iradokizunik aurkitu">
 <!ENTITY spellCheckIgnoreWord.label "Ezikusi hitza">
 <!ENTITY spellCheckIgnoreWord.accesskey "i">
@@ -298,12 +323,14 @@
 <!ENTITY convertRegularAttachment.accesskey "E">
 <!ENTITY attachPage.label "Erantsi webgunea…">
 <!ENTITY attachPage.accesskey "w">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Gehitu hiztegiak…">
 <!ENTITY spellAddDictionaries.accesskey "G">
-<!-- Title for the address picker panel -->
 
+<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontaktuak">
+
 <!-- Identity popup customize menuitem -->
 
+<!-- Status Bar -->
