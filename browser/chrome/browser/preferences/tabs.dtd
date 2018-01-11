@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "以新分頁取代新視窗">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY newWindowsAsTabs2.label       "以分頁開啟鏈結，而不使用新視窗">
-<!ENTITY newWindowsAsTabs2.accesskey   "w">
+<!ENTITY newWindowsAsTabs3.label       "以分頁開啟鏈結，而不使用新視窗">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "關閉多個分頁前警告您">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
