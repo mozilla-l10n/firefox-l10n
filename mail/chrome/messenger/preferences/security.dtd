@@ -5,9 +5,9 @@
 <!ENTITY itemJunk.label          "Zaborra">
 <!ENTITY itemPhishing.label      "Posta-iruzurrak">
 <!ENTITY itemPasswords.label     "Pasahitzak">
+<!ENTITY itemAntiVirus.label     "Antibirusa">
 
 <!-- Junk Mail Controls -->
-
 <!ENTITY junkMail.intro "Ezarri zabor-postaren ezarpen lehenetsiak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfiguratu daitezke.">
 <!ENTITY manualMark.label "Mezuak zabor gisa markatzen ditudanean:">
 <!ENTITY manualMark.accesskey "z">
@@ -23,15 +23,15 @@
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Berrezarri trebatze-datuak">
 <!ENTITY resetTrainingData.accesskey "r">
-<!-- Phishing Detector -->
 
+<!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName;(e)k mezuak azter ditzake posta-iruzurrak bilatzeko, iruzur egiteko erabil daitezkeen oinarrizko teknikak begiratuz.">
 <!ENTITY enablePhishingDetector1.label    "Esaidazu irakurtzen ari naizen mezua posta-iruzurra izan daitekeen">
 <!ENTITY enablePhishingDetector1.accesskey  "E">
 <!ENTITY useDownloadedList.label "Erabili susmopeko posta-iruzurren deskargatutako zerrenda">
 <!ENTITY useDownloadedList.accesskey "r">
-<!-- Passwords -->
 
+<!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName;(e)k pasahitzen informazioa gogora dezake zure kontu guztientzat.">
 <!ENTITY useMasterPassword.label        "Erabili pasahitz nagusia">
 <!ENTITY useMasterPassword.accesskey    "n">
@@ -40,7 +40,7 @@
 <!ENTITY changeMasterPassword.accesskey "A">
 <!ENTITY savedPasswords.label           "Gordetako pasahitzak…">
 <!ENTITY savedPasswords.accesskey       "G">
+
 <!-- Anti Virus -->
-
-
+<!ENTITY antiVirus.intro      "&brandShortName; erraztuko du antibirus softwareak datozen mezuak aztertu ditzan lokalki gorde aurretik.">
 
