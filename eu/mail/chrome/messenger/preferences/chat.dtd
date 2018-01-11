@@ -2,17 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Orokorra">
+
 <!ENTITY  startupAction.label         "&brandShortName; abiatzean:">
 <!ENTITY  startupAction.accesskey     "a">
 <!ENTITY  startupOffline.label        "Mantendu txat-kontuak deskonektatuta">
 <!ENTITY  startupConnectAuto.label    "Konektatu txat-kontuak automatikoki">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Jakinarazi nire kontaktuei inaktibo nagoela">
 <!ENTITY  reportIdleAfter.accesskey     "i">
 <!ENTITY  idleTime                      "minutu ondoren">
@@ -40,3 +42,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Arakatu…">
 <!ENTITY  browse.accesskey                    "A">
 
+<!ENTITY messageStyleTab.title             "Mezu estiloak">
+<!ENTITY messageStylePreview.label         "Aurrebista:">
+<!ENTITY messageStyleTheme.label           "Gaia:">
+<!ENTITY messageStyleTheme.accesskey       "G">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Burbuilak">
+<!ENTITY messageStyleDarkTheme.label       "Iluna">
+<!ENTITY messageStylePaperSheetsTheme.label "Papera orriak">
+<!ENTITY messageStyleSimpleTheme.label     "Sinplea">
+<!ENTITY messageStyleDefaultTheme.label    "Lehenetsia">
+<!ENTITY messageStyleVariant.label         "Aldaerak:">
+<!ENTITY messageStyleVariant.accesskey     "A">
+<!ENTITY messageStyleShowHeader.label      "Erakutsi goiburua">
+<!ENTITY messageStyleShowHeader.accesskey  "g">
+<!ENTITY messageStyleNoPreview.title       "Aurrebista ez dago erabilgarri">
+<!ENTITY messageStyleNoPreview.description "Gai hau ez da baliokoa edo une honetan ez dago erabilgarri (desgaitu gehigarria, modu-segurua, …).">

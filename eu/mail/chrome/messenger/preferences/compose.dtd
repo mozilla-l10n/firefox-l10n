@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "A">
 <!ENTITY restoreHTMLDefaults.label            "Berrezarri lehenetsiak">
 <!ENTITY restoreHTMLDefaults.accesskey        "r">
-
-
+<!ENTITY defaultToParagraph.label             "Erabili paragrafo formatua testu gorputzaren ordez lehenetsirik">
+<!ENTITY defaultToParagraph.accesskey         "p">
 
 <!ENTITY spellCheck.label                     "Egiaztatu ortografia bidali aurretik">
 <!ENTITY spellCheck.accesskey                 "g">
@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "Bat ere ez">
 <!ENTITY editDirectories.label                 "Editatu direktorioak…">
 <!ENTITY editDirectories.accesskey             "E">
-
-
-
+<!ENTITY showAsDefault.label                   "Helbide liburu leihoko abioko direktorio lehenetsia:">
+<!ENTITY showAsDefault.accesskey               "H">
+<!ENTITY showAsDefaultLast.label               "Azken direktorio erabilia">
 
 <!ENTITY sendOptionsDescription.label          "Konfiguratu testuaren formatuaren portaera">
 <!ENTITY sendOptions.label                     "Bidalketa-aukerak…">
