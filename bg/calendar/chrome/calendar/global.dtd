@@ -8,26 +8,26 @@
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-<!ENTITY day.1.Ddd "Нед" >
+<!ENTITY day.1.Ddd "нед" >
 <!ENTITY day.1.Ddd.accesskey "Н">
 <!ENTITY day.2.Ddd "Пон" >
 <!ENTITY day.2.Ddd.accesskey "П">
-<!ENTITY day.3.Ddd "Вто" >
-<!ENTITY day.3.Ddd.accesskey "В">
-<!ENTITY day.4.Ddd "Сря" >
-<!ENTITY day.4.Ddd.accesskey "С">
-<!ENTITY day.5.Ddd "Чет" >
-<!ENTITY day.5.Ddd.accesskey "Ч">
+<!ENTITY day.3.Ddd "вт" >
+<!ENTITY day.3.Ddd.accesskey "в">
+<!ENTITY day.4.Ddd "сря" >
+<!ENTITY day.4.Ddd.accesskey "с">
+<!ENTITY day.5.Ddd "четв" >
+<!ENTITY day.5.Ddd.accesskey "ч">
 <!ENTITY day.6.Ddd "пет" >
 <!ENTITY day.6.Ddd.accesskey "п">
-<!ENTITY day.7.Ddd "Съб" >
-<!ENTITY day.7.Ddd.accesskey "С">
+<!ENTITY day.7.Ddd "съб" >
+<!ENTITY day.7.Ddd.accesskey "с">
 
-<!ENTITY day.1.name "Неделя" >
+<!ENTITY day.1.name "неделя" >
 <!ENTITY day.2.name "Понеделник" >
-<!ENTITY day.3.name "Вторник" >
-<!ENTITY day.4.name "Сряда" >
-<!ENTITY day.5.name "Четвъртък" >
+<!ENTITY day.3.name "вторник" >
+<!ENTITY day.4.name "сряда" >
+<!ENTITY day.5.name "четвъртък" >
 <!ENTITY day.6.name "петък" >
 <!ENTITY day.7.name "събота" >
 
