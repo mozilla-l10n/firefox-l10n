@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Editar mensagem de rascunho">
 <!ENTITY editDraftMsgCmd.accesskey "r">
+<!ENTITY editTemplateMsgCmd.label "Editar modelo">
+<!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "Nova mensagem de modelo">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Criar filtro a partir da mensagem...">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Editar como nova">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "Editar mensagem de rascunho">
+<!ENTITY contextEditTemplate.label "Editar modelo">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Arquivar">
 <!ENTITY contextArchive.accesskey "q">
 <!ENTITY contextReplySender.label "Responder apenas ao remetente">
