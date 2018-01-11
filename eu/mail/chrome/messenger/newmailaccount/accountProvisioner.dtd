@@ -6,19 +6,19 @@
 <!ENTITY header2.label "Helbide elektroniko berria nahi duzu?">
 <!ENTITY other.languages "Zure inguruan helbideak eskaintzen dituzten hornitzaileak bistaratzen ditugu soilik. Egin klik hemen hornitzaile guztiak erakusteko.">
 <!ENTITY error.line1 "Sentitzen dugu, ezin izan dugu gomendatutako helbide elektronikorik aurkitu.">
+<!ENTITY error.line2 "Goitizenak edo bestelako terminoak ere bilatzen saia zaitezke helbide elektroniko gehiago aurkitzeko.">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-
 <!ENTITY error.suggest.before "Aldi berean ">
 <!ENTITY error.suggest.middle "doako posta-kontu alternatiboak">
 <!ENTITY error.suggest.after " ere proba ditzakezu.">
+
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-
 <!ENTITY success.title.before "Kaixo ">
 <!ENTITY success.title.after ", ondorengo helbide elektronikoak daude eskuragarri zuretzat:">
 <!ENTITY success.tip "(Goitizenak edo bestelako terminoak ere bilatzen saia zaitezke helbide elektroniko gehiago aurkitzeko)">
