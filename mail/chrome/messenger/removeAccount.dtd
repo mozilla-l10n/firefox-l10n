@@ -19,3 +19,4 @@
 <!ENTITY showData.accesskey           "E">
 <!ENTITY progressPending              "Kentzen aukeratutako datuak…">
 <!ENTITY progressSuccess              "Arrakastaz kendu da.">
+<!ENTITY progressFailure              "Kentzeak huts egin du.">
