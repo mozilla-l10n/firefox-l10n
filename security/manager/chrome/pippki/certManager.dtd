@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY certmgr.title                       "სერთიფიკატების მმართველი">
+<!ENTITY certmgr.title                       "სერტიფიკატების მმართველი">
 
 <!ENTITY certmgr.tab.mine                     "თქვენი სერტიფიკატები">
 <!ENTITY certmgr.tab.others2                  "ხალხი">
@@ -11,9 +11,9 @@
 <!ENTITY certmgr.tab.orphan2                  "სხვა">
 
 <!ENTITY certmgr.mine2                        "თქვენ გაქვთ სერტიფიკატები ამ ორგანიზაციებიდან, რომლითაც თქვენი ამოცნობა ხდება">
-<!ENTITY certmgr.others2                      "თქვენ გაქვთ სერთიფიკატები რომელიც ეხება შემდეგ პირებს">
-<!ENTITY certmgr.websites3                    "თქვენ გაქვთ სერთიფიკატები რომელიც შემდეგ სერვერებს ეხება">
-<!ENTITY certmgr.cas2                         "თქვენ გაქვთ სერთიფიკატები რომელიც ეხება შემდეგ გამომცემლებს">
+<!ENTITY certmgr.others2                      "თქვენ გაქვთ სერტიფიკატები, რომლითაც შემდეგი პირების ამოცნობა ხდება">
+<!ENTITY certmgr.websites3                    "თქვენ გაქვთ სერტიფიკატები, რომლითაც შემდეგი სერვერების ამოცნობა ხდება">
+<!ENTITY certmgr.cas2                         "თქვენ გაქვთ სერტიფიკატები, რომლითაც შემდეგი გამომცემლების ამოცნობა ხდება">
 <!ENTITY certmgr.orphans2                     "თქვენი სერტიფიკატის ფაილი არც ერთ სხვა კატეგორიას არ შეესაბამება">
 
 <!ENTITY certmgr.detail.general_tab.title     "ზოგადი">
@@ -42,7 +42,7 @@
 
 <!ENTITY certmgr.deletecert.title             "სერთიფიკატის წაშლა">
 
-<!ENTITY certmgr.certname                     "სერთიფიკატის სახელი">
+<!ENTITY certmgr.certname                     "სერტიფიკატის სახელი">
 <!ENTITY certmgr.certserver                   "საიტი">
 <!ENTITY certmgr.override_lifetime            "ვადა">
 <!ENTITY certmgr.tokenname                    "უსაფრთხოების მოწყობილობა">
