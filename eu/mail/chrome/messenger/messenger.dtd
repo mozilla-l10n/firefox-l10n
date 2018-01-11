@@ -164,6 +164,8 @@
 <!ENTITY recentFolders.accesskey "r">
 <!ENTITY compactVersion.label "Ikuspegi trinkoa">
 <!ENTITY compactVersion.accesskey "n">
+<!ENTITY folderPaneBar.label "Karpeten panelaren tresna-barra">
+<!ENTITY folderPaneBar.accesskey "K">
 <!ENTITY folderModeSelector.label "Karpeta ikuspegiak">
 
 <!-- Sort Menu -->
@@ -360,7 +362,12 @@
 <!ENTITY editAsNewMsgCmd.label "Editatu mezu berri gisa">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY editDraftMsgCmd.label "Editatu zirriborro mezua">
+<!ENTITY editDraftMsgCmd.accesskey "z">
+<!ENTITY editTemplateMsgCmd.label "Editatu txantiloia">
+<!ENTITY editTemplateMsgCmd.accesskey "t">
+<!ENTITY newMsgFromTemplateCmd.label "Mezu berria txantiloitik">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Sortu iragazkia mezutik…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Eraman hona">
@@ -452,6 +459,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Gehigarriak">
 <!ENTITY addons.accesskey "G">
+<!ENTITY addonPrefs.label "Gehigarri aukerak">
+<!ENTITY addonPrefs.accesskey "a">
+<!ENTITY addonPrefsUnix.label "Gehigarri hobespenak">
+<!ENTITY addonPrefsUnix.accesskey "o">
+<!ENTITY addonNoPrefs.label "Ez da aurkitu gehigarri ezarpenik.">
 <!ENTITY activitymanager.label "Jarduera-kudeatzailea">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Txataren egoera">
@@ -490,6 +502,17 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "K">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Garatzaile-tresnak">
+<!ENTITY devtoolsMenu.accesskey "G">
+<!ENTITY devToolboxCmd.label "Garatzaile tresna-kutxa">
+<!ENTITY devToolboxCmd.accesskey "t">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Gehigarri araztailea">
+<!ENTITY addonDebugCmd.accesskey "a">
+<!ENTITY debugAddonsCmd.label "Araztu gehigarriak">
+<!ENTITY debugAddonsCmd.accesskey "r">
+<!ENTITY tabsDebugCmd.label "Edukien marko araztailea">
+<!ENTITY tabsDebugCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.label "Errore-kontsola">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -498,8 +521,10 @@
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Eskuratu mezuak">
@@ -510,6 +535,7 @@
 <!ENTITY forwardButton.label "Birbidali">
 <!ENTITY fileButton.label "Artxibatu">
 <!ENTITY archiveButton.label "Artxibatu">
+<!ENTITY openConversationButton.label "Elkarrizketa">
 <!ENTITY nextButton.label "Hurrengoa">
 <!ENTITY nextButtonToolbarItem.label "Irakurri gabeko hurrengoa">
 <!ENTITY nextMsgButton.label "Hurrengoa">
@@ -552,6 +578,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Birbidali hautatutako mezua eranskin gisa">
 <!ENTITY fileButton.tooltip "Artxibatu hautatutako mezua">
 <!ENTITY archiveButton.tooltip "Artxibatu hautatutako mezuak">
+<!ENTITY openConversationButton.tooltip "Erakutsi aukeratutako mezuaren elkarrizketa">
 <!ENTITY nextButton.tooltip "Mugitu irakurri gabeko hurrengo mezura">
 <!ENTITY nextMsgButton.tooltip "Joan hurrengo mezura">
 <!ENTITY previousButton.tooltip "Mugitu irakurri gabeko aurreko mezura">
@@ -614,6 +641,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Eskuratu mezuak">
 <!ENTITY folderContextGetMessages.accesskey "k">
+<!ENTITY folderContextPauseAllUpdates.label "Pausarazi eguneratze guztiak">
+<!ENTITY folderContextPauseUpdates.label "Pausarazi eguneratzeak">
+<!ENTITY folderContextPauseUpdates.accesskey "P">
 <!ENTITY folderContextOpenInNewWindow.label "Ireki leiho berrian">
 <!ENTITY folderContextOpenInNewWindow.accesskey "l">
 <!ENTITY folderContextOpenNewTab.label "Ireki fitxa berri batean">
@@ -709,6 +739,7 @@
 <!ENTITY attachmentColumn2.tooltip "Ordenatu eranskinen arabera">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Mezu berria txantiloitik">
 <!ENTITY contextOpenNewWindow.label "Ireki mezua leiho berrian">
 <!ENTITY contextOpenNewWindow.accesskey "h">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -723,6 +754,9 @@
 <!ENTITY contextOpenContainingFolder.accesskey "k">
 <!ENTITY contextEditMsgAsNew.label "Editatu mezu berri gisa">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Editatu zirriborro mezua">
+<!ENTITY contextEditTemplate.label "Editatu txantiloia">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Artxibatu">
 <!ENTITY contextArchive.accesskey "x">
 <!ENTITY contextReplySender.label "Erantzun bidaltzaileari soilik">
@@ -750,7 +784,9 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiatu hona">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ezikusi haria">
+<!ENTITY contextKillSubthreadMenu.accesskey "E">
 <!ENTITY contextKillThreadMenu.accesskey "i">
+<!ENTITY contextKillSubthreadMenu.label "Ezikusi azpiharia">
 <!ENTITY contextWatchThreadMenu.label "Behatu haria">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
@@ -836,6 +872,7 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "Bilatu #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
@@ -864,6 +901,8 @@
 <!ENTITY SendMessageTo.accesskey "d">
 <!ENTITY CopyEmailAddress.label "Kopiatu helbide elektronikoa">
 <!ENTITY CopyEmailAddress.accesskey "K">
+<!ENTITY CopyNameAndEmailAddress.label "Kopiatu izena eta posta elektroniko helbidea">
+<!ENTITY CopyNameAndEmailAddress.accesskey "p">
 <!ENTITY CopyNewsgroupName.label "Kopiatu berri-taldearen izena">
 <!ENTITY CopyNewsgroupName.accesskey "K">
 <!ENTITY CopyNewsgroupURL.label "Kopiatu berri-taldearen URLa">
