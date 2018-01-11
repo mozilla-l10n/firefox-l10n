@@ -22,8 +22,15 @@
 <!ENTITY searchFilter.label                "Filtro de búsqueda: ">
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "Alcance: ">
+<!ENTITY scope.accesskey                   "c">
 <!ENTITY scopeOneLevel.label               "Un nivel">
+<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeSubtree.label                "Subárbol">
+<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY return.label                      "No devolver más que esto">
+<!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultados">
+<!ENTITY offlineText.label                 "Puedes descargar una copia en local de este directorio para poder trabajar con ella cuando estés desconectado.">
 
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
