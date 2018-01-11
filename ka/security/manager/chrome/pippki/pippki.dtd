@@ -26,7 +26,7 @@
 <!ENTITY downloadCert.viewCert.text "სააგენტოს სერთიფიკატის შემოწმება">
 
 <!-- Strings for the SSL client auth ask dialog -->
-<!ENTITY clientAuthAsk.title "მოთხოვნა მომხმარებლის დასადგენად">
+<!ENTITY clientAuthAsk.title "მომხმარებლის ამოცნობის მოთხოვნა">
 <!ENTITY clientAuthAsk.message1 "საიტი თქვენი ვინაობის დასადგენად, სერტიფიკატის წარდგენას ითხოვს:">
 <!ENTITY clientAuthAsk.message2 "წარსადგენი სერთიფიკატის არჩევა:">
 <!ENTITY clientAuthAsk.message3 "არჩეული სერტიფიკატის მონაცემები:">
