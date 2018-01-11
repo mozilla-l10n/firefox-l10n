@@ -83,7 +83,7 @@
 <!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>Tarayıcı bu sayfanın yüklenmesini engelledi; çünkü sayfa, yüklenmesine izin vermeyen bir içerik güvenliği ilkesine sahip.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Hasarlı İçerik Hatası">
+<!ENTITY corruptedContentErrorv2.title "Hasarlı içerik hatası">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz sayfa gösterilemiyor.</p><ul><li>Site sahipleriyle iletişim kurup bu sorunu onlara bildirmeyi düşünebilirsiniz.</li></ul>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
