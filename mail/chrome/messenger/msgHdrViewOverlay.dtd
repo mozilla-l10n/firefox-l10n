@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Nori">
 <!ENTITY fromField4.label "Nork">
 <!ENTITY senderField4.label "Bidaltzailea">
-
+<!ENTITY author.label "Egilea">
 <!ENTITY organizationField4.label "Erakundea">
 <!ENTITY replyToField4.label "Erantzun honi">
 
@@ -24,8 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Artxibatu">
 <!ENTITY hdrArchiveButton1.tooltip "Artxibatu mezu hau">
-
-
+<!ENTITY hdrOpenConversationButton1.label "Elkarrizketa">
+<!ENTITY hdrOpenConversationButton1.tooltip "Erakutsi mezu honen elkarrizketa">
 <!ENTITY hdrSmartReplyButton1.label "Erantzun bizkorra">
 <!ENTITY hdrReplyButton1.label "Erantzun">
 <!ENTITY hdrReplyButton2.tooltip "Erantzun mezu honen bidaltzaileari">
@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "I">
 <!ENTITY otherActionsPrint1.label "Inprimatu…">
 <!ENTITY otherActionsPrint1.accesskey "p">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Erakutsi eranskinen panela hasieran">
 <!ENTITY startExpandedCmd.accesskey    "E">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Ireki">
 <!ENTITY openAttachmentCmd.accesskey    "I">
 <!ENTITY saveAsAttachmentCmd.label    "Gorde honela…">
@@ -94,8 +94,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
 
 <!ENTITY openAttachment.tooltip "Ireki erantsitako fitxategia">
-<!-- Attachment toolbar items -->
 
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Gorde">
 <!ENTITY saveAttachmentButton1.tooltip     "Gorde erantsitako fitxategia">
 <!ENTITY saveAllAttachmentsButton1.label   "Gorde dena">

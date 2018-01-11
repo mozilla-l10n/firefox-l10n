@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Kontuak">
 <!ENTITY subscribeImapFolders.label   "Kudeatu karpeten harpidetzak">
 <!ENTITY settingsLink.label           "Ikusi kontu honen ezarpenak">
-<!ENTITY newAcctLink.label            "Sortu kontu berria">
-<!ENTITY newAcct.label                "Sortu kontu berria:">
+<!ENTITY setupNewAcct.label           "Konfiguratu kontu bat:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Eginbide aurreratuak">
 <!ENTITY searchMsgsLink.label         "Bilatu mezuak">
