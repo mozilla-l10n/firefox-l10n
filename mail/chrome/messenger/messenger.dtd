@@ -51,6 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "g">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Kontu hau">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "h">
+<!ENTITY getNextNMsgCmd2.label "Eskuratu hurrengo berri mezuak">
+<!ENTITY getNextNMsgCmd2.accesskey "E">
 <!ENTITY sendUnsentCmd.label "Bidali bidali gabeko mezuak">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Harpidetu…">
@@ -162,6 +164,7 @@
 <!ENTITY recentFolders.accesskey "r">
 <!ENTITY compactVersion.label "Ikuspegi trinkoa">
 <!ENTITY compactVersion.accesskey "n">
+<!ENTITY folderModeSelector.label "Karpeta ikuspegiak">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sailkapen irizpidea">
