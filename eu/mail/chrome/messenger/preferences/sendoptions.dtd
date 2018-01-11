@@ -4,11 +4,11 @@
 
 <!ENTITY dialog.title                 "Bidalketa-aukerak">
 <!ENTITY sendMail.title               "Testuaren formatua">
-
-
+<!ENTITY autoDowngrade.label          "Bidali mezua testu huts gisa posible basa">
+<!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Mezuak HTML formatuan bidaltzean eta hartzaileetako bat edo gehiago HTML mezuak jasotzeko zerrendan ez daudenean:">
 <!ENTITY askMe.label                  "Galdetu niri zer egin">
-<!ENTITY askMe.accesskey              "t">
+<!ENTITY askMe.accesskey              "a">
 <!ENTITY convertPlain.label           "Bihurtu mezua testu arruntera">
 <!ENTITY convertPlain.accesskey       "z">
 <!ENTITY sendHTML.label               "Bidali mezua HTML gisa halere">

@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Arazoa orria kargatzerakoan">
 <!ENTITY retry.label "Saiatu berriro">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ezin da konektatu">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -22,7 +22,8 @@
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li> <li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin den.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Fitxategi-atzipena ukatu egin da">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Kendua edo lekuz aldatua egon liteke, edo fitxategi-baimenek sarrera eragotz lezakete.</li> </ul>">
 
 <!ENTITY generic.title "Iepa.">
 <!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
@@ -79,20 +80,21 @@
 
 <!ENTITY corruptedContentErrorv2.title "Hondatutako edukiaren errorea">
 
-
 <!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eraman hemendik at!">
 <!ENTITY securityOverride.exceptionButtonLabel "Gehitu salbuespena…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Ez zenuke salbuespenik gehitu behar erabat fidatzekoa ez den Internet konexio bat erabiltzen ari bazara edo ez bazaude ohituta zerbitzari honetarako abisuak ikustera.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Urruneko XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jar zaitez webgunearen jabeekin harremanetan arazo honen berri emateko.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "Zure konexioa ez da segurua">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> zaharkitua dagoen eta erasokorra den segurtasun teknologia darabil. Erasotzaile batek erraz lortu dezake zuk salbu dagoela uste duzun informazioa. Webgune administratzaileak zerbitzaria konpondu beharko luke zuk gunea bisitatu aurretik.</p><p>Errore kodea: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
