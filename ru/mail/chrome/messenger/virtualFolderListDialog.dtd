@@ -6,3 +6,5 @@
 <!ENTITY virtualFolderDesc.label       "Выберите папки, в которых будет производиться поиск:">
 
 
+<!ENTITY folderName.label "Имя папки">
+<!ENTITY folderSearch.label "Поиск">

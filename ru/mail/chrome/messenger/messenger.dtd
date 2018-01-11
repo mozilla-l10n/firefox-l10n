@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Редактировать черновик сообщения">
 <!ENTITY editDraftMsgCmd.accesskey "а">
+<!ENTITY editTemplateMsgCmd.label "Редактировать шаблон">
+<!ENTITY editTemplateMsgCmd.accesskey "л">
 <!ENTITY newMsgFromTemplateCmd.label "Создать сообщение по шаблону">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Создать фильтр…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Редактировать как новое сообщение">
 <!ENTITY contextEditMsgAsNew.accesskey "а">
 <!ENTITY contextEditDraftMsg.label "Редактировать черновик сообщения">
+<!ENTITY contextEditTemplate.label "Редактировать шаблон">
+<!ENTITY contextEditTemplate.accesskey "л">
 <!ENTITY contextArchive.label "Архивировать">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Ответить отправителю">
