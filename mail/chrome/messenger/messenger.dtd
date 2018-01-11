@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Piszkozat szerkesztése">
 <!ENTITY editDraftMsgCmd.accesskey "P">
+<!ENTITY editTemplateMsgCmd.label "Sablon szerkesztése">
+<!ENTITY editTemplateMsgCmd.accesskey "S">
 <!ENTITY newMsgFromTemplateCmd.label "Új üzenet sablonból">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Szűrő létrehozása az üzenet alapján…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Szerkesztés új üzenetként">
 <!ENTITY contextEditMsgAsNew.accesskey "z">
 <!ENTITY contextEditDraftMsg.label "Piszkozat szerkesztése">
+<!ENTITY contextEditTemplate.label "Sablon szerkesztése">
+<!ENTITY contextEditTemplate.accesskey "S">
 <!ENTITY contextArchive.label "Archiválás">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Válasz csak a feladónak">
