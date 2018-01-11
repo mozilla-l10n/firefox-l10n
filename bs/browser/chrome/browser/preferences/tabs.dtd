@@ -8,7 +8,7 @@
 <!ENTITY newWindowsAsTabs.label       "Otvaraj nove prozore u novim tabovima">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY newWindowsAsTabs2.label       "Otvori linkove kao tabove umjesto u novim prozorima">
+<!ENTITY newWindowsAsTabs3.label       "Otvori linkove u tabovima umjesto u novim prozorima">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Upozoriti vas kada zatvarate više tabova">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "o">
