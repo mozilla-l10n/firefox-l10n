@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Abrir pestañas en lugar de ventanas">
 <!ENTITY newWindowsAsTabs.accesskey   "p">
 
-<!ENTITY newWindowsAsTabs2.label       "Abrir enlaces como pestañas en lugar de nuevas ventanas">
-<!ENTITY newWindowsAsTabs2.accesskey   "w">
+<!ENTITY newWindowsAsTabs3.label       "Abrir enlaces en pestañas en lugar de nuevas ventanas">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Avisarme al cerrar varias pestañas">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
