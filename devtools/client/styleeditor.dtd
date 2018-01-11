@@ -20,7 +20,7 @@
 
 <!ENTITY visibilityToggle.tooltip   "శైలి షీట్ దృశ్యనీయతను మార్చు">
 
-<!ENTITY saveButton.label           "దాయి">
+<!ENTITY saveButton.label           "భద్రపరచు">
 <!ENTITY saveButton.tooltip         "ఈ శైలి షీట్‌ను ఫైలునకు దాయి">
 <!ENTITY saveButton.accesskey       "S">
 

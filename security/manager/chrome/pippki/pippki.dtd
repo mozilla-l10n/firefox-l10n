@@ -22,7 +22,7 @@
 <!ENTITY downloadCert.trustEmail "ఇమెయిల్ వాడుకరులను గుర్తించుటకు CAను నమ్మండి.">
 <!ENTITY downloadCert.trustObjSign "సాఫ్టువేరు అభివృద్దికారులను గుర్తించుటకు CAను నమ్మండి.">
 <!ENTITY downloadCert.message3 "ఏదైనా ప్రయోజనం కొరకు CAను నమ్ముటకు మునుపు , (వీలైతే) మీరు ధృవీకరణపత్రం మరియు దాని విధానాన్ని మరియు పద్దతులను పరీక్షించుట మంచిది.">
-<!ENTITY downloadCert.viewCert.label "దర్శించు">
+<!ENTITY downloadCert.viewCert.label "చూడండి">
 <!ENTITY downloadCert.viewCert.text "CA ధృవీకరణపత్రాన్ని పరీక్షించు">
 
 <!-- Strings for the SSL client auth ask dialog -->

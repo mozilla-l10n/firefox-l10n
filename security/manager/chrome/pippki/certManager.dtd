@@ -20,7 +20,7 @@
 <!ENTITY certmgr.subjectinfo.label            "వీరికి జారీఅయింది">
 <!ENTITY certmgr.issuerinfo.label             "జారీచేసినవారు">
 <!ENTITY certmgr.periodofvalidity.label       "చెల్లుబాటు కాలం" >
-<!ENTITY certmgr.fingerprints.label           "వేలుముద్రలు">
+<!ENTITY certmgr.fingerprints.label           "వేలిముద్రలు">
 <!ENTITY certmgr.certdetail.title             "ధృవీకరణపత్రం వివరాలు">
 <!ENTITY certmgr.certdetail.cn                "సామూహికమైన నామము (CN)">
 <!ENTITY certmgr.certdetail.o                 "వ్యవస్థ">
@@ -48,7 +48,7 @@
 
 <!ENTITY certmgr.close.label                  "మూయి">
 <!ENTITY certmgr.close.accesskey              "C">
-<!ENTITY certmgr.view2.label                  "దర్శనం…">
+<!ENTITY certmgr.view2.label                  "చూడండి…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "నమ్మికను సరికూర్చు…">
 <!ENTITY certmgr.edit3.accesskey              "E">
