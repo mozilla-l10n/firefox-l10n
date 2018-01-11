@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Aperir schedas in vice de fenestras">
 <!ENTITY newWindowsAsTabs.accesskey   "f">
 
-<!ENTITY newWindowsAsTabs2.label       "Aperir le ligamines como schedas in vice de nove fenestras">
-<!ENTITY newWindowsAsTabs2.accesskey   "s">
+<!ENTITY newWindowsAsTabs3.label       "Aperir le ligamines in schedas in vice de nove fenestras">
+<!ENTITY newWindowsAsTabs3.accesskey   "s">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Advertir te quando tu claude multiple schedas">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
