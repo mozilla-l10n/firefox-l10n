@@ -18,7 +18,7 @@
 <!ENTITY props.path.label                  "Bidea:">
 <!ENTITY props.secure.label                "Norentzat bidali:">
 <!ENTITY props.expires.label               "Iraungitze-data:">
-
+<!ENTITY props.container.label             "Edukiontzia:">
 
 <!ENTITY window.title                      "Cookieak">
 <!ENTITY windowClose.key                   "w">

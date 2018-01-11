@@ -25,7 +25,8 @@
 <!ENTITY attachments.incoming.label   "Sarrerakoa">
 <!ENTITY attachments.outgoing.label   "Irteerakoa">
 
-
+<!ENTITY addCloudFileAccount1.label       "Gehitu…">
+<!ENTITY addCloudFileAccount1.accesskey   "G">
 <!ENTITY addCloudFileAccount.description  "Gehitu Filelink biltegiratze-zerbitzu berri bat">
 <!ENTITY removeCloudFileAccount.label     "Kendu">
 <!ENTITY removeCloudFileAccount.accesskey "K">

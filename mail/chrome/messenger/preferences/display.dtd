@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatua ematea">
 <!ENTITY itemTags.label                   "Etiketak">
-
+<!ENTITY itemAdvanced.label               "Aurreratua">
 
 <!ENTITY style.label                      "Estiloa:">
 <!ENTITY style.accesskey                  "i">
@@ -21,21 +21,21 @@
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Testu-arrunteko mezuak">
 <!ENTITY displayText.label                "Zitatutako testu-arrunteko mezuak bistaratzean:">
+
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-
 <!ENTITY convertEmoticons.label        "Bistaratu aurpegierak eta grafikoak">
-<!ENTITY convertEmoticons.accesskey    "B">
+<!ENTITY convertEmoticons.accesskey    "a">
+
 <!-- labels -->
-
 <!ENTITY displayTagsText.label     "Mezuak sailkatu eta lehentasunak zehazteko erabil daitezke etiketak.">
-
-
-
-
+<!ENTITY newTagButton.label        "Berria…">
+<!ENTITY newTagButton.accesskey    "B">
+<!ENTITY editTagButton1.label      "Editatu…">
+<!ENTITY editTagButton1.accesskey  "E">
 <!ENTITY removeTagButton.label     "Ezabatu">
 <!ENTITY removeTagButton.accesskey "z">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Letra-tipoak eta koloreak">
 <!ENTITY defaultFont.label       "Letra-tipo lehenetsia:">
 <!ENTITY defaultFont.accesskey   "L">
@@ -45,8 +45,8 @@
 <!ENTITY fontOptions.label       "Letra-tipoak…">
 <!ENTITY colorButton.label       "Koloreak…">
 <!ENTITY colorButton.accesskey   "K">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Irakurketa">
 <!ENTITY display.caption                  "Bistaratzea">
 <!ENTITY showCondensedAddresses.label     "Erakutsi nire helbide-liburuko pertsonen bistarazte-izena bakarrik">

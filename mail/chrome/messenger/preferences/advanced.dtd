@@ -7,16 +7,16 @@
 <!ENTITY itemUpdate.label        "Eguneraketak">
 <!ENTITY itemNetworking.label    "Sarea eta diskoko lekua">
 <!ENTITY itemCertificates.label  "Ziurtagiriak">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Gaitu bilaketa orokorra eta indexatzailea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
-
+<!ENTITY dateTimeFormatting.label      "Data eta denboraren formatua">
 <!ENTITY allowHWAccel.label            "Erabili hardware azelerazioa erabilgarri dagoenean">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Mezuen biltegiratze mota kontu berrientzako:">
 <!ENTITY storeType.accesskey           "m">
-
+<!ENTITY mboxStore2.label              "Karpeta bakoitzeko fitxategi bat (mbox)">
 <!ENTITY maildirStore.label            "Fitxategia mezuko (maildir)">
 
 <!ENTITY scrolling.label               "Korritzea">
@@ -38,8 +38,8 @@
 <!ENTITY returnReceiptsInfo.label      "Zehaztu hartu-agiriak nola kudeatzen dituen &brandShortName;(e)k">
 <!ENTITY showReturnReceipts.label      "Hartu-agiriak…">
 <!ENTITY showReturnReceipts.accesskey  "r">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "Errendimendu, erabilera, hardware eta pertsonalizazio informazioa bidaltzen dio &vendorShortName;(r)i &brandShortName; hobetzen laguntzeko">
 <!ENTITY enableTelemetry.label           "Gaitu telemetria">
@@ -51,17 +51,20 @@
 <!ENTITY enableCrashReporter.label       "Gaitu hutsegiteen berriemailea">
 <!ENTITY enableCrashReporter.accesskey   "h">
 <!ENTITY crashReporterLearnMore.label    "Ikasi gehiago">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "&brandShortName; eguneraketak">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Bertsioa ">
 <!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Instalatu eguneraketak automatikoki (gomendatua: hobetutako segurtasuna)">
 <!ENTITY updateAuto.accesskey            "a">
@@ -74,8 +77,8 @@
 
 <!ENTITY useService.label                "Erabili atzeko planoko zerbitzua eguneraketak instalatzeko">
 <!ENTITY useService.accesskey            "z">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ezarpenak…">
 <!ENTITY showSettings.accesskey        "n">
 <!ENTITY proxiesConfigure.label        "Konfiguratu &brandShortName; Internetera nola konektatzen den">
@@ -89,22 +92,22 @@
 <!ENTITY offlineCompactFolders.label     "Trinkotu karpeta guztiak hau baino gehiago aurrezten denean:">
 <!ENTITY offlineCompactFolders.accesskey "k">
 <!ENTITY offlineCompactFoldersMB.label   "MB guztira">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Erabili gehienez">
 <!ENTITY useCacheBefore.accesskey        "E">
 <!ENTITY useCacheAfter.label             "MB cachearentzat">
-
-
+<!ENTITY overrideSmartCacheSize.label    "Gainidatzi automatikoki cachearen kudeaketa">
+<!ENTITY overrideSmartCacheSize.accesskey "a">
 <!ENTITY clearCacheNow.label             "Garbitu orain">
 <!ENTITY clearCacheNow.accesskey         "G">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Webgune batek nire ziurtagiri pertsonala eskatzen duenean:">
 <!ENTITY certs.auto                      "Hautatu bat automatikoki">
 <!ENTITY certs.auto.accesskey            "S">
@@ -113,6 +116,7 @@
 <!ENTITY enableOCSP.label                "Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko">
 <!ENTITY enableOCSP.accesskey            "G">
 
-
+<!ENTITY manageCertificates.label "Kudeatu ziurtagiriak">
+<!ENTITY manageCertificates.accesskey "K">
 <!ENTITY viewSecurityDevices.label "Segurtasun-gailuak">
 <!ENTITY viewSecurityDevices.accesskey "u">

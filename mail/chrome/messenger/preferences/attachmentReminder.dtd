@@ -4,9 +4,9 @@
 
 <!ENTITY attachmentReminderDialog.title   "Eranskinak gogoratzeko gako-hitzak">
 <!ENTITY attachKeywordText.label          "&brandShortName;(e)k eranskinak falta direla jakinaraziko dizu gako-hitz hauetakoren bat duen mezuren bat bidaltzear bazaude.">
-
-
-
-
+<!ENTITY newKeywordButton.label           "Berria…">
+<!ENTITY newKeywordButton.accesskey       "B">
+<!ENTITY editKeywordButton1.label         "Editatu…">
+<!ENTITY editKeywordButton1.accesskey     "E">
 <!ENTITY removeKeywordButton.label        "Ezabatu">
 <!ENTITY removeKeywordButton.accesskey    "z">

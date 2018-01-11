@@ -38,3 +38,8 @@
 <!ENTITY  noproxyExplain.label          "Adibidez: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Erabili proxy hau protokolo guztientzako">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  autologinproxy.label          "Ez eskatu autentifikaziorik pasahitza gordeta badago">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "Aukera honek proxietarako autentifikazioa isilean burutzen du hauentzat kredentzialak gorde dituzunean. Autentifikazioak huts egiten badu, eskatu egingo zaizu.">
+<!ENTITY  socksRemoteDNS.label          "Bideratu DNSa proxy bidez SOCKS v5 erabiltzean">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
