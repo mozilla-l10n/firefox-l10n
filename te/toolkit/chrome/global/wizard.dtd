@@ -6,7 +6,7 @@
 <!ENTITY  button-back-mac.accesskey    "B">
 <!ENTITY  button-next-mac.label        "కొనసాగించు">
 <!ENTITY  button-next-mac.accesskey    "C">
-<!ENTITY  button-finish-mac.label      "అయినది">
+<!ENTITY  button-finish-mac.label      "పూర్తయింది">
 <!ENTITY  button-cancel-mac.label      "రద్దుచేయి">
 
 <!ENTITY  button-back-unix.label       "వెనుక">

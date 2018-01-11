@@ -436,7 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "పొడిగింపు:">
+<!ENTITY urlbar.extension.label       "పొడిగింత:">
 <!ENTITY urlbar.switchToTab.label     "ట్యాబుకు మారు:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "మీ శోధన అనుభవాన్ని సలహాలతో మెరుగుపరచాలని అనుకుంటున్నారా?">
@@ -535,7 +535,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "ఫ్రేముని కొత్త విండోలో తెరువు">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "లింకును కొత్త కంటైనర్ ట్యాబులో తెరువు">
-<!ENTITY openLinkCmdInContainerTab.accesskey "z">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "ఈ ఫ్రేమును మాత్రమే చూపించు">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
