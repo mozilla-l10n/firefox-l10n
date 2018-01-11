@@ -960,3 +960,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Aplikazio-ikonoaren aukerak…">
+<!ENTITY writeNewMessageDock.label      "Idatzi mezu berria">
+<!ENTITY openAddressBookDock.label      "Ireki helbide-liburua">
