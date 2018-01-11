@@ -79,6 +79,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Hondatutako edukiaren errorea">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ikusi nahi duzun orria ezin da erakutsi, datuen transmisioan errore bat antzeman delako.</p><ul><li>Mesedez kontaktatu webgune jabeaz eta jakinarazi arazo hau.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Edo salbuespen bat gehi dezakezu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eraman hemendik at!">

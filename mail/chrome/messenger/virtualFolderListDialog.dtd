@@ -5,3 +5,6 @@
 <!ENTITY virtualFolderListTitle.title        "Hautatu karpeta(k)">
 <!ENTITY virtualFolderDesc.label       "Hautatu zein karpetatan bilatu:">
 
+
+<!ENTITY folderName.label "Karpeta izena">
+<!ENTITY folderSearch.label "Bilatu">
