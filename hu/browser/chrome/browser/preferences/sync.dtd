@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Jelentkezzen be ">
 <!ENTITY signedInLoginFailure.aftername.label " újracsatlakoztatásához">
 
-<!ENTITY notSignedIn.label           "Nincs bejelentkezve.">
-<!ENTITY signIn.label                "Bejelentkezés">
-<!ENTITY signIn.accesskey            "B">
-<!ENTITY profilePicture.tooltip      "Profilkép módosítása">
-<!ENTITY verifiedManage.label        "Fiók kezelése">
-<!ENTITY verifiedManage.accesskey    "F">
-<!ENTITY disconnect3.label           "A kapcsolat bontása…">
-<!ENTITY disconnect3.accesskey       "t">
+<!ENTITY notSignedIn.label            "Nincs bejelentkezve.">
+<!ENTITY signIn.label                 "Bejelentkezés">
+<!ENTITY signIn.accesskey             "B">
+<!ENTITY profilePicture.tooltip       "Profilkép módosítása">
+<!ENTITY verifiedManage.label         "Fiók kezelése">
+<!ENTITY verifiedManage.accesskey     "F">
+<!ENTITY disconnect3.label            "A kapcsolat bontása…">
+<!ENTITY disconnect3.accesskey        "t">
 <!ENTITY verify.label                "E-mail ellenőrzése">
 <!ENTITY verify.accesskey            "e">
 <!ENTITY forget.label                "E-mail elfelejtése">
 <!ENTITY forget.accesskey            "l">
+
+<!ENTITY resendVerification.label     "Ellenőrző e-mail újraküldése">
+<!ENTITY resendVerification.accesskey "k">
+<!ENTITY cancelSetup.label            "Beállítás megszakítása">
+<!ENTITY cancelSetup.accesskey        "m">
 
 <!ENTITY signedOut.caption            "Vigye magával a webet">
 <!ENTITY signedOut.description        "Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.">

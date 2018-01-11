@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Új ablakok megnyitása új lapokon">
 <!ENTITY newWindowsAsTabs.accesskey   "a">
 
+<!ENTITY newWindowsAsTabs3.label       "Hivatkozások megnyitása új lapon, az új ablak helyett">
+<!ENTITY newWindowsAsTabs3.accesskey   "l">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Figyelmeztetés több lap bezárása előtt">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "t">
 
