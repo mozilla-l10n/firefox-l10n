@@ -3,7 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "Tze'n ruwa">
+<!ENTITY insertSmiley.accesskey "T">
 
+<!ENTITY smiley1Cmd.label "Tze'enïk">
+<!ENTITY smiley1Cmd.accesskey "S">
 <!ENTITY smiley3Cmd.label "Rek'wach">
 <!ENTITY smiley3Cmd.accesskey "R">
 <!ENTITY smiley3Cmd.tooltip "Tich'ik jun rek'wach wachaj">
