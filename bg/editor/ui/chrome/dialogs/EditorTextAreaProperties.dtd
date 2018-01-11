@@ -12,7 +12,7 @@
 <!ENTITY TextAreaRows.accessKey "Р">
 <!ENTITY TextAreaCols.label "Колони:">
 <!ENTITY TextAreaCols.accessKey "К">
-<!ENTITY TextAreaReadOnly.label "Само-за-четене">
+<!ENTITY TextAreaReadOnly.label "Само за четене">
 <!ENTITY TextAreaReadOnly.accessKey "ч">
 <!ENTITY TextAreaDisabled.label "Неактивен">
 <!ENTITY TextAreaDisabled.accessKey "Н">

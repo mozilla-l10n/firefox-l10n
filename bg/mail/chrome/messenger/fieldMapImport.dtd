@@ -10,7 +10,7 @@
 <!ENTITY fieldMapImport.previous.label "Назад">
 <!ENTITY fieldMapImport.previous.accesskey "з">
 <!ENTITY fieldMapImport.text "Използвайте Премества нагоре и Премества надолу, за да нагласите полетата на адресника отляво да съвпадат с правилните данни за внасяне отдясно. Премахнете отметките пред елементите, които не искате да бъдат внесени.">
-<!ENTITY fieldMapImport.up.label "Премества нагоре">
+<!ENTITY fieldMapImport.up.label "Преместване нагоре">
 <!ENTITY fieldMapImport.up.accesskey "г">
 <!ENTITY fieldMapImport.down.label "Премества надолу">
 <!ENTITY fieldMapImport.down.accesskey "д">

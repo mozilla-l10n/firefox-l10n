@@ -17,6 +17,6 @@
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Въведете адреси, които да бъдат добавени към списъка:">
 <!ENTITY AddressTitle.accesskey         "а">
-<!ENTITY UpButton.label                 "Премества нагоре">
+<!ENTITY UpButton.label                 "Преместване нагоре">
 <!ENTITY DownButton.label               "Премества надолу">
 

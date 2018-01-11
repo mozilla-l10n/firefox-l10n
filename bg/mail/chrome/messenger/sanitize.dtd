@@ -11,7 +11,7 @@
 <!ENTITY clearTimeDuration.accesskey      "о">
 <!ENTITY clearTimeDuration.lastHour       "Последния час">
 <!ENTITY clearTimeDuration.last2Hours     "Последните 2 часа">
-<!ENTITY clearTimeDuration.last4Hours     "Последните 4 часа">
+<!ENTITY clearTimeDuration.last4Hours     "Последните четири часа">
 <!ENTITY clearTimeDuration.today          "Днес">
 <!ENTITY clearTimeDuration.everything     "Всичко">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages

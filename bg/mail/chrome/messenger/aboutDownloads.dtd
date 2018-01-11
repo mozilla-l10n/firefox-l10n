@@ -15,7 +15,7 @@
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Отваряне">
 <!ENTITY cmd.open.accesskey                        "О">
-<!ENTITY cmd.removeFromHistory.label               "Премахване от историята">
+<!ENTITY cmd.removeFromHistory.label               "Премахване от списъка">
 <!ENTITY cmd.removeFromHistory.accesskey           "х">
 <!ENTITY cmd.clearList.label                       "Изчистване">
 <!ENTITY cmd.clearList.accesskey                   "ч">

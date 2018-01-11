@@ -111,7 +111,7 @@
 <!ENTITY menuFavoriteFolder.label "Любима папка">
 <!ENTITY menuFavoriteFolder.accesskey "ю">
 <!ENTITY folderPropsCmd2.label "Свойства">
-<!ENTITY folderPropsFolderCmd2.label "Свойства на папка">
+<!ENTITY folderPropsFolderCmd2.label "Свойства на папката">
 <!ENTITY folderPropsNewsgroupCmd2.label "Свойства за дискусионна група">
 <!ENTITY folderPropsCmd.accesskey "о">
 <!ENTITY undoDeleteMsgCmd.label "Отмяна Изтриване на писмо">
@@ -254,7 +254,7 @@
 <!ENTITY viewFeedWebPage.label "Уеб страница">
 <!ENTITY viewFeedWebPage.accesskey "У">
 <!ENTITY viewFeedSummary.label "Обобщение">
-<!ENTITY viewFeedSummary.accesskey "з">
+<!ENTITY viewFeedSummary.accesskey "б">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Стандартен формат">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "С">
 

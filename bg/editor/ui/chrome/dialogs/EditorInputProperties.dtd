@@ -31,7 +31,7 @@
 <!ENTITY InputChecked.accesskey "о">
 <!ENTITY InputSelected.label "Първоначално избрано">
 <!ENTITY InputSelected.accesskey "б">
-<!ENTITY InputReadOnly.label "Само-за-четене">
+<!ENTITY InputReadOnly.label "Само за четене">
 <!ENTITY InputReadOnly.accesskey "ч">
 <!ENTITY InputDisabled.label "Неактивен">
 <!ENTITY InputDisabled.accesskey "Н">
