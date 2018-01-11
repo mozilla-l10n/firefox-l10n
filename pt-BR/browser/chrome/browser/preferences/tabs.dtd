@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Em vez de abrir novas janelas, abrir novas abas">
 <!ENTITY newWindowsAsTabs.accesskey   "j">
 
-<!ENTITY newWindowsAsTabs2.label       "Abrir links como abas em vez de novas janelas">
-<!ENTITY newWindowsAsTabs2.accesskey   "j">
+<!ENTITY newWindowsAsTabs3.label       "Abrir links em abas em vez de novas janelas">
+<!ENTITY newWindowsAsTabs3.accesskey   "j">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Avisar quando fechar múltiplas abas">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
