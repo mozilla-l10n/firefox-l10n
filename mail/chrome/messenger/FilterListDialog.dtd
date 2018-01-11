@@ -16,7 +16,7 @@
 <!ENTITY reorderTopButton "Преместване в началото">
 <!ENTITY reorderTopButton.accessKey "ч">
 <!ENTITY reorderTopButton.toolTip "Пренареждане на филтъра така, че да бъде изпълнен първи">
-<!ENTITY reorderUpButton.label "Премества нагоре">
+<!ENTITY reorderUpButton.label "Преместване нагоре">
 <!ENTITY reorderUpButton.accesskey "г">
 <!ENTITY reorderDownButton.label "Премества надолу">
 <!ENTITY reorderDownButton.accesskey "д">

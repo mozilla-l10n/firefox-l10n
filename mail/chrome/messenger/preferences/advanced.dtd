@@ -12,7 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Разрешаване на глобално търсене и индексиране">
 <!ENTITY enableGlodaSearch.accesskey   "Р">
 <!ENTITY dateTimeFormatting.label      "Формат на датата и часа">
-<!ENTITY allowHWAccel.label            "Използване на хардуерно ускоряване, когато е налично">
+<!ENTITY allowHWAccel.label            "Използване на хардуерно ускоряване, ако е налично">
 <!ENTITY allowHWAccel.accesskey        "х">
 <!ENTITY storeType.label               "Вид на съхранение на писмата за нови регистрации:">
 <!ENTITY storeType.accesskey           "В">
@@ -109,7 +109,7 @@
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Когато сървъра поиска личния ми сертификат:">
-<!ENTITY certs.auto                      "Автоматичен избор">
+<!ENTITY certs.auto                      "Автоматично избиране на някой">
 <!ENTITY certs.auto.accesskey            "ч">
 <!ENTITY certs.ask                       "Запитване всеки път">
 <!ENTITY certs.ask.accesskey             "З">

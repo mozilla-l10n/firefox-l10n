@@ -28,7 +28,7 @@
 <!ENTITY account.delete.accesskey     "И">
 <!ENTITY account.edit.label           "Свойства">
 <!ENTITY account.edit.accesskey       "С">
-<!ENTITY account.moveup.label         "Преместване на&amp;горе">
+<!ENTITY account.moveup.label         "Преместване нагоре">
 <!ENTITY account.movedown.label       "Преместване на&amp;долу">
 <!ENTITY account.cancelReconnection.label         "Прекъсване на повторното свързване">
 <!ENTITY account.cancelReconnection.accesskey     "П">

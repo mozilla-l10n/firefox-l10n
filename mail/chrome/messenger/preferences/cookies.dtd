@@ -17,7 +17,7 @@
 <!ENTITY props.domain.label                "Хост:">
 <!ENTITY props.path.label                  "Път:">
 <!ENTITY props.secure.label                "Изпратена за:">
-<!ENTITY props.expires.label               "Изтича:">
+<!ENTITY props.expires.label               "Валидност до:">
 <!ENTITY props.container.label             "Контейнер:">
 
 <!ENTITY window.title                      "Бисквитки">

@@ -27,7 +27,7 @@
 <!ENTITY OptionText.accesskey "Т">
 <!ENTITY OptionValue.label "Стойност:">
 <!ENTITY OptionValue.accesskey "С">
-<!ENTITY OptionSelected.label "Първоначално избран">
+<!ENTITY OptionSelected.label "Първоначално избрано">
 <!ENTITY OptionSelected.accesskey "б">
 <!ENTITY OptionDisabled.label "Неактивен">
 <!ENTITY OptionDisabled.accesskey "Н">
@@ -42,7 +42,7 @@
 <!ENTITY AddOptGroup.accesskey "г">
 <!ENTITY RemoveElement.label "Премахване">
 <!ENTITY RemoveElement.accesskey "х">
-<!ENTITY MoveElementUp.label "Премества нагоре">
+<!ENTITY MoveElementUp.label "Преместване нагоре">
 <!ENTITY MoveElementUp.accesskey "г">
 <!ENTITY MoveElementDown.label "Премества надолу">
 <!ENTITY MoveElementDown.accesskey "д">
