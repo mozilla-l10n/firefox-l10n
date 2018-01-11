@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Отваряне на новите прозорци в раздел">
 <!ENTITY newWindowsAsTabs.accesskey   "д">
 
-<!ENTITY newWindowsAsTabs2.label       "Отваряне на препратките в раздели вместо в нови прозорци">
-<!ENTITY newWindowsAsTabs2.accesskey   "п">
+<!ENTITY newWindowsAsTabs3.label       "Отваряне на препратките в раздели вместо в нови прозорци">
+<!ENTITY newWindowsAsTabs3.accesskey   "р">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Предупреждаване при затваряне на няколко раздела">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "п">
