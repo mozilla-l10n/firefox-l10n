@@ -43,6 +43,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "ডেভেলোপার টুল সম্পর্কে আরও জানুন">
 
 <!ENTITY  aboutDevtools.enable.enableButton "ডেভেলপার টুল সক্রিয় করুন">
 <!ENTITY  aboutDevtools.enable.closeButton "পাতাটি বন্ধ করুন">
