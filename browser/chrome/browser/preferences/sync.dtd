@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "请登录以重新连接">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "您尚未登录。">
-<!ENTITY signIn.label                "登录">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "更改头像">
-<!ENTITY verifiedManage.label        "管理账户">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "断开连接…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "您尚未登录。">
+<!ENTITY signIn.label                 "登录">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "更改头像">
+<!ENTITY verifiedManage.label         "管理账户">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "断开连接…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "验证邮箱">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "忘记此邮箱">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.label     "重发验证邮件">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "取消设置">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "让您个性化的网络体验随身相伴">
 <!ENTITY signedOut.description        "在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与首选项。">
