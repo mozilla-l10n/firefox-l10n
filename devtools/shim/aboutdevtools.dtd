@@ -77,7 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "თუ ჯერ არ დაგიმოწმებიათ Mozilla-ს საინფორმაციო ცნობების გამოწერა, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების, ან სპამის საქაღალდეში.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
-<!ENTITY  aboutDevtools.footer.message "გსურთ მეტი, ვიდრე შემმუშავებლის ხელსაწყოებია? იხილეთ Firefox ბრაუზერი, შექმნილი საგანგებოდ შემმუშავებლებისთვის და განკუთვნილი, თანამედროვე სამუშაო პროცესებისთვის.">
+<!ENTITY  aboutDevtools.footer.message "გსურთ მეტი, ვიდრე შემმუშავებლის ხელსაწყოებია? იხილეთ Firefox ბრაუზერი, შექმნილი საგანგებოდ შემმუშავებლებისთვის და განკუთვნილი, თანამედროვე სამუშაო პირობებისთვის.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
