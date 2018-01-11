@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Nowe wokna w nowem rejtarku wócyniś">
 <!ENTITY newWindowsAsTabs.accesskey   "N">
 
-<!ENTITY newWindowsAsTabs2.label       "Wótkaze ako rejtarki město nowych woknow wócyniś">
-<!ENTITY newWindowsAsTabs2.accesskey   "r">
+<!ENTITY newWindowsAsTabs3.label       "Wótkaze w rejtarkach město nowych woknow wócyniś">
+<!ENTITY newWindowsAsTabs3.accesskey   "r">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Warnowaś, gaž někotare rejtarki se zacynjaju">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "W">
