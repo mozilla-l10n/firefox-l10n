@@ -6,3 +6,5 @@
 <!ENTITY virtualFolderDesc.label       "Виберіть теки, в яких буде проводиться пошук:">
 
 
+<!ENTITY folderName.label "Назва теки">
+<!ENTITY folderSearch.label "Пошук">
