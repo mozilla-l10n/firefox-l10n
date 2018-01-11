@@ -8,6 +8,7 @@
 
 <!ENTITY smiley1Cmd.label "Tze'enïk">
 <!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "Tinim jun tze'n ruwäch">
 <!ENTITY smiley3Cmd.label "Rek'wach">
 <!ENTITY smiley3Cmd.accesskey "R">
 <!ENTITY smiley3Cmd.tooltip "Tich'ik jun rek'wach wachaj">
