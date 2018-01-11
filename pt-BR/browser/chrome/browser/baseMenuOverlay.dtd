@@ -45,7 +45,7 @@
 
 <!ENTITY servicesMenuMac.label          "Serviços">
 
-<!ENTITY hideThisAppCmdMac2.label       "Ocultar &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.label       "Ocultar o &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ocultar Outros">

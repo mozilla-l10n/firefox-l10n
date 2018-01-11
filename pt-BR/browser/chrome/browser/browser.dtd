@@ -98,8 +98,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir aba">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
-<!ENTITY pageSourceCmd.label "Page Source">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.label "Código fonte da página">
+<!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
