@@ -600,9 +600,11 @@
 <!ENTITY home_most_recent_empty "Ang mga website na iyong binisita pinaka-kamakailang lumabas dito.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: gamit ang isang &formatS1;Bagong Pribadong Tab &formatS2; hindi mai-save ang iyong kasaysayan.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Walang nilalaman na maaaring matagpuan para sa panel na ito.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
@@ -654,6 +656,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "Itong ay ligtas &brandShortName; na pahina">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; Na-block ang hindi secure na nilalaman sa pahinang ito.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; Na-block ang ilan sa mga hindi secure na nilalaman sa pahinang ito.">
 <!ENTITY mixed_content_display_loaded1 "Parte ng pahinang ito ay walang sekyuridad(kagaya ng mga imahe).">
 <!ENTITY mixed_content_protection_disabled1 "Pinigilan mo ang proteksyon mula sa hindi secure na nilalaman.">
 
@@ -673,6 +677,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Ang ilang pribadong data ay hindi ma-clear">
 
 <!ENTITY bookmarkhistory_button_import "I-import">
+<!ENTITY bookmarkhistory_import_both "Pag-import ng mga bookmark at kasaysayan
+                                      mula sa Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Pag-i-import ng mga bookmark
+                                           mula sa Android">
+<!ENTITY bookmarkhistory_import_history "Pag-import ng kasaysayan
+                                         mula sa Android">
 <!ENTITY bookmarkhistory_import_wait "Pakiusap maghintay...">
 
 <!ENTITY suggestions_prompt3 "Gusto mo bang i-on ang mga suhestiyon sa paghahanap?">
@@ -687,28 +697,36 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Hanapin &formatS1; para sa &formatS2;">
 
 <!ENTITY searchable_description "Mga bookmark at kasaysayan">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "I-update ang magagamit para sa &brandShortName;">
 <!ENTITY updater_start_select2 "Pindutin upang i-download">
 
+<!ENTITY updater_downloading_title2 "Downloading &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Nabigo ang pag-download">
 <!ENTITY updater_downloading_select2 "Pindutin upang ilapat ang pag-update sa sandaling nai-download">
 <!ENTITY updater_downloading_retry2 "Pindutin upang muling subukan">
 
+<!ENTITY updater_apply_title3 "I-update ang nai-download para sa &brandShortName;">
 <!ENTITY updater_apply_select3 "Pindutin upang i-install">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Upang mag-download ng mga file at mga update, payagan ang &brandShortName; pahintulot upang ma-access ang imbakan.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Hayaan">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Bagong Guest Session">
+<!ENTITY exit_guest_session "Lumabas sa Guest Session">
 <!ENTITY guest_session_dialog_continue "Magpatuloy">
 <!ENTITY guest_session_dialog_cancel "Kanselahin">
+<!ENTITY new_guest_session_title "&brandShortName; ay muling simulan">
+<!ENTITY new_guest_session_text2 "Ang taong gumagamit nito ay hindi makakakita ng alinman sa iyong personal na data ng pagba-browse (tulad ng mga nai-save na pag-login, kasaysayan o mga bookmark).\n\nKapag ang iyong bisita ay tapos na, ang kanilang data sa pagba-browse ay matatanggal at ang iyong session ay ibabalik.">
 <!ENTITY guest_browsing_notification_title "Pinagana ang pagba-browse ng bisita">
 <!ENTITY guest_browsing_notification_text "Tapikin upang lumabas">
 
@@ -745,6 +763,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Magbubukas ang link na ito sa &formatS;. Sigurado ka bang gusto mong lumabas sa Pribadong Pagba-browse?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -793,11 +812,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Paumanhin! Ito &brandShortName; ay hindi gagana sa aparatong ito (&formatS1;, &formatS2;). Mangyaring i-download ang tamang bersyon.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; ay hindi na i-update">
 <!ENTITY eol_notification_summary "I-tap para matuto ng higit pa">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; napapanahon">
 <!ENTITY whatsnew_notification_summary "Alamin kung ano ang bago sa bersyong ito">
 
 <!ENTITY promotion_add_to_homescreen "Idagdag sa home screen">
@@ -808,31 +830,48 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "Hanapin ang iyong Reader Tingnan ang mga item sa Mga Bookmark, kahit offline.">
 <!ENTITY helper_first_offline_bookmark_button "Pumunta sa Mga Bookmark">
 
+<!ENTITY helper_triple_readerview_open_title "Magagamit nang offline">
+<!ENTITY helper_triple_readerview_open_message "Bookmark Reader Tingnan ang mga item upang mabasa ang mga ito nang offline.">
+<!ENTITY helper_triple_readerview_open_button "Dagdagan ang mga Bookmark">
 
 <!ENTITY activity_stream_topsites "Nangungunang Mga Site">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Inirerekomenda ng &brandPocket;">
+<!ENTITY activity_stream_highlights "Mga highlight">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 <!ENTITY activity_stream_link_more1 "MORE">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "Bookmarked">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Binisita">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Trending">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Magsimulang mag-browse, at ipapakita namin ang ilan sa mga magagandang artikulo, video, at iba pang mga pahina na kamakailan mong binisita o na-bookmark dito.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "I-remove">
 <!ENTITY activity_stream_delete_history "Inalis sa History">
 
+<!ENTITY private_tab_panel_title "Pribadong Pagba-browse + Proteksyon sa Pagsubaybay">
+<!ENTITY private_tab_panel_description "&brandShortName; bloke ang mga bahagi ng mga pahina na maaaring subaybayan ang iyong aktibidad sa pagba-browse.">
+<!ENTITY private_tab_panel_description2 "Hindi namin matandaan ang anumang kasaysayan, ngunit ang mga na-download na file at mga bagong bookmark ay i-save pa rin sa iyong device.">
+<!ENTITY private_tab_learn_more "Gusto mo matuto ng higit pa?">
 
+<!ENTITY fullscreen_warning "Ipinasok ang buong screen">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Idagdag sa Home Screen">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Idagdag sa Home Screen">
+<!ENTITY pwa_continue_to_website "Magpatuloy sa Website">
+<!ENTITY pwa_onboarding_sumo "Madali mong maidagdag ang website na ito sa iyong Home screen upang magkaroon ng agarang pag-access at mas mabilis na mag-browse gamit ang isang karanasan na tulad ng app.">
