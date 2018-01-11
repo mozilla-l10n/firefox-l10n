@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Öppna nytt fönster i en ny flik istället">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY newWindowsAsTabs2.label       "Öppna länkar som flikar istället för nya fönster">
-<!ENTITY newWindowsAsTabs2.accesskey   "f">
+<!ENTITY newWindowsAsTabs3.label       "Öppna länkar i flikar istället för nya fönster">
+<!ENTITY newWindowsAsTabs3.accesskey   "f">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Varna när jag stänger flera flikar">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "f">
