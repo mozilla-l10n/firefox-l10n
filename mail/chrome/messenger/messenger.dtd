@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "編輯草稿">
 <!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY editTemplateMsgCmd.label "編輯範本">
+<!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "使用範本撰寫新訊息">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "依郵件建立篩選條件…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "作為新訊息編輯">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "編輯草稿">
+<!ENTITY contextEditTemplate.label "編輯範本">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "備存">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "只回覆給寄件者">
