@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Tarte bakarrekoa:">
 <!ENTITY  monospace.accesskey                     "T">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latina">
 <!ENTITY  font.langGroup.japanese                 "Japoniarra">
 <!ENTITY  font.langGroup.trad-chinese             "Txinatar arrunta (Taiwan)">
@@ -46,8 +46,8 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhiera">
 <!ENTITY  font.langGroup.khmer                    "Khmerera">
 <!ENTITY  font.langGroup.malayalam                "Malayalera">
-
-
+<!ENTITY  font.langGroup.math                     "Matematikak">
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -56,19 +56,19 @@
 <!ENTITY minSize.label                            "Gutxieneko letra-tamaina:">
 <!ENTITY minSize.accesskey                        "x">
 <!ENTITY minSize.none                             "Bat ere ez">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Letra-tipoaren kontrola">
 <!ENTITY  useFixedWidthForPlainText.label         "Erabili zabalera finkoko letra-tipoa testu-arrunteko mezuentzat">
 <!ENTITY  fixedWidth.accesskey                    "f">
 <!ENTITY  useDocumentFonts.label                  "Baimendu mezuak beste letra-tipo batzuk erabiltzea">
 <!ENTITY  useDocumentFonts.accesskey              "o">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Irteerako posta:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
 <!ENTITY languagesTitle2.label            "Testuaren kodeketa">

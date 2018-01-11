@@ -16,12 +16,12 @@
 
 <!ENTITY newMessagesArrive.label          "Mezu berri bat iristerakoan:">
 <!ENTITY playSound.label                  "Erreproduzitu soinua">
-<!ENTITY playSound1.accesskey             "d">
-
-
+<!ENTITY playSound1.accesskey             "E">
+<!ENTITY playSoundMac.label               "Erabili hurrengo soinu-fitxategia:">
+<!ENTITY playSoundMac.accesskey           "E">
 <!ENTITY showAnimatedAlert.label          "Erakutsi abisua">
 <!ENTITY showAnimatedAlert.accesskey      "s">
-
+<!ENTITY notificationAlertSettings2.label "Alertak eta soinu lehenetsiak desgaitu dezakezu jakinarazpen paneleko sistemaren hobespenetan.">
 <!ENTITY customizeMailAlert.label         "Pertsonalizatu…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
