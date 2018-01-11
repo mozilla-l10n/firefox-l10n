@@ -184,9 +184,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY mobileBookmarksCmd.label "Marcapaginas del mobile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 <!ENTITY showRecentlyBookmarked.label     "Afichar los Marcats recentament">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY showRecentlyBookmarked.accesskey "s">
 <!ENTITY hideRecentlyBookmarked.label     "Amagar los Marcats recentament">
-<!ENTITY hideRecentlyBookmarked.accesskey "g">
+<!ENTITY hideRecentlyBookmarked.accesskey "m">
 
 <!ENTITY backCmd.label                "Pagina precedenta">
 <!ENTITY backCmd.accesskey            "P">
@@ -978,7 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.label "Telecargar la mesa a jorn">
 <!ENTITY updateAvailable.acceptButton.accesskey "M">
 <!ENTITY updateAvailable.cancelButton.label "Pas ara">
-<!ENTITY updateAvailable.cancelButton.accesskey "A">
+<!ENTITY updateAvailable.cancelButton.accesskey "a">
 <!ENTITY updateAvailable.panelUI.label "Telecargar la mesa a jorn de &brandShorterName;">
 
 <!ENTITY updateManual.message "Telecargatz una còpia novèla de &brandShorterName; e poirem vos guidar per l’installar.">

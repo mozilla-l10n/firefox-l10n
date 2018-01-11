@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Dobrir las fenèstras novèlas puslèu dins un onglet novèl">
 <!ENTITY newWindowsAsTabs.accesskey   "g">
 
-<!ENTITY newWindowsAsTabs2.label       "Dobrir los ligams dins d’onglets non pas de fenèstras">
-<!ENTITY newWindowsAsTabs2.accesskey   "o">
+<!ENTITY newWindowsAsTabs3.label       "Dobrir los ligams dins d’onglets al lòc de fenèstras">
+<!ENTITY newWindowsAsTabs3.accesskey   "f">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Vos avisar en tampar d'onglets multiples">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
