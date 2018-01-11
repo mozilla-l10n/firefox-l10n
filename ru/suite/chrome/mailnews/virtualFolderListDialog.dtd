@@ -2,9 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY server.label "Учётная запись:">
-<!ENTITY server.accesskey "У">
+<!ENTITY server.label "Учётная запись: ">
+<!ENTITY server.accesskey "ч">
+
 <!ENTITY virtualFolderListTitle.title        "Выберите папку(и)">
 <!ENTITY virtualFolderDesc.label       "Выберите папки, в которых будет производиться поиск:">
 
 
+<!ENTITY folderName.label "Имя папки">
+<!ENTITY folderSearch.label "Поиск">
