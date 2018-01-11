@@ -14,7 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Recèrca de las mesas a jorn">
 <!ENTITY update.checkForUpdatesButton.accesskey   "R">
-<!ENTITY update.updateButton.label3               "Tornar aviar per metre a jorn &brandShorterName;">
+<!ENTITY update.updateButton.label3               "Reaviar per metre a jorn &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 

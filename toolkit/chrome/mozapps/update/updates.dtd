@@ -43,12 +43,14 @@
 <!ENTITY  genericBackgroundError.label    "&brandShortName; capita pas de determinar se una mesa a jorn es disponibla. Asseguratz-vos que dispausatz de la darrièra version de &brandShortName; a :">
 
 <!ENTITY  finishedPage.title              "Mesa a jorn prèsta a s'installar">
-<!ENTITY  finishedPage.text               "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">
+<!ENTITY  finishedPage.text               "La mesa a jorn s'installarà quand aviarètz de nòu &brandShortName;. 
+                                           Podètz reaviar &brandShortName; ara o contunhar de trabalhar e reaviar mai tard.">
 
 <!ENTITY  finishedBackgroundPage.text     "S'es telecargada una mesa a jorn de seguretat e d'estabilitat per &brandShortName;. Es prèsta a èsser installada.">
 <!ENTITY  finishedBackground.name         "Mesa a jorn :">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">
+<!ENTITY  finishedBackground.more         "La mesa a jorn s'installarà quand aviarètz de nòu &brandShortName;.
+                                           Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e reaviar mai tard.">
 <!ENTITY  finishedBackground.moreElevated "Aquesta mesa a jorn fa mestièr dels privilègis administrator. La mesa a jorn
                                            serà installada a l'aviada venenta de &brandShortName;.
 Podètz tornar aviar &brandShortName; ara o contunhar vòstre trabalh e

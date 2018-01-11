@@ -991,12 +991,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Telecargatz una còpia novèla de &brandShorterName;">
 
 <!ENTITY updateRestart.message2 "Aprèp una pichoneta reaviada, &brandShorterName; restablirà totes vòstres onglets dobèrts que son pas en navigacion privada.">
-<!ENTITY updateRestart.header.message2 "Tornatz aviar per metre a jorn &brandShorterName;.">
+<!ENTITY updateRestart.header.message2 "Reaviatz per metre a jorn &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reaviar e restablir">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Pas ara">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "Tornar aviar per metre a jorn &brandShorterName;">
+<!ENTITY updateRestart.panelUI.label2 "Reaviar per metre a jorn &brandShorterName;">
 
 <!ENTITY newTabControlled.message "Una extension a cambiat la pagina que se fa veire quand dobrissètz un onglet novèl. Podètz restablir vòstres paramètres s’aquò vos agrada pas.">
 <!ENTITY newTabControlled.header.message "La pagina Onglet novèls es estada cambiada.">

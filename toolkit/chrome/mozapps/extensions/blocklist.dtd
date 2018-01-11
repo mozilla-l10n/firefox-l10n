@@ -10,7 +10,7 @@
 <!ENTITY blocklist.softandhard       "Los moduls complementaris presentan un grand risc d'instabilitat e de seguretat e son estats blocats. Los autres son mens riscats mas es fòrtament recomandat de los desactivar e de reaviar.">
 <!ENTITY blocklist.moreinfo          "Mai d'entresenhas">
 
-<!ENTITY blocklist.accept.label      "Tornar aviar &brandShortName;">
+<!ENTITY blocklist.accept.label      "Reaviar &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "T">
 
 <!ENTITY blocklist.blocked.label     "Blocat">
