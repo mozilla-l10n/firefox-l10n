@@ -116,20 +116,31 @@
 <!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "t">
 <!ENTITY moveAttachmentDownPanelBtn.label "Eraman beherantz">
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "b">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Mugitu beheraino">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "B">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Ordena aukera: A - Z">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
      the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "O">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Ordena aukera: Z - A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "O">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ordenatu: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ordenatu: Z - A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordena aukera: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordena aukera: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ikusi">
@@ -186,6 +197,8 @@
 <!ENTITY bothFormatCmd.accesskey "a">
 <!ENTITY priorityMenu.label "Lehentasuna">
 <!ENTITY priorityMenu.accesskey "L">
+<!ENTITY priorityButton.title "Lehentasuna">
+<!ENTITY priorityButton.tooltiptext "Aldatu mezu lehentasuna">
 <!ENTITY priorityButton.label "Lehentasuna:">
 <!ENTITY lowestPriorityCmd.label "Baxuena">
 <!ENTITY lowestPriorityCmd.accesskey "B">
@@ -309,6 +322,8 @@
 <!ENTITY removeAttachment.accesskey "K">
 <!ENTITY renameAttachment.label "Berrizendatu…">
 <!ENTITY renameAttachment.accesskey "r">
+<!ENTITY reorderAttachments.label "Berrordenatu eranskinak…">
+<!ENTITY reorderAttachments.accesskey "d">
 <!ENTITY selectAll.label "Hautatu dena">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Erantsi fitxategia(k)…">
@@ -332,5 +347,9 @@
 <!ENTITY addressesSidebarTitle.label "Kontaktuak">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Helbidetik pertsonalizatu…">
+<!ENTITY customizeFromAddress.accesskey "H">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Ortografia egiaztatzeko hizkuntza">
+<!ENTITY encodingStatusPanel.tooltip "Testuaren kodeketa">
