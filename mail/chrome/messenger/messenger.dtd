@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Редактиране на чернова на съобщение">
 <!ENTITY editDraftMsgCmd.accesskey "ч">
+<!ENTITY editTemplateMsgCmd.label "Промяна на шаблон">
+<!ENTITY editTemplateMsgCmd.accesskey "ш">
 <!ENTITY newMsgFromTemplateCmd.label "Съобщение от шаблон">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Създаване на филтър от писмо…">
@@ -505,6 +507,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Дебъгер за добавки">
 <!ENTITY addonDebugCmd.accesskey "д">
+<!ENTITY debugAddonsCmd.label "Дебъгване на добавки">
+<!ENTITY debugAddonsCmd.accesskey "д">
 <!ENTITY tabsDebugCmd.label "Дебъгер на съдържащата рамка">
 <!ENTITY tabsDebugCmd.accesskey "с">
 <!ENTITY errorConsoleCmd.label "Конзола за грешки">
@@ -753,6 +757,8 @@
 <!ENTITY contextEditMsgAsNew.label "Редактиране като ново съобщение">
 <!ENTITY contextEditMsgAsNew.accesskey "Р">
 <!ENTITY contextEditDraftMsg.label "Редактиране на чернова на съобщение">
+<!ENTITY contextEditTemplate.label "Промяна на шаблон">
+<!ENTITY contextEditTemplate.accesskey "ш">
 <!ENTITY contextArchive.label "Архивиране">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Отговор само до подателя">
