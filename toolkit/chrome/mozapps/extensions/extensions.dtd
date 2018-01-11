@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Əlavə idarəçisi">
 
 <!ENTITY search.placeholder                   "Bütün əlavələrdə axtar">
+
+<!ENTITY search.placeholder2                  "addons.mozilla.org saytında axtar">
 <!ENTITY search.buttonlabel                   "Axtar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -25,6 +27,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Əvvəlki səhifəyə qayıt">
 <!ENTITY cmd.forward.tooltip                  "Sonrakı səhifəyə keç">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Bəzi uzantılar təsdiqlənə bilmirlər">
 <!ENTITY showAllExtensions.button.label       "Bütün uzantıları göstər">
@@ -255,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "Nəsə çatışmır? Bəzi qoşmalar artıq &brandShortName; tərəfindən dəstəklənmir.">
 <!ENTITY pluginDeprecation.learnMore "Ətraflı Öyrən.">
 
-<!ENTITY legacyWarning.description "Nəsə çatışmır? Bəzi qoşmalar artıq &brandShortName; tərəfindən dəstəklənmir.">
 <!ENTITY legacyWarning.showLegacy "Köhnəlmiş qoşmaları göstər">
 <!ENTITY legacyExtensions.title "Köhnəlmiş Qoşmalar">
 <!ENTITY legacyExtensions.description "Bu qoşmalar hazırki &brandShortName; standartlarına cavab vermirlər və bu səbəbdən söndürüldülər.">
