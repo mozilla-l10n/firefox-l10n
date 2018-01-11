@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Használja a címsávot a kereséshez és a navigációhoz">
 <!ENTITY searchBar.shown.label                 "Keresősáv hozzáadása az eszköztárhoz">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Keresési javaslatok megjelenítése a böngészési előzmények előtt a címsor találatai között">
+
 <!ENTITY defaultSearchEngine.label             "Alapértelmezett keresőszolgáltatás">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Válassza ki a címsávban és a keresősávban alapértelmezetten használandó keresőszolgáltatást.">
