@@ -72,7 +72,7 @@
 <!ENTITY updates.updating.label               "Mesa a jorn dels moduls">
 <!ENTITY updates.installed.label              "Vòstres moduls son estats meses a jorn.">
 <!ENTITY updates.downloaded.label             "Las mesas a jorn de vòstres moduls son estats telecargadas.">
-<!ENTITY updates.restart.label                "Tornatz aviar per acabar l'installacion.">
+<!ENTITY updates.restart.label                "Reaviatz per acabar l'installacion.">
 <!ENTITY updates.noneFound.label              "Cap de mesa a jorn pas trobada">
 <!ENTITY updates.manualUpdatesFound.label     "Afichar las mesas a jorn disponiblas">
 <!ENTITY updates.updateSelected.label         "Installar las mesas a jorn">

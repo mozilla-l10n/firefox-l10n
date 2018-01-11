@@ -9,5 +9,5 @@
 <!ENTITY later           "Podètz tornar sus vòstra decision a tot moment en anant dins lo gestionari de moduls complementaris.">
 <!ENTITY continue        "Contunhar">
 <!ENTITY restartMessage  "Vos cal reaviar &brandShortName; per acabar l'installacion d'aqueste modul complementari.">
-<!ENTITY restartButton   "Tornar aviar &brandShortName;">
+<!ENTITY restartButton   "Reaviar &brandShortName;">
 <!ENTITY cancelButton    "Anullar">

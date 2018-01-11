@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsDoNotDisturb.label      "Derrenguetz pas">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Pas cap de notificacion serà afichada fins que tornetz aviar &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Pas cap de notificacion serà afichada fins que reavietz &brandShortName;">
 
 <!ENTITY  popupExceptions.label                                 "Excepcions…">
 <!ENTITY  popupExceptions.accesskey                             "E">
