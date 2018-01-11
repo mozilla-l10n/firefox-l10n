@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Адкрываць новыя вокны ў новых картках">
 <!ENTITY newWindowsAsTabs.accesskey   "в">
 
-<!ENTITY newWindowsAsTabs2.label       "Адкрываць спасылкі ў картках замест новых акон">
-<!ENTITY newWindowsAsTabs2.accesskey   "з">
+<!ENTITY newWindowsAsTabs3.label       "Адкрываць спасылкі ў картках замест новых акон">
+<!ENTITY newWindowsAsTabs3.accesskey   "ы">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Папярэджваць пры закрыцці некалькіх картак">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "ь">
