@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Upraviť koncept správy">
 <!ENTITY editDraftMsgCmd.accesskey "o">
+<!ENTITY editTemplateMsgCmd.label "Upraviť šablónu">
+<!ENTITY editTemplateMsgCmd.accesskey "p">
 <!ENTITY newMsgFromTemplateCmd.label "Nová správa zo šablóny">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Vytvoriť filter zo správy…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Upraviť ako novú správu">
 <!ENTITY contextEditMsgAsNew.accesskey "n">
 <!ENTITY contextEditDraftMsg.label "Upraviť koncept správy">
+<!ENTITY contextEditTemplate.label "Upraviť šablónu">
+<!ENTITY contextEditTemplate.accesskey "p">
 <!ENTITY contextArchive.label "Archivovať">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odpovedať odosielateľovi">
