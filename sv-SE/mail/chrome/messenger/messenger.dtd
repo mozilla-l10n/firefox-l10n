@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Redigera meddelandeutkast">
 <!ENTITY editDraftMsgCmd.accesskey "u">
+<!ENTITY editTemplateMsgCmd.label "Redigera mall">
+<!ENTITY editTemplateMsgCmd.accesskey "m">
 <!ENTITY newMsgFromTemplateCmd.label "Nytt meddelande från mall">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Skapa filterregel utifrån meddelandet…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Redigera som nytt meddelande">
 <!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextEditDraftMsg.label "Redigera meddelandeutkast">
+<!ENTITY contextEditTemplate.label "Redigera mall">
+<!ENTITY contextEditTemplate.accesskey "m">
 <!ENTITY contextArchive.label "Arkivera">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svara endast avsändaren">
