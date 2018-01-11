@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Otevírat nová okna v panelech">
 <!ENTITY newWindowsAsTabs.accesskey   "O">
 
-<!ENTITY newWindowsAsTabs2.label       "Otevírat odkazy v panelech místo nových oken">
-<!ENTITY newWindowsAsTabs2.accesskey   "O">
+<!ENTITY newWindowsAsTabs3.label       "Otevírat odkazy v panelech místo nových oken">
+<!ENTITY newWindowsAsTabs3.accesskey   "O">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Varovat při zavírání více panelů">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "v">
