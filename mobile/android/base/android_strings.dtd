@@ -402,7 +402,7 @@
 <!ENTITY pref_panels_show "Показване">
 <!ENTITY pref_panels_hide "Скриване">
 <!ENTITY pref_panels_reorder "Пренареждане">
-<!ENTITY pref_panels_move_up "Нагоре">
+<!ENTITY pref_panels_move_up "Преместване нагоре">
 <!ENTITY pref_panels_move_down "Надолу">
 
 <!ENTITY datareporting_notification_title "Статистика и данни за &brandShortName;">
