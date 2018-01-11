@@ -261,7 +261,7 @@
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Šetrenie dát">
 <!ENTITY pref_category_media "Médiá">
-<!ENTITY pref_category_developer_tools "Nástroje pre vývojárov">
+<!ENTITY pref_category_developer_tools "Vývojárske nástroje">
 
 <!ENTITY pref_tap_to_load_images_title2 "Zobrazovať obrázky">
 <!ENTITY pref_tap_to_load_images_enabled "Vždy">
