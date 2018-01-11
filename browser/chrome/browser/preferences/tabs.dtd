@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "ახალი ფანჯრების ნაცვლად, ახალი ჩანართების გახსნა">
 <!ENTITY newWindowsAsTabs.accesskey   "ჩ">
 
-<!ENTITY newWindowsAsTabs2.label       "ბმულების, ახალი ფანჯრების ნაცვლად, ახალ ჩანართებში გახსნა">
-<!ENTITY newWindowsAsTabs2.accesskey   "ბ">
+<!ENTITY newWindowsAsTabs3.label       "ბმულების, ახალი ფანჯრების ნაცვლად, ახალ ჩანართებში გახსნა">
+<!ENTITY newWindowsAsTabs3.accesskey   "ნ">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "გაფრთხილება რამდენიმე ჩანართის ერთბაშად დახურვისას">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "ე">
