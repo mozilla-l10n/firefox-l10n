@@ -204,7 +204,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Obnovenie kariet, šetrenie dát, nástroje pre vývojárov">
+<!ENTITY pref_category_advanced_summary3 "Obnovenie kariet, šetrenie dát, vývojárske nástroje">
 <!ENTITY pref_category_notifications "Upozornenia">
 <!ENTITY pref_category_notifications_summary "Nové funkcie, aktualizácie webových stránok">
 <!ENTITY pref_developer_remotedebugging_usb "Vzdialené ladenie cez USB">
