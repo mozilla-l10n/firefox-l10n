@@ -8,7 +8,7 @@
 
 <!ENTITY useCursorNavigation.label       "Utilizar totjorn las tòcas de navigacion per se desplaçar a l'interior d'una pagina">
 <!ENTITY useCursorNavigation.accesskey   "t">
-<!ENTITY searchOnStartTyping.label       "Recercar dins lo tèxte al picar començant">
+<!ENTITY searchOnStartTyping.label       "Començar la recèrca en picar lo tèxte">
 <!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar un clavièr tactil quand es necessari">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
@@ -19,7 +19,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Utilizar lo desfilament doç">
 <!ENTITY useSmoothScrolling.accesskey    "d">
-<!ENTITY checkUserSpelling.label         "Verificar l'ortografia al picar">
+<!ENTITY checkUserSpelling.label         "Verificar l'ortografia en picar">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Donadas">

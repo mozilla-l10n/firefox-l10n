@@ -40,7 +40,7 @@
 <!ENTITY  locbar.history2.accesskey     "I">
 <!ENTITY  locbar.bookmarks.label        "Favorits">
 <!ENTITY  locbar.bookmarks.accesskey    "F">
-<!ENTITY  locbar.openpage.label         "Dobrir los onglets">
+<!ENTITY  locbar.openpage.label         "Onglets dobèrts">
 <!ENTITY  locbar.openpage.accesskey     "D">
 <!ENTITY  locbar.searches.label         "Recèrcas parièras del motor de recèrca per defaut">
 <!ENTITY  locbar.searches.accesskey     "d">
