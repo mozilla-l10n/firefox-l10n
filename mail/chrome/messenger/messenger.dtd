@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Nacerjenje powěsći wobźěłaś">
 <!ENTITY editDraftMsgCmd.accesskey "N">
+<!ENTITY editTemplateMsgCmd.label "Pśedłogu wobźěłaś">
+<!ENTITY editTemplateMsgCmd.accesskey "P">
 <!ENTITY newMsgFromTemplateCmd.label "Nowa powěsć z pśedłogi">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Filter z powěsći napóraś…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Ako nowu powěsć wobźěłaś">
 <!ENTITY contextEditMsgAsNew.accesskey "b">
 <!ENTITY contextEditDraftMsg.label "Nacerjenje powěsći wobźěłaś">
+<!ENTITY contextEditTemplate.label "Pśedłogu wobźěłaś">
+<!ENTITY contextEditTemplate.accesskey "P">
 <!ENTITY contextArchive.label "Archiw">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Jano wótpósłarjeju wótegroniś">
