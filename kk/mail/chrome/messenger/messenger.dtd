@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Шимай қағаз хабарламасын түзету">
 <!ENTITY editDraftMsgCmd.accesskey "Ш">
+<!ENTITY editTemplateMsgCmd.label "Үлгіні түзету">
+<!ENTITY editTemplateMsgCmd.accesskey "т">
 <!ENTITY newMsgFromTemplateCmd.label "Үлгіден жаңа хабарлама">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Хабарламадан сүзгіні жасау…">
@@ -510,6 +512,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Қосымшалар жөндеуіші">
 <!ENTITY addonDebugCmd.accesskey "ы">
+<!ENTITY debugAddonsCmd.label "Қосымшаларды жөндеу">
+<!ENTITY debugAddonsCmd.accesskey "а">
 <!ENTITY tabsDebugCmd.label "Құраманың фреймі жөндеуіші">
 <!ENTITY tabsDebugCmd.accesskey "а">
 <!ENTITY errorConsoleCmd.label "Қателер консолі">
@@ -758,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Жаңа хабарлама ретінде түзету">
 <!ENTITY contextEditMsgAsNew.accesskey "е">
 <!ENTITY contextEditDraftMsg.label "Шимай қағаз хабарламасын түзету">
+<!ENTITY contextEditTemplate.label "Үлгіні түзету">
+<!ENTITY contextEditTemplate.accesskey "т">
 <!ENTITY contextArchive.label "Архивтеу">
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Тек жіберушіге жауап беру">
