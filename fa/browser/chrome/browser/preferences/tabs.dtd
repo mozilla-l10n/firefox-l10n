@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "پنجره‌های جدید در عوض در یک زبانه جدید باز شوند">
 <!ENTITY newWindowsAsTabs.accesskey   "ج">
 
+<!ENTITY newWindowsAsTabs3.label       "بازکردن پیوندها در زبانه به جای بازکردن در پنجره">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "در هنگام بستن بیش از یک زبانه هشدار داده شود">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "ب">
 

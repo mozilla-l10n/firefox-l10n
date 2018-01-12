@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "لطفا جهت ارتباط مجدد وارد شوید.">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "شما وارد نشده‌اید.">
-<!ENTITY signIn.label                "ورود">
-<!ENTITY signIn.accesskey            "و">
-<!ENTITY profilePicture.tooltip      "تغییرتصویر نمایه">
-<!ENTITY verifiedManage.label        "مدیریت حساب">
-<!ENTITY verifiedManage.accesskey    "ح">
-<!ENTITY disconnect3.label           "قطع ارتباط…">
-<!ENTITY disconnect3.accesskey       "ق">
+<!ENTITY notSignedIn.label            "شما وارد نشده‌اید.">
+<!ENTITY signIn.label                 "ورود">
+<!ENTITY signIn.accesskey             "و">
+<!ENTITY profilePicture.tooltip       "تغییرتصویر نمایه">
+<!ENTITY verifiedManage.label         "مدیریت حساب">
+<!ENTITY verifiedManage.accesskey     "ح">
+<!ENTITY disconnect3.label            "قطع ارتباط…">
+<!ENTITY disconnect3.accesskey        "ق">
 <!ENTITY verify.label                "تایید پست‌الکترونیکی">
 <!ENTITY verify.accesskey            "ت">
 <!ENTITY forget.label                "این پست‌الکترونیکی را فراموش کن">
 <!ENTITY forget.accesskey            "ا">
+
+<!ENTITY resendVerification.label     "ارسال مجدد تاییدیه">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "لغو نصب">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "وب را با خودتان همراه کنید">
 <!ENTITY signedOut.description        "نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.">
