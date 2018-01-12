@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Opne nytt vindauge i faner i staden">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY newWindowsAsTabs2.label       "Opne lenker som faner i staden for nye vindauge">
-<!ENTITY newWindowsAsTabs2.accesskey   "v">
+<!ENTITY newWindowsAsTabs3.label       "Opne lenker i faner i staden for nye vindauge">
+<!ENTITY newWindowsAsTabs3.accesskey   "l">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Åtvar meg ved attlating av fleire faner">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "Å">
