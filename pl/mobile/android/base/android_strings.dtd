@@ -361,7 +361,6 @@
 
 <!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
 <!ENTITY contextmenu_remove "Usuń">
-<!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu głównego">
 <!ENTITY contextmenu_add_page_shortcut "Dodaj skrót do strony">
 <!ENTITY contextmenu_set_as_homepage "Ustaw jako stronę domową">
 <!ENTITY contextmenu_share "Udostępnij">
@@ -587,8 +586,6 @@
 
 <!ENTITY whatsnew_notification_title "&brandShortName; jest aktualny">
 <!ENTITY whatsnew_notification_summary "Nowości w tej wersji">
-
-<!ENTITY promotion_add_to_homescreen "Dodaj do ekranu głównego">
 
 <!ENTITY promotion_add_page_shortcut "Dodaj skrót do strony">
 
