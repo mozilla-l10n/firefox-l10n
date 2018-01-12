@@ -12,38 +12,58 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "Sobre las Ferramentas de Desenvolvedor">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Activar las ferramientas de desenvolvedor de Firegox">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Activar las ferramientas de desenvolvedor de Firefox pa usar Examinar l'elemento">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "Examinar y editar HTML y CSS con l'Inspector de Ferramientas de Desenvolvedor.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Desenvolver y depurar WebExtensions, web workers, workers de servicio y mas, con as ferramientas de desenvolvedor de Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "Has activau un alcorce de Ferramientas de Desenvolvedor. Si ye per error, puetz zarrar esta pestanya.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "Examina, editar y depura HTML, CSS, y JavaScript con ferramientas como l'Inspector y lo Depurador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "Perfecciona los codigos HTML, CSS y JavaScript d'as tuyas pachinas con ferramientas como l'Inspector y lo Depurador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Las Ferramientas de Desenvolvedor de Firefox son desactivadas per defecto pa dar-te mas control sobre lo navegador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Saber mas sobre las Ferramientas de Desenvolvedor">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Acativar las Ferramientas de Desenvolvedor">
+<!ENTITY  aboutDevtools.enable.closeButton "Zarrar esta pachina">
 
+<!ENTITY  aboutDevtools.enable.closeButton2 "Zarrar esta pestanya">
 
+<!ENTITY  aboutDevtools.welcome.title "Benveniu ta las Ferramientas de Desenvolvedor de Firefox!">
 
 <!ENTITY  aboutDevtools.newsletter.title "Boletín d'o desenvolvedor de Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
