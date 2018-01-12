@@ -12,6 +12,11 @@
 
 <!-- Field labels for input type=time -->
 
+<!ENTITY time.hour.label "घंटे">
+<!ENTITY time.minute.label "मिनट">
+<!ENTITY time.second.label "सेकंड">
+<!ENTITY time.millisecond.label "मिलीसेकंड">
+<!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
 
@@ -27,3 +32,4 @@
 
 <!-- Date/time clear button -->
 
+<!ENTITY datetime.reset.label "मिटायें">
