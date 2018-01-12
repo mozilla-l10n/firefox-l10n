@@ -785,7 +785,7 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "П">
 <!ENTITY contextCopyMsgMenu.label "Копиране в">
 <!ENTITY contextCopyMsgMenu.accesskey "и">
-<!ENTITY contextKillThreadMenu.label "Пренебрегване на дискусията">
+<!ENTITY contextKillThreadMenu.label "Пренебрегване на дискусия">
 <!ENTITY contextKillSubthreadMenu.accesskey "о">
 <!ENTITY contextKillThreadMenu.accesskey "П">
 <!ENTITY contextKillSubthreadMenu.label "Пренебрегване на поддискусия">

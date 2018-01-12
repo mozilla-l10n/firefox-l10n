@@ -16,7 +16,7 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
-<!ENTITY warningDesc.version        "Това е изпитателна версия на &brandShortName; и може да е нестабилна.">
+<!ENTITY warningDesc.version        "Това е изпитателно издание на &brandShortName; и може да е нестабилно.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "С цел подобряване, &brandShortName; автоматично изпраща информация за производителността, хардуера, начина на ползване и настройките към &vendorShortName;.">
 
@@ -71,7 +71,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "Обновяването е неуспешно. ">
-<!ENTITY update.failed.linkText     "Изтегляне на последната версия">
+<!ENTITY update.failed.linkText     "Изтегляне на последното издание">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end

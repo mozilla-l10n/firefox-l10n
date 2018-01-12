@@ -81,7 +81,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Настройки…">
 <!ENTITY showSettings.accesskey        "й">
-<!ENTITY proxiesConfigure.label        "Определяне как &brandShortName; се свързва с Интернет">
+<!ENTITY proxiesConfigure.label        "Настройки на &brandShortName; за достъп до Мрежата">
 <!ENTITY connectionsInfo.caption       "Връзка">
 <!ENTITY offlineInfo.caption           "Без връзка">
 <!ENTITY offlineInfo.label             "Конфигуриране настройките за работа извън мрежа">

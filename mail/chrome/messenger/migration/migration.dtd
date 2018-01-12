@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Помощник за внасяне">
+<!ENTITY migrationWizard.title          "Помощник при внасяне">
 
 <!ENTITY importFromWin.label            "Внасяне на настройки, настройки на регистрация, адресник, филтри и други данни от:">
 <!ENTITY importFromNonWin.label         "Внасяне на настройки, настройки на регистрация, адресник, филтри и други данни от:">

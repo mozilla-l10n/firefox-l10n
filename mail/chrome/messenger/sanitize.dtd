@@ -10,7 +10,7 @@
 <!ENTITY clearTimeDuration.label          "Времеви обхват за изчистване">
 <!ENTITY clearTimeDuration.accesskey      "о">
 <!ENTITY clearTimeDuration.lastHour       "Последния час">
-<!ENTITY clearTimeDuration.last2Hours     "Последните 2 часа">
+<!ENTITY clearTimeDuration.last2Hours     "Последните два часа">
 <!ENTITY clearTimeDuration.last4Hours     "Последните четири часа">
 <!ENTITY clearTimeDuration.today          "Днес">
 <!ENTITY clearTimeDuration.everything     "Всичко">

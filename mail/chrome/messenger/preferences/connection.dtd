@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  connectionsDialog.title       "Настройки на връзката">
+<!ENTITY  connectionsDialog.title       "Настройки на свързване">
 <!ENTITY  window.width                  "49em">
 <!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Настройване на мрежов посредник за достъп до интернет">
-<!ENTITY  noProxyTypeRadio.label        "Без прокси">
+<!ENTITY  noProxyTypeRadio.label        "Без мрежов посредник">
 <!ENTITY  noProxyTypeRadio.accesskey    "к">
 <!ENTITY  systemTypeRadio.label         "Използване на системните настройки">
 <!ENTITY  systemTypeRadio.accesskey     "з">
