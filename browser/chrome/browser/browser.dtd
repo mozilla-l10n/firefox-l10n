@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "आपने इस वेबसाइट के लिए अपने माइक्रोफ़ोन को अवरूद्ध किया है.">
 <!ENTITY urlbar.screenBlocked.tooltip            "आपने अपने स्क्रीन को साझा करने से इस वेबसाइट को अवरूद्ध किया हैं.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "आपने इस वेबसाइट के लिए स्थान की सूचना अवरुद्ध किये है.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "आपने इस वेबसाइट के लिए डेटा संग्रह को अवरुद्ध किया है.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "आपने इस वेबसाइट के लिए अधिसूचना अवरुद्ध किये है.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "आपने इस वेबसाइट के लिए सतत संग्रहण को अवरुद्ध किया है.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "आपने इस वेबसाइट पर पॉप-अप अवरुद्ध किए हैं.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "आपने इस वेबसाइट के लिए कैनवास डेटा निष्कर्षण को अवरोधित किया है.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "नयी निजी विंडो">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "नया नन-इ10एस विंडो">
 
 <!ENTITY editMenu.label         "संपादन">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "सभी इतिहास दिखाएँ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "पसंदीदा करें">
-<!ENTITY appMenuCustomize.tooltip "मेनू और उपकरण पट्टियाँ अनुकूलित">
-<!ENTITY appMenuCustomizeExit.label "अनुकूलित निकास">
-<!ENTITY appMenuCustomizeExit.tooltip "अनुकूलित समाप्त करें">
-
 <!ENTITY appMenuHistory.showAll.label "सभी इतिहास दिखाएँ">
 <!ENTITY appMenuHistory.clearRecent.label "हालिया इतिहास साफ करें...">
 <!ENTITY appMenuHistory.restoreSession.label "पिछला सत्र पुनर्बहाल करें">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी देखें">
 <!ENTITY appMenuHistory.recentHistory.label "ताजा इतिहास">
 <!ENTITY appMenuHelp.label "मदद">
-<!ENTITY appMenuHelp.tooltip "सहायता मेनू खोलें">
 
 <!ENTITY appMenuRemoteTabs.label "समकालीन टैब्स">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "विस्तारक:">
 <!ENTITY urlbar.switchToTab.label     "टैब में जाएँ:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "क्या आप सुझावों के साथ अपना खोज अनुभव को बढ़ावा देना चाहते हैं?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "ओर जानें…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "नहीं">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "हाँ">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "युक्ति:">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label " मौलिक पृष्ठ शैली">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            " इस वेबसाइट के लिए पॉपअप अवरोधन सेटिंग बदलें">
-
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "सिंक">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "अपने पसंदीदा चीज़ों को टूलबार या अतिप्रवाह मेनू में खींचें.">
-<!ENTITY customizeMode.menuAndToolbars.empty "अधिक औज़ार चाहते हैं?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारों add-ons में से चुनें">
 <!ENTITY customizeMode.restoreDefaults "डिफ़ॉल्ट बहाल करें">
 <!ENTITY customizeMode.done "संपन्न">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "नए प्रसंग प्राप्त करें">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "वस्तुओं को उन्हें पहुँच के भीतर लेकिन अपने टूलबार से बाहर रखने के लिए यहाँ खींचें और छोड़ें…">
 <!ENTITY customizeMode.overflowList.title2 "अतिप्रवाह मेनू">
 <!ENTITY customizeMode.overflowList.description "वस्तुओं को उन्हें पहुँच के भीतर लेकिन अपने टूलबार से बाहर रखने के लिए यहाँ खींचें और छोड़ें…">
 <!ENTITY customizeMode.uidensity "घनत्व">
@@ -1000,13 +978,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabControlled.message "किसी एक्सटेंशन ने वह पेज बदल दिया है जिसे आप नया टैब खोलते समय देखते हैं. यदि आप यह परिवर्तन नहीं चाहते हैं, तो आप अपनी सेटिंग पुनर्स्थापित कर सकते हैं.">
 <!ENTITY newTabControlled.header.message "आपका नया टैब बदल गया है.">
+<!ENTITY newTabControlled.keepButton.label "परिवर्तन रखें">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "सेटिंग्स पुनर्स्थापित करें">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "पृष्ठ क्रियाएँ">
 <!ENTITY pageAction.addToUrlbar.label "पतापट्टी में जोड़े">
 <!ENTITY pageAction.removeFromUrlbar.label "पतापट्टी से हटायें">
-
 <!ENTITY pageAction.allowInUrlbar.label "पतापट्टी में दिखाएँ">
 <!ENTITY pageAction.disallowInUrlbar.label "पता पट्टी में न दिखाएँ">
 <!ENTITY pageAction.manageExtension.label "एक्सटेंशन प्रबंधित करें …">
