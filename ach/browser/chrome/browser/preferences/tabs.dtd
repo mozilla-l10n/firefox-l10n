@@ -8,6 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Yab dirica manyen iyie dirica matidi manyen aye">
 <!ENTITY newWindowsAsTabs.accesskey   "e">
 
+<!ENTITY newWindowsAsTabs3.label       "Yab kakube i dirica matino me kaka i dirica manyen">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Niangi kace tye ka loro dirica matino mapol">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 

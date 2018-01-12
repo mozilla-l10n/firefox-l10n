@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Gwokke ikom lubo kor">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene">
 <!ENTITY  trackingProtectionAlways.label       "Jwijwi">
 <!ENTITY  trackingProtectionAlways.accesskey   "w">
 <!ENTITY  trackingProtectionPrivate.label      "I dirica me mung manyen keken">
@@ -18,11 +19,14 @@
 <!ENTITY trackingProtectionPBM5.accesskey     "M">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Tii ki Gwokke ikom lubo kor ii Yeny me mung me gengo lulub kor ma ngene">
 <!ENTITY trackingProtectionPBMLearnMore.label "Nong ngec mapol">
 <!ENTITY changeBlockList2.label               "Lok jami ma i dul…">
 <!ENTITY changeBlockList2.accesskey           "L">
 
+<!ENTITY  doNotTrack.description        "Cwal bot kakube ngec me “Pe i lub kor” ni pe imito ki lub kor in">
 <!ENTITY  doNotTrack.learnMore.label    "Nong ngec mapol">
+<!ENTITY  doNotTrack.default.label      "Keken ka itye katic ki Gwokke ikom lubo kor">
 <!ENTITY  doNotTrack.always.label       "Jwijwi">
 
 <!ENTITY  history.label                 "Gin mukato">

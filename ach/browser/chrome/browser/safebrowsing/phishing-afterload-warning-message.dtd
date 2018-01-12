@@ -32,6 +32,7 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Kakube ma tye anyim ni twero bedo ki purugram maraco">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ogengo potbuk man pien romo bwoli me keto purugram ma balo tic me yeny mamegi (labolle, ki loko potbuk me acakki mamegi onyo nyuto kwena cato wil mapol i kakube ma ilimo).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 

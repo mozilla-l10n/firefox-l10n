@@ -7,11 +7,17 @@
 <!ENTITY engine.bookmarks.label     "Alama me buk">
 <!ENTITY engine.bookmarks.accesskey "l">
 <!ENTITY engine.tabs.label2         "Yab dirica matino">
+<!ENTITY engine.tabs.title          "Jami ma tye ayaba i nyonyo weng ma kiribo">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Gin mukato">
 <!ENTITY engine.history.accesskey   "m">
 <!ENTITY engine.logins.label        "Donyo iyie">
 <!ENTITY engine.logins.accesskey    "D">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Jami ayera">
 <!ENTITY engine.prefs.label         "Ma imaro">
 <!ENTITY engine.prefs.accesskey     "m">
 <!ENTITY engine.addons.label        "Med-ikome">
@@ -48,17 +54,18 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Tim ber i dony me kube odoco">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Pe i donyo iye.">
-<!ENTITY signIn.label                "Dony iyie">
-<!ENTITY signIn.accesskey            "o">
-<!ENTITY profilePicture.tooltip      "Lok cal me propwail">
-<!ENTITY verifiedManage.label        "Lo akaunt">
-<!ENTITY disconnect3.label           "Juk kube…">
-<!ENTITY disconnect3.accesskey       "J">
+<!ENTITY notSignedIn.label            "Pe i donyo iye.">
+<!ENTITY signIn.label                 "Dony iyie">
+<!ENTITY signIn.accesskey             "o">
+<!ENTITY profilePicture.tooltip       "Lok cal me propwail">
+<!ENTITY verifiedManage.label         "Lo akaunt">
+<!ENTITY disconnect3.label            "Juk kube…">
+<!ENTITY disconnect3.accesskey        "J">
 <!ENTITY verify.label                "Mok ada pa email">
 <!ENTITY verify.accesskey            "M">
 <!ENTITY forget.label                "Wek wiyi owil ikom email man">
 <!ENTITY forget.accesskey            "e">
+
 
 <!ENTITY signedOut.caption            "Ter Kakube ni kwedi">
 <!ENTITY signedOut.description        "Rib alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki ter i nyonyo ni weng.">
