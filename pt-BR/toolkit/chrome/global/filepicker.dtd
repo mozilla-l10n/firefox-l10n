@@ -10,7 +10,7 @@
 <!ENTITY filterMenuList.accesskey   "A">
 <!ENTITY name.label             "Nome">
 <!ENTITY size.label             "Tamanho">
-<!ENTITY lastModified.label     "Modificado">
+<!ENTITY lastModified.label     "Última modificação">
 <!ENTITY showHiddenFiles.label  "Mostrar diretórios e arquivos ocultos">
 <!ENTITY showHiddenFiles.accesskey  "M">
 
