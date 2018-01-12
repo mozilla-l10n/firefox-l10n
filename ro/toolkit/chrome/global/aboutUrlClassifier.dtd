@@ -3,11 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Informații despre url-classifier">
 <!ENTITY aboutUrlClassifier.providerTitle               "Furnizor">
 <!ENTITY aboutUrlClassifier.provider                    "Furnizor">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Ora ultimei actualizări">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Ora următoarei actualizări">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Perioadă de întrerupere">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Starea ultimei actualizări">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualizează">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Reîmprospătează">
-<!ENTITY aboutUrlClassifier.cacheClearBtn               "Curăță">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Șterge">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Numele tabelului">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Numărul de intrări negative în cache">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Numărul de intrări pozitive în cache">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Afișează intrările">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Intrări în cache">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefix">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Hash complet">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Depanează">
