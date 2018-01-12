@@ -153,3 +153,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceLatency "विलंबता">
 
 <!ENTITY aboutSupport.intlAppTitle "अनुप्रयोग सेटिंग्स">
+<!ENTITY aboutSupport.intlLocalesRequested "अनुरोधित स्थानिकी">
+<!ENTITY aboutSupport.intlLocalesAvailable "उपलब्ध स्थानिकी">
+<!ENTITY aboutSupport.intlLocalesSupported "ऐप स्थानिकी">
+<!ENTITY aboutSupport.intlLocalesDefault "मूल स्थानिकी">
+<!ENTITY aboutSupport.intlOSTitle "प्रचालन तंत्र">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "तंत्र स्थानिकी">
+<!ENTITY aboutSupport.intlRegionalPrefs "क्षेत्रीय वरीयताएँ">
