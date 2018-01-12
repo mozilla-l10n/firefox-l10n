@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Відкривати нові вкладки замість нових вікон">
 <!ENTITY newWindowsAsTabs.accesskey   "в">
 
-<!ENTITY newWindowsAsTabs2.label       "Відкривати посилання у вкладках замість нових вікон">
-<!ENTITY newWindowsAsTabs2.accesskey   "л">
+<!ENTITY newWindowsAsTabs3.label       "Відкривати посилання у вкладках замість нових вікон">
+<!ENTITY newWindowsAsTabs3.accesskey   "л">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Попереджати при закритті декількох вкладок">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "і">
