@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "પાનુ લાવવામાં ભૂલ">
 <!ENTITY retry.label "ફરી પ્રયત્ન કરો">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "સંપર્ક નિષ્ફળ જવાની ભૂલ">
 <!ENTITY connectionFailure.longDesc "તે સાઈટ અસ્તિત્વ ધરાવતી હોય તો પણ બ્રાઉઝર તેની સાથે સંપર્ક કરી શકતુ નથી. કારણ કે આ સાઈટ તમારા કોમ્પ્યુટરનુ જોડાણ સ્વીકારતુ નથી, કદાચ સેવા ધીમી હોય, અથવા સાઈટ તમે જોડાણ કરતા પોર્ટ કે સેવાને આધાર ન આપતી હોય.">
@@ -18,7 +18,6 @@
 
 <!ENTITY fileNotFound.title "ફાઇલ મળતી નથી દર્શાવતી ભૂલ">
 <!ENTITY fileNotFound.longDesc "સરનામા દ્વારા સ્પષ્ટ થતી ફાઇલ મળી શકી નહિ. તપાસો કે ફાઇલ અસ્તિત્વ ધરાવે છે અને તમારી પાસે જોવાની પૂરતી પરવાનગી છે.">
-
 
 
 <!ENTITY generic.title "અરજી પૂર્ણ કરી શકતા નથી">
@@ -71,13 +70,12 @@
 
 
 
-
-
 <!ENTITY corruptedContentErrorv2.title "બગડેલ સમાવિષ્ટોની ક્ષતિ">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિં કારણ કે માહિતી પરિવહનમાં ક્ષતિ મળી આવી હતી.</p><ul><li>મહેરબાની કરીને આ સમસ્યા વિશે વેબસાઇટના માલિકોને જાણ કરવા માટે તેમને સંપર્ક કરો.</li></ul>">
 
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>મહેરબાની કરીને આ સમસ્યાને તેઓને જણાવવા માટે વેબસાઇટ માલિકોનો સંપર્ક કરો.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "તમારું જોડાણ સુરક્ષિત નથી">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
