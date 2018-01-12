@@ -21,6 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "આવૃત્તિ">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; વિશેષતા">
+<!ENTITY aboutSupport.featureName "નામ">
+<!ENTITY aboutSupport.featureVersion "આવૃત્તિ">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "પરીક્ષણીય લક્ષણો">
 <!ENTITY aboutSupport.experimentName "નામ">
@@ -29,6 +33,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "સક્રિય">
 <!ENTITY aboutSupport.experimentEndDate "અંત તારીખ">
 <!ENTITY aboutSupport.experimentHomepage "ઘરપાનુ">
+<!ENTITY aboutSupport.experimentBranch "શાખા">
 
 <!ENTITY aboutSupport.appBasicsTitle "કાર્યક્રમ મૂળભૂતો">
 <!ENTITY aboutSupport.appBasicsName "નામ">
@@ -48,14 +53,20 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "સક્રિય થયેલ પ્લગઇનો">
 <!ENTITY aboutSupport.appBasicsBuildConfig "બિલ્ડ રૂપરેખાંકન">
 <!ENTITY aboutSupport.appBasicsUserAgent "વપરાશકર્તા એજન્ટ">
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "મેમરી વપરાશ">
+<!ENTITY aboutSupport.appBasicsPerformance "કામગીરી">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsProfiles "પ્રોફાઇલ્સ">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "મલ્ટીપ્રોસેસ વિન્ડો">
 
 
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla સ્થાન સર્વિસ કી">
+
+<!ENTITY aboutSupport.appBasicsSafeMode "સલામત મોડ">
 
 <!ENTITY aboutSupport.showDir.label "ડિરેક્ટરી ખોલો">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -64,6 +75,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "શોધકર્તામાં બતાવો">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "ફોલ્ડર ખોલો">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "અગત્યની સુધારા પસંદગીઓ">
 <!ENTITY aboutSupport.modifiedPrefsName "નામ">
@@ -79,6 +91,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ગ્રાફિક્સ">
 
+<!ENTITY aboutSupport.placeDatabaseIntegrity "પ્રામાણિકતા">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "પ્રામાણિકતા ચકાસો">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "વધતુ જતુ GC">
@@ -95,5 +109,38 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "ક્લિપબોર્ડમાં લખાણની નકલ કરો">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ક્લિપબોર્ડમાં કાચી માહિતીની નકલ કરો">
 
+<!ENTITY aboutSupport.sandboxTitle "સેન્ડબોક્સ">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "સેકંડ પહેલા">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallArgs "દલીલો">
 
+<!ENTITY aboutSupport.safeModeTitle "સુરક્ષિત મોડ અજમાવો">
+<!ENTITY aboutSupport.restartInSafeMode.label "નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "લક્ષણો">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "નિદાન">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "નિષ્ફળતા લોગ">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "નિર્ણય લોગ">
+
+<!ENTITY aboutSupport.mediaTitle "મીડિયા">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "આઉટપુટ ઉપકરણો">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "ઇનપુટ ઉપકરણો">
+<!ENTITY aboutSupport.mediaDeviceName "નામ">
+<!ENTITY aboutSupport.mediaDeviceGroup "સમૂહ">
+<!ENTITY aboutSupport.mediaDeviceVendor "વિક્રેતા">
+<!ENTITY aboutSupport.mediaDeviceState "સ્થિતિ">
+<!ENTITY aboutSupport.mediaDevicePreferred "પસંદ">
+<!ENTITY aboutSupport.mediaDeviceFormat "બંધારણ">
+<!ENTITY aboutSupport.mediaDeviceChannels "ચેનલ્સ">
+
+<!ENTITY aboutSupport.intlAppTitle "એપ્લિકેશનની સેટિંગ્સ">
+<!ENTITY aboutSupport.intlLocalesRequested "વિનંતી કરેલ લૉકેલ્સ">
+<!ENTITY aboutSupport.intlLocalesAvailable "ઉપલબ્ધ લૉકેલ્સ">
+<!ENTITY aboutSupport.intlLocalesSupported "એપ્લિકેશન લૉકેલ્સ">
+<!ENTITY aboutSupport.intlLocalesDefault "મૂળભૂત લૉકેલ">
+<!ENTITY aboutSupport.intlOSTitle "ઑપરેટિંગ સિસ્ટમ">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "સિસ્ટમ લૉકેલ્સ">

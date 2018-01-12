@@ -2,59 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutTelemetry.pingDataSource "ડેટા સ્રોત પિંગ કરો:">
+<!ENTITY aboutTelemetry.showCurrentPingData "વર્તમાન ડેટા પિંગ કરો">
+<!ENTITY aboutTelemetry.showArchivedPingData "આર્કાઇવ કરેલ પિંગ ડેટા">
+<!ENTITY aboutTelemetry.choosePing "પિંગ પસંદ કરો:">
+<!ENTITY aboutTelemetry.archivePingType "પિંગ પ્રકાર">
+<!ENTITY aboutTelemetry.archivePingHeader "પિંગ">
+<!ENTITY aboutTelemetry.optionGroupToday "આજે">
+<!ENTITY aboutTelemetry.optionGroupYesterday "ગઇકાલે">
+<!ENTITY aboutTelemetry.optionGroupOlder "જૂનું">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "પેલોડ">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
+
 <!ENTITY aboutTelemetry.pageTitle "ટેલીમેટ્રી માહિતી">
+<!ENTITY aboutTelemetry.moreInformations "વધુ માહિતી જોઈએ છે?">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON દર્શકમાં ખોલો">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY aboutTelemetry.slowSqlSection "  ધીમા SQL વાક્યો">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  બ્રાઉઝર અટકેલ">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection " થ્રેડ હેન્ગ્સ">
-
-
-
-
+<!ENTITY aboutTelemetry.homeSection "મુખ્ય પાનું">
 <!ENTITY aboutTelemetry.histogramsSection "  હિસ્ટોગ્રામ">
-
-
-
+<!ENTITY aboutTelemetry.eventsSection "ઘટનાઓ">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  સાદા માપન">
-
+<!ENTITY aboutTelemetry.slowSqlSection "  ધીમા SQL વાક્યો">
+<!ENTITY aboutTelemetry.chromeHangsSection "  બ્રાઉઝર અટકેલ">
 <!ENTITY aboutTelemetry.addonDetailsSection "  ઍડ-ઑન વિગતો">
-
 <!ENTITY aboutTelemetry.lateWritesSection "  અંતમાં લખે છે">
 
-
-<!ENTITY aboutTelemetry.addonHistogramsSection "  એડઓન દ્દારા સંગ્રહેલ હિસ્ટોગ્રામ">
-
-<!ENTITY aboutTelemetry.toggle "  વિભાગ બદલવા માટે ક્લિક કરો">
-
-<!ENTITY aboutTelemetry.emptySection "  (માહિતી સંગ્રહેલ નથી)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  નોંધ: ધીમુ SQL ડિબગીંગ સક્રિય થયેલ છે. સંપૂર્ણ SQL શબ્દમાળાઓ એ નીચે દર્શાવી શકાય છે પરંતુ તેઓ ટેલીમેટ્રીમાં સમાવશે નહિં.">
-
-
-
-<!ENTITY aboutTelemetry.filterText "  ગાળક (શબ્દમાળા અથવા /regexp/)">
-
-
