@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Buka tetingkap dalam tab baru">
 <!ENTITY newWindowsAsTabs.accesskey   "a">
 
-<!ENTITY newWindowsAsTabs2.label       "Buka pautan sebagai tab, bukan tetingkap baru">
-<!ENTITY newWindowsAsTabs2.accesskey   "t">
+<!ENTITY newWindowsAsTabs3.label       "Buka pautan sebagai tab, bukan tetingkap baru">
+<!ENTITY newWindowsAsTabs3.accesskey   "t">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Beri amaran apabila menutup bebilang tab">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "b">
