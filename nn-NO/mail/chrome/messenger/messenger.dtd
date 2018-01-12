@@ -510,6 +510,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Feilsøking for utvidingar">
 <!ENTITY addonDebugCmd.accesskey "F">
+<!ENTITY debugAddonsCmd.label "Feilsøk utvidingar">
+<!ENTITY debugAddonsCmd.accesskey "F">
 <!ENTITY tabsDebugCmd.label "Feilsøking for innhaldsramme">
 <!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Feilmeldingar">
