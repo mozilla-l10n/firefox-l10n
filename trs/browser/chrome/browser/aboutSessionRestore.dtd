@@ -10,8 +10,12 @@
 <!ENTITY restorepage.problemDesc2   "Na'ue nadiganj riña gaché nut. Ga'ui' riña taj nagi'iaj nako' sesion da' garahuè ñu raj.">
 <!ENTITY restorepage.tryThis2       "Hua nan ga'ue nagi'iaj nakàt si sesión raj Hua da'aj ni 'ngo rakïj ñanj li 'jaj sañùun. Nachij nej rakij ñanj garajsunt, guxūn nej sa nitaj si ruhuât nari't ni ga'ui' da' nana'ui' ma.">
 
+<!ENTITY restorepage.hideTabs       "Gi'iaj hui' nej rakïj ñanj garajsun'">
+<!ENTITY restorepage.showTabs       "Ni'io' nej rakïj ñanj garajsun'">
 
+<!ENTITY restorepage.tryagainButton2 "Gayi'ì nakà ñun sesiôn">
 <!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Gayi'i' a'ego sesión nakàa">
 <!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Dunaj daj rû' gaj">
@@ -31,6 +35,7 @@
 <!ENTITY welcomeback2.pageTitle     "¡Dugu'nï'!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; hua yugui guendâ gan'an ne' ñaan">
 
+<!ENTITY welcomeback2.restoreAll.label  "Nayi'ì nakà nej rakïj ñanj &amp;">
 <!ENTITY welcomeback2.restoreSome.label "Man da'aj man nachrunt daj rû' gaj">
 
 
