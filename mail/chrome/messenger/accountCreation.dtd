@@ -54,6 +54,7 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "ხელით გამართვა">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY open-provisioner.label          "ელფოსტის ახალი მისამართის მიღება…">
 
 
 <!ENTITY warning.label                   "გაფრთხილება!">
