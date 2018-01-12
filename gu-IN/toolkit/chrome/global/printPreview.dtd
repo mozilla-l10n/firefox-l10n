@@ -32,10 +32,7 @@
 <!ENTITY Custom.label         "પોતાનું...">
 <!ENTITY ShrinkToFit.label    "ગોઠવવા માટે નાનું કરો">
 <!ENTITY customPrompt.title   "પોતાની રીતે નાનું કરો...">
-
-
-
-
+<!ENTITY simplifyPage.accesskey "i">
 
 <!ENTITY homearrow.tooltip    "પ્રથમ પાનું">
 <!ENTITY endarrow.tooltip     "અંતિમ પાનું">
