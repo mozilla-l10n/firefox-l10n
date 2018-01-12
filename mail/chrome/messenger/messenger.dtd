@@ -315,7 +315,7 @@
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "д">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Разговор">
+<!ENTITY goChatCmd.label "Разговори">
 <!ENTITY goChatCmd.accesskey "Р">
 <!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
@@ -489,7 +489,7 @@
 <!ENTITY deleteJunk.accesskey "з">
 <!ENTITY importCmd.label "Внасяне…">
 <!ENTITY importCmd.accesskey "я">
-<!ENTITY clearRecentHistory.label "Изчистване на скорошната хронология…">
+<!ENTITY clearRecentHistory.label "Изчистване на скорошна история…">
 <!ENTITY clearRecentHistory.accesskey "х">
 <!ENTITY accountManagerCmd2.label "Настройки на регистрация">
 <!ENTITY accountManagerCmd2.accesskey "к">
@@ -555,7 +555,7 @@
 <!ENTITY junkButton.label "Нежелана поща">
 <!ENTITY notJunkButton.label "Нежелана поща">
 <!ENTITY addressBookButton.label "Адресник">
-<!ENTITY chatButton.label "Разговор">
+<!ENTITY chatButton.label "Разговори">
 <!ENTITY glodaSearch.title "Всеобщо търсене">
 <!ENTITY searchItem.title "Бързо търсене">
 <!ENTITY mailViewsToolbarItem.title "Изгледи на пощата">
