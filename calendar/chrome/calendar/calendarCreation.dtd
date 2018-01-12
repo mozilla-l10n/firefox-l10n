@@ -10,8 +10,8 @@
 <!ENTITY initialpage.computer.label  "Pe calculatorul meu">
 <!ENTITY initialpage.network.label  "În rețea">
 
-<!ENTITY locationpage.description         "Furnizați informațiile necesare pentru a accesa calendarul de la distanță" >
-<!ENTITY locationpage.login.description   "Dacă e nevoie, introduceți utilizatorul și parola" >
+<!ENTITY locationpage.description         "Furnizează informațiile necesare pentru a accesa calendarul de la distanță" >
+<!ENTITY locationpage.login.description   "Dacă e nevoie, introdu utilizatorul și parola" >
 <!ENTITY locationpage.username.label      "Utilizator:" >
 <!ENTITY locationpage.password.label      "Parolă:" >
 
