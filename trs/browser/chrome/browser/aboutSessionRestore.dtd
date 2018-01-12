@@ -6,6 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Si ga'man ruhuat ma. Si ga'ue nari't nej si pagina 'ngà ma.">
+<!ENTITY restorepage.problemDesc2   "Na'ue nadiganj riña gaché nut. Ga'ui' riña taj nagi'iaj nako' sesion da' garahuè ñu raj.">
+<!ENTITY restorepage.tryThis2       "Hua nan ga'ue nagi'iaj nakàt si sesión raj Hua da'aj ni 'ngo rakïj ñanj li 'jaj sañùun. Nachij nej rakij ñanj garajsunt, guxūn nej sa nitaj si ruhuât nari't ni ga'ui' da' nana'ui' ma.">
 
 
 <!ENTITY restorepage.restore.access2 "R">
