@@ -4,7 +4,7 @@
 
 <!ENTITY title           "Instalează suplimentul">
 <!ENTITY intro           "Un alt program de pe calculator dorește să modifice &brandShortName; cu următorul supliment:">
-<!ENTITY warning         "Instalați suplimente doar de la autorii în care aveți încredere.">
+<!ENTITY warning         "Instalează suplimente doar de la autorii în care ai încredere.">
 <!ENTITY allow           "Permite această instalare">
 <!ENTITY later           "Puteți să vă răzgândiți oricând mergând la managerul de suplimente.">
 <!ENTITY continue        "Continuă">

@@ -18,7 +18,7 @@
 <!ENTITY tabCrashed.header2 "Of. Fila tocmai s-a închis neașteptat.">
 <!ENTITY tabCrashed.offerHelp2 "Te putem ajuta!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Alege &tabCrashed.restoreTab; pentru a reîncărca pagina.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Alege &tabCrashed.restoreTab; sau &tabCrashed.restoreAll; pentru a reîncărca pagina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Alege &tabCrashed.restoreTab; sau &tabCrashed.restoreAll; pentru a reîncărca pagina/paginile.">
 <!ENTITY tabCrashed.requestHelp "Poți să ne ajuți?">
 <!ENTITY tabCrashed.requestHelpMessage "Rapoartele de defecțiuni ne ajută să diagnosticăm problemele și să îmbunătățim &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Raportează această filă">
