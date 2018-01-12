@@ -8,6 +8,7 @@
 <!ENTITY newWindowsAsTabs.label       "नई विंडो को नए टैब में खोलें">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY newWindowsAsTabs3.label       "लिंकों को नये विंडो में खोलने के बदले टैब में खोलें">
 <!ENTITY newWindowsAsTabs3.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "आपको चेताएँ जब कई टैब बंद करते हैं">
