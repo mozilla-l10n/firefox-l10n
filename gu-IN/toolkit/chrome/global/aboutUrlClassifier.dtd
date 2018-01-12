@@ -3,3 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "બેક-ઑફ સમય">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "તાજું કરો">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "સાફ કરો">
+<!ENTITY aboutUrlClassifier.cacheTableName              "કોષ્ટક નામ">
+<!ENTITY aboutUrlClassifier.debugTitle                  "ડિબગ">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "લોગ મોડ્યુલ સેટ કરો">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "લોગ ફાઇલ સેટ કરો">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS લોગ સેટ કરો">
