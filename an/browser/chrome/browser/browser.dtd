@@ -231,11 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ha blocau lo suyo microfono pa iste puesto web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ha blocau la compartición d'a pantalla en iste puesto web.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ha blocau la información de localización pa iste puesto web.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ha blocau l'almagazenamiento de datos pa iste puesto web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha blocau las notificacions pa iste puesto web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ha blocau l'almagazenamiento persistent de datos pa iste puesto web.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Has blocau las finestras emerchents en este puesto web.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Has blocau la extracción de datos de lienzo pa este puesto web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amostrar lo historial">
 
@@ -301,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nueva finestra privada">
 <!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label   "Nueva finestra no-e10s">
 
 <!ENTITY editMenu.label         "Editar">
 <!ENTITY editMenu.accesskey       "E">
@@ -356,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Amostrar tot l'historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuCustomize.tooltip "Personalizar o menú y as barras de ferramientas">
-<!ENTITY appMenuCustomizeExit.label "Salir d'a personalización">
-<!ENTITY appMenuCustomizeExit.tooltip "Rematar a personalización">
-
 <!ENTITY appMenuHistory.showAll.label "Amostrar tot lo historial">
 <!ENTITY appMenuHistory.clearRecent.label "Borrar o historial recient…">
 <!ENTITY appMenuHistory.restoreSession.label "Recuperar a sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Amostrar a barra lateral de l'historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recient">
 <!ENTITY appMenuHelp.label "Aduya">
-<!ENTITY appMenuHelp.tooltip "Ubrir o menú d'aduya">
 
 <!ENTITY appMenuRemoteTabs.label "Pestanyas sincronizadas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -442,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensión:">
 <!ENTITY urlbar.switchToTab.label     "Ir ta la pestanya:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Quiere amillorar a suya experiencia de busca con sucherencias?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber-ne &amp;mas…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "E">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consello:">
@@ -728,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo de pachina basico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Cambiar a configuración de bloqueyo de finestras emerchents ta iste puesto web">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -861,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Arrociega los tuyos elementos favoritos enta la barra de ferramientas u lo menú de sobreiximiento.">
-<!ENTITY customizeMode.menuAndToolbars.empty "En quiere mas, de ferramientas?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Trigue-las d'entre os milars de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar as valuras por defecto">
 <!ENTITY customizeMode.done "Feito">
 <!ENTITY customizeMode.titlebar "Barra de titol">
@@ -875,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Aconseguir mas temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Arrociega y suelta elementos aquí pa mantener-los a l'alcanz, pero difuera d'a tuya barra de ferramientas…">
 <!ENTITY customizeMode.overflowList.title2 "Menú de sobreiximiento">
 <!ENTITY customizeMode.overflowList.description "Arrociega y suelta elementos aquí pa mantener-los a l'alcanz, pero difuera d'a tuya barra de ferramientas…">
 <!ENTITY customizeMode.uidensity "Densidat">
@@ -1006,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Accions de pachina">
 <!ENTITY pageAction.addToUrlbar.label "Anyader ta la barra d'adrezas">
 <!ENTITY pageAction.removeFromUrlbar.label "Borrar d'a barra d'adrezas">
-
 <!ENTITY pageAction.allowInUrlbar.label "Amostrar en a barra d'adrezas">
 <!ENTITY pageAction.disallowInUrlbar.label "No amostrar en a barra d'adrezas">
 <!ENTITY pageAction.manageExtension.label "Chestionar la extensión…">

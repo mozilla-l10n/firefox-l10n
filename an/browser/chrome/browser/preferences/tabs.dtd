@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Ubrir millor las nuevas finestras en una nueva pestanya">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY newWindowsAsTabs3.label       "Ubrir vinclos en pestanyas en cuenta d'en nuevas finestras">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Alvertir-me en zarrar multiples pestanyas">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
