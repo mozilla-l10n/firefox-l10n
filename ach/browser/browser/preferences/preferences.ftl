@@ -2,6 +2,9 @@
 // License, v. 2.0. If a copy of the MPL was not distributed with this
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Cwal bot kakube ngec me "Pe ilub kor" me nyuto ni pe imito ni ki lub kor in.
 do-not-track-learn-more = Nong ngec mapol
+do-not-track-option-default
+    .label = Keken ka itye katic ki Gwokke ikom lubo kor
 do-not-track-option-always
     .label = Jwijwi
