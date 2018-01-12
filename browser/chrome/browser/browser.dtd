@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Avançar">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Avançar uma página">
-<!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou arraste-o para baixo para mostrar o histórico">
+<!ENTITY backForwardButtonMenu.tooltip "Para mostrar o histórico clique com o botão direito do mouse ou arraste-o para baixo">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastar para baixo para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadCmd.accesskey          "R">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "j">
 <!ENTITY newPrivateWindow.label     "Nova janela privativa">
 <!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label   "Nova janela Non-e10s">
+<!ENTITY newNonRemoteWindow.label   "Nova janela não-e10s">
 
 <!ENTITY editMenu.label         "Editar">
 <!ENTITY editMenu.accesskey       "E">
@@ -385,14 +385,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Mostrar todas as abas deste dispositivo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ligar a sincronização de abas para ver uma lista de abas de outros dispositivos.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ativar a sincronização de abas para ver uma lista de abas de seus outros dispositivos.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Nenhuma aba sincronizada... ainda!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Quer ver suas abas de outros dispositivos aqui?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferências do Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Entrar para ver uma lista de abas de outros dispositivos.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Entrar para ver uma lista de abas de seus outros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Sua conta precisa ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Entrar no Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerenciar dispositivos…">
@@ -430,7 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Remover do menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
-<!ENTITY customizeMenu.addMoreItems.label "Adicionar mais items…">
+<!ENTITY customizeMenu.addMoreItems.label "Adicionar mais itens…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -451,12 +451,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Não">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sim">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "s">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Dica:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Obter ajuda para encontrar as coisas! Procure por &#x1F50E; próximo a sugestões de pesquisa.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Obtenha ajuda para encontrar as coisas! Procure o &#x1F50E; próximo às sugestões de pesquisa.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Alterar opções…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Alterar preferências…">
