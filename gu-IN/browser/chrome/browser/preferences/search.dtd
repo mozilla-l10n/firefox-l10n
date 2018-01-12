@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "શોધ અને સંશોધક માટે સરનામાં બારનો ઉપયોગ કરો">
 <!ENTITY searchBar.shown.label                 "ટૂલબારમાં શોધ બાર ઉમેરો">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "સરનામાં બાર પરિણામોમાં બ્રાઉઝિંગ ઇતિહાસની આગળ શોધ સૂચનો બતાવો">
+
 <!ENTITY defaultSearchEngine.label             "મૂળભૂત શોધ એંજીન">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "સરનામાં બાર અને શોધ બારમાં વાપરવા માટે ડિફૉલ્ટ શોધ એંજિન પસંદ કરો.">

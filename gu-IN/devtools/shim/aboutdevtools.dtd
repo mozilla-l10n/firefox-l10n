@@ -35,6 +35,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "ઇન્સ્પેક્ટર અને ડિબગર જેવા સાધનો સાથે તમારી વેબસાઇટનું HTML, CSS, અને JavaScript પૂર્ણ કરો.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
