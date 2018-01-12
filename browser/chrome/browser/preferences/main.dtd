@@ -37,4 +37,3 @@
 <!ENTITY useFirefoxSync.label "Consiglio: questo comporta l’utilizzo di profili diversi. È possibile appoggiarsi a Sync per la sincronizzazione dei dati.">
 <!ENTITY getStarted.notloggedin.label "Accedi a &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label "Apri preferenze di &syncBrand.shortName.label;">
-<!ENTITY e10sEnabled.label "Utilizza &brandShortName; in modalità multiprocesso">
