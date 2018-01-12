@@ -54,8 +54,6 @@
 <!ENTITY permBlock "Blocca">
 <!ENTITY permissionsFor "Permessi per:">
 <!ENTITY permPlugins "Attivare plugin">
-<!ENTITY permClearStorage "Cancella i dati">
-<!ENTITY permClearStorage.accesskey "C">
 <!ENTITY securityTab "Sicurezza">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityView.certView "Visualizza certificato">

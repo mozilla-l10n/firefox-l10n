@@ -5,9 +5,6 @@
 <!ENTITY permissions.label "Permessi">
 <!ENTITY blockPopups.label "Blocca le finestre pop-up">
 <!ENTITY blockPopups.accesskey "B">
-<!ENTITY notificationsDoNotDisturb.label "Non disturbare">
-<!ENTITY notificationsDoNotDisturb.accesskey "N">
-<!ENTITY notificationsDoNotDisturbDetails.value "Non verrà visualizzata alcuna notifica fino al riavvio di &brandShortName;">
 <!ENTITY popupExceptions.label "Eccezioni…">
 <!ENTITY popupExceptions.accesskey "o">
 <!ENTITY notificationPermissions.label "Notifiche">
