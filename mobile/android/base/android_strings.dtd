@@ -134,7 +134,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
-<!ENTITY tab_title_prefix_is_playing_audio "Reproduzindo audio – &formatS;">
+<!ENTITY tab_title_prefix_is_playing_audio "Reproduzindo áudio – &formatS;">
 
 <!ENTITY settings "Configurações">
 <!ENTITY settings_title "Configurações">
@@ -176,7 +176,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Nenhum dispositivo conectado a conta Firefox">
+<!ENTITY overlay_no_synced_devices "Nenhum dispositivo conectado à Conta Firefox">
 
 <!ENTITY pref_category_search3 "Pesquisa">
 <!ENTITY pref_category_search_summary2 "Adicionar, definir predefinição, mostrar sugestões">
@@ -290,7 +290,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "Abas personalizadas">
-<!ENTITY pref_custom_tabs_summary4 "Permitir que as aplicações abram conteúdo da web em uma aba personalizada de carregamento rápido.">
+<!ENTITY pref_custom_tabs_summary4 "Permitir que as aplicações abram conteúdo da web em uma aba personalizada de carregamento rápido">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
