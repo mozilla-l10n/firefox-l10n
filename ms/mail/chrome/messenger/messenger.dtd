@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Edit Mesej Draf">
 <!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY editTemplateMsgCmd.label "Edit Templat">
+<!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "Mesej Baru daripada Templat">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Cipta Penapis Daripada Mesej…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Edit Sebagai Mesej Baru">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "Edit Mesej Draf">
+<!ENTITY contextEditTemplate.label "Edit Templat">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Arkib">
 <!ENTITY contextArchive.accesskey "b">
 <!ENTITY contextReplySender.label "Balas kepada Pengirim Sahaja">
