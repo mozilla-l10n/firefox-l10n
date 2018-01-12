@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Chestor de complementos">
 
 <!ENTITY search.placeholder                   "Mirar totz os complementos">
+
+<!ENTITY search.placeholder2                  "Mirar en addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Mirar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -22,9 +24,6 @@
 
 <!ENTITY getThemes.description                "Quiere personalizar lo suyo navegador?">
 <!ENTITY getThemes.learnMore                  "Trigar entre mils de temas.">
-
-<!ENTITY cmd.back.tooltip                     "Ir entazaga una pachina">
-<!ENTITY cmd.forward.tooltip                  "Ir una pachina enta debant">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "No s'ha puesto verificar bellas extensions">
