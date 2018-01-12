@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Deschide ferestrele noi mai degrabă într-o filă nouă">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
-<!ENTITY newWindowsAsTabs2.label       "Deschide linkurile ca file în loc de noi ferestre">
-<!ENTITY newWindowsAsTabs2.accesskey   "w">
+<!ENTITY newWindowsAsTabs3.label       "Deschide linkuri în file în loc de ferestre noi">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Avertizează la închiderea filelor multiple">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
