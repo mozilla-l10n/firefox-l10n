@@ -21,4 +21,4 @@
 <!ENTITY cmd.clearList.accesskey                   "L">
 <!ENTITY cmd.clearList.tooltip                     "Remova todas as entradas da lista de arquivos salvos, exceto as transferências em andamento.">
 <!ENTITY cmd.searchDownloads.label                 "Pesquisar…">
-<!ENTITY cmd.searchDownloads.key                   "a">
+<!ENTITY cmd.searchDownloads.key                   "F">
