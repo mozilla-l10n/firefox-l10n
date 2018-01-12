@@ -115,7 +115,7 @@
 <!ENTITY  browserContainersSettings.label        "Поставке…">
 <!ENTITY  browserContainersSettings.accesskey    "в">
 
-<!ENTITY  a11yPrivacy.checkbox.label     "Спречите приступ вашем прегледачу услугама приступачности">
+<!ENTITY  a11yPrivacy.checkbox.label     "Спречи приступ услугама приступачности мом прегледачу">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "а">
 <!ENTITY  a11yPrivacy.learnmore.label    "Сазнајте више">
 <!ENTITY enableSafeBrowsingLearnMore.label "Сазнајте више">
