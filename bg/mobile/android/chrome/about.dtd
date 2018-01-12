@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Относно &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "Това е изпитателна версия на &brandShortName; и може да е нестабилна.">
+<!ENTITY aboutPage.warningVersion               "Това е изпитателно издание на &brandShortName; и може да е нестабилно.">
 <!ENTITY aboutPage.telemetryStart               " Автоматично изпраща информация за производителността, хардуера и използваните настройки към ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " за подобряване на &brandShortName;.">
