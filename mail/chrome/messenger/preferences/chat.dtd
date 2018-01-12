@@ -33,6 +33,8 @@ sentence. -->
 <!ENTITY  dummyNotification.label             "ешбір ақпаратсыз">
 <!ENTITY  getAttention.label                  "Құралдар панелі элементін жыпылықтау">
 <!ENTITY  getAttention.accesskey              "ы">
+<!ENTITY  getAttentionMac.label               "Док таңбашасын анимациялау">
+<!ENTITY  getAttentionMac.accesskey           "о">
 <!ENTITY  chatSound.accesskey                 "Д">
 <!ENTITY  chatSound.label                     "Дыбысты ойнату">
 <!ENTITY  play.label                          "Ойнау">
