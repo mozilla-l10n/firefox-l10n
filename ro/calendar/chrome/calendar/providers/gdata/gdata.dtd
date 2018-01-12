@@ -8,7 +8,7 @@
 <!ENTITY gdata.privacy.default.accesskey "d">
 
 <!ENTITY gdata.migration.title "Migrare calendare disponibile numai pentru citire">
-<!ENTITY gdata.migration.description "Furnizorul de date pentru calendarul Google a detectat că aveți calendare existente care pot accesa calendarul Google doar pentru a citi din el. Dacă doriți să actualizați aceste calendare pentru a se putea scrie în ele, vă rugăm să le selectați mai jos">
+<!ENTITY gdata.migration.description "Furnizorul de date pentru calendarul Google a detectat că ai calendare existente care pot accesa calendarul Google doar pentru a citi din el. Dacă dorești să actualizezi aceste calendare pentru a se putea scrie în ele, te rugăm să le selectezi mai jos">
 <!ENTITY gdata.migration.upgrade.label "Actualizare">
 <!ENTITY gdata.migration.upgrade.accesskey "u">
 <!ENTITY gdata.migration.showagain.label "Verifică întotdeauna ">
@@ -17,6 +17,6 @@
 <!ENTITY gdata.reminder.action.sms.label "Trimite un mesaj text">
 
 <!ENTITY gdata.wizard.session.description "Vă rugăm să alegeți o sesiune existentă sau introduceți-vă adresa de e-mail pentru a crea o nouă sesiune. Este necesară doar o sesiune per cont.">
-<!ENTITY gdata.wizard.calendars.description "Vă rugăm să selectați calendarele și listele de sarcini la care doriți să vă abonați.">
+<!ENTITY gdata.wizard.calendars.description "Te rugăm să selectezi calendarele și listele de sarcini la care dorești să te abonezi.">
 
 <!ENTITY gdata.wizard.nextstep.description "Vă rugăm să treceți la pasul următor pentru a vă configura calendarele.">

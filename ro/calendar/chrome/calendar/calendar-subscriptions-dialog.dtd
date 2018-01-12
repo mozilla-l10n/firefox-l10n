@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
-<!-- Calendar Subscriptions Dialog -->
 
+<!-- Calendar Subscriptions Dialog -->
 <!ENTITY calendar.subscriptions.dialog.title                            "Abonează-te la calendare">
 <!ENTITY calendar.subscriptions.dialog.search.label.value               "Arată calendarele care conțin:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Caută">
-<!ENTITY calendar.subscriptions.dialog.select.label.value               "Selectați calendarele la care doriți să vă abonați:">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Selectează calendarele la care dorești să te abonezi:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Abonare">
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Dezabonare">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Caută…">

@@ -25,24 +25,21 @@
 <!ENTITY newevent.status.needsaction.label        "Necesită acțiune" >
 <!ENTITY newevent.status.inprogress.label         "În desfășurare" >
 <!ENTITY newevent.status.completed.label          "Îndeplinită în" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; completată">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
 <!ENTITY event.attendees.notify.label                "Anunță participanții">
 <!ENTITY event.attendees.notify.accesskey            "u">
 <!ENTITY event.attendees.notifyundisclosed.label     "Invitație separată per participant">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Această opțiune trimite o invitație pe e-mail per participant. Fiecare invitație conține doar participantul destinatar, astfel încât identitățile altor participanți nu sunt dezvăluite.">
 
-
-
 <!-- Keyboard Shortcuts -->
-
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -56,8 +53,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Nou">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Eveniment">
@@ -70,12 +67,12 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Închide">
 <!ENTITY  event.menu.item.close.accesskey                 "c">
+
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.save.label                      "Salvează">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
 
@@ -84,10 +81,8 @@
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.saveandclose.label              "Salvează și închide">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
-
 
 <!ENTITY  event.menu.item.delete.label                    "Șterge…">
 <!ENTITY  event.menu.item.delete.accesskey                "g">
@@ -159,16 +154,12 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Compune un mesaj către participanții indeciși…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
-
 <!ENTITY event.remove.attendees.accesskey                 "r">
 
-
 <!-- Toolbar -->
-
 <!ENTITY  event.toolbar.delete.label                      "Șterge">
 <!ENTITY  event.toolbar.attendees.label                   "Invită participanți">
 <!ENTITY  event.toolbar.privacy.label                     "Intimitate">
-
 
 <!ENTITY  event.toolbar.delete.tooltip                    "Șterge">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Invită participanți">
@@ -177,6 +168,7 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Schimbă prioritatea">
 <!ENTITY  event.toolbar.status.tooltip                    "Schimbă starea">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Schimbă timp Liber/Ocupat">
+
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -185,15 +177,10 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
-
-
-
-
 <!-- Main page -->
-
 <!ENTITY event.title.textbox.label                        "Titlu:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
-<!ENTITY event.location.label                             "Amplasare:" >
+<!ENTITY event.location.label                             "Locație:" >
 <!ENTITY event.location.accesskey                         "l">
 <!ENTITY event.categories.label                           "Categorie:">
 <!ENTITY event.categories.accesskey                       "C">
@@ -204,11 +191,6 @@
 <!ENTITY event.attendees.accesskey                        "n">
 <!ENTITY event.alldayevent.label                          "Evenimentul durează toată ziua" >
 <!ENTITY event.alldayevent.accesskey                      "d">
-
-
-
-
-
 <!ENTITY event.to.accesskey                               "u">
 <!ENTITY task.to.label                                    "Dată de sfârșit:" >
 <!ENTITY task.to.accesskey                                "D">
@@ -256,8 +238,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Timp ca:">
 <!ENTITY event.statusbarpanel.privacy.label               "Confidențialitate:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Editare repetiție">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Nu se repetă">
@@ -306,6 +288,7 @@
 <!ENTITY event.recurrence.every.label                        "La fiecare:" >
 <!ENTITY repeat.units.years.both                             "an(i)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "La fiecare" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -313,7 +296,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "ianuarie" >
@@ -363,8 +345,8 @@
 <!ENTITY event.recurrence.appointments.label            "Întâlniri" >
 <!ENTITY event.repeat.until.label                       "Repetă până în" >
 <!ENTITY event.recurrence.preview.label                 "Previzualizează">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Invitare participanți">
 <!ENTITY event.organizer.label                  "Organizator">
 <!ENTITY event.freebusy.suggest.slot            "Sugerați intervalul orar:">
@@ -385,12 +367,12 @@
 <!ENTITY event.attendee.usertype.resource       "Resursă">
 <!ENTITY event.attendee.usertype.room           "Cameră">
 <!ENTITY event.attendee.usertype.unknown        "Necunoscut">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Vă rugăm să specificați fusul orar">
 <!ENTITY event.timezone.custom.label     "Mai multe fusuri orare…">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "General">
 <!ENTITY read.only.title.label           "Titlu:">
 <!ENTITY read.only.event.start.label     "Data de început:">
@@ -398,7 +380,7 @@
 <!ENTITY read.only.event.end.label       "Dată de sfârșit:">
 <!ENTITY read.only.task.due.label        "Dată de sfârșit:">
 <!ENTITY read.only.repeat.label          "Repetă:">
-<!ENTITY read.only.location.label        "Loc:">
+<!ENTITY read.only.location.label        "Locație:">
 <!ENTITY read.only.category.label        "Categorie:">
 <!ENTITY read.only.organizer.label       "Organizator:">
 <!ENTITY read.only.reply.label           "Răspunde:">
@@ -407,7 +389,6 @@
 <!ENTITY read.only.tentative.label       "S-ar putea să particip">
 <!ENTITY read.only.needs.action.label    "Voi confirma mai târziu">
 <!ENTITY read.only.reminder.label        "Memento:">
-
 <!ENTITY read.only.attendees.label       "Participanți">
 <!ENTITY read.only.description.label     "Descriere">
 <!ENTITY read.only.link.label            "Linkul către asocieri">
