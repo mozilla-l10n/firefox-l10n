@@ -381,15 +381,34 @@ chab mtñur">
 <!ENTITY pref_private_data_offlineApps "Tlur web hay kos chpachtem">
 <!ENTITY pref_private_data_siteSettings2 "Amchu chajaanch">
 <!ENTITY pref_private_data_downloadFiles2 "Unalch">
+<!ENTITY pref_private_data_syncedTabs "Ch chkwachu payt blwiy">
 
+<!ENTITY pref_default_browser "Sal amchu ŕisum chmiich">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla kikwis ha ñumkweek">
+<!ENTITY pref_about_firefox "&brandShortName; ham nyaam">
 <!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "Waŕiib kwiim">
 
+<!ENTITY pref_dialog_set_default "Ŕisuliwu chmii">
+<!ENTITY pref_dialog_default "Ŕis ñapay">
+<!ENTITY pref_dialog_remove "Ujiiñ">
+<!ENTITY pref_dialog_activitystream_header_content "Chapayt xhayom m wiiy">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Ŕkirchu baam yak">
+<!ENTITY pref_dialog_activitystream_visited "Wa amchu">
 
+<!ENTITY pref_search_last_toast "Kos amk chŕmechu ñikakwaach ha ko mujiñyutem.">
 
+<!ENTITY pref_panels_show "Chu\&apos; ubu">
+<!ENTITY pref_panels_hide "Tjoot">
+<!ENTITY pref_panels_reorder "Wawu ujiñ">
+<!ENTITY pref_panels_move_up "Myaabyam">
+<!ENTITY pref_panels_move_down "Matwaam">
 
+<!ENTITY datareporting_notification_title "Estadistik ee tñuur &brandShortName;">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
