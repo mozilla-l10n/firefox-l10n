@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "새 창 대신 새 탭으로 열기">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY newWindowsAsTabs2.label       "링크를 새 창 대신 새 팁으로 열기">
-<!ENTITY newWindowsAsTabs2.accesskey   "w">
+<!ENTITY newWindowsAsTabs3.label       "링크를 새 창 대신 새 탭에서 열기">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "여러 개의 탭을 동시에 닫으려고 할 때 알려주기">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
