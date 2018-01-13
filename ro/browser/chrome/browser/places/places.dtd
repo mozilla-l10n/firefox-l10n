@@ -102,7 +102,7 @@
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Mai puțin">
 <!ENTITY detailsPane.less.accesskey "M">
-<!ENTITY detailsPane.selectAnItemText.description "Selectați un element pentru a-l vedea și a-i edita proprietățile">
+<!ENTITY detailsPane.selectAnItemText.description "Selectează un element pentru a-l vedea și a-i edita proprietățile">
 
 <!ENTITY view.label               "Vizualizare">
 <!ENTITY view.accesskey           "V">
