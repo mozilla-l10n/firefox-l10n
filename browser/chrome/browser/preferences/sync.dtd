@@ -51,6 +51,10 @@
 <!ENTITY verify.accesskey "V">
 <!ENTITY forget.label "Olvide este mensaje">
 <!ENTITY forget.accesskey "O">
+<!ENTITY resendVerification.label "Reenviar verificación">
+<!ENTITY resendVerification.accesskey "v">
+<!ENTITY cancelSetup.label "Cancelar configuración">
+<!ENTITY cancelSetup.accesskey "o">
 <!ENTITY signedOut.caption "Llévese la web con usted">
 <!ENTITY signedOut.description "Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.">
 <!ENTITY signedOut.accountBox.title "Conectar con una &syncBrand.fxAccount.label;">

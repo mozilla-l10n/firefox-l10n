@@ -33,7 +33,6 @@
 <!ENTITY connectionSettings.label "Configuración…">
 <!ENTITY connectionSettings.accesskey "o">
 <!ENTITY httpCache.label "Contenido web en caché">
-<!ENTITY offlineStorage2.label "Contenido web sin conexión y datos de usuario">
 <!ENTITY siteData.label "Datos del sitio">
 <!ENTITY clearSiteData.label "Limpiar todos los datos">
 <!ENTITY clearSiteData.accesskey "a">
@@ -45,8 +44,6 @@
 <!ENTITY limitCacheSizeAfter.label "MB de espacio">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
-<!ENTITY clearOfflineAppCacheNow.label "Limpiar ahora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "m">
 <!ENTITY overrideSmartCacheSize.label "Ignorar la administración automática de caché">
 <!ENTITY overrideSmartCacheSize.accesskey "g">
 <!ENTITY updateTab.label "Actualizar">
@@ -67,15 +64,6 @@
 <!ENTITY useService.accesskey "p">
 <!ENTITY enableSearchUpdate2.label "Actualizar automáticamente los buscadores">
 <!ENTITY enableSearchUpdate2.accesskey "A">
-<!ENTITY offlineStorageNotify.label "Avisarle cuando un sitio web solicite guardar datos para su uso sin conexión">
-<!ENTITY offlineStorageNotify.accesskey "v">
-<!ENTITY offlineStorageNotifyExceptions.label "Excepciones…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-<!ENTITY offlineAppsList3.label "Los siguientes sitios web tienen permiso para guardar datos para el uso en modo sin conexión">
-<!ENTITY offlineAppsList.height "7em">
-<!ENTITY offlineAppsListRemove.label "Eliminar…">
-<!ENTITY offlineAppsListRemove.accesskey "l">
-<!ENTITY offlineAppRemove.confirm "Eliminar contenido en modo sin conexión">
 <!ENTITY certificateTab.label "Certificados">
 <!ENTITY certPersonal2.description "Cuando un servidor solicite su certificado personal">
 <!ENTITY selectCerts.auto "Seleccionar uno automáticamente">

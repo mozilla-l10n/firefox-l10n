@@ -164,10 +164,10 @@
 <!ENTITY urlbar.microphoneBlocked.tooltip "Ha bloqueado su micrófono para este sitio web.">
 <!ENTITY urlbar.screenBlocked.tooltip "Ha impedido que este sitio web comparta su pantalla.">
 <!ENTITY urlbar.geolocationBlocked.tooltip "Ha bloqueado la información de ubicación para este sitio web.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Ha bloqueado las notificaciones para este sitio web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.popupBlocked.tooltip "Ha bloqueado las ventanas emergentes en este sitio web.">
+<!ENTITY urlbar.canvasBlocked.tooltip "Ha bloqueado la extracción de datos de canvas en este sitio web.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Mostrar historial">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
@@ -214,7 +214,6 @@
 <!ENTITY newNavigatorCmd.accesskey "N">
 <!ENTITY newPrivateWindow.label "Nueva ventana privada">
 <!ENTITY newPrivateWindow.accesskey "P">
-<!ENTITY newNonRemoteWindow.label "Nueva ventana no-e10s">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Deshacer">
@@ -261,17 +260,12 @@
 <!ENTITY historyRestoreLastSession.label "Restaurar sesión anterior">
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
-<!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuCustomize.tooltip "Personalizar el menú y barras de herramientas">
-<!ENTITY appMenuCustomizeExit.label "Terminar personalización">
-<!ENTITY appMenuCustomizeExit.tooltip "Terminar personalización">
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver panel lateral del historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial reciente">
 <!ENTITY appMenuHelp.label "Ayuda">
-<!ENTITY appMenuHelp.tooltip "Abrir menú de ayuda">
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
 <!ENTITY appMenuRemoteTabs.notabs.label "No hay pestañas abiertas">
 <!ENTITY appMenuRemoteTabs.showMore.label "Mostrar más">
@@ -315,13 +309,6 @@
 <!ENTITY urlbar.accesskey "d">
 <!ENTITY urlbar.extension.label "Extensión:">
 <!ENTITY urlbar.switchToTab.label "Cambiar a la pestaña:">
-<!ENTITY urlbar.searchSuggestionsNotification.question "¿Le gustaría mejorar su experiencia de búsqueda con sugerencias?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber más…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "m">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consejo:">
 <!ENTITY urlbar.searchSuggestionsNotification.hint "¡Obtenga ayuda para encontrar cosas! Busque la 🔎 junto a las sugerencias de búsqueda.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cambiar opciones…">
@@ -512,7 +499,6 @@
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Estilo de página básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
-<!ENTITY pageReportIcon.tooltip "Cambiar configuración de bloqueo de ventanas emergentes para este sitio web">
 <!ENTITY allowPopups.accesskey "p">
 <!ENTITY editPopupSettingsUnix.label "Editar preferencias de bloqueo de ventanas emergentes…">
 <!ENTITY editPopupSettings.label "Editar opciones de bloqueo de ventanas emergentes…">
@@ -606,8 +592,6 @@
 <!ENTITY syncReAuthItem.accesskey "R">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY customizeMode.menuAndToolbars.header3 "Arrastre sus elementos favoritos a la barra de herramientas o al menú de desborde.">
-<!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Elija de entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
 <!ENTITY customizeMode.done "Hecho">
 <!ENTITY customizeMode.titlebar "Barra de título">
@@ -620,7 +604,6 @@
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Conseguir más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
-<!ENTITY customizeMode.emptyOverflowList.description "Arrastre y suelte elementos aquí para conservarlos a mano pero fuera de su barra de herramientas…">
 <!ENTITY customizeMode.overflowList.title2 "Menú de desborde">
 <!ENTITY customizeMode.overflowList.description "Arrastre y suelte elementos aquí para conservarlos a mano pero fuera de su barra de herramientas…">
 <!ENTITY customizeMode.uidensity "Densidad">
