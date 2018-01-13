@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookWindow.title                        "Catálogo de endereços">
 <!ENTITY blankResultsPaneMessage.label                  "Este catálogo de endereços mostra contatos somente após uma pesquisa">
-<!ENTITY localResultsOnlyMessage.label                  "Contatos do catálogo de endereços remotos não são mostradas até que você pesquise">
+<!ENTITY localResultsOnlyMessage.label                  "Contatos dos catálogos de endereços remotos não são mostradas até que você pesquise">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arquivo">
@@ -29,11 +29,11 @@
 <!ENTITY closeCmd.label                                 "Fechar">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "F">
-<!ENTITY printSetupCmd.label                            "Configurar página…">
+<!ENTITY printSetupCmd.label                            "Configurar a página…">
 <!ENTITY printSetupCmd.accesskey                        "C">
 <!ENTITY printPreviewContactCmd.label                   "Visualizar impressão do contato">
 <!ENTITY printPreviewContactCmd.accesskey               "z">
-<!ENTITY printPreviewAddressBook.label                  "Visualizar impressão do catálogo">
+<!ENTITY printPreviewAddressBook.label                  "Visualizar catálogo de endereços">
 <!ENTITY printPreviewAddressBook.accesskey              "V">
 <!ENTITY printContactCmd.label                          "Imprimir contato…">
 <!ENTITY printContactCmd.accesskey                      "I">
