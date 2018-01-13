@@ -37,7 +37,19 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "k">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.email.label               "E-poštno sporočilo:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "E-poštno sporočilo:">
+
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Daj prednost odjemalčevemu e-poštnemu časovnemu razvrščanju">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Za zdaj lahko to omogočite samo po nastavitvi tega koledarja v pripadajočem pogovornem oknu lastnosti, če strežnik koledarja poskrbi za časovno razvrščanje.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Ta možnost je na voljo samo, če strežnik koledarja podpira časovno razvrščanje. Omogoča nadomestno e-poštno časovno razvrščanje, namesto da bi se ga prepustilo strežniku.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Sprejmi">
