@@ -5,6 +5,8 @@
 <!ENTITY trackingProtectionHeader2.label "Protezione antitracciamento">
 <!ENTITY trackingProtection2.description "Il tracciamento consiste nella raccolta di informazioni sul visitatore attraverso siti diversi. Può essere utilizzato per costruire un vero e proprio profilo e visualizzare contenuti basati sulle abitudini di navigazione e sui dati personali.">
 <!ENTITY trackingProtection2.radioGroupLabel "Utilizza la protezione antitracciamento per bloccare i tracciatori conosciuti">
+<!ENTITY trackingProtection3.description "La protezione antitracciamento blocca elementi utilizzati per raccogliere dati sulla navigazione attraverso siti diversi.">
+<!ENTITY trackingProtection3.radioGroupLabel "Utilizza la protezione antitracciamento per bloccare i tracciatori conosciuti">
 <!ENTITY trackingProtectionAlways.label "Sempre">
 <!ENTITY trackingProtectionAlways.accesskey "p">
 <!ENTITY trackingProtectionPrivate.label "Solo in finestre anonime">
@@ -12,6 +14,7 @@
 <!ENTITY trackingProtectionNever.label "Mai">
 <!ENTITY trackingProtectionNever.accesskey "a">
 <!ENTITY trackingProtectionLearnMore.label "Ulteriori informazioni">
+<!ENTITY trackingProtectionLearnMore2.label "Ulteriori informazioni sulla protezione antitracciamento e la privacy">
 <!ENTITY trackingProtectionExceptions.label "Eccezioni…">
 <!ENTITY trackingProtectionExceptions.accesskey "E">
 <!ENTITY trackingProtectionPBM6.label "Attiva la protezione antitracciamento in modalità Navigazione anonima per bloccare i tracciatori conosciuti">
