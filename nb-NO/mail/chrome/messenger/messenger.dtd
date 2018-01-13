@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Rediger meldingskladd">
 <!ENTITY editDraftMsgCmd.accesskey "m">
+<!ENTITY editTemplateMsgCmd.label "Rediger mal">
+<!ENTITY editTemplateMsgCmd.accesskey "m">
 <!ENTITY newMsgFromTemplateCmd.label "Ny melding fra mal">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Lag filter fra melding">
@@ -510,6 +512,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Feilsøking for utvidelser">
 <!ENTITY addonDebugCmd.accesskey "F">
+<!ENTITY debugAddonsCmd.label "Feilsøk utvidelser">
+<!ENTITY debugAddonsCmd.accesskey "F">
 <!ENTITY tabsDebugCmd.label "Feilsøking for innholdsramme">
 <!ENTITY tabsDebugCmd.accesskey "i">
 <!ENTITY errorConsoleCmd.label "Feilmeldinger">
@@ -758,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny melding">
 <!ENTITY contextEditMsgAsNew.accesskey "R">
 <!ENTITY contextEditDraftMsg.label "Rediger meldingskladd">
+<!ENTITY contextEditTemplate.label "Rediger mal">
+<!ENTITY contextEditTemplate.accesskey "R">
 <!ENTITY contextArchive.label "Arkiver">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsender">
