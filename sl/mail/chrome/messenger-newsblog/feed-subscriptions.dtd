@@ -40,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "a">
+<!ENTITY button.verifyFeed.label     "Potrdi">
+<!ENTITY button.verifyFeed.accesskey "t">
 <!ENTITY button.updateFeed.label     "Posodobi">
 <!ENTITY button.updateFeed.accesskey "P">
 <!ENTITY button.removeFeed.label     "Odstrani">

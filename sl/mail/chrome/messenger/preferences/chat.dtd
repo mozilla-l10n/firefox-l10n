@@ -33,6 +33,8 @@ sentence. -->
 <!ENTITY  dummyNotification.label             "brez podatkov">
 <!ENTITY  getAttention.label                  "Utripaj z gumbom opravilne vrstice">
 <!ENTITY  getAttention.accesskey              "U">
+<!ENTITY  getAttentionMac.label               "Animiraj ikono v doku">
+<!ENTITY  getAttentionMac.accesskey           "A">
 <!ENTITY  chatSound.accesskey                 "r">
 <!ENTITY  chatSound.label                     "predvajaj zvok">
 <!ENTITY  play.label                          "Predvajaj">

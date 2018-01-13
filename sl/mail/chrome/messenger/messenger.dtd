@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Uredi osnutek">
 <!ENTITY editDraftMsgCmd.accesskey "U">
+<!ENTITY editTemplateMsgCmd.label "Uredi predlogo">
+<!ENTITY editTemplateMsgCmd.accesskey "P">
 <!ENTITY newMsgFromTemplateCmd.label "Novo sporočilo iz predloge">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Ustvari filter iz sporočila …">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Uredi kot novo sporočilo">
 <!ENTITY contextEditMsgAsNew.accesskey "U">
 <!ENTITY contextEditDraftMsg.label "Uredi osnutek">
+<!ENTITY contextEditTemplate.label "Uredi predlogo">
+<!ENTITY contextEditTemplate.accesskey "P">
 <!ENTITY contextArchive.label "Arhiviraj">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odgovori samo pošiljatelju">
