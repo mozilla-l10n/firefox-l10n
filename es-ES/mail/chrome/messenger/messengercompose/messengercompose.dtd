@@ -115,13 +115,10 @@
 <!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Ordenar selección: Z - A">
 <!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "O">
 <!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ordenar: A - Z">
-<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "O">
 <!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ordenar: Z - A">
-<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "O">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordenar selección: A - Z">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "O">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordenar selección: Z - A">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "O">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "Barras de herramientas">
