@@ -6,6 +6,8 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey "T">
 <!ENTITY newWindowsAsTabs.label "Abrir ventanas nuevas como pestañas">
 <!ENTITY newWindowsAsTabs.accesskey "b">
+<!ENTITY newWindowsAsTabs3.label "Abrir enlaces en pestañas en lugar de en ventanas nuevas">
+<!ENTITY newWindowsAsTabs3.accesskey "v">
 <!ENTITY warnOnCloseMultipleTabs.label "Advertirle al cerrar múltiples pestañas">
 <!ENTITY warnOnCloseMultipleTabs.accesskey "A">
 <!ENTITY warnOnOpenManyTabs.label "Advertirle cuando al abrir múltiples pestañas se pueda ralentizar &brandShortName;">

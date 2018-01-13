@@ -14,8 +14,6 @@
 <!ENTITY trackingProtectionLearnMore.label "Saber más">
 <!ENTITY trackingProtectionExceptions.label "Excepciones…">
 <!ENTITY trackingProtectionExceptions.accesskey "x">
-<!ENTITY trackingProtectionPBM5.label "Usar protección contra rastreo en ventanas privadas">
-<!ENTITY trackingProtectionPBM5.accesskey "d">
 <!ENTITY trackingProtectionPBM6.label "Usar protección contra rastreo en la navegación privada para bloquear los rastreadores conocidos">
 <!ENTITY trackingProtectionPBM6.accesskey "d">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber más">

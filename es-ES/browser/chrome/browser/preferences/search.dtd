@@ -5,6 +5,7 @@
 <!ENTITY searchBar.label "Barra de búsqueda">
 <!ENTITY searchBar.hidden.label "Use la barra de direcciones para búsquedas y navegación">
 <!ENTITY searchBar.shown.label "Añadir barra de búsqueda en la barra de herramientas">
+<!ENTITY showSearchSuggestionsAboveHistory.label "Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones">
 <!ENTITY defaultSearchEngine.label "Buscador predeterminado">
 <!ENTITY chooseYourDefaultSearchEngine2.label "Elija el buscador por omisión que desea usar en las barras de direcciones y de búsqueda.">
 <!ENTITY provideSearchSuggestions.label "Proporcionar sugerencias de búsqueda">
