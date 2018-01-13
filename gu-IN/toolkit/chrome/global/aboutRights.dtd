@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "About Your Rights">
+<!ENTITY rights.title "તમારા અધિકારો વિશે">
 <!ENTITY rights.intro "&brandFullName; is free and open source software, built by a community of thousands from all over the world. There are a few things you should know:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -19,6 +18,7 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". This means you may use, copy and distribute &brandShortName; to others.  You are also welcome to modify the source code of &brandShortName; as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.">
 
+<!ENTITY rights.intro-point2-a "તમને Mozilla ફાઉન્ડેશનના ટ્રેડમાર્ક્સ અથવા કોઈપણ પક્ષના કોઈ પણ ટ્રેડમાર્ક અધિકારો અથવા લાઇસેંસ આપવામાં આવ્યાં નથી, જેમાં Firefox નામ અથવા લોગોની મર્યાદા વિનાનો સમાવેશ થાય છે. ટ્રેડમાર્ક પર વધારાની માહિતી મળી શકે છે ">
 <!ENTITY rights.intro-point2-b "here">
 <!ENTITY rights.intro-point2-c ".">
 
@@ -46,6 +46,7 @@
 <!ENTITY rights2.webservices-header "&brandFullName; Web-Based Information Services">
 
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "ચોક્કસ પ્રકારની વિડિઓ સામગ્રીને ચલાવવા માટે, &brandShortName; તૃતીય પક્ષોમાંથી અમુક સામગ્રી ડિક્રિપ્શન મોડ્યુલો ડાઉનલોડ કરે છે.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -61,6 +62,7 @@
 <!ENTITY rights.safebrowsing-b "Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites.  If you wish to disable the feature completely, follow these steps:">
 <!ENTITY rights.safebrowsing-term1 "Open the application preferences">
 <!ENTITY rights.safebrowsing-term2 "Select the Security selection">
+<!ENTITY rights2.safebrowsing-term3 "&quot;&enableSafeBrowsing.label;&quot; વિકલ્પને અનચેક કરો">
 <!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
 
 <!-- location aware browsing points for branded builds -->
