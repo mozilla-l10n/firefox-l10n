@@ -13,7 +13,7 @@
 <!ENTITY accountUsernameDuplicate.label "Esta conta já está configurada!">
 
 <!ENTITY accountPasswordTitle.label   "Senha">
-<!ENTITY accountPasswordInfo.label    "Por favor, forneça sua senha no campo abaixo.">
+<!ENTITY accountPasswordInfo.label    "Insira sua senha no campo abaixo.">
 <!ENTITY accountPasswordField.label   "Senha:">
 <!ENTITY accountPasswordManager.label "A senha será memorizada. Deixe o campo vazio se quiser que sua senha seja solicitada toda vez que conectar-se em sua conta.">
 
@@ -28,5 +28,5 @@
 <!ENTITY accountProxySettings.change.accessKey "M">
 
 <!ENTITY accountSummaryTitle.label   "Resumo">
-<!ENTITY accountSummaryInfo.label    "Um resumo das informações fornecidas é exibido a seguir. Por favor, verifique antes da criação da sua conta.">
+<!ENTITY accountSummaryInfo.label    "Um resumo das informações fornecidas é exibido abaixo. Verifique antes de criar sua conta.">
 <!ENTITY accountSummary.connectNow.label "Conectar-se a esta conta agora">
