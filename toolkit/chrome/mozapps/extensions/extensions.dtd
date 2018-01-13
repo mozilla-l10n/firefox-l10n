@@ -19,8 +19,6 @@
 <!ENTITY toolsMenu.tooltip "Herramientas para todos los complementos">
 <!ENTITY getThemes.description "¿Pensando en personalizar su navegador?">
 <!ENTITY getThemes.learnMore "Elija entre miles de temas.">
-<!ENTITY cmd.back.tooltip "Retroceder una página">
-<!ENTITY cmd.forward.tooltip "Avanzar una página">
 <!ENTITY showUnsignedExtensions.button.label "Algunas extensiones no han podido ser verificadas">
 <!ENTITY showAllExtensions.button.label "Mostrar todas las extensiones">
 <!ENTITY debugAddons.label "Depurar complementos">
