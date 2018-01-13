@@ -342,6 +342,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Editar borrador de mensaje">
 <!ENTITY editDraftMsgCmd.accesskey "b">
+<!ENTITY editTemplateMsgCmd.label "Editar plantilla">
+<!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "Nuevo mensaje desde plantilla">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "Crear filtro a partir del mensaje…">
@@ -431,6 +433,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Complementos">
 <!ENTITY addons.accesskey "m">
+<!ENTITY addonPrefs.label "Opciones del complemento">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Preferencias del complemento">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "No se han encontrado ajustes del complemento.">
 <!ENTITY activitymanager.label "Administrador de actividad">
 <!ENTITY activitymanager.accesskey "A">
 <!ENTITY imAccountsStatus.label "Estado de chat">
@@ -470,6 +477,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Depurador del complemento">
 <!ENTITY addonDebugCmd.accesskey "D">
+<!ENTITY debugAddonsCmd.label "Depurar complementos">
+<!ENTITY debugAddonsCmd.accesskey "c">
 <!ENTITY tabsDebugCmd.label "Depurador del marco de contenido">
 <!ENTITY tabsDebugCmd.accesskey "a">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
@@ -677,6 +686,8 @@
 <!ENTITY contextEditMsgAsNew.label "Editar como mensaje nuevo">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "Editar borrador de mensaje">
+<!ENTITY contextEditTemplate.label "Editar plantilla">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Archivar">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Responder sólo al remitente">
