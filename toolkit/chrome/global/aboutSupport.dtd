@@ -152,6 +152,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "दर">
 <!ENTITY aboutSupport.mediaDeviceLatency "विलंबता">
 
+<!ENTITY aboutSupport.intlTitle "अंतरराष्ट्रीयकरण &amp; स्थानीयकरण">
 <!ENTITY aboutSupport.intlAppTitle "अनुप्रयोग सेटिंग्स">
 <!ENTITY aboutSupport.intlLocalesRequested "अनुरोधित स्थानिकी">
 <!ENTITY aboutSupport.intlLocalesAvailable "उपलब्ध स्थानिकी">
