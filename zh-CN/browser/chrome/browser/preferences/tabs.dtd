@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "需要新建窗口时以新建标签页代替">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY newWindowsAsTabs2.label       "用标签页打开链接，不使用新窗口">
-<!ENTITY newWindowsAsTabs2.accesskey   "w">
+<!ENTITY newWindowsAsTabs3.label       "在新标签页中打开链接而不是新窗口">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "提醒确认关闭多个标签页">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
