@@ -6,3 +6,5 @@
 <!ENTITY server.accesskey "A">
 <!ENTITY virtualFolderListTitle.title "Seleccionar carpeta(s)">
 <!ENTITY virtualFolderDesc.label "Seleccione las carpetas a buscar:">
+<!ENTITY folderName.label "Nombre de carpeta">
+<!ENTITY folderSearch.label "Buscar">
