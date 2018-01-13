@@ -7,10 +7,6 @@
 <!ENTITY  blockPopups.label           "Blochează ferestrele pop-up">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsDoNotDisturb.label      "Nu mă deranja">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Nicio notificare nu va fi afișată până la repornirea lui &brandShortName;">
-
 <!ENTITY  popupExceptions.label                                 "Excepții…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
@@ -50,7 +46,7 @@
 <!ENTITY chooseButton.label           "Alege…">
 <!ENTITY chooseButton.accesskey       "o">
 
-<!ENTITY translateWebPages.label      "Traduceți conținutul web">
+<!ENTITY translateWebPages.label      "Tradu conținutul web">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Excepții…">
 <!ENTITY translateExceptions.accesskey "x">
