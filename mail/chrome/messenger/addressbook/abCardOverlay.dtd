@@ -134,20 +134,20 @@
 <!ENTITY MSN2.accesskey                 "N">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.label                     "ID do Jabber:">
 <!ENTITY XMPP.accesskey                 "J">
 <!ENTITY IRC.label                      "Apelido do IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
-<!ENTITY PhotoDesc.label                "Selecione uma destas opções:">
+<!ENTITY PhotoDesc.label                "Escolha uma das seguintes:">
 <!ENTITY GenericPhoto.label             "Foto genérica">
 <!ENTITY GenericPhoto.accesskey         "c">
 <!ENTITY DefaultPhoto.label             "Padrão">
 <!ENTITY PhotoFile.label                "Neste computador">
 <!ENTITY PhotoFile.accesskey            "N">
-<!ENTITY BrowsePhoto.label              "Procurar…">
+<!ENTITY BrowsePhoto.label              "Navegar">
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Na web">
 <!ENTITY PhotoURL.accesskey             "w">
