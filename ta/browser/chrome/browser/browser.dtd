@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "சாதனத்திற்கு அனுப்பு">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "அனுப்பப்பட்டது!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "வரிசையில் உள்ளவை (முடக்கலை)">
 <!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகற்று">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "கீற்றுகளைப் புத்தகக்குறியிடு…">
@@ -229,10 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "இத்தளத்தில் ஒலிவாங்கியை முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.screenBlocked.tooltip            "இத்தளத்தில் திரைப் பகிர்வை முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "உங்கள் இடத்தகவலை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "உங்கள் தரவு சேமிப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "அறிவிப்புகளை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "நீங்கள் நிரந்தர சேமிப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "இத்தளத்தில் பாப்பப் அறிவுறுத்தல்களை முடக்கியுள்ளீர்கள்.">
 
 
@@ -300,7 +299,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "புதிய அந்தரங்க சாளரம்">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "புதிய e10s இல்லா சாளரம்">
 
 <!ENTITY editMenu.label         "தொகு">
 <!ENTITY editMenu.accesskey       "E">
@@ -355,18 +353,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "அனைத்தையும் காண்பி">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "விருப்பமை">
-<!ENTITY appMenuCustomize.tooltip "பட்டிகளையும் கருவிப்பட்டைகளையும் விருப்பமை">
-<!ENTITY appMenuCustomizeExit.label "வெளியேறு">
-<!ENTITY appMenuCustomizeExit.tooltip "தனிப்பயனாக்கத்தை முடி">
-
 <!ENTITY appMenuHistory.showAll.label "அனைத்தையும் காண்பி">
 <!ENTITY appMenuHistory.clearRecent.label "சமீபத்திய வரலாற்றைத் துடை...">
 <!ENTITY appMenuHistory.restoreSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
 <!ENTITY appMenuHistory.viewSidebar.label "வரலாறுப் பக்கப்பட்டையை பார்க்க">
 <!ENTITY appMenuHistory.recentHistory.label "சமீபத்திய வரலாறு">
 <!ENTITY appMenuHelp.label "உதவி">
-<!ENTITY appMenuHelp.tooltip "உதவி பட்டியை திற">
 
 <!ENTITY appMenuRemoteTabs.label "ஒத்திசைத்த கீற்றுகள்">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -441,14 +433,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "நீட்சிகள்:">
 <!ENTITY urlbar.switchToTab.label     "கீற்றுக்கு மாற்று:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "உங்கள் தேடல் அனுபவத்தை பரிந்துரைகள் மூலம் மேம்படுத்த விருப்பமா?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "மேலும் அறிய...">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "|">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "இல்லை">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "ஆம்">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "துணுக்கு:">
@@ -727,8 +711,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "அடிப்படை பக்கப் பாணி">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "இந்த இணைய தளத்திற்கான பாப்பப் தடுத்தல் அமைவை மாற்று">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -860,11 +842,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "ஒத்திசை">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "உங்கள் விருப்பமான உருப்படிகளை கருவிப்பட்டை அல்லது நிரம்பல் பட்டிக்கு இழுக்கவும்.">
-<!ENTITY customizeMode.menuAndToolbars.empty "கூடுதலாக கருவிகள் வேண்டுமா?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "ஆயிரக்கணக்கான இணைப்பு நீட்சிகளிலருந்து தேர்ந்தெடு">
 <!ENTITY customizeMode.restoreDefaults "முன்னிருப்பை மீட்டமைக்கவும்">
 <!ENTITY customizeMode.done "முடிந்தது">
 <!ENTITY customizeMode.titlebar "தலைப்பு பட்டி">
+<!ENTITY customizeMode.extraDragSpace "இடத்தை இழு">
 <!ENTITY customizeMode.toolbars2 "கருவிப்பட்டைகள்">
 <!ENTITY customizeMode.lwthemes "கருப்பொருள்கள்">
 <!ENTITY customizeMode.lwthemes.myThemes "என் கருப்பொருள்கள்">
@@ -873,7 +854,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "மேலும் கருப்பொருள்களைப் பெறவும்">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "கருவிப்பெட்டிக்கு வெளியே ஆனால் கைக்கெட்டும் தூரத்தில் உருப்படிகளை வைக்க இழுத்து இங்கே போடவும்…">
 <!ENTITY customizeMode.overflowList.description "கருவிப்பெட்டிக்கு வெளியே ஆனால் கைக்கெட்டும் தூரத்தில் உருப்படிகளை வைக்க இழுத்து இங்கே போடவும்…">
 <!ENTITY customizeMode.uidensity "அடர்த்தி">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
@@ -985,6 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; உலாவியின் புதிய பதிப்பை பதிவிறக்கவும்">
 
+<!ENTITY updateRestart.message2 "விரைவு மீட்துவக்கத்திற்கு பிறகு, அந்தரங்க உலாவலில் அல்லாத திறந்திருந்த கீற்றுகள் சாளரங்கள் மீட்டமைக்கப்படும்.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
 <!ENTITY updateRestart.acceptButton.label "மீள்துவக்கி மீட்டமை">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -1001,7 +982,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 <!ENTITY pageAction.addToUrlbar.label "முகவரி பட்டையில் சேர்">
 <!ENTITY pageAction.removeFromUrlbar.label "முகவரி பட்டையிலிருந்து நீக்கு">
-
 <!ENTITY pageAction.allowInUrlbar.label "முகவரி பட்டையில் காண்பி">
 <!ENTITY pageAction.disallowInUrlbar.label "முகவரி பட்டையில் காட்டாதே">
 <!ENTITY pageAction.manageExtension.label "நீட்சிகளை நிர்வகி…">
