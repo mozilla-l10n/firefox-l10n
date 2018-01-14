@@ -18,7 +18,7 @@
 <!ENTITY pref.categories.name.label "სახელი">
 <!ENTITY pref.categories.color.label "ფერი">
 <!ENTITY pref.categories.usecolor.label "ფერის გამოყენება">
-<!ENTITY pref.categories.none.label "(არა)">
+<!ENTITY pref.categories.none.label "(არცერთი)">
 <!ENTITY pref.categories.overwrite "კატეგორია ამ სახელით უკვე არსებობს. \n გნებავთ მისი ჩანაცვლება?">
 <!ENTITY pref.categories.overwrite.title "გაფრთხილება: ერთნაირი დასახელება">
 <!ENTITY pref.categories.noBlankCategories "უნდა მიუთითოთ კატეგორიის სახელი.">
