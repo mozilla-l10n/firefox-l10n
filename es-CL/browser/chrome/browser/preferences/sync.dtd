@@ -75,7 +75,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Olvidar este email">
 <!ENTITY forget.accesskey            "F">
 
+<!ENTITY resendVerification.label     "Reenviar verificación">
 <!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Cancelar instalación">
 <!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Lleva la Web contigo">
