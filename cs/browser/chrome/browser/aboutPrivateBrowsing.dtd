@@ -11,18 +11,18 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Při použití anonymního okna Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "neukládá">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
-<!ENTITY aboutPrivateBrowsing.info.visited               "Navštívené stránky">
-<!ENTITY aboutPrivateBrowsing.info.searches              "Vyhledávání">
-<!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Dočasné soubory">
+<!ENTITY aboutPrivateBrowsing.info.visited               "navštívené stránky">
+<!ENTITY aboutPrivateBrowsing.info.searches              "vyhledávání">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "dočasné soubory">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "bude ukládat">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " vaše:">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "Stahování">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Záložky">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "stahování">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "záložky">
 <!ENTITY aboutPrivateBrowsing.note.before                "Ani s funkcí anonymního prohlížení ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ale nebudete na internetu zcela neviditelní.">
-<!ENTITY aboutPrivateBrowsing.note.after                 " Váš zaměstnavatel nebo poskytovatel internetu mohou stále zjistit, jaké stránky navštěvujete.">
+<!ENTITY aboutPrivateBrowsing.note.after                 " Váš zaměstnavatel nebo poskytovatel připojení k internetu mohou stále zjistit, které stránky navštěvujete.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Zjistit více o ">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "anonymním prohlížení">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
