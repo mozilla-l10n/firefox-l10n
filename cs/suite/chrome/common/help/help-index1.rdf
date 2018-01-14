@@ -126,6 +126,11 @@
        <rdf:Description ID="add-ons:manager"
          nc:name="Add-ons Manager"
          nc:link="customize_help.xhtml#using_the_add-ons_manager"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="add-ons:converter"
+         nc:name="Add-on Converter"
+         nc:link="customize_help.xhtml#using_the_add-on_converter"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -351,11 +356,6 @@
        <rdf:Description ID="copy web pages"
          nc:name="copy"
          nc:link="nav_help.xhtml#copying_saving_and_printing_pages"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs"
-         nc:name="CRLs"
-         nc:link="using_certs_help.xhtml#how_validation_works"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Customizing"
@@ -605,42 +605,22 @@
    </nc:subheadings>
 </rdf:Description>
 
-<rdf:Description about="#CRLs">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="CRLs:about"
-         nc:name="about CRLs"
-         nc:link="using_certs_help.xhtml#how_validation_works"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:auto_upates_for"
-         nc:name="CRL auto update"
-         nc:link="validation_help.xhtml#automatic_crl_update_preferences"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:managing"
-         nc:name="managing CRLs"
-         nc:link="validation_help.xhtml#manage_crls"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:Next_Update_date"
-         nc:name="Next Update date"
-         nc:link="using_certs_help.xhtml#about_the_next_update_date"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="CRLs:preferences"
-         nc:name="CRL preferences"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
 <rdf:Description about="help-indexAZ.rdf#d">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
        <rdf:Description ID="default_account"
          nc:name="default account"
          nc:link="mailnews_getting_started.xhtml#set_as_default"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="Developer_Tools"
+         nc:name="Developer Tools"
+         nc:link="developer_tools.xhtml#devtools"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="WebIDE"
+         nc:name="WebIDE"
+         nc:link="developer_tools.xhtml#webide"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="device_manager"
@@ -934,11 +914,6 @@
          nc:link="certs_help.xhtml#your_certificates"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="import:crls"
-         nc:name="import CRLs"
-         nc:link="using_certs_help.xhtml#importing_crls"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="import:feeds"
          nc:name="import feeds"
          nc:link="mailnews_blogs_and_feeds.xhtml#exporting_and_importing_feeds"/>
@@ -961,11 +936,6 @@
      <rdf:li>
        <rdf:Description ID="JavaScript"
          nc:name="JavaScript"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Venkman"
-         nc:name="JavaScript Debugger"
-         nc:link="developer_tools.xhtml#venkman"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1046,6 +1016,11 @@
        <rdf:Description ID="LDAP"
          nc:name="LDAP"
          nc:link="mailnews_addressbooks.xhtml#adding_and_removing_ldap_directories"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="location_aware_browsing"
+         nc:name="location aware browsing preferences"
+         nc:link="privsec_help.xhtml#location_aware_browsing"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="lock_icon"
@@ -1156,11 +1131,6 @@
        <rdf:Description ID="Mail_and_Newsgroups:changing_account_settings"
          nc:name="changing account settings"
          nc:link="mailnews_getting_started.xhtml#changing_the_settings_for_an_account"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="Mail_and_Newsgroups:Character_Encoding"
-         nc:name="Character Encoding"
-         nc:link="mailnews_preferences.xhtml#character_encoding"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:Compose_window"
@@ -1288,9 +1258,9 @@
          nc:link="mailnews_using_mail.xhtml#saving_attachments"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="Mail_and_Newsgroups:saving_messages_drafts"
-         nc:name="saving messages drafts"
-         nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_message_draft"/>
+       <rdf:Description ID="Mail_and_Newsgroups:saving_draft_messages"
+         nc:name="saving draft messages"
+         nc:link="mailnews_using_mail.xhtml#saving_and_editing_a_draft_message"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sending_messages"
@@ -1306,6 +1276,11 @@
        <rdf:Description ID="Mail_and_Newsgroups:SMTP_settings"
          nc:name="SMTP settings"
          nc:link="mailnews_account_settings.xhtml#outgoing_server"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="Mail_and_Newsgroups:Text_Encoding"
+         nc:name="Text Encoding"
+         nc:link="mailnews_preferences.xhtml#text_encoding"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="Mail_and_Newsgroups:sorting_and_threading_messages"
@@ -1357,11 +1332,6 @@
          nc:name="Master Password Preferences"
          nc:link="passwords_help.xhtml#master_passwords"/>
      </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="master_password:timeout"
-         nc:name="Master Password Timeout"
-         nc:link="passwords_help.xhtml#master_password_timeout"/>
-     </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -1398,11 +1368,6 @@
 <rdf:Description about="help-indexAZ.rdf#o">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
-       <rdf:Description ID="OSCP"
-         nc:name="OSCP"
-         nc:link="using_certs_help.xhtml#how_validation_works"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="Offline"
          nc:name="Offline"/>
      </rdf:li>
@@ -1551,11 +1516,6 @@
          nc:name="Remembering Automatically"
          nc:link="using_priv_help.xhtml#using_the_password_manager"/>
      </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="passwords:timeout_for_master_password"
-         nc:name="Timeout for Master Password"
-         nc:link="passwords_help.xhtml#master_password_timeout"/>
-     </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
 
@@ -1697,19 +1657,14 @@
          nc:link="privsec_help.xhtml"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="preferences:SSL"
-         nc:name="SSL preferences"
-         nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/>
+       <rdf:Description ID="preferences:SSLTLS"
+         nc:name="SSL/TLS preferences"
+         nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssltls"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:Tabbed_Browsing"
          nc:name="Tabbed Browsing preferences"
          nc:link="cs_nav_prefs_navigator.xhtml#tabbed_browsing"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="preferences:validation"
-         nc:name="validation preferences"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1893,8 +1848,8 @@
          nc:link="using_certs_help.xhtml#managing_smart_cards_and_other_security_devices"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="SSL"
-         nc:name="SSL"
+       <rdf:Description ID="SSLTLS"
+         nc:name="SSL/TLS"
          nc:link="ssl_help.xhtml"/>
      </rdf:li>
      <rdf:li>
@@ -1928,11 +1883,6 @@
 <rdf:Description about="#search">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
-       <rdf:Description ID="search:Advanced_mode"
-         nc:name="Sidebar Advanced Search Mode"
-         nc:link="nav_help.xhtml#sidebar_advanced_search_mode"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="search:bookmarks"
          nc:name="search bookmarks"
          nc:link="nav_help.xhtml#searching_the_bookmarks_or_history_list"/>
@@ -2003,14 +1953,9 @@
          nc:link="mailnews_account_settings.xhtml#security"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="settings:SSL"
-         nc:name="SSL settings"
-         nc:link="ssl_help.xhtml#ssl_settings"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="settings:validation"
-         nc:name="validation settings"
-         nc:link="validation_help.xhtml#validation_settings"/>
+       <rdf:Description ID="settings:SSLTLS"
+         nc:name="SSL/TLS settings"
+         nc:link="ssl_help.xhtml#ssltls_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -2080,17 +2025,27 @@
    </nc:subheadings>
 </rdf:Description>
 
-<rdf:Description about="#SSL">
+<rdf:Description about="#SSLTLS">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
-       <rdf:Description ID="SSL:preferences"
-         nc:name="SSL preferences"
-         nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/>
+       <rdf:Description ID="SSLTLS:preferences"
+         nc:name="SSL/TLS preferences"
+         nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssltls"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="SSL:protocols"
-         nc:name="SSL protocols"
-         nc:link="ssl_help.xhtml#ssl_protocol_versions"/>
+       <rdf:Description ID="SSLTLS:protocols"
+         nc:name="SSL/TLS protocols"
+         nc:link="ssl_help.xhtml#ssltls_protocol_versions"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="SSLTLS:warnings"
+         nc:name="SSL/TLS warnings"
+         nc:link="ssl_help.xhtml#ssltls_warnings"/>
+     </rdf:li>
+     <rdf:li>
+       <rdf:Description ID="SSLTLS:mixed_content"
+         nc:name="mixed content"
+         nc:link="ssl_help.xhtml#mixed_content"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -2182,6 +2137,11 @@
          nc:link="customize_help.xhtml#hiding_a_toolbar"/>
      </rdf:li>
      <rdf:li>
+       <rdf:Description ID="toolbar:menu_bar"
+         nc:name="menu bar"
+         nc:link="customize_help.xhtml#menu_bar"/>
+     </rdf:li>
+     <rdf:li>
        <rdf:Description ID="toolbar:navigation_toolbar"
          nc:name="navigation toolbar"
          nc:link="customize_help.xhtml#navigation_toolbar"/>
@@ -2232,29 +2192,14 @@
          nc:link="using_certs_help.xhtml#how_validation_works"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="validation:auto_updating_CRLs"
-         nc:name="auto updating CRLs"
-         nc:link="validation_help.xhtml#automatic_crl_update_preferences"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="validation:CRLs"
-         nc:name="CRLs"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
-     </rdf:li>
-     <rdf:li>
-       <rdf:Description ID="validation:managing_CRLs"
-         nc:name="managing CRLs"
-         nc:link="validation_help.xhtml#manage_crls"/>
-     </rdf:li>
-     <rdf:li>
        <rdf:Description ID="validation:OCSP"
          nc:name="OCSP"
-         nc:link="validation_help.xhtml#privacy_and_security_preferences_validation"/>
+         nc:link="certs_prefs_help.xhtml#ocsp"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="validation:settings"
          nc:name="validation settings"
-         nc:link="validation_help.xhtml#validation_settings"/>
+         nc:link="certs_prefs_help.xhtml#privacy_and_security_preferences_certificates"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
