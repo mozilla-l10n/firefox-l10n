@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Ireki leiho berriak fitxa berrietan">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY newWindowsAsTabs2.label       "Ireki loturak fitxa gisa eta ez leiho berrietan">
-<!ENTITY newWindowsAsTabs2.accesskey   "h">
+<!ENTITY newWindowsAsTabs3.label       "Ireki loturak fitxetan eta ez leiho berrietan">
+<!ENTITY newWindowsAsTabs3.accesskey   "x">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Abisatu hainbat fitxa ixterakoan">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "b">
