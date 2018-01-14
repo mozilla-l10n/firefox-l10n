@@ -12,7 +12,7 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Recèrca de las mesas a jorn">
+<!ENTITY update.checkForUpdatesButton.label       "Cercar de mesas a jorn">
 <!ENTITY update.checkForUpdatesButton.accesskey   "R">
 <!ENTITY update.updateButton.label3               "Reaviar per metre a jorn &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
