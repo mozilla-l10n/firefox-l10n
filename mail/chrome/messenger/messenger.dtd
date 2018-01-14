@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Upravit koncept zprávy">
 <!ENTITY editDraftMsgCmd.accesskey "k">
+<!ENTITY editTemplateMsgCmd.label "Upravit šablonu">
+<!ENTITY editTemplateMsgCmd.accesskey "p">
 <!ENTITY newMsgFromTemplateCmd.label "Nová zpráva ze šablony">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Vytvořit filtr ze zprávy…">
@@ -461,6 +463,10 @@
 <!ENTITY addons.label "Doplňky">
 <!ENTITY addons.accesskey "D">
 <!ENTITY addonPrefs.label "Nastavení doplňku">
+<!ENTITY addonPrefs.accesskey "o">
+<!ENTITY addonPrefsUnix.label "Předvolby doplňku">
+<!ENTITY addonPrefsUnix.accesskey "o">
+<!ENTITY addonNoPrefs.label "Nebyla nalezena žádná nastavení doplňku.">
 <!ENTITY activitymanager.label "Správce aktivit">
 <!ENTITY activitymanager.accesskey "k">
 <!ENTITY imAccountsStatus.label "Stav chatu">
@@ -506,6 +512,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Debugger doplňků">
 <!ENTITY addonDebugCmd.accesskey "p">
+<!ENTITY debugAddonsCmd.label "Ladit doplňky">
+<!ENTITY debugAddonsCmd.accesskey "L">
 <!ENTITY tabsDebugCmd.label "Debugger obsahu rámců">
 <!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Chybová konzole">
@@ -754,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Upravit jako novou zprávu">
 <!ENTITY contextEditMsgAsNew.accesskey "U">
 <!ENTITY contextEditDraftMsg.label "Upravit koncept zprávy">
+<!ENTITY contextEditTemplate.label "Upravit šablonu">
+<!ENTITY contextEditTemplate.accesskey "p">
 <!ENTITY contextArchive.label "Archivovat">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Odpovědět pouze odesílateli">
