@@ -7,17 +7,13 @@
 <!ENTITY  trackingProtection2.radioGroupLabel  "Utilizar la proteccion contra lo pistatge per blocar los traçadors coneguts">
 <!ENTITY  trackingProtectionAlways.label       "Totjorn">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
-<!ENTITY  trackingProtectionPrivate.label      "Soque las fenèstras privadas">
+<!ENTITY  trackingProtectionPrivate.label      "Sonque las fenèstras privadas">
 <!ENTITY  trackingProtectionPrivate.accesskey  "q">
-<!ENTITY  trackingProtectionNever.label        "Pas jamai">
+<!ENTITY  trackingProtectionNever.label        "Jamai">
 <!ENTITY  trackingProtectionNever.accesskey    "j">
 <!ENTITY  trackingProtectionLearnMore.label    "Ne saber mai">
 <!ENTITY  trackingProtectionExceptions.label   "Excepcions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Utilizar la proteccion contra lo pistatge dins las fenèstras privadas">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Utilizar la proteccion contra lo pistatge dins la navigacion privada per blocar los traçadors coneguts">
