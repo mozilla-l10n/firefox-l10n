@@ -8,8 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Ldi asfaylu amaynut deg yiccer-nniḍen ">
 <!ENTITY newWindowsAsTabs.accesskey   "d">
 
-<!ENTITY newWindowsAsTabs2.label       "Lddi iseɣwan deg iccaren deg wadig n ifuyla">
-<!ENTITY newWindowsAsTabs2.accesskey   "w">
+<!ENTITY newWindowsAsTabs3.label       "Lddi iseɣwan deg iccaren deg wadig n ifuyla">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Lɣu ticki medlen deqs n yiccaren">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "L">
