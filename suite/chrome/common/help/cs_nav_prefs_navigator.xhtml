@@ -166,6 +166,8 @@
   </li>
   <li><strong>Location Bar History</strong>:
     <ul>
+      <li><strong>Enable Location Bar history</strong>: Check this to enable
+        &brandShortName; to keep the location bar history.</li>
       <li><strong>Clear Location Bar</strong>: Click this to clear the list of
         websites in the Location bar menu.</li>
     </ul>
@@ -202,7 +204,7 @@
 </ol>
 
 <p>The Languages preferences panel allows you to choose the languages and
-  character encoding for displaying web pages:</p>
+  text encoding for displaying web pages:</p>
 
 <ul>
   <li><strong>Languages for Web Pages</strong>:
@@ -223,11 +225,14 @@
         language.</li>
     </ul>
   </li>
-  <li><strong>Character Encoding</strong>:
+  <li><strong>Text Encoding for Legacy Content</strong>:
     <ul>
-      <li><strong>Default Character Encoding</strong>: Use the drop-down list
-        to select the character encoding you want for displaying web
-        pages.</li>
+      <li><strong>Fallback Text Encoding</strong>: Web pages are supposed to
+        declare the text encoding in which they are to be displayed, but legacy
+        content may not do so. Use the drop-down list to select the default
+        text encoding to be used for such web pages. This setting does not
+        affect any web pages which properly declare their encoding.
+      </li>
     </ul>
   </li>
 </ul>
@@ -356,6 +361,9 @@
             matching results from locations on your hard drive will still be
             shown in the drop-down list.</span></li>
         </ul></li>
+      <li><strong>Show default Internet search engine</strong>: Shows a drop-down
+        list item, allowing you to search with the default search engine for
+        words you enter.</li>
     </ul>
   </li>
   <li><strong>Formatting</strong>:
@@ -363,13 +371,9 @@
       <li><strong>Highlight the effective domain for websites and FTP
         servers</strong>: Grays out all of the URL except for the effective
         domain, so that it is clear which site you are visiting.</li>
-    </ul>
-  </li>
-  <li><strong>Internet Search Engine</strong>:
-    <ul>
-      <li><strong>Show default search engine</strong>: Shows a drop-down list item,
-        allowing you to search with the default search engine for words you
-        enter.</li>
+      <li><strong>Highlight web pages with a high level of connection
+        security</strong>: Colorizes the location bar for the next page
+        loaded if all of its components are fully encrypted.</li>
     </ul>
   </li>
   <li><strong>Unknown Locations</strong>
@@ -504,6 +508,18 @@
         the URL of the page in the Location Bar and press
         <kbd class="mac">Cmd</kbd><kbd class="noMac">Ctrl</kbd>+<kbd
         class="mac">Return</kbd><kbd class="noMac">Enter</kbd>.</li>
+    </ul>
+  </li>
+  <li><strong>Open in a new tab instead of a stand-alone window</strong>:
+    <ul>
+      <!-- link to Data Manager description once bug 599097 is fixed -->
+      <li><strong>Data Manager</strong>: Select this to open the Data Manager
+        in a browser tab. If unchecked, it will open in a separate dialog
+        window.</li>
+      <li><strong>Add-ons Manager</strong>: Select this to open the
+        <a href="customize_help.xhtml#using_the_add-ons_manager">Add-ons
+        Manager</a> in a browser tab. If unchecked, it will open in a separate
+        dialog window.</li>
     </ul>
   </li>
 </ul>

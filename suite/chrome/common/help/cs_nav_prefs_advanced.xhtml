@@ -325,27 +325,36 @@
   following functions:</p>
 
 <ul>
-  <li><strong>Your application cache is currently using [__] of disk
-    space</strong>: This entry is informational and provides you with an
-    estimate of the offline data currently used by all web applications
-    combined.</li>
+  <li><strong>Your offline storage currently uses [__] of disk space</strong>:
+    This entry is informational and provides you with an estimate of the
+    offline data currently used by all web applications combined.</li>
   <li><strong>Clear</strong>: Immediately clears data that has been saved
     by all websites for use when you are offline.</li>
-  <li><strong>Notify me when a website wants to store data for offline
+  <li><strong>Allow all websites to store data for offline use</strong>: Select
+    this option if you want to permit websites by default to store web content
+    and user data locally on the disk of your computer.</li>
+  <li><strong>Only allow websites with explicit permissions</strong>: Select
+    this option if you want to control whether or not a website can store web
+    content for offline use locally. Unless explicit permission has been
+    granted, the website&apos;s request to access the offline storage is
+    blocked or a notification shown to give you the option to allow it.</li>
+  <li><strong>Notify me when websites want to store data for offline
     use</strong>: Check this box if you want to be notified when a website
-    wants to utilize the offline feature but does not currently have the
-    permissions to do so. An information bar will appear for this site with
-    the following options:
+    requests to store content or data in the offline storage but does not
+    currently have any permissions set whether or not it is allowed to do so.
+    An information bar will appear for this site offering the following options:
     <ul>
-      <li><strong>Allow</strong>: Permanently allow this site the use of the
-        offline storage for this and future accesses.</li>
+      <li><strong>Always Allow</strong>: Permanently allow this site the use
+        of the offline storage for this and future accesses.</li>
       <li><strong>Never for This Site</strong>: Permanently deny this site
         the use of the offline storage for this and future accesses.</li>
       <li><strong>Not Now</strong>: Deny this site the use of the offline
         storage for this request but ask again for future accesses.</li>
     </ul>
-    <p><strong>Note</strong>: If the notification box is <em>not</em> checked,
-      &brandShortName; will proceed as if <q>Not Now</q> was selected.</p>
+    <p><strong>Note</strong>: The offline storage is <em>not</em> available in
+      a <a href="using_priv_help.xhtml#browsing_in_a_private_window">private
+      window</a>. You will receive a notification if this option is checked,
+      but all requests will be blocked.</p>
   </li>
   <!-- NOTE: link "Data Manager" below once bug 599097 has been fixed -->
   <li><strong>Manage Permissions</strong>: Opens the Data Manager in a new
@@ -362,10 +371,10 @@
         the use of the offline storage for all accesses.</li>
     </ul>
   </li>
-  <li><strong>The following websites are allowed to store data for offline
-    use</strong>: Lists the domains of all websites which have stored offline
-    data, along with the amount of data currently used by this domain.</li>
-  <li><strong>Clear data</strong>: Select a website domain and click this
+  <li><strong>The following websites are using offline storage</strong>:
+    Lists the domains of all websites which have stored offline data, along
+    with the amount of data currently used by this domain.</li>
+  <li><strong>Clear Data</strong>: Select a website domain and click this
     button to delete all offline data for the specified domain. Click <q>Remove
     offline data</q> after being prompted for confirmation to do so.</li>
 </ul>
@@ -477,29 +486,30 @@
     Choose the HTTP version and options for direct and proxy connections.
     <ul>
       <li><strong>Use HTTP 1.0</strong>: Choose this to use the original
-        version of HTTP, standardized in 1996.</li>
-      <li><strong>Use HTTP 1.1</strong>: Choose this to use the new version of
-        HTTP, which offers performance enhancements, including more efficient
-        use of HTTP connections, better support for client-side caching,
-        multiple HTTP requests (pipelining), and more refined control over
-        cache expiration and replacement policies.</li>
-      <li><strong>Enable Pipelining</strong>: Select this to
-        enable pipelining, which allows for more than one HTTP request to be
-        sent to the server at once, reducing delays loading web pages.
-
-        <p><strong>Note</strong>: Pipelining is only available with 
-          HTTP 1.1.</p></li>
+        version of HTTP, standardized in 1996. This setting is mostly intended
+        for compatibility reasons with proxy or older web servers.</li>
+      <li><strong>Use HTTP 1.1</strong>: Choose this to use the current version
+        of HTTP, which offers performance enhancements, including more efficient
+        use of HTTP connections, better support for client-side caching, and
+        more refined control over cache expiration and replacement policies.</li>
     </ul>
   </li>
   <li><strong>User Agent String</strong>:
     The identifier sent by &brandShortName; to all websites is used for
     statistics about website usage but also sometimes to expose certain features
-    only to known browsers (a practice known as "sniffing").
+    only to known browsers (a practice known as "sniffing"). Consequently,
+    unchecking any of these boxes may result in websites or remote calendar
+    services not working properly.
     <ul>
       <li><strong>Advertise Firefox compatibility</strong>: If this is enabled,
         &brandShortName; will identify itself as both &brandShortName; and also
         compatible with Firefox. This allows websites that check for certain
         browsers rather than certain functionality to work with &brandShortName;.</li>
+      <li><strong>Advertise Lightning installation</strong>: This option is
+        only available when the Lightning calendar extension is installed and
+        activated. If this is enabled, &brandShortName; will add information on
+        Lightning being installed and which version, thus calendaring websites
+        and/or remote calendar services can customize their communication.</li>
     </ul>
   </li>
 </ul>
@@ -575,11 +585,6 @@
             will happen in the background, with low priority. After the download
             has finished the update to &brandShortName; will be installed
             automatically the next time you start it.</li>
-          <li><strong>Warn me if this will disable any of my add-ons</strong>:
-            Select this to be notified if an automatic update will disable any
-            of your installed add-ons. In that case you will be shown a list
-            of incompatible add-ons and you can choose whether you want to
-            download and install the update or not.</li>
         </ul>
         <p><strong>Note</strong>: You can use Check for Updates from the
           <span class="mac">&brandShortName;</span><span class="noMac">Help</span>
