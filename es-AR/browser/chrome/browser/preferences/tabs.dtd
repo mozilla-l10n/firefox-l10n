@@ -9,7 +9,7 @@
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY newWindowsAsTabs3.label       "Abrir enlaces en pestañas en lugar de ventanas nuevas">
-<!ENTITY newWindowsAsTabs3.accesskey   "w">
+<!ENTITY newWindowsAsTabs3.accesskey   "b">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Avisarme cuando cierre múltiples pestañas">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
