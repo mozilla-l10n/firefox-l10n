@@ -30,7 +30,7 @@
 <!ENTITY pref.numberofweeks.accesskey "ს">
 <!ENTITY pref.numberofpreviousweeks.label "წინა საჩვენებელი კვირების რაოდენობა:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "წ">
-<!ENTITY pref.numberofweeks.0 "არა">
+<!ENTITY pref.numberofweeks.0 "არცერთი">
 <!ENTITY pref.numberofweeks.1 "1 კვირა">
 <!ENTITY pref.numberofweeks.2 "2 კვირა">
 <!ENTITY pref.numberofweeks.3 "3 კვირა">
