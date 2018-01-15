@@ -75,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Panely">
 <!ENTITY runtimePanel_usb "USB zařízení">
 <!ENTITY runtimePanel_wifi "Wi-Fi zařízení">
-<!ENTITY runtimePanel_simulator "Simulátory">
 <!ENTITY runtimePanel_other "Ostatní">
-<!ENTITY runtimePanel_installsimulator "Instalovat simulátor">
 <!ENTITY runtimePanel_noadbhelper "Instalovat ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nevidíte své zařízení?">
 <!ENTITY runtimePanel_refreshDevices_label "Obnovit zařízení">
@@ -174,19 +172,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Protokol příkazů před zabalením">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Možnosti Simulátoru">
-<!ENTITY simulator_remove "Odstranit Simulátor">
-<!ENTITY simulator_reset "Obnovit výchozí">
-<!ENTITY simulator_name "Jméno">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Verze">
-<!ENTITY simulator_profile "Profil">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Zařízení">
-<!ENTITY simulator_screenSize "Obrazovka">
-<!ENTITY simulator_pixelRatio "Poměr pixelů">
-<!ENTITY simulator_tv_data "Simulace TV">
-<!ENTITY simulator_tv_data_open "Konfigurační data">
-<!ENTITY simulator_tv_data_open_button "Otevřít adresář s konfigurací…">

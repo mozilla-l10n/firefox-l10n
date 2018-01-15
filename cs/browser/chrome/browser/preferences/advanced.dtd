@@ -51,8 +51,6 @@ available. -->
 
 <!ENTITY httpCache.label                 "Mezipaměť webových stránek">
 
-<!ENTITY offlineStorage2.label           "Offline obsah a uživatelská data">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Data stránek">
 <!ENTITY clearSiteData.label             "Vymazat data">
@@ -72,8 +70,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Vymazat">
 <!ENTITY clearCacheNow.accesskey         "V">
-<!ENTITY clearOfflineAppCacheNow.label   "Vymazat">
-<!ENTITY clearOfflineAppCacheNow.accesskey "y">
 <!ENTITY overrideSmartCacheSize.label    "Nepoužívat automatickou správu mezipaměti">
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 
@@ -110,17 +106,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Automaticky aktualizovat vyhledávací moduly">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Upozornit, pokud server chce uložit obsah pro použití v režimu offline">
-<!ENTITY offlineStorageNotify.accesskey           "U">
-<!ENTITY offlineStorageNotifyExceptions.label     "Výjimky…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "k">
-
-<!ENTITY offlineAppsList3.label          "Následující servery mají povoleno ukládat obsah pro použití v režimu offline">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Odebrat…">
-<!ENTITY offlineAppsListRemove.accesskey "d">
-<!ENTITY offlineAppRemove.confirm        "Smazat offline obsah">
 
 <!ENTITY certificateTab.label            "Certifikáty">
 <!ENTITY certPersonal2.description       "Pokud server vyžaduje váš osobní certifikát">
