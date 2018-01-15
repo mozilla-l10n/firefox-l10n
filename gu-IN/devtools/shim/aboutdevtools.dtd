@@ -16,6 +16,7 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Firefox વિકાસકર્તા સાધનોને સક્ષમ કરો">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
@@ -40,6 +41,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "Firefox ડેવલોપર ટૂલ્સ તમારા બ્રાઉઝર પર વધુ નિયંત્રણ આપવા માટે ડિફૉલ્ટ રૂપે અક્ષમ કરેલ છે.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
