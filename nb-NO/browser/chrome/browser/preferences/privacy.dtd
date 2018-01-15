@@ -14,6 +14,7 @@
 <!ENTITY  trackingProtectionNever.label        "Aldri">
 <!ENTITY  trackingProtectionNever.accesskey    "A">
 <!ENTITY  trackingProtectionLearnMore.label    "Les mer">
+<!ENTITY  trackingProtectionLearnMore2.label    "Les mer om sporingsbeskyttelse og ditt personvern">
 <!ENTITY  trackingProtectionExceptions.label   "Unntak …">
 <!ENTITY  trackingProtectionExceptions.accesskey "U">
 
