@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Paparkan dialog peringatan">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "d">
 <!ENTITY pref.missedalarms "Papar peringatan yang terlepas">
+<!ENTITY pref.missedalarms2 "Papar peringatan yang terlepas untuk kalendar boleh tulis">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "t">
 <!ENTITY pref.calendar.alarms.defaults.label "Piawai Peringatan">
 <!ENTITY pref.defalarm4events.label "Tetapan peringatan piawai untuk acara:">
