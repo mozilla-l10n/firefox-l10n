@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "შეხსენების დაფის ჩვენება">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "შ">
 <!ENTITY pref.missedalarms "გამოტოვებული შეხსენებების ჩვენება">
+<!ENTITY pref.missedalarms2 "გამოტოვებული შეხსენებების ჩვენება, ჩასაწერ კალენდრებზე">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "გ">
 <!ENTITY pref.calendar.alarms.defaults.label "ნაგულისხმები პარამეტრები">
 <!ENTITY pref.defalarm4events.label "შეხსენების ნაგულისხმევი პარამეტრები ამ ღონისძიებისთვის:">
