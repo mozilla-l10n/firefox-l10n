@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Seurannan suojaus">
 <!ENTITY  trackingProtection2.description      "Seuranta on selaustietojen keräämistä useiden sivustojen yli. Seurantaa voidaan käyttää profilointiin ja näyttämään sisältöä selaus- ja henkilötietojesi perusteella.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Käytä seurannan suojausta estämään tunnettuja seurantamenetelmiä">
+<!ENTITY  trackingProtection3.description      "Seurannan suojaus estää verkossa toimivia seurantamenetelmiä, jotka keräävät tietoja selaamisestasi yli sivustorajojen.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Käytä seurannan suojausta estämään tunnettuja seurantamenetelmiä">
 <!ENTITY  trackingProtectionAlways.label       "Aina">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Vain yksityisen selaamisen ikkunoissa">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Ei koskaan">
 <!ENTITY  trackingProtectionNever.accesskey    "E">
 <!ENTITY  trackingProtectionLearnMore.label    "Lue lisää">
+<!ENTITY  trackingProtectionLearnMore2.label    "Lue lisää seurannan suojauksesta ja tietosuojastasi">
 <!ENTITY  trackingProtectionExceptions.label   "Poikkeukset…">
 <!ENTITY  trackingProtectionExceptions.accesskey "P">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Käytä seurannan suojausta yksityisen selaamisen ikkunoissa">
-<!ENTITY trackingProtectionPBM5.accesskey     "y">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Käytä seurannan suojausta yksityisessä selauksessa estämään tunnettuja seurantamenetelmiä">
 <!ENTITY trackingProtectionPBM6.accesskey     "m">
 <!ENTITY trackingProtectionPBMLearnMore.label "Lue lisää">
