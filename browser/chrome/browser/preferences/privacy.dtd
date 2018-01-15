@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Perlindungan Penjejakan">
 <!ENTITY  trackingProtection2.description      "Penjejakan ialah pengumpulan data pelyaran anda dalam pelbagai laman web. Penjejakan boleh digunakan untuk membina profil dan memaparkan kandungan berdasarkan maklumat pelayaran dan peribadi anda.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Gunakan Perlindungan Penjejakan untuk menyekat penjejak dikenali">
+<!ENTITY  trackingProtection3.description      "Perlindungan Penjejakan menyekat penjejak atas talian yang mengumpul data pelayaran anda dalam pelbagai laman web.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Gunakan Perlindungan Penjejakan untuk menyekat penjejak dikenali">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Hanya dalam tertingkap persendirian">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Jangan sesekali">
 <!ENTITY  trackingProtectionNever.accesskey    "k">
 <!ENTITY  trackingProtectionLearnMore.label    "Ketahui selanjutnya">
+<!ENTITY  trackingProtectionLearnMore2.label    "Ketahui lebih lanjut perihal Perlindungan Penjejakan dan privasi anda">
 <!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
 <!ENTITY  trackingProtectionExceptions.accesskey "g">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Guna Perlindungan Penjejakan dalam Tetingkap Persendirian">
-<!ENTITY trackingProtectionPBM5.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Gunakan Perlindungan Penjejakan dalam Pelayaran Peribadi untuk menyekat penjejak dikenali">
