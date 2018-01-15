@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Maklumat mengenai url-classifier">
+<!ENTITY aboutUrlClassifier.title                       "Pengelas Maklumat URL">
 <!ENTITY aboutUrlClassifier.providerTitle               "Pengendali">
 <!ENTITY aboutUrlClassifier.provider                    "Pengendali">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Kali terakhir dikemas kini">
