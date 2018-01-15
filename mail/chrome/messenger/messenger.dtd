@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "g">
 <!ENTITY editDraftMsgCmd.label "Golygu Neges Ddrafft">
 <!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY editTemplateMsgCmd.label "Golygu Templed">
+<!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "Neges Newydd o Dempled">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Creu Hidl o'r Neges…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Golygu fel Neges Newydd">
 <!ENTITY contextEditMsgAsNew.accesskey "N">
 <!ENTITY contextEditDraftMsg.label "Golygu Neges Ddrafft">
+<!ENTITY contextEditTemplate.label "Golygu Templed">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Archifo">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Ateb i'r Anfonwr yn Unig">
