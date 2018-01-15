@@ -20,7 +20,7 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Bu site bilgisayarınıza zarar verebilir">
-<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; bu sayfayı engelledi, çünkü bu sayfa bilgisayarınızdaki kişisel bilgilerinizi çalabilecek veya silebilecek kötü amaçlı yazılımlar kurmaya çalışabilir.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "Bu sayfa, bilgisayarınızdaki kişisel bilgilerinizi çalabilecek veya silebilecek kötü amaçlı yazılımlar kurmaya çalışabilir. O yüzden &brandShortName; bu sayfayı engelledi.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -28,11 +28,11 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> sitesinin <a id='error_desc_link'>kötü amaçlı yazılımlara ev sahipliği yaptığı rapor edildi</a>. Böyle olmadığını düşünüyorsanız <a id='report_detection'>bunu bildirin</a>.">
 
-<!ENTITY safeb.blocked.malwarePage.learnMore "<a id='learn_more_link'>StopBadware.org</a> adresinden aralarında virüsler ve diğer kötücül yazılımların da bulunduğu içeriklerin neler olduğu ve bilgisayarınızı nasıl koruyabileceğiniz hakkında daha fazla bilgi alın. &brandShortName; uygulamasının yemleme ve kötücül yazılım koruması hakkında daha fazla bilgiye <a id='firefox_support'>support.mozilla.org</a> adresinden ulaşın.">
+<!ENTITY safeb.blocked.malwarePage.learnMore "<a id='learn_more_link'>StopBadware.org</a> adresinden virüsler ve diğer kötü amaçlı yazılımlar gibi zararlı web içerikleri hakkında bilgi alabilir, bilgisayarınızı onlardan korumayı öğrenebilirsiniz. <a id='firefox_support'>support.mozilla.org</a> adresinden &brandShortName; yemleme ve kötü amaçlı yazılım koruması hakkında daha fazla bilgi alabilirsiniz.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Bu sitede zararlı programlar olabilir">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; bu sayfayı engelledi çünkü bu sayfa, gezinti deneyiminizi zarara uğratacak (örn. giriş sayfanızı değiştirerek veya ziyaret ettiğiniz sitelerde daha fazla reklam göstererek) programlar kurmak üzere sizi kandırmaya çalışabilir.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "Bu sayfa, gezinti deneyiminizi zarara uğratacak (örn. giriş sayfanızı değiştirerek veya ziyaret ettiğiniz sitelerde daha fazla reklam göstererek) programlar kurmak üzere sizi kandırmaya çalışabilir. O yüzden &brandShortName; bu sayfayı engelledi.">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -40,11 +40,11 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> sitesinin <a id='error_desc_link'>zararlı yazılım içerdiği rapor edildi</a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "<a id='learn_more_link'>İstenmeyen Yazılım Politikası</a>'ndan zararlı ve istenmeyen yazılımlar hakkında daha fazla bilgiye ulaşın. &brandShortName; uygulamasının yemleme ve kötücül yazılım koruması hakkında daha fazla bilgiye <a id='firefox_support'>support.mozilla.org</a> adresinden ulaşın.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "<a id='learn_more_link'>İstenmeyen Yazılım Politikası</a>’ndan zararlı ve istenmeyen yazılımlar hakkında daha fazla bilgiye ulaşabilirsiniz. <a id='firefox_support'>support.mozilla.org</a> adresinden &brandShortName; yemleme ve kötü amaçlı yazılım koruması hakkında daha fazla bilgi alabilirsiniz.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Aldatıcı site">
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; bu sayfayı engelledi, çünkü bu sayfa sizi kandırarak yazılım kurmanıza veya parolalarınız veya kredi kartı bilgileriniz gibi kişisel bilgilerinizi vermenize neden olabilir.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Bu sayfa, tehlikeli bir yazılım kurmanız ya da parolalarınız veya kredi kartı bilgileriniz gibi kişisel bilgilerinizi vermeniz için sizi kandırmaya çalışabilir. O yüzden &brandShortName; bu sayfayı engelledi.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> sitesinin <a id='error_desc_link'>aldatıcı site olduğu rapor edildi</a>. Böyle olmadığını düşünüyorsanız <a id='report_detection'>bunu bildirin</a> veya <a id='ignore_warning_link'>tehlikeyi göze alarak</a> güvensiz olan bu siteyi ziyaret edin.">

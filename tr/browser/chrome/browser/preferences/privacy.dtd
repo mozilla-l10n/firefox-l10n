@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "İzlenme Koruması">
 <!ENTITY  trackingProtection2.description      "Siz çeşitli sitelerde gezerken gezinti verilerinizin toplanmasına “izlenme” veya “takip” diyoruz. Sizi izleyen kodlar, hangi sitelerde gezdiğinize ve kişisel bilgilerinize dayanarak profilinizi oluşturmak ve size özel reklamlar göstermek için kullanılabilir.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
+<!ENTITY  trackingProtection3.description      "İzlenme Koruması, siz siteler arasında gezinirken hakkınızda veri toplayan çevrimiçi takipçileri engeller.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
 <!ENTITY  trackingProtectionAlways.label       "Her zaman">
 <!ENTITY  trackingProtectionAlways.accesskey   "H">
 <!ENTITY  trackingProtectionPrivate.label      "Yalnızca gizli pencerelerde">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Asla">
 <!ENTITY  trackingProtectionNever.accesskey    "A">
 <!ENTITY  trackingProtectionLearnMore.label    "Daha fazla bilgi al">
+<!ENTITY  trackingProtectionLearnMore2.label    "İzlenme Koruması ve gizliliğiniz hakkında daha fazla bilgi alın">
 <!ENTITY  trackingProtectionExceptions.label   "İstisnalar…">
 <!ENTITY  trackingProtectionExceptions.accesskey "r">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Gizli pencerelerde izlenme korumasını kullan">
-<!ENTITY trackingProtectionPBM5.accesskey     "G">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Gizli Gezinti’de bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
