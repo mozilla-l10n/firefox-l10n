@@ -210,7 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Åpne meldingspanel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Åpne panel for stedsforespørsel">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Åpne meldingspanel for utvidelsesinstallasjon">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Håndter rettigheter for canvas-datautdraging">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Håndter rettigheter for uttrekking av canvas-data">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Åpne meldingspanel for frakoblet data">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Åpne meldingspanel for lagring av passord">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrer bruk av programtillegg">
@@ -231,13 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokkert mikrofonen for dette nettstedet.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blokkert dette nettstedet fra å dele din skjerm.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokkert plasseringsinformasjon for dette nettstedet.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blokkert datalagring for dette nettstedet.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokkert varsler for dette nettstedet.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokkert vedvarende lagring for denne nettsiden.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokkert sprettoppvinduer for dette nettstedet.">
 
-<!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokkert canvas-datauthenting for dette nettstedet.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokkert uttrekking av canvas-data for dette nettstedet.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
 
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nytt privat vindu">
 <!ENTITY newPrivateWindow.accesskey "r">
-<!ENTITY newNonRemoteWindow.label   "Nytt ikke-e10s-vindu">
 
 <!ENTITY editMenu.label         "Rediger">
 <!ENTITY editMenu.accesskey       "R">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Tilpass">
-<!ENTITY appMenuCustomize.tooltip "Tilpass meny og verktøylinjer">
-<!ENTITY appMenuCustomizeExit.label "Avslutt tilpasning">
-<!ENTITY appMenuCustomizeExit.tooltip "Fullfør tilpasning">
-
 <!ENTITY appMenuHistory.showAll.label "Vis all historikk">
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nylig historikk …">
 <!ENTITY appMenuHistory.restoreSession.label "Gjenopprett forrige programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
 <!ENTITY appMenuHistory.recentHistory.label "Nylig historikk">
 <!ENTITY appMenuHelp.label "Hjelp">
-<!ENTITY appMenuHelp.tooltip "Åpne hjelpemeny">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserte faner">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Utvidelse:">
 <!ENTITY urlbar.switchToTab.label     "Bytt til fane:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Vil du forbedre søkeopplevelsen med søkeforslag?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Les mer …">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nei">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "a">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tips:">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Vanlig">
 <!ENTITY pageStylePersistentOnly.accesskey "V">
 
-<!ENTITY pageReportIcon.tooltip            "Endre innstillinger for sprettoppvindublokkering for dette nettstedet">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Synkroniser">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Dra dine favorittobjekt til verktøylinjen eller overflytsmenyen.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha flere verktøy?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Velg fra tusenvis av utvidelser">
 <!ENTITY customizeMode.restoreDefaults "Tilbakestill standarder">
 <!ENTITY customizeMode.done "Ferdig">
 <!ENTITY customizeMode.titlebar "Tittellinje">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent flere temaer">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "H">
-<!ENTITY customizeMode.emptyOverflowList.description "Dra og slipp elementer her for å ha dem innen rekkevidde, men ute av verktøylinja…">
 <!ENTITY customizeMode.overflowList.title2 "Overflytsmeny">
 <!ENTITY customizeMode.overflowList.description "Dra og slipp elementer her for å ha dem innen rekkevidde, men ute av verktøylinja…">
 <!ENTITY customizeMode.uidensity "Tetthet">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinjen">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinjen">
-
 <!ENTITY pageAction.allowInUrlbar.label "Vis i adresselinjen">
 <!ENTITY pageAction.disallowInUrlbar.label "Ikke vis i adresselinjen">
 <!ENTITY pageAction.manageExtension.label "Behandle utvidelser…">
