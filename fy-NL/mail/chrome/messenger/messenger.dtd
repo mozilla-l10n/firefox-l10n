@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Konseptberjocht bewurkje">
 <!ENTITY editDraftMsgCmd.accesskey "o">
+<!ENTITY editTemplateMsgCmd.label "Sjabloan bewurkje">
+<!ENTITY editTemplateMsgCmd.accesskey "S">
 <!ENTITY newMsgFromTemplateCmd.label "Nij berjocht fan sjabloan">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Filter meitsje op basis fan berjocht…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "As nij berjocht bewurkje">
 <!ENTITY contextEditMsgAsNew.accesskey "b">
 <!ENTITY contextEditDraftMsg.label "Konseptberjocht bewurkje">
+<!ENTITY contextEditTemplate.label "Sjabloan bewurkje">
+<!ENTITY contextEditTemplate.accesskey "S">
 <!ENTITY contextArchive.label "Argivearje">
 <!ENTITY contextArchive.accesskey "g">
 <!ENTITY contextReplySender.label "Ofstjoerder beantwurdzje">
