@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Proteção contra monitorização">
 <!ENTITY  trackingProtection2.description      "A monitorização é a recolha dos seus dados de navegação através de múltiplos websites. A monitorização pode ser utilizada para construir um perfil e mostrar conteúdo baseado na sua navegação e informação pessoal.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Utilizar Proteção contra monitorização para bloquear trackers conhecidos">
+<!ENTITY  trackingProtection3.description      "A Proteção contra monitorização bloqueia trackers online que recolhem os seus dados de navegação através de múltiplos websites.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Utilizar Proteção contra monitorização para bloquear trackers conhecidos">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "r">
 <!ENTITY  trackingProtectionPrivate.label      "Apenas em janelas privadas">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Nunca">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Saber mais">
+<!ENTITY  trackingProtectionLearnMore2.label    "Saber mais acerca da Proteção contra monitorização e a sua privacidade">
 <!ENTITY  trackingProtectionExceptions.label   "Exceções…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Utilizar Proteção contra monitorização em janelas privadas">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Utilizar Proteção contra monitorização na Navegação privada para bloquear trackers conhecidos">
