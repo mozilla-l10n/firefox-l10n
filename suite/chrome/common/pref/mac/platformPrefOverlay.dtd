@@ -9,10 +9,10 @@
      width of the letter 'm' in the selected font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct
      size of this window for en-US. -->
-<!ENTITY  prefWindow.size             "width: 72em; height: 48em;">
+<!ENTITY  prefWindow.size             "width: 62em; height: 41em;">
 
 <!-- pref-tabs.xul -->
-<!ENTITY urlbar.label                 "&#8984;+Return მისამართების პანელზე">
-<!ENTITY urlbar.accesskey             "L">
-<!ENTITY middleClick.label            "შუა დაწკაპვა, &#8984;+დაწკაპვა ან &#8984;+Return ვებგვერდის ბმებზე">
-<!ENTITY middleClick.accesskey        "M">
+<!ENTITY urlbar.label                 "&#8984;+Return მისამართების ველში">
+<!ENTITY urlbar.accesskey             "მ">
+<!ENTITY middleClick.label            "შუა წკაპი, &#8984;+წკაპი, ან &#8984;+Enter ვებგვერდზე არსებულ ბმულებზე">
+<!ENTITY middleClick.accesskey        "შ">
