@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tomuto serveru jste zablokovali přístup k vašemu mikrofonu.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tomuto serveru jste zablokovali sdílení vaší obrazovky.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tomuto serveru jste zablokovali zjišťovat vaši polohu.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tomuto serveru jste zablokovali ukládání dat do vašeho počítače.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tomuto serveru jste zablokovali zobrazovat oznámení.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Této stránce jste zakázali ukládat data natrvalo.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Pro tento server jste zablokovali otevírání vyskakovacích oken.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tomuto serveru jste zablokovali přístup k informacím canvasu.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nové anonymní okno">
 <!ENTITY newPrivateWindow.accesskey "a">
-<!ENTITY newNonRemoteWindow.label   "Nové non-e10s okno">
 
 <!ENTITY editMenu.label         "Úpravy">
 <!ENTITY editMenu.accesskey       "a">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Zobrazit celou historii">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Přizpůsobit">
-<!ENTITY appMenuCustomize.tooltip "Přizpůsobí nabídku a lišty">
-<!ENTITY appMenuCustomizeExit.label "Ukončit přizpůsobení">
-<!ENTITY appMenuCustomizeExit.tooltip "Ukončí přizpůsobení">
-
 <!ENTITY appMenuHistory.showAll.label "Zobrazit celou historii">
 <!ENTITY appMenuHistory.clearRecent.label "Vymazat nedávnou historii…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovit předchozí relaci">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobrazit v postranní liště">
 <!ENTITY appMenuHistory.recentHistory.label "Nedávná historie">
 <!ENTITY appMenuHelp.label "Nápověda">
-<!ENTITY appMenuHelp.tooltip "Otevře nabídku s nápovědou">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizované panely">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšíření:">
 <!ENTITY urlbar.switchToTab.label     "Přepnout na panel:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Chtěli byste vylepšit své vyhledávání pomocí návrhů?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Zjistit více…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "z">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ano">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "a">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Základní styl">
 <!ENTITY pageStylePersistentOnly.accesskey "Z">
 
-<!ENTITY pageReportIcon.tooltip            "Změní nastavení blokování vyskakovacích oken pro tento server">
-
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Přetáhněte své oblíbené položky na lištu nebo do rozšiřující nabídky.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Chcete více nástrojů?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Vyberte si některý z tisíce doplňků">
 <!ENTITY customizeMode.restoreDefaults "Obnovit výchozí">
 <!ENTITY customizeMode.done "Hotovo">
 <!ENTITY customizeMode.titlebar "Hlavička okna">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "S">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Získat více motivů vzhledu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
-<!ENTITY customizeMode.emptyOverflowList.description "Sem můžete přetáhnout položky, které chcete mít na dosah, ale ne přímo na liště…">
 <!ENTITY customizeMode.overflowList.title2 "Rozšiřující nabídka">
 <!ENTITY customizeMode.overflowList.description "Sem můžete přetáhnout položky, které chcete mít na dosah, ale ne přímo na liště…">
 <!ENTITY customizeMode.uidensity "Velikost">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Akce stránky">
 <!ENTITY pageAction.addToUrlbar.label "Přidat do adresního řádku">
 <!ENTITY pageAction.removeFromUrlbar.label "Odebrat z adresního řádku">
-
 <!ENTITY pageAction.allowInUrlbar.label "Zobrazit v adresním řádku">
 <!ENTITY pageAction.disallowInUrlbar.label "Nezobrazovat v adresním řádku">
 <!ENTITY pageAction.manageExtension.label "Správa rozšíření…">
