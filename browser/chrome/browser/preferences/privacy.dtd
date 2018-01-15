@@ -5,6 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "追蹤保護">
 <!ENTITY  trackingProtection2.description      "「網路追蹤」就是在您瀏覽不同網站時，收集您的上網資料，以用來建立您的個人喜好輪廓，並依照您的瀏覽紀錄與個人資訊來投放廣告。">
 <!ENTITY  trackingProtection2.radioGroupLabel  "使用追蹤保護功能，封鎖已知的追蹤器">
+<!ENTITY  trackingProtection3.description      "追蹤保護功能會封鎖在不同網站間收集您的瀏覽資料的網路追蹤器。">
 <!ENTITY  trackingProtection3.radioGroupLabel  "使用追蹤保護功能，封鎖已知的追蹤器">
 <!ENTITY  trackingProtectionAlways.label       "總是">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
@@ -13,6 +14,7 @@
 <!ENTITY  trackingProtectionNever.label        "永不">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "詳細資訊">
+<!ENTITY  trackingProtectionLearnMore2.label    "了解有關追蹤保護功能，以及您的隱私權的更多資訊">
 <!ENTITY  trackingProtectionExceptions.label   "例外網站…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
