@@ -12,12 +12,9 @@
 <!ENTITY  trackingProtectionNever.label        "Aldri">
 <!ENTITY  trackingProtectionNever.accesskey    "A">
 <!ENTITY  trackingProtectionLearnMore.label    "Lær meir">
+<!ENTITY  trackingProtectionLearnMore2.label    "Les meir om sporingsvern og ditt personvern">
 <!ENTITY  trackingProtectionExceptions.label   "Unntak…">
 <!ENTITY  trackingProtectionExceptions.accesskey "U">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Bruk sporingsvern i private vindauge">
-<!ENTITY trackingProtectionPBM5.accesskey     "u">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Bruk sporingsvern i Privat nettlesing for å blokkere kjende sporfølgjarar">
