@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Avaa uudet ikkunat uusiin välilehtiin">
 <!ENTITY newWindowsAsTabs.accesskey   "A">
 
+<!ENTITY newWindowsAsTabs3.label       "Avaa linkit välilehtiin uusien ikkunoiden sijasta">
+<!ENTITY newWindowsAsTabs3.accesskey   "A">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Varoita, kun olen sulkemassa useita välilehtiä">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "V">
 
