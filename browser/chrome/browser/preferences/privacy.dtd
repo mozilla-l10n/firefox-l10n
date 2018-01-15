@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Slědowanski škit">
 <!ENTITY  trackingProtection2.description      "Slědowanje je hromadźenje wašich přehladowanskich datow přez wjacore websydła. Slědowanje da so wužiwać, zo by profil tworiło a wobsah na zakładźe wašich přehladowanskich a wosobinskich datow pokazało.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Slědowanski škit wužiwać, zo by znate přesćěhowaki blokował">
+<!ENTITY  trackingProtection3.description      "Slědowanski škit přesćěhowaki online blokuje, kotrež waše přehladowanske daty přez wjacore websydła hromadźa.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Slědowanski škit wužiwać, zo by znate přesćěhowaki blokował">
 <!ENTITY  trackingProtectionAlways.label       "Přeco">
 <!ENTITY  trackingProtectionAlways.accesskey   "c">
 <!ENTITY  trackingProtectionPrivate.label      "Jenož w priwatnych woknach">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Ženje">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "Dalše informacije">
+<!ENTITY  trackingProtectionLearnMore2.label    "Zhońće wjace wo slědowanskim škiće a swojej priwatnosći">
 <!ENTITY  trackingProtectionExceptions.label   "Wuwzaća…">
 <!ENTITY  trackingProtectionExceptions.accesskey "u">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Slědowanski škit w priwatnych woknach wužiwać">
-<!ENTITY trackingProtectionPBM5.accesskey     "r">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Slědowanski škit w priwatnym modusu wužiwać, zo by znate přesćěhowaki blokował">
 <!ENTITY trackingProtectionPBM6.accesskey     "r">
 <!ENTITY trackingProtectionPBMLearnMore.label "Dalše informacije">
