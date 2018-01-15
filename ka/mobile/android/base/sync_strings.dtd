@@ -12,7 +12,7 @@
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'თქვენი ახალი მოწყობილობის გასააქტივებლად, მოწყობილობაზე შეარჩიეთ «&syncBrand.shortName.label;-ის გამართვა».'>
-<!ENTITY sync.subtitle.pair.label 'გასააქტივებლად შეარჩიეთ «შეწყვილება» თქვენს სხვა მოწყობილობაში.'>
+<!ENTITY sync.subtitle.pair.label 'ასამოქმედებლად, შეარჩიეთ “შეწყვილება” თქვენს მეორე მოწყობილობაში.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
 

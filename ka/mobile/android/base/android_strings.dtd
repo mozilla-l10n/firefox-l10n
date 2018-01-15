@@ -335,8 +335,8 @@
 <!ENTITY tab_queue_notification_settings "\&quot;ბევრი ბმულის გასახსნელად\&quot;, დართეთ &brandShortName;-ს \&apos;სხვა აპების გადაფარვის\&apos; ნება">
 
 <!ENTITY pref_char_encoding "სიმბოლოთა კოდირება">
-<!ENTITY pref_char_encoding_on "მენიუს ჩვენება">
-<!ENTITY pref_char_encoding_off "მენიუს დამალვა">
+<!ENTITY pref_char_encoding_on "მენიუში ჩვენება">
+<!ENTITY pref_char_encoding_off "მენიუში დამალვა">
 <!ENTITY pref_clear_private_data2 "პირად მონაცემთა გასუფთავება">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
