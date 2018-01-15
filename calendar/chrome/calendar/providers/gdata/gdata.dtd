@@ -7,8 +7,8 @@
 <!ENTITY gdata.privacy.default.label "Google ნაგულისხმევი">
 <!ENTITY gdata.privacy.default.accesskey "ნ">
 
-<!ENTITY gdata.migration.title "მხოლოდ კითხვადი კალენდრის მიგრაცია">
-<!ENTITY gdata.migration.description "Google კალენდრის მომწოდებელმა აღმოაჩინა, რომ რომ თქვენ გაგაჩნიათ კალენდრები, რომლებიც Google კალენდრის მიერ მხოლოდ წაკითხვად რეჟიმშია მისაწვდომი. თუ რომელიმეს განახლება გსურთ, შეარჩიეთ ქვემოთ">
+<!ENTITY gdata.migration.title "მხოლოდ წასაკითხი კალენდრების გადატანა">
+<!ENTITY gdata.migration.description "Google კალენდრის მომწოდებელმა აღმოაჩინა, რომ რომ თქვენ გაგაჩნიათ კალენდრები, რომლებიც Google კალენდრის მიერ მხოლოდ წაკითხვის რეჟიმშია ხელმისაწვდომი. თუ რომელიმეს განახლება გსურთ, შეარჩიეთ ქვემოთ">
 <!ENTITY gdata.migration.upgrade.label "განახლება">
 <!ENTITY gdata.migration.upgrade.accesskey "ხ">
 <!ENTITY gdata.migration.showagain.label "შემოწმება ყოველთვის ">
