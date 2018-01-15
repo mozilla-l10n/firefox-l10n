@@ -47,17 +47,26 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "વિકાસકર્તા સાધનો વિશે વધુ જાણો">
 
+<!ENTITY  aboutDevtools.enable.enableButton "વિકાસકર્તા સાધનોને સક્ષમ કરો">
 <!ENTITY  aboutDevtools.enable.closeButton "આ પૃષ્ઠ બંધ કરો">
 
 <!ENTITY  aboutDevtools.enable.closeButton2 "આ ટૅબ બંધ કરો">
 
+<!ENTITY  aboutDevtools.welcome.title "Firefox ડેવલોપર સાધનોમાં આપનું સ્વાગત છે!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Mozilla વિકાસકર્તા ન્યૂઝલેટર">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "તમારા ઇનબૉક્સ પર સીધા જ વિકાસકર્તા સમાચાર, યુક્તિઓ અને સંસાધનો મોકલો.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "ઇમેઇલ">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Mozilla સાથે મારી માહિતી સંભાળવાથી હું સમંત છું, આ <a class='external' href='https://www.mozilla.org/privacy/'>ગોપનીયતા નીતિ</a>માં વર્ણવ્યા પ્રમાણે.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "ઉમેદવારી નોંધાવો">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "આભાર!">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox વિકાસકર્તા આવૃત્તિ">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
