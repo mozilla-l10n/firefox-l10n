@@ -206,7 +206,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ჩანართების აღდგენა, მონაცემების დამზოგი, შემმუშავებლის ხელსაწყოები">
 <!ENTITY pref_category_notifications "ცნობები">
-<!ENTITY pref_category_notifications_summary "ახალი ფუნქციები, ვებსაიტის განახლებები">
+<!ENTITY pref_category_notifications_summary "ახალი შესაძლებლობები, ვებსაიტის განახლებები">
 <!ENTITY pref_developer_remotedebugging_usb "დისტანციური გამართვა USB-ით">
 <!ENTITY pref_developer_remotedebugging_wifi "დისტანციური გამართვა Wi-Fi-ით">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi გამართვისთვის საჭიროა დაყენებული იყოს QR კოდის წამკითხავი.">
@@ -280,11 +280,11 @@
 <!ENTITY pref_tracking_protection_disabled "გამორთულია">
 
 <!ENTITY pref_whats_new_notification "რა არის ახალი &brandShortName;-ში">
-<!ENTITY pref_whats_new_notification_summary "გაიგეთ ახალ ფუნქციებზე განახლების შემდეგ">
+<!ENTITY pref_whats_new_notification_summary "გაეცანით ახალ შესაძლებლობებს, განახლების შემდეგ">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-<!ENTITY pref_category_experimental "საცდელი ფუნქციები">
+<!ENTITY pref_category_experimental "საცდელი შესაძლებლობები">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
@@ -356,7 +356,7 @@
 <!ENTITY pref_media_autoplay_enabled "თვითგაშვების ნებართვა">
 <!ENTITY pref_media_autoplay_enabled_summary "ვებსაიტის უფლებების მართვა, ვიდეოებისა და სხვა მედია შიგთავსის ავტომატურ გაშვებაზე">
 <!ENTITY pref_zoom_force_enabled "მასშტაბირების ჩართვა ყველგან">
-<!ENTITY pref_zoom_force_enabled_summary "უგულებელყოფს საიტების პარამეტრებს, რათა ყველა გვერდზე შეცვალოთ მასშტაბი">
+<!ENTITY pref_zoom_force_enabled_summary "უგულებელყოფს საიტების პარამეტრებს, თქვენ მიერ მითითებული ზომის დასაყენებლად">
 <!ENTITY pref_voice_input "ხმოვანი შეყვანა">
 <!ENTITY pref_voice_input_summary2 "ხმოვანი კარნახის დაშვება URL ზოლში">
 <!ENTITY pref_qrcode_enabled "QR კოდის წამკითხავი">
@@ -424,13 +424,13 @@
 <!ENTITY datareporting_fhr_summary2 "მონაცემთა გაზიარება &vendorShortName;-სთან თქვენი ბრაუზერის შესახებ მისი წარმადობის გაგებაში დაგეხმარებათ">
 <!ENTITY datareporting_abouthr_title "წარმადობის მოხსენების ნახვა">
 <!ENTITY datareporting_telemetry_title "ტელემეტრია">
-<!ENTITY datareporting_telemetry_summary "გაუზიარებს წარმადობის, გამოყენების, მოწყობილობის, და პარამეტრების მონაცემებს &vendorShortName;-ს, რათა &brandShortName; ბრაუზერი კიდევ უფრო დაიხვეწოს">
+<!ENTITY datareporting_telemetry_summary "გაუზიარებს წარმადობის, გამოყენების, მოწყობილობისა და პარამეტრების მონაცემებს &vendorShortName;-ს, &brandShortName; ბრაუზერის მეტად დასახვეწად">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; აგზავნის ავარიული დახურვის მოხსენებებს, რაც &vendorShortName;-ს თქვენი ბრაუზერის მდგრადობის და უსაფრთხოების გაუმჯობესებაში ეხმარება.">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ავარიული დახურვის მომხსენებელი">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; მდებარეობა">
-<!ENTITY datareporting_wifi_geolocation_summary4 "დაეხმარე &vendorShortName;-ს მსოფლიოს დაგეგმარებაში! გააზიარეთ თქვენი მოწყობილობის მიახლოებითი Wi-Fi და მობილური მდებარეობა ჩვენი გეოლოკაციის მომსახურების გასაუმჯობესებლად.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "დაეხმარეთ &vendorShortName;-ს მსოფლიო რუკის შექმნაში! გააზიარეთ თქვენი მოწყობილობის მიახლოებითი Wi-Fi და მობილური მდებარეობა ჩვენი გეოლოკაციის მომსახურების გასაუმჯობესებლად.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -485,8 +485,7 @@
 <!ENTITY contextmenu_open_new_tab "გახსნა ახალ ჩანართში">
 <!ENTITY contextmenu_open_private_tab "გახსნა პირად ჩანართში">
 <!ENTITY contextmenu_remove "წაშლა">
-<!ENTITY contextmenu_add_to_launcher "საშინაო გვერდზე დამატება">
-<!ENTITY contextmenu_add_page_shortcut "გვერდის მალსახმობის დამატება">
+<!ENTITY contextmenu_add_page_shortcut "მალსახმობის დამატება">
 <!ENTITY contextmenu_set_as_homepage "საწყისი გვერდად დაყენება">
 <!ENTITY contextmenu_share "გაზიარება">
 <!ENTITY contextmenu_pasteandgo "ჩასმა და გადასვლა">
@@ -494,14 +493,14 @@
 <!ENTITY contextmenu_copyurl "მისამართის ასლი">
 <!ENTITY contextmenu_edit_bookmark "ჩასწორება">
 <!ENTITY contextmenu_subscribe "გვერდის გამოწერა">
-<!ENTITY contextmenu_site_settings "საიტის პარამეტრების რდაქცია">
+<!ENTITY contextmenu_site_settings "საიტის პარამეტრები">
 <!ENTITY contextmenu_top_sites_edit "ჩასწორება">
 <!ENTITY contextmenu_top_sites_pin "საიტის მიმაგრება">
 <!ENTITY contextmenu_top_sites_unpin "მიმაგრების მოხსნა">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "რჩეულ საიტებში დამატება">
+<!ENTITY contextmenu_pin_to_top_sites "რჩეულებში დამატება">
 <!ENTITY contextmenu_unpin_from_top_sites "რჩეული საიტებიდან ამოღება">
 <!ENTITY contextmenu_add_search_engine "საძიებო სისტემის დამატება">
 
@@ -540,7 +539,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "გვერდი ამოიშალა">
-
 <!ENTITY folder_removed "საქაღალდე წაიშალა">
 
 <!ENTITY bookmark_edit_title "სანიშნის ჩასწორება">
@@ -581,7 +579,7 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName; სახლი">
+<!ENTITY home_title "&brandShortName; მთავარი">
 <!ENTITY home_history_title "ისტორია">
 <!ENTITY home_synced_devices_smartfolder "დასინქრონებული მოწყობილობები">
 <!ENTITY home_synced_devices_number "&formatD; მოწყობილობები">
@@ -785,7 +783,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "დამატებები">
-<!ENTITY restrictable_feature_addons_installation_description "დაამატეთ ფუნქციები და შესაძლებლობები Firefox-ს. შენიშვნა: დამატებებს გარკვეული შეზღუდვების გამორთვა ძალუძთ.">
+<!ENTITY restrictable_feature_addons_installation_description "გააფართოვეთ Firefox-ის შესაძლებლობები. შენიშვნა: დამატებებს, გარკვეული შეზღუდვების არიდება ძალუძს.">
 <!ENTITY restrictable_feature_private_browsing "პირადი თვალიერების რეჟიმი">
 <!ENTITY restrictable_feature_private_browsing_description "ოჯახის წევრებს საშულაებას აძლევს დაათვალიერონ ინტერნეტი მათ მიერ მონახულებული საიტების და გვერდების შენახვის გარეშე.">
 <!ENTITY restrictable_feature_clear_history "ისტორიის გასუფთავება">
@@ -821,8 +819,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; განახლებულია">
 <!ENTITY whatsnew_notification_summary "გაიგეთ, რაა ახალი ამ ვერსიაში">
-
-<!ENTITY promotion_add_to_homescreen "საშინაო გვერდზე დამატება">
 
 <!ENTITY promotion_add_page_shortcut "გვერდის მალსახმობის დამატება">
 
