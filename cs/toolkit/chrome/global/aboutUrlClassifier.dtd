@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Informace o url-classifier">
+<!ENTITY aboutUrlClassifier.title                       "Informace o URL Classifier">
 <!ENTITY aboutUrlClassifier.providerTitle               "Poskytovatel">
 <!ENTITY aboutUrlClassifier.provider                    "Poskytovatel">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Poslední aktualizace">
