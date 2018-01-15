@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Protekto kontraŭ spurado">
 <!ENTITY  trackingProtection2.description      "Spurado estas la kolekto de viaj retumaj datumoj tra pluraj retejoj. Spurado povas esti uzita por konstrui profilon kaj montri enhavon surbaze de viaj retumaj kaj personaj informoj.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Uzi protekton kontraŭ spurado por bloki konatajn spurilojn">
+<!ENTITY  trackingProtection3.description      "La protekto kontraŭ spurado blokas retajn spurilojn, kiuj kolektas viajn retumajn datumojn tra pluraj retejoj.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Uzi protekton kontraŭ spurado por bloki konatajn spurilojn">
 <!ENTITY  trackingProtectionAlways.label       "Ĉiam">
 <!ENTITY  trackingProtectionAlways.accesskey   "m">
 <!ENTITY  trackingProtectionPrivate.label      "Nur en privataj fenestroj">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Neniam">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Pli da informo">
+<!ENTITY  trackingProtectionLearnMore2.label    "Pli da informo pri protekto kontraŭ spurado kaj via privateco">
 <!ENTITY  trackingProtectionExceptions.label   "Esceptoj…">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Uzi protekton kontraŭ spurado en privataj fenestroj">
-<!ENTITY trackingProtectionPBM5.accesskey     "f">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Uzi protekton kontraŭ spurado dum privata retumo por bloki konatajn spurilojn">
