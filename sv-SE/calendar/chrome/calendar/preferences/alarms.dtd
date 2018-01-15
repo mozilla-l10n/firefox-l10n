@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Visa påminnelse">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "V">
 <!ENTITY pref.missedalarms "Visa missade påminnelser">
+<!ENTITY pref.missedalarms2 "Visa missade påminnelser för skrivbara kalendrar">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Påminnelseinställningar">
 <!ENTITY pref.defalarm4events.label "Standardinställning för händelser:">
