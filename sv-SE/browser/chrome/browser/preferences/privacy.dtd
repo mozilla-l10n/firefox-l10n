@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Spårningsskydd">
 <!ENTITY  trackingProtection2.description      "Spårning är insamling av dina surfdata på flera webbplatser. Spårning kan användas för att skapa en profil och visa innehåll baserat på din webbhistorik och personlig information.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Använd spårningsskydd för att blockera kända trackers">
+<!ENTITY  trackingProtection3.description      "Spårningsskydd blockerar online-trackers som samlar in dina surfdata över flera webbplatser.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Använd spårningsskydd för att blockera kända trackers">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
 <!ENTITY  trackingProtectionAlways.accesskey   "i">
 <!ENTITY  trackingProtectionPrivate.label      "Bara i privata fönster">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Aldrig">
 <!ENTITY  trackingProtectionNever.accesskey    "A">
 <!ENTITY  trackingProtectionLearnMore.label    "Lär dig mer">
+<!ENTITY  trackingProtectionLearnMore2.label    "Läs mer om spårningsskydd och din integritet">
 <!ENTITY  trackingProtectionExceptions.label   "Undantag…">
 <!ENTITY  trackingProtectionExceptions.accesskey "n">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Använd spårningsskydd i privat fönster">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Använd spårningsskydd i Privat surfning för att blockera kända trackers">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Lär dig mer">
