@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 
 <!ENTITY pref.alarmgoesoff.label "Pan fydd Disgwyl Atgoffwr:">
 <!ENTITY pref.playasound "Canu nodyn">
@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Dangos y ddeialog atgoffa">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "d">
 <!ENTITY pref.missedalarms "Dangos negeseuon atgoffa a gollwyd">
+<!ENTITY pref.missedalarms2 "Dangos atgoffwyr wedi eu colli ar gyfer calendrau ysgrifenadwy">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "n">
 <!ENTITY pref.calendar.alarms.defaults.label "Rhagosodiadau Atgoffwyr">
 <!ENTITY pref.defalarm4events.label "Gosodiadau atgoffa rhagosodedig ar gyfer digwyddiadau:">
