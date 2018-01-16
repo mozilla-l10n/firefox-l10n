@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Izsekošanas aizsardzība">
 <!ENTITY  trackingProtection2.description      "Izsekotāji vāc datus par jums dažādās lapās. Šo informāciju var izmantot, lai veidotu jūsu profilu un attēlotu pielāgotu saturu un reklāmas.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Izmantot izsekošanas aizsardzību, lai bloķētu zināmos izsekotājus">
+<!ENTITY  trackingProtection3.description      "Izsekošanas aizsardzība cīnās pret sekotājiem kas dažādās lapās vāc informāciju par jūsu uzvedību internetā.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Izmantot izsekošanas aizsardzību, lai bloķētu zināmos izsekotājus">
 <!ENTITY  trackingProtectionAlways.label       "Vienmēr">
 <!ENTITY  trackingProtectionAlways.accesskey   "m">
 <!ENTITY  trackingProtectionPrivate.label      "Tikai privātajos logos">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Nekad">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Uzzināt vairāk">
+<!ENTITY  trackingProtectionLearnMore2.label    "Uzziniet vairāk par izsekošanas aizsardzību un jūsu privātumu">
 <!ENTITY  trackingProtectionExceptions.label   "Izņēmumi…">
 <!ENTITY  trackingProtectionExceptions.accesskey "I">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Izmantot izsekošanas aizsardzību privātajos logos">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Izmantot izsekošanas aizsardzību, lai bloķētu zināmos izsekotājus">
 <!ENTITY trackingProtectionPBM6.accesskey     "t">
 <!ENTITY trackingProtectionPBMLearnMore.label "Uzzināt vairāk">

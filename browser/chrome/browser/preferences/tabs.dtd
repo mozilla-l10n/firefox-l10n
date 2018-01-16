@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Vērt jaunus logus jaunās cilnēs">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY newWindowsAsTabs3.label       "Vērt saites cilnēs nevis jaunos logos">
+<!ENTITY newWindowsAsTabs3.accesskey   "v">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Brīdināt, pirms aizvērt vairākas cilnes">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
