@@ -11,6 +11,7 @@
 <!ENTITY engine.history.label       "Ιστορικό">
 <!ENTITY engine.history.accesskey   "ρ">
 <!ENTITY engine.logins.label        "Συνδέσεις">
+<!ENTITY engine.logins.title        "Ονόματα χρήστη και κωδικοί πρόσβασης που έχετε αποθηκεύσει">
 <!ENTITY engine.logins.accesskey    "Σ">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -56,18 +57,21 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Παρακαλούμε συνδεθείτε ξανά για επανασύνδεση">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Δεν έχετε συνδεθεί.">
-<!ENTITY signIn.label                "Σύνδεση">
-<!ENTITY signIn.accesskey            "σ">
-<!ENTITY profilePicture.tooltip      "Αλλαγή εικόνας προφίλ">
-<!ENTITY verifiedManage.label        "Διαχείριση λογαριασμού">
-<!ENTITY verifiedManage.accesskey    "η">
-<!ENTITY disconnect3.label           "Αποσύνδεση…">
-<!ENTITY disconnect3.accesskey       "Α">
+<!ENTITY notSignedIn.label            "Δεν έχετε συνδεθεί.">
+<!ENTITY signIn.label                 "Σύνδεση">
+<!ENTITY signIn.accesskey             "σ">
+<!ENTITY profilePicture.tooltip       "Αλλαγή εικόνας προφίλ">
+<!ENTITY verifiedManage.label         "Διαχείριση λογαριασμού">
+<!ENTITY verifiedManage.accesskey     "η">
+<!ENTITY disconnect3.label            "Αποσύνδεση…">
+<!ENTITY disconnect3.accesskey        "Α">
 <!ENTITY verify.label                "Επαλήθευση email">
 <!ENTITY verify.accesskey            "Ε">
 <!ENTITY forget.label                "Διαγραφή email">
 <!ENTITY forget.accesskey            "Γ">
+
+<!ENTITY cancelSetup.label            "Ακύρωση ρύθμισης">
+<!ENTITY cancelSetup.accesskey        "ρ">
 
 <!ENTITY signedOut.caption            "Πάρτε μαζί σας το διαδίκτυο">
 <!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα, καθώς και τις προτιμήσεις σας σε όλες τις συσκευές σας.">

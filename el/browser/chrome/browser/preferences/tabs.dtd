@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Άνοιγμα νέων παραθύρων σε νέα καρτέλα">
 <!ENTITY newWindowsAsTabs.accesskey   "τ">
 
+<!ENTITY newWindowsAsTabs3.label       "Άνοιγμα συνδέσμων σε καρτέλες αντί για νέα παράθυρα">
+<!ENTITY newWindowsAsTabs3.accesskey   "π">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Προειδοποίηση κατά το κλείσιμο πολλαπλών καρτελών">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "π">
 
