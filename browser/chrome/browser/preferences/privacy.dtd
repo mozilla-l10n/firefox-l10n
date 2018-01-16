@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "추적 방지">
 <!ENTITY  trackingProtection2.description      "추적이란 여러 웹사이트에 거쳐 사용자의 브라우징 데이터를 수집하는 것을 말합니다. 추적은 사용자의 브라우징 데이터와 개인정보를 이용해 사용자를 프로파일링하고 이를 기반으로 콘텐츠를 표시하는데 사용됩니다.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "추적 방지를 사용해서 알려진 추적 기관 차단">
+<!ENTITY  trackingProtection3.description      "추적 방지 기능은 여러 웹사이트에 걸처 사용자의 탐색 데이터를 수집하는 추적자를 차단합니다.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "알려진 추적자를 차단하는 추적 방지 기능 사용">
 <!ENTITY  trackingProtectionAlways.label       "항상 사용하기">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "사생활 보호 창에서만 사용하기">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "항상 사용하지 않기">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "더 알아보기">
+<!ENTITY  trackingProtectionLearnMore2.label    "추적 방지와 개인정보 보호 살펴보기">
 <!ENTITY  trackingProtectionExceptions.label   "예외…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "사생활 보호 창에서 추적 방지 사용">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "사생활 보호 모드에서 추적 방지를 사용해 알려진 추적기관을 차단">
