@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Protection contre le pistage">
 <!ENTITY  trackingProtection2.description      "Le pistage correspond à la collecte de vos données de navigation sur plusieurs sites web. Le pistage peut servir à établir un profil et afficher du contenu en rapport avec votre navigation et vos données personnelles.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Utiliser la protection contre le pistage pour bloquer les traqueurs connus">
+<!ENTITY  trackingProtection3.description      "La protection contre le pistage bloque les traqueurs en ligne qui collectent vos données de navigation depuis plusieurs sites web.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Utiliser la protection contre le pistage pour bloquer les traqueurs connus">
 <!ENTITY  trackingProtectionAlways.label       "Toujours">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
 <!ENTITY  trackingProtectionPrivate.label      "Uniquement dans les fenêtres privées">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Jamais">
 <!ENTITY  trackingProtectionNever.accesskey    "J">
 <!ENTITY  trackingProtectionLearnMore.label    "En savoir plus">
+<!ENTITY  trackingProtectionLearnMore2.label    "En savoir plus sur la protection contre le pistage et sur la protection de votre vie privée">
 <!ENTITY  trackingProtectionExceptions.label   "Exceptions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Utiliser la protection contre le pistage dans les fenêtres de navigation privée">
-<!ENTITY trackingProtectionPBM5.accesskey     "i">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Utiliser la protection contre le pistage en navigation privée pour bloquer les traqueurs connus">
