@@ -107,7 +107,15 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Подреждане на прикачени файлове">
+<!ENTITY moveAttachmentTopPanelBtn.label "Преместване в началото">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "н">
 <!ENTITY moveAttachmentUpPanelBtn.label "Преместване нагоре">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "г">
+<!ENTITY moveAttachmentDownPanelBtn.label "Преместване надолу">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "д">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Преместване в края">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "к">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
