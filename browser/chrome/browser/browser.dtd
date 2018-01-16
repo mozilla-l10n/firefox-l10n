@@ -225,10 +225,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Έχετε αποκλείσει το μικρόφωνό σας για τον ιστοτόπο.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Έχετε αποκλείσει τον ιστοτόπο από το μοίρασμα της οθόνης σας.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για τον ιστοτόπο.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Έχετε αποκλείσει την αποθήκευση δεδομένων για τον ιστοτόπο.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Έχετε αποκλείσει τις ειδοποιήσεις για τον ιστοτόπο.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Έχετε αποκλείσει την επίμονη αποθήκευση για αυτή την ιστοσελίδα.">
-
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
@@ -295,7 +293,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Ν">
 <!ENTITY newPrivateWindow.label     "Νέο παράθυρο ιδιωτικής περιήγησης">
 <!ENTITY newPrivateWindow.accesskey "δ">
-<!ENTITY newNonRemoteWindow.label   "Νέο μη-e10s παράθυρο">
 
 <!ENTITY editMenu.label         "Επεξεργασία">
 <!ENTITY editMenu.accesskey       "Ε">
@@ -350,18 +347,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Προβολή όλου του ιστορικού">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Προσαρμογή">
-<!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και των γραμμών εργαλείων">
-<!ENTITY appMenuCustomizeExit.label "Τέλος προσαρμογής">
-<!ENTITY appMenuCustomizeExit.tooltip "Ολοκλήρωση προσαρμογής">
-
 <!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
 <!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
 <!ENTITY appMenuHistory.viewSidebar.label "Προβολή πλευρικής στήλης ιστορικού">
 <!ENTITY appMenuHistory.recentHistory.label "Πρόσφατο ιστορικό">
 <!ENTITY appMenuHelp.label "Βοήθεια">
-<!ENTITY appMenuHelp.tooltip "Άνοιγμα βοήθειας">
 
 <!ENTITY appMenuRemoteTabs.label "Συγχρονισμένες καρτέλες">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -385,6 +376,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Προτιμήσεις συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα με καρτέλες από τις άλλες σας συσκευές.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ο λογαριασμός σας πρέπει να επαληθευτεί.">
 <!ENTITY appMenuRemoteTabs.signin.label "Σύνδεση στο Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
@@ -433,14 +425,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Επέκταση:">
 <!ENTITY urlbar.switchToTab.label     "Μετάβαση σε καρτέλα:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Θα θέλατε να βελτιώσετε την εμπειρία της αναζήτησης με το να σας παρέχουμε προτάσεις;">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Μάθετε περισσότερα…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "ι">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Όχι">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ο">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ναι">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "ν">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Συμβουλή:">
@@ -718,8 +702,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Βασική μορφοποίηση σελίδας">
 <!ENTITY pageStylePersistentOnly.accesskey "Β">
 
-<!ENTITY pageReportIcon.tooltip            "Αλλαγή ρυθμίσεων φραγής αναδυόμενων παραθύρων για αυτή την ιστοσελίδα">
-
 <!ENTITY allowPopups.accesskey "ν">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -851,8 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Σύρετε τα αγαπημένα σας στοιχεία στη γραμμή εργαλείων ή το αναδυόμενο μενού.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Θέλετε περισσότερα εργαλεία;">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα σε χιλιάδες πρόσθετα">
 <!ENTITY customizeMode.restoreDefaults "Επαναφορά προεπιλογών">
 <!ENTITY customizeMode.done "Τέλος">
 <!ENTITY customizeMode.titlebar "Γραμμή τίτλου">
@@ -865,7 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "χ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Λήψη περισσότερων θεμάτων">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Λ">
-<!ENTITY customizeMode.emptyOverflowList.description "Σύρετε και εναποθέστε στοιχεία εδώ για να τα έχετε πάντα κοντά, αλλά όχι στη γραμμή εργαλείων…">
 <!ENTITY customizeMode.overflowList.title2 "Αναδυόμενο μενού">
 <!ENTITY customizeMode.overflowList.description "Σύρετε και εναποθέστε στοιχεία εδώ για να τα έχετε πάντα κοντά, αλλά όχι στη γραμμή εργαλείων…">
 <!ENTITY customizeMode.uidensity "Πυκνότητα">
@@ -995,7 +974,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Ενέργειες σελίδας">
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
 <!ENTITY pageAction.removeFromUrlbar.label "Αφαίρεση από τη γραμμή διευθύνσεων">
-
 <!ENTITY pageAction.allowInUrlbar.label "Εμφάνιση στη γραμμή διευθύνσεων">
 <!ENTITY pageAction.disallowInUrlbar.label "Απόκρυψη από τη γραμμή διευθύνσεων">
 <!ENTITY pageAction.manageExtension.label "Διαχείριση επέκτασης…">
