@@ -27,8 +27,10 @@
 <!ENTITY engine.addons.title        "Firefox datoru versijas paplašinājumi un tēmas">
 <!ENTITY engine.addons.accesskey    "a">
 <!ENTITY engine.addresses.label     "Adreses">
+<!ENTITY engine.addresses.title     "Saglabātās pasta adreses (tikai datora versijā)">
 <!ENTITY engine.addresses.accesskey "a">
 <!ENTITY engine.creditcards.label   "Kredītkartes">
+<!ENTITY engine.creditcards.title   "Vārdi, numuri un derīguma termiņi (tikai datora versijā)">
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
@@ -73,6 +75,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Aizmirst šo epastu">
 <!ENTITY forget.accesskey            "a">
 
+<!ENTITY resendVerification.label     "Nosūtīt vēlreiz">
+<!ENTITY resendVerification.accesskey "N">
+<!ENTITY cancelSetup.label            "Atcelt uzstādīšanu">
+<!ENTITY cancelSetup.accesskey        "a">
 
 <!ENTITY signedOut.caption            "Paņem tīmekli sev līdz">
 <!ENTITY signedOut.description        "Sinhronizējiet vēsturi, grāmatzīmes, paroles, papildinājumus un iestatījumus visās jūsu izmantotajās ierīcēs.">
