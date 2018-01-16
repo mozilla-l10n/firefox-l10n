@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "임시 메시지 편집">
 <!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY editTemplateMsgCmd.label "템플릿 편집">
+<!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "서식 파일에서 새 메시지">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "메시지로부터 규칙 만들기">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "새로 편집…">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "임시 메시지 편집">
+<!ENTITY contextEditTemplate.label "템플릿 편집">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "보관">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "회신">
