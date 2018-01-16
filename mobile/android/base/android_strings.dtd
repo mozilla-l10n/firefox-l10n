@@ -315,7 +315,7 @@
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "სხვა აპების გადაფარვის ნებართვა">
-<!ENTITY tab_queue_prompt_positive_action_button "ნებართვა">
+<!ENTITY tab_queue_prompt_positive_action_button "დაშვება">
 <!ENTITY tab_queue_prompt_negative_action_button "ახლა არა">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
@@ -353,7 +353,7 @@
 <!ENTITY pref_use_system_font_size "შრიფტის სისტემური ზომის გამოყენება">
 <!ENTITY pref_use_system_font_size_summary "ვებშიგთავსის ზომების ცვლილება, სისტემის შრიფტის ზომის მიხედვით">
 
-<!ENTITY pref_media_autoplay_enabled "თვითგაშვების ნებართვა">
+<!ENTITY pref_media_autoplay_enabled "თვითგაშვების დაშვება">
 <!ENTITY pref_media_autoplay_enabled_summary "ვებსაიტის უფლებების მართვა, ვიდეოებისა და სხვა მედია შიგთავსის ავტომატურ გაშვებაზე">
 <!ENTITY pref_zoom_force_enabled "მასშტაბირების ჩართვა ყველგან">
 <!ENTITY pref_zoom_force_enabled_summary "უგულებელყოფს საიტების პარამეტრებს, თქვენ მიერ მითითებული ზომის დასაყენებლად">
@@ -435,7 +435,7 @@
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "ავტომატური განახლებები">
-<!ENTITY pref_update_autodownload_wifi "მხოლოდ Wi-Fi-თ">
+<!ENTITY pref_update_autodownload_wifi "მხოლოდ Wi-Fi-ით">
 <!ENTITY pref_update_autodownload_never "არასდროს">
 <!ENTITY pref_update_autodownload_always "ყოველთვის">
 
@@ -461,7 +461,7 @@
 <!ENTITY new_tab "ახალი ჩანართი">
 <!ENTITY new_private_tab "ახალი პირადი ჩანართი">
 <!ENTITY close_all_tabs "ყველას დახურვა">
-<!ENTITY close_private_tabs "პირადი ჩანართების დახურვა">
+<!ENTITY close_private_tabs "პირადის დახურვა">
 <!ENTITY tabs_normal "დაფები">
 <!ENTITY tabs_private "პირადი">
 <!ENTITY set_image_fail "ვერ ხერხდება გამოსახულების მითითება">
@@ -716,7 +716,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!ENTITY updater_permission_text "ფაილების და განახლებების ჩამოსატვირთათ, მიეცით &brandShortName;-ს საცავზე წვდომის უფლება.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "ნებართვა">
+<!ENTITY updater_permission_allow "დაშვება">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "სტუმრის ახალი სეანსი">
