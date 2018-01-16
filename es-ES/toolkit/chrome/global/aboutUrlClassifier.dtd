@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutUrlClassifier.pageTitle "Información sobre url-classifier">
+<!ENTITY aboutUrlClassifier.title "Información del clasificador de URL">
 <!ENTITY aboutUrlClassifier.providerTitle "Proveedor">
 <!ENTITY aboutUrlClassifier.provider "Proveedor">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime "Fecha y hora de última actualización">
