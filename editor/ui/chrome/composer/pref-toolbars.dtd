@@ -14,7 +14,7 @@
 <!ENTITY cut.label              "Изрязване">
 <!ENTITY copy.label             "Копиране">
 <!ENTITY paste.label            "Поставяне">
-<!ENTITY print.label            "Печат">
+<!ENTITY print.label            "Отпечатване">
 <!ENTITY find.label             "Търсене">
 <!ENTITY image.label            "Изображение">
 <!ENTITY hline.label            "Хор. линия">

@@ -288,7 +288,7 @@
 <!ENTITY cutToolbarCmd.tooltip "Изрязване">
 <!ENTITY copyToolbarCmd.tooltip "Копиране">
 <!ENTITY pasteToolbarCmd.tooltip "Поставяне">
-<!ENTITY printToolbarCmd.label "Печат">
+<!ENTITY printToolbarCmd.label "Отпечатване">
 <!ENTITY printToolbarCmd.tooltip "Отпечатва тази страница">
 <!ENTITY findToolbarCmd.label "Търсене">
 <!ENTITY findToolbarCmd.tooltip "Търсене на текст в страницата">
