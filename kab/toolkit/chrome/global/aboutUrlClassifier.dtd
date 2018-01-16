@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Talγut γef url-classifier">
+<!ENTITY aboutUrlClassifier.title                       "Talγut γef usefrek n tansiwin URL">
 <!ENTITY aboutUrlClassifier.providerTitle               "Imefki">
 <!ENTITY aboutUrlClassifier.provider                    "Imfeki">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Akud n uleqqem aneggaru">
