@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Показване на диалогов прозорец">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "д">
 <!ENTITY pref.missedalarms "Показване на пропуснатите припомняния">
+<!ENTITY pref.missedalarms2 "Показване на пропуснатите припомняния от календарите с права за писане">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "п">
 <!ENTITY pref.calendar.alarms.defaults.label "Настройки по подразбиране за припомняне">
 <!ENTITY pref.defalarm4events.label "Алармиране за събития:">

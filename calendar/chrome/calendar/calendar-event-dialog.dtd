@@ -93,7 +93,7 @@
 <!ENTITY  event.menu.item.delete.accesskey                "И">
 <!ENTITY  event.menu.item.page.setup.label                "Настройка на страницата">
 <!ENTITY  event.menu.item.page.setup.accesskey            "К">
-<!ENTITY  event.menu.item.print.label                     "Печат">
+<!ENTITY  event.menu.item.print.label                     "Отпечатване">
 <!ENTITY  event.menu.item.print.accesskey                 "П">
 
 <!ENTITY  event.menu.edit.label                           "Редактиране">
