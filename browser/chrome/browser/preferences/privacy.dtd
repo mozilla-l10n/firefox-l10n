@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "ટ્રેકિંગ પ્રોટેક્શન">
 <!ENTITY  trackingProtection2.description      "ટ્રેકિંગ એ બહુવિધ વેબસાઇટ્સ પર તમારા બ્રાઉઝિંગ ડેટાનો સંગ્રહ છે. ટ્રેકિંગનો ઉપયોગ તમારી બ્રાઉઝિંગ અને વ્યક્તિગત માહિતી પર આધારિત રૂપરેખા બનાવવા અને સામગ્રી પ્રદર્શિત કરવા માટે થઈ શકે છે.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "જાણીતા ટ્રેકર્સને અવરોધિત કરવા માટે ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો">
+<!ENTITY  trackingProtection3.description      "ટ્રેકિંગ પ્રોટેક્શન ઓનલાઇન ટ્રેકર જે બહુવિધ વેબસાઇટ્સ પર તમારા બ્રાઉઝિંગ ડેટાને એકત્રિત કરે તેને અવરોધે છે.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "જાણીતા ટ્રેકર્સને અવરોધિત કરવા માટે ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો">
 <!ENTITY  trackingProtectionAlways.label       "હંમેશા">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "ખાનગી વિન્ડો માં જ">
@@ -14,10 +16,6 @@
 <!ENTITY  trackingProtectionLearnMore.label    "વધુ શીખો">
 <!ENTITY  trackingProtectionExceptions.label   "અપવાદો…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "ખાનગી વિન્ડોઝમાં ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "જાણીતા ટ્રેકર્સને અવરોધિત કરવા માટે ખાનગી બ્રાઉઝિંગમાં ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો">
