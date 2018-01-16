@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Zobrazovať dialóg upozornení">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "Z">
 <!ENTITY pref.missedalarms "Zobrazovať premeškané upozornenia">
+<!ENTITY pref.missedalarms2 "Zobrazovať premeškané upozornenia pre zapisovateľné kalendáre">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "b">
 <!ENTITY pref.calendar.alarms.defaults.label "Predvolené nastavenia upozornení">
 <!ENTITY pref.defalarm4events.label "Upozornenia na udalosti:">
