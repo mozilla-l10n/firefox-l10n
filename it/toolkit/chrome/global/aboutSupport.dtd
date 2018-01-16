@@ -14,6 +14,12 @@
 <!ENTITY aboutSupport.extensionEnabled "Attiva">
 <!ENTITY aboutSupport.extensionVersion "Versione">
 <!ENTITY aboutSupport.extensionId "ID">
+<!ENTITY aboutSupport.securitySoftwareTitle "Software di sicurezza">
+<!ENTITY aboutSupport.securitySoftwareType "Tipo">
+<!ENTITY aboutSupport.securitySoftwareName "Nome">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antispyware">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Firewall">
 <!ENTITY aboutSupport.featuresTitle "Caratteristiche di &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nome">
 <!ENTITY aboutSupport.featureVersion "Versione">
