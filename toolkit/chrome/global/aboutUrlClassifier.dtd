@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Információk az url-classifierről">
+<!ENTITY aboutUrlClassifier.title                       "URL-osztályozó információk">
 <!ENTITY aboutUrlClassifier.providerTitle               "Szolgáltató">
 <!ENTITY aboutUrlClassifier.provider                    "Szolgáltató">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Legutóbbi frissítés ideje">

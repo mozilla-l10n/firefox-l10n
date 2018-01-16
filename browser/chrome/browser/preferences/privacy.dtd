@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Követés elleni védelem">
 <!ENTITY  trackingProtection2.description      "A követés a webhelyek közti böngészésének adatgyűjtése. A követés profilépítésre, és a böngészési valamint személyes információi alapján megjelenített tartalomhoz használható.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Használja a követésvédelmet az ismert követők blokkolására">
+<!ENTITY  trackingProtection3.description      "A követés elleni védelem blokkolja az online nyomkövetőket, melyek a webhelyek közti böngészési adatait gyűjtik.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Követés elleni védelem használata az ismert követők blokkolására">
 <!ENTITY  trackingProtectionAlways.label       "Mindig">
 <!ENTITY  trackingProtectionAlways.accesskey   "d">
 <!ENTITY  trackingProtectionPrivate.label      "Csak privát ablakokban">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Soha">
 <!ENTITY  trackingProtectionNever.accesskey    "o">
 <!ENTITY  trackingProtectionLearnMore.label    "További tudnivalók">
+<!ENTITY  trackingProtectionLearnMore2.label    "Tudjon meg többet a követés elleni védelemről és az adatvédelemről">
 <!ENTITY  trackingProtectionExceptions.label   "Kivételek…">
 <!ENTITY  trackingProtectionExceptions.accesskey "K">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Követés elleni védelem használata privát ablakokban">
-<!ENTITY trackingProtectionPBM5.accesskey     "p">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Követésvédelem használata privát böngészésben, az ismert követők blokkolására">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "További tudnivalók">
