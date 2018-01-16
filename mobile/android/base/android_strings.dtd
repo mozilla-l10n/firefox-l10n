@@ -77,7 +77,7 @@
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "უკვე ჩანიშნულია">
-<!ENTITY bookmark_removed "ბმულის ჩანიშვნა">
+<!ENTITY bookmark_removed "სანიშნი წაიშალა">
 <!ENTITY bookmark_updated "სანიშნი განახლებულია">
 <!ENTITY bookmark_options "პარამეტრები">
 <!ENTITY bookmark_save "შენახვა">
@@ -332,7 +332,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "\&quot;ბევრი ბმულის გასახსნელად\&quot;, დართეთ &brandShortName;-ს \&apos;სხვა აპების გადაფარვის\&apos; ნება">
+<!ENTITY tab_queue_notification_settings "\&quot;რამდენიმე ბმულის გასახსნელად\&quot;, დართეთ &brandShortName;-ს \&apos;სხვა აპების გადაფარვის ნება">
 
 <!ENTITY pref_char_encoding "სიმბოლოთა კოდირება">
 <!ENTITY pref_char_encoding_on "მენიუში ჩვენება">
