@@ -30,7 +30,7 @@
 <!ENTITY hdrReplyButton1.label "Отговаряне">
 <!ENTITY hdrReplyButton2.tooltip "Изпращане на отговор до подателя на писмото">
 <!ENTITY hdrReplyAllButton1.label "Отговор до всички">
-<!ENTITY hdrReplyAllButton1.tooltip "Отговаря на подателя и всички получатели">
+<!ENTITY hdrReplyAllButton1.tooltip "Отговор до подателя и всички получатели">
 <!ENTITY hdrReplyListButton1.label "Отговор до списък">
 <!ENTITY hdrReplyListButton1.tooltip "Отговор до пощенски списък">
 <!ENTITY hdrFollowupButton1.label "Отговор">
