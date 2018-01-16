@@ -490,7 +490,7 @@
 <!ENTITY importCmd.label "Внасяне…">
 <!ENTITY importCmd.accesskey "я">
 <!ENTITY clearRecentHistory.label "Изчистване на скорошна история…">
-<!ENTITY clearRecentHistory.accesskey "х">
+<!ENTITY clearRecentHistory.accesskey "и">
 <!ENTITY accountManagerCmd2.label "Настройки на регистрация">
 <!ENTITY accountManagerCmd2.accesskey "к">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
