@@ -9,7 +9,7 @@
 <!ENTITY firstrun_privacy_message "Navegueu sense sentir-vos observat">
 <!ENTITY firstrun_privacy_subtext "La navegació privada amb protecció contra el seguiment bloca els elements que us fan el seguiment mentre navegueu i no conservarà el vostre historial quan hàgiu acabat de navegar.">
 <!ENTITY firstrun_panel_title_customize "Personalització">
-<!ENTITY firstrun_customize_message "Personalitzeu el &brandShortName; i feu-vos-el vostre.">
+<!ENTITY firstrun_customize_message "Personalitzeu el &brandShortName; i feu-lo vostre.">
 <!ENTITY firstrun_customize_subtext "Personalitzeu el &brandShortName; amb complements. Bloqueu anuncis, afegiu funcions o trieu un tema nou que reflecteixi la vostra personalitat.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Els vostres favorits, al davant i al centre">
@@ -18,7 +18,7 @@
 <!ENTITY firstrun_data_message "Menys dades, més estalvi">
 <!ENTITY firstrun_data_subtext2 "Desactiveu les imatges per estalviar dades en cada lloc que visiteu.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message2 "Continueu des d\&apos;on ho vàreu deixar.">
+<!ENTITY firstrun_sync_message2 "Continueu des d\&apos;on ho deixeu.">
 <!ENTITY firstrun_sync_subtext2 "El Sync permet accedir a les adreces d\&apos;interès, contrasenyes i altres elements que heu desat al &brandShortName; en tots els vostres dispositius.">
 <!ENTITY firstrun_signin_message "Connecteu-vos i comenceu a utilitzar-lo">
 <!ENTITY firstrun_signin_button "Inicia la sessió al Sync">
