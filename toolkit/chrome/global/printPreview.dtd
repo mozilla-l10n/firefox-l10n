@@ -32,7 +32,10 @@
 <!ENTITY Custom.label         "Tùy biến…">
 <!ENTITY ShrinkToFit.label    "Co lại cho Vừa">
 <!ENTITY customPrompt.title   "Tùy biến Tỉ lệ…">
+<!ENTITY simplifyPage.label   "Đơn giản hóa trang">
 <!ENTITY simplifyPage.accesskey "i">
+<!ENTITY simplifyPage.enabled.tooltip  "Thay đổi giao diện để đọc dễ dàng hơn">
+<!ENTITY simplifyPage.disabled.tooltip "Trang này không thể tự động đơn giản hóa">
 
 <!ENTITY homearrow.tooltip    "Trang đầu">
 <!ENTITY endarrow.tooltip     "Trang cuối">

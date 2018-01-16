@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Mở cửa sổ mới trong một tab mới thay thế">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY newWindowsAsTabs3.label       "Mở đường dẫn ở thẻ thay vì ở cửa sổ mới">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Cảnh báo bạn khi đóng nhiều tab một lúc">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 

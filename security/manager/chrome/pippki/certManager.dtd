@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Nhà thẩm định">
 <!ENTITY certmgr.tab.orphan2                  "Khác">
 
-<!ENTITY certmgr.mine                         "Bạn có các chứng thư sau đây từ các tổ chức này để nhận diện bạn:">
-<!ENTITY certmgr.others                       "Bạn có các chứng thư sau đây trong tập tin để nhận diện những người này:">
-<!ENTITY certmgr.websites2                    "Bạn có các chứng thư sau đây trong tập tin để nhận diện những máy chủ này:">
-<!ENTITY certmgr.cas                          "Bạn có các chứng thư sau đây trong tập tin để nhận diện các nhà thẩm định chứng thư này:">
-<!ENTITY certmgr.orphans                      "Bạn có các chứng thư sau đây trong tập tin nhưng không phù hợp với bất kì đề mục nào:">
+<!ENTITY certmgr.mine2                        "Bạn có các chứng thực từ các tổ chức để nhận biết bạn">
+<!ENTITY certmgr.others2                      "Bạn có các tập tin chứng thực để nhận biết những người này">
+<!ENTITY certmgr.websites3                    "Bạn có những tập tin chứng thực để nhận biết những máy chủ này">
+<!ENTITY certmgr.cas2                         "Bạn có những tập tin chứng thực để nhận biết các nhà thẩm định chứng thực này">
+<!ENTITY certmgr.orphans2                     "Bạn có những tập tin chứng thực nhưng không phù hợp với loại nào khác">
 
 <!ENTITY certmgr.detail.general_tab.title     "Tổng quát">
 <!ENTITY certmgr.detail.general_tab.accesskey "T">
@@ -24,14 +24,14 @@
 <!ENTITY certmgr.pending.label                "Hiện đang xác minh chứng thư…">
 <!ENTITY certmgr.subjectinfo.label            "Cấp cho">
 <!ENTITY certmgr.issuerinfo.label             "Cấp bởi">
-
+<!ENTITY certmgr.periodofvalidity.label       "Thời gian hiệu lực" >
 <!ENTITY certmgr.fingerprints.label           "Vân tay">
 <!ENTITY certmgr.certdetail.title             "Chi tiết Chứng thư">
 <!ENTITY certmgr.certdetail.cn                "Tên thông thường (CN)">
 <!ENTITY certmgr.certdetail.o                 "Tổ chức (O)">
 <!ENTITY certmgr.certdetail.ou                "Đơn vị của Tổ chức (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Số Serial">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "Vân tay SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Vân tay SHA1">
 
 <!ENTITY certmgr.editcacert.title             "Chỉnh thiết lập độ tin cậy chứng thư CA">
@@ -46,7 +46,7 @@
 <!ENTITY certmgr.certserver                   "Máy chủ">
 <!ENTITY certmgr.override_lifetime            "Chu kì">
 <!ENTITY certmgr.tokenname                    "Thiết bị Bảo mật">
-
+<!ENTITY certmgr.begins                       "Bắt đầu">
 <!ENTITY certmgr.expires                      "Hết hạn vào">
 <!ENTITY certmgr.email                        "Địa chỉ E-Mail">
 <!ENTITY certmgr.serial                       "Số Serial">
@@ -73,8 +73,8 @@
 <!ENTITY certmgr.details.accesskey            "r">
 <!ENTITY certmgr.fields.label                 "Giá trị Trường">
 <!ENTITY certmgr.fields.accesskey             "G">
-
-
+<!ENTITY certmgr.hierarchy.label              "Cấp bậc chứng thực">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Thêm Ngoại Lệ…">
 <!ENTITY certmgr.addException.accesskey       "T">
 
