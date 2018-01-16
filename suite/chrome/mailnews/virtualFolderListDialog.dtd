@@ -4,5 +4,10 @@
 
 <!ENTITY server.label "Účet: ">
 <!ENTITY server.accesskey "e">
-<!ENTITY virtualFolderListTitle.title "Výber priečinkov">
-<!ENTITY virtualFolderDesc.label "Vyberte priečinky, ktoré budú prehľadávané:">
+
+<!ENTITY virtualFolderListTitle.title        "Výber priečinkov">
+<!ENTITY virtualFolderDesc.label       "Vyberte priečinky, ktoré budú prehľadávané:">
+
+
+<!ENTITY folderName.label "Názov priečinka">
+<!ENTITY folderSearch.label "Hľadať">
