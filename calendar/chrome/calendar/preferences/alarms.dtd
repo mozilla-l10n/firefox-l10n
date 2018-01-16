@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Montri memorigan dialogon">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "Montri maltrafitajn memorigojn">
+<!ENTITY pref.missedalarms2 "Montri maltrafitajn memorigojn por redakteblaj kalendaroj">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Normoj de memorigo">
 <!ENTITY pref.defalarm4events.label "Norma agordo por memorigo de eventoj:">
