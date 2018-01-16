@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Trình chống theo dõi">
 <!ENTITY  trackingProtection2.description      "Theo dõi là sưu tập dữ liệu duyệt web của bạn trên nhiều trang web. Theo dõi có thể được sử dụng để xây dựng hồ sơ và hiển thị nội dung dựa trên thông tin duyệt web và cá nhân của bạn.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Sử dụng trình chống theo dõi để chặn các trình theo dõi đã được nhận biết">
+<!ENTITY  trackingProtection3.description      "Trình chống theo dõi chặn các trình theo dõi trực tuyến thu thập dữ liệu duyệt web của bạn trên nhiều trang web.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Sử dụng trình chống theo dõi để chặn các trình theo dõi đã được nhận biết">
 <!ENTITY  trackingProtectionAlways.label       "Luôn luôn">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Chỉ trong cửa sổ riêng tư">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Không bao giờ">
 <!ENTITY  trackingProtectionNever.accesskey    "K">
 <!ENTITY  trackingProtectionLearnMore.label    "Tìm hiểu thêm">
+<!ENTITY  trackingProtectionLearnMore2.label    "Tìm hiểu thêm về trình chống theo dõi và chính sách riêng tư của bạn">
 <!ENTITY  trackingProtectionExceptions.label   "Ngoại lệ…">
 <!ENTITY  trackingProtectionExceptions.accesskey "g">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Sử dụng cơ chế chống theo dõi trong cửa sổ riêng tư">
-<!ENTITY trackingProtectionPBM5.accesskey     "r">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Sử dụng trình chống theo dõi ở chế độ duyệt web riêng tư để chặn các trình theo dõi đã được nhận biết">
