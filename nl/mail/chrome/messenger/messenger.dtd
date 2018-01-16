@@ -344,9 +344,9 @@
 <!ENTITY replyMsgCmd.accesskey "a">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Afzender beantwoorden">
-<!ENTITY replySenderCmd.accesskey "a">
+<!ENTITY replySenderCmd.accesskey "z">
 <!ENTITY replyNewsgroupCmd2.label "Reageren naar nieuwsgroep">
-<!ENTITY replyNewsgroupCmd2.accesskey  "r">
+<!ENTITY replyNewsgroupCmd2.accesskey  "R">
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
 <!ENTITY replyToAllMsgCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -366,7 +366,9 @@
 <!ENTITY editAsNewMsgCmd.accesskey "B">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Conceptbericht bewerken">
-<!ENTITY editDraftMsgCmd.accesskey "b">
+<!ENTITY editDraftMsgCmd.accesskey "C">
+<!ENTITY editTemplateMsgCmd.label "Sjabloon bewerken">
+<!ENTITY editTemplateMsgCmd.accesskey "j">
 <!ENTITY newMsgFromTemplateCmd.label "Nieuw bericht op basis van sjabloon">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Filter maken op basis van bericht…">
@@ -383,7 +385,7 @@
 <!ENTITY moveToFolderAgain.accesskey "w">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Conversatie negeren">
-<!ENTITY killThreadMenu.accesskey "C">
+<!ENTITY killThreadMenu.accesskey "g">
 <!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Subconversatie negeren">
 <!ENTITY killSubthreadMenu.accesskey "u">
@@ -434,7 +436,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "o">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Openen in conversatie">
-<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.accesskey "p">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Bijlagen">
 <!ENTITY openAttachmentListCmd.accesskey "e">
@@ -760,12 +762,14 @@
 <!ENTITY contextEditMsgAsNew.label "Bewerken als nieuw bericht">
 <!ENTITY contextEditMsgAsNew.accesskey "B">
 <!ENTITY contextEditDraftMsg.label "Conceptbericht bewerken">
+<!ENTITY contextEditTemplate.label "Sjabloon bewerken">
+<!ENTITY contextEditTemplate.accesskey "j">
 <!ENTITY contextArchive.label "Archiveren">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Afzender beantwoorden">
-<!ENTITY contextReplySender.accesskey "a">
+<!ENTITY contextReplySender.accesskey "z">
 <!ENTITY contextReplyNewsgroup2.label "Reageren naar nieuwsgroep">
-<!ENTITY contextReplyNewsgroup2.accesskey "r">
+<!ENTITY contextReplyNewsgroup2.accesskey "R">
 <!ENTITY contextReplyAll.label "Allen beantwoorden">
 <!ENTITY contextReplyAll.accesskey "e">
 <!ENTITY contextReplyList.label "Lijst beantwoorden">
@@ -773,13 +777,13 @@
 <!ENTITY contextForward.label "Doorsturen">
 <!ENTITY contextForward.accesskey "s">
 <!ENTITY contextForwardAsMenu.label "Doorsturen als">
-<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsMenu.accesskey "t">
 <!ENTITY contextForwardAsInline.label "In het bericht">
 <!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "Bijlage">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "B">
 <!ENTITY contextMultiForwardAsAttachment.label "Doorsturen als bijlagen">
-<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "s">
 <!ENTITY contextMoveMsgMenu.label "Verplaatsen naar">
 <!ENTITY contextMoveMsgMenu.accesskey "r">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
@@ -787,21 +791,21 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiëren naar">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Conversatie negeren">
-<!ENTITY contextKillThreadMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.accesskey "g">
 <!ENTITY contextKillSubthreadMenu.label "Subconversatie negeren">
-<!ENTITY contextKillSubthreadMenu.accesskey "b">
+<!ENTITY contextKillSubthreadMenu.accesskey "u">
 <!ENTITY contextWatchThreadMenu.label "Conversatie volgen">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
-<!ENTITY contextWatchThreadMenu.accesskey "C">
+<!ENTITY contextWatchThreadMenu.accesskey "v">
 <!ENTITY contextSaveAs.label "Opslaan als…">
 <!ENTITY contextSaveAs.accesskey "O">
 <!ENTITY contextPrint.label "Afdrukken…">
 <!ENTITY contextPrint.accesskey "d">
 <!ENTITY contextPrintPreview.label "Afdrukvoorbeeld">
-<!ENTITY contextPrintPreview.accesskey "f">
+<!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
