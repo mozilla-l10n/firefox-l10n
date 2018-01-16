@@ -548,7 +548,7 @@
 <!ENTITY deleteButton.label "Изтриване">
 <!ENTITY undeleteButton.label "Възстановяване">
 <!ENTITY markButton.label "Отбелязване">
-<!ENTITY printButton.label "Печат">
+<!ENTITY printButton.label "Отпечатване">
 <!ENTITY stopButton.label "Стоп">
 <!ENTITY throbberItem.title "Индикатор за активност">
 <!ENTITY junkItem.title "Junk">
