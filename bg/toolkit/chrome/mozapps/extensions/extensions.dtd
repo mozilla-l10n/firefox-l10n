@@ -25,9 +25,6 @@
 <!ENTITY getThemes.description                "Искате да персонализирате вашия четец?">
 <!ENTITY getThemes.learnMore                  "Изберете измежду хиляди теми">
 
-<!ENTITY cmd.back.tooltip                     "Връщане една страница назад">
-<!ENTITY cmd.forward.tooltip                  "Отиване една страница напред">
-
 
 <!ENTITY showUnsignedExtensions.button.label  "Някои разширения не можаха да бъдат проверени">
 <!ENTITY showAllExtensions.button.label       "Показване на всички разширения">
@@ -45,7 +42,7 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Търсене">
-<!ENTITY view.discover.label                  "Изтегляне на добавки">
+<!ENTITY view.discover.label                  "Повече добавки">
 <!ENTITY view.recentUpdates.label             "Скорошни обновявания">
 <!ENTITY view.availableUpdates.label          "Налични обновявания">
 
@@ -259,6 +256,6 @@
 <!ENTITY pluginDeprecation.learnMore "Научете повече">
 
 <!ENTITY legacyWarning.showLegacy "Показване на остарелите разширения">
-<!ENTITY legacyExtensions.title "Остарели разширения">
+<!ENTITY legacyExtensions.title "Остарели добавки">
 <!ENTITY legacyExtensions.description "Тези разширения не отговарят на текущите стандарти на &brandShortName; и затова са изключени.">
 <!ENTITY legacyExtensions.learnMore "Научете повече за промените при добавките">

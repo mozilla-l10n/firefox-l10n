@@ -17,7 +17,7 @@
 <!ENTITY treehead.siteName2.label         "Страници">
 <!ENTITY removeSite.label                 "Премахване на сайт">
 <!ENTITY removeSite.accesskey             "с">
-<!ENTITY removeAllSites.label             "Премахване на всички сайтове">
+<!ENTITY removeAllSites.label             "Премахване на всички страници">
 <!ENTITY removeAllSites.accesskey         "р">
 
 <!ENTITY button.close.label               "Затваряне">
