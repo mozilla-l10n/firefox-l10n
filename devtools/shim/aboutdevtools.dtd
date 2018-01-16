@@ -74,7 +74,7 @@
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Beriem na vedomie, že Mozilla spracuje tieto údaje v súlade so <a class='external' href='https://www.mozilla.org/privacy/'>zásadami ochrany súkromia</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Odoberať">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Ďakujeme!">
-<!ENTITY  aboutDevtools.newsletter.thanks.message "Ak ste v minulosti nepotvrdili odber noviniek Mozilly, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e-mailovej schránky, prípadne i do priečinku s nevyžiadanou poštou, či sa tam nenachádza e-mail od nás.">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Ak ste v minulosti nepotvrdili odber noviniek Mozilly, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e-mailovej schránky, prípadne i do priečinka s nevyžiadanou poštou, či sa tam nenachádza e-mail od nás.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 <!ENTITY  aboutDevtools.footer.message "Hľadáte viac, než len vývojárske nástroje? Vyskúšajte verziu Firefoxu vytvorenú špeciálne pre vývojárov a moderné pracovné postupy.">
