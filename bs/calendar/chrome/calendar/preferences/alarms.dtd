@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Prikaži okvir podsjetnika">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "Prikaži propuštene podsjetnike">
+<!ENTITY pref.missedalarms2 "Prikaži propuštene podsjetnike za pisajuće kalendare">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Zadane postavke podsjetnika">
 <!ENTITY pref.defalarm4events.label "Zadane postavke podsjetnika za događaje:">
