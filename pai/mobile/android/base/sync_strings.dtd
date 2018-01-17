@@ -32,6 +32,8 @@
 
 <!ENTITY fxaccount_getting_started_get_started 'Namaan'>
 
+<!ENTITY fxaccount_status_passwords2 'Chnamanchu'>
+<!ENTITY fxaccount_status_tabs 'Ch chkwaachu msool'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
 <!-- Localization note: when tapped, the following two strings link to
@@ -47,6 +49,7 @@
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
