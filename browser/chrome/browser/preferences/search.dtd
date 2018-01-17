@@ -4,7 +4,7 @@
 
 <!ENTITY searchBar.label                       "搜尋列">
 
-<!ENTITY searchBar.hidden.label                "使用網址列搜尋與導航">
+<!ENTITY searchBar.hidden.label                "使用網址列搜尋與上網">
 <!ENTITY searchBar.shown.label                 "在工具列新增搜尋列">
 
 <!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
