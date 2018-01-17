@@ -405,7 +405,9 @@ chab mtñur">
 <!ENTITY pref_panels_move_down "Matwaam">
 
 <!ENTITY datareporting_notification_title "Estadistik ee tñuur &brandShortName;">
+<!ENTITY datareporting_notification_action "Myo paa jkay paa m\&apos; em">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Chkaabch ha myo paa mkyim">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -454,7 +456,6 @@ chab mtñur">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -597,7 +598,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 
 
 
