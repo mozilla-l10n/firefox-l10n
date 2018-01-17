@@ -155,3 +155,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanali">
 <!ENTITY aboutSupport.mediaDeviceRate "Hitrost">
 <!ENTITY aboutSupport.mediaDeviceLatency "Zakasnitev">
+
+<!ENTITY aboutSupport.intlAppTitle "Nastavitve programa">
+<!ENTITY aboutSupport.intlOSTitle "Operacijski sistem">
+<!ENTITY aboutSupport.intlRegionalPrefs "Območne nastavitve">
