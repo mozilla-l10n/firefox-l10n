@@ -14,6 +14,7 @@
 <!ENTITY  trackingProtectionNever.label        "ક્યારેય નહિં">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "વધુ શીખો">
+<!ENTITY  trackingProtectionLearnMore2.label    "ટ્રેકિંગ સુરક્ષા અને તમારી ગોપનીયતા વિશે વધુ જાણો">
 <!ENTITY  trackingProtectionExceptions.label   "અપવાદો…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
