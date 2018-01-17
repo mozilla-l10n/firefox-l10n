@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Zaštita od praćenja">
 <!ENTITY  trackingProtection2.description      "Praćenje je skup podataka o vašim navikama surfanja prikupljenih sa različitih web stranica. Praćenje može biti korišteno za formiranje profila i prikaz sadržaja baziranih na vašim navikama surfanja i ličnim podacima.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Koristi Zaštitu od praćenja radi blokiranja poznatih pratilaca">
+<!ENTITY  trackingProtection3.description      "Zaštita od praćenja blokira online tragače koji prikupljaju vaše podatke pretraživanja putem više web stranica.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Koristi Zaštitu od praćenja radi blokiranja poznatih pratilaca">
 <!ENTITY  trackingProtectionAlways.label       "Uvijek">
 <!ENTITY  trackingProtectionAlways.accesskey   "j">
 <!ENTITY  trackingProtectionPrivate.label      "Samo u privatnim prozorima">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Nikad">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Saznajte više">
+<!ENTITY  trackingProtectionLearnMore2.label    "Saznajte više o Zaštiti od praćenja i vašoj privatnosti">
 <!ENTITY  trackingProtectionExceptions.label   "Izuzeci…">
 <!ENTITY  trackingProtectionExceptions.accesskey "I">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Koristi zaštitu od praćenja u privatnim prozorima">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Koristi Zaštitu od praćenja u Privatnom režimu radi blokiranja poznatih pratilaca">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saznajte više">
