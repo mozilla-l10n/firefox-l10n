@@ -22,7 +22,7 @@
 <!ENTITY scrolling.label               "Плъзгане">
 <!ENTITY useAutoScroll.label           "Автоматично плъзгане">
 <!ENTITY useAutoScroll.accesskey       "И">
-<!ENTITY useSmoothScrolling.label      "Използване на плавно плъзгане">
+<!ENTITY useSmoothScrolling.label      "Плавно плъзгане">
 <!ENTITY useSmoothScrolling.accesskey  "п">
 
 <!ENTITY systemIntegration.label       "Системно интегриране">

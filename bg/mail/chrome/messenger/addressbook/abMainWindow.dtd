@@ -151,7 +151,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editContactContext.accesskey                   "р">
 <!ENTITY editMailingListContext.label                   "Редактиране на списък">
 <!ENTITY editMailingListContext.accesskey               "р">
-<!ENTITY newmsgButton.label                             "Писане на писмо">
+<!ENTITY newmsgButton.label                             "Писане">
 <!ENTITY newmsgButton.accesskey                         "П">
 <!ENTITY newIM.label                                    "Бързо съобщение">
 <!ENTITY newIM.accesskey                                "Б">

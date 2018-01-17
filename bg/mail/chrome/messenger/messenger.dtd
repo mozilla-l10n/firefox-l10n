@@ -528,7 +528,7 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Изтегляне на писма">
-<!ENTITY newMsgButton.label "Писане на писмо">
+<!ENTITY newMsgButton.label "Писане">
 <!ENTITY replyButton.label "Отговор">
 <!ENTITY replyAllButton.label "Отговор до всички">
 <!ENTITY replyListButton.label "Отговор до списък">

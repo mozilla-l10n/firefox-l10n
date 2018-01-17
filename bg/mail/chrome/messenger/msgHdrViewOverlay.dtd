@@ -78,7 +78,7 @@
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Отваряне">
 <!ENTITY openAttachmentCmd.accesskey    "О">
-<!ENTITY saveAsAttachmentCmd.label    "Запазване на всички…">
+<!ENTITY saveAsAttachmentCmd.label    "Запазване като…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "в">
 <!ENTITY detachAttachmentCmd.label    "Разкачане…">
 <!ENTITY detachAttachmentCmd.accesskey    "к">
