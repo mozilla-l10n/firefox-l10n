@@ -30,7 +30,7 @@
 <!ENTITY abSearchHeading.accesskey   "Т">
 <!ENTITY propertiesButton.label      "Свойства">
 <!ENTITY propertiesButton.accesskey  "й">
-<!ENTITY composeButton.label         "Писане на писмо">
+<!ENTITY composeButton.label         "Писане">
 <!ENTITY composeButton.accesskey     "П">
 <!ENTITY deleteCardButton.label      "Изтриване">
 <!ENTITY deleteCardButton.accesskey  "з">
