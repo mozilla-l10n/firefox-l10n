@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Jarraipenaren babesa">
 <!ENTITY  trackingProtection2.description      "Hainbat webguneren arteko zure nabigatze-datuen bildumari deritzo jarraipena. Zuri buruzko profil bat eraiki eta zure nabigazioan eta informazio pertsonalean oinarrituta edukiak bistaratzeko erabil daiteke jarraipena.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Babestu jarraipena egiteaz ezagunak diren guneetatik">
+<!ENTITY  trackingProtection3.description      "Jarraipenaren babesarekin hainbat webguneren artean zure nabigazio-datuak biltzea blokeatuko da.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Babestu jarraipena egiteaz ezagunak diren guneetatik">
 <!ENTITY  trackingProtectionAlways.label       "Beti">
 <!ENTITY  trackingProtectionAlways.accesskey   "B">
 <!ENTITY  trackingProtectionPrivate.label      "Leiho pribatuak soilik">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Inoiz ez">
 <!ENTITY  trackingProtectionNever.accesskey    "I">
 <!ENTITY  trackingProtectionLearnMore.label    "Argibide gehiago">
+<!ENTITY  trackingProtectionLearnMore2.label    "Argibide gehiago jarraipenaren babesari eta zure pribatutasunari buruz">
 <!ENTITY  trackingProtectionExceptions.label   "Salbuespenak…">
 <!ENTITY  trackingProtectionExceptions.accesskey "S">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Erabili jarraipenaren babesa leiho pribatuetan">
-<!ENTITY trackingProtectionPBM5.accesskey     "h">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Babestu jarraipena egiteaz ezagunak diren guneetatik nabigatze pribatuan">
 <!ENTITY trackingProtectionPBM6.accesskey     "b">
 <!ENTITY trackingProtectionPBMLearnMore.label "Argibide gehiago">
