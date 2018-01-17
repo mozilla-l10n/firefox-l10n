@@ -25,11 +25,13 @@
 <!ENTITY spellDictionaries.label "ભાષાઓ">
 <!ENTITY spellDictionaries.accesskey "L">
 
+<!ENTITY searchTextBox.clear.label "સાફ કરો">
 
-
-
-
-
-
-
-
+<!ENTITY fillLoginMenu.label          "લૉગિન ભરો">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "પાસવર્ડ ભરો">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "વપરાશકર્તાનામ ભરો">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(લૉગિન સૂચનો ના બતાવો)">
+<!ENTITY viewSavedLogins.label        "સાચવેલા લૉગિન્સ જુઓ">
