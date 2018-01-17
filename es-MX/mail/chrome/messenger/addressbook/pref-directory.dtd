@@ -5,6 +5,10 @@
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
+<!ENTITY directoriesText.accesskey "S">
 <!ENTITY addDirectory.label        "Agregar">
+<!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "Editar">
+<!ENTITY editDirectory.accesskey   "e">
 <!ENTITY deleteDirectory.label     "Eliminar">
+<!ENTITY deleteDirectory.accesskey "d">

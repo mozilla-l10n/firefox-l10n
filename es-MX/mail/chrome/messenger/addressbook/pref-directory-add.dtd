@@ -31,6 +31,11 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultados">
 <!ENTITY offlineText.label                 "Puedes descargar una copia en local de este directorio para poder trabajar con ella cuando estés desconectado.">
+<!ENTITY saslMechanism.label               "Método de iniciar sesión: ">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslOff.label                     "Simple">
+<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY saslGSSAPI.accesskey              "K">
 
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
