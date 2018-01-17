@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Zaščita pred sledenjem">
 <!ENTITY  trackingProtection2.description      "Sledenje je zbiranje podatkov o vašem brskanju prek več spletnih strani. Z uporabo sledenja je mogoče ustvariti profil ter prikazovati vsebino na podlagi vaših osebnih podatkov in podatkov o brskanju.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Uporabljaj zaščito pred sledenjem za zavračanje znanih sledilcev">
+<!ENTITY  trackingProtection3.description      "Zaščita pred sledenjem zavrača spletne sledilce, ki zbirajo podatke brskanja po spletnih straneh.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Uporabljaj zaščito pred sledenjem za zavračanje znanih sledilcev">
 <!ENTITY  trackingProtectionAlways.label       "Vedno">
 <!ENTITY  trackingProtectionAlways.accesskey   "e">
 <!ENTITY  trackingProtectionPrivate.label      "Le v zasebnih oknih">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Nikoli">
 <!ENTITY  trackingProtectionNever.accesskey    "o">
 <!ENTITY  trackingProtectionLearnMore.label    "Več o tem">
+<!ENTITY  trackingProtectionLearnMore2.label    "Več o zaščiti pred sledenjem in vaši zasebnost">
 <!ENTITY  trackingProtectionExceptions.label   "Izjeme …">
 <!ENTITY  trackingProtectionExceptions.accesskey "j">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Uporabi zaščito pred sledenjem v zasebnih oknih">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Uporabljaj zaščito pred sledenjem v zasebnem brskanju za zavračanje znanih sledilcev">
 <!ENTITY trackingProtectionPBM6.accesskey     "r">
 <!ENTITY trackingProtectionPBMLearnMore.label "Več o tem">
