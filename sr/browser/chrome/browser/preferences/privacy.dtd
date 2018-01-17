@@ -14,6 +14,7 @@
 <!ENTITY  trackingProtectionNever.label        "Никада">
 <!ENTITY  trackingProtectionNever.accesskey    "Н">
 <!ENTITY  trackingProtectionLearnMore.label    "Сазнајте више">
+<!ENTITY  trackingProtectionLearnMore2.label    "Сазнајте више о заштити од праћења и вашој приватности">
 <!ENTITY  trackingProtectionExceptions.label   "Изузеци…">
 <!ENTITY  trackingProtectionExceptions.accesskey "И">
 
