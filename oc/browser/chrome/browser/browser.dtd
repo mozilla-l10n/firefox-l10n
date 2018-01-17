@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Avètz blocat lo microfòn per aqueste site.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Avètz empachat aquel site de partejar vòstre ecran.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Avètz blocat la geolocalizacion per aqueste site.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Avètz empachat aquel site de gardar de donadas.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Avètz blocat las notificacions per aquel site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Avètz empachat aquel site de gardar de biais persistent de donadas.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Avètz blocat la fenèstras surgentas per aqueste site.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Avètz empachat aqueste site de traire d’informacions de canvas.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Novèla fenèstra de navigacion privada">
 <!ENTITY newPrivateWindow.accesskey "N">
-<!ENTITY newNonRemoteWindow.label   "Novèla fenèstra no-e10s">
 
 <!ENTITY editMenu.label         "Edicion">
 <!ENTITY editMenu.accesskey       "n">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Afichar tot l'istoric">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuCustomize.tooltip "Personalizar lo menú e las barras d'aisinas">
-<!ENTITY appMenuCustomizeExit.label "Quitar la personalizacion">
-<!ENTITY appMenuCustomizeExit.tooltip "Terminar la personalizacion">
-
 <!ENTITY appMenuHistory.showAll.label "Afichar tot l'istoric">
 <!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent...">
 <!ENTITY appMenuHistory.restoreSession.label "Restablir la session precedenta">
 <!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
 <!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
 <!ENTITY appMenuHelp.label "Ajuda">
-<!ENTITY appMenuHelp.tooltip "Dobrir lo menú d'ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Onglets sincronizats">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extension :">
 <!ENTITY urlbar.switchToTab.label     "Anar a l'onglet :">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Volètz melhorar lo biais de far de recercas amb de suggestions ?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ne saber mai…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Òc">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "O">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Astúcias :">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estil de pagina basic">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Cambiar la politica popups d'aqueste site web">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Lisatz vòstres elements favorits cap al la barra d'aisinas o al menú demai.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Besonh d'encara mai d'aisinas ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Fasètz vòstra causida demest de milierats de moduls complementaris">
 <!ENTITY customizeMode.restoreDefaults "Restablir l'òrdre inicial">
 <!ENTITY customizeMode.done "Acabat">
 <!ENTITY customizeMode.titlebar "Barra de títol">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Telecargar d'autres tèmas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Far lisar e pausar los elements aquí per los gardar a man, mas fòra de vòstra barra d’aisinas…">
 <!ENTITY customizeMode.overflowList.title2 "Menú suplementari">
 <!ENTITY customizeMode.overflowList.description "Far lisar e pausar los elements aquí per los gardar a man, mas fòra de vòstra barra d’aisinas…">
 <!ENTITY customizeMode.uidensity "Densitat">
@@ -913,7 +891,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon espiar vòstra navigacion.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon espiar vòstra navigacion. Avètz desactivat la proteccion.">
-<!ENTITY trackingProtection.notDetected3 "Pas cap d'element de traçatge es estat detectat sus aquela pagina.">
+<!ENTITY trackingProtection.notDetected3 "Pas cap d'element de seguiment es estat detectat sus aquela pagina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Accions de la pagina">
 <!ENTITY pageAction.addToUrlbar.label "Apondre la barra d'adreça">
 <!ENTITY pageAction.removeFromUrlbar.label "Levar de la barra d'adreça">
-
 <!ENTITY pageAction.allowInUrlbar.label "Mostrar dins la barra d’adreça">
 <!ENTITY pageAction.disallowInUrlbar.label "Mostrar pas dins la barra d’adreça">
 <!ENTITY pageAction.manageExtension.label "Gerir l’extension…">
