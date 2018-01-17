@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "알람 상자 보이기">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "경과된 알람 보이기">
+<!ENTITY pref.missedalarms2 "수정 가능한 캘린더의 경과된 알람 보이기">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "알람 기본 설정">
 <!ENTITY pref.defalarm4events.label "이벤트 기본 알람 설정:">
