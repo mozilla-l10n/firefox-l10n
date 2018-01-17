@@ -5,6 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "Protección de seguimiento">
 <!ENTITY  trackingProtection2.description      "El rastreo es la recolección de tus datos de navegación entre múltiples sitios web. El rastreo puede ser usado para construir un perfil y mostrar contenido basándose en tu información personal y de navegación.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Usar protección de rastreo para bloquear los rastreadores conocidos">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Usa la protección de seguimiento para bloquear a los rastreadores conocidos">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Solo en ventanas privadas">
@@ -15,10 +16,7 @@
 <!ENTITY  trackingProtectionExceptions.label   "Excepciones…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Usar protección de seguimiento en ventanas privadas">
-<!ENTITY trackingProtectionPBM5.accesskey     "y">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Usar protección de rastreo en navegación privada para bloquear los rastreadores conocidos">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Aprender más">

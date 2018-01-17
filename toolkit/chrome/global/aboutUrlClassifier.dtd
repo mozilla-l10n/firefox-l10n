@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
-<!ENTITY aboutUrlClassifier.pageTitle                   "Información sobre el clasificador de url">
+<!ENTITY aboutUrlClassifier.pageTitle                   "Información sobre el url-classifier">
 <!ENTITY aboutUrlClassifier.providerTitle               "Proveedor">
 <!ENTITY aboutUrlClassifier.provider                    "Proveedor">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Última actualización">
