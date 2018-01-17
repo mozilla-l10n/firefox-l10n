@@ -4,9 +4,9 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Защита от проследяване">
 <!ENTITY  trackingProtection2.description      "Проследяването е събиране на данни за начина по който разглеждате различни сайтове. То може да бъде използвано за създаване на ваш профил и предлагане на съдържание базирано на поведенческа и лична информация.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Използвайте защитата за блокиране на известните проследяващи сайтове">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Използвайте защитата за спиране на известните проследяващи страници">
 <!ENTITY  trackingProtection3.description      "Защитата от проследяване спира страниците, които събират информация за вас докато разглеждате различни сайтове.">
-<!ENTITY  trackingProtection3.radioGroupLabel  "Използвайте защитата за блокиране на известните проследяващи страници">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Използвайте защитата за спиране на известните проследяващи страници">
 <!ENTITY  trackingProtectionAlways.label       "Винаги">
 <!ENTITY  trackingProtectionAlways.accesskey   "В">
 <!ENTITY  trackingProtectionPrivate.label      "Само в поверителни прозорци">
