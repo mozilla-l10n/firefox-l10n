@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Информације о url-classifier">
+<!ENTITY aboutUrlClassifier.title                       "URL класификатор информација">
 <!ENTITY aboutUrlClassifier.providerTitle               "Провајдер">
 <!ENTITY aboutUrlClassifier.provider                    "Провајдер">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Време последњег ажурирања">
