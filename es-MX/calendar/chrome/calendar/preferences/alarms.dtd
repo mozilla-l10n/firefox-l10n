@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Mostrar el diálogo del recordatorio">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "Mostrar recordatorios olvidados">
+<!ENTITY pref.missedalarms2 "Mostrar recordatorios fallados para calendarios editables">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Valores predeterminados para recordatorios">
 <!ENTITY pref.defalarm4events.label "Configuración recordatorio predeterminada para eventos:">
