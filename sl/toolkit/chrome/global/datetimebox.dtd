@@ -10,8 +10,25 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
+<!ENTITY time.hour.label "Ure">
+<!ENTITY time.minute.label "Minute">
+<!ENTITY time.second.label "Sekunde">
+<!ENTITY time.millisecond.label "Milisekunde">
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "llll">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
+
+<!-- Field labels for input type=date -->
+
+<!ENTITY date.year.label "Leto">
+<!ENTITY date.month.label "Mesec">
+<!ENTITY date.day.label "Dan">
+
+<!-- Date/time clear button -->
+
+<!ENTITY datetime.reset.label "Počisti">

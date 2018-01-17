@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Upravitelj dodatkov">
 
 <!ENTITY search.placeholder                   "Išči po vseh dodatkih">
+
+<!ENTITY search.placeholder2                  "Išči na addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Išči">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -23,8 +25,6 @@
 <!ENTITY getThemes.description                "Želite brskalnik prilagoditi svojemu okusu?">
 <!ENTITY getThemes.learnMore                  "Izbirajte med tisoči tem.">
 
-<!ENTITY cmd.back.tooltip                     "Pojdi eno stran nazaj">
-<!ENTITY cmd.forward.tooltip                  "Pojdi eno stran naprej">
 
 <!ENTITY showUnsignedExtensions.button.label  "Nekaterih razširitev ni bilo mogoče potrditi">
 <!ENTITY showAllExtensions.button.label       "Prikaži vse razširitve">
@@ -257,7 +257,6 @@
 <!ENTITY pluginDeprecation.description "Pogrešate kaj? Nekateri vtičniki niso več podprti v &brandShortName;u.">
 <!ENTITY pluginDeprecation.learnMore "Več o tem.">
 
-<!ENTITY legacyWarning.description "Pogrešate kaj? Nekatere razširitve niso več podprte v &brandShortName;u.">
 <!ENTITY legacyWarning.showLegacy "Prikaži zastarele razširitve">
 <!ENTITY legacyExtensions.title "Zastarele razširitve">
 <!ENTITY legacyExtensions.description "Te razširitve ne ustrezajo trenutnim standardom &brandShortName;a, zato so bile onemogočene.">
