@@ -10,8 +10,8 @@
 <!ENTITY restorepage.problemDesc2   "Не можем да възстановим вашата последна сесия. Изберете „Възстановяване на сесия“ за повторен опит.">
 <!ENTITY restorepage.tryThis2       "Все още ли не можете да възстановите сесията? Причината понякога е у някой раздел. Прегледайте предишните раздели, махнете отметката пред тези, които не ви трябват и отново пробвайте възстановяване.">
 
-<!ENTITY restorepage.hideTabs       "Показване на предишните раздели">
-<!ENTITY restorepage.showTabs       "Скриване на предишните раздели">
+<!ENTITY restorepage.hideTabs       "Скриване на предишните раздели">
+<!ENTITY restorepage.showTabs       "Показване на предишните раздели">
 
 <!ENTITY restorepage.tryagainButton2 "Възстановяване на сесия">
 <!ENTITY restorepage.restore.access2 "в">
