@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Protección contra rastreo">
 <!ENTITY  trackingProtection2.description      "Rastreo es la recolección de tus datos de navegación a través de múltiples sitios Web. Rastreo puede utilizarse para crear un perfil y mostrar contenido basado en tu navegación e información personal.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Usar protección de rastreo para bloquear rastreadores conocidos">
+<!ENTITY  trackingProtection3.description      "Protección de rastreo bloquea a los rastreadores en línea que recolecta tus datos de navegación a través de múltiples sitios web.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Usar protección de rastreo para bloquear rastreadores conocidos">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "e">
 <!ENTITY  trackingProtectionPrivate.label      "Solo en ventanas privadas">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Nunca">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Saber más">
+<!ENTITY  trackingProtectionLearnMore2.label    "Saber más acerca de la protección de rastreo y tu privacidad">
 <!ENTITY  trackingProtectionExceptions.label   "Excepciones…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Usar protección de rastreo en Ventanas Privadas">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Usar Protección de Rastreo en la navegación privada para bloquear rastreadores conocidos">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber más">
