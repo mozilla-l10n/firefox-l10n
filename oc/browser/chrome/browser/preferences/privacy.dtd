@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader2.label      "Proteccion contra lo pistatge">
+<!ENTITY  trackingProtectionHeader2.label      "Proteccion contra lo seguiment">
 <!ENTITY  trackingProtection2.description      "Lo pistatge es la collècta de vòstras donadas de navigacion pels sites web. Lo pistatge pòt s'utilizar per bastir un perfil e afichar de contengut segon vòstras navigacions e donadas personalas.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Utilizar la proteccion contra lo pistatge per blocar los traçadors coneguts">
+<!ENTITY  trackingProtection3.description      "La proteccion contra lo seguiment bloca los traçadors en linha que collectan vòstras donadas de navigacion a partir de mantun sites web.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts">
 <!ENTITY  trackingProtectionAlways.label       "Totjorn">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
 <!ENTITY  trackingProtectionPrivate.label      "Sonque las fenèstras privadas">
@@ -12,6 +14,7 @@
 <!ENTITY  trackingProtectionNever.label        "Jamai">
 <!ENTITY  trackingProtectionNever.accesskey    "j">
 <!ENTITY  trackingProtectionLearnMore.label    "Ne saber mai">
+<!ENTITY  trackingProtectionLearnMore2.label    "Ne saber mai sus la proteccion contra lo seguiment e la proteccion de vòstra privacitat">
 <!ENTITY  trackingProtectionExceptions.label   "Excepcions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
 

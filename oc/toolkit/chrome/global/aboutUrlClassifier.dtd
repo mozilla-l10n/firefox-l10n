@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Informacions sus l’url-classifier">
+<!ENTITY aboutUrlClassifier.title                       "Informacion tocant la classificacion de las URL">
 <!ENTITY aboutUrlClassifier.providerTitle               "Provesidor">
 <!ENTITY aboutUrlClassifier.provider                    "Provesidor">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Darrièra mesa a jorn">

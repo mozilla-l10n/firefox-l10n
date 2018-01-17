@@ -5,6 +5,6 @@
 do-not-track-description = Mandar als sites web lo senhal “Me pistar pas” per lor dire que volètz pas èsser pistat
 do-not-track-learn-more = Ne saber mai
 do-not-track-option-default
-    .label = Sonque en utilizar la proteccion contra lo pistatge
+    .label = Sonque en utilizar la proteccion contra lo seguiment
 do-not-track-option-always
     .label = Totjorn
