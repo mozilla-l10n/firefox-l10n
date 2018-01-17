@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Proteção contra rastreamento">
 <!ENTITY  trackingProtection2.description      "O rastreamento é a coleta de seus dados de navegação em vários sites. O rastreamento pode ser usado para criar um perfil e mostrar conteúdo com base na sua navegação e informações pessoais.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Usar a proteção contra rastreamento para bloquear rastreadores conhecidos">
+<!ENTITY  trackingProtection3.description      "A proteção contra rastreamento bloqueia rastreadores on-line que coletam seus dados de navegação através de múltiplos sites.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Use a proteção contra rastreamento para bloquear rastreadores conhecidos">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Só em janelas privativas">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Nunca">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "Saber mais">
+<!ENTITY  trackingProtectionLearnMore2.label    "Saiba mais sobre a proteção contra rastreamento e sua privacidade">
 <!ENTITY  trackingProtectionExceptions.label   "Exceções…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Usar proteção contra rastreamento em janelas privativas">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Usar a proteção contra rastreamento na navegação privativa para bloquear rastreadores conhecidos">
