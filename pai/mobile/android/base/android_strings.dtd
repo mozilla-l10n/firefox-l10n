@@ -418,15 +418,28 @@ chab mtñur">
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "Majanuyib &brandShortName; knaaba">
+<!ENTITY datareporting_fhr_summary2 "Tñuur &vendorShortName; ham kwiim sal m amuhay januha knaabka ñwak mbtaar nkyuchya">
+<!ENTITY datareporting_abouthr_title "Jan k\&apos;amuha kwimum uuch">
+<!ENTITY datareporting_telemetry_title "Telemetriiy">
+<!ENTITY datareporting_telemetry_summary "Sal m\&apos; amuha &vendorShortName; ha kabyukwawuha ee kabwik ñumtrchechu ee hardwar ee ñwak tñur yeemi wii yoobch ha paytum mkwiim sak ntpach &brandShortName; hay janrabhikyawa">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; hay ñukwee aay blwiiytemumyus &vendorShortName; ha eem sak ntpach sal m\&apos;amuha janrabhikyawa">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Ñ\&apos; wuoarum k\&apos; uch">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload_never "Myuchuliiy">
+<!ENTITY pref_update_autodownload_always "T t\&apos;or">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Chbtaarch">
 
 
+<!ENTITY addons "Ñumtyebu">
+<!ENTITY logins "Chnamanchu">
+<!ENTITY downloads "Unalch">
 
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
