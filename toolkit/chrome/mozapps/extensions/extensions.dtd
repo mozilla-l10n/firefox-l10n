@@ -5,6 +5,8 @@
 
 <!ENTITY search.placeholder                   "બધા ઍડ-ઓન શોધો">
 
+<!ENTITY search.placeholder2                  "addons.mozilla.org પર શોધો">
+<!ENTITY search.buttonlabel                   "શોધો">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -20,16 +22,16 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "બધા ઍડ-ઓન માટે સાધનો">
 
+<!ENTITY getThemes.description                "તમારા બ્રાઉઝરને વ્યક્તિગત કરવા છે?">
+<!ENTITY getThemes.learnMore                  "હજારો થીમ્સમાંથી પસંદ કરો.">
 
 
-<!ENTITY cmd.back.tooltip                     "એક પાનું પાછળ જાઓ">
-<!ENTITY cmd.forward.tooltip                  "એક પાનું આગળ જાઓ">
-
-
-
+<!ENTITY showUnsignedExtensions.button.label  "કેટલાક એક્સ્ટેન્શન્સની ચકાસણી કરી શકાઈ નથી">
+<!ENTITY showAllExtensions.button.label       "બધા એક્સ્ટેન્શન્સ બતાવો">
+<!ENTITY debugAddons.label                    "ઍડ-ઑન્સ ડીબગ કરો">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
-
 <!ENTITY warning.safemode.label                    "બધા ઍડ-ઓન સલામત સ્થિતિ દ્દારા નિષ્ક્રિય કરી દેવામાં આવ્યા છે.">
 <!ENTITY warning.checkcompatibility.label          "ઍડ-ઓન સુસંગતતા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારી પાસે અસુસંગત ઍડ-ઓન હોઇ શકે છે.">
 <!ENTITY warning.checkcompatibility.enable.label   "સક્રિય">
@@ -37,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "ઍડ-ઓન સુધારા સુરક્ષા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારે સુધારાઓ વડે સમાધાન કરી શકો છો.">
 <!ENTITY warning.updatesecurity.enable.label       "સક્રિય">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ઍડ-ઓન સુધારા સુરક્ષા ચકાસણીને સક્રિય કરો">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "શોધો">
 <!ENTITY view.discover.label                  "ઍડ-ઓનને મેળવો">
 <!ENTITY view.recentUpdates.label             "તાજેતરનાં સુધારાઓ">
 <!ENTITY view.availableUpdates.label          "ઉપલબ્ધ સુધારાઓ">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "સુધારાઓ માટે ચકાસો">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "તાજેતરનાં સુધારાઓને દર્શાવો">
@@ -72,8 +74,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "ઉપલબ્ધ સુધારાઓને દર્શાવો">
 <!ENTITY updates.updateSelected.label         "સુધારાઓને સ્થાપિત કરો">
 <!ENTITY updates.updateSelected.tooltip       "આ યાદીમાં ઉપલબ્ધ સુધારાઓને સ્થાપિત કરો">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "વધારે જાણકારીને બતાવો">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "સુધારાઓ શોધો">
@@ -116,15 +118,16 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "આ સુધારા માટે પ્રકાશન નોંધોને બતાવો">
 <!ENTITY cmd.hideReleaseNotes.label           "પ્રકાશન નોંધોને છુપાડો">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "આ સુધારા માટે પ્રકાશન નોંધોને છુપાડો">
+<!ENTITY cmd.findReplacement.label            "ફેરબદલી શોધો">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "ક્યાં ઍડ-ઓન છે?">
 <!ENTITY discover.description2                "ઍડ-ઑન એવા કાર્યક્રમો છે કે જે તમને &brandShortName; ને વધારાના વિધેયો કે શૈલી સાથે વ્યક્તિગત બનાવવાની પરવાનગી આપે છે. સમય-બચાવ બાજુપટ્ટીનો પ્રયાસ કરી જુઓ, હવામાન સૂચક, અથવા &brandShortName; ને તમારું પોતાનું લાગે એવી થીમવાળું બનાવીને.">
 <!ENTITY discover.footer                      "જ્યારે તમે ઇન્ટરનેટ સાથે જોડાવો છે ત્યારે, આ તકતી પ્રયત્ન કરવા માટે તમારી માટે અમુક સારા અને મોટાભાગનાં જાણીતા ઍડ-ઓનનો ગુણધર્મ કરશે.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "આવૃત્તિ">
 <!ENTITY detail.lastupdated.label             "છેલ્લે સુધારેલ">
 <!ENTITY detail.creator.label                 "વિકાસકર્તા">
@@ -153,17 +156,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "પસંદગીઓ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "આ ઍડ-ઓનની પસંદગીઓને બદલો">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "મૂલ્યાંકન">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "અટકાવો">
 <!ENTITY progress.cancel.tooltip              "રદ કરો">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "નામ">
 <!ENTITY sort.name.tooltip                    "નામ પ્રમાણે ગોઠવો">
 <!ENTITY sort.dateUpdated.label               "છેલ્લે સુધારેલ">
@@ -183,6 +186,10 @@
 <!ENTITY addon.details.label                  "વધારે">
 <!ENTITY addon.details.tooltip                "આ ઍડ-ઓન વિશે વધારે વિગતોને બતાવો">
 <!ENTITY addon.unknownDate                    "અજ્ઞાત">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "જૂના">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -216,29 +223,39 @@
 <!ENTITY eula.accept                          "સ્વીકારો અને સ્થાપિત કરો…">
 
 <!ENTITY settings.path.button.label           "બ્રાઉઝ કરો…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "આ શું છે? ટેલીમેટ્રી સ્થાપિત થશે અને સમયે સમયે પરીક્ષણો ચલાવશે.">
 <!ENTITY experiment.info.learnmore "વધુ શીખો">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ટેલીમેટ્રી સેટીંગ">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "વધુ શીખો…">
 
+<!ENTITY disabledUnsigned.heading "કેટલાક ઍડ-ઑન્સ અક્ષમ કરવામાં આવ્યા છે">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "નીચેના ઍડ-ઑન્સને &brandShortName; માં ઉપયોગ કરવા માટે ચકાસણી કરવામાં આવી નથી. તમે કરી શકો છો ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "ફેરબદલી શોધો">
+<!ENTITY disabledUnsigned.description.end " અથવા ડેવલપરને તેમને ચકાસવા માટે પૂછો.">
+<!ENTITY disabledUnsigned.learnMore "તમને ઓનલાઇન સુરક્ષિત રાખવામાં સહાય કરવાના અમારા પ્રયત્નો વિશે વધુ જાણો.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "તેમના ઍડ-ઑન્સ ચકાસવામાં રસ ધરાવતા ડેવલપર્સ ચાલુ રાખી શકે છે વાંચીને અમારી ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "મેન્યુઅલ">
+<!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "કંઈક ખૂટે છે? કેટલાક પ્લગિન્સ હવે &brandShortName; દ્વારા આધારભૂત નથી.">
+<!ENTITY pluginDeprecation.learnMore "વધુ શીખો.">
 
-
-
+<!ENTITY legacyWarning.showLegacy "જૂના એક્સ્ટેન્શન્સ બતાવો">
+<!ENTITY legacyExtensions.title "જૂના એક્સ્ટેન્શન્સ">
+<!ENTITY legacyExtensions.description "આ એક્સ્ટેન્શન્સ વર્તમાન &brandShortName; ધોરણો મળતા નથી જેથી તેઓ નિષ્ક્રિય કરવામાં આવેલ છે.">
+<!ENTITY legacyExtensions.learnMore "ઍડ-ઑન્સમાં ફેરફારો વિશે જાણો">
