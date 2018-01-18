@@ -30,9 +30,9 @@
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "కాపీ చేయి">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY copyName.label "నామమును కాపీతీయుము">
+<!ENTITY copyName.label "పేరుని కాపీచేయి">
 <!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "విలవను కాపీతీయుము">
+<!ENTITY copyValue.label "విలవను కాపీచేయి">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "సవరించు">
 <!ENTITY modify.accesskey "M">

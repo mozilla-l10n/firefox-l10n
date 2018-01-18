@@ -229,10 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "మీ మైక్రోఫోనును వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
 <!ENTITY urlbar.screenBlocked.tooltip            "మీ తెరను పంచుకోకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "మీ స్థాన సమాచారాన్ని వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "డేటా నిల్వ చేయకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "నోటిఫికేషన్లు చూపించకుండా ఈ వెబ్‌సైటుని నిరోధించారు.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "మీరు ఈ వెబ్సైట్ కోసం నిరంతర నిల్వ నిరోధించారు.">
-
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
@@ -297,7 +295,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "కొత్త ఆంతరంగిక విండో">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "కొత్త Non-e10s విండో">
 
 <!ENTITY editMenu.label         "సవరణ">
 <!ENTITY editMenu.accesskey       "E">
@@ -352,18 +349,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "మొత్తం చరిత్రను చూపించు">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "అనుకూలపరచు">
-<!ENTITY appMenuCustomize.tooltip "మెనూని పనిముట్ల పట్టీని తీర్చిదిద్దుకోండి">
-<!ENTITY appMenuCustomizeExit.label "అనుకూలీకరణను నిష్క్రమించండి">
-<!ENTITY appMenuCustomizeExit.tooltip "అనుకూలీకరణను ముగించండి">
-
 <!ENTITY appMenuHistory.showAll.label "మొత్తం చరిత్రను చూపించు">
 <!ENTITY appMenuHistory.clearRecent.label "ఇటీవలి చరిత్రను తుడిచివేయి…">
 <!ENTITY appMenuHistory.restoreSession.label "మునుపటి సెషన్‌ను పునరుద్ధరించు">
 <!ENTITY appMenuHistory.viewSidebar.label "చరిత్ర పక్కపట్టీను చూడండి">
 <!ENTITY appMenuHistory.recentHistory.label "ఇటీవలి చరిత్ర">
 <!ENTITY appMenuHelp.label "సహాయం">
-<!ENTITY appMenuHelp.tooltip "సహాయ మెనూని తెరువు">
 
 <!ENTITY appMenuRemoteTabs.label "సింకైన ట్యాబులు">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -438,14 +429,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "పొడిగింత:">
 <!ENTITY urlbar.switchToTab.label     "ట్యాబుకు మారు:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "మీ శోధన అనుభవాన్ని సలహాలతో మెరుగుపరచాలని అనుకుంటున్నారా?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "ఇంకా తెలుసుకోండి…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "కాదు">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "అవును">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "చిట్కా:">
@@ -724,8 +707,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "ప్రాధమిక పేజీ శైలి">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "ఈ వెబ్‌సైటు పాప్-అప్ బ్లాకింగ్ అమరికలను మార్చండి">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -819,6 +800,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "మీ ఇతర పరికరాల లోని ట్యాబుల జాబితాను చూడటానికి ట్యాబుల సింకింగుని చేతనం చెయ్యండి.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "సింకైన ట్యాబులలో వెతకండి">
 
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "మరొక పరికరాన్ని అనుసంధానించండి">
 
@@ -855,8 +837,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "సింక్">
 
-<!ENTITY customizeMode.menuAndToolbars.empty "మరిన్ని పనిముట్లు కావాలా?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "వేలాది పొడగింతల నుండి ఎంచుకోండి">
 <!ENTITY customizeMode.restoreDefaults "అప్రమేయాలను పునరుద్ధరించు">
 <!ENTITY customizeMode.done "పూర్తయింది">
 <!ENTITY customizeMode.titlebar "శీర్షిక పట్టీ">
@@ -869,7 +849,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని అలంకారాలను పొందండి">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "మీ పనిముట్లపట్టీ నుండి వాటిని దూరంగా ఉంచడానికి ఇక్కడ అంశాలను లాగి, వదలండి…">
 <!ENTITY customizeMode.overflowList.title2 "ఓవర్‌ఫ్లో మెనూ">
 <!ENTITY customizeMode.uidensity "సాంద్రత">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
@@ -997,7 +976,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
 <!ENTITY pageAction.addToUrlbar.label "చిరునామా పట్టీకి చేర్చండి">
 <!ENTITY pageAction.removeFromUrlbar.label "చిరునామా పట్టీ నుండి తొలగించండి">
-
 <!ENTITY pageAction.allowInUrlbar.label "చిరునామా పట్టీలో చూపించు">
 <!ENTITY pageAction.disallowInUrlbar.label "చిరునామా పట్టీలో చూపించకు">
 <!ENTITY pageAction.manageExtension.label "పొడగింత నిర్వహణ…">
