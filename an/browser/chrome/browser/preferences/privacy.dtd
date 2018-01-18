@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Protección contra Seguimiento">
 <!ENTITY  trackingProtection2.description      "Lo Seguimiento ye la replega de datos d'a tuya navegación en multiples webs. Puet usar-se lo segimiento pa fer un perfil basau en a suya navegación y la suya información personal y presentar-le contenius basaus en ell.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Usa la Protección contra Seguimiento ta blocar programas de seguimiento conoixius">
+<!ENTITY  trackingProtection3.description      "La protección contra seguimiento bloca los trackers en linia que replegan los tuyos daots de navegación en diferents puestos web.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Usar la protección contra seguimiento pa blocar los trackers conoixius">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Nomás en finestras privadas">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Nunca">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Saber-ne mas">
+<!ENTITY  trackingProtectionLearnMore2.label    "Conoixe mas sobre la Protección contra seguimiento y la tuya privacidat">
 <!ENTITY  trackingProtectionExceptions.label   "Excepcions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Usar Protección contra Seguimiento en Finestras Privadas">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Usa la Protección contra Seguimiento en a Navegación Privada pa blocar programas de seguimiento conoixius">
