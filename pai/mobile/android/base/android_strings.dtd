@@ -427,20 +427,38 @@ chab mtñur">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Ñ\&apos; wuoarum k\&apos; uch">
+<!ENTITY datareporting_wifi_title2 "Trchech chu &vendorShortName; chŕmeechu">
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; mubtaar mat mŕmee! Ñmyon Wi-Fi mkwim dispositiiv mwihaya.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Byaw\&apos;i chajanch">
+<!ENTITY pref_update_autodownload_wifi "Nyumuk Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Myuchuliiy">
 <!ENTITY pref_update_autodownload_always "T t\&apos;or">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Chbtaarch">
 
+<!ENTITY quit "Chpaa">
 
 <!ENTITY addons "Ñumtyebu">
 <!ENTITY logins "Chnamanchu">
 <!ENTITY downloads "Unalch">
+<!ENTITY char_encoding "Kabyuwu chajanch">
 
+<!ENTITY share "Mkwimu">
+<!ENTITY share_image_failed "Tñurya kwimch yutem">
+<!ENTITY save_as_pdf "PDF muliwuk mchkwa">
+<!ENTITY print "Muchpach">
+<!ENTITY find_in_page "Chŕmeechu myook">
+<!ENTITY desktop_mode "Trchechu mk\&apos; kaab">
+<!ENTITY page "Chŕmeechu">
+<!ENTITY tools "Trech chu">
+<!ENTITY new_tab "Ch chkwaachu jkaay">
+<!ENTITY close_all_tabs "Ch chkwaachu paytum ŕ\&apos;amch">
+<!ENTITY close_private_tabs "Ch chkwaachu jabch tpaay ŕ\&apos;amch">
+<!ENTITY tabs_normal "Ch chkwachu">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
