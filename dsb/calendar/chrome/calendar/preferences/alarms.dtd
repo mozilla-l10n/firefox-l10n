@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 
 <!ENTITY pref.alarmgoesoff.label "Gaž dopomnjeśe jo na rěźe:">
 <!ENTITY pref.playasound "Zuk wótgraś">
@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Dopomnjeśowy dialog pokazaś">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
 <!ENTITY pref.missedalarms "Pśepasone dopomnjeśa pokazaś">
+<!ENTITY pref.missedalarms2 "Zapasone dopomnjeśa za pópisujobne kalendarje pokazaś">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "s">
 <!ENTITY pref.calendar.alarms.defaults.label "Standardne gódnoty za dopomnjeśa">
 <!ENTITY pref.defalarm4events.label "Standardne dopomnjeśowe nastajenje za tšojenja:">
