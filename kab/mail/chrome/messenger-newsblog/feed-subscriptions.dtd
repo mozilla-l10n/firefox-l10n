@@ -41,6 +41,7 @@
 <!ENTITY button.addFeed.label        "Rnu">
 <!ENTITY button.addFeed.accesskey    "R">
 <!ENTITY button.verifyFeed.label     "Senqed">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Leqqem">
 <!ENTITY button.updateFeed.accesskey "L">
 <!ENTITY button.removeFeed.label     "Kkes">

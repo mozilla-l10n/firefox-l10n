@@ -132,6 +132,8 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Smiyezwar tafrant: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Smiyezwar tafrant: Z - A">
 <!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
