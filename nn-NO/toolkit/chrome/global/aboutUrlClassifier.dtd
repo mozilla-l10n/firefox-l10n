@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Informasjon om url-klassifiseraren">
+<!ENTITY aboutUrlClassifier.title                       "URL-klassifiseringsinformasjon">
 <!ENTITY aboutUrlClassifier.providerTitle               "Leverandør">
 <!ENTITY aboutUrlClassifier.provider                    "Leverandør">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Sist oppdatert">

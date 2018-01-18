@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Sporingsvern">
 <!ENTITY  trackingProtection2.description      "Sporing er ei innsamling av nettlesardataa dine frå fleire nettsider. Sporing kan brukast til å byggje ein profil, og å vise innhald basert på nettlesinga di og din eigen personlege informasjon.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Bruk sporingsvern til å blokkere kjende sporfølgjarar">
+<!ENTITY  trackingProtection3.description      "Sporingsvernet blokkerer sporfølgjarar på nettet som samlar inn nettleserdataa dine på fleire nettstadar.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Bruk sporingsvern for å blokkere kjende sporfølgjarar">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
 <!ENTITY  trackingProtectionAlways.accesskey   "l">
 <!ENTITY  trackingProtectionPrivate.label      "Berre i private vindauge">
