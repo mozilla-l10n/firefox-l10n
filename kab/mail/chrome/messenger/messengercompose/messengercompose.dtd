@@ -132,6 +132,7 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Sken">
@@ -314,6 +315,7 @@
 <!ENTITY renameAttachment.label "Snifel isem…">
 <!ENTITY renameAttachment.accesskey "n">
 <!ENTITY reorderAttachments.label "Smizwer imeddayen…">
+<!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY selectAll.label "Fren Imaṛṛa">
 <!ENTITY selectAll.accesskey "I">
 <!ENTITY attachFile.label "Seddu afaylu (i-a)…">

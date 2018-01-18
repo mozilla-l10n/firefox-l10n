@@ -318,6 +318,7 @@
 <!ENTITY goChatCmd.label "Adiwenni usrid">
 <!ENTITY goChatCmd.accesskey "w">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Izen s yetran">
 <!ENTITY prevStarredMsgCmd.accesskey "e">
 <!ENTITY folderMenu.label "Akaram">
@@ -366,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Ẓreg izen arewway">
 <!ENTITY editDraftMsgCmd.accesskey "r">
+<!ENTITY editTemplateMsgCmd.label "Ẓreg taneγruft">
+<!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "Izen amaynut sγur tneγruft">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Rnu imzizdig seg izen…">
@@ -460,7 +463,9 @@
 <!ENTITY addons.label "Izegrar imernan">
 <!ENTITY addons.accesskey "z">
 <!ENTITY addonPrefs.label "Iγewwaṛen n uzegrir">
+<!ENTITY addonPrefs.accesskey "U">
 <!ENTITY addonPrefsUnix.label "Ismenyifen n uzegrir">
+<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Ulac iγewwaṛen n izegrar ittwafen.">
 <!ENTITY activitymanager.label "Amsefrak n urmud">
 <!ENTITY activitymanager.accesskey "r">
@@ -508,6 +513,7 @@
 <!ENTITY addonDebugCmd.label "Tamseɣtayt n izegrar">
 <!ENTITY addonDebugCmd.accesskey "ɣ">
 <!ENTITY debugAddonsCmd.label "Izegrar n tseɣtit">
+<!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Tamseɣtayt n ukatar n ugbur">
 <!ENTITY tabsDebugCmd.accesskey "b">
 <!ENTITY errorConsoleCmd.label "Tadiwent n tuccḍa">
@@ -756,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "Ldi-it-id d izen amaynut">
 <!ENTITY contextEditMsgAsNew.accesskey "L">
 <!ENTITY contextEditDraftMsg.label "Ẓreg izen arewway">
+<!ENTITY contextEditTemplate.label "Ẓreg taneγruft">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "Aɣbaṛ">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Err kan i wemazan">
