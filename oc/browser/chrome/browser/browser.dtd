@@ -889,8 +889,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
 
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon espiar vòstra navigacion.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon espiar vòstra navigacion. Avètz desactivat la proteccion.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon pistar vòstra navigacion.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon pistar vòstra navigacion. Avètz desactivat la proteccion.">
 <!ENTITY trackingProtection.notDetected3 "Pas cap d'element de seguiment es estat detectat sus aquela pagina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
