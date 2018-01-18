@@ -17,7 +17,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.extensionsTitle "పొడిగింపులు">
 <!ENTITY aboutSupport.extensionName "పేరు">
-<!ENTITY aboutSupport.extensionEnabled "చేతనపరచిన">
+<!ENTITY aboutSupport.extensionEnabled "చేతనం">
 <!ENTITY aboutSupport.extensionVersion "వర్షన్">
 <!ENTITY aboutSupport.extensionId "ID">
 
@@ -81,7 +81,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "సంచయాన్ని తెరువు">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ముఖ్యంగా సవరించిన అభీష్టాలు">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "సవరించిన అభిరుచులలో ముఖ్యమైనవి">
 <!ENTITY aboutSupport.modifiedPrefsName "పేరు">
 <!ENTITY aboutSupport.modifiedPrefsValue "విలువ">
 
@@ -89,7 +89,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js అభిరుచులు">
 <!ENTITY aboutSupport.userJSDescription "మీ ప్రొఫైల్ ఫోల్డర్ ఒక <a id='prefs-user-js-link'>user.js ఫైలు</a> కలిగివుంది, అది &brandShortName; చే సృష్టించబడని అభీష్టాలను కలిగివుంటుంది.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "లాకైన ముఖ్యమైన అభీష్టాలు">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "తాళంవేసిన అభిరుచులలో ముఖ్యమైనవి">
 <!ENTITY aboutSupport.lockedPrefsName "పేరు">
 <!ENTITY aboutSupport.lockedPrefsValue "విలువ">
 
@@ -143,7 +143,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaInputDevicesTitle "ఇన్‌పుట్ పరికరాలు">
 <!ENTITY aboutSupport.mediaDeviceName "పేరు">
 <!ENTITY aboutSupport.mediaDeviceGroup "సమూహం">
-<!ENTITY aboutSupport.mediaDeviceVendor "అమ్మకందారి">
+<!ENTITY aboutSupport.mediaDeviceVendor "అమ్మకందారు">
 <!ENTITY aboutSupport.mediaDeviceState "స్థితి">
 <!ENTITY aboutSupport.mediaDevicePreferred "ప్రాధాన్యత">
 <!ENTITY aboutSupport.mediaDeviceFormat "రూపం">
