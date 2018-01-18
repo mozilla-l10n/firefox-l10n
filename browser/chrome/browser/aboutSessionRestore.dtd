@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Sorry. I doch ús swier om jo siden werom te krijen.">
+<!ENTITY restorepage.errorTitle2    "Sorry. It docht ús swier om jo siden werom te krijen.">
 <!ENTITY restorepage.problemDesc2   "Wy hawwe problemen by it werstellen fan jo lêste browsersesje. Selektearje Sesje werstelle om it opnij te probearjen.">
 <!ENTITY restorepage.tryThis2       "Kinne jo jo sesje noch hieltyd net werstelle? Somtiden feroarsaket ien ljepblêd it probleem. Besjoch foarige ljepblêden, helje it finkje neist de ljepblêden dy't jo net nedich hawwe, en werstel dêrnei.">
 
