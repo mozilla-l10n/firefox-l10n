@@ -1,9 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Informacije wó URL-klasifikatorje">
+<!ENTITY aboutUrlClassifier.title                       "Informacije wó URL-klasifikatorje">
 <!ENTITY aboutUrlClassifier.providerTitle               "Póbitowaŕ">
 <!ENTITY aboutUrlClassifier.provider                    "Póbitowaŕ">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Cas slědneje aktualizacije">
