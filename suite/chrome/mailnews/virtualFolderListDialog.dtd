@@ -4,5 +4,10 @@
 
 <!ENTITY server.label "Účet">
 <!ENTITY server.accesskey "T">
-<!ENTITY virtualFolderListTitle.title "Volba složek">
-<!ENTITY virtualFolderDesc.label "Zvolte složky k prohledávání:">
+
+<!ENTITY virtualFolderListTitle.title        "Volba složek">
+<!ENTITY virtualFolderDesc.label       "Zvolte složky k prohledávání:">
+
+
+<!ENTITY folderName.label "Jméno složky">
+<!ENTITY folderSearch.label "Hledat">
