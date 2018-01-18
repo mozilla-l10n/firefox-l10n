@@ -14,7 +14,7 @@
 
 <!ENTITY            availprofiles.label    "అందుబాటులో ఉన్న ప్రొఫైల్లు">
 
-<!ENTITY            newButton.label        "ప్రొఫైల్ ను సృష్టించు...">
+<!ENTITY            newButton.label        "ప్రొఫైలును సృష్టించు…">
 <!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "ప్రొఫైల్ పేరు మార్చు…">
 <!ENTITY            renameButton.accesskey "R">
