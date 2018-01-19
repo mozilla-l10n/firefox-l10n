@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "Mesa en pagina">
 
@@ -39,20 +39,20 @@
 <!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Esquèrra :">
 <!ENTITY marginLeft.accesskey "q">
-<!ENTITY marginRight.label   "Dreita :">
+<!ENTITY marginRight.label   "Drecha :">
 <!ENTITY marginRight.accesskey "D">
 
 <!ENTITY headerFooter.label  "Entèstas e pès de pagina">
 
 <!ENTITY hfLeft.label        "Esquèrra :">
 <!ENTITY hfCenter.label      "Centre :">
-<!ENTITY hfRight.label       "Dreita :">
+<!ENTITY hfRight.label       "Drecha :">
 <!ENTITY headerLeft.tip      "Entèsta d'esquèrra">
 <!ENTITY headerCenter.tip    "Entèsta del centre">
-<!ENTITY headerRight.tip     "Entèsta de dreita">
+<!ENTITY headerRight.tip     "Entèsta de drecha">
 <!ENTITY footerLeft.tip      "Pè de pagina d'esquèrra">
 <!ENTITY footerCenter.tip    "Pè de pagina del centre">
-<!ENTITY footerRight.tip     "Pè de pagina de dreita">
+<!ENTITY footerRight.tip     "Pè de pagina de drecha">
 
 <!ENTITY hfTitle             "Títol">
 <!ENTITY hfURL               "URL">
