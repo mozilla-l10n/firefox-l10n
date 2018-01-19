@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "顯示鬧鈴訊息">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "列出過期的鬧鈴">
+<!ENTITY pref.missedalarms2 "為可寫入的行事曆顯示錯過的提醒">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "鬧鈴預設值">
 <!ENTITY pref.defalarm4events.label "預設事件的鬧鈴設定:">
@@ -34,4 +35,3 @@
 
 <!ENTITY pref.defaultsnoozelength.label "預設稍後提醒長度:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
-
