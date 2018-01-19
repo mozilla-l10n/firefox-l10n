@@ -7,10 +7,6 @@
 <!ENTITY  blockPopups.label           "ამომხტომი ფირნიშების შეზღუდვა">
 <!ENTITY  blockPopups.accesskey       "დ">
 
-<!ENTITY  notificationsDoNotDisturb.label      "არ შემაწუხოთ">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "წ">
-<!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName;-ის ხელახლა გაშვებამდე შეტყობინებები არ გამოჩნდება">
-
 <!ENTITY  popupExceptions.label                                 "გამონაკლისები…">
 <!ENTITY  popupExceptions.accesskey                             "გ">
 
@@ -31,7 +27,7 @@
 <!ENTITY  microphoneSettingsButton.label                        "პარამეტრები…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "პ">
 
-<!ENTITY  fontsAndColors.label        "შრიფტები &amp; ფერები">
+<!ENTITY  fontsAndColors.label        "შრიფტები და ფერები">
 
 <!ENTITY  defaultFont2.label          "შრიფტის შერჩევა">
 <!ENTITY  defaultFont2.accesskey      "შ">
