@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY instructions.description "Predmete lahko dodajate ali odstranjujete, tako da jih povlečete v orodno vrstico ali iz nje.">
+<!ENTITY show.label               "Prikaži:">
+<!ENTITY iconsAndText.label       "Ikone in besedilo">
+<!ENTITY icons.label              "Ikone">
+<!ENTITY text.label               "Besedilo">
+<!ENTITY useSmallIcons.label      "Uporabi majhne ikone">
+<!ENTITY restoreDefaultSet.label  "Obnovi privzeti nabor">
+<!ENTITY addNewToolbar.label      "Dodaj novo orodno vrstico">
+<!ENTITY saveChanges.label        "Končaj">
+<!ENTITY undoChanges.label        "Razveljavi spremembe">
