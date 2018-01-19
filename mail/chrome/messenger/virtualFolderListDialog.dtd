@@ -5,3 +5,6 @@
 <!ENTITY virtualFolderListTitle.title        "选择文件夹">
 <!ENTITY virtualFolderDesc.label       "选择要搜索的文件夹：">
 
+
+<!ENTITY folderName.label "文件夹名称">
+<!ENTITY folderSearch.label "搜索">
