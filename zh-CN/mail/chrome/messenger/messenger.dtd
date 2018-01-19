@@ -367,6 +367,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "编辑草稿邮件">
 <!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY editTemplateMsgCmd.label "编辑模板">
+<!ENTITY editTemplateMsgCmd.accesskey "T">
 <!ENTITY newMsgFromTemplateCmd.label "依托模板新建邮件">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "根据消息创建过滤器…">
@@ -760,6 +762,8 @@
 <!ENTITY contextEditMsgAsNew.label "作为新消息编辑">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "编辑草稿邮件">
+<!ENTITY contextEditTemplate.label "编辑模板">
+<!ENTITY contextEditTemplate.accesskey "T">
 <!ENTITY contextArchive.label "归档">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "只回复发件人">
