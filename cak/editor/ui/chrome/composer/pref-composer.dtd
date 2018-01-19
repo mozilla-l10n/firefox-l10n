@@ -12,4 +12,6 @@
 <!ENTITY  documentsInMenu.label         "Nïm kajilab'al taq ruxaq echolajin:">
 <!ENTITY  documentsInMenu.accesskey     "k">
 <!ENTITY  savingFiles.title             "Toq Ye'ayäk o Nataluj Kitzijol taq Ruxaq">
+<!ENTITY  preserveExisting.label        "Tiyak ri qitzij ruxe'el b'anikil">
+<!ENTITY  preserveExisting.accesskey    "P">
 <!ENTITY  composerEditing.label         "Tajin ninuk'">
