@@ -162,8 +162,10 @@ maging pansamantala, at maaari mong subukan ulit mamaya.</li>
 ">
 
 <!ENTITY cspBlocked.title "Na-block sa pamamagitan ng Patakaran sa Seguridad ng Nilalaman">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; pinigilan ang pahinang ito sa paglo-load sa ganitong paraan dahil ang pahina ay may isang patakaran sa seguridad ng nilalaman na hindi pinapayagan nito.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Nasira ang Error sa Nilalaman">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ang pahina na sinusubukan mong tingnan ay hindi maipakita dahil nakita ang isang error sa paghahatid ng data.</p><ul><li>Mangyaring makipag-ugnay sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito.</li></ul>">
 
 <!ENTITY securityOverride.linkText "O makakadagdag ka ang exception…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Alisin mo ako dito!">
@@ -174,6 +176,12 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
+<!ENTITY securityOverride.warningContent "
+<p>Hindi ka dapat magdagdag ng pagbubukod kung gumagamit ka ng isang koneksyon sa internet na hindi ka lubos na pinagkakatiwalaan o kung hindi ka ginagamit upang makakita ng babala para sa server na ito.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Paki-contact ang may-ari ng website para malaman nila ang problemang ito.</li></ul></p>">
@@ -191,3 +199,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Ang iyong koneksyon ay hindi secure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> gumagamit ng teknolohiya ng seguridad na lipas na sa panahon at mahina ang pag-atake. Ang isang magsasalakay ay madaling maipakita ang impormasyon na inisip mong ligtas. Kailangan ng administrator ng website na ayusin ang server muna bago mo mabisita ang site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
