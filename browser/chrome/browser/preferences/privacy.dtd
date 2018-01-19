@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "محافظت در برابر ردگیری">
 <!ENTITY  trackingProtection2.description      "دنبال کننده اطلاعات مرور شما از پایگاه‌های اینترنتی متعددی جمع آوری میکند. دنبال کننده همچین می‌تواند از این اطلاعات برای ایجاد یک نمایه از شما استفاده کند و از اطلاعات شخصی شما جهت نمایش محتوا مرتبط استفاده کند.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "استفاده از محافظ دنبال کردن برای مسدود کردن دنبال کنندگان ناشناس">
+<!ENTITY  trackingProtection3.description      "محافظت از ردیابی دنبال کنندگان انلاینی را که اطلاعات مرورکردن شما را از چند وب سایت مختلف دریافت می کردند مسدود کرده است.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "استفاده از محافظ ردیابی برای مسدود کردند دنبال کنندگان ناشناس">
 <!ENTITY  trackingProtectionAlways.label       "همیشه">
 <!ENTITY  trackingProtectionAlways.accesskey   "م">
 <!ENTITY  trackingProtectionPrivate.label      "تنها در پنجره‌های ناشناس">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "هرگز">
 <!ENTITY  trackingProtectionNever.accesskey    "ه">
 <!ENTITY  trackingProtectionLearnMore.label    "اطلاعات بیشتر">
+<!ENTITY  trackingProtectionLearnMore2.label    "در مورد محافظت از ردیابی و حریم شخصی خود بیشتر بدانید">
 <!ENTITY  trackingProtectionExceptions.label   "استثناها…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ت">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "از محافظت ردگیری در پنجره‌های ناشناس استفاده کنید">
-<!ENTITY trackingProtectionPBM5.accesskey     "ن">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "استفاده از محافظ دنبال کننده در مرورگر خصوصی جهت مسدود کردن دنبال کننده های ناشناس">
 <!ENTITY trackingProtectionPBM6.accesskey     "خ">
 <!ENTITY trackingProtectionPBMLearnMore.label "اطلاعات بیشتر">
