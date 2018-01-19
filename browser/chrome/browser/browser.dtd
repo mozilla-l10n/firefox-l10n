@@ -30,7 +30,7 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Tampar los onglets situats a dreita">
+<!ENTITY  closeTabsToTheEnd.label            "Tampar los onglets situats a drecha">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Tampar los autres onglets">
 <!ENTITY  closeOtherTabs.accesskey           "t">
@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Pagina seguenta">
 <!ENTITY forwardCmd.accesskey         "s">
 <!ENTITY forwardButton.tooltip        "Avançar d'una pagina">
-<!ENTITY backForwardButtonMenu.tooltip "Far un clic dreit o clicar en desplaçant la mirga cap aval per afichar l'istoric">
+<!ENTITY backForwardButtonMenu.tooltip "Far un clic drech o clicar en desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY backForwardButtonMenuMac.tooltip "Clicar en tot desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY reloadCmd.label              "Actualizar">
 <!ENTITY reloadCmd.accesskey          "R">

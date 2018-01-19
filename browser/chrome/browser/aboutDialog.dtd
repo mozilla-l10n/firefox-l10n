@@ -54,7 +54,7 @@
 <!ENTITY bottomLinks.license        "Entresenhas sus la licéncia">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Dreits l'utilizaire">
+<!ENTITY bottomLinks.rights         "Dreches de l'utilizaire">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Politica de confidencialitat">
