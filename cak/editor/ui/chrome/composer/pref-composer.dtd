@@ -8,4 +8,5 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Nuk'unel">
+<!ENTITY  recentFiles.title             "Kik'utsamaj K'ak'a' Ruxaq">
 <!ENTITY  composerEditing.label         "Tajin ninuk'">
