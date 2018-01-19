@@ -158,7 +158,7 @@ za chvíli.</li>
 ">
 
 <!ENTITY cspBlocked.title "Zablokováno dle bezpečnostních pravidel obsahu">
-<!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila v nahrání této stránky, protože tato stránka má bezpečnostní pravidla, která takovýto způsob nahrání zakazují.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila načtení této stránky, protože takovýto způsob načtení bezpečnostní pravidla této stránky zakazují.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
