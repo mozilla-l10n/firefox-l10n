@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "اطلاعات در مورد url-classifier">
+<!ENTITY aboutUrlClassifier.title                       "اطلاعات طبقه بندی شده‌ی URL">
 <!ENTITY aboutUrlClassifier.providerTitle               "فراهم‌کننده">
 <!ENTITY aboutUrlClassifier.provider                    "فراهم‌کننده">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "آخرین زمان بروزرسانی">
