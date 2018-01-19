@@ -9,7 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "Restablir los paramètres de vòstre navigator per defaut">
 <!ENTITY refreshProfile.dialog.button.label  "Reïnicializar &brandShortName;">
 
-<!ENTITY refreshProfile.title                "Fasètz una mesa al punt de &brandShortName;">
+<!ENTITY refreshProfile.title                "Fasètz una mesa al ponch de &brandShortName;">
 <!ENTITY refreshProfile.button.label         "Reïnicializar &brandShortName;...">
 
 <!ENTITY refreshProfile.cleaning.description "Netejatge en cors...">
