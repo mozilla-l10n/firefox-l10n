@@ -54,18 +54,38 @@
 <!ENTITY returnReceiptMenu.label "Potvrda o prijemu">
 <!ENTITY dsnMenu.label "Potvrda isporuke">
 
+<!ENTITY outputFormatMenu.label "Format">
+<!ENTITY autoFormatCmd.label "Automatski prepoznaj">
+<!ENTITY plainTextFormatCmd.label "Samo običan tekst">
+<!ENTITY htmlFormatCmd.label "Samo obogaćeni tekst (HTML)">
+<!ENTITY bothFormatCmd.label "Obični i obogaćeni (HTML) tekst">
 
+<!ENTITY fileCarbonCopyCmd.label "Pošalji kopiju na">
+<!ENTITY fileHereMenu.label "Arhiviraj ovdje">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
+<!ENTITY sendButton.label "Pošalji">
+<!ENTITY addressButton.label "Adresa">
+<!ENTITY attachButton.label "Priloži">
+<!ENTITY spellingButton.label "Pravopis">
+<!ENTITY saveButton.label "Spasi">
+<!ENTITY stopButton.label "Zaustavi">
 
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
- 
- 
- 
- 
- 
- 
+<!ENTITY addressBar.tooltip "Adresna traka">
+<!ENTITY formatToolbar.tooltip "Alatna traka formatiranja">
+<!ENTITY sendButton.tooltip "Pošalji poruku sada"> 
+<!ENTITY sendlaterButton.tooltip "Pošalji poruku kasnije"> 
+<!ENTITY addressButton.tooltip "Odaberi primaoca iz imenika"> 
+<!ENTITY attachButton.tooltip "Uključi prilog"> 
+<!ENTITY saveButton.tooltip "Sačuvaj ovu poruku"> 
+<!ENTITY stopButton.tooltip "Zaustavi trenutni prijenos"> 
 
 <!-- context menu items -->
+<!ENTITY openAttachment.label "Otvori">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY renameAttachment.label "Preimenuj…">
+<!ENTITY attachFile.label "Priloži datoteke…">
+<!ENTITY attachPage.label "Priloži web stranicu…">
