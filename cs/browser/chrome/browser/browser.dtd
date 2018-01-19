@@ -747,7 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Zabezpečení stránky">
 
-<!ENTITY identity.connectionSecure "Zabezpečené připojení">
+<!ENTITY identity.connectionSecure "Zabezpečené spojení">
 <!ENTITY identity.connectionNotSecure "Připojení není zabezpečeno">
 <!ENTITY identity.connectionFile "Tato stránka je uložena ve vašem počítači.">
 <!ENTITY identity.connectionVerified2 "Spojení s tímto serverem je zabezpečené. Jeho provozovatelem je:">
@@ -764,7 +764,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Vaše připojení k tomuto serveru není soukromé. Informace, které odešlete (jako hesla, zprávy, číslo platební karty atd.), mohou být viděny ostatními.">
 <!ENTITY identity.description.insecureLoginForms "Přihlašovací údaje, které zadáte na této stránce, nebudou zabezpečeny a mohou být vyzrazeny.">
-<!ENTITY identity.description.weakCipher "Vaše připojení k tomuto serveru používá slabé šifrování a není soukromé.">
+<!ENTITY identity.description.weakCipher "Vaše spojení s tímto serverem používá slabé šifrování a není soukromé.">
 <!ENTITY identity.description.weakCipher2 "Ostatní lidé mohou vidět vaše informace nebo pozměnit chování stránky.">
 <!ENTITY identity.description.activeBlocked "Aplikace &brandShortName; zablokovala nezabezpečené části této stránky.">
 <!ENTITY identity.description.passiveLoaded "Vaše připojení není soukromé a informace, které sdílíte s tímto serverem, mohou být viděny ostatními.">
@@ -785,7 +785,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Více informací">
 
 <!ENTITY identity.permissions "Oprávnění">
-<!ENTITY identity.permissionsEmpty "Pro tento server nemáte udělena žádná zvláštní oprávnění.">
+<!ENTITY identity.permissionsEmpty "Tento server nemá žádná zvláštní oprávnění.">
 <!ENTITY identity.permissionsReloadHint "Pro provedení změn budete možná muset obnovit stránku.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -889,7 +889,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Budou sdílena všechna viditelná okna na vaší obrazovce.">
 
 <!ENTITY trackingProtection.title "Ochrana proti sledování">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje části stránky, které mohou sledovat vaši aktivitu prohlížení.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje části stránky, které vás mohou při prohlížení sledovat.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tato stránka obsahuje prvky, které mohou sledovat vaše prohlížení. Ochranu jste zakázali.">
 <!ENTITY trackingProtection.notDetected3 "Na této stránce nebyly zjištěny žádné sledovací prvky.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
