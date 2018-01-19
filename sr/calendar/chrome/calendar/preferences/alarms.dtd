@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Прикажи прозорче са подсетником">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "с">
 <!ENTITY pref.missedalarms "Прикажи пропуштене подсетнике">
+<!ENTITY pref.missedalarms2 "Прикажи пропуштене подсетнике за уписиве календаре">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "н">
 <!ENTITY pref.calendar.alarms.defaults.label "Подразумевано подсетника">
 <!ENTITY pref.defalarm4events.label "Подразумевана подешавања подсетника за догађаје:">
