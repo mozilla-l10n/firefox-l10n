@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-<!ENTITY debuggerUI.blackBoxMessage.label "Aquesta font es plaçada dins una bóstia negra : sos punts d'arrèst son desactivats e es ignorada per l'execucion pas a pas.">
+<!ENTITY debuggerUI.blackBoxMessage.label "Aquesta font es plaçada dins una bóstia negra : sos ponches d'arrèst son desactivats e es ignorada per l'execucion pas a pas.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
@@ -48,7 +48,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
-<!ENTITY debuggerUI.sources.toggleBreakpoints "Activar/Desactivar totes los punts d'arrèst">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Activar/Desactivar totes los ponches d'arrèst">
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
@@ -126,7 +126,7 @@
 <!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "F">
 
-<!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
+<!-- LOCALIZATION NOTE (debuggerUI.searchGoToLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Anar a la linha...">
 <!ENTITY debuggerUI.searchGoToLine.key       "L">
@@ -146,22 +146,22 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-<!ENTITY debuggerUI.condBreakPanelTitle "Aqueste punt d'arrèst arrestarà l'execucion solament se l'expression seguenta es verai">
+<!ENTITY debuggerUI.condBreakPanelTitle "Aqueste ponch d'arrèst arrestarà l'execucion solament se l'expression seguenta es verai">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
-<!ENTITY debuggerUI.seMenuBreak     "Punt d'arrèst apondut">
+<!ENTITY debuggerUI.seMenuBreak     "Ponch d'arrèst apondut">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
-<!ENTITY debuggerUI.seMenuCondBreak     "Apondre un punt d'arrèst condicional">
+<!ENTITY debuggerUI.seMenuCondBreak     "Apondre un ponch d'arrèst condicional">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
-<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.seEditMenuCondBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
-<!ENTITY debuggerUI.seEditMenuCondBreak     "Apondre un punt d'arrèst condicional">
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Apondre un ponch d'arrèst condicional">
 <!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
@@ -183,7 +183,7 @@
 <!ENTITY debuggerUI.addWatch            "Apondre una expression espiona">
 <!ENTITY debuggerUI.addWatch.accesskey  "E">
 
-<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.removeAllWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch           "Suprimir totas las expressions espionas">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
