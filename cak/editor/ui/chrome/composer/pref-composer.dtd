@@ -9,4 +9,7 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Nuk'unel">
 <!ENTITY  recentFiles.title             "Kik'utsamaj K'ak'a' Ruxaq">
+<!ENTITY  documentsInMenu.label         "Nïm kajilab'al taq ruxaq echolajin:">
+<!ENTITY  documentsInMenu.accesskey     "k">
+<!ENTITY  savingFiles.title             "Toq Ye'ayäk o Nataluj Kitzijol taq Ruxaq">
 <!ENTITY  composerEditing.label         "Tajin ninuk'">
