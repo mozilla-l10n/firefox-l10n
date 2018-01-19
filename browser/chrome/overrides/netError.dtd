@@ -183,7 +183,7 @@ za chvíli.</li>
 <!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; se nemůže připojit k adrese <span id='wrongSystemTime_URL'/>, protože čas na vašem počítači je zřejmě špatně nastavený a tak brání bezpečnému spojení.</p> <p>Čas na vašem počítači je nastaven na <span id='wrongSystemTime_systemDate'/>, ale měl by být <span id='wrongSystemTime_actualDate'/>. Opravte prosím nastavení data a času na vašem počítači.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; se nemůže připojit k adrese <span id='wrongSystemTimeWithoutReference_URL'/>, protože čas na vašem počítači je zřejmě špatně nastavený a tak brání bezpečnému spojení.</p> <p>Čas na vašem počítači je nastaven na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Opravte prosím nastavení data a času na vašem počítači.</p>">
 
-<!ENTITY certerror.pagetitle1  "Nezabezpečené připojení">
+<!ENTITY certerror.pagetitle1  "Nezabezpečené spojení">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP
 Strict Transport Security (HSTS), čímž určuje, že se má &brandShortName; připojovat
 pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifikát výjimku.">
