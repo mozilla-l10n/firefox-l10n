@@ -36,4 +36,23 @@
 <!ENTITY smiley10Cmd.label "Sik'inel">
 <!ENTITY smiley10Cmd.accesskey "S">
 <!ENTITY smiley10Cmd.tooltip "Tich'ik jun sik'inel paläj">
+<!ENTITY smiley11Cmd.label "Tik'asäs">
+<!ENTITY smiley11Cmd.accesskey "T">
+<!ENTITY smiley11Cmd.tooltip "Tich'ik jun tik'asäs paläj">
+<!ENTITY smiley12Cmd.label "Pwäq-Chi'aj">
+<!ENTITY smiley12Cmd.accesskey "P">
+<!ENTITY smiley12Cmd.tooltip "Tich'ik jun pwäq-chi'aj paläj">
+<!ENTITY smiley13Cmd.label "Aqanaj-pa-Chi'aj">
+<!ENTITY smiley13Cmd.accesskey "a">
+<!ENTITY smiley13Cmd.tooltip "Tich'ik jun aqanaj-pa-chi'aj paläj">
+<!ENTITY smiley14Cmd.label "Ütz ruk'u'x">
+<!ENTITY smiley14Cmd.accesskey "Ü">
+<!ENTITY smiley14Cmd.tooltip "Tich'ik jun ütz ruk'u'x paläj">
+<!ENTITY smiley15Cmd.label "Oq'el">
+<!ENTITY smiley15Cmd.accesskey "q">
+<!ENTITY smiley15Cmd.tooltip "Tich'ik jun oq'el paläj">
+<!ENTITY smiley16Cmd.label "Chi'aj-e-Tz'apäl">
+<!ENTITY smiley16Cmd.accesskey "a">
+<!ENTITY smiley16Cmd.tooltip "Tich'ik jun chi'aj-e-tz'apäl paläj">
+<!ENTITY SmileButton.tooltip "Tich'ik jun tze'n paläj">
 
