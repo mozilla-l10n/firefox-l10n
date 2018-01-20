@@ -4,6 +4,7 @@
 
 <!ENTITY pref.toolbars.title    "Taq cholsamajib'äl">
 
+<!ENTITY composition.caption    "Kek'ut pe re taq pitz'ib'äl re' pa ri kikajtz'ik rusamajib'al nuk'unel:">
 
 <!ENTITY new.label              "K'ak'a'">
 <!ENTITY open.label             "Tijaq">
@@ -21,6 +22,7 @@
 <!ENTITY link.label             "Ximonel">
 <!ENTITY anchor.label           "Xukuxüb'">
 
+<!ENTITY formatting.caption     "Kek'ut pe re taq pitz'ib'äl re' pa ri kikajtz'ik rusamajib'al b'anikil:">
 
 <!ENTITY smaller.label          "Ko'öl">
 <!ENTITY larger.label           "Nïm">
@@ -28,7 +30,10 @@
 <!ENTITY bullets.label          "Taq Weqoj">
 <!ENTITY numbers.label          "Taq ajilab'äl">
 <!ENTITY italic.label           "Q'e'etz'ib'">
+<!ENTITY outdent.label          "Tiyuj ruchi' cholaj">
+<!ENTITY indent.label           "Tiya' ruchi' cholaj">
 <!ENTITY underline.label        "Juxül">
 
+<!ENTITY absolutePosition.label "Majalatel k'ojlemal">
 <!ENTITY decreaseZIndex.label   "Titaq chupam">
 <!ENTITY increaseZIndex.label   "Tik'am pe chuwa">

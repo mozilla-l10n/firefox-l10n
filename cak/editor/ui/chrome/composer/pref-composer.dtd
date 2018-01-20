@@ -22,3 +22,8 @@
 <!ENTITY  composerEditing.label         "Tajin ninuk'">
 <!ENTITY  maintainStructure.label       "Tiyake' ri ruwachib'enik kemon kajtz'ik toq yech'ik o yeyuj ch'utikajtz'ik">
 <!ENTITY  maintainStructure.tooltip     "Tiyake' ri kib'anikil yuqtz'ik kemon taq kajtz'ik toq nitz'aqatisäx pa kiyonil ch'utikajtz'ik chi rij toq yech'ik o yeyuj taq ch'utikajtz'ik">
+<!ENTITY  maintainStructure.accesskey   "M">
+<!ENTITY  useCSS.label                  "Ke'akisäx CSS taq che't pa kik'exel taq HTML taq ch'akulal chuqa' b'anikil">
+<!ENTITY  useCSS.accesskey              "K">
+<!ENTITY  crInPCreatesNewP.label        "Titzolin pa jun pajtzij junelïk ninuk' jun k'ak'a' pajtzij">
+<!ENTITY  crInPCreatesNewP.accesskey    "T">
