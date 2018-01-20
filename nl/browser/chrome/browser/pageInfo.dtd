@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Toestemmingen voor:">
 <!ENTITY  permPlugins           "Plug-ins activeren">
 
-<!ENTITY  permClearStorage           "Opslag wissen">
-<!ENTITY  permClearStorage.accesskey "w">
-
 <!ENTITY  securityTab           "Beveiliging">
 <!ENTITY  securityTab.accesskey "B">
 <!ENTITY  securityView.certView "Certificaat bekijken">

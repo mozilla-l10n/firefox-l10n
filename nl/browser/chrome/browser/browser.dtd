@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "U hebt uw microfoon voor deze website geblokkeerd.">
 <!ENTITY urlbar.screenBlocked.tooltip            "U hebt het delen van uw scherm voor deze website geblokkeerd.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "U hebt locatiegegevens voor deze website geblokkeerd.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "U hebt gegevensopslag voor deze website geblokkeerd.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "U hebt notificaties voor deze website geblokkeerd.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "U hebt permanente opslag voor deze website geblokkeerd.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "U hebt pop-ups voor deze website geblokkeerd.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "U hebt canvas-gegevensextractie voor deze website geblokkeerd.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nieuw privévenster">
 <!ENTITY newPrivateWindow.accesskey "r">
-<!ENTITY newNonRemoteWindow.label   "Nieuw niet-e10s-venster">
 
 <!ENTITY editMenu.label         "Bewerken">
 <!ENTITY editMenu.accesskey       "w">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Alle geschiedenis tonen">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuCustomize.label "Aanpassen">
-<!ENTITY appMenuCustomize.tooltip "Het menu en de werkbalken aanpassen">
-<!ENTITY appMenuCustomizeExit.label "Aanpassen afsluiten">
-<!ENTITY appMenuCustomizeExit.tooltip "Aanpassen voltooien">
-
 <!ENTITY appMenuHistory.showAll.label "Alle geschiedenis tonen">
 <!ENTITY appMenuHistory.clearRecent.label "Recente geschiedenis wissen…">
 <!ENTITY appMenuHistory.restoreSession.label "Vorige sessie herstellen">
 <!ENTITY appMenuHistory.viewSidebar.label "Geschiedeniszijbalk weergeven">
 <!ENTITY appMenuHistory.recentHistory.label "Recente geschiedenis">
 <!ENTITY appMenuHelp.label "Help">
-<!ENTITY appMenuHelp.tooltip "Menu Help openen">
 
 <!ENTITY appMenuRemoteTabs.label "Gesynchroniseerde tabbladen">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensie:">
 <!ENTITY urlbar.switchToTab.label     "Wisselen naar tabblad:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Wilt u uw zoekervaring verbeteren met suggesties?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Meer info…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "M">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nee">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "J">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Basisstijl">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "Pop-upinstellingen voor deze website wijzigen">
-
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Synchro&#xad;niseren">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Sleep uw favoriete items naar de werkbalk of het overloopmenu.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Wilt u meer hulpmiddelen?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies uit duizenden add-ons">
 <!ENTITY customizeMode.restoreDefaults "Standaardinstellingen herstellen">
 <!ENTITY customizeMode.done "Gereed">
 <!ENTITY customizeMode.titlebar "Titelbalk">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Meer thema’s verkrijgen">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
-<!ENTITY customizeMode.emptyOverflowList.description "Sleep items hiernaartoe om ze binnen handbereik maar buiten uw werkbalk te houden…">
 <!ENTITY customizeMode.overflowList.title2 "Overloopmenu">
 <!ENTITY customizeMode.overflowList.description "Sleep items hiernaartoe om ze binnen handbereik maar buiten uw werkbalk te houden…">
 <!ENTITY customizeMode.uidensity "Dichtheid">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Pagina-acties">
 <!ENTITY pageAction.addToUrlbar.label "Toevoegen aan adresbalk">
 <!ENTITY pageAction.removeFromUrlbar.label "Verwijderen van adresbalk">
-
 <!ENTITY pageAction.allowInUrlbar.label "Tonen in adresbalk">
 <!ENTITY pageAction.disallowInUrlbar.label "Niet tonen in adresbalk">
 <!ENTITY pageAction.manageExtension.label "Extensies beheren…">
