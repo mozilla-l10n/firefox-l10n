@@ -3,8 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "B'onil">
+<!ENTITY lastPickedColor.label "Ruk'isib'äl rub'onil cha'on">
+<!ENTITY lastPickedColor.accessKey "R">
+<!ENTITY setColor1.label "Tipitz' pa ruwi' jun b'onil o">
+<!ENTITY setColor2.label "tinima jun HTML rub'onil rucholajem tzij">
+<!ENTITY setColor2.accessKey "H">
+<!ENTITY setColorExample.label "(e.g.: &quot;#0000ff&quot; or &quot;blue&quot;):">
 <!ENTITY default.label "K'o wi">
 <!ENTITY default.accessKey "K">
+<!ENTITY palette.label "Tukb'äl:">
 <!ENTITY standardPalette.label "Pa rub'eyal">
 <!ENTITY webPalette.label "Ronojel ajk'amaya'l taq b'onil">
 <!ENTITY background.label "Rupam:">

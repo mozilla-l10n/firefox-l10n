@@ -12,5 +12,7 @@
 <!ENTITY tree.valueHeader.label         "Retal">
 <!ENTITY tabHTML.label                  "HTML taq B'anikil">
 <!ENTITY tabCSS.label                   "Rub'anikil chakulal">
+<!ENTITY tabJSE.label                   "JavaScript taq Samaj">
 
+<!ENTITY editAttribute.label    "Tapitz'a' pa ruwi' jun ch'akulal richin ninuk' ri rejqalem">
 <!ENTITY removeAttribute.label  "Tiyuj">
