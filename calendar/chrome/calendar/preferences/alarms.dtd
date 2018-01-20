@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Prikaži pogovorno okno opomnika">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "o">
 <!ENTITY pref.missedalarms "Prikaži zgrešene opomnike">
+<!ENTITY pref.missedalarms2 "Prikaži zgrešene opomnike za zapisljive koledarje">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "z">
 <!ENTITY pref.calendar.alarms.defaults.label "Privzete nastavitve za opomnike">
 <!ENTITY pref.defalarm4events.label "Privzeta nastavitev opomnika za dogodke:">
