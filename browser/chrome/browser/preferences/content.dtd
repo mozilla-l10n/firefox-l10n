@@ -7,10 +7,6 @@
 <!ENTITY  blockPopups.label           "Pop-upvensters blokkeren">
 <!ENTITY  blockPopups.accesskey       "P">
 
-<!ENTITY  notificationsDoNotDisturb.label      "Mij niet storen">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Er worden geen notificaties getoond totdat u &brandShortName; herstart">
-
 <!ENTITY  popupExceptions.label                                 "Uitzonderingen…">
 <!ENTITY  popupExceptions.accesskey                             "U">
 

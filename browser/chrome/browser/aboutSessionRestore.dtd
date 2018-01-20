@@ -14,7 +14,7 @@
 <!ENTITY restorepage.showTabs       "Vorige tabbladen bekijken">
 
 <!ENTITY restorepage.tryagainButton2 "Sessie herstellen">
-<!ENTITY restorepage.restore.access2 "h">
+<!ENTITY restorepage.restore.access2 "S">
 <!ENTITY restorepage.closeButton2    "Nieuwe sessie starten">
 <!ENTITY restorepage.close.access2   "N">
 

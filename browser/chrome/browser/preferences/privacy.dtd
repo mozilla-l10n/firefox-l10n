@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Bescherming tegen volgen">
 <!ENTITY  trackingProtection2.description      "Volgen is het verzamelen van uw surfgegevens op meerdere websites. Volgen kan worden gebruikt om een profiel op te bouwen en inhoud weer te geven op basis van uw persoonlijke en surfgegevens.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Bescherming tegen volgen gebruiken om bekende volgers te blokkeren">
+<!ENTITY  trackingProtection3.description      "Bescherming tegen volgen blokkeert online trackers die op meerdere websites uw surfgegevens verzamelen.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Bescherming tegen volgen gebruiken om bekende volgers te blokkeren">
 <!ENTITY  trackingProtectionAlways.label       "Altijd">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Alleen in privévensters">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Nooit">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Meer info">
+<!ENTITY  trackingProtectionLearnMore2.label    "Meer info over Bescherming tegen volgen en uw privacy">
 <!ENTITY  trackingProtectionExceptions.label   "Uitzonderingen…">
 <!ENTITY  trackingProtectionExceptions.accesskey "i">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Bescherming tegen volgen gebruiken in privévensters">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Bescherming tegen volgen gebruiken in Privénavigatie om bekende volgers te blokkeren">

@@ -51,8 +51,6 @@ available. -->
 
 <!ENTITY httpCache.label                 "Gebufferde webinhoud">
 
-<!ENTITY offlineStorage2.label           "Offline webinhoud en gebruikersgegevens">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Websitegegevens">
 <!ENTITY clearSiteData.label             "Alle gegevens wissen">
@@ -72,8 +70,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB ruimte">
 <!ENTITY clearCacheNow.label             "Nu wissen">
 <!ENTITY clearCacheNow.accesskey         "w">
-<!ENTITY clearOfflineAppCacheNow.label   "Nu wissen">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Automatisch bufferbeheer negeren">
 <!ENTITY overrideSmartCacheSize.accesskey "A">
 
@@ -110,17 +106,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Zoekmachines automatisch bijwerken">
 <!ENTITY enableSearchUpdate2.accesskey   "Z">
-
-<!ENTITY offlineStorageNotify.label               "Vertellen wanneer een website vraagt gegevens op te slaan voor offlinegebruik">
-<!ENTITY offlineStorageNotify.accesskey           "e">
-<!ENTITY offlineStorageNotifyExceptions.label     "Uitzonderingen…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "U">
-
-<!ENTITY offlineAppsList3.label          "De volgende websites hebben toestemming om gegevens op te slaan voor offlinegebruik">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Verwijderen…">
-<!ENTITY offlineAppsListRemove.accesskey "V">
-<!ENTITY offlineAppRemove.confirm        "Offlinegegevens verwijderen">
 
 <!ENTITY certificateTab.label            "Certificaten">
 <!ENTITY certPersonal2.description       "Wanneer een server om uw persoonlijke certificaat vraagt">

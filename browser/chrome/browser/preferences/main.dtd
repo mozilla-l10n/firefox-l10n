@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "Tip: dit gebruikt aparte profielen. Gebruik Sync om gegevens ertussen te delen.">
 <!ENTITY getStarted.notloggedin.label     "Aanmelden bij &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label;-voorkeuren openen">
-
-<!ENTITY e10sEnabled.label                "Multiprocess in &brandShortName; inschakelen">
