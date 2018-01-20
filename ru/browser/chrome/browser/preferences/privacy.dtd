@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Защита от отслеживания">
 <!ENTITY  trackingProtection2.description      "Отслеживание - это сбор ваших данных веб-серфинга на множестве веб-сайтов. Отслеживание можно использовать для построения профиля и отображения содержимого на основе вашего веб-серфинга и персональной информации.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Использовать защиту от отслеживания для блокировки известных трекеров">
+<!ENTITY  trackingProtection3.description      "Защита от отслеживания блокирует онлайн-трекеры, которые собирают данные вашего веб-сёрфинга на различных веб-сайтах.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Использовать защиту от отслеживания для блокировки известных трекеров">
 <!ENTITY  trackingProtectionAlways.label       "Всегда">
 <!ENTITY  trackingProtectionAlways.accesskey   "е">
 <!ENTITY  trackingProtectionPrivate.label      "Только в приватных окнах">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Никогда">
 <!ENTITY  trackingProtectionNever.accesskey    "а">
 <!ENTITY  trackingProtectionLearnMore.label    "Подробнее">
+<!ENTITY  trackingProtectionLearnMore2.label    "Узнайте больше о защите от отслеживания и вашей приватности">
 <!ENTITY  trackingProtectionExceptions.label   "Исключения…">
 <!ENTITY  trackingProtectionExceptions.accesskey "л">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Использовать защиту от отслеживания в Приватных окнах">
-<!ENTITY trackingProtectionPBM5.accesskey     "о">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Использовать защиту от отслеживания в приватном просмотре для блокировки известных трекеров">
