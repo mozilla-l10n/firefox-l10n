@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Показать окно оповещения">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "к">
 <!ENTITY pref.missedalarms "Показывать пропущенные оповещения">
+<!ENTITY pref.missedalarms2 "Показывать пропущенные оповещения для доступных для записи календарей">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "а">
 <!ENTITY pref.calendar.alarms.defaults.label "Параметры по умолчанию для оповещений">
 <!ENTITY pref.defalarm4events.label "Оповещения о событиях:">
