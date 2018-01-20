@@ -4,9 +4,12 @@
 
 <!ENTITY AdvancedEditButton.label "Q'axinäq Nuk'uj…">
 <!ENTITY AdvancedEditButton.accessKey "N">
+<!ENTITY AdvancedEditButton.tooltip "Ketz'aqatisäx o kejalwachïx HTML taq b'anikil, che't taq b'anikil chuqa' JavaScript">
 <!ENTITY chooseFileButton.label "Ticha' Yakb'äl...">
 <!ENTITY chooseFileButton.accessKey "Y">
 <!ENTITY chooseFileLinkButton.label "Ticha' Yakb'äl...">
 <!ENTITY chooseFileLinkButton.accessKey "c">
+<!ENTITY makeUrlRelative.label "URL ruximon ri' rik'in ri ruk'ojlib'al ruxaq">
+<!ENTITY makeUrlRelative.accessKey "r">
 
 <!-- Shared by Link and Image dialogs -->
