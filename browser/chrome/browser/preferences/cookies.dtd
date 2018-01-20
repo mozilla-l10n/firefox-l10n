@@ -13,7 +13,7 @@
 <!ENTITY     props.domain.label             "Gazdă:">
 <!ENTITY     props.path.label               "Calea:">
 <!ENTITY     props.secure.label             "Trimite pentru:">
-<!ENTITY     props.expires.label            "Expiră în:">
+<!ENTITY     props.expires.label            "Expiră:">
 <!ENTITY     props.container.label          "Container:">
 
 <!ENTITY     window.title                   "Cookie-uri">
