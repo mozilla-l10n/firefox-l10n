@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListManageDesc.label "管理此帳號的身分，預設將使用第一組身分。">
+<!ENTITY identitiesListManageDesc.label "管理此帳號的身份，預設將使用第一組身份。">
 <!ENTITY identitiesListAdd.label  "新增…">
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "編輯…">
@@ -13,4 +13,3 @@
 <!ENTITY identitiesListDelete.accesskey "D">
 <!ENTITY identitiesListClose.label "關閉">
 <!ENTITY identitiesListClose.accesskey "C">
-
