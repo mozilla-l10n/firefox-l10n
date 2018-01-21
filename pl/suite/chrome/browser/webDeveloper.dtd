@@ -19,7 +19,6 @@
 
 <!ENTITY responsiveDesignTool.label "Widok trybu responsywnego">
 <!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label "Próbnik koloru">
 <!ENTITY eyedropper.accesskey "P">
