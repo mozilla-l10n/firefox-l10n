@@ -195,6 +195,7 @@
 <!ENTITY sortByFromCmd.accesskey "N">
 <!ENTITY sortByRecipientCmd.label "Hartzailea">
 <!ENTITY sortByRecipientCmd.accesskey "t">
+<!ENTITY sortByCorrespondentCmd.label "Korrespontsalak">
 <!ENTITY sortByUnreadCmd.label "Irakurrita">
 <!ENTITY sortByUnreadCmd.accesskey "I">
 <!ENTITY sortByOrderReceivedCmd.label "Jasotako ordena">
@@ -699,6 +700,7 @@
 <!ENTITY threadColumn.label "Haria">
 <!ENTITY fromColumn.label "Nork">
 <!ENTITY recipientColumn.label "Hartzailea">
+<!ENTITY correspondentColumn.label "Korrespontsalak">
 <!ENTITY subjectColumn.label "Gaia">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Lehentasuna">
@@ -721,6 +723,7 @@
 <!ENTITY threadColumn2.tooltip "Bistaratu mezuen hariak">
 <!ENTITY fromColumn2.tooltip "Ordenatu bidaltzailearen arabera">
 <!ENTITY recipientColumn2.tooltip "Ordenatu hartzailearen arabera">
+<!ENTITY correspondentColumn2.tooltip "Korrespontsalen arabera ordenatua">
 <!ENTITY subjectColumn2.tooltip "Ordenatu gaiaren arabera">
 <!ENTITY dateColumn2.tooltip "Ordenatu dataren arabera">
 <!ENTITY priorityColumn2.tooltip "Ordenatu lehentasunaren arabera">
