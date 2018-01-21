@@ -29,6 +29,7 @@
 <!ENTITY insertMenu.accesskey "x">
 <!ENTITY insertLinkCmd2.label "Lotura…">
 <!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertLinkCmd2.key "u">
 <!ENTITY insertAnchorCmd.label "Izendun aingura…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Irudia…">
