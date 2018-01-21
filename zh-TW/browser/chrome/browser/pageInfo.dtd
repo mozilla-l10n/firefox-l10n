@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "此網站權限設定:">
 <!ENTITY  permPlugins           "啟用外掛程式">
 
-<!ENTITY  permClearStorage           "清除儲存空間">
-<!ENTITY  permClearStorage.accesskey "C">
-
 <!ENTITY  securityTab           "安全">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "檢視憑證">
@@ -70,7 +67,7 @@
 <!ENTITY  securityView.unknown   "未知">
 
 
-<!ENTITY  securityView.identity.header   "網站身分">
+<!ENTITY  securityView.identity.header   "網站身份">
 <!ENTITY  securityView.identity.owner    "擁有者:">
 <!ENTITY  securityView.identity.domain   "網站:">
 <!ENTITY  securityView.identity.verifier "驗證機構:">
