@@ -24,6 +24,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "版本">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "安全软件">
+<!ENTITY aboutSupport.securitySoftwareType "类型">
+<!ENTITY aboutSupport.securitySoftwareName "名称">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "防病毒软件">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "反间谍软件">
+<!ENTITY aboutSupport.securitySoftwareFirewall "防火墙">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; 功能">
 <!ENTITY aboutSupport.featureName "名称">
 <!ENTITY aboutSupport.featureVersion "版本">
