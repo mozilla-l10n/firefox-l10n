@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Konexio-ezarpenak">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Konfiguratu Internet atzitzeko proxy-ak">
 <!ENTITY  noProxyTypeRadio.label        "Proxy-rik ez">
