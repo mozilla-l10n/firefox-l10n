@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Блокирали сте микрофон за овај веб сајт.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Блокирали сте дељење екрана за овај веб сајт.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Блокирали сте локацију за овај веб сајт.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Блокирали сте складиште за овај веб сајт.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Блокирали сте обавештења за овај веб сајт.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Блокирали сте трајно складиштење за овај веб сајт.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Блокирали сте искачуће прозоре за овај веб сајт.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Блокирали сте екстрактовање података слике за овај веб сајт.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Н">
 <!ENTITY newPrivateWindow.label     "Нови приватан прозор">
 <!ENTITY newPrivateWindow.accesskey "п">
-<!ENTITY newNonRemoteWindow.label   "Нови не-e10s прозор">
 
 <!ENTITY editMenu.label         "Уређивање">
 <!ENTITY editMenu.accesskey       "У">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Преглед целог историјата">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Прилагођавање">
-<!ENTITY appMenuCustomize.tooltip "Прилагоди мени и траку са алаткама">
-<!ENTITY appMenuCustomizeExit.label "Изађи из прилагођавања">
-<!ENTITY appMenuCustomizeExit.tooltip "Завршите прилагођавање">
-
 <!ENTITY appMenuHistory.showAll.label "Прикажи целу историју">
 <!ENTITY appMenuHistory.clearRecent.label "Обриши историјат…">
 <!ENTITY appMenuHistory.restoreSession.label "Обнови претходну сесију">
 <!ENTITY appMenuHistory.viewSidebar.label "Прикажи палету историјата">
 <!ENTITY appMenuHistory.recentHistory.label "Недавни историјат">
 <!ENTITY appMenuHelp.label "Помоћ">
-<!ENTITY appMenuHelp.tooltip "Отвори мени за помоћ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизовани језичци">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Екстензија:">
 <!ENTITY urlbar.switchToTab.label     "Премести на језичак:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Да ли желите да побољшате искуство са предлозима претраге?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Сазнајте више…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "С">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "Н">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "Д">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Савет:">
@@ -540,7 +523,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ј">
 <!ENTITY openFrameCmd.label           "Отвори оквир у новом прозору">
 <!ENTITY openFrameCmd.accesskey       "п">
-<!ENTITY openLinkCmdInContainerTab.label "Отвори у новом језичку">
+<!ENTITY openLinkCmdInContainerTab.label "Отвори у новом контејнеру">
 <!ENTITY openLinkCmdInContainerTab.accesskey "т">
 <!ENTITY showOnlyThisFrameCmd.label     "Прикажи само овај оквир">
 <!ENTITY showOnlyThisFrameCmd.accesskey "о">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Основни стил странице">
 <!ENTITY pageStylePersistentOnly.accesskey "О">
 
-<!ENTITY pageReportIcon.tooltip            "Промена правила за блокаду искачућих прозора за овај сајт">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Превуците ваше омиљене ставке на алатну траку или у додатни мени.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Желите више алата?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Изаберите неки од хиљада додатака">
 <!ENTITY customizeMode.restoreDefaults "Обнови подразумевано">
 <!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Трака наслова">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Набавите теме">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
-<!ENTITY customizeMode.emptyOverflowList.description "Превуците и спустите ставке овде како бисте их држали близу али ван алатне траке…">
 <!ENTITY customizeMode.overflowList.title2 "Додатни мени">
 <!ENTITY customizeMode.overflowList.description "Превуците овде ставке да их имате на дохват руке али ван ваше алатне траке…">
 <!ENTITY customizeMode.uidensity "Збијеност">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Радње странице">
 <!ENTITY pageAction.addToUrlbar.label "Додај адресној траци">
 <!ENTITY pageAction.removeFromUrlbar.label "Уклони са адресне траке">
-
 <!ENTITY pageAction.allowInUrlbar.label "Прикажи у адресној траци">
 <!ENTITY pageAction.disallowInUrlbar.label "Немој приказати у адресној траци">
 <!ENTITY pageAction.manageExtension.label "Управљај екстензијама…">
