@@ -21,6 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Verzió">
 <!ENTITY aboutSupport.extensionId "Azonosító">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Biztonsági szoftver">
+<!ENTITY aboutSupport.securitySoftwareType "Típus">
+<!ENTITY aboutSupport.securitySoftwareName "Név">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivírus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Kémprogram-elhárító">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Tűzfal">
+
 <!ENTITY aboutSupport.featuresTitle "A &brandShortName; szolgáltatásai">
 <!ENTITY aboutSupport.featureName "Név">
 <!ENTITY aboutSupport.featureVersion "Verzió">
