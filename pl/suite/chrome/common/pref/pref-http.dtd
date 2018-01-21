@@ -13,11 +13,7 @@
 <!ENTITY prefEnableHTTP11.label "Użyj protokołu HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey "r">
-<!ENTITY prefEnablePipelining.label "Użyj przetwarzania potokowego">
-<!ENTITY prefEnablePipelining.accesskey "z">
-<!ENTITY prefEnablePipeliningProxy.accesskey "i">
 <!ENTITY prefPara "Poniższe opcje pozwalają na dostosowanie ustawień połączeń HTTP w celu zwiększenia wydajności lub kompatybilności. Niektóre serwery proxy wymagają protokołu HTTP w wersji HTTP/1.0 (szczegóły w notatkach do bieżącego wydania).">
-<!ENTITY prefPipeWarning "Uwaga: Przetwarzanie potokowe jest w fazie eksperymentalnej. Pozwala na zwiększenie wydajności wczytywania stron, jednak nie jest w pełni obsługiwane przez niektóre serwery oraz serwery proxy.">
 <!ENTITY prefUseragent.label "Identyfikator programu">
 <!ENTITY prefFirefoxCompat.label "Deklaruj kompatybilność z przeglądarką Firefox">
 <!ENTITY prefFirefoxCompat.accesskey "F">
