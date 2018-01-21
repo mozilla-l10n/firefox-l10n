@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Fel vid sidhämtning">
 <!ENTITY retry.label "Försök igen">
 <!ENTITY returnToPreviousPage.label "Gå bakåt">
-<!ENTITY advanced.label "Avancerad">
+<!ENTITY advanced.label "Avancerat">
 
 <!-- Specific error messages -->
 
