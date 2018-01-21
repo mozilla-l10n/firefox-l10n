@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- for SearchDialog.xul -->
 
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Bilatu mezuak hemen:">
 <!ENTITY searchHeading.accesskey     "t">
 <!ENTITY searchSubfolders.label      "Bilatu azpikarpetetan">
@@ -24,8 +24,8 @@
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Gorde bilaketa-karpeta bezala">
 <!ENTITY saveAsVFButton.accesskey    "o">
-<!-- for ABSearchDialog.xul -->
 
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Bilatu hemen:">
 <!ENTITY abSearchHeading.accesskey   "B">
 <!ENTITY propertiesButton.label      "Propietateak">
@@ -35,12 +35,12 @@
 <!ENTITY deleteCardButton.label      "Ezabatu">
 <!ENTITY deleteCardButton.accesskey  "E">
 <!ENTITY abSearchDialogTitle.label   "Bilaketa aurreratua helbide-liburuan">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Haria">
 <!ENTITY fromColumn.label "Nork">
 <!ENTITY recipientColumn.label "Hartzailea">
-
+<!ENTITY correspondentColumn.label "Korrespontsalak">
 <!ENTITY subjectColumn.label "Gaia">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Lehentasuna">
@@ -56,13 +56,13 @@
 <!ENTITY starredColumn.label "Izarduna">
 <!ENTITY locationColumn.label "Kokalekua">
 <!ENTITY idColumn.label "Jasotako ordena">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Hautatu bistaratzeko zutabeak">
 <!ENTITY threadColumn2.tooltip "Bistaratu mezuen hariak">
 <!ENTITY fromColumn2.tooltip "Ordenatu bidaltzailearen arabera">
 <!ENTITY recipientColumn2.tooltip "Ordenatu hartzailearen arabera">
-
+<!ENTITY correspondentColumn2.tooltip "Korrespontsalen arabera ordenatua">
 <!ENTITY subjectColumn2.tooltip "Ordenatu gaiaren arabera">
 <!ENTITY dateColumn2.tooltip "Ordenatu dataren arabera">
 <!ENTITY priorityColumn2.tooltip "Ordenatu lehentasunaren arabera">
