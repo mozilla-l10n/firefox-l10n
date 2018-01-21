@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE (identityDialog.style): This value should be roughly
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
+<!ENTITY identityDialog.style "min-width: 75ch;">
 <!ENTITY identityListDesc.label "Konfiguratu identitate honen ezarpenak:">
 
 <!ENTITY settingsTab.label       "Ezarpenak">
