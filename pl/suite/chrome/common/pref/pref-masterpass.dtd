@@ -3,15 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.masterpass.title "Hasło główne">
-<!ENTITY managepassword.caption "Limit czasu hasła głównego">
-<!ENTITY managepassword.text "Zapytanie o hasło główne zostanie wyświetlone:">
-<!ENTITY managepassword.askfirsttime "Tylko za pierwszym razem, kiedy będzie to wymagane">
-<!ENTITY managepassword.askfirsttime.accesskey "T">
-<!ENTITY managepassword.askeverytime "Za każdym razem, kiedy będzie to wymagane">
-<!ENTITY managepassword.askeverytime.accesskey "E">
-<!ENTITY managepassword.asktimeout "Jeżeli ostatni raz użyto hasła">
-<!ENTITY managepassword.asktimeout.accesskey "n">
-<!ENTITY managepassword.timeout.unit "minut temu lub wcześniej.">
 
 <!ENTITY changepassword.caption "Zmiana hasła głównego">
 <!ENTITY changepassword.text "Wszystkie zachowane poufne dane, takie jak nazwy użytkowników, hasła i certyfikaty, są chronione przez hasło główne.">
