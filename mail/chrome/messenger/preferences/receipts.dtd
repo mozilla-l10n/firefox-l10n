@@ -21,6 +21,6 @@
 <!ENTITY outsideDomain.accesskey       "к">
 <!ENTITY otherCases.label              "Във всички други случаи:">
 <!ENTITY otherCases.accesskey          "В">
-<!ENTITY askMe.label                   "Пита">
+<!ENTITY askMe.label                   "Запитване">
 <!ENTITY alwaysSend.label              "Изпраща">
 <!ENTITY neverSend.label               "Не изпраща">
