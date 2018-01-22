@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Захист від стеження">
 <!ENTITY  trackingProtection2.description      "Стеження - це збирання ваших даних перегляду на різних веб-сайтах. Стеження може бути використане для створення профілю і показу вмісту, що базується на ваших даних перегляду та особистої інформації.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Блокувати відомі елементи стеження">
+<!ENTITY  trackingProtection3.description      "Захист від стеження блокує елементи, що збирають ваші дані під час перегляду на багатьох веб-сайтах.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Використовуйте захист від стеження для блокування відомих елементів стеження">
 <!ENTITY  trackingProtectionAlways.label       "Завжди">
 <!ENTITY  trackingProtectionAlways.accesskey   "З">
 <!ENTITY  trackingProtectionPrivate.label      "Лише у приватних вікнах">
@@ -12,13 +14,11 @@
 <!ENTITY  trackingProtectionNever.label        "Ніколи">
 <!ENTITY  trackingProtectionNever.accesskey    "Н">
 <!ENTITY  trackingProtectionLearnMore.label    "Докладніше">
+<!ENTITY  trackingProtectionLearnMore2.label    "Дізнайтеся більше про захист від стеження і вашу приватність">
 <!ENTITY  trackingProtectionExceptions.label   "Винятки…">
 <!ENTITY  trackingProtectionExceptions.accesskey "В">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Використовувати захист від стеження в приватних вікнах">
-<!ENTITY trackingProtectionPBM5.accesskey     "ж">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Блокувати відомі елементи стеження в приватному перегляді">
 <!ENTITY trackingProtectionPBM6.accesskey     "с">
 <!ENTITY trackingProtectionPBMLearnMore.label "Докладніше">
