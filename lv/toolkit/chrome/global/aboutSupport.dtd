@@ -21,6 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versija">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Drošības programmatūra">
+<!ENTITY aboutSupport.securitySoftwareType "Tips">
+<!ENTITY aboutSupport.securitySoftwareName "Nosaukums">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Pretvīrusu aizsardzība">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Pretspiegprogrammatūra">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Ugunsmūris">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; iespējas">
 <!ENTITY aboutSupport.featureName "Nosaukums">
 <!ENTITY aboutSupport.featureVersion "Versija">
@@ -151,3 +158,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanāli">
 <!ENTITY aboutSupport.mediaDeviceRate "Ātrums">
 <!ENTITY aboutSupport.mediaDeviceLatency "Aizture">
+
+<!ENTITY aboutSupport.intlTitle "Internacionalizācija un lokalizācija">
+<!ENTITY aboutSupport.intlAppTitle "Programmatūras iestatījumi">
+<!ENTITY aboutSupport.intlLocalesRequested "Pieprasītais valodas">
+<!ENTITY aboutSupport.intlLocalesAvailable "Pieejamās valodas">
+<!ENTITY aboutSupport.intlLocalesSupported "Lietotnes valodas">
+<!ENTITY aboutSupport.intlLocalesDefault "Noklusētā valoda">
+<!ENTITY aboutSupport.intlOSTitle "Operētājsisēma">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Sistēmas valodas">
+<!ENTITY aboutSupport.intlRegionalPrefs "Reģiona iesatījumi">
