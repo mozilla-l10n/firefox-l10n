@@ -196,6 +196,7 @@
 <!ENTITY sortByRecipientCmd.label "Hartzailea">
 <!ENTITY sortByRecipientCmd.accesskey "t">
 <!ENTITY sortByCorrespondentCmd.label "Korrespontsalak">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Irakurrita">
 <!ENTITY sortByUnreadCmd.accesskey "I">
 <!ENTITY sortByOrderReceivedCmd.label "Jasotako ordena">
@@ -317,6 +318,7 @@
 <!ENTITY goChatCmd.label "Txata">
 <!ENTITY goChatCmd.accesskey "T">
 <!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Izardun mezura">
 <!ENTITY prevStarredMsgCmd.accesskey "z">
 <!ENTITY folderMenu.label "Karpeta">
@@ -517,6 +519,8 @@
 <!ENTITY errorConsoleCmd.label "Errore-kontsola">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Zirriborroa">
+<!ENTITY scratchpadCmd.accesskey "Z">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
