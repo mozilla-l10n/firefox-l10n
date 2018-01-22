@@ -21,6 +21,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Útgáfa">
 <!ENTITY aboutSupport.extensionId "Auðkenni">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Öryggishugbúnaður">
+<!ENTITY aboutSupport.securitySoftwareType "Tegund">
+<!ENTITY aboutSupport.securitySoftwareName "Nafn">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Vírusvörn">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Eldveggur">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; eiginleikar">
 <!ENTITY aboutSupport.featureName "Nafn">
 <!ENTITY aboutSupport.featureVersion "Útgáfa">
