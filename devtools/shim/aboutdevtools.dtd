@@ -56,15 +56,30 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Uzzināt vairāk par izstrādātāju rīkiem">
 
+<!ENTITY  aboutDevtools.enable.enableButton "Aktivēt izstrādātāju rīkus">
+<!ENTITY  aboutDevtools.enable.closeButton "Aizvērt šo lapu">
 
+<!ENTITY  aboutDevtools.enable.closeButton2 "Aizvērt šo cilni">
 
+<!ENTITY  aboutDevtools.welcome.title "Laipni lūgti Firefox izstrādātāju rīkos!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Mozilla izstrādātāju tīkls">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Saņemiet izstrādātāju ziņas, padomus un dažādas noderīgas lietas savā pasta kastē.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Epasts">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Es piekrītu, ka jūs apstrādājat šo informāciju kā aprakstīts jūsu <a class='external' href='https://www.mozilla.org/privacy/'>privātuma politikā</a>.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Pierakstīties">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Paldies!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Ja neesat iepriekš apstiprinājuši pierakstīšanos uz Mozilla jaunumiem jums to būs jāizdara tagad. Lūdzu, pārbaudiet savu pasta kasti, surogātpasta filtrus un mēstuļu kasti.">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox izstrādātāju versija">
+<!ENTITY  aboutDevtools.footer.message "Meklē vairāk nekā tikai izstrādātāju rīkus? Apskati Firefox versiju, kas ir īpaši būvēta izstrādātājiem un mūsdienu darba plūsmām.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
+<!ENTITY  aboutDevtools.footer.learnMoreLink "Uzzināt vairāk">
 
