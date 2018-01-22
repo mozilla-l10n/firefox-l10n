@@ -11,5 +11,8 @@
 <!ENTITY chooseFileLinkButton.accessKey "c">
 <!ENTITY makeUrlRelative.label "URL ruximon ri' rik'in ri ruk'ojlib'al ruxaq">
 <!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.tooltip "Tijal chi kikojol ri junem chuqa' ri majalatel URL. Richin najäl, nab'ey tayaka' ri ruxaq.">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField.label "Titz'ib'äx rochochib'al jun ruxaq ajk'amaya'l, jun aj wawe' yakb'äl, o ticha' jun ximonel rik'in ri b'i'aj o rujub'i'aj ri rike'l cholb'äl:">
+<!ENTITY LinkURLEditField.accessKey "k">
