@@ -5,6 +5,8 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Ruxaq taq B'onil chuqa' Rupam">
 <!ENTITY pageColors.label "Ruxaq taq B'onil">
+<!ENTITY defaultColorsRadio.label "Taq rub'onil sik'inel kan k'o wi (Man kejikib'äx taq b'onil pa ruxaq)">
+<!ENTITY defaultColorsRadio.accessKey "M">
 
 <!ENTITY normalText.label "Relik rucholajem tzij">
 <!ENTITY normalText.accessKey "R">
