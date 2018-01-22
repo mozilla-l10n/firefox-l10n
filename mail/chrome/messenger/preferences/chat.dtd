@@ -33,6 +33,8 @@ sentence. -->
 <!ENTITY  dummyNotification.label             "inolako informaziorik gabe">
 <!ENTITY  getAttention.label                  "Keinuka ataza-barrako elementua">
 <!ENTITY  getAttention.accesskey              "K">
+<!ENTITY  getAttentionMac.label               "Atrakeko ikonoak animatu">
+<!ENTITY  getAttentionMac.accesskey           "A">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Erreproduzitu soinua">
 <!ENTITY  play.label                          "Erreproduzitu">

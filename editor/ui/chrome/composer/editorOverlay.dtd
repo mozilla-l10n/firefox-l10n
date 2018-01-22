@@ -138,6 +138,7 @@
 <!ENTITY tableOrCellColor.accesskey "r">
 
 <!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Ezabatu aingura izendunak">
 <!ENTITY formatRemoveNamedAnchors.accesskey "E">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
