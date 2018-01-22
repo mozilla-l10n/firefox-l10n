@@ -4,9 +4,24 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!ENTITY copyAndFolderTitle.label "Copias &amp; carpetas">
+<!ENTITY sendingPrefix.label "Cuando se envíen mensajes, automáticamente: ">
+<!ENTITY fccMailFolder.label "Colocar una copia en:">
+<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccReplyFollowsParent.label "Colocar respuestas en la carpeta del mensajes al que se está respondiendo">
+<!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Cc a estas direcciones:">
+<!ENTITY ccAddress.accesskey "C">
+<!ENTITY ccAddressList.placeholder "Separar direcciones con comas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Cco a estas direcciones:">
+<!ENTITY bccAddress.accesskey "B">
+<!ENTITY bccAddressList.placeholder "Separar direcciones con comas">
+<!ENTITY saveMessageDlg.label "Mostrar ventana de confirmación cuando se guarden mensajes">
+<!ENTITY saveMessageDlg.accesskey "w">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY sentFolderOn.label "Carpeta &quot;Enviados&quot; en:">
 <!ENTITY sentInOtherFolder.label "Otro:">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archiveInOtherFolder.label "Otro:">

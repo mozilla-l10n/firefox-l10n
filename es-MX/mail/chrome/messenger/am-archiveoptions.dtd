@@ -4,9 +4,20 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!ENTITY dialogTitle.label "Opciones de archivo">
+<!ENTITY archiveGranularityPrefix.label "Cuando se archiven mensajes, colocarlos en:">
+<!ENTITY archiveFlat.label "Una única carpeta">
+<!ENTITY archiveFlat.accesskey "s">
+<!ENTITY archiveYearly.label "Carpetas archivadas por año">
+<!ENTITY archiveYearly.accesskey "Y">
+<!ENTITY archiveMonthly.label "Carpetas archivadas por mes">
+<!ENTITY archiveMonthly.accesskey "M">
+<!ENTITY keepFolderStructure.label "Mantener la estructura de carpetas existente para los mensajes archivados">
+<!ENTITY keepFolderStructure.accesskey "K">
 <!ENTITY archiveExample.label "Ejemplo">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
 <!ENTITY archiveFolderName.label "Archivos">
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
+<!ENTITY inboxFolderName.label "Bandeja de entrada">
