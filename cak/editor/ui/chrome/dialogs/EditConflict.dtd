@@ -4,3 +4,6 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Ticha' Kenuk' taq Jaloj">
+<!ENTITY conflictWarning.label "Xajalatäj re ruxaq re' ruma jun chik cholkema', chuqa' e k'o taq jaloj, ri man eyakon ta pa ri Nuk'unel.">
+<!ENTITY conflictResolve.label "Tacha' ri ruwäch xtijike':">
+<!ENTITY keepCurrentPageButton.label "Keyake' ri taq rujaloj ruxaq k'o wakami">
