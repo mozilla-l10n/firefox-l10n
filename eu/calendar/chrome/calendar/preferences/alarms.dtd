@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 
 <!ENTITY pref.alarmgoesoff.label "Gogorarazle bat muga-egunean denean:">
 <!ENTITY pref.playasound "Soinu bat jo">
@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Erakutsi gogorarazlearen elkarrizketa-koadroa">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "Erakutsi galdutako gogorarazpenak">
+<!ENTITY pref.missedalarms2 "Erakutsi galdutako gogorarazleak egutegi idazkorretan">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Gogorarazleen lehenespenak">
 <!ENTITY pref.defalarm4events.label "Gertaerentzako gogorarazle-ezarpen lehenetsiak:">
