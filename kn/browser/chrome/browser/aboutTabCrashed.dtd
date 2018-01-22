@@ -22,6 +22,7 @@
 <!ENTITY tabCrashed.requestHelp "ನೀವು ನಮಗೆ ಸಹಾಯ ಮಡುತ್ತೀರಾ?">
 <!ENTITY tabCrashed.requestHelpMessage "ಕ್ರಾಶ್‌ ವರದಿಗಳಿಂದಾಗಿ ಸಮಸ್ಯೆಗಳನ್ನು ಪತ್ತೆಹಚ್ಚಲು ಮತ್ತು &brandShortName; ಉತ್ತಮಗೊಳಿಸಲು ಸಾಧ್ಯವಿರುತ್ತದೆ.">
 <!ENTITY tabCrashed.requestReport "ಈ ಟ್ಯಾಬ್‌ಅನ್ನು ವರದಿಮಾಡು">
+<!ENTITY tabCrashed.sendReport3 "ಸ್ವಯಂಚಾಲಿತ ಕ್ರ್ಯಾಶ್ ವರದಿಯನ್ನು ಕಳುಹಿಸಿ ಇದರಿಂದ ನಾವು ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಬಹುದು.">
 <!ENTITY tabCrashed.commentPlaceholder2 "ಕಡ್ಡಾಯವಲ್ಲದ ಪ್ರತಿಕ್ರಿಯೆ‍ಗಳು (ಪ್ರತಿಕ್ರಿಯೆ‍ಗಳು ಸಾರ್ವಜನಿಕವಾಗಿ ಕಾಣಿಸುತ್ತವೆ)‍">
 <!ENTITY tabCrashed.emailPlaceholder "ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಇಲ್ಲಿ ದಾಖಲಿಸಿ">
 <!ENTITY tabCrashed.emailMe "ಇನ್ನಷ್ಟು ಮಾಹಿತಿ ಲಭ್ಯವಾದೊಡನೆ ನನಗೆ ಇಮೇಲ್ ಮಾಡು">

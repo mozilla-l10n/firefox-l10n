@@ -7,6 +7,8 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "ಕ್ಷಮಿಸಿ. ನಿಮ್ಮ ಪುಟಗಳನ್ನು ಕರೆತರಲು ನಮಗೆ ತೊಂದರೆಯಾಗುತ್ತಿದೆ.">
+<!ENTITY restorepage.problemDesc2   "ನಿಮ್ಮ ಕೊನೆಯ ಬ್ರೌಸಿಂಗ್ ಅಧಿವೇಶನವನ್ನು ಮರುಸ್ಥಾಪಿಸುವಲ್ಲಿ ನಮಗೆ ಸಮಸ್ಯೆ ಎದುರಾಗುತ್ತಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲು ಅಧಿವೇಶನ ಮರುಸ್ಥಾಪಿಸಿ ಎಂದು ಆಯ್ಕೆಮಾಡಿ.">
+<!ENTITY restorepage.tryThis2       "ಇನ್ನೂ ನಿಮ್ಮ ಅಧಿವೇಶನವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲವೆ? ಕೆಲವೊಮ್ಮೆ ಒಂದು ಟ್ಯಾಬ್ ಈ ಸಮಸ್ಯೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ. ಹಿಂದಿನ ಟ್ಯಾಬ್ಗಳನ್ನು ವೀಕ್ಷಿಸಿ, ನಿಮಗೆ ಅಗತ್ಯವಿಲ್ಲದ ಟ್ಯಾಬ್ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ, ತದನಂತರ ಮರುಸ್ಥಾಪಿಸಿ.">
 
 <!ENTITY restorepage.hideTabs       "ಹಿಂದಿನ ಹಾಳೆಯನ್ನು ಅಡಗಿಸು">
 <!ENTITY restorepage.showTabs       "ಹಿಂದಿನ ಹಾಳೆಯನ್ನು ತೋರಿಸು">
