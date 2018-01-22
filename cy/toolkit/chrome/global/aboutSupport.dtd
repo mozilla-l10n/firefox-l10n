@@ -21,6 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Fersiwn">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Meddalwedd Diogelwch">
+<!ENTITY aboutSupport.securitySoftwareType "Math">
+<!ENTITY aboutSupport.securitySoftwareName "Enw">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Gwrth Firws">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Gwrthysbiwar">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Mur Cadarn">
+
 <!ENTITY aboutSupport.featuresTitle "Nodweddion &brandShortName;">
 <!ENTITY aboutSupport.featureName "Enw">
 <!ENTITY aboutSupport.featureVersion "Fersiwn">
