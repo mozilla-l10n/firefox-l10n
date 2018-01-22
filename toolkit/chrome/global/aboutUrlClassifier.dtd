@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Informāciju par url klasifikatoru">
+<!ENTITY aboutUrlClassifier.title                       "URL klasifikatora informācija">
 <!ENTITY aboutUrlClassifier.providerTitle               "Piegādātājs">
 <!ENTITY aboutUrlClassifier.provider                    "Piegādātājs">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Pēdējās atjaunināšanas laiks">

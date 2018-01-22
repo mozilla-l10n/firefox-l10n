@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Papildinājumu pārvaldnieks">
 
 <!ENTITY search.placeholder                   "Meklēt papildinājumus">
+
+<!ENTITY search.placeholder2                  "Meklēt addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Meklēšana">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -23,8 +25,6 @@
 <!ENTITY getThemes.description                "Gribat personalizēt savu pārlūku?">
 <!ENTITY getThemes.learnMore                  "Izvēlieties kādu no tūkstošiem tēmu.">
 
-<!ENTITY cmd.back.tooltip                     "Pāriet uz iepriekšējo lapu">
-<!ENTITY cmd.forward.tooltip                  "Pāriet uz nākamo lapu">
 
 <!ENTITY showUnsignedExtensions.button.label  "Dažus papildinājumus nevar pārbaudīt">
 <!ENTITY showAllExtensions.button.label       "Rādīt visus papildinājumus">
