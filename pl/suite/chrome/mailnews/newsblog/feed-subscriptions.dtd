@@ -11,7 +11,7 @@
 
 <!ENTITY feedLocation.label "Adres URL:">
 <!ENTITY feedLocation.accesskey "R">
-<!ENTITY feedLocation.placeholder "Wprowadź poprawny adres URL kanału do dodania">
+<!ENTITY feedLocation2.placeholder "Wprowadź poprawny adres URL kanału">
 <!ENTITY locationValidate.label "Sprawdź poprawność">
 <!ENTITY validateText.label "Sprawdź poprawność i pobierz prawidłowy adres URL.">
 
@@ -39,6 +39,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label "Dodaj">
 <!ENTITY button.addFeed.accesskey "D">
+<!ENTITY button.verifyFeed.label "Zweryfikuj">
+<!ENTITY button.verifyFeed.accesskey "w">
 <!ENTITY button.updateFeed.label "Uaktualnij">
 <!ENTITY button.updateFeed.accesskey "a">
 <!ENTITY button.removeFeed.label "Usuń">
