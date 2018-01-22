@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "In alarmfinster toane">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "t">
 <!ENTITY pref.missedalarms "Miste alarmen toane">
+<!ENTITY pref.missedalarms2 "Miste omtinkens foar beskriuwbere aginda’s toane">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "M">
 <!ENTITY pref.calendar.alarms.defaults.label "Standert alarmynstellingen">
 <!ENTITY pref.defalarm4events.label "Standert alarmynstelling foar barren:">
