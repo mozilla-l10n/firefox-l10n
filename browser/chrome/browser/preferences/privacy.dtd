@@ -6,6 +6,7 @@
 <!ENTITY  trackingProtection2.description      "Folgjen is it sammeljen fan jo sneupgegevens op mear websites. Folgjen kin brûkt wurde om in profyl op te bouwen en ynhâld wer te jaan op basis fan jo persoanlike en sneupgegevens.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Beskerming tsjin folgjen brûke om bekende folgers te blokkearjen">
 <!ENTITY  trackingProtection3.description      "Beskerming tsjin folgjen blokkearret online trackers dy't op mear websites jo surfgegevens sammelje.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Beskerming tsjin folgjen brûke om bekende folgers te blokkearjen">
 <!ENTITY  trackingProtectionAlways.label       "Altyd">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Allinnich yn priveefinsters">
@@ -13,6 +14,7 @@
 <!ENTITY  trackingProtectionNever.label        "Nea">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Mear ynfo">
+<!ENTITY  trackingProtectionLearnMore2.label    "Lês mear oer online folgjen en jo privacy">
 <!ENTITY  trackingProtectionExceptions.label   "Utsûnderingen…">
 <!ENTITY  trackingProtectionExceptions.accesskey "i">
 

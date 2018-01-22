@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Ynformaasje oer de url-classifier">
+<!ENTITY aboutUrlClassifier.title                       "URL-klassifikaasjeynformaasje">
 <!ENTITY aboutUrlClassifier.providerTitle               "Provider">
 <!ENTITY aboutUrlClassifier.provider                    "Provider">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Tiid fan lêste fernijing">
