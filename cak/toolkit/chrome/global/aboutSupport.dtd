@@ -21,6 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Ruwäch">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Software de seguridad">
+<!ENTITY aboutSupport.securitySoftwareType "Ruwäch">
+<!ENTITY aboutSupport.securitySoftwareName "B'i'aj">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Chapöy chikopil">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Chapöy nachanel">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Chupuq'aq'">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; Taq rub'anikil">
 <!ENTITY aboutSupport.featureName "B'i'aj">
 <!ENTITY aboutSupport.featureVersion "Ruwäch">
