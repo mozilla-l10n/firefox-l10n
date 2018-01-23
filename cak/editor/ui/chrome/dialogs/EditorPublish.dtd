@@ -50,9 +50,16 @@
 <!ENTITY siteName.tooltip             "Jun tzukun b'i'aj, ri nuya' retal re ruxaq k'amaya'l talun rutzijol (achi'el: 'MySite')">
 <!ENTITY siteUrl.label                "Rochochib'al talun rutzijol (achi'el: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "a">
+<!ENTITY siteUrl.tooltip              "Ri FTP:// o HTTP:// taq ochochib'äl eya'on ruma ri ISP awichin o samaj pa ruwi' ruwarab'al ajk'amaya'l">
+<!ENTITY browseUrl.label              "HTTP taq ochochib'äl richin ri nab'ey ruxaq (achi'el: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip            "Ri HTTP:// taq ochochib'äl richin ri rucholb'al atikirib'al (man nitz'aqatisäx ta ri rub'i' yakb'äl)">
 <!ENTITY username.label               "Rub'i' winäq:">
 <!ENTITY username.accesskey           "w">
+<!ENTITY username.tooltip             "Ri rub'i' winäq nawokisaj richin yatok pa ri ISP o rusamaj ruwarab'al ajk'amaya'l">
 <!ENTITY password.label               "Ewan tzij:">
 <!ENTITY password.accesskey           "t">
+<!ENTITY password.tooltip             "Ri ewan tzij ruximon ri' rik'in ri rub'i' awinaqil">
 <!ENTITY savePassword.label           "Tiyak Ewan taq Tzij">
 <!ENTITY savePassword.accesskey       "y">
+<!ENTITY savePassword.tooltip         "Ticha' re re' richin niyak ri ewan atzij rik'in rujikomal ri Runuk'samajel Ewan Tzij">
