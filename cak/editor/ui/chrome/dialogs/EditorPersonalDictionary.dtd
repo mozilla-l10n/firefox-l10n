@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Ichin Soltzij">
 
 <!ENTITY wordEditField.label "K'ak'a' tzij:">
 <!ENTITY wordEditField.accessKey "K">

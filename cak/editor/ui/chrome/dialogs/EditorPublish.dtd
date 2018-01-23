@@ -10,8 +10,16 @@
 <!ENTITY publishButton.label          "Titalüx rutzijol">
 
 <!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Rub'i' Ruxaq:">
+<!ENTITY siteList.accesskey           "u">
+<!ENTITY siteList.tooltip             "Tacha' ri ruxaq k'amaya'l nawajo' nataluj rutzijol">
 <!ENTITY newSiteButton.label          "K'ak'a' Ruxaq">
 <!ENTITY newSiteButton.accesskey      "K">
+<!ENTITY docDirList.label             "Rachcholb'al ruxaq k'amaya'l richin re ruxaq re':">
+<!ENTITY docDirList.accesskey         "R">
+<!ENTITY docDirList.tooltip           "Ticha' o tiz'ib'äx rub'i' ri näj achcholb'äl richin re ruxaq re'">
+<!ENTITY publishImgCheckbox.label     "Ketz'aqatisäx taq wachib'äl chuqa' ch'aqa' chik taq yakb'äl">
+<!ENTITY publishImgCheckbox.accesskey "o">
 <!ENTITY sameLocationRadio.label      "Tokisäx ri k'ojlib'äl achi'el richin ri ruxaq">
 <!ENTITY sameLocationRadio.accesskey  "o">
 <!ENTITY pageTitle.label              "Rub'i' Ruxaq:">
