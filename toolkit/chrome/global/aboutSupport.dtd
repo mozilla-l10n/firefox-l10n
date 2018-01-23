@@ -25,6 +25,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "버전">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "보안 소프트웨어">
+<!ENTITY aboutSupport.securitySoftwareType "유형">
+<!ENTITY aboutSupport.securitySoftwareName "이름">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "바이러스 방지 프로그램">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "스파이웨어 방지 프로그램">
+<!ENTITY aboutSupport.securitySoftwareFirewall "방화벽">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; 주요 기능">
 <!ENTITY aboutSupport.featureName "이름">
 <!ENTITY aboutSupport.featureVersion "버전">
