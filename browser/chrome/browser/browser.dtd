@@ -854,6 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "மேலும் கருப்பொருள்களைப் பெறவும்">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.overflowList.title2 "சிதறும் பட்டி">
 <!ENTITY customizeMode.overflowList.description "கருவிப்பெட்டிக்கு வெளியே ஆனால் கைக்கெட்டும் தூரத்தில் உருப்படிகளை வைக்க இழுத்து இங்கே போடவும்…">
 <!ENTITY customizeMode.uidensity "அடர்த்தி">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
