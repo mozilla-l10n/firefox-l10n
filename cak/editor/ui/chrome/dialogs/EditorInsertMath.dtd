@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Tich'ik Ajilanem">
 
+<!ENTITY sourceEditField.label "Titz'ib'äx LaTeX ruxe'el b'itz'ib':">
 
 <!ENTITY options.label "Taq cha'oj">
 <!ENTITY optionDisplay.label "Tik'ut ri b'anikil">

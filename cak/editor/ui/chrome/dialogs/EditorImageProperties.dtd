@@ -65,6 +65,11 @@
 <!ENTITY borderEditField.accessKey "R">
 
 <!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Tik'ut ruchi' chi rij ri wachib'äl ximon">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "Ximonel Q'axinäq Nuk'uj…">
+<!ENTITY LinkAdvancedEditButton.accessKey "X">
+<!ENTITY LinkAdvancedEditButton.tooltip "Ketz'aqatisäx o kejalwachïx HTML taq b'anikil, che't taq b'anikil chuqa' JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Nojwuj">
