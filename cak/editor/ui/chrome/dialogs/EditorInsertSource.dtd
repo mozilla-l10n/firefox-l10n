@@ -4,6 +4,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Tich'ap HTML">
+<!ENTITY sourceEditField.label "Titz'ib'äx HTML taq yaketal chuqa' kicholajem tzij:">
 <!ENTITY example.label "Taq k'utub'äl: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">

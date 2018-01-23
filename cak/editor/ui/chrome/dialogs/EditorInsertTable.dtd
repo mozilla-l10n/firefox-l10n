@@ -14,4 +14,5 @@
 <!ENTITY widthEditField.accessKey "R">
 <!ENTITY borderEditField.label "Ruchi':">
 <!ENTITY borderEditField.accessKey "R">
+<!ENTITY borderEditField.tooltip "Titz'ib'äx jun rajilab'al ruchi' ri kemon kajtz'ik o wa'ix (0) richin majun ruchi'">
 <!ENTITY pixels.label "taq piksel">
