@@ -73,4 +73,20 @@
 <!ENTITY newsrcPicker.label "Seleccionar archivo newsrc">
 <!ENTITY abbreviate.label "Mostrar los nombres de los grupos de noticias en la carpeta de correo como:">
 <!ENTITY abbreviateOn.label "Nombres completos (Por ejemplo, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Avanzado…">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY serverDefaultCharset2.label "Codificación de texto predeterminada:">
+<!ENTITY localPath.label "Directorio local:">
+<!ENTITY localFolderPicker.label "Seleccionar directorio local">
+<!ENTITY browseFolder.label "Navegar…">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseNewsrc.label "Navegar…">
+<!ENTITY browseNewsrc.accesskey "e">
 
+<!ENTITY accountTitle.label "Ajustes de la cuenta">
+<!ENTITY accountSettingsDesc.label "La siguiente es una cuenta especial. No hay identidades asociadas.">
+<!ENTITY storeType.label "Tipo de almacenamiento de mensajes:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Archivo por carpeta (mbox)">
+<!ENTITY maildirStore.label "Archivo por mensaje (maildir)">
