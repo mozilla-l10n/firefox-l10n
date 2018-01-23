@@ -19,7 +19,7 @@
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "En navigacion privada, gardarem pas cap de vòstre istoric de navigacion o cookies. Los marcapaginas qu'ajustatz e los fichièrs que telecargatz seràn pasmens enregistrats sus vòstre periferic.">
+<!ENTITY privatebrowsingpage.description.normal2 "En navigacion privada, gardarem pas ni vòstre istoric de navigacion ni los cookies. Los marcapaginas qu'ajustatz e los fichièrs que telecargatz seràn pasmens enregistrats sus vòstre periferic.">
 
 <!ENTITY privatebrowsingpage.link.private "Volètz ne saber mai ?">
 <!ENTITY privatebrowsingpage.link.normal "Dobrir un novèl onglet privat">
