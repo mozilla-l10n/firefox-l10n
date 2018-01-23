@@ -588,7 +588,7 @@
 <!ENTITY home_history_back_to2 "Tornar a l’istoric complet">
 <!ENTITY home_clear_history_button "Netejar l’istoric de navigacion">
 <!ENTITY home_clear_history_confirm "Volètz vertadièrament netejar l’istoric ?">
-<!ENTITY home_bookmarks_empty "Aquí s\&apos;afichan los marcapaginas servadas.">
+<!ENTITY home_bookmarks_empty "Aquí s\&apos;afichan los marcapaginas servats.">
 <!ENTITY home_closed_tabs_title2 "Tampaduras recentas">
 <!ENTITY home_last_tabs_empty "Aquí s\&apos;afichan vòtres onglets recents.">
 <!ENTITY home_restore_all "O restablir tot">
