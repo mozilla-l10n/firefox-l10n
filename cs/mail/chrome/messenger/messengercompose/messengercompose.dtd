@@ -109,9 +109,15 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Uspořádat přílohy">
 <!ENTITY moveAttachmentTopPanelBtn.label "Přesunout nahoru">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "n">
 <!ENTITY moveAttachmentUpPanelBtn.label "Posunout výše">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "v">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Přesunout hromadně">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "h">
 <!ENTITY moveAttachmentDownPanelBtn.label "Posunout níže">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "e">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Přesunout dolů">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "d">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
