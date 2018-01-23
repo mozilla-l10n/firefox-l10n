@@ -2,13 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY onlineContactsHeader.label    "Contactos en línea">
 <!ENTITY offlineContactsHeader.label   "Contactos desconectados">
 <!ENTITY conversationsHeader.label     "Conversaciones">
 <!ENTITY searchResultConversation.label "Resultados de busqueda">
 <!ENTITY chat.noConv.title             "Las conversaciones se desplegaran aqui.">
+<!ENTITY chat.noConv.description       "Usar la lista de contactors en el panel a la izquierda para iniciar una conversación.">
 <!ENTITY chat.noAccount.title             "Aún no has establecido una cuenta de chat.">
 <!ENTITY chat.accountWizard.button       "Comenzar">
 <!ENTITY chat.noConnectedAccount.title             "Tus cuentas de chat no estan conectadas.">
+<!ENTITY chat.showAccountManager.button       "Mostrar el estado del chat">
 
 <!ENTITY chat.participants             "Participantes:">
 <!ENTITY chat.previousConversations    "Conversaciones anteriores:">
@@ -17,7 +20,16 @@
 <!ENTITY openConversationCmd.label     "Iniciar una conversación">
 <!ENTITY closeConversationCmd.label    "Cerrar conversación">
 <!ENTITY aliasCmd.label                "Renombrar">
+<!ENTITY deleteCmd.label               "Eliminar contacto">
 
+<!ENTITY openConversationButton.tooltip  "Iniciar una conversación">
+<!ENTITY closeConversationButton.tooltip "Cerrar conversación">
 
+<!ENTITY addBuddyButton.label          "Agregar contacto">
+<!ENTITY chatAccountsButton.label      "Mostrar cuentas">
 
+<!ENTITY status.available          "Disponible">
+<!ENTITY status.unavailable        "No disponible">
+<!ENTITY status.offline            "Sin conexión">
 
+<!ENTITY openLinkCmd.label            "Abrir enlace…">
