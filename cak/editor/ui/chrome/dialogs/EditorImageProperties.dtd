@@ -12,6 +12,10 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Ruwachib'al K'ojlib'äl:">
 <!ENTITY locationEditField.accessKey "K">
+<!ENTITY locationEditField.tooltip "Titz'ib'äx rub'i' ri yakb'äl o ruk'ojlemal wachib'äl">
+<!ENTITY locationEditField.shortenedDataURI "Ch'utinisan taq tzij URI (tiwachib'ëx xtutz'ajb'a' chijun ri URI chupam ri molwuj)">
+<!ENTITY title.label "Pixa':">
+<!ENTITY title.accessKey "P">
 <!ENTITY altText.label "Cha'el rucholajem tzij:">
 <!ENTITY altText.accessKey "C">
 

@@ -14,6 +14,8 @@
 <!ENTITY FormMethod.accesskey "B">
 <!ENTITY FormEncType.label "Cholajinïk:">
 <!ENTITY FormEncType.accesskey "o">
+<!ENTITY FormTarget.label "Ruchi' Rub'ey:">
+<!ENTITY FormTarget.accesskey "R">
 
 <!ENTITY RemoveForm.label "Tiyuj Nojwuj">
 <!ENTITY RemoveForm.accesskey "y">
