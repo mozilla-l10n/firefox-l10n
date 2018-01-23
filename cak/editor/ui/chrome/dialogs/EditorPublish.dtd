@@ -31,8 +31,11 @@
 <!ENTITY pageTitle.label              "Rub'i' Ruxaq:">
 <!ENTITY pageTitle.accesskey          "b">
 <!ENTITY pageTitle.tooltip            "Titz'ib'äx jun b'i'aj richin niya' retal ri ruxaq pa ri tzuwäch chuqa' pa taq yaketal">
+<!ENTITY pageTitleExample.label       "achi'el: &quot;Ruxaq Ajk'amaya'l Wichinan&quot;">
 <!ENTITY filename.label               "Rub'i' yakb'äl:">
 <!ENTITY filename.accesskey           "y">
+<!ENTITY filename.tooltip             "Titz'ib'äx jun rub'i' re yakb'äl re', chuqa' '.html' richin jun ruxaq ajk'amaya'l">
+<!ENTITY filenameExample.label        "achi'el: &quot;mypage.html&quot;">
 <!ENTITY setDefaultButton.label       "Tichap achi'el ri e K'o wi">
 <!ENTITY setDefaultButton.accesskey   "K">
 <!ENTITY removeButton.label           "Tiyuj el Ruxaq K'amaya'l">
@@ -44,6 +47,9 @@
 <!ENTITY loginInfo.label              "Retamab'al Okem">
 <!ENTITY siteName.label               "Rub'i' Ruxaq:">
 <!ENTITY siteName.accesskey           "i">
+<!ENTITY siteName.tooltip             "Jun tzukun b'i'aj, ri nuya' retal re ruxaq k'amaya'l talun rutzijol (achi'el: 'MySite')">
+<!ENTITY siteUrl.label                "Rochochib'al talun rutzijol (achi'el: 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteUrl.accesskey            "a">
 <!ENTITY username.label               "Rub'i' winäq:">
 <!ENTITY username.accesskey           "w">
 <!ENTITY password.label               "Ewan tzij:">
