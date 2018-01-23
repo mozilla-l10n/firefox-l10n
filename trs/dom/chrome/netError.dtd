@@ -8,8 +8,12 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Na'ue gatu ma">
+<!ENTITY connectionFailure.longDesc "<p>Antaj si hua hue'è sitio na ruhuat, sani na'ue gi'iaj sunj.</p><ul><li>¿Hua daj nitaj si 'iaj sun sitio na anj? Sisī dàdanj huin ni garahue ñunt.</li><li>¿A'ngo sitio na'ue gini'iaj ra'? Nachij hua hue'è si conexión râ.</li><li>¿Hua daj firewall nej proxy si aga't naran ma'an nej sitio na anj? 'Nga nitaj si nagi'iaj hue'è' nej da'nga' raj sun aga' ni dure'ej internet.</li></ul>">
 
+<!ENTITY deniedPortAccess.title "Nitaj si huaj gatut dàdin' hua àhi ma">
+<!ENTITY deniedPortAccess.longDesc "<p>Riña nū 'ngo puerto a'nîn ma gu' (p.e. <q>mozilla.org:80</q> guenda puerto 80 riña mozilla.org) ma riña garasun' ma huin <em>diferentes</em> 'ngà aché nun' riña Web. duna'kin' àkuanj radón' hua ai ma.</p>">
 
+<!ENTITY dnsNotFound.title "Nū nari'ij direksiôn">
 
 
 
