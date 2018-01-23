@@ -11,4 +11,8 @@
 <!ENTITY EditLabelText.accesskey "R">
 <!ENTITY LabelFor.label "Richin Nichajïx:">
 <!ENTITY LabelFor.accesskey "R">
+<!ENTITY AccessKey.label "Rupitz'b'al Okem:">
+<!ENTITY AccessKey.accesskey "R">
 
+<!ENTITY RemoveLabel.label "Keyuj Yaketal">
+<!ENTITY RemoveLabel.accesskey "K">
