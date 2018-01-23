@@ -21,9 +21,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Lqem">
 <!ENTITY aboutSupport.extensionId "Asulay">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Aseγzan n taγlist">
 <!ENTITY aboutSupport.securitySoftwareType "Tawsit">
 <!ENTITY aboutSupport.securitySoftwareName "Isem">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "Amgal ivirusen">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Amgal aneḍfer">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Aɣrab n tmes">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; Timahilin">
 <!ENTITY aboutSupport.featureName "Isem">
