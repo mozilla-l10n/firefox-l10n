@@ -4,7 +4,10 @@
 
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Titz'ajüx pa ri Wachkokal">
 
+<!ENTITY enableSnapToGrid.label "titzij Titz'ajüx pa ri Wachkokal">
+<!ENTITY enableSnapToGrid.accessKey "t">
 
 <!ENTITY sizeEditField.label "Nimilem:">
 <!ENTITY sizeEditField.accessKey "N">

@@ -13,6 +13,8 @@
 <!ENTITY SelectMultiple.accesskey "J">
 <!ENTITY SelectDisabled.label "Chupun">
 <!ENTITY SelectDisabled.accesskey "C">
+<!ENTITY SelectTabIndex.label "Rucholajem Ruwi' Cholaj:">
+<!ENTITY SelectTabIndex.accesskey "R">
 
 <!ENTITY OptGroup.label "Cha'oj Molaj">
 <!ENTITY OptGroupLabel.label "Etal:">
@@ -23,10 +25,15 @@
 <!ENTITY Option.label "Cha'oj">
 <!ENTITY OptionText.label "Rucholajem tzij:">
 <!ENTITY OptionText.accesskey "t">
+<!ENTITY OptionValue.label "Retal:">
+<!ENTITY OptionValue.accesskey "R">
+<!ENTITY OptionSelected.label "Nab'ey Cha'on">
+<!ENTITY OptionSelected.accesskey "C">
 <!ENTITY OptionDisabled.label "Chupun">
 <!ENTITY OptionDisabled.accesskey "C">
 
 <!ENTITY TextHeader.label "Rucholajem tz'ib'">
+<!ENTITY ValueHeader.label "Retal">
 <!ENTITY SelectedHeader.label "Cha'on">
 
 <!ENTITY AddOption.label "Titz'aqatisäx Cha'oj">
