@@ -9,6 +9,8 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "Tijal rik'in:">
 <!ENTITY replaceField.accesskey "j">
+<!ENTITY caseSensitiveCheckbox.label "Kijunamaxik nimatz'ib' chuqa' taq ch'utitz'ib'">
+<!ENTITY caseSensitiveCheckbox.accesskey "K">
 <!ENTITY findNextButton.label "Tikanöx Jun Chik">
 <!ENTITY findNextButton.accesskey "k">
 <!ENTITY replaceButton.label "Tijal">
