@@ -49,6 +49,7 @@
 
 <!ENTITY  aboutDevtools.enable.closeButton2 "ఈ ట్యాబుని మూసివేయి">
 
+<!ENTITY  aboutDevtools.welcome.title "Firefox డెవలపర్ పనిముట్లకి స్వాగతం!">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
