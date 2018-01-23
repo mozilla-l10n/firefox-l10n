@@ -131,7 +131,7 @@
 <!ENTITY detail.version.label                 "આવૃત્તિ">
 <!ENTITY detail.lastupdated.label             "છેલ્લે સુધારેલ">
 <!ENTITY detail.creator.label                 "વિકાસકર્તા">
-<!ENTITY detail.homepage.label                "ઘરપાનું">
+<!ENTITY detail.homepage.label                "મુખ્યપાનુ">
 <!ENTITY detail.numberOfDownloads.label       "ડાઉનલોડ">
 
 <!ENTITY detail.contributions.description     "આ ઍડ-ઓનનો ડેવલપર પૂછે છે કે તમે થોડો ફાળો કરીને તેનાં ચાલુ રાખેલ વિકાસમાં આધાર આપવા મદદ કરો છો.">
@@ -143,7 +143,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "આપમેળે સુધારાઓને સ્થાપિત કરો">
 <!ENTITY detail.updateManual.label            "બંધ">
 <!ENTITY detail.updateManual.tooltip          "આપમેળે સુધારાઓને સ્થાપિત કરો નહિં">
-<!ENTITY detail.home                          "ઘરપાનું">
+<!ENTITY detail.home                          "મુખ્યપાનુ">
 <!ENTITY detail.repository                    "ઍડ-ઓન રૂપરેખા">
 <!ENTITY detail.size                          "માપ">
 
@@ -182,7 +182,7 @@
 <!ENTITY search.filter2.available.label       "ઉપલબ્ધ ઍડ-ઓન">
 <!ENTITY search.filter2.available.tooltip     "સ્થાપિત કરવા માટે ઉપલબ્ધ ઍડ-ઓન બતાવો">
 
-<!ENTITY addon.homepage                       "ઘરપાનું">
+<!ENTITY addon.homepage                       "મુખ્યપાનુ">
 <!ENTITY addon.details.label                  "વધારે">
 <!ENTITY addon.details.tooltip                "આ ઍડ-ઓન વિશે વધારે વિગતોને બતાવો">
 <!ENTITY addon.unknownDate                    "અજ્ઞાત">
