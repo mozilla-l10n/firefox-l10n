@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "તમે આ વેબસાઇટ માટે તમારા ધ્વનિવર્ધક યંત્રને અવરોધિત કયૉ છે.">
 <!ENTITY urlbar.screenBlocked.tooltip            "તમે તમારી સ્ક્રીન શેર આ વેબસાઇટ અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "તમે આ વેબસાઇટ માટે સ્થાન માહિતી અવરોધિત કરી છે.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "તમે આ વેબસાઇટ માટે માહિતી સંગ્રહ અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "તમે આ વેબસાઇટ માટે સૂચનાઓ અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "તમે આ વેબસાઇટ માટે સતત સંગ્રહ અવરોધિત કર્યા છે.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "તમે આ વેબસાઇટ માટે પોપ-અપ્સને અવરોધિત કર્યા છે.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "તમે આ વેબસાઇટ માટે કેનવાસ ડેટા નિષ્કર્ષણને અવરોધિત કર્યો છે.">
@@ -244,7 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "શોધો">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "ઘર">
+<!ENTITY homeButton.label             "મુખ્ય">
 
 <!ENTITY bookmarksButton.label          "બુકમાર્ક્સ">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "નવી ખાનગી વિન્ડો">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "નવા બિન-e10s વિન્ડો">
 
 <!ENTITY editMenu.label         "ફેરફાર">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "બધો ઇતિહાસ બતાવો">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "વૈવિધ્યપૂર્ણ બનાવો">
-<!ENTITY appMenuCustomize.tooltip "મેનુ અને સાધનપટ્ટીને વૈવિધ્યપૂર્ણ બનાવો">
-<!ENTITY appMenuCustomizeExit.label "વૈવિધ્યપૂર્ણ કરવાનું બંધ કરો">
-<!ENTITY appMenuCustomizeExit.tooltip "વૈવિધ્યપૂર્ણ કરવાનું સમાપ્ત કરો">
-
 <!ENTITY appMenuHistory.showAll.label "બધા ઇતિહાસને બતાવો">
 <!ENTITY appMenuHistory.clearRecent.label "તાજેતરનાં ઇતિહાસને સાફ કરો…">
 <!ENTITY appMenuHistory.restoreSession.label "પહેલાનાં સત્રને પુન:સંગ્રહો">
 <!ENTITY appMenuHistory.viewSidebar.label "ઇતિહાસ બાજુપટ્ટીને જુઓ">
 <!ENTITY appMenuHistory.recentHistory.label "છેલ્લો ઇતિહાસ">
 <!ENTITY appMenuHelp.label "મદદ">
-<!ENTITY appMenuHelp.tooltip "મદદ મેનુને ખોલો">
 
 <!ENTITY appMenuRemoteTabs.label "સમન્વિત કરેલા ટૅબ્સ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "એક્સ્ટેંન્શન:">
 <!ENTITY urlbar.switchToTab.label     "ટૅબને ખસેડો:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "શું તમે સૂચનો સાથે તમારા શોધ અનુભવને સુધારવા માંગો છો?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "વધુ શીખો…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "I">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "ના">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "હા">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "છૂપી સૂચના:">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "મૂળભૂત પાનાં શૈલી">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "આ વેબ સાઈટ માટે પોપઅપ બ્લોકીંગ સેટીંગ બદલો">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "સમન્વય">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "તમારી મનપસંદ વસ્તુઓ ટૂલબાર અથવા ઓવરફ્લો મેનૂમાં ખેંચો.">
-<!ENTITY customizeMode.menuAndToolbars.empty "વધારે સાધનો ઇચ્છો છો?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "હજારો ઍડ-ઓનમાંથી પસંદ કરો">
 <!ENTITY customizeMode.restoreDefaults "મૂળભૂતને પુન:સંગ્રહો">
 <!ENTITY customizeMode.done "પૂર્ણ થયું">
 <!ENTITY customizeMode.titlebar "શીર્ષક પટ્ટી">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "વધુ વિષય મેળવો">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "આઇટમ્સને અહીં પહોંચવા માટે અથવા તમારા ટૂલબારમાંથી બહાર રાખવા માટે તેને અહીં ખેંચો અને છોડો…">
 <!ENTITY customizeMode.overflowList.title2 "ઓવરફ્લો મેનૂ">
 <!ENTITY customizeMode.overflowList.description "આઇટમ્સને અહીં પહોંચવા માટે અથવા તમારા ટૂલબારમાંથી બહાર રાખવા માટે તેને અહીં ખેંચો અને છોડો…">
 <!ENTITY customizeMode.uidensity "ઘનતા">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "પૃષ્ઠ ક્રિયાઓ">
 <!ENTITY pageAction.addToUrlbar.label "સરનામાં બારમાં ઉમેરો">
 <!ENTITY pageAction.removeFromUrlbar.label "સરનામાં બારમાંથી દૂર કરો">
-
 <!ENTITY pageAction.allowInUrlbar.label "સરનામાં બારમાં બતાવો">
 <!ENTITY pageAction.disallowInUrlbar.label "સરનામાં બારમાં બતાવશો નહીં">
 <!ENTITY pageAction.manageExtension.label "એક્સ્ટેંશનનો વહીવટ કરો…">

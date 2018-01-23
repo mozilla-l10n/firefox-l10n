@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "આવૃત્તિ">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; વિશેષતા">
 <!ENTITY aboutSupport.featureName "નામ">
 <!ENTITY aboutSupport.featureVersion "આવૃત્તિ">
@@ -32,7 +33,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "વર્ણન">
 <!ENTITY aboutSupport.experimentActive "સક્રિય">
 <!ENTITY aboutSupport.experimentEndDate "અંત તારીખ">
-<!ENTITY aboutSupport.experimentHomepage "ઘરપાનુ">
+<!ENTITY aboutSupport.experimentHomepage "મુખ્યપાનુ">
 <!ENTITY aboutSupport.experimentBranch "શાખા">
 
 <!ENTITY aboutSupport.appBasicsTitle "કાર્યક્રમ મૂળભૂતો">
