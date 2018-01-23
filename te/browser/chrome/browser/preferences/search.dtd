@@ -4,6 +4,13 @@
 
 <!ENTITY searchBar.label                       "శోధన పట్టి">
 
+<!ENTITY searchBar.shown.label                 "పనిముట్లపట్టీలో వెతుకుడు పెట్టెను చూపించు">
+
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
 
 <!ENTITY defaultSearchEngine.label             "అప్రమేయ శోధన యంత్రం">
 
