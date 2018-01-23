@@ -10,7 +10,7 @@
 <!ENTITY newevent.from.label                "De" >
 <!ENTITY newevent.to.label                  "A" >
 
-<!ENTITY newevent.status.label                    "Estatus" >
+<!ENTITY newevent.status.label                    "Estado" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "No especificado" >
 <!ENTITY newevent.eventStatus.none.accesskey      "o" >
