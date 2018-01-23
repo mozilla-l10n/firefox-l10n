@@ -16,6 +16,16 @@
 <!ENTITY TextAreaReadOnly.accessKey "X">
 <!ENTITY TextAreaDisabled.label "Chupun">
 <!ENTITY TextAreaDisabled.accessKey "C">
+<!ENTITY TextAreaTabIndex.label "Rucholajem Ruwi' Cholaj:">
+<!ENTITY TextAreaTabIndex.accessKey "R">
+<!ENTITY TextAreaAccessKey.label "Rupitz'b'al Okem:">
+<!ENTITY TextAreaAccessKey.accessKey "R">
+<!ENTITY InitialText.label "Nab'ey Rucholajem Tzij:">
+<!ENTITY InitialText.accessKey "R">
 
+<!ENTITY TextAreaWrap.label "Rub'anikil Tz'ajïk:">
+<!ENTITY TextAreaWrap.accessKey "T">
 <!ENTITY WrapDefault.value "K'o wi">
 <!ENTITY WrapOff.value "Chupül">
+<!ENTITY WrapHard.value "Köw">
+<!ENTITY WrapSoft.value "B'uyül">

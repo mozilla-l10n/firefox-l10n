@@ -5,6 +5,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Tinik'öx Rutz'ib'axik">
 
+<!ENTITY misspelledWord.label "Man tz'ib'an ta ütz tzij:">
 <!ENTITY wordEditField.label "Tijal rik'in:">
 <!ENTITY wordEditField.accessKey "r">
 <!ENTITY checkwordButton.label "Tinik'öx Tzij">
