@@ -76,21 +76,97 @@
 
 <!ENTITY messagePaneLayoutStyle.label "Raspored">
 <!ENTITY messagePaneClassic.label "Klasični pregled">
+<!ENTITY messagePaneWide.label "Široki pregled">
+<!ENTITY messagePaneVertical.label "Vertikalni pregled">
+<!ENTITY showMessagePaneCmd.label "Okno poruke">
+<!ENTITY showThreadPaneCmd.label "Okno niti">
+<!ENTITY showFolderPaneCmd.label "Okno direktorija">
 
 <!-- sortMenu is also used by addressbook -->
+<!ENTITY sortMenu.label "Sortiraj po">
 
+<!ENTITY sortByDateCmd.label "Datum">
+<!ENTITY sortByReceivedCmd.label "Primljeno">
+<!ENTITY sortByFlagCmd.label "Označeno zastavicom">
+<!ENTITY sortByPriorityCmd.label "Prioritet">
+<!ENTITY sortBySizeCmd.label "Veličina">
+<!ENTITY sortByStatusCmd.label "Status">
+<!ENTITY sortByTagsCmd.label "Oznake">
+<!ENTITY sortByJunkStatusCmd.label "Status neželjene pošte">
+<!ENTITY sortBySubjectCmd.label "Tema">
+<!ENTITY sortByFromCmd.label "Šalje">
+<!ENTITY sortByRecipientCmd.label "Primalac">
+<!ENTITY sortByUnreadCmd.label "Pročitano">
+<!ENTITY sortByOrderReceivedCmd.label "Redoslijed primanja">
+<!ENTITY sortByAttachmentsCmd.label "Prilozi">
+<!ENTITY sortAscending.label "Rastući">
+<!ENTITY sortDescending.label "Opadajući">
+<!ENTITY sortThreaded.label "Po nitima">
+<!ENTITY sortUnthreaded.label "Bez niti">
+<!ENTITY groupBySort.label "Grupirano prema vrsti">
+<!ENTITY msgsMenu.label "Poruke">
+<!ENTITY threads.label "Niti">
+<!ENTITY allMsgsCmd.label "Sve">
+<!ENTITY expandAllThreadsCmd.label "Proširi sve niti">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Skupi sve niti">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Nepročitano">
+<!ENTITY threadsWithUnreadCmd.label "Niti s nepročitanim">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Promatrane niti s nepročitanim">
+<!ENTITY ignoredThreadsCmd.label "Ignorisane niti">
 
+<!ENTITY headersMenu.label "Zaglavlja">
+<!ENTITY headersAllCmd.label "Sve">
+<!ENTITY headersNormalCmd.label "Normalno">
+<!ENTITY bodyMenu.label "Tijelo poruke kao">
+<!ENTITY bodyAllowHTML.label "Izvorni HTML">
+<!ENTITY bodySanitized.label "Jednostavni HTML">
+<!ENTITY bodyAsPlaintext.label "Običan tekst">
+<!ENTITY bodyAllParts.label "Svi dijelovi">
 
+<!ENTITY bodyMenuFeed.label "Tijelo poruke kao">
+<!ENTITY viewFeedWebPage.label "Web stranica">
+<!ENTITY viewFeedSummary.label "Sažetak">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Zadani format">
 
+<!ENTITY viewAttachmentsInlineCmd.label "Prikaži priloge unutar poruke">
+<!ENTITY reloadCmd.label "Učitaj ponovo">
+<!ENTITY stopCmd.label "Zaustavi">
+<!ENTITY pageSourceCmd.label "Izvor poruke">
 
+<!ENTITY findCmd.label "Pronađi u ovoj poruci…">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the Lightning quick filter bar. -->
 
 <!-- Go Menu -->
 
+<!ENTITY goMenu.label "Idi">
+<!ENTITY nextMenu.label "Sljedeće">
+<!ENTITY nextMsgCmd.label "Poruka">
+<!ENTITY nextUnreadMsgCmd.label "Nepročitana poruka">
+<!ENTITY nextFlaggedMsgCmd.label "Poruka sa zastavicom">
+<!ENTITY nextUnreadThread.label "Nepročitana nit">
+<!ENTITY prevMenu.label "Prethodno">
+<!ENTITY prevMsgCmd.label "Poruka">
+<!ENTITY prevUnreadMsgCmd.label "Nepročitana poruka">
+<!ENTITY goBackCmd.label "Nazad">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.label "Naprijed">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY prevFlaggedMsgCmd.label "Poruka sa zastavicom">
+<!ENTITY startPageCmd.label "Početna stranica pošte">
 
 <!-- Message Menu -->
+<!ENTITY msgMenu.label "Poruka">
+<!ENTITY newMsgCmd.label "Nova poruka">
+<!ENTITY newNewMsgCmd.label "Poruka">
+<!ENTITY replyMsgCmd.label "Odgovori">
+<!ENTITY replyListCmd.label "Odgovori na listu">
+<!ENTITY replyNewsgroupCmd.label "Odgovori interesnoj grupi">
+<!ENTITY replySenderCmd.label "Odgovori samo pošiljaocu">
+<!ENTITY replyToAllMsgCmd.label "Odgovori svima">
 
 <!-- Tools Menu -->
 
