@@ -26,6 +26,7 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " jun ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "aj ruwach'ulew tinamït">
 <!ENTITY community.exp.end          " yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k'amaya'l.">
 
 <!ENTITY community.start2           "&brandShortName; wachib'en ruma ">

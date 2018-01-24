@@ -40,6 +40,8 @@
 <!ENTITY viewMenu.accesskey        "t">
 <!ENTITY viewToolbarsMenu.label        "Taq cholsamajib'äl">
 <!ENTITY viewToolbarsMenu.accesskey      "c">
+<!ENTITY showTaskbarCmd.label          "Rub'anikil Kajtz'ik">
+<!ENTITY showTaskbarCmd.accesskey        "u">
 
 <!ENTITY closeCmd.label      "Titz'apïx">
 <!ENTITY closeCmd.key      "W">
@@ -52,3 +54,5 @@
 <!ENTITY quitApplicationCmdUnix.label  "Tel">
 <!ENTITY quitApplicationCmdUnix.accesskey  "T">
 
+<!ENTITY quitApplicationCmdMac.label  "Tel pa &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">

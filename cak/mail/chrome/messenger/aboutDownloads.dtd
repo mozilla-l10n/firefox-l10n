@@ -19,5 +19,6 @@
 <!ENTITY cmd.removeFromHistory.accesskey           "u">
 <!ENTITY cmd.clearList.label                       "Tijosq'ïx Cholb'äl">
 <!ENTITY cmd.clearList.accesskey                   "j">
+<!ENTITY cmd.clearList.tooltip                     "Keyuj konojel ri taq okitz'ib' pa ri kicholajem taq yakb'äl eyakon, man ke ta ri' ri tajin yeqasäx.">
 <!ENTITY cmd.searchDownloads.label                 "Tikanöx…">
 <!ENTITY cmd.searchDownloads.key                   "F">
