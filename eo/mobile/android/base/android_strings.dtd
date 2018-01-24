@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Ne eblas dividi tiun ĉi bildon">
 <!ENTITY save_as_pdf "Konservi kiel PDF">
 <!ENTITY print "Presi">
+<!ENTITY view_page_source "Vidi fonton de paĝo">
 <!ENTITY find_in_page "Serĉi en paĝo">
 <!ENTITY desktop_mode "Peti skribotablan retejon">
 <!ENTITY page "Paĝo">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Malfermi en nova langeto">
 <!ENTITY contextmenu_open_private_tab "Malfermi en privata langeto">
 <!ENTITY contextmenu_remove "Forigi">
-<!ENTITY contextmenu_add_to_launcher "Aldoni al hejmekrano">
 <!ENTITY contextmenu_add_page_shortcut "Aldon paĝan ŝparvojon">
 <!ENTITY contextmenu_set_as_homepage "Elekti kiel hejmpaĝon">
 <!ENTITY contextmenu_share "Dividi">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Paĝo forigita">
-
 <!ENTITY folder_removed "Dosierujo forigita">
 
 <!ENTITY bookmark_edit_title "Redakti legosignon">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; estas ĝisdata">
 <!ENTITY whatsnew_notification_summary "Trovi tion, kio estas nova en tiu ĉi versio">
-
-<!ENTITY promotion_add_to_homescreen "Aldoni al hejmekrano">
 
 <!ENTITY promotion_add_page_shortcut "Aldon paĝan ŝparvojon">
 
