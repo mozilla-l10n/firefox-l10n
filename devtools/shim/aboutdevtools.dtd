@@ -27,9 +27,13 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "Firefox ડેવલપર ટૂલ્સ સાથે WebExtensions, વેબ વર્કર્સ, સર્વિસ વર્કર અને વધુ વિકાસ અને ડીબગ કરો.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
+<!ENTITY  aboutDevtools.enable.keyShortcutMessage
+          "તમે વિકાસકર્તા સાધનો શોર્ટકટને સક્રિય કર્યું છે. જો તે ભૂલ હતી, તો તમે આ ટૅબને બંધ કરી શકો છો.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
