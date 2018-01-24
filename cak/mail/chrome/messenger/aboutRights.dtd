@@ -48,8 +48,11 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; yerusüj cha'el taq samaj (&quot; Taq Samaj&quot;), achi'el ri samaj richin kik'exik taq tz'aqat e okel pa re kach'akul ruwäch &brandShortName; achi'el nichol ikim. We man nawajo' ta ye'awokisaj ri taq Samaj o man niqa' ta chawäch ri taq ojqanem ikim, yatikïr nachüp ri samaj richin kik'exik taq tz'aqat rik'in najäq ri taq rajowaxik chokoy, akuchi' nacha' ri ">
 <!ENTITY rights.webservices-b "Q'axinäq">
+<!ENTITY rights.webservices-c " peraj, ojqan ruma ri ">
 <!ENTITY rights.webservices-d "Tik'ex">
+<!ENTITY rights.webservices-e " ruwi', chuqa' Kemecha' ri taq rucha'oj &quot;kenik'öx taq k'exoj pa ruyonil richin&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Wawe' k'o chi nitz'aqatisäx apo jun ruch'utitzijol kisamaj ajk'amaya'l ruxaq, ri ruk'wan ri k'ayij, chuqa' k'o pe ri taq rucholajil rub'eyal nitz'apïx, we ke ri' rajowaxik.">
@@ -59,4 +62,5 @@
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; nitikïr nuqupij o nuk'ëx ri Samaj ri nawajo' rat.">
+<!ENTITY rights.webservices-term2 "Yatikïr ye'awokisaj re taq samaj re' rik'in ri ruwäch &brandShortName;, chuqa' k'o ach'ojib'al richin nab'än.  &vendorShortName; chuqa' ri yeya'on q'ij k'o pa kiq'a' konojel ri ch'aqa' chik taq ch'ojib'äl pa kiwi' ri taq samaj.  Re taq ojqanem re, man nrajo' ta yeruq'ät ri taq ch'ojib'al ya'on ruma jun ya'öl ruq'ij jaqäl b'itz'ib' okisan chi rij ri &brandShortName; chuqa' ri taq ruwäch ejikib'an chi rij ri rub'itz'ib' &brandShortName;.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; ütz ye'ak'ëx re taq ojqanem re we rajowaxik chi ramajil chi ramajil. Man ütz ta yejal o yeq'at we man nuya' ta q'ij pa tz'ib'anïk ri &vendorShortName;.">
