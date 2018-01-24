@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "url-classifier के बारे में जानकारी">
+<!ENTITY aboutUrlClassifier.title                       "URL वर्गीकारक जानकारी">
 <!ENTITY aboutUrlClassifier.providerTitle               "प्रदाता">
 <!ENTITY aboutUrlClassifier.provider                    "प्रदाता">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "अंतिम अद्यतन समय">
