@@ -8,8 +8,7 @@
 <!ENTITY newWindowsAsTabs.label       "Buka jendela baru pada tab baru">
 <!ENTITY newWindowsAsTabs.accesskey   "u">
 
-<!ENTITY newWindowsAsTabs2.label       "Buka tautan sebagai tab bukan dalam jendela baru">
-<!ENTITY newWindowsAsTabs2.accesskey   "k">
+<!ENTITY newWindowsAsTabs3.label       "Buka tautan di tab, bukan di jendela baru">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Ingatkan ketika menutup banyak tab sekaligus">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
