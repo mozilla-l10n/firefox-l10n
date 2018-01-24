@@ -341,6 +341,7 @@
 <!ENTITY share_image_failed "Tego obrazu nie można udostępnić">
 <!ENTITY save_as_pdf "Zapisz jako PDF">
 <!ENTITY print "Drukuj">
+<!ENTITY view_page_source "Pokaż źródło strony">
 <!ENTITY desktop_mode "Tryb stacjonarny">
 <!ENTITY page "Strona">
 <!ENTITY find_in_page "Znajdź na stronie">
