@@ -26,7 +26,7 @@
 <ul>
   <li>Saiatu berriro geroago.</li>
   <li>Egiaztatu zure sareko konexioa.</li>
-  <li>Konektatuta baina firewall baten atzean bazaude, egiaztatu &brandShortName;(e)k webera sartzeko baimena duela.</li>
+  <li>Konektatuta baina suebaki baten atzean bazaude, egiaztatu &brandShortName;(e)k webera sartzeko baimena duela.</li>
 </ul>
 ">
 
@@ -82,7 +82,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Egiaztatu proxy-aren konexioaren ezarpenak.</li>
   <li>Egiaztatu zure ordenagailuak sareko konexioa duela.</li>
-  <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera sartzeko baimena daukala.</li>
+  <li>Ordenagailua edo sarea suebaki edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera sartzeko baimena daukala.</li>
 </ul>">
 
 <!ENTITY redirectLoop.title "Orriak ez du birbideraketa ondo egiten">
@@ -103,7 +103,7 @@ was trying to connect. -->
 <!ENTITY sharedLongDesc "<ul>
   <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro geroago.</li>
   <li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li>
-  <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera sartzeko baimena daukala.</li>
+  <li>Ordenagailua edo sarea suebaki edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera sartzeko baimena daukala.</li>
 </ul>">
 
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
