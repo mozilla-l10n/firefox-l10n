@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Бұл суретпен бөлісу сәтсіз аяқталды">
 <!ENTITY save_as_pdf "PDF ретінде сақтау">
 <!ENTITY print "Баспаға шығару">
+<!ENTITY view_page_source "Парақтың бастапқы кодын қарау">
 <!ENTITY find_in_page "Беттен табу">
 <!ENTITY desktop_mode "Сайттың толық нұсқасы">
 <!ENTITY page "Бет">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Жаңа бетте ашу">
 <!ENTITY contextmenu_open_private_tab "Жекелік бетте ашу">
 <!ENTITY contextmenu_remove "Өшіру">
-<!ENTITY contextmenu_add_to_launcher "Үй экранына қосу">
 <!ENTITY contextmenu_add_page_shortcut "Бет жарлығын қосу">
 <!ENTITY contextmenu_set_as_homepage "Үй парағы ретінде орнату">
 <!ENTITY contextmenu_share "Бөлісу">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Парақ өшірілді">
-
 <!ENTITY folder_removed "Бума өшірілді">
 
 <!ENTITY bookmark_edit_title "Бетбелгіні түзету">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ескірмеді">
 <!ENTITY whatsnew_notification_summary "Осы нұсқаның жаңалықтарымен танысып шығу">
-
-<!ENTITY promotion_add_to_homescreen "Үй экранына қосу">
 
 <!ENTITY promotion_add_page_shortcut "Бет жарлығын қосу">
 
