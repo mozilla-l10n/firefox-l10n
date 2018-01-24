@@ -23,7 +23,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Název">
 <!ENTITY aboutSupport.extensionEnabled "Povoleno">
 <!ENTITY aboutSupport.extensionVersion "Verze">
-<!ENTITY aboutSupport.extensionId "Id">
+<!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.securitySoftwareTitle "Bezpečnostní software">
 <!ENTITY aboutSupport.securitySoftwareType "Typ">
@@ -39,7 +39,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.experimentsTitle "Experimentální funkce">
 <!ENTITY aboutSupport.experimentName "Název">
-<!ENTITY aboutSupport.experimentId "Id">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Popis">
 <!ENTITY aboutSupport.experimentActive "Aktivní">
 <!ENTITY aboutSupport.experimentEndDate "Koncové datum">
@@ -49,7 +49,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Stručně o aplikaci">
 <!ENTITY aboutSupport.appBasicsName "Název">
 <!ENTITY aboutSupport.appBasicsVersion "Verze">
-<!ENTITY aboutSupport.appBasicsBuildID "Id buildu">
+<!ENTITY aboutSupport.appBasicsBuildID "ID sestavení">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
