@@ -24,6 +24,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareTitle "सुरक्षा सॉफ्टवेयर">
 <!ENTITY aboutSupport.securitySoftwareType "प्रकार">
 <!ENTITY aboutSupport.securitySoftwareName "नाम">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "एंटीवायरस">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "एंटीस्पायवेयर">
+<!ENTITY aboutSupport.securitySoftwareFirewall "फ़ायरवॉल">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; विशेषताएं">
 <!ENTITY aboutSupport.featureName "नाम">
