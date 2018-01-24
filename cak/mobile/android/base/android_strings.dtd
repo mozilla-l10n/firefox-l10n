@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Majun nitikïr ta nikomonïx re jun wachib\&apos;äl re\&apos;">
 <!ENTITY save_as_pdf "Tiyak achi\&apos;el jun PDF">
 <!ENTITY print "Titz\&apos;ajb\&apos;äx">
+<!ENTITY view_page_source "Titz\&apos;et Ruxe\&apos;el Ruxaq">
 <!ENTITY find_in_page "Tikanöx pa ruxaq">
 <!ENTITY desktop_mode "Tik\&apos;utüx jun ruk\&apos;ojlib\&apos;al ri kematz\&apos;ib\&apos;ab\&apos;äl">
 <!ENTITY page "Ruxaq">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Tijaq pa jun k\&apos;ak\&apos;a\&apos; ruwi\&apos;">
 <!ENTITY contextmenu_open_private_tab "Tijaq pa jun ichinan ruwi\&apos;">
 <!ENTITY contextmenu_remove "Tiyuj el">
-<!ENTITY contextmenu_add_to_launcher "Titz\&apos;aqatisäx apo pa ruwäch tikirib\&apos;äl">
 <!ENTITY contextmenu_add_page_shortcut "Titz\&apos;aqatisäx Ruchojmin Okem ri Ruxaq">
 <!ENTITY contextmenu_set_as_homepage "Tichap achi\&apos;el Tikirisanel ruxaq">
 <!ENTITY contextmenu_share "Tikomonïx">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Yujun ruxaq">
-
 <!ENTITY folder_removed "Yujun yakwuj">
 
 <!ENTITY bookmark_edit_title "Tinuk\&apos; ri yaketal">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; jalon chik">
 <!ENTITY whatsnew_notification_summary "Tikanöx achike ri k\&apos;ak\&apos;a\&apos; k\&apos;o chupam re ruwäch re\&apos;">
-
-<!ENTITY promotion_add_to_homescreen "Titz\&apos;aqatisäx apo pa ruwäch tikirib\&apos;äl">
 
 <!ENTITY promotion_add_page_shortcut "Titz\&apos;aqatisäx ruchojmin okem ri ruxaq">
 
