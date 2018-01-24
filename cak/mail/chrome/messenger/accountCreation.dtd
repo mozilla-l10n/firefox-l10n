@@ -85,3 +85,6 @@
 <!ENTITY insecureServer.tooltip.title    "¡Rutzijol k'ayewal! Re re' man ütz ta chi k'uxasamaj.">
 <!ENTITY insecureServer.tooltip.details  "Tapitz'a' pa ri setesïk richin ch'aqa' chik rub'anikil.">
 
+<!ENTITY insecureUnencrypted.description "Ri taqoya'l chuqa' ri jikib'anïk man ewan ta kisik'ixik toq yetaq, ruma ri' toq ri ewan atzij (chuqa' atzijol) man k'ayew ta richin xkesik'ïx kuma juley chik winaqi'. &brandShortName; xtuya' q'ij chawe richin nak'ül ri ataqoya'l, po k'atzinel yatzijon rik'in ri ya'öl ataqoya'l richin tub'ana' runuk'ulem ri k'uxasamaj rik'in jun ütz okem.">
+<!ENTITY insecureSelfSigned.description  "Ri k'uxasamaj nrokisaj jun iqitzijib'äl, ri man niqakuqub'a' ta qak'u'x chi rij, ruma ri' toq man yojtikïr ta niqajikib'a' chi k'o ri niq'eleb'en kitzij chi kikojol ri &brandShortName; chuqa' ri ak'uxasamaj. &brandShortName; xtuya' q'ij richin xtak'ül ri ataqoya'l, po k'o ta chi nak'utuj chi ri ya'öl ataqoya'l chi tub'ana' runuk'ulem ri iqitzijib'äl rik'in jun jikïl iqitzijib'äl.">
+<!ENTITY secureServer.description        "¡Kakiköt! Re re' jun jikïl chi k'uxasamaj.">
