@@ -131,3 +131,13 @@
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanały">
 <!ENTITY aboutSupport.mediaDeviceRate "Częstotliwość próbkowania">
 <!ENTITY aboutSupport.mediaDeviceLatency "Opóźnienie">
+
+<!ENTITY aboutSupport.intlTitle "Umiędzynaradawianie i lokalizacja">
+<!ENTITY aboutSupport.intlAppTitle "Ustawienia programu">
+<!ENTITY aboutSupport.intlLocalesRequested "Żądane ustawienia regionalne">
+<!ENTITY aboutSupport.intlLocalesAvailable "Dostępne ustawienia regionalne">
+<!ENTITY aboutSupport.intlLocalesSupported "Ustawienia regionalne programu">
+<!ENTITY aboutSupport.intlLocalesDefault "Domyślne ustawienia regionalne">
+<!ENTITY aboutSupport.intlOSTitle "System operacyjny">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Ustawienia regionalne systemu">
+<!ENTITY aboutSupport.intlRegionalPrefs "Preferencje regionalne">
