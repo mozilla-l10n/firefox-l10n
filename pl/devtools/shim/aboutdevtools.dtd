@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutDevtools.headTitle "O narzędziach dla programistów">
+<!ENTITY aboutDevtools.enable.title "Włączanie narzędzi dla programistów Firefoksa">
+<!ENTITY aboutDevtools.enable.inspectElementTitle "Włącz narzędzia dla programistów Firefoksa, aby używać opcji „Zbadaj element”">
+
+<!ENTITY aboutDevtools.enable.aboutDebuggingMessage "Twórz i debuguj rozszerzenia WebExtensions, wątki sieciowe, wątki usługowe i wiele więcej za pomocą narzędzi dla programistów Firefoksa.">
+<!ENTITY aboutDevtools.enable.inspectElementMessage "Badaj i redaguj kod HTML i CSS za pomocą inspektora narzędzi dla programistów.">
+<!ENTITY aboutDevtools.enable.keyShortcutMessage "Użyto skrótu narzędzi dla programistów. Jeśli zrobiono to przez pomyłkę, to można zamknąć tę kartę.">
+<!ENTITY aboutDevtools.enable.menuMessage "Badaj, redaguj i debuguj kod HTML, CSS i JavaScript za pomocą takich narzędzi, jak inspektor i debuger.">
+
+<!ENTITY aboutDevtools.enable.commonMessage "Od Firefoksa 58 narzędzia dla programistów są domyślnie wyłączone, aby użytkownik miał więcej kontroli nad przeglądarką.">
+
+<!ENTITY aboutDevtools.enable.learnMoreLink "Więcej informacji o narzędziach dla programistów">
+<!ENTITY aboutDevtools.enable.installButton "Włącz narzędzia dla programistów">
+<!ENTITY aboutDevtools.welcome.title "Witamy w narzędziach dla programistów Firefoksa!">
+<!ENTITY aboutDevtools.welcome.message "Pomyślnie włączono narzędzia dla programistów. Aby zacząć, otwórz menu „Dla twórców witryn” lub otwórz narzędzia za pomocą skrótu ##INSPECTOR_SHORTCUT##.">
