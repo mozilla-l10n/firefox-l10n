@@ -782,6 +782,10 @@
 <!ENTITY pageAction.addToUrlbar.label "Dodaj do paska adresu">
 <!ENTITY pageAction.removeFromUrlbar.label "Usuń z paska adresu">
 
+<!ENTITY pageAction.allowInUrlbar.label "Wyświetlaj na pasku adresu">
+<!ENTITY pageAction.disallowInUrlbar.label "Nie wyświetlaj na pasku adresu">
+<!ENTITY pageAction.manageExtension.label "Zarządzaj rozszerzeniem…">
+
 <!ENTITY pageAction.sendTabToDevice.label "Wyślij stronę na urządzenie">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizowanie urządzeń…">
 
