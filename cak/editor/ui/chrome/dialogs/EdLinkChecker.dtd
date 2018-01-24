@@ -3,5 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY windowTitle.label     "Kenik'öx Kik'ojlem taq Wachib'äl chuqa' taq Ximonel">
+<!ENTITY succeeded.label       "Q'i'onel">
 <!ENTITY failed.label          "Man ütz ta xub'än">
 <!ENTITY closeButton.label     "Titz'apïx">
