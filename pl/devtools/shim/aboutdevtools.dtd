@@ -18,3 +18,12 @@
 <!ENTITY aboutDevtools.enable.closeButton "Zamknij tę stronę">
 <!ENTITY aboutDevtools.welcome.title "Witamy w narzędziach dla programistów Firefoksa!">
 <!ENTITY aboutDevtools.welcome.message "Pomyślnie włączono narzędzia dla programistów. Aby zacząć, otwórz menu „Dla twórców witryn” lub otwórz narzędzia za pomocą skrótu ##INSPECTOR_SHORTCUT##.">
+
+<!ENTITY aboutDevtools.newsletter.title "Newsletter Mozilli dla programistów">
+<!ENTITY aboutDevtools.newsletter.message "Aktualności, wskazówki i inne materiały dla programistów prosto do Twojej skrzynki.">
+<!ENTITY aboutDevtools.newsletter.email.placeholder "Adres e-mail">
+<!ENTITY aboutDevtools.newsletter.privacy.label "Pozwalam Mozilli wykorzystywać te informacje w sposób opisany w <a class=&#x0022;external&#x0022; href=&#x0022;https://www.mozilla.org/privacy/&#x0022;>polityce prywatności</a>.">
+<!ENTITY aboutDevtools.newsletter.subscribe.label "Subskrybuj">
+
+<!ENTITY aboutDevtools.newsletter.thanks.title "Dziękujemy!">
+<!ENTITY aboutDevtools.newsletter.thanks.message "Jeśli jeszcze nigdy nie potwierdzono subskrypcji newslettera Mozilli, to możesz musieć to zrobić. Sprawdź, czy w skrzynce odbiorczej lub niechcianych jest wiadomość od nas.">
