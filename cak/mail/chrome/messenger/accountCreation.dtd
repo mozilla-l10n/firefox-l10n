@@ -6,6 +6,7 @@
 <!ENTITY name.label                      "Ab'i':">
 <!ENTITY name.accesskey                  "b">
 <!ENTITY name.placeholder                "B'i'aj chuqa' Ruk'an B'i'aj">
+<!ENTITY name.text                       "Ab'i', ri xtikitz'ët ri ch'aqa' chik">
 <!ENTITY email.label                     "Kochochib'al taqoya'l:">
 <!ENTITY email.accesskey                 "t">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
@@ -14,13 +15,20 @@
 <!ENTITY password.label                  "Ewan tzij:">
 <!ENTITY password.accesskey              "E">
 <!ENTITY password.placeholder            "Ewan tzij">
+<!ENTITY password.text                   "Cha'el, xa xe xtokisäx richin nijikib'äx rub'i' ri winäq">
 <!ENTITY rememberPassword.label          "Tinatäx ri ewan tzij">
 <!ENTITY rememberPassword.accesskey      "n">
 
+<!ENTITY imapLong.label                  "IMAP (näj taq yakwuj)">
+<!ENTITY pop3Long.label                  "POP3 (tiyake' taqoya'l pan akematz'ib')">
 
+<!ENTITY incoming.label                  "Tajin nok:">
+<!ENTITY outgoing.label                  "Tajin nel:">
 <!ENTITY username.label                  "Rub'i' winäq:">
+<!ENTITY hostname.label                  "Rub'i' k'uxasamaj">
 <!ENTITY port.label                      "B'ey">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Jikib'anïk">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
@@ -43,15 +51,23 @@
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Titojtob'ëx-chik">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "Aj q'ab'aj nuk'ulem">
+<!ENTITY manual-edit.accesskey           "A">
 <!ENTITY open-provisioner.label          "Tik'ul jun k'ak'a' rochochib'al taqoya'l…">
 <!ENTITY open-provisioner.accesskey      "k">
 
 
 <!ENTITY warning.label                   "¡Rutzijol k'ayewal!">
+<!ENTITY incomingSettings.label          "Tajin nok nuk'ulem:">
+<!ENTITY outgoingSettings.label          "Tajin nel nuk'ulem:">
 <!ENTITY technicaldetails.label          "Etamanel taq B'anikil">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Nino' pa nuwi' ri k'ayewal.">
+<!ENTITY confirmWarning.accesskey        "u">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
@@ -64,5 +80,8 @@
 <!ENTITY changeSettings.label            "Kejal taq Nuk'ulem">
 <!ENTITY changeSettings.accesskey        "S">
 
+<!ENTITY contactYourProvider.description "&brandShortName; nuya' q'ij chawe nak'ül ataqoya'l akuchi' nawokisaj ri anuk'ulem. Po k'o ta chi yatzijon rik'in ri anuk'samajel o aya'öl ataqoya'l chi kij ri improper taq okem. Ke'atz'eta' ri taq Thunderbird FAQ richin nawetamaj ch'aqa' chik.">
 
+<!ENTITY insecureServer.tooltip.title    "¡Rutzijol k'ayewal! Re re' man ütz ta chi k'uxasamaj.">
+<!ENTITY insecureServer.tooltip.details  "Tapitz'a' pa ri setesïk richin ch'aqa' chik rub'anikil.">
 
