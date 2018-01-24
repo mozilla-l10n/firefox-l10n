@@ -15,5 +15,6 @@
 
 <!ENTITY aboutDevtools.enable.learnMoreLink "Więcej informacji o narzędziach dla programistów">
 <!ENTITY aboutDevtools.enable.installButton "Włącz narzędzia dla programistów">
+<!ENTITY aboutDevtools.enable.closeButton "Zamknij tę stronę">
 <!ENTITY aboutDevtools.welcome.title "Witamy w narzędziach dla programistów Firefoksa!">
 <!ENTITY aboutDevtools.welcome.message "Pomyślnie włączono narzędzia dla programistów. Aby zacząć, otwórz menu „Dla twórców witryn” lub otwórz narzędzia za pomocą skrótu ##INSPECTOR_SHORTCUT##.">
