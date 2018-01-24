@@ -21,6 +21,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Bertsioa">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Segurtasun softwarea">
+<!ENTITY aboutSupport.securitySoftwareType "Mota">
+<!ENTITY aboutSupport.securitySoftwareName "Izena">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antibirusa">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Suebakia">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName;(r)en eginbideak">
 <!ENTITY aboutSupport.featureName "Izena">
 <!ENTITY aboutSupport.featureVersion "Bertsioa">
