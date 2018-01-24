@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Немагчма падзяліцца гэтай выявай">
 <!ENTITY save_as_pdf "Захаваць як PDF">
 <!ENTITY print "Друкаваць">
+<!ENTITY view_page_source "Праглядзець зыходнік старонкі">
 <!ENTITY find_in_page "Знайсці на старонцы">
 <!ENTITY desktop_mode "Поўная версія сайта">
 <!ENTITY page "Старонка">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Адкрыць у новай картцы">
 <!ENTITY contextmenu_open_private_tab "Адкрыць у прыватнай картцы">
 <!ENTITY contextmenu_remove "Выдаліць">
-<!ENTITY contextmenu_add_to_launcher "Дадаць на хатні экран">
 <!ENTITY contextmenu_add_page_shortcut "Дадаць цэтлік старонкі">
 <!ENTITY contextmenu_set_as_homepage "Зрабіць хатняй старонкай">
 <!ENTITY contextmenu_share "Дзяліцца">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Старонка выдалена">
-
 <!ENTITY folder_removed "Папка выдалена">
 
 <!ENTITY bookmark_edit_title "Праўка закладкі">
@@ -821,8 +820,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; абноўлены">
 <!ENTITY whatsnew_notification_summary "Даведацца, што новага ў гэтай версіі">
-
-<!ENTITY promotion_add_to_homescreen "Дадаць на хатні экран">
 
 <!ENTITY promotion_add_page_shortcut "Дадаць цэтлік старонкі">
 
