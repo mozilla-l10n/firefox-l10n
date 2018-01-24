@@ -19,10 +19,12 @@
 <!ENTITY rights.intro-point1b "Ruwinaqilal ya'öl q'ij Mozilla">
 <!ENTITY rights.intro-point1c ". Re re' nuq'ijuj chi yatikïr nawokisaj, nawachib'ej chuqa' nakomonij &brandShortName; kik'in juley chik.  Chuqa' yatikïr najäl ri ruxe'el rub'itz'ib' &brandShortName; achi'el nawajo' richin nuk'äm ri' rik'in ri nawajo'. Ri Aj Winäq Ya'öl Ruq'ij Mozilla nuya' pan ach'ojib'al richin ye'ataluj ri jalon taq ruwäch.">
 
+<!ENTITY rights.intro-point2a "Man yeruya' ta taq ch'ojib'äl ri Mozilla pa kiwi' ri etz'ib'an retal taq rub'i' chuqa' ri ruwachib'al taq rub'i' Mozilla chuqa' Thunderbird. Nawïl rutz'aqat etamab'äl chi kij ri Etz'ib'an Retal taq B'i'aj ">
 <!ENTITY rights.intro-point2b "wawe'">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Ri taq runa'ojil ichinanem kichin ri &vendorShortName; taq tiko'n ye'ilitäj ">
 <!ENTITY rights.intro-point3b "wawe'">
 <!ENTITY rights.intro-point3c ".">
 
@@ -30,6 +32,7 @@
 <!ENTITY rights.intro-point3-unbranded "Xa b'a achike kina'ojil taq ichinanem okel pa re k'ayij re', rajowaxik niq'alajisäx wawe'.">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; chuqa' yerusüj cha'el taq samaj, achi'el ri kik'exik taq tz'aqat; xa xe chi man yojtikïr ta niqajikib'a' chi majun kisachoj o e 100&#37; jikïl. Nawïl ch'aqa' chik rutzijol, ke ri' chuqa' ri rub'eyal richin ye'achüp re taq samaj re', pa taq ">
 <!ENTITY rights.intro-point4b "kojqanem samaj">
 <!ENTITY rights.intro-point4c ".">
 
@@ -38,6 +41,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Kisamaj Ajk'amaya'l taq Ruxaq">
 <!ENTITY rights.intro-point4c-unbranded " peraj.">
 
+<!ENTITY rights.webservices-header "&brandFullName; Ajk'amaya'l Ruxaq K'amaya'l taq Samaj">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
