@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "无法分享这个图像">
 <!ENTITY save_as_pdf "另存为 PDF">
 <!ENTITY print "打印">
+<!ENTITY view_page_source "查看页面源代码">
 <!ENTITY find_in_page "在页面中查找">
 <!ENTITY desktop_mode "要求桌面版网站">
 <!ENTITY page "页面">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "新建标签页打开">
 <!ENTITY contextmenu_open_private_tab "新建隐私标签页打开">
 <!ENTITY contextmenu_remove "移除">
-<!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
 <!ENTITY contextmenu_add_page_shortcut "添加页面快捷方式">
 <!ENTITY contextmenu_set_as_homepage "设为主页">
 <!ENTITY contextmenu_share "分享">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "页面已移除">
-
 <!ENTITY folder_removed "文件夹已移除">
 
 <!ENTITY bookmark_edit_title "编辑书签">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; 已是最新版本">
 <!ENTITY whatsnew_notification_summary "了解这个版本的新变化">
-
-<!ENTITY promotion_add_to_homescreen "添加到主屏幕">
 
 <!ENTITY promotion_add_page_shortcut "添加页面快捷方式">
 
