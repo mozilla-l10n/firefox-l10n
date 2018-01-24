@@ -5,6 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "ट्रैकिंग सुरक्षा">
 <!ENTITY  trackingProtection2.description      "ट्रैकिंग कई वेबसाइटों पर आपके ब्राउज़िंग डेटा का संग्रह है. ट्रैकिंग का प्रयोग आपकी ब्राउज़िंग और व्यक्तिगत जानकारी के आधार पर एक प्रोफ़ाइल बनाने और कंटेंट दिखाने की लिए किया जा सकता हैं.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "ज्ञात ट्रैकर्स को ब्लॉक करने के लिए ट्रैकिंग प्रोटैक्शन का उपयोग करें">
+<!ENTITY  trackingProtection3.description      "ट्रैकिंग सुरक्षा ऑनलाइन ट्रैकरों को ब्लॉक करता है जो कि आपके विभिन्न साइटों के ब्राउज़िंग डेटा को एकत्रित करते है.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "ज्ञात ट्रैकर्स को ब्लॉक करने के लिए ट्रैकिंग सुरक्षा का उपयोग करें">
 <!ENTITY  trackingProtectionAlways.label       "हमेशा">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
