@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Gat ekki deilt þessari mynd">
 <!ENTITY save_as_pdf "Vista sem PDF">
 <!ENTITY print "Prenta">
+<!ENTITY view_page_source "Sýna frumkóða síðu">
 <!ENTITY find_in_page "Finna á síðu">
 <!ENTITY desktop_mode "Fá venjulega síðu">
 <!ENTITY page "Síða">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Opna í nýjum flipa">
 <!ENTITY contextmenu_open_private_tab "Opna í einkaflipa">
 <!ENTITY contextmenu_remove "Fjarlægja">
-<!ENTITY contextmenu_add_to_launcher "Bæta við á ræsisíðu">
 <!ENTITY contextmenu_add_page_shortcut "Bæta við flýtivísun í síðu">
 <!ENTITY contextmenu_set_as_homepage "Setja sem ræsisíðu">
 <!ENTITY contextmenu_share "Deila">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Síða fjarlægð">
-
 <!ENTITY folder_removed "Mappa fjarlægð">
 
 <!ENTITY bookmark_edit_title "Breyta bókarmerki">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; er þegar með nýjustu útgáfu">
 <!ENTITY whatsnew_notification_summary "Skoðaðu það sem er nýtt í þessari útgáfu">
-
-<!ENTITY promotion_add_to_homescreen "Bæta við á ræsisíðu">
 
 <!ENTITY promotion_add_page_shortcut "Bæta við flýtivísun í síðu">
 
