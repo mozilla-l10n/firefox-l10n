@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Ne mogu podijeliti ovu sliku">
 <!ENTITY save_as_pdf "Spasi kao PDF">
 <!ENTITY print "Štampaj">
+<!ENTITY view_page_source "Pregled izvornog koda stranice">
 <!ENTITY find_in_page "Pronađi na stranici">
 <!ENTITY desktop_mode "Zahtjevaj desktop stranicu">
 <!ENTITY page "Stranica">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Otvori u novom tabu">
 <!ENTITY contextmenu_open_private_tab "Otvori u privatnom tabu">
 <!ENTITY contextmenu_remove "Ukloni">
-<!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
 <!ENTITY contextmenu_add_page_shortcut "Dodaj prečicu stranice">
 <!ENTITY contextmenu_set_as_homepage "Postavi kao početnu stranicu">
 <!ENTITY contextmenu_share "Dijeli">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Stranica uklonjena">
-
 <!ENTITY folder_removed "Direktorij uklonjen">
 
 <!ENTITY bookmark_edit_title "Uredi zabilješku">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; je ažuriran">
 <!ENTITY whatsnew_notification_summary "Saznajte šta je novo u ovoj verziji">
-
-<!ENTITY promotion_add_to_homescreen "Dodaj na početni ekran">
 
 <!ENTITY promotion_add_page_shortcut "Dodaj prečicu stranice">
 
