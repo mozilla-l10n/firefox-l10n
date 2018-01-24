@@ -595,6 +595,8 @@
 <!ENTITY editBookmark.done.label                     "Gotowe">
 <!ENTITY editBookmark.removeBookmark.accessKey       "U">
 
+<!ENTITY identity.securityView.label "Bezpieczeństwo strony">
+
 <!ENTITY identity.connectionSecure "Zabezpieczone połączenie">
 <!ENTITY identity.connectionNotSecure "Połączenie nie jest bezpieczne">
 <!ENTITY identity.connectionFile "Strona wczytana z tego komputera">
