@@ -25,6 +25,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareType "Tegund">
 <!ENTITY aboutSupport.securitySoftwareName "Nafn">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "Vírusvörn">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Vírusvörn">
 <!ENTITY aboutSupport.securitySoftwareFirewall "Eldveggur">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; eiginleikar">
