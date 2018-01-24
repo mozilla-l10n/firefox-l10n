@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY autoconfigWizard2.title         "Tib'an Runuk'ulem jun Rub'i' Taqoya'l K'o chik">
 <!ENTITY name.label                      "Ab'i':">
 <!ENTITY name.accesskey                  "b">
+<!ENTITY name.placeholder                "B'i'aj chuqa' Ruk'an B'i'aj">
 <!ENTITY email.label                     "Kochochib'al taqoya'l:">
 <!ENTITY email.accesskey                 "t">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
