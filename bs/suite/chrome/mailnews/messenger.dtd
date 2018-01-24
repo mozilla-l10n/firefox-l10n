@@ -9,15 +9,73 @@
 <!-- tabmail -->
 <!ENTITY tabmailClose.label "Zatvori tab">
 <!ENTITY tabmailClose.tooltip "Zatvori tab">
+<!ENTITY tabmailNewButton.tooltip "Duplicirati trenutni tab">
+<!ENTITY tabmailCloseButton.tooltip "Zatvori trenutni tab">
+<!ENTITY tabmailAllTabs.tooltip "Izlistaj sve tabove">
 
 <!-- menu items: the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
+<!ENTITY newMessage.label "Nova poruka">
+<!ENTITY newFolderCmd.label "Direktorij…">
+<!ENTITY newVirtualFolderCmd.label "Sačuvane pretrage…">
+<!ENTITY newTabCmd.label "Dupliciraj tab">
+<!ENTITY closeTabCmd.label "Zatvori tab">
+<!ENTITY newAccountCmd.label "Račun…">
+<!ENTITY openMessageFileCmd.label "Otvori datoteku…">
+<!ENTITY openAttachmentCmd.label "Prilozi">
+<!ENTITY saveAsMenu.label "Spasi kao">
+<!ENTITY saveAsFileCmd.label "Datoteka">
+<!ENTITY saveAsTemplateCmd.label "Šablon">
+<!ENTITY getNewMsgCmd.label "Dohvati nove poruke">
+<!ENTITY getNewMsgForCmd.label "Dohvati nove poruke za">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Svi računi">
+<!ENTITY getAllNewMsgCmd.label "Dohvati sve nove poruke">
+<!ENTITY getNextNMsgCmd.label "Dohvati sljedećih 500 novinskih poruka">
+<!ENTITY sendUnsentCmd.label "Pošalji neposlane poruke">
+<!ENTITY subscribeCmd.label "Pretplati se…">
+<!ENTITY renameFolder.label "Preimenuj direktorij…">
+<!ENTITY compactFolders.label "Sažmi direktorije">
+<!ENTITY emptyTrashCmd.label "Isprazni smeće">
+<!ENTITY offlineMenu.label "Van mreže">
+<!ENTITY synchronizeOfflineCmd.label "Preuzmi/sinhronizuj sada…">
+<!ENTITY settingsOfflineCmd.label "Postavke rada van mreže…">
+<!ENTITY downloadSelectedCmd.label "Dohvati odabrane poruke">
+<!ENTITY downloadFlaggedCmd.label "Dohvati poruke označene zastavicom">
 
 <!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Izbriši poruku">
+<!ENTITY undeleteMsgCmd.label "Vrati izbrisanu poruku">
+<!ENTITY cancelNewsMsgCmd.label "Otkaži poruku">
+<!ENTITY deleteMsgsCmd.label "Izbriši odabrane poruke">
+<!ENTITY undeleteMsgsCmd.label "Vrati izbrisane poruke">
+<!ENTITY deleteFolderCmd.label "Izbriši direktorij">
+<!ENTITY unsubscribeNewsgroupCmd.label "Ukini pretplatu">
+<!ENTITY selectMenu.label "Izaberi">
+<!ENTITY selectThreadCmd.label "Nit">
+<!ENTITY selectFlaggedCmd.label "Poruke sa zastavicom">
+<!ENTITY folderPropsCmd.label "Svojstva…">
+<!ENTITY folderPropsFolderCmd.label "Svojstva direktorija…">
+<!ENTITY folderPropsNewsgroupCmd.label "Svojstva novinske grupe…">
+<!ENTITY accountManagerCmd.label "Postavke računa pošte i interesnih grupa…">
+<!ENTITY undoDeleteMsgCmd.label "Vrati izbrisanu poruku">
+<!ENTITY redoDeleteMsgCmd.label "Ponovo izbriši poruku">
+<!ENTITY undoMoveMsgCmd.label "Vrati premještenu poruku">
+<!ENTITY redoMoveMsgCmd.label "Ponovo premjesti poruku">
+<!ENTITY undoCopyMsgCmd.label "Vrati kopiranu poruku">
+<!ENTITY redoCopyMsgCmd.label "Ponovo kopiraj poruku">
+<!ENTITY undoMarkAllCmd.label "Vrati označavanje svega kao pročitano">
+<!ENTITY redoMarkAllCmd.label "Ponovi označavanje svega kao pročitano">
+<!ENTITY undoDefaultCmd.label "Poništi">
+<!ENTITY redoDefaultCmd.label "Ponovi">
 
 <!-- View Menu -->
+<!ENTITY showMessengerToolbarCmd.label "Alatna traka pošte">
+<!ENTITY showSearchToolbarCmd.label "Traka za pretragu">
+<!ENTITY showTabsToolbarCmd.label "Alatna traka tabova">
 
+<!ENTITY messagePaneLayoutStyle.label "Raspored">
+<!ENTITY messagePaneClassic.label "Klasični pregled">
 
 <!-- sortMenu is also used by addressbook -->
 
