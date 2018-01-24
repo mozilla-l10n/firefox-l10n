@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "આ ચિત્ર વહેંચવામાં અસમર્થ">
 <!ENTITY save_as_pdf "PDF તરીકે સંગ્રહો">
 <!ENTITY print "છાપો">
+<!ENTITY view_page_source "પૃષ્ઠ સ્રોત જુઓ">
 <!ENTITY find_in_page "પૃષ્ઠમાં શોધો">
 <!ENTITY desktop_mode "ડેસ્કટૉપ સાઇટની વિનંતી કરો">
 <!ENTITY page "પાનું">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "નવા ટૅબમાં ખોલો">
 <!ENTITY contextmenu_open_private_tab "ખાનગી ટૅબમાં ખોલો">
 <!ENTITY contextmenu_remove "દૂર કરો">
-<!ENTITY contextmenu_add_to_launcher "હોમ સ્ક્રીન પર ઉમેરો">
 <!ENTITY contextmenu_add_page_shortcut "પૃષ્ઠ શોર્ટકટ ઉમેરો">
 <!ENTITY contextmenu_set_as_homepage "હોમપેજ તરીકે સેટ કરો">
 <!ENTITY contextmenu_share "વહેંચો">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "પૃષ્ઠ દૂર કર્યું">
-
 <!ENTITY folder_removed "ફોલ્ડર દૂર કર્યું">
 
 <!ENTITY bookmark_edit_title "બુકમાર્કમાં ફેરફાર કરો">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; નવીનકૃત છે">
 <!ENTITY whatsnew_notification_summary "શોધવા માટે શું આ સંસ્કરણ માં નવું શું છે">
-
-<!ENTITY promotion_add_to_homescreen "મુખ્ય સ્ક્રીન પર ઉમેરો">
 
 <!ENTITY promotion_add_page_shortcut "પૃષ્ઠ શોર્ટકટ ઉમેરો">
 
