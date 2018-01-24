@@ -167,22 +167,146 @@
 <!ENTITY replyNewsgroupCmd.label "Odgovori interesnoj grupi">
 <!ENTITY replySenderCmd.label "Odgovori samo pošiljaocu">
 <!ENTITY replyToAllMsgCmd.label "Odgovori svima">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Odgovori pošiljaocu i interesnoj grupi">
+<!ENTITY replyToAllRecipientsCmd.label "Odgovori svim primaocima">
+<!ENTITY forwardMsgCmd.label "Proslijedi">
+<!ENTITY forwardAsMenu.label "Proslijedi kao">
+<!ENTITY forwardAsInline.label "Sadržaj unutar poruke">
+<!ENTITY forwardAsAttachmentCmd.label "Prilog">
+<!ENTITY editMsgAsNewCmd.label "Uredi poruku kao novu">
+<!ENTITY createFilter.label "Stvori filter iz poruke…">
+<!ENTITY archiveMsgCmd.label "Arhiviraj">
+<!ENTITY moveMsgToMenu.label "Premjesti u">
+<!ENTITY copyMessageLocation.label "Kopiraj lokaciju poruke">
+<!ENTITY copyMsgToMenu.label "Kopiraj u">
+<!ENTITY moveCopyMsgRecentMenu.label "Nedavno">
+<!ENTITY killThreadMenu.label "Ignoriši nit">
+<!ENTITY killSubthreadMenu.label "Ignoriši podnit">
+<!ENTITY watchThreadMenu.label "Nadgledaj nit">
+<!ENTITY fileHereMenu.label "Arhiviraj ovdje">
+<!ENTITY copyHereMenu.label "Kopiraj ovdje">
+<!ENTITY tagMenu.label "Oznaka">
+<!ENTITY tagCustomize.label "Prilagodi…">
+<!ENTITY markMenu.label "Označi">
+<!ENTITY markThreadAsReadCmd.label "Nit kao pročitanu">
+<!ENTITY markReadByDateCmd.label "Kao pročitano do datuma…">
+<!ENTITY markAllReadCmd.label "Sve pročitano">
+<!ENTITY markAsJunkCmd.label "Kao neželjenu poštu">
+<!ENTITY markAsNotJunkCmd.label "Kao željenu poštu">
+<!ENTITY recalculateJunkScoreCmd.label "Pokreni kontrole neželjene pošte">
+<!ENTITY markAsShowRemoteCmd.label "Prikaži udaljeni sadržaj">
+<!ENTITY markAsNotPhishCmd.label "Nije prevara">
+<!ENTITY openFeedMessage.label "Otvori poruku kanala">
+<!ENTITY openFeedWebPageInWindow.label "Web stranicu u novom prozoru">
+<!ENTITY openFeedSummaryInWindow.label "Sažetak u novom prozoru">
+<!ENTITY openFeedWebPageInMP.label "Uključi web stranicu i sažetak u oknu poruke">
 
 <!-- Tools Menu -->
+<!ENTITY searchMailCmd.label "Pretraži poruke…">
+<!ENTITY searchAddressesCmd.label "Pretraži adrese…">
+<!ENTITY filtersCmd.label "Filteri poruke…">
+<!ENTITY filtersApply.label "Pokreni filtere na direktoriju">
+<!ENTITY filtersApplyToSelection.label "Pokreni filtere na odabranim porukama">
+<!ENTITY filtersApplyToMessage.label "Pokreni filtere na poruci">
+<!ENTITY runJunkControls.label "Pokreni kontrole neželjene pošte na direktoriju">
+<!ENTITY deleteJunk.label "Izbriši poštu u direktoriju označenu kao neželjenu">
+<!ENTITY importCmd.label "Uvoz…">
 
 <!-- Folder Pane -->
+<!ENTITY nameColumn.label "Naziv">
+<!ENTITY unreadColumn.label "Nepročitano">
+<!ENTITY totalColumn.label "Ukupno">
 
 <!-- Toolbar items -->
+<!ENTITY getMsgButton.label "Dohvati poruke">
+<!ENTITY newMsgButton.label "Sastavi">
+<!ENTITY newHTMLMessageCmd.label "Sastavi u HTML-u">
+<!ENTITY newPlainTextMessageCmd.label "Sastavi kao običan tekst">
+<!ENTITY replyButton.label "Odgovori">
+<!ENTITY replyAllButton.label "Odgovori svima">
+<!ENTITY forwardButton.label "Proslijedi">
+<!ENTITY fileButton.label "Datoteka">
+<!ENTITY nextButton.label "Sljedeće">
+<!ENTITY goBackButton.label "Idi nazad">
+<!ENTITY goForwardButton.label "Idite naprijed">
+<!ENTITY deleteButton.label "Izbriši">
+<!ENTITY undeleteButton.label "Vrati izbrisano">
+<!ENTITY markButton.label "Označi">
+<!ENTITY stopButton.label "Zaustavi">
+<!ENTITY junkButton.label "Neželjena pošta">
+<!ENTITY notJunkButton.label "Nije neželjena pošta">
+<!ENTITY searchButton.title "Napredno pretraživanje">
 
 <!-- Tooltips -->
+<!ENTITY menuBar.tooltip "Traka menija">
+<!ENTITY mailToolbar.tooltip "Alatna traka pošte">
+<!ENTITY searchToolbar.tooltip "Traka za pretragu">
+<!ENTITY advancedButton.tooltip "Napredno pretraživanje poruka">
+<!ENTITY getMsgButton.tooltip "Dohvati nove poruke">
+<!ENTITY newMsgButton.tooltip "Piši novu poruku">
+<!ENTITY replyButton.tooltip "Odgovori na poruku">
+<!ENTITY replyAllButton.tooltip "Odgovori pošiljaocu i svim primaocima">
+<!ENTITY replyAllButtonNews.tooltip "Odgovori pošiljaocu i interesnoj grupi">
+<!ENTITY forwardButton.tooltip "Proslijedi odabranu poruku">
+<!ENTITY fileButton.tooltip "Pohrani odabranu poruku">
+<!ENTITY nextButton.tooltip "Idi na sljedeću nepročitanu poruku">
+<!ENTITY goBackButton.tooltip "Idi nazad jednu poruku">
+<!ENTITY goForwardButton.tooltip "Idi naprijed jednu poruku">
+<!ENTITY deleteButton.tooltip "Izbriši odabranu poruku ili direktorij">
+<!ENTITY undeleteButton.tooltip "Vrati izbrisanu odabranu poruku">
+<!ENTITY markButton.tooltip "Označi poruke">
+<!ENTITY stopButton.tooltip "Zaustavi trenutni prijenos">
+<!ENTITY throbber.tooltip "Idite na &vendorShortName; početnu stranicu">
+<!ENTITY junkButton.tooltip "Označi odabrane poruke kao neželjene">
+<!ENTITY notJunkButton.tooltip "Označi odabrane poruke kao željene">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Prikaži vanjski sadržaj u ovoj poruci">
+<!ENTITY editRemoteContentSettings.label "Uredi dozvole za udaljeni sadržaj…">
 
 <!-- Statusbar -->
+<!ENTITY statusText.label "Gotovo">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "Otvori poruku u novom prozoru">
+<!ENTITY contextOpenNewTab.label "Otvori poruku u novom tabu">
+<!ENTITY contextEditAsNew.label "Uredi kao novo…">
+<!ENTITY contextReplySender.label "Odgovori samo pošiljaocu">
+<!ENTITY contextReplyList.label "Odgovori na listu">
+<!ENTITY contextReplyNewsgroup.label "Odgovori interesnoj grupi">
+<!ENTITY contextReplyAll.label "Odgovori svima">
+<!ENTITY contextReplySenderAndNewsgroup.label "Odgovori pošiljaocu i interesnoj grupi">
+<!ENTITY contextForward.label "Proslijedi">
+<!ENTITY contextForwardAsAttachment.label "Proslijedi kao prilog">
+<!ENTITY contextArchive.label "Arhiviraj">
+<!ENTITY contextMoveMsgMenu.label "Premjesti u">
+<!ENTITY contextCopyMsgMenu.label "Kopiraj u">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Nedavno">
+<!ENTITY contextSaveAs.label "Sačuvaj kao…">
+<!ENTITY contextPrint.label "Štampaj…">
+<!ENTITY contextPrintPreview.label "Pregled prije štampe">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Dohvati poruke za račun">
+<!ENTITY folderContextOpenNewWindow.label "Otvori u novom prozoru pošte">
+<!ENTITY folderContextOpenNewTab.label "Otvori u novom tabu">
+<!ENTITY folderContextRename.label "Preimenuj">
+<!ENTITY folderContextRemove.label "Izbriši">
+<!ENTITY folderContextCompact.label "Sažmi ovaj direktorij">
+<!ENTITY folderContextEmptyTrash.label "Isprazni smeće">
+<!ENTITY folderContextEmptyJunk.label "Isprazni neželjenu poštu">
+<!ENTITY folderContextSendUnsentMessages.label "Pošalji neposlane poruke">
+<!ENTITY folderContextUnsubscribe.label "Ukini pretplatu">
+<!ENTITY folderContextMarkNewsgroupRead.label "Označi novinsku grupu pročitanom">
+<!ENTITY folderContextMarkMailFolderRead.label "Označi direktorij pročitanim">
+<!ENTITY folderContextNew.label "Novi poddirektorij…">
+<!ENTITY folderContextSubscribe.label "Pretplati se…">
+<!ENTITY folderContextSearchMessages.label "Pretraži poruke…">
+<!ENTITY folderContextProperties.label "Svojstva…">
+<!ENTITY folderContextSettings.label "Postavke…">
 
 <!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY advancedButton.label "Napredno…">
+<!ENTITY searchButton.label "Pretraži poruke…">
 
+<!ENTITY all.label "Sve">
