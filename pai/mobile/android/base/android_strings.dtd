@@ -408,6 +408,7 @@ chab mtñur">
 <!ENTITY datareporting_notification_action "Myo paa jkay paa m\&apos; em">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Chkaabch ha myo paa mkyim">
+<!ENTITY datareporting_notification_summary "Chmwiwu janrab hikyawa &brandShortName; hay byaw\&apos;i &vendorShortName; cknaab eema.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -456,18 +457,36 @@ chab mtñur">
 <!ENTITY page "Chŕmeechu">
 <!ENTITY tools "Trech chu">
 <!ENTITY new_tab "Ch chkwaachu jkaay">
+<!ENTITY new_private_tab "Ch chkwachu jabch tpaay">
 <!ENTITY close_all_tabs "Ch chkwaachu paytum ŕ\&apos;amch">
 <!ENTITY close_private_tabs "Ch chkwaachu jabch tpaay ŕ\&apos;amch">
 <!ENTITY tabs_normal "Ch chkwachu">
+<!ENTITY tabs_private "Jabchu tpaay">
+<!ENTITY set_image_fail "Kos tñurch ha sal chgooch yutem">
+<!ENTITY set_image_path_fail "Kos tñurch ha chgooch yutem">
+<!ENTITY set_image_chooser_title "Tñurch ha sal chgo kwee">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Jabchu hal chyo">
+<!ENTITY find_prev "Kjkeech ha">
+<!ENTITY find_next "Ñul kpeebha">
+<!ENTITY find_close "Ŕ\&apos;am">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_sending_to "Dispositiv hal kwiim">
+<!ENTITY media_play "Tewu">
+<!ENTITY media_pause "Tksee">
+<!ENTITY media_stop "Chubŕkwii">
 
+<!ENTITY contextmenu_open_new_tab "Ch chkwachu jkaayk sol">
+<!ENTITY contextmenu_open_private_tab "Ch cjkwaachu jabch tpaayk chsol">
 <!ENTITY contextmenu_remove "Ujiiñ">
+<!ENTITY contextmenu_add_page_shortcut "Byaw ik solchu yib sak chgooch">
+<!ENTITY contextmenu_set_as_homepage "Naamanchu wuliwuk chiich">
 <!ENTITY contextmenu_share "Mkwimu">
+<!ENTITY contextmenu_paste "Tublich">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
