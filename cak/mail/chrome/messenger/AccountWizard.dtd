@@ -16,15 +16,20 @@
 <!ENTITY accountTypeMail.label "Email rub'i' taqoya'l">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Rub'i' rutaqoya'l tzijol">
+<!ENTITY accountTypeNews.accesskey "z">
 
 <!-- Entities for Identity page -->
 
+<!ENTITY identityTitle.label "B'anikil">
+<!ENTITY identityDesc.label "Chi kijujunal ri taq rub'i' taqoya'l k'o jun kib'anikil, ja ri' ri etamab'äl nuya' awetal chi kiwäch ch'aqa' chik toq yekik'ül ri taq atzijol.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Tatz'ib'aj ri b'i'aj nawajo' chi niq'alajin pa ri ruk'ojlib'al &quot;Richin&quot; toq ye'atäq taq rutzijol">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
+<!ENTITY fullnameExample.label "(achi'el, &quot;John Smith&quot;).">
 <!ENTITY fullnameLabel.label "Ab'i':">
 <!ENTITY fullnameLabel.accesskey "A">
 
@@ -33,25 +38,38 @@
 
 <!-- Entities for Incoming Server page -->
 
+<!ENTITY incomingTitle.label "Retamab'al Ruk'uxasamaj Okem">
+<!ENTITY incomingServerTypeDesc.label "Tacha' ri ruwäch ruk'uxasamaj okem nawokisaj.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Keya' kan taq tzijol pa k'uxasamaj">
+<!ENTITY leaveMsgsOnSrvr.accesskey "K">
 <!ENTITY portNum.label "B'ey:">
 <!ENTITY portNum.accesskey "e">
 <!ENTITY defaultPortLabel.label "K'o wi:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Tatz'ib'aj rub'i' ri ruk'uxasamaj awokem (achi'el, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "K'uxasamaj Nok:">
+<!ENTITY incomingServer.accesskey "K">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Tatz'ib'aj rub'i' winäq okem ya'on ruma ri ya'öl ataqoya'l (achi'el, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Rub'i' Winäq:">
 <!ENTITY incomingUsername.accesskey "W">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Tatz'ib'aj rub'i' ri ruk'uxasamaj atzijol (NNTP) (achi'el, &quot;news.example.net&quot;).">
+<!ENTITY newsServerLabel.label "Ruk'uxasamaj Tzijol:">
+<!ENTITY newsServerLabel.accesskey "R">
 
 <!-- Entities for Outgoing Server page -->
 
+<!ENTITY outgoingTitle.label "Retamab'al Ruk'uxasamaj Elem">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Tatz'ib'aj rub'i' ri ruk'uxasamaj awelem (SMTP) (achi'el, &quot;smtp.example.net&quot;).">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
