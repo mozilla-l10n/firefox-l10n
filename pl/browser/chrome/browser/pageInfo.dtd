@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Uprawnienia dla:">
 <!ENTITY  permPlugins "Aktywowanie wtyczek">
 
-<!ENTITY  permClearStorage           "Wyczyść dane offline">
-<!ENTITY  permClearStorage.accesskey "d">
-
 <!ENTITY  securityTab           "Bezpieczeństwo">
 <!ENTITY  securityTab.accesskey "B">
 <!ENTITY  securityView.certView  "Wyświetl certyfikat">

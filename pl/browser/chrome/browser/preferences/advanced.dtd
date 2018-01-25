@@ -43,7 +43,6 @@
 <!ENTITY connectionSettings.accesskey "">
 
 <!ENTITY httpCache.label                 "Treści w pamięci podręcznej">
-<!ENTITY offlineStorage2.label           "Treści dla trybu offline i dane użytkownika">
 <!ENTITY siteData.label "Dane stron">
 <!ENTITY clearSiteData.label "Wyczyść wszystkie dane">
 <!ENTITY clearSiteData.accesskey "">
@@ -56,8 +55,6 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Wyczyść teraz">
 <!ENTITY clearCacheNow.accesskey "">
-<!ENTITY clearOfflineAppCacheNow.label   "Wyczyść teraz">
-<!ENTITY clearOfflineAppCacheNow.accesskey "">
 <!ENTITY overrideSmartCacheSize.label    "Używaj ręcznego zarządzania pamięcią podręczną">
 <!ENTITY overrideSmartCacheSize.accesskey "">
 
@@ -80,17 +77,6 @@
 
 <!ENTITY enableSearchUpdate2.label "Automatyczne aktualizacje wyszukiwarek">
 <!ENTITY enableSearchUpdate2.accesskey "">
-
-<!ENTITY offlineStorageNotify.label "Pytaj, kiedy witryna prosi o możliwość przechowywania danych dla trybu offline">
-<!ENTITY offlineStorageNotify.accesskey "">
-<!ENTITY offlineStorageNotifyExceptions.label "Wyjątki…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "">
-
-<!ENTITY offlineAppsList3.label "Następujące witryny mogą przechowywać dane dla trybu offline:">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Usuń…">
-<!ENTITY offlineAppsListRemove.accesskey "">
-<!ENTITY offlineAppRemove.confirm        "Usuń dane trybu offline">
 
 <!ENTITY certificateTab.label            "Certyfikaty">
 <!ENTITY certPersonal2.description "Kiedy serwer żąda osobistego certyfikatu użytkownika:">

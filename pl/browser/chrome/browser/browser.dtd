@@ -183,7 +183,6 @@
 <!ENTITY urlbar.microphoneBlocked.tooltip "Udostępnianie mikrofonu tej witrynie zostało zablokowane">
 <!ENTITY urlbar.screenBlocked.tooltip "Udostępnianie obrazu ekranu tej witrynie zostało zablokowane">
 <!ENTITY urlbar.geolocationBlocked.tooltip "Udostępnianie położenia tej witrynie zostało zablokowane">
-<!ENTITY urlbar.indexedDBBlocked.tooltip "Przechowywanie danych offline przez tę witrynę zostało zablokowane">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej witryny zostały zablokowane">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez witrynę zostało zablokowane">
 <!ENTITY urlbar.popupBlocked.tooltip "Wyskakujące okna na tej stronie są blokowane">
@@ -246,7 +245,6 @@
 <!ENTITY newNavigatorCmd.accesskey "N" >
 <!ENTITY newPrivateWindow.label     "Nowe okno prywatne">
 <!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label "Nowe okno z pojedynczym procesem">
 
 <!ENTITY editMenu.label "Edycja" >
 <!ENTITY editMenu.accesskey "E" >
@@ -300,17 +298,12 @@
 <!ENTITY showAllHistoryCmd2.label "Wyświetl całą historię">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Dostosuj">
-<!ENTITY appMenuCustomize.tooltip "Dostosuj menu i paski narzędzi">
-<!ENTITY appMenuCustomizeExit.label "Zakończ dostosowywanie">
-<!ENTITY appMenuCustomizeExit.tooltip "Zakończ dostosowywanie">
 <!ENTITY appMenuHistory.showAll.label "Wyświetl całą historię">
 <!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
 <!ENTITY appMenuHistory.restoreSession.label "Przywróć poprzednią sesję">
 <!ENTITY appMenuHistory.viewSidebar.label "Wyświetl historię w panelu bocznym">
 <!ENTITY appMenuHistory.recentHistory.label "Ostatnio odwiedzone">
 <!ENTITY appMenuHelp.label "Pomoc">
-<!ENTITY appMenuHelp.tooltip "Otwórz menu pomocy">
 
 <!ENTITY appMenuRemoteTabs.label "Karty z innych urządzeń">
 <!ENTITY appMenuRemoteTabs.notabs.label "Brak otwartych kart">
@@ -359,14 +352,6 @@
 <!ENTITY urlbar.accesskey "d" >
 <!ENTITY urlbar.extension.label "Rozszerzenie:">
 <!ENTITY urlbar.switchToTab.label     "Przełącz na kartę:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Czy wyświetlać w podpowiedziach paska adresu podpowiedzi dostarczane przez wyszukiwarki?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Więcej informacji…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "W">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nie">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Tak">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "T">
 
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Wyszukuj łatwiej!">
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Ikona &#x1F50E; sygnalizuje podpowiedzi wyszukiwarek.">
@@ -575,8 +560,6 @@
 <!ENTITY pageStylePersistentOnly.label "Styl podstawowy">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 
-<!ENTITY pageReportIcon.tooltip            "Zmień ustawienia blokady wyskakujących okien dla tej strony">
-
 <!ENTITY allowPopups.accesskey "w">
 <!ENTITY editPopupSettingsUnix.label "Edytuj preferencje wyskakujących okien…">
 <!ENTITY editPopupSettings.label "Edytuj opcje blokady wyskakujących okien…">
@@ -687,8 +670,6 @@
 <!ENTITY syncToolbarButton.label      "Synchronizuj">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Przeciągaj swoje ulubione elementy na pasek narzędzi lub do menu ukrywania.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Jeszcze więcej narzędzi?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Możesz wybierać spośród tysięcy dodatków">
 <!ENTITY customizeMode.restoreDefaults "Przywróć domyślne">
 <!ENTITY customizeMode.done "Gotowe">
 <!ENTITY customizeMode.titlebar "Pasek tytułu">
@@ -701,7 +682,6 @@
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "Z">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Pobierz więcej">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "P">
-<!ENTITY customizeMode.emptyOverflowList.description "Przeciągaj tutaj rzeczy, aby były pod ręką, ale nie zabierały miejsca na pasku narzędzi…">
 <!ENTITY customizeMode.overflowList.title "Menu ukrywania">
 <!ENTITY customizeMode.overflowList.title2 "Menu ukrywania">
 <!ENTITY customizeMode.overflowList.description "Przeciągaj tutaj rzeczy, aby były pod ręką, ale nie zabierały miejsca na pasku narzędzi…">

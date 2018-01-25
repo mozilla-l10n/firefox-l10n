@@ -7,10 +7,6 @@
 <!ENTITY blockPopups.label "Blokowanie wyskakujących okien">
 <!ENTITY blockPopups.accesskey "">
 
-<!ENTITY notificationsDoNotDisturb.label "Nie przeszkadzać">
-<!ENTITY notificationsDoNotDisturb.accesskey "">
-<!ENTITY notificationsDoNotDisturbDetails.value "Powiadomienia nie będą wyświetlane do czasu ponownego uruchomienia programu &brandShortName;">
-
 <!ENTITY popupExceptions.label "Wyjątki…">
 <!ENTITY popupExceptions.accesskey "">
 

@@ -26,9 +26,6 @@
 <!ENTITY getThemes.description "Szukasz sposobu na personalizację przeglądarki?">
 <!ENTITY getThemes.learnMore "Wybieraj spośród tysięcy motywów.">
 
-<!ENTITY cmd.back.tooltip                     "Przejdź jedną stronę do przodu">
-<!ENTITY cmd.forward.tooltip                  "Przejdź jedną stronę wstecz">
-
 <!ENTITY showUnsignedExtensions.button.label "Niektóre rozszerzenia nie mogły zostać zweryfikowane">
 <!ENTITY showAllExtensions.button.label "Pokaż wszystkie rozszerzenia">
 <!ENTITY debugAddons.label "Debuguj dodatki">
