@@ -57,6 +57,11 @@
 <!ENTITY forget.label "Usuń adres e-mail">
 <!ENTITY forget.accesskey "">
 
+<!ENTITY resendVerification.label "Wyślij nową wiadomość weryfikującą">
+<!ENTITY resendVerification.accesskey "W">
+<!ENTITY cancelSetup.label "Anuluj konfigurację">
+<!ENTITY cancelSetup.accesskey "A">
+
 <!ENTITY signedOut.caption "Zabierz swoją sieć ze sobą">
 <!ENTITY signedOut.description "Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.">
 <!ENTITY signedOut.accountBox.title "&syncBrand.fxAccount.label;">
