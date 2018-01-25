@@ -144,13 +144,17 @@
 <!ENTITY hideRecentlyBookmarked.accesskey "U">
 
 <!ENTITY backCmd.label "Wstecz" >
+<!ENTITY backCmd.accesskey "W">
 <!ENTITY backButton.tooltip "Przejdź do poprzedniej strony" >
 <!ENTITY forwardCmd.label "Do przodu" >
+<!ENTITY forwardCmd.accesskey "D">
 <!ENTITY forwardButton.tooltip "Przejdź do następnej strony" >
 <!ENTITY backForwardButtonMenu.tooltip "Kliknij prawym przyciskiem lub rozwiń, by wyświetlić historię">
 <!ENTITY backForwardButtonMenuMac.tooltip "Rozwiń, by wyświetlić historię">
 <!ENTITY reloadCmd.label "Odśwież" >
+<!ENTITY reloadCmd.accesskey "O">
 <!ENTITY stopCmd.label "Zatrzymaj" >
+<!ENTITY stopCmd.accesskey "Z">
 <!ENTITY stopCmd.macCommandKey ".">
 <!ENTITY goEndCap.tooltip "Przejdź do strony o podanym adresie" >
 <!ENTITY printButton.label "Drukuj" >
@@ -435,6 +439,7 @@
 <!ENTITY setDesktopBackgroundCmd.label "Ustaw jako tapetę…" >
 <!ENTITY setDesktopBackgroundCmd.accesskey "t" >
 <!ENTITY bookmarkPageCmd2.label "Dodaj zakładkę do tej strony">
+<!ENTITY bookmarkPageCmd2.accesskey "D">
 <!ENTITY bookmarkThisLinkCmd.label "Dodaj zakładkę do odnośnika">
 <!ENTITY bookmarkThisLinkCmd.accesskey "a">
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj zakładkę do ramki">
