@@ -6,6 +6,8 @@
 <!ENTITY searchBar.hidden.label "Pasek adresu z funkcjami wyszukiwania i nawigacji">
 <!ENTITY searchBar.shown.label "Osobny pasek wyszukiwania">
 
+<!ENTITY showSearchSuggestionsAboveHistory.label "Podpowiedzi wyszukiwania nad historią przeglądania w wynikach paska adresu">
+
 <!ENTITY defaultSearchEngine.label "Domyślna wyszukiwarka">
 <!ENTITY chooseYourDefaultSearchEngine2.label "Wybierz domyślną wyszukiwarkę paska adresu i paska wyszukiwania.">
 <!ENTITY provideSearchSuggestions.label "Podpowiedzi wyszukiwania">
