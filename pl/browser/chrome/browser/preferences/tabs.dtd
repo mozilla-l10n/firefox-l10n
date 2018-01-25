@@ -9,8 +9,8 @@
 
 <!ENTITY newWindowsAsTabs.label "Otwieranie nowych kart zamiast nowych okien">
 <!ENTITY newWindowsAsTabs.accesskey "">
-<!ENTITY newWindowsAsTabs2.label "Otwieranie odnośników w kartach zamiast w nowych oknach">
-<!ENTITY newWindowsAsTabs2.accesskey "O">
+<!ENTITY newWindowsAsTabs3.label "Otwieranie odnośników w kartach zamiast w nowych oknach">
+<!ENTITY newWindowsAsTabs3.accesskey "O">
 
 <!ENTITY warnOnCloseMultipleTabs.label "Ostrzeganie przed zamknięciem wielu kart">
 <!ENTITY warnOnCloseMultipleTabs.accesskey "">
