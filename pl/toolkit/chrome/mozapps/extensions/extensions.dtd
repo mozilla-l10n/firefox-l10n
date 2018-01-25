@@ -5,6 +5,7 @@
 <!ENTITY addons.windowTitle                   "Dodatki">
 
 <!ENTITY search.placeholder                   "Szukaj we wszystkich dodatkach">
+<!ENTITY search.placeholder2 "Szukaj na stronie addons.mozilla.org">
 <!ENTITY search.buttonlabel "Szukaj">
 <!ENTITY search.commandkey                    "f">
 
