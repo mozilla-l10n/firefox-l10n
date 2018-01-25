@@ -7,18 +7,30 @@
 <!ENTITY engine.bookmarks.label     "na comharran-lìn agam">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Tabaichean fosgailte">
+<!ENTITY engine.tabs.title          "Liosta dhe na tha fosgailte air gach uidheam sioncronaichte">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "an eachdraidh agam">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Clàraidhean a-steach">
+<!ENTITY engine.logins.title        "Ainmean-cleachdaiche is faclan-faire a shàbhail thu">
 <!ENTITY engine.logins.accesskey    "l">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Roghainnean">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "na roghainnean agam">
 <!ENTITY engine.prefs.accesskey     "n">
+<!ENTITY engine.prefs.title         "Roghainnean coitcheann, prìobhaideachd is tèarainteachd a dh’atharraich thu">
 <!ENTITY engine.addons.label        "na tuilleadain">
+<!ENTITY engine.addons.title        "Leudachain is ùrlaran airson Firefox desktop">
 <!ENTITY engine.addons.accesskey    "a">
 <!ENTITY engine.addresses.label     "Seòlaidhean">
+<!ENTITY engine.addresses.title     "Seòlaidhean puist a shàbhail thu (desktop a-mhàin)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Cairtean-creideis">
+<!ENTITY engine.creditcards.title   "Ainmean, àireamhan is cinn-là a dh’fhalbhas an ùine air cairtean (desktop a-mhàin)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
@@ -50,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Clàraich a-steach airson ceangal ris a-rithist">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Cha do rinn thu clàradh a-steach.">
-<!ENTITY signIn.label                "Clàraich a-steach">
-<!ENTITY signIn.accesskey            "t">
-<!ENTITY profilePicture.tooltip      "Atharraich dealbh na pròifil">
-<!ENTITY verifiedManage.label        "Stiùirich an cunntas">
-<!ENTITY verifiedManage.accesskey    "n">
-<!ENTITY disconnect3.label           "Dì-cheangail...">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "Cha do rinn thu clàradh a-steach.">
+<!ENTITY signIn.label                 "Clàraich a-steach">
+<!ENTITY signIn.accesskey             "t">
+<!ENTITY profilePicture.tooltip       "Atharraich dealbh na pròifil">
+<!ENTITY verifiedManage.label         "Stiùirich an cunntas">
+<!ENTITY verifiedManage.accesskey     "n">
+<!ENTITY disconnect3.label            "Dì-cheangail...">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "Dearbh am post-d">
 <!ENTITY verify.accesskey            "m">
 <!ENTITY forget.label                "Dìochuimhnich am post-d seo">
 <!ENTITY forget.accesskey            "o">
+
+<!ENTITY resendVerification.label     "Cuir an dearbhadh às ùr">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Sguir dhen t-suidheachadh">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Thoir leat an lìon">
 <!ENTITY signedOut.description        "Sioncronaich an eachdraidh, na comharran-lìn, na faclan-faire, tuilleadain is roghainnean agad air feadh nan uidheaman agad.">

@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Fosgail uinneagan ùra ann an taba ùr 'na àite">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY newWindowsAsTabs3.label       "Fosgail ceanglaichean ann an tabaichean seach uinneagan ùra">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Thoir rabhadh mus dùin mi iomadh taba còmhla">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
