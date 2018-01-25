@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "無法分享此圖片">
 <!ENTITY save_as_pdf "儲存為 PDF">
 <!ENTITY print "列印">
+<!ENTITY view_page_source "檢視頁面原始碼">
 <!ENTITY find_in_page "在頁面中搜尋">
 <!ENTITY desktop_mode "開啟桌面版網站">
 <!ENTITY page "頁面">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "用新分頁開啟">
 <!ENTITY contextmenu_open_private_tab "用新隱私分頁開啟">
 <!ENTITY contextmenu_remove "移除">
-<!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
 <!ENTITY contextmenu_add_page_shortcut "新增頁面捷徑">
 <!ENTITY contextmenu_set_as_homepage "設為首頁">
 <!ENTITY contextmenu_share "分享">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "已移除頁面">
-
 <!ENTITY folder_removed "已移除資料夾">
 
 <!ENTITY bookmark_edit_title "編輯書籤">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "已經是最新版本的 &brandShortName;">
 <!ENTITY whatsnew_notification_summary "看看這個版本有什麼新鮮事">
-
-<!ENTITY promotion_add_to_homescreen "新增至裝置主畫面">
 
 <!ENTITY promotion_add_page_shortcut "新增頁面捷徑">
 
