@@ -486,7 +486,12 @@ chab mtñur">
 <!ENTITY contextmenu_add_page_shortcut "Byaw ik solchu yib sak chgooch">
 <!ENTITY contextmenu_set_as_homepage "Naamanchu wuliwuk chiich">
 <!ENTITY contextmenu_share "Mkwimu">
+<!ENTITY contextmenu_pasteandgo "Tublich ñwak yaam">
 <!ENTITY contextmenu_paste "Tublich">
+<!ENTITY contextmenu_copyurl "Jabchu tkweek tñur">
+<!ENTITY contextmenu_edit_bookmark "Chajaan">
+<!ENTITY contextmenu_subscribe "Jabchu maat tñuchu">
+<!ENTITY contextmenu_top_sites_edit "Chajaan">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -502,6 +507,7 @@ chab mtñur">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar2 "Pantaall tubtewchu ham sal aamch">
 
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
