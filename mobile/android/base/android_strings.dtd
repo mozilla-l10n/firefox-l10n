@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Nie je možné zdieľať tento obrázok">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
 <!ENTITY print "Tlačiť">
+<!ENTITY view_page_source "Zobraziť zdrojový kód stránky">
 <!ENTITY find_in_page "Hľadať na stránke">
 <!ENTITY desktop_mode "Verzia stránky pre počítače">
 <!ENTITY page "Stránka">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">
 <!ENTITY contextmenu_open_private_tab "Otvoriť na súkromnej karte">
 <!ENTITY contextmenu_remove "Odstrániť">
-<!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
 <!ENTITY contextmenu_add_page_shortcut "Pridať odkaz na stránku">
 <!ENTITY contextmenu_set_as_homepage "Nastaviť ako domovskú stránku">
 <!ENTITY contextmenu_share "Zdieľať">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Stránka odstránená">
-
 <!ENTITY folder_removed "Priečinok bol odstránený">
 
 <!ENTITY bookmark_edit_title "Úprava záložky">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Používate najnovšiu verziu prehliadača &brandShortName;">
 <!ENTITY whatsnew_notification_summary "Zistite, čo je nové v tejto verzii">
-
-<!ENTITY promotion_add_to_homescreen "Pridať na úvodnú obrazovku">
 
 <!ENTITY promotion_add_page_shortcut "Pridať odkaz na stránku">
 
