@@ -785,6 +785,13 @@
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić">
 
+<!ENTITY newTabControlled.message "Rozszerzenie zmieniło stronę nowej karty, ale można przywrócić poprzednią.">
+<!ENTITY newTabControlled.header.message "Strona nowej karty została zmieniona.">
+<!ENTITY newTabControlled.keepButton.label "Używaj nowej">
+<!ENTITY newTabControlled.keepButton.accesskey "n">
+<!ENTITY newTabControlled.restoreButton.label "Przywróć poprzednią">
+<!ENTITY newTabControlled.restoreButton.accesskey "P">
+
 <!ENTITY pageActionButton.tooltip "Interakcje">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj do paska adresu">
 <!ENTITY pageAction.removeFromUrlbar.label "Usuń z paska adresu">
