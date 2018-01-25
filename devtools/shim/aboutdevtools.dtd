@@ -21,9 +21,12 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "એલિમેન્ટ તપાસ કરવા માટે Firefox Developer Tools સક્ષમ કરો">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "વિકાસકર્તા સાધનોના નિરીક્ષક સાથે HTML અને CSS ને પરીક્ષણ અને સંપાદિત કરો.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
@@ -37,6 +40,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage
+          "નિરીક્ષક અને ડીબગર જેવા સાધનો સાથે HTML, CSS અને JavaScript સાથેનું પરીક્ષણ, સંપાદન અને ડીબગ કરો.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
@@ -69,8 +74,10 @@
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Mozilla સાથે મારી માહિતી સંભાળવાથી હું સમંત છું, આ <a class='external' href='https://www.mozilla.org/privacy/'>ગોપનીયતા નીતિ</a>માં વર્ણવ્યા પ્રમાણે.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "ઉમેદવારી નોંધાવો">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "આભાર!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "જો તમે અગાઉ કોઈ Mozilla-સંબંધિત ન્યૂઝલેટરમાં ઉમેદવારીની પુષ્ટિ કરી નથી, તો તમારે આમ કરવું પડશે. કૃપા કરીને અમારા તરફથી ઇમેઇલ માટે તમારા ઇનબૉક્સ અથવા તમારા સ્પામ ફિલ્ટરની તપાસ કરો.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox વિકાસકર્તા આવૃત્તિ">
+<!ENTITY  aboutDevtools.footer.message "ફક્ત વિકાસકર્તા સાધનો કરતાં વધુ જોઈએ છીએ? Firefox બ્રાઉઝર તપાસો જે ખાસ કરીને વિકાસકર્તાઓ અને આધુનિક કાર્ય પ્રવાહ માટે બનાવવામાં આવેલ છે.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
