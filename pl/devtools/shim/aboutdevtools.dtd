@@ -10,12 +10,14 @@
 <!ENTITY aboutDevtools.enable.inspectElementMessage "Badaj i redaguj kod HTML i CSS za pomocą inspektora narzędzi dla programistów.">
 <!ENTITY aboutDevtools.enable.keyShortcutMessage "Użyto skrótu narzędzi dla programistów. Jeśli zrobiono to przez pomyłkę, to można zamknąć tę kartę.">
 <!ENTITY aboutDevtools.enable.menuMessage "Badaj, redaguj i debuguj kod HTML, CSS i JavaScript za pomocą takich narzędzi, jak inspektor i debuger.">
+<!ENTITY aboutDevtools.enable.menuMessage2 "Udoskonalaj kod HTML, CSS i JavaScript strony za pomocą takich narzędzi, jak inspektor i debuger.">
 
 <!ENTITY aboutDevtools.enable.commonMessage "Narzędzia dla programistów Firefoksa są domyślnie wyłączone, aby użytkownik miał więcej kontroli nad przeglądarką.">
 
 <!ENTITY aboutDevtools.enable.learnMoreLink "Więcej informacji o narzędziach dla programistów">
 <!ENTITY aboutDevtools.enable.enableButton "Włącz narzędzia dla programistów">
 <!ENTITY aboutDevtools.enable.closeButton "Zamknij tę stronę">
+<!ENTITY aboutDevtools.enable.closeButton2 "Zamknij tę kartę">
 <!ENTITY aboutDevtools.welcome.title "Witamy w narzędziach dla programistów Firefoksa!">
 
 <!ENTITY aboutDevtools.newsletter.title "Newsletter Mozilli dla programistów">
