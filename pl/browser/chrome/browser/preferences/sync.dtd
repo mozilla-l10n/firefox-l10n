@@ -5,18 +5,26 @@
 <!ENTITY engine.bookmarks.label "Zakładki">
 <!ENTITY engine.bookmarks.accesskey "">
 <!ENTITY engine.tabs.label2 "Karty">
+<!ENTITY engine.tabs.title "Lista otwartych stron na wszystkich synchronizowanych urządzeniach">
 <!ENTITY engine.tabs.accesskey "">
 <!ENTITY engine.history.label "Historia">
 <!ENTITY engine.history.accesskey "">
 <!ENTITY engine.logins.label "Dane logowania">
+<!ENTITY engine.logins.title "Zachowane nazwy użytkownika i hasła">
 <!ENTITY engine.logins.accesskey "">
-<!ENTITY engine.prefs.label "Ustawienia">
-<!ENTITY engine.prefs.accesskey "">
+<!ENTITY engine.prefsWin.label "Opcje">
+<!ENTITY engine.prefsWin.accesskey "O">
+<!ENTITY engine.prefs.label "Preferencje">
+<!ENTITY engine.prefs.accesskey "P">
+<!ENTITY engine.prefs.title "Zmienione ustawienia ogólne, prywatności i bezpieczeństwa">
 <!ENTITY engine.addons.label "Dodatki">
+<!ENTITY engine.addons.title "Rozszerzenia i motywy dla Firefoksa na komputery">
 <!ENTITY engine.addons.accesskey "">
 <!ENTITY engine.addresses.label "Adresy">
+<!ENTITY engine.addresses.title "Zachowane adresy pocztowe (tylko na komputerach)">
 <!ENTITY engine.addresses.accesskey "">
 <!ENTITY engine.creditcards.label "Dane kart płatniczych">
+<!ENTITY engine.creditcards.title "Nazwiska, numery i okresy ważności (tylko na komputerach)">
 <!ENTITY engine.creditcards.accesskey "">
 
 <!ENTITY fxaSyncDeviceName.label "Nazwa urządzenia">
