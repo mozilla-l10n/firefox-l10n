@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Si ga\&apos;ue duyingô\&apos; ñadu\&apos;ua ñaj na">
 <!ENTITY save_as_pdf "Na\&apos;ninj nga PDF">
 <!ENTITY print "nari\&apos; ñadu\&apos;ua">
+<!ENTITY view_page_source "Gini\&apos;iaj Da\&apos;nga\&apos; Ñaan">
 <!ENTITY find_in_page "Nana\&apos;ui\&apos; riñan ñanj">
 <!ENTITY desktop_mode "Gachìn\&apos; riña ñanj sinïï">
 <!ENTITY page "Ñanj">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Na\&apos;nïn\&apos; riña a\&apos;ngô rakïj ñaj nakàa">
 <!ENTITY contextmenu_open_private_tab "Gana\&apos;ni\&apos; riñan ñanj huii">
 <!ENTITY contextmenu_remove "Dure\&apos;">
-<!ENTITY contextmenu_add_to_launcher "Gachrun riñan gayi\&apos;i">
 <!ENTITY contextmenu_add_page_shortcut "Nuto\&apos; sa ginikaj nikà chrè gun\&apos; riña pajina">
 <!ENTITY contextmenu_set_as_homepage "gachrun gahuin nan paginâ riña ayi\&apos;ìt">
 <!ENTITY contextmenu_share "Duyingo\&apos;">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Ñanj ngà nare\&apos;">
-
 <!ENTITY folder_removed "Ganare\&apos; karpeta">
 
 <!ENTITY bookmark_edit_title "Nachrun\&apos; \&apos;ngo sa arajsun nichrò\&apos; doj">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; nga ganahuin naka">
 <!ENTITY whatsnew_notification_summary "Ni\&apos;iaj daj hua versión nan">
-
-<!ENTITY promotion_add_to_homescreen "Nutò\&apos; gachrun riñan gayi\&apos;i">
 
 <!ENTITY promotion_add_page_shortcut "Nuto\&apos; sa ginikaj nikà chrè gun\&apos; riña pajina">
 
