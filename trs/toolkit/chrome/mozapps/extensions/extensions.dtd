@@ -10,38 +10,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- global warnings -->
-
-
-
-
-
 
 <!-- categories / views -->
 
-
-
 <!-- addon updates -->
-
-
-
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -49,105 +25,29 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 
-
-
-
-
-
-
-
-
-
-
 <!-- addon actions -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Nagui’iaj">
-
 <!ENTITY cmd.showPreferencesUnix.label        "Nagui’iaj">
-
-
-
-
-
-
-
 
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-
 <!-- detail view -->
-
-
-
 <!ENTITY detail.numberOfDownloads.label       "Nadunínj">
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- ratings -->
+
 <!-- download/install progress -->
 
+
 <!-- list sorting -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
@@ -160,23 +60,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY addon.checkingForUpdates.label       " Nana’uij sa naka doj…">
-
-
-
-
-
 
 
 
@@ -186,27 +70,17 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Gahuin chrūn doj">
+<!ENTITY experiment.info.learnmore.accesskey "L">
 
-
-
-
-
+<!ENTITY setting.learnmore "Gahuin chrūn doj…">
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
 
-
-
-
-
-
-
-
+<!ENTITY pluginDeprecation.learnMore "Gahuin chrun doj">
 
