@@ -54,7 +54,7 @@
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Tatz'ib'aj rub'i' ri ruk'uxasamaj awokem (achi'el, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServer.label "K'uxasamaj Nok:">
+<!ENTITY incomingServer.label "K'uxasamaj Okem:">
 <!ENTITY incomingServer.accesskey "K">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Tatz'ib'aj rub'i' winäq okem ya'on ruma ri ya'öl ataqoya'l (achi'el, &quot;jsmith&quot;).">
@@ -62,7 +62,7 @@
 <!ENTITY incomingUsername.accesskey "W">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Tatz'ib'aj rub'i' ri ruk'uxasamaj atzijol (NNTP) (achi'el, &quot;news.example.net&quot;).">
-<!ENTITY newsServerLabel.label "Ruk'uxasamaj Tzijol:">
+<!ENTITY newsServerLabel.label "K'uxasamaj Tzijol:">
 <!ENTITY newsServerLabel.accesskey "R">
 
 <!-- Entities for Outgoing Server page -->
@@ -70,6 +70,11 @@
 <!ENTITY outgoingTitle.label "Retamab'al Ruk'uxasamaj Elem">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Tatz'ib'aj rub'i' ri ruk'uxasamaj awelem (SMTP) (achi'el, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "K'uxasamaj Elem:">
+<!ENTITY outgoingServer.accesskey "K">
+<!ENTITY outgoingUsername.description "Tatz'ib'aj rub'i' ri elem winäq ya'on ruma ri ya'öl ataqoya'l (jantape' junam rik'in ri okem winäq).">
+<!ENTITY outgoingUsername.label "Rub'i' Elem Winäq:">
+<!ENTITY outgoingUsername.accesskey "W">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
