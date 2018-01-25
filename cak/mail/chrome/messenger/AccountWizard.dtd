@@ -4,12 +4,18 @@
 
 <!-- Entities for AccountWizard -->
 
+<!ENTITY windowTitle.label "Ruto'onel Rub'i' Taqoya'l">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
+<!ENTITY accountSetupInfo2.label "Richin ye'ak'ül taq rutzijol, nab'ey k'o chi nab'än runuk'ulem jun rub'i' taqoya'l.">
+<!ENTITY accountTypeTitle.label "Tib'an Runuk'ulem jun K'ak'a' Rub'i' Taqoya'l">
+<!ENTITY accountTypeDesc2.label "Re To'onel re' xkerumöl rajowaxik taq etamab'äl richin nib'an runuk'ulem jun rub'i' taqoya'l. We man awetaman ta achike etamab'äl xtik'utüx chawe, katzijon rik'in ri Runuk'samajel Q'inoj o ri Ya'öl K'amaya'l.">
+<!ENTITY accountTypeDirections.label "Tacha' ri ruwäch chi rub'i' taqoya'l nawajo' nab'än runuk'ulem:">
 <!ENTITY accountTypeMail.label "Email rub'i' taqoya'l">
 <!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeNews.label "Rub'i' rutaqoya'l tzijol">
 
 <!-- Entities for Identity page -->
 

@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "t">
 <!ENTITY addIMAccountButton.label "Titz'aqatisäx Chat Rub'i' Taqoya'l…">
 <!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addFeedAccountButton.label "Titz'aqatisäx Ajb'ey Rub'i' Taqoya'l…">
+<!ENTITY addFeedAccountButton.accesskey "A">
 <!ENTITY addOtherAccountButton.label "Titz'aqatisäx jun chik Rub'i' Taqoya'l…">
 <!ENTITY addOtherAccountButton.accesskey "c">
 <!ENTITY setDefaultButton.label "Tichap achi'el ri K'o wi">
@@ -29,3 +31,4 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 <!ENTITY accountManager.size "width: 105ch; height: 55em;">
+<!ENTITY accountTree.width "ruwa: 32ch;">
