@@ -32,6 +32,7 @@
 <!ENTITY sendLinkToDevice.label "Prześlij odnośnik do">
 <!ENTITY sendLinkToDevice.accesskey "P">
 <!ENTITY sendToDeviceFeedback.label "Przesłano!">
+<!ENTITY sendToDeviceOfflineFeedback.label "W kolejce (tryb offline)">
 <!ENTITY moveToNewWindow.label "Przenieś do nowego okna">
 <!ENTITY moveToNewWindow.accesskey "o">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
