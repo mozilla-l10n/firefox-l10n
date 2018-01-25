@@ -325,6 +325,7 @@
 <!ENTITY appMenuRemoteTabs.signin.label "Zaloguj się do synchronizacji">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Zarządzaj urządzeniami…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Wyświetl karty z innych urządzeń w panelu bocznym">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Połącz inne urządzenie">
 
 <!ENTITY appMenuRecentHighlights.label "Ostatnio wyróżnione">
 
@@ -654,6 +655,7 @@
 <!ENTITY syncedTabs.sidebar.openprefs.label "Otwórz ustawienia synchronizacji">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Włącz synchronizację kart, aby wyświetlać listę otwartych na innych urządzeniach.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder "Szukaj w synchronizowanych kartach">
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice "Połącz inne urządzenie">
 
 <!ENTITY syncedTabs.context.open.label "Otwórz">
 <!ENTITY syncedTabs.context.open.accesskey "O">
