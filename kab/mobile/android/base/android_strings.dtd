@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Ur izmir ara ad yebḍu tugna-agi">
 <!ENTITY save_as_pdf "Kles d PDF">
 <!ENTITY print "Siggez">
+<!ENTITY view_page_source "Wali tangalt taɣbalut n usebter">
 <!ENTITY find_in_page "Nadi deg usebter">
 <!ENTITY desktop_mode "Suter asmel n tnarit">
 <!ENTITY page "Asebter">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Ldi ɣef yiccer amaynut">
 <!ENTITY contextmenu_open_private_tab "Ldi deg iccer uslig">
 <!ENTITY contextmenu_remove "Kkes">
-<!ENTITY contextmenu_add_to_launcher "Rnu ɣer ugilal agejdan">
 <!ENTITY contextmenu_add_page_shortcut "Rnu anegzum n usebter">
 <!ENTITY contextmenu_set_as_homepage "Sbadu d asebter agejdan">
 <!ENTITY contextmenu_share "Bḍu">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Asbter yettwakkes">
-
 <!ENTITY folder_removed "Akaram ittwakes">
 
 <!ENTITY bookmark_edit_title "Ẓreg tacreṭ n usebter">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ittwaleqqem">
 <!ENTITY whatsnew_notification_summary "Wali amaynut ɣef lqem-agi">
-
-<!ENTITY promotion_add_to_homescreen "Rnu ɣer ugdil agejdan">
 
 <!ENTITY promotion_add_page_shortcut "Rnu anegzum n usebter">
 
