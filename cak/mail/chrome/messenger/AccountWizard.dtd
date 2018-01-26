@@ -79,18 +79,24 @@
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+<!ENTITY modifyOutgoing.suffix "Yatikïr ye'ajäl ri ruk'uxasamaj elem pa kinuk'ulem rub'i' taqoya'l.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
+<!ENTITY haveSmtp1.prefix "Ri ruk'uxasamaj awokem k'o (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot;, ja ri' xtokisäx.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
+<!ENTITY haveSmtp2.prefix "Ri ruk'uxasamaj awokem k'o (SMTP) rub'i' winäq, &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot;, ja ri' xtokisäx.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
+<!ENTITY haveSmtp3.prefix "Ri ruk'uxasamaj (SMTP) awokem, &quot;">
 
 <!-- Entities for Account name page -->
 
