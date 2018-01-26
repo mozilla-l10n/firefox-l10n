@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " için Firefox’u indirin.">
+
+<!ENTITY mobilepromo.singledevice      "Başka bir cihaz bağla">
+<!ENTITY mobilepromo.multidevice       "Cihazları yönet">
