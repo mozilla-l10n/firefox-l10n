@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " för att synkronisera med din mobila enhet.">
+
+<!ENTITY mobilepromo.singledevice      "Anslut en annan enhet">
+<!ENTITY mobilepromo.multidevice       "Hantera enheter">
