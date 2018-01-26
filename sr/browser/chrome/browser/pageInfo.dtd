@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Дозволе за:">
 <!ENTITY  permPlugins           "Активирај прикључке">
 
-<!ENTITY  permClearStorage           "Очисти складиште">
-<!ENTITY  permClearStorage.accesskey "ч">
-
 <!ENTITY  securityTab           "Безбедност">
 <!ENTITY  securityTab.accesskey "Б">
 <!ENTITY  securityView.certView "Преглед сертификата">
@@ -74,7 +71,7 @@
 <!ENTITY  securityView.identity.owner    "Власник:">
 <!ENTITY  securityView.identity.domain   "Веб сајт:">
 <!ENTITY  securityView.identity.verifier "Проверио:">
-<!ENTITY  securityView.identity.validity "Истиче у:">
+<!ENTITY  securityView.identity.validity "Истиче:">
 
 <!ENTITY  securityView.privacy.header                   "Приватност и историјат">
 <!ENTITY  securityView.privacy.history                  "Да ли сте раније посетили овај сајт?">
