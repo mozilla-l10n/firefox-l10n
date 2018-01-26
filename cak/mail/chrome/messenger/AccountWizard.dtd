@@ -97,14 +97,23 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ri ruk'uxasamaj (SMTP) awokem, &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot;, junam rik'in ri ruk'uxasamaj okem, xtokisäx ri rub'i' winäq richin xtib'an okem chupam.">
 
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Rub'i' Taqoya'l">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Tatz'ib'aj ri b'i'aj mawajo' naya' chi re ri rub'i' taqoya'l re' (achi'el, &quot;Rutaqoya'l Samaj&quot;, &quot;Rutaqoya'l Jay&quot; o &quot;Rutaqoya'l taq Tzijol&quot;).">
 <!ENTITY accnameLabel.label "Rub'i' Taqoya'l:">
 <!ENTITY accnameLabel.accesskey "T">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "¡Kakikot!">
+<!ENTITY completionText.label "Tanik'oj chi ütz re etamab'äl re'.">
+<!ENTITY serverTypePrefix.label "Ruwäch K'uxasamaj Okem:">
+<!ENTITY serverNamePrefix.label "Rub'i' K'uxasamaj Okem:">
+<!ENTITY smtpServerNamePrefix.label "Rub'i' K'uxasamaj Elem (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Rub'i' Kik'uxasamaj taq Tzijol (NNTP):">
+<!ENTITY downloadOnLogin.label "Keqasäx taq tzijol wakami">
+<!ENTITY downloadOnLogin.accesskey "K">
