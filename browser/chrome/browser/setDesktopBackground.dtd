@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY position.label             "განთავსება:">
-<!ENTITY tile.label                 "ფილა">
+<!ENTITY tile.label                 "მოზაიკურად">
 <!ENTITY center.label               "ცენტრში">
 <!ENTITY stretch.label              "გაჭიმვა">
 <!ENTITY fill.label                 "შევსება">
