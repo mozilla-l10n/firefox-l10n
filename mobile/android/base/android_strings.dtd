@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "ამ გამოსახულების გაზიარება ვერ ხერხდება">
 <!ENTITY save_as_pdf "შენახვა PDF ფორმატში">
 <!ENTITY print "დაბეჭდვა">
+<!ENTITY view_page_source "გვერდის წყაროს ჩვენება">
 <!ENTITY find_in_page "პოვნა გვერდზე">
 <!ENTITY desktop_mode "საიტის სრული ვერსია">
 <!ENTITY page "გვერდი">
