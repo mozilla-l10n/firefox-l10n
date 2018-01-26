@@ -168,7 +168,7 @@
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "არა">
 <!ENTITY noneCmd.accesskey "N">
-<!ENTITY listBulletCmd.label "სიმნოლო">
+<!ENTITY listBulletCmd.label "დაუნომრავი">
 <!ENTITY listBulletCmd.accesskey "B">
 <!ENTITY listNumberedCmd.label "ნუმერაცია">
 <!ENTITY listNumberedCmd.accesskey "m">
@@ -315,7 +315,7 @@
 <!ENTITY boldToolbarCmd.tooltip "მუქი">
 <!ENTITY italicToolbarCmd.tooltip "კურსივი">
 <!ENTITY underlineToolbarCmd.tooltip "ხაზგასმული">
-<!ENTITY bulletListToolbarCmd.tooltip "სიმბოლოიანი სიის ჩადგმა ან ამოღება">
+<!ENTITY bulletListToolbarCmd.tooltip "დაუნომრავი სიის შექმნა, ან ამოღება">
 <!ENTITY numberListToolbarCmd.tooltip "გადნომრილი სიის ჩადგმა ან ამოღება">
 <!ENTITY outdentToolbarCmd.tooltip "გამოწეული აბზაცი (მარცხნივ)">
 <!ENTITY indentToolbarCmd.tooltip "ჩვეულებრივი აბზაცი (მარჯვნივ)">
