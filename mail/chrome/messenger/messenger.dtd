@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Συζήτηση">
 <!ENTITY goChatCmd.accesskey "σ">
-<!ENTITY goChatCmd.key "Ζ">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Μήνυμα με αστέρι">
 <!ENTITY prevStarredMsgCmd.accesskey "σ">
@@ -367,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "ξ">
 <!ENTITY editDraftMsgCmd.label "Επεξεργασία πρόχειρου μηνύματος">
 <!ENTITY editDraftMsgCmd.accesskey "χ">
+<!ENTITY editTemplateMsgCmd.label "Επεξεργασία Προτύπου">
+<!ENTITY editTemplateMsgCmd.accesskey "Π">
 <!ENTITY newMsgFromTemplateCmd.label "Νέο μήνυμα βάσει προτύπου">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Δημιουργία Φίλτρου από μήνυμα...">
@@ -760,6 +761,8 @@
 <!ENTITY contextEditMsgAsNew.label "Τροποποίηση ως νέου">
 <!ENTITY contextEditMsgAsNew.accesskey "ω">
 <!ENTITY contextEditDraftMsg.label "Τροποποίηση πρόχειρου μηνύματος">
+<!ENTITY contextEditTemplate.label "Επεξεργασία Προτύπου">
+<!ENTITY contextEditTemplate.accesskey "Π">
 <!ENTITY contextArchive.label "Αρχειοθέτηση">
 <!ENTITY contextArchive.accesskey "χ">
 <!ENTITY contextReplySender.label "Απάντηση μόνο στον αποστολέα">
