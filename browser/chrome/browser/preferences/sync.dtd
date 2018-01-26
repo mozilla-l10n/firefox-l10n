@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " por speguli kun via portebla aparato.">
+
+<!ENTITY mobilepromo.singledevice      "Konekti alian aparaton">
+<!ENTITY mobilepromo.multidevice       "Administri aparatojn">
