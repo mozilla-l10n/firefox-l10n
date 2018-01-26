@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY position.label             "Position:">
-<!ENTITY tile.label                 "Quadrellatura">
+<!ENTITY tile.label                 "Mosaico">
 <!ENTITY center.label               "Centro">
 <!ENTITY stretch.label              "Tender">
 <!ENTITY fill.label                 "Completar">
