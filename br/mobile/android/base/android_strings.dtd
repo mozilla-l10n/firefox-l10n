@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "N\&apos;haller ket rannañ ar skeudenn-mañ">
 <!ENTITY save_as_pdf "Enrollañ evel PDF">
 <!ENTITY print "Moullañ">
+<!ENTITY view_page_source "Gwelout tarzh ar bajennad">
 <!ENTITY find_in_page "Kavout er bajennad">
 <!ENTITY desktop_mode "Lec\&apos;hienn urzhiataer">
 <!ENTITY page "Pajenn">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Digeriñ war un ivinell nevez">
 <!ENTITY contextmenu_open_private_tab "Digeriñ war un ivinell brevez">
 <!ENTITY contextmenu_remove "Dilemel">
-<!ENTITY contextmenu_add_to_launcher "Ouzhpennañ d\&apos;ar skramm pennañ">
 <!ENTITY contextmenu_add_page_shortcut "Ouzhpennañ ur verradenn bajenn">
 <!ENTITY contextmenu_set_as_homepage "Dibab ur bennbajenn">
 <!ENTITY contextmenu_share "Rannañ">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Pajenn dilamet">
-
 <!ENTITY folder_removed "Teuliad dilamet">
 
 <!ENTITY bookmark_edit_title "Embann ar sined">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Hizivaet eo &brandShortName;">
 <!ENTITY whatsnew_notification_summary "Kavit petra zo nevez en handelv-mañ">
-
-<!ENTITY promotion_add_to_homescreen "Ouzhpennañ d\&apos;ar skramm degemer">
 
 <!ENTITY promotion_add_page_shortcut "Ouzhpennañ ur verradenn bajenn">
 
