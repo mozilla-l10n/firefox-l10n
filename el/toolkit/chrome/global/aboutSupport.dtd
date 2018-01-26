@@ -25,6 +25,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Έκδοση">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Λογισμικό ασφαλείας">
+<!ENTITY aboutSupport.securitySoftwareType "Τύπος">
+<!ENTITY aboutSupport.securitySoftwareName "Όνομα">
+
 <!ENTITY aboutSupport.featuresTitle "Χαρακτηριστικά του &brandShortName;">
 <!ENTITY aboutSupport.featureName "Όνομα">
 <!ENTITY aboutSupport.featureVersion "Έκδοση">
@@ -156,3 +160,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "Ρυθμός">
 <!ENTITY aboutSupport.mediaDeviceLatency "Καθυστέρηση">
 
+<!ENTITY aboutSupport.intlAppTitle "Ρυθμίσεις εφαρμογής">
