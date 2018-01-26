@@ -155,7 +155,7 @@
 <!ENTITY recentFolders.accesskey "R">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label "სორტირება">
+<!ENTITY sortMenu.label "დალაგება">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "თარიღით">
 <!ENTITY sortByDateCmd.accesskey "e">
@@ -301,7 +301,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "სასაუბრო">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "ალმიანი წერილი">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "დასტა">
@@ -483,7 +482,7 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "ფოსტის მიღება">
-<!ENTITY newMsgButton.label "ახლის შექმნა">
+<!ENTITY newMsgButton.label "შედგენა">
 <!ENTITY replyButton.label "პასუხი">
 <!ENTITY replyAllButton.label "პასუხი ყველას">
 <!ENTITY replyListButton.label "პასუხი ჯგუფს">
@@ -549,7 +548,7 @@
 <!ENTITY chatButton.tooltip "სასაუბრო დაფის ჩვენება">
 <!ENTITY tagButton.tooltip "წერილების დაჭდევება">
 <!ENTITY compactButton.tooltip "წაშლილი წერილების ამოღება შერჩეული დასტიდან">
-<!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
+<!ENTITY appmenuButton1.tooltip "&brandShortName; მენიუს ჩვენება">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "გადაგზავნა შიდა ტექსტის სახით">
@@ -648,6 +647,23 @@
 <!ENTITY attachmentColumn.label "დანართები">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY fromColumn2.tooltip "გამომგზავნის მიხედვით">
+<!ENTITY recipientColumn2.tooltip "მიმღების მიხედვით">
+<!ENTITY correspondentColumn2.tooltip "მომწოდებლის მიხედვით">
+<!ENTITY subjectColumn2.tooltip "თემის მიხედვით">
+<!ENTITY dateColumn2.tooltip "თარიღის მიხედვით">
+<!ENTITY priorityColumn2.tooltip "უპირატესობის მიხედვით">
+<!ENTITY tagsColumn2.tooltip "ჭდეების მიხედვით">
+<!ENTITY accountColumn2.tooltip "ანგარიშის მიხედვით">
+<!ENTITY statusColumn2.tooltip "მდგომარეობის მიხედვით">
+<!ENTITY sizeColumn2.tooltip "ზომის მიხედვით">
+<!ENTITY junkStatusColumn2.tooltip "ჯართად მიჩნეულის მიხედვით">
+<!ENTITY readColumn2.tooltip "წაკითხვის მიხედვით">
+<!ENTITY receivedColumn2.tooltip "მიღების თარიღის მიხედვით">
+<!ENTITY starredColumn2.tooltip "ვარსკვლავის მიხედვით">
+<!ENTITY locationColumn2.tooltip "მდებარეობის მიხედვით">
+<!ENTITY idColumn2.tooltip "მიღების თანმიმდევრობით">
+<!ENTITY attachmentColumn2.tooltip "დანართების მიხედვით">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "წერილის ახალ ფანჯარაში გახსნა">
