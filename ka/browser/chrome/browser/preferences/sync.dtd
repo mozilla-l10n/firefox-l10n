@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS-ისთვის">
 
 <!ENTITY mobilePromo3.end              " თქვენს მობილურ მოწყობილობასთან სინქრონიზაციისთვის.">
+
+<!ENTITY mobilepromo.singledevice      "სხვა მოწყობილობის დაკავშირება">
+<!ENTITY mobilepromo.multidevice       "მოწყობილობების მართვა">
