@@ -495,15 +495,25 @@ chab mtñur">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_add_search_engine "Chubowchu chŕmeechu sal chmii">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Jabchu chjankich paychak chmiich">
+<!ENTITY unpinned_page_from_top_sites "Jabchu jankich ujinch">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Ktchech muul wiytem]">
+<!ENTITY doorhanger_login_edit_title "Jaab namanchu chajancu">
 <!ENTITY doorhanger_login_edit_username_hint "M´mulha myoka">
 <!ENTITY doorhanger_login_edit_password_hint "Ŕ\&apos; amu">
+<!ENTITY doorhanger_login_edit_toggle "Muul chmii jabchu paa chu ubu">
+<!ENTITY doorhanger_login_select_message "Paa muul jabchu &formatS; ntpach tkweek tñur?">
+<!ENTITY doorhanger_login_select_toast_copy "Muul jabchu tkweek tñur ch chkwwachu hal chmiich">
+<!ENTITY doorhanger_login_select_action_text "Namaancu jkaay yooch">
+<!ENTITY doorhanger_login_select_title "Muul chmii jabch tkweek tñurch see">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
