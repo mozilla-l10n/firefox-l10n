@@ -7,7 +7,7 @@
    - a regular (non-private) browsing window. -->
 
 <!ENTITY privatebrowsingpage.title.private       "თქვენ იყენებთ პირად ფანჯარას">
-<!ENTITY privatebrowsingpage.title.normal        "გსურთ, პირადი დათვალიერების დაწყება?">
+<!ENTITY privatebrowsingpage.title.normal        "გსურთ პირადი დათვალიერების დაწყება?">
 
 <!ENTITY privatebrowsingpage.status.private      "&brandShortName; არ დაიმახსოვრებს ამ ფანჯრის ისტორიას.">
 <!ENTITY privatebrowsingpage.status.normal       "ამჟმად პირად ფანჯარაში არ იმყოფებით.">
