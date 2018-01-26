@@ -25,4 +25,7 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "&brandShortName; პროგრამის შესახებ">
-<!ENTITY aboutMenuCmd.accesskey "A">
+<!ENTITY aboutMenuCmd.accesskey "ბ">
+
+<!ENTITY aboutMenuCmd2.label "&brandFullName; პროგრამის შესახებ">
+<!ENTITY aboutMenuCmd2.accesskey "ბ">
