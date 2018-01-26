@@ -97,7 +97,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js tercihleri">
 <!ENTITY aboutSupport.userJSDescription "Profil klasörünüz &brandShortName; tarafından oluşturulmamış tercihler içeren bir <a id='prefs-user-js-link'>user.js dosyası</a> içeriyor.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "Önemli kilitlenmiş tercihler">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Kilitlenmiş önemli tercihler">
 <!ENTITY aboutSupport.lockedPrefsName "Adı">
 <!ENTITY aboutSupport.lockedPrefsValue "Değer">
 
@@ -111,7 +111,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsIncrementalGC "Artırımlı GC">
 
 <!ENTITY aboutSupport.a11yTitle "Erişilebilirlik">
-<!ENTITY aboutSupport.a11yActivated "Etkinleştirildi">
+<!ENTITY aboutSupport.a11yActivated "Etkinleştirildi mi?">
 <!ENTITY aboutSupport.a11yForceDisabled "Erişilebilirliği engelle">
 <!ENTITY aboutSupport.a11yHandlerUsed "Erişilebilir işleyici kullanımı">
 <!ENTITY aboutSupport.a11yInstantiator "Erişilebilirlik temsilcisi">
