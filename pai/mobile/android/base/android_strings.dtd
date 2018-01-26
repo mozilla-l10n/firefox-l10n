@@ -492,9 +492,13 @@ chab mtñur">
 <!ENTITY contextmenu_edit_bookmark "Chajaan">
 <!ENTITY contextmenu_subscribe "Jabchu maat tñuchu">
 <!ENTITY contextmenu_top_sites_edit "Chajaan">
+<!ENTITY contextmenu_top_sites_pin "Baamchu paychak chmii">
+<!ENTITY contextmenu_top_sites_unpin "Baamchu lojch">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Jankich paychak chmiich">
+<!ENTITY contextmenu_unpin_from_top_sites "Jankich ujiñch">
 <!ENTITY contextmenu_add_search_engine "Chubowchu chŕmeechu sal chmii">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
