@@ -172,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Σ">
 <!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία σελιδοδείκτη">
-<!ENTITY bookmarkThisPageCmd.commandkey "π">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
@@ -188,13 +188,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "Φ">
 
 <!ENTITY backCmd.label                "Πίσω">
+<!ENTITY backCmd.accesskey            "Π">
 <!ENTITY backButton.tooltip           "Μετάβαση μια σελίδα πίσω">
 <!ENTITY forwardCmd.label             "Μπροστά">
+<!ENTITY forwardCmd.accesskey         "Μ">
 <!ENTITY forwardButton.tooltip        "Μετάβαση μια σελίδα μπροστά">
 <!ENTITY backForwardButtonMenu.tooltip "Δεξί κλικ ή τράβηγμα προς τα κάτω για προβολή ιστορικού">
 <!ENTITY backForwardButtonMenuMac.tooltip "Τράβηγμα προς στα κάτω για προβολή ιστορικού">
 <!ENTITY reloadCmd.label              "Ανανέωση">
+<!ENTITY reloadCmd.accesskey          "Α">
 <!ENTITY stopCmd.label                "Διακοπή">
+<!ENTITY stopCmd.accesskey            "Δ">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων">
 <!ENTITY printButton.label            "Εκτύπωση">
