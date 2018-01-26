@@ -109,7 +109,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "ეკრანული სახელი">
 <!ENTITY displayNameCmd.accesskey                       "d">
-<!ENTITY sortMenu.label                                 "დახარისხება">
+<!ENTITY sortMenu.label                                 "დალაგება">
 <!ENTITY sortMenu.accesskey                             "S">
 
 <!-- Tools Menu -->
@@ -141,7 +141,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY abPropertiesContext.accesskey                  "რ">
 <!ENTITY editMailingListContext.label                   "სიის ჩასწორება">
 <!ENTITY editMailingListContext.accesskey               "ს">
-<!ENTITY newmsgButton.label                             "ჩაწერა">
+<!ENTITY newmsgButton.label                             "შედგენა">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "მყისი შეტყობინება">
 <!ENTITY newIM.accesskey                                "I">

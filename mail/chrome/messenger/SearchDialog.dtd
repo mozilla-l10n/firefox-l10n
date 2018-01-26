@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "წერილების ძიება">
 <!ENTITY results.label               "შედეგები">
-<!ENTITY moveHereMenu.label          "შენახვის ადგილი">
-<!ENTITY moveHereMenu.accesskey      "H">
 <!ENTITY moveButton.label            "ფაილი">
 <!ENTITY moveButton.accesskey        "T">
 <!ENTITY closeCmd.key                "W"> 
@@ -57,22 +55,19 @@
 <!ENTITY idColumn.label "მიღების რიგი">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "დაწკაპეთ სვეტების საჩვენებლად შესარჩევად">
-<!ENTITY threadColumn.tooltip "დაწკაპეთ წერილების საქაღალდეების საჩვენებლად"> 
-<!ENTITY fromColumn.tooltip "დაწკაპეთ გამგზავნით სორტირებისათვის">
-<!ENTITY recipientColumn.tooltip "დაწკაპეთ მიმღებით სორტირებისათვის">
-<!ENTITY subjectColumn.tooltip "დაწკაპეთ თემით სორტირებისათვის">
-<!ENTITY dateColumn.tooltip "დაწკაპეთ თარიღით სორტირებისათვის">
-<!ENTITY priorityColumn.tooltip "დაწკაპეთ პრიორიტეტით სორტირებისათვის">
-<!ENTITY tagsColumn.tooltip "დაწკაპეთ ჭდეებით სორტირებისათვის">
-<!ENTITY accountColumn.tooltip "დაწკაპეთ ანგარიშით სორტირებისათვის">
-<!ENTITY statusColumn.tooltip "დაწკაპეთ სტატუსით სორტირებისათვის">
-<!ENTITY sizeColumn.tooltip "დაწკაპეთ ზომით სორტირებისათვის">
-<!ENTITY junkStatusColumn.tooltip "დაწკაპეთ ჯართის სტატუსით სორტირებისათვის">
-<!ENTITY unreadColumn.tooltip "საქაღალდეში წასაკითხი წერილების რაოდენობა">
-<!ENTITY totalColumn.tooltip "საქაღალდეში წერილების ჯამური რაოდენობა">
-<!ENTITY readColumn.tooltip "დაწკაპეთ წაკითხულით სორტირებისათვის">
-<!ENTITY receivedColumn.tooltip "დაწკაპეთ მიღების თარიღით სორტირებისათვის">
-<!ENTITY starredColumn.tooltip "დაწკაპეთ ალმით სორტირებისათვის">
-<!ENTITY locationColumn.tooltip "დაწკაპეთ მისამართით სორტირებისათვის">
-<!ENTITY idColumn.tooltip "დაწკაპეთ მიღების რიგით სორტირებისათვის">
+<!ENTITY fromColumn2.tooltip "გამომგზავნის მიხედვით">
+<!ENTITY recipientColumn2.tooltip "მიმღების მიხედვით">
+<!ENTITY correspondentColumn2.tooltip "მომწოდებლის მიხედვით">
+<!ENTITY subjectColumn2.tooltip "თემის მიხედვით">
+<!ENTITY dateColumn2.tooltip "თარიღის მიხედვით">
+<!ENTITY priorityColumn2.tooltip "უპირატესობის მიხედვით">
+<!ENTITY tagsColumn2.tooltip "ჭდეების მიხედვით">
+<!ENTITY accountColumn2.tooltip "ანგარიშის მიხედვით">
+<!ENTITY statusColumn2.tooltip "მდგომარეობის მიხედვით">
+<!ENTITY sizeColumn2.tooltip "ზომის მიხედვით">
+<!ENTITY junkStatusColumn2.tooltip "ჯართად მიჩნეულის მიხედვით">
+<!ENTITY readColumn2.tooltip "წაკითხულის მიხედვით">
+<!ENTITY receivedColumn2.tooltip "მიღების თარიღის მიხედვით">
+<!ENTITY starredColumn2.tooltip "ვარსკვლავის მიხედვით">
+<!ENTITY locationColumn2.tooltip "მდებარეობის მიხედვით">
+<!ENTITY idColumn2.tooltip "მიღების თანმიმდევრობით">
