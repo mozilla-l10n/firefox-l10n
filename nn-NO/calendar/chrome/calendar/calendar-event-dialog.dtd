@@ -223,7 +223,7 @@
 <!ENTITY event.repeat.accesskey                           "R">
 <!ENTITY event.until.label                                "Til:">
 <!ENTITY event.until.accesskey                            "T">
-<!ENTITY event.reminder.label                             "Hugs:" >
+<!ENTITY event.reminder.label                             "Påminning:" >
 <!ENTITY event.reminder.accesskey                         "u">
 <!ENTITY event.description.label                          "Skildring:" >
 <!ENTITY event.description.accesskey                      "S">
