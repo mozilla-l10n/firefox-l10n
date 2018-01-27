@@ -21,6 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Laida">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Saugumo programos">
+<!ENTITY aboutSupport.securitySoftwareType "Tipas">
+<!ENTITY aboutSupport.securitySoftwareName "Pavadinimas">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirusinė">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antišnipinėjimo">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Užkarda">
+
 <!ENTITY aboutSupport.featuresTitle "„&brandShortName;“ savybės">
 <!ENTITY aboutSupport.featureName "Pavadinimas">
 <!ENTITY aboutSupport.featureVersion "Laida">
