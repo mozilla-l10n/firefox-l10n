@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "تعّذرت مشاركة هذا الموقع">
 <!ENTITY save_as_pdf "احفظ ك‍ PDF">
 <!ENTITY print "اطبع">
+<!ENTITY view_page_source "اعرض مصدر الصفحة">
 <!ENTITY find_in_page "ابحث في الصفحة">
 <!ENTITY desktop_mode "اطلب موقع سطح مكتب">
 <!ENTITY page "الصفحة">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "افتح في لسان جديد">
 <!ENTITY contextmenu_open_private_tab "افتح في لسان خاص">
 <!ENTITY contextmenu_remove "أزِل">
-<!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
 <!ENTITY contextmenu_add_page_shortcut "أضِف اختصارا للصفحة">
 <!ENTITY contextmenu_set_as_homepage "اجعلها صفحة البداية">
 <!ENTITY contextmenu_share "شارِك">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "أزِيلت الصفحة">
-
 <!ENTITY folder_removed "أُزيل المجلد">
 
 <!ENTITY bookmark_edit_title "حرّر العلامة">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; مُحدَّث">
 <!ENTITY whatsnew_notification_summary "اعرف ما الجديد في هذا الإصدار">
-
-<!ENTITY promotion_add_to_homescreen "أضِف إلى شاشة البداية">
 
 <!ENTITY promotion_add_page_shortcut "أضِف اختصارا للصفحة">
 
