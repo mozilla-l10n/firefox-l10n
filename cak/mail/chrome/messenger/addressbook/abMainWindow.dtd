@@ -178,6 +178,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.label                        "B'i'aj o Taqoya'l">
 <!ENTITY SearchNameOrEmail.accesskey                    "B">
 <!ENTITY advancedButton.tooltip                         "Q'axinäq kikanoxik ochochib'äl">
+<!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY searchItem.title "Anin Kanoxïk">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Ruwujil taq Ochochib'äl">
@@ -208,11 +210,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY HomePhone.accesskey                            "J">
 <!ENTITY WorkPhone.label                                "Royonib'al Samaj">
 <!ENTITY WorkPhone.accesskey                            "S">
+<!ENTITY sortAscending.label                            "Nijote'">
+<!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortDescending.label                           "Niqa">
+<!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Q'ajatz'ib' B'i'aj">
 <!ENTITY _PhoneticName.accesskey                        "a">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+<!ENTITY contact.heading                                "Rub'i' achib'il">
 <!ENTITY home.heading                                   "Tikirib'äl">
 <!ENTITY other.heading                                  "Juley chik">
 <!ENTITY chat.heading                                   "Chat">
@@ -222,8 +229,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY description.heading                            "Tzijoxikil">
 <!ENTITY addresses.heading                              "Taq ochochib'äl">
 <!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Tik'ul Ruwäch Setul">
+<!ENTITY mapIt.tooltip                                  "Tik'ut jun ruwäch rusetul re ochochib'äl re' k'o pan Ajk'amaya'l">
 
 <!-- Status Bar -->
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Window">
