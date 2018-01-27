@@ -31,9 +31,13 @@
 <!ENTITY propertiesContext.accesskey        "i">
 <!ENTITY abPropertiesContext.label          "Taq ichinil">
 <!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Tinuk' Rub'i' Achib'il">
+<!ENTITY editContactContext.accesskey       "T">
 <!ENTITY editMailingListContext.label       "Tinuk' ri Cholb'äl">
 <!ENTITY editMailingListContext.accesskey   "n">
 
+<!ENTITY newContactAbContext.label          "K'ak'a' Rub'i' Achib'il">
+<!ENTITY newContactAbContext.accesskey      "R">
 <!ENTITY newListAbContext.label             "K'ak'a' Cholb'äl">
 <!ENTITY newListAbContext.accesskey         "C">
 

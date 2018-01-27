@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
+<!ENTITY mailListWindowAdd.title        "K'ak'a' Kicholajil Taqoya'l">
 
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Titz'aqatisäx chi re: ">
@@ -14,6 +15,8 @@
 <!ENTITY ListDescription.label          "Tzijoxkil: ">
 <!ENTITY ListDescription.accesskey      "T">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
+<!ENTITY AddressTitle.label             "Ke'atz'ib'aj ri kochochib'al taqoya'l richin ye'atz'aqatisaj pa kicholajem taqoya'l:">
+<!ENTITY AddressTitle.accesskey         "q">
 <!ENTITY UpButton.label                 "Tijotob'äx el">
 <!ENTITY DownButton.label               "Tiqasäx qa">
 

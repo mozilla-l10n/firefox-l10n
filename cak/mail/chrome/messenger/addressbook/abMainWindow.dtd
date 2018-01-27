@@ -3,12 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Kiwujil taq Ochochib'äl">
+<!ENTITY blankResultsPaneMessage.label                  "Re kitz'ib'awuj ochochib'äl nuk'üt kib'i' achib'il xa xe chi rij jun kanoxïk">
+<!ENTITY localResultsOnlyMessage.label                  "Ri kib'i' achib'il pa kitz'ib'awuj näj ochochib'äl, man xkek'ut ta pe we man ye'akanoj ta">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Yakb'äl">
 <!ENTITY fileMenu.accesskey                             "Y">
 <!ENTITY newMenu.label                                  "K'ak'a'">
 <!ENTITY newMenu.accesskey                              "K">
+<!ENTITY newContact.label                               "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl…">
+<!ENTITY newContact.accesskey                           "K">
+<!ENTITY newContact.key                                 "N">
+<!ENTITY newListCmd.label                               "Kicholajil Taqoya'l…">
+<!ENTITY newListCmd.accesskey                           "K">
 <!ENTITY newAddressBookCmd.label                        "Kiwujil taq Ochochib'äl…">
 <!ENTITY newAddressBookCmd.accesskey                    "K">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP Cholb'äl…">
