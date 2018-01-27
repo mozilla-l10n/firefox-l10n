@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "آي أو إس">
 
 <!ENTITY mobilePromo3.end              " للمزامنة مع هاتفك المحمول.">
+
+<!ENTITY mobilepromo.singledevice      "أوصِل جهازا آخر">
+<!ENTITY mobilepromo.multidevice       "أدِر الأجهزة">
