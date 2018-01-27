@@ -35,10 +35,10 @@
 <!ENTITY printPreviewContactCmd.accesskey               "z">
 <!ENTITY printPreviewAddressBook.label                  "Visualizar catálogo de endereços">
 <!ENTITY printPreviewAddressBook.accesskey              "V">
-<!ENTITY printContactCmd.label                          "Imprimir contato…">
+<!ENTITY printContactCmd.label                          "Imprimir o contato…">
 <!ENTITY printContactCmd.accesskey                      "I">
 <!ENTITY printContactCmd.key                            "p">
-<!ENTITY printAddressBook.label                         "Imprimir catálogo de endereços…">
+<!ENTITY printAddressBook.label                         "Imprimir o catálogo de endereços…">
 <!ENTITY printAddressBook.accesskey                     "a">
 
 <!-- Edit Menu -->
@@ -61,12 +61,12 @@
 <!ENTITY pasteCmd.accesskey                             "o">
 <!ENTITY deleteCmd.label                                "Excluir">
 <!ENTITY deleteCmd.accesskey                            "x">
-<!ENTITY deleteAbCmd.label                              "Excluir catálogo">
-<!ENTITY deleteContactCmd.label                         "Excluir contato">
-<!ENTITY deleteContactsCmd.label                        "Excluir contatos">
-<!ENTITY deleteListCmd.label                            "Excluir lista de e-mails">
-<!ENTITY deleteListsCmd.label                           "Excluir listas de e-mails">
-<!ENTITY deleteItemsCmd.label                           "Excluir itens">
+<!ENTITY deleteAbCmd.label                              "Excluir o catálogo de endereços">
+<!ENTITY deleteContactCmd.label                         "Excluir o contato">
+<!ENTITY deleteContactsCmd.label                        "Excluir os contatos">
+<!ENTITY deleteListCmd.label                            "Excluir a lista">
+<!ENTITY deleteListsCmd.label                           "Excluir as listas">
+<!ENTITY deleteItemsCmd.label                           "Excluir os itens">
 <!ENTITY selectAllCmd.label                             "Selecionar tudo">
 <!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "F">
@@ -95,7 +95,7 @@
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Barra de ferramentas do catálogo de endereços">
 <!ENTITY showAbToolbarCmd.accesskey                     "a">
-<!ENTITY showTaskbarCmd.label                           "Barra de status">
+<!ENTITY showTaskbarCmd.label                           "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "P">
@@ -113,7 +113,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.accesskey                        "P">
 <!ENTITY lastFirstCmd.label                             "Último, Primeiro">
 <!ENTITY lastFirstCmd.accesskey                         "r">
-<!ENTITY displayNameCmd.label                           "Apresentar como">
+<!ENTITY displayNameCmd.label                           "Nome de exibição">
 <!ENTITY displayNameCmd.accesskey                       "m">
 <!ENTITY sortMenu.label                                 "Ordenar por">
 <!ENTITY sortMenu.accesskey                             "d">
@@ -121,7 +121,7 @@ because displayed names don't have the comma in between. -->
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Ferramentas">
 <!ENTITY tasksMenu.accesskey                            "F">
-<!ENTITY messengerCmd.label                             "Mensagens">
+<!ENTITY messengerCmd.label                             "E-mail e grupos de notícias">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Pesquisar endereços…">
@@ -147,13 +147,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Propriedades">
 <!ENTITY abPropertiesContext.accesskey                  "i">
-<!ENTITY editContactContext.label                       "Editar contato">
+<!ENTITY editContactContext.label                       "Editar o contato">
 <!ENTITY editContactContext.accesskey                   "E">
-<!ENTITY editMailingListContext.label                   "Editar Lista">
+<!ENTITY editMailingListContext.label                   "Editar a lista">
 <!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Escrever">
 <!ENTITY newmsgButton.accesskey                         "N">
-<!ENTITY newIM.label                                    "Msg instantânea">
+<!ENTITY newIM.label                                    "Mensagem instantânea">
 <!ENTITY newIM.accesskey                                "M">
 <!ENTITY printButton.label                              "Imprimir…">
 <!ENTITY printButton.accesskey                          "r">
@@ -161,13 +161,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "x">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Criar um novo contato de catálogo de endereços">
+<!ENTITY newContactButton.tooltip                       "Criar um novo contato no catálogo de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista">
-<!ENTITY editPropertiesButton.tooltip                   "Editar item selecionado">
+<!ENTITY editPropertiesButton.tooltip                   "Editar o item selecionado">
 <!ENTITY editAbPropertiesButton.tooltip                 "Editar as propriedades do catálogo de endereços selecionado">
 <!ENTITY editContactPropertiesButton.tooltip            "Editar o contato selecionado">
-<!ENTITY editMailingListPropertiesButton.tooltip        "Editar a lista de discussão selecionada">
-<!ENTITY newmsgButton.tooltip                           "Nova mensagem">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Editar a lista de correios selecionada">
+<!ENTITY newmsgButton.tooltip                           "Enviar um nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
 <!ENTITY deleteButton2.tooltip                          "Excluir o item selecionado">
 
@@ -175,11 +175,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Localizar nome ou e-mail">
+<!ENTITY SearchNameOrEmail.label                        "Nome ou e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "z">
-<!ENTITY advancedButton.tooltip                         "Mais opções de pesquisa">
+<!ENTITY advancedButton.tooltip                         "Pesquisa avançada de endereços">
 <!ENTITY quickSearchCmd.key                             "K">
-<!ENTITY searchItem.title "Busca Rápida">
+<!ENTITY searchItem.title "Pesquisa rápida">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Catálogo de endereços">
@@ -188,7 +188,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ChatName.label                                 "Bate-papo">
+<!ENTITY ChatName.label                                 "Nome do bate-papo">
 <!ENTITY ChatName.accesskey                             "B">
 <!ENTITY Company.label                                  "Empresa">
 <!ENTITY Company.accesskey                              "m">
