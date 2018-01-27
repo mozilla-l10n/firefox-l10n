@@ -24,11 +24,22 @@
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "t">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Tokisäx Kitz'ib'awuj ROchochib'al Mac OS X">
+<!ENTITY osxAddressBook.accesskey                       "O">
 <!ENTITY closeCmd.label                                 "Titz'apïx">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "t">
 <!ENTITY printSetupCmd.label                            "Tinuk'samajïx Ruxaq…">
 <!ENTITY printSetupCmd.accesskey                        "m">
+<!ENTITY printPreviewContactCmd.label                   "Nab'ey Rutz'etik Rub'i' Achib'il">
+<!ENTITY printPreviewContactCmd.accesskey               "b">
+<!ENTITY printPreviewAddressBook.label                  "Nab'ey Rutz'etik ri Kitz'ib'awuj Ochochib'äl">
+<!ENTITY printPreviewAddressBook.accesskey              "K">
+<!ENTITY printContactCmd.label                          "Titz'ajb'äx Rub'i' Achib'il…">
+<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY printContactCmd.key                            "P">
+<!ENTITY printAddressBook.label                         "Titz'ajb'äx Kitz'ib'awuj Ochochib'äl…">
+<!ENTITY printAddressBook.accesskey                     "O">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Tinuk'">
@@ -51,6 +62,8 @@
 <!ENTITY deleteCmd.label                                "Tiyuj">
 <!ENTITY deleteCmd.accesskey                            "y">
 <!ENTITY deleteAbCmd.label                              "Tiyuj Kiwujil Ochochib'äl">
+<!ENTITY deleteContactCmd.label                         "Tiyuj Rub'i' Achib'il">
+<!ENTITY deleteContactsCmd.label                        "Keyuj Kib'i' Achib'il">
 <!ENTITY deleteListCmd.label                            "Tiyuj Cholb'äl">
 <!ENTITY deleteListsCmd.label                           "Keyuj Cholb'äl">
 <!ENTITY deleteItemsCmd.label                           "Keyuj Ch'akulal">
@@ -58,6 +71,7 @@
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "R">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Kejalwachïx nab'ey/Last B'ia'j">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "qitzij">
