@@ -384,14 +384,14 @@
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
 <!ENTITY pref_private_data_syncedTabs "Abas sincronizadas">
 
-<!ENTITY pref_default_browser "Tornar navegador predefinido">
+<!ENTITY pref_default_browser "Tornar navegador padrão">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar o suporte da Mozilla">
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_vendor_faqs "Perguntas frequentes">
 <!ENTITY pref_vendor_feedback "Enviar opinião">
 
 <!ENTITY pref_dialog_set_default "Definir como predefinição">
-<!ENTITY pref_dialog_default "Predefinido">
+<!ENTITY pref_dialog_default "Padrão">
 <!ENTITY pref_dialog_remove "Remover">
 <!ENTITY pref_dialog_activitystream_header_content "Conteúdo adicional">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Favoritos recentes">
