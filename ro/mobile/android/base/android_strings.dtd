@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Nu se poate partaja această imagine">
 <!ENTITY save_as_pdf "Salvează ca PDF">
 <!ENTITY print "Tipărește">
+<!ENTITY view_page_source "Vezi sursa paginii">
 <!ENTITY find_in_page "Găsește în pagină">
 <!ENTITY desktop_mode "Cere versiune de desktop">
 <!ENTITY page "Pagină">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Deschide într-o filă nouă">
 <!ENTITY contextmenu_open_private_tab "Deschide într-o filă privată">
 <!ENTITY contextmenu_remove "Elimină">
-<!ENTITY contextmenu_add_to_launcher "Adaugă la ecranul principal">
 <!ENTITY contextmenu_add_page_shortcut "Adaugă scurtătură spre pagină">
 <!ENTITY contextmenu_set_as_homepage "Setează ca pagină de start">
 <!ENTITY contextmenu_share "Împărtășește">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Pagină eliminată">
-
 <!ENTITY folder_removed "Dosar eliminat">
 
 <!ENTITY bookmark_edit_title "Editează marcajul">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; este actualizat">
 <!ENTITY whatsnew_notification_summary "Descoperă ce este nou în această versiune">
-
-<!ENTITY promotion_add_to_homescreen "Adaugă la ecranul principal">
 
 <!ENTITY promotion_add_page_shortcut "Adaugă scurtătură spre pagină">
 
