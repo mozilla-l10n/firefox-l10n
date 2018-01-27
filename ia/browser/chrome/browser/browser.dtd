@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tu ha blocate tu microphono pro iste sito web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tu ha blocate iste sito web de compartir tu schermo.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tu ha blocate le accesso al geolocalisation pro iste sito web.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tu ha blocate le immagazinage pro iste sito web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tu ha blocate iste sito web de inviar notificationes.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tu ha blocate le immagazinage persistente pro iste sito web.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Tu ha blocate le fenestras emergente pro iste sito web.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tu ha blocate le extraction de datos del tela pro iste sito web.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nove fenestra private">
 <!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label   "Nove fenestra non e10s">
 
 <!ENTITY editMenu.label         "Edition">
 <!ENTITY editMenu.accesskey       "E">
@@ -331,7 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.label       "Optiones">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferentias">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY preferencesCmdUnix.accesskey     "P">
 
 <!ENTITY clearRecentHistory.label               "Vacuar le chronologia recente…">
 
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Monstrar tote le chronologia">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personalisar">
-<!ENTITY appMenuCustomize.tooltip "Personalisar le menu e le barras de instrumentos">
-<!ENTITY appMenuCustomizeExit.label "Exir del personalisation">
-<!ENTITY appMenuCustomizeExit.tooltip "Finir le personalisation">
-
 <!ENTITY appMenuHistory.showAll.label "Monstrar tote le chronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Vacuar le chronologia recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar le session previe">
 <!ENTITY appMenuHistory.viewSidebar.label "Vider barra lateral de chronologia">
 <!ENTITY appMenuHistory.recentHistory.label "Chronologia recente">
 <!ENTITY appMenuHelp.label "Adjuta">
-<!ENTITY appMenuHelp.tooltip "Aperir le menu de adjuta">
 
 <!ENTITY appMenuRemoteTabs.label "Schedas synchronisate">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extension:">
 <!ENTITY urlbar.switchToTab.label     "Commutar al scheda:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Desira tu meliorar le experientia de tu recercas con suggestiones?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saper plus…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Si">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggestion:">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stilo basic del pagina">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Cambiar le parametros de blocage pro iste sito">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Trahe tu elementos favorite e depone los in le barra de instrumentos o in le menu disbordante.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Vole altere instrumentos?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Elige inter milles de additivos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinitiones">
 <!ENTITY customizeMode.done "Facite">
 <!ENTITY customizeMode.titlebar "Barra de titulo">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener plus themas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
-<!ENTITY customizeMode.emptyOverflowList.description "Trahe e depone le elementos hic pro guardar los a mano, ma foras tu barra de instrumentos…">
 <!ENTITY customizeMode.overflowList.title2 "Menu disbordante">
 <!ENTITY customizeMode.overflowList.description "Trahe e depone le elementos hic pro guardar los a mano, ma foras tu barra de instrumentos…">
 <!ENTITY customizeMode.uidensity "Densitate">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">
 <!ENTITY pageAction.addToUrlbar.label "Adder al barra de adresse">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover del barra de adresse">
-
 <!ENTITY pageAction.allowInUrlbar.label "Monstrar in le barra de adresse">
 <!ENTITY pageAction.disallowInUrlbar.label "Non monstrar in le barra de adresse">
 <!ENTITY pageAction.manageExtension.label "Gerer le extension…">
