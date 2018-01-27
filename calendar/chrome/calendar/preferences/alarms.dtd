@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Mostrar aviso">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
 <!ENTITY pref.missedalarms "Mostrar alarmes vencidos">
+<!ENTITY pref.missedalarms2 "Mostrar lembretes perdidos para calendários com permissão de escita">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "v">
 <!ENTITY pref.calendar.alarms.defaults.label "Padrões para alarmes">
 <!ENTITY pref.defalarm4events.label "Configuração padrão de alarmes para eventos:">
