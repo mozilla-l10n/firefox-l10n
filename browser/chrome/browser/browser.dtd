@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir aba">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
-<!ENTITY pageSourceCmd.label "Código fonte da página">
+<!ENTITY pageSourceCmd.label "Código-fonte da página">
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Você bloqueou seu microfone para este site.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Você bloqueou o compartilhamento de tela para este site.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Você bloqueou informações de localização para este site.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Você bloqueou o armazenamento de dados para este site.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Você bloqueou as notificações para este site.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Você bloqueou o armazenamento persistente para este site.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Você bloqueou pop-ups para esse site.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Você bloqueou a extração de dados da tela para este site.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "j">
 <!ENTITY newPrivateWindow.label     "Nova janela privativa">
 <!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label   "Nova janela não-e10s">
 
 <!ENTITY editMenu.label         "Editar">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Mostrar histórico">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuCustomize.tooltip "Personalizar menu e barras de ferramentas">
-<!ENTITY appMenuCustomizeExit.label "Concluir personalização">
-<!ENTITY appMenuCustomizeExit.tooltip "Concluir a personalização">
-
 <!ENTITY appMenuHistory.showAll.label "Mostrar histórico">
 <!ENTITY appMenuHistory.clearRecent.label "Limpar dados de navegação…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver painel do histórico">
 <!ENTITY appMenuHistory.recentHistory.label "Histórico recente">
 <!ENTITY appMenuHelp.label "Ajuda">
-<!ENTITY appMenuHelp.tooltip "Abrir menu Ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Abas sincronizadas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensão:">
 <!ENTITY urlbar.switchToTab.label     "Alternar para a aba:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Gostaria de melhorar a sua experiência de pesquisa com sugestões?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber mais…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Não">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Sim">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "s">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Dica:">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo de página básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Alterar configurações de popups para este site">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Arraste seus itens favoritos para sua barra de ferramentas ou ao menu.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Deseja mais ferramentas?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Milhares de extensões para escolher">
 <!ENTITY customizeMode.restoreDefaults "Restaurar padrões">
 <!ENTITY customizeMode.done "Concluído">
 <!ENTITY customizeMode.titlebar "Barra de título">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obter mais temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Arraste e solte itens aqui para mantê-los ao alcance, mas fora da sua barra de ferramentas…">
 <!ENTITY customizeMode.overflowList.title2 "Menu expandido">
 <!ENTITY customizeMode.overflowList.description "Arraste e solte itens aqui para mantê-los ao alcance, mas fora da sua barra de ferramentas…">
 <!ENTITY customizeMode.uidensity "Densidade">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Ações da página">
 <!ENTITY pageAction.addToUrlbar.label "Adicionar na barra de endereço">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover da barra de endereço">
-
 <!ENTITY pageAction.allowInUrlbar.label "Mostrar na barra de endereço">
 <!ENTITY pageAction.disallowInUrlbar.label "Não mostrar na barra de endereço">
 <!ENTITY pageAction.manageExtension.label "Gerenciar extensão…">
