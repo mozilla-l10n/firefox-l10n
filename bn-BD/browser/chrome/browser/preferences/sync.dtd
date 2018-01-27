@@ -105,3 +105,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " আপনার মোবাইল ডিভাইসের সাথে সিঙ্ক করতে।">
+
+<!ENTITY mobilepromo.singledevice      "অন্য ডিভাইস সংযুক্ত করুন">
+<!ENTITY mobilepromo.multidevice       "ডিভাইস ব্যবস্থাপনা">
