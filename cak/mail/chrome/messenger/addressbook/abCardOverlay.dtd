@@ -31,6 +31,8 @@
 <!ENTITY PhoneticField2.label           "Q'ajatz'ib':">
 <!ENTITY DisplayName.label              "Tik'ut pe:">
 <!ENTITY DisplayName.accesskey          "k">
+<!ENTITY preferDisplayName.label        "Jantape' ticha' ri b'i'aj niq'alajisäx pa ruk'exel ri rujub'i'aj rutzijol">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Tz'ukun b'i'aj:">
 <!ENTITY NickName.accesskey             "T">
 
@@ -38,6 +40,9 @@
 <!ENTITY PrimaryEmail.accesskey         "T">
 <!ENTITY SecondEmail.label              "Ruka'n Taqoya'l:">
 <!ENTITY SecondEmail.accesskey          "a">
+<!ENTITY PreferMailFormat.label         "Ticha' yek'ul taq rutzjol eb'anon achi'el:">
+<!ENTITY PreferMailFormat.accesskey     "y">
+<!ENTITY PlainText.label                "Meb'anikil Rucholajem Tzij">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Man etaman ta ruwäch">
 <!ENTITY chatName.label                 "Chat B'i'aj:">
@@ -136,6 +141,7 @@
 
 <!ENTITY Photo.tab                      "Wachib'äl">
 <!ENTITY Photo.accesskey                "a">
+<!ENTITY PhotoDesc.label                "Ticha' jun chi ke re':">
 <!ENTITY GenericPhoto.label             "Ajchijun Wachib'äl">
 <!ENTITY GenericPhoto.accesskey         "A">
 <!ENTITY DefaultPhoto.label             "K'o wi">
@@ -145,5 +151,6 @@
 <!ENTITY BrowsePhoto.accesskey          "o">
 <!ENTITY PhotoURL.label                 "Pa ri Ajk'amaya'l">
 <!ENTITY PhotoURL.accesskey             "l">
+<!ENTITY PhotoURL.placeholder           "Titz'ajb'äx o titz'ib'äx ri rochochib'al rajk'amaya'l jun wachib'äl">
 <!ENTITY UpdatePhoto.label              "Tik'ex">
 <!ENTITY UpdatePhoto.accesskey          "k">
