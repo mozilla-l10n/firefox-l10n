@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " appot a mobileszközével való szinkronizáláshoz.">
+
+<!ENTITY mobilepromo.singledevice      "Másik eszköz csatlakoztatása">
+<!ENTITY mobilepromo.multidevice       "Eszközök kezelése">
