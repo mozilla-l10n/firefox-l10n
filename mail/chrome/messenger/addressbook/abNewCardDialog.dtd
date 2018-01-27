@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Labels -->
-<!ENTITY chooseAddressBook.label         "Criar em:">
-<!ENTITY chooseAddressBook.accesskey     "C">
+<!ENTITY chooseAddressBook.label         "Adicionar em: ">
+<!ENTITY chooseAddressBook.accesskey     "t">
