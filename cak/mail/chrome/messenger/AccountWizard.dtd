@@ -120,3 +120,5 @@
 <!ENTITY deferStorageDesc.label "Tik'am retal re ch'utikajtz'ik re' richin niyak ri rutaqoya'l re rub'i' taqoya'l re' pan acholb'al. Re re' xtub'än chi re ri rub'i' taqoya'l niwachin pa jun nïm chowi'. We man ke ta ri', xtik'oje' chi kikojol ri chijun rutaqoya'l rumolb'al aj wawe' taq molwuj.">
 <!ENTITY deferStorage.label "Tokisäx ri Chijun Molb'äl (tiyak taqoya'l pa aj wawe' taq molwuj)">
 <!ENTITY deferStorage.accesskey "C">
+<!ENTITY clickFinish.label "Tipitz' pa Tik'is richin yeyak kan ri taq nuk'ulem chuqa' richin nel pa ri Rutob'al Rub'i' Taqoya'l.">
+<!ENTITY clickFinish.labelMac "Tipitz' pa Xk'is richin yeyak kan ri taq nuk'ulem chuqa' richin nel pa ri Rutob'al Rub'i' Taqoya'l.">
