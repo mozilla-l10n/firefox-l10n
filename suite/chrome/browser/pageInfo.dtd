@@ -110,7 +110,7 @@
 <!ENTITY  securityView.identity.domain   "ვებ საიტი: ">
 <!ENTITY  securityView.identity.verifier "შეამოწმა: ">
 
-<!ENTITY  securityView.privacy.header                   "კონფიდენციალობა და ისტორია">
+<!ENTITY  securityView.privacy.header                   "პირადულობა და ისტორია">
 <!ENTITY  securityView.privacy.history                  "ეს საიტი დღემდე გამიხსნია?">
 <!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში მონაცემებს (ფუნთუშებს)?">
 <!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ნახვა">

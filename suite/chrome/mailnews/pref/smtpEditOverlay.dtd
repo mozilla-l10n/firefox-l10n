@@ -20,5 +20,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP სერვერი">
 <!ENTITY serverPortDefault.label "ნაგულისხმები:">
-<!ENTITY authMethod.label "აუთენტიფიკაციის მეთოდი:">
+<!ENTITY authMethod.label "ანგარიშზე შესვლის მეთოდი:">
 <!ENTITY authMethod.accesskey "i">

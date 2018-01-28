@@ -26,7 +26,7 @@
 <!ENTITY useInternalNews.accesskey        "s">
 
 <!ENTITY messengerStartPage.caption       "ფოსტის საწყისი გვერდი">
-<!ENTITY enableStartPage.label            "საფოსტო სეანსის დაწყებისას სათაო გვერდის წერილების ველში ჩვენება">
+<!ENTITY enableStartPage.label            "საფოსტო სეანსის გაშვებისას, საწყისი გვერდის ჩვენება წერილების არეში">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "მისამართი:">
 <!ENTITY location.accesskey               "L">

@@ -21,7 +21,7 @@
 <!ENTITY itemOfflineApps.accesskey       "O">
 <!ENTITY itemPasswords.label             "შენახული პაროლები">
 <!ENTITY itemPasswords.accesskey         "P">
-<!ENTITY itemSessions.label              "სეანსები აუთენტიფიკაციით">
+<!ENTITY itemSessions.label              "ანგარიშზე შესვლის სეანსები">
 <!ENTITY itemSessions.accesskey          "S">
 
 <!ENTITY sanitizeButton.label            "პირად მონაცემთა გასუფთავება ახლავე">

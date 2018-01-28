@@ -54,7 +54,7 @@
 <!ENTITY printButton.label            "ბეჭდვა">
 <!ENTITY printButton.tooltip          "გვერდის ბეჭდვა">
 
-<!ENTITY throbber.tooltip             "გადასვლა &vendorShortName;-ს სათაო გვერდზე">
+<!ENTITY throbber.tooltip             "გადასვლა &vendorShortName;-ს საწყის გვერდზე">
 
 <!ENTITY locationBar.tooltip          "საძიებო ტერმინის, საკვანძო სიტყვის ან მისამართის მითითება">
 <!ENTITY locationBar.accesskey        "d">
@@ -65,7 +65,7 @@
 
 <!ENTITY bookmarksButton.label        "სანიშნები">
 <!ENTITY bookmarksButton.tooltip      "სანიშნების ჩამონათვალი">
-<!ENTITY homeButton.label             "სათაო გვერდი">
+<!ENTITY homeButton.label             "საწყისი გვერდი">
 <!ENTITY bookmarksToolbarItem.label   "სანიშნების ხელსაწყოთა ზოლის ელემენტები">
 <!ENTITY bookmarksToolbarChevron.tooltip "სხვა სანიშნების ჩვენება">
 
