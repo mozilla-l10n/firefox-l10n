@@ -48,7 +48,7 @@
 
 <!ENTITY crashReporterSection.label      "Relatório de travamento">
 <!ENTITY crashReporterDesc.label         "O &brandShortName; envia relatório de erros para ajudar a &vendorShortName; a tornar o seu cliente de e-mail mais estável e seguro">
-<!ENTITY enableCrashReporter.label       "Ativar o Crash Reporter">
+<!ENTITY enableCrashReporter.label       "Ativar o relator de travamentos">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Saiba mais">
 
