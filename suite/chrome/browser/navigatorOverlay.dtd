@@ -95,31 +95,31 @@
 
 <!ENTITY cookieMessageTitle.label "ფუნთუშების ნებართვები შეიცვალა">
 <!ENTITY cookieDisplayCookiesCmd.label "შენახული ფუნთუშების მართვა">
-<!ENTITY cookieDisplayCookiesCmd.accesskey "M">
-<!ENTITY cookieAllowCookiesCmd.label "ფუნთუშების ნებართვა ამ ვებსაიტიდან">
-<!ENTITY cookieAllowCookiesCmd.accesskey "A">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "მ">
+<!ENTITY cookieAllowCookiesCmd.label "ფუნთუშების დაშვება ამ ვებსაიტიდან">
+<!ENTITY cookieAllowCookiesCmd.accesskey "დ">
 <!ENTITY cookieAllowCookiesMsg.label "ფუნთუშები ამ ვებსაიტიდან ყოველთვის ნებადართულია.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "სეანსის ფუნთუშების ნებართვა ამ ვებსაიტიდან">
-<!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "ს">
 <!ENTITY cookieAllowSessionCookiesMsg.label "ამ ვებსაიტს ფუნთუშების შენახვის უფლება მიეცემა მხოლოდ ამ სეანსზე.">
-<!ENTITY cookieCookiesDefaultCmd.label "ნაგულისხმები უფლებების გამოყენება ფუნთუშებისთვის">
-<!ENTITY cookieCookiesDefaultCmd.accesskey "U">
+<!ENTITY cookieCookiesDefaultCmd.label "ნაგულისხმევი უფლებების გამოყენება ფუნთუშებისთვის">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "ნ">
 <!ENTITY cookieCookiesDefaultMsg.label "ფუნთუშები ამ ვებსაიტიდან მიიღება ნაგულისხმევი უფლებების შესაბამისად.">
 <!ENTITY cookieBlockCookiesCmd.label "ფუნთუშების შეზღუდვა ამ ვებსაიტისთვის">
-<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesCmd.accesskey "შ">
 <!ENTITY cookieBlockCookiesMsg.label "ფუნთუშები ამ ვებსაიტიდან ყოველთვის აიკრძალება.">
 
 <!ENTITY cookieImageMessageTitle.label "გამოსახულებათ უფლებები შეიცვალა">
 <!ENTITY cookieDisplayImagesCmd.label "გამოსახულებათა უფლებების მართვა">
-<!ENTITY cookieDisplayImagesCmd.accesskey "M">
-<!ENTITY cookieAllowImagesCmd.label "გამოსახულებათა ნებართვა ამ ვებსაიტიდან">
-<!ENTITY cookieAllowImagesCmd.accesskey "A">
+<!ENTITY cookieDisplayImagesCmd.accesskey "გ">
+<!ENTITY cookieAllowImagesCmd.label "გამოსახულებათა დაშვება ამ ვებსაიტიდან">
+<!ENTITY cookieAllowImagesCmd.accesskey "დ">
 <!ENTITY cookieAllowImagesMsg.label "გამოსახულებები ამ ვებსაიტიდან ყოველთვის ჩამოიტვირთება.">
-<!ENTITY cookieImagesDefaultCmd.label "ნაგულისხმები უფლებების გამოყენება გამოსახულებებისთვის">
-<!ENTITY cookieImagesDefaultCmd.accesskey "U">
+<!ENTITY cookieImagesDefaultCmd.label "ნაგულისხმევი უფლებების გამოყენება გამოსახულებებისთვის">
+<!ENTITY cookieImagesDefaultCmd.accesskey "ყ">
 <!ENTITY cookieImagesDefaultMsg.label "გამოსახულებები ამ ვებსაიტიდან ჩამოიტვირთება ნაგულისხმები უფლებების შესაბამისად.">
-<!ENTITY cookieBlockImagesCmd.label "გამოსახულებათა დაბლოკვა ამ ვებსაიტისთვის">
-<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesCmd.label "გამოსახულებათა შეზღუდვა ამ ვებსაიტისთვის">
+<!ENTITY cookieBlockImagesCmd.accesskey "ზ">
 <!ENTITY cookieBlockImagesMsg.label "გამოსახულებები ამ ვებსაიტიდან არასოდეს ჩამოიტვირთება.">
 
 <!ENTITY popupsMessageChangeTitle.label "ამომხტომი ფირნიშების ნებართვები შეიცვალა">
@@ -136,9 +136,9 @@
 <!ENTITY popupsManage.accesskey "მ">
 
 <!ENTITY cookieCookieManager.label "ფუნთუშების მმართველი">
-<!ENTITY cookieCookieManager.accesskey "C">
+<!ENTITY cookieCookieManager.accesskey "ფ">
 <!ENTITY cookieImageManager.label "გამოსახულებათა მმართველი">
-<!ENTITY cookieImageManager.accesskey "I">
+<!ENTITY cookieImageManager.accesskey "გ">
 <!ENTITY popupsManager.label "ფირნიშების მმართველი">
 <!ENTITY popupsManager.accesskey "თ">
 

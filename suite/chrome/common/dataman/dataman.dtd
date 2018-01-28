@@ -34,7 +34,7 @@
 <!ENTITY tab.forget.label "დავიწყება">
 
 <!-- cookies -->
-<!ENTITY cookies.description "ეს დომენი თქვენს კომპიუტერში ინახავს შემდეგ დომენებს:">
+<!ENTITY cookies.description "ეს დომენი თქვენს კომპიუტერში ინახავს შემდეგ ფუნთუშებს:">
 
 <!ENTITY cookies.tree.host.label "ვებსაიტი">
 <!ENTITY cookies.tree.name.label "ფუნთუშის სახელი">
@@ -46,20 +46,20 @@
 <!ENTITY cookies.info.value.label "შიგთავსი:">
 <!ENTITY cookies.info.host.label "ჰოსტი:">
 <!ENTITY cookies.info.domain.label "დომენი:">
-<!ENTITY cookies.info.path.label "გეზი:">
-<!ENTITY cookies.info.sendtype.label "გაგზავნა:">
+<!ENTITY cookies.info.path.label "მისამართი:">
+<!ENTITY cookies.info.sendtype.label "დანიშნულება:">
 <!ENTITY cookies.info.expires.label "ვადა:">
 
 <!ENTITY cookies.ctx.remove.label "ამოღება">
-<!ENTITY cookies.ctx.remove.accesskey "R">
+<!ENTITY cookies.ctx.remove.accesskey "ა">
 <!ENTITY cookies.ctx.selectAll.label "ყველას მონიშვნა">
-<!ENTITY cookies.ctx.selectAll.accesskey "A">
+<!ENTITY cookies.ctx.selectAll.accesskey "ყ">
 
 <!ENTITY cookies.button.remove.label "ამოღება">
-<!ENTITY cookies.button.remove.accesskey "R">
+<!ENTITY cookies.button.remove.accesskey "ა">
 
 <!ENTITY cookies.blockOnRemove.label "ამოღებისას, მომავალში ფუნთუშების აკრძალვა, შემდეგი ვებსაიტებისთვის">
-<!ENTITY cookies.blockOnRemove.accesskey "W">
+<!ENTITY cookies.blockOnRemove.accesskey "კ">
 
 <!-- permissions -->
 <!ENTITY perm.UseDefault "ნაგულისხმები">
@@ -140,7 +140,7 @@
 
 <!-- forget -->
 <!ENTITY forget.cookies.label "ფუნთუშები">
-<!ENTITY forget.cookies.accesskey "C">
+<!ENTITY forget.cookies.accesskey "ფ">
 <!ENTITY forget.permissions.label "უფლებები">
 <!ENTITY forget.permissions.accesskey "P">
 <!ENTITY forget.preferences.label "შიგთავსის პარამეტრები">

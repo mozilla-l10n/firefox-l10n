@@ -31,7 +31,7 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, თუ მისაწვდომია">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "უსაფრთხო აუთენტიფიკაციის გამოყენება">
+<!ENTITY authMethod.label "ანგარიშზე შესვლის მეთოდი:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "წერილების დატოვება სერვერზე">
 <!ENTITY leaveOnServer.accesskey "g">
@@ -67,7 +67,7 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "-ზე მეტ წერილს">
-<!ENTITY alwaysAuthenticate.label "ამ სერვერთან დაკავშირებისას აუთენტიფიცირების ყოველთვის მოთხოვნა">
+<!ENTITY alwaysAuthenticate.label "ამ სერვერთან დაკავშირებისას, ანგარიშზე შესვლის მოთხოვნა ყოველთვის">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "ჯგუფების ფაილი:">
 <!ENTITY newsrcPicker.label "ჯგუფების ფაილის არჩევა">

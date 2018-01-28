@@ -9,16 +9,16 @@
 <!ENTITY cookiePolicy.label             "ფუნთუშების მიღების წესები">
 
 <!ENTITY disableCookies.label           "ფუნთუშების შეზღუდვა">
-<!ENTITY disableCookies.accesskey       "B">
+<!ENTITY disableCookies.accesskey       "შ">
 
 <!ENTITY accNo3rdPartyCookies.label     "ფუნთუშების მიღება, მხოლოდ მონახულებული საიტიდან (გარდა მესამე მხარის ფუნთუშების)">
-<!ENTITY accNo3rdPartyCookies.accesskey "o">
+<!ENTITY accNo3rdPartyCookies.accesskey "მ">
 
 <!ENTITY acc3rdPartyVisited.label       "მესამე მხარის ფუნთუშების მიღება, მხოლოდ უკვე მონახულებული ვებსაიტებიდან">
 <!ENTITY acc3rdPartyVisited.accesskey   "v">
 
 <!ENTITY accAllCookies.label            "ყველა ფუნთუშის დაშვება">
-<!ENTITY accAllCookies.accesskey        "c">
+<!ENTITY accAllCookies.accesskey        "ყ">
 
 <!ENTITY cookieRetentionPolicy.label    "ფუნთუშების შენახვის ვადა">
 
@@ -36,5 +36,5 @@
 <!ENTITY manageCookiesDescription.label "საშუალებას გაძლევთ ნახოთ და მიუთითოთ ფუნთუშების მიღებისა და აკრძალვის პარამეტრები სხვადასხვა საიტისთვის. ეს პარამეტრები გადაფარავს არსებულებს.">
 
 <!ENTITY viewCookies.label              "ფუნთუშების მმართველი">
-<!ENTITY viewCookies.accesskey          "M">
+<!ENTITY viewCookies.accesskey          "მ">
 
