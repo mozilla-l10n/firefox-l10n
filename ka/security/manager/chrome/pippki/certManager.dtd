@@ -69,11 +69,11 @@
 <!ENTITY certmgr.backupall2.accesskey         "ყ">
 <!ENTITY certmgr.restore2.label               "შემოტანა...">
 <!ENTITY certmgr.restore2.accesskey           "ტ">
-<!ENTITY certmgr.details.label                "სერთიფიკატის ველები">
+<!ENTITY certmgr.details.label                "სერტიფიკატის ველები">
 <!ENTITY certmgr.details.accesskey            "ვ">
 <!ENTITY certmgr.fields.label                 "ველის მნიშვნელობა">
 <!ENTITY certmgr.fields.accesskey             "მ">
-<!ENTITY certmgr.hierarchy.label              "სერთიფიკატის იერარქია">
+<!ENTITY certmgr.hierarchy.label              "სერტიფიკატის იერარქია">
 <!ENTITY certmgr.hierarchy.accesskey2         "ქ">
 <!ENTITY certmgr.addException.label           "გამონაკლისის დამატება…">
 <!ENTITY certmgr.addException.accesskey       "კ">
