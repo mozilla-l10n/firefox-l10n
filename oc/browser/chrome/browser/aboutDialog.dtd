@@ -42,7 +42,7 @@
 
 <!ENTITY helpus.start               "Volètz ajudar ? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
-<!ENTITY helpus.donateLink          "Far un don">
+<!ENTITY helpus.donateLink          "Fasètz un don">
 <!ENTITY helpus.middle              ", o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "Participatz !">
