@@ -95,7 +95,7 @@
 <!ENTITY showTaskbarCmd.label					"სტატუსის პანელი">  
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
 
-<!ENTITY helpMenu.label					"კარნახი"> 
+<!ENTITY helpMenu.label					"დახმარება"> 
 <!ENTITY helpMenu.accesskey				"h"> 
 
 <!ENTITY helpTroubleshootingInfo.label      "თექმომსახურების ინფორმაცია">
