@@ -11,9 +11,9 @@
 <!ENTITY     treehead.cookieexpires.label   "ვადა">
 <!ENTITY     treehead.infoselected.label    "შერჩეული ფუნთუშის მონაცემები">
 <!ENTITY     button.removecookie.label      "ფუნთუშის ამოშლა">
-<!ENTITY     button.removecookie.accesskey  "R">
+<!ENTITY     button.removecookie.accesskey  "ა">
 <!ENTITY     button.removeallcookies.label  "ყველა ფუნთუშის ამოშლა">
-<!ENTITY     button.removeallcookies.accesskey "e">
+<!ENTITY     button.removeallcookies.accesskey "მ">
 
 <!ENTITY     search.placeholder             "ფუნთუშების მოძიება">
 <!ENTITY     focusSearch.key                "f">
@@ -43,4 +43,4 @@
 <!ENTITY     removeallpermissions.accesskey "e">
 
 <!ENTITY     futureCookies.label            "ფუნთუშებამოშლილი საიტებისთვის, მომავალში ფუნთუშების ჩაწერის აკრძალვა">
-<!ENTITY     futureCookies.accesskey        "D">
+<!ENTITY     futureCookies.accesskey        "ჩ">

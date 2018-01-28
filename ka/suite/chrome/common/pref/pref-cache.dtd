@@ -12,16 +12,16 @@
 <!ENTITY cacheCheck.accesskey            "L">
 <!ENTITY diskCacheUpTo.label             "ზომა:">
 <!ENTITY diskCacheUpTo.accesskey         "U">
-<!ENTITY spaceMbytes                      "მეგაბაიტამდე">
+<!ENTITY spaceMbytes                     "მეგაბაიტამდე">
 <!ENTITY diskCacheFolder.label           "ბუფერის დასტის მისამართი:">
 <!ENTITY clearDiskCache.label            "ბუფერის გასუფთავება">
 <!ENTITY clearDiskCache.accesskey        "C">
 <!ENTITY chooseDiskCacheFolder.label     "დასტის არჩევა…">
 <!ENTITY chooseDiskCacheFolder.accesskey "F">
-<!ENTITY diskCacheFolderExplanation      "ბუფერის ფაილები შეინახება თქვენს მიერ მითითებული დასტის &quot;ბუფერი&quot; ქვედასტაში. ცვლილებები გააქტივდება &brandShortName;-ს ახალი სეანსის შემდეგ.">
+<!ENTITY diskCacheFolderExplanation      "ბუფერის ფაილები შეინახება თქვენს მიერ მითითებული დასტის &quot;ბუფერი&quot; ქვედასტაში. ცვლილებები ამოქმედდება &brandShortName;-ს ახალი სეანსის შემდეგ.">
 <!ENTITY docCache.label                  "ბუფერში განთავსებული გვერდის ქსელურ ვერსიასთან შედარება:">
 <!ENTITY docCache.accesskey              "m">
-<!ENTITY checkOncePerSession.label         "სეანსში ერთხელ">
+<!ENTITY checkOncePerSession.label       "სეანსში ერთხელ">
 <!ENTITY checkEveryTime.label            "ყოველთვის, გვერდის ნახვისას">
 <!ENTITY checkNever.label                "არასოდეს">
 <!ENTITY checkAutomatically.label        "როცა გვერდი ვადაგასულია">

@@ -26,5 +26,5 @@
 <!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY restartOnLangChange.label              "ენის პარამეტრები გააქტივდება &brandShortName; პროგრამის დახურვისა და ხელახლა გახსნის შემდეგ.">
+<!ENTITY restartOnLangChange.label              "ენის პარამეტრების ამოქმედება &brandShortName; პროგრამის დახურვისა და ხელახლა გახსნის შემდეგ.">
 

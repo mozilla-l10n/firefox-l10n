@@ -114,7 +114,7 @@
 <!ENTITY  securityView.privacy.history                  "ეს საიტი დღემდე გამიხსნია?">
 <!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში მონაცემებს (ფუნთუშებს)?">
 <!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ნახვა">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "თ">
 <!ENTITY  securityView.privacy.passwords                "ამ საიტისთვის რაიმე პაროლი შენახული მაქვს?">
 <!ENTITY  securityView.privacy.viewPasswords            "შენახული პაროლების ჩვენება">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">

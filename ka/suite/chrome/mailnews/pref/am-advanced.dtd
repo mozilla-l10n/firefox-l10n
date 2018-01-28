@@ -22,4 +22,4 @@
 <!ENTITY serverPort.label "პორტი: ">
 <!ENTITY userName.label   "სახელი: ">
 <!ENTITY connectionSecurity.label "კავშირის უსაფრთხოება: ">
-<!ENTITY authMethod.label   "აუთენტიფიკაციის მეთოდი: ">
+<!ENTITY authMethod.label   "ანგარიშზე შესვლის მეთოდი: ">
