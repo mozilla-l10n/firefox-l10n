@@ -5,6 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "Protección de seguimiento">
 <!ENTITY  trackingProtection2.description      "El rastreo es la recolección de tus datos de navegación entre múltiples sitios web. El rastreo puede ser usado para construir un perfil y mostrar contenido basándose en tu información personal y de navegación.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Usar protección de rastreo para bloquear los rastreadores conocidos">
+<!ENTITY  trackingProtection3.description      "La protección de seguimiento bloquea a los rastreadores en línea que recolectan tus datos de navegación a través de múltiples sitios web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Usa la protección de seguimiento para bloquear a los rastreadores conocidos">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
@@ -13,6 +14,7 @@
 <!ENTITY  trackingProtectionNever.label        "Nunca">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "Aprender más">
+<!ENTITY  trackingProtectionLearnMore2.label    "Aprender más sobre la protección de seguimiento y tu privacidad">
 <!ENTITY  trackingProtectionExceptions.label   "Excepciones…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
