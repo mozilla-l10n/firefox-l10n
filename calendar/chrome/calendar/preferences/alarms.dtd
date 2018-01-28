@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Meeldetuletuse akna näitamine">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "a">
 <!ENTITY pref.missedalarms "Aegunud meeldetuletuste näitamine">
+<!ENTITY pref.missedalarms2 "Kuvatakse kirjutusõigusega kalendrite aegunud meeldetuletusi">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Meeldetuletuste vaikimisi sätted">
 <!ENTITY pref.defalarm4events.label "Vaikimisi on sündmuste meeldetuletused:">
