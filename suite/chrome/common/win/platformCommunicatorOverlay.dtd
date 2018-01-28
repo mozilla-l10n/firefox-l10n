@@ -22,7 +22,7 @@
 <!ENTITY accel.emacs_conflict           "accel">
 
 <!-- Help viewer -->
-<!ENTITY openHelpCmd.label              "დახმარების შინაარსი">
+<!ENTITY openHelpCmd.label              "დახმარების სარჩევი">
 <!ENTITY openHelpCmd.accesskey          "H">
 <!ENTITY openHelpCmd.key                "VK_F1">
 <!ENTITY helpForIEUsers.label           "Internet Explorer-ის მომხმარებელთათვის">
