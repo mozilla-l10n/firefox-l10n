@@ -452,6 +452,7 @@ chab mtñur">
 <!ENTITY share_image_failed "Tñurya kwimch yutem">
 <!ENTITY save_as_pdf "PDF muliwuk mchkwa">
 <!ENTITY print "Muchpach">
+<!ENTITY view_page_source "Jabchu tñurha uuch">
 <!ENTITY find_in_page "Chŕmeechu myook">
 <!ENTITY desktop_mode "Trchechu mk\&apos; kaab">
 <!ENTITY page "Chŕmeechu">
@@ -491,6 +492,7 @@ chab mtñur">
 <!ENTITY contextmenu_copyurl "Jabchu tkweek tñur">
 <!ENTITY contextmenu_edit_bookmark "Chajaan">
 <!ENTITY contextmenu_subscribe "Jabchu maat tñuchu">
+<!ENTITY contextmenu_site_settings "Jabchuha chajan tñur chmicha">
 <!ENTITY contextmenu_top_sites_edit "Chajaan">
 <!ENTITY contextmenu_top_sites_pin "Baamchu paychak chmii">
 <!ENTITY contextmenu_top_sites_unpin "Baamchu lojch">
@@ -522,15 +524,22 @@ chab mtñur">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Pantaall tubtewchu ham sal aamch">
+<!ENTITY pref_scroll_title_bar_summary2 "Trchech chu &brandShortName; mŕ\&apos;amjabch chuha ñmunalka">
 
+<!ENTITY pref_tab_queue_title3 "Ch chkwachu bjee">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Ch chkwachu mchyunk">
+<!ENTITY pref_compact_tabs_summary2 "Ch chkwachu jwaakum mat tjipeebum mchkwa">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "Jabchu ujinch">
+<!ENTITY folder_removed "Tñur chkwachu ujiñch">
 
+<!ENTITY bookmark_edit_title "Ŕkiru tñur chajanch">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
