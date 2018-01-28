@@ -55,7 +55,7 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Mostrando a versão offline">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_reporter_title "Relator de travamentos do &brandShortName;">
 <!ENTITY  crash_message2 "O &brandShortName; teve um problema e travou. Suas abas serão listadas na página inicial do &brandShortName; quando reiniciar.">
 <!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; sobre este travamento para que eles possam corrigi-lo">
 <!ENTITY  crash_include_url2 "Incluir o endereço da página onde eu estava">
@@ -428,7 +428,7 @@
 <!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de travamento para ajudar a &vendorShortName; a tornar o navegador mais estável e seguro">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
+<!ENTITY datareporting_crashreporter_title_short "Relator de travamentos">
 <!ENTITY datareporting_wifi_title2 "Serviço de localização da &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Ajuda a &vendorShortName; a mapear o mundo! Compartilha a localização aproximada da rede sem fios e móvel do seu dispositivo para melhorar o nosso serviço de geolocalização.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
