@@ -48,6 +48,11 @@
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "Dunikïn'">
 <!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Garasun têma">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Ga'nïn' ruhuâ si garasunt têma">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "Gachinj ni'iaj dugi'iaj sunt man">
 <!ENTITY cmd.showPreferencesWin.label         "Nagui’iaj">
 <!ENTITY cmd.showPreferencesUnix.label        "Nagui’iaj">
 

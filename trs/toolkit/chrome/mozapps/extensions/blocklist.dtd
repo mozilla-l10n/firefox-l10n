@@ -2,12 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY blocklist.moreinfo          "Doj nuguan' a'min rayi'î nan">
 
+<!ENTITY blocklist.accept.label      "Nayi'ì nakà &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "R">
 
-
-
-
-
-
-
-
+<!ENTITY blocklist.blocked.label     "Hua blokeadoj">
+<!ENTITY blocklist.checkbox.label    "Dunikïn'">
