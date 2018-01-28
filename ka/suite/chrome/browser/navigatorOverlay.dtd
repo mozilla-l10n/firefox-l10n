@@ -87,7 +87,7 @@
 <!ENTITY manBookmarksCmd.commandkey "b">
 
 <!-- Tools Menu -->
-<!ENTITY searchInternetCmd.label "ძიება ინტერენტში">
+<!ENTITY searchInternetCmd.label "ძიება ინტერნეტში">
 <!ENTITY searchInternetCmd.accesskey "b">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "გვერდის თარგმნა">

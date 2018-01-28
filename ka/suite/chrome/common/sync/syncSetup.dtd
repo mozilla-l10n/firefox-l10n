@@ -39,13 +39,13 @@
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "მომსახურების">
 <!ENTITY setup.tosAgree2.label      "და">
-<!ENTITY setup.ppLink.label         "კონფიდენციალობის პირობებს">
+<!ENTITY setup.ppLink.label         "პირადი მონაცემების დაცვის დებულება">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Recovery Key -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ზრუნავს თქვენს კონფიდენციალობაზე">
-<!ENTITY setup.newRecoveryKeyPage.description.label "თქვენი სრული კონფიდენციალობის უზრუნველსაყოფად, ატვირთვამდე თქვენი ყველა მონაცემი დაიშიფრება. მონაცემთა გაშიფვრის კოდი არ აიტვირთება.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ზრუნავს თქვენი პირადი მონაცემების უსაფრთხოებაზე">
+<!ENTITY setup.newRecoveryKeyPage.description.label "პირადი ინფორმაციის სრულად დასაცავად, ატვირთვის წინ, თქვენი მონაცემები იშიფრება. აღდგენის გასაღები, რომელიც ამ მონაცემების გასაშიფრადაა საჭირო, არ აიტვირთება.">
 <!ENTITY recoveryKeyEntry.label        "თქვენი აღდგენის კოდი">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY recoveryGenerateNewKey.label  "ახალი კოდის გენერაცია">

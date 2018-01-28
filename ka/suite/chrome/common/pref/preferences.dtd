@@ -17,12 +17,12 @@
 <!ENTITY languages.label "ენები">
 <!ENTITY applications.label "დახმარების პროგრამები">
 <!ENTITY locationBar.label "მისამართის პანელი">
-<!ENTITY search.label "ძიება ინტერენეტში">
+<!ENTITY search.label "ძიება ინტერნეტში">
 <!ENTITY tabWindows.label "გახსნა დაფებზე">
 <!ENTITY links.label "ბმების ქცევა">
 <!ENTITY download.label "ჩამოტვირთვები">
 
-<!ENTITY security.label "კონფიდენციალობა და უსაფრთხოება">
+<!ENTITY security.label "პირადულობა და უსაფრთხოება">
 <!ENTITY privatedata.label "პირადი მონაცემები">
 <!ENTITY cookies.label "ფუნთუშები">
 <!ENTITY images.label "გამოსახულებები">
@@ -34,7 +34,7 @@
 
 <!ENTITY sync.label "სინქრონიზაცია">
 
-<!ENTITY advance.label "დამტებით">
+<!ENTITY advance.label "დამატებით">
 <!ENTITY scriptsAndWindows.label "სცენარები და მოდულები">
 <!ENTITY keynav.label "კლავიატურა">
 <!ENTITY findAsYouType.label "ძიება ტექსტის შეტანისას">

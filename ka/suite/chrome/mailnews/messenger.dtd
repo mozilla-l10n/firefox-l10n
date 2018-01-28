@@ -441,7 +441,7 @@
 <!ENTITY undeleteButton.tooltip "მონიშნული წერილის აღდგენა">
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
-<!ENTITY throbber.tooltip "გადასვლა &vendorShortName;-ს სათაო გვერდზე">
+<!ENTITY throbber.tooltip "გადასვლა &vendorShortName;-ს საწყის გვერდზე">
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
 <!ENTITY notJunkButton.tooltip "შერჩეული წერილების არაჯართად მონიშვნა">
 
