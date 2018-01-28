@@ -51,8 +51,6 @@ available. -->
 
 <!ENTITY httpCache.label                 "კეშირებული ვებშიგთავსი">
 
-<!ENTITY offlineStorage2.label           "ვებშიგთავსი და მომხმარებლის მონაცემები, კავშირგარეშე წვდომისთვის">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "საიტის მონაცემები">
 <!ENTITY clearSiteData.label             "ყველა მონაცემის წაშლა">
@@ -72,8 +70,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB დისკზე">
 <!ENTITY clearCacheNow.label             "გასუფთავება">
 <!ENTITY clearCacheNow.accesskey         "ფ">
-<!ENTITY clearOfflineAppCacheNow.label   "გასუფთავება">
-<!ENTITY clearOfflineAppCacheNow.accesskey "გ">
 <!ENTITY overrideSmartCacheSize.label    "კეშის ზომის თვითგანსაზღვრის უგულებელყოფა">
 <!ENTITY overrideSmartCacheSize.accesskey "უ">
 
@@ -111,19 +107,8 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "საძიებო სისტემების თვითგანახლება">
 <!ENTITY enableSearchUpdate2.accesskey   "ს">
 
-<!ENTITY offlineStorageNotify.label               "გაფრთხილება, საიტის მიერ მონაცემების კავშირგარეშე წვდომისთვის შენახვისას">
-<!ENTITY offlineStorageNotify.accesskey           "ფ">
-<!ENTITY offlineStorageNotifyExceptions.label     "გამონაკლისები…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "ნ">
-
-<!ENTITY offlineAppsList3.label          "მოცემულ ვებსაიტებს, მონაცემების კავშირგარეშე წვდომისთვის შენახვის უფლება აქვთ">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "ამოღება…">
-<!ENTITY offlineAppsListRemove.accesskey "ა">
-<!ENTITY offlineAppRemove.confirm        "კავშირგარეშე წვდომის მონაცემთა წაშლა">
-
 <!ENTITY certificateTab.label            "სერტიფიკატები">
-<!ENTITY certPersonal2.description       "როცა სერვერი თქვენს პირად სერტიფიკატს ითხოვს">
+<!ENTITY certPersonal2.description       "სერვერის მიერ, თქვენი პირადი სერტიფიკატის მოთხოვნისას">
 <!ENTITY selectCerts.auto                "თვითშერჩევა">
 <!ENTITY selectCerts.auto.accesskey      "თ">
 <!ENTITY selectCerts.ask                 "ყოველ ჯერზე კითხვა">
