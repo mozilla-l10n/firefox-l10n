@@ -10,4 +10,4 @@
 <!ENTITY setPassword.meter.label           "Mesura de la qualitat del senhal">
 <!ENTITY setPassword.meter.loading         "Cargament">
 <!ENTITY masterPasswordDescription.label   "Un senhal principal servís per protegir d'entresenhas sensiblas coma los senhals utilizats suls sites. Se ne creatz un, vos serà demandat de l'introduire un còp per session quand &brandShortName; accedís a las entresenhas enregistradas protegidas per aqueste senhal.">
-<!ENTITY masterPasswordWarning.label       "Fasètz atencion a doblidar pas lo senhal principal. S'o doblidatz, auretz pas pus accès a las entresenhas que protegís.">
+<!ENTITY masterPasswordWarning.label       "Fasètz atencion a oblidar pas lo senhal principal. Se lo oblidetz, auretz pas mai accès a las entresenhas que protegís.">

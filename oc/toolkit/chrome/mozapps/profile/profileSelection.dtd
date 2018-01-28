@@ -18,7 +18,7 @@
 <!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Tornar nomenar un perfil...">
 <!ENTITY            renameButton.accesskey "T">
-<!ENTITY            deleteButton.label     "Suprimir un perfil...">
+<!ENTITY            deleteButton.label     "Suprimir lo perfil…">
 <!ENTITY            deleteButton.accesskey "S">
 
 <!-- manager entities -->
