@@ -11,28 +11,60 @@
 
 <!ENTITY accountSetupInfo2.label "Da biste primali poruke, prvo morate podesiti račun.">
 <!ENTITY accountTypeTitle.label "Podešavanje novog računa">
+<!ENTITY accountTypeDesc2.label "Ovaj čarobnjak će prikupiti informacije potrebne za postavljanje računa. Ako ne znate tražene informacije, obratite se administratoru sistema ili pružaocu internetskih usluga.">
+<!ENTITY accountTypeDirections.label "Izaberite vrstu računa koju želite podesiti:">
+<!ENTITY accountTypeMail.label "Email račun">
+<!ENTITY accountTypeNews.label "Račun interesne grupe">
 
 <!-- Entities for Identity page -->
 
+<!ENTITY identityTitle.label "Identitet">
+<!ENTITY identityDesc.label "Svaki račun ima svoj identitet, koji predstavlja informaciju po kojoj će vas drugi prepoznati kada prime vaše poruke.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Upišite ime koje želite da se pojavi u polju &quot;Šalje&quot; vaših odlaznih poruka">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
+<!ENTITY fullnameExample.label "(naprimjer, &quot;John Smith&quot;).">
+<!ENTITY fullnameLabel.label "Vaše ime:">
 
+<!ENTITY emailLabel.label "Email adresa:">
 
 <!-- Entities for Incoming Server page -->
 
+<!ENTITY incomingTitle.label "Informacija o dolaznom serveru">
+<!ENTITY incomingServerTypeDesc.label "Izabrite koju vrstu dolaznog servera koristite.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Izvorno:">
+<!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Unesite naziv vašeg dolazećeg servera (naprimjer, &quot;mail.primjer.ba&quot;).">
+<!ENTITY incomingServer.label "Dolazni server:">
+<!ENTITY leaveMsgsOnSrvr.label "Ostavi poruke na serveru">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Upišite korisničko ime za primanje emaila koje vam je dao vaš email provajder (naprimjer, &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "Korisničko ime:">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Unesite naziv vašeg servera vijesti (NNTP) (naprimjer, &quot;news.primjer.ba&quot;).">
+<!ENTITY newsServerLabel.label "Server interesne grupe:">
 
 <!-- Entities for Outgoing Server page -->
 
+<!ENTITY outgoingTitle.label "Informacije o odlaznom serveru">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Unesite naziv vašeg odlaznog servera (SMTP) (naprimjer, &quot;smtp.primjer.ba&quot;).">
+<!ENTITY outgoingServer.label "Odlazni server:">
+<!ENTITY outgoingUsername.description "Upišite korisničko ime za slanje emailova koje vam je dao vaš email provajder (obično je identično korisničkom imenu za primanje emailova).">
+<!ENTITY outgoingUsername.label "Odlazno korisničko ime:">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
