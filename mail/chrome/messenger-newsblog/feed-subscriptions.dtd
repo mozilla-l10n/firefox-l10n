@@ -26,7 +26,7 @@
 <!ENTITY biffMinutes.accesskey       "m">
 <!ENTITY biffDays.label              "dni">
 <!ENTITY biffDays.accesskey          "d">
-<!ENTITY recommendedUnits.label      "Založnik priporoča:">
+<!ENTITY recommendedUnits.label      "Objavitelj priporoča:">
 
 <!ENTITY quickMode.label             "Pokaži povzetek članka namesto nalaganja spletne strani">
 <!ENTITY quickMode.accesskey         "k">
