@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "এই ছবি শেয়ার করতে অক্ষম">
 <!ENTITY save_as_pdf "পিডিএফ হিসেবে সংরক্ষণ করুন">
 <!ENTITY print "মুদ্রণ">
+<!ENTITY view_page_source "পেজ সোর্স দেখুন">
 <!ENTITY find_in_page "পাতায় অনুসন্ধান">
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের জন্য অনুরোধ">
 <!ENTITY page "পাতা">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "নতুন ট্যাবে খুলুন">
 <!ENTITY contextmenu_open_private_tab "ব্যক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_remove "অপসারণ">
-<!ENTITY contextmenu_add_to_launcher "নীড় স্ক্রিনে যোগ করুন">
 <!ENTITY contextmenu_add_page_shortcut "পাতার সর্টকাট যোগ করুন">
 <!ENTITY contextmenu_set_as_homepage "নীড়পাতা হিসেবে সেট করুন">
 <!ENTITY contextmenu_share "শেয়ার">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "পাতা অপসারিত হয়েছে">
-
 <!ENTITY folder_removed "ফোল্ডার অপসারিত">
 
 <!ENTITY bookmark_edit_title "বুকমার্ক সম্পাদনা">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; হালনাগাদ করা হয়েছে">
 <!ENTITY whatsnew_notification_summary "এই সংস্করণে নতুন কি আছে খুঁজে বের করুন">
-
-<!ENTITY promotion_add_to_homescreen "নীড় স্ক্রিনে যুক্ত করুন">
 
 <!ENTITY promotion_add_page_shortcut "পাতার সর্টকাট যোগ করুন">
 
