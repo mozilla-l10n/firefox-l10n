@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " om mei jo mobile apparaat te syngronisearjen.">
+
+<!ENTITY mobilepromo.singledevice      "Noch in apparaat keppelje">
+<!ENTITY mobilepromo.multidevice       "Apparaten beheare">
