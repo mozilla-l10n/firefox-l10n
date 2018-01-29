@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOs">
 
 <!ENTITY mobilePromo3.end              " akken ad temtawiḍ d yibenkan-ik aziraz.">
+
+<!ENTITY mobilepromo.singledevice      "Qqen ibenk nniḍen">
+<!ENTITY mobilepromo.multidevice       "Sefrek ibenkan">
