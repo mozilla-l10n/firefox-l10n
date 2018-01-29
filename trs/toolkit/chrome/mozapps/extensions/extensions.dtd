@@ -20,18 +20,42 @@
 <!ENTITY listEmpty.button.label               "Gahuin chrūn doj rayi’î nej komplemênto">
 <!ENTITY installAddonFromFile.label           "Ga'nïnj Komplemênto asij riña archibô…">
 <!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Rasuun gini'ñanj daran' nej komplemênto">
+
+<!ENTITY getThemes.description                "¿Nagi'iaj ninïnt dàj ga si nabegadôt ruhuâ raj?">
+<!ENTITY getThemes.learnMore                  "Nagui siganïnj daran' chre nej tema huaa.">
 
 
-
+<!ENTITY showUnsignedExtensions.button.label  "Nu ga'ue nana'in da'aj nej extensiôn">
+<!ENTITY showAllExtensions.button.label       "Ni'iaj daran' extensiôn">
+<!ENTITY debugAddons.label                    "Nej komplemênto nagi'iaj depurandô">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Giyichin' hue'ê daran' nej komplemênto.">
+<!ENTITY warning.checkcompatibility.label          "Nej sa natsij nej komplemênto nitaj si 'iaj sun. Ga'ue ginu komplemênto nitaj si ara' ngà aga' nan.">
+<!ENTITY warning.checkcompatibility.enable.label   "Dugi'iaj sun' man">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Nachrun sa natsij si aran' nej komplemênto ngà nej aga' nan">
+<!ENTITY warning.updatesecurity.label              "Giyichin' sa natsij si hua nïn 'iaj sun nej komplemênto. Ga'ue ni nahuin nakà 'ngo sa nu garan' ruhuât.">
+<!ENTITY warning.updatesecurity.enable.label       "Dugi'iaj sun' man">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Nachrun sa dugumîn si hua hue'ê nej sa nahuin nakà riña aga' nan">
 
 <!-- categories / views -->
+<!ENTITY view.search.label                    "Nanà'uì'">
+<!ENTITY view.discover.label                  "Nadunïnj nej komplemênto">
+<!ENTITY view.recentUpdates.label             "Nej sa hìaj nahuin nakà">
+<!ENTITY view.availableUpdates.label          "Nej sa ga'ue nahuin nakà">
 
 <!-- addon updates -->
+<!ENTITY updates.checkForUpdates.label        "Nana'uì' sa Nahuin nakà doj">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "Ni'iaj nej sa hìaj nahuin nakà">
+<!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "Dunaj nahuin nakà ma'an nej komplemênto">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
