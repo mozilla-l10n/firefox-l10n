@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Neizdevās dalīties ar šo attēlu">
 <!ENTITY save_as_pdf "Saglabāt kā PDF">
 <!ENTITY print "Drukāt">
+<!ENTITY view_page_source "Skatīt lapas pirmkodu">
 <!ENTITY find_in_page "Meklēt lapā">
 <!ENTITY desktop_mode "Lapu datora versijas">
 <!ENTITY page "Lapa">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Atvērt jaunā cilnē">
 <!ENTITY contextmenu_open_private_tab "Atvērt privātā cilnē">
 <!ENTITY contextmenu_remove "Izņemt">
-<!ENTITY contextmenu_add_to_launcher "Pievienot sākuma ekrānam">
 <!ENTITY contextmenu_add_page_shortcut "Pievienot lapas saīsni">
 <!ENTITY contextmenu_set_as_homepage "Iestatīt kā mājas lapu">
 <!ENTITY contextmenu_share "Dalīties">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Lapa aizvākta">
-
 <!ENTITY folder_removed "Mape aizvākta">
 
 <!ENTITY bookmark_edit_title "Grāmatzīmes rediģēšana">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ir jaunākā versija">
 <!ENTITY whatsnew_notification_summary "Uzziniet, kas šajā versijā ir jauns">
-
-<!ENTITY promotion_add_to_homescreen "Pievienot sākuma ekrānam">
 
 <!ENTITY promotion_add_page_shortcut "Pievienot lapas saīsni">
 
