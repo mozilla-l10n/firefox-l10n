@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " til að samstilla með farsímanum.">
+
+<!ENTITY mobilepromo.singledevice      "Tengja annað tæki">
+<!ENTITY mobilepromo.multidevice       "Sýsla með tæki">
