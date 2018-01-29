@@ -9,7 +9,7 @@
 <!ENTITY  copy.label            "కాపీ చేయి">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "అన్నిటిని ఎన్నుకొనుము">
+<!ENTITY  selectall.label       "అన్నిటినీ ఎంచుకో">
 <!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
