@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " каб сінхранізавацца са сваёй мабільнай прыладай.">
+
+<!ENTITY mobilepromo.singledevice      "Злучыць іншую прыладу">
+<!ENTITY mobilepromo.multidevice       "Кіраваць прыладамі">
