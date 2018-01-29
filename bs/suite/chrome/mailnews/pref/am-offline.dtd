@@ -17,6 +17,16 @@
 <!ENTITY nntpDownloadMsg.label "Poruke starije od">
 <!ENTITY retentionCleanup.label "Kako bi oslobodili diskovni prostor, stare poruke se mogu trajno obrisati.">
 <!ENTITY retentionCleanupImap.label "Kako bi se oslobodio prostor na disku, stare poruke mogu biti trajno izbrisane, lokalne kopije i izvorne poruke na serveru.">
+<!ENTITY retentionCleanupPop.label "Da bi se oslobodio prostor na disku, stare poruke se mogu trajno izbrisati, uključujući i izvorne poruke na serveru.">
+<!ENTITY retentionKeepMsg.label "Izbriši poruke starije od">
+<!ENTITY retentionKeepAll.label "Ne briši nikakve poruke">
+<!ENTITY retentionKeepRecent.label "Izbriši sve osim najnovijih">
+<!ENTITY retentionApplyToFlagged.label "Uvijek zadrži poruke sa zastavicom">
+<!ENTITY nntpRemoveMsgBody.label "Ukloni tijela poruka starija od">
+<!ENTITY offlineSelectNntp.label "Izaberite interesne grupe za offline korištenje…">
+<!ENTITY offlineImapAdvancedOffline.label "Napredno…">
+<!ENTITY syncGroupTitle.label "Sinhronizacija poruke">
+<!ENTITY diskspaceGroupTitle.label "Prostor na disku">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
@@ -24,3 +34,11 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY allAutosync.label               "Sinhronizuj lokalno sve poruke bez obzira na starost">
+<!ENTITY ageAutosyncBefore.label         "Sinhronizuj najnovije">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Dana">
+<!ENTITY weekAgeInterval.label           "Sedmica">
+<!ENTITY monthAgeInterval.label          "Mjeseci">
+<!ENTITY yearAgeInterval.label           "Godina">
+<!ENTITY ageAutosyncAfter.label          "">
