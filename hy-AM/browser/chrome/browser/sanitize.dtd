@@ -21,11 +21,11 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings2.label     "&brandShortName;-ը փակելիս միանգամից մաքրել ամենը`">
+<!ENTITY clearDataSettings3.label     "Երբ ես փակում եմ &brandShortName;-ը, այն պետք է ինքնաբար մաքրի բոլոր">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Ջնջելու ենթակա ժամանակահատվածը`">
 <!ENTITY clearTimeDuration.accesskey      "Ջ">
 <!ENTITY clearTimeDuration.lastHour       "Վերջին ժամի">
@@ -36,10 +36,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "Ամենը">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Մանրամասներ">
 <!ENTITY detailsProgressiveDisclosure.accesskey "ա">
 
@@ -60,8 +60,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "Մ">
 <!ENTITY itemSitePreferences.label         "Կայքի նախըտրանքներ">
 <!ENTITY itemSitePreferences.accesskey     "Կ">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Այս գործողությունը չի կարող ետարկվել:">

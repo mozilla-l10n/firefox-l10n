@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Բացել նո&amp;ր պատուհաններ՝  նոր ներդիրների փոխարեն">
 <!ENTITY newWindowsAsTabs.accesskey   "ն">
 
+<!ENTITY newWindowsAsTabs3.label       "Հղումները բացել նոր ներդիրներում՝ նոր պատուհանների փոխարեն">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Զգուշացնել բազմաթիվ ներդիրներ փակելիս">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "Զ">
 

@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Օգտագործեք հասցեի գոտին՝ որոնման և ուղորդման համար">
 <!ENTITY searchBar.shown.label                 "Ավելացնել որոնման գոտին գործիքագոտիում">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքների ամենավերևում">
+
 <!ENTITY defaultSearchEngine.label             "Հիմնական որոնիչը">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Ընտրեք լռելյայն որոնիչը՝ օգտագործելու համար հասցեի և որոնման գոտիում:">

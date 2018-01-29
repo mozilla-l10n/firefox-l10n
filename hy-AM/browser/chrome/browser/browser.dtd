@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Ուղարկել հղումը սարքին">
 <!ENTITY  sendLinkToDevice.accesskey         "ս">
 <!ENTITY  sendToDeviceFeedback.label         "Ուղարկել">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Հերթագրված (անցանց)">
 <!ENTITY  moveToNewWindow.label              "Տեղափոխել Նոր Պատուհան">
 <!ENTITY  moveToNewWindow.accesskey          "Պ">
 <!ENTITY  bookmarkAllTabs.label              "Էջանշել բոլոր ներդիրները...">
@@ -209,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Բացել հաղորդագրության վահանակը">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ԲԱցել տեղադրության հարցման վահանակը">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Բացել հավելման տեղադրման հաղորդագրության վահանակը">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Կառավարել canvas դուրս բերման թույլտվությունները">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Բացել անցանց պահեստի հաղորդագրության վահանակը">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Բացել պահպանված գաղտնաբառի հաղորդագրության վահանակը">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Կառավարել բաղադրիչների օգտագործումը">
@@ -229,11 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Դուք արգելափակել եք բարձրախոսը այս կայքի համար:">
 <!ENTITY urlbar.screenBlocked.tooltip            "Դուք արգելափակել եք այս կայքը՝ ձեր էկրանի համօգտագործելուց:">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Դուք արգելափակել եք տեղադրության տեղեկությունը այս կայքի համար:">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Դուք արգելափակել եք տվյալների պահեստը այս կայքի համար:">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Դուք արգելափակել եք ծանուցումները այս կայքի համար:">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Դուք արգելափակել եք մշտական պահեստը այս կայքի համար:">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Դուք ունեք արգելափակված ելնող պատուհաններ այս կայքում:">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Դուք արգելափակել եք canvas տվյալների դուրս բերումը այս կայքի համար:">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմությունը">
 
@@ -299,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Ն">
 <!ENTITY newPrivateWindow.label     "Սկսել Գաղտնի դիտարկում">
 <!ENTITY newPrivateWindow.accesskey "Գ">
-<!ENTITY newNonRemoteWindow.label   "Նոր ոչ e10s պատուհան">
 
 <!ENTITY editMenu.label         "Խմբագրել">
 <!ENTITY editMenu.accesskey       "Խ">
@@ -354,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Ցուցադրել ամբողջ պատմությունը">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Հարմարեցնել">
-<!ENTITY appMenuCustomize.tooltip "Հարմարեցնել Ցանկը և Գործիքագոտիները">
-<!ENTITY appMenuCustomizeExit.label "Փակել կարգավորումը">
-<!ENTITY appMenuCustomizeExit.tooltip "Ավարտել կարգավորումը">
-
 <!ENTITY appMenuHistory.showAll.label "Ցուցադրել ամբողջ պատմությունը">
 <!ENTITY appMenuHistory.clearRecent.label "Մաքրել Վերջին Պատմությունը...">
 <!ENTITY appMenuHistory.restoreSession.label "Վերականգնել նախորդ աշխատաշրջանը">
 <!ENTITY appMenuHistory.viewSidebar.label "Պատմության կողային վահանակը">
 <!ENTITY appMenuHistory.recentHistory.label "Վերջին պատմությունը">
 <!ENTITY appMenuHelp.label "Օգնություն">
-<!ENTITY appMenuHelp.tooltip "Բացել օգնության ցանկը">
 
 <!ENTITY appMenuRemoteTabs.label "Համաժամեցված ներդիրներ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -389,10 +384,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Սինքի նախընտրանքներ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերի ներդիրների ցանկը։">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ձեր հաշիվը պետք է ստուգվի:">
 <!ENTITY appMenuRemoteTabs.signin.label "Մուտք գործել Սինք">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Կառավարել սարքերը…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Դիտել համաժամեցված ներդիրների Կողագոտին">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Կապակցվել այլ սարքի">
 
 <!ENTITY appMenuRecentHighlights.label "Վերջին ընդգծւմները">
 
@@ -438,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Ընդլայնում՝">
 <!ENTITY urlbar.switchToTab.label     "Անցնել ներդիրի՝">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Ցանկանու՞մ եք լավարկել որոնման աշխատանքը առաջարկներով:">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Իմանալ ավելին...">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ոչ">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Այո">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Հուշում.">
@@ -569,6 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Տեղադրել Աշխատասեղանին…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "Տ">
 <!ENTITY bookmarkPageCmd2.label       "Էջանշել Այս Էջը">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "էջանշել Այս Հղումը">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "Հ">
 <!ENTITY bookmarkThisFrameCmd.label      "Էջանշել Այս շրջանակը">
@@ -723,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Օգտագործել Էջի Հիմնական Ոճը">
 <!ENTITY pageStylePersistentOnly.accesskey "Օ">
 
-<!ENTITY pageReportIcon.tooltip            "Փոխել այս էջի համար Pop-up արգելակման դրույթները">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -856,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Սինք">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Քաշեք ձեր ընտրյալ միույթները գործիքագոտի կամ գերլցված ցանկ:">
-<!ENTITY customizeMode.menuAndToolbars.empty "Ի՞նչ լրացուցիչ գործիք">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Ընտրություն կատարեք հազարավոր հավելումներից">
 <!ENTITY customizeMode.restoreDefaults "Վերականգնել ծրագրայինը">
 <!ENTITY customizeMode.done "Պատրաստ է">
 <!ENTITY customizeMode.titlebar "Անվանագոտի">
@@ -870,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Նոր ձևավորումներ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Քաշեք և գցեք միույթները այստեղ՝ դրանք այստեղ պահելու համար, բայց գործիքագոտուց դուրս:">
 <!ENTITY customizeMode.overflowList.title2 "Լցվող ցանկ">
 <!ENTITY customizeMode.overflowList.description "Վերցնել և գցել միույթները այստեղ՝ պահելու համար դրանք հասանելի, բայց գործիքագոտուց դուրս:">
 <!ENTITY customizeMode.uidensity "Բաշխում">
@@ -991,11 +976,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Ո">
 <!ENTITY updateRestart.panelUI.label2 "Վերամեկնարկեք՝ &brandShorterName;-ը՝ արդիացնելու համար">
 
+<!ENTITY newTabControlled.message "Ընդլայնումը փոխել է էջը, որը դուք տեսել եք Նոր Ներդիր բացելիս: Կարող եք վերականգնել ձեր կարգավորումները, եթե չեք ցանկանում սա փոխել:">
+<!ENTITY newTabControlled.header.message "Ձեր Նոր Ներդիրը փոխվել է:">
+<!ENTITY newTabControlled.keepButton.label "Պահել փոփոխությունները">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "Վերականգնել կարգավորումները">
+<!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Էջի գործույթները">
 <!ENTITY pageAction.addToUrlbar.label "Ավելացնել Հասցեագոտում">
 <!ENTITY pageAction.removeFromUrlbar.label "ՀԵռացնել Հասցեագոտուց">
-
 <!ENTITY pageAction.allowInUrlbar.label "Ցուցմադրել Հասցեի գոտում">
 <!ENTITY pageAction.disallowInUrlbar.label "Չցուցադրել ՀԱսցեի գոտում">
 <!ENTITY pageAction.manageExtension.label "Կառավարել ընդլայնումը...">
