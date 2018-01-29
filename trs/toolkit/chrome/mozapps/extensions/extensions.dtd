@@ -138,27 +138,75 @@
 
 <!ENTITY detail.updateType                    "Nej sa nagi'iaj nakà ma'an ma'an">
 <!ENTITY detail.updateDefault.label           "Sa gà' 'na' niñaan">
+<!ENTITY detail.updateDefault.tooltip         "Dunaj nagi'iaj nakà ma'an ma'an sisi ngà daj huaj 'naj">
+<!ENTITY detail.updateAutomatic.label         "Nachrun">
+<!ENTITY detail.updateAutomatic.tooltip       "Dunaj nagi'iaj nakà ma'an man">
+<!ENTITY detail.updateManual.label            "Duna'àj">
+<!ENTITY detail.updateManual.tooltip          "Si dunajt nagi'iaj nakà ma'an man">
+<!ENTITY detail.home                          "Ñanj ayi'ìj">
+<!ENTITY detail.repository                    "Perfil taj ma'an">
+<!ENTITY detail.size                          "Dàj yachìj man">
 
+<!ENTITY detail.checkForUpdates.label         "Nana'uì' sa Nahuin nakà doj">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "Nana'uì' sa' ga'ue nahuin nakà riña komplementô nan">
+<!ENTITY detail.showPreferencesWin.label      "Sa huā gi'iát">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "Naduna nej sa nikaj komplementô nan">
+<!ENTITY detail.showPreferencesUnix.label     "Sa arajsunt doj">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Naduna nej sa garan' ruhuât riña komplementô nan">
 
 
 <!-- ratings -->
+<!ENTITY rating2.label                        "Antaj nikò guìi araj sun man">
 
 <!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Duyichin' akuan'">
+<!ENTITY progress.cancel.tooltip              "Dure'">
 
 
 <!-- list sorting -->
+<!ENTITY sort.name.label                      "Si yugui">
+<!ENTITY sort.name.tooltip                    "Nagi'iaj chre' daj hua ma'an si yugui">
+<!ENTITY sort.dateUpdated.label               "Sa nagi'iaj nakà rukù nïn't">
+<!ENTITY sort.dateUpdated.tooltip             "Nagi'iaj chre' da' diû gahui man">
+<!ENTITY sort.relevance.label                 "Sa 'iaj sun hue'ê doj">
+<!ENTITY sort.relevance.tooltip               "Nagi'iaj chre' daj hua ña'an man doj">
+<!ENTITY sort.price.label                     "Sa du'ue">
+<!ENTITY sort.price.tooltip                   "Nagi'iaj chre' da' du'ue ma'an man">
 
+<!ENTITY search.filter2.label                 "Nanà'uì':">
+<!ENTITY search.filter2.installed.label       "Nej si komplementôj">
+<!ENTITY search.filter2.installed.tooltip     "Gini'iaj nej komplementô natuj nakà">
+<!ENTITY search.filter2.available.label       "Nej komplementô huaa">
+<!ENTITY search.filter2.available.tooltip     "Gi'ni'iaj nej komplementô ga'ue ga'nïnjt">
 
+<!ENTITY addon.homepage                       "Ñanj ayi'ì'">
+<!ENTITY addon.details.label                  "Doj">
+<!ENTITY addon.details.tooltip                "Gini'iaj doj sa hua rayi'î komplementô nan">
+<!ENTITY addon.unknownDate                    "Sê sa ni'în' huin">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(nitaj si huaj)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
+<!ENTITY addon.update.postfix                 "Nagi'iaj nakà">
+<!ENTITY addon.undoAction.label               "Nadurê'">
+<!ENTITY addon.undoAction.tooltip             "Nadure' sa gi'iát nan">
+<!ENTITY addon.undoRemove.label               "Nadurê'">
+<!ENTITY addon.undoRemove.tooltip             "Dunaj ginun komplemênto na gi'iaj sunj">
+<!ENTITY addon.restartNow.label               "Dunayi'ì nakà akuan' nïn">
+<!ENTITY addon.install.label                  "Ga'nïnj">
+<!ENTITY addon.install.tooltip                "Ga'nïnj komplementô nan">
+<!ENTITY addon.updateNow.label                "Nagi'aj nakà hìaj">
 <!ENTITY addon.checkingForUpdates.label       " Nana’uij sa naka doj…">
 
 
