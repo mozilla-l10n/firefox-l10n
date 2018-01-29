@@ -27,7 +27,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Motores de pesquisa de um clique">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "Escolha os motores de pesquisa alternativos que aparecem debaixo da barra de endereço e barra de pesquisa quando começa a digitar uma palavra-chave.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Escolha os motores de pesquisa alternativos que aparecem debaixo da barra de endereço e barra de pesquisa quando começa a introduzir uma palavra-chave.">
 
 <!ENTITY engineNameColumn.label                "Motor de pesquisa">
 <!ENTITY engineKeywordColumn.label             "Palavra-chave">
