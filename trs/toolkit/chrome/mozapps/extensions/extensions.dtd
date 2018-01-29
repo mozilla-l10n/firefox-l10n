@@ -14,6 +14,12 @@
 <!ENTITY loading.label                        "Hìaj ayi'ij...">
 <!ENTITY listEmpty.installed.label            "Nitaj ngà' si 'ngo komplementô hua dananj nu 'iaj sun 'iát">
 <!ENTITY listEmpty.availableUpdates.label     "Nu nari'ìj nej sa nahui nakàa">
+<!ENTITY listEmpty.recentUpdates.label        "Ngà si 'ngo komplemento nu nahuin nakàa ra'ñanj">
+<!ENTITY listEmpty.findUpdates.label          "Nana'uì' nej sanagi'iaj nakàa">
+<!ENTITY listEmpty.search.label               "Nu nari'ij nej komplementô nikaj dugui' ngà sa nana'uî't">
+<!ENTITY listEmpty.button.label               "Gahuin chrūn doj rayi’î nej komplemênto">
+<!ENTITY installAddonFromFile.label           "Ga'nïnj Komplemênto asij riña archibô…">
+<!ENTITY installAddonFromFile.accesskey       "I">
 
 
 
