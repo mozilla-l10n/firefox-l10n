@@ -213,26 +213,49 @@
 <!ENTITY addon.checkingForUpdates.label       " Nana’uij sa naka doj…">
 <!ENTITY addon.releaseNotes.label             "Nuguan' ri' riña aga' na:">
 <!ENTITY addon.loadingReleaseNotes.label      "Hìaj ayi'ij...">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Si ga'man ruhuât sani, ga 'ngo sa gahui a'na' ngà nej si nota versiôn.">
 
+<!ENTITY addon.createdBy.label                "Guendâ ">
 
+<!ENTITY eula.title                           "Chrej da'ui dugui' garasun nan ganikò' si">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Araj yinaj ni ga'nïn man…">
 
+<!ENTITY settings.path.button.label           "Natsij ni'iajt…">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+<!ENTITY experiment.info.label "¿Nuhuin si huin nan nanj? Telemetria ni ga'ue gatu ni garauej nda nasinùnj chre.">
 <!ENTITY experiment.info.learnmore "Gahuin chrūn doj">
 <!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Sa nikaj Telemetria">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Gahuin chrūn doj…">
 
+<!ENTITY disabledUnsigned.heading "Hua da'aj nej komplemênto ni giyichin' nej man">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Nej komplementô nan ni nu gachin man da' natsij &brandShortName;. Ga'ue gi'iát ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "narì' sa ga'ue natu riña nan">
+<!ENTITY disabledUnsigned.description.end " asi gachinj ni'iaj riña desarroyadô da' natsij man.">
+<!ENTITY disabledUnsigned.learnMore "Gini'in doj rayi'î sun 'iaj ñûnj da' a'ue aché nu hue'êt riña aga' nan.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Nej desarroyadô ruhuâ natsij nej si komplementô ni ga'ue gahiaat nej ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "nachrun ra'a">
+<!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Hua sa nanu ruhuâ raj? Hua da'aj nej plugîn ni nitaj si aran'anj ngà &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Gahuin chrun doj">
 
+<!ENTITY legacyWarning.showLegacy "Ni'iaj nej extensiûn hua nika hia">
+<!ENTITY legacyExtensions.title "Nej extensiûn hua nikaa">
+<!ENTITY legacyExtensions.description "Nitaj si digahuin nej extensiûn nan ngà nej chrej &brandShortName; huaa yi'ì dan giyichin' nej man.">
+<!ENTITY legacyExtensions.learnMore "Gini'in doj rayi'î nuguan' hua ngà nadunô' 'ngo komplemênto">
