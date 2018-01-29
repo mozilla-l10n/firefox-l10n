@@ -965,7 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ఇప్పుడు వద్దు">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "&brandShorterName;‌ను నవీకరించడానికి పునఃప్రారంభించండి">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName;‌ను తాజాకరించడానికి పునఃప్రారంభించండి">
 
 <!ENTITY newTabControlled.header.message "మీ కొత్త ట్యాబు మారిపోయింది.">
 <!ENTITY newTabControlled.keepButton.label "మార్పులను ఉండనివ్వు">
