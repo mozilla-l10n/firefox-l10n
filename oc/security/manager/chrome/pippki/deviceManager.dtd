@@ -30,7 +30,7 @@
 <!ENTITY loaddevice.modname.default             "Modul PKCS#11 novèl">
 <!ENTITY loaddevice.filename2                   "Nom de fichièr del modul">
 <!ENTITY loaddevice.filename2.accesskey         "f">
-<!ENTITY loaddevice.browse                      "Percórrer...">
+<!ENTITY loaddevice.browse                      "Percórrer…">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
 <!ENTITY loaddevice.title2                      "Cargar lo pilòt de periferic PKCS#11">

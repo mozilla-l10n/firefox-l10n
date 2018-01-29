@@ -14,10 +14,10 @@
 
 <!ENTITY fileMenu.label "Fichièr">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Enregistrar la pagina jos...">
+<!ENTITY savePageCmd.label "Enregistrar la pagina jos…">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Mesa en pagina...">
+<!ENTITY pageSetupCmd.label "Mesa en pagina…">
 <!ENTITY pageSetupCmd.accesskey "M">
 <!ENTITY printPreviewCmd.label "Apercebut abans impression">
 <!ENTITY printPreviewCmd.accesskey "b">
@@ -42,7 +42,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Anar a la linha...">
+<!ENTITY goToLineCmd.label "Anar a la linha…">
 <!ENTITY goToLineCmd.accesskey "A">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -64,7 +64,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Normala">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "Recercar dins la pagina...">
+<!ENTITY findOnCmd.label     "Recercar dins la pagina…">
 <!ENTITY findOnCmd.accesskey "R">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Recercar lo seguent">

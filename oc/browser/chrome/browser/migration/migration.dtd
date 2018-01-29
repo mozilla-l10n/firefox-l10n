@@ -34,10 +34,10 @@
 <!ENTITY importItems.title              "Elements d'importar">
 <!ENTITY importItems.label              "Seleccionatz los elements d'importar :">
 
-<!ENTITY migrating.title                "Importacion...">
-<!ENTITY migrating.label                "Los elements seguents son a s'importar...">
+<!ENTITY migrating.title                "Importacion…">
+<!ENTITY migrating.label                "Los elements seguents son a s'importar…">
 
-<!ENTITY selectProfile.title            "Causissètz un perfil...">
+<!ENTITY selectProfile.title            "Causissètz un perfil">
 <!ENTITY selectProfile.label            "Los perfils seguents son disponibles per èsser importats :">
 
 <!ENTITY done.title                     "Importacion acabada">

@@ -24,8 +24,8 @@
 <!ENTITY  evangelism.desc                 "Vos recomandam fòrça d'aplicar aquesta mesa a jorn de &brandShortName; çò pus viste possible.">
 
 <!ENTITY  downloadPage.title              "Telecargament de &brandShortName;">
-<!ENTITY  downloading.intro               "A telecargar la mesa a jorn...">
-<!ENTITY  connecting.label                "A se connectar al servidor de mesa a jorn...">
+<!ENTITY  downloading.intro               "A telecargar la mesa a jorn…">
+<!ENTITY  connecting.label                "A se connectar al servidor de mesa a jorn…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; a pas poscut verificat l'integritat de la mesa a jorn incrementala qu'a telecargada doncas es a telecargar lo paquetatge complet de mesa a jorn.">
 
 <!ENTITY  viewDetails.tooltip             "Visualizar los detalhs d'aquesta mesa a jorn">

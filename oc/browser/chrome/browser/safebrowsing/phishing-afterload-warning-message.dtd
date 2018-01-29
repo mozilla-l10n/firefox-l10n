@@ -8,7 +8,7 @@
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
-<!ENTITY safeb.palm.notdeceptive.label "Es pas un site malvolent...">
+<!ENTITY safeb.palm.notdeceptive.label "Es pas un site malvolent…">
 <!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
   safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
   report-phishing.dtd are never shown at the same time, the same accesskey can

@@ -11,7 +11,7 @@
 <!ENTITY aboutWarningButton2.label "Preni lo risc">
 <!ENTITY aboutWarningCheckbox.label "Afichar aqueste avertiment lo còp que ven">
 
-<!ENTITY searchPrefs.label "Recercar...">
+<!ENTITY searchPrefs.label "Recercar :">
 <!ENTITY searchPrefs.accesskey "R">
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">

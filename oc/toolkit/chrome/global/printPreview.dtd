@@ -4,7 +4,7 @@
 
 <!ENTITY print.label          "Imprimir…">
 <!ENTITY print.accesskey      "p">
-<!ENTITY pageSetup.label      "Mesa en pagina...">
+<!ENTITY pageSetup.label      "Mesa en pagina…">
 <!ENTITY pageSetup.accesskey  "i">
 <!ENTITY page.label           "Pagina :">
 <!ENTITY page.accesskey       "a">
@@ -29,15 +29,15 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Personalizar...">
+<!ENTITY Custom.label         "Personalizar…">
 <!ENTITY ShrinkToFit.label    "Adaptar a la pagina">
-<!ENTITY customPrompt.title   "Personalizar l'escala...">
+<!ENTITY customPrompt.title   "Personalizar l'escala…">
 <!ENTITY simplifyPage.label   "Simplificar la pagina">
 <!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "Modificar la mesa en pagina per far venir mai aisida la lectura">
 <!ENTITY simplifyPage.disabled.tooltip "Aquesta pagina se pòt pas simplificar automaticament">
 
-<!ENTITY homearrow.tooltip    "Primièra pagina...">
-<!ENTITY endarrow.tooltip     "Darrièra pagina...">
+<!ENTITY homearrow.tooltip    "Primièra pagina">
+<!ENTITY endarrow.tooltip     "Darrièra pagina">
 <!ENTITY nextarrow.tooltip    "Pagina seguenta">
 <!ENTITY previousarrow.tooltip "Pagina precedenta">

@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY NoAppFound.label      "Cap d'aplicacion es pas estada trobada per aqueste tipe de fichièr.">
-<!ENTITY BrowseButton.label    "Percórrer...">
+<!ENTITY BrowseButton.label    "Percórrer…">
 <!ENTITY SendMsg.label         "Mandar aqueste element a :">

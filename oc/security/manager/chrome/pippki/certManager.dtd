@@ -53,7 +53,7 @@
 
 <!ENTITY certmgr.close.label                  "Tampar">
 <!ENTITY certmgr.close.accesskey              "T">
-<!ENTITY certmgr.view2.label                  "Veire...">
+<!ENTITY certmgr.view2.label                  "Veire…">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Modificar la fisança…">
 <!ENTITY certmgr.edit3.accesskey              "M">
@@ -63,9 +63,9 @@
 <!ENTITY certmgr.delete2.accesskey            "S">
 <!ENTITY certmgr.delete_builtin.label         "Suprimir o far pas mai fisança…">
 <!ENTITY certmgr.delete_builtin.accesskey     "S">
-<!ENTITY certmgr.backup2.label                "Salvar...">
+<!ENTITY certmgr.backup2.label                "Salvagardar…">
 <!ENTITY certmgr.backup2.accesskey            "S">
-<!ENTITY certmgr.backupall2.label             "Salvat tot...">
+<!ENTITY certmgr.backupall2.label             "Salvagardar tot…">
 <!ENTITY certmgr.backupall2.accesskey         "t">
 <!ENTITY certmgr.restore2.label               "Importar…">
 <!ENTITY certmgr.restore2.accesskey           "I">
@@ -87,7 +87,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Obténer lo certificat">
 <!ENTITY exceptionMgr.certlocation.accesskey  "O">
 <!ENTITY exceptionMgr.certstatus.caption      "Estat del certificat">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Veire...">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Veire…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Conservar aquesta excepcion d'un biais permanent">
 <!ENTITY exceptionMgr.permanent.accesskey     "s">

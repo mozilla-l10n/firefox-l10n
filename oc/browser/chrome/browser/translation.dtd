@@ -17,7 +17,7 @@
 <!ENTITY translation.translate.button           "Traduire">
 <!ENTITY translation.notNow.button              "Pas ara">
 
-<!ENTITY translation.translatingContent.label   "Traduire lo contegut de la pagina...">
+<!ENTITY translation.translatingContent.label   "Traduire lo contengut de la pagina…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
