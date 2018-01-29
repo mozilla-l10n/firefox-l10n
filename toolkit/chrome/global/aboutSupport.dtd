@@ -21,6 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Տարբերակ">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Անվտանգության ծրագրաշար">
+<!ENTITY aboutSupport.securitySoftwareType "Տեսակ">
+<!ENTITY aboutSupport.securitySoftwareName "Անուն">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "ՀԱկավիրուս">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Հակալրտես">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Հրապատ">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName;-ի յուրահատկություններ">
 <!ENTITY aboutSupport.featureName "Անուն">
 <!ENTITY aboutSupport.featureVersion "Տարբերակ">
@@ -66,6 +73,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Բազմաընթացքային պատուհաններ">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Վեբ բովանդակության ընթացքներ">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla-ի տեղադրության ծառայության բանալի">
@@ -105,6 +113,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Մատչելիություն">
 <!ENTITY aboutSupport.a11yActivated "Ակտիվացված է">
 <!ENTITY aboutSupport.a11yForceDisabled "Կանխել հասանելիությունը">
+<!ENTITY aboutSupport.a11yHandlerUsed "Հասանելի մշակիչ է օգտ.">
+<!ENTITY aboutSupport.a11yInstantiator "Մատչելի կատարելիներ">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Շտեմարանների տարբերակը">
 
@@ -136,3 +146,25 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Վթարի պաշտպանի անջատած յուրահատկություններ">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Շրջանցիկներ">
 
+<!ENTITY aboutSupport.mediaTitle "Մեդիա">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Արտածելու սարքեր">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Ներածելու սարքեր">
+<!ENTITY aboutSupport.mediaDeviceName "Անուն">
+<!ENTITY aboutSupport.mediaDeviceGroup "Խումբ">
+<!ENTITY aboutSupport.mediaDeviceVendor "Մատակարար">
+<!ENTITY aboutSupport.mediaDeviceState "Վիճակ">
+<!ENTITY aboutSupport.mediaDevicePreferred "Նախընտրելի">
+<!ENTITY aboutSupport.mediaDeviceFormat "Ձևաչափ">
+<!ENTITY aboutSupport.mediaDeviceChannels "Ալիքներ">
+<!ENTITY aboutSupport.mediaDeviceRate "ԳՆահատական">
+<!ENTITY aboutSupport.mediaDeviceLatency "Սպասում">
+
+<!ENTITY aboutSupport.intlTitle "Միջազգայնացում և տեղայնացում">
+<!ENTITY aboutSupport.intlAppTitle "ՀԱվելվածի կարգավորումներ">
+<!ENTITY aboutSupport.intlLocalesRequested "Հարցված լեզուներ">
+<!ENTITY aboutSupport.intlLocalesAvailable "Մատչելի լեզուներ">
+<!ENTITY aboutSupport.intlLocalesSupported "Հավելվածի լեզուները">
+<!ENTITY aboutSupport.intlLocalesDefault "Հիմնական լեզուն">
+<!ENTITY aboutSupport.intlOSTitle "Օպերացիոն համակարգ">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Համակարգային լեզուներ">
+<!ENTITY aboutSupport.intlRegionalPrefs "Տաածաշրջանային նախապատվություններ">

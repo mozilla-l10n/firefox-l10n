@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Հավելումների կառավարում">
 
 <!ENTITY search.placeholder                   "Որոնում բոլոր հավելումներում">
+
+<!ENTITY search.placeholder2                  "Որոնել addons.mozilla.org-ում">
 <!ENTITY search.buttonlabel                   "Որոնում">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -22,9 +24,6 @@
 
 <!ENTITY getThemes.description                "Ցանկանո՞ւմ եք անհատականացնել ձեր դիտարկիչը:">
 <!ENTITY getThemes.learnMore                  "Ընտրեք հազարավոր ձևավորումներից">
-
-<!ENTITY cmd.back.tooltip                     "Նախորդ էջ">
-<!ENTITY cmd.forward.tooltip                  "Հաջորդ էջ">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Որոշ ընդլայնումներ չեն կարող ստուգվել:">
