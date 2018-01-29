@@ -9,7 +9,7 @@
 <!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
 
 <!ENTITY devmgr.devlist.label                   "రక్షణ మాడ్యూళ్ళు మరియు సాధనాలు">
-<!ENTITY devmgr.details.title                   "వివరములు">
+<!ENTITY devmgr.details.title                   "వివరాలు">
 <!ENTITY devmgr.details.title2                  "విలువ">
 
 <!ENTITY devmgr.button.login.label              "లాగ్ ఇన్">
