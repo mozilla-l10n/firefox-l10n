@@ -527,6 +527,7 @@ chab mtñur">
 <!ENTITY pref_scroll_title_bar_summary2 "Trchech chu &brandShortName; mŕ\&apos;amjabch chuha ñmunalka">
 
 <!ENTITY pref_tab_queue_title3 "Ch chkwachu bjee">
+<!ENTITY pref_tab_queue_summary4 "Jabchu jkay ha paytum chkwaach &brandShortName; um mtkweek msolhikyawa">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
@@ -540,17 +541,31 @@ chab mtñur">
 <!ENTITY folder_removed "Tñur chkwachu ujiñch">
 
 <!ENTITY bookmark_edit_title "Ŕkiru tñur chajanch">
+<!ENTITY bookmark_edit_folder_title "Ch chkwachu tkweek tñur chajana">
+<!ENTITY bookmark_edit_name "Muul">
+<!ENTITY bookmark_edit_location "Wawchu">
+<!ENTITY bookmark_edit_keyword "Kwawch namanch">
+<!ENTITY bookmark_select_folder "Ch chkwachu yooch">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Yamchu chajanch">
 <!ENTITY site_settings_cancel       "Tubspach">
+<!ENTITY site_settings_clear        "Tkryee">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Chwiich jkaay kyoha">
 
+<!ENTITY masterpassword_create_title "Jabchu jkay chmiich">
+<!ENTITY masterpassword_remove_title "Jabchu kajanha ujinch">
 <!ENTITY masterpassword_password "Ŕ\&apos; amu">
+<!ENTITY masterpassword_confirm "Jabchu tkweek chmiich">
 
+<!ENTITY button_ok "E\&apos;e">
 <!ENTITY button_cancel "Tubspach">
+<!ENTITY button_yes "Pem">
+<!ENTITY button_no "Tñur ujiñch">
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
