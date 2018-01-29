@@ -7,7 +7,7 @@
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " per ajudar a melhorar &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Verificar las mesas a jorn »">
-<!ENTITY aboutPage.checkForUpdates.checking     "Recèrca de mesas a jorn...">
+<!ENTITY aboutPage.checkForUpdates.checking     "Recèrca de mesas a jorn…">
 <!ENTITY aboutPage.checkForUpdates.none         "Cap de mesa a jorn pas disponibla">
 <!ENTITY aboutPage.checkForUpdates.available2   "Telecargament d’una mesa a jorn">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Telecargament d’una mesa a jorn…">
