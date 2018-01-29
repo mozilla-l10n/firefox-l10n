@@ -43,7 +43,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Generar una clau privada">
 <!ENTITY createCertInfo.msg1 "Generacion de la clau en cors… Aquesta operacion pòt prendre mantuna minuta…">
-<!ENTITY createCertInfo.msg2 "Esperatz...">
+<!ENTITY createCertInfo.msg2 "Esperatz…">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Autentificacion protegida per geton">

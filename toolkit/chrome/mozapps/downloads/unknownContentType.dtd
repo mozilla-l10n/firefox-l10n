@@ -18,9 +18,9 @@
 
 <!ENTITY  whichIs.label              "qu'es :">
 
-<!ENTITY  chooseHandlerMac.label      "Causir...">
+<!ENTITY  chooseHandlerMac.label      "Causir…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "Percórrer...">
+<!ENTITY  chooseHandler.label         "Percórrer…">
 <!ENTITY  chooseHandler.accesskey     "P">
 
 <!ENTITY  unknownPromptText.label     "Volètz enregistrar aqueste fichièr ?">

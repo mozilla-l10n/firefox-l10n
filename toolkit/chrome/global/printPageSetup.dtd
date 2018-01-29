@@ -60,7 +60,7 @@
 <!ENTITY hfPage              "Numèro de pagina">
 <!ENTITY hfPageAndTotal      "Pagina # sus #">
 <!ENTITY hfBlank             "--void--">
-<!ENTITY hfCustom            "Personalizar...">
+<!ENTITY hfCustom            "Personalizar…">
 
-<!ENTITY customPrompt.title  "Personalizar...">
+<!ENTITY customPrompt.title  "Personalizar…">
 <!ENTITY customPrompt.prompt "Picatz vòstre tèxte d'entèsta o de pè de pagina">

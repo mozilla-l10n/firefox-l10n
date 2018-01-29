@@ -14,9 +14,9 @@
 
 <!ENTITY            availprofiles.label    "Perfils disponibles">
 
-<!ENTITY            newButton.label        "Crear un perfil...">
+<!ENTITY            newButton.label        "Crear un perfil…">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Tornar nomenar un perfil...">
+<!ENTITY            renameButton.label     "Tornar nomenar un perfil…">
 <!ENTITY            renameButton.accesskey "T">
 <!ENTITY            deleteButton.label     "Suprimir lo perfil…">
 <!ENTITY            deleteButton.accesskey "S">

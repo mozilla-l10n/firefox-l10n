@@ -23,6 +23,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Visualizar totas las etiquetas">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Cargar aqueste marcapaginas dins lo panèl lateral">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "q">
-<!ENTITY editBookmarkOverlay.choose.label                    "Causir...">
+<!ENTITY editBookmarkOverlay.choose.label                    "Causir…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Repertòri novèl">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

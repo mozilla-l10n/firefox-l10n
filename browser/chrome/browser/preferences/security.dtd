@@ -35,7 +35,7 @@
 
 <!ENTITY  useMasterPassword.label        "Utilizar un senhal principal">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "Modificar lo senhal principal...">
+<!ENTITY  changeMasterPassword.label     "Modificar lo senhal principal…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
 <!ENTITY  savedLogins.label              "Identificants salvats…">

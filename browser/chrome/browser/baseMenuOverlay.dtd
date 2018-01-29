@@ -40,7 +40,7 @@
 <!ENTITY helpShowTour2.label            "Visita guidada de &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "V">
 
-<!ENTITY preferencesCmdMac.label        "Preferéncias...">
+<!ENTITY preferencesCmdMac.label        "Preferéncias…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Servicis">

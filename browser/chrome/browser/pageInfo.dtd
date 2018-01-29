@@ -39,7 +39,7 @@
 <!ENTITY  mediaDimension        "Dimensions :">
 <!ENTITY  mediaLongdesc         "Descripcion longa :">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Enregistrar jos...">
+<!ENTITY  mediaSaveAs           "Enregistrar jos…">
 <!ENTITY  mediaSaveAs.accesskey "s">
 <!ENTITY  mediaSaveAs2.accesskey "E">
 <!ENTITY  mediaPreview          "Apercebut del mèdia :">
@@ -59,9 +59,6 @@
 <!ENTITY  permBlock             "Blocar">
 <!ENTITY  permissionsFor        "Permissions per :">
 <!ENTITY  permPlugins           "Activar los plugins">
-
-<!ENTITY  permClearStorage           "Suprimir las donadas">
-<!ENTITY  permClearStorage.accesskey "d">
 
 <!ENTITY  securityTab           "Seguretat">
 <!ENTITY  securityTab.accesskey "S">

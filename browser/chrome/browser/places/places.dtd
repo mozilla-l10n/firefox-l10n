@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "Òrdre de classificacion Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Importar de marcapaginas al format HTML...">
+<!ENTITY importBookmarksFromHTML.label     "Importar de marcapaginas al format HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Exportar de marcapaginas al format HTML...">
+<!ENTITY exportBookmarksToHTML.label       "Exportar de marcapaginas al format HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "Importar de donadas d'un autre navigador…">
 <!ENTITY importOtherBrowser.accesskey      "m">
@@ -38,7 +38,7 @@
 <!ENTITY cmd.backup.accesskey           "S">
 <!ENTITY cmd.restore2.label             "Restablir">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Causir un fichièr...">
+<!ENTITY cmd.restoreFromFile.label      "Causir un fichièr…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY cmd.deleteDomainData.label     "Doblidar aqueste site">
@@ -62,9 +62,9 @@
 <!ENTITY cmd.sortby_name.accesskey          "T">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Marcapaginas novèl...">
+<!ENTITY cmd.new_bookmark.label            "Marcapaginas novèl…">
 <!ENTITY cmd.new_bookmark.accesskey        "s">
-<!ENTITY cmd.new_folder.label              "Repertòri novèl...">
+<!ENTITY cmd.new_folder.label              "Repertòri novèl…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "d">
 <!ENTITY cmd.new_separator.label           "Separator novèl">
@@ -73,7 +73,7 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Tornar cargar lo marcapaginas dinamic">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "T">
 
-<!ENTITY cmd.moveBookmarks.label                  "Desplaçar...">
+<!ENTITY cmd.moveBookmarks.label                  "Desplaçar…">
 <!ENTITY cmd.moveBookmarks.accesskey              "D">
 
 <!ENTITY col.name.label          "Nom">

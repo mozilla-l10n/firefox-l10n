@@ -69,11 +69,11 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Dobrir l’emplaçament...">
-<!ENTITY openFileCmd.label "Dobrir un fichièr...">
+<!ENTITY openLocationCmd.label "Dobrir l’emplaçament…">
+<!ENTITY openFileCmd.label "Dobrir un fichièr…">
 <!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Mesa en pagina...">
+<!ENTITY printSetupCmd.label "Mesa en pagina…">
 <!ENTITY printSetupCmd.accesskey "M">
 <!ENTITY printPreviewCmd.label "Apercebut abans impression">
 <!ENTITY printPreviewCmd.accesskey "b">
@@ -176,7 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
-<!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
+<!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina…">
 <!ENTITY addCurPagesCmd.label "Marcar totes los onglets…">
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
 <!ENTITY recentBookmarks.label "Marcats recentament">
@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferéncias">
 <!ENTITY preferencesCmdUnix.accesskey     "f">
 
-<!ENTITY clearRecentHistory.label               "Suprimir l'istoric recent...">
+<!ENTITY clearRecentHistory.label               "Suprimir l'istoric recent…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -356,7 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Afichar tot l'istoric">
-<!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent...">
+<!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restablir la session precedenta">
 <!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
 <!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
@@ -421,7 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.removeFromMenu.label "Levar del menú">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "r">
-<!ENTITY customizeMenu.addMoreItems.label "Apondre mai d'elements...">
+<!ENTITY customizeMenu.addMoreItems.label "Apondre mai d'elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -567,28 +567,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyURLFeedback.label        "Copiat">
 <!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
-<!ENTITY savePageCmd.label            "Enregistrar jos...">
+<!ENTITY savePageCmd.label            "Enregistrar jos…">
 <!ENTITY savePageCmd.accesskey        "E">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "E">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Enregistrar lo quadre jos...">
+<!ENTITY saveFrameCmd.label           "Enregistrar lo quadre jos…">
 <!ENTITY saveFrameCmd.accesskey       "E">
-<!ENTITY printFrameCmd.label          "Imprimir lo quadre...">
+<!ENTITY printFrameCmd.label          "Imprimir lo quadre…">
 <!ENTITY printFrameCmd.accesskey      "I">
-<!ENTITY saveLinkCmd.label            "Enregistrar la cibla del ligam jos...">
+<!ENTITY saveLinkCmd.label            "Enregistrar la cibla del ligam jos…">
 <!ENTITY saveLinkCmd.accesskey        "E">
-<!ENTITY saveImageCmd.label           "Enregistrar l'imatge jos...">
+<!ENTITY saveImageCmd.label           "Enregistrar l'imatge jos…">
 <!ENTITY saveImageCmd.accesskey       "s">
 <!ENTITY saveVideoCmd.label           "Enregistrar la vidèo jos…">
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Enregistrar lo fichièr àudio jos…">
 <!ENTITY saveAudioCmd.accesskey       "g">
-<!ENTITY emailImageCmd.label          "Mandar l'imatge per corrièr electronic...">
+<!ENTITY emailImageCmd.label          "Mandar l'imatge per corrièr electronic…">
 <!ENTITY emailImageCmd.accesskey      "t">
-<!ENTITY emailVideoCmd.label          "Mandar la vidèo per corrièr electronic...">
+<!ENTITY emailVideoCmd.label          "Mandar la vidèo per corrièr electronic…">
 <!ENTITY emailVideoCmd.accesskey      "d">
-<!ENTITY emailAudioCmd.label          "Mandar lo fichièr àudio per corrièr electronic...">
+<!ENTITY emailAudioCmd.label          "Mandar lo fichièr àudio per corrièr electronic…">
 <!ENTITY emailAudioCmd.accesskey      "d">
 <!ENTITY playPluginCmd.label          "Activar aqueste plugin">
 <!ENTITY playPluginCmd.accesskey      "t">
@@ -717,8 +717,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Modificar las preferéncias de blocatge de las fenèstras sorgissentas...">
-<!ENTITY editPopupSettings.label "Modificar las opcions de blocatge de las fenèstras sorgissentas...">
+<!ENTITY editPopupSettingsUnix.label "Modificar las preferéncias de blocatge de las fenèstras sorgissentas…">
+<!ENTITY editPopupSettings.label "Modificar las opcions de blocatge de las fenèstras sorgissentas…">
 <!ENTITY editPopupSettings.accesskey "M">
 <!ENTITY dontShowMessage.accesskey "u">
 
@@ -728,7 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Recercar dins la pagina...">
+<!ENTITY findOnCmd.label     "Recercar dins la pagina…">
 <!ENTITY findOnCmd.accesskey "R">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Recercar lo seguent">
@@ -737,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Apondre de diccionaris...">
+<!ENTITY spellAddDictionaries.label "Apondre de diccionaris…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Acabar">
@@ -839,7 +839,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronizar ara">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "Se reconnectar a &syncBrand.shortName.label;...">
+<!ENTITY syncReAuthItem.label         "Se reconnectar a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
