@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              "अपने मोबाइल डिवाइस के साथ सिंक करने के लिए.">
+
+<!ENTITY mobilepromo.singledevice      "अन्य उपकरण जोड़ें">
+<!ENTITY mobilepromo.multidevice       "उपकरणों को प्रबंधित करें">
