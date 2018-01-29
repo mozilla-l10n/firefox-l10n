@@ -30,6 +30,7 @@
 <!ENTITY return.label                      "Man titzolïx chik xa xe re'">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "taq q'i'oj">
+<!ENTITY offlineText.label                 "Yatikïr naqasaj jun aj wawe' ruwachib'enik re cholb'äl re' richin yatikïr nasamajij toq man atokinäq ta.">
 <!ENTITY saslMechanism.label               "Rub'eyal Okem: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "Relik">
