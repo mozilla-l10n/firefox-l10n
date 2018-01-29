@@ -53,7 +53,7 @@
 
 <!ENTITY fxaccount_status_auth_server 'Servidor de comptes'>
 <!ENTITY fxaccount_status_sync_now 'Sincronizar ara'>
-<!ENTITY fxaccount_status_syncing2 'Sincronizacion...'>
+<!ENTITY fxaccount_status_syncing2 'Sincronizacion…'>
 <!ENTITY fxaccount_status_device_name 'Nom del periferic'>
 <!ENTITY fxaccount_status_sync_server 'Servidor de Sync'>
 <!ENTITY fxaccount_status_needs_verification2 'Vòstre compte deu èsser verificat. Tocatz per tornar mandar lo corrièl de verificacion.'>
