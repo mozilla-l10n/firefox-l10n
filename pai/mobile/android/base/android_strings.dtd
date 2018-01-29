@@ -562,11 +562,16 @@ chab mtñur">
 <!ENTITY masterpassword_password "Ŕ\&apos; amu">
 <!ENTITY masterpassword_confirm "Jabchu tkweek chmiich">
 
-<!ENTITY button_ok "E\&apos;e">
+<!ENTITY button_ok "Jan ik yooch">
 <!ENTITY button_cancel "Tubspach">
-<!ENTITY button_yes "Pem">
-<!ENTITY button_no "Tñur ujiñch">
+<!ENTITY button_yes "E\&apos;e">
+<!ENTITY button_no "Pem">
+<!ENTITY button_clear_data "Tñur ujiñch">
+<!ENTITY button_set "Chmiich">
+<!ENTITY button_clear "Tkryee">
+<!ENTITY button_copy "Tkweek tñurch">
 
+<!ENTITY home_top_sites_title "Paa tek unuwchu">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 
