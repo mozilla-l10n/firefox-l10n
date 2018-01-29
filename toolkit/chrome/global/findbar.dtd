@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "బడిని సరిపోల్చు">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "చిన్నపెద్ద అక్షరతేడా గుర్తిస్తూ వెతుకు">
-<!ENTITY entireWord.label "మొత్తం పదాలు">
+<!ENTITY entireWord.label "పూర్తి పదాలు">
 <!ENTITY entireWord.accesskey "w">
 <!ENTITY entireWord.tooltiptext "పూర్తి పదాలు మాత్రమే వెతుకు">
