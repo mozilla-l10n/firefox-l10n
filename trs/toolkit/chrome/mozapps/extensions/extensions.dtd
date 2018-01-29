@@ -62,8 +62,21 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Na'nïnj ñû daran' nej komplemênto da' ga'ue nahuin nakà ma'an nej man">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Na'nïnj ñû daran' nej komplemênto da' ga'ue nagi'iaj nakà nej man">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "Sa nagi'iaj nakà nej komplemênto">
+<!ENTITY updates.installed.label              "Ngà nahuin nakà nej si komplementôt.">
+<!ENTITY updates.downloaded.label             "Ngà nahuij nanïnj nej si komplementôt.">
+<!ENTITY updates.restart.label                "Dunayi'ì nakà si aga't da' ga'ue nanu sa ga'nïnt">
+<!ENTITY updates.noneFound.label              "Nu nari'ìj nej sa nahuin nakàa">
+<!ENTITY updates.manualUpdatesFound.label     "Ni'iaj nej sa ga'ue nahuin nakà">
+<!ENTITY updates.updateSelected.label         "Ga'nïnj nej sa nakà doj">
+<!ENTITY updates.updateSelected.tooltip       "Ga'nïn nej sa ga'ue nahuin nakà nu riña lsita nan">
 
 <!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Ni'iaj doj nuguan' a'min rayi'î nan">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Nana'uì' nej sa ga'ue nahuin nakà">
 <!ENTITY cmd.findUpdates.accesskey            "F">
@@ -83,9 +96,27 @@
 <!ENTITY cmd.disableTheme.label               "Ga'nïn' ruhuâ si garasunt têma">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.askToActivate.label              "Gachinj ni'iaj dugi'iaj sunt man">
-<!ENTITY cmd.showPreferencesWin.label         "Nagui’iaj">
-<!ENTITY cmd.showPreferencesUnix.label        "Nagui’iaj">
+<!ENTITY cmd.askToActivate.tooltip            "Gachin ni'iaj garasunt komplementô nan daran' diû">
+<!ENTITY cmd.alwaysActivate.label             "Dugi'iaj sun yitïnj man">
+<!ENTITY cmd.alwaysActivate.tooltip           "Yitïnj gi'iaj sunt ngà komplementô nan">
+<!ENTITY cmd.neverActivate.label              "Nitaj aman dugi'iaj sunt man">
+<!ENTITY cmd.neverActivate.tooltip            "Nitaj aman garasunt komplementô nan">
+<!ENTITY cmd.stateMenu.tooltip                "Naduna nga ayi'ì komplementô nan íaj sunj">
+<!ENTITY cmd.installAddon.label               "Ga'nìn'">
+<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.uninstallAddon.label             "Guxūn">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.showPreferencesWin.label         "Sa huā gi'iát">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Naduna nej sa nikaj komplementô nan">
+<!ENTITY cmd.showPreferencesUnix.label        "Sa arajsunt doj">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Naduna nej sa garan' ruhuât riña komplementô nan">
+<!ENTITY cmd.contribute.label                 "Rugûñu'unj">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Rugûñu'unj da' nahuin hue'ê doj komplementô nan">
 
+<!ENTITY cmd.showReleaseNotes.label           "Gini'iaj nuguan' hua rayi'î versiôn nan">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Gini'iaj nuguan' hua rayi'î versiôn nahuin nakà nan">
+<!ENTITY cmd.hideReleaseNotes.label           "Gachri huì nuguan' a'min rayi'î versiôn nan">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
