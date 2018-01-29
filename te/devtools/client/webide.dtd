@@ -134,7 +134,7 @@
 <!ENTITY device_typenone "ఒక రకాన్ని ఎంచుకోండి">
 
 <!-- Device Preferences -->
-<!ENTITY devicepreference_title "పరికరము యొక్క ప్రాధాన్యతలు">
+<!ENTITY devicepreference_title "పరికరపు అభిరుచులు">
 <!ENTITY devicepreference_search "శోధన ప్రాధాన్యతలు">
 <!ENTITY devicepreference_newname "కొత్త ప్రాధాన్యత పేరు">
 <!ENTITY devicepreference_newtext "ప్రాధాన్యత విలువ">
