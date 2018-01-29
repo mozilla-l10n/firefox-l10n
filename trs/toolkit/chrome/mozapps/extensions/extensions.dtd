@@ -207,7 +207,12 @@
 <!ENTITY addon.install.label                  "Ga'nïnj">
 <!ENTITY addon.install.tooltip                "Ga'nïnj komplementô nan">
 <!ENTITY addon.updateNow.label                "Nagi'aj nakà hìaj">
+<!ENTITY addon.updateNow.tooltip              "Ga'nïnj sa gi'iaj nahuin nakà komplementô nan">
+<!ENTITY addon.includeUpdate.label            "Ga'nïnj ngà sa nahuin nakà nan">
+<!ENTITY addon.updateAvailable.label          "Hua yugui 'ngo sa nahuin nakàa">
 <!ENTITY addon.checkingForUpdates.label       " Nana’uij sa naka doj…">
+<!ENTITY addon.releaseNotes.label             "Nuguan' ri' riña aga' na:">
+<!ENTITY addon.loadingReleaseNotes.label      "Hìaj ayi'ij...">
 
 
 
