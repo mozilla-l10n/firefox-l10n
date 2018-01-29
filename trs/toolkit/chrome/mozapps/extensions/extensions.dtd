@@ -117,10 +117,15 @@
 <!ENTITY cmd.showReleaseNotes.label           "Gini'iaj nuguan' hua rayi'î versiôn nan">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Gini'iaj nuguan' hua rayi'î versiôn nahuin nakà nan">
 <!ENTITY cmd.hideReleaseNotes.label           "Gachri huì nuguan' a'min rayi'î versiôn nan">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Gachri huì nuguan' hua rayi'î versiôn nahuin nakà nan">
+<!ENTITY cmd.findReplacement.label            "Nana'uì' 'ngo sa ga'ue natu riña nan">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "¿Nuhuìn si huin nej komplemênto rà'aj?">
+<!ENTITY discover.description2                "Nej komplemênto huin nej aplikasiûn ruguñu'unj da' nagi'iát &brandShortName; ngà 'ngo sa hua hue'ê doj asi 'ngo sa ruhuât nutà't. Yakaj da'nga' ngà 'ngo barra da' dugumînt si diût, 'ngo sa nata' na'anj dàj ga diû, asi 'ngo sa ruhuât nadunat &brandShortName; dàj garan' ruhuâ ma'ânt.">
+<!ENTITY discover.footer                      "Ngà atujt riña internet ni, ginun nej komplemênto araj sun doj guìi ni sa hua hue'ê doj riña panel nan da' garasunt si ruhuât.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versión">
@@ -129,7 +134,10 @@
 <!ENTITY detail.homepage.label                "Riña ayi'ì'">
 <!ENTITY detail.numberOfDownloads.label       "Nadunínj">
 
+<!ENTITY detail.contributions.description     "Dugui' narirà complementô nan ni achín ni'iaj si da' rugûñu'unjt doj san'anj si da' gi'iaj sun si guendâ nahuin hue'ej doj.">
 
+<!ENTITY detail.updateType                    "Nej sa nagi'iaj nakà ma'an ma'an">
+<!ENTITY detail.updateDefault.label           "Sa gà' 'na' niñaan">
 
 
 
