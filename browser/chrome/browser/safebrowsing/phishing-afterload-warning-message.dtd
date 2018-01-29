@@ -20,27 +20,46 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Այս կայքի այցելությունը կարող է վնասել ձեր համակարգիչը:">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName;-ը արգելափակել է այս էջը, քանի որ այն կարող է փորձել տեղադրել վնասագիր ծրագրաշար, որը իր հերթին կարող է գողանալ կամ ջնջել անձնական տեղեկություններ ձեր համակարգչում:">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/>-ը <a id='error_desc_link'>զեկուցվել է որպես վնասագիր պարունակող ծրագրաշար</a>: Դուք կարող եք <a id='report_detection'>զեկուցել ծագած խնդրի մասին</a> կամ <a id='ignore_warning_link'>անտեսել վտանգը</a> և անցնել ոչ անվտանգ կայքին:">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/>-ը զեկուցվել է որպես <a id='error_desc_link'> վնասագիր պարունակող ծրագրաշար</a>: Դուք կարող եք <a id='report_detection'>զեկուցել ծագած խնդրի մասին</a>:">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "Իմացեք ավելին վնասակար վեբ բովանդակության՝ ներառյալ վիրուսների և այլ վնասագրերի մասին, և թե ինչպես պաշտխանել ձեր համակարգիչը <a id='learn_more_link'>StopBadware.org</a>-ում: Իմացեք ավելին &brandShortName;-ի Որսալուց և Վնասագրերից պաշտպանվելու մասին <a id='firefox_support'>support.mozilla.org</a>-ում:">
 
 
-
-
+<!ENTITY safeb.blocked.unwantedPage.title2 "Տվյալ կայքը կարող է վնսակար ծրագրերի պարունակել">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName;-ը արգելափակել է այս էջը, քանի որ այն կարող է փորձել խորամանկորեն սողոսկել տեղադրված ծրագրերի մեջ և վնասել դիտարկումների ձեր փորձառությունը (օրինակ՝ փոխելով դիտարկիչի մեկնարկային էջը կամ ցուցադրելով գովազդ ձեր այցելած կայքերում):">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/>-ը <a id='error_desc_link'>զեկուցվել է որպես վնասակար ծրագրաշար պարունակով</a>: Դուք կարող եք <a id='ignore_warning_link'>անտեսել վտանգը</a> և անցնել այդ ոչ ապահով կայքին:">
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/>-ը <a id='error_desc_link'>զեկուցվել է որպես վնասակար ծրագրաշար պարունակող</a>:">
+
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Իմանալ ավելին վնասակար և անցանկալի ծրագրաշարերի մասին <a id='learn_more_link'>Անցանկալի ծրագրաշարի դրույթներ</a>-ում: Իմացեք ավելին &brandShortName;-ի Որսումից և Վնասագրերից պաշտպանելու մասին <a id='firefox_support'>support.mozilla.org</a>-ում:">
 
 
-
-
+<!ENTITY safeb.blocked.phishingPage.title3 "Խաբուսիկ կայք">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName;-ը արգելափակել է այս էջը, քանի որ այն կարող է խորամանկությամբ դրդել ձեզ կատարել քայլ, որը վնասակար է, օրինակ՝ տեղադրել ծրագրաշար կամ ցուցադրել անձնական տեղեկություններ, ինչպես օրինակ՝ գաղտնաբառեր կամ բանկային քարտեր:">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/>-ը <a id='error_desc_link'>զեկուցվել է որպես խաբուսիկ կայք</a>: Դուք կարող եք <a id='report_detection'>զեկուցել ծագած խնդրի մասին</a> կամ <a id='ignore_warning_link'>անտեսել վտանգը</a> և անցնել այդ անապահով կայքին:">
+
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/>-ը <a id='error_desc_link'>զեկուցվել է որպես խաբուսիկ կայք</a>: Դուք կարող եք <a id='report_detection'>զեկուցել ծագած խնդրի մասին</a>:">
+
+<!ENTITY safeb.blocked.phishingPage.learnMore "Իմացեք ավելին խաբուսիկ կայքերի և որսման մասին <a id='learn_more_link'>www.antiphishing.org</a>-ում: ԻՄացեք ավելին &brandShortName;-ի Որսումից և Վնասագրերից պաշտպանության մասին <a id='firefox_support'>support.mozilla.org</a>-ում:">
 
 
-
-
+<!ENTITY safeb.blocked.harmfulPage.title "Կայքը, որը ցանկանում եք բացել, պարունակում է վնասագիր">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName;-ը արգելափակված, քանի որ այն կարող է փորձել տեղադրել վտանգավոր հավելվածներ, որոնք կգողանան կամ կջնջեն ձեր տյլաները (օրինակ՝ լուսանկարներ, գաղտնաբառեր, հաղորդագրություններ և բանկային քարտ):">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/>-ը <a id='error_desc_link'>զեկուցվել է որպես հավանական վնասակար գործադիր</a>: Դուք կարող եք <a id='ignore_warning_link'>անտեսել վտանգը</a> և անցնել այդ ոչ ապահով կայքին:">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/>-ը <a id='error_desc_link'>զեկուցվել է որպես հավանական նասակար գործադիր պարունակող</a>:">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Իմացեք ավելին &brandShortName;-ի Որսալուց և Վնասագրերից պաշտպանության մասին <a id='firefox_support'>support.mozilla.org</a>-ում:">

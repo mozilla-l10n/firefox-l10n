@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Հետագծման պաշտպանություն">
 <!ENTITY  trackingProtection2.description      "Հետագծումը դա ձեր դիտարկումների տվյալների հավաքումն է բազմաթիվ կայքերից: Այն կարող է օգտագործվել կառուցելու պրոֆիլ և ցուցադրելու բովանդակություն՝ ձեր դիտարկումների և անձնական տեղեկություների վրա հիմնված:">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Օգտագործեք Հետագծման պաշտպանությունը՝ արգելափակելու հայտնի հետագծիչները">
+<!ENTITY  trackingProtection3.description      "Հետագծման պաշտպանությունը արգելափակում է առցանց հետագծումները, որոնք հավաքում են դիտարկումների ձեր տվյալները տարբեր կայքերում:">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Օգտագործեք Հետագծման պաշտպանությունը՝ արգելափակելու հայտնի հետագծումները">
 <!ENTITY  trackingProtectionAlways.label       "Միշտ">
 <!ENTITY  trackingProtectionAlways.accesskey   "շ">
 <!ENTITY  trackingProtectionPrivate.label      "Միայն գաղտնի պատուհաններում">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Երբեք">
 <!ENTITY  trackingProtectionNever.accesskey    "Ե">
 <!ENTITY  trackingProtectionLearnMore.label    "Իմանալ ավելին">
+<!ENTITY  trackingProtectionLearnMore2.label    "Իմանալ ավելին ՀԵտագծման պաշտպանության և ձեր գաղտնիության մասին">
 <!ENTITY  trackingProtectionExceptions.label   "Բացառություններ…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ա">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Օգտագործել հետագծման պաշտպանությունը Գաղտնի պատուհաններում">
-<!ENTITY trackingProtectionPBM5.accesskey     "տ">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Օգտագործել հետագծման պաշտպանությունը՝ հայտնի հետագծիչները արգելափակելու համար">

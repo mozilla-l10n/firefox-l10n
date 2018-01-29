@@ -7,22 +7,30 @@
 <!ENTITY engine.bookmarks.label     "Էջանիշերը">
 <!ENTITY engine.bookmarks.accesskey "ն">
 <!ENTITY engine.tabs.label2         "Բացել ներդիրներ">
+<!ENTITY engine.tabs.title          "Համաժամեցված բոլոր սարքերում բացվածների ցանկը">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Պատմությունը">
 <!ENTITY engine.history.accesskey   "թ">
 <!ENTITY engine.logins.label        "Մուտքագրումներ">
+<!ENTITY engine.logins.title        "Ձեր պահպանած օգտվողի անունները և գաղտնաբառերը">
 <!ENTITY engine.logins.accesskey    "Մ">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
+<!ENTITY engine.prefsWin.label      "Ընտրանքներ">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Կարգավորումները">
 <!ENTITY engine.prefs.accesskey     "ը">
+<!ENTITY engine.prefs.title         "Ընդհանուր, Գաղտնիություն և Անվտանգության կարգավորումները, որոնք դուք փոխել եք">
 <!ENTITY engine.addons.label        "Հավելումները">
+<!ENTITY engine.addons.title        "Ընդլայնումներ և ոճեր Firefox-ի համար">
 <!ENTITY engine.addons.accesskey    "Հ">
 <!ENTITY engine.addresses.label     "Հասցեներ">
+<!ENTITY engine.addresses.title     "Փոստային հասցեներ, որոնք դուք պահպանել եք (միայն դեսքթոփում)">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Բանկային քարտեր">
+<!ENTITY engine.creditcards.title   "Անուններ, համարներ և սպառման ամսաթվեր (միայն դեսքթոփում)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
@@ -54,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Նախ մուտք գործեք">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Դուք մուտք չեք գործել:">
-<!ENTITY signIn.label                "Մուտք գործել">
-<!ENTITY signIn.accesskey            "տ">
-<!ENTITY profilePicture.tooltip      "Փոխել պրոֆիլի նկարը">
-<!ENTITY verifiedManage.label        "Կառավարել հաշիվը">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Անջատել...">
-<!ENTITY disconnect3.accesskey       "Ա">
+<!ENTITY notSignedIn.label            "Դուք մուտք չեք գործել:">
+<!ENTITY signIn.label                 "Մուտք գործել">
+<!ENTITY signIn.accesskey             "տ">
+<!ENTITY profilePicture.tooltip       "Փոխել պրոֆիլի նկարը">
+<!ENTITY verifiedManage.label         "Կառավարել հաշիվը">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Անջատել...">
+<!ENTITY disconnect3.accesskey        "Ա">
 <!ENTITY verify.label                "Հաստատել էլ. փոստը">
 <!ENTITY verify.accesskey            "Հ">
 <!ENTITY forget.label                "Մոռանալ այս էլ. փոստը">
 <!ENTITY forget.accesskey            "Մ">
+
+<!ENTITY resendVerification.label     "Կրկին ուղարկել հաստատումը">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Չեղարկել տեղադրումը">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Ձեր վեբը Ձեզ հետ է">
 <!ENTITY signedOut.description        "Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:">
@@ -93,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              "-ի համար՝ համաժամեցնելու բջջային սարքի հետ:">
+
+<!ENTITY mobilepromo.singledevice      "Կապակցել այլ սարքի">
+<!ENTITY mobilepromo.multidevice       "Կառավարել սարքերը">
