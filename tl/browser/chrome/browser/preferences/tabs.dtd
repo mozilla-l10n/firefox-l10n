@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Sa halip, buksan ang mga bagong window sa isang bagong tab">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY newWindowsAsTabs3.label       "Buksan ang mga link sa mga tab sa halip ng mga bagong window">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Babalaan ka kapag nagsasara ng maraming mga tab">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 

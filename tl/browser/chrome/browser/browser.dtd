@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Ipadala ang Link sa Device">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "Naipadala!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Queued (offline)">
 <!ENTITY  moveToNewWindow.label              "Pumunta sa Bagong Window">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "I-Bookmark ang Lahat ng mga Tab…">
@@ -230,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Na-block mo ang iyong mikropono para sa website na ito.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Na-block mo ang website na ito mula sa pagbabahagi ng iyong screen.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Na-block mo ang impormasyon ng lokasyon para sa website na ito.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Na-block mo ang imbakan ng data para sa website na ito.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Na-block mo ang mga notification para sa website na ito.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Na-block mo ang paulit-ulit na imbakan para sa website na ito.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Hinarangan mo ang mga pop-up sa website na ito.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Na-block mo ang data extraction ng canvas para sa website na ito.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
 
@@ -301,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Bagong Private Window">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "Bagong Di-e10s Window">
 
 <!ENTITY editMenu.label         "i-Edit">
 <!ENTITY editMenu.accesskey       "E">
@@ -356,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Ipakita ang Lahat ng Kasaysayan">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "I-Customize">
-<!ENTITY appMenuCustomize.tooltip "I-cuztomize ang Menu at Toolbars">
-<!ENTITY appMenuCustomizeExit.label "Lumabas sa pag Customize">
-<!ENTITY appMenuCustomizeExit.tooltip "Tapusin ang Pag-customize">
-
 <!ENTITY appMenuHistory.showAll.label "Ipakita ang Lahat na Kasaysayan">
 <!ENTITY appMenuHistory.clearRecent.label "Burahin ang Kasaysayan">
 <!ENTITY appMenuHistory.restoreSession.label "Ibalik ang Nakaraang Session">
 <!ENTITY appMenuHistory.viewSidebar.label "Tingnan ang Sidebar ng Kasaysayan">
 <!ENTITY appMenuHistory.recentHistory.label "Nakaraang Kasaysayan">
 <!ENTITY appMenuHelp.label "Tulong">
-<!ENTITY appMenuHelp.tooltip "Buksan ang Help Menu">
 
 <!ENTITY appMenuRemoteTabs.label "I-synced ang mga Tabs ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -391,10 +384,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "I-sync ang Preferences">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mag-sign in upang tingnan ang isang listahan ng mga tab mula sa iyong iba pang mga device.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Ang iyong account ay kailangang ma-verify.">
 <!ENTITY appMenuRemoteTabs.signin.label "Mag-sign in sa Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Pamahalaan ang mga Device...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tingnan ang mga Naka-sync Tab Sidebar">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Ikonekta ang Isa pang Device">
 
 <!ENTITY appMenuRecentHighlights.label "Kamakailang Mga Tampok">
 
@@ -440,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extension:">
 <!ENTITY urlbar.switchToTab.label     "Lumipat sa tab:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Ikaw ba ay gustong mapabuti ang iyong paghahanap na may suhestiyon?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Matuto ng higit pa...">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Hindi">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Oo">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
@@ -726,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Basic na Estilo ng Pahina">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Change pop-up blocking settings for this web site">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -760,6 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Seguridad ng Site">
 
 <!ENTITY identity.connectionSecure "I-secure ang Koneksyon">
 <!ENTITY identity.connectionNotSecure "Hindi Sigurado ang Koneksyon">
@@ -814,6 +800,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Wala pang synced... tabs!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Mag sign-in para makita ang listahan ng mga tab galing sa iba mo pang devices.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Ang iyong account ay kailangang ma-verify.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Walang bukas na tabs">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Buksan ang &syncBrand.shortName.label; na Preferences">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -821,6 +808,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Paganahin ang tab syncing para makita ang listahan ng tabs na galing sa iba mo pang devices.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Maghanap ng mga naka-sync na tab">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Ikonekta ang Isa pang Device">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -856,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "I-sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "I-drag ang iyong mga paboritong item sa toolbar o overflow menu.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Gusto ng higit pang mga tool?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Pumili mula sa libu-libong mga add-on">
 <!ENTITY customizeMode.restoreDefaults "Ibalik sa Dati">
 <!ENTITY customizeMode.done "Tapos">
 <!ENTITY customizeMode.titlebar "Title Bar">
@@ -870,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kumuha pa ng Ibang Themes ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "I-drag at i-drop ang mga item dito upang panatilihin ang mga ito sa loob ng maabot ngunit sa labas ng iyong toolbar...">
 <!ENTITY customizeMode.overflowList.title2 "I-overflow Menu">
 <!ENTITY customizeMode.overflowList.description "I-drag at i-drop ang mga item dito upang panatilihin ang mga ito sa loob ng maabot ngunit sa labas ng iyong toolbar...">
 <!ENTITY customizeMode.uidensity "Density">
@@ -991,13 +976,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Ang iyong Bagong Tab ay nagbago.">
+<!ENTITY newTabControlled.keepButton.label "Panatilihin ang Mga Pagbabago">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.restoreButton.label "Ibalik ang Mga Setting">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Page actions">
 <!ENTITY pageAction.addToUrlbar.label "Idagdag sa Address Bar">
 <!ENTITY pageAction.removeFromUrlbar.label "Tanggalin sa Address Bar">
-
+<!ENTITY pageAction.allowInUrlbar.label "Ipakita sa Address Bar">
 
 <!ENTITY pageAction.sendTabToDevice.label "Ipadala ang Tab sa Device">
 <!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">

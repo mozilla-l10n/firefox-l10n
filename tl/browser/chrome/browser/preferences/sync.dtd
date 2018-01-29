@@ -55,18 +55,21 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Mangyaring mag-sign in upang makipagkonek muli">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Hindi ka naka-sign in.">
-<!ENTITY signIn.label                "Mag sign in">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Baguhin ang larawan ng profile">
-<!ENTITY verifiedManage.label        "Pamahalaan ang account">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Idiskonekta...">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "Hindi ka naka-sign in.">
+<!ENTITY signIn.label                 "Mag sign in">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Baguhin ang larawan ng profile">
+<!ENTITY verifiedManage.label         "Pamahalaan ang account">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Idiskonekta...">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "I-verify ang email">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Kalimutan ang email na ito">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Dalhin ang Iyong Web Sa Iyo">
 <!ENTITY signedOut.description        "I-synchronize ang iyong mga bookmark, kasaysayan, mga tab, password, mga add-on, at mga kagustuhan sa lahat ng iyong device.">
@@ -94,3 +97,5 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " upang i-sync sa iyong mobile device.">
+
+<!ENTITY mobilepromo.multidevice       "Pamahalaan ang mga device">
