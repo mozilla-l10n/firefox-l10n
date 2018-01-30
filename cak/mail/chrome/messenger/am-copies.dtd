@@ -38,8 +38,13 @@
 <!ENTITY specialFolders.label "Nab'ey taq Samaj chuqa' taq Kaxawäch">
 <!ENTITY keepDrafts2.label "Keyake' ri nab'ey kisamaj taq tzijol pa:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;Nab'ey Samaj&quot; Yakwuj pa:">
+<!ENTITY draftsFolderOn.accesskey "N">
 <!ENTITY draftInOtherFolder.label "Juley chik:">
 <!ENTITY draftInOtherFolder.accesskey "l">
+<!ENTITY keepTemplates.label "Keyake' ri kikaxawäch rutzijol pa:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY templatesFolderOn.label "&quot;Kaxawäch&quot; Yakwuj pa:">
+<!ENTITY templatesFolderOn.accesskey "w">
 <!ENTITY templateInOtherFolder.label "Juley chik:">
 <!ENTITY templateInOtherFolder.accesskey "l">
