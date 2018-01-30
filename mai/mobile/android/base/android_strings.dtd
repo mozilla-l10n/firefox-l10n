@@ -684,6 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "फाइल आओर अपडेट डाउनलोड करए कलेल, &brandShortName; केँ संग्रह मे पहुँचबाक अनुमति दिअ.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "अनुमति दिअ">
 
@@ -751,7 +752,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_addons_installation "एड-ऑन्स">
 <!ENTITY restrictable_feature_private_browsing "निज ब्राउजिंग">
+<!ENTITY restrictable_feature_clear_history "इतिहास मेटाबू">
+<!ENTITY restrictable_feature_advanced_settings "उन्नत सेटिंग">
+<!ENTITY restrictable_feature_block_list "सूची रोकू">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -774,6 +779,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 
 
+<!ENTITY helper_first_offline_bookmark_title "ऑफलाइन पढू">
 
 
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
