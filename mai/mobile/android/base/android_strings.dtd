@@ -3,11 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "स्वागत अछि!">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName; चुनबाक लेल धन्यवाद">
+<!ENTITY firstrun_urlbar_subtext2 "Mozilla आनलक एकटा आधुनिक मोबाइल ब्राउज़र, गैर-लाभकारी एक स्वतंत्र और उन्मुक्त वेब कलेल प्रतिबद्ध.">
+<!ENTITY firstrun_panel_title_privacy "गोपनीयता">
+<!ENTITY firstrun_privacy_message "एना ब्राउज़ करू जे केओ नहि ताकि रहल हुए">
+<!ENTITY firstrun_bookmarks_title "इतिहास">
+<!ENTITY firstrun_data_title "डेटा">
+<!ENTITY firstrun_data_message "कम डेटा , बेसी बचत">
 <!ENTITY firstrun_sync_title "सिंक">
-<!ENTITY  onboard_start_button_browser "हँसपद ब्राउजिंग">
+<!ENTITY firstrun_sync_message2 "जतए अहाँ छोड़लहुँ ओतए सँ चुनू.">
+<!ENTITY firstrun_signin_button "सिंक करए लेल साइन इन करू">
+<!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करू">
+<!ENTITY firstrun_button_notnow "अखन नहि">
 <!ENTITY firstrun_button_next "आगाँ">
 
+<!ENTITY firstrun_tabqueue_title "लिंक">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "टैब पंक्ति आरंभ करू">
 
 
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -273,12 +285,15 @@
 <!ENTITY pref_qrcode_enabled "QR कोड रीडर">
 
 <!ENTITY pref_use_master_password "मुख्य गुड़किल्ली क\&apos; प्रयोग  करू ">
+<!ENTITY pref_sync2 "साइन इन">
 <!ENTITY pref_sync_summary2 "टैब, पुस्तकचिह्न, लॉगिन, इतिहास सिंक करू">
 <!ENTITY pref_search_suggestions "खोज सलाह देखाउ">
 <!ENTITY pref_history_search_suggestions "खोज इतिहास देखाबू">
+<!ENTITY pref_import_options "आयात विकल्प">
 <!ENTITY pref_import_android_summary "पुस्तकचिह्न आओर इतिहासकेँ नेटिव ब्राउजरसँ आयात करू">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "टैब खोलू">
 <!ENTITY pref_private_data_history2 "ब्राउजिंग इतिहास">
 <!ENTITY pref_private_data_searchHistory "इतिहास खोजू">
 <!ENTITY pref_private_data_formdata2 "इतिहास सँ">
@@ -290,6 +305,8 @@
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोड">
 <!ENTITY pref_private_data_syncedTabs "सिंक कएल टैब">
 
+<!ENTITY pref_default_browser "डिफ़ॉल्ट ब्राउज़र बनाबू">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla समर्थन पर जाउ">
 <!ENTITY pref_about_firefox "&brandShortName; आरम्भ करू ">
 <!ENTITY pref_vendor_faqs "आम सवाल">
 <!ENTITY pref_vendor_feedback "प्रतिक्रिया दिअ">
@@ -297,6 +314,9 @@
 <!ENTITY pref_dialog_set_default "बतौर पूर्वनिर्धारित सेट करू">
 <!ENTITY pref_dialog_default "पूर्वनिर्धारित">
 <!ENTITY pref_dialog_remove "हटाउ">
+<!ENTITY pref_dialog_activitystream_header_content "अतिरिक्त कंटेंट">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "हाल केर पुस्तचिह्न">
+<!ENTITY pref_dialog_activitystream_visited "देखल गेल">
 
 <!ENTITY pref_search_last_toast "अहाँ अपन आख़िरी खोज इंजिन केँ हटाए अथवा निष्क्रिय नहि कए सकैछी.">
 
@@ -335,14 +355,18 @@
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "स्वतः अपडेट">
 <!ENTITY pref_update_autodownload_wifi "केवल वाय-फ़ाय पर">
 <!ENTITY pref_update_autodownload_never "कहियो नहि">
+<!ENTITY pref_update_autodownload_always "हरदम">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "मदति">
 
 <!ENTITY quit "छोड़ू">
 
+<!ENTITY addons "एड-ऑन्स">
+<!ENTITY logins "लॉगइन">
 <!ENTITY downloads "डाउनलोड">
 <!ENTITY char_encoding "वर्ण एन्कोडिंग">
 
@@ -351,10 +375,16 @@
 <!ENTITY share_image_failed "ई छवि केँ साझा करए मे असमर्थ">
 <!ENTITY save_as_pdf "बतौर पीडीएफ़ सहेजू">
 <!ENTITY print "छापू">
+<!ENTITY view_page_source "पृष्ठ श्रोत देखू">
+<!ENTITY find_in_page "पृष्ठ मे खोजू">
+<!ENTITY desktop_mode "डेस्कटॉप साइट कलेल आग्रह करू">
 <!ENTITY page "पृष्ठ">
 <!ENTITY tools "अओजार">
+<!ENTITY new_tab "नवीन टैब">
+<!ENTITY new_private_tab "नवीन निजी टैब">
 <!ENTITY close_all_tabs "सभटा टैब बन्न करू">
 <!ENTITY close_private_tabs "निज टैब बन्न करू">
+<!ENTITY tabs_normal "टैब्स">
 <!ENTITY tabs_private "निज">
 <!ENTITY set_image_fail "छवि सेट करए मे असमर्थ">
 <!ENTITY set_image_path_fail "छवि सहेजबमे असमर्थ">
@@ -362,6 +392,7 @@
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "पृष्ठ मे खोजू">
 <!ENTITY find_prev "पाछाँ">
 <!ENTITY find_next "आगाँ">
 <!ENTITY find_close "बन्न करू">
@@ -376,6 +407,8 @@
 <!ENTITY contextmenu_open_new_tab "नव टैब मे खोलू">
 <!ENTITY contextmenu_open_private_tab "निज टैब मे खोलू">
 <!ENTITY contextmenu_remove "हटाउ">
+<!ENTITY contextmenu_add_page_shortcut "पृष्ठ शॉर्टकट जोड़ू">
+<!ENTITY contextmenu_set_as_homepage "होमपेज सेट करू">
 <!ENTITY contextmenu_share "साझा करू">
 <!ENTITY contextmenu_pasteandgo "साटू आओर बढू">
 <!ENTITY contextmenu_paste "साटू">
@@ -389,6 +422,7 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "शीर्ष साइट्स पर पिन करू">
 <!ENTITY contextmenu_add_search_engine "खोज इंजन जोड़ू">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
