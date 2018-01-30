@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY about.version "sürüm">
+<!ENTITY about.credits.beforeLink "Mozilla Proyekti'ne ">
+<!ENTITY about.credits.linkTitle "isse qoşqanlar">
+<!ENTITY about.credits.afterLink "nıñ bir cedvelini körüñiz.">
+<!ENTITY about.license.beforeTheLink "Bu mahsul içün ">
+<!ENTITY about.license.linkTitle "litsenziyalama malümatı">
+<!ENTITY about.license.afterTheLink "nı oquñız.">
+<!ENTITY about.relnotes.beforeTheLink "Bu sürüm içün ">
+<!ENTITY about.relnotes.linkTitle "çıqarılış notları">
+<!ENTITY about.relnotes.afterTheLink "nı oquñız.">
+<!ENTITY about.buildconfig.beforeTheLink "Bu sürüm içün ">
+<!ENTITY about.buildconfig.linkTitle "inşa yapılandırılışı">
+<!ENTITY about.buildconfig.afterTheLink "na baqıñız.">
+<!ENTITY about.buildIdentifier "İnşa kimligi: ">

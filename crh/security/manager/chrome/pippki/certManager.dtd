@@ -1,0 +1,84 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY certmgr.title "Sertifika Yöneticisi">
+<!ENTITY certmgr.tab.mine "Sertifikalarınız">
+<!ENTITY certmgr.tab.others2 "Kişiler">
+<!ENTITY certmgr.tab.websites3 "Sunucılar">
+<!ENTITY certmgr.tab.ca "Yetkili">
+<!ENTITY certmgr.tab.orphan2 "Diğerleri">
+<!ENTITY certmgr.mine2 "Bu teşkilâtlardan sizni kimliklendirgen şeadetnameleriñiz bar">
+<!ENTITY certmgr.others2 "Bu kişilerni kimliklendirgen dosyelengen şeadetnameleriñiz bar">
+<!ENTITY certmgr.websites3 "Bu sunucılarnı kimliklendirgen dosyelengen şeadetnameleriñiz bar">
+<!ENTITY certmgr.cas2 "Bu şeadetname salahiyetlerini kimliklendirgen dosyelengen şeadetnameleriñiz bar">
+<!ENTITY certmgr.orphans2 "Bu ulamlarnıñ iç birine sığmağan dosyelengen şeadetnameleriñiz bar">
+<!ENTITY certmgr.detail.general_tab.title "Genel">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Ayrıntılar">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "A">
+<!ENTITY certmgr.pending.label "Al-azırda şeadetname doğrulana…">
+<!ENTITY certmgr.subjectinfo.label "Onaylanan">
+<!ENTITY certmgr.issuerinfo.label "Düzenleyen">
+<!ENTITY certmgr.periodofvalidity.label "Keçerlilik Devri">
+<!ENTITY certmgr.fingerprints.label "Parmak izleri">
+<!ENTITY certmgr.certdetail.title "Sertifika Ayrıntıları">
+<!ENTITY certmgr.certdetail.cn "Genel İsimler (CN)">
+<!ENTITY certmgr.certdetail.o "Kurumlar">
+<!ENTITY certmgr.certdetail.ou "Kurumsal Birimler">
+<!ENTITY certmgr.certdetail.serialnumber "Seri Numarası">
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 Parmaq-izi">
+<!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 Parmak izi">
+<!ENTITY certmgr.editcacert.title "CA Sertifika Güvenlik Ayarlarını düzenle">
+<!ENTITY certmgr.editcert.edittrust "İtimat ayarlarını tarir et:">
+<!ENTITY certmgr.editcert.trustssl "Bu şeadetname ağ-saytlarını teşhis etebilir.">
+<!ENTITY certmgr.editcert.trustemail "Bu sertifika posta qullanıcılarını tanımlar.">
+<!ENTITY certmgr.editcert.trustobjsign "Bu sertifika yazılımcıları belirler.">
+<!ENTITY certmgr.deletecert.title "Sertifika Sil">
+<!ENTITY certmgr.certname "Sertifika İsmi">
+<!ENTITY certmgr.certserver "Sunucı">
+<!ENTITY certmgr.override_lifetime "Yaşam müddeti">
+<!ENTITY certmgr.tokenname "Güvenlik Aygıtları">
+<!ENTITY certmgr.begins "Başlağanı Tarih">
+<!ENTITY certmgr.expires "Bitiş tarihi">
+<!ENTITY certmgr.email "E-posta Adresleri">
+<!ENTITY certmgr.serial "Seri Numarası">
+<!ENTITY certmgr.close.label "Qapat">
+<!ENTITY certmgr.close.accesskey "Q">
+<!ENTITY certmgr.view2.label "Görüntüle…">
+<!ENTITY certmgr.view2.accesskey "G">
+<!ENTITY certmgr.edit3.label "İtimatnı Tarir Et…">
+<!ENTITY certmgr.edit3.accesskey "T">
+<!ENTITY certmgr.export.label "Dışa aktar…">
+<!ENTITY certmgr.export.accesskey "D">
+<!ENTITY certmgr.delete2.label "Sil">
+<!ENTITY certmgr.delete2.accesskey "S">
+<!ENTITY certmgr.delete_builtin.label "Sil yaki İtimat Etme…">
+<!ENTITY certmgr.delete_builtin.accesskey "S">
+<!ENTITY certmgr.backup2.label "Yedekle">
+<!ENTITY certmgr.backup2.accesskey "Y">
+<!ENTITY certmgr.backupall2.label "Episini Yedekle…">
+<!ENTITY certmgr.backupall2.accesskey "D">
+<!ENTITY certmgr.restore2.label "İçe aktar">
+<!ENTITY certmgr.restore2.accesskey "a">
+<!ENTITY certmgr.details.label "Sertifika Alanları">
+<!ENTITY certmgr.details.accesskey "S">
+<!ENTITY certmgr.fields.label "Alan değeri">
+<!ENTITY certmgr.fields.accesskey "D">
+<!ENTITY certmgr.hierarchy.label "Şeadetname Hiyerarşisi">
+<!ENTITY certmgr.hierarchy.accesskey2 "H">
+<!ENTITY certmgr.addException.label "İstisna Ekle…">
+<!ENTITY certmgr.addException.accesskey "s">
+<!ENTITY exceptionMgr.title "Güvenlik ayrıcalığı tanı">
+<!ENTITY exceptionMgr.exceptionButton.label "Emniyet İstisnasını Teyit Et">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "T">
+<!ENTITY exceptionMgr.supplementalWarning "Yasal bankalar, mağazalar ve diğer kamu siteleri sizden bunu yapmanızı istemeyecektir.">
+<!ENTITY exceptionMgr.certlocation.caption2 "Sunucı">
+<!ENTITY exceptionMgr.certlocation.url "Qonum:">
+<!ENTITY exceptionMgr.certlocation.download "Şeadetnameni Al">
+<!ENTITY exceptionMgr.certlocation.accesskey "A">
+<!ENTITY exceptionMgr.certstatus.caption "Şeadetname Statusı">
+<!ENTITY exceptionMgr.certstatus.viewCert "Baq…">
+<!ENTITY exceptionMgr.certstatus.accesskey "B">
+<!ENTITY exceptionMgr.permanent.label "Bu istisnanı payidarca saqla">
+<!ENTITY exceptionMgr.permanent.accesskey "p">

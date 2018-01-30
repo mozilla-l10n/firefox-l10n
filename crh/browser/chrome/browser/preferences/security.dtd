@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY security.label "Emniyet">
+<!ENTITY warnOnAddonInstall2.label "Ağ-saytları eklentilerni qurmağa talpınğanda siz tembih etilgeysiz">
+<!ENTITY warnOnAddonInstall2.accesskey "t">
+<!ENTITY browsingProtection.label "Yañıltıcı Muhteva ve Tehlükeli Yazılım İmayesi">
+<!ENTITY enableSafeBrowsing.label "Tehlükeli ve yañıltıcı muhtevanı blokla">
+<!ENTITY enableSafeBrowsing.accesskey "b">
+<!ENTITY blockDownloads.label "Tehlükeli endirmelerni blokla">
+<!ENTITY blockDownloads.accesskey "d">
+<!ENTITY blockUncommonAndUnwanted.label "İstenmegen ve ğayrı-adiy yazılım aqqında sizni tenbile">
+<!ENTITY blockUncommonAndUnwanted.accesskey "m">
+<!ENTITY addonExceptions.label "İstisnalar…">
+<!ENTITY addonExceptions.accesskey "i">
+<!ENTITY formsAndPasswords.label "Formalar &amp; Sır-sözler">
+<!ENTITY rememberLogins2.label "Ağ-saytları içün içeri-imzalanışlar ve sır-sözlerni hatırla">
+<!ENTITY rememberLogins2.accesskey "h">
+<!ENTITY passwordExceptions.label "İstisnalar…">
+<!ENTITY passwordExceptions.accesskey "a">
+<!ENTITY useMasterPassword.label "Usta sır-sözni qullan">
+<!ENTITY useMasterPassword.accesskey "U">
+<!ENTITY changeMasterPassword.label "Usta Sır-sözni Deñiştir…">
+<!ENTITY changeMasterPassword.accesskey "d">
+<!ENTITY savedLogins.label "Saqlanğan İçeri İmzalanışlar…">
+<!ENTITY savedLogins.accesskey "l">

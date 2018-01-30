@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeModeDialog.title "&brandShortName; Emin Tarzı">
+<!ENTITY window.maxWidth "400">
+<!ENTITY startSafeMode.label "Emin Tarzda Başlat">
+<!ENTITY refreshProfile.label "&brandShortName; Tazertilsin">
+<!ENTITY safeModeDescription3.label "Emin Tarz, meseleler olğanda arıza qıdırmaq içün qullanılabilgen mahsus bir &brandShortName; tarzıdır.">
+<!ENTITY safeModeDescription4.label "Eklentileriñiz ve şahsiyleştirilgen ayarlarıñız muvaqqat olaraq ğayrıqabilleştirilecek.">
+<!ENTITY refreshProfileInstead.label "Dert-atımnı atlap &brandShortName; kezicisini tazertmeni de deñeybilirsiñiz.">
+<!ENTITY autoSafeModeDescription3.label "&brandShortName;, başlağanda beklenmegen bir şekilde qapandı. Bunıñ müsebbibi eklentiler yaki başqa meseleler olabilir. Emin Tarz'da dert-ataraq meseleni çezmege deñeybilirsiñiz.">

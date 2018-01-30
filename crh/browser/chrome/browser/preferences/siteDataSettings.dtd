@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title "Ayarlar - Sayt Verileri">
+<!ENTITY hostCol.label "Sayt">
+<!ENTITY statusCol.label "Status">
+<!ENTITY usageCol.label "Mağazlama">
+<!ENTITY searchTextboxPlaceHolder "Ağ-saytlarını qıdır">
+<!ENTITY searchTextboxPlaceHolder.accesskey "A">
+<!ENTITY removeSelected.label "Saylanğannı Çetleştir">
+<!ENTITY removeSelected.accesskey "r">
+<!ENTITY save.label "Deñişikliklerni Saqla">
+<!ENTITY save.accesskey "S">
+<!ENTITY cancel.label "Vazgeç">
+<!ENTITY cancel.accesskey "z">
+<!ENTITY removingDialog.title "Sayt Verileriniñ Çetleştirilmesi">
+<!ENTITY removingSelected.description "Sayt verileriniñ çetleştirilmesi alâqalı çörekler ve hat-tışı ağ muhtevasını da çetleştirecektir. Bu, sizni ağ-saytlarından tışarı imzalandırabilir. Deñişikliklerni yapmağa istegeniñizge eminsiñizmi?">
+<!ENTITY siteTree2.label "Aşağıdaki ağ-saytı çörekleri çetleştirilecek">

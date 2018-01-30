@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tapToPlayPlugin "Plaginni faalleştirmek içün mında toqunıñız.">
+<!ENTITY clickToActivatePlugin "Plaginni faalleştir.">
+<!ENTITY checkForUpdates "Yañartmalar içün teşker…">
+<!ENTITY blockedPlugin.label "Bu plagin imayeñiz içün bloklanğandır.">
+<!ENTITY hidePluginBtn.label "Plaginni gizle">
+<!ENTITY managePlugins "Plaginlerni idare et…">
+<!ENTITY reloadPlugin.pre "Yañıdan deñemek içün ">
+<!ENTITY reloadPlugin.middle "saifeni kene yükle">
+<!ENTITY reloadPlugin.post "ñiz.">
+<!ENTITY report.please "Çöküş maruzasını yiber">
+<!ENTITY report.submitting "Maruza yiberile…">
+<!ENTITY report.submitted "Çöküş maruzası yiberildi.">
+<!ENTITY report.disabled "Çöküş maruzalaması qabil degil.">
+<!ENTITY report.failed "Teslim etilamadı.">
+<!ENTITY report.unavailable "Faydalanışlı maruza yoq.">
+<!ENTITY report.comment "Bir şerh ekle (şerhler alenen körünir)">
+<!ENTITY report.pageURL "Saifeniñ adresini dahil et">
+<!ENTITY plugin.file "Dosye">
+<!ENTITY plugin.mimeTypes "MIME Türleri">
+<!ENTITY plugin.flashProtectedMode.label "Adobe Flash qorumalı tarzını qabilleştir">
+<!ENTITY plugin.enableBlocklists.label "Tehlükeli ve sırnaşıq Flash muhtevasını blokla">

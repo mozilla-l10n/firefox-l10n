@@ -1,0 +1,59 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY engine.bookmarks.label "Saife-imleri">
+<!ENTITY engine.bookmarks.accesskey "S">
+<!ENTITY engine.tabs.label2 "Açıq İlmekler">
+<!ENTITY engine.tabs.accesskey "l">
+<!ENTITY engine.history.label "Keçmiş">
+<!ENTITY engine.history.accesskey "K">
+<!ENTITY engine.logins.label "İçeri-imzalanışlar">
+<!ENTITY engine.logins.accesskey "i">
+<!ENTITY engine.prefs.label "Tercihler">
+<!ENTITY engine.prefs.accesskey "T">
+<!ENTITY engine.addons.label "Eklentiler">
+<!ENTITY engine.addons.accesskey "E">
+<!ENTITY engine.addresses.label "Adresler">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label "Kredit kartları">
+<!ENTITY engine.creditcards.accesskey "K">
+<!ENTITY fxaSyncDeviceName.label "Cihaz İsmi">
+<!ENTITY changeSyncDeviceName2.label "Cihaz Adını Deñiştir…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "Vazgeç">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "z">
+<!ENTITY saveChangeSyncDeviceName.label "Saqla">
+<!ENTITY saveChangeSyncDeviceName.accesskey "S">
+<!ENTITY prefs.tosLink.label "Hızmet Şartları">
+<!ENTITY fxaPrivacyNotice.link.label "Hususiyat Tebliği">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "doğrulanğan degildir">
+<!ENTITY signedInLoginFailure.beforename.label "Kene bağlanmaq içün lütfen içeri imzalanıñız">
+<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY notSignedIn.label "İçeri imzalanğan degilsiñiz.">
+<!ENTITY signIn.label "İçeri İmzalan">
+<!ENTITY signIn.accesskey "r">
+<!ENTITY profilePicture.tooltip "Profil resmini deñiştir">
+<!ENTITY verifiedManage.label "Esapnı idare et">
+<!ENTITY verifiedManage.accesskey "e">
+<!ENTITY disconnect3.label "Bağlantını qopar…">
+<!ENTITY disconnect3.accesskey "o">
+<!ENTITY verify.label "E-poştanı doğrula">
+<!ENTITY verify.accesskey "D">
+<!ENTITY forget.label "Bu e-poştanı unut">
+<!ENTITY forget.accesskey "U">
+<!ENTITY signedOut.caption "Ağıñıznı Yanıñızda Alıñız">
+<!ENTITY signedOut.description "Saife-imleriñiz, keçmişiñiz, ilmekleriñiz, sır-sözleriñiz, eklentileriñiz ve tercihleriñizni episi cihazlarıñız arqalı aynılaştırıñız.">
+<!ENTITY signedOut.accountBox.title "Bir &syncBrand.fxAccount.label; ile bağlanıñız">
+<!ENTITY signedOut.accountBox.create2 "Esabıñız yoqmı? Açmağa başlañız">
+<!ENTITY signedOut.accountBox.create2.accesskey "l">
+<!ENTITY signedOut.accountBox.signin2 "İçeri İmzalan…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "e">
+<!ENTITY signedIn.settings.label "Sync Ayarları">
+<!ENTITY signedIn.settings.description "&brandShortName; qullanğan cihazlarıñız üzerinde ne aynılaştırılacağını saylañız.">
+<!ENTITY mobilePromo3.start "Mobil cihazıñız ile aynılaştırmaq içün ">
+<!ENTITY mobilePromo3.androidLink "Android">
+<!ENTITY mobilePromo3.iOSBefore " yaki ">
+<!ENTITY mobilePromo3.iOSLink "iOS">
+<!ENTITY mobilePromo3.end " içün Firefox'nı endiriñiz.">

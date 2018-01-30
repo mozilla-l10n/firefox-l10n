@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY translation.thisPageIsIn.label "Bu saife">
+<!ENTITY translation.translateThisPage.label "Bu saifeni tercime et?">
+<!ENTITY translation.translate.button "Tercime et">
+<!ENTITY translation.notNow.button "Şimdi Degil">
+<!ENTITY translation.translatingContent.label "Saife muhtevası tercime etile…">
+<!ENTITY translation.translatedFrom.label "Bu saife">
+<!ENTITY translation.translatedTo.label "tilinden">
+<!ENTITY translation.translatedToSuffix.label "tiline tercime etilgendir">
+<!ENTITY translation.showOriginal.button "Özgünni Köster">
+<!ENTITY translation.showTranslation.button "Tercimeni Köster">
+<!ENTITY translation.errorTranslating.label "Bu saifeni tercime etkende bir hata olğandır.">
+<!ENTITY translation.tryAgain.button "Yañıdan Deñe">
+<!ENTITY translation.serviceUnavailable.label "Tercime şu an müsait degildir. Lütfen soñra yañıdan deñeñiz.">
+<!ENTITY translation.options.menu "Seçenekler">
+<!ENTITY translation.options.neverForSite.label "Bu saytnı asla tercime etme">
+<!ENTITY translation.options.neverForSite.accesskey "l">
+<!ENTITY translation.options.preferences.label "Tercime tercihleri">
+<!ENTITY translation.options.preferences.accesskey "T">
+<!ENTITY translation.options.attribution.beforeLogo "Tercimeler">
+<!ENTITY translation.options.attribution.afterLogo "tarafındandır">
+<!ENTITY translation.options.attribution.yandexTranslate "Yandex.Tercime tarafından qudretlendirilgen">

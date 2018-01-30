@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY colorsDialog.title "Tüsler">
+<!ENTITY window.width "42em">
+<!ENTITY window.macWidth "42em">
+<!ENTITY overrideDefaultPageColors2.label "Saife tarafından belirtilgen tüslerniñ üstünden yuqarıdaki saylamlarıñız ile ayda">
+<!ENTITY overrideDefaultPageColors2.accesskey "d">
+<!ENTITY overrideDefaultPageColors.always.label "Er zaman">
+<!ENTITY overrideDefaultPageColors.auto.label "Faqat Yüksek Tezatlı Temalar ile">
+<!ENTITY overrideDefaultPageColors.never.label "Asla">
+<!ENTITY color "Metin ve Arqazemin">
+<!ENTITY textColor2.label "Metin">
+<!ENTITY textColor2.accesskey "M">
+<!ENTITY backgroundColor2.label "Arqa-zemin">
+<!ENTITY backgroundColor2.accesskey "A">
+<!ENTITY useSystemColors.label "Sistem tüslerini qullan">
+<!ENTITY useSystemColors.accesskey "S">
+<!ENTITY underlineLinks.label "İlişimlerni alt-sızıqla">
+<!ENTITY underlineLinks.accesskey "t">
+<!ENTITY links "İlişim Tüsleri">
+<!ENTITY linkColor2.label "Ziyaret Etilmegen İlişimler">
+<!ENTITY linkColor2.accesskey "m">
+<!ENTITY visitedLinkColor2.label "Ziyaret Etilgen İlişimler">
+<!ENTITY visitedLinkColor2.accesskey "Z">

@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.notPrivate "Al-azırda hususiy bir pencerede degilsiñiz.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Hususiy bir Pencere Aç">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "H">
+<!ENTITY privateBrowsing.title "Hususiy Kezinüv">
+<!ENTITY privateBrowsing.title.tracking "İzlenme İmayeli Hususiy Kezinüv">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before "Hususiy bir Pencerede kezingeniñizde, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize "aşağıdakilerni saqlamaz">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after ":">
+<!ENTITY aboutPrivateBrowsing.info.visited "ziyaret etilgen saifeler">
+<!ENTITY aboutPrivateBrowsing.info.searches "qıdırmalar">
+<!ENTITY aboutPrivateBrowsing.info.cookies "çörekler">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "muvaqqat dosyeler">
+<!ENTITY aboutPrivateBrowsing.info.saved.before "Firefox aşağıdakileriñizni ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize "saqlaycaq">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2 ":">
+<!ENTITY aboutPrivateBrowsing.info.downloads "endirmeler">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks "saifeimleri">
+<!ENTITY aboutPrivateBrowsing.note.before "Hususiy Kezinüv">
+<!ENTITY aboutPrivateBrowsing.note.emphasize "sizni İnternet üzerinde anonim yapmaz">
+<!ENTITY aboutPrivateBrowsing.note.after ". İşbergeniñiz yaki İnternet hızmeti teminatçıñız kene de ziyaret etkeniñiz saifeni bilebilir.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before "">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title "Hususiy Kezinüv">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after " aqqında daa çoq ögren.">
+<!ENTITY trackingProtection.title "İzlenme İmayesi">
+<!ENTITY trackingProtection.description2 "Bazı ağ-saytları İnternet arqalı faaliyetiñizni közetebilgen izleyicilerni qullana. İzlenme İmayesi ile Firefox kezinüv davranışıñız aqqında malümat toplaybilgen izleyicilerniñ çoqusını bloklaycaq.">
+<!ENTITY trackingProtection.startTour1 "Nasıl çalışqanını kör">

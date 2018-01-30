@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title "İstisnalar">
+<!ENTITY window.width "45em">
+<!ENTITY treehead.sitename2.label "Ağ-saytı">
+<!ENTITY treehead.status.label "Durum">
+<!ENTITY removepermission2.label "Ağ-saytını Çetleştir">
+<!ENTITY removepermission2.accesskey "t">
+<!ENTITY removeallpermissions2.label "Episi Saytlarnı Çetleştir">
+<!ENTITY removeallpermissions2.accesskey "e">
+<!ENTITY address2.label "Ağ-saytı adresi">
+<!ENTITY address2.accesskey "d">
+<!ENTITY block.label "Blokla">
+<!ENTITY block.accesskey "B">
+<!ENTITY session.label "Oturım içün İzin Ber">
+<!ENTITY session.accesskey "O">
+<!ENTITY allow.label "İzin Ber">
+<!ENTITY allow.accesskey "İ">
+<!ENTITY windowClose.key "w">
+<!ENTITY button.cancel.label "Vazgeç">
+<!ENTITY button.cancel.accesskey "z">
+<!ENTITY button.ok.label "Deñişikliklerni Saqla">
+<!ENTITY button.ok.accesskey "S">
+<!ENTITY searchbox.placeholder "Ağ-saytı Qıdır">

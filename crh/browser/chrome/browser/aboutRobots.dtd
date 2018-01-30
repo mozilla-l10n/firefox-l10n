@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY robots.pagetitle "Gort! Klaatu barada nikto!">
+<!ENTITY robots.errorTitleText "Hoş Keldiñ İnsanoğlu!">
+<!ENTITY robots.errorShortDescText "Sülh ve eyiniyetnen sizni ziyaretke keldik!">
+<!ENTITY robots.errorLongDesc1 "Robotlar insanoğluna zarar bermemeli yaki insanoğlunıñ zarar körüvine seyirci qalmamalı.">
+<!ENTITY robots.errorLongDesc2 "Robotlar siz insanlarnıñ inanmaycağı şeyler körgen olalar.">
+<!ENTITY robots.errorLongDesc3 "Robotlar Beraber Olmanıñ Eglenceli Olğanı Plastik Arqadaşlarıñızdır.">
+<!ENTITY robots.errorLongDesc4 "Robotlarnıñ tişlenmeyüvi kerekken parlaq metal qıçları bardır.">
+<!ENTITY robots.errorTrailerDescText "Ve olarnıñ bir planı bar.">
+<!ENTITY robots.imgtitle "Mel'un Qızartqıçlar">
+<!ENTITY robots.dontpress "Lütfen bir daa bu dögmege basmañız.">

@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY cutCmd.label "Kes">
+<!ENTITY cutCmd.accesskey "K">
+<!ENTITY copyCmd.label "Kopiyala">
+<!ENTITY copyCmd.accesskey "o">
+<!ENTITY pasteCmd.label "Yapıştır">
+<!ENTITY pasteCmd.accesskey "Y">
+<!ENTITY undoCmd.label "Keri yap">
+<!ENTITY undoCmd.accesskey "r">
+<!ENTITY selectAllCmd.label "Episini Sayla">
+<!ENTITY selectAllCmd.accesskey "e">
+<!ENTITY deleteCmd.label "Sil">
+<!ENTITY deleteCmd.accesskey "S">
+<!ENTITY spellAddToDictionary.label "Luğatqa Ekle">
+<!ENTITY spellAddToDictionary.accesskey "L">
+<!ENTITY spellUndoAddToDictionary.label "Luğatqa Eklemeni Keri Yap">
+<!ENTITY spellUndoAddToDictionary.accesskey "r">
+<!ENTITY spellCheckToggle.label "İmlânı Teşker">
+<!ENTITY spellCheckToggle.accesskey "m">
+<!ENTITY spellNoSuggestions.label "(İmlâ Telqinleri Yoq)">
+<!ENTITY spellDictionaries.label "Tiller">
+<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY searchTextBox.clear.label "Temizle">
+<!ENTITY fillLoginMenu.label "İçeri İmzalanışnı Toldur">
+<!ENTITY fillLoginMenu.accesskey "d">
+<!ENTITY fillPasswordMenu.label "Sır-sözni Toldur">
+<!ENTITY fillPasswordMenu.accesskey "d">
+<!ENTITY fillUsernameMenu.label "Qullanıcı Adını Toldur">
+<!ENTITY fillUsernameMenu.accesskey "d">
+<!ENTITY noLoginSuggestions.label "(İçeri İmzalanış Telqinleri Yoq)">
+<!ENTITY viewSavedLogins.label "Saqlanğan İçeri İmzalanışlarnı Köster">

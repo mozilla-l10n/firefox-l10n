@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newtab.pageTitle "Yañı İlmek">
+<!ENTITY newtab.customize.classic "Eñ üst saytlarıñıznı köster">
+<!ENTITY newtab.customize.cog.enhanced "Telqin etilgen saytlarnı dahil et">
+<!ENTITY newtab.customize.cog.title2 "YAÑI İLMEK MÜRAQABELERİ">
+<!ENTITY newtab.customize.cog.learn "Yañi İlmek aqqında ögren">
+<!ENTITY newtab.customize.title "Yañı İlmek saifeñizni özelleştiriñiz">
+<!ENTITY newtab.customize.blank2 "Boş saife köster">
+<!ENTITY newtab.undo.removedLabel "Tırnaq-resim çetleştirilgen.">
+<!ENTITY newtab.undo.undoButton "Keri yap.">
+<!ENTITY newtab.undo.restoreButton "Episini Keri Tikle.">
+<!ENTITY newtab.undo.closeTooltip "Gizle">

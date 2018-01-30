@@ -1,0 +1,88 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY trackingProtectionHeader2.label "İzlenme İmayesi">
+<!ENTITY trackingProtection2.description "İzleme, müteaddit ağ-saytı arqalı kezinme verileriñizniz toplanmasıdır. İzleme, bir profilni inşa etmek ve kezinmeñizge dair em şahsiy verileriñizge tayanaraq muhtevanı köstermek içün qullanılabilir.">
+<!ENTITY trackingProtection2.radioGroupLabel "Bilingen izleyicilerni bloklamaq içün İzleme İmayesi'ni qullan">
+<!ENTITY trackingProtectionAlways.label "Er zaman">
+<!ENTITY trackingProtectionAlways.accesskey "e">
+<!ENTITY trackingProtectionPrivate.label "Faqat hususiy pencerelerde">
+<!ENTITY trackingProtectionPrivate.accesskey "h">
+<!ENTITY trackingProtectionNever.label "Asla">
+<!ENTITY trackingProtectionNever.accesskey "A">
+<!ENTITY trackingProtectionLearnMore.label "Daa çoq ögren">
+<!ENTITY trackingProtectionExceptions.label "İstisnalar…">
+<!ENTITY trackingProtectionExceptions.accesskey "s">
+<!ENTITY trackingProtectionPBM6.label "Hususiy Kezinüv'de bilingen izleyicilerni bloklamaq içün İzleme İmayesi'ni qullan">
+<!ENTITY trackingProtectionPBM6.accesskey "H">
+<!ENTITY trackingProtectionPBMLearnMore.label "Daa çoq ögren">
+<!ENTITY changeBlockList2.label "Blok Listesini Deñiştir…">
+<!ENTITY changeBlockList2.accesskey "B">
+<!ENTITY doNotTrack.description "Ağ-saytlarına izlenmege istemegeniñizge dair “Meni İzleme” signalını yiber">
+<!ENTITY doNotTrack.learnMore.label "Daa çoq ögren">
+<!ENTITY doNotTrack.default.label "Faqat İzlenme İmayesini qullanğanda">
+<!ENTITY doNotTrack.always.label "Er zaman">
+<!ENTITY history.label "Keçmiş">
+<!ENTITY permissions.label "Ruhsetler">
+<!ENTITY addressBar.label "Adres Çubuğı">
+<!ENTITY addressBar.suggest.label "Adres çubuğını qullanğanda, telqin et">
+<!ENTITY locbar.history2.label "Kezinüv keçmişi">
+<!ENTITY locbar.history2.accesskey "k">
+<!ENTITY locbar.bookmarks.label "Saifeimlerini">
+<!ENTITY locbar.bookmarks.accesskey "S">
+<!ENTITY locbar.openpage.label "Açıq ilmeklerni">
+<!ENTITY locbar.openpage.accesskey "a">
+<!ENTITY locbar.searches.label "Ögbelgilengen qıdırma motorından alâqadar qıdırmalar">
+<!ENTITY locbar.searches.accesskey "b">
+<!ENTITY suggestionSettings2.label "Qıdırma motorları telqinleri içün tercihlerni deñiştir">
+<!ENTITY acceptCookies2.label "Ağ-saytlarından çöreklerni qabul et">
+<!ENTITY acceptCookies2.accesskey "b">
+<!ENTITY acceptThirdParty2.pre.label "Üçünci-taraf çöreklerini qabul et">
+<!ENTITY acceptThirdParty2.pre.accesskey "n">
+<!ENTITY acceptThirdParty.always.label "Er zaman">
+<!ENTITY acceptThirdParty.never.label "Asla">
+<!ENTITY acceptThirdParty.visited.label "Ziyaret etilgenlerden">
+<!ENTITY keepUntil2.label "Tutuv müddeti">
+<!ENTITY keepUntil2.accesskey "u">
+<!ENTITY expire.label "müddeti tolğance">
+<!ENTITY close.label "&brandShortName; qapatılğance">
+<!ENTITY cookieExceptions.label "İstisnalar…">
+<!ENTITY cookieExceptions.accesskey "i">
+<!ENTITY showCookies.label "Çöreklerni Köster…">
+<!ENTITY showCookies.accesskey "l">
+<!ENTITY historyHeader2.pre.label "&brandShortName; keçmişni">
+<!ENTITY historyHeader2.pre.accesskey "k">
+<!ENTITY historyHeader.remember.label "Hatırlaycaq">
+<!ENTITY historyHeader.dontremember.label "Asla hatırlamaycaq">
+<!ENTITY historyHeader.custom.label "Şahsiyleştirilgen ayarlarğa köre hatırlaycaq">
+<!ENTITY historyHeader.post.label "">
+<!ENTITY rememberDescription.label "&brandShortName;, kezinüv, endirüv, forma ve qıdıruv keçmişiñizni hatırlaycaq ve ziyaret etkeniñiz ağ-saytlarınıñ çöreklerini tutacaq.">
+<!ENTITY rememberActions.pre.label "İsteseñiz, ">
+<!ENTITY rememberActions.clearHistory.label "deminki keçmişiñizni temizleñiz">
+<!ENTITY rememberActions.middle.label " yaki ">
+<!ENTITY rememberActions.removeCookies.label "ferdiy çöreklerni çetleştiriñiz">
+<!ENTITY rememberActions.post.label ".">
+<!ENTITY dontrememberDescription.label "&brandShortName; hususiy kezinüvdeki ile aynı tesbitlerni qullanacaq ve siz Ağda kezingende er angi keçmişni hatırlamaycaq.">
+<!ENTITY dontrememberActions.pre.label "İsteseñiz, ">
+<!ENTITY dontrememberActions.clearHistory.label "bütün ağımdaki keçmişni temizleñiz">
+<!ENTITY dontrememberActions.post.label ".">
+<!ENTITY privateBrowsingPermanent2.label "Er zaman hususiy kezinüv tarzını qullan">
+<!ENTITY privateBrowsingPermanent2.accesskey "h">
+<!ENTITY rememberHistory2.label "Kezinüv ve endirme keçmişimni hatırla">
+<!ENTITY rememberHistory2.accesskey "h">
+<!ENTITY rememberSearchForm.label "Qıdıruv ve forma keçmişini hatırla">
+<!ENTITY rememberSearchForm.accesskey "f">
+<!ENTITY clearOnClose.label "&brandShortName; qapanğanda keçmişni temizle">
+<!ENTITY clearOnClose.accesskey "a">
+<!ENTITY clearOnCloseSettings.label "Ayarlar…">
+<!ENTITY clearOnCloseSettings.accesskey "T">
+<!ENTITY browserContainersLearnMore.label "Daa çoq ögren">
+<!ENTITY browserContainersEnabled.label "İhtivacı İlmekler Qabil Olsun">
+<!ENTITY browserContainersEnabled.accesskey "b">
+<!ENTITY browserContainersSettings.label "Ayarlar…">
+<!ENTITY browserContainersSettings.accesskey "l">
+<!ENTITY a11yPrivacy.checkbox.label "İrişilebilirlik hızmetleriniñ keziciñizge irişmesiniñ aldını al">
+<!ENTITY a11yPrivacy.checkbox.accesskey "i">
+<!ENTITY a11yPrivacy.learnmore.label "Daa çoq ögren">
+<!ENTITY enableSafeBrowsingLearnMore.label "Daa çoq ögren">

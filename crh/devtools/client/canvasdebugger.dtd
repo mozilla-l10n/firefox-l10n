@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY canvasDebuggerUI.reloadNotice1 "Kene yükle">
+<!ENTITY canvasDebuggerUI.reloadNotice2 "&lt;kanaviçe&gt; bağlamlarını illetsizlendirebilirsiñiz.">
+<!ENTITY canvasDebuggerUI.emptyNotice1 "Bir canlandırma çerçivesiniñ çağırım çerenini qayd etmek içün">
+<!ENTITY canvasDebuggerUI.emptyNotice2 "dögmesine çertiñiz.">
+<!ENTITY canvasDebuggerUI.waitingNotice "Bir canlandırma döngüsi qayd etile…">
+<!ENTITY canvasDebuggerUI.recordSnapshot.tooltip "Candlandırma iligindeki soñraki çerçiveni qayd et.">
+<!ENTITY canvasDebuggerUI.importSnapshot "İtal et…">
+<!ENTITY canvasDebuggerUI.clearSnapshots "Temizle">
+<!ENTITY canvasDebuggerUI.searchboxPlaceholder "Çağırımlarnı süzgüçle">

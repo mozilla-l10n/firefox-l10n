@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutProfiles.title "Profiller Aqqında">
+<!ENTITY aboutProfiles.subtitle "Bu saife sizge profilleriñizni idare etmege yardım eter. Er profil, ayrı bir keçmiş, saifeimleri, ayarlar ve eklentiler ihtiva etken ayrı bir dünyadır.">
+<!ENTITY aboutProfiles.create "Yañı bir Profil İcat Et">
+<!ENTITY aboutProfiles.restart.title "Kene başlat">
+<!ENTITY aboutProfiles.restart.inSafeMode "Ğayrıfaalleştirilgen Eklentiler ile Kene Başlat…">
+<!ENTITY aboutProfiles.restart.normal "Normalce kene başlat…">

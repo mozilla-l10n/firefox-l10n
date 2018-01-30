@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY history.title "Güncelleme Geçmişi">
+<!ENTITY history2.intro "Aşağıdaki yañartmalar qurulğandır">
+<!ENTITY closebutton.label "Qapat">
+<!ENTITY noupdates.label "İç bir güncelleme yüklenmemiş">
+<!ENTITY name.header "Güncellemenin Adı">
+<!ENTITY date.header "Kurulum Tarihi">
+<!ENTITY type.header "Tipi">
+<!ENTITY state.header "Durumu">

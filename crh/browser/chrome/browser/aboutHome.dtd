@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
+<!ENTITY abouthome.pageTitle "&brandFullName; Başlanğıç Saifesi">
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox'nı saylağanıñız içün teşekkürler! Keziciñizden eñ çoq elde etmek içün, <a>yañı hususiyetler</a> aqqında daa çoq ögreniñiz.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox'nı tam istegeniñiz şekilde özelleştirmek qolaydır. <a>Biñlerce eklentiden saylañız</a>.">
+<!ENTITY abouthome.rightsSnippet "&brandFullName;, kâr-kütmegen Mozilla Vaqfı'ndan serbest ve açıq menbalı yazılımdır. <a>Aqlarıñıznı biliñiz…</a>">
+<!ENTITY abouthome.bookmarksButton.label "Saifeimleri">
+<!ENTITY abouthome.historyButton.label "Keçmiş">
+<!ENTITY abouthome.preferencesButtonWin.label "Seçenekler">
+<!ENTITY abouthome.preferencesButtonUnix.label "Tercihler">
+<!ENTITY abouthome.addonsButton.label "Eklentiler">
+<!ENTITY abouthome.downloadsButton.label "Endirmeler">
+<!ENTITY abouthome.syncButton.label "&syncBrand.shortName.label;">
+<!ENTITY abouthome.aboutMozilla.label "Mozilla Aqqında">

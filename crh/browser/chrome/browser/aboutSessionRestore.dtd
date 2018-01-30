@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle "Oturımnı Keri Tikle">
+<!ENTITY restorepage.errorTitle2 "Afu. Saifeleriñizni keri tiklemekte küçsünemiz.">
+<!ENTITY restorepage.problemDesc2 "Soñ kezinti oturımıñıznı keri tiklemekte küçsünemiz. Yañıdan deñemek içün Oturımnı Keri Tikle'ni saylañız.">
+<!ENTITY restorepage.tryThis2 "Oturımıñız kene de keri tiklenalmaymı? Bazan bir ilmek meseleniñ müsebbibi olur. Evvelki ilmekleriñizge bir baqıñız, keri tiklenmesi kerekmegen ilmeklerniñ çavke işaretini çetleştiriñiz ve ondan soñ keri tikleñiz.">
+<!ENTITY restorepage.hideTabs "Evvelki İlmeklerni Gizle">
+<!ENTITY restorepage.showTabs "Evvelki İlmeklerni Köster">
+<!ENTITY restorepage.tryagainButton2 "Oturımnı Keri Tikle">
+<!ENTITY restorepage.restore.access2 "K">
+<!ENTITY restorepage.closeButton2 "Yañı Oturımnı Başlat">
+<!ENTITY restorepage.close.access2 "Y">
+<!ENTITY restorepage.restoreHeader "Keri tikle">
+<!ENTITY restorepage.listHeader "Pencereler ve İlmekler">
+<!ENTITY restorepage.windowLabel "Pencere &#037;S">
+<!ENTITY welcomeback2.restoreButton "Aydı!">
+<!ENTITY welcomeback2.restoreButton.access "A">
+<!ENTITY welcomeback2.tabtitle "Muvaffaqiyet!">
+<!ENTITY welcomeback2.pageTitle "Muvaffaqiyet!">
+<!ENTITY welcomeback2.pageInfo1 "&brandShortName; barmağa azırdır.">
+<!ENTITY welcomeback2.restoreAll.label "Episi pencereler &amp; ilmeklerni keri tikle">
+<!ENTITY welcomeback2.restoreSome.label "Faqat istegenleriñizni keri tikle">
+<!ENTITY welcomeback2.beforelink.pageInfo2 "Eklentileriñiz ve özelleştirmeleriñiz çetleştirilgendir ve kezici ayarlarıñız ögbelgilemelerine keri tiklengendir. Bu da meseleñizni tüzetmedi ise,  ">
+<!ENTITY welcomeback2.afterlink.pageInfo2 "">
+<!ENTITY welcomeback2.link.pageInfo2 "ne yapabilgeniñiz aqqında daa çoq ögreniñiz.">

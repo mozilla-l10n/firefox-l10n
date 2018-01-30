@@ -1,0 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY permissions.label "Ruhsetler">
+<!ENTITY blockPopups.label "Peyda pencerelerni blokla">
+<!ENTITY blockPopups.accesskey "B">
+<!ENTITY popupExceptions.label "İstisnalar…">
+<!ENTITY popupExceptions.accesskey "i">
+<!ENTITY notificationPermissions.label "Tebliğler">
+<!ENTITY notificationSettingsButton.label "Tesbitler…">
+<!ENTITY notificationSettingsButton.accesskey "t">
+<!ENTITY notificationPermissionsLearnMore.label "Daa çoq ögren">
+<!ENTITY locationPermissions.label "Qonum">
+<!ENTITY locationSettingsButton.label "Tesbitler…">
+<!ENTITY locationSettingsButton.accesskey "t">
+<!ENTITY cameraPermissions.label "Kamera">
+<!ENTITY cameraSettingsButton.label "Tesbitler…">
+<!ENTITY cameraSettingsButton.accesskey "t">
+<!ENTITY microphonePermissions.label "Mikrofon">
+<!ENTITY microphoneSettingsButton.label "Tesbitler…">
+<!ENTITY microphoneSettingsButton.accesskey "t">
+<!ENTITY fontsAndColors.label "Urufatlar ve Tüsler">
+<!ENTITY defaultFont2.label "Ögbelgilengen urufat">
+<!ENTITY defaultFont2.accesskey "b">
+<!ENTITY defaultSize2.label "Ölçü">
+<!ENTITY defaultSize2.accesskey "l">
+<!ENTITY advancedFonts.label "İleriletilgen…">
+<!ENTITY advancedFonts.accesskey "t">
+<!ENTITY colors.label "Renkler…">
+<!ENTITY colors.accesskey "R">
+<!ENTITY language2.label "Til">
+<!ENTITY chooseLanguage.label "Saifelerni kösterüv içün tercih etkeniñiz tilni saylañız">
+<!ENTITY chooseButton.label "Sayla…">
+<!ENTITY chooseButton.accesskey "S">
+<!ENTITY translateWebPages.label "Ağ muhtevasını tercime et">
+<!ENTITY translateWebPages.accesskey "t">
+<!ENTITY translateExceptions.label "İstisnalar…">
+<!ENTITY translateExceptions.accesskey "s">
+<!ENTITY translation.options.attribution.beforeLogo "Tercimeler ">
+<!ENTITY translation.options.attribution.afterLogo "tarafındandır">
+<!ENTITY drmContent2.label "Raqamsal Aqlar İdaresi (DRM) Muhtevası">
+<!ENTITY playDRMContent2.label "DRM-muraqabeli muhtevanı oynat">
+<!ENTITY playDRMContent2.accesskey "o">
+<!ENTITY playDRMContent.learnMore.label "Daa çoq ögren">

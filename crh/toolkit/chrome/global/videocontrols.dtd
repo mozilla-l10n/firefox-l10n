@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY playButton.playLabel "Oynat">
+<!ENTITY playButton.pauseLabel "Tınışla">
+<!ENTITY muteButton.muteLabel "Davuşsızlandır">
+<!ENTITY muteButton.unmuteLabel "Davuşlandır">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Tam Ekran">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Tam Ekrandan Çıq">
+<!ENTITY castingButton.castingLabel "Ekranğa Tök">
+<!ENTITY closedCaption.off "Qapalı">
+<!ENTITY stats.media "Vasat">
+<!ENTITY stats.size "Ölçü">
+<!ENTITY stats.activity "Faaliyet">
+<!ENTITY stats.activityPaused "Tınışlanğan">
+<!ENTITY stats.activityPlaying "Oynatıla">
+<!ENTITY stats.activityEnded "Bitti">
+<!ENTITY stats.activitySeeking "(arana)">
+<!ENTITY stats.volume "Gürlük">
+<!ENTITY stats.framesParsed "Ayırıştırılğan çerçive">
+<!ENTITY stats.framesDecoded "Dekodlanğan çerçive">
+<!ENTITY stats.framesPresented "Taqdim etilgen çerçive">
+<!ENTITY stats.framesPainted "Boyalanğan çerçive">
+<!ENTITY error.aborted "Video yüklenmesi toqtatıldı.">
+<!ENTITY error.network "Bir şebeke hatasından dolayı video oynatımından vazgeçildi.">
+<!ENTITY error.decode "Dosye ifsat etilgen olğanından video oynatılalmay.">
+<!ENTITY error.srcNotSupported "Video formatı yaki MIME türü desteklenmey.">
+<!ENTITY error.noSource2 "Desteklengen format ve MIME türü ile bir video tapılğan degil.">
+<!ENTITY error.generic "Namalüm bir hatadan dolayı video oynatımı abortlandı.">
+<!ENTITY scrubberScale.nameFormat "#1 / #2 keçti">
+<!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">

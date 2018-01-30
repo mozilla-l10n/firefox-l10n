@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pingDataSource "Ping verileri qaynağı:">
+<!ENTITY aboutTelemetry.showCurrentPingData "Cari ping verileri">
+<!ENTITY aboutTelemetry.showArchivedPingData "Arhivlengen ping verileri">
+<!ENTITY aboutTelemetry.showSubsessionData "Alt-oturım verilerini köster">
+<!ENTITY aboutTelemetry.choosePing "Ping sayla:">
+<!ENTITY aboutTelemetry.archivePingType "Ping Türü">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Bugün">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Tünevin">
+<!ENTITY aboutTelemetry.optionGroupOlder "Daa eski">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Faydayükü">
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
+<!ENTITY aboutTelemetry.pageTitle "Telemetri Verileri">
+<!ENTITY aboutTelemetry.moreInformations "Daa çoq malümat içün baqasız?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Veriler Tavsiqi</a> veriler aletlerimiz içün nasıl çalışılğanı aqqında rehberlerni ihtiva ete.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetri müşteri tavsiqi</a> qavramlar içün tariflerni, API (UPA) tavsiqini ve veriler sıltavlarını ihtiva ete.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetri köstergiç panelleri</a> Mozilla'nıñ Telemetri arqalı alğanı verilerni körselleştirmeñizge imkân bere.">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON seyrettiricisinde aç">
+<!ENTITY aboutTelemetry.homeSection "Ev">
+<!ENTITY aboutTelemetry.generalDataSection "Umumiy Veriler">
+<!ENTITY aboutTelemetry.environmentDataSection "Müit Verileri">
+<!ENTITY aboutTelemetry.sessionInfoSection "Oturım Malümatı">
+<!ENTITY aboutTelemetry.scalarsSection "Deñişçenler">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Tuşlanğan Deñişçenler">
+<!ENTITY aboutTelemetry.histogramsSection "Keçmişgramlar">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Anahtarlı Keçmişgramlar">
+<!ENTITY aboutTelemetry.eventsSection "Vaqialar">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Basit Ölçemler">
+<!ENTITY aboutTelemetry.telemetryLogSection "Telemetri Kütügi">
+<!ENTITY aboutTelemetry.slowSqlSection "Yavaş SQL Deyimleri">
+<!ENTITY aboutTelemetry.chromeHangsSection "Kezici Asılmaları">
+<!ENTITY aboutTelemetry.addonDetailsSection "Eklenti Tafsilâtları">
+<!ENTITY aboutTelemetry.capturedStacksSection "Yaqalanğan Çerenler">
+<!ENTITY aboutTelemetry.lateWritesSection "Keç Yazmalar">
+<!ENTITY aboutTelemetry.rawPayloadSection "Çiy Faydayükü">
+<!ENTITY aboutTelemetry.raw "Çiy JSON">
+<!ENTITY aboutTelemetry.fullSqlWarning "NOT: Yavaş SQL illetsizlendirmesi qabildir. Tam SQL tizgileri aşağıda kösterilebilir amma Telemetri'ge teslim etilmezler.">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Çerenler içün fonksiyon isimlerini alıp ketir.">
+<!ENTITY aboutTelemetry.hideStackSymbols "Çiy çeren verilerini köster">

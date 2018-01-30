@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width "36em">
+<!ENTITY cookiesonsystem2.label "Aşağıdaki çörekler bilgisayarıñızda saqlanğan">
+<!ENTITY cookiename.label "Çörek İsmi">
+<!ENTITY cookiedomain.label "Sayt">
+<!ENTITY props.name.label "Ad:">
+<!ENTITY props.value.label "Münderice:">
+<!ENTITY props.domain.label "Qonaqbay:">
+<!ENTITY props.path.label "Yolçıq:">
+<!ENTITY props.secure.label "Yiberilişi:">
+<!ENTITY props.expires.label "Eskire:">
+<!ENTITY props.container.label "Konteyner:">
+<!ENTITY window.title "Çörekler">
+<!ENTITY windowClose.key "w">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY searchFilter.label "Qıdır">
+<!ENTITY searchFilter.accesskey "r">
+<!ENTITY button.close.label "Qapat">
+<!ENTITY button.close.accesskey "Q">

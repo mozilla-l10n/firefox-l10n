@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY ctrlTabRecentlyUsedOrder.label "Ctrl+Tab, yaqınlarda qullanılğan sırada ilmekler arqalı dolaşır">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey "T">
+<!ENTITY newWindowsAsTabs.label "Yañı pencerelerni yañı birer ilmekte aç">
+<!ENTITY newWindowsAsTabs.accesskey "m">
+<!ENTITY warnOnCloseMultipleTabs.label "Müteaddit ilmekler qapatılğanda sizni iqaz et">
+<!ENTITY warnOnCloseMultipleTabs.accesskey "M">
+<!ENTITY warnOnOpenManyTabs.label "Müteaddit ilmeklerni açuv &brandShortName; uyğulamasını yavaşlatabilgende sizni iqaz et">
+<!ENTITY warnOnOpenManyTabs.accesskey "b">
+<!ENTITY switchLinksToNewTabs.label "Bir ilişimni yañı bir ilmekte açqanıñızda, deral oña almaştır">
+<!ENTITY switchLinksToNewTabs.accesskey "d">
+<!ENTITY showTabsInTaskbar.label "Windows vazife çubuğında ilmek ögbaqışlarını köster">
+<!ENTITY showTabsInTaskbar.accesskey "v">
+<!ENTITY tabsGroup.label "İlmekler">

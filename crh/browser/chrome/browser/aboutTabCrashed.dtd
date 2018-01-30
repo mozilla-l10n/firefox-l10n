@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabCrashed.title "İlmek çöküşi maruzacısı">
+<!ENTITY tabCrashed.closeTab2 "İlmekni Qapat">
+<!ENTITY tabCrashed.restoreTab "Bu İlmekni Keri Tikle">
+<!ENTITY tabCrashed.restoreAll "Çökken İlmeklerniñ Episini Keri Tikle">
+<!ENTITY tabCrashed.header2 "Yuh. İlmegiñiz şimdiçik çökken.">
+<!ENTITY tabCrashed.offerHelp2 "Yardım etebilirmiz!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Saifeni kene yüklemek içün &tabCrashed.restoreTab; saylañız.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Saifeni/saifelerni kene yüklemek içün &tabCrashed.restoreTab; yaki &tabCrashed.restoreAll; saylañız.">
+<!ENTITY tabCrashed.requestHelp "Bizge yardım eteceksizmi?">
+<!ENTITY tabCrashed.requestHelpMessage "Çöküş maruzaları, mes'elelerni teşhis etmemizge ve &brandShortName; uyğulamasını eyileştirmemizge yardım eter.">
+<!ENTITY tabCrashed.requestReport "Bu ilmekni maruza et">
+<!ENTITY tabCrashed.sendReport3 "Bunıñ kibi meselelerni tüzetebilmemiz içün avtomatik bir çöküş maruzasını yiber.">
+<!ENTITY tabCrashed.commentPlaceholder2 "İhtiyariy şerhler (şerhler alenen körünir)">
+<!ENTITY tabCrashed.includeURL3 "&brandShortName; çökkeninde üzerinde bulunğanıñız saytlarnıñ adreslerini dahil et.">
+<!ENTITY tabCrashed.emailPlaceholder "E-poçta adresiñizni mında kirsetiñiz">
+<!ENTITY tabCrashed.emailMe "Daa çoq malümat müsait olğanda maña e-poçtala">
+<!ENTITY tabCrashed.reportSent "Çöküş maruzası endi teslim etildi; &brandShortName; tatbiqini daa eyi yapmağa yardım etkeniñiz içün teşekkürler!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Arqazemin ilmeklerini maruza et">
+<!ENTITY tabCrashed.autoSubmit3 "&brandShortName; çökkeninde maruzalarnı avtomatik olaraq teslim etmek üzre tercihlerni yañart.">

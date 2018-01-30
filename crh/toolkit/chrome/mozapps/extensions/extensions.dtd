@@ -1,0 +1,189 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addons.windowTitle "Eklentiler İdarecisi">
+<!ENTITY search.placeholder "Episi eklentilerde qıdır">
+<!ENTITY search.buttonlabel "Qıdır">
+<!ENTITY search.commandkey "f">
+<!ENTITY loading.label "Yüklene…">
+<!ENTITY listEmpty.installed.label "Bu türden qurulğan eklentileriñiz iç yoq">
+<!ENTITY listEmpty.availableUpdates.label "Tapılğan yañartmalar yoq">
+<!ENTITY listEmpty.recentUpdates.label "Demin er angi eklentilerni yañartqan degilsiñiz">
+<!ENTITY listEmpty.findUpdates.label "Yañartmalar İçün Teşker">
+<!ENTITY listEmpty.search.label "Er angi eşleşken eklentiler tapılamadı">
+<!ENTITY listEmpty.button.label "Eklentiler aqqında daa çoq ögreniñiz">
+<!ENTITY installAddonFromFile.label "Dosyeden Eklenti Qur…">
+<!ENTITY installAddonFromFile.accesskey "Q">
+<!ENTITY toolsMenu.tooltip "Episi eklentiler içün aletler">
+<!ENTITY getThemes.description "Keziciñizni şahsiyleştirmege ister ediñiz?">
+<!ENTITY getThemes.learnMore "Biñlerce temadan saylañız.">
+<!ENTITY showUnsignedExtensions.button.label "Bazı uzantılar doğrulanamadı">
+<!ENTITY showAllExtensions.button.label "Episi uzantılarnı köster">
+<!ENTITY debugAddons.label "Eklentilerni İlletsizleştir">
+<!ENTITY debugAddons.accesskey "s">
+<!ENTITY warning.safemode.label "Episi eklentiler emin tarz tarafından ğayrıqabilleştirilgendir.">
+<!ENTITY warning.checkcompatibility.label "Eklenti telif qabiliyeti teşkerüvi qabil degildir. Belki ğayrı-qabili-telif eklentileriñiz bar.">
+<!ENTITY warning.checkcompatibility.enable.label "Qabilleştir">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Eklenti telif qabiliyeti teşkerüvini qabilleştir">
+<!ENTITY warning.updatesecurity.label "Eklenti yañartması emniyet teşkerüvi qabil degildir. Yañartmalar tarafından tehlükege atılabilirsiñiz.">
+<!ENTITY warning.updatesecurity.enable.label "Qabilleştir">
+<!ENTITY warning.updatesecurity.enable.tooltip "Eklenti yañartması emniyet teşkerüvini qabilleştir">
+<!ENTITY view.search.label "Qıdır">
+<!ENTITY view.discover.label "Eklentilerni Elde Et">
+<!ENTITY view.recentUpdates.label "Deminki Yañartmalar">
+<!ENTITY view.availableUpdates.label "Faydalanışlı Yañartmalar">
+<!ENTITY updates.checkForUpdates.label "Yañartmalar içün Teşker">
+<!ENTITY updates.checkForUpdates.accesskey "T">
+<!ENTITY updates.viewUpdates.label "Deminki Yañartmalarğa Baq">
+<!ENTITY updates.viewUpdates.accesskey "B">
+<!ENTITY updates.updateAddonsAutomatically.label "Eklentilerni Öz-özünden Yañart">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "z">
+<!ENTITY updates.resetUpdatesToAutomatic.label "Episi Eklentilerni Öz-özünden Yañartılmaq Üzre Sıfırla">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey "S">
+<!ENTITY updates.resetUpdatesToManual.label "Episi Eklentilerni Elnen Yañartılmaq Üzre Sıfırla">
+<!ENTITY updates.resetUpdatesToManual.accesskey "S">
+<!ENTITY updates.updating.label "Eklentiler yañartıla">
+<!ENTITY updates.installed.label "Eklentileriñiz yañartılğandır.">
+<!ENTITY updates.downloaded.label "Eklenti yañartmalarıñız endirilgendir.">
+<!ENTITY updates.restart.label "Qurulımnı tamamlamaq içün şimdi kene başlat">
+<!ENTITY updates.noneFound.label "Tapılğan yañartmalar yoq">
+<!ENTITY updates.manualUpdatesFound.label "Faydalanışlı Yañartmalarğa Baq">
+<!ENTITY updates.updateSelected.label "Yañartmalarnı Qur">
+<!ENTITY updates.updateSelected.tooltip "Bu listedeki faydalanışlı yañartmalarnı qur">
+<!ENTITY cmd.showDetails.label "Daa Çoq Malümatnı Köster">
+<!ENTITY cmd.showDetails.accesskey "K">
+<!ENTITY cmd.findUpdates.label "Yañartmalarnı Tap">
+<!ENTITY cmd.findUpdates.accesskey "T">
+<!ENTITY cmd.preferencesWin.label "İhtiyariyat">
+<!ENTITY cmd.preferencesWin.accesskey "h">
+<!ENTITY cmd.preferencesUnix.label "Tercihler">
+<!ENTITY cmd.preferencesUnix.accesskey "T">
+<!ENTITY cmd.about.label "Aqqında">
+<!ENTITY cmd.about.accesskey "a">
+<!ENTITY cmd.enableAddon.label "Qabilleştir">
+<!ENTITY cmd.enableAddon.accesskey "Q">
+<!ENTITY cmd.disableAddon.label "Ğayrı qabilleştir">
+<!ENTITY cmd.disableAddon.accesskey "a">
+<!ENTITY cmd.enableTheme.label "Temanı Kiy">
+<!ENTITY cmd.enableTheme.accesskey "T">
+<!ENTITY cmd.disableTheme.label "Tema Kiyüvni Toqtat">
+<!ENTITY cmd.disableTheme.accesskey "T">
+<!ENTITY cmd.askToActivate.label "Faalleştirmek içün Sora">
+<!ENTITY cmd.askToActivate.tooltip "Bu eklentini qullanmaq içün er seferinde sora">
+<!ENTITY cmd.alwaysActivate.label "Er Zaman Faalleştir">
+<!ENTITY cmd.alwaysActivate.tooltip "Bu eklentini er zaman qullan">
+<!ENTITY cmd.neverActivate.label "Asla Faalleştirme">
+<!ENTITY cmd.neverActivate.tooltip "Bu eklentini asla qullanma">
+<!ENTITY cmd.stateMenu.tooltip "Bu eklentiniñ ne zaman çapqanını deñiştir">
+<!ENTITY cmd.installAddon.label "Qur">
+<!ENTITY cmd.installAddon.accesskey "Q">
+<!ENTITY cmd.uninstallAddon.label "Çetleştir">
+<!ENTITY cmd.uninstallAddon.accesskey "r">
+<!ENTITY cmd.showPreferencesWin.label "İhtiyariyat">
+<!ENTITY cmd.showPreferencesWin.tooltip "Bu eklentiniñ seçeneklerini deñiştir">
+<!ENTITY cmd.showPreferencesUnix.label "Tercihler">
+<!ENTITY cmd.showPreferencesUnix.tooltip "Bu eklentiniñ tercihlerini deñiştir">
+<!ENTITY cmd.contribute.label "İsse qoş">
+<!ENTITY cmd.contribute.accesskey "i">
+<!ENTITY cmd.contribute.tooltip "Bu eklentiniñ inkişafına isse qoş">
+<!ENTITY cmd.showReleaseNotes.label "Çıqarılış Notlarını Köster">
+<!ENTITY cmd.showReleaseNotes.tooltip "Bu yañartmanıñ çıqarılış notlarını köster">
+<!ENTITY cmd.hideReleaseNotes.label "Çıqarılış Notlarını Gizle">
+<!ENTITY cmd.hideReleaseNotes.tooltip "Bu yañartmanıñ çıqarılış notlarını gizle">
+<!ENTITY cmd.findReplacement.label "Bir İqameni Tap">
+<!ENTITY discover.title "Eklentiler Nedir?">
+<!ENTITY discover.description2 "Eklentiler, ziyade funksionallik yaki uslûp ile &brandShortName; uygulamañıznı
+  şahsiyleştirüviñizge imkân bergen uyğulamalardır. &brandShortName; uyğulamasını siziñ öz uyğulamañız yasamaq üzre bir zaman
+  tasarrufı yan çubuğı, bir ava tebliğcisi yaki bir temalı körünişni deñeñiz.">
+<!ENTITY discover.footer "İnternet’ke bağlanğan olğanıñızda, bu terezede deñemeñiz içün
+  eñ yahşı ve eñ halqçan eklentilerniñ bazıları ögge çıqarılacaq.">
+<!ENTITY detail.version.label "Sürüm">
+<!ENTITY detail.lastupdated.label "Soñki Yañartma">
+<!ENTITY detail.creator.label "İnkişafçı">
+<!ENTITY detail.homepage.label "Ev saifesi">
+<!ENTITY detail.numberOfDownloads.label "Endirmeler">
+<!ENTITY detail.contributions.description "Bu eklentiniñ inkişafçısı, kiçik bir bağış yaparaq onıñ devamlı inkişafını desteklemege yardım etüviñizni rica ete.">
+<!ENTITY detail.updateType "Avtomatik Yañartmalar">
+<!ENTITY detail.updateDefault.label "Ögbelgilengen">
+<!ENTITY detail.updateDefault.tooltip "Yañartmalarnı faqat ögbelgilengeni o ise öz-özünden qur">
+<!ENTITY detail.updateAutomatic.label "Açıq">
+<!ENTITY detail.updateAutomatic.tooltip "Yañartmalarnı öz-özünden qur">
+<!ENTITY detail.updateManual.label "Qapalı">
+<!ENTITY detail.updateManual.tooltip "Yañartmalarnı öz-özünden qurma">
+<!ENTITY detail.home "Ev saifesi">
+<!ENTITY detail.repository "Eklenti Profili">
+<!ENTITY detail.size "Ölçü">
+<!ENTITY detail.checkForUpdates.label "Yañartmalar içün Teşker">
+<!ENTITY detail.checkForUpdates.accesskey "i">
+<!ENTITY detail.checkForUpdates.tooltip "Bu eklenti içün yañartmalar içün teşker">
+<!ENTITY detail.showPreferencesWin.label "İhtiyariyat">
+<!ENTITY detail.showPreferencesWin.accesskey "h">
+<!ENTITY detail.showPreferencesWin.tooltip "Bu eklentiniñ ihtiyariyatını deñiştir">
+<!ENTITY detail.showPreferencesUnix.label "Tercihler">
+<!ENTITY detail.showPreferencesUnix.accesskey "T">
+<!ENTITY detail.showPreferencesUnix.tooltip "Bu eklentiniñ tercihlerini deñiştir">
+<!ENTITY rating2.label "Derecelendirme">
+<!ENTITY progress.pause.tooltip "Tınışla">
+<!ENTITY progress.cancel.tooltip "Vazgeç">
+<!ENTITY sort.name.label "Ad">
+<!ENTITY sort.name.tooltip "Adğa köre sırala">
+<!ENTITY sort.dateUpdated.label "Soñki Yañartma">
+<!ENTITY sort.dateUpdated.tooltip "Yañartılğanı tarihke köre sırala">
+<!ENTITY sort.relevance.label "Eñ yahşı eşleşme">
+<!ENTITY sort.relevance.tooltip "Alâqağa köre sırala">
+<!ENTITY sort.price.label "Fiyat">
+<!ENTITY sort.price.tooltip "Fiyatqa köre sırala">
+<!ENTITY search.filter2.label "Qıdırma:">
+<!ENTITY search.filter2.installed.label "Eklentilerim">
+<!ENTITY search.filter2.installed.tooltip "Qurulğan eklentilerni köster">
+<!ENTITY search.filter2.available.label "Faydalanışlı Eklentiler">
+<!ENTITY search.filter2.available.tooltip "Qurmaq içün faydalanışlı eklentilerni köster">
+<!ENTITY addon.homepage "Ev saifesi">
+<!ENTITY addon.details.label "Daa çoq">
+<!ENTITY addon.details.tooltip "Bu eklenti aqqında daa çoq tafsilâtnı köster">
+<!ENTITY addon.unknownDate "Namalüm">
+<!ENTITY addon.legacy.label "QADİMİY">
+<!ENTITY addon.disabled.postfix "(ğayrıqabilleştirilgen)">
+<!ENTITY addon.update.postfix "Yañart">
+<!ENTITY addon.undoAction.label "Keri yap">
+<!ENTITY addon.undoAction.tooltip "Bu amelni keri yap">
+<!ENTITY addon.undoRemove.label "Keri yap">
+<!ENTITY addon.undoRemove.tooltip "Bu eklentini qurulğan tut">
+<!ENTITY addon.restartNow.label "Şimdi kene başlat">
+<!ENTITY addon.install.label "Qur">
+<!ENTITY addon.install.tooltip "Bu eklentini qur">
+<!ENTITY addon.updateNow.label "Şimdi Yañart">
+<!ENTITY addon.updateNow.tooltip "Bu eklenti içün yañartmanı qur">
+<!ENTITY addon.includeUpdate.label "Yañartmağa Dahil Et">
+<!ENTITY addon.updateAvailable.label "Bir yañartma faydalanışlıdır">
+<!ENTITY addon.checkingForUpdates.label "Yañartmalar içün teşkerile…">
+<!ENTITY addon.releaseNotes.label "Çıqarılış Notları:">
+<!ENTITY addon.loadingReleaseNotes.label "Yüklene…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Afu etiñiz, ancaq çıqarılış notları yüklengende bir hata bar edi.">
+<!ENTITY addon.createdBy.label "Müellif(ler): ">
+<!ENTITY eula.title "Uc-Qullanıcı Litsenziya Añlaşması">
+<!ENTITY eula.width "560px">
+<!ENTITY eula.height "400px">
+<!ENTITY eula.accept "Qabul Et ve Qur…">
+<!ENTITY settings.path.button.label "Kezin…">
+<!ENTITY experiment.info.label "Bu nedir? Telemetri zaman-zaman deñevler qurıp çaptırabilir.">
+<!ENTITY experiment.info.learnmore "Daa Çoq Ögren">
+<!ENTITY experiment.info.learnmore.accesskey "D">
+<!ENTITY experiment.info.changetelemetry "Telemetri Ayarları">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
+<!ENTITY setting.learnmore "Daa Çoq Ögren…">
+<!ENTITY disabledUnsigned.heading "Bazı eklentiler naqabilleştirilgendir">
+<!ENTITY disabledUnsigned.description.start "Aşağıdaki eklentiler &brandShortName; üzerinde qullanım içün doğrulanmağandır. ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "Yerlerine ivazlarnı tapabilirsiñiz">
+<!ENTITY disabledUnsigned.description.end " yaki keliştiriciden olarnı doğrulatmasını soraybilirsiñiz.">
+<!ENTITY disabledUnsigned.learnMore "Sizni hat-üstü emin tutmağa yardım etme çabalarımız aqqında daa çoq ögreniñiz.">
+<!ENTITY disabledUnsigned.devInfo.start "Eklentilerini doğrulatmağa istegen keliştiriciler ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "rehber">
+<!ENTITY disabledUnsigned.devInfo.end "imizni oquybilir.">
+<!ENTITY pluginDeprecation.description "Bir şey eksikmi? Bazı plaginler &brandShortName; tarafından artıq desteklenmey.">
+<!ENTITY pluginDeprecation.learnMore "Daa Çoq Ögren.">
+<!ENTITY legacyWarning.showLegacy "Qadimiy uzantılarnı köster">
+<!ENTITY legacyExtensions.title "Qadimiy Uzantılar">
+<!ENTITY legacyExtensions.description "Bu uzantılar cari &brandShortName; standartlarını qarşılamay ve ondan dolayı ğayrıfaalleştirilgenlerdir.">
+<!ENTITY legacyExtensions.learnMore "Eklentilerge deñişiklikler aqqında ögreniñiz.">

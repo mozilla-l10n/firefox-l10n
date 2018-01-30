@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newButton.label "Yañı">
+<!ENTITY newButton.tooltip "Yañı bir uslûp yaprağını icat et ve vesiqanıñ soñuna ekle">
+<!ENTITY newButton.accesskey "Y">
+<!ENTITY importButton.label "İtal Et…">
+<!ENTITY importButton.tooltip "Mevcut bir uslûp yaprağını ital et ve vesiqanıñ soñuna ekle">
+<!ENTITY importButton.accesskey "t">
+<!ENTITY visibilityToggle.tooltip "Uslûp yaprağı körünirligini tönter">
+<!ENTITY saveButton.label "Saqla">
+<!ENTITY saveButton.tooltip "Bu uslûp yaprağını bir dosyege saqla">
+<!ENTITY saveButton.accesskey "S">
+<!ENTITY optionsButton.tooltip "Uslûp Muarriri seçenekleri">
+<!ENTITY showOriginalSources.label "Özgün menbalarnı köster">
+<!ENTITY showOriginalSources.accesskey "z">
+<!ENTITY showMediaSidebar.label "Yançubuq @media kösterilsin">
+<!ENTITY showMediaSidebar.accesskey "m">
+<!ENTITY mediaRules.label "@media qaideleri">
+<!ENTITY editorTextbox.placeholder "Mında CSS tuşlañız.">
+<!ENTITY noStyleSheet.label "Bu saifeniñ uslûp yaprağı yoqtır.">
+<!ENTITY noStyleSheet-tip-start.label "Belki de ">
+<!ENTITY noStyleSheet-tip-action.label "soñuna yañı bir uslûp yaprağını ekle">
+<!ENTITY noStyleSheet-tip-end.label "mege ister ediñiz?">
+<!ENTITY openLinkNewTab.label "İlişimni Yañı İlmekte Aç">

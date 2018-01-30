@@ -1,0 +1,76 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pageInfoWindow.width "600">
+<!ENTITY pageInfoWindow.height "550">
+<!ENTITY copy.key "C">
+<!ENTITY copy.label "Kopiyala">
+<!ENTITY copy.accesskey "o">
+<!ENTITY selectall.key "A">
+<!ENTITY selectall.label "Episini Sayla">
+<!ENTITY selectall.accesskey "e">
+<!ENTITY closeWindow.key "w">
+<!ENTITY generalTab "Umumiy">
+<!ENTITY generalTab.accesskey "U">
+<!ENTITY generalTitle "Serleva:">
+<!ENTITY generalURL "Adres:">
+<!ENTITY generalType "Tür:">
+<!ENTITY generalMode "Qılış Tarzı:">
+<!ENTITY generalSize "Ölçü:">
+<!ENTITY generalReferrer "Sıltayıcı URL:">
+<!ENTITY generalSource "Ög-hafiza Menbası:">
+<!ENTITY generalModified "Deñiştirilgen:">
+<!ENTITY generalEncoding2 "Metin Kodlandırması:">
+<!ENTITY generalMetaName "Ad">
+<!ENTITY generalMetaContent "Münderice">
+<!ENTITY mediaTab "Vasat">
+<!ENTITY mediaTab.accesskey "V">
+<!ENTITY mediaLocation "Qonum:">
+<!ENTITY mediaText "Ülfetlendirilgen Metin:">
+<!ENTITY mediaAltHeader "Alternativ Metin">
+<!ENTITY mediaAddress "Adres">
+<!ENTITY mediaType "Tür">
+<!ENTITY mediaSize "Ölçü">
+<!ENTITY mediaCount "Sayaç">
+<!ENTITY mediaDimension "Boyutlar:">
+<!ENTITY mediaLongdesc "Uzun Tasvir:">
+<!ENTITY mediaBlockImage.accesskey "B">
+<!ENTITY mediaSaveAs "Şöyle Saqla…">
+<!ENTITY mediaSaveAs.accesskey "l">
+<!ENTITY mediaSaveAs2.accesskey "e">
+<!ENTITY mediaPreview "Vasat Ögbaqışı:">
+<!ENTITY feedTab "Beslemeler">
+<!ENTITY feedTab.accesskey "B">
+<!ENTITY feedSubscribe "Abune ol">
+<!ENTITY feedSubscribe.accesskey "u">
+<!ENTITY permTab "Ruhsetler">
+<!ENTITY permTab.accesskey "R">
+<!ENTITY permUseDefault "Ög-belgilemeni Qullan">
+<!ENTITY permAskAlways "Er zaman sora">
+<!ENTITY permAllow "İzin Ber">
+<!ENTITY permAllowSession "Oturım içün İzin Ber">
+<!ENTITY permHide "Gizle">
+<!ENTITY permBlock "Blokla">
+<!ENTITY permissionsFor "Ruhsetleri:">
+<!ENTITY permPlugins "Plaginlerni Faalleştir">
+<!ENTITY securityTab "Emniyet">
+<!ENTITY securityTab.accesskey "E">
+<!ENTITY securityView.certView "Şeadetnameni Köster">
+<!ENTITY securityView.accesskey "K">
+<!ENTITY securityView.unknown "Bilinmey">
+<!ENTITY securityView.identity.header "Ağ-saytı Kimligi">
+<!ENTITY securityView.identity.owner "Saibi:">
+<!ENTITY securityView.identity.domain "Ağ-saytı:">
+<!ENTITY securityView.identity.verifier "Doğrulağan:">
+<!ENTITY securityView.identity.validity "Eskiriş Tarihi:">
+<!ENTITY securityView.privacy.header "Hususiyat ve Keçmiş">
+<!ENTITY securityView.privacy.history "Bu ağ-saytını bugünden evvel ziyaret ettimmi?">
+<!ENTITY securityView.privacy.cookies "Bu ağ-saytı bilgisayarımda malümat (çörekler) mağazlaymı?">
+<!ENTITY securityView.privacy.viewCookies "Çöreklerni Köster">
+<!ENTITY securityView.privacy.viewCookies.accessKey "r">
+<!ENTITY securityView.privacy.passwords "Bu İnternet saytı içün er angi sır-sözlerni saqladımmı?">
+<!ENTITY securityView.privacy.viewPasswords "Saqlanğan Sır-sözlerini Köster">
+<!ENTITY securityView.privacy.viewPasswords.accessKey "S">
+<!ENTITY securityView.technical.header "Tehnik Tafsilât">
+<!ENTITY helpButton.label "Yardım">

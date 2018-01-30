@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY csscoverage.backButton "Geri">
+<!ENTITY csscoverage.unused "Kullanılmayan kurallar">
+<!ENTITY csscoverage.noMatches "Aşağıdaki kurallar için eşleşme bulunamadı:">
+<!ENTITY csscoverage.optimize.header "İyileştirilebilir sayfalar">
+<!ENTITY csscoverage.optimize.body1 "Bazen">
+<!ENTITY csscoverage.optimize.body2 "etiketlerini sayfanın sonuna taşıyarak ve tepedeki ‘load’ olayından önce ihtiyacınız olan stilleri içeren yeni bir satıriçi">
+<!ENTITY csscoverage.optimize.body3 "elementi oluşturarak yüklenmeyi hızlandırabilirsiniz. İhtiyacınız olan stil blokları şunlar:">
+<!ENTITY csscoverage.optimize.bodyX "Tüm kurallar satıriçi.">
+<!ENTITY csscoverage.footer1 "Bu raporun oluşturulmasıyla ilgili uyarılar için">
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/tr/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "CSS Kapsamı Aracı ile ilgili MDN makalesine">
+<!ENTITY csscoverage.footer4 "bakın.">

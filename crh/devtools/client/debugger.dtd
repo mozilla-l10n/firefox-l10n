@@ -1,0 +1,82 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY debuggerUI.closeButton.tooltip "Qapat">
+<!ENTITY debuggerUI.panesButton.tooltip "Terezelerni tönter">
+<!ENTITY debuggerUI.blackBoxMessage.label "Bu qaynaq qara qutulanğandır: teneffüs noqtaları naqabildir ve adımlama onıñ arqalı atlar.">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Bu qaynaqnıñ qara qutulanmasını toqtat">
+<!ENTITY debuggerUI.optsButton.tooltip "İlletsizlendirici Seçenekleri">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Qara Qutulamanı Tönter">
+<!ENTITY debuggerUI.sources.prettyPrint "Qaynaqnı Güzelleştir">
+<!ENTITY debuggerUI.autoPrettyPrint "Minileştirilgen Menbalarnı Öz-özünden Güzelleştir">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "G">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Teneffüs noqtalarınıñ episini qabilleştir/naqabilleştir">
+<!ENTITY debuggerUI.clearButton "Temizle">
+<!ENTITY debuggerUI.clearButton.tooltip "Toplanğan izlerni temizle">
+<!ENTITY debuggerUI.pauseExceptions "İstisnalar Üzerine Tınışla">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "İ">
+<!ENTITY debuggerUI.ignoreCaughtExceptions "Yaqalanğan İstisnalarnı İhmal Et">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "Y">
+<!ENTITY debuggerUI.showPanesOnInit "Başlanğıç üzerine Terezelerni Köster">
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "B">
+<!ENTITY debuggerUI.showVarsFilter "Deñişçenler Süzgüç Qutusını Köster">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "D">
+<!ENTITY debuggerUI.showOnlyEnum "Faqat Numaralandırılabilir Hasiyetlerni Köster">
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "H">
+<!ENTITY debuggerUI.showOriginalSource "Özgün Menbalarnı Köster">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "Ö">
+<!ENTITY debuggerUI.autoBlackBox "Minileştirilgen Menbalarnı Avtomatik Olaraq Qara Qutula">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "Q">
+<!ENTITY debuggerUI.searchPanelOperators "İşleticiler:">
+<!ENTITY debuggerUI.searchFile "Bitiklerni Süzgüçle">
+<!ENTITY debuggerUI.searchFile.key "P">
+<!ENTITY debuggerUI.searchFile.altkey "O">
+<!ENTITY debuggerUI.searchFile.accesskey "B">
+<!ENTITY debuggerUI.searchGlobal "Dosyelerniñ Episinde Qıdır">
+<!ENTITY debuggerUI.searchGlobal.key "F">
+<!ENTITY debuggerUI.searchGlobal.accesskey "D">
+<!ENTITY debuggerUI.searchFunction "Funksiya Tarifi içün Qıdır">
+<!ENTITY debuggerUI.searchFunction.key "D">
+<!ENTITY debuggerUI.searchFunction.accesskey "T">
+<!ENTITY debuggerUI.searchToken "Tap">
+<!ENTITY debuggerUI.searchToken.key "F">
+<!ENTITY debuggerUI.searchToken.accesskey "T">
+<!ENTITY debuggerUI.searchGoToLine "Satırğa Bar…">
+<!ENTITY debuggerUI.searchGoToLine.key "L">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "S">
+<!ENTITY debuggerUI.searchVariable "Deñişçenlerni Süzgüçle">
+<!ENTITY debuggerUI.searchVariable.key "V">
+<!ENTITY debuggerUI.searchVariable.accesskey "D">
+<!ENTITY debuggerUI.focusVariables "Deñişçenler Teregini Fokusla">
+<!ENTITY debuggerUI.focusVariables.key "V">
+<!ENTITY debuggerUI.focusVariables.accesskey "D">
+<!ENTITY debuggerUI.condBreakPanelTitle "Bu teneffüs noqtası, ancaq aşağıdaki ifade doğru ise ifanı toqtatacaq">
+<!ENTITY debuggerUI.seMenuBreak "Teneffüs Noqtasını Ekle">
+<!ENTITY debuggerUI.seMenuBreak.key "B">
+<!ENTITY debuggerUI.seMenuCondBreak "Şartlı Teneffüs Noqtasını Ekle">
+<!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!ENTITY debuggerUI.seEditMenuCondBreak "Şartlı Teneffüz Noqtasını Tarir Et">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "T">
+<!ENTITY debuggerUI.tabs.workers "İşçiler">
+<!ENTITY debuggerUI.tabs.sources "Menbalar">
+<!ENTITY debuggerUI.tabs.traces "İzler">
+<!ENTITY debuggerUI.tabs.callstack "Çağırım Çereni">
+<!ENTITY debuggerUI.tabs.variables "Deñişçenler">
+<!ENTITY debuggerUI.tabs.events "Vaqialar">
+<!ENTITY debuggerUI.seMenuAddWatch "İfadeni Közetmek içün Saylam">
+<!ENTITY debuggerUI.seMenuAddWatch.key "E">
+<!ENTITY debuggerUI.addWatch "Közetim İfadesini Ekle">
+<!ENTITY debuggerUI.addWatch.accesskey "İ">
+<!ENTITY debuggerUI.removeAllWatch "Közetim İfadeleriniñ Episini Çetleştir">
+<!ENTITY debuggerUI.removeAllWatch.key "E">
+<!ENTITY debuggerUI.removeAllWatch.accesskey "İ">
+<!ENTITY debuggerUI.stepping.resume1 "VK_F8">
+<!ENTITY debuggerUI.stepping.stepOver1 "VK_F10">
+<!ENTITY debuggerUI.stepping.stepIn1 "VK_F11">
+<!ENTITY debuggerUI.stepping.stepOut1 "VK_F11">
+<!ENTITY debuggerUI.context.newTab "Yañı İlmekte Aç">
+<!ENTITY debuggerUI.context.newTab.accesskey "A">
+<!ENTITY debuggerUI.context.copyUrl "URL'ni kopiyala">
+<!ENTITY debuggerUI.context.copyUrl.accesskey "K">
+<!ENTITY debuggerUI.context.copyUrl.key "C">

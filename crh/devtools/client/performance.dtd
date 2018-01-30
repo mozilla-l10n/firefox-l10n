@@ -1,0 +1,56 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY performanceUI.bufferStatusTooltip "Profilci nümunelerni daireviy bir buferde mağazlar ve bufer bir qayd içün hadge irişkende daa yañı nümuneler qaydnıñ başındaki nümunelerniñ üstüne yazılmağa başlanır.">
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Qaydetme verilerini kerçek zamanda qılmaq içün tercihlerde çoq-süreçli Firefox'nı qabilleştiriñiz.">
+<!ENTITY performanceUI.bufferStatusFull "Bufer toludır. Şimdi eski nümunelerniñ üstüne yazılmağa başlana.">
+<!ENTITY performanceUI.unavailableNoticePB "Bir profilniñ qayd etilmesi al-azırda namüsattir. Lütfen hususiy kezinti pencereleriniñ episini qapatıp yañıdan deñeñiz.">
+<!ENTITY performanceUI.loadingNotice "Yüklene…">
+<!ENTITY performanceUI.toolbar.waterfall "Şelâle">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Kaydetme esnasında keziciniñ kerçekleştirgeni farqlı ameliyelerni silsilelice bir şelale kibi sererek kösterir.">
+<!ENTITY performanceUI.toolbar.js-calltree "Çağırım Ağacı">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Keziciniñ qaydetme esnasında eñ çoq zaman harcağanı fonksiyonlarnı yüksek-ışıtır.">
+<!ENTITY performanceUI.toolbar.memory-calltree "Tahsisler">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Qaydetme esnasında hafizanıñ qayda tahsis etilgenini kösterir.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS Alev Çizelgesi">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Qaydetme boyunca JavaBitigi çağırım çerenini kösterir.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Tahsisler Alev Çizelgesi">
+<!ENTITY performanceUI.table.totalDuration "Topyekün Zaman">
+<!ENTITY performanceUI.table.totalDuration.tooltip "Bu fonksiyonda ve onıñ çağırğanı fonksiyonlarda keçken zaman miqdarı.">
+<!ENTITY performanceUI.table.selfDuration "Öz Zaman">
+<!ENTITY performanceUI.table.selfDuration.tooltip "Faqat bu fonksiyonda keçken zaman miqdarı.">
+<!ENTITY performanceUI.table.totalPercentage "Topyekün Maliyet">
+<!ENTITY performanceUI.table.totalPercentage.tooltip "Bu fonksiyonda ve onıñ çağırğanı fonksiyonlarda keçken zamannıñ yüzdesi.">
+<!ENTITY performanceUI.table.selfPercentage "Öz Maliyet">
+<!ENTITY performanceUI.table.selfPercentage.tooltip "Faqat bu fonksiyonda keçken zamannıñ yüzdesi.">
+<!ENTITY performanceUI.table.samples "Nümuneler">
+<!ENTITY performanceUI.table.samples.tooltip "Profilci bir nümune alğanda bu fonksiyonnıñ qaç kere çeren üzerinde bulunğanı.">
+<!ENTITY performanceUI.table.function "Fonksiyon">
+<!ENTITY performanceUI.table.function.tooltip "Nümunelengen fonksiyonnıñ adı ve qaynaq qonumı.">
+<!ENTITY performanceUI.table.totalAlloc "Topyekün Nümunelengen Tahsisler">
+<!ENTITY performanceUI.table.totalAlloc.tooltip "Bu qonumda ve çağırılğanlarda nümunelengen Nesne tahsisleriniñ topyekün sayısı.">
+<!ENTITY performanceUI.table.selfAlloc "Öz Nümunelengen Tahsisler">
+<!ENTITY performanceUI.table.selfAlloc.tooltip "Bu qonumda nümunelengen Nesne tahsisleriniñ sayısı.">
+<!ENTITY performanceUI.options.filter.tooltiptext "Zaman-hizasında angi verilerniñ kösterilecegini sayla">
+<!ENTITY performanceUI.options.gear.tooltiptext "İcraat tercihlerini endamlandır.">
+<!ENTITY performanceUI.invertTree "Çağırım Ağacını Ters Çevir">
+<!ENTITY performanceUI.invertTree.tooltiptext "Çağırım ağacını ters çevirmek, profillengen çağırım yolaqlarını eñ yañı çerçivelerden başlayaraq ve daa eski çerçivelerge doğru cayılaraq körüntiler.">
+<!ENTITY performanceUI.invertFlameGraph "Alev Çizelgesini Ters Çevir">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Alev çizelgesini ters çevirmek, profillengen çağırım yolaqlarını eñ yañı çerçivelerden başlayaraq ve daa eski çerçivelerge doğru cayılaraq körüntiler.">
+<!ENTITY performanceUI.showPlatformData "Gecko Platforma Verilerini Köster">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Platforma verilerini kösterüv JavaScript Profilcisi maruzalarını Gecko platforma simvollarını dahil etmege qabilleştirir.">
+<!ENTITY performanceUI.showJITOptimizations "JIT Optimalleştirmelerini Köster">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Er JavaScript çerçivesinde nümunelengen JIT optimalleştirmesi verilerini köster">
+<!ENTITY performanceUI.flattenTreeRecursion "Ağaç Özkenelemesini Tüzleştir">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Fonksiyonlarnı teftiş etkende özyinelemeni tüzleştir.">
+<!ENTITY performanceUI.enableMemory "Hafizanı Qayd Et">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Profillegende hafiza tüketimini qayd et.">
+<!ENTITY performanceUI.enableAllocations "Tahsislerni Qayd Et">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Profillegende Nesne tahsislerini qayd et.">
+<!ENTITY performanceUI.enableFramerate "Qarenisbetini Qayd Et">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Profillegende qarenisbetini qayd et.">
+<!ENTITY performanceUI.console.recordingNoticeStart "Al-azırda">
+<!ENTITY performanceUI.console.recordingNoticeEnd "arqalı qayd etile">
+<!ENTITY performanceUI.console.stopCommandStart "Konsolğa">
+<!ENTITY performanceUI.console.stopCommandEnd "kirseterek qayd etmeni toqtat.">

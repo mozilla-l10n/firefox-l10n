@@ -1,0 +1,125 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle "Firefox WebIDE">
+<!ENTITY projectMenu_label "Lâyiha">
+<!ENTITY projectMenu_accesskey "L">
+<!ENTITY projectMenu_newApp_label "Yañı Uyğulama…">
+<!ENTITY projectMenu_newApp_accesskey "Y">
+<!ENTITY projectMenu_importPackagedApp_label "Paketlengen Uyğulama Aç…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "G">
+<!ENTITY projectMenu_importHostedApp_label "Qonaqbaylanğan Uyğulama Aç…">
+<!ENTITY projectMenu_importHostedApp_accesskey "b">
+<!ENTITY projectMenu_selectApp_label "Uyğulama Aç…">
+<!ENTITY projectMenu_selectApp_accesskey "U">
+<!ENTITY projectMenu_play_label "Qur ve Çaptır">
+<!ENTITY projectMenu_play_accesskey "u">
+<!ENTITY projectMenu_stop_label "Uyğulamanı Toqtat">
+<!ENTITY projectMenu_stop_accesskey "T">
+<!ENTITY projectMenu_debug_label "Uyğulamanı İlletsizlendir">
+<!ENTITY projectMenu_debug_accesskey "İ">
+<!ENTITY projectMenu_remove_label "Lâyihanı Çetleştir">
+<!ENTITY projectMenu_remove_accesskey "Ç">
+<!ENTITY projectMenu_showPrefs_label "Tercihler">
+<!ENTITY projectMenu_showPrefs_accesskey "T">
+<!ENTITY projectMenu_manageComponents_label "Ziyade Bileşenlerni İdare Et">
+<!ENTITY projectMenu_manageComponents_accesskey "d">
+<!ENTITY projectMenu_refreshTabs_label "İlmeklerni Tazert">
+<!ENTITY runtimeMenu_label "Çapmazamanı">
+<!ENTITY runtimeMenu_accesskey "a">
+<!ENTITY runtimeMenu_disconnect_label "Bağlantını qopar">
+<!ENTITY runtimeMenu_disconnect_accesskey "l">
+<!ENTITY runtimeMenu_takeScreenshot_label "Ekran körüntisi">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
+<!ENTITY runtimeMenu_showDetails_label "Çapmazamanı Malümatı">
+<!ENTITY runtimeMenu_showDetails_accesskey "M">
+<!ENTITY runtimeMenu_showMonitor_label "Közetici">
+<!ENTITY runtimeMenu_showMonitor_accesskey "K">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Cihaz Tercihleri">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "C">
+<!ENTITY runtimeMenu_showSettings_label "Cihaz Ayarları">
+<!ENTITY runtimeMenu_showSettings_accesskey "A">
+<!ENTITY viewMenu_label "Körünim">
+<!ENTITY viewMenu_accesskey "K">
+<!ENTITY viewMenu_zoomin_label "Yaqınlaştır">
+<!ENTITY viewMenu_zoomin_accesskey "Y">
+<!ENTITY viewMenu_zoomout_label "Uzaqlaştır">
+<!ENTITY viewMenu_zoomout_accesskey "U">
+<!ENTITY viewMenu_resetzoom_label "Miqyasnı Sıfırla">
+<!ENTITY viewMenu_resetzoom_accesskey "S">
+<!ENTITY projectButton_label "Uyğulama Aç">
+<!ENTITY runtimeButton_label "Çapmazamanı sayla">
+<!ENTITY key_quit "Q">
+<!ENTITY key_showProjectPanel "O">
+<!ENTITY key_play "H">
+<!ENTITY key_toggleToolbox "VK_F12">
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
+<!ENTITY projectPanel_myProjects "Lâyihalarım">
+<!ENTITY projectPanel_runtimeApps "Çapmazamanı Uyğulamaları">
+<!ENTITY projectPanel_tabs "İlmekler">
+<!ENTITY runtimePanel_usb "USB Cihazları">
+<!ENTITY runtimePanel_wifi "Wi-Fi Cihazları">
+<!ENTITY runtimePanel_other "Diger">
+<!ENTITY runtimePanel_noadbhelper "ADB Yardımcısı'nı Qur">
+<!ENTITY runtimePanel_nousbdevice "Cihazıñıznı köralmaysıñız?">
+<!ENTITY runtimePanel_refreshDevices_label "Cihazlarnı Tazert">
+<!ENTITY details_valid_header "keçerli">
+<!ENTITY details_warning_header "tenbiler">
+<!ENTITY details_error_header "hatalar">
+<!ENTITY details_description "Tarif">
+<!ENTITY details_location "Qonum">
+<!ENTITY details_manifestURL "Uyğulama kimligi">
+<!ENTITY details_removeProject_button "Lâyihanı Çetleştir">
+<!ENTITY newAppWindowTitle "Yañı Uyğulama">
+<!ENTITY newAppHeader "Şablon sayla">
+<!ENTITY newAppLoadingTemplate "Şabolanlar yüklene…">
+<!ENTITY newAppProjectName "Lâyiha Adı:">
+<!ENTITY deck_close "Qapat">
+<!ENTITY addons_title "Ekstra Bileşenler">
+<!ENTITY addons_aboutaddons "Eklentiler İdarecisini Aç">
+<!ENTITY prefs_title "Tercihler">
+<!ENTITY prefs_editor_title "Muarrir">
+<!ENTITY prefs_general_title "Umumiy">
+<!ENTITY prefs_restore "Ögbelgilemelerni Keri Tikle">
+<!ENTITY prefs_manage_components "Ziyade Bileşenlerni İdare Et">
+<!ENTITY prefs_options_autoconnectruntime "Evvelki çapmazamanına kene bağlan">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE başlağanda evvelki çapmazamanına kene bağlan">
+<!ENTITY prefs_options_rememberlastproject "Soñki lâyihanı hatırla">
+<!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE başlağanda evvelki lâyihanı keri tikle">
+<!ENTITY prefs_options_templatesurl "Şablonlar URL'si">
+<!ENTITY prefs_options_templatesurl_tooltip "Müsait şablonlar indeksi">
+<!ENTITY runtimedetails_title "Çapmazamanı Malümatı">
+<!ENTITY runtimedetails_adbIsRoot "ADB tamırdır: ">
+<!ENTITY runtimedetails_summonADBRoot "tamır cihaz">
+<!ENTITY runtimedetails_ADBRootWarning "(kilitsizlengen başyükleyici şarttır)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Sıñırlamasız DevTools imtiyazları: ">
+<!ENTITY runtimedetails_requestPrivileges "daa yüksek imtiyazlarnı rica et">
+<!ENTITY runtimedetails_privilegesWarning "(Cihaznı kene başlatacaq. Tamır irişimi şarttır.)">
+<!ENTITY device_typeboolean "Mantıqiy">
+<!ENTITY device_typenumber "Tamsayı">
+<!ENTITY device_typestring "Tizgi">
+<!ENTITY device_typeobject "Nesne">
+<!ENTITY device_typenone "Bir tür sayla">
+<!ENTITY devicepreference_title "Cihaz Tercihleri">
+<!ENTITY devicepreference_search "Tercihlerni qıdır">
+<!ENTITY devicepreference_newname "Yañı tercih adı">
+<!ENTITY devicepreference_newtext "Tercih qıymeti">
+<!ENTITY devicepreference_addnew "Yañı tercih ekle">
+<!ENTITY devicesetting_title "Cihaz Ayarları">
+<!ENTITY devicesetting_search "Qıdırma ayarları">
+<!ENTITY devicesetting_newname "Yañı ayar adı">
+<!ENTITY devicesetting_newtext "Ayar qıymeti">
+<!ENTITY devicesetting_addnew "Yañı ayar ekle">
+<!ENTITY monitor_title "Közetici">
+<!ENTITY monitor_help "Yardım">
+<!ENTITY wifi_auth_header "Müşteri Kimligi">
+<!ENTITY wifi_auth_scan_request "Bağlana olğanıñız uçnoqta, bu bağlantını sahihlemek içün daa fazla malümatqa muhtacdır. Lütfen diger cihazıñız üzerindeki indeme vastası ile aşağıdaki QR kodunı tarañız.">
+<!ENTITY wifi_auth_no_scanner "QR tarayıcısı indemesi yoqmı?">
+<!ENTITY wifi_auth_yes_scanner "Bir QR tarayıcısı indemesi barmı?">
+<!ENTITY wifi_auth_token_request "Diger cihazıñız bir QR kodunı taramañız yerine bir jeton kirsetmeñizni sorasa, lütfen aşağıdaki qıymetni diger cihazğa kopiyalañız:">
+<!ENTITY wifi_auth_qr_size_note "QR kodu bağlantınıñ muvaffaqiyetlice tesis etilmesi içün aşırı kiçik körüne ise, yaqınlaştıruvnı yaki pencereni büyütüvni deñeñiz.">
+<!ENTITY logs_title "Ög-paketleme Emir Kütükleri">

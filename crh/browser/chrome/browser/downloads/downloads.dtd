@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY downloads.title "Endirmeler">
+<!ENTITY downloadDetails.width "50ch">
+<!ENTITY downloadsSummary.minWidth2 "19ch">
+<!ENTITY cmd.pause.label "Tınışlat">
+<!ENTITY cmd.pause.accesskey "T">
+<!ENTITY cmd.resume.label "Devam et">
+<!ENTITY cmd.resume.accesskey "D">
+<!ENTITY cmd.cancel.label "Vazgeç">
+<!ENTITY cmd.show.label "İhtiva Etken Cilbentni Aç">
+<!ENTITY cmd.show.accesskey "C">
+<!ENTITY cmd.showMac.label "Tapıcıda Köster">
+<!ENTITY cmd.showMac.accesskey "T">
+<!ENTITY cmd.showDownloads.label "Endirmeler Cilbentini Köster">
+<!ENTITY cmd.retry.label "Kene deñe">
+<!ENTITY cmd.goToDownloadPage.label "Endirme Saifesine Bar">
+<!ENTITY cmd.goToDownloadPage.accesskey "B">
+<!ENTITY cmd.copyDownloadLink.label "Endirme İlişimini Kopiyala">
+<!ENTITY cmd.copyDownloadLink.accesskey "l">
+<!ENTITY cmd.removeFromHistory.label "Keçmişten Çetleştir">
+<!ENTITY cmd.removeFromHistory.accesskey "e">
+<!ENTITY cmd.clearList2.label "Ögbaqış Panelini Temizle">
+<!ENTITY cmd.clearList2.accesskey "a">
+<!ENTITY cmd.clearDownloads.label "Endirmelerni Temizle">
+<!ENTITY cmd.clearDownloads.accesskey "E">
+<!ENTITY cmd.unblock2.label "Endirmege İzin Ber">
+<!ENTITY cmd.unblock2.accesskey "n">
+<!ENTITY cmd.removeFile.label "Dosyeni Çetleştir">
+<!ENTITY cmd.chooseUnblock.label "Dosyeni Çetleştir yaki Endirmege İzin Ber">
+<!ENTITY cmd.chooseOpen.label "Dosyeni Aç yaki Çetleştir">
+<!ENTITY showMoreInformation.label "Daa çoq malümat köster">
+<!ENTITY openFile.label "Dosye Aç">
+<!ENTITY retryDownload.label "Endirmeni Kene Deñe">
+<!ENTITY cancelDownload.label "Endirmeden Vazgeç">
+<!ENTITY blocked.label "BLOKLANĞAN">
+<!ENTITY learnMore.label "Daa Çoq Ögren">
+<!ENTITY downloadsHistory.label "Episi Endirmelerni Köster">
+<!ENTITY downloadsHistory.accesskey "K">
+<!ENTITY downloadDetails.label "Endirme Tafsilâtları">
+<!ENTITY openDownloadsFolder.label "Endirmeler Cilbentini Aç">
+<!ENTITY clearDownloadsButton.label "Endirmelerni Temizle">
+<!ENTITY clearDownloadsButton.tooltip "Tamamlanğan, vazgeçilgen ve muvaffaqiyetsiz endirmelerni temizler">
+<!ENTITY downloadsListEmpty.label "Endirmeler yoq.">
+<!ENTITY downloadsPanelEmpty.label "Bu oturım içün endirmeler yoq.">
+<!ENTITY downloadsListNoMatch.label "Er angi eşleşken endirmeler tapılamadı.">

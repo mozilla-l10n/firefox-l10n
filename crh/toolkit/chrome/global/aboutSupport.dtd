@@ -1,0 +1,121 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Arıza Qıdırıv Malümatı">
+<!ENTITY aboutSupport.pageSubtitle "
+  Bu saife bir meseleni çezmege tırışqanıñızda faydalı olabilecek tehnik malümatnı 
+  ihtiva ete. &brandShortName; aqqındaki adetiy suallerge cevaplar qıdırsañız, 
+  <a id='supportLink'>destek ağ-saytımız</a>nı teşkeriñiz.
+">
+<!ENTITY aboutSupport.crashes.title "Çöküş Maruzaları">
+<!ENTITY aboutSupport.crashes.id "Maruza Kimligi">
+<!ENTITY aboutSupport.crashes.sendDate "Teslim Etilgen">
+<!ENTITY aboutSupport.crashes.allReports "Episi Çöküş Maruzaları">
+<!ENTITY aboutSupport.crashes.noConfig "Bu uyğulama çöküş maruzalarını köstermek üzre ayarlanğan degildir.">
+<!ENTITY aboutSupport.extensionsTitle "Uzantılar">
+<!ENTITY aboutSupport.extensionName "İsim">
+<!ENTITY aboutSupport.extensionEnabled "Qabilleştirilgen">
+<!ENTITY aboutSupport.extensionVersion "Sürüm">
+<!ENTITY aboutSupport.extensionId "Kimlik">
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Hususiyetleri">
+<!ENTITY aboutSupport.featureName "İsim">
+<!ENTITY aboutSupport.featureVersion "Sürüm">
+<!ENTITY aboutSupport.featureId "Kimlik">
+<!ENTITY aboutSupport.experimentsTitle "Tecribiy Hususiyetler">
+<!ENTITY aboutSupport.experimentName "İsim">
+<!ENTITY aboutSupport.experimentId "Kimlik">
+<!ENTITY aboutSupport.experimentDescription "Tasvir">
+<!ENTITY aboutSupport.experimentActive "Faal">
+<!ENTITY aboutSupport.experimentEndDate "Bitiş Tarihi">
+<!ENTITY aboutSupport.experimentHomepage "Ev saifesi">
+<!ENTITY aboutSupport.experimentBranch "Dal">
+<!ENTITY aboutSupport.appBasicsTitle "Uyğulama Temelleri">
+<!ENTITY aboutSupport.appBasicsName "İsim">
+<!ENTITY aboutSupport.appBasicsVersion "Sürüm">
+<!ENTITY aboutSupport.appBasicsBuildID "İnşa Kimligi">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Yañartma Kanalı">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Yañartma Keçmişi">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yañartma Keçmişini Köster">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profil Fihristi">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profil Cilbenti">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Qabilleştirilgen Plaginler">
+<!ENTITY aboutSupport.appBasicsBuildConfig "İnşa Yapılandırılışı">
+<!ENTITY aboutSupport.appBasicsUserAgent "Qullanıcı Vekili">
+<!ENTITY aboutSupport.appBasicsOS "İS">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Hafiza Qullanımı">
+<!ENTITY aboutSupport.appBasicsPerformance "İcraat">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Qaydlı Hızmet İşçileri">
+<!ENTITY aboutSupport.appBasicsProfiles "Profiller">
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Çoqlusüreç Pencereler">
+<!ENTITY aboutSupport.appBasicsProcessCount "Ağ Muhtevası Süreçleri">
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Anahtarı">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Qonum Hızmeti Anahtarı">
+<!ENTITY aboutSupport.appBasicsSafeMode "Emin Tarz">
+<!ENTITY aboutSupport.showDir.label "Fihristni Aç">
+<!ENTITY aboutSupport.showMac.label "Tapıcıda Köster">
+<!ENTITY aboutSupport.showWin2.label "Cilbentni Aç">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Müim Başqalaştırılğan Tercihler">
+<!ENTITY aboutSupport.modifiedPrefsName "İsim">
+<!ENTITY aboutSupport.modifiedPrefsValue "Qıymet">
+<!ENTITY aboutSupport.userJSTitle "user.js Tercihleri">
+<!ENTITY aboutSupport.userJSDescription "Profil cilbentiñiz, &brandShortName; tarafından icat etilmegen tercihlerni ihtiva etken, bir <a id='prefs-user-js-link'>qullanıcı.js dosyesi</a>ni ihtiva ete.">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Müim Kilitlengen Tercihler">
+<!ENTITY aboutSupport.lockedPrefsName "İsim">
+<!ENTITY aboutSupport.lockedPrefsValue "Qıymet">
+<!ENTITY aboutSupport.graphicsTitle "Grafikler">
+<!ENTITY aboutSupport.placeDatabaseTitle "Mekânlar Veritabanı">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Bütünlik">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Bütünlikni Doğrula">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Artımlı Çöp Toplama (ÇT; GC)">
+<!ENTITY aboutSupport.a11yTitle "İrişilebilirlik">
+<!ENTITY aboutSupport.a11yActivated "Faalleştirilgen">
+<!ENTITY aboutSupport.a11yForceDisabled "İrişilebilirlikniñ Ögüni Al">
+<!ENTITY aboutSupport.a11yHandlerUsed "İrişilebilir Qollayıcı Qullanılğan">
+<!ENTITY aboutSupport.a11yInstantiator "İrişilebilirlik Başlanğıçlandırıcısı">
+<!ENTITY aboutSupport.libraryVersionsTitle "Kütüphane Sürümleri">
+<!ENTITY aboutSupport.installationHistoryTitle "Qurulım Keçmişi">
+<!ENTITY aboutSupport.updateHistoryTitle "Yañartma Keçmişi">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Metinni tüyreme-tahtasına kopiyala">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Çiy verilerni tüyreme-tahtasına kopiyala">
+<!ENTITY aboutSupport.sandboxTitle "Qumqutusı">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Red Etilgen Sistem Çağırışları">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Saniye Evvel">
+<!ENTITY aboutSupport.sandboxSyscallPID "SK (PID)">
+<!ENTITY aboutSupport.sandboxSyscallTID "YK (TID)">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Süreç Türü">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Sistem Çağırışı">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentler">
+<!ENTITY aboutSupport.safeModeTitle "Emin Tarznı Deñe">
+<!ENTITY aboutSupport.restartInSafeMode.label "Eklentiler Ğayrıfaalleştirilgen Keliş Kene Başlat…">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Hususiyetler">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostikler">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Muvaffaqiyetsizlik Kütügi">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Qarar Kütügi">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Çöküş Qoruyıcısı Naqabilleştirilgen Fariqalar">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Dolaylıçezimler">
+<!ENTITY aboutSupport.mediaTitle "Vasat">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Çıqtı Cihazları">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Kirdi Cihazları">
+<!ENTITY aboutSupport.mediaDeviceName "İsim">
+<!ENTITY aboutSupport.mediaDeviceGroup "Zümre">
+<!ENTITY aboutSupport.mediaDeviceVendor "İstisalcı">
+<!ENTITY aboutSupport.mediaDeviceState "Durum">
+<!ENTITY aboutSupport.mediaDevicePreferred "Tercihli">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanallar">
+<!ENTITY aboutSupport.mediaDeviceRate "Nisbet">
+<!ENTITY aboutSupport.mediaDeviceLatency "Keçikme">
+<!ENTITY aboutSupport.intlTitle "Milletleraralaştırma &amp; Maalliyleştirme">
+<!ENTITY aboutSupport.intlAppTitle "Uyğulama Ayarları">
+<!ENTITY aboutSupport.intlLocalesRequested "Rica Etilgen Mahaller">
+<!ENTITY aboutSupport.intlLocalesAvailable "Müsait Mahaller">
+<!ENTITY aboutSupport.intlLocalesSupported "Uyğulama Mahalleri">
+<!ENTITY aboutSupport.intlLocalesDefault "Ögbelgilengen Mahal">
+<!ENTITY aboutSupport.intlOSTitle "İşletim Sistemi">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Sistem Mahalleri">
+<!ENTITY aboutSupport.intlRegionalPrefs "Region Tercihleri">

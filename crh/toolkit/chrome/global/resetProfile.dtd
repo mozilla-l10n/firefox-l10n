@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY refreshProfile.dialog.title "&brandShortName; Tazertilsin">
+<!ENTITY refreshProfile.dialog.description1 "Meselelerni tüzetmek ve icraatnı keri tiklemek içün taze başlañız.">
+<!ENTITY refreshProfile.dialog.description2 "Bu:">
+<!ENTITY refreshProfile.dialog.items.label1 "Eklentileriñiz ve özelleştirmeleriñizni çetleştirecek">
+<!ENTITY refreshProfile.dialog.items.label2 "Kezici ayarlarıñıznı ögbelgilemelerine keri tikleycek">
+<!ENTITY refreshProfile.dialog.button.label "&brandShortName; Tazertilsin">
+<!ENTITY refreshProfile.title "&brandShortName; kezicisine bir tadilât beriñiz">
+<!ENTITY refreshProfile.button.label "&brandShortName; Tazertilsin…">
+<!ENTITY refreshProfile.cleaning.description "Bitmek üzre…">

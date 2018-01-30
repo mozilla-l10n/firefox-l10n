@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY searchreset.tabtitle "Qıdırma Ayarlarını Keri Tikle">
+<!ENTITY searchreset.pageTitle "Qıdırma ayarlarıñız keri tiklensinmi?">
+<!ENTITY searchreset.pageInfo1 "Qıdırma ayarlarıñız tarih-tışı olabilir. &brandShortName; sizge ögbelgilengen qıdırma ayarlarını keri tiklemege yardım etebilir.">
+<!ENTITY searchreset.selector.label "Bu, qıdırma motorıñıznı aşağıdakige tesbit etecek:">
+<!ENTITY searchreset.beforelink.pageInfo2 "Bu ayarlarnı istegeniñiz zaman ">
+<!ENTITY searchreset.afterlink.pageInfo2 "'nden deñiştirebilirsiñiz.">
+<!ENTITY searchreset.link.pageInfo2 "Ayarlar saifesi">
+<!ENTITY searchreset.noChangeButton "Deñiştirme">
+<!ENTITY searchreset.noChangeButton.access "m">
+<!ENTITY searchreset.changeEngineButton "Qıdırma Motorını Deñiştir">
+<!ENTITY searchreset.changeEngineButton.access "D">

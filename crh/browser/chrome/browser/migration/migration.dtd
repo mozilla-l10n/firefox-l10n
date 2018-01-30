@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY migrationWizard.title "İtalât Siirbazı">
+<!ENTITY importFrom.label "İhtiyariyatnı, Saife-imlerini, Keçmişni, Sır-sözlerni ve diger verilerni şuradan ital et:">
+<!ENTITY importFromUnix.label "Tercihlerni, Saife-imlerini, Keçmişni, Sır-sözlerni ve diger verilerni şuradan ital et:">
+<!ENTITY importFromBookmarks.label "Saife-imlerini şuradan ital et:">
+<!ENTITY importFromIE.label "Microsoft İnternet Explorer">
+<!ENTITY importFromIE.accesskey "M">
+<!ENTITY importFromEdge.label "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey "E">
+<!ENTITY importFromNothing.label "İç bir şeyni ital etme">
+<!ENTITY importFromNothing.accesskey "m">
+<!ENTITY importFromSafari.label "Safari">
+<!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromCanary.label "Chrome Canary">
+<!ENTITY importFromCanary.accesskey "n">
+<!ENTITY importFromChrome.label "Chrome">
+<!ENTITY importFromChrome.accesskey "C">
+<!ENTITY importFromChromium.label "Chromium">
+<!ENTITY importFromChromium.accesskey "u">
+<!ENTITY importFromFirefox.label "Firefox">
+<!ENTITY importFromFirefox.accesskey "x">
+<!ENTITY importFrom360se.label "360 Emniyetli Kezici">
+<!ENTITY importFrom360se.accesskey "3">
+<!ENTITY noMigrationSources.label "Saife-imlerini, keçmişni yaki sır-söz verilerini ihtiva etken iç bir program tapılamadı.">
+<!ENTITY importSource.title "Tesbitler ve Verilerniñ İtalâtı">
+<!ENTITY importItems.title "İtal Etilecek Adedler">
+<!ENTITY importItems.label "İtal etilecek unsurlarnı sayla:">
+<!ENTITY migrating.title "İtal etile…">
+<!ENTITY migrating.label "Aşağıdaki unsurlar al-azırda ital etile…">
+<!ENTITY selectProfile.title "Profil Sayla">
+<!ENTITY selectProfile.label "İtal etilebilecek aşağıdaki profiller mevcuttır:">
+<!ENTITY done.title "İtalât Tamam">
+<!ENTITY done.label "Aşağıdaki unsurlar muvafaqiyetnen ital etildi:">
+<!ENTITY closeSourceBrowser.label "Devam etmezden evvel lütfen saylanğan keziciniñ qapalı olğanından emin oluñız.">

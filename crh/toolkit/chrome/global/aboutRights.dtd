@@ -1,0 +1,51 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title "Aqlarıñız Aqqında">
+<!ENTITY rights.intro "&brandFullName;, bütün dünya miqyasındaki biñlerce kişilik bir toplulıq tarafından inşa etilgen serbest ve açıq menbalı yazılımdır. Bilmeñiz lâzim olğan bir qaç şey bardır:">
+<!ENTITY rights.intro-point1a "&brandShortName; sizge ">
+<!ENTITY rights.intro-point1b "Mozilla Aleniy Litsenziyası">
+<!ENTITY rights.intro-point1c " şartları altında faydalandırıla. Bu demek ki, &brandShortName; uyğulamasını qullana, kopiyalay ve başqalarğa dağıtabilirsiñiz. Em de &brandShortName; menba kodunı ihtiyaclarıñıznı qarşılamaq üzre deñiştirebilirsiñiz. Mozilla Aleniy Litsenziyası sizge başqalaştırılğan sürümleriñizni dağıtmağa da aq bere.">
+<!ENTITY rights.intro-point2-a "Mozilla Vaqfı ya da er angi tarafnıñ ticariy markalarına, Firefox logosı yaki ismi de sıñırlamasız olaraq dahil olmak üzre, er angi ticariy marka aqları ya da litsenziyaları bahşış etilgen degilsiñiz. Ticariy markalarğa dair ek malümat ">
+<!ENTITY rights.intro-point2-b "mında">
+<!ENTITY rights.intro-point2-c " tapılabilir.">
+<!ENTITY rights.intro-point2.5 "&brandShortName; içindeki bazı hususiyetler, Çöküş Maruzacısı kibi, sizge &vendorShortName; içün keribesleme temin etüv ihtiyarını bereler. Keribesleme teslim etmege saylayaraq, &vendorShortName; içün mahsullarını yahşılaştırmaq, ağ saytlarında neşretmek ve dağıtmaq üzre bu keribeslemeni qullanmağa ruhset beresiñiz.">
+<!ENTITY rights2.intro-point3a "&brandShortName; vastasınen &vendorShortName; içün teslim etilgen şahsiy malümat ve keribeslemeñizni nasıl qullanğanımız ">
+<!ENTITY rights2.intro-point3b "&brandShortName; Hususiyet Siyaseti">
+<!ENTITY rights.intro-point3c "nde tasvir etilgendir.">
+<!ENTITY rights.intro-point3-unbranded "Bu mahsul içün uyğulanabilgen er türlü hususiyat siyasetleriniñ mında listelenmesi lâzim.">
+<!ENTITY rights2.intro-point4a "Bazı &brandShortName; hususiyetleri ağ-esaslı malümat hızmetlerini qullanır, lâkin, olarnıñ 100&#037; itinalı ve hatasız olğanlarına kefalet beralmaymız. Hızmetlerniñ nasıl ğayrıqabilleştirilebilgeni aqqındaki malümat dahil, daa çoq tafsilât ">
+<!ENTITY rights.intro-point4b "hızmet şartları">
+<!ENTITY rights.intro-point4c "nda tapılabilir.">
+<!ENTITY rights.intro-point4a-unbranded "Bu mahsul ağ hızmetlerini ihtiva ete ise, hızmet(ler) içün uyğulanabilgen er türlü hızmet şartlarınıñ ">
+<!ENTITY rights.intro-point4b-unbranded "Ağ-Saytı Hızmetleri">
+<!ENTITY rights.intro-point4c-unbranded " bölügine ilişimlenmesi lâzim.">
+<!ENTITY rights2.webservices-header "&brandFullName; Ağ-Esaslı Malümat Hızmetleri">
+<!ENTITY rights.intro-point5 "Muayyen video muhtevası türlerini oynatabilmek içün, &brandShortName; üçünci taraflardan muayyen muhteva deşifreleme modüllerini endirir.">
+<!ENTITY rights2.webservices-a "&brandFullName;, &brandShortName; uyğulamasınıñ bu ekişerli sürümi ile sizge temin etilgen bazı hususiyetlerni temin etmek üzre aşağıda tasvir etilgeni şartlar altında ağ-esaslı malümat hızmetlerini (&quot;Hızmetler&quot;) qullanır. Bu Hızmetlerniñ bir yaki daa çoqusını qullanmağa istemeseñiz yaki aşağıdaki şartlar namaqbul ise, hususiyet yaki Hızmet(ler)ni ğayrıqabilleştirebilirsiñiz. Belli bir hususiyet yaki Hızmetniñ nasıl ğayrıqabilleştirilgeni aqqındaki talimat ">
+<!ENTITY rights2.webservices-b "mında">
+<!ENTITY rights3.webservices-c "tapılabilir. Diger hususiyetler ve Hızmetler uyğulama tercihlerinde ğayrıqabilleştirilebilir.">
+<!ENTITY rights.safebrowsing-a "EminKezinüv: ">
+<!ENTITY rights.safebrowsing-b "Emin Kezinüv hususiyetiniñ ğayrıqabilleştirilmesi tevsiye etilmey çünki siziñ emin olmağan saytlarğa baruvıñız ile neticelenebilir. Bu hususiyetni bütünley ğayrıqabilleştirmege isteseñiz, bu adımlarnı taqip etiñiz:">
+<!ENTITY rights.safebrowsing-term1 "Uyğulama tercihlerini açıñız">
+<!ENTITY rights.safebrowsing-term2 "Emniyet saylamını saylañız">
+<!ENTITY rights2.safebrowsing-term3 "&quot;&enableSafeBrowsing.label;&quot;mek içün seçenekni çavkesizle">
+<!ENTITY rights.safebrowsing-term4 "Emin Kezinüv şimdi qabil degildir">
+<!ENTITY rights.locationawarebrowsing-a "Qonumdan Haberdar Kezinüv: ">
+<!ENTITY rights.locationawarebrowsing-b "er zaman şahsen ihtiyar etilir.  Ruhsetiñiz olmadan iç bir qonum malümatı asla yiberilmez.  Bu hususiyetni bütünley ğayrıqabilleştirmege isteseñiz, bu adımlarnı taqip etiñiz:">
+<!ENTITY rights.locationawarebrowsing-term1a "URL (adres) çubuğında, tuşlañız ">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "geo.enabled tuşlañız">
+<!ENTITY rights.locationawarebrowsing-term3 "geo.enabled tercihine çift çertiñiz">
+<!ENTITY rights.locationawarebrowsing-term4 "Qonumdan-Haberdar Kezinüv şimdi qabil degildir">
+<!ENTITY rights.webservices-unbranded "Mahsulnıñ ihtiva etkeni ağ-saytı hızmetleriniñ bir üstbaqışınıñ, olarnıñ nasıl ğayrıqabilleştirilgeni aqqındaki talimatlar dahil (uyğulanabilir ise), mında dahil etilmesi lâzim.">
+<!ENTITY rights.webservices-term1-unbranded "Bu mahsul içün uyğulanabilgen er angi hızmet şartlarınıñ mında listelenmesi lâzim.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; ve onıñ isse qoşucıları, lisansçıları ve ortaqları eñ itinalı ve tarihdaş Hızmerlerni temin etmek üzre çalışırlar. Lâkin, biz bu malümatnıñ şümulli ve hatasız olğanına kefalet beralmaymız.  Meselâ, Emin Kezinüv Hızmeti bazı muhataralı saytlarnı kimliklemeybilir ve bazı emin saytlarnı hataen teşhis etebilir ve Qonumdan Haberdar Hızmet içün hizmet teminatçılarımız tarafından qaytarılğan qonumlarnıñ episi faqat tahminlerdir ve ne bizce, ne de bizim hızmet teminatçılarımızca temin etilgen qonumlarnıñ doğrulığına kefalet berile.">
+<!ENTITY rights.webservices-term2 "&vendorShortName;, Hızmetlerni öz tefriğına köre devamsızlandıra yaki deñiştire bilir.">
+<!ENTITY rights2.webservices-term3 "Bu Hızmetlerni refaqat etici &brandShortName; sürümi ile qullanuvıñızdan hoşlanırmız ve &vendorShortName; sizge bunıñ içün onıñ aqlarını bahşış ete.  &vendorShortName; ve onıñ lisansçıları Hızmetlerdeki bütün başqa aqlarnı saqlı tutar.  Bu şartlar, &brandShortName; içün uyğulanabilgen açıq menba lisansları altındaki ve müteqabil &brandShortName; menba kodu sürümlerine bahşış etilgen er angi aqlarnı sıñırlamaq niyetinden degildir.">
+<!ENTITY rights.webservices-term4 "Mezkür Hızmetler &quot;olğanı-kibi&quot; temin etilir.  &vendorShortName;, onıñ isse qoşqanları, lisansçıları ve dağıtıcıları, Hızmetlerniñ alıp-berilebilir ve siziñ belli muradıñızğa kelişikli olğanlarına kefaletler sıñırlamasız olaraq dahil olmaq üzre, ifade etilgen yaki zımniy olsun, episi kefaletlerni inkâr ete.">
+<!ENTITY rights.webservices-term5 "Qanun ükmünce olğanları harıc, &vendorShortName;, onıñ isse qoşqanları, lisansçıları ve dağıtıcıları, &brandShortName; yaki Hızmetlerniñ qullanımından ortağa çıqqan yaki qullanımına er angi surette alâqalı olğan vastalı, mahsus, tesadufiy, aqibetli, cezalandırıcı yaki ibretli ziyanlardan mesul olmaycaq. Bu şartlar altındaki kollektiv mesuliyet 500$ (beş yüz dollar) meblâğını aşmaycaq. Bazı qazaiy aqlar belli ziyanlarnıñ istisnasına yaki sıñırlanmasına izin bermey, böyleliknen bu istisna ve sıñırlama sizge uyğulanmaybilir.">
+<!ENTITY rights.webservices-term6 "&vendorShortName;, kerekli olğanda zaman-zaman bu şartlarnı yañartabilir. Bu şartlar &vendorShortName; tarafından yazılı añlaşma olmadan deñiştirilalmaz ve lâğu etilalmaz.">
+<!ENTITY rights.webservices-term7 "Bu şartlarğa, onıñ qanun ükümleri çatışması müstesna, Kaliforniya, A.Q.Ş., qanunları akimdir. Bu şartlarnıñ er angi bir qısmı keçersiz yaki tatbiq etilalmaz olaraq tutulacaq olsa, qalğan qısımları tolusınen tatbiqat ve yürerlik içinde qalacaq. Bu şartlarnıñ tercime etilgen bir sürümi ile İngliz tilindeki sürümi arasında bir çatışma olğanı taqdirde, İngliz tilindeki sürümi muraqabe etecek.">

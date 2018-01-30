@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY next.tooltip "İbareniñ soñraki rastkelişini tap">
+<!ENTITY previous.tooltip "İbareniñ evelki rastkelişini tap">
+<!ENTITY findCloseButton.tooltip "Tap çubuğını qapat">
+<!ENTITY highlightAll.label "Episini Işıqlandır">
+<!ENTITY highlightAll.accesskey "l">
+<!ENTITY highlightAll.tooltiptext "İbareniñ rastkelişleriniñ episini ışıqlandır">
+<!ENTITY caseSensitive.label "Büyük-ufaq Hassasiyeti">
+<!ENTITY caseSensitive.accesskey "B">
+<!ENTITY caseSensitive.tooltiptext "Büyük-ufaq hassasiyeti ile qıdır">
+<!ENTITY entireWord.label "Bütün Sözler">
+<!ENTITY entireWord.accesskey "b">
+<!ENTITY entireWord.tooltiptext "Faqat bütün kelimelerni qıdır">

@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutDevtools.headTitle "İnkişafçı Aletleri Aqqında">
+<!ENTITY aboutDevtools.enable.title "Firefox İnkişafçı Aletleri'ni Qabilleştir">
+<!ENTITY aboutDevtools.enable.inspectElementTitle "Firefox İnkişafçı Aletleri'ni Unsurnı Teftişni qullanmağa Qabilleştir">
+<!ENTITY aboutDevtools.enable.inspectElementMessage "İnkişafçı Aletleri Müfettişi ile HTML ve CSS muayene ve tarir et.">
+<!ENTITY aboutDevtools.enable.aboutDebuggingMessage "Firefox İnkişafçı Aletleri ile WebExtensions, ağ işçileri, hızmet işçileri ve daa fazlasını inkişaf et ve illetsizleştir.">
+<!ENTITY aboutDevtools.enable.keyShortcutMessage "Bir İnkişafçı Aletleri qısqa-yolunı faalleştirdiñiz. Bu hata edi ise, bu ilmekni qapatabilirsiñiz.">
+<!ENTITY aboutDevtools.enable.menuMessage "Müfettiş ve İlletsizleştirici kibi aletler ile HTML, CSS ve JavaBitigi muayene et, tarir et ve illetsizleştir.">
+<!ENTITY aboutDevtools.enable.commonMessage "Keziciñiz içün daa çoq muraqabeni sizge bermek içün Firefox İnkişafçı Aletleri ögbelgilengen olaraq naqabilleştirilgendir.">
+<!ENTITY aboutDevtools.enable.learnMoreLink "İnkişafçı Aletleri aqqında daa çoq ögren">
+<!ENTITY aboutDevtools.enable.enableButton "İnkişafçı Aletleri'ni Qabilleştir">
+<!ENTITY aboutDevtools.enable.closeButton "Bu saifeni qapat">
+<!ENTITY aboutDevtools.welcome.title "Firefox İnkişafçı Aletleri'ne Hoş Keldiñiz!">
+<!ENTITY aboutDevtools.newsletter.title "Firefox İnkişafçı Haber-mektübi">
+<!ENTITY aboutDevtools.newsletter.message "İnkişafçı haberleri, marifetleri ve qaynaqlarını doğrudan Kelgen qutuñızğa yibertiñiz.">
+<!ENTITY aboutDevtools.newsletter.email.placeholder "E-poçta">
+<!ENTITY aboutDevtools.newsletter.privacy.label "Mozilla'nıñ malümatımnı bu <a class='external' href='https://www.mozilla.org/privacy/'>Hususiyat Siyaseti</a>nde añlatılğanı kibi qollamasına icazet berem.">
+<!ENTITY aboutDevtools.newsletter.subscribeButton "Abune ol">
+<!ENTITY aboutDevtools.newsletter.thanks.title "Teşekkürler!">
+<!ENTITY aboutDevtools.newsletter.thanks.message "Daa evvel bir Mozilla haber-mektübine abune olmadı iseñiz abuneligiñizni belki teyit etmeñiz kerekir. Lütfen Kelgen qutuñıznı yaki Abur-çubur süzgüzçiñizni bizden bir e-poçta içün teşkeriñiz.">
+<!ENTITY aboutDevtools.footer.title "Firefox İnkişafçı Tariri">
+<!ENTITY aboutDevtools.footer.message "İnkişafçı Aletleri'nden daa fazlasınımı içün baqasızmı? Mahsus inkişafçılar ve zamanaviy iş akışları içün inşa etilgen Firefox kezicisini teşkerip çıqıñız.">
+<!ENTITY aboutDevtools.footer.learnMoreLink "Daa çoq ögren">

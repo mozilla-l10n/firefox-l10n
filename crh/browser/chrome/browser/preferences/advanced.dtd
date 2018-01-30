@@ -1,0 +1,90 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY generalTab.label "Umumiy">
+<!ENTITY useCursorNavigation.label "Saifeler içinde seyrüsefer etmek içün er zaman imleç tuşlarını qullan">
+<!ENTITY useCursorNavigation.accesskey "z">
+<!ENTITY searchOnStartTyping.label "Tuşlamağa başlağanıñızda metin içün qıdır">
+<!ENTITY searchOnStartTyping.accesskey "m">
+<!ENTITY useOnScreenKeyboard.label "Kerekkende toqunmatik bir klavyeni köster">
+<!ENTITY useOnScreenKeyboard.accesskey "l">
+<!ENTITY browsing.label "Kezinme">
+<!ENTITY useAutoScroll.label "Avtomatik taydıruvnı qullan">
+<!ENTITY useAutoScroll.accesskey "A">
+<!ENTITY useSmoothScrolling.label "Tüz taydıruvnı qullan">
+<!ENTITY useSmoothScrolling.accesskey "T">
+<!ENTITY checkUserSpelling.label "Siz tuşlağanda imlâñıznı teşker">
+<!ENTITY checkUserSpelling.accesskey "t">
+<!ENTITY dataChoicesTab.label "Veri Saylamları">
+<!ENTITY healthReportingDisabled.label "Bu inşa endamlandırması içün veriler maruzalaması naqabilleştirilgendir">
+<!ENTITY enableHealthReport2.label "&brandShortName; içün tehnikiy ve tesirleşim verilerini Mozilla'ğa yibermege caiz olsun">
+<!ENTITY enableHealthReport2.accesskey "r">
+<!ENTITY healthReportLearnMore.label "Daa çoq ögren">
+<!ENTITY dataCollection.label "&brandShortName; Verileriniñ Toplanması ve Qullanımı">
+<!ENTITY dataCollectionDesc.label "Sizni seçenekler ile te'min etmege ve ancaq &brandShortName; uyğulamasını erkes içün te'min etmek ve eyileştirmek içün ihtiyac duyğanlarımıznı toplaymız. Şahsiy malümatnı qabul etmezden evvel er zaman ruhset sorarmız.">
+<!ENTITY dataCollectionPrivacyNotice.label "Hususiyat Tebliği">
+<!ENTITY alwaysSubmitCrashReports1.label "Çöküş maruzalarınıñ &brandShortName; tarafından Mozilla'ğa yiberilmesi caiz olsun">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "ç">
+<!ENTITY crashReporterLearnMore.label "Daa çoq ögren">
+<!ENTITY networkTab.label "Şebeke">
+<!ENTITY networkProxy.label "Şebeke Proksisi">
+<!ENTITY connectionDesc.label "&brandShortName; kezicisiniñ İnternetke nasıl bağlanacağını ayarlañız">
+<!ENTITY connectionSettings.label "Tesbitler…">
+<!ENTITY connectionSettings.accesskey "T">
+<!ENTITY httpCache.label "Zulalanğan Ağ Mündericesi">
+<!ENTITY siteData.label "Sayt Verileri">
+<!ENTITY clearSiteData.label "Verilerniñ Episini Temizle">
+<!ENTITY clearSiteData.accesskey "l">
+<!ENTITY siteDataSettings.label "Ayarlar…">
+<!ENTITY siteDataSettings.accesskey "A">
+<!ENTITY siteDataLearnMoreLink.label "Daa çoq ögren">
+<!ENTITY limitCacheSizeBefore.label "Zulanı">
+<!ENTITY limitCacheSizeBefore.accesskey "Z">
+<!ENTITY limitCacheSizeAfter.label "MB fezağa sıñırla">
+<!ENTITY clearCacheNow.label "Şimdi Temizle">
+<!ENTITY clearCacheNow.accesskey "z">
+<!ENTITY overrideSmartCacheSize.label "Avtomatik zula idaresiniñ üstünden ayda">
+<!ENTITY overrideSmartCacheSize.accesskey "ü">
+<!ENTITY updateTab.label "Yañartuv">
+<!ENTITY updateApplication.label "&brandShortName; Yañartmaları">
+<!ENTITY updateApplicationDescription.label "Eñ yahşı icraat, istiqrar ve emniyet içün &brandShortName; yañartılğan tutulsın.">
+<!ENTITY updateApplication.version.pre "Sürüm">
+<!ENTITY updateApplication.version.post "">
+<!ENTITY updateApplication.description "&brandShortName;">
+<!ENTITY updateAuto3.label "Yañartmalarnı öz-özünden qur (tevsiyeli)">
+<!ENTITY updateAuto3.accesskey "z">
+<!ENTITY updateCheckChoose2.label "Yañartmalar içün teşkersin amma olarnıñ qurulımını sizge saylatsın">
+<!ENTITY updateCheckChoose2.accesskey "k">
+<!ENTITY updateManual2.label "Yañartmalar içün asla teşkermesin (tevsiye etilmez)">
+<!ENTITY updateManual2.accesskey "s">
+<!ENTITY updateHistory2.label "Yañartma Keçmişini Köster…">
+<!ENTITY updateHistory2.accesskey "K">
+<!ENTITY useService.label "Yañartmalarnı qurmaq içün bir arqazemin hızmetni qullan">
+<!ENTITY useService.accesskey "z">
+<!ENTITY enableSearchUpdate2.label "Qıdırma motorlarını avtomatik olaraq yañart">
+<!ENTITY enableSearchUpdate2.accesskey "d">
+<!ENTITY certificateTab.label "Şeadetnameler">
+<!ENTITY certPersonal2.description "Bir sunucı şahsiy şeadetnamemni istegeninde">
+<!ENTITY selectCerts.auto "Birini avtomatik olaraq sayla">
+<!ENTITY selectCerts.auto.accesskey "s">
+<!ENTITY selectCerts.ask "Er seferinde sizge sora">
+<!ENTITY selectCerts.ask.accesskey "o">
+<!ENTITY enableOCSP.label "Şeadetnamelerniñ keçerliligini teyit etmek içün OCSP cevaplayıcı sunucılarını istifsar et">
+<!ENTITY enableOCSP.accesskey "f">
+<!ENTITY viewCerts2.label "Şeadetnamelerni Köster…">
+<!ENTITY viewCerts2.accesskey "e">
+<!ENTITY viewSecurityDevices2.label "Emniyet Cihazları…">
+<!ENTITY viewSecurityDevices2.accesskey "C">
+<!ENTITY performance.label "İcraat">
+<!ENTITY useRecommendedPerformanceSettings2.label "Tevsiyeli icraat ayarlarını qullan">
+<!ENTITY useRecommendedPerformanceSettings2.description "Bu ayarlar bilgisayarıñıznıñ donanımına ve işletim sistemine terzilengendir.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "T">
+<!ENTITY performanceSettingsLearnMore.label "Daa çoq ögren">
+<!ENTITY limitContentProcessOption.label "Muhteva süreci haddi">
+<!ENTITY limitContentProcessOption.description "Müteaddit ilmeklerni qullanğanda ek muhteva süreçleri icraatnı eyileştirebilir, amma daa çoq hafizanı da qullanırlar.">
+<!ENTITY limitContentProcessOption.accesskey "M">
+<!ENTITY limitContentProcessOption.disabledDescription "Muhteva süreçleri sayısınıñ başqalaştırılması ancaq çoq-süreçli &brandShortName; ile mümkündir.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Çoqlu-süreçniñ qabilleştirilgen olıp olmağanınıñ nasıl teşkerilgenini ögreniñiz">
+<!ENTITY allowHWAccel.label "Faydalanışlı olğanda donanım ivmelenmesini qullan">
+<!ENTITY allowHWAccel.accesskey "d">

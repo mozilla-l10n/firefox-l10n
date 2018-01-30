@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY applications.label "Uyğulamalar">
+<!ENTITY applications.description "&brandShortName; kezicisiniñ Ağ'dan endirgeniñiz dosyelerni yaki kezingende qullanğanıñız uyğulamalarnı nasıl qollağanını saylañız.">
+<!ENTITY typeColumn.label "Münderice Türü">
+<!ENTITY typeColumn.accesskey "T">
+<!ENTITY actionColumn2.label "Amel">
+<!ENTITY actionColumn2.accesskey "m">
+<!ENTITY filter2.emptytext "Dosye türlerini yaki uyğulamalarnı qıdır">

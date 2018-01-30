@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title "about:config">
+<!ENTITY aboutWarningTitle.label "Bu, kefaletiñizni lâğu etebilir!">
+<!ENTITY aboutWarningText.label "Bu ileriletilgen tesbitlerniñ deñiştirilmesi bu uyğulamanıñ istiqrarına, emniyetine ve icraatına zararlı olabilir. Ancaq ne yapqanıñızdan emin iseñiz devam etiñiz.">
+<!ENTITY aboutWarningButton2.label "Riskni qabul etem!">
+<!ENTITY aboutWarningCheckbox.label "Bu tenbini soñraki sefer de köster">
+<!ENTITY searchPrefs.label "Qıdır:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
+<!ENTITY focusSearch2.key "f">
+<!ENTITY prefColumn.label "Tercih İsmi">
+<!ENTITY lockColumn.label "Durum">
+<!ENTITY typeColumn.label "Tür">
+<!ENTITY valueColumn.label "Qıymet">
+<!ENTITY prefColumnHeader.tooltip "Sıralamaq içün çertiñiz">
+<!ENTITY columnChooser.tooltip "Kösterilecek sutunlarnı saylamaq içün çertiñiz">
+<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.label "Kopiyala">
+<!ENTITY copyPref.accesskey "K">
+<!ENTITY copyName.label "İsimni Kopiyala">
+<!ENTITY copyName.accesskey "i">
+<!ENTITY copyValue.label "Qıymetni Kopiyala">
+<!ENTITY copyValue.accesskey "o">
+<!ENTITY modify.label "Deñiştir">
+<!ENTITY modify.accesskey "D">
+<!ENTITY toggle.label "Döndür">
+<!ENTITY toggle.accesskey "d">
+<!ENTITY reset.label "Sıfırla">
+<!ENTITY reset.accesskey "S">
+<!ENTITY new.label "Yañı">
+<!ENTITY new.accesskey "y">
+<!ENTITY string.label "Tizgi">
+<!ENTITY string.accesskey "t">
+<!ENTITY integer.label "Tamsayı">
+<!ENTITY integer.accesskey "s">
+<!ENTITY boolean.label "Mantıqiy">
+<!ENTITY boolean.accesskey "M">

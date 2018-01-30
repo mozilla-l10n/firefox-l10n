@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+
+<!ENTITY aboutDialog.title "&brandFullName; Aqqında">
+<!ENTITY update.checkForUpdatesButton.label "Yañartmalar içün teşker">
+<!ENTITY update.checkForUpdatesButton.accesskey "e">
+<!ENTITY update.updateButton.label3 "&brandShorterName; uyğulamasını yañartmaq içün kene başlat">
+<!ENTITY update.updateButton.accesskey "K">
+<!ENTITY warningDesc.version "&brandShortName; tecrübiydir ve istiqrarsız olabilir.">
+<!ENTITY warningDesc.telemetryDesc "&brandShortName; kezicisini eyileştirmek içün icraat, donanım, qullanım ve özelleştirmeler aqqındaki malümatnı avtomatik olaraq &vendorShortName; istisalcısına keri yiberir.">
+<!ENTITY community.exp.start "">
+<!ENTITY community.exp.mozillaLink "&vendorShortName;,">
+<!ENTITY community.exp.middle " Ağnı açıq, aleniy ve erkesçe irişilebilir tutmaq içün beraber çalışqan ">
+<!ENTITY community.exp.creditsLink "kürreviy bir toplulıq">
+<!ENTITY community.exp.end "tır.">
+<!ENTITY community.start2 "&brandShortName;, ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 " tarafından tasarımlanğandır. &vendorShortName;, İnternetni daa yahşı yapmaq içün beraber çalışqan ">
+<!ENTITY community.creditsLink "kürreviy bir toplulıq">
+<!ENTITY community.end3 "tır.">
+<!ENTITY helpus.start "Yardım etesiñiz kele? ">
+<!ENTITY helpus.donateLink "Bir hibe yapıñız">
+<!ENTITY helpus.middle " yaki ">
+<!ENTITY helpus.getInvolvedLink "methaldar oluñız!">
+<!ENTITY helpus.end "">
+<!ENTITY releaseNotes.link "Ne bar ne yoq">
+<!ENTITY bottomLinks.license "Litsenziyalama Malümatı">
+<!ENTITY bottomLinks.rights "Ahır-Qullanıcı Aqları">
+<!ENTITY bottomLinks.privacy "Hususiyat Siyaseti">
+<!ENTITY update.checkingForUpdates "Yañartmalar içün teşkerile…">
+<!ENTITY update.noUpdatesFound "&brandShortName; künceldir">
+<!ENTITY update.adminDisabled "Yañartmalar sistem memurıñız tarafından ğayrıqabilleştirilgen">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; başqa bir süreci tarafından yañartıla">
+<!ENTITY update.restarting "Kene başlatıla…">
+<!ENTITY update.failed.start "Yañartma muvafaqiyetsiz edi.">
+<!ENTITY update.failed.linkText "Soñki sürümni endir">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Yañartmalar şundan faydalanışlı">
+<!ENTITY update.manual.end "">
+<!ENTITY update.unsupported.start "Bu sistem üzerinde artıq yañartmalarnı icra etalmazsıñız.">
+<!ENTITY update.unsupported.linkText "Daa çoq ögren">
+<!ENTITY update.unsupported.end "">
+<!ENTITY update.downloading.start "Yañartma endirile — ">
+<!ENTITY update.downloading.end "">
+<!ENTITY update.applying "Yañartma uyğulana…">
+<!ENTITY channel.description.start "Al-azırda ">
+<!ENTITY channel.description.end " yañartma kanalı üzerindesiñiz.">

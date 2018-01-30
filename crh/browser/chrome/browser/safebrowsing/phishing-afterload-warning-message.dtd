@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeb.palm.accept.label2 "Keri bar">
+<!ENTITY safeb.palm.seedetails.label "Tafsilâtnı köster">
+<!ENTITY safeb.palm.notdeceptive.label "Bu, yañıltıcı bir sayt degildir…">
+<!ENTITY safeb.palm.notdeceptive.accesskey "d">
+<!ENTITY safeb.palm.advisory.desc2 "Tevsiyeler <a id='advisory_provider'/> tarafından temin etile.">
+<!ENTITY safeb.blocked.malwarePage.title2 "Bu saytnı ziyaret etüv bilgisayarıñızğa zarar berebilir">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; bu saifeni blokladı çünki o bilgisayarıñızdaki şahsiy malümatnı hırsızlaybilecek yaki silebilecek fena-niyetli yazılım qurmağa talpınabilir.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> saytınıñ <a id='error_desc_link'>fena-niyetli yazılım ihtiva etkeni maruza etilgendir</a>. <a id='report_detection'>Bir aşkârlama meselesini maruza et</a>ebilir yaki <a id='ignore_warning_link'>riskni ihmal et</a>ip ğayrı-emin bu saytqa barabilirsiñiz.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> saytınıñ <a id='error_desc_link'>fena-niyetli yazılım ihtiva etkeni maruza etilgendir</a>. <a id='report_detection'>Bir aşkârlama meselesini maruza et</a>ebilirsiñiz.">
+<!ENTITY safeb.blocked.malwarePage.learnMore "<a id='learn_more_link'>StopBadware.org</a> saytında virüsler ve diger fenacıl yazılımlar dahil olmak üzre zararlı muhtevalar ve bilgisayarıñıznı nasıl qoruybilecegiñiz aqqında ögreniñiz. &brandShortName; uyğulamasınıñ Yemleme ve Fenacıl Yazılım İmayesi aqqında <a id='firefox_support'>support.mozilla.org</a> adresinde daa çoq ögreniñiz.">
+<!ENTITY safeb.blocked.unwantedPage.title2 "Bu sayt belki zararlı programlar ihtiva ete">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; bu saifeni blokladı çünki o, kezinti tecribeñizge zarar berecek (meselâ, ev saifeñizni deñiştirerek yaki ziyaret etkeniñiz saytlarda daa çoq reklam köstererek) programlar qurmak üzre belki sizge qurnazlıq etmege talpınır.">
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> saytınıñ <a id='error_desc_link'>fena-niyetli yazılım ihtiva etkeni maruza etilgendir</a>. <a id='ignore_warning_link'>Riskni ihmal et</a>ip ğayrı-emin bu saytqa barabilirsiñiz.">
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> saytınıñ <a id='error_desc_link'>fena-niyetli yazılım ihtiva etkeni maruza etilgendir</a>.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "<a id='learn_more_link'>İstenmegen Yazılım Siyaseti</a>'nde zararlı ve istenmegen yazılım aqqında daa çoq ögreniñiz. &brandShortName; uyğulamasınıñ Yemleme ve Fenacıl Yazılım İmayesi aqqında <a id='firefox_support'>support.mozilla.org</a> adresinde daa çoq ögreniñiz.">
+<!ENTITY safeb.blocked.phishingPage.title3 "Aldatıcı sayt ileride">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; bu saifeni blokladı, çünki bu saife yazılım qurmaq yaki sır-sözler yaki kredit kartları kibi şahsiy malümatnı ifşa etmek kibi tehlükeli bir şey yapmañız içün belki sizge qurnazlıq eter.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> <a id='error_desc_link'>yañıltıcı bir sayt olaraq maruza etilgendir</a>. <a id='report_detection'>Bir aşkârlama meselesini maruza et</a>ebilir yaki <a id='ignore_warning_link'>riskni ihmal et</a>ip ğayrı-emin bu saytqa barabilirsiñiz.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> <a id='error_desc_link'>yañıltıcı bir sayt olaraq maruza etilgendir</a>. <a id='report_detection'>Bir aşkârlama meselesini maruza et</a>ebilirsiñiz.">
+<!ENTITY safeb.blocked.phishingPage.learnMore "<a id='learn_more_link'>www.antiphishing.org</a> saytında aldatıcı saytlar ve yemleme aqqında daa çoq ögrenebilirsiñiz. &brandShortName; kezicisiniñ Yemleme ve Zararlı Yazılım İmayesi aqqında <a id='firefox_support'>support.mozilla.org</a> adresinde daa çoq ögreniñiz.">
+<!ENTITY safeb.blocked.harmfulPage.title "İlerideki sayt belki fena-niyetli yazılım ihtiva ete">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Bu saife, belki malümatıñıznı (meselâ, fotolar, sır-sözler, mesajlar ve kredit kartları) hırsızlağan yaki silgen tehlükeli uyğulamalar qurmağa talpınır dep &brandShortName; onı blokladı.">
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> saytınıñ <a id='error_desc_link'>potansial olaraq zararlı bir uyğulama ihtiva etkeni maruza etilgendir</a>. <a id='ignore_warning_link'>Riskni ihmal et</a>ip ğayrı-emin bu saytqa barabilirsiñiz.">
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> saytınıñ <a id='error_desc_link'>potansial olaraq zararlı bir uyğulama ihtiva etkeni maruza etilgendir</a>.">
+<!ENTITY safeb.blocked.harmfulPage.learnMore "&brandShortName; kezicisiniñ Yemleme ve Zararlı Yazılım İmayesi aqqında <a id='firefox_support'>support.mozilla.org</a> adresinde daa çoq ögreniñiz.">
