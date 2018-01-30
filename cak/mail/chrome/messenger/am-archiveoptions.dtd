@@ -5,6 +5,14 @@
 <!-- extracted from am-archiveoptions.xul -->
 
 <!ENTITY dialogTitle.label "Taq Rucha'oj Yakb'äl">
+<!ENTITY archiveGranularityPrefix.label "Toq yeyak taq rutzijol, keya' pa:">
+<!ENTITY archiveFlat.label "Jun yonil yakwuj">
+<!ENTITY archiveFlat.accesskey "y">
+<!ENTITY archiveYearly.label "Taq yakwuj eyakb'en pa taq juna'">
+<!ENTITY archiveYearly.accesskey "J">
+<!ENTITY archiveMonthly.label "Taq yakwuj eyakb'en pa taq ik'">
+<!ENTITY archiveMonthly.accesskey "I">
+<!ENTITY keepFolderStructure.label "Keyake' ri kich'akulal yakwuj e k'o pa ri taq rutzijol eyakb'en">
 <!ENTITY archiveExample.label "K'utub'äl">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
