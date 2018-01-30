@@ -22,6 +22,8 @@
 <!ENTITY signatureText.accesskey "c">
 <!ENTITY signatureHtml.label "Tokisäx HTML (tz'et.: &lt;b&gt;q'eqatz'ib'&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Titz'aqatisäx ri juch'un b'i'aj rik'in jun yakb'äl (rucholajem tzij, HTML, o wachib'äl):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Tinuk'…">
 <!ENTITY choose.label "Ticha'…">
 <!ENTITY choose.accesskey "c">
