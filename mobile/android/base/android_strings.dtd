@@ -260,7 +260,7 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Штедња података">
-<!ENTITY pref_category_media "Медија">
+<!ENTITY pref_category_media "Медији">
 <!ENTITY pref_category_developer_tools "Алати за развој">
 
 <!ENTITY pref_tap_to_load_images_title2 "Прикажи слике">
