@@ -7,12 +7,21 @@
 <!ENTITY accountTitle.label "Kinuk'ulem Rub'i' Taqoya'l">
 <!ENTITY accountName.label "Rub'i' Taqoya'l:">
 <!ENTITY accountName.accesskey "b">
+<!ENTITY identityTitle.label "B'anikil kan K'o wi">
+<!ENTITY identityDesc.label "Chi kijujunal ri taq rub'i' taqoya'l k'o jun kib'anikil, ja ri' ri etamab'äl nikitz'ë ch'aqa' chik winaqi' toq yekisik'ij ri taq atzijol.">
 <!ENTITY name.label "Ab'i':">
 <!ENTITY name.accesskey "A">
 <!ENTITY email.label "Rochochib'al Taqoya'l:">
 <!ENTITY email.accesskey "T">
+<!ENTITY replyTo.label "Tzolin-Tzij Ochochib'äl:">
+<!ENTITY replyTo.accesskey "o">
+<!ENTITY replyTo.placeholder "Ri k'ulunela' xtikitzolij tzij pa re jun chik ochochib'äl re'">
 <!ENTITY organization.label "Moloj:">
 <!ENTITY organization.accesskey "M">
+<!ENTITY signatureText.label "Rucholajem rutzij juch'un b'i'aj:">
+<!ENTITY signatureText.accesskey "c">
+<!ENTITY signatureHtml.label "Tokisäx HTML (tz'et.: &lt;b&gt;q'eqatz'ib'&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
 <!ENTITY edit.label "Tinuk'…">
 <!ENTITY choose.label "Ticha'…">
 <!ENTITY choose.accesskey "c">

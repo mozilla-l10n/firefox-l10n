@@ -21,6 +21,11 @@
 <!ENTITY whitelistHeader.accesskey "M">
 
 <!ENTITY ispHeadersWarning.label "We nitzij &brandShortName; ruyonil xkerutz'ët ri taq rutzijol nuya' ketal re chi rij cha'onel re' achi'el seq'.">
+<!ENTITY ispHeaders.label "Kenimäx ri taq kijub'i'aj seq' taqoya'l richin: ">
+<!ENTITY ispHeaders.accesskey "K">
 
 <!ENTITY junkClassification.label "Cha'onïk">
+<!ENTITY junkActions.label "K'ulunem chuqa' k'amonem">
 
+<!ENTITY globalJunkPrefs.label "Chijun taq Rajowab'al Seq'…">
+<!ENTITY globalJunkPrefs.accesskey "C">
