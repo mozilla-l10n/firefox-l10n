@@ -22,5 +22,9 @@
 <!ENTITY pref.suspectMail.caption       "Sumnjiva pošta">
 
 <!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "E-mail prevare">
+<!ENTITY enablePhishingDetector.label     "Obavjesti me ako se sumnja da je poruka koju čitam prevara">
 
 <!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "Antivirus">
+<!ENTITY antiVirus.label                  "Omogući antivirusu da skenira dolazne poruke još lakše">
