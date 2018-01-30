@@ -53,7 +53,7 @@
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Razvrsti po stanju">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Ime koledarja">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Razvrsti po imenu koledarja">
-<!ENTITY calendar.unifinder.tree.duration.label            "Zapade">
+<!ENTITY calendar.unifinder.tree.duration.label            "Zapade čez">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Razvrsti po času do roka">
 <!ENTITY calendar.unifinder.close.tooltip                  "Zapri iskanje dogodkov in seznam dogodkov">
 
@@ -86,7 +86,7 @@
 <!ENTITY calendar.navigation.prevmonth.tooltip  "En mesec nazaj" >
 
 <!ENTITY calendar.newevent.button.label         "Nov dogodek" >
-<!ENTITY calendar.newtask.button.label          "Nova opravila" >
+<!ENTITY calendar.newtask.button.label          "Novo opravilo" >
 <!ENTITY calendar.print.button.label            "Natisni" >
 <!ENTITY calendar.print.button.accesskey        "N">
 
