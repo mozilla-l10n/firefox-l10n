@@ -13,9 +13,11 @@
 <!ENTITY archiveMonthly.label "Taq yakwuj eyakb'en pa taq ik'">
 <!ENTITY archiveMonthly.accesskey "I">
 <!ENTITY keepFolderStructure.label "Keyake' ri kich'akulal yakwuj e k'o pa ri taq rutzijol eyakb'en">
+<!ENTITY keepFolderStructure.accesskey "K">
 <!ENTITY archiveExample.label "K'utub'äl">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
 <!ENTITY archiveFolderName.label "Taq yakb'äl">
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
+<!ENTITY inboxFolderName.label "Molb'äl">
