@@ -251,8 +251,13 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "छवि देखाउ">
 <!ENTITY pref_tap_to_load_images_enabled "हरदम">
+<!ENTITY pref_tap_to_load_images_data "केवल वाय-फ़ाय पर">
+<!ENTITY pref_tap_to_load_images_disabled2 "रोकल गेल">
 
+<!ENTITY pref_show_web_fonts "वेब फ़ॉन्ट देखाबू">
+<!ENTITY pref_show_web_fonts_summary2 "पृष्ठ लोड करैत समय दूरस्थ फ़ॉन्ट डाउनलोड करू">
 
+<!ENTITY pref_tracking_protection_title2 "ट्रैकिंग संरक्षण">
 <!ENTITY pref_donottrack_title "ट्रैक नहिं करु">
 <!ENTITY pref_donottrack_summary "&brandShortName; साइट्स के सेहो बताएत कि अहाँ अपन ट्रैकिंग नहि चाहैत छी">
 
@@ -260,18 +265,28 @@
 <!ENTITY pref_tracking_protection_enabled_pb "निजी ब्राउज़िंग मे सक्षम करू">
 <!ENTITY pref_tracking_protection_disabled "निष्क्रिय">
 
+<!ENTITY pref_whats_new_notification "&brandShortName; मे कथि नवीन अछि">
+<!ENTITY pref_whats_new_notification_summary "अपडेट क बाद नव विशेषता क संबंध मे जानू">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "प्रायोगिक विशेषता">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs2 "कस्टम टैब">
+<!ENTITY pref_custom_tabs_summary4 "ऐप्स केँ वेब सामग्री शीघ्र लोड हए बला कस्टम टैब मे खोलए केर अनुमति दिअ.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "नव &formatS; मे खोलू">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; द्वारा संचालित">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL कॉपी भेल">
 
+<!ENTITY pref_pwa "प्रगतिशील वेब एप्प">
+<!ENTITY pref_pwa_summary "होम स्क्रीन पर वेब एप्प केँ सामिल करबाक अनुमति दिअ">
 
 <!ENTITY tracking_protection_prompt_title "आब ट्रैकिंग संरक्षण क सँग">
 <!ENTITY tracking_protection_prompt_text "सक्रिय रूप सँ ट्रैकिंग तत्व केँ अवरोध करैत अछि एहिलेल अहाँक चिंता करबाक जरुरत नहि अछि.">
@@ -304,16 +319,21 @@
 <!ENTITY pref_char_encoding "वर्ण ऐन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेनू देखाउ">
 <!ENTITY pref_char_encoding_off "मेनू नहि देखाउ">
+<!ENTITY pref_clear_private_data2 "निजी डेटा साफ़ करू">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "अखन साफ करू">
+<!ENTITY pref_clear_on_exit_title3 "बाहर निकलबा क बाद निजी आँकड़ा साफ करू">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; अपने डाटाकेँ साफ करताह जखन अहाँ \&quot;Quit\&quot; केँ मुख्य मेन्यूसँ चुनैछी">
 <!ENTITY pref_clear_on_exit_dialog_title "चुनू कओन डाटाकेँ साफ कएनाइ अछि">
+<!ENTITY pref_restore_tabs "टैब पुनर्बहाल करू">
 <!ENTITY pref_restore_always "हरदम पुनर्बहाल करू">
 <!ENTITY pref_restore_quit "&brandShortName; छोड़बाक बाद पुनर्बहाल नहि करू">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "सिस्टम फॉन्ट आकार उपयोग करू">
+<!ENTITY pref_use_system_font_size_summary "सिस्टम फॉन्ट आकार अनुसार वेब कंटेट क माप लिअ">
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालन के लेल अनुमति दिय\&apos;">
 <!ENTITY pref_media_autoplay_enabled_summary "नियंत्रित करु यदि वेबसाइट सब वीडियोज आउर दोसर मीडिया सामग्री सब के स्वचालित क\&apos; सकैत अछि">
@@ -323,6 +343,7 @@
 <!ENTITY pref_qrcode_enabled "QR कोड रीडर">
 
 <!ENTITY pref_use_master_password "मुख्य गुड़किल्ली क\&apos; प्रयोग  करू ">
+<!ENTITY pref_sync_default_title "Firefox खाता">
 <!ENTITY pref_sync2 "साइन इन">
 <!ENTITY pref_sync_summary2 "टैब, पुस्तकचिह्न, लॉगिन, इतिहास सिंक करू">
 <!ENTITY pref_search_suggestions "खोज सलाह देखाउ">
@@ -483,9 +504,11 @@
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "पूर्ण स्क्रीन ब्राउजिंग">
 
+<!ENTITY pref_tab_queue_title3 "टैब पंक्तिबद्ध">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "काम्पैक्ट टैब">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -493,9 +516,11 @@
 <!ENTITY page_removed "पृष्ठ हटैलक">
 
 <!ENTITY bookmark_edit_title "पुस्तकचिह्न संपादित करू">
+<!ENTITY bookmark_edit_folder_title "फ़ोल्डर सम्पादन">
 <!ENTITY bookmark_edit_name "नाम">
 <!ENTITY bookmark_edit_location "स्थान">
 <!ENTITY bookmark_edit_keyword "बीजशब्द">
+<!ENTITY bookmark_select_folder "फ़ोल्डर चुनू">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -517,9 +542,11 @@
 <!ENTITY button_yes "हँ">
 <!ENTITY button_no "नहि">
 <!ENTITY button_clear_data "आँकड़ा साफ करू">
+<!ENTITY button_set "लगाउ">
 <!ENTITY button_clear "साफ करू ">
 <!ENTITY button_copy "नकल करू">
 
+<!ENTITY home_top_sites_title "टॉप साइट">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "साइट जोड़ू">
@@ -527,12 +554,20 @@
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "इतिहास">
+<!ENTITY home_synced_devices_smartfolder "सिंक भेल डिवाइस">
+<!ENTITY home_synced_devices_number "&formatD; डिवाइस">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 डिवाइस">
+<!ENTITY home_history_back_to2 "पूर्ण इतिहास पर वापस जाउ">
 <!ENTITY home_clear_history_button "ब्राउजिंग इतिहास साफ करू">
 <!ENTITY home_clear_history_confirm "की अहाँ सुनिश्चित छी जे अहाँ अपन इतिहासकेँ साफ कएनाइ चाहैत अछि?">
 <!ENTITY home_bookmarks_empty "अहाँक सहेजल पुस्तचिह्न एतए देखाइ पड़त.">
+<!ENTITY home_closed_tabs_title2 "हाल मे बन्न">
 <!ENTITY home_last_tabs_empty "हालिया टैब एतय देखाइ देत अछि.">
+<!ENTITY home_restore_all "सभ पुनर्बहाल करू">
+<!ENTITY home_closed_tabs_number "&formatD; टैब">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 टैब">
 <!ENTITY home_most_recent_empty "अहाँक देखल सबसँ हालिया वेबसाइट एतय देखाओल गेल अछि.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -544,6 +579,7 @@
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "&formatS; धरि">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -559,6 +595,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "पिन कएल साइट">
+<!ENTITY home_unpinned_site "पिन हटाएल साइट">
 
 <!ENTITY remote_tabs_panel_moved_title "कतए हमर टैब अछि?">
 <!ENTITY remote_tabs_panel_moved_desc "हम अहाँक टैबकेँ आन युक्तिसँ पटलमे घसकाए देलहुँ जे आसानीसँ सभ बेर पहुँच लेल जाए सकैछ जखन अहाँ नव टैब खोलहुँ">
@@ -566,6 +604,7 @@
 
 <!ENTITY pin_site_dialog_hint "खोज बीजशब्द दर्ज करू">
 
+<!ENTITY filepicker_title "फ़ाइल चुनू">
 <!ENTITY filepicker_audio_title "आवाज चुनू अथवा रिकोड करू">
 <!ENTITY filepicker_image_title "तस्वीर चुनू अथवा खींचू">
 <!ENTITY filepicker_video_title "वीडियो चुनू अथवा रिकोड करू">
@@ -585,6 +624,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "सुरक्षित कनेक्शन">
 <!ENTITY identity_connection_insecure "असुरक्षित कनेक्शन">
+<!ENTITY identity_connection_chromeui "ई सुरक्षित &brandShortName; पृष्ठ अछि">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ई पेज पर असुरक्षित सामग्री ब्लॉक क देलक.">
@@ -593,6 +633,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "अहाँक असुरक्षित सामग्री सँ खराब सुरक्षा भेटैत अछि.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "ट्रैकिंग संरक्षण">
 <!ENTITY doorhanger_tracking_state_enabled "सक्रिय">
 <!ENTITY doorhanger_tracking_state_disabled "निष्क्रिय">
 <!ENTITY doorhanger_tracking_message_enabled1 "अहाँक ऑनलाइन व्यवहार पर नजर राखए क प्रयास केँ अवरोध कए देल गेल अछि.">
@@ -606,6 +647,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "निज आँकड़ा साफ कएलक">
 <!ENTITY private_data_fail "किछु निज आँकड़ा साफ नहि भए सकैछ">
 
+<!ENTITY bookmarkhistory_button_import "आयात">
 <!ENTITY bookmarkhistory_import_both "एंड्रायड सँ पुस्तकचिह्न आओर इतिहास केर आयात जारी">
 <!ENTITY bookmarkhistory_import_bookmarks "एंड्रायड सँ पुस्तकचिह्न केर आयात जारी">
 <!ENTITY bookmarkhistory_import_history "इतिहासक आयात एंड्रायड सँ कए रहल अछि">
@@ -628,6 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "पुस्तकचिह्न आओर इतिहास">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "&brandShortName; कलेल अपडेट उपलब्ध">
 <!ENTITY updater_start_select2 "डाउनलोड करए कलेल छुउ">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड कए रहल अछि">
@@ -635,11 +678,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "डाउनलोड हए पर अद्यतन लागू करए कलेल छुउ">
 <!ENTITY updater_downloading_retry2 "पुनःप्रयास कलेल छुउ">
 
+<!ENTITY updater_apply_title3 "&brandShortName; लेल अपडेट उपलब्ध">
+<!ENTITY updater_apply_select3 "संस्थापित करए लेल स्पर्श करू">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "अनुमति दिअ">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "नवअतिथि सत्र">
