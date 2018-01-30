@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY doNotDownloadPop3Movemail.label "Richin naköl rupam ri nimayakb'äl, man taqasaj:">
+<!ENTITY doNotDownloadNntp.label "Richin naköl rupam ri nimayakb'äl, man tiqasäx richin nokisäx toq man atokinäq ta pa k'amaya'l:">
+<!ENTITY doNotDownloadImap.label "Richin niköl rupam ri nimayakb'äl, yeqasäx taq rutzijol k'uxasamaj chuqa' yeyake' aj wawe' taq wachib'enï richin ye'okisäx toq majun okem, nitikïr nuq'ät ruma ojer chik o ruma ri runimilem.">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "ojer taq q'ij">
 <!ENTITY message.label "kitzijol">

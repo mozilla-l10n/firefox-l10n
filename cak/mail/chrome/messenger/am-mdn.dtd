@@ -17,5 +17,17 @@
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Tisilöx pa &quot;Taqon&quot; numolwuj">
 <!ENTITY moveToSent.accesskey         "T">
+<!ENTITY requestMDN.label             "Toq tik'utüx jun tzolin wujil chwe:">
+<!ENTITY returnSome.label             "Tiya' q'ij yetzolïx kiwujil chi ke jujun taq tzijol">
+<!ENTITY returnSome.accesskey         "e">
+<!ENTITY never.label                  "Majub'ey titaq jun tzolin wujil">
+<!ENTITY never.accesskey              "M">
+<!ENTITY notInToCc.label              "We man in k'o ta pa Chi re o Cc richin ri rutzijol:">
+<!ENTITY notInToCc.accesskey          "C">
+<!ENTITY outsideDomain.label          "We man k'o ta pa ruk'ojlem nub'ey ri taqonel:">
+<!ENTITY outsideDomain.accesskey      "t">
+<!ENTITY otherCases.label             "Pa konojel ri ch'aqa' chik taq k'ulwachinïk:">
+<!ENTITY otherCases.accesskey         "a">
+<!ENTITY askMe.label                  "Tik'utüx pe chwe">
 <!ENTITY alwaysSend.label             "Junelïk titaq">
 <!ENTITY neverSend.label              "Majub'ey titaq">
