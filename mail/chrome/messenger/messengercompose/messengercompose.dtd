@@ -108,6 +108,16 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Zmeniť usporiadanie príloh">
+<!ENTITY moveAttachmentTopPanelBtn.label "Presunúť nahor">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "n">
+<!ENTITY moveAttachmentUpPanelBtn.label "Presunúť vyššie">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "v">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Presunúť spolu">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "s">
+<!ENTITY moveAttachmentDownPanelBtn.label "Presunúť nižšie">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "e">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Presunúť nadol">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "d">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
