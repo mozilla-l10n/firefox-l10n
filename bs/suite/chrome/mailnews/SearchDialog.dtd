@@ -15,5 +15,11 @@
 <!ENTITY results.label               "Rezultati">
 <!ENTITY moveHereMenu.label          "Premjesti ovdje">
 <!ENTITY moveButton.label            "Premjesti u">
+<!ENTITY goToFolderButton.label      "Otvori direktorij poruke">
+<!ENTITY saveAsVFButton.label        "Sačuvaj kao direktorij za pretraživanje">
 
 <!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Traži u:">
+<!ENTITY propertiesButton.label      "Postavke">
+<!ENTITY composeButton.label         "Sastavi">
+<!ENTITY abSearchDialogTitle.label   "Napredno pretraživanje adresara">
