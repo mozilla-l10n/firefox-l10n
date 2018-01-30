@@ -61,5 +61,6 @@
      Change the values only when the localized strings in the popup menus
      are truncated in the widgets.
  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
