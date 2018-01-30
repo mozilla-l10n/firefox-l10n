@@ -30,5 +30,18 @@
 <!ENTITY then.accesskey                       "R">
 <!ENTITY aboveQuote.label                     "titikirisäx ri rutzolixik nutzij pa ruwi' ri rucholajem tzij sik'in">
 <!ENTITY belowQuote.label                     "titikirisäx ri rutzolixik nutzij chuxe' ri rucholajem tzij sik'in">
+<!ENTITY selectAndQuote.label                 "ticha' ri rucholajem tzij sik'in">
+<!ENTITY place.label                          "chuqa' tiya' el ri juch'un nub'i'">
+<!ENTITY place.accesskey                      "j">
+<!ENTITY belowText.label                      "chuxe' ri rucholajem tzij sik'in (chilab'en)">
+<!ENTITY aboveText.label                      "chuxe' ri rutzolixik nutzij (pa ruwi' ri rucholajem tzij sik'in)">
+<!ENTITY includeSigOnReply.label              "Titz'aqatisäx juch'un b'i'aj pa taq rutzolixik tzij">
+<!ENTITY includeSigOnReply.accesskey          "T">
+<!ENTITY includeSigOnForward.label            "Titz'aqatisäx juch'un b'i'aj pa ri yetaq chik">
+<!ENTITY includeSigOnForward.accesskey        "y">
 
+<!ENTITY globalComposingPrefs.label           "Chijun taq Kajowab'al Tz'ib'anïk…">
+<!ENTITY globalComposingPrefs.accesskey       "C">
 
+<!ENTITY globalAddressingPrefs.label          "Chijun taq Kajowab'al Ochochib'äl…">
+<!ENTITY globalAddressingPrefs.accesskey      "K">
