@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bun venit">
-<!ENTITY firstrun_urlbar_message2 "Îți mulțumim pentru că ai ales &brandShortName;">
+<!ENTITY firstrun_urlbar_message2 "Îți mulțumim că ai ales &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un browser modern mobil de la Mozilla, organizația nonprofit dedicată unui web liber și deschis.">
 <!ENTITY firstrun_panel_title_privacy "Confidențialitate">
 <!ENTITY firstrun_privacy_message "Navighează fără grija de a fi urmărit">
