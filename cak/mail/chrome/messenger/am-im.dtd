@@ -8,6 +8,9 @@
 <!ENTITY account.advanced              "Q'axinäq taq Cha'oj">
 <!ENTITY account.name                  "Rub'i' winäq:">
 <!ENTITY account.password              "Ewan tzij:">
+<!ENTITY account.alias                 "Tz'ukun b'i'aj:">
+<!ENTITY account.newMailNotification   "Tiya' rutzijol k'ak'a' Rutzijol">
+<!ENTITY account.autojoin              "Ruyonil-Tok pa re taq B'ey re':">
 <!ENTITY account.proxySettings.caption "Proxi taq Nuk'ulem:">
 <!ENTITY account.proxySettings.change.label     "Tijalwachïx…">
 <!ENTITY account.proxySettings.change.accessKey "j">

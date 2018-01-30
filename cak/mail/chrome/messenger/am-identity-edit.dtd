@@ -6,8 +6,13 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 <!ENTITY identityDialog.style "min-width: 75ch;">
+<!ENTITY identityListDesc.label "Tijikib'äx runuk'ulem re b'anikil re':">
 
 <!ENTITY settingsTab.label       "Taq nuk'ulem">
 <!ENTITY copiesFoldersTab.label "Taq Wachib'enïk &amp; taq Yakwuj">
+<!ENTITY addressingTab.label    "Tz'ib'anïk &amp; Ochochib'äl">
 
+<!ENTITY publicData.label        "Winaqil Tzij">
 <!ENTITY privateData.label       "Ichinan Tzij">
+<!ENTITY identityAlias.label     "Retal B'anikil:">
+<!ENTITY identityAlias.accesskey "t">
