@@ -7,11 +7,14 @@
 <!ENTITY firstrun_urlbar_subtext2 "Mozilla आनलक एकटा आधुनिक मोबाइल ब्राउज़र, गैर-लाभकारी एक स्वतंत्र और उन्मुक्त वेब कलेल प्रतिबद्ध.">
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
 <!ENTITY firstrun_privacy_message "एना ब्राउज़ करू जे केओ नहि ताकि रहल हुए">
+<!ENTITY firstrun_panel_title_customize "मनपसंद बनाबू">
+<!ENTITY firstrun_customize_message "अपना लेल &brandShortName; बनाबू.">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_data_title "डेटा">
 <!ENTITY firstrun_data_message "कम डेटा , बेसी बचत">
 <!ENTITY firstrun_sync_title "सिंक">
 <!ENTITY firstrun_sync_message2 "जतए अहाँ छोड़लहुँ ओतए सँ चुनू.">
+<!ENTITY firstrun_signin_message "जुड़ल अछि, आरंभ करू">
 <!ENTITY firstrun_signin_button "सिंक करए लेल साइन इन करू">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करू">
 <!ENTITY firstrun_button_notnow "अखन नहि">
@@ -21,10 +24,15 @@
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "टैब पंक्ति आरंभ करू">
 
+<!ENTITY firstrun_tabqueue_message_on "सफल!">
 
+<!ENTITY firstrun_readerview_title "आलेख">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "अव्यवस्था छोड़ू">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "अहाँ">
+<!ENTITY firstrun_account_message "की &brandShortName; आन डिवाइस पर अछि?">
 
 <!ENTITY  onboard_start_restricted1 "सुरक्षित आओर &brandShortName; केर ई सरल संस्करण केर नियंत्रण मे रहू. ">
 
@@ -36,6 +44,7 @@
 <!ENTITY  switch_to_tab "टैबमे जाउ">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "ऑफलाइन संस्करण देखाबू">
 
 <!ENTITY  crash_reporter_title "&brandShortName; क्रैश रिपोटर">
 <!ENTITY  crash_message2 "&brandShortName; कोनो वजह सँ क्रैश कए गेल. जखन अहाँ दोबारा आरंभ करू तखन अहाँक टैब &brandShortName; क पहिल पन्ना पर सूचीबद्ध हएबाक चाही.">
@@ -62,16 +71,27 @@
 <!ENTITY bookmark_removed "पुस्तकचिह्नित हटाएल गेल">
 <!ENTITY bookmark_updated "पुस्तकचिह्न अद्यतित">
 <!ENTITY bookmark_options "विकल्प">
+<!ENTITY bookmark_save "सहेजू">
+<!ENTITY screenshot_added_to_bookmarks "स्क्रीनशॉट पुस्तचिह्न मे जोड़ल गेल">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "स्क्रीनशॉट">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "पठन सूची">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; वस्तु">
+<!ENTITY bookmark_folder_one_item "1 आइटम">
+<!ENTITY bookmark_folder_updated "फ़ोल्डर अपडेट भेल">
+<!ENTITY bookmark_parent_folder "मूल फ़ोल्डर">
+<!ENTITY bookmark_add_folder "नव फ़ोल्डर जोड़ू">
 
+<!ENTITY reader_saved_offline "ऑफलाइन सहेजल गेल">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "बदलू">
 
 <!ENTITY history_today_section "आइ">
 <!ENTITY history_yesterday_section "काल्हि">
@@ -107,10 +127,13 @@
 
 <!ENTITY settings "सेटिंग्स">
 <!ENTITY settings_title "सेटिंग्स">
+<!ENTITY pref_category_general "सामान्य">
+<!ENTITY pref_category_general_summary3 "होम, भाषा, टैब कतार">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "भाषा">
 <!ENTITY pref_category_language_summary "अहाँ अपन ब्राउजरक भाषा बदलू">
 <!ENTITY pref_browser_locale "ब्राउजरक भाषा">
 
@@ -164,10 +187,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "TIP: खोज प्रदाता क सूची मे कोनो वेबसाइट केँ जोड़ए कलेल खोज क्षेत्र केँ देर तक दाबने राखू आओर &formatI; प्रतीक केँ टिपटिपाबू.">
 <!ENTITY pref_category_advanced "उन्नत">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "टैब, डाटा रक्षक, डेवलपर उपकरण पुनर्बहाल करू">
 <!ENTITY pref_category_notifications "नोटिफिकेशन">
 <!ENTITY pref_category_notifications_summary "नव फीचर, वेबसाइट अपडेट">
 <!ENTITY pref_developer_remotedebugging_usb "USB सँ भ कए दूरस्थ दोषसुधार">
@@ -190,18 +215,26 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; होम">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "मनपसिन्न">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "खोज शब्द अथवा पता दर्ज करू">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "सामान्य">
+<!ENTITY pref_header_search "खोजू">
 <!ENTITY pref_header_privacy_short "गोपनीयता">
+<!ENTITY pref_header_accessibility "पहुँच">
+<!ENTITY pref_header_notifications "नोटिफिकेशन">
+<!ENTITY pref_header_advanced "उन्नत">
 <!ENTITY pref_header_help "मदति">
 
 <!ENTITY pref_cookies_menu "कूकीज़">
@@ -212,7 +245,12 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "डेटा रक्षक">
+<!ENTITY pref_category_media "मीडिया">
+<!ENTITY pref_category_developer_tools "डेवलेपर टूल">
 
+<!ENTITY pref_tap_to_load_images_title2 "छवि देखाउ">
+<!ENTITY pref_tap_to_load_images_enabled "हरदम">
 
 
 <!ENTITY pref_donottrack_title "ट्रैक नहिं करु">
