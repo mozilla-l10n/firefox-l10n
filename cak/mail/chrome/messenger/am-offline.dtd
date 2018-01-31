@@ -27,6 +27,13 @@
 <!ENTITY retentionKeepMsg.label "Keyuj taq rutzijol nïm chuwäch">
 <!ENTITY retentionKeepMsg.accesskey "c">
 <!ENTITY retentionKeepAll.label "Man keyuj taq tzijol">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Keyuj konojel, man ke ta ri' ri e k'ak'a'">
+<!ENTITY retentionKeepRecent.accesskey "m">
+<!ENTITY retentionApplyToFlagged.label "Junelïk keyake' ri nimaläj taq rutzijol">
+<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY nntpRemoveMsgBody.label "Keyuj kich'akul taq rutzijol nïm chuwäch">
+<!ENTITY nntpRemoveMsgBody.accesskey "a">
 <!ENTITY offlineImapAdvancedOffline.label "Taq q'axinäq…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "x">
 
