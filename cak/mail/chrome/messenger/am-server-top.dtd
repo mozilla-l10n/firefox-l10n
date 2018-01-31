@@ -68,6 +68,12 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "taq tzijol">
 <!ENTITY alwaysAuthenticate.label "Junelïk tik'utüx jikib'anïk toq nok pa re k'uxasamaj re'">
+<!ENTITY alwaysAuthenticate.accesskey "n">
+<!ENTITY newsrcFilePath.label "newsrc yakb'äl:">
+<!ENTITY newsrcPicker.label "Ticha' newsrc Yakb'äl">
+<!ENTITY abbreviate.label "Tik'ut pe ri kib'i' ri kimolaj taq tzijol pa ri Taqoya'l Yakwuj achi'el:">
+<!ENTITY abbreviateOn.label "Tz'aqät taq b'i'aj (Achi'el, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Ch'utin taq b'i'aj (Achi'el, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Taq q'axinäq…">
 <!ENTITY advancedButton.accesskey "x">
 <!ENTITY localPath.label "Aj wawe' cholb'äl:">
