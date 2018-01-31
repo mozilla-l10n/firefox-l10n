@@ -34,8 +34,12 @@
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "Keyuj kich'akul taq rutzijol nïm chuwäch">
 <!ENTITY nntpRemoveMsgBody.accesskey "a">
+<!ENTITY offlineSelectNntp.label "Tichach kimolaj tzijol richin nokisäx toq majun okem…">
+<!ENTITY offlineSelectNntp.accesskey "T">
 <!ENTITY offlineImapAdvancedOffline.label "Taq q'axinäq…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "x">
+<!ENTITY syncGroupTitle.label "Ruximik Rutzijol">
+<!ENTITY diskspaceGroupTitle.label "Rupam Rujolom">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
@@ -43,6 +47,11 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY allAutosync.label               "Kexim konojel ri aj wawe' taq rutzijol, akuchi' man nijik' taq ri rurijixik">
+<!ENTITY allAutosync.accesskey           "c">
+<!ENTITY ageAutosyncBefore.label         "Kexim ri e k'ak'a'">
+<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Taq q'ij">
 <!ENTITY weekAgeInterval.label           "Taq wuqq'ij">
 <!ENTITY monthAgeInterval.label          "Taq ik'">
