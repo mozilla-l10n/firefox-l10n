@@ -16,3 +16,11 @@
 <!ENTITY namespaceDesc.label "Re taq ajowab'äl re' nikiya' retal ri taq kikojol b'i'aj pa ri IMAP k'uxasamaj">
 <!ENTITY personalNamespace.label "Ichinan rukojol b'i'aj:">
 <!ENTITY personalNamespace.accesskey "I">
+<!ENTITY publicNamespace.label "Winaqil (komonin):">
+<!ENTITY publicNamespace.accesskey "a">
+<!ENTITY otherUsersNamespace.label "Ch'aqa' chik Winaqi':">
+<!ENTITY otherUsersNamespace.accesskey "C">
+<!ENTITY overrideNamespaces.label "Tiya' q'ij chi ri k'uxasamaj keruk'exa' re taq kikojol b'i'aj re'">
+<!ENTITY overrideNamespaces.accesskey "T">
+<!ENTITY pop3DeferringDesc.label "Toq niqasäx taqoya'l pa re rub'i' rutaqoya'l k'uxasamaj re', tokisäx re yakwuj re' richin yeyak ri k'ak'a' taq rutzijol:" >
+<!ENTITY accountInbox.label "Rumolb'al re rub'i' taqoya'l re'">
