@@ -59,7 +59,6 @@
 <!ENTITY locationBar.tooltip          "Voer een zoekterm, sleutelwoord of webadres in">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Locatie">
-
 <!ENTITY proxyIcon.tooltip            "Sleep dit pictogram om een koppeling naar deze pagina te maken">
 
 <!ENTITY searchItem.title             "Zoeken">

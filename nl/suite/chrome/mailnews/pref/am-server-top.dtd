@@ -75,8 +75,8 @@
 <!ENTITY abbreviateOn.label "Volledige namen (bijvoorbeeld ‘netscape.public.mozilla.mail-news’)">
 <!ENTITY abbreviateOff.label "Afgekorte namen (bijvoorbeeld ‘n.p.m.mail-news’)">
 <!ENTITY advancedButton.label "Geavanceerd…">
-<!ENTITY advancedButton.accesskey "G">
 <!ENTITY serverDefaultCharset2.label "Standaard tekstcodering:">
+<!ENTITY advancedButton.accesskey "G">
 <!ENTITY localPath.label "Lokale map:">
 <!ENTITY localFolderPicker.label "Lokale map selecteren">
 <!ENTITY browseFolder.label "Bladeren…">

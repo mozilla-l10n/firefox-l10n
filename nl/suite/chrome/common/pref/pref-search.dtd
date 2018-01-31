@@ -11,7 +11,6 @@
 <!ENTITY defaultSearchEngine.label        "Zoeken met:">
 <!ENTITY defaultSearchEngine.accesskey    "Z">
 
-<!-- Will be used by bug 595246 -->
 <!ENTITY engineManager.label              "Zoekmachines beheren…">
 
 <!ENTITY searchResults.label              "Zoekresultaten">

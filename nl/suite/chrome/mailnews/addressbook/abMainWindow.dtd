@@ -47,7 +47,6 @@
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "Adresboekwerkbalk">
 <!ENTITY showAbToolbarCmd.accesskey                     "d">
-
 <!ENTITY layoutMenu.label                               "Vormgeving">
 <!ENTITY layoutMenu.accesskey                           "V">
 <!ENTITY showDirectoryPane.label                        "Directoryvenster">

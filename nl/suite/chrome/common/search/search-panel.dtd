@@ -5,5 +5,4 @@
 <!ENTITY search.button.label      "Zoeken">
 <!ENTITY search.placeholder       "Voer zoekterm in">
 
-<!-- Will be used by bug 595246 -->
 <!ENTITY search.engineManager.label "Zoekmachines beheren…">
