@@ -47,7 +47,7 @@
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-#define bugzilla मोजिल्ल बुग ट्रक्केर\u0020
+#define bugzilla Mozilla Bug Tracker
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
@@ -67,6 +67,6 @@
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
-#define planet मोजिलाको ग्रह\u0020
+#define planet Planet Mozilla
 
 #unfilter emptyLines

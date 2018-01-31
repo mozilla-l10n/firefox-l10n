@@ -5,6 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "ट्रयाकिङ्ग सुरक्षा">
 <!ENTITY  trackingProtection2.description      "ट्र्याकिङ्ग धेरै वेबसाइटहरूमा भएको तपाईँको ब्राउजिङ्ग डाटाको संग्रह हो । ट्र्याकिङ्ग तपाईँको ब्राउजिङ्ग र व्यक्तिगत जानकारीको आधारमा प्रोफाईल निर्माण र सामग्री प्रदर्शन गर्न प्रयोग गर्न सकिन्छ ।">
 <!ENTITY  trackingProtection2.radioGroupLabel  "ज्ञात ट्रयाकरहरू रोक्न ट्रयाकिङ्ग सुरक्षा प्रयोग गर्नुहोस्">
+<!ENTITY  trackingProtection3.radioGroupLabel  "ज्ञात ट्रयाकरहरू रोक्न ट्रयाकिङ्ग सुरक्षा प्रयोग गर्नुहोस्">
 <!ENTITY  trackingProtectionAlways.label       "सधैँ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "निजी सञ्झ्यालमा मात्र खोल्नुहोस्">
@@ -14,10 +15,6 @@
 <!ENTITY  trackingProtectionLearnMore.label    "अझ जान्नुहोस् ">
 <!ENTITY  trackingProtectionExceptions.label   "अपवादहरू...">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "निजी सञ्झ्यालहरूमा ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "ज्ञात ट्रयाकरहरू रोक्न निजि ब्राउजिङ्गमा ट्रयाकिङ्ग सुरक्षा प्रयोग गर्नुहोस्">
