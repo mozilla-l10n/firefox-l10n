@@ -108,8 +108,10 @@
 <!ENTITY edit_mode_cancel "रद्द करू ">
 
 <!ENTITY close_tab "टैब बन्न करू ">
+<!ENTITY one_tab "1 टैब">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; टैब">
 <!ENTITY new_tab_opened " नव टैब खुलल">
 <!ENTITY new_private_tab_opened "नव निज टैब खुलल">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -173,6 +175,7 @@
 <!ENTITY pref_category_accessibility_summary2 "टेक्स्ट आकार, ज़ूम, वॉइस इनपुट">
 <!ENTITY pref_category_privacy_short "गोपनीयता">
 <!ENTITY pref_category_privacy_summary4 "ट्रैकिंग, लॉगिन, डेटा चुननाय">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName;क संबंध मे, FAQs, फीडबैक">
 <!ENTITY pref_category_datareporting "आँकड़ा विकल्प">
 <!ENTITY pref_category_logins "लॉगिन">
@@ -211,6 +214,7 @@
 <!ENTITY pref_category_home_homepage "होमपेज">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "नव टैब सेहो लेल उपयोग करू">
 <!ENTITY home_homepage_title "होमपेज व्यवस्थित करू">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -236,6 +240,7 @@
 <!ENTITY pref_header_notifications "नोटिफिकेशन">
 <!ENTITY pref_header_advanced "उन्नत">
 <!ENTITY pref_header_help "मदति">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "कूकीज़">
 <!ENTITY pref_cookies_accept_all "सक्रिय">
@@ -304,6 +309,8 @@
 <!ENTITY tab_queue_prompt_negative_action_button "अखन नहि">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "सेटिंग मे जाउ">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -315,6 +322,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "\&quot;एक सँ बेसी टैब खोलबाक लेल\&quot;, कृपया \&apos;दोसर एप्प के उप्पर सँ घीँचू\&apos; अनुमति केँ &brandShortName; सक्रिय करू">
 
 <!ENTITY pref_char_encoding "वर्ण ऐन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेनू देखाउ">
@@ -340,7 +348,9 @@
 <!ENTITY pref_zoom_force_enabled "हमेशा जूम सक्षम करू">
 <!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड अछि, ताकि अहाँ कोनो पृष्ठ ज़ूम कए सकैत छी ">
 <!ENTITY pref_voice_input "ध्वनि क इनपुट">
+<!ENTITY pref_voice_input_summary2 "आवाज ढूँढ़नाय URL पट्टी केँ अनुमति दिअ">
 <!ENTITY pref_qrcode_enabled "QR कोड रीडर">
+<!ENTITY pref_qrcode_enabled_summary2 "URL पट्टी में QR स्कैनर केँ अनुमति दिअ">
 
 <!ENTITY pref_use_master_password "मुख्य गुड़किल्ली क\&apos; प्रयोग  करू ">
 <!ENTITY pref_sync_default_title "Firefox खाता">
@@ -482,10 +492,13 @@
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "शीर्ष साइट्स पर पिन करू">
+<!ENTITY contextmenu_unpin_from_top_sites "शीर्ष साइट्स सँ अनपिन करू">
 <!ENTITY contextmenu_add_search_engine "खोज इंजन जोड़ू">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "शीर्ष साइट पर पिन कएल गेल पृष्ठ">
+<!ENTITY unpinned_page_from_top_sites "शीर्ष साइट्स सँ अनपिन कएल गेल पृष्ठ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -514,6 +527,7 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "पृष्ठ हटैलक">
+<!ENTITY folder_removed "फ़ोल्डर हटाएल गेल">
 
 <!ENTITY bookmark_edit_title "पुस्तकचिह्न संपादित करू">
 <!ENTITY bookmark_edit_folder_title "फ़ोल्डर सम्पादन">
@@ -553,6 +567,7 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; होम">
 <!ENTITY home_history_title "इतिहास">
 <!ENTITY home_synced_devices_smartfolder "सिंक भेल डिवाइस">
 <!ENTITY home_synced_devices_number "&formatD; डिवाइस">
@@ -756,6 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing "निज ब्राउजिंग">
 <!ENTITY restrictable_feature_clear_history "इतिहास मेटाबू">
 <!ENTITY restrictable_feature_advanced_settings "उन्नत सेटिंग">
+<!ENTITY restrictable_feature_camera_microphone "कैमेरा &amp; माइक्रोफोन">
 <!ENTITY restrictable_feature_block_list "सूची रोकू">
 
 <!-- Default Bookmarks titles-->
@@ -774,15 +790,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_title2 "&brandShortName; आब अपडेट नहि हाएत">
+<!ENTITY eol_notification_summary "बेसी जानकारी लेल टैप करू">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; अपडेट भेल अछि">
+<!ENTITY whatsnew_notification_summary "ई संस्करण मे नवीन की अछि ई  ढूँढू">
 
+<!ENTITY promotion_add_page_shortcut "पृष्ठ शॉर्टकट जोड़ू">
 
 <!ENTITY helper_first_offline_bookmark_title "ऑफलाइन पढू">
+<!ENTITY helper_first_offline_bookmark_message "पुस्तचिन्ह मे अपन पठन दृष्टि वस्तु ढूँढ़ू, ऑफ़लाइन सेहो.">
+<!ENTITY helper_first_offline_bookmark_button "पुस्तचिह्न पर जाउ">
 
+<!ENTITY helper_triple_readerview_open_title "ऑफलाइन उपलब्ध">
+<!ENTITY helper_triple_readerview_open_message "रीडर दृष्टि वस्तु केँ ऑफलाइन पढ़ए लेल ओकरा पुस्तचिन्हित करू.">
+<!ENTITY helper_triple_readerview_open_button "पुस्तचिह्न मे जोड़ू">
 
+<!ENTITY activity_stream_topsites "सर्वोत्तम साइट">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; द्वारा अनुशंसित">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 
