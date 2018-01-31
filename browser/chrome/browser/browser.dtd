@@ -163,7 +163,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "तपाईँको सूचक नियन्त्रण बाहिर छ । नियन्त्रण आफ्नो नियन्त्रणमा ल्याउन Esc थिच्नुहोस्।">
+<!ENTITY pointerlockWarning.afterDomain.label "तपाईँको सूचक नियन्त्रण बाहिर छ। नियन्त्रण आफ्नो नियन्त्रणमा ल्याउन Esc थिच्नुहोस्।">
 <!ENTITY pointerlockWarning.generic.label "तपाईँको पोइन्टर यो डकुमेन्टको नियन्त्रणमा छ। नियन्त्रण फिर्ता लिन Esc थिच्नुहोस्।">
 
 <!ENTITY closeWindow.label "सञ्झ्याल बन्द गर्नुहोस्">
@@ -229,7 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "तपाईँले यो वेबसाइटको लागि आफ्नो क्यामेरा अवरुद्ध गर्नु भएको छ ">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "तपाईँले यो वेबसाइटको लागि आफ्नो माइक्रोफोन अवरुद्ध गर्नु भएको छ">
-<!ENTITY urlbar.screenBlocked.tooltip            "तपाईँ आफ्नो स्क्रीन साझेदारी देखि यो वेबसाइट अवरुद्ध गर्नु भएको छ । ">
+<!ENTITY urlbar.screenBlocked.tooltip            "तपाईँले यो वेबसाइटलाई आफ्नो स्क्रिन साझा गर्न अवरुद्ध गर्नु भएको छ।">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "तपाईँले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ । ">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ ।">
