@@ -3,15 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pref.masterpass.title                  "Hoofdwachtwoord">
-<!ENTITY  managepassword.caption                 "Hoofdwachtwoordtime-out">
-<!ENTITY  managepassword.text                    "&brandShortName; zal om uw hoofdwachtwoord vragen:">
-<!ENTITY  managepassword.askfirsttime            "De eerste keer dat het nodig is">
-<!ENTITY  managepassword.askfirsttime.accesskey  "D">
-<!ENTITY  managepassword.askeverytime            "Elke keer dat het nodig is">
-<!ENTITY  managepassword.askeverytime.accesskey  "E">
-<!ENTITY  managepassword.asktimeout              "Als het niet gebruikt is sinds ">
-<!ENTITY  managepassword.asktimeout.accesskey    "A">
-<!ENTITY  managepassword.timeout.unit            "minuten of meer">
 
 <!ENTITY  changepassword.caption                 "Hoofdwachtwoord wijzigen">
 <!ENTITY  changepassword.text                    "Uw hoofdwachtwoord beschermt gevoelige informatie, zoals webwachtwoorden en -certificaten.">

@@ -7,6 +7,7 @@
 -->
 <!ENTITY pref.privatedata.title           "Privégegevens">
 
+
 <!ENTITY clearPrivateData.label           "Privégegevens wissen">
 
 <!ENTITY  alwaysClear.label               "Altijd mijn privégegevens wissen als ik &brandShortName; afsluit">

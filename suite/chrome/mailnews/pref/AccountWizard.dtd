@@ -46,8 +46,6 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Berichten op de server laten">
-<!ENTITY leaveMsgsOnSrvr.accesskey "l">
 <!ENTITY portNum.label "Poort:">
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Standaard:">
@@ -56,6 +54,8 @@
 <!ENTITY incomingServer.description "Voer de naam in van uw inkomende server (bijvoorbeeld ‘mail.example.net’).">
 <!ENTITY incomingServer.label "Inkomende server:">
 <!ENTITY incomingServer.accesskey "o">
+<!ENTITY leaveMsgsOnSrvr.label "Berichten op de server laten">
+<!ENTITY leaveMsgsOnSrvr.accesskey "l">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Voer de inkomende gebruikersnaam in die u van uw e-mailprovider hebt gekregen (bijvoorbeeld ‘jsmit’).">
 <!ENTITY incomingUsername.label "Gebruikersnaam:">
@@ -76,10 +76,6 @@
 <!ENTITY outgoingUsername.label "Uitgaande gebruikersnaam:">
 <!ENTITY outgoingUsername.accesskey "U">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
--->
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
@@ -90,7 +86,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, ‘">
 <!ENTITY haveSmtp1.suffix3 "’, zal worden gebruikt.">
-
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.

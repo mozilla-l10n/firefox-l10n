@@ -5,10 +5,10 @@
 <!ENTITY pane.title                   "Leesbevestigingen">
 <!ENTITY useGlobalPrefs.label         "Mijn algemene leesbevestigingsinstellingen gebruiken voor deze account">
 <!ENTITY useGlobalPrefs.accesskey     "M">
-<!ENTITY useCustomPrefs.label         "Leesbevestigingen voor deze account aanpassen">
-<!ENTITY useCustomPrefs.accesskey     "L">
 <!ENTITY globalReceipts.label         "Algemene instellingen…">
 <!ENTITY globalReceipts.accesskey     "g">
+<!ENTITY useCustomPrefs.label         "Leesbevestigingen voor deze account aanpassen">
+<!ENTITY useCustomPrefs.accesskey     "L">
 <!ENTITY requestReceipt.label         "Altijd een leesbevestiging vragen bij het verzenden van berichten">
 <!ENTITY requestReceipt.accesskey     "A">
 <!ENTITY receiptArrive.label          "Als een leesbevestiging binnenkomt:">
