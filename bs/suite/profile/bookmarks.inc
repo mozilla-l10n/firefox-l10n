@@ -24,41 +24,55 @@
 
 # LOCALIZATION NOTE (mozilla_org_long):
 # link title for http://www.mozilla.org/ (in normal bookmarks)
+#define mozilla_org_long Mozilla organizacija
 
 # LOCALIZATION NOTE (mozilla_projects):
 # link title for http://www.mozilla.org/projects/
+#define mozilla_projects Mozilla projekti
 
 # LOCALIZATION NOTE (mozilla_about):
 # link title for http://www.mozilla.org/about/
+#define mozilla_about O Mozilli
 
+#define extend_seamonkey Prilagodite SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_addons):
 # link title for https://addons.mozilla.org/en-US/seamonkey/
+#define seamonkey_addons SeaMonkey dodaci
 
 # LOCALIZATION NOTE (seamonkey_themes):
 # link title for https://addons.mozilla.org/en-US/seamonkey/themes
+#define seamonkey_themes SeaMonkey teme
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
 # link title for https://addons.mozilla.org/en-US/seamonkey/dictionaries
+#define seamonkey_dictionaries Rječnici za provjeru pravopisa
 
 # LOCALIZATION NOTE (seamonkey_plugins):
 # link title for https://addons.mozilla.org/en-US/seamonkey/plugins
+#define seamonkey_plugins Priključci za SeaMonkey
 
 # LOCALIZATION NOTE (mozdev):
 # link title for http://www.mozdev.org/
+#define mozdev mozdev.org
 
 # LOCALIZATION NOTE (mozdev_seamonkey):
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
+#define mozdev_seamonkey SeaMonkey proširenja sa mozdev.org
 
+#define community_support Zajednica i podrška
 
 # LOCALIZATION NOTE (seamonkey_community):
 # link title for http://www.seamonkey-project.org/community
+#define seamonkey_community SeaMonkey zajednica
 
 # LOCALIZATION NOTE (mozillazine):
 # link title for http://www.mozillazine.org/
+#define mozillazine mozillaZine
 
 # LOCALIZATION NOTE (seamonkey_support):
 # link title for the mozillaZine SeaMonkey Support forum
+#define seamonkey_support SeaMonkey forum podrške (mozillaZine)
 
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
