@@ -230,9 +230,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.cameraBlocked.tooltip            "तपाईँले यो वेबसाइटको लागि आफ्नो क्यामेरा अवरुद्ध गर्नु भएको छ ">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "तपाईँले यो वेबसाइटको लागि आफ्नो माइक्रोफोन अवरुद्ध गर्नु भएको छ">
 <!ENTITY urlbar.screenBlocked.tooltip            "तपाईँले यो वेबसाइटलाई आफ्नो स्क्रिन साझा गर्न अवरुद्ध गर्नु भएको छ।">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "तपाईँले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ । ">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ ।">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "तपाईँले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ।">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ।">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ।">
 <!ENTITY urlbar.popupBlocked.tooltip             "तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|">
 
 
@@ -438,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "टिप:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "चिजहरु खोज्न मद्दत पाउनुहोस् ! खोजी सुझावको छेउमा हुने &#x1F50E; हेर्नुहोस् ।">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "चिजहरु खोज्न मद्दत पाउनुहोस् ! खोजी सुझावको छेउमा हुने &#x1F50E; हेर्नुहोस्।">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "विकल्पहरु परिवर्तन गर्नुहोस्…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "प्राथमिकताहरु परिवर्तन गर्नुहोस्…">
@@ -751,24 +751,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "यो पृष्ठ तपाईँको कम्प्युटरमा भण्डारण छ।">
 <!ENTITY identity.connectionVerified2 "तपाईँ सुरक्षित रूपमा यो साइटमा जोडिनु भएको छ, संचालक:">
 <!ENTITY identity.connectionInternal "यो सुरक्षित &brandShortName; पृष्ठ हो।">
-<!ENTITY identity.extensionPage "यो पृष्ठ एक्स्टेनसन बाट लोड गरिएको हो ।">
+<!ENTITY identity.extensionPage "यो पृष्ठ एक्स्टेनसन बाट लोड गरिएको हो।">
 <!ENTITY identity.insecureLoginForms2 "यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; यस पृष्ठका असुरक्षित भागहरू अवरुद्ध गरिएको छ।">
 <!ENTITY identity.passiveLoaded "यो पृष्ठको भागहरू सुरक्षित छैनन् (जस्तै चित्रहरू)।">
 <!ENTITY identity.activeLoaded "तपाईँले यो पृष्ठमा संरक्षण अक्षम गर्नुभएको छ।">
-<!ENTITY identity.weakEncryption "यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ ।">
+<!ENTITY identity.weakEncryption "यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ।">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "तपाईँको जडान सुरक्षित छैन। तपाईँले यो साइटमा दिएको जानकारी (जस्तै गोप्यशब्दहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरूले पनि देख्न सक्छन्।">
 <!ENTITY identity.description.insecureLoginForms "तपाईँ यो पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
-<!ENTITY identity.description.weakCipher "यो वेवसाइटसँगको तपाईँको जडान कमजोर इन्क्रिप्सन प्रयोग गर्छ र जडान सुरक्षित छैन ।">
-<!ENTITY identity.description.weakCipher2 "अरू मानिसहरूले तपाईँको जानकारी हेर्नसक्छन् र वेबसाइटको व्यवहार परिवर्तन गर्न सक्छन् ।">
+<!ENTITY identity.description.weakCipher "यो वेवसाइटसँगको तपाईँको जडान कमजोर इन्क्रिप्सन प्रयोग गर्छ र जडान सुरक्षित छैन।">
+<!ENTITY identity.description.weakCipher2 "अरू मानिसहरूले तपाईँको जानकारी हेर्नसक्छन् र वेबसाइटको व्यवहार परिवर्तन गर्न सक्छन्।">
 <!ENTITY identity.description.activeBlocked "&brandShortName; यस पृष्ठका असुरक्षित भागहरू अवरुद्ध गरिएको छ।">
-<!ENTITY identity.description.passiveLoaded "तपाईँको जडान सुरक्षित छैन र तपाईँले आदान प्रदान गर्ने जानकारी अरुले पनि हेर्न सक्छन् ।">
-<!ENTITY identity.description.passiveLoaded2 "यो वेबसाइटमा सामग्री जुन सुरक्षित छैन( जस्तै तस्विरहरू)।">
-<!ENTITY identity.description.passiveLoaded3 "&brandShortName; मा रहेका केही सामग्रीहरू रोकिएको भए पनि त्यहाँ असुरक्षित सामग्री (जस्तै तस्विरहरू) छन् ।">
+<!ENTITY identity.description.passiveLoaded "तपाईँको जडान सुरक्षित छैन र तपाईँले आदान प्रदान गर्ने जानकारी अरुले पनि हेर्न सक्छन्।">
+<!ENTITY identity.description.passiveLoaded2 "यो वेबसाइटमा सामग्री सुरक्षित छैन (जस्तै तस्विरहरू)।">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; मा रहेका केही सामग्रीहरू रोकिएको भए पनि त्यहाँ असुरक्षित सामग्री (जस्तै तस्विरहरू) छन्।">
 <!ENTITY identity.description.activeLoaded "यो वेबसाइटमा सुरक्षित सामग्री छैन (जस्तै स्क्रिप्टहरू) र तपाईँको जडान निजी पनि छैन। ">
 <!ENTITY identity.description.activeLoaded2 "तपाईँले यो साइटमा दिएको जानकारी (जस्तै गोप्यशब्दहरू, सन्देशहरू, क्रेडिट कार्डहरू, अादि) अरूले पनि देख्न सक्छन्।">
 
@@ -842,7 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "तपाईँको मनपर्ने वस्तुहरू उपकरणपट्टी वा ओभरफ्लो मेनुमा तान्नुहोस् ।">
+<!ENTITY customizeMode.menuAndToolbars.header3 "तपाईँको मनपर्ने वस्तुहरू उपकरणपट्टी वा ओभरफ्लो मेनुमा तान्नुहोस्।">
 <!ENTITY customizeMode.restoreDefaults "पूर्वानिर्धारीत स्थितीमा फर्किनुहोस्">
 <!ENTITY customizeMode.done "सम्पन्न भयो">
 <!ENTITY customizeMode.titlebar "शीर्षक बार">
@@ -949,26 +949,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM बारे थप जान्नुहोस्">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "नविनतम गति र गोपनियताको लागि &brandShorterName; अद्यावधिक गर्नुहोस ।">
-<!ENTITY updateAvailable.whatsnew.label "नयाँ के छ हेर्नुहोस् ।">
-<!ENTITY updateAvailable.header.message "नयाँ &brandShorterName; अद्यावधिक उपलब्ध छ ।">
+<!ENTITY updateAvailable.message "नविनतम गति र गोपनियताको लागि &brandShorterName; अद्यावधिक गर्नुहोस्।">
+<!ENTITY updateAvailable.whatsnew.label "नयाँ के छ हेर्नुहोस्।">
+<!ENTITY updateAvailable.header.message "नयाँ &brandShorterName; अद्यावधिक उपलब्ध छ।">
 <!ENTITY updateAvailable.acceptButton.label "अद्यावधिक डाउनलोड गर्नुहोस्">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "अहिले होइन">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; को अद्यावधिक डाउनलोड गर्नुहोस्">
 
-<!ENTITY updateManual.message "&brandShorterName; को ताजा प्रतिलिपि डाउनलोड गर्नुहोस र त्यो स्थापना गर्न हामी मद्दत गर्नेछौँ ।">
-<!ENTITY updateManual.whatsnew.label "नयाँ के छ हेर्नुहोस् ।">
-<!ENTITY updateManual.header.message "&brandShorterName; नविनतम संस्करणमा अद्यावधिक गर्न सकिँदैन ।">
+<!ENTITY updateManual.message "&brandShorterName; को ताजा प्रतिलिपि डाउनलोड गर्नुहोस र त्यो स्थापना गर्न हामी मद्दत गर्नेछौँ।">
+<!ENTITY updateManual.whatsnew.label "नयाँ के छ हेर्नुहोस्।">
+<!ENTITY updateManual.header.message "&brandShorterName; नविनतम संस्करणमा अद्यावधिक गर्न सकिँदैन।">
 <!ENTITY updateManual.acceptButton.label "&brandShorterName; डाउनलोड गर्नुहोस्">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "अहिले होइन">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; को ताजा प्रतिलिपि डाउनलोड गर्नुहोस्">
 
-<!ENTITY updateRestart.message2 "एक छिटो पुनःसुरु भएपछि, &brandShorterName; ले निजि ब्राउजिङ्ग मोडमा नभएको तपाईँको सबै खुल्ला ट्याबहरू र सञ्झ्यालहरू पुनर्स्थापना गर्नेछ ।">
-<!ENTITY updateRestart.header.message2 "अद्यावधिक गर्न &brandShorterName; पुनः सुचारु गर्नुहोस् ।">
+<!ENTITY updateRestart.message2 "एक छिटो पुनःसुरु भएपछि, &brandShorterName; ले निजि ब्राउजिङ्ग मोडमा नभएको तपाईँको सबै खुल्ला ट्याबहरू र सञ्झ्यालहरू पुनर्स्थापना गर्नेछ।">
+<!ENTITY updateRestart.header.message2 "अद्यावधिक गर्न &brandShorterName; पुनः सुचारु गर्नुहोस्।">
 <!ENTITY updateRestart.acceptButton.label "पुनःसुरु गर्नुहोस र पुर्वावस्थामा ल्याउनुहोस्">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "अहिले होइन">
