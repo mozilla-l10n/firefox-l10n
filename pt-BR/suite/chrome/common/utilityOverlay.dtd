@@ -111,11 +111,11 @@
 <!ENTITY aboutCommPluginsCmd.label			"Sobre os plugins">
 <!ENTITY aboutCommPluginsCmd.accesskey			"l">
 
-<!ENTITY direct.label                                   "Conectado (sem proxy)">
+<!ENTITY direct.label                                   "Conectado (Proxy: nenhum)">
 <!ENTITY direct.accesskey                               "C">
-<!ENTITY manual.label                                   "Conectado (configuração manual de proxy)">
+<!ENTITY manual.label                                   "Conectado (Proxy: manual)">
 <!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "Conectado (servidor proxy automático)">
+<!ENTITY pac.label                                      "Conectado (Proxy: URL automática)">
 <!ENTITY pac.accesskey                                  "a">
 <!ENTITY wpad.label                                     "Conectado (Proxy: detectar automaticamente)">
 <!ENTITY wpad.accesskey                                 "d">
