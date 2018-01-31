@@ -6,4 +6,7 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP rucholb'al k'uxasamaj:">
 <!ENTITY serverDirectory.accesskey "c">
+<!ENTITY usingSubscription.label "Kek'ut pe xa xe ri etz'ib'an taq yakwuj">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "Ri k'uxasamaj yeruk'üt taq yakwuj kik'wan taq achyakwuj chuqa' taq tzijol">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
