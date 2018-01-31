@@ -1,4 +1,5 @@
-54656
+55268
+=======
 a
 ababa/S
 ababillar/RED
@@ -81,8 +82,8 @@ abatanado/S
 abatanar/RED
 ábate
 abatir/REDÀÁÂñT
-abdicación/S
-abdicar/RED
+abc
+abdicar/REDA
 abdicativamente
 abdicativo/GS
 abdomen/S
@@ -96,6 +97,7 @@ abedul/S
 abejar/S
 abejaruco/S
 abeja/S
+abejeo/S
 abejero/GS
 abejón/S
 abejorrear/RED
@@ -110,7 +112,6 @@ abenuz/S
 aberración/S
 aberrantemente
 aberrante/S
-aberrar/RED
 abertal/S
 abertura/S
 abertzale/S
@@ -147,7 +148,7 @@ abismar/REDÁÅñò
 abismo/S
 abitar/RED
 abizcochado/SG
-abjurar/RED
+abjurar/REDA
 ablación/S
 ablandabrevas
 ablandador/GS
@@ -232,8 +233,7 @@ abolsar/RED
 abombado/GS
 abombamiento/S
 abombar/RED
-abominación/S
-abominar/REDT
+abominar/REDTA
 abonado/GS
 abonador/GS
 abonanzar/RED
@@ -321,14 +321,13 @@ abrevadero/S
 abrevador/GS
 abrevador/S
 abrevar/RED
-abreviación/S
 abreviadamente
 abreviado/GS
 abreviador/GS
 abreviador/S
 abreviaduría/S
 abreviamiento/S
-abreviar/REDÀÁ
+abreviar/REDÀÁA
 abreviatura/S
 abridero/GS
 abridero/S
@@ -351,7 +350,7 @@ abrir/REÀÁÂÃÄÅÆñò
 abrochador/S
 abrochamiento/S
 abrochar/REDÁÂÃÅñòôø
-abrogar/REDÀ
+abrogar/REDÀA
 abrojo/S
 abromar/RED
 abroncar/REDÂ
@@ -365,6 +364,7 @@ abruptamente
 abrupto/GS
 abrutado/GS
 abruzar/RED
+ABS
 absceso/S
 abscisa/S
 absconder
@@ -374,6 +374,8 @@ absentismo/S
 absolución/S
 absolutamente
 absoluta/S
+absolutez
+absolutidad
 absolutismo/S
 absolutista/S
 absoluto/GS
@@ -436,6 +438,7 @@ aburelado/SG
 aburguesamiento/S
 aburguesar/RED
 aburrar/RED
+aburrición/S
 aburridamente
 aburrido/GS
 aburridor/GS
@@ -474,6 +477,7 @@ acachorrar
 acaciano/GS
 acacia/S
 academia/S
+académicamente
 academicismo/S
 academicista/S
 académico/GS
@@ -655,7 +659,7 @@ acelerado/GS
 acelerador/GS
 acelerador/S
 aceleramiento/S
-acelerar/REDÀÄ
+acelerar/REDÀÄA
 acelga/S
 acemilar/S
 acémila/S
@@ -687,6 +691,7 @@ acequiero/S
 acerado/GS
 acerado/S
 acerar/RED
+acerar/REDA
 acera/S
 acerbidad/S
 acerbo/GS
@@ -701,12 +706,14 @@ acerolo/S
 acerosamente
 acerrojar/RED
 acertada/h
+acertadísimo/GS
 acertado/hGS
 acertador/SG
 acertamiento/S
 acertar/IRDÀÂ
 acertijo/S
 aceruelo/S
+acetamida/S
 acetar
 acetato/sS
 acético/GS
@@ -748,6 +755,7 @@ achicamiento/S
 achicar/REDÀÁÂñ
 achicharradero/S
 achicharrar/REDÀ
+achicorero/GS
 achiguar/RED
 achinar/REDÂ
 achique/S
@@ -801,14 +809,13 @@ acimut
 acimutal/S
 acimutes
 acinturar/RED
-aclamación/S
+acitrón/S
 aclamador/GS
-aclamar/REDÀÁÂÆ
-aclaración/S
+aclamar/REDÀÁÂÆA
 aclarado/GS
 aclarador/GS
 aclarado/S
-aclarar/REDÀÁÂÃÄÅÆÍÎÙÚÛñòôø
+aclarar/REDÀÁÂÃÄÅÆÍÎÙÚÛñòôøA
 aclaratorio/GS
 aclarecer/IRD
 aclareo/S
@@ -856,20 +863,20 @@ acollarar/RED
 acollar/RED
 acollonar/RED
 acombar/RED
+acomedido/GS
 acomendar
 acometedor/GS
 acometer/REDÀÁÂ
 acometida/S
 acometimiento/S
 acometividad/S
-acomodación/S
 acomodada/h
 acomodadizo/GS
 acomodado/GS
 acomodado/hGS
 acomodador/GS
 acomodamiento/hS
-acomodar/REDÀÁÂÄÅÆñòôøT
+acomodar/REDÀÁÂÄÅÆñòôøTA
 acomodaticio/GS
 acomodo/hS
 acompañamiento/S
@@ -1009,7 +1016,7 @@ acrianzar/RED
 acribar/RED
 acribillar/REDÁÂÄÅ
 acrílico/SG
-acriminar/RED
+acriminar/REDA
 acrimonia/S
 acriollar/RED
 acrisolador/GS
@@ -1042,14 +1049,13 @@ actinomorfo/GS
 actinota/S
 actitudinal/S
 actitud/S
-activación/S
 activa/flkp
 activamente
-activar/REDÀ
+activar/REDÀA
 actividad/kS
 activismo/S
 activista/S
-activo/pGSflk
+activo/opGSflk
 activo/pS
 actor/pS
 acto/Sj
@@ -1057,6 +1063,7 @@ actriz/S
 actuación/S
 actualidad/S
 actualización/S
+actualizado/GSh
 actualizador/SG
 actualizar/REDÀÁÄTñ
 actualmente
@@ -1102,19 +1109,17 @@ acuífero/SG
 acuitar/RED
 acular/RED
 acullá
-aculturación/S
 acultural/S
-acumulación/S
+aculturar/REDA
 acumulador/GS
 acumulador/S
 acumulado/S
 acumulamiento/S
-acumular/REDÀÄT
+acumular/REDÀÄTA
 acumulativo/GS
 acunar/REDÀÁÄ
 acuntir
-acuñación/S
-acuñar/REDÀ
+acuñar/REDÀA
 acuosidad/S
 acuoso/GS
 acupresión/S
@@ -1247,18 +1252,15 @@ aditamento/S
 aditivo/GS
 aditivo/S
 adive/S
-adivinación/S
 adivinador/GS
 adivinamiento/S
 adivinanza/S
-adivinar/REDÀÁÂÄÅÆÌÙñò
-adjetivación/S
+adivinar/REDÀÁÂÄÅÆÌÙñòA
 adjetival/S
-adjetivar/REDÀ
+adjetivar/REDÀA
 adjetivo/GS
-adjudicación/S
 adjudicador/GS
-adjudicar/REDÀÁÂÃÄÅÆñò
+adjudicar/REDÀÁÂÃÄÅÆñòA
 adjudicatario/GS
 adjuntar/REDÂÆ
 adjunta/S
@@ -1267,16 +1269,14 @@ adjurar
 adjutor/fGS
 adjutor/GS
 adminicular/RED
-administración/S
 administrador/GS
 administrado/SG
-administrar/REDÀÁÂÃÄÆñ
+administrar/REDÀÁÂÃÄÆñA
 administrativamente
 administrativo/GS
 admirablemente
-admiración/S
 admirador/GS
-admirar/REDÀÁÂÄÅÆñòT
+admirar/REDÀÁÂÄÅÆñòTA
 admirativo/SG
 admisibilidad/S
 admisible/kS
@@ -1313,9 +1313,9 @@ adoptante/S
 adoptar/REDÀÁÄ
 adoptivo/GS
 adoquinar/RED
-adoración/S
+adoquín/S
 adorador/SG
-adorar/REDÀÁÂÄÅÆT
+adorar/REDÀÁÂÄÅÆTA
 adoratorio/S
 adoratriz/S
 adormecedor/GS
@@ -1354,6 +1354,7 @@ adrizar/RED
 adscribir/REÀÂÄ
 adscripción/S
 adscrito/GS
+ADSL
 adsorber/RED
 adstringir/RED
 aduana/S
@@ -1364,16 +1365,15 @@ aducir/XD
 aductor/GS
 adueñar/REDñò
 adujar/RED
-adulación/S
 adulador/GS
 adularia/S
-adular/REDÀÁÂ
+adular/REDÀÁÂA
 adulatorio/GS
 adulciguar/RED
 adulcir/RED
 adulón/GS
 adulterador/GS
-adulterar/REDÀ
+adulterar/REDÀA
 adulterino/GS
 adulterio/S
 adúltero/SG
@@ -1381,8 +1381,8 @@ adultez/S
 adulto/GS
 adulzar/RED
 adulzorar/RED
-adumbrar/RED
-adunar/RED
+adumbrar/REDA
+adunar/REDA
 adustez/S
 adusto/GS
 adv
@@ -1395,7 +1395,7 @@ adventicio/SG
 adventismo/S
 adventista/S
 adverado/S
-adverar/RED
+adverar/REDA
 adverbialización/S
 adverbializar/RED
 adverbial/S
@@ -1494,10 +1494,9 @@ afeite/S
 afelio/S
 afelpado/GS
 afelpar/RED
-afeminación/S
 afeminado/GS
 afeminamiento/S
-afeminar/RED
+afeminar/REDA
 aferente/S
 aferir
 aferrador/SG
@@ -1519,6 +1518,7 @@ aficionar/REDÁÂñô
 afición/S
 afiebrar/RED
 afielar/RED
+afijar/REDA
 afiladera/S
 afilado/GS
 afilador/GS
@@ -1527,22 +1527,20 @@ afiladura/S
 afilamiento/S
 afilar/REDÀ
 afiliado/GS
-afiliar/REDÀÁñ
+afiliar/REDÀÁñA
 afiligranar/RED
 afilo/SG
 áfilo/SG
-afinación/S
 afinador/GS
 afinadura/S
-afinar/REDÀÁÄ
+afinar/REDÀÁÄA
 afinar/REDÀÁÄñ
 afincar/REDÁñ
 afinidad/S
 afín/S
-afirmación/S
 afirmador/SG
 afirmado/S
-afirmar/REDÀÁÂÄÅñò
+afirmar/REDÀÁÂÄÅñòA
 afirmativamente
 afirmativa/S
 afirmativo/SG
@@ -1559,10 +1557,9 @@ afligidamente
 afligir/REDÁñ
 aflojamiento/S
 aflojar/REDÀÁÂÌÍÙñø
-afloración/S
 aflorado/S
 afloramiento/S
-aflorar/REDÀ
+aflorar/REDÀA
 afluentemente
 afluente/Ss
 afluir/IRD
@@ -1611,6 +1608,7 @@ afrikáans
 afroamericano/GS
 afroantillano/GS
 afrocubano/GS
+afrodescendiente/S
 afrodisíaco/GS
 afrodita/S
 afronitro/S
@@ -1647,6 +1645,7 @@ agarre/S
 agarrochador/S
 agarrochar/RED
 agarrochear
+agarrón/S
 agarrotamiento/S
 agarrotar/RED
 agasajado/GS
@@ -1656,6 +1655,7 @@ agasajo/S
 ágata/S
 agatino/GS
 agatizar/RED
+agave/S
 agavillar/RED
 agazapar/RED
 agenciar/REDÁÃñ
@@ -1680,12 +1680,10 @@ agitado/GS
 agitador/GS
 agitanar/RED
 agitar/REDÀÂÄÅÆÌòT
-aglomeración/S
 aglomerante/S
-aglomerar/RED
-aglutinación/S
+aglomerar/REDA
 aglutinante/S
-aglutinar/REDÀÄ
+aglutinar/REDÀÄA
 agnación/S
 agnus
 agnusdéi/S
@@ -1739,11 +1737,10 @@ agrandar/REDÀÁÄñ
 agrario/GS
 agrarismo/S
 agrarista/S
-agravación/S
 agravador/GS
 agravamiento/S
 agravante/S
-agravar/REDÀÂ
+agravar/REDÀÂA
 agravatorio/GS
 agraviador/SG
 agraviamiento/S
@@ -1755,11 +1752,10 @@ agraz/S
 agrear
 agredido/GS
 agredir/REDÀÁÂÄÆ
-agregación/S
 agregado/GS
-agregar/REDÀÁÂÄÆÌÎÏÙÛñø
+agregar/REDÀÁÂÄÆÌÎÏÙÛñøA
 agregativo/SG
-agremiar/RED
+agremiar/REDA
 agresión/S
 agresivamente
 agresividad/S
@@ -1787,10 +1783,9 @@ agrisado/GS
 agrisar/RED
 agropecuario/SG
 agrumar/RED
-agrupación/S
 agrupador/SG
 agrupamiento/pS
-agrupar/REDÀÁÄñT
+agrupar/REDÀÁÄñTA
 aguacatal/S
 aguacate/NS
 aguacate/S
@@ -1989,8 +1984,7 @@ aindiar/RED
 airadamente
 airada/S
 airar/IRD
-aireación/S
-airear/REDÀÁÄñ
+airear/REDÀÁÄñA
 aire/hS
 airón/S
 airosamente
@@ -2073,7 +2067,7 @@ ajustado/GS
 ajustador/S
 ajustador/SG
 ajustamiento/S
-ajustar/REDÀÁÂÃÄÅÆñòôT
+ajustar/REDÀÁÂÃÄÅÆñòôTÛ
 ajuste/Sp
 ajusticiamiento/S
 ajusticiar/REDÀ
@@ -2316,6 +2310,7 @@ alcalizar/RED
 alcaloideo/GS
 alcaloide/S
 alcalosis
+alcana/S
 alcance/S
 alcancía/S
 alcándara/S
@@ -2323,6 +2318,7 @@ alcanforada/S
 alcanforar/RED
 alcanforero/S
 alcanfor/S
+alcano/S
 alcántara/S
 alcantarillar/RED
 alcantarilla/S
@@ -2406,10 +2402,11 @@ alderredor
 aldino/GS
 aldiza/S
 aldohexosa/S
+aldopentosa/S
 aldorta/S
 ale
-aleación/S
 alear/RED
+alear/REDA
 aleatoriedad/S
 aleatorio/SG
 alebrar/IRD
@@ -2431,10 +2428,9 @@ aledaño/SG
 aleda/S
 alefangina/S
 alefriz/S
-alegación/S
 alegamar/RED
 aleganar/RED
-alegar/REDÀ
+alegar/REDÀA
 alegato/S
 alegoría/S
 alegórico/GS
@@ -2507,6 +2503,7 @@ alezo/S
 alfabeta/a
 alfabéticamente
 alfabético/GS
+alfabetizable/S
 alfabetización/S
 alfabetizar/RED
 alfabeto/S
@@ -2667,9 +2664,9 @@ alícuota/S
 alidada/S
 alidona/S
 alienable/kS
-alienación/S
 alienante/S
-alienar/REDÀ
+alienar/REDÀA
+alienígena/S
 alienista/S
 aliento/rSh
 alifafe/S
@@ -2698,8 +2695,7 @@ alimpiar
 alindamiento/S
 alindar/RED
 alinderar/RED
-alineación/S
-alinear/REDÀÁÂÄñ
+alinear/REDÀÁÂÄñA
 aliñada/h
 aliñado/hGS
 aliñar/REDÀÄÌ
@@ -2786,6 +2782,7 @@ almajaneque/S
 almajara/S
 almaja/S
 almalafa/S
+almanaquero/GS
 almanaque/S
 almandino/S
 alma/NS
@@ -2920,6 +2917,7 @@ alquería/S
 alquez/S
 alquibla/S
 alquicel/S
+alquilación
 alquilador/GS
 alquilamiento/S
 alquilar/REDÀÁÂÃÄñT
@@ -2961,25 +2959,22 @@ altear/RED
 altea/S
 alterabilidad/kS
 alterable/Sk
-alteración/S
 alteradizo/GS
 alterador/GS
 alterado/S
 alterante/S
-alterar/REDÀÁÂÄñ
+alterar/REDÀÁÂÄñA
 alterativo/SG
-altercación/S
 altercador/GS
 altercado/S
-altercar/RED
+altercar/REDA
 alteridad/S
-alternación/S
 alternadamente
 alternado/GS
 alternador/S
 alternancia/S
 alternante/S
-alternar/REDÀÄ
+alternar/REDÀÄA
 alternativamente
 alternativa/S
 alternativo/GS
@@ -3017,11 +3012,10 @@ altura/S
 alubiar/S
 alubia/S
 aluciar
-alucinación/S
 alucinador/GS
 alucinamiento/S
 alucinante/S
-alucinar/RED
+alucinar/REDA
 alucinatorio/GS
 alucinógeno/SG
 aludido/GS
@@ -3108,11 +3102,10 @@ amajanar/RED
 ámalas
 amalecita/S
 amalfitano/GS
-amalgamación/S
 amalgamador/GS
 amalgamador/S
 amalgamamiento/S
-amalgamar/REDÀÄ
+amalgamar/REDÀÄA
 amalgama/S
 amallar/RED
 ámalo
@@ -3237,6 +3230,8 @@ ambivalente/S
 amblar/RED
 ambleo/S
 ambligonio/S
+ambliope/S
+ambliopía/S
 ambos
 ambo/S
 ambrollar
@@ -3297,7 +3292,10 @@ amercendearse
 amerengado/SG
 América
 americanada/S
+americanismo/S
 americanista/S
+americanística
+americanístico/GS
 americanizar/RED
 americano/GS
 amerindio/SG
@@ -3342,7 +3340,7 @@ amillaramiento/S
 amillarar/RED
 aminar/RED
 aminoácido/S
-aminorar/REDÀ
+aminorar/REDÀA
 amistad/S
 amistar/REDÁñ
 amistosamente
@@ -3377,7 +3375,7 @@ amollador/GS
 amollar/RED
 amollentar/RED
 amonar/RED
-amonedar/RED
+amonedar/REDA
 amonestación/S
 amonestador/GS
 amonestamiento/S
@@ -3386,6 +3384,7 @@ amoniacal/S
 amoniaco/S
 amónico/SG
 amonio/S
+amoniotélico/GS
 amonita/S
 amonites
 amontadgar
@@ -3443,18 +3442,17 @@ amparar/REDÀÁÂÄÅÍñò
 amparo/hS
 ampelita/S
 ampere/S
+amperímetro/S
 amperio/S
 amplexo/S
-ampliación/S
 ampliador/GS
 ampliamente
-ampliar/IRDÀÁÂÄÆT
+ampliar/IRDÀÁÂÄÆTA
 ampliativo/SG
 ampliatorio/SG
-amplificación/S
 amplificador/GS
 amplificador/S
-amplificar/REDÀ
+amplificar/REDÀA
 amplificativo/GS
 amplio/GS
 amplitud/S
@@ -3754,6 +3752,7 @@ aneroide/S
 anestesiar/REDÀÅ
 anestesia/S
 anestésico/GS
+anestesiólogo/GS
 anestesista/S
 aneurisma/S
 anexar/REDÀÁÂÆ
@@ -3804,6 +3803,7 @@ anglesita/S
 anglicanismo/S
 anglicano/GS
 anglicismo/S
+angloamericanismo/S
 angloamericano/SG
 anglohablante/S
 angloparlante/S
@@ -3839,16 +3839,15 @@ angustiar/REDÁÂñ
 angustia/S
 angustioso/GS
 anhelante/S
-anhelar/REDÀ
+anhelar/REDÀA
 anhelo/S
 anheloso/GS
 anhídrido/SG
 anhidrita/S
 anhidro/GS
 anhidrosis
-anidación/S
 anidamiento/S
-anidar/RED
+anidar/REDA
 anieblar/RED
 aniego/S
 aniejar
@@ -3857,7 +3856,6 @@ anillado/GS
 anillado/S
 anillar/RED
 anilla/S
-animación/pS
 animada/kh
 animadamente
 animado/hSGk
@@ -3870,7 +3868,7 @@ animalidad/S
 animalizar/RED
 animal/S
 animalucho/S
-animar/REDÀÁÂÄÅÆÎñòôø
+animar/pREDÀÁÂÄÅÆÎñòôøA
 ánima/S
 animero/S
 anímico/GS
@@ -3883,10 +3881,9 @@ animoso/GS
 aniñado/GS
 aniñar/RED
 anión
-aniquilación/S
 aniquilador/GS
 aniquilamiento/S
-aniquilar/REDñT
+aniquilar/REDñTA
 anisado/GS
 anisado/S
 anisal/S
@@ -3911,10 +3908,11 @@ anofeles
 anomalía/S
 anomalístico/GS
 anómalo/GS
+anomia/S
 anomuro/S
-anonadación/S
 anonadamiento/S
-anonadar/RED
+anonadar/REDA
+anónimamente
 anonimato/S
 anonimia/S
 anónimo/S
@@ -3923,6 +3921,7 @@ ano/NS
 anón/S
 anopluro/S
 anorexia/S
+anormalmente
 anormal/S
 anorza/S
 anotador/GS
@@ -3942,6 +3941,7 @@ anseriforme/S
 ansiar/IRDÅò
 ansia/S
 ansiedad/S
+ansiogénico/GS
 ansiolítico/GS
 ansiolítico/S
 ansiosamente
@@ -3979,6 +3979,7 @@ antepasado/GS
 antepasado/S
 antepón
 anteponer/XÀÂÈÊ
+antepuesto/GS
 antequerano/GS
 antera/S
 anterioridad/S
@@ -3999,17 +4000,17 @@ anticariense/S
 anticarro
 anticelulítico/GS
 anticelulítico/S
-anticipación/S
 anticipadamente
 anticipada/S
 anticipador/GS
 anticipado/S
 anticipamiento/S
 anticipante/S
-anticipar/REDÀñò
+anticipar/REDÀñòA
 anticlinal/S
 anticomercial/S
 anticongelante/S
+anticontaminación/S
 anticorrosivo/S
 anticresis
 anticresista/S
@@ -4017,6 +4018,7 @@ anticrisis
 anticuado/GS
 anticuario/GS
 anticuar/IRD
+anticuark/S
 antidepresivo/GS
 antidepresivo/S
 antidisturbios
@@ -4046,16 +4048,21 @@ antihistamínico/S
 antihorario/GS
 antiinflamatorio/GS
 antiinflamatorio/S
+antillanismo/S
+antillano/GS
 Antillas
 antílope/S
+antimateria
 antimicrobiano/GS
 antimonial/S
 antimonio/S
 antimonita/S
 antimonopólico/GS
 antiniebla/S
+antinodo/S
 antinomia/S
 antipara/S
+antipartícula/S
 antipatía/S
 antipático/GS
 antipatizar/RED
@@ -4125,6 +4132,7 @@ antropoideo/SG
 antropoide/S
 antropología/S
 antropológico/SG
+antropólogo/GS
 antropomórfico/GS
 antropomorfismo/S
 antropomorfita/S
@@ -4149,18 +4157,16 @@ anudamiento/S
 anudar/REDÀÄÆñ
 anuencia/S
 anuente/S
-anulación/S
 anulador/GS
-anular/REDÀÁÄñT
+anular/REDÀÁÄñTA
 anular/S
 anulativo/GS
 anulete/S
 anuloso/GS
 anumerar
-anunciación/S
 anunciador/GS
 anunciante/S
-anunciar/REDÀÁÂÃÄÅÆÌÍÎ
+anunciar/REDÀÁÂÃÄÅÆÌÍÎA
 anuo/GS
 anuria/S
 anuro/GS
@@ -4336,10 +4342,10 @@ apegar/REDñ
 apego/hS
 apegualar/RED
 apelable/Sk
-apelación/S
 apelambrar/RED
 apelante/S
 apelar/RED
+apelar/REDA
 apelativo/S
 apelativo/SG
 apeligrar
@@ -4449,10 +4455,9 @@ aplazar/REDÄ
 aplebeyar/RED
 aplicabilidad/S
 aplicable/kS
-aplicación/S
 aplicada/hk
 aplicado/hkSG
-aplicar/REDÀÁÂÃÄÅÆÙñòôø
+aplicar/REDÀÁÂÃÄÅÆÙñòôøA
 aplicativo/SG
 aplique/S
 aplomado/GS
@@ -4488,6 +4493,7 @@ apologética/S
 apologético/GS
 apología/S
 apologista/S
+apolo/S
 apoltronamiento/S
 apoltronar/RED
 apolvillar/RED
@@ -4529,12 +4535,13 @@ apostar/REIDÁÀñòñò
 apostasía/S
 apostatar/RED
 apóstata/S
-apostemar/RED
+apostemar/REDA
 apostillar/RED
 apostolado/S
 apostólico/GS
 apóstol/S
 apostrofar/RED
+apóstrofe/S
 apóstrofo/S
 apotegma/S
 apotema/S
@@ -4546,8 +4553,7 @@ apoyar/REDÀÁÂÄÅÆñòôø
 apozar/RED
 apreciabilidad/S
 apreciable/Sk
-apreciación/S
-apreciar/REDÀÂñø
+apreciar/REDÀÂñøA
 apreciativamente
 apreciativo/GS
 aprehender/REDÀÁ
@@ -4570,10 +4576,9 @@ apresador/GS
 apresamiento/S
 apresar/REDÀÁÂÄ
 aprestar/REDñôø
-apresuración/S
 apresuradamente
 apresuramiento/S
-apresurar/REDÁÅñòôø
+apresurar/REDÁÅñòôøA
 apretadamente
 apretadera/S
 apretadero/S
@@ -4596,19 +4601,17 @@ aprisa
 apriscar/RED
 aprisionar/REDÀÁÄÆ
 aproar/RED
-aprobación/hS
 aprobado/S
-aprobar/IRDÀÂÄ
+aprobar/hIRDÀÂÄA
 aproches/v
 aprodar
 aprometer
 aprontamiento/S
 aprontar/RED
 apropiable/kS
-apropiación/S
 apropiadamente
 apropiador/GS
-apropiar/REDÁÃÅÇñò
+apropiar/REDÁÃÅÇñòA
 apropincuar/RED
 aprovecer
 aprovechada/k
@@ -4620,10 +4623,9 @@ aprovechar/REDÀÁÄÅÌÙñòôøT
 aprovisionamiento/S
 aprovisionar/REDÁ
 aprox
-aproximación/S
 aproximadamente
 aproximado/GS
-aproximar/REDñòôø
+aproximar/REDÀñòôøA
 aproximativo/SG
 aptar
 áptero/GS
@@ -4647,7 +4649,7 @@ apuracabos
 apurador/GS
 apurado/SG
 apuramiento/S
-apurar/REDÀÁÂÅÛñòôø
+apurar/REDÀÁÂÅÛñòôøA
 aquedar
 aquejar/RED
 aquel
@@ -4790,6 +4792,7 @@ arcedo/S
 arcén/S
 arce/S
 archa/S
+arché
 archero/S
 archibruto/GS
 archicofrade/S
@@ -4838,7 +4841,7 @@ arecer
 arelar/RED
 arenal/S
 arena/NS
-arenar/RED
+arenar/REDA
 arencar/RED
 arenero/GS
 arengador/GS
@@ -4890,7 +4893,7 @@ argumentario/S
 argumentar/REDÀÂÆ
 argumentativo/GS
 argumentista/S
-argumento/S
+argumento/Sv
 aria/S
 aricar/RED
 aridecer/IRD
@@ -4920,9 +4923,11 @@ aristoloquiácea/S
 aristoloquiáceo/SG
 aristoloquia/S
 aristoso/GS
+Aristóteles
 aristotélico/GS
 aristotelismo/S
 aritmético/GS
+arjé
 arlar/RED
 arlequinesco/GS
 arlequín/S
@@ -4967,6 +4972,7 @@ armónico/GS
 armonio/S
 armoniosamente
 armonioso/GS
+armonizador/GS
 armonizar/REDÀÄT
 armoricano/GS
 armuelle/S
@@ -5074,7 +5080,7 @@ arrebatadamente
 arrebatadizo/GS
 arrebatador/GS
 arrebatamiento/S
-arrebatar/REDÀÁÃÄñò
+arrebatar/REDÀÁÃÄÂñò
 arrebatarse
 arrebato/S
 arrebolar/RED
@@ -5227,7 +5233,7 @@ arrodrigonar/RED
 arrogancia/S
 arrogantemente
 arrogante/S
-arrogar/REDñ
+arrogar/REDñA
 arrojadizo/GS
 arrojado/GS
 arrojador/GS
@@ -5261,7 +5267,7 @@ arruar/IRD
 arruchar/RED
 arrufar/RED
 arrugamiento/S
-arrugar/REDÁñ
+arrugar/REDÁñA
 arruga/S
 arruinado/GS
 arruinador/GS
@@ -5274,6 +5280,7 @@ arrumaje/S
 arrumar/RED
 arrumbamiento/S
 arrumbar/REDÀ
+arrumbar/REDÀA
 arrunflar/RED
 arrusticar/RED
 arrutar/RED
@@ -5310,14 +5317,13 @@ artesonado/S
 artesonado/SG
 artesonar/RED
 ártico/GS
-articulación/S
 articulada/k
 articulado/kGS
 articulador/GS
 articulado/S
 articulario/GS
 articular/lS
-articular/REDÀÄ
+articular/REDÀÄA
 articulatorio/SG
 articulista/S
 artículo/S
@@ -5348,6 +5354,9 @@ artrítico/GS
 artritis
 artritismo/S
 artrópodo/S
+artroscopia/S
+artroscopía/S
+artroscopio/S
 artrosis/i
 Arturo
 Aruba
@@ -5434,7 +5443,7 @@ aseguradamente
 asegurador/GS
 asegurado/SG
 aseguramiento/S
-asegurar/REDÀÁÂÄÌñòôøT
+asegurar/REDÀÁÂÄÌñòôøTA
 aselar/RED
 asemejar/REDÀÁÂÄñ
 asemillar/RED
@@ -5474,9 +5483,9 @@ asesoría/S
 asestadura/S
 asestar/RED
 asestar/REDÁÂÆ
-aseveración/S
-aseverar/REDÀ
+aseverar/REDÀA
 aseverativo/SG
+asexualmente
 asfaltar/RED
 asfáltico/SG
 asfalto/S
@@ -5486,23 +5495,22 @@ asfixia/S
 así
 Asia
 asiático/GS
-asibilar/RED
+asibilar/REDA
 asidero/S
 asiduamente
 asiduidad/S
 asiduo/GS
 asiento/S
-asignación/S
 asignado/S
-asignar/REDÀÁÂÃÄÆÇT
+asignar/REDÀÁÂÃÄÆÇTA
 asilado/GS
 asilar/REDÀ
 asilvestrado/SG
+asimetría/S
 asimétricas
 asimiento/hS
-asimilación/S
 asimilado/GS
-asimilar/REDÀÁÄñT
+asimilar/REDÀÁÄñTA
 asimilativo/GS
 asimilismo/S
 asimilista/S
@@ -5511,6 +5519,8 @@ asín
 asina
 asíncrono/GS
 asintomático/GS
+asíntota/S
+asintótico/GS
 asirio/S
 asir/IRD
 asir/IRDÀÁÂÄÅÆñò
@@ -5535,17 +5545,16 @@ asobarcar/RED
 asobinar/RED
 asocairar/RED
 asociacionismo/S
-asociación/S
 asociado/GS
 asociamiento/S
-asociar/REDÀÁÂÄÅñòT
+asociar/REDÀÁÂÄÅñòTA
 asociativo/GS
 asoladoramente
 asolador/SG
 asolamiento/S
 asolanar/RED
 asolapar/RED
-asolar/REID
+asolar/REIDA
 asoldadar/RED
 asoldar/RED
 asolear/REDñ
@@ -5593,12 +5602,11 @@ aspidistra/S
 áspid/S
 aspillerar/RED
 aspillera/S
-aspiración/S
 aspirada/S
 aspirado/GS
 aspirador/GS
 aspirante/S
-aspirar/REDÀÄ
+aspirar/REDÀÄA
 aspirina/S
 aspro/S
 asquear/RED
@@ -5610,8 +5618,11 @@ astado/iGS
 astado/S
 asta/S
 astático/GS
+astato
+ástato
 astenia/S
 asterisco/S
+asterismo/S
 asteroide/S
 astero/S
 aster/S
@@ -5634,13 +5645,19 @@ astringencia/S
 astringente/S
 astringir/RED
 astriñir/RED
+astrobiología
+astrofísica
+astrofísico/GS
 astrógrafo/S
 astrolabio/S
 astrolito/S
 astrologar
 astrología/S
 astrólogo/GS
+astrometría/S
 astronauta/S
+astronáutica
+astronáutico/GS
 astronave/S
 astronomía/S
 astronómico/GS
@@ -5737,6 +5754,7 @@ atañó
 atapar
 ataquizar/RED
 atarantar/RED
+ataraxia/S
 atarazar/RED
 atardecer/IRD
 atardecer/S
@@ -5770,7 +5788,7 @@ atelaje/S
 átelos
 áteme
 atemorizar/REDÁÅñò
-atemperar/REDÀ
+atemperar/REDÀA
 atenacear/RED
 atenazar/REDÂÄÅÆ
 atención/hS
@@ -5925,8 +5943,7 @@ atolondramiento/S
 atolondrar/RED
 atolón/S
 atol/S
-atómica/a
-atómico/aSG
+atómico/sSG
 atomir
 atomismo/S
 atomista/aS
@@ -6004,8 +6021,10 @@ atrevido/GS
 atrevimiento/S
 atrezo/S
 atribución/S
+atribuir/IRDÀÁÂÃÈËÊñóT
 atribuir/IRDÀÁÂÃÈËñóT
 atribular/RED
+atribular/REDA
 atributar
 atributivo/GS
 atrilera/S
@@ -6075,7 +6094,7 @@ auge/S
 augita/S
 augmentar
 augurador/SG
-augurar/REDÂÅÆ
+augurar/REDÂÅÆA
 augurio/S
 augur/S
 augustal/S
@@ -6125,6 +6144,7 @@ ausencia/S
 ausentar/REDñ
 ausente/GS
 ausente/S
+ausentismo/S
 ausetano/GS
 ausonense/S
 ausonio/GS
@@ -6141,11 +6161,11 @@ austriaco/GS
 austríaco/GS
 austro/S
 auténticamente
-autenticar/RED
+autenticar/REDA
 auténtica/S
 autenticidad/S
 auténtico/GS
-autentificar/RED
+autentificar/REDA
 autismo/S
 autista/S
 autoafirmación/S
@@ -6153,14 +6173,20 @@ autoajustar/REDñT
 autobombo/S
 autobús
 autocensurar/REDñ
+autocitación/S
 autoclave/S
 autocompasión/S
 autoconciencia/S
 autoconfianza/S
+autoconocimiento/S
+autoconsciente/S
+autocontenido/GS
+autocontrol/S
 autoconvencer/REDñ
 autocopista/S
 autocorrectivo/GS
 autocracia/S
+autocrítica/S
 autóctono/SG
 autodefensa/S
 autodefinición/S
@@ -6170,6 +6196,8 @@ autodesarrollo/S
 autodestructivo/GS
 autodestruir/IRDÁ
 autodeterminado/GS
+autodeterminar/REDñ
+autodidactismo
 autodidacto/GS
 autodisciplina/S
 autoeditar/RED
@@ -6181,7 +6209,10 @@ autografiar/IRD
 autógrafo/GS
 autógrafo/S
 autoimagen/S
+autoimponer/REDñ
+autoimpuesto/GS
 autolesionar/REDñ
+autolimitación/S
 autolubricante/S
 autómata/S
 automáticamente
@@ -6192,11 +6223,12 @@ automático/GS
 automatismo/S
 automatización/S
 automatizar/REDÀ
-automedicar/REDñ
+automedicar/REDñA
 automedonte/S
 automovilismo/S
 automovilista/S
 automovilístico/GS
+autónomamente
 autonomía/S
 autonómico/GS
 autonomista/S
@@ -6216,7 +6248,7 @@ autorizadamente
 autorizado/SG
 autorizamiento/S
 autorizar/REDÀÁÂÄÅÆÚT
-autorregular/RED
+autorregular/REDA
 autosugestionar/RED
 autosustentable/S
 auxiliador/GS
@@ -6296,6 +6328,7 @@ aventurero/GS
 averar
 averdugar/RED
 avergonzado/GS
+avergonzante/S
 avergonzar/IRDÀÂÅñò
 averiar/IRD
 avería/S
@@ -6375,7 +6408,7 @@ avivar/REDÀÂÆ
 avizorar/RED
 avizor/S
 avocamiento/S
-avocar/RED
+avocar/REDA
 avoceta/S
 avolcanado/GS
 avucasta/S
@@ -6561,6 +6594,7 @@ bacaladero/GS
 bacaladero/S
 bacalao/S
 bacanal/S
+bacán/GS
 bacante/S
 baca/S
 bacelar/S
@@ -6607,6 +6641,7 @@ badián/S
 badila/S
 badilejo/S
 badil/HS
+bádminton
 badulaquear/RED
 badulaque/S
 baenero/GS
@@ -6640,6 +6675,7 @@ bailecito/S
 baile/S
 bailonamente
 bailotear/RED
+baipás/S
 bajada/S
 bajalato/S
 bajamanero/S
@@ -6790,6 +6826,7 @@ balear/REDÀ
 balear/S
 balero/S
 balido/S
+balín/S
 balista/S
 balística/S
 balístico/SG
@@ -6852,6 +6889,7 @@ bambuco/S
 bambú/S
 banaba/S
 banalidad/S
+banalizar/RED
 banal/S
 bananero/GS
 bananero/S
@@ -6964,6 +7002,7 @@ Barbados
 barbaja/S
 barbajuelas
 bárbaramente
+barbárico/GS
 barbaridad/S
 barbarie/S
 barbarismo/S
@@ -7032,8 +7071,11 @@ bardar/RED
 barda/S
 bardiota/S
 Baréin
+baremación/S
 baremo/S
 baria/S
+bariónico/GS
+barión/S
 bario/S
 barisfera/S
 barita/S
@@ -7146,6 +7188,7 @@ barzal/S
 barzonear/RED
 barzón/GS
 basada/S
+basalmente
 basal/S
 basalto/S
 basamento/S
@@ -7157,7 +7200,7 @@ bascar
 bascosidad/S
 bascoso/GS
 basculante/S
-bascular/RED
+bascular/REDA
 báscula/S
 base/S
 básicamente
@@ -7170,6 +7213,8 @@ basiliense/S
 basilio/GS
 basilisco/S
 basquear/RED
+basquetbol/S
+básquetbol/S
 basquiña/S
 basta/NS
 bastante
@@ -7292,9 +7337,8 @@ Bco
 be
 beaciense/S
 beaterio/S
-beatificación/S
 beatíficamente
-beatificar/REDÀ
+beatificar/REDÀA
 beatífico/SG
 beatilla/S
 beatitud/S
@@ -7411,7 +7455,7 @@ beneficencia/S
 beneficiador/SG
 beneficiado/S
 beneficiario/SG
-beneficiar/REDÂÄÅñò
+beneficiar/REDÂÄÅñòA
 beneficio/S
 beneficioso/GS
 benéfico/SG
@@ -7538,6 +7582,8 @@ bíblico/GS
 bibliofilia/S
 bibliografía/S
 bibliográfico/GS
+bibliología
+bibliometría
 bibliotecario/GS
 biblioteca/S
 bicampeonato/S
@@ -7547,13 +7593,18 @@ bicha/S
 bichero/S
 bicho/S
 bicicleta/S
+bicicletero/GS
+bicicletero/S
 bici/S
 bicoca/S
 bicolor/S
 bicoquete/S
 bicorne/S
+bicultural/S
 bidente/S
 bidé/S
+bidimensionalidad
+bidimensional/S
 bidireccional/S
 bidón
 biela/S
@@ -7592,9 +7643,8 @@ bies/S
 bífido/GS
 bifloro/GS
 biforme/S
-bifurcación/S
 bifurcado/GS
-bifurcar/RED
+bifurcar/REDA
 bigamia/S
 bígamo/GS
 bigarda/S
@@ -7612,6 +7662,8 @@ bilao/S
 bilbilitano/GS
 biliario/GS
 biliar/S
+bilingüe/S
+bilingüismo/S
 bilis
 billalda/S
 billarda/S
@@ -7622,7 +7674,8 @@ billetero/GS
 billete/SC
 billonario/GS
 billón/S
-bilocar/RED
+billullo
+bilocar/REDA
 bimano/GS
 bimano/S
 bimba/S
@@ -7634,14 +7687,15 @@ bimetalismo/S
 bimetalista/S
 binadura/S
 binario/GS
-binar/RED
+binar/REDA
 bingo/S
 binocular/S
 binomio/S
 binza/S
 Biobío
 bioclimático/GS
-biodiversidad
+biodegradación/S
+biodiversidad/S
 bioestadística/S
 biografía/dS
 biografiar/IRD
@@ -7649,6 +7703,7 @@ biográfica/d
 biográfico/GdS
 biógrafo/GS
 biología/S
+biológicamente
 biológico/GS
 biólogo/GS
 biombo/S
@@ -7656,9 +7711,11 @@ biopolímero/S
 biopsia/S
 bioquímica/S
 bioquímico/GS
+biorremedación/S
 biotecnología/S
 biotopo/S
 bipartito/GS
+bipedación/S
 bípedo/S
 bípedo/SG
 biplano/S
@@ -7697,6 +7754,7 @@ bisector/S
 biselador/S
 biselar/RED
 bisel/S
+bisexualidad/S
 bisiesto/S
 bismutina/S
 bismuto/S
@@ -7713,6 +7771,7 @@ bitácora/S
 bitango/S
 bitar/RED
 bita/S
+bitcóin/S
 bitinio/GS
 bitongo/S
 bit/S
@@ -7722,7 +7781,6 @@ bivalente/S
 bivalvo/GS
 bixácea/S
 bixáceo/SG
-bixexualidad/S
 bizantinismo/S
 bizantino/GS
 bizarramente
@@ -7742,6 +7800,7 @@ bizma/S
 biznieto/GS
 bizquear/REDÅÆ
 bizquera/S
+bla
 blanca/HN
 blancal/S
 blancamente
@@ -7769,7 +7828,7 @@ blandura/S
 blanqueador/GS
 blanqueadura/S
 blanqueamiento/S
-blanquear/REDÀÂÄÆ
+blanquear/REDÀÂÄÆA
 blanquecedor/S
 blanquecer/IRD
 blanquecimiento/iS
@@ -7805,6 +7864,7 @@ blincar/RED
 blindado/GS
 blindaje/S
 blindar/REDÀÂ
+blíster/S
 bloc
 blocao/S
 bloca/S
@@ -7818,6 +7878,7 @@ bloqueo/Sv
 bloque/S
 blues
 blusa/S
+bluyín/S
 blv
 boalar/CS
 boardilla/S
@@ -8014,9 +8075,7 @@ bonetero/GS
 bonga/S
 bongo/S
 boniato/S
-bonificación
-bonificaciones
-bonificar/RED
+bonificar/REDA
 bonina/S
 bonísimo/GS
 bonitamente
@@ -8086,6 +8145,7 @@ boreal/S
 bóreas
 borgoña/S
 bórico/S
+boricua/S
 Borja
 borla/NS
 borlón/S
@@ -8141,6 +8201,7 @@ boscaje/S
 boscoso/GS
 Bosnia
 bosnio/SG
+bosón/S
 bosquejar/RED
 bosquejo/S
 bosque/S
@@ -8261,7 +8322,7 @@ branque/S
 branquial/S
 branquia/S
 braquial/S
-braquiar/RED
+braquiar/REDA
 braquicefalia/S
 braquicéfalo/GS
 braquiocefálico/GS
@@ -8633,6 +8694,7 @@ burriciego/GS
 burro/NS
 burro/SG
 bursátil/S
+burujón/S
 burujo/S
 burundés/GS
 Burundi
@@ -8934,6 +8996,7 @@ cagarropa/S
 cagarruta/S
 cagatinta/S
 cagatorio/S
+cahíta/S
 Cáhuil
 Caicos
 caída/g
@@ -9042,12 +9105,11 @@ calcetero/SG
 calcetín/S
 cálcico/GS
 calcicosis
-calcificar/RED
-calcinación/S
+calcificar/REDA
 calcinador/GS
 calcinado/S
 calcinamiento/S
-calcinar/REDÀT
+calcinar/REDÀTA
 calcina/S
 calcinatorio/S
 calcinero/S
@@ -9114,10 +9176,9 @@ calesita/S
 caleta/S
 caletear/RED
 caletre/S
-calibración/S
 calibrador/GS
 calibrador/S
-calibrar/REDÀ
+calibrar/REDÀA
 calibre/S
 calicanto/S
 calicata/S
@@ -9139,10 +9200,9 @@ califal/S
 califa/S
 califato/S
 calificable/kS
-calificación/S
 calificado/GS
 calificador/hGS
-calificar/REDÀÂÄñò
+calificar/REDÀÂÄñòA
 calificativo/S
 calificativo/SG
 californiano/GS
@@ -9204,7 +9264,9 @@ caloñar
 caloría/S
 calorífero/GS
 calorífero/S
+calorificación/S
 calorífico/GS
+calorímetro/S
 calorina/S
 calor/S
 caló/S
@@ -9412,11 +9474,10 @@ canastero/GS
 canastillero/GS
 canasto/SN
 canastro/S
-cancelación/S
-canceladura/S
+canceladora/S
 cancelariato/S
 cancelario/S
-cancelar/REDÀÁÂ
+cancelar/REDÀÁÂA
 cancela/S
 cancel/S
 cancerar/RED
@@ -9453,6 +9514,7 @@ candelizo/S
 candencia/S
 candente/S
 cande/S
+candidación/S
 cándidamente
 candidato/GS
 candidatura/S
@@ -9586,6 +9648,8 @@ cantonal/S
 cantonar/RED
 cantonear/RED
 cantonero/GS
+cantonés
+cantonés/GS
 cantón/S
 cantor/GS
 cantorral/S
@@ -9643,7 +9707,9 @@ capacho/S
 capacidad/kS
 capacitación/S
 capacitador/GS
+capacitancia/S
 capacitar/REDÀÁÄñ
+capacitivo/GS
 capacitor/S
 capadocio/GS
 capador/S
@@ -9665,6 +9731,7 @@ capeador/GS
 capear/REDÀ
 capea/S
 capeja/S
+capela
 capelán/S
 capellada/S
 capellanía/S
@@ -9704,11 +9771,10 @@ capitán/S
 capitel/S
 capitidisminuir/IRD
 capitolio/S
-capitulación/pS
 capitulante/S
 capitulario/S
 capitularmente
-capitular/RED
+capitular/REDA
 capitular/S
 capítulo/S
 capolar/RED
@@ -9848,10 +9914,9 @@ carbunclo/S
 carbunco/S
 carbuncoso/SG
 carbúnculo/S
-carburación/S
 carburador/S
 carburante/S
-carburar/RED
+carburar/REDA
 carburina/S
 carburo/S
 carcacha/S
@@ -9897,6 +9962,7 @@ cardillar/S
 cardinal/S
 cardiógrafo/S
 cardiograma/S
+cardioide/S
 cardiotónico/SG
 carditis
 cardizal/S
@@ -10014,6 +10080,7 @@ carminar
 carminativo/GS
 carmín/S
 Carmona
+carnación/S
 carnada/S
 carnadura/hiS
 carnaje/S
@@ -10038,7 +10105,7 @@ carnet/S
 carnicería/S
 carnicero/GS
 cárnico/GS
-carnificar/RED
+carnificar/REDA
 carniforme/S
 carniola/Sa
 carniseco/GS
@@ -10114,9 +10181,11 @@ carricar
 carricera/S
 carricoche/S
 carrilete/S
+carrillada/S
 carrilludo/SG
 carril/S
 carriola/S
+carrito/S
 carrizo/S
 carrocería/S
 carrocero/GS
@@ -10171,6 +10240,7 @@ cartomancia/S
 cartonera/S
 cartonero/GS
 cartón/SC
+cartoteca/S
 cartuchera/S
 cartucho/S
 cartujano/GS
@@ -10232,6 +10302,7 @@ casca/S
 casco/NS
 cascos/j
 cascote/S
+caseación/S
 caseificar/RED
 casera/S
 caserillo/S
@@ -10279,6 +10350,7 @@ castañuela/S
 casta/S
 castellanamente
 castellanismo/S
+castellanización/S
 castellanizar/RED
 castellano/GS
 castellano/SG
@@ -10289,7 +10361,7 @@ casticismo/S
 casticista/S
 castidad/S
 castigador/GS
-castigar/REDÂÆÍñò
+castigar/REDÂÆÍñòA
 castigo/S
 castilla/S
 castillejo/S
@@ -10305,12 +10377,11 @@ castoreño/S
 castóreo/S
 castorina/S
 castor/NS
-castración/S
 castrado/GS
 castrador/S
 castradura/S
 castrapuercas
-castrar/REDÀñ
+castrar/REDÀñA
 castra/S
 castrense/S
 castro/S
@@ -10329,6 +10400,7 @@ casulla/S
 casullero/S
 catabolismo/S
 catacaldos
+cataclísmico/GS
 cataclismo/S
 catacumbas
 catadióptrico/GS
@@ -10416,6 +10488,7 @@ catéter/S
 cateto/GS
 cateto/S
 catilinaria/S
+catión/S
 catite/S
 cativar
 cátodo/S
@@ -10446,6 +10519,7 @@ cauchero/GS
 caucho/S
 caucionar/RED
 caudado/GS
+caudalímetro/S
 caudalosamente
 caudaloso/SG
 caudal/S
@@ -10501,8 +10575,7 @@ cavernosidad/S
 cavernoso/SG
 caviar/S
 cavidad/fS
-cavilación/S
-cavilar/RED
+cavilar/REDA
 cavilosamente
 cavilosidad/S
 caviloso/GS
@@ -10632,11 +10705,10 @@ celar/RED
 celar/REDÄ
 celastro/S
 celda/NS
-celebración/S
 celebrador/GS
 celebrado/SG
 celebrante/S
-celebrar/REDÀÁÂÄÆñ
+celebrar/REDÀÁÂÄÆñA
 célebremente
 célebre/S
 celebridad/S
@@ -10771,6 +10843,7 @@ centenoso/GS
 centesimal/S
 centésimo/GS
 centésimo/S
+centígrado/GS
 centilitro/S
 centiloquio/S
 centimano/S
@@ -10800,7 +10873,7 @@ centrar/REDÀÁÄÅñòôø
 céntrico/GS
 centrifugador/GS
 centrifugador/S
-centrifugar/RED
+centrifugar/REDA
 centrífuga/S
 centrífugo/SG
 centroafricano/GS
@@ -10872,6 +10945,7 @@ cerdudo/GS
 cerealista/S
 cereal/S
 cerebelo/S
+cerebración/S
 cerebral/S
 cerebrina/S
 cerebroespinal/S
@@ -10944,11 +11018,10 @@ certeramente
 certero/GS
 certeza/S
 certidumbre/kS
-certificación/S
 certificador/GS
 certificado/S
 certificado/SG
-certificar/REDÀÁÂñT
+certificar/REDÀÁÂñTA
 certificatorio/GS
 certísimo/SG
 certitud/S
@@ -10980,6 +11053,7 @@ cesación/S
 cesamiento/So
 cesante/S
 cesante/Sk
+cesantía/S
 cesárea/S
 cesáreo/SG
 cesariano/GS
@@ -11057,9 +11131,11 @@ chaflán/S
 cha/fS
 chaira/S
 Chaitén
+chalación/s
 chaladura/S
 chalanear/RED
 chalanesco/GS
+chalán/GS
 chalar/REDô
 chala/S
 chalaza/S
@@ -11071,6 +11147,9 @@ chalina/S
 chalote/S
 chal/S
 chalupa/S
+chamánico/GS
+chamanismo/S
+chamán/S
 chamarasca/S
 chamarilear/RED
 chamarilero/GS
@@ -11220,12 +11299,12 @@ chaspear/RED
 chasqueador/SG
 chasquear/RED
 chasquido/S
-chat
 chatarra/S
 chatarrear/RED
 chatarrero/GS
 chatear/RED
 chato/GS
+chat/S
 chauvinismo/S
 chaval/GS
 chaveta/S
@@ -11295,6 +11374,7 @@ chilaba/S
 Chile
 chilenismo/S
 chileno/GS
+chilindrina/S
 chilindrinero/GS
 chilindrón/S
 chillador/GS
@@ -11323,6 +11403,7 @@ chinchilla/S
 chinchorrear/RED
 chinchorrero/GS
 chinchorro/S
+chinchoso/GS
 Chincolco
 chinela/S
 chinesco/GS
@@ -11486,6 +11567,7 @@ chucero/S
 chuchear/RED
 chuchería/S
 chuchero/GS
+chucho/GS
 chucho/S
 chueca/S
 chueco/GS
@@ -11574,6 +11656,8 @@ cibelina/S
 cibera/S
 cibercafé/S
 ciberespacio/S
+cibernauta/S
+cibernético/GS
 cicalar
 cicatear/RED
 cicatería/S
@@ -11606,6 +11690,7 @@ ciclorama/S
 ciclo/Se
 ciclostil/S
 ciclotimia/S
+ciclovía/S
 ciconiforme/S
 cicuta/S
 cicutina/S
@@ -11787,10 +11872,9 @@ circón/S
 circo/S
 circuir/IRD
 circuito/mS
-circulación/S
 circulante/S
 circularmente
-circular/REDÀ
+circular/REDÀA
 circular/S
 circular/Sq
 circulatorio/GS
@@ -11811,8 +11895,7 @@ circunflejo/S
 circunfuso/SG
 circunlocución/S
 circunloquio/S
-circunnavegación/S
-circunnavegar/RED
+circunnavegar/REDA
 circunscribir/REÁñò
 circunscripción/S
 circunscrito/GS
@@ -11824,8 +11907,7 @@ circunstancial/S
 circunstanciar/RED
 circunstancia/S
 circunstante/S
-circunvalación/S
-circunvalar/RED
+circunvalar/REDA
 circunvecino/GS
 circunvenir
 circunvolar/IRD
@@ -11937,7 +12019,7 @@ clarecer/IRD
 clarete/S
 clareza/S
 claridad/S
-clarificar/REDÀÁ
+clarificar/REDÀÁA
 clarinete/S
 clarinetista/S
 clarín/HS
@@ -11957,15 +12039,13 @@ clásica/S
 clasicismo/S
 clasicista/S
 clásico/SG
-clasificación/S
 clasificado/GS
 clasificador/S
 clasificador/SG
-clasificar/REDÀÄñòT
+clasificar/REDÀÄñòTA
 clasista/S
 claudia/S
-claudicación/S
-claudicar/RED
+claudicar/REDA
 claustral/S
 claustrar
 claustra/S
@@ -12022,6 +12102,7 @@ cliché/S
 clic/S
 clienta/S
 clientela/S
+clientelismo/S
 cliente/S
 clima/S
 climatérico/GS
@@ -12044,9 +12125,10 @@ clítoris
 cloaca/S
 cloc
 clocar/IRD
-clonar/REDÀ
+clonar/REDÀA
 clon/S
 cloquear/RED
+clorar/REDA
 clorato/S
 clorhidrato/S
 clorhídrico/GS
@@ -12067,19 +12149,19 @@ club/S
 clueco/SG
 cluniacense/S
 cluniense/S
+clúster/S
 cm
 cnidario/S
 coaccionar/REDÁÂ
-coacervar/RED
-coadunar/RED
+coacervar/REDA
+coadunar/REDA
 coadyutor/S
 coadyuvante/S
 coadyuvar/RED
 coagente/S
-coagulación/S
 coagulador/SG
 coagulante/S
-coagular/REDT
+coagular/REDTA
 coágulo/S
 coaguloso/GS
 coalicionista/S
@@ -12134,7 +12216,7 @@ cocedero/GS
 cocedizo/GS
 cocedor/S
 cocedura/hS
-cocer/IRDÀÄÆÐÝ
+cocer/IRDÀÄÆÐÝn
 cochambre/S
 cochambroso/SG
 cocha/S
@@ -12189,18 +12271,19 @@ codiciar/REDÀT
 codicia/S
 codicilo/S
 codicioso/SG
-codificación/S
 codificador/GSgh
-codificar/REDÀT
+codificar/REDÀTA
 código/S
 codillera/S
 codirigir/RED
 codoñate/S
 codorniz/S
 codo/SNH
+coeducar/REDA
 coeficiente/S
 Coelemu
 coercible/kS
+coerción/S
 coercitivo/GS
 coetáneo/SG
 coexistir/RED
@@ -12208,6 +12291,7 @@ coextender/IRD
 cofa/S
 cofiador/S
 cofia/S
+cofinanciar/REDA
 cofrade/S
 cofradía/S
 cofrear
@@ -12219,10 +12303,12 @@ cogedor/GS
 cogedor/pGraS
 cogedor/rSp
 cogedura/jS
+cogeneración/S
 coger/REDÀÁÂÃÄÅÆÌÍÙÛñòôø
 cogido/pGS
 cogitabundo/GS
 cogitativo/SG
+cognación/S
 cognado/GS
 cognición/S
 cognitivo/SG
@@ -12249,6 +12335,7 @@ cohechar/RED
 coheredar/RED
 coherencia/kS
 coherente/Sk
+coherentismo/S
 cohesionar/RED
 cohesión/S
 cohesivo/GS
@@ -12270,9 +12357,11 @@ Coihueco
 coimbricense/S
 coimear/REDÀ
 coime/S
+coincidentemente
 coincidir/RED
 Coinco
 coinquinar
+coinvestigador/GS
 coipo/S
 cois
 coitar/RED
@@ -12289,12 +12378,10 @@ cojonudo/GS
 cojuelo/S
 cok
 col
-colaboración/S
 colaborador/GS
-colaborar/RED
+colaborar/REDA
 colaborativo/GS
 colacionar/RED
-colación/S
 colada/S
 coladera/S
 coladero/S
@@ -12314,7 +12401,7 @@ cola/NS
 colapez/S
 colapiscis
 colapsar/REDÀ
-colar/REIDÀÁÂÄÅÀÁÂÄÅÝ
+colar/REIDÀÁÂÄÅÀÁÂÄÅÝA
 colar/REIDÀÁÂÄÅÝñòñò
 cola/S
 colaudar
@@ -12333,6 +12420,7 @@ coleccionar/REDÀÄ
 colección/pS
 colectar/REDÀ
 colecticio/SG
+colectivamente
 colectividad/S
 colectivismo/S
 colectivista/S
@@ -12349,7 +12437,7 @@ colegiala/S
 colegial/GS
 colegialmente
 colegial/S
-colegiar/RED
+colegiar/REDA
 colegiata/S
 colegiatura/S
 colegio/S
@@ -12388,12 +12476,11 @@ colicuativo/GS
 colicuecer/IRD
 colidir
 coliflor/S
-coligación/S
 coligadura/S
-coligar/RED
+coligar/REDA
 colilarga/S
 colillero/GS
-colimar/RED
+colimar/REDA
 colinabo/S
 colindar/RED
 colino/GS
@@ -12430,9 +12517,8 @@ colmillo/H
 colmilludo/GS
 colmo/NS
 colmo/SG
-colocación/S
 colocado/GS
-colocar/REDÀÁÃÅÆÇÌÍÛñòôø
+colocar/REDÀÁÃÅÆÇÌÍÛñòôøAÙ
 colocasia/S
 colodión/S
 colodra/S
@@ -12459,14 +12545,14 @@ colonizador/GS
 colonizar/REDÀÁ
 colono/GS
 colon/S
+coloquialmente
 coloquial/S
 coloquíntida/S
 coloquio
-coloración/gS
 colorado/GS
 colorante/gS
 colorante/S
-colorar/RED
+colorar/gREDA
 colorear/REDÀ
 colorete/S
 colorí
@@ -12567,10 +12653,9 @@ combeneficiado/S
 combés/S
 combinable/kS
 combinacional/S
-combinación/S
 combinada/S
 combinado/S
-combinar/REDÀÄø
+combinar/REDÀÄøA
 combinatoria/S
 combinatorio/GS
 combustibilidad/kS
@@ -12606,6 +12691,7 @@ comentario/S
 comentarista/S
 comentar/REDÀÁÂÃÄÅÆÍÎÜ
 comenzar/IRDÀ
+comerciabilidad/S
 comerciable/kS
 comercialización/S
 comercializar/REDÀ
@@ -12639,6 +12725,7 @@ cominear/RED
 cominero/GS
 comino/NS
 comiquear/RED
+comisariado/S
 comisaría/S
 comisario/GS
 comiscar/RED
@@ -12671,6 +12758,7 @@ comoquiera
 Comoras
 comorense/S
 compacidad/S
+compactación/S
 compactar/REDÀÄ
 compactibilidad/S
 compacto/GS
@@ -12681,18 +12769,17 @@ compadrazgo/S
 compadrear/RED
 compadre/CS
 compaginador/GS
-compaginar/REDÀÄ
+compaginar/REDÀÄA
 compaña/S
 compañerismo/S
 compañero/GS
 compañía/S
 comparable/kS
-comparación/S
 comparada/k
 comparado/kGS
 comparador/S
 comparanza/S
-comparar/REDÀÁÂÄÅÆÌÙ
+comparar/REDÀÁÂÄÅÆÌÙA
 comparativamente
 comparativo/SG
 comparecencia/kS
@@ -12729,8 +12816,7 @@ compendiosamente
 compendioso/GS
 compendista/S
 compendizar
-compenetración/S
-compenetrar/REDñ
+compenetrar/REDñA
 compensable/kpS
 compensación/S
 compensador/GS
@@ -12748,10 +12834,9 @@ competidor/GS
 competir/XD
 competitividad/S
 competitivo/SG
-compilación/S
 compilador/GS
 compilador/S
-compilar/REDÀ
+compilar/REDÀA
 compinche/S
 complacencia/S
 complacer/IRDÀÁÂñ
@@ -12764,6 +12849,7 @@ complejidad/S
 complejo/GkS
 complejo/S
 complementación/S
+complementariedad/S
 complementario/SG
 complementar/REDÀÄñ
 complemento/S
@@ -12779,9 +12865,8 @@ complexa/k
 complexidad/S
 complexión/S
 complexo/GSk
-complicación/S
 complicado/GS
-complicar/REDÀÁÂÄÅÆñò
+complicar/REDÀÁÂÄÅÆñòA
 cómplice/S
 complicidad/S
 complot
@@ -12827,9 +12912,8 @@ compresor/GS
 comprimido/S
 comprimido/SG
 comprimir/REDÌÏØ
-comprobación/S
 comprobante/S
-comprobar/IRDÀÁÂÄÐÝT
+comprobar/IRDÀÁÂÄÐÝTA
 comprobatorio/SG
 comprometedor/SG
 comprometer/REDÀÁñòø
@@ -12885,6 +12969,7 @@ compungirías
 compungirse
 compungís
 compungiste
+computacional/S
 computación/S
 computador/GS
 computadorizar/RED
@@ -12892,6 +12977,7 @@ computador/SG
 computarizar/RED
 computar/REDÀT
 cómputo/S
+comulación/S
 comulgante/S
 comulgar/RED
 comulgatorio/S
@@ -12909,7 +12995,7 @@ comunicado/GS
 comunicador/GS
 comunicado/S
 comunicante/S
-comunicar/REDÀÁÂÃÄÅÆÇÍÙÚÛÜñòôø
+comunicar/REDÀÁÂÃÄÅÆÇÍÙÚÛÜñòôøA
 comunicativo/GS
 comunicatorias
 comunidad/S
@@ -12923,9 +13009,9 @@ con
 conato/S
 concadenadamente
 concadenar/RED
-concatenación/S
 concatenadamente
-concatenar/RED
+concatenante/S
+concatenar/REDA
 cóncava/S
 cóncavo/GS
 cóncavo/SG
@@ -12937,11 +13023,11 @@ concejal/GS
 concejil/S
 concejo/S
 concelebrar/RED
-concentración/S
 concentrador/GS
 concentrado/S
-concentrar/hpREDÀÁÄÅñòôøT
+concentrar/hpREDÀÁÄÅñòôøTA
 concéntricamente
+concéntrico/GS
 concepcionista/S
 concepción/S
 conceptismo/S
@@ -12950,6 +13036,8 @@ conceptivo/SGcv
 concepto/SO
 conceptualismo/S
 conceptualista/S
+conceptualizante/S
+conceptualmente
 conceptual/S
 conceptuar/IRDÀ
 conceptuoso/GS
@@ -12992,7 +13080,7 @@ concho
 concho/S
 conchudo/GS
 conchuela/S
-concienciar/REDAñ
+concienciar/REDAñA
 conciencia/S
 concienzudamente
 concienzudo/GS
@@ -13002,12 +13090,12 @@ concierne
 conciernen
 concierto/hS
 conciliable/kS
-conciliación/pS
 conciliador/GSp
-conciliar/REDñ
+conciliar/REDñA
 conciliar/S
 conciliatorio/GS
 concionar
+concipiente/S
 concisión/S
 conciso/GS
 concitar/RED
@@ -13028,7 +13116,7 @@ Concón
 concordador/SG
 concordancia/S
 concordante/S
-concordar/IRDÀ
+concordar/IRDÀA
 concordatario/GS
 concordativo/GS
 concordato/S
@@ -13039,6 +13127,7 @@ concrecionar/RED
 concreción/S
 concrescencia/S
 concretamente
+concretar/REDÀÁÂñ
 concretar/REDÁÂñ
 concretizar/RED
 concreto/GS
@@ -13048,7 +13137,7 @@ concubinato/S
 concúbito/S
 concuerda/S
 conculcador/GS
-conculcar/REDÀ
+conculcar/REDÀA
 concupiscencia/S
 concupiscente/S
 concupiscible/S
@@ -13060,12 +13149,12 @@ concursante/S
 concursar/RED
 condal/S
 condecir/X
-condecorar/REDÀÂÆ
-condenación/S
+condecorar/REDÀÂÆA
 condenadamente
 condenado/GS
 condenador/GS
 condenar/REDÀÁÆÍñòT
+condenar/REDÀÁÆÍñòTA
 condena/S
 condenatorio/GS
 condensabilidad/S
@@ -13114,6 +13203,7 @@ conductor/tGqS
 conducto/S
 condumio/S
 conectar/REDÀÁÂÄÅÆÙñòôT
+conectividad/S
 conectivo/SG
 conector/SG
 conejar/S
@@ -13172,6 +13262,7 @@ confidencialmente
 confidencial/S
 confidente/GS
 confidente/Sk
+configurador/GS
 configurar/REDÄ
 confín
 confinante/S
@@ -13443,6 +13534,7 @@ consoldar
 consolidación/S
 consolidada/S
 consolidar/REDÁñ
+consomé/S
 consonancia/S
 consonante/qS
 consonantismo/S
@@ -13463,6 +13555,7 @@ constantemente
 constante/S
 constantinopolitano/GS
 constar/RED
+constatación/S
 constatar/REDÀÅ
 constelación/S
 constelar/RED
@@ -13889,6 +13982,7 @@ convocar/REDÀÁÂÄÆ
 convocatoria/hS
 convocatorio/GS
 convolar
+convolución/S
 convolvulácea/S
 convolvuláceo/SG
 convoyar/RED
@@ -13926,6 +14020,7 @@ coordinante/S
 coordinar/REDÀÁÄ
 copaiba/S
 copa/NSU
+coparentalidad
 copar/REDÂ
 copartícipe/S
 copartidario/GS
@@ -13961,6 +14056,7 @@ coposesor/GS
 coproducir/XDA
 coproductor/GS
 coprolito/S
+coprológico/GS
 copropiedad/S
 copropietario/GS
 copto/GS
@@ -14179,7 +14275,7 @@ correoso/GS
 correría/S
 correr/REDÀÁÄñòôø
 correspondencia/S
-corresponder/REDÀÂñ
+corresponder/REDÀÂÆñ
 correspondientemente
 correspondiente/S
 corresponsal/S
@@ -14336,6 +14432,8 @@ cosmético/GS
 cósmico/GS
 cosmogonía/S
 cosmografía/S
+cosmología/S
+cosmológico/GS
 cosmopolita/S
 cosmopolitismo/S
 cosmorama/S
@@ -14409,6 +14507,7 @@ cotorrera/S
 coturno/S
 coulomb
 covacha/S
+covalente/S
 coxal/S
 coxa/S
 coxis
@@ -14443,6 +14542,7 @@ crateriforme/S
 cráter/S
 creable/Sp
 creacionismo/S
+creacionista/S
 creación/opS
 creador/oSG
 creados
@@ -14542,15 +14642,18 @@ criminoso/GS
 crinar/RED
 crin/S
 crio
+criogénesis
 crío/GS
 criolita/S
 criollo/GS
 cripta/S
+criptodivisa/S
 criptógama/S
 criptógamo/GS
 criptografía/S
 criptográfico/GS
 criptograma/S
+criptomoneda/S
 criptón/S
 crisálida/S
 crisantema/S
@@ -14623,6 +14726,8 @@ cromatina/S
 cromatismo/Sa
 crómico/SG
 cromita/S
+cromodinámica
+cromodinámico/GS
 cromóforo/GS
 cromolitografiar/IRD
 cromo/S
@@ -14645,12 +14750,14 @@ cronometraje/S
 cronometrar/RED
 cronómetro/S
 crono/S
+cron/S
 croqueta/S
 croquis
 croscitar/RED
 cross
 crótalo/S
 crotorar/RED
+cruasán/S
 crucera/S
 crucero/S
 cruce/S
@@ -14720,7 +14827,7 @@ cuadratura/S
 cuádriceps
 cuadricular/RED
 cuadricular/S
-cuadrícula/S
+cuadrícula/Ss
 cuadriforme/S
 cuadriga/S
 cuadrigato/S
@@ -14769,6 +14876,7 @@ cualidad/S
 cualificación/S
 cualificado/SG
 cualificar/RED
+cualitativamente
 cualitativo/GS
 cualquier
 cualquiera
@@ -14783,11 +14891,14 @@ cuantiar/IRD
 cuantía/S
 cuánticamente
 cuántico/GS
+cuantificable/S
 cuantificadora/S
 cuantificador/S
 cuantificar/REDÀ
 cuantioso/GS
 cuantitativo/GS
+cuantización/S
+cuantizar/RED
 cuanto
 cuanto/GS
 cuánto/GS
@@ -14830,6 +14941,7 @@ cuarto/SG
 cuartucho/S
 cuarzo/S
 cuarzoso/GS
+cuásar/S
 cuasi
 cuasicontrato/S
 cuasidelito/S
@@ -14941,6 +15053,7 @@ cuello/rhS
 cuenca/S
 cuenco/S
 cuenda/S
+cuentacuentos
 cuentagotas
 cuentakilómetros
 cuentapasos
@@ -14966,6 +15079,7 @@ cuesco/S
 cuesta/S
 cuestionable/kS
 cuestionablemente
+cuestionamiento/S
 cuestionario/S
 cuestionar/REDÀÁÂÅ
 cuestión/S
@@ -15008,10 +15122,12 @@ culmen/S
 culminación/S
 culminante/S
 culminar/REDÀ
+cúlmine/S
 culombio/S
 culo/S
 culote/S
 culpabilidad/kS
+culpabilizar/RED
 culpablemente
 culpable/Sk
 culpada/k
@@ -15097,7 +15213,7 @@ cuquero/S
 curable/kS
 Curacautín
 Curacaví
-curación/S
+curación/dS
 curadillo/S
 curador/GoS
 curador/oGS
@@ -15345,6 +15461,7 @@ dártelas
 dártelo
 dártelos
 Darussalam
+Darwin
 das
 dásela
 dáselas
@@ -15366,6 +15483,7 @@ dato/S
 davalar/RED
 David
 dcho/G
+DD.HH.
 de
 dé
 deambular/RED
@@ -15485,9 +15603,9 @@ declividad/S
 decodificación/S
 decodificar/REDÀ
 decolgar
-decolorar/RED
 decomisar/REDÀÂ
-decoración/Sf
+deconstruir/RED
+decoración/S
 decorador/GS
 decorado/S
 decorar/REDÀÄÅÌ
@@ -15529,6 +15647,7 @@ dedil/S
 dedolar/IRD
 deducción/S
 deducir/XDÀÁÂÈT
+deductivamente
 defamar
 defecación/S
 defecador/GS
@@ -15569,8 +15688,10 @@ deflagrador/S
 deflagrador/SG
 deflagrar/RED
 deflegmar/RED
+deflexión/S
 defoliación/S
 defondonar
+deforestación/S
 deforestar/RED
 deformable/kS
 deformar/REDÄ
@@ -15735,6 +15856,7 @@ demigar
 demiurgo/S
 democracia/S
 demócrata/S
+democráticamente
 democrático/SG
 democratizar/RED
 democristiano/GS
@@ -15815,10 +15937,12 @@ denostoso/GS
 denotar/REDÀ
 denotativo/GS
 densa/fS
+densamente
 densar
 dense
 densidad/S
 densificar/RED
+densímetro/S
 denso/GS
 dentada/ih
 dentado/ihSG
@@ -15864,6 +15988,7 @@ denuncia/S
 denunciatorio/GS
 deñar
 deodara/S
+deontología/S
 deparar/REDÁÂÆ
 departamental/S
 departamento/S
@@ -15888,6 +16013,7 @@ deportación/S
 deportar/REDÁ
 deportista/S
 deportiva/c
+deportivamente
 deportividad/S
 deportivo/cSG
 deportivo/S
@@ -16063,7 +16189,8 @@ desacatar/RED
 desacato/S
 desacedar/RED
 desaceitar/RED
-desacelerar/RED
+desaceleración/S
+desacelerar/REDA
 desacerar/RED
 desacerbar/RED
 desacertadamente
@@ -16260,7 +16387,6 @@ desapreciar/RED
 desapretar/IRD
 desaprir
 desaprisionar/RED
-desaprobar/IRD
 desapropiamiento/S
 desapropiar/RED
 desaprovechar/REDÀ
@@ -16427,6 +16553,7 @@ descalcador/S
 descalcar/RED
 descalcez/S
 descalcificar/RED
+descalificación/S
 descalificar/REDÀÁÂÄ
 descalostrado/GS
 descalzar/REDñô
@@ -16573,6 +16700,7 @@ desconchadura/S
 desconchar/RED
 desconectado/GS
 desconectar/REDÀÁÂ
+desconferencia/S
 desconfiadamente
 desconfiar/IRD
 desconformar/RED
@@ -16912,7 +17040,6 @@ desensortijado/GS
 desentablar/RED
 desentalingar/RED
 desentarimar/RED
-desentender/IRDñ
 desenterrar/IRDÀÄ
 desentierramuertos
 desentoldar/RED
@@ -16958,6 +17085,8 @@ desesperado/GS
 desesperante/S
 desesperanzar/REDñ
 desesperar/REDÁñ
+desestabilización/S
+desestabilizante/S
 desestabilizar/REDñ
 desestancar/RED
 desestañar/RED
@@ -17351,7 +17480,6 @@ desopilar/RED
 desopilativo/SG
 desopinar/RED
 desoprimir/RED
-desorbitante/S
 desorbitar/RED
 desordenadamente
 desordenar/RED
@@ -17372,6 +17500,8 @@ desovillar/RED
 desoxidar/RED
 desoxigenar/RED
 desoxirribonucleico/S
+desoxirribonucleótido/S
+desoxirribosa/S
 despabilador/S
 despabilador/SG
 despabiladura/S
@@ -17848,6 +17978,7 @@ detergente/S
 deterger/RED
 deteriorar/REDÀÁñ
 deterioro/S
+determinabilidad/S
 determinable/kS
 determinación/kSnd
 determinada/k
@@ -17938,6 +18069,7 @@ diaconar/RED
 diaconato/S
 diaconisa/S
 diácono/sS
+díada/S
 diadelfos
 diademado/GS
 diadema/S
@@ -17976,6 +18108,7 @@ diálogo/S
 dialoguista/S
 dial/S
 dialtea/S
+diamagnético/GS
 diamantar/RED
 diamante/S
 diamantino/GS
@@ -18005,6 +18138,7 @@ diarrea/S
 diarreico/GS
 diartrosis
 día/S
+diáspora/S
 diaspro/S
 diastasa/S
 diastrofia/S
@@ -18013,6 +18147,7 @@ diátesis
 diatomea/S
 diatónicamente
 diatónico/SG
+diatópico/GS
 diatriba/S
 diazoar/RED
 dibranquial/S
@@ -18179,7 +18314,9 @@ digesto/S
 digitado/GS
 digitalina/S
 digitalizar/AREDÀÁÂÃÄÅÆ
+digitalmente
 digital/S
+digitar/RED
 digitiforme/S
 digitígrado/SG
 dígito/S
@@ -18245,7 +18382,7 @@ dímela
 dímelas
 dímelo
 dímelos
-dimensional/S
+dimensional/Sa
 dimensionamiento/S
 dimensionar/REDT
 dimensión/S
@@ -18360,10 +18497,11 @@ direccionamiento/S
 dirección/sS
 directa/k
 directamente
+directa/S
 directivo/GS
 directo/kSG
-directorio/S
 directorio/SG
+directorio/Ss
 director/SG
 director/sGS
 directriz/S
@@ -18431,6 +18569,8 @@ discrepar/RED
 discreta/k
 discretamente
 discretear/RED
+discretización/S
+discretizar/RED
 discreto/GS
 discreto/kGS
 discretorio/S
@@ -18446,6 +18586,7 @@ discursar/RED
 discursear/RED
 discursible/S
 discursista/S
+discursivamente
 discursivo/GS
 discurso/S
 discusión/S
@@ -18547,7 +18688,7 @@ disparadero/S
 disparado
 disparado/GS
 disparador/GS
-disparar/REDÀÁÄÅñò
+disparar/REDÀÁÄÅÂñò
 disparatadamente
 disparatado/GS
 disparatador/SG
@@ -18598,6 +18739,8 @@ disputar/REDÆñò
 disputa/S
 disquetera/S
 disquete/S
+disrumpir/RED
+disrupción/S
 disruptivo/GS
 distal/S
 distanciamiento/S
@@ -18625,6 +18768,7 @@ distintivo/SG
 distinto/kSG
 distinto/S
 distocia/S
+distorsionador/GS
 distorsionar/REDÄ
 distorsión/S
 distracción/S
@@ -18721,6 +18865,7 @@ dix/S
 diyambo/S
 dizque
 dizque/S
+DNI
 Dña
 do
 doblada/S
@@ -18787,6 +18932,7 @@ documentación/S
 documentada/k
 documentado/kSG
 documentalista/S
+documentalmente
 documental/S
 documentar/REDÀÁñ
 documento/S
@@ -18953,6 +19099,7 @@ dorsalmente
 dorsal/nS
 dorsal/S
 dorso/S
+Dorta
 dosalbo/GS
 doscientas
 doscientos
@@ -19033,6 +19180,7 @@ droguero/GS
 droguete/S
 droguista/S
 dromedario/S
+dron/S
 dropacismo/S
 drope/S
 drosera/S
@@ -19091,6 +19239,7 @@ dulce
 dulcedumbre/S
 dulcemente
 dulcera/S
+dulcería/S
 dulcero/GS
 dulce/S
 dulceza/S
@@ -19222,6 +19371,7 @@ eclesiástico/GS
 eclesiástico/S
 eclipsar/REDÀÁñT
 eclipse/S
+eclíptica
 eclíptico/S
 eclosionar/RED
 eclosión/S
@@ -19239,6 +19389,7 @@ económico/GS
 economista/S
 economizar/RED
 ecónomo/S
+ecoparque/S
 ecorregión/S
 eco/S
 ecosistema/S
@@ -19389,6 +19540,7 @@ ejemplarizar/RED
 ejemplarmente
 ejemplar/RED
 ejemplar/S
+ejemplificación/S
 ejemplificar/REDÀÄ
 ejemplo/S
 ejercer/REDÀÄ
@@ -19416,6 +19568,7 @@ elaterio/S
 elato/GS
 elche/S
 ele
+eleático/GS
 eléboro/S
 elección/S
 electivo/GS
@@ -19463,6 +19616,7 @@ electromecánico/SG
 electromotor/SG
 electromotriz/S
 electronegativo/SG
+electrónicamente
 electrónico/GS
 electrón/S
 electropositivo/GS
@@ -19938,6 +20092,7 @@ empaste/S
 empatadera/S
 empatar/REDÂñ
 empate/S
+empatía/S
 empáticamente
 empático/GS
 empatizar/RED
@@ -20570,6 +20725,8 @@ encrespadura/S
 encrespamiento/S
 encrespar/RED
 encrestar/RED
+encriptado/GS
+encriptar/RED
 encristalar/RED
 encrucijada/S
 encrudecer/IRD
@@ -21360,7 +21517,7 @@ entelequia/S
 entelerido/GS
 entenciar
 entendedor/GS
-entender/IRDÀÁÃÄÂÐÑñòù
+entender/hrstIRTDÀÁÃÄÂÐÑñòù
 entender/S
 entendida/h
 entendido/SG
@@ -21580,6 +21737,7 @@ entronerar/RED
 entronización/S
 entronizar/REDÀÄ
 entropezar
+entropía
 entruchar/RED
 entruejo/S
 entrujar/RED
@@ -21724,6 +21882,8 @@ epidemial/S
 epidemia/S
 epidemicidad/S
 epidémico/SG
+epidemiología
+epidemiólogo/GS
 epidérmico/GS
 epidermis
 epidiascopio/S
@@ -21761,8 +21921,13 @@ episcopal/OS
 episcopal/S
 episcopio/S
 episcopologio/S
+episódicamente
+episódico/GS
 episodio/S
 epistaxis
+epistemología/S
+epistemológico/GS
+epistemólogo/GS
 epistolario/S
 epistolar/S
 epístola/S
@@ -21810,6 +21975,7 @@ equipolencia/S
 equipolente/S
 equiponderancia/S
 equiponderar/RED
+equipotencial/S
 equis
 equisetínea/S
 equisetíneo/GS
@@ -21905,6 +22071,7 @@ erisipelatoso/GS
 eritema/S
 Eritrea
 eritreo/GS
+eritroblastosis
 eritrocito/S
 erizado/GS
 erizamiento/S
@@ -21968,7 +22135,7 @@ esbeltez/GS
 esbelto/SG
 esbirro/S
 esblandecer
-esbozar/REDÀ
+esbozar/REDÀÄ
 esbozo/S
 esbrencar/RED
 escabechar/RED
@@ -22436,6 +22603,7 @@ escusado/GS
 escusado/S
 escusar
 escusa/S
+escúter/S
 escutiforme/S
 escuyer
 esdrujulizar/RED
@@ -22666,6 +22834,8 @@ espectacular/S
 espectáculo/S
 espectador/GS
 espectral/S
+espectrografía/S
+espectrógrafo/S
 espectrograma/S
 espectrohelioscopio/S
 espectro/S
@@ -22847,6 +23017,7 @@ espontáneamente
 espontanear/RED
 espontaneidad/S
 espontáneo/GS
+esporádicamente
 esporádico/GS
 esporangio/S
 espora/S
@@ -22967,6 +23138,7 @@ estacazo/S
 estacha/S
 estache/S
 estacionalidad/S
+estacionalmente
 estacional/S
 estacionamiento/S
 estacionario/GS
@@ -22990,6 +23162,7 @@ estadizo/nSG
 estado
 estado/nS
 estadounidense/S
+estadounidismo/S
 estafador/GS
 estafar/REDÀÂ
 estafa/S
@@ -23173,6 +23346,7 @@ estercolizo/GS
 estercuelo/S
 estereofónico/GS
 estereográfico/GS
+estereorradián/S
 estéreo/S
 estereoscópicamente
 estereoscopio/S
@@ -23205,6 +23379,7 @@ estertor/S
 estés
 estese
 estesudeste/S
+esteta/S
 estéticamente
 estética/S
 esteticismo/S
@@ -23234,6 +23409,7 @@ estilicidio/S
 estilismo/S
 estilista/S
 estilística
+estilísticamente
 estilístico/GS
 estilita/S
 estilizar/REDÄ
@@ -23268,6 +23444,7 @@ estiptiquez/S
 estipulación/S
 estipular/RED
 estique/S
+estirable/S
 estirada/S
 estirado/GS
 estirajar/RED
@@ -23364,9 +23541,11 @@ estraperlo/S
 estratagema/S
 estratega/S
 estrategia/S
+estratégicamente
 estratégico/GS
 estratego/S
 estratificar/RED
+estratigrafía/S
 estrato/S
 estratosfera/S
 estrave/S
@@ -23419,6 +23598,7 @@ estreptococo/S
 estreptomicina/S
 estrés
 estresante/S
+estresar/RED
 estriado/GS
 estriar/IRD
 estría/S
@@ -23457,6 +23637,7 @@ estropezar
 estropicio/S
 estro/S
 estructuración/pS
+estructuralmente
 estructural/S
 estructurar/REDÀÄ
 estructura/S
@@ -23539,6 +23720,7 @@ esviaje/S
 et
 etalaje/S
 etamina/S
+etanol/S
 etano/S
 etapa/S
 etario/GS
@@ -23571,7 +23753,10 @@ etiqueta/S
 etites
 etmoides
 etnia/S
+étnicamente
 étnico/GS
+etnolingüística
+etnolingüístico/GS
 etolio/GS
 etología/S
 etológico/GS
@@ -23579,6 +23764,7 @@ etrusco/GS
 etrusco/S
 eubeo/SG
 eucalipto/S
+eucarionte/S
 eucaristía/S
 eucarístico/SG
 euclidiano/GS
@@ -23594,6 +23780,7 @@ Eugenio
 eunuco/S
 eupepsia/S
 eurasiático/SG
+Eurípides
 euritmia/S
 euroasiático/GS
 eurodiputado/GS
@@ -23620,6 +23807,7 @@ evadir/REDÀÁÅñò
 evaluación/S
 evaluador/GS
 evaluar/IRDÀÁÄñ
+evaluativo/GS
 evanecer/IRD
 evanescente/S
 evanescer/RED
@@ -23682,7 +23870,6 @@ exagerador/GS
 exagerar/REDÀÁÄ
 exagerativamente
 exagerativo/GS
-exagonal/S
 exaltación/S
 exaltado/GS
 exaltador/GS
@@ -23849,6 +24036,7 @@ exocrino/GS
 exoesqueleto/S
 exoftálmico/GS
 exonerar/REDÀÁÆñ
+exoplaneta/S
 exorable/Sk
 exorar/RED
 exorbitancia/S
@@ -23951,6 +24139,7 @@ expoliación/S
 expoliador/GS
 expoliar/REDÀ
 expón
+exponencialmente
 exponencial/S
 exponente/S
 exponer/XÀÁÃÈÉñó
@@ -24057,6 +24246,7 @@ extrajudicialmente
 extrajudicial/S
 extralimitar/REDñ
 extralingüístico/GS
+extramatrimonial/S
 extramuros
 extranjería/S
 extranjerismo/S
@@ -24077,6 +24267,7 @@ extraordinaria/S
 extraordinario/GS
 extraordinario/SG
 extraplano/SG
+extrapolable/S
 extrapolar/REDÀ
 extrarradio/S
 extra/S
@@ -24123,7 +24314,9 @@ exulcerar/RED
 exultantemente
 exultante/S
 exultar/RED
+exutorio/S
 exvoto/S
+eyaculación/S
 eyacular/REDÁ
 ezquerdear/RED
 fa
@@ -24183,6 +24376,7 @@ facsímil/S
 factibilidad/S
 factiblemente
 factible/S
+fácticamente
 factitivo/S
 factoraje/S
 factor/GS
@@ -24285,6 +24479,7 @@ falsificar/REDÀÁ
 falso/GS
 falsopeto/S
 falso/SG
+faltante/S
 faltar/RED
 falta/S
 falte/S
@@ -24408,6 +24603,7 @@ fartar
 fas
 fasces
 fasciculado/GS
+fascículo/S
 fascinación/S
 fascinador/GS
 fascinantemente
@@ -24535,6 +24731,7 @@ fémina/S
 femineidad/S
 feminela/S
 femíneo/SG
+feminicidio/S
 feminidad/S
 feminismo/S
 feminista/S
@@ -24579,6 +24776,7 @@ fermentado/S
 fermentar/REDT
 fermentativo/GS
 fermento/S
+fermión/S
 Fernández
 Fernando
 ferocidad/S
@@ -24599,6 +24797,8 @@ ferretero/GS
 ferrete/S
 férrico/GS
 ferrificar/RED
+ferrimagnético/GS
+ferrimagnetismo
 ferrita/S
 ferroaleación/S
 ferrocarrilero/GS
@@ -24717,7 +24917,7 @@ figuradamente
 figurado/GS
 figuranta/S
 figurante/S
-figurar/REDÁñòôø
+figurar/REDÁÃñòôø
 figura/S
 figura/SN
 figurativamente
@@ -24863,6 +25063,7 @@ finura/S
 fio
 fiofío/S
 fiordo/S
+Firefox
 firma/bS
 firmamento/S
 firmante/fS
@@ -25056,6 +25257,7 @@ fluido/GS
 fluido/S
 fluir/IRD
 fluis
+flujómetro/S
 flujo/Skap
 fluminense/S
 flúor
@@ -25065,6 +25267,7 @@ fluorhídrico/S
 fluorina/S
 fluorita/S
 fluvial/S
+fluxímetro/S
 fluxión/S
 flux/S
 fluyente/Sk
@@ -25138,6 +25341,7 @@ fondo/S
 fondo/SG
 fonema/S
 fonendoscopio/S
+fonéticamente
 fonética/S
 fonético/GS
 fonetista/S
@@ -25276,6 +25480,7 @@ fosforescencia/S
 fosforescente/S
 fosforescer/RED
 fosfórico/GS
+fosforilación/S
 fosforita/S
 fósforo/S
 fosilizar/RED
@@ -25304,11 +25509,14 @@ fotolitografía/S
 fotolito/S
 fotoluminiscencia/S
 fotométrico/SG
+fotónico/GS
 fotonovela/S
+fotón/S
 foto/S
 fotosensible/S
 fotosfera/S
 fotosíntesis
+fototeca/S
 fototerapia/S
 fotovoltaico/GS
 fóvea/S
@@ -25323,6 +25531,7 @@ fraccionario/S
 fraccionar/REDÀÄT
 fracción/pkS
 frac/S
+fractal/S
 fracturar/REDÀÂ
 fractura/S
 fradear
@@ -25532,6 +25741,7 @@ frondosidad/S
 frondoso/GS
 frontalera/S
 frontalero/GS
+frontalmente
 frontal/S
 frontera/S
 fronterizo/SG
@@ -25550,6 +25760,7 @@ frote/S
 fructífera/k
 fructífero/kGS
 fructificar/RED
+fructosa/S
 fructuosa/k
 fructuosamente
 fructuoso/kSG
@@ -25681,9 +25892,12 @@ funcionario/GS
 funcionar/RED
 función/gS
 fundacional/S
+fundacionismo/S
 fundación/S
 fundador/SG
 fundamentación/S
+fundamentalismo/S
+fundamentalista/S
 fundamentalmente
 fundamental/S
 fundamentar/AREDÀÄ
@@ -25692,6 +25906,7 @@ funda/o
 fundar/REDÀÄ
 funda/S
 fundente/S
+Fundéu
 fundible/Sf
 fundición/S
 fundido/GS
@@ -25759,7 +25974,9 @@ fustigador/GS
 fustigar/RED
 Futaleufú
 futbolista/wS
+futbolísticamente
 futbolístico/GS
+futbol/S
 fútbol/S
 futesa/S
 futilidad/S
@@ -26007,6 +26224,7 @@ gansa/S
 gansear/RED
 ganso/GS
 ganso/S
+gánster/S
 gante/pS
 ganzuar/IRD
 gañán/S
@@ -26186,6 +26404,7 @@ gasógeno/S
 gasóleo/S
 gasolina/S
 gasolinera/S
+gasometría/S
 gastado/GS
 gastador/iSG
 gastador/S
@@ -26224,6 +26443,8 @@ gauchada/S
 gauchesco/SG
 gaucho/S
 gaudeamus
+gaussiano/GS
+gaussímetro/S
 gaveta/S
 gavia/S
 gavilancillo/S
@@ -26302,6 +26523,7 @@ generosidad/S
 generoso/GS
 género/Ss
 génesis
+genéticamente
 genético/GS
 genial
 genialidad/S
@@ -26314,6 +26536,7 @@ genista/S
 genital/S
 genitivo/GS
 genitivo/S
+genitor/GS
 genitourinario/GS
 genocidio/S
 genoma/S
@@ -26337,16 +26560,21 @@ gentío/S
 gentualla/S
 gentuza/S
 genuino/GS
+geocéntrico/GS
+geocentrismo
 geoda/S
 geodesia/S
 geodésico/GS
 geoestacionario/GS
+geofísica
+geofísico/GS
 geogr
 geografía/S
 geográficamente
 geográfico/GS
 geógrafo/GS
 geología/S
+geológicamente
 geológico/GS
 geom
 geómetra/S
@@ -26495,8 +26723,10 @@ gleba/S
 glicerina/S
 glicina/S
 glicinia/S
+globalización/S
 globalizado/GS
 globalizar/RED
+globalmente
 global/S
 globo/S
 globoso/GS
@@ -26528,6 +26758,7 @@ glucina/S
 glucógeno/S
 glucosa/S
 glucósido/S
+gluon/S
 gluten/S
 glúteo/S
 glúteo/SG
@@ -26543,6 +26774,7 @@ gnóstica/a
 gnosticismo/aS
 gnóstico/SGa
 gob
+gobernabilidad/S
 gobernable/kS
 gobernación/S
 gobernadorcillo/S
@@ -26551,6 +26783,7 @@ gobernador/sGS
 gobernalle/S
 gobernanta/S
 gobernante/S
+gobernanza/S
 gobernar/IRDÄÅñò
 gobernativo/GS
 gobierna/S
@@ -26680,6 +26913,7 @@ gozo/S
 gozosamente
 gozoso/SG
 gozque/S
+GPS
 grabación/S
 grabador/GS
 grabado/S
@@ -26710,6 +26944,7 @@ gradualmente
 gradual/S
 graduando/GS
 graduar/IRDÁÂñT
+grafeno/S
 grafía/S
 gráfica/m
 gráficamente
@@ -26797,6 +27032,7 @@ granujiento/GS
 granujo/S
 granulado/GS
 granulado/S
+granularidad/S
 granular/RED
 granular/S
 granulometría/S
@@ -26836,6 +27072,7 @@ gratuito/GS
 gratular/RED
 gratulatoria/f
 gratulatorio/GfS
+gravable/S
 gravamen/S
 grava/NS
 gravar/REDÀ
@@ -26848,9 +27085,16 @@ grave/SG
 grávida/k
 gravidez/kS
 grávido/SGk
+gravimetría/S
+gravimétrico/GS
+gravímetro/S
+gravitacionalmente
+gravitacional/S
 gravitación/S
 gravitar/RED
 gravitatorio/GS
+gravitomagnético/GS
+gravitomagnetismo
 gravoso/SG
 gray
 graznador/GS
@@ -27178,7 +27422,6 @@ guiño/S
 guio
 guionista/S
 guion/S
-guión/S
 guipar/RED
 guipuzcoano/GS
 guipuzcoano/S
@@ -27470,6 +27713,7 @@ hallazgo/S
 halls
 hallulla/S
 hallullo/S
+halógeno/GS
 haloideo/GS
 haloque/S
 halo/S
@@ -27493,6 +27737,7 @@ hampa/S
 hampesco/GS
 hampo/GS
 hampo/SG
+hámster/S
 han
 hándicap
 hanegada/S
@@ -27547,6 +27792,7 @@ harria/S
 harriero/S
 hartar/REDÁÅñòô
 hartazgo/S
+hartera/S
 harto
 harto/SG
 hartura/S
@@ -27827,6 +28073,7 @@ herbolar/RED
 herbolecer
 herbología/S
 herborista/S
+herboristería/S
 herborizador/GS
 herborizar/RED
 herboso/GS
@@ -27946,6 +28193,7 @@ hervoroso/GS
 hervor/S
 Herzegovina
 hes
+Hesíodo
 hesitación/S
 hesitar/RED
 hesperidio/S
@@ -27959,6 +28207,9 @@ heterodoxia/S
 heterodoxo/SG
 heterogeneidad/S
 heterogéneo/GS
+heterolisis
+heterólisis
+heterolítico/GS
 heteromancia/S
 heteroscio/GS
 heterosexualidad/S
@@ -27981,6 +28232,7 @@ hibernar/RED
 hibernizo/GS
 hibierno/S
 hibleo/GS
+hibridación/S
 hibridismo/S
 híbrido/GS
 hibuero/S
@@ -28054,6 +28306,7 @@ hierbaluisa/S
 hierba/S
 hierbatero/GS
 hierbatero/SG
+hierbería/S
 hierofante/SG
 hieroscopia/S
 hierosolimitano/GS
@@ -28128,6 +28381,7 @@ hincadura/hS
 hincapié
 hincar/REDÀÅñòôø
 hincha
+hinchable/S
 hinchada/S
 hinchado/GS
 hinchamiento/S
@@ -28185,6 +28439,7 @@ hiperdulía/S
 hiperemia/S
 hiperenlace/S
 hiperestesiar/RED
+hipergeométrico/GS
 hiperhidrosis
 hipermercado/S
 hipermetamorfosis
@@ -28275,10 +28530,12 @@ hispanidad/S
 hispanismo/S
 hispanista/S
 hispanizar/RED
+Hispanoamérica
 hispanoamericanismo/S
 hispanoamericano/GS
 hispano/GS
 hispanohablante/S
+hispanoparlante/S
 hispir/RED
 histeria/S
 histérico/GS
@@ -28369,7 +28626,10 @@ hollejudo/GS
 holliniento/GS
 hollín/S
 holocausto/S
+holofonía/S
+holofónico/GS
 holografía/S
+holográfico/GS
 holograma/S
 holostérico/S
 holoturia/S
@@ -28392,6 +28652,7 @@ homeópata/S
 homeopatía/S
 homeotermo/GS
 homérico/SG
+Homero
 homiciarse
 homicida/S
 homicidio/S
@@ -28403,8 +28664,14 @@ hominicaco/S
 homocerca/S
 homogéneamente
 homogeneidad/S
+homogeneización/S
 homogeneizar/REDÀ
 homogéneo/GS
+homogenización/S
+homogenizar/REDÀ
+homolisis
+homólisis
+homolítico/GS
 homologar/REDÀÁÄ
 homología/S
 homólogo/SG
@@ -28589,6 +28856,7 @@ hospitalario/kSG
 hospitalero/GS
 hospitalicio/SG
 hospitalidad/kS
+hospitalización/S
 hospitalizar/REDÀÁÂ
 hospital/S
 hospodar/S
@@ -28712,7 +28980,7 @@ huelo
 Huelquén
 huemul/S
 Huépil
-huerco/S
+huerco/GS
 huérfano/SG
 huero/GS
 huertano/GS
@@ -28792,6 +29060,7 @@ humeral/St
 humera/S
 humero/S
 húmero/S
+humidificación
 humidificar/RED
 humildad/S
 humildemente
@@ -28888,6 +29157,7 @@ ibíd
 ibis
 icaco/S
 icario/GS
+Ícaro
 iceberg/S
 ichal/S
 icho/S
@@ -28937,11 +29207,13 @@ identificativamente
 identificativo/GS
 ideograma/S
 ideología/S
+ideológicamente
 ideológico/GS
 idílico/SG
 idilio/S
 idiocia/S
 idioma/S
+idiomático/GS
 idiosincrasia/S
 idiota/S
 idiotez/S
@@ -29166,6 +29438,7 @@ implantar/REDÀÂÄñ
 implar/RED
 implementación/S
 implementar/REDÀ
+implemento/S
 implicación/S
 implicar/REDÂñò
 implicatorio/GS
@@ -29199,9 +29472,11 @@ impostergable/S
 impostor/GS
 impr
 impracticabilidad/S
+impráctico/GS
 imprecación/S
 imprecar/RED
 imprecatorio/GS
+impregnación/S
 impregnar/REDÀÁÂÄÆñòT
 impremeditado/GS
 impremir
@@ -29389,6 +29664,8 @@ incomparablemente
 incompartible/S
 incompasible/S
 incompletamente
+incompletitud/S
+incompletud/S
 incomportable/S
 incomposibilidad/S
 incomposible/S
@@ -29536,6 +29813,7 @@ indisciplinar/RED
 indiscretamente
 indiscriminadamente
 indiscriminado/GS
+indiscutiblemente
 indiscutido/GS
 indisolublemente
 indispensabilidad/S
@@ -29611,6 +29889,7 @@ inefectivo/GS
 ineficazmente
 ineludiblemente
 inenarrable/S
+inentendible/S
 inepcia/S
 ineptamente
 ineptitud/S
@@ -29672,6 +29951,7 @@ infecir
 infectar/REDÀÁñ
 infecundarse
 infelizmente
+inferencial/S
 inferencia/S
 inferioridad/S
 inferior/S
@@ -29710,6 +29990,7 @@ inflar/REDÀñ
 inflexiblemente
 infligir/REDÁÂÆ
 influenciar/REDÀÂÅT
+influenza/S
 influir/IRDÀÁÂÈ
 informador/GS
 informado/S
@@ -29732,6 +30013,7 @@ infosura/S
 infractor/SG
 infraestructura/S
 infrahumano/SG
+inframundo/S
 infrarrojo/SG
 infrascrito/GS
 infrasonido/S
@@ -29785,9 +30067,11 @@ inhabitado/SG
 inhalación/S
 inhalador/S
 inhalar/REDÀÄ
+inherentemente
 inherente/S
 inhestar/IR
 inhibición/S
+inhibidor/GS
 inhibir/REDÀÁÄñ
 inhibitorio/GS
 inhiesto/GS
@@ -29800,6 +30084,7 @@ iniciación/S
 iniciado/GS
 iniciador/GS
 iniciado/S
+inicializar/RED
 inicialmente
 inicial/S
 iniciar/REDÀÁÄÅÆñò
@@ -29928,9 +30213,9 @@ insacular/RED
 insalivar/RED
 insalubremente
 insatisfacción/S
-inscribir/REDÀÁÂÄñT
+inscribir/REÀÁÂÄñTnòôø
 inscripción/S
-inscrito/GS
+inscrito/nGS
 inscrito/S
 insculpir/RED
 insecable/S
@@ -29997,6 +30282,7 @@ inspectoría/S
 inspector/sGS
 inspiración/S
 inspiradamente
+inspirado/GS
 inspirador/GS
 inspirar/REDÀÁñòø
 inspirativo/GS
@@ -30004,6 +30290,7 @@ inst
 instalación/S
 instalador/GS
 instalar/REDÀÄÅñòôø
+instalar/REDÀÄÅñòôøh
 instancia/S
 instantáneamente
 instantánea/S
@@ -30021,6 +30308,7 @@ instimular
 instintivamente
 instintivo/GS
 instinto/S
+institucionalización/S
 institucionalizar/REDÀ
 institucionalmente
 institucional/S
@@ -30036,6 +30324,8 @@ instructor/SG
 instruido/GS
 instruir/IRDÀÁÂÈÉÊñó
 instrumentación/S
+instrumentalización/S
+instrumentalizar/RED
 instrumentalmente
 instrumental/S
 instrumentar/REDÀÄ
@@ -30120,6 +30410,8 @@ intentona/S
 intento/S
 ínter
 interaccionar/RED
+interactividad
+interactuante/S
 interactuar/IRD
 intercalación/S
 intercalar/REDÀÄ
@@ -30136,6 +30428,8 @@ intercultural/S
 interdecir/X
 interdicho/GS
 interdicto/S
+interdisciplinario/GS
+interdisciplinar/S
 interesada/h
 interesadamente
 interesado/hSG
@@ -30168,6 +30462,7 @@ intermediario/GS
 intermediar/RED
 intermedio/S
 intermitencia/S
+intermitentemente
 intermitente/S
 intermitir/RED
 internacionalista/S
@@ -30178,7 +30473,7 @@ internamente
 internamiento/S
 internar/REDÀÁÄÅñò
 internauta/S
-Internet
+internet
 internista/S
 interno/GS
 interno/S
@@ -30199,6 +30494,7 @@ interpretativamente
 interpretativo/SG
 intérprete/S
 interpuesto/GS
+interrelacionado/GS
 interrogación/S
 interrogante/S
 interrogar/REDÀÁÂÄÅÆ
@@ -30240,12 +30536,13 @@ intimista/S
 intitular/RED
 intocable/S
 intonso/GS
-intoxicación/hS
+intoxicación/dhS
 intoxicar/REDÁñ
 intracelular/S
 intradós/S
 intramuros
 intramuscular/S
+intranet
 intransitividad/S
 intransitivo/S
 intransmutabilidad/S
@@ -30286,6 +30583,7 @@ intrusión/S
 intrusismo/S
 intruso/GS
 intubar/RED
+intuible/S
 intuición/S
 intuir/IRDÀÁÈ
 intuitivamente
@@ -30296,6 +30594,7 @@ inundado/S
 inundar/REDÀÁñò
 inusitadamente
 inusitado/SG
+inusualmente
 inutilizable/S
 inutilizado/GS
 inutilizar/RED
@@ -30371,6 +30670,7 @@ inyectivo/GS
 inyector/S
 inyungir
 ión/aS
+iónico/GS
 ionización/S
 ionizante/S
 ionizar/RED
@@ -30528,6 +30828,7 @@ isobárico/GS
 isobaro/GS
 isocronismo/S
 isócrono/GS
+isómero/GS
 isomorfismo/S
 isomorfo/GS
 isópodo/S
@@ -30536,7 +30837,7 @@ isoterma/S
 isotérmico/GS
 isotermo/GS
 isotónico/GS
-isotopo/S
+isótopo/S
 isotropía/S
 isótropo/GS
 isquemia/S
@@ -30545,6 +30846,7 @@ isquion/S
 Israel
 israelí/S
 israelita/S
+ISSN
 istmo/S
 Itahue
 Italia
@@ -30916,6 +31218,7 @@ jónico/S
 jónico/SG
 jonio/GS
 jonjabar/RED
+jonrón/S
 jopar/RED
 jopear/RED
 jora/S
@@ -30948,6 +31251,7 @@ jota/S
 jote/S
 joule/S
 jovenado/S
+jovencito/GS
 jovenete/S
 joven/S
 jovenzuelo/GS
@@ -31024,6 +31328,7 @@ juerga/S
 juerguear/RED
 juerguista/S
 jueves
+jueza/S
 juez/S
 jugaba
 jugábamos
@@ -31223,6 +31528,7 @@ juzgamundos
 juzgar/REDÀÁÂÄÅÆÙ
 ka
 káiser/S
+kaki/S
 kan/S
 kantiano/GS
 kantismo/S
@@ -31258,6 +31564,7 @@ Kirguistán
 Kiribati
 kiribatiano/GS
 kirie/S
+kit/S
 Kitts
 km
 Kong
@@ -31341,6 +31648,7 @@ lacre/SG
 lacrimal/S
 lacrimar
 lacrimatorio/S
+lacrimógeno/GS
 lacrimosamente
 lacrimoso/GS
 lactancia/S
@@ -31561,7 +31869,7 @@ lanzador/SG
 lanzafuego/S
 lanzallamas
 lanzamiento/S
-lanzar/REDÆÌñòôø
+lanzar/REDÀÆÌñòôø
 lanza/S
 lanzatorpedos
 lanzazo/S
@@ -31839,7 +32147,7 @@ lectoría/S
 lectura/S
 ledo/GS
 led/S
-leer/REDÀÁÂÃÄÅÆÌÍÏÙÚ
+leer/REDÀÁÂÃÄÅÆÌÍÏÙÚø
 legador/S
 legado/S
 legadura/S
@@ -31902,6 +32210,7 @@ lejitos
 lejos
 lelo/GS
 lemanita/S
+lemario/S
 lema/S
 lembario/S
 lembo/S
@@ -31985,6 +32294,7 @@ lepisma/S
 leporino/GS
 lepra/S
 leproso/GS
+leptón/S
 leptorrino/SG
 lera/S
 lercha/S
@@ -32070,6 +32380,8 @@ levosa/aS
 lexema/S
 lexiarca/S
 lexicalizar/RED
+lexicografía
+lexicográfico/GS
 lexicógrafo/GS
 léxico/S
 léxico/SG
@@ -32273,6 +32585,9 @@ limitación/S
 limitada/k
 limitadamente
 limitado/GSk
+limitador/GS
+limitador/S
+limitante/S
 limitar/REDÀÅñòôøT
 limitativo/GS
 límite/S
@@ -32339,6 +32654,7 @@ lindo/pGS
 lindura/S
 linealidad/S
 lineal/lS
+linealmente
 lineamento/Sg
 lineamiento/Sga
 linear/RED
@@ -32390,7 +32706,7 @@ lipoma/S
 lipotimia/S
 liquen
 líquenes
-liquidación/S
+liquidación/dS
 liquidador/GS
 liquidámbar/S
 líquidamente
@@ -32706,6 +33022,7 @@ logogrifo/S
 logomaquia/S
 logopeda/S
 logopedia/S
+logo/S
 logotipo/S
 logrado/GS
 lograr/REDÀ
@@ -32809,6 +33126,7 @@ lozanecer/IRD
 lozanía/S
 lozano/GS
 loza/S
+LSD
 ltdo/G
 lubigante/S
 lubina/S
@@ -32864,6 +33182,7 @@ lucubrar/RED
 ludada/S
 ludibrio/S
 lúdico/GS
+ludificación
 ludimiento/S
 ludir/RED
 luego
@@ -32958,6 +33277,7 @@ lusetano/GS
 lusitanismo/S
 lusitano/GS
 luso/GSk
+lustrabotas
 lustración/kS
 lustral/S
 lustrar/REDÀÁÂÄ
@@ -33066,6 +33386,7 @@ macrocefalia/S
 macrocéfalo/GS
 macrocosmo/S
 macro/S
+macroscópico/GS
 macruro/GS
 macruro/S
 macsura/S
@@ -33200,6 +33521,7 @@ magnetoscopio/S
 magnetosfera/S
 magnetósfera/S
 magnicidio/S
+magnificación/S
 magnificador/GS
 magníficamente
 magnificar/REDÀñ
@@ -33616,7 +33938,7 @@ manear/RED
 manea/S
 manecilla/S
 manejable/kS
-manejar/REDÄñòô
+manejar/REDÀÄñòô
 manejo/S
 maneota/S
 manera/S
@@ -33762,6 +34084,7 @@ manojera/S
 manojo/S
 manola/S
 manolo/GS
+manométrico/GS
 manómetro/S
 manopla/S
 mano/S
@@ -33873,10 +34196,12 @@ mapamundi/S
 mapanare/S
 mapa/S
 mapear/RED
+mapoteca/S
 mapuche/S
 mapurite/S
 maquear/RED
 maquetación/S
+maquetar/RED
 maqueta/S
 maquiavelismo/S
 maquiavelista/S
@@ -33923,6 +34248,8 @@ marcadamente
 marcado/GS
 marcador/S
 marcador/SGg
+marcapasos
+marcapaso/S
 marcar/REDÀÂÄÅñòø
 marca/S
 marcasita/S
@@ -34205,6 +34532,7 @@ masiliense/S
 masilio/GS
 masilo/GS
 masita/S
+masivamente
 masivo/GS
 maslo/S
 masonería/S
@@ -34268,20 +34596,18 @@ matapiojos
 matapolvo/S
 matapulgas
 matarife/S
-matar/REDÀÄÅÆÌÎñòôp
+matar/REDÀÄÅÂÆÌÎñòôp
 matarrubia/S
 mata/S
 matasellos
 matasiete/S
 matasuegras
 matear/RED
-mate/GS
 matemáticamente
 matemática/S
 matemático/GS
 matematismo/S
 mateo/GS
-mate/pS
 materialidad/kS
 materialismo/S
 materialista/S
@@ -34296,6 +34622,7 @@ maternidad/S
 maternizar/RED
 materno/GS
 matero/GS
+mate/S
 matico/S
 matidez/S
 matihuelo/S
@@ -34363,6 +34690,7 @@ mavorcio/GS
 máx
 maxilar/Sl
 maxilar/slS
+máximamente
 máxima/S
 máxime
 maximizar/RED
@@ -34467,6 +34795,7 @@ mechoso/GS
 meconio/S
 medalla/SU
 medanoso/GS
+medellinense/S
 mediacaña/S
 mediación/Skl
 mediado/GS
@@ -34496,6 +34825,7 @@ mediático/GS
 mediatizar/REDÀ
 mediato/kGS
 mediator/S
+medible/S
 medicación/S
 medicalmente
 médicamente
@@ -34523,6 +34853,7 @@ medievo/S
 medina/S
 medio
 medioambiental/S
+medioambiente/S
 mediocampista/S
 mediocremente
 mediocre/S
@@ -34533,7 +34864,7 @@ medio/GS
 mediomundo/S
 medio/SlG
 mediquillo/S
-medir/XDÀÈÊñóöú
+medir/XDÀÈÊñóöúá
 meditabundo/GS
 meditación/Sn
 meditador/GS
@@ -34553,6 +34884,7 @@ médula/S
 meduloso/GS
 medusa/S
 meduseo/GS
+megafonía/S
 megáfono/S
 megalítico/GS
 megalito/S
@@ -34673,6 +35005,8 @@ membrado/GS
 membrana/S
 membranoso/SG
 membrar
+membrecía/S
+membresía/S
 membrete/S
 membrillar/S
 membrilla/S
@@ -34681,6 +35015,7 @@ membrillero/S
 membrillo/S
 membrudo/GS
 memento/S
+meme/S
 memez/S
 memnónida/S
 memo/GS
@@ -34721,7 +35056,7 @@ mendiguez/S
 mendocino/GS
 mendrugo/S
 meneador/SG
-menear/RED
+menear/REDÍ
 menegilda/S
 menesteroso/GS
 menester/S
@@ -34856,6 +35191,7 @@ mercante/S
 mercantil/GS
 mercantilismo/S
 mercantilista/S
+mercantilización/S
 mercantilizar/RED
 mercantilmente
 mercantivo/SG
@@ -34985,6 +35321,8 @@ metabolismo/S
 metacarpiano/GS
 metacarpo/S
 metacentro/S
+metadato/S
+metaestable/S
 metafísica/S
 metafísico/GS
 metáfora/S
@@ -35085,6 +35423,7 @@ mexicano/GS
 mexicano/S
 mexica/S
 México
+mezcal/S
 mezcladamente
 mezclador/GS
 mezclado/S
@@ -35133,12 +35472,15 @@ microbio/S
 microcefalia/S
 microcéfalo/GS
 microchip/S
+microcontrolador/S
 microcosmo
+microcurrículo/S
 microelectrónica/S
 microfilmador/GS
 microfilmador/S
 microfilmar/RED
 micrófono/S
+micrografía/S
 microinformática/S
 microinformático/GS
 micrómetro/S
@@ -35147,6 +35489,7 @@ micronesio/SG
 microondas
 micro/S
 microscopia/S
+microscopía/S
 microscópico/GS
 microscopio/S
 microscopista/S
@@ -35240,6 +35583,7 @@ millonario/GS
 millonésimo/GS
 millón/S
 millo/S
+milmillonésimo/GS
 miloca/S
 milocha/S
 milonga/S
@@ -35275,10 +35619,11 @@ mimosa/S
 mimoso/GS
 mín
 mina/aS
+minado/hS
 minador/fGS
 minador/S
 minal/S
-minar/REDÀÂ
+minar/hREDÀÂ
 mindoniense/S
 mineraje/S
 mineralizar/RED
@@ -35301,6 +35646,7 @@ miniaturista/S
 minicadena/S
 minifalda/S
 minifundio/S
+mínimamente
 minimista/S
 minimizar/REDÀÄ
 mínimo/GS
@@ -35336,6 +35682,7 @@ minuete/S
 minúscula/S
 minúsculo/GS
 minusvalía/S
+minusválido/GS
 minusvalorar/RED
 minutario/S
 minutar/RED
@@ -35430,6 +35777,7 @@ mismísimo/GS
 mismo/GS
 mis/O
 misoginia/S
+misógino/GS
 miss
 misses
 mistagogo/S
@@ -35463,6 +35811,7 @@ mitín
 mítines
 mitin/S
 mito/aS
+mitocondria/S
 mitología/S
 mitológico/GS
 mitológico/S
@@ -35534,11 +35883,14 @@ mocoso/GS
 modalidad/S
 modal/S
 moda/S
+modelación/S
 modelador/GS
 modelado/S
 modelar/REDÄñ
 modélico/GS
 modelista/S
+modelización/S
+modelizar/RED
 modelo/S
 módem
 moderación/S
@@ -35662,6 +36014,7 @@ molar/RED
 moldar/hRED
 Moldavia
 moldavo/GS
+moldeable/S
 moldeador/GS
 moldeado/S
 moldeamiento/S
@@ -35811,11 +36164,13 @@ monillo/S
 monipodio/S
 monismo/S
 monista/S
+monitorear/RED
 monitoreo/S
 monitor/GS
 monitoria/n
 monitorio/GS
 monitorio/nSG
+monitorizar/RED
 monitor/S
 monja/S
 monje/S
@@ -35869,6 +36224,7 @@ monoptongar/RED
 monorquidia/S
 monorrimo/SG
 monosabio/S
+monosacárido/S
 monosilábico/GS
 monosílabo/GS
 monospastos
@@ -36045,6 +36401,7 @@ morfina/S
 morfinismo/S
 morfofonológico/GS
 morfología/S
+morfológicamente
 morfológico/GS
 morfo/S
 morga/S
@@ -36218,11 +36575,12 @@ motorista/S
 motorización/S
 motorizar/RED
 moto/S
+motricidad/S
 motriz/Sd
 movedizo/GS
 movedor/GfoS
 movedura/S
-mover/IRDÄÁÝñòõù
+mover/IRDÄÀÁÝñòõù
 movible/Sa
 movido/GS
 moviente/S
@@ -36244,6 +36602,7 @@ Mozambique
 mozambiqueño/GS
 moza/S
 mozcorra/S
+Mozilla
 mozo/GS
 mozo/S
 mozuelo/GS
@@ -36282,6 +36641,7 @@ mudéjar/S
 mudo/GS
 mueblar/RED
 mueble/CS
+mueblería/S
 mueble/SG
 muebles/k
 mueblista/S
@@ -36367,7 +36727,9 @@ multicaule/S
 multicolor/S
 multicopiar/RED
 multicopista/S
+multicultural/S
 multidisciplinario/GS
+multiescala/S
 multifamiliar/S
 multifloro/GS
 multiforme/S
@@ -36607,6 +36969,10 @@ nana/S
 Nancagua
 nanear/RED
 nanita/S
+nanoindentación/S
+nanomaterial/S
+nanométrico/GS
+nanómetro/S
 nansa/S
 naonato/GS
 nao/S
@@ -36721,6 +37087,8 @@ navacero/GS
 navajada/S
 navaja/H
 navaja/S
+navajear/RED
+navajeo/S
 navajero/GS
 navajo/GS
 navajón/HS
@@ -36894,6 +37262,7 @@ nematelminto/S
 nematodo/S
 nembrar
 nemeo/GS
+némesis
 nemoroso/GS
 nemotecnia/S
 nen
@@ -36968,6 +37337,7 @@ neuma/S
 neumático/GS
 neumococo/S
 neumoconiosis
+neumonía/S
 neumonitis
 neuquino/GS
 neuralgia/S
@@ -36996,8 +37366,10 @@ neurótico/GS
 neurotransmisor/GS
 neurovegetativo/GS
 neutralidad/S
+neutralizador/GS
 neutralizar/REDñ
 neutral/S
+neutrino/S
 neutrón/S
 neutro/SG
 nevada/NS
@@ -37043,6 +37415,7 @@ niego/S
 nielar/RED
 nietastro/GS
 nieto/GS
+Nietzsche
 nieve/S
 NIF
 Níger
@@ -37093,6 +37466,7 @@ nirvana/S
 nis
 níspero/S
 níspola/S
+nítidamente
 nitidez/S
 nítido/GS
 nito/aS
@@ -37130,6 +37504,7 @@ noceda/S
 nocente/S
 nochebuena/S
 noche/S
+Nochevieja
 nochizo/S
 nocible/S
 nocional/S
@@ -37149,6 +37524,7 @@ nocturnidad/S
 nocturnino/GS
 nocturno/GS
 nocturno/S
+nodal/S
 nodátil/S
 nodo/S
 nodriza/S
@@ -37233,6 +37609,8 @@ normativo/GS
 nornordeste
 nornoroeste
 nornorueste
+noroccidental/S
+noroccidente
 noroeste
 noroestear/RED
 nortada/S
@@ -37348,6 +37726,7 @@ nucleico/S
 nucleido/S
 nucleón/S
 núcleo/S
+nucleótido/S
 nuco/S
 nudismo/hS
 nudo/Sh
@@ -37388,6 +37767,8 @@ numérico/SG
 número/S
 numerosamente
 numeroso/GS
+numismática
+numismático/GS
 numo/S
 numularia/S
 numulario/S
@@ -37482,7 +37863,8 @@ obligacionista/S
 obligación/S
 obligadamente
 obligado/GS
-obligar/REDÀñò
+obligar/REDÀÄñò
+obligatoriamente
 obligatoriedad/S
 obligatorio/GS
 obliterante/S
@@ -37500,6 +37882,7 @@ obradura/S
 obrajero/S
 obraje/S
 obra/LS
+obrante/S
 obrar/RED
 obrerismo/S
 obrerista/S
@@ -37722,6 +38105,7 @@ ofensiva/S
 ofensivo/kSG
 ofensor/SG
 oferente/S
+ofertante/S
 ofertar/REDÀÂ
 oferta/S
 ofertorio/S
@@ -37751,8 +38135,12 @@ ofrecimiento/S
 ofrendar/REDÀÁÂÃ
 ofrenda/S
 oftalmia/S
+oftalmía/S
+oftalmología/S
 oftalmológico/GS
+oftalmólogo/GS
 oftalmoscopia/S
+oftalmoscopía/S
 oftalmoscopio/S
 ofuscación/S
 ofuscador/SG
@@ -37761,6 +38149,7 @@ ofuscar/RED
 ogro/S
 oh
 ohm
+óhmico/GS
 ohmio/S
 oída/S
 oídio/S
@@ -38001,6 +38390,7 @@ ondulante/S
 ondular/RED
 ondulatorio/GS
 oneroso/GS
+ONG
 ónice/S
 ónique/S
 oniquina/S
@@ -38013,6 +38403,7 @@ onomatopéyico/SG
 onoquiles
 ontológico/GS
 ontologismo/S
+ONU
 onubense/S
 onza/S
 op
@@ -38030,7 +38421,6 @@ opa/S
 opcionalmente
 opcional/S
 opción/S
-open
 operable/Sk
 operacional/S
 operación/fS
@@ -38060,7 +38450,7 @@ opíparo/GS
 opobálsamo/S
 opón
 oponente/S
-oponer/XÀÁñóT
+oponer/XÀÁÈñóT
 oportuna/k
 oportunamente
 oportunidad/kS
@@ -38126,7 +38516,9 @@ oratorio/S
 orbe/S
 orbicular/S
 orbital/S
+orbitante/Sh
 orbitario/GS
+orbitar/RED
 órbita/S
 orca/S
 orcheliano/S
@@ -38221,6 +38613,7 @@ orientalismo/S
 orientalista/S
 oriental/S
 orientar/REDÄñòôÌÍÎÙÛÜø
+orientativo/GS
 oriente/S
 orificar/RED
 orífice/S
@@ -38261,6 +38654,7 @@ ornamento/S
 ornar/RED
 ornato/S
 ornitodelfo/GS
+ornitólogo/GS
 ornitorrinco/S
 orobanca/S
 orobias
@@ -38296,12 +38690,15 @@ ortogonal/S
 ortogonio/S
 ortografía/S
 ortográfico/GS
+ortógrafo/GS
 ortopedia/S
 ortopédico/GS
 ortopedista/S
 ortóptero/S
 orto/S
 ortosa/S
+ortotipografía
+ortotipográfico/GS
 oruga/S
 orujo/S
 orzaga/S
@@ -38325,6 +38722,7 @@ oscilador/S
 oscilante/S
 oscilar/RED
 oscilatorio/GS
+osciloscopio/S
 oscitancia/S
 osco/GS
 osco/S
@@ -38823,6 +39221,8 @@ paneslavista/S
 panetela/S
 panetería/S
 panetero/GS
+panetone/S
+panetón/S
 paneuropeo/GS
 panfilismo/S
 pánfilo/GS
@@ -38865,6 +39265,7 @@ panque/S
 pan/S
 panspermia/S
 pantalla/S
+pantallazo/S
 pantalonero/GS
 pantalón/S
 pantano/S
@@ -38964,6 +39365,7 @@ papú/S
 paquear/RED
 paquebot
 paquebote/S
+paquetería/S
 paquetero/GS
 paquete/S
 paquidermia/S
@@ -38999,6 +39401,7 @@ paradisíaco/GS
 paradislero/S
 parado/GSpn
 paradoja/S
+paradójicamente
 paradójico/GS
 paradojo/GS
 parador/GSp
@@ -39044,6 +39447,7 @@ paralizador/GS
 paralizante/S
 paralizar/REDÀÅñò
 paralogizar/RED
+paramagnético/GS
 paramentar/RED
 paramento/nS
 paramétrico/GS
@@ -39085,6 +39489,7 @@ parata/S
 parazonio/S
 parcamente
 parca/S
+parcelación/S
 parcelario/GS
 parcelar/REDÀ
 parcela/S
@@ -39234,6 +39639,7 @@ parterre/S
 partesana/S
 parte/Sv
 partible/kpS
+particionar/RED
 particionero/GS
 partición/Sp
 participación/S
@@ -39301,10 +39707,11 @@ pasamanero/GS
 pasamano/S
 pasamontañas
 pasante/S
+pasantía/S
 pasaportar/RED
 pasaporte/S
 pasarela/S
-pasar/REDÀÃÄÅÇÌÏÙÛñòôøT
+pasar/pREDÀÃÄÅÇÍÌÏÙÛñòôøT
 pasa/S
 pasatiempo/S
 pasavante/S
@@ -39931,7 +40338,7 @@ pensador/SG
 pensado/S
 pensamiento/S
 pensante/S
-pensar/IRDÀÁÂÃÄÅÆÇÐÝ
+pensar/IRDÀÁÂÃÄÅÆÇÐÝø
 pensativo/GS
 penseque/S
 pensilvano/GS
@@ -40029,7 +40436,7 @@ percusor/S
 percutir/RED
 percutor/S
 perdedor/SG
-perder/IRDÂÃÄñòõù
+perder/IRDÂÃÄÀñòõù
 perdicera/S
 perdición/S
 perdidamente
@@ -40132,6 +40539,8 @@ pericia/kS
 pericialmente
 pericial/S
 periclitar/RED
+perico/GS
+pericón/GS
 perico/S
 pericote/S
 peridoto/S
@@ -40158,14 +40567,17 @@ perinola/S
 perinquina/S
 periódicamente
 periodicidad/S
-periódico/GS
+periódico/aGS
 periódico/S
 periodicucho/S
 periodismo/S
 periodista/S
 periodístico/GS
 periodización/S
+periodograma/S
+periodoncia/S
 periodontal/S
+periodonto/S
 periodo/S
 período/Sq
 periostio/S
@@ -40177,6 +40589,7 @@ peripuesto/SG
 periquear/RED
 periquete/S
 periquillo/S
+periquito/GS
 periquito/S
 peri/S
 periscopio/S
@@ -40212,6 +40625,7 @@ permanente/S
 permanganato/S
 permeabilidad/Sk
 permeable/qSk
+permear/RED
 pérmico/GS
 permisible/S
 permisión/S
@@ -40221,7 +40635,8 @@ permisivo/GS
 permisor/GS
 permiso/S
 permitidor/GS
-permitir/REDÀÁÂÃÌñòôø
+permitir/REDÀÁÂÃÌÆñòôø
+permitividad/S
 permutabilidad/kS
 permutable/kS
 permutar/REDÀ
@@ -40613,6 +41028,7 @@ pietista/S
 pieza/S
 piezgo/S
 piezoelectricidad/S
+piezoeléctrico/S
 pifiar/RED
 pigargo/S
 pigmentación/S
@@ -40913,6 +41329,7 @@ pistura/S
 pita
 pitaco/S
 pitada/S
+Pitágoras
 pitagórico/GS
 pitahaya/S
 pitancero/S
@@ -40957,6 +41374,8 @@ pívot
 pivotante/S
 pivotar/RED
 pivote/S
+pixel/S
+píxel/S
 piyama/S
 pizarral/S
 pizarra/S
@@ -40972,6 +41391,7 @@ pizpireta/S
 pizpita/S
 pizpitillo/S
 pizza/S
+pizzería/S
 pl
 placabilidad/kS
 placable/kaS
@@ -40998,6 +41418,7 @@ plácido/GS
 placiente/Sa
 Placilla
 placimiento/S
+plafón/S
 plagado/GS
 plagal/S
 plagar/RED
@@ -41013,6 +41434,7 @@ plancha/S
 planchazo/S
 planchear/RED
 plancheta/S
+planchón/S
 planchuela/S
 planco/S
 plancton
@@ -41024,6 +41446,7 @@ planetaria/l
 planetario/lSG
 planetario/S
 planeta/S
+planetoide/S
 planga/S
 planicie/S
 planificación/S
@@ -41112,6 +41535,7 @@ platino/S
 platinotipia/S
 platirrinia/S
 platirrino/S
+Platón
 platónico/SG
 platonismo/S
 plato/NS
@@ -41201,6 +41625,9 @@ plomo/HS
 plomos/a
 plomoso/GS
 plorar
+ploteado/S
+plotear/RED
+plóter/S
 plumada/S
 plumado/GS
 plumajear
@@ -41230,6 +41657,7 @@ pluriempleo/S
 plus
 pluscuamperfecto/S
 plusvalía/S
+Plutarco
 plutocracia/S
 plutoniano/SG
 plutónico/GS
@@ -41265,6 +41693,7 @@ pobreto/S
 pobreza/S
 pobrismo/S
 pocero/S
+pocholo/GS
 pocho/SG
 pocilga/S
 pócima/S
@@ -41307,6 +41736,7 @@ podían
 podías
 podido
 podio/S
+podólogo/GS
 podómetro/S
 podón/S
 podrá
@@ -41377,6 +41807,7 @@ polichinela/S
 policíaco/GS
 policial/S
 policía/S
+Policleto
 policopia/S
 policromar/RED
 polidipsia/S
@@ -41394,6 +41825,8 @@ polígamo/SG
 poligenismo/S
 poligenista/S
 poliginia/S
+poliglota/S
+políglota/S
 poligonácea/S
 poligonáceo/GS
 poligonal/S
@@ -41401,6 +41834,7 @@ polígono/GS
 polígono/S
 polígrafo/GS
 polilla/S
+polimatía/S
 polímero/S
 polímetro/S
 polimorfismo/S
@@ -41409,6 +41843,7 @@ Polinesia
 polinesio/GS
 polineuritis
 polinizar/RED
+polinómico/GS
 polinomio/S
 poliomielitis
 polio/S
@@ -41422,6 +41857,7 @@ polis
 polisacárido/S
 polisarcia/S
 polisemia/S
+polisémico/GS
 polispasto/S
 politécnico/SG
 politeísmo/S
@@ -41626,6 +42062,8 @@ porrón/S
 portaalmizcle/S
 portaaviones
 portabandera/S
+portabilidad
+portable/S
 portabroca/S
 porta/bS
 portacaja/S
@@ -41662,6 +42100,7 @@ portañuela/S
 portaobjeto/S
 portapapeles
 portapaz/S
+portapesas
 portapliegos
 portaplumas
 portar/REDÁñòôø
@@ -41722,6 +42161,7 @@ poseedor/GS
 poseer/hREDÀÄÅÌñò
 poseída/h
 poseído/hGS
+Poseidón
 posesional/S
 posesionar/REDñ
 posesionero/S
@@ -41767,6 +42207,7 @@ pospierna/S
 pospón
 posponer/XÀÁÄñò
 pospositivo/SG
+posprocesamiento/S
 posproducción/S
 pospuesto/GS
 pos/S
@@ -41820,8 +42261,10 @@ postrimero/S
 postulanta/S
 postulante/S
 postular/RED
+póstumamente
 póstumo/GS
 postura/aSk
+posvacacional/S
 potabilidad/S
 potabilizar/REDÀ
 potable/kS
@@ -41833,6 +42276,7 @@ potasa/S
 potásico/GS
 potasio/S
 pote/CS
+potenciación/S
 potencia/kSn
 potencialidad/S
 potencialmente
@@ -41907,6 +42351,7 @@ prebendar/RED
 prebenda/S
 prebostazgo/S
 preboste/S
+precálculo/S
 precariamente
 precariedad/S
 precarista/S
@@ -41962,6 +42407,7 @@ preconizar/RED
 preconocer/IRD
 precozmente
 precoz/S
+precuela/S
 precursor/GS
 predador/gGS
 predar
@@ -42020,6 +42466,7 @@ pregonar/REDÀÄ
 pregonero/S
 pregonero/SG
 pregón/S
+pregrado/S
 preguntador/GS
 preguntar/REDÀÁÂÃÄÆÌÍÎÏÛñòôø
 pregunta/S
@@ -42111,6 +42558,7 @@ preponderar/RED
 preponer/X
 preposicional/S
 preposterar/RED
+preprocesamiento/S
 preproducción/S
 prepucio/S
 prepuesto/GS
@@ -42164,8 +42612,8 @@ presidencialista/S
 presidencial/S
 presidencia/S
 presidenta/S
-presidente/S
 presidente/SG
+presidente/wS
 presidiable/S
 presidiario/GS
 presidiar/RED
@@ -42192,6 +42640,7 @@ prestigioso/GS
 presto
 presto/aS
 presto/S
+presumiblemente
 presumido/GS
 presumir/REDÂT
 presunción/S
@@ -42201,7 +42650,7 @@ presuntivo/SG
 presunto/GS
 presuntuosamente
 presupón
-presuponer/X
+presuponer/XÁ
 presupuestario/GS
 presupuestar/REDÀ
 presupuesto/GS
@@ -42325,6 +42774,7 @@ primicerio/S
 primicerio/SG
 primicia/S
 primiclerio/S
+primigeniamente
 primigenio/SG
 primitivamente
 primitiva/S
@@ -42333,6 +42783,7 @@ primo
 primogénito/SG
 primogenitura/S
 primo/GS
+primordialmente
 primordial/S
 primordio/S
 primorear/RED
@@ -42484,6 +42935,7 @@ producir/XDÀÁÈÉñóT
 productiva/kp
 productividad/S
 productivo/kSGp
+productorio/GS
 productor/pGS
 producto/sS
 proejar/RED
@@ -42596,6 +43048,7 @@ promover/IRDÀÁÂÄ
 promulgación/S
 promulgador/GS
 promulgar/REDÀ
+pronación
 prono/GS
 pronominado/S
 pronosticador/GS
@@ -42646,7 +43099,8 @@ propio/kGS
 propio/S
 propóleos
 propón
-proponer/XÀÅÈñóö
+proponente/S
+proponer/XÀÅÂÈñóö
 proporcionada/h
 proporcionadamente
 proporcionado/hSG
@@ -42656,6 +43110,7 @@ proporcional/S
 proporcionar/REDÀÁÂÃÆñòT
 proporción/hS
 proposicional/S
+propositivo/GS
 propósito/aSh
 propriedad/S
 proprio/SG
@@ -42805,6 +43260,7 @@ provincia/S
 provisionalmente
 provisional/S
 provisora/S
+provisoriamente
 proviso/S
 provisto/GS
 provocador/GS
@@ -42841,18 +43297,24 @@ prurito/S
 prusiano/GS
 prusiato/S
 prúsico/S
+pseudónimo/GS
 pseudónimo/S
 psi
 psicoanálisis
 psicoanalista/S
 psicoanalítico/SG
 psicoanalizar/REDÁñò
+psicofisiología
+psicofisiológico/GS
 psicología/S
+psicológicamente
 psicológico/SG
 psicólogo/GS
 psicópata/S
 psicopatía/S
 psicopatología/S
+psicopedagogía/S
+psicopedagógico/GS
 psicosis
 psicotecnia/S
 psicoterapia/S
@@ -42871,6 +43333,7 @@ psitacosis
 pta/S
 pteridofita/S
 pteridofito/GS
+pteridófito/GS
 ptolemaico/GS
 pts
 pu
@@ -42986,6 +43449,9 @@ puerro/S
 puerta/Srb
 puertaventana/S
 puerto/bS
+puertorriqueñidad/S
+puertorriqueñismo/S
+puertorriqueño/GS
 pues
 puesta/apk
 puesta/aS
@@ -43000,6 +43466,7 @@ puga/S
 pugilar/S
 pugilato/S
 pugilismo/S
+pugilista/S
 púgil/S
 pugnacidad/S
 pugnante/pS
@@ -43059,6 +43526,7 @@ pulposo/SG
 pulsación/S
 pulsador/GS
 pulsador/S
+pulsante/S
 pulsar/REDÀ
 pulsar/S
 pulsatila/S
@@ -43407,6 +43875,7 @@ químicamente
 química/S
 químico/GS
 quimificar/RED
+quimio/S
 quimioterapia/S
 quimono/S
 quimo/S
@@ -43479,6 +43948,7 @@ Quirihue
 quirinal/S
 quiritario/SG
 quirite/S
+quirófano/S
 quirografario/SG
 quirógrafo/GS
 quiromancia/S
@@ -43508,7 +43978,7 @@ quitanieves
 quitanza/S
 quitapelillos
 quitapesares
-quitar/REDÀÁÂÃñòôø
+quitar/REDÀÁÂÃÆñòôø
 quita/S
 quitasol/S
 quitina/S
@@ -43607,6 +44077,7 @@ radiactivo/SG
 radiado/GS
 radiador/S
 radial/S
+radián/S
 radiantemente
 radiante/S
 radiar/REDÀ
@@ -43619,11 +44090,15 @@ radical/SO
 radicar/REDñ
 radicular/S
 radiestesia/S
+radioactividad/S
 radioactivo/GS
+radioastronomía
+radioastronómico/GS
 radiocasete/S
 radiocomunicación/S
 radiodifundir/RED
 radiodifusión/S
+radiodifusor/GS
 radioelectricidad/S
 radioeléctrico/GS
 radioescucha/S
@@ -43650,12 +44125,14 @@ radiotelegrafiar/IRD
 radiotelegrafía/S
 radiotelegrafista/S
 radiotelegrama/S
+radiotelescopio/S
 radioterapia/S
 radiotoxicidad/S
 radiotransmisor/S
 radioyente/S
 radiumterapia/S
 radón
+RAE
 raedura/S
 raer/IRDÂ
 Rafael
@@ -43885,6 +44362,7 @@ rastillar/RED
 rastrallar/RED
 rastrar/RED
 rastra/SN
+rastreable/S
 rastreador/SG
 rastrear/RED
 rastreo/S
@@ -43901,6 +44379,7 @@ rastrojear/RED
 rastrojera/S
 rastrojo/S
 rastro/SN
+rasurador/GS
 rasurar/REDÀÁÂ
 rata/LS
 ratania/S
@@ -43984,20 +44463,21 @@ realengo/S
 realete/S
 realeza/S
 realidad/kS
+realimentación/S
+realimentar/RED
 realismo/tS
 realista/tS
 realito/S
 realizable/Sk
 realización/S
 realizador/GS
-realizar/REDÄñ
+realizar/REDÀÄñ
 real/kS
 realmente
 real/NSO
 realquilar/RED
 realzar/RED
 reamar/RED
-reanimar/REDÀÁñ
 reanudación/S
 reanudar/REDÀÁñ
 reaparecer/IRD
@@ -44104,6 +44584,7 @@ recambio/S
 recancamusa/S
 recancanilla/S
 recapacitar/RED
+recapitulación/S
 recapitular/RED
 recapturar/RED
 recargador/S
@@ -44147,6 +44628,7 @@ receptor/GS
 receptor/SG
 recercar/RED
 recesión/S
+receso/S
 recetador/GS
 recetar/REDÀÁÂÆ
 receta/S
@@ -44207,6 +44689,7 @@ recluir/IRDÀÁÈñ
 reclusión/S
 recluso/GS
 reclusorio/S
+reclutador/GS
 reclutamiento/S
 reclutar/REDÀÁÂ
 recluta/S
@@ -44246,12 +44729,13 @@ recompón
 recomponer/XÀÁÂ
 recompuesto/GS
 reconcentramiento/S
-reconciliar/REDÁÂñò
+reconciliar/REDÁÂñòA
 reconcomer/RED
 reconcomio/S
 recondenar/RED
 reconditez/S
 recóndito/SG
+reconducible/S
 reconducir/XDÀÁÈ
 reconfortar/REDÀÁÂÄ
 reconocer/IRDÀÁÂÃÄÅñòõ
@@ -44371,6 +44855,7 @@ redar/RED
 redaya/S
 redecir/X
 rededor/S
+redefinir/REDÁñò
 redención/S
 redendija/S
 redentor/GS
@@ -44471,6 +44956,7 @@ refajo/S
 refeccionar
 refección/S
 refectorio/S
+referenciar/RED
 referencia/S
 referendario/S
 referendo/S
@@ -44499,7 +44985,7 @@ reflejar/REDÀñò
 refleja/S
 reflejo/GS
 réflex
-reflexionar/RED
+reflexionar/REDÄ
 reflexión/kS
 reflexiva/k
 reflexivamente
@@ -44516,6 +45002,7 @@ reformar/REDÀñô
 reformatorio/GS
 reformatorio/S
 reformista/S
+reformular/RED
 reforzador/GS
 reforzador/S
 reforzar/IRDÀÁñ
@@ -44646,7 +45133,7 @@ región/S
 regir/XDÀÁñ
 registrada/S
 registrador/GS
-registrar/REDÀÁÅÆñò
+registrar/REDÀÁÅÆñòô
 registro/S
 regitivo/GS
 reglado/GS
@@ -44691,9 +45178,10 @@ reguardar/RED
 regüeldo/S
 reguera/S
 reguero/S
+reguetón/S
 reguilar/RED
 reguilete/S
-regulación/S
+regulación/dS
 regulado/GS
 regulador/S
 regulador/SG
@@ -44709,7 +45197,7 @@ regular/S
 regulativo/GS
 régulo/S
 regurgitar/RED
-regusto
+regusto/S
 rehabilitar/REDÀÂñ
 rehacer/XÀÁñ
 rehala/S
@@ -44802,6 +45290,8 @@ reingresar/RED
 reiniciar/REDÀ
 reino/sS
 Reino Unido
+reinsertado/GS
+reinsertar/REDñòôø
 reinstalar/REDÀñ
 reintegrar/REDÀÁÂñ
 reintegro/S
@@ -44933,6 +45423,7 @@ rematadamente
 rematado/GS
 rematamiento/S
 rematante/S
+remate/S
 rembolsar/RED
 remecer/RED
 remedador/GS
@@ -44947,6 +45438,7 @@ remellado/S
 remellar/RED
 remembranza/S
 remembrar/RED
+rememoranza/S
 rememorar/REDÀ
 remendar/IRDÀ
 remendón/GS
@@ -44981,7 +45473,7 @@ remolcar/REDÀ
 remoler/IRD
 remolinar/RED
 remolinear/RED
-remolino
+remolino/S
 remolonear/RED
 remolón/S
 remolque/S
@@ -44989,7 +45481,7 @@ remondar/RED
 remontado/S
 remontamiento/S
 remontar/REDÀÂñòø
-remonte
+remonte/S
 remontista/S
 remoque/S
 remorar
@@ -45039,7 +45531,7 @@ rendidamente
 rendido/GS
 rendija/S
 rendimiento/S
-rendir/XDÀÁÊËñ
+rendir/XDÀÁÂÊËñ
 renegado/S
 renegar/IRD
 renegrear/RED
@@ -45109,11 +45601,10 @@ reparación/S
 reparamiento/S
 reparar/REDÀÂÄø
 reparativo/SG
-reparo
 reparón/GS
+reparo/S
 repartidor/GS
 repartir/REDÁÀÄÅÌñòô
-repasar/REDÀÄñø
 repasata/S
 repastar/RED
 repatear/RED
@@ -45125,7 +45616,7 @@ repelar/RED
 repelente/S
 repeler/REDÀñ
 repellar/RED
-repelo
+repelo/s
 repelús
 repeluzno/S
 repensar/IRDÀÁ
@@ -45203,6 +45694,7 @@ reprensible/Sk
 represalia/S
 represar/RED
 representable/kS
+representacional/S
 representanta/S
 representante/S
 representar/REDÀÂÃÄÅñò
@@ -45217,6 +45709,7 @@ reprochable/kS
 reprochador/GS
 reprochar/REDÁÂÃÇñò
 reproche/S
+reproducible/S
 reproducir/XDÀÂñ
 reproductivamente
 repropiar/RED
@@ -45257,6 +45750,7 @@ requintador/GS
 requintar/RED
 requirente/S
 requisar/REDÁ
+requisición/S
 requisitorio/GS
 requisito/S
 requive/S
@@ -45305,6 +45799,7 @@ rescripto/S
 rescrito/S
 resecar/RED
 resecar/REDÀ
+resección/S
 reseco/S
 resegar/IRD
 reseguir/XD
@@ -45314,6 +45809,7 @@ resembrar/IRD
 resentir/XDñ
 reseñar/REDÀT
 resequido/GS
+reservación/S
 reservadamente
 reservado/GS
 reservado/S
@@ -45321,6 +45817,7 @@ reservar/REDÀÂÄÌÙñòT
 reserva/S
 reservativo/GS
 reservista/S
+reservorio/S
 resfriador/SG
 resfriado/S
 resfriadura/S
@@ -45584,6 +46081,8 @@ retozar/RED
 retractable/Sk
 retractación/S
 retractar/REDñ
+retractilado/S
+retractilar/RED
 retractilidad/S
 retráctil/S
 retraducir/XD
@@ -45609,8 +46108,11 @@ retribución/S
 retribuir/IRDÀÁÂÃÊ
 retributivo/GS
 retrillar/RED
+retroacción/S
 retroactividad/S
 retroactivo/GS
+retroalimentación/S
+retroalimentar/RED
 retrocar
 retrocarga/S
 retroceder/RED
@@ -45633,12 +46135,12 @@ reuma/S
 reumática/c
 reumático/GcS
 reumatismo/S
+reumatoide/S
 reunir/IRDÀÁÂÄÅñòõù
 reuntar/IRD
 reusense/S
 reutilizar/REDAÀ
 rev
-revacunar/RED
 revalidar/REDÀ
 revalorizar/RED
 revaluar/IRD
@@ -45706,7 +46208,7 @@ revisto/GS
 revitalizar/REDÀ
 revividero/S
 revivificar/RED
-revivir/REDÀ
+revivir/REDÀÌÙ
 revocabilidad/Sk
 revocable/kS
 revocablemente
@@ -45786,6 +46288,8 @@ ribeteado/S
 ribetear/RED
 ribete/S
 ribonucleico/S
+ribonucleótido/S
+ribosa/S
 ricacho/GS
 ricahembra/S
 ricahombría/S
@@ -46299,6 +46803,7 @@ rubor/S
 rubo/S
 rubricante/S
 rubricar/REDÀÄ
+rúbrica/S
 rubricista/S
 rubriquista/S
 rubro/GS
@@ -46576,6 +47081,7 @@ saetazo/S
 saetear/RED
 saetero/GS
 Sáez
+safari/S
 safena/S
 safismo/S
 sagacidad/S
@@ -46845,7 +47351,7 @@ salvamento/S
 salvamiento/S
 salva/N
 salvante
-salvar/REDÀÅÆÍñòôø
+salvar/REDÀÅÂÆÍñòôø
 salvaterrano/GS
 salvático/GS
 salvatiqueza/S
@@ -47170,7 +47676,7 @@ satisfechamente
 satisfecho/GS
 satisfecho/kGS
 sato/S
-saturado/GS
+saturado/GSk
 saturar/REDñTA
 saturnal/S
 saturnino/SG
@@ -47253,6 +47759,7 @@ seca/S
 secatura/S
 seccionador/GS
 seccionador/S
+seccional/S
 seccionar/REDÀÂÆ
 sección/lS
 secesionista/S
@@ -47399,8 +47906,9 @@ selacio/GS
 selacio/S
 seleccionador/GS
 seleccionar/REDÀÄÌÙ
-selección/S
+selección/Sn
 selectas
+selectivamente
 selectividad/S
 selectivo/GS
 selecto/GS
@@ -47410,6 +47918,8 @@ selenio/S
 selenita/S
 selenitoso/GS
 seleniuro/S
+selenografía
+selenógrafo/GS
 selenosis
 sellador/GS
 sellado/S
@@ -47525,6 +48035,8 @@ senescente/S
 senilidad/S
 senil/S
 senior/S
+senoidal/S
+senoide/S
 seno/S
 sen/S
 sensacionalismo/S
@@ -47839,9 +48351,11 @@ severo/SG
 sevillano/GS
 sevillano/SG
 Sewell
+sexado/S
 sexagenario/GS
 sexagesimal/S
 sexagésimo/GS
+sexar/RED
 sexcentésimo/SG
 sexenio/S
 sexis
@@ -47895,11 +48409,24 @@ siciliano/GS
 siciliano/S
 sicionio/GS
 siclo/S
+sicoanálisis
+sicoanalista/S
+sicoanalítico/GS
 sicofante/GS
+sicofisiología
+sicofisiológico/GS
+sicología/S
 sicológico/GS
 sicólogo/GS
 sicomoro/S
+sicopatía/S
+sicopatología/S
+sicopedagogía/S
+sicopedagógico/GS
 sicosis
+sicotecnia/S
+sicoterapia/S
+sicótico/GS
 sida/S
 sidecar
 sideral/S
@@ -48004,6 +48531,7 @@ silíceo/SG
 sílice/S
 silícico/GS
 silicio/S
+silicona/S
 silicosis
 silicua/S
 silingo/GS
@@ -48055,6 +48583,8 @@ simia/S
 simiente/S
 simienza/S
 simiesco/GS
+similaridad/S
+similarmente
 similar/S
 similitudinario/GS
 similitud/S
@@ -48195,6 +48725,7 @@ sintetizador/SG
 sintetizar/REDÀÂÄT
 síntoma/S
 sintomático/GS
+sintonía/S
 sintónico/GS
 sintonismo/S
 sintonizador/S
@@ -48210,6 +48741,9 @@ Sion
 sionismo/S
 sionista/S
 siquiatra/S
+siquiatría/S
+siquiátrico/GS
+síquico/GS
 siquiera
 siracusano/SG
 sirena/S
@@ -48226,6 +48760,7 @@ sirle/S
 sirmiense/S
 siroco/S
 siro/GS
+sirope/S
 sirria/S
 sirte/S
 sírvanse
@@ -48363,7 +48898,6 @@ sobremesa
 sobremodo
 sobrenadar/RED
 sobrenaturalmente
-sobrentender/IRD
 sobrentendido/GS
 sobrentendido/S
 sobrepasar/REDÀÁÄ
@@ -48404,6 +48938,7 @@ sobreveste/G
 sobrevestir/XD
 sobrevidriera
 sobrevienta/S
+sobreviniente/S
 sobrevivir/RED
 sobrevolar/IRDÀ
 sobrexceder/RED
@@ -48436,6 +48971,7 @@ socialdemocracia/S
 socialdemócrata/S
 socialismo/S
 socialista/S
+socialización/S
 socializador/SG
 socializar/REDÀ
 social/kSac
@@ -48459,6 +48995,7 @@ socorredor/SG
 socorrer/REDÀÁÂÍñ
 socorrista/S
 socorro/OS
+Sócrates
 socrocio/S
 soda/S
 sódica/o
@@ -48475,6 +49012,7 @@ sofás
 sofión/S
 sofismo/GS
 sofista/S
+sofisticación/S
 sofisticar/RED
 sofística/S
 sofístico/SG
@@ -48486,6 +49024,7 @@ sofocador/GS
 sofocamiento/S
 sofocante/S
 sofocar/REDÀÁÄÅñò
+Sófocles
 sofoco/S
 sofoquina/S
 sofreír/XDÀÔá
@@ -48497,6 +49036,7 @@ software
 soga/NS
 soguear/RED
 soguero/S
+sogún
 soja/S
 sojuzgador/SG
 sojuzgar/REDÀ
@@ -48625,7 +49165,6 @@ sollozante/S
 sollozar/RED
 sollozo/S
 solo
-sólo
 solo/GS
 Solomon
 solomo/NS
@@ -48641,6 +49180,7 @@ soltero/GS
 soltura/S
 solubilidad/kS
 soluble/pkS
+solucionario/S
 solucionar/REDÀÁÂÆ
 solución/pS
 solutiva/p
@@ -48821,9 +49361,11 @@ sornar/RED
 sorna/S
 soroche/S
 soro/S
+sorprendentemente
 sorprendente/S
 sorprender/REDÀÁÂÄÅÆñòø
 sorpresa/S
+sorpresivamente
 sorpresivo/GS
 sorrabar/RED
 sorra/S
@@ -48906,6 +49448,7 @@ soviet/S
 sóviet/S
 sovoz/S
 soy
+Spinoza
 sport
 sport/S
 sr/GS
@@ -48915,6 +49458,7 @@ srta
 ss
 stand
 stands
+>>>>>>> Stashed changes
 sto/G
 su
 suadir
@@ -48949,8 +49493,8 @@ subdesarrollado/GS
 subdistinguir/RED
 súbdito/GS
 subdividir/REDÀÄ
+subducción/S
 subejecutor/S
-subentender/IRD
 suberificar/RED
 suberoso/GS
 subestimar/REDÀ
@@ -49025,6 +49569,7 @@ subsistente/kS
 subsistir/RED
 subsolar/IRD
 substancial/fSk
+substancialidad/S
 substancialmente
 substanciar/RED
 substancia/S
@@ -49218,6 +49763,7 @@ sumario/S
 sumarísimo/GS
 sumar/REDÀÁÂÃÄÅÆÛñò
 suma/S
+sumatoria/S
 sumatorio/S
 sumergible/kS
 sumergible/S
@@ -49259,7 +49805,6 @@ superante
 superar/REDÀÁÂÄÅÆñòô
 superávit
 superchería/S
-superentender/IRD
 supererogación/S
 supererogatorio/SG
 superficialidad/S
@@ -49279,6 +49824,7 @@ superiormente
 superior/S
 superlativamente
 superlativo/GS
+supermasivo/GS
 supermercado
 superno/GS
 supernumerario/GS
@@ -49286,10 +49832,13 @@ superpón
 superponer/XÀÈÊ
 superpuesto/GS
 superrealista/S
+supersimetría/S
+supersimétrico/GS
 superstición/S
 supersticiosamente
 supersticioso/GS
 supersubstancial/S
+supertierra/S
 supervalorar/RED
 supervén
 superveniencia/S
@@ -49304,6 +49853,7 @@ suplantación/S
 suplantador/GS
 suplantar/REDÀÁÂÄT
 suplefaltas
+suplementariamente
 suplementario/GS
 suplementero/S
 suplemento/S
@@ -49329,7 +49879,9 @@ supraclavicular/S
 supranacional/S
 suprarrealismo/S
 suprarrenal/S
+suprasensible/S
 supremacía/S
+supremamente
 suprema/S
 supremo/GS
 supremo/SG
@@ -49411,6 +49963,7 @@ suspiro/S
 suspiroso/GS
 sustanciación/S
 sustancial/fSk
+sustancialidad/S
 sustancialmente
 sustanciar/REDÀ
 sustancia/S
@@ -49555,6 +50108,7 @@ táctilmente
 táctil/S
 tacto/Sf
 tacuara/S
+taekwondo/S
 tafanario/S
 tafetán/S
 tafia/S
@@ -49658,6 +50212,7 @@ tallar/REDÀ
 tallar/S
 tallecer/IRD
 talle/gS
+tallerista/S
 taller/S
 tallista/gS
 tallo/S
@@ -49751,6 +50306,7 @@ tangiblemente
 tangidera/S
 tangir/RED
 tango/GNS
+tanguear/RED
 tanino/S
 tanor/GS
 tanoría/S
@@ -49826,6 +50382,8 @@ taquigrafiar/IRD
 taquigrafía/S
 taquillaje/S
 taquillero/GS
+taquiónico/GS
+taquión/S
 tarabilla/S
 tarabita/S
 taracear/RED
@@ -50003,6 +50561,8 @@ tecnificar/RED
 tecnología/S
 tecnológicamente
 tecnológico/GS
+tectónica
+tectónico/GS
 teda/S
 tedero/S
 tedeum
@@ -50053,6 +50613,7 @@ telecabina/S
 telecomunicación/S
 teleconferencia/S
 telediario/S
+teledirigido/GS
 teléf
 teleférico/S
 telefonazo/S
@@ -50071,6 +50632,7 @@ telegrafista/S
 telégrafo/S
 telegrama/S
 tele/GS
+teleindicador/S
 telele/S
 telémetro/S
 telendo/GS
@@ -50083,10 +50645,13 @@ telera/S
 telescópico/SG
 telescopio/S
 telesilla/S
+telespectador/GS
 teleta/S
 teletexto/S
 teletipo/S
 teletrabajador/GS
+teletrabajo/S
+televidente/S
 televisar/RED
 televisión/S
 televisivo/SG
@@ -50361,6 +50926,7 @@ tergiversador/GS
 tergiversantemente
 tergiversar/REDÀÄT
 teridofito/GS
+teridófito/GS
 terliz/S
 termal/S
 termas
@@ -50498,6 +51064,7 @@ tesela/S
 tesina/S
 tesis
 tesitura/S
+teslámetro/S
 tesla/S
 teso/GS
 tesonero/GS
@@ -50652,6 +51219,7 @@ timbal/S
 timba/S
 timbirimba/S
 timbrado/GS
+timbrador/GS
 timbrar/RED
 timbre/HS
 timbreo/GS
@@ -50717,6 +51285,7 @@ tioneo/S
 tiovivo/S
 tipa/S
 tipejo/GS
+tipeo/S
 tipiadora/S
 típicamente
 tipicidad/S
@@ -50799,7 +51368,10 @@ tisis
 tisular/S
 tisuria/S
 tít
+titánico/GS
+titánide/S
 titanio/S
+titán/S
 titear/RED
 titerero/GS
 títere/S
@@ -51240,7 +51812,7 @@ totalitarismo/S
 totalización/S
 totalizar/REDÄ
 totalmente
-total/S
+total/Ss
 totanero/GS
 tótem
 totémico/SG
@@ -51347,6 +51919,7 @@ tragasantos
 tragavino/S
 tragavirotes
 tragedia/S
+trágicamente
 tragicomedia/S
 tragicómico/SG
 trágico/SG
@@ -51395,6 +51968,7 @@ tramo/S
 tramoya/S
 tramoyista/S
 trampa/NS
+trampantojo/S
 trampazo/S
 trampeador/GS
 trampear/RED
@@ -51444,6 +52018,10 @@ transcurrir/RED
 transducción/S
 transductor/S
 transeúnte/S
+transexual
+transexualidad/S
+transexualismo/S
+transexual/S
 transferencia/S
 transferible/Sk
 transferidor/GS
@@ -51776,7 +52354,9 @@ tratar/REDÀÁÂÄÅÍÙÚñòø
 trato/pSf
 traumado/GS
 trauma/S
+traumático/GS
 traumatismo/S
+traumatizante/S
 traumatizar/RED
 traversa/S
 travesaño/S
@@ -51788,6 +52368,10 @@ travesío/GS
 travesío/SG
 través/S
 travestir/XD
+travesti/S
+travestí/S
+travestismo/S
+travestista/S
 travesura/S
 travieso/GS
 trayectoria/S
@@ -51957,6 +52541,7 @@ trigésimo/SG
 trigla/S
 triglifo/S
 trigonal/S
+trigonometría
 trigonométrico/GS
 trígono/S
 trigo/S
@@ -52288,8 +52873,12 @@ tuétano/S
 tufillas
 tufo/S
 tugurio/S
+tuitear/RED
+tuiteo/S
+tuitero/GS
 tuitiva/k
 tuitivo/kSG
+tuit/S
 tulio/S
 tulipán/S
 tulipa/S
@@ -52341,6 +52930,7 @@ tunear/RED
 tunecí
 tunecíes
 tunecino/GS
+tunelamiento/S
 túnel/S
 tunera/a
 tunero/aSG
@@ -52549,6 +53139,7 @@ unanimidad/S
 únanlo
 únanlos
 únanse
+unario/GS
 unas
 únase
 uncia/S
@@ -52573,6 +53164,7 @@ ungular/S
 unicamente
 únicamente
 unicaule/S
+UNICEF
 unicelular/S
 unicidad/S
 unicolor/S
@@ -52586,6 +53178,7 @@ unidor/SG
 unifamiliar/S
 unificación/S
 unificado/GS
+unificador/GS
 unificar/REDÀÁÄñ
 uniformador/GS
 uniformar/REDÁñ
@@ -52594,6 +53187,7 @@ uniforme/S
 uniformidad/S
 unigénito/GS
 unigénito/S
+unilateralmente
 unilateral/S
 unimismar/RED
 unionista/S
@@ -52620,6 +53214,7 @@ universidad/S
 universitario/GS
 universo/GS
 universo/S
+unívocamente
 univocar/RED
 univocidad/S
 unívoco/SG
@@ -52662,6 +53257,7 @@ uña/S
 uñero/S
 upa
 upar/RED
+<<<<<<< Updated upstream
 urajear/RED
 uralaltaico/SG
 uraloaltaico/GS
@@ -52711,6 +53307,7 @@ uromancia/S
 uroscopia/S
 urraca/S
 ursina/S
+URSS
 ursulina/S
 urticante/S
 urticaria/S
@@ -52845,7 +53442,7 @@ vacío/S
 vacío/SG
 vacuidad/S
 vacunador/GS
-vacunar/REDÀÁÂÄñ
+vacunar/pAREDÀÁÂÄñ
 vacuna/S
 vacuno/GS
 vacunoterapia/S
@@ -53132,6 +53729,8 @@ vedija/S
 veedor/GS
 veedor/prS
 veer
+veganismo
+vegano/GS
 vega/S
 vegetabilidad/S
 vegetación/S
@@ -53204,6 +53803,7 @@ velarte/S
 vela/S
 Velasco
 velatorio/S
+velcro/S
 veleidad/S
 veleidoso/GS
 velejar/RED
@@ -53381,6 +53981,7 @@ veraz/S
 verbal/gS
 verbalismo/S
 verbalista/S
+verbalizar/RED
 verbalmente
 verba/S
 verbasco/S
@@ -53504,6 +54105,8 @@ versificación/S
 versificador/GS
 versificar/RED
 versión/akpSsf
+versionamiento/S
+versionar/RED
 versista/S
 ver/SO
 verso/pSf
@@ -53613,6 +54216,7 @@ vicecanciller/S
 viceconsiliario/GS
 viceconsulado/S
 vicecónsul/S
+vicedirector/GS
 vicegerencia/S
 vicegerente/S
 vicegobernador/GS
@@ -53967,6 +54571,7 @@ vivaquear/RED
 vivaque/S
 vivaracho/GS
 vivariense/S
+vivario/S
 vivar/REDÌÙ
 vivar/S
 vivazmente
@@ -53988,7 +54593,7 @@ vivificante/S
 vivificar/REDÀ
 vivijagua/S
 vivíparo/GS
-vivir/REDÌÙ
+vivir/REDÀÌÙ
 vivir/S
 vivismo/S
 vivista/S
@@ -54075,6 +54680,7 @@ voltereta/S
 volterianismo/S
 volteriano/SG
 volteta/S
+voltímetro/S
 voltio/S
 voltizo/GS
 volt/S
@@ -54083,6 +54689,7 @@ volublemente
 voluble/S
 volumen/S
 volumetría/S
+volumétrico/GS
 voluminoso/GS
 voluntad/S
 voluntariado/S
@@ -54117,6 +54724,7 @@ vórtice/S
 vortiginoso/SG
 vos
 vosear/RED
+vosotros/G
 votación/S
 votada/S
 votador/GS
@@ -54166,13 +54774,12 @@ vusted/S
 wagneriano/SG
 Wallis
 washingtoniano/GS
+waterpolo
 watt/S
 web
 weber
 webers
 webs
-western
-westerns
 westfaliano/SG
 whisky
 whiskys
@@ -54204,6 +54811,7 @@ yaciente/S
 yacija/S
 yacimiento/S
 yacio/S
+yacusi/S
 yaguar/S
 yagua/S
 yak/S
@@ -54235,6 +54843,7 @@ yéndose
 yéndote
 yen/S
 yente/S
+yerbabuena/S
 yerbajo/S
 yerba/Sh
 yerbatero/GS
@@ -54290,6 +54899,7 @@ yóquey
 york
 yubarta/S
 yuca/S
+yudo
 yugada/S
 yuglandácea/S
 yuglandáceo/GS
@@ -54311,6 +54921,8 @@ yusera/S
 yusero/GS
 yuso
 yute/S
+yutoazteca/S
+yutonahua/S
 yuxtapón
 yuxtaponer/X
 yuxtaposición/S
