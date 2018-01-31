@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Bu şəkli paylaşmaq mümkün olmadı">
 <!ENTITY save_as_pdf "PDF kimi yadda saxla">
 <!ENTITY print "Çap et">
+<!ENTITY view_page_source "Səhifənin qaynağını göstər">
 <!ENTITY find_in_page "Səhifədə Tap">
 <!ENTITY desktop_mode "Masaüstü saytını istə">
 <!ENTITY page "Səhifə">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Yeni vərəqdə aç">
 <!ENTITY contextmenu_open_private_tab "Məxfi Vərəqdə Aç">
 <!ENTITY contextmenu_remove "Sil">
-<!ENTITY contextmenu_add_to_launcher "Ana ekrana əlavə et">
 <!ENTITY contextmenu_add_page_shortcut "Səhifə Qısayolu Əlavə et">
 <!ENTITY contextmenu_set_as_homepage "Ana səhifə olaraq qur">
 <!ENTITY contextmenu_share "Paylaş">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Səhifə silindi">
-
 <!ENTITY folder_removed "Qovluq silindi">
 
 <!ENTITY bookmark_edit_title "Əlfəcini düzəlt">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; güncəldir">
 <!ENTITY whatsnew_notification_summary "Bu versiyada olan yenilikləri öyrənin">
-
-<!ENTITY promotion_add_to_homescreen "Ana ekrana əlavə et">
 
 <!ENTITY promotion_add_page_shortcut "Səhifə qısayolu əlavə et">
 
