@@ -24,3 +24,8 @@
 <!ENTITY overrideNamespaces.accesskey "T">
 <!ENTITY pop3DeferringDesc.label "Toq niqasäx taqoya'l pa re rub'i' rutaqoya'l k'uxasamaj re', tokisäx re yakwuj re' richin yeyak ri k'ak'a' taq rutzijol:" >
 <!ENTITY accountInbox.label "Rumolb'al re rub'i' taqoya'l re'">
+<!ENTITY accountInbox.accesskey "s">
+<!ENTITY deferToServer.label "Rumolb'al jalan chi rub'i' taqoya'l">
+<!ENTITY deferToServer.accesskey "j">
+<!ENTITY deferGetNewMail.label "Titz'aqatisäx re k'uxasamaj re' toq nik'ul k'ak'a' taqoya'l">
+<!ENTITY deferGetNewMail.accesskey "T">
