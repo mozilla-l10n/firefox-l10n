@@ -10,4 +10,9 @@
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "Ri k'uxasamaj yeruk'üt taq yakwuj kik'wan taq achyakwuj chuqa' taq tzijol">
 <!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY maximumConnectionsNumber.label "Nïm rajilab'al rokem ri k'uxasamaj pa jumejyak">
+<!ENTITY maximumConnectionsNumber.accesskey "N">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Re taq ajowab'äl re' nikiya' retal ri taq kikojol b'i'aj pa ri IMAP k'uxasamaj">
+<!ENTITY personalNamespace.label "Ichinan rukojol b'i'aj:">
+<!ENTITY personalNamespace.accesskey "I">
