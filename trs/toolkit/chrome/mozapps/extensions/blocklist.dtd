@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY blocklist.title             "Si guruhuaj ni hua sa a'ui' yi'ì nej komplemênto">
-<!ENTITY blocklist.style             "gachrà': 45em; yakàn: 30em">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; nari' sisi nej komplementô hua nan a'ui' yi'ì riña sa ni'iajt:">
 <!ENTITY blocklist.softblocked       "Guendâ ga nìn gache nunt ni, achín ni'iaj ñûnj riñat sisi guxunt nej komplementô nan ni dunayi'ì nakà ñûnt si aga't.">
 <!ENTITY blocklist.hardblocked       "Naran riña nej komplementô nan dadin' ga'ue ga'uì' yi'ì nej man sò' asi si gagâ't, sani da'uit dunayi'ì nakà ñûnt si aga't da' gà' 'ngo narè' man.">
