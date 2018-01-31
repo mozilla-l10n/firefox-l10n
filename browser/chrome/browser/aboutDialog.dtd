@@ -14,7 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label3               "अद्यावधिक गर्न &brandShorterName; पुन: सुरु गर्नुहोस् ।">
+<!ENTITY update.updateButton.label3               "अद्यावधिक गर्न &brandShorterName; पुन: सुरु गर्नुहोस्।">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
@@ -41,7 +41,7 @@
 <!ENTITY community.end3             " जसले वेबलाई खुल्ला, सार्वजनिक र सबैमा पहुँचको लागि सहकार्यमा काम गर्दैछ।">
 
 <!ENTITY helpus.start               "सहयोग गर्न चाहनुहुन्छ? ">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "दान गर्नुहोस्">
 <!ENTITY helpus.middle              " अथवा ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
