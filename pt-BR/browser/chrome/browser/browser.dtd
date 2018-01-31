@@ -976,7 +976,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Reiniciar para atualizar o &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Uma extensão alterou a página que você vê ao abrir uma nova aba. Você pode restaurar as suas definições se não quiser esta alteração.">
+<!ENTITY newTabControlled.message "Uma extensão alterou a página que você vê ao abrir uma nova aba. Você pode restaurar as suas configurações se não quiser esta alteração.">
 <!ENTITY newTabControlled.header.message "Sua nova aba foi alterada.">
 <!ENTITY newTabControlled.keepButton.label "Manter alterações">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
