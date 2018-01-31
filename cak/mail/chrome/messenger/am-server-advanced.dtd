@@ -9,4 +9,5 @@
 <!ENTITY usingSubscription.label "Kek'ut pe xa xe ri etz'ib'an taq yakwuj">
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "Ri k'uxasamaj yeruk'üt taq yakwuj kik'wan taq achyakwuj chuqa' taq tzijol">
+<!ENTITY dualUseFolders.accesskey "f">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
