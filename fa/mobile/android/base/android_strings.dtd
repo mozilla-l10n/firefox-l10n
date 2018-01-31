@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "نمی‌تواند این تصویر را به اشتراک بگذارد">
 <!ENTITY save_as_pdf "ذخیره به صورت PDF">
 <!ENTITY print "چاپ">
+<!ENTITY view_page_source "نمایش منبع صفحه">
 <!ENTITY find_in_page "پیدا کردن در صفحه">
 <!ENTITY desktop_mode "درخواست نسخه رومیزی پایگاه">
 <!ENTITY page "صفحه">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "باز کردن در زبانهٔ جدید">
 <!ENTITY contextmenu_open_private_tab "باز کردن در زبانهٔ خصوصی">
 <!ENTITY contextmenu_remove "حذف">
-<!ENTITY contextmenu_add_to_launcher "اضافه کردن به صفحه‌ی خانه">
 <!ENTITY contextmenu_add_page_shortcut "اضافه کردن میانبر صفحه">
 <!ENTITY contextmenu_set_as_homepage "تنظیم به عنوان صفحه‌خانگی">
 <!ENTITY contextmenu_share "اشتراک‌گذاری">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "صفحه حذف شده">
-
 <!ENTITY folder_removed "پوشه حذف شد">
 
 <!ENTITY bookmark_edit_title "ویرایش نشانک">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; به‌روز است">
 <!ENTITY whatsnew_notification_summary "تغییرات این نسخه را ببینید">
-
-<!ENTITY promotion_add_to_homescreen "اضافه کردن به صفحه‌ی خانه">
 
 <!ENTITY promotion_add_page_shortcut "اضافه کردن میان بر صفحه">
 
