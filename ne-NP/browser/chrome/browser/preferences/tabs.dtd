@@ -8,6 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "नयाँ सञ्झ्यालहरू नयाँ ट्याबमा खोल्नुहोस्">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "धेरै ट्याबहरू बन्द गर्न खोज्दा तपाईँलाई चेतावनी दिनुहोस्">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 

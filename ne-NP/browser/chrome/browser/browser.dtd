@@ -231,11 +231,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "तपाईँले यो वेबसाइटको लागि आफ्नो माइक्रोफोन अवरुद्ध गर्नु भएको छ">
 <!ENTITY urlbar.screenBlocked.tooltip            "तपाईँ आफ्नो स्क्रीन साझेदारी देखि यो वेबसाइट अवरुद्ध गर्नु भएको छ । ">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "तपाईँले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ । ">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "तपाईँले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ। ">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ ।">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउनुहोस्">
 
@@ -301,7 +300,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "नयाँ निजी सञ्झ्याल">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "नयाँ Non-e10s सञ्झ्याल">
 
 <!ENTITY editMenu.label         "सम्पादन गर्नुहोस्">
 <!ENTITY editMenu.accesskey       "E">
@@ -356,18 +354,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "सबै इतिहासहरू देखाउनुहोस्">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "अनुकुलित बनाउनुहोस्">
-<!ENTITY appMenuCustomize.tooltip "मेनु र उपकरणपट्टीहरू अनुकूलित गर्नुहोस्">
-<!ENTITY appMenuCustomizeExit.label "अनुकूलित निकास">
-<!ENTITY appMenuCustomizeExit.tooltip "अनुकूलित समाप्त">
-
 <!ENTITY appMenuHistory.showAll.label "सबै इतिहासहरू देखाउनुहोस्">
 <!ENTITY appMenuHistory.clearRecent.label "हालको इतिहास खाली गर्नुहोस्…">
 <!ENTITY appMenuHistory.restoreSession.label "अघिल्लो सत्र पुनर्स्थापना गर्नुहोस्">
 <!ENTITY appMenuHistory.viewSidebar.label "साइड्बारको इतिहास हेर्नुहोस्">
 <!ENTITY appMenuHistory.recentHistory.label "हालको इतिहास">
 <!ENTITY appMenuHelp.label "मद्दत">
-<!ENTITY appMenuHelp.tooltip "सहयोग मेनु खोल्नुहोस्">
 
 <!ENTITY appMenuRemoteTabs.label "Sync गरिएको ट्याबहरू">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -442,14 +434,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "एक्सटेन्सन:">
 <!ENTITY urlbar.switchToTab.label     "यस ट्याबमा स्विच गर्नुहोस्:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "के तपाईँ सुझावद्वारा आफ्नो खोज अनुभव सुधार गर्न चाहनुहुन्छ?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "अझ जान्नुहोस्…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "होेइन">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "हो">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "टिप:">
@@ -728,8 +712,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "आधारभूत पृष्ठ शैली">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "यो वेबसाइटको लागि पप-अप अवरुद्ध ढाँचा बदल्नुहोस्">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -861,8 +843,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "तपाईँको मनपर्ने वस्तुहरू उपकरणपट्टी वा ओभरफ्लो मेनुमा तान्नुहोस् ।">
-<!ENTITY customizeMode.menuAndToolbars.empty "अज्जै थप उपकरणहरू चाहिन्छ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारौँ एडअनहरूबाट रोज्नुहोस्">
 <!ENTITY customizeMode.restoreDefaults "पूर्वानिर्धारीत स्थितीमा फर्किनुहोस्">
 <!ENTITY customizeMode.done "सम्पन्न भयो">
 <!ENTITY customizeMode.titlebar "शीर्षक बार">
@@ -875,7 +855,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "अरु थीमहरू पाउनुहोस्">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "उपकरणपट्टि बाट बाहिर तर यहिँबाट पहुँच लिनको लागि ति चिजहरु ड्रयाग गरेर यहाँ खसाल्नुहोस्…">
 <!ENTITY customizeMode.overflowList.title2 "ओभरफ्लो मेनु">
 <!ENTITY customizeMode.overflowList.description "उपकरणपट्टि बाट बाहिर तर यहिँबाट पहुँच लिनको लागि ति चिजहरू ड्रयाग गरेर यहाँ खसाल्नुहोस्…">
 <!ENTITY customizeMode.uidensity "घनत्व">
@@ -1005,7 +984,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "पृष्ठ कार्यहरु">
 <!ENTITY pageAction.addToUrlbar.label "ठेगानापट्टिमा थप्नुहोस्">
 <!ENTITY pageAction.removeFromUrlbar.label "ठेगानापट्टिबाट हटाउनुहोस्">
-
+<!ENTITY pageAction.allowInUrlbar.label "ठेगानापट्टिमा देखाउनुहोस्">
+<!ENTITY pageAction.disallowInUrlbar.label "ठेगानापट्टिमा नदेखाउनुहोस्">
 
 <!ENTITY pageAction.sendTabToDevice.label "ट्याबलाई उपकरणमा पठाउनुहोस्">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणहरू समक्रमण गरिंदै…">
