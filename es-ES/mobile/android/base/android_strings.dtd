@@ -372,7 +372,7 @@
 <!ENTITY pref_import_android_summary "Importar marcadores e historial del navegador nativo">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Abrir pestañas">
+<!ENTITY pref_private_data_openTabs "Pestañas abiertas">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "Historial de búsquedas">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
