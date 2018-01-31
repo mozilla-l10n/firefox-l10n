@@ -104,3 +104,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " za sinhronizaciju sa vašim mobilnim uređajem.">
+
+<!ENTITY mobilepromo.singledevice      "Povežite drugi uređaj">
+<!ENTITY mobilepromo.multidevice       "Upravljajte uređajima">
