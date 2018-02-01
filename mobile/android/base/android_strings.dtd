@@ -19,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "जे भी साइट अहाँ विजिट कएलहुँ ओकर छवि बन्न करू डेटा कम खर्च हाएत.">
 <!ENTITY firstrun_sync_title "सिंक">
 <!ENTITY firstrun_sync_message2 "जतए अहाँ छोड़लहुँ ओतए सँ चुनू.">
+<!ENTITY firstrun_sync_subtext2 "बुकमार्क, पासवर्ड, आओर आन चीज जे अहाँ सहेजने हाएब &brandShortName; मे, ओकरा अपन डिवाइस पर पाबै लेल सिंक केर उपयोग करू.">
 <!ENTITY firstrun_signin_message "जुड़ल अछि, आरंभ करू">
 <!ENTITY firstrun_signin_button "सिंक करए लेल साइन इन करू">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करू">
@@ -28,12 +29,15 @@
 <!ENTITY firstrun_tabqueue_title "लिंक">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "टैब पंक्ति आरंभ करू">
+<!ENTITY firstrun_tabqueue_subtext_off "&brandShortName; मे बाद खातिर श्रृंखला सहेजू ‌ओकरा आन एप्प मे करए केर दौरान.">
 
 <!ENTITY firstrun_tabqueue_message_on "सफल!">
+<!ENTITY firstrun_tabqueue_subtext_on "अहाँ एकरा &settings;मे बन्न क सकैत छी &pref_category_general; केर तहत.">
 
 <!ENTITY firstrun_readerview_title "आलेख">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "अव्यवस्था छोड़ू">
+<!ENTITY firstrun_readerview_subtext "\u2014 केँ ऑफ़लाइन हए पर भी पढ़ए हेतु बेसी नीक बनाबै लेल रीडर व्यू क उपयोग करू.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "अहाँ">
