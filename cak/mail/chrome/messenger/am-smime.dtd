@@ -21,8 +21,13 @@
 <!ENTITY encryption.certificate_clear.button "Tijosq'ïx">
 <!ENTITY encryption.certificate_clear.accesskey "o">
 <!ENTITY signingGroupTitle.label "Kematz'ib'il Juch'un B'i'aj">
+<!ENTITY signMessage.label "Kejuch' kib'i' chi kematz'ib'il (k'o wi)">
+<!ENTITY signMessage.accesskey "K">
+<!ENTITY signingCert.message "Tokisäx re iqitzijib'äl re' richin yejuch' kib'i' rik'in kematz'ib'il ri taq rutzijol xke'atäq:">
 
 <!ENTITY certificates.label "Taq ruwujil b'i'aj">
+<!ENTITY manageCerts2.label "Kenuk'samajïx taq Iqitzijib'äl">
+<!ENTITY manageCerts2.accesskey "K">
 <!ENTITY manageDevices.label "Taq Okisaxel richin Jikomal">
 <!ENTITY manageDevices.accesskey "m">
 
