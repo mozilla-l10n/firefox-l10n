@@ -529,10 +529,12 @@
 <!ENTITY pref_scroll_title_bar_summary2 "पृष्ठ नीच्चाँ स्क्रॉल करैत समय &brandShortName; केँ नुकाबू">
 
 <!ENTITY pref_tab_queue_title3 "टैब पंक्तिबद्ध">
+<!ENTITY pref_tab_queue_summary4 "लिंक सहेजने राखू जखन धरि अहाँ अगिला बेर &brandShortName; खोलैत छी.">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "काम्पैक्ट टैब">
+<!ENTITY pref_compact_tabs_summary2 "पोट्रेट मोड मे दुइ टा कॉलम मे टैब व्यवस्थित करू">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -779,6 +781,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "एड-ऑन्स">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox मे विशेषता आओर कार्यात्मकता जोड़ू. टिप्पणी: Add-ons विशेष प्रतिबंध केँ अक्षम कए सकैत अछि.">
 <!ENTITY restrictable_feature_private_browsing "निज ब्राउजिंग">
 <!ENTITY restrictable_feature_clear_history "इतिहास मेटाबू">
 <!ENTITY restrictable_feature_advanced_settings "उन्नत सेटिंग">
