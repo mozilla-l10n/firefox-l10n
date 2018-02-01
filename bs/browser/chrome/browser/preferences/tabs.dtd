@@ -9,6 +9,7 @@
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY newWindowsAsTabs3.label       "Otvori linkove u tabovima umjesto u novim prozorima">
+<!ENTITY newWindowsAsTabs3.accesskey   "p">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Upozoriti vas kada zatvarate više tabova">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "o">

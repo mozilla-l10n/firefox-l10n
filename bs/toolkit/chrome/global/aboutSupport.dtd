@@ -25,6 +25,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareType "Tip">
 <!ENTITY aboutSupport.securitySoftwareName "Naziv">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antispyware">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Firewall">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; mogućnosti">
 <!ENTITY aboutSupport.featureName "Naziv">
