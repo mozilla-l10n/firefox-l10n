@@ -314,6 +314,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "अहाँ बाद मे सेटिंग में एकरा बदैल सकैत छी ">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "परमिट ड्राइंग केँ आन एप्प पर चालू करू">
 <!ENTITY tab_queue_prompt_positive_action_button "सक्रिय">
 <!ENTITY tab_queue_prompt_negative_action_button "अखन नहि">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -525,6 +526,7 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "पूर्ण स्क्रीन ब्राउजिंग">
+<!ENTITY pref_scroll_title_bar_summary2 "पृष्ठ नीच्चाँ स्क्रॉल करैत समय &brandShortName; केँ नुकाबू">
 
 <!ENTITY pref_tab_queue_title3 "टैब पंक्तिबद्ध">
 
