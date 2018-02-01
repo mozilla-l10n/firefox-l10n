@@ -76,6 +76,7 @@
 <!ENTITY abbreviateOff.label "Ch'utin taq b'i'aj (Achi'el, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Taq q'axinäq…">
 <!ENTITY advancedButton.accesskey "x">
+<!ENTITY serverDefaultCharset2.label "Runuk'ik Rucholajem Tzij e K'o wi:">
 <!ENTITY localPath.label "Aj wawe' cholb'äl:">
 <!ENTITY localFolderPicker.label "Ticha' Aj Wawe' Cholb'äl">
 <!ENTITY browseFolder.label "Tokik'amayin…">
@@ -84,3 +85,8 @@
 <!ENTITY browseNewsrc.accesskey "o">
 
 <!ENTITY accountTitle.label "Kinuk'ulem Rub'i' Taqoya'l">
+<!ENTITY accountSettingsDesc.label "Re rub'i' taqoya'l re' k'o rejqalem.  Majun b'anikil ruximon ri' rik'in.">
+<!ENTITY storeType.label "Ruwäch Ruyakb'alil Tzijol:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Yakb'äl chi yakwuj (mbox)">
+<!ENTITY maildirStore.label "Jun yakb'äl chi rutzijol (maildir)">

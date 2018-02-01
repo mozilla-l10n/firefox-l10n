@@ -4,6 +4,9 @@
 
 <!ENTITY securityTitle.label "Jikomal">
 <!ENTITY securityTab.label "Jikomal">
+<!ENTITY securityHeading.label "Richin yetaq chuqa' yek'ul taq rutzijol ri ejuch'un kib'i' chuqa' ewan rusik'isik, k'o chi nijikib'äx jun riqitzijib'al kematz'ib'il juch'un b'i'aj chuqa' jun riqitzijib'al ewan rusik'ixik.">
+<!ENTITY encryptionGroupTitle.label "Ewan rusik'ixik">
+<!ENTITY encryptionChoiceLabel.label "Ewan rusik'ixik cha'on toq yetaq taq rutzijol:">
 <!ENTITY digitalSign.certificate.button "Ticha'…">
 <!ENTITY digitalSign.certificate.accesskey "c">
 <!ENTITY digitalSign.certificate_clear.button "Tijosq'ïx">
