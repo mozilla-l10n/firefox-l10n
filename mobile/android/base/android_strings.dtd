@@ -314,7 +314,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "अहाँ बाद मे सेटिंग में एकरा बदैल सकैत छी ">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "परमिट ड्राइंग केँ आन एप्प पर चालू करू">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "परमिट ड्राइंग केँ दोसर एप्स पर चालू करू">
 <!ENTITY tab_queue_prompt_positive_action_button "सक्रिय">
 <!ENTITY tab_queue_prompt_negative_action_button "अखन नहि">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -783,10 +783,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "एड-ऑन्स">
 <!ENTITY restrictable_feature_addons_installation_description "Firefox मे विशेषता आओर कार्यात्मकता जोड़ू. टिप्पणी: Add-ons विशेष प्रतिबंध केँ अक्षम कए सकैत अछि.">
 <!ENTITY restrictable_feature_private_browsing "निज ब्राउजिंग">
+<!ENTITY restrictable_feature_private_browsing_description "साइट्स आओर पेज केर जानकारी बचैने बिना परिवार क सदस्य केँ ब्राउज करबाक इजाज़त देत अछि.">
 <!ENTITY restrictable_feature_clear_history "इतिहास मेटाबू">
+<!ENTITY restrictable_feature_clear_history_description "परिवार क सदस्य केँ निरिक्षण कएल गेल साइट आओर पेजे केर जानकारी हटाबै केर अनुमति देत अछि.">
 <!ENTITY restrictable_feature_advanced_settings "उन्नत सेटिंग">
+<!ENTITY restrictable_feature_advanced_settings_description "एकरा मे पुस्तचिह्न, पुनः प्रचलन टैब आओर स्वचालित अपडेट क आयात सेहो सामिल अछि. परिवार केर सदस्य कलेल उपयुक्त सेटिंग बन्न करू.">
 <!ENTITY restrictable_feature_camera_microphone "कैमेरा &amp; माइक्रोफोन">
+<!ENTITY restrictable_feature_camera_microphone_description "वेबसाइट पर परिवार क सदस्य केँ रियल टाइम संचार मे सम्मिलित हए केर अनुमति देत अछि.">
 <!ENTITY restrictable_feature_block_list "सूची रोकू">
+<!ENTITY restrictable_feature_block_list_description "ओहन वेबसाइट बाधित करू जकरा मे संवेदनशील तत्व सम्मिलित अछि.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -803,6 +808,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "क्षमा करू! ई &brandShortName;ई उपकरण पर काज नहि करत (&formatS1;, &formatS2;). कृपया सही संस्करण डाउनलोड करू.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; आब अपडेट नहि हाएत">
 <!ENTITY eol_notification_summary "बेसी जानकारी लेल टैप करू">
@@ -839,6 +845,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "लोकप्रिय">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ब्राउज़िंग प्रारंभ करू, आओर हम किछु प्रमुख आलेख, वीडियो, तथा आन पृष्ठ केँ प्रदर्शित करब जकरा अहाँ हाल मे देखने छी या पुस्तचिन्हित कएने छी.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -847,6 +854,8 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "इतिहास सँ मेटाबू">
 
 <!ENTITY private_tab_panel_title "निजी ब्राउज़िंग + ट्रैकिंग सुरक्षा">
+<!ENTITY private_tab_panel_description "&brandShortName; पृष्ठ केर ओ भाग केँ ब्लॉक करैत अछि जे अहाँक ऑनलाइन गतिविधी केँ ट्रैक कए सकैत अछि.">
+<!ENTITY private_tab_panel_description2 "हम कोनो इतिहास नहि याद राखब, परन्तु डाउनलोड कएल फाइल आओर नव पुस्तकचिन्ह अहाँक उपकरण पर सहेजल जाएत.">
 <!ENTITY private_tab_learn_more "बेसी जानए चाहैत छी?">
 
 <!ENTITY fullscreen_warning "पूर्ण स्क्रीन दर्ज">
@@ -859,3 +868,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "होम स्क्रीन मे जोड़ू">
 <!ENTITY pwa_continue_to_website "वेबसाइट लेल जारी राखू">
+<!ENTITY pwa_onboarding_sumo "अहाँ आसानी सँ ई वेबसाइट केँ अपन मुख्य स्क्रीन पर तुरंत पहुँच लेल जोड़ि सकैत छी आओर एप्प जेहन अनुभव सँग तेजी सँ ब्राउज़ कए सकैत छी.">
