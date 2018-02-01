@@ -51,8 +51,6 @@ available. -->
 
 <!ENTITY httpCache.label                 "Conteúdo Web em cache">
 
-<!ENTITY offlineStorage2.label           "Conteúdo web off-line e dados do usuário">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Dados do site">
 <!ENTITY clearSiteData.label             "Limpar todos os dados">
@@ -72,8 +70,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB de espaço">
 <!ENTITY clearCacheNow.label             "Limpar agora">
 <!ENTITY clearCacheNow.accesskey         "L">
-<!ENTITY clearOfflineAppCacheNow.label   "Limpar agora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "m">
 <!ENTITY overrideSmartCacheSize.label    "Substituir o gerenciamento automático de cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -95,11 +91,11 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versão ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir que o &brandShortName;">
-<!ENTITY updateAuto3.label               "Instalar atualizações automaticamente (recomendado)">
+<!ENTITY updateAuto3.label               "Instale atualizações automaticamente (recomendado)">
 <!ENTITY updateAuto3.accesskey           "A">
-<!ENTITY updateCheckChoose2.label        "Verificar atualizações, mas deixa você optar por instalá-las">
+<!ENTITY updateCheckChoose2.label        "Busque atualizações, mas permitir que você opte por instalá-las">
 <!ENTITY updateCheckChoose2.accesskey    "C">
-<!ENTITY updateManual2.label             "Nunca verificar se há atualizações (não recomendado)">
+<!ENTITY updateManual2.label             "Nunca busque atualizações (não recomendado)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Mostrar histórico de atualizações…">
@@ -110,17 +106,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Atualizar automaticamente os mecanismos de pesquisa">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Informar quando um site solicitar armazenamento para uso offline">
-<!ENTITY offlineStorageNotify.accesskey           "t">
-<!ENTITY offlineStorageNotifyExceptions.label     "Exceções…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "Estes sites tem permissão de armazenar dados para uso off-line">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Remover…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Remover dados off-line">
 
 <!ENTITY certificateTab.label            "Certificados">
 <!ENTITY certPersonal2.description       "Quando um servidor solicita seu certificado pessoal">
