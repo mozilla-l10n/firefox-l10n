@@ -7,11 +7,16 @@
 <!ENTITY firstrun_urlbar_subtext2 "Mozilla आनलक एकटा आधुनिक मोबाइल ब्राउज़र, गैर-लाभकारी एक स्वतंत्र और उन्मुक्त वेब कलेल प्रतिबद्ध.">
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
 <!ENTITY firstrun_privacy_message "एना ब्राउज़ करू जे केओ नहि ताकि रहल हुए">
+<!ENTITY firstrun_privacy_subtext "ट्रैकिंग सुरक्षा सँग निजी ब्राउज़िंग ट्रैकर केँ रोकैत अछि जखन अहाँ ब्राउज करैत छी तथा जखन अहाँ ब्राउज़िंग समाप्त कए लेत छी तखन अहाँक इतिहास केँ ई याद नहि राखैत अछि.">
 <!ENTITY firstrun_panel_title_customize "मनपसंद बनाबू">
 <!ENTITY firstrun_customize_message "अपना लेल &brandShortName; बनाबू.">
+<!ENTITY firstrun_customize_subtext "मनपसिन्न बनाउ &brandShortName; एड-ऑन सँग. विज्ञापन केँ रोकू, सुविधा जोड़ू, या एकटा नव थीम चुनू अपन व्यक्तित्व केँ दर्शाबै कलेल.">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
+<!ENTITY firstrun_bookmarks_message "अहाँक मनपसिन्न, सम्मुख एवं केन्द्रित">
+<!ENTITY firstrun_bookmarks_subtext "अपन पुस्तचिह्न एवं पूर्व खोज इतिहास सँ परिणाम प्राप्त करू.">
 <!ENTITY firstrun_data_title "डेटा">
 <!ENTITY firstrun_data_message "कम डेटा , बेसी बचत">
+<!ENTITY firstrun_data_subtext2 "जे भी साइट अहाँ विजिट कएलहुँ ओकर छवि बन्न करू डेटा कम खर्च हाएत.">
 <!ENTITY firstrun_sync_title "सिंक">
 <!ENTITY firstrun_sync_message2 "जतए अहाँ छोड़लहुँ ओतए सँ चुनू.">
 <!ENTITY firstrun_signin_message "जुड़ल अछि, आरंभ करू">
