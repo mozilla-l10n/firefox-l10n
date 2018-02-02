@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Yenidən qoşulmaq üçün daxil olun">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Siz daxil olmayıbsınız.">
-<!ENTITY signIn.label                "Daxil ol">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Profil şəklini dəyiş">
-<!ENTITY verifiedManage.label        "Hesabı idarə et">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Ayrıl…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "Siz daxil olmayıbsınız.">
+<!ENTITY signIn.label                 "Daxil ol">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Profil şəklini dəyiş">
+<!ENTITY verifiedManage.label         "Hesabı idarə et">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Ayrıl…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "E-poçtu təsdiqlə">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Bu e-poçtu yaddan çıxart">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.label     "Təsdiqi təkrar göndər">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Quraşdırmanı ləğv et">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Web-inizi özünüzlə gəzdirin">
 <!ENTITY signedOut.description        "Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.">
@@ -101,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " üçün Firefox endirin.">
+
+<!ENTITY mobilepromo.singledevice      "Digər cihazı qoş">
+<!ENTITY mobilepromo.multidevice       "Cihazları idarə et">

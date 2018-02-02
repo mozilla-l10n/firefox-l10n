@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Yeni pəncərələri yeni vərəq olaraq aç">
 <!ENTITY newWindowsAsTabs.accesskey   "i">
 
+<!ENTITY newWindowsAsTabs3.label       "Keçidləri yeni pəncərə yerinə vərəqlərdə aç">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Birdən çox vərəq bağlarkən xəbərdar olun">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
