@@ -587,13 +587,21 @@ chab mtñur">
 <!ENTITY home_history_back_to2 "Chkjkeech tkweek waŕiib">
 <!ENTITY home_clear_history_button "Sal amchu chkjkech paytum tkryee">
 <!ENTITY home_clear_history_confirm "Ña jan jan chkjkech ha mtkreha?">
+<!ENTITY home_bookmarks_empty "Ŕkirchu mchkwahay yak yom m\&apos; u.">
+<!ENTITY home_closed_tabs_title2 "Baam jan ŕ \&apos; amch">
+<!ENTITY home_last_tabs_empty "Ch chkwachu baam ja msolhay yak yom m\&apos;u.">
+<!ENTITY home_restore_all "Paytum mchajan">
+<!ENTITY home_closed_tabs_number "&formatD; ch chkwachu">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ch chwachu">
+<!ENTITY home_most_recent_empty "Amchu weeb wam \&apos;amch hay yak yom m\&apos;u.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Ch chkwachu baam yakŕit num mtrchechum kos chkjkeech hay kos chkwaab tem.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Chapayt kos panel ya yo tem.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
