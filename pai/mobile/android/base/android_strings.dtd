@@ -605,21 +605,32 @@ chab mtñur">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "Tkweek &formatS; jaab">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositiiv tjoot">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Dispositiiv tjoot kyoha uchpach">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Amchu chknaach">
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Amchu ha ŕmarch">
+<!ENTITY home_unpinned_site "Amchu ha ŕmarch">
 
+<!ENTITY remote_tabs_panel_moved_title "Ch chkwawu ñikee nyamu?">
+<!ENTITY remote_tabs_panel_moved_desc "Chm mchkwawuha dispositiiv jkay ujkeech ñwak panel mjabu namanch kos msool hikya kos trchech tem hikyawa.">
+<!ENTITY remote_tabs_panel_moved_link "Panel wii namanch jkaay.">
 
+<!ENTITY pin_site_dialog_hint "Kwaaw chŕmeexh sak mtñur">
 
+<!ENTITY filepicker_title "Ch chkwawu myo">
 
 <!-- Site identity popup -->
 <!-- Localization note (identity_run_by) : This string appears between a

@@ -9,10 +9,12 @@
 <!-- Main titles. -->
 
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Chnamanchu'>
 <!ENTITY sync.configure.engines.title.history 'Chkjkeech'>
+<!ENTITY sync.configure.engines.title.tabs 'Ch chkwachu'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -32,6 +34,7 @@
 
 <!ENTITY fxaccount_getting_started_get_started 'Namaan'>
 
+<!ENTITY fxaccount_status_history 'Chkjkeech'>
 <!ENTITY fxaccount_status_passwords2 'Chnamanchu'>
 <!ENTITY fxaccount_status_tabs 'Ch chkwaachu msool'>
 <!-- Localization note: Only affects background syncing, user initiated
