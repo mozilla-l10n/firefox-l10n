@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Pošalji poveznicu na uređaj">
 <!ENTITY  sendLinkToDevice.accesskey         "u">
 <!ENTITY  sendToDeviceFeedback.label         "Poslano!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Na čekanju (offline)">
 <!ENTITY  moveToNewWindow.label              "Premjesti u novi prozor">
 <!ENTITY  moveToNewWindow.accesskey          "z">
 <!ENTITY  bookmarkAllTabs.label              "Zabilježi sve kartice…">
@@ -226,11 +227,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ovoj ste stranici zabranili korištenje mikrofona.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ovoj ste stranici zabranili dijeljenje vaše radne površine.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ovoj stranici ste zabranili pristup informaciji o vašoj lokaciji.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ovoj ste stranici zabranili mogućnost pohrane podataka.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ovoj ste stranici zabranili slanje obavijesti.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ovoj ste stranici zabranili mogućnost trajne pohrane podataka.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokirali ste pop-up prozore za ovu web stranicu.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Blokirali ste izvoz canvas podataka za ovu web stranicu.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
 
@@ -296,7 +297,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Novi privatni prozor">
 <!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label   "Novi non-e10s prozor">
 
 <!ENTITY editMenu.label         "Uredi">
 <!ENTITY editMenu.accesskey       "e">
@@ -351,17 +351,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Prikaži svu povijest">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Prilagodi">
-<!ENTITY appMenuCustomize.tooltip "Prilagodi izbornike i alatne trake">
-<!ENTITY appMenuCustomizeExit.label "Zatvori prilagodbu">
-<!ENTITY appMenuCustomizeExit.tooltip "Završi prilagodbu">
 <!ENTITY appMenuHistory.showAll.label "Prikaži svu povijest">
 <!ENTITY appMenuHistory.clearRecent.label "Obriši nedavnu povijest…">
 <!ENTITY appMenuHistory.restoreSession.label "Vrati prijašnju sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži okvir povijesti">
 <!ENTITY appMenuHistory.recentHistory.label "Nedavna povijest">
 <!ENTITY appMenuHelp.label "Pomoć">
-<!ENTITY appMenuHelp.tooltip "Otvori izbornik pomoći">
 
 <!ENTITY appMenuRemoteTabs.label "Sinkronizirane kartice">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -385,9 +380,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite li vidjeti vaše kartice s drugih uređaja ovdje?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync postavke">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se da biste vidjeli kartice s vaših ostalih uređaja.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Vaš račun mora biti potvrđen.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se u Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Upravljanje uređajima…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Prikaz trake sinkroniziranih kartica">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Poveži dodatni uređaj">
 
 <!ENTITY appMenuRecentHighlights.label "Nedavno istaknuto">
 
@@ -433,14 +431,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Dodatak:">
 <!ENTITY urlbar.switchToTab.label     "Prebaci na karticu:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Želite li unaprijediti vaše iskustvo pretraživanja sa prijedlozima?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saznajte više…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "z">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Da">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Savjet:">
@@ -718,8 +708,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Osnovni stil stranice">
 <!ENTITY pageStylePersistentOnly.accesskey "O">
 
-<!ENTITY pageReportIcon.tooltip            "Promijeni postavke blokiranja skočnih prozora za ovu web stranicu">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -749,6 +737,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Gotovo">
 <!ENTITY editBookmark.removeBookmark.accessKey       "U">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
 
 <!ENTITY identity.connectionSecure "Sigurna veza">
 <!ENTITY identity.connectionNotSecure "Veza nije sigurna">
@@ -810,6 +801,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Uključite sinkronizaciju kartica da biste vidjeli kartice s vaših ostalih uređaja.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Pretraži sinkronizirane kartice">
 
+
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
@@ -844,8 +836,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Povucite svoje omiljene stavke u alatnu traku ili dodatni izbornik.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Želite više alata?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Odaberite neki od tisuća dodataka">
 <!ENTITY customizeMode.restoreDefaults "Vrati zadano">
 <!ENTITY customizeMode.done "Gotovo">
 <!ENTITY customizeMode.titlebar "Naslovna traka">
@@ -858,7 +848,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "u">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Preuzmite dodatne teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
-<!ENTITY customizeMode.emptyOverflowList.description "Dovucite i ispustite stavke ovdje kako biste ih zadržali blizu, ali izvan vaše alatne trake…">
 <!ENTITY customizeMode.overflowList.title2 "Dodatni meni">
 <!ENTITY customizeMode.overflowList.description "Ovdje dovucite stavke kako bi vam bile blizu ali izvan vaše alatne trake…">
 <!ENTITY customizeMode.uidensity "Gustoća">
@@ -979,9 +968,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Ponovno pokrenite za ažuriranje &brandShorterName;a">
 
+<!ENTITY newTabControlled.restoreButton.label "Vrati postavke">
+
 <!ENTITY pageActionButton.tooltip "Radnje na stranici">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj u adresnu traku">
 <!ENTITY pageAction.removeFromUrlbar.label "Ukloni iz adresne trake">
+<!ENTITY pageAction.allowInUrlbar.label "Prikaži u adresnoj traci">
 
 <!ENTITY pageAction.sendTabToDevice.label "Pošalji karticu na uređaj">
 <!ENTITY sendToDevice.syncNotReady.label "Sinkronizacija uređaja…">
