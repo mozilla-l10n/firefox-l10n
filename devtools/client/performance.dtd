@@ -14,11 +14,6 @@
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "נתוני הקלטה בזמן אמת מבוטלים כאשר Firefox אינו במצב ריבוי תהליכים.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -40,6 +35,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "מפל">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "מציג את הפעולות השונות שהדפדפן מבצע במהלך ההקלטה, פרוסות באופן רציף בצורת מפל.">
 <!ENTITY performanceUI.toolbar.js-calltree "עץ קריאות">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "הדגשת פונקציות ה־JavaScript עליהן השקיע הדפדפן את הזמן הרב ביותר במהלך ההקלטה.">
 <!ENTITY performanceUI.toolbar.memory-calltree "הקצאות">
