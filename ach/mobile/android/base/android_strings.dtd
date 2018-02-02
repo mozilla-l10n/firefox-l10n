@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Pe twero nywako pot buk man">
 <!ENTITY save_as_pdf "Gwok Calo PDF">
 <!ENTITY print "Go">
+<!ENTITY view_page_source "Nen kama pot buk nonge iye">
 <!ENTITY find_in_page "Nong i potbuk">
 <!ENTITY desktop_mode "Kwa kakube me wang kompiuta">
 <!ENTITY page "Potbuk">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Yab ki iyi Tab Manyen">
 <!ENTITY contextmenu_open_private_tab "Yab i dirica matidi me mung">
 <!ENTITY contextmenu_remove "Kwany">
-<!ENTITY contextmenu_add_to_launcher "Med I Kio me Acakki">
 <!ENTITY contextmenu_add_page_shortcut "Med yoo macek me potbuk">
 <!ENTITY contextmenu_set_as_homepage "Ter calo Potbuk me Acakki">
 <!ENTITY contextmenu_share "Nywak">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Kikwanyo woko pot buk">
-
 <!ENTITY folder_removed "Kikwanyo woko boc">
 
 <!ENTITY bookmark_edit_title "Yub Alama buk">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; tye kakare">
 <!ENTITY whatsnew_notification_summary "Niang ngo manyen i kit man">
-
-<!ENTITY promotion_add_to_homescreen "Med i kio me acakki">
 
 <!ENTITY promotion_add_page_shortcut "Med yoo macek me potbuk">
 
