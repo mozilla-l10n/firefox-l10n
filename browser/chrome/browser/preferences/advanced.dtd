@@ -93,7 +93,7 @@ available. -->
 <!ENTITY updateApplication.description   "Permitir que o &brandShortName;">
 <!ENTITY updateAuto3.label               "Instale atualizações automaticamente (recomendado)">
 <!ENTITY updateAuto3.accesskey           "A">
-<!ENTITY updateCheckChoose2.label        "Busque atualizações, mas permitir que você opte por instalá-las">
+<!ENTITY updateCheckChoose2.label        "Busque atualizações, mas permita que você opte por instalá-las">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Nunca busque atualizações (não recomendado)">
 <!ENTITY updateManual2.accesskey         "N">
@@ -104,7 +104,7 @@ available. -->
 <!ENTITY useService.label                "Usar um serviço para instalar atualizações em segundo plano">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY enableSearchUpdate2.label       "Atualizar automaticamente os mecanismos de pesquisa">
+<!ENTITY enableSearchUpdate2.label       "Atualize automaticamente os mecanismos de pesquisa">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY certificateTab.label            "Certificados">
