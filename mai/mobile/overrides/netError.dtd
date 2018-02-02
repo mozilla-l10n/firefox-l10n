@@ -19,6 +19,7 @@
 <!ENTITY dnsNotFound.title "सर्वर नहि भेटल">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>टंकण त्रुटि हेतु पता जाँचू जेना कि <strong>ww</strong>.example.com क बदला <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>खोज</button> </div> <li>जँ अहाँ कोनो पृष्ठ केँ लोड क पाबै मे असमर्थ ची, तँ अपन उपकरण केर डेटा या वाई फाई कनेक्शन केँ जाँचू. <button id='wifi'>वाई फाई सक्रिय करू</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "फाइल नहि भेटल">
 <!ENTITY fileNotFound.longDesc "<ul> <li>कैपिटलाइजेशन अथवा दूसरी टाइपिंग त्रुटि क लेल फाइल नाम जाँचू.</li> <li>जाँचे ई देखब क लेल जे फाइल खिसकलया, फेर नामकरण कएल अथवा मेटायल गेल छल.</li> </ul>">
@@ -38,6 +39,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "दस्ताबेज क समय समाप्त">
+<!ENTITY notCached.longDesc "<p>अनुरोध कएल गेल दस्तावेज़ &brandShortName; क अस्थाई भंडार मे उपलब्ध नहि अछि.</p><ul><li>सुरक्षा सावधानी क रूप मे, &brandShortName; स्वतः संवेदनशील दस्तावेज़ कलेल पुनः आग्रह नहि करैत अछि.</li><li>वेबसाइट सँ दस्तावेज़ केँ पुनः आग्रह करए लेली पुनः प्रयास करू केँ दाबू.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -81,6 +83,7 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "<ul> <li>ई साइट अस्थाई रूप सँ अनुपलब्ध या अत्यंत व्यस्त भ सकैत अछि.किछु क्षण मे पुनः प्रयास करू.</li> <li>जँ अहाँ कोनो पृष्ठ लोड क पाबै मे असमर्थ छी, तँ अपन मोबाइल उपकरण क डेटा या वाई फाई कनेक्शन केर जाँच करू. <button id='wifi'>वाई फाई सक्रिय करू</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
