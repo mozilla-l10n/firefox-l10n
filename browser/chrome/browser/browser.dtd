@@ -227,17 +227,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Səhifə tərcüməsini idarə et">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM proqramının istifadəsini idarə et">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt üçün kameranızı əngəlləmisiniz.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt üçün mikrofonunuzu əngəlləmisiniz.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Bu saytı ekranınızı paylaşmaqdan bloklamısınız.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Bu sayt üçün məkan məlumatlarını bloklamısınız.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Bu sayt üçün məlumat saxlanmasını bloklamısınız.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu sayt üçün bildirişləri bloklamısınız.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sayt üçün qalıcı yaddaşı bloklamısınız.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt üçün kameranızı əngəllədiniz.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt üçün mikrofonunuzu əngəllədiniz.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Bu saytı ekranınızı paylaşmaqdan əngəllədiniz.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Bu sayt üçün məkan məlumatlarını əngəllədiniz.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu sayt üçün bildirişləri əngəllədiniz.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sayt üçün qalıcı yaddaşı əngəllədiniz.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Bu sayt üçün peyda olan pəncərələri əngəllədiniz.">
 
-<!ENTITY urlbar.popupBlocked.tooltip             "Bu sayt üçün peyda olan pəncərələri bloklamısınız.">
-
-<!ENTITY urlbar.canvasBlocked.tooltip            "Bu sayt üçün lövhə (canvas) məlumatı çıxartmanı bloklamısınız.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Bu sayt üçün lövhə (canvas) məlumatı çıxartmanı əngəllədiniz.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixçəni göstər">
 
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Y">
 <!ENTITY newPrivateWindow.label     "Yeni Məxfi Pəncərə">
 <!ENTITY newPrivateWindow.accesskey "P">
-<!ENTITY newNonRemoteWindow.label   "Yeni e10s olmayan pəncərə">
 
 <!ENTITY editMenu.label         "Düzəlt">
 <!ENTITY editMenu.accesskey       "D">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Bütün Tarixçəni Göstər">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Şəxsiləşdir">
-<!ENTITY appMenuCustomize.tooltip "Menyu və yan paneli şəxsiləşdir">
-<!ENTITY appMenuCustomizeExit.label "Şəxsiləşdirməni tərk et">
-<!ENTITY appMenuCustomizeExit.tooltip "Şəxsiləşdirməni Bitir">
-
 <!ENTITY appMenuHistory.showAll.label "Bütün Tarixçəni Göstər">
 <!ENTITY appMenuHistory.clearRecent.label "Son Tarixçəni Təmizlə…">
 <!ENTITY appMenuHistory.restoreSession.label "Əvvəlki Seansı Bərpa et">
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixçə yan panelini göstər">
 <!ENTITY appMenuHistory.recentHistory.label "Yaxın Tarixçə">
 <!ENTITY appMenuHelp.label "Kömək">
-<!ENTITY appMenuHelp.tooltip "Kömək Menyusunu Aç">
 
 <!ENTITY appMenuRemoteTabs.label "Sinxron Vərəqlər">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Uzantı:">
 <!ENTITY urlbar.switchToTab.label     "Keçiləcək vərəq:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Axtarış təcrübənizi təkliflərlə yaxşılaşdırmaq istərdiniz?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ətraflı öyrən…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Xeyr">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Hə">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Məsləhət:">
@@ -730,13 +713,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Əsas Səhifə Stili">
 <!ENTITY pageStylePersistentOnly.accesskey "t">
 
-<!ENTITY pageReportIcon.tooltip            "Bu sayt üçün avtomatik açılan pəncərə bloku tənzimləmələrini dəyiş">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Bloklanan pəncərə seçimlərini dəyiş…">
+<!ENTITY editPopupSettingsUnix.label "Peyda olan pəncərələrin əngəllənmə nizamlamalarını dəyişdir…">
 <!ENTITY editPopupSettings.label "Sıçrayan Pəncərə Seçimlərini Dəyiş…">
 <!ENTITY editPopupSettings.accesskey "D">
 <!ENTITY dontShowMessage.accesskey "D">
@@ -775,7 +756,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Bu səhifədə girilən məlumatlar oğurlana bilər.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; bu səhifənin təhlükəsiz olmayan hissələrini blokladı.">
+<!ENTITY identity.activeBlocked "&brandShortName; bu səhifənin təhlükəsiz olmayan hissələrini əngəllədi.">
 <!ENTITY identity.passiveLoaded "Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.">
 <!ENTITY identity.activeLoaded "Bu səhifədə qorumanı söndürmüsünüz.">
 <!ENTITY identity.weakEncryption "Bu səhifə zəif şifrləmə istifadə edir.">
@@ -785,10 +766,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "Bu səhifədə yazdığınız daxil olma məlumatları qorunmur və oğurlana bilər.">
 <!ENTITY identity.description.weakCipher "Bu səhifəyə olan bağlantınız zəif şifrləmə istifadə edir və məxfi deyil.">
 <!ENTITY identity.description.weakCipher2 "Başqaları sizin məlumatlarınızı görə və ya saytın davranışını səyişdirə bilər.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; bu səhifənin təhlükəsiz olmayan hissələrini blokladı.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; bu səhifənin təhlükəsiz olmayan hissələrini əngəllədi.">
 <!ENTITY identity.description.passiveLoaded "Bağlantınız məxfi deyil və sayt ilə paylaşdığınız məlumatlar başqaları tərəfindən görülə bilər.">
 <!ENTITY identity.description.passiveLoaded2 "Saytda güvənilir olmayan məzmun var (şəkillər kimi).">
-<!ENTITY identity.description.passiveLoaded3 "&brandShortName; bəzi məzmunları bloklasa da bu səhifədə hələ də təhlükəsiz olmayan məzmunlar (şəkillər kimi) var.">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; bəzi məzmunları əngəlləsə də bu səhifədə hələ də təhlükəsiz olmayan məzmunlar (şəkillər kimi) var.">
 <!ENTITY identity.description.activeLoaded "Bu saytda təhlükəsiz olmayan məzmunlar (kriptlər kimi) var və saytla bağlantınız məxfi deyil.">
 <!ENTITY identity.description.activeLoaded2 "Bu saytla paylaşdığınız məlumatlar (məs. parollar, mesajlar, kredit kartları kimi) başqaları tərəfindən görülə bilər.">
 
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Sevimli alətlərinizi alət sətri və ya daşma menyusuna daşıyın.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Daha çox alət lazımdır?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Minlərlə əlavələrdən seç">
 <!ENTITY customizeMode.restoreDefaults "İlkin Seçənəkləri Bərpa et">
 <!ENTITY customizeMode.done "Tamamlandı">
 <!ENTITY customizeMode.titlebar "Başlıq Paneli">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Daha çox Mövzu əldə et">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "İkonları buraya daşıyıb ataraq həm yaxında saxlayın, həm də alət sətrini doldurmayın…">
 <!ENTITY customizeMode.overflowList.title2 "Daşma Menyusu">
 <!ENTITY customizeMode.overflowList.description "İkonları buraya daşıyıb ataraq həm yaxında saxlayın, həm də alət sətrini doldurmayın…">
 <!ENTITY customizeMode.uidensity "Qalınlıq">
@@ -911,7 +889,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Ekranınızda görünən bütün pəncərələr paylaşılacaq.">
 
 <!ENTITY trackingProtection.title "İzlənmə Qoruması">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; səhifənin səyahətinizi izləmə ehtimalı olan hissələrini bloklayır.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; səhifənin səyahətinizi izləmə ehtimalı olan hissələrini əngəlləyir.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Bu saytda səyahətinizi izləmə ehtimalı olan məzmunlar var. Qorumanı söndürmüsünüz.">
 <!ENTITY trackingProtection.notDetected3 "Bu səhifədə heç bir izlənmə elementi tapılmadı.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -933,7 +911,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "İndi icazə ver">
 <!ENTITY pluginActivateAlways.label "İcazə ver və Yadda saxla">
-<!ENTITY pluginBlockNow.label "Qoşmanı Blokla">
+<!ENTITY pluginBlockNow.label "Qoşmanı Əngəllə">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Səhifə əməliyyatları">
 <!ENTITY pageAction.addToUrlbar.label "Ünvan sətrinə əlavə et">
 <!ENTITY pageAction.removeFromUrlbar.label "Ünvan sətrindən sil">
-
 <!ENTITY pageAction.allowInUrlbar.label "Ünvan Sətrində göstər">
 <!ENTITY pageAction.disallowInUrlbar.label "Ünvan Sətrində göstərmə">
 <!ENTITY pageAction.manageExtension.label "Uzantını idarə et…">
