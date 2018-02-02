@@ -29,4 +29,4 @@
 <!ENTITY  socks5.accesskey            "v">
 <!ENTITY  socksRemoteDNS.label        "Použiť na získavanie mien počítačov (odporúčané pre SOCKS v5)">
 <!ENTITY  socksRemoteDNS.accesskey    "u">
-<!ENTITY  SOCKSport.accesskey         "">
+<!ENTITY  SOCKSport.accesskey         "t">

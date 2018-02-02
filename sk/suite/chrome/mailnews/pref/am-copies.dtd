@@ -38,8 +38,8 @@
 <!ENTITY specialFolders.label "Koncepty a šablóny">
 <!ENTITY keepDrafts2.label "Uchovávať koncepty v:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "priečinok &quot;Koncepty&quot; v účte:">
-<!ENTITY draftsFolderOn.accesskey "h">
+<!ENTITY draftsFolderOn.label "Priečinok &quot;Koncepty&quot; v účte:">
+<!ENTITY draftsFolderOn.accesskey "K">
 <!ENTITY draftInOtherFolder.label "iný priečinok:">
 <!ENTITY draftInOtherFolder.accesskey "k">
 <!ENTITY keepTemplates.label "Šablóny správ ukladať do:">
