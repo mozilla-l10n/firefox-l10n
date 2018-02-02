@@ -5,6 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "הגנת מעקב">
 <!ENTITY  trackingProtection2.description      "מעקב הוא איסוף של נתוני הגלישה שלך ממגוון אתרים. ניתן להשתמש במעקב כדי להרכיב פרופיל ולהציג עבורך תוכן בהתבסס על הפרטים האישיים ונתוני הגלישה שלך.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים">
+<!ENTITY  trackingProtection3.description      "הגנת מעקב חוסמת רכיבי מעקב מקוונים שאוספים את נתוני הגלישה שלך דרך מגוון אתרים.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים">
 <!ENTITY  trackingProtectionAlways.label       "תמיד">
 <!ENTITY  trackingProtectionAlways.accesskey   "ת">
