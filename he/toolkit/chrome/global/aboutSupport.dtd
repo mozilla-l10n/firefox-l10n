@@ -23,6 +23,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "גרסה">
 <!ENTITY aboutSupport.extensionId "מזהה">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "תוכנת אבטחה">
+<!ENTITY aboutSupport.securitySoftwareType "סוג">
+<!ENTITY aboutSupport.securitySoftwareName "שם">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "חוסם רוגלות">
+<!ENTITY aboutSupport.securitySoftwareFirewall "חומת אש">
+
 <!ENTITY aboutSupport.featuresTitle "התכונות של &brandShortName;">
 <!ENTITY aboutSupport.featureName "שם">
 <!ENTITY aboutSupport.featureVersion "גרסה">
