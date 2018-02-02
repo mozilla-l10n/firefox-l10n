@@ -207,6 +207,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Informatioune vum Site uweisen">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Messagepanneau opmaachen">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Panneau vun de Standuert Ufroen opmaachen">
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Dës Säit iwwersetzen">
