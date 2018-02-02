@@ -77,4 +77,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.accesskey "B">
 <!ENTITY forwardCmd.label "Ne' ñaan">
 <!ENTITY forwardCmd.accesskey "F">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Guxun ña nù link da' nachrunt ané">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "Guxun' dirección korreo da' nachrun' a'ngô hiuj u">
+<!ENTITY copyEmailCmd.accesskey "E">
