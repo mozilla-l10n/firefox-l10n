@@ -5,14 +5,38 @@
 <!ENTITY playButton.playLabel "Duguachrá">
 <!ENTITY playButton.pauseLabel "Duyichin' akuan'">
 <!ENTITY muteButton.muteLabel "Dín gahuin">
+<!ENTITY muteButton.unmuteLabel "Naduyingô' nanèe">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Nagi'iaj gachrò' riña aga' sikà' ràa">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Nagi'iaj lij riña aga' sikà' ràa">
+<!ENTITY castingButton.castingLabel "Duguachîn' riña aga' sikà' ràa ané">
+<!ENTITY closedCaption.off "Duna'àj">
 
+<!ENTITY stats.media "Sa ni'io'">
+<!ENTITY stats.size "Dàj yachìj man">
+<!ENTITY stats.activity "Sa hua 'iaj sunj">
+<!ENTITY stats.activityPaused "Duyichin' akuan'">
+<!ENTITY stats.activityPlaying "Duguachrá">
+<!ENTITY stats.activityEnded "Nga nahuij man">
+<!ENTITY stats.activitySeeking "(nana'uij)">
+<!ENTITY stats.volume "Sa dusîj nanèe">
+<!ENTITY stats.framesParsed "Nej markô ngà natsij man">
+<!ENTITY stats.framesDecoded "Nej markô ngà nagi'iaj man">
+<!ENTITY stats.framesPresented "Nej markô ngà nadigân man">
+<!ENTITY stats.framesPainted "Nej markô ngà narunûn man">
 
+<!ENTITY error.aborted "Ganikïn' sa ayi'ì bidêo 'iaj sunj.">
+<!ENTITY error.network "Ganikïn' sa ahui bidêo dadin' hua a'nan' red.">
+<!ENTITY error.decode "Na'ue gahui bidêo dadin' hua a'nan' archîbo.">
+<!ENTITY error.srcNotSupported "Formâto bideô MIME nitaj si aran' ngà aga' nan.">
+<!ENTITY error.noSource2 "Nu nari'ij ngà si 'ngo bideô nikaj aran' nga MIME.">
+<!ENTITY error.generic "Ganikïn' sa ahui bidêo dadin' hua sa a'ui' yi'ì.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
+<!ENTITY scrubberScale.nameFormat "#1 riña #2 gachîn">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
@@ -22,3 +46,4 @@ Note that #2 is not always available. For example, when at the 5 minute mark in 
 unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
+<!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
