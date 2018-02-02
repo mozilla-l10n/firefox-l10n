@@ -56,12 +56,9 @@
 <!ENTITY  permAllow             "İcazə ver">
 <!ENTITY  permAllowSession      "Bu seans üçün icazə ver">
 <!ENTITY  permHide              "Gizlət">
-<!ENTITY  permBlock             "Blokla">
+<!ENTITY  permBlock             "Əngəllə">
 <!ENTITY  permissionsFor        "İcazələr:">
 <!ENTITY  permPlugins           "Qoşmaları Aktivləşdir">
-
-<!ENTITY  permClearStorage           "Saxlananları təmizlə">
-<!ENTITY  permClearStorage.accesskey "t">
 
 <!ENTITY  securityTab           "Təhlükəsizlik">
 <!ENTITY  securityTab.accesskey "G">
