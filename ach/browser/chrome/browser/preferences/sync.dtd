@@ -66,6 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Wek wiyi owil ikom email man">
 <!ENTITY forget.accesskey            "e">
 
+<!ENTITY resendVerification.label     "Nwo cwalo moko ada">
+<!ENTITY resendVerification.accesskey "n">
+<!ENTITY cancelSetup.label            "Juk tero">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Ter Kakube ni kwedi">
 <!ENTITY signedOut.description        "Rib alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki ter i nyonyo ni weng.">
@@ -91,3 +95,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " me ribo ki nyonyo mamegi me cing.">
+
+<!ENTITY mobilepromo.singledevice      "Kub nyonyo mukene">
+<!ENTITY mobilepromo.multidevice       "Lo nyonyo">

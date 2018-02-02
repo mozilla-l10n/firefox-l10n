@@ -4,6 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Gwokke ikom lubo kor">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene">
 <!ENTITY  trackingProtectionAlways.label       "Jwijwi">
 <!ENTITY  trackingProtectionAlways.accesskey   "w">
 <!ENTITY  trackingProtectionPrivate.label      "I dirica me mung manyen keken">
@@ -11,12 +12,9 @@
 <!ENTITY  trackingProtectionNever.label        "Pe matwal">
 <!ENTITY  trackingProtectionNever.accesskey    "a">
 <!ENTITY  trackingProtectionLearnMore.label    "Nong ngec mapol">
+<!ENTITY  trackingProtectionLearnMore2.label    "Nong ngec mapol ikom Gwokke ikom lubo kor ki mung mamegi">
 <!ENTITY  trackingProtectionExceptions.label   "Ma kiweko woko…">
 <!ENTITY  trackingProtectionExceptions.accesskey "M">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Tii ki Gwokke ikom lubo kor i Dirica me Mung">
-<!ENTITY trackingProtectionPBM5.accesskey     "M">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Tii ki Gwokke ikom lubo kor ii Yeny me mung me gengo lulub kor ma ngene">
