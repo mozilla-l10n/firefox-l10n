@@ -12,6 +12,10 @@
 <!ENTITY engine.history.accesskey   "j">
 <!ENTITY engine.logins.label        "Prijave">
 <!ENTITY engine.logins.accesskey    "P">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
 <!ENTITY engine.prefs.label         "Osobitosti">
 <!ENTITY engine.prefs.accesskey     "O">
 <!ENTITY engine.addons.label        "Dodaci">
@@ -50,18 +54,20 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Za ponovno povezivanje, pokušajte se ponovno prijaviti">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Niste prijavljeni.">
-<!ENTITY signIn.label                "Prijava">
-<!ENTITY signIn.accesskey            "P">
-<!ENTITY profilePicture.tooltip      "Primijeni sliku profila">
-<!ENTITY verifiedManage.label        "Upravljanje računom">
-<!ENTITY verifiedManage.accesskey    "u">
-<!ENTITY disconnect3.label           "Prekini vezu...">
-<!ENTITY disconnect3.accesskey       "k">
+<!ENTITY notSignedIn.label            "Niste prijavljeni.">
+<!ENTITY signIn.label                 "Prijava">
+<!ENTITY signIn.accesskey             "P">
+<!ENTITY profilePicture.tooltip       "Primijeni sliku profila">
+<!ENTITY verifiedManage.label         "Upravljanje računom">
+<!ENTITY verifiedManage.accesskey     "u">
+<!ENTITY disconnect3.label            "Prekini vezu...">
+<!ENTITY disconnect3.accesskey        "k">
 <!ENTITY verify.label                "Potvrda e-pošte">
 <!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Zaboravi ovu adresu e-pošte">
 <!ENTITY forget.accesskey            "b">
+
+<!ENTITY resendVerification.label     "Ponovno pošalji potvrdu">
 
 <!ENTITY signedOut.caption            "Ponesite vaš Web sa sobom">
 <!ENTITY signedOut.description        "Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.">
@@ -89,3 +95,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " da biste sinkronizirali s vašim mobilnim uređajem.">
+
+<!ENTITY mobilepromo.singledevice      "Povežite drugi uređaj">
+<!ENTITY mobilepromo.multidevice       "Upravljajte uređajima">
