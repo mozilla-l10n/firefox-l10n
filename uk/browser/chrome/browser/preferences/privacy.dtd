@@ -114,7 +114,7 @@
 <!ENTITY  browserContainersSettings.label        "Налаштування…">
 <!ENTITY  browserContainersSettings.accesskey    "л">
 
-<!ENTITY  a11yPrivacy.checkbox.label     "Не дозволяти сервісам доступності доступ з вашого браузера">
+<!ENTITY  a11yPrivacy.checkbox.label     "Не дозволяти сервісам доступності доступ до вашого браузера">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "з">
 <!ENTITY  a11yPrivacy.learnmore.label    "Докладніше">
 <!ENTITY enableSafeBrowsingLearnMore.label "Докладніше">
