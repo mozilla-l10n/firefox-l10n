@@ -574,12 +574,19 @@ chab mtñur">
 <!ENTITY home_top_sites_title "Paa tek unuwchu">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Amchu ŕit sal chmiya">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; Namaanch">
 <!ENTITY home_history_title "Chkjkeech">
+<!ENTITY home_synced_devices_smartfolder "Dispositiiv payt blwiiy janu">
+<!ENTITY home_synced_devices_number "&formatD; dispositiiv te">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 dispositiiv ŕit">
+<!ENTITY home_history_back_to2 "Chkjkeech tkweek waŕiib">
+<!ENTITY home_clear_history_button "Sal amchu chkjkech paytum tkryee">
+<!ENTITY home_clear_history_confirm "Ña jan jan chkjkech ha mtkreha?">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ch chwachu">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
