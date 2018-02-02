@@ -6,12 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
+<!ENTITY noTranslationForLanguages2.label "Pe ki bimiyo kob pi leb magi">
 <!ENTITY treehead.languageName.label      "Leb">
 <!ENTITY removeLanguage.label             "Kwany leb">
 <!ENTITY removeLanguage.accesskey         "K">
 <!ENTITY removeAllLanguages.label         "Kwany leb weng">
 <!ENTITY removeAllLanguages.accesskey     "w">
 
+<!ENTITY noTranslationForSites2.label     "Pe ki bimiyo kob pi kakube magi">
 <!ENTITY treehead.siteName2.label         "Kakube">
 <!ENTITY removeSite.label                 "Kwany kakube">
 <!ENTITY removeSite.accesskey             "k">
