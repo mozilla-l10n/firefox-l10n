@@ -117,6 +117,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Vollbildmodus">
 <!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Vollbild zoumaachen">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Vollbild">
 <!ENTITY fullScreenCmd.accesskey "F">
@@ -193,14 +194,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "Virun">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "Eng Säit no vir goen">
+<!ENTITY backForwardButtonMenu.tooltip "Riets-klick oder erofzéien fir den Historique ze weisen">
+<!ENTITY backForwardButtonMenuMac.tooltip "Erofzéien fir den Historique ze weisen">
 <!ENTITY reloadCmd.label              "Nei lueden">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Stopp">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY goEndCap.tooltip             "D'Adress aus der Leescht lueden">
 <!ENTITY printButton.label            "Drécken">
 <!ENTITY printButton.tooltip          "Dës Säit drécken">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Informatioune vum Site uweisen">
 
 
 
@@ -211,7 +216,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du hues Däi Mikro fir dësen Internetsite gespaart.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Du hues den Zougrëff op d'Informatioun vun Denger Positioun fir dësen Internetsite gespaart.">
-
 
 
 
@@ -306,7 +310,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-
 <!ENTITY appMenuHelp.label "Hëllef">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -353,13 +356,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Erweiderung:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Fir méi ze wëssen…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nee">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Jo">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tipp:">
@@ -517,7 +513,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -593,7 +588,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
 
 
 
