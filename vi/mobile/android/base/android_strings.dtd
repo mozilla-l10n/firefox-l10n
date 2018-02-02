@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Không thể chia sẻ hình ảnh này">
 <!ENTITY save_as_pdf "Lưu dưới dạng PDF">
 <!ENTITY print "In">
+<!ENTITY view_page_source "Xem mã nguồn trang">
 <!ENTITY find_in_page "Tìm trong trang">
 <!ENTITY desktop_mode "Yêu cầu giao diện máy tính">
 <!ENTITY page "Trang">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Mở trong thẻ mới">
 <!ENTITY contextmenu_open_private_tab "Mở trong thẻ riêng tư">
 <!ENTITY contextmenu_remove "Loại bỏ">
-<!ENTITY contextmenu_add_to_launcher "Thêm vào màn hình chính">
 <!ENTITY contextmenu_add_page_shortcut "Thêm lối tắt tới trang">
 <!ENTITY contextmenu_set_as_homepage "Đặt làm trang chủ">
 <!ENTITY contextmenu_share "Chia sẻ">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Trang đã bị xóa">
-
 <!ENTITY folder_removed "Thư mục đã xóa">
 
 <!ENTITY bookmark_edit_title "Chỉnh sửa Trang đánh dấu">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; đã được cập nhật">
 <!ENTITY whatsnew_notification_summary "Tìm hiểu có gì mới trong phiên bản này">
-
-<!ENTITY promotion_add_to_homescreen "Thêm vào màn hình chính">
 
 <!ENTITY promotion_add_page_shortcut "Thêm lối tắt tới trang">
 
