@@ -24,12 +24,15 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>कैपिटलाइजेशन अथवा दूसरी टाइपिंग त्रुटि क लेल फाइल नाम जाँचू.</li> <li>जाँचे ई देखब क लेल जे फाइल खिसकलया, फेर नामकरण कएल अथवा मेटायल गेल छल.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "फ़ाइल तक पहुँच रद्द कएल गेल">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>एकरा हटाओल, घसकाओल जाए सकैत अछि या फाइल अनुमति पहुँच रोकि सकैत अछि.</li> </ul>">
 
 <!ENTITY generic.title "ओफ्फ.">
+<!ENTITY generic.longDesc "<p>&brandShortName; किछु कारणक लेल एहि पृष्ठ केँ लोड नहि कए सकैत अछि .</p>">
 
 <!ENTITY malformedURI.title "पता वैध नहि अछि">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>वेब पता सामान्यतः एहि प्रकार लिखल जाएत अछि <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>खोज</button> </div> <li>सुनिश्चित करू जे अहाँ फॉर्वर्ड शीर्षक केर उपयोग कए रहल छी (i.e. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "कनेक्शन बाधित कएल गेल छल">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -74,6 +77,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>पृष्ठ जकरा अहाँ देखबाक कोशिश कए रहल छी नहि देखाओल जाए सकैत अछि किएक प्राप्त आंकड़ाक प्रमाणिकता जांचल नहि जाए सकल.</li> <li>कृपया वेब साइट मालिक केँ एहि समस्याक संबंध मे सूचित करबाक लेल संपर्क  करू .</li> </ul>">
 
 <!ENTITY nssBadCert.title "सुरक्षित कनेक्शन विफल">
+<!ENTITY nssBadCert.longDesc2 "<ul><li>ई सर्वर क विन्यास सँग समस्या भ सकैत अछि, या ई कोनो एहन सर्वर भ सकैत अछि जे सर्वर क रूप केँ बदलए केर कोसिस कए रहल अछि.</li><li>जँ अहाँ पहिले ई सर्वर सँ सफलतापूर्वक सम्पर्क स्थापित क चुकल छी, तँ त्रुटि अस्थायी भ सकैत अछि, आओर अहाँ बाद मे पुनः कोसिस कए सकैत छी.</li></ul>">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
