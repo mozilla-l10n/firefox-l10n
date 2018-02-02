@@ -55,12 +55,10 @@
 <!ENTITY  permAskAlways         "Vaicuot kotru reizi">
 <!ENTITY  permAllow             "Atļaut">
 <!ENTITY  permAllowSession      "Atļaut itai sesejai">
+<!ENTITY  permHide              "Paslēpt">
 <!ENTITY  permBlock             "Blokeit">
 <!ENTITY  permissionsFor        "Atļuovis lopai:">
 <!ENTITY  permPlugins           "Aktivizēt spraudņus">
-
-<!ENTITY  permClearStorage           "Izteireit globuotuvi">
-<!ENTITY  permClearStorage.accesskey "z">
 
 <!ENTITY  securityTab           "Drūseiba">
 <!ENTITY  securityTab.accesskey "S">
