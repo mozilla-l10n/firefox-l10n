@@ -213,7 +213,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Проверка за обновяване…">
 <!ENTITY addon.releaseNotes.label             "Бележки по изданието:">
 <!ENTITY addon.loadingReleaseNotes.label      "Зареждане…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Съжаляваме, но зареждането на бележките по изданието беше неуспешно.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "За съжаление, зареждането на бележките по изданието беше неуспешно.">
 
 <!ENTITY addon.createdBy.label                "От ">
 
