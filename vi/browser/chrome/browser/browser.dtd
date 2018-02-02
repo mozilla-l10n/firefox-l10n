@@ -538,24 +538,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.label      "Xem mã nguồn trang">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Xem mã nguồn khung">
-<!ENTITY viewFrameSourceCmd.accesskey "m">
-<!ENTITY viewPageInfoCmd.label        "Xem thông tin về trang">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "Xem thông tin trang">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "Xem thông tin về khung">
+<!ENTITY viewFrameInfoCmd.label       "Xem thông tin khung">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "Tải lại hình ảnh">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Xem ảnh">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "Xem thông tin của ảnh">
+<!ENTITY viewImageInfoCmd.label       "Xem thông tin hình ảnh">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Xem mô tả">
 <!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "Xem video">
+<!ENTITY viewVideoCmd.label           "Xem Video">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Xem ảnh nền">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "Đặt làm ảnh nền desktop…">
+<!ENTITY setDesktopBackgroundCmd.label      "Đặt làm hình nền desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Đánh dấu trang này">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
@@ -567,22 +567,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyURLFeedback.label        "Đã sao chép!">
 <!ENTITY emailPageCmd.label           "Gửi liên kết qua email…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "Lưu trang…">
+<!ENTITY savePageCmd.label            "Lưu trang tới…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Lưu khung thành…">
+<!ENTITY saveFrameCmd.label           "Lưu khung tới…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "In khung…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "Lưu liên kết…">
+<!ENTITY saveLinkCmd.label            "Lưu liên kết tới…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "Lưu ảnh…">
+<!ENTITY saveImageCmd.label           "Lưu ảnh tới…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "Lưu video…">
+<!ENTITY saveVideoCmd.label           "Lưu video tới…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Lưu audio…">
+<!ENTITY saveAudioCmd.label           "Lưu audio tới…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "Gửi ảnh qua email…">
 <!ENTITY emailImageCmd.accesskey      "g">
@@ -591,7 +591,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailAudioCmd.label          "Gửi audio qua email…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Kích hoạt plugin này">
-<!ENTITY playPluginCmd.accesskey      "K">
+<!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "Ẩn plugin này">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "Sao chép địa chỉ liên kết">
@@ -600,11 +600,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Sao chép ảnh">
 <!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "Chép địa chỉ video">
+<!ENTITY copyVideoURLCmd.label        "Sao chép địa chỉ video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Chép địa chỉ audio">
+<!ENTITY copyAudioURLCmd.label        "Sao chép địa chỉ audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Chép địa chỉ email">
+<!ENTITY copyEmailCmd.label           "Sao chép địa chỉ email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Khung này">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -616,7 +616,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Phát">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Tạm dừng">
-<!ENTITY mediaPause.accesskey        "m">
+<!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -639,23 +639,23 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Rất nhanh (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "Lặp">
+<!ENTITY mediaLoop.label             "Lặp lại">
 <!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Hiện điều khiển">
+<!ENTITY mediaShowControls.label     "Hiện các điều khiển">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Ẩn điều khiển">
+<!ENTITY mediaHideControls.label     "Ẩn các điều khiển">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Toàn màn hình">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "Lưu ảnh chụp màn hình…">
+<!ENTITY videoSaveImage.label        "Lưu ảnh chụp màn hình tới…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Hiện thống kê">
+<!ENTITY videoShowStats.label        "Hiển thị thống kê">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ẩn thống kê">
 <!ENTITY videoHideStats.accesskey    "t">
@@ -684,14 +684,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Chỉ phóng to văn bản">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "Chỉnh kích thước">
+<!ENTITY fullZoom.label                 "Thu phóng">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY sidebarCloseButton.tooltip     "Đóng thanh lề">
-<!ENTITY sidebarMenuClose.label         "Đóng Thanh lề">
+<!ENTITY sidebarCloseButton.tooltip     "Đóng thanh bên">
+<!ENTITY sidebarMenuClose.label         "Đóng Thanh bên">
 
 <!ENTITY quitApplicationCmdWin2.label       "Thoát">
-<!ENTITY quitApplicationCmdWin2.accesskey   "o">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Thoát &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -707,10 +707,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Kiểu của trang">
-<!ENTITY pageStyleMenu.accesskey "K">
-<!ENTITY pageStyleNoStyle.label "Không dùng">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "Không có kiểu">
 <!ENTITY pageStyleNoStyle.accesskey "n">
-<!ENTITY pageStylePersistentOnly.label "Kiểu cơ bản">
+<!ENTITY pageStylePersistentOnly.label "Kiểu trang cơ bản">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY allowPopups.accesskey "p">
@@ -718,13 +718,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Tùy chỉnh chặn popup…">
-<!ENTITY editPopupSettings.label "Tùy chỉnh chặn popup…">
+<!ENTITY editPopupSettings.label "Tùy chọn chặn popup…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Đổi hướng của trang">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Chuyển hướng trang">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Đổi hướng của văn bản">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Chuyển hướng văn bản">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
