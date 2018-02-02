@@ -24,7 +24,7 @@
 <!ENTITY calendar.events.filter.next7Days.label "Eventos nos próximos 7 dias">
 <!ENTITY calendar.events.filter.next14Days.label "Eventos nos próximos 14 dias">
 <!ENTITY calendar.events.filter.next31Days.label "Eventos nos próximos 31 dias">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Eventos neste mês do calendário">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Eventos neste mês">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
@@ -75,8 +75,8 @@
 <!ENTITY calendar.prevweek.accesskey            "S" >
 <!ENTITY calendar.nextmonth.label               "Próximo mês" >
 <!ENTITY calendar.prevmonth.label               "Mês anterior" >
-<!ENTITY calendar.nextmonth.accesskey           "P" >
-<!ENTITY calendar.prevmonth.accesskey           "M" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Avança um dia" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Recua um dia" >
