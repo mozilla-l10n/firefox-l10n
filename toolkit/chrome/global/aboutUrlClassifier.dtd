@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Url-classifier haqqında məlumat">
+<!ENTITY aboutUrlClassifier.title                       "URL Təsnifatçısı Məlumatı">
 <!ENTITY aboutUrlClassifier.providerTitle               "Təminatçı">
 <!ENTITY aboutUrlClassifier.provider                    "Təminatçı">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Son yenilənmə vaxtı">
