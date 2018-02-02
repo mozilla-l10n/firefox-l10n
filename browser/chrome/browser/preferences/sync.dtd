@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "נא להיכנס לחשבון כדי להתחבר מחדש">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "לא מחובר לחשבון.">
-<!ENTITY signIn.label                "כניסה">
-<!ENTITY signIn.accesskey            "כ">
-<!ENTITY profilePicture.tooltip      "שינוי תמונת פרופיל">
-<!ENTITY verifiedManage.label        "ניהול חשבון">
-<!ENTITY verifiedManage.accesskey    "נ">
-<!ENTITY disconnect3.label           "התנתקות…">
-<!ENTITY disconnect3.accesskey       "ה">
+<!ENTITY notSignedIn.label            "לא מחובר לחשבון.">
+<!ENTITY signIn.label                 "כניסה">
+<!ENTITY signIn.accesskey             "כ">
+<!ENTITY profilePicture.tooltip       "שינוי תמונת פרופיל">
+<!ENTITY verifiedManage.label         "ניהול חשבון">
+<!ENTITY verifiedManage.accesskey     "נ">
+<!ENTITY disconnect3.label            "התנתקות…">
+<!ENTITY disconnect3.accesskey        "ה">
 <!ENTITY verify.label                "אימות דואר אלקטרוני">
 <!ENTITY verify.accesskey            "א">
 <!ENTITY forget.label                "לשכוח מכתובת דואר אלקטרוני זו">
 <!ENTITY forget.accesskey            "ש">
+
+<!ENTITY resendVerification.label     "שליחת אימות מחדש">
+<!ENTITY resendVerification.accesskey "א">
+<!ENTITY cancelSetup.label            "ביטול ההתקנה">
+<!ENTITY cancelSetup.accesskey        "ק">
 
 <!ENTITY signedOut.caption            "קחו את הרשת עמכם">
 <!ENTITY signedOut.description        "סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.">
@@ -101,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " כדי להסתנכרן עם המכשירים הניידים שלכם.">
+
+<!ENTITY mobilepromo.singledevice      "חיבור התקן נוסף">
+<!ENTITY mobilepromo.multidevice       "ניהול התקנים">
