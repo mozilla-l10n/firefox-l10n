@@ -81,12 +81,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Duyệt web ngoại tuyến">
+<!ENTITY goOfflineCmd.label "Làm việc ngoại tuyến">
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Thanh menu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Thanh định &amp;hướng">
+<!ENTITY navbarCmd.label "Thanh điều hướng">
 <!ENTITY personalbarCmd.label "Thanh đánh dấu">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Các mục của thanh đánh dấu">
@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Mở lại thẻ vừa đóng">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
-<!ENTITY pageSourceCmd.label "Mở mã nguồn">
+<!ENTITY pageSourceCmd.label "Mở mã nguồn trang">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
@@ -115,7 +115,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Mở rộng toàn màn hình">
+<!ENTITY enterFullScreenCmd.label "Vào chế độ toàn màn hình">
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Thoát chế độ toàn màn hình">
 <!ENTITY exitFullScreenCmd.accesskey "F">
@@ -146,8 +146,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "giờ đã hiện toàn màn hình">
-<!ENTITY fullscreenWarning.generic.label "Trang này giờ đã hiện toàn màn hình">
+<!ENTITY fullscreenWarning.afterDomain.label "giờ đã hiển thị toàn màn hình">
+<!ENTITY fullscreenWarning.generic.label "Trang này giờ đã hiển thị toàn màn hình">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Xem tất cả trang đánh dấu">
 <!ENTITY recentBookmarks.label "Trang đánh dấu gần đây">
 <!ENTITY otherBookmarksCmd.label "Trang đánh dấu khác">
-<!ENTITY mobileBookmarksCmd.label "Trang đánh dấu trên điện thoại di động">
+<!ENTITY mobileBookmarksCmd.label "Trang đánh dấu trên di động">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 <!ENTITY showRecentlyBookmarked.label     "Xem trang đánh dấu gần đây">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -227,14 +227,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Quản lý việc dịch trang">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Quản lý sử dụng phần mềm DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Bạn đã chặn máy quay của mình ở trang này">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bạn đã chặn camera của mình ở trang này">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bạn đã chặn micro của mình ở trang này">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bạn đã chặn việc chia sẻ màn hình của mình với trang web này.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Bạn đã chặn thông tin địa điểm ở trang này.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Bạn đã chặn lưu trữ dữ liệu ở trang này.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bạn đã chặn thông báo ở trang này.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bạn đã chặn lưu dữ liệu lâu dài ở trang này.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Bạn đã chặn popup ở trang web này.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bạn đã chặn khai thác dữ liệu canvas đối với trang web này.">
@@ -244,14 +242,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Tìm kiếm">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "Trang nhà">
+<!ENTITY homeButton.label             "Trang chủ">
 
 <!ENTITY bookmarksButton.label          "Trang đánh dấu">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Trang đánh dấu">
 <!ENTITY bookmarksMenuButton2.label         "Bảng chọn trang đánh dấu">
-<!ENTITY bookmarksMenuButton.other.label    "Trang đánh dấu khác">
+<!ENTITY bookmarksMenuButton.other.label    "Các trang đánh dấu khác">
 <!ENTITY bookmarksMenuButton.mobile.label   "Trang đánh dấu trên điện thoại di động">
 <!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh bên trang đánh dấu">
 <!ENTITY hideBookmarksSidebar.label         "Ẩn thanh lề trang đánh dấu">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Cửa sổ riêng tư mới">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "Cửa sổ không e10s mới">
 
 <!ENTITY editMenu.label         "Chỉnh sửa">
 <!ENTITY editMenu.accesskey       "E">
@@ -341,11 +338,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewToolbarsMenu.label       "Thanh công cụ">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
-<!ENTITY viewSidebarMenu.label "Thanh lề">
+<!ENTITY viewSidebarMenu.label "Thanh bên">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "Tùy biến…">
+<!ENTITY viewCustomizeToolbar.label       "Tùy chỉnh…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY overflowCustomizeToolbar.label       "Tùy biến Thanh công cụ…">
+<!ENTITY overflowCustomizeToolbar.label       "Tùy chỉnh Thanh công cụ…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Lịch sử">
@@ -355,21 +352,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Các cửa sổ mới đóng">
 <!ENTITY historyRestoreLastSession.label "Khôi phục phiên làm việc trước">
 
-<!ENTITY showAllHistoryCmd2.label "Xem toàn bộ lược sử">
+<!ENTITY showAllHistoryCmd2.label "Xem toàn bộ lịch sử">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Tùy biến">
-<!ENTITY appMenuCustomize.tooltip "Tùy biến thanh menu và công cụ">
-<!ENTITY appMenuCustomizeExit.label "Thoát chế độ tùy biến">
-<!ENTITY appMenuCustomizeExit.tooltip "Chấp nhận tùy biến">
-
-<!ENTITY appMenuHistory.showAll.label "Xem toàn bộ lược sử">
-<!ENTITY appMenuHistory.clearRecent.label "Xóa lược sử gần đây…">
+<!ENTITY appMenuHistory.showAll.label "Xem toàn bộ lịch sử">
+<!ENTITY appMenuHistory.clearRecent.label "Xóa lịch sử gần đây…">
 <!ENTITY appMenuHistory.restoreSession.label "Khôi phục phiên làm việc trước">
-<!ENTITY appMenuHistory.viewSidebar.label "Hiển thị thanh lề lược sử">
+<!ENTITY appMenuHistory.viewSidebar.label "Hiển thị thanh bên lược sử">
 <!ENTITY appMenuHistory.recentHistory.label "Lịch sử gần đây">
 <!ENTITY appMenuHelp.label "Trợ giúp">
-<!ENTITY appMenuHelp.tooltip "Mở menu trợ giúp">
 
 <!ENTITY appMenuRemoteTabs.label "Các thẻ đã đồng bộ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -395,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tài khoản của bạn cần phải xác thực.">
 <!ENTITY appMenuRemoteTabs.signin.label "Đăng nhập vào đồng bộ hóa">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Quản lý thiết bị…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Quản lý các thiết bị…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Xem các thẻ trên thanh lề đã đồng bộ">
 
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Kết nối thiết bị khác">
@@ -414,14 +405,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToOverflowMenu.label "Thêm vào menu gợi ý trên thanh địa chỉ">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Di chuyển vào thanh công cụ">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "D">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Di chuyển vào menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "m">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Gim vào menu gợi ý trên thanh địa chỉ">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Gỡ khỏi menu gợi ý trên thanh địa chỉ">
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Phần mở rộng:">
 <!ENTITY urlbar.switchToTab.label     "Chuyển qua thẻ:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Bạn có muốn cải thiện trải nghiệm tìm kiếm có gợi ý không?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Tìm hiểu thêm…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Không">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Có">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Mẹo:">
@@ -489,8 +472,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Câu tìm kiếm">
-<!ENTITY contentSearchSubmit.tooltip  "Tìm kiếm">
+<!ENTITY contentSearchInput.label     "Truy vấn tìm kiếm">
+<!ENTITY contentSearchSubmit.tooltip  "Gửi tìm kiếm">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
@@ -500,7 +483,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Tìm:">
+<!ENTITY searchFor.label              "Tìm kiếm cho ">
 <!ENTITY searchWith.label             " với:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Kiểu cơ bản">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Thay đổi thiết lập chặn popup cho trang web này">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Đồng bộ">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Kéo mục yêu thích của bạn vào thanh công cụ hoặc bảng chọn.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Bạn muốn có thêm nhiều công cụ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Lựa chọn từ hàng ngàn tiện ích khác nhau">
 <!ENTITY customizeMode.restoreDefaults "Khôi phục &amp;mặc định">
 <!ENTITY customizeMode.done "Hoàn tất">
 <!ENTITY customizeMode.titlebar "Thanh tiêu đề">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "Q">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Tải thêm các diện mạo">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
-<!ENTITY customizeMode.emptyOverflowList.description "Kéo và thả các mục dưới đây để giữ chúng trong tầm tay, nhưng ra khỏi thanh công cụ của bạn…">
 <!ENTITY customizeMode.overflowList.title2 "Bảng chọn">
 <!ENTITY customizeMode.overflowList.description "Kéo và thả các mục vào đây để dễ sử dụng chúng và nó sẽ nằm ngoài thanh công cụ của bạn…">
 <!ENTITY customizeMode.uidensity "Mật độ">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Hành động trên trang">
 <!ENTITY pageAction.addToUrlbar.label "Thêm vào thanh địa chỉ">
 <!ENTITY pageAction.removeFromUrlbar.label "Xóa khỏi thanh địa chỉ">
-
 <!ENTITY pageAction.allowInUrlbar.label "Hiển thị trên thanh địa chỉ">
 <!ENTITY pageAction.disallowInUrlbar.label "Không hiển thị trên thanh địa chỉ">
 <!ENTITY pageAction.manageExtension.label "Quản lý phần mở rộng…">

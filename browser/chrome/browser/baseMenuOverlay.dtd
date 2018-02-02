@@ -16,14 +16,14 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "Thông tin về &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "Hướng dẫn dùng &brandShorterName;">
+<!ENTITY productHelp2.label       "Trợ giúp &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Phím tắt">
+<!ENTITY helpKeyboardShortcuts.label     "Các phím tắt bàn phím">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Khởi động lại và vô hiệu hóa Tiện ích…">
+<!ENTITY helpSafeMode.label       "Khởi động lại và vô hiệu hóa các Tiện ích…">
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "Khởi động lại và ngừng vô hiệu hóa Tiện ích">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
