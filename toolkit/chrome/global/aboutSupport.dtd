@@ -21,6 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Buraxılış">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Təhlükəsizlik Proqramı">
+<!ENTITY aboutSupport.securitySoftwareType "Növü">
+<!ENTITY aboutSupport.securitySoftwareName "Adı">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antispyware">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Qoruyucu divar">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; Özəllikləri">
 <!ENTITY aboutSupport.featureName "Ad">
 <!ENTITY aboutSupport.featureVersion "Versiya">
@@ -151,3 +158,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanallar">
 <!ENTITY aboutSupport.mediaDeviceRate "Tempi">
 <!ENTITY aboutSupport.mediaDeviceLatency "Ləngimə">
+
+<!ENTITY aboutSupport.intlTitle "Beynəlmiləlləşdirmə və Lokallaşdırma">
+<!ENTITY aboutSupport.intlAppTitle "Tətbiqetmə Tənzimləmələri">
+<!ENTITY aboutSupport.intlLocalesRequested "İstənilən Dillər">
+<!ENTITY aboutSupport.intlLocalesAvailable "Mövcud Dillər">
+<!ENTITY aboutSupport.intlLocalesSupported "Tətbiq Dilləri">
+<!ENTITY aboutSupport.intlLocalesDefault "Ön seçili dil">
+<!ENTITY aboutSupport.intlOSTitle "Əməliyyat Sistemi">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Sistem Dilləri">
+<!ENTITY aboutSupport.intlRegionalPrefs "Regional Nizamlamalar">
