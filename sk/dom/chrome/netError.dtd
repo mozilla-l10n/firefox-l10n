@@ -48,7 +48,7 @@
 ">
 
 <!ENTITY netReset.title "Spojenie bolo prerušené">
-<!ENTITY netReset.longDesc "<p>Spojenie bolo nečakane prerušené počas pripájania alebo počas prenosu údajov. Dôvodom môže byť chyba siete niekde na ceste medzi počítačom a serverom. Ak problém pretrváva, preštudujte dokumentáciu alebo sa poraďte so svojím správcom siete alebo poskytovateľom internetu (ISP).</p>">
+<!ENTITY netReset.longDesc "<p>Spojenie bolo v priebehu otvárania komunikačného kanála neočakávane prerušené. Prosím, skúste to znova.</p>">
 
 <!ENTITY netTimeout.title "Čas pre sieťovú operáciu vypršal">
 <!ENTITY netTimeout.longDesc "<p>Vypršal čas pri pokuse o pripojenie na zadaný server. Server môže byť preťažený, alebo preťaženie siete spôsobuje prílišné omeškanie dát. Ak sa dá predpokladať, že server je preťažený, skúste pred ďalším pokusom o pripojenie chvíľu počkať. Pokiaľ budú problémy pretrvávať, kontaktujte svojho správcu siete alebo poskytovateľa pripojenia.</p>">
