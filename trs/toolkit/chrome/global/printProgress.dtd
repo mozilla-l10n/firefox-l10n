@@ -1,16 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
+<!ENTITY printWindow.title "Sa nari ñadu'ua ñanj"> 
+<!ENTITY title    "Si yugui:"> 
+<!ENTITY progress "Dàj nìko hua:">
+<!ENTITY preparing "'Iaj yugui…">
+<!ENTITY printComplete "Ngà nahuij narij ñadu'ua.">
 
+<!ENTITY dialogCancel.label "Dure'"> 
+<!ENTITY dialogClose.label "Narán">
 
-
-
-
-<!ENTITY dialogClose.label "Ganarun">
 <!-- LOCALIZATION NOTE (percentPrint):
 
     This string is used to format the text to the right of the progress
     meter.
 
     #1 will be replaced by the percentage of the file that has been saved -->
+<!ENTITY percentPrint "#1&#037;">
