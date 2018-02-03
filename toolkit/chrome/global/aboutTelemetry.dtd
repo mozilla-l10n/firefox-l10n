@@ -55,6 +55,7 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  משפטי SQL איטיים">
 <!ENTITY aboutTelemetry.chromeHangsSection "  תקיעות דפדפן">
 <!ENTITY aboutTelemetry.addonDetailsSection "  פרטי תוספת">
+<!ENTITY aboutTelemetry.capturedStacksSection "מחסניות שנלכדו">
 <!ENTITY aboutTelemetry.lateWritesSection "  כתיבה מאוחרת">
 <!ENTITY aboutTelemetry.rawPayloadSection "מטען גולמי">
 <!ENTITY aboutTelemetry.raw "
