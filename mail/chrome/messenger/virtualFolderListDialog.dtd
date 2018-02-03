@@ -5,3 +5,6 @@
 <!ENTITY virtualFolderListTitle.title        "Odaberi mapu(e)">
 <!ENTITY virtualFolderDesc.label       "Odaberite mape za pretraživanje:">
 
+
+<!ENTITY folderName.label "Naziv mape">
+<!ENTITY folderSearch.label "Traži">

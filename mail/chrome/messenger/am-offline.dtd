@@ -8,6 +8,7 @@
 <!ENTITY allFoldersOffline.label "Zadrži poruke ovog računa na ovom računalu">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Zadrži poruke u svim mapama za ovaj račun na ovom računalu">
+<!ENTITY allFoldersOffline2.accesskey "Z">
 <!ENTITY allFoldersOfflineNote.label "Bilješka: Izmjena utječe na sve mape ovog računa. Kako biste postavili samo za pojedinačne mape, koristite tipku Napredno….">
 <!ENTITY offlineNotDownload.label "Poruke veće od">
 <!ENTITY offlineNotDownload.accesskey "P">

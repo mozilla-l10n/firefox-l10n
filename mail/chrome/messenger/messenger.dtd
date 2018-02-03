@@ -317,7 +317,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Razgovor">
 <!ENTITY goChatCmd.accesskey "g">
-<!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Poruka sa zvjezdicom">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Mapa">
@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Uredi skicu poruke">
 <!ENTITY editDraftMsgCmd.accesskey "d">
+<!ENTITY editTemplateMsgCmd.label "Uredi predložak">
+<!ENTITY editTemplateMsgCmd.accesskey "p">
 <!ENTITY newMsgFromTemplateCmd.label "Nova poruka iz predloška">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Stvori filter iz poruke…">
@@ -459,6 +461,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Dodaci">
 <!ENTITY addons.accesskey "D">
+<!ENTITY addonPrefs.label "Mogućnosti dodataka">
+<!ENTITY addonPrefs.accesskey "D">
+<!ENTITY addonPrefsUnix.label "Mogućnosti dodataka">
+<!ENTITY addonPrefsUnix.accesskey "D">
+<!ENTITY addonNoPrefs.label "Postavke dodatka nisu pronađene.">
 <!ENTITY activitymanager.label "Upravitelj aktivnostima">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Status razgovora">
@@ -504,6 +511,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Debugger za dodatke">
 <!ENTITY addonDebugCmd.accesskey "a">
+<!ENTITY debugAddonsCmd.label "Otklanjanje grešaka u dodacima">
+<!ENTITY debugAddonsCmd.accesskey "g">
 <!ENTITY tabsDebugCmd.label "Debugger za sadržaj okvira">
 <!ENTITY tabsDebugCmd.accesskey "s">
 <!ENTITY errorConsoleCmd.label "Konzola grešaka">
@@ -752,6 +761,8 @@
 <!ENTITY contextEditMsgAsNew.label "Uredi kao novu poruku">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextEditDraftMsg.label "Uredi skicu poruke">
+<!ENTITY contextEditTemplate.label "Uredi predložak">
+<!ENTITY contextEditTemplate.accesskey "p">
 <!ENTITY contextArchive.label "Arhiviraj">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odgovori samo pošiljatelju">
