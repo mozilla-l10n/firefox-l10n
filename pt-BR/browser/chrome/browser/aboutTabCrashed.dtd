@@ -17,16 +17,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Aff! Sua aba travou.">
 <!ENTITY tabCrashed.offerHelp2 "Podemos ajudar!">
-<!ENTITY tabCrashed.single.offerHelpMessage2 "Escolher o &tabCrashed.restoreTab; para recarregar a página.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Escolher o &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recarregar a(s) página(s).">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Escolher &tabCrashed.restoreTab; para recarregar a página.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Escolher &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recarregar a(s) página(s).">
 <!ENTITY tabCrashed.requestHelp "Você nos ajudará?">
 <!ENTITY tabCrashed.requestHelpMessage "Os relatórios de travamento nos ajudam a diagnosticar problemas e a fazer o &brandShortName; melhor.">
 <!ENTITY tabCrashed.requestReport "Relatar esta aba">
 <!ENTITY tabCrashed.sendReport3 "Enviar um relatório automatizado de travamento para que possamos corrigir problemas como este.">
-<!ENTITY tabCrashed.commentPlaceholder2 "Comentários opcionais (comentários serão visíveis publicamente)">
-<!ENTITY tabCrashed.includeURL3 "Inclua os URLs dos sites em que você estava quando &brandShortName; travou.">
+<!ENTITY tabCrashed.commentPlaceholder2 "Comentários opcionais (comentários são visíveis publicamente)">
+<!ENTITY tabCrashed.includeURL3 "Incluir os URLs dos sites em que você estava quando &brandShortName; travou.">
 <!ENTITY tabCrashed.emailPlaceholder "Digite aqui seu endereço de e-mail">
 <!ENTITY tabCrashed.emailMe "Enviar um e-mail quando mais informações estiverem disponíveis">
 <!ENTITY tabCrashed.reportSent "Relatório do travamento enviado; obrigado por ajudar a fazer o &brandShortName; melhor!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Informar abas em segundo plano">
-<!ENTITY tabCrashed.autoSubmit3 "Atualizar as preferências para enviar relatórios automaticamente quando o &brandShortName; travar.">
+<!ENTITY tabCrashed.autoSubmit3 "Atualizar preferências para enviar relatórios automaticamente quando o &brandShortName; travar.">
