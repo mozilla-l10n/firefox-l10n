@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
+<!ENTITY refreshProfile.dialog.title         "Nagi'iaj nakà &brandShortName;">
+<!ENTITY refreshProfile.dialog.description1  "Nayi'ì nakà ñûn da' nadurê't daran' sa a'ui' yi'ì ni nahuin hìo man doj.">
+<!ENTITY refreshProfile.dialog.description2  "Sa huin nimân na:">
+<!ENTITY refreshProfile.dialog.items.label1  "Nadure' nej sa nutâ't ni nej sa nadunat riña aga' nan">
+<!ENTITY refreshProfile.dialog.items.label2  "Naduna riña si configurasiûn aga' nan da' gaj da' rû' huaj ngà ga nàkaj">
+<!ENTITY refreshProfile.dialog.button.label  "Nagi'iaj nakà &brandShortName;">
 
+<!ENTITY refreshProfile.title                "Ga'uì' &brandShortName; 'ngo pûntu">
+<!ENTITY refreshProfile.button.label         "Nagi'iaj nakà &brandShortName;…">
 
-
-
-
-
-
+<!ENTITY refreshProfile.cleaning.description "Ngà doj nahuî…">

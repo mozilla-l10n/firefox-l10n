@@ -22,5 +22,16 @@
 <!ENTITY spellCheckToggle.label "Natsij si hua hue'ê sa achrûnt">
 <!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(Nitaj nuj Hua rayi'î Nuguan' nan)">
+<!ENTITY spellDictionaries.label "Nej nânj (nuguan')">
+<!ENTITY spellDictionaries.accesskey "l">
 
+<!ENTITY searchTextBox.clear.label "Na'nïn'">
 
+<!ENTITY fillLoginMenu.label          "Dusîj sesiûn">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "Nachra riña da'nga' huìi">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "Nachra riña si yugui Usuario">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(Nitaj nuhuìn sa Hua Gini'iajt)">
+<!ENTITY viewSavedLogins.label        "Ni'iaj nej Sesiûn gayi'ìt Na'nín sà't">
