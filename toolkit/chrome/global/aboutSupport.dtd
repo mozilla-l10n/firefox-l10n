@@ -26,6 +26,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareTitle "תוכנת אבטחה">
 <!ENTITY aboutSupport.securitySoftwareType "סוג">
 <!ENTITY aboutSupport.securitySoftwareName "שם">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "אנטי וירוס">
 <!ENTITY aboutSupport.securitySoftwareAntiSpyware "חוסם רוגלות">
 <!ENTITY aboutSupport.securitySoftwareFirewall "חומת אש">
 
