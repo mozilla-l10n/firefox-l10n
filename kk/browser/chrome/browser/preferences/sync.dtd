@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " үшін жүктеп алып, мобильді құрылғыңызбен синхрондаңыз.">
+
+<!ENTITY mobilepromo.singledevice      "Басқа құрылғыны байланыстыру">
+<!ENTITY mobilepromo.multidevice       "Құрылғыларды басқару">
