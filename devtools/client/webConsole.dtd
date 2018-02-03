@@ -71,7 +71,7 @@
 
 <!ENTITY filterOutput.placeholder "Filtre de sortida">
 <!ENTITY btnClear.label        "Voidar la consòla">
-<!ENTITY btnClear.tooltip      "Voidar la Consòla Web">
+<!ENTITY btnClear.tooltip      "Voidar la consòla Web">
 <!ENTITY btnClear.accesskey    "V">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
