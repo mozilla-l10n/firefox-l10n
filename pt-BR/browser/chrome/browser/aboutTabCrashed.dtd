@@ -29,4 +29,4 @@
 <!ENTITY tabCrashed.emailMe "Enviar um e-mail quando mais informações estiverem disponíveis">
 <!ENTITY tabCrashed.reportSent "Relatório do travamento enviado; obrigado por ajudar a fazer o &brandShortName; melhor!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Informar abas em segundo plano">
-<!ENTITY tabCrashed.autoSubmit3 "Atualizar preferências para enviar relatórios automaticamente quando o &brandShortName; travar.">
+<!ENTITY tabCrashed.autoSubmit3 "Atualizar as preferências para enviar relatórios automaticamente quando o &brandShortName; travar.">
