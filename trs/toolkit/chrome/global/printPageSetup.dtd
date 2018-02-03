@@ -1,47 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from printjoboptions.xul -->
 
+<!ENTITY printSetup.title    "Naduna sa hua riña Pâjina">
 
+<!ENTITY basic.tab           "Fomâto &amp; Doj sa hua gi'iát">
 
+<!ENTITY formatGroup.label   "Formâto">
 
+<!ENTITY orientation.label   "Chrej nikò':">
+<!ENTITY portrait.label      "Ñadu'ua">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Dàj huaj">
+<!ENTITY landscape.accesskey "L">
 
-
-
-
-
-
-
+<!ENTITY scale.label         "Skâla:">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
 
 
 <!ENTITY optionsGroup.label  "Nagui’iaj">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

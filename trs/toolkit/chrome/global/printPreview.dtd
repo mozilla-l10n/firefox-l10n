@@ -30,4 +30,14 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Nagui'iaj mu'ûn'…">
+<!ENTITY ShrinkToFit.label    "Nagi'iaj lij da' Ginu Hue'ej">
+<!ENTITY customPrompt.title   "Skalâ nagi'iát…">
+<!ENTITY simplifyPage.label   "Nagi'iaj lij pâjina">
+<!ENTITY simplifyPage.accesskey "i">
+<!ENTITY simplifyPage.enabled.tooltip  "Naduna da' ga'ue gahia hue'êt doj">
+<!ENTITY simplifyPage.disabled.tooltip "Na'ue nagi'iaj lij ma'an pajinâ nan ma'an">
 
+<!ENTITY homearrow.tooltip    "Pajinâ sinïïn">
+<!ENTITY endarrow.tooltip     "Pajinâ rukùu">
+<!ENTITY nextarrow.tooltip    "Pajinâ 'na' ñaan">
+<!ENTITY previousarrow.tooltip "Pajinâ gunâj rukùu">
