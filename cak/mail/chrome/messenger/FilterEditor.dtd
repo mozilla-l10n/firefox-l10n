@@ -50,6 +50,8 @@
 <!ENTITY fetchFromPOP.label "Tik'am Pe Pa Ri POP K'uxasamaj">
 <!ENTITY ignoreThread.label "Tirepüx Ch'ab'enïk">
 <!ENTITY ignoreSubthread.label "Tirepüx Achch'ab'enïk">
+<!ENTITY watchThread.label "Titzu' jun Ch'ab'enïk">
+<!ENTITY stopExecution.label "Tiq'at Rusamajixik Chayub'äl">
 
 <!ENTITY addAction.tooltip "Titz'aqatisäx jun k'ak'a' b'anoj">
 <!ENTITY removeAction.tooltip "Tiyuj re b'anoj re'">

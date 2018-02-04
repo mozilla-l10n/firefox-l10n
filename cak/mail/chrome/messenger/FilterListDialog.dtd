@@ -13,6 +13,8 @@
 <!ENTITY editButton.accesskey "n">
 <!ENTITY deleteButton.label "Tiyuj">
 <!ENTITY deleteButton.accesskey "y">
+<!ENTITY reorderTopButton "Tisilöx pa Tikirib'äl:">
+<!ENTITY reorderTopButton.accessKey "s">
 <!ENTITY reorderUpButton.label "Tijotob'äx">
 <!ENTITY reorderUpButton.accesskey "j">
 <!ENTITY reorderDownButton.label "Tiqasäx Qa">
