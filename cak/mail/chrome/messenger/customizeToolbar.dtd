@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title             "Tichinäx ri Kikajtz'ik Samajib'äl">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
+<!ENTITY instructions.description "Yatikïr natz'aqatisaj o ye'awelesaj el taq ch'akulal rik'in ye'aqirirej pa kikajtzik samajib'äl.">
+<!ENTITY show.label               "Tik'ut pe:">
+<!ENTITY iconsAndText.label       "Taq Wachib'äl chuqa' Rucholajem Tzij">
