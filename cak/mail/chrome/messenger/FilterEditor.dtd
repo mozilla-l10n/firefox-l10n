@@ -42,7 +42,9 @@
 <!ENTITY markMessageRead.label "Tiya' Retal Achi'el Sik'in">
 <!ENTITY markMessageUnread.label "Tiya' Retal Achi'el Man Sik'in Ta">
 <!ENTITY markMessageStarred.label "Titz'aqatisäx Ch'umil">
+<!ENTITY setPriority.label "Tiya' Rejqalem chi re">
 <!ENTITY addTag.label "Retal Rutzijol">
+<!ENTITY setJunkScore.label "Tiya' Rub'anikil Seq' chi re">
 <!ENTITY deleteMessage.label "Tiyuj Tzijol">
 
 <!ENTITY addAction.tooltip "Titz'aqatisäx jun k'ak'a' b'anoj">
