@@ -13,6 +13,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.windowTitle "Tijik' pe">
 <!ENTITY importMail.label         "Taqoya'l">
 <!ENTITY importMail.accesskey     "T">
+<!ENTITY importFeeds.label        "Tz'ib'anïk B'i'aj pa taq Q'asab'äl">
 <!ENTITY importAddressbook.label  "Kiwujil taq Ochochib'äl">
 <!ENTITY importAddressbook.accesskey "O">
 <!ENTITY importSettings.label     "Taq nuk'ulem">

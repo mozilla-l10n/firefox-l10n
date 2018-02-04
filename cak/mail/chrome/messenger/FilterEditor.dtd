@@ -28,9 +28,21 @@
 <!ENTITY contextArchive.label "Niyak">
 <!ENTITY contextArchive.accesskey "N">
 
+<!ENTITY filterActionDesc.label "Kesamajib'ëx re taq b'anoj re':">
+<!ENTITY filterActionDesc.accesskey "K">
 
+<!ENTITY filterActionOrderWarning.label "Ch'utitzijol: Ri taq rub'anoj chayuj xkisamajib'ëx rik'in jalajöj rucholajem.">
+<!ENTITY filterActionOrder.label "Titz'et rucholajem taqoj">
 
 <!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Tisilöx Rutzijol pa">
+<!ENTITY copyMessage.label "Tiwachib'ëx Rutzijol pa">
+<!ENTITY forwardTo.label "Ketaq chik Rutzijol pa">
+<!ENTITY replyWithTemplate.label "Titzolïx tzij rik'in Kaxawäch">
+<!ENTITY markMessageRead.label "Tiya' Retal Achi'el Sik'in">
+<!ENTITY markMessageUnread.label "Tiya' Retal Achi'el Man Sik'in Ta">
+<!ENTITY markMessageStarred.label "Titz'aqatisäx Ch'umil">
+<!ENTITY addTag.label "Retal Rutzijol">
 <!ENTITY deleteMessage.label "Tiyuj Tzijol">
 
 <!ENTITY addAction.tooltip "Titz'aqatisäx jun k'ak'a' b'anoj">

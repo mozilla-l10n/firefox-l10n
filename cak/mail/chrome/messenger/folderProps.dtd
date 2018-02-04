@@ -12,13 +12,21 @@
 <!ENTITY retentionUseAccount.accesskey "o">
 <!ENTITY daysOld.label "ojer taq q'ij">
 <!ENTITY message.label "taq tzijol">
+<!ENTITY retentionDeleteMsg.label "Keyuj taq rutzijol nïm chuwäch">
+<!ENTITY retentionDeleteMsg.accesskey "r">
 <!ENTITY retentionKeepAll.label "Man keyuj taq tzijol">
 <!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.label "Keyuj konojel, man ke ta ri' ri e k'ak'a'">
+<!ENTITY retentionKeepRecent.accesskey "k">
+<!ENTITY retentionApplyToFlagged.label "Junelïk keyake' ri nimaläj taq rutzijol">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
 
 <!ENTITY offlineFolder.button.label              "Tajin Niqasan">
 <!ENTITY offlineFolder.button.accesskey          "q">
 
+<!ENTITY selectofflineNewsgroup.check.label      "Tichach re rumolaj tzijol re' richin nokisäx toq majun okem">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Tajin Niqasan">
 <!ENTITY offlineNewsgroup.button.accesskey       "q">
 
