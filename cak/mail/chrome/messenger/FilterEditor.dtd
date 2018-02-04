@@ -46,6 +46,10 @@
 <!ENTITY addTag.label "Retal Rutzijol">
 <!ENTITY setJunkScore.label "Tiya' Rub'anikil Seq' chi re">
 <!ENTITY deleteMessage.label "Tiyuj Tzijol">
+<!ENTITY deleteFromPOP.label "Tiyuj Pa Ri POP K'uxasamaj">
+<!ENTITY fetchFromPOP.label "Tik'am Pe Pa Ri POP K'uxasamaj">
+<!ENTITY ignoreThread.label "Tirepüx Ch'ab'enïk">
+<!ENTITY ignoreSubthread.label "Tirepüx Achch'ab'enïk">
 
 <!ENTITY addAction.tooltip "Titz'aqatisäx jun k'ak'a' b'anoj">
 <!ENTITY removeAction.tooltip "Tiyuj re b'anoj re'">
