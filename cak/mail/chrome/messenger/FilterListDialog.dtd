@@ -13,12 +13,14 @@
 <!ENTITY editButton.accesskey "n">
 <!ENTITY deleteButton.label "Tiyuj">
 <!ENTITY deleteButton.accesskey "y">
-<!ENTITY reorderTopButton "Tisilöx pa Tikirib'äl:">
+<!ENTITY reorderTopButton "Tisilöx pa Rutikirib'al">
 <!ENTITY reorderTopButton.accessKey "s">
+<!ENTITY reorderTopButton.toolTip "Ticholajïx chik ri chayub'äl richin tunab'eyij rusamajib'exik chi kiwäch ri ch'aqa' chik">
 <!ENTITY reorderUpButton.label "Tijotob'äx">
 <!ENTITY reorderUpButton.accesskey "j">
 <!ENTITY reorderDownButton.label "Tiqasäx Qa">
 <!ENTITY reorderDownButton.accesskey "Q">
+<!ENTITY reorderBottomButton "Tisilöx pa Ruk'isib'al">
 <!ENTITY stopFilters.label "Tiq'at">
 <!ENTITY stopFilters.accesskey "q">
 <!ENTITY helpButton.label "To'ïk">
