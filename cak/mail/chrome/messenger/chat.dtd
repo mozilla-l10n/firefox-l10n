@@ -33,6 +33,7 @@
 <!ENTITY closeConversationButton.tooltip "Titz'apïx tzijonem">
 
 <!ENTITY addBuddyButton.label          "Titz'aqatisäx Rub'i' Achib'il">
+<!ENTITY joinChatButton.label          "Tatunu' awi' pa Chat">
 <!ENTITY chatAccountsButton.label      "Kek'ut taq Rub'i' Taqoya'l">
 
 <!ENTITY status.available          "Wachel">
