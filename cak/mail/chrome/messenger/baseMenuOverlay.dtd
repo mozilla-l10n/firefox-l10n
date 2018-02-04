@@ -21,7 +21,12 @@
 <!ENTITY openHelp.accesskey "T">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; To'ïk">
+<!ENTITY openHelpMac2.label "&brandFullName; To'ïk">
 <!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Chi rij &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "C">
+
+<!ENTITY aboutMenuCmd2.label "Chi rij &brandFullName;">
+<!ENTITY aboutMenuCmd2.accesskey "C">
