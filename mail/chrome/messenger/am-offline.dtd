@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "Du kan spare plads ved at begrænse hentning af meddelelser til offline-brug ud fra alder eller størrelse.">
 <!ENTITY allFoldersOffline.label "Behold denne kontos meddelelser på denne computer">
 <!ENTITY allFoldersOffline.accesskey "B">
+<!ENTITY allFoldersOffline2.label "Behold meddelelser i alle mapper for denne konto på denne computer">
+<!ENTITY allFoldersOffline2.accesskey "B">
+<!ENTITY allFoldersOfflineNote.label "Obs: Dette påvirker alle mapper for denne konto. Brug knappen 'Avanceret...' for at vælge individuelle mapper.">
 <!ENTITY offlineNotDownload.label "Meddelelser større end">
 <!ENTITY offlineNotDownload.accesskey "ø">
 <!ENTITY autosyncNotDownload.label "Hent ikke meddelelser større end">
@@ -27,17 +30,14 @@
 <!ENTITY retentionKeepAll.accesskey "i">
 <!ENTITY retentionKeepRecent.label "Slet alle, bortset fra nyeste">
 <!ENTITY retentionKeepRecent.accesskey "y">
-
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionApplyToFlagged.label "Behold altid stjernemarkerede meddelelser">
 <!ENTITY retentionApplyToFlagged.accesskey "o">
-
 <!ENTITY nntpRemoveMsgBody.label "Fjern indhold fra meddelelser, der er mere end">
 <!ENTITY nntpRemoveMsgBody.accesskey "d">
-<!ENTITY offlineImapAdvancedOffline.label "Avanceret…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY offlineSelectNntp.label "Vælg nyhedsgrupper til brug offline…">
 <!ENTITY offlineSelectNntp.accesskey "n">
+<!ENTITY offlineImapAdvancedOffline.label "Avanceret…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Synkronisering af meddelelser">
 <!ENTITY diskspaceGroupTitle.label "Diskplads">
 

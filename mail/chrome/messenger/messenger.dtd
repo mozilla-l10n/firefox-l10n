@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.key "C">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Stjernemarkerede meddelelse">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
@@ -367,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Rediger kladde">
 <!ENTITY editDraftMsgCmd.accesskey "l">
+<!ENTITY editTemplateMsgCmd.label "Rediger skabelon">
+<!ENTITY editTemplateMsgCmd.accesskey "d">
 <!ENTITY newMsgFromTemplateCmd.label "Ny meddelelse fra skabelon">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Opret filter…">
@@ -460,6 +461,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Tilføjelser">
 <!ENTITY addons.accesskey "T">
+<!ENTITY addonPrefs.label "Indstillinger for udvidelser">
+<!ENTITY addonPrefs.accesskey "J">
+<!ENTITY addonPrefsUnix.label "Indstillinger for udvidelser">
+<!ENTITY addonPrefsUnix.accesskey "J">
+<!ENTITY addonNoPrefs.label "Ingen indstillinger for tilføjelser fundet.">
 <!ENTITY activitymanager.label "Aktivitet">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Chat-status">
@@ -505,6 +511,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Tilføjelse-debugger">
 <!ENTITY addonDebugCmd.accesskey "T">
+<!ENTITY debugAddonsCmd.label "Fejlsøg tilføjelser">
+<!ENTITY debugAddonsCmd.accesskey "F">
 <!ENTITY tabsDebugCmd.label "Indholdsramme-debugger">
 <!ENTITY tabsDebugCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.label "Fejlkonsol">
@@ -753,6 +761,8 @@
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny meddelelse">
 <!ENTITY contextEditMsgAsNew.accesskey "y">
 <!ENTITY contextEditDraftMsg.label "Rediger kladde">
+<!ENTITY contextEditTemplate.label "Rediger skabelon">
+<!ENTITY contextEditTemplate.accesskey "R">
 <!ENTITY contextArchive.label "Arkiver">
 <!ENTITY contextArchive.accesskey "r">
 <!ENTITY contextReplySender.label "Svar kun afsenderen">
