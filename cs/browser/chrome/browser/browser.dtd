@@ -846,7 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header3 "Přetáhněte své oblíbené položky na lištu nebo do rozšiřující nabídky.">
 <!ENTITY customizeMode.restoreDefaults "Obnovit výchozí">
 <!ENTITY customizeMode.done "Hotovo">
-<!ENTITY customizeMode.titlebar "Hlavička okna">
+<!ENTITY customizeMode.titlebar "Záhlaví okna">
 <!ENTITY customizeMode.extraDragSpace "Prostor pro chycení okna">
 <!ENTITY customizeMode.toolbars2 "Nástrojové lišty">
 <!ENTITY customizeMode.lwthemes "Motivy vzhledu">
