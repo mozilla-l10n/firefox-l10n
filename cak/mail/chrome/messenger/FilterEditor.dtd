@@ -2,12 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title "Ketab'al Chayub'äl">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Chayub'äl b'i'aj:">
 <!ENTITY filterName.accesskey "a">
 
+<!ENTITY junk.label "Seq'">
+<!ENTITY notJunk.label "Man Seq' Ta">
 
+<!ENTITY lowestPriorityCmd.label "Ch'utin">
+<!ENTITY lowPriorityCmd.label "Ko'öl">
 <!ENTITY normalPriorityCmd.label "Relik">
+<!ENTITY highPriorityCmd.label "Nïm">
+<!ENTITY highestPriorityCmd.label "Yalan nïm">
 
+<!ENTITY contextDesc.label "Tokisäx chayub'äl toq:">
+<!ENTITY contextIncomingMail.label "Nik'ul K'ak'a' Taqoya'l:">
+<!ENTITY contextIncomingMail.accesskey "N">
+<!ENTITY contextManual.label "Tisamajin chi Q'ab'aj">
+<!ENTITY contextManual.accesskey "T">
+<!ENTITY contextBeforeCls.label "Tichayüx chuwäch ri Rucha'oj Seq'">
+<!ENTITY contextAfterCls.label "Tichayüx chi rij ri Rucha'oj Seq'">
+<!ENTITY contextOutgoing.label "Chi rij toq Nitaq">
+<!ENTITY contextOutgoing.accesskey "N">
+<!ENTITY contextArchive.label "Niyak">
+<!ENTITY contextArchive.accesskey "N">
 
 
 

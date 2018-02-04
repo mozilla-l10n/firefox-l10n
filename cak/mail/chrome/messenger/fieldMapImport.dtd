@@ -15,3 +15,6 @@
 <!ENTITY fieldMapImport.down.label "Tiqasäx Qa">
 <!ENTITY fieldMapImport.down.accesskey "Q">
 <!ENTITY fieldMapImport.fieldListTitle "Kik'ojlib'al Kiwujil Ochochib'äl">
+<!ENTITY fieldMapImport.dataTitle "Kitz'ib'anik taq tzij richin yejik' el">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Nab'ey tz'ib'anïk ruk'wan rub'i' ri k'ojlib'äl">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "N">
