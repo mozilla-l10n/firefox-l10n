@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY crashesSubmitted.label     "Segnalazions di crash mandadis">
+<!ENTITY id.heading                 "ID segnalazion">
+
+<!ENTITY dateSubmitted.heading      "Date di inviament">
+<!ENTITY noReports.label            "Nissune segnalazion di crash mandade.">
+<!ENTITY noConfig.label             "Cheste aplicazion no je stade configurade par mostrâ lis segnalazions di crash. La preference <code>breakpad.reportURL</code> e à di jessi impuestade.">
+<!ENTITY clearAllReports.label      "Nete fûr ducj i rapuarts">

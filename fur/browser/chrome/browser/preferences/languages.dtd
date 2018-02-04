@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width                                   "35em">
+
+<!ENTITY languages.customize.Header                     "Lenghis">
+
+<!ENTITY languages.customize.moveUp.label               "Sposte in sù">
+<!ENTITY languages.customize.moveUp.accesskey           "S">
+<!ENTITY languages.customize.moveDown.label             "Sposte in jù">
+<!ENTITY languages.customize.moveDown.accesskey         "j">
+<!ENTITY languages.customize.deleteButton.label         "Gjave">
+<!ENTITY languages.customize.deleteButton.accesskey     "G">
+<!ENTITY languages.customize.selectLanguage.label       "Sielç une lenghe di zontâ…">
+<!ENTITY languages.customize.addButton.label            "Zonte">
+<!ENTITY languages.customize.addButton.accesskey        "Z">
+

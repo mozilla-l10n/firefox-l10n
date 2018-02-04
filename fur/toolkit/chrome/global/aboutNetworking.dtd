@@ -1,0 +1,56 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.showNextTime          "Torne a fâ viodi chest avîs la prossime volte">
+<!ENTITY aboutNetworking.ok                    "Va ben">
+
+<!ENTITY aboutNetworking.sockets               "Sockets">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
+<!ENTITY aboutNetworking.refresh               "Rinfrescje">
+
+
+<!ENTITY aboutNetworking.port                  "Puarte:">
+
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "Ative">
+
+<!ENTITY aboutNetworking.host                  "Servidôr:">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

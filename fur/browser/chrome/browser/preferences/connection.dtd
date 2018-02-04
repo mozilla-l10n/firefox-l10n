@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  connectionsDialog.title       "Impostazions de conession">
+
+
+
+<!ENTITY  proxyTitle.label              "Configure i proxies pe conession a Internet">
+<!ENTITY  noProxyTypeRadio.label        "Nissun proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Dopre impostazions proxy dal sisteme">
+<!ENTITY  systemTypeRadio.accesskey     "i">
+<!ENTITY  WPADTypeRadio.label           "Cjate in automatic la configurazion dai proxies par cheste rêt">
+<!ENTITY  WPADTypeRadio.accesskey       "a">
+
+
+
+
+<!ENTITY  reload.label                  "Ricjame">
+<!ENTITY  reload.accesskey              "R">
+
+
+
+
+
+
+
+
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+
+
+
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "t">
+<!ENTITY  SOCKSport.accesskey           "t">
+
+
+<!ENTITY  noproxyExplain.label          "Esempli: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Dopre chest servidôr proxy par ducj i protocoi">
+<!ENTITY  shareproxy.accesskey          "D">
+
+
+

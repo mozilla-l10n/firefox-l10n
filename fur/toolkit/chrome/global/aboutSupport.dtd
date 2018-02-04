@@ -1,0 +1,131 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Informazions pal supuart">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "Cheste pagjine e conten informazions tecnichis che a podin jessi utilis cuant che tu stât cirint di risolvi un probleme. Se tu sês daûr a cirî rispuestis a lis domandis plui frecuentis su &brandShortName;, dai une cjalade al nestri <a id='supportLink'>sît web di supuart</a>. ">
+
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ID segnalazion">
+
+
+
+
+<!ENTITY aboutSupport.extensionsTitle "Estensions">
+<!ENTITY aboutSupport.extensionName "Non">
+<!ENTITY aboutSupport.extensionEnabled "Ativade">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+
+<!ENTITY aboutSupport.experimentName "Non">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "Descrizion">
+<!ENTITY aboutSupport.experimentActive "Ative">
+
+<!ENTITY aboutSupport.experimentHomepage "Pagjine web">
+
+
+<!ENTITY aboutSupport.appBasicsTitle "Informazions di base de aplicazion">
+<!ENTITY aboutSupport.appBasicsName "Non">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Cronologjie dai inzornaments ">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Fâs viodi la cronologjie dai inzornamen&amp;ts">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Cartele dal profîl">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins instalâts">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Configurazion de build">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agjent utent">
+
+<!ENTITY aboutSupport.appBasicsMemoryUse "Memorie doprade">
+
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+
+
+
+
+
+
+<!ENTITY aboutSupport.showDir.label "Vierz cartele">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Mostre tal Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+
+<!ENTITY aboutSupport.modifiedPrefsName "Non">
+<!ENTITY aboutSupport.modifiedPrefsValue "Valôr">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "user.js Preferencis">
+
+
+<!ENTITY aboutSupport.lockedPrefsName "Non">
+<!ENTITY aboutSupport.lockedPrefsValue "Valôr">
+
+<!ENTITY aboutSupport.graphicsTitle "grafiche">
+
+
+
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+
+
+<!ENTITY aboutSupport.a11yTitle "Acessibilitât">
+<!ENTITY aboutSupport.a11yActivated "Ative">
+
+
+
+
+
+<!ENTITY aboutSupport.installationHistoryTitle "Cronologjie di instalazion">
+<!ENTITY aboutSupport.updateHistoryTitle "Cronologjie dai inzornaments ">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copie dut tai Aponts">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY aboutSupport.restartInSafeMode.label "Torne a inviâ cu lis Zontis disativadis">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

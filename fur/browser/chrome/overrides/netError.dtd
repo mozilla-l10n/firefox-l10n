@@ -1,0 +1,107 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Probleme cjamant la pagjine">
+<!ENTITY retry.label "Torne a provâ">
+
+
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "No si pues conetisi">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Cheste direzion e je restrizude">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Servidôr no cjatât">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Verifiche che te direzion no tu vedis fat erôrs di digjitazion come <strong>ww</strong>.example.com invezit di <strong>www</strong>.example.com</li> <li>Se no tu rivis a cjamâ nissune pagjine, verifiche la conession ae rêt dal to ordenadôr.</li> <li>Se il to ordenadôr o rêt a son protezûts di un firewall o di un proxy, siguriti che &brandShortName; al vedi il permès di acedi al Web.</li> </ul>">
+
+<!ENTITY fileNotFound.title "File no cjatât">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Verifiche di vê scrit esat maiusculis e minusculis o di no vê fat altris erôrs cussì.</li> <li>Verifiche che il file nol sedi stât movût, cambiât di non o eliminât.</li> </ul>">
+
+
+
+<!ENTITY generic.title "Orpo.">
+<!ENTITY generic.longDesc "<p>&brandShortName; nol rive a cjamâ cheste pagjine par cualchi motîf.</p>">
+
+
+
+
+<!ENTITY malformedURI.title "La direzion no je valide">
+<!ENTITY malformedURI.longDesc "<ul> <li>Lis direzions Web a son par solit scritis come <strong>http://www.example.com/</strong></li> <li>Siguriti di doprâ lis sbaris justis (chês indevant, <strong>/</strong>).</li> </ul>">
+
+<!ENTITY netInterrupt.title "La conession e je stade interote">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Document scjadût">
+
+
+<!ENTITY netOffline.title "Mût fûr linie">
+
+
+<!ENTITY contentEncodingError.title "Erôr te codifiche dal contignût">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li> </ul>">
+
+<!ENTITY unsafeContentType.title "Gjenar di file no sigûr">
+
+
+<!ENTITY netReset.title "La conession e je stade reiniziade">
+
+
+<!ENTITY netTimeout.title "La conession e je lade fûr timp massim">
+
+
+<!ENTITY unknownProtocolFound.title "No ai capît la direzion">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Par vierzi cheste direzion ti tocjarà instalâ altris programs.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "Il servidôr proxy al refude lis conessions.">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Controle lis impostazions proxy par verificâ che a sedin coretis.</li> <li>Contate il to aministradôr di rêt par verificâ che il servidôr proxy al funzioni.</li> </ul>">
+
+<!ENTITY proxyResolveFailure.title "No si pues cjatâ il servidôr proxy">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Controle lis impostazions proxy par verificâ che a sedin coretis.</li> <li>Siguriti che il to ordenadôr al vedi une conession di rêt che e funzionedi.</li> <li>Se il to ordenadôr o rêt a son protezûts di un firewall o di un proxy, siguriti che &brandShortName; al vedi il permès di acedi al Web.</li> </ul>">
+
+<!ENTITY redirectLoop.title "Il re-indreçament di cheste pagjine nol funzione ben">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Chest probleme al pues a voltis jessi causât de disativazion o de mancjade acetazion dai cookies.</li> </ul>">
+
+<!ENTITY unknownSocketType.title "Rispueste dal servidôr no spietade">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Siguriti che il to sisteme al vedi instalât il Personal Security Manager.</li> <li>Chest al podarès jessi dovût a une configurazion no standard sul servidôr.</li> </ul>">
+
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>No si pues visualizâ cheste pagjine parcè che no si à podût verificâ la autenticitât dai dâts ricevûts.<ul> <li>Par plasê contate il proprietari dal sît web par informâlu dal probleme.</li> </ul>">
+
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+<!ENTITY sharedLongDesc "<ul> <li>Il sît al podarès jessi par cumò no disponibil o masse impegnât. Torne a provâ ca di cualchi moment.</li> <li>Se no tu rivis a cjamâ nissune pagjine, verifiche la conession ae rêt dal to ordenadôr.</li> <li>Se il to ordenadôr o rêt a son protezûts di un firewall o di un proxy, siguriti che &brandShortName; al vedi il permès di acedi al Web.</li> </ul>">
+
+
+
+
+
+
+<!ENTITY securityOverride.exceptionButtonLabel "Zonte ecezion…">
+
+
+
+<!ENTITY remoteXUL.title "XUL remot">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+
+
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+

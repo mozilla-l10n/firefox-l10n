@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
+  It is important that wording follows the guidelines outlined on this page:
+  https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+-->
+
+
+
+
+
+
+<!ENTITY  addonExceptions.label         "Ecezions…">
+<!ENTITY  addonExceptions.accesskey     "E">
+
+
+
+<!ENTITY  passwordExceptions.label      "Ecezions…">
+<!ENTITY  passwordExceptions.accesskey  "z">
+
+<!ENTITY  useMasterPassword.label        "Dopre une password gjenerâl">
+<!ENTITY  useMasterPassword.accesskey    "u">
+<!ENTITY  changeMasterPassword.label     "Cambie la password gjenerâl…">
+<!ENTITY  changeMasterPassword.accesskey "m">
+
+

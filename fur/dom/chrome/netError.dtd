@@ -1,0 +1,103 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY loadError.label "Problemis cjamant la pagjine">
+<!ENTITY retry.label "Torne a provâ">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "No si à podût conetisi">
+<!ENTITY connectionFailure.longDesc "<p>Ancje se il sît al samee valit, il sgarfadôr nol è rivât a stabilî une conession.</p><ul><li>Podaressial jessi che il sît al in chest moment no disponbil? Torne a provâ ca di un pôc.</li><li>Rivistu a navigâ in altris sîts? Controle la conession ae rêt dal to ordenadôr.</li><li>Isal il to ordenadôr o rêt protezût di un firewall o di un proxy? Une configurazion sbaliade e podarès interferî cu la navigazion Internet.</li></ul>">
+
+<!ENTITY deniedPortAccess.title "Puarte blocade par motîfs di sigurece">
+
+
+<!ENTITY dnsNotFound.title "Indiriç no cjatât">
+<!ENTITY dnsNotFound.longDesc "<p>Il sgarfadôr nol à podût cjatâ il servidôr par cheste direzion.</p> 
+<ul> 
+<li>Astu fat erôrs di digitazion te direzion? (p.e. <q><strong>ww</strong>.esempli.com</q> invezit di <q><strong>www</strong>.esempli.com</q>)</li> 
+<li>Sêstu sigûr che chest domini al esisti?  Po stâi che la sô regjistrazion e sedi scjadude.</li> 
+<li>No rivistu a navigâ in altris sîts?  Verifiche la conession ae rêt e lis impostazions servidôr DNS.</li> 
+<li>Il to computer o la tô rêt sono protezûts di un firewall o di un proxy?  Impostazions sbaliadis a puedin blocâ la navigazion.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "File no cjatât">
+<!ENTITY fileNotFound.longDesc "<ul><li>L'ogjet puedial jessi stât eliminât o mot, o i puedial jessi stât cambiât il non?</li> 
+<li>Isal un erôr di ortografie, digitazion, o maiusculis te direzion?</li><li>Astu il permès necessari par acedi al ogjet desiderât?</li></ul>">
+
+
+
+<!ENTITY generic.title "No si pues completâ la richieste.">
+<!ENTITY generic.longDesc "<p>Pal moment altris informazions su chest probleme o erôr no son disponibilis.</p>">
+
+<!ENTITY malformedURI.title "La direzion no je valide">
+<!ENTITY malformedURI.longDesc "<p>L'indiriç proviodût nol è intun formât ricognossût. Verifiche che no sedin erôrs te sbare dai indiriçs e torne a provâ.</p> ">
+
+<!ENTITY netInterrupt.title "Trasferiment dai dâts interot">
+<!ENTITY netInterrupt.longDesc "<p>Il sgarfadôr si à conetût in mût coret, ma la conession e je stade fermade dilunc il trasferiment des informazions. Par plase torne a provâ.</p><ul><li>Rivistu a navigâ in altris sîts? Controle la conession ae rêt dal to ordenadôr.</li><li>Âstu ancjemò problemis? Consulte il to aministradôr di rêt o il to Provider Internet par vê assistence.</li></ul>">
+
+<!ENTITY notCached.title "Document scjadût">
+
+
+<!ENTITY netOffline.title "Mût fûr linie">
+<!ENTITY netOffline.longDesc2 "<p>In chest moment il browser al è in modalitât no in linie e nol pues conetisi al ogjet domandât.</p> 
+<ul><li>L'computer isal conetût a une rêt ative?</li><li>Impueste il browser in modalitât in linie e torne a provâ.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Erôr te codifiche dal contignût">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Gjenar di file no sigûr">
+
+
+<!ENTITY netReset.title "Conession interote">
+<!ENTITY netReset.longDesc "<p>La conession cu la rêt e je stade fermade dilunc la negoziazion de conession. Par plasê torne a provâ.</p>">
+
+<!ENTITY netTimeout.title "Conession fûr timp massim">
+<!ENTITY netTimeout.longDesc "<p>Il sît contatât nol à rispuindût ae richieste di conession e il sgarfadôr al à fermât di spietâ une rispueste.</p><ul><li>Podaressial jessi che il servidôr al sedi intun moment di alte richieste o no disponibil temporaneamentri? Torne a provâ ca di un pôc.</li><li>Isal il to ordenadôr o rêt protezût di un firewall o di un proxy? Une configurazion sbaliade e podarès interferî cu la navigazion Internet.</li><li>Âstu ancjemò problemis? Consulte il to aministradôr di rêt o il to Provider Internet par vê assistence.</li></ul>">
+
+<!ENTITY unknownProtocolFound.title "Protocol no cognossût">
+<!ENTITY unknownProtocolFound.longDesc "<p>L'indiriç al specifiche un protocol (p.e. <q>wxyz://</q>) che il browser nol ricognòs, e cussì no si pues conetisi coretamentri al sît.</p> 
+<ul><li>Ciristu di acedi a servizis multimediâi o no testuâi?  Verifiche sul sît ce che al covente.</li> 
+<li>Cierts protocoi a puedin domandâ software esterni o plugins prime che il browser ju puedi ricognossi</li></ul>">
+
+<!ENTITY proxyConnectFailure.title "Il servidôr proxy al à refudât la conession">
+<!ENTITY proxyConnectFailure.longDesc "<p>Il browser al è configurât par utilizâ un servidôr proxy, ma il proxy al à refudât la conession.</p> 
+<ul><li>Ise juste la configurazion proxy? Controle lis impostazions dal proxy e torne a provâ.</li> 
+<li>Il servizi proxy permetial conessions da cheste rêt?</li> 
+<li>Ancjemò problemis? Contate il to aministradôr di rêt o il provider internet.</li></ul>">
+
+<!ENTITY proxyResolveFailure.title "No si pues cjatâ il servidôr proxy">
+<!ENTITY proxyResolveFailure.longDesc "<p>Il browser al è configurât par utilizâ un servidôr proxy, ma no si à podût cjatâ il proxy.</p> 
+<ul>  <li>Ise juste la configurazion proxy dal browser? Controle lis impostazions e torne a provâ.</li> 
+<li>L'computer isal conetût a une rêt ative?</li> 
+<li>Ancjemò problemis? Contate l'aministradôr di rêt o il provider internet.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Redirezion cicliche">
+<!ENTITY redirectLoop.longDesc "<p>Il sgarfadôr al à finît di provâ a recuperâ l'ogjet domandât. Il sît al cîr di redirezionâ la domande in mût che no puedi mai jessi completade.</p><ul><li>Astu disabilitât o blocât cookies necessaris par chest sît?</li><li><em>NOTE</em>: Se ancje acetant i cookies dal sît no to rivis a risolvi il probleme, al è probabil che si trati di un probleme di configurazion dal servidôr e no dal to computer.</li></ul>">
+
+<!ENTITY unknownSocketType.title "Rispueste scorete">
+<!ENTITY unknownSocketType.longDesc "<p>Il sît al à rispuindût ae domande di rêt in mût che no si spietave, e il browser nol pues lâ indenant.</p>">
+
+<!ENTITY nssFailure2.title "Conession sigure falide">
+
+
+<!ENTITY nssBadCert.title "Conession sigure falide">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Chest al pues jessi un probleme cu la configuazion dal servidôr, o al podarès jessi che cualchidun al stedi provant a impersonâ il servidôr.</li> <li>Se in passât la conession a chest servidôr e lave, l'erôr al podarès jessi temporani, e tu puedis provâ di gnûf plui tart.</li> </ul>">
+
+<!ENTITY securityOverride.linkText "O tu puedis zontâ une ecezion…">
+
+
+
+
+
+
+<!ENTITY remoteXUL.title "XUL remot">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

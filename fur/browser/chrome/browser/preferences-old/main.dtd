@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "Inizi">
+
+<!ENTITY startupPage.label         "Al inviament di &brandShortName;:">
+<!ENTITY startupPage.accesskey     "n">
+
+<!ENTITY startupBlankPage.label    "Mostre une pagjine blancje">
+
+
+<!ENTITY homepage.label            "Pagjine iniziâl:">
+<!ENTITY homepage.accesskey        "P">
+<!ENTITY useCurrentPage.label      "Dopre la pagjine corinte">
+<!ENTITY useCurrentPage.accesskey  "c">
+<!ENTITY useMultiple.label         "Dopre lis pagjinis corintis">
+
+
+<!ENTITY restoreDefault.label      "Torne a lis pagjinis predeterminadis">
+<!ENTITY restoreDefault.accesskey  "T">
+
+<!ENTITY downloads.label     "Discjamadis">
+
+<!ENTITY saveTo.label "Salve i files in">
+<!ENTITY saveTo.accesskey "S">
+<!ENTITY chooseFolderWin.label        "Sgarfe…">
+<!ENTITY chooseFolderWin.accesskey    "g">
+<!ENTITY chooseFolderMac.label        "Sielç…">
+<!ENTITY chooseFolderMac.accesskey    "S">
+
+
+
+
+
+
+
+
+
+
+
+
+

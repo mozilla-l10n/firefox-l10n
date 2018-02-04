@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY setPassword.title                 "Cambie la password gjenerâl">
+<!ENTITY setPassword.tokenName.label       "Dispositîf di sigurece">
+<!ENTITY setPassword.oldPassword.label     "Password corinte:">
+<!ENTITY setPassword.newPassword.label     "Inserìs la gnove password:">
+<!ENTITY setPassword.reenterPassword.label "Torne a scrivile:">
+<!ENTITY setPassword.meter.label           "Nivel di cualitât de password">
+<!ENTITY setPassword.meter.loading         "Daûr a cjamâ">
+<!ENTITY masterPasswordDescription.label   "Une password gjenerâl e je doprade par protezi lis informazions sensibilis come lis passwords di sîts.  Se tu creis une password gjenerâl ti vignarà domandât di inserîle une volte par session, cuant che &brandShortName; al cjame lis informazions protezudis de password.">
+<!ENTITY masterPasswordWarning.label       "Par plasê siguriti di visâti la Password gjenerâl che tu impuestis.  Se tu ti la dismenteis, no tu podarâs plui acedi aes informazions che cheste password e protezeve.">

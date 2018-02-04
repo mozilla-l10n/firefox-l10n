@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  updateWizard.title              "Inzornament di &brandShortName;">
+
+<!ENTITY  offline.title                   "&brandShortName; al sta lavorant fûr linie">
+<!ENTITY  offline.description             "&brandShortName; al à di jessi metût in linie par controlâ se a son disponibii inzornaments pes vuestris zontis che lis rindedin compatibilis cun cheste version.">
+<!ENTITY  offline.toggleOffline.label     "Torne al mût in linie.">
+<!ENTITY  offline.toggleOffline.accesskey "T">
+
+<!ENTITY  mismatch.win.title              "Components incompatibii">
+<!ENTITY  mismatch.top.label              "Chescj components ca no son compatibii cun la gnove version di &brandShortName; che tu âs apene instalât e a saran disativâts:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; al pues controlâ se a son versions compatibilis di chescj components.">
+
+<!ENTITY  checking.wizard.title           "Daûr a controlâ se a son zontis compatibilis">
+<!ENTITY  checking.top.label              "Daûr a controlâ se a son inzornaments pes tôs zontis incompatibilis…">
+<!ENTITY  checking.status                 "Chest al pues durâ cualchi minût…">
+
+<!ENTITY  found.wizard.title               "Cjatadis zontis compatibilis">
+<!ENTITY  found.top.label                 "Sielç lis zontis che tu vuelis instalâ:">
+<!ENTITY  found.disabledXPinstall.label   "Chescj inzornaments no podin jessi instalâts parcè che la instalazion di software e je cumò disativade. Tu puedis cambiâ chest parametri ca sot.">
+
+
+
+<!ENTITY  installing.wizard.title         "Daûr a instalâ lis zontis compatabilis">
+<!ENTITY  installing.top.label            "Daûr a discjamâ e a instalâ i inzornaments pes tôs zontis…">
+
+<!ENTITY  noupdates.wizard.title          "No son stadis cjatadis zontis compatibilis">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; nol à podût cjatâ inzornaments pes vuestris zontis incompatibilis.">
+<!ENTITY  noupdates.error.desc            "A son stâts dai problemis cuant che si provava a cjatâ inzornaments.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; al verificarà ogni tant e ti informarà cuant che al cjate inzornaments compatibii di chestis zontis.">
+
+<!ENTITY  finished.wizard.title           "Lis zontis compatibilis a son stadis instaladis">
+<!ENTITY  finished.top.label              "&brandShortName; al à instalât i inzornaments des vuestris zontis.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; al pues controlâ ogni tant e informâti cuant che al cjate inzornaments des zontis.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; al verificarà ogni tant e ti informarà cuant che al cjate inzornaments des zontis.">
+
+<!ENTITY  adminDisabled.wizard.title      "No si à podût verificâ la presince di inzornaments">
+<!ENTITY  adminDisabled.warning.label     "No si pues inzornâ i components incompatibii parcè che la instalazion di software par &brandShortName; e je disativade. Par ogni gjenar di jutori, contate par plasê il to aministradôr di sisteme.">
+
+<!ENTITY  versioninfo.wizard.title        "Daûr a verificâ la compatibilitât des zontis">
+<!ENTITY  versioninfo.top.label           "Daûr a verificâ se a son zontis compatibilis cun cheste version di &brandShortName;.">
+<!ENTITY  versioninfo.waiting             "Chest al pues durâ cualchi minût…">
+
+<!ENTITY  installerrors.wizard.title      "A son stâts problemis inte instalazion dai inzornaments">
+<!ENTITY  installerrors.intro.label       "&brandShortName; al à vût problemis cuant che al inzornave cualchidun des vuestris zontis.">
+<!-- general strings used by several of the finish pages -->
+
+<!ENTITY  clickFinish.label               "Cjalcje su Fin par continuâ l'inviament di &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Fâs clic su Fat par inviâ &brandShortName;.">
+<!ENTITY  enableChecking.label            "Lasse che &brandShortName; al verifichi se a son inzornaments.">

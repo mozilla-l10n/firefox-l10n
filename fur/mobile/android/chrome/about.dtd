@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+<!ENTITY aboutPage.checkForUpdates.checking     "Daûr a cirî inzornaments…">
+
+<!ENTITY aboutPage.checkForUpdates.available2   "Download update">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Downloading update…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "Install update">
+
+
+<!ENTITY aboutPage.privacyPolicy.label          "Politiche pal anonimât">
+
+
+<!ENTITY aboutPage.credits.label                "Ricognossiments">
+
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "Firefox and the Firefox logos are trademarks of the Mozilla Foundation.">

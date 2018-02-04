@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  intro2.label                "Tu âs sielt di vierzi:">
+<!ENTITY  from.label                  "di:">
+<!ENTITY  actionQuestion.label        "Ce aial di fâ &brandShortName; cun chest file?">
+
+<!ENTITY  openWith.label              "Vierç cun">
+<!ENTITY  openWith.accesskey          "V">
+<!ENTITY  other.label                 "Altri…">
+
+<!ENTITY  saveFile.label              "Salve file">
+<!ENTITY  saveFile.accesskey          "S">
+
+<!ENTITY  rememberChoice.label        "Fâs cussì in automatic pai files come chest">
+<!ENTITY  rememberChoice.accesskey    "F">
+
+<!ENTITY  whichIs.label              "che al è un:">
+
+<!ENTITY  chooseHandlerMac.label      "Sielç…">
+<!ENTITY  chooseHandlerMac.accesskey  "S">
+<!ENTITY  chooseHandler.label         "Sgarfe…">
+<!ENTITY  chooseHandler.accesskey     "S">
+
+<!ENTITY  unknownPromptText.label     "Vuelistu salvâ chest file?">

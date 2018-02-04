@@ -1,0 +1,62 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
+<!ENTITY printSetup.title    "Configurazion de pagjine">
+
+
+<!ENTITY formatGroup.label   "Formât">
+
+<!ENTITY orientation.label   "Orientament:">
+<!ENTITY portrait.label      "Verticâl">
+<!ENTITY portrait.accesskey  "V">
+<!ENTITY landscape.label     "Orizontâl">
+<!ENTITY landscape.accesskey "O">
+
+<!ENTITY scale.label         "Scjale:">
+<!ENTITY scale.accesskey     "S">
+
+
+<!ENTITY shrinkToFit.label   "Adate ae largjece dal sfuei">
+<!ENTITY shrinkToFit.accesskey "g">
+
+<!ENTITY optionsGroup.label  "Opzions">
+
+
+
+
+<!ENTITY marginGroup.label   "Margjins (#1)">
+<!ENTITY marginUnits.inches  "oncis">
+<!ENTITY marginUnits.metric  "milimetris">
+<!ENTITY marginTop.label     "Adalt:">
+<!ENTITY marginTop.accesskey "A">
+<!ENTITY marginBottom.label  "Part inferiôr:">
+<!ENTITY marginBottom.accesskey "i">
+<!ENTITY marginLeft.label    "A çampe:">
+<!ENTITY marginLeft.accesskey "ç">
+<!ENTITY marginRight.label   "A drete:">
+<!ENTITY marginRight.accesskey "d">
+
+
+<!ENTITY hfLeft.label        "A çampe:">
+<!ENTITY hfCenter.label      "Tal mieç:">
+<!ENTITY hfRight.label       "A drete:">
+<!ENTITY headerLeft.tip      "Intestazion a man çampe">
+<!ENTITY headerCenter.tip    "Intestazion tal mieç">
+<!ENTITY headerRight.tip     "Intestazion a man drete">
+<!ENTITY footerLeft.tip      "Pît a man çampe">
+<!ENTITY footerCenter.tip    "Pît tal mieç">
+<!ENTITY footerRight.tip     "Pît a man drete">
+
+<!ENTITY hfTitle             "Titul">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Date/Ore">
+<!ENTITY hfPage              "Pagjine #">
+<!ENTITY hfPageAndTotal      "Pagjine # di #">
+<!ENTITY hfBlank             "--vueit--">
+<!ENTITY hfCustom            "Personalizade…">
+
+<!ENTITY customPrompt.title  "Personalizade…">
+<!ENTITY customPrompt.prompt "Inserìs test personalizât par intestazion/pît">

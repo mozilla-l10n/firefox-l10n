@@ -1,0 +1,70 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title "I tiei dirits ">
+<!ENTITY rights.intro "&brandFullName; al è un program a gratis e open source, realizât di une comunitât di miârs di contributôrs che a son a stâ par dut il mont. Ve ca alc che tu varessis di savê: ">
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+
+<!ENTITY rights.intro-point1a "&brandShortName; al è disponibil sot i tiermins dal ">
+<!ENTITY rights.intro-point1b "Mozilla Public License (Licence Publiche di Mozilla) ">
+<!ENTITY rights.intro-point1c ". Chest al vûl dî che tu puedis doprâ, copiâ e distribuî &brandShortName; a altris.  Tu puedis ancje modificâ il codiç sorzint di &brandShortName; come che tu vuelis seont lis tôs disbisugnis.  Cun di plui la Mozilla Public License ti da il dirit di distribuî lis tôs versions modificadis. ">
+
+
+
+<!-- point 2.5 text for official branded builds -->
+<!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3c ".">
+<!-- point 3 text for unbranded builds -->
+
+<!ENTITY rights.intro-point3-unbranded "Cualsisei politiche di privacy relatîf a chest prodot al varès di jessi listât ca.  ">
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4b "tiermins di servizi">
+<!ENTITY rights.intro-point4c ".">
+<!-- point 4 text for unbranded builds -->
+
+<!ENTITY rights.intro-point4a-unbranded "Se chest prodot al inclût servizis web, ducj i tiermins di servizi a varessin di jessi leâts ae sezion  ">
+
+<!ENTITY rights.intro-point4c-unbranded ".">
+
+<!-- point 5 -->
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+
+<!-- safe browsing points for branded builds -->
+
+
+
+
+
+<!-- location aware browsing points for branded builds -->
+
+
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+
+
+
+<!-- intro paragraph for unbranded builds -->
+<!-- point 1 text for unbranded builds -->
+
+<!ENTITY rights.webservices-term1-unbranded "Cualsisei tiermin di servizi aplicabil par chest prodot al varès di jessi elencât culì.">
+<!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term2 "&vendorShortName; al pues fermâ o cambiâ i Servizis a sô discrezion.">
+
+<!ENTITY rights.webservices-term4 "I Servizis a son furnîts &quot;as-is.&quot;  &vendorShortName;, chei che a àn contribuît, i licenziataris e i distributôrs a dinein dutis lis garanziis, sei esplicitis sei implicitis, includint cence limitazion lis garanziis che i Servizis a son vendibii e adats pai tiei specifics fins. Tu âs dut il riscjo te selezion dai Servizis pai tiei fins e pe cualitât e pes prestazions dai Servizis. Cualchi jurisdizion no permet la esclusion o la limitazion des garanziis implicitis, par cui chest messaç podarès no jessi aplicabil par te.">
+<!ENTITY rights.webservices-term5 "Fûr che pai recuisîts di leç, &vendorShortName;, chei che a àn contribuît, i licenziataris e i distributôrs no saran persegubii par cualsisei dam indiret, speciâl, incidentâl, conseguenziâl, punitîf o esemplâr che al ves di vignî fûr di o leât in cualsisei mût al ûs di &brandShortName; e dai Servizis. La perseguibilitât coletive sot di chescj tiermins no sarà plui di $500 (cinc cent dolars). Cualchi jurisdizion no permet la esclusion o la limitazion des garanziis implicitis, par cui chest messaç podarès no jessi aplicabil par te.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; al pues inzornâ chescj tiermins secont la necessitât di tant in tant. Chescj tiermins no puedin jessi modificâts o cancelâts cence un acuart scrit di &vendorShortName;.">
+<!ENTITY rights.webservices-term7 "Chescj tiermins a son governâts des leçs dal stât de California, U.S.A., escludint i conflits cu lis condizions de leç. Se cualsisei part di chescj tiermins e je valutade no valide o no aplicabile, lis parts che a restin a restaran in plen valôr e efiet. In câs che al vignidi fûr un conflit tra la version tradusude di chescj tiermins e la version par inglês, la version inglês e varà valôr legâl.">

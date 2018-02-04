@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
+<!ENTITY printJobOptions.title "Propietâts de stampant">
+
+<!ENTITY paperInput.label "Dimension de cjarte:">
+<!ENTITY paperInput.accesskey "n">
+
+<!ENTITY jobTitleInput.label "Titul dal lavôr:">
+<!ENTITY jobTitleInput.accesskey "l">
+
+<!ENTITY colorGroup.label "Colôr:">
+<!ENTITY grayRadio.label "Scjale di grîs">
+<!ENTITY grayRadio.accesskey "g">
+<!ENTITY colorRadio.label "Colôr">
+<!ENTITY colorRadio.accesskey "C">
+
+<!ENTITY edgeMarginInput.label "Distance dal ôr de cjarte al margjin">
+<!ENTITY topInput.label "Adalt:">
+<!ENTITY topInput.accesskey "A">
+<!ENTITY bottomInput.label "Part inferiôr:">
+<!ENTITY bottomInput.accesskey "i">
+<!ENTITY leftInput.label "A çampe:">
+<!ENTITY leftInput.accesskey "ç">
+<!ENTITY rightInput.label "A drete:">
+<!ENTITY rightInput.accesskey "d">

@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+
+
+<!ENTITY next.tooltip "Cjate la prossime ocorince dal test">
+<!ENTITY previous.tooltip "Cjate la precedente ocorince dal test">
+<!ENTITY findCloseButton.tooltip "Siere la sbare di ricercje">
+
+
+<!ENTITY highlightAll.tooltiptext "Evidenzie dutis lis ocorincis dal test">
+
+
+<!ENTITY caseSensitive.tooltiptext "Cîr fasint la difarence jenfri caratars maiuscui e minuscui">
+
+
+

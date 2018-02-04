@@ -1,0 +1,45 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY migrationWizard.title          "Procedure di impuartazion">
+
+<!ENTITY importFrom.label               "Impuarte opzions, segnelibris, cronologjie, passwords e altris dâts di:">
+<!ENTITY importFromUnix.label           "Impuarte preferencis, segnelibris, cronologjie, passwords e altris dâts di:">
+<!ENTITY importFromBookmarks.label      "Impuarte segnelibris di:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+
+
+<!ENTITY importFromNothing.label        "No stâ impuartâ nuie">
+<!ENTITY importFromNothing.accesskey    "r">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+
+
+
+
+
+
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "x">
+
+
+
+<!ENTITY noMigrationSources.label       "No son stâts cjatâts programs che a contegnin segnelibris, dâts de cronologjie o passwords.">
+
+<!ENTITY importSource.title             "Impuarte impostazions e dâts di">
+<!ENTITY importItems.title              "Elements di impuartâ">
+<!ENTITY importItems.label              "Sielç cuâi elements impuartâ:">
+
+<!ENTITY migrating.title                "Daûr a impuartâ…">
+<!ENTITY migrating.label                "I elements ca sot a son daûr a jessi impuartâts…">
+
+<!ENTITY selectProfile.title            "Sielç un profîl">
+<!ENTITY selectProfile.label            "I profîi ca sot a son disponibii par jessi la sorzint de impuartazion:">
+
+<!ENTITY done.title                     "Impuartazion completade">
+<!ENTITY done.label                     "I elements ca sot a son stâts impuartâts cun sucès:">
+

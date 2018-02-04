@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from institems.xul -->
+
+
+<!ENTITY dialog.title            "Instalazion software">
+<!ENTITY dialog.style            "width: 45em">
+<!ENTITY warningPrimary.label    "Instale zontis dome se tu ti fidis dai autôrs.">
+<!ENTITY warningSecondary.label  "Software malin al pues danegjâ il to computer o violâ la tô privacy.">
+
+<!ENTITY from.label "di:">
+

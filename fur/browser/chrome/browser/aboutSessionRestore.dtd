@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle       "Ripristine session">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+
+<!ENTITY restorepage.errorTitle     "Joi, ce figure.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; al à vût problemis ripristinant i tiei barcons e lis tôs lengutis. Di solit chescj problemis a son causâts di pagjinis web vierzudis di pôc.">
+<!ENTITY restorepage.tryThis        "Prove:">
+<!ENTITY restorepage.restoreSome    "Gjave une o plui lengutis che a podaressin vê causât il probleme.">
+<!ENTITY restorepage.startNew       "Tacâ une session di navigazion gnove">
+
+<!ENTITY restorepage.tryagainButton "Ripristine">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.closeButton    "Siere">
+<!ENTITY restorepage.close.access   "C">
+
+<!ENTITY restorepage.restoreHeader  "Ripristine">
+<!ENTITY restorepage.listHeader     "Barcons e lengutis">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Barcon &#037;S">
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+
+
+<!ENTITY welcomeback2.restoreButton  "Anìn!">
+<!ENTITY welcomeback2.restoreButton.access "L">
+
+<!ENTITY welcomeback2.tabtitle      "Sucès!">
+
+<!ENTITY welcomeback2.pageTitle     "Sucès!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; al è pront a lâ.">
+
+
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+
+
+<!ENTITY welcomeback2.beforelink.pageInfo2  "lis tos zontis e li to personalizazions a son statis mitudis in bande e il browser al metarà a puest come di default.Dome se chist no ti distrighe al problema.">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
+
+<!ENTITY welcomeback2.link.pageInfo2        "lei di plui su chel che tu pos fâ.">
+

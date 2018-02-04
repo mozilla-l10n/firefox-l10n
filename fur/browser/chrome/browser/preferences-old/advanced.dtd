@@ -1,0 +1,129 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "Gjenerâl">
+
+<!ENTITY accessibility.label             "Acessibilitât">
+
+<!ENTITY useCursorNavigation.label       "Dopre simpri i tascj di moviment inte tastiere par navigâ intes pagjinis">
+<!ENTITY useCursorNavigation.accesskey   "D">
+
+
+
+
+
+
+
+<!ENTITY browsing.label                  "Navigazion">
+
+<!ENTITY useAutoScroll.label             "Dopre scoriment automatic">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Dopre scoriment continuât">
+<!ENTITY useSmoothScrolling.accesskey    "c">
+
+
+
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY networkTab.label                "Rêt">
+
+<!ENTITY connection.label                "Conession">
+
+<!ENTITY connectionDesc.label            "Configure cemût che &brandShortName; al à di conetisi a Internet">
+<!ENTITY connectionSettings.label        "Parametris…">
+<!ENTITY connectionSettings.accesskey    "P">
+
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "Limite la cache a">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB di spazi">
+<!ENTITY clearCacheNow.label             "Nete cumò">
+<!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY clearOfflineAppCacheNow.label   "Nete cumò">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+
+
+
+<!ENTITY updateTab.label                 "Inzornament">
+
+
+
+
+
+
+
+
+<!ENTITY updateHistory.label             "Fâs viodi la cronologjie dai inzornaments">
+<!ENTITY updateHistory.accesskey         "t">
+
+<!ENTITY useService.label                "Dopre servizi in background par instalâ i inzornaments">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY enableSearchUpdate.label        "Motôrs di ricercje">
+<!ENTITY enableSearchUpdate.accesskey    "e">
+
+
+<!ENTITY offlineStorageNotifyExceptions.label     "Ecezions…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "z">
+
+<!ENTITY offlineAppsList2.label          "Chescj sîts web a àn instalât dâts par ûs fûr linie:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Gjave…">
+<!ENTITY offlineAppsListRemove.accesskey "G">
+<!ENTITY offlineAppRemove.confirm        "Gjave dâts fûr linie">
+
+<!ENTITY certificateTab.label            "Certificâts">
+
+
+<!ENTITY selectCerts.auto                "Sielç in automatic">
+
+
+
+
+
+<!ENTITY viewCerts.label                 "Cjale i certificâts">
+<!ENTITY viewCerts.accesskey             "f">
+<!ENTITY viewSecurityDevices.label       "Dispositîfs di sigurece">
+<!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Dopre acelerazion hardware se disponibil">
+<!ENTITY allowHWAccel.accesskey          "r">

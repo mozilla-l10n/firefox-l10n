@@ -1,0 +1,92 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY certmgr.title                       "Aministradôr dai certificâts">
+
+<!ENTITY certmgr.tab.mine                     "I tiei certificâts">
+<!ENTITY certmgr.tab.others2                  "Înt">
+<!ENTITY certmgr.tab.websites3                "Servidôrs">
+<!ENTITY certmgr.tab.ca                       "Autoritâts">
+<!ENTITY certmgr.tab.orphan2                  "Altris">
+
+
+
+
+
+
+<!ENTITY certmgr.detail.general_tab.title     "Gjenerâl">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Detais">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+
+<!ENTITY certmgr.pending.label                "Daûr a verificâ il certificât…">
+<!ENTITY certmgr.subjectinfo.label            "Dât fûr a">
+<!ENTITY certmgr.issuerinfo.label             "Dât fûr di">
+
+<!ENTITY certmgr.fingerprints.label           "Impronts digjitâi">
+<!ENTITY certmgr.certdetail.title             "Detais dal certificât">
+<!ENTITY certmgr.certdetail.cn                "Non comun (CN)">
+<!ENTITY certmgr.certdetail.o                 "Organizazion (O)">
+<!ENTITY certmgr.certdetail.ou                "Unitât de organizazion (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "Numar seriâl">
+
+<!ENTITY certmgr.certdetail.sha1fingerprint   "Impront digjitâl SHA1">
+
+<!ENTITY certmgr.editcacert.title             "Modifiche impostazions afidabilitât dai certificâts CA">
+<!ENTITY certmgr.editcert.edittrust           "Modifiche impostazions atendibilitât:">
+
+<!ENTITY certmgr.editcert.trustemail          "Chest certificât al pues identificâ utents di pueste.">
+<!ENTITY certmgr.editcert.trustobjsign        "Chest certificât al pues identificâ produtôrs di software.">
+
+<!ENTITY certmgr.deletecert.title             "Elimine certificât">
+
+<!ENTITY certmgr.certname                     "Non dal certificât">
+<!ENTITY certmgr.certserver                   "Servidôr">
+<!ENTITY certmgr.override_lifetime            "Durade de vite">
+<!ENTITY certmgr.tokenname                    "Dispositîf di sigurece">
+
+<!ENTITY certmgr.expires                      "Al scjât ai">
+<!ENTITY certmgr.email                        "Direzion email">
+<!ENTITY certmgr.serial                       "Numar seriâl">
+
+<!ENTITY certmgr.close.label                  "Siere">
+<!ENTITY certmgr.close.accesskey              "S">
+<!ENTITY certmgr.view2.label                  "Visualize…">
+<!ENTITY certmgr.view2.accesskey              "V">
+
+
+<!ENTITY certmgr.export.label                 "Espuarte…">
+<!ENTITY certmgr.export.accesskey             "E">
+<!ENTITY certmgr.delete2.label                "Elimine…">
+<!ENTITY certmgr.delete2.accesskey            "l">
+
+
+<!ENTITY certmgr.backup2.label                "Fâs une copie di sigurece…">
+<!ENTITY certmgr.backup2.accesskey            "s">
+<!ENTITY certmgr.backupall2.label             "Fâs une copie di sigurece di dut…">
+<!ENTITY certmgr.backupall2.accesskey         "d">
+<!ENTITY certmgr.restore2.label               "Impuarte…">
+<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.details.label                "Cjamps dal certificât">
+<!ENTITY certmgr.details.accesskey            "C">
+<!ENTITY certmgr.fields.label                 "Valôr dal cjamp">
+<!ENTITY certmgr.fields.accesskey             "V">
+
+
+<!ENTITY certmgr.addException.label           "Zonte ecezion…">
+<!ENTITY certmgr.addException.accesskey       "Z">
+
+<!ENTITY exceptionMgr.title                   "Zonte ecezion di sigurece">
+
+
+<!ENTITY exceptionMgr.supplementalWarning     "Bancjis, negozis, e altris sîts publics legjitims no ti domandaràn di fâ cussì.">
+<!ENTITY exceptionMgr.certlocation.caption2   "Servidôr">
+<!ENTITY exceptionMgr.certlocation.url        "Direzion:">
+<!ENTITY exceptionMgr.certlocation.download   "Oten certificât">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certstatus.caption      "Status certificât">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Visualize…">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.label         "Salve ecezion in mût permanent">
+<!ENTITY exceptionMgr.permanent.accesskey     "p">

@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width                       "40em">
+
+<!ENTITY     cookiesonsystem.label          "I cookies ca sot a son salvâts tal to computer:">
+<!ENTITY     cookiename.label               "Non dal cookie">
+<!ENTITY     cookiedomain.label             "Sît">
+
+<!ENTITY     props.name.label               "Non:">
+<!ENTITY     props.value.label              "Contignût:">
+<!ENTITY     props.domain.label             "Servidôr:">
+<!ENTITY     props.path.label               "Troi:">
+<!ENTITY     props.secure.label             "Mandât par:">
+<!ENTITY     props.expires.label            "Scjadence:">
+
+
+<!ENTITY     window.title                   "Cookies">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+
+
+
+<!ENTITY     button.close.label             "Siere">
+<!ENTITY     button.close.accesskey         "S">

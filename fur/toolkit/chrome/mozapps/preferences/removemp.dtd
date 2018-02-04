@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY removePassword.title              "Gjave password gjenerâl">
+<!ENTITY removeInfo.label                  "Tu âs di inserî la password corinte par lâ indevant:">
+<!ENTITY removeWarning1.label              "La password gjenerâl e je doprade par protezi informazions sensibilis come lis passwords dai sîts.">
+<!ENTITY removeWarning2.label              "Se tu gjavis la tô password gjenerâl lis tôs informazions no saran plui protezudis se il to computer al ven comprometût">
+<!ENTITY setPassword.oldPassword.label     "Password corinte:">
+

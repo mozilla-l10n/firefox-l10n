@@ -1,0 +1,242 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY addons.windowTitle                   "Gjestôr des zontis">
+
+<!ENTITY search.placeholder                   "Cîr jenfri dutis lis zontis">
+
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
+<!ENTITY loading.label                        "Daûr a cjamâ…">
+
+<!ENTITY listEmpty.availableUpdates.label     "Nissun inzornament cjatât">
+<!ENTITY listEmpty.recentUpdates.label        "No tu âs inzornât lis tôs zontis tai ultins timps">
+<!ENTITY listEmpty.findUpdates.label          "Cîr inzornaments">
+
+
+
+
+
+
+
+
+<!ENTITY cmd.back.tooltip                     "Torne indaûr une pagjine">
+<!ENTITY cmd.forward.tooltip                  "Va indevant une pagjine">
+
+
+
+
+<!-- global warnings -->
+
+<!ENTITY warning.safemode.label                    "Dutis lis zontis a son stadis disativadis pal Mût sigûr.">
+<!ENTITY warning.checkcompatibility.label          "Il control di compatibilitât des zontis al è disativât. Tu podaressis vê zontis incompatibilis.">
+
+
+<!ENTITY warning.updatesecurity.label              "Il control de sigurece dai inzornaments des zontis al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.">
+
+
+<!-- categories / views -->
+<!ENTITY view.discover.label                  "Cjate zontis">
+<!ENTITY view.recentUpdates.label             "Ultins inzornaments">
+<!ENTITY view.availableUpdates.label          "Inzornaments disponibii">
+<!-- addon updates -->
+
+<!ENTITY updates.checkForUpdates.label        "Cîr inzornaments">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.viewUpdates.label            "Viôt i ultins inzornaments">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "Inzorne in automatic lis zontis">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "a">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+
+
+
+<!ENTITY updates.updating.label               "Daûr a inzornâ lis zontis">
+<!ENTITY updates.installed.label              "Lis tôs zontis a son stadis inzornadis.">
+<!ENTITY updates.downloaded.label             "I inzornaments pes tôs zontis a son stâts discjamâts.">
+<!ENTITY updates.restart.label                "Torne a inviâ cumò par finî la instalazion">
+<!ENTITY updates.noneFound.label              "Nissun inzornament cjatât">
+<!ENTITY updates.manualUpdatesFound.label     "Viôt i inzornaments disponibii">
+<!ENTITY updates.updateSelected.label         "Instale inzornaments">
+
+<!-- addon actions -->
+
+<!ENTITY cmd.showDetails.label                "Mostre altris informazions">
+<!ENTITY cmd.showDetails.accesskey            "s">
+<!ENTITY cmd.findUpdates.label                "Cîr inzornaments">
+<!ENTITY cmd.findUpdates.accesskey            "C">
+<!ENTITY cmd.preferencesWin.label             "Opzions">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "Preferencis">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
+
+
+
+<!ENTITY cmd.enableAddon.label                "Ative">
+<!ENTITY cmd.enableAddon.accesskey            "A">
+<!ENTITY cmd.disableAddon.label               "Disative">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY cmd.installAddon.label               "Instale">
+<!ENTITY cmd.installAddon.accesskey           "I">
+
+
+<!ENTITY cmd.showPreferencesWin.label         "Opzions">
+
+<!ENTITY cmd.showPreferencesUnix.label        "Preferencis">
+
+
+
+
+
+
+
+
+
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+
+<!-- detail view -->
+
+<!ENTITY detail.version.label                 "Version">
+<!ENTITY detail.lastupdated.label             "Ultin inzornament">
+<!ENTITY detail.creator.label                 "Disvilupadôr">
+<!ENTITY detail.homepage.label                "Pagjine web">
+<!ENTITY detail.numberOfDownloads.label       "Discjamadis">
+
+
+<!ENTITY detail.updateType                    "Inzornaments automatics">
+<!ENTITY detail.updateDefault.label           "Predeterminât">
+
+
+
+
+
+<!ENTITY detail.home                          "Pagjine web">
+
+<!ENTITY detail.size                          "Dimensions">
+
+
+
+
+
+
+
+
+
+<!-- ratings -->
+
+
+<!ENTITY rating2.label                        "Judizi">
+<!-- download/install progress -->
+
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Scancele">
+<!-- list sorting -->
+
+
+<!ENTITY sort.name.label                      "Non">
+
+<!ENTITY sort.dateUpdated.label               "Ultin inzornament">
+
+
+
+
+
+
+<!ENTITY search.filter2.label                 "Cîr:">
+<!ENTITY search.filter2.installed.label       "Lis mês zontis">
+
+
+
+
+<!ENTITY addon.homepage                       "Pagjine web">
+<!ENTITY addon.details.label                  "Di plui">
+<!ENTITY addon.details.tooltip                "Mostre altris detais su cheste zonte">
+<!ENTITY addon.unknownDate                    "No cognossût">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "Inzornament">
+
+
+
+
+<!ENTITY addon.restartNow.label               "Torne a inviâ cumò">
+<!ENTITY addon.install.label                  "Instale">
+<!ENTITY addon.install.tooltip                "Instale cheste zonte">
+<!ENTITY addon.updateNow.label                "Inzorne cumò">
+<!ENTITY addon.updateNow.tooltip              "Instale un inzornament par cheste zonte">
+
+
+<!ENTITY addon.checkingForUpdates.label       "Daûr a cirî inzornaments...">
+<!ENTITY addon.releaseNotes.label             "Notis de version:">
+<!ENTITY addon.loadingReleaseNotes.label      "Daûr a cjamâ…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Nus displâs, ma al è sucedût un erôr tant che lis notis de versions a vignivin cjamadis.">
+
+<!ENTITY addon.createdBy.label                "Di ">
+
+<!ENTITY eula.title                           "Acuardi cun l'utent finâl (EULA)">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Acete e instale…">
+
+<!ENTITY settings.path.button.label           "Sgarfe…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Par savê di plui">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
+
+
+
+
+
+
+

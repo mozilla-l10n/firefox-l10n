@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lookInMenuList.label   "Cîr in:">
+<!ENTITY lookInMenuList.accesskey   "C">
+<!ENTITY textInput.label        "Non dal file:">
+<!ENTITY textInput.accesskey        "N">
+<!ENTITY filterMenuList.label   "Gjenar di file:">
+<!ENTITY filterMenuList.accesskey   "G">
+<!ENTITY name.label             "Non">
+<!ENTITY size.label             "Dimensions">
+<!ENTITY lastModified.label     "Ultime modificazion">
+<!ENTITY showHiddenFiles.label  "Fâs viodi files e cartelis scuindûts">
+<!ENTITY showHiddenFiles.accesskey  "F">
+
+<!ENTITY noPermissionError.label "No tu âs i permès ch'a coventin par viodi cheste cartele.">
+
+<!ENTITY folderUp.tooltiptext   "Va su un nivel">
+<!ENTITY folderHome.tooltiptext "Va a Cjase">
+<!ENTITY folderNew.tooltiptext  "Cree une cartele gnove">

@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY position.label             "Posizion:">
+<!ENTITY tile.label                 "Mosaic">
+<!ENTITY center.label               "Tal mieç">
+<!ENTITY stretch.label              "Slargje">
+
+
+<!ENTITY preview.label              "Anteprime">
+<!ENTITY color.label                "Colôr:">
+<!ENTITY setDesktopBackground.title "Impueste daûr dal scritori">
+<!ENTITY openDesktopPrefs.label     "Vierç preferencis dal scritori">
+<!ENTITY closeWindow.key            "s">

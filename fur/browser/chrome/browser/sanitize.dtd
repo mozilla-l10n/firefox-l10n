@@ -1,0 +1,63 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sanitizePrefs2.title          "Paramentris par netâ fûr la cronologjie">
+<!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
+     Should be large enough to contain the item* strings on a single line.
+     The column width should be set at half of the dialog width. -->
+
+<!-- LOCALIZATION NOTE (sanitizePrefs2.inContent.dialog.width): width of the
+     Clear History on Shutdown subdialog in the in-content preferences.
+     Should be large enough to contain the item* strings on a single line.
+     The column width adjusts the width of the first column in the dialog.
+     You can set the column width to a value that makes the dialog look visually balanced,
+     or at half of the dialog width if unsure. -->
+
+
+<!ENTITY sanitizeDialog2.title         "Nete fûr cronologjie resinte">
+<!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
+
+<!ENTITY clearDataSettings2.label     "Cuant che o sieri &brandShortName;, al varès di netâ fûr automaticamentri:">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+
+<!ENTITY clearTimeDuration.label          "Dade di timp di scancelâ">
+<!ENTITY clearTimeDuration.accesskey      "t">
+<!ENTITY clearTimeDuration.lastHour       "La ultime ore">
+<!ENTITY clearTimeDuration.last2Hours     "Lis ultimis dôs oris">
+<!ENTITY clearTimeDuration.last4Hours     "Lis ultimis cuatri oris">
+<!ENTITY clearTimeDuration.today          "Vuê">
+<!ENTITY clearTimeDuration.everything     "Dut">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearTimeDuration.suffix         "">
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+
+<!ENTITY detailsProgressiveDisclosure.label     "Detais">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+
+<!ENTITY historySection.label         "Cronologjie">
+<!ENTITY dataSection.label            "Dâts">
+
+
+
+
+<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Cache">
+<!ENTITY itemCache.accesskey               "a">
+<!ENTITY itemOfflineApps.label             "Dâts dai sîts web fûr linie">
+<!ENTITY itemOfflineApps.accesskey         "f">
+<!ENTITY itemActiveLogins.label            "Logins atîfs">
+<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemSitePreferences.label         "Preferencis sît">
+<!ENTITY itemSitePreferences.accesskey     "s">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+
+<!ENTITY sanitizeEverythingUndoWarning     "No si pues anulâ cheste azion.">

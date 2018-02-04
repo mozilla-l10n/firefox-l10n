@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY devmgr.title                           "Gjestion dai dispositîfs">
+<!-- LOCALIZATION NOTE (devmgr.style2): This is CSS style for Device Manager
+     window size. Don't translate "width" nor "height". Adjust the numbers
+     to make window contents fit. -->
+
+<!ENTITY devmgr.devlist.label                   "Modui e dispositîfs di sigurece">
+<!ENTITY devmgr.details.title                   "Detais">
+<!ENTITY devmgr.details.title2                  "Valôr">
+
+<!ENTITY devmgr.button.login.label              "Jentre">
+<!ENTITY devmgr.button.login.accesskey          "J">
+<!ENTITY devmgr.button.logout.label             "Jes">
+<!ENTITY devmgr.button.logout.accesskey         "J">
+<!ENTITY devmgr.button.changepw.label           "Gambie password">
+<!ENTITY devmgr.button.changepw.accesskey       "G">
+<!ENTITY devmgr.button.load.label               "Cjarie">
+<!ENTITY devmgr.button.load.accesskey           "C">
+<!ENTITY devmgr.button.unload.label             "Discjarie">
+<!ENTITY devmgr.button.unload.accesskey         "D">
+<!ENTITY devmgr.button.fips.accesskey           "F">
+
+<!ENTITY loaddevice.info                        "Inserìs informazion pal modul che tu vuelis zontâ.">
+
+
+<!ENTITY loaddevice.modname.default             "Gnûf modul PKCS#11">
+
+
+<!ENTITY loaddevice.browse                      "Sgarfe…">
+<!ENTITY loaddevice.browse.accesskey            "S">
+

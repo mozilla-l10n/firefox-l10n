@@ -1,0 +1,87 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pageInfoWindow.width  "600">
+
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Copie">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Selezione dut">
+<!ENTITY  selectall.accesskey   "d">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Gjenerâl">
+<!ENTITY  generalTab.accesskey  "G">
+
+<!ENTITY  generalURL            "Direzion:">
+<!ENTITY  generalType           "Gjenar:">
+<!ENTITY  generalMode           "Modalitât di visualizazion:">
+<!ENTITY  generalSize           "Dimension:">
+<!ENTITY  generalReferrer       "URL di reference:">
+<!ENTITY  generalSource         "Origjin de cache:">
+<!ENTITY  generalModified       "Modificât:">
+
+<!ENTITY  generalMetaName       "Non">
+<!ENTITY  generalMetaContent    "Contignût">
+
+<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Direzion:">
+<!ENTITY  mediaText             "Test associât:">
+<!ENTITY  mediaAltHeader        "Test alternatîf">
+<!ENTITY  mediaAddress          "Direzion">
+<!ENTITY  mediaType             "Gjenar">
+<!ENTITY  mediaSize             "Dimensions">
+<!ENTITY  mediaCount            "Cont">
+<!ENTITY  mediaDimension        "Dimensions:">
+<!ENTITY  mediaLongdesc         "Descrizion lungje:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Salve cul non…">
+<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Anteprime multimediâl:">
+
+<!ENTITY  feedTab               "Canâi">
+<!ENTITY  feedTab.accesskey     "c">
+<!ENTITY  feedSubscribe         "Notiti">
+<!ENTITY  feedSubscribe.accesskey "n">
+
+<!ENTITY  permTab               "Permès">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Dopre impostazion predeterminade">
+<!ENTITY  permAskAlways         "Domande simpri">
+<!ENTITY  permAllow             "Permet">
+<!ENTITY  permAllowSession      "Permet par cheste session">
+<!ENTITY  permBlock             "Bloche">
+<!ENTITY  permissionsFor        "Permès par:">
+<!ENTITY  permPlugins           "Ativâ plugins">
+
+<!ENTITY  permClearStorage.accesskey "N">
+
+<!ENTITY  securityTab           "Sigurece">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityView.certView "Visualize certificât">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "No cognossût">
+
+
+<!ENTITY  securityView.identity.header   "Identitât sît web">
+<!ENTITY  securityView.identity.owner    "Proprietari:">
+<!ENTITY  securityView.identity.domain   "Sît web:">
+<!ENTITY  securityView.identity.verifier "Verificât par:">
+
+
+<!ENTITY  securityView.privacy.history                  "Aio visitât chest sît web prime di vuê?">
+<!ENTITY  securityView.privacy.cookies                  "Chest sît web aial salvât informazions (cookies) sul gno computer?">
+<!ENTITY  securityView.privacy.viewCookies              "Visualize cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Aio salvât cualchi password par chest sît web?">
+<!ENTITY  securityView.privacy.viewPasswords            "Visualize passwords salvadis">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
+<!ENTITY  securityView.technical.header                 "Detais tecnics">
+
+<!ENTITY  helpButton.label                              "Jutori">

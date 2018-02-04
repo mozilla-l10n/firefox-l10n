@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Ecezions">
+
+
+<!ENTITY treehead.status.label        "Stât">
+
+
+
+
+
+
+<!ENTITY block.label                  "Bloche">
+<!ENTITY block.accesskey              "B">
+<!ENTITY session.label                "Permet par cheste session">
+<!ENTITY session.accesskey            "P">
+<!ENTITY allow.label                  "Permet">
+<!ENTITY allow.accesskey              "P">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.cancel.label          "Scancele">
+<!ENTITY button.cancel.accesskey      "S">
+
+
+

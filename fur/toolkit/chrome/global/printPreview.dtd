@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY print.label          "Stampe…">
+<!ENTITY print.accesskey      "S">
+<!ENTITY pageSetup.label      "Configurazion de pagjine…">
+<!ENTITY pageSetup.accesskey  "C">
+<!ENTITY page.label           "Pagjine:">
+<!ENTITY page.accesskey       "P">
+<!ENTITY of.label             "di">
+<!ENTITY scale.label          "Scjale:">
+<!ENTITY scale.accesskey      "S">
+<!ENTITY portrait.label       "Verticâl">
+<!ENTITY portrait.accesskey   "V">
+<!ENTITY landscape.label      "Orizontâl">
+<!ENTITY landscape.accesskey  "O">
+<!ENTITY close.label          "Siere">
+<!ENTITY close.accesskey      "S">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY Custom.label         "Personalizade…">
+<!ENTITY ShrinkToFit.label    "Fâle stâ">
+<!ENTITY customPrompt.title   "Definìs la scjale…">
+
+
+
+
+
+<!ENTITY homearrow.tooltip    "Pagjine iniziâl">
+<!ENTITY endarrow.tooltip     "Ultime pagjine">
+<!ENTITY nextarrow.tooltip    "Prossime pagjine">
+<!ENTITY previousarrow.tooltip "Pagjine precedente">
