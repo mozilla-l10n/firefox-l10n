@@ -3,15 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.masterpass.title "Contraseñas maestras">
-<!ENTITY managepassword.caption "Caducidad de la contraseña maestra">
-<!ENTITY managepassword.text "&brandShortName; le preguntara su contraseña maestra:">
-<!ENTITY managepassword.askfirsttime "La primera vez que se necesite">
-<!ENTITY managepassword.askfirsttime.accesskey "L">
-<!ENTITY managepassword.askeverytime "Cada vez que se necesite">
-<!ENTITY managepassword.askeverytime.accesskey "E">
-<!ENTITY managepassword.asktimeout "Si no ha sido utilizada durante ">
-<!ENTITY managepassword.asktimeout.accesskey "n">
-<!ENTITY managepassword.timeout.unit "minutos o más">
 <!ENTITY changepassword.caption "Cambiar contraseña maestra">
 <!ENTITY changepassword.text "Su contraseña maestra protege la información confidencial tal como contraseñas de sus sitios web y certificados.">
 <!ENTITY changepassword.button "Cambiar contraseña…">
