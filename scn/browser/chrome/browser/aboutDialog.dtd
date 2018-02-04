@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "Supra &brandFullName;">
+<!ENTITY aboutDialog.title          "Supra a &brandFullName;">
 
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
@@ -12,16 +12,16 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Varda si cci su' agghiurnamenti">
+<!ENTITY update.checkForUpdatesButton.label       "Talìa si cci sunnu agghiurnamenti">
 <!ENTITY update.checkForUpdatesButton.accesskey   "V">
-<!ENTITY update.updateButton.label3               "Accumincia arredi p'agghiurnari &brandShorterName;">
+<!ENTITY update.updateButton.label3               "Accumincia arreri p'agghiurnari &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "A">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; e' nu sprimentu e capaci ca farsía.">
+<!ENTITY warningDesc.version        "&brandShortName; e' sprimintali e putissi farsiari.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Autumaticamenti manna nfurmazzioni supra li capacitati, l'hardware, comu veni usatu e comu fu pirsunalizzatu a &vendorShortName; p'ajutari a fari megghiu &brandShortName;.">
+<!ENTITY warningDesc.telemetryDesc  "'N autumàticu manna nfurmazzioni supra li sicuzzioni, l'hardware, comu veni usatu e comu fu pirsunalizzatu nnarrè a &vendorShortName; p'aiutari &brandShortName; a fari megghiu.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -41,7 +41,7 @@
 <!ENTITY community.end3             " chi travagghia 'nzèmmula pi lassari lu Web líbbiru, púbbricu e unni cci ponnu tràsiri tutti.">
 
 <!ENTITY helpus.start               "Ni voi ajutari? ">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "Lassa na ufferta">
 <!ENTITY helpus.middle              " o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
