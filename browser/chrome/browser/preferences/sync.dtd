@@ -69,3 +69,5 @@
 <!ENTITY mobilePromo3.iOSBefore " o ">
 <!ENTITY mobilePromo3.iOSLink "iOS">
 <!ENTITY mobilePromo3.end " para sincronizar con su dispositivo móvil.">
+<!ENTITY mobilepromo.singledevice "Conectar otro dispositivo">
+<!ENTITY mobilepromo.multidevice "Administrar dispositivos">
