@@ -21,6 +21,15 @@
 <!ENTITY reorderDownButton.label "Tiqasäx Qa">
 <!ENTITY reorderDownButton.accesskey "Q">
 <!ENTITY reorderBottomButton "Tisilöx pa Ruk'isib'al">
+<!ENTITY reorderBottomButton.accessKey "R">
+<!ENTITY reorderBottomButton.toolTip "Ticholajïx chik ri chayub'äl richin tunab'eyij rusamajib'exik chi kij ri ch'aqa' chik">
+<!ENTITY filterHeader.label "Ri etzijon taq chayub'äl ruyonil xkesamajib'ëx rik'in ri rucholajen nik'ut ikim.">
+<!ENTITY filtersForPrefix.label "Taq ruchayub'al:">
+<!ENTITY filtersForPrefix.accesskey "T">
+<!ENTITY viewLogButton.label "Tichayüx Tz'ib'anïk">
+<!ENTITY viewLogButton.accesskey "T">
+<!ENTITY runFilters.label "Tisamajib'ëx Wakami">
+<!ENTITY runFilters.accesskey "T">
 <!ENTITY stopFilters.label "Tiq'at">
 <!ENTITY stopFilters.accesskey "q">
 <!ENTITY helpButton.label "To'ïk">
