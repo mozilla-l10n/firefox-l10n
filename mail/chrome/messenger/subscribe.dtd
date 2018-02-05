@@ -9,7 +9,7 @@
 <!ENTITY unsubscribeButton.accesskey  "в">
 <!ENTITY newGroupsTab.label           "Нови групи">
 <!ENTITY newGroupsTab.accesskey       "Н">
-<!ENTITY refreshButton.label          "Обновяване">
+<!ENTITY refreshButton.label          "Опресняване">
 <!ENTITY refreshButton.accesskey      "О">
 <!ENTITY stopButton.label             "Стоп">
 <!ENTITY stopButton.accesskey         "С">

@@ -160,7 +160,7 @@
 <!ENTITY unreadFolders.accesskey "Н">
 <!ENTITY favoriteFolders.label "Любими">
 <!ENTITY favoriteFolders.accesskey "ю">
-<!ENTITY recentFolders.label "Скорошни">
+<!ENTITY recentFolders.label "Последни">
 <!ENTITY recentFolders.accesskey "ш">
 <!ENTITY compactVersion.label "Компактен изглед">
 <!ENTITY compactVersion.accesskey "К">
@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Разговори">
 <!ENTITY goChatCmd.accesskey "Р">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Писмо със звезда">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
@@ -375,7 +374,7 @@
 <!ENTITY createFilter.accesskey "з">
 <!ENTITY moveMsgToMenu.label "Преместване в">
 <!ENTITY moveMsgToMenu.accesskey "м">
-<!ENTITY moveCopyMsgRecentMenu.label "Скорошни">
+<!ENTITY moveCopyMsgRecentMenu.label "Последни">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "С">
 <!ENTITY copyMessageLocation.label "Копиране адреса на писмото">
 <!ENTITY copyMessageLocation.accesskey "К">
@@ -854,7 +853,7 @@
 <!ENTITY contextPlay.accesskey "в">
 <!ENTITY contextPause.label "Пауза">
 <!ENTITY contextPause.accesskey "П">
-<!ENTITY contextMute.label "Заглушаване">
+<!ENTITY contextMute.label "Без звук">
 <!ENTITY contextMute.accesskey "З">
 <!ENTITY contextUnmute.label "Със звук">
 <!ENTITY contextUnmute.accesskey "з">
