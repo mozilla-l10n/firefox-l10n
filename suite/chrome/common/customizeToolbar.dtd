@@ -6,7 +6,7 @@
   toolkit/locales/en-US/chrome/global/customizeToolbar.dtd -->
 <!ENTITY dialog.title             "Personalizza barra degli strumenti">
 <!ENTITY dialog.dimensions        "width: 112ch; height: 36em;">
-<!ENTITY instructions.description "È possibile aggiungere o rimuovere elementi trascinandoli verso le o dalle barre degli strumenti.">
+<!ENTITY instructions.description "Aggiungere elementi trascinandoli sulle barre degli strumenti o rimuoverli trascinandoli fuori.">
 <!ENTITY show.label               "Mostra:">
 <!ENTITY iconsAndText.label       "Icone e testo">
 <!ENTITY icons.label              "Icone">
