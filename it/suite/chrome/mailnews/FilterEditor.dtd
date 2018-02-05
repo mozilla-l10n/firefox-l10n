@@ -6,18 +6,22 @@
 <!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Nome filtro:">
 <!ENTITY filterName.accesskey "f">
+
 <!ENTITY recentFolders.label "Recente">
+
 <!ENTITY junk.label "Spam">
 <!ENTITY notJunk.label "Non spam">
+
 <!ENTITY lowestPriorityCmd.label "Minima">
 <!ENTITY lowPriorityCmd.label "Bassa">
 <!ENTITY normalPriorityCmd.label "Normale">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Massima">
+
 <!ENTITY contextDesc.label "Applica il filtro:">
 <!ENTITY contextIncomingMail.label "Scarica nuova posta:">
 <!ENTITY contextIncomingMail.accesskey "S">
-<!ENTITY contextManual.label "manualmente">
+<!ENTITY contextManual.label "Avvia manualmente">
 <!ENTITY contextManual.accesskey "m">
 <!ENTITY contextBeforeCls.label "Filtra prima della classificazione dello spam">
 <!ENTITY contextAfterCls.label "Filtra dopo la classificazione dello spam">
@@ -25,10 +29,14 @@
 <!ENTITY contextOutgoing.accesskey "D">
 <!ENTITY contextArchive.label "Archiviazione">
 <!ENTITY contextArchive.accesskey "A">
+
 <!ENTITY filterActionDesc.label "Esegui le seguenti azioni:">
 <!ENTITY filterActionDesc.accesskey "E">
+
 <!ENTITY filterActionOrderWarning.label "Nota: le azioni del filtro verranno eseguite in un ordine diverso.">
 <!ENTITY filterActionOrder.label "Visualizza ordine di esecuzione">
+
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Sposta messaggio in">
 <!ENTITY copyMessage.label "Copia messaggio a">
 <!ENTITY forwardTo.label "Inoltra messaggio a:">
@@ -46,7 +54,14 @@
 <!ENTITY ignoreSubthread.label "Ignora le sotto discussioni">
 <!ENTITY watchThread.label "Segui argomento">
 <!ENTITY stopExecution.label "Interrompi l'esecuzione dei filtri">
+
 <!ENTITY addAction.tooltip "Aggiungi una nuova azione">
 <!ENTITY removeAction.tooltip "Rimuovi questa azione">
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
