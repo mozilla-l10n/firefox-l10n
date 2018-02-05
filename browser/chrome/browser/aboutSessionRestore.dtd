@@ -8,7 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "很抱歉，我们在恢复您的页面时遇到了问题。">
 <!ENTITY restorepage.problemDesc2   "我们在恢复您上次的浏览状态时遇到问题。选择“恢复浏览状态”可再试一次。">
-<!ENTITY restorepage.tryThis2       "还是无法恢复浏览状态？有时这是某个标签页所导致。请检查下列的先前打开标签页中有哪些不必要恢复，取消勾选后再试一次。">
+<!ENTITY restorepage.tryThis2       "还是无法恢复浏览状态吗？可能某个标签页造成了问题。请看看下列先前打开的标签页中有哪些不必要恢复，取消勾选后再试一次。">
 
 <!ENTITY restorepage.hideTabs       "隐藏先前的标签页">
 <!ENTITY restorepage.showTabs       "查看先前的标签页">
