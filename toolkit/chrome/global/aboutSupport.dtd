@@ -25,7 +25,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareType "Вид">
 <!ENTITY aboutSupport.securitySoftwareName "Име">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "Борба с вируси">
-<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Борба със шпионски приложения">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Борба с шпионски приложения">
 <!ENTITY aboutSupport.securitySoftwareFirewall "Огнена стена">
 
 <!ENTITY aboutSupport.featuresTitle "Възможности на &brandShortName;">
