@@ -27,10 +27,10 @@
 <!ENTITY  generalMetaName       "სახელი">
 <!ENTITY  generalMetaContent    "შიგთავსი">
 
-<!ENTITY  mediaTab              "მედია">
+<!ENTITY  mediaTab              "მედიაფაილი">
 <!ENTITY  mediaTab.accesskey    "მ">
 <!ENTITY  mediaLocation         "მდებარეობა:">
-<!ENTITY  mediaText             "ალტერნატული ტექსტი:">
+<!ENTITY  mediaText             "ასოცირებული ტექსტი:">
 <!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
 <!ENTITY  mediaAddress          "მისამართი">
 <!ENTITY  mediaType             "სახეობა">
@@ -59,9 +59,6 @@
 <!ENTITY  permBlock             "აკრძალვა">
 <!ENTITY  permissionsFor        "ნებართვები საიტისთვის:">
 <!ENTITY  permPlugins           "მოდულების ამოქმედება">
-
-<!ENTITY  permClearStorage           "საცავის გასუფთავება">
-<!ENTITY  permClearStorage.accesskey "გ">
 
 <!ENTITY  securityTab           "უსაფრთხოება">
 <!ENTITY  securityTab.accesskey "უ">
