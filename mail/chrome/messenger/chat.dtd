@@ -8,6 +8,7 @@
 <!ENTITY searchResultConversation.label "Resultados de busqueda">
 <!ENTITY chat.noConv.title             "Las conversaciones se desplegaran aqui.">
 <!ENTITY chat.noConv.description       "Usar la lista de contactors en el panel a la izquierda para iniciar una conversación.">
+<!ENTITY chat.noPreviousConv.description       "&brandShortName; no tiene ninguna conversación almacenada de este contacto.">
 <!ENTITY chat.noAccount.title             "Aún no has establecido una cuenta de chat.">
 <!ENTITY chat.accountWizard.button       "Comenzar">
 <!ENTITY chat.noConnectedAccount.title             "Tus cuentas de chat no estan conectadas.">
