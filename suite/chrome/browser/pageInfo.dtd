@@ -75,7 +75,7 @@
 <!ENTITY  mediaSaveAs           "შენახვა როგორც…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "მედიის ესკიზი">
+<!ENTITY  mediaPreview          "მედიაფაილის შეთვალიერება:">
 
 <!ENTITY  feedTab               "არხები">
 <!ENTITY  feedTab.accesskey     "F">
