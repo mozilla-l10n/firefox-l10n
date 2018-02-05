@@ -10,7 +10,7 @@
 <!ENTITY newevent.from.label                "От" >
 <!ENTITY newevent.to.label                  "До" >
 
-<!ENTITY newevent.status.label                    "Статус" >
+<!ENTITY newevent.status.label                    "Състояние" >
 <!ENTITY newevent.status.accesskey                "С" >
 <!ENTITY newevent.eventStatus.none.label          "Не е посочен" >
 <!ENTITY newevent.eventStatus.none.accesskey      "Н" >
