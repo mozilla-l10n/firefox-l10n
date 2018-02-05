@@ -9,6 +9,7 @@
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Conserver les messages de tous les dossiers de ce compte sur cet ordinateur">
 <!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Remarque : cette modification affecte tous les dossiers de ce compte. Pour définir des dossiers individuels, utilisez le bouton Avancé…">
 <!ENTITY offlineNotDownload.label "Les messages dont la taille dépasse">
 <!ENTITY offlineNotDownload.accesskey "t">
 <!ENTITY autosyncNotDownload.label "Ne pas télécharger les messages dont la taille dépasse">
