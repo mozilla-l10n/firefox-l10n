@@ -33,5 +33,5 @@
 <!ENTITY pref.defalarmlen4todos.label "Подразбиращо се време за припомняне преди събитие:">
 <!ENTITY pref.defalarmlen4todos.accesskey "с">
 
-<!ENTITY pref.defaultsnoozelength.label "Стандартна продължителност на заглушаването:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "з">
+<!ENTITY pref.defaultsnoozelength.label "Стандартна продължителност на отлагането:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "о">

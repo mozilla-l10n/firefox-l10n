@@ -290,8 +290,8 @@
 <!ENTITY calendar.alarm.location.label              "Местоположение:" >
 <!ENTITY calendar.alarm.details.label               "Подробности…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Заглушаване за" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Заглушаване на всички за" >
+<!ENTITY calendar.alarm.snoozefor.label             "Отлагане за" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Отлагане на всички за" >
 <!ENTITY calendar.alarm.title.label                 "Припомняния на календара" >
 <!ENTITY calendar.alarm.dismiss.label               "Прекратяване" >
 <!ENTITY calendar.alarm.dismissall.label            "Прекратяване на всички" >
@@ -309,7 +309,7 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel               "Прекъсване на заглушаването">
+<!ENTITY calendar.alarm.snooze.cancel               "Прекъсване на отлагането">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Редактиране на календар">
