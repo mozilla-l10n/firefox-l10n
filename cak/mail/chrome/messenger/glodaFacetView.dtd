@@ -13,6 +13,7 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
+<!ENTITY glodaFacetView.empty.label "Majun taq rutzijol nikik'äm ki' rik'in ri akanoxik">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
