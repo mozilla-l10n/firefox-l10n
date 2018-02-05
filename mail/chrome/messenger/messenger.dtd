@@ -161,7 +161,7 @@
 <!ENTITY favoriteFolders.label "Любими">
 <!ENTITY favoriteFolders.accesskey "ю">
 <!ENTITY recentFolders.label "Последни">
-<!ENTITY recentFolders.accesskey "ш">
+<!ENTITY recentFolders.accesskey "п">
 <!ENTITY compactVersion.label "Компактен изглед">
 <!ENTITY compactVersion.accesskey "К">
 <!ENTITY folderPaneBar.label "Лента с инструменти за папки">
