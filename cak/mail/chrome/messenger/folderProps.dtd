@@ -7,6 +7,13 @@
 <!ENTITY generalInfo.label                       "Chijun Etamab'äl">
 <!ENTITY folderCharsetFallback2.label            "Rucholajil rucholajem tzij, ri kan k'o wi:">
 <!ENTITY folderCharsetFallback2.accesskey        "R">
+<!ENTITY folderCharsetEnforce2.label             "Tokisäx ri b'itz'ib' pa konojel ri taq rutzijol yakwuj (ri rub'itz'ib' cholan kitzij yonil taq tzijol chuqa' ri ruyonil nitz'et choj xkerepüx kan)">
+<!ENTITY folderCharsetEnforce2.accesskey         "T">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Tinuk' chik Rucholajem Yakb'äl Ch'utitzijol">
+<!ENTITY folderRebuildSummaryFile2.label         "Tichojmirisäx Yakwuj">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "T">
+<!ENTITY folderRebuildSummaryFile.explanation    "K'o re ri rucholajem (.msf) yakb'äl ch'utitzijol niyujtäj chuqa' nitikïr yerelesaj el taq rutzijol o nitikïr yeruk'üt pe taq rutzijol eyujun; ninuk' re yakwuj re' nitikïr yeruchojmirisaj re taq k'ayewal re'.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Keya' qa taq rutzijol pa re yakwuj re' pa Kiq'i'oj Chijun Kanoxïk">
 
 <!ENTITY retentionUseAccount.label  "Tinwokisaj kinuk'ulem ri rub'i' nutaqoya'l">
 <!ENTITY retentionUseAccount.accesskey "o">
