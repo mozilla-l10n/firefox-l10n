@@ -25,9 +25,6 @@
 <!ENTITY getThemes.description                "Desira tu personalisar tu navigator?">
 <!ENTITY getThemes.learnMore                  "Elige inter milles de themas.">
 
-<!ENTITY cmd.back.tooltip                     "Ir un pagina retro">
-<!ENTITY cmd.forward.tooltip                  "Ir un pagina avante">
-
 
 <!ENTITY showUnsignedExtensions.button.label  "Alcun extensiones non poteva esser verificate">
 <!ENTITY showAllExtensions.button.label       "Monstrar tote le extensiones">
@@ -238,7 +235,7 @@
 <!ENTITY experiment.info.label "Que es isto? Le telemetria pote installar e facer experimentos de tempore in tempore.">
 <!ENTITY experiment.info.learnmore "Saper plus">
 <!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Predefinitiones del telemetria">
+<!ENTITY experiment.info.changetelemetry "Parametros del telemetria">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Saper plus…">
