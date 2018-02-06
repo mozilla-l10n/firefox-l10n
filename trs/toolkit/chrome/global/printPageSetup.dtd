@@ -20,11 +20,23 @@
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
+<!ENTITY shrinkToFit.label   "Nagi'iaj li da' hue'êt chre nañùnj du'ua pâjina">
+<!ENTITY shrinkToFit.accesskey "W">
 
-<!ENTITY optionsGroup.label  "Nagui’iaj">
+<!ENTITY optionsGroup.label  "Sa huā gi'iát">
 
+<!ENTITY printBG.label       "Nari Ñadu'ua fôndo (nej kolô &amp; nej ñadu'ua)">
+<!ENTITY printBG.accesskey   "B">
 
+<!ENTITY advanced.tab        "Mârgen &amp; Rà man/Footer">
 
+<!ENTITY marginGroup.label   "Nej mârgen (#1)">
+<!ENTITY marginUnits.inches  "dàj yakànj">
+<!ENTITY marginUnits.metric  "milîmetru">
+<!ENTITY marginTop.label     "Raj:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Yi'ij:">
+<!ENTITY marginBottom.accesskey "B">
 
 
 
