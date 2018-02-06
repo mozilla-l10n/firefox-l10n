@@ -6,8 +6,11 @@
 
 
 
+<!ENTITY formatGroup.label   "Format">
 
+<!ENTITY portrait.label      "Portrait">
 <!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Landscape">
 <!ENTITY landscape.accesskey "L">
 
 <!ENTITY scale.accesskey     "S">

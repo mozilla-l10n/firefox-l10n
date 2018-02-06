@@ -1,14 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
-
 <!ENTITY show.label               "Ipakita:">
-
-
-
+<!ENTITY icons.label              "Mga Icons">
 <!ENTITY useSmallIcons.label      "Gamitin ang Maliit na Icons">
 <!ENTITY restoreDefaultSet.label  "Ibalik ang Default Set">
 <!ENTITY addNewToolbar.label      "Idagdag ang Bagong Toolbar">
-
-

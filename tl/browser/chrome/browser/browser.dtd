@@ -986,6 +986,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Idagdag sa Address Bar">
 <!ENTITY pageAction.removeFromUrlbar.label "Tanggalin sa Address Bar">
 <!ENTITY pageAction.allowInUrlbar.label "Ipakita sa Address Bar">
+<!ENTITY pageAction.disallowInUrlbar.label "Huwag Ipakita sa Address Bar">
+<!ENTITY pageAction.manageExtension.label "Manage Extension…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Ipadala ang Tab sa Device">
 <!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">
