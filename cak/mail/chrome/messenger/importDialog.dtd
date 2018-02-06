@@ -28,16 +28,24 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName; Tijik' To'onel">
+<!ENTITY importShortDesc.label    "Tijik'Kitaqoya'l, Kitz'ib'awuj Ochochib'äl, taq Kinuk'ulem, chuqa' taq Kichayub'al ch'aqa' chik taq kema'">
 
+<!ENTITY importDescription1.label "Re to'onel re' xkerujïk' taq kitaqoya'l, kitz'ib'anik kitz'ib'awuj ochochib'äl, taq kinuk'ulem, chuqa' taq Kichayub'al ch'aqa' chik taq kikema' rub'i' taqoya'l chuqa' relik taq kib'anikil kitz'ib'awuj taq ochochib'äl pa &brandShortName;.">
+<!ENTITY importDescription2.label "Toq xkejik' el, xkatikïr xkatok chi kipam pa &brandShortName;.">
 
+<!ENTITY selectDescription.label  "Tacha' ri ruwäch chi yakb'äl nawajo' najïk' el:">
+<!ENTITY selectDescriptionB.label "Ticha' jun rub'i' taqoya'l k'o wi o titz'uk jun k'ak'a' rub'i' taqoya'l:">
+<!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "B'i'aj:">
 <!ENTITY acctName.accesskey       "B">
+<!ENTITY noModulesFound.label     "Majun chokoy o yakb'äl k'o richin yejik' el taq tzij.">
 
 <!ENTITY back.label               "&lt; Chi rij">
 <!ENTITY forward.label            "Jun chik &gt;">
 <!ENTITY finish.label             "Tik'is">
 <!ENTITY cancel.label             "Tiq'at">
 
+<!ENTITY select.label             "o ticha' ri ruwäch samajib'äl xtijik' el:">
 
 <!ENTITY title.label              "B'i'aj">
 <!ENTITY processing.label         "Tajin nijik…">
