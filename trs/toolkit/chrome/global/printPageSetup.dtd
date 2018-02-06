@@ -37,7 +37,30 @@
 <!ENTITY marginTop.accesskey "T">
 <!ENTITY marginBottom.label  "Yi'ij:">
 <!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Ne' chrïn:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "Ne' huà'aj:">
+<!ENTITY marginRight.accesskey "R">
 
+<!ENTITY headerFooter.label  "Nej ràj: &amp; Ne' yi'ìj">
 
+<!ENTITY hfLeft.label        "Ne' chrïn:">
+<!ENTITY hfCenter.label      "Danïïn:">
+<!ENTITY hfRight.label       "Ne' huà'aj:">
+<!ENTITY headerLeft.tip      "Raj ne' chrïn">
+<!ENTITY headerCenter.tip    "Raj danïïn">
+<!ENTITY headerRight.tip     "Raj ne' huàj">
+<!ENTITY footerLeft.tip      "Yi'ij ne' chrïn">
+<!ENTITY footerCenter.tip    "Yi'ij nej danïïn">
+<!ENTITY footerRight.tip     "Yi'ij ne' huàj">
 
+<!ENTITY hfTitle             "Si yugui">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Gui/Time">
+<!ENTITY hfPage              "Pâjina #">
+<!ENTITY hfPageAndTotal      "Pajinâ # si #">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "Nagui'iaj mu'ûn'…">
 
+<!ENTITY customPrompt.title  "Nagi'iaj mu'ûn'…">
+<!ENTITY customPrompt.prompt "Gachrun nauguan' ruhuât ginù ne' raj /footer nuguan'an">
