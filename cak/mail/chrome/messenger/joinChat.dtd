@@ -6,3 +6,5 @@
 <!ENTITY name.label                     "Samajay">
 <!ENTITY optional.label                 "(cha'el)">
 <!ENTITY account.label                  "Rub'i' taqoya'l">
+<!ENTITY autojoin.label                 "Tatunu' awi' pa re Chat Jay">
+<!ENTITY autojoin.accesskey             "T">
