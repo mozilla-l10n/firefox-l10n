@@ -4,10 +4,8 @@
 
 <!ENTITY header.label     "Maikling Pamagat"> 
 <!ENTITY message.label    "Dito ang sample Text.">
-
-
+ 
+ 
 <!ENTITY checkbox.label   "tsek">
-
-
-
-
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.accesskey "A">

@@ -2,124 +2,86 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
-
 <!ENTITY aboutTelemetry.pingDataSource "I-ping ang data source:
 ">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "Kasalukuyang ping data">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "Naka-archive na ping data">
-
-<!ENTITY aboutTelemetry.raw "
-Raw JSON
+<!ENTITY aboutTelemetry.showSubsessionData "Ipakita ang subsession data">
+<!ENTITY aboutTelemetry.choosePing "Piliin ang ping:">
+<!ENTITY aboutTelemetry.archivePingType "Klase ng Ping">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Ngayon">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Kahapon">
+<!ENTITY aboutTelemetry.optionGroupOlder "Luma">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Payload
 ">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
+
+<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Buksan sa viewer ng JSON">
 
-<!ENTITY aboutTelemetry.showSubsessionData "Ipakita ang subsession data">
-
-<!ENTITY aboutTelemetry.choosePing "Piliin ang ping:">
-
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Bagong ping
-">
-
-<!ENTITY aboutTelemetry.showOlderPing "Lumang ping &gt;&gt;
-">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "Linggo">
-
-<!ENTITY aboutTelemetry.archivePingType "Klase ng Ping">
-
-<!ENTITY aboutTelemetry.archivePingHeader "Ping">
-
-<!ENTITY aboutTelemetry.optionGroupToday "Ngayon">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "Kahapon">
-
-<!ENTITY aboutTelemetry.optionGroupOlder "Luma">
-
+<!ENTITY aboutTelemetry.homeSection "Home">
 <!ENTITY aboutTelemetry.generalDataSection " Pangkalahatang Impormasyon">
-
 <!ENTITY aboutTelemetry.environmentDataSection "
   Environment Data
 ">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Telemetry Log
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Impormasyon ng Session
 ">
-
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
-">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
-">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Thread Hangs
-">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Captured Stacks
-">
-
 <!ENTITY aboutTelemetry.scalarsSection "
   Scalars
 ">
-
 <!ENTITY aboutTelemetry.keyedScalarsSection "
   Keyed Scalars
 ">
-
 <!ENTITY aboutTelemetry.histogramsSection "
   Histograms
 ">
-
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Keyed Histograms
 ">
-
 <!ENTITY aboutTelemetry.eventsSection "
   Mga Kaganapan
 ">
-
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Simpleng Mga Sukat
 ">
-
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Telemetry Log
+">
+<!ENTITY aboutTelemetry.slowSqlSection "
+  Slow SQL Statements
+">
+<!ENTITY aboutTelemetry.chromeHangsSection "
+  Browser Hangs
+">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Detalye ng Add-on
 ">
-
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Captured Stacks
+">
 <!ENTITY aboutTelemetry.lateWritesSection "
   Huling Sulat
 ">
-
 <!ENTITY aboutTelemetry.rawPayloadSection "
 Raw Payload
 ">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  Impormasyon ng Session
+<!ENTITY aboutTelemetry.raw "
+Raw JSON
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTE: Pinagana ang mabagal na debugging ng SQL. Maaaring ipakita ang mga string ng buong SQL sa ibaba ngunit hindi ito isusumite sa Telemetry.
 ">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   Kunin ang mga pangalan ng function para sa mga stack
 ">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Ipakita ang data ng raw stack">
-
-<!ENTITY aboutTelemetry.filterText "
-  Filter (strings or /regexp/)
-">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Payload
-">

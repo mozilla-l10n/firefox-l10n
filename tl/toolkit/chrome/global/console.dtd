@@ -2,31 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY errLine.label   "Linya:">
 <!ENTITY errColumn.label "Hanay:">
 
-
+<!ENTITY all.accesskey      "A">
 <!ENTITY errors.label       "Mga Error">
 <!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "Mga Babala">
 <!ENTITY warnings.accesskey "M">
 <!ENTITY messages.label     "Mga Mensahe">
 <!ENTITY messages.accesskey "M">
+<!ENTITY clear.accesskey    "C">
+<!ENTITY codeEval.accesskey "o">
+<!ENTITY evaluate.accesskey "v">
+<!ENTITY filter2.accesskey  "F">
 
-
-
-
-
-
-
-
-
-
+  
+<!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-
-
-
-
+<!ENTITY sortFirst.accesskey "f">
+<!ENTITY sortLast.accesskey  "l">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

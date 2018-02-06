@@ -1,25 +1,23 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from printjoboptions.xul -->
 
 
 
 
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.accesskey "L">
 
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
 
-
-
-
-
-
-
+<!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "Options">
 
-
-
-
+<!ENTITY printBG.accesskey   "B">
 
 
 <!ENTITY marginTop.label     "Tuktok:">
@@ -44,9 +42,4 @@
 
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "Petsa/Oras">
-
-
-
-
-
 
