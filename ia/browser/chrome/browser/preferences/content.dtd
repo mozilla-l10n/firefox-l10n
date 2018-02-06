@@ -7,10 +7,6 @@
 <!ENTITY  blockPopups.label           "Blocar le fenestras emergente">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsDoNotDisturb.label      "Non me disturbar">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Nulle notification essera monstrate usque tu reinitia &brandShortName;">
-
 <!ENTITY  popupExceptions.label                                 "Exceptiones…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
@@ -23,7 +19,7 @@
 <!ENTITY  locationSettingsButton.label                          "Parametros…">
 <!ENTITY  locationSettingsButton.accesskey                      "t">
 
-<!ENTITY  cameraPermissions.label                               "Photo-camera">
+<!ENTITY  cameraPermissions.label                               "Camera">
 <!ENTITY  cameraSettingsButton.label                            "Parametros…">
 <!ENTITY  cameraSettingsButton.accesskey                        "t">
 

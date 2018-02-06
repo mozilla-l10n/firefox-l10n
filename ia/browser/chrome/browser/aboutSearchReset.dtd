@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Restaurar tu parametros de recerca?">
 
-<!ENTITY searchreset.pageInfo1      "Tu parametros de recerca pote esser obsolete. &brandShortName; pote adjutar te a restaurar le parametros predefinite.">
+<!ENTITY searchreset.pageInfo1      "Tu parametros de recerca pote esser obsolete. &brandShortName; pote adjutar te a restaurar le parametros de recerca predefinite.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is

@@ -235,7 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tu ha blocate le immagazinage persistente pro iste sito web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Tu ha blocate le fenestras emergente pro iste sito web.">
 
-<!ENTITY urlbar.canvasBlocked.tooltip            "Tu ha blocate le extraction de datos del tela pro iste sito web.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Tu ha blocate le extraction de datos de canevas pro iste sito web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Monstrar le chronologia">
 
@@ -800,7 +800,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nulle schedas synchronisate… ancora!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Desira tu vider le schedas de altere apparatos hic?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Authentica te pro vider un lista de schedas de tu altere apparatos.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Il necesse verificar tu conto.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "Tu conto debe esser verificate.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nulle schedas aperite">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Aperir le preferentias de &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
@@ -881,7 +881,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Celar automaticamente">
 
-<!ENTITY getUserMedia.selectCamera.label "Photo-camera a compartir:">
+<!ENTITY getUserMedia.selectCamera.label "Camera a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microphono a compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
@@ -980,7 +980,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Tu nove scheda cambiava.">
 <!ENTITY newTabControlled.keepButton.label "Mantener le cambios">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
-<!ENTITY newTabControlled.restoreButton.label "Restaurar le definitiones">
+<!ENTITY newTabControlled.restoreButton.label "Restaurar le parametros">
 <!ENTITY newTabControlled.restoreButton.accesskey "R">
 
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">
