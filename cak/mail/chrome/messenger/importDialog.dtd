@@ -11,9 +11,12 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "Tijik' pe">
+<!ENTITY importAll.label          "Tijik' Ronojel">
+<!ENTITY importAll.accesskey      "R">
 <!ENTITY importMail.label         "Taqoya'l">
 <!ENTITY importMail.accesskey     "T">
 <!ENTITY importFeeds.label        "Tz'ib'anïk B'i'aj pa taq Q'asab'äl">
+<!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Kiwujil taq Ochochib'äl">
 <!ENTITY importAddressbook.accesskey "O">
 <!ENTITY importSettings.label     "Taq nuk'ulem">
@@ -24,6 +27,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
+<!ENTITY importTitle.label        "&brandShortName; Tijik' To'onel">
 
 
 <!ENTITY acctName.label           "B'i'aj:">
