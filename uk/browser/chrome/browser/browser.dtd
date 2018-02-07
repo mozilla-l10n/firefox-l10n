@@ -503,7 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Налаштувати пошук">
+<!ENTITY changeSearchSettings.button  "Змінити налаштування пошуку">
 <!ENTITY changeSearchSettings.tooltip "Змінити налаштування пошуку">
 
 <!ENTITY searchInNewTab.label         "Пошук в новій вкладці">
@@ -594,7 +594,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "А">
 <!ENTITY hidePluginCmd.label          "Приховати цей плагін">
 <!ENTITY hidePluginCmd.accesskey      "П">
-<!ENTITY copyLinkCmd.label            "Копіювати посилання">
+<!ENTITY copyLinkCmd.label            "Копіювати адресу посилання">
 <!ENTITY copyLinkCmd.accesskey        "п">
 <!ENTITY copyImageCmd.label           "Копіювати адресу зображення">
 <!ENTITY copyImageCmd.accesskey       "р">
@@ -604,7 +604,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "в">
 <!ENTITY copyAudioURLCmd.label        "Копіювати адресу аудіо">
 <!ENTITY copyAudioURLCmd.accesskey    "у">
-<!ENTITY copyEmailCmd.label           "Копіювати адресу електронної пошти">
+<!ENTITY copyEmailCmd.label           "Копіювати адресу е-пошти">
 <!ENTITY copyEmailCmd.accesskey       "п">
 <!ENTITY thisFrameMenu.label              "У цьому фреймі">
 <!ENTITY thisFrameMenu.accesskey          "ь">

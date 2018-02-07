@@ -11,7 +11,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (scratchpad.title):
+<!-- LOCALIZATION NOTE (window.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
   -  prototyping, experimentation and convenient scripting.
@@ -104,7 +104,7 @@
 <!ENTITY environmentMenu.accesskey    "С">
 
 
-<!ENTITY contentContext.label         "Контекст">
+<!ENTITY contentContext.label         "Вміст">
 <!ENTITY contentContext.accesskey     "К">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used

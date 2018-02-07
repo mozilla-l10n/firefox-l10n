@@ -25,7 +25,7 @@
 <!ENTITY  generalModified       "Остання зміна:">
 <!ENTITY  generalEncoding2      "Кодування:">
 <!ENTITY  generalMetaName       "Назва">
-<!ENTITY  generalMetaContent    "Зміст">
+<!ENTITY  generalMetaContent    "Вміст">
 
 <!ENTITY  mediaTab              "Мультимедіа">
 <!ENTITY  mediaTab.accesskey    "М">
@@ -59,9 +59,6 @@
 <!ENTITY  permBlock             "Заблокувати">
 <!ENTITY  permissionsFor        "Дозволи для:">
 <!ENTITY  permPlugins           "Активувати плагіни">
-
-<!ENTITY  permClearStorage           "Очистити сховище">
-<!ENTITY  permClearStorage.accesskey "ч">
 
 <!ENTITY  securityTab           "Безпека">
 <!ENTITY  securityTab.accesskey "з">

@@ -213,7 +213,7 @@
 <!ENTITY addon.updateNow.tooltip              "Встановити оновлення до цього додатку">
 <!ENTITY addon.includeUpdate.label            "Включити в оновлення">
 <!ENTITY addon.updateAvailable.label          "Доступне оновлення">
-<!ENTITY addon.checkingForUpdates.label       "Пошук оновлень…">
+<!ENTITY addon.checkingForUpdates.label       "Перевірка оновлень…">
 <!ENTITY addon.releaseNotes.label             "Інформація про випуск:">
 <!ENTITY addon.loadingReleaseNotes.label      "Завантаження…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Шкода, але під час завантаження інформації сталася помилка.">
