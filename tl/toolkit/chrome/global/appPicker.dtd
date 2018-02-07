@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY NoAppFound.label      "Walang nahanap na application para sa file type na ito.">
-
+<!ENTITY BrowseButton.label    "Mag-browse...">
 <!ENTITY SendMsg.label         "Ipadala ito kay:">

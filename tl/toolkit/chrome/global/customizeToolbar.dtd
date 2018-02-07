@@ -2,9 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dialog.title             "I-customize ang Toolbar">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
+<!ENTITY instructions.description "Maaari kang magdagdag at magtanggal ng mga aytem sa pamamagitan nang pagkalakadkad papunta o mula sa mga toolbar.">
 <!ENTITY show.label               "Ipakita:">
+<!ENTITY iconsAndText.label       "Mga Icon at Teksto">
 <!ENTITY icons.label              "Mga Icons">
+<!ENTITY text.label               "Teksto">
 <!ENTITY useSmallIcons.label      "Gamitin ang Maliit na Icons">
 <!ENTITY restoreDefaultSet.label  "Ibalik ang Default Set">
 <!ENTITY addNewToolbar.label      "Idagdag ang Bagong Toolbar">
+<!ENTITY saveChanges.label        "Tapos">
+<!ENTITY undoChanges.label        "Ibalik sa dati ang mga Pagbabago">

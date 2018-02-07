@@ -13,9 +13,18 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.sendDate "Nai-sumite">
 <!ENTITY aboutSupport.crashes.allReports "Lahat ng Ulat ng Pag-crash">
 
+<!ENTITY aboutSupport.extensionsTitle "Mga extensyon">
 <!ENTITY aboutSupport.extensionName "Pangalan">
+<!ENTITY aboutSupport.extensionEnabled "Payagan">
 <!ENTITY aboutSupport.extensionVersion "Bersyon">
 <!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.securitySoftwareTitle "Software Pang-seguridad">
+<!ENTITY aboutSupport.securitySoftwareType "Uri">
+<!ENTITY aboutSupport.securitySoftwareName "Pangalan">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antispyware">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Firewall">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; Mga Tampok">
 <!ENTITY aboutSupport.featureName "Pangalan">
@@ -94,6 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
+
 
 
 

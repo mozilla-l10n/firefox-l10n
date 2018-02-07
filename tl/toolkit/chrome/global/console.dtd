@@ -4,9 +4,11 @@
 
 <!ENTITY errorConsole.title "Error Console">
 
+<!ENTITY errFile.label   "Source File:">
 <!ENTITY errLine.label   "Linya:">
 <!ENTITY errColumn.label "Hanay:">
 
+<!ENTITY all.label          "Lahat">
 <!ENTITY all.accesskey      "A">
 <!ENTITY errors.label       "Mga Error">
 <!ENTITY errors.accesskey   "E">
@@ -14,16 +16,21 @@
 <!ENTITY warnings.accesskey "M">
 <!ENTITY messages.label     "Mga Mensahe">
 <!ENTITY messages.accesskey "M">
+<!ENTITY clear.label        "Linawin">
 <!ENTITY clear.accesskey    "C">
 <!ENTITY codeEval.label     "Code:">
 <!ENTITY codeEval.accesskey "o">
+<!ENTITY evaluate.label     "Tasahan">
 <!ENTITY evaluate.accesskey "v">
+<!ENTITY filter2.label      "Salain:">
 <!ENTITY filter2.accesskey  "F">
 
-  
+<!ENTITY copyCmd.label       "Kopyahin">  
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "Una > Huling Pamamaraan ng Pag-aayos">
 <!ENTITY sortFirst.accesskey "f">
+<!ENTITY sortLast.label      "Huli > Huling Pamamaraan ng Pag-aayos">
 <!ENTITY sortLast.accesskey  "l">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  

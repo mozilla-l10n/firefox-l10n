@@ -23,6 +23,10 @@
 <!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
+<!ENTITY aboutTelemetry.moreInformations "Naghahanap ng karagdagang impormasyon?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "Ang <a>Firefox Data Documentation</a> ay naglalaman ng mga gabay tungkol sa kung paano gumagana ang aming mga kagamitan sa mga datos.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "Ang <a>Firefox Telemetry client documentation</a> ay naglalakip ng mga pagbigay-kahulugan para sa mga konsepto, mga dokumentasyon sa API at pinanggagalingan ng mga datos.">
+<!ENTITY aboutTelemetry.telemetryDashboard "Ang <a>Telemetry dashboards</a> ay nagbigay daan sa iyo na maipakita ang mga datos na matatanggap ng Mozilla sa pamamagitan ng Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Buksan sa viewer ng JSON">
 

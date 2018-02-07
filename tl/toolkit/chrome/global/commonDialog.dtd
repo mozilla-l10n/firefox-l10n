@@ -4,8 +4,10 @@
 
 <!ENTITY header.label     "Maikling Pamagat"> 
 <!ENTITY message.label    "Dito ang sample Text.">
- 
- 
+<!ENTITY editfield0.label "Pangalan ng User:"> 
+<!ENTITY editfield1.label "Password:"> 
 <!ENTITY checkbox.label   "tsek">
+<!ENTITY copyCmd.label    "Kopyahin">
 <!ENTITY copyCmd.accesskey "C">
+<!ENTITY selectAllCmd.label "Piliin ang Lahat">
 <!ENTITY selectAllCmd.accesskey "A">

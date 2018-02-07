@@ -15,6 +15,7 @@
 <!ENTITY time.hour.label "Mga Oras">
 <!ENTITY time.minute.label "Mga Minuto">
 <!ENTITY time.second.label "Mga Segundo">
+<!ENTITY time.millisecond.label "Mga Milisegundo">
 <!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
