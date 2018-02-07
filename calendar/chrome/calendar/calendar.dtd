@@ -219,7 +219,7 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 тиждень">
 <!ENTITY calendar.context.postpone.1week.accesskey  "т">
 
-<!ENTITY calendar.copylink.label       "Копіювати адресу лінка">
+<!ENTITY calendar.copylink.label       "Копіювати адресу посилання">
 <!ENTITY calendar.copylink.accesskey   "К">
 
 <!-- Task View -->
