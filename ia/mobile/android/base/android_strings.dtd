@@ -540,7 +540,7 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Pagina removite">
-<!ENTITY folder_removed "Plica removite">
+<!ENTITY folder_removed "Dossier removite">
 
 <!ENTITY bookmark_edit_title "Editar le marcapaginas">
 <!ENTITY bookmark_edit_folder_title "Editar le dossier">
