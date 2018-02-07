@@ -12,7 +12,7 @@
 <!ENTITY host       "Вузол:">
 <!ENTITY port       "Порт:">
 <!ENTITY connect    "Під'єднатись">
-<!ENTITY connecting "З'єднання…">
+<!ENTITY connecting "З’єднання…">
 <!ENTITY availableAddons "Доступні віддалені додатки:">
 <!ENTITY availableTabs "Доступні віддалені вкладки:">
 <!ENTITY availableProcesses "Доступні віддалені процеси:">
