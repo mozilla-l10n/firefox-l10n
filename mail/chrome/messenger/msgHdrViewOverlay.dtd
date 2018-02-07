@@ -101,7 +101,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Зберегти всі">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Зберегти всі вкладені файли">
 
-<!ENTITY copyLinkCmd.label        "Копіювати посилання">
+<!ENTITY copyLinkCmd.label        "Копіювати адресу посилання">
 <!ENTITY copyLinkCmd.accesskey    "К">
 
 <!ENTITY CopyMessageId.label "Копіювати ідентифікатор">

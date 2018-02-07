@@ -905,7 +905,7 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "н">
 <!ENTITY SendMessageTo.label "Створити повідомлення до">
 <!ENTITY SendMessageTo.accesskey "с">
-<!ENTITY CopyEmailAddress.label "Копіювати адресу електронної пошти">
+<!ENTITY CopyEmailAddress.label "Копіювати адресу е-пошти">
 <!ENTITY CopyEmailAddress.accesskey "К">
 <!ENTITY CopyNameAndEmailAddress.label "Копіювати ім'я та адресу електронної пошти">
 <!ENTITY CopyNameAndEmailAddress.accesskey "п">
@@ -931,7 +931,7 @@
 <!ENTITY copyLinkCmd.accesskey "п">
 <!ENTITY copyImageAllCmd.label "Копіювати зображення">
 <!ENTITY copyImageAllCmd.accesskey "К">
-<!ENTITY copyEmailCmd.label "Копюівати email адресу">
+<!ENTITY copyEmailCmd.label "Копіювати адресу е-пошти">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Зупинити">
 <!ENTITY stopCmd.accesskey "З">

@@ -57,7 +57,7 @@
 <!ENTITY bottomLinks.privacy        "Політика конфіденційності">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Перевіряю оновлення…">
+<!ENTITY update.checkingForUpdates  "Перевірка оновлень…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "Маєте найновішу версію &brandShortName;">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
