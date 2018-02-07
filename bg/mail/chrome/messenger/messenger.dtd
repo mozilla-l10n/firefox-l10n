@@ -461,6 +461,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Добавки">
 <!ENTITY addons.accesskey "б">
+<!ENTITY addonPrefs.label "Настройки на добавките">
+<!ENTITY addonPrefs.accesskey "д">
+<!ENTITY addonPrefsUnix.label "Настройки на добавките">
+<!ENTITY addonPrefsUnix.accesskey "д">
+<!ENTITY addonNoPrefs.label "Не са намерени настройки на добавки.">
 <!ENTITY activitymanager.label "Управление на активността">
 <!ENTITY activitymanager.accesskey "в">
 <!ENTITY imAccountsStatus.label "Състояние на разговора">
