@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "No es pot compartir la imatge">
 <!ENTITY save_as_pdf "Desa com a PDF">
 <!ENTITY print "Imprimeix">
+<!ENTITY view_page_source "Codi font de la pàgina">
 <!ENTITY find_in_page "Cerca a la pàgina">
 <!ENTITY desktop_mode "Mostra lloc d\&apos;escriptori">
 <!ENTITY page "Pàgina">
