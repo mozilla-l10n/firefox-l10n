@@ -17,7 +17,7 @@
 <!ENTITY newContact.label "Контакт адресної книги…">
 <!ENTITY newContact.accesskey "К">
 <!ENTITY attachMenu.label "Вкласти">
-<!ENTITY attachMenu.accesskey "к">
+<!ENTITY attachMenu.accesskey "с">
 <!ENTITY attachFileCmd.label "Файл(и)…">
 <!ENTITY attachFileCmd.accesskey "л">
 <!ENTITY attachFileCmd.key "A">
