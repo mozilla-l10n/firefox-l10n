@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "ใช้แถบที่อยู่สำหรับการค้นหาและการนำทาง">
 <!ENTITY searchBar.shown.label                 "เพิ่มแถบค้นหาในแถบเครื่องมือ">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "แสดงข้อเสนอแนะการค้นหานำหน้าประวัติการท่องเว็บในผลลัพธ์ของแถบที่อยู่">
+
 <!ENTITY defaultSearchEngine.label             "เครื่องมือค้นหาเริ่มต้น">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "เลือกเครื่องมือค้นหาเริ่มต้นที่จะใช้ในแถบที่อยู่และแถบค้นหา">

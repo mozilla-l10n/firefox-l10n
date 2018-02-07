@@ -8,6 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "เปิดหน้าต่างใหม่ในแท็บใหม่แทน">
 <!ENTITY newWindowsAsTabs.accesskey   "ป">
 
+<!ENTITY newWindowsAsTabs3.label       "เปิดลิงก์ในแท็บแทนที่จะเป็นหน้าต่างใหม่">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "เตือนคุณเมื่อกำลังจะปิดหลายแท็บ">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "ต">
 
