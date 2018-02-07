@@ -21,9 +21,9 @@
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Показати записи">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Записи кешу">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Префікс">
-<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Негативний кеш завершується">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Термін зберігання негативного кешу">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Повний хеш">
-<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Негативний кеш завершується">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Термін зберігання позитивного кешу">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Зневадження">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Встановити модулі журналу">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Встановити файл журналу">

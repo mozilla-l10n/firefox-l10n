@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title             "Налаштування панелей інструментів">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
-<!ENTITY instructions.description "Ви можете додавати або прибирати елементи на панелях інструментів, перетягуючи їх мишею.">
+<!ENTITY instructions.description "Ви можете додавати чи прибирати елементи на панелях інструментів, перетягуючи їх мишею.">
 <!ENTITY show.label               "Показувати:">
 <!ENTITY iconsAndText.label       "Піктограми і текст">
 <!ENTITY icons.label              "Тільки піктограми">

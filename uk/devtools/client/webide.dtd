@@ -30,8 +30,8 @@
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
-<!ENTITY runtimeMenu_disconnect_label "Роз’єднати">
-<!ENTITY runtimeMenu_disconnect_accesskey "Р">
+<!ENTITY runtimeMenu_disconnect_label "Від’єднати">
+<!ENTITY runtimeMenu_disconnect_accesskey "В">
 <!ENTITY runtimeMenu_takeScreenshot_label "Знімок екрану">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "З">
 <!ENTITY runtimeMenu_showDetails_label "Інформація Runtime">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Перегляд">
 <!ENTITY viewMenu_accesskey "П">
-<!ENTITY viewMenu_toggleEditor_label "Перемкнути редактор">
-<!ENTITY viewMenu_toggleEditor_accesskey "р">
 <!ENTITY viewMenu_zoomin_label "Збільшити">
 <!ENTITY viewMenu_zoomin_accesskey "З">
 <!ENTITY viewMenu_zoomout_label "Зменшити">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Вкладки">
 <!ENTITY runtimePanel_usb "Пристрої USB">
 <!ENTITY runtimePanel_wifi "Пристрої Wi-Fi">
-<!ENTITY runtimePanel_simulator "Симулятори">
 <!ENTITY runtimePanel_other "Інше">
-<!ENTITY runtimePanel_installsimulator "Встановити симулятор">
 <!ENTITY runtimePanel_noadbhelper "Встановити помічник ADB">
 <!ENTITY runtimePanel_nousbdevice "Не можете побачити свій пристрій?">
 <!ENTITY runtimePanel_refreshDevices_label "Оновити список пристроїв">
@@ -94,7 +88,6 @@
 <!ENTITY details_location "Розташування">
 <!ENTITY details_manifestURL "ID застосунку">
 <!ENTITY details_removeProject_button "Вилучити проект">
-<!ENTITY details_showPrepackageLog_button "Показати журнал попереднього запакування">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Новий застосунок">
@@ -123,21 +116,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Відновити попередній проект при запуску WebIDE">
 <!ENTITY prefs_options_templatesurl "URL шаблонів">
 <!ENTITY prefs_options_templatesurl_tooltip "Індексувати доступні шаблони">
-<!ENTITY prefs_options_showeditor "Показати редактор">
-<!ENTITY prefs_options_showeditor_tooltip "Показати внутрішній редактор">
-<!ENTITY prefs_options_tabsize "Розмір вкладки">
-<!ENTITY prefs_options_expandtab "Легкі вкладки">
-<!ENTITY prefs_options_expandtab_tooltip "Використовувати пробіли замість знаку вкладки">
-<!ENTITY prefs_options_detectindentation "Автовідступи">
-<!ENTITY prefs_options_detectindentation_tooltip "Вгадувати стиль відступів на основі вмісту джерела">
-<!ENTITY prefs_options_autocomplete "Автозавершення">
-<!ENTITY prefs_options_autocomplete_tooltip "Активувати автоматичне завершення коду">
-<!ENTITY prefs_options_autoclosebrackets "Автозакриття дужок">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Автоматично вставляти закриваючі дужки">
-<!ENTITY prefs_options_keybindings "Сполучення клавіш">
-<!ENTITY prefs_options_keybindings_default "Типово">
-<!ENTITY prefs_options_autosavefiles "Автозбереження файлів">
-<!ENTITY prefs_options_autosavefiles_tooltip "Автоматично зберігати змінені файли перед запуском проекту">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Інформація Runtime">
@@ -194,19 +172,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Журнали команд попереднього запакування">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Параметри симулятора">
-<!ENTITY simulator_remove "Видалити симулятор">
-<!ENTITY simulator_reset "Відновити типові">
-<!ENTITY simulator_name "Назва">
-<!ENTITY simulator_software "Програмне забезпечення">
-<!ENTITY simulator_version "Версія">
-<!ENTITY simulator_profile "Профіль">
-<!ENTITY simulator_hardware "Апаратне забезпечення">
-<!ENTITY simulator_device "Пристрій">
-<!ENTITY simulator_screenSize "Дисплей">
-<!ENTITY simulator_pixelRatio "Співвідношення пікселів">
-<!ENTITY simulator_tv_data "TV Моделювання">
-<!ENTITY simulator_tv_data_open "Налаштування даних">
-<!ENTITY simulator_tv_data_open_button "Відкрити каталог налаштувань…">
