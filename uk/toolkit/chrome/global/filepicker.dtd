@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lookInMenuList.label   "Дивитися в:">
-<!ENTITY lookInMenuList.accesskey   "Д">
+<!ENTITY lookInMenuList.accesskey   "в">
 <!ENTITY textInput.label        "Назва файлу:">
 <!ENTITY textInput.accesskey        "Н">
 <!ENTITY filterMenuList.label   "Файли типу:">

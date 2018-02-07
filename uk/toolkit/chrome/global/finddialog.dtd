@@ -7,7 +7,7 @@
 <!ENTITY findDialog.title "Знайти на цій сторінці">
 <!ENTITY findField.label "Знайти текст:">
 <!ENTITY findField.accesskey "т">
-<!ENTITY caseSensitiveCheckbox.label "З урахуванням регістра">
+<!ENTITY caseSensitiveCheckbox.label "З урахуванням регістру">
 <!ENTITY caseSensitiveCheckbox.accesskey "р">
 <!ENTITY wrapCheckbox.label "З початку сторінки">
 <!ENTITY wrapCheckbox.accesskey "ч">
