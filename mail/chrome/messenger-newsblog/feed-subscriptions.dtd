@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Subscripcions RSS">
 <!ENTITY learnMore.label             "Més informació sobre els canals RSS">
 
@@ -10,15 +10,16 @@
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "URL del canal:">
-<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.accesskey      "L">
 <!ENTITY feedLocation.placeholder    "Introduïu un URL de canal vàlid per afegir">
+<!ENTITY feedLocation2.placeholder   "Introduïu un URL de canal vàlid">
 <!ENTITY locationValidate.label      "Valida">
 <!ENTITY validateText.label          "Comprova la validació i recupera un URL vàlid.">
 
 <!ENTITY feedFolder.label            "Emmagatzema els articles en:">
 <!ENTITY feedFolder.accesskey        "g">
-<!-- Account Settings and Subscription Dialog -->
 
+<!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Comprova si hi ha articles nous cada ">
 <!ENTITY biffStart.accesskey         "a">
 <!ENTITY biffMinutes.label           "minuts">
@@ -35,12 +36,14 @@
 <!ENTITY autotagUsePrefix.label      "Afegeix aquest prefix a les etiquetes:">
 <!ENTITY autotagUsePrefix.accesskey  "p">
 <!ENTITY autoTagPrefix.placeholder   "Introduïu un prefix per a l'etiqueta">
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Afegeix">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.updateFeed.label     "Edita">
-<!ENTITY button.updateFeed.accesskey "E">
+<!ENTITY button.verifyFeed.label     "Verifica">
+<!ENTITY button.verifyFeed.accesskey "V">
+<!ENTITY button.updateFeed.label     "Actualitza">
+<!ENTITY button.updateFeed.accesskey "u">
 <!ENTITY button.removeFeed.label     "Suprimeix">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Importa">
