@@ -36,6 +36,6 @@
 <!ENTITY account.copyDebugLog.accesskey "п">
 <!ENTITY account.showDebugLog.label     "Показати журнал зневадження">
 <!ENTITY account.showDebugLog.accesskey "т">
-<!ENTITY account.connecting           "З'єднання…">
+<!ENTITY account.connecting           "З’єднання…">
 <!ENTITY account.disconnecting        "Від'єднання…">
 <!ENTITY account.disconnected         "Не з'єднано">
