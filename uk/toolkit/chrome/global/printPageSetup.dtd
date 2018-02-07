@@ -56,7 +56,7 @@
 
 <!ENTITY hfTitle             "Заголовок">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfDateAndTime       "Дата/час">
+<!ENTITY hfDateAndTime       "Дата/Час">
 <!ENTITY hfPage              "Сторінка #">
 <!ENTITY hfPageAndTotal      "# сторінка з #">
 <!ENTITY hfBlank             "--порожня--">
