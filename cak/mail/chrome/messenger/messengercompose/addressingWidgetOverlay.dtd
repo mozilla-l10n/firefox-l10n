@@ -9,5 +9,5 @@
 <!ENTITY bccAddr.label  "Bcc:"> 
 <!ENTITY replyAddr.label   "Titzolïx Tzij Chi Re:"> 
 <!ENTITY newsgroupsAddr.label   "Rumolaj tzijol:"> 
- 
+<!ENTITY followupAddr.label   "Titaq chik Chi Re:"> 
 
