@@ -28,6 +28,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareTitle "Tietoturvaohjelmat">
 <!ENTITY aboutSupport.securitySoftwareType "Tyyppi">
 <!ENTITY aboutSupport.securitySoftwareName "Nimi">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Virustentorjunta">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Vakoiluntorjunta">
 <!ENTITY aboutSupport.securitySoftwareFirewall "Palomuuri">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName;-ominaisuudet">
