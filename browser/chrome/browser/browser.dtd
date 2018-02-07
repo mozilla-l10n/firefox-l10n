@@ -229,7 +229,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "คุณได้ปิดกั้นไมโครโฟนของคุณสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.screenBlocked.tooltip            "คุณได้ปิดกั้นเว็บไซต์นี้จากการแบ่งปันหน้าจอของคุณ">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "คุณได้ปิดกั้นข้อมูลตำแหน่งที่ตั้งสำหรับเว็บไซต์นี้">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "คุณได้ปิดกั้นที่เก็บข้อมูลสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "คุณได้ปิดกั้นการแจ้งเตือนสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "คุณได้ปิดกั้นที่เก็บข้อมูลถาวรสำหรับเว็บไซต์นี้">
 
@@ -298,7 +297,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ห">
 <!ENTITY newPrivateWindow.label     "หน้าต่างส่วนตัวใหม่">
 <!ENTITY newPrivateWindow.accesskey "ส">
-<!ENTITY newNonRemoteWindow.label   "หน้าต่าง Non-e10s ใหม่">
 
 <!ENTITY editMenu.label         "แก้ไข">
 <!ENTITY editMenu.accesskey       "ก">
@@ -353,18 +351,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "แสดงประวัติทั้งหมด">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "ปรับแต่ง">
-<!ENTITY appMenuCustomize.tooltip "ปรับแต่งเมนูและแถบเครื่องมือ">
-<!ENTITY appMenuCustomizeExit.label "ออกจากการปรับแต่ง">
-<!ENTITY appMenuCustomizeExit.tooltip "เสร็จสิ้นการปรับแต่ง">
-
 <!ENTITY appMenuHistory.showAll.label "แสดงประวัติทั้งหมด">
 <!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติล่าสุด…">
 <!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระที่แล้ว">
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
 <!ENTITY appMenuHistory.recentHistory.label "ประวัติล่าสุด">
 <!ENTITY appMenuHelp.label "ช่วยเหลือ">
-<!ENTITY appMenuHelp.tooltip "เปิดเมนูช่วยเหลือ">
 
 <!ENTITY appMenuRemoteTabs.label "แท็บที่ซิงค์">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -438,14 +430,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "ส่วนขยาย:">
 <!ENTITY urlbar.switchToTab.label     "สลับไปยังแท็บ:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "คุณต้องการปรับปรุงประสบการณ์การค้นหาของคุณด้วยข้อเสนอแนะหรือไม่?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "เรียนรู้เพิ่มเติม…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "ร">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "ไม่">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ม">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "ใช่">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "ช">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "เคล็ดลับ:">
@@ -723,8 +707,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "ลักษณะหน้าพื้นฐาน">
 <!ENTITY pageStylePersistentOnly.accesskey "ล">
 
-<!ENTITY pageReportIcon.tooltip            "เปลี่ยนการตั้งค่าการปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">
-
 <!ENTITY allowPopups.accesskey "ป">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -855,8 +837,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "ซิงค์">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "ลากรายการโปรดของคุณลงในแถบเครื่องมือหรือเมนูล้น">
-<!ENTITY customizeMode.menuAndToolbars.empty "ต้องการเครื่องมือเพิ่มเติม?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมนับพัน">
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าเริ่มต้น">
 <!ENTITY customizeMode.done "เสร็จสิ้น">
 <!ENTITY customizeMode.titlebar "แถบชื่อเรื่อง">
@@ -869,7 +849,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "จ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "รับชุดตกแต่งเพิ่มเติม">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ร">
-<!ENTITY customizeMode.emptyOverflowList.description "ลากแล้วปล่อยรายการที่นี่เพื่อเก็บไว้ใกล้เอื้อมแต่อยู่นอกแถบเครื่องมือของคุณ…">
 <!ENTITY customizeMode.overflowList.title2 "เมนูล้น">
 <!ENTITY customizeMode.overflowList.description "ลากแล้วปล่อยรายการที่นี่เพื่อเก็บไว้ใกล้เอื้อมแต่อยู่นอกแถบเครื่องมือของคุณ…">
 <!ENTITY customizeMode.uidensity "ความหนาแน่น">
@@ -990,11 +969,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ม">
 <!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
+<!ENTITY newTabControlled.restoreButton.label "เรียกคืนการตั้งค่า">
+<!ENTITY newTabControlled.restoreButton.accesskey "ร">
 
 <!ENTITY pageActionButton.tooltip "การกระทำของหน้า">
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
 <!ENTITY pageAction.removeFromUrlbar.label "เอาออกจากแถบที่อยู่">
-
 <!ENTITY pageAction.allowInUrlbar.label "แสดงในแถบที่อยู่">
 <!ENTITY pageAction.disallowInUrlbar.label "ไม่แสดงในแถบที่อยู่">
 <!ENTITY pageAction.manageExtension.label "จัดการส่วนขยาย…">
