@@ -461,9 +461,9 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Tilføjelser">
 <!ENTITY addons.accesskey "T">
-<!ENTITY addonPrefs.label "Indstillinger for udvidelser">
+<!ENTITY addonPrefs.label "Indstillinger for tilføjelser">
 <!ENTITY addonPrefs.accesskey "J">
-<!ENTITY addonPrefsUnix.label "Indstillinger for udvidelser">
+<!ENTITY addonPrefsUnix.label "Indstillinger for tilføjelser">
 <!ENTITY addonPrefsUnix.accesskey "J">
 <!ENTITY addonNoPrefs.label "Ingen indstillinger for tilføjelser fundet.">
 <!ENTITY activitymanager.label "Aktivitet">
