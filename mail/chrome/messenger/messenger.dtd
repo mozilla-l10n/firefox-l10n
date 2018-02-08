@@ -932,7 +932,7 @@
 <!ENTITY copyImageAllCmd.label "Копіювати зображення">
 <!ENTITY copyImageAllCmd.accesskey "К">
 <!ENTITY copyEmailCmd.label "Копіювати адресу е-пошти">
-<!ENTITY copyEmailCmd.accesskey "e">
+<!ENTITY copyEmailCmd.accesskey "К">
 <!ENTITY stopCmd.label "Зупинити">
 <!ENTITY stopCmd.accesskey "З">
 <!ENTITY reloadCmd.label "Перезавантажити">
