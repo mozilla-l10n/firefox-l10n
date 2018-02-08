@@ -105,7 +105,7 @@
 
 
 <!ENTITY contentContext.label         "Вміст">
-<!ENTITY contentContext.accesskey     "К">
+<!ENTITY contentContext.accesskey     "м">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
