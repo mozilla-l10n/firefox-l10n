@@ -16,9 +16,12 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Pàgina vaa">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Página web yo'o nu <span id='phishing_sitename'/> ni ka tu'una ña vay cha ma kuu nuni.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Kue sitio vaani kuvai tava sau ña vaa, tana chikau software a snau tutu meu , tu'un see, número teléfono a tarjetas de crédito.</p><p>tatu na chau nu página web yoo ku skuinana tutu ku.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "¡Nikatu'una ña inka software vaa nu sitio yoo!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Página web yo'o nu <span id='unwanted_sitename'/> ni ka tu'una ña vay cha ma kuu nuni.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Página tsi software vaa kunia chikai iin software ña stivii kaa ku.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Sitio yoo ku ra vai yee malware nui">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; ntsasia pagina vari yee aplicacion vaa ña skuina a stoi tutu ku (tana tutu ndatavana, tu'un see,tu'un nchau tsi tarjetas de crédito).">
