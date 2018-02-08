@@ -13,6 +13,8 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "T">
+<!ENTITY newContact.label "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl…">
+<!ENTITY newContact.accesskey "K">
 <!ENTITY attachPageCmd.label "Ajk'amaya'l Ruxaq…">
 <!ENTITY attachPageCmd.accesskey "A">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -81,6 +83,30 @@
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
+<!-- Reorder Attachment Panel -->
+<!ENTITY moveAttachmentTopPanelBtn.label "Tisilöx pa Rutikirib'al">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "R">
+<!ENTITY moveAttachmentUpPanelBtn.label "Tijotob'äx">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "T">
+<!ENTITY moveAttachmentDownPanelBtn.label "Tiqasäx Qa">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "Q">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Tisilöx pa Ruk'isib'al">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "R">
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
+     This accesskey should be the same like
+     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
+     the "Sort Selection:" part of the label, not from the sort direction part. -->
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Titz'et">
 <!ENTITY viewMenu.accesskey "t">
@@ -88,6 +114,8 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "m">
 <!ENTITY menubarCmd.label "Rukajtz'ik K'utusamaj">
 <!ENTITY menubarCmd.accesskey "K">
+<!ENTITY showCompositionToolbarCmd.label "Rucholsamajib'al Nuk'unem">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label "Rub'anikil Kajtz'ik">
 <!ENTITY showTaskbarCmd.accesskey "b">
 <!ENTITY customizeToolbar.label "Tichinäx…">
@@ -105,17 +133,29 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "Tib'an Ruk'ojlem Rutz'ib'axik Toq Tajin Nitz'ib'äx">
+<!ENTITY enableInlineSpellChecker.accesskey "R">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!ENTITY returnReceiptMenu.label "Etzolin taq Wujil">
+<!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY autoFormatCmd.label "Titz'et pa ruyonil">
 <!ENTITY autoFormatCmd.accesskey "t">
 <!ENTITY priorityMenu.label "Ya'on ruq'ij">
 <!ENTITY priorityMenu.accesskey "y">
 <!ENTITY priorityButton.title "Ya'on ruq'ij">
 <!ENTITY priorityButton.label "Ya'on ruq'ij:">
+<!ENTITY lowestPriorityCmd.label "Ch'utin">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "Ko'öl">
+<!ENTITY lowPriorityCmd.accesskey "o">
 <!ENTITY normalPriorityCmd.label "Relik">
 <!ENTITY normalPriorityCmd.accesskey "r">
+<!ENTITY highPriorityCmd.label "Nïm">
+<!ENTITY highPriorityCmd.accesskey "m">
+<!ENTITY highestPriorityCmd.label "Yalan nïm">
+<!ENTITY highestPriorityCmd.accesskey "Y">
 <!ENTITY fileCarbonCopyCmd.label "Titaq jun Wachib'äl Chi Re">
 <!ENTITY fileCarbonCopyCmd.accesskey "q">
 <!ENTITY fileHereMenu.label "Yakb'äl Wawe'">
@@ -123,6 +163,8 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Taq samajib'äl">
 <!ENTITY tasksMenu.accesskey "s">
+<!ENTITY messengerCmd.label "Taqoya'l &amp; Taq Rutzijol">
+<!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Kiwujil taq Ochochib'äl">
 <!ENTITY addressBookCmd.accesskey "o">
@@ -145,6 +187,7 @@
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Titaq">
 <!ENTITY addressButton.label "Kib'i' achib'il">
+<!ENTITY spellingButton.label "Tz'ib'anikil">
 <!ENTITY saveButton.label "">
 <!ENTITY printButton.label "Titz'ajb'äx">
 
