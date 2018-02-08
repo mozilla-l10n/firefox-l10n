@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Përdoreni shtyllën e adresave për kërkime dhe lëvizje">
 <!ENTITY searchBar.shown.label                 "Shtoni te paneli shtyllë kërkimesh">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Shfaq te përfundimet në shtyllën e adresave sugjerime kërkimi përpara se historik shfletimi">
+
 <!ENTITY defaultSearchEngine.label             "Motor Parazgjedhje Kërkimesh">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Zgjidhni motorin parazgjedhje të kërkimeve që do të përdoret te shtylla e adresave dhe shtylla e kërkimeve.">
