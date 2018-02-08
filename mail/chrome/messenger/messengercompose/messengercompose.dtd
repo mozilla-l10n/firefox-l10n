@@ -134,22 +134,13 @@
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Renditje: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
-     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
-     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
-     taken from the word "Sort", not from "Selection" or the sort direction part. -->
-<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "d">
 <!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Rend: Z - A">
-<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "d">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Përzgjedhje Renditjeje: A - Z">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "d">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Përzgjedhje Renditjeje: Z - A">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "d">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Shfaqje">
