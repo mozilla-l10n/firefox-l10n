@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " để đồng bị với thiết bị di động của bạn.">
+
+<!ENTITY mobilepromo.singledevice      "Kết nối thiết bị khác">
+<!ENTITY mobilepromo.multidevice       "Quản lý các thiết bị">
