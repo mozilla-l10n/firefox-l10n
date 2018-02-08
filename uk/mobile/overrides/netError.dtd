@@ -138,7 +138,7 @@
 <!ENTITY redirectLoop.title "Невірне перенаправлення на сторінці">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Ця проблема може виникати при вимиканні або забороні ухвалення
+  <li>Ця проблема може виникати при вимиканні або забороні прийняття
     кук.</li>
 </ul>
 ">
@@ -197,7 +197,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>Ви не повинні робити виняток, якщо використовуєте з’єднання, якому не повністю довіряєте, або якщо ви не звикли бачити попередження для цього сервера.</p>
+<p>Вам не слід додавати виняток, якщо ви використовуєте з’єднання, якому не цілком довіряєте, або якщо ви зазвичай не бачите попередження для цього сервера.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
