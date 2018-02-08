@@ -4,6 +4,7 @@
 
 <!ENTITY dialog.title             "Përshtatni Panelin">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
+<!ENTITY instructions.description "Elementët mund t’i shtoni ose t’i hiqni duke i tërhequr për t’i vënë ose hequr nga panele.">
 <!ENTITY show.label               "Shfaq:">
 <!ENTITY iconsAndText.label       "Ikona dhe Tekst">
 <!ENTITY icons.label              "Ikona">
@@ -11,3 +12,5 @@
 <!ENTITY useSmallIcons.label      "Përdor Ikona të Vogla">
 <!ENTITY restoreDefaultSet.label  "Rikthe Grupin Parazgjedhje">
 <!ENTITY addNewToolbar.label      "Shtoni Panel të Ri">
+<!ENTITY saveChanges.label        "U bë">
+<!ENTITY undoChanges.label        "Zhbëji Ndryshimet">
