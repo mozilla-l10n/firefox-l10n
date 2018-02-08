@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Гутарка">
 <!ENTITY goChatCmd.accesskey "г">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Ліст з зоркаю">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
@@ -510,6 +509,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Адладчык дадаткаў">
 <!ENTITY addonDebugCmd.accesskey "А">
+<!ENTITY debugAddonsCmd.label "Адладка дадаткаў">
+<!ENTITY debugAddonsCmd.accesskey "А">
 <!ENTITY tabsDebugCmd.label "Адладчык фрэйма змесціва">
 <!ENTITY tabsDebugCmd.accesskey "з">
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
