@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messageMarkByDate.label "Marcar ils messadis sco legids tenor data">
-<!ENTITY markByDateLower.label "Marcar ils messadis sco legids da:">
-<!ENTITY markByDateLower.accesskey "M">
-<!ENTITY markByDateUpper.label "a:">
-<!ENTITY markByDateUpper.accesskey "a">
+<!ENTITY markByDateLower.label "Marcar ils messadis sco legids a partir da:">
+<!ENTITY markByDateLower.accesskey "d">
+<!ENTITY markByDateUpper.label "Enfin:">
+<!ENTITY markByDateUpper.accesskey "E">
