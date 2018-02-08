@@ -21,6 +21,7 @@
 <!ENTITY openHelp.accesskey "д">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Даведка &brandShortName;">
+<!ENTITY openHelpMac2.label "Дапамога &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
