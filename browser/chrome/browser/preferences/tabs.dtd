@@ -8,11 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Dritaret e reja hapi më mirë si skedë të re">
 <!ENTITY newWindowsAsTabs.accesskey   "D">
 
+<!ENTITY newWindowsAsTabs3.label       "Hapi lidhjet në skeda, në vend se në dritare të reja">
+<!ENTITY newWindowsAsTabs3.accesskey   "H">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Sinjalizo kur mbyllen disa skeda njëherësh">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "b">
 
 <!ENTITY warnOnOpenManyTabs.label       "Sinjalizo kur hapja e shumë skedave njëherësh do të mund të ngadalësonte &brandShortName;-in">
-<!ENTITY warnOnOpenManyTabs.accesskey   "h">
+<!ENTITY warnOnOpenManyTabs.accesskey   "z">
 
 <!ENTITY switchLinksToNewTabs.label        "Kur një lidhje hapet si një skedë të re, kalo në të menjëherë">
 <!ENTITY switchLinksToNewTabs.accesskey    "K">
