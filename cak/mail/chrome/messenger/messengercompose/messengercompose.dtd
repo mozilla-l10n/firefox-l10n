@@ -194,6 +194,7 @@
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Titaq re rutzijol re' wakami">
 <!ENTITY sendlaterButton.tooltip "Titaq re rutzijol re' b'a' chik na">
+<!ENTITY spellingButton.tooltip "Tinik'ox rutz'ib'axik cha'oj o chijun ri rutzijol">
 <!ENTITY saveButton.tooltip "Titaq re rutzijol re'">
 <!ENTITY cutButton.tooltip              "Tiqupïx">
 <!ENTITY copyButton.tooltip             "Tiwachib'ëx">
@@ -203,6 +204,7 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Richin:">
 <!ENTITY fromAddr.accesskey "c">
 <!ENTITY toAddr.label "Chi re:">
@@ -210,12 +212,29 @@
 <!ENTITY bccAddr.label "Bcc:">
 <!ENTITY replyAddr.label "Titzolïx Tzij Chi Re:">
 <!ENTITY newsgroupsAddr.label "Rumolaj tzijol:">
+<!ENTITY followupAddr.label "Titaq chik Chi Re:">
+<!ENTITY subject.label "Taqikil:">
+<!ENTITY subject.accesskey "T">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
+<!ENTITY attachments.accesskey "m">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+<!ENTITY SmileButton.tooltip "Tich'ik jun tze'n paläj">
+<!ENTITY smiley1Cmd.label "Tze'enïk">
+<!ENTITY smiley2Cmd.label "B'is">
 <!ENTITY smiley3Cmd.label "Win">
+<!ENTITY smiley4Cmd.label "Juruj raq'">
+<!ENTITY smiley5Cmd.label "Nitze'en">
+<!ENTITY smiley6Cmd.label "Nik'ix">
+<!ENTITY smiley7Cmd.label "Ka'i' ruk'u'x">
+<!ENTITY smiley8Cmd.label "Ajmayel">
 <!ENTITY smiley9Cmd.label "Tz'ub'">
+<!ENTITY smiley10Cmd.label "Sik'inel">
+<!ENTITY smiley11Cmd.label "Tik'asäs">
+<!ENTITY smiley12Cmd.label "Pwäq-Chi'aj">
+<!ENTITY smiley13Cmd.label "Aqanaj-pa-Chi'aj">
+<!ENTITY smiley14Cmd.label "Ütz ruk'u'x">
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckAddToDictionary.label "Titz'aqatisäx pa Soltzij">
