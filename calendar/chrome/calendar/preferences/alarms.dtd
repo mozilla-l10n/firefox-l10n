@@ -19,6 +19,7 @@
 <!ENTITY pref.showalarmbox "Shfaq një kuti alarmi">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "k">
 <!ENTITY pref.missedalarms "Shfaq alarme të humbur">
+<!ENTITY pref.missedalarms2 "Shfaq kujtues të humbur për kalendarë të shkrueshëm">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "h">
 <!ENTITY pref.calendar.alarms.defaults.label "Parazgjedhje Alarmi">
 <!ENTITY pref.defalarm4events.label "Rregullime parazgjedhje alarmi për ngjarjet:">
