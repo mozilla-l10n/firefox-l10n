@@ -41,6 +41,8 @@
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Tiyuj ri Yakwuj">
 <!ENTITY deleteFolder.accesskey "u">
+<!ENTITY renameFolder.label "Titz'ib'äx chik Rub'i' Yakwuj…">
+<!ENTITY renameFolder.accesskey "T">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY offlineMenu.label "Chupül">
 <!ENTITY offlineMenu.accesskey "l">
@@ -198,7 +200,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY folderMenu.label "Yakwuj">
 <!ENTITY folderMenu.accesskey "O">
 <!ENTITY goRecentlyClosedTabs.label "Taq Ruwi' k'a b'a' Ketz'apïx">

@@ -235,6 +235,8 @@
 <!ENTITY smiley12Cmd.label "Pwäq-Chi'aj">
 <!ENTITY smiley13Cmd.label "Aqanaj-pa-Chi'aj">
 <!ENTITY smiley14Cmd.label "Ütz ruk'u'x">
+<!ENTITY smiley15Cmd.label "Oq'el">
+<!ENTITY smiley16Cmd.label "Chi'aj-e-Tz'apäl">
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckAddToDictionary.label "Titz'aqatisäx pa Soltzij">
