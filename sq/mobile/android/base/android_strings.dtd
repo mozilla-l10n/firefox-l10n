@@ -455,6 +455,7 @@
 <!ENTITY share_image_failed "S’arrihet të ndahet kjo figurë me të tjerët">
 <!ENTITY save_as_pdf "Ruaje si PDF">
 <!ENTITY print "Shtype">
+<!ENTITY view_page_source "Shihni Burim Faqeje">
 <!ENTITY find_in_page "Gjej në Faqe">
 <!ENTITY desktop_mode "Kërko Sajtin për Desktop">
 <!ENTITY page "Faqe">
@@ -486,7 +487,6 @@
 <!ENTITY contextmenu_open_new_tab "Hape në Skedë të Re">
 <!ENTITY contextmenu_open_private_tab "Hape në Skedë Private">
 <!ENTITY contextmenu_remove "Hiqe">
-<!ENTITY contextmenu_add_to_launcher "Shtoje te Skena Hyrëse">
 <!ENTITY contextmenu_add_page_shortcut "Shtoni Shkurtore Faqeje">
 <!ENTITY contextmenu_set_as_homepage "Vëre si Kreun">
 <!ENTITY contextmenu_share "Ndajeni me të tjerët">
@@ -541,7 +541,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Faqja u hoq">
-
 <!ENTITY folder_removed "Dosja u hoq">
 
 <!ENTITY bookmark_edit_title "Përpunoni Faqerojtësin">
@@ -819,8 +818,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName;-u është i përditësuar">
 <!ENTITY whatsnew_notification_summary "Shihni ç’ka të re në këtë version">
-
-<!ENTITY promotion_add_to_homescreen "Shtojeni te skena e kreut">
 
 <!ENTITY promotion_add_page_shortcut "Shtoni shkurtore faqeje">
 
