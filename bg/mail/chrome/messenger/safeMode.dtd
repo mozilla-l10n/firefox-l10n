@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title             "Безопасен режим с &brandShortName;">
+<!ENTITY safeModeDialog.title             "&brandShortName; в Надежден режим">
 <!ENTITY window.width                     "39em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName; работи в безопасен режим, в който временно са отменени вашите лични настройки, теми и разширения.">
