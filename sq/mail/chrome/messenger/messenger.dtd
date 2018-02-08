@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Fjalosje">
 <!ENTITY goChatCmd.accesskey "F">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Mesazh Me Yllkë">
 <!ENTITY prevStarredMsgCmd.accesskey "Y">
@@ -367,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Përpunoni Mesazhin Skicë">
 <!ENTITY editDraftMsgCmd.accesskey "C">
+<!ENTITY editTemplateMsgCmd.label "Përpunoni Gjedhen">
+<!ENTITY editTemplateMsgCmd.accesskey "P">
 <!ENTITY newMsgFromTemplateCmd.label "Mesazh i Ri prej Gjedheje">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Krijoni Filtër Prej Mesazhi…">
@@ -510,6 +511,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Diagnostikues Shtesash">
 <!ENTITY addonDebugCmd.accesskey "S">
+<!ENTITY debugAddonsCmd.label "Diagnostikoni Shtesën">
+<!ENTITY debugAddonsCmd.accesskey "D">
 <!ENTITY tabsDebugCmd.label "Diagnostikues Lënde Kuadri">
 <!ENTITY tabsDebugCmd.accesskey "L">
 <!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
@@ -758,6 +761,8 @@
 <!ENTITY contextEditMsgAsNew.label "Përpunojeni Si Mesazh të Ri">
 <!ENTITY contextEditMsgAsNew.accesskey "P">
 <!ENTITY contextEditDraftMsg.label "Përpunoni Mesazhin Skicë">
+<!ENTITY contextEditTemplate.label "Pepunoni Gjedhen">
+<!ENTITY contextEditTemplate.accesskey "P">
 <!ENTITY contextArchive.label "Arkiv">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Përgjigjiuni Vetëm Dërguesit">
