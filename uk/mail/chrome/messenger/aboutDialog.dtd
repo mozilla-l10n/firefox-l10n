@@ -35,7 +35,7 @@
 <!ENTITY community.middle2          " — ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "глобальній спільноті">
-<!ENTITY community.end3             ", котра гуртом намагається зробити інтернет кращим. Ми віримо в те, що інтернет має бути відкритим, громадським, доступним кожному без жодних обмежень.">
+<!ENTITY community.end3             ", яка працює над тим, щоб інтернет залишався відкритим, громадським та доступним для всіх.">
 
 <!ENTITY helpus.start               "Бажаєте допомогти? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->

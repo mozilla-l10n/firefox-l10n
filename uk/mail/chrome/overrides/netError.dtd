@@ -111,18 +111,18 @@
 <!ENTITY proxyResolveFailure.title "Неможливо знайти проксі-сервер">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-<li>Перевірте правильність встановлених налаштувань проксі-сервера.</li>
-<li>Перевірте з’єднання вашого комп’ютера з мережею.</li>
-<li>Якщо ваш комп’ютер або мережа захищені фаєрволом або проксі-сервером — переконайтеся, що
-    &brandShortName; дозволено вихід в інтернет.</li>
+  <li>Перевірте правильність встановлених налаштувань проксі-сервера.</li>
+  <li>Перевірте з’єднання вашого комп’ютера з мережею.</li>
+  <li>Якщо ваш комп’ютер або мережа захищені мережевим екраном чи проксі-сервером — переконайтеся,
+    що для &brandShortName; дозволено доступ до Інтернету.</li>
 </ul>
 ">
 
 <!ENTITY redirectLoop.title "Невірне перенаправлення на сторінці">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-<li>Ця проблема може виникати при вимиканні або забороні
-    ухвалення кук.</li>
+  <li>Ця проблема може виникати при вимиканні або забороні прийняття
+    кук.</li>
 </ul>
 ">
 
@@ -180,7 +180,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>Вам не слід додавати виняток, якщо використовуєте з’єднання, котрому не повністю довіряєте, або якщо ви не звикли бачити попередження для цього сервера.</p>
+<p>Вам не слід додавати виняток, якщо ви використовуєте з’єднання, якому не цілком довіряєте, або якщо ви зазвичай не бачите попередження для цього сервера.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
