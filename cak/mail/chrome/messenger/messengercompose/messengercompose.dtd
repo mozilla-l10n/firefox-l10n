@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Tz'ib'anïk: (majun taqikil)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Yakb'äl">
