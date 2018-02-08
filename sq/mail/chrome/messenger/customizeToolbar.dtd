@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title             "Përshtatni Panelin">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
+<!ENTITY show.label               "Shfaq:">
+<!ENTITY iconsAndText.label       "Ikona dhe Tekst">
+<!ENTITY icons.label              "Ikona">
+<!ENTITY text.label               "Tekst">
+<!ENTITY useSmallIcons.label      "Përdor Ikona të Vogla">
+<!ENTITY restoreDefaultSet.label  "Rikthe Grupin Parazgjedhje">
+<!ENTITY addNewToolbar.label      "Shtoni Panel të Ri">

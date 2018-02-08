@@ -4,3 +4,7 @@
 
 <!ENTITY virtualFolderListTitle.title        "Përzgjidhni Dosje">
 <!ENTITY virtualFolderDesc.label       "Përzgjidhni dosjet për kërkim:">
+
+
+<!ENTITY folderName.label "Emër dosjeje">
+<!ENTITY folderSearch.label "Kërko">
