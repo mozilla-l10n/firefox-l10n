@@ -7,3 +7,5 @@
 <!ENTITY  newMessageCmd.label             "Tzijol">
 <!ENTITY  newMessageCmd.accesskey         "o">
  
+<!ENTITY  newContactCmd.label             "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl…">
+<!ENTITY  newContactCmd.accesskey         "K">

@@ -4,6 +4,7 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "Ke'ichinäx Kitz'etik taq Rutzijol">
-<!ENTITY viewName.label "Titz'et B'i'aj">
+<!ENTITY mailViewSetupTitle.label "Runuk'ulem Rutz'etik Rutzijol">
+<!ENTITY mailViewHeading.label "Rub'i' rutz'etik rutzijol:">
+<!ENTITY mailViewHeading.accesskey "e">
 
