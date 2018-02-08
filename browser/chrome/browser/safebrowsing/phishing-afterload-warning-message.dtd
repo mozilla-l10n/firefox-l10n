@@ -26,7 +26,9 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> đã <a id='error_desc_link'>báo cáo là có chứa phần mềm độc hại</a>. Bạn có thể <a id='report_detection'>báo cáo một vấn đề phát hiện</a> hoặc <a id='ignore_warning_link'>bỏ qua nguy cơ</a> và đi đến trang web không an toàn này.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> đã <a id='error_desc_link'>báo cáo là có chứa phần mềm độc hại</a>. Bạn có thể <a id='report_detection'>báo cáo một vấn đề phát hiện</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Tìm hiểu thêm về nội dung trang web độc hại, bao gồm cả virus và các phần mềm độc hại và làm thế nào để bảo vệ máy tính của bạn tại <a id='learn_more_link'>StopBadware.org</a>. Tìm hiểu thêm về chính sách bảo vệ sự lừa đảo và phần mềm độc hại tại <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Trang bạn đang truy cập có thể chứa phần mềm gây hại">
