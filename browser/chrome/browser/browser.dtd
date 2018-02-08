@@ -231,11 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ia keni bllokuar këtij sajti përdorimin e ekranit tuaj.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ia keni bllokuar këtij sajti të dhënat mbi vendndodhjen tuaj.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ia keni bllokuar këtij sajti depozitimin e të dhënave.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ia keni bllokuar këtij sajti njoftimet.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "E keni bllokuar depozitimin e qëndrueshëm për këtë sajt.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "I keni bllokuar flluskat për këtë sajt.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "Për këtë sajt e keni bllokuar përftimin e të dhënave të kanavacës.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaq historikun">
 
@@ -301,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "D">
 <!ENTITY newPrivateWindow.label     "Dritare e Re Private">
 <!ENTITY newPrivateWindow.accesskey "P">
-<!ENTITY newNonRemoteWindow.label   "Dritare e Re Non-e10s">
 
 <!ENTITY editMenu.label         "Përpunim">
 <!ENTITY editMenu.accesskey       "P">
@@ -356,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Shfaq Krejt Historikun">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personalizoni">
-<!ENTITY appMenuCustomize.tooltip "Personalizoni Menunë dhe Panelet">
-<!ENTITY appMenuCustomizeExit.label "Dilni nga Personalizimi">
-<!ENTITY appMenuCustomizeExit.tooltip "Përfundojeni Personalizimin">
-
 <!ENTITY appMenuHistory.showAll.label "Shfaqni Krejt Historikun">
 <!ENTITY appMenuHistory.clearRecent.label "Pastroni Historikun Së Fundi…">
 <!ENTITY appMenuHistory.restoreSession.label "Riktheni Sesionin e Mëparshëm">
 <!ENTITY appMenuHistory.viewSidebar.label "Shihni Anështyllë Historiku">
 <!ENTITY appMenuHistory.recentHistory.label "Historik Së Fundi">
 <!ENTITY appMenuHelp.label "Ndihmë">
-<!ENTITY appMenuHelp.tooltip "Hapni Menunë e Ndihmës">
 
 <!ENTITY appMenuRemoteTabs.label "Skeda të njëkohësuara">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -442,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Zgjerim:">
 <!ENTITY urlbar.switchToTab.label     "Kalo te skeda:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Do të donit të përmirësoheshin kërkimet tuaja me këshillime?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Mësoni më tepër…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "M">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Jo">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "J">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Po">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "P">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ndihmëz:">
@@ -728,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stil Bazik Faqeje">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 
-<!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë sajt">
-
 <!ENTITY allowPopups.accesskey "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -861,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Njëkohësoni">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Tërhiqini elementët tuaj të parapëlqyer te paneli ose te menuja Më Tepër Mjete.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Doni më tepër mjete?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Zgjidhni prej mijëra shtesave">
 <!ENTITY customizeMode.restoreDefaults "Rikthejeni te Parazgjedhjet">
 <!ENTITY customizeMode.done "U bë">
 <!ENTITY customizeMode.titlebar "Shtyllë Titujsh">
@@ -875,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Merrni Më Shumë Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
-<!ENTITY customizeMode.emptyOverflowList.description "Tërhiqni dhe lini këtu elementë për t&apos;i mbajtur një hap larg, por jashtë panelit tuaj…">
 <!ENTITY customizeMode.overflowList.title2 "Menuja Më Tepër Mjete">
 <!ENTITY customizeMode.overflowList.description "Tërhiqni dhe lini këtu elementë për t&apos;i mbajtur një hap larg, por jashtë panelit tuaj…">
 <!ENTITY customizeMode.uidensity "Dendësi">
@@ -1006,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Veprime faqeje">
 <!ENTITY pageAction.addToUrlbar.label "Shtoje te Shtyllë Adresash">
 <!ENTITY pageAction.removeFromUrlbar.label "Hiqe prej Shtylle Adresash">
-
 <!ENTITY pageAction.allowInUrlbar.label "Shfaqe në Shtyllë Adresash">
 <!ENTITY pageAction.disallowInUrlbar.label "Mos e Shfaq në Shtyllë Adresash">
 <!ENTITY pageAction.manageExtension.label "Administroni Zgjerime…">

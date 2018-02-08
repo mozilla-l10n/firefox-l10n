@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Të dhëna rreth url-classifier">
+<!ENTITY aboutUrlClassifier.title                       "Të dhëna Klasifikuesi URL-je">
 <!ENTITY aboutUrlClassifier.providerTitle               "Furnizues">
 <!ENTITY aboutUrlClassifier.provider                    "Furnizues">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Koha e përditësimit të fundit">

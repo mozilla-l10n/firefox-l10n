@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Mbrojtje Nga Gjurmimet">
 <!ENTITY  trackingProtection2.description      "Gjurmimi është grumbullimi i të dhënave tuaja të shfletimit nëpër sajte të shumtë. Gjurmimi mund të përdoret për të krijuar një profil tuajin dhe për t&apos;ju shfaqur lëndë bazuar në të dhënat tuaja personale dhe të shfletimit.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Përdore Mbrojtjen Nga Gjurmimet për bllokim të gjurmuesve të ditur">
+<!ENTITY  trackingProtection3.description      "Mbrojtja Nga Gjurmimet bllokon gjurmues internetorë që grumbullojnë të dhëna shfletimi tuajat nëpër shumë sajte.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Përdore Mbrojtjen Nga Gjurmimet për bllokim gjurmuesish të ditur">
 <!ENTITY  trackingProtectionAlways.label       "Përherë">
 <!ENTITY  trackingProtectionAlways.accesskey   "h">
 <!ENTITY  trackingProtectionPrivate.label      "Vetëm në dritare private">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Kurrë">
 <!ENTITY  trackingProtectionNever.accesskey    "u">
 <!ENTITY  trackingProtectionLearnMore.label    "Mësoni më tepër">
+<!ENTITY  trackingProtectionLearnMore2.label    "Mësoni më tepër rreth Mbrojtjes Nga Gjurmimet dhe privatësisë tuaj">
 <!ENTITY  trackingProtectionExceptions.label   "Përjashtime…">
 <!ENTITY  trackingProtectionExceptions.accesskey "a">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Përdore Mbrojtjen Nga Gjurmimet në Dritare Private">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Përdore Mbrojtjen Nga Gjurmimet gjatë Shfletimesh Private për bllokim të gjurmuesve të ditur">
