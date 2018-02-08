@@ -9,6 +9,10 @@
 
 <!ENTITY question.label "¿La kan nawajo' nak'ëx ri rutzijol rik'in jun cholan tzij majun rub'anikil o nitaq pa HTML jantäq?">
 
+<!ENTITY plainTextAndHtml.label "Titaq achi'el Cholan tzij ri majun rub'anikil chuqa' HTML">
+<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.label "Titaq Xa Xe pa Cholan tzij Majun Rub'anikil">
+<!ENTITY plainTextOnly.accesskey "R">
 <!ENTITY htmlOnly.label "Titaq pa HTML Xa Xe">
 <!ENTITY htmlOnly.accesskey "H">
 
