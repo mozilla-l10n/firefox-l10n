@@ -145,8 +145,8 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Lenga">
-<!ENTITY pref_category_language_summary "Cambiar la lenga de vòstre navigador">
-<!ENTITY pref_browser_locale "Lenga del navigador">
+<!ENTITY pref_category_language_summary "Cambiar la lenga de vòstre navegador">
+<!ENTITY pref_browser_locale "Lenga del navegador">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -425,7 +425,7 @@
 <!ENTITY datareporting_abouthr_title "Afichar mon rapòrt de santat">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Manda d’informacions sus las performàncias, lo material, l’utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navigador mai estable e securizat">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; manda de rapòrts de plantatge per ajudar &vendorShortName; a rendre vòstre navegador mai estable e securizat">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportador de plantatge">
