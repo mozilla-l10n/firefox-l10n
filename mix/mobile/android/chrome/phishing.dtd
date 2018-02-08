@@ -21,3 +21,4 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Página web yo'o nu <span id='unwanted_sitename'/> ni ka tu'una ña vay cha ma kuu nuni.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Sitio yoo ku ra vai yee malware nui">
