@@ -190,7 +190,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Nome do bate-papo">
 <!ENTITY ChatName.accesskey                             "B">
-<!ENTITY Company.label                                  "Empresa">
+<!ENTITY Company.label                                  "Organização">
 <!ENTITY Company.accesskey                              "m">
 <!ENTITY NickName.label                                 "Apelido">
 <!ENTITY NickName.accesskey                             "A">
