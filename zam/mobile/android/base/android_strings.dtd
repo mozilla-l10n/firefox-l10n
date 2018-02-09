@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Padiux">
-
-<!ENTITY firstrun_urlbar_message "¡Brít lèɁn &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "KwàɁn kó lì ché.">
+<!ENTITY firstrun_panel_title_privacy "Ngyé-n cho wiɁ">
 <!ENTITY firstrun_bookmarks_title "Lô góš">
 <!ENTITY firstrun_bookmarks_message "Ko do lash lu">
 <!ENTITY firstrun_bookmarks_subtext "WiɁ lô góš.">
@@ -13,8 +11,6 @@
 <!ENTITY firstrun_data_message "Lút, nog gá">
 <!ENTITY firstrun_data_subtext2 "Tog mbol xha lí chel sní.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, dú chol">
-<!ENTITY firstrun_sync_subtext "Lí nalí ngetlu, dizh, plo.">
 <!ENTITY firstrun_signin_message "Gú, tòlô">
 <!ENTITY firstrun_signin_button "Gú lèɁn Sync">
 <!ENTITY  onboard_start_button_browser "Tòlô kwàɁn">
@@ -201,8 +197,6 @@
 <!ENTITY pref_category_advanced_summary3 "Bí~rè ré-tá lô (lawo), bló sóg gá, tús kúe Yíʔb (kiʔkwa)">
 <!ENTITY pref_category_notifications "WiɁ">
 <!ENTITY pref_category_notifications_summary "Ko kub, lí kub">
-<!ENTITY pref_content_notifications "Ko kub">
-<!ENTITY pref_content_notifications_summary2 "WiɁ ko kub xó lent tree">
 <!ENTITY pref_developer_remotedebugging_usb "Tob bíy loo USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Tob bíy loo Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "This lash lu toob ki Wifinakin li ché thib yíʔb lab QR.">
@@ -268,7 +262,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "De lá letr thís xal loo reé">
 
 <!ENTITY pref_tracking_protection_title2 "Kenap ná">
-<!ENTITY pref_tracking_protection_summary3 "Tob kí ko lut ta níe">
 <!ENTITY pref_donottrack_title "Loo xhog ná">
 <!ENTITY pref_donottrack_summary "&brandShortName; gab loo rés, na last de kel xisná">
 
@@ -286,8 +279,7 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Tùs kùe lô">
-<!ENTITY pref_custom_tabs_summary3 "Lá apps sá mb-šàlɁ lá tùs kùe version ná &brandShortName;">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Mb-šàlɁ=lá lenɁ &formatS;">
@@ -328,23 +320,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "This lash lú xal plo \&quot;nêt (n̆eza)\&quot;, nakin tob kí \&quot;mke mbol lô yíʔb\&quot; loo &brandShortName;">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; gok kub">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Thus kuey">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Lab nál">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Li kub &formatS;">
-
 <!ENTITY pref_char_encoding "Loo yets dedizh">
 <!ENTITY pref_char_encoding_on "Blo ko xó">
 <!ENTITY pref_char_encoding_off "Na lot ko xó">
@@ -353,7 +328,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Tob biy">
 <!ENTITY pref_clear_on_exit_title3 "Tó bí dizh na lú">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; tob bi re chan lú \u0022Quit\u0022 b-šèn teɁ-tè">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; tob bi re chan lú \&quot;Quit\&quot; b-šèn teɁ-tè">
 <!ENTITY pref_clear_on_exit_dialog_title "b-šèn dizh ko tòmbî">
 <!ENTITY pref_restore_tabs "Bí~rè tób lô (lawo)">
 <!ENTITY pref_restore_always "Na tog luy">
@@ -492,7 +467,6 @@
 <!ENTITY contextmenu_open_new_tab "Mb-šàlɁ lô (lawo) kúb">
 <!ENTITY contextmenu_open_private_tab "Mb-šàlɁ lô (lawo) kúb">
 <!ENTITY contextmenu_remove "Kib">
-<!ENTITY contextmenu_add_to_launcher "M-tòb lô yíʔb ná lú">
 <!ENTITY contextmenu_set_as_homepage "M-tòb lìz (leNtyeN) lú">
 <!ENTITY contextmenu_share "Tă~làz">
 <!ENTITY contextmenu_pasteandgo "Mkey ner mtal l">
@@ -504,7 +478,13 @@
 <!ENTITY contextmenu_top_sites_edit "Thus kuey">
 <!ENTITY contextmenu_top_sites_pin "Tob kue">
 <!ENTITY contextmenu_top_sites_unpin "Bla kue">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "M-tòb lo ko kwàɁn~lú">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -813,7 +793,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; deyak kub">
 <!ENTITY whatsnew_notification_summary "KwàɁn kó kûb (kkoykwi)">
 
-<!ENTITY promotion_add_to_homescreen "M-tòb lô yíʔb">
 
 <!ENTITY helper_first_offline_bookmark_title "Lab na yu ya">
 <!ENTITY helper_first_offline_bookmark_message "wiɁ lô Reader View lent ko do lash lú, tak lí lí this yent sní.">
@@ -824,7 +803,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "M-tòb lent ndó~làz=ná">
 
 <!ENTITY activity_stream_topsites "Ko wiɁ=l">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "Blöy">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -832,16 +814,21 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ko wiɁn">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Bla=ay">
 <!ENTITY activity_stream_delete_history "Tòmbî lô góš">
-
-<!ENTITY activity_stream_welcome_title "Bésta died lú lenɁ ko ndó~láz=lú">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\u0027ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
 
 <!ENTITY private_tab_panel_title "Yént chó níe pá mdúl ner kúan dé líl">
 <!ENTITY private_tab_panel_description "&brandShortName; bloquea ciertas secciones de las páginas que pueden rastrear tu navegación.">
 <!ENTITY private_tab_learn_more "¿Lásh lô bé kúe?">
+
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
