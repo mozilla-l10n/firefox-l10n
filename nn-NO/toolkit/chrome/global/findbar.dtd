@@ -11,9 +11,9 @@
 <!ENTITY highlightAll.label "Marker alt">
 <!ENTITY highlightAll.accesskey "M">
 <!ENTITY highlightAll.tooltiptext "Marker alle funn av teksten">
-<!ENTITY caseSensitive.label "Skil mellom store/små bokstavar">
+<!ENTITY caseSensitive.label "Skil mellom store og små bokstavar">
 <!ENTITY caseSensitive.accesskey "k">
-<!ENTITY caseSensitive.tooltiptext "Skil mellom store/små bokstavar i søket">
+<!ENTITY caseSensitive.tooltiptext "Skil mellom store og små bokstavar i søket">
 <!ENTITY entireWord.label "Heile ord">
 <!ENTITY entireWord.accesskey "H">
 <!ENTITY entireWord.tooltiptext "Søk berre etter heile ord">
