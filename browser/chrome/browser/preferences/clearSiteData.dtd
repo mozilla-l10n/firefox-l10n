@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Rimozione dei dati">
+<!ENTITY window.title "Eliminazione dei dati">
 <!ENTITY window.width "40em">
 <!ENTITY window.description "L’eliminazione di cookie e dati dei siti web salvati da &brandShortName; potrebbe disconnettere l’utente da siti web o rimuovere contenuti per l’utilizzo non in linea. La rimozione della cache non ha alcun effetto sugli accessi effettuati.">
 <!ENTITY windowClose.key "r">
