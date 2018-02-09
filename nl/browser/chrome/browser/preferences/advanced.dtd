@@ -46,6 +46,8 @@ available. -->
 <!ENTITY networkProxy.label              "Netwerkproxy">
 
 <!ENTITY connectionDesc.label            "Configureren hoe &brandShortName; verbinding maakt met het internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Meer info">
 <!ENTITY connectionSettings.label        "Instellingen…">
 <!ENTITY connectionSettings.accesskey    "I">
 
