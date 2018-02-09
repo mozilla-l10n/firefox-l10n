@@ -273,7 +273,7 @@
 
 <!ENTITY pref_tracking_protection_title2 "Protecție față de urmărire">
 <!ENTITY pref_donottrack_title "Nu mă urmări">
-<!ENTITY pref_donottrack_summary "&brandShortName; va spune site-urilor că nu dorești să fii urmărit">
+<!ENTITY pref_donottrack_summary "&brandShortName; va spune site-urilor că nu vrei să fii urmărit">
 
 <!ENTITY pref_tracking_protection_enabled "Activată">
 <!ENTITY pref_tracking_protection_enabled_pb "Activată în navigarea privată">
@@ -588,7 +588,7 @@
 <!ENTITY home_synced_devices_one "1 dispozitiv">
 <!ENTITY home_history_back_to2 "Înapoi la istoricul complet">
 <!ENTITY home_clear_history_button "Șterge istoricul de navigare">
-<!ENTITY home_clear_history_confirm "Sigur dorești să ștergi istoricul?">
+<!ENTITY home_clear_history_confirm "Sigur vrei să ștergi istoricul?">
 <!ENTITY home_bookmarks_empty "Marcajele pe care le salvezi apar aici.">
 <!ENTITY home_closed_tabs_title2 "Închise recent">
 <!ENTITY home_last_tabs_empty "Filele tale recente apar aici.">
@@ -759,7 +759,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "Acest link se va deschide în &formatS;. Sigur dorești să ieși din navigarea privată?">
+<!ENTITY intent_uri_private_browsing_prompt "Acest link se va deschide în &formatS;. Sigur vrei să ieși din navigarea privată?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -856,7 +856,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_title "Navigare privată + protecție față de urmărire">
 <!ENTITY private_tab_panel_description "&brandShortName; blochează părți ale paginii care îți pot urmări activitatea de navigare.">
 <!ENTITY private_tab_panel_description2 "Nu vom reține istoricul, însă fișierele descărcate și marcajele noi vor fi în continuare salvate pe dispozitiv.">
-<!ENTITY private_tab_learn_more "Dorești să afli mai multe?">
+<!ENTITY private_tab_learn_more "Vrei să afli mai multe?">
 
 <!ENTITY fullscreen_warning "Intrat în modul ecran complet">
 
