@@ -21,8 +21,6 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings2.label     "Când închid &brandShortName;, ar trebui să curețe automat:">
-
 <!ENTITY clearDataSettings3.label     "Când închid &brandShortName;, ar trebui să curețe automat totul">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
@@ -66,4 +64,4 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-<!ENTITY sanitizeEverythingUndoWarning     "Această acțiune este ireversibilă.">
+<!ENTITY sanitizeEverythingUndoWarning     "Această acțiune nu este reversibilă.">
