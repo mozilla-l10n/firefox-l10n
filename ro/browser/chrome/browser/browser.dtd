@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ai blocat microfonul pentru acest site web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ai blocat acest site web să îți partajeze ecranul.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ai blocat informațiile privind locația pentru acest site web.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ai blocat stocarea de date pentru acest site web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ai blocat stocarea persistentă de date pentru acest site web.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Ai blocat ferestrele pop-up pentru acest site.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ai blocat extragerea de date canvas pentru acest site.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Fereastră privată nouă">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "Fereastră non e10s nouă">
 
 <!ENTITY editMenu.label         "Editare">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Afișează tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personalizare">
-<!ENTITY appMenuCustomize.tooltip "Personalizează meniul și bara de instrumente">
-<!ENTITY appMenuCustomizeExit.label "Ieși din personalizare">
-<!ENTITY appMenuCustomizeExit.tooltip "Finalizează personalizarea">
-
 <!ENTITY appMenuHistory.showAll.label "Afișează tot istoricul">
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restabilește sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
 <!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
 <!ENTITY appMenuHelp.label "Ajutor">
-<!ENTITY appMenuHelp.tooltip "Deschide meniul Ajutor">
 
 <!ENTITY appMenuRemoteTabs.label "File sincronizate">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -390,7 +381,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Nicio filă sincronizată…încă!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Dorești să vezi filele de pe celelalte dispozitive aici?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Vrei să vezi filele de pe celelalte dispozitive aici?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferințe de sincronizare">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Contul tău trebuie verificat.">
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensie:">
 <!ENTITY urlbar.switchToTab.label     "Schimbă la fila:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Dorești să îți îmbunătățești experiența de căutare cu sugestii?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Află mai multe…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nu">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Da">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Pont:">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stilul paginii de bază">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Modifică setările de blocare a ferestrelor pop-up pentru acest site web">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -817,7 +798,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "File sincronizate">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Autentifică-te în Firefox de pe alte dispozitive pentru a vedea filele lor aici.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nicio filă sincronizată…încă!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Dorești să vezi filele de pe celelalte dispozitive aici?">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Vrei să vezi filele de pe celelalte dispozitive aici?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Contul tău trebuie verificat.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nicio filă deschisă">
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sincronizare">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Trage elementele favorite în bara de instrumente sau în meniul excedentar.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Dorești mai multe instrumente?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Alege din mii de suplimente">
 <!ENTITY customizeMode.restoreDefaults "Restabilește valorile implicite">
 <!ENTITY customizeMode.done "Terminat">
 <!ENTITY customizeMode.titlebar "Bara de titlu">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obține mai multe teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
-<!ENTITY customizeMode.emptyOverflowList.description "Trage și plasează elementele aici pentru a le păstra la îndemână, însă în afara barei de instrumente…">
 <!ENTITY customizeMode.overflowList.title2 "Meniu excedentar">
 <!ENTITY customizeMode.overflowList.description "Trage și plasează elementele aici pentru a le păstra la îndemână, însă în afara barei de instrumente…">
 <!ENTITY customizeMode.uidensity "Densitate">
@@ -962,7 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Se închid toate <html:strong>filele</html:strong> și <html:strong>ferestrele</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Se deschide o nouă fereastră goală">
 
-<!ENTITY panicButton.view.undoWarning             "Această acțiune este ireversibilă.">
+<!ENTITY panicButton.view.undoWarning             "Această acțiune nu este reversibilă.">
 <!ENTITY panicButton.view.forgetButton            "Uită!">
 
 <!ENTITY panicButton.thankyou.msg1                "Istoricul tău recent a fost șters.">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Acțiuni pentru pagină">
 <!ENTITY pageAction.addToUrlbar.label "Adaugă la bara de adresă">
 <!ENTITY pageAction.removeFromUrlbar.label "Elimină din bara de adresă">
-
 <!ENTITY pageAction.allowInUrlbar.label "Arată în bara de adrese">
 <!ENTITY pageAction.disallowInUrlbar.label "Nu arăta în bara de adrese">
 <!ENTITY pageAction.manageExtension.label "Gestionează extensia…">
