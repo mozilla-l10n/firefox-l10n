@@ -20,7 +20,7 @@
 
 <!ENTITY  paneSearchResults.title       "Výsledky hledání">
 <!ENTITY  paneGeneral.title             "Obecné">
-<!ENTITY  paneSearch.title              "Hledání">
+<!ENTITY  paneSearch.title              "Vyhledávání">
 <!ENTITY  paneFilesApplications.title   "Soubory a aplikace">
 <!ENTITY  panePrivacySecurity.title     "Soukromí a zabezpečení">
 <!ENTITY  paneContainers.title          "Kontejnerové panely">

@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchBar.label                       "Pole hledání">
+<!ENTITY searchBar.label                       "Vyhledávací pole">
 
-<!ENTITY searchBar.hidden.label                "Použít adresní řádek pro navigaci i hledání">
-<!ENTITY searchBar.shown.label                 "Přidat na lištu pole hledání">
+<!ENTITY searchBar.hidden.label                "Použít adresní řádek pro navigaci i vyhledávání">
+<!ENTITY searchBar.shown.label                 "Přidat na lištu vyhledávací pole">
 
 <!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
      describes what the user will observe when the system prioritizes search
@@ -16,7 +16,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Výchozí vyhledávací modul">
 
-<!ENTITY chooseYourDefaultSearchEngine2.label   "Vyberte výchozí vyhledávač pro hledání z adresního řádku nebo pole hledání.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Vyberte výchozí vyhledávač pro hledání z adresního řádku nebo vyhledávacího pole.">
 
 <!ENTITY provideSearchSuggestions.label        "Našeptávat návrhy hledání">
 <!ENTITY provideSearchSuggestions.accesskey    "n">
@@ -27,7 +27,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Vyhledávání jedním klepnutím">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a pole hledání.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a vyhledávacího pole.">
 
 <!ENTITY engineNameColumn.label                "Vyhledávací modul">
 <!ENTITY engineKeywordColumn.label             "Klíčové slovo">
