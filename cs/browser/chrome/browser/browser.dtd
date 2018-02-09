@@ -430,7 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Více">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Hledat nebo vložit adresu">
+<!ENTITY urlbar.placeholder2          "Zadejte adresu nebo vyhledávání">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšíření:">
@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
-<!ENTITY searchInput.placeholder      "Hledat">
-<!ENTITY searchIcon.tooltip           "Hledat">
+<!ENTITY searchInput.placeholder      "Vyhledat">
+<!ENTITY searchIcon.tooltip           "Vyhledat">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
