@@ -101,7 +101,7 @@ available. -->
 <!ENTITY updateHistory2.label            "Mostrar histórico de atualizações…">
 <!ENTITY updateHistory2.accesskey        "p">
 
-<!ENTITY useService.label                "Usar um serviço para instalar atualizações em segundo plano">
+<!ENTITY useService.label                "Use um serviço para instalar atualizações em segundo plano">
 <!ENTITY useService.accesskey            "s">
 
 <!ENTITY enableSearchUpdate2.label       "Atualize automaticamente os mecanismos de pesquisa">
