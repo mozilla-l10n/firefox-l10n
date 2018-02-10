@@ -9,5 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Aplică întotdeauna Nu urmări">
 <!ENTITY doNotTrackCheckbox2.accesskey "a">
 
-<!ENTITY doNotTrackTPInfo.description "&brandShortName; va trimite un semnal prin care nu dorești să fii urmărit ori de câte ori protecția față de urmărire este activată.">
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; va trimite un semnal prin care nu vrei să fii urmărit ori de câte ori protecția față de urmărire este activată.">
 <!ENTITY doNotTrackLearnMore.label    "Află mai multe">
