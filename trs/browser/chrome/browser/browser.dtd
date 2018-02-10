@@ -25,6 +25,7 @@
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Girì' a'ngo rakïj ma">
 <!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -50,18 +51,26 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Ga'nïnj enlâse riña Aga'">
 <!ENTITY  sendLinkToDevice.accesskey         "A">
 <!ENTITY  sendToDeviceFeedback.label         "¡Nga gan'an!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Sa 'na'a (nitaj konexión hua)">
 <!ENTITY  moveToNewWindow.label              "Dusiki' 'ngo Bendâna">
 <!ENTITY  moveToNewWindow.accesskey          "B">
+<!ENTITY  bookmarkAllTabs.label              "Nuto' a'ngo rakïj ñanj...">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "Tanikaj ñûn' rakïj ñanj">
 <!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "Ganarán riñanj">
 <!ENTITY  closeTab.accesskey                 "c">
 
+<!ENTITY  listAllTabs.label      "Ni'io' nej rakïj ñanj hua ni'ninj">
 
+<!ENTITY tabCmd.label "Rakïj ñanj nakàa">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Na'ni' riña nu ma...">
+<!ENTITY openFileCmd.label "Na'nïn' chrûn ñanj...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.accesskey "u">
@@ -154,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Gi'iaj blokeandot nej pop-ups guenda sitio web na.">
 
 
@@ -207,7 +215,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
@@ -238,7 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
@@ -332,7 +338,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -408,7 +413,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
 
 
 
