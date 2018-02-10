@@ -5,6 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "Ochrana pred sledovaním">
 <!ENTITY  trackingProtection2.description      "Sledovanie je zhromažďovanie údajov o vašom prehliadaní na rôznych stránkach. Môže byť použité na vytvorenie profilu a zobrazovanie obsahu alebo reklám na základe vašich osobných údajov.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Blokovať sledovacie prvky pomocou Ochrany pred sledovaním">
+<!ENTITY  trackingProtection3.description      "Ochrana pred sledovaním blokuje sledovacie prvky, ktoré o vás zbierajú údaje naprieč webovými stránkami.">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
 <!ENTITY  trackingProtectionPrivate.label      "Len v súkromných oknách">
@@ -15,10 +16,7 @@
 <!ENTITY  trackingProtectionExceptions.label   "Výnimky…">
 <!ENTITY  trackingProtectionExceptions.accesskey "m">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Používať Ochranu pred sledovaním v režime Súkromné prehliadanie">
-<!ENTITY trackingProtectionPBM5.accesskey     "c">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Používať Ochranu pred sledovaním na blokovanie sledovacích prvkov v režime Súkromné prehliadanie">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ďalšie informácie">
