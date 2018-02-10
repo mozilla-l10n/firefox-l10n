@@ -8,6 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Digeriñ un ivinell nevez e-lec'h ur prenestr nevez">
 <!ENTITY newWindowsAsTabs.accesskey   "D">
 
+<!ENTITY newWindowsAsTabs3.label       "Digeriñ an ereoù e ivinelloù kentoc'h eget e prenestroù nevez">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Kas keloù din pa vez serret meur a ivinell war un taol">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "K">
 

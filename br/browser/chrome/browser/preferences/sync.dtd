@@ -61,18 +61,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "En em zilesait evit adkennaskañ">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "N'oc'h ket kennasket">
-<!ENTITY signIn.label                "Kennaskañ">
-<!ENTITY signIn.accesskey            "a">
-<!ENTITY profilePicture.tooltip      "Kemmañ ar skeudenn aelad">
-<!ENTITY verifiedManage.label        "Ardeiñ ar gont">
-<!ENTITY verifiedManage.accesskey    "A">
-<!ENTITY disconnect3.label           "Digennaskañ…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "N'oc'h ket kennasket">
+<!ENTITY signIn.label                 "Kennaskañ">
+<!ENTITY signIn.accesskey             "a">
+<!ENTITY profilePicture.tooltip       "Kemmañ ar skeudenn aelad">
+<!ENTITY verifiedManage.label         "Ardeiñ ar gont">
+<!ENTITY verifiedManage.accesskey     "A">
+<!ENTITY disconnect3.label            "Digennaskañ…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "Gwiriañ ar chomlec'h postel">
 <!ENTITY verify.accesskey            "w">
 <!ENTITY forget.label                "Ankouaat ar chomlec'h postel-mañ">
 <!ENTITY forget.accesskey            "p">
+
+<!ENTITY resendVerification.label     "Adkas ar gwiriadur">
+<!ENTITY resendVerification.accesskey "g">
+<!ENTITY cancelSetup.label            "Nulañ ar staliadur">
+<!ENTITY cancelSetup.accesskey        "s">
 
 <!ENTITY signedOut.caption            "Kemerit ho web ganeoc'h">
 <!ENTITY signedOut.description        "Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha gwellvezioù dre veur a urzhiataer pe trevnad.">
@@ -100,3 +105,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " evit goubredañ gant ho trevnad hezoug.">
+
+<!ENTITY mobilepromo.singledevice      "Kennaskañ un trevnad all">
+<!ENTITY mobilepromo.multidevice       "Merañ an trevnadoù">

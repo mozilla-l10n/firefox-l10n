@@ -5,6 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "Gwarez heuliañ">
 <!ENTITY  trackingProtection2.description      "An heuliañ a zo dastumadeg ho roadennoù merdeiñ e-touez meur a lec'hienn. An heuliañ a c'hall bezañ implijet evit sevel un aelad ha skrammañ endalc'hadoù diazezet war ho merdeiñ hag ho titouroù personel.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Arverañ ar gwarez heuliañ evit stankañ heulierien anavezet">
+<!ENTITY  trackingProtection3.description      "Ar gwarez heuliañ a stank an heulierien enlinenn a zastum ho roadennoù merdeiñ war meur a lec'hienn.">
 <!ENTITY  trackingProtectionAlways.label       "Atav">
 <!ENTITY  trackingProtectionAlways.accesskey   "t">
 <!ENTITY  trackingProtectionPrivate.label      "Er prenestroù prevez hepken">
@@ -15,10 +16,7 @@
 <!ENTITY  trackingProtectionExceptions.label   "Nemedennoù…">
 <!ENTITY  trackingProtectionExceptions.accesskey "N">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Arverañ ar gwarez heuliañ er prenestroù prevez">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Arverañ ar gwarez heuliañ er merdeiñ prevez evit stankañ an heulierien anavezet">
 <!ENTITY trackingProtectionPBM6.accesskey     "A">
 <!ENTITY trackingProtectionPBMLearnMore.label "Gouzout hiroc'h">
