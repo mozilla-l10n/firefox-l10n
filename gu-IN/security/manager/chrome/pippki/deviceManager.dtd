@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "બ્રાઉઝ કરો...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "ઉપકરણ-ચાલક PKCS#11 લોડ કરો">

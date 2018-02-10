@@ -42,9 +42,15 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "RCWN આંકડા">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN સ્થિતિ">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "કેશ ગણતરી જીતી">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "નેટ ગણતરી જીતી">
 <!ENTITY aboutNetworking.totalNetworkRequests  "કુલ નેટવર્ક વિનંતિ ગણતરી">
+<!ENTITY aboutNetworking.rcwnOperation         "કેશ ઓપરેશન">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "ખોલો">
 <!ENTITY aboutNetworking.rcwnPerfRead          "વાંચો">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "લખો">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "પ્રવેશ ખોલો">
 <!ENTITY aboutNetworking.rcwnAvgShort          "લઘુ સરેરાશ">
 <!ENTITY aboutNetworking.rcwnAvgLong           "લાંબુ સરેરાશ">
+<!ENTITY aboutNetworking.rcwnStddevLong        "લાંબા ધોરણ વિચલન">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "કેશ ધીમી ગણતરી">
