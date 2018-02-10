@@ -45,6 +45,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "કાર્યક્રમ મૂળભૂતો">
 <!ENTITY aboutSupport.appBasicsName "નામ">
 <!ENTITY aboutSupport.appBasicsVersion "આવૃત્તિ">
+<!ENTITY aboutSupport.appBasicsBuildID "બિલ્ડ ID">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
@@ -117,6 +118,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ક્લિપબોર્ડમાં કાચી માહિતીની નકલ કરો">
 
 <!ENTITY aboutSupport.sandboxTitle "સેન્ડબોક્સ">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "રદ કરેલ સિસ્ટમ કૉલ્સ">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "સેકંડ પહેલા">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
@@ -143,6 +145,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDevicePreferred "પસંદ">
 <!ENTITY aboutSupport.mediaDeviceFormat "બંધારણ">
 <!ENTITY aboutSupport.mediaDeviceChannels "ચેનલ્સ">
+<!ENTITY aboutSupport.mediaDeviceRate "દર">
 
 <!ENTITY aboutSupport.intlAppTitle "એપ્લિકેશનની સેટિંગ્સ">
 <!ENTITY aboutSupport.intlLocalesRequested "વિનંતી કરેલ લૉકેલ્સ">
