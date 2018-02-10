@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Δεν είναι δυνατή η κοινή χρήση αυτής της εικόνας">
 <!ENTITY save_as_pdf "Αποθήκευση ως PDF">
 <!ENTITY print "Εκτύπωση">
+<!ENTITY view_page_source "Προβολή πηγής σελίδας">
 <!ENTITY find_in_page "Εύρεση στη σελίδα">
 <!ENTITY desktop_mode "Εμφάν. σελίδας desktop">
 <!ENTITY page "Σελίδα">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY contextmenu_open_private_tab "Άνοιγμα σε ιδιωτική καρτέλα">
 <!ENTITY contextmenu_remove "Αφαίρεση">
-<!ENTITY contextmenu_add_to_launcher "Προσθήκη στην αρχική οθόνη">
 <!ENTITY contextmenu_add_page_shortcut "Προσθήκη συντόμευσης σελίδας">
 <!ENTITY contextmenu_set_as_homepage "Ορισμός ως αρχική σελίδα">
 <!ENTITY contextmenu_share "Κοινή χρήση">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Η σελίδα αφαιρέθηκε">
-
 <!ENTITY folder_removed "Ο φάκελος αφαιρέθηκε">
 
 <!ENTITY bookmark_edit_title "Επεξεργασία σελιδοδείκτη">
@@ -821,8 +820,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Ο &brandShortName; είναι ενημερωμένος">
 <!ENTITY whatsnew_notification_summary "Μάθετε τι νέο υπάρχει σε αυτή την έκδοση">
-
-<!ENTITY promotion_add_to_homescreen "Προσθήκη στην αρχική οθόνη">
 
 <!ENTITY promotion_add_page_shortcut "Προσθήκη συντόμευσης σελίδας">
 
