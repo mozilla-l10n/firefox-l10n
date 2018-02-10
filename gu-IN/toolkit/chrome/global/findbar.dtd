@@ -15,3 +15,4 @@
 <!ENTITY caseSensitive.tooltiptext "કેસ સંવેદનશીલતાથી શોધો">
 <!ENTITY entireWord.label "આખા શબ્દો">
 <!ENTITY entireWord.accesskey "w">
+<!ENTITY entireWord.tooltiptext "ફક્ત સંપૂર્ણ શબ્દો શોધો">
