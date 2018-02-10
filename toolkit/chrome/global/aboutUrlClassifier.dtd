@@ -3,11 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Url-classifier વિશેની માહિતી">
+<!ENTITY aboutUrlClassifier.title                       "URL ક્લાસિફાયર માહિતી">
+<!ENTITY aboutUrlClassifier.providerTitle               "પ્રદાતા">
+<!ENTITY aboutUrlClassifier.provider                    "પ્રદાતા">
 <!ENTITY aboutUrlClassifier.providerBackOffTime         "બેક-ઑફ સમય">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "કેશ">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "તાજું કરો">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "સાફ કરો">
 <!ENTITY aboutUrlClassifier.cacheTableName              "કોષ્ટક નામ">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "નકારાત્મક કેશ પ્રવેશોની સંખ્યા">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "હકારાત્મક કેશ પ્રવેશોની સંખ્યા">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "પ્રવેશો બતાવો">
+<!ENTITY aboutUrlClassifier.cacheEntries                "કેશ પ્રવેશો">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "ઉપસર્ગ">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "નકારાત્મક કેશ સમાપ્તિ">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "સંપૂર્ણ હેશ">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "હકારાત્મક કેશ સમાપ્તિ">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ડિબગ">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "લોગ મોડ્યુલ સેટ કરો">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "લોગ ફાઇલ સેટ કરો">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "JS લોગ સેટ કરો">
+<!ENTITY aboutUrlClassifier.debugModules                "વર્તમાન લોગ મોડ્યુલો">
+<!ENTITY aboutUrlClassifier.debugFile                   "વર્તમાન લોગ ફાઈલ">
