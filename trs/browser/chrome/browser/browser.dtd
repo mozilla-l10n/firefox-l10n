@@ -73,22 +73,32 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Na'nïn' chrûn ñanj...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Naduna daj gà riña Pâjina">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Dàj ga man si narit ñadu'ua">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Nari' ña du'ua">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY goOfflineCmd.label "Gi'iaj sun nùnj si nitaj koneksiôn hua">
 <!ENTITY goOfflineCmd.accesskey "k">
 
+<!ENTITY menubarCmd.label "Riña ma sa raj sun'">
 <!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "Dukuán ma sa garasun' da' gache nu'">
+<!ENTITY personalbarCmd.label "Riñan man sa gara sun'">
 <!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "Dukuán màn sa garasun' ngà nej markador">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Nagi'iaj nakà daran' nej rakïj ñaj">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Nuto' a'ngo rakïj ñanj...">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Tanikaj ñûn' rakïj ñanj">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
+<!ENTITY pageSourceCmd.label "Si kodigo pagina">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
@@ -98,23 +108,36 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
+<!ENTITY pageInfoCmd.label "Rayi'ì pagina na">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Giri' a'ngo rakïj ñanj">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Nagi'iaj yachi' riña aga' sikà' ràa">
 <!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "Nagi'iaj lij riña aga' sikà' ràa">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.label "Nagi'iaj gachrò' riña aga' sikà' ràa">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Ni'io' daran' nej rakïj ñaj">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY fxaSignIn.label "Gayi'ì' sesión 'ngà &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Na'nïn' &syncBrand.shortName.label; preferences">
+<!ENTITY fxaSignInError.label "Gatu' 'ngà &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Natsîj si kuedât">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Nagi'iaj lij">
 <!ENTITY fullScreenRestore.tooltip "Dunaj daj rû' gaj">
+<!ENTITY fullScreenClose.tooltip "Narán">
+<!ENTITY fullScreenAutohide.label "Gachì hui' dukuán mà rasùun">
 <!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.label "Nagi'iaj lij riña aga' sikà' ràa">
 <!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -123,10 +146,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "'nga nahuin yachij riña aga' sikà ràa">
+<!ENTITY fullscreenWarning.generic.label "Ñaj na ni 'ngà nahuin yachij ma da'ua gè riña aga' na">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Nagi'iaj lij riña aga' sikà' ràa (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Nagi'iaj lij riña aga' sikà' ràa (esc)">
+<!ENTITY leaveDOMFullScreen.label "Nagi'iaj lij riña aga' sikà' ràa">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
