@@ -18,6 +18,9 @@
 <!ENTITY dnsNotFound.title "Man xilitäj ta ri k'uxasamaj">
 
 <!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Tanik'oj chi majun sachoj pa rub'i' ri yakb'äl achi'el rutz'ib'axik, achi'el chuqa' rokisaxik nimatz'ib'.</li>
+  <li>Tanik'oj we ri yakb'äl xsilöx el, xk'ex rub'i' o xyuj el.</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Xq'at rutz'etik ri yakb'äl">
 
@@ -32,8 +35,11 @@
 
 <!ENTITY notCached.title "Xk'is Ruq'ijul ri Wuj">
 
+<!ENTITY netOffline.title "Pa rub'eyal majun okem">
 
+<!ENTITY contentEncodingError.title "Sachoj pa rucholajil rupam">
 
+<!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
 
 <!ENTITY netReset.title "Tikirisan chik ri okem">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
