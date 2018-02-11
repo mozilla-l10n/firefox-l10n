@@ -209,6 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Na'nïn' riña ma nuguan' nahuin ro'ô'">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Na'nïn' riña nu sa achín ni'iaj">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Na'nïn' riña ma nugua'an da' ga'ni' sa ni'iaj nichro' doj">
 
 
 
