@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  generalTab.label            "Chijun">
+
 <!ENTITY  startupAction.label         "Toq &brandShortName; xtitikirisäx:">
 <!ENTITY  startupAction.accesskey     "x">
 
@@ -14,8 +16,19 @@ sentence. -->
 
 
 
+<!ENTITY  chatSound.label                     "Titzij jun k'oxom">
 <!ENTITY  play.label                          "Titzij">
 <!ENTITY  play.accesskey                      "T">
+<!ENTITY  customsound.label                   "Tokisäx re ruyakb'al k'oxom re'">
+<!ENTITY  customsound.accesskey               "T">
 <!ENTITY  browse.label                        "Tokik'amayin…">
 <!ENTITY  browse.accesskey                    "T">
 
+<!ENTITY messageStyleTab.title             "Taq Rub'anikil Tzijol">
+<!ENTITY messageStylePreview.label         "Nab'ey tzub'al:">
+<!ENTITY messageStyleTheme.label           "Wachinïk:">
+<!ENTITY messageStyleTheme.accesskey       "W">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleDarkTheme.label       "Q'equ'm">
+<!ENTITY messageStyleSimpleTheme.label     "Relik">
+<!ENTITY messageStyleDefaultTheme.label    "K'o wi">

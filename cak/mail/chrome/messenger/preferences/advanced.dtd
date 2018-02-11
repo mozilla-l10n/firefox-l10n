@@ -11,6 +11,8 @@
 <!-- General Settings -->
 <!ENTITY allowHWAccel.label            "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey        "c">
+<!ENTITY mboxStore2.label              "Yakb'äl chi yakwuj (mbox)">
+<!ENTITY maildirStore.label            "Jun yakb'äl chi rutzijol (maildir)">
 
 <!ENTITY useAutoScroll.label           "Tokisäx ruyonil rusiloxik">
 <!ENTITY useAutoScroll.accesskey       "T">
@@ -24,14 +26,18 @@
 <!ENTITY configEditDesc.label          "Q'axinäq Nuk'ulem">
 <!ENTITY configEdit.label              "Tib'an runuk'ulem ri Nuk'unel…">
 <!ENTITY configEdit.accesskey          "r">
+<!ENTITY showReturnReceipts.label      "Tzolin taq Wujil…">
+<!ENTITY showReturnReceipts.accesskey  "T">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Etataqonel">
+<!ENTITY telemetryDesc.label             "Takomonij ri na'oj pa ruwi' rub'eyal nisamäj, ri rokisaxik, ch'akulakem chuqa' richinaxik ruwinaqil taqoya'l rik'in &vendorShortName; richin chi ri &brandShortName; nel ütz">
 <!ENTITY enableTelemetry.label           "Titzij Telemetry">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Tetamäx Ch'aqa' Chik">
 
 <!ENTITY crashReporterSection.label      "Rutzijol Sachoj">
+<!ENTITY crashReporterDesc.label         "&brandShortName; yerutäq kitzijol taq sachoj richin nuto' &vendorShortName; chi nub'än jun raxinäq chuqa' ütz ruwinaqil ataqoya'l">
 <!ENTITY crashReporterLearnMore.label    "Tetamäx Ch'aqa' Chik">
 
 <!-- Update -->

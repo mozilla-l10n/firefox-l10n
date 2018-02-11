@@ -9,11 +9,13 @@
 <!ENTITY newsSectionHdr.label         "Rumolaj tzijol">
 
 <!ENTITY feedsSectionHdr.label        "Taq b'ey">
+<!ENTITY subscribeFeeds.label         "Kenuk'samajïx taq tz'ib'anïk b'i'aj">
 
 <!ENTITY chat.label                   "Chat">
 <!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Rub'i' taqoya'l">
+<!ENTITY subscribeImapFolders.label   "Kenuk'samajïx kiyakwuj taq tz'ib'anïk b'i'aj">
 <!ENTITY settingsLink.label           "Ketz'et taq runuk'ulem re rub'i' taqoya'l re'">
 <!ENTITY setupNewAcct.label           "Tib'an runuk'ulem jun rub'i' taqoya'l:">
 
