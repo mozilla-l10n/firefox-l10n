@@ -16,9 +16,20 @@
 <!ENTITY newMessage.accesskey "T">
 <!ENTITY newContact.label "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl…">
 <!ENTITY newContact.accesskey "K">
+<!ENTITY attachMenu.label "Titz'aqatisäx">
+<!ENTITY attachMenu.accesskey "x">
+<!ENTITY attachFileCmd.label "Yakb'äl(taq)…">
+<!ENTITY attachFileCmd.accesskey "Y">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ajk'amaya'l Ruxaq…">
 <!ENTITY attachPageCmd.accesskey "A">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Ichinan Pirt'im (vCard)">
+<!ENTITY attachVCardCmd.accesskey "I">
+<!ENTITY remindLater.label "Tinatäx pe Chwe pa Jumej">
+<!ENTITY remindLater.accesskey "J">
 <!ENTITY closeCmd.label "Titz'apïx">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "t">
