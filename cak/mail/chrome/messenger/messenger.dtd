@@ -660,7 +660,7 @@
 <!ENTITY attachmentColumn.label "Taq taqoj">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Kecha' taq che''el richin nik'ut">
+<!ENTITY columnChooser2.tooltip "Kecha' taq che'el richin nik'ut">
 <!ENTITY subjectColumn2.tooltip "Tinuk' chi taqikil">
 <!ENTITY dateColumn2.tooltip "Kenuk' chi q'ijul">
 <!ENTITY tagsColumn2.tooltip "Tinuk' chi taq retal">

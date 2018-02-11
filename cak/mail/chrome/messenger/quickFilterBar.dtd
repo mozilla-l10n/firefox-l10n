@@ -6,21 +6,29 @@
      The label  for the button on the tab bar that toggles the visibility of
      the quick filter bar.
      -->
+<!ENTITY quickFilterBar.qfbShowFilterBar.label
+         "Aninäq Chayub'äl">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label
+         "Kikajtz'ik Aninäq taq Chayub'äl">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
+         "K">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
      The label to display for the "App Menu... Preferences..." menu item that
      controls whether the quick filter bar is visible.
      -->
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
+         "Kikajtz'ik Aninäq taq Chayub'äl">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that

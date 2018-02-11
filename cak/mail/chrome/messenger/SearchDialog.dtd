@@ -32,8 +32,10 @@
 <!ENTITY deleteCardButton.accesskey  "y">
 
 <!-- Thread Pane -->
+<!ENTITY threadColumn.label "Tzijonem">
 <!ENTITY fromColumn.label "Richin">
 <!ENTITY recipientColumn.label "K'ulunel">
+<!ENTITY correspondentColumn.label "Ajtaqikil">
 <!ENTITY subjectColumn.label "Taqikil">
 <!ENTITY dateColumn.label "Q'ijul">
 <!ENTITY priorityColumn.label "Ya'on ruq'ij">
@@ -48,8 +50,16 @@
 <!ENTITY receivedColumn.label "K'ulun">
 <!ENTITY starredColumn.label "Ya'on ruq'ij">
 <!ENTITY locationColumn.label "K'ojlib'äl">
+<!ENTITY idColumn.label "Kicholajem K'uluj">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Kecha' taq che'el richin nik'ut">
+<!ENTITY subjectColumn2.tooltip "Tinuk' chi taqikil">
+<!ENTITY dateColumn2.tooltip "Kenuk' chi q'ijul">
+<!ENTITY priorityColumn2.tooltip "Tinuk' chi ya'on ruq'ij">
 <!ENTITY tagsColumn2.tooltip "Tinuk' chi taq retal">
+<!ENTITY accountColumn2.tooltip "Tinuk' chi rub'i' taqoya'l">
+<!ENTITY statusColumn2.tooltip "Tinuk' chi rub'anikil">
 <!ENTITY sizeColumn2.tooltip "Tinuk' chi nimilem">
+<!ENTITY junkStatusColumn2.tooltip "Tinuk' chi rub'anikil seq'">
 <!ENTITY locationColumn2.tooltip "Tinuk' chi k'ojlib'äl">
