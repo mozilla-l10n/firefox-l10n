@@ -199,12 +199,38 @@
 <!ENTITY sortByCorrespondentCmd.accesskey "q">
 <!ENTITY sortByUnreadCmd.label "Tisik'ïx">
 <!ENTITY sortByUnreadCmd.accesskey "s">
+<!ENTITY sortByOrderReceivedCmd.label "Kicholajem K'uluj">
+<!ENTITY sortByOrderReceivedCmd.accesskey "K">
+<!ENTITY sortAscending.label "Nijote'">
+<!ENTITY sortAscending.accesskey "N">
+<!ENTITY sortDescending.label "Niqa">
+<!ENTITY sortDescending.accesskey "N">
+<!ENTITY sortThreaded.label "Tzijon">
+<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortUnthreaded.label "Man Tzijon ta">
+<!ENTITY sortUnthreaded.accesskey "j">
+<!ENTITY groupBySort.label "Echolajin Pa Molaj">
+<!ENTITY groupBySort.accesskey "E">
 <!ENTITY msgsMenu.label "Taq tzijol">
 <!ENTITY msgsMenu.accesskey "t">
+<!ENTITY threads.label "Taq tzijonem">
+<!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Ronojel">
 <!ENTITY allMsgsCmd.accesskey "R">
+<!ENTITY expandAllThreadsCmd.label "Kerik' Konojel Taq Tzijonem">
+<!ENTITY expandAllThreadsCmd.accesskey "K">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Kek'ol Konojel Taq Tzijonem">
+<!ENTITY collapseAllThreadsCmd.accesskey "K">
+<!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Man sik'in ta">
 <!ENTITY unreadMsgsCmd.accesskey "M">
+<!ENTITY threadsWithUnreadCmd.label "Taq Tzijonem rik'in man Esik'in ta taq Rutzijol">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Taq Tzijonem Etz'eton rik'in man Esik'in ta taq Rutzijol">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "E">
+<!ENTITY ignoredThreadsCmd.label "Kerepüx Ch'ab'enïk">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "Taq jub'i'aj">
 <!ENTITY headersMenu.accesskey "j">
@@ -218,9 +244,13 @@
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Relik HTML">
 <!ENTITY bodySanitized.accesskey "R">
+<!ENTITY bodyAsPlaintext.label "Meb'anikil Rucholajem Tzij">
+<!ENTITY bodyAsPlaintext.accesskey "M">
 <!ENTITY bodyAllParts.label "Ronojel Kiperaj Chakul">
 <!ENTITY bodyAllParts.accesskey "R">
 
+<!ENTITY bodyMenuFeed.label "Ruch'akulal Rutzijol Tzuqunïk Achi'el">
+<!ENTITY bodyMenuFeed.accesskey "R">
 <!ENTITY viewFeedWebPage.label "Ajk'amaya'l Ruxaq">
 <!ENTITY viewFeedWebPage.accesskey "A">
 <!ENTITY viewFeedSummary.label "Ch'utitzijol">
@@ -228,6 +258,8 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "B'anikil kan k'o wi">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "B">
 
+<!ENTITY viewAttachmentsInlineCmd.label "Ketz'et Tz'aqatisan taq Taqoj">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "T">
 
 <!ENTITY pageSourceCmd.label "Ruxe'el Tzijol">
 <!ENTITY pageSourceCmd.accesskey "e">
@@ -264,6 +296,11 @@
 <!ENTITY nextUnreadMsgCmd.label "Man xsik'ïx ta Tzijol">
 <!ENTITY nextUnreadMsgCmd.accesskey "M">
 <!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "Rutzijol Ya'on Ruq'ij">
+<!ENTITY nextStarredMsgCmd.accesskey "Y">
+<!ENTITY nextUnreadThread.label "Tzijonem Man Sik'in ta">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Chuwäch">
 <!ENTITY prevMenu.accesskey "C">
 <!ENTITY prevMsgCmd.label "Tzijol">
@@ -280,10 +317,14 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd2.key "H">
+<!ENTITY prevStarredMsgCmd.label "Rutzijol Ya'on Ruq'ij">
+<!ENTITY prevStarredMsgCmd.accesskey "Y">
 <!ENTITY folderMenu.label "Yakwuj">
 <!ENTITY folderMenu.accesskey "O">
 <!ENTITY goRecentlyClosedTabs.label "Taq Ruwi' k'a b'a' Ketz'apïx">
 <!ENTITY goRecentlyClosedTabs.accesskey "k">
+<!ENTITY startPageCmd.label "Ruxaq Tikirib'äl">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Tzijol">
