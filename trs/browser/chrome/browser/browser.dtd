@@ -213,7 +213,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Dugumi' da' si gahui canvas ga'an">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Na'nïn' riña ma nigua' mahuin ro'ô' antaj si nitaj konesiôn">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Na'nïn' riña ma sa' nej da'ngà' huìi">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Nachrá so' plugins">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Naduno' da' nahuin ro'ô' si nuguan' sitio">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Nachrâ so' datos da' gahuin rān ma">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Àsij gan' nikaj ñu'unj nej dugui' navegador">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gi'iaj sun sitio na 'ngà si kamarat ni mikrofono">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gi'iaj sun sitio na 'ngà si mikrofonot">
 
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Gi'iaj blokeandot nej pop-ups guenda sitio web na.">
