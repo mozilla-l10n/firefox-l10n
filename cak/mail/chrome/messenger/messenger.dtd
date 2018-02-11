@@ -137,9 +137,23 @@
 
 <!ENTITY messagePaneLayoutStyle.label "Wachib'enïk">
 <!ENTITY messagePaneLayoutStyle.accesskey "W">
+<!ENTITY messagePaneClassic.label "Cha'on Tz'etoj">
+<!ENTITY messagePaneClassic.accesskey "C">
+<!ENTITY messagePaneWide.label "Nimirisanel Tz'etoj">
+<!ENTITY messagePaneWide.accesskey "N">
+<!ENTITY messagePaneVertical.label "Pa'äl Tz'etoj">
+<!ENTITY messagePaneVertical.accesskey "P">
+<!ENTITY showFolderPaneCmd.label "Ruyakwuj Pas">
+<!ENTITY showFolderPaneCmd.accesskey "R">
+<!ENTITY showFolderPaneColsCmd.label "Ruche'el Ruyakwuj Pas">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
+<!ENTITY showMessageCmd.label "Rupas Tzijol">
+<!ENTITY showMessageCmd.accesskey "T">
 
 <!ENTITY folderView.label "Taq yakwuj">
 <!ENTITY folderView.accesskey "y">
+<!ENTITY unifiedFolders.label "Tunun">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "Ronojel">
 <!ENTITY allFolders.accesskey "R">
 <!ENTITY unreadFolders.label "Man sik'in ta">
@@ -148,12 +162,23 @@
 <!ENTITY favoriteFolders.accesskey "A">
 <!ENTITY recentFolders.label "K'ak'a'">
 <!ENTITY recentFolders.accesskey "K">
+<!ENTITY compactVersion.label "Molk'ïy Tz'etoj">
+<!ENTITY compactVersion.accesskey "M">
+<!ENTITY folderPaneBar.label "Rukajtz'ik Rusamajib'al Ruyakwuj Pas">
+<!ENTITY folderPaneBar.accesskey "R">
+<!ENTITY folderModeSelector.label "Yakwuj Tz'etoj">
 
 <!-- Sort Menu -->
+<!ENTITY sortMenu.label "Tichol chi">
+<!ENTITY sortMenu.accesskey "T">
 <!ENTITY sortByDateCmd.label "Q'ijul">
 <!ENTITY sortByDateCmd.accesskey "u">
 <!ENTITY sortByReceivedCmd.label "K'ulun">
 <!ENTITY sortByReceivedCmd.accesskey "l">
+<!ENTITY sortByStarCmd.label "Ya'on ruq'ij">
+<!ENTITY sortByStarCmd.accesskey "Y">
+<!ENTITY sortByAttachmentsCmd.label "Taq taqoj">
+<!ENTITY sortByAttachmentsCmd.accesskey "q">
 <!ENTITY sortByPriorityCmd.label "Ya'on ruq'ij">
 <!ENTITY sortByPriorityCmd.accesskey "Y">
 <!ENTITY sortBySizeCmd.label "Nimilem">
@@ -162,12 +187,16 @@
 <!ENTITY sortByStatusCmd.accesskey "n">
 <!ENTITY sortByTagsCmd.label "Taq etal">
 <!ENTITY sortByTagsCmd.accesskey "t">
+<!ENTITY sortByJunkStatusCmd.label "Kib'anikil Seq'">
+<!ENTITY sortByJunkStatusCmd.accesskey "S">
 <!ENTITY sortBySubjectCmd.label "Taqikil">
 <!ENTITY sortBySubjectCmd.accesskey "q">
 <!ENTITY sortByFromCmd.label "Richin">
 <!ENTITY sortByFromCmd.accesskey "R">
 <!ENTITY sortByRecipientCmd.label "K'ulunel">
 <!ENTITY sortByRecipientCmd.accesskey "n">
+<!ENTITY sortByCorrespondentCmd.label "Ajtaqikil">
+<!ENTITY sortByCorrespondentCmd.accesskey "q">
 <!ENTITY sortByUnreadCmd.label "Tisik'ïx">
 <!ENTITY sortByUnreadCmd.accesskey "s">
 <!ENTITY msgsMenu.label "Taq tzijol">
