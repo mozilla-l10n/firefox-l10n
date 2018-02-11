@@ -40,6 +40,10 @@
 <!ENTITY saveAsCmd.accesskey "A">
 <!ENTITY saveAsFileCmd.label "Yakb'äl…">
 <!ENTITY saveAsFileCmd.accesskey "Y">
+<!ENTITY saveAsDraftCmd.label "Nab'ey samaj">
+<!ENTITY saveAsDraftCmd.accesskey "N">
+<!ENTITY saveAsTemplateCmd.label "Kaxawäch">
+<!ENTITY saveAsTemplateCmd.accesskey "K">
 <!ENTITY sendNowCmd.label "Titaq Wakami">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
@@ -77,6 +81,13 @@
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "Tiyuj">
 <!ENTITY deleteCmd.accesskey "y">
+<!ENTITY editRewrapCmd.label "Runuk'ulem cholaj">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Tiya' chik Jun Rub'i' ri Taqoj…">
+<!ENTITY renameAttachmentCmd.accesskey "c">
+<!ENTITY reorderAttachmentsCmd.label "Kecholajïx chik taq Taqoj…">
+<!ENTITY reorderAttachmentsCmd.accesskey "a">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Ticha' Ronojel">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "r">
@@ -96,10 +107,13 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Kecholajïx chik taq Taqoj">
 <!ENTITY moveAttachmentTopPanelBtn.label "Tisilöx pa Rutikirib'al">
 <!ENTITY moveAttachmentTopPanelBtn.accesskey "R">
 <!ENTITY moveAttachmentUpPanelBtn.label "Tijotob'äx">
 <!ENTITY moveAttachmentUpPanelBtn.accesskey "T">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Kesilöx junam">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "x">
 <!ENTITY moveAttachmentDownPanelBtn.label "Tiqasäx Qa">
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "Q">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Tisilöx pa Ruk'isib'al">
@@ -107,17 +121,26 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Tichol pa Rub'eyal: A - Z">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
      the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Tichol pa Rub'eyal: Z - A">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Tichol: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Tichol: Z - A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Tichol pa Rub'eyal: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Tichol pa Rub'eyal: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Titz'et">
@@ -128,11 +151,15 @@
 <!ENTITY menubarCmd.accesskey "K">
 <!ENTITY showCompositionToolbarCmd.label "Rucholsamajib'al Nuk'unem">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "Rukajtz'ik B'anikil">
+<!ENTITY showFormattingBarCmd.accesskey "R">
 <!ENTITY showTaskbarCmd.label "Rub'anikil Kajtz'ik">
 <!ENTITY showTaskbarCmd.accesskey "b">
 <!ENTITY customizeToolbar.label "Tichinäx…">
 <!ENTITY customizeToolbar.accesskey "c">
 
+<!ENTITY addressSidebar.label "Ajxikin Kipas Kib'i' Achib'il">
+<!ENTITY addressSidebar.accesskey "i">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "B'anikil">
@@ -147,16 +174,31 @@
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "Tib'an Ruk'ojlem Rutz'ib'axik Toq Tajin Nitz'ib'äx">
 <!ENTITY enableInlineSpellChecker.accesskey "R">
+<!ENTITY quoteCmd.label "Tisik'ïx Rutzijol">
+<!ENTITY quoteCmd.accesskey "T">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "Titz'aqatisäx Ichinan Pirt'im (vCard)">
+<!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Etzolin taq Wujil">
 <!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Rutzijol Rub'anikil Jachoj">
+<!ENTITY dsnMenu.accesskey "R">
+<!ENTITY deliveryFormatMenu.label "Rukaxawäch Jachoj">
+<!ENTITY deliveryFormatMenu.accesskey "R">
 <!ENTITY autoFormatCmd.label "Titz'et pa ruyonil">
 <!ENTITY autoFormatCmd.accesskey "t">
+<!ENTITY plainTextFormatCmd.label "Xa Xe Cholan Tzij Majun Rub'anikil">
+<!ENTITY plainTextFormatCmd.accesskey "R">
+<!ENTITY htmlFormatCmd.label "Xa Xe Tz'aqatisan Cholan Tzij (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "Relik Cholan Tzij chuqa' Tz'aqatisan Cholan Tzij (HTML)">
+<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Ya'on ruq'ij">
 <!ENTITY priorityMenu.accesskey "y">
 <!ENTITY priorityButton.title "Ya'on ruq'ij">
+<!ENTITY priorityButton.tooltiptext "Tijal rejqalem rutzijol">
 <!ENTITY priorityButton.label "Ya'on ruq'ij:">
 <!ENTITY lowestPriorityCmd.label "Ch'utin">
 <!ENTITY lowestPriorityCmd.accesskey "l">
@@ -198,7 +240,9 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Titaq">
+<!ENTITY quoteButton.label "Tisik'ïx">
 <!ENTITY addressButton.label "Kib'i' achib'il">
+<!ENTITY attachButton.label "Titz'aqatisäx">
 <!ENTITY spellingButton.label "Tz'ib'anikil">
 <!ENTITY saveButton.label "">
 <!ENTITY printButton.label "Titz'ajb'äx">
