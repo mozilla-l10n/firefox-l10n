@@ -26,8 +26,16 @@
 <!ENTITY newVirtualFolderCmd.accesskey "y">
 <!ENTITY newOtherAccountsCmd.label "Juley chik Rub'i' Taqoya'l…">
 <!ENTITY newOtherAccountsCmd.accesskey "J">
+<!ENTITY newCreateEmailAccountCmd.label "Tik'ul jun K'ak'a' Rub'i' Taqoya'l…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "T">
+<!ENTITY newExistingEmailAccountCmd.label "Rub'i' Taqoya'l E K'o…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "K">
 <!ENTITY newIMAccountCmd.label "Rub'i' Rutaqoya'l Chat…">
 <!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Rub'i' Rutaqoya'l B'ey…">
+<!ENTITY newFeedAccountCmd.accesskey "y">
+<!ENTITY newIMContactCmd.label "Rub'i' Rachib'il Chat…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Tijaq Tzijol Eyakon…">
 <!ENTITY openMessageFileCmd.accesskey "j">
 <!ENTITY saveAsMenu.label "Tiyak Achi'el">
@@ -35,6 +43,10 @@
 <!ENTITY saveAsFileCmd.label "Yakb'äl">
 <!ENTITY saveAsFileCmd.accesskey "Y">
 <!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Kaxawäch">
+<!ENTITY saveAsTemplateCmd.accesskey "K">
+<!ENTITY getNewMsgForCmd.label "Kek'ul K'aka' Rutzijol richin">
+<!ENTITY getNewMsgForCmd.accesskey "k">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Ronojel Kib'i' Taqoya'l">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "R">
 <!ENTITY subscribeCmd.label "Titz'ib'äx nub'i'…">
