@@ -12,7 +12,7 @@
      suggestions over browsing history in the results that extend down from the
      address bar. In the original English string, "ahead" refers to location
      (appearing most proximate to), not time (appearing before). -->
-<!ENTITY showSearchSuggestionsAboveHistory.label "Zobrazovat návrhy hledání v adresním řádku nad našeptáváním z historie prohlížení">
+<!ENTITY showSearchSuggestionsAboveHistory.label "Našeptávat návrhy hledání v adresním řádku nad stránkami z historie prohlížení">
 
 <!ENTITY defaultSearchEngine.label             "Výchozí vyhledávací modul">
 
