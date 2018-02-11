@@ -325,6 +325,7 @@
 <!ENTITY goRecentlyClosedTabs.label "Taq Ruwi' k'a b'a' Ketz'apïx">
 <!ENTITY goRecentlyClosedTabs.accesskey "k">
 <!ENTITY startPageCmd.label "Ruxaq Tikirib'äl">
+<!ENTITY startPageCmd.accesskey "T">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Tzijol">
@@ -341,6 +342,8 @@
 <!ENTITY replyMsgCmd.label "Titzolïx tzij">
 <!ENTITY replyMsgCmd.accesskey "t">
 <!ENTITY replyMsgCmd.key "r">
+<!ENTITY replySenderCmd.label "Titzolïx Tzij Xa Xe Chi Re ri Taqonel">
+<!ENTITY replySenderCmd.accesskey "T">
 <!ENTITY replyToAllMsgCmd.label "Titzolïx tzij chi ke Konojel">
 <!ENTITY replyToAllMsgCmd.accesskey "z">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -352,6 +355,8 @@
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Jun chik Achi'el">
 <!ENTITY forwardAsMenu.accesskey "c">
+<!ENTITY forwardAsInline.label "Pa k'amab'ey">
+<!ENTITY forwardAsInline.accesskey "P">
 <!ENTITY forwardAsAttachmentCmd.label "Taqoj">
 <!ENTITY forwardAsAttachmentCmd.accesskey "T">
 <!ENTITY editAsNewMsgCmd.label "Tinuk' Achi'el K'ak'a' Tzijol">
@@ -369,6 +374,15 @@
 <!ENTITY moveToFolderAgain.label "Tisilöx Chik">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Tirepüx Ch'ab'enïk">
+<!ENTITY killThreadMenu.accesskey "T">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Tirepüx Achch'ab'enïk">
+<!ENTITY killSubthreadMenu.accesskey "A">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Titzu' jun Ch'ab'enïk">
+<!ENTITY watchThreadMenu.accesskey "T">
+<!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Etal">
 <!ENTITY tagMenu.accesskey "l">
 <!ENTITY tagCmd0.key "0">
@@ -397,6 +411,15 @@
 <!ENTITY markAllReadCmd.label "Ronojel Sik'in">
 <!ENTITY markAllReadCmd.accesskey "R">
 <!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Titz'aqatisäx Ch'umil">
+<!ENTITY markStarredCmd.accesskey "C">
+<!ENTITY markStarredCmd.key "C">
+<!ENTITY markAsJunkCmd.label "Achi'el Seq'">
+<!ENTITY markAsJunkCmd.accesskey "S">
+<!ENTITY markAsJunkCmd.key "s">
+<!ENTITY markAsNotJunkCmd.label "Achi'el Man Seq' Ta">
+<!ENTITY markAsNotJunkCmd.accesskey "M">
+<!ENTITY markAsNotJunkCmd.key "s">
 <!ENTITY openMessageWindowCmd.label "Tijaq Rutzijol">
 <!ENTITY openMessageWindowCmd.accesskey "T">
 <!ENTITY openMessageWindowCmd.key "o">
@@ -416,6 +439,8 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Taq samajib'äl">
 <!ENTITY tasksMenu.accesskey "s">
+<!ENTITY messengerCmd.label "Taqoya'l &amp; Taq Rutzijol">
+<!ENTITY messengerCmd.accesskey "R">
 <!ENTITY addressBookCmd.label "Kiwujil taq Ochochib'äl">
 <!ENTITY addressBookCmd.accesskey "K">
 <!ENTITY addressBookCmd.key "B">
@@ -451,6 +476,8 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Taq Rusamajib'al Nuk'unel">
 <!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY debugAddonsCmd.label "Kechojmirisäx taq Tz'aqat">
+<!ENTITY debugAddonsCmd.accesskey "T">
 <!ENTITY errorConsoleCmd.label "Kitemeb'al Sachoj">
 <!ENTITY errorConsoleCmd.accesskey "S">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -486,6 +513,7 @@
 <!ENTITY goForwardButton1.label "Jun chik">
 <!ENTITY deleteItem.title "Tiyuj">
 <!ENTITY deleteButton.label "Tiyuj">
+<!ENTITY undeleteButton.label "Man tiyuj">
 <!ENTITY markButton.label "Tiya' retal">
 <!ENTITY printButton.label "Titz'ajb'äx">
 <!ENTITY stopButton.label "Tiq'at">
@@ -503,22 +531,33 @@
 <!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "Q'axinäq rukanoxik tzijol">
 <!ENTITY getMsgButton.tooltip "Kek'ul k'ak'a' taq tzijol">
 <!ENTITY getAllNewMsgCmd.label "Kek'ul Ronojel K'ak'a' taq Tzijol">
 <!ENTITY getAllNewMsgCmd.accesskey "K">
 <!ENTITY newMsgButton.tooltip "Titz'uk jun k'ak'a' tzijol">
 <!ENTITY replyButton.tooltip "Titzolïx tzij chi re ri rutzijol">
+<!ENTITY replyAllButton.tooltip "Titzolïx tzij chi re ri taqonel chuqa' chi ke konojel ri ruk'ulb'anela' tzij">
+<!ENTITY replyListButton.tooltip "Titzolïx tzij chi re jun kicholb'al taqotz'ib'">
+<!ENTITY forwardButton.tooltip "Titaq chik cha'on tzijol">
+<!ENTITY forwardAsInline.tooltip "Titaq chik ri cha'on rutzijol achi'el tz'aqatisan cholan tzij">
+<!ENTITY forwardAsAttachment.tooltip "Titaq chik ri cha'on rutzijol achi'el jun taqoj">
 <!ENTITY fileButton.tooltip "Tiyak cha'on tzijol">
 <!ENTITY archiveButton.tooltip "Keyak cha'on taq tzijol">
 <!ENTITY openConversationButton.tooltip "Tik'ut rutzijonem cha'on tzijol">
+<!ENTITY previousMsgButton.tooltip "Tisilöx pa ri jun kan rutzijol">
 <!ENTITY goForwardButton.tooltip "Jun chik rutzijol">
 <!ENTITY goBackButton.tooltip "Titzolïx jun rutzijol">
 <!ENTITY deleteButton.tooltip "Tiyuj cha'on tzijol o yakwuj">
+<!ENTITY undeleteButton.tooltip "Man tiyuj cha'on tzijol">
 <!ENTITY markButton.tooltip "Tiya' ketal taq tzijol">
 <!ENTITY printButton.tooltip "Titz'ajb'äx re rutzijol re'">
+<!ENTITY junkButton.tooltip "Tiya' ketal re cha'on taq rutzijol re' achi'el seq'">
+<!ENTITY notJunkButton.tooltip "Tiya' ketal re cha'on taq rutzijol re' achi'el man seq' ta">
 <!ENTITY addressBookButton.tooltip "Tib'e pa ri kiwujil ochochib'äl">
 <!ENTITY chatButton.tooltip "Tik'ut ri Chat tab">
 <!ENTITY tagButton.tooltip "Ketal taq rutzijol">
+<!ENTITY appmenuButton1.tooltip "Tik'ut ri &brandShortName; K'utsamaj">
 
 <!-- Toolbar Button Popup -->
 
@@ -528,7 +567,10 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "K'ak'a' Rutzijol">
+<!ENTITY appmenuNewContactCmd.label "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl…">
 <!ENTITY appmenuEditMenu.label "Tinuk'">
+<!ENTITY appmenuSelectThread.label "Ticha' Tzijonem">
+<!ENTITY appmenuSelectFlagged.label "Kecha' taq Tzijol K'o Kiq'ij">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "K'ak'a' Etal…">
@@ -545,6 +587,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Kek'ul tzijol">
 <!ENTITY folderContextGetMessages.accesskey "K">
+<!ENTITY folderContextPauseAllUpdates.label "Keq'at Ronojel K'exoj">
 <!ENTITY folderContextPauseUpdates.label "Keq'at K'exoj">
 <!ENTITY folderContextPauseUpdates.accesskey "K">
 <!ENTITY folderContextOpenInNewWindow.label "Tijaq pa jun K'ak'a' Tzuwäch">
@@ -559,8 +602,16 @@
 <!ENTITY folderContextRemove.accesskey "y">
 <!ENTITY folderContextCompact.label "Tz'aqatz'öj">
 <!ENTITY folderContextCompact.accesskey "T">
+<!ENTITY folderContextEmptyTrash.label "Tijam Molb'äl">
+<!ENTITY folderContextEmptyTrash.accesskey "m">
+<!ENTITY folderContextEmptyJunk.label "Tijam Seq'">
+<!ENTITY folderContextEmptyJunk.accesskey "S">
+<!ENTITY folderContextSendUnsentMessages.label "Ketaq Oyob'en taq Tzijol">
+<!ENTITY folderContextSendUnsentMessages.accesskey "q">
 <!ENTITY folderContextUnsubscribe.label "Tiq'at rutz'ib'axik b'i'aj">
 <!ENTITY folderContextUnsubscribe.accesskey "T">
+<!ENTITY folderContextMarkMailFolderRead.label "Tiya' Retal Yakwuj Sik'in">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "t">
 <!ENTITY folderContextSubscribe.label "Titz'ib'äx nub'i'…">
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Kekanöx Tzijol…">
@@ -580,10 +631,17 @@
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Taqikil">
 <!ENTITY searchFromMenu.label "Richin">
+<!ENTITY searchSubjectOrFromMenu.label "Taqikil o Richin">
+<!ENTITY searchRecipient.label "Chi re o Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Taqikil, Chi re o Cc">
+<!ENTITY searchMessageBody.label "Ronojel ri Rutzijol">
+<!ENTITY saveAsVirtualFolderMenu.label "Tiyak Kanoxïk achi'el jun Yakwuj…">
 
 <!-- Thread Pane -->
+<!ENTITY threadColumn.label "Tzijonem">
 <!ENTITY fromColumn.label "Richin">
 <!ENTITY recipientColumn.label "K'ulunel">
+<!ENTITY correspondentColumn.label "Ajtaqikil">
 <!ENTITY subjectColumn.label "Taqikil">
 <!ENTITY dateColumn.label "Q'ijul">
 <!ENTITY priorityColumn.label "Ya'on ruq'ij">
@@ -591,14 +649,19 @@
 <!ENTITY accountColumn.label "Rub'i' taqoya'l">
 <!ENTITY statusColumn.label "B'anikil">
 <!ENTITY sizeColumn.label "Nimilem">
+<!ENTITY junkStatusColumn.label "Kib'anikil Seq'">
 <!ENTITY unreadColumn.label "Man sik'in ta">
 <!ENTITY totalColumn.label "Ronojel">
 <!ENTITY readColumn.label "Tisik'ïx">
 <!ENTITY receivedColumn.label "K'ulun">
+<!ENTITY starredColumn.label "Ya'on ruq'ij">
 <!ENTITY locationColumn.label "K'ojlib'äl">
+<!ENTITY idColumn.label "Kicholajem K'uluj">
 <!ENTITY attachmentColumn.label "Taq taqoj">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Kecha' taq che''el richin nik'ut">
+<!ENTITY subjectColumn2.tooltip "Tinuk' chi taqikil">
 <!ENTITY dateColumn2.tooltip "Kenuk' chi q'ijul">
 <!ENTITY tagsColumn2.tooltip "Tinuk' chi taq retal">
 <!ENTITY sizeColumn2.tooltip "Tinuk' chi nimilem">
