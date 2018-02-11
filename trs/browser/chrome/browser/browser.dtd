@@ -220,7 +220,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gi'iaj sun sitio na 'ngà si kamarat ni mikrofono">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gi'iaj sun sitio na 'ngà si mikrofonot">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gi'iaj sun sitio na 'ngà riña si ago'">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Na'nïn' riña ma nej nuguan' nahuin ro'ô'">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Naduno' nânj ginù riña pagina na">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Naduno' daj nanù a'ngò nânj a'min' riña pagina na">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Gi'iaj blokeandot nej pop-ups guenda sitio web na.">
 
@@ -263,13 +267,58 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.accesskey         "B">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.accesskey "W">
+
+<!ENTITY editMenu.label         "Nagi'iô'">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Nadurê'">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "Ga'nè'">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "Guyun'">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "Gachrun">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "Nadurê'">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "Ganahui' da'ua ngê ma">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY preferencesCmd2.label       "Sa huā gi'iát">
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmdUnix.label       "Sa arajsunt doj">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
+<!ENTITY viewMenu.label         "Gini'iaj">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "Riña ma sa raj sun'">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "Nagi'io' dukuán ma sa rajeunit'...">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
-
-
-
+<!ENTITY historyMenu.label "Sa gini’iājt">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Rakïj ñanj hiaj narrán nakà">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 
 
