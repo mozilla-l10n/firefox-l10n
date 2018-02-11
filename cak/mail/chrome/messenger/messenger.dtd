@@ -668,14 +668,24 @@
 <!ENTITY locationColumn2.tooltip "Tinuk' chi k'ojlib'äl">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "Tijaq ri Rutzijol pa jun K'ak'a' Tzuwäch">
+<!ENTITY contextOpenNewWindow.accesskey "T">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
+<!ENTITY contextOpenNewTab.label "Tijaq Rutzijol pa jun K'ak'a' Ruwi'">
+<!ENTITY contextOpenNewTab.accesskey "R">
+<!ENTITY contextOpenConversation.label "Tijaq Rutzijol pa Tzijonem">
+<!ENTITY contextOpenConversation.accesskey "q">
 <!ENTITY contextEditMsgAsNew.label "Tinuk' Achi'el K'ak'a' Tzijol">
 <!ENTITY contextEditMsgAsNew.accesskey "T">
+<!ENTITY contextEditTemplate.label "Tinuk' Kaxawäch">
+<!ENTITY contextEditTemplate.accesskey "K">
 <!ENTITY contextArchive.label "Yakb'äl">
 <!ENTITY contextArchive.accesskey "k">
+<!ENTITY contextReplySender.label "Titzolïx Tzij Xa Xe Chi Re ri Taqonel">
+<!ENTITY contextReplySender.accesskey "T">
 <!ENTITY contextReplyAll.label "Titzolïx tzij chi ke Konojel">
 <!ENTITY contextReplyAll.accesskey "K">
 <!ENTITY contextReplyList.label "Titzolïx tzij chi re ri Cholb'äl">
@@ -684,6 +694,8 @@
 <!ENTITY contextForward.accesskey "J">
 <!ENTITY contextForwardAsMenu.label "Jun chik Achi'el">
 <!ENTITY contextForwardAsMenu.accesskey "e">
+<!ENTITY contextForwardAsInline.label "Pa k'amab'ey">
+<!ENTITY contextForwardAsInline.accesskey "P">
 <!ENTITY contextForwardAsAttachmentItem.label "Taqoj">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "T">
 <!ENTITY contextMoveMsgMenu.label "Tiq'asäx Pa">
@@ -692,10 +704,16 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "K">
 <!ENTITY contextCopyMsgMenu.label "Tiwachib'ëx Chi Re">
 <!ENTITY contextCopyMsgMenu.accesskey "w">
+<!ENTITY contextKillThreadMenu.label "Tirepüx Ch'ab'enïk">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
+<!ENTITY contextKillThreadMenu.accesskey "T">
+<!ENTITY contextKillSubthreadMenu.label "Tirepüx Achch'ab'enïk">
+<!ENTITY contextWatchThreadMenu.label "Titzu' jun Ch'ab'enïk">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Tiyak Achi'el…">
 <!ENTITY contextSaveAs.accesskey "y">
 <!ENTITY contextPrint.label "Titz'ajb'äx…">
@@ -724,6 +742,7 @@
      that the user selects using the same widget as the move to/copy to
      mechanism (via a series of popups).
   -->
+<!ENTITY columnPicker.applyToFolder.label "Yakwuj…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
      This option in the thread pane column picker is found on a sub-menu beneath
      the "columnPicker.applyTo.label" alongside
@@ -790,6 +809,12 @@
 <!ENTITY AddToAddressBook.accesskey "K">
 <!ENTITY AddDirectlyToAddressBook.label "Titz'aqatisäx pa Kiwujil taq Ochochib'äl">
 <!ENTITY AddDirectlyToAddressBook.accesskey "K">
+<!ENTITY EditContact1.label "Tinuk' Rub'i' Achib'il">
+<!ENTITY EditContact1.accesskey "T">
+<!ENTITY ViewContact.label "Titz'et Rub'i' Achib'il">
+<!ENTITY ViewContact.accesskey "T">
+<!ENTITY SubscribeToNewsgroup.label "Tatz'ib'aj ab'i' pa Kimolaj Tzijol">
+<!ENTITY SubscribeToNewsgroup.accesskey "K">
 <!ENTITY CopyEmailAddress.label "Tiwachib'ëx Rochochib'al Taqoya'l">
 <!ENTITY CopyEmailAddress.accesskey "w">
 <!ENTITY CopyNameAndEmailAddress.label "Tiwachib'ëx Rub'i' chuqa' Rutaqoya'l Ochochib'äl">
