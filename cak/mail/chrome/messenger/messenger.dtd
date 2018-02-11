@@ -49,6 +49,12 @@
 <!ENTITY getNewMsgForCmd.accesskey "k">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Ronojel Kib'i' Taqoya'l">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "R">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Rub'i' Taqoya'l Wakami">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "W">
+<!ENTITY getNextNMsgCmd2.label "Kek'ul Ch'aqa' Chik K'ak'a' taq Tzijol">
+<!ENTITY getNextNMsgCmd2.accesskey "h">
+<!ENTITY sendUnsentCmd.label "Ketaq Oyob'en taq Tzijol">
+<!ENTITY sendUnsentCmd.accesskey "q">
 <!ENTITY subscribeCmd.label "Titz'ib'äx nub'i'…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Tiyuj ri Yakwuj">
@@ -56,12 +62,22 @@
 <!ENTITY renameFolder.label "Titz'ib'äx chik Rub'i' Yakwuj…">
 <!ENTITY renameFolder.accesskey "T">
 <!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Timol k'ïy pa taq Yakwuj">
+<!ENTITY compactFolders.accesskey "Y">
+<!ENTITY emptyTrashCmd.label "Tijam Molb'äl">
+<!ENTITY emptyTrashCmd.accesskey "m">
 <!ENTITY offlineMenu.label "Chupül">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Chupül Rusamaj">
 <!ENTITY offlineGoOfflineCmd.accesskey "r">
+<!ENTITY synchronizeOfflineCmd.label "Tiqasäx/Sync Wakami…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd2.label "Chupül Runuk'ulem">
 <!ENTITY settingsOfflineCmd2.accesskey "u">
+<!ENTITY downloadSelectedCmd.label "Kek'ul Cha'on taq Tzijol">
+<!ENTITY downloadSelectedCmd.accesskey "l">
+<!ENTITY downloadStarredCmd.label "Kek'ul taq Tzijol K'o Kiq'ij">
+<!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Titz'ajb'äx…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
@@ -73,6 +89,12 @@
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Tiyuj Tzijol">
 <!ENTITY deleteMsgCmd.accesskey "y">
+<!ENTITY undeleteMsgCmd.label "Man Tiyuj Rutzijol">
+<!ENTITY undeleteMsgCmd.accesskey "y">
+<!ENTITY deleteMsgsCmd.label "Keyuj Cha'on taq Tzijol">
+<!ENTITY deleteMsgsCmd.accesskey "K">
+<!ENTITY undeleteMsgsCmd.label "Man Keyuj Cha'on taq Tzijol">
+<!ENTITY undeleteMsgsCmd.accesskey "y">
 <!ENTITY deleteFolderCmd.label "Tiyuj ri Yakwuj">
 <!ENTITY deleteFolderCmd.accesskey "y">
 <!ENTITY unsubscribeNewsgroupCmd.label "Tiq'at rutz'ib'axik b'i'aj">
@@ -81,10 +103,25 @@
 <!ENTITY selectMenu.accesskey "c">
 <!ENTITY all.label "Ronojel">
 <!ENTITY all.accesskey "R">
+<!ENTITY selectThreadCmd.label "Tzijonem">
+<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.key "e">
+<!ENTITY selectFlaggedCmd.label "Taq Rutzijol Ya'on Kiq'ij">
+<!ENTITY selectFlaggedCmd.accesskey "Y">
 <!ENTITY menuFavoriteFolder.label "Ajowanel Yakwuj">
 <!ENTITY menuFavoriteFolder.accesskey "w">
 <!ENTITY folderPropsCmd2.label "Taq ichinil">
 <!ENTITY folderPropsFolderCmd2.label "Kiyakwuj Ichinil">
+<!ENTITY folderPropsNewsgroupCmd2.label "Kichinil Kimolaj Tzijol">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY undoDeleteMsgCmd.label "Titzolïx Tiyuj Rutzijol">
+<!ENTITY redoDeleteMsgCmd.label "Tib'an chik Tiyuj Rutzijol">
+<!ENTITY undoMoveMsgCmd.label "Titzolïx Tisilöx Rutzijol">
+<!ENTITY redoMoveMsgCmd.label "Tib'an chik Tisilöx Rutzijol">
+<!ENTITY undoCopyMsgCmd.label "Titzolïx Tiwachib'ëx Rutzijol">
+<!ENTITY redoCopyMsgCmd.label "Tib'an chik Tiwachib'ëx Rutzijol">
+<!ENTITY undoMarkAllCmd.label "Titzolïx Tiya' Retal Ronojel Esik'in">
+<!ENTITY redoMarkAllCmd.label "Tib'an chik Tiya' Retal Ronojel Esik'in">
 <!ENTITY undoDefaultCmd.label "Titzolïx">
 <!ENTITY undoDefaultCmd.accesskey "t">
 <!ENTITY redoDefaultCmd.label "Tikamulüx">
@@ -93,6 +130,8 @@
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Rukajtz'ik K'utusamaj">
 <!ENTITY menubarCmd.accesskey "K">
+<!ENTITY showMessengerToolbarCmd.label "Rukajtz'ik Rusamajib'al Taqoya'l">
+<!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Tichinäx…">
 <!ENTITY customizeToolbar.accesskey "c">
 
