@@ -163,13 +163,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "hua a'ngo sa nikaj ñu'unj si punterôt. Ga'ui' Esc da' narit.">
+<!ENTITY pointerlockWarning.generic.label "Ñaj na nikaj ñu'unj si punterôt. Ga'ui' Esc da' narit.">
 
 <!ENTITY closeWindow.label "Nàrrun' Window">
 <!ENTITY closeWindow.accesskey "d">
 
+<!ENTITY bookmarksMenu.label "Sa raj sun nichrò' doj">
 <!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarkThisPageCmd.label "Sa raj sun nichrà' doj pagina na">
+<!ENTITY editThisBookmarkCmd.label "Nagi'io' sa arajsun nichrò' doj">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
+<!ENTITY subscribeToPageMenupopup.label "Gutà' si yuguît riña ñaj na">
+<!ENTITY subscribeToPageMenuitem.label "Gutà' si yuguît riña ñaj na...">
+<!ENTITY addCurPagesCmd.label "Nuto' a'ngo rakïj ñanj...">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
