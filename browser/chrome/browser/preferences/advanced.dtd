@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Hálózati proxy">
 
 <!ENTITY connectionDesc.label            "A &brandShortName; internetkapcsolatának megadása">
+
+<!ENTITY connectionSettingsLearnMore.label "További tudnivalók">
 <!ENTITY connectionSettings.label        "Beállítások…">
 <!ENTITY connectionSettings.accesskey    "B">
 
 <!ENTITY httpCache.label                 "Gyorsítótárazott webtartalom">
-
-<!ENTITY offlineStorage2.label           "Offline webtartalom és felhasználói adatok">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Oldal adatai">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Törlés most">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY clearOfflineAppCacheNow.label   "Törlés most">
-<!ENTITY clearOfflineAppCacheNow.accesskey "m">
 <!ENTITY overrideSmartCacheSize.label    "Az automatikus gyorsítótár-kezelés felülbírálása">
 <!ENTITY overrideSmartCacheSize.accesskey "a">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Keresőszolgáltatások automatikus frissítése">
 <!ENTITY enableSearchUpdate2.accesskey   "u">
-
-<!ENTITY offlineStorageNotify.label               "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
-<!ENTITY offlineStorageNotify.accesskey           "w">
-<!ENTITY offlineStorageNotifyExceptions.label     "Kivételek…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "K">
-
-<!ENTITY offlineAppsList3.label          "A következő webhelyek tárolhatnak adatokat kapcsolat nélküli használatra">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Eltávolítás…">
-<!ENTITY offlineAppsListRemove.accesskey "E">
-<!ENTITY offlineAppRemove.confirm        "Kapcsolat nélküli adatok eltávolítása">
 
 <!ENTITY certificateTab.label            "Tanúsítványok">
 <!ENTITY certPersonal2.description       "Ha a kiszolgáló elkéri a személyes tanúsítványt">
