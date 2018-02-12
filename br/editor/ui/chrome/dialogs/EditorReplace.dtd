@@ -10,7 +10,7 @@
 <!ENTITY replaceField.label "Amsaviñ gant :">
 <!ENTITY replaceField.accesskey "s">
 <!ENTITY caseSensitiveCheckbox.label "Doujañ ouzh ar pennlizherennoù">
-<!ENTITY caseSensitiveCheckbox.accesskey "M">
+<!ENTITY caseSensitiveCheckbox.accesskey "j">
 <!ENTITY wrapCheckbox.label "Ambakañ tro dro dezhi">
 <!ENTITY wrapCheckbox.accesskey "d">
 <!ENTITY backwardsCheckbox.label "Klask a-gil">

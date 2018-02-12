@@ -10,7 +10,7 @@
 <!ENTITY radioRememberPrevState.label "Derc'hel soñj eus ar stad enlinenn">
 <!ENTITY radioRememberPrevState.accesskey "r">
 <!ENTITY radioAskState.label "Goulenn ganin evit ar stad enlinenn">
-<!ENTITY radioAskState.accesskey "k">
+<!ENTITY radioAskState.accesskey "G">
 <!ENTITY radioAlwaysOnlineState.label "Enlinenn">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Ezlinenn">

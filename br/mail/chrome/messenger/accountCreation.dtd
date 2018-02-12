@@ -56,7 +56,7 @@
 <!ENTITY manual-edit.label               "Kefluniad dornel">
 <!ENTITY manual-edit.accesskey           "d">
 <!ENTITY open-provisioner.label          "Kaout ur chomlec'h postel nevez…">
-<!ENTITY open-provisioner.accesskey      "g">
+<!ENTITY open-provisioner.accesskey      "u">
 
 
 <!ENTITY warning.label                   "Diwallit !">
