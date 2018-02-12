@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy de rete">
 
 <!ENTITY connectionDesc.label            "Configura como &brandShortName; se connecte a Internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Saper plus">
 <!ENTITY connectionSettings.label        "Parametros…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Contento web in cache">
-
-<!ENTITY offlineStorage2.label           "Contento web e datos de usator disconnectite">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Datos del sitos">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB de spatio">
 <!ENTITY clearCacheNow.label             "Vacuar ora">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "Vacuar ora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "o">
 <!ENTITY overrideSmartCacheSize.label    "Supplantar le gestion automatic del cache">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Actualisar automaticamente le motores de recerca">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Adverti te quando un sito web demanda stockar datos pro usar disconnectite">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "Exceptiones…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "Le sitos web sequente ha permission de stockar datos pro usar los disconnectite">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Remover…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Remover le datos pro uso disconnectite">
 
 <!ENTITY certificateTab.label            "Certificatos">
 <!ENTITY certPersonal2.description       "Quando un servitor requesta tu certificato personal">

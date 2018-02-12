@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "Cookies e datos de sitos">
+<!ENTITY clearSiteData.accesskey      "S">
+
+<!ENTITY clearCache.label             "Contento web in cache">
+
+<!ENTITY button.cancel.label          "Cancellar">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "Clarar">
+<!ENTITY button.clear.accesskey       "l">
