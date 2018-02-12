@@ -5,9 +5,12 @@
 <!ENTITY window.title                 "Daty zhašeć">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Přez zhašenje wšěch plackow a datow sydła přez &brandShortName; móže k wotzjewjenju z websydłow wotzjewiće a wotstronjenju webwobsaha offline dóńć. Zhašenje datow pufrowaka waše přizjewjenja njewobwliwuje.">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Placki a daty sydła">
 <!ENTITY clearSiteData.accesskey      "P">
+<!ENTITY clearSiteData.description    "Přez zhašenje móže k wašemu wotzjewjenju z websydłow dóńć">
 
 <!ENTITY clearCache.label             "Pufrowany webwobsah">
 <!ENTITY clearCache.accesskey         "P">
