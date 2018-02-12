@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Daty zhašeć">
+<!ENTITY window.width                 "35em">
+
+
+<!ENTITY clearSiteData.label          "Placki a daty sydła">
+<!ENTITY clearSiteData.accesskey      "P">
+
+<!ENTITY clearCache.label             "Pufrowany webwobsah">
+<!ENTITY clearCache.accesskey         "P">
+<!ENTITY clearCache.description       "Wužaduje sej, zo websydła wobrazy a daty znowa začitaja">
+
+<!ENTITY button.cancel.label          "Přetorhnyć">
+<!ENTITY button.cancel.accesskey      "t">
+<!ENTITY button.clear.label           "Zhašeć">
+<!ENTITY button.clear.accesskey       "h">
