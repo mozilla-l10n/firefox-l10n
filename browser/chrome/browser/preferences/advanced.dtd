@@ -46,6 +46,8 @@ available. -->
 <!ENTITY networkProxy.label              "Nastavení připojení">
 
 <!ENTITY connectionDesc.label            "Konfigurovat připojení aplikace &brandShortName; k internetu">
+
+<!ENTITY connectionSettingsLearnMore.label "Zjistit více">
 <!ENTITY connectionSettings.label        "Nastavení…">
 <!ENTITY connectionSettings.accesskey    "e">
 
