@@ -13,6 +13,7 @@
 <!ENTITY clearSiteData.description    "Você pode ser desconectado dos sites se limpar">
 
 <!ENTITY clearCache.label             "Conteúdo de sites armazenados">
+<!ENTITY clearCache.description       "Isso irá requerer que sites recarreguem as imagens e os dados">
 
 <!ENTITY button.cancel.label          "Cancelar">
 <!ENTITY button.cancel.accesskey      "C">
