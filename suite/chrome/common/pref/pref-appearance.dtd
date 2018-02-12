@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
+<!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
 <!ENTITY pref.appearance.title "外观">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
@@ -28,3 +28,12 @@
 -->
 <!ENTITY restartOnLangChange.label              "语言首选项将在重启 &brandShortName; 后生效。">
 
+<!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
+     radiobuttons are set dynamically from prefutilities.properties
+-->
+<!ENTITY dateTimeFormatting.label               "日期和时间格式">
+
+<!--LOCALIZATION NOTE (restartOnLocaleChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLocaleChange.label            "语言和格式化首选项将在您重启 &brandShortName; 后生效。">
