@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Configurar proxies para aceder à Internet">
+
+<!ENTITY  proxyTitle.label2             "Configurar acesso proxy à Internet">
 <!ENTITY  noProxyTypeRadio.label        "Sem proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "p">
 <!ENTITY  systemTypeRadio.label         "Utilizar definições de proxy do sistema">
