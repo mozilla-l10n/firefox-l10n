@@ -43,12 +43,12 @@ available. -->
 
 
 <!ENTITY connectionDesc.label            "Yik kit ma &brandShortName; kube kwede ki intanet">
+
+<!ENTITY connectionSettingsLearnMore.label "Nong ngec mapol">
 <!ENTITY connectionSettings.label        "Tero…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Gin manonge iye me kakube ma kikano">
-
-<!ENTITY offlineStorage2.label           "Gin manonge iye me kakube ma pe iwiyamo kacel ki tic pa ngat matiyo kwede">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Data me kakube">
@@ -69,8 +69,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB me kabedo">
 <!ENTITY clearCacheNow.label             "Jwa Kombedi">
 <!ENTITY clearCacheNow.accesskey         "J">
-<!ENTITY clearOfflineAppCacheNow.label   "Jwa Kombedi">
-<!ENTITY clearOfflineAppCacheNow.accesskey "K">
 <!ENTITY overrideSmartCacheSize.label    "Kwe lalo kakano ma pire kene">
 <!ENTITY overrideSmartCacheSize.accesskey "K">
 
@@ -106,17 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Ket pire kene ngec manyen i injin yeny">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Miyi ngec kace kakube penyo me kano tic pi tic kwede ma nongo pe okube iwi yamo">
-<!ENTITY offlineStorageNotify.accesskey           "M">
-<!ENTITY offlineStorageNotifyExceptions.label     "Ma kiweko woko…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "i">
-
-<!ENTITY offlineAppsList3.label          "Ki yee ki kakube magi me gwoko data pi tic kwede ma pe iwiyamo">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Kwany…">
-<!ENTITY offlineAppsListRemove.accesskey "K">
-<!ENTITY offlineAppRemove.confirm        "Kwany tic ma nongo pe okube iwi yamo">
 
 <!ENTITY certificateTab.label            "Waraga">
 <!ENTITY certPersonal2.description       "Kace lapok tic okwayo pi catibiket mamegi">
