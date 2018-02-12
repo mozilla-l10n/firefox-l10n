@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Tii ki lanyut me kanonge me yeny ki wot">
 <!ENTITY searchBar.shown.label                 "Med lanyut me yeny i gitic">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Nyut tam amia me yeny inyim jami mukato me yeny ii adwogi pa lanyut me kabedo">
+
 <!ENTITY defaultSearchEngine.label             "Ingin me yeny makwongo">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Yer injin me yeny makwongo me tic kwede i lanyut me kanonge ki lanyut me yeny.">

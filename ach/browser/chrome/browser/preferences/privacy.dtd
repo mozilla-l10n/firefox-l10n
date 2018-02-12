@@ -4,6 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Gwokke ikom lubo kor">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene">
+<!ENTITY  trackingProtection3.description      "Gwokke ikom lubo kor gengo lulub kor me wiyamo ma coko data me yeny mamegi ki ii kakube mapol.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Tii ki Gwokke ikom lubo kor me gengo lulub kor ma ngene">
 <!ENTITY  trackingProtectionAlways.label       "Jwijwi">
 <!ENTITY  trackingProtectionAlways.accesskey   "w">
