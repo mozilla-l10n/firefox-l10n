@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Proxy beállítása az internet eléréséhez">
+
+<!ENTITY  proxyTitle.label2             "Proxy beállítása az internet eléréséhez">
 <!ENTITY  noProxyTypeRadio.label        "Nincs proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "N">
 <!ENTITY  systemTypeRadio.label         "Rendszerbeállítások használata">
