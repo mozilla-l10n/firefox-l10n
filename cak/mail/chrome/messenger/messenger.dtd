@@ -479,6 +479,16 @@
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Kichayub'al Tzijol">
 <!ENTITY filtersCmd2.accesskey "K">
+<!ENTITY filtersApply.label "Kesamajïx Chayub'äl pa Yakwuj">
+<!ENTITY filtersApply.accesskey "K">
+<!ENTITY filtersApplyToSelection.label "Kesamajïx Chayub'äl pa Cha'on taq Tzijol">
+<!ENTITY filtersApplyToSelection.accesskey "e">
+<!ENTITY filtersApplyToMessage.label "Kesamajïx Chayub'äl pa Rutzijol">
+<!ENTITY filtersApplyToMessage.accesskey "e">
+<!ENTITY runJunkControls.label "Kesamajïx Kichajinel Seq' Taqoya'l pa Yakwuj">
+<!ENTITY runJunkControls.accesskey "K">
+<!ENTITY deleteJunk.label "Tiyuj ri Taqoya'l Ya'on Retal achi'el Seq' pa Yakwuj">
+<!ENTITY deleteJunk.accesskey "T">
 <!ENTITY importCmd.label "Tijik' pe…">
 <!ENTITY importCmd.accesskey "j">
 <!ENTITY clearRecentHistory.label "Tiyuj ri K'ak'a' Natab'äl…">
@@ -494,8 +504,15 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Taq Rusamajib'al Nuk'unel">
 <!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devToolboxCmd.label "Rukajtz'ik B'anonel">
+<!ENTITY devToolboxCmd.accesskey "R">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Ruchojmirisanel Tz'aqat">
+<!ENTITY addonDebugCmd.accesskey "T">
 <!ENTITY debugAddonsCmd.label "Kechojmirisäx taq Tz'aqat">
 <!ENTITY debugAddonsCmd.accesskey "T">
+<!ENTITY tabsDebugCmd.label "Ruchojmirisanel Rupam Ruchi'">
+<!ENTITY tabsDebugCmd.accesskey "R">
 <!ENTITY errorConsoleCmd.label "Kitemeb'al Sachoj">
 <!ENTITY errorConsoleCmd.accesskey "S">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -543,6 +560,7 @@
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Chijun Kanoxïk">
 <!ENTITY searchItem.title "Anin Kanoxïk">
+<!ENTITY mailViewsToolbarItem.title "Kitz'etoj Taqoya'l">
 <!ENTITY folderLocationToolbarItem.title "Ruk'ojlib'al Yakwuj">
 <!ENTITY tagButton.label "Etal">
 <!ENTITY compactButton.label "Tz'aqatz'öj">
@@ -563,6 +581,9 @@
 <!ENTITY fileButton.tooltip "Tiyak cha'on tzijol">
 <!ENTITY archiveButton.tooltip "Keyak cha'on taq tzijol">
 <!ENTITY openConversationButton.tooltip "Tik'ut rutzijonem cha'on tzijol">
+<!ENTITY nextButton.tooltip "Tisilöx pa ri jun chik rutzijol man sik'in ta">
+<!ENTITY nextMsgButton.tooltip "Tisilöx pa ri jun chik rutzijol">
+<!ENTITY previousButton.tooltip "Tisilöx pa ri jun kan rutzijol man sik'in ta">
 <!ENTITY previousMsgButton.tooltip "Tisilöx pa ri jun kan rutzijol">
 <!ENTITY goForwardButton.tooltip "Jun chik rutzijol">
 <!ENTITY goBackButton.tooltip "Titzolïx jun rutzijol">
