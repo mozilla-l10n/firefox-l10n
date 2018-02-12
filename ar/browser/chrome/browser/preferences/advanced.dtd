@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "وسيط الشبكة">
 
 <!ENTITY connectionDesc.label            "اضبط كيفية اتصال &brandShortName; بالإنترنت">
+
+<!ENTITY connectionSettingsLearnMore.label "اطّلع على المزيد">
 <!ENTITY connectionSettings.label        "الإعدادات…">
 <!ENTITY connectionSettings.accesskey    "ع">
 
 <!ENTITY httpCache.label                 "محتوى الوب المخزّن">
-
-<!ENTITY offlineStorage2.label           "محتوى الوب ومعلومات المستخدمة المخزّنة للعمل دون اتصال">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "بيانات الموقع">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "م.بايت من المساحة للذّاكرة الخبيئة">
 <!ENTITY clearCacheNow.label             "امسح الآن">
 <!ENTITY clearCacheNow.accesskey         "م">
-<!ENTITY clearOfflineAppCacheNow.label   "امسح الآن">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ن">
 <!ENTITY overrideSmartCacheSize.label    "تخطَّ الإدارة الآلية للذاكرة الخبيئة">
 <!ENTITY overrideSmartCacheSize.accesskey "ذ">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "حدّث محركات البحث تلقائيًا">
 <!ENTITY enableSearchUpdate2.accesskey   "ك">
-
-<!ENTITY offlineStorageNotify.label               "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال">
-<!ENTITY offlineStorageNotify.accesskey           "ه">
-<!ENTITY offlineStorageNotifyExceptions.label     "الاستثناءات…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "ث">
-
-<!ENTITY offlineAppsList3.label          "يسمح للمواقع التالية بتخزين بيانات للعمل دون اتصال">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "احذف…">
-<!ENTITY offlineAppsListRemove.accesskey "ح">
-<!ENTITY offlineAppRemove.confirm        "احذف بيانات الاستخدام دون اتصال">
 
 <!ENTITY certificateTab.label            "الشّهادات">
 <!ENTITY certPersonal2.description       "عندما يطلب خادوم شهادتي الشخصيّة">
