@@ -12,6 +12,7 @@
 
 <!ENTITY clearCache.label             "Agbur web uffir">
 <!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "Ad yisru ismal web akken ad id-isali tugniwin akked isefka">
 
 <!ENTITY button.cancel.label          "Sefsex">
 <!ENTITY button.cancel.accesskey      "C">
