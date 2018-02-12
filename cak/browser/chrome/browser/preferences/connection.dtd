@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Tinuk'samajïx ri taq proxi richin yatok pa k'amaya'l">
+
+<!ENTITY  proxyTitle.label2             "Tinuk'samajïx ri Okem Proxi pa K'amaya'l">
 <!ENTITY  noProxyTypeRadio.label        "Majun proxi">
 <!ENTITY  noProxyTypeRadio.accesskey    "p">
 <!ENTITY  systemTypeRadio.label         "Tawokisaj ri runuk'ulem ruproxi q'inoj">
