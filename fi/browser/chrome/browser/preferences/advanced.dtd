@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Verkon välityspalvelin">
 
 <!ENTITY connectionDesc.label            "Muokkaa &brandShortName;in verkkoyhteysasetuksia">
+
+<!ENTITY connectionSettingsLearnMore.label "Lue lisää">
 <!ENTITY connectionSettings.label        "Asetukset…">
 <!ENTITY connectionSettings.accesskey    "A">
 
 <!ENTITY httpCache.label                 "Välimuistissa oleva verkkosisältö">
-
-<!ENTITY offlineStorage2.label           "Yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Sivustojen tallentamat tiedot">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "megatavuun">
 <!ENTITY clearCacheNow.label             "Tyhjennä heti">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY clearOfflineAppCacheNow.label   "Tyhjennä heti">
-<!ENTITY clearOfflineAppCacheNow.accesskey "y">
 <!ENTITY overrideSmartCacheSize.label    "Ohita automaattinen väliaikatiedostojen hallinta">
 <!ENTITY overrideSmartCacheSize.accesskey "h">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Päivitä hakukoneet automaattisesti">
 <!ENTITY enableSearchUpdate2.accesskey   "k">
-
-<!ENTITY offlineStorageNotify.label               "Näytä ilmoitus, kun sivusto pyytää lupaa tallentaa tietoa yhteydetöntä tilaa varten">
-<!ENTITY offlineStorageNotify.accesskey           "N">
-<!ENTITY offlineStorageNotifyExceptions.label     "Poikkeukset…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "P">
-
-<!ENTITY offlineAppsList3.label          "Seuraavilla sivustoilla on lupa tallentaa tietoja yhteydetöntä tilaa varten">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Poista…">
-<!ENTITY offlineAppsListRemove.accesskey "s">
-<!ENTITY offlineAppRemove.confirm        "Poista yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!ENTITY certificateTab.label            "Varmenteet">
 <!ENTITY certPersonal2.description       "Sivuston pyytäessä varmennettasi">
