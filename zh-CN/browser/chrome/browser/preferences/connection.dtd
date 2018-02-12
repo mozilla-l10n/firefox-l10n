@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "配置访问国际互联网的代理服务器">
+
+<!ENTITY  proxyTitle.label2             "配置访问互联网的代理服务器">
 <!ENTITY  noProxyTypeRadio.label        "不使用代理服务器">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "使用系统代理设置">
