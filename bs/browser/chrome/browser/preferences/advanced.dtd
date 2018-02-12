@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Mrežni proxy">
 
 <!ENTITY connectionDesc.label            "Konfigurišite kako se &brandShortName; konektuje na internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Saznajte više">
 <!ENTITY connectionSettings.label        "Postavke…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Keširani Web sadržaj">
-
-<!ENTITY offlineStorage2.label           "Offline Web sadržaj i korisnički podaci">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Podaci stranice">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB prostora">
 <!ENTITY clearCacheNow.label             "Očisti odmah">
 <!ENTITY clearCacheNow.accesskey         "O">
-<!ENTITY clearOfflineAppCacheNow.label   "Očisti odmah">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Preskoči automatsko upravljanje cacheom">
 <!ENTITY overrideSmartCacheSize.accesskey "c">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Automatski nadograđuj pretraživače">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Obavijestiti vas kada web stranica zatraži dozvolu za pohranu podataka za offline upotrebu">
-<!ENTITY offlineStorageNotify.accesskey           "t">
-<!ENTITY offlineStorageNotifyExceptions.label     "Izuzeci…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "I">
-
-<!ENTITY offlineAppsList3.label          "Sljedećim web stranicama je dozvoljeno da pohranjuju podatke za offline upotrebu">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Ukloni…">
-<!ENTITY offlineAppsListRemove.accesskey "U">
-<!ENTITY offlineAppRemove.confirm        "Ukloni offline podatke">
 
 <!ENTITY certificateTab.label            "Certifikati">
 <!ENTITY certPersonal2.description       "Kada server zatraži vaš lični certifikat">

@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Očisti podatke">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY window.description           "Čišćenjem svih kolačića i podataka stranice pohranjenih od strane &brandShortName; može vas odjaviti sa web stranica i ukloniti vanmrežni web sadržaj. Čišćenje keš podataka neće uticati na vaše prijave.">
+
+
+
