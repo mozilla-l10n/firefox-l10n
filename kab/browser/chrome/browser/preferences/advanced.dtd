@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Apruksi n uẓeṭṭa">
 
 <!ENTITY connectionDesc.label            "Swel tarrayt n tuqqna n &brandShortName; ɣer Internet ">
+
+<!ENTITY connectionSettingsLearnMore.label "Issin ugar">
 <!ENTITY connectionSettings.label        "Iɣewwaṛen…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Agbur web uffir">
-
-<!ENTITY offlineStorage2.label           "Agbur web d isefka n useqdac deg uskar war tuqqna">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "isefka n usmel">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MAṬ n wadeg">
 <!ENTITY clearCacheNow.label             "Sfeḍ tura">
 <!ENTITY clearCacheNow.accesskey         "S">
-<!ENTITY clearOfflineAppCacheNow.label   "Sfeḍ tura">
-<!ENTITY clearOfflineAppCacheNow.accesskey "t">
 <!ENTITY overrideSmartCacheSize.label    "Snifel asefrek awurman n tuffirt">
 <!ENTITY overrideSmartCacheSize.accesskey "n">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Lqem awurman n umsedday n unadi">
 <!ENTITY enableSearchUpdate2.accesskey   "Ẓ">
-
-<!ENTITY offlineStorageNotify.label               "Lɣu-yid ticki asmel yebɣa ad isekles isefka i useqdec arusrid">
-<!ENTITY offlineStorageNotify.accesskey           "L">
-<!ENTITY offlineStorageNotifyExceptions.label     "Tisuraf…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "T">
-
-<!ENTITY offlineAppsList3.label          "Ismal-agi web zemren ad sekelsen isefka i useqdec arusrid">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Kkes…">
-<!ENTITY offlineAppsListRemove.accesskey "K">
-<!ENTITY offlineAppRemove.confirm        "Kkes isefka war tuqqna">
 
 <!ENTITY certificateTab.label            "Iselkinen">
 <!ENTITY certPersonal2.description       "Ticki aqeddac isuter aselkin-ik udmawan">

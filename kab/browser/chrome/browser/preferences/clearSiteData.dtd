@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Sfeḍ isefka">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "Inagan n tuqna akked isefka n usmel">
+<!ENTITY clearSiteData.accesskey      "S">
+
+<!ENTITY clearCache.label             "Agbur web uffir">
+<!ENTITY clearCache.accesskey         "W">
+
+<!ENTITY button.cancel.label          "Sefsex">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "Sfeḍ">
+<!ENTITY button.clear.accesskey       "l">
