@@ -779,9 +779,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Add-ons">
+<!ENTITY restrictable_feature_addons_installation_description "Chika nu samu Firefox. Tu\&apos;un : Kue complemento ku kasuña tatu kunu.">
 <!ENTITY restrictable_feature_private_browsing "Nda duku ña kuu kunche meu">
+<!ENTITY restrictable_feature_private_browsing_description "Taun ku kunchekui ña kunia cha ma chikavai ni tutuni página.">
 <!ENTITY restrictable_feature_clear_history "Stòo ña niya\&apos;a">
+<!ENTITY restrictable_feature_clear_history_description "Kua permiso ña ta\&apos;un stoi tutu tsa sitio tsi página ntsinu.">
 <!ENTITY restrictable_feature_advanced_settings "Sama ña kue váa yee">
+<!ENTITY restrictable_feature_advanced_settings_description "Inka marcador, ntakuna xikuatsi ntu tsai. Kasia tutu kunu samu a tau\&apos;un sami.">
 <!ENTITY restrictable_feature_camera_microphone "Cámara &amp; Micrófono ">
 <!ENTITY restrictable_feature_camera_microphone_description "Kua tu\&apos;un ña ntii na kuu ntatu\&apos;na nu sitio web. ">
 <!ENTITY restrictable_feature_block_list "Lista ña kue kunu">
@@ -839,6 +843,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tu\&apos;un kanu">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Kitsaa nduku ña kunu cha na snakue tutu, video tsi pagina ña ntsuna ta yata a ña nchikavau.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -861,3 +866,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Chika nu pantalla xina">
 <!ENTITY pwa_continue_to_website "Ku\&apos;un iu inka pagína">
+<!ENTITY pwa_onboarding_sumo "Ku chikau sitio web yo nu página xina tava ku kuncheuña cha ndukuku ña kunu tsaka.">
