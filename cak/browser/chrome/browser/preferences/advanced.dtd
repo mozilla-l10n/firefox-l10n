@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Ruproxi K'amab'ey">
 
 <!ENTITY connectionDesc.label            "Tanuk'samajij ri rub'eyal nok ri &brandShortName; pa k'amaya'l">
+
+<!ENTITY connectionSettingsLearnMore.label "Tetamäx ch'aqa' chik">
 <!ENTITY connectionSettings.label        "Tinuk'…">
 <!ENTITY connectionSettings.accesskey    "n">
 
 <!ENTITY httpCache.label                 "Rupam k'amaya'l pa jumejyak">
-
-<!ENTITY offlineStorage2.label           "Rupam chuqa' taq rutzij winäq majun kokem">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Ruxaq k'amaya'l tzij">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB rupam">
 <!ENTITY clearCacheNow.label             "Tijosq'ïx wakami">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY clearOfflineAppCacheNow.label   "Wakami kajosq'in">
-<!ENTITY clearOfflineAppCacheNow.accesskey "W">
 <!ENTITY overrideSmartCacheSize.label    "Tiyuj runuk'samajixïk ruyonil jumejyak">
 <!ENTITY overrideSmartCacheSize.accesskey "T">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Pa yonil k'exoj chuqa' ruk'wayöl kanob'äl">
 <!ENTITY enableSearchUpdate2.accesskey   "x">
-
-<!ENTITY offlineStorageNotify.label               "Taya' rutzijol we k'o jun k'amaya'l nrajo' nuyäk taq tzij richin nrokisaj toq majun okem pa k'amaya'l">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "Taq man relik ta…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "e">
-
-<!ENTITY offlineAppsList3.label          "Re taq ruxaq ajk'amaya'l re' yetikïr yekiyäk' taq tzij richin ri rokem toq majun k'amaya'l">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Telesäx…">
-<!ENTITY offlineAppsListRemove.accesskey "T">
-<!ENTITY offlineAppRemove.confirm        "Tiyuj el na'oj pa rub'eyal majun okem pa k'amaya'l">
 
 <!ENTITY certificateTab.label            "Taq ruwujil b'i'aj">
 <!ENTITY certPersonal2.description       "Toq jun ruk'u'x samaj nuk'utuj pe ri ruwujil ab'i'">

@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Tijosq'ïx Tzij">
+<!ENTITY window.width                 "35em">
+
+
+<!ENTITY clearSiteData.label          "Taq Kaxlanwey chuqa' Rutzij K'amaya'l">
+<!ENTITY clearSiteData.accesskey      "K">
+<!ENTITY clearSiteData.description    "We natz'apij rik'in jub'a' yetz'apitäj ri ruxaq ajk'amaya'l">
+
+
