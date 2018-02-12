@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "პროქსის გამართვა ინტერნეტზე წვდომისათვის">
+
+<!ENTITY  proxyTitle.label2             "პროქსის გამართვა ინტერნეტზე წვდომისათვის">
 <!ENTITY  noProxyTypeRadio.label        "პროქსის გარეშე">
 <!ENTITY  noProxyTypeRadio.accesskey    "გ">
 <!ENTITY  systemTypeRadio.label         "სისტემის პროქსის პარამეტრებით სარგებლობა">
