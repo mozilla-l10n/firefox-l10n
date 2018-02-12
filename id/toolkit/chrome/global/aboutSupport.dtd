@@ -25,6 +25,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareType "Jenis">
 <!ENTITY aboutSupport.securitySoftwareName "Nama">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antiperangkatpengintai">
 <!ENTITY aboutSupport.securitySoftwareFirewall "Tembok Api">
 
 <!ENTITY aboutSupport.featuresTitle "Fitur &brandShortName;">
