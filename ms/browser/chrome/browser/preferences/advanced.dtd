@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Proksi Rangkaian">
 
 <!ENTITY connectionDesc.label            "Tentukan cara &brandShortName; menyambung ke Internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Ketahui selanjutnya">
 <!ENTITY connectionSettings.label        "Tetapan…">
 <!ENTITY connectionSettings.accesskey    "t">
 
 <!ENTITY httpCache.label                 "Cache Kandungan Web">
-
-<!ENTITY offlineStorage2.label           "Data Kandungan Web Luar talian dan Pengguna">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Data Laman">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB daripada ruang">
 <!ENTITY clearCacheNow.label             "Buang Sekarang">
 <!ENTITY clearCacheNow.accesskey         "B">
-<!ENTITY clearOfflineAppCacheNow.label   "Buang Sekarang">
-<!ENTITY clearOfflineAppCacheNow.accesskey "S">
 <!ENTITY overrideSmartCacheSize.label    "Terbalikkan pengurusan cache automatik">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Kemaskini enjin carian secara automatik">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Maklumkan anda apabila laman web mahu menyimpan data bagi kegunaan luar talian">
-<!ENTITY offlineStorageNotify.accesskey           "B">
-<!ENTITY offlineStorageNotifyExceptions.label     "Pengecualian…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "c">
-
-<!ENTITY offlineAppsList3.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk digunakan ketika luar talian">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Buang…">
-<!ENTITY offlineAppsListRemove.accesskey "B">
-<!ENTITY offlineAppRemove.confirm        "Buang data luar talian">
 
 <!ENTITY certificateTab.label            "Sijil">
 <!ENTITY certPersonal2.description       "Apabila pelayan meminta sijil peribadi anda">
