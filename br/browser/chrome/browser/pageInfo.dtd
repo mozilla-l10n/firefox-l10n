@@ -47,7 +47,7 @@
 <!ENTITY  feedTab               "Lanvioù">
 <!ENTITY  feedTab.accesskey     "n">
 <!ENTITY  feedSubscribe         "Koumanantiñ">
-<!ENTITY  feedSubscribe.accesskey "e">
+<!ENTITY  feedSubscribe.accesskey "K">
 
 <!ENTITY  permTab               "Aotreoù">
 <!ENTITY  permTab.accesskey     "t">
@@ -59,9 +59,6 @@
 <!ENTITY  permBlock             "Herzel">
 <!ENTITY  permissionsFor        "Aotreoù evit :">
 <!ENTITY  permPlugins           "Gweredekaat an enlugelladoù">
-
-<!ENTITY  permClearStorage           "Skarzhañ ar c'hadaviñ">
-<!ENTITY  permClearStorage.accesskey "c">
 
 <!ENTITY  securityTab           "Diogelroez">
 <!ENTITY  securityTab.accesskey "g">
