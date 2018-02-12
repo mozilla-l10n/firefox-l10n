@@ -722,6 +722,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Inka">
 <!ENTITY guest_session_dialog_cancel "Kunchatu">
 <!ENTITY new_guest_session_title "&brandShortName; ntaki tsaà vichi">
+<!ENTITY new_guest_session_text2 "Nivi niku ku kuachuiña cha ma ku kunchei tutuku (tu\&apos;un see, ña ntsinu yata, ni ñaa nchikavau).\n\nTa nxinu sai tutuña ku ntoi cha ku kitsa meu.">
 <!ENTITY guest_browsing_notification_title "Maku ndanduku">
 <!ENTITY guest_browsing_notification_text "Katavi tava keu">
 
