@@ -46,6 +46,8 @@ available. -->
 <!ENTITY networkProxy.label              "ქსელის პროქსი">
 
 <!ENTITY connectionDesc.label            "მიუთითეთ, თუ როგორ დაუკავშირდეს &brandShortName; ინტერნეტს">
+
+<!ENTITY connectionSettingsLearnMore.label "ვრცლად">
 <!ENTITY connectionSettings.label        "პარამეტრები…">
 <!ENTITY connectionSettings.accesskey    "პ">
 
