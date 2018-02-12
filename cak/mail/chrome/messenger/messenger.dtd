@@ -362,7 +362,14 @@
 <!ENTITY editAsNewMsgCmd.label "Tinuk' Achi'el K'ak'a' Tzijol">
 <!ENTITY editAsNewMsgCmd.accesskey "n">
 <!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "Tinuk' Yujun Tzijol">
+<!ENTITY editDraftMsgCmd.accesskey "Y">
+<!ENTITY editTemplateMsgCmd.label "Tinuk' Kaxawäch">
+<!ENTITY editTemplateMsgCmd.accesskey "K">
+<!ENTITY newMsgFromTemplateCmd.label "K'ak'a' Rutzijol pa Kaxawäch">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
+<!ENTITY createFilter.label "Titz'uk Chayub'äl Rik'in Rutzijol…">
+<!ENTITY createFilter.accesskey "u">
 <!ENTITY moveMsgToMenu.label "Tiq'asäx Pa">
 <!ENTITY moveMsgToMenu.accesskey "q">
 <!ENTITY moveCopyMsgRecentMenu.label "K'ak'a'">
@@ -420,6 +427,8 @@
 <!ENTITY markAsNotJunkCmd.label "Achi'el Man Seq' Ta">
 <!ENTITY markAsNotJunkCmd.accesskey "M">
 <!ENTITY markAsNotJunkCmd.key "s">
+<!ENTITY recalculateJunkScoreCmd.label "Kesamajïx Ruchajinela' Seq' Taqoya'l">
+<!ENTITY recalculateJunkScoreCmd.accesskey "R">
 <!ENTITY openMessageWindowCmd.label "Tijaq Rutzijol">
 <!ENTITY openMessageWindowCmd.accesskey "T">
 <!ENTITY openMessageWindowCmd.key "o">
@@ -428,10 +437,14 @@
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Taq taqoj">
 <!ENTITY openAttachmentListCmd.accesskey "q">
+<!ENTITY openFeedMessage1.label "Toq Yejaq Rutzijol Feed">
+<!ENTITY openFeedMessage1.accesskey "Y">
 <!ENTITY openFeedWebPage.label "Tijaq achi'el Ajk'maya'l Ruxaq">
 <!ENTITY openFeedWebPage.accesskey "A">
 <!ENTITY openFeedSummary.label "Tijaq achi'el Ch'utitzijol">
 <!ENTITY openFeedSummary.accesskey "C">
+<!ENTITY openFeedWebPageInMP.label "Tijalwachïx chi kikojol Ajk'amaya'l Ruxaq chuqa' Ch'utitzijol pa ri Rupas Tzijol">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Window">
@@ -446,6 +459,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Taq tz'aqat">
 <!ENTITY addons.accesskey "t">
+<!ENTITY addonPrefs.label "Kicha'oj Tz'aqat">
+<!ENTITY addonPrefs.accesskey "K">
+<!ENTITY addonPrefsUnix.label "Kajowab'al Tz'aqat">
+<!ENTITY addonPrefsUnix.accesskey "K">
+<!ENTITY addonNoPrefs.label "Majun runuk'ulem Tz'aqat nilitäj.">
 <!ENTITY activitymanager.label "Runuk'samajel Samaj">
 <!ENTITY activitymanager.accesskey "j">
 <!ENTITY imAccountsStatus.label "Rub'anikil Chat">
