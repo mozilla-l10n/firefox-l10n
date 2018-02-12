@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Nettverksproxy">
 
 <!ENTITY connectionDesc.label            "Still inn korleis &brandShortName; koplar seg til internett">
+
+<!ENTITY connectionSettingsLearnMore.label "Les meir">
 <!ENTITY connectionSettings.label        "Innstillingar…">
 <!ENTITY connectionSettings.accesskey    "I">
 
 <!ENTITY httpCache.label                 "Snøgglagra nettinnhald (Cache)">
-
-<!ENTITY offlineStorage2.label           "Fråkopla nettinnhald og brukardata">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Sidedata">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       " MB diskplass">
 <!ENTITY clearCacheNow.label             "Tøm no">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY clearOfflineAppCacheNow.label   "Tøm no">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ø">
 <!ENTITY overrideSmartCacheSize.label    "Overstyr automatisk kontroll av snøgglager">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Oppdater søkjemotorar automatisk">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Fortel meg når ein nettstad ber om å lagre data for fråkopla bruk">
-<!ENTITY offlineStorageNotify.accesskey           "F">
-<!ENTITY offlineStorageNotifyExceptions.label     "Unntak…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "U">
-
-<!ENTITY offlineAppsList3.label          "Følgjande nettsider har løyve til å lagre datafiler for fråkopla bruk">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Slett…">
-<!ENTITY offlineAppsListRemove.accesskey "S">
-<!ENTITY offlineAppRemove.confirm        "Slett fråkopla-data">
 
 <!ENTITY certificateTab.label            "Sertifikat">
 <!ENTITY certPersonal2.description       "Når ein server ber om det personlege sertifikatet ditt">
