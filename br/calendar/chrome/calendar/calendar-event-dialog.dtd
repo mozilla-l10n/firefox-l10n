@@ -13,7 +13,7 @@
 <!ENTITY newevent.status.label                    "Stad" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "Anspisaet" >
-<!ENTITY newevent.eventStatus.none.accesskey      "o" >
+<!ENTITY newevent.eventStatus.none.accesskey      "n" >
 <!ENTITY newevent.todoStatus.none.label           "Anspisaet" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Nullet" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "l" >
@@ -190,15 +190,15 @@
 <!ENTITY event.calendar.label                             "Deiziataerioù :" >
 <!ENTITY event.calendar.accesskey                         "e">
 <!ENTITY event.attendees.label                            "Perzhidi:" >
-<!ENTITY event.attendees.accesskey                        "n">
+<!ENTITY event.attendees.accesskey                        "P">
 <!ENTITY event.alldayevent.label                          "Darvoud an deiz-pad" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Adalek:" >
 <!ENTITY event.from.accesskey                             "A">
 <!ENTITY task.from.label                                  "Adalek:" >
 <!ENTITY task.from.accesskey                              "A">
-<!ENTITY event.to.label                                   "&amp;Betek:" >
-<!ENTITY event.to.accesskey                               "r">
+<!ENTITY event.to.label                                   "Betek:" >
+<!ENTITY event.to.accesskey                               "k">
 <!ENTITY task.to.label                                    "Termen:" >
 <!ENTITY task.to.accesskey                                "r">
 <!ENTITY task.status.label                                "Stad:" >
@@ -209,9 +209,9 @@
 <!ENTITY event.reminder.label                             "Koun:" >
 <!ENTITY event.reminder.accesskey                         "o">
 <!ENTITY event.description.label                          "Deskrivadur:" >
-<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.description.accesskey                      "D">
 <!ENTITY event.attachments.label                          "Stagadennoù:" >
-<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.accesskey                      "t" >
 <!ENTITY event.attachments.menubutton.label               "Stagañ">
 <!ENTITY event.attachments.menubutton.accesskey           "S">
 <!ENTITY event.attachments.url.label                      "Pajenn Gwiad...">
