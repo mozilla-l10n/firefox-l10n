@@ -21,4 +21,4 @@
 <!ENTITY aboutPage.license.label                "Лицензна информация">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
-<!ENTITY aboutPage.logoTrademark                "Firefox и логата на Firefox са търговски марки на Mozilla Foundation.">
+<!ENTITY aboutPage.logoTrademark                "Firefox и логотипа на Firefox са търговски марки на Mozilla Foundation.">
