@@ -47,15 +47,26 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
+<!ENTITY  aboutDevtools.enable.learnMoreLink "Nong ngec mapol ikom Gitic pa Ludiro">
 
-<!ENTITY  aboutDevtools.enable.enableButton "Cak Gitic pa ludiro">
+<!ENTITY  aboutDevtools.enable.enableButton "Cak Gitic pa Ludiro">
+<!ENTITY  aboutDevtools.enable.closeButton "Lor potbuk man">
 
+<!ENTITY  aboutDevtools.enable.closeButton2 "Lor dirica matidi man">
 
+<!ENTITY  aboutDevtools.welcome.title "Wajoli i Gitic pa Ludiro me Firefox!">
 
+<!ENTITY  aboutDevtools.newsletter.title "Waraga lok angeya pa Ludiro me Mozilla">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "Wek ki cwal lok angeya pa ludiro, ngec ki jami tic atir i canduk mamegi.">
+<!ENTITY  aboutDevtools.newsletter.email.placeholder "Email">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Atye agonya ki Mozilla me loono ngec mamega kit ma kitito kwede ii <a class='external' href='https://www.mozilla.org/privacy/'>Cik me Mung man</a>.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "Coone">
+<!ENTITY  aboutDevtools.newsletter.thanks.title "Pwoc!">
 
+<!ENTITY  aboutDevtools.footer.message "Itye ka yenyo gin makato Gitic pa Ludiro? Nen layeny me Firefox ma ki yubo atika ne pi ludiro ki tic me kare ma nyen.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
