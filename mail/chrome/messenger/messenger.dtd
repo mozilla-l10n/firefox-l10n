@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Sohbet">
 <!ENTITY goChatCmd.accesskey "b">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Yıldızlı ileti">
 <!ENTITY prevStarredMsgCmd.accesskey "d">
@@ -367,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Taslak iletiyi düzenle">
 <!ENTITY editDraftMsgCmd.accesskey "d">
+<!ENTITY editTemplateMsgCmd.label "Şablonu düzenle">
+<!ENTITY editTemplateMsgCmd.accesskey "b">
 <!ENTITY newMsgFromTemplateCmd.label "Taslak kullanarak yeni ileti yaz">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "İletiden süzgeç oluştur…">
@@ -510,6 +511,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Eklenti hata ayıklayıcısı">
 <!ENTITY addonDebugCmd.accesskey "E">
+<!ENTITY debugAddonsCmd.label "Eklentilerde hata ayıkla">
+<!ENTITY debugAddonsCmd.accesskey "h">
 <!ENTITY tabsDebugCmd.label "İçerik çerçevesi hata ayıklayıcısı">
 <!ENTITY tabsDebugCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.label "Hata konsolu">
@@ -758,6 +761,8 @@
 <!ENTITY contextEditMsgAsNew.label "Yeni ileti olarak düzenle">
 <!ENTITY contextEditMsgAsNew.accesskey "o">
 <!ENTITY contextEditDraftMsg.label "Taslak iletiyi düzenle">
+<!ENTITY contextEditTemplate.label "Şablonu düzenle">
+<!ENTITY contextEditTemplate.accesskey "b">
 <!ENTITY contextArchive.label "Arşivle">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Yalnızca göndereni yanıtla">
