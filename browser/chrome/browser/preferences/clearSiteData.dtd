@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "માહિતી સાફ કરો">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY windowClose.key              "w">
+
+
+<!ENTITY clearCache.label             "કેશ થયેલ વેબ સમાવિષ્ટો">
+<!ENTITY clearCache.accesskey         "W">
+
+<!ENTITY button.cancel.label          "રદ કરો">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "સાફ કરો">
+<!ENTITY button.clear.accesskey       "I">
