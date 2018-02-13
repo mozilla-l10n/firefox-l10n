@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "नेटवर्क प्रॉक्सी">
 
 <!ENTITY connectionDesc.label            "विन्यस्त करें कि कैसे &brandShortName; इंटरनेट से जुड़ता है">
+
+<!ENTITY connectionSettingsLearnMore.label "अधिक जानें">
 <!ENTITY connectionSettings.label        "सेटिंग…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "कैश्च वेब कंटेंट">
-
-<!ENTITY offlineStorage2.label           "ऑफ़ाइल वेबकंटेंट और उपयोक्ता आँकड़े">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "साइट आँकड़ा">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB स्थान">
 <!ENTITY clearCacheNow.label             "अब साफ करें">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "अभी साफ करें">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "स्वचालित कैश प्रबंधन को अधिरोहित करें">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "स्वचालित रूप से खोज इंजन का अद्यतन करें">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "आपको बताएँ कि कब वेबसाइट ऑफ़लाइन प्रयोग के लिए आँकड़ा जमा करने के लिए पूछता है">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "अपवाद…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "निम्नलिखित वेबसाइटों को ऑफ़लाइन उपयोग के लिए डेटा संग्रहीत करने की अनुमति है">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "हटाएँ…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "ऑफ़लाइन आँकड़ा हटाएँ">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
 <!ENTITY certPersonal2.description       "जब एक सर्वर आपके निजी प्रमाणपत्र का आग्रह करता है">
