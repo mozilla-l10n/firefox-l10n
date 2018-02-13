@@ -603,14 +603,24 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Tik'ut näj rupam pa re tzijol re'">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "T">
-<!ENTITY editRemoteContentSettings.label "Kicha'oj runuk'ulem näj rupam…">
+<!ENTITY editRemoteContentSettings.label "Kicha'oj runuk'ik näj rupam…">
+<!ENTITY editRemoteContentSettings.accesskey "K">
+<!ENTITY editRemoteContentSettingsUnix.label "Kajowaxik runuk'ik näj rupam…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "K">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Tirepüx rutzijol ruk'ayewal re tzijol re'">
+<!ENTITY phishingOptionIgnore.accesskey "r">
+<!ENTITY phishingOptionSettings.label "Kenuk' kicha'oj kilixik lajab'…">
+<!ENTITY phishingOptionSettings.accesskey "n">
+<!ENTITY phishingOptionSettingsUnix.label "Kenuk' kajowab'al kilixik lajab'…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "n">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "K'ak'a' Rutzijol">
 <!ENTITY appmenuNewContactCmd.label "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl…">
 <!ENTITY appmenuEditMenu.label "Tinuk'">
+<!ENTITY appmenuToolbarLayout.label "Ruwachib'enïk Rukajtz'ik Samajib'äl…">
 <!ENTITY appmenuSelectThread.label "Ticha' Tzijonem">
 <!ENTITY appmenuSelectFlagged.label "Kecha' taq Tzijol K'o Kiq'ij">
 
@@ -652,6 +662,8 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "q">
 <!ENTITY folderContextUnsubscribe.label "Tiq'at rutz'ib'axik b'i'aj">
 <!ENTITY folderContextUnsubscribe.accesskey "T">
+<!ENTITY folderContextMarkNewsgroupRead.label "Tiya' Retal Kimolaj Tzijol achi'el Sik'in">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "t">
 <!ENTITY folderContextMarkMailFolderRead.label "Tiya' Retal Yakwuj Sik'in">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "t">
 <!ENTITY folderContextSubscribe.label "Titz'ib'äx nub'i'…">
@@ -666,6 +678,8 @@
 <!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Ri Rub'i' o ri Taqoya'l kik'wan:">
+<!ENTITY SearchNameOrEmail.accesskey "R">
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.placeholder "Kekanöx tzijol…">
@@ -703,10 +717,18 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Kecha' taq che'el richin nik'ut">
+<!ENTITY threadColumn2.tooltip "Tik'ut rutzijol chi tzijonem">
+<!ENTITY fromColumn2.tooltip "Kenuk' chi richin">
+<!ENTITY recipientColumn2.tooltip "Tinuk' chi k'ulunel">
+<!ENTITY correspondentColumn2.tooltip "Tinuk' chi ajtaqikil">
 <!ENTITY subjectColumn2.tooltip "Tinuk' chi taqikil">
 <!ENTITY dateColumn2.tooltip "Kenuk' chi q'ijul">
+<!ENTITY priorityColumn2.tooltip "Tinuk' chi ya'on ruq'ij">
 <!ENTITY tagsColumn2.tooltip "Tinuk' chi taq retal">
+<!ENTITY accountColumn2.tooltip "Tinuk' chi rub'i' taqoya'l">
+<!ENTITY statusColumn2.tooltip "Tinuk' chi rub'anikil">
 <!ENTITY sizeColumn2.tooltip "Tinuk' chi nimilem">
+<!ENTITY junkStatusColumn2.tooltip "Tinuk' chi rub'anikil seq'">
 <!ENTITY locationColumn2.tooltip "Tinuk' chi k'ojlib'äl">
 
 <!-- Thread Pane Context Menu -->
