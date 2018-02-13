@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "We streven ernaar u keuzes te bieden en alleen te verzamelen wat we nodig hebben om &brandShortName; voor iedereen beschikbaar te maken en te verbeteren. We vragen altijd toestemming voordat we persoonlijke gegevens ontvangen.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Privacyverklaring">
 
+<!ENTITY collectBrowserErrors.label          "&brandShortName; toestaan om foutrapporten van de browser (waaronder foutmeldingen) naar Mozilla te verzenden">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Meer info">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; toestaan om crashrapporten naar Mozilla te verzenden">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Meer info">
