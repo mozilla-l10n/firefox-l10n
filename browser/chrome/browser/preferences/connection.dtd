@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "İnternete erişmek için vekil sunucuları yapılandır">
+
+<!ENTITY  proxyTitle.label2             "İnternete erişmek için vekil sunucuyu yapılandır">
 <!ENTITY  noProxyTypeRadio.label        "Vekil sunucu yok">
 <!ENTITY  noProxyTypeRadio.accesskey    "e">
 <!ENTITY  systemTypeRadio.label         "Sistem vekil sunucu ayarlarını kullan">
