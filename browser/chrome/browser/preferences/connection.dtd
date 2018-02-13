@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Tetapkan Proksi untuk Mengakses Internet">
+
+<!ENTITY  proxyTitle.label2             "Tetapkan Akses Proksi ke Internet">
 <!ENTITY  noProxyTypeRadio.label        "Tiada proksi">
 <!ENTITY  noProxyTypeRadio.accesskey    "p">
 <!ENTITY  systemTypeRadio.label         "Guna tetapan proksi sistem">
