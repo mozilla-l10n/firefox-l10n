@@ -729,9 +729,17 @@
 <!ENTITY statusColumn2.tooltip "Tinuk' chi rub'anikil">
 <!ENTITY sizeColumn2.tooltip "Tinuk' chi nimilem">
 <!ENTITY junkStatusColumn2.tooltip "Tinuk' chi rub'anikil seq'">
+<!ENTITY unreadColumn2.tooltip "Kajilab'al taq tzijol man esik'in ta pa tzijonem">
+<!ENTITY totalColumn2.tooltip "Ronojel ri kajilab'al rutzijol pa tzijonem">
+<!ENTITY readColumn2.tooltip "Tinuk' chi sik'in">
+<!ENTITY receivedColumn2.tooltip "Ticholajïx chi ruq'ijul k'ulun">
+<!ENTITY starredColumn2.tooltip "Tinuk' chi nimirisan">
 <!ENTITY locationColumn2.tooltip "Tinuk' chi k'ojlib'äl">
+<!ENTITY idColumn2.tooltip "Ticholajïx chi k'ulun">
+<!ENTITY attachmentColumn2.tooltip "Tinuk' chi taqoj">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "K'ak'a' Rutzijol pa Kaxawäch">
 <!ENTITY contextOpenNewWindow.label "Tijaq ri Rutzijol pa jun K'ak'a' Tzuwäch">
 <!ENTITY contextOpenNewWindow.accesskey "T">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -742,14 +750,19 @@
 <!ENTITY contextOpenNewTab.accesskey "R">
 <!ENTITY contextOpenConversation.label "Tijaq Rutzijol pa Tzijonem">
 <!ENTITY contextOpenConversation.accesskey "q">
+<!ENTITY contextOpenContainingFolder.label "Tijaq Rutzijol pa Ruyakwuj K'wayonel">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Tinuk' Achi'el K'ak'a' Tzijol">
 <!ENTITY contextEditMsgAsNew.accesskey "T">
+<!ENTITY contextEditDraftMsg.label "Tinuk' Yujun Tzijol">
 <!ENTITY contextEditTemplate.label "Tinuk' Kaxawäch">
 <!ENTITY contextEditTemplate.accesskey "K">
 <!ENTITY contextArchive.label "Yakb'äl">
 <!ENTITY contextArchive.accesskey "k">
 <!ENTITY contextReplySender.label "Titzolïx Tzij Xa Xe Chi Re ri Taqonel">
 <!ENTITY contextReplySender.accesskey "T">
+<!ENTITY contextReplyNewsgroup2.label "Kojqaxik Kimolaj Tzijol">
+<!ENTITY contextReplyNewsgroup2.accesskey "o">
 <!ENTITY contextReplyAll.label "Titzolïx tzij chi ke Konojel">
 <!ENTITY contextReplyAll.accesskey "K">
 <!ENTITY contextReplyList.label "Titzolïx tzij chi re ri Cholb'äl">
@@ -762,6 +775,8 @@
 <!ENTITY contextForwardAsInline.accesskey "P">
 <!ENTITY contextForwardAsAttachmentItem.label "Taqoj">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "T">
+<!ENTITY contextMultiForwardAsAttachment.label "Titaq chik achi'el taq taqoj">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "a">
 <!ENTITY contextMoveMsgMenu.label "Tiq'asäx Pa">
 <!ENTITY contextMoveMsgMenu.accesskey "T">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "K'ak'a'">
@@ -790,6 +805,7 @@
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
+<!ENTITY columnPicker.resetToInbox.label "Ketzolïx taq che'el e k'o">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -798,6 +814,7 @@
      folder(s). The sub-menu items indicate whether we want to apply it to just
      a folder or also its children.
   -->
+<!ENTITY columnPicker.applyTo.label "Tokisäx tem chi re…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
      This option in the thread pane column picker is found on a sub-menu beneath
      the "columnPicker.applyTo.label" alongside
