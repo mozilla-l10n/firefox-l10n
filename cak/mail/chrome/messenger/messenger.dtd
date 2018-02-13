@@ -601,6 +601,9 @@
 <!-- Toolbar Button Popup -->
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Tik'ut näj rupam pa re tzijol re'">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "T">
+<!ENTITY editRemoteContentSettings.label "Kicha'oj runuk'ulem näj rupam…">
 
 <!-- Phishing Button Popup -->
 
