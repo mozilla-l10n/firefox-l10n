@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Proxy's foar tagong ta ynternet ynstelle">
+
+<!ENTITY  proxyTitle.label2             "Proxy foar tagong ta ynternet ynstelle">
 <!ENTITY  noProxyTypeRadio.label        "Gjin proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "G">
 <!ENTITY  systemTypeRadio.label         "Proxyynstellingen systeem brûke">
