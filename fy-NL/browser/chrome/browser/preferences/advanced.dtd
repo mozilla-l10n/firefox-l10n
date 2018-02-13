@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Netwurkproxy">
 
 <!ENTITY connectionDesc.label            "Bepaal hoe't &brandShortName; ferbining makket mei ynternet">
+
+<!ENTITY connectionSettingsLearnMore.label "Lês mear">
 <!ENTITY connectionSettings.label        "Ynstellingen…">
 <!ENTITY connectionSettings.accesskey    "Y">
 
 <!ENTITY httpCache.label                 "Buffere webynhâld">
-
-<!ENTITY offlineStorage2.label           "Offlinewebynhâld en brûkersgegevens">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Websitegegevens">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB romte">
 <!ENTITY clearCacheNow.label             "No wiskje">
 <!ENTITY clearCacheNow.accesskey         "w">
-<!ENTITY clearOfflineAppCacheNow.label   "No wiskje">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Automatysk bufferbehear net brûke">
 <!ENTITY overrideSmartCacheSize.accesskey "A">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Sykmasines automatysk bywurkje">
 <!ENTITY enableSearchUpdate2.accesskey   "y">
-
-<!ENTITY offlineStorageNotify.label               "Jo fertelle as in website freget om gegevens te bewarjen foar offline gebrûk">
-<!ENTITY offlineStorageNotify.accesskey           "J">
-<!ENTITY offlineStorageNotifyExceptions.label     "Utsûnderingen…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "t">
-
-<!ENTITY offlineAppsList3.label          "De folgjende websites hawwe tastimming om gegevens te bewarjen foar offlinegebrûk">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Fuortsmite…">
-<!ENTITY offlineAppsListRemove.accesskey "F">
-<!ENTITY offlineAppRemove.confirm        "Bewarre gegevens fuortsmite">
 
 <!ENTITY certificateTab.label            "Sertifikaten">
 <!ENTITY certPersonal2.description       "Wannear in server om jo persoanlike sertifikaat freget">
