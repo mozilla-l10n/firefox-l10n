@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "設定存取網際網路的代理伺服器 (Proxy)">
+
+<!ENTITY  proxyTitle.label2             "設定存取網際網路的代理伺服器">
 <!ENTITY  noProxyTypeRadio.label        "不使用 Proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "使用系統 Proxy 設定">

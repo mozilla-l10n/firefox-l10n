@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "網路代理伺服器">
 
 <!ENTITY connectionDesc.label            "設定 &brandShortName; 要如何連到網路">
+
+<!ENTITY connectionSettingsLearnMore.label "了解更多">
 <!ENTITY connectionSettings.label        "設定…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "已快取的網頁內容">
-
-<!ENTITY offlineStorage2.label           "離線網頁內容與使用者資料">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "網站資料">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB 的空間">
 <!ENTITY clearCacheNow.label             "立刻清除">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "立刻清除">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "停用自動快取管理">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "自動更新搜尋引擎">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "若網站要求儲存資料以供離線使用時告訴您">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "例外網站…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "已允許下列網站儲存資料離線使用">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "移除…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "移除離線資料">
 
 <!ENTITY certificateTab.label            "憑證">
 <!ENTITY certPersonal2.description       "當伺服器要求您的個人憑證時">
