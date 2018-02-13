@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Настроювання проксі для доступу в інтернет">
+
+<!ENTITY  proxyTitle.label2             "Налаштувати доступ до Інтернету через проксі">
 <!ENTITY  noProxyTypeRadio.label        "Без проксі">
 <!ENTITY  noProxyTypeRadio.accesskey    "Б">
 <!ENTITY  systemTypeRadio.label         "Використовувати системні налаштування проксі">
