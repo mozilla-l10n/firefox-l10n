@@ -133,7 +133,7 @@ available. -->
                                          "Zjistit více">
 <!ENTITY limitContentProcessOption.label "Omezit počet procesů pro obsah na">
 <!ENTITY limitContentProcessOption.description
-                                         "Další procesy pro obsah mohou zlepšit výkon s více otevřenými panely, ale spotřebují také více paměti.">
+                                         "Další procesy pro obsah mohou zlepšit výkon s více otevřenými panely, ale potřebují více paměti.">
 <!ENTITY limitContentProcessOption.accesskey   "b">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu aplikace &brandShortName;.">
