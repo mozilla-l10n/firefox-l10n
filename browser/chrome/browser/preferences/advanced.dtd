@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Dirprwy Rhwydwaith">
 
 <!ENTITY connectionDesc.label            "Pennu sut mae &brandShortName; yn cysylltu â'r We">
+
+<!ENTITY connectionSettingsLearnMore.label "Dysgu rhagor">
 <!ENTITY connectionSettings.label        "Gosodiadau…">
 <!ENTITY connectionSettings.accesskey    "G">
 
 <!ENTITY httpCache.label                 "Cynnwys Gwe wedi ei Storio">
-
-<!ENTITY offlineStorage2.label           "Cynnwys Gwe All-lein a Data Defnyddiwr">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Data Gwefan">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB o le">
 <!ENTITY clearCacheNow.label             "Clirio Nawr">
 <!ENTITY clearCacheNow.accesskey         "N">
-<!ENTITY clearOfflineAppCacheNow.label   "Clirio Nawr">
-<!ENTITY clearOfflineAppCacheNow.accesskey "C">
 <!ENTITY overrideSmartCacheSize.label    "Anwybyddu rheolaeth storfa awtomatig">
 <!ENTITY overrideSmartCacheSize.accesskey "A">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Diweddaru peiriannau chwilio yn awtomatig">
 <!ENTITY enableSearchUpdate2.accesskey   "p">
-
-<!ENTITY offlineStorageNotify.label               "Dweud wrthyf pan fydd gwefan yn gofyn i storio data ar gyfer defnydd all-lein">
-<!ENTITY offlineStorageNotify.accesskey           "D">
-<!ENTITY offlineStorageNotifyExceptions.label     "Eithriadau…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "E">
-
-<!ENTITY offlineAppsList3.label          "Mae'r gwefannau canlynol yn cael caniatâd i storio data ar gyfer defnydd all-lein">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Tynnu…">
-<!ENTITY offlineAppsListRemove.accesskey "T">
-<!ENTITY offlineAppRemove.confirm        "Tynnu data all-lein">
 
 <!ENTITY certificateTab.label            "Tystysgrifau">
 <!ENTITY certPersonal2.description       "Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:">
