@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Verileri Temizle">
+<!ENTITY window.width                 "35em">
+
+
+<!ENTITY clearSiteData.label          "Çerezler ve site verileri">
+<!ENTITY clearSiteData.accesskey      "s">
+<!ENTITY clearSiteData.description    "Bunları temizlerseniz web sitelerindeki oturumlarınız kapanabilir">
+
+<!ENTITY clearCache.label             "Önbelleğe alınmış web içeriği">
+<!ENTITY clearCache.accesskey         "w">
+<!ENTITY clearCache.description       "Web sitelerinin resim ve verileri yeniden yüklemesi gerekir">
+
+<!ENTITY button.cancel.label          "Vazgeç">
+<!ENTITY button.cancel.accesskey      "z">
+<!ENTITY button.clear.label           "Temizle">
+<!ENTITY button.clear.accesskey       "l">
