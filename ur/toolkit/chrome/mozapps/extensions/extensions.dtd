@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "ایڈ اون مینیجر">
 
 <!ENTITY search.placeholder                   "تمام ایڈ اون تلاش کریں">
+
+<!ENTITY search.placeholder2                  "addons.mozilla.org پر تلاش کریں">
 <!ENTITY search.buttonlabel                   "تلاش">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -22,9 +24,6 @@
 
 <!ENTITY getThemes.description                "اپنے براؤزر کو مشخص کرنا چاہ رہے ہیں؟">
 <!ENTITY getThemes.learnMore                  "ہزاروں خیالیہ سے انتخاب کریں۔">
-
-<!ENTITY cmd.back.tooltip                     "ایک صفحہ واپس جائیں">
-<!ENTITY cmd.forward.tooltip                  "ایک صفحہ آگے جائیں">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "کچھ توسیعات کی تصدیق نہیں ہو سکی">
@@ -256,3 +255,5 @@
 <!ENTITY pluginDeprecation.description "کسی شہ کی کمی ہے؟ &brandShortName;. کی جانب سے کچھ بلگ ان میں تعاون اب نہیں رہا ">
 <!ENTITY pluginDeprecation.learnMore "مزید سیکھیں">
 
+<!ENTITY legacyWarning.showLegacy "میراث توسیعات دکھائیں">
+<!ENTITY legacyExtensions.title "میراث توسیعات">
