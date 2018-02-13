@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "નેટવર્ક પ્રોક્સી">
 
 <!ENTITY connectionDesc.label            "કેવી રીતે &brandShortName; ઈન્ટરનેટ સાથે જોડાય છે તે રૂપરેખાંકિત કરો">
+
+<!ENTITY connectionSettingsLearnMore.label "વધુ જાણો">
 <!ENTITY connectionSettings.label        "સેટીંગ...">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "કેશ થયેલ વેબ સમાવિષ્ટો">
-
-<!ENTITY offlineStorage2.label           "ઑફલાઇન વેબ સમાવિષ્ટો અને વપરાશકર્તા માહિતી">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "સાઇટ ડેટા">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB જેટલી જગ્યા">
 <!ENTITY clearCacheNow.label             "હમણાં સાફ કરો">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "હમણાં સાફ કરો">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "આપોઆપ કેશ સંચાલન પર ફરીથી લખો">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "આપમેળે શોધ એન્જિન અપડેટ કરો">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "જ્યારે કોઈ વેબસાઇટ ઑફલાઇન ઉપયોગ માટે ડેટા સ્ટોર કરવા માટે પૂછે ત્યારે તમને જણાવશે">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "અપવાદો…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "નીચેની વેબસાઇટ્સને ઑફલાઇન ઉપયોગ માટે ડેટા સંગ્રહિત કરવાની મંજૂરી છે">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "દૂર કરો...">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "ઓફલાઈન માહિતી દૂર કરો">
 
 <!ENTITY certificateTab.label            "પ્રમાણપત્રો">
 <!ENTITY certPersonal2.description       "સર્વર તમારી વ્યક્તિગત પ્રમાણપત્રની વિનંતી કરે ત્યારે">
