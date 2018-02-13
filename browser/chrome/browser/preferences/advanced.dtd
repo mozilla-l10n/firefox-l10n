@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Желілік прокси">
 
 <!ENTITY connectionDesc.label            "&brandShortName; Интернетке байланысу параметрлерін баптау">
+
+<!ENTITY connectionSettingsLearnMore.label "Көбірек білу">
 <!ENTITY connectionSettings.label        "Баптау…">
 <!ENTITY connectionSettings.accesskey    "а">
 
 <!ENTITY httpCache.label                 "Кэштелген веб құрамасы">
-
-<!ENTITY offlineStorage2.label           "Оффлайн веб құрамасы мен пайдаланушы мәліметтері">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Сайт деректері">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "МБ орын">
 <!ENTITY clearCacheNow.label             "Қазір өшіру">
 <!ENTITY clearCacheNow.accesskey         "з">
-<!ENTITY clearOfflineAppCacheNow.label   "Қазір өшіру">
-<!ENTITY clearOfflineAppCacheNow.accesskey "з">
 <!ENTITY overrideSmartCacheSize.label    "Кэшті автобасқаруды елемеу">
 <!ENTITY overrideSmartCacheSize.accesskey "м">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Іздеу жүйелерін автожаңарту">
 <!ENTITY enableSearchUpdate2.accesskey   "а">
-
-<!ENTITY offlineStorageNotify.label               "Веб-сайт дербес режимде қолданылатын мәліметтерді сақтауды сұраса, сені ескерту">
-<!ENTITY offlineStorageNotify.accesskey           "р">
-<!ENTITY offlineStorageNotifyExceptions.label     "Осыдан бөлек…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "б">
-
-<!ENTITY offlineAppsList3.label          "Келесі вебсайттарға оффлайн қолдануы үшін мәліметті сақтауға рұқсат етілген:">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Өшіру…">
-<!ENTITY offlineAppsListRemove.accesskey "ш">
-<!ENTITY offlineAppRemove.confirm        "Дербес режимдегі веб-сайттардың ақпаратын өшіру">
 
 <!ENTITY certificateTab.label            "Сертификаттар">
 <!ENTITY certPersonal2.description       "Егерде сервер сіздің жеке сертификатыңызды сұраса">
