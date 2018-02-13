@@ -5,3 +5,6 @@
 <!ENTITY virtualFolderListTitle.title        "Dizin Seçin">
 <!ENTITY virtualFolderDesc.label       "Aranacak dizinleri seçin:">
 
+
+<!ENTITY folderName.label "Klasör adı">
+<!ENTITY folderSearch.label "Arama">
