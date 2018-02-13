@@ -44,12 +44,12 @@ available. -->
 <!ENTITY networkProxy.label              "నెట్‌వర్క్ ప్రోక్సీ">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ఎలా అంతర్జాలముకు అనుసంధానించబడుతోందో ఆకృతీకరించు">
+
+<!ENTITY connectionSettingsLearnMore.label "ఇంకా తెలుసుకోండి">
 <!ENTITY connectionSettings.label        "అమరికలు…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "క్యాషేచేసిన వెబ్ విషయం">
-
-<!ENTITY offlineStorage2.label           "ఆఫ్‌లైన్ వెబ్ విషయం మరియు వాడుకరి దత్తాంశం">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "సైటు డేటా">
@@ -70,8 +70,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB జాగాకు">
 <!ENTITY clearCacheNow.label             "ఇప్పుడు శుభ్రపరచు">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "ఇప్పుడు శుభ్రంచేయి">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "స్వయంచాలక క్యాషె నిర్వహణను వోవర్‌రైడ్ చేయి">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -106,16 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "సెర్చింజన్లను స్వయంచాలకంగా తాజాకరించు">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "వెబ్‌ సైటు ఆఫ్‌లైన్ ఉపయోగం కొరకు డాటాను నిల్వచేయుటకు అడిగినప్పుడు మీకు తెలియజేయును">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "మినహాయింపులు…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "తీసివేయి…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "ఆఫ్‌లైన్ డాటాను తీసివేయి">
 
 <!ENTITY certificateTab.label            "ధృవీకరణ పత్రాలు">
 <!ENTITY certPersonal2.description       "సెర్వెర్ మీ వ్యక్తగిత ధృవీకరణపత్రం అభ్యర్ధించినప్పుడు">
