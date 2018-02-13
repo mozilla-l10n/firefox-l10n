@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Clarar le datos">
+<!ENTITY window.width                 "35em">
 
 <!ENTITY windowClose.key              "w">
 
@@ -10,6 +11,8 @@
 <!ENTITY clearSiteData.accesskey      "S">
 
 <!ENTITY clearCache.label             "Contento web in cache">
+<!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "Requirera sitos web pro recargar imagines e datos">
 
 <!ENTITY button.cancel.label          "Cancellar">
 <!ENTITY button.cancel.accesskey      "C">
