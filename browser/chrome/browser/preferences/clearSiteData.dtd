@@ -6,8 +6,17 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Стирання всіх куків і даних сайтів, що зберігаються в &brandShortName;, може призвести до виходу на веб-сайтах та вилучення автономного веб-вмісту.">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Куки і дані сайтів">
 <!ENTITY clearSiteData.accesskey      "К">
+<!ENTITY clearSiteData.description    "При стиранні може виконатись вихід на веб-сайтах">
 
+<!ENTITY clearCache.label             "Кешований веб-вміст">
+<!ENTITY clearCache.accesskey         "ш">
+<!ENTITY clearCache.description       "Веб-сайтам доведеться повторно завантажувати зображення і дані">
 
+<!ENTITY button.cancel.label          "Скасувати">
+<!ENTITY button.cancel.accesskey      "С">
+<!ENTITY button.clear.label           "Стерти">
+<!ENTITY button.clear.accesskey       "т">
