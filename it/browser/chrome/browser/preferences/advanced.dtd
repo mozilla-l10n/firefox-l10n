@@ -24,6 +24,9 @@
 <!ENTITY dataCollection.label "Raccolta e utilizzo dati di &brandShortName;">
 <!ENTITY dataCollectionDesc.label "Cerchiamo di garantire agli utenti la possibilità di scegliere, raccogliendo solo i dati necessari per realizzare e migliorare &brandShortName; per tutti. Chiediamo sempre l’autorizzazione prima di raccogliere dati personali.">
 <!ENTITY dataCollectionPrivacyNotice.label "Informativa sulla privacy">
+<!ENTITY collectBrowserErrors.label "Consenti a &brandShortName; di inviare a Mozilla le segnalazioni di errori nel browser (inclusi i messaggi di errore)">
+<!ENTITY collectBrowserErrors.accesskey "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Ulteriori informazioni">
 <!ENTITY alwaysSubmitCrashReports1.label "Consenti a &brandShortName; di inviare a Mozilla le segnalazioni di arresto anomalo">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "C">
 <!ENTITY crashReporterLearnMore.label "Ulteriori informazioni">
