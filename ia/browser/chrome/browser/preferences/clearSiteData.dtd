@@ -5,10 +5,12 @@
 <!ENTITY window.title                 "Clarar le datos">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Clarar tote le cookies e le datos de sito reservate per &brandShortName; pote te disconnecter ab le sito web e remover le contento web offline. Clarar le datos del cache non afficera tu connexiones.">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Cookies e datos de sitos">
 <!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "Tu pote ser disconnectite ab le sito web si clarate">
 
 <!ENTITY clearCache.label             "Contento web in cache">
 <!ENTITY clearCache.accesskey         "W">
