@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Ffurfweddu'r Dirprwyon i Gael Mynediad i'r Rhyngrwyd">
+
+<!ENTITY  proxyTitle.label2             "Ffurfweddu Mynediad Dirprwy i'r Rhyngrwyd">
 <!ENTITY  noProxyTypeRadio.label        "Dim dirprwy">
 <!ENTITY  noProxyTypeRadio.accesskey    "D">
 <!ENTITY  systemTypeRadio.label         "Defnyddio gosodiadau dirprwyol y system">
