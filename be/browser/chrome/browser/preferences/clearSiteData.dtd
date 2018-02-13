@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Выдаліць дадзеныя">
+<!ENTITY window.width                 "35em">
+
+
+<!ENTITY clearSiteData.label          "Кукі і дадзеныя сайтаў">
+<!ENTITY clearSiteData.accesskey      "с">
+
+<!ENTITY clearCache.label             "Кэшаванае сеціўнае змесціва">
+<!ENTITY clearCache.accesskey         "К">
+
+<!ENTITY button.cancel.label          "Адмяніць">
+<!ENTITY button.cancel.accesskey      "А">
+<!ENTITY button.clear.label           "Ачысціць">
+<!ENTITY button.clear.accesskey       "ч">
