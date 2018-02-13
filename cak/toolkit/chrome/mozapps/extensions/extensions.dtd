@@ -25,9 +25,6 @@
 <!ENTITY getThemes.description                "¿La tajin natojtob'ej nawichinaj ri awokik'amaya'l?">
 <!ENTITY getThemes.learnMore                  "Tacha' chi kikojol jalajöj taq wachinïk.">
 
-<!ENTITY cmd.back.tooltip                     "Titzolïx jun ruxaq">
-<!ENTITY cmd.forward.tooltip                  "Jun chik ruxaq">
-
 
 <!ENTITY showUnsignedExtensions.button.label  "Jujun taq k'amal man tikirel ta yenik'öx">
 <!ENTITY showAllExtensions.button.label       "Kek'ut pe konojel ri taq ruk'amal">
@@ -173,7 +170,7 @@
 <!ENTITY sort.name.label                      "B'i'aj">
 <!ENTITY sort.name.tooltip                    "Kenuk' chi b'i'aj">
 <!ENTITY sort.dateUpdated.label               "Ruk'isib'äl k'exoj">
-<!ENTITY sort.dateUpdated.tooltip             "Ticholajíx chi ruq'ijul xk'ex">
+<!ENTITY sort.dateUpdated.tooltip             "Ticholajïx chi ruq'ijul xk'ex">
 <!ENTITY sort.relevance.label                 "Chuq'utz'ib'anem">
 <!ENTITY sort.relevance.tooltip               "Ticholajïx chi ruq'ij">
 <!ENTITY sort.price.label                     "Rajil">
