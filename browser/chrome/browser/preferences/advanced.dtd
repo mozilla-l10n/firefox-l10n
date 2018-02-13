@@ -46,12 +46,12 @@ available. -->
 <!ENTITY networkProxy.label              "Проксі-сервер">
 
 <!ENTITY connectionDesc.label            "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">
+
+<!ENTITY connectionSettingsLearnMore.label "Падрабязней">
 <!ENTITY connectionSettings.label        "Налады…">
 <!ENTITY connectionSettings.accesskey    "л">
 
 <!ENTITY httpCache.label                 "Кэшаванае сеціўнае змесціва">
-
-<!ENTITY offlineStorage2.label           "Пазасеткавае сеціўнае змесціва і карыстальніцкія дадзеныя">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Звесткі сайта">
@@ -72,8 +72,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "МБ прасторы">
 <!ENTITY clearCacheNow.label             "Ачысціць зараз">
 <!ENTITY clearCacheNow.accesskey         "ч">
-<!ENTITY clearOfflineAppCacheNow.label   "Ачысціць зараз">
-<!ENTITY clearOfflineAppCacheNow.accesskey "з">
 <!ENTITY overrideSmartCacheSize.label    "Перахапіць кіраванне кэшам">
 <!ENTITY overrideSmartCacheSize.accesskey "П">
 
@@ -110,17 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Аўтаматычна абнаўляць пашукавікі">
 <!ENTITY enableSearchUpdate2.accesskey   "а">
-
-<!ENTITY offlineStorageNotify.label               "Паведамляць, калі вэб-сайт пытае дазвол на захоўванне звестак для пазасеткавага выкарыстання">
-<!ENTITY offlineStorageNotify.accesskey           "П">
-<!ENTITY offlineStorageNotifyExceptions.label     "Выключэнні…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "ч">
-
-<!ENTITY offlineAppsList3.label          "Наступныя вэб-сайты маюць дазвол на захаванне дадзеных для пазасеткавага выкарыстання">
-<!ENTITY offlineAppsList.height          "8em">
-<!ENTITY offlineAppsListRemove.label     "Выдаліць…">
-<!ENTITY offlineAppsListRemove.accesskey "В">
-<!ENTITY offlineAppRemove.confirm        "Выдаліць пазасеткавыя дадзеныя">
 
 <!ENTITY certificateTab.label            "Сертыфікаты">
 <!ENTITY certPersonal2.description       "Калі сервер запытвае ваш асабісты сертыфікат">
