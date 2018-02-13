@@ -832,6 +832,7 @@
      of its descendents. The user selects the folder using the same widget as the
      move to/copy to mechanism (via a series of popups).
   -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Yakwuj chuqa' taq ralk'wal…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
      This is used in the folder selection widget for the
      "columnPicker.applyToFolder.label" and
@@ -896,10 +897,20 @@
 <!ENTITY ViewContact.accesskey "T">
 <!ENTITY SubscribeToNewsgroup.label "Tatz'ib'aj ab'i' pa Kimolaj Tzijol">
 <!ENTITY SubscribeToNewsgroup.accesskey "K">
+<!ENTITY SendMessageTo.label "Titz'ib'äx Rutzijol Chi Re">
+<!ENTITY SendMessageTo.accesskey "z">
 <!ENTITY CopyEmailAddress.label "Tiwachib'ëx Rochochib'al Taqoya'l">
 <!ENTITY CopyEmailAddress.accesskey "w">
 <!ENTITY CopyNameAndEmailAddress.label "Tiwachib'ëx Rub'i' chuqa' Rutaqoya'l Ochochib'äl">
 <!ENTITY CopyNameAndEmailAddress.accesskey "R">
+<!ENTITY CopyNewsgroupName.label "Tiwachib'ëx Rub'i' Kimolaj Tzijol">
+<!ENTITY CopyNewsgroupName.accesskey "T">
+<!ENTITY CopyNewsgroupURL.label "Tiwachib'ëx Kimolaj Tzijol URL">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
+<!ENTITY CreateFilterFrom.label "Titz'uk Ruchayub'al…">
+<!ENTITY CreateFilterFrom.accesskey "R">
+<!ENTITY reportPhishingURL.label "Tiya' Rutzijol Q'olonel Taqoya'l">
+<!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Ketz'aqatisäx taq Soltzij…">
