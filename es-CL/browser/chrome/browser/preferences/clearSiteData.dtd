@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Limpiar datos">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY window.description           "Al limpiar todas las cookies y los datos de sitio almacenados por &brandShortName;, puede que se te cierre la sesión en los sitios web y se te elimine el contenido web sin conexión. Limpiar los datos de caché no afectará a tus conexiones.">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "Cookies y datos de sitio">
+<!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "De limpiarlos, puede que se te cierre la sesión en los sitios web">
+
+<!ENTITY clearCache.label             "Contenido Web cacheado">
+<!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "Requerirá que los sitios web recargen las imágenes y los datos">
+
+<!ENTITY button.cancel.label          "Cancelar">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "Limpiar">
+<!ENTITY button.clear.accesskey       "l">
