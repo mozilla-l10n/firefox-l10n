@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- These strings are used in the about:newtab page -->
 
-<!ENTITY newtab.pageTitle "Jauns cilne">
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Jauna cilne">
 <!ENTITY newtab.customize.classic "Ruodeit bīžuok apmaklātuos lopys">
 <!ENTITY newtab.customize.cog.enhanced "Include suggested sites">
 <!ENTITY newtab.customize.cog.title2 "JAUNYS CILNES REIKI">

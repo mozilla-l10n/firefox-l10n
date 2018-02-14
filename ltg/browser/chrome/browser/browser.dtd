@@ -63,7 +63,7 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "Vysu ciļņu saroksts">
 
-<!ENTITY tabCmd.label "Jauns cilne">
+<!ENTITY tabCmd.label "Jauna cilne">
 <!ENTITY tabCmd.accesskey "c">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "You have blocked your microphone for this website.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ekrana kūplītuošona ar itū lopu ir blokeita.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Acarašonas vītys informacejis kūplītuošona ar itū lopu ir blokeita.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "You have blocked data storage for this website.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Paziņuojumu sajimšona nu ituos lopys ir blokeita.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Datu globōšona itymā lopā ir blokeita.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Izlacušū lūku rōdiešona itymā lopā ir aizlīgta.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Datu sajimšona nu ituos lopys canvas ir blokeita.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Jauns privatais lūgs">
 <!ENTITY newPrivateWindow.accesskey "v">
-<!ENTITY newNonRemoteWindow.label   "Jauns Non-e10s lūgs">
 
 <!ENTITY editMenu.label         "Redigeit">
 <!ENTITY editMenu.accesskey       "e">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Paruodeit vysu viesturi">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Pīlaguot">
-<!ENTITY appMenuCustomize.tooltip "Pīlaguot izvēlni/izvielni i reikjūslys">
-<!ENTITY appMenuCustomizeExit.label "Izīt nu pīlāguošonys">
-<!ENTITY appMenuCustomizeExit.tooltip "Beigt pīlāguošonu">
-
 <!ENTITY appMenuHistory.showAll.label "Paruodeit vysu viesturi">
 <!ENTITY appMenuHistory.clearRecent.label "Dzēst nasenū viesturi…">
 <!ENTITY appMenuHistory.restoreSession.label "Atjaunuot īprīkšejū seseju">
 <!ENTITY appMenuHistory.viewSidebar.label "Ruodeit viestures suonjūsla">
 <!ENTITY appMenuHistory.recentHistory.label "Nasenuo viesture">
 <!ENTITY appMenuHelp.label "Paleidzeiba">
-<!ENTITY appMenuHelp.tooltip "Attaiseit paleidzeibys izvēlni/izvielni">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizeituos cilnes">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -444,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Paplošynuojums:">
 <!ENTITY urlbar.switchToTab.label     "Puorslēgtīs iz cilni:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Voi vālotīs īslēgt mekliešonys īteikumus?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Uzzynojit vairuok…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "r">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nā">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Nui">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Padūms:">
@@ -584,7 +567,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyURLFeedback.label        "Nūkopeits!">
 <!ENTITY emailPageCmd.label           "Nūsyuteit saiti…">
 <!ENTITY emailPageCmd.accesskey       "N">
-<!ENTITY savePageCmd.label            "Saglobuot lopu kai…">
+<!ENTITY savePageCmd.label            "Saglobōt lopu kai…">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
@@ -730,8 +713,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Lopys pamota stils">
 <!ENTITY pageStylePersistentOnly.accesskey "m">
 
-<!ENTITY pageReportIcon.tooltip            "Izmaineit jaunuo lūgu blokiešony īstatiejumus itai lopai">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sinhronizeit">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Drag your favorite items into the toolbar or overflow menu.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Grybot vairuok reiku?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Izavielit kaidu nu tyukstušym papyldynuojumu">
 <!ENTITY customizeMode.restoreDefaults "Atjaunuot nūkluseitū">
 <!ENTITY customizeMode.done "Gotovs">
 <!ENTITY customizeMode.titlebar "Viersroksta jūsla">
@@ -877,7 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "P">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Īgiut jaunys temys">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "I">
-<!ENTITY customizeMode.emptyOverflowList.description "Drag and drop items here to keep them within reach but out of your toolbar…">
 <!ENTITY customizeMode.overflowList.title2 "Paldušō izviele">
 <!ENTITY customizeMode.overflowList.description "Porvītoj elements uz šani, kab jī byutu pa rūkai, bet na instrumentu paneļī…">
 <!ENTITY customizeMode.uidensity "Density">
@@ -1008,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Lopys darbeibys">
 <!ENTITY pageAction.addToUrlbar.label "Davīnōt adreses laukam">
 <!ENTITY pageAction.removeFromUrlbar.label "Nūjimt nu adreses lauka">
-
 <!ENTITY pageAction.allowInUrlbar.label "Rōdēt adreses laukā">
 <!ENTITY pageAction.disallowInUrlbar.label "Narōdēt adreses laukā">
 <!ENTITY pageAction.manageExtension.label "Porvaldēt paplašinōjumu…">

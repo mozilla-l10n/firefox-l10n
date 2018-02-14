@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when logged in... -->
 
+<!-- The page shown when logged in... -->
 
 <!ENTITY engine.bookmarks.label     "Gruomotzeimes">
 <!ENTITY engine.bookmarks.accesskey "m">
@@ -12,6 +12,12 @@
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Logins">
 <!ENTITY engine.logins.accesskey    "L">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, used as the checkbox which indicates if prefs are synced
+-->
+<!ENTITY engine.prefsWin.label      "Īstatiejumi">
+<!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Īstatiejumus">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Papyldynuojums">
@@ -20,8 +26,8 @@
 <!ENTITY engine.addresses.accesskey "A">
 <!ENTITY engine.creditcards.label   "Credit cards">
 <!ENTITY engine.creditcards.accesskey "C">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Īrīces nūsaukums">
 <!ENTITY changeSyncDeviceName2.label "Maineit īrīces nūsaukumu…">
 <!ENTITY changeSyncDeviceName2.accesskey "n">
@@ -29,39 +35,40 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Saglobuot">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!-- Footer stuff -->
 
+<!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Lītuošonys nūsacejumi">
 <!ENTITY fxaPrivacyNotice.link.label "Privatuma pīzeime">
+
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "nav apstyprynuots.">
+
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInLoginFailure.beforename.label "Lyudzu pīsasliedzit, kab atjaunuotu savīnuojumu">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Jius naasot pīsasliedz.">
-<!ENTITY signIn.label                "Pīsasliegt">
-<!ENTITY signIn.accesskey            "P">
-<!ENTITY profilePicture.tooltip      "Maineit profila attālu">
-<!ENTITY verifiedManage.label        "Puorvaļdeit kontu">
-<!ENTITY verifiedManage.accesskey    "a">
-<!ENTITY disconnect3.label           "Atsaslēgt…">
-<!ENTITY disconnect3.accesskey       "t">
+<!ENTITY notSignedIn.label            "Jius naasot pīsasliedz.">
+<!ENTITY signIn.label                 "Pīsasliegt">
+<!ENTITY signIn.accesskey             "P">
+<!ENTITY profilePicture.tooltip       "Maineit profila attālu">
+<!ENTITY verifiedManage.label         "Puorvaļdeit kontu">
+<!ENTITY verifiedManage.accesskey     "a">
+<!ENTITY disconnect3.label            "Atsaslēgt…">
+<!ENTITY disconnect3.accesskey        "t">
 <!ENTITY verify.label                "Apstyprynuot epostu">
 <!ENTITY verify.accesskey            "p">
 <!ENTITY forget.label                "Aizmierst/damierst itū epostu">
 <!ENTITY forget.accesskey            "A">
+
 
 <!ENTITY signedOut.caption            "Take Your Web With You">
 <!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
@@ -73,19 +80,20 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedIn.settings.label       "Sync īstatiejumi">
 <!ENTITY signedIn.settings.description "Izavieleit, kū sinhronizeit īreicī, izmontojūt iz &brandShortName;.">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-
 <!ENTITY mobilePromo3.start            "Lejupīluodeit Firefox ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " voi ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " to sync with your mobile device.">
+
