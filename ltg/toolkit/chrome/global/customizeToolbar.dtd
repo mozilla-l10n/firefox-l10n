@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title             "Pīlaguot reikjūslu">
+<!ENTITY dialog.title             "Pīlāgōt reikjūslu">
 <!ENTITY dialog.dimensions        "width: 94ch; height: 40em;">
 <!ENTITY instructions.description "Jius varot pīvīnuot voi nūjimt vīnums, valkūt tūs iz voi nu reikjūslom.">
 <!ENTITY show.label               "Ruodeit:">

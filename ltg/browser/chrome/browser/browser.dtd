@@ -340,9 +340,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "l">
 <!ENTITY viewSidebarMenu.label "Suonu jūsla">
 <!ENTITY viewSidebarMenu.accesskey "a">
-<!ENTITY viewCustomizeToolbar.label       "Pīlaguot…">
+<!ENTITY viewCustomizeToolbar.label       "Pīlāgōt…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY overflowCustomizeToolbar.label       "Pīlaguot reikjūslu…">
+<!ENTITY overflowCustomizeToolbar.label       "Pīlāgōt reikjūslu…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Viesture">
