@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Gall glirio'r oll gwcis a data gwefan wedi eu cadw gan &brandShortName; eich allgofnodi o wefannau a thynnu cynnwys all-lein gwe. Ni fydd clirio data storfa effeithio ar eich mewngofnodion.">
-<!ENTITY windowClose.key              "G">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Cwcis a Data Gwefan">
 <!ENTITY clearSiteData.accesskey      "C">
