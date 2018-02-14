@@ -5,6 +5,8 @@
 <!ENTITY window.title                 "Gegevens wiskje">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "It wiskjen fan alle cookies en websitegegevens bewarre troch &brandShortName; kin jo fan websites ôfmelde en offline webynhâld fuortsmite. De buffer leegje sil jo oanmeldingen net beynfloedzje.">
+<!ENTITY windowClose.key              "I">
 
 <!ENTITY clearSiteData.label          "Cookies en websitegegevens">
 <!ENTITY clearSiteData.accesskey      "w">
@@ -12,6 +14,7 @@
 
 <!ENTITY clearCache.label             "Buffere webynhâld">
 <!ENTITY clearCache.accesskey         "w">
+<!ENTITY clearCache.description       "Dit fereasket dat websites ôfbyldingen en gegevens opnij lade">
 
 <!ENTITY button.cancel.label          "Annulearje">
 <!ENTITY button.cancel.accesskey      "A">
