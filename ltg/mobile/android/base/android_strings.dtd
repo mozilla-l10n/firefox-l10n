@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Unable to share this image">
 <!ENTITY save_as_pdf "Save as PDF">
 <!ENTITY print "Print">
+<!ENTITY view_page_source "Skateitīs lopys pyrmskodu">
 <!ENTITY find_in_page "Find in page">
 <!ENTITY desktop_mode "Request desktop site">
 <!ENTITY page "Page">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Open in New Tab">
 <!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_remove "Remove">
-<!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
 <!ENTITY contextmenu_add_page_shortcut "Pīvīnōt lopas saeisni">
 <!ENTITY contextmenu_set_as_homepage "Set as Homepage">
 <!ENTITY contextmenu_share "Share">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Page removed">
-
 <!ENTITY folder_removed "Mape ir izdzāsta">
 
 <!ENTITY bookmark_edit_title "Edit Bookmark">
@@ -821,8 +820,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; is up to date">
 <!ENTITY whatsnew_notification_summary "Find out what\&apos;s new in this version">
-
-<!ENTITY promotion_add_to_homescreen "Add to home screen">
 
 <!ENTITY promotion_add_page_shortcut "Pīvīnōt lopas saeisni">
 
