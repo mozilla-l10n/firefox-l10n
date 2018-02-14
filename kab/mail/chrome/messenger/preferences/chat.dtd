@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "s yisem n umazan akked teskant n yizen">
 <!ENTITY  buddyInfoOnly.label                 "S yisem n umazan kan">
 <!ENTITY  dummyNotification.label             "swar talɣut">
+<!ENTITY  getAttention.label                  "Sebrureq aferdis deg ufeggag n yirmuden">
+<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "Ḥerrek tignit n tacirra">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "l">
 <!ENTITY  chatSound.label                     "Urar imesli">
 <!ENTITY  play.label                          "Urar">
