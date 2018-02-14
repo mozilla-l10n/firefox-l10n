@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Viŝi datumojn">
+<!ENTITY window.width                 "35em">
+
+
+<!ENTITY clearSiteData.description    "Viŝinte, viaj seancoj en retejoj povus esti finitaj">
+
+<!ENTITY clearCache.label             "Staplo de teksaĵa enhavo">
+<!ENTITY clearCache.accesskey         "S">
+<!ENTITY clearCache.description       "Tio postulos al retejo reŝargadon de bildoj kaj datumoj">
+
+<!ENTITY button.cancel.label          "Nuligi">
+<!ENTITY button.cancel.accesskey      "N">
+<!ENTITY button.clear.label           "Viŝi">
+<!ENTITY button.clear.accesskey       "V">
