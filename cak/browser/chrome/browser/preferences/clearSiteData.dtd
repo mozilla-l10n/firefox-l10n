@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Toq yejosq'ïx ri taq kaxlanwey chuqa' rutzij k'amaya'l yakon ruma &brandShortName; nitikïr yerutz'apij molojri'ïl pa taq ruxaq ajk'amaya'l chuqa' yeruyüj taq kipan ruxaq ajk'amaya'l toq man atokinäq ta. Toq niyuj rutzij jumejyak man xkerutz'ila' ta taq molojri'ïl.">
-<!ENTITY windowClose.key              "a">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Taq Kaxlanwey chuqa' Rutzij K'amaya'l">
 <!ENTITY clearSiteData.accesskey      "K">
