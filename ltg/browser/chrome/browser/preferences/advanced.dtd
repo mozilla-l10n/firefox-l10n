@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Vyspuoriejs">
 
@@ -23,10 +23,10 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Datu izviele">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "Data reporting is disabled for this build configuration">
 
 <!ENTITY enableHealthReport2.label       "Allow &brandShortName; to send technical and interaction data to Mozilla">
@@ -46,43 +46,41 @@ available. -->
 <!ENTITY networkProxy.label              "Teikla storpnīkserveris">
 
 <!ENTITY connectionDesc.label            "Konfigureit, kai &brandShortName; savīnojās ar Šķārsteiklu">
+
+<!ENTITY connectionSettingsLearnMore.label "Vaira">
 <!ENTITY connectionSettings.label        "Īstatiejumi...">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Saglobuotais šķārsteikla saturs">
 
-<!ENTITY offlineStorage2.label           "Nasaistis šķārsteikla saturs i lītuotuoja dati">
 <!--  Site Data section manages sites using Storage API and is under Network -->
-
 <!ENTITY siteData.label                  "Lopys dati">
 <!ENTITY clearSiteData.label             "Izdzēst vysus datus">
 <!ENTITY clearSiteData.accesskey         "v">
 <!ENTITY siteDataSettings.label          "Īstatiejumi...">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Uzzynojit vairuok">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Īrūbežuot kešatmiņu leidz ">
 <!ENTITY limitCacheSizeBefore.accesskey  "k">
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Izteireit">
 <!ENTITY clearCacheNow.accesskey         "I">
-<!ENTITY clearOfflineAppCacheNow.label   "Izteireit">
-<!ENTITY clearOfflineAppCacheNow.accesskey "z">
 <!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Atjaunynuot">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "&brandShortName; atjaunynuojumi">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -90,7 +88,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplicationDescription.label "Keep &brandShortName; up to date for the best performance, stability, and security.">
+<!ENTITY updateApplicationDescription.label
+                                         "Keep &brandShortName; up to date for the best performance, stability, and security.">
 <!ENTITY updateApplication.version.pre   "Verseja ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Ļaut &brandShortName;">
@@ -110,17 +109,6 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "Automatiski atjaunynuot meklietuojus">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
-<!ENTITY offlineStorageNotify.label               "Ziņuot maņ, kod sātys lopa gryb saglobuot datus izmontuošonai nasaistī">
-<!ENTITY offlineStorageNotify.accesskey           "Z">
-<!ENTITY offlineStorageNotifyExceptions.label     "Izjāmumi...">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "z">
-
-<!ENTITY offlineAppsList3.label          "Itom sātys lopom ir atļauts globoj datus izmontuošonai nasaistī">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Aizvuokt...">
-<!ENTITY offlineAppsListRemove.accesskey "A">
-<!ENTITY offlineAppRemove.confirm        "Aizvuokt nasaistis datus">
-
 <!ENTITY certificateTab.label            "Sertifikati">
 <!ENTITY certPersonal2.description       "Kod serveris pīprosa munu personeigū sertifikatu">
 <!ENTITY selectCerts.auto                "Izavieleit automatiski">
@@ -135,14 +123,21 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Performance">
-<!ENTITY useRecommendedPerformanceSettings2.label "Use recommended performance settings">
-<!ENTITY useRecommendedPerformanceSettings2.description "These settings are tailored to your computer’s hardware and operating system.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
-<!ENTITY performanceSettingsLearnMore.label "Uzzynojit vairuok">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Use recommended performance settings">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "These settings are tailored to your computer’s hardware and operating system.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Uzzynojit vairuok">
 <!ENTITY limitContentProcessOption.label "Satura procesu limits">
-<!ENTITY limitContentProcessOption.description "Additional content processes can improve performance when using multiple tabs, but will also use more memory.">
+<!ENTITY limitContentProcessOption.description
+                                         "Additional content processes can improve performance when using multiple tabs, but will also use more memory.">
 <!ENTITY limitContentProcessOption.accesskey   "l">
-<!ENTITY limitContentProcessOption.disabledDescription "Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu &brandShortName;.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink "Kai puorbaudeit, voi pīejams vairuoku procesu režyms">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Kai puorbaudeit, voi pīejams vairuoku procesu režyms">
 <!ENTITY allowHWAccel.label              "Nui pīejams, izmantuot aparaturys pauotrynuojumu">
 <!ENTITY allowHWAccel.accesskey          "r">
