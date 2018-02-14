@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Agordi retperantojn por atingi la reton">
+
+<!ENTITY  proxyTitle.label2             "Agordi la aliron de la retperanto al la reto">
 <!ENTITY  noProxyTypeRadio.label        "Sen retperanto">
 <!ENTITY  noProxyTypeRadio.accesskey    "r">
 <!ENTITY  systemTypeRadio.label         "Uzi la sistemajn agordojn de retperantoj">
