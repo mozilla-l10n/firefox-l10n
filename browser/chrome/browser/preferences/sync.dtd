@@ -13,7 +13,7 @@
 <!ENTITY engine.history.accesskey   "t">
 <!ENTITY engine.logins.label        "Přizjewjenja">
 <!ENTITY engine.logins.title        "Wužiwarske mjena a hesła, kotrež sće składował">
-<!ENTITY engine.logins.accesskey    "h">
+<!ENTITY engine.logins.accesskey    "P">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
