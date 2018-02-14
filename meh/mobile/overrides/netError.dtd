@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "Ntu nani´í ka̱a̱ servidor">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kune´yá sivɨ ntee-nú íyo vatu sa̱naan kumi errores kua <strong>ww</strong>.ejemplo.com nuu inka ya´a<strong>www</strong>.ejemplo.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nánuku</button> </div> <li>De ntu kuvi síne ni´i página, kune´yá datos ka̱a̱-nu a xíín conexión Wi-Fi. <button id='wifi'>Sikune Wi-Fi</button> </li> </ul> ">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kune´yá sivɨ ntee-nú íyo vatu sa̱naan kumi errores kua <strong>ww</strong>.ejemplo.com nuu inka ya´a<strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nánuku</button> </div> <li>De ntu kuvi síne ni´i página, kune´yá datos ka̱a̱-nu a xíín conexión Wi-Fi. <button id='wifi'>Sikune Wi-Fi</button> </li> </ul> ">
 
 <!ENTITY fileNotFound.title "Ntu nkuvi nani´i archivo">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kune´yá sivɨ archivo ntu kumi errores.</li> <li>Kune´yá  archivo dee nnáxitá, nkáná a xíín nkivɨ inka sivɨ.</li> </ul>">
