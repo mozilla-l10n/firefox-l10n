@@ -8,9 +8,11 @@
 
 <!ENTITY clearSiteData.label          "Кукі і дадзеныя сайтаў">
 <!ENTITY clearSiteData.accesskey      "с">
+<!ENTITY clearSiteData.description    "Пры выдаленні можа адбыцца выхад на вэб-сайтах">
 
 <!ENTITY clearCache.label             "Кэшаванае сеціўнае змесціва">
 <!ENTITY clearCache.accesskey         "К">
+<!ENTITY clearCache.description       "Вэб-сайтам давядзецца паўторна сцягваць выявы і дадзеныя">
 
 <!ENTITY button.cancel.label          "Адмяніць">
 <!ENTITY button.cancel.accesskey      "А">
