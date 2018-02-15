@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Només en utilitzar la protecció contra el seguiment
 do-not-track-option-always =
     .label = Sempre
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferències
+        }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
