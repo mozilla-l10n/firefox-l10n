@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Faqat kuzatishdan himoyalanganda
 do-not-track-option-always =
     .label = Doimo
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Moslamalar
+           *[other] Moslamalar
+        }
 pane-general-title = Umumiy
 category-general =
     .tooltiptext = { pane-general-title }
