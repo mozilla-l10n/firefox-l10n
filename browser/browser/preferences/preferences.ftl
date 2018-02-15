@@ -21,3 +21,4 @@ close-button =
 
 ## Browser Restart Dialog
 
+should-restart-title = Reiniciar o { -brand-short-name }
