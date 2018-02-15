@@ -23,3 +23,4 @@ close-button =
 
 ## Browser Restart Dialog
 
+should-restart-ok = Mulakan { -brand-short-name } sekarang
