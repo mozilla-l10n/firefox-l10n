@@ -24,6 +24,8 @@ category-sync =
 help-button-label = { -brand-short-name } সাপোর্ট
 focus-search =
     .key = f
+close-button =
+    .aria-label = বন্ধ
 
 ## Browser Restart Dialog
 
