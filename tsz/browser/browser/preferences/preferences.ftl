@@ -7,6 +7,7 @@ pref-page =
             [windows] Erakuani
            *[other] Sánteru xénchakuecha
         }
+pane-general-title = Iamu ampe
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
