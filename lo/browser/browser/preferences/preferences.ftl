@@ -7,6 +7,7 @@ pref-page =
             [windows] ທາງເລືອກ
            *[other] ຕັ້ງຄ່າ
         }
+pane-general-title = ທົ່ວໄປ
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
