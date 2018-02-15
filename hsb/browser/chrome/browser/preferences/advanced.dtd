@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Chcemy was z wuběrami wobstarać a jenož to zběrać, štož dyrbimy poskićić, zo bychmy &brandShortName; za kóždeho polěpšili. Prosymy přeco wo dowolnosć, prjedy hač wosobinske daty dóstanjemy.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Zdźělenka priwatnosće">
 
+<!ENTITY collectBrowserErrors.label          "&brandShortName; dowolić, Mozilla zmylkowe rozprawy (inkluziwnje zmylkowe zdźělenki) pósłać">
+<!ENTITY collectBrowserErrors.accesskey      "z">
+<!ENTITY collectBrowserErrorsLearnMore.label "Dalše informacije">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; zmóžnić, spadowe rozprawy na Mozilla pósłać">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "s">
 <!ENTITY crashReporterLearnMore.label    "Dalše informacije">
