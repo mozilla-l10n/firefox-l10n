@@ -10,6 +10,10 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = F
+close-button =
+    .aria-label = Girtin
 
 ## Browser Restart Dialog
 
