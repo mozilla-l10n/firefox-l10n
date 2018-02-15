@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Kuphela xa usebenzisa uKhuseleko lokuTreka
 do-not-track-option-always =
     .label = Qho
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Ekunokukhethwa kuko
+           *[other] Izikhethwa
+        }
 pane-general-title = Jikelele
 category-general =
     .tooltiptext = { pane-general-title }
