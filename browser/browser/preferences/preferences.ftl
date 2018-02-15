@@ -5,7 +5,7 @@
 do-not-track-description = Указване на сайтовете, че не желаете да бъдете проследявани
 do-not-track-learn-more = Научете повече
 do-not-track-option-default =
-    .label = Само при използване на Защита от проследяване
+    .label = Само при използване на защита от проследяване
 do-not-track-option-always =
     .label = Винаги
 pref-page =
@@ -42,8 +42,8 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } трябва да бъде рестартиран, за да се включи тази функция.
-feature-disable-requires-restart = { -brand-short-name } трябва да бъде рестартиран, за да се изключи тази функция.
+feature-enable-requires-restart = Приожението { -brand-short-name } трябва да бъде рестартирано, за да бъде включена тази възможност.
+feature-disable-requires-restart = Приложението { -brand-short-name } трябва да бъде рестартирано, за да бъде изключена тази възможност.
 should-restart-title = Рестартиране на { -brand-short-name }
 should-restart-ok = Рестартиране на { -brand-short-name }
 revert-no-restart-button = Възстановяване

@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Настройване на мрежов посредник за достъп до интернет">
+
+<!ENTITY  proxyTitle.label2             "Настройване на мрежов посредник за достъп до интернет">
 <!ENTITY  noProxyTypeRadio.label        "Без мрежов посредник">
 <!ENTITY  noProxyTypeRadio.accesskey    "Б">
 <!ENTITY  systemTypeRadio.label         "Използване на системните настройки">
