@@ -16,12 +16,17 @@ pref-page =
 pane-general-title = সাধারণ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = অনুসন্ধান
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = গোপনীয়তা & নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox অ্যাকাউন্ট
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } সহায়তা
 focus-search =
     .key = f
 close-button =
