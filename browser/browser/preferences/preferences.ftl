@@ -31,3 +31,6 @@ close-button =
 feature-enable-requires-restart = Za vključitev te možnosti morate ponovno zagnati { -brand-short-name }.
 feature-disable-requires-restart = Za izključitev te možnosti morate ponovno zagnati { -brand-short-name }.
 should-restart-title = Ponovno zaženi { -brand-short-name }
+should-restart-ok = Ponovno zaženi { -brand-short-name } zdaj
+revert-no-restart-button = Povrni
+restart-later = Ponovno zaženi pozneje
