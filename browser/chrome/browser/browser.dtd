@@ -276,6 +276,7 @@
 <!ENTITY appMenuRemoteTabs.noclients.title "Nessuna scheda sincronizzata (per ora)">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Come fare per visualizzare in questa sezione le schede da altri dispositivi?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferenze Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Apri preferenze Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Accedi per visualizzare un elenco delle schede aperte in altri dispositivi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "L’account non è ancora stato verificato.">
 <!ENTITY appMenuRemoteTabs.signin.label "Accedi a Sync">
