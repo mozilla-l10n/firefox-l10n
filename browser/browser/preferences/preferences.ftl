@@ -12,13 +12,24 @@ category-general =
     .tooltiptext = { pane-general-title }
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privacidade e Segurança
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Conta Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Suporte { -brand-short-name }
+focus-search =
+    .key = f
 close-button =
     .aria-label = Fechar
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = O { -brand-short-name } deve ser reiniciado para habilitar esta funcionalidade.
+feature-disable-requires-restart = O { -brand-short-name } deve ser reiniciado para desabilitar esta funcionalidade.
 should-restart-title = Reiniciar o { -brand-short-name }
+should-restart-ok = Reiniciar o { -brand-short-name } agora
+revert-no-restart-button = Reverter
+restart-later = Reiniciar depois
