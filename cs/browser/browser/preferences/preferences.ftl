@@ -16,6 +16,7 @@ do-not-track-option-always =
 # Do not translate.
 search-field =
     .style = min-width: 15.4em
+pane-general-title = Obecné
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = Vyhledávání
@@ -29,6 +30,8 @@ pane-sync-title = Účet Firefoxu
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Nápověda
+focus-search =
+    .key = f
 close-button =
     .aria-label = Zavřít
 
