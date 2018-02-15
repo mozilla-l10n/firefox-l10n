@@ -10,12 +10,17 @@ do-not-track-option-always =
     .label = 總是
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = 搜尋
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = 隱私權與安全性
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox 帳號
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } 技術支援
 focus-search =
     .key = f
 close-button =
