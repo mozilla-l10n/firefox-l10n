@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Nur dum uzo de protekto kontraŭ spurado
 do-not-track-option-always =
     .label = Ĉiam
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Elektebloj
+           *[other] Preferoj
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -16,6 +21,16 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Fermi
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Por aktivigi tiun ĉi trajton, { -brand-short-name } devas restarti.
+feature-disable-requires-restart = Por malaktivigi tiun ĉi trajton, { -brand-short-name } devas restarti.
+should-restart-title = Restartigi { -brand-short-name }
+should-restart-ok = Restartigi { -brand-short-name } nun
+revert-no-restart-button = Ne restartigi
+restart-later = Restartigi poste
