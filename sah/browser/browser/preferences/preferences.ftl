@@ -17,3 +17,5 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Бу эбээһинэһи холбуурга { -brand-short-name }-у хос ыытыахха наада.
+feature-disable-requires-restart = Араарарга маны { -brand-short-name } хос ыыт.
