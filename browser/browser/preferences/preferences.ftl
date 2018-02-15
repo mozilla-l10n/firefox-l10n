@@ -25,3 +25,5 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } debe reiniciarse para activar esta característica.
 feature-disable-requires-restart = { -brand-short-name } debe reiniciarse para desactivar esta característica.
+should-restart-title = Reiniciar { -brand-short-name }
+restart-later = Reiniciar después
