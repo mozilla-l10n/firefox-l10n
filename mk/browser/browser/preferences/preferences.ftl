@@ -14,6 +14,7 @@ category-privacy =
 pane-sync-title = Сметка за Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Поддршка за { -brand-short-name }
 focus-search =
     .key = f
 close-button =
