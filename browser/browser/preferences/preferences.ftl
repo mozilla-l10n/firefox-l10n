@@ -8,6 +8,7 @@ do-not-track-option-default =
     .label = Sonque en utilizar la proteccion contra lo seguiment
 do-not-track-option-always =
     .label = Totjorn
+pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
