@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Samo pri uporabi zaščite pred sledenjem
 do-not-track-option-always =
     .label = Vedno
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Nastavitve
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -16,6 +21,13 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Zapri
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Za vključitev te možnosti morate ponovno zagnati { -brand-short-name }.
+feature-disable-requires-restart = Za izključitev te možnosti morate ponovno zagnati { -brand-short-name }.
+should-restart-title = Ponovno zaženi { -brand-short-name }
