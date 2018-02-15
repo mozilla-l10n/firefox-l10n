@@ -28,3 +28,5 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } harus dimulai ulang untuk mengaktifkan fitur ini.
+feature-disable-requires-restart = { -brand-short-name } harus dimulai ulang untuk menonaktifkan fitur ini.
