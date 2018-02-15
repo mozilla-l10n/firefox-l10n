@@ -13,4 +13,4 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-short-name = IFirefox
+-brand-short-name = Firefox
