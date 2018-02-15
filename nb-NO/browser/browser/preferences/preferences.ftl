@@ -26,4 +26,6 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } må startes på nytt for å aktivere denne funksjonen.
 feature-disable-requires-restart = { -brand-short-name } må startes på nytt for å slå av denne funksjonen.
 should-restart-title = Start { -brand-short-name } på nytt
+should-restart-ok = Start { -brand-short-name } på nytt nå
+revert-no-restart-button = Forkast
 restart-later = Start på nytt senere
