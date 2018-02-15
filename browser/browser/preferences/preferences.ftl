@@ -8,6 +8,7 @@ do-not-track-option-default =
     .label = 只在使用追蹤保護功能時
 do-not-track-option-always =
     .label = 總是
+pane-general-title = 一般
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = 搜尋
