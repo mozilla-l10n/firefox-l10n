@@ -8,14 +8,20 @@ do-not-track-option-default =
     .label = Doar când se folosește protecția față de urmărire
 do-not-track-option-always =
     .label = Întotdeauna
+pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Căutare
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Confidențialitate și securitate
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Cont Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Suport { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -23,3 +29,9 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } trebuie să repornească pentru a activa această funcționalitate.
+feature-disable-requires-restart = { -brand-short-name } trebuie să repornească pentru a dezactiva această funcționalitate.
+should-restart-title = Repornire { -brand-short-name }
+should-restart-ok = Repornește { -brand-short-name } acum
+revert-no-restart-button = Anulează schimbarea
+restart-later = Repornește mai târziu
