@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Μόνο κατά τη χρήση προστασίας από παρακολούθηση
 do-not-track-option-always =
     .label = Πάντα
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Επιλογές
+           *[other] Προτιμήσεις
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -21,3 +26,5 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Θα πρέπει να γίνει επανεκκίνηση του { -brand-short-name } για ενεργοποίηση αυτής της λειτουργίας.
+feature-disable-requires-restart = Θα πρέπει να γίνει επανεκκίνηση του { -brand-short-name } για απενεργοποίηση αυτής της λειτουργίας..
