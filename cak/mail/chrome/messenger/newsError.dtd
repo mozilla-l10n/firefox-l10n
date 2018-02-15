@@ -12,6 +12,7 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
+<!ENTITY articleNotFound.desc "Ri ruk'uxasamaj rumolaj tzijol nuya' rutzijol chi man nrïl ta ri cholna'oj.">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
