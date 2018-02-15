@@ -18,10 +18,14 @@ category-general =
     .tooltiptext = { pane-general-title }
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privateco kaj sekureco
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Konto de Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Helpo pri { -brand-short-name }
 focus-search =
     .key = f
 close-button =
