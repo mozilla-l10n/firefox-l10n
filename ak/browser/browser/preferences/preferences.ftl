@@ -17,3 +17,5 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Ɛwɔ sɛ { -brand-short-name } san hyɛ ase de sɔ adeyɛ yi.
+feature-disable-requires-restart = Ɛwɔ sɛ { -brand-short-name } san hyɛ ase de dum adeyɛ yi.
