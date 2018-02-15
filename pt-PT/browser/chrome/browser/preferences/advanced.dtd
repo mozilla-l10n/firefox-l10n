@@ -38,7 +38,7 @@ available. -->
 <!ENTITY dataCollectionPrivacyNotice.label    "Aviso de privacidade">
 
 <!ENTITY collectBrowserErrors.label          "Permitir ao &brandShortName; que envie relatórios de erro do navegador (incluindo mensagens de erro) para a Mozilla">
-<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrors.accesskey      "n">
 <!ENTITY collectBrowserErrorsLearnMore.label "Saber mais">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Permitir ao &brandShortName; enviar relatórios de falha para a Mozilla">
