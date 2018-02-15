@@ -30,7 +30,13 @@
 <!ENTITY successful.successMessage "Ütz xab'än chi re ri runuk'ulem rub'i' ataqoya'l.">
 <!ENTITY successful.write "Titz'ib'äx jun taqoya'l">
 <!ENTITY successful.write.desc "Taya' q'ij chi ke ri awachib'il chuqa' awach'alal niketaj ri k'ak'a' awochochib'al.<br/> Ruma ri' toq k'o re k'ak'a' rub'i' ataqoya'l re', ¿qupe'?">
+<!ENTITY successful.customize "Tichinäx &brandShortName; rik'in jujun jeb'ël taq tz'aqat">
+<!ENTITY successful.customize.desc "Yeb'uchu' ri taq tz'aqat yetikïr nikichinaj ri &brandShortName; richin nuk'äm ri' rik'in ri taq awajowab'al.">
+<!ENTITY successful.attach "Titz'aqatisäx jun nujuch' pa ri nutaqoya'l">
+<!ENTITY successful.attach.desc "Yatikïr ruyonil natz'aqatisaj jun sik'inem o jun awetamab'al pa kik'isib'al jujun taq rutzijol ye'atäq.">
 <!ENTITY successful.close "Titz'apïx re tzuwäch re'.">
 <!ENTITY input.namePlaceholder "Ri ab'i' chuqa' ruka'n ab'i' o tzukun ab'i'">
 <!ENTITY input.search "Tikanöx">
+<!ENTITY search_engine.title "Tawichinaj ri akanob'al">
+<!ENTITY search_engine.message "Ri ya'öl ataqoya'l nitikïr chuqa' nusüj chawe ri kanob'äl.">
 <!ENTITY search_engine.button "Tik'is">
