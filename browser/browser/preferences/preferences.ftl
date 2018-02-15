@@ -23,3 +23,8 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } ต้องเริ่มการทำงานใหม่เพื่อเปิดใช้งานคุณลักษณะนี้
+feature-disable-requires-restart = { -brand-short-name } ต้องเริ่มการทำงานใหม่เพื่อปิดใช้งานคุณลักษณะนี้
+should-restart-title = เริ่มการทำงาน { -brand-short-name } ใหม่
+should-restart-ok = เริ่มการทำงาน { -brand-short-name } ใหม่ตอนนี้
+restart-later = เริ่มการทำงานใหม่ในภายหลัง
