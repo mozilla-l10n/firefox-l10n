@@ -4,10 +4,13 @@
 
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Пребарување
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Сметка за Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 focus-search =
@@ -18,4 +21,5 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = { -brand-short-name } мора да се рестартира за да се овозможи оваа особеност.
+feature-disable-requires-restart = { -brand-short-name } мора да се рестартира за да се оневозможи оваа особеност.
 should-restart-title = Рестарирај го { -brand-short-name }
