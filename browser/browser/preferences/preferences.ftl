@@ -13,14 +13,20 @@ pref-page =
             [windows] Roghanna
            *[other] Sainroghanna
         }
+pane-general-title = Ginearálta
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Cuardaigh
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Príobháideachas agus Slándáil
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Cuntas Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Tacaíocht { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -30,3 +36,7 @@ close-button =
 
 feature-enable-requires-restart = Ní mór duit { -brand-short-name } a atosú chun an ghné seo a chur i bhfeidhm.
 feature-disable-requires-restart = Ní mór duit { -brand-short-name } a atosú chun an ghné seo a dhíchumasú.
+should-restart-title = Atosaigh { -brand-short-name }
+should-restart-ok = Atosaigh { -brand-short-name } anois
+revert-no-restart-button = Fill
+restart-later = Atosaigh Ar Ball
