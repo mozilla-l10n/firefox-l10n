@@ -8,8 +8,17 @@ do-not-track-option-default =
     .label = Kun når jeg bruger beskyttelse mod sporing
 do-not-track-option-always =
     .label = Altid
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Søgning
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
@@ -23,3 +32,7 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } skal genstarte for at aktivere denne funktionalitet. Vil du genstarte nu?
+feature-disable-requires-restart = { -brand-short-name } skal genstarte for at deaktivere denne funktionalitet. Vil du genstarte nu?
+should-restart-title = Genstart { -brand-short-name }
+restart-later = Genstart senere
