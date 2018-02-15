@@ -18,6 +18,10 @@ category-sync =
     .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
+close-button =
+    .aria-label = Bağla
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Yeni özəlliyi aktivləşdirmək üçün { -brand-short-name } yenidən başladılmalıdır.
+feature-disable-requires-restart = Yeni özəlliyi söndürmək üçün { -brand-short-name } yenidən başladılmalıdır.
