@@ -25,3 +25,7 @@ close-button =
 
 feature-enable-requires-restart = Yeni özəlliyi aktivləşdirmək üçün { -brand-short-name } yenidən başladılmalıdır.
 feature-disable-requires-restart = Yeni özəlliyi söndürmək üçün { -brand-short-name } yenidən başladılmalıdır.
+should-restart-title = { -brand-short-name } yenidən başladılsın
+should-restart-ok = { -brand-short-name } indi yenidən başlat
+revert-no-restart-button = Geri qaytar
+restart-later = Sonra yenidən başlat
