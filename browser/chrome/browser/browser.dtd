@@ -74,6 +74,8 @@
 <!ENTITY pageInfoCmd.label "Informazioni sulla pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Debugger layout">
+<!ENTITY ldbCmd.accesskey "y">
 <!ENTITY mirrorTabCmd.label "Duplica scheda">
 <!ENTITY mirrorTabCmd.accesskey "h">
 <!ENTITY enterFullScreenCmd.label "Passa a schermo intero">
