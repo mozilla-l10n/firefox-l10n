@@ -972,6 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.header.message2 "Mag-restart para ma-update &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "I-restart at Ibalik">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Hindi ngayon">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update &brandShorterName;">
 

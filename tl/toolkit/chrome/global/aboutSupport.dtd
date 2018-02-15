@@ -65,7 +65,10 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess Windows">
 
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Safe Mode">
 
 <!ENTITY aboutSupport.showDir.label "Buksan ang Directory">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -87,9 +90,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Grapiko">
 
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integredad">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Patunayan ang Integridad">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
+<!ENTITY aboutSupport.a11yTitle "Madaling I-access">
 <!ENTITY aboutSupport.a11yActivated "Isinaaktibo">
 
 
