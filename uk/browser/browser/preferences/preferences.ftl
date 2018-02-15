@@ -16,6 +16,13 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Закрити
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Для увімкнення цієї можливості потрібен перезапуск { -brand-short-name }.
+feature-disable-requires-restart = Для вимкнення цієї можливості потрібен перезапуск { -brand-short-name }.
+should-restart-title = Перезапустити { -brand-short-name }
