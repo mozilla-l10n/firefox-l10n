@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Tagad izmontojūt izsekuošonys aizsardzeibu
 do-not-track-option-always =
     .label = Vīnmār
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Īstatiejumi
+           *[other] Īstatiejumi
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -18,6 +23,8 @@ category-sync =
     .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
+close-button =
+    .aria-label = Aiztaiseit
 
 ## Browser Restart Dialog
 
