@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "பதிப்பு">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; அம்சங்கள்">
 <!ENTITY aboutSupport.featureName "பெயர்">
 <!ENTITY aboutSupport.featureVersion "பதிப்பு">
@@ -148,4 +149,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDevicePreferred "விருப்பமான">
 <!ENTITY aboutSupport.mediaDeviceFormat "முறை">
 <!ENTITY aboutSupport.mediaDeviceChannels "சேனல்கள்">
+<!ENTITY aboutSupport.mediaDeviceRate "தரம்">
+<!ENTITY aboutSupport.mediaDeviceLatency "தாமதம்">
 
+<!ENTITY aboutSupport.intlAppTitle "பயன்பாட்டு அமைவுகள்">
+<!ENTITY aboutSupport.intlLocalesRequested "கேட்டுக்கொண்ட மொழிகள்">
+<!ENTITY aboutSupport.intlLocalesAvailable "கிடைக்கக்கூடிய மொழிகள்">
+<!ENTITY aboutSupport.intlLocalesSupported "பயன்பாட்டு மொழிகள்">
+<!ENTITY aboutSupport.intlOSTitle "இயங்கு தளம்">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "கணினி மொழிகள்">
+<!ENTITY aboutSupport.intlRegionalPrefs "வட்டார முன்னுரிமைகள்">

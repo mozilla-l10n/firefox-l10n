@@ -8,6 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "புதிய சாளரத்திற்கு பதிலாகப் புதிய கீற்றில் திற">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "பல கீற்றுகளை மூடும் போது உங்களை எச்சரிக்கும்">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
