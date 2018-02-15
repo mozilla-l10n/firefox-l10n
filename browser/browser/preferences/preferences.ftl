@@ -12,12 +12,15 @@ category-general =
     .tooltiptext = { pane-general-title }
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = 개인 정보 및 보안
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } 도움말
 
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = 이 기능을 켜려면 { -brand-short-name }를 반드시 재시작해야 합니다.
 feature-disable-requires-restart = 이 기능을 끄려면 { -brand-short-name }를 반드시 재시작해야 힙니다.
+should-restart-title = { -brand-short-name } 재시작
