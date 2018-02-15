@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "Q'asab'äl URL:">
 <!ENTITY feedLocation.accesskey      "Q">
 <!ENTITY feedLocation.placeholder    "Titz'ib'äx jun okel rochochib'al q'asab'äl richin Titz'aqatisäx">
+<!ENTITY feedLocation2.placeholder   "Tatz'ib'aj jun okel url richin rub'ey tzuquj">
 <!ENTITY locationValidate.label      "Jikib'anem">
 <!ENTITY validateText.label          "Tinik'öx ri jikib'anem chuqa' tikol jun okel ochochib'äl.">
 
@@ -39,6 +40,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Titz'aqatisäx">
 <!ENTITY button.addFeed.accesskey    "t">
+<!ENTITY button.verifyFeed.label     "Tinik'öx">
+<!ENTITY button.verifyFeed.accesskey "T">
 <!ENTITY button.updateFeed.label     "Tik'ex">
 <!ENTITY button.updateFeed.accesskey "T">
 <!ENTITY button.removeFeed.label     "Tiyuj">
