@@ -22,3 +22,6 @@ focus-search =
 ## Browser Restart Dialog
 
 should-restart-title = Start { -brand-short-name } på nytt
+should-restart-ok = Start { -brand-short-name } på nytt no
+revert-no-restart-button = Tilbakestill
+restart-later = Start på nytt seinare
