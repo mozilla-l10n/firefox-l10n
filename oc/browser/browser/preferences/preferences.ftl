@@ -23,3 +23,5 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } deu reaviar per activar aquesta foncionalitat.
+feature-disable-requires-restart = { -brand-short-name } deu reaviar per activar aquesta foncionalitat.
