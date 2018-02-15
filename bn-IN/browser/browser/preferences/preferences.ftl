@@ -13,6 +13,7 @@ pref-page =
             [windows] বিকল্প
            *[other] পছন্দ
         }
+pane-general-title = সাধারণ
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
