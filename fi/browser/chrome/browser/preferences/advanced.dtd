@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Pyrimme antamaan sinulle vapauden valita ja keräämään vain tietoja, joita tarvitsemme voidaksemme tarjota &brandShortName;in kaikille ja parantaa sitä. Kysymme aina lupaa ennen kuin vastaanotamme henkilötietoja.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Tietosuojakäytäntö">
 
+<!ENTITY collectBrowserErrors.label          "Salli, että &brandShortName; lähettää selaimen virheraportit (virheilmoitukset mukaan lukien) Mozillalle">
+<!ENTITY collectBrowserErrors.accesskey      "v">
+<!ENTITY collectBrowserErrorsLearnMore.label "Lue lisää">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Salli, että &brandShortName; lähettää kaatumisilmoitukset Mozillalle">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "e">
 <!ENTITY crashReporterLearnMore.label    "Lue lisää">
