@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "இந்த படத்தை பகிரமுடியவில்லை">
 <!ENTITY save_as_pdf "பிடிஎப் ஆக சேமி">
 <!ENTITY print "அச்சிடு">
+<!ENTITY view_page_source "பக்க மூலத்தைக் காட்டு">
 <!ENTITY find_in_page "பக்கத்தில் கண்டுபிடி">
 <!ENTITY desktop_mode "கணினி பக்கத்தைக் கேள்">
 <!ENTITY page "பக்கம்">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "புதிய கீற்றில் திறக்கவும்">
 <!ENTITY contextmenu_open_private_tab "தனியார் தாவலில் திறக்கவும்">
 <!ENTITY contextmenu_remove "நீக்கு">
-<!ENTITY contextmenu_add_to_launcher "முகப்பு திரையில் சேர்">
 <!ENTITY contextmenu_add_page_shortcut "பக்கத்தின் குறுக்குவழியை சேர்">
 <!ENTITY contextmenu_set_as_homepage "முகப்பு பக்கமாக்குக">
 <!ENTITY contextmenu_share "பகிர்">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "பக்கம் நீக்கப்பட்டது">
-
 <!ENTITY folder_removed "அடைவு நீக்கப்பட்டது">
 
 <!ENTITY bookmark_edit_title "புத்தகக்குறியை திருத்து">
@@ -818,8 +817,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; இற்றைப்படுத்தப்பட்டுள்ளது">
 <!ENTITY whatsnew_notification_summary "இந்த பதிப்பில் என்ன புதியது என காண்">
-
-<!ENTITY promotion_add_to_homescreen "முகப்பு திரையில் சேர்">
 
 <!ENTITY promotion_add_page_shortcut "பக்கத்தின் குறுக்குவழியை சேர்">
 
