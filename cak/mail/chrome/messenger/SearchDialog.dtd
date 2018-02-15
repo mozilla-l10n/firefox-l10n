@@ -54,6 +54,10 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Kecha' taq che'el richin nik'ut">
+<!ENTITY threadColumn2.tooltip "Tik'ut rutzijol chi tzijonem">
+<!ENTITY fromColumn2.tooltip "Kenuk' chi richin">
+<!ENTITY recipientColumn2.tooltip "Tinuk' chi k'ulunel">
+<!ENTITY correspondentColumn2.tooltip "Tinuk' chi ajtaqikil">
 <!ENTITY subjectColumn2.tooltip "Tinuk' chi taqikil">
 <!ENTITY dateColumn2.tooltip "Kenuk' chi q'ijul">
 <!ENTITY priorityColumn2.tooltip "Tinuk' chi ya'on ruq'ij">
@@ -62,4 +66,10 @@
 <!ENTITY statusColumn2.tooltip "Tinuk' chi rub'anikil">
 <!ENTITY sizeColumn2.tooltip "Tinuk' chi nimilem">
 <!ENTITY junkStatusColumn2.tooltip "Tinuk' chi rub'anikil seq'">
+<!ENTITY unreadColumn2.tooltip "Kajilab'al taq tzijol man esik'in ta pa tzijonem">
+<!ENTITY totalColumn2.tooltip "Ronojel ri kajilab'al rutzijol pa tzijonem">
+<!ENTITY readColumn2.tooltip "Kenuk' chi sik'in">
+<!ENTITY receivedColumn2.tooltip "Ticholajïx chi ruq'ijul k'ulun">
+<!ENTITY starredColumn2.tooltip "Tinuk' chi ch'umil">
 <!ENTITY locationColumn2.tooltip "Tinuk' chi k'ojlib'äl">
+<!ENTITY idColumn2.tooltip "Ticholajïx chi k'ulun">

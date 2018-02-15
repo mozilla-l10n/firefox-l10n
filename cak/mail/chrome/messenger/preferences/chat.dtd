@@ -16,6 +16,8 @@ sentence. -->
 
 
 
+<!ENTITY  desktopChatNotifications.label      "Tik'ut jun rutzijol:">
+<!ENTITY  desktopChatNotifications.accesskey  "c">
 <!ENTITY  chatSound.label                     "Titzij jun k'oxom">
 <!ENTITY  play.label                          "Titzij">
 <!ENTITY  play.accesskey                      "T">

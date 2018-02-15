@@ -14,6 +14,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Re jun ochochib'äl re' q'aton rusamaj">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Man xilitäj ta ri k'uxasamaj">
 
@@ -23,6 +24,11 @@
   <li>Tanik'oj we ri yakb'äl xsilöx el, xk'ex rub'i' o xyuj el.</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Xq'at rutz'etik ri yakb'äl">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Rik'in jub'a' xyuj el, xsilöx el o ri niya'on q'ij chi ke ri yakb'äl niq'ato rutz'etik.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Uy.">
 <!ENTITY generic.longDesc "
