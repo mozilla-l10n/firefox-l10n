@@ -18,3 +18,9 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Arvi torna o { -brand-short-name } pe ativâ sta fonçion.
+feature-disable-requires-restart = Arvi torna o { -brand-short-name } pe dizativâ sta fonçion.
+should-restart-title = Arvi torna o { -brand-short-name }
+should-restart-ok = Arvi torna { -brand-short-name } oua
+revert-no-restart-button = Repiggia
+restart-later = Arvi torna Dòppo
