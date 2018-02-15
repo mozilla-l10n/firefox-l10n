@@ -16,6 +16,7 @@ do-not-track-option-always =
 # Do not translate.
 search-field =
     .style = min-width: 15.4em
+pane-general-title = Všeobecné
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = Vyhľadávanie
