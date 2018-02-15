@@ -7,14 +7,20 @@ do-not-track-option-default =
     .label = صرف جب سراغ کاری حفاظت استعمال کر رہے ہوں
 do-not-track-option-always =
     .label = ہمیشہ
+pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = تلاش کریں
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = رازداری اور سلامتی
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox اکاؤنٹس
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } تعاون
 close-button =
     .aria-label = بند کریں
 
@@ -23,3 +29,6 @@ close-button =
 feature-enable-requires-restart = اس فیچر کو اہل کرنے کے لیے { -brand-short-name } کو دوباره شروع کرنا ہو گا۔
 feature-disable-requires-restart = اس فیچر کو نا اہل کرنے کے لیے { -brand-short-name } کو دوباره شروع کرنا ہو گا۔
 should-restart-title = { -brand-short-name } دوبارہ شروع کریں
+should-restart-ok = { -brand-short-name } کو ابھی دوباره شروع کریں
+revert-no-restart-button = الٹ کریں
+restart-later = بعد میں دوباره شروع کریں
