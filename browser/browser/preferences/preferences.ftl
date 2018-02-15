@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = רק בעת שימוש בהגנת מעקב
 do-not-track-option-always =
     .label = תמיד
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] אפשרויות
+           *[other] העדפות
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -21,3 +26,6 @@ focus-search =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = יש להפעיל מחדש את { -brand-short-name } כדי להפעיל את תכונה זו.
+feature-disable-requires-restart = יש להפעיל מחדש את { -brand-short-name } כדי לנטל את תכונה זו.
+should-restart-title = הפעלה מחדש של { -brand-short-name }
