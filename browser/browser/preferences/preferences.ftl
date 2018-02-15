@@ -21,3 +21,4 @@ close-button =
 
 ## Browser Restart Dialog
 
+revert-no-restart-button = Ungedien meitsje
