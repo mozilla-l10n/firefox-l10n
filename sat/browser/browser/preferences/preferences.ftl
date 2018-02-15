@@ -7,6 +7,7 @@ pref-page =
             [windows] आपनार मोने तेयाक् को
            *[other] कुसियाक् को
         }
+pane-general-title = साधारोन
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
