@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sitenin mikrofonunuzu kullanmasını engellediniz.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bu sitenin ekranınızı paylaşmasını engellediniz.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Bu sitenin konumunuzu öğrenmesini engellediniz.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Bu sitenin veri depolamasını engellediniz.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu sitenin bildirim göndermesini engellediniz.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sitenin kalıcı veri depolamasını engellediniz.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Bu sitedeki açılır pencereleri engellediniz.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sitenin kanvastan veri ayıklamasını engellediniz.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Y">
 <!ENTITY newPrivateWindow.label     "Yeni gizli pencere">
 <!ENTITY newPrivateWindow.accesskey "n">
-<!ENTITY newNonRemoteWindow.label   "Yeni e10s dışı pencere">
 
 <!ENTITY editMenu.label         "Düzen">
 <!ENTITY editMenu.accesskey       "z">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Tüm geçmişi göster">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Özelleştir">
-<!ENTITY appMenuCustomize.tooltip "Menüyü ve araç çubuklarını özelleştir">
-<!ENTITY appMenuCustomizeExit.label "Özelleştirmeyi bitir">
-<!ENTITY appMenuCustomizeExit.tooltip "Özelleştirmeyi bitir">
-
 <!ENTITY appMenuHistory.showAll.label "Tüm geçmişi göster">
 <!ENTITY appMenuHistory.clearRecent.label "Yakın geçmişi temizle…">
 <!ENTITY appMenuHistory.restoreSession.label "Önceki oturumu geri yükle">
 <!ENTITY appMenuHistory.viewSidebar.label "Geçmiş kenar çubuğunu aç">
 <!ENTITY appMenuHistory.recentHistory.label "Yakın geçmiş">
 <!ENTITY appMenuHelp.label "Yardım">
-<!ENTITY appMenuHelp.tooltip "Yardım menüsünü aç">
 
 <!ENTITY appMenuRemoteTabs.label "Eşitlenmiş sekmeler">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Henüz eşitlenmiş bir sekme yok.">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Eşitleme Tercihleri">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync tercihlerini aç">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Hesabınızın doğrulanması gerekiyor.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
@@ -444,14 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Eklenti:">
 <!ENTITY urlbar.switchToTab.label     "Geçilecek sekme:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Arama deneyiminizi önerilerle geliştirmek ister misiniz?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Daha fazla bilgi al…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "D">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Hayır">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "H">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Evet">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "E">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "İpucu:">
@@ -730,8 +714,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Temel sayfa stili">
 <!ENTITY pageStylePersistentOnly.accesskey "T">
 
-<!ENTITY pageReportIcon.tooltip            "Bu site için açılır pencere engelleme ayarlarını değiştir">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Sevdiğiniz öğeleri araç çubuğuna veya adres çubuğu menüsüne sürükleyin.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Daha fazla araç mı istiyorsunuz?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Binlerce eklenti arasından seçim yapın">
 <!ENTITY customizeMode.restoreDefaults "Varsayılanları geri yükle">
 <!ENTITY customizeMode.done "Tamam">
 <!ENTITY customizeMode.titlebar "Başlık çubuğu">
@@ -877,7 +857,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "Y">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Daha fazla tema indirin">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
-<!ENTITY customizeMode.emptyOverflowList.description "Araç çubuğunda görmek istemediğiniz ama kolayca ulaşmak istediğiniz öğeleri sürükleyip buraya bırakın.">
 <!ENTITY customizeMode.overflowList.title2 "Taşma menüsü">
 <!ENTITY customizeMode.overflowList.description "Araç çubuğunda görmek istemediğiniz ama kolayca ulaşmak istediğiniz öğeleri sürükleyip buraya bırakın.">
 <!ENTITY customizeMode.uidensity "Yoğunluk">
@@ -1008,7 +987,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
 <!ENTITY pageAction.addToUrlbar.label "Adres çubuğuna ekle">
 <!ENTITY pageAction.removeFromUrlbar.label "Adres çubuğundan kaldır">
-
 <!ENTITY pageAction.allowInUrlbar.label "Adres çubuğunda göster">
 <!ENTITY pageAction.disallowInUrlbar.label "Adres çubuğunda gösterme">
 <!ENTITY pageAction.manageExtension.label "Eklentiyi yönet…">
