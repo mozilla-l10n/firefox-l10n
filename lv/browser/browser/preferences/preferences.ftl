@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Tagad izmantojot izsekošanas aizsardzību
 do-not-track-option-always =
     .label = Vienmēr
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Iestatījumi
+           *[other] Iestatījumi
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -16,8 +21,14 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Aizvērt
 
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = Lai aktivētu šo iespēju ir jāpārstartē { -brand-short-name }.
 feature-disable-requires-restart = Lai deaktivētu šo iespēju ir jāpārstartē { -brand-short-name }.
+should-restart-title = Pārstartēt { -brand-short-name }
+restart-later = Pārstartēt vēlāk
