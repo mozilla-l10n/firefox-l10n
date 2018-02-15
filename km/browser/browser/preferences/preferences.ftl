@@ -13,10 +13,14 @@ category-general =
     .tooltiptext = { pane-general-title }
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = ឯកជន​ភាព & សុវត្ថិភាព
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = គណនី Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } ជំនួយ
 focus-search =
     .key = f
 close-button =
