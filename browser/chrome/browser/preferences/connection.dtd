@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Nastavenie serverov proxy pre prístup k internetu">
+
+<!ENTITY  proxyTitle.label2             "Nastavenie servera proxy pre prístup k internetu">
 <!ENTITY  noProxyTypeRadio.label        "Nepoužívať server proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "e">
 <!ENTITY  systemTypeRadio.label         "Použiť systémové nastavenia serverov proxy">
