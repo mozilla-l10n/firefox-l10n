@@ -37,7 +37,6 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } must restart to enable this feature.
 feature-disable-requires-restart = { -brand-short-name } se mora ponovno pokrenuti da bi se onemogućila ova mogućnost
 should-restart-title = Ponovno pokreni { -brand-short-name }
 should-restart-ok = Ponovno pokreni { -brand-short-name } sada
