@@ -7,6 +7,11 @@ do-not-track-option-default =
     .label = ట్రాకింగ్ సంరక్షణ వాడుతున్నప్పుడు మాత్రమే
 do-not-track-option-always =
     .label = ఎల్లప్పుడూ
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] ఎంపికలు
+           *[other] అభిరుచులు
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = వెతకడం
@@ -22,9 +27,14 @@ category-sync =
 help-button-label = { -brand-short-name } తోడ్పాటు
 focus-search =
     .key = f
+close-button =
+    .aria-label = మూసివేయి
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = ఈ విశేషణం చేతనం చేయుటకు { -brand-short-name } ను తప్పక పునఃప్రారంభించాలి.
+feature-disable-requires-restart = ఈ విశేషణం అచేతనం చేయుటకు { -brand-short-name } ను తప్పక పునఃప్రారంభించాలి.
 should-restart-title = { -brand-short-name } పునఃప్రారంభించు
+should-restart-ok = ఇప్పుడు { -brand-short-name } ను పునఃప్రారంభించు
 revert-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
