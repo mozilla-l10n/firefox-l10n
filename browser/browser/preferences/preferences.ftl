@@ -26,8 +26,11 @@ category-general =
 pane-search-title = Cari
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privasi & Keamanan
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Akun Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Dukungan { -brand-short-name }
