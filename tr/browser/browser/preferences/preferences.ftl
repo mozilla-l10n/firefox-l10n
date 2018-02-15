@@ -36,3 +36,9 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Bu özelliği etkinleştirmek için { -brand-short-name } yeniden başlatılmalıdır.
+feature-disable-requires-restart = Bu özelliği devre dışı bırakmak { -brand-short-name } için yeniden başlatılmalıdır.
+should-restart-title = { -brand-short-name } tarayıcısını yeniden başlat
+should-restart-ok = { -brand-short-name } tarayıcısını yeniden başlat
+revert-no-restart-button = Geri al
+restart-later = Daha sonra yeniden başlat
