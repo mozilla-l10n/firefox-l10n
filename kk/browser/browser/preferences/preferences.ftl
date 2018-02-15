@@ -8,14 +8,20 @@ do-not-track-option-default =
     .label = Тек Бақылаудан қорғанысты қолдану кезінде
 do-not-track-option-always =
     .label = Әрқашан
+pane-general-title = Жалпы
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Іздеу
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Жекелік және қауіпсіздік
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox тіркелгісі
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } қолдауы
 focus-search =
     .key = f
 close-button =
@@ -23,3 +29,9 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } бұл мүмкіндікті іске қосу үшін қайта іске қосылуы керек.
+feature-disable-requires-restart = { -brand-short-name } бұл мүмкіндікті сөндіру үшін қайта іске қосылуы керек.
+should-restart-title = { -brand-short-name } қайта қосу
+should-restart-ok = { -brand-short-name } қазір қайта қосу
+revert-no-restart-button = Қайтару
+restart-later = Қайта қосуды кейін орындау
