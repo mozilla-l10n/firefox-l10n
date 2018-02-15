@@ -19,3 +19,5 @@ category-sync =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } þarf að endurræsa til að virkja þennan eiginleika.
+feature-disable-requires-restart = { -brand-short-name } þarf að endurræsa til að taka þennan eiginleika af.
