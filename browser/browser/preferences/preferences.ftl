@@ -11,6 +11,7 @@ do-not-track-option-always =
 pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Pesquisa
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = Privacidade e Segurança
