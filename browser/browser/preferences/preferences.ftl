@@ -7,6 +7,11 @@ do-not-track-option-default =
     .label = Slegs wanneer volgbeskerming gebruik word
 do-not-track-option-always =
     .label = Altyd
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Opsies
+           *[other] Voorkeure
+        }
 pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
