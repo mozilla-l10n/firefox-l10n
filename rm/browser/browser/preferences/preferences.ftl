@@ -44,4 +44,6 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } sto vegnir reavià per activar questa funcziun.
 feature-disable-requires-restart = { -brand-short-name } sto vegnir reavià per deactivar questa funcziun.
 should-restart-title = Reaviar { -brand-short-name }
+should-restart-ok = Reaviar ussa { -brand-short-name }
+revert-no-restart-button = Revocar
 restart-later = Reaviar pli tard
