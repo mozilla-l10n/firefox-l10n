@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Yalnızca İzlenme Koruması’nı kullanırken
 do-not-track-option-always =
     .label = Her zaman
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Seçenekler
+           *[other] Tercihler
+        }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
