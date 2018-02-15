@@ -30,3 +30,5 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } harus dimulai ulang untuk mengaktifkan fitur ini.
 feature-disable-requires-restart = { -brand-short-name } harus dimulai ulang untuk menonaktifkan fitur ini.
+should-restart-title = Mulai Ulang { -brand-short-name }
+should-restart-ok = Mulai ulang { -brand-short-name } sekarang
