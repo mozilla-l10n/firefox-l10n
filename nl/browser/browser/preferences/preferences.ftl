@@ -23,3 +23,6 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = U moet { -brand-short-name } herstarten om deze functie in te schakelen.
+feature-disable-requires-restart = U moet { -brand-short-name } herstarten om deze functie uit te schakelen.
+should-restart-title = { -brand-short-name } herstarten
