@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "我們致力於提供您選擇，也只會收集我們在提供與改善 &brandShortName; 時所必需的資料。我們也一定會經過您的同意才收集您的個人資訊。">
 <!ENTITY dataCollectionPrivacyNotice.label    "隱私權公告">
 
+<!ENTITY collectBrowserErrors.label          "允許 &brandShortName; 向 Mozilla 發送瀏覽器錯誤報告（包括錯誤訊息）">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "了解更多">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "允許 &brandShortName; 傳送錯誤回報給 Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "更多資訊">
