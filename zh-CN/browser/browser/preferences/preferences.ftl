@@ -21,6 +21,7 @@ pref-page =
 # Do not translate.
 search-field =
     .style = min-width: 15.4em
+pane-general-title = 常规
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = 搜索
