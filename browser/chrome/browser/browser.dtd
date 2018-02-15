@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Olet estänyt mikrofonin tältä sivustolta.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Olet estänyt tämän sivuston jakamasta näyttöäsi.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Olet estänyt sijaintitiedot tältä sivustolta.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Olet estänyt tietojen tallentamisen tietovarastoon tältä sivustolta.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Olet estänyt ilmoitukset tältä sivustolta.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Olet estänyt pysyvän tallennustilan käytön tältä sivustolta.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Olet estänyt ponnahdusikkunat tältä sivustolta.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Olet estänyt kanvaksen sisällön lukemisen tältä sivustolta.">
@@ -250,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Kirjanmerkit">
-<!ENTITY bookmarksMenuButton2.label         "Kirjanmerkkivalikko">
+<!ENTITY bookmarksMenuButton2.label         "Kirjanmerkit-valikko">
 <!ENTITY bookmarksMenuButton.other.label    "Muut kirjanmerkit">
 <!ENTITY bookmarksMenuButton.mobile.label   "Kannettavan laitteen kirjanmerkit">
 <!ENTITY viewBookmarksSidebar2.label        "Näytä kirjanmerkkien sivupaneeli">
@@ -259,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Piilota kirjanmerkkipalkki">
 <!ENTITY searchBookmarks.label              "Etsi kirjanmerkeistä">
 <!ENTITY bookmarkingTools.label             "Kirjanmerkkityökalut">
-<!ENTITY addBookmarksMenu.label             "Lisää kirjanmerkkivalikko työkalupalkkiin">
-<!ENTITY removeBookmarksMenu.label          "Poista kirjanmerkkivalikko työkalupalkista">
+<!ENTITY addBookmarksMenu.label             "Lisää Kirjanmerkit-valikko työkalupalkkiin">
+<!ENTITY removeBookmarksMenu.label          "Poista Kirjanmerkit-valikko työkalupalkista">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "U">
 <!ENTITY newPrivateWindow.label     "Uusi yksityinen ikkuna">
 <!ENTITY newPrivateWindow.accesskey "y">
-<!ENTITY newNonRemoteWindow.label   "Uusi ei-e10s ikkuna">
 
 <!ENTITY editMenu.label         "Muokkaa">
 <!ENTITY editMenu.accesskey       "M">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Näytä sivuhistoria">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Muokkaa">
-<!ENTITY appMenuCustomize.tooltip "Muokkaa valikkoa ja työkalupalkkeja">
-<!ENTITY appMenuCustomizeExit.label "Lopeta muokkaus">
-<!ENTITY appMenuCustomizeExit.tooltip "Lopeta muokkaus">
-
 <!ENTITY appMenuHistory.showAll.label "Näytä koko sivuhistoria">
 <!ENTITY appMenuHistory.clearRecent.label "Poista viimeaikaisia historiatietoja…">
 <!ENTITY appMenuHistory.restoreSession.label "Palauta edellinen istunto">
 <!ENTITY appMenuHistory.viewSidebar.label "Näytä sivuhistoriapaneeli">
 <!ENTITY appMenuHistory.recentHistory.label "Viimeaikainen historia">
 <!ENTITY appMenuHelp.label "Ohje">
-<!ENTITY appMenuHelp.tooltip "Avaa ohjevalikko">
 
 <!ENTITY appMenuRemoteTabs.label "Synkronoidut välilehdet">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Ei synkronoituja välilehtiä… vielä!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Haluatko nähdä muiden laitteiden välilehdet tässä?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-palvelun asetukset">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Avaa Sync-asetukset">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tilisi tarvitsee vahvistaa.">
 <!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
@@ -444,14 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Laajennus:">
 <!ENTITY urlbar.switchToTab.label     "Siirry välilehteen:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Näytetäänkö hakuja tehdessä hakuehdotuksia?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Lue lisää…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "L">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ei">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "E">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Kyllä">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "K">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Vinkki:">
@@ -730,8 +714,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Oletustyyli">
 <!ENTITY pageStylePersistentOnly.accesskey "O">
 
-<!ENTITY pageReportIcon.tooltip            "Muuta tämän sivuston ponnahdusikkuna-asetuksia">
-
 <!ENTITY allowPopups.accesskey "S">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Synkronoi">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Vedä suosikkikohteita työkalupalkkiin tai ylivuotovalikkoon.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Haluatko muita työkaluja?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Valitse tuhansista lisäosista">
 <!ENTITY customizeMode.restoreDefaults "Palauta oletukset">
 <!ENTITY customizeMode.done "Valmis">
 <!ENTITY customizeMode.titlebar "Otsikkopalkki">
@@ -877,7 +857,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Lataa lisää teemoja">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
-<!ENTITY customizeMode.emptyOverflowList.description "Vedä ja pudota kohteita tänne pitääksesi ne käden ulottuvissa mutta poissa työkalupalkista…">
 <!ENTITY customizeMode.overflowList.title2 "Ylivuotovalikko">
 <!ENTITY customizeMode.overflowList.description "Vedä ja pudota kohteita tänne pitääksesi ne käden ulottuvissa mutta poissa työkalupalkista…">
 <!ENTITY customizeMode.uidensity "Tiiviys">
@@ -1008,7 +987,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Sivun toiminnot">
 <!ENTITY pageAction.addToUrlbar.label "Lisää osoitepalkkiin">
 <!ENTITY pageAction.removeFromUrlbar.label "Poista osoitepalkista">
-
 <!ENTITY pageAction.allowInUrlbar.label "Näytä osoitepalkissa">
 <!ENTITY pageAction.disallowInUrlbar.label "Älä näytä osoitepalkissa">
 <!ENTITY pageAction.manageExtension.label "Hallitse laajennusta…">
