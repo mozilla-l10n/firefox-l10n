@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Dim ond pan yn defnyddio Diogelwch rhag Tracio
 do-not-track-option-always =
     .label = Bob tro
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Dewisiadau
+           *[other] Dewisiadau
+        }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
