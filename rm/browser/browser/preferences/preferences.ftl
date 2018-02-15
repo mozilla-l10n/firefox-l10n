@@ -41,5 +41,7 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } sto vegnir reavià per activar questa funcziun.
+feature-disable-requires-restart = { -brand-short-name } sto vegnir reavià per deactivar questa funcziun.
 should-restart-title = Reaviar { -brand-short-name }
 restart-later = Reaviar pli tard
