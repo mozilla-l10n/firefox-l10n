@@ -8,6 +8,7 @@ do-not-track-option-default =
     .label = Ala s useqdec n ummesten mgal aḍfaṛ
 do-not-track-option-always =
     .label = Yal tikelt
+pane-general-title = Amatu
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
