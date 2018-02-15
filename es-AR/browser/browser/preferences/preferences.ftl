@@ -13,6 +13,7 @@ pref-page =
             [windows] Opciones
            *[other] Preferencias
         }
+pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = Búsquedas
@@ -26,6 +27,8 @@ pane-sync-title = Cuenta de Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Soporte de { -brand-short-name }
+focus-search =
+    .key = f
 close-button =
     .aria-label = Cerrar
 
