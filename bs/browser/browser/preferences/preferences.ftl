@@ -8,12 +8,17 @@ do-not-track-option-default =
     .label = Samo kada koristim Zaštitu od praćenja
 do-not-track-option-always =
     .label = Uvijek
+pane-general-title = Opće
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Traži
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privatnost & sigurnost
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox račun
 category-sync =
     .tooltiptext = { pane-sync-title }
 focus-search =
@@ -25,3 +30,7 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } se mora restartovati kako bi omogućio ovu funkcionalnost.
 feature-disable-requires-restart = { -brand-short-name } se mora restartovati kako bi onemogućio ovu funkcionalnost.
+should-restart-title = Restartuj { -brand-short-name }
+should-restart-ok = Restartuj { -brand-short-name } odmah
+revert-no-restart-button = Vrati na prijašnje
+restart-later = Restartuj kasnije
