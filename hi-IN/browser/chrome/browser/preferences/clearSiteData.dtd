@@ -9,6 +9,7 @@
 
 <!ENTITY clearSiteData.label          "कुकीज़ और साइट डेटा">
 <!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "यदि मिटाते हैं तो आप वेबसाइटों से साईन आउट हो जायेंगे">
 
 <!ENTITY clearCache.accesskey         "W">
 
