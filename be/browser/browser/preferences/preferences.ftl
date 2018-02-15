@@ -24,3 +24,6 @@ focus-search =
 feature-enable-requires-restart = { -brand-short-name } мусіць перазапусціцца, каб уключыць гэту магчымасць.
 feature-disable-requires-restart = { -brand-short-name } мусіць перазапусціцца, каб адключыць гэту магчымасць.
 should-restart-title = Перазапуск { -brand-short-name }
+should-restart-ok = Перазапусціць { -brand-short-name } зараз
+revert-no-restart-button = Адмяніць змяненне
+restart-later = Перазапусціць пазней
