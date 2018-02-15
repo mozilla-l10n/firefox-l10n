@@ -24,6 +24,7 @@ search-field =
 pane-general-title = Üldine
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Otsing
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = Privaatsus ja turvalisus
