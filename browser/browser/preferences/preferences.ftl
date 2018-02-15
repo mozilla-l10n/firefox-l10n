@@ -16,6 +16,12 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Vala
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = I-{ -brand-short-name } kufuneka iqalise ngokutsha ukuyenza isebenze ifitsha.
+feature-disable-requires-restart = I-{ -brand-short-name } kufuneka iqalise ngokutsha ukuyenza ingasebenzi le fitsha.
