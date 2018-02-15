@@ -8,14 +8,28 @@ do-not-track-option-default =
     .label = Chỉ khi dùng trình chống theo dõi
 do-not-track-option-always =
     .label = Luôn luôn
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
+pane-general-title = Tổng quát
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Tìm kiếm
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Riêng tư & Bảo mật
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Tài khoản Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Hỗ trợ { -brand-short-name }
 focus-search =
     .key = f
 close-button =
