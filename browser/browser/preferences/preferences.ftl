@@ -10,6 +10,12 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Затвори
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } мора да се рестартира за да се овозможи оваа особеност.
+should-restart-title = Рестарирај го { -brand-short-name }
