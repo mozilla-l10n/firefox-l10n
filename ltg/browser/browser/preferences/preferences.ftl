@@ -28,3 +28,9 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Kab aktivātu itū īspieju ir juopuorstartej { -brand-short-name }.
+feature-disable-requires-restart = Kab deakticeitu itū īspieju ir juopuorstartej { -brand-short-name }.
+should-restart-title = Puorstarteit { -brand-short-name }
+should-restart-ok = Puorstarteit { -brand-short-name } tagad
+revert-no-restart-button = Atjaunuot
+restart-later = Puorstarteit vāluok
