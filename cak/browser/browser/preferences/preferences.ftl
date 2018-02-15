@@ -11,7 +11,7 @@ do-not-track-option-always =
 pref-page =
     .title = { PLATFORM() ->
             [windows] Taq cha'oj
-           *[other] Taq ajowab'äl…
+           *[other] Taq ajowab'äl
         }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

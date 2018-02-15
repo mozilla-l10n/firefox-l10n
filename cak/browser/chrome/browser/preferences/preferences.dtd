@@ -4,7 +4,7 @@
 
 
 <!ENTITY  prefWindow.titleWin     "Taq cha'oj">
-<!ENTITY  prefWindow.title        "Taq ajowab'äl…">
+<!ENTITY  prefWindow.title        "Taq ajowab'äl">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; Taq ajowab'äl">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
