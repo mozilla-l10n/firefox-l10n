@@ -15,3 +15,6 @@ close-button =
 
 ## Browser Restart Dialog
 
+should-restart-ok = ယခုပင် { -brand-short-name } ကို ပြန်လည်စတင်ပါ
+revert-no-restart-button = မူလအတိုင်း ပြန်ထားရန်
+restart-later = နောက်မှ ပြန်ဖွင့်ပါ
