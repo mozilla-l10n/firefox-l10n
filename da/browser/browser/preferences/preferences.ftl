@@ -16,15 +16,20 @@ do-not-track-option-always =
 # Do not translate.
 search-field =
     .style = min-width: 15.4em
+pane-general-title = Generelt
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = Søgning
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privatliv & sikkerhed
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox-konto
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Hjælp til { -brand-short-name }
 focus-search =
     .key = f
 close-button =
