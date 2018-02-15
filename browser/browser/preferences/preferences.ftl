@@ -18,6 +18,10 @@ category-sync =
     .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
+close-button =
+    .aria-label = അടയ്ക്കുക 
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = ഈ വിശേഷത പ്രവര്‍ത്തന സജ്ജമാക്കുവാന്‍ { -brand-short-name } വീണ്ടും ആരംഭിയ്ക്കേണ്ടതുണ്ടു്.
+feature-disable-requires-restart = ഈ വിശേഷത പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനു് { -brand-short-name } വീണ്ടും ആരംഭിയ്ക്കേണ്ടതുണ്ടു്.
