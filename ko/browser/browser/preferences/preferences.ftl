@@ -31,6 +31,8 @@ category-sync =
 help-button-label = { -brand-short-name } 도움말
 focus-search =
     .key = f
+close-button =
+    .aria-label = 닫기
 
 ## Browser Restart Dialog
 
