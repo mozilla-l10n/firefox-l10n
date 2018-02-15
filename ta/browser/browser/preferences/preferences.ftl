@@ -8,14 +8,25 @@ do-not-track-option-default =
     .label = தடமறியல் பாதுகாப்பைப் பயன்படுத்தும்போது மட்டுமே
 do-not-track-option-always =
     .label = எப்போதும்
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] தேர்வுகள்
+           *[other] முன்னுரிமைகள்
+        }
+pane-general-title = பொது
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = தேடு
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = தனியுரிமை & பாதுகாப்பு
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = பயர்பாக்ஸ் கணக்கு
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } ஆதரவு
 focus-search =
     .key = f
 close-button =
@@ -25,3 +36,7 @@ close-button =
 
 feature-enable-requires-restart = இந்த அம்சத்தை செயல்படுத்த { -brand-short-name } ஐ மறுதுவக்கம் செய்ய வேண்டும்.
 feature-disable-requires-restart = இந்த அம்சத்தை முடக்க { -brand-short-name } ஐ மறுதுவக்கம் செய்ய வேண்டும்.
+should-restart-title = { -brand-short-name }ஐ மறுதுவக்கு
+should-restart-ok = { -brand-short-name } இப்போதே மீட்தொடங்கு
+revert-no-restart-button = திருப்பிவிடு
+restart-later = பின்னர் மீட்துவக்கு
