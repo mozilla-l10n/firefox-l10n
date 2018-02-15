@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Seulement lorsque la protection contre le pistage est utilisée
 do-not-track-option-always =
     .label = Toujours
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Options
+           *[other] Préférences
+        }
 pane-general-title = Général
 category-general =
     .tooltiptext = { pane-general-title }
@@ -20,6 +25,8 @@ category-privacy =
 pane-sync-title = Compte Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
 close-button =
     .aria-label = Fermer
 
