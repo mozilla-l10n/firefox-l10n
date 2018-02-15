@@ -12,6 +12,7 @@ pref-page =
             [windows] ఎంపికలు
            *[other] అభిరుచులు
         }
+pane-general-title = సాధారణం
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = వెతకడం
