@@ -25,6 +25,7 @@ category-privacy =
 pane-sync-title = Аккаунт Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Поддержка { -brand-short-name }
 focus-search =
     .key = f
 close-button =
