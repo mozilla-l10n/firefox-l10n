@@ -13,6 +13,14 @@ pref-page =
             [windows] विकल्पहरू
            *[other] प्राथमिकताहरू
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
@@ -35,6 +43,7 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = { -brand-short-name } यो विशेषता चलाउन पुनः सुरु गर्नु पर्ने हुन्छ ।
+should-restart-title = { -brand-short-name } पुनः सुरु गर्नुहोस्
 should-restart-ok = { -brand-short-name } तत्काल पुन सुचारु गर्नुहोस
 revert-no-restart-button = उल्टाउनुहोस
 restart-later = केहि समयपछि पुन सुचारु गर्नुहोस
