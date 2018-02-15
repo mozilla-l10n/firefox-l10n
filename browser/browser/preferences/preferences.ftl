@@ -39,4 +39,7 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } deu reaviar per activar aquesta foncionalitat.
 feature-disable-requires-restart = { -brand-short-name } deu reaviar per activar aquesta foncionalitat.
+should-restart-title = Reaviar { -brand-short-name }
+should-restart-ok = Reaviar { -brand-short-name } ara
 revert-no-restart-button = Restablir
+restart-later = Reaviar mai tard
