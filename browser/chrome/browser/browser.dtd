@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Info wó boku">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Layout Debugger">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Glědałkowy rejtark">
 <!ENTITY mirrorTabCmd.accesskey "G">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Sćo swój mikrofon za toś to websedło zablokěrował.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Sćo toś tomu websedłoju źělenje swójeje wobrazowki zakazał.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Sćo toś tomu websedłoju informacijie wó stojnišću zawoborał.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Sćo toś tomu websedłoju zakazał, daty składowaś.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Sćo powěźeńki za toś to websedło zablokěrował.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Sćo trajny składowak za toś to websedło blokěrował.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Sćo wuskokujuce wokna za toś to websedło blokěrował.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Sćo blokěrował pśistup ku canvasowym datam za toś to websedło.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nowe priwatne wokno">
 <!ENTITY newPrivateWindow.accesskey "r">
-<!ENTITY newNonRemoteWindow.label   "Nowe wokno bźez e10s">
 
 <!ENTITY editMenu.label         "Wobźełaś">
 <!ENTITY editMenu.accesskey       "b">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Wšu historiju pokazaś">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Pśiměriś">
-<!ENTITY appMenuCustomize.tooltip "Meni a symbolowe rědki pśiměriś">
-<!ENTITY appMenuCustomizeExit.label "Pśiměrjenje skóńcyś">
-<!ENTITY appMenuCustomizeExit.tooltip "Pśiměrjenje skóńcyś">
-
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazaś">
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprozniś…">
 <!ENTITY appMenuHistory.restoreSession.label "Pjerwjejšne pósejźenje wótnowiś">
 <!ENTITY appMenuHistory.viewSidebar.label "Bócnicu historije pokazaś">
 <!ENTITY appMenuHistory.recentHistory.label "Nejnowša historija">
 <!ENTITY appMenuHelp.label "Pomoc">
-<!ENTITY appMenuHelp.tooltip "Meni Pomoc wócyniś">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizěrowane rejtarki">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Hyšći žedne synchronizěrowane rejtarki …!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Cośo how swóje rejtarki z drugich rědow wiźeś?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizěrowaś">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronizěrowańske nastajenja wócyniś">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Wašo konto musy se wobkšuśiś.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pla Sync pśizjawiś">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšyrjenje:">
 <!ENTITY urlbar.switchToTab.label     "K rejtarkoju pśejś:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Cośo swójo pytańske dožywjenje z naraźenjami pólěpšyś?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Dalšne informacije…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ně">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Jo">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "j">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Zakładny stil boka">
 <!ENTITY pageStylePersistentOnly.accesskey "k">
 
-<!ENTITY pageReportIcon.tooltip            "Nastajenja blokěrowanja wuskokujucych woknow za toś to websedło zmeniś">
-
 <!ENTITY allowPopups.accesskey "u">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Śěgniśo swóje nejlubše zapiski do symboloweje rědki abo woběžkego menija.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Cośo dalšne rědy?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Wubjerśo z tysacow dodankow">
 <!ENTITY customizeMode.restoreDefaults "Standard wótnowiś">
 <!ENTITY customizeMode.done "Dokóńcony">
 <!ENTITY customizeMode.titlebar "Titelowa rědka">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "Z">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dalšne drastwy wobstaraś">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
-<!ENTITY customizeMode.emptyOverflowList.description "Pśesuńśo zapiski sem, aby je w bliskosći, ale zwenka wašeje symboloweje rědki źaržał…">
 <!ENTITY customizeMode.overflowList.title2 "Woběžkowy meni">
 <!ENTITY customizeMode.overflowList.description "Pśesuńśo zapiski sem, aby je w bliskosći, ale zwenka wašeje symboloweje rědki źaržał…">
 <!ENTITY customizeMode.uidensity "Gustosć">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Akcije boka">
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
 <!ENTITY pageAction.removeFromUrlbar.label "Z adresowego póla wótwónoźeś">
-
 <!ENTITY pageAction.allowInUrlbar.label "W adresowem pólu pokazaś">
 <!ENTITY pageAction.disallowInUrlbar.label "W adresowem pólu njepokazaś">
 <!ENTITY pageAction.manageExtension.label "Rozšyrjenje zastojaś…">
