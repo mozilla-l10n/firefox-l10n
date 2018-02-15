@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = সাধাৰণ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = সন্ধান কৰক
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
@@ -19,3 +21,4 @@ close-button =
 
 feature-enable-requires-restart = এই বৈশিষ্ট্য সামৰ্থবান কৰিবলে { -brand-short-name } পুনাৰম্ভ কৰিব লাগিব।
 feature-disable-requires-restart = এই বৈশিষ্ট্য অসামৰ্থবান কৰিবলে { -brand-short-name } পুনাৰম্ভ কৰিব লাগিব।
+should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
