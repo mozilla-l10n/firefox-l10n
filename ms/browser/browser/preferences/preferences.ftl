@@ -8,12 +8,24 @@ do-not-track-option-default =
     .label = Hanya apabila menggunakan Perlindungan Penjejakan
 do-not-track-option-always =
     .label = Sentiasa
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Cari
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privasi & Keselamatan
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Akaun Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 focus-search =
@@ -23,4 +35,9 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } perlu mula semula untuk dayakan ciri ini.
+feature-disable-requires-restart = { -brand-short-name } perlu mula semula untuk nyahdayakan ciri ini.
+should-restart-title = Mula semula { -brand-short-name }
 should-restart-ok = Mulakan { -brand-short-name } sekarang
+revert-no-restart-button = Balikan
+restart-later = Mula semula Kemudian
