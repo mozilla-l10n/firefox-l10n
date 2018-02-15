@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Määritä välityspalvelinasetukset">
+
+<!ENTITY  proxyTitle.label2             "Määritä välityspalvelinasetukset">
 <!ENTITY  noProxyTypeRadio.label        "Ei välityspalvelinta">
 <!ENTITY  noProxyTypeRadio.accesskey    "E">
 <!ENTITY  systemTypeRadio.label         "Käytä järjestelmän välityspalvelinasetuksia">
