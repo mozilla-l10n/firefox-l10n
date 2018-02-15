@@ -8,14 +8,27 @@ do-not-track-option-default =
     .label = เฉพาะเมื่อใช้การป้องกันการติดตาม
 do-not-track-option-always =
     .label = เสมอ
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = ค้นหา
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = ความเป็นส่วนตัวและความปลอดภัย
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = บัญชี Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = การสนับสนุนของ { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -27,4 +40,5 @@ feature-enable-requires-restart = { -brand-short-name } ต้องเริ่
 feature-disable-requires-restart = { -brand-short-name } ต้องเริ่มการทำงานใหม่เพื่อปิดใช้งานคุณลักษณะนี้
 should-restart-title = เริ่มการทำงาน { -brand-short-name } ใหม่
 should-restart-ok = เริ่มการทำงาน { -brand-short-name } ใหม่ตอนนี้
+revert-no-restart-button = เปลี่ยนกลับ
 restart-later = เริ่มการทำงานใหม่ในภายหลัง
