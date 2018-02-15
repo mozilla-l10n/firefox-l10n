@@ -8,6 +8,14 @@ do-not-track-option-default =
     .label = Solo al usar Protección contra el Rastreo
 do-not-track-option-always =
     .label = Siempre
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 18.5em
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -21,6 +29,7 @@ category-privacy =
 pane-sync-title = Cuenta de Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Soporte de { -brand-short-name }
 focus-search =
     .key = f
 close-button =
