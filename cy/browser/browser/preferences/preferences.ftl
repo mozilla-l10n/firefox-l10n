@@ -25,3 +25,7 @@ close-button =
 
 feature-enable-requires-restart = Rhaid ailgychwyn { -brand-short-name } i alluogi'r nodwedd hon.
 feature-disable-requires-restart = Rhaid ailgychwyn { -brand-short-name } i analluogi'r nodwedd hon.
+should-restart-title = Ailgychwyn { -brand-short-name }
+should-restart-ok = Ailgychwynnwch { -brand-short-name } nawr
+revert-no-restart-button = Dychwelyd
+restart-later = Ailgychwyn Rhywbryd Eto
