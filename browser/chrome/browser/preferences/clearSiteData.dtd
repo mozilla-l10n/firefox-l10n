@@ -10,5 +10,13 @@
 
 <!ENTITY clearSiteData.label          "Cookies a údaje stránok">
 <!ENTITY clearSiteData.accesskey      "s">
+<!ENTITY clearSiteData.description    "Po vymazaní môže dôjsť k odhláseniu z webových stránok">
 
+<!ENTITY clearCache.label             "Webový obsah vo vyrovnávacej pamäti">
+<!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "Po vymazaní bude nutné znova načítať obrázky a údaje z webových stránok">
 
+<!ENTITY button.cancel.label          "Zrušiť">
+<!ENTITY button.cancel.accesskey      "Z">
+<!ENTITY button.clear.label           "Vymazať">
+<!ENTITY button.clear.accesskey       "V">
