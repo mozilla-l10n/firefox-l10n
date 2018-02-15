@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Толькі калі ўключана ахова ад сачэння
 do-not-track-option-always =
     .label = Заўсёды
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Налады
+           *[other] Налады
+        }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
