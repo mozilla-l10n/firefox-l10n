@@ -8,8 +8,10 @@ do-not-track-option-default =
     .label = ട്രാക്കിംഗ് പ്രൊട്ടക്ഷൻ ഉപയോഗിക്കുമ്പോൾ മാത്രം
 do-not-track-option-always =
     .label = എപ്പോഴും
+pane-general-title = സാധാരണ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = തെരയുക
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
@@ -25,3 +27,4 @@ close-button =
 
 feature-enable-requires-restart = ഈ വിശേഷത പ്രവര്‍ത്തന സജ്ജമാക്കുവാന്‍ { -brand-short-name } വീണ്ടും ആരംഭിയ്ക്കേണ്ടതുണ്ടു്.
 feature-disable-requires-restart = ഈ വിശേഷത പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനു് { -brand-short-name } വീണ്ടും ആരംഭിയ്ക്കേണ്ടതുണ്ടു്.
+should-restart-title = { -brand-short-name } വീണ്ടും ആരംഭിക്കുക
