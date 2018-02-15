@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Niqatïj qaq'ij richin yeqasüj taq cha'oj chawe chuqa' yeqamöl xa xe ri niqajo' niqaq'axaj chawe chuqa' ri niqutzilaj &brandShortName; kichin konojel. Junelïk naqak'utuj qij chuwäch niqak'ül ri awetamab'al.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Rutzijol Ichinanem">
 
+<!ENTITY collectBrowserErrors.label          "Tiya' q'ij chi re &brandShortName; chi kerutäq kitzijol kisamaj kisachoj okik'amaya'l (chuqa' kitzijol sachoj) chi re Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Tetamäx ch'aqa' chik">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Tiya' q'ij chi re &brandShortName; richin nutäq kitzijol taq k'ayewal chi re Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "k">
 <!ENTITY crashReporterLearnMore.label    "Tetamäx ch'aqa' chik">

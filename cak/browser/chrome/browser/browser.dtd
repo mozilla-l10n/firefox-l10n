@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Rutzijol rij re jun ruxaq re'">
 <!ENTITY pageInfoCmd.accesskey "R">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Ruchojmirisanel Wachib'enïk">
+<!ENTITY ldbCmd.accesskey "W">
 <!ENTITY mirrorTabCmd.label "Tiyuk'umïx ruwi'">
 <!ENTITY mirrorTabCmd.accesskey "T">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Xq'at ri q'asäy ach'ab'äl pa re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Xq'at re ruxaq k'amaya'l re' pa komonïk ruwäch.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Xq'at ri ruk'ojlem etamab'äl pa re ruxaq k'amaya'l re'.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Xq'at ri ruyakik tzij pa re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Xeq'at ri taq rutzijol pa re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Xaq'ät ri jutaqil ruyakoj re ruxaq k'amaya'l re'.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Xq'at ri elesäy pop-ups richin re ruxaq k'amaya'l re'.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Xe'aq'ät ri kelesaxik kitzij taq peraj pa re ruxaq k'amaya'l re'.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "K">
 <!ENTITY newPrivateWindow.label     "K'ak'a' ichinan tzuwäch">
 <!ENTITY newPrivateWindow.accesskey "t">
-<!ENTITY newNonRemoteWindow.label   "K'ak'a' Non-e10s Window">
 
 <!ENTITY editMenu.label         "K'exonïk">
 <!ENTITY editMenu.accesskey       "e">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Tik'ut pe ronojel ri natab'äl">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Tichinäx">
-<!ENTITY appMenuCustomize.tooltip "Ti'ichinäx ri MENU chuqa' ri rucholajem samajib'äl">
-<!ENTITY appMenuCustomizeExit.label "Tel chi richinaxik">
-<!ENTITY appMenuCustomizeExit.tooltip "Xk'is chi richinaxik">
-
 <!ENTITY appMenuHistory.showAll.label "Tik'ut pe ronojel ri natab'äl">
 <!ENTITY appMenuHistory.clearRecent.label "Tiyuj ri k'ak'a' natab'äl…">
 <!ENTITY appMenuHistory.restoreSession.label "Titzolin pa ri molojri'ïl xik'o">
 <!ENTITY appMenuHistory.viewSidebar.label "Titz'et runatab'al Sidebar">
 <!ENTITY appMenuHistory.recentHistory.label "K'ak'a' Natab'äl">
 <!ENTITY appMenuHelp.label "To'ïk">
-<!ENTITY appMenuHelp.tooltip "Tijaq K'utsamaj richin tob'äl">
 
 <!ENTITY appMenuRemoteTabs.label "Ximon taq ruwi'">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "¡K'a majani yexim ri taq ruwi'…!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Kexim ri taq ajowanik">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Kejaq Kajowab'äl Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
 <!ENTITY appMenuRemoteTabs.unverified.label "K'atzinel nijikib'äx ri rub'i' ataqoya'l.">
 <!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Ximojri'ïl">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "K'amal:">
 <!ENTITY urlbar.switchToTab.label     "Rujalik ri ruwi':">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "¿La nawajo' nawutzilaj rik'in taq chilab'exïk ri kanoxïk?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Tetamäx ch'aqa' chik…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Manäq">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ja'">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Pixa':">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Rutzub'al ruk'u'x ruxaq">
 <!ENTITY pageStylePersistentOnly.accesskey "R">
 
-<!ENTITY pageReportIcon.tooltip            "Rujalik ri naq'ät ri silon kajtz'ïk richin re k'amaya'l re'">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Ke'aqirirej ri jeb'ël taq awachinaq pa ri kikajtz'ik samajib'äl o chi rij ri k'utsamaj.">
-<!ENTITY customizeMode.menuAndToolbars.empty "¿La nawajo' ch'aqa' chik taq samajib'äl?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Kacha'on chi kikojol k'ïy taq tz'aqat">
 <!ENTITY customizeMode.restoreDefaults "Ke'atzolij ri taq wachinel e k'o wi">
 <!ENTITY customizeMode.done "K'isoj">
 <!ENTITY customizeMode.titlebar "Rub'i' molsamaj">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "T">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ke'ilitäj ch'aqa' chik taq wachinel">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
-<!ENTITY customizeMode.emptyOverflowList.description "Tiqirirëx chuqa' tosq'opïx wawe' ri ch'akulal richin nik'oje' naqaj xa xe chi man chupam ta rumolsamajib'al…">
 <!ENTITY customizeMode.overflowList.title2 "Pulinäq K'utsamaj">
 <!ENTITY customizeMode.overflowList.description "Tiqirirëx chuqa' tosq'opïx wawe' ri ch'akulal richin nik'oje' naqaj xa xe chi man chupam ta rumolsamajib'al…">
 <!ENTITY customizeMode.uidensity "Alalel">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Taq rub'anoj ruxaq">
 <!ENTITY pageAction.addToUrlbar.label "Titz'aqatisäx ri Kikajtz'ik Ochochib'äl">
 <!ENTITY pageAction.removeFromUrlbar.label "Tiyuj el chupam ri Kikajtz'ik Ochoch">
-
 <!ENTITY pageAction.allowInUrlbar.label "Tik'ut pe pa Kikajtz'ik Ochochib'äl">
 <!ENTITY pageAction.disallowInUrlbar.label "Man tik'ut pe pa Kikajtz'ik Ochochib'äl">
 <!ENTITY pageAction.manageExtension.label "Tinuk'samajïx K'amal…">
