@@ -40,4 +40,6 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } skal genstarte for at aktivere denne funktionalitet. Vil du genstarte nu?
 feature-disable-requires-restart = { -brand-short-name } skal genstarte for at deaktivere denne funktionalitet. Vil du genstarte nu?
 should-restart-title = Genstart { -brand-short-name }
+should-restart-ok = Genstart { -brand-short-name } nu
+revert-no-restart-button = Fortryd
 restart-later = Genstart senere
