@@ -14,6 +14,8 @@ pane-sync-title = Firefox အကောင့်
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } အထောက်အပံ့
+focus-search =
+    .key = f
 close-button =
     .aria-label = ပိတ်ပါ 
 
