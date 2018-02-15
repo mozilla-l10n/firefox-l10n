@@ -21,8 +21,15 @@
 <!ENTITY success.title.before "Achike ab'anon ">
 <!ENTITY success.title.after ", re taq kochochib'al taqoya'l wachel chawe rat:">
 <!ENTITY success.tip "(Yatikïr chuqa' ye'akanoj tz'ukun taq b'i'aj o jun chik tzij richin ye'awïl ch'aqa' chik taq taqoya'l)">
+<!ENTITY partnership.description "Pa winaqirem kik'in k'ïy ajya'öl, &brandShortName; nitikïr nusüj jun k'ak'a' ataqoya'l. Tatz'ib'aj ri ab'i' chuqa' ri ruka'n ab'i' o juley chik taq tzij ri nawajo' richin natikirisaj el.">
+<!ENTITY existing.header "¿La k'o chi jun ochochib'äl ri nawajo' nawokisaj?">
 <!ENTITY tinyheader.title "¿La k'o jun awochochib'al?">
+<!ENTITY tinyheader.existing "Kinik'o' rik'in re' chuqa' tokisäx ri nutaqoya'l k'o wakami">
+<!ENTITY content.close "Ninna'ojij chi xtinb'än ruk'ojlem ri rub'i' nutaqoya'l pa jumej.">
 <!ENTITY successful.title "¡Kakikot!">
+<!ENTITY successful.successMessage "Ütz xab'än chi re ri runuk'ulem rub'i' ataqoya'l.">
+<!ENTITY successful.write "Titz'ib'äx jun taqoya'l">
+<!ENTITY successful.write.desc "Taya' q'ij chi ke ri awachib'il chuqa' awach'alal niketaj ri k'ak'a' awochochib'al.<br/> Ruma ri' toq k'o re k'ak'a' rub'i' ataqoya'l re', ¿qupe'?">
 <!ENTITY successful.close "Titz'apïx re tzuwäch re'.">
 <!ENTITY input.namePlaceholder "Ri ab'i' chuqa' ruka'n ab'i' o tzukun ab'i'">
 <!ENTITY input.search "Tikanöx">
