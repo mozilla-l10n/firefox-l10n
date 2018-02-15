@@ -42,3 +42,4 @@ feature-disable-requires-restart = { -brand-short-name } muss neu gestartet werd
 should-restart-title = { -brand-short-name } neu starten
 should-restart-ok = { -brand-short-name } jetzt neu starten
 revert-no-restart-button = Rückgängig machen
+restart-later = Später neu starten
