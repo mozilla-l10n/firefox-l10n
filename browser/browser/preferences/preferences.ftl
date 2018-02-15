@@ -10,6 +10,8 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+close-button =
+    .aria-label = Tswala
 
 ## Browser Restart Dialog
 
