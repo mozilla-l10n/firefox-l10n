@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Agus Cosaint ar Lorgaireacht ar siúl amháin
 do-not-track-option-always =
     .label = I gCónaí
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Roghanna
+           *[other] Sainroghanna
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -16,6 +21,10 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Dún
 
 ## Browser Restart Dialog
 
