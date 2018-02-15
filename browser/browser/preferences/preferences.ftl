@@ -25,3 +25,7 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } phải khởi động lại để kích hoạt tính năng này.
 feature-disable-requires-restart = { -brand-short-name } phải khởi động lại để vô hiệu hóa tính năng này.
+should-restart-title = Khởi động lại { -brand-short-name }
+should-restart-ok = Khởi động lại { -brand-short-name } ngay
+revert-no-restart-button = Phục hồi
+restart-later = Khởi động lại sau
