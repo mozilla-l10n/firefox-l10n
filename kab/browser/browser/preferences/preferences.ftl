@@ -37,6 +37,8 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = issefk { -brand-short-name } ad yales asenkar akken ad irmed tamahilt.
+feature-disable-requires-restart = Issefk { -brand-short-name } ad yales asenkar akken ad yettwakkes urmad n tmahilt-a.
 should-restart-title = Ales asenker i { -brand-short-name }
 should-restart-ok = Ales asenker { -brand-short-name } tura
 revert-no-restart-button = Uɣal
