@@ -5,13 +5,18 @@
 
 <!ENTITY migrationWizard.title          "Ruto'onel K'amoj">
 
+<!ENTITY importFromWin.label            "Kejik' taq Cha'oj, Kinuk'ulem Rub'i' Taqoya'l, Kitz'ib'awuj Ochochib'äl, Taq Chayub'äl chuqa' ch'aqa' chik taq rutzij:">
+<!ENTITY importFromNonWin.label         "Kejik' taq Ajowab'äl, Kinuk'ulem Rub'i' Taqoya'l, Kitz'ib'awuj Ochochib'äl, Taq Chayub'äl, chuqa' ch'aqa' chik taq rutzij:">
 <!ENTITY importSourceNotFound.label     "Majun chokoy nilitäj richin yejik' el taq tzij.">
 
 <!ENTITY importFromNothing.label        "Majun tijik' pe">
 <!ENTITY importFromNothing.accesskey    "M">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 o nimalaxel">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
+<!ENTITY importSource.title             "Kek'am Kinuk'ulem chuqa' Kiyakwuj Taqoya'l">
 <!ENTITY importItems.title              "Taq ruch'akulal xkek'am">
 <!ENTITY importItems.label              "Ke'acha' achike taq ruch'akulal xekek'am:">
 
