@@ -13,14 +13,20 @@ pref-page =
             [windows] Opcions
            *[other] Preferencias
         }
+pane-general-title = Cheneral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Mirar
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privacidat & Seguranza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Conto de Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Soporte de { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -31,3 +37,6 @@ close-button =
 feature-enable-requires-restart = Ha de reiniciar o { -brand-short-name } ta activar ista caracteristica.
 feature-disable-requires-restart = Ha de reiniciar o { -brand-short-name } ta desactivar ista caracteristica.
 should-restart-title = Reiniciar o { -brand-short-name }
+should-restart-ok = Reiniciar agora lo { -brand-short-name }
+revert-no-restart-button = Revertir
+restart-later = Reiniciar mas entabant
