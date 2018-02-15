@@ -13,4 +13,4 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-short-name = ഫയര്‍ഫോക്സ്
+-brand-short-name = Firefox
