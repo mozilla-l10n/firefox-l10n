@@ -23,3 +23,7 @@ close-button =
 
 ## Browser Restart Dialog
 
+should-restart-title = ເລີ່ມຕົ້ນໃໝ່ { -brand-short-name }
+should-restart-ok = ເລີ່ມຕົ້ນໃໝ່ { -brand-short-name } ຕອນນີ້
+revert-no-restart-button = ປ່ຽນກັບຄຶນ
+restart-later = ເລີ່ມຕົ້ນໃໝ່ພາຍຫຼັງ
