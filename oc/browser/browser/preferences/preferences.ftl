@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Sonque en utilizar la proteccion contra lo seguiment
 do-not-track-option-always =
     .label = Totjorn
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferéncias
+        }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
