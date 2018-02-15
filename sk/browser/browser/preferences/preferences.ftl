@@ -26,3 +26,6 @@ close-button =
 feature-enable-requires-restart = Aby bolo možné použiť túto funkciu, { -brand-short-name } musí byť reštartovaný.
 feature-disable-requires-restart = Aby bolo možné vypnúť túto funkciu, { -brand-short-name } musí byť reštartovaný.
 should-restart-title = Reštartovať { -brand-short-name }
+should-restart-ok = Reštartovať { -brand-short-name } teraz
+revert-no-restart-button = Vrátiť
+restart-later = Reštartovať neskôr
