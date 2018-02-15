@@ -25,5 +25,6 @@
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "લોગ મોડ્યુલ સેટ કરો">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "લોગ ફાઇલ સેટ કરો">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "JS લોગ સેટ કરો">
+<!ENTITY aboutUrlClassifier.debugSBModules              "લોગ મોડ્યુલોની સલામત બ્રાઉઝિંગ">
 <!ENTITY aboutUrlClassifier.debugModules                "વર્તમાન લોગ મોડ્યુલો">
 <!ENTITY aboutUrlClassifier.debugFile                   "વર્તમાન લોગ ફાઈલ">
