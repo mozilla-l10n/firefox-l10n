@@ -8,12 +8,16 @@ do-not-track-option-default =
     .label = Seulement lorsque la protection contre le pistage est utilisée
 do-not-track-option-always =
     .label = Toujours
+pane-general-title = Général
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Vie privée et sécurité
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Compte Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 close-button =
@@ -21,3 +25,9 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } doit redémarrer pour activer cette fonctionnalité.
+feature-disable-requires-restart = { -brand-short-name } doit redémarrer pour désactiver cette fonctionnalité.
+should-restart-title = Redémarrer { -brand-short-name }
+should-restart-ok = Redémarrer { -brand-short-name } maintenant
+revert-no-restart-button = Annuler
+restart-later = Redémarrer plus tard
