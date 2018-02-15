@@ -12,6 +12,8 @@ category-sync =
     .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
+close-button =
+    .aria-label = Хаа
 
 ## Browser Restart Dialog
 
