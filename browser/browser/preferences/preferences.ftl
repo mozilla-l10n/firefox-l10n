@@ -19,3 +19,5 @@ category-sync =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = È necessario riavviare { -brand-short-name } per attivare questa funzione.
+feature-disable-requires-restart = È necessario riavviare { -brand-short-name } per disattivare questa funzione.
