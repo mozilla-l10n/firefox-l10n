@@ -31,4 +31,7 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } ay dapat simulan ulit upang paganahin ang tampok na ito.
+feature-disable-requires-restart = { -brand-short-name } ay dapat simulan ulit upang hindi paganahin ang tampok na ito.
 should-restart-title = I-Restart { -brand-short-name }
+restart-later = I-restart Mamaya
