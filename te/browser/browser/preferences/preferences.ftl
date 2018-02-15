@@ -9,16 +9,22 @@ do-not-track-option-always =
     .label = ఎల్లప్పుడూ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = వెతకడం
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = అంతరంగికత & భద్రత
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox ఖాతా
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } తోడ్పాటు
 focus-search =
     .key = f
 
 ## Browser Restart Dialog
 
 should-restart-title = { -brand-short-name } పునఃప్రారంభించు
+revert-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
