@@ -23,3 +23,5 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Rhaid ailgychwyn { -brand-short-name } i alluogi'r nodwedd hon.
+feature-disable-requires-restart = Rhaid ailgychwyn { -brand-short-name } i analluogi'r nodwedd hon.
