@@ -13,12 +13,23 @@ pref-page =
             [windows] אפשרויות
            *[other] העדפות
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = פרטיות ואבטחה
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = חשבון Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 focus-search =
@@ -29,3 +40,4 @@ focus-search =
 feature-enable-requires-restart = יש להפעיל מחדש את { -brand-short-name } כדי להפעיל את תכונה זו.
 feature-disable-requires-restart = יש להפעיל מחדש את { -brand-short-name } כדי לנטל את תכונה זו.
 should-restart-title = הפעלה מחדש של { -brand-short-name }
+revert-no-restart-button = שחזור
