@@ -43,6 +43,7 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = { -brand-short-name } यो विशेषता चलाउन पुनः सुरु गर्नु पर्ने हुन्छ ।
+feature-disable-requires-restart = { -brand-short-name } यो विशेषता हटाउन पुन: सुरू गर्नु पर्ने हुन्छ।
 should-restart-title = { -brand-short-name } पुनः सुरु गर्नुहोस्
 should-restart-ok = { -brand-short-name } तत्काल पुन सुचारु गर्नुहोस
 revert-no-restart-button = उल्टाउनुहोस
