@@ -12,4 +12,5 @@
 <!ENTITY aboutUrlClassifier.cacheTableName              "نام جدول">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "سابقہ">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ٹھیک کریں">
+<!ENTITY aboutUrlClassifier.debugModules                "موجودہ لاگ ماڈیول">
 <!ENTITY aboutUrlClassifier.debugFile                   "موجودہ لاگ مسل">
