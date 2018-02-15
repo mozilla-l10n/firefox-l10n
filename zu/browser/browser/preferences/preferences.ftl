@@ -17,3 +17,5 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = I-{ -brand-short-name } kufanele iqale kabusha ukuze inike amandla lesi sici.
+feature-disable-requires-restart = I-{ -brand-short-name } kufanele iqale kabusha ukuze ikhubaze lesi sici.
