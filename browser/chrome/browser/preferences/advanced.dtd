@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Kami berusaha untuk menyediakan anda dengan pilihan dan hanya mengumpulkan apa yang kami perlukan, dan memajukan &brandShortName; untuk semua orang. Kami sentiasa meminta izin sebelum menerima maklumat peribadi.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Notis Privasi">
 
+<!ENTITY collectBrowserErrors.label          "Izinkan &brandShortName; untuk menghantar laporan ralat pelayar (termasuk mesej ralat) kepada Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "p">
+<!ENTITY collectBrowserErrorsLearnMore.label "Ketahui selanjutnya">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Izinkan &brandShortName; menghantar laporan ranap kepada Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "l">
 <!ENTITY crashReporterLearnMore.label    "Ketahui selanjutnya">

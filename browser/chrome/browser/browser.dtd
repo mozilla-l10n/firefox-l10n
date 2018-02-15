@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Info Halaman">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Penyahpepijat Susun Atur">
+<!ENTITY ldbCmd.accesskey "S">
 <!ENTITY mirrorTabCmd.label "Tab Cermin">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Anda telah menyekat mikrofon anda untuk laman web ini.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Anda telah menyekat laman web ini daripada berkongsi skrin anda.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Anda telah menyekat maklumat lokasi untuk laman web ini.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Anda telah menyekat storan data untuk laman web ini.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah menyekat notifikasi untuk laman web ini.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Anda telah menghalang storan gigih untuk laman web ini.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Anda telah menyekat pop-up untuk laman web ini.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Anda telah menyekat ekstraksi data kanvas untuk laman web ini.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "B">
 <!ENTITY newPrivateWindow.label     "Tetingkap Peribadi Baru">
 <!ENTITY newPrivateWindow.accesskey "T">
-<!ENTITY newNonRemoteWindow.label   "Tetingkap Non-e10s Baru">
 
 <!ENTITY editMenu.label         "Edit">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Papar Semua Sejarah">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Penyesuaian">
-<!ENTITY appMenuCustomize.tooltip "Penyesuaian Menu dan Bar alat">
-<!ENTITY appMenuCustomizeExit.label "Keluar Penyesuaian">
-<!ENTITY appMenuCustomizeExit.tooltip "Siap Penyesuaian">
-
 <!ENTITY appMenuHistory.showAll.label "Papar Semua Sejarah">
 <!ENTITY appMenuHistory.clearRecent.label "Buang Sejarah Terkini…">
 <!ENTITY appMenuHistory.restoreSession.label "Pulih Sesi Dahulu">
 <!ENTITY appMenuHistory.viewSidebar.label "Papar Bar sisi Sejarah">
 <!ENTITY appMenuHistory.recentHistory.label "Sejarah Terkini">
 <!ENTITY appMenuHelp.label "Bantuan">
-<!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
 <!ENTITY appMenuRemoteTabs.label "Tab Sync">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Tiada tab sync… lagi!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buka Keutamaan Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Akaun anda perlu disahkan.">
 <!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk Sync">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Ekstensi:">
 <!ENTITY urlbar.switchToTab.label     "Tukar ke tab:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Adakah anda ingin meningkatkan pengalaman carian anda dengan cadangan?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ketahui selanjutnya…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Tidak">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "d">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "Y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Petunjuk:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Gaya Halaman Asas">
 <!ENTITY pageStylePersistentOnly.accesskey "a">
 
-<!ENTITY pageReportIcon.tooltip            "Tukar tetapan sekatan popup untuk laman web ini">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Seret item kegemaran anda ke dalam menu bar alatan atau menu limpahan.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih daripada beribu add-ons">
 <!ENTITY customizeMode.restoreDefaults "Pulih Piawai">
 <!ENTITY customizeMode.done "Selesai">
 <!ENTITY customizeMode.titlebar "Bar Tajuk">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "U">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dapatkan Lebih Banyak Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
-<!ENTITY customizeMode.emptyOverflowList.description "Seret dan lepas item di sini untuk memastikan mudah dicapai, tetapi di luar bar alatan anda…">
 <!ENTITY customizeMode.overflowList.title2 "Menu Limpahan">
 <!ENTITY customizeMode.overflowList.description "Seret dan lepas item di sini untuk memastikan mudah dicapai, tetapi di luar bar alatan anda…">
 <!ENTITY customizeMode.uidensity "Ketumpatan">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Tindakan halaman">
 <!ENTITY pageAction.addToUrlbar.label "Tambah ke Bar Alamat">
 <!ENTITY pageAction.removeFromUrlbar.label "Buang daripada Bar Alamat">
-
 <!ENTITY pageAction.allowInUrlbar.label "Papar dalam Bar Alamat">
 <!ENTITY pageAction.disallowInUrlbar.label "Jangan Papar dalam Bar Alamat">
 <!ENTITY pageAction.manageExtension.label "Urus Ekstensi…">
