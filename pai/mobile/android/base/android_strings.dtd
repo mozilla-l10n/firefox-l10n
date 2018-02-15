@@ -631,8 +631,12 @@ chab mtñur">
 <!ENTITY pin_site_dialog_hint "Kwaaw chŕmeexh sak mtñur">
 
 <!ENTITY filepicker_title "Ch chkwawu myo">
+<!ENTITY filepicker_audio_title "Tpalch myok mtkwek mtñuri">
+<!ENTITY filepicker_image_title "Paa tñurch ŕitum myo o jkay mtñuri">
+<!ENTITY filepicker_video_title "Videey ŕitum myo o jkay myoob">
 
 <!-- Site identity popup -->
+<!ENTITY identity_connected_to "Sak mchpaach mwaa">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -644,12 +648,22 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "Tublich chu jan">
+<!ENTITY identity_connection_insecure "Tublich chu kos jaan tpaay">
+<!ENTITY identity_connection_chromeui "Jabchu jaan &brandShortName; wi jan nk mya">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; hay mjabu ŕ \&apos;am kos jaan tpaaychum sakyawa.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; hay chapayt jabchu yakyoya ñulyoom ŕ\&apos; am ka kos jantem mum.">
+<!ENTITY mixed_content_display_loaded1 "Jabchu yak yoya kos payt jantem (paatñurch ha ulim).">
+<!ENTITY mixed_content_protection_disabled1 "Choayt jaan tpaay ktketha mŕ\&apos;am myuwu.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "Chŕyooch kŕboo">
 <!ENTITY doorhanger_tracking_state_enabled "Sool">
 <!ENTITY doorhanger_tracking_state_disabled "Kos sol tem">
+<!ENTITY doorhanger_tracking_message_enabled1 "Chm ŕyoo munuwuhay sak amchu ha ŕ\&apos; amch.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Jabchu yakyoyay m\&apos; amuha chŕyowulmaat.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
