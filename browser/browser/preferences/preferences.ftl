@@ -8,6 +8,7 @@ do-not-track-option-default =
     .label = Толькі калі ўключана ахова ад сачэння
 do-not-track-option-always =
     .label = Заўсёды
+pane-general-title = Агульныя
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
