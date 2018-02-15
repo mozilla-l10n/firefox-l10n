@@ -21,3 +21,4 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } केँ ई फीचर केँ सक्रिय करबाक लेल फेर आरंभ करू.
 feature-disable-requires-restart = { -brand-short-name } केँ ई फीचर केँ निष्क्रिय करबाक लेल फेर आरंभ करू.
+should-restart-title = { -brand-short-name } फेर आरंभ करू
