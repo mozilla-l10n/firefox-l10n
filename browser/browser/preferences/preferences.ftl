@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Kun når jeg bruger beskyttelse mod sporing
 do-not-track-option-always =
     .label = Altid
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Indstillinger
+           *[other] Indstillinger
+        }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
