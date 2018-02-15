@@ -8,6 +8,7 @@ do-not-track-option-default =
     .label = માત્ર ટ્રૅકિંગ પ્રોટેક્શનનો ઉપયોગ કરતી વખતે
 do-not-track-option-always =
     .label = હંમેશા
+pane-general-title = સામાન્ય
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
