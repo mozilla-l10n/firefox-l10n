@@ -8,6 +8,7 @@ do-not-track-option-default =
     .label = Solo al usar protección contra rastreo
 do-not-track-option-always =
     .label = Siempre
+pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
