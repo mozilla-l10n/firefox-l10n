@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.providerTitle               "પ્રદાતા">
 <!ENTITY aboutUrlClassifier.provider                    "પ્રદાતા">
 <!ENTITY aboutUrlClassifier.providerBackOffTime         "બેક-ઑફ સમય">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "અદ્યતન કરો">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "કેશ">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "તાજું કરો">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "સાફ કરો">

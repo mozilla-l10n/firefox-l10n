@@ -30,6 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "બાઇટ્સ મોકલાયા">
 <!ENTITY aboutNetworking.bytesReceived         "બાઇટ્સ મેળવાયા">
 <!ENTITY aboutNetworking.logging               "લૉગિંગ">
+<!ENTITY aboutNetworking.logTutorial           "આ સાધનનો ઉપયોગ કેવી રીતે કરવો તેની સૂચનાઓ માટે <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP લોગિંગ</a> જુઓ.">
 <!ENTITY aboutNetworking.currentLogFile        "વર્તમાન લોગ ફાઇલ:">
 <!ENTITY aboutNetworking.currentLogModules     "વર્તમાન લોગ મોડ્યુલો:">
 <!ENTITY aboutNetworking.setLogFile            "લોગ ફાઇલ સેટ કરો">

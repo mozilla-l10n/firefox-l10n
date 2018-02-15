@@ -49,6 +49,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "ચેનલ અદ્યતન કરો">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ઇતિહાસ સુધારો">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "સુધારા ઇતિહાસને બતાવો">
 
@@ -66,11 +67,13 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsPerformance "કામગીરી">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "રજીસ્ટર કરેલ Service Workers">
 
 <!ENTITY aboutSupport.appBasicsProfiles "પ્રોફાઇલ્સ">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "મલ્ટીપ્રોસેસ વિન્ડો">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "વેબ સામગ્રી પ્રક્રિયાઓ">
 
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla સ્થાન સર્વિસ કી">
 
@@ -99,6 +102,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "ગ્રાફિક્સ">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "સ્થાન ડેટાબેઝ">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "પ્રામાણિકતા">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "પ્રામાણિકતા ચકાસો">
 
@@ -146,6 +150,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceFormat "બંધારણ">
 <!ENTITY aboutSupport.mediaDeviceChannels "ચેનલ્સ">
 <!ENTITY aboutSupport.mediaDeviceRate "દર">
+<!ENTITY aboutSupport.mediaDeviceLatency "લેટન્સી">
 
 <!ENTITY aboutSupport.intlAppTitle "એપ્લિકેશનની સેટિંગ્સ">
 <!ENTITY aboutSupport.intlLocalesRequested "વિનંતી કરેલ લૉકેલ્સ">
