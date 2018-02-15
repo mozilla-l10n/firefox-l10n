@@ -16,6 +16,8 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
 
 ## Browser Restart Dialog
 
