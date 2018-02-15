@@ -13,6 +13,7 @@ pref-page =
             [windows] Options
            *[other] Mga Preferences
         }
+pane-general-title = Pangkalahatan
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
