@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = បានតែ​នៅពេល​ប្រើប្រាស់​ការការពារ​ការតាមដាន​ប៉ុណ្ណោះ
 do-not-track-option-always =
     .label = ជានិច្ច
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] ជម្រើស
+           *[other] ចំណូលចិត្ត
+        }
 pane-general-title = ទូទៅ
 category-general =
     .tooltiptext = { pane-general-title }
