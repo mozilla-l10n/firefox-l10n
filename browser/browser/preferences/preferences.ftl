@@ -25,3 +25,7 @@ close-button =
 
 feature-enable-requires-restart = ត្រូវតែ​ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ​ដើម្បី​បើក​លក្ខណៈ​នេះ ។
 feature-disable-requires-restart = ត្រូវតែ​ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ​ដើម្បី​បិទ​លក្ខណៈ​នេះ ។
+should-restart-title = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ
+should-restart-ok = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ​ឥឡូវ​នេះ
+revert-no-restart-button = ត្រឡប់​ដូច​ដើម
+restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ពេលក្រោយ
