@@ -582,6 +582,8 @@
 
 <!ENTITY unsupported_sdk_version "Ta wersja przeglądarki &brandShortName; nie może działać na tym urządzeniu (&formatS1;, &formatS2;). Proszę pobrać właściwą wersję.">
 
+<!ENTITY corrupt_apk "Nie można otworzyć przeglądarki &brandShortName;. Proszę zainstalować ją ponownie.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; nie będzie już aktualizowany">
 <!ENTITY eol_notification_summary "Stuknij, aby dowiedzieć się więcej">
 
