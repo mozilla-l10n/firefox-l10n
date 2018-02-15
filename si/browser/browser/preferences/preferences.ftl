@@ -20,4 +20,6 @@ close-button =
 feature-enable-requires-restart = මෙම විශේෂාංගය සක්‍රීය කිරීමට { -brand-short-name } යළි ඇරඹිය යුතුයි.
 feature-disable-requires-restart = මෙම විශේෂාංගය අක්‍රිය කිරීමට { -brand-short-name } යළි ඇරඹිය යුතුයි.
 should-restart-title = { -brand-short-name } යළි අරඹන්න
+should-restart-ok = { -brand-short-name } දැන් ප්‍රතිපණගන්වන්න
+revert-no-restart-button = ප්‍රතිවර්තනය කරන්න
 restart-later = පසුව යළි අරඹන්න
