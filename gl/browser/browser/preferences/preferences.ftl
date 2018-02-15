@@ -17,3 +17,6 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Debe reiniciar o { -brand-short-name } para activar esta característica.
+feature-disable-requires-restart = Debe reiniciar o { -brand-short-name } para desactivar esta característica.
+should-restart-title = Reiniciar o { -brand-short-name }
