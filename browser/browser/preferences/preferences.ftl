@@ -8,14 +8,28 @@ do-not-track-option-default =
     .label = Nur wenn der Schutz vor Aktivitätenverfolgung aktiv ist
 do-not-track-option-always =
     .label = Immer
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
+pane-general-title = Allgemein
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Suche
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Datenschutz & Sicherheit
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox-Konto
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Hilfe für { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -23,3 +37,8 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } muss neu gestartet werden, um diese Funktion zu aktivieren.
+feature-disable-requires-restart = { -brand-short-name } muss neu gestartet werden, um diese Funktion zu deaktivieren.
+should-restart-title = { -brand-short-name } neu starten
+should-restart-ok = { -brand-short-name } jetzt neu starten
+revert-no-restart-button = Rückgängig machen
