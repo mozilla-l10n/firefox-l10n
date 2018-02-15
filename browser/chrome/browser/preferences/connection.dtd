@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "इंटरनेट अभिगम के लिये प्रॉक्सी विन्यस्त करें">
+
+<!ENTITY  proxyTitle.label2             "इंटरनेट चलने के लिए प्रॉक्सी विन्यस्त करें">
 <!ENTITY  noProxyTypeRadio.label        "कोई प्रॉक्सी नहीं">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "तंत्र प्रॉक्सी सेटिंग का प्रयोग करें">
