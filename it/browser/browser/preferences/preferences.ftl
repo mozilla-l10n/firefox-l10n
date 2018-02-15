@@ -8,16 +8,43 @@ do-not-track-option-default =
     .label = Solo quando è attiva la protezione antitracciamento
 do-not-track-option-always =
     .label = Sempre
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Opzioni
+           *[other] Preferenze
+        }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 16em
+pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Ricerca
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privacy e sicurezza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Account Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Supporto a { -brand-short-name }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Chiudi
 
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = È necessario riavviare { -brand-short-name } per attivare questa funzione.
 feature-disable-requires-restart = È necessario riavviare { -brand-short-name } per disattivare questa funzione.
+should-restart-title = Riavvia { -brand-short-name }
+should-restart-ok = Riavvia { -brand-short-name } adesso
+revert-no-restart-button = Ripristina
+restart-later = Riavvia in seguito
