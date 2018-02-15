@@ -43,7 +43,7 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "Adresy IP">
 <!ENTITY aboutNetworking.rcwn                  "Štatistiky RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Stav RCWN">
-<!ENTITY aboutNetworking.rcwnCacheWonCount     "Počet víťazstiev medzipamäte">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Počet víťazstiev vyrovnávacej pamäte">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Počet víťazstiev siete">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Celkový počet sieťových požiadavkov">
 <!ENTITY aboutNetworking.rcwnOperation         "Operácia s vyrovnávacou pamäťou">

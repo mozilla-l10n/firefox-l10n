@@ -21,7 +21,7 @@
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Zobraziť položky">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Položky vo vyrovnávacej pamäti">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefix">
-<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Záporná platnosť v medzipamäti">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Záporná platnosť vo vyrovnávacej pamäti">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Plný hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Kladná platnosť v medipamäti">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Ladenie">
