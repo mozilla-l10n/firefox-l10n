@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Dìreach nuair a chleachdar dìon o thracadh
 do-not-track-option-always =
     .label = An-còmhnaidh
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Roghainnean
+           *[other] Roghainnean
+        }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
