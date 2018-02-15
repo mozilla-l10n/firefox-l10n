@@ -38,4 +38,5 @@ feature-enable-requires-restart = Pro povolení této funkce je potřeba aplikac
 feature-disable-requires-restart = Pro zakázání této funkce je potřeba aplikaci { -brand-short-name } restartovat.
 should-restart-title = Restartovat aplikaci { -brand-short-name }
 should-restart-ok = Restartovat aplikaci { -brand-short-name }
+revert-no-restart-button = Vrátit zpět
 restart-later = Restartovat později
