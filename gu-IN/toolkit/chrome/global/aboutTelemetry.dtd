@@ -24,9 +24,13 @@
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON દર્શકમાં ખોલો">
 
 <!ENTITY aboutTelemetry.homeSection "મુખ્ય પાનું">
+<!ENTITY aboutTelemetry.generalDataSection "સામાન્ય ડેટા">
+<!ENTITY aboutTelemetry.sessionInfoSection "સત્ર માહિતી">
+<!ENTITY aboutTelemetry.scalarsSection "સ્કેલર્સ">
 <!ENTITY aboutTelemetry.histogramsSection "  હિસ્ટોગ્રામ">
 <!ENTITY aboutTelemetry.eventsSection "ઘટનાઓ">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  સાદા માપન">
+<!ENTITY aboutTelemetry.telemetryLogSection "ટેલીમેટ્રી લોગ">
 <!ENTITY aboutTelemetry.slowSqlSection "  ધીમા SQL વાક્યો">
 <!ENTITY aboutTelemetry.chromeHangsSection "  બ્રાઉઝર અટકેલ">
 <!ENTITY aboutTelemetry.addonDetailsSection "  ઍડ-ઑન વિગતો">
