@@ -8,16 +8,39 @@ do-not-track-option-default =
     .label = ainult siis, kui jälitamisvastane kaitse on lubatud
 do-not-track-option-always =
     .label = alati
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Sätted
+           *[other] Eelistused
+        }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privaatsus ja turvalisus
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefoxi konto
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name }i abi
 close-button =
     .aria-label = Sulge
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Selle funktsiooni lubamiseks tuleb { -brand-short-name } taaskäivitada.
+feature-disable-requires-restart = Selle funktsiooni keelamiseks tuleb { -brand-short-name } taaskäivitada.
+should-restart-title = { -brand-short-name }i taaskäivitamine
+should-restart-ok = Taaskäivita { -brand-short-name } nüüd
+revert-no-restart-button = Võta tagasi
+restart-later = Taaskäivita hiljem
