@@ -16,14 +16,20 @@ do-not-track-option-always =
 # Do not translate.
 search-field =
     .style = min-width: 15.4em
+pane-general-title = عام
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = البحث
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = الخصوصية و الأمان
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = حساب فَيَرفُكس
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = دعم { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -33,3 +39,7 @@ close-button =
 
 feature-enable-requires-restart = يجب إعادة تشغيل { -brand-short-name } لتفعيل هذه الخاصية.
 feature-disable-requires-restart = يجب إعادة تشغيل { -brand-short-name } لتعطيل هذه الخاصية.
+should-restart-title = أعِد تشغيل { -brand-short-name }
+should-restart-ok = أعد تشغيل { -brand-short-name } الآن
+revert-no-restart-button = تراجع
+restart-later = أعِد التشغيل لاحقًا
