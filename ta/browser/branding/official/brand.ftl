@@ -13,4 +13,4 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-short-name = பயர்பாக்ஸ்
+-brand-short-name = Firefox
