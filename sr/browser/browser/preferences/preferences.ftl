@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Само када користим заштиту од праћења
 do-not-track-option-always =
     .label = Увек
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Поставке
+           *[other] Поставке
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -16,6 +21,8 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
 close-button =
     .aria-label = Затвори
 
@@ -24,3 +31,6 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } се мора поново покренути да би се омогућила ова функционалност.
 feature-disable-requires-restart = { -brand-short-name } се мора поново покренути да би се онемогућила ова функционалност.
 should-restart-title = Поново покрени { -brand-short-name }
+should-restart-ok = Поново покрени { -brand-short-name } сада
+revert-no-restart-button = Поништи
+restart-later = Поново покрени касније
