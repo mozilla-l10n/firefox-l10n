@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "It wiskjen fan alle cookies en websitegegevens bewarre troch &brandShortName; kin jo fan websites ôfmelde en offline webynhâld fuortsmite. De buffer leegje sil jo oanmeldingen net beynfloedzje.">
-<!ENTITY windowClose.key              "I">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Cookies en websitegegevens">
 <!ENTITY clearSiteData.accesskey      "w">
