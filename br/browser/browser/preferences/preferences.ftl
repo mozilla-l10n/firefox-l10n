@@ -13,8 +13,10 @@ pref-page =
             [windows] Dibarzhioù
            *[other] Gwellvezioù
         }
+pane-general-title = Hollek
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Klask
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
@@ -30,3 +32,7 @@ close-button =
 
 feature-enable-requires-restart = Ret eo adloc'hañ { -brand-short-name } evit gweredekaat ar c'heweriuster-mañ.
 feature-disable-requires-restart = Ret eo adloc'hañ { -brand-short-name } evit diweredekaat ar c'heweriuster-mañ.
+should-restart-title = Adloc'hañ { -brand-short-name }
+should-restart-ok = Adloc'hañ { -brand-short-name } diouzhtu
+revert-no-restart-button = Distreiñ
+restart-later = Adloc'hañ diwezhatoc'h
