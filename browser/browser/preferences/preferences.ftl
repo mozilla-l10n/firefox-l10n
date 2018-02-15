@@ -13,6 +13,7 @@ pref-page =
             [windows] Поставке
            *[other] Поставке
         }
+pane-general-title = Опште
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
