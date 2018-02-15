@@ -20,3 +20,4 @@ focus-search =
 
 ## Browser Restart Dialog
 
+should-restart-title = { -brand-short-name } పునఃప్రారంభించు
