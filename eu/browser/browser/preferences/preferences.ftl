@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Jarraipenaren babesa erabiltzean soilik
 do-not-track-option-always =
     .label = Beti
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Aukerak
+           *[other] Hobespenak
+        }
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -16,6 +21,12 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Itxi
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } berrabiarazi behar da eginbide hau gaitzeko.
+feature-disable-requires-restart = { -brand-short-name } berrabiarazi behar da eginbide hau desgaitzeko.
