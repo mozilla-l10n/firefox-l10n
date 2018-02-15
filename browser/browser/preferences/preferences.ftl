@@ -19,3 +19,5 @@ category-sync =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Lai aktivētu šo iespēju ir jāpārstartē { -brand-short-name }.
+feature-disable-requires-restart = Lai deaktivētu šo iespēju ir jāpārstartē { -brand-short-name }.
