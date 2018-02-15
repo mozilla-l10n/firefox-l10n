@@ -8,6 +8,7 @@ do-not-track-option-default =
     .label = Лише при використанні захисту від стеження
 do-not-track-option-always =
     .label = Завжди
+pane-general-title = Загальні
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = Пошук
