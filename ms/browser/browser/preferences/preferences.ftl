@@ -29,6 +29,7 @@ category-privacy =
 pane-sync-title = Akaun Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } Sokongan
 focus-search =
     .key = f
 close-button =
