@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "页面信息">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "布局调试器">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "投射标签页">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "您已阻止此网站使用您的麦克风。">
 <!ENTITY urlbar.screenBlocked.tooltip            "您已阻止此网站共享您的屏幕。">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "您已阻止此网站获取位置信息。">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "您已阻止此网站进行数据存储。">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "您已阻止此网站发送通知。">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "您已阻止此网站使用持久存储。">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "您已拦截此网站的弹出窗口。">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "您已禁止此网站获取 Canvas 数据。">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "新建隐私窗口">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "新建单进程窗口">
 
 <!ENTITY editMenu.label         "编辑">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "管理所有历史记录">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "定制">
-<!ENTITY appMenuCustomize.tooltip "定制菜单和工具栏">
-<!ENTITY appMenuCustomizeExit.label "退出定制">
-<!ENTITY appMenuCustomizeExit.tooltip "完成定制">
-
 <!ENTITY appMenuHistory.showAll.label "管理所有历史记录">
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的历史记录…">
 <!ENTITY appMenuHistory.restoreSession.label "恢复先前的浏览状态">
 <!ENTITY appMenuHistory.viewSidebar.label "查看历史记录侧栏">
 <!ENTITY appMenuHistory.recentHistory.label "近期历史记录">
 <!ENTITY appMenuHelp.label "帮助">
-<!ENTITY appMenuHelp.tooltip "打开帮助菜单">
 
 <!ENTITY appMenuRemoteTabs.label "受同步的标签页">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "还没有同步过来的标签页！">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "想查看您在其他设备上的标签页吗？">
 <!ENTITY appMenuRemoteTabs.openprefs.label "同步服务首选项">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "打开同步首选项">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登录以查看来自您的其他设备的标签页列表。">
 <!ENTITY appMenuRemoteTabs.unverified.label "您的账号需要验证。">
 <!ENTITY appMenuRemoteTabs.signin.label "登录同步服务">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "扩展：">
 <!ENTITY urlbar.switchToTab.label     "切换到标签页：">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "您希望用“搜索建议”改善您的搜索体验吗？">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "详细了解…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "不用">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "是的">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "提示：">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "基本页面样式">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "更改对此网站的弹窗拦截设置">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "同步">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "把需要的东西拖进工具栏或折叠菜单。">
-<!ENTITY customizeMode.menuAndToolbars.empty "想要更多的工具？">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "千万种附加组件任您选">
 <!ENTITY customizeMode.restoreDefaults "恢复默认设置">
 <!ENTITY customizeMode.done "完成">
 <!ENTITY customizeMode.titlebar "标题栏">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "获取更多主题">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "按钮可以拖放到这里，方便使用、不占用工具栏空间">
 <!ENTITY customizeMode.overflowList.title2 "折叠菜单">
 <!ENTITY customizeMode.overflowList.description "按钮可以拖放到这里，方便使用、不占用工具栏空间">
 <!ENTITY customizeMode.uidensity "密度">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "页面动作">
 <!ENTITY pageAction.addToUrlbar.label "添加到地址栏">
 <!ENTITY pageAction.removeFromUrlbar.label "从地址栏移除">
-
 <!ENTITY pageAction.allowInUrlbar.label "在地址栏中显示">
 <!ENTITY pageAction.disallowInUrlbar.label "不在地址栏中显示">
 <!ENTITY pageAction.manageExtension.label "管理扩展…">
