@@ -32,6 +32,7 @@ category-privacy =
 pane-sync-title = חשבון Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = תמיכה ב־{ -brand-short-name }
 focus-search =
     .key = f
 
@@ -40,4 +41,5 @@ focus-search =
 feature-enable-requires-restart = יש להפעיל מחדש את { -brand-short-name } כדי להפעיל את תכונה זו.
 feature-disable-requires-restart = יש להפעיל מחדש את { -brand-short-name } כדי לנטל את תכונה זו.
 should-restart-title = הפעלה מחדש של { -brand-short-name }
+should-restart-ok = להפעיל את { -brand-short-name } מחדש כעת
 revert-no-restart-button = שחזור
