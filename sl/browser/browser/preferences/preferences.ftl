@@ -13,6 +13,7 @@ pref-page =
             [windows] Možnosti
            *[other] Nastavitve
         }
+pane-general-title = Splošno
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
