@@ -12,10 +12,14 @@ category-general =
     .tooltiptext = { pane-general-title }
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Прыватнасць і Бяспека
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Уліковы запіс Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Падтрымка { -brand-short-name }
 focus-search =
     .key = f
 
