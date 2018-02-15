@@ -25,8 +25,11 @@ category-search =
 pane-privacy-title = ಗೋಪ್ಯತೆ & ಸುರಕ್ಷತೆ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox ಖಾತೆ
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } ಸಹಾಯ
 focus-search =
     .key = f
 close-button =
