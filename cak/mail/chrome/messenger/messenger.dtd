@@ -344,6 +344,8 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Titzolïx Tzij Xa Xe Chi Re ri Taqonel">
 <!ENTITY replySenderCmd.accesskey "T">
+<!ENTITY replyNewsgroupCmd2.label "Kojqaxik Kimolaj Tzijol">
+<!ENTITY replyNewsgroupCmd2.accesskey "q">
 <!ENTITY replyToAllMsgCmd.label "Titzolïx tzij chi ke Konojel">
 <!ENTITY replyToAllMsgCmd.accesskey "z">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -591,14 +593,18 @@
 <!ENTITY undeleteButton.tooltip "Man tiyuj cha'on tzijol">
 <!ENTITY markButton.tooltip "Tiya' ketal taq tzijol">
 <!ENTITY printButton.tooltip "Titz'ajb'äx re rutzijol re'">
+<!ENTITY stopButton.tooltip "Tiq'at ri q'axanïk wakami">
 <!ENTITY junkButton.tooltip "Tiya' ketal re cha'on taq rutzijol re' achi'el seq'">
 <!ENTITY notJunkButton.tooltip "Tiya' ketal re cha'on taq rutzijol re' achi'el man seq' ta">
 <!ENTITY addressBookButton.tooltip "Tib'e pa ri kiwujil ochochib'äl">
 <!ENTITY chatButton.tooltip "Tik'ut ri Chat tab">
 <!ENTITY tagButton.tooltip "Ketal taq rutzijol">
+<!ENTITY compactButton.tooltip "Keyuj yujun taq tzijol pa ri ruyakwuj xcha'">
 <!ENTITY appmenuButton1.tooltip "Tik'ut ri &brandShortName; K'utsamaj">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Titaq chik Tz'aqatisan">
+<!ENTITY buttonMenuForwardAsAttachment.label "Titaq chik Achi'el Taqoj">
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Tik'ut näj rupam pa re tzijol re'">
