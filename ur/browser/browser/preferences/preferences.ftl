@@ -20,3 +20,6 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = اس فیچر کو اہل کرنے کے لیے { -brand-short-name } کو دوباره شروع کرنا ہو گا۔
+feature-disable-requires-restart = اس فیچر کو نا اہل کرنے کے لیے { -brand-short-name } کو دوباره شروع کرنا ہو گا۔
+should-restart-title = { -brand-short-name } دوبارہ شروع کریں
