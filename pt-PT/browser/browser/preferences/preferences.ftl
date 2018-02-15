@@ -8,16 +8,30 @@ do-not-track-option-default =
     .label = Apenas ao utilizar a Proteção contra monitorização
 do-not-track-option-always =
     .label = Sempre
+pane-general-title = Geral
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Pesquisa
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privacidade e Segurança
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Conta Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Apoio do { -brand-short-name }
 focus-search =
     .key = f
+close-button =
+    .aria-label = Fechar
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Tem que reiniciar o { -brand-short-name } para ativar esta funcionalidade.
+feature-disable-requires-restart = Tem que reiniciar o { -brand-short-name } para desativar esta funcionalidade.
+should-restart-title = Reiniciar o { -brand-short-name }
+should-restart-ok = Reiniciar o { -brand-short-name } agora
+revert-no-restart-button = Reverter
+restart-later = Reiniciar mais tarde
