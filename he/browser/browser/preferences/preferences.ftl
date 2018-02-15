@@ -23,6 +23,7 @@ search-field =
     .style = min-width: 15.4em
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = חיפוש
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = פרטיות ואבטחה
@@ -35,6 +36,8 @@ category-sync =
 help-button-label = תמיכה ב־{ -brand-short-name }
 focus-search =
     .key = f
+close-button =
+    .aria-label = סגירה
 
 ## Browser Restart Dialog
 
@@ -43,3 +46,4 @@ feature-disable-requires-restart = יש להפעיל מחדש את { -brand-shor
 should-restart-title = הפעלה מחדש של { -brand-short-name }
 should-restart-ok = להפעיל את { -brand-short-name } מחדש כעת
 revert-no-restart-button = שחזור
+restart-later = הפעלה מחדש מאוחר יותר
