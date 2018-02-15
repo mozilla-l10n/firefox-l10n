@@ -22,3 +22,5 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } moet herbegin om dié funksie te aktiveer.
+feature-disable-requires-restart = { -brand-short-name } moet herbegin om dié funksie te deaktiveer.
