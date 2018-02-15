@@ -21,6 +21,7 @@ pref-page =
 # Do not translate.
 search-field =
     .style = min-width: 15.4em
+pane-general-title = Üldine
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -33,6 +34,8 @@ pane-sync-title = Firefoxi konto
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name }i abi
+focus-search =
+    .key = f
 close-button =
     .aria-label = Sulge
 
