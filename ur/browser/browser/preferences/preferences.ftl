@@ -29,6 +29,8 @@ pane-sync-title = Firefox اکاؤنٹس
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } تعاون
+focus-search =
+    .key = f
 close-button =
     .aria-label = بند کریں
 
