@@ -8,6 +8,7 @@ do-not-track-option-default =
     .label = Allinnich by gebrûk fan Beskerming tsjin folgjen
 do-not-track-option-always =
     .label = Altyd
+pane-general-title = Algemien
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
@@ -16,6 +17,8 @@ category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
 close-button =
     .aria-label = Slute
 
