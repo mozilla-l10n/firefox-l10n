@@ -13,4 +13,4 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-short-name = ਫਾਇਰਫਾਕਸ ਡਿਵੈਲਪਰ ਐਡੀਸ਼ਨ
+-brand-short-name = Firefox
