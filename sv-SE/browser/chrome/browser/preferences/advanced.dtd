@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Vi strävar alltid efter att ge dig val och samlar endast in vad vi behöver för tillhandahålla och förbättra &brandShortName; för alla. Vi ber alltid om tillåtelse innan vi tar emot personliga uppgifter.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Sekretesspolicy">
 
+<!ENTITY collectBrowserErrors.label          "Tillåt &brandShortName; att skicka felrapporter (inklusive felmeddelanden) till Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "f">
+<!ENTITY collectBrowserErrorsLearnMore.label "Läs mer">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Tillåt &brandShortName; att skicka kraschrapporter till Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "k">
 <!ENTITY crashReporterLearnMore.label    "Läs mer">
