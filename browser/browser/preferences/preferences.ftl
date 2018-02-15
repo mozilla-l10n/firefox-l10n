@@ -8,14 +8,29 @@ do-not-track-option-default =
     .label = केवल ट्रयाकिङ्ग सुरक्षा प्रयोग गर्दा
 do-not-track-option-always =
     .label = सधैँ
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] विकल्पहरू
+           *[other] प्राथमिकताहरू
+        }
+pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = खोज
 category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 category-sync =
     .tooltiptext = { pane-sync-title }
+focus-search =
+    .key = f
+close-button =
+    .aria-label = बन्द गर्नुहोस्
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } यो विशेषता चलाउन पुनः सुरु गर्नु पर्ने हुन्छ ।
+should-restart-ok = { -brand-short-name } तत्काल पुन सुचारु गर्नुहोस
+revert-no-restart-button = उल्टाउनुहोस
+restart-later = केहि समयपछि पुन सुचारु गर्नुहोस
