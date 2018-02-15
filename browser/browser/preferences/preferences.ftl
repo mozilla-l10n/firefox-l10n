@@ -8,6 +8,7 @@ do-not-track-option-default =
     .label = បានតែ​នៅពេល​ប្រើប្រាស់​ការការពារ​ការតាមដាន​ប៉ុណ្ណោះ
 do-not-track-option-always =
     .label = ជានិច្ច
+pane-general-title = ទូទៅ
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
