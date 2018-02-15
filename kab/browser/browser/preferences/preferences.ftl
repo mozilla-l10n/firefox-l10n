@@ -8,6 +8,11 @@ do-not-track-option-default =
     .label = Ala s useqdec n ummesten mgal aḍfaṛ
 do-not-track-option-always =
     .label = Yal tikelt
+pref-page =
+    .title = { PLATFORM() ->
+            [windows] Iɣewwaṛen
+           *[other] Ismenyifen
+        }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
