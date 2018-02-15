@@ -13,6 +13,7 @@ pref-page =
             [windows] Elektebloj
            *[other] Preferoj
         }
+pane-general-title = Ĉefaj
 category-general =
     .tooltiptext = { pane-general-title }
 category-search =
