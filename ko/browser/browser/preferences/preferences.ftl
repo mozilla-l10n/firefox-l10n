@@ -8,19 +8,35 @@ do-not-track-option-default =
     .label = 추적 방지 기능을 사용할 때만
 do-not-track-option-always =
     .label = 항상
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = 검색
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = 개인 정보 및 보안
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox 계정
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } 도움말
+focus-search =
+    .key = f
 
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = 이 기능을 켜려면 { -brand-short-name }를 반드시 재시작해야 합니다.
 feature-disable-requires-restart = 이 기능을 끄려면 { -brand-short-name }를 반드시 재시작해야 힙니다.
 should-restart-title = { -brand-short-name } 재시작
+should-restart-ok = 지금 { -brand-short-name } 재시작
+revert-no-restart-button = 되돌리기
+restart-later = 나중에 다시 시작
