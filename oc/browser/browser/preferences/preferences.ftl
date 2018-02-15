@@ -8,15 +8,28 @@ do-not-track-option-default =
     .label = Sonque en utilizar la proteccion contra lo seguiment
 do-not-track-option-always =
     .label = Totjorn
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-field =
+    .style = min-width: 15.4em
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = Recercar
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Vida privada e seguretat
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Compte Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = Assisténcia de { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -26,3 +39,4 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } deu reaviar per activar aquesta foncionalitat.
 feature-disable-requires-restart = { -brand-short-name } deu reaviar per activar aquesta foncionalitat.
+revert-no-restart-button = Restablir
