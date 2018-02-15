@@ -21,4 +21,6 @@ focus-search =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } мусіць перазапусціцца, каб уключыць гэту магчымасць.
+feature-disable-requires-restart = { -brand-short-name } мусіць перазапусціцца, каб адключыць гэту магчымасць.
 should-restart-title = Перазапуск { -brand-short-name }
