@@ -5,7 +5,7 @@
 <!ENTITY window.title                 "Tyhjennä tiedot">
 <!ENTITY window.width                 "35em">
 
-<!ENTITY window.description           "Jos poistat kaikki evästeet ja sivuston &brandShortName;iin tallentamat tiedot, sinut saatetaan kirjata ulos sivustoilta ja yhteydetöntä tilaa varten tallennettu sisältö saatetaan poistaa. Välimuistisisällön poistaminen ei kirjaa sinua ulos sivustoilta.">
+<!ENTITY window.description           "Jos poistat kaikki evästeet ja sivuston &brandShortName;iin tallentamat tiedot, sinut saatetaan kirjata ulos sivustoilta ja yhteydetöntä tilaa varten tallennettu sisältö saatetaan poistaa. Välimuistissa olevan sisällön poistaminen ei kirjaa sinua ulos sivustoilta.">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Evästeet ja sivustojen tallentamat tiedot">
