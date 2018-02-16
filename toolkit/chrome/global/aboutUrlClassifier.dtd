@@ -7,7 +7,10 @@
 <!ENTITY aboutUrlClassifier.title                       "URL ક્લાસિફાયર માહિતી">
 <!ENTITY aboutUrlClassifier.providerTitle               "પ્રદાતા">
 <!ENTITY aboutUrlClassifier.provider                    "પ્રદાતા">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "છેલ્લું અદ્યતન સમય">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "આગામી અદ્યતન સમય">
 <!ENTITY aboutUrlClassifier.providerBackOffTime         "બેક-ઑફ સમય">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "છેલ્લું અદ્યતન સ્થિતિ">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "અદ્યતન કરો">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "કેશ">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "તાજું કરો">
@@ -27,4 +30,5 @@
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "JS લોગ સેટ કરો">
 <!ENTITY aboutUrlClassifier.debugSBModules              "લોગ મોડ્યુલોની સલામત બ્રાઉઝિંગ">
 <!ENTITY aboutUrlClassifier.debugModules                "વર્તમાન લોગ મોડ્યુલો">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "સુરક્ષિત બ્રાઉઝિંગ JS લોગ">
 <!ENTITY aboutUrlClassifier.debugFile                   "વર્તમાન લોગ ફાઈલ">
