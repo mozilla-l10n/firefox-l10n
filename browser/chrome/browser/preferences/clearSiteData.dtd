@@ -8,7 +8,13 @@
 <!ENTITY window.description           "Om du fjernar alle infokapslar og nettsidedata som er lagra av &brandShortName; vil kunne logge deg ut av nettsider og fjerne fråkopla nettinnhald. Fjerning av snøgglagra (cache-) data vil ikkje påverke innloggingane dine.">
 <!ENTITY windowClose.key              "w">
 
+<!ENTITY clearSiteData.label          "Infokapslar og nettsidedata">
+<!ENTITY clearSiteData.accesskey      "I">
+<!ENTITY clearSiteData.description    "Du kan bli logga ut av nettsider du har fjerna data frå">
 
+<!ENTITY clearCache.label             "Snøgglagra (cacha) nettinnhald">
+<!ENTITY clearCache.accesskey         "S">
+<!ENTITY clearCache.description       "Krev at nettsider lastar bilde og data på nytt">
 
 <!ENTITY button.cancel.label          "Avbryt">
 <!ENTITY button.cancel.accesskey      "A">
