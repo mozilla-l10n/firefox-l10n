@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Tøm data">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY window.description           "Om du fjerner alle infokapsler og nettsidedata som er lagret av &brandShortName; vil dette kunne logge deg ut av nettsider og fjerne frakoblet nettinnhold. Fjerning av hurtiglager (cache-) data vil ikke påvirke innloggingene dine.">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "Infokapsler og nettsidedata">
+<!ENTITY clearSiteData.accesskey      "s">
+<!ENTITY clearSiteData.description    "Du kan bli logget ut av nettsider du har fjernet data fra">
+
+<!ENTITY clearCache.label             "Hurtiglagret (cachet) nettinnhold">
+<!ENTITY clearCache.accesskey         "s">
+<!ENTITY clearCache.description       "Krever at nettsider laster bilder og data på nytt">
+
+<!ENTITY button.cancel.label          "Avbryt">
+<!ENTITY button.cancel.accesskey      "A">
+<!ENTITY button.clear.label           "Fjern">
+<!ENTITY button.clear.accesskey       "F">

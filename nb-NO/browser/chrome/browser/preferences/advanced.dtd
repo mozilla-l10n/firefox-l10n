@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Vi prøver alltid å gi deg valg og samler bare det vi trenger for å levere og forbedre &brandShortName; for alle. Vi ber alltid om tillatelse før vi aksepterer personopplysninger.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Personvernbestemmelser">
 
+<!ENTITY collectBrowserErrors.label          "Tillat &brandShortName; å sende feilrapporter (inkludert feilmeldinger) til Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "f">
+<!ENTITY collectBrowserErrorsLearnMore.label "Les mer">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Tillat &brandShortName; å sende krasjrapporter til Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "T">
 <!ENTITY crashReporterLearnMore.label    "Les mer">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "Nettverksproxy">
 
 <!ENTITY connectionDesc.label            "Konfigurer hvordan &brandShortName; kobler til Internett">
+
+<!ENTITY connectionSettingsLearnMore.label "Les mer">
 <!ENTITY connectionSettings.label        "Innstillinger …">
 <!ENTITY connectionSettings.accesskey    "I">
 
 <!ENTITY httpCache.label                 "Hurtiglagret nettinnhold">
-
-<!ENTITY offlineStorage2.label           "Frakoblet nettinnhold og brukerdata">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Sidedata">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       " MB diskplass">
 <!ENTITY clearCacheNow.label             "Tøm nå">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY clearOfflineAppCacheNow.label   "Tøm nå">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ø">
 <!ENTITY overrideSmartCacheSize.label    "Overstyr automatisk styring av hurtiglager">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Oppdater søkemotorer automatisk">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Fortell deg når et nettsted ber om å lagre data for frakoblet bruk">
-<!ENTITY offlineStorageNotify.accesskey           "F">
-<!ENTITY offlineStorageNotifyExceptions.label     "Unntak …">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "U">
-
-<!ENTITY offlineAppsList3.label          "Følgende nettsted har tillatelse til å lagre data for frakoblet bruk">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Slett …">
-<!ENTITY offlineAppsListRemove.accesskey "S">
-<!ENTITY offlineAppRemove.confirm        "Slett frakoblet data">
 
 <!ENTITY certificateTab.label            "Sertifikater">
 <!ENTITY certPersonal2.description       "Når et nettsted ber om ditt personlige sertifikat">
