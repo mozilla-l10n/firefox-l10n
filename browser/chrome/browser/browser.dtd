@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "معلومات الصفحة">
 <!ENTITY pageInfoCmd.accesskey "م">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "منقح تخطيط الصفحة">
+<!ENTITY ldbCmd.accesskey "م">
 <!ENTITY mirrorTabCmd.label "أذع اللسان">
 <!ENTITY mirrorTabCmd.accesskey "ذ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "لقد حجبت ميكروفونك عن هذا الموقع.">
 <!ENTITY urlbar.screenBlocked.tooltip            "لقد حجبت هذا الموقع من مشاركة شاشتك.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "لقد حجبت معلومات مكانك عن هذا الموقع.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "لقد حجبت تخزين البيانات عن هذا الموقع.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "لقد حجبت التنبيهات عن هذا الموقع.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "لقد حجبت الحفظ الدائم للبيانات عن هذا الموقع.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "لقد حجبت المنبثقات من هذا الموقع.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "لقد منعت استخراج بيانات رقعة الرسم في هذا الموقع.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ج">
 <!ENTITY newPrivateWindow.label     "نافذة خاصة جديدة">
 <!ENTITY newPrivateWindow.accesskey "ن">
-<!ENTITY newNonRemoteWindow.label   "نافذة جديدة غير متعددة السيرورات">
 
 <!ENTITY editMenu.label         "حرّر">
 <!ENTITY editMenu.accesskey       "ح">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "أظهر كل التأريخ">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "خصّص">
-<!ENTITY appMenuCustomize.tooltip "خصّص القائمة و أشرطة الأدوات">
-<!ENTITY appMenuCustomizeExit.label "أغلق التخصيص">
-<!ENTITY appMenuCustomizeExit.tooltip "أنهِ التخصيص">
-
 <!ENTITY appMenuHistory.showAll.label "أظهر كل التأريخ">
 <!ENTITY appMenuHistory.clearRecent.label "امسح التأريخ الحالي…">
 <!ENTITY appMenuHistory.restoreSession.label "استعد الجلسة السابقة">
 <!ENTITY appMenuHistory.viewSidebar.label "أظهر شريط التأريخ الجانبي">
 <!ENTITY appMenuHistory.recentHistory.label "التأريخ القريب">
 <!ENTITY appMenuHelp.label "مساعدة">
-<!ENTITY appMenuHelp.tooltip "افتح قائمة المساعدة">
 
 <!ENTITY appMenuRemoteTabs.label "الألسنة المُزامنة">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "لم تُزامَن أي ألسنة… بعد">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟">
 <!ENTITY appMenuRemoteTabs.openprefs.label "تفضيلات المزامنة">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "افتح تفضيلات «تزامُن»">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "لِج لعرض قائمة بالألسنة من أجهزتك الأخرى.">
 <!ENTITY appMenuRemoteTabs.unverified.label "يجب تأكيد حسابك.">
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "الامتداد:">
 <!ENTITY urlbar.switchToTab.label     "انتقل إلى اللسان:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "أتريد تحسين نتائج بالبحث بالاقتراحات؟">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "اطّلع على المزيد…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "ط">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "لا">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ل">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "نعم">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "ن">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "فائدة:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "طراز صفحة بسيط">
 <!ENTITY pageStylePersistentOnly.accesskey "ص">
 
-<!ENTITY pageReportIcon.tooltip            "غيّر إعدادات حجب النوافذ المنبثقة لهذا الموقع">
-
 <!ENTITY allowPopups.accesskey "ن">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "زامن">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "اسحب العناصر المفضلة لديك إلى شريط الأدوات أو قائمة الزيادة.">
-<!ENTITY customizeMode.menuAndToolbars.empty "أتريد المزيد من الأدوات؟">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "اختر من آلاف الإضافات">
 <!ENTITY customizeMode.restoreDefaults "استعد الإعدادات المبدئية">
 <!ENTITY customizeMode.done "تمّ">
 <!ENTITY customizeMode.titlebar "شريط العنوان">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "ر">
 <!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
-<!ENTITY customizeMode.emptyOverflowList.description "اسحب و أفلت العناصر هنا لإبقائهم في متناول يدك لكن خارج شريط الأدوات…">
 <!ENTITY customizeMode.overflowList.title2 "قائمة الزيادة">
 <!ENTITY customizeMode.overflowList.description "اسحب وأسقِط العناصر هنا لتبقيها قريبة منك ولكن خارج شريط الأدوات…">
 <!ENTITY customizeMode.uidensity "الكثافة">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "إجراءات الصفحة">
 <!ENTITY pageAction.addToUrlbar.label "أضف إلى شريط العناوين">
 <!ENTITY pageAction.removeFromUrlbar.label "أزل من شريط العناوين">
-
 <!ENTITY pageAction.allowInUrlbar.label "اعرض في شريط العنوان">
 <!ENTITY pageAction.disallowInUrlbar.label "لا تعرض في شريط العنوان">
 <!ENTITY pageAction.manageExtension.label "أدِر الامتدادات…">

@@ -9,7 +9,7 @@
 
 <!ENTITY  proxyTitle.label              "اضبط وسطاء الوصول إلى الإنترنت">
 
-<!ENTITY  proxyTitle.label2             "اضبط وصول الوسيط إلى الشابكة">
+<!ENTITY  proxyTitle.label2             "اضبط وصول الوسيط إلى الإنترنت">
 <!ENTITY  noProxyTypeRadio.label        "لا وسيط">
 <!ENTITY  noProxyTypeRadio.accesskey    "ل">
 <!ENTITY  systemTypeRadio.label         "استخدم إعدادات النظام للوسيط">
