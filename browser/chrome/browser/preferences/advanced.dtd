@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Arra törekszünk, hogy választást biztosítsunk, és csak azt gyűjtsük, amire szükségünk a van a &brandShortName; fejlesztéséhez, mindenki számára. Mindig engedélyt kérünk, mielőtt személyes információkat fogadunk.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Adatvédelmi nyilatkozat">
 
+<!ENTITY collectBrowserErrors.label          "Engedélyezi a &brandShortName; számára, hogy böngésző hibajelentéseket (köztük hibaüzeneteket) küldjön a Mozilla számára">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "További tudnivalók">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Engedélyezés, hogy a &brandShortName; hibajelentéseket küldhessen a Mozillának">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "h">
 <!ENTITY crashReporterLearnMore.label    "További tudnivalók">
