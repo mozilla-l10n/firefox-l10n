@@ -15,8 +15,14 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
+<!ENTITY  reportIdleAfter.label         "Tib'an chi ri kib'i' wachib'il tiqetamaj chi man in k'o ta chi rij ri">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "ch'utiramaj man k'o ta">
 
+<!ENTITY  andSetStatusToAway.label      "chuqa' tijikib'äx ri nub'anikil achi'el Mek'o rik'in re rutzijol b'anikil re':">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
 
+<!ENTITY  sendTyping.label              "Titaq tz'ib'anem rutzijol pa taq tzijonem">
 
 <!ENTITY  desktopChatNotifications.label      "Tik'ut jun rutzijol:">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
