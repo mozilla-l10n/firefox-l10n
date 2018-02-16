@@ -449,8 +449,8 @@
 <!ENTITY downloads "Elŝutoj">
 <!ENTITY char_encoding "Signa enkodigo">
 
-<!ENTITY share "Dividi">
-<!ENTITY share_title "Dividi per">
+<!ENTITY share "Havigi">
+<!ENTITY share_title "Havigi per">
 <!ENTITY share_image_failed "Ne eblas dividi tiun ĉi bildon">
 <!ENTITY save_as_pdf "Konservi kiel PDF">
 <!ENTITY print "Presi">
@@ -488,7 +488,7 @@
 <!ENTITY contextmenu_remove "Forigi">
 <!ENTITY contextmenu_add_page_shortcut "Aldon paĝan ŝparvojon">
 <!ENTITY contextmenu_set_as_homepage "Elekti kiel hejmpaĝon">
-<!ENTITY contextmenu_share "Dividi">
+<!ENTITY contextmenu_share "Havigi">
 <!ENTITY contextmenu_pasteandgo "Algui kaj iri">
 <!ENTITY contextmenu_paste "Alglui">
 <!ENTITY contextmenu_copyurl "Kopii adreson">
@@ -809,6 +809,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Pardonu! Tiu ĉi &brandShortName; ne funkcios en tiu ĉi aparato (&formatS1;, &formatS2;). Bonvolu elŝuti la ĝustan version.">
+
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Ne eblas malfermi &brandShortName;. Bonvolu reinstali kaj provu denove.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; ne plu ĝisdatiĝos">
 <!ENTITY eol_notification_summary "Tuŝetu por pli da informo">
