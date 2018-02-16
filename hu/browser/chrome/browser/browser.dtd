@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Oldal adatai">
 <!ENTITY pageInfoCmd.accesskey "O">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Elrendezési hibakereső">
+<!ENTITY ldbCmd.accesskey "E">
 <!ENTITY mirrorTabCmd.label "Lap tükrözése">
 <!ENTITY mirrorTabCmd.accesskey "t">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Blokkolta a mikrofont ezen az oldalon.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Blokkolta a képernyőmegosztást ezen az oldalon.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Blokkolta a helymeghatározási információkat ezen az oldalon.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Blokkolta az adattárolást ezen az oldalon.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Blokkolta az értesítéseket ezen az oldalon.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokkolta az állandó adattárolást ezen az oldalon.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokkolta a felugró ablakokat ezen az oldalon.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokkolta a vászonadatok kinyerését ezen az oldalon.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "a">
 <!ENTITY newPrivateWindow.label     "Új privát ablak">
 <!ENTITY newPrivateWindow.accesskey "v">
-<!ENTITY newNonRemoteWindow.label   "Új nem többszálú ablak">
 
 <!ENTITY editMenu.label         "Szerkesztés">
 <!ENTITY editMenu.accesskey       "z">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Minden előzmény megjelenítése">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Testreszabás">
-<!ENTITY appMenuCustomize.tooltip "A menü és az eszköztárak testreszabása">
-<!ENTITY appMenuCustomizeExit.label "Kilépés a testreszabásból">
-<!ENTITY appMenuCustomizeExit.tooltip "Testreszabás befejezése">
-
 <!ENTITY appMenuHistory.showAll.label "Minden előzmény megjelenítése">
 <!ENTITY appMenuHistory.clearRecent.label "Előzmények törlése…">
 <!ENTITY appMenuHistory.restoreSession.label "Előző munkamenet helyreállítása">
 <!ENTITY appMenuHistory.viewSidebar.label "Előzmények oldalsáv megjelenítése">
 <!ENTITY appMenuHistory.recentHistory.label "Közelmúltbeli előzmények">
 <!ENTITY appMenuHelp.label "Súgó">
-<!ENTITY appMenuHelp.tooltip "Súgó menü megnyitása">
 
 <!ENTITY appMenuRemoteTabs.label "Szinkronizált lapok">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Nincs szinkronizált lap… még!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Szeretné a más eszközein megnyitott lapjait itt látni?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Szinkronizálás beállításai">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Szinkronizálási beállítások megnyitása">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
 <!ENTITY appMenuRemoteTabs.unverified.label "A fiókját ellenőrizni kell.">
 <!ENTITY appMenuRemoteTabs.signin.label "Bejelentkezés a Syncbe">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Kiterjesztés:">
 <!ENTITY urlbar.switchToTab.label     "Váltás erre a lapra:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Szeretné a keresési élményt javaslatokkal javítani?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "További tudnivalók…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "t">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nem">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Igen">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "I">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tipp:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Alap oldalstílus">
 <!ENTITY pageStylePersistentOnly.accesskey "A">
 
-<!ENTITY pageReportIcon.tooltip            "Felugró ablakok tiltási beállításainak módosítása ennél a webhelynél">
-
 <!ENTITY allowPopups.accesskey "m">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Húzza a kedvenc elemeit az eszköztárba vagy a túlcsordulási menübe.">
-<!ENTITY customizeMode.menuAndToolbars.empty "További eszközöket szeretne?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Válasszon több ezer kiegészítő közül">
 <!ENTITY customizeMode.restoreDefaults "Alapértelmezett értékek visszaállítása">
 <!ENTITY customizeMode.done "Kész">
 <!ENTITY customizeMode.titlebar "Címsor">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
 <!ENTITY customizeMode.lwthemes.menuGetMore "További témák letöltése">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
-<!ENTITY customizeMode.emptyOverflowList.description "Húzzon és ejtsen ide elemeket, hogy az eszköztártól távol, de mégis kéznél legyenek…">
 <!ENTITY customizeMode.overflowList.title2 "Túlcsorduló menü">
 <!ENTITY customizeMode.overflowList.description "Húzzon és ejtsen ide elemeket, hogy az eszköztártól távol, de mégis kéznél legyenek…">
 <!ENTITY customizeMode.uidensity "Sűrűség">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Oldal műveletek">
 <!ENTITY pageAction.addToUrlbar.label "Hozzáadás a címsávhoz">
 <!ENTITY pageAction.removeFromUrlbar.label "Eltávolítás a címsávból">
-
 <!ENTITY pageAction.allowInUrlbar.label "Megjelenítés a címsávban">
 <!ENTITY pageAction.disallowInUrlbar.label "Ne jelenjen meg a címsávban">
 <!ENTITY pageAction.manageExtension.label "Kiterjesztés kezelése…">
