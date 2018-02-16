@@ -28,3 +28,12 @@
 -->
 <!ENTITY restartOnLangChange.label              "Valg av språk vil ikke bli gjeldende før du starter &brandShortName; på nytt.">
 
+<!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
+     radiobuttons are set dynamically from prefutilities.properties
+-->
+<!ENTITY dateTimeFormatting.label               "Formatering av dato og tid">
+
+<!--LOCALIZATION NOTE (restartOnLocaleChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLocaleChange.label            "Valg av språk og formatering vil ikke bli gjeldende før du starter &brandShortName; på nytt.">
