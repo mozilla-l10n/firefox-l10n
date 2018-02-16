@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              "erako Firefox zure gailu mugikorrarekin sinkronizatzeko.">
+
+<!ENTITY mobilepromo.singledevice      "Konektatu beste gailu bat">
+<!ENTITY mobilepromo.multidevice       "Kudeatu gailuak">
