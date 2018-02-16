@@ -1,129 +1,115 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
+
 <!-- Main titles. -->
+<!ENTITY sync.title.connect.label '&syncBrand.shortName.label;-pe jeike'>
 
-<!ENTITY sync.title.connect.label "&syncBrand.shortName.label;-pe jeike">
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Emyandy hag̃ua peteĩ mba\&apos;e\&apos;oka pyahu, eiporavo “Mboheho &syncBrand.shortName.label;” ne mba\&apos;e\&apos;okápe.'>
+<!ENTITY sync.subtitle.pair.label 'Emyandy hag̃ua, eiporavo “Embojoja peteĩ mba\&apos;e\&apos;oka” pe ne ambue mba\&apos;e\&apos;okápe.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.link.nodevice.label 'Che ndaguerekói mba\&apos;e\&apos;oka chendive…'>
 
-<!ENTITY sync.subtitle.connect.label "Emyandy hag̃ua peteĩ mba\u0027e\u0027oka pyahu, eiporavo “Mboheho &syncBrand.shortName.label;” ne mba\u0027e\u0027okápe.">
-<!ENTITY sync.subtitle.pair.label "Emyandy hag̃ua, eiporavo “Embojoja peteĩ mba\u0027e\u0027oka” pe ne ambue mba\u0027e\u0027okápe.">
-<!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.link.nodevice.label "Che ndaguerekói mba\u0027e\u0027oka chendive…">
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.passwords2 'Tembiapo moñepyrũ'>
+<!ENTITY sync.configure.engines.title.history 'Tembiasakue'>
+<!ENTITY sync.configure.engines.title.tabs 'Tendayke'>
 
-<!ENTITY sync.configure.engines.title.passwords2 "Tembiapo moñepyrũ">
-<!ENTITY sync.configure.engines.title.history "Tembiasakue">
-<!ENTITY sync.configure.engines.title.tabs "Tendayke">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; &formatS2;-pe'>
 
-<!ENTITY sync.default.client.name "&formatS1; &formatS2;-pe">
 <!-- Bookmark folder strings -->
-
-<!ENTITY bookmarks.folder.menu.label "Poravorã techaukaha rehegua">
+<!ENTITY bookmarks.folder.menu.label 'Poravorã techaukaha rehegua'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label "Teramoĩ">
-<!ENTITY bookmarks.folder.toolbar.label "Tembipuru renda techaukaha rehegua">
-<!ENTITY bookmarks.folder.other.label "Ambue techaukahakuéra">
-<!ENTITY bookmarks.folder.desktop.label "Techaukaha mohendahapegua">
-<!ENTITY bookmarks.folder.mobile.label "Techaukaha Pumbyry popeguáva">
+<!ENTITY bookmarks.folder.tags.label 'Teramoĩ'>
+<!ENTITY bookmarks.folder.toolbar.label 'Tembipuru renda techaukaha rehegua'>
+<!ENTITY bookmarks.folder.other.label 'Ambue techaukahakuéra'>
+<!ENTITY bookmarks.folder.desktop.label 'Techaukaha mohendahapegua'>
+<!ENTITY bookmarks.folder.mobile.label 'Techaukaha Pumbyry popeguáva'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label "Mbojapyre">
+<!ENTITY bookmarks.folder.pinned.label 'Mbojapyre'>
+
 <!-- Firefox Account strings. -->
+
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+<!ENTITY fxaccount_back_to_browsing 'Ejevyjey kundahárape'>
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Eg̃uahẽporãite &syncBrand.shortName.label;-pe'>
+<!ENTITY fxaccount_getting_started_description2 'Eñepyrũ tembiapo embojuehe hag̃ua tendayke, techaukaha, ñe\&apos;ẽñemi ha hetave.'>
+<!ENTITY fxaccount_getting_started_get_started 'Eñepyrũ'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Eipuruhína apopy itujavéva &syncBrand.shortName.label; mba\&apos;éva?'>
 
-<!ENTITY fxaccount_back_to_browsing "Ejevyjey kundahárape">
-
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Eg̃uahẽporãite &syncBrand.shortName.label;-pe">
-<!ENTITY fxaccount_getting_started_description2 "Eñepyrũ tembiapo embojuehe hag̃ua tendayke, techaukaha, ñe\u0027ẽñemi ha hetave.">
-<!ENTITY fxaccount_getting_started_get_started "Eñepyrũ">
-<!ENTITY fxaccount_getting_started_old_firefox "Eipuruhína apopy itujavéva &syncBrand.shortName.label; mba\u0027éva?">
-
-<!ENTITY fxaccount_status_signed_in_as "Eike ...ramo">
-<!ENTITY fxaccount_status_manage_account "Mba\u0027ete ñangarekoha">
-<!ENTITY fxaccount_status_auth_server "Mohendahavusu mba\u0027etáva">
-<!ENTITY fxaccount_status_sync_now "Embojuehe ko\u0027ág̃a">
-<!ENTITY fxaccount_status_syncing2 "Pe ñembojuehete…">
-<!ENTITY fxaccount_status_device_name "Mba\u0027e\u0027oka réra">
-<!ENTITY fxaccount_status_sync_server "Mohendahavusu ñembojuehe">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: myandypyre">
-<!ENTITY fxaccount_status_needs_verification2 "Ne mba\u0027ete oikotevẽ jehechajey. Ejopy emondojey hag̃ua ñanduti veve jehechajeyrãva.">
-<!ENTITY fxaccount_status_needs_credentials "Ndaikatúi eikehína. Ejopy emoñepyrũ hag̃ua tembiapo.">
-<!ENTITY fxaccount_status_needs_upgrade "Tekotevẽ embohekopyahu &brandShortName; emoñepyrũ hag̃ua tembiapo.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; oñembohekóma, hákatu ñoñembojuehéi ijehegui. Embojopara “Mba\u0027ekuaarã ijeheguíva Ñemoĩporãme” Android pegua Ñembohekópe &gt; Mba\u0027ekuaarã jepuru.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; oñembohekóma hákatu ñoñembojuehéi ijehegui. Embojopara “Mba\u0027ekuaarã ijeheguíva ñembojuehe” Android poravorã Ñembohekópe &gt; Mba\u0027etekuéra.">
-<!ENTITY fxaccount_status_needs_finish_migrating "Ejopy emoñepyrũ hag̃ua tembiapo pe ne mba\u0027ete pyahu Firefox pegua.">
-<!ENTITY fxaccount_status_bookmarks "Techaukaha">
-<!ENTITY fxaccount_status_history "Tembiasakue">
-<!ENTITY fxaccount_status_passwords2 "Tembiapo moñepyrũ">
-<!ENTITY fxaccount_status_tabs "Tendayke ijurujáva">
-<!ENTITY fxaccount_status_legal "Añetegua" >
+<!ENTITY fxaccount_status_auth_server 'Mohendahavusu mba\&apos;etáva'>
+<!ENTITY fxaccount_status_sync_now 'Embojuehe ko\&apos;ág̃a'>
+<!ENTITY fxaccount_status_syncing2 'Pe ñembojuehete…'>
+<!ENTITY fxaccount_status_device_name 'Mba\&apos;e\&apos;oka réra'>
+<!ENTITY fxaccount_status_sync_server 'Mohendahavusu ñembojuehe'>
+<!ENTITY fxaccount_status_needs_verification2 'Ne mba\&apos;ete oikotevẽ jehechajey. Ejopy emondojey hag̃ua ñanduti veve jehechajeyrãva.'>
+<!ENTITY fxaccount_status_needs_credentials 'Ndaikatúi eikehína. Ejopy emoñepyrũ hag̃ua tembiapo.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Tekotevẽ embohekopyahu &brandShortName; emoñepyrũ hag̃ua tembiapo.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; oñembohekóma, hákatu ñoñembojuehéi ijehegui. Embojopara “Mba\&apos;ekuaarã ijeheguíva Ñemoĩporãme” Android pegua Ñembohekópe &gt; Mba\&apos;ekuaarã jepuru.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; oñembohekóma hákatu ñoñembojuehéi ijehegui. Embojopara “Mba\&apos;ekuaarã ijeheguíva ñembojuehe” Android poravorã Ñembohekópe &gt; Mba\&apos;etekuéra.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Ejopy emoñepyrũ hag̃ua tembiapo pe ne mba\&apos;ete pyahu Firefox pegua.'>
+<!ENTITY fxaccount_status_choose_what 'Eiporavo mba\&apos;etépa embojuehéta'>
+<!ENTITY fxaccount_status_bookmarks 'Techaukaha'>
+<!ENTITY fxaccount_status_history 'Tembiasakue'>
+<!ENTITY fxaccount_status_passwords2 'Tembiapo moñepyrũ'>
+<!ENTITY fxaccount_status_tabs 'Tendayke ijurujáva'>
+<!ENTITY fxaccount_status_additional_settings 'Ñemboheko juapyguáva'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Embojuehe Wi-Fi ndive añoite'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Aníke eheja &brandShortName; oñembojuehe juajuguasu oguerekóva mba\&apos;ekuaarã sa\&apos;íva'>
+<!ENTITY fxaccount_status_legal 'Añetegua' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 "Mba\u0027epytyvõrã hu\u0027ãmava">
-<!ENTITY fxaccount_status_linkprivacy2 "Marandu ñemiguáva">
-<!ENTITY fxaccount_status_more "More&ellipsis;">
-<!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
+<!ENTITY fxaccount_status_linktos2 'Mba\&apos;epytyvõrã hu\&apos;ãmava'>
+<!ENTITY fxaccount_status_linkprivacy2 'Marandu ñemiguáva'>
+<!ENTITY fxaccount_remove_account 'Disconnect&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 "Esẽte Sync-gui?">
-<!ENTITY fxaccount_remove_account_dialog_message2 "Nekundahára mba\u0027ekuaarã opytáta ko mba\u0027e\u0027okápe, ha katu ndojuehe mo\u0027ãvéima nemba\u0027ete ndive.">
+<!ENTITY fxaccount_remove_account_dialog_title2 'Esẽte Sync-gui?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Nekundahára mba\&apos;ekuaarã opytáta ko mba\&apos;e\&apos;okápe, ha katu ndojuehe mo\&apos;ãvéima nemba\&apos;ete ndive.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 "Firefox mba\u0027ete &formatS;-gui ñesẽte.">
+<!ENTITY fxaccount_remove_account_toast2 'Firefox mba\&apos;ete &formatS;-gui ñesẽte.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
-<!ENTITY fxaccount_remove_account_dialog_action_confirm "Ñesẽ">
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Ñesẽ'>
 
-<!ENTITY fxaccount_enable_debug_mode "Embojuruja mopotĩha rekópe">
+<!ENTITY fxaccount_enable_debug_mode 'Embojuruja mopotĩha rekópe'>
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
-<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Jeporavorã'>
+<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; ñemboheko'>
 
-<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Jeporavorã">
-<!ENTITY fxaccount_options_configure_title "&syncBrand.shortName.label; ñemboheko">
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Firefox oikotevẽ mbohekopyahu">
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Mba\u0027ete oĩmavoi. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Ñanduti veve térã ñe\u0027ẽñemi oiko\u0027ỹva">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Ñanduti veve térã ñe\u0027ẽñemi oiko\u0027ỹva">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Mba\u0027ete ojehechajey\u0027ỹva">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Mohendahavusu ojepuru, eha\u0027ãjey ag̃ave">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Mohendahavusu ojepuru, eha\u0027ãjey ag̃ave">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Oĩkuri apañuãi">
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Mba\u0027ete ojejokóma. &formatS1;">
-
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ndoikeihína">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ndoikeihína'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Epoko emoñepyrũ hag̃ua tembiapo &formatS; ramo">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Epoko emoñepyrũ hag̃ua tembiapo &formatS; ramo'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; ñembohekopyahu mohu\u0027ã?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title '&syncBrand.shortName.label; ñembohekopyahu mohu\&apos;ã?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text "Epoko eñepyrũ hag̃ua tembiapo &formatS; ramo">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Epoko eñepyrũ hag̃ua tembiapo &formatS; ramo'>

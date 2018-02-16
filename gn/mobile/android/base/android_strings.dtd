@@ -811,6 +811,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY unsupported_sdk_version "¡Rombyasy! Ko &brandShortName; ndoikomo\&apos;ãi ko mba\&apos;e\&apos;okápe (&formatS1;, &formatS2;). Ikatúpiko emboguejy peteĩchagua oikóva.">
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Ndaikatúi eike &brandShortName; Ikatúpiko emboguejy ha eha\&apos;ãjey.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; hekopyahuve\&apos;ỹmava">
 <!ENTITY eol_notification_summary "Epoko eikuaave hag̃ua">
@@ -870,3 +871,4 @@ displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Embojuaju mba\&apos;erechaha tuichavévare">
 <!ENTITY pwa_continue_to_website "Epyta ko ñanduti rendápe">
+<!ENTITY pwa_onboarding_sumo "Ikatu embojuaju ko ñanduti renda ne mba\&apos;erechaha ñepyrũgua rehe eike pya\&apos;e hag̃ua ha eikundaha pya\&apos;eve rekávo eipururamoguáicha peteĩ tembipuru\&apos;i.">

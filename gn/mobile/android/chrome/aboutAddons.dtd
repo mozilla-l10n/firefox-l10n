@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Mbogue">
 <!ENTITY addonAction.uninstall                  "Jeipe'aite">
 <!ENTITY addonAction.undo                       "Mboguevi">
+<!ENTITY addonAction.update                     "Mbohekopyahu">
 
 <!ENTITY addonUnsigned.message                  "Ko moĩmbaha ndaikatúi ojehechajey &brandShortName; rupi.">
 <!ENTITY addonUnsigned.learnMore                "Eikuaave">

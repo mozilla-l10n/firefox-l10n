@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Ko ñanduti kuatiarogue <span id='unwanted_sitename'/> oñemomarandu hese oguerekoha software ivaíva ha ojejokóma hembiapoite hekotee'ỹgui.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Kuatiarogue software ivaíva omohendase software ikatúva nembotavy ha ombyai nde apopyvusu eha'ãrõ'ỹ rehe.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Ko ñanduti renda ikatu oguereko malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; ojoko ko kuatiarogue ikatu rupi omohenda tembipuru'i imarãva omonda térã ombogue ne marandu (techapyrã, ta'anga, ñe'ẽñemi, ñe'ẽmondo ha tarjeta de crédito papapy).">
