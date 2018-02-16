@@ -12,6 +12,7 @@
 
 <!ENTITY clearCache.label             "કેશ થયેલ વેબ સમાવિષ્ટો">
 <!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "વેબસાઇટ્સને છબીઓ અને ડેટા ફરીથી લોડ કરવાની જરૂર પડશે">
 
 <!ENTITY button.cancel.label          "રદ કરો">
 <!ENTITY button.cancel.accesskey      "C">

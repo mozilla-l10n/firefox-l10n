@@ -37,6 +37,8 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "અમે તમને પસંદગીઓ સાથે પ્રદાન કરવાનો પ્રયત્ન કરીએ છીએ અને દરેક માટે શું પ્રદાન અને સુધારવાની જરૂર છે તે જ &brandShortName; એકત્રિત કરીએ છીએ. અમે હંમેશા વ્યક્તિગત માહિતી મેળવવા પહેલાં પરવાનગી પૂછીશુ.">
 <!ENTITY dataCollectionPrivacyNotice.label    "ગોપનીયતા સૂચના">
 
+<!ENTITY collectBrowserErrorsLearnMore.label "વધુ જાણો">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "પરવાનગી આપો &brandShortName; Mozilla ને ક્રેશ રિપોર્ટ્સ મોકલવા માટે">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "વધારે શીખો">
