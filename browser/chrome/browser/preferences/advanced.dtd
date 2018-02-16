@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella &brandShortName; ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Rhybudd Preifatrwydd">
 
+<!ENTITY collectBrowserErrors.label          "Caniatáu i &brandShortName; anfon adroddiadau gwall y porwr (gan gynnwys negeseuon gwall) i Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "p">
+<!ENTITY collectBrowserErrorsLearnMore.label "Dysgu rhagor">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Caniatáu i &brandShortName; anfon adroddiadau chwalu i Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Dysgu rhagor">
