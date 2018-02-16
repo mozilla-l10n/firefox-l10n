@@ -116,5 +116,7 @@
 <!ENTITY enableOCSP.label                "Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i'">
 <!ENTITY enableOCSP.accesskey            "R">
 
+<!ENTITY manageCertificates.label "Kenuk'samajiïx Kiwujil B'i'aj">
+<!ENTITY manageCertificates.accesskey "K">
 <!ENTITY viewSecurityDevices.label "Kokisaxel Jikomal">
 <!ENTITY viewSecurityDevices.accesskey "K">

@@ -6,6 +6,8 @@
 
 <!ENTITY  startupAction.label         "Toq &brandShortName; xtitikirisäx:">
 <!ENTITY  startupAction.accesskey     "x">
+<!ENTITY  startupOffline.label        "Tichup kokem ri Chat Rub'i' Nutaqoya'l">
+<!ENTITY  startupConnectAuto.label    "Pa ruyonil tokisäx ri chat rub'i' nutaqoya'l">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is

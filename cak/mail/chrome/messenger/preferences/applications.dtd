@@ -27,9 +27,12 @@
 
 <!ENTITY addCloudFileAccount1.label       "Titz'aqatisäx…">
 <!ENTITY addCloudFileAccount1.accesskey   "t">
+<!ENTITY addCloudFileAccount.description  "Titz'aqatisäx jun k'ak'a' Filelink richin kiyakik samaj">
 <!ENTITY removeCloudFileAccount.label     "Tiyuj">
 <!ENTITY removeCloudFileAccount.accesskey "y">
+<!ENTITY authRequired.description         "K'atzinel ri ya'oj atzij richin nitz'et ri runuk'ulem re kiyakik samaj re'.">
 <!ENTITY authRequired.button.label        "Tiya' q'ij">
 <!ENTITY authRequired.button.accesskey    "U">
 
+<!ENTITY enableCloudFileAccountOffer.label "Tisuj richin yekomonïx taq yakb'äl ye'ik'o chi re">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
