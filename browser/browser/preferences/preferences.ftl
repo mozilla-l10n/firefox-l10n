@@ -20,7 +20,7 @@ pref-page =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-field =
-    .style = min-width: 18.4em
+    .style = min-width: 19em
 pane-general-title = Général
 category-general =
     .tooltiptext = { pane-general-title }
