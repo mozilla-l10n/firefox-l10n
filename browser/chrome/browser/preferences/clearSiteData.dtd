@@ -2,9 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title                 "Fjern data">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Om du fjernar alle infokapslar og nettsidedata som er lagra av &brandShortName; vil kunne logge deg ut av nettsider og fjerne fråkopla nettinnhald. Fjerning av snøgglagra (cache-) data vil ikkje påverke innloggingane dine.">
+<!ENTITY windowClose.key              "w">
 
 
 
 <!ENTITY button.cancel.label          "Avbryt">
+<!ENTITY button.cancel.accesskey      "A">
+<!ENTITY button.clear.label           "Fjern">
+<!ENTITY button.clear.accesskey       "F">
