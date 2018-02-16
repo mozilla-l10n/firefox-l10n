@@ -26,6 +26,8 @@
 <!ENTITY useSmoothScrolling.accesskey  "j">
 
 <!ENTITY systemIntegration.label       "Q'inoj Tunuj">
+<!ENTITY alwaysCheckDefault.label      "Junelïk tinik'öx we ri &brandShortName; ja ri' ri ruwinaqil taqoya'l k'o wi toq nitikirisäx">
+<!ENTITY alwaysCheckDefault.accesskey  "J">
 <!ENTITY searchIntegration.label       "Tiya' q'ij chi re &searchIntegration.engineName; richin yerukanoj taq tzijol">
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkDefaultsNow.label        "Tinik'öx Wakami…">
@@ -33,6 +35,7 @@
 <!ENTITY configEditDesc.label          "Q'axinäq Nuk'ulem">
 <!ENTITY configEdit.label              "Tib'an runuk'ulem ri Nuk'unel…">
 <!ENTITY configEdit.accesskey          "r">
+<!ENTITY returnReceiptsInfo.label      "Tijikib'äx rub'eyal ri &brandShortName; yerusamajij ri kiwujil ajil">
 <!ENTITY showReturnReceipts.label      "Tzolin taq Wujil…">
 <!ENTITY showReturnReceipts.accesskey  "T">
 
@@ -45,6 +48,8 @@
 
 <!ENTITY crashReporterSection.label      "Rutzijol Sachoj">
 <!ENTITY crashReporterDesc.label         "&brandShortName; yerutäq kitzijol taq sachoj richin nuto' &vendorShortName; chi nub'än jun raxinäq chuqa' ütz ruwinaqil ataqoya'l">
+<!ENTITY enableCrashReporter.label       "Titzij Rutzijol Sachoj">
+<!ENTITY enableCrashReporter.accesskey   "S">
 <!ENTITY crashReporterLearnMore.label    "Tetamäx Ch'aqa' Chik">
 
 <!-- Update -->
