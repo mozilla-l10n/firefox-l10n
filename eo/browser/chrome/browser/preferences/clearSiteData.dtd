@@ -5,7 +5,11 @@
 <!ENTITY window.title                 "Viŝi datumojn">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Viŝo de ĉiuj kuketoj kaj datumoj de retejo konservitaj de &brandShortName; povus okazigi finon de viaj seancoj en retejoj kaj forigon de teksaĵaj malkonektitaĵoj.  Viŝo de la staplo ne efikos sur viaj seancoj.">
+<!ENTITY windowClose.key              "w">
 
+<!ENTITY clearSiteData.label          "Kuketoj kaj retejaj datumoj">
+<!ENTITY clearSiteData.accesskey      "K">
 <!ENTITY clearSiteData.description    "Viŝinte, viaj seancoj en retejoj povus esti finitaj">
 
 <!ENTITY clearCache.label             "Staplo de teksaĵa enhavo">
