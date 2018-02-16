@@ -42,10 +42,25 @@
 <!ENTITY notCached.title "Xk'is Ruq'ijul ri Wuj">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun okem">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Tapitz&apos;a&apos; &quot;Titojtob&apos;ëx chik&quot; richin niq&apos;ax pa majun okem chuqa&apos; tok chik pa ruxaq.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Sachoj pa rucholajil rupam">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Itzel ruwäch chi yakb'äl">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Tikirisan chik ri okem">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -54,14 +69,39 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Man nich'ob'otäj ta ri ochochib'äl">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Rik'in jub'a' rajowaxik nayäk qa jun chik kema' richin nijaqatäj re ochochib'äl re'.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Ri proxi k'uxasamaj tajin yerutzolij ri taq okem">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Tanik'oj chi ri runuk'ulem proxi ja ri' ri ütz.</li>
+  <li>Katoyon rik'in ri runuk'samajel k'amab'ey richin nanik'oj chi ri ruk'u'x samaj proxi
+    nisamäj.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Man nilitäj ta ri proxi k'uxasamaj">
 
 <!ENTITY redirectLoop.title "Man ütz ta tajin niq'axan ri ruxaq k'amaya'l">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri
+    taq kaxlanwey.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Man oyob'en ta re rutzijol tajin nuya' pe ri k'uxasamaj">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Tanikoj chi ri aq'inoj ja ri nuk'unel ichinan chajinem
+    ruyakon.</li>
+  <li>Rik'in jub'a' ke ri' nub'än ruma runuk'ulem man pa rub'eyal ta ri ruk'u'x samaj.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "Xq'ate' ri ütz okem">
 
