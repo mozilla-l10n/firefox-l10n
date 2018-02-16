@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Sideinformasjon">
 <!ENTITY pageInfoCmd.accesskey "d">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Feilsøk layout">
+<!ENTITY ldbCmd.accesskey "F">
 <!ENTITY mirrorTabCmd.label "Spegl fana">
 <!ENTITY mirrorTabCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokkert mikrofonen for denne nettstaden.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blokkert denne nettstaden frå å dele skjermen din.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokkert plasseringsinformasjon for denne nettstaden.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blokkert datalagring for denne nettstaden.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokkert meldingar for denne nettstaden.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokkert vedvarande lagring for denne nettsida.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokkert sprettoppvindauge for denne nettstaden.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokkert canvas-datauthenting for denne nettstaden.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nytt privat vindauge">
 <!ENTITY newPrivateWindow.accesskey "v">
-<!ENTITY newNonRemoteWindow.label   "Nytt Ikkje-e10s vindauge">
 
 <!ENTITY editMenu.label         "Rediger">
 <!ENTITY editMenu.accesskey       "R">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuCustomize.label "Tilpass">
-<!ENTITY appMenuCustomize.tooltip "Tilpass meny og verktøylinjer">
-<!ENTITY appMenuCustomizeExit.label "Avslutt tilpasning">
-<!ENTITY appMenuCustomizeExit.tooltip "Fullfør tilpassing">
-
 <!ENTITY appMenuHistory.showAll.label "Vis all historikk">
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nyleg historikk…">
 <!ENTITY appMenuHistory.restoreSession.label "Bygg oppatt siste programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
 <!ENTITY appMenuHistory.recentHistory.label "Nyleg historikk">
 <!ENTITY appMenuHelp.label "Hjelp">
-<!ENTITY appMenuHelp.tooltip "Opne hjelpemeny">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserte faner">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Ingen synkroniserte faner … enno!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du sjå faner frå dei andre einingane dine her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-innstillingar">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Opne synkroniseringsinnstillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å vise ei liste over faner frå andre einingar.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Kontoen din må stadfestast.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Utviding:">
 <!ENTITY urlbar.switchToTab.label     "Byt til fane:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Vil du forbetre søkjeopplevinga di med søkjeforslag?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Les meir…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nei">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "a">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tips:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Vanleg">
 <!ENTITY pageStylePersistentOnly.accesskey "V">
 
-<!ENTITY pageReportIcon.tooltip            "Endre innstillingar for blokkering av sprettoppvindauge for denne nettstaden">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Synkroniser">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Dra favorittobjekta dine til verktøylinja eller overflytsmenyen.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha fleire verktøy">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Vel frå tusenvis av utvidingar">
 <!ENTITY customizeMode.restoreDefaults "Still tilbake til standard">
 <!ENTITY customizeMode.done "Ferdig">
 <!ENTITY customizeMode.titlebar "Tittellinje">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent fleire tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
-<!ENTITY customizeMode.emptyOverflowList.description "Drag og slepp element her for å ha dei innan rekkjevidde, men utanfor verktøylinja…">
 <!ENTITY customizeMode.overflowList.title2 "Overflytsmeny">
 <!ENTITY customizeMode.overflowList.description "Drag og slepp element her for å ha dei innan rekkjevidde, men ute av verktøylinja…">
 <!ENTITY customizeMode.uidensity "Densitet">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Sidehandlingar">
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinja">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinja">
-
 <!ENTITY pageAction.allowInUrlbar.label "Vis i adresselinja">
 <!ENTITY pageAction.disallowInUrlbar.label "Ikkje vis i adresselinja">
 <!ENTITY pageAction.manageExtension.label "Handter utvidingar…">
