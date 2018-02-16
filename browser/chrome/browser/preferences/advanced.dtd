@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Ni penas doni al vi plurajn eblojn, kaj kolekti nur tion, kion ni bezonas por fari kaj plibonigi &brandShortName; por ĉiuj. Ni ĉiam petos permeson antaŭ ol ricevi personajn informojn.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Rimarko pri privateco">
 
+<!ENTITY collectBrowserErrors.label          "Permesi al &brandShortName; sendi retumilajn raportojn pri eraroj (tio inkuzivas erarmesaĝojn) al Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "e">
+<!ENTITY collectBrowserErrorsLearnMore.label "Pli da informo">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Permesi al &brandShortName; sendi al Mozilla raportojn pri paneo">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "p">
 <!ENTITY crashReporterLearnMore.label    "Pli da informo">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "Retperanto">
 
 <!ENTITY connectionDesc.label            "Agordi la manieron kiel &brandShortName; konektiĝas al la reto">
+
+<!ENTITY connectionSettingsLearnMore.label "Pli da informo">
 <!ENTITY connectionSettings.label        "Agordoj…">
 <!ENTITY connectionSettings.accesskey    "g">
 
 <!ENTITY httpCache.label                 "Teksaĵa enhavo en staplo">
-
-<!ENTITY offlineStorage2.label           "Deponejo por malkonektitaĵoj, de teksaĵa enhavo kaj de datumoj de uzanto">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Retejaj datumoj">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MO de spaco">
 <!ENTITY clearCacheNow.label             "Viŝi nun">
 <!ENTITY clearCacheNow.accesskey         "V">
-<!ENTITY clearOfflineAppCacheNow.label   "Viŝi nun">
-<!ENTITY clearOfflineAppCacheNow.accesskey "V">
 <!ENTITY overrideSmartCacheSize.label    "Superregi la aŭtomatan administradon de staplo">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Aŭtomate ĝisdatigi serĉilojn">
 <!ENTITY enableSearchUpdate2.accesskey   "t">
-
-<!ENTITY offlineStorageNotify.label               "Diri al mi kiam retejoj petas konservi datumojn por uzi malkonektite">
-<!ENTITY offlineStorageNotify.accesskey           "r">
-<!ENTITY offlineStorageNotifyExceptions.label     "Esceptoj…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "E">
-
-<!ENTITY offlineAppsList3.label          "La jenaj retejoj rajtas konservi datumojn por uzi malkonektite">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Forigi…">
-<!ENTITY offlineAppsListRemove.accesskey "F">
-<!ENTITY offlineAppRemove.confirm        "Forigi malkonektitaĵojn">
 
 <!ENTITY certificateTab.label            "Atestiloj">
 <!ENTITY certPersonal2.description       "Kiam servilo petas vian personan atestilon">

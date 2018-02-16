@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informo pri paĝo">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Sencimigilo de aranĝo">
+<!ENTITY ldbCmd.accesskey "a">
 <!ENTITY mirrorTabCmd.label "Duobligi langeton">
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Vi blokis vian mikrofonon por tiu ĉi retejo.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Vi blokis dividon de la ekrano por tiu retejo.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Vi blokis informon pri via pozicio por tiu ĉi retejo.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Vi blokis konservon de datumoj por ti ĉi retejo.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vi blokis sciigojn por tiu ĉi retejo.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Vi blokis la daŭran konservejon por ĉi tiu retejo.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Vi blokis ŝprucfenestrojn por tiu ĉi retejo.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Vi blokis la eltiron de datumoj el kanvaso por tiu ĉi retejo.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nova privata fenestro">
 <!ENTITY newPrivateWindow.accesskey "f">
-<!ENTITY newNonRemoteWindow.label   "Nova ne-Electrolysis fenestro">
 
 <!ENTITY editMenu.label         "Redakti">
 <!ENTITY editMenu.accesskey       "R">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Montri tutan historion">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personecigi">
-<!ENTITY appMenuCustomize.tooltip "Personecigi la menuon kaj ilarstriojn">
-<!ENTITY appMenuCustomizeExit.label "Fini personecigon">
-<!ENTITY appMenuCustomizeExit.tooltip "Fini personecigon">
-
 <!ENTITY appMenuHistory.showAll.label "Montri tutan historion">
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
 <!ENTITY appMenuHistory.viewSidebar.label "Montri la flankan strion de historio">
 <!ENTITY appMenuHistory.recentHistory.label "Ĵusa historio">
 <!ENTITY appMenuHelp.label "Helpo">
-<!ENTITY appMenuHelp.tooltip "Malfermi menuon de helpo">
 
 <!ENTITY appMenuRemoteTabs.label "Spegulitaj langetoj">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Neniu spegulita langeto… ankoraŭ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferoj de Spegulado">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Malfermi preferojn de spegulado">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Via konto bezonas esti kontrolita.">
 <!ENTITY appMenuRemoteTabs.signin.label "Komencu seancon en Spegulado">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Etendaĵo:">
 <!ENTITY urlbar.switchToTab.label     "Iri al langeto:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Ĉu vi ŝatus plibonigi vian serĉadon per sugestoj?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Pli da informo…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Jes">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "J">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Konsileto:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Baza stilo">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "Ŝanĝi la agordojn de ŝprucfenestroj por tiu ĉi retejo">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Speguli">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Trenu viajn plej ŝatatajn elementojn al la ilaro aŭ ekstra menuo.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Ĉu vi volas pli da iloj?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Elekti inter miloj de aldonaĵoj">
 <!ENTITY customizeMode.restoreDefaults "Reuzi normajn valorojn">
 <!ENTITY customizeMode.done "Farita">
 <!ENTITY customizeMode.titlebar "Titolstrio">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ricevi pli da etosoj">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "R">
-<!ENTITY customizeMode.emptyOverflowList.description "Trenu elementojn kaj faligu ilin ĉi tie, por havi ilin estos ĉemane sed ne en via ilaro…">
 <!ENTITY customizeMode.overflowList.title2 "Ekstra menuo">
 <!ENTITY customizeMode.overflowList.description "Trenu elementojn kaj faligu ilin ĉi tie, por havi ilin estos ĉemane sed ne en via ilaro…">
 <!ENTITY customizeMode.uidensity "Denseco">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Retpaĝaj agoj">
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
 <!ENTITY pageAction.removeFromUrlbar.label "Forigi el adresa strio">
-
 <!ENTITY pageAction.allowInUrlbar.label "Montri en la adresa strio">
 <!ENTITY pageAction.disallowInUrlbar.label "Ne montri en la adresa strio">
 <!ENTITY pageAction.manageExtension.label "Administri etendaĵon…">
