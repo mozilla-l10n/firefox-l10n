@@ -38,10 +38,11 @@ available. -->
 <!ENTITY dataCollectionPrivacyNotice.label    "Politique de confidentialité">
 
 <!ENTITY collectBrowserErrors.label          "Autoriser &brandShortName; à envoyer les rapports d’erreur du navigateur (comprenant les messages d’erreur) à Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "u">
 <!ENTITY collectBrowserErrorsLearnMore.label "En savoir plus">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Autoriser &brandShortName; à envoyer les rapports de plantage à Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "u">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "t">
 <!ENTITY crashReporterLearnMore.label    "En savoir plus">
 
 <!ENTITY networkTab.label                "Réseau">
