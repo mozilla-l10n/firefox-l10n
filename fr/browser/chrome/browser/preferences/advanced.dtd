@@ -37,6 +37,9 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nous nous efforçons de vous laisser le choix et de recueillir uniquement les informations dont nous avons besoin pour proposer et améliorer &brandShortName; pour tout le monde. Nous demandons toujours votre permission avant de recevoir des données personnelles.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Politique de confidentialité">
 
+<!ENTITY collectBrowserErrors.label          "Autoriser &brandShortName; à envoyer les rapports d’erreur du navigateur (comprenant les messages d’erreur) à Mozilla">
+<!ENTITY collectBrowserErrorsLearnMore.label "En savoir plus">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Autoriser &brandShortName; à envoyer les rapports de plantage à Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "u">
 <!ENTITY crashReporterLearnMore.label    "En savoir plus">
@@ -46,12 +49,12 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy réseau">
 
 <!ENTITY connectionDesc.label            "Configurer la façon dont &brandShortName; se connecte à Internet">
+
+<!ENTITY connectionSettingsLearnMore.label "En savoir plus">
 <!ENTITY connectionSettings.label        "Paramètres…">
 <!ENTITY connectionSettings.accesskey    "P">
 
 <!ENTITY httpCache.label                 "Contenu web en cache">
-
-<!ENTITY offlineStorage2.label           "Contenu web et données utilisateur hors connexion">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Données des sites">
@@ -72,8 +75,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "Mo d’espace disque">
 <!ENTITY clearCacheNow.label             "Vider maintenant">
 <!ENTITY clearCacheNow.accesskey         "V">
-<!ENTITY clearOfflineAppCacheNow.label   "Vider maintenant">
-<!ENTITY clearOfflineAppCacheNow.accesskey "d">
 <!ENTITY overrideSmartCacheSize.label    "Modifier la gestion automatique du cache">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +111,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Mettre à jour automatiquement les moteurs de recherche">
 <!ENTITY enableSearchUpdate2.accesskey   "r">
-
-<!ENTITY offlineStorageNotify.label               "Avertir lorsqu’un site souhaite conserver des données pour une utilisation hors connexion">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "Les sites suivants sont autorisés à stocker des données pour une utilisation hors connexion">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Supprimer…">
-<!ENTITY offlineAppsListRemove.accesskey "S">
-<!ENTITY offlineAppRemove.confirm        "Supprimer les données hors connexion">
 
 <!ENTITY certificateTab.label            "Certificats">
 <!ENTITY certPersonal2.description       "Lorsqu’un serveur demande votre certificat personnel">
