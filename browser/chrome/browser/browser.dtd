@@ -111,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Información de la página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Duplicar pestaña">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +232,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Has bloqueado tu micrófono para este sitio.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Has bloqueado a este sitio la posibilidad de compartir tu pantalla.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Has bloqueado la información de ubicación para este sitio.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Has bloqueado el almacenamiento de datos para este sitio.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Has bloqueado las notificaciones para este sitio.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Has bloqueado el almacenamiento persistente para este sitio.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Bloqueaste las ventanas emergentes para este sitio web.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Has bloqueado la extracción de datos de canvas para este sitio.">
@@ -303,7 +302,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nueva ventana privada">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "Nueva ventana sin e10s">
 
 <!ENTITY editMenu.label         "Editar">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +356,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuCustomize.tooltip "Personalizar el menú y las barras de herramientas">
-<!ENTITY appMenuCustomizeExit.label "Dejar de modificar">
-<!ENTITY appMenuCustomizeExit.tooltip "Finalizar personalización">
-
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral de historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial reciente">
 <!ENTITY appMenuHelp.label "Ayuda">
-<!ENTITY appMenuHelp.tooltip "Abrir menú de ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +384,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "No hay pestañas sincronizadas… ¡por el momento!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Te gustaría ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir preferencias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Conéctate para ver una lista de las pestañas de tus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tu cuenta necesita ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Conectarse a Sync">
@@ -444,14 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensión:">
 <!ENTITY urlbar.switchToTab.label     "Cambiar a pestaña:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "¿Deseas mejorar tu experiencia de búsqueda con sugerencias?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Aprender más…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consejo:">
@@ -730,8 +715,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo básico de página">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Cambia las configuraciones del bloqueador de ventanas emergentes para este sitio">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +846,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Arrastra tus elementos favoritos a la barra de herramientas o al menú flotante.">
-<!ENTITY customizeMode.menuAndToolbars.empty "¿Quieres más herramientas?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Escoge entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
 <!ENTITY customizeMode.done "Hecho">
 <!ENTITY customizeMode.titlebar "Barra de título">
@@ -877,7 +858,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Arrastra y suelta elementos aquí para mantenerlos a tu alcance pero fuera de tu barra de herramientas…">
 <!ENTITY customizeMode.overflowList.title2 "Menú flotante">
 <!ENTITY customizeMode.overflowList.description "Arrastra y suelta elementos aquí para mantenerlos a tu alcance pero fuera de tu barra de herramientas…">
 <!ENTITY customizeMode.uidensity "Densidad">
@@ -1008,7 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Acciones de la página">
 <!ENTITY pageAction.addToUrlbar.label "Añadir a la barra de direcciones">
 <!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
-
 <!ENTITY pageAction.allowInUrlbar.label "Mostrar en la barra de direcciones">
 <!ENTITY pageAction.disallowInUrlbar.label "No mostrar en la barra de direcciones">
 <!ENTITY pageAction.manageExtension.label "Gestionar extensión…">
