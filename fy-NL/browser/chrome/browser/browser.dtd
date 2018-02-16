@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Side-ynfo">
 <!ENTITY pageInfoCmd.accesskey "f">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Layout Debugger">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Ljepblêd spegelje">
 <!ENTITY mirrorTabCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Jo hawwe jo mikrofoan foar dizze website blokkearre.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Jo hawwe jo it dielen fan jo skerm foar dizze website blokkearre.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Jo hawwe jo lokaasjeynformaasje foar dizze website blokkearre.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Jo hawwe gegevensûnthâld foar dizze website blokkearre.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jo hawwe notifikaasjes foar dizze website blokkearre.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Jo hawwe permaninte opslach foar dizze website blokkearre.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Jo hawwe pop-ups foar dizze website blokkearre.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Jo hawwe canvas-gegevensekstraksje foar dizze website blokkearre.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nij priveefinster">
 <!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label   "Nij net-e10s-finster">
 
 <!ENTITY editMenu.label         "Bewurkje">
 <!ENTITY editMenu.accesskey       "W">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Alle skiednis toane">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Oanpasse">
-<!ENTITY appMenuCustomize.tooltip "It menu en de arkbalken oanpasse">
-<!ENTITY appMenuCustomizeExit.label "Oanpassen ôfslute">
-<!ENTITY appMenuCustomizeExit.tooltip "Oanpassen foltôgje">
-
 <!ENTITY appMenuHistory.showAll.label "Alle skiednis toane">
 <!ENTITY appMenuHistory.clearRecent.label "Resinte skiednis wiskje…">
 <!ENTITY appMenuHistory.restoreSession.label "Foarige sesje werom bringe">
 <!ENTITY appMenuHistory.viewSidebar.label "Skiednissydbalke werjaaan">
 <!ENTITY appMenuHistory.recentHistory.label "Resinte skiednis">
 <!ENTITY appMenuHelp.label "Help">
-<!ENTITY appMenuHelp.tooltip "Menu Help iepenje">
 
 <!ENTITY appMenuRemoteTabs.label "Syngronisearre ljepblêden">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Noch gjin syngronisearre ljepblêden…">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Wolle jo hjir jo ljepblêden fan oare apparaten sjen?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Syngronisaasjefoarkarren">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Foarkarren foar Sync iepenje">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Meld jo oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Jo account moat ferifiearre wurde.">
 <!ENTITY appMenuRemoteTabs.signin.label "Oanmelde by Sync">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Utwreiding:">
 <!ENTITY urlbar.switchToTab.label     "Wikselje nei ljepblêd:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Wolle jo jo sykûnderfining ferbetterje mei suggestjes?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Mear ynfo…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "M">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nee">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "J">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Basisstyl">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "Pop-upynstellingen foar dizze website wizigje">
-
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Syngronisearje">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Sleep jo favorite items nei de arkbalke of it oerrinmenu.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Wolle jo mear helpmiddelen?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies út tûzenen add-ons">
 <!ENTITY customizeMode.restoreDefaults "Standertynstellingen werom bringe">
 <!ENTITY customizeMode.done "Dien">
 <!ENTITY customizeMode.titlebar "Titelbalke">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Krij mear tema's">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
-<!ENTITY customizeMode.emptyOverflowList.description "Sleep items hjirnei ta om se deunby mar bûten jo arkbalke te hâlden…">
 <!ENTITY customizeMode.overflowList.title2 "Oerrinmenu">
 <!ENTITY customizeMode.overflowList.description "Sleep items hjirnei ta om se deunby mar bûten jo arkbalke te hâlden…">
 <!ENTITY customizeMode.uidensity "Tichtens">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Side-aksjes">
 <!ENTITY pageAction.addToUrlbar.label "Tafoegje oan adresbalke">
 <!ENTITY pageAction.removeFromUrlbar.label "Fuortsmite fan adresbalke">
-
 <!ENTITY pageAction.allowInUrlbar.label "Yn adresbalke toane">
 <!ENTITY pageAction.disallowInUrlbar.label "Net yn adresbalke toane">
 <!ENTITY pageAction.manageExtension.label "Utwreiding beheare…">
