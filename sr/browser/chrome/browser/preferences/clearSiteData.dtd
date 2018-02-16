@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Чишћење свих колачића и података сајтова које &brandShortName; складишти вас може одјавити са веб сајтова и може уклонити ванмрежни веб садржај. Чишћење кешираних података неће утицати на ваше пријаве.">
-<!ENTITY windowClose.key              "в">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Колачићи и подаци сајтова">
 <!ENTITY clearSiteData.accesskey      "с">
