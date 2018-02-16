@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Подаци о страници">
 <!ENTITY pageInfoCmd.accesskey "с">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Исправљач грешака у распореду">
+<!ENTITY ldbCmd.accesskey "р">
 <!ENTITY mirrorTabCmd.label "Пресликај језичак">
 <!ENTITY mirrorTabCmd.accesskey "ј">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -383,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Нема синхронизованих језичака…">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Поставке синхронизације">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Отвори поставке Sync-а">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Пријавите се да видите листу језичака са других уређаја.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш налог мора бити потврђен.">
 <!ENTITY appMenuRemoteTabs.signin.label "Пријави се на Sync">
