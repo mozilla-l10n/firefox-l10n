@@ -20,6 +20,9 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ટેલીમેટ્રી માહિતી">
 <!ENTITY aboutTelemetry.moreInformations "વધુ માહિતી જોઈએ છે?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox ડેટા દસ્તાવેજીકરણ</a> માં અમારા ડેટા સાધનો સાથે કેવી રીતે કામ કરવું તે વિશેની માર્ગદર્શિકાઓ છે.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox ટેલિમેટ્રી ક્લાયંટ દસ્તાવેજીકરણ</a> વિભાવનાઓ, API દસ્તાવેજીકરણ અને ડેટા સંદર્ભો માટેની વ્યાખ્યાઓનો સમાવેશ કરે છે.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>ટેલીમેટ્રી ડેશબોર્ડ્સ</a> તમને Mozilla ડેટા મારફતે વિઝ્યુઅલાઈઝ કરવા માટે પરવાનગી આપે છે જે ટેલીમેટ્રી મારફતે મેળવે છે.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON દર્શકમાં ખોલો">
 
