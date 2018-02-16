@@ -37,6 +37,7 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Roñeha'ã mbarete rome'ẽ hag̃ua jeporavorã ha rombyaty pe roikotevẽva rome'ẽ añoite ha romoĩporãve &brandShortName; arapy tuichakue javépe g̃uarã. Tapiaite rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Marandu Ñemigua">
 
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Emoneĩ &brandShortName; omondóvo marandu'i Mozilla-pe">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Kuaave">
@@ -46,12 +47,12 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy ñanduti rehegua">
 
 <!ENTITY connectionDesc.label            "Emboheko &brandShortName;-ramo; Ñandutípe jeike">
+
+<!ENTITY connectionSettingsLearnMore.label "Kuaave">
 <!ENTITY connectionSettings.label        "Ñemboheko…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Ñanduti rechapyrã kachépe">
-
-<!ENTITY offlineStorage2.label           "Ñanduti rechapyrã jeikekatu'ỹre há puruhára mba'ekuaarã">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Mba'ekuaarã tenda rehegua">
@@ -72,8 +73,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB pa'ũ">
 <!ENTITY clearCacheNow.label             "Emopotĩ ko'ág̃a">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "Emopotĩ ko'ág̃a">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Kache ñangarekoha ijeheguíva jehejarei">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +109,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Jehekaha mongu'eha ñembohekopyahu ijeheguíva">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Chemomarandu peteĩ tenda ojerujérõ mba'ekuaarã ñongatu jeikekatu'ỹre ojepuru hag̃ua">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "Oĩ'ỹva">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "Ko'ã ñanduti renda oguereko moneĩ oñongatúvo mba'ekuaarã jeikekatu'ỹre ojepuru hag̃ua">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Mboguete…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Mba'ekuaarã jeikekatu'ỹre mboguete">
 
 <!ENTITY certificateTab.label            "Mboajepyréva">
 <!ENTITY certPersonal2.description       "Peteĩ mohendahavusu oikotevẽramo che mboajepyre">
