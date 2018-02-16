@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რაც საჭიროა &brandShortName;-ის გასაუმჯობესებლად. ჩვენ ყოველთვის დაგეკითხებით, პირადი ინფორმაციის მიღებამდე.">
 <!ENTITY dataCollectionPrivacyNotice.label    "პირადი მონაცემების დაცვის შესახებ">
 
+<!ENTITY collectBrowserErrors.label          "ნებართვა &brandShortName;-ისთვის შეცდომების შესახებ მოხსენებების (შეცდომის შეტყობინებების ჩათვ.) Mozilla-სთვის გადასაგზავნად">
+<!ENTITY collectBrowserErrors.accesskey      "ნ">
+<!ENTITY collectBrowserErrorsLearnMore.label "იხილეთ ვრცლად">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;-ისთვის ნების დართვა, ავარიული დახურვის მოხსენებების გასაგზავნად Mozilla-სთვის">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "ვ">
 <!ENTITY crashReporterLearnMore.label    "ვრცლად">
