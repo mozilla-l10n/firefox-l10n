@@ -84,10 +84,13 @@
 <!ENTITY proxiesConfigure.label        "Tanuk'samajij ri rub'eyal nok ri &brandShortName; pa k'amaya'l">
 <!ENTITY connectionsInfo.caption       "Okem">
 <!ENTITY offlineInfo.caption           "Chupül">
+<!ENTITY offlineInfo.label             "Tib'an runuk'ulem rik'in chupül okem">
 <!ENTITY showOffline.label             "Chupül…">
 <!ENTITY showOffline.accesskey         "C">
 
 <!ENTITY Diskspace                       "Rupam Rujolom">
+<!ENTITY offlineCompactFolders.label     "Kesib' yakwuj toq yekol k'ïy">
+<!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB chi ronojel">
 
 <!-- LOCALIZATION NOTE:
