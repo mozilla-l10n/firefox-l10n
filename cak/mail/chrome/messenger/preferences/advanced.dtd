@@ -9,16 +9,23 @@
 <!ENTITY itemCertificates.label  "Taq ruwujil b'i'aj">
 
 <!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "Titzij Cholajin chuqa' Chijun Kanoxïk">
+<!ENTITY enableGlodaSearch.accesskey   "C">
+<!ENTITY dateTimeFormatting.label      "Rub'anikil Q'ijul chuqa' Ramaj">
 <!ENTITY allowHWAccel.label            "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey        "c">
+<!ENTITY storeType.label               "Ruwäch Ruyakoj Tzijol kichin k'ak'a' kib'i' taqoya'l:">
+<!ENTITY storeType.accesskey           "R">
 <!ENTITY mboxStore2.label              "Yakb'äl chi yakwuj (mbox)">
 <!ENTITY maildirStore.label            "Jun yakb'äl chi rutzijol (maildir)">
 
+<!ENTITY scrolling.label               "Q'axanem">
 <!ENTITY useAutoScroll.label           "Tokisäx ruyonil rusiloxik">
 <!ENTITY useAutoScroll.accesskey       "T">
 <!ENTITY useSmoothScrolling.label      "Tokisäx jeb'ël q'axanïk">
 <!ENTITY useSmoothScrolling.accesskey  "j">
 
+<!ENTITY systemIntegration.label       "Q'inoj Tunuj">
 <!ENTITY searchIntegration.label       "Tiya' q'ij chi re &searchIntegration.engineName; richin yerukanoj taq tzijol">
 <!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY checkDefaultsNow.label        "Tinik'öx Wakami…">
