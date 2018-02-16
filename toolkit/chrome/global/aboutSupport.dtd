@@ -75,6 +75,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "વેબ સામગ્રી પ્રક્રિયાઓ">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google કી">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla સ્થાન સર્વિસ કી">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "સલામત મોડ">
@@ -112,6 +113,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "સુલભતા">
 <!ENTITY aboutSupport.a11yActivated "સક્રિય થયેલ">
 <!ENTITY aboutSupport.a11yForceDisabled "સુલભતા અટકાવો">
+<!ENTITY aboutSupport.a11yHandlerUsed "સુલભ હેન્ડલર વપરાયેલ">
+<!ENTITY aboutSupport.a11yInstantiator "ઇન્સ્ટિટેએટર ઉપલ્બધતા">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "લાઇબ્રેરી આવૃત્તિઓ">
 
@@ -127,6 +130,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallAge "સેકંડ પહેલા">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "પ્રક્રિયા પ્રકાર">
+<!ENTITY aboutSupport.sandboxSyscallNumber "સિસકૉલ">
 <!ENTITY aboutSupport.sandboxSyscallArgs "દલીલો">
 
 <!ENTITY aboutSupport.safeModeTitle "સુરક્ષિત મોડ અજમાવો">
@@ -138,6 +143,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "નિર્ણય લોગ">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "ક્રેશ ગાર્ડની અક્ષમ કરેલ સુવિધાઓ">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "વર્કરાઉન્ડ્સ">
 
 <!ENTITY aboutSupport.mediaTitle "મીડિયા">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "આઉટપુટ ઉપકરણો">
@@ -152,6 +159,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceRate "દર">
 <!ENTITY aboutSupport.mediaDeviceLatency "લેટન્સી">
 
+<!ENTITY aboutSupport.intlTitle "આંતરરાષ્ટ્રીયકરણ &amp; સ્થાનિકીકરણ">
 <!ENTITY aboutSupport.intlAppTitle "એપ્લિકેશનની સેટિંગ્સ">
 <!ENTITY aboutSupport.intlLocalesRequested "વિનંતી કરેલ લૉકેલ્સ">
 <!ENTITY aboutSupport.intlLocalesAvailable "ઉપલબ્ધ લૉકેલ્સ">
@@ -159,3 +167,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlLocalesDefault "મૂળભૂત લૉકેલ">
 <!ENTITY aboutSupport.intlOSTitle "ઑપરેટિંગ સિસ્ટમ">
 <!ENTITY aboutSupport.intlOSPrefsSystemLocales "સિસ્ટમ લૉકેલ્સ">
+<!ENTITY aboutSupport.intlRegionalPrefs "ક્ષેત્રીય પસંદગીઓ">

@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "ઈન્ટરનેટ વાપરવા માટે પ્રોક્સીઓ રૂપરેખાંકિત કરો">
+
+<!ENTITY  proxyTitle.label2             "ઈન્ટરનેટ ચલાવવા માટે પ્રોક્સી ગોઠવો">
 <!ENTITY  noProxyTypeRadio.label        "કોઈ પ્રોક્સી નથી">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "સિસ્ટમ પ્રોક્સી સેટીંગ વાપરો">
