@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Ezin da irudia partekatu">
 <!ENTITY save_as_pdf "Gorde PDF gisa">
 <!ENTITY print "Inprimatu">
+<!ENTITY view_page_source "Ikusi orriaren iturburua">
 <!ENTITY find_in_page "Bilatu orrian">
 <!ENTITY desktop_mode "Mahaigaineko gunea">
 <!ENTITY page "Orria">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Ireki fitxa berrian">
 <!ENTITY contextmenu_open_private_tab "Ireki fitxa pribatuan">
 <!ENTITY contextmenu_remove "Kendu">
-<!ENTITY contextmenu_add_to_launcher "Gehitu hasierako pantailan">
 <!ENTITY contextmenu_add_page_shortcut "Gehitu orriaren lasterbidea">
 <!ENTITY contextmenu_set_as_homepage "Ezarri hasiera-orri gisa">
 <!ENTITY contextmenu_share "Partekatu">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Orria kenduta">
-
 <!ENTITY folder_removed "Karpeta kenduta">
 
 <!ENTITY bookmark_edit_title "Editatu laster-marka">
@@ -811,6 +810,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Barkatu! &brandShortName; hau ez da gailu honetan ibiliko (&formatS1;, &formatS2;). Mesedez deskargatu bertsio egokia.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Ezin da &brandShortName; ireki. Mesedez berrinstalatu eta saiatu berriro.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; ez da gehiago eguneratuko">
 <!ENTITY eol_notification_summary "Sakatu argibide gehiagorako">
 
@@ -818,8 +820,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; eguneratuta dago">
 <!ENTITY whatsnew_notification_summary "Ezagutu zer berritasun dakartzan bertsio honek">
-
-<!ENTITY promotion_add_to_homescreen "Gehitu hasierako pantailan">
 
 <!ENTITY promotion_add_page_shortcut "Gehitu orriaren lasterbidea">
 
