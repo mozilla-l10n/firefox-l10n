@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Vous avez empêché ce site d’accéder à votre microphone.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Vous avez empêché ce site de partager votre écran.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Vous avez empêché ce site d’accéder à vos données de géolocalisation.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Vous avez empêché ce site de stocker des données.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vous avez empêché ce site d’envoyer des notifications.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Vous avez empêché ce site d’utiliser le stockage persistant.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Vous avez bloqué des popups pour ce site web.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Vous avez empêché ce site d’extraire des informations de canvas.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "u">
 <!ENTITY newPrivateWindow.label     "Nouvelle fenêtre de navigation privée">
 <!ENTITY newPrivateWindow.accesskey "N">
-<!ENTITY newNonRemoteWindow.label   "Fenêtre non e10s">
 
 <!ENTITY editMenu.label         "Édition">
 <!ENTITY editMenu.accesskey       "n">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Afficher l’historique">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuCustomize.label "Personnaliser">
-<!ENTITY appMenuCustomize.tooltip "Personnaliser le menu et les barres d’outils">
-<!ENTITY appMenuCustomizeExit.label "Quitter la personnalisation">
-<!ENTITY appMenuCustomizeExit.tooltip "Terminer la personnalisation">
-
 <!ENTITY appMenuHistory.showAll.label "Afficher l’historique">
 <!ENTITY appMenuHistory.clearRecent.label "Effacer l’historique récent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurer la session précédente">
 <!ENTITY appMenuHistory.viewSidebar.label "Afficher le panneau de l’historique">
 <!ENTITY appMenuHistory.recentHistory.label "Historique récent">
 <!ENTITY appMenuHelp.label "Aide">
-<!ENTITY appMenuHelp.tooltip "Ouvrir le menu d’aide">
 
 <!ENTITY appMenuRemoteTabs.label "Onglets synchronisés">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Aucun onglet synchronisé pour l’instant.">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vous souhaitez afficher ici les onglets de vos autres appareils ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Préférences de synchronisation">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ouvrir les préférences de synchronisation">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectez-vous pour afficher la liste des onglets de vos autres appareils.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Votre compte doit être vérifié.">
 <!ENTITY appMenuRemoteTabs.signin.label "Se connecter à Sync">
@@ -444,14 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extension :">
 <!ENTITY urlbar.switchToTab.label     "Aller à l’onglet :">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Voulez-vous améliorer la façon dont vous effectuez des recherches en activant les suggestions ?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "En savoir plus…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "V">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Oui">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "O">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggestion :">
@@ -730,8 +714,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Style de base de la page">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Changer la politique popups de ce site web">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Synchroniser">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Déplacez vos outils favoris vers la barre d’outils ou le menu qui la prolonge.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Besoin d’encore plus d’outils ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Faites votre choix parmi des milliers de modules complémentaires">
 <!ENTITY customizeMode.restoreDefaults "Configuration par défaut">
 <!ENTITY customizeMode.done "Terminé">
 <!ENTITY customizeMode.titlebar "Barre de titre">
@@ -877,7 +857,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtenir plus de thèmes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
-<!ENTITY customizeMode.emptyOverflowList.description "Faites glisser et déposer les éléments ici pour les garder à portée de main, mais hors de votre barre d’outils…">
 <!ENTITY customizeMode.overflowList.title2 "Menu prolongeant la barre d’outils">
 <!ENTITY customizeMode.overflowList.description "Faites glisser et déposer les éléments ici pour les garder à portée de main, mais hors de votre barre d’outils…">
 <!ENTITY customizeMode.uidensity "Densité">
@@ -1008,7 +987,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Actions pour la page">
 <!ENTITY pageAction.addToUrlbar.label "Ajouter à la barre d’adresse">
 <!ENTITY pageAction.removeFromUrlbar.label "Retirer de la barre d’adresse">
-
 <!ENTITY pageAction.allowInUrlbar.label "Afficher dans la barre d’adresse">
 <!ENTITY pageAction.disallowInUrlbar.label "Ne pas afficher dans la barre d’adresse">
 <!ENTITY pageAction.manageExtension.label "Gérer l’extension…">
