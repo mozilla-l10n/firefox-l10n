@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Konfigurer proxy for tilkopling til Internett">
+
+<!ENTITY  proxyTitle.label2             "Konfigurer proxy for tilgang til internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "I">
 <!ENTITY  systemTypeRadio.label         "Bruk systemet sine proxyinnstillingar">
