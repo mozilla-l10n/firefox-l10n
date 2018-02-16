@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Трудимо се да вам пружимо избор и да сакупљамо само оно што нам је потребно да градимо и побољшамо &brandShortName; за све. Увек ћемо питати за дозволу пре примања личних података.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Обавештење о приватности">
 
+<!ENTITY collectBrowserErrors.label          "Дозволи &brandShortName;-у да шаље извештаје о грешкама унутар прегледача (укључујући и поруке грешке) Mozilla-и">
+<!ENTITY collectBrowserErrors.accesskey      "Д">
+<!ENTITY collectBrowserErrorsLearnMore.label "Сазнајте више">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Дозволи &brandShortName;-у да шаље Mozilla-и извештаје о рушењу">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "л">
 <!ENTITY crashReporterLearnMore.label    "Сазнајте више">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "Мрежни прокси">
 
 <!ENTITY connectionDesc.label            "Подешавање начина како се &brandShortName; повезује на интернет">
+
+<!ENTITY connectionSettingsLearnMore.label "Сазнајте више">
 <!ENTITY connectionSettings.label        "Поставке…">
 <!ENTITY connectionSettings.accesskey    "П">
 
 <!ENTITY httpCache.label                 "Кеширан веб садржај">
-
-<!ENTITY offlineStorage2.label           "Ванмрежни веб садржај и кориснички подаци">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Подаци сајта">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB простора">
 <!ENTITY clearCacheNow.label             "Очисти сад">
 <!ENTITY clearCacheNow.accesskey         "с">
-<!ENTITY clearOfflineAppCacheNow.label   "Очисти сад">
-<!ENTITY clearOfflineAppCacheNow.accesskey "т">
 <!ENTITY overrideSmartCacheSize.label    "Занемари аутоматско управљање кешом">
 <!ENTITY overrideSmartCacheSize.accesskey "З">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Аутоматски ажурирај претраживаче">
 <!ENTITY enableSearchUpdate2.accesskey   "п">
-
-<!ENTITY offlineStorageNotify.label               "Обавести ме када веб сајт затражи да смести податке за коришћење ван мреже">
-<!ENTITY offlineStorageNotify.accesskey           "ж">
-<!ENTITY offlineStorageNotifyExceptions.label     "Изузеци">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "И">
-
-<!ENTITY offlineAppsList3.label          "Следећи веб сајтови смеју да складиште податке за коришћење ван мреже">
-<!ENTITY offlineAppsList.height          "9em">
-<!ENTITY offlineAppsListRemove.label     "Уклони…">
-<!ENTITY offlineAppsListRemove.accesskey "У">
-<!ENTITY offlineAppRemove.confirm        "Уклони податке о сајту">
 
 <!ENTITY certificateTab.label            "Сертификати">
 <!ENTITY certPersonal2.description       "Када сервер затражи ваш лични сертификат">
