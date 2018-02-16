@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Gwybodaeth am y Dudalen">
 <!ENTITY pageInfoCmd.accesskey "w">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Dadfygiwr Dyluniad">
+<!ENTITY ldbCmd.accesskey "D">
 <!ENTITY mirrorTabCmd.label "Tab Drych">
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Rydych wedi diffodd eich meicroffon ar gyfer y wefan hon.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Rydych wedi rhwystro'r wefan rhag rhannu eich sgrin.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Rydych wedi rhwystro'r manylion lleoliad ar gyfer y wefan hon.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Rydych wedi rhwystro storio data ar gyfer y wefan hon.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Rydych wedi rhwystro hysbysiadau ar gyfer y wefan hon.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Rydych wedi rhwystro storio data parhaus ar gyfer y wefan hon.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Rydych wedi rhwystro tynnu data canvas o'r wefan hon.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Ffenestr Breifat Newydd">
 <!ENTITY newPrivateWindow.accesskey "B">
-<!ENTITY newNonRemoteWindow.label   "Ffenestr Newydd Nid e10s">
 
 <!ENTITY editMenu.label         "Golygu">
 <!ENTITY editMenu.accesskey       "G">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Dangos yr Holl Hanes">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Cyfaddasu">
-<!ENTITY appMenuCustomize.tooltip "Cyfaddasu'r Ddewislen a'r Barau Offer">
-<!ENTITY appMenuCustomizeExit.label "Gadael Cyfaddasu">
-<!ENTITY appMenuCustomizeExit.tooltip "Gorffen Cyfaddasu">
-
 <!ENTITY appMenuHistory.showAll.label "Dangos yr Holl Hanes">
 <!ENTITY appMenuHistory.clearRecent.label "Clirio Hanes Diweddar…">
 <!ENTITY appMenuHistory.restoreSession.label "Adfer y Sesiwn Flaenorol">
 <!ENTITY appMenuHistory.viewSidebar.label "Gweld Bar Ochr Hanes">
 <!ENTITY appMenuHistory.recentHistory.label "Hanes Diweddar">
 <!ENTITY appMenuHelp.label "Cymorth">
-<!ENTITY appMenuHelp.tooltip "Agor Dewislen Cymorth">
 
 <!ENTITY appMenuRemoteTabs.label "Tabiau wedi'u Cydweddu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Dim tabiau wedi eu cydweddu … eto!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Dewisiadau Cydweddu">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Agor Dewisiadau Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Mae angen i'ch cyfrif cael ei gwirio.">
 <!ENTITY appMenuRemoteTabs.signin.label "Mewngofnodwch i Sync">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Estyniad:">
 <!ENTITY urlbar.switchToTab.label     "Newid i dab:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Hoffech chi wella eich profiad chwilio drwy ychwanegu awgrymiadau?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Dysgu rhagor…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "d">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Na">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Iawn">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "i">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Awgrym:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Arddull Tudalen Sylfaenol">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 
-<!ENTITY pageReportIcon.tooltip            "Newid gosodiadau rhwystro llamlenni ar gyfer y gwefan">
-
 <!ENTITY allowPopups.accesskey "l">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Llusgwch eich hoff eitemau i'r bar offer neu'r ddewislen ychwanegol.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Angen rhagor o offer?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Dewiswch o filoedd o ychwanegion">
 <!ENTITY customizeMode.restoreDefaults "Adfer y Rhagosodiadau">
 <!ENTITY customizeMode.done "Gorffen">
 <!ENTITY customizeMode.titlebar "Bar Teitl">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Estyn Rhagor o Themâu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "E">
-<!ENTITY customizeMode.emptyOverflowList.description "Llusgwch a gollwng eitemau yma i'w cadw o fewn gafael ond allan o'ch bar offer…">
 <!ENTITY customizeMode.overflowList.title2 "Dewislen Gorlif">
 <!ENTITY customizeMode.overflowList.description "Llusgwch a gollwng yr eitemau hyn yma i'w cadw o fewn cyrraedd ond allan o'ch bar offer…">
 <!ENTITY customizeMode.uidensity "Dwysedd">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
 <!ENTITY pageAction.addToUrlbar.label "Ychwanegu i'r Llyfr Cyfeiriadau">
 <!ENTITY pageAction.removeFromUrlbar.label "Tynnu o'r Bar Cyfeiriadau">
-
 <!ENTITY pageAction.allowInUrlbar.label "Dangos yn y Bar Cyfeiriad">
 <!ENTITY pageAction.disallowInUrlbar.label "Peidio dangos yn y Bar Cyfeiriad">
 <!ENTITY pageAction.manageExtension.label "Rheoli Estyniad…">
