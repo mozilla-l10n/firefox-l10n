@@ -3,12 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "Seq'">
+<!ENTITY itemPhishing.label      "Eleq'om Taqoya'l">
 <!ENTITY itemPasswords.label     "Taq ewan tzij">
 <!ENTITY itemAntiVirus.label     "Chapöy chikopil">
 
 <!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Runuk'ulem k'o wi pa seq' taqoya'l. Ri taq runuk'ulem chi kijujunal ri taq taqoya'l k'o chi yeb'an pa Kinuk'ulem Rub'i' Taqoya'l.">
+<!ENTITY manualMark.label "Toq ninya' ketal taq rutzijol achi'el seq':">
+<!ENTITY manualMark.accesskey "T">
+<!ENTITY manualMarkModeMove.label "Kesilöx pa kiyakwuj &quot;Seq'&quot; rub'i' taqoya'l">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Keyuj">
+<!ENTITY manualMarkModeDelete.accesskey "K">
+<!ENTITY markAsReadOnSpam.label "Tiya' ketal ri taq rutzijol yetz'et chi e Seq' achi'el esik'in chik">
+<!ENTITY markAsReadOnSpam.accesskey "T">
+<!ENTITY enableAdaptiveJunkLogging.label "Titzij ri kitz'ib'axik ruchayub'al k'amonel seq'">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "T">
 <!ENTITY openJunkLog.label "Tik'ut pe tz'ib'anïk">
 <!ENTITY openJunkLog.accesskey "T">
+<!ENTITY resetTrainingData.label "Tiyuj Tojtob'enïk">
+<!ENTITY resetTrainingData.accesskey "T">
 
 <!-- Phishing Detector -->
 
