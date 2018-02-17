@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблокировали доступ этого веб-сайта к вашему микрофону.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Вы заблокировали доступ этого веб-сайта к вашему экрану.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Вы заблокировали доступ этого веб-сайта к информации о местоположении.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Вы заблокировали доступ этого веб-сайта к хранилищу данных.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблокировали уведомления с этого веб-сайта.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблокировали доступ этого веб-сайта к постоянному хранилищу.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Вы заблокировали всплывающие окна с этого сайта.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблокировали извлечение данных canvas с этого веб-сайта.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Н">
 <!ENTITY newPrivateWindow.label     "Новое приватное окно">
 <!ENTITY newPrivateWindow.accesskey "е">
-<!ENTITY newNonRemoteWindow.label   "Новое однопроцессное окно">
 
 <!ENTITY editMenu.label         "Правка">
 <!ENTITY editMenu.accesskey       "П">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Показать весь журнал">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Изменить">
-<!ENTITY appMenuCustomize.tooltip "Настроить меню и панели инструментов">
-<!ENTITY appMenuCustomizeExit.label "Выход из настройки">
-<!ENTITY appMenuCustomizeExit.tooltip "Завершить настройку">
-
 <!ENTITY appMenuHistory.showAll.label "Показать весь журнал">
 <!ENTITY appMenuHistory.clearRecent.label "Удалить историю…">
 <!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
 <!ENTITY appMenuHistory.viewSidebar.label "Боковая панель журнала">
 <!ENTITY appMenuHistory.recentHistory.label "Недавняя история">
 <!ENTITY appMenuHelp.label "Справка">
-<!ENTITY appMenuHelp.tooltip "Открыть меню Справка">
 
 <!ENTITY appMenuRemoteTabs.label "Облачные вкладки">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Пока здесь нет облачных вкладок!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хотите увидеть здесь ваши вкладки с других устройств?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки синхронизации">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Открыть настройки синхронизации">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Войдите, чтобы увидеть список вкладок с других устройств.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш аккаунт должен быть подтверждён.">
 <!ENTITY appMenuRemoteTabs.signin.label "Войти в Синхронизацию">
@@ -444,14 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Расширение:">
 <!ENTITY urlbar.switchToTab.label     "Перейти на вкладку:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Вы хотели бы расширить свои возможности поиска с помощью предложений?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Подробнее…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "о">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Нет">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "е">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "а">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Совет:">
@@ -730,8 +714,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Основной стиль страницы">
 <!ENTITY pageStylePersistentOnly.accesskey "О">
 
-<!ENTITY pageReportIcon.tooltip            "Изменить параметры блокировки всплывающих окон для этого веб-сайта">
-
 <!ENTITY allowPopups.accesskey "Р">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Синхро­низация">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Перетащите ваши любимые инструменты на панель инструментов или в расширенное меню.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Нужно больше инструментов?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберите нужные вам дополнения">
 <!ENTITY customizeMode.restoreDefaults "По умолчанию">
 <!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Заголовок">
@@ -877,7 +857,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "п">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Получить больше тем">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "о">
-<!ENTITY customizeMode.emptyOverflowList.description "Перетаскивайте элементы сюда, чтобы иметь их под рукой, но не на панели инструментов…">
 <!ENTITY customizeMode.overflowList.title2 "Расширенное меню">
 <!ENTITY customizeMode.overflowList.description "Перетаскивайте элементы сюда, чтобы иметь их под рукой, но не на панели инструментов…">
 <!ENTITY customizeMode.uidensity "Значки">
@@ -1008,7 +987,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Действия на странице">
 <!ENTITY pageAction.addToUrlbar.label "Добавить на панель адреса">
 <!ENTITY pageAction.removeFromUrlbar.label "Удалить с панели адреса">
-
 <!ENTITY pageAction.allowInUrlbar.label "Отображать на панели адреса">
 <!ENTITY pageAction.disallowInUrlbar.label "Не отображать на панели адреса">
 <!ENTITY pageAction.manageExtension.label "Управление расширением…">

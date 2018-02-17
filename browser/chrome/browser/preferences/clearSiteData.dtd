@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title                 "Удалить данные">
+<!ENTITY window.title                 "Удаление данных">
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Удаление всех кук и данных сайтов, хранимых в &brandShortName;, может привести к разрегистрации вас на веб-сайтах и удалению данных автономных веб-сайтов. Очистка кэша не затронет ваши логины.">
@@ -18,5 +18,5 @@
 
 <!ENTITY button.cancel.label          "Отмена">
 <!ENTITY button.cancel.accesskey      "м">
-<!ENTITY button.clear.label           "Очистить">
+<!ENTITY button.clear.label           "Удалить">
 <!ENTITY button.clear.accesskey       "и">
