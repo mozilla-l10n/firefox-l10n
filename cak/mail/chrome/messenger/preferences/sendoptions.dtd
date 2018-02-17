@@ -4,8 +4,13 @@
 
 <!ENTITY dialog.title                 "Ketaq Cha'oj">
 <!ENTITY sendMail.title               "Rub'anikil Rucholajem Tzij">
+<!ENTITY autoDowngrade.label          "Ketaq rutzijol achi'el li'an cholan tzij we tikirel">
+<!ENTITY autoDowngrade.accesskey      "t">
+<!ENTITY sendMaildesc.label           "Toq yetaq taq rutzijol pa HTML b'anikil chuqa' jun o ch'aqa' chik k'ulunela' man echolajin ta chi yetikïr nikik'ül taqoya'l HTML:">
 <!ENTITY askMe.label                  "Tik'utüx pe chwe achike ninb'än">
 <!ENTITY askMe.accesskey              "k">
+<!ENTITY convertPlain.label           "Tik'ex ri rutzijol pa li'an cholan tzij">
+<!ENTITY convertPlain.accesskey       "T">
 
 <!ENTITY AddHtmlDomain.label          "Titz'aqatisäx…">
 <!ENTITY AddHtmlDomain.accesskey      "t">
