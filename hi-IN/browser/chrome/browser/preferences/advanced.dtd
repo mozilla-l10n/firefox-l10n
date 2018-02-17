@@ -37,6 +37,9 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "हम आपको हमेशा विकल्प देने का प्रयास करते हैं और केवल आवश्यक सूचनाएँ एकत्रित करते हैं ताकि &brandShortName; सबके लिए व बेहतर हो. हम व्यक्तिगत जानकारी लेने से पहले हमेशा अनुमति मांगते हैं.">
 <!ENTITY dataCollectionPrivacyNotice.label    "गोपनीयता सूचना">
 
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "अधिक जानें">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; को स्वतः क्रैश रिपोर्ट Mozilla को भेजने की अनुमति दें">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "अधिक जानें">
