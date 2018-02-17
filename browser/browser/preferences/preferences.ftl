@@ -43,8 +43,8 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = יש להפעיל את { -brand-short-name } מחדש כדי להפעיל תכונה זו.
-feature-disable-requires-restart = יש להפעיל מחדש את { -brand-short-name } כדי לנטל את תכונה זו.
+feature-disable-requires-restart = יש להפעיל את { -brand-short-name } מחדש כדי להשבית תכונה זו.
 should-restart-title = הפעלת { -brand-short-name } מחדש
-should-restart-ok = להפעיל את { -brand-short-name } מחדש כעת
+should-restart-ok = הפעלת { -brand-short-name } מחדש כעת
 revert-no-restart-button = שחזור
 restart-later = הפעלה מחדש מאוחר יותר

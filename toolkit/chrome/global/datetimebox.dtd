@@ -16,6 +16,7 @@
 <!ENTITY time.minute.label "דקות">
 <!ENTITY time.second.label "שניות">
 <!ENTITY time.millisecond.label "מילישניות">
+<!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
 
