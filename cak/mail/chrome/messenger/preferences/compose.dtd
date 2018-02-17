@@ -62,5 +62,7 @@
 <!ENTITY sendOptions.label                     "Kejaq Cha'oj…">
 <!ENTITY sendOptions.accesskey                 "K">
 
+<!ENTITY attachmentReminder.label              "Kenik'öx taq taqoj nrajo' na">
+<!ENTITY attachmentReminder.accesskey          "n">
 <!ENTITY attachmentReminderOptions.label       "Kik'u'x tzij…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">

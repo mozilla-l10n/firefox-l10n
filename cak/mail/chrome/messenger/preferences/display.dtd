@@ -19,10 +19,15 @@
 <!ENTITY smaller.label                    "Ko'öl">
 <!ENTITY quotedTextColor.label            "B'onil:">
 <!ENTITY quotedTextColor.accesskey        "o">
+<!ENTITY displayWidth.label               "Kitzijol Li'an Cholan Tzij">
+<!ENTITY displayText.label                "Toq yek'ut pe kitzijol li'an cholan tzij esik'in:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Kek'ut pe taq emotikon achi'el taq wachib'äl">
+<!ENTITY convertEmoticons.accesskey    "e">
 
 <!-- labels -->
+<!ENTITY displayTagsText.label     "Ri taq yaketal tikirel ye'okisäx richin niya' kiwäch o kiq'ij taq atzijol.">
 <!ENTITY newTagButton.label        "K'ak'a'…">
 <!ENTITY newTagButton.accesskey    "K">
 <!ENTITY editTagButton1.label      "Tinuk'…">
@@ -44,13 +49,23 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Sik'inem">
 <!ENTITY display.caption                  "Tik'ut pe">
+<!ENTITY showCondensedAddresses.label     "Titz'et xa xe ri b'i'aj xtik'ut chi kiwäch ri winaqi' pa kitz'ib'awuj wochochib'al">
+<!ENTITY showCondensedAddresses.accesskey "T">
 
+<!ENTITY autoMarkAsRead.label             "Ruyonil tiya' ketal taq tzijol achi'el sik'in">
+<!ENTITY autoMarkAsRead.accesskey         "R">
+<!ENTITY markAsReadNoDelay.label          "Anin pa ruwäch">
+<!ENTITY markAsReadNoDelay.accesskey      "p">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Chi rij nik'ut chi">
+<!ENTITY markAsReadDelay.accesskey        "n">
 <!ENTITY secondsLabel.label               "taq xil ramaj">
 <!ENTITY openMsgIn.label                  "Kejaq taq tzijol pa:">
 <!ENTITY openMsgInNewTab.label            "Jun k'ak'a' ruwi'">
 <!ENTITY openMsgInNewTab.accesskey        "r">
 <!ENTITY reuseExpRadio0.label             "Jun k'ak'a' rutzuwäch tzijol">
 <!ENTITY reuseExpRadio0.accesskey         "k">
+<!ENTITY reuseExpRadio1.label             "K'o jun rutzuwäch tzijol">
+<!ENTITY reuseExpRadio1.accesskey         "o">
