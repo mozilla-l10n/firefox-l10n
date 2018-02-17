@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "ล้างข้อมูล">
+<!ENTITY window.width                 "35em">
+
+
+<!ENTITY clearSiteData.label          "คุกกี้และข้อมูลไซต์">
+
+<!ENTITY clearCache.label             "เนื้อหาเว็บที่ถูกแคชไว้">
+
+<!ENTITY button.cancel.label          "ยกเลิก">
+<!ENTITY button.cancel.accesskey      "ย">
+<!ENTITY button.clear.label           "ล้าง">
+<!ENTITY button.clear.accesskey       "ล">

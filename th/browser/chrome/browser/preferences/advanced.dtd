@@ -37,6 +37,8 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องจัดหาและปรับปรุง &brandShortName; สำหรับทุกคน เราร้องขอการอนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ">
 <!ENTITY dataCollectionPrivacyNotice.label    "ประกาศความเป็นส่วนตัว">
 
+<!ENTITY collectBrowserErrorsLearnMore.label "เรียนรู้เพิ่มเติม">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องไปยัง Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "น">
 <!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
@@ -46,12 +48,12 @@ available. -->
 <!ENTITY networkProxy.label              "พร็อกซีเครือข่าย">
 
 <!ENTITY connectionDesc.label            "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
+
+<!ENTITY connectionSettingsLearnMore.label "เรียนรู้เพิ่มเติม">
 <!ENTITY connectionSettings.label        "การตั้งค่า…">
 <!ENTITY connectionSettings.accesskey    "ต">
 
 <!ENTITY httpCache.label                 "เนื้อหาเว็บที่ถูกแคชไว้">
-
-<!ENTITY offlineStorage2.label           "เนื้อหาเว็บออฟไลน์และข้อมูลผู้ใช้">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "ข้อมูลไซต์">
@@ -72,8 +74,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "ล้างตอนนี้">
 <!ENTITY clearCacheNow.accesskey         "ล">
-<!ENTITY clearOfflineAppCacheNow.label   "ล้างตอนนี้">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ล">
 <!ENTITY overrideSmartCacheSize.label    "เขียนทับการจัดการแคชอัตโนมัติ">
 <!ENTITY overrideSmartCacheSize.accesskey "ค">
 
@@ -110,17 +110,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "อัปเดตเครื่องมือค้นหาโดยอัตโนมัติ">
 <!ENTITY enableSearchUpdate2.accesskey   "อ">
-
-<!ENTITY offlineStorageNotify.label               "แจ้งคุณเมื่อเว็บไซต์ขอจัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
-<!ENTITY offlineStorageNotify.accesskey           "จ">
-<!ENTITY offlineStorageNotifyExceptions.label     "ข้อยกเว้น…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "อ">
-
-<!ENTITY offlineAppsList3.label          "เว็บไซต์ดังต่อไปนี้ได้รับอนุญาตให้จัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "เอาออก…">
-<!ENTITY offlineAppsListRemove.accesskey "อ">
-<!ENTITY offlineAppRemove.confirm        "เอาข้อมูลออฟไลน์ออก">
 
 <!ENTITY certificateTab.label            "ใบรับรอง">
 <!ENTITY certPersonal2.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนบุคคลของคุณ">

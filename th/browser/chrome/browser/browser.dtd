@@ -380,6 +380,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ค่ากำหนด Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "เปิดค่ากำหนด Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ลงชื่อเข้าเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้า Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "จัดการอุปกรณ์…">
