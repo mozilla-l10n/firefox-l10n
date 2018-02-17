@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Мы стремимся предоставить вам выбор и собирать только то, что нам нужно, для выпуска и улучшения &brandShortName; для всех и каждого. Мы всегда спрашиваем разрешения перед получением личной информации.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Уведомление о приватности">
 
+<!ENTITY collectBrowserErrors.label          "Разрешить &brandShortName; отправлять сообщения об ошибках браузера (в том числе текст ошибок) в Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "з">
+<!ENTITY collectBrowserErrorsLearnMore.label "Подробнее">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Разрешить &brandShortName; отправлять сообщения о падениях в Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "ш">
 <!ENTITY crashReporterLearnMore.label    "Подробнее">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "Прокси-сервер">
 
 <!ENTITY connectionDesc.label            "Настройка параметров соединения &brandShortName; с Интернетом">
+
+<!ENTITY connectionSettingsLearnMore.label "Подробнее">
 <!ENTITY connectionSettings.label        "Настроить…">
 <!ENTITY connectionSettings.accesskey    "с">
 
 <!ENTITY httpCache.label                 "Кэшированное веб-содержимое">
-
-<!ENTITY offlineStorage2.label           "Автономное веб-содержимое и данные пользователя">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Данные сайтов">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "МБ на диске">
 <!ENTITY clearCacheNow.label             "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey         "ч">
-<!ENTITY clearOfflineAppCacheNow.label   "Очистить сейчас">
-<!ENTITY clearOfflineAppCacheNow.accesskey "й">
 <!ENTITY overrideSmartCacheSize.label    "Отключить автоматическое управление кэшем">
 <!ENTITY overrideSmartCacheSize.accesskey "л">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Автоматически обновлять поисковые системы">
 <!ENTITY enableSearchUpdate2.accesskey   "л">
-
-<!ENTITY offlineStorageNotify.label               "Сообщать, когда веб-сайт просит сохранить данные для автономной работы">
-<!ENTITY offlineStorageNotify.accesskey           "б">
-<!ENTITY offlineStorageNotifyExceptions.label     "Исключения…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "к">
-
-<!ENTITY offlineAppsList3.label          "Следующим веб-сайтам разрешено хранить данные для работы в автономном режиме">
-<!ENTITY offlineAppsList.height          "10em">
-<!ENTITY offlineAppsListRemove.label     "Удалить…">
-<!ENTITY offlineAppsListRemove.accesskey "д">
-<!ENTITY offlineAppRemove.confirm        "Удалить данные автономных веб-сайтов">
 
 <!ENTITY certificateTab.label            "Сертификаты">
 <!ENTITY certPersonal2.description       "Когда сервер запрашивает личный сертификат">
