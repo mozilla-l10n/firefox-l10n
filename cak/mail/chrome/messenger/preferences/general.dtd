@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "&brandShortName; Rutikirib'al Ruxaq">
+<!ENTITY enableStartPage.label            "Toq nitikirisäx &brandShortName; tik'ut ri Tikirib'äl Ruxaq pa ruk'ojlemal tzijol">
+<!ENTITY enableStartPage.accesskey        "T">
 <!ENTITY location.label                   "K'ojlib'äl:">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Titzolïx ri K'o wi">
@@ -19,6 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "m">
 <!ENTITY showAnimatedAlert.label          "Tik'ut jun retal k'ayewal">
 <!ENTITY showAnimatedAlert.accesskey      "T">
+<!ENTITY notificationAlertSettings2.label "Kitzijol k'ayewal chuqa' k'oxom k'o wi yatikïr ye'achüp ri ketal pa rupas Kitzijol Kajowab'al Q'inoj.">
 <!ENTITY customizeMailAlert.label         "Tichinäx…">
 <!ENTITY customizeMailAlert.accesskey     "c">
 
@@ -27,6 +30,8 @@
 
 <!ENTITY play.label                       "Titzij">
 <!ENTITY play.accesskey                   "T">
+<!ENTITY systemsound.label                "Ruk'oxom q'inoj k'o wi richin k'ak'a' taqoya'l">
+<!ENTITY systemsound.accesskey            "i">
 <!ENTITY customsound.label                "Tokisäx re ruyakb'al k'oxom re'">
 <!ENTITY customsound.accesskey            "o">
 <!ENTITY browse.label                     "Tokik'amayin…">

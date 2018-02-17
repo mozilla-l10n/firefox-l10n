@@ -2,8 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY notificationsDialog2.title       "Tichinäx K'ak'a' Rutzijol Taqoya'l">
 <!ENTITY window.width                     "30em">
 
+<!ENTITY alertCustomization.intro         "Ticha' achike taq k'ojlib'äl yek'ut pa ri rutzijol k'ayewal:">
+<!ENTITY previewText.label                "Nab'ey Rutzub'al Cholan Rutzij Tzijol">
+<!ENTITY previewText.accesskey            "R">
 <!ENTITY subject.label                    "Taqikil">
 <!ENTITY subject.accesskey                "T">
 <!ENTITY sender.label                     "Taqonel">

@@ -69,5 +69,12 @@
 <!ENTITY  useDocumentFonts.accesskey              "a">
 
 <!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Elem Taqoya'l:">
+<!ENTITY sendDefaultCharset.accesskey     "e">
 <!ENTITY languagesTitle2.label            "Rucholajil rucholajem tzij">
+<!ENTITY composingDescription2.label      "Tijikib'äx ri kicholajil cholan tzij e k'o wi richin nitaq chuqa' nik'ul taqoya'l">
 
+<!ENTITY viewDefaultCharsetList.label     "Okem Taqoya'l:">
+<!ENTITY viewDefaultCharsetList.accesskey  "O">
+<!ENTITY replyInDefaultCharset3.label     "Tokisäx pa tzolin taq tzij ri kicholajil cholan tzij k'o wi toq tikirel">
+<!ENTITY replyInDefaultCharset3.accesskey "k">
