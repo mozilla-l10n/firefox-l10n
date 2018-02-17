@@ -26,13 +26,27 @@
 <!ENTITY bgColor.accesskey                    "p">
 <!ENTITY restoreHTMLDefaults.label            "Ketzolïx ri taq wachinel e k'o wi">
 <!ENTITY restoreHTMLDefaults.accesskey        "K">
+<!ENTITY defaultToParagraph.label             "Tokisäx rub'anikil Motzaj chuwäch Ruch'akul Cholan Rutzij k'o wi">
+<!ENTITY defaultToParagraph.accesskey         "M">
 
+<!ENTITY spellCheck.label                     "Tinik'öx tz'ib'anikil chuwäch nitaq">
+<!ENTITY spellCheck.accesskey                 "T">
+<!ENTITY spellCheckInline.label               "Tinik'öx tz'ib'anikil toq yatz'ib'an">
+<!ENTITY spellCheckInline1.accesskey          "T">
 <!ENTITY languagePopup.label                  "Ch'ab'äl:">
 <!ENTITY languagePopup.accessKey              "C">
 <!ENTITY downloadDictionaries.label           "Keqasäx ch'aqa' chik taq Soltzij">
 
+<!ENTITY warnOnSendAccelKey.label             "Tijikib'äx toq ye'okisäx ruq'a' rokem pitz'b'äl richin nitaq rutzijol">
+<!ENTITY warnOnSendAccelKey.accesskey         "T">
+<!ENTITY autoSave.label                       "Jutaqil Ruyon Tiyak">
+<!ENTITY autoSave.accesskey                   "R">
 <!ENTITY autoSaveEnd.label                    "taq ch'utiramaj">
 
+<!ENTITY emailCollectionPicker.label           "Ruyonil ketz'aqatisäx ri kochochib'al taqoya'l ye'el pa nu:">
+<!ENTITY emailCollectionPicker.accesskey       "R">
+<!ENTITY addressingTitle.label                 "Tiyonitz'aqatisäx Ochochib'äl">
+<!ENTITY autocompleteText.label                "Toq nitz'ib'äx jun ochochib'äl, kekanöx ri nikik'äm ki' rik'in pa:">
 <!ENTITY addressingEnable.label                "Aj Wawe' Kiwujil Ochochib'äl">
 <!ENTITY addressingEnable.accesskey            "W">
 <!ENTITY directories.label                     "Rucholb'al K'uxasamaj:">
