@@ -29,4 +29,4 @@
 <!ENTITY tabCrashed.emailMe "Daha fazla bilgi ortaya çıktığında bana e-posta gönder">
 <!ENTITY tabCrashed.reportSent "Çökme raporu gönderildi. Daha iyi bir &brandShortName; yarattığınız için teşekkürler!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Arka plan sekmelerini rapor edin">
-<!ENTITY tabCrashed.autoSubmit3 "&brandShortName; çöktüğünde çökme raporunu kendiliğinden görmek üzere ayarla.">
+<!ENTITY tabCrashed.autoSubmit3 "&brandShortName; çöktüğünde çökme raporlarını kendiliğinden göndermek üzere ayarla.">
