@@ -69,3 +69,5 @@
 <!ENTITY reuseExpRadio0.accesskey         "k">
 <!ENTITY reuseExpRadio1.label             "K'o jun rutzuwäch tzijol">
 <!ENTITY reuseExpRadio1.accesskey         "o">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Titz'apïx rutzuwäch/tab rutzijol toq nisilöx o niyuj">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "T">

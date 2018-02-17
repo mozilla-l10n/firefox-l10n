@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  fontsAndEncodingsDialog.title           "Kiwäch Tz'ib' &amp; Ewan taq Sik'inem">
 
 <!ENTITY  language.label                          "Ruwäch tz'ib' richin:">
 <!ENTITY  language.accesskey                      "t">
@@ -61,6 +62,11 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans-serif">
 
 <!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Ruwäch Tz'ib' Nichajïx">
+<!ENTITY  useFixedWidthForPlainText.label         "Tokisäx nïm ruwäch tz'ib' pa kitzijol li'an cholan tzij">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  useDocumentFonts.label                  "Tiya' q'ij chi ri taq rutzijol yekokisaj juley chik taq tz'ib'">
+<!ENTITY  useDocumentFonts.accesskey              "a">
 
 <!-- Language settings -->
 <!ENTITY languagesTitle2.label            "Rucholajil rucholajem tzij">
