@@ -19,4 +19,6 @@ is displayed at the end of the line. The translations of the
 totalOpenTimeBefore.label and totalOpenTimeEnd.label parts don't have to mean
 the exact same thing as in English; please try instead to translate the whole
 sentence. -->
+<!ENTITY  totalOpenTimeBefore.label       "Tik'ut pe K'ak'a' Rutzijol Ruk'ayewal Tzijol pa">
+<!ENTITY  totalOpenTimeBefore.accesskey   "K">
 <!ENTITY  totalOpenTimeEnd.label          "taq nich'ramaj">
