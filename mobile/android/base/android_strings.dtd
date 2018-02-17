@@ -810,6 +810,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "ขออภัย! &brandShortName; ตัวนี้ไม่สามารถทำงานบนอุปกรณ์นี้ได้ (&formatS1;, &formatS2;) โปรดดาวน์โหลดรุ่นที่ถูกต้อง">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "ไม่สามารถเปิด &brandShortName; โปรดติดตั้งใหม่และลองอีกครั้ง">
+
 <!ENTITY eol_notification_title2 "&brandShortName; จะไม่ได้รับการอัปเดตอีกต่อไป">
 <!ENTITY eol_notification_summary "แตะเพื่อเรียนรู้เพิ่มเติม">
 
