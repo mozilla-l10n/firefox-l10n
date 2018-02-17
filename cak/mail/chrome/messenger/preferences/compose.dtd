@@ -12,6 +12,8 @@
 <!ENTITY forwardMsg.accesskey                 "T">
 <!ENTITY inline.label                         "Pa k'amab'ey">
 <!ENTITY asAttachment.label                   "Achi'el Rutz'aqat">
+<!ENTITY addExtension.label                   "titz'aqatisäx k'amal pa ri rub'i' yakb'äl">
+<!ENTITY addExtension.accesskey               "k">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Ruwäch tz'ib':">
