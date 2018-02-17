@@ -58,7 +58,7 @@
 <!ENTITY emptyTrashOnExit.label "Tyhjennä roskakori kun ohjelma lopetetaan">
 <!ENTITY emptyTrashOnExit.accesskey "e">
 <!ENTITY loginAtStartup.label "Tarkista saapunut posti käynnistyksen yhteydessä">
-<!ENTITY loginAtStartup.accesskey "T">
+<!ENTITY loginAtStartup.accesskey "s">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
