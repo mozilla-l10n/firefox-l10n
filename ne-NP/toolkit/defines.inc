@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE अंग्रेजी (US)
+#define MOZ_LANG_TITLE नेपाली
