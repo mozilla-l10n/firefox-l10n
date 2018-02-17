@@ -37,7 +37,7 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nós esforçamos-nos para lhe fornecer escolhas e recolher apenas o que precisamos para fornecer e melhorar o &brandShortName; para toda a gente. Pedimos sempre permissão antes de receber informação pessoal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Aviso de privacidade">
 
-<!ENTITY collectBrowserErrors.label          "Permitir ao &brandShortName; que envie relatórios de erro do navegador (incluindo mensagens de erro) para a Mozilla">
+<!ENTITY collectBrowserErrors.label          "Permitir ao &brandShortName; enviar relatórios de erro do navegador (incluindo mensagens de erro) para a Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "n">
 <!ENTITY collectBrowserErrorsLearnMore.label "Saber mais">
 
