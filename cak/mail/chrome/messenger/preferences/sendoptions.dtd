@@ -11,7 +11,17 @@
 <!ENTITY askMe.accesskey              "k">
 <!ENTITY convertPlain.label           "Tik'ex ri rutzijol pa li'an cholan tzij">
 <!ENTITY convertPlain.accesskey       "T">
+<!ENTITY sendHTML.label               "Titaq ri rutzijol pa HTML junam">
+<!ENTITY sendHTML.accesskey           "T">
+<!ENTITY sendBoth.label               "Titaq ri rutzijol pa ri ka'i' rub'anikil li'an cholan tzij chuqa' HTML">
+<!ENTITY sendBoth.accesskey           "a">
+<!ENTITY override.label               "Ch'utitzijol: Tokisäx ri Kitz'ib'awuj Ochochib'äl richin yejikib'äx ri ajowanel taq kib'anikil kib'i' achib'il.">
 
+<!ENTITY domaindesc.label             "Toq natäq jun taqoya'l pa jun ochochib'äl rik'in jun chi ke ri ajk'amal echolajin ikim, &brandShortName; ruyonil xtutäq ri rutzijol rik'in ri ütz rub'anikil.">
+<!ENTITY HTMLTab.label                "HTML Taq Ajk'amal">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Li'an Cholan Tzij Ajk'amal">
+<!ENTITY PlainTextTab.accesskey       "L">
 <!ENTITY AddHtmlDomain.label          "Titz'aqatisäx…">
 <!ENTITY AddHtmlDomain.accesskey      "t">
 <!ENTITY AddPlainText.label           "Titz'aqatisäx…">
@@ -21,3 +31,7 @@
 <!ENTITY DeletePlainText.label        "Tiyuj">
 <!ENTITY DeletePlainText.accesskey    "y">
 
+<!ENTITY add.htmltitle                "Titz'aqatisäx HTML Rub'i' Ajk'amal">
+<!ENTITY add.htmldomain               "HTML Rub'i' Ajk'amal:">
+<!ENTITY add.plaintexttitle           "Titz'aqatisäx Li'an Cholan Tzij Rub'i' Ajk'amal">
+<!ENTITY add.plaintextdomain          "Li'an Cholan Tzij Rub'i' Ajk'amal:">
