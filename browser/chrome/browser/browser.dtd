@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "חסמת את המיקרופון שלך מפני אתר זה.">
 <!ENTITY urlbar.screenBlocked.tooltip            "חסמת מפני האתר הזה את האפשרות לשתף את המסך שלך.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "חסמת מפני האתר הזה לגשת לנתוני המיקום שלך.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "האפשרות לאחסן נתונים נחסמה מפני אתר זה.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "האפשרות להציג הודעות נחסמה מפני אתר זה.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "חסמת את האתר הזה משמירת נתונים קבועים.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "חסמת חלונות קופצים עבור אתר זה.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "חילוץ נתוני משטחי ציור עבור אתר זה נחסמה.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ח">
 <!ENTITY newPrivateWindow.label     "חלון פרטי חדש">
 <!ENTITY newPrivateWindow.accesskey "פ">
-<!ENTITY newNonRemoteWindow.label   "חלון חדש נטול ריבוי תהליכים">
 
 <!ENTITY editMenu.label         "עריכה">
 <!ENTITY editMenu.accesskey       "ע">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "הצגת כל ההיסטוריה">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "התאמה אישית">
-<!ENTITY appMenuCustomize.tooltip "התאמה אישית של התפריט וסרגלי הכלים">
-<!ENTITY appMenuCustomizeExit.label "יציאה ממצב ההתאמה האישית">
-<!ENTITY appMenuCustomizeExit.tooltip "סיום ההתאמה האישית">
-
 <!ENTITY appMenuHistory.showAll.label "הצגת כל ההיסטוריה">
 <!ENTITY appMenuHistory.clearRecent.label "מחיקת היסטוריה אחרונה…">
 <!ENTITY appMenuHistory.restoreSession.label "שחזור הפעלה קודמת">
 <!ENTITY appMenuHistory.viewSidebar.label "הצגת סרגל הצד היסטוריה">
 <!ENTITY appMenuHistory.recentHistory.label "היסטוריה אחרונה">
 <!ENTITY appMenuHelp.label "עזרה">
-<!ENTITY appMenuHelp.tooltip "פתיחת תפריט העזרה">
 
 <!ENTITY appMenuRemoteTabs.label "לשוניות מסונכרנות">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "אין לשוניות מסונכרנות… בינתיים!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "להציג כאן את הלשוניות שלך מהתקנים אחרים?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "העדפות Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "פתיחת העדפות Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "יש להיכנס כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
 <!ENTITY appMenuRemoteTabs.unverified.label "יש לאמת את החשבון שלך.">
 <!ENTITY appMenuRemoteTabs.signin.label "התחברות אל Sync">
@@ -444,14 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "הרחבה:">
 <!ENTITY urlbar.switchToTab.label     "מעבר ללשונית:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "האם לשפר את חוויית החיפוש שלך בעזרת הצעות?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "מידע נוסף…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "מ">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "לא">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ל">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "כן">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "כ">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "עצה:">
@@ -730,8 +714,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "סגנון דף בסיסי">
 <!ENTITY pageStylePersistentOnly.accesskey "ס">
 
-<!ENTITY pageReportIcon.tooltip            "שינוי הגדרות חסימת חלונות קופצים עבור אתר זה">
-
 <!ENTITY allowPopups.accesskey "ח">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "ניתן לגרור את הפריטים המועדפים עליך לתוך סרגל הכלים או לתפריט הצף.">
-<!ENTITY customizeMode.menuAndToolbars.empty "מעוניינים בכלים נוספים?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "לבחור מאלפי תוספות">
 <!ENTITY customizeMode.restoreDefaults "שחזור לבררות מחדל">
 <!ENTITY customizeMode.done "סיום">
 <!ENTITY customizeMode.titlebar "שורת כותרת">
@@ -877,7 +857,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "נ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "קבלת ערכות נושא נוספות">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ק">
-<!ENTITY customizeMode.emptyOverflowList.description "יש לגרור ולשחרר לכאן פריטים כדי להשאיר אותם בהישג יד אך לא בסרגל הכלים…">
 <!ENTITY customizeMode.overflowList.title2 "התפריט הצף">
 <!ENTITY customizeMode.overflowList.description "ניתן לגרור ולשחרר לכאן פריטים כדי להשאיר אותם בהישג יד אך לא בסרגל הכלים…">
 <!ENTITY customizeMode.uidensity "צפיפות">
@@ -1008,7 +987,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "פעולות דף">
 <!ENTITY pageAction.addToUrlbar.label "הוספה לשורת הכתובת">
 <!ENTITY pageAction.removeFromUrlbar.label "הסרה משורת הכתובת">
-
 <!ENTITY pageAction.allowInUrlbar.label "להציג בשורת הכתובת">
 <!ENTITY pageAction.disallowInUrlbar.label "לא להציג בשורת הכתובת">
 <!ENTITY pageAction.manageExtension.label "ניהול הרחבה…">
