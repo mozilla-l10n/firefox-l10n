@@ -37,6 +37,7 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องจัดหาและปรับปรุง &brandShortName; สำหรับทุกคน เราร้องขอการอนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ">
 <!ENTITY dataCollectionPrivacyNotice.label    "ประกาศความเป็นส่วนตัว">
 
+<!ENTITY collectBrowserErrors.label          "อนุญาตให้ &brandShortName; ส่งรายงานข้อผิดพลาดเบราว์เซอร์ (รวมทั้งข้อความแสดงข้อผิดพลาด) ไปยัง Mozilla">
 <!ENTITY collectBrowserErrorsLearnMore.label "เรียนรู้เพิ่มเติม">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องไปยัง Mozilla">
