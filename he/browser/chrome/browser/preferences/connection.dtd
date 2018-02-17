@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "קבע תצורה לשרתים מתווכים לגישה לאינטרנט">
+
+<!ENTITY  proxyTitle.label2             "הגדרת גישה לאינטרנט דרך מתווך">
 <!ENTITY  noProxyTypeRadio.label        "ללא שרת מתווך">
 <!ENTITY  noProxyTypeRadio.accesskey    "ל">
 <!ENTITY  systemTypeRadio.label         "השתמש בהגדרות השרת המתווך של המערכת">

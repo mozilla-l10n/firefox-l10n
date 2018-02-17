@@ -38,6 +38,8 @@ available. -->
 <!ENTITY dataCollectionPrivacyNotice.label    "הצהרת פרטיות">
 
 <!ENTITY collectBrowserErrors.label          "לאפשר ל־&brandShortName; לשלוח דיווחי שגיאות בדפדפן (לרבות הודעות שגיאה) אל Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "ד">
+<!ENTITY collectBrowserErrorsLearnMore.label "מידע נוסף">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "לאפשר ל־&brandShortName; לשלוח דיווחי קריסה ל־Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "ד">
@@ -49,6 +51,7 @@ available. -->
 
 <!ENTITY connectionDesc.label            "הגדרת אופן החיבור של &brandShortName; לאינטרנט">
 
+<!ENTITY connectionSettingsLearnMore.label "מידע נוסף">
 <!ENTITY connectionSettings.label        "הגדרות...">
 <!ENTITY connectionSettings.accesskey    "ה">
 

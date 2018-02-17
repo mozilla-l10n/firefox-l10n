@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "ניקוי נתונים">
+<!ENTITY window.width                 "35em">
+
+
+<!ENTITY clearSiteData.label          "עוגיות ונתוני אתרים">
+<!ENTITY clearSiteData.description    "יתכן שהמשתמש שלך יצא מאתרים במקרה של ניקוי">
+
+<!ENTITY clearCache.label             "תוכן אינטרנט במטמון">
+<!ENTITY clearCache.accesskey         "א">
+<!ENTITY clearCache.description       "יאלץ אתרים לטעון מחדש תמונות ונתונים">
+
+<!ENTITY button.cancel.label          "ביטול">
+<!ENTITY button.clear.label           "ניקוי">
+<!ENTITY button.clear.accesskey       "נ">

@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "מידע על הדף">
 <!ENTITY pageInfoCmd.accesskey "מ">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "ניפוי שגיאות פריסה">
+<!ENTITY ldbCmd.accesskey "פ">
 <!ENTITY mirrorTabCmd.label "שכפול לשונית">
 <!ENTITY mirrorTabCmd.accesskey "כ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
