@@ -31,9 +31,16 @@ sentence. -->
 <!ENTITY  completeNotification.label          "rik'in rub'i' taqonel chuqa' nab'ey rutzub'al tzijol">
 <!ENTITY  buddyInfoOnly.label                 "xa xe rik'in rub'i' taqonel">
 <!ENTITY  dummyNotification.label             "majun chik etamab'äl">
+<!ENTITY  getAttention.label                  "Tiyuk'umäx ri ruch'akulal kikajtz'ik samaj">
+<!ENTITY  getAttention.accesskey              "T">
+<!ENTITY  getAttentionMac.label               "Tisilöx ruwachib'al dock">
+<!ENTITY  getAttentionMac.accesskey           "o">
+<!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Titzij jun k'oxom">
 <!ENTITY  play.label                          "Titzij">
 <!ENTITY  play.accesskey                      "T">
+<!ENTITY  systemSound.label                   "Ruk'oxom q'inoj k'o wi richin k'ak'a' taqoya'l">
+<!ENTITY  systemSound.accesskey               "R">
 <!ENTITY  customsound.label                   "Tokisäx re ruyakb'al k'oxom re'">
 <!ENTITY  customsound.accesskey               "T">
 <!ENTITY  browse.label                        "Tokik'amayin…">
@@ -44,6 +51,14 @@ sentence. -->
 <!ENTITY messageStyleTheme.label           "Wachinïk:">
 <!ENTITY messageStyleTheme.accesskey       "W">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Taq roqowinïk">
 <!ENTITY messageStyleDarkTheme.label       "Q'equ'm">
+<!ENTITY messageStylePaperSheetsTheme.label "Taq Ruxaq Wuj">
 <!ENTITY messageStyleSimpleTheme.label     "Relik">
 <!ENTITY messageStyleDefaultTheme.label    "K'o wi">
+<!ENTITY messageStyleVariant.label         "Rujalik:">
+<!ENTITY messageStyleVariant.accesskey     "R">
+<!ENTITY messageStyleShowHeader.label      "Tik'ut Jub'i'aj">
+<!ENTITY messageStyleShowHeader.accesskey  "J">
+<!ENTITY messageStyleNoPreview.title       "Majun nab'ey rutzub'al">
+<!ENTITY messageStyleNoPreview.description "Man okel ta re wachinïk re' o man wachel ta wakami (chupül tz'aqat, ütz-rub'anikil, …).">
