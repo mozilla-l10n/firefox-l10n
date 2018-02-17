@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Talɣut ɣef usebter">
 <!ENTITY pageInfoCmd.accesskey "T">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Amseγti n tneγruft">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Sleg iccer">
 <!ENTITY mirrorTabCmd.accesskey "l">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ-inek i usmelweb-a.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadeg i usmelweb-a.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n yisefka i usmelweb-a.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-a.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n yisefka i usmelweb-a.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Tesweḥleḍ asfaylu udhim i usmel-agi.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "s">
 <!ENTITY newPrivateWindow.label     "Asfaylu amaynut n tunigin tusligt">
 <!ENTITY newPrivateWindow.accesskey "y">
-<!ENTITY newNonRemoteWindow.label   "Asfaylu Non-e10s Amaynut">
 
 <!ENTITY editMenu.label         "Taẓrigt">
 <!ENTITY editMenu.accesskey       "ẓ">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Sken akk amazray">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Sagen">
-<!ENTITY appMenuCustomize.tooltip "Sagen umuɣ akked yifeggagen n yifecka">
-<!ENTITY appMenuCustomizeExit.label "Ffeɣ seg waggan">
-<!ENTITY appMenuCustomizeExit.tooltip "Fak aggan">
-
 <!ENTITY appMenuHistory.showAll.label "Sken akk amazray">
 <!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray-ik n melmi kan…">
 <!ENTITY appMenuHistory.restoreSession.label "Err-d tiɣimit yezrin">
 <!ENTITY appMenuHistory.viewSidebar.label "Sken agalis adisan n umazray">
 <!ENTITY appMenuHistory.recentHistory.label "Amazray n melmi kan">
 <!ENTITY appMenuHelp.label "Tallalt">
-<!ENTITY appMenuHelp.tooltip "Ldi umuɣ n tallalt">
 
 <!ENTITY appMenuRemoteTabs.label "Accaren yemtawin">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Ulac accaren yemtawin… yakan!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ismenyifen n umtawi">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ldi amtawi n Ismenyifen">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Amiḍan-ik yeḥwaǧ ad ittusenqed.">
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Asiɣzef:">
 <!ENTITY urlbar.switchToTab.label     "Ddu ɣer yiccer:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Tebɣiḍ ad twennɛeḍ tarmit-ik n unadi s usumer?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Issin ugar…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ala">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ih">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Taxbalut:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Aɣanib azadur n usebter">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Beddel tasertit n usewḥel n yisfuyla udhimen n usmelweb-a">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Mtawi">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Zuɣer iferdisen-ik ismenyifen ɣer ufeggag n yifecka neɣ ɣer umuɣ n tfuli.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Tesriḍ ifecka-nniḍen?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Fren seg yigimen n yizegrar">
 <!ENTITY customizeMode.restoreDefaults "Err-d tawila tamezwert">
 <!ENTITY customizeMode.done "Immed">
 <!ENTITY customizeMode.titlebar "Afeggag n uzwel">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Awi-d ugar n yisental">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Zuɣer sakin sers dagi iferdisen akken ad ten-teǧǧeḍ ɣef ufus, acu kan beṛṛa n ufeggag-ik n yifecka...">
 <!ENTITY customizeMode.overflowList.title2 "Umuɣ n usiɣzef n ufeggag n ifecka">
 <!ENTITY customizeMode.overflowList.description "Zuɣer sakin sers iferdisen dagi akken ad ten-teǧǧeḍ ɣef afus, acu kan beṛṛa n ufeggag-ik n ifecka…">
 <!ENTITY customizeMode.uidensity "Taneẓẓi">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
 <!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ yimedlis n tansa">
 <!ENTITY pageAction.removeFromUrlbar.label "Kkes seg ufeggag n tansa">
-
 <!ENTITY pageAction.allowInUrlbar.label "Sken deg ufeggag n tansa">
 <!ENTITY pageAction.disallowInUrlbar.label "Ur skan ara deg ufeggag n tansa">
 <!ENTITY pageAction.manageExtension.label "Sefrek aseɣzef…">

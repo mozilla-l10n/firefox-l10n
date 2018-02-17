@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n &brandShortName; i yal yiwen. Ad k-d-nsuter yal tikkelt tasiregt send ad nawi talɣut tudmawant.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Tasertit n tbaḍnit">
 
+<!ENTITY collectBrowserErrors.label          "Sireg i &brandShortName; ad yazen aneqis n tucṣiwin n tunigin( igber iznan  n tusḍa) γer Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Issin ugar">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Sireg &brandShortName; ad as-yazen aneqqis n uɣelluy i Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "R">
 <!ENTITY crashReporterLearnMore.label    "Issin ugar">
