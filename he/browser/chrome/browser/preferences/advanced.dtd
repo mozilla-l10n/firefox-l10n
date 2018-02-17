@@ -37,6 +37,8 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "אנו חותרים לספק לך זכות בחירה ולאסוף רק מה שנדרש לנו כדי לספק ולשפר את &brandShortName; לטובת הכלל. אנו תמיד נבקש את רשותך לפני קבלת פרטים אישיים.">
 <!ENTITY dataCollectionPrivacyNotice.label    "הצהרת פרטיות">
 
+<!ENTITY collectBrowserErrors.label          "לאפשר ל־&brandShortName; לשלוח דיווחי שגיאות בדפדפן (לרבות הודעות שגיאה) אל Mozilla">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "לאפשר ל־&brandShortName; לשלוח דיווחי קריסה ל־Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "ד">
 <!ENTITY crashReporterLearnMore.label    "מידע נוסף">
@@ -46,12 +48,11 @@ available. -->
 <!ENTITY networkProxy.label              "מתווך רשת">
 
 <!ENTITY connectionDesc.label            "הגדרת אופן החיבור של &brandShortName; לאינטרנט">
+
 <!ENTITY connectionSettings.label        "הגדרות...">
 <!ENTITY connectionSettings.accesskey    "ה">
 
 <!ENTITY httpCache.label                 "תוכן רשת במטמון">
-
-<!ENTITY offlineStorage2.label           "תוכן רשת לא מקוון ונתוני משתמש">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "נתוני אתר">
@@ -72,8 +73,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "מ״ב של מקום">
 <!ENTITY clearCacheNow.label             "מחיקה כעת">
 <!ENTITY clearCacheNow.accesskey         "מ">
-<!ENTITY clearOfflineAppCacheNow.label   "מחיקה כעת">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ח">
 <!ENTITY overrideSmartCacheSize.label    "עקיפת ניהול המטמון האוטומטי">
 <!ENTITY overrideSmartCacheSize.accesskey "א">
 
@@ -110,17 +109,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "עדכון מנועי חיפוש באופן אוטומטי">
 <!ENTITY enableSearchUpdate2.accesskey   "ע">
-
-<!ENTITY offlineStorageNotify.label               "דיווח כאשר אתר מבקש לשמור נתונים לשימוש לא מקוון">
-<!ENTITY offlineStorageNotify.accesskey           "ד">
-<!ENTITY offlineStorageNotifyExceptions.label     "חריגות…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "ח">
-
-<!ENTITY offlineAppsList3.label          "האתרים הבאים מורשים לשמור נתונים לשימוש לא מקוון">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "הסר...">
-<!ENTITY offlineAppsListRemove.accesskey "ה">
-<!ENTITY offlineAppRemove.confirm        "הסרת נתונים לא מקוונים">
 
 <!ENTITY certificateTab.label            "אישורים">
 <!ENTITY certPersonal2.description       "כאשר שרת מבקש את האישור האישי שלך">
