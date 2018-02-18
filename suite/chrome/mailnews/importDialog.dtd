@@ -9,7 +9,7 @@
 <!ENTITY importMail.accesskey     "P">
 <!ENTITY importFeeds.label        "Kanály">
 <!ENTITY importFeeds.accesskey    "a">
-<!ENTITY importAddressbook.label  "Kontakty">
+<!ENTITY importAddressbook.label  "Složky kontaktů">
 <!ENTITY importAddressbook.accesskey "K">
 <!ENTITY importSettings.label     "Nastavení">
 <!ENTITY importSettings.accesskey "N">
@@ -22,7 +22,7 @@
 <!ENTITY importTitle.label        "Průvodce importem aplikace &brandShortName;">
 <!ENTITY importShortDesc.label    "Import zpráv, kontaktů, nastavení a filtrů z jiných programů">
 
-<!ENTITY importDescription1.label "Tento průvodce naimportuje poštovní zprávy, kontakty, předvolby a filtry z ostatních poštovních programů nebo adresářů v běžném formátu do aplikace &brandShortName;.">
+<!ENTITY importDescription1.label "Tento průvodce naimportuje poštovní zprávy, kontakty, kanály, předvolby anebo filtry z ostatních poštovních programů a kontaktů v běžném formátu do aplikace &brandShortName;.">
 <!ENTITY importDescription2.label "K importovaným položkám pak můžete přistupovat přímo z aplikace &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Vyberte prosím typ souboru, ze kterého chcete importovat:">

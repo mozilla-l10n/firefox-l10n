@@ -116,7 +116,7 @@
 <!ENTITY formatToolbar.tooltip "Lišta úprav">
 <!ENTITY sendButton.tooltip "Odešle tuto zprávu"> 
 <!ENTITY sendlaterButton.tooltip "Odešle tuto zprávu později"> 
-<!ENTITY addressButton.tooltip "Vybere příjemce z adresáře"> 
+<!ENTITY addressButton.tooltip "Vybere příjemce z kontaktů"> 
 <!ENTITY attachButton.tooltip "Připojí k této zprávě přílohu"> 
 <!ENTITY saveButton.tooltip "Uloží tuto zprávu"> 
 <!ENTITY stopButton.tooltip "Ukončí probíhající spojení"> 
