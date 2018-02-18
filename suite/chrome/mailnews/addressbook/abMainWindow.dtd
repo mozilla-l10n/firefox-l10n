@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY addressbookWindow.title                        "Adresář">
+<!ENTITY addressbookWindow.title                        "Kontakty">
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
@@ -14,7 +14,7 @@
 <!ENTITY newListCmd.label                               "Skupina…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "S">  
-<!ENTITY newAddressBookCmd.label                        "Složka kontaktů…"> 
+<!ENTITY newAddressBookCmd.label                        "Kontakty…"> 
 <!ENTITY newAddressBookCmd.accesskey                    "K">  
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP adresář…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
@@ -25,13 +25,13 @@
 <!ENTITY printPreviewContactViewCmd.label               "Náhled tisku kontaktu">
 <!ENTITY printPreviewContactViewCmd.accesskey           "h">
 <!ENTITY printContactViewCmd.key                        "P">
-<!ENTITY printAddressBook.label                         "Tisk složky kontaktů…"> 
+<!ENTITY printAddressBook.label                         "Tisk kontaktů…"> 
 <!ENTITY printAddressBook.accesskey                     "O"> 
-<!ENTITY printPreviewAddressBook.label                  "Náhled tisku složky kontaktů"> 
+<!ENTITY printPreviewAddressBook.label                  "Náhled tisku kontaktů"> 
 <!ENTITY printPreviewAddressBook.accesskey              "L">
 
 <!-- Edit Menu -->
-<!ENTITY deleteAbCmd.label                              "Smazat adresář">  
+<!ENTITY deleteAbCmd.label                              "Smazat kontakty">  
 <!ENTITY deleteContactCmd.label                         "Smazat kontakt">
 <!ENTITY deleteContactsCmd.label                        "Smazat vybrané kontakty">
 <!ENTITY deleteListCmd.label                            "Smazat seznam">
@@ -45,7 +45,7 @@
 <!ENTITY propertiesCmd.key                              "i">  
 
 <!-- View Menu -->
-<!ENTITY showAbToolbarCmd.label                         "Lišta adresáře"> 
+<!ENTITY showAbToolbarCmd.label                         "Lišta kontakty"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "d">  
 <!ENTITY layoutMenu.label                               "Rozložení">
 <!ENTITY layoutMenu.accesskey                           "R">
@@ -85,7 +85,7 @@
 <!ENTITY searchBox.title                                "Hledat">
 
 <!-- Tooltips -->
-<!ENTITY addressbookToolbar.tooltip                     "Lišta adresáře">
+<!ENTITY addressbookToolbar.tooltip                     "Lišta kontakty">
 <!ENTITY newContactButton.tooltip                       "Vytvoří nový kontakt">
 <!ENTITY newlistButton.tooltip                          "Vytvoří novou skupinu"> 
 <!ENTITY editItemButton.tooltip                         "Upraví označenou položku">
