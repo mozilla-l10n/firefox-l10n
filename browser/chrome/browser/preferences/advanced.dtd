@@ -53,7 +53,7 @@ available. -->
 <!ENTITY connectionSettings.label        "Thiết lập…">
 <!ENTITY connectionSettings.accesskey    "p">
 
-<!ENTITY httpCache.label                 "Nội dung web đã được cached">
+<!ENTITY httpCache.label                 "Nội dung web đã được nhớ đệm">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Dữ liệu trang web">
