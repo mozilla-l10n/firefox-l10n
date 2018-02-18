@@ -31,7 +31,7 @@
 <!ENTITY printPreviewAddressBook.accesskey              "L">
 
 <!-- Edit Menu -->
-<!ENTITY deleteAbCmd.label                              "Smazat kontakty">  
+<!ENTITY deleteAbCmd.label                              "Smazat složku kontaktů">  
 <!ENTITY deleteContactCmd.label                         "Smazat kontakt">
 <!ENTITY deleteContactsCmd.label                        "Smazat vybrané kontakty">
 <!ENTITY deleteListCmd.label                            "Smazat seznam">
@@ -96,7 +96,7 @@
 <!ENTITY advancedButton.tooltip                         "Rozšířené hledání adres">
 
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Kontakty">
+<!ENTITY dirTreeHeader.label                            "Složky kontaktů">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
