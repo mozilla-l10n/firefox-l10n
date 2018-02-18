@@ -9,7 +9,7 @@
 <!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY allFoldersOffline2.label "Behold meddelelser i alle mapper for denne konto på denne computer">
 <!ENTITY allFoldersOffline2.accesskey "B">
-<!ENTITY allFoldersOfflineNote.label "Obs: Dette påvirker alle mapper for denne konto. Brug knappen 'Avanceret...' for at vælge individuelle mapper.">
+<!ENTITY allFoldersOfflineNote.label "Obs: Dette påvirker alle mapper for denne konto. Brug knappen 'Avanceret …' for at vælge individuelle mapper.">
 <!ENTITY offlineNotDownload.label "Meddelelser større end">
 <!ENTITY offlineNotDownload.accesskey "ø">
 <!ENTITY autosyncNotDownload.label "Hent ikke meddelelser større end">
