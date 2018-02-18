@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Մաքրել տվյալները">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY window.description           "Բոլոր cookie-երի և &brandShortName;-ի կողմից պահված տվյալների մաքրումը կարող է ձեզ դուրս գրել կայքերից և հեռացնել անցանց վեբ բովանդակությունը: Դա չի վերաբերի ձեր մուտքագրումներին:">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "Cookie-ներ և կայքի տվյալներ">
+<!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "Մաքրելու դեպքում կարող եք դուրս գրվել կայքերից">
+
+<!ENTITY clearCache.label             "Շտեմված վեբ բովանդակություն">
+<!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "Կպահանջի կայքերից կրկին բեռնել պատկերները և տվյալները">
+
+<!ENTITY button.cancel.label          "Չեղարկել">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "Մաքրել">
+<!ENTITY button.clear.accesskey       "l">

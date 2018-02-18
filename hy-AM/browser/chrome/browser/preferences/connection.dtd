@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Կարգավորել համացանցին միանալու միջնորդներ">
+
+<!ENTITY  proxyTitle.label2             "Կազմաձևել պրոքսի մատչումը համացանց">
 <!ENTITY  noProxyTypeRadio.label        "Առանց միջնորդի">
 <!ENTITY  noProxyTypeRadio.accesskey    "ի">
 <!ENTITY  systemTypeRadio.label         "Օգտագործել համակարգի միջնորդի կարգավորումները">

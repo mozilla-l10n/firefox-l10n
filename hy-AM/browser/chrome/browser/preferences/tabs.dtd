@@ -5,7 +5,7 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "Բացել նո&amp;ր պատուհաններ՝  նոր ներդիրների փոխարեն">
+<!ENTITY newWindowsAsTabs.label       "Բացել նոր պատուհաններ՝  նոր ներդիրների փոխարեն">
 <!ENTITY newWindowsAsTabs.accesskey   "ն">
 
 <!ENTITY newWindowsAsTabs3.label       "Հղումները բացել նոր ներդիրներում՝ նոր պատուհանների փոխարեն">
