@@ -31,7 +31,7 @@
 <!ENTITY printPreviewAddressBook.accesskey              "L">
 
 <!-- Edit Menu -->
-<!ENTITY deleteAbCmd.label                              "Smazat složku kontaktů">  
+<!ENTITY deleteAbCmd.label                              "Smazat kontakty">  
 <!ENTITY deleteContactCmd.label                         "Smazat kontakt">
 <!ENTITY deleteContactsCmd.label                        "Smazat vybrané kontakty">
 <!ENTITY deleteListCmd.label                            "Smazat seznam">
