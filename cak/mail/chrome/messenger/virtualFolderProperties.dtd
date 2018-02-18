@@ -14,6 +14,8 @@
 <!ENTITY chooseFoldersButton.label "Ticha'…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
+<!ENTITY searchOnline.label "Tikanöx pa K'amab'ey (Nuya' k'exon taq ruq'i'oj richin IMAP chuqa' kiyakwuj Tzijol, xa xe chi nunimirisaj ri ramaj richin nok pa ri yakwuj)">
+<!ENTITY searchOnline.accesskey "T">
 <!ENTITY newFolderButton.label       "Titz'uk">
 <!ENTITY newFolderButton.accesskey   "z">
 <!ENTITY editFolderButton.label      "Tik'ex">
