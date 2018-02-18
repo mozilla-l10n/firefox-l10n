@@ -102,6 +102,8 @@
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+<!ENTITY quickFilterBar.tags.tooltip
+         "Kek'ut pe xa xe taq tzijol k'o kiyaketal">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
