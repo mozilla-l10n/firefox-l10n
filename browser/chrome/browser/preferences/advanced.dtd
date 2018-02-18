@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Біз сізге таңдауды қолыңызға беріп, тек әркім үшін &brandShortName; өнімін ұсыну және жақсарту мақсатында керек деректерді жинаймыз. Жеке ақпаратты алу алдында біз әрқашан рұқсатты сұраймыз.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Жекелік ескертуі">
 
+<!ENTITY collectBrowserErrors.label          "&brandShortName; үшін Mozilla адресіне браузер қателіктері есептерін (қате хабарламаларын қоса) жіберуге рұқсат ету">
+<!ENTITY collectBrowserErrors.accesskey      "б">
+<!ENTITY collectBrowserErrorsLearnMore.label "Көбірек білу">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; үшін Mozilla адресіне құлау хабарламаларын жіберуді рұқсат ету">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "л">
 <!ENTITY crashReporterLearnMore.label    "Көбірек білу">

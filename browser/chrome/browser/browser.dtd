@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Бет ақпараты">
 <!ENTITY pageInfoCmd.accesskey "а">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Жайма жөндегіші">
+<!ENTITY ldbCmd.accesskey "ж">
 <!ENTITY mirrorTabCmd.label "Айналы бет">
 <!ENTITY mirrorTabCmd.accesskey "й">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Сіз микрофоныңызды қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Сіз экраныңызбен бөлісуді бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Сіз орналасу ақпаратымен бөлісуді бұл вебсайтқа блоктадыңыз.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Сіз деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Сіз хабарламаларды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Сіз тұрақты деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Сіз canvas деректерін тарқатуды бұл вебсайтқа блоктадыңыз.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "т">
 <!ENTITY newPrivateWindow.label     "Жаңа жекелік терезе">
 <!ENTITY newPrivateWindow.accesskey "к">
-<!ENTITY newNonRemoteWindow.label   "Жаңа e10s-емес терезесі">
 
 <!ENTITY editMenu.label         "Түзету">
 <!ENTITY editMenu.accesskey       "Т">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Бүкіл тарихты көрсету">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Баптау">
-<!ENTITY appMenuCustomize.tooltip "Мәзір мен құралдар панельдерін баптау">
-<!ENTITY appMenuCustomizeExit.label "Баптаудан шығу">
-<!ENTITY appMenuCustomizeExit.tooltip "Баптауды аяқтау">
-
 <!ENTITY appMenuHistory.showAll.label "Бүкіл тарихты көрсету">
 <!ENTITY appMenuHistory.clearRecent.label "Жуырдағы тарихты өшіру…">
 <!ENTITY appMenuHistory.restoreSession.label "Алдыңғы сессияны қалпына келтіру">
 <!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бүйір панелін көрсету">
 <!ENTITY appMenuHistory.recentHistory.label "Жуырдағы тарихы">
 <!ENTITY appMenuHelp.label "Көмек">
-<!ENTITY appMenuHelp.tooltip "Көмек мәзірін ашу">
 
 <!ENTITY appMenuRemoteTabs.label "Синхрондалған беттер">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Синхрондалған беттер жоқ… әзірше!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Басқа құрылғыларыңыздан беттерді осында көргіңіз келе ме?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Синхрондау баптаулары">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Синхрондау баптауларын ашу">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Тіркелгіңіз расталуы тиіс.">
 <!ENTITY appMenuRemoteTabs.signin.label "Синхрондау ішіне кіру">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Кеңейту:">
 <!ENTITY urlbar.switchToTab.label     "Бетке ауысу:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Іздеу тәжірибесін ұсыныстармен жақсартуды қалайсыз ба?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Көбірек білу…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "л">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Жоқ">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "о">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Иә">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "и">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Кеңес:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Парақтың негізгі стилі">
 <!ENTITY pageStylePersistentOnly.accesskey "н">
 
-<!ENTITY pageReportIcon.tooltip            "Осы сайт үшін &quot;атып шығатын&quot; терезелерді болдырмау параметрлерін өзгерту">
-
 <!ENTITY allowPopups.accesskey "т">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Синхрондау">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Таңдамалы нәрселеріңізді құралдар панеліне немесе кеңейтілген мәзірге тартып апарыңыз.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Көбірек құралдарды алуға қалайсыз ба?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Мыңдаған қосымшалардан таңдау">
 <!ENTITY customizeMode.restoreDefaults "Әдеттілеріне қайту">
 <!ENTITY customizeMode.done "Дайын">
 <!ENTITY customizeMode.titlebar "Атау жолағы">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "м">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Көбірек темаларды алу">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "л">
-<!ENTITY customizeMode.emptyOverflowList.description "Нәрселерді қолжетерлік, бірақ құралдар панелінен тыс ұстау үшін, оларды осында тартып апарыңыз…">
 <!ENTITY customizeMode.overflowList.title2 "Қайта аймалау мәзірі">
 <!ENTITY customizeMode.overflowList.description "Нәрселерді қолжетерлік, бірақ құралдар панелінен тыс ұстау үшін, оларды осында тартып апарыңыз…">
 <!ENTITY customizeMode.uidensity "Тығыздығы">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
 <!ENTITY pageAction.addToUrlbar.label "Адрес жолағына қосу">
 <!ENTITY pageAction.removeFromUrlbar.label "Адрес жолағынан алып тастау">
-
 <!ENTITY pageAction.allowInUrlbar.label "Адрестік жолақта көрсету">
 <!ENTITY pageAction.disallowInUrlbar.label "Адрестік жолақта көрсетпеу">
 <!ENTITY pageAction.manageExtension.label "Кеңейтуді басқару…">
