@@ -8,6 +8,7 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Cấu hình các Proxy để truy cập vào Internet">
+
 <!ENTITY  noProxyTypeRadio.label        "Không dùng proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Dùng các thiết lập proxy của hệ thống">
@@ -41,7 +42,7 @@
 <!ENTITY  SOCKSport.accesskey           "g">
 <!ENTITY  noproxy2.label                "Không dùng proxy cho">
 <!ENTITY  noproxy2.accesskey            "n">
-<!ENTITY  noproxyExplain.label          "Ví dụ: .vi.mozdev.org, .vnn.vn, 192.168.1.0/24">
+<!ENTITY  noproxyExplain.label          "Ví dụ: .mozilla.org, .edu.vn, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Dùng máy chủ proxy này cho mọi giao thức">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Không yêu cầu xác nhận nếu đã lưu mật khẩu">
