@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Интернетпен байланысу үшін прокси-серверді баптау">
+
+<!ENTITY  proxyTitle.label2             "Интернетпен байланысу үшін прокси-серверді баптау">
 <!ENTITY  noProxyTypeRadio.label        "Прокси сервері жоқ">
 <!ENTITY  noProxyTypeRadio.accesskey    "ж">
 <!ENTITY  systemTypeRadio.label         "Жүйелік прокси сервер баптауларын қолдану">
