@@ -6,6 +6,8 @@
 <!ENTITY window.width                 "35em">
 
 
+<!ENTITY clearSiteData.label          "Smákökur og gögn vefsvæðis">
+<!ENTITY clearSiteData.accesskey      "S">
 
 <!ENTITY clearCache.label             "Vefgögn í flýtiminni">
 <!ENTITY clearCache.accesskey         "V">
