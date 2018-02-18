@@ -16,7 +16,7 @@
 <!ENTITY browsing.label                  "Nana feeroo">
 
 <!ENTITY useAutoScroll.label             "Huutoro ŋaylogol jaajol">
-<!ENTITY useAutoScroll.accesskey         "j">
+<!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Huutoro woragol teeyngol">
 <!ENTITY useSmoothScrolling.accesskey    "t">
 <!ENTITY checkUserSpelling.label         "Ƴeewto mbinndiin am so miɗo tappa">
@@ -37,6 +37,7 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Ha min ndarii ngam addande on cuɓe tawi kadi min ƴettata tan ko ko min ngaddanta on e ko min ƴellittanta on &brandShortName; Ha min naamndo yamiroore sahaa kala ko adii keɓgol kabaruuji maa keeriiɗi.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Tintinol Suturo">
 
+<!ENTITY collectBrowserErrors.label          "Yamir &brandShortName; yo neldu ciimti juume (yantude heen mesaasuuji juume) to Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Ɓeydu humpito">
 
