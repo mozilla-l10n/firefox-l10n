@@ -5,5 +5,10 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 <!ENTITY status.label "Rujikomal Tzijol">
+<!ENTITY signatureCert.label "Titz'et Riqitzijib'al Juch'">
+<!ENTITY encryptionCert.label "Titz'et Riqitzijib'al Ewan Rusik'ixik">
 
+<!ENTITY signer.name "Juch'un ruma:">
+<!ENTITY recipient.name "Ewan rusik'ixik ruma:">
 <!ENTITY email.address "Kochochib'al taqoya'l:">
+<!ENTITY issuer.name "Iqitzijib'äl talun ruma:">
