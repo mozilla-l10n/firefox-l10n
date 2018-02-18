@@ -413,7 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Di chuyển vào menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Gim vào menu gợi ý trên thanh địa chỉ">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Ghim vào menu gợi ý trên thanh địa chỉ">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Gỡ khỏi menu gợi ý trên thanh địa chỉ">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
