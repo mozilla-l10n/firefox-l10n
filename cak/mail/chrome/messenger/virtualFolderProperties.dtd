@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY virtualFolderProperties.title "Xyak K'ak'a' Ruyakwuj Kanoxïk">
 <!ENTITY name.label                 "B'i'aj:">
 <!ENTITY name.accesskey             "B">
 <!ENTITY description.label          "Titz'uk achi'el jun rachyakwuj:">
 <!ENTITY description.accesskey      "T">
 
+<!ENTITY searchTermCaption.label "Tib'an runuk'ulem ri ruchana'oj kanoxïk okisan richin re ruyakwuj kanoxïk re': ">
 
 <!ENTITY folderSelectionCaption.label "Ticha' ri yakwuj akuchi' nikanöx: ">
 <!ENTITY chooseFoldersButton.label "Ticha'…">
