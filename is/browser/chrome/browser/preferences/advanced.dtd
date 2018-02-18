@@ -37,6 +37,8 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Við reynum alltaf að bjóða upp á valkvæmni og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta &brandShortName; fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Meðferð persónuupplýsinga">
 
+<!ENTITY collectBrowserErrorsLearnMore.label "Fræðast meira">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Leyfa &brandShortName; að senda hrunskýrslur til Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "h">
 <!ENTITY crashReporterLearnMore.label    "Fræðast meira">

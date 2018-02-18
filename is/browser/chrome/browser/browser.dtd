@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Þú hefur lokað fyrir hljóðnema á þessu vefsvæði.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Þú hefur lokað fyrir að deila skjáum á þessu vefsvæði.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Þú hefur lokað fyrir tilkynningar á þessu vefsvæði.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Þú hefur lokað á sprettiglugga fyrir þetta vefsvæði.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Þú hefur lokað á að nálgast gluggagögn fyrir þetta vefsvæði.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nýr huliðsgluggi">
 <!ENTITY newPrivateWindow.accesskey "g">
-<!ENTITY newNonRemoteWindow.label   "Nýr gluggi sem er ekki e10s">
 
 <!ENTITY editMenu.label         "Breyta">
 <!ENTITY editMenu.accesskey       "e">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Skoða alla ferla">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Sérsníða">
-<!ENTITY appMenuCustomize.tooltip "Sérsníða valmynd og tækjaslár">
-<!ENTITY appMenuCustomizeExit.label "Hætta að sérsníða">
-<!ENTITY appMenuCustomizeExit.tooltip "Klára að sérsníða">
-
 <!ENTITY appMenuHistory.showAll.label "Skoða alla ferla">
 <!ENTITY appMenuHistory.clearRecent.label "Hreinsa nýlega ferla…">
 <!ENTITY appMenuHistory.restoreSession.label "Sækja fyrri vafralotu">
 <!ENTITY appMenuHistory.viewSidebar.label "Birta feril í hliðslá">
 <!ENTITY appMenuHistory.recentHistory.label "Nýlegur ferill">
 <!ENTITY appMenuHelp.label "Hjálp">
-<!ENTITY appMenuHelp.tooltip "Opna hjálparvalmynd">
 
 <!ENTITY appMenuRemoteTabs.label "Samstilltir flipar">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Engir samstilltir flipar… ennþá!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Viltu sjá hérna þína flipa frá öðrum tækjum?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Samstilla stillingar">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Opna Sync stillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Nauðsynlegt er að staðfesta reikning.">
 <!ENTITY appMenuRemoteTabs.signin.label "Skráðu þig inn í Sync">
@@ -444,14 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Skráarending:">
 <!ENTITY urlbar.switchToTab.label     "Fara á flipa:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Viltu bæta leitina með því að nota uppástungur?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Vita meira…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "V">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nei">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Já">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "J">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ábending:">
@@ -730,8 +714,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Almennur síðustíll">
 <!ENTITY pageStylePersistentOnly.accesskey "A">
 
-<!ENTITY pageReportIcon.tooltip            "Breyta stillingum sprettigluggabana fyrir þennan vef">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Dragðu upphálds hlutina yfir á slánna eða yfirflæðisvalmynd.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Viltu fleiri verkfæri?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Veldu viðbætur í þúsundatali">
 <!ENTITY customizeMode.restoreDefaults "Endurstilla sjálfgefin gildi">
 <!ENTITY customizeMode.done "Ljúka">
 <!ENTITY customizeMode.titlebar "Titilstika">
@@ -877,7 +857,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ná í fleiri þemu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Dragðu og slepptu hlutum hérna til að hafa þau við hendina en ekki á verkfæraslánni…">
 <!ENTITY customizeMode.overflowList.title2 "Yfirflæðisvalmynd">
 <!ENTITY customizeMode.overflowList.description "Dragðu og slepptu hlutum hérna til að hafa þau við hendina en ekki á verkfæraslánni…">
 <!ENTITY customizeMode.uidensity "Þéttleiki">
@@ -1008,7 +987,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
 <!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjarlægja úr staðsetningarslá">
-
 <!ENTITY pageAction.allowInUrlbar.label "Sýna í staðsetningarslá">
 <!ENTITY pageAction.disallowInUrlbar.label "Ekki sýna í staðsetningarslá">
 <!ENTITY pageAction.manageExtension.label "Sýsla með viðbót…">
