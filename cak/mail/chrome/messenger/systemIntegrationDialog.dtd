@@ -4,7 +4,9 @@
 
 <!ENTITY systemIntegration.title  "Q'inoj Tunuj">
 <!ENTITY acceptIntegration.label  "Tichap achi'el ri K'o wi">
+<!ENTITY cancelIntegration.label  "Tik'o pa Ruwi' Tunuj">
 <!ENTITY cancelIntegration2.label  "Tiq'at">
+<!ENTITY defaultClient.intro  "Tokisäx &brandShortName; achi'el ri winaqil k'o wi richin:">
 
 <!ENTITY email.label "Taqoya'l">
 <!ENTITY newsgroups.label "Rumolaj tzijol">
