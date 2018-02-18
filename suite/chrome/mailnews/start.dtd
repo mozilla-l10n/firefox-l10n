@@ -14,7 +14,7 @@
 <!ENTITY feat_feeds.label "Čtečka">
 <!ENTITY feat_filters.label "Filtry zpráv">
 <!ENTITY feat_htmlmsg.label "Podpora HTML zpráv">
-<!ENTITY feat_abook.label "Adresář">
+<!ENTITY feat_abook.label "Kontakty">
 <!ENTITY feat_tags.label "Uživatelské štítky a pohledy na zprávy">
 <!ENTITY feat_integration.label
 "Úzká spolupráce s balíkem &brandShortName;">
