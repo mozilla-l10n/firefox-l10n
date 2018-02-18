@@ -37,6 +37,8 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện &brandShortName; cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Chính sách riêng tư">
 
+<!ENTITY collectBrowserErrorsLearnMore.label "Tìm hiểu thêm">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Cho phép &brandShortName; gửi các báo cáo sự cố tới Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Tìm hiểu thêm">
@@ -46,12 +48,12 @@ available. -->
 <!ENTITY networkProxy.label              "Mạng lưới proxy">
 
 <!ENTITY connectionDesc.label            "Cách thức &brandShortName; kết nối vào Internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Tìm hiểu thêm">
 <!ENTITY connectionSettings.label        "Thiết lập…">
 <!ENTITY connectionSettings.accesskey    "p">
 
 <!ENTITY httpCache.label                 "Nội dung web đã được cached">
-
-<!ENTITY offlineStorage2.label           "Nội dung Web và Dữ liệu người dùng ngoại tuyến">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Dữ liệu trang web">
@@ -72,8 +74,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB dung lượng">
 <!ENTITY clearCacheNow.label             "Xóa Ngay">
 <!ENTITY clearCacheNow.accesskey         "a">
-<!ENTITY clearOfflineAppCacheNow.label   "Xóa Ngay">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Khống chế việc quản lí bộ đệm tự động">
 <!ENTITY overrideSmartCacheSize.accesskey "K">
 
@@ -110,17 +110,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Tự động cập nhật công cụ tìm kiếm">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Nói cho bạn biết khi nào một trang web yêu cầu lưu trữ dữ liệu để sử dụng ngoại tuyến">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "Ngoại trừ…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "N">
-
-<!ENTITY offlineAppsList3.label          "Những trang dưới đây cho phép lưu dữ liệu để sử dụng ngoại tuyến">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Xóa…">
-<!ENTITY offlineAppsListRemove.accesskey "X">
-<!ENTITY offlineAppRemove.confirm        "Xóa dữ liệu ngoại tuyến">
 
 <!ENTITY certificateTab.label            "Chứng thư">
 <!ENTITY certPersonal2.description       "Khi một máy chủ yêu cầu chứng thực cá nhân của bạn">
