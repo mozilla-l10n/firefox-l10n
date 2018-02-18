@@ -935,7 +935,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Շարունակելիս՝">
-<!ENTITY panicButton.view.deleteCookies           "Ջնջել վերջին<html:strong>Cookie-ները</html:strong>">
+<!ENTITY panicButton.view.deleteCookies           "Ջնջել վերջին <html:strong>Cookie-ները</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "Ջնջել վերջին <html:strong>Պատմությունը</html:strong>">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Փակել բոլոր <html:strong>Ներդիրները</html:strong> և<html:strong>Պատուհանները</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Բացել նոր մաքուր Պատուհան">

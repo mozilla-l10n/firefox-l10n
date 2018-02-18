@@ -24,7 +24,7 @@
 
 <!ENTITY downloads.label     "Ներբեռնումներ">
 
-<!ENTITY saveTo.label "Ֆայլերը պահելու տեղը՝">
+<!ENTITY saveTo.label "Ֆայլերը պահպանել`">
 <!ENTITY saveTo.accesskey "ե">
 <!ENTITY chooseFolderWin.label        "Ընտրել…">
 <!ENTITY chooseFolderWin.accesskey    "տ">
@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "Հուշում. Օգտագործում են առանձին պրոֆիլներ: Սինքի միջոցով կարող եք համօգտագործել տվյալները:">
 <!ENTITY getStarted.notloggedin.label     "Մուտք գործել &syncBrand.shortName.label;...">
 <!ENTITY getStarted.configured.label      "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
-
-<!ENTITY e10sEnabled.label                "Միացնել բազմընթաց &brandShortName;">
