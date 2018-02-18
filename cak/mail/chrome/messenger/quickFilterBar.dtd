@@ -116,6 +116,8 @@
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
+<!ENTITY quickFilterBar.attachment.tooltip
+         "Kek'ut pe xa xe taq tzijol k'o kitaqoj">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -156,9 +158,13 @@
      the messages and that there is a hotkey they can press to get to the
      box faster.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.base1
+         "Kechayüx re taq rutzijol re' #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2
+         "k">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
@@ -178,14 +184,17 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanMode.tooltip "Rub'anikil kichayuxik yaketal">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.label "Xab'achike">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Jun ta chi ke ri taq retal na'oj cha'on k'o ta chi nuk'äm ri'">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
@@ -195,6 +204,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Konojel ri retal na'oj k'o chi nikik'äm ki'">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
@@ -220,6 +230,8 @@
      tag sub-bar wants as much space as possible.  (Overflow is handled by an
      arrow scroll box.)
      -->
+<!ENTITY quickFilterBar.textFilter.explanation.label
+         "Kechayüx taq rutzijol ruma:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
@@ -253,8 +265,12 @@
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch
+         "K'a tib'an re kanoxïk re' pa ronojel yakwuj">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
+         "Tapitz'a' chik 'Enter' richin k'a nib'an ri rukanoxik: #1">
