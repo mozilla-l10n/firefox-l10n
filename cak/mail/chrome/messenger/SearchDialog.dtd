@@ -7,6 +7,8 @@
 <!ENTITY searchHeading.accesskey     "k">
 <!ENTITY searchSubfolders.label      "Tikanöx achyakwuj">
 <!ENTITY searchSubfolders.accesskey  "k">
+<!ENTITY searchOnServer.label        "Tib'an ri kanoxïk pa k'uxasamaj">
+<!ENTITY searchOnServer.accesskey    "a">
 <!ENTITY resetButton.label           "Tijosq'ïx">
 <!ENTITY resetButton.accesskey       "j">
 <!ENTITY openButton.label            "Tijaq">
@@ -20,6 +22,8 @@
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Tijaq pa Yakwuj">
 <!ENTITY openInFolder.accesskey      "j">
+<!ENTITY saveAsVFButton.label        "Tiyak achi'el Ruyakwuj Kanoxïk">
+<!ENTITY saveAsVFButton.accesskey    "y">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Tikanöx pa:">
@@ -30,6 +34,7 @@
 <!ENTITY composeButton.accesskey     "T">
 <!ENTITY deleteCardButton.label      "Tiyuj">
 <!ENTITY deleteCardButton.accesskey  "y">
+<!ENTITY abSearchDialogTitle.label   "Q'axinäq Kikanoxik Kitz'ib'awuj Ochochib'äl">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tzijonem">
