@@ -74,6 +74,8 @@
 <!ENTITY pageInfoCmd.label "Información de la página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Depurador de representación">
+<!ENTITY ldbCmd.accesskey "D">
 <!ENTITY mirrorTabCmd.label "Reflejar pestaña">
 <!ENTITY mirrorTabCmd.accesskey "R">
 <!ENTITY enterFullScreenCmd.label "Entrar a la pantalla completa">
@@ -276,6 +278,7 @@
 <!ENTITY appMenuRemoteTabs.noclients.title "No hay pestañas sincronizadas… ¡aún!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quiere ver sus pestañas de otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir preferencias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sesión para ver una lista de pestañas de sus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Su cuenta debe ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicie sesión en Sync">

@@ -24,12 +24,16 @@
 <!ENTITY dataCollection.label "Recopilación y uso de datos de &brandShortName;">
 <!ENTITY dataCollectionDesc.label "Nos esforzamos en proporcionarle opciones y recopilamos solo lo que necesitamos para proporcionarle y mejorar &brandShortName; para todos. Siempre pedimos permiso antes de recibir información personal.">
 <!ENTITY dataCollectionPrivacyNotice.label "Aviso sobre privacidad">
+<!ENTITY collectBrowserErrors.label "Permitir a &brandShortName; enviar informes de error del navegador (incluyendo mensajes de error) a Mozilla">
+<!ENTITY collectBrowserErrors.accesskey "e">
+<!ENTITY collectBrowserErrorsLearnMore.label "Saber más">
 <!ENTITY alwaysSubmitCrashReports1.label "Permitir a &brandShortName; enviar informes de fallos a Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "P">
 <!ENTITY crashReporterLearnMore.label "Saber más">
 <!ENTITY networkTab.label "Red">
 <!ENTITY networkProxy.label "Proxy de red">
 <!ENTITY connectionDesc.label "Configurar cómo &brandShortName; se conecta a Internet">
+<!ENTITY connectionSettingsLearnMore.label "Saber más">
 <!ENTITY connectionSettings.label "Configuración…">
 <!ENTITY connectionSettings.accesskey "o">
 <!ENTITY httpCache.label "Contenido web en caché">
