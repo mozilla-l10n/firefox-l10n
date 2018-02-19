@@ -37,6 +37,9 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan &brandShortName; bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Pemberitahuan Privasi">
 
+<!ENTITY collectBrowserErrors.label          "Izinkan &brandShortName; mengirim laporan galat peramban (termasuk pesan galat) ke Mozilla">
+<!ENTITY collectBrowserErrorsLearnMore.label "Pelajari lebih lanjut">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Izinkan &brandShortName; untuk mengirim laporan mogok ke Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "r">
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">
@@ -46,12 +49,12 @@ available. -->
 <!ENTITY networkProxy.label              "Proksi Jaringan">
 
 <!ENTITY connectionDesc.label            "Atur cara &brandShortName; tersambung ke Internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Pelajari lebih lanjut">
 <!ENTITY connectionSettings.label        "Setelan…">
 <!ENTITY connectionSettings.accesskey    "S">
 
 <!ENTITY httpCache.label                 "Konten Web Tembolok">
-
-<!ENTITY offlineStorage2.label           "Konten Web Luring dan Data Pengguna">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Data Situs">
@@ -72,8 +75,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Bersihkan Sekarang">
 <!ENTITY clearCacheNow.accesskey         "g">
-<!ENTITY clearOfflineAppCacheNow.label   "Bersihkan Sekarang">
-<!ENTITY clearOfflineAppCacheNow.accesskey "a">
 <!ENTITY overrideSmartCacheSize.label    "Gunakan pengaturan tembolok manual">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -110,17 +111,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Mutakhirkan mesin pencari secara otomatis">
 <!ENTITY enableSearchUpdate2.accesskey   "m">
-
-<!ENTITY offlineStorageNotify.label               "Beritahukan jika situs web meminta untuk menyimpan data untuk penggunaan luring">
-<!ENTITY offlineStorageNotify.accesskey           "l">
-<!ENTITY offlineStorageNotifyExceptions.label     "Pengecualian…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "c">
-
-<!ENTITY offlineAppsList3.label          "Situs web berikut ini diizinkan menyimpan data untuk penggunaan luring">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Hapus…">
-<!ENTITY offlineAppsListRemove.accesskey "H">
-<!ENTITY offlineAppRemove.confirm        "Hapus data luring">
 
 <!ENTITY certificateTab.label            "Sertifikat">
 <!ENTITY certPersonal2.description       "Saat peladen meminta sertifikat pribadi Anda">
