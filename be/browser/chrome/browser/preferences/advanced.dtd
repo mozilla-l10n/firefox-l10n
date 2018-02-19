@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Мы імкнёмся даць вам выбар і збіраць толькі тое, што патрэбна для ўсіх для выпуску і паляпшэння &brandShortName;. Мы заўсёды пытаемся дазволу, перш чым атрымаць асабістую інфармацыю.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Паведамленне аб прыватнасці">
 
+<!ENTITY collectBrowserErrors.label          "Дазволіць &brandShortName; адпраўляць справаздачы аб памылках браўзера (уключаючы паведамленні пра памылкі) у Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "б">
+<!ENTITY collectBrowserErrorsLearnMore.label "Падрабязней">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Дазволіць &brandShortName; адпраўляць справаздачы пра падзенні ў Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "п">
 <!ENTITY crashReporterLearnMore.label    "Даведацца больш">

@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Звесткі пра старонку">
 <!ENTITY pageInfoCmd.accesskey "З">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Адладчык макета">
+<!ENTITY ldbCmd.accesskey "А">
 <!ENTITY mirrorTabCmd.label "Адлюстраваць картку">
 <!ENTITY mirrorTabCmd.accesskey "ь">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблакавалі свой мікрафон на гэтым вэб-сайце.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Вы заблакавалі гэтаму вэб-сайту магчымасць бачыць ваш экран.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Вы заблакавалі звесткі аб месцазнаходжанні для гэтага вэб-сайта.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблакавалі апавяшчэнні з гэтага вэб-сайта.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Вы заблакавалі выплыўныя вокны для гэтага вэб-сайта.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблакавалі выманне дадзеных canvas для гэтага вэб-сайта.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Н">
 <!ENTITY newPrivateWindow.label     "Новае прыватнае акно">
 <!ENTITY newPrivateWindow.accesskey "а">
-<!ENTITY newNonRemoteWindow.label   "Новае не-e10s акно">
 
 <!ENTITY editMenu.label         "Праўка">
 <!ENTITY editMenu.accesskey       "р">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Уладкаваць">
-<!ENTITY appMenuCustomize.tooltip "Наладзіць меню і паліцы прылад">
-<!ENTITY appMenuCustomizeExit.label "Скончыць уладкаванне">
-<!ENTITY appMenuCustomizeExit.tooltip "Завяршэнне ўладкавання">
-
 <!ENTITY appMenuHistory.showAll.label "Паказаць усю гісторыю">
 <!ENTITY appMenuHistory.clearRecent.label "Ачысціць нядаўнюю гісторыю…">
 <!ENTITY appMenuHistory.restoreSession.label "Аднавіць папярэдні сеанс">
 <!ENTITY appMenuHistory.viewSidebar.label "Паказаць панэль гісторыі">
 <!ENTITY appMenuHistory.recentHistory.label "Нядаўняя гісторыя">
 <!ENTITY appMenuHelp.label "Даведка">
-<!ENTITY appMenuHelp.tooltip "Адкрыць меню даведкі">
 
 <!ENTITY appMenuRemoteTabs.label "Сінхранізаваныя карткі">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Няма сінхранізаваных картак… пакуль!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочаце пабачыць свае карткі з іншых прылад?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налады сінхранізацыі">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Адкрыць налады сінхранізацыі">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увайдзіце, каб пабачыць спіс картак з іншых сваіх прылад.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш уліковы запіс патрабуе пацвярджэння.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Пашырэнне:">
 <!ENTITY urlbar.switchToTab.label     "Пераключыцца ў картку:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Не хочаце пашырыць свой досвед пошуку з дапамогай падказак?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Даведацца больш…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "д">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "н">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Так">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "т">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Парада:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Базавы стыль старонкі">
 <!ENTITY pageStylePersistentOnly.accesskey "Б">
 
-<!ENTITY pageReportIcon.tooltip            "Змяніць налады затрымання выплыўных вокнаў для гэтага вэб-сайта">
-
 <!ENTITY allowPopups.accesskey "Д">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Перацягнуць любімыя элементы на паліцу прылад або ў меню перапаўнення.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Хочаце іншыя прылады?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберыце з тысяч дадаткаў">
 <!ENTITY customizeMode.restoreDefaults "Аднавіць прадвызначаныя">
 <!ENTITY customizeMode.done "Гатова">
 <!ENTITY customizeMode.titlebar "Панэль загалоўка">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "К">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Атрымаць больш тэм">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "А">
-<!ENTITY customizeMode.emptyOverflowList.description "Перацягніце элементы сюды, каб трымаць іх пад рукой, але не на паліцы прылад…">
 <!ENTITY customizeMode.overflowList.title2 "Меню перапаўнення">
 <!ENTITY customizeMode.overflowList.description "Перацягніце элементы сюды, каб трымаць іх пад рукой, але не на паліцы прылад…">
 <!ENTITY customizeMode.uidensity "Шчыльнасць">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Дзеянні старонкі">
 <!ENTITY pageAction.addToUrlbar.label "Дадаць у адрасны радок">
 <!ENTITY pageAction.removeFromUrlbar.label "Выдаліць з адраснага радка">
-
 <!ENTITY pageAction.allowInUrlbar.label "Паказваць у адрасным радку">
 <!ENTITY pageAction.disallowInUrlbar.label "Не паказваць у адрасным радку">
 <!ENTITY pageAction.manageExtension.label "Кіраваць пашырэннямі…">
