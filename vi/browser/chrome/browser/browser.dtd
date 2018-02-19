@@ -170,7 +170,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Đóng cửa sổ">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Trang đánh dấu">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Đánh dấu trang này">
 <!ENTITY editThisBookmarkCmd.label "Chỉnh sửa dấu trang này">
@@ -179,7 +178,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Đăng kí theo dõi trang này">
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí theo dõi trang này…">
 <!ENTITY addCurPagesCmd.label "Đánh dấu tất cả các thẻ…">
-<!ENTITY showAllBookmarks2.label "Xem tất cả trang đánh dấu">
 <!ENTITY recentBookmarks.label "Trang đánh dấu gần đây">
 <!ENTITY otherBookmarksCmd.label "Trang đánh dấu khác">
 <!ENTITY mobileBookmarksCmd.label "Trang đánh dấu trên di động">
@@ -383,10 +381,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Hiện… không có thẻ đã đồng bộ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Muốn xem thẻ từ các thiết bị khác của bạn ở đây?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Tùy chỉnh đồng bộ">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Tùy chỉnh Đồng bộ">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Mở Tùy chỉnh Đồng bộ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tài khoản của bạn cần phải xác thực.">
-<!ENTITY appMenuRemoteTabs.signin.label "Đăng nhập vào đồng bộ hóa">
+<!ENTITY appMenuRemoteTabs.signin.label "Đăng nhập vào Đồng bộ">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Quản lý các thiết bị…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Xem các thẻ trên thanh lề đã đồng bộ">
 
