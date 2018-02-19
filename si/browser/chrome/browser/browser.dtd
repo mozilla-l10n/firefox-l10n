@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "ඈදුම උපාංගයට යවන්න">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "යැවිනි!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "">
 <!ENTITY  moveToNewWindow.label              "නව කවුළුවකට යන්න">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "සියළු ටැබ් පිටුලකුණු කරන්න…">
@@ -110,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "පිටුවේ තොරතුරු">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "කැඩපත් ටැබය">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -188,13 +190,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ආපසු">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "පිටුවක් පසුපසට">
 <!ENTITY forwardCmd.label             "ඉදිරියට">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "පිටුවක් ඉදිරියට">
 <!ENTITY backForwardButtonMenu.tooltip "පෙරදෑ පෙන්වීමට පහළට අදින්න හෝ දකුණත් ක්ලික් කරන්න">
 <!ENTITY backForwardButtonMenuMac.tooltip "පෙරදෑ පෙන්වීමට පහළට අදින්න">
 <!ENTITY reloadCmd.label              "යළි පූර්ණය">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "නවතන්න">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න">
 <!ENTITY printButton.label            "මුද්‍රණය">
@@ -205,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "පණිවිඩ පුවරුව විවෘත කරන්න">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ස්ථානය ඉල්ලීමේ පුවරුව විවෘත කරන්න">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ඇඩෝන ස්ථාපනය කිරීමේ පණිවිඩ පුවරුව විවෘත කරන්න">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "canvas උපුටාගැනීම් බලතල පාලනය කරන්න">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "මාර්ගගත නොවන ගබඩා පණිවුඩ පැනලය විවෘත කරන්න">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "සුරැකි මුරපද පණිවිඩ පුවරුව විවෘත කරන්න">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ප්ලගින භාවිතය පාලනය කරන්න">
@@ -225,10 +232,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ඔබ මෙම අඩවියට ඔබගේ මයික්‍රෆෝනය අවහිර කර ඇත.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ඔබ මෙම අඩවිය ඔබගේ තිරය හවුල්කිරීම අවහිර කර ඇත.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ඔබ මෙම අඩවිය සඳහා ස්ථානීය තොරතුරු අවහිර කර ඇත.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "ඔබ මෙම අඩවිය සඳහා දත්ත ගබඩාකිරීම අවහිර කර ඇත.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ඔබ මෙම අඩවිය සඳහා දැනුම්දීම් අවහිර කර ඇත.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ඔබ මෙම අඩවිය සඳහා අනවරත ගබඩාව අවහිර කර ඇත.">
+<!ENTITY urlbar.popupBlocked.tooltip             "ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "අතීතය පෙන්වන්න">
 
@@ -294,7 +302,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "නව පුද්ගලික කවුළුව">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "නව e10s නොවන කවුළුව">
 
 <!ENTITY editMenu.label         "සැකසුම්">
 <!ENTITY editMenu.accesskey       "E">
@@ -349,17 +356,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "සම්පූර්ණ අතීතය පෙන්වන්න">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "රිසිකරණය">
-<!ENTITY appMenuCustomize.tooltip "මෙනුව හා මෙවලම් තීරු රුචිකරණය">
-<!ENTITY appMenuCustomizeExit.label "රුචිකරණයෙන් පිටවන්න">
-<!ENTITY appMenuCustomizeExit.tooltip "රුචිකරණය අවසන් කරමින්">
 <!ENTITY appMenuHistory.showAll.label "සම්පූර්ණ අතීතය පෙන්වන්න">
 <!ENTITY appMenuHistory.clearRecent.label "මෑත ඉතිහාසය මකන්න...">
 <!ENTITY appMenuHistory.restoreSession.label "පෙර සැසිය ප්‍රතිස්ථාපනය">
 <!ENTITY appMenuHistory.viewSidebar.label "අතීත පැතිතීරු දසුන">
 <!ENTITY appMenuHistory.recentHistory.label "මෑත ඉතිහාසය">
 <!ENTITY appMenuHelp.label "උදව්">
-<!ENTITY appMenuHelp.tooltip "උදව් මෙනුව විවෘත කරන්න">
 
 <!ENTITY appMenuRemoteTabs.label "සම්මුහුර්ථ කළ ටැබ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -382,10 +384,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "සම්මුහුර්ථ ටැබ් මේ දක්වා… නැත!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "වෙනත් උපාංගයක සිට ඔබේ මෙම ටැබ් බැලීමට අවශ්‍යද?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync සැකසුම්">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "සම්මුහුර්ත අභිප්‍රේතයන් විවෘත කරන්න">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "වෙනත් උපාංගයන්ගේ සිට ටැබ් ලැයිස්තුව බැලිමට ඇතුළු වන්න.">
+<!ENTITY appMenuRemoteTabs.unverified.label "ඔබේ ගිනුම තහවුරු කල යුතුයි.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync වෙත පිවිසෙන්න">
 <!ENTITY appMenuRemoteTabs.managedevices.label "උපාංග පාලනය...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "සම්මුහුර්ත ටැබ් පැති තීරුවේ පෙන්වන්න">
+
+<!ENTITY appMenuRemoteTabs.connectdevice.label "තවත් උපාංගයක් සබඳ කරන්න">
 
 <!ENTITY appMenuRecentHighlights.label "මෑත ඉස්මතු කිරීම්">
 
@@ -431,14 +437,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "දිගුව:">
 <!ENTITY urlbar.switchToTab.label     "ටැබයට මාරුවෙන්න:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "ඔබගේ සෙවුම් අත්දැකීම යෝජනා සමඟින් වැඩිදියුණු කර ගැනීමට ඔබ කැමතිද?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "තවත් දැනගන්න...">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "නැත">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "ඔව්">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ඉඟිය:">
@@ -562,6 +560,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "තිරයේ පසුබිමසේ සකසන්න...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "මෙම පිටුව සලකුණු කරගන්න">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "මෙම පුරුක පිටු සලකුණු කරන්න">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "මෙම රාමුව පිටු සලකුණුගත කරන්න">
@@ -716,8 +715,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "මූලික පිටු මෝස්තරය">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "මෙම වෙබ් අඩවිය සඳහා පොප්-අප් ඇහිරුම් සැකසුම් වෙනස් කරන්න">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -747,6 +744,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "කළා">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "අඩවි ආරක්ෂාව">
 
 <!ENTITY identity.connectionSecure "ආරක්ෂිත සබධතාවය">
 <!ENTITY identity.connectionNotSecure "සබධතාවය අනාරක්ෂිතයි">
@@ -801,12 +802,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "සම්මුහුර්ත ටැබ් දැනට නැත!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ඔබගේ ටැබ් වෙනත් උපාංගයක සිට බැලීමට අවශ්‍යද?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "වෙනත් උපාංගයන්ගේ ටැබ් ලැයිස්තුව බැලිමට ඇතුළු වන්න.">
+<!ENTITY syncedTabs.sidebar.unverified.label   "ඔබේ ගිනුම තහවුරු කල යුතුයි.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "විවෘත කළ ටැබ් නැත">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; මනාපයන් විවෘත කරන්න">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ටැබ් වෙනත් උපාංගයක සිට බැලීමට ටැබ් සම්මුහුර්තකරණය ගන්න.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "සමමුහු කළ ටැබ සොයන්න">
+
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "තවත් උපාංගයක් සබඳ කරන්න">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -842,8 +846,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "සම්මුහුර්ත">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "ඔබේ ප්‍රියතම අයිතමයන් මෙවලම් තීරුවට හෝ පිටාර මෙනුවට ඇද දමන්න.">
-<!ENTITY customizeMode.menuAndToolbars.empty "තවත් මෙවලම් අවශ්‍යද?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "ඇඩෝන දහස් ගණනකින් තෝරාගන්න">
 <!ENTITY customizeMode.restoreDefaults "පෙරනිමි යළි සකසන්න">
 <!ENTITY customizeMode.done "අවසන්">
 <!ENTITY customizeMode.titlebar "මාතෘකා තීරුව">
@@ -856,7 +858,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "තවත් තේමා ලබාගන්න">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "ඔබ ආසන්නයේ නමුත් ඔබේ මෙවලම් තීරුවෙන් පිටත අයිතම තබාගැනීමට මෙහි ඇද දමන්න…">
 <!ENTITY customizeMode.overflowList.title2 "පිටාර මෙනුව">
 <!ENTITY customizeMode.overflowList.description "ඔබ ආසන්නයේ නමුත් ඔබේ මෙවලම් තීරුවෙන් පිටත අයිතම තබාගැනීමට මෙහි ඇද දමන්න…">
 <!ENTITY customizeMode.uidensity "ඝනත්වය">
@@ -976,6 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.label "පසුවට">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; යාවත් කිරීමට යළි අරබන්න">
+
 
 <!ENTITY pageActionButton.tooltip "පිටු ක්‍රියාවන්">
 <!ENTITY pageAction.addToUrlbar.label "ලිපින තීරුවට එක් කරන්න">

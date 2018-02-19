@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-learn-more = තවත් දැනගන්න
+do-not-track-option-default =
+    .label = හඹායෑම් ආරක්ෂාව භාවිත කරන විට පමණක්
+do-not-track-option-always =
+    .label = සැමවිටම
 pref-page =
     .title = { PLATFORM() ->
             [windows] විකල්ප
@@ -10,12 +15,17 @@ pref-page =
 pane-general-title = සාමාන්‍ය
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = සෙවුම
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = පුද්ගලිකත්වය සහ ආරක්ෂාව
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+# The word "account" can be translated, do not translate or transliterate "Firefox".
+pane-sync-title = Firefox ගිනුම
 category-sync =
     .tooltiptext = { pane-sync-title }
+help-button-label = { -brand-short-name } සහය
 focus-search =
     .key = f
 close-button =
