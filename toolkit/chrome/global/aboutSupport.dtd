@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Phiên bản">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
 <!ENTITY aboutSupport.featureName "Tên">
 <!ENTITY aboutSupport.featureVersion "Phiên bản">
 <!ENTITY aboutSupport.featureId "ID">
@@ -68,7 +69,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Hiện trong Finder">
+<!ENTITY aboutSupport.showMac.label "Hiển thị trong Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "Mở thư mục">
@@ -118,3 +119,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceName "Tên">
 <!ENTITY aboutSupport.mediaDeviceGroup "Nhóm">
 <!ENTITY aboutSupport.mediaDeviceChannels "Kênh">
+
