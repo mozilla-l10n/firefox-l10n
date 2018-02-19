@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Изчистване на данни">
+
+
+
+<!ENTITY clearCache.label             "Буферирано съдържание от интернет">
+<!ENTITY clearCache.accesskey         "б">
+<!ENTITY clearCache.description       "Ще принуди страниците да презаредят своите изображения и данни">
+
+<!ENTITY button.cancel.label          "Отказ">
+<!ENTITY button.cancel.accesskey      "о">
+<!ENTITY button.clear.label           "Изчистване">
+<!ENTITY button.clear.accesskey       "и">
