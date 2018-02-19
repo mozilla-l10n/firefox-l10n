@@ -99,6 +99,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
+<!ENTITY debuggerUI.searchFunction           "Tìm định nghĩa hàm">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
@@ -110,6 +111,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
+<!ENTITY debuggerUI.searchVariable           "Lọc các biến">
 <!ENTITY debuggerUI.searchVariable.key       "V">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
@@ -159,7 +161,9 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
+<!ENTITY debuggerUI.context.newTab           "Mở trong thẻ mới">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
+<!ENTITY debuggerUI.context.copyUrl           "Sao chép URL">
