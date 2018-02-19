@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Anda telah memblokir mikrofon Anda untuk situs web ini.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Anda telah memblokir situs ini untuk berbagi layar Anda.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Anda telah memblokir informasi lokasi untuk situs web ini.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Anda telah memblokir penyimpanan data untuk situs web ini.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah memblokir notifikasi untuk situs web ini.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Anda telah memblokir penyimpanan tetap untuk situs web ini.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Anda telah memblokir pop-up untuk situs web ini.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Anda telah memblokir ekstraksi data canvas untuk situs web ini.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "J">
 <!ENTITY newPrivateWindow.label     "Jendela Mode Pribadi Baru">
 <!ENTITY newPrivateWindow.accesskey "u">
-<!ENTITY newNonRemoteWindow.label   "Jendela Non-e10s Baru">
 
 <!ENTITY editMenu.label         "Edit">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Ubahsuai">
-<!ENTITY appMenuCustomize.tooltip "Ubahsuai Menu dan Bilah Alat">
-<!ENTITY appMenuCustomizeExit.label "Selesaikan Pengubahsuaian">
-<!ENTITY appMenuCustomizeExit.tooltip "Selesaikan Pengubahsuaian">
-
 <!ENTITY appMenuHistory.showAll.label "Tampilkan Semua Riwayat">
 <!ENTITY appMenuHistory.clearRecent.label "Bersihkan Riwayat Terakhir">
 <!ENTITY appMenuHistory.restoreSession.label "Pulihkan Sesi Sebelumnya">
 <!ENTITY appMenuHistory.viewSidebar.label "Tampilkan Bilah Samping Riwayat">
 <!ENTITY appMenuHistory.recentHistory.label "Riwayat Terakhir">
 <!ENTITY appMenuHelp.label "Bantuan">
-<!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
 <!ENTITY appMenuRemoteTabs.label "Tab yang Disinkronkan">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Belum ada tab yang disinkronkan!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ingin melihat tab dari perangkat Anda yang lain di sini?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Pengaturan Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buka Pengaturan Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Masuk untuk melihat daftar tab dari perangkat lainnya.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Akun Anda perlu diverifikasi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sync">
@@ -444,14 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Ekstensi:">
 <!ENTITY urlbar.switchToTab.label     "Pindah ke tab:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Ingin meningkatkan pengalaman pencarian Anda dengan saran?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Pelajari lebih lanjut…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Tidak">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "t">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Kiat:">
@@ -730,8 +714,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Gaya Standar Laman">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 
-<!ENTITY pageReportIcon.tooltip            "Ubah pengaturan pemblokir pop-up untuk situs web ini">
-
 <!ENTITY allowPopups.accesskey "i">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Seret item favorit Anda ke bilah alat atau menu luapan.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Ingin mendapatkan alat lainnya?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih dari ribuan pengaya">
 <!ENTITY customizeMode.restoreDefaults "Pulihkan Bawaan">
 <!ENTITY customizeMode.done "Selesai">
 <!ENTITY customizeMode.titlebar "Bilah Judul">
@@ -877,7 +857,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dapatkan Tema Lainnya">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
-<!ENTITY customizeMode.emptyOverflowList.description "Seret dan lepas item ke sini untuk menjaganya dalam jangkau namun di luar bilah perkakas Anda…">
 <!ENTITY customizeMode.overflowList.title2 "Menu Luapan">
 <!ENTITY customizeMode.overflowList.description "Seret dan lepas item ke sini untuk menjaganya dalam jangkau namun di luar bilah perkakas Anda…">
 <!ENTITY customizeMode.uidensity "Kepadatan">
@@ -1008,7 +987,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Tindakan laman">
 <!ENTITY pageAction.addToUrlbar.label "Tambahkan ke Bilah Alamat">
 <!ENTITY pageAction.removeFromUrlbar.label "Singkirkan dari Bilah Alamat">
-
 <!ENTITY pageAction.allowInUrlbar.label "Tampilkan di Bilah Alamat">
 <!ENTITY pageAction.disallowInUrlbar.label "Jangan Tampilkan di Bilah Alamat">
 <!ENTITY pageAction.manageExtension.label "Kelola Ekstensi…">
