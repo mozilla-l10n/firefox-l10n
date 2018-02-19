@@ -149,5 +149,5 @@
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
-<!ENTITY options.sourceeditor.tabsize.label             "Kích cỡ Tab">
+<!ENTITY options.sourceeditor.tabsize.label             "Kích cỡ tab">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Mặc định">
