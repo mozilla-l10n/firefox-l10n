@@ -46,11 +46,20 @@
 <p>&brandShortName; k'o jun achoq uma toq man nutikirisaj ta el re jun ruxaq k'amaya'l re'.</p>">
 
 <!ENTITY malformedURI.title "Man okel ta ri ochochib'äl">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Ri taq rochochib'al Ajk'amaya'l jutaqil yetz'ib'äx achi'el
+    <strong>http://www.example.com/</strong></li>
+  <li>Tajikib'a' chi ye'awokisaj ri ütz taq kajtz'ik (achi'el.
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "Xq'at ri okem">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Xk'is Ruq'ijul ri Wuj">
+<!ENTITY notCached.longDesc "<p>Man wachel ta pa jumejyak ri wuj xk'utüx.</p><ul><li>Achi'el jun chajinïk richin rujikomal, &brandShortName; man nuk'utuj ta chik pa ruyonil na'onel taq wuj.</li><li>Tipitz' pa Titojtob'ëx chik richin nik'utüx chik ri wuj chi re ri ajk'amaya'l ruxaq.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun okem">
 <!ENTITY netOffline.longDesc2 "
