@@ -18,7 +18,17 @@
 <!ENTITY deniedPortAccess.title "Esta direición ta restrinxida">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "Nun s'alcontró'l sirvidor">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Umm... Tenemos problemes p'alcontrar el sitiu.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Si la direición ye correuta, equí tienes tres coses que pues probar:</strong>
+<ul>
+  <li>Volvi tentalo más sero.</li>
+  <li>Comprueba la conexón d'internet.</li>
+  <li>Si tas coneutáu pero darrera d'un tornafuéu, comprueba que &brandShortName; tien permisu p'acceder a la Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
 <!ENTITY fileNotFound.longDesc "
@@ -41,9 +51,15 @@
 ">
 
 <!ENTITY captivePortal.title "Aniciu de sesión na rede">
+<!ENTITY captivePortal.longDesc2 "
+<p>Has aniciar sesión nesta rede enantes de que pueas acceder a internet.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Abrir páxina d'aniciu de sesión">
 
+<!ENTITY malformedURI.pageTitle "URL non válida">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Umm... La direición nun paez correuta.">
 
 <!ENTITY netInterrupt.title "Interrumpióse la conexón">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
