@@ -105,6 +105,14 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Man nilitäj ta ri proxi k'uxasamaj">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Ke'anik'oj ri kinuk'ulem proxi richin nijikib'äx chi e ütz.</li>
+  <li>Tanik'oj chi nisamäj ri okem pa k'amab'ey pan akematz'ib'.</li>
+  <li>We echajin ri akematz'ib' o ak'amab'ey ruma jun chupuq'aq' o proxi, tajikib'a'
+    chi ri &brandShortName; ya'on q'ij chi re richin nok pan Ajk'amaya'l.</li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Man ütz ta tajin niq'axan ri ruxaq k'amaya'l">
 <!ENTITY redirectLoop.longDesc "
@@ -124,14 +132,39 @@
 ">
 
 <!ENTITY nssFailure2.title "Xq'ate' ri ütz okem">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Man tikirel ta nik'ut pe ri ruxaq nawajo' natz'ët ruma man tikirel ta yejikib'äx we e qitzij ri taq tzij xek'ul.</li>
+  <li>Katzijon kik'in ri rajaw ajk'amaya'l ruxaq richin naya' rutzijol chi ke pa ruwi' re k'ayewal re'.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Xq'ate' ri ütz okem">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Re re' rik'in jub'a' jun k'ayewal rik'in ri runuk'ulem k'uxasamaj o rik'in jub'a' k'o ri nutojtob'ej
+nuq'alajisaj ri' achi'el ri k'uxasamaj.</li>
+  <li>We ütz atokinäq pa re k'uxasamaj re' ojer kan, ri sachoj rik'in jub'a' jun mej ke ri' xtub'än ruma ri' 
+yatikïr natojtob'ej chik pa jun ch'utiramaj.</li>
+</ul>
+">
 
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Rik'in jub'a' jumej man wachel ta ri ruxaq o ik'owinäq rusamajib'exik. Tatojtob'ej chik pa jun 
+    ch'utiramaj.</li>
+  <li>Man yatikïr ta nasamajib'ej jun ruxaq, tanik'oj ri rokem akematz'ib'
+    pa k'amab'ey.</li>
+  <li>We ri akematz'ib' o k'amab'ey echajin ruma jun chupuq'aq' o proxi, tanik'oj
+    chi ri &brandShortName; ya'on q'ij chi re richin nok pa Ajk'amaya'l.</li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Q'aton ruma ri Runa'ojil Rujikomal Rupam Etamab'äl">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xusamajib'ej ruxaq k'amaya'l pa rub'eyal re' ruma ruchajin jun runa'oj rujikomal rupam, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Sachoj Ruma Itzel Rupam">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Man tikirel ta nik'ut pe ri ruxaq natojtob'ej natz'ët ruma xilitäj jun ruk'ayewal kiq'axik tzij.</p><ul><li>Katzijon kik'in ri rajaw ajk'amaya'l ruxaq richin naya' rutzijol ri k'ayewal chi ke.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqatisaj jun man relik ta…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Kinawelesaj el wawe'!">
