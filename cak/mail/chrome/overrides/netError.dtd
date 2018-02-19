@@ -17,6 +17,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Man xilitäj ta ri k'uxasamaj">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Tinik'öx we ri ochochib'äl majun rusachoj achi'el
+    <strong>ww</strong>.example.com pa ruk'exel
+    <strong>www</strong>.example.com</li>
+  <li>We man nitikïr ta nusamajib'ej jun ruxaq, tanik'oj ri awokem pa ri ruk'amaya'l
+    akematz'ib'.</li>
+  <li>We ri akematz'ib' o ri ak'amab'ey chajin ruma jun chupuq'a' o proxi, tajikib'a'
+    chi &brandShortName; ya'on q'ij chi re richin nok pa Ajk'amaya'l.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
 <!ENTITY fileNotFound.longDesc "<ul>
