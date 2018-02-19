@@ -20,5 +20,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP K'uxasamaj">
 <!ENTITY serverPortDefault.label "K'o wi:">
-<!ENTITY authMethod.label "Rub'eyal jikib'axik:">
+<!ENTITY authMethod.label "Rub'eyal jikib'aïk:">
 <!ENTITY authMethod.accesskey "i">
