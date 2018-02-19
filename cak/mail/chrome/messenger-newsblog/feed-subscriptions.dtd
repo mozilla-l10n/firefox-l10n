@@ -14,7 +14,7 @@
 <!ENTITY feedLocation.placeholder    "Titz'ib'äx jun okel rochochib'al q'asab'äl richin Titz'aqatisäx">
 <!ENTITY feedLocation2.placeholder   "Tatz'ib'aj jun okel url richin rub'ey tzuquj">
 <!ENTITY locationValidate.label      "Jikib'anem">
-<!ENTITY validateText.label          "Tinik'öx ri jikib'anem chuqa' tikol jun okel ochochib'äl.">
+<!ENTITY validateText.label          "Tinik'öx ri junamana'oj chuqa' tikol jun okel ochochib'äl.">
 
 <!ENTITY feedFolder.label            "Keyak ri taq Cholna'oj pa:">
 <!ENTITY feedFolder.accesskey        "K">
