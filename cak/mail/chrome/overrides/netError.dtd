@@ -175,6 +175,12 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
+<!ENTITY securityOverride.warningContent "
+<p>Man ta natz'aqatisaj jun man relik ta we tajin nawokisaj jun okem pa k'amya'l, achoq pa ruwi' man nakuqub'a' ta ak'u'x o we man ruk'ulun ta chawe ye'atz'ët kitzijol k'ayewal re k'uxasamaj re'.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
 
 <!ENTITY remoteXUL.title "Näj XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul></p>">
