@@ -26,13 +26,13 @@
 <!ENTITY hdrArchiveButton1.tooltip "Dit berjocht argivearje">
 <!ENTITY hdrOpenConversationButton1.label "Petear">
 <!ENTITY hdrOpenConversationButton1.tooltip "Petear fan dit berjocht toane">
-<!ENTITY hdrSmartReplyButton1.label "Tûk beantwurdzje">
-<!ENTITY hdrReplyButton1.label "Beantwurdzje">
-<!ENTITY hdrReplyButton2.tooltip "Ofstjoerder fan dit berjocht beantwurdzje">
-<!ENTITY hdrReplyAllButton1.label "Elk beantwurdzje">
-<!ENTITY hdrReplyAllButton1.tooltip "Beantwurdzje nei ôfstjoerder en alle ûntfangers">
-<!ENTITY hdrReplyListButton1.label "List beantwurdzje">
-<!ENTITY hdrReplyListButton1.tooltip "Beantwurdzje nei mailinglist">
+<!ENTITY hdrSmartReplyButton1.label "Tûk beäntwurdzje">
+<!ENTITY hdrReplyButton1.label "Beäntwurdzje">
+<!ENTITY hdrReplyButton2.tooltip "Ofstjoerder fan dit berjocht beäntwurdzje">
+<!ENTITY hdrReplyAllButton1.label "Elk beäntwurdzje">
+<!ENTITY hdrReplyAllButton1.tooltip "Beäntwurdzje nei ôfstjoerder en alle ûntfangers">
+<!ENTITY hdrReplyListButton1.label "List beäntwurdzje">
+<!ENTITY hdrReplyListButton1.tooltip "Beäntwurdzje nei mailinglist">
 <!ENTITY hdrFollowupButton1.label "Reagearje">
 <!ENTITY hdrFollowupButton1.tooltip "In reaksje yn dizze nijsgroep pleatse">
 <!ENTITY hdrMenuForwardButton.label "Trochstjoere as">
