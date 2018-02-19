@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "सामान्य">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "शीर्षक:">
 <!ENTITY  generalURL            "पता:">
 <!ENTITY  generalType           "प्रकार:">
 <!ENTITY  generalMode           "रेंडर विधि:">
@@ -55,12 +55,10 @@
 <!ENTITY  permAskAlways         " हरदम  पूछू">
 <!ENTITY  permAllow             "स्वीकारू">
 <!ENTITY  permAllowSession      "सत्र क लेल स्वीकारू">
+<!ENTITY  permHide              "नुकाउ">
 <!ENTITY  permBlock             "रोकू">
 <!ENTITY  permissionsFor        "एकटार लेल अनुमति:">
 <!ENTITY  permPlugins           "प्लगिन सक्रिय करू">
-
-<!ENTITY  permClearStorage           "भंडारण साफ़ करू ">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "सुरक्षा">
 <!ENTITY  securityTab.accesskey "S">
@@ -73,7 +71,7 @@
 <!ENTITY  securityView.identity.owner    "स्वामी: ">
 <!ENTITY  securityView.identity.domain   "वेब साइट: ">
 <!ENTITY  securityView.identity.verifier "एकटार द्वारा सत्यापित: ">
-
+<!ENTITY  securityView.identity.validity "एकरा पर समाप्त:">
 
 <!ENTITY  securityView.privacy.header                   "गोपनीयता आ इतिहास">
 <!ENTITY  securityView.privacy.history                  "की हम ई वेब साइट आइसँ पहिने देखने छी?">
