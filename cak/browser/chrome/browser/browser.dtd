@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "K'ak'a' ichinan tzuwäch">
 <!ENTITY newPrivateWindow.accesskey "t">
 
-<!ENTITY editMenu.label         "K'exonïk">
+<!ENTITY editMenu.label         "K'exoj">
 <!ENTITY editMenu.accesskey       "e">
 <!ENTITY undoCmd.label            "Titzolïx">
 <!ENTITY undoCmd.key            "Z">
