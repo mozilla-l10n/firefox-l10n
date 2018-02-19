@@ -37,6 +37,8 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Стремим се да ви предоставяме възможност и да събираме само толкова, колкото ни е необходимо, за да предоставяме и подобряваме &brandShortName; за всички. Винаги искаме разрешение преди да получим лична информация.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Политика на поверителност">
 
+<!ENTITY collectBrowserErrorsLearnMore.label "Научете повече">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Разрешаване на &brandShortName; да изпраща доклади за срив към Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "д">
 <!ENTITY crashReporterLearnMore.label    "Научете повече">
@@ -46,12 +48,12 @@ available. -->
 <!ENTITY networkProxy.label              "Мрежов посредник">
 
 <!ENTITY connectionDesc.label            "Настройки на &brandShortName; за достъп до Мрежата">
+
+<!ENTITY connectionSettingsLearnMore.label "Научете повече">
 <!ENTITY connectionSettings.label        "Настройки…">
 <!ENTITY connectionSettings.accesskey    "Н">
 
 <!ENTITY httpCache.label                 "Буферирано съдържание от интернет">
-
-<!ENTITY offlineStorage2.label           "Уеб съдържание при работа извън мрежа и потребителски данни">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Данни на сайтове">
@@ -72,8 +74,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "МБ пространство">
 <!ENTITY clearCacheNow.label             "Изчистване">
 <!ENTITY clearCacheNow.accesskey         "И">
-<!ENTITY clearOfflineAppCacheNow.label   "Изчистване">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ч">
 <!ENTITY overrideSmartCacheSize.label    "Незачитане на автоматичното управление на буфера">
 <!ENTITY overrideSmartCacheSize.accesskey "Н">
 
@@ -110,17 +110,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Автоматично обновяване на търсещите машини">
 <!ENTITY enableSearchUpdate2.accesskey   "т">
-
-<!ENTITY offlineStorageNotify.label               "Предупреждение, при опит на сайт да запазва информация за работа извън мрежата">
-<!ENTITY offlineStorageNotify.accesskey           "П">
-<!ENTITY offlineStorageNotifyExceptions.label     "Изключения…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "з">
-
-<!ENTITY offlineAppsList3.label          "Страници с разрешение да съхраняват информация за работа извън мрежата">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Изчистване…">
-<!ENTITY offlineAppsListRemove.accesskey "И">
-<!ENTITY offlineAppRemove.confirm        "Изчистване на данните за работа извън мрежата">
 
 <!ENTITY certificateTab.label            "Сертификати">
 <!ENTITY certPersonal2.description       "Когато сървър поиска личния ви сертификат">
