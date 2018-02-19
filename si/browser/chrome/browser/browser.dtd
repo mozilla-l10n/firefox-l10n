@@ -988,6 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "ලිපින තීරුවට එක් කරන්න">
 <!ENTITY pageAction.removeFromUrlbar.label "ලිපින තීරුවෙන් ඉවත් කරන්න">
 <!ENTITY pageAction.allowInUrlbar.label "ලිපින තීරුව තුළ පෙන්වන්න">
+<!ENTITY pageAction.disallowInUrlbar.label "ලිපින තීරුව තුළ නොපෙන්වන්න">
+<!ENTITY pageAction.manageExtension.label "දිගුව පාලනය කරන්න…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ටැබය උපාංගයට යවන්න">
 <!ENTITY sendToDevice.syncNotReady.label "උපාංග සමමුහුර්ත කරමින්…">
