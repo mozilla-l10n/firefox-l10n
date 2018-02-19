@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Gwybodaeth am Ddatrys Problemau">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiolpan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynaucyffredin am &brandShortName;, edrychwch ar ein wefan cefnogi <a id='supportLink'></a>.">
+<!ENTITY aboutSupport.pageSubtitle "Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiol pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau cyffredin am &brandShortName;, edrychwch ar ein <a id='supportLink'>gwefan cefnogaeth</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Ardroddiad Chwalu">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -97,7 +97,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Dewisiadau user.js">
 <!ENTITY aboutSupport.userJSDescription "Mae eich ffolder profil yn cynnwys <a id='prefs-user-js-link'>ffeil user.js</a>, sy'n cynnwys dewisiadau sydd heb eu creu gan &brandShortName;.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "Dewisiadau Wedi eu Cloi Pwysig">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Dewisiadau Pwysig Wedi eu Cloi">
 <!ENTITY aboutSupport.lockedPrefsName "Enw">
 <!ENTITY aboutSupport.lockedPrefsValue "Gwerth">
 
