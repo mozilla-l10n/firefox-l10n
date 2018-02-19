@@ -13,7 +13,7 @@
 <!ENTITY useOnScreenKeyboard.label       "అవసరమైనప్పుడు స్పర్శా కీ బోర్డు చూపించు">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
-<!ENTITY browsing.label                  "బ్రౌజింగ్">
+<!ENTITY browsing.label                  "విహారణ">
 
 <!ENTITY useAutoScroll.label             "స్వయంచాలక స్క్రోలింగ్ వాడు">
 <!ENTITY useAutoScroll.accesskey         "a">
@@ -35,13 +35,16 @@ available. -->
 <!ENTITY dataCollection.label            "&brandShortName; డేటా సేకరణ మరియు ఉపయోగం">
 <!ENTITY dataCollectionPrivacyNotice.label    "గోప్యతా విధానం">
 
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "ఇంకా తెలుసుకోండి">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; ను అనుమతించు Mozillaకు క్రాష్ నివేదికలను పంపటానికి">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "ఇంకా తెలుసుకోండి">
 
 <!ENTITY networkTab.label                "నెట్‌వర్క్">
 
-<!ENTITY networkProxy.label              "నెట్‌వర్క్ ప్రోక్సీ">
+<!ENTITY networkProxy.label              "నెట్‌వర్క్ ప్రాక్సీ">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ఎలా అంతర్జాలముకు అనుసంధానించబడుతోందో ఆకృతీకరించు">
 
