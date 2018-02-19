@@ -188,3 +188,4 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Man Jikïl ta ri awokem">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nawokisaj ojer chuqa' k'o ruk'ayewal chi kiwäch ri mejoj ri na'ob'äl. Jun mejonel nitikïr man k'ayew ta nuq'alajisaj etamab'äl ri niwachin chi ütz. Ri runuk'samajel ajk'amaya'l ruxaq k'o chi nub'än ruk'ojlem ri k'uxasamaj chuwäch nitz'et ri ruxaq.</p><p>Rusachoj b'itz'ib': NS_ERROR_NET_INADEQUATE_SECURITY</p>">
