@@ -16,6 +16,7 @@
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
+<!ENTITY engine.prefsWin.label      "Mga pagpipilian">
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Mga Preferences">
 <!ENTITY engine.prefs.accesskey     "s">

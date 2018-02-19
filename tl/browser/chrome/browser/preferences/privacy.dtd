@@ -5,6 +5,8 @@
 <!ENTITY  trackingProtectionHeader2.label      "Proteksyon sa Pagsubaybay">
 <!ENTITY  trackingProtection2.description      "Ang pagsubaybay ay ang koleksyon ng iyong data sa pag-browse sa maramihang mga website. Maaaring gamitin ang pagsubaybay upang bumuo ng profile at display content batay sa iyong pag-browse at personal na impormasyon.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Gamitin ang Proteksyon sa Pagsubaybay upang harangan ang mga kilalang tracker">
+<!ENTITY  trackingProtection3.description      "Ang Proteksyon sa Pagsubaybay ay naghaharang sa mga online na tracker na nagkokolekta ng iyong impormasyon tungkol sa pag-browse sa maramihang mga website.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Gamitin ang Proteksyon sa Pagsubaybay upang harangan ang mga kilalang tracker">
 <!ENTITY  trackingProtectionAlways.label       "Palagi">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Sa pribadong mga window lamang">
@@ -12,12 +14,9 @@
 <!ENTITY  trackingProtectionNever.label        "Hindi Kailanman">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "Matuto ng higit pa">
+<!ENTITY  trackingProtectionLearnMore2.label    "Matuto nang higit pa tungkol sa Proteksyon sa Pagsubaybay at iyong pagiging pribado">
 <!ENTITY  trackingProtectionExceptions.label   "Mga eksepsyon…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Gumamit ng Proteksyong Pang-tracking sa mga Pribadong Window">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Gamitin ang Proteksyon sa Pagsubaybay sa Pribadong Pagba-browse upang harangan ang mga kilalang tracker">

@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title "Tungkol sa iyong mga Karapatan">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -33,6 +34,7 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4b-unbranded "Web Site Services">
+<!ENTITY rights.intro-point4c-unbranded " seksyon.">
 
 
 <!-- point 5 -->

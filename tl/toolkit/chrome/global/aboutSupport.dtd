@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutSupport.pageTitle "Tinotrobolsyot ang Impormasyon">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
@@ -47,12 +48,19 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "I-update ang Channel">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "I-update ang History">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Ipakita ang Kasaysayan ng Update">
 
+<!ENTITY aboutSupport.appBasicsProfileDir "Direktory ng Profile">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Folder ng Profile">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Paganahin na mga Plugin">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Pagsasaayos ng Build">
+<!ENTITY aboutSupport.appBasicsUserAgent "Ahente ng Gumagamit">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Paggamit ng Memory">
 <!ENTITY aboutSupport.appBasicsPerformance "Pagganap">
@@ -97,6 +105,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "Madaling I-access">
 <!ENTITY aboutSupport.a11yActivated "Isinaaktibo">
+<!ENTITY aboutSupport.a11yForceDisabled "Pigilan ang pag-access">
 
 
 
@@ -105,11 +114,31 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Mga segundong Nakalipas">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tipo ng Proseso">
 <!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
+<!ENTITY aboutSupport.safeModeTitle "Subukan mag-safe mode">
+<!ENTITY aboutSupport.restartInSafeMode.label "Mag-restart na hindi pinapagana ang mga Add-on…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Mga Katangian">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Mga diagnostics">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Log ng Kabiguan">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Log ng mga Desisyon">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
 
+<!ENTITY aboutSupport.mediaDeviceName "Pangalan">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Tindero">
+<!ENTITY aboutSupport.mediaDeviceState "Estado">
+<!ENTITY aboutSupport.mediaDevicePreferred "Mga Gusto">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Mga channel">
+<!ENTITY aboutSupport.mediaDeviceRate "Rate">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latency">
 

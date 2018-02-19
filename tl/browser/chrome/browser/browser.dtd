@@ -111,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Impormasyon tungkol sa web page">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Mirror Tab">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -976,6 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update &brandShorterName;">
 
+<!ENTITY newTabControlled.message "Pinalitan ng isang extension ang pahinang iyong nakikita tuwing nagbubukas ng Bagong Tab. Maaari mong ibalik ang iyong settings kung hindi mo nais ang pagbabagong ito.">
 <!ENTITY newTabControlled.header.message "Ang iyong Bagong Tab ay nagbago.">
 <!ENTITY newTabControlled.keepButton.label "Panatilihin ang Mga Pagbabago">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
