@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nos esforzamos pa dar-te opcions y replegar nomás lo que necesitamos pa ofrir y amillorar  &brandShortName; pa totz. Siempre demandamos permiso antes de recibir información personal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Nota sobre privacidat">
 
+<!ENTITY collectBrowserErrors.label          "Permitir que &brandShortName; ninvie reportes d'error d'o navegador (incluyindo mensaches d'error) ta Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Saber-ne mas">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Permitir que &brandShortName; ninvie reportes de fallo a Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Saber-ne mas">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy de ret">
 
 <!ENTITY connectionDesc.label            "Configurar cómo o &brandShortName; se connecta ta Internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Saber-ne mas">
 <!ENTITY connectionSettings.label        "Configuración…">
 <!ENTITY connectionSettings.accesskey    "o">
 
 <!ENTITY httpCache.label                 "Conteniu web d'a caché">
-
-<!ENTITY offlineStorage2.label           "Conteniu web sin connexión y datos de l'usuario">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Datos d'o puesto">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB d'espacio">
 <!ENTITY clearCacheNow.label             "Limpiar-la agora">
 <!ENTITY clearCacheNow.accesskey         "L">
-<!ENTITY clearOfflineAppCacheNow.label   "Limpiar-lo agora">
-<!ENTITY clearOfflineAppCacheNow.accesskey "m">
 <!ENTITY overrideSmartCacheSize.label    "No fer caso a la chestión automatica d'a memoria caché">
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Esviellar automaticament los motors de busca">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Alvertir-me si garra puesto denanda almagazenar datos ta usar-los en modo sin connexión">
-<!ENTITY offlineStorageNotify.accesskey           "t">
-<!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "Los siguients puestos web son autorizaus a almagazenar datos pa uso fuera de linia">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Eliminar…">
-<!ENTITY offlineAppsListRemove.accesskey "l">
-<!ENTITY offlineAppRemove.confirm        "Eliminar os datos d'uso en modo sin connexión">
 
 <!ENTITY certificateTab.label            "Certificaus">
 <!ENTITY certPersonal2.description       "Quan un servidor requiera lo mío certificau personal">
