@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problem při začitowanju strony">
 <!ENTITY retry.label "Hišće raz spytać">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Njeje móžno zwjazać">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -84,11 +84,11 @@
 <!ENTITY securityOverride.linkText "Abo njemóžeš wuwzaće přidać…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Wjedź mje wottud preč!">
 <!ENTITY securityOverride.exceptionButtonLabel "Wuwzaće přidać…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Njepřidajće wuwzaće, jeli wužiwaće internetny zwisk, kotremuž dospołnje njedowěrjeće abo jeli hewak warnowanje za tutón serwer njewidźiće.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -99,3 +99,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužiwa wěstotnu technologiju, kotraž je zestarjena a sensibelna za nadpady. Nadpadowar móhł informacije lochko wotkryć, kotrež za wěste maće. Websydłowy administrator dyrbi problem na serwerje rozrisać, prjedy hač móžeće sydło wopytać.</p><p>Zmylkowy kode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "Strona je so blokowała">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Přistup je so wot wašeho administratora znjemóžnił.</p>">
