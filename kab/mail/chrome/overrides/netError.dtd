@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Ugur deg usali n usebter">
 <!ENTITY retry.label "Ɛreḍ tikelt nniḍen">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Igguma ad iqqen">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -84,11 +84,11 @@
 <!ENTITY securityOverride.linkText "Neɣ tzemreḍ ad ternuḍ tasureft...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Suffeɣ-iyi s ya!">
 <!ENTITY securityOverride.exceptionButtonLabel "Rnu tasureft...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Yessefk ad ternuḍ tasureft ma yella tessaqdaceḍ tuqqna Internet ur tettamneḍ ara neɣ ma yella ur d-cliɛeḍ ara deg ilɣuten n uqeddac-agi.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -99,3 +99,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> iseqdac tatiknulujit taqbuṛt ur nezmir ad terr zzedmat. Aẓeddam yezmer ad yzkker s wudem fessusen talɣut i tɣileḍ d taɣelsant.  Andbal n usmel yesra di tazwara ad iseggem aqeddac send ad tezmireḍ ad terzuḍ ɣe usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "Asebter iwḥel">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Anedbal-inek isewḥel anekcum</p>">
