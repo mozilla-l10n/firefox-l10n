@@ -21,3 +21,5 @@
 <!ENTITY     removingSelected.description  "S tuksa n isefka n usmel ad ikkes daɣen inagan n tuqna akked ugbur n war tuqna. Aya izmer ad k-d-isufeɣ seg ismal. tebɣiḍ ad tkemleḍ?">
 <!ENTITY     siteTree2.label               "Inagan n usmel-a web ad ttwakksen">
 <!ENTITY     removingDialog1.title         "Kkes Inagan n tuqna akked isefka n usmel">
+<!ENTITY     removingSelected1.description "Tuksa n inagan n tuqna akked isefka n usmel tezmer ad k-tsufeγ seg ismal. Tebγiḍ asenfel-a?">
+<!ENTITY     siteTree3.label               "Inagan n tuqna akked isefka n usmel n ismal-a ad ttwaksen">
