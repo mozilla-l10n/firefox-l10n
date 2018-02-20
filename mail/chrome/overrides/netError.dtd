@@ -131,3 +131,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以容易地获取您认为是安全的信息。需要该网站的管理员先修正服务器，然后您才能访问该网站。</p><p>错误代码：NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "页面已阻止">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>您的管理员已禁止访问。</p>">
