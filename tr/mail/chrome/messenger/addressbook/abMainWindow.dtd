@@ -29,7 +29,7 @@
 <!ENTITY closeCmd.label                                 "Kapat">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "K">
-<!ENTITY printSetupCmd.label                            "Sayfa Düzeni…">
+<!ENTITY printSetupCmd.label                            "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey                        "y">
 <!ENTITY printPreviewContactCmd.label                   "Kişi Yazdırma Önizleme">
 <!ENTITY printPreviewContactCmd.accesskey               "K">
@@ -44,7 +44,7 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Düzen">
 <!ENTITY editMenu.accesskey                             "ü">
-<!ENTITY undoCmd.label                                  "Geri Al">
+<!ENTITY undoCmd.label                                  "Geri al">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "r">
 <!ENTITY redoCmd.label                                  "Yinele">
@@ -121,7 +121,7 @@ because displayed names don't have the comma in between. -->
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Araçlar">
 <!ENTITY tasksMenu.accesskey                            "l">
-<!ENTITY messengerCmd.label                             "E-posta ve Haber Grupları">
+<!ENTITY messengerCmd.label                             "Posta ve Haber Grupları">
 <!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Adres Ara…">

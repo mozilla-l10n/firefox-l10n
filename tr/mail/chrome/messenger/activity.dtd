@@ -16,7 +16,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.resume.accesskey             "t">
 <!ENTITY cmd.cancel.label                 "Vazgeç">
 <!ENTITY cmd.cancel.accesskey             "V">
-<!ENTITY cmd.undo.label                   "Geri Al">
+<!ENTITY cmd.undo.label                   "Geri al">
 <!ENTITY cmd.undo.accesskey               "G">
 <!ENTITY cmd.recover.label                "Kurtar">
 <!ENTITY cmd.recover.accesskey            "K">

@@ -36,7 +36,7 @@
 <!ENTITY saveCmd.label "Kaydet">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "K">
-<!ENTITY saveAsCmd.label "Farklı Kaydet">
+<!ENTITY saveAsCmd.label "Farklı kaydet">
 <!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Dosya…">
 <!ENTITY saveAsFileCmd.accesskey "o">
@@ -44,15 +44,15 @@
 <!ENTITY saveAsDraftCmd.accesskey "T">
 <!ENTITY saveAsTemplateCmd.label "Şablon">
 <!ENTITY saveAsTemplateCmd.accesskey "a">
-<!ENTITY sendNowCmd.label "Şimdi Gönder">
+<!ENTITY sendNowCmd.label "Şimdi gönder">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
-<!ENTITY sendLaterCmd.label "Daha Sonra Gönder">
+<!ENTITY sendLaterCmd.label "Daha sonra gönder">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "a">
-<!ENTITY printSetupCmd.label "Sayfa Düzeni…">
+<!ENTITY printSetupCmd.label "Sayfa düzeni…">
 <!ENTITY printSetupCmd.accesskey "y">
-<!ENTITY printPreviewCmd.label "Yazdırma Önizleme">
+<!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
 <!ENTITY printPreviewCmd.accesskey "Y">
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.key "P">
@@ -61,7 +61,7 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Düzen">
 <!ENTITY editMenu.accesskey "ü">
-<!ENTITY undoCmd.label "Geri Al">
+<!ENTITY undoCmd.label "Geri al">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "G">
 <!ENTITY redoCmd.label "Yinele">
@@ -81,27 +81,27 @@
 <!ENTITY editRewrapCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Sil">
 <!ENTITY deleteCmd.accesskey "S">
-<!ENTITY editRewrapCmd.label "Yeniden Kaydır">
+<!ENTITY editRewrapCmd.label "Yeniden kaydır">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Ekin adını değiştir…">
 <!ENTITY renameAttachmentCmd.accesskey "n">
 <!ENTITY reorderAttachmentsCmd.label "Eklerin sırasını değiştir…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY selectAllCmd.label "Tümünü Seç">
+<!ENTITY selectAllCmd.label "Tümünü seç">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "e">
 <!ENTITY findBarCmd.label "Bul…">
 <!ENTITY findBarCmd.accesskey "B">
 <!ENTITY findBarCmd.key "F">
-<!ENTITY findReplaceCmd.label "Bul ve Değiştir…">
+<!ENTITY findReplaceCmd.label "Bul ve değiştir…">
 <!ENTITY findReplaceCmd.accesskey "D">
 <!ENTITY findReplaceCmd.key "H">
-<!ENTITY findAgainCmd.label "Sonrakini Bul">
+<!ENTITY findAgainCmd.label "Sonrakini bul">
 <!ENTITY findAgainCmd.accesskey "u">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Öncekini Bul">
+<!ENTITY findPrevCmd.label "Öncekini bul">
 <!ENTITY findPrevCmd.accesskey "Ö">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
@@ -144,7 +144,7 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Görünüm">
 <!ENTITY viewMenu.accesskey "G">
-<!ENTITY viewToolbarsMenuNew.label "Araç Çubukları">
+<!ENTITY viewToolbarsMenuNew.label "Araç çubukları">
 <!ENTITY viewToolbarsMenuNew.accesskey "b">
 <!ENTITY menubarCmd.label "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey "M">
@@ -171,9 +171,9 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "Y">
-<!ENTITY enableInlineSpellChecker.label "Yazarken Yazımı Denetle">
+<!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimi yap">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
-<!ENTITY quoteCmd.label "İletiyi Alıntıla">
+<!ENTITY quoteCmd.label "İletiyi alıntıla">
 <!ENTITY quoteCmd.accesskey "n">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
@@ -182,17 +182,17 @@
 
 <!ENTITY returnReceiptMenu.label "Alındı onayı">
 <!ENTITY returnReceiptMenu.accesskey "A">
-<!ENTITY dsnMenu.label "Teslimat Durumu Bildirimi">
+<!ENTITY dsnMenu.label "Teslimat durumu bildirimi">
 <!ENTITY dsnMenu.accesskey "D">
-<!ENTITY deliveryFormatMenu.label "Teslimat Biçimi">
+<!ENTITY deliveryFormatMenu.label "Teslimat biçimi">
 <!ENTITY deliveryFormatMenu.accesskey "T">
-<!ENTITY autoFormatCmd.label "Otomatik Algıla">
+<!ENTITY autoFormatCmd.label "Otomatik algıla">
 <!ENTITY autoFormatCmd.accesskey "O">
-<!ENTITY plainTextFormatCmd.label "Sadece Düz Metin">
+<!ENTITY plainTextFormatCmd.label "Sadece düz metin">
 <!ENTITY plainTextFormatCmd.accesskey "D">
-<!ENTITY htmlFormatCmd.label "Sadece Zengin Metin (HTML)">
+<!ENTITY htmlFormatCmd.label "Sadece zengin metin (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "Z">
-<!ENTITY bothFormatCmd.label "Düz ve Zengin (HTML) Metin">
+<!ENTITY bothFormatCmd.label "Düz ve zengin (HTML) metin">
 <!ENTITY bothFormatCmd.accesskey "v">
 <!ENTITY priorityMenu.label "Öncelik">
 <!ENTITY priorityMenu.accesskey "Ö">
@@ -209,14 +209,14 @@
 <!ENTITY highPriorityCmd.accesskey "Y">
 <!ENTITY highestPriorityCmd.label "En yüksek">
 <!ENTITY highestPriorityCmd.accesskey "E">
-<!ENTITY fileCarbonCopyCmd.label "Bir Kopyasını Gönder">
+<!ENTITY fileCarbonCopyCmd.label "Kopyasını gönder">
 <!ENTITY fileCarbonCopyCmd.accesskey "o">
 <!ENTITY fileHereMenu.label "Burada Dosyala">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Araçlar">
 <!ENTITY tasksMenu.accesskey "A">
-<!ENTITY messengerCmd.label "Posta ve Haber Grupları">
+<!ENTITY messengerCmd.label "Posta ve haber grupları">
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adres Defteri">
@@ -242,7 +242,7 @@
 <!ENTITY quoteButton.label "Alıntıla">
 <!ENTITY addressButton.label "Kişiler">
 <!ENTITY attachButton.label "Ekle">
-<!ENTITY spellingButton.label "Yazım Denetimi">
+<!ENTITY spellingButton.label "Yazım denetimi">
 <!ENTITY saveButton.label "Kaydet">
 <!ENTITY printButton.label "Yazdır">
 
@@ -297,12 +297,12 @@
 <!ENTITY smiley16Cmd.label "Ağzı sıkı">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "Öneri Bulunamadı">
+<!ENTITY spellCheckNoSuggestions.label "Öneri bulunamadı">
 <!ENTITY spellCheckIgnoreWord.label "Sözcüğü Görmezden Gel">
 <!ENTITY spellCheckIgnoreWord.accesskey "G">
 <!ENTITY spellCheckAddToDictionary.label "Sözlüğe Ekle">
 <!ENTITY spellCheckAddToDictionary.accesskey "k">
-<!ENTITY undo.label "Geri Al ">
+<!ENTITY undo.label "Geri al">
 <!ENTITY undo.accesskey "G">
 <!ENTITY cut.label "Kes">
 <!ENTITY cut.accesskey "K">
@@ -323,7 +323,7 @@
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY reorderAttachments.label "Eklerin sırasını değiştir…">
 <!ENTITY reorderAttachments.accesskey "d">
-<!ENTITY selectAll.label "Tümünü Seç">
+<!ENTITY selectAll.label "Tümünü seç">
 <!ENTITY selectAll.accesskey "e">
 <!ENTITY attachFile.label "Dosya ekle…">
 <!ENTITY attachFile.accesskey "D">
