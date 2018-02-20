@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Setelan - Data situs">
+
+<!ENTITY     window1.title                 "Setelan - Kuki dan Data Situs">
 <!ENTITY     hostCol.label                 "Situs">
 <!ENTITY     statusCol.label               "Status">
+<!ENTITY     cookiesCol.label              "Kuki">
 <!ENTITY     usageCol.label                "Penyimpanan">
 <!ENTITY     searchTextboxPlaceHolder             "Cari situs web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "C">
@@ -17,3 +20,4 @@
 <!ENTITY     removingDialog.title          "Menghapus Data Situs">
 <!ENTITY     removingSelected.description  "Menghapus data situs juga akan menghapus kuki terkait dan konten web luring. Ini memungkinkan Anda keluar dari situs web. Yakin ingin membuat perubahan ini?">
 <!ENTITY     siteTree2.label               "Kuki situs berikut akan dihapus">
+<!ENTITY     removingDialog1.title         "Menghapus Kuki dan Data Situs">
