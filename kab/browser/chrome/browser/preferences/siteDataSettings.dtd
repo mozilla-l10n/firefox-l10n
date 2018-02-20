@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Iɣewwaṛen - Isefka n Usmel">
+
+<!ENTITY     window1.title                 "Iγewwaṛen - Inagan n tuqna akked isefka n usmel">
 <!ENTITY     hostCol.label                 "Asmel">
 <!ENTITY     statusCol.label               "addad">
+<!ENTITY     cookiesCol.label              "Inagan n tuqqna">
 <!ENTITY     usageCol.label                "Aklas">
 <!ENTITY     searchTextboxPlaceHolder             "Nadi ismal web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "R">
@@ -17,3 +20,4 @@
 <!ENTITY     removingDialog.title          "Tuksa n isefka n usmel">
 <!ENTITY     removingSelected.description  "S tuksa n isefka n usmel ad ikkes daɣen inagan n tuqna akked ugbur n war tuqna. Aya izmer ad k-d-isufeɣ seg ismal. tebɣiḍ ad tkemleḍ?">
 <!ENTITY     siteTree2.label               "Inagan n usmel-a web ad ttwakksen">
+<!ENTITY     removingDialog1.title         "Kkes Inagan n tuqna akked isefka n usmel">
