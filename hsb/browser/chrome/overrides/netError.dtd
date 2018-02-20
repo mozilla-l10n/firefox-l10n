@@ -126,5 +126,8 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužiwa wěstotnu technologiju, kotraž je zestarjena a sensibelna za nadpady. Nadpadowar móhł informacije lochko wotkryć, kotrež za wěste maće. Websydłowy administrator dyrbi problem na serwerje rozrisać, prjedy hač móžeće sydło wopytać.</p><p>Zmylkowy kode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicyTemp.title "Strona je so blokowała">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Přistup je so wot wašeho administratora znjemóžnił.</p>">
+
 <!ENTITY prefReset.longDesc "Zda so, zo waše nastajenja syćoweje wěstoty móhli to zawinować. Chceće standardne nastajenja wobnowić?">
 <!ENTITY prefReset.label "Standardne nastajenja wobnowić">
