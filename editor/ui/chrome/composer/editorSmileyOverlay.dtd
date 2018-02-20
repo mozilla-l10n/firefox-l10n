@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Yüz İfadesi">
 <!ENTITY insertSmiley.accesskey "Y">
 
@@ -15,7 +15,7 @@
 <!ENTITY smiley3Cmd.label "Göz Kırpma">
 <!ENTITY smiley3Cmd.accesskey "G">
 <!ENTITY smiley3Cmd.tooltip "Göz kırpan bir yüz ekle">
-<!ENTITY smiley4Cmd.label "Dil Çıkartma">
+<!ENTITY smiley4Cmd.label "Dil çıkaran">
 <!ENTITY smiley4Cmd.accesskey "t">
 <!ENTITY smiley4Cmd.tooltip "Dil çıkaran bir yüz ekle">
 <!ENTITY smiley5Cmd.label "Kahkaha Atma">

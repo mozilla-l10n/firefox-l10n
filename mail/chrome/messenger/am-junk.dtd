@@ -25,7 +25,7 @@
 <!ENTITY ispHeaders.accesskey "t">
 
 <!ENTITY junkClassification.label "Seçim">
-<!ENTITY junkActions.label "Hedef ve Saklama">
+<!ENTITY junkActions.label "Hedef ve saklama">
 
 <!ENTITY globalJunkPrefs.label "Genel gereksiz posta tercihleri…">
 <!ENTITY globalJunkPrefs.accesskey "G">

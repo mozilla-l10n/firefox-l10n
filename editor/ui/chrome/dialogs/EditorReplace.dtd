@@ -21,7 +21,7 @@
 <!ENTITY replaceButton.accesskey "e">
 <!ENTITY replaceAndFindButton.label "Değiştir ve Bul">
 <!ENTITY replaceAndFindButton.accesskey "D">
-<!ENTITY replaceAllButton.label "Tümünü Değiştir">
+<!ENTITY replaceAllButton.label "Tümünü değiştir">
 <!ENTITY replaceAllButton.accesskey "T">
 <!ENTITY closeButton.label "Kapat">
 <!ENTITY closeButton.accesskey "K">

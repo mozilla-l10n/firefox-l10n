@@ -4,14 +4,14 @@
 
 <!ENTITY securityTitle.label "Güvenlik">
 <!ENTITY securityTab.label "Güvenlik">
-<!ENTITY securityHeading.label "Şifreli iletileri almak ve göndermek için hem sayısal imza onay belgesi hem de şifreleme onay belgesi belirtmelisiniz.">
+<!ENTITY securityHeading.label "İmzalanmış ve şifrelenmiş iletileri almak ve göndermek için hem sayısal imza sertifikası hem de şifreleme sertifikası belirtmelisiniz.">
 <!ENTITY encryptionGroupTitle.label "Şifreleme">
 <!ENTITY encryptionChoiceLabel.label "İleti gönderirken kullanılacak varsayılan şifreleme ayarı:">
 <!ENTITY neverEncrypt.label "Asla (şifreleme kullanma)">
 <!ENTITY neverEncrypt.accesskey "A">
-<!ENTITY alwaysEncryptMessage.label "Gerekli (alıcıların onay belgesi yoksa ileti gönderilemez)">
+<!ENTITY alwaysEncryptMessage.label "Gerekli (tüm alıcıların sertifikası yoksa ileti gönderilemez)">
 <!ENTITY alwaysEncryptMessage.accesskey "G">
-<!ENTITY encryptionCert.message "Bana gönderilen iletileri şifrelemek ve çözmek için bu onay belgesini kullan:">
+<!ENTITY encryptionCert.message "Bana gönderilen iletileri şifrelemek ve çözmek için bu sertifikayı kullan:">
 <!ENTITY digitalSign.certificate.button "Seç…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Temizle">
@@ -23,7 +23,7 @@
 <!ENTITY signingGroupTitle.label "Sayısal imza">
 <!ENTITY signMessage.label "Postaları sayısal olarak imzala (varsayılan)">
 <!ENTITY signMessage.accesskey "o">
-<!ENTITY signingCert.message "Gönderdiğim iletileri sayısal olarak imzalamak için bu onay belgesini kullan:">
+<!ENTITY signingCert.message "Gönderdiğim iletileri sayısal olarak imzalamak için bu sertifikayı kullan:">
 
 <!ENTITY certificates.label "Sertifikalar">
 <!ENTITY manageCerts2.label "Sertifikaları yönet">

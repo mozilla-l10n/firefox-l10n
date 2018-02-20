@@ -13,7 +13,7 @@
 <!ENTITY name.accesskey "s">
 <!ENTITY email.label "E-posta adresi:">
 <!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Yanıt adresi:">
+<!ENTITY replyTo.label "Reply-to adresi:">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "Alıcılar bu diğer adrese yanıt verecektir">
 <!ENTITY organization.label "Kurum:">

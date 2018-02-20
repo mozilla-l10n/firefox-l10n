@@ -21,9 +21,9 @@
 
 <!ENTITY addtoToFieldMenu.label             "Kime alanına ekle">
 <!ENTITY addtoToFieldMenu.accesskey         "e">
-<!ENTITY addtoCcFieldMenu.label             "Bilgi alanına ekle">
+<!ENTITY addtoCcFieldMenu.label             "Cc alanına ekle">
 <!ENTITY addtoCcFieldMenu.accesskey         "B">
-<!ENTITY addtoBccFieldMenu.label            "Gizli Alıcı alanına ekle">
+<!ENTITY addtoBccFieldMenu.label            "Bcc alanına ekle">
 <!ENTITY addtoBccFieldMenu.accesskey        "G">
 <!ENTITY deleteAddrBookCard.label           "Sil">
 <!ENTITY deleteAddrBookCard.accesskey       "S">
@@ -43,7 +43,7 @@
 
 <!ENTITY toButton.label                     "Kime alanına ekle:">
 <!ENTITY toButton.accesskey                 "e">
-<!ENTITY ccButton.label                     "Bilgi alanına ekle:">
+<!ENTITY ccButton.label                     "Cc alanına ekle:">
 <!ENTITY ccButton.accesskey                 "B">
-<!ENTITY bccButton.label                    "Gizli Alıcı alanına ekle:">
+<!ENTITY bccButton.label                    "Bcc alanına ekle:">
 <!ENTITY bccButton.accesskey                "G">

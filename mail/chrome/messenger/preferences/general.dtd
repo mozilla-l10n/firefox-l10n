@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "&brandShortName; Başlangıç Sayfası">
-<!ENTITY enableStartPage.label            "&brandShortName; açıldığında ileti alanında Başlangıç Sayfası göster">
+<!ENTITY enableStartPage.label            "&brandShortName; açıldığında ileti alanında Başlangıç Sayfasını göster">
 <!ENTITY enableStartPage.accesskey        "B">
 <!ENTITY location.label                   "Konum:">
 <!ENTITY location1.accesskey               "o">
