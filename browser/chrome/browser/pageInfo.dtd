@@ -27,10 +27,10 @@
 <!ENTITY  generalMetaName       "სახელი">
 <!ENTITY  generalMetaContent    "შიგთავსი">
 
-<!ENTITY  mediaTab              "მედიაფაილი">
-<!ENTITY  mediaTab.accesskey    "მ">
+<!ENTITY  mediaTab              "ფაილები">
+<!ENTITY  mediaTab.accesskey    "ფ">
 <!ENTITY  mediaLocation         "მდებარეობა:">
-<!ENTITY  mediaText             "ასოცირებული ტექსტი:">
+<!ENTITY  mediaText             "დართული ტექსტი:">
 <!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
 <!ENTITY  mediaAddress          "მისამართი">
 <!ENTITY  mediaType             "სახეობა">
