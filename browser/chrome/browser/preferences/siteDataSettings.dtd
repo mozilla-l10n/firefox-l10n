@@ -21,3 +21,5 @@
 <!ENTITY     removingSelected.description  "Membuang data laman turut akan memadam kuki yang berkaitan dan kandungan web luar talian. Ini boleh menyebabkan anda log keluar daripada laman web. Adakah anda pasti mahu membuat perubahan?">
 <!ENTITY     siteTree2.label               "Kuki laman web berikut akan dibuang">
 <!ENTITY     removingDialog1.title         "Membuang Kuki dan Data Laman">
+<!ENTITY     removingSelected1.description "Membuang kuki dan data laman boleh menglog anda keluar dari laman web. Adakah anda pasti mahu membuat perubahan?">
+<!ENTITY     siteTree3.label               "Kuki dan data laman untuk laman web berikut akan dibuang">
