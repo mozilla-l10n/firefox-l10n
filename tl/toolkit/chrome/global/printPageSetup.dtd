@@ -4,6 +4,7 @@
 
 <!-- extracted from printjoboptions.xul -->
 
+<!ENTITY printSetup.title    "Setup ng Pahina">
 
 
 <!ENTITY formatGroup.label   "Format">
@@ -45,4 +46,8 @@
 
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "Petsa/Oras">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "Custom…">
 
+<!ENTITY customPrompt.title  "Custom…">
+<!ENTITY customPrompt.prompt "Ilagay ang iyong custom na teksto para sa header/footer">

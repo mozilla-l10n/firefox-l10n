@@ -5,6 +5,7 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Inililimbag"> 
 <!ENTITY title    "Pamagat:"> 
+<!ENTITY progress "Pag-unlad:">
 <!ENTITY preparing "Paghahanda">
 <!ENTITY printComplete "Ang Pag-imprenta ay tapos na.">
 

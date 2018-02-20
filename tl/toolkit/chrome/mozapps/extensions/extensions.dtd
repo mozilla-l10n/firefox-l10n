@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Add-ons Manager">
 
 <!ENTITY search.placeholder                   "Hanapin lahat ng add-ons">
+
+<!ENTITY search.placeholder2                  "Maghanap sa addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Hanapin">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -23,8 +25,6 @@
 <!ENTITY getThemes.description                "Gusto mo bang i-personalize ang iyong browser?">
 <!ENTITY getThemes.learnMore                  "Mamili mula sa libo-libong tema.">
 
-<!ENTITY cmd.back.tooltip                     "Bumalik nang isang pahina">
-<!ENTITY cmd.forward.tooltip                  "Pumunta sa susunod na web page">
 
 <!ENTITY showUnsignedExtensions.button.label  "Ang ibang extensions ay hindi kayang ma-verify">
 <!ENTITY showAllExtensions.button.label       "Ipakita ang lahat ng extensions">
@@ -255,7 +255,6 @@
 <!ENTITY pluginDeprecation.description "May hindi ka mahanap? Ang ibang plugin ay di na suportado ng &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Matuto pa.">
 
-<!ENTITY legacyWarning.description "Nawawala ang isang bagay? Ang ilang mga extension ay hindi na suportado ng &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Ipakita ang mga extension ng legacy">
 <!ENTITY legacyExtensions.title "Mga Extension ng Legacy">
 <!ENTITY legacyExtensions.description "Ang mga extension na ito ay hindi nakakatugon sa kasalukuyang &brandShortName; Mga pamantayan upang ma-deactivate ang mga ito.">
