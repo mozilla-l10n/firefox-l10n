@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Gosodiadau - Data Gwefan">
+
+<!ENTITY     window1.title                 "Gosodiadau - Cwcis a Data Gwefan">
 <!ENTITY     hostCol.label                 "Gwefan">
 <!ENTITY     statusCol.label               "Statws">
+<!ENTITY     cookiesCol.label              "Cwcis">
 <!ENTITY     usageCol.label                "Storfa">
 <!ENTITY     searchTextboxPlaceHolder             "Chwilio gwefannau">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "C">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "Tynnu Data Gwefan">
 <!ENTITY     removingSelected.description  "Bydd tynnu data'r wefan hefyd yn tynnu cwcis a chynnwys gwe cysylltiedig. Gall hyn eich allgofnodi o wefannau. Ydych chi'n siŵr eich bod am wneud y newidiadau hyn?">
 <!ENTITY     siteTree2.label               "Bydd y cwcis canlynol yn cael eu tynnu">
+<!ENTITY     removingDialog1.title         "Tynnu Cwcis a Data Gwefan">
+<!ENTITY     removingSelected1.description "Gall dynnu cwcis a data gwefan eich allgofnodi o wefannau. Ydych chi'n siŵr eich bod am wneud y newidiadau hyn?">
+<!ENTITY     siteTree3.label               "Bydd cwcis a data gwefan yn cael eu tynnu o'r gwefannau canlynol">
