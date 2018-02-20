@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Podaci o strani">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Debager layouta">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Tab - ogledalo">
 <!ENTITY mirrorTabCmd.accesskey "T">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Blokirali ste vaš mikrofon za ovu web stranicu.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Blokirali ste dijeljenje vašeg ekrana ovoj web stranici.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Blokirali ste lokacijske informacije za ovu web stranicu.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Blokirali ste pohranjivanje podataka za ovu web stranicu.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Blokirali ste notifikacije za ovu web stranicu.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokirali ste trajno spremište za ovu web stranicu.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Imate blokirane pop-up prozore za ovu web stranicu.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Novi privatni prozor">
 <!ENTITY newPrivateWindow.accesskey "v">
-<!ENTITY newNonRemoteWindow.label   "Novi ne-e10s prozor">
 
 <!ENTITY editMenu.label         "Uredi">
 <!ENTITY editMenu.accesskey       "e">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Prikaz cijele historije">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Prilagodi">
-<!ENTITY appMenuCustomize.tooltip "Prilagodi meni i alatne trake">
-<!ENTITY appMenuCustomizeExit.label "Napusti prilagođavanje">
-<!ENTITY appMenuCustomizeExit.tooltip "Završi prilagođavanje">
-
 <!ENTITY appMenuHistory.showAll.label "Prikaži svu historiju">
 <!ENTITY appMenuHistory.clearRecent.label "Obriši skorašnju historiju…">
 <!ENTITY appMenuHistory.restoreSession.label "Vrati prethodnu sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži bočnu traku za historiju">
 <!ENTITY appMenuHistory.recentHistory.label "Nedavna historija">
 <!ENTITY appMenuHelp.label "Pomoć">
-<!ENTITY appMenuHelp.tooltip "Otvori meni pomoći">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizovani tabovi">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Nema sinhroniziranih tabova… još!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite li vidjeti vaše tabove s drugih uređaja ovdje?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync postavke">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otvori postavke za sinhronizaciju">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se da vidite listu tabova s vaših ostalih uređaja.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Vaš račun mora biti verifikovan.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se na Sync">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Proširenje:">
 <!ENTITY urlbar.switchToTab.label     "Prebaci se na tab:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Da li biste željeli unaprijediti vaše iskustvo pretraživanja pomoću prijedloga?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saznajte više…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Da">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Savjet:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Osnovni stil stranice">
 <!ENTITY pageStylePersistentOnly.accesskey "O">
 
-<!ENTITY pageReportIcon.tooltip            "Promijeni postavke blokiranja pop-up prozora za ovu web stranicu">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Prevucite svoje omiljene stavke u alatnu traku ili dodatni meni.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Želite više alata?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Izaberite neki od hiljada add-ona">
 <!ENTITY customizeMode.restoreDefaults "Vrati izvorne vrijednosti">
 <!ENTITY customizeMode.done "Gotovo">
 <!ENTITY customizeMode.titlebar "Traka s naslovom">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Preuzmite više tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Prevucite stavke ovdje kako bi vam bile na dohvat ruke a izvan vaše alatne trake…">
 <!ENTITY customizeMode.overflowList.title2 "Dodatni meni">
 <!ENTITY customizeMode.overflowList.description "Prevucite stavke ovdje kako bi vam bile na dohvat ruke ali izvan vaše alatne trake…">
 <!ENTITY customizeMode.uidensity "Gustina">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Akcije stranice">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj u adresnu traku">
 <!ENTITY pageAction.removeFromUrlbar.label "Ukloni iz adresne trake">
-
 <!ENTITY pageAction.allowInUrlbar.label "Prikaži u adresnoj traci">
 <!ENTITY pageAction.disallowInUrlbar.label "Ne prikazuj u adresnoj traci">
 <!ENTITY pageAction.manageExtension.label "Upravljanje ekstenzijom…">
@@ -1023,3 +1003,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Funkcionalnosti pristupačnosti su omogućene">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Upravljajte vašim add-onima klikom na <image class='addon-addon-icon'/> u <image class='addon-toolbar-icon'/> meniju.">

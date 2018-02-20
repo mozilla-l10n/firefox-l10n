@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Trudimo se da vam pružimo izbor i da sakupljamo samo ono što nam je potrebno kako bismo unaprijedili &brandShortName; za sve. Uvijek od vas tražimo dozvolu prije slanja bilo kakvih ličnih informacija.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Polica privatnosti">
 
+<!ENTITY collectBrowserErrors.label          "Dopusti da &brandShortName; šalje izvještaje Mozilli o greškama web browsera (uključujući i poruke o greškama)">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Saznajte više">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Dozvoli da &brandShortName; šalje izvještaje u rušenju Mozilli">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "i">
 <!ENTITY crashReporterLearnMore.label    "Saznajte više">

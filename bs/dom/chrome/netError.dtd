@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Greška pri učitavanju stranice">
 <!ENTITY retry.label "Pokušaj ponovo">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Neuspješno povezivanje">
 <!ENTITY connectionFailure.longDesc "<p>Iako je stranica validna, browser je nije uspio otvoriti.</p><ul><li>Da li je stranica trenutno nedostupna? Pokušajte ponovo kasnije.</li><li>Ne možete otvoriti ni neku drugu stranicu? Provjerite internet konekciju.</li><li>Da li je vaš kompjuter zaštićen od strane firewalla ili proxy-a? Neispravne postavke mogu uticati na surfanje Webom.</li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti server prije nego što možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "Stranica blokirana">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Pristup je onemogućen od strane vašeg administratora.</p>">
