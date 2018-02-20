@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Nastajenja - sedłowe daty">
+
+<!ENTITY     window1.title                 "Nastajenja - cookieje a sedkowe daty">
 <!ENTITY     hostCol.label                 "Sedło">
 <!ENTITY     statusCol.label               "Status">
+<!ENTITY     cookiesCol.label              "Cookieje">
 <!ENTITY     usageCol.label                "Składowak">
 <!ENTITY     searchTextboxPlaceHolder             "Websedła pytaś">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "s">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "Daty sedła wótwónoźeś">
 <!ENTITY     removingSelected.description  "Gaž daty sedła wótwónoźujośo, budu se teke pśisłušne cookieje a webwopśimjeśe offline wótwónoźowaś. Pśez to se snaź z websedłow wótzjawijośo. Cośo změny napšawdu pśewjasć?">
 <!ENTITY     siteTree2.label               "Slědujuce cookieje websedła se wótwónoźiju">
+<!ENTITY     removingDialog1.title         "Cookieje a sedłowe daty wótwónoźeś">
+<!ENTITY     removingSelected1.description "Jo móžno, až se was wótzjawjaju, gaž cookieje a sedłowe daty wótwónoźujośo. Cośo změny napšawdu pśewjasć?">
+<!ENTITY     siteTree3.label               "Cookieje a sedłowe daty se za slědujuce websedła wótwónoźiju">
