@@ -66,7 +66,6 @@
 <!ENTITY notCached.title "Siden er udløbet">
 <!ENTITY notCached.longDesc "<p>Den forespurgte side er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
-
 <!ENTITY netOffline.title "Offline-tilstand">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -93,7 +92,6 @@
 
 <!ENTITY netTimeout.title "Forbindelsens tidsfrist udløb">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
 
 <!ENTITY unknownProtocolFound.title "Adressen kunne ikke forstås">
 <!ENTITY unknownProtocolFound.longDesc "
@@ -177,10 +175,10 @@ og du anbefales at prøve igen senere.</li>
 <!ENTITY securityOverride.getMeOutOfHereButton "Få mig væk herfra!">
 <!ENTITY securityOverride.exceptionButtonLabel "Tilføj undtagelse…">
 
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to thunderbird. -->
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "
 <p>Du bør ikke tilføje en undtagelse, hvis du ikke bruger en internetforbindelse du stoler fuldt og fast på, eller hvis du ikke er vant til at se advarsler fra denne server.</p>
@@ -196,3 +194,5 @@ netError.xhtml) because it exposes functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>  bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber kan derfor nemt få adgang til information, som du troede var sikker. Webstedets administrator er nødt til at løse problemerne på serveren, før du kan besøge webstedet.</p><p>Fejlkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "Siden blokeret">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Adgangen er blevet blokeret af din administrator.</p>">
