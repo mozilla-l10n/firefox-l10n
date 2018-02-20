@@ -3,6 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Kusɨɨ inidáni a nkanta-nu">
+<!ENTITY firstrun_urlbar_message2 "Kuta´vi-ani a kajinu &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "Privacidad">
+<!ENTITY firstrun_panel_title_customize "Sá´á vii">
+<!ENTITY firstrun_customize_message "Sá´á &brandShortName; nantiñu noo´o.">
+<!ENTITY firstrun_customize_subtext "Sá´á vii &brandShortName; jii Ka̱a̱ chunta´an. Chiyu´u tutu xiko, tee a jíía a xíín kaji iin tutu vii kua noo´o.">
 <!ENTITY firstrun_bookmarks_title "Sɨ´ɨ daa nsá´ánu">
 <!ENTITY firstrun_bookmarks_message "Daa a ta´a ininu, nuu">
 <!ENTITY firstrun_bookmarks_subtext "Nake´e daa a ta´a ininu jii daa sɨ´ɨ dee kuvinu sá´ánu iin a nánuku">
@@ -457,7 +462,6 @@
 <!ENTITY contextmenu_open_new_tab "Síne nuu iin pestaña jíía">
 <!ENTITY contextmenu_open_private_tab "Síne nuu iin pestaña yu´u">
 <!ENTITY contextmenu_remove "Xita">
-<!ENTITY contextmenu_add_to_launcher "Chisó ya´a nuu kajie´e">
 <!ENTITY contextmenu_share "Kua´a">
 <!ENTITY contextmenu_pasteandgo "Tee jee kuán´án">
 <!ENTITY contextmenu_paste "Tee">
@@ -504,7 +508,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Nxita página">
-
 <!ENTITY folder_removed "Nxita carpeta">
 
 <!ENTITY bookmark_edit_title "Natee a ta´a ini noo´o">
@@ -767,6 +770,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "¡Nei koo ini-nu! &brandShortName; nsatiñu nuu ka̱a̱ ya´a (&formatS1;, &formatS2;). Dee va´a ininu, xinuu iin versión ka̱a̱ iyo vatu.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+
 <!ENTITY eol_notification_title2 "&brandShortName; nsa actualizar-ka">
 <!ENTITY eol_notification_summary "Kɨ´ɨ saa kuvi nɨ´ɨnu kue´e-ka kuninu">
 
@@ -774,8 +779,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; iyo actualizado">
 <!ENTITY whatsnew_notification_summary "Nani´i daa a jíía nuu versión ya´a">
-
-<!ENTITY promotion_add_to_homescreen "Chisó ya´a nuu kajie´e xinañu´un">
 
 
 <!ENTITY helper_first_offline_bookmark_title "Ka´vi offline">
@@ -804,6 +807,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Xita">
+<!ENTITY activity_stream_delete_history "Náxitá-má nuu sɨ´ɨ nsá´ánu">
 
 <!ENTITY private_tab_learn_more "¿A kuvinu kutu´va-ka?">
 

@@ -24,4 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Páginas a kumi software ntu íyo va´a kuvi-daja chu'un software a sa̱naan sá´á xeen ka̱a̱ nuu jínu ya´a.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Nuu ya´a sa̱naan yɨ´ɨ yu´u malware">
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; bloqueó esta página porque podría tratar de instalar aplicaciones peligrosas que roben o borren su información (por ejemplo fotos, contraseñas, mensajes y tarjetas de crédito).">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; nchiyu´u nuu ya´a chii sa̱naan kuvi chu´un ka̱a̱ kuvi sa´a xeen (kuvi xinoo daa tutu natava, password, tu´un, tunin tutu a kumi xu´un).">
