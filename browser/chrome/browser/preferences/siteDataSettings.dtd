@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "الإعدادات - بيانات المواقع">
+
+<!ENTITY     window1.title                 "الإعدادات - الكعكات وبيانات المواقع">
 <!ENTITY     hostCol.label                 "الموقع">
 <!ENTITY     statusCol.label               "الحالة">
+<!ENTITY     cookiesCol.label              "الكعكات">
 <!ENTITY     usageCol.label                "التخزين">
 <!ENTITY     searchTextboxPlaceHolder             "ابحث في المواقع">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "ح">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "إزالة بيانات المواقع">
 <!ENTITY     removingSelected.description  "إزالة بيانات الموقع سيزيل أيضا الكعكات و محتوى الوب للعمل دون اتصال. قد يتسبب هذا في ولوجك خارج المواقع. أمتأكد أنك تريد إجراء التغييرات؟">
 <!ENTITY     siteTree2.label               "ستزال كعكات الموقع التالي">
+<!ENTITY     removingDialog1.title         "إزالة الكعكات وبيانات المواقع">
+<!ENTITY     removingSelected1.description "بإزالة الكعكات وبيانات المواقع قد تخرج من موقع الوِب. أمتأكد من إجراء هذه التغييرات؟">
+<!ENTITY     siteTree3.label               "ستُزال الكعكات وبيانات المواقع للمواقع الآتية">
