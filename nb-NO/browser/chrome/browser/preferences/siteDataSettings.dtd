@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "Innstillinger - sidedata">
 
+<!ENTITY     window1.title                 "Innstillinger - infokapsler og nettsidedata">
 <!ENTITY     hostCol.label                 "Nettsted">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Infokapsler">
