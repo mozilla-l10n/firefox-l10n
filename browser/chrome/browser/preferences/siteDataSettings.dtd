@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Nastajenja - sydłowe daty">
+
+<!ENTITY     window1.title                 "Nastajenja - placki a daty sydła">
 <!ENTITY     hostCol.label                 "Sydło">
 <!ENTITY     statusCol.label               "Status">
+<!ENTITY     cookiesCol.label              "Placki">
 <!ENTITY     usageCol.label                "Składowak">
 <!ENTITY     searchTextboxPlaceHolder             "Websydła pytać">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "s">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "Daty sydła wotstronić">
 <!ENTITY     removingSelected.description  "Hdyž daty sydła wotstronjeće, budu so tež přisłušne placki a webwobsah offline wotstronjeć. Přez to so snano z websydłow wotzjewiće. Chceće změny woprawdźe přewjesć?">
 <!ENTITY     siteTree2.label               "Slědowace placki websydła so wotstronja">
+<!ENTITY     removingDialog1.title         "Placki a daty sydła wotstronić">
+<!ENTITY     removingSelected1.description "Je móžno, zo so was wotzjewjeja, hdyž placki a sydłowe daty wotstronjeće. Chceće změny woprawdźe přewjesć?">
+<!ENTITY     siteTree3.label               "Placki a sydłowe daty so za slědowace websydła wotstronja">
