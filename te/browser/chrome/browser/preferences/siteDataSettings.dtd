@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "అమరికలు - సైటు డేటా">
+
 <!ENTITY     hostCol.label                 "సైటు">
 <!ENTITY     statusCol.label               "స్థితి">
+<!ENTITY     cookiesCol.label              "కుకీలు">
 <!ENTITY     usageCol.label                "నిల్వ">
 <!ENTITY     searchTextboxPlaceHolder             "వెబ్‌సైట్లను వెతకండి">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
