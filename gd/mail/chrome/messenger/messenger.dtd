@@ -317,7 +317,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Cabadaich">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd.key "I">
+<!ENTITY goChatCmd2.key "h">
 <!ENTITY prevStarredMsgCmd.label "Teachdaireachd le rionnag">
 <!ENTITY prevStarredMsgCmd.accesskey "T">
 <!ENTITY folderMenu.label "Pasgan">
@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Deasaich an dreachd teachdaireachd">
 <!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY editTemplateMsgCmd.label "Deasaich an teamplaid">
+<!ENTITY editTemplateMsgCmd.accesskey "t">
 <!ENTITY newMsgFromTemplateCmd.label "Teachdaireachd ùr o theamplaid">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Cruthaich criathrag on teachdaireachd…">

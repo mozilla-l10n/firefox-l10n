@@ -5,3 +5,6 @@
 <!ENTITY virtualFolderListTitle.title        "Tagh pasga(i)n">
 <!ENTITY virtualFolderDesc.label       "Tagh na pasgain a thèid a rannsachadh:">
 
+
+<!ENTITY folderName.label "Ainm aʼ phasgain">
+<!ENTITY folderSearch.label "Lorg">
