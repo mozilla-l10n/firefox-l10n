@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ayarlar - Site Verileri">
+
+<!ENTITY     window1.title                 "Ayarlar - Çerezler ve Site Verileri">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Durum">
+<!ENTITY     cookiesCol.label              "Çerezler">
 <!ENTITY     usageCol.label                "Depolama">
 <!ENTITY     searchTextboxPlaceHolder             "Web sitelerinde ara">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "W">
@@ -17,3 +20,4 @@
 <!ENTITY     removingDialog.title          "Site verileri siliniyor">
 <!ENTITY     removingSelected.description  "Site verilerini silerseniz ilgili çerezler ve çevrimdışı web içerikleri de silinecektir. Bu durumda sitelerdeki açık oturumlarınız kapanabilir. Değişiklikleri uygulamak istiyor musunuz?">
 <!ENTITY     siteTree2.label               "Aşağıdaki web sitelerinin çerezleri silinecektir">
+<!ENTITY     removingDialog1.title         "Çerezler ve site verileri siliniyor">
