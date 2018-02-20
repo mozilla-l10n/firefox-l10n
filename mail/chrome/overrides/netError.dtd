@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Probléma az oldal betöltése közben">
 <!ENTITY retry.label "Próbálja újra">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "A kapcsolódás sikertelen">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -84,11 +84,11 @@
 <!ENTITY securityOverride.linkText "Vagy hozzáadhat egy kivételt…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Oldal elhagyása">
 <!ENTITY securityOverride.exceptionButtonLabel "Kivétel hozzáadása…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Ne adjon hozzá kivételt, ha nem teljesen megbízható internetkapcsolatot használ, vagy ha nem szokta látni ezt a figyelmeztetést ennél a kiszolgálónál.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -99,3 +99,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> olyan biztonsági technológiát használ, amely elavult, és sérülékeny a támadásokkal szemben. Egy támadó könnyen felfedhet olyan információkat, amelyeket biztonságosnak gondol. A weboldal rendszergazdájának ki kell javítania a kiszolgálót, mielőtt meglátogathatja az oldalt.</p><p>Hibakód: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "Lap blokkolva">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>A rendszergazda letiltotta a hozzáférést .</p>">
