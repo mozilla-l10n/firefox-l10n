@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Tereg̃uahẽporãite">
-<!ENTITY firstrun_urlbar_message2 "Aguyje reiporavohaguére &brandShortName;">
+<!ENTITY firstrun_urlbar_message2 "Aguyje reiporavo haguére &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Peteĩ kundahára ojapóva Mozilla, peteĩ aty oheka\&apos;ỹva viru ha oipotáva ñandutiveve isãso ha oikóva opavavépe g̃uarã.">
 <!ENTITY firstrun_panel_title_privacy "Tekovepypegua">
 <!ENTITY firstrun_privacy_message "Eikundaha ndaiporiramoguáicha omañañemíva nderehe">
 <!ENTITY firstrun_privacy_subtext "Kundahañemi rupive oñeñangareko nderehe ani hag̃ua ambuekuéra oikuaa mba\&apos;épa rejapo ha resẽ vove ñandutivevégui ndojekuaamo\&apos;ãi mba\&apos;épa rehecha kuri.">
 <!ENTITY firstrun_panel_title_customize "Ñemomba\&apos;ete">
-<!ENTITY firstrun_customize_message "Emboheko &brandShortName; ikatuhaguáicha omba\&apos;apo reipotaháicha.">
+<!ENTITY firstrun_customize_message "Emboheko &brandShortName; ikatu hag̃uáicha omba\&apos;apo reipotaháicha.">
 <!ENTITY firstrun_customize_subtext "Eñemomba\&apos;ete &brandShortName; rehe eipurúvo tembipuru\&apos;i joajupyre. Emboyke ta\&apos;ãnga omba\&apos;evendeséva ndéve, embojoapy Firefox-re tembipuru\&apos;i ojapóva reikotevẽva ýrõ embojegua reipotaháicha.">
 <!ENTITY firstrun_bookmarks_title "Tembiasakue">
 <!ENTITY firstrun_bookmarks_message "Eguerohoryvéva, tenonde ha mbytépe">
