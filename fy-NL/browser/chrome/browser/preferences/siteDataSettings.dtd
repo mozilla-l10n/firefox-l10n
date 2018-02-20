@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ynstellingen – Websitegegevens">
+
 <!ENTITY     hostCol.label                 "Website">
 <!ENTITY     statusCol.label               "Steat">
+<!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Unthâld">
 <!ENTITY     searchTextboxPlaceHolder             "Websites trochsykje">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "W">
