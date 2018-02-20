@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Beállítások – Oldal adatai">
+
+<!ENTITY     window1.title                 "Beállítások – Sütik és oldaladatok">
 <!ENTITY     hostCol.label                 "Oldal">
 <!ENTITY     statusCol.label               "Állapot">
+<!ENTITY     cookiesCol.label              "Sütik">
 <!ENTITY     usageCol.label                "Tárhely">
 <!ENTITY     searchTextboxPlaceHolder             "Weboldalak keresése">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "Oldaladatok törlése">
 <!ENTITY     removingSelected.description  "Az oldal adatainak eltávolítása a kapcsolódó sütiket és kapcsolat nélküli webes tartalmat is eltávolítja. Emiatt egyes weboldalakra majd újra be kell jelentkezni. Biztosan végrehajtja a módosításokat?">
 <!ENTITY     siteTree2.label               "A következő sütik eltávolításra kerülnek">
+<!ENTITY     removingDialog1.title         "Sütik és oldaladatok eltávolítása">
+<!ENTITY     removingSelected1.description "A sütik és oldaladatok eltávolítása kijelentkeztetheti a weboldalakról. Biztos akarja ezeket a változásokat?">
+<!ENTITY     siteTree3.label               "A következő webhelyekhez tartozó sütik és oldaladatok eltávolításra kerülnek">
