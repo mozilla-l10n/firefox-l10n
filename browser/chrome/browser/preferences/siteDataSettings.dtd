@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "Tetapan - Data Laman">
 
+<!ENTITY     window1.title                 "Tetapan - Kuki dan Data Laman">
 <!ENTITY     hostCol.label                 "Laman">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Kuki">
@@ -19,3 +20,4 @@
 <!ENTITY     removingDialog.title          "Mengalihkeluar Data Laman">
 <!ENTITY     removingSelected.description  "Membuang data laman turut akan memadam kuki yang berkaitan dan kandungan web luar talian. Ini boleh menyebabkan anda log keluar daripada laman web. Adakah anda pasti mahu membuat perubahan?">
 <!ENTITY     siteTree2.label               "Kuki laman web berikut akan dibuang">
+<!ENTITY     removingDialog1.title         "Membuang Kuki dan Data Laman">
