@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "'S urrainn dhut cuingeachadh a-rèir aoise is meud a chur air luchdadh a-nuas de theachdaireachdan on fhrithealaiche 's air cumail de lethbhric ionadail gus àite a chaomhnadh air an diosg.">
 <!ENTITY allFoldersOffline.label "Cum teachdaireachdan airson a' chunntais seo air a' choimpiutair seo">
 <!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Cum na teachdaireachdan sna pasgain uile airson a’ chunntais seo air a’ choimpiutair seo">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "An aire: Bidh buaidh aig an atharrachadh seo air a h-uile pasgan sa chunntas seo. Cleachd am putan “Adhartach”… gus pasgain fa leth a shuidheachadh.">
 <!ENTITY offlineNotDownload.label "Teachdaireachdan a tha nas motha na">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Na luchdaich a-nuas teachdaireachdan a tha nas motha na">
@@ -37,13 +40,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sioncronachadh theachdaireachdan">
 <!ENTITY diskspaceGroupTitle.label "Àite air an diosg">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Sionronaich a h-uile teachdaireachd ionadail ge be dè an aois">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Sioncronaich an fheadhainn as ùire">
