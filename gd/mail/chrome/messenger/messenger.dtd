@@ -506,6 +506,8 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Dì-bhugadair nan tuilleadan">
 <!ENTITY addonDebugCmd.accesskey "a">
+<!ENTITY debugAddonsCmd.label "Dì-bhugaich na tuilleadain">
+<!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Dì-bhugadair frèam na susbaint">
 <!ENTITY tabsDebugCmd.accesskey "D">
 <!ENTITY errorConsoleCmd.label "Consoil nam mearachd">
@@ -754,6 +756,8 @@
 <!ENTITY contextEditMsgAsNew.label "Deasaich mar theachdaireachd ùr">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextEditDraftMsg.label "Deasaich an dreachd teachdaireachd">
+<!ENTITY contextEditTemplate.label "Deasaich an teamplaid">
+<!ENTITY contextEditTemplate.accesskey "t">
 <!ENTITY contextArchive.label "Tasg-lann">
 <!ENTITY contextArchive.accesskey "T">
 <!ENTITY contextReplySender.label "Freagair an seòladair a-mhàin">
