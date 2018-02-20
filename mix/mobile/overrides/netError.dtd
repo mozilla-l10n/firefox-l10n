@@ -67,6 +67,7 @@
 <!ENTITY proxyResolveFailure.title "kue ku ntanèe servidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Kunchee configuración del Proxy.</li> <Kunchee kaa ndusuku a yee conexión Wi-Fi a datos. <button id='wifi'>Activar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Página yoo kue ku nuna vai">
 
