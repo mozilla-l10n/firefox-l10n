@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "le ainm an t-seòladair is ro-shealladh na teachdaireachd">
 <!ENTITY  buddyInfoOnly.label                 "le ainm an t-seòladair a-mhàin">
 <!ENTITY  dummyNotification.label             "as aonais fiosrachaidh sam bith">
+<!ENTITY  getAttention.label                  "Boillsg an nì air bàr nan saothair">
+<!ENTITY  getAttention.accesskey              "B">
+<!ENTITY  getAttentionMac.label               "Beòthaich ìomhaigheag an doca">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "f">
 <!ENTITY  chatSound.label                     "Cluich fuaim">
 <!ENTITY  play.label                          "Cluich">
