@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "সেটিং - সাইট ডেটা">
+
 <!ENTITY     hostCol.label                 "সাইট">
 <!ENTITY     statusCol.label               "অবস্থা">
+<!ENTITY     cookiesCol.label              "কুকি">
 <!ENTITY     usageCol.label                "স্টোরেজ">
 <!ENTITY     searchTextboxPlaceHolder             "ওয়েবসাইট অনুসন্ধান">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
