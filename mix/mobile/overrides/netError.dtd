@@ -5,15 +5,15 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "kue vàa niki'tsàa pagina">
-<!ENTITY retry.label "ki'tsàa tuku">
+<!ENTITY loadError.label "Kue vàa nikitsàa pagina">
+<!ENTITY retry.label "Kitsàa tuku">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "kue ku ki'tsau">
+<!ENTITY connectionFailure.title "Kue ku kitsau">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "ma kùu kivu nu dirección yòo">
+<!ENTITY deniedPortAccess.title "Ma kùu kivu nu dirección yòo">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "kòo servidor ni ntanèe">
