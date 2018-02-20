@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Taq nuk'ulem - Ruxaq ruk'amaya'l tzij">
+
+<!ENTITY     window1.title                 "Taq Nuk'ulem - Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l">
 <!ENTITY     hostCol.label                 "Ruxaq k'amaya'l">
 <!ENTITY     statusCol.label               "Rub'eyal">
+<!ENTITY     cookiesCol.label              "Taq kaxlanwey">
 <!ENTITY     usageCol.label                "Yakoj">
 <!ENTITY     searchTextboxPlaceHolder             "Kekanöx taq ruxaq k'amaya'l">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "K">
@@ -17,3 +20,4 @@
 <!ENTITY     removingDialog.title          "Tajin niyuj rutzij ruxaq k'amaya'l">
 <!ENTITY     removingSelected.description  "Ri kiyujik taq tzij chupam ri ruxaq k'amaya'l chuqa' xkeruyüj el ri taq kaxlanwey kiximon ki' chuqa' ri taq ruwa retamab'al ajk'amaya'l toq man jun okem pa k'amaya'l. Re re' nitikïr nel el chi kipan ri taq ruxaq k'amaya'l. ¿La kan nawajo' yeb'än kan re taq jaloj re'?">
 <!ENTITY     siteTree2.label               "Xkeyujtäj el re taq kaxlanwey re' chupam re ajk'amaya'l ruxaq">
+<!ENTITY     removingDialog1.title         "Yesilöx taq Kaxlanwey chuqa' Rutzij K'amaya'l">
