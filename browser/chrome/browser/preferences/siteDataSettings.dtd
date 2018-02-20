@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Tetapan - Data Laman">
+
 <!ENTITY     hostCol.label                 "Laman">
 <!ENTITY     statusCol.label               "Status">
+<!ENTITY     cookiesCol.label              "Kuki">
 <!ENTITY     usageCol.label                "Storan">
 <!ENTITY     searchTextboxPlaceHolder             "Carian laman web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "C">
