@@ -6,6 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Jwano angija ki data me kakube weng ma &brandShortName; ogwoko twero kwanyi woko ki ii kakube ki kwanyo jami me kakube mape iwiyamo. Jwano data ma kigwoko pe bi yelo donyo iyie mamegi.">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Angija ki Data me kakube">
 <!ENTITY clearSiteData.description    "Mogo ki bikwanyi woko ki ii kakube kacce kijwayo">

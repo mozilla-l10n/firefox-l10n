@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ter - Data me Kakube">
+
+<!ENTITY     window1.title                 "Ter - Angija ki Data me kakube">
 <!ENTITY     hostCol.label                 "Kakube">
 <!ENTITY     searchTextboxPlaceHolder             "Yeny kakube">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
@@ -15,3 +17,6 @@
 <!ENTITY     removingDialog.title          "Kwanyo Data me Kakube">
 <!ENTITY     removingSelected.description  "Kwanyo data me kakube bene bikwanyo angija makwako ki jami me kakube mape iwiyamo. Man twero kwanyi woko ki i kakube. Imoko ada ni imito timo alokaloka?">
 <!ENTITY     siteTree2.label               "Angija pi kakube magi ki bi kwanyo gi woko">
+<!ENTITY     removingDialog1.title         "Kwanyo Angija ki Data me kakube">
+<!ENTITY     removingSelected1.description "Kwanyo angija ki data me kakube twero kwanyi woko ki ii kakube. Imoko ada ni imito timo alokaloka?">
+<!ENTITY     siteTree3.label               "Ki bikwanyo woko angija ki data me kakube pi kakube magi">

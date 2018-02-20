@@ -12,6 +12,7 @@
 <!ENTITY engine.history.label       "Gin mukato">
 <!ENTITY engine.history.accesskey   "m">
 <!ENTITY engine.logins.label        "Donyo iyie">
+<!ENTITY engine.logins.title        "Nying me tic ki mung me donyo ma igwoko">
 <!ENTITY engine.logins.accesskey    "D">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -20,10 +21,15 @@
 <!ENTITY engine.prefsWin.label      "Jami ayera">
 <!ENTITY engine.prefs.label         "Ma imaro">
 <!ENTITY engine.prefs.accesskey     "m">
+<!ENTITY engine.prefs.title         "Ter ma jwi, me mung, ki me ber bedo ma iloko gi">
 <!ENTITY engine.addons.label        "Med-ikome">
+<!ENTITY engine.addons.title        "Lamed ki theme pi Firefox desktop">
 <!ENTITY engine.addons.accesskey    "M">
 <!ENTITY engine.addresses.label     "Kanonge">
+<!ENTITY engine.addresses.title     "Kanonge me pocta ma igwoko (desktop keken)">
 <!ENTITY engine.addresses.accesskey "i">
+<!ENTITY engine.creditcards.label   "Kad me bank">
+<!ENTITY engine.creditcards.title   "Nying, namba ki nino dwe me tum ne (desktop keken)">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nying Nyonyo">

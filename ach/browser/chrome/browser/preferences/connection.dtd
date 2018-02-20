@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Yik proxy me nongo intanet">
+
+<!ENTITY  proxyTitle.label2             "Ter Proxy me nongo Intanet">
 <!ENTITY  noProxyTypeRadio.label        "Proxy peke">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Tii ki ter pa proxy me nyonyo">
@@ -26,6 +28,7 @@
 <!ENTITY  http2.accesskey               "x">
 <!ENTITY  ssl2.label                    "Proxy me SSL">
 <!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "Lami kube me SOCKS">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">

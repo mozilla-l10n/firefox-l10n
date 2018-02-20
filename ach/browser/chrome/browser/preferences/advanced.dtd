@@ -35,12 +35,16 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Wa tute me miini jami ayera ki wacoko keken ngo ma wa mito me miyo ki yubo maber &brandShortName; pi dano weng. Jwijwi wa penyo pi twero ma pud pe kigamo ngec ma ngat moni.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Ngec me mung">
 
+<!ENTITY collectBrowserErrors.label          "Yee &brandShortName; me cwalo ripot me bal pi layeny (bene ki kwena me bal) bot Mozilla">
+<!ENTITY collectBrowserErrorsLearnMore.label "Nong ngec mapol">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Yee &brandShortName; me cwalo ripot me poto bot Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Nong ngec mapol">
 
 <!ENTITY networkTab.label                "Kube">
 
+<!ENTITY networkProxy.label              "Proxy me netwak">
 
 <!ENTITY connectionDesc.label            "Yik kit ma &brandShortName; kube kwede ki intanet">
 
@@ -125,5 +129,7 @@ available. -->
                                          "T">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Nong ngec mapol">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Nong ngec ikom kit me roto ka kicako tic mapol">
 <!ENTITY allowHWAccel.label              "Tii ki lamed dwiro pa nyonyo ka tye">
 <!ENTITY allowHWAccel.accesskey          "o">
