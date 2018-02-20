@@ -12,6 +12,9 @@
 <!ENTITY aboutUrlClassifier.cacheTableName              "نام جدول">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "سابقہ">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ٹھیک کریں">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "لاگ ماڈیول سیٹ کریں">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "لاگ مسل سیٹ کریں">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS لاگ سیٹ کریں">
 <!ENTITY aboutUrlClassifier.debugSBModules              "محفوظ براؤزانگ لاگ ماڈیول">
 <!ENTITY aboutUrlClassifier.debugModules                "موجودہ لاگ ماڈیول">
 <!ENTITY aboutUrlClassifier.debugSBJSModules            "محفوظ براوزنگ JS لاگ">
