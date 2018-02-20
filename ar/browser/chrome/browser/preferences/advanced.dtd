@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين &brandShortName;. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.">
 <!ENTITY dataCollectionPrivacyNotice.label    "تنويه الخصوصية">
 
+<!ENTITY collectBrowserErrors.label          "اسمح بأن يُرسل &brandShortName; تقارير بأخطاء المتصفح (بما في ذلك رسائل الأخطاء) إلى موزيلا.">
+<!ENTITY collectBrowserErrors.accesskey      "خ">
+<!ENTITY collectBrowserErrorsLearnMore.label "اطّلع على المزيد">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "اسم أن يرسل &brandShortName; بلاغلات الانهيار إلى موزيلا">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "ن">
 <!ENTITY crashReporterLearnMore.label    "اطّلع على المزيد">
