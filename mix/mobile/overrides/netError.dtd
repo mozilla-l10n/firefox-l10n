@@ -67,14 +67,20 @@
 <!ENTITY proxyResolveFailure.title "kue ku ntanèe servidor proxy">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Kunchee configuración del Proxy.</li> <Kunchee kaa ndusuku a yee conexión Wi-Fi a datos. <button id='wifi'>Activar Wi-Fi</button> </li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul>
+  <li>Kunchee configuración del Proxy.</li>
+  <li>Kunchee kaa ndusuku a yee conexión Wi-Fi a datos.
+    <button id='wifi'>Enable Wi-Fi</button>
+  </li> </ul><ul>">
 
 <!ENTITY redirectLoop.title "Página yoo kue ku nuna vai">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Tu'ndoò yoo kui ri koo cookies.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Tu'un kue nchatuko ña servidor">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Kunchee a kumu nu servidor Personal Security Manager.</li><li>Ña ño'o kui tsa'a nishi kaa servidor.</li></ul>">
 
 <!ENTITY nssFailure2.title "Conexión va'a">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Página kunu kuncheu kue ku nuni yee ña vaa.</li> <li>Saa ña mani katu'un sto'o sitio web tsa tunto'o.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Mani'ku chitai'ña">
 
