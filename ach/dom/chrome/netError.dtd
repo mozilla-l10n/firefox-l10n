@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Bal me cano pot buk">
 <!ENTITY retry.label "Tem Doki">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kube pe Olare">
 <!ENTITY connectionFailure.longDesc "<p>Kadi bedi kakube nen calo tye atir, layeny onongo pe romo cako kube.</p><ul><li>Onyo kakube peke pi tutunu? Tem doki lacen.</li><li>Pe iromo yenyo di bar mapat?  Rot kube pa kakube me komputa.</li><li>Komputa mamegi onyo kakube ki tyeko gengo woko ki firewall onyo proxi? Ter ma pe kakare romo balo yenyo kakube.</li></ul>">
@@ -86,3 +86,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> tiyo ki diro me ber bedo ma con ki kiromo mwonyo ne cawa mo keken. Ngat ma omwonyo romo nyuto ngec mamegi ma itamo no ni tye maber iyoo mayot. Laloc me kakube ne myero kong oyub lapok tic ma pud pe ilimo kakube ne.</p><p>Kod me bal: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Laloc mamegi ojuko woko nongo.</p>">
