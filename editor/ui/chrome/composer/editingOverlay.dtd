@@ -13,16 +13,16 @@
 <!ENTITY fileRecentMenu.accesskey "n">
 <!ENTITY saveCmd.label "Kaydet">
 <!ENTITY saveCmd.accesskey "d">
-<!ENTITY saveAsCmd.label "Farklı Kaydet…">
+<!ENTITY saveAsCmd.label "Farklı kaydet…">
 <!ENTITY saveAsCmd.accesskey "F">
 <!ENTITY saveAsChangeEncodingCmd2.label "Metin Kodlamasını Değiştirip Kaydet">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
 <!ENTITY publishCmd.label "Yayımla">
 <!ENTITY publishCmd.accesskey "Y">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Farklı Yayımla…">
+<!ENTITY publishAsCmd.label "Farklı yayımla…">
 <!ENTITY publishAsCmd.accesskey "l">
-<!ENTITY fileRevert.label "Geri Al">
+<!ENTITY fileRevert.label "Geri al">
 <!ENTITY fileRevert.accesskey "G">
 
 <!-- Edit menu items -->

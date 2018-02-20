@@ -4,7 +4,7 @@
 
 <!ENTITY itemGeneral.label                   "Genel">
 <!ENTITY itemAutoComplete.label              "Adresler">
-<!ENTITY itemSpellCheck.label                "Yazım Denetimi">
+<!ENTITY itemSpellCheck.label                "Yazım denetimi">
 
 <!ENTITY dialogCompose.title                 "Düzenleme">
 
