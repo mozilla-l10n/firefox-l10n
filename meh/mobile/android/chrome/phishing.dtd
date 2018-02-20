@@ -6,6 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Nsa kuentanu advertencia ya´a">
 <!ENTITY safeb.palm.reportPage.label "Na̱vi nchi yu´u página ya´a?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Ya´a chinei <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Página ya´a nkachi-da a kuvi sá´á xeen!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -22,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Página ya´a a téku nuu <span id='unwanted_sitename'/> nkachi-da a kumi software ntu íyo va´a jee nchi yu´u danimaja saa kumi-ani noo´o.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Páginas a kumi software ntu íyo va´a kuvi-daja chu'un software a sa̱naan sá´á xeen ka̱a̱ nuu jínu ya´a.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Nuu ya´a sa̱naan yɨ´ɨ yu´u malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; bloqueó esta página porque podría tratar de instalar aplicaciones peligrosas que roben o borren su información (por ejemplo fotos, contraseñas, mensajes y tarjetas de crédito).">
