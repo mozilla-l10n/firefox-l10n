@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Man xtikïr ta xusamajib'ej ri ruxaq">
 <!ENTITY retry.label "Titojtob'ëx chik">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Xsach toq tajin nok">
 <!ENTITY connectionFailure.longDesc "<p>Stape' re ruxaq k'amaya'l q'alaj chi ütz, man nitikïr ta nok ri okik'amaya'l.</p><ul><li>¿La man k'o ta ri ruxaq k'amaya'l wakami? We ke ri' tatojtob'ej chik pa jun ti mej</li><li>¿La man yatikïr ta yatok chupam ch'aqa' chik ruxaq k'amaya'l?  Tanik'oj ri ruk'amab'ey akematz'ib'.</li><li>¿La chajin ri akematz'ib' ruma jun proxy o jun firewall? Jun itzel nuk'ulem nitikïr nuq'ät ri okem pa k'amaya'l.</li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nrokisaj k'ak'a' samaj richin jikomal, ri e ojer chuqa' man k'ayew ta yeq'eleb'ëx. Jun q'eleb'enel chanin nuya' rutzijol ri etamab'äl, ri nina'ojïx chi echajin. Ri runuk'samajel ruxaq k'amaya'l k'o chi nutz'ët nab'ey ri ruk'u'x samaj chuwäch nitikïr nutz'ët ri ruxaq k'amaya'l.</p><p>Runimatz'ib' sachoj: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "Q'aton Ruxaq">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Xchup ri okem ruma ri anuk'samajel.</p>">
