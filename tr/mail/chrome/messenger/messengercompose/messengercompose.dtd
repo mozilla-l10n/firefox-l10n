@@ -26,9 +26,9 @@
 <!ENTITY attachPageCmd.label "Web sayfası…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Kişisel kart (vCard)">
+<!ENTITY attachVCardCmd.label "Kartvizit (vCard)">
 <!ENTITY attachVCardCmd.accesskey "K">
-<!ENTITY remindLater.label "Daha Sonra Hatırlat">
+<!ENTITY remindLater.label "Daha sonra hatırlat">
 <!ENTITY remindLater.accesskey "S">
 <!ENTITY closeCmd.label "Kapat">
 <!ENTITY closeCmd.key "W">
@@ -177,7 +177,7 @@
 <!ENTITY quoteCmd.accesskey "n">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Kişisel kart ekle (vCard)">
+<!ENTITY attachVCard.label "Kartvizit ekle (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Alındı onayı">
@@ -268,7 +268,7 @@
 <!ENTITY toAddr.label "Kime:">
 <!ENTITY ccAddr.label "Bilgi:">
 <!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Yanıt Adresi:">
+<!ENTITY replyAddr.label "Reply-To:">
 <!ENTITY newsgroupsAddr.label "Haber Grubu:">
 <!ENTITY followupAddr.label "Takip Adresi:">
 <!ENTITY subject.label "Konu:">
@@ -339,7 +339,7 @@
 <!ENTITY attachPage.accesskey "W">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Sözlük Ekle…">
+<!ENTITY spellAddDictionaries.label "Sözlük ekle…">
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!-- Title for the address picker panel -->

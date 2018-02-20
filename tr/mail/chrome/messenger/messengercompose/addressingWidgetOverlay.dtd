@@ -7,7 +7,7 @@
 <!ENTITY toAddr.label   "Kime:"> 
 <!ENTITY ccAddr.label   "Bilgi:"> 
 <!ENTITY bccAddr.label  "Bcc:"> 
-<!ENTITY replyAddr.label   "Yanıt Adresi:"> 
+<!ENTITY replyAddr.label   "Reply-To:"> 
 <!ENTITY newsgroupsAddr.label   "Haber Grubu:"> 
 <!ENTITY followupAddr.label   "Takip Adresi:"> 
 
