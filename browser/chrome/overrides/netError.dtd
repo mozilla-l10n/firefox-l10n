@@ -194,5 +194,8 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Správce serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicyTemp.title "Stránka zablokována">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Přístup k této stránce byl zablokován správcem vašeho počítače.</p>">
+
 <!ENTITY prefReset.longDesc "Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?">
 <!ENTITY prefReset.label "Obnovit výchozí nastavení">
