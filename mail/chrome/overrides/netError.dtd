@@ -99,3 +99,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> zaharkitua dagoen eta erasokorra den segurtasun teknologia darabil. Erasotzaile batek erraz lortu dezake zuk salbu dagoela uste duzun informazioa. Webgune administratzaileak zerbitzaria konpondu beharko luke zuk gunea bisitatu aurretik.</p><p>Errore kodea: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "Orri blokeatua">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Zure administratzaileak sarrera ezgaitu du.</p>">
