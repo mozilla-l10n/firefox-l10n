@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Gwall Llwytho Tudalen">
 <!ENTITY retry.label "Ceisiwch Eto">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Methu Cysylltu">
 <!ENTITY connectionFailure.longDesc "<p>Er bod y wefan i'w weld yn ddilys, nid oedd y porwr yn gallu creu cysylltiad.</p><ul><li>Efallai nad yw'r wefan ar gael dros dro? Ceisiwch eto.</li><li>Methu pori safleoedd eraill?  Gwiriwch gysylltiad y cyfrifiadur â'r rhwydwaith.</li><li>A yw eich cyfrifiadur a'r rhwydwaith wedi eu hamddiffyn gan fur cadarn neu ddirprwy? Mae gosodiadau anghywir yn gallu ymyrryd â phori'r we.</li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "Mae <p><span class='hostname'></span> yn defnyddio technoleg diogelwch sy'n hen ac yn agored i ymosodiad. Gall yr ymosodwr weld manylion am hyn roeddech yn meddwl ei fod yn ddiogel. Mae angen i weinyddwr y wefan drwsio'r gweinydd yn gyntaf cyn bod modd i chi ymweld â' r wefan.</p><p>Cod gwall: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "Tudalen wedi ei Rhwystro">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Mae mynediad wedi ei analluogi gan eich gweinyddwr.</p>">
