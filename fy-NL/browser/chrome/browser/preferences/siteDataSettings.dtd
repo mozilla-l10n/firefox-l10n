@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "Ynstellingen – Websitegegevens">
 
+<!ENTITY     window1.title                 "Ynstellingen - Cookies en websitegegevens">
 <!ENTITY     hostCol.label                 "Website">
 <!ENTITY     statusCol.label               "Steat">
 <!ENTITY     cookiesCol.label              "Cookies">
@@ -19,3 +20,6 @@
 <!ENTITY     removingDialog.title          "Websitegegevens fuortsmite">
 <!ENTITY     removingSelected.description  "It fuortsmiten fan websitegegevens smyt ek relatearre cookies en offline-webynhâld fuort. Dit kin jo by websites ôfmelde. Binne jo wis dat jo de wizigingen oanbringe wolle?">
 <!ENTITY     siteTree2.label               "De folgjende websitecookies sille fuortsmiten wurde">
+<!ENTITY     removingDialog1.title         "Cookies en websitegegevens fuortsmite">
+<!ENTITY     removingSelected1.description "It fuortsmiten fan cookies en websitegegevens kin jo by websites ôfmelde. Binne jo wis dat jo de wizigingen oanbringe wolle?">
+<!ENTITY     siteTree3.label               "Cookies en websitegegevens foar de folgjende websites sille fuortsmiten wurde">
