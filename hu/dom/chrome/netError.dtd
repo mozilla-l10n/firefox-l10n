@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Oldalbetöltési hiba">
 <!ENTITY retry.label "Próbálja újra">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Sikertelen csatlakozás">
 <!ENTITY connectionFailure.longDesc "<p>Bár a webhely érvényesnek tűnik, a böngésző képtelen volt kapcsolatot létesíteni vele.</p><ul><li>Lehet, hogy a webhely ideiglenesen üzemen kívül van? Próbálja újra később.</li><li>Más webhelyeket sem képes elérni? Ellenőrizze a számítógép hálózati kapcsolatát.</li><li>Lehetséges, hogy tűzfal vagy proxy mögött van a számítógépe vagy a helyi hálózata? A helytelen beállítások zavarhatják a webböngészést.</li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> olyan biztonsági technológiát használ, amely elavult, és sérülékeny a támadásokkal szemben. Egy támadó könnyen felfedhet olyan információkat, amelyeket biztonságosnak gondol. A weboldal rendszergazdájának ki kell javítania a kiszolgálót, mielőtt meglátogathatja az oldalt.</p><p>Hibakód: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "Lap blokkolva">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>A rendszergazda letiltotta a hozzáférést .</p>">
