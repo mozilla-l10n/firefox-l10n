@@ -4,8 +4,10 @@
 
 <!ENTITY firstrun_panel_title_welcome "Kusɨɨ inidáni a nkanta-nu">
 <!ENTITY firstrun_urlbar_message2 "Kuta´vi-ani a kajinu &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Iin ka̱a̱ jíía nánuku nantiñu Mozilla, vetiñu ntu nuku xu´un jee kuvi koo iin web nune jii ntu nasɨ.">
 <!ENTITY firstrun_panel_title_privacy "Privacidad">
 <!ENTITY firstrun_privacy_message "Nánuku kua naa iyo neva ne´ya noo´o">
+<!ENTITY firstrun_privacy_subtext "A nánuku yu´u jii a kumi kuntada noo´o chiyu´u daa a nita noo´o saa nánukunu, jee saa nɨ´ɨnɨ ntu na´a a nnánukunu.">
 <!ENTITY firstrun_panel_title_customize "Sá´á vii">
 <!ENTITY firstrun_customize_message "Sá´á &brandShortName; nantiñu noo´o.">
 <!ENTITY firstrun_customize_subtext "Sá´á vii &brandShortName; jii Ka̱a̱ chunta´an. Chiyu´u tutu xiko, tee a jíía a xíín kaji iin tutu vii kua noo´o.">
@@ -16,6 +18,7 @@
 <!ENTITY firstrun_data_message "Mati´i datos, kue´e-ka resguardos">
 <!ENTITY firstrun_data_subtext2 "Xina´va tutu nátava saa nnɨ´ɨ datos-nu ntaka ichi yɨ´ɨ-nu nuu iin sitio web.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Kajie´e nuu nkinonu.">
 <!ENTITY firstrun_signin_message "Kivu, kajie´e">
 <!ENTITY firstrun_signin_button "Kivu Sync">
 <!ENTITY  onboard_start_button_browser "Kajie´e nánuku">
@@ -512,6 +515,7 @@
 <!ENTITY folder_removed "Nxita carpeta">
 
 <!ENTITY bookmark_edit_title "Natee a ta´a ini noo´o">
+<!ENTITY bookmark_edit_folder_title "Natee carpeta">
 <!ENTITY bookmark_edit_name "Sivɨ">
 <!ENTITY bookmark_edit_location "Nuu iñɨnu">
 <!ENTITY bookmark_edit_keyword "Tu´un clave">
