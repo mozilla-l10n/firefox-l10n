@@ -44,7 +44,7 @@
 <!ENTITY cancel.label                    "Vazgeç">
 <!ENTITY cancel.accesskey                "z">
 <!ENTITY continue.label                  "Devam et">
-<!ENTITY continue.accesskey              "D">
+<!ENTITY continue.accesskey              "m">
 <!ENTITY stop.label                      "Dur">
 <!ENTITY stop.accesskey                  "D">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
@@ -54,7 +54,7 @@
 <!ENTITY half-manual-test.label          "Tekrar sına">
 <!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-edit.label               "Elle yapılandırma">
-<!ENTITY manual-edit.accesskey           "d">
+<!ENTITY manual-edit.accesskey           "l">
 <!ENTITY open-provisioner.label          "Yeni bir e-posta adresi al…">
 <!ENTITY open-provisioner.accesskey      "Y">
 
