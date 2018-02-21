@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Configurează proxy-uri pentru a accesa internetul">
+
+<!ENTITY  proxyTitle.label2             "Configurează accesul proxy la internet">
 <!ENTITY  noProxyTypeRadio.label        "Fără proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Folosește setările proxy ale sistemului">
