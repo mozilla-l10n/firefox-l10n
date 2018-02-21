@@ -15,10 +15,10 @@
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Nukuni nea chinei nuu">
 <!ENTITY aboutPage.privacyPolicy.label          "Tu´un xitu a nejika kumi-o">
-<!ENTITY aboutPage.rights.label                 "Nichi saa no´o kuvi kuatiñunu-u ya´a">
+<!ENTITY aboutPage.rights.label                 "Nichi saa no´o kuvi kuantiñunu-u ya´a">
 <!ENTITY aboutPage.relNotes.label               "Tutu a tuvi">
 <!ENTITY aboutPage.credits.label                "Nsa´a">
-<!ENTITY aboutPage.license.label                "Tutu nákani saa kuatiñunu-u ya´a">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.license.label                "Tutu nákani saa kuantiñunu-u ya´a">
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Kuaiyo daa an nátavada kuviji iin a nkuvi ke´ío chií a yósó nuu vetiñu Fundación Mozilla.">
