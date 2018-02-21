@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Inställningar - webbplatsdata">
+
+<!ENTITY     window1.title                 "Inställningar -- Kakor och Webbplatsdata">
 <!ENTITY     hostCol.label                 "Webbplats">
 <!ENTITY     statusCol.label               "Status">
+<!ENTITY     cookiesCol.label              "Kakor">
 <!ENTITY     usageCol.label                "Lagring">
 <!ENTITY     searchTextboxPlaceHolder             "Sök webbplatser">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
@@ -17,3 +20,4 @@
 <!ENTITY     removingDialog.title          "Ta bort platsdata">
 <!ENTITY     removingSelected.description  "Ta bort platsdata kommer också att ta bort relaterade kakor och webbinnehåll offline. Detta kan logga ut dig från webbplatser. Är du säker på att du vill göra ändringarna?">
 <!ENTITY     siteTree2.label               "Följande webbplatskakor kommer att tas bort">
+<!ENTITY     removingDialog1.title         "Tar bort Kakor och Webbplatsdata">

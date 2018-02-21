@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Fel vid sidhämtning">
 <!ENTITY retry.label "Försök igen">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Anslutningen misslyckades">
 <!ENTITY connectionFailure.longDesc "<p>Även fast webbplatsen tycks vara giltig, kunde inte webbläsaren etablera en anslutning med den.</p><ul><li>Är webbplatsen kanske tillfälligt nere? Försök igen senare.</li><li>Kan du inte besöka andra webbplatser heller? Kontrollera datorns nätverksanslutning.</li><li>Är datorn eller nätverket skyddat av en brandvägg eller proxy? Felaktiga inställningar kan påverka webbläsning.</li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder säkerhetsteknologi som är föråldrad och sårbara för angrepp. En angripare kan lätt avslöja information som du tänkt ska vara säker. Webbplatsens administratör måste laga servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "Hemsida blockerad">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Åtkomst har blivit inaktiverat av din administratör.</p>">
