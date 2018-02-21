@@ -5,6 +5,7 @@
 <!ENTITY window.title                 "Șterge datele">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Ștergerea tuturor cookie-urilor și datelor de pe site-urile stocate de &brandShortName; te poate deconecta de pe site-uri web și elimina conținutul web offline. Ștergerea datelor stocate în cache nu va afecta datele de autentificare.">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Cookie-uri și datele site-urilor">
