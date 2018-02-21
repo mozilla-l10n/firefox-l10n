@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "الدردشة">
 <!ENTITY goChatCmd.accesskey "د">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "الرسائل ذات النجمة">
 <!ENTITY prevStarredMsgCmd.accesskey "ذ">
@@ -367,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "حرر مسودة الرسالة">
 <!ENTITY editDraftMsgCmd.accesskey "م">
+<!ENTITY editTemplateMsgCmd.label "حرر القالب">
+<!ENTITY editTemplateMsgCmd.accesskey "ق">
 <!ENTITY newMsgFromTemplateCmd.label "رسالة جديدة من قالب">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "أنشئ مرشِّح مِن الرسالة…">
@@ -760,6 +761,8 @@
 <!ENTITY contextEditMsgAsNew.label "حرّر كرسالةٍ جديدة">
 <!ENTITY contextEditMsgAsNew.accesskey "ح">
 <!ENTITY contextEditDraftMsg.label "حرر مسودة الرسالة">
+<!ENTITY contextEditTemplate.label "حرر القالب">
+<!ENTITY contextEditTemplate.accesskey "ق">
 <!ENTITY contextArchive.label "أرشيف">
 <!ENTITY contextArchive.accesskey "ف">
 <!ENTITY contextReplySender.label "رُد إلى المُرسِل فقط">
