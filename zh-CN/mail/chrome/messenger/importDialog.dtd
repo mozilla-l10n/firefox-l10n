@@ -34,7 +34,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "一旦导入，您就可以从 &brandShortName; 存取他们。">
 
 <!ENTITY selectDescription.label  "请选择导入的文件类型：">
-<!ENTITY selectDescriptionB.label "请选择一个已存在的帐号或者创建新的帐号：">
+<!ENTITY selectDescriptionB.label "请选择一个现有账户或者创建新账户：">
 <!ENTITY selectDescription.accesskey "P">
 <!ENTITY acctName.label           "名称：">
 <!ENTITY acctName.accesskey       "N">

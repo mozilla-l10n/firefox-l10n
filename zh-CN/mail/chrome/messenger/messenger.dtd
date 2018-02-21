@@ -26,11 +26,11 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "其他帐户...">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newCreateEmailAccountCmd.label "获取一个新的电子邮件帐号…">
+<!ENTITY newCreateEmailAccountCmd.label "取得全新的电子邮件账户…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
-<!ENTITY newExistingEmailAccountCmd.label "已有电子邮件帐号…">
+<!ENTITY newExistingEmailAccountCmd.label "已有电子邮件账户…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
-<!ENTITY newIMAccountCmd.label "聊天帐号…">
+<!ENTITY newIMAccountCmd.label "聊天账户…">
 <!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY newFeedAccountCmd.label "收取点账号…">
 <!ENTITY newFeedAccountCmd.accesskey "d">
@@ -317,7 +317,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "聊天">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "已加星标之消息">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
@@ -474,7 +473,7 @@
 <!ENTITY imStatus.available          "可用">
 <!ENTITY imStatus.unavailable        "不可用">
 <!ENTITY imStatus.offline            "脱机">
-<!ENTITY imStatus.showAccounts       "显示帐号…">
+<!ENTITY imStatus.showAccounts       "显示账户…">
 <!ENTITY joinChatCmd.label "参与聊天…">
 <!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "已保存的文件">
