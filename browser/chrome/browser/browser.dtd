@@ -953,7 +953,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Saber mais sobre o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Atualizar o &brandShorterName; para obter mais velocidade e privacidade.">
+<!ENTITY updateAvailable.message "Atualize o &brandShorterName; para ganhar mais velocidade e privacidade.">
 <!ENTITY updateAvailable.whatsnew.label "Veja o que há de novo.">
 <!ENTITY updateAvailable.header.message "Uma nova atualização do &brandShorterName; está disponível.">
 <!ENTITY updateAvailable.acceptButton.label "Baixar atualização">
