@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Error en cargar a pachina">
 <!ENTITY retry.label "Tornar-lo a intentar">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Fallo de connexión">
 <!ENTITY connectionFailure.longDesc "<p>Encara que lo puesto pareixe valido, lo navegador no ha puesto establir una connexión</p><ul><li>Podría estar que lo puesto no siga disponible temporalment? Torne a prebar-lo dimpués</li><li>Tien problemas tamién en atros puestos web?  Comprebe la connexión de ret de l'ordinador</li><li>Lo suyo ordinador ye protechiu por bell proxy u firewall? Una configuración incorrecta puede interferir la navegación.</li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> fa servir technolochía de seguranza que ye obsoleta y vulnerable debant d'un ataque. Un acatant podría revelar información que vusté creyeba segura. L'administrador d'o puesto web habrá de fixar lo servidor antes que vusté pueda vesitar lo puesto.</p><p>Codigo d'error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "Pachina blocada">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>L'acceso s'ha desactivau per lo tuyuo administrador.</p>">
