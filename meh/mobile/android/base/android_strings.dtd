@@ -91,6 +91,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; pestañas">
 <!ENTITY bookmark_folder_one_item "1 item">
+<!ENTITY bookmark_folder_updated "Carpeta íyo actualizada">
 <!ENTITY bookmark_add_folder "Tee a jíía carpeta">
 
 <!ENTITY reader_saved_offline "Chuva´a en linea">
@@ -666,6 +667,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "A ta´a ininu jiin sɨ´ɨ">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Iyo actualización nuu &brandShortName;">
 <!ENTITY updater_start_select2 "Kɨ´ɨ kajie´e xinuu">
 
 <!ENTITY updater_downloading_title2 "Xinuu &brandShortName;">
@@ -673,6 +675,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Kɨ´ɨ saa kajie´e saa actualizar dee nkuvi xinuu">
 <!ENTITY updater_downloading_retry2 "Kɨ´ɨ nakajie´e tuku">
 
+<!ENTITY updater_apply_title3 "Nxinuu actualización nuu &brandShortName;">
+<!ENTITY updater_apply_select3 "Kɨ´ɨ saa chu´un">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees

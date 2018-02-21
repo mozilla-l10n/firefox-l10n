@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Chiyu´u">
 <!ENTITY addonAction.uninstall                  "Naxita-má">
 <!ENTITY addonAction.undo                       "Xinoo">
+<!ENTITY addonAction.update                     "Actualizar">
 
 <!ENTITY addonUnsigned.message                  "Ntu nkuvi nasa vatu &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Ka´vi jiee ya´a">
