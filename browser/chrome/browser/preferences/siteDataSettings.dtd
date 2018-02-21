@@ -22,3 +22,4 @@
 <!ENTITY     siteTree2.label               "Os seguintes cookies serão removidos">
 <!ENTITY     removingDialog1.title         "Removendo cookies e dados do site">
 <!ENTITY     removingSelected1.description "Remover os cookies e dados de site podem desconectar você dos sites. Tem certeza que deseja fazer as alterações?">
+<!ENTITY     siteTree3.label               "Os cookies e dados dos seguintes sites serão removidos">
