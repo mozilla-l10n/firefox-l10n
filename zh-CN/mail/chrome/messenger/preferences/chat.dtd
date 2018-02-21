@@ -6,8 +6,8 @@
 
 <!ENTITY  startupAction.label         "启动 &brandShortName; 时:">
 <!ENTITY  startupAction.accesskey     "s">
-<!ENTITY  startupOffline.label        "保持我的聊天帐号离线">
-<!ENTITY  startupConnectAuto.label    "自动连接我的聊天帐号">
+<!ENTITY  startupOffline.label        "保持我的聊天账户离线">
+<!ENTITY  startupConnectAuto.label    "自动连接我的聊天账户">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
