@@ -9,7 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Skrin Penuh">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Keluar Skrin Penuh">
 <!ENTITY castingButton.castingLabel "Tuang pada Skrin">
-<!ENTITY closedCaption.off "Tutup">
+<!ENTITY closedCaption.off "Nyahaktif">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Saiz">
