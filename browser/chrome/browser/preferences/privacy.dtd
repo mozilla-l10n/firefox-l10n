@@ -5,6 +5,7 @@
 <!ENTITY  trackingProtectionHeader2.label      "Protecția față de urmărire">
 <!ENTITY  trackingProtection2.description      "Urmărirea este colecția datelor tale de navigare pe multiple site-uri web. Urmărirea poate fi folosită pentru a construi un profil și pentru a afișa conținut pe baza informațiilor tale de navigare și personale.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți">
 <!ENTITY  trackingProtectionAlways.label       "Întotdeauna">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Doar în ferestrele private">
@@ -12,6 +13,7 @@
 <!ENTITY  trackingProtectionNever.label        "Niciodată">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Află mai multe">
+<!ENTITY  trackingProtectionLearnMore2.label    "Află mai multe despre protecția față de urmărire și confidențialitate">
 <!ENTITY  trackingProtectionExceptions.label   "Excepții…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 

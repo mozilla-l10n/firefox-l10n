@@ -37,6 +37,9 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim &brandShortName; pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații personale.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Politica de confidențialitate">
 
+<!ENTITY collectBrowserErrors.label          "Permite-i lui &brandShortName; să trimită rapoarte de eroare ale browserului (inclusiv mesajele erorilor) către Mozilla">
+<!ENTITY collectBrowserErrorsLearnMore.label "Află mai multe">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Permite-i lui &brandShortName; să trimită rapoarte de defecțiuni către Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">
@@ -46,12 +49,12 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy pentru rețea">
 
 <!ENTITY connectionDesc.label            "Configurează modul în care &brandShortName; se conectează la internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Află mai multe">
 <!ENTITY connectionSettings.label        "Setări…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Conținut web în cache">
-
-<!ENTITY offlineStorage2.label           "Conținut web offline și datele utilizatorului">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Date privind site-urile">
@@ -72,8 +75,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB din spațiu">
 <!ENTITY clearCacheNow.label             "Șterge acum">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "Șterge acum">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Ignoră gestionarea automată a cache-ului">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -110,17 +111,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Actualizează automat motoarele de căutare">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Spune-mi când un site solicită să stocheze date pentru utilizarea offline">
-<!ENTITY offlineStorageNotify.accesskey           "t">
-<!ENTITY offlineStorageNotifyExceptions.label     "Excepții…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "Următoarele site-uri web au permisiunea de a stoca date pentru utilizare offline">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Elimină…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Șterge datele offline">
 
 <!ENTITY certificateTab.label            "Certificate">
 <!ENTITY certPersonal2.description       "Când un server îți cere certificatul personal">
