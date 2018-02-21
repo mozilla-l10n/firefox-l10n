@@ -62,6 +62,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; íyo configurado, jee ntu íyo sincronizado satiñu ntu´un. Kɨ´ɨ \&quot;sincronizar datos satiñu ntu´un\&quot; nuu configuración Android &gt; ni´i datos.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; a íyo configurado, soma ntu íyo sincronizado satiñu ntu´un. Kɨ´ɨ \&quot;sincronizar datos satiñu ntu´un\&quot; nuu configuración Android &gt; Naja ni´i datos.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Kɨ´ɨ saa kuvi kivɨnu nuu cuenta Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Kaji ne´i kuvi saa sincronizar'>
 <!ENTITY fxaccount_status_bookmarks 'Daa a ta´a ini noo´o'>
 <!ENTITY fxaccount_status_history 'Sɨ´ɨ'>
 <!ENTITY fxaccount_status_passwords2 'Daa nuu kajie´e sesión'>
@@ -79,6 +80,7 @@
 <!ENTITY fxaccount_remove_account 'Kene&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Kene nuu Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Daa datos saa kuvi nánuku kino nuu ka̱a̱ ya´a, soo nkuvi saa sincronizar jii cuenta noo´o.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 'Cuenta Firefox &formatS; nkene.'>

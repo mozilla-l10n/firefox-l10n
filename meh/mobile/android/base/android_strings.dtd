@@ -387,9 +387,9 @@
 <!ENTITY pref_panels_move_down "Ichi chuve">
 
 <!ENTITY datareporting_notification_title "Estadísticas jii datos jiee &brandShortName;">
-<!ENTITY datareporting_notification_action "Kaji nei kuvi kua´a ">
+<!ENTITY datareporting_notification_action "Kaji ne´i kuvi kua´a">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
-<!ENTITY datareporting_notification_action_long "Kaji nei kuvi kua´a">
+<!ENTITY datareporting_notification_action_long "Kaji ne´i kuvi kua´a">
 <!ENTITY datareporting_notification_summary "Saa kuvi satiñu vii noo´o jii ka̱a̱ ya´a, &brandShortName; ka̱a̱ ya´a chu´un íchi yaku información nuu &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
