@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "அமைவுகள் - தள தரவு">
+
+<!ENTITY     window1.title                 "அமைவுகள் - நினைவிகள் மற்றும் தள தரவு">
 <!ENTITY     hostCol.label                 "தளம்">
 <!ENTITY     statusCol.label               "நிலை">
+<!ENTITY     cookiesCol.label              "நினைவிகள்">
 <!ENTITY     usageCol.label                "கிடங்கு">
 <!ENTITY     searchTextboxPlaceHolder             "தேடிய வலைத்தளங்கள்">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
