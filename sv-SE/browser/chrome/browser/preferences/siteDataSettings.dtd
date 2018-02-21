@@ -21,3 +21,5 @@
 <!ENTITY     removingSelected.description  "Ta bort platsdata kommer också att ta bort relaterade kakor och webbinnehåll offline. Detta kan logga ut dig från webbplatser. Är du säker på att du vill göra ändringarna?">
 <!ENTITY     siteTree2.label               "Följande webbplatskakor kommer att tas bort">
 <!ENTITY     removingDialog1.title         "Tar bort Kakor och Webbplatsdata">
+<!ENTITY     removingSelected1.description "Borttagning av kakor och webbplatsdata kan göra att du loggas ut från webbsidor. Är du säker att du vill göra dessa ändringar?">
+<!ENTITY     siteTree3.label               "Kakor och webbplatsdata för följande webbsidor kommer att raderas">
