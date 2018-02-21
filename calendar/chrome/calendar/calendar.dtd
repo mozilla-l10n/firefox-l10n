@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- General -->
 
+<!-- General -->
 <!ENTITY calendar.calendar.label     "Protyka">
 <!ENTITY calendar.calendar.accesskey "P">
 
@@ -25,10 +25,10 @@
 <!ENTITY calendar.events.filter.next14Days.label "Podawki w běhu přichodnych 14 dnjow">
 <!ENTITY calendar.events.filter.next31Days.label "Podawki w běhu přichodnych 31 dnjow">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Podawki w tutym protykowym měsacu">
+
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
-
 <!ENTITY calendar.unifinder.tree.done.label                "Dokónčene">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Po dokónčenju sortěrować">
 <!ENTITY calendar.unifinder.tree.priority.label            "Priorita">
@@ -123,13 +123,13 @@
 <!ENTITY calendar.task.filter.completed.accesskey   "k">
 <!ENTITY calendar.task.filter.open.label            "Njedospołne nadawki">
 <!ENTITY calendar.task.filter.open.accesskey        "s">
+
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
-
-<!ENTITY calendar.task.filter.current.label         "Aktalne nadawki">
+<!ENTITY calendar.task.filter.current.label         "Aktualne nadawki">
 <!ENTITY calendar.task.filter.current.accesskey     "a">
 
 <!ENTITY calendar.task-details.title.label           "titul">
@@ -152,8 +152,8 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Nadawki filtrować #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Strg+Umsch+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Wočinić">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "o">
 <!ENTITY calendar.context.modifyorviewtask.label      "Nadawk wočinić…">
@@ -178,17 +178,16 @@
 <!ENTITY calendar.context.attendance.menu.accesskey   "l" >
 <!ENTITY calendar.context.attendance.occurrence.label "Tutón podawk" >
 <!ENTITY calendar.context.attendance.all.label        "Wšě podawki" >
-<!-- Task Context Menu -->
 
+<!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Postup">
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Priorita">
 <!ENTITY calendar.context.priority.accesskey          "r">
 <!ENTITY calendar.context.postpone.label              "Nadawk wotstorčić">
 <!ENTITY calendar.context.postpone.accesskey          "s">
-<!--=percent sign-->
 
-<!ENTITY percnt "&#38;#37;" >
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label     "Jako sčinjeny markěrować">
 <!ENTITY calendar.context.markcompleted.accesskey "s">
@@ -222,24 +221,24 @@
 
 <!ENTITY calendar.copylink.label       "Wotkazowu adresu kopěrować">
 <!ENTITY calendar.copylink.accesskey   "k">
+
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
-
 <!ENTITY calendar.taskview.delete.label     "Zhašeć">
-<!-- Server Context Menu -->
 
+<!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Nowu protyku…">
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Protyku pytać…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "P" >
 <!ENTITY calendar.context.deleteserver2.label          "Protyku zhašeć…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "h">
+
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
-
 <!ENTITY calendar.context.removeserver.label           "Protyku wotstronić…">
 <!ENTITY calendar.context.removeserver.accesskey       "s">
 <!ENTITY calendar.context.unsubscribeserver.label      "Protyku wotskazać…">
@@ -252,17 +251,17 @@
 <!ENTITY calendar.context.export.accesskey             "e">
 <!ENTITY calendar.context.properties.label             "Kajkosće">
 <!ENTITY calendar.context.properties.accesskey         "K">
+
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
-
 <!ENTITY calendar.context.showcalendar.accesskey      "o">
+
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
-
 <!ENTITY calendar.context.hidecalendar.accesskey      "h">
+
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-
 <!ENTITY calendar.context.showonly.accesskey           "J">
 <!ENTITY calendar.context.showall.label                "Wšě protyki pokazać">
 <!ENTITY calendar.context.showall.accesskey            "W">
@@ -285,8 +284,8 @@
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "Nadawki filtrować">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "f">
-<!-- Calendar Alarm Dialog -->
 
+<!-- Calendar Alarm Dialog -->
 
 <!ENTITY calendar.alarm.location.label              "Městno:" >
 <!ENTITY calendar.alarm.details.label               "Podrobnosće…" >
@@ -305,18 +304,18 @@
 <!ENTITY calendar.alarm.snooze.1hour.label          "1 hodźinu" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 hodźinje" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dźeń" >
+
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-
 <!ENTITY calendar.alarm.snooze.cancel               "Wospjetowane dopominanje přetorhnyć">
-<!-- Calendar Server Dialog -->
 
+<!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Protyku wobdźěłać">
 <!ENTITY calendar.server.dialog.name.label          "Mjeno protyki:">
-<!-- Calendar Properties -->
 
+<!-- Calendar Properties -->
 <!ENTITY calendarproperties.color.label                    "Barba:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
@@ -333,19 +332,19 @@
 <!ENTITY calendarproperties.forceDisabled.label            "Poskićowar za tutu protyku njeda so namakać. To so husto stawa, jeli sće wěste přidatki znjemóžnił abo wotinstalował.">
 <!ENTITY calendarproperties.unsubscribe.label              "Wotskazać">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "t">
-<!-- Calendar Publish Dialog -->
 
+<!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Protyku wozjewić">
 <!ENTITY calendar.publish.url.label                 "URL za wozjewjenje">
 <!ENTITY calendar.publish.publish.button      "Wozjewić">
 <!ENTITY calendar.publish.close.button      "Začinić">
 
 <!ENTITY calendar.publish.example.url.description   "Něšto kaž http://www.myserver.com/webdav/test.ics">
+
 <!-- Select Calendar Dialog -->
-
 <!ENTITY calendar.select.dialog.title    "Protyku wubrać">
-<!-- Calendar Printing -->
 
+<!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title "Protyku ćišćeć">
 <!ENTITY calendar.print.title.label "Titul:">
 <!ENTITY calendar.print.layout.label "Wuhotowanje:">
@@ -361,14 +360,14 @@
 <!ENTITY calendar.print.optionsGroup.label "Nastajenja">
 <!ENTITY calendar.print.taskswithnoduedate.label "Nadawki bjez termina">
 <!ENTITY calendar.print.completedtasks.label "Sčinjene nadawki">
-<!-- Error reporting -->
 
+<!-- Error reporting -->
 <!ENTITY calendar.error.detail "Podrobnosće…">
 <!ENTITY calendar.error.code "Zmylkowy kod:">
 <!ENTITY calendar.error.description "Wopisanje:">
 <!ENTITY calendar.error.title "Zmylk je wustupił">
-<!-- Extract buttons in message header -->
 
+<!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Jako podawk přidać">
 <!ENTITY calendar.extract.task.button          "Jako nadawk přidać">
 <!ENTITY calendar.extract.event.button.tooltip "Protykowe informacije z powěsće ekstrahować a je wašej protyce jako podawk přidać">
