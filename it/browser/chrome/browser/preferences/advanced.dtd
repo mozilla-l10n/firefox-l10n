@@ -40,6 +40,8 @@
 <!ENTITY siteData.label "Dati dei siti web">
 <!ENTITY clearSiteData.label "Elimina tutti i dati">
 <!ENTITY clearSiteData.accesskey "i">
+<!ENTITY clearSiteData1.label "Elimina dati…">
+<!ENTITY clearSiteData1.accesskey "i">
 <!ENTITY siteDataSettings.label "Impostazioni…">
 <!ENTITY siteDataSettings.accesskey "o">
 <!ENTITY siteDataLearnMoreLink.label "Ulteriori informazioni">
