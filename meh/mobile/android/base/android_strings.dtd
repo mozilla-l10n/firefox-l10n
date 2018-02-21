@@ -358,6 +358,7 @@
 <!ENTITY pref_import_android_summary "Sia´a a ta´a ini noo´o jii sɨ´ɨ nee navegador nativo">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Nune pestañas">
 <!ENTITY pref_private_data_history2 "Sɨ´ɨ navegación">
 <!ENTITY pref_private_data_searchHistory "Sɨ´ɨ nnánuku">
 <!ENTITY pref_private_data_formdata2 "Vaji nee sɨ´ɨ">
@@ -826,3 +827,4 @@ is simply hidden from the Activity Stream panel. -->
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_continue_to_website "Kaka nuu web">
