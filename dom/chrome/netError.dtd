@@ -87,5 +87,5 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder säkerhetsteknologi som är föråldrad och sårbara för angrepp. En angripare kan lätt avslöja information som du tänkt ska vara säker. Webbplatsens administratör måste laga servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Hemsida blockerad">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Åtkomst har blivit inaktiverat av din administratör.</p>">
+<!ENTITY blockedByPolicyTemp.title "Sidan blockerad">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Åtkomst har inaktiverats av administratören.</p>">

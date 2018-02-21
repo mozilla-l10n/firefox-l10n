@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     window.title                  "Inställningar - webbplatsdata">
+<!ENTITY     window.title                  "Inställningar - Webbplatsdata">
 
-<!ENTITY     window1.title                 "Inställningar -- Kakor och Webbplatsdata">
+<!ENTITY     window1.title                 "Inställningar - Kakor och webbplatsdata">
 <!ENTITY     hostCol.label                 "Webbplats">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Kakor">
@@ -20,6 +20,6 @@
 <!ENTITY     removingDialog.title          "Ta bort platsdata">
 <!ENTITY     removingSelected.description  "Ta bort platsdata kommer också att ta bort relaterade kakor och webbinnehåll offline. Detta kan logga ut dig från webbplatser. Är du säker på att du vill göra ändringarna?">
 <!ENTITY     siteTree2.label               "Följande webbplatskakor kommer att tas bort">
-<!ENTITY     removingDialog1.title         "Tar bort Kakor och Webbplatsdata">
-<!ENTITY     removingSelected1.description "Borttagning av kakor och webbplatsdata kan göra att du loggas ut från webbsidor. Är du säker att du vill göra dessa ändringar?">
-<!ENTITY     siteTree3.label               "Kakor och webbplatsdata för följande webbsidor kommer att raderas">
+<!ENTITY     removingDialog1.title         "Tar bort kakor och webbplatsdata">
+<!ENTITY     removingSelected1.description "Om du tar bort kakor och webbplatsdata kan du loggas ut från webbplatser. Är du säker på att du vill göra dessa ändringar?">
+<!ENTITY     siteTree3.label               "Kakor och webbplatsdata för följande webbplatser kommer att tas bort">
