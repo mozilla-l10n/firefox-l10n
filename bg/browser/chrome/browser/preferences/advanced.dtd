@@ -37,6 +37,8 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Стремим се да ви предоставяме възможност и да събираме само толкова, колкото ни е необходимо, за да предоставяме и подобряваме &brandShortName; за всички. Винаги искаме разрешение преди да получим лична информация.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Политика на поверителност">
 
+<!ENTITY collectBrowserErrors.label          "Разрешаване на &brandShortName; да изпраща доклади за грешките на четеца (включително и самото съобщение) към Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "г">
 <!ENTITY collectBrowserErrorsLearnMore.label "Научете повече">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Разрешаване на &brandShortName; да изпраща доклади за срив към Mozilla">
@@ -56,7 +58,7 @@ available. -->
 <!ENTITY httpCache.label                 "Буферирано съдържание от интернет">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
-<!ENTITY siteData.label                  "Данни на сайтове">
+<!ENTITY siteData.label                  "Данни на страници">
 <!ENTITY clearSiteData.label             "Изчистване на всички">
 <!ENTITY clearSiteData.accesskey         "в">
 <!ENTITY siteDataSettings.label          "Настройки…">
