@@ -37,6 +37,9 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "நாங்கள் உங்களுக்கு தேர்வுகளை வழங்க உறுதிபூண்டுள்ளோம் மேலும் அனைவருக்கும் &brandShortName; வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்கிறோம். நாங்கள் தனிப்பட்ட தகவல்களைப் பெறும் முன் எப்போதும் அனுமதி கேட்கிறோம்.">
 <!ENTITY dataCollectionPrivacyNotice.label    "தனியுரிமை அறிக்கை">
 
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "மேலும் அறிய">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "மொசில்லாவிற்கு நொறுக்கல் அறிக்கைகளை அனுப்ப&brandShortName; அனுமதிக்கவும்">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "மேலும் அறிய">
