@@ -5,9 +5,15 @@
 <!ENTITY window.title                 "Bersihkan Data">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Membersihkan semua kuki dan data situs yang disimpan oleh &brandShortName; mungkin mengeluarkan Anda dari situs web dan menghapus konten web luring. Membersihkan data tembolok tidak akan mempengaruhi info masuk Anda.">
+<!ENTITY windowClose.key              "j">
 
 <!ENTITY clearSiteData.label          "Kuki dan Data Situs">
+<!ENTITY clearSiteData.accesskey      "S">
 
+<!ENTITY clearCache.accesskey         "W">
 
 <!ENTITY button.cancel.label          "Batal">
+<!ENTITY button.cancel.accesskey      "B">
 <!ENTITY button.clear.label           "Hapus">
+<!ENTITY button.clear.accesskey       "l">

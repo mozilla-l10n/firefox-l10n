@@ -38,6 +38,7 @@ available. -->
 <!ENTITY dataCollectionPrivacyNotice.label    "Pemberitahuan Privasi">
 
 <!ENTITY collectBrowserErrors.label          "Izinkan &brandShortName; mengirim laporan galat peramban (termasuk pesan galat) ke Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "p">
 <!ENTITY collectBrowserErrorsLearnMore.label "Pelajari lebih lanjut">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Izinkan &brandShortName; untuk mengirim laporan mogok ke Mozilla">
