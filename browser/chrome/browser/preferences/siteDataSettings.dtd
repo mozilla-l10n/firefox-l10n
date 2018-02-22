@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Rregullime - Të dhëna Sajti">
+
+<!ENTITY     window1.title                 "Rregullime - Cookies dhe të Dhëna Sajtesh">
 <!ENTITY     hostCol.label                 "Sajt">
 <!ENTITY     statusCol.label               "Gjendje">
+<!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Depozitë">
 <!ENTITY     searchTextboxPlaceHolder             "Kërko në sajte">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "K">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "Po Hiqen të Dhëna Sajti">
 <!ENTITY     removingSelected.description  "Heqja e të dhënave mbi sajtin do të sjellë edhe heqje cookie-sh dhe të dhënash për shfletim pa u lidhur në internet. Kjo mund të shkaktojë daljen nga sajte. Jeni i sigurt se doni të bëhen ndryshimet?">
 <!ENTITY     siteTree2.label               "Cookie-t vijuese të sajteve do të hiqen">
+<!ENTITY     removingDialog1.title         "Heqje Cookies dhe të Dhëna Sajtesh">
+<!ENTITY     removingSelected1.description "Heqja e cookie-eve dhe të dhënave të sajteve mund të sjellë daljen tuaj nga llogaritë në sajte. Jeni i sigurt se doni të bëhen këto ndryshime?">
+<!ENTITY     siteTree3.label               "Cookie-t dhe të dhënat e sajteve për sajtet vijues do të hiqen">
