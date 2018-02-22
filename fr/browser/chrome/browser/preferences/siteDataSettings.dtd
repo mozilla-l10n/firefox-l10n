@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "Paramètres - Données des sites">
 
+<!ENTITY     window1.title                 "Paramètres - Cookies et données des sites">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "État">
 <!ENTITY     cookiesCol.label              "Cookies">
@@ -19,3 +20,5 @@
 <!ENTITY     removingDialog.title          "Supprimer les données du site">
 <!ENTITY     removingSelected.description  "Supprimer les données du site supprimera également les cookies et le contenu web hors connexion. Cette action pourrait vous déconnecter des sites web. Voulez-vous vraiment effectuer ces changements ?">
 <!ENTITY     siteTree2.label               "Les cookies des sites web suivants seront supprimés">
+<!ENTITY     removingDialog1.title         "Suppression des cookies et des données des sites">
+<!ENTITY     siteTree3.label               "Les cookies et les données associés aux sites suivants seront supprimés">
