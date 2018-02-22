@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Formësim Ndërmjetësish për Hyrje në Internet">
+
+<!ENTITY  proxyTitle.label2             "Formësoni Hyrje Ndërmjetësi në Internet">
 <!ENTITY  noProxyTypeRadio.label        "Pa ndërmjetës">
 <!ENTITY  noProxyTypeRadio.accesskey    "P">
 <!ENTITY  systemTypeRadio.label         "Përdor rregullime sistemi për ndërmjetësin">
