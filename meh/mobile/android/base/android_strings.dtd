@@ -221,6 +221,7 @@
 <!ENTITY pref_category_home_homepage "Nuu kajie´e">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Ni´i-ma nuu pestaña jiia">
 <!ENTITY home_homepage_title "Tee kua tutu xina ñu´un">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -290,6 +291,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Síne jii &formatS;">
+<!ENTITY custom_tabs_menu_footer "Ya´a kuvi teku jiie &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL ntɨɨ">
 
@@ -831,6 +833,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Náxitá-má nuu sɨ´ɨ nsá´ánu">
 
 <!ENTITY private_tab_panel_title "Nánuku yu´u + kumi noo´o nkuntada-ja noo´o">
+<!ENTITY private_tab_panel_description2 "Naa daa nnánukunu, soma daa archivu nxinuun jii daa jiia sɨ´ɨ koo nuu ka̱a̱-nu.">
 <!ENTITY private_tab_learn_more "¿A kuvinu kutu´va-ka?">
 
 <!ENTITY fullscreen_warning "Nkivunɨ pantalla ka´nu">
