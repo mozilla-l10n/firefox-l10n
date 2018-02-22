@@ -11,7 +11,7 @@
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; засега няма съхранени предишни разговори с този контакт.">
 <!ENTITY chat.noAccount.title             "Все още не сте създали регистрация за разговори.">
 <!ENTITY chat.noAccount.description       "Нека &brandShortName; ви насочва в процеса на задаване на вашата сметка за разговори.">
-<!ENTITY chat.accountWizard.button       "Започване">
+<!ENTITY chat.accountWizard.button       "Въведение">
 <!ENTITY chat.noConnectedAccount.title             "Няма връзка с вашите сметки за разговор.">
 <!ENTITY chat.noConnectedAccount.description       "Можете да се свържете с тях чрез диалога „Състояние на разговора“:">
 <!ENTITY chat.showAccountManager.button       "Показване на състоянието на разговора">

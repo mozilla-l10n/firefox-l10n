@@ -66,7 +66,7 @@
 <!ENTITY compactFolders.accesskey "ъ">
 <!ENTITY emptyTrashCmd.label "Изпразване на кошчето">
 <!ENTITY emptyTrashCmd.accesskey "ш">
-<!ENTITY offlineMenu.label "Без връзка">
+<!ENTITY offlineMenu.label "Без мрежа">
 <!ENTITY offlineMenu.accesskey "Б">
 <!ENTITY offlineGoOfflineCmd.label "Работа без връзка">
 <!ENTITY offlineGoOfflineCmd.accesskey "б">
@@ -128,7 +128,7 @@
 <!ENTITY redoDefaultCmd.accesskey "П">
 
 <!-- View Menu -->
-<!ENTITY menubarCmd.label "Лента за менюто">
+<!ENTITY menubarCmd.label "Лента с менюта">
 <!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showMessengerToolbarCmd.label "Лента за поща">
 <!ENTITY showMessengerToolbarCmd.accesskey "п">
@@ -897,7 +897,7 @@
 <!ENTITY AddToAddressBook.accesskey "а">
 <!ENTITY AddDirectlyToAddressBook.label "Добавяне в адресника">
 <!ENTITY AddDirectlyToAddressBook.accesskey "а">
-<!ENTITY EditContact1.label "Редактиране на контакт">
+<!ENTITY EditContact1.label "Промяна на контакт">
 <!ENTITY EditContact1.accesskey "Р">
 <!ENTITY ViewContact.label "Преглед на контакт">
 <!ENTITY ViewContact.accesskey "П">

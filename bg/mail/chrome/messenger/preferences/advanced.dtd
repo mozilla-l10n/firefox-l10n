@@ -83,7 +83,7 @@
 <!ENTITY showSettings.accesskey        "й">
 <!ENTITY proxiesConfigure.label        "Настройки на &brandShortName; за достъп до Мрежата">
 <!ENTITY connectionsInfo.caption       "Връзка">
-<!ENTITY offlineInfo.caption           "Без връзка">
+<!ENTITY offlineInfo.caption           "Без мрежа">
 <!ENTITY offlineInfo.label             "Конфигуриране настройките за работа извън мрежа">
 <!ENTITY showOffline.label             "Без връзка…">
 <!ENTITY showOffline.accesskey         "Б">

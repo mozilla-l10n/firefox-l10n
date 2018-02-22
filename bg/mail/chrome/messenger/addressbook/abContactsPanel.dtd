@@ -31,7 +31,7 @@
 <!ENTITY propertiesContext.accesskey        "в">
 <!ENTITY abPropertiesContext.label          "Свойства">
 <!ENTITY abPropertiesContext.accesskey      "в">
-<!ENTITY editContactContext.label           "Редактиране на контакт">
+<!ENTITY editContactContext.label           "Промяна на контакт">
 <!ENTITY editContactContext.accesskey       "р">
 <!ENTITY editMailingListContext.label       "Редактиране на списък">
 <!ENTITY editMailingListContext.accesskey   "р">
