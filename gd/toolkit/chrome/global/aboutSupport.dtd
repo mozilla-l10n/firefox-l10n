@@ -21,6 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Tionndadh">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Bathar-bog tèarainteachd">
+<!ENTITY aboutSupport.securitySoftwareType "Seòrsa">
+<!ENTITY aboutSupport.securitySoftwareName "Ainm">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Bathar an aghaigh bhìorasan">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Bathar an aghaidh bathar-foill">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Cachaileith-theine">
+
 <!ENTITY aboutSupport.featuresTitle "Gleusan &brandShortName;">
 <!ENTITY aboutSupport.featureName "Ainm">
 <!ENTITY aboutSupport.featureVersion "Tionndadh">
@@ -151,3 +158,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Seanailean">
 <!ENTITY aboutSupport.mediaDeviceRate "Reat">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latency">
+
+<!ENTITY aboutSupport.intlTitle "Eadar-nàiseantachadh ⁊ ionadaileadh">
+<!ENTITY aboutSupport.intlAppTitle "Roghainnean na h-aplacaid">
+<!ENTITY aboutSupport.intlLocalesRequested "Dreachan ionadail a chaidh iarraidh">
+<!ENTITY aboutSupport.intlLocalesAvailable "Dreachan ionadail ri am faighinn">
+<!ENTITY aboutSupport.intlLocalesSupported "Dreachan ionadail na h-aplacaid">
+<!ENTITY aboutSupport.intlLocalesDefault "An dreach ionadail tùsail">
+<!ENTITY aboutSupport.intlOSTitle "Siostam-obrachaidh">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Dreachan ionadail an t-siostaim-obrachaidh">
+<!ENTITY aboutSupport.intlRegionalPrefs "Roghainnean roinneil">
