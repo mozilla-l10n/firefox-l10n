@@ -381,6 +381,7 @@
 <!ENTITY pref_dialog_set_default "Tee kua predeterminado">
 <!ENTITY pref_dialog_default "Predeterminado">
 <!ENTITY pref_dialog_remove "Xita">
+<!ENTITY pref_dialog_activitystream_visited "Nne´ya">
 
 <!ENTITY pref_search_last_toast "Nkuvi xita a xiin saa deshabilitar motor a nanuku tu´u.">
 
@@ -439,6 +440,7 @@
 <!ENTITY share_image_failed "Nkuvi kua´a tutu nátava ya´a">
 <!ENTITY save_as_pdf "Chuva´a kua PDF">
 <!ENTITY print "Nátava">
+<!ENTITY view_page_source "Kune´ya tu´un nee yata ya´a">
 <!ENTITY find_in_page "Nuku nuu página">
 <!ENTITY desktop_mode "Taji iin nuu escritorio">
 <!ENTITY page "Página">
@@ -814,8 +816,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Nne´ya">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Kajie´e nánuku, jee xine´e-ani daa tutu vii, tutu nátava káná jii daa inka nuu nnánukunu.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -825,6 +829,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_learn_more "¿A kuvinu kutu´va-ka?">
 
+<!ENTITY fullscreen_warning "Nkivunɨ pantalla ka´nu">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
 
