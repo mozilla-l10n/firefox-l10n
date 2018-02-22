@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Përpiqemi t’ju japim mundësi zgjedhjesh dhe grumbullojmë vetëm ç’na duhet për të ofruar dhe përmirësuar &brandShortName;-in për këdo. Kërkojmë përherë leje përpara se të marrim të dhëna personale.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Shënim Mbi Privatësinë">
 
+<!ENTITY collectBrowserErrors.label          "Lejojeni &brandShortName;-in të dërgojë te Mozilla njoftime gabimesh shfletuesi (përfshi mesazhe gabimesh)">
+<!ENTITY collectBrowserErrors.accesskey      "L">
+<!ENTITY collectBrowserErrorsLearnMore.label "Mësoni më tepër">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Lejojeni &brandShortName;-in të dërgojë te Mozilla njoftime vithisjesh">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "v">
 <!ENTITY crashReporterLearnMore.label    "Mësoni Më Tepër">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "Ndërmjetës Rrjeti">
 
 <!ENTITY connectionDesc.label            "Formësoni mënyrën se si &brandShortName;-i lidhet në Internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Mësoni më tepër">
 <!ENTITY connectionSettings.label        "Rregullime…">
 <!ENTITY connectionSettings.accesskey    "R">
 
 <!ENTITY httpCache.label                 "Lëndë Web Në Fshehtinë">
-
-<!ENTITY offlineStorage2.label           "Lëndë Web dhe të Dhëna Përdoruesi Jashtë Linje">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Të dhëna Sajti">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB hapësirë">
 <!ENTITY clearCacheNow.label             "Pastroje Tani">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY clearOfflineAppCacheNow.label   "Pastroje Tani">
-<!ENTITY clearOfflineAppCacheNow.accesskey "a">
 <!ENTITY overrideSmartCacheSize.label    "Anashkalo administrimin e vetvetishëm të fshehtinës">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Të përditësojë vetvetiu motorët e kërkimeve">
 <!ENTITY enableSearchUpdate2.accesskey   "m">
-
-<!ENTITY offlineStorageNotify.label               "Bëma të ditur kur një sajt kërkon të depozitojë të dhëna për përdorim të palidhur">
-<!ENTITY offlineStorageNotify.accesskey           "B">
-<!ENTITY offlineStorageNotifyExceptions.label     "Përjashtime…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "P">
-
-<!ENTITY offlineAppsList3.label          "Sajteve vijues u është lejuar të depozitojnë të dhëna për përdorim të palidhur">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Hiqeni…">
-<!ENTITY offlineAppsListRemove.accesskey "H">
-<!ENTITY offlineAppRemove.confirm        "Hiqi të dhënat jashtë linje">
 
 <!ENTITY certificateTab.label            "Dëshmi">
 <!ENTITY certPersonal2.description       "Kur një shërbyes kërkon dëshminë tuaj personale">
