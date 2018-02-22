@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Rayi'ì pagina na">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Sa nagi'iaj hue'è diseño">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Giri' a'ngo rakïj ñanj">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -225,7 +227,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Na'nïn' riña ma nej nuguan' nahuin ro'ô'">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Naduno' nânj ginù riña pagina na">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Naduno' daj nanù a'ngò nânj a'min' riña pagina na">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Ganikaj ñu'ù' da' garasun' software DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Gi'iaj blokeandot si kamarat guenda sitio web na.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Gi'iaj blokeandot nej pop-ups guenda sitio web na.">
 
 
@@ -536,3 +541,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
