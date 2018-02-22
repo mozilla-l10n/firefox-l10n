@@ -163,6 +163,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Ya´a a íyo nuu a ta´a ini noo´o">
 <!ENTITY overlay_share_send_other "Chu´un ichi nuu daa inka ka̱a̱">
 
+<!ENTITY overlay_share_open_browser_btn_label "Síne jii &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -601,6 +602,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Nuu ya´a nu´ni">
+<!ENTITY home_unpinned_site "Nuu ya´a nanaji">
 
 <!ENTITY remote_tabs_panel_moved_title "¿Nenu kua´a daa pestañas nuu´u?">
 <!ENTITY remote_tabs_panel_moved_desc "Nsamadani daa pestañas daa inka ka̱a̱ noo´o nuu panel página inicio noo´o saa kuvi ni´i ñamanu ntaka ichi sínenu iin pestaña jíía.">
@@ -827,13 +830,16 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Xita">
 <!ENTITY activity_stream_delete_history "Náxitá-má nuu sɨ´ɨ nsá´ánu">
 
+<!ENTITY private_tab_panel_title "Nánuku yu´u + kumi noo´o nkuntada-ja noo´o">
 <!ENTITY private_tab_learn_more "¿A kuvinu kutu´va-ka?">
 
 <!ENTITY fullscreen_warning "Nkivunɨ pantalla ka´nu">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+<!ENTITY pwa_add_to_launcher_confirm "+ Chisó nuu kajie´e">
 
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+<!ENTITY pwa_add_to_launcher_badge2 "Chisó nuu kajie´e">
 <!ENTITY pwa_continue_to_website "Kaka nuu web">
