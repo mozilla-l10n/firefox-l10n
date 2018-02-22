@@ -4,6 +4,7 @@
 
 <!ENTITY  fontsDialog.title                       "ఫాంట్లు">
 
+<!ENTITY  fonts.label                             "వీటికొరకు ఫాంట్లు">
 <!ENTITY  fonts.accesskey                         "F">
 
 <!ENTITY  size2.label                             "పరిమాణం">
