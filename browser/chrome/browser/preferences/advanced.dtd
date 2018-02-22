@@ -29,6 +29,8 @@
 <!ENTITY collectBrowserErrorsLearnMore.label "Ulteriori informazioni">
 <!ENTITY alwaysSubmitCrashReports1.label "Consenti a &brandShortName; di inviare a Mozilla le segnalazioni di arresto anomalo">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "C">
+<!ENTITY sendBackloggedCrashReports.label "Consenti a &brandShortName; di inviare segnalazioni di arresto anomalo in sospeso per conto dell‘utente">
+<!ENTITY sendBackloggedCrashReports.accesskey "C">
 <!ENTITY crashReporterLearnMore.label "Ulteriori informazioni">
 <!ENTITY networkTab.label "Rete">
 <!ENTITY networkProxy.label "Server proxy">
