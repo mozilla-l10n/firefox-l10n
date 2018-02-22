@@ -378,7 +378,7 @@
 <!ENTITY pref_private_data_formdata2 "История на формуляри">
 <!ENTITY pref_private_data_cookies2 "Бисквитки и текущи вписвания">
 <!ENTITY pref_private_data_passwords2 "Запазени регистрации">
-<!ENTITY pref_private_data_cache "Кеш">
+<!ENTITY pref_private_data_cache "Буфер">
 <!ENTITY pref_private_data_offlineApps "Данни за сайтове без мрежа">
 <!ENTITY pref_private_data_siteSettings2 "Настройки на сайтове">
 <!ENTITY pref_private_data_downloadFiles2 "Изтегляния">
