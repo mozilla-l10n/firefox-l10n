@@ -28,7 +28,7 @@ that require it.  -->
 <!ENTITY itemHistory.accesskey             "И">
 <!ENTITY itemCookies.label                 "Бисквитки">
 <!ENTITY itemCookies.accesskey             "Б">
-<!ENTITY itemCache.label                   "Кеш">
+<!ENTITY itemCache.label                   "Буфер">
 <!ENTITY itemCache.accesskey               "К">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph

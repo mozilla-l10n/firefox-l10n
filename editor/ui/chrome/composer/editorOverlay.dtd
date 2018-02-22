@@ -283,7 +283,7 @@
 <!ENTITY tableProperties.accesskey "й">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Лента на менюто">
+<!ENTITY menuBar.tooltip "Лента с менюта">
 <!ENTITY formatToolbar.tooltip "Лента с инструменти за форматиране">
 <!ENTITY cutToolbarCmd.tooltip "Изрязване">
 <!ENTITY copyToolbarCmd.tooltip "Копиране">

@@ -15,7 +15,7 @@
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Основни">
-<!ENTITY Offline.tab                       "Без връзка">
+<!ENTITY Offline.tab                       "Без мрежа">
 <!ENTITY Advanced.tab                      "Разширени">
 <!ENTITY portNumber.label                  "Порт:">
 <!ENTITY portNumber.accesskey              "П">

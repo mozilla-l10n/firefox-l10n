@@ -23,8 +23,8 @@
 
 <!ENTITY  underlineLinks.label            "Подчертаване на препратки">
 <!ENTITY  underlineLinks.accesskey        "П">
-<!ENTITY  links                           "Цветове на връзките">
-<!ENTITY  linkColor.label                 "Непосетени връзки:">
+<!ENTITY  links                           "Цветове на препратки">
+<!ENTITY  linkColor.label                 "Непосетени:">
 <!ENTITY  linkColor.accesskey             "о">
-<!ENTITY  visitedLinkColor.label          "Посетени връзки:">
+<!ENTITY  visitedLinkColor.label          "Посетени:">
 <!ENTITY  visitedLinkColor.accesskey      "с">
