@@ -74,7 +74,7 @@
 <!ENTITY  aboutDevtools.newsletter.privacy.label "თანახმა ვარ, რომ Mozilla-მ ჩემი მონაცემები გამოიყენოს, <a class='external' href='https://www.mozilla.org/privacy/'>პირადულობის დაცვის დებულების</a> შესაბამისად.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "გამოწერა">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "გმადლობთ!">
-<!ENTITY  aboutDevtools.newsletter.thanks.message "თუ ჯერ არ დაგიმოწმებიათ Mozilla-ს საინფორმაციო ცნობების გამოწერა, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების, ან სპამის საქაღალდეში.">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "თუ ჯერ არ დაგიმოწმებიათ Mozilla-ს საინფორმაციო ცნობების გამოწერა, ამის გაკეთება ახლაც შეგიძლიათ. გთხოვთ, მონახოთ ჩვენი გზავნილი მიღებული წერილების ან სპამის საქაღალდეში.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 <!ENTITY  aboutDevtools.footer.message "გსურთ მეტი, ვიდრე შემმუშავებლის ხელსაწყოებია? იხილეთ Firefox ბრაუზერი, შექმნილი საგანგებოდ შემმუშავებლებისთვის და განკუთვნილი, თანამედროვე სამუშაო პირობებისთვის.">
