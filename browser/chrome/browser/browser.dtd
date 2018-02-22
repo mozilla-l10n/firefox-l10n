@@ -1001,3 +1001,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Erişilebilirlik özellikleri açık">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Eklentilerinizi yönetmek için <image class='addon-toolbar-icon'/> menüdeki <image class='addon-addon-icon'/> simgesine tıklayabilirsiniz.">
