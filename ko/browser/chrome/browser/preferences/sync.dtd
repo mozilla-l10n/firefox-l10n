@@ -106,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              "를 다운로드 합니다.">
+
+<!ENTITY mobilepromo.singledevice      "다른 기기에 연결">
+<!ENTITY mobilepromo.multidevice       "기기 관리">
