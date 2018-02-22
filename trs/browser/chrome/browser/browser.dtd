@@ -231,9 +231,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Gi'iaj blokeandot si kamarat guenda sitio web na.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Gi'iaj blokeandot da' ni si gini'iaj nej dugui' a'ngo hiuj u riña du'ua si aga't.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Gi'iaj blokeandot dara' nuguan'an guenda sitio web na.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Gi'iaj blokeandot da' si nahuin ra'àt nuguan'an guenda sitio web na.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Gi'iaj blokeandot da' si nachrá sa' nuguan'an guenda sitio web na.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Gi'iaj blokeandot nej pop-ups guenda sitio web na.">
 
+<!ENTITY urlbar.canvasBlocked.tooltip            "Gi'iaj blokeandot da' si gida'à nej dugui' datos canva guenda sitio web na.">
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Digû' riña gaché nu'">
 
 <!ENTITY searchItem.title             "Nana'ui'">
 
