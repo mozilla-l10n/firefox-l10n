@@ -121,7 +121,7 @@
 <!ENTITY redirectLoop.title "გვერდი არამართებულად გადამისამართდა">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>ამ ხარვეზს, ზოგჯერ იწვევს ფუნთუშების გამორთვა, ან
+  <li>ამ ხარვეზს, ზოგჯერ იწვევს ფუნთუშების გამორთვა ან
     უარყოფა.</li>
 </ul>
 ">
@@ -197,6 +197,7 @@ Strict Transport Security (HSTS) შეერთებას, რომ &brandSh
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ ტექნოლოგიას, რომელიც მოძველებული და დაუცველია. თავდამსხმელმა შესაძლოა მარტივად მიიღოს იმ მონაცემებზე წვდომა, რომელიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
 
 <!ENTITY prefReset.longDesc "შესაძლოა ამის მიზეზს, თქვენ მიერ მითითებული, ქსელის უსაფრთხოების პარამეტრები წარმოადგენდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?">
 <!ENTITY prefReset.label "ნაგულისხმევი პარამეტრების აღდგენა">
