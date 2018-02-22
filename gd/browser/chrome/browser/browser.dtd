@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Fiosrachadh na duilleige">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Dì-bhugaichear na co-dhealbhachd">
+<!ENTITY ldbCmd.accesskey "l">
 <!ENTITY mirrorTabCmd.label "Sgàthanaich an taba">
 <!ENTITY mirrorTabCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -383,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Chan eil taba sioncronaichte agad… fhathast!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Roghainnean sioncronachaidh">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Fosgail roghainnean an t-sioncronachaidh">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tha an cunntas agad feumach air dearbhadh.">
 <!ENTITY appMenuRemoteTabs.signin.label "Clàraich a-steach gun t-sioncronachadh">
@@ -1000,3 +1003,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Tha gleusan na so-inntrigeachd an comas">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Gus na tuilleadain agad a stiùireadh, briog air <image class='addon-addon-icon'/> sa chlàr-taice <image class='addon-toolbar-icon'/>.">

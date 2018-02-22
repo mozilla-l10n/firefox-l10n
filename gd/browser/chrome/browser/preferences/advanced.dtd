@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Tha sinn ag obair gu cruaidh airson an dà chuid roghainnean a thoirt dhut agus dìreach an dàta a chruinneachadh a dh’fheumas sinn airson &brandShortName; a sholar dhan a h-uile duine agus airson a leasachadh. Iarraidh sinn cead ort uair sam bith ma bhios feum air dàta pearsanta.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Sanas prìobhaideachd">
 
+<!ENTITY collectBrowserErrors.label          "Leig le &brandShortName; aithisgean air mearachdan brabhsair (a’ gabhail a-staigh teachdaireachdan mhearachdan) a chur a-null gu Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Barrachd fiosrachaidh">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Leig le &brandShortName; aithisgean mu thuislidhean a chur gu Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Barrachd fiosrachaidh">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "Progsaidh lìonraidh">
 
 <!ENTITY connectionDesc.label            "Rèitich mar a cheanglas &brandShortName; ris an lìon">
+
+<!ENTITY connectionSettingsLearnMore.label "Barrachd fiosrachaidh">
 <!ENTITY connectionSettings.label        "Roghainnean…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Susbaint-lìn san tasglann">
-
-<!ENTITY offlineStorage2.label           "Susbaint-lìn is dàta cleachdaiche far loidhne">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Dàta na làraich">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB a dh'àite">
 <!ENTITY clearCacheNow.label             "Falamhaich an-dràsta">
 <!ENTITY clearCacheNow.accesskey         "F">
-<!ENTITY clearOfflineAppCacheNow.label   "Falamhaich an-dràsta">
-<!ENTITY clearOfflineAppCacheNow.accesskey "c">
 <!ENTITY overrideSmartCacheSize.label    "Leig seachad stiùireadh fèin-obrachail an tasgadain">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "na h-einnseanan-luirg ùrachadh gu fèin-obrachail">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Innis ma bhios làrach-lìn ag iarraidh dàta a stòradh a chum cleachdaidh far loidhne">
-<!ENTITY offlineStorageNotify.accesskey           "t">
-<!ENTITY offlineStorageNotifyExceptions.label     "Eisgeachdan…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "E">
-
-<!ENTITY offlineAppsList3.label          "Tha cead aig na làraichean-lìn a leanas dàta a stòradh a chum cleachdaidh far loidhne">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Thoir air falbh…">
-<!ENTITY offlineAppsListRemove.accesskey "r">
-<!ENTITY offlineAppRemove.confirm        "Thoir air falbh an dàta far loidhne">
 
 <!ENTITY certificateTab.label            "Teisteanasan">
 <!ENTITY certPersonal2.description       "Nuair a dh’iarras frithealaiche an teisteanas pearsanta agad">
