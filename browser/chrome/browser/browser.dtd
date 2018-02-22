@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Información de la página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Depurador de diseño">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Pestaña espejo">
 <!ENTITY mirrorTabCmd.accesskey "e">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ha bloqueado el micrófono para este sitio web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ha bloqueado este sitio web para que no comparta la pantalla.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ha bloqueado la información de ubicación para este sitio web.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ha bloqueado almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha bloqueado notificaciones para este sitio web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Se ha bloqueado el almacenamiento persistente para este sitio web.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Ha bloquedo emergentes para este sitio web.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Se ha bloqueado la extracción de datos de canvas para este sitio web.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nueva ventana privada">
 <!ENTITY newPrivateWindow.accesskey "v">
-<!ENTITY newNonRemoteWindow.label   "Nueva ventana Non-e10s">
 
 <!ENTITY editMenu.label         "Editar">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo el historial">
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
-<!ENTITY appMenuCustomize.label "Personalizar">
-<!ENTITY appMenuCustomize.tooltip "Personalizar el menú y las barras de herramientas">
-<!ENTITY appMenuCustomizeExit.label "Salir de personalizar">
-<!ENTITY appMenuCustomizeExit.tooltip "Finalizar personalización">
-
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión previa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral de historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial reciente">
 <!ENTITY appMenuHelp.label "Ayuda">
-<!ENTITY appMenuHelp.tooltip "Abrir menú de ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "No hay pestañas sincronizadas… ¡aún!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Desea ver las pestañas de sus otros dispositivos acá?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir las preferencias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Ingrese para ver una lista de pestañas de los otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "La cuenta necesita ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Ingresar a Sync">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensión:">
 <!ENTITY urlbar.switchToTab.label     "Cambiar a pestaña:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "¿Desea mejorar la experienca de búsquedas con sugerencias?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Conocer más…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "c">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consejo:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo básico de página">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Cambiar opciones de bloqueo de ventanas emergentes para este sitio web">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Arrastre los elementos favoritos a la barra de herramientas o al menú flotante.">
-<!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Elija entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminadas">
 <!ENTITY customizeMode.done "Hecho">
 <!ENTITY customizeMode.titlebar "Barra de títulos">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "m">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
-<!ENTITY customizeMode.emptyOverflowList.description "Arrastrar y soltar elementos aquí para mantenerlos a mano pero fuera de la barra de herramientas…">
 <!ENTITY customizeMode.overflowList.title2 "Menú de desborde">
 <!ENTITY customizeMode.overflowList.description "Arrastrar y soltar elementos aquí los mantendrá a mano pero fuera de la barra de herramientas…">
 <!ENTITY customizeMode.uidensity "Densidad">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Acciones de página">
 <!ENTITY pageAction.addToUrlbar.label "Agregar a la barra de direcciones">
 <!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
-
 <!ENTITY pageAction.allowInUrlbar.label "Mostrar en barra de direcciones">
 <!ENTITY pageAction.disallowInUrlbar.label "No mostrar en barra de direcciones">
 <!ENTITY pageAction.manageExtension.label "Administrar extensión…">
@@ -1023,3 +1003,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Funciones de accesibilidad habilitadas">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Administre sus complementos haciendo clic <image class='addon-addon-icon'/> en el <image class='addon-toolbar-icon'/> menú.">
