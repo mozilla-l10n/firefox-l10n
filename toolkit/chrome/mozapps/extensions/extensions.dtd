@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Manaidsear nan tuilleadan">
 
 <!ENTITY search.placeholder                   "Rannsaich a h-uile tuilleadan">
+
+<!ENTITY search.placeholder2                  "Lorg air addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Lorg">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -23,15 +25,13 @@
 <!ENTITY getThemes.description                "A bheil thu airson dreach pearsanta a chur air a’ bhrabhsair agad?">
 <!ENTITY getThemes.learnMore                  "Tha roghadh is taghadh agad am measg nam mìltean a dh’ùrlaran.">
 
-<!ENTITY cmd.back.tooltip                     "Rach duilleag air ais">
-<!ENTITY cmd.forward.tooltip                  "Rach duilleag air adhart">
 
 <!ENTITY showUnsignedExtensions.button.label  "Bha leudachain ann nach b’ urrainn dhuinn dearbhadh">
 <!ENTITY showAllExtensions.button.label       "Seall a h-uile leudachan">
 <!ENTITY debugAddons.label                    "Dì-bhugaich na tuilleadain">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Chaidh a h-uile tuilleadan a chur à comas leis a' mhodh sàbhailte.">
 <!ENTITY warning.checkcompatibility.label          "Chaidh an sgrùdadh air co-chòrdalachd nan tuilleadain a chur à comas. Dh'fhaodadh gu bheil tuilleadan agad nach eil co-chòrdail.">
 <!ENTITY warning.checkcompatibility.enable.label   "Cuir an comas">
@@ -39,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "Chaidh an sgrùdadh tèarainteachd air ùrachadh nan tuilleadain a chur à comas. Dh'fhaodadh gun cuir ùrachaidhean cron ort.">
 <!ENTITY warning.updatesecurity.enable.label       "Cuir an comas">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Cuir an comas sgrùdadh tèarainteachd nan tuilleadan">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Lorg">
 <!ENTITY view.discover.label                  "Faigh tuilleadain">
 <!ENTITY view.recentUpdates.label             "Ùrachaidhean a rinn thu o chionn goirid">
 <!ENTITY view.availableUpdates.label          "Ùrachaidhean a tha ri am faighinn">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Lorg ùrachaidhean">
 <!ENTITY updates.checkForUpdates.accesskey    "c">
 <!ENTITY updates.viewUpdates.label            "Seall na h-ùrachaidhean faisg orm">
@@ -74,8 +74,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Seall na h-ùrachaidhean a tha ri am faighinn">
 <!ENTITY updates.updateSelected.label         "Stàlaich na h-ùrachaidhean">
 <!ENTITY updates.updateSelected.tooltip       "Stàlaich na h-ùrachaidhean san liosta seo a tha ri am faighinn">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Seall barrachd fiosrachaidh">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Lorg ùrachaidhean">
@@ -119,15 +119,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Cuir na nòtaichean sgaoilidh am falach">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Cuir nòtaichean sgaoilidh an ùrachaidh seo am falach">
 <!ENTITY cmd.findReplacement.label            "Faigh rud a ghabhas àite">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Dè th' ann an tuilleadan?">
 <!ENTITY discover.description2                "'S e aplacaid a tha ann an tuilleadan leis an urrainn dhut feartan no stoidhle a bharrachd a chur ri &brandShortName;. Feuch ri bàr-taoibhe a shàbhaileas ùine, aithrisiche na h-aimsire no ùrlar gus do dhreach fhèin a chur air &brandShortName;.">
 <!ENTITY discover.footer                      "Nochdaidh cuid dhe na tuilleadan as fhearr 's air a bheil an fhèill as motha an-seo nuair a bhios tu co-cheangailte ris an lìon gun urrainn dhut feuchainn riutha.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Tionndadh">
 <!ENTITY detail.lastupdated.label             "Ùrachadh mu dheireadh">
 <!ENTITY detail.creator.label                 "Leasaichear">
@@ -156,17 +156,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Roghainnean">
 <!ENTITY detail.showPreferencesUnix.accesskey "R">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Atharraich roghainnean an tuilleadain seo">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Rangachadh">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Cuir 'na stad">
 <!ENTITY progress.cancel.tooltip              "Sguir dheth">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Ainm">
 <!ENTITY sort.name.tooltip                    "Seòrsaich a-rèir ainm">
 <!ENTITY sort.dateUpdated.label               "Ùrachadh mu dheireadh">
@@ -223,12 +223,12 @@
 <!ENTITY eula.accept                          "Gabh ris is stàlaich e…">
 
 <!ENTITY settings.path.button.label           "Brabhsaich…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Dè tha seo? Faodaidh gun stàlaich 's gun ruith telemeatraidh deuchainnean o àm gu àm.">
 <!ENTITY experiment.info.learnmore "Barrachd fiosrachaidh">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -255,7 +255,6 @@
 <!ENTITY pluginDeprecation.description "Dad a dhìth ort? Chan eil &brandShortName; a’ cur taic ri cuid a phlugain tuilleadh.">
 <!ENTITY pluginDeprecation.learnMore "Barrachd fiosrachaidh.">
 
-<!ENTITY legacyWarning.description "Dad a dhìth ort? Chan eil &brandShortName; a’ cur taic ri cuid a thuilleadain tuilleadh.">
 <!ENTITY legacyWarning.showLegacy "Seall leudachain dhìleabach">
 <!ENTITY legacyExtensions.title "Leudachain dhìleabach">
 <!ENTITY legacyExtensions.description "Chan eil na leudachain seo a’ coileanadh stannardan &brandShortName; agus chaidh an cur às comas ri linn sin.">
