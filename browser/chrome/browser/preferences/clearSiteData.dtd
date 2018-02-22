@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Pastroji të Dhënat">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY window.description           "Pastrimi i krejt cookie-eve dhe të dhënave të sajtit të depozituara nga &brandShortName;-i mund të sjellë daljen tuaj nga llogaritë në sajte dhe heqje të lëndës për përdorim pa qenë i lidhur në internet. Pastrimi i të dhënave të fshehtinës nuk do të prekë kredencialet tuaja për hyrje.">
+<!ENTITY windowClose.key              "w">
+
+
+
