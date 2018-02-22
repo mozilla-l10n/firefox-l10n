@@ -18,6 +18,7 @@
 <!ENTITY deniedPortAccess.title "ఈ చిరునామా నిషిద్దం">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "సర్వర్ కనుగొనబడలేదు">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "హ్మ్. ఆ సైటుని కనుక్కోవడం సమస్యగా ఉంది.">
 
