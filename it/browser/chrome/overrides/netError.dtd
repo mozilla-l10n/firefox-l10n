@@ -85,7 +85,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Verificare la correttezza delle impostazioni del proxy.</li>
   <li>Verificare se il computer ha una connessione di rete funzionante.</li>
-  <li>Se il computer o la rete sono protetti da un firewall o un proxy, assicurarsi che &brandShortName; abbia i permessi per accedere al web.</li>
+  <li>Se il computer o la rete sono protetti da un firewall o un proxy, assicurarsi che &brandShortName; abbia i permessi per accedere al Web.</li>
 </ul>">
 <!ENTITY redirectLoop.title "Questa pagina non reindirizza in modo corretto">
 <!ENTITY redirectLoop.longDesc "
@@ -112,7 +112,7 @@
 <ul>
   <li>Il sito potrebbe essere non disponibile o sovraccarico. Riprovare fra qualche istante.</li>
   <li>Se non è possibile caricare alcuna pagina, controllare la connessione di rete del computer.</li>
-  <li>Se il computer o la rete sono protetti da un firewall o un proxy, assicurarsi che &brandShortName; abbia i permessi per accedere al web.</li>
+  <li>Se il computer o la rete sono protetti da un firewall o un proxy, assicurarsi che &brandShortName; abbia i permessi per accedere al Web.</li>
 </ul>
 ">
 <!ENTITY cspBlocked.title "Bloccato dai criteri sulla sicurezza dei contenuti">
