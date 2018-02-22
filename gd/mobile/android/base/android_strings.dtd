@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "Cha ghabh an dealbh seo a cho-roinneadh">
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
 <!ENTITY print "Clò-bhuail">
+<!ENTITY view_page_source "Seall bun-tùs na duilleige">
 <!ENTITY find_in_page "Lorg san duilleag">
 <!ENTITY desktop_mode "Iarr làrach nan desktop">
 <!ENTITY page "Duilleag">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "Fosgail ann an taba ùr">
 <!ENTITY contextmenu_open_private_tab "Fosgail ann an taba prìobhaideach">
 <!ENTITY contextmenu_remove "Thoir air falbh">
-<!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
 <!ENTITY contextmenu_add_page_shortcut "Cuir ath-ghoirid duilleige ris">
 <!ENTITY contextmenu_set_as_homepage "Suidhich mar an duilleag mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Air a thoirt air falbh">
-
 <!ENTITY folder_removed "Chaidh am pasgan a thoirt air falbh">
 
 <!ENTITY bookmark_edit_title "Deasaich an comharra-lìn">
@@ -811,6 +810,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Tha sinn duilich! Chan obraich seo, &brandShortName;, air an uidheam seo (&formatS1;, &formatS2;). Feuch is luchdaich a‑nuas an tionndadh ceart.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Cha b’ urrainn dhuinn &brandShortName; fhosgladh. Ath-stàlaich e is feuch ris a-rithist.">
+
 <!ENTITY eol_notification_title2 "Cha dèid &brandShortName; ùrachadh tuilleadh">
 <!ENTITY eol_notification_summary "Thoir gnogag airson barrachd fiosrachaidh">
 
@@ -818,8 +820,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Tha &brandShortName; cho ùr \&apos;s a ghabhas">
 <!ENTITY whatsnew_notification_summary "Faigh a-mach dè tha ùr san tionndadh seo">
-
-<!ENTITY promotion_add_to_homescreen "Cuir ris an sgrìn mhòr">
 
 <!ENTITY promotion_add_page_shortcut "Cuir ath-ghoirid duilleige ris">
 
