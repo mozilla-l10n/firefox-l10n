@@ -197,5 +197,8 @@ certificado.">
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable a los ataques. Un atacante podría fácilmente revelar información que se piensa segura. El administrador del sitio web necesitará corregir el servidor antes de poder visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicyTemp.title "Página bloqueada">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>El acceso fue deshabilitado por su administrador.</p>">
+
 <!ENTITY prefReset.longDesc "Parece que la configuración de seguridad de la red puede estar causando esto. ¿Desea que se restaure la configuración predeterminada?">
 <!ENTITY prefReset.label "Restaurar configuración predeterminada">
