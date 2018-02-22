@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Keď sa jedná o údaje, dávame vám vždy na výber. Zbierame len údaje, ktoré nám pomôžu aplikáciu &brandShortName; naďalej zlepšovať. Pred odoslaním osobných údajov vždy žiadame o váš súhlas.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Zásady ochrany súkromia">
 
+<!ENTITY collectBrowserErrors.label          "Povoliť aplikácii &brandShortName; odosielať hlásenia o chybách prehliadača (vrátane textu správ o chybách) Mozille">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Ďalšie informácie">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Odosielať Mozille správy o zlyhaní aplikácie &brandShortName;">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Ďalšie informácie">
