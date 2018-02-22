@@ -288,7 +288,9 @@
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Síne jii &formatS;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL ntɨɨ">
 
 
 <!ENTITY tracking_protection_prompt_title "Vitan jee vaji iin a kumi nkutada-ja a sá´ánu">
@@ -521,6 +523,7 @@
 <!ENTITY bookmark_edit_name "Sivɨ">
 <!ENTITY bookmark_edit_location "Nuu iñɨnu">
 <!ENTITY bookmark_edit_keyword "Tu´un clave">
+<!ENTITY bookmark_select_folder "Kaji carpeta">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
