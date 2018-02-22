@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Nastavenia - Údaje stránok">
+
+<!ENTITY     window1.title                 "Nastavenia - Cookies a údaje stránok">
 <!ENTITY     hostCol.label                 "Stránka">
 <!ENTITY     statusCol.label               "Stav">
+<!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Úložisko">
 <!ENTITY     searchTextboxPlaceHolder             "Hľadať">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "d">
