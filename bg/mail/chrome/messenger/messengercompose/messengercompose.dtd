@@ -112,6 +112,8 @@
 <!ENTITY moveAttachmentTopPanelBtn.accesskey "н">
 <!ENTITY moveAttachmentUpPanelBtn.label "Преместване нагоре">
 <!ENTITY moveAttachmentUpPanelBtn.accesskey "г">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Преместване заедно">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "з">
 <!ENTITY moveAttachmentDownPanelBtn.label "Преместване надолу">
 <!ENTITY moveAttachmentDownPanelBtn.accesskey "д">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Преместване в края">
@@ -119,17 +121,26 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Подреждане от А към Я">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
      the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "о">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Подреждане от Я към А">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "о">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Подреждане: А – Я">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Подреждане: Я – А">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Подреждане от А към Я">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Подреждане от Я към А">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Изглед">
@@ -311,6 +322,8 @@
 <!ENTITY removeAttachment.accesskey "х">
 <!ENTITY renameAttachment.label "Преименуване…">
 <!ENTITY renameAttachment.accesskey "П">
+<!ENTITY reorderAttachments.label "Подреждане на прикачените…">
+<!ENTITY reorderAttachments.accesskey "п">
 <!ENTITY selectAll.label "Избиране на всичко">
 <!ENTITY selectAll.accesskey "И">
 <!ENTITY attachFile.label "Прилагане на файл(ове)…">
