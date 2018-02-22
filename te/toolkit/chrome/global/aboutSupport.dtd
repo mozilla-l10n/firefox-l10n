@@ -23,6 +23,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.securitySoftwareType "రకం">
 <!ENTITY aboutSupport.securitySoftwareName "పేరు">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "యాంటీవైరస్">
+<!ENTITY aboutSupport.securitySoftwareFirewall "ఫైర్వాల్">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; విశేషాలు">
 <!ENTITY aboutSupport.featureName "పేరు">
@@ -156,5 +158,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.intlTitle "అంతర్జాతీయీకరణ &amp; స్థానికీకరణ">
 <!ENTITY aboutSupport.intlAppTitle "అనువర్తన అమరికలు">
+<!ENTITY aboutSupport.intlLocalesRequested "అభ్యర్థించిన భాషలు">
+<!ENTITY aboutSupport.intlLocalesAvailable "అందుబాటులోని భాషలు">
 <!ENTITY aboutSupport.intlOSTitle "నిర్వాహక వ్యవస్థ">
 <!ENTITY aboutSupport.intlRegionalPrefs "ప్రాంతీయ అభిరుచులు">
