@@ -78,6 +78,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Kutuvi sɨ´ɨ">
 
 
 <!-- Toolbar items -->
@@ -88,6 +89,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
+<!ENTITY historyButton.label            "Sɨ´ɨ">
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 
 
@@ -101,9 +104,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY historyMenu.label "Sɨ´ɨ">
+<!ENTITY historyMenu.accesskey "s">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 
+<!ENTITY showAllHistoryCmd2.label "Tuvi kuaiyo sɨ´ɨ">
 
+<!ENTITY appMenuHistory.showAll.label "Tuvi kuaiyo sɨ´ɨ">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -320,3 +327,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
