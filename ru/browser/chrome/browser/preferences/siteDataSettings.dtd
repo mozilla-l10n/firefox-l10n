@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Параметры - Данные сайтов">
+
+<!ENTITY     window1.title                 "Параметры - Куки и данные сайтов">
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Статус">
+<!ENTITY     cookiesCol.label              "Куки">
 <!ENTITY     usageCol.label                "Хранилище">
 <!ENTITY     searchTextboxPlaceHolder             "Поиск веб-сайтов">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "и">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "Удаление данных сайтов">
 <!ENTITY     removingSelected.description  "Удаление данных сайтов приведёт к удалению соответствующих кук и автономного веб-содержимого. Это может привести к разрегистрации на веб-сайтах. Вы уверены, что хотите произвести изменения?">
 <!ENTITY     siteTree2.label               "Куки следующего веб-сайта будут удалены">
+<!ENTITY     removingDialog1.title         "Удаление кук и данных сайтов">
+<!ENTITY     removingSelected1.description "Удаление кук и данных сайтов может привести к разрегистрации вас на веб-сайтах. Вы уверены, что хотите произвести изменения?">
+<!ENTITY     siteTree3.label               "Куки и данные сайтов для следующих веб-сайтов будут удалены">

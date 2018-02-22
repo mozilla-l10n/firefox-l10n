@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "ф">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Отладчик макета">
+<!ENTITY ldbCmd.accesskey "л">
 <!ENTITY mirrorTabCmd.label "Транслировать вкладку">
 <!ENTITY mirrorTabCmd.accesskey "и">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -1001,3 +1003,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Поддержка доступности включена">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Управляйте своими дополнениями, щёлкнув по <image class='addon-addon-icon'/> в меню <image class='addon-toolbar-icon'/>.">
