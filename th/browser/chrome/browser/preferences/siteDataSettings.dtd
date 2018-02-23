@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "การตั้งค่า - ข้อมูลไซต์">
+
+<!ENTITY     window1.title                 "การตั้งค่า - คุกกี้และข้อมูลไซต์">
 <!ENTITY     hostCol.label                 "ไซต์">
 <!ENTITY     statusCol.label               "สถานะ">
+<!ENTITY     cookiesCol.label              "คุกกี้">
 <!ENTITY     usageCol.label                "ที่เก็บข้อมูล">
 <!ENTITY     searchTextboxPlaceHolder             "ค้นหาเว็บไซต์">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "ค">
