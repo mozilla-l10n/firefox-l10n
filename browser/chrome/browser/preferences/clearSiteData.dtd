@@ -5,6 +5,13 @@
 <!ENTITY window.title                 "Momtu keɓe">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY windowClose.key              "w">
 
+<!ENTITY clearSiteData.accesskey      "S">
 
+<!ENTITY clearCache.accesskey         "W">
 
+<!ENTITY button.cancel.label          "Haaytu">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "Momtu">
+<!ENTITY button.clear.accesskey       "l">
