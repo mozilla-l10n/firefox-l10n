@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "წიგნაკი">
+<!ENTITY localResultsOnlyMessage.label                  "ძიებისას, ვებმისამართზე არსებულ წიგნაკში მოცემული პირები არ გამოჩნდება">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "ფაილი">

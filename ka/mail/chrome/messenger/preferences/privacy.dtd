@@ -4,6 +4,10 @@
 
 <!-- Mail Content -->
 
+<!ENTITY acceptRemoteContent.label "ვებშიგთავსის ჩვენების დაშვება ამ შეტყობინებებში">
+<!ENTITY acceptRemoteContent.accesskey "ტ">
+<!ENTITY remoteContentExceptions.label "გამონაკლისები…">
+<!ENTITY remoteContentExceptions.accesskey "ნ">
 <!ENTITY acceptRemoteContentInfo.label "იხილეთ ვრცლად, პირადი მონაცემების უსაფრთხოებაზე, ვებშიგთავსთან დაკავშირებით">
 
 <!-- Web Content -->

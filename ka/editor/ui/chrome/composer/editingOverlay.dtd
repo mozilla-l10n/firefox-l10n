@@ -6,8 +6,8 @@
 <!ENTITY openFileCmd.label "ფაილის გახსნა…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "ვებგვერდის გახსნა…">
-<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.label "ვებმისამართის გახსნა…">
+<!ENTITY openRemoteCmd.accesskey "მ">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "ბოლო გვერდები">
 <!ENTITY fileRecentMenu.accesskey "R">
@@ -15,8 +15,6 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "შენახვა როგორც…">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsChangeEncodingCmd.label "კოდირების შენახვა და შეცვლა">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY publishCmd.label "გამოქვეყნება">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
