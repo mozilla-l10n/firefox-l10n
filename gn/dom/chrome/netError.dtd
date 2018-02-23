@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Oñemyenyhẽvo kutiarogue jejavy ">
 <!ENTITY retry.label "Eha'ãjey">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ojavy oikekuévo">
 <!ENTITY connectionFailure.longDesc "<p>Ko tenda ha'eteroguáicha oikóva, kundahára ndaikatúi oike.</p><ul><li>¿Ikatuhína ko tenda eipuru ko'ag̃aite? Eha'ãkuaa ag̃amieve.</li><li>Ndaikatumo'ãi oheka ambue tenda?  Ehechajey ne ñanduti mohendahápe jeike.</li><li>Ne mohendahápa térã ne ñanduti omo'ã chupe peteĩ firewall térã proxy? Peteĩ ñemboheko ndoikóiva ikatu ombyai ne kundahára ñanduti pegua.</li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> oipuru tembipuru pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ hekoñañáva ikatu ohechauka marandu hekorosãha gua'u. Pe ñanduti renda ñangarekohára omyatãraẽva'erã pe mohendahavusu oike mboyve tendápe.</p><p>Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "Kuatiarogue jokopyre">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Jeike ojokóma ñangarekoha.</p>">
