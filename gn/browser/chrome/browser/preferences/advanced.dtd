@@ -37,6 +37,9 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Roñeha'ã mbarete rome'ẽ hag̃ua jeporavorã ha rombyaty pe roikotevẽva rome'ẽ añoite ha romoĩporãve &brandShortName; arapy tuichakue javépe g̃uarã. Tapiaite rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Marandu Ñemigua">
 
+<!ENTITY collectBrowserErrors.label          "Emoneĩ &brandShortName; pe omomarandúvo jejavy (oikehápe ñe'ẽmondo jejavy rehegua) Mozilla-pe">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Kuaave">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Emoneĩ &brandShortName; omondóvo marandu'i Mozilla-pe">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
