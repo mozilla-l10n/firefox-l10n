@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Teelte- Keɓe Lowre">
+
+<!ENTITY     window1.title                 "Teelte - Kuukiije kam e Keɓe Lowre">
 <!ENTITY     hostCol.label                 "Lowre">
 <!ENTITY     statusCol.label               "Ngonka">
+<!ENTITY     cookiesCol.label              "Kuukiije">
 <!ENTITY     usageCol.label                "Hattan moofto">
 <!ENTITY     searchTextboxPlaceHolder             "Yiylo lowe">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "D">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "Momtugol keɓe lowre">
 <!ENTITY     removingSelected.description  "Momtude keɓe lowre maa ittor kadi kukiije e loowdi geese ɗe ceŋaaki jokkiiɗe heen. Ɗuum ina waawi seŋtude ma e lowe geese. Aɗa yananaa yiɗde waɗde bayle ɗee?">
 <!ENTITY     siteTree2.label               "Kuukiije ɗeeɗoo lowe maa momte">
+<!ENTITY     removingDialog1.title         "Momtude Kuukiije kam e Keɓe Lowre">
+<!ENTITY     removingSelected1.description "Momtude kuukiije kam e keɓe lowre ina waawi seŋtude ma e lowe geese ɗee. Aɗa yananaa yiɗde waɗde bayle ɗee?">
+<!ENTITY     siteTree3.label               "Kuukiije kam e keɓe lowre wonande ɗee lowe geese maa momtoye">
