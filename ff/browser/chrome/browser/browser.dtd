@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Humpito Hello">
 <!ENTITY pageInfoCmd.accesskey "H">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Momtirgel ella Lelngo">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Daartin Tabbere">
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -383,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Alaa tabbe cynkaaɗe… tawo!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Cuɓoraaɗe Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Uddit Cuɓoraaɗe Jahdingol">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Seŋo ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Konte maa ina cokli ƴeewteede.">
 <!ENTITY appMenuRemoteTabs.signin.label "Seŋo nga syncude">
@@ -1000,3 +1003,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Fannuuji Weeɓitaare Kurminama">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
