@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "პარამეტრები - საიტის მონაცემები">
+
+<!ENTITY     window1.title                 "პარამეტრები - ფუნთუშები და საიტის მონაცემები">
 <!ENTITY     hostCol.label                 "საიტი">
 <!ENTITY     statusCol.label               "მდგომარეობა">
+<!ENTITY     cookiesCol.label              "ფუნთუშები">
 <!ENTITY     usageCol.label                "საცავი">
 <!ENTITY     searchTextboxPlaceHolder             "საიტების ძიება">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "ს">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "საიტის მონაცემების წაშლა">
 <!ENTITY     removingSelected.description  "საიტის მონაცემების წაშლისას, ასევე წაიშლება მასთან დაკავშირებული ფუნთუშები და შიგთავსი, რის გამოც, შესული ანგარიშებიდან ავტომატურად გამოხვალთ. ნამდვილად გსურთ ცვლილებები?">
 <!ENTITY     siteTree2.label               "მოცემული ვებსაიტის ფუნთუშები წაიშლება">
+<!ENTITY     removingDialog1.title         "ფუნთუშებისა და საიტის მონაცემების წაშლა">
+<!ENTITY     removingSelected1.description "ფუნთუშებისა და საიტის მონაცემების წაშლის შედეგად, შესაძლოა ვებსაიტებზე შესული ანგარიშებიდან გამოხვიდეთ. ნამდვილად გსურთ, განაგრძოთ?">
+<!ENTITY     siteTree3.label               "მოცემული საიტების მონაცემები და ფუნთუშები წაიშალა">
