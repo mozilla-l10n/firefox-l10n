@@ -18,13 +18,13 @@
 <!ENTITY tabCrashed.header2 "Ups. Fana di krasja.">
 <!ENTITY tabCrashed.offerHelp2 "Vi kan hjelpe!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Vel &tabCrashed.restoreTab; for å laste inn sida på nytt.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Vel &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for laste inn sida/sidene på nytt.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Vel &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for å laste inn sida/sidene på nytt.">
 <!ENTITY tabCrashed.requestHelp "Vil du hjelpe oss?">
 <!ENTITY tabCrashed.requestHelpMessage "Krasjrapportar hjelper oss med å diagnostisere problem og å gjere &brandShortName; betre.">
 <!ENTITY tabCrashed.requestReport "Rapporter denne fana">
 <!ENTITY tabCrashed.sendReport3 "Send ein automatisert krasjrapport slik at vi kan løyse problem som dette.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Valfri kommentar (som er synleg for ålmenta)">
-<!ENTITY tabCrashed.includeURL3 "Inkluder nettadressene til nettstadane du var på når &brandShortName; krasja.">
+<!ENTITY tabCrashed.includeURL3 "Inkluder nettadressene til nettstadane du var på då &brandShortName; krasja.">
 <!ENTITY tabCrashed.emailPlaceholder "Skriv inn e-postadressa di her">
 <!ENTITY tabCrashed.emailMe "Send meg e-post når meir informasjon er tilgjengeleg">
 <!ENTITY tabCrashed.reportSent "Krasjrapport er allereie sendt; takk for at du hjelper til med å gjere &brandShortName; betre!">
