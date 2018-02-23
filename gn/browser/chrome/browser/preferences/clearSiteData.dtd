@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Embogue mba'ekuaarã">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "Kookie ha tenda mba'ekuaarã">
+<!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "Emboguetéramo, ikatu emboty ne rembiapo ñanduti renda pegua">
+
+<!ENTITY clearCache.label             "Ñanduti rechapyrã kachépe">
+<!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "Eikotevẽ ñanduti renda omyenyhẽjey ta'anga ha mba'ekuaarã">
+
+<!ENTITY button.cancel.label          "Heja">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "Mopotĩ">
+<!ENTITY button.clear.accesskey       "I">
