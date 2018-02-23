@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "ಈ ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!ENTITY save_as_pdf "PDF ನಂತೆ ಉಳಿಸಿ">
 <!ENTITY print "ಮುದ್ರಿಸು">
+<!ENTITY view_page_source "ಪುಟದ ಮೂಲವನ್ನು ನೋಡಿ">
 <!ENTITY find_in_page "ಪುಟದಲ್ಲಿ ಹುಡುಕು">
 <!ENTITY desktop_mode "ಡೆಸ್ಕ್‌ಟಾಪ್ ತಾಣವನ್ನು ಕೇಳಿ">
 <!ENTITY page "ಪುಟ">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_open_private_tab "ಖಾಸಗಿ ಟ್ಯಾಬ್ ನಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_remove "ತೆಗೆದು ಹಾಕು">
-<!ENTITY contextmenu_add_to_launcher "ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
 <!ENTITY contextmenu_add_page_shortcut "ಪುಟಕ್ಕೆ ಶಾರ್ಟ-ಕಟ್ಅನ್ನು ಸೇರಿಸಿ">
 <!ENTITY contextmenu_set_as_homepage "ಮುಖಪುಟವನ್ನಾಗಿ ಹೊಂದಿಸು">
 <!ENTITY contextmenu_share "ಹಂಚು">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ಪುಟವನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
-
 <!ENTITY folder_removed "ಕಡತಕೋಶದ ಹೆಸರು">
 
 <!ENTITY bookmark_edit_title "ಪುಟ ಗುರುತನ್ನು ಸಂಪಾದಿಸು">
@@ -811,6 +810,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "ಕ್ಷಮಿಸಿ! ಈ &brandShortName; (&formatS1;, &formatS2;) ಸಾಧನದಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ಸರಿಯಾದ ಆವೃತ್ತಿಯನ್ನು ಡೌನ್‌ಲೋಡ್‍‍ಮಾಡಿಕೊಳ್ಳಿ.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName; ಅನ್ನು ತೆರೆಯಲು ಆಗುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಮರು-ಸ್ಥಾಪಿಸಿ ಮತ್ತು ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; ಇನ್ಮುಂದೆ ಪರಿಷ್ಕರಣೆಗೊಳ್ಳುವುದಿಲ್ಲ">
 <!ENTITY eol_notification_summary "ಹೆಚ್ಚು ಕಲಿಯಲು ಮೆಲ್ಲನೆ ತಟ್ಟಿ">
 
@@ -818,8 +820,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ನವೀಕರಣಗೊಂಡಿದೆ">
 <!ENTITY whatsnew_notification_summary "ಈ ಆವೃತ್ತಿಯಲ್ಲಿ ಹೊಸತೇನಿದೆ ಹುಡುಕಿ ನೋಡಿ">
-
-<!ENTITY promotion_add_to_homescreen "ಮುಖ್ಯ ತೆರೆಗೆ ಸೇರಿಸು">
 
 <!ENTITY promotion_add_page_shortcut "ಪುಟಕ್ಕೆ ಶಾರ್ಟ-ಕಟ್ಅನ್ನು ಸೇರಿಸಿ">
 
