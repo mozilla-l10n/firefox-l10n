@@ -35,6 +35,11 @@ category-sync =
 help-button-label = Dukông { -brand-short-name }
 focus-search =
     .key = f
+close-button =
+    .aria-label = Tôp
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu peuudép fitur nyoe.
+feature-disable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu pumaté fitur nyoe.
+should-restart-title = Peuhah Keulayi { -brand-short-name }
