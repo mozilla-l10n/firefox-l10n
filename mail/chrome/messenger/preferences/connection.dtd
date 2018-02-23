@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "კავშირის პარამეტრები">
-<!ENTITY  window.width                   "45em">
+<!ENTITY  window.width                  "45em">
 
 <!ENTITY  proxyTitle.label              "პროქსის გამართვა ინტერნეტ კავშირისთვის">
 <!ENTITY  noProxyTypeRadio.label        "პროქსი არაა">
@@ -39,3 +39,5 @@
 <!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ყველა ოქმისთვის ამ პროქსის გამოყენება">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  socksRemoteDNS.label          "პროქსის DNS SOCKS v5-ის გამოყენებისას">
+<!ENTITY  socksRemoteDNS.accesskey      "D">

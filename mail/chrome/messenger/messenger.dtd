@@ -555,6 +555,12 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "გადაგზავნა დანართის სახით">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "ამ შეტყობინებაში ვებშიგთავსის ჩვენება">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "ჩ">
+<!ENTITY editRemoteContentSettings.label "ვებშიგთავსის პარამეტრების ჩასწორება…">
+<!ENTITY editRemoteContentSettings.accesskey "წ">
+<!ENTITY editRemoteContentSettingsUnix.label "ვებშიგთავსის პარამეტრების ჩასწორება…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "ჩ">
 
 <!-- Phishing Button Popup -->
 
