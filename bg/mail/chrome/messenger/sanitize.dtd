@@ -29,7 +29,7 @@ that require it.  -->
 <!ENTITY itemCookies.label                 "Бисквитки">
 <!ENTITY itemCookies.accesskey             "Б">
 <!ENTITY itemCache.label                   "Буфер">
-<!ENTITY itemCache.accesskey               "К">
+<!ENTITY itemCache.accesskey               "б">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
