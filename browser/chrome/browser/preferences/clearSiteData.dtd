@@ -5,11 +5,16 @@
 <!ENTITY window.title                 "Momtu keɓe">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Momtude kuukiije ɗee fof kañum e keɓe ɗe &brandShortName; moofti e lowre ina waawi seŋtudema e lowre geese tee momta loowdi geese ɗe ceŋaaki. Momtude keɓe mogginiiɗe battinoytaa ceŋi maa.">
 <!ENTITY windowClose.key              "w">
 
+<!ENTITY clearSiteData.label          "Kuukiije e Keɓe Lowre">
 <!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "Aɗa waawi seŋteede e lowe geese so momtaama">
 
+<!ENTITY clearCache.label             "Loowdi Geese Mogginaandi">
 <!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "Maa naamnoyo lowe geese ngam loowtude nate e keɓe">
 
 <!ENTITY button.cancel.label          "Haaytu">
 <!ENTITY button.cancel.accesskey      "C">
