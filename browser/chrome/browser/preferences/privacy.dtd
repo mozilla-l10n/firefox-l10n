@@ -41,8 +41,14 @@
 <!ENTITY suggestionSettings2.label "Modifica le impostazioni relative ai suggerimenti dei motori di ricerca">
 <!ENTITY acceptCookies2.label "Accetta i cookie dai siti web">
 <!ENTITY acceptCookies2.accesskey "k">
+<!ENTITY acceptCookies3.label "Accetta cookie e dati dai siti web">
+<!ENTITY acceptCookies3.accesskey "k">
 <!ENTITY acceptThirdParty2.pre.label "Accetta i cookie di terze parti">
 <!ENTITY acceptThirdParty2.pre.accesskey "t">
+<!ENTITY blockCookies.label "Blocca cookie e dati dei siti web (potrebbe causare malfunzionamenti in alcuni siti)">
+<!ENTITY blockCookies.accesskey "B">
+<!ENTITY acceptThirdParty3.pre.label "Accetta cookie e dati da siti di terze parti">
+<!ENTITY acceptThirdParty3.pre.accesskey "t">
 <!ENTITY acceptThirdParty.always.label "sempre">
 <!ENTITY acceptThirdParty.never.label "mai">
 <!ENTITY acceptThirdParty.visited.label "dai siti visitati">
