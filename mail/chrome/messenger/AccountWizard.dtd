@@ -4,14 +4,14 @@
 
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "ანგარიშის მმართველი">
+<!ENTITY windowTitle.label "ანგარიშის გამართვის მეგზური">
 <!ENTITY accountWizard.size "width: 50em; height: 45em;">
 
 <!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "წერილების მისაღებად, პირველ რიგში უნდა მიუთითოთ ფოსტისა და ჯგუფების ანგარიში.">
 <!ENTITY accountTypeTitle.label "ახალი ანგარიშის გამართვა">
-<!ENTITY accountTypeDesc2.label "ახლა უნდა მიუთითოთ ინფორმაცია ფოსტისა და ჯგუფების ანგარიშის გასახსნელად. თუ მოთხოვნილი ინფორმაცია არ გაგაჩნიათ, დსუკავშირდით სისტემურ ადმინისტრატორს ან ინტერნეტ პროვაიდერს.">
+<!ENTITY accountTypeDesc2.label "მეგზური შეაგროვებს საჭირო მონაცემებს თქვენი ანგარიშის გასამართად. თუ საჭირო მონაცემები არ გაგაჩნიათ, დაუკავშირდით თქვენი სისტემის მმართველს, ან ინტერნეტმომსახურების მომწოდებელს.">
 <!ENTITY accountTypeDirections.label "აირჩიეთ ანგარიშის სასურველი ტიპი:">
 <!ENTITY accountTypeMail.label "ელფოსტის ანგარიში">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -26,8 +26,8 @@
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "მიუთითეთ სახელი, რომლის გამოჩენაც გსურთ გაგზავნილი წერილების &quot;ვინ&quot; ველში">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-	1, do not translate two of "&quot;"
-	2, Use localized full name instead of "John Smith"
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(მაგალითად, &quot;დორმიდონ გამიხარია&quot;).">
 <!ENTITY fullnameLabel.label "თქვენი სახელი:">
