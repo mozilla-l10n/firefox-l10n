@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Eñepyrũ tembiapo eikejey hag̃ua">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "Noñepyrúi tembiapo.">
-<!ENTITY signIn.label                "Eñemboheraguapy">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Emoambue nera'ãga nemba'ete pegua">
-<!ENTITY verifiedManage.label        "Mba'ete ñangarekoha">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Ñesẽte…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "Noñepyrúi tembiapo.">
+<!ENTITY signIn.label                 "Eñemboheraguapy">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Emoambue nera'ãga nemba'ete pegua">
+<!ENTITY verifiedManage.label         "Mba'ete ñangarekoha">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Ñesẽte…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "Marandu hechajey">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Eñembyesarái ko marandúgui">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.label     "Emondo jehechajey pyahu">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Eheja ñemboheko">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Egueraha neñanduti nendive">
 <!ENTITY signedOut.description        "Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe'ẽñemi, moĩmbaha ha jerohoryvéva opaite nemba'e'oka rupi.">
@@ -101,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " embojuehe hag̃ua nemba'e'oka oku'éva rehe.">
+
+<!ENTITY mobilepromo.singledevice      "Embojuaju ambue mba'e'oka">
+<!ENTITY mobilepromo.multidevice       "Mba'e'oka ñangarekoha">
