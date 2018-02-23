@@ -21,3 +21,5 @@
 <!ENTITY     removingSelected.description  "Site verilerini silerseniz ilgili çerezler ve çevrimdışı web içerikleri de silinecektir. Bu durumda sitelerdeki açık oturumlarınız kapanabilir. Değişiklikleri uygulamak istiyor musunuz?">
 <!ENTITY     siteTree2.label               "Aşağıdaki web sitelerinin çerezleri silinecektir">
 <!ENTITY     removingDialog1.title         "Çerezler ve site verileri siliniyor">
+<!ENTITY     removingSelected1.description "Çerezleri ve site verilerini silerseniz bazı sitelerdeki oturumlarınız kapanabilir. Bu değişiklikleri yapmak istediğinizden emin misiniz?">
+<!ENTITY     siteTree3.label               "Aşağıdaki web sitelerine ait çerezler ve site verileri silinecektir">
