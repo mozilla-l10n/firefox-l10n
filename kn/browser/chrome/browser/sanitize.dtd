@@ -21,11 +21,11 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings2.label     "ನಾನು&brandShortName; ಇಂದ ನಿರ್ಗಮಿಸಿದಾಗ, ಅದು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಎಲ್ಲವನ್ನೂ ಅಳಿಸಿಹಾಕಬೇಕು:">
+<!ENTITY clearDataSettings3.label     "ನಾನು &brandShortName; ಇಂದ ನಿರ್ಗಮಿಸಿದಾಗ, ಅದು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಎಲ್ಲವನ್ನೂ ಅಳಿಸಿಹಾಕಬೇಕು">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "ಅಳಿಸಬೇಕಿರುವ ಸಮಯದ ವ್ಯಾಪ್ತಿ: ">
 <!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "ಕೊನೆಯ ಗಂಟೆ">
@@ -36,10 +36,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "‌">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "ವಿವರಗಳು">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
@@ -60,8 +60,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "ತಾಣದ ಆದ್ಯತೆಗಳು">
 <!ENTITY itemSitePreferences.accesskey     "S">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "ಈ ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.">
