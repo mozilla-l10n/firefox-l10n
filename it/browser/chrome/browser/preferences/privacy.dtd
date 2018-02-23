@@ -76,6 +76,8 @@
 <!ENTITY dontrememberActions.pre.label "È inoltre possibile ">
 <!ENTITY dontrememberActions.clearHistory.label "cancellare tutta la cronologia corrente">
 <!ENTITY dontrememberActions.post.label ".">
+<!ENTITY clearHistoryButton.label "Cancella cronologia…">
+<!ENTITY clearHistoryButton.accesskey "e">
 <!ENTITY privateBrowsingPermanent2.label "Utilizza sempre la modalità Navigazione anonima">
 <!ENTITY privateBrowsingPermanent2.accesskey "U">
 <!ENTITY rememberHistory2.label "Conserva la cronologia di navigazione e dei download">
