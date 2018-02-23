@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Setări - Date privind site-urile">
+
+<!ENTITY     window1.title                 "Setări - Cookie-uri și datele site-urilor">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Stare">
+<!ENTITY     cookiesCol.label              "Cookie-uri">
 <!ENTITY     usageCol.label                "Stocare">
 <!ENTITY     searchTextboxPlaceHolder             "Caută site-uri web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
