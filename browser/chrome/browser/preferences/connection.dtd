@@ -7,7 +7,9 @@
 <!ENTITY  window.width2                 "49em">
 <!ENTITY  window.macWidth2              "44em">
 
-<!ENTITY  proxyTitle.label              "프록시 설정">
+<!ENTITY  proxyTitle.label              "인터넷에 접근하기 위한 프록시 설정">
+
+<!ENTITY  proxyTitle.label2             "인터넷 프록시 접근 설정">
 <!ENTITY  noProxyTypeRadio.label        "프록시 사용 안 함">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "시스템 프록시 설정 사용">
