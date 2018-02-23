@@ -56,18 +56,21 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "ಮರಳಿ ಸಂಪರ್ಕಿತಗೊಳ್ಳಲು ದಯವಿಟ್ಟು ಸೈನ್‌ ಇನ್ ಆಗಿ">
 <!ENTITY signedInLoginFailure.aftername.label "‌">
 
-<!ENTITY notSignedIn.label           "ನೀವು ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲ.">
-<!ENTITY signIn.label                "ಒಳಗೆ ಪ್ರವೇಶಿಸು‍">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು">
-<!ENTITY verifiedManage.label        "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "ಸಂಪರ್ಕ ತಪ್ಪಿಸು…">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "ನೀವು ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲ.">
+<!ENTITY signIn.label                 "ಒಳಗೆ ಪ್ರವೇಶಿಸು‍">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು">
+<!ENTITY verifiedManage.label         "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "ಸಂಪರ್ಕ ತಪ್ಪಿಸು…">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "ಇಮೇಲ್ ದೃಢಪಡಿಸಿ‍">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ಈ ಇಮೇಲ್ ಅನ್ನು ಮರೆತುಬಿಡು‍">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಒಯ್ಯಿರಿ">
 <!ENTITY signedOut.description        "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ">
@@ -94,3 +97,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದ ಜೊತೆ ಸಿಂಕ್ ಮಾಡಲು.">
+
+<!ENTITY mobilepromo.singledevice      "ಮತ್ತೊಂದು ಸಾಧನವನ್ನು ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸು">
+<!ENTITY mobilepromo.multidevice       "ಸಾಧನಗಳನ್ನು ನಿರ್ವಹಿಸು">

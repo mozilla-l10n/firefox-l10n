@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "ಕುಕ್ಕಿಗಳು ಮತ್ತು ತಾಣ ದತ್ತಾಂಶ">
+<!ENTITY clearSiteData.accesskey      "S">
+
+<!ENTITY clearCache.label             "ಕ್ಯಾಶ್ ಮಾಡಲಾದ ಜಾಲದ ವಿಷಯಗಳು">
+<!ENTITY clearCache.accesskey         "W">
+
+<!ENTITY button.cancel.label          "ರದ್ದು ಮಾಡು">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "ಅಳಿಸು">
+<!ENTITY button.clear.accesskey       "l">

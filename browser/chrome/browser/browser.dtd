@@ -110,6 +110,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "ಪುಟದ ಮಾಹಿತಿ">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "ಟ್ಯಾಬ್ ಪ್ರತಿಬಿಂಬ">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -229,10 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ನಿಮ್ಮ ಮೈಕ್ರೋಫೋನ್ಅನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ನಿಮ್ಮ ಪರದೆಯನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳದಂತೆ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ನಿಮ್ಮ ಸ್ಥಳದ ಮಾಹಿತಿಯನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "ದತ್ತಾಂಶ ಶೇಖರಿಸುವುದನ್ನು ನೀವು ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ನೀವು ಅಧಿಸೂಚನೆಗಳನ್ನು ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ಪರ್‌ಸಿಸ್‌ಟೆಂಟ್ ಶೇಖರಣೆಯನ್ನು ನೀವು ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "ನೀವು ಪಾಪ್-ಅಪ್ ಗಳನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "ಕ್ಯಾನ್ವಸ್ ದತ್ತಾಂಶ ಶೇಖರಿಸುವುದನ್ನು ಈ ಜಾಲತಾಣಕ್ಕೆ ನೀವು ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
@@ -301,7 +300,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "ಹೊಸ Non-e10s ಕಿಟಕಿ">
 
 <!ENTITY editMenu.label         "ಸಂಪಾದನೆ">
 <!ENTITY editMenu.accesskey       "E">
@@ -356,18 +354,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
-<!ENTITY appMenuCustomize.tooltip "ಪರಿವಿಡಿ ಮತ್ತು ಉಪಕರಣ ಪಟ್ಟಿಗಳನ್ನು ಅನುಗುಣವಾಗಿಸು">
-<!ENTITY appMenuCustomizeExit.label "ಅನುಗುಣವಾಗಿಸುವುದರಿಂದ ನಿರ್ಗಮಿಸು">
-<!ENTITY appMenuCustomizeExit.tooltip "ಅನುಗುಣವಾಗಿಸುವುದನ್ನು ಮುಗಿಸು">
-
 <!ENTITY appMenuHistory.showAll.label "ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY appMenuHistory.clearRecent.label "ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…">
 <!ENTITY appMenuHistory.restoreSession.label "ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY appMenuHistory.viewSidebar.label "ಇತಿಹಾಸ ಪಕ್ಕದಂಕಣ ಪ್ರದರ್ಶಿಸಿ">
 <!ENTITY appMenuHistory.recentHistory.label "ಇತ್ತೀಚಿನ ಇತಿಹಾಸ">
 <!ENTITY appMenuHelp.label "ಸಹಾಯ">
-<!ENTITY appMenuHelp.tooltip "ಸಹಾಯ ಪರಿವಿಡಿ ತೆಗೆ">
 
 <!ENTITY appMenuRemoteTabs.label "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -442,14 +434,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "ವಿಸ್ತರಣೆ:‍">
 <!ENTITY urlbar.switchToTab.label     "ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "ನಿಮ್ಮ ಹುಡುಕುವ ಅನುಭವವನ್ನು ಸಲಹೆಗಳಿಂದ ಉತ್ತಮಗೊಳಿಸಲು ಬಯಸುವಿರಾ?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "ಇಲ್ಲ">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "ಹೌದು">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ಸಲಹೆ:">
@@ -727,8 +711,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "ಮೂಲ  ಪುಟದ ಶೈಲಿ">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "ಈ ಜಾಲ ತಾಣಕ್ಕೆ ಪುಟಿಕೆ ನಿರ್ಬಂಧಿಸುವ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -859,8 +841,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "ಸಿಂಕ್‌">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "ಒವರ್‌ಫ್ಲೋ ಮೆನು ಅಥವಾ ಉಪಕರಣಪಟ್ಟಿಗೆ ನಿಮ್ಮ ನೆಚ್ಚಿನ ವಸ್ತುಗಳನ್ನು ಎಳೆದು ಹಾಕಿರಿ.">
-<!ENTITY customizeMode.menuAndToolbars.empty "ಇನ್ನೂ ಹೆಚ್ಚು ಉಪಕರಣಗಳು ಬೇಕೆ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "ಸಾವಿರಾರು ಆಡ್-ಆನ್ ಗಳಿಂದ ಆರಿಸಿಕೊಳ್ಳಿ">
 <!ENTITY customizeMode.restoreDefaults "ಪೂರ್ವನಿಯೋಜಿತವಾದುವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY customizeMode.done "ಆಯಿತು">
 <!ENTITY customizeMode.titlebar "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
@@ -998,7 +978,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "ಪುಟದ ಕಾರ್ಯಗಳು">
 <!ENTITY pageAction.addToUrlbar.label "ವಿಳಾಸದ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ">
 <!ENTITY pageAction.removeFromUrlbar.label "ವಿಳಾಸದ ಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ">
-
 <!ENTITY pageAction.allowInUrlbar.label "ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ತೋರಿಸು">
 <!ENTITY pageAction.disallowInUrlbar.label "ವಿಳಾಸ ಪಟ್ಟಿಯಲ್ಲಿ ತೋರಿಸಬೇಡಿ">
 <!ENTITY pageAction.manageExtension.label "ವಿಸ್ತರಣೆಯನ್ನು ನಿರ್ವಹಿಸಿ…">
@@ -1012,3 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->

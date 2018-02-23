@@ -32,6 +32,9 @@ available. -->
 <!ENTITY dataCollection.label            "&brandShortName; ದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಬಳಕೆ">
 <!ENTITY dataCollectionPrivacyNotice.label    "ಗೌಪ್ಯತಾ ಸೂಚನೆ">
 
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
@@ -40,12 +43,12 @@ available. -->
 <!ENTITY networkProxy.label              "ಜಾಲಬಂಧ ಪ್ರಾಕ್ಸಿ">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ಹೇಗೆ ಅಂತರಜಾಲಕ್ಕೆ ಸಂಪರ್ಕಿತಗೊಳ್ಳಬೇಕೆಂದು ಸಂರಚಿಸಿ ">
+
+<!ENTITY connectionSettingsLearnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY connectionSettings.label        "ಸಿದ್ಧತೆಗಳು...">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "ಕ್ಯಾಶ್ ಮಾಡಲಾದ ಜಾಲದ ವಿಷಯಗಳು">
-
-<!ENTITY offlineStorage2.label           "ಆಫ್‌ಲೈನ್ ಜಾಲದ ವಿಷಯಗಳು ಮತ್ತು ಬಳಕೆದಾರ ಮಾಹಿತಿ">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "ಜಾಲತಾಣ ದತ್ತಾಂಶ">
@@ -66,8 +69,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB ಯಷ್ಟು ಸ್ಥಳ">
 <!ENTITY clearCacheNow.label             "ಈಗಲೆ ತೆರವುಗೊಳಿಸು">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "ಈಗಲೆ ಅಳಿಸು">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "ಸ್ವಯಂಚಾಲಿತ ಕ್ಯಾಶೆ ನಿರ್ವಹಣೆಯನ್ನು ಅತಿಕ್ರಮಿಸು">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -99,17 +100,6 @@ available. -->
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "ಒಂದು ಜಾಲತಾಣವು ಮಾಹಿತಿಯನ್ನು ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಶೇಖರಿಸಿಡಲು ಕೇಳಿದಾಗ ನಿಮಗೆ ತಿಳಿಸು‍ತ್ತದೆ">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "ವಿನಾಯಿತಿಗಳು…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಮಾಹಿತಿಯನ್ನು ಶೇಖರಿಸಿಟ್ಟುಕೊಳ್ಳಲು ಈ ಕೆಳಗಿನ ಜಾಲತಾಣಗಳಿಗೆ ಅನುಮತಿಯನ್ನು ನೀಡಲಾಗಿದೆ">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "ತೆಗೆದು ಹಾಕು…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "ಆಫ್‌ಲೈನ್‌ ಮಾಹಿತಿಯನ್ನು ತೆಗೆದು ಹಾಕು">
 
 <!ENTITY certificateTab.label            "ಪ್ರಮಾಣಪತ್ರಗಳು">
 <!ENTITY certPersonal2.description       "ಒಂದು ಪರಿಚಾರಕವು ನನ್ನ ಖಾಸಗಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಪೇಕ್ಷಿಸಿದಾಗ">
