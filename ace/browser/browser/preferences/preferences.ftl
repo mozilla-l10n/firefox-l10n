@@ -43,3 +43,6 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu peuudép fitur nyoe.
 feature-disable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu pumaté fitur nyoe.
 should-restart-title = Peuhah Keulayi { -brand-short-name }
+should-restart-ok = Peuhah keulayi { -brand-short-name } jinoe
+revert-no-restart-button = Peuriwang
+restart-later = Peuhah Keulayi Euntreuk
