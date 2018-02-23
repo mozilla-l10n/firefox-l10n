@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nos esforçam de vos daissar causir e reculhir sonque las informacions qu'avèm besonh per provesir e melhorar &brandShortName; per tot lo mond. Sempre demandam vòstra permission abans de recebre de donadas personalas.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Politica de confidencialitat">
 
+<!ENTITY collectBrowserErrors.label          "Autorizar &brandShortName; a enviar los rapòrts d’error (inclús los messatges d’error) del navegador a Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "u">
+<!ENTITY collectBrowserErrorsLearnMore.label "Ne saber mai">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Autorizar &brandShortName; a mandar los rapòrts de plantatge a Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Ne saber mai">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy de ret">
 
 <!ENTITY connectionDesc.label            "Configurar cossí &brandShortName; se connècta a internet">
+
+<!ENTITY connectionSettingsLearnMore.label "Ne saber mai">
 <!ENTITY connectionSettings.label        "Paramètres">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Contengut Web en cache">
-
-<!ENTITY offlineStorage2.label           "Contengut Web e donadas de l'utilizaire fòra connexion">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Donadas del site">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "Mo d'espaci de disc">
 <!ENTITY clearCacheNow.label             "Voidar ara">
 <!ENTITY clearCacheNow.accesskey         "V">
-<!ENTITY clearOfflineAppCacheNow.label   "Voidar ara">
-<!ENTITY clearOfflineAppCacheNow.accesskey "V">
 <!ENTITY overrideSmartCacheSize.label    "Modificar la gestion automatica del cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Metre a jorn automaticament los motors de recèrca">
 <!ENTITY enableSearchUpdate2.accesskey   "m">
-
-<!ENTITY offlineStorageNotify.label               "Avisar quand un site demanda a gardar de donadas per una utilizacion fòra linha">
-<!ENTITY offlineStorageNotify.accesskey           "A">
-<!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "Los sites web seguents son autorizats a servar de donadas per un usatge desconnectat">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Suprimir...">
-<!ENTITY offlineAppsListRemove.accesskey "S">
-<!ENTITY offlineAppRemove.confirm        "Suprimir las donadas fòra connexion">
 
 <!ENTITY certificateTab.label            "Certificats">
 <!ENTITY certPersonal2.description       "Quand un servidor demanda vòstre certificat personal">
