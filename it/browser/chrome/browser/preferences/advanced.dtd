@@ -40,6 +40,7 @@
 <!ENTITY connectionSettings.accesskey "z">
 <!ENTITY httpCache.label "Contenuti web in cache">
 <!ENTITY siteData.label "Dati dei siti web">
+<!ENTITY siteData1.label "Cookie e dati dei siti web">
 <!ENTITY clearSiteData.label "Elimina tutti i dati">
 <!ENTITY clearSiteData.accesskey "i">
 <!ENTITY clearSiteData1.label "Elimina dati…">
