@@ -37,6 +37,7 @@
 </ul>
 ">
 
+
 <!ENTITY generic.title "უკაცრავად">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; ვერ ახერხებს ამ გვერდის ჩატვირთვას გარკვეული მიზეზით.</p>
@@ -85,12 +86,6 @@
 <!ENTITY netTimeout.title "კავშირის ვადა გავიდა">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "უცნობი ოქმი">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>ამ მისამართის გასახსნელად შესაძლოა სხვა პროგრამის ჩადგმა მოგიწიოთ.</li>
-</ul>
-">
 
 <!ENTITY proxyConnectFailure.title "პროქსი სერვერმა კავშირი უარყო">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -129,12 +124,6 @@
 ">
 
 <!ENTITY nssFailure2.title "უსაფრთხო დაკავშირება ვერ მოხერხდა">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>გვერდი, რომლის ნახვაც გსურთ ვერ გამოჩნდება, რადგან საიტი უსაფრთხოების უმართებლო ან მიუღებელ ოქმს იყენებს.</li>
-  <li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ. დამატებით ისარგებლეთ დახმარების მენიუს ბრძანებით ამ დაზიანებული საიტის საპატაკოდ.</li>
-</ul>
-">
 
 <!ENTITY nssBadCert.title "უსაფრთხო დაკავშირება ვერ ხერხდება">
 <!ENTITY nssBadCert.longDesc2 "
@@ -157,23 +146,7 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "საეჭვოდ მოიერიშე საიტი!">
-<!ENTITY malwareBlocked.longDesc "
-<p>მოიერიშე საიტები ცდილობენ ჩადგან პროგრამები თქვენი პირადი ინფორმაციის მოპარვის, თქვენი კომპიუტერის სხვების საირეიშოდ ან თქვენი სისტემის დაზიანების მიზნით.</p>
-<p>ვებ საიტების მფლობელებს, რომლებიც თვლიან, რომ მათი საიტი უმართებლოთაა მითითებული როგორც მოიერიშე მისამართზე <a href='http://www.stopbadware.org/home/reviewinfo' >შეუძლიათ გადახედვა მოითხოვონ</a>.</p>
-">
 
-<!ENTITY phishingBlocked.title "ეჭვი ვებ ყალთაბანდობაზე!">
-<!ENTITY phishingBlocked.longDesc "
-<p>ამ გვერდზე პირადი ინფორმაციის მითითებით იდენტიფიკაციის მოპარვის ან ყალთაბანდობის მსხვერპლი შეიძლება გახდეთ.</p>
-<p>ამ სახის ვებ ყალთაბანდობა ანკესობით ცნობილ მეთოდს იყენებს, როცა ყალთაბანდი გვერდები და ელფოსტა თქვენთვის სანდო წყაროების იმიტაციას ცდილობს.</p>
-">
-
-<!ENTITY cspFrameAncestorBlocked.title "დაბლოკილია შიგთავსის უსაფრთხოების პოლიტიკით">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; არ ჩატვირთავს ამ გვერდს ამ სახით უსაფრთხოების პოლიტიკის მითითების შესაბამისად.</p>">
-
-<!ENTITY corruptedContentError.title "დაზიანებული შიგთავსის შეცდომა">
-<!ENTITY corruptedContentError.longDesc "<p>გვერდი, რომლის ჩვენებაც გსურთ, არ აისახება შეცდომის გამო მონაცემთა გადატანისას.</p><ul><li>გთხოვთ მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ან გამონაკლისის დამატება შეგიძლიათ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "გამაშორე აქაურობას!">
@@ -192,4 +165,7 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "გარე XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

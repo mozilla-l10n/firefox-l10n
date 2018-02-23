@@ -6,5 +6,5 @@
 <!ENTITY name.label                     "ოთახი">
 <!ENTITY optional.label                 "(სურვილისამებრ)">
 <!ENTITY account.label                  "ანგარიში">
-<!ENTITY autojoin.label                 "ავტომატური შესვლა ამ ოთახში">
+<!ENTITY autojoin.label                 "ავტომატური ჩართვა ამ სასაუბროში">
 <!ENTITY autojoin.accesskey             "A">

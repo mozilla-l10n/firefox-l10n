@@ -18,7 +18,7 @@
 <!ENTITY rememberPassword.label          "პაროლის დამახსოვრება">
 <!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY imapLong.label                  "IMAP (გარე დასტები)">
+<!ENTITY imapLong.label                  "IMAP (ვებსაქაღალდეები)">
 <!ENTITY pop3Long.label                  "POP3 (ფოსტის შენახვა თქვენს კომპიუტერში)">
 
 <!ENTITY incoming.label                  "შემომავალი:">
