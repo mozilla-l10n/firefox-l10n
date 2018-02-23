@@ -106,3 +106,5 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " ca să sincronizezi datele cu dispozitivul mobil.">
+
+<!ENTITY mobilepromo.multidevice       "Gestionează dispozitivele">
