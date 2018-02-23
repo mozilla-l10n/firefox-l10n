@@ -97,3 +97,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ ტექნოლოგიას, რომელიც მოძველებული და დაუცველია. თავდამსხმელმა შესაძლოა მარტივად მიიღოს იმ მონაცემებზე წვდომა, რომელიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "გვერდი შეზღუდულია">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>წვდომა შეზღუდულია თქვენი ქსელის მმართველის მიერ.</p>">
