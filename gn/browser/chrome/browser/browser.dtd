@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Kuatiarogue rehegua marandu">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Moha'ãnga mopotĩha">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Tendayke rechaha">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ejokóma ne ñe'ẽatãha ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba'erechaha.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ejokóma marandu ejuhukuaa hag̃ua ko ñanduti renda.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Ejokóma mba'ekuaarã ñembyaty ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ejokóma ñemomarandu ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ejokóma mba'ekuaarã ñembyaty hi'aréva ko ñanduti renda pegua.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Ejokoukákuri ovetã apysẽva ko ñandutirendápe g̃uarã.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ejokoukákuri kuaapy canvas rehegua ñeguenohẽ ko ñandutirendápe g̃uarã.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Ovetã ñemi pyahu">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "Ovetã pyahu Non-e10s-pe g̃uarã">
 
 <!ENTITY editMenu.label         "Mbosako'i">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Tembiasakue jehechaukapa">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Ñemomba'e">
-<!ENTITY appMenuCustomize.tooltip "Eñemomba'ete poravorã ha tembipurueta rehe">
-<!ENTITY appMenuCustomizeExit.label "Ñemomba'e mbopaha">
-<!ENTITY appMenuCustomizeExit.tooltip "Ñemomba'ete paha">
-
 <!ENTITY appMenuHistory.showAll.label "Tembiasakue jehechaukapa">
 <!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
 <!ENTITY appMenuHistory.restoreSession.label "Tembiapopa'ũ ramovéva ñembojevy">
 <!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
 <!ENTITY appMenuHistory.recentHistory.label "Tembiasakue ramovéva">
 <!ENTITY appMenuHelp.label "Pytyvõ">
-<!ENTITY appMenuHelp.tooltip "Poravorã ñepytyvõme jeike">
 
 <!ENTITY appMenuRemoteTabs.label "Tendayke oñembojuehepyre">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Ndaipóri tendayke mbojuehepyre… gueteri!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Jerohoryvéva Mbojuehe">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Eike Sync jerohoryvévape">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Emoñepyrũ tembiapopa'ũ ehecha hag̃ua tendayke rysýi ambue ne mba'e'okaguáva.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tekotevẽ ñemboaje ne mba'ete.">
 <!ENTITY appMenuRemoteTabs.signin.label "Eike Sync-pe">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Jepysokue:">
 <!ENTITY urlbar.switchToTab.label     "Tendayképe jeguerova:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Eikuaasevépa nde jeheka rembihasakue ayvuporã rupi">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Kuaave…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nahániri">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Hẽe">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Jopói:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Kuatiarogue mbohekoha ypygua">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "Ovetã apysẽ mbotyreko ko ñanduti rendápe g̃uarã moambue">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Mbojuehe">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Embotyryry temimoĩ reguerohoryvéva tembipuru rendápe ýrõ porãvorãvevýipe.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Reipotavépa tembipuru?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Eiporavo hetaiterei moimbaha apytégui">
 <!ENTITY customizeMode.restoreDefaults "Ijypykuépe mbojevy">
 <!ENTITY customizeMode.done "Mohu'ã">
 <!ENTITY customizeMode.titlebar "Teratee renda">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ehekave Mbojeguaha">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Embosyryry ha epoi ko'ápe mba'epuru ehupytykuaa potávo hákatu ne rembipuru renda nahániri…">
 <!ENTITY customizeMode.overflowList.title2 "Menu Ojeipysóva">
 <!ENTITY customizeMode.overflowList.description "Rembotyry ha repoíramo ápe temimoĩ reguerekóta umíva ne'aguĩ katu noimemo'ãi tembipuru rendápe…">
 <!ENTITY customizeMode.uidensity "Tuicháva">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Kuatiarogue rembiapo">
 <!ENTITY pageAction.addToUrlbar.label "Embojuaju kundaharape rendáre ">
 <!ENTITY pageAction.removeFromUrlbar.label "Emboguete kundaharape rendágui">
-
 <!ENTITY pageAction.allowInUrlbar.label "Kundaharapépe Jehechauka">
 <!ENTITY pageAction.disallowInUrlbar.label "Anive Tojechauka Kundaharapépe">
 <!ENTITY pageAction.manageExtension.label "Moĩmbaháre Ñangareko…">
@@ -1023,3 +1003,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Jeikekatu Reko Oñemyendýkuri">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Eñangareko ne rembipuru'i eikutúvo <image class='addon-addon-icon'/> poravorã <image class='addon-toolbar-icon'/> pegua.">
