@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informacion sus la pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Desbugador de disposicion">
+<!ENTITY ldbCmd.accesskey "d">
 <!ENTITY mirrorTabCmd.label "Duplicar l'onglet">
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -383,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Pas cap d’onglet sincronizat pel moment.">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Volètz veire aquí los onglets dels vòstres autres periferics ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferéncias de Sync">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Dobrir las preferéncias de sincronizacion">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectatz-vos per veire una lista d'onglets dels vòstres autres periferics.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cal verificar vòstre compte.">
 <!ENTITY appMenuRemoteTabs.signin.label "Començar la session de Sync">
@@ -1000,3 +1003,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Foncionalitats d’accessibilitat activadas">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Gerir los moduls en clicar <image class='addon-addon-icon'/> lo <image class='addon-toolbar-icon'/> menú.">

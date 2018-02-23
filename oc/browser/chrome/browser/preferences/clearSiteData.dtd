@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Escafar las donadas">
+<!ENTITY window.width                 "35em">
+
+
+<!ENTITY clearSiteData.label          "Cookies e donadas dels sites">
+<!ENTITY clearSiteData.accesskey      "s">
+<!ENTITY clearSiteData.description    "Seretz benlèu desconnectat dels sites web s’escafetz aquestas donadas">
+
+<!ENTITY clearCache.label             "Contengut Web en cache">
+<!ENTITY clearCache.accesskey         "e">
+<!ENTITY clearCache.description       "Caldrà que los sites web tòrnen cargar los imatges e las donadas">
+
+<!ENTITY button.cancel.label          "Anullar">
+<!ENTITY button.cancel.accesskey      "A">
+<!ENTITY button.clear.label           "Escafar">
+<!ENTITY button.clear.accesskey       "E">

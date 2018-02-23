@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Paramètres - Donadas de site">
+
+<!ENTITY     window1.title                 "Paramètres - Cookies e donadas dels sites">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Estatut">
+<!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Estocatge">
 <!ENTITY     searchTextboxPlaceHolder             "Recercar de sites web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
