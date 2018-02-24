@@ -55,3 +55,4 @@
 <!ENTITY aboutNetworking.rcwnAvgLong           "લાંબુ સરેરાશ">
 <!ENTITY aboutNetworking.rcwnStddevLong        "લાંબા ધોરણ વિચલન">
 <!ENTITY aboutNetworking.rcwnCacheSlow         "કેશ ધીમી ગણતરી">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "કેશની ધીમી ગણતરી નથી">

@@ -5,10 +5,12 @@
 <!ENTITY window.title                 "માહિતી સાફ કરો">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "&brandShortName; દ્વારા સંગ્રહિત બધી કૂકીઝ અને સાઇટ ડેટાને સાફ કરી રહ્યું છે તે વેબસાઇટ્સથી તમને સાઇન આઉટ કરી શકે છે અને ઑફલાઇન વેબ સામગ્રીને દૂર કરી શકે છે. કેશ ડેટા નિકાળવા તમારા લૉગિનને અસર કરશે નહીં.">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "કૂકીઝ અને સાઈટ ડેટા">
 <!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "જો સાફ થઈ જાય તો તમે વેબસાઇટ્સમાંથી સાઇન આઉટ થઈ શકો છો">
 
 <!ENTITY clearCache.label             "કેશ થયેલ વેબ સમાવિષ્ટો">
 <!ENTITY clearCache.accesskey         "W">
