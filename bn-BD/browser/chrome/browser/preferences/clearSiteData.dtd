@@ -14,6 +14,7 @@
 
 <!ENTITY clearCache.label             "ক্যাশ করা ওয়েব কন্টেন্ট">
 <!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "ওয়েবসাইট সমূহকে, ইমেজ এবং ডেটা পুনরায় লোড করতে হবে">
 
 <!ENTITY button.cancel.label          "বাতিল">
 <!ENTITY button.cancel.accesskey      "C">
