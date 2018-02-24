@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Greška pri učitavanju stranice">
 <!ENTITY retry.label "Pokušaj ponovno">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Povezivanje nije moguće">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -84,11 +84,11 @@
 <!ENTITY securityOverride.linkText "Ili možete dodati iznimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Izvuci me odavdje!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj iznimku…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodati iznimku ako koristite Internet vezu kojoj ne vjerujete u potpunosti ili ako niste navikli viđati ovu grešku za ovaj poslužitelj.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -99,3 +99,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti poslužitelj prije nego možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "Stranica blokirana">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Pristup je onemogućen od strane vašeg administratora.</p>">
