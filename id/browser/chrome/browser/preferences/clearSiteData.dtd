@@ -10,8 +10,11 @@
 
 <!ENTITY clearSiteData.label          "Kuki dan Data Situs">
 <!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "Anda mungkin dikeluarkan dari situs web jika data situs dibersihkan">
 
+<!ENTITY clearCache.label             "Konten Web Ditembolokkan">
 <!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "Akan mengharuskan situs web untuk memuat ulang gambar dan data">
 
 <!ENTITY button.cancel.label          "Batal">
 <!ENTITY button.cancel.accesskey      "B">
