@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "સેટિંગ્સ - સાઇટ ડેટા">
+
 <!ENTITY     hostCol.label                 "સાઈટ">
 <!ENTITY     statusCol.label               "સ્થિતિ">
+<!ENTITY     cookiesCol.label              "કૂકીઝ">
 <!ENTITY     usageCol.label                "સંગ્રહ">
 <!ENTITY     searchTextboxPlaceHolder             "વેબસાઇટ્સ શોધો">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
