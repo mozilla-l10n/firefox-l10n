@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Парақты жүктегенде қате кетті">
 <!ENTITY retry.label "Қайталап көріңіз">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Байланысты орнату сәтсіз аяқталды">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -84,11 +84,11 @@
 <!ENTITY securityOverride.linkText "Немесе ерекше ереже енгізуіңіз мүмкін…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Осыдан кеткім келеді!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ерекше ережені қосу…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Егер Интернетпен байланысыңызға толығымен сенбесеңіз, немесе бұл сайтпен қосылғанда хабарландыру шықпаса, онда ерекше ережені қоспауыңыз керек.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -99,3 +99,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ескірген және шабуылдарға әлсіз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлаған ақпаратты оңай анықтай алады. Сіз сайтты шолғанға дейін оның әкімшісі серверді ретке келтіруі тиіс.</p><p>Қате коды: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "Бет бұғатталған">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Қатынауды сіздің әкімшіңіз сөндірген.</p>">
