@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਨੂੰ ਖੋਜ ਅਤੇ ਨੇਵੀਗੇਸ਼ਨ ਲਈ ਵਰਤੋਂ">
 <!ENTITY searchBar.shown.label                 "ਟੂਲਬਾਰ 'ਚ ਖੋਜ ਪੱਟੀ ਜੋੜੋ">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਨਤੀਜਿਆਂ ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਤੋਂ ਪਹਿਲਾਂ ਹੀ ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ">
+
 <!ENTITY defaultSearchEngine.label             "ਮੂਲ ਖੋਜ ਇੰਜਣ">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਅਤੇ ਖੋਜ ਪੱਟੀ 'ਚ ਵਰਤਣ ਲਈ ਡਿਫਾਲਟ ਖੋਜ ਇੰਜਣ ਨੂੰ ਚੁਣੋ।">

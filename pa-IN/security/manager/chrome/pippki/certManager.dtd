@@ -10,7 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "ਅਥਾਰਟੀ">
 <!ENTITY certmgr.tab.orphan2                  "ਹੋਰ">
 
+<!ENTITY certmgr.mine2                        "ਤੁਹਾਡੇ ਕੋਲ ਇਹਨਾਂ ਸੰਗਠਨਾਂ ਤੋਂ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਤੁਹਾਨੂੰ ਪਛਾਣਦੀਆਂ ਹਨ">
+<!ENTITY certmgr.others2                      "ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਲੋਕਾਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ">
+<!ENTITY certmgr.websites3                    "ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਸਰਵਰਾਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ">
 <!ENTITY certmgr.cas2                         "ਤੁਹਾਡੇ ਕੋਲ ਫਾਇਲ 'ਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਇਹਨਾਂ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀਆਂ ਦੀ ਪਛਾਣ ਕਰਦੇ ਹਨ">
+<!ENTITY certmgr.orphans2                     "ਤੁਹਾਡੇ ਕੋਲ ਫ਼ਾਈਲ ਉੱਤੇ ਸਰਟੀਫਿਕੇਟ ਹਨ, ਜੋ ਕਿ ਕਿਸੇ ਹੋਰ ਵਰਗ ਵਿੱਚ ਨਹੀਂ ਆਉਂਦੇ ਹਨ">
 
 <!ENTITY certmgr.detail.general_tab.title     "ਆਮ">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "ਇੰਟਰਨੈਟ ਵਰਤਣ ਲਈ ਪਰਾਕਸੀ ਸੰਰਚਨਾ">
+
+<!ENTITY  proxyTitle.label2             "ਇੰਟਰਨੈੱਟ ਲਈ ਪਰਕਾਸੀ ਪਹੁੰਚ ਦੀ ਸੰਰਚਨਾ ਕਰੋ">
 <!ENTITY  noProxyTypeRadio.label        "ਪਰਾਕਸੀ ਨਹੀਂ">
 <!ENTITY  noProxyTypeRadio.accesskey    "x">
 <!ENTITY  systemTypeRadio.label         "ਸਿਸਟਮ ਪਰਾਕਸੀ ਸੈਟਿੰਗ ਵਰਤੋਂ">
