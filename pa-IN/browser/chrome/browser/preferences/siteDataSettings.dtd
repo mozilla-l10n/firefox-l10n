@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "ਸੈਟਿੰਗਾਂ - ਸਾਈਟ ਡਾਟਾ">
+
+<!ENTITY     window1.title                 "ਸੈਟਿੰਗਾਂ - ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ">
 <!ENTITY     hostCol.label                 "ਸਾਈਟ">
 <!ENTITY     statusCol.label               "ਹਾਲਤ">
+<!ENTITY     cookiesCol.label              "ਕੂਕੀਜ਼">
 <!ENTITY     usageCol.label                "ਸਟੋਰੇਜ਼">
 <!ENTITY     searchTextboxPlaceHolder             "ਖੋਜ ਵੈੱਬਸਾਈਟ">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ">
 <!ENTITY     removingSelected.description  "ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣ ਨਾਲ ਸੰਬੰਧਿਤ ਕੂਕੀਜ਼ੀ ਅਤੇ ਆਫ਼ਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਵੀ ਹਟਾਈ ਜਾਵੇਗੀ। ਇਸ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਲਾਗ ਆਉਟ ਵੀ ਹੋ ਸਕਦੇ ਹੋ। ਕੀ ਤੁਸੀਂ ਇਹ ਤਬਦੀਲੀਆਂ ਕਰਨੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY     siteTree2.label               "ਅੱਗੇ ਦਿੱਤੇ ਵੈੱਬਸਾਈਟ ਕੂਕੀਜ਼ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ">
+<!ENTITY     removingDialog1.title         "ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ">
+<!ENTITY     removingSelected1.description "ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣਾ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟ ਤੋਂ ਲਾਗ ਆਉਟ ਹੋ ਜਾਉਂਗੇ। ਕੀ ਤੁਸੀਂ ਤਬਦੀਲੀਆਂ ਕਰਨੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?">
+<!ENTITY     siteTree3.label               "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਅਤੇ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ">
