@@ -36,6 +36,8 @@ available. -->
 <!ENTITY dataCollection.label            "&brandShortName; ਡਾਟਾ ਇਕੱਤਰ ਕਰਨਾ ਅਤੇ ਵਰਤੋ">
 <!ENTITY dataCollectionPrivacyNotice.label    "ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ">
 
+<!ENTITY collectBrowserErrorsLearnMore.label "ਹੋਰ ਜਾਣੋ">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਮੌਜ਼ੀਲਾ ਨੂੰ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "ਹੋਰ ਜਾਣੋ">
@@ -45,12 +47,12 @@ available. -->
 <!ENTITY networkProxy.label              "ਨੈੱਟਵਰਕ ਪਰਾਕਸੀ">
 
 <!ENTITY connectionDesc.label            "ਸੰਰਚਨਾ ਕਰੋ ਕਿ &brandShortName; ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਿਵੇਂ ਕੁਨੈਕਟ ਹੋਵੇ">
+
+<!ENTITY connectionSettingsLearnMore.label "ਹੋਰ ਜਾਣੋ">
 <!ENTITY connectionSettings.label        "…ਸੈਟਿੰਗ">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "ਕੈਸ਼ ਕੀਤੀ ਵੈੱਬ ਸਮੱਗਰੀ">
-
-<!ENTITY offlineStorage2.label           "ਆਫਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਅਤੇ ਯੂਜ਼ਰ ਡਾਟਾ">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "ਸਾਈਟ ਡਾਟਾ">
@@ -71,8 +73,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "ਹੁਣੇ ਸਾਫ਼ ਕਰੋ">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "ਕੈਸ਼ ਪਰਬੰਧ ਆਟੋਮੈਟਿਕ ਅਣਡਿੱਠਾ ਕਰੋ">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -107,17 +107,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "ਖੋਜ ਇੰਜਣਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "ਜਦੋਂ ਵੈੱਬਸਾਈਟ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸਟੋਰ ਕਰਨ ਲਈ ਪੁੱਛੇ ਤਾਂ ਤੁਹਾਨੂੰ ਦੱਸੋ">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "…ਛੋਟਾਂ">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਆਫ਼ਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸੰਭਾਲਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "…ਹਟਾਓ">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "ਆਫਲਾਈਨ ਡਾਟੇ ਨੂੰ ਹਟਾਓ">
 
 <!ENTITY certificateTab.label            "ਸਰਟੀਫਿਕੇਟ">
 <!ENTITY certPersonal2.description       "ਜਦ ਸਰਵਰ ਤੁਹਾਡੇ ਪਰਸਨਲ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮੰਗ ਕਰੇ">

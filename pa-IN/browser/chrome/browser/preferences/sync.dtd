@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ ਜੀ">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "ਤੁਸੀਂ ਸਾਇਨ ਇਨ ਨਹੀਂ ਹੋ।">
-<!ENTITY signIn.label                "ਸਾਇਨ ਇਨ">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "ਪਰੋਫਾਈਲ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ">
-<!ENTITY verifiedManage.label        "ਖਾਤੇ ਦਾ ਪਰਬੰਧ ਕਰੋ">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "…ਡਿਸਕਨੈਕਟ ਕਰੋ">
-<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY notSignedIn.label            "ਤੁਸੀਂ ਸਾਇਨ ਇਨ ਨਹੀਂ ਹੋ।">
+<!ENTITY signIn.label                 "ਸਾਇਨ ਇਨ">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "ਪਰੋਫਾਈਲ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ">
+<!ENTITY verifiedManage.label         "ਖਾਤੇ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "…ਡਿਸਕਨੈਕਟ ਕਰੋ">
+<!ENTITY disconnect3.accesskey        "D">
 <!ENTITY verify.label                "ਈਮੇਲ ਜਾਂਚ">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ਇਹ ਈਮੇਲ ਭੁੱਲ ਜਾਓ">
 <!ENTITY forget.accesskey            "F">
+
+<!ENTITY resendVerification.label     "ਤਸਦੀਕ ਮੁੜ-ਭੇਜੋ">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "ਸੈੱਟ ਅੱਪ ਰੱਦ ਕਰੋ">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ">
 <!ENTITY signedOut.description        "ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।">
@@ -101,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।">
+
+<!ENTITY mobilepromo.singledevice      "ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ">
+<!ENTITY mobilepromo.multidevice       "ਡਿਵਾਈਸ ਦਾ ਪਰਬੰਧ ਕਰੋ">
