@@ -111,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informasi Laman">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Pengawukutu Tata Letak">
 <!ENTITY mirrorTabCmd.label "Cerminkan Tab">
 <!ENTITY mirrorTabCmd.accesskey "C">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
