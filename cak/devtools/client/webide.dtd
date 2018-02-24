@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "Tijaq chokoy">
 <!ENTITY runtimeButton_label "Ticha' ruq'ijul b'anatajnäq">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +75,12 @@
 <!ENTITY projectPanel_tabs "Taq ruwi'">
 <!ENTITY runtimePanel_usb "USB taq okisaxel">
 <!ENTITY runtimePanel_wifi "Wi-Fi taq okisaxel">
-<!ENTITY runtimePanel_simulator "Taq ojqanel">
 <!ENTITY runtimePanel_other "Juley chik">
-<!ENTITY runtimePanel_installsimulator "Tiyak ri Ojqanel">
 <!ENTITY runtimePanel_noadbhelper "Tiyak ADB to'onel">
 <!ENTITY runtimePanel_nousbdevice "¿La man yatikïr ta natz'ët ri awokisaxel?">
 <!ENTITY runtimePanel_refreshDevices_label "Ketzolïx ri taq okisaxel">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "ütz">
 <!ENTITY details_warning_header "kitzijol k'ayewal">
 <!ENTITY details_error_header "Taq sachoj">
@@ -90,23 +88,23 @@
 <!ENTITY details_location "Rochochib'al">
 <!ENTITY details_manifestURL "Rutz'etob'al chokoy">
 <!ENTITY details_removeProject_button "Tiyuj el ri nimasamaj">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "K'ak'a' chokoy">
 <!ENTITY newAppHeader "Ticha' ri wach">
 <!ENTITY newAppLoadingTemplate "Tajin yesamajib'ëx taq wach…">
 <!ENTITY newAppProjectName "Rub'i' nimasamaj:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Titz'apïx">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Kitz'aqat taq ch'akulal">
 <!ENTITY addons_aboutaddons "Tijaq kinuk'usamajel taq tz'aqat">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Taq ajowab'äl">
 <!ENTITY prefs_editor_title "Nuk'unel">
 <!ENTITY prefs_general_title "Chijun">
@@ -118,8 +116,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Titzolïx pe ri chuwäch nimasamaj toq xtitikirisäx WebIDE">
 <!ENTITY prefs_options_templatesurl "Taq URL wach">
 <!ENTITY prefs_options_templatesurl_tooltip "Rucholajil kib'i' taq wachel wach">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Retamab'al ri ruk'ojlem b'anatajnäq">
 <!ENTITY runtimedetails_adbIsRoot "ADB xe'el:">
 <!ENTITY runtimedetails_summonADBRoot "Xe'el okisaxel">
@@ -127,36 +125,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Taq richinem man eq'aton ta ri DevTools:">
 <!ENTITY runtimedetails_requestPrivileges "kik'utüx nima'q taq ichinem ">
 <!ENTITY runtimedetails_privilegesWarning "(Xtutikirisaj chik ri okisaxel. Nrajo' root rub'ey.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Ja'/manäq">
 <!ENTITY device_typenumber "Chijun">
 <!ENTITY device_typestring "Cholajil">
 <!ENTITY device_typeobject "Wachinäq">
 <!ENTITY device_typenone "Tacha' jun ruwäch">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Taq rajowaxïk okisaxel">
 <!ENTITY devicepreference_search "Taq rajowaxik kanoxïk">
 <!ENTITY devicepreference_newname "K'ak'a' rub'i' ajowaxïk">
 <!ENTITY devicepreference_newtext "Retal ajowaxïk">
 <!ENTITY devicepreference_addnew "Titz'aqatisäx jun k'ak'a' ajowaxïk">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Runuk'ulem okisaxel">
 <!ENTITY devicesetting_search "Kinuk'ulem taq kanoxïk">
 <!ENTITY devicesetting_newname "Rub'i' k'ak'a' nuk'ulem">
 <!ENTITY devicesetting_newtext "Tinuk'ub'ëx retal">
 <!ENTITY devicesetting_addnew "Titz'aqatisäx k'ak'a' nuk'ulem">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "Jolomaj">
-<!ENTITY monitor_help "To'ïk">
+<!ENTITY monitor_help "Tob'äl">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Rutz'etob'al winäq">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,22 +169,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "We ri awokisaxel nuk'utuj jun token pa ruk'exel nuch'öb' jun QR b'itz'ib', tawachib'ej ri retal pa xulan pa ri jun chik awokisaxel:">
 <!ENTITY wifi_auth_qr_size_note "We ri QR b'itz'ib' nitz'et chi yalan ko'öl richin nichojmirisatäj ri ütz okem pa k'amaya'l, tatojtob'ej nanimirisaj ri runimilem tzuwäch o ri rupam.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Taq kitz'ib'axik taq k'utuxïk chuwäch yepis">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "Taq rucha'oj ojqanel">
-<!ENTITY simulator_remove "Tiyuj el ri ojqanel">
-<!ENTITY simulator_reset "Ke'atzolij ri taq wachinel e k'o wi">
-<!ENTITY simulator_name "B'i'aj">
-<!ENTITY simulator_software "Kema'">
-<!ENTITY simulator_version "Ruwäch">
-<!ENTITY simulator_profile "Ruwäch b'i'aj">
-<!ENTITY simulator_hardware "Ch'akulakem">
-<!ENTITY simulator_device "Samajib'äl">
-<!ENTITY simulator_screenSize "Ruwäch">
-<!ENTITY simulator_pixelRatio "Ximoj pisel">
-<!ENTITY simulator_tv_data "Rojqanem TV">
-<!ENTITY simulator_tv_data_open "Tib'an kinuk'ulem taq tzij">
-<!ENTITY simulator_tv_data_open_button "Tijaq rucholb'al nuk'ulem…">

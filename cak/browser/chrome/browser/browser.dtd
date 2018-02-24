@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "K'ak'a' ichinan tzuwäch">
 <!ENTITY newPrivateWindow.accesskey "t">
 
-<!ENTITY editMenu.label         "K'exoj">
+<!ENTITY editMenu.label         "K'exob'äl">
 <!ENTITY editMenu.accesskey       "e">
 <!ENTITY undoCmd.label            "Titzolïx">
 <!ENTITY undoCmd.key            "Z">
@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "p">
 
-<!ENTITY viewMenu.label         "Tz'etoj">
+<!ENTITY viewMenu.label         "Tz'etob'äl">
 <!ENTITY viewMenu.accesskey       "T">
 <!ENTITY viewToolbarsMenu.label       "Cholsamajib'äl">
 <!ENTITY viewToolbarsMenu.accesskey     "i">
@@ -362,7 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Titzolin pa ri molojri'ïl xik'o">
 <!ENTITY appMenuHistory.viewSidebar.label "Titz'et runatab'al Sidebar">
 <!ENTITY appMenuHistory.recentHistory.label "K'ak'a' Natab'äl">
-<!ENTITY appMenuHelp.label "To'ïk">
+<!ENTITY appMenuHelp.label "Tob'äl">
 
 <!ENTITY appMenuRemoteTabs.label "Ximon taq ruwi'">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath

@@ -8,11 +8,11 @@
 <!ENTITY zoomWindow.label         "Sum">
 <!ENTITY windowMenu.label         "Window">
 
-<!ENTITY helpMenu.label           "To'ïk"> 
+<!ENTITY helpMenu.label           "Tob'äl"> 
 <!ENTITY helpMenu.accesskey       "T"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "To'ïk"> 
+<!ENTITY helpMenuWin.label        "Tob'äl"> 
 <!ENTITY helpMenuWin.accesskey    "T">
 <!ENTITY aboutProduct2.label      "Chi rij ri &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "C">

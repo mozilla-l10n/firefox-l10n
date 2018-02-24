@@ -50,7 +50,7 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "T">
 
-<!ENTITY viewMenu.label               "Tz'etoj">
+<!ENTITY viewMenu.label               "Tz'etob'äl">
 <!ENTITY viewMenu.accesskey           "T">
 
 <!ENTITY lineNumbers.label             "Kek'ut ri taq rajilab'al k'amab'ey">
@@ -75,7 +75,7 @@
 <!ENTITY normalSize.accesskey         "R">
 <!ENTITY normalSize.commandkey        "0">
 
-<!ENTITY editMenu.label               "K'exoj">
+<!ENTITY editMenu.label               "K'exob'äl">
 <!ENTITY editMenu.accesskey           "e">
 
 <!ENTITY run.label                    "Tib'anatäj">
@@ -119,9 +119,9 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-<!ENTITY helpMenu.label               "To'ïk">
+<!ENTITY helpMenu.label               "Tob'äl">
 <!ENTITY helpMenu.accesskey           "T">
-<!ENTITY helpMenuWin.label            "To'ïk">
+<!ENTITY helpMenuWin.label            "Tob'äl">
 <!ENTITY helpMenuWin.accesskey        "T">
 
 <!ENTITY documentationLink.label      "Ruto'ik Tz'etel samaj pa MDN">

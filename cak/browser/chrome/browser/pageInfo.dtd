@@ -60,9 +60,6 @@
 <!ENTITY  permissionsFor        "Taq ruya'ik q'ij richin:">
 <!ENTITY  permPlugins           "Titzij ri nak'ab'äl">
 
-<!ENTITY  permClearStorage           "Tijosq'ïx ri yakonem">
-<!ENTITY  permClearStorage.accesskey "K">
-
 <!ENTITY  securityTab           "Chajinïk">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Tatz'eta' ruwujil b'i'aj">
@@ -87,4 +84,4 @@
 
 <!ENTITY  securityView.technical.header                 "Retal ajsamajel">
 
-<!ENTITY  helpButton.label                              "To'ïk">
+<!ENTITY  helpButton.label                              "Tob'äl">
