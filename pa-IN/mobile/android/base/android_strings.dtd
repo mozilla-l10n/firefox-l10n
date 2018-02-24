@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "ਇਸ ਚਿੱਤਰ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਲਈ ਅਸਮਰੱਥ">
 <!ENTITY save_as_pdf "PDF ਵਜੋਂ ਸੰਭਾਲੋ">
 <!ENTITY print "ਪਰਿੰਟ ਕਰੋ">
+<!ENTITY view_page_source "ਸਫ਼ੇ ਸਰੋਤ ਨੂੰ ਵੇਖੋ">
 <!ENTITY find_in_page "ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ">
 <!ENTITY desktop_mode "ਡੈਸਕਟਾਪ ਸਾਈਟ ਦੀ ਮੰਗ">
 <!ENTITY page "ਸਫ਼ਾ">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_open_private_tab "ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_remove "ਹਟਾਓ">
-<!ENTITY contextmenu_add_to_launcher "ਮੁੱਖ ਸਕਰੀਨ ਉੱਤੇ ਜੋੜੋ">
 <!ENTITY contextmenu_add_page_shortcut "ਸਫ਼ਾ ਸ਼ਾਰਟਕੱਟ ਜੋੜੋ">
 <!ENTITY contextmenu_set_as_homepage "ਮੁੱਖ-ਸਫ਼ੇ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ਸਫ਼ਾ ਹਟਾਇਆ">
-
 <!ENTITY folder_removed "ਫੋਲਡਰ ਹਟਾਇਆ ਗਿਆ">
 
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ">
@@ -814,6 +813,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "ਅਫ਼ਸੋਸ ਹੈ! ਇਹ &brandShortName; ਇਸ ਡਿਵਾਈਸ (&formatS1;, &formatS2;) ਉੱਤੇ ਕੰਮ ਨਹੀਂ ਕਰੇਗਾ। ਢੁੱਕਵਾਂ ਵਰਜ਼ਨ ਡਾਊਨਲੋਡ ਕਰੋ।">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName; ਖੋਲ੍ਹਣ ਲਈ ਅਸਮਰੱਥ। ਮੁੜ ਇੰਸਟਾਲ ਕਰਕੇ ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
+
 <!ENTITY eol_notification_title2 "&brandShortName; ਹੁਣ ਅੱਪਡੇਟ ਨਹੀਂ ਹੋਵੇਗਾ">
 <!ENTITY eol_notification_summary "ਹੋਰ ਸਿੱਖਣ ਲਈ ਛੂਹੋ">
 
@@ -821,8 +823,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ਅੱਪਡੇਟ ਹੈ">
 <!ENTITY whatsnew_notification_summary "ਪਤਾ ਕਰੋ ਕਿ ਇਸ ਨਵੇਂ ਵਰਜ਼ਨ ਵਿੱਚ ਕੀ ਨਵਾਂ ਹੈ">
-
-<!ENTITY promotion_add_to_homescreen "ਮੁੱਖ ਸਕਰੀਨ ਉੱਤੇ ਜੋੜੋ">
 
 <!ENTITY promotion_add_page_shortcut "ਸਫ਼ਾ ਸ਼ਾਰਟਕੱਤ ਜੋੜੋ">
 
