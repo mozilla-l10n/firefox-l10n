@@ -892,7 +892,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.">
 
 <!ENTITY trackingProtection.title "Mbrojtje Nga Gjurmimet">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName;-i po bllokon pjesë të këasj faqeje që mund të ndjekin shfletimin tuaj.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName;-i po bllokon pjesë të kësaj faqeje që mund të ndjekin shfletimin tuaj.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ky sajt përmban elemente që mund të ndjekin shfletimin tuaj. Mbrojtjen e keni të çaktivizuar.">
 <!ENTITY trackingProtection.notDetected3 "S&apos;u diktuan elemente gjurmimi në këtë faqe.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
