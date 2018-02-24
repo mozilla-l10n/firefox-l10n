@@ -75,6 +75,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "এই ইমেইল ভুলে যাও">
 <!ENTITY forget.accesskey            "F">
 
+<!ENTITY resendVerification.label     "যাচাইকরণ পুনরায় পাঠান">
 <!ENTITY resendVerification.accesskey "d">
 <!ENTITY cancelSetup.label            "সেটাপ বাতিল">
 <!ENTITY cancelSetup.accesskey        "p">
