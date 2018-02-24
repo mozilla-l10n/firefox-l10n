@@ -6,6 +6,8 @@ do-not-track-description = Neukirém keu situs web saboh tanda "Bèk Seutöt". N
 do-not-track-learn-more = Meurunoë lom
 do-not-track-option-default =
     .label = Watèe ngui Peulindông Seutöt mantöng
+do-not-track-option-always =
+    .label = Sabé
 pref-page =
     .title = { PLATFORM() ->
             [windows] Atô
