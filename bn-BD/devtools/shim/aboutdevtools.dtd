@@ -24,6 +24,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "ডেভেলোপার টুলস’ ইনসপেক্টর দিয়ে HTML ও CSS পরীক্ষা এবং সম্পাদনা করুন।">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
