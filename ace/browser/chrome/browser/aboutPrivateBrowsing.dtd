@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Droeneuh jinoe hana bak tingkap rahsia droeneuh.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Neupeuhah saboh tingkap rahsia">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "R">
+
+<!ENTITY privateBrowsing.title                           "Jeunajah Rahsia">
+<!ENTITY privateBrowsing.title.tracking                  "Jeunajah Rahsia ngon meulindong peulacak">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Jan neupeuhah lam saboh tingkap rahsia, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "hana aman">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "on nyang neukunjong">
+<!ENTITY aboutPrivateBrowsing.info.searches              "meumita">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "kukis">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "beureukaih hana trep">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "rab neukeubah">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " droeneuh:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "download">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "tanda kitab">
+<!ENTITY aboutPrivateBrowsing.note.before                "Jeunajah Rahsia ">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "bek neupeugot droeneuh hananan">
+<!ENTITY aboutPrivateBrowsing.note.after                 " bak internet. Ureung Po atawa nyang seudia layanan Internet droeneuh mantong jeuet jiteupue laman internet nyang droeneuh kunjong.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Meurunoe lom bhah ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Jeunajah Rahsia">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
+
+<!ENTITY trackingProtection.title                        "Meulindong Jeujak">
+<!ENTITY trackingProtection.description2                 "Padum-padum boh situs web geungui peulacak nyang jeut jikalon peue nyang neupubuet le droeneuh bak Internet. Ngon peulindong nibak peulacak Firefox jeuet meutop ubena peulacak nyang jeut jipeusapat informasi bhah peukateun jeunajah droeneuh.">
+<!ENTITY trackingProtection.startTour1                   "Neukalon kiban cara keurija jih">
