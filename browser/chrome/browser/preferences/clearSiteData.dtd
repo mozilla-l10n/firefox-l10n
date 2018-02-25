@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Valyti duomenis">
 <!ENTITY window.width                 "35em">
 
-<!ENTITY window.description           "Išvalius visus slapukus bei svetainių duomenis, kuriuos saugo „&brandShortName;“, jūs galite būti atjungti nuo svetainių, o turinys darbui neprisijungus – pašalintas. Podėlio duomenų išvalymas neturės įtakos jūsų prisijungimams.">
+<!ENTITY window.description           "Išvalius visus slapukus bei svetainių duomenis, saugomus „&brandShortName;“, jūs galite būti atjungti iš svetainių bei netekti darbui neprisijungus skirto turinio. Podėlio duomenų išvalymas neturės įtakos jūsų prisijungimams.">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Slapukai ir svetainių duomenys">
 <!ENTITY clearSiteData.accesskey      "s">
-<!ENTITY clearSiteData.description    "Išvalius jūs galite būti atjungti nuo svetainių">
+<!ENTITY clearSiteData.description    "Išvalius jūs galite būti atjungti iš svetainių">
 
 <!ENTITY clearCache.label             "Saityno podėlis">
 <!ENTITY clearCache.accesskey         "S">
