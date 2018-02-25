@@ -91,6 +91,8 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.start    "Droëneuh h`an jeuët neupeugöt beunarô leubèh jeu'ôh bak sistem nyoë. ">
+<!ENTITY update.unsupported.linkText "Meurunoë lom">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
@@ -98,9 +100,12 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "Neu-unduh beunarô — ">
 <!ENTITY update.downloading.end     "">
 
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Jinoë droëneuh teungoh na di ">
+<!ENTITY channel.description.end    " peubarô saluran. ">
