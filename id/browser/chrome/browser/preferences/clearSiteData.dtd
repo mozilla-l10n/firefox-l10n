@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Membersihkan semua kuki dan data situs yang disimpan oleh &brandShortName; mungkin mengeluarkan Anda dari situs web dan menghapus konten web luring. Membersihkan data tembolok tidak akan mempengaruhi info masuk Anda.">
-<!ENTITY windowClose.key              "j">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Kuki dan Data Situs">
 <!ENTITY clearSiteData.accesskey      "S">
