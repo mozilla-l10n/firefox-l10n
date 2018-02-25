@@ -2,13 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Peuwoe Neuatô Mita">
+<!ENTITY searchreset.tabtitle       "Peuriwang Neuatô Mita">
 
+<!ENTITY searchreset.pageTitle      "Peuriwang neuatô mita?">
 
+<!ENTITY searchreset.pageInfo1      "Atôran mita droeneuh ka maté thôn. &brandShortName; jeut tabantu droeneuh peuriwang atôran mita baku.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
+<!ENTITY searchreset.selector.label "Nyoe ji-atô meusén mita baku droen keu">
 
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
