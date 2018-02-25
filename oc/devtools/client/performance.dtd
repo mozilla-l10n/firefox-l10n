@@ -36,9 +36,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Cascada">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Mostrar las diferentas operacions del navigator pendent l'enregistrament, presentadas de biais sequecial en cascada.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Mostrar las diferentas operacions del navegador pendent l'enregistrament, presentadas de biais sequecial en cascada.">
 <!ENTITY performanceUI.toolbar.js-calltree "Arbre de sonadas">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Enlusir las foncions JavaScript ont lo navigator a passat mai de temps pendent l'enregistrament.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Enlusir las foncions JavaScript ont lo navegador a passat mai de temps pendent l'enregistrament.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Assignacions">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Mostrar ont la memòria es estat asignada pendent l'enregitrament.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Diagrama de Flama JS">

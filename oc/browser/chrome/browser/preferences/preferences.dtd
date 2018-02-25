@@ -28,7 +28,7 @@
 
 <!ENTITY  languageAndAppearance.label   "Lenga e aparéncia">
 <!ENTITY  filesAndApplications.label    "Fichièrs e aplicacions">
-<!ENTITY  browserPrivacy.label          "Confidencialitat del navigator">
+<!ENTITY  browserPrivacy.label          "Confidencialitat del navegador">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Compte Firefox">

@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
 <!ENTITY  aboutDevtools.enable.commonMessage
-          "Las aisinas de desvolopament de Firefox son desactivadas per defaut per dire de vos permetre de contrarotlar mai vòstre navigator.">
+          "Las aisinas de desvolopament de Firefox son desactivadas per defaut per dire de vos permetre de contrarotlar mai vòstre navegador.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
@@ -77,7 +77,7 @@
 <!ENTITY  aboutDevtools.newsletter.thanks.message "S’avètz pas ja confirmat un abonament a una letra de ligason de Mozilla, benlèu que o vos cal far. Verificatz vòstra bóstia de recepcion o corrièls pas desirables e cercatz un messatge nòstre.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
-<!ENTITY  aboutDevtools.footer.message "Cercatz mai que d’aisinas de desvolopament ? Descobrissètz lo navigador Firefox fach especialament pels desvolopaires e los flux laborals del monde modèrn.">
+<!ENTITY  aboutDevtools.footer.message "Cercatz mai que d’aisinas de desvolopament ? Descobrissètz lo navegador Firefox fach especialament pels desvolopaires e los flux laborals del monde modèrn.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->

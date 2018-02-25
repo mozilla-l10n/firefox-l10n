@@ -113,7 +113,7 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Navigador">
+<!ENTITY browserContext.label         "Navegador">
 <!ENTITY browserContext.accesskey     "v">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"

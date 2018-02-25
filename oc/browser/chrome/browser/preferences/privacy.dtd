@@ -114,7 +114,7 @@
 <!ENTITY  browserContainersSettings.label        "Paramètres…">
 <!ENTITY  browserContainersSettings.accesskey    "t">
 
-<!ENTITY  a11yPrivacy.checkbox.label     "Empachar los servicis d’accessibilitat d’accedir a vòstre navigator">
+<!ENTITY  a11yPrivacy.checkbox.label     "Empachar los servicis d’accessibilitat d’accedir a vòstre navegador">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Ne saber mai">
 <!ENTITY enableSafeBrowsingLearnMore.label "Ne saber mai">
