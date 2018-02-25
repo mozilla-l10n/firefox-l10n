@@ -38,5 +38,5 @@
 <!ENTITY  changeMasterPassword.label     "Schimbă parola generală…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedLogins.label              "Autentificările active…">
+<!ENTITY  savedLogins.label              "Autentificări salvate…">
 <!ENTITY  savedLogins.accesskey          "l">
