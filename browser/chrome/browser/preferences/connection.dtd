@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Įgaliotųjų serverių sąranka">
+
+<!ENTITY  proxyTitle.label2             "Įgaliotųjų serverių sąranka">
 <!ENTITY  noProxyTypeRadio.label        "Nenaudoti įgaliotojo serverio">
 <!ENTITY  noProxyTypeRadio.accesskey    "N">
 <!ENTITY  systemTypeRadio.label         "Taikyti šios sistemos įgaliotojo serverio nuostatas">

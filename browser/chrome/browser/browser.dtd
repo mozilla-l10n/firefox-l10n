@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informacija apie tinklalapį">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Išdėstymo derintuvė">
+<!ENTITY ldbCmd.accesskey "d">
 <!ENTITY mirrorTabCmd.label "Kopijuoti kortelę">
 <!ENTITY mirrorTabCmd.accesskey "K">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -231,10 +233,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Šioje svetainėje esate užblokavę savo mikrofoną.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Šiai svetainei neleidžiate dalintis ekrano vaizdu.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Šioje svetainėje esate užblokavę buvimo vietos informaciją.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Šioje svetainėje esate užblokavę duomenų saugojimą.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Šioje svetainėje esate užblokavę pranešimus.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Šioje svetainėje esate užblokavę išliekančių duomenų saugojimą.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Šioje svetainėje esate užblokavę iškylančiuosius langus.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išgavimą.">
@@ -303,7 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "l">
 <!ENTITY newPrivateWindow.label     "Naujas privataus naršymo langas">
 <!ENTITY newPrivateWindow.accesskey "p">
-<!ENTITY newNonRemoteWindow.label   "Naujas ne „e10s“ langas">
 
 <!ENTITY editMenu.label         "Taisa">
 <!ENTITY editMenu.accesskey       "T">
@@ -358,18 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Rodyti visą žurnalą">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Tvarkyti">
-<!ENTITY appMenuCustomize.tooltip "Tvarkyti meniu ir priemonių juostas">
-<!ENTITY appMenuCustomizeExit.label "Baigti tvarkymą">
-<!ENTITY appMenuCustomizeExit.tooltip "Užbaigti tvarkymą">
-
 <!ENTITY appMenuHistory.showAll.label "Rodyti visą žurnalą">
 <!ENTITY appMenuHistory.clearRecent.label "Valyti žurnalą…">
 <!ENTITY appMenuHistory.restoreSession.label "Atkurti paskiausiąjį seansą">
 <!ENTITY appMenuHistory.viewSidebar.label "Rodyti žurnalo parankinę">
 <!ENTITY appMenuHistory.recentHistory.label "Žurnalas">
 <!ENTITY appMenuHelp.label "Žinynas">
-<!ENTITY appMenuHelp.tooltip "Atverti žinyno meniu">
 
 <!ENTITY appMenuRemoteTabs.label "Sinchronizuotos kortelės">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Nėra sinchronizuotų kortelių… Kol kas!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Norite matyti savo korteles iš kitų įrenginių čia?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinchronizavimo nuostatos">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Atverti sinchronizavimo nuostatas">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Jūsų paskyra turi būti patvirtinta.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prisijungti prie „Sync“">
@@ -444,14 +438,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Priedas:">
 <!ENTITY urlbar.switchToTab.label     "Pereiti į kortelę:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Ar norėtumėte paieškos metu matyti siūlymus?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Sužinoti daugiau…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "s">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Taip">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "t">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Patarimas:">
@@ -730,8 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Pagrindinis tinklalapio stilius">
 <!ENTITY pageStylePersistentOnly.accesskey "P">
 
-<!ENTITY pageReportIcon.tooltip            "Pakeisti šios svetainės iškylančiųjų langų blokavimo nuostatas">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sinchronizuoti">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Nutempkite savo mėgstamiausius elementus į priemonių juostą arba perpildymo meniu.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Norite daugiau priemonių?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Pasirinkite jas iš tūkstančių priedų">
 <!ENTITY customizeMode.restoreDefaults "Grąžinti numatytąją struktūrą">
 <!ENTITY customizeMode.done "Atlikta">
 <!ENTITY customizeMode.titlebar "Antraštės juosta">
@@ -877,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "T">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Gauti daugiau temų">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Nutempkite elementus čia, kad jie būtų pasiekiami, tačiau neužimtų vietos įrankinėje…">
 <!ENTITY customizeMode.overflowList.title2 "Perpildymo meniu">
 <!ENTITY customizeMode.overflowList.description "Nutempkite elementus čia, kad jie būtų pasiekiami, tačiau neužimtų vietos priemonių juostoje…">
 <!ENTITY customizeMode.uidensity "Tankis">
@@ -1008,7 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso lauką">
 <!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso lauko">
-
 <!ENTITY pageAction.allowInUrlbar.label "Rodyti adreso juostoje">
 <!ENTITY pageAction.disallowInUrlbar.label "Nerodyti adreso juostoje">
 <!ENTITY pageAction.manageExtension.label "Tvarkyti priedą…">
@@ -1023,3 +1003,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Prieinamumo funkcijos įjungtos">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Tvarkykite savo priedus paspausdami <image class='addon-addon-icon'/>, esantį <image class='addon-toolbar-icon'/> meniu.">

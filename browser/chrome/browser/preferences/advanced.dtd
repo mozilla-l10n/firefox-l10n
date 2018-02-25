@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Mes siekiame jums leisti rinktis ir rinkti tik tai, ko reikia teikti ir tobulinti „&brandShortName;“ visiems. Mes visuomet paprašome leidimo prieš gaudami asmeninę informaciją.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Privatumo nuostatai">
 
+<!ENTITY collectBrowserErrors.label          "Leisti „&brandShortName;“ siųsti naršyklės klaidų pranešimus (kartu su klaidų tekstu) „Mozillai“">
+<!ENTITY collectBrowserErrors.accesskey      "n">
+<!ENTITY collectBrowserErrorsLearnMore.label "Sužinoti daugiau">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Leisti „&brandShortName;“ siųsti strigčių ataskaitas „Mozillai“">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "s">
 <!ENTITY crashReporterLearnMore.label    "Sužinoti daugiau">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "Tinklo įgaliotasis serveris">
 
 <!ENTITY connectionDesc.label            "Parinkite „&brandShortName;“ ryšio su internetu nuostatas.">
+
+<!ENTITY connectionSettingsLearnMore.label "Sužinoti daugiau">
 <!ENTITY connectionSettings.label        "Nuostatos…">
 <!ENTITY connectionSettings.accesskey    "N">
 
 <!ENTITY httpCache.label                 "Saityno podėlis">
-
-<!ENTITY offlineStorage2.label           "Duomenys darbui neprisijungus ir naudotojo duomenys">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Svetainės duomenys">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB disko atminties">
 <!ENTITY clearCacheNow.label             "Išvalyti dabar">
 <!ENTITY clearCacheNow.accesskey         "v">
-<!ENTITY clearOfflineAppCacheNow.label   "Išvalyti darbar">
-<!ENTITY clearOfflineAppCacheNow.accesskey "d">
 <!ENTITY overrideSmartCacheSize.label    "Neleisti automatinio podėlio dydžio valdymo">
 <!ENTITY overrideSmartCacheSize.accesskey "a">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "automatiškai naujinti ieškykles">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Pranešti, kai svetainė prašo leidimo kompiuteryje įrašyti duomenis, reikalingus darbui neprisijungus prie tinklo">
-<!ENTITY offlineStorageNotify.accesskey           "P">
-<!ENTITY offlineStorageNotifyExceptions.label     "Išimtys…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "I">
-
-<!ENTITY offlineAppsList3.label          "Šioms svetainėms leista įrašyti darbui neprisijungus prie tinklo reikalingų duomenų">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Pašalinti…">
-<!ENTITY offlineAppsListRemove.accesskey "š">
-<!ENTITY offlineAppRemove.confirm        "Pašalinti darbui neprisijungus skirtus duomenis">
 
 <!ENTITY certificateTab.label            "Liudijimai">
 <!ENTITY certPersonal2.description       "Svetainei paprašius jūsų asmeninio liudijimo:">
