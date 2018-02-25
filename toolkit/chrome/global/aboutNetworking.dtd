@@ -50,6 +50,7 @@
 <!ENTITY aboutNetworking.rcwnPerfOpen          "খুলুন">
 <!ENTITY aboutNetworking.rcwnPerfRead          "পড়ুন">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "লিখুন">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "প্রবেশ শুরু">
 <!ENTITY aboutNetworking.rcwnAvgShort          "সংক্ষিপ্ত গড়">
 <!ENTITY aboutNetworking.rcwnAvgLong           "দীর্ঘ গড়">
 <!ENTITY aboutNetworking.rcwnStddevLong        "লং স্ট্যান্ডার্ড ডেভিয়েশন">

@@ -21,8 +21,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "সংস্করণ">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "নিরাপত্তার সফটওয়্যার">
 <!ENTITY aboutSupport.securitySoftwareType "ধরণ">
 <!ENTITY aboutSupport.securitySoftwareName "নাম">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "এন্টিভাইরাস">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "এন্টিস্পাইওয়্যার">
+<!ENTITY aboutSupport.securitySoftwareFirewall "ফায়ারওয়াল">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; বৈশিষ্ট্যসমূহ">
 <!ENTITY aboutSupport.featureName "নাম">
