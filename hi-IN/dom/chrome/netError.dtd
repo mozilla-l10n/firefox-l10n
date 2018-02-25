@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "पृष्ठ की लोडिंग में समस्या">
 <!ENTITY retry.label " पुनः प्रयत्न करें">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "कनैक्शन में असफलता त्रुटि">
 <!ENTITY connectionFailure.longDesc "<p>हालांकि साइट मान्य है, ब्राउज़र संपर्क स्थापित करने में असमर्थ हुआ !</p><ul><li>हो सकता है किसाइट अस्थायी रूप से अनुपलब्ध हो ? बाद में पुन: प्रयास करें !</li><li>आप अन्य साइटों को ब्राउज़ करने में असमर्थ हैं? कंप्यूटर के नेटवर्क कनेक्शन की जांच करें ! </li><li> क्या आपका कंप्यूटर और नेटवर्क फायरवाल या प्रॉक्सी से सुरक्षित है ? ग़लत समायोजन वेब ब्राउज़िंग में बाधा डाल सकती हैं! </li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> सुरक्षा तकनीक का उपयोग करता है जो पुराना और आक्रमण हेतु भेद्य है. एक भेदी आसानी से वो सूचना प्रत्यक्ष कर सकता है जिसे आप सुरक्षित समझते हैं. वेबसाइट प्रशासक को आपके साईट देखने से पहले सर्वर ठीक करना होगा.</p><p>त्रुटि कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "पृष्ठ अवरोधित किया गया">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>आपके व्यवस्थापक द्वारा पहुंच अक्षम कर दी गई हैं.</p>">
