@@ -14,7 +14,7 @@
 
 <!ENTITY devmgr.button.login.label              "Autentifică-te">
 <!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label             "Deautentifică-te">
+<!ENTITY devmgr.button.logout.label             "Deconectează-te">
 <!ENTITY devmgr.button.logout.accesskey         "i">
 <!ENTITY devmgr.button.changepw.label           "Schimbă parola">
 <!ENTITY devmgr.button.changepw.accesskey       "p">
