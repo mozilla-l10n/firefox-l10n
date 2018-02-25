@@ -15,6 +15,7 @@
 <!ENTITY aboutPrivateBrowsing.info.searches              "meumita">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "kukis">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "beureukaih hana trep">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "rab neukeubah">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " droeneuh:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "download">

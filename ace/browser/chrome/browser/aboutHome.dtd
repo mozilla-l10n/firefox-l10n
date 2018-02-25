@@ -30,6 +30,8 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Preferensi">
 <!ENTITY abouthome.addonsButton.label    "Peungaya">
+<!ENTITY abouthome.downloadsButton.label "Donlod">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
