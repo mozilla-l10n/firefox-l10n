@@ -88,3 +88,4 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza de tecnologias de securizacion obsolètas e vulnerablas als atacs. Un atacant poiriá aisidament prendre d'informacions qu'auriatz pensat seguras. L’administrator del site web deurà d’en primièr corregir lo servidor abans que poguèssetz visitar lo site.</p><p>Còde d’orror : NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicyTemp.title "Pagina blocada">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>L’accès es estat desactivat per vòstre administrator.</p>">

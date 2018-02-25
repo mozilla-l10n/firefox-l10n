@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Configurar los servidors mandatòris per accedir a internet">
+
+<!ENTITY  proxyTitle.label2             "Configurar del servidor proxy per accedir a Internet">
 <!ENTITY  noProxyTypeRadio.label        "Pas cap de servidor mandatòri">
 <!ENTITY  noProxyTypeRadio.accesskey    "d">
 <!ENTITY  systemTypeRadio.label         "Utilizar los paramètres de servidor mandatòri del sistèma">
