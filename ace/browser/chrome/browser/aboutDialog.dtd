@@ -64,19 +64,26 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; ka geupubarô">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "Peubarô geupeumaté lé ureueng urôih sistem droëneuh">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; teungoh geuseubarô ngon conto nyang la'én">
+<!ENTITY update.restarting          "Ulang keulayi…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "Peubarô hana wasé. ">
+<!ENTITY update.failed.linkText     "Unduh versi paléng barô">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Beunarô na bak ">
+<!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
