@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY disconnect3.accesskey        "f">
 <!ENTITY verify.label                "Stadfest e-post">
 <!ENTITY verify.accesskey            "S">
-<!ENTITY forget.label                "Gløym denne e-posten">
+<!ENTITY forget.label                "Gløym denne e-postadressa">
 <!ENTITY forget.accesskey            "G">
 
 <!ENTITY resendVerification.label     "Send stadfesting på nytt">
