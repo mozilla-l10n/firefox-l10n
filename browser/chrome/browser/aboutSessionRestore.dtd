@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "O planhèm, capitam pas de recuperar vòstras paginas.">
-<!ENTITY restorepage.problemDesc2   "Patissèm a restablir vòstra darrièra session de navigacion. Seleccionatz «Restablir la session» per tornar ensajar.">
+<!ENTITY restorepage.problemDesc2   "Patissèm a restablir vòstra darrièra session de navegacion. Seleccionatz «Restablir la session» per tornar ensajar.">
 <!ENTITY restorepage.tryThis2       "Podètz pas encara restablir vòstra session ? De còps un onglet es lo problèma. Vejatz los onglets anteriors, deseleccionatz los que vos fa pas besonh, e tornatz ensajar.">
 
 <!ENTITY restorepage.hideTabs       "Amagar los onglets precedents">
@@ -45,7 +45,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Vòstres moduls complementaris e personalizacions son estats suprimits e los paramètres de navigacion son estats restaurats als per defaut. S'aquò n'a pas resolgut vòstre problèma, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Vòstres moduls complementaris e personalizacions son estats suprimits e los paramètres de navegacion son estats restaurats als per defaut. S'aquò n'a pas resolgut vòstre problèma, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "obténer mai d'informacion sus las autras possibilitats.">

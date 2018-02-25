@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "L’enregistrament de perfil es ara indisponible. Tampar totas las fenèstras de navigacion privadas puèi tornar ensajar.">
+<!ENTITY performanceUI.unavailableNoticePB "L’enregistrament de perfil es ara indisponible. Tampar totas las fenèstras de navegacion privadas puèi tornar ensajar.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->

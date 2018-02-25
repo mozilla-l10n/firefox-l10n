@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigacion privada)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegacion privada)">
 
 <!ENTITY appmenu.tooltip                     "Dobrir lo menú">
 <!ENTITY navbarOverflow.label                "Mai d'aisinas…">
@@ -86,7 +86,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Barra de menús">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Barra de navigacion">
+<!ENTITY navbarCmd.label "Barra de navegacion">
 <!ENTITY personalbarCmd.label "Barra de personala">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elements de la barra personala">
@@ -301,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Fenèstra novèla">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
-<!ENTITY newPrivateWindow.label     "Novèla fenèstra de navigacion privada">
+<!ENTITY newPrivateWindow.label     "Novèla fenèstra de navegacion privada">
 <!ENTITY newPrivateWindow.accesskey "N">
 
 <!ENTITY editMenu.label         "Edicion">
@@ -518,7 +518,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "o">
 <!ENTITY openLinkCmd.label            "Dobrir lo ligam dins una fenèstra novèla">
 <!ENTITY openLinkCmd.accesskey        "o">
-<!ENTITY openLinkInPrivateWindowCmd.label "Dobrir lo ligam dins una fenèstra de navigacion privada">
+<!ENTITY openLinkInPrivateWindowCmd.label "Dobrir lo ligam dins una fenèstra de navegacion privada">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "n">
 <!ENTITY openLinkCmdInCurrent.label     "Dobrir lo ligam">
 <!ENTITY openLinkCmdInCurrent.accesskey "o">
@@ -823,7 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "n">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Dobrir lo ligam dins una fenèstra novèla">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "o">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Dobrir lo ligam dins una fenèstra de navigacion privada">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Dobrir lo ligam dins una fenèstra de navegacion privada">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "n">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Apondre aqueste pagina als marcapaginas…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "m">
@@ -892,8 +892,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
 
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon pistar vòstra navigacion.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon pistar vòstra navigacion. Avètz desactivat la proteccion.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon pistar vòstra navegacion.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon pistar vòstra navegacion. Avètz desactivat la proteccion.">
 <!ENTITY trackingProtection.notDetected3 "Pas cap d'element de seguiment es estat detectat sus aquela pagina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -947,7 +947,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.forgetButton            "Escafar">
 
 <!ENTITY panicButton.thankyou.msg1                "Vòstre istoric recent es estat escafat corrèctament.">
-<!ENTITY panicButton.thankyou.msg2                "Bona navigacion !">
+<!ENTITY panicButton.thankyou.msg2                "Bona navegacion !">
 <!ENTITY panicButton.thankyou.buttonlabel         "Mercé !">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ne saber mai suls DRM…">
@@ -971,7 +971,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "A">
 <!ENTITY updateManual.panelUI.label "Telecargatz una còpia novèla de &brandShorterName;">
 
-<!ENTITY updateRestart.message2 "Aprèp una pichoneta reaviada, &brandShorterName; restablirà totes vòstres onglets dobèrts que son pas en navigacion privada.">
+<!ENTITY updateRestart.message2 "Aprèp una pichoneta reaviada, &brandShorterName; restablirà totes vòstres onglets dobèrts que son pas en navegacion privada.">
 <!ENTITY updateRestart.header.message2 "Reaviatz per metre a jorn &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reaviar e restablir">
 <!ENTITY updateRestart.acceptButton.accesskey "R">

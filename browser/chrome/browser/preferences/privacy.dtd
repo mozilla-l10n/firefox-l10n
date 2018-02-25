@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteccion contra lo seguiment">
-<!ENTITY  trackingProtection2.description      "Lo seguiment es la collècta de vòstras donadas de navigacion pels sites web. Lo seguiment pòt s'utilizar per bastir un perfil e afichar de contengut segon vòstras navigacions e donadas personalas.">
+<!ENTITY  trackingProtection2.description      "Lo seguiment es la collècta de vòstras donadas de navegacion pels sites web. Lo seguiment pòt s'utilizar per bastir un perfil e afichar de contengut segon vòstras navegacions e donadas personalas.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts">
-<!ENTITY  trackingProtection3.description      "La proteccion contra lo seguiment bloca los traçadors en linha que collectan vòstras donadas de navigacion a partir de mantun sites web.">
+<!ENTITY  trackingProtection3.description      "La proteccion contra lo seguiment bloca los traçadors en linha que collectan vòstras donadas de navegacion a partir de mantun sites web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Utilizar la proteccion contra lo seguiment per blocar los traçadors coneguts">
 <!ENTITY  trackingProtectionAlways.label       "Totjorn">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
@@ -19,7 +19,7 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM6.label         "Utilizar la proteccion contra lo seguiment dins la navigacion privada per blocar los traçadors coneguts">
+<!ENTITY trackingProtectionPBM6.label         "Utilizar la proteccion contra lo seguiment dins la navegacion privada per blocar los traçadors coneguts">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ne saber mai">
 <!ENTITY changeBlockList2.label               "Cambiar la lista de blocatge…">
@@ -35,7 +35,7 @@
 
 <!ENTITY  addressBar.label              "Barra d'adreça">
 <!ENTITY  addressBar.suggest.label      "Quand utilizi la barra d'adreça, suggerir">
-<!ENTITY  locbar.history2.label         "Istoric de navigacion">
+<!ENTITY  locbar.history2.label         "Istoric de navegacion">
 <!ENTITY  locbar.history2.accesskey     "I">
 <!ENTITY  locbar.bookmarks.label        "Favorits">
 <!ENTITY  locbar.bookmarks.accesskey    "F">
@@ -74,7 +74,7 @@
 <!ENTITY  historyHeader.custom.label       "Utilizar los paramètres personalizats per l'istoric">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; conservarà las donadas de navigacion, los telecargaments, los formularis e l'istoric recèrca e los cookies dels sites web que visitaretz.">
+<!ENTITY  rememberDescription.label      "&brandShortName; conservarà las donadas de navegacion, los telecargaments, los formularis e l'istoric recèrca e los cookies dels sites web que visitaretz.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -85,7 +85,7 @@
 <!ENTITY  rememberActions.removeCookies.label "suprimir de cookies especifics">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que per la navigacion privada e conservarà pas cap d'istoric quand navigaretz sus internet.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que per la navegacion privada e conservarà pas cap d'istoric quand navigaretz sus internet.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -93,10 +93,10 @@
 <!ENTITY  dontrememberActions.clearHistory.label "escafar la totalitat de l'istoric actual">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Utilizar totjorn lo mòde de navigacion privada">
+<!ENTITY  privateBrowsingPermanent2.label "Utilizar totjorn lo mòde de navegacion privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "Conservar l'istoric de navigacion e dels telecargaments">
+<!ENTITY  rememberHistory2.label      "Conservar l'istoric de navegacion e dels telecargaments">
 <!ENTITY  rememberHistory2.accesskey  "C">
 
 <!ENTITY  rememberSearchForm.label       "Conservar l'istoric de las recèrcas e dels formularis">

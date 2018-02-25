@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "Pel moment, sètz pas dins una fenèstra de navigacion privada.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Dobrir una fenèstra de navigacion privada">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Pel moment, sètz pas dins una fenèstra de navegacion privada.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Dobrir una fenèstra de navegacion privada">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
-<!ENTITY privateBrowsing.title                           "Navigacion privada">
-<!ENTITY privateBrowsing.title.tracking                  "Navigacion privada amb proteccion contra lo seguiment">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quand navigatz dins una fenèstra de navigacion privada, Firefox ">
+<!ENTITY privateBrowsing.title                           "Navegacion privada">
+<!ENTITY privateBrowsing.title.tracking                  "Navegacion privada amb proteccion contra lo seguiment">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quand navigatz dins una fenèstra de navegacion privada, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "enregistra pas">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        " :">
 <!ENTITY aboutPrivateBrowsing.info.visited               "Las paginas visitadas">
@@ -20,13 +20,13 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          "vòstres :">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Telecargaments">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcapaginas">
-<!ENTITY aboutPrivateBrowsing.note.before                "La navigacion privada ">
+<!ENTITY aboutPrivateBrowsing.note.before                "La navegacion privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "vos fa pas venir anonime">
 <!ENTITY aboutPrivateBrowsing.note.after                 " sus Internet. Vòstre emplegaire o provesidor de servici Internet pòdon totjorn conéisser las paginas que visitatz.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Per ne saber mai sus ">
-<!ENTITY aboutPrivateBrowsing.learnMore3.title           "navigacion privada">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "navegacion privada">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Proteccion contra lo seguiment">
-<!ENTITY trackingProtection.description2                 "De sites web utilizan de traçadors que pòdon seguir la vòstra activitat sus internet. Amb la proteccion contra los traçadors, Firefox blocarà los que pòdon reculhir d'informacions sul vòstre comportament de navigacion.">
+<!ENTITY trackingProtection.description2                 "De sites web utilizan de traçadors que pòdon seguir la vòstra activitat sus internet. Amb la proteccion contra los traçadors, Firefox blocarà los que pòdon reculhir d'informacions sul vòstre comportament de navegacion.">
 <!ENTITY trackingProtection.startTour1                   "Cossí fonciona ?">

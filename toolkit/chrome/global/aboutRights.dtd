@@ -66,7 +66,7 @@
 <!ENTITY rights.safebrowsing-term4 "Lo blocatge de sites malvolents es alara desactivat.">
 
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "Navigacion segon la localizacion geografica : ">
+<!ENTITY rights.locationawarebrowsing-a "Navegacion segon la localizacion geografica : ">
 <!ENTITY rights.locationawarebrowsing-b "se fa totjorn a la demanda. Cap d'informacion a prepaus de vòstra localizacion es pas jamai mandada sens vòstra permission. Se volètz desactivar la foncionalitat completament, seguissètz aquelas instruccions :">
 <!ENTITY rights.locationawarebrowsing-term1a "Dins la barra d'adreça, picatz ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
