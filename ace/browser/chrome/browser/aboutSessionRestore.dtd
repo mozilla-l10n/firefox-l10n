@@ -6,6 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.tryThis2       "Mantöng hanjeut neupeuriwang sesi? Mungkén wab jih bak tab. Kalön tab seugolomjih, lhi tanda bak tab nyang hana peureulèe, leuhnyan neupeuriwang.">
 
 <!ENTITY restorepage.hideTabs       "Peusom Tab Seugolomjih">
 <!ENTITY restorepage.showTabs       "Kalön Tab Seugolomjih">
@@ -30,8 +31,10 @@
 <!ENTITY welcomeback2.tabtitle      "Meuhasé!">
 
 <!ENTITY welcomeback2.pageTitle     "Meuhasé!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; ka bèrèh.">
 
 <!ENTITY welcomeback2.restoreAll.label  "Peuriwang mandum tingkap &amp; tab">
+<!ENTITY welcomeback2.restoreSome.label "Peuriwang nyang drouneuh h'eut tok">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
