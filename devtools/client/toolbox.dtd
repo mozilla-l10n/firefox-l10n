@@ -12,7 +12,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Una error s'es producha en dobrir la bóstia d'aisinas del navigador :">
+<!ENTITY browserToolboxErrorMessage          "Una error s'es producha en dobrir la bóstia d'aisinas del navegador :">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -25,8 +25,8 @@
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
-<!ENTITY options.showUserAgentStyles.label "Mostrar los estils navigador">
-<!ENTITY options.showUserAgentStyles.tooltip "Activar aquesta opcion aficharà los estils per defaut cargats pel navigador.">
+<!ENTITY options.showUserAgentStyles.label "Mostrar los estils navegador">
+<!ENTITY options.showUserAgentStyles.tooltip "Activar aquesta opcion aficharà los estils per defaut cargats pel navegador.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
@@ -73,8 +73,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Activar lo desbogatge del chrome del navigador e dels moduls">
-<!ENTITY options.enableChrome.tooltip3  "Activar aquesta opcion vos autorizarà a utilizar diferentas aisinas de desvelopament dins lo contèxte del navigador (via Aisinas > Desvelopament web > Bòstia d'aisinas del navigador) e de desbogar de moduls dempuèi lo gestionari de moduls complementaris">
+<!ENTITY options.enableChrome.label5    "Activar lo desbogatge del chrome del navegador e dels moduls">
+<!ENTITY options.enableChrome.tooltip3  "Activar aquesta opcion vos autorizarà a utilizar diferentas aisinas de desvelopament dins lo contèxte del navegador (via Aisinas > Desvelopament web > Bòstia d'aisinas del navegador) e de desbogar de moduls dempuèi lo gestionari de moduls complementaris">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled

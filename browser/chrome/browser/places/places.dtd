@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Exportar de marcapaginas al format HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Importar de donadas d'un autre navigador…">
+<!ENTITY importOtherBrowser.label          "Importar de donadas d'un autre navegador…">
 <!ENTITY importOtherBrowser.accesskey      "m">
 
 <!ENTITY cmd.backup.label               "Salvar…">

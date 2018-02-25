@@ -4,7 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Benvenguda">
 <!ENTITY firstrun_urlbar_message2 "Mercé d’aver causit &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext2 "Un navigator mobil modèrne de Mozilla, que s\&apos;engatja per tòca non lucrativa a defendre un web liure e dobèrt.">
+<!ENTITY firstrun_urlbar_subtext2 "Un navegador mobil modèrne de Mozilla, que s\&apos;engatja per tòca non lucrativa a defendre un web liure e dobèrt.">
 <!ENTITY firstrun_panel_title_privacy "Vida privada">
 <!ENTITY firstrun_privacy_message "Navigatz coma se degun vos gaitèsse pas">
 <!ENTITY firstrun_privacy_subtext "La navegacion privada amb proteccion de seguiment bloca los traçadors pendent que navigatz e se remembra pas de vòstre istoric un còp la navegacion acabada.">
@@ -369,7 +369,7 @@
 <!ENTITY pref_search_suggestions "Afichar las suggestions de recèrca">
 <!ENTITY pref_history_search_suggestions "Afichar l’istoric de recèrca">
 <!ENTITY pref_import_options "Opcions d’importacion">
-<!ENTITY pref_import_android_summary "Importar los marcapaginas e istoric del navigator d’origina">
+<!ENTITY pref_import_android_summary "Importar los marcapaginas e istoric del navegador d’origina">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Onglets dobèrts">
@@ -384,7 +384,7 @@
 <!ENTITY pref_private_data_downloadFiles2 "Telecargaments">
 <!ENTITY pref_private_data_syncedTabs "Onglets sincronizats">
 
-<!ENTITY pref_default_browser "Definir coma navigator per defaut">
+<!ENTITY pref_default_browser "Definir coma navegador per defaut">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Visitar l’ajuda de Mozilla">
 <!ENTITY pref_about_firefox "A prepaus de &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
@@ -421,7 +421,7 @@
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Rapòrt de plantatge de &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Manda de donadas a &vendorShortName; al subjècte de la santat de vòstre navigator e vos ajuda a comprene las performanças de vòstre navigator">
+<!ENTITY datareporting_fhr_summary2 "Manda de donadas a &vendorShortName; al subjècte de la santat de vòstre navegador e vos ajuda a comprene las performanças de vòstre navegador">
 <!ENTITY datareporting_abouthr_title "Afichar mon rapòrt de santat">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Manda d’informacions sus las performàncias, lo material, l’utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
@@ -798,7 +798,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-<!ENTITY bookmarks_about_browser "Firefox : al subjècte de vòstre navigator">
+<!ENTITY bookmarks_about_browser "Firefox : al subjècte de vòstre navegador">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox : personalizacion amb de moduls">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->

@@ -6,7 +6,7 @@
 <!ENTITY refreshProfile.dialog.description1  "Tornar partir per reparar los problèmas e restablir las performanças.">
 <!ENTITY refreshProfile.dialog.description2  "En contunhant anatz :">
 <!ENTITY refreshProfile.dialog.items.label1  "Suprimir vòstres moduls e personalisacions">
-<!ENTITY refreshProfile.dialog.items.label2  "Restablir los paramètres de vòstre navigator per defaut">
+<!ENTITY refreshProfile.dialog.items.label2  "Restablir los paramètres de vòstre navegador per defaut">
 <!ENTITY refreshProfile.dialog.button.label  "Reïnicializar &brandShortName;">
 
 <!ENTITY refreshProfile.title                "Fasètz una mesa al ponch de &brandShortName;">

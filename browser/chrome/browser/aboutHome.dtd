@@ -14,7 +14,7 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "Mercé d'aver causit Firefox ! Per profeitar plenament de vòstre navigador, descobrissètz sas <a>darrièras foncionalitats</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Mercé d'aver causit Firefox ! Per profeitar plenament de vòstre navegador, descobrissètz sas <a>darrièras foncionalitats</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->

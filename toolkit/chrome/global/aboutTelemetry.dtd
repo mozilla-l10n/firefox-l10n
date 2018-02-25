@@ -43,7 +43,7 @@ Ièr
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuras simplas">
 <!ENTITY aboutTelemetry.telemetryLogSection "  Jornal de la telemetria">
 <!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navegador">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Detalhs suls moduls complementaris">
 <!ENTITY aboutTelemetry.capturedStacksSection "Pilas capturadas">
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras tardièras">

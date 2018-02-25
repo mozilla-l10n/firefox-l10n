@@ -33,12 +33,12 @@
 <!ENTITY alwaysAskWhere.label         "Sempre demandar ont enregistrar los fichièrs">
 <!ENTITY alwaysAskWhere.accesskey     "S">
 
-<!ENTITY alwaysCheckDefault2.label        "Totjorn verificar se &brandShortName; es vòstre navigador per defaut">
+<!ENTITY alwaysCheckDefault2.label        "Totjorn verificar se &brandShortName; es vòstre navegador per defaut">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser3.label     "Definir per defaut…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "D">
-<!ENTITY isDefault.label                  "&brandShortName; es actualament vòstre navigador per defaut">
-<!ENTITY isNotDefault.label               "&brandShortName; es pas vòstre navigador per defaut">
+<!ENTITY isDefault.label                  "&brandShortName; es actualament vòstre navegador per defaut">
+<!ENTITY isNotDefault.label               "&brandShortName; es pas vòstre navegador per defaut">
 
 <!ENTITY separateProfileMode.label        "Autorizar &brandShortName; e Firefox a s'executar a l’encòp">
 <!ENTITY useFirefoxSync.label             "Astúcia : aquò utiliza de perfils destriats. Utilizatz Sync per partejar de donadas entre eles.">
