@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Valyti duomenis">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY window.description           "Išvalius visus slapukus bei svetainių duomenis, kuriuos saugo „&brandShortName;“, jūs galite būti atjungti nuo svetainių, o turinys darbui neprisijungus – pašalintas. Podėlio duomenų išvalymas neturės įtakos jūsų prisijungimams.">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "Slapukai ir svetainių duomenys">
+<!ENTITY clearSiteData.accesskey      "s">
+<!ENTITY clearSiteData.description    "Išvalius jūs galite būti atjungti nuo svetainių">
+
+<!ENTITY clearCache.label             "Saityno podėlis">
+<!ENTITY clearCache.accesskey         "S">
+<!ENTITY clearCache.description       "Svetainėms reikės iš naujo įkelti paveikslus ir duomenis">
+
+<!ENTITY button.cancel.label          "Atsisakyti">
+<!ENTITY button.cancel.accesskey      "A">
+<!ENTITY button.clear.label           "Išvalyti">
+<!ENTITY button.clear.accesskey       "v">
