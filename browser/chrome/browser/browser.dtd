@@ -231,10 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tejto stránke ste zakázali prístup v vášmu mikrofónu.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tejto stránke ste zakázali zdieľanie vašej obrazovky.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tejto stránke ste zakázali zisťovať vašu polohu.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tejto stránke ste zakázali ukladať údaje do vášho počítača.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tejto stránke ste zakázali zobrazovať upozornenia.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tejto stránke ste zakázali ukladanie údajov do trvalého úložiska.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Pre túto stránku ste zablokovali vyskakovacie okná.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tejto stránke ste zakázali prístup k údajom canvasu.">
@@ -303,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "o">
 <!ENTITY newPrivateWindow.label     "Nové okno v režime Súkromné prehliadanie">
 <!ENTITY newPrivateWindow.accesskey "k">
-<!ENTITY newNonRemoteWindow.label   "Nové okno v režime Non-e10s">
 
 <!ENTITY editMenu.label         "Upraviť">
 <!ENTITY editMenu.accesskey       "U">
@@ -358,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Zobraziť celú históriu">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Prispôsobiť">
-<!ENTITY appMenuCustomize.tooltip "Umožní prispôsobiť ponuku a panely s nástrojmi">
-<!ENTITY appMenuCustomizeExit.label "Ukončiť prispôsobenie">
-<!ENTITY appMenuCustomizeExit.tooltip "Ukončí režim prispôsobenia">
-
 <!ENTITY appMenuHistory.showAll.label "Zobraziť celú históriu">
 <!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnoviť poslednú reláciu">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobraziť bočný panel História">
 <!ENTITY appMenuHistory.recentHistory.label "Nedávna história">
 <!ENTITY appMenuHelp.label "Pomocník">
-<!ENTITY appMenuHelp.tooltip "Otvorí ponuku Pomocník">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizované karty">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Nemáte žiadne synchronizované karty… zatiaľ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastavenia synchronizácie">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otvoriť nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Váš účet musí byť overený.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
@@ -444,14 +436,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšírenie:">
 <!ENTITY urlbar.switchToTab.label     "Prejsť na kartu:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Chcete vylepšiť vyhľadávanie zahrnutím návrhov z vyhľadávacích modulov?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ďalšie informácie…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "a">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nie">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Áno">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "o">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
@@ -730,8 +714,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Základný štýl stránky">
 <!ENTITY pageStylePersistentOnly.accesskey "Z">
 
-<!ENTITY pageReportIcon.tooltip            "Zmeniť nastavenie blokovania vyskakovacích okien pre túto stránku">
-
 <!ENTITY allowPopups.accesskey "o">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Synchronizácia">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Presuňte svoje obľúbené položky na panel nástrojov alebo do rozširujúcej ponuky.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Chcete ďalšie nástroje?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Vyberte si z tisícok doplnkov">
 <!ENTITY customizeMode.restoreDefaults "Obnoviť predvolené">
 <!ENTITY customizeMode.done "Hotovo">
 <!ENTITY customizeMode.titlebar "Panel s titulkom okna">
@@ -877,7 +857,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "S">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Získať ďalšie témy">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
-<!ENTITY customizeMode.emptyOverflowList.description "Sem môžete presunúť položky, ktoré chcete mať poruke, ale nie priamo v paneli nástrojov…">
 <!ENTITY customizeMode.overflowList.title2 "Rozširujúca ponuka">
 <!ENTITY customizeMode.overflowList.description "Sem môžete presunúť položky, ktoré chcete mať poruke, ale nie priamo v paneli nástrojov…">
 <!ENTITY customizeMode.uidensity "Hustota">
@@ -1008,7 +987,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Akcie stránky">
 <!ENTITY pageAction.addToUrlbar.label "Pridať do panela s adresou">
 <!ENTITY pageAction.removeFromUrlbar.label "Odstrániť z panela s adresou">
-
 <!ENTITY pageAction.allowInUrlbar.label "Zobraziť v paneli s adresou">
 <!ENTITY pageAction.disallowInUrlbar.label "Nezobrazovať v paneli s adresou">
 <!ENTITY pageAction.manageExtension.label "Správa rozšírenia…">
@@ -1023,3 +1001,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Funkcie pre zjednodušenie ovládania povolené">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Spravujte svoje doplnky kliknutím na <image class='addon-addon-icon'/> v ponuke <image class='addon-toolbar-icon'/>.">
