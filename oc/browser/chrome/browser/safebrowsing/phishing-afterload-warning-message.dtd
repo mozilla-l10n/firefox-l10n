@@ -32,7 +32,7 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Aqueste site pòt conténer de programas dangierós">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; a blocat aquesta pagina perque poiriá vos far installar de programas capables de nòser vòstra experiéncia de navigacion(per exemple en cambiar vòstra pagina d’acuèlh o n’ajustar de publicitat suls sites que visitatz).">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; a blocat aquesta pagina perque poiriá vos far installar de programas capables de nòser vòstra experiéncia de navegacion(per exemple en cambiar vòstra pagina d’acuèlh o n’ajustar de publicitat suls sites que visitatz).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
