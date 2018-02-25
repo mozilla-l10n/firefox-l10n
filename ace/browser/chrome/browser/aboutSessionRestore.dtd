@@ -2,16 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY restorepage.tabtitle       "Peuriwang Sesi">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
+<!ENTITY restorepage.hideTabs       "Peusom Tab Seugolomjih">
+<!ENTITY restorepage.showTabs       "Kalön Tab Seugolomjih">
 
+<!ENTITY restorepage.tryagainButton2 "Peuriwang Sesi">
 <!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Mula Sesi Barô">
 <!ENTITY restorepage.close.access2   "N">
 
+<!ENTITY restorepage.restoreHeader  "Peuriwang">
 <!ENTITY restorepage.listHeader     "Tingkap ngon Tab">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Tingkap &#37;S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
@@ -24,6 +31,7 @@
 
 <!ENTITY welcomeback2.pageTitle     "Meuhasé!">
 
+<!ENTITY welcomeback2.restoreAll.label  "Peuriwang mandum tingkap &amp; tab">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
@@ -32,5 +40,6 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 
