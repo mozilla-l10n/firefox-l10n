@@ -21,3 +21,5 @@
 <!ENTITY     removingSelected.description  "Menghapus data situs juga akan menghapus kuki terkait dan konten web luring. Ini memungkinkan Anda keluar dari situs web. Yakin ingin membuat perubahan ini?">
 <!ENTITY     siteTree2.label               "Kuki situs berikut akan dihapus">
 <!ENTITY     removingDialog1.title         "Menghapus Kuki dan Data Situs">
+<!ENTITY     removingSelected1.description "Menghapus kuki dan data situs mungkin mengeluarkan Anda dari situs web. Yakin ingin melakukannya?">
+<!ENTITY     siteTree3.label               "Kuki dan data situs untuk situs web berikut ini akan dihapus">
