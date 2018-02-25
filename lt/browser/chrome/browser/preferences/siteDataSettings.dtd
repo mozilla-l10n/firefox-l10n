@@ -21,5 +21,5 @@
 <!ENTITY     removingSelected.description  "Šalinant svetainių duomenis taip pat bus pašalinti susiję slapukai ir turinys darbui neprisijungus. Dėl to galite būti atjungti iš svetainių. Ar tikrai norite atlikti pakeitimus?">
 <!ENTITY     siteTree2.label               "Bus pašalinti šie svetainių slapukai">
 <!ENTITY     removingDialog1.title         "Šalinami slapukai ir svetainių duomenys">
-<!ENTITY     removingSelected1.description "Pašalinus slapukus ir svetainių duomenis galite būti atjungti nuo svetainių. Ar tikrai norite atlikti pakeitimus?">
+<!ENTITY     removingSelected1.description "Pašalinus slapukus ir svetainių duomenis galite būti atjungti iš svetainių. Ar tikrai norite atlikti pakeitimus?">
 <!ENTITY     siteTree3.label               "Šių svetainių slapukai ir susiję duomenys bus pašalinti">
