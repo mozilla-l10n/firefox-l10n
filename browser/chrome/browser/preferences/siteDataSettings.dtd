@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Állapot">
 <!ENTITY     cookiesCol.label              "Sütik">
 <!ENTITY     usageCol.label                "Tárhely">
+<!ENTITY     lastAccessedCol.label                "Utoljára használt">
 <!ENTITY     searchTextboxPlaceHolder             "Weboldalak keresése">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Kijelölt eltávolítása">

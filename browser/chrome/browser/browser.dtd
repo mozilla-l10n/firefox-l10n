@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "m">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Bejelentkezés a &syncBrand.shortName.label;be">
 <!ENTITY fxaSignedIn.tooltip "A &syncBrand.shortName.label; beállításainak megnyitása">
 <!ENTITY fxaSignInError.label "Újracsatlakozás a &syncBrand.shortName.label;hez">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Oldalfordítás kezelése">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM-es szoftver használatának kezelése">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI panel megnyitása">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Blokkolta a kamerát ezen az oldalon.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Blokkolta a mikrofont ezen az oldalon.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Blokkolta a képernyőmegosztást ezen az oldalon.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokkolta a felugró ablakokat ezen az oldalon.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokkolta a vászonadatok kinyerését ezen az oldalon.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Blokkolta a MIDI elérést ezen az oldalon.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Előzmények megjelenítése">
 

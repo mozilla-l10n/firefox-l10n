@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Harmadik féltől származó sütik elfogadása">
 <!ENTITY  acceptThirdParty2.pre.accesskey "H">
+
+<!ENTITY  acceptCookies3.label          "Sütik és oldaladatok elfogadása a webhelyektől">
+<!ENTITY  acceptCookies3.accesskey      "e">
+
+<!ENTITY  blockCookies.label            "Sütik és oldaladatok blokkolása (a weboldalak hibáját okozhatja)">
+<!ENTITY  blockCookies.accesskey        "b">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Harmadik féltől származó sütik és oldaladatok elfogadása">
+<!ENTITY  acceptThirdParty3.pre.accesskey "f">
 <!ENTITY  acceptThirdParty.always.label   "Mindig">
 <!ENTITY  acceptThirdParty.never.label    "Soha">
 <!ENTITY  acceptThirdParty.visited.label  "Meglátogatottól">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Lehetősége van ">
 <!ENTITY  dontrememberActions.clearHistory.label "minden előzmény törlésére">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Előzmények törlése…">
+<!ENTITY  clearHistoryButton.accesskey   "l">
 
 <!ENTITY  privateBrowsingPermanent2.label "Mindig a privát böngészési módot használja">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">

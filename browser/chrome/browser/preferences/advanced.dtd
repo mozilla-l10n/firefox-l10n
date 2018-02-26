@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Arra törekszünk, hogy választást biztosítsunk, és csak azt gyűjtsük, amire szükségünk a van a &brandShortName; fejlesztéséhez, mindenki számára. Mindig engedélyt kérünk, mielőtt személyes információkat fogadunk.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Adatvédelmi nyilatkozat">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Engedélyezés, hogy a &brandShortName; hibajelentéseket küldhessen a Mozillának">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "h">
+
 <!ENTITY collectBrowserErrors.label          "Engedélyezi a &brandShortName; számára, hogy böngésző hibajelentéseket (köztük hibaüzeneteket) küldjön a Mozilla számára">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "További tudnivalók">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Engedélyezés, hogy a &brandShortName; hibajelentéseket küldhessen a Mozillának">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "h">
+<!ENTITY sendBackloggedCrashReports.label  "A &brandShortName; a háttérben küldhet összeomlási jelentéseket az Ön nevében">
+<!ENTITY sendBackloggedCrashReports.accesskey "j">
 <!ENTITY crashReporterLearnMore.label    "További tudnivalók">
 
 <!ENTITY networkTab.label                "Hálózat">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Oldal adatai">
 <!ENTITY clearSiteData.label             "Minden adat törlése">
 <!ENTITY clearSiteData.accesskey         "d">
+<!ENTITY siteData1.label                 "Sütik és oldaladatok">
+<!ENTITY clearSiteData1.label            "Adatok törlése…">
+<!ENTITY clearSiteData1.accesskey        "t">
 <!ENTITY siteDataSettings.label          "Beállítások…">
 <!ENTITY siteDataSettings.accesskey      "B">
 <!ENTITY siteDataLearnMoreLink.label     "További tudnivalók">
