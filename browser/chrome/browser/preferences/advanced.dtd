@@ -37,12 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Мы імкнёмся даць вам выбар і збіраць толькі тое, што патрэбна для ўсіх для выпуску і паляпшэння &brandShortName;. Мы заўсёды пытаемся дазволу, перш чым атрымаць асабістую інфармацыю.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Паведамленне аб прыватнасці">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Дазволіць &brandShortName; адпраўляць справаздачы пра падзенні ў Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "п">
+
 <!ENTITY collectBrowserErrors.label          "Дазволіць &brandShortName; адпраўляць справаздачы аб памылках браўзера (уключаючы паведамленні пра памылкі) у Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "б">
 <!ENTITY collectBrowserErrorsLearnMore.label "Падрабязней">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Дазволіць &brandShortName; адпраўляць справаздачы пра падзенні ў Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "п">
 <!ENTITY crashReporterLearnMore.label    "Даведацца больш">
 
 <!ENTITY networkTab.label                "Сетка">
@@ -61,6 +62,9 @@ available. -->
 <!ENTITY siteData.label                  "Звесткі сайта">
 <!ENTITY clearSiteData.label             "Ачысціць усе звесткі">
 <!ENTITY clearSiteData.accesskey         "з">
+<!ENTITY siteData1.label                 "Кукі і дадзеныя сайтаў">
+<!ENTITY clearSiteData1.label            "Выдаліць дадзеныя…">
+<!ENTITY clearSiteData1.accesskey        "ы">
 <!ENTITY siteDataSettings.label          "Налады…">
 <!ENTITY siteDataSettings.accesskey      "л">
 <!ENTITY siteDataLearnMoreLink.label     "Даведацца больш">
