@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "W">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Pola &syncBrand.shortName.label; přizjewić">
 <!ENTITY fxaSignedIn.tooltip "Nastajenja &syncBrand.shortName.label; wočinić">
 <!ENTITY fxaSignInError.label "Zaso z &syncBrand.shortName.label; zwjazać">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Přełožowanje strony rjadować">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Wužiwanje softwary DRM rjadować">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-wobłuk wočinić">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Sće swoju kameru za tute websydło zablokował.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Sće swój mikrofon za tute websydło zablokował.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Sće tutomu websydłu dźělenje swojeje wobrazowki zakazał.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Sće wuskakowace wokna za tute websydło zablokował.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Sće přistup ke canvasowym datam za tute websydło zablokował.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Sće přistup na MIDI za tute websydło zablokował.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazać">
 
