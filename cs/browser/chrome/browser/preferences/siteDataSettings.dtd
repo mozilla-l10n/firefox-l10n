@@ -11,7 +11,7 @@
 <!ENTITY     usageCol.label                "Úložiště">
 <!ENTITY     searchTextboxPlaceHolder             "Hledat">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "H">
-<!ENTITY     removeSelected.label          "Odebrat vybrané">
+<!ENTITY     removeSelected.label          "Odstranit vybrané">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Uložit změny">
 <!ENTITY     save.accesskey                "l">
