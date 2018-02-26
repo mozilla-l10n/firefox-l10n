@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "П">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Пријави се на &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Отвори &syncBrand.shortName.label; поставке">
 <!ENTITY fxaSignInError.label "Поново се повежи на &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Управљајте превођењем странице">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управљајте употребом DRM софтвера">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Отвори MIDI панел">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Блокирали сте камеру за овај веб сајт.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Блокирали сте микрофон за овај веб сајт.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Блокирали сте дељење екрана за овај веб сајт.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Блокирали сте искачуће прозоре за овај веб сајт.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Блокирали сте екстрактовање података слике за овај веб сајт.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Блокирали сте MIDI приступ за овај веб сајт.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историјат">
 

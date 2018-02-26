@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Прихватај колачиће од трећих лица">
 <!ENTITY  acceptThirdParty2.pre.accesskey "а">
+
+<!ENTITY  acceptCookies3.label          "Прихватај колачиће и податке веб сајтова">
+<!ENTITY  acceptCookies3.accesskey      "П">
+
+<!ENTITY  blockCookies.label            "Блокирај колачиће и податке сајта (може срушити веб сајт)">
+<!ENTITY  blockCookies.accesskey        "Б">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Прихватај колачиће и податке од трећих лица">
+<!ENTITY  acceptThirdParty3.pre.accesskey "е">
 <!ENTITY  acceptThirdParty.always.label   "Увек">
 <!ENTITY  acceptThirdParty.never.label    "Никад">
 <!ENTITY  acceptThirdParty.visited.label  "Од посећених">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Можда такође желите да ">
 <!ENTITY  dontrememberActions.clearHistory.label "обришете тренутни историјат">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Обриши историјат…">
+<!ENTITY  clearHistoryButton.accesskey   "с">
 
 <!ENTITY  privateBrowsingPermanent2.label "Увек користи режим приватног прегледања">
 <!ENTITY  privateBrowsingPermanent2.accesskey "в">
