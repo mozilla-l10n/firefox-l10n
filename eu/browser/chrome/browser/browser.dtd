@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Orriaren informazioa">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Diseinuaren araztailea">
+<!ENTITY ldbCmd.accesskey "D">
 <!ENTITY mirrorTabCmd.label "Ispilatu fitxa">
 <!ENTITY mirrorTabCmd.accesskey "I">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -125,6 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Erakutsi fitxa guztiak">
 <!ENTITY showAllTabsCmd.accesskey "z">
 <!ENTITY toggleReaderMode.key "R">
+
 
 <!ENTITY fxaSignIn.label "Hasi saioa &syncBrand.shortName.label;(e)n">
 <!ENTITY fxaSignedIn.tooltip "Ireki &syncBrand.shortName.label; hobespenak">
@@ -227,17 +230,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kudeatu orriaren itzulpena">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kudeatu DRM softwarearen erabilpena">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Kamera blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Mikrofonoa blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Pantaila partekatzea blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Kokalekuaren informazioa blokeatuta daukazu webgune honetarako.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Datuen biltegiratzea blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jakinarazpenak blokeatuta dauzkazu webgune honetarako.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "Popup leihoak blokeatuta dauzkazu webgune honetarako.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Canvas-eko datuen erauzketa blokeatuta daukazu webgune honetarako.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
 
@@ -303,7 +306,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "L">
 <!ENTITY newPrivateWindow.label     "Leiho pribatu berria">
 <!ENTITY newPrivateWindow.accesskey "h">
-<!ENTITY newNonRemoteWindow.label   "E10s ez den leiho berria">
 
 <!ENTITY editMenu.label         "Editatu">
 <!ENTITY editMenu.accesskey       "E">
@@ -358,18 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Erakutsi historia guztia">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Pertsonalizatu">
-<!ENTITY appMenuCustomize.tooltip "Pertsonalizatu menua eta tresna-barrak">
-<!ENTITY appMenuCustomizeExit.label "Irten pertsonalizatzetik">
-<!ENTITY appMenuCustomizeExit.tooltip "Amaitu pertsonalizatzen">
-
 <!ENTITY appMenuHistory.showAll.label "Erakutsi historia guztia">
 <!ENTITY appMenuHistory.clearRecent.label "Garbitu azken historia…">
 <!ENTITY appMenuHistory.restoreSession.label "Berreskuratu aurreko saioa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ikusi historiaren alboko barra">
 <!ENTITY appMenuHistory.recentHistory.label "Azken historia">
 <!ENTITY appMenuHelp.label "Laguntza">
-<!ENTITY appMenuHelp.tooltip "Ireki laguntza-menua">
 
 <!ENTITY appMenuRemoteTabs.label "Sinkronizatutako fitxak">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -392,6 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Sinkronizatutako fitxarik ez... momentuz!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Beste gailuetako zure fitxak hemen ikusi nahi dituzu?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync hobespenak">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ireki Sinkronizazio-hobespenak">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Hasi saioa zure beste gailuetako fitxak ikusteko.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Zure kontua egiaztatu egin behar da.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
@@ -444,14 +441,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Hedapena:">
 <!ENTITY urlbar.switchToTab.label     "Aldatu fitxara:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Bilaketen esperientzia hobetu nahi duzu iradokizunekin?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Argibide gehiago…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "A">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Ez">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "E">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Bai">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "B">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Aholkua:">
@@ -730,8 +719,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Oinarrizko orri-estiloa">
 <!ENTITY pageStylePersistentOnly.accesskey "O">
 
-<!ENTITY pageReportIcon.tooltip            "Aldatu popup blokeatzailearen ezarpenak webgune honentzat">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -863,8 +850,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Arrastatu zure elementu gogokoenak tresna-barrara edo gainezkatzearen menura.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Tresna gehiago nahi dituzu?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Aukeratu milaka gehigarriren artetik">
 <!ENTITY customizeMode.restoreDefaults "Berrezarri lehenetsiak">
 <!ENTITY customizeMode.done "Eginda">
 <!ENTITY customizeMode.titlebar "Titulu-barra">
@@ -877,7 +862,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Lortu itxura gehiago">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
-<!ENTITY customizeMode.emptyOverflowList.description "Elementuak eskura izan baina tresna-barratik kanpo mantentzeko, arrasta eta jaregin itzazu hona…">
 <!ENTITY customizeMode.overflowList.title2 "Gainezkatzearen menua">
 <!ENTITY customizeMode.overflowList.description "Elementuak eskura izan baina tresna-barratik kanpo mantentzeko, arrasta eta jaregin itzazu hona…">
 <!ENTITY customizeMode.uidensity "Dentsitatea">
@@ -1008,7 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Orri-ekintzak">
 <!ENTITY pageAction.addToUrlbar.label "Gehitu helbide-barran">
 <!ENTITY pageAction.removeFromUrlbar.label "Kendu helbide-barratik">
-
 <!ENTITY pageAction.allowInUrlbar.label "Erakutsi helbide-barran">
 <!ENTITY pageAction.disallowInUrlbar.label "Ez erakutsi helbide-barran">
 <!ENTITY pageAction.manageExtension.label "Kudeatu hedapena…">
@@ -1023,3 +1006,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Erabilgarritasun-eginbideak gaituta">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Kudeatu zure gehigarriak <image class='addon-toolbar-icon'/> menuko <image class='addon-addon-icon'/> ikonoan klik eginez.">
