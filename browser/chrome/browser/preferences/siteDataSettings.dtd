@@ -4,6 +4,7 @@
 
 <!ENTITY     window.title                  "అమరికలు - సైటు డేటా">
 
+<!ENTITY     window1.title                 "అమరికలు - కుకీలు, సైటు డేటా">
 <!ENTITY     hostCol.label                 "సైటు">
 <!ENTITY     statusCol.label               "స్థితి">
 <!ENTITY     cookiesCol.label              "కుకీలు">
@@ -18,3 +19,4 @@
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "సైటు డేటాను తొలగిస్తున్నాం">
 <!ENTITY     siteTree2.label               "ఈ క్రింది వెబ్‌సైట్ల కుకీలు తొలగించబడతాయి">
+<!ENTITY     removingDialog1.title         "కుకీలనూ సైటు డేటానీ తీసేస్తున్నాం">
