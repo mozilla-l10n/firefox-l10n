@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "ყ">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; - შესვლა">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label;-ის პარამეტრების გახსნა">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; - ხელახლა დაკავშირება">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "გვერდის თარგმნის მართვა">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI დაფის გახსნა">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "ამ საიტისთვის თქვენი კამერის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ამ საიტისთვის თქვენი მიკროფონის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ამ საიტისთვის თქვენი ეკრანის გაზიარების უფლება შეზღუდული გაქვთ.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "ამ საიტზე, ამომხტომი ფირნიშები შეზღუდული გაქვთ.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "ამ საიტისთვის, გრაფიკული მონაცემების გამოსახვის უფლება შეზღუდული გაქვთ.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ისტორიის ჩვენება">
 
