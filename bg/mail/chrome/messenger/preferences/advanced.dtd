@@ -25,7 +25,7 @@
 <!ENTITY useSmoothScrolling.label      "Плавно плъзгане">
 <!ENTITY useSmoothScrolling.accesskey  "п">
 
-<!ENTITY systemIntegration.label       "Системно интегриране">
+<!ENTITY systemIntegration.label       "Съчетаване с операционната система">
 <!ENTITY alwaysCheckDefault.label      "Проверяване дали &brandShortName; е стандартният пощенски клиент">
 <!ENTITY alwaysCheckDefault.accesskey  "В">
 <!ENTITY searchIntegration.label       "Разрешаване на &searchIntegration.engineName; да търси съобщения">
