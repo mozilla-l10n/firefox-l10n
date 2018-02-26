@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     cookiesCol.label              "Кукі">
 <!ENTITY     usageCol.label                "Сховішча">
+<!ENTITY     lastAccessedCol.label                "Апошняе выкарыстанне">
 <!ENTITY     searchTextboxPlaceHolder             "Пошук вэб-сайтаў">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "П">
 <!ENTITY     removeSelected.label          "Выдаліць абранае">
