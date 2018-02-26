@@ -35,7 +35,7 @@
 <!ENTITY importItems.label              "İçe aktarılacak öğeleri seçin:">
 
 <!ENTITY migrating.title                "İçe aktarılıyor…">
-<!ENTITY migrating.label                "Aşağıdaki öğeler başarılı bir şekilde içe aktarıldı…">
+<!ENTITY migrating.label                "Aşağıdaki öğeler şu anda içe aktarılıyor…">
 
 <!ENTITY selectProfile.title            "Profil seçin">
 <!ENTITY selectProfile.label            "Aşağıdaki profiller buradan içe aktarılabilir:">
