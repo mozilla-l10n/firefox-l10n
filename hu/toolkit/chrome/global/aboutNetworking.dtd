@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Elküldött elemek">
 <!ENTITY aboutNetworking.received              "Beérkezés">
 <!ENTITY aboutNetworking.family                "Család">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Címek">
 <!ENTITY aboutNetworking.expires               "Lejár (másodperc)">
 <!ENTITY aboutNetworking.messagesSent          "Küldött üzenetek">
