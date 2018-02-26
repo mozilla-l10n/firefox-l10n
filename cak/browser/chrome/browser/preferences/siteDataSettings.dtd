@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Rub'eyal">
 <!ENTITY     cookiesCol.label              "Taq kaxlanwey">
 <!ENTITY     usageCol.label                "Yakoj">
+<!ENTITY     lastAccessedCol.label                "Ruk'isib'äl Mul Okisan">
 <!ENTITY     searchTextboxPlaceHolder             "Kekanöx taq ruxaq k'amaya'l">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "K">
 <!ENTITY     removeSelected.label          "Tiyuj ri cha'on">
