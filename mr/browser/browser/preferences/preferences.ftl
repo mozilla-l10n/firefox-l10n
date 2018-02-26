@@ -13,6 +13,14 @@ pref-page =
             [windows] पर्याय
            *[other] प्राधान्यक्रम
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input =
+    .style = width: 15.4em
 pane-general-title = सर्वसाधारण
 category-general =
     .tooltiptext = { pane-general-title }
