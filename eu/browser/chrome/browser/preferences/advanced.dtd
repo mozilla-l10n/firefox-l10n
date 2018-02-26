@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "B">
 <!ENTITY collectBrowserErrorsLearnMore.label "Argibide gehiago">
 
+<!ENTITY sendBackloggedCrashReports.label  "Baimendu &brandShortName;(r)i atzeratutako hutsegite-txostenak zuregatik bidaltzea">
+<!ENTITY sendBackloggedCrashReports.accesskey "h">
 <!ENTITY crashReporterLearnMore.label    "Argibide gehiago">
 
 <!ENTITY networkTab.label                "Sarea">
@@ -62,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Gunearen datuak">
 <!ENTITY clearSiteData.label             "Garbitu datu guztiak">
 <!ENTITY clearSiteData.accesskey         "G">
+<!ENTITY siteData1.label                 "Cookieak eta guneetako datuak">
+<!ENTITY clearSiteData1.label            "Garbitu datuak…">
+<!ENTITY clearSiteData1.accesskey        "G">
 <!ENTITY siteDataSettings.label          "Ezarpenak…">
 <!ENTITY siteDataSettings.accesskey      "E">
 <!ENTITY siteDataLearnMoreLink.label     "Argibide gehiago">

@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Bidalitakoak">
 <!ENTITY aboutNetworking.received              "Jasotakoak">
 <!ENTITY aboutNetworking.family                "Familia">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Helbideak">
 <!ENTITY aboutNetworking.expires               "Iraungitzea (segundoak)">
 <!ENTITY aboutNetworking.messagesSent          "Bidalitako mezuak">
