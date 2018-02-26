@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     window.title                  "Innstillinger - sidedata">
+<!ENTITY     window.title                  "Innstillinger - nettstedsdata">
 
-<!ENTITY     window1.title                 "Innstillinger - infokapsler og nettsidedata">
+<!ENTITY     window1.title                 "Innstillinger - infokapsler og nettstedsdata">
 <!ENTITY     hostCol.label                 "Nettsted">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Infokapsler">
@@ -18,9 +18,9 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Avbryt">
 <!ENTITY     cancel.accesskey              "A">
-<!ENTITY     removingDialog.title          "Fjerner nettsidedata">
-<!ENTITY     removingSelected.description  "Hvis du fjerner nettsteddata, fjerner du også relaterte infokapsler og frakoblet nettinnhold. Dette kan logge deg ut av nettsider. Er du sikker på at du vil gjøre endringene?">
+<!ENTITY     removingDialog.title          "Fjerner nettstedsdata">
+<!ENTITY     removingSelected.description  "Hvis du fjerner nettstedsdata, fjerner du også relaterte infokapsler og frakoblet nettinnhold. Dette kan logge deg ut av nettsider. Er du sikker på at du vil gjøre endringene?">
 <!ENTITY     siteTree2.label               "Følgende nettstedsinfokapsler fjernes">
-<!ENTITY     removingDialog1.title         "Fjerner infokapsler og nettsidedata">
-<!ENTITY     removingSelected1.description "Fjerning av infokapsler og nettsidedata kan logge deg ut av nettsider. Er du sikker på at du vil gjøre endringene?">
-<!ENTITY     siteTree3.label               "Infokapsler og nettsidedata fra følgende nettsteder vil bli fjernet">
+<!ENTITY     removingDialog1.title         "Fjerner infokapsler og nettstedsdata">
+<!ENTITY     removingSelected1.description "Fjerning av infokapsler og nettstedsdata kan logge deg ut av nettsider. Er du sikker på at du vil gjøre endringene?">
+<!ENTITY     siteTree3.label               "Infokapsler og nettstedsdata fra følgende nettsteder vil bli fjernet">

@@ -64,7 +64,7 @@ available. -->
 <!ENTITY siteData.label                  "Nettstedsdata">
 <!ENTITY clearSiteData.label             "Fjern alle data">
 <!ENTITY clearSiteData.accesskey         "l">
-<!ENTITY siteData1.label                 "Infokapsler og nettsidedata">
+<!ENTITY siteData1.label                 "Infokapsler og nettstedsdata">
 <!ENTITY clearSiteData1.label            "Tøm data…">
 <!ENTITY clearSiteData1.accesskey        "a">
 <!ENTITY siteDataSettings.label          "Innstillinger …">
