@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "We strive to provide you with choices and collect only what we need to provide and improve &brandShortName; for everyone. We always ask permission before receiving personal information.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Privatuma pīzeime">
 
+<!ENTITY collectBrowserErrors.label          "Atļaut &brandShortName; syuteit porlyuka klaidu atskaites (ari klaidu ziņojumus) Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Vaira">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "Ļaut &brandShortName; syuteit avarejis zinuojumus Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Uzzynojit vairuok">

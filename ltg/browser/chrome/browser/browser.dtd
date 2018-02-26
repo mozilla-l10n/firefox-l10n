@@ -111,6 +111,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informaceja par lopu">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Maketa atklaidōtōjs">
+<!ENTITY ldbCmd.accesskey "M">
 <!ENTITY mirrorTabCmd.label "Mirror Tab">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -383,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "No synced tabs… yet!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Grybot redzeit cilnes nu cytom sovom īreičom?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinhronizacejis īstatiejumi">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Attaiseit sinhronizacejis īstatiejumus">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pīraksteitīs, kab radzāti ite cilnes nu itom īreičom.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tovam kontam jōbyun apstyprynōtam.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pīsasliegt Sync">
@@ -1000,3 +1003,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Pīejameibas reiki daslāgti">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Prvoldi sovus paplašinojumus damīdzūt <image class='addon-addon-icon'/> <image class='addon-toolbar-icon'/> izvieļnī.">
