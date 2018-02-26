@@ -85,7 +85,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Преименуване…">
 <!ENTITY renameAttachmentCmd.accesskey "П">
-<!ENTITY reorderAttachmentsCmd.label "Сортиране на прикачените…">
+<!ENTITY reorderAttachmentsCmd.label "Подреждане на прикачените…">
 <!ENTITY reorderAttachmentsCmd.accesskey "с">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Избиране на всичко">
