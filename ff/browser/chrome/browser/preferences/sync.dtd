@@ -62,18 +62,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Tiiɗno seŋo ngam naattude">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "A seŋaaki.">
-<!ENTITY signIn.label                "Seŋao">
-<!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Waylu natal heftinirde">
-<!ENTITY verifiedManage.label        "Toppito konte">
-<!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect3.label           "Seŋtondir…">
-<!ENTITY disconnect3.accesskey       "d">
+<!ENTITY notSignedIn.label            "A seŋaaki.">
+<!ENTITY signIn.label                 "Seŋao">
+<!ENTITY signIn.accesskey             "g">
+<!ENTITY profilePicture.tooltip       "Waylu natal heftinirde">
+<!ENTITY verifiedManage.label         "Toppito konte">
+<!ENTITY verifiedManage.accesskey     "o">
+<!ENTITY disconnect3.label            "Seŋtondir…">
+<!ENTITY disconnect3.accesskey        "d">
 <!ENTITY verify.label                "Ƴeewto Iimeel">
 <!ENTITY verify.accesskey            "w">
 <!ENTITY forget.label                "Yejjit oo Iimeel">
 <!ENTITY forget.accesskey            "Y">
+
+<!ENTITY resendVerification.label     "Neldit Ƴeewtagol">
+<!ENTITY resendVerification.accesskey "d">
+<!ENTITY cancelSetup.label            "Haaytu Teeltagol">
+<!ENTITY cancelSetup.accesskey        "p">
 
 <!ENTITY signedOut.caption            "Nawor Geesa Maa">
 <!ENTITY signedOut.description        "Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.">
@@ -101,3 +106,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
 <!ENTITY mobilePromo3.end              " ngam syncude kaɓirgol cinndol maa.">
+
+<!ENTITY mobilepromo.singledevice      "Seŋ kaɓirgel goɗngel">
+<!ENTITY mobilepromo.multidevice       "Toppito kaɓirɗe">
