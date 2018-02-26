@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Se connectar a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Dobrir las preferénciias del &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnectar a &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerir la traduccion de paginas">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerir l’utilizacion dels logicials DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Dobrir lo panèl MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Avètz blocat la camèra per aqueste site.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Avètz blocat lo microfòn per aqueste site.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Avètz empachat aquel site de partejar vòstre ecran.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Avètz blocat la fenèstras surgentas per aqueste site.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Avètz empachat aqueste site de traire d’informacions de canvas.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Avètz blocat l’accès MIDI per aqueste site web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
 
