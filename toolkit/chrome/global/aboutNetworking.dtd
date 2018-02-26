@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Dikirim">
 <!ENTITY aboutNetworking.received              "Diterima">
 <!ENTITY aboutNetworking.family                "Keluarga">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Alamat">
 <!ENTITY aboutNetworking.expires               "Hangus (Detik)">
 <!ENTITY aboutNetworking.messagesSent          "Pesan Terkirim">
