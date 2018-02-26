@@ -22,6 +22,7 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "అభిరుచులు">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.title         "మీరు మార్చుకున్న సాధారణ, అంతరంగికత, భద్రతా అమరికలు">
 <!ENTITY engine.addons.label        "పొడిగింతలు">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "చిరునామాలు">
