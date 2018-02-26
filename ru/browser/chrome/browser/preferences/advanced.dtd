@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Мы стремимся предоставить вам выбор и собирать только то, что нам нужно, для выпуска и улучшения &brandShortName; для всех и каждого. Мы всегда спрашиваем разрешения перед получением личной информации.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Уведомление о приватности">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Разрешить &brandShortName; отправлять сообщения о падениях в Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "ш">
+
 <!ENTITY collectBrowserErrors.label          "Разрешить &brandShortName; отправлять сообщения об ошибках браузера (в том числе текст ошибок) в Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "з">
 <!ENTITY collectBrowserErrorsLearnMore.label "Подробнее">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Разрешить &brandShortName; отправлять сообщения о падениях в Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "ш">
+<!ENTITY sendBackloggedCrashReports.label  "Разрешить &brandShortName; отправлять от вашего имени накопившиеся сообщения о падении">
+<!ENTITY sendBackloggedCrashReports.accesskey "ш">
 <!ENTITY crashReporterLearnMore.label    "Подробнее">
 
 <!ENTITY networkTab.label                "Сеть">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Данные сайтов">
 <!ENTITY clearSiteData.label             "Удалить все данные">
 <!ENTITY clearSiteData.accesskey         "а">
+<!ENTITY siteData1.label                 "Куки и данные сайтов">
+<!ENTITY clearSiteData1.label            "Удалить данные…">
+<!ENTITY clearSiteData1.accesskey        "а">
 <!ENTITY siteDataSettings.label          "Параметры…">
 <!ENTITY siteDataSettings.accesskey      "м">
 <!ENTITY siteDataLearnMoreLink.label     "Подробнее">

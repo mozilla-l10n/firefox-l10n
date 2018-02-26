@@ -51,6 +51,13 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Принимать куки со сторонних веб-сайтов">
 <!ENTITY  acceptThirdParty2.pre.accesskey "н">
+
+<!ENTITY  acceptCookies3.label          "Принимать куки и данные сайтов с веб-сайтов">
+<!ENTITY  acceptCookies3.accesskey      "у">
+
+
+<!ENTITY  acceptThirdParty3.pre.label     "Принимать куки и данные сайтов со сторонних веб-сайтов">
+<!ENTITY  acceptThirdParty3.pre.accesskey "н">
 <!ENTITY  acceptThirdParty.always.label   "Всегда">
 <!ENTITY  acceptThirdParty.never.label    "Никогда">
 <!ENTITY  acceptThirdParty.visited.label  "С посещённых">
@@ -92,6 +99,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Возможно, вы также захотите  ">
 <!ENTITY  dontrememberActions.clearHistory.label "удалить всю текущую историю">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Удалить историю…">
+<!ENTITY  clearHistoryButton.accesskey   "л">
 
 <!ENTITY  privateBrowsingPermanent2.label "Всегда работать в режиме приватного просмотра">
 <!ENTITY  privateBrowsingPermanent2.accesskey "т">
