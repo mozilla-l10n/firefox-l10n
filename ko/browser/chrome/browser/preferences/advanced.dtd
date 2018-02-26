@@ -37,6 +37,10 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "&brandShortName;를 모두를 위해 제공하고 개선하기 위해서 필요한 것만 수집하고 선택권을 제공하기 위해 노력합니다. 개인 정보를 전송하기 전에 항상 허가여부를 묻습니다.">
 <!ENTITY dataCollectionPrivacyNotice.label    "개인정보 안내">
 
+<!ENTITY collectBrowserErrors.label          "&brandShortName;가 Mozilla에 브라우저 오류 보고서(오류 메시지 포함)를 보내도록 허용">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "자세히 보기">
+
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;가 Mozilla에 충돌 보고를 보내도록 허용">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "더 알아보기">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "네트워크 프록시">
 
 <!ENTITY connectionDesc.label            "&brandShortName;가 인터넷에 연결하는 방법을 선택합니다.">
+
+<!ENTITY connectionSettingsLearnMore.label "자세히 보기">
 <!ENTITY connectionSettings.label        "설정…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "캐쉬된 웹 페이지">
-
-<!ENTITY offlineStorage2.label           "오프라인 웹 페이지 및 사용자 데이터">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "사이트 데이터">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB 공간">
 <!ENTITY clearCacheNow.label             "삭제">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "지금 삭제">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "자동 캐시 크기 관리">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "검색 엔진 자동 업데이트">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "웹사이트가 오프라인 상태일 때 데이터를 저장하려하면 물어봄">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "예외…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "오프라인 사용을 위해 데이터 저장이 허용된 웹사이트">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "삭제…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "오프라인 자료 삭제">
 
 <!ENTITY certificateTab.label            "인증서">
 <!ENTITY certPersonal2.description       "서버가 인증 정보를 요구할 때">
