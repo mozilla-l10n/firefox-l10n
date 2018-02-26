@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Terima kuki pihak ketiga">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
+
+<!ENTITY  acceptCookies3.label          "Terima kuki dan data laman dari laman web">
+<!ENTITY  acceptCookies3.accesskey      "T">
+
+<!ENTITY  blockCookies.label            "Sekat kuki dan data laman (boleh menyebabkan laman web tidak lengkap)">
+<!ENTITY  blockCookies.accesskey        "S">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Terima kuki dan data laman pihak ketiga">
+<!ENTITY  acceptThirdParty3.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "Sentiasa">
 <!ENTITY  acceptThirdParty.never.label    "Jangan sesekali">
 <!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Anda mungkin juga mahu ">
 <!ENTITY  dontrememberActions.clearHistory.label "hapuskan semua sejarah layaran semasa">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Buang Sejarah…">
+<!ENTITY  clearHistoryButton.accesskey   "j">
 
 <!ENTITY  privateBrowsingPermanent2.label "Sentiasa gunakan mod pelayaran peribadi">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
