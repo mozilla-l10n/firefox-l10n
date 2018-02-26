@@ -5,10 +5,12 @@
 <!ENTITY window.title                 "Dzēst datus">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "Vysu cookies un lopu datu dziešona &brandShortName; izlūgōs tevi nu škārsteikla lopom un dzēss vysus bezsaistes datus. Keša dziešona naītekmēs tovu īlūgōšanōs informaceji.">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Cookies un lopys dati">
 <!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "Dziešona var izsaukt izlūgōšonu nu škārsteikla lopom">
 
 <!ENTITY clearCache.label             "Saglobōtais škārsteikla saturs">
 <!ENTITY clearCache.accesskey         "W">
