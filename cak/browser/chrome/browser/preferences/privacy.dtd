@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Kek'ul taq kaxlanwey kichin aj rox winaqi'">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies3.label          "Kek'ul taq kaxlanwey chuqa' kitzij ruxaq kichin ajk'amaya'l taq ruxaq">
+<!ENTITY  acceptCookies3.accesskey      "K">
+
+<!ENTITY  blockCookies.label            "Keq'at taq kaxlanewy chuqa' kitzij ruxaq (nitikïr nub'än chi yek'ojpïx ri ajk'amya'l taq ruxaq)">
+<!ENTITY  blockCookies.accesskey        "K">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Kek'ul konojel ri taq kaxlanwey kichin aj rox winäq chuqa' taq ruxaq tzij">
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Junelïk">
 <!ENTITY  acceptThirdParty.never.label    "Majub'ey">
 <!ENTITY  acceptThirdParty.visited.label  "Etz'eton">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Rik'in jub'a' chuqa' ütz natz'ët ">
 <!ENTITY  dontrememberActions.clearHistory.label "tijosq'ïx ronojel ri natab'äl">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Tiyuj el ri Natab'äl…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Junelïk tokisäx pa rub'eyal ichinan okem pa k'amaya'l">
 <!ENTITY  privateBrowsingPermanent2.accesskey "i">
