@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Egoera">
 <!ENTITY     cookiesCol.label              "Cookieak">
 <!ENTITY     usageCol.label                "Biltegiratzea">
+<!ENTITY     lastAccessedCol.label                "Azkenekoz erabilia">
 <!ENTITY     searchTextboxPlaceHolder             "Bilatu webguneak">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "B">
 <!ENTITY     removeSelected.label          "Kendu hautatutakoak">

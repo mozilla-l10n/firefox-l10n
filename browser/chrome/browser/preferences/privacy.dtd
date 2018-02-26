@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Onartu hirugarrenen cookieak">
 <!ENTITY  acceptThirdParty2.pre.accesskey "n">
+
+<!ENTITY  acceptCookies3.label          "Onartu webguneetako cookie eta datuak">
+<!ENTITY  acceptCookies3.accesskey      "O">
+
+<!ENTITY  blockCookies.label            "Blokeatu webguneetako cookie eta datuak (webguneak haustea eragin lezake)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Onartu hirugarren guneetako cookie eta datuak">
+<!ENTITY  acceptThirdParty3.pre.accesskey "h">
 <!ENTITY  acceptThirdParty.always.label   "Beti">
 <!ENTITY  acceptThirdParty.never.label    "Inoiz ez">
 <!ENTITY  acceptThirdParty.visited.label  "Bisitatutako guneetatik">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Agian ">
 <!ENTITY  dontrememberActions.clearHistory.label "uneko historia osoa garbitu">
 <!ENTITY  dontrememberActions.post.label         " nahi duzu.">
+
+<!ENTITY  clearHistoryButton.label       "Garbitu historia…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Erabili beti nabigatze pribatuko modua">
 <!ENTITY  privateBrowsingPermanent2.accesskey "a">
