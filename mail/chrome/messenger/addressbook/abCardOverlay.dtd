@@ -50,21 +50,21 @@
 
 <!ENTITY allowRemoteContent.label       "Autorizar los imatges distents.">
 <!ENTITY allowRemoteContent.accesskey   "r">
-<!ENTITY allowRemoteContent.tooltip     "Dins los messatges HTML, est possible 
-d'integrar d'imatges dempuèi de fonts distents. La dobertura d'un tal messatge dobrirà 
-una connexion cap a aquesta font extèrna. Aquò pòt permetre lo traçatge de la lectura 
-del messatge. En desmarcant aquesta casa, autorizaretz de tals imatges extèrnes 
+<!ENTITY allowRemoteContent.tooltip     "Dins los messatges HTML, est possible
+d'integrar d'imatges dempuèi de fonts distents. La dobertura d'un tal messatge dobrirà
+una connexion cap a aquesta font extèrna. Aquò pòt permetre lo traçatge de la lectura
+del messatge. En desmarcant aquesta casa, autorizaretz de tals imatges extèrnes
 dins los messatges HTML d'aqueste contacte.">
 
-<!ENTITY WorkPhone.label "Trabalh :"> 
+<!ENTITY WorkPhone.label "Trabalh :">
 <!ENTITY WorkPhone.accesskey "l">
-<!ENTITY HomePhone.label "Domicili :"> 
+<!ENTITY HomePhone.label "Domicili :">
 <!ENTITY HomePhone.accesskey "i">
-<!ENTITY FaxNumber.label "Fax :"> 
+<!ENTITY FaxNumber.label "Fax :">
 <!ENTITY FaxNumber.accesskey "x">
-<!ENTITY PagerNumber.label "Pager :"> 
+<!ENTITY PagerNumber.label "Pager :">
 <!ENTITY PagerNumber.accesskey "g">
-<!ENTITY CellularNumber.label "Portable :"> 
+<!ENTITY CellularNumber.label "Portable :">
 <!ENTITY CellularNumber.accesskey "t">
 
 <!ENTITY Home.tab                       "Privada">
@@ -83,7 +83,7 @@ dins los messatges HTML d'aqueste contacte.">
 <!ENTITY HomeCountry.accesskey "P">
 <!ENTITY HomeWebPage.label "Pagina Web :">
 <!ENTITY HomeWebPage.accesskey "e">
-<!ENTITY Birthday.label "Anniversari :">
+<!ENTITY Birthday.label "Anniversari :">
 <!ENTITY Birthday.accesskey "A">
 <!ENTITY In.label "">
 <!ENTITY Year.emptytext "Annada">
@@ -118,11 +118,11 @@ dins los messatges HTML d'aqueste contacte.">
 <!ENTITY Other.accesskey "n">
 <!ENTITY Custom1.label "Divèrs 1 :">
 <!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "Divèrs 2 :"> 
+<!ENTITY Custom2.label "Divèrs 2 :">
 <!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "Divèrs 3 :"> 
+<!ENTITY Custom3.label "Divèrs 3 :">
 <!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "Divèrs 4 :"> 
+<!ENTITY Custom4.label "Divèrs 4 :">
 <!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label                    "Nòtas :">
+<!ENTITY Notes.label                    "Nòtas :">
 <!ENTITY Notes.accesskey                "N">

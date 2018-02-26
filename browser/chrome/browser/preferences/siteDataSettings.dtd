@@ -18,5 +18,5 @@
 <!ENTITY     cancel.label                  "Anullar">
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Supression de las donadas del site">
-<!ENTITY     removingSelected.description  "Suprimir las donadas de site suprimirà tanben lo cookies e lo contengut fòra linha. Aquò poiriá vos desconnectar dels sites web. Segur que volètz far aquestes cambiaments ?">
+<!ENTITY     removingSelected.description  "Suprimir las donadas de site suprimirà tanben lo cookies e lo contengut fòra linha. Aquò poiriá vos desconnectar dels sites web. Segur que volètz far aquestes cambiaments ?">
 <!ENTITY     siteTree2.label               "Los cookies seguents seràn suprimits">

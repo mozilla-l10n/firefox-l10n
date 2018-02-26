@@ -27,12 +27,12 @@
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
-<!ENTITY welcomeback2.restoreButton  "Ane !">
+<!ENTITY welcomeback2.restoreButton  "Ane !">
 <!ENTITY welcomeback2.restoreButton.access "L">
 
-<!ENTITY welcomeback2.tabtitle      "Succès !">
+<!ENTITY welcomeback2.tabtitle      "Succès !">
 
-<!ENTITY welcomeback2.pageTitle     "Succès !">
+<!ENTITY welcomeback2.pageTitle     "Succès !">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; es prèst.">
 
 <!ENTITY welcomeback2.restoreAll.label  "Restablir totas las fenèstras e totes los onglets">

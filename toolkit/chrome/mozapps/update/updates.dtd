@@ -13,7 +13,7 @@
 <!ENTITY  manualUpdate.title              "Impossible de metre a jorn">
 <!ENTITY  manualUpdate.desc               "Una mesa a jorn de seguretat e d'estabilitat es disponibla mas avètz pas las permissions al nivèl del sistèma per la poder installar. Contactatz l'administrator del sistèma o tornatz ensajar amb un compte que a las permissions d'installar de logiciels sus aqueste ordenador.">
 <!ENTITY  manualUpdate.space.desc         "Una mesa a jorn d'estabilitat e de seguretat recomandada es disponibla, mas dispausatz pas d'un espaci de disc sufisent per l'installar.">
-<!ENTITY  manualUpdateGetMsg.label        "Podètz obténer totjorn la darrièra version de &brandShortName; sus :">
+<!ENTITY  manualUpdateGetMsg.label        "Podètz obténer totjorn la darrièra version de &brandShortName; sus :">
 
 <!ENTITY  unsupported.title               "Sistèma pas suportat">
 <!ENTITY  unsupported.label               "Vòstre &brandShortName; es pas a jorn, pasmens la version la mai recenta es pas presa en carga per vòstre sistèma. Metètz a jorn vòstre sistèma, puèi ensajatz tornarmai. Aqueste messatge s'aficharà pas mai, mas podètz">
@@ -35,19 +35,19 @@
 <!ENTITY  error.title                     "La mesa a jorn a pas capitat">
 
 <!ENTITY  error.label                     "De problèmas son estats rencontrats al moment de la verificacion, del telecargament o de l'installacion d'aquesta mesa a jorn. &brandShortName; a pas pogut èsser mes a jorn en seguida de :">
-                                           
+
 <!ENTITY  errorManual.label               "Podètz metre &brandShortName; a jorn manualament en seguissent aqueste ligam e en telecargant la darrièra version :">
-                                           
+
 <!ENTITY  errorpatching.intro             "La mesa a jorn parciala a pas pogut èsser aplicada. &brandShortName; va tornar ensajar en telecargant una mesa a jorn completa.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; capita pas de determinar se una mesa a jorn es disponibla. Asseguratz-vos que dispausatz de la darrièra version de &brandShortName; a :">
 
 <!ENTITY  finishedPage.title              "Mesa a jorn prèsta a s'installar">
-<!ENTITY  finishedPage.text               "La mesa a jorn s'installarà quand aviarètz de nòu &brandShortName;. 
+<!ENTITY  finishedPage.text               "La mesa a jorn s'installarà quand aviarètz de nòu &brandShortName;.
                                            Podètz reaviar &brandShortName; ara o contunhar de trabalhar e reaviar mai tard.">
 
 <!ENTITY  finishedBackgroundPage.text     "S'es telecargada una mesa a jorn de seguretat e d'estabilitat per &brandShortName;. Es prèsta a èsser installada.">
-<!ENTITY  finishedBackground.name         "Mesa a jorn :">
+<!ENTITY  finishedBackground.name         "Mesa a jorn :">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "La mesa a jorn s'installarà quand aviarètz de nòu &brandShortName;.
                                            Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e reaviar mai tard.">

@@ -99,7 +99,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
-<!ENTITY debuggerUI.searchPanelOperators    "Operators :">
+<!ENTITY debuggerUI.searchPanelOperators    "Operators :">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->

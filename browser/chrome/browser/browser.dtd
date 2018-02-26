@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Enviar lo ligam al periferic">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  sendToDeviceFeedback.label         "Mandat !">
+<!ENTITY  sendToDeviceFeedback.label         "Mandat !">
 <!ENTITY  sendToDeviceOfflineFeedback.label  "En renga (fòra linha)">
 <!ENTITY  moveToNewWindow.label              "Desplaçar cap a una fenèstra novèla">
 <!ENTITY  moveToNewWindow.accesskey          "n">
@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Pas cap d’onglet sincronizat pel moment.">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Volètz veire aquí los onglets dels vòstres autres periferics ?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Volètz veire aquí los onglets dels vòstres autres periferics ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferéncias de Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Dobrir las preferéncias de sincronizacion">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectatz-vos per veire una lista d'onglets dels vòstres autres periferics.">
@@ -446,9 +446,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Anar a l'onglet :">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Astúcias :">
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Astúcias :">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Obtenètz d'ajuda per vòstras recèrcas ! Trapatz l'icòna &#x1F50E; a costat de las suggestions de recèrca.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Obtenètz d'ajuda per vòstras recèrcas ! Trapatz l'icòna &#x1F50E; a costat de las suggestions de recèrca.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Modificar las opcions…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Modificar las preferéncias…">
@@ -493,7 +493,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 <!ENTITY searchFor.label              "Recercar">
-<!ENTITY searchWith.label             " amb :">
+<!ENTITY searchWith.label             " amb :">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -508,7 +508,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Recercar amb :">
+<!ENTITY searchWithHeader.label       "Recercar amb :">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -759,7 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexion securizada">
 <!ENTITY identity.connectionNotSecure "La connexion es pas securizada">
 <!ENTITY identity.connectionFile "Aquela pagina es enregistrada dins vòstre ordinador.">
-<!ENTITY identity.connectionVerified2 "Sètz connectat amb seguretat a aquel site, proprietat de :">
+<!ENTITY identity.connectionVerified2 "Sètz connectat amb seguretat a aquel site, proprietat de :">
 <!ENTITY identity.connectionInternal "Aquò es una pagina segura de &brandShortName;.">
 <!ENTITY identity.extensionPage "Aquela pagina es estada cargada d’una extension.">
 <!ENTITY identity.insecureLoginForms2 "Los identificants marcats sus aquela pagina pòdon far perilh.">
@@ -807,7 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "Onglets sincronizats">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Connectatz-vos mejan Firefox de los vòstres autres periferics per afichar lors onglets aquí.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Pas cap d’onglet sincronizat pel moment.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Volètz afichar los onglets dels vòstres autres periferics aquí ?">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Volètz afichar los onglets dels vòstres autres periferics aquí ?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Vos cal verificar vòstre compte.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Pas cap d’onglet dobèrt">
@@ -934,7 +934,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Escafar :">
+<!ENTITY panicButton.view.mainTimeframeDesc       "Escafar :">
 <!ENTITY panicButton.view.5min                    "Las cinc darrièras minutas">
 <!ENTITY panicButton.view.2hr                     "La doas darrièras oras">
 <!ENTITY panicButton.view.day                     "Las 24 darrièras oras">
@@ -943,7 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Se contunhatz, anatz :">
+<!ENTITY panicButton.view.mainActionDesc          "Se contunhatz, anatz :">
 <!ENTITY panicButton.view.deleteCookies           "Suprimir los <html:strong>Cookies</html:strong> recents">
 <!ENTITY panicButton.view.deleteHistory           "Suprimir l'<html:strong>Istoric</html:strong> recent">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Tampar totes los <html:strong>onglets</html:strong> e totas las <html:strong>fenèstras</html:strong>">
@@ -953,8 +953,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.forgetButton            "Escafar">
 
 <!ENTITY panicButton.thankyou.msg1                "Vòstre istoric recent es estat escafat corrèctament.">
-<!ENTITY panicButton.thankyou.msg2                "Bona navegacion !">
-<!ENTITY panicButton.thankyou.buttonlabel         "Mercé !">
+<!ENTITY panicButton.thankyou.msg2                "Bona navegacion !">
+<!ENTITY panicButton.thankyou.buttonlabel         "Mercé !">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ne saber mai suls DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">

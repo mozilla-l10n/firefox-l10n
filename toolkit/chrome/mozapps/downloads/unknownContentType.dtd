@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "Avètz causit de dobrir :">
+<!ENTITY  intro2.label                "Avètz causit de dobrir :">
 <!ENTITY  from.label                  "a partir de :">
 <!ENTITY  actionQuestion.label        "Qué deu far &brandShortName; amb aqueste fichièr ?">
 
@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Efectuar totjorn aquesta accion per aqueste tipe de fichièr.">
 <!ENTITY  rememberChoice.accesskey    "t">
 
-<!ENTITY  whichIs.label              "qu'es :">
+<!ENTITY  whichIs.label              "qu'es :">
 
 <!ENTITY  chooseHandlerMac.label      "Causir…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

@@ -22,7 +22,7 @@
 <!ENTITY biffStart.label "Verificar los messatges novèls cada ">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minutas">
-<!ENTITY connectionSecurity.label "Seguretat de la connexion :">
+<!ENTITY connectionSecurity.label "Seguretat de la connexion :">
 <!ENTITY connectionSecurity.accesskey "S">
 <!ENTITY connectionSecurityType-0.label "Pas cap">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, se disponible">
@@ -56,7 +56,7 @@
 <!ENTITY emptyTrashOnExit.accesskey "d">
 <!ENTITY loginAtStartup.label "Verificar lo corrièr a l'aviada">
 <!ENTITY loginAtStartup.accesskey "r">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOff.label "dels noms abreujats (per exemple « m.d.a.thunderbird »)">
 <!ENTITY advancedButton.label "Avançats…">
 <!ENTITY advancedButton.accesskey "s">
-<!ENTITY serverDefaultCharset.label "Encodatge de caractèrs per defaut :">
+<!ENTITY serverDefaultCharset.label "Encodatge de caractèrs per defaut :">
 <!ENTITY localFolderPicker.label "Seleccionar un repertòro local">
 <!ENTITY browseFolder.label "Percórrer…">
 <!ENTITY browseFolder.accesskey "P">

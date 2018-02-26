@@ -176,7 +176,7 @@
 <!ENTITY sort.price.label                     "Prètz">
 <!ENTITY sort.price.tooltip                   "Triar per prèses">
 
-<!ENTITY search.filter2.label                 "Recercar :">
+<!ENTITY search.filter2.label                 "Recercar :">
 <!ENTITY search.filter2.installed.label       "Mos moduls complementaris">
 <!ENTITY search.filter2.installed.tooltip     "Afichar los moduls complementaris installats">
 <!ENTITY search.filter2.available.label       "Moduls complementaris disponibles">
@@ -211,7 +211,7 @@
 <!ENTITY addon.includeUpdate.label            "Apondre a la mesa a jorn">
 <!ENTITY addon.updateAvailable.label          "Una mesa a jorn es disponibla">
 <!ENTITY addon.checkingForUpdates.label       "Verificacion de las mesas a jorn…">
-<!ENTITY addon.releaseNotes.label             "Nòtas de version :">
+<!ENTITY addon.releaseNotes.label             "Nòtas de version :">
 <!ENTITY addon.loadingReleaseNotes.label      "Cargament…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Una error s'es produita al moment del cargament de las nòtas de version.">
 
@@ -229,7 +229,7 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Qu'es aquò ? La telemetria pòt installar e aviar d'experimentacions de temps en temps.">
+<!ENTITY experiment.info.label "Qu'es aquò ? La telemetria pòt installar e aviar d'experimentacions de temps en temps.">
 <!ENTITY experiment.info.learnmore "N'aprendre mai">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Paramètres de Telemetria">

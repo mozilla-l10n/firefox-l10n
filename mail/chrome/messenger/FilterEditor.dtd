@@ -15,7 +15,7 @@
 <!ENTITY highPriorityCmd.label "Nauta">
 <!ENTITY highestPriorityCmd.label "Maximala">
 
-<!ENTITY contextDesc.label "Aplicar lo filtre :">
+<!ENTITY contextDesc.label "Aplicar lo filtre :">
 <!ENTITY contextDesc.accesskey "A">
 <!ENTITY contextIncoming.label "Al moment de la recepcion del corrièr">
 <!ENTITY contextManual.label "Al moment de son execucion manuala">

@@ -40,13 +40,13 @@
 <!ENTITY community.creditsLink      "contributors">
 <!ENTITY community.end3             " que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.">
 
-<!ENTITY helpus.start               "Volètz ajudar ? ">
+<!ENTITY helpus.start               "Volètz ajudar ? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "Fasètz un don">
 <!ENTITY helpus.middle              ", o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "participatz">
-<!ENTITY helpus.end                 " !">
+<!ENTITY helpus.end                 " !">
 
 <!ENTITY releaseNotes.link          "Novetats">
 

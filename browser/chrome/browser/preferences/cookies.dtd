@@ -14,7 +14,7 @@
 <!ENTITY     props.path.label               "Camin :">
 <!ENTITY     props.secure.label             "Mandat per :">
 <!ENTITY     props.expires.label            "Expira :">
-<!ENTITY     props.container.label          "Contenidor :">
+<!ENTITY     props.container.label          "Contenidor :">
 
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">

@@ -7,21 +7,21 @@
 <!ENTITY  window.macWidth                         "59em">
 <!ENTITY  window.unixWidth                        "59em">
 
-<!ENTITY  language.label                          "Poliças per :">
+<!ENTITY  language.label                          "Poliças per :">
 <!ENTITY  language.accesskey                      "o">
 
-<!ENTITY  sizes.label                             "Talha :">
+<!ENTITY  sizes.label                             "Talha :">
 <!ENTITY  proportionalSize.accesskey              "T">
 <!ENTITY  monospaceSize.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proporcionala :">
+<!ENTITY  proportional.label                      "Proporcionala :">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif :">
+<!ENTITY  serif.label                             "Serif :">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans serif :">
+<!ENTITY  sans-serif.label                        "Sans serif :">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Largor fixa :">
+<!ENTITY  monospace.label                         "Largor fixa :">
 <!ENTITY  monospace.accesskey                     "L">
 
 <!ENTITY  font.langGroup.latin1                   "Occidental">
@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Talha minimala de la poliça :">
+<!ENTITY minSize.label                            "Talha minimala de la poliça :">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Pas cap">
 

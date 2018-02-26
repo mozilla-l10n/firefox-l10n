@@ -35,7 +35,7 @@
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas disponible dins lo cache del navegador.</p> <ul> <li>Per de rasons de seguretat, lo navegador redemanda pas automaticament los documents sensibles.</li> <li>Clicar sus « Ensajar tornarmai » per tornar demandar lo document a partir del site Web.</li> </ul>">
 
 <!ENTITY netOffline.title "Offline Mode">
-<!ENTITY netOffline.longDesc2 "<p>Lo navegador es en mòde fòra connexion e se pòt pas connectar a l&apos;adreça indicada.</p><ul><li>L&apos;ordenador es connectat a la ret ?</li><li>Clicatz sul boton &quot;Ensajar tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Lo navegador es en mòde fòra connexion e se pòt pas connectar a l&apos;adreça indicada.</p><ul><li>L&apos;ordenador es connectat a la ret ?</li><li>Clicatz sul boton &quot;Ensajar tornarmai&quot; per tornar en mòde connectat e recargar la pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error d'encodatge de contengut">
 <!ENTITY contentEncodingError.longDesc "<p>La pagina qu'ensajatz de veire pòt pas èsser afichada perque utiliza un tipe de compression invalid o pas pres en carga. </p><ul><li>Contactatz lo webmèstre del site Web per l'assabentar d'aqueste problèma.</li></ul>">
@@ -47,16 +47,16 @@
 <!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
 
 <!ENTITY netTimeout.title "Network Timeout">
-<!ENTITY netTimeout.longDesc "<p>Lo navegador a esperat tròp longtemps al moment de la connexion al site e a arrestat d'esperar una responsa.</p> <ul> <li>Benlèu que lo servidor es en suscarga o es temporàriament en pana ? Ensajatz pus tard.</li><li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la ret de vòstre ordenador.</li> <li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy?  De paramètres incorrèctes pòdon interferir amb la navegacion sus lo Web.</li> <li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li> </ul>">
+<!ENTITY netTimeout.longDesc "<p>Lo navegador a esperat tròp longtemps al moment de la connexion al site e a arrestat d'esperar una responsa.</p> <ul> <li>Benlèu que lo servidor es en suscarga o es temporàriament en pana ? Ensajatz pus tard.</li><li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la ret de vòstre ordenador.</li> <li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy?  De paramètres incorrèctes pòdon interferir amb la navegacion sus lo Web.</li> <li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li> </ul>">
 
 <!ENTITY unknownProtocolFound.title "Unknown Protocol">
 <!ENTITY unknownProtocolFound.longDesc "<p>L'adreça indica un protocòl (per ex. <q>wxyz://</q>) desconegut del navegador que doncas se pòt pas connectar corrèctament al site.</p><ul><li>Ensajatz d'accedir a de contengut multimèdia o d'autres servicis que son pas de tèxte ? Verificatz los prerequesits logicials del site.</li><li>D'unes protocòls pòdon necessitar un logiciel tèrç o de plugins per que lo navegador los pòsca reconéisser.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy Server Refused Connection">
-<!ENTITY proxyConnectFailure.longDesc "<p>Lo navegador es configurat per utilizar un servidor proxy mas lo proxy a refusat la connexion.</p><ul><li>La configuracion proxy del navegador es corrècta ? Verificatz los paramètres e tornatz ensajar.</li><li>Lo servici proxy autoriza las connexions a partir d'aquesta ret ?</li><li>Avètz encara de problèmas ? Consultatz vòstre administrator de ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Lo navegador es configurat per utilizar un servidor proxy mas lo proxy a refusat la connexion.</p><ul><li>La configuracion proxy del navegador es corrècta ? Verificatz los paramètres e tornatz ensajar.</li><li>Lo servici proxy autoriza las connexions a partir d'aquesta ret ?</li><li>Avètz encara de problèmas ? Consultatz vòstre administrator de ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy Server Not Found">
-<!ENTITY proxyResolveFailure.longDesc "<p>Lo navegador es configurat per utilizar un servidor proxy mas lo servidor proxy es introbable.</p><ul><li>La configuracion proxy del navegador es corrècta ? Verificatz los paramètres e tornatz ensajar.</li><li>L'ordenador es connectat a la ret ?</li><li>Avètz encara de problèmas ? Consultatz vòstre administrator de ret o  vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Lo navegador es configurat per utilizar un servidor proxy mas lo servidor proxy es introbable.</p><ul><li>La configuracion proxy del navegador es corrècta ? Verificatz los paramètres e tornatz ensajar.</li><li>L'ordenador es connectat a la ret ?</li><li>Avètz encara de problèmas ? Consultatz vòstre administrator de ret o  vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redirect Loop">
 <!ENTITY redirectLoop.longDesc "<p>The browser has stopped trying to retrieve the requested item. The site is redirecting the request in a way that will never complete.</p><ul><li>Have you disabled or blocked cookies required by this site?</li><li><em>NOTE</em>: If accepting the site's cookies does not resolve the problem, it is likely a server configuration issue and not your computer.</li></ul>">

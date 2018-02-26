@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pingDataSource " Font de donadas de ping : ">
+<!ENTITY aboutTelemetry.pingDataSource " Font de donadas de ping : ">
 <!ENTITY aboutTelemetry.showCurrentPingData "Donadas actualas ping">
 <!ENTITY aboutTelemetry.showArchivedPingData "Donadas ping archivadas">
 <!ENTITY aboutTelemetry.showSubsessionData "Afichar las donadas de substitucion">

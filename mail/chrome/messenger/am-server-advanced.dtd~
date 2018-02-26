@@ -1,6 +1,6 @@
 <!ENTITY serverAdvanced.label "Paramètres avançats de compte">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "Repertòri de servidor IMAP :">
+<!ENTITY serverDirectory.label "Repertòri de servidor IMAP :">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Show only subscribed folders">
 <!ENTITY usingSubscription.accesskey "w">

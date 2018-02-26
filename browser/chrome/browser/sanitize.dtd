@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings2.label     "Quand sortissi de &brandShortName;, deu voidar automaticament :">
+<!ENTITY clearDataSettings2.label     "Quand sortissi de &brandShortName;, deu voidar automaticament :">
 
 <!ENTITY clearDataSettings3.label     "Quand quiti &brandShortName;, suprimir los elements seguents">
 

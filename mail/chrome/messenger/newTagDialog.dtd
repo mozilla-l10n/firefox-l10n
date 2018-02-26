@@ -4,5 +4,5 @@
 
 ﻿<!-- New Tag Dialog -->
 <!ENTITY newTagDialog.title "Crear una etiqueta novèla">
-<!ENTITY name.label "Etiqueta :">
+<!ENTITY name.label "Etiqueta :">
 <!ENTITY name.accesskey "t">
