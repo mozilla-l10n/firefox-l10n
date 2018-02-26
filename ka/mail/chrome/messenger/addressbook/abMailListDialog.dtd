@@ -3,21 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "დაგზავნის სია">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "დამატება: ">
+<!ENTITY mailListWindowAdd.title        "ახალი საფოსტო სია">
 
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label         "დამატება: ">
+<!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.label                 "სიის სახელი: ">
+<!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.label             "სიის ფსევდონიმი: ">
+<!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.label          "აღწერილობა: ">
+<!ENTITY ListDescription.accesskey      "e">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "მიუთითეთ ელფოსტის მისამართები დაგზავნის სიაში ჩასამატებლად:">
+<!ENTITY AddressTitle.accesskey         "ფ">
 <!ENTITY UpButton.label                 "ატანა">
 <!ENTITY DownButton.label               "ჩამოტანა">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "N">
-<!ENTITY ListDescription.accesskey      "e">
 

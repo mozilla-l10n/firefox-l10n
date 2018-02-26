@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "წიგნაკი">
+<!ENTITY blankResultsPaneMessage.label                  "ეს წიგნაკი აჩვენებს კონტაქტებს, მხოლოდ ძიების შემდგომ">
 <!ENTITY localResultsOnlyMessage.label                  "ძიებისას, ვებმისამართზე არსებულ წიგნაკში მოცემული პირები არ გამოჩნდება">
 
 <!-- File Menu -->
@@ -80,6 +81,10 @@
 <!ENTITY propertiesCmd.key                              "i">
 <!ENTITY abPropertiesMenu.label                         "მისამართების წიგნაკის პარამეტრები">
 <!ENTITY abPropertiesMenu.accesskey                     "პ">
+<!ENTITY contactPropertiesMenu.label                    "კონტაქტის პარამეტრები">
+<!ENTITY contactPropertiesMenu.accesskey                "პ">
+<!ENTITY mailingListPropertiesMenu.label                "საფოსტო სიის პარამეტრები">
+<!ENTITY mailingListPropertiesMenu.accesskey            "პ">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "ჩვენება">
@@ -135,11 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "ახალი სია">
 <!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY showAsDefault.label                            "ნაგულისხმევი საწყისი საქაღალდე">
+<!ENTITY showAsDefault.accesskey                        "ყ">
 <!ENTITY editPropertiesButton.label                     "ჩასწორება">
 <!ENTITY propertiesContext.label                        "პარამეტრები">
 <!ENTITY propertiesContext.accesskey                    "პ">
 <!ENTITY abPropertiesContext.label                      "პარამეტრები">
 <!ENTITY abPropertiesContext.accesskey                  "რ">
+<!ENTITY editContactContext.label                       "კონტაქტის ჩასწორება">
+<!ENTITY editContactContext.accesskey                   "ჩ">
 <!ENTITY editMailingListContext.label                   "სიის ჩასწორება">
 <!ENTITY editMailingListContext.accesskey               "ს">
 <!ENTITY newmsgButton.label                             "შედგენა">
@@ -154,6 +163,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "წიგნაკის ახალი კონტაქტის შექმნა">
 <!ENTITY newlistButton.tooltip                          "ახალი სიის შექმნა">
+<!ENTITY editPropertiesButton.tooltip                   "მონიშნული ელემენტის ჩასწორება">
+<!ENTITY editAbPropertiesButton.tooltip                 "შერჩეული წიგნაკის პარამეტრების ჩასწორება">
+<!ENTITY editContactPropertiesButton.tooltip            "შერჩეული კონტაქტის ჩასწორება">
+<!ENTITY editMailingListPropertiesButton.tooltip        "შერჩეული საფოსტო სიის ჩასწორება">
 <!ENTITY newmsgButton.tooltip                           "წერილის გაგზავნა">
 <!ENTITY newIM.tooltip                                  "მყისი შეტყობინების გაგზავნა ან საუბარი">
 <!ENTITY deleteButton2.tooltip                          "მონიშნული ელემენტის წაშლა">

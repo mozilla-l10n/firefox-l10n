@@ -3,21 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editContactPanelDeleteContact.label "წაშლა">
-<!ENTITY editContactPanelDeleteContact.accesskey "l">
+<!ENTITY editContactPanelDeleteContact.accesskey "ლ">
 
 <!ENTITY editContactName.label "სახელი:">
-<!ENTITY editContactName.accesskey "N">
+<!ENTITY editContactName.accesskey "ს">
 
 <!ENTITY editContactEmail.label "ელფოსტა:">
-<!ENTITY editContactEmail.accesskey "E">
+<!ENTITY editContactEmail.accesskey "ე">
 
 <!ENTITY editContactAddressBook.label "წიგნაკი:">
-<!ENTITY editContactAddressBook.accesskey "A">
+<!ENTITY editContactAddressBook.accesskey "წ">
 
 <!ENTITY editContactPanelCancel.label "გაუქმება">
-<!ENTITY editContactPanelCancel.accesskey "C">
+<!ENTITY editContactPanelCancel.accesskey "გ">
 
 <!ENTITY editContactPanelDone.label "მზადაა">
-<!ENTITY editContactPanelDone.accesskey "D">
+<!ENTITY editContactPanelDone.accesskey "მ">
 
 <!ENTITY contactMoveDisabledWarning.description "წიგნაკს ვერ შეცვლით, რადგან კონტაქტი დაგზავნის სიაშია.">
