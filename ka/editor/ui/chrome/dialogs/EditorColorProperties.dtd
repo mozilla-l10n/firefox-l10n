@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "ფონის ნახატი:">
 <!ENTITY backgroundImage.accessKey "m">
 <!ENTITY backgroundImage.tooltip "ნახატის ფაილის თქვენი გვერდის ფონად გამოყენება">
+<!ENTITY backgroundImage.shortenedDataURI "შემოკლებული URI მონაცემები (დაკოპირების შედეგად სრული URI ბუფერში)">

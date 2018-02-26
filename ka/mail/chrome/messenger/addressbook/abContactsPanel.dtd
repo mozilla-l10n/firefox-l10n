@@ -4,9 +4,15 @@
 
 <!ENTITY propertiesMenu.label               "პარამეტრები">
 <!ENTITY propertiesMenu.accesskey           "პ">
+<!ENTITY propertiesCmd.key                  "i">
 <!ENTITY abPropertiesMenu.label             "მისამართების წიგნაკის პარამეტრები">
 <!ENTITY abPropertiesMenu.accesskey         "წ">
+<!ENTITY contactPropertiesMenu.label        "საკონტაქტოს პარამეტრები">
+<!ENTITY contactPropertiesMenu.accesskey    "პ">
+<!ENTITY mailingListPropertiesMenu.label    "ფოსტის სიის პარამეტრები">
+<!ENTITY mailingListPropertiesMenu.accesskey "პ">
 
+<!ENTITY abContextMenuButton.tooltip        "მისამართების წიგნაკის კონტექსტური მენიუ">
 <!ENTITY addressbookPicker.label            "წიგნაკი:">
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY SearchNameOrEmail.label            "წერილის სახელი">

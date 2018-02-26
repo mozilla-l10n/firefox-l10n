@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "ნახატის მისამართი:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "მიუთითეთ ნახატის ფაილი ან მისამართი">
+<!ENTITY locationEditField.shortenedDataURI "შემოკლებული URI მონაცემები (დაკოპირების შედეგად სრული URI ბუფერში)">
 <!ENTITY title.label "მინიშნბა:">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "html 'title' ატრიბუტი, რომელიც მინიშნებას უჩვენებს">
