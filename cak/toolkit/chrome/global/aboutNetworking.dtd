@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Titaq">
 <!ENTITY aboutNetworking.received              "K'ulun">
 <!ENTITY aboutNetworking.family                "Ach'alalri'ïl">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Ochochib'äl">
 <!ENTITY aboutNetworking.expires               "Nik'is (Taq xil ch'utiramaj)">
 <!ENTITY aboutNetworking.messagesSent          "Taq rutzijol etaqon">
