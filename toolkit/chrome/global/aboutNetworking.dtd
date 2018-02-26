@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Skickat">
 <!ENTITY aboutNetworking.received              "Mottaget">
 <!ENTITY aboutNetworking.family                "Familj">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Adresser">
 <!ENTITY aboutNetworking.expires               "Förfaller (sekunder)">
 <!ENTITY aboutNetworking.messagesSent          "Skickade meddelanden">
