@@ -7,6 +7,8 @@
 <!ENTITY activeColumn.label "ჩართვა">
 <!ENTITY newButton.label "ახალი…">
 <!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.popupCopy.label "დაკოპირება…">
+<!ENTITY newButton.popupCopy.accesskey "კ">
 <!ENTITY editButton.label "რედაქტირება…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "წაშლა">
@@ -32,8 +34,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "არჩეული ფილტრ(ებ)ის გამოყენება:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "ამ დასტის არჩევა">
-<!ENTITY choosethisnewsserver.label "ჯგუფების ამ სერვერის არჩევა">
 <!ENTITY helpButton.label "დახმარება">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
