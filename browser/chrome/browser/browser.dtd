@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "F">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Teelto &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Uddit Cuɓoraaɗe &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Teelto &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Toppito pirgol hello">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Toppito kuutoragol topirde DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Uddit alluwal MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "A daaƴii kameraa maa e ndee lowre.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "A daaƴii mikoroo maa e ndee lowre.">
 <!ENTITY urlbar.screenBlocked.tooltip            "A daaƴii ndee lowre e lollingol yaynirde maa.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "A faddiima kenorɗe pop-up nder ndee lowre.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "A daaƴii aaftogol keɓe keertol wonande ndee lowre geese.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "A daaƴii keɓgol MIDI wonande ndee lowre geese.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Hollir aslol">
 
