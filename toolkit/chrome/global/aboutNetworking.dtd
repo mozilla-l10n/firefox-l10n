@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "გაგზავნილია">
 <!ENTITY aboutNetworking.received              "მიღებულია">
 <!ENTITY aboutNetworking.family                "ოჯახი">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "მისამართები">
 <!ENTITY aboutNetworking.expires               "მოქმედების ვადა (წამებში)">
 <!ENTITY aboutNetworking.messagesSent          "გაგზავნილი შეტყობინებები">
