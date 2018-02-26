@@ -6,6 +6,7 @@
 <!ENTITY  trackingProtection2.description      "ট্র্যাকিং হল একাধিক ওয়েবসাইটে আপনার ব্রাউজিং ডাটার সংগ্রহ। প্রোফাইল নির্মাণে এবং আপনার ব্রাউজিং ও ব্যক্তিগত তথ্যের উপর ভিত্তি করে কন্টেন্ট প্রদর্শনে ট্র্যাকিং ব্যবহার হতে পারে।
 ">
 <!ENTITY  trackingProtection2.radioGroupLabel  "জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন">
+<!ENTITY  trackingProtection3.radioGroupLabel  "জানা ট্রাকারগুলি ব্লক করতে ট্রাকিং সুরক্ষা ব্যবহার করুন">
 <!ENTITY  trackingProtectionAlways.label       "সর্বদা">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "শুধুমাত্র ব্যক্তিগত ব্রাউজিং উইন্ডোতে">
@@ -15,10 +16,6 @@
 <!ENTITY  trackingProtectionLearnMore.label    "আরও জানুন">
 <!ENTITY  trackingProtectionExceptions.label   "ব্যতিক্রম… E">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
-
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "ব্যক্তিগত উইন্ডোতে ট্রাকিং সুরক্ষা ব্যবহার করুন v">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "ব্যক্তিগত ব্রাউজিং এ জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন">
