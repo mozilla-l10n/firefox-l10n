@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Vi strävar alltid efter att ge dig val och samlar endast in vad vi behöver för tillhandahålla och förbättra &brandShortName; för alla. Vi ber alltid om tillåtelse innan vi tar emot personliga uppgifter.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Sekretesspolicy">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Tillåt &brandShortName; att skicka kraschrapporter till Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "k">
+
 <!ENTITY collectBrowserErrors.label          "Tillåt &brandShortName; att skicka felrapporter (inklusive felmeddelanden) till Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "f">
 <!ENTITY collectBrowserErrorsLearnMore.label "Läs mer">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Tillåt &brandShortName; att skicka kraschrapporter till Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "k">
+<!ENTITY sendBackloggedCrashReports.label  "Tillåt &brandShortName; att skicka eftersläpande kraschrapporter för din räkning">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Läs mer">
 
 <!ENTITY networkTab.label                "Nätverk">
@@ -60,7 +63,10 @@ available. -->
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Webbplatsdata">
 <!ENTITY clearSiteData.label             "Rensa all data">
-<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY clearSiteData.accesskey         "a">
+<!ENTITY siteData1.label                 "Kakor och webbplatsdata">
+<!ENTITY clearSiteData1.label            "Rensa data…">
+<!ENTITY clearSiteData1.accesskey        "R">
 <!ENTITY siteDataSettings.label          "Inställningar…">
 <!ENTITY siteDataSettings.accesskey      "n">
 <!ENTITY siteDataLearnMoreLink.label     "Läs mer">
