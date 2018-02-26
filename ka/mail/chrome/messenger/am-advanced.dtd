@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "ნაგულისხმები">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "მითითებული სერვერის მონაცემები:">
 <!ENTITY serverDescription.label "აღწერილობა: ">
 <!ENTITY serverName.label "სერვერის სახელი: ">
 <!ENTITY serverPort.label "პორტი: ">

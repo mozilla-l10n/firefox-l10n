@@ -21,6 +21,7 @@
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; დახმარება">
+<!ENTITY openHelpMac2.label "&brandFullName; დახმარება">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 

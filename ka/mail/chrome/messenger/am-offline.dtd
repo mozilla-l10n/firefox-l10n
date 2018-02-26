@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "დისკზე ადგილის ეკონომიისთვის, სერვერიდან წერილების ჩამოტვირთვისა და ლოკალურად შენახვის შეზღუდვა შესაძლებელია ასაკით ან ზომით.">
 <!ENTITY allFoldersOffline.label "ამ ანგარიშის წერილების ამ კომპიუტერში შენარჩუნება">
 <!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "ყველა საქაღალდეში არსებული წერილების შენახვა ამ კომპიუტერში, მოცემული ანგარიშისთვის">
+<!ENTITY allFoldersOffline2.accesskey "ქ">
+<!ENTITY allFoldersOfflineNote.label "შენიშვნა: ამის შეცვლა, იმოქმედებს ანგარიშის ყველა საქაღალდეზე. ცალკეული საქაღალდის პარამეტრების გასამართად, გამოიყენეთ ღილაკი „დამატებითი…“">
 <!ENTITY offlineNotDownload.label "წერილები, რომელთა ზომა მეტია ვიდრე">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "არ ჩამოიტვირთოს წერილები, რომელთა ზომა მეტია ვიდრე">
@@ -27,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "ყველას წაშლა უახლესების გარდა">
 <!ENTITY retentionKeepRecent.accesskey "b">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "წაკითხული წერილების ყოველთვის წაშლა (გადაეწერება ასაკის პარამეტრებს)">
 <!ENTITY retentionApplyToFlagged.label "ვარსკვლავიანი წერილების ყოველთვის შენარჩუნება">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 <!ENTITY nntpRemoveMsgBody.label "წერილების შიგთავსის წაშლა რომელთა ზომა მეტია ვიდრე">
@@ -51,8 +52,8 @@
 <!ENTITY ageAutosyncBefore.label         "უახლესი ფოსტის სინქრონიზაცია">
 <!ENTITY ageAutosync.accesskey           "z">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label               "დღის">
-<!ENTITY weekAgeInterval.label              "კვირის">
-<!ENTITY monthAgeInterval.label             "თვის">
-<!ENTITY yearAgeInterval.label              "წლის">
+<!ENTITY dayAgeInterval.label            "დღის">
+<!ENTITY weekAgeInterval.label           "კვირის">
+<!ENTITY monthAgeInterval.label          "თვის">
+<!ENTITY yearAgeInterval.label           "წლის">
 <!ENTITY ageAutosyncAfter.label          "განმავლობაში">

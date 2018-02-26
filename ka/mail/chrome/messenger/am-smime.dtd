@@ -25,8 +25,13 @@
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "ამ სერთიფიკატის გასაგზავნი წერილების ხელმოსაწერად გამოყენება:">
 
-<!ENTITY certificates.label     "სერთიფიკატები">
-<!ENTITY manageCerts.label      "სერთიფიკატების ჩვენება">
-<!ENTITY manageCerts.accesskey  "V">
-<!ENTITY manageDevices.label    "უსაფრთხოების მოწყობილობები">
+<!ENTITY certificates.label "სერთიფიკატები">
+<!ENTITY manageCerts2.label "სერტიფიკატების მართვა">
+<!ENTITY manageCerts2.accesskey "მ">
+<!ENTITY manageDevices.label "უსაფრთხოების მოწყობილობები">
 <!ENTITY manageDevices.accesskey "y">
+
+<!-- Strings for the cert picker dialog -->
+<!ENTITY certPicker.title "სერტიფიკატის არჩევა">
+<!ENTITY certPicker.info  "სერტიფიკატი:">
+<!ENTITY certPicker.detailsLabel "შერჩეული სერტიფიკატის მონაცემები:">
