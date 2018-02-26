@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Placki třećich poskićowarjow akceptować">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
+
+<!ENTITY  acceptCookies3.label          "Placki a sydłowe daty z websydłow akceptować">
+<!ENTITY  acceptCookies3.accesskey      "P">
+
+<!ENTITY  blockCookies.label            "Placki a sydłowe daty blokować (móže zawinować, zo websydła njefunguja)">
+<!ENTITY  blockCookies.accesskey        "b">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Placki a sydłowe daty třećich poskićowarjow akceptować">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Přeco">
 <!ENTITY  acceptThirdParty.never.label    "Ženje">
 <!ENTITY  acceptThirdParty.visited.label  "Jenož wot wopytanych třećich">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Chceće snano ">
 <!ENTITY  dontrememberActions.clearHistory.label "wšu tuchwilnu historiju wuprózdnić">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Historiju zhašeć…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Přeco priwatny modus wužiwać">
 <!ENTITY  privateBrowsingPermanent2.accesskey "P">
