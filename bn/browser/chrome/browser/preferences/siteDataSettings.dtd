@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "অবস্থা">
 <!ENTITY     cookiesCol.label              "কুকি">
 <!ENTITY     usageCol.label                "স্টোরেজ">
+<!ENTITY     lastAccessedCol.label                "সর্বশেষ ব্যবহৃত">
 <!ENTITY     searchTextboxPlaceHolder             "ওয়েবসাইট অনুসন্ধান">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "নির্বাচিতদের অপসারণ">
