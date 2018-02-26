@@ -14,6 +14,11 @@
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 <!ENTITY browserToolboxErrorMessage          "打开浏览器工具箱时出错：">
 
+<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
+  -  shown next to status details when the Browser Toolbox fails to connect or
+  -  appears to be taking a while to do so. -->
+<!ENTITY browserToolboxStatusMessage "浏览器工具箱连接状态：">
+
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "高级设置">
@@ -70,7 +75,7 @@
   -  options panel and is used for settings that trigger page reload. -->
 <!ENTITY options.context.triggersPageRefresh  "* 仅限当前会话，将重新载入当前页面">
 
-<!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
+<!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "启用浏览器界面及附加组件的调试工具箱">
@@ -144,7 +149,7 @@
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "调试器">
 
-<!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
+<!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "启用源映射">
 <!ENTITY options.sourceMaps.tooltip1   "如果您启用此选项，工具中的源代码将被映射。">
