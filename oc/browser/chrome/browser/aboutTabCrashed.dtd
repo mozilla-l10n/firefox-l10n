@@ -15,11 +15,11 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Macassiu ! L'onglet a fach mèuca.">
-<!ENTITY tabCrashed.offerHelp2 "Vos podèm ajudar !">
+<!ENTITY tabCrashed.header2 "Macassiu ! L'onglet a fach mèuca.">
+<!ENTITY tabCrashed.offerHelp2 "Vos podèm ajudar !">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Causissètz &tabCrashed.restoreTab; per recargar la pagina.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Causissètz &tabCrashed.restoreTab; o &tabCrashed.restoreAll; per recargar la pagina.">
-<!ENTITY tabCrashed.requestHelp "Volètz nos ajudar ?">
+<!ENTITY tabCrashed.requestHelp "Volètz nos ajudar ?">
 <!ENTITY tabCrashed.requestHelpMessage "Los rapòrts de plantatges nos ajudan a diagnosticar de problèmas e melhorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Senhalar aqueste onglet">
 <!ENTITY tabCrashed.sendReport3 "Mandar un rapòrt de fracàs automaticament per ajudar a corregir las errors coma aquesta.">
@@ -27,6 +27,6 @@
 <!ENTITY tabCrashed.includeURL3 "Inclure las URL dels sites que visitàvetz quand &brandShortName; s’es arrestat.">
 <!ENTITY tabCrashed.emailPlaceholder "Picatz vòstra adreça electronica aicí">
 <!ENTITY tabCrashed.emailMe "Enviatz-me un corrièl quand d'informacions mai son disponiblas">
-<!ENTITY tabCrashed.reportSent "Rapòrt de plantatges ja enviat. Mercés plan per vòstra ajuda per melhorar &brandShortName; !">
+<!ENTITY tabCrashed.reportSent "Rapòrt de plantatges ja enviat. Mercés plan per vòstra ajuda per melhorar &brandShortName; !">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Enviar los rapòrts dels onglets de rèire plan">
 <!ENTITY tabCrashed.autoSubmit3 "Cambiar las preferéncias per mandar automaticament los rapòrts quand &brandShortName; fraca.">

@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "General">
 <!ENTITY  generalTab.accesskey  "G">
-<!ENTITY  generalTitle          "Títol :">
+<!ENTITY  generalTitle          "Títol :">
 <!ENTITY  generalURL            "Adreça :">
 <!ENTITY  generalType           "Tipe :">
 <!ENTITY  generalMode           "Mòde de rendut :">
@@ -23,7 +23,7 @@
 <!ENTITY  generalReferrer       "URL de provenença :">
 <!ENTITY  generalSource         "Font del cache :">
 <!ENTITY  generalModified       "Modificat :">
-<!ENTITY  generalEncoding2      "Encodatge del tèxte :">
+<!ENTITY  generalEncoding2      "Encodatge del tèxte :">
 <!ENTITY  generalMetaName       "Nom">
 <!ENTITY  generalMetaContent    "Contengut">
 
@@ -68,7 +68,7 @@
 
 
 <!ENTITY  securityView.identity.header   "Identitat del site web">
-<!ENTITY  securityView.identity.owner    "Proprietari :">
+<!ENTITY  securityView.identity.owner    "Proprietari :">
 <!ENTITY  securityView.identity.domain   "Site web :">
 <!ENTITY  securityView.identity.verifier "Verificat per :">
 <!ENTITY  securityView.identity.validity "S'acabar lo ">

@@ -10,7 +10,7 @@
 <!ENTITY title      "Se connectar">
 <!ENTITY header     "Se connectar a un aparelh distant">
 <!ENTITY host       "Òste :">
-<!ENTITY port       "Pòrt :">
+<!ENTITY port       "Pòrt :">
 <!ENTITY connect    "Se connectar">
 <!ENTITY connecting "Connexion…">
 <!ENTITY availableAddons "Processus distants disponibles :">
@@ -27,4 +27,3 @@ be used as text for a link to MDN. -->
 <!ENTITY remoteHelp "Las aisinas de desvolopament de Firefox permeton de desbugar d'aparelhs distants (Firefox per Android e Firefox OS, per exemple). Asseguratz-vos d'aver activat l'opcion « Desbugatge distant » sus l'aparelh distant. Per mai d'informacions, consultatz la">
 <!ENTITY remoteDocumentation "documentacion">
 <!ENTITY remoteHelpSuffix ".">
-

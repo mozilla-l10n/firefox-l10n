@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "Requèsta d'identificacion d'utilizaire">
 <!ENTITY clientAuthAsk.message1 "Aqueste sit vos demanda de vos identificar amb un certificat de seguretat :">
 <!ENTITY clientAuthAsk.message2 "Causir un certificat de presentar coma identificacion :">
-<!ENTITY clientAuthAsk.message3 "Detalhs del certificat seleccionat :">
+<!ENTITY clientAuthAsk.message3 "Detalhs del certificat seleccionat :">
 
 <!ENTITY pkcs12.setpassword.title  "Causir un senhal de salvament del certificat">
 <!ENTITY pkcs12.setpassword.message  "Lo senhal de salvament del certificat que venètz de definir protegís lo fichièr de salvamanet qu'anatz crear. Vos cal balhar lo senhal per començar aqueste salvament.">

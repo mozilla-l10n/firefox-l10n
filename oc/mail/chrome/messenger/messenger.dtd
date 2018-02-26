@@ -22,7 +22,7 @@
 <!ENTITY openAttachmentCmd.label "Pèças juntas">
 <!ENTITY openAttachmentCmd.accesskey "j">
 <!ENTITY saveAsMenu.label "Enregistrar coma">
-<!ENTITY saveAsMenu.accesskey "s"> 
+<!ENTITY saveAsMenu.accesskey "s">
 <!ENTITY saveAsFileCmd.label "Fichièr">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
@@ -37,7 +37,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "L">
 <!ENTITY getNextNMsgCmd.label "Relevar los 500 messatges venents">
 <!ENTITY getNextNMsgCmd.accesskey "p">
-<!ENTITY sendUnsentCmd.label "Mandar los messatges en espèra">  
+<!ENTITY sendUnsentCmd.label "Mandar los messatges en espèra">
 <!ENTITY sendUnsentCmd.accesskey "a">
 <!ENTITY subscribeCmd.label "S'abonar…">
 <!ENTITY subscribeCmd.accesskey "b">
@@ -45,7 +45,7 @@
 <!ENTITY deleteFolder.accesskey "S">
 <!ENTITY renameFolder.label "Tornar nomenar lo dorsièr…">
 <!ENTITY renameFolder.accesskey "R">
-<!ENTITY renameFolder.key "VK_F2"> 
+<!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compactar los dorsièrs">
 <!ENTITY compactFolders.accesskey "C">
 <!ENTITY emptyTrashCmd.label "Voidar la bedoceta">
@@ -273,7 +273,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY searchAddressesCmd.accesskey "a">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "Anar a"> 
+<!ENTITY goMenu.label "Anar a">
 <!ENTITY goMenu.accesskey "l">
 <!ENTITY nextMenu.label "Venent">
 <!ENTITY nextMenu.accesskey "P">
@@ -546,7 +546,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.emptyText "Recèrca dins los messatges…">
-<!ENTITY glodaSearchBar.facet.label "Recèrca :">
+<!ENTITY glodaSearchBar.facet.label "Recèrca :">
 <!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
        "everything" searches over subject, involves, body, and attachments.
        "subject" searches only messages subjects.
@@ -565,7 +565,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY glodaSearchFacet.body.label "Tèxte del messatge">
 <!ENTITY glodaSearchFacet.attachmentNames.label "Nom de pèça junta">
 
-<!ENTITY glodaSearchBar.location.label "Emplaçament :">
+<!ENTITY glodaSearchBar.location.label "Emplaçament :">
 <!ENTITY glodaSearchFacet.everywhere.label "Totes los dorsièrs">
 <!ENTITY glodaSearchFacet.folder.label "Dins un dorsièr particular…">
 
@@ -606,7 +606,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Clicatz per causir las colomnas d'afichar">
-<!ENTITY threadColumn.tooltip "Clicatz per afichar los fials de discussion"> 
+<!ENTITY threadColumn.tooltip "Clicatz per afichar los fials de discussion">
 <!ENTITY fromColumn.tooltip "Clicatz per triar per expeditor">
 <!ENTITY recipientColumn.tooltip "Clicatz per triar per destinatari">
 <!ENTITY subjectColumn.tooltip "Clicatz per triar per subjècte">

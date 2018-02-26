@@ -17,10 +17,10 @@
 <!ENTITY smtpListDelete.accesskey "S">
 <!ENTITY smtpListSetDefault.label "Utilizar per defaut">
 <!ENTITY smtpListSetDefault.accesskey "d">
- 
+
 <!ENTITY serverDescription.label "Descripcion : ">
 <!ENTITY serverName.label "Nom del servidor : ">
 <!ENTITY serverPort.label "Pòrt : ">
 <!ENTITY userName.label   "Nom d'utilizaire : ">
-<!ENTITY connectionSecurity.label "Seguretat de la connexion : ">
+<!ENTITY connectionSecurity.label "Seguretat de la connexion : ">
 <!ENTITY useSecureAuthentication.label   "Autentificacion securizada : ">
