@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Uddit kenorɗe kese e tabbere hesere">
 <!ENTITY newWindowsAsTabs.accesskey   "e">
 
+<!ENTITY newWindowsAsTabs3.label       "Uddit jokke e nder tabbe waasa wonde e kenorɗe kese ɗee">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Reentin am so tabbe keewɗe ine uddidee">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "k">
 
