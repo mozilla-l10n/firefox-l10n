@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "z">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Hasi saioa &syncBrand.shortName.label;(e)n">
 <!ENTITY fxaSignedIn.tooltip "Ireki &syncBrand.shortName.label; hobespenak">
@@ -230,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kudeatu orriaren itzulpena">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kudeatu DRM softwarearen erabilpena">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ireki MIDI panela">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Kamera blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Mikrofonoa blokeatuta daukazu webgune honetarako.">
@@ -241,6 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Canvas-eko datuen erauzketa blokeatuta daukazu webgune honetarako.">
 
+<!ENTITY urlbar.midiBlocked.tooltip              "MIDI sarbidea blokeatuta daukazu webgune honetarako.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
 
