@@ -15,7 +15,7 @@
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "წიგნაკის კონტაქტი…">
-<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.accesskey "კ">
 <!ENTITY attachMenu.label "მიმაგრება">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "ფაილ(ებ)ი…">
@@ -106,12 +106,6 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
-<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
-     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
-     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
-     taken from the word "Sort", not from "Selection" or the sort direction part. -->
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->

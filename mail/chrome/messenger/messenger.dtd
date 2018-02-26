@@ -35,7 +35,7 @@
 <!ENTITY newFeedAccountCmd.label "არხის ანგარიში…">
 <!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "სასაუბროს კონტაქტი…">
-<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY newIMContactCmd.accesskey "ს">
 <!ENTITY openMessageFileCmd.label "შენახული წერილის გახსნა…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "ჩაწერა როგორც">
@@ -813,8 +813,10 @@
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "დამატება წიგნაკში">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
+<!ENTITY EditContact1.label "კონტაქტის ჩასწორება">
+<!ENTITY EditContact1.accesskey "ჩ">
 <!ENTITY ViewContact.label "კონტაქტის ჩვენება">
-<!ENTITY ViewContact.accesskey "V">
+<!ENTITY ViewContact.accesskey "ვ">
 <!ENTITY SubscribeToNewsgroup.label "ხელმოწერა სიახლეთა ჯგუფებზე">
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
 <!ENTITY SendMessageTo.label "წერილის შექმნა -">

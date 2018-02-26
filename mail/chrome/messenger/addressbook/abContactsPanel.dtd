@@ -9,12 +9,14 @@
 <!ENTITY abPropertiesMenu.accesskey         "წ">
 <!ENTITY contactPropertiesMenu.label        "საკონტაქტოს პარამეტრები">
 <!ENTITY contactPropertiesMenu.accesskey    "პ">
-<!ENTITY mailingListPropertiesMenu.label    "ფოსტის სიის პარამეტრები">
+<!ENTITY mailingListPropertiesMenu.label    "საფოსტო სიის პარამეტრები">
 <!ENTITY mailingListPropertiesMenu.accesskey "პ">
 
 <!ENTITY abContextMenuButton.tooltip        "მისამართების წიგნაკის კონტექსტური მენიუ">
 <!ENTITY addressbookPicker.label            "წიგნაკი:">
 <!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.label               "კონტაქტების ძიება:">
+<!ENTITY searchContacts.accesskey           "ნ">
 <!ENTITY SearchNameOrEmail.label            "წერილის სახელი">
 
 <!ENTITY addtoToFieldMenu.label             "დამატება ველში">
@@ -29,9 +31,15 @@
 <!ENTITY propertiesContext.accesskey        "პ">
 <!ENTITY abPropertiesContext.label          "პარამეტრები">
 <!ENTITY abPropertiesContext.accesskey      "რ">
+<!ENTITY editContactContext.label           "კონტაქტის ჩასწორება">
+<!ENTITY editContactContext.accesskey       "ჩ">
 <!ENTITY editMailingListContext.label       "სიის ჩასწორება">
 <!ENTITY editMailingListContext.accesskey   "ს">
 
+<!ENTITY newContactAbContext.label          "ახალი კონტაქტი">
+<!ENTITY newContactAbContext.accesskey      "კ">
+<!ENTITY newListAbContext.label             "ახალი სია">
+<!ENTITY newListAbContext.accesskey         "ს">
 
 <!ENTITY toButton.label                     "დამატება ველში - ვის:">
 <!ENTITY toButton.accesskey                 "A">
