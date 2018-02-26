@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ezarpenak - Guneen datuak">
+
+<!ENTITY     window1.title                 "Ezarpenak - Cookieak eta guneen datuak">
 <!ENTITY     hostCol.label                 "Gunea">
 <!ENTITY     statusCol.label               "Egoera">
+<!ENTITY     cookiesCol.label              "Cookieak">
 <!ENTITY     usageCol.label                "Biltegiratzea">
 <!ENTITY     searchTextboxPlaceHolder             "Bilatu webguneak">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "B">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "Gunearen datuak kentzea">
 <!ENTITY     removingSelected.description  "Gunearen datuak kentzean erlazionatutako cookieak eta lineaz kanpoko web edukia ere kenduko dira. Honen eraginez webguneetako zure saioak amai litezke. Ziur zaude aldaketak burutu nahi dituzula?">
 <!ENTITY     siteTree2.label               "Webgunearen ondorengo cookieak kendu egingo dira">
+<!ENTITY     removingDialog1.title         "Cookieak eta guneetako datuak kentzea">
+<!ENTITY     removingSelected1.description "Cookieak eta guneetako datuak kentzeak webguneetako saioak amaitzea eragin lezake. Ziur zaude aldaketak burutu nahi dituzula?">
+<!ENTITY     siteTree3.label               "Ondorengo webguneetako cookieak eta datuak kendu egingo dira">
