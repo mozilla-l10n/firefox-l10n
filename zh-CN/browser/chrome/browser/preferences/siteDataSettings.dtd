@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "状态">
 <!ENTITY     cookiesCol.label              "Cookie">
 <!ENTITY     usageCol.label                "存储">
+<!ENTITY     lastAccessedCol.label                "上次使用">
 <!ENTITY     searchTextboxPlaceHolder             "搜索网站">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "移除选中">

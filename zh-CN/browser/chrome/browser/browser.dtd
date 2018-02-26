@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "登录&syncBrand.shortName.label;服务">
 <!ENTITY fxaSignedIn.tooltip "打开&syncBrand.shortName.label;服务首选项">
 <!ENTITY fxaSignInError.label "重新连接&syncBrand.shortName.label;服务">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "管理页面翻译">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "管理 DRM 软件使用">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "打开 MIDI 面板">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "您已阻止此网站使用您的摄像头。">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "您已阻止此网站使用您的麦克风。">
 <!ENTITY urlbar.screenBlocked.tooltip            "您已阻止此网站共享您的屏幕。">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "您已拦截此网站的弹出窗口。">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "您已禁止此网站获取 Canvas 数据。">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "您已阻止此网站访问 MIDI。">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "显示历史">
 

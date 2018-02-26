@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "我们力图为您提供选择权，并保证只收集我们为众人提供和改进 &brandShortName; 所需的信息。我们仅在征得您的同意后接收个人信息。">
 <!ENTITY dataCollectionPrivacyNotice.label    "隐私声明">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "允许 &brandShortName; 向 Mozilla 发送错误报告">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "允许 &brandShortName; 发送浏览器错误报告（包含错误信息）到 Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "详细了解">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "允许 &brandShortName; 向 Mozilla 发送错误报告">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "允许 &brandShortName; 代您发送积压的崩溃报告">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "详细了解">
 
 <!ENTITY networkTab.label                "网络">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "网站数据">
 <!ENTITY clearSiteData.label             "清除所有数据">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteData1.label                 "Cookie 和网站数据">
+<!ENTITY clearSiteData1.label            "清除数据…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "设置…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "详细了解">
