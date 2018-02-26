@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Cookies van derden accepteren">
 <!ENTITY  acceptThirdParty2.pre.accesskey "e">
+
+<!ENTITY  acceptCookies3.label          "Cookies en websitegegevens van websites accepteren">
+<!ENTITY  acceptCookies3.accesskey      "C">
+
+<!ENTITY  blockCookies.label            "Cookies en websitegegevens blokkeren (kan ervoor zorgen dat websites niet goed werken)">
+<!ENTITY  blockCookies.accesskey        "b">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Cookies van derden en websitegegevens accepteren">
+<!ENTITY  acceptThirdParty3.pre.accesskey "d">
 <!ENTITY  acceptThirdParty.always.label   "Altijd">
 <!ENTITY  acceptThirdParty.never.label    "Nooit">
 <!ENTITY  acceptThirdParty.visited.label  "Van bezochte">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Wellicht wilt u ook ">
 <!ENTITY  dontrememberActions.clearHistory.label "alle huidige geschiedenis wissen">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Geschiedenis wissen…">
+<!ENTITY  clearHistoryButton.accesskey   "G">
 
 <!ENTITY  privateBrowsingPermanent2.label "Altijd de privénavigatiemodus gebruiken">
 <!ENTITY  privateBrowsingPermanent2.accesskey "m">
