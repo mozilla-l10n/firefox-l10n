@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Ngonka">
 <!ENTITY     cookiesCol.label              "Kuukiije">
 <!ENTITY     usageCol.label                "Hattan moofto">
+<!ENTITY     lastAccessedCol.label                "Sakkitii huutoreede">
 <!ENTITY     searchTextboxPlaceHolder             "Yiylo lowe">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "D">
 <!ENTITY     removeSelected.label          "Momtu cuɓaaɗe">
