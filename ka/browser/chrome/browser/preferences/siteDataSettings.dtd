@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "მდგომარეობა">
 <!ENTITY     cookiesCol.label              "ფუნთუშები">
 <!ENTITY     usageCol.label                "საცავი">
+<!ENTITY     lastAccessedCol.label                "ბოლოს გამოყენებული">
 <!ENTITY     searchTextboxPlaceHolder             "საიტების ძიება">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "ს">
 <!ENTITY     removeSelected.label          "მონიშნულის წაშლა">

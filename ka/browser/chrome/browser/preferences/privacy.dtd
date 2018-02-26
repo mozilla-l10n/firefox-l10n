@@ -58,6 +58,8 @@
 <!ENTITY  blockCookies.label            "ფუნთუშებისა და საიტის მონაცემების აკრძალვა (შესაძლოა ვებსაიტებმა ხარვეზებით იმუშაოს)">
 <!ENTITY  blockCookies.accesskey        "კ">
 
+<!ENTITY  acceptThirdParty3.pre.label     "მესამე მხარის ფუნთუშებისა და საიტის მონაცემის მიღება">
+<!ENTITY  acceptThirdParty3.pre.accesskey "ღ">
 <!ENTITY  acceptThirdParty.always.label   "ყოველთვის">
 <!ENTITY  acceptThirdParty.never.label    "არასდროს">
 <!ENTITY  acceptThirdParty.visited.label  "მხოლოდ მონახულებულიდან">
@@ -100,6 +102,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "მიმდინარე ისტორიის გასუფთავება">
 <!ENTITY  dontrememberActions.post.label         ".">
 
+<!ENTITY  clearHistoryButton.label       "ისტორიის გასუფთავება…">
+<!ENTITY  clearHistoryButton.accesskey   "ს">
 
 <!ENTITY  privateBrowsingPermanent2.label "ყოველთვის პირადი დათვალიერების გამოყენება">
 <!ENTITY  privateBrowsingPermanent2.accesskey "პ">
