@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "S">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Masuk ke &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Buka preferensi &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Sambungkan ulang ke &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kelola terjemahan laman">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kelola penggunaan perangkat lunak DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buka panel MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Anda telah memblokir kamera Anda untuk situs web ini.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Anda telah memblokir mikrofon Anda untuk situs web ini.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Anda telah memblokir situs ini untuk berbagi layar Anda.">
@@ -238,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Anda telah memblokir pop-up untuk situs web ini.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Anda telah memblokir ekstraksi data canvas untuk situs web ini.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
 

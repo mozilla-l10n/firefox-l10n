@@ -51,6 +51,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Terima kuki dari pihak ketiga">
 <!ENTITY  acceptThirdParty2.pre.accesskey "k">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Selalu">
 <!ENTITY  acceptThirdParty.never.label    "Tidak Pernah">
 <!ENTITY  acceptThirdParty.visited.label  "Dari yang Pernah Dikunjungi">
@@ -92,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Anda juga dapat ">
 <!ENTITY  dontrememberActions.clearHistory.label "membersihkan riwayat terkini">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Hapus riwayat…">
+<!ENTITY  clearHistoryButton.accesskey   "r">
 
 <!ENTITY  privateBrowsingPermanent2.label "Selalu gunakan mode penjelajahan pribadi">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
