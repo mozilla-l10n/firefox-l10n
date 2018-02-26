@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Konfiguratu Internetera sartzeko proxy-ak">
+
+<!ENTITY  proxyTitle.label2             "Konfiguratu Internetera sartzeko proxy-a">
 <!ENTITY  noProxyTypeRadio.label        "Proxy-rik ez">
 <!ENTITY  noProxyTypeRadio.accesskey    "z">
 <!ENTITY  systemTypeRadio.label         "Erabili sistemaren proxy-ezarpenak">

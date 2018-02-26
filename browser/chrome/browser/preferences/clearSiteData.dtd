@@ -5,8 +5,16 @@
 <!ENTITY window.title                 "Garbitu datuak">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "&brandShortName;(e)k biltegiratutako cookie eta guneen datu guztiak garbitzean, webguneetako saioak amaitzea eragin eta lineaz kanpoko web edukia ken lezake. Cachearen datuak garbitzeak ez du zure saio-hasieretan eraginik izango.">
+<!ENTITY windowClose.key              "w">
 
+<!ENTITY clearSiteData.label          "Cookieak eta guneetako datuak">
+<!ENTITY clearSiteData.accesskey      "n">
+<!ENTITY clearSiteData.description    "Garbituz gero, webguneetako saioak amaitzea eragin lezake">
 
+<!ENTITY clearCache.label             "Cachean gordetako web edukia">
+<!ENTITY clearCache.accesskey         "w">
+<!ENTITY clearCache.description       "Webguneetako irudi eta datuak berriro kargatzea eskatzen du">
 
 <!ENTITY button.cancel.label          "Utzi">
 <!ENTITY button.cancel.accesskey      "U">
