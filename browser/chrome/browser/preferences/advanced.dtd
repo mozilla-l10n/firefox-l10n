@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Трудимо се да вам пружимо избор и да сакупљамо само оно што нам је потребно да градимо и побољшамо &brandShortName; за све. Увек ћемо питати за дозволу пре примања личних података.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Обавештење о приватности">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Дозволи &brandShortName;-у да шаље Mozilla-и извештаје о рушењу">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "л">
+
 <!ENTITY collectBrowserErrors.label          "Дозволи &brandShortName;-у да шаље извештаје о грешкама унутар прегледача (укључујући и поруке грешке) Mozilla-и">
 <!ENTITY collectBrowserErrors.accesskey      "Д">
 <!ENTITY collectBrowserErrorsLearnMore.label "Сазнајте више">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Дозволи &brandShortName;-у да шаље Mozilla-и извештаје о рушењу">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "л">
+<!ENTITY sendBackloggedCrashReports.label  "Дозволи &brandShortName;-у да шаље извештаје о рушењу у ваше име">
+<!ENTITY sendBackloggedCrashReports.accesskey "и">
 <!ENTITY crashReporterLearnMore.label    "Сазнајте више">
 
 <!ENTITY networkTab.label                "Мрежа">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Подаци сајта">
 <!ENTITY clearSiteData.label             "Обриши податке">
 <!ENTITY clearSiteData.accesskey         "О">
+<!ENTITY siteData1.label                 "Колачићи и подаци сајта">
+<!ENTITY clearSiteData1.label            "Обриши податке…">
+<!ENTITY clearSiteData1.accesskey        "б">
 <!ENTITY siteDataSettings.label          "Поставке…">
 <!ENTITY siteDataSettings.accesskey      "П">
 <!ENTITY siteDataLearnMoreLink.label     "Сазнајте више">
