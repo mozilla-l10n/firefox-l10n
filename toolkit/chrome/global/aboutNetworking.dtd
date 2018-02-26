@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Mandat">
 <!ENTITY aboutNetworking.received              "Recebut">
 <!ENTITY aboutNetworking.family                "Familha">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Adreças">
 <!ENTITY aboutNetworking.expires               "Expiracion (segondas)">
 <!ENTITY aboutNetworking.messagesSent          "Messatges mandats">

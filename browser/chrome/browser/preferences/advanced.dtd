@@ -37,12 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nos esforçam de vos daissar causir e reculhir sonque las informacions qu'avèm besonh per provesir e melhorar &brandShortName; per tot lo mond. Sempre demandam vòstra permission abans de recebre de donadas personalas.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Politica de confidencialitat">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Autorizar &brandShortName; a mandar los rapòrts de plantatge a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Autorizar &brandShortName; a enviar los rapòrts d’error (inclús los messatges d’error) del navegador a Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "u">
 <!ENTITY collectBrowserErrorsLearnMore.label "Ne saber mai">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Autorizar &brandShortName; a mandar los rapòrts de plantatge a Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Ne saber mai">
 
 <!ENTITY networkTab.label                "Ret">
@@ -61,6 +62,8 @@ available. -->
 <!ENTITY siteData.label                  "Donadas del site">
 <!ENTITY clearSiteData.label             "Escafar totas las donadas">
 <!ENTITY clearSiteData.accesskey         "I">
+<!ENTITY siteData1.label                 "Cookies e donadas de sites">
+<!ENTITY clearSiteData1.label            "Esfaçament de las donadas…">
 <!ENTITY siteDataSettings.label          "Paramètres…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Ne saber mai">
