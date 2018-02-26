@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Errorea orria kargatzerakoan">
 <!ENTITY retry.label "Saiatu berriro">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Huts konektatzerakoan">
 <!ENTITY connectionFailure.longDesc "<p>Nahiz eta guneak egokia dirudien, nabigatzailea ez da konexioa ezartzeko gai.</p><ul><li>Baliteke gunea aldi baterako erabilezina egotea? Saiatu berriro geroago.</li><li>Gauza bera gertatzen zaizu beste guneekin?  Begiratu zure ordenagailuaren sareko konexioa.</li><li>Zure ordenagailu edo sarea suebaki edo proxy baten bitartez babestuta dago? Gaizki konfiguratutako ezarpenek web nabigazioa oztopa dezakete.</li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ostalariak zaharkituta dagoen eta erasoen aurrean babesik ez duen segurtasun-teknologia erabiltzen du. Segurua zela uste zenuen informazioa erraz agerraraz lezake erasotzaile batek. Zuk gunea bisitatu ahal izan aurretik zerbitzaria konpondu behar du webgunearen kudeatzaileak.</p><p>Errore-kodea: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "Orria blokeatuta">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Zure kudeatzaileak sarbidea desgaitu du.</p>">

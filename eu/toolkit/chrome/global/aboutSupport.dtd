@@ -25,6 +25,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareType "Mota">
 <!ENTITY aboutSupport.securitySoftwareName "Izena">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "Antibirusa">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Spywarearen aurkakoa">
 <!ENTITY aboutSupport.securitySoftwareFirewall "Suebakia">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName;(r)en eginbideak">
