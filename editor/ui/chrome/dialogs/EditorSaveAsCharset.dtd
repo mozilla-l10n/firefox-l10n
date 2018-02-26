@@ -7,8 +7,10 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
+<!ENTITY windowTitle2.label "შენახვა და ტექსტის კოდირების შეცვლა">
 <!ENTITY documentTitleTitle.label "გვერდის სათაური">
 <!ENTITY documentCharsetTitle2.label "ტექსტის კოდირება">
+<!ENTITY documentCharsetDesc2.label "ტექსტის კოდირების მითითება დოკუმენტის შესანახად:">
 <!ENTITY documentExportToText.label "ექსპორტი ტექსტად">
 
 

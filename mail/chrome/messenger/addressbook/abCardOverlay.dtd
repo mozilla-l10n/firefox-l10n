@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "კონტაქტი"> 
+<!ENTITY Contact.tab                     "კონტაქტი">
 <!ENTITY Contact.accesskey               "C">
-<!ENTITY Name.box                        "სახელი"> 
+<!ENTITY Name.box                        "სახელი">
 
-<!-- LOCALIZATION NOTE: 
+<!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
  "FirstName" and "LastName" can be swapped for id to change the order
@@ -15,13 +15,13 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName"> 
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName"> 
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id              "PhoneticFirstName"> 
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id              "PhoneticLastName"> 
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "სახელი:">
 <!ENTITY NameField1.accesskey           "F">
@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "უცნობი">
 <!ENTITY chatName.label                 "ეკრანული სახელი:">
 
-<!ENTITY allowRemoteContent1.label      "გარე მონაცემების ნებართვა.">
-<!ENTITY allowRemoteContent1.accesskey   "r">
-<!ENTITY allowRemoteContent1.tooltip     "HTML გზავნილებში შესაძლებელია
-მონაცემების ჩართვა გარე წყაროებიდან. ასეთი გზავნილის გახსნისას
-მოხდება გარე წყაროსთან დაკავშირება. ეს გზავნილის წაკითხვის დასტურის
-შესაძლებლობასაც იძლევა. ამ პარამეტრის ჩართვა ამ კონტაქტიდან HTML გზავნილებში
-მონაცემების ჩართვის ნებას იძლევა.">
-
 <!ENTITY WorkPhone.label                "სამსახური:">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "ბინა:">
@@ -68,19 +60,19 @@
 
 <!ENTITY Home.tab                       "პირადი">
 <!ENTITY Home.accesskey                 "P">
-<!ENTITY HomeAddress.label              "მისამართი:"> 
+<!ENTITY HomeAddress.label              "მისამართი:">
 <!ENTITY HomeAddress.accesskey          "A">
-<!ENTITY HomeAddress2.label             ""> 
+<!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "ქალაქი:"> 
+<!ENTITY HomeCity.label                 "ქალაქი:">
 <!ENTITY HomeCity.accesskey             "y">
-<!ENTITY HomeState.label                "რეგიონი/რაიონი:"> 
+<!ENTITY HomeState.label                "რეგიონი/რაიონი:">
 <!ENTITY HomeState.accesskey            "S">
-<!ENTITY HomeZipCode.label              "ZIP/საფოსტო კოდი:"> 
+<!ENTITY HomeZipCode.label              "ZIP/საფოსტო კოდი:">
 <!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "ქვეყანა:">
 <!ENTITY HomeCountry.accesskey          "u">
-<!ENTITY HomeWebPage.label              "ვებ-გვერდი:"> 
+<!ENTITY HomeWebPage.label              "ვებ-გვერდი:">
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "დაბადების დღე:">
 <!ENTITY Birthday.accesskey             "B">
@@ -90,27 +82,27 @@
 <!ENTITY Age.placeholder                "ასაკი">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "სამსახური"> 
+<!ENTITY Work.tab                       "სამსახური">
 <!ENTITY Work.accesskey                 "W">
-<!ENTITY JobTitle.label                 "თანამდებობა"> 
+<!ENTITY JobTitle.label                 "თანამდებობა">
 <!ENTITY JobTitle.accesskey             "i">
-<!ENTITY Department.label               "განყოფილება:"> 
+<!ENTITY Department.label               "განყოფილება:">
 <!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "ორგანიზაცია:"> 
+<!ENTITY Company.label                  "ორგანიზაცია:">
 <!ENTITY Company.accesskey              "n">
-<!ENTITY WorkAddress.label              "მისამართი:"> 
+<!ENTITY WorkAddress.label              "მისამართი:">
 <!ENTITY WorkAddress.accesskey          "A">
-<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "ქალაქი:"> 
+<!ENTITY WorkCity.label                 "ქალაქი:">
 <!ENTITY WorkCity.accesskey             "y">
-<!ENTITY WorkState.label                "რეგიონი/რაიონი:"> 
+<!ENTITY WorkState.label                "რეგიონი/რაიონი:">
 <!ENTITY WorkState.accesskey            "S">
-<!ENTITY WorkZipCode.label              "ZIP/საფოსტო კოდი:"> 
+<!ENTITY WorkZipCode.label              "ZIP/საფოსტო კოდი:">
 <!ENTITY WorkZipCode.accesskey          "Z">
 <!ENTITY WorkCountry.label              "ქვეყანა:">
 <!ENTITY WorkCountry.accesskey          "u">
-<!ENTITY WorkWebPage.label              "ვებგვერდი:"> 
+<!ENTITY WorkWebPage.label              "ვებგვერდი:">
 <!ENTITY WorkWebPage.accesskey          "e">
 
 <!ENTITY Other.tab                      "სხვა">
@@ -123,7 +115,7 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "საკუთარი 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                      "შენიშვნები:">
+<!ENTITY Notes.label                    "შენიშვნები:">
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Chat.tab                       "სასაუბრო">
@@ -131,7 +123,7 @@
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+<!ENTITY AIM2.accesskey                 "შ">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -139,7 +131,7 @@
 <!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "MSN:">
-<!ENTITY MSN.accesskey                  "M">
+<!ENTITY MSN2.accesskey                 "N">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ID:">
