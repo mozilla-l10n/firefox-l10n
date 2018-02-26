@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Cookies třetích stran">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
+
+<!ENTITY  acceptCookies3.label          "Povolit serverům ukládat cookies a data stránek">
+<!ENTITY  acceptCookies3.accesskey      "a">
+
+<!ENTITY  blockCookies.label            "Blokovat cookies a data stránek (může způsobit nefunkčnost stránek)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Cookies a data stránek třetích stran">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "povolit vždy">
 <!ENTITY  acceptThirdParty.never.label    "nikdy nepovolovat">
 <!ENTITY  acceptThirdParty.visited.label  "povolit pouze navštívené">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Můžete ">
 <!ENTITY  dontrememberActions.clearHistory.label "vymazat celou historii">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Vymazat historii…">
+<!ENTITY  clearHistoryButton.accesskey   "V">
 
 <!ENTITY  privateBrowsingPermanent2.label "Vždy použít režim anonymního prohlížení">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">

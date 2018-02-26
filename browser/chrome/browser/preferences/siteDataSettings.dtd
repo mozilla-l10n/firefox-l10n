@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Úložiště">
+<!ENTITY     lastAccessedCol.label                "Poslední použití">
 <!ENTITY     searchTextboxPlaceHolder             "Hledat">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "H">
 <!ENTITY     removeSelected.label          "Odstranit vybrané">

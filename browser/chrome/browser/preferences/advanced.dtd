@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Co se týče dat, dáváme vám vždy na výběr. Také sbíráme jen ta data, která nám pomohou aplikaci &brandShortName; dále zlepšovat. Před odesíláním osobních dat vždy žádáme o váš souhlas.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Zásady ochrany soukromí">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Odesílat Mozille hlášení o pádech aplikace &brandShortName;">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Povolit aplikaci &brandShortName; odesílat Mozille hlášení o chybách a chybové zprávy.">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Zjistit více">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Odesílat Mozille hlášení o pádech aplikace &brandShortName;">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Povolit aplikaci &brandShortName; odesílat nevyřízená hlášení o pádech za vás">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Zjistit více">
 
 <!ENTITY networkTab.label                "Síť">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Data stránek">
 <!ENTITY clearSiteData.label             "Vymazat data">
 <!ENTITY clearSiteData.accesskey         "V">
+<!ENTITY siteData1.label                 "Cookies a data stránek">
+<!ENTITY clearSiteData1.label            "Vymazat data…">
+<!ENTITY clearSiteData1.accesskey        "V">
 <!ENTITY siteDataSettings.label          "Nastavení…">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Zjistit více">
