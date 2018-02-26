@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Tok pa &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Tajin yejaq ri taq rajowab'al &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Tok chik pam &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tinuk'samajïx rutzalq'omaxik re ruxaq k'amaya'l">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tinuk'samajïx rokisaxik DRM kema'">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Tijaq MIDI pas">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Xq'at ri elesäy ruwachib'al re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Xq'at ri q'asäy ach'ab'äl pa re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Xq'at re ruxaq k'amaya'l re' pa komonïk ruwäch.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Xq'at ri elesäy pop-ups richin re ruxaq k'amaya'l re'.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Xe'aq'ät ri kelesaxik kitzij taq peraj pa re ruxaq k'amaya'l re'.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Xaq'ät ri MIDI rokem re ruxaq k'amaya'l re'.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
 
