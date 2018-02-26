@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Kakor">
 <!ENTITY     usageCol.label                "Lagring">
+<!ENTITY     lastAccessedCol.label                "Senast använd">
 <!ENTITY     searchTextboxPlaceHolder             "Sök webbplatser">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Ta bort markerad">

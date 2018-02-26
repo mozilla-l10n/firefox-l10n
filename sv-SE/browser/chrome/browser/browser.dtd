@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "f">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Logga in till &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Öppna inställningar för &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Återanslut till &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Hantera sidaöversättning">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hantera användningen av DRM-programvara">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Öppna MIDI-panelen">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blockerat din kamera för denna webbsida.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blockerat din mikrofon för denna webbsida.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blockerat denna webbsida från att få dela din skärm">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blockerat popup-fönster för den här webbplatsen.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blockerat canvas-extrahering för denna webbplats.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Du har blockerat MIDI-åtkomst för denna webbplats.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Visa historik">
 
