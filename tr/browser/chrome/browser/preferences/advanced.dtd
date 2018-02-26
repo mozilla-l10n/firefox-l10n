@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "Genel">
 
-<!ENTITY useCursorNavigation.label       "Sayfaların içinde hareket ederken her zaman işaretçi tuşlarını kullan">
+<!ENTITY useCursorNavigation.label       "Sayfaların içinde hareket etmek için her zaman ok tuşlarını kullan">
 <!ENTITY useCursorNavigation.accesskey   "S">
 <!ENTITY searchOnStartTyping.label       "Yazmaya başlar başlamaz arama yap">
 <!ENTITY searchOnStartTyping.accesskey   "z">
@@ -37,12 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Yalnızca &brandShortName; tarayıcınızı geliştirmemize yarayacak verileri topluyoruz ve istemezseniz onları da toplamıyoruz. Kişisel verilerinizi sunucularımıza göndermeden önce mutlaka izninizi istiyoruz.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Gizlilik bildirimi">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;, çökme raporlarımı Mozilla’ya gönderebilir">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "ö">
+
 <!ENTITY collectBrowserErrors.label          "&brandShortName;, tarayıcı hata raporlarını (hata mesajları da dahil olmak üzere) Mozilla’ya gönderebilir">
 <!ENTITY collectBrowserErrors.accesskey      "t">
 <!ENTITY collectBrowserErrorsLearnMore.label "Daha fazla bilgi al">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;, çökme raporlarımı Mozilla’ya gönderebilir">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "ö">
 <!ENTITY crashReporterLearnMore.label    "Daha fazla bilgi al">
 
 <!ENTITY networkTab.label                "Ağ">
