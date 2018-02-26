@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "We streven ernaar u keuzes te bieden en alleen te verzamelen wat we nodig hebben om &brandShortName; voor iedereen beschikbaar te maken en te verbeteren. We vragen altijd toestemming voordat we persoonlijke gegevens ontvangen.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Privacyverklaring">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; toestaan om crashrapporten naar Mozilla te verzenden">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "&brandShortName; toestaan om foutrapporten van de browser (waaronder foutmeldingen) naar Mozilla te verzenden">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Meer info">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; toestaan om crashrapporten naar Mozilla te verzenden">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "&brandShortName; toestaan om namens u achterstallige crashrapporten te verzenden">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Meer info">
 
 <!ENTITY networkTab.label                "Netwerk">
@@ -61,6 +64,7 @@ available. -->
 <!ENTITY siteData.label                  "Websitegegevens">
 <!ENTITY clearSiteData.label             "Alle gegevens wissen">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteData1.label                 "Cookies en websitegegevens">
 <!ENTITY clearSiteData1.label            "Gegevens wissen…">
 <!ENTITY clearSiteData1.accesskey        "e">
 <!ENTITY siteDataSettings.label          "Instellingen…">

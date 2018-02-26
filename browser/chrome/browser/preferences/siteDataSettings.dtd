@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Opslag">
+<!ENTITY     lastAccessedCol.label                "Laatst gebruikt">
 <!ENTITY     searchTextboxPlaceHolder             "Websites doorzoeken">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "z">
 <!ENTITY     removeSelected.label          "Geselecteerde verwijderen">
