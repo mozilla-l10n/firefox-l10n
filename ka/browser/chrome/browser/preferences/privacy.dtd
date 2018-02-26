@@ -51,6 +51,13 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "მესამე მხარის ფუნთუშების მიღება">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ხ">
+
+<!ENTITY  acceptCookies3.label          "ფუნთუშებისა და სხვა მონაცემების მიღება საიტებიდან">
+<!ENTITY  acceptCookies3.accesskey      "მ">
+
+<!ENTITY  blockCookies.label            "ფუნთუშებისა და საიტის მონაცემების აკრძალვა (შესაძლოა ვებსაიტებმა ხარვეზებით იმუშაოს)">
+<!ENTITY  blockCookies.accesskey        "კ">
+
 <!ENTITY  acceptThirdParty.always.label   "ყოველთვის">
 <!ENTITY  acceptThirdParty.never.label    "არასდროს">
 <!ENTITY  acceptThirdParty.visited.label  "მხოლოდ მონახულებულიდან">
@@ -92,6 +99,7 @@
 <!ENTITY  dontrememberActions.pre.label          "შესაძლოა ასევე მოისურვოთ ">
 <!ENTITY  dontrememberActions.clearHistory.label "მიმდინარე ისტორიის გასუფთავება">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "ყოველთვის პირადი დათვალიერების გამოყენება">
 <!ENTITY  privateBrowsingPermanent2.accesskey "პ">
