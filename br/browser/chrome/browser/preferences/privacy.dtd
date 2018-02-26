@@ -6,6 +6,7 @@
 <!ENTITY  trackingProtection2.description      "An heuliañ a zo dastumadeg ho roadennoù merdeiñ e-touez meur a lec'hienn. An heuliañ a c'hall bezañ implijet evit sevel un aelad ha skrammañ endalc'hadoù diazezet war ho merdeiñ hag ho titouroù personel.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Arverañ ar gwarez heuliañ evit stankañ heulierien anavezet">
 <!ENTITY  trackingProtection3.description      "Ar gwarez heuliañ a stank an heulierien enlinenn a zastum ho roadennoù merdeiñ war meur a lec'hienn.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Arverañ ar gwarez heuliañ evit stankañ heulierien anavezet">
 <!ENTITY  trackingProtectionAlways.label       "Atav">
 <!ENTITY  trackingProtectionAlways.accesskey   "t">
 <!ENTITY  trackingProtectionPrivate.label      "Er prenestroù prevez hepken">
@@ -13,6 +14,7 @@
 <!ENTITY  trackingProtectionNever.label        "Morse">
 <!ENTITY  trackingProtectionNever.accesskey    "M">
 <!ENTITY  trackingProtectionLearnMore.label    "Gouzout hiroc'h">
+<!ENTITY  trackingProtectionLearnMore2.label    "Gouzout hiroc'h a-zivout ar gwarez heuliañ hag ho puhez prevez">
 <!ENTITY  trackingProtectionExceptions.label   "Nemedennoù…">
 <!ENTITY  trackingProtectionExceptions.accesskey "N">
 

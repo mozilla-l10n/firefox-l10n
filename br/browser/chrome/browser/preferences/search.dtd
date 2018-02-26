@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "Arverañ ar varrenn chomlec'hioù evit ar c'hlaskoù hag ar merdeiñ">
 <!ENTITY searchBar.shown.label                 "Ouzhpennañ ar varrenn glask er varrenn ostilhoù">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "Diskouez an alioù klask a-us d'ar roll istor e disoc'hoù ar varrenn chomlec'h">
+
 <!ENTITY defaultSearchEngine.label             "Keflusker enklask dre ziouer">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Dibab al lusker klask dre ziouer da arverañ er varrenn chomlec'hioù hag er varrenn glask.">

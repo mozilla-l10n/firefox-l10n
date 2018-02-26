@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Arventennoù - Roadennoù lec'hienn">
+
+<!ENTITY     window1.title                 "Arventennoù - Toupinoù ha roadennoù">
 <!ENTITY     hostCol.label                 "Lec'hienn">
 <!ENTITY     statusCol.label               "Stad">
+<!ENTITY     cookiesCol.label              "Toupinoù">
 <!ENTITY     usageCol.label                "Kadaviñ">
 <!ENTITY     searchTextboxPlaceHolder             "Klask lec'hiennoù">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "K">
@@ -17,3 +20,6 @@
 <!ENTITY     removingDialog.title          "O tilemel roadennoù al lec'hienn">
 <!ENTITY     removingSelected.description  "Dilemel roadennoù al lec'hienn a zilamo ivez an toupinoù liammet gant an endalc'had web ezlinenn. Gallout a ra ho tigennaskañ eus lec'hiennoù. Sur oc'h e fell deoc'h arloañ ar c'hemmoù-se?">
 <!ENTITY     siteTree2.label               "Dilamet e vo toupinoù al lec'hienn da-heul">
+<!ENTITY     removingDialog1.title         "O lemel kuit an toupinoù ha roadennoù lec'hienn">
+<!ENTITY     removingSelected1.description "Dilemel an toupinoù hag ar roadennoù lec'hienn a c'hall digennaskañ ac'hanoc'h eus lec'hiennoù 'zo. Sur oc'h e fell deoc'h ober ar c'hemmoù-se?">
+<!ENTITY     siteTree3.label               "Dilamet e vo an toupinoù hag ar roadennoù lec'hienn diouzh al lec'hiennoù da-heul">
