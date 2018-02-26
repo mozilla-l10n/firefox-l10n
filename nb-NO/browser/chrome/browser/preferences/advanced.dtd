@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Vi prøver alltid å gi deg valg og samler bare det vi trenger for å levere og forbedre &brandShortName; for alle. Vi ber alltid om tillatelse før vi aksepterer personopplysninger.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Personvernbestemmelser">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Tillat &brandShortName; å sende krasjrapporter til Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "T">
+
 <!ENTITY collectBrowserErrors.label          "Tillat &brandShortName; å sende feilrapporter (inkludert feilmeldinger) til Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "f">
 <!ENTITY collectBrowserErrorsLearnMore.label "Les mer">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Tillat &brandShortName; å sende krasjrapporter til Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "T">
+<!ENTITY sendBackloggedCrashReports.label  "Tillat &brandShortName; å sende etterslepne krasjrapporter på dine vegne">
+<!ENTITY sendBackloggedCrashReports.accesskey "s">
 <!ENTITY crashReporterLearnMore.label    "Les mer">
 
 <!ENTITY networkTab.label                "Nettverk">
@@ -58,9 +61,12 @@ available. -->
 <!ENTITY httpCache.label                 "Hurtiglagret nettinnhold">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
-<!ENTITY siteData.label                  "Sidedata">
+<!ENTITY siteData.label                  "Nettstedsdata">
 <!ENTITY clearSiteData.label             "Fjern alle data">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteData1.label                 "Infokapsler og nettsidedata">
+<!ENTITY clearSiteData1.label            "Tøm data…">
+<!ENTITY clearSiteData1.accesskey        "a">
 <!ENTITY siteDataSettings.label          "Innstillinger …">
 <!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataLearnMoreLink.label     "Les mer">
