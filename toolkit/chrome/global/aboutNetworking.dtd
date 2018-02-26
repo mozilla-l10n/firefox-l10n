@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "已送出">
 <!ENTITY aboutNetworking.received              "已接收">
 <!ENTITY aboutNetworking.family                "Family">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "地址">
 <!ENTITY aboutNetworking.expires               "期限（秒）">
 <!ENTITY aboutNetworking.messagesSent          "送出的訊息數">

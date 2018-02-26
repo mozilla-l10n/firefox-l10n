@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "登入至 &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "開啟 &syncBrand.shortName.label; 偏好設定">
 <!ENTITY fxaSignInError.label "重新連線至 &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "管理頁面翻譯">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "管理 DRM 軟體使用">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "開啟 MIDI 面板">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "您已封鎖此網站的攝影機存取權限。">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "您已封鎖此網站存取您麥克風的權限。">
 <!ENTITY urlbar.screenBlocked.tooltip            "您已封鎖此網站分享您螢幕畫面的權限。">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "您封鎖了此網站的彈出視窗。">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "您已封鎖此網站讀取 canvas 資料的權限。">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "您已封鎖此網站的 MIDI 存取權限。">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "顯示瀏覽紀錄">
 
