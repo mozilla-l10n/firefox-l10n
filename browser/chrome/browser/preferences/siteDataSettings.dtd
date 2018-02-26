@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     cookiesCol.label              "Колачићи">
 <!ENTITY     usageCol.label                "Складиште">
+<!ENTITY     lastAccessedCol.label                "Последњи пут коришћено">
 <!ENTITY     searchTextboxPlaceHolder             "Претражи веб сајтове">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "П">
 <!ENTITY     removeSelected.label          "Уклони изабрани">
