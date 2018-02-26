@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Infokapslar">
 <!ENTITY     usageCol.label                "Lagring">
+<!ENTITY     lastAccessedCol.label                "Sist brukt">
 <!ENTITY     searchTextboxPlaceHolder             "Søk på nettsider">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Fjern valde">

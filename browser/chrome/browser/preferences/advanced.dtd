@@ -37,12 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Vi prøver alltid å gje deg val og samlar inn berre det vi treng for å levere og forbetre &brandShortName; for alle. Vi ber alltid om løyve før vi får personopplysningar.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Personvernerklæring">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Tillat &brandShortName; å sende krasjrapportar til Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "T">
+
 <!ENTITY collectBrowserErrors.label          "Tillat &brandShortName; å sende feilrapportar (inkludert feilmeldingar) til Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "T">
 <!ENTITY collectBrowserErrorsLearnMore.label "Les meir">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Tillat &brandShortName; å sende krasjrapportar til Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "T">
 <!ENTITY crashReporterLearnMore.label    "Les meir">
 
 <!ENTITY networkTab.label                "Nettverk">
@@ -61,6 +62,9 @@ available. -->
 <!ENTITY siteData.label                  "Sidedata">
 <!ENTITY clearSiteData.label             "Nullstill alle data">
 <!ENTITY clearSiteData.accesskey         "u">
+<!ENTITY siteData1.label                 "Infokapslar og sidedata">
+<!ENTITY clearSiteData1.label            "Tøm data…">
+<!ENTITY clearSiteData1.accesskey        "T">
 <!ENTITY siteDataSettings.label          "Innstillingar…">
 <!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataLearnMoreLink.label     "Les meir">
