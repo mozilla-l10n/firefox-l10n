@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies3.label          "ওয়েবসাইটগুলি থেকে কুকি এবং সাইট ডাটা গ্রহণ করুন">
+<!ENTITY  acceptCookies3.accesskey      "A">
+
+<!ENTITY  blockCookies.label            "কুকি এবং সাইট ডাটা ব্লক করুন (ওয়েবসাইট ভাঙ্গতে পারে)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "তৃতীয়-পক্ষের কুকি এবং সাইট ডাটা গ্রহণ করুন">
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "সর্বদা">
 <!ENTITY  acceptThirdParty.never.label    "কখনো নয়">
 <!ENTITY  acceptThirdParty.visited.label  "প্রদর্শিত হতে">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "আপনি চাইলে ">
 <!ENTITY  dontrememberActions.clearHistory.label "বর্তমান সব ইতিহাস মুছে ফেলা হবে">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "ইতিহাস মুছে ফেলুন…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "সবসময় একান্ত ব্রাউজিং মোড ব্যবহার করুন p">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
