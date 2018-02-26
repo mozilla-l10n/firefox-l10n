@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Chcemy was z wuběrami wobstarać a jenož to zběrać, štož dyrbimy poskićić, zo bychmy &brandShortName; za kóždeho polěpšili. Prosymy přeco wo dowolnosć, prjedy hač wosobinske daty dóstanjemy.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Zdźělenka priwatnosće">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; zmóžnić, spadowe rozprawy na Mozilla pósłać">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "s">
+
 <!ENTITY collectBrowserErrors.label          "&brandShortName; dowolić, Mozilla zmylkowe rozprawy (inkluziwnje zmylkowe zdźělenki) pósłać">
 <!ENTITY collectBrowserErrors.accesskey      "z">
 <!ENTITY collectBrowserErrorsLearnMore.label "Dalše informacije">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; zmóžnić, spadowe rozprawy na Mozilla pósłać">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "s">
+<!ENTITY sendBackloggedCrashReports.label  "&brandShortName; dowolić, njewobdźěłane spadowe rozprawy we wašim mjenje pósłać">
+<!ENTITY sendBackloggedCrashReports.accesskey "r">
 <!ENTITY crashReporterLearnMore.label    "Dalše informacije">
 
 <!ENTITY networkTab.label                "Syć">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Sydłowe daty">
 <!ENTITY clearSiteData.label             "Wšě daty zhašeć">
 <!ENTITY clearSiteData.accesskey         "h">
+<!ENTITY siteData1.label                 "Placki a sydłowe daty">
+<!ENTITY clearSiteData1.label            "Daty zhašeć…">
+<!ENTITY clearSiteData1.accesskey        "z">
 <!ENTITY siteDataSettings.label          "Nastajenja…">
 <!ENTITY siteDataSettings.accesskey      "N">
 <!ENTITY siteDataLearnMoreLink.label     "Dalše informacije">
