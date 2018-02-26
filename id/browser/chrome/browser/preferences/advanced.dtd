@@ -37,12 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan &brandShortName; bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Pemberitahuan Privasi">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Izinkan &brandShortName; untuk mengirim laporan mogok ke Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "r">
+
 <!ENTITY collectBrowserErrors.label          "Izinkan &brandShortName; mengirim laporan galat peramban (termasuk pesan galat) ke Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "p">
 <!ENTITY collectBrowserErrorsLearnMore.label "Pelajari lebih lanjut">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Izinkan &brandShortName; untuk mengirim laporan mogok ke Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "r">
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">
 
 <!ENTITY networkTab.label                "Jaringan">
@@ -61,6 +62,8 @@ available. -->
 <!ENTITY siteData.label                  "Data Situs">
 <!ENTITY clearSiteData.label             "Bersihkan Semua Data">
 <!ENTITY clearSiteData.accesskey         "B">
+<!ENTITY siteData1.label                 "Kuki dan Data Situs">
+<!ENTITY clearSiteData1.label            "Hapus Data…">
 <!ENTITY siteDataSettings.label          "Pengaturan…">
 <!ENTITY siteDataSettings.accesskey      "u">
 <!ENTITY siteDataLearnMoreLink.label     "Pelajari lebih lanjut">

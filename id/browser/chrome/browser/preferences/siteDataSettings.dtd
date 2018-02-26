@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Kuki">
 <!ENTITY     usageCol.label                "Penyimpanan">
+<!ENTITY     lastAccessedCol.label                "Terakhir Digunakan">
 <!ENTITY     searchTextboxPlaceHolder             "Cari situs web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "C">
 <!ENTITY     removeSelected.label          "Hapus yang Dipilih">
