@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Ha min ndarii ngam addande on cuɓe tawi kadi min ƴettata tan ko ko min ngaddanta on e ko min ƴellittanta on &brandShortName; Ha min naamndo yamiroore sahaa kala ko adii keɓgol kabaruuji maa keeriiɗi.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Tintinol Suturo">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Yamir &brandShortName; yo neldu jaŋte kooke e Moɗilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Yamir &brandShortName; yo neldu ciimti juume (yantude heen mesaasuuji juume) to Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Ɓeydu humpito">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Yamir &brandShortName; yo neldu jaŋte kooke e Moɗilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Yamir &brandShortName; yo neldu jaŋte kooke leeltuɗe e innde maa">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Jokku taro">
 
 <!ENTITY networkTab.label                "Laylaytol">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Keɓe Lowre">
 <!ENTITY clearSiteData.label             "Momtu Keɓe ɗee Fof">
 <!ENTITY clearSiteData.accesskey         "o">
+<!ENTITY siteData1.label                 "Kuukiije kam e Keɓe Lowre">
+<!ENTITY clearSiteData1.label            "Momtu Keɓe…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Teelte… ">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Jokku taro">
