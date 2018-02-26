@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "이미지 공유하지 않기">
 <!ENTITY save_as_pdf "PDF로 저장">
 <!ENTITY print "인쇄">
+<!ENTITY view_page_source "페이지 소스 보기">
 <!ENTITY find_in_page "페이지내 검색">
 <!ENTITY desktop_mode "PC웹으로 보기">
 <!ENTITY page "페이지">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "새 탭 열기">
 <!ENTITY contextmenu_open_private_tab "사생활 탭 열기">
 <!ENTITY contextmenu_remove "삭제">
-<!ENTITY contextmenu_add_to_launcher "홈 화면에 추가">
 <!ENTITY contextmenu_add_page_shortcut "페이지 바로가기 추가">
 <!ENTITY contextmenu_set_as_homepage "홈페이지로 설정">
 <!ENTITY contextmenu_share "공유">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "페이지 삭제됨">
-
 <!ENTITY folder_removed "폴더 삭제됨">
 
 <!ENTITY bookmark_edit_title "북마크 편집">
@@ -811,6 +810,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "죄송합니다! 이 &brandShortName; 는 이 기기 (&formatS1;, &formatS2;)에서 동작하지 않습니다. 알맞은 버전을 다운로드 해주세요.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName;를 열 수 없습니다. 재설치 후 다시 시도하시기 바랍니다.">
+
 <!ENTITY eol_notification_title2 "&brandShortName;를 더이상 업데이트 하지 않음">
 <!ENTITY eol_notification_summary "탭해서 자세히 보기">
 
@@ -818,8 +820,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName;가 최신버전입니다">
 <!ENTITY whatsnew_notification_summary "새로운 기능을 확인하세요">
-
-<!ENTITY promotion_add_to_homescreen "홈 화면에 추가">
 
 <!ENTITY promotion_add_page_shortcut "페이지 바로가기 추가">
 
