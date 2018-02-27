@@ -3,9 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Agordoj - Retejaj datumoj">
+
+<!ENTITY     window1.title                 "Agordoj - Kuketoj kaj retejaj datumoj">
 <!ENTITY     hostCol.label                 "Retejo">
 <!ENTITY     statusCol.label               "Stato">
+<!ENTITY     cookiesCol.label              "Kuketoj">
 <!ENTITY     usageCol.label                "Konservejo">
+<!ENTITY     lastAccessedCol.label                "Laste uzita">
 <!ENTITY     searchTextboxPlaceHolder             "Serĉi retejojn">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Forigi elektitajn">
@@ -17,3 +21,6 @@
 <!ENTITY     removingDialog.title          "Datumoj de retejoj forigataj">
 <!ENTITY     removingSelected.description  "La forigo de retejaj datumoj ankaŭ forigos rilatajn kaj kuketojn kaj malkonektitaĵojn. Tio ĉi povus fini vian seancon en retejoj. Ĉu vi certe volas fari la ŝanĝojn?">
 <!ENTITY     siteTree2.label               "La jenaj retejaj kuketoj estos forigitaj">
+<!ENTITY     removingDialog1.title         "Forigo de kuketoj kaj retejaj datumoj…">
+<!ENTITY     removingSelected1.description "Forigo de kuketoj kaj retejaj datumoj povus fini viajn seancojn en retejoj. Ĉu vi certe volas fari tiujn ŝanĝojn?">
+<!ENTITY     siteTree3.label               "Kuketoj kaj retejaj datumoj estos forigitaj por la jenaj retejoj">
