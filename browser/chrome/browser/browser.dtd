@@ -125,6 +125,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "ส">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "ลงชื่อเข้า &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดค่ากำหนด &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่">
@@ -225,6 +227,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "จัดการการแปลหน้านี้">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "จัดการการใช้ซอฟต์แวร์ DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "เปิดแผง MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "คุณได้ปิดกั้นกล้องของคุณสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "คุณได้ปิดกั้นไมโครโฟนของคุณสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.screenBlocked.tooltip            "คุณได้ปิดกั้นเว็บไซต์นี้จากการแบ่งปันหน้าจอของคุณ">
@@ -232,6 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "คุณได้ปิดกั้นการแจ้งเตือนสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "คุณได้ปิดกั้นที่เก็บข้อมูลถาวรสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.popupBlocked.tooltip             "คุณได้ปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">
+
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
@@ -991,3 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "คุณลักษณะการช่วยการเข้าถึงถูกเปิดใช้งานอยู่">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
