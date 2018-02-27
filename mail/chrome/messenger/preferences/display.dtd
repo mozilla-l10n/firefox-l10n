@@ -50,7 +50,24 @@
 <!ENTITY reading.caption                  "კითხვა">
 <!ENTITY display.caption                  "გამოსახვა">
 <!ENTITY showCondensedAddresses.label     "წიგნაკში, მხოლოდ გამოსაჩენი სახელების ჩვენება">
+<!ENTITY showCondensedAddresses.accesskey "წ">
 
+<!ENTITY autoMarkAsRead.label             "წერილების წაკითხულად მონიშვნა ავტომატურად">
+<!ENTITY autoMarkAsRead.accesskey         "ტ">
+<!ENTITY markAsReadNoDelay.label          "დაუყოვნებლივ გამოჩენა">
+<!ENTITY markAsReadNoDelay.accesskey      "უ">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "მოცემული დროით ჩვენების შემდეგ">
+<!ENTITY markAsReadDelay.accesskey        "დ">
+<!ENTITY secondsLabel.label               "წამი">
+<!ENTITY openMsgIn.label                  "გაიხსნას წერილები:">
+<!ENTITY openMsgInNewTab.label            "ახალ ჩანართში">
+<!ENTITY openMsgInNewTab.accesskey        "ჩ">
+<!ENTITY reuseExpRadio0.label             "ახალ ფანჯარაში">
+<!ENTITY reuseExpRadio0.accesskey         "ფ">
+<!ENTITY reuseExpRadio1.label             "წერილების არსებულ ფანჯარაში">
+<!ENTITY reuseExpRadio1.accesskey         "რ">
+<!ENTITY closeMsgOnMoveOrDelete.label     "წერილის ფანჯრის/ჩანართის დახურვა ან გადატანა, ან წაშლა">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "ხ">

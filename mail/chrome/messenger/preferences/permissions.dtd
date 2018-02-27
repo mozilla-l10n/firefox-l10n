@@ -21,6 +21,8 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "დახურვა">
-<!ENTITY button.close.accesskey       "C">
+<!ENTITY button.cancel.label          "გაუქმება">
+<!ENTITY button.cancel.accesskey      "გ">
+<!ENTITY button.ok.label              "ცვლილებების შენახვა">
+<!ENTITY button.ok.accesskey          "ც">
 
