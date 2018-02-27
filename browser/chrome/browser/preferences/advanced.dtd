@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "&brandShortName;를 모두를 위해 제공하고 개선하기 위해서 필요한 것만 수집하고 선택권을 제공하기 위해 노력합니다. 개인 정보를 전송하기 전에 항상 허가여부를 묻습니다.">
 <!ENTITY dataCollectionPrivacyNotice.label    "개인정보 안내">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;가 Mozilla에 충돌 보고를 보내도록 허용">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "&brandShortName;가 Mozilla에 브라우저 오류 보고서(오류 메시지 포함)를 보내도록 허용">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "자세히 보기">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;가 Mozilla에 충돌 보고를 보내도록 허용">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "&brandShortName;가 사용자를 대신해서 백로그 충돌 보고서를 보낼 수 있게 함">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "더 알아보기">
 
 <!ENTITY networkTab.label                "네트워크">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "사이트 데이터">
 <!ENTITY clearSiteData.label             "모든 데이터 삭제">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteData1.label                 "쿠키와 사이트 데이타">
+<!ENTITY clearSiteData1.label            "데이타 삭제…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "설정…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "더 알아보기">
