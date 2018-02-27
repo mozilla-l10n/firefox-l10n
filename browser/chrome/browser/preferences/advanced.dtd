@@ -39,6 +39,13 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Дозволити &brandShortName; надсилати звіти про збої в Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "з">
+
+<!ENTITY collectBrowserErrors.label          "Дозволити &brandShortName; надсилати звіти і повідомлення про помилки в Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "з">
+<!ENTITY collectBrowserErrorsLearnMore.label "Докладніше">
+
+<!ENTITY sendBackloggedCrashReports.label  "Дозволити &brandShortName; надсилати від вашого імені зібрані звіти про збої">
+<!ENTITY sendBackloggedCrashReports.accesskey "н">
 <!ENTITY crashReporterLearnMore.label    "Докладніше">
 
 <!ENTITY networkTab.label                "Мережа">
@@ -57,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Дані сайтів">
 <!ENTITY clearSiteData.label             "Стерти всі дані">
 <!ENTITY clearSiteData.accesskey         "т">
+<!ENTITY siteData1.label                 "Куки і дані сайтів">
+<!ENTITY clearSiteData1.label            "Стерти дані…">
+<!ENTITY clearSiteData1.accesskey        "С">
 <!ENTITY siteDataSettings.label          "Налаштування…">
 <!ENTITY siteDataSettings.accesskey      "ш">
 <!ENTITY siteDataLearnMoreLink.label     "Докладніше">

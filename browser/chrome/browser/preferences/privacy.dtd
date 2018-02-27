@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Приймати куки сторонніх сайтів">
 <!ENTITY  acceptThirdParty2.pre.accesskey "н">
+
+<!ENTITY  acceptCookies3.label          "Приймати куки і дані з веб-сайтів">
+<!ENTITY  acceptCookies3.accesskey      "П">
+
+<!ENTITY  blockCookies.label            "Блокувати куки і дані (може призвести до пошкодження веб-сайтів)">
+<!ENTITY  blockCookies.accesskey        "Б">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Приймати сторонні куки і дані сайтів">
+<!ENTITY  acceptThirdParty3.pre.accesskey "к">
 <!ENTITY  acceptThirdParty.always.label   "Завжди">
 <!ENTITY  acceptThirdParty.never.label    "Ніколи">
 <!ENTITY  acceptThirdParty.visited.label  "Від відвіданих">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Можливо ви також хочете ">
 <!ENTITY  dontrememberActions.clearHistory.label "стерти всю поточну історію">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Стерти історію…">
+<!ENTITY  clearHistoryButton.accesskey   "С">
 
 <!ENTITY  privateBrowsingPermanent2.label "Завжди використовувати режим приватного перегляду">
 <!ENTITY  privateBrowsingPermanent2.accesskey "п">
