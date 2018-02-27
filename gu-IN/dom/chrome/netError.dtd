@@ -82,3 +82,5 @@
 <!ENTITY inadequateSecurityError.title "તમારું જોડાણ સુરક્ષિત નથી">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+<!ENTITY blockedByPolicyTemp.title "પૃષ્ઠ અવરોધિત">
