@@ -22,3 +22,5 @@
 <!ENTITY     removingSelected.description  "Removing site data will also remove related cookies and offline web content. This may log you out of websites. Are you sure you want to make the changes?">
 <!ENTITY     siteTree2.label               "The following website cookies will be removed">
 <!ENTITY     removingDialog1.title         "Seikdatņu un lopys datu dziešona">
+<!ENTITY     removingSelected1.description "Seikdatņu un lopys datu dziešona var nūvest pi izalūgōšonōs nu škārsteika lopom. Tu vyssvīns gribi veikt izmaiņas?">
+<!ENTITY     siteTree3.label               "Seikdatnes un lopys dati nu sekojušom lopom tiks dzāstas">
