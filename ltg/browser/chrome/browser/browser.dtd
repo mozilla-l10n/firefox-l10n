@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "v">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Pīraksteitīs &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Attaiseit &syncBrand.shortName.label; īstatiejumus">
 <!ENTITY fxaSignInError.label "Atkuortuoti sasavīnuot ar &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Manage page translation">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Puorvaļdeit DRM programaturys izmontuošonu">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Attaiseit MIDI paneli">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "You have blocked your camera for this website.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "You have blocked your microphone for this website.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ekrana kūplītuošona ar itū lopu ir blokeita.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Izlacušū lūku rōdiešona itymā lopā ir aizlīgta.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Datu sajimšona nu ituos lopys canvas ir blokeita.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Tu esi aizlīdzs MIDI pīkļuvi itai lopai.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Paruodeit viesturi">
 

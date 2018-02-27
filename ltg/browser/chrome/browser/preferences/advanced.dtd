@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "We strive to provide you with choices and collect only what we need to provide and improve &brandShortName; for everyone. We always ask permission before receiving personal information.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Privatuma pīzeime">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Ļaut &brandShortName; syuteit avarejis zinuojumus Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Atļaut &brandShortName; syuteit porlyuka klaidu atskaites (ari klaidu ziņojumus) Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Vaira">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Ļaut &brandShortName; syuteit avarejis zinuojumus Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Ļaut &brandShortName; tovā vōrdā syuteit sakrōtūs avarejis ziņojumus">
+<!ENTITY sendBackloggedCrashReports.accesskey "t">
 <!ENTITY crashReporterLearnMore.label    "Uzzynojit vairuok">
 
 <!ENTITY networkTab.label                "Teikls">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Lopys dati">
 <!ENTITY clearSiteData.label             "Izdzēst vysus datus">
 <!ENTITY clearSiteData.accesskey         "v">
+<!ENTITY siteData1.label                 "Cookies un lopys dati">
+<!ENTITY clearSiteData1.label            "Dzēst datus…">
+<!ENTITY clearSiteData1.accesskey        "z">
 <!ENTITY siteDataSettings.label          "Īstatiejumi...">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Uzzynojit vairuok">
