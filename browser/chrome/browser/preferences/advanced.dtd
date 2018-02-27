@@ -66,6 +66,7 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "V">
 <!ENTITY siteData1.label                 "Kuketoj kaj retejaj datumoj">
 <!ENTITY clearSiteData1.label            "Viŝi datumojn…">
+<!ENTITY clearSiteData1.accesskey        "V">
 <!ENTITY siteDataSettings.label          "Agordoj…">
 <!ENTITY siteDataSettings.accesskey      "A">
 <!ENTITY siteDataLearnMoreLink.label     "Pli da informo">
