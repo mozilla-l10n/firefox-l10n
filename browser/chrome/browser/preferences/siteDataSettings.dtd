@@ -3,9 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Налаштування - Дані сайтів">
+
+<!ENTITY     window1.title                 "Налаштування - Куки і дані сайтів">
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Стан">
+<!ENTITY     cookiesCol.label              "Куки">
 <!ENTITY     usageCol.label                "Сховище">
+<!ENTITY     lastAccessedCol.label                "Востаннє використано">
 <!ENTITY     searchTextboxPlaceHolder             "Пошук веб-сайтів">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "П">
 <!ENTITY     removeSelected.label          "Видалити вибрані">
@@ -17,3 +21,6 @@
 <!ENTITY     removingDialog.title          "Видалення даних сайтів">
 <!ENTITY     removingSelected.description  "Видалення даних сайтів також видалить пов'язані куки і автономний веб-вміст. Це може призвести до вашого виходу з веб-сайтів. Ви справді хочете зробити зміни?">
 <!ENTITY     siteTree2.label               "Будуть видалені наступні куки веб-сайтів">
+<!ENTITY     removingDialog1.title         "Видалення кук і даних сайтів">
+<!ENTITY     removingSelected1.description "Видалення кук і даних сайтів може призвести до виходу на ваших веб-сайтах. Ви справді хочете зробити ці зміни?">
+<!ENTITY     siteTree3.label               "Куки і дані сайтів для наступних веб-сайтів будуть видалені">
