@@ -322,6 +322,8 @@
 <!ENTITY removeAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "გადარქმევა…">
 <!ENTITY renameAttachment.accesskey "R">
+<!ENTITY reorderAttachments.label "დანართების გადალაგება…">
+<!ENTITY reorderAttachments.accesskey "ლ">
 <!ENTITY selectAll.label "სრული მონიშვნა">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "ფაილ(ებ)ის მიმაგრება…">
@@ -345,5 +347,9 @@
 <!ENTITY addressesSidebarTitle.label "კონტაქტები">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "გამგზავნის მისამართის პარამეტრები…">
+<!ENTITY customizeFromAddress.accesskey "რ">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "მართლწერის შემმოწმებლის ენა">
+<!ENTITY encodingStatusPanel.tooltip "ტექსტის კოდირება">
