@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "ახალი ჭდის შექმნა">
+<!ENTITY newTagDialog1.title     "ახალი ჭდე">
 <!ENTITY name.label              "ჭდის სახელი:">
-<!ENTITY name.accesskey             "T">
+<!ENTITY name.accesskey          "T">
