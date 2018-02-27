@@ -28,6 +28,8 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "სავიზიტო ბარათი (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "მოგვიანებით შეხსენება">
+<!ENTITY remindLater.accesskey "გ">
 <!ENTITY closeCmd.label "დახურვა">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
@@ -50,6 +52,8 @@
 <!ENTITY sendLaterCmd.accesskey "L">
 <!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "შეთვალიერება ამობეჭდვამდე">
+<!ENTITY printPreviewCmd.accesskey "ვ">
 <!ENTITY printCmd.label "ბეჭდვა…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -81,9 +85,17 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "დანართის გადარქმევა…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "დანართების გადალაგება…">
+<!ENTITY reorderAttachmentsCmd.accesskey "დ">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "სრული მონიშვნა">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY findBarCmd.label "პოვნა…">
+<!ENTITY findBarCmd.accesskey "ო">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "პოვნა და ჩანაცვლება…">
+<!ENTITY findReplaceCmd.accesskey "ც">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "კვლავძიება">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -95,20 +107,40 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "დანართების გადალაგება">
+<!ENTITY moveAttachmentTopPanelBtn.label "დასაწყისში გადატანა">
+<!ENTITY moveAttachmentTopPanelBtn.accesskey "წ">
+<!ENTITY moveAttachmentUpPanelBtn.label "აწევა">
+<!ENTITY moveAttachmentUpPanelBtn.accesskey "ა">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "ერთად გადატანა">
+<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "რ">
+<!ENTITY moveAttachmentDownPanelBtn.label "ჩამოწევა">
+<!ENTITY moveAttachmentDownPanelBtn.accesskey "ჩ">
+<!ENTITY moveAttachmentBottomPanelBtn.label "ბოლოში გადატანა">
+<!ENTITY moveAttachmentBottomPanelBtn.accesskey "ბ">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "მონიშნულის ანბანურად დალაგება: ა - ზ">
 <!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
      This accesskey should be the same like
      sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
      the "Sort Selection:" part of the label, not from the sort direction part. -->
+<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "ო">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "მონიშნულის ანბანურად დალაგება: ზ - ა">
+<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "ო">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "დალაგება: ა - ზ">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "დალაგება: ზ - ა">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "მონიშნულის ანბანურად დალაგება: ა - ზ">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "მონიშნულის ანბანურად დალაგება: ზ - ა">
+<!ENTITY sortAttachmentsPanelBtn.key "ა">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "ჩვენება">
@@ -165,6 +197,7 @@
 <!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "პრიორიტეტი">
 <!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityButton.title "უპირატესობა">
 <!ENTITY priorityButton.label "პრიორიტეტი:">
 <!ENTITY lowestPriorityCmd.label "უდაბლესი">
 <!ENTITY lowestPriorityCmd.accesskey "l">
