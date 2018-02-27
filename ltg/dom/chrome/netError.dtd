@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Lopys īluodes klaida">
 <!ENTITY retry.label "Try Again">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Naizadeve pīsasliegt">
 <!ENTITY connectionFailure.longDesc "<p>Kab ari izavālātā lopa līkas pareiza, puorlūks navarieja nūdybynuot savīnuojumu.</p><ul><li>Īspiejams, lopa ir eislaiceigi napīejama? Raugit vēļreiz nadaudz vāluok.</li><li>Voi jiusim ir problemys ari ar cytu lopu apsavieršonu? Puorbaudit sova datora teikla savīnuojumu.</li><li>Voi jiusu dators ir aizsorguots nu teikla ar guņsmyuri? Napareizi guņsmyura īstatiejumi var treuceit šķārsteikla puorlūkuošonu.</li></ul>">
@@ -86,3 +86,6 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicyTemp.title "Lopa bloķieta">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Pīkļuvi aizlīdze tovs administrators.</p>">
