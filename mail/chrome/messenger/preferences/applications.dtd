@@ -22,7 +22,7 @@
 <!ENTITY chooseFolderMac.label        "შერჩევა…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
-<!ENTITY attachments.incoming.label   "შემოსული">
+<!ENTITY attachments.incoming.label   "მიღება">
 <!ENTITY attachments.outgoing.label   "გასული">
 
 <!ENTITY addCloudFileAccount1.label       "დამატება…">

@@ -25,7 +25,7 @@
 <!ENTITY pop3DeferringDesc.label "ანგარიშის სერვერიდან წერილების ჩამოტვირთვისას, მოცემული საქაღალდის გამოყენება მათ შესანახად:" >
 <!ENTITY accountInbox.label "ანგარიშის საფოსტო ყუთი">
 <!ENTITY accountInbox.accesskey "ს">
-<!ENTITY deferToServer.label "'შემოსული' სხვა ანგარიშისთვის">
+<!ENTITY deferToServer.label "მიღებული წერილების საქაღალდე სხვა ანგარიშისთვის">
 <!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "სერვერის მითითება ახალი ფოსტის მიღებისას">
 <!ENTITY deferGetNewMail.accesskey "I">

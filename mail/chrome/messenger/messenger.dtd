@@ -658,7 +658,7 @@
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "წაშლა">
 <!ENTITY folderContextRemove.accesskey "D">
-<!ENTITY folderContextCompact.label "საქაღალდის შემჭიდროვება">
+<!ENTITY folderContextCompact.label "შეკუმშვა">
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "ურნის გასუფთავება">
 <!ENTITY folderContextEmptyTrash.accesskey "y">

@@ -12,7 +12,7 @@
 <!ENTITY requestReceipt.label         "წერილის გაგზავნისას მიღების დასტურის ყოველთვის მოთხოვნა">
 <!ENTITY requestReceipt.accesskey     "W">
 <!ENTITY receiptArrive.label          "დასტურის მოსვლისას:">
-<!ENTITY leaveIt.label                "დატოვება 'შემოსულში'">
+<!ENTITY leaveIt.label                "მიღებულ წერილებში დატოვება">
 <!ENTITY leaveIt.accesskey            "I">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "გადატანა დასტაში &quot;გასული&quot;">
