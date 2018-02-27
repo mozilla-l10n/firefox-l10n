@@ -164,7 +164,10 @@
 ">
 
 <!ENTITY cspBlocked.title "შეზღუდულია, შიგთავსის უსაფრთხოების დებულების შესაბამისად">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, რადგან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "დაზიანებული შიგთავსის შეცდომა">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>თქვენთვის სასურველი გვერდი ვერ გაიხსნება, რადგან მონაცემთა გაცვლისას მოხდა შეცდომა.</p><ul><li>გთხოვთ დაუკავშირდით საიტის მფლობელებს და შეარტყობინეთ ამ შეცდომაზე.</li></ul>">
 
 <!ENTITY securityOverride.linkText "ან გამონაკლისის დამატება შეგიძლიათ…">
 <!ENTITY securityOverride.getMeOutOfHereButton "გამაშორე აქაურობას!">
@@ -185,5 +188,9 @@ functionality specific to thunderbird. -->
 <!ENTITY remoteXUL.title "გარე XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "კავშირი დაუცველია">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ ტექნოლოგიას, რომელიც მოძველებული და დაუცველია. თავდამსხმელმა შესაძლოა მარტივად მიიღოს იმ მონაცემებზე წვდომა, რომელიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "გვერდი შეზღუდულია">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>წვდომა შეზღუდულია თქვენი ქსელის მმართველის მიერ.</p>">
