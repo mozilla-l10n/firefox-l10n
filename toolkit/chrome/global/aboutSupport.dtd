@@ -117,7 +117,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "მოქმედი">
 <!ENTITY aboutSupport.a11yForceDisabled "დამხმარე საშუალებების აკრძალვა">
 <!ENTITY aboutSupport.a11yHandlerUsed "გამოყენებულია ხელმისაწვდომი დამმუშავებელი">
-<!ENTITY aboutSupport.a11yInstantiator "დამხმარე Instantiator">
+<!ENTITY aboutSupport.a11yInstantiator "დამხმარე საშუალებების უზრუნველყოფა">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "ბიბლიოთეკის ვერსიები">
 
