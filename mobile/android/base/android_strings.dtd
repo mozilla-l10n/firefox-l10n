@@ -362,7 +362,7 @@
 <!ENTITY pref_qrcode_enabled "QR kod oxuyucu">
 <!ENTITY pref_qrcode_enabled_summary2 "Başlıq sətrində QR oxuyucuya icazə ver">
 
-<!ENTITY pref_use_master_password "Ana şifrədən istifadə et">
+<!ENTITY pref_use_master_password "Ana Parolu işlət">
 <!ENTITY pref_sync_default_title "Firefox Hesabı">
 <!ENTITY pref_sync2 "Daxil ol">
 <!ENTITY pref_sync_summary2 "Vərəqlərinizi, əlfəcinlərinizi, daxil olmaları, tarixçənizi sinxronlaşdırın">
@@ -516,12 +516,12 @@
 <!ENTITY doorhanger_login_no_username "[İstifadəçi adı yoxdur]">
 <!ENTITY doorhanger_login_edit_title "Hesabı düzəlt">
 <!ENTITY doorhanger_login_edit_username_hint "Kullanıcı ismi">
-<!ENTITY doorhanger_login_edit_password_hint "Şifrə">
-<!ENTITY doorhanger_login_edit_toggle "Şifrəni göstər">
-<!ENTITY doorhanger_login_select_message "&formatS; üzərindən şifrə köçürülsün?">
-<!ENTITY doorhanger_login_select_toast_copy "Şifrə mübadilə buferinə köçürüldü">
+<!ENTITY doorhanger_login_edit_password_hint "Parol">
+<!ENTITY doorhanger_login_edit_toggle "Parolu göstər">
+<!ENTITY doorhanger_login_select_message "&formatS; üzərindən parol köçürülsün?">
+<!ENTITY doorhanger_login_select_toast_copy "Parol mübadilə buferinə köçürüldü">
 <!ENTITY doorhanger_login_select_action_text "Başqa daxil olma seçin">
-<!ENTITY doorhanger_login_select_title "Şifrə köçür:">
+<!ENTITY doorhanger_login_select_title "Parolu buradan köçür">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -559,10 +559,10 @@
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Əlavə tədbirlər">
 
-<!ENTITY masterpassword_create_title "Ana Şifrə Yarat">
-<!ENTITY masterpassword_remove_title "Ana Şifrəni Sil">
-<!ENTITY masterpassword_password "Şifrə">
-<!ENTITY masterpassword_confirm "Şifrəni təsdiqləyin">
+<!ENTITY masterpassword_create_title "Ana Parolu Yarat">
+<!ENTITY masterpassword_remove_title "Ana Parolu Sil">
+<!ENTITY masterpassword_password "Parol">
+<!ENTITY masterpassword_confirm "Parolu təsdiqləyin">
 
 <!ENTITY button_ok "Tamam">
 <!ENTITY button_cancel "Ləğv et">
@@ -809,6 +809,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Bağışlayın! Bu &brandShortName; bu cihazda işləmir (&formatS1;, &formatS2;). Lütfən doğru versiyanı endirin.">
+
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName; açmaq mümkün deyil. Lütfən, yenidən qurun və təkrar yoxlayın.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; artıq yenilənməyəcək">
 <!ENTITY eol_notification_summary "Ətraflı öyrənmək üçün toxunun">
