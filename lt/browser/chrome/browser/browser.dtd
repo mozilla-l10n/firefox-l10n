@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "k">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Jungtis prie „&syncBrand.shortName.label;“">
 <!ENTITY fxaSignedIn.tooltip "Atverti „&syncBrand.shortName.label;“ nuostatas">
 <!ENTITY fxaSignInError.label "Iš naujo jungtis prie „&syncBrand.shortName.label;“">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tvarkyti tinklalapio vertimą">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tvarkyti DRM programinės įrangos naudojimą">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Atverti MIDI polangį">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Šioje svetainėje esate užblokavę savo kamerą.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Šioje svetainėje esate užblokavę savo mikrofoną.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Šiai svetainei neleidžiate dalintis ekrano vaizdu.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Šioje svetainėje esate užblokavę iškylančiuosius langus.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išgavimą.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Šioje svetainėje esate užblokavę MIDI naudojimą.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
 
