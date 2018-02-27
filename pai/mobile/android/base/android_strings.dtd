@@ -716,6 +716,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Namanchu baam jak ñwak wakm ich">
+<!ENTITY exit_guest_session "Jabchu hal paa wak ich uli pay chpaa">
+<!ENTITY guest_session_dialog_continue "Nkyuch">
 <!ENTITY guest_session_dialog_cancel "Tubspach">
 <!ENTITY new_guest_session_title "&brandShortName; tkweek namaan">
 <!ENTITY new_guest_session_text2 "Paa ñumktrchech hay kos maa chmwiwuha kos uu kyawyutem (jabchu yiib, chkjkeech o chŕkircu hay chkwaab).\n\nPaa wakmihay ñwiirumtñur wii sal amuha payt ŕpuut bwira, pay namanch hay yemik maat chajaana.">
@@ -747,12 +749,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Ñumchblwiych ñikakwach: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Ñumchblwiych ñikakwach: myuchliiy">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Jabchu yakyoya &formatS; hay sol. Sal amchu jabch tpay yal ñajan jan mchaha?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -760,6 +765,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Sal amchu jabch tpaay al chpaa?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -767,11 +773,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+<!ENTITY devtools_auth_scan_header "QR codig disoositiv mwi jkayha tñur kwa">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Ñumtyebu">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox kabyu trechuha sal chmiya. Tñurch: num trechuhay chapayt tubwiyum t\&apos; tkyat.">
+<!ENTITY restrictable_feature_private_browsing "Sal amch jabchtpay">
+<!ENTITY restrictable_feature_private_browsing_description "Paa maat tyuch wach ha paa nmakum chpayt chkwatem.">
+<!ENTITY restrictable_feature_clear_history "Chkjech ŕput">
+<!ENTITY restrictable_feature_clear_history_description "Paa mat tyuch wach ha chapayt ŕputsal am chu hal.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
