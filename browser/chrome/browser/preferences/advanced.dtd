@@ -35,11 +35,13 @@ available. -->
 <!ENTITY dataCollection.label            "&brandShortName; డేటా సేకరణ మరియు ఉపయోగం">
 <!ENTITY dataCollectionPrivacyNotice.label    "గోప్యతా విధానం">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; ను అనుమతించు Mozillaకు క్రాష్ నివేదికలను పంపటానికి">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "ఇంకా తెలుసుకోండి">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; ను అనుమతించు Mozillaకు క్రాష్ నివేదికలను పంపటానికి">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "ఇంకా తెలుసుకోండి">
 
 <!ENTITY networkTab.label                "నెట్‌వర్క్">
@@ -58,6 +60,8 @@ available. -->
 <!ENTITY siteData.label                  "సైటు డేటా">
 <!ENTITY clearSiteData.label             "మొత్తం డేటాను క్లియర్ చేయి">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY clearSiteData1.label            "డేటాను తుజిచివేయి…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "అమరికలు…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "మరింత తెలుసుకోండి">

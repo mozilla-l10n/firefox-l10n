@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "పంపిన">
 <!ENTITY aboutNetworking.received              "స్వీకరించిన">
 <!ENTITY aboutNetworking.family                "కుటుంబం">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "చిరునామా">
 <!ENTITY aboutNetworking.expires               "గడువుతీరును (క్షణాలు)">
 <!ENTITY aboutNetworking.messagesSent          "పంపిన సందేశాలు">

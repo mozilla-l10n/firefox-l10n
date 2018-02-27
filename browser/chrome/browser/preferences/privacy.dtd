@@ -13,10 +13,6 @@
 <!ENTITY  trackingProtectionExceptions.label   "మినహాయింపులు…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "అంతరంగిక విండోలలో ట్రాకింగ్ సంరక్షణను వాడు">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ఇంకా తెలుసుకోండి">
@@ -48,6 +44,12 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "మూడో-పార్టీ కుకీలను ఆమోదించు">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies3.accesskey      "A">
+
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "ఎల్లప్పుడూ">
 <!ENTITY  acceptThirdParty.never.label    "ఎప్పటికీకాదు">
 <!ENTITY  acceptThirdParty.visited.label  "సందర్శించిన నాటి నుండి">
@@ -89,6 +91,9 @@
 <!ENTITY  dontrememberActions.pre.label          "మీరు కావాలంటే ">
 <!ENTITY  dontrememberActions.clearHistory.label "మీ ప్రస్తుత చరిత్ర మొత్తాన్నీ తుడిచివేసుకోవచ్చు">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "చరిత్రను తుడిచివేయి…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిని వాడు">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
