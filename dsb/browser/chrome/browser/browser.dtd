@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "W">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Pla &syncBrand.shortName.label; pśizjawiś">
 <!ENTITY fxaSignedIn.tooltip "Nastajenja &syncBrand.shortName.label; wócyniś">
 <!ENTITY fxaSignInError.label "Z &syncBrand.shortName.label; znowego zwězaś">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Pśełožowanje boka zastojaś">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Wužywanje softwary DRM zastojaś">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-wobcerk wócyniś">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Sćo swóju kameru za toś to websedło zablokěrował.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Sćo swój mikrofon za toś to websedło zablokěrował.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Sćo toś tomu websedłoju źělenje swójeje wobrazowki zakazał.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Sćo wuskokujuce wokna za toś to websedło blokěrował.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Sćo blokěrował pśistup ku canvasowym datam za toś to websedło.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Sćo blokěrował pśistup na MIDI za toś to websedło.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazaś">
 
