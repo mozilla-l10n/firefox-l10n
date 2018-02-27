@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "상태">
 <!ENTITY     cookiesCol.label              "쿠키">
 <!ENTITY     usageCol.label                "저장소">
+<!ENTITY     lastAccessedCol.label                "마지막 사용">
 <!ENTITY     searchTextboxPlaceHolder             "웹사이트 검색">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "선택된 값 삭제">

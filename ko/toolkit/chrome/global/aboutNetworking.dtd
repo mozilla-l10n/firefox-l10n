@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "송신 데이터 양">
 <!ENTITY aboutNetworking.received              "수신 데이터 양">
 <!ENTITY aboutNetworking.family                "계통">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "주소">
 <!ENTITY aboutNetworking.expires               "만료(초)">
 <!ENTITY aboutNetworking.messagesSent          "송신 메시지">
