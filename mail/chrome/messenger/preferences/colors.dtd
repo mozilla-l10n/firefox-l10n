@@ -6,8 +6,9 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "ფერების შერჩევის გვერდისთვის მინდობა, ნაცვლად ჩემი ზედა პარამეტრებისა">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+<!ENTITY  overridePageColors.label        "გვერდის მიერ მითითებული ფერების ნაცვლად, ზემოთ არჩეულების გამოყენება:">
+<!ENTITY  overridePageColors.accesskey    "ნ">
+
 
 <!ENTITY  color                           "ტექსტი და ფონი">
 <!ENTITY  textColor.label                 "ტექსტი:">
