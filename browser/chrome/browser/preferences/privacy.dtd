@@ -46,11 +46,20 @@
 
 <!ENTITY  suggestionSettings2.label     "Keisti ieškyklių siūlymų nuostatas">
 
-<!ENTITY  acceptCookies2.label          "Priimti slapukus iš svetainių">
+<!ENTITY  acceptCookies2.label          "Leisti įrašyti slapukus">
 <!ENTITY  acceptCookies2.accesskey      "P">
 
 <!ENTITY  acceptThirdParty2.pre.label     "Leisti trečiųjų šalių slapukus">
 <!ENTITY  acceptThirdParty2.pre.accesskey "u">
+
+<!ENTITY  acceptCookies3.label          "Leisti įrašyti slapukus ir svetainių duomenis">
+<!ENTITY  acceptCookies3.accesskey      "L">
+
+<!ENTITY  blockCookies.label            "Neleisti įrašyti slapukų ir svetainių duomenų (gali sutrikti svetainių veikimas)">
+<!ENTITY  blockCookies.accesskey        "N">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Leisti trečiųjų šalių slapukus ir svetainių duomenis">
+<!ENTITY  acceptThirdParty3.pre.accesskey "j">
 <!ENTITY  acceptThirdParty.always.label   "Visada">
 <!ENTITY  acceptThirdParty.never.label    "niekada">
 <!ENTITY  acceptThirdParty.visited.label  "tik lankytoms svetainėms">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Taip pat galbūt norite ">
 <!ENTITY  dontrememberActions.clearHistory.label "visiškai išvalyti žurnalą">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Išvalyti žurnalą…">
+<!ENTITY  clearHistoryButton.accesskey   "u">
 
 <!ENTITY  privateBrowsingPermanent2.label "Visada naršyti privačiojo naršymo veiksenoje">
 <!ENTITY  privateBrowsingPermanent2.accesskey "V">
