@@ -89,7 +89,7 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "ადგილი დისკზე">
-<!ENTITY offlineCompactFolders.label     "დასტების შემჭიდროება თუ გამოთავისუფლდება">
+<!ENTITY offlineCompactFolders.label     "ყველა საქაღალდის შეკუმშვა, თუ მეტ სივრცეს გამოათავისუფლებს">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "მბ მაინც">
 

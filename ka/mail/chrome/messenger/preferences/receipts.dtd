@@ -6,7 +6,7 @@
 <!ENTITY requestReceipt.label          "წერილების გაგზავნისას მიღების დასტურის ყოველთვის მოთხოვნა">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "მიღების დასტურის მოსვლისას:">
-<!ENTITY leaveIt.label                 "შემოსულების დასტაში დატოვება">
+<!ENTITY leaveIt.label                 "მიღებულ წერილებში დატოვება">
 <!ENTITY leaveIt.accesskey             "i">
 <!ENTITY moveToSent.label              "გადატანა დასტაში &quot;გაგზავნილი&quot;">
 <!ENTITY moveToSent.accesskey          "m">

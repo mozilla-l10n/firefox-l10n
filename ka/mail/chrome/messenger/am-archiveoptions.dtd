@@ -20,4 +20,4 @@
 <!ENTITY archiveFolderName.label "არქივები">
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
-<!ENTITY inboxFolderName.label "შემოსული">
+<!ENTITY inboxFolderName.label "მიღებული">
