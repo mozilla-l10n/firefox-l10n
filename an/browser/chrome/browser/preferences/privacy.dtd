@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Accetar cookies de tercers">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies3.label          "Acceptar cookies y datos d'os puestos web">
+<!ENTITY  acceptCookies3.accesskey      "A">
+
+<!ENTITY  blockCookies.label            "Blocar cookies y datos d'o puest (puede fer que bellas webs no funcionen)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Acceptar cookies de tercers y datos d'o puesto">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Siempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "D'as visitadas">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Tamién podría querer ">
 <!ENTITY  dontrememberActions.clearHistory.label "limpiar tot l'historial">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Borrar l'historial…">
+<!ENTITY  clearHistoryButton.accesskey   "h">
 
 <!ENTITY  privateBrowsingPermanent2.label "Emplegar siempre o modo de navegación privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
