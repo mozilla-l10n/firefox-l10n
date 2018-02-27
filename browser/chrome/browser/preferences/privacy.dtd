@@ -52,8 +52,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Povoliť cookies tretích strán">
 <!ENTITY  acceptThirdParty2.pre.accesskey "k">
 
+<!ENTITY  acceptCookies3.label          "Povoliť stránkam ukladať cookies a údaje stránok">
+<!ENTITY  acceptCookies3.accesskey      "P">
 
+<!ENTITY  blockCookies.label            "Blokovať ukladanie cookies a údajov stránok (stránky nemusia správne fungovať)">
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Povoliť cookies a údaje stránok">
+<!ENTITY  acceptThirdParty3.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "vždy">
 <!ENTITY  acceptThirdParty.never.label    "nikdy">
 <!ENTITY  acceptThirdParty.visited.label  "len pre navštívené">
@@ -62,7 +68,7 @@
 <!ENTITY  keepUntil2.accesskey          "U">
 
 <!ENTITY  expire.label                  "vypršania platnosti">
-<!ENTITY  close.label                   "ukončenia prehliadača &brandShortName;">
+<!ENTITY  close.label                   "ukončenia aplikácie &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Výnimky…">
 <!ENTITY  cookieExceptions.accesskey    "m">
