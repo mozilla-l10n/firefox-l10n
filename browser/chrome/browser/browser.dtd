@@ -876,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "მჭიდრო">
+<!ENTITY customizeMode.uidensity.menuCompact.label "შემჭიდროებული">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "შემჭიდროებული">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "ჭ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
