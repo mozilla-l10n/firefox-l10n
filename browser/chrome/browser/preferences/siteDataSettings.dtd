@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Armazenamento">
+<!ENTITY     lastAccessedCol.label                "Último uso">
 <!ENTITY     searchTextboxPlaceHolder             "Pesquisar sites">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "P">
 <!ENTITY     removeSelected.label          "Remover selecionados">
