@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "제3자 쿠키 허용">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies3.label          "웹사이트의 쿠키와 사이트 데이타 허용">
+<!ENTITY  acceptCookies3.accesskey      "A">
+
+<!ENTITY  blockCookies.label            "쿠키와 사이트 데이타 차단(웹사이트가 깨질 수 있음)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "제 3자 쿠키와 사이트 데이타 허용">
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "항상 허용">
 <!ENTITY  acceptThirdParty.never.label    "허용 안함">
 <!ENTITY  acceptThirdParty.visited.label  "방문한 곳만">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "선택 사항: ">
 <!ENTITY  dontrememberActions.clearHistory.label "모든 방문 기록 삭제">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "방문 기록 삭제…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "사생활 보호 모드로만 이용">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
