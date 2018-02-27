@@ -2,23 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Check for new articles every ">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "წუთში">
+<!ENTITY loginAtStartup.label          "ახალი სტატიების შემოწმება სეანსის დაწყებისას">
+<!ENTITY loginAtStartup.accesskey      "C">
+<!ENTITY biffAll.label                 "განახლებების ჩართვა, ყველა არხისთვის">
+<!ENTITY biffAll.accesskey             "ჩ">
 
-<!ENTITY loginAtStartup.label "ახალი სტატიების შემოწმება სეანსის დაწყებისას"> 
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY newFeedSettings.label         "ნაგულისხმევი პარამეტრები, სიახლეების არხებისთვის">
 
-<!ENTITY useQuickMode.label "ვებგვერდის ნაცვლად სტატიის რეზიუმეს ჩვენება"> 
-<!ENTITY useQuickMode.accesskey "B">
-
-<!ENTITY manageSubscriptions.label "ხელმოწერათა მართვა…"> 
+<!ENTITY manageSubscriptions.label     "ხელმოწერათა მართვა…">
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!ENTITY feedWindowTitle.label "არხის ანგარიშის მეგზური">
-
-<!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "ბლოგები და სიახლეთა არხები">
-<!ENTITY feeds.wizardShortName "არხები">
-<!ENTITY feeds.wizardLongName "ბლოგები და სიახლეთა არხები">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+<!ENTITY feedWindowTitle.label         "არხის ანგარიშის მეგზური">
+<!ENTITY feeds.accountName             "ბლოგები და სიახლეთა არხები">

@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label        "ელფოსტა"> 
-<!ENTITY readMsgsLink.label           "წერილები წაკითხვა"> 
-<!ENTITY composeMsgLink.label         "ახალი წერილის შედგენა"> 
+<!ENTITY emailSectionHdr.label        "ელფოსტა">
+<!ENTITY readMsgsLink.label           "წერილები წაკითხვა">
+<!ENTITY composeMsgLink.label         "ახალი წერილის შედგენა">
 
-<!ENTITY newsSectionHdr.label         "ჯგუფები"> 
-<!ENTITY subscribeNewsLink.label      "ხელმოწერა ჯგუფებზე"> 
+<!ENTITY newsSectionHdr.label         "ჯგუფები">
+<!ENTITY subscribeNewsLink.label      "ხელმოწერა ჯგუფებზე">
 
 <!ENTITY feedsSectionHdr.label        "არხები">
 <!ENTITY subscribeFeeds.label         "ხელმოწერათა მართვა">
@@ -15,14 +15,13 @@
 <!ENTITY chat.label                   "ჩათი">
 <!ENTITY movemail.label               "Movemail">
 
-<!ENTITY accountsSectionHdr.label     "ანგარიშები"> 
+<!ENTITY accountsSectionHdr.label     "ანგარიშები">
 <!ENTITY subscribeImapFolders.label   "ხელმოწერების დასტების მართვა">
-<!ENTITY settingsLink.label           "ანგარიშის პარამეტრების ჩვენება"> 
-<!ENTITY newAcctLink.label            "ახალი ანგარიშის შექმნა"> 
-<!ENTITY newAcct.label                "ახალი ანგარიშის შექმნა:">
+<!ENTITY settingsLink.label           "ანგარიშის პარამეტრების ჩვენება">
+<!ENTITY setupNewAcct.label           "ანგარიშის გამართვა:">
 
-<!ENTITY advFeaturesSectionHdr.label  "დეტალური პარამეტრები"> 
-<!ENTITY searchMsgsLink.label         "წერილების ძიება"> 
+<!ENTITY advFeaturesSectionHdr.label  "დეტალური პარამეტრები">
+<!ENTITY searchMsgsLink.label         "წერილების ძიება">
 <!ENTITY filtersLink.label            "წერილების ფილტრები">
 <!ENTITY junkSettings.label           "ჯართის პარამეტრები">
 <!ENTITY offlineLink.label            "ავტონომიური რეჟიმის პარამეტრები">

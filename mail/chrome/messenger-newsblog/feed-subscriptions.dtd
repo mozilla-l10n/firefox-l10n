@@ -12,6 +12,7 @@
 <!ENTITY feedLocation.label          "არხის URL:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "მიუთითეთ დასამატებელი არხის მართებული URL">
+<!ENTITY feedLocation2.placeholder   "მიუთითეთ არხის მართებული URL">
 <!ENTITY locationValidate.label      "შემოწმება">
 <!ENTITY validateText.label          "მისამართების შემოწმების ჩართვა.">
 
@@ -19,14 +20,30 @@
 <!ENTITY feedFolder.accesskey        "S">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "ახალი სტატიების შემოწმება ყოველ ">
+<!ENTITY biffStart.accesskey         "წ">
+<!ENTITY biffMinutes.label           "წუთში">
+<!ENTITY biffMinutes.accesskey       "თ">
+<!ENTITY biffDays.label              "დღე">
+<!ENTITY biffDays.accesskey          "დ">
+<!ENTITY recommendedUnits.label      "გამომქვეყნებლის რჩევით:">
 
 <!ENTITY quickMode.label             "სტატიის ანოტაციის ჩვენება ვებგვერდის ჩატვირთვის ნაცვლად">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY autotagEnable.label         "ჭდეების ავტომატურად შექმნა, &lt;კატეგორიის&gt; სახელის არხიდან">
+<!ENTITY autotagEnable.accesskey     "ა">
+<!ENTITY autotagUsePrefix.label      "წინსართი ჭდეები:">
+<!ENTITY autotagUsePrefix.accesskey  "ჭ">
+<!ENTITY autoTagPrefix.placeholder   "წინსართი ჭდის შეყვანა">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "დამატება">
 <!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.verifyFeed.label     "დამოწმება">
+<!ENTITY button.verifyFeed.accesskey "მ">
+<!ENTITY button.updateFeed.label     "განახლება">
+<!ENTITY button.updateFeed.accesskey "გ">
 <!ENTITY button.removeFeed.label     "ამოღება">
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "იმპორტი">
@@ -36,3 +53,4 @@
 <!ENTITY button.exportOPML.tooltip   "არხების ექსპორტი დასტების სტრუქტურით; ctrl-დაწკაპვა ან ctrl-enter არხების სიის სხაით ექსპორტისთვის">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "დახურვა">

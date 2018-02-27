@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "ვის: ">
 <!ENTITY fromField4.label "ვისგან: ">
 <!ENTITY senderField4.label "გამგზავნი: ">
+<!ENTITY author.label "ავტორი">
 <!ENTITY organizationField4.label "ორგანიზაცია: ">
 <!ENTITY replyToField4.label "პასუხი: ">
 
@@ -23,6 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "არქივი">
 <!ENTITY hdrArchiveButton1.tooltip "ამ წერილის დაარქივება">
+<!ENTITY hdrOpenConversationButton1.label "საუბარი">
+<!ENTITY hdrOpenConversationButton1.tooltip "ამ შეტყობინების სრული საუბრის ჩვენება">
 <!ENTITY hdrSmartReplyButton1.label "სხარტი პასუხი">
 <!ENTITY hdrReplyButton1.label "პასუხი">
 <!ENTITY hdrReplyButton2.tooltip "პასუხი ამ წერილის გამომგზავნს">
@@ -49,6 +52,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "პასუხის ყოველთვის ჩვენება გამომგზავნისთვის">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
+<!ENTITY otherActionsButton2.label "სხვა">
+<!ENTITY otherActionsButton.tooltip "დამატებითი მოქმედებები">
 <!ENTITY otherActionsOpenConversation1.label "გახსნა განხილვაში">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "გახსნა ახალ სარკმელში">
