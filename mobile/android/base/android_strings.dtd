@@ -454,6 +454,7 @@
 <!ENTITY share_image_failed "ही प्रतिमा शेअर करु शकत नाही">
 <!ENTITY save_as_pdf "PDF म्हणून साठवा">
 <!ENTITY print "छापा">
+<!ENTITY view_page_source "पृष्ठाचे स्रोत पहा">
 <!ENTITY find_in_page "पानात शोधा">
 <!ENTITY desktop_mode "डेस्कटॉप साइट विनंती">
 <!ENTITY page "पान">
@@ -485,7 +486,6 @@
 <!ENTITY contextmenu_open_new_tab "नवीन टॅब मध्ये उघडा">
 <!ENTITY contextmenu_open_private_tab "खाजगी टॅब मध्ये उघडा">
 <!ENTITY contextmenu_remove "काढा">
-<!ENTITY contextmenu_add_to_launcher "मुख्य पटलावर जोडा">
 <!ENTITY contextmenu_add_page_shortcut "पृष्ठाचा शॉर्टकट जोडा">
 <!ENTITY contextmenu_set_as_homepage "मुखपृष्ठ म्हणून निश्चित करा">
 <!ENTITY contextmenu_share "शेअर">
@@ -540,7 +540,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "पान काढले गेले">
-
 <!ENTITY folder_removed "फोल्डर काढले">
 
 <!ENTITY bookmark_edit_title "वाचनखूण संपादीत करा">
@@ -811,6 +810,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "क्षमा करा ! &brandShortName; या उपकरणावर चालणार नाही (&formatS1;, &formatS2;). कृपया योग्य ती आवृत्ती डाउनलोड करा.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName; उघडण्यास असमर्थ. पुन्हा प्रस्थापित करून प्रयत्न करा.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; यापुढे अद्यावत होणार नाही">
 <!ENTITY eol_notification_summary "अधिक जाणण्यासाठी येथे टिचकी मारा">
 
@@ -818,8 +820,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; अद्ययावत आहे">
 <!ENTITY whatsnew_notification_summary "या आवृत्तीत काय नविन आहे ते जाणा">
-
-<!ENTITY promotion_add_to_homescreen "मुख्य पटलावर जोडा">
 
 <!ENTITY promotion_add_page_shortcut "पृष्ठाचा शॉर्टकट जोडा">
 
