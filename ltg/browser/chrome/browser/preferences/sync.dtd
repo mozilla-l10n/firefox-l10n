@@ -7,10 +7,12 @@
 <!ENTITY engine.bookmarks.label     "Gruomotzeimes">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Attaiseituos cilnes">
+<!ENTITY engine.tabs.title          "Saroksts ar tū, kas attaisiets vysōs sinhronizietojōs īreicēs">
 <!ENTITY engine.tabs.accesskey      "C">
 <!ENTITY engine.history.label       "Viesturi">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Logins">
+<!ENTITY engine.logins.title        "Saglobōtī lītōtōjvōrdi un paroles">
 <!ENTITY engine.logins.accesskey    "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -20,9 +22,12 @@
 <!ENTITY engine.prefsWin.accesskey  "S">
 <!ENTITY engine.prefs.label         "Īstatiejumus">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.title         "Tevis izmaineitī īstatiejumi: kūpejī, privātums un drūšeiba">
 <!ENTITY engine.addons.label        "Papyldynuojums">
+<!ENTITY engine.addons.title        "Paplašinojumi un tēmas Firefox datora versejai">
 <!ENTITY engine.addons.accesskey    "a">
 <!ENTITY engine.addresses.label     "Adresi">
+<!ENTITY engine.addresses.title     "Saglobōtōs posta adreses (viņ datora versejī)">
 <!ENTITY engine.addresses.accesskey "A">
 <!ENTITY engine.creditcards.label   "Credit cards">
 <!ENTITY engine.creditcards.accesskey "C">
