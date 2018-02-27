@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Odoslané">
 <!ENTITY aboutNetworking.received              "Prijaté">
 <!ENTITY aboutNetworking.family                "Rodina">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Adresy">
 <!ENTITY aboutNetworking.expires               "Vyprší (v sekundách)">
 <!ENTITY aboutNetworking.messagesSent          "Odoslané správy">
