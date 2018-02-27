@@ -51,6 +51,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Godta tredjeparts infokapslar">
 <!ENTITY  acceptThirdParty2.pre.accesskey "G">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Alltid">
 <!ENTITY  acceptThirdParty.never.label    "Aldri">
 <!ENTITY  acceptThirdParty.visited.label  "Frå besøkte">
@@ -92,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Du kan velje å ">
 <!ENTITY  dontrememberActions.clearHistory.label "fjerne all historikk">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Tøm historikk…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Alltid bruke privat nettlesing-modus">
 <!ENTITY  privateBrowsingPermanent2.accesskey "A">
