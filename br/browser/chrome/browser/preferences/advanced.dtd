@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Strivañ a reomp evit kinnig deoc'h dibaboù ha dastum ar pep ret nemetken da wellaat &brandShortName; evit an holl. Goulenn a reomp atav an aotre a-raok degemer titouroù personel.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Evezhiadennoù a-fet buhez prevez">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Aotren &brandShortName; da gas danevelloù sac'hadenn da vMozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "A">
+
 <!ENTITY collectBrowserErrors.label          "Aotren &brandShortName; da gas danevelloù fazi merdeer (kemennadennoù fazi en o zouez) da vMozilla">
 <!ENTITY collectBrowserErrors.accesskey      "m">
 <!ENTITY collectBrowserErrorsLearnMore.label "Gouzout hiroc'h">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Aotren &brandShortName; da gas danevelloù sac'hadenn da vMozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "A">
+<!ENTITY sendBackloggedCrashReports.label  "Aotren &brandShortName; da gas danevelloù sac'hadennoù enrollet evidoc'h">
+<!ENTITY sendBackloggedCrashReports.accesskey "d">
 <!ENTITY crashReporterLearnMore.label    "Gouzout hiroc'h">
 
 <!ENTITY networkTab.label                "Rouedad">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Roadennoù al lec'hienn">
 <!ENTITY clearSiteData.label             "Skarzhañ an holl roadennoù">
 <!ENTITY clearSiteData.accesskey         "S">
+<!ENTITY siteData1.label                 "Toupinoù ha roadennoù lec'hienn">
+<!ENTITY clearSiteData1.label            "Skarzhañ ar roadennoù…">
+<!ENTITY clearSiteData1.accesskey        "S">
 <!ENTITY siteDataSettings.label          "Arventennoù…">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Gouzout hiroc'h">
