@@ -57,6 +57,7 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Prejemajte novice, zvijače in vire za razvijalce naravnost v svoj e-poštni predal.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "E-pošta">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Strinjam se, da Mozilla upravlja moje podatke kot to opredeljuje v svoji <a class='external' href='https://www.mozilla.org/privacy/'>politiki zasebnosti</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Naroči se">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Hvala!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Če v preteklosti še niste potrdili naročnine na Mozillino okrožnico, boste morda to morali storiti zdaj. Poiščite našo pošto v poštnem predalu ali mapi z neželeno pošto.">

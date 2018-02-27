@@ -59,6 +59,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Varno brskanje: ">
+<!ENTITY rights.safebrowsing-b "Možnosti Varno brskanje ni priporočljivo onemogočati, ker lahko zaradi tega zaidete na nevarne strani. Če želite možnost v celoti onemogočiti, sledite tem korakom:">
 <!ENTITY rights.safebrowsing-term1 "Odprite nastavitve programa ">
 <!ENTITY rights.safebrowsing-term2 "Izberite zavihek Varnost ">
 <!ENTITY rights2.safebrowsing-term3 "Odstranite možnost &quot;&enableSafeBrowsing.label;&quot;">
@@ -80,6 +81,7 @@
 <!ENTITY rights.webservices-term1-unbranded "Tukaj morajo biti našteti vsi morebitni pogoji za uporabo tega izdelka.">
 
 <!-- points 1-7 text for branded builds -->
+<!ENTITY rights2.webservices-term1 "&vendorShortName; poskuša skupaj s sodelavci, licenčniki in partnerji zagotoviti čimbolj natančne in sveže storitve. Kljub temu ni mogoče zagotoviti, da so podatki celoviti in brez napak. Storitev Varno brskanje lahko na primer ne prepozna nekaterih tveganih strani ali pa pomotoma prepozna nekatere varne strani kot nevarne; med brskanjem, ki se zaveda lokacije, pa so vsi naslovi, ki nam jih naši ponudniki storitve dostavljajo, samo ocene, za katere ne mi ne ponudniki storitev ne jamčimo točnosti. ">
 <!ENTITY rights.webservices-term2 "&vendorShortName; lahko storitve brez objave opusti ali spremeni.">
 <!ENTITY rights2.webservices-term3 "Te storitve lahko uporabljate z ustrezno različico programa &brandShortName; in &vendorShortName; vam za to uporabo podeljuje pravice, ki jih ima. &vendorShortName; in odjemalci njegovih licenc si pridržujejo vse druge pravice v zvezi s storitvami. Namen teh pogojev ni omejiti kakršne koli pravice na osnovi odprtokodne licence programa &brandShortName; in pripadajočih različic njegove izvorne kode.">
 <!ENTITY rights.webservices-term4 "Storitve so na voljo &quot;kot take.&quot; in &vendorShortName;, skupaj s sodelavci, licenčniki in partnerji, vam ne zagotavlja nikakršne izrecne ali implicitne garancije, med drugim brez kakršnih omejitev nobene garancije, da so Storitve primerne in uporabne za vaše namene. Ne glede na kakovost in učinkovitost storitev nosite vso odgovornost za uporabo za svoje namene vi sami Zakonodaja nekaterih držav ne dovoljuje izločevanja ali omejevanja garancije, zato ta pogoj morda ne velja za vas.">
