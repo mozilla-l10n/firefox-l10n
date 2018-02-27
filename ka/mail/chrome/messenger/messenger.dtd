@@ -462,6 +462,10 @@
 <!ENTITY addons.label "მოდულები">
 <!ENTITY addons.accesskey "A">
 <!ENTITY addonPrefs.label "დამატების პარამეტრები">
+<!ENTITY addonPrefs.accesskey "პ">
+<!ENTITY addonPrefsUnix.label "დამატების პარამეტრები">
+<!ENTITY addonPrefsUnix.accesskey "პ">
+<!ENTITY addonNoPrefs.label "დამატებების პარამეტრები ვერ მოიძებნა.">
 <!ENTITY activitymanager.label "აქტიობების მართვა">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "სასაუბროს სტატუსი">
@@ -475,6 +479,8 @@
 <!ENTITY savedFiles.label "შენახული ფაილები">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "წერილის ფილტრები">
+<!ENTITY filtersCmd2.accesskey "ფ">
 <!ENTITY filtersApply.label "ფილტრების შესრულება დასტისთვის">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "შერჩეული წერილების გაფილტვრა">
@@ -489,22 +495,40 @@
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY clearRecentHistory.label "უახლესი ისტორიის გასუფთავება…">
 <!ENTITY clearRecentHistory.accesskey "H">
+<!ENTITY accountManagerCmd2.label "ანგარიშის პარამეტრები">
+<!ENTITY accountManagerCmd2.accesskey "რ">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
+<!ENTITY accountManagerCmdUnix2.accesskey "მ">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "შემმუშავებლის ხელსაწყოები">
+<!ENTITY devtoolsMenu.accesskey "ე">
+<!ENTITY devToolboxCmd.label "შემმუშავებლის ხელსაწყოები">
+<!ENTITY devToolboxCmd.accesskey "ხ">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "დამატების გამმართველი">
+<!ENTITY addonDebugCmd.accesskey "დ">
+<!ENTITY debugAddonsCmd.label "დამატებების გამართვა">
+<!ENTITY debugAddonsCmd.accesskey "დ">
+<!ENTITY tabsDebugCmd.label "შიგთავსის კადრის გამმართველი">
+<!ENTITY tabsDebugCmd.accesskey "შ">
 <!ENTITY errorConsoleCmd.label "კონსოლის შეცდომა">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "სამუშაო დაფა">
+<!ENTITY scratchpadCmd.accesskey "ს">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "ფოსტის მიღება">
@@ -515,6 +539,7 @@
 <!ENTITY forwardButton.label "გადაგზავნა">
 <!ENTITY fileButton.label "ფაილი">
 <!ENTITY archiveButton.label "არქივი">
+<!ENTITY openConversationButton.label "საუბარი">
 <!ENTITY nextButton.label "შემდეგი">
 <!ENTITY nextButtonToolbarItem.label "შემდეგი წასაკითხი">
 <!ENTITY nextMsgButton.label "შემდეგი">
@@ -557,6 +582,7 @@
 <!ENTITY forwardAsAttachment.tooltip "შერჩეული წერილის გადაგზავნა დანართის სახით">
 <!ENTITY fileButton.tooltip "შერჩეული წერილის შენახვა">
 <!ENTITY archiveButton.tooltip "შერჩეული წერილის დაარქივება">
+<!ENTITY openConversationButton.tooltip "მითითებული შეტყობინების სრული საუბრის ჩვენება">
 <!ENTITY nextButton.tooltip "გადასვლა შემდეგ წასაკითხ წერილზე">
 <!ENTITY nextMsgButton.tooltip "გადასვლა შემდეგ წერილზე">
 <!ENTITY previousButton.tooltip "გადასვლა წინა წასაკითხ წერილზე">
@@ -589,6 +615,8 @@
 <!ENTITY editRemoteContentSettingsUnix.accesskey "ჩ">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "გაფრთხილების უგულებელყოფა ამ შეტყობინებაზე">
+<!ENTITY phishingOptionIgnore.accesskey "უ">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "ახალი წერილი">
