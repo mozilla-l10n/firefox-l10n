@@ -7,6 +7,13 @@
 <!ENTITY searchBar.hidden.label                "शोध आणि नेव्हिगेशनसाठी पत्ता पट्टी वापरा">
 <!ENTITY searchBar.shown.label                 "साधनपट्टीत शोध पट्टी जोडा">
 
+<!-- LOCALIZATION NOTE (showSearchSuggestionsAboveHistory.label): This string
+     describes what the user will observe when the system prioritizes search
+     suggestions over browsing history in the results that extend down from the
+     address bar. In the original English string, "ahead" refers to location
+     (appearing most proximate to), not time (appearing before). -->
+<!ENTITY showSearchSuggestionsAboveHistory.label "पत्ता पट्टीच्या परिणामांमध्ये ब्राऊझिंग इतिहासाच्या आधी शोध सूचना दाखवा">
+
 <!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित शोध इंजिन">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "पत्ता पट्टी आणि शोध पट्टी मध्ये वापरण्यासाठी पूर्वनिर्धारित शोध इंजिन निवडा">
