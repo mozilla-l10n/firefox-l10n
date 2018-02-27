@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "ზოგადი">
+<!ENTITY dataChoicesTab.label    "მონაცემთა შერჩევა">
 <!ENTITY itemUpdate.label        "განახლება">
 <!ENTITY itemNetworking.label    "ქსელი და ადგილი დისკზე">
 <!ENTITY itemCertificates.label  "სერთიფიკატები">
@@ -10,6 +11,13 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "გლობალური ძიებისა და გზავნილთა ინდექსაციის ჩართვა">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY dateTimeFormatting.label      "რიცხვისა და დროის გაფორმება">
+<!ENTITY allowHWAccel.label            "ხელმისაწვდომობის შემთხვევაში აპარატული აჩქარების გამოყენება">
+<!ENTITY allowHWAccel.accesskey        "პ">
+<!ENTITY storeType.label               "შეტყობინების შენახვის სახე ახალი ანაგირშებისთვის:">
+<!ENTITY storeType.accesskey           "ხ">
+<!ENTITY mboxStore2.label              "თითოეული საქაღალდე ფაილში (mbox)">
+<!ENTITY maildirStore.label            "თითოეული წერილი ფაილში (maildir)">
 
 <!ENTITY scrolling.label               "გადახვევა">
 <!ENTITY useAutoScroll.label           "თვითგადახვევა">
@@ -32,8 +40,17 @@
 <!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Data Choices -->
+<!ENTITY telemetrySection.label          "მონაცემთა აღრიცხვა">
 <!ENTITY telemetryDesc.label             "თქვენი ელფოსტის პროგრამის წარმადობის, გამოყენების, აპრატურისა და მორგების მონაცემებს უზიარებს &vendorShortName;-ს , რაც &brandShortName;-ის გაუმჯობესებაში გვეხმარება">
+<!ENTITY enableTelemetry.label           "აღრიცხვის ჩართვა">
+<!ENTITY enableTelemetry.accesskey       "ღ">
+<!ENTITY telemetryLearnMore.label        "ვრცლად">
 
+<!ENTITY crashReporterSection.label      "ავარიული დახურვის მომხსენებელი">
+<!ENTITY crashReporterDesc.label         "&brandShortName; აგზავნის ავარიული დახურვის მოხსენებებს, რაც &vendorShortName;-ს თქვენი ელფოსტის კლიენტის მდგრადობისა და უსაფრთხოების გაუმჯობესებაში ეხმარება">
+<!ENTITY enableCrashReporter.label       "ავარიული დახურვის მომხსენებლის ჩართვა">
+<!ENTITY enableCrashReporter.accesskey   "რ">
+<!ENTITY crashReporterLearnMore.label    "ვრცლად">
 
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
@@ -47,6 +64,16 @@
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "ვერსია ">
+<!ENTITY updateApp.version.post          "">
+<!ENTITY updateAuto.label                "თავად დააყენოს განახლებები (სასურველია უსაფრთხოების გასაუმჯობესებლად)">
+<!ENTITY updateAuto.accesskey            "თ">
+<!ENTITY updateCheck.label               "შემოწმდეს განახლებებზე, მაგრამ თავად გადაწყვეტთ, დააყენებთ თუ არა">
+<!ENTITY updateCheck.accesskey           "შ">
+<!ENTITY updateManual.label              "არასდროს შემოწმდეს განახლებებზე (არაა სასურველი: მაღალი საფრთხისშემცველია)">
+<!ENTITY updateManual.accesskey          "ა">
+<!ENTITY updateHistory.label             "განახლების ისტორიის ჩვენება">
+<!ENTITY updateHistory.accesskey         "ნ">
 
 <!ENTITY useService.label                "ფონური მოსახურებით სარგებლობა განახლებათა ჩადგმისას">
 <!ENTITY useService.accesskey            "b">
@@ -75,6 +102,8 @@
 <!ENTITY useCacheBefore.label            "ბუფერის ზომა">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "მბ ბუფერისთვის">
+<!ENTITY overrideSmartCacheSize.label    "კეშის ზომის თვითგანსაზღვრის უგულებელყოფა">
+<!ENTITY overrideSmartCacheSize.accesskey "ვ">
 <!ENTITY clearCacheNow.label             "გასუფთავება">
 <!ENTITY clearCacheNow.accesskey         "C">
 
@@ -84,6 +113,10 @@
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "დამეკითხე ყოველთვის">
 <!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერტიფიკატების მიმდინარე მდგომარეობის კითხვა">
+<!ENTITY enableOCSP.accesskey            "ს">
 
+<!ENTITY manageCertificates.label "სერტიფიკატების მართვა">
+<!ENTITY manageCertificates.accesskey "მ">
 <!ENTITY viewSecurityDevices.label "უსაფრთხოების მოწყობილობები">
 <!ENTITY viewSecurityDevices.accesskey "S">
