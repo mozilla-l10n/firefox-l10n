@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Ni penas doni al vi plurajn eblojn, kaj kolekti nur tion, kion ni bezonas por fari kaj plibonigi &brandShortName; por ĉiuj. Ni ĉiam petos permeson antaŭ ol ricevi personajn informojn.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Rimarko pri privateco">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permesi al &brandShortName; sendi al Mozilla raportojn pri paneo">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "p">
+
 <!ENTITY collectBrowserErrors.label          "Permesi al &brandShortName; sendi retumilajn raportojn pri eraroj (tio inkuzivas erarmesaĝojn) al Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "e">
 <!ENTITY collectBrowserErrorsLearnMore.label "Pli da informo">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Permesi al &brandShortName; sendi al Mozilla raportojn pri paneo">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "p">
+<!ENTITY sendBackloggedCrashReports.label  "Permesi al &brandShortName; sendi nome via antaŭe registritajn raportojn pri paneo">
+<!ENTITY sendBackloggedCrashReports.accesskey "P">
 <!ENTITY crashReporterLearnMore.label    "Pli da informo">
 
 <!ENTITY networkTab.label                "Reto">
@@ -61,6 +64,8 @@ available. -->
 <!ENTITY siteData.label                  "Retejaj datumoj">
 <!ENTITY clearSiteData.label             "Viŝi ĉiujn datumojn">
 <!ENTITY clearSiteData.accesskey         "V">
+<!ENTITY siteData1.label                 "Kuketoj kaj retejaj datumoj">
+<!ENTITY clearSiteData1.label            "Viŝi datumojn…">
 <!ENTITY siteDataSettings.label          "Agordoj…">
 <!ENTITY siteDataSettings.accesskey      "A">
 <!ENTITY siteDataLearnMoreLink.label     "Pli da informo">
