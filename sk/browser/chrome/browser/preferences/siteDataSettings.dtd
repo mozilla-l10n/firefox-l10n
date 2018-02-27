@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Úložisko">
+<!ENTITY     lastAccessedCol.label                "Naposledy použité">
 <!ENTITY     searchTextboxPlaceHolder             "Hľadať">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "d">
 <!ENTITY     removeSelected.label          "Odstrániť vybraté">
@@ -20,3 +21,6 @@
 <!ENTITY     removingDialog.title          "Odstrániť údaje stránok">
 <!ENTITY     removingSelected.description  "Odstránením údajov stránky sa odstránia aj cookies a offline obsah. Toto môže spôsobiť vaše odhlásenie z webovej stránky. Naozaj chcete uskutočniť tieto zmeny?">
 <!ENTITY     siteTree2.label               "Cookies nasledujúcich stránok budú odstránené">
+<!ENTITY     removingDialog1.title         "Odstránenie cookies a údajov stránok">
+<!ENTITY     removingSelected1.description "Odstránenie cookies a údajov stránok môže spôsobiť vaše odhlásenie z webových stránok. Naozaj chcete urobiť tieto zmeny?">
+<!ENTITY     siteTree3.label               "Cookies a údaje nasledujúcich stránok budú odstránené">
