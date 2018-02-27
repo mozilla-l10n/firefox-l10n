@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "En em gennaskañ ouzh &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Digeriñ gwellvezioù &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "En em adkennaskañ ouzh &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Ardeiñ troidigezh ar bajenn">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Ardeiñ an arver meziantoù DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Digeriñ ar penel MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Stanket ho peus ho kamera evit al lec'hienn-mañ.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Stanket ho peus ho mikrofon evit al lec'hienn-mañ.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Difennet ho peus al lec'hienn-mañ da rannañ ho skramm.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Stanket hoc'h eus an diflugelloù evit al lec'hienn-mañ.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Stanket ho peus eztennadur ar roadennoù ar steuenn.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
 
