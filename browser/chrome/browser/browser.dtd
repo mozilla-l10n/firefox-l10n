@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; માં પ્રવેશો">
 <!ENTITY fxaSignedIn.tooltip "ખોલો &syncBrand.shortName.label; પસંદગીઓ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; સાથે પુન:જોડાવો">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "પૃષ્ઠ અનુવાદ મેનેજ કરો">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM સોફ્ટવેર ઉપયોગ મેનેજ કરો">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI પેનલ ખોલો">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "તમે આ વેબસાઇટ માટે તમારો કૅમેરા અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "તમે આ વેબસાઇટ માટે તમારા ધ્વનિવર્ધક યંત્રને અવરોધિત કયૉ છે.">
 <!ENTITY urlbar.screenBlocked.tooltip            "તમે તમારી સ્ક્રીન શેર આ વેબસાઇટ અવરોધિત કર્યા છે.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "તમે આ વેબસાઇટ માટે પોપ-અપ્સને અવરોધિત કર્યા છે.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "તમે આ વેબસાઇટ માટે કેનવાસ ડેટા નિષ્કર્ષણને અવરોધિત કર્યો છે.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "તમે આ વેબસાઇટ માટે MIDI ઍક્સેસને અવરોધિત કરી છે.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ઇતિહાસ બતાવો">
 
