@@ -51,6 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "მიმდინარე ანგარიში">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNextNMsgCmd2.label "ახალი წერილების მიღება">
+<!ENTITY getNextNMsgCmd2.accesskey "ხ">
 <!ENTITY sendUnsentCmd.label "გასაგზავნი წერილების გაგზავნა">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "ხელმოწერა…">
@@ -70,6 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "ჩამოტვირთვა/სინქრონიზება ახლავე…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd2.label "კავშირგარეშე პარამეტრები">
+<!ENTITY settingsOfflineCmd2.accesskey "კ">
 <!ENTITY downloadSelectedCmd.label "მონიშნული წერილების მიღება">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "ვარსკვლავიანი წერილების მიღება">
@@ -106,6 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "რჩეული დასტა">
 <!ENTITY menuFavoriteFolder.accesskey "v">
+<!ENTITY folderPropsCmd2.label "პარამეტრები">
+<!ENTITY folderPropsFolderCmd2.label "საქაღალდის პარამეტრები">
+<!ENTITY folderPropsNewsgroupCmd2.label "სიახლეების ჯგუფების პარამეტრები">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "წერილების წაშლის გაუქმება">
 <!ENTITY redoDeleteMsgCmd.label "წერილების წაშლის გამეორება">
@@ -138,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "დასტების პანელი">
 <!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneColsCmd.label "საქაღალდის დაფის სვეტები">
+<!ENTITY showFolderPaneColsCmd.accesskey "ქ">
 <!ENTITY showMessageCmd.label "წერილების პანელი">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -153,6 +162,11 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "ბოლო">
 <!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "შემჭიდროებული ჩვენება">
+<!ENTITY compactVersion.accesskey "შ">
+<!ENTITY folderPaneBar.label "საქაღალდის დაფის ხელსაწყოები">
+<!ENTITY folderPaneBar.accesskey "ს">
+<!ENTITY folderModeSelector.label "საქაღალდის ხედები">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "დალაგება">
@@ -181,6 +195,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "მიმღებით">
 <!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByCorrespondentCmd.label "მომწოდებლები">
+<!ENTITY sortByCorrespondentCmd.accesskey "წ">
 <!ENTITY sortByUnreadCmd.label "წასაკითხით">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "მიღების რიგით">
@@ -301,6 +317,7 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "სასაუბრო">
 <!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "ალმიანი წერილი">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "დასტა">
@@ -344,7 +361,15 @@
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "დანართი">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY editAsNewMsgCmd.label "ჩასწორება ახალი შეტყობინების სახით">
+<!ENTITY editAsNewMsgCmd.accesskey "ჩ">
+<!ENTITY editAsNewMsgCmd.key "e">
+<!ENTITY editDraftMsgCmd.label "შეტყობინების ესკიზის ჩასწორება">
+<!ENTITY editDraftMsgCmd.accesskey "კ">
+<!ENTITY editTemplateMsgCmd.label "ნიმუშის ჩასწორება">
+<!ENTITY editTemplateMsgCmd.accesskey "ნ">
+<!ENTITY newMsgFromTemplateCmd.label "ახალი შეტყობინება ნიმუშიდან">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "ფილტრის შექმნა წერილიდან…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "გადატანა">
@@ -436,6 +461,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "მოდულები">
 <!ENTITY addons.accesskey "A">
+<!ENTITY addonPrefs.label "დამატების პარამეტრები">
 <!ENTITY activitymanager.label "აქტიობების მართვა">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "სასაუბროს სტატუსი">
