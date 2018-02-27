@@ -40,7 +40,7 @@
 <!ENTITY deleteByAgeFromServer.label "არა უმეტეს">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "დღისა">
-<!ENTITY deleteOnServer2.label "წაშლამდე ან 'შემოსული'-დან გადმოტანამდე">
+<!ENTITY deleteOnServer2.label "წაშლამდე ან მიღებულებიდან გადმოტანამდე">
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "ახალი წერილების ავტომატურად ჩატვირთვა">
 <!ENTITY downloadOnBiff.accesskey "m">
@@ -53,7 +53,7 @@
 <!ENTITY modelDeleteImmediately.label "მყისვე ამოშლა">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "&quot;შემოსული&quot; დასტის გაწმენდა გასვლისას">
+<!ENTITY expungeOnExit.label "მიღებული წერილების საქაღალდის გასუფთავება (&quot;წაშლა&quot;) გასვლისას">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "&quot;ურნის გასუფთავება&quot; გასვლისას">
 <!ENTITY emptyTrashOnExit.accesskey "x">
