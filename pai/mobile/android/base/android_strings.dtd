@@ -784,17 +784,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing_description "Paa maat tyuch wach ha paa nmakum chpayt chkwatem.">
 <!ENTITY restrictable_feature_clear_history "Chkjech ŕput">
 <!ENTITY restrictable_feature_clear_history_description "Paa mat tyuch wach ha chapayt ŕputsal am chu hal.">
+<!ENTITY restrictable_feature_advanced_settings "Chajanchu myay">
+<!ENTITY restrictable_feature_advanced_settings_description "Yay ŕkirchu ñukyok wiiy, ñwak baam chyak chmichu wiyik. Mchuboowutem chajanchu chaabkyak paa mwii yañkŕaalhay ñumtrchech hikyawa.">
+<!ENTITY restrictable_feature_camera_microphone "Paa tñurchu ñwak sal kwawchu">
+<!ENTITY restrictable_feature_camera_microphone_description "Paa wach kaŕit ha paa nmakum ñamatl knaaw web hal mir mor knaaw.">
+<!ENTITY restrictable_feature_block_list "Jabcu ŕ\&apos;amch mul te">
+<!ENTITY restrictable_feature_block_list_description "Chapayt chaab yak web kyoha ŕ\&apos;amch.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Sal amu chyuwu">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Chapyt wiha yemi trchech cu yu">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Btaar">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox paa btaaru tabet ee Android ha">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Web ha mŕpu: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Cha cham! &brandShortName; hay kos dispositiyal trech tem (&formatS1;,&formatS2;). Kamwih munuu ñul trech chu  kajanha mchmii.">
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 
@@ -805,6 +817,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY activity_stream_topsites "Paa tek unuwchu">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
