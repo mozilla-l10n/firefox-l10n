@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "а">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ішіне кіру">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; баптауларын ашу">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; үшін қайта байланысу">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Бет аудармасын басқару">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM БҚ қолдануын басқару">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI панелін ашу">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Камераңызды қолдануды бұл веб-сайтқа бұғаттадыңыз.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Сіз микрофоныңызды қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Сіз экраныңызбен бөлісуді бұл вебсайтқа блоктадыңыз.">
@@ -238,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Сіз canvas деректерін тарқатуды бұл вебсайтқа блоктадыңыз.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
 
@@ -1003,3 +1008,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Қолжетерлілік мүмкіндіктері іске қосылған">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
