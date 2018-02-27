@@ -39,6 +39,10 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Mozilla ला क्रॅश रिपोर्ट्स पाठवण्याची &brandShortName; ला परवानगी द्या">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "आणखी जाणा">
+
 <!ENTITY crashReporterLearnMore.label    "आणखी जाणा">
 
 <!ENTITY networkTab.label                "नेटवर्क">
@@ -46,12 +50,12 @@ available. -->
 <!ENTITY networkProxy.label              "नेटवर्क प्रॉक्सी">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ची इंटरनेटशी जुळणीकरता संरचना करा">
+
+<!ENTITY connectionSettingsLearnMore.label "आणखी जाणा">
 <!ENTITY connectionSettings.label        "सेटिंग्ज…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "कॅश्ड् वेब कंटेंट">
-
-<!ENTITY offlineStorage2.label           "ऑफलाइन वेब कंटेंट व वापरकर्ता डाटा">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "साइटची माहिती">
@@ -72,8 +76,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB मध्ये जागा">
 <!ENTITY clearCacheNow.label             "आत्ता नष्ट करा">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "आत्ता नष्ट करा">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "स्वयं कॅशे व्यवस्थापन खोडून पुनः लिहा">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -110,17 +112,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "शोध इंजिन आपोआप अद्ययावत करा">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "ऑफलाइन वापरासाठी माहिती केंव्हा साठवली जाते, ते कळवा">
-<!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "अपवाद…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-
-<!ENTITY offlineAppsList3.label          "खालील संकेतस्थळांना ऑफलाइन वापरकरीता डाटा साठवण्यास परवानगी आहे">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "काढून टाका…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "ऑफलाइन माहिती काढूण टाक">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
 <!ENTITY certPersonal2.description       "जेव्हा सर्व्हर वैयक्तिक प्रमाणपत्रा करीता विनंती करतो">

@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "माहिती पुसा">
+<!ENTITY window.width                 "35em">
+
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY clearSiteData.label          "कूकीज आणि संकेतस्थळाची माहिती">
+<!ENTITY clearSiteData.accesskey      "S">
+<!ENTITY clearSiteData.description    "नष्ट केल्यास आपण संकेतस्थळातून साइन आउट होऊ शकता">
+
+<!ENTITY clearCache.label             "कॅश केलेला वेब मजकूर">
+<!ENTITY clearCache.accesskey         "W">
+<!ENTITY clearCache.description       "संकेतस्थळांना प्रतिमा आणि माहिती पुन्हा लोड करावी लागेल">
+
+<!ENTITY button.cancel.label          "रद्द करा">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.clear.label           "नष्ट करा">
+<!ENTITY button.clear.accesskey       "l">

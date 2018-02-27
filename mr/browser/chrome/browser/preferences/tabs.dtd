@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "त्याऐवजी नविन चौकटांना नविन टॅबमध्ये उघडा">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY newWindowsAsTabs3.label       "नवीन पटल ऐवजी टॅबमध्ये दुवे उघडा">
+<!ENTITY newWindowsAsTabs3.accesskey   "w">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "एकापेक्षा जास्त टॅब बंद करतेवेळी मला सावध करा">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
