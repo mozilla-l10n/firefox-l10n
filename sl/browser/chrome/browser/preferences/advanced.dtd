@@ -40,6 +40,7 @@ available. -->
 <!ENTITY alwaysSubmitCrashReports1.label  "Dovoli &brandShortName;u pošiljanje poročil o sesutjih Mozilli">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "p">
 
+<!ENTITY collectBrowserErrors.label          "Dovoli &brandShortName;u pošiljanje poročil o napakah brskalnika (vključno s sporočili o napakah) Mozilli">
 <!ENTITY collectBrowserErrorsLearnMore.label "Več o tem">
 
 <!ENTITY sendBackloggedCrashReports.label  "Dovoli &brandShortName;u, da v vašem imenu pošilja poročila o sesutju iz zaloge">
