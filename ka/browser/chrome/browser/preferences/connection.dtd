@@ -46,6 +46,6 @@
 <!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ყველა პროტოკოლისთვის ამ პროქსი-სერვერის გამოყენება">
 <!ENTITY  shareproxy.accesskey          "ყ">
-<!ENTITY  autologinproxy.label          "არ მოითხოვოს ანგარიში, თუ პაროლი შენახულია">
+<!ENTITY  autologinproxy.label          "შესვლის მოთხოვნის გამოტოვება, თუ პაროლი დამახსოვრებულია">
 <!ENTITY  autologinproxy.accesskey      "თ">
 <!ENTITY  autologinproxy.tooltip        "ამ მითითების შედეგად, პროქსის ანგარიშზე ავტომატურად შეხვალთ, თუ ანგარიშის მონაცემები შენახული იქნება. ასევე გეცნობებათ, თუ შესვლა ვერ მოხერხდება.">
