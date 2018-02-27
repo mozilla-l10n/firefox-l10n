@@ -50,7 +50,7 @@
 <!ENTITY netTimeout.longDesc "<p>Site-ul cerut nu a răspuns cererii de conexiune, iar browserul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încearcă din nou mai târziu.</li><li>Ai probleme cu navigarea pe alte site-uri? Verifică conexiunea la rețea a calculatorului.</li><li>Calculatorul este protejat de un firewall sau proxy? Setările incorecte ale acestora poate afecta navigarea pe web.</li><li>Problemele persistă? Consultă administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocol necunoscut">
-<!ENTITY unknownProtocolFound.longDesc "<p>Adresa specifică un protocol (de ex., <q>wxyz://</q>) pe care browserul nu îl cunoaște, astfel că browserul nu se poate conecta în mod corespunzător la site.</p><ul><li>Încercați să accesați conținut multimedia sau alte servicii nontext? Verificați site-ul pentru cerințe suplimentare.</li><li>Unele protocoale pot necesita programe terțe sau pluginuri înainte ca browserul să le poată recunoaște.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<p>Adresa specifică un protocol (de ex., <q>wxyz://</q>) pe care browserul nu îl cunoaște, astfel că browserul nu se poate conecta în mod corespunzător la site.</p><ul><li>Încerci să accesezi conținut multimedia sau alte servicii nontext? Verifică site-ul pentru cerințe suplimentare.</li><li>Unele protocoale pot necesita programe terțe sau pluginuri înainte ca browserul să le poată recunoaște.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiunea">
 <!ENTITY proxyConnectFailure.longDesc "<p>Browserul este configurat să folosească un server proxy, însă proxy-ul a refuzat o conexiune.</p><ul><li>Este browserul configurat corect pentru acel proxy? Verificați setările și încercați din nou.</li><li>Serviciul proxy permite conexiuni din această rețea?</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
@@ -86,3 +86,4 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate care este învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță. Administratorul site-ului web va trebui să repare serverul mai întâi înainte să poți vizita site-ul.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
