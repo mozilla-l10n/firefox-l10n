@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Nūsyuteits">
 <!ENTITY aboutNetworking.received              "Sajimts">
 <!ENTITY aboutNetworking.family                "Saime">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Adresi">
 <!ENTITY aboutNetworking.expires               "Nūilgums (sekundes)">
 <!ENTITY aboutNetworking.messagesSent          "Nūsyuteitī ziņuojumi">

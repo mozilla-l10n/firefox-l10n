@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Problemu nūvieršonys informaceja">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Itei lopa satur tehnisku informaceju, kas var byut nūdereiga, raugūt nūvierst problemu. Nui meklejit atbiļdis iz vīnkuoršym vaicuojumym par &brandShortName;, apsaverit myusu <a id='supportLink'>pabolsta sātys lopu</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Avarejis ziņuojumi">
@@ -20,6 +20,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionEnabled "Īslāgts">
 <!ENTITY aboutSupport.extensionVersion "Verseja">
 <!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.securitySoftwareTitle "Drūšeibas programmatura">
+<!ENTITY aboutSupport.securitySoftwareType "Tips">
+<!ENTITY aboutSupport.securitySoftwareName "Nūsaukums">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Pretvīrusu aizsardzeiba">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Aizsardzeiba pret izspīgōšonu">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Guņsmyurs">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; īspiejis">
 <!ENTITY aboutSupport.featureName "Nūsaukums">
@@ -39,9 +46,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Nūsaukums">
 <!ENTITY aboutSupport.appBasicsVersion "Verseja">
 <!ENTITY aboutSupport.appBasicsBuildID "Byuviejuma ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Atjaunynuojumu kanals">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Atjaunynuojumu viesture">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Paruodeit atjaunynuojumu viesturi">
@@ -58,8 +65,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Atminis izmantuojums">
 <!ENTITY aboutSupport.appBasicsPerformance "Performance">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registered Service Workers">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profili">
@@ -85,8 +92,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Svareigī modificeitī īstatiejumi">
 <!ENTITY aboutSupport.modifiedPrefsName "Nūsaukums">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vierteiba">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js īstatiejumi">
 <!ENTITY aboutSupport.userJSDescription "Jiusu profila mapī atsarūn <a id='prefs-user-js-link'>user.js fails</a>, kas satur īstatiejumus, kū nav izveiduojs &brandShortName;.">
 
@@ -151,3 +158,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Channels">
 <!ENTITY aboutSupport.mediaDeviceRate "Uotrums">
 <!ENTITY aboutSupport.mediaDeviceLatency "Aizture">
+
+<!ENTITY aboutSupport.intlTitle "Internacionalizaceja un lokalizaceja">
+<!ENTITY aboutSupport.intlAppTitle "Programaturys īstatiejumi">
+<!ENTITY aboutSupport.intlLocalesRequested "Pīpraseitōs volūdas">
+<!ENTITY aboutSupport.intlLocalesAvailable "Pīejamōs volūdas">
+<!ENTITY aboutSupport.intlLocalesSupported "Aplikācejis volūdas">
+<!ENTITY aboutSupport.intlLocalesDefault "Nūklusietō volūda">
+<!ENTITY aboutSupport.intlOSTitle "Opereitōjsistema">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Sistemas volūdas">
+<!ENTITY aboutSupport.intlRegionalPrefs "Reģionalī īstatiejumi">
