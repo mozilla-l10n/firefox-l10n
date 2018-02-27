@@ -10,4 +10,4 @@
 <!ENTITY setPassword.meter.label           "Parolun keyfiyyəti">
 <!ENTITY setPassword.meter.loading         "Yüklənir">
 <!ENTITY masterPasswordDescription.label   "Ana Parol sayt parollarınız kimi həssas məlumatlarınızı qorumaq üçün işlədilir.  Əgər Ana Parolu yaratsanız &brandShortName; hər açılanda saxlanılmış qorunan məlumatları işlətməzdən əvvəl bir dəfə parolu daxil etməyinizi tələb edəcək.">
-<!ENTITY masterPasswordWarning.label       "Lütfən ana şifrəni bir yerə qeyd eləməyi unutmayın. Çünki ana şifrəni unutsanız yadda saxlanan şifrələrdən istifadə imkanınız olmuyacaq.">
+<!ENTITY masterPasswordWarning.label       "Lütfən, quraşdıracağınız Ana Parolu itirməyəcəyinizdən əmin olun.  Əgər Ana Parolu itirsəniz bununla qorunan heç bir məlumatı işlədə bilməyəcəksiz.">
