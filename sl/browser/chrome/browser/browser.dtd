@@ -126,6 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Prijava v &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Odpri nastavitve &syncBrand.shortName.label;a">
 <!ENTITY fxaSignInError.label "Ponovna povezava s &syncBrand.shortName.label;">
@@ -227,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prevod strani">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte uporabo programske opreme DRM">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Za to stran ste zavrnili uporabo kamere.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Za to stran ste zavrnili uporabo mikrofona.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Za to stran ste zavrnili deljenje zaslona.">
@@ -236,6 +239,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Za to stran ste zavrnili pojavna okna.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Za to stran ste zavrnili izločanje podatkov platna.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
 
@@ -1000,3 +1004,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Možnosti dostopnosti omogočene">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
