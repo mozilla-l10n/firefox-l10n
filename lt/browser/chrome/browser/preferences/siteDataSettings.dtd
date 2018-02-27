@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Būsena">
 <!ENTITY     cookiesCol.label              "Slapukai">
 <!ENTITY     usageCol.label                "Vieta">
+<!ENTITY     lastAccessedCol.label                "Paskiausiai naudota">
 <!ENTITY     searchTextboxPlaceHolder             "Ieškoti svetainių">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "e">
 <!ENTITY     removeSelected.label          "Pašalinti pažymėtus">
