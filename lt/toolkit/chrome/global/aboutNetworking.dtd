@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Išsiųsta">
 <!ENTITY aboutNetworking.received              "Gauta">
 <!ENTITY aboutNetworking.family                "Tipas">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Addresai">
 <!ENTITY aboutNetworking.expires               "Galiojimo trukmė (sek.)">
 <!ENTITY aboutNetworking.messagesSent          "Išsiųsta pranešimų">
