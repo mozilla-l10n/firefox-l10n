@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nos esforzamos pa dar-te opcions y replegar nomás lo que necesitamos pa ofrir y amillorar  &brandShortName; pa totz. Siempre demandamos permiso antes de recibir información personal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Nota sobre privacidat">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permitir que &brandShortName; ninvie reportes de fallo a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Permitir que &brandShortName; ninvie reportes d'error d'o navegador (incluyindo mensaches d'error) ta Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Saber-ne mas">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Permitir que &brandShortName; ninvie reportes de fallo a Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Permitir que &brandShortName; ninvie de parte suya los reportes de fallos rechistraus previament">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Saber-ne mas">
 
 <!ENTITY networkTab.label                "Ret">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Datos d'o puesto">
 <!ENTITY clearSiteData.label             "Limpiar totz los datos">
 <!ENTITY clearSiteData.accesskey         "L">
+<!ENTITY siteData1.label                 "Cookies y datos de puestos web">
+<!ENTITY clearSiteData1.label            "Borrar los datos…">
+<!ENTITY clearSiteData1.accesskey        "r">
 <!ENTITY siteDataSettings.label          "Parametros…">
 <!ENTITY siteDataSettings.accesskey      "P">
 <!ENTITY siteDataLearnMoreLink.label     "Saber-ne mas">

@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Ninviau">
 <!ENTITY aboutNetworking.received              "Recibiu">
 <!ENTITY aboutNetworking.family                "Familia">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Adrezas">
 <!ENTITY aboutNetworking.expires               "Expira (segundos)">
 <!ENTITY aboutNetworking.messagesSent          "Mensaches ninviaus">
