@@ -12,9 +12,9 @@
 
 <!ENTITY homepage2.label           "Ana Səhifə">
 <!ENTITY homepage2.accesskey       "P">
-<!ENTITY useCurrentPage.label      "Hazırki səhifədən istifadə et">
+<!ENTITY useCurrentPage.label      "Hazırkı səhifədən istifadə et">
 <!ENTITY useCurrentPage.accesskey  "H">
-<!ENTITY useMultiple.label         "Hazırki səhifələri istifadə et">
+<!ENTITY useMultiple.label         "Hazırkı səhifələri istifadə et">
 <!ENTITY chooseBookmark.label      "Əlfəcin istifadə et…">
 <!ENTITY chooseBookmark.accesskey  "Ə">
 <!ENTITY restoreDefault.label      "İlkin vəziyyətə qaytar">
@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "Məsləhət: Bu fərqli profillər işlədir. Aralarında məlumatları paylaşmaq üçün Sync işlət.">
 <!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; üçün daxil ol…">
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; nizamlamalarını aç">
-
-<!ENTITY e10sEnabled.label                "Çox əməliyyatlı &brandShortName; səyyahını aktiv et">
