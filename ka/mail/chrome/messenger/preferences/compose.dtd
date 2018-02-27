@@ -26,6 +26,8 @@
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "ნაგულისხმების აღდგენა">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY defaultToParagraph.label             "შიგთავსში ნაგულისხმევად, აბზაცების გამოყენება, ჩვეულებრივი ტექსტის ნაცვლად">
+<!ENTITY defaultToParagraph.accesskey         "ბ">
 
 <!ENTITY spellCheck.label                     "მართლწერის შემოწმება გაგზავნამდე">
 <!ENTITY spellCheck.accesskey                 "C">
@@ -52,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "არა">
 <!ENTITY editDirectories.label                 "დასტების რედაქტირება…">
 <!ENTITY editDirectories.accesskey             "E">
+<!ENTITY showAsDefault.label                   "ნაგულისხმევი გამშვები საქაღალდე, მისამართების წიგნაკის ფანჯარაში:">
+<!ENTITY showAsDefault.accesskey               "ნ">
+<!ENTITY showAsDefaultLast.label               "ბოლოს გამოყენებული საქაღალდე">
 
 <!ENTITY sendOptionsDescription.label          "ტექსტის ფორმატირების წესების მითითება">
 <!ENTITY sendOptions.label                     "გაგზავნის პარამეტრები…">

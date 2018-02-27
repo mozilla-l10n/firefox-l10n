@@ -18,6 +18,7 @@
 <!ENTITY props.path.label                  "გეზი:">
 <!ENTITY props.secure.label                "გაგზავნა:">
 <!ENTITY props.expires.label               "ვადა:">
+<!ENTITY props.container.label             "სათავსი:">
 
 <!ENTITY window.title                      "ნაჭდევები">
 <!ENTITY windowClose.key                   "w">
