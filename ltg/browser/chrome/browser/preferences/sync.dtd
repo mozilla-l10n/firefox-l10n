@@ -30,6 +30,7 @@
 <!ENTITY engine.addresses.title     "Saglobōtōs posta adreses (viņ datora versejī)">
 <!ENTITY engine.addresses.accesskey "A">
 <!ENTITY engine.creditcards.label   "Credit cards">
+<!ENTITY engine.creditcards.title   "Vōrdi, numeri un dereiguma termiņi (viņ datora versejī)">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
@@ -74,6 +75,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Aizmierst/damierst itū epostu">
 <!ENTITY forget.accesskey            "A">
 
+<!ENTITY resendVerification.label     "Nūsyutēt apstyprinojumu par jaunu">
+<!ENTITY resendVerification.accesskey "y">
+<!ENTITY cancelSetup.label            "Atceļt īstatiešonu">
+<!ENTITY cancelSetup.accesskey        "t">
 
 <!ENTITY signedOut.caption            "Take Your Web With You">
 <!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
@@ -102,3 +107,5 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.end              " to sync with your mobile device.">
 
+<!ENTITY mobilepromo.singledevice      "Daslēgt cytu īreici">
+<!ENTITY mobilepromo.multidevice       "Porvaļdeit īreices">
