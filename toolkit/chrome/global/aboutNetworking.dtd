@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Sendita">
 <!ENTITY aboutNetworking.received              "Ricevita">
 <!ENTITY aboutNetworking.family                "Familio">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Adresoj">
 <!ENTITY aboutNetworking.expires               "Senvalidiĝo (sekundoj)">
 <!ENTITY aboutNetworking.messagesSent          "Senditaj mesaĝoj">
