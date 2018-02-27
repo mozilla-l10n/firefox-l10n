@@ -18,7 +18,7 @@
 <!ENTITY feat_abook.label "მისამართების წიგნაკი">
 <!ENTITY feat_tags.label "ჭდეებისა და წერილების ჩვენების მორგება">
 <!ENTITY feat_integration.label
-"მჭიდრო ინტეგრაცია &brandShortName;-ს სხვა პროგრამებთან">
+"მუშაობის მჭიდრო შეთავსება &brandShortName;-ს სხვა პროგრამებთან">
 <!ENTITY dict.title "ლექსიკონები">
 <!ENTITY dict_intro.label "ლექსიკონები გამოიყენება თქვენი წერილების მართლწერის შესამოწმებლად.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->

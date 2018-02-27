@@ -33,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "წამი">
 <!ENTITY Diskspace                        "ადგილი დისკზე">
-<!ENTITY offlineCompactFolders.label      "ყველა დასტის შემჭიდროება თუ გამოთავისუფლდება">
+<!ENTITY offlineCompactFolders.label      "ყველა საქაღალდის შეკუმშვა, თუ მეტ სივრცეს გამოათავისუფლებს">
 <!ENTITY offlineCompactFolders.accesskey  "C">
 <!ENTITY offlineCompactFoldersMB.label    "მბ მაინც">

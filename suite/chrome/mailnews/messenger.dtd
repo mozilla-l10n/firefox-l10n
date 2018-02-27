@@ -57,7 +57,7 @@
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY renameFolder.label "დასტის გადარქმევა…">
 <!ENTITY renameFolder.accesskey "R">
-<!ENTITY compactFolders.label "დასტების შემჭიდროვება">
+<!ENTITY compactFolders.label "საქაღალდეების შეკუმშვა">
 <!ENTITY compactFolders.accesskey		"F">
 <!ENTITY emptyTrashCmd.label "ურნის გასუფთავება">
 <!ENTITY emptyTrashCmd.accesskey		"y">
@@ -501,7 +501,7 @@
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "წაშლა">
 <!ENTITY folderContextRemove.accesskey "D">
-<!ENTITY folderContextCompact.label "საქაღალდის შემჭიდროვება">
+<!ENTITY folderContextCompact.label "ამ საქაღალდის შეკუმშვა">
 <!ENTITY folderContextCompact.accesskey "F">
 <!ENTITY folderContextEmptyTrash.label "ურნის გასუფთავება">
 <!ENTITY folderContextEmptyTrash.accesskey "y">
