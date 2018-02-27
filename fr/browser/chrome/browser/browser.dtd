@@ -126,6 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+
 <!ENTITY fxaSignIn.label "Se connecter à &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Ouvrir les préférences de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnecter à &syncBrand.shortName.label;">
@@ -227,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gérer la traduction de la page">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gérer l’utilisation des logiciels DRM">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Vous avez empêché ce site d’accéder à votre caméra.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Vous avez empêché ce site d’accéder à votre microphone.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Vous avez empêché ce site de partager votre écran.">
@@ -236,6 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Vous avez bloqué des popups pour ce site web.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Vous avez empêché ce site d’extraire des informations de canvas.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afficher l’historique">
 
@@ -1001,3 +1004,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Fonctionnalités d’accessibilité activées">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Gérez vos modules en cliquant sur <image class='addon-addon-icon'/> dans le menu <image class='addon-toolbar-icon'/>.">
