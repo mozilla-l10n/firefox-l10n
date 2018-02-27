@@ -37,11 +37,12 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องจัดหาและปรับปรุง &brandShortName; สำหรับทุกคน เราร้องขอการอนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ">
 <!ENTITY dataCollectionPrivacyNotice.label    "ประกาศความเป็นส่วนตัว">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องไปยัง Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "น">
+
 <!ENTITY collectBrowserErrors.label          "อนุญาตให้ &brandShortName; ส่งรายงานข้อผิดพลาดเบราว์เซอร์ (รวมทั้งข้อความแสดงข้อผิดพลาด) ไปยัง Mozilla">
 <!ENTITY collectBrowserErrorsLearnMore.label "เรียนรู้เพิ่มเติม">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องไปยัง Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "น">
 <!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
 
 <!ENTITY networkTab.label                "เครือข่าย">
@@ -60,6 +61,9 @@ available. -->
 <!ENTITY siteData.label                  "ข้อมูลไซต์">
 <!ENTITY clearSiteData.label             "ล้างข้อมูลทั้งหมด">
 <!ENTITY clearSiteData.accesskey         "ง">
+<!ENTITY siteData1.label                 "คุกกี้และข้อมูลไซต์">
+<!ENTITY clearSiteData1.label            "ล้างข้อมูล…">
+<!ENTITY clearSiteData1.accesskey        "ล">
 <!ENTITY siteDataSettings.label          "การตั้งค่า…">
 <!ENTITY siteDataSettings.accesskey      "ต">
 <!ENTITY siteDataLearnMoreLink.label     "เรียนรู้เพิ่มเติม">
