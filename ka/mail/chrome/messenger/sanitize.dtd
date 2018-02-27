@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "დაწვრილებით">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
+<!ENTITY itemHistory.label                 "მონახულებული გვერდების ისტორია">
+<!ENTITY itemHistory.accesskey             "მ">
 <!ENTITY itemCookies.label                 "ნაჭდევები">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "ბუფერი">

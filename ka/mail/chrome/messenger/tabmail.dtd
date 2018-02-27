@@ -4,3 +4,6 @@
 
 <!ENTITY  closeTab.label           "დაფის დახურვა">
 <!ENTITY  listAllTabs.label        "ყველა დაფის სია">
+<!-- LOCALIZATION NOTE(defaultTabTitle.label): This is the default tab
+     title to show when the tab has no title. -->
+<!ENTITY  defaultTabTitle.label    "მთავარი">
