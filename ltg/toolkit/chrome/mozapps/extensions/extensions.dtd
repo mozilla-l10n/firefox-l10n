@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Papyldynuojumu puorvaļdnīks">
 
 <!ENTITY search.placeholder                   "Mekleit papyldynuojums">
+
+<!ENTITY search.placeholder2                  "Mekleit addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Mekliešona">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -23,15 +25,13 @@
 <!ENTITY getThemes.description                "Looking to personalize your browser?">
 <!ENTITY getThemes.learnMore                  "Izavielit kaidu nu tyukstušym temu.">
 
-<!ENTITY cmd.back.tooltip                     "Puorīt iz īprīkšejū lopu">
-<!ENTITY cmd.forward.tooltip                  "Puorīt iz nuokamū lopu">
 
 <!ENTITY showUnsignedExtensions.button.label  "Dažus papyldynuojums navar puorbaudeit">
 <!ENTITY showAllExtensions.button.label       "Ruodeit vysus papyldynuojums">
 <!ENTITY debugAddons.label                    "Atklaiduot papyldynuojums">
 <!ENTITY debugAddons.accesskey                "d">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Drūsais režyms ir deaktiviejs vysus papyldynuojumu.">
 <!ENTITY warning.checkcompatibility.label          "Papyldynuojumu savītuojameibys puorbaude ir deaktiveita. Īspiejams jiusim ir nasavītuojami papyldynuojumu.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktivēt">
@@ -39,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "Papyldynuojumu drūseibys puorbaude ir deaktiveita. Īspiejams jiusim ir nadrūsi papyldynuojumu.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktivēt">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktivēt papyldynuojumu drūseibys puorbaudi">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Mekliešona">
 <!ENTITY view.discover.label                  "Īgiut papyldynuojums">
 <!ENTITY view.recentUpdates.label             "Nasenī atjaunynuojumi">
 <!ENTITY view.availableUpdates.label          "Pīejamī atjaunynuojumi">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Mekleit atjaunynuojumus">
 <!ENTITY updates.checkForUpdates.accesskey    "M">
 <!ENTITY updates.viewUpdates.label            "Apsavērt nasenūs atjaunynuojumus">
@@ -74,8 +74,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Apsavērt pīejamūs atjaunynuojumus">
 <!ENTITY updates.updateSelected.label         "Instaleit atjaunynuojumus">
 <!ENTITY updates.updateSelected.tooltip       "Instaleit vysus itymā sarokstā pīejamūs atjaunynuojumus">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Ruodeit papyldus informaceju">
 <!ENTITY cmd.showDetails.accesskey            "p">
 <!ENTITY cmd.findUpdates.label                "Mekleit atjaunynuojumus">
@@ -119,15 +119,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Paslēpt laidīņa pīzeimes">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Paslēpt itei laidīņa pīzeimes">
 <!ENTITY cmd.findReplacement.label            "Find a Replacement">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Kas ir papyldynuojumi?">
 <!ENTITY discover.description2                "Papyldynuojumi ir mozys programenis, kas ļauj jiusim papyldynuot &brandShortName; ar papyldus funkcionalitati voi stilu. Izmieginojit laiku ītaupūšū suonu jūslu, laika ziņu programeņu voi pīlāguotu &brandShortName; izskotu, kab padareitu sovu &brandShortName; unikalu.">
 <!ENTITY discover.footer                      "Kod asot savīnuoti ar šķārsteiklu, itymā lūgā byus radzami popularuokī i lobuokī papyldynuojumi, kas pīejami jiusu izmieginuošonai.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Verseja">
 <!ENTITY detail.lastupdated.label             "Piedejū reizi atjaunynuots">
 <!ENTITY detail.creator.label                 "Izstruoduotuojs">
@@ -156,17 +156,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Īstatiejumi">
 <!ENTITY detail.showPreferencesUnix.accesskey "Ī">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Izmaineit itei papyldynuojuma īstatiejumus">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Viertiejums">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Apturēt">
 <!ENTITY progress.cancel.tooltip              "Atceļt">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Nūsaukums">
 <!ENTITY sort.name.tooltip                    "Kuortuot piec nūsaukuma">
 <!ENTITY sort.dateUpdated.label               "Atjaunynuots">
@@ -223,12 +223,12 @@
 <!ENTITY eula.accept                          "Pījemt i instaleit…">
 
 <!ENTITY settings.path.button.label           "Puorsavērt…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "What’s this? Telemetry may install and run experiments from time to time.">
 <!ENTITY experiment.info.learnmore "Uzzynojit vairuok">
 <!ENTITY experiment.info.learnmore.accesskey "U">
