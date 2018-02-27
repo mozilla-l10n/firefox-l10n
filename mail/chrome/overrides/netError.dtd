@@ -37,6 +37,12 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.title "ფაილთან წვდომა აკრძალულია">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>შესაძლოა წაშლილია, გადატანილია ან ფაილზე წვდომის უფლებები შეზღუდულია.</li>
+</ul>
+">
 
 <!ENTITY generic.title "უკაცრავად">
 <!ENTITY generic.longDesc "
@@ -86,6 +92,12 @@
 <!ENTITY netTimeout.title "კავშირის ვადა გავიდა">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "მისამართი გაუგებარი იყო">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>ამ მისამართის გასახსნელად შესაძლოა სხვა პროგრამის დაყენება იყოს საჭირო.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "პროქსი სერვერმა კავშირი უარყო">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -124,6 +136,11 @@
 ">
 
 <!ENTITY nssFailure2.title "უსაფრთხო დაკავშირება ვერ მოხერხდა">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>გვერდი, რომლის ნახვასაც ცდილობთ ვერ გაიხსნება, რადგან მიღებული მონაცემების ნამდვილობის დადასტურება ვერ ხერხდება.</li>
+  <li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და მოახსენოთ ამ ხარვეზის შესახებ.</li>
+</ul>">
 
 <!ENTITY nssBadCert.title "უსაფრთხო დაკავშირება ვერ ხერხდება">
 <!ENTITY nssBadCert.longDesc2 "
@@ -146,6 +163,7 @@
 </ul>
 ">
 
+<!ENTITY cspBlocked.title "შეზღუდულია, შიგთავსის უსაფრთხოების დებულების შესაბამისად">
 
 
 <!ENTITY securityOverride.linkText "ან გამონაკლისის დამატება შეგიძლიათ…">
