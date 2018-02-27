@@ -3,16 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "შრიფტები და კოდირებები">
-<!ENTITY  window.width                            "55em">
-<!ENTITY  window.macWidth                         "59em">
-<!ENTITY  window.unixWidth                        "57em">
 
 <!ENTITY  language.label                          "შრიფტები:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  size.label                             "ზომა:">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
+<!ENTITY  size.label                              "ზომა:">
+<!ENTITY  sizeProportional.accesskey              "გ">
+<!ENTITY  sizeMonospace.accesskey                 "ი">
 
 <!ENTITY  proportional.label                      "პროპორციული:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -24,19 +21,17 @@
 <!ENTITY  monospace.label                         "მონოსიგანის:">
 <!ENTITY  monospace.accesskey                     "m">
 
-<!ENTITY  font.langGroup.latin1                   "დასავლური">
-<!ENTITY  font.langGroup.latin2                   "ცენტრალურ ევროპული">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "ლათინური">
 <!ENTITY  font.langGroup.japanese                 "იაპონური">
 <!ENTITY  font.langGroup.trad-chinese             "ჩინური ტრადიციული (ტაივანი)">
 <!ENTITY  font.langGroup.simpl-chinese            "ჩინური გამარტივებული">
 <!ENTITY  font.langGroup.trad-chinese-hk          "ჩინური ტრადიციული (ჰონგ კონგი)">
 <!ENTITY  font.langGroup.korean                   "კორეული">
 <!ENTITY  font.langGroup.cyrillic                 "კირილიცა">
-<!ENTITY  font.langGroup.baltic                   "ბალტიური">
 <!ENTITY  font.langGroup.el                       "ბერძნული">
-<!ENTITY  font.langGroup.turkish                  "თურქული">
-<!ENTITY  font.langGroup.unicode1                 "უნიკოდი">
-<!ENTITY  font.langGroup.user-def                 "საკუთარი მითითებული">
+<!ENTITY  font.langGroup.other                    "სხვა დამწერლობები">
 <!ENTITY  font.langGroup.thai                     "ტაი">
 <!ENTITY  font.langGroup.hebrew                   "ებრაული">
 <!ENTITY  font.langGroup.arabic                   "არაბული">
@@ -51,7 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "გურმუხი">
 <!ENTITY  font.langGroup.khmer                    "ქჰმერული">
 <!ENTITY  font.langGroup.malayalam                "მალაილამი">
-
+<!ENTITY  font.langGroup.math                     "მათემატიკა">
+<!ENTITY  font.langGroup.odia                     "ორია">
+<!ENTITY  font.langGroup.telugu                   "ტელუგუ">
+<!ENTITY  font.langGroup.kannada                  "კანადა">
+<!ENTITY  font.langGroup.sinhala                  "სინჰალური">
+<!ENTITY  font.langGroup.tibetan                  "ტიბეტური">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "შრიფტის უმცირესი ზომა:">
 <!ENTITY minSize.accesskey                        "z">
@@ -71,10 +71,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "გამავალი ფოსტა:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label				    "კოდირებები">
-<!ENTITY composingDescription.label       "ნაგულისხმები კოდირების მითითება წერილების გაგზავნისა და მირებისთვის">
+<!ENTITY languagesTitle2.label            "ტექსტის კოდირება">
+<!ENTITY composingDescription2.label      "ტექსტის ნაგულისხმევი კოდირების მითითება, წერილების გაგზავნა/მიღებისთვის">
 
 <!ENTITY viewDefaultCharsetList.label     "შემოსული ფოსტა:">
-<!ENTITY viewDefaultCharsetList.accesskey	"I">
-<!ENTITY replyInDefaultCharset2.label     "როცა შესაძლებელია ნაგულისხმები კოდირების გამოყენება პასუხებში">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY viewDefaultCharsetList.accesskey  "I">
+<!ENTITY replyInDefaultCharset3.label     "როცა შესაძლებელია, ტექსტის ნაგულისხმევი კოდირების გამოყენება პასუხისას">
+<!ENTITY replyInDefaultCharset3.accesskey "პ">

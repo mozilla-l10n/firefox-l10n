@@ -10,14 +10,18 @@
 <!ENTITY useDefault.label                 "ნაგულისხმების აღდგენა">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "პიქტოგრამის ანიმაცია">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
+<!ENTITY changeDockIconOptions.label      "პროგრამის ხატულას პარამეტრების შეცვლა">
+<!ENTITY dockOptions.label                "პროგრამის ხატულის პარამეტრები…">
+<!ENTITY dockOptions.accesskey            "პ">
 
 <!ENTITY newMessagesArrive.label          "ახალი წერილის შემოსვლისას:">
 <!ENTITY playSound.label                  "გახმოვანება">
-<!ENTITY playSound1.accesskey              "d">
+<!ENTITY playSound1.accesskey             "d">
+<!ENTITY playSoundMac.label               "მოცემული ხმოვანი ფაილის დაკვრა:">
+<!ENTITY playSoundMac.accesskey           "დ">
 <!ENTITY showAnimatedAlert.label          "გაფრთხილების ჩვენება">
 <!ENTITY showAnimatedAlert.accesskey      "S">
+<!ENTITY notificationAlertSettings2.label "შეგიძლიათ გამორთოთ ნაგულისხმევი ხმოვანი სიგნალი და სხვა ნიშნები შეტყობინებების არეში, სისტემის პარამეტრებიდან.">
 <!ENTITY customizeMailAlert.label         "მორგება…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
@@ -27,10 +31,10 @@
 <!ENTITY play.label                       "გახმოვანება">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "ახალი წერილის ნაგულისხმები სისტემური გახმოვანება">
-<!ENTITY systemsoundMac.label             "სისტემური სიგნალი">
-<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "შემდეგი ხმოვანი ფაილის გამოყენება">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "ნუსხა…">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY defaultSearchEngine.label        "ნაგულისხმევი საძიებო სისტემა">

@@ -4,6 +4,8 @@
 
 <!ENTITY dialog.title                 "გაგზავნის პარამეტრები">
 <!ENTITY sendMail.title               "ტექსტის ფორმატი">
+<!ENTITY autoDowngrade.label          "შეტყობინების გაგზავნა ჩვეულებრივი ტექსტის ფორმატში, თუ შესაძლებელია">
+<!ENTITY autoDowngrade.accesskey      "შ">
 <!ENTITY sendMaildesc.label           "როცა წერილების HTML ფორმატით გაგზავნისას ერთი ან რამდენიმე მიმღები არაა HTML წერილების მიმღებთა სიაში:">
 <!ENTITY askMe.label                  "დამეკითხე შემდეგ ქმედებას">
 <!ENTITY askMe.accesskey              "k">
@@ -20,11 +22,11 @@
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "ტექსტური დომენები">
 <!ENTITY PlainTextTab.accesskey       "P">
-<!ENTITY AddHtmlDomain.label              "დამატება…">
+<!ENTITY AddHtmlDomain.label          "დამატება…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.label           "დამატება…">
 <!ENTITY AddPlainText.accesskey       "A">
-<!ENTITY DeleteHtmlDomain.label           "წაშლა">
+<!ENTITY DeleteHtmlDomain.label       "წაშლა">
 <!ENTITY DeleteHtmlDomain.accesskey   "D">
 <!ENTITY DeletePlainText.label        "წაშლა">
 <!ENTITY DeletePlainText.accesskey    "D">
