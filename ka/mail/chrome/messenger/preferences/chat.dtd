@@ -25,4 +25,40 @@ sentence. -->
 <!ENTITY  sendTyping.label              "შეტანის სტატუსის გაზავნა დიალოგისას">
 <!ENTITY  sendTyping.accesskey          "t">
 
+<!ENTITY  chatNotifications.label             "წერილის მიღებისას:">
+<!ENTITY  desktopChatNotifications.label      "შეტყობინების ჩვენება:">
+<!ENTITY  desktopChatNotifications.accesskey  "ჩ">
+<!ENTITY  completeNotification.label          "გამომგზავნის სახელთან ერთად, წერილის შეთვალიერება">
+<!ENTITY  buddyInfoOnly.label                 "მხოლოდ გამომგზავნის სახელთან ერთად">
+<!ENTITY  dummyNotification.label             "ყოველგვარი მონაცემების გარეშე">
+<!ENTITY  getAttention.label                  "აციმციმება დავალებათა ზოლზე">
+<!ENTITY  getAttention.accesskey              "ც">
+<!ENTITY  getAttentionMac.label               "ხატულას ამოძრავება">
+<!ENTITY  getAttentionMac.accesskey           "ო">
+<!ENTITY  chatSound.accesskey                 "მ">
+<!ENTITY  chatSound.label                     "ხმოვანი სიგნალი">
+<!ENTITY  play.label                          "დაკვრა">
+<!ENTITY  play.accesskey                      "დ">
+<!ENTITY  systemSound.label                   "წერილის მიღებისას სისტემის ნაგულისხმევი ხმოვანი სიგნალი">
+<!ENTITY  systemSound.accesskey               "ნ">
+<!ENTITY  customsound.label                   "შემდეგი ხმოვანი ფაილის გამოყენება">
+<!ENTITY  customsound.accesskey               "შ">
+<!ENTITY  browse.label                        "ამორჩევა…">
+<!ENTITY  browse.accesskey                    "ა">
 
+<!ENTITY messageStyleTab.title             "შეტყობინების გაფორმება">
+<!ENTITY messageStylePreview.label         "შეთვალიერება:">
+<!ENTITY messageStyleTheme.label           "თემა:">
+<!ENTITY messageStyleTheme.accesskey       "თ">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "ბუშტუკები">
+<!ENTITY messageStyleDarkTheme.label       "მუქი">
+<!ENTITY messageStylePaperSheetsTheme.label "ქაღალდი">
+<!ENTITY messageStyleSimpleTheme.label     "უბრალო">
+<!ENTITY messageStyleDefaultTheme.label    "ნაგულისხმევი">
+<!ENTITY messageStyleVariant.label         "ვარიანტი:">
+<!ENTITY messageStyleVariant.accesskey     "ვ">
+<!ENTITY messageStyleShowHeader.label      "ზედა ნაწილის ჩვენება">
+<!ENTITY messageStyleShowHeader.accesskey  "ჩ">
+<!ENTITY messageStyleNoPreview.title       "შეთვალიერება არაა ხელმისაწვდომი">
+<!ENTITY messageStyleNoPreview.description "ეს თემა არათავსებადია, ან ამჟამად მიუწვდომელია (გამორთული დამატება, უსაფრთხო რეჟიმი, …).">
