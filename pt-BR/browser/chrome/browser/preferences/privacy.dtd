@@ -51,6 +51,13 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Aceitar cookies de terceiros">
 <!ENTITY  acceptThirdParty2.pre.accesskey "a">
+
+<!ENTITY  acceptCookies3.label          "Aceitar cookies e dados de sites">
+<!ENTITY  acceptCookies3.accesskey      "A">
+
+
+<!ENTITY  acceptThirdParty3.pre.label     "Aceitar cookies e dados de site de terceiros">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Sempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "De sites visitados">
@@ -92,6 +99,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Você também pode querer ">
 <!ENTITY  dontrememberActions.clearHistory.label "limpar todo o histórico">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Limpar histórico…">
+<!ENTITY  clearHistoryButton.accesskey   "h">
 
 <!ENTITY  privateBrowsingPermanent2.label "Sempre usar o modo de navegação privativa">
 <!ENTITY  privateBrowsingPermanent2.accesskey "v">
