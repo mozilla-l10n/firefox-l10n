@@ -43,7 +43,7 @@
 <!ENTITY  genericBackgroundError.label    "&brandShortName; yeniləmə olub-olmadığını yoxlaya bilmir. Zəhmət olmasa buradan ən son &brandShortName; versiyasını işlətdiyinizə əmin olun:">
 
 <!ENTITY  finishedPage.title              "Yeniləmə qurulmağa hazırdır">
-<!ENTITY  finishedPage.text               "Yeniləmə &brandShortName; bir sonraki dəfə yenidən başladıqda qurulacaq. &brandShortName; səyyahını indi yenidən başlada, və ya işinizə davam edib daha sonra yeniləyə bilərsiz.">
+<!ENTITY  finishedPage.text               "Yeniləmə &brandShortName; bir sonrakı dəfə yenidən başladıqda qurulacaq. &brandShortName; səyyahını indi yenidən başlada, və ya işinizə davam edib daha sonra yeniləyə bilərsiz.">
 
 <!ENTITY  finishedBackgroundPage.text     "&brandShortName; səyyahına aid bir təhlükəsizlik və dayanıqlılıq yeniləməsi endirildi və quraşdırılmaya hazırdır.">
 <!ENTITY  finishedBackground.name         "Yeniləmə:">
