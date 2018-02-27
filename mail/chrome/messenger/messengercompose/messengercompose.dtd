@@ -198,6 +198,7 @@
 <!ENTITY priorityMenu.label "პრიორიტეტი">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.title "უპირატესობა">
+<!ENTITY priorityButton.tooltiptext "შეტყობინებების უპირატესობის შეცვლა">
 <!ENTITY priorityButton.label "პრიორიტეტი:">
 <!ENTITY lowestPriorityCmd.label "უდაბლესი">
 <!ENTITY lowestPriorityCmd.accesskey "l">
@@ -222,6 +223,11 @@
 <!ENTITY addressBookCmd.label "წიგნაკი">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
+<!ENTITY accountManagerCmd2.label "ანგარიშის პარამეტრები">
+<!ENTITY accountManagerCmd2.accesskey "პ">
+<!ENTITY accountManagerCmdUnix2.accesskey "რ">
+<!ENTITY preferencesCmd2.label "პარამეტრები">
+<!ENTITY preferencesCmd2.accesskey "მ">
 <!ENTITY preferencesCmdUnix.label "პარამეტრები">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -239,6 +245,7 @@
 <!ENTITY attachButton.label "მიმაგრება">
 <!ENTITY spellingButton.label "მართლწერა">
 <!ENTITY saveButton.label "ჩაწერა">
+<!ENTITY printButton.label "ბეჭდვა">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "წერილის დაუყოვნებლივ გაგზავნა">
@@ -251,6 +258,7 @@
 <!ENTITY cutButton.tooltip              "ამოჭრა">
 <!ENTITY copyButton.tooltip             "კოპირება">
 <!ENTITY pasteButton.tooltip            "ჩასმა">
+<!ENTITY printButton.tooltip "ამ შეტყობინების ამობეჭდვა">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
