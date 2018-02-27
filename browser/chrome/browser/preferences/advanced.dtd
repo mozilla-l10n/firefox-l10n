@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nous nous efforçons de vous laisser le choix et de recueillir uniquement les informations dont nous avons besoin pour proposer et améliorer &brandShortName; pour tout le monde. Nous demandons toujours votre permission avant de recevoir des données personnelles.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Politique de confidentialité">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Autoriser &brandShortName; à envoyer les rapports de plantage à Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "t">
+
 <!ENTITY collectBrowserErrors.label          "Autoriser &brandShortName; à envoyer les rapports d’erreur du navigateur (comprenant les messages d’erreur) à Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "u">
 <!ENTITY collectBrowserErrorsLearnMore.label "En savoir plus">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Autoriser &brandShortName; à envoyer les rapports de plantage à Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "t">
+<!ENTITY sendBackloggedCrashReports.label  "Autoriser &brandShortName; à envoyer pour vous les rapports de plantage en attente">
+<!ENTITY sendBackloggedCrashReports.accesskey "t">
 <!ENTITY crashReporterLearnMore.label    "En savoir plus">
 
 <!ENTITY networkTab.label                "Réseau">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "Données des sites">
 <!ENTITY clearSiteData.label             "Effacer toutes les données">
 <!ENTITY clearSiteData.accesskey         "f">
+<!ENTITY siteData1.label                 "Cookies et données des sites">
+<!ENTITY clearSiteData1.label            "Effacer les données…">
+<!ENTITY clearSiteData1.accesskey        "E">
 <!ENTITY siteDataSettings.label          "Paramètres…">
 <!ENTITY siteDataSettings.accesskey      "a">
 <!ENTITY siteDataLearnMoreLink.label     "En savoir plus">
