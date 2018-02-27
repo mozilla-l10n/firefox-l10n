@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Počisti podatke">
+
+
+<!ENTITY clearSiteData.label          "Piškotki in podatki strani">
+
+<!ENTITY clearCache.label             "Vsebina v predpomnilniku">
+
+<!ENTITY button.cancel.label          "Prekliči">
+<!ENTITY button.clear.label           "Počisti">

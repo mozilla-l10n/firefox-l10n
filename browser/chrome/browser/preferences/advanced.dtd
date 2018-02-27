@@ -39,6 +39,10 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Dovoli &brandShortName;u pošiljanje poročil o sesutjih Mozilli">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "p">
+
+<!ENTITY collectBrowserErrorsLearnMore.label "Več o tem">
+
+<!ENTITY sendBackloggedCrashReports.label  "Dovoli &brandShortName;u, da v vašem imenu pošilja poročila o sesutju iz zaloge">
 <!ENTITY crashReporterLearnMore.label    "Več o tem">
 
 <!ENTITY networkTab.label                "Omrežje">
@@ -46,17 +50,19 @@ available. -->
 <!ENTITY networkProxy.label              "Omrežni posrednik">
 
 <!ENTITY connectionDesc.label            "Določite, kako naj se &brandShortName; poveže na internet.">
+
+<!ENTITY connectionSettingsLearnMore.label "Več o tem">
 <!ENTITY connectionSettings.label        "Nastavitve …">
 <!ENTITY connectionSettings.accesskey    "n">
 
 <!ENTITY httpCache.label                 "Vsebina v predpomnilniku">
 
-<!ENTITY offlineStorage2.label           "Vsebina in uporabniški podatki za delo brez povezave">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Podatki strani">
 <!ENTITY clearSiteData.label             "Počisti vse podatke">
 <!ENTITY clearSiteData.accesskey         "č">
+<!ENTITY siteData1.label                 "Piškotki in podatki strani">
+<!ENTITY clearSiteData1.label            "Počisti podatke …">
 <!ENTITY siteDataSettings.label          "Nastavitve …">
 <!ENTITY siteDataSettings.accesskey      "v">
 <!ENTITY siteDataLearnMoreLink.label     "Več o tem">
@@ -72,8 +78,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Počisti zdaj">
 <!ENTITY clearCacheNow.accesskey         "O">
-<!ENTITY clearOfflineAppCacheNow.label   "Počisti zdaj">
-<!ENTITY clearOfflineAppCacheNow.accesskey "Z">
 <!ENTITY overrideSmartCacheSize.label    "Prezri samodejno upravljanje predpomnilnika">
 <!ENTITY overrideSmartCacheSize.accesskey "E">
 
@@ -110,17 +114,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Samodejno posodabljaj iskalnike">
 <!ENTITY enableSearchUpdate2.accesskey   "i">
-
-<!ENTITY offlineStorageNotify.label               "Sporoči, ko želi stran shraniti podatke za delo brez povezave">
-<!ENTITY offlineStorageNotify.accesskey           "t">
-<!ENTITY offlineStorageNotifyExceptions.label     "Izjeme …">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "I">
-
-<!ENTITY offlineAppsList3.label          "Naslednje spletne strani lahko shranjujejo podatke za delo brez povezave">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Odstrani ...">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Odstrani ">
 
 <!ENTITY certificateTab.label            "Digitalna potrdila">
 <!ENTITY certPersonal2.description       "Ko strežnik zahteva vaše osebno digitalno potrdilo,">
