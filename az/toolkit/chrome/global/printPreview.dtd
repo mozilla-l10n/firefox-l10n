@@ -6,7 +6,7 @@
 <!ENTITY print.accesskey      "p">
 <!ENTITY pageSetup.label      "Səhifə nizamı…">
 <!ENTITY pageSetup.accesskey  "a">
-<!ENTITY page.label           "Sayfa:">
+<!ENTITY page.label           "Səhifə:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             " -> ">
 <!ENTITY scale.label          "Miqyas:">
@@ -37,7 +37,7 @@
 <!ENTITY simplifyPage.enabled.tooltip  "Rahar oxumaq üçün səhifə görünüşünü dəyişdirin">
 <!ENTITY simplifyPage.disabled.tooltip "Bu səhifə avtomatik sadələşdirilə bilməz">
 
-<!ENTITY homearrow.tooltip    "İlk sayfa">
-<!ENTITY endarrow.tooltip     "Son sayfa">
-<!ENTITY nextarrow.tooltip    "Sonraki sayfa">
-<!ENTITY previousarrow.tooltip "Önceki sayfa">
+<!ENTITY homearrow.tooltip    "İlk səhifə">
+<!ENTITY endarrow.tooltip     "Son səhifə">
+<!ENTITY nextarrow.tooltip    "Sonrakı səhifə">
+<!ENTITY previousarrow.tooltip "Əvvəlki səhifə">

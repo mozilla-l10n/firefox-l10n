@@ -16,7 +16,7 @@
 <!ENTITY devmgr.button.login.accesskey          "p">
 <!ENTITY devmgr.button.logout.label             "Hesabdan çıx">
 <!ENTITY devmgr.button.logout.accesskey         "x">
-<!ENTITY devmgr.button.changepw.label           "Şifrəni dəyiş">
+<!ENTITY devmgr.button.changepw.label           "Parolu dəyiş">
 <!ENTITY devmgr.button.changepw.accesskey       "Ş">
 <!ENTITY devmgr.button.load.label               "Yükle">
 <!ENTITY devmgr.button.load.accesskey           "l">
