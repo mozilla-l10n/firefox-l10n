@@ -8,6 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "Vērt jaunus lūgus jaunuos cilnēs">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY newWindowsAsTabs3.label       "Attaiseit saites clinēs navys jaunūs lūgūs">
+<!ENTITY newWindowsAsTabs3.accesskey   "l">
+
 <!ENTITY warnOnCloseMultipleTabs.label      "Breidynuot, pyrms aiztaiseit vairuokys cilnes">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
