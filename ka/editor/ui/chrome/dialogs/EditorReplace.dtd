@@ -4,7 +4,7 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "ძებნა და შეცვლა">
+<!ENTITY replaceDialog.title "პოვნა და შეცვლა">
 <!ENTITY findField.label "რას ვეძებთ:">
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "რით ვცვლით:">
