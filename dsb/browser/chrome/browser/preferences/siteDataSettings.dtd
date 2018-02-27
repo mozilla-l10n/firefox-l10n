@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Cookieje">
 <!ENTITY     usageCol.label                "Składowak">
+<!ENTITY     lastAccessedCol.label                "Slědny raz wužyty">
 <!ENTITY     searchTextboxPlaceHolder             "Websedła pytaś">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "s">
 <!ENTITY     removeSelected.label          "Wubrane wótwónoźeś">

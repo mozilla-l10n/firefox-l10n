@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Cookieje tśeśich póbitowarjow akceptěrowaś">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
+
+<!ENTITY  acceptCookies3.label          "Cookieje a sedłowe daty z websedłow akceptěrowaś">
+<!ENTITY  acceptCookies3.accesskey      "C">
+
+<!ENTITY  blockCookies.label            "Cookieje a sedłowe daty blokěrowaś (mógło zawinowaś, až websedła njefunkcioněruju)">
+<!ENTITY  blockCookies.accesskey        "s">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Cookieje a sedłowe daty tśeśich póbitowarjow akceptěrowaś">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Pśecej">
 <!ENTITY  acceptThirdParty.never.label    "Nigda">
 <!ENTITY  acceptThirdParty.visited.label  "Jano wót woglědanych tśeśich">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Cośo snaź ">
 <!ENTITY  dontrememberActions.clearHistory.label "wšu tuchylnu historiju wuprozniś">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Historiju lašowaś…">
+<!ENTITY  clearHistoryButton.accesskey   "i">
 
 <!ENTITY  privateBrowsingPermanent2.label "Pśecej priwatny modus wužywaś">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
