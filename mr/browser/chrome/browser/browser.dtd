@@ -51,6 +51,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "दुवा उपकरणाला पाठवा">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "पाठविले!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "रांगेत (ऑफलाइन)">
 <!ENTITY  moveToNewWindow.label              "नवीन पटलाकडे हलवा">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "सर्व टॅब्जना वाचनखूण लावा…">
@@ -110,6 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "पृष्ठाची माहिती">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "हुबेहुब टॅब">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -124,6 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "सर्व ट्रॅक दाखवा">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
+
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मध्ये प्रवेश करा">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; प्राधान्यक्रम उघडा">
@@ -226,15 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "पृष्ठाच्या अनुवादाचे व्यवस्थापन करा">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सॉफ्टवेअर वापराचे व्यवस्थापन करा">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "आपण ह्या वेबसाईटसाठी आपला कॅमेरा अवरोधित केला आहे.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "आपण ह्या वेबसाईटसाठी आपला मायक्रोफोन अवरोधित केला आहे.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ह्या वेबसाईटला आपण आपली स्क्रीन शेअर करण्यापासून अवरोधित केले आहे.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "आपण ह्या वेबसाईटसाठी स्थळाची माहिती अवरोधित केली आहे.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "आपण माहितीसाठा ह्या वेबसाईटसाठी अवरोधित केला आहे.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "आपण ह्या वेबसाइटसाठी सूचना अवरोधित केल्या आहे.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "आपण दीर्घस्थायी स्टोरेज ह्या वेबसाईटसाठी अवरोधित केला आहे.">
-
 <!ENTITY urlbar.popupBlocked.tooltip             "ह्या संकेतस्थळासाठी आपण पॉप-अप अडवले आहेत.">
+
+<!ENTITY urlbar.canvasBlocked.tooltip            "आपण ह्या वेबसाइटसाठी कॅनव्हास डेटा उतारा अवरोधित केला आहे.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दाखवा">
@@ -301,7 +305,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "नवीन खाजगी पटल">
 <!ENTITY newPrivateWindow.accesskey "W">
-<!ENTITY newNonRemoteWindow.label   "नवीन Non-e10s विंडो">
 
 <!ENTITY editMenu.label         "संपादित करा">
 <!ENTITY editMenu.accesskey       "E">
@@ -356,18 +359,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "सर्व इतिहास दाखवा">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "स्वपसंती">
-<!ENTITY appMenuCustomize.tooltip "मेन्यु आणि साधनपट्टी पसंतीचे करा">
-<!ENTITY appMenuCustomizeExit.label "पसंतीचे पासून बाहेर पडा">
-<!ENTITY appMenuCustomizeExit.tooltip "पसंतीचे करणे समाप्त करा">
-
 <!ENTITY appMenuHistory.showAll.label "सर्व इतिहास दाखवा">
 <!ENTITY appMenuHistory.clearRecent.label "ताजे इतिहास नष्ट करा…">
 <!ENTITY appMenuHistory.restoreSession.label "मागील सत्र पूर्वस्थितीत आणा">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाजूच्यापट्टीचे दृष्य">
 <!ENTITY appMenuHistory.recentHistory.label "ताजा इतिहास">
 <!ENTITY appMenuHelp.label "मदत">
-<!ENTITY appMenuHelp.tooltip "मदत मेन्यु उघडा">
 
 <!ENTITY appMenuRemoteTabs.label "ताळमेळीत टॅब्स">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -390,12 +387,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "आत्तापर्यंत एकही टॅब सींक केलेले नाही!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "आपल्या इतर उपकरणांवरील आपले टॅब्स् येथे पाहू इच्छिता?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ताळमेळ प्राधान्यक्रम">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "ताळमेळ प्राधान्यता उघडा">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "आपल्या इतर उपकरणांवरील टॅब्सची यादी पाहण्यासाठी साइन इन करा.">
 <!ENTITY appMenuRemoteTabs.unverified.label "आपले खाते सत्यापित करणे आवश्यक आहे.">
 <!ENTITY appMenuRemoteTabs.signin.label "सींक करण्यासाठी साइन इन करा">
 <!ENTITY appMenuRemoteTabs.managedevices.label "साधने व्यवस्थापित करा...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ताळमेळ झालेले बाजुपट्टी बघा">
 
+<!ENTITY appMenuRemoteTabs.connectdevice.label "अन्य उपकरण जोडा">
 
 <!ENTITY appMenuRecentHighlights.label "अलीकडील प्रकाशने">
 
@@ -441,14 +440,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "एक्सटेंशन:">
 <!ENTITY urlbar.switchToTab.label     "टॅबचा वापर करा:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "आपण आपला शोध अनुभव सूचनांद्वारा सुधारू इच्छिता का?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "अधिक जाणून घ्या…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "नाही">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "होय">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "टीप:">
@@ -727,8 +718,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "मूळ पृष्ठ शैली">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "ह्या संकेतस्थळाकरता पॉप-अप अडवून ठेवणारे सेटींग्स बदला">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -824,6 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "आपल्या इतर उपकरणावरुन या उपकरणावर टॅब्स पाहण्यासाठी टॅब ताळमेळ सक्रीय करा.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ताळमेळीत टॅब शोधा">
 
+<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "अन्य उपकरण जोडा">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -859,8 +849,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "ताळमेळ">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "आपले आवडते आयटम ओढून साधनपट्टीत किंवा ओव्हरफ्लो मेनूमध्ये टाका.">
-<!ENTITY customizeMode.menuAndToolbars.empty "आणखी साधने पाहिजेत?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारो ॲड-ऑन्स् पासून पसंत करा">
 <!ENTITY customizeMode.restoreDefaults "पूर्वनिर्धारित पूर्वस्थितीत आणा">
 <!ENTITY customizeMode.done "झाले">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
@@ -873,7 +861,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "अधिक थिम्स मिळवा">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "आपल्या साधनपट्टीच्या बाहेर पण त्वरित उपलब्ध होण्यासाठी ओढून घटक इथे सोडा…">
 <!ENTITY customizeMode.overflowList.title2 "ओव्हरफ्लो मेनू">
 <!ENTITY customizeMode.overflowList.description "आपल्या साधनपट्टीच्या पोहोचतायेण्यासारखे परंतु बाहेर ठेवण्यासाठी आयटम येथे ड्रॅग आणि ड्रॉप करा…">
 <!ENTITY customizeMode.uidensity "घनता">
@@ -994,6 +981,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; अद्ययावत करण्यासाठी पुनःसुरु करा">
 
+<!ENTITY newTabControlled.message "नवीन टॅब उघडल्यावर दिसणारे पृष्ठ एका एक्स्टेंशन ने बदलले आहे. हा बदल आपल्याला नको असल्यास आपण आपले सेटिंग पूर्ववत करू शकता.">
+<!ENTITY newTabControlled.header.message "आपला नवीन टॅब बदलला आहे.">
 <!ENTITY newTabControlled.keepButton.label "बदल जतन करा">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.restoreButton.label "सेटिंग पूर्वस्थितीत आणा">
@@ -1002,8 +991,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "पृष्ठाच्या कृती">
 <!ENTITY pageAction.addToUrlbar.label "पत्ता पट्टी मध्ये जोडा">
 <!ENTITY pageAction.removeFromUrlbar.label "पत्ता पट्टीमधून काढा">
-
 <!ENTITY pageAction.allowInUrlbar.label "पत्ता पट्टीमध्ये दर्शवा">
+<!ENTITY pageAction.disallowInUrlbar.label "पत्ता पट्टी मध्ये दाखवू नका">
+<!ENTITY pageAction.manageExtension.label "एक्सटेन्शन व्यवस्थापित करा…">
 
 <!ENTITY pageAction.sendTabToDevice.label "टॅब उपकरणाला पाठवा">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणे सिंक करत आहे…">
@@ -1015,3 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "सुलभता वैशिष्ट्ये सक्षम आहेत">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
