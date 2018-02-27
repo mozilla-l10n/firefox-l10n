@@ -6,6 +6,7 @@
 <!ENTITY  trackingProtection2.description      "Sledovanie je zhromažďovanie údajov o vašom prehliadaní na rôznych stránkach. Môže byť použité na vytvorenie profilu a zobrazovanie obsahu alebo reklám na základe vašich osobných údajov.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Blokovať sledovacie prvky pomocou Ochrany pred sledovaním">
 <!ENTITY  trackingProtection3.description      "Ochrana pred sledovaním blokuje sledovacie prvky, ktoré o vás zbierajú údaje naprieč webovými stránkami.">
+<!ENTITY  trackingProtection3.radioGroupLabel  "Blokovať známe sledovacie prvky pomocou Ochrany pred sledovaním">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
 <!ENTITY  trackingProtectionPrivate.label      "Len v súkromných oknách">
@@ -13,6 +14,7 @@
 <!ENTITY  trackingProtectionNever.label        "Nikdy">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
 <!ENTITY  trackingProtectionLearnMore.label    "Ďalšie informácie">
+<!ENTITY  trackingProtectionLearnMore2.label    "Ďalšie informácie o Ochrane pred sledovaním a o vašom súkromí">
 <!ENTITY  trackingProtectionExceptions.label   "Výnimky…">
 <!ENTITY  trackingProtectionExceptions.accesskey "m">
 
@@ -49,6 +51,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Povoliť cookies tretích strán">
 <!ENTITY  acceptThirdParty2.pre.accesskey "k">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "vždy">
 <!ENTITY  acceptThirdParty.never.label    "nikdy">
 <!ENTITY  acceptThirdParty.visited.label  "len pre navštívené">
@@ -90,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Teraz môžete ">
 <!ENTITY  dontrememberActions.clearHistory.label "vymazať celú aktuálnu históriu">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Vymazať históriu…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Natrvalo zapnúť režim Súkromné prehliadanie">
 <!ENTITY  privateBrowsingPermanent2.accesskey "a">
