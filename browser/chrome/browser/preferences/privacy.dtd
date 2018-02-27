@@ -51,6 +51,10 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Sprejemaj piškotke tretjih strani">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
+
+<!ENTITY  acceptCookies3.label          "Sprejmi piškotke in podatke strani iz spletnih strani">
+
+
 <!ENTITY  acceptThirdParty.always.label   "Vedno">
 <!ENTITY  acceptThirdParty.never.label    "Nikoli">
 <!ENTITY  acceptThirdParty.visited.label  "Izmed obiskanih">
@@ -92,6 +96,8 @@
 <!ENTITY  dontrememberActions.pre.label          "Morda želite ">
 <!ENTITY  dontrememberActions.clearHistory.label "počistiti vso trenutno zgodovino">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Počisti zgodovino …">
 
 <!ENTITY  privateBrowsingPermanent2.label "Vedno uporabljaj zasebno brskanje">
 <!ENTITY  privateBrowsingPermanent2.accesskey "S">
