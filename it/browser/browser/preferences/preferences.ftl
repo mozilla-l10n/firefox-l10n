@@ -46,5 +46,5 @@ feature-enable-requires-restart = È necessario riavviare { -brand-short-name } 
 feature-disable-requires-restart = È necessario riavviare { -brand-short-name } per disattivare questa funzione.
 should-restart-title = Riavvia { -brand-short-name }
 should-restart-ok = Riavvia { -brand-short-name } adesso
-revert-no-restart-button = Ripristina
+cancel-no-restart-button = Annulla
 restart-later = Riavvia in seguito
