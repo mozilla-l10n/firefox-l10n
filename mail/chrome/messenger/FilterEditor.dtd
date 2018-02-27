@@ -48,7 +48,7 @@
 <!ENTITY deleteMessage.label "წერილის წაშლა">
 <!ENTITY deleteFromPOP.label "წაშლა POP სერვერიდან">
 <!ENTITY fetchFromPOP.label "მიღება POP სერვერიდან">
-<!ENTITY ignoreThread.label "საქაღალდის იგნორირება">
+<!ENTITY ignoreThread.label "მწკრივის უგულებელყოფა">
 <!ENTITY ignoreSubthread.label "ქვეთემის იგნორირება">
 <!ENTITY watchThread.label "საქაღალდის თვალმიდევნება">
 <!ENTITY stopExecution.label "ფილტრის გამოყენების შეწყვეტა">

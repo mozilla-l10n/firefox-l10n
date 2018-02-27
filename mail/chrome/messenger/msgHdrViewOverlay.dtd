@@ -39,31 +39,31 @@
 <!ENTITY hdrForwardButton1.label "გადაგზავნა">
 <!ENTITY hdrForwardButton1.tooltip "ამ წერილის გადაგზავნა">
 <!ENTITY hdrJunkButton1.label "ჯართი">
-<!ENTITY hdrJunkButton1.tooltip "Mark this message as junk">
+<!ENTITY hdrJunkButton1.tooltip "შეტყობინების ჯართად მონიშვნა">
 <!ENTITY hdrTrashButton1.label "წაშლა">
 <!ENTITY hdrTrashButton1.tooltip "ამ წერილის წაშლა">
 
 <!ENTITY hdrViewToolbarShowFull.label "ხატულების და ტექსტის ჩვენება">
-<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowFull.accesskey "ა">
 <!ENTITY hdrViewToolbarShowIcons.label "მხოლოდ ხატულების ჩვენება">
-<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "ლ">
 <!ENTITY hdrViewToolbarShowText.label "მხოლოდ ტექსტის ჩვენება">
-<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarShowText.accesskey "ტ">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "პასუხის ყოველთვის ჩვენება გამომგზავნისთვის">
-<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "პ">
 
 <!ENTITY otherActionsButton2.label "სხვა">
 <!ENTITY otherActionsButton.tooltip "დამატებითი მოქმედებები">
-<!ENTITY otherActionsOpenConversation1.label "გახსნა განხილვაში">
-<!ENTITY otherActionsOpenConversation1.accesskey "C">
+<!ENTITY otherActionsOpenConversation1.label "გახსნა სასაუბროში">
+<!ENTITY otherActionsOpenConversation1.accesskey "გ">
 <!ENTITY otherActionsOpenInNewWindow1.label "გახსნა ახალ სარკმელში">
-<!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "კ">
 <!ENTITY otherActionsOpenInNewTab1.label "გახსნა ახალ დაფაზე">
-<!ENTITY otherActionsOpenInNewTab1.accesskey "T">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "ხ">
 <!ENTITY markAsReadMenuItem1.label "მონიშვნა წაკითხულად">
-<!ENTITY markAsReadMenuItem1.accesskey "R">
+<!ENTITY markAsReadMenuItem1.accesskey "თ">
 <!ENTITY markAsUnreadMenuItem1.label "მონიშვნა წასაკითხად">
-<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY markAsUnreadMenuItem1.accesskey "ს">
 <!ENTITY saveAsMenuItem1.label "შენახვა როგორც…">
 <!ENTITY saveAsMenuItem1.accesskey "S">
 <!ENTITY viewSourceMenuItem1.label "წყაროს ჩვენება">
