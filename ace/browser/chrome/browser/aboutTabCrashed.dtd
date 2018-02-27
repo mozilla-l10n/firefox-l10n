@@ -15,5 +15,7 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.offerHelp2 "Kamoe jeut meubantu!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Piléh &tabCrashed.restoreTab; keu-peuhah keulayi laman.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Piléh &tabCrashed.restoreTab; atawa &tabCrashed.restoreAll; keu-peuhah keulayi laman.">
 <!ENTITY tabCrashed.requestHelp "Peu jeut neubantu kamoe?">
 <!ENTITY tabCrashed.requestReport "Lapor tab nyoe">
