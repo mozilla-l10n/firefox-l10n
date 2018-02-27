@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Stad">
 <!ENTITY     cookiesCol.label              "Toupinoù">
 <!ENTITY     usageCol.label                "Kadaviñ">
+<!ENTITY     lastAccessedCol.label                "Arver diwezhañ">
 <!ENTITY     searchTextboxPlaceHolder             "Klask lec'hiennoù">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "K">
 <!ENTITY     removeSelected.label          "Dilemel ar re ziuzet">

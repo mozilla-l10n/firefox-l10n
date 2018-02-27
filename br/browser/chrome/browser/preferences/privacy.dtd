@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Degemer toupinoù un trede">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
+
+<!ENTITY  acceptCookies3.label          "Asantiñ an toupinoù hag ar roadennoù lec'hienn eus al lec'hiennoù web">
+<!ENTITY  acceptCookies3.accesskey      "A">
+
+<!ENTITY  blockCookies.label            "Stankañ an toupinoù hag ar roadennoù lec'hienn (gallout a ra terriñ lec'hiennoù 'zo)">
+<!ENTITY  blockCookies.accesskey        "S">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Asantiñ toupinoù ha roadennoù lec'hienn tredeoù">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Atav">
 <!ENTITY  acceptThirdParty.never.label    "Morse">
 <!ENTITY  acceptThirdParty.visited.label  "Adalek lec'hiennoù gweladennet">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Marteze fellout a ra deoc'h ivez ">
 <!ENTITY  dontrememberActions.clearHistory.label "skarzhañ ar roll istor a-bezh">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Skarzhañ ar roll istor…">
+<!ENTITY  clearHistoryButton.accesskey   "r">
 
 <!ENTITY  privateBrowsingPermanent2.label "Atav arverañ mod merdeiñ prevez">
 <!ENTITY  privateBrowsingPermanent2.accesskey "m">
