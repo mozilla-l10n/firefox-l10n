@@ -51,6 +51,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Accepter les cookies tiers">
 <!ENTITY  acceptThirdParty2.pre.accesskey "e">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Toujours">
 <!ENTITY  acceptThirdParty.never.label    "Jamais">
 <!ENTITY  acceptThirdParty.visited.label  "Depuis les sites visités">
@@ -92,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Vous voulez peut-être ">
 <!ENTITY  dontrememberActions.clearHistory.label "effacer la totalité de l’historique actuel">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Effacer l’historique…">
+<!ENTITY  clearHistoryButton.accesskey   "h">
 
 <!ENTITY  privateBrowsingPermanent2.label "Toujours utiliser le mode de navigation privée">
 <!ENTITY  privateBrowsingPermanent2.accesskey "i">
