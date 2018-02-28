@@ -201,6 +201,7 @@ play-drm-content =
 play-drm-content-learn-more = Daha fazla bilgi al
 update-application-title = { -brand-short-name } güncellemeleri
 update-application-description = En yüksek performans, güvenilirlik ve güvenlik için { -brand-short-name } tarayıcınızı güncel tutmalısınız.
+update-application-info = Sürüm { $version } <a>Yeni neler var?</a>
 update-history =
     .label = Güncelleme geçmişini göster…
     .accesskey = c
