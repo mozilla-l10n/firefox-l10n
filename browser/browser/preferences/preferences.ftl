@@ -99,6 +99,9 @@ tabs-group-header = Ներդիրներ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Հղումները բացել նոր ներդիրներում՝ նոր պատուհանների փոխարեն
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Զգուշացնել բազմաթիվ ներդիրներ փակելիս
     .accesskey = Զ
@@ -164,6 +167,9 @@ check-user-spelling =
 
 files-and-applications-title = Ֆայլեր և հավելվածներ
 download-header = Ներբեռնումներ
+download-save-to =
+    .label = Ֆայլերը պահպանել`
+    .accesskey = ե
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -203,6 +209,9 @@ update-application-allow-description = Թույլատրել { -brand-short-name 
 update-application-auto =
     .label = Ինքնաբար տեղադրել թարմացումները (հանձնարարելի)
     .accesskey = A
+update-application-check-choose =
+    .label = Ստուգել թարմացումները, բայց ես կընտրեմ, թե որոնք տեղադրել
+    .accesskey = Ս
 update-application-manual =
     .label = Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)
     .accesskey = Ե
@@ -255,6 +264,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Ցանցի պրոքսի
+network-proxy-connection-learn-more = Իմանալ ավելին
 network-proxy-connection-settings =
     .label = Կարգավորել...
     .accesskey = ա
