@@ -51,6 +51,7 @@ restart-later = পরে রিস্টার্ট করা হবে
 
 ## General Section
 
+tabs-group-header = ট্যাব
 show-tabs-in-taskbar =
     .label = উইন্ডোর টাস্কবারে ট্যাবের প্রাকদর্শন প্রদর্শিত হবে k
     .accesskey = k
@@ -71,6 +72,9 @@ update-application-use-service =
 ## General Section - Browsing
 
 browsing-title = ব্রাউজ করা
+browsing-use-smooth-scrolling =
+    .label = স্মুথ-স্ক্রলিং ব্যবহার করা হবে m
+    .accesskey = m
 
 ## General Section - Proxy
 
