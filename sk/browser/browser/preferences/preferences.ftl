@@ -168,6 +168,21 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Súbory a aplikácie
+download-header = Preberanie súborov
+download-save-to =
+    .label = Všetky súbory ukladať do
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Vybrať…
+           *[other] Prehľadávať…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] h
+        }
 download-always-ask-where =
     .label = Vždy sa opýtať, kam uložiť súbory
     .accesskey = k
