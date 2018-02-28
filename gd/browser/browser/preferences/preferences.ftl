@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Seall duilleag bhàn
 startup-prev-session =
     .label = Seall na h-uinneagan is tabaichean a bha agad san t-seisean mu dheireadh
+disable-extension =
+    .label = Cuir an leudachan à comas
 home-page-header = Seall an duilleag-dhachaigh agad
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = Tabaichean
 ctrl-tab-recently-used-order =
     .label = Cuairtichidh Ctrl+Tab thu tro na tabaichean san robh iad agad o chionn goirid
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Fosgail ceanglaichean ann an tabaichean seach uinneagan ùra
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Thoir rabhadh mus dùin mi iomadh taba còmhla
     .accesskey = m
@@ -199,6 +204,7 @@ play-drm-content =
     .accesskey = u
 play-drm-content-learn-more = Barrachd fiosrachaidh
 update-application-title = Ùrachaidhean { -brand-short-name }
+update-application-description = Cum { -brand-short-name } ùraichte airson dèanadas, seasmhachd is tèarainteachd as fhearr.
 update-application-info = Tionndadh { $version } <a>Na tha ùr</a>
 update-history =
     .label = Seall eachdraidh nan ùrachaidhean…
@@ -223,11 +229,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Dèanadas
+performance-use-recommended-settings-checkbox =
+    .label = Cleachd na roghainnean dèanadais a mholamaid-ne
+    .accesskey = o
+performance-use-recommended-settings-desc = Chaidh na roghainnean seo a thaghadh airson ’s gum freagair iad air bathar-cruaidh agus siostam-obrachaidh a’ choimpiutair agad.
+performance-settings-learn-more = Barrachd fiosrachaidh
 performance-allow-hw-accel =
     .label = Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh
     .accesskey = m
 performance-limit-content-process-option = Crìoch pròiseasadh na susbaint
     .accesskey = n
+performance-limit-content-process-enabled-desc = Ma cheadaicheas tu pròiseasan susbaint a bharrachd, dh﻿﻿’fhaoidte gum faigh thu dèanadas nas fhearr ach feumaidh e barrachd cuimhne aig an aon àm.
+performance-limit-content-process-disabled-desc = Chan urrainn dhut àireamh nam pròiseasan susbaint atharrachadh ach ann am { -brand-short-name } ioma-phròiseasach. <a>Mar a dh’fhiosraicheas tu a bheil ioma-phròiseasadh an comas</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
