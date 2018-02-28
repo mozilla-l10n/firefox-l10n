@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "б">
 <!ENTITY collectBrowserErrorsLearnMore.label "Падрабязней">
 
+<!ENTITY sendBackloggedCrashReports.label  "Дазволіць &brandShortName; адпраўляць назапашаныя справаздачы аб памылках ад вашага імя">
+<!ENTITY sendBackloggedCrashReports.accesskey "а">
 <!ENTITY crashReporterLearnMore.label    "Даведацца больш">
 
 <!ENTITY networkTab.label                "Сетка">
