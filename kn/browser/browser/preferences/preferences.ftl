@@ -62,12 +62,19 @@ always-check-default =
     .accesskey = y
 is-default = { -brand-short-name } ಎನ್ನುವುದು ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಜಾಲವೀಕ್ಷಕವಾಗಿದೆ
 is-not-default = { -brand-short-name } ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿಲ್ಲ
+set-as-my-default-browser =
+    .label = ಪೂರ್ವನಿಯೋಜಿತವನ್ನಾಗಿ ಮಾಡು…
+    .accesskey = D
+startup-page = { -brand-short-name } ವು ಆರಂಭಗೊಂಡಾಗ
+    .accesskey = s
 startup-user-homepage =
     .label = ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರಿಸು
 startup-blank-page =
     .label = ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು
 startup-prev-session =
     .label = ಹಿಂದಿನ ಬಾರಿಯ ನಿನ್ನ ಕಿಟಕಿ ಹಾಗು ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೋರಿಸು
+disable-extension =
+    .label = ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು
 home-page-header = ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರಿಸು
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -109,9 +116,11 @@ browser-containers-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರ�
 browser-containers-settings =
     .label = ಸಿದ್ಧತೆಗಳು…‍
     .accesskey = i
+containers-disable-alert-cancel-button = ಸಕ್ರಿಯವಾಗಿಯೇ ಇರಿಸಿ
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = ಭಾಷೆ ಮತ್ತು ನೋಟ
 fonts-and-colors-header = ಅಕ್ಷರಶೈಲಿಗಳು ಮತ್ತು ಬಣ್ಣಗಳು
 default-font = ಪೂರ್ವನಿಯೋಜಿತ ಅಕ್ಷರಶೈಲಿ
     .accesskey = D
@@ -137,6 +146,7 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ಕಡತಗಳು ಮತ್ತು ಅನ್ವಯಕಗಳು
 download-header = ಡೌನ್‍ಲೋಡ್‍ಗಳು
 download-save-to =
     .label = ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು
@@ -156,6 +166,8 @@ download-always-ask-where =
     .label = ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನನ್ನು ಕೇಳು
     .accesskey = A
 applications-header = ಅನ್ವಯಗಳು
+applications-filter =
+    .placeholder = ಕಡತ ಬಗೆ ಅಥವಾ ಅನ್ವಯಗಳನ್ನು ಹುಡುಕು
 applications-type-column =
     .label = ವಿಷಯದ ಬಗೆ
     .accesskey = T
@@ -163,10 +175,12 @@ applications-action-column =
     .label = ಕಾರ್ಯ
     .accesskey = A
 play-drm-content-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+update-application-title = { -brand-short-name } ನವೀಕರಣಗಳು
 update-application-info = ಆವೃತ್ತಿ{ $version } <a>ಹೊಸತೇನಿದೆ</a>
 update-history =
     .label = ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು…
     .accesskey = p
+update-application-allow-description = { -brand-short-name } ಅನುಮತಿಸು
 update-application-check-choose =
     .label = ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತದೆ, ಆದರೆ ಅವುಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸುವ ಆಯ್ಕೆಯನ್ನು ನಿಮಗೆ ಬಿಡುತ್ತದೆ
     .accesskey = C
@@ -181,6 +195,12 @@ performance-settings-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರ
 performance-allow-hw-accel =
     .label = ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು
     .accesskey = r
+performance-limit-content-process-option = ಪರಿವಿಡಿ ಪ್ರಕ್ರೀಯೆ ಮಟ್ಟ
+    .accesskey = L
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (ಪೂರ್ವನಿಯೋಜಿತ)
 
 ## General Section - Browsing
 
