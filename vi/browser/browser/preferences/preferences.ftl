@@ -102,6 +102,15 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Mở đường dẫn ở thẻ thay vì ở cửa sổ mới
     .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = Cảnh báo bạn khi đóng nhiều thẻ một lúc
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Cảnh báo bạn khi mở nhiều thẻ có thể làm chậm { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Khi bạn mở một liên kết trong thẻ mới, chuyển sang tab đó ngay
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows
     .accesskey = e
@@ -247,6 +256,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Mạng lưới proxy
+network-proxy-connection-learn-more = Tìm hiểu thêm
 network-proxy-connection-settings =
     .label = Thiết lập…
     .accesskey = p
