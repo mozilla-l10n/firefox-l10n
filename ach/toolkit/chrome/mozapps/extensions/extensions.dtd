@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Lalo med-ikome">
 
 <!ENTITY search.placeholder                   "Yeny med-ikome weng">
+
+<!ENTITY search.placeholder2                  "Yeny ii addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Yeny">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -22,9 +24,6 @@
 
 <!ENTITY getThemes.description                "Imito ni layenyi obed megi keni?">
 <!ENTITY getThemes.learnMore                  "Yer ki ikin theme alip ki alip.">
-
-<!ENTITY cmd.back.tooltip                     "Dok cen pot buk acel">
-<!ENTITY cmd.forward.tooltip                  "Wot anyim ki pot buk acel">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Pe onongo kiromo moko ada pa lamed mogo">
