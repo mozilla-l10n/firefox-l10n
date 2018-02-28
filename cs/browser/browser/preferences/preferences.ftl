@@ -118,6 +118,13 @@ browser-containers-enabled =
     .label = Povolit kontejnerové panely
     .accesskey = n
 browser-containers-learn-more = Zjistit více
+containers-disable-alert-title = Zavřít všechny kontejnerové panely?
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Zavřít { $tabCount } kontejnerový panel
+        [few] Zavřít { $tabCount } kontejnerové panely
+       *[other] Zavřít { $tabCount } kontejnerových panelů
+    }
 
 ## General Section - Language & Appearance
 
@@ -184,6 +191,7 @@ play-drm-content =
     .label = Přehrávat obsah chráněný pomocí DRM
     .accesskey = P
 play-drm-content-learn-more = Zjistit více
+update-application-title = Aktualizace aplikace { -brand-short-name }
 update-application-description = Pro nejvyšší rychlost, stabilitu a bezpečnost udržujte aplikaci { -brand-short-name } stále aktuální.
 update-application-info = Verze { $version } <a>Co je nového</a>
 update-history =
