@@ -32,6 +32,7 @@ should-restart-title = Nûdestpêkirina { -brand-short-name }
 ## General Section
 
 startup-header = Destpêk
+is-default = { -brand-short-name } jixwe geroka te ya standard e
 startup-blank-page =
     .label = Rûpeleke vala nîşan bide
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -58,6 +59,7 @@ show-tabs-in-taskbar =
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Curenivîs & Reng
 advanced-fonts =
     .label = Pêşketî...
     .accesskey = P
@@ -98,6 +100,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Dema ku lezkara reqalavê amade bibe wê bi kar bîne
+    .accesskey = D
 
 ## General Section - Browsing
 
