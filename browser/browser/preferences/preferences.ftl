@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Bob tro
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Dewisiadau
            *[other] Dewisiadau
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = Rhaid ailgychwyn { -brand-short-name } i alluo
 feature-disable-requires-restart = Rhaid ailgychwyn { -brand-short-name } i analluogi'r nodwedd hon.
 should-restart-title = Ailgychwyn { -brand-short-name }
 should-restart-ok = Ailgychwynnwch { -brand-short-name } nawr
-revert-no-restart-button = Dychwelyd
 restart-later = Ailgychwyn Rhywbryd Eto
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
