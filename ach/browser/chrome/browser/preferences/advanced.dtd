@@ -35,11 +35,14 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Wa tute me miini jami ayera ki wacoko keken ngo ma wa mito me miyo ki yubo maber &brandShortName; pi dano weng. Jwijwi wa penyo pi twero ma pud pe kigamo ngec ma ngat moni.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Ngec me mung">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Yee &brandShortName; me cwalo ripot me poto bot Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Yee &brandShortName; me cwalo ripot me bal pi layeny (bene ki kwena me bal) bot Mozilla">
 <!ENTITY collectBrowserErrorsLearnMore.label "Nong ngec mapol">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Yee &brandShortName; me cwalo ripot me poto bot Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Yee &brandShortName; me cwalo ripot me poto ma odure pi in">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Nong ngec mapol">
 
 <!ENTITY networkTab.label                "Kube">
@@ -58,6 +61,9 @@ available. -->
 <!ENTITY siteData.label                  "Data me kakube">
 <!ENTITY clearSiteData.label             "Jwa data weng">
 <!ENTITY clearSiteData.accesskey         "a">
+<!ENTITY siteData1.label                 "Angija ki Data me kakube">
+<!ENTITY clearSiteData1.label            "Jwa data…">
+<!ENTITY clearSiteData1.accesskey        "j">
 <!ENTITY siteDataSettings.label          "Ter…">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Nong ngec mapol">

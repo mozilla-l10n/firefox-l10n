@@ -6,6 +6,8 @@
 
 <!ENTITY     window1.title                 "Ter - Angija ki Data me kakube">
 <!ENTITY     hostCol.label                 "Kakube">
+<!ENTITY     cookiesCol.label              "Angija">
+<!ENTITY     lastAccessedCol.label                "Kitiyo kwede me agiki">
 <!ENTITY     searchTextboxPlaceHolder             "Yeny kakube">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Kwany ma kiyero">

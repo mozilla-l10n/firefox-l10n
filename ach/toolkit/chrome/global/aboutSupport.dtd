@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Kwedo bal me Ngec">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Pot buk man tye ki ngec matek me tic cing ma pire twero bedo tek ka itye ka temo cobo peko. Ka ce itye kamoyo pi lagam me lapeny ma ngene ikom &brandShortName;, rot <a id='supportLink'>support web site</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Ripot me poto">
@@ -21,9 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Cik">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareName "Nying">
+
 <!ENTITY aboutSupport.featuresTitle "Jami me &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nying">
-
 <!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Kit me atema">
@@ -39,9 +40,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Nying">
 <!ENTITY aboutSupport.appBasicsVersion "Cik">
 <!ENTITY aboutSupport.appBasicsBuildID "ID me gedo">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Yoo me ngec manyen">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Gin mukato me ngec manyen">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Nyut gin mukato me ngec manyen">
@@ -58,14 +59,13 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Tic pa Lapo wic">
 <!ENTITY aboutSupport.appBasicsPerformance "Tic">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers ma kicoyo">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Propwail">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Dirica me tic mapol">
-
 
 
 
@@ -83,8 +83,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Ter mapire tek ma kiyubu gi">
 <!ENTITY aboutSupport.modifiedPrefsName "Nying">
 <!ENTITY aboutSupport.modifiedPrefsValue "Wel">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js Ter">
 <!ENTITY aboutSupport.userJSDescription "Boc me profile mamegi tye ki<a id='prefs-user-js-link'>pwail me user.js</a>, ma tye ki ma imaro ma pe kicweyo ki &brandShortName;.">
 
@@ -95,15 +95,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Cal">
 
 
-
-
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC ma kimedo">
 
 <!ENTITY aboutSupport.a11yTitle "Kite me nongo">
 <!ENTITY aboutSupport.a11yActivated "Tye katic">
 <!ENTITY aboutSupport.a11yForceDisabled "Geng Donyo iye">
-
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Cik pa kagwoko jami">
 
@@ -114,35 +111,19 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Lok data manumu i bao coc">
 
 <!ENTITY aboutSupport.sandboxTitle "Lapok kin purugram">
-
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Ceken angec">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
-
-
-
 <!ENTITY aboutSupport.safeModeTitle "Tem kit maber">
 <!ENTITY aboutSupport.restartInSafeMode.label "Cak odoco ma nongo kijuko med-ikome…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Jami">
-
-
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Rikod pi moko tam">
-
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Yoo me loyo ne">
 
-
-
 <!ENTITY aboutSupport.mediaDeviceName "Nying">
-
-
-
-
-
-
-
 

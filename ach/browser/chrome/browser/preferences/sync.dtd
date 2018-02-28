@@ -19,6 +19,7 @@
      over into this string, used as the checkbox which indicates if prefs are synced
 -->
 <!ENTITY engine.prefsWin.label      "Jami ayera">
+<!ENTITY engine.prefsWin.accesskey  "Y">
 <!ENTITY engine.prefs.label         "Ma imaro">
 <!ENTITY engine.prefs.accesskey     "m">
 <!ENTITY engine.prefs.title         "Ter ma jwi, me mung, ki me ber bedo ma iloko gi">

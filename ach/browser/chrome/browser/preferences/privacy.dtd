@@ -49,6 +49,14 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Yee angija ki bot pati me adek">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies3.label          "Yee angija ki data me kakube ki ii kakube">
+<!ENTITY  acceptCookies3.accesskey      "Y">
+
+<!ENTITY  blockCookies.label            "Geng angija ki data me kakube (twero weko kakube bale)">
+<!ENTITY  blockCookies.accesskey        "G">
+
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Jwijwi">
 <!ENTITY  acceptThirdParty.never.label    "Pe matwal">
 <!ENTITY  acceptThirdParty.visited.label  "Ki i ma kilimo">
@@ -89,6 +97,9 @@
 <!ENTITY  dontrememberActions.pre.label          "I romo mito bene i ">
 <!ENTITY  dontrememberActions.clearHistory.label "jwa woko gin mukato kombedi weng">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Jwa gin mukato…">
+<!ENTITY  clearHistoryButton.accesskey   "j">
 
 <!ENTITY  privateBrowsingPermanent2.label "Jwijwi tii ki kit yeny me mung">
 <!ENTITY  privateBrowsingPermanent2.accesskey "m">
