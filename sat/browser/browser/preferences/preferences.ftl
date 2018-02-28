@@ -106,6 +106,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = हार्डवेयार तोड़ते बेभार तिन रे ञामोक् आ (r)
+    .accesskey = r
 
 ## General Section - Browsing
 
