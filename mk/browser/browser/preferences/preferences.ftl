@@ -124,6 +124,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Користи хардверско забрзување кога е достапно
+    .accesskey = х
 
 ## General Section - Browsing
 
