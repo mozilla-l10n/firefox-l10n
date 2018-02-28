@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Erakutsi orri hutsa
 startup-prev-session =
     .label = Berreskuratu azken saioko fitxak eta leihoak
+disable-extension =
+    .label = Desgaitu hedapena
 home-page-header = Erakutsi hasiera-orria
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = Fitxak
 ctrl-tab-recently-used-order =
     .label = Ktrl+Tab konbinazioak fitxaz aldatzen du azkenekoz erabilitako ordenan
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Ireki loturak fitxetan eta ez leiho berrietan
+    .accesskey = x
 warn-on-close-multiple-tabs =
     .label = Abisatu hainbat fitxa ixterakoan
     .accesskey = b
@@ -195,6 +200,7 @@ play-drm-content =
     .accesskey = E
 play-drm-content-learn-more = Argibide gehiago
 update-application-title = { -brand-short-name } eguneraketak
+update-application-description = Mantendu { -brand-short-name } eguneratuta errendimendu, egonkortasun eta segurtasun onena bermatzeko.
 update-application-info = ​{ $version }bertsioa <a>Nobedadeak</a>
 update-history =
     .label = Erakutsi eguneraketen historia…
@@ -219,11 +225,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Errendimendua
+performance-use-recommended-settings-checkbox =
+    .label = Erabili gomendatutako errendimendu-ezarpenak
+    .accesskey = E
+performance-use-recommended-settings-desc = Ezarpen hauek zure ordenagailuaren hardwareari eta sistema eragileari egokituta daude.
+performance-settings-learn-more = Argibide gehiago
 performance-allow-hw-accel =
     .label = Erabili hardware-azelerazioa erabilgarri dagoenean
     .accesskey = h
 performance-limit-content-process-option = Eduki-prozesuen muga
     .accesskey = m
+performance-limit-content-process-enabled-desc = Eduki-prozesu gehigarriek errendimendua hobe dezakete hainbat fitxa erabiltzean baina memoria gehiago ere erabiliko du.
+performance-limit-content-process-disabled-desc = Edukien prozesu kopurua multiprozesu moduko { -brand-short-name }(r)ekin alda daiteke soilik. <a>Argibide gehiago multiprozesu modua gaituta dagoen egiaztatzeko</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -250,6 +263,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Sareko proxy-a
+network-proxy-connection-learn-more = Argibide gehiago
 network-proxy-connection-settings =
     .label = Ezarpenak…
     .accesskey = E
