@@ -52,8 +52,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Godta tredjeparts infokapslar">
 <!ENTITY  acceptThirdParty2.pre.accesskey "G">
 
+<!ENTITY  acceptCookies3.label          "Tillat infokapslar og nettsidedata frå nettstadar">
+<!ENTITY  acceptCookies3.accesskey      "a">
 
+<!ENTITY  blockCookies.label            "Blokker infokapslar og nettsidedata frå nettstadar (kan skape feil på nettstaden)">
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Tillat infokapslar frå tredjepart og nettsidedata">
+<!ENTITY  acceptThirdParty3.pre.accesskey "e">
 <!ENTITY  acceptThirdParty.always.label   "Alltid">
 <!ENTITY  acceptThirdParty.never.label    "Aldri">
 <!ENTITY  acceptThirdParty.visited.label  "Frå besøkte">

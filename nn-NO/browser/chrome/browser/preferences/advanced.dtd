@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "T">
 <!ENTITY collectBrowserErrorsLearnMore.label "Les meir">
 
+<!ENTITY sendBackloggedCrashReports.label  "Tillat &brandShortName; å sende etterslepne krasjrapportar på dine vegner">
+<!ENTITY sendBackloggedCrashReports.accesskey "s">
 <!ENTITY crashReporterLearnMore.label    "Les meir">
 
 <!ENTITY networkTab.label                "Nettverk">
