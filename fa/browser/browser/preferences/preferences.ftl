@@ -52,13 +52,23 @@ restart-later = بعداْ راه‌اندازی مجدد شود
 ## General Section
 
 startup-header = راه‌اندازی
+tabs-group-header = زبانه‌ها
 show-tabs-in-taskbar =
     .label = پیش‌نمایش زبانه‌ها در نوار وضعیت ویندوز
     .accesskey = ز
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = پیشرفته...
+    .accesskey = پ
+colors-settings =
+    .label = رنگها‌...
+    .accesskey = ر
 choose-language-description = زبان مورد علاقهٔ خود را برای نمایش صفحات انتخاب کنید
+choose-button =
+    .label = انتخاب…
+    .accesskey = ا
 
 ## General Section - Files and Applications
 
