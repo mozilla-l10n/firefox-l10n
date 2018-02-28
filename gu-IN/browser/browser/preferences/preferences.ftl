@@ -52,8 +52,30 @@ restart-later = પછી પુનઃશરૂ કરો
 ## General Section
 
 startup-header = શરૂઆત
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = પરવાનગી આપો { -brand-short-name } અને તે જ સમયે Firefox ને ચલાવવા માટે
+use-firefox-sync = છૂપી સૂચના: આ અલગ પ્રોફાઇલ્સનો ઉપયોગ કરે છે. તેમની વચ્ચે ડેટા શેર કરવા માટે સમન્વયનનો ઉપયોગ કરો.
+get-started-not-logged-in = સાઇન ઇન કરો { -sync-brand-short-name }…
+get-started-configured = ખોલો કરો { -sync-brand-short-name } પસંદગીઓ
+always-check-default =
+    .label = હંમેશાં તપાસો કે { -brand-short-name } તમારું ડિફૉલ્ટ બ્રાઉઝર છે
+    .accesskey = y
+is-default = { -brand-short-name } હાલમાં તમારું ડિફૉલ્ટ બ્રાઉઝર છે
+is-not-default = { -brand-short-name } તમારું ડિફૉલ્ટ બ્રાઉઝર નથી
+set-as-my-default-browser =
+    .label = ડિફૉલ્ટ બનાવો…
+    .accesskey = D
+startup-page = જ્યારે { -brand-short-name } શરૂ થાય છે
+    .accesskey = s
+startup-user-homepage =
+    .label = તમારું મુખ્ય પાનું બતાવો
 startup-blank-page =
     .label = કોરુ પાનું બતાવો
+startup-prev-session =
+    .label = છેલ્લા સમયની તમારી વિંડોઝ અને ટેબ્સ બતાવો
+home-page-header = તમારું મુખ્ય પાનું બતાવો
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -71,19 +93,44 @@ choose-bookmark =
 restore-default =
     .label = મૂળભૂતમાં પુનઃસંગ્રહો
     .accesskey = R
+tabs-group-header = ટૅબ્સ
+ctrl-tab-recently-used-order =
+    .label = તાજેતરમાં ઉપયોગમાં લેવાયેલી ક્રમમાં ટેબ દ્વારા Ctrl+Tab ચક્ર
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = નવા વિન્ડોઝને બદલે ટૅબ્સ તરીકે લિંક્સ ખોલો
+    .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = તમને બહુવિધ ટેબ્સ બંધ કરતી વખતે ચેતવશે
+    .accesskey = m
 show-tabs-in-taskbar =
     .label = Windows કાર્યપટ્ટીમાં ટૅબ પૂર્વદર્શનનો બતાવો
     .accesskey = k
+browser-containers-enabled =
+    .label = કન્ટેઈનર ટેબ્સ સક્ષમ કરો
+    .accesskey = n
+browser-containers-learn-more = વધુ શીખો
+browser-containers-settings =
+    .label = સેટીંગ…
+    .accesskey = i
+containers-disable-alert-title = બધા કન્ટેઈનર ટૅબ્સ બંધ કરીએ?
+containers-disable-alert-cancel-button = સક્ષમ રાખો
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = ભાષા અને દેખાવ
 fonts-and-colors-header = ફોન્ટ & રંગો
+default-font = મૂળભૂત ફોન્ટ
+    .accesskey = D
+default-font-size = માપ
+    .accesskey = S
 advanced-fonts =
     .label = અદ્યતન...
     .accesskey = A
 colors-settings =
     .label = રંગો...
     .accesskey = C
+language-header = ભાષા
 choose-language-description = પાનાંઓ દર્શાવવા માટે તમારી પ્રાધાન્યવાળી ભાષા પસંદ કરો
 choose-button =
     .label = પસંદ કરો...
@@ -94,9 +141,13 @@ translate-web-pages =
 translate-exceptions =
     .label = અપવાદ…
     .accesskey = x
+check-user-spelling =
+    .label = તમે લખો તે મુજબ તમારી જોડણી તપાસો
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ફાઇલો અને એપ્લિકેશન્સ
 download-header = ડાઉનલોડ
 download-save-to =
     .label = ફાઈલોને આમાં સંગ્રહો
@@ -112,21 +163,66 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = હંમેશાં તમને પૂછે છે કે ફાઇલો ક્યાં સાચવવી
+    .accesskey = A
+applications-header = એપ્લિકેશન્સ
+applications-description = કેવી રીતે { -brand-short-name } પસંદ કરો; વેબ પરથી તમે ડાઉનલોડ કરેલી ફાઇલો અથવા બ્રાઉઝિંગ કરતી વખતે ઉપયોગમાં લેવાતી એપ્લિકેશનોનું સંચાલન કરે છે.
+applications-filter =
+    .placeholder = ફાઇલ પ્રકારો અથવા એપ્લિકેશન્સ શોધો
 applications-type-column =
     .label = વિષયસુચી પ્રકાર
     .accesskey = T
 applications-action-column =
     .label = ક્રિયા
     .accesskey = A
+drm-content-header = ડિજિટલ અધિકાર સંચાલન (DRM) કન્ટેન્ટ
+play-drm-content =
+    .label = DRM-નિયંત્રિત સામગ્રીને ચાલુ કરો
+    .accesskey = P
+play-drm-content-learn-more = વધુ શીખો
+update-application-title = { -brand-short-name } સુધારો
+update-application-description = શ્રેષ્ઠ પ્રદર્શન, સ્થિરતા અને સુરક્ષા માટે { -brand-short-name } અધતન રાખો.
+update-application-info = આવૃત્તિ { $version } <a>નવું શું છે</a>
+update-history =
+    .label = અપડેટ ઇતિહાસ બતાવો…
+    .accesskey = P
+update-application-allow-description = મંજૂરી આપો { -brand-short-name } માટે
+update-application-auto =
+    .label = આપમેળે સુધારા ઇન્સ્ટોલ કરો (ભલામણ કરેલ)
+    .accesskey = A
+update-application-check-choose =
+    .label = સુધારાઓ માટે ચકાસો પરંતુ તમે તેમને સ્થાપિત કરવા માટે પસંદ કરી દો
+    .accesskey = C
+update-application-manual =
+    .label = અપડેટ્સ માટે ક્યારેય તપાસ કરશો નહીં (આગ્રહણીય નથી)
+    .accesskey = N
 update-application-use-service =
     .label = સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો
     .accesskey = b
+update-enable-search-update =
+    .label = આપમેળે શોધ એન્જિન અપડેટ કરો
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = કામગીરી
+performance-use-recommended-settings-checkbox =
+    .label = આગ્રહણીય પ્રદર્શન સેટિંગ્સનો ઉપયોગ કરો
+    .accesskey = U
+performance-use-recommended-settings-desc = આ સેટિંગ્સ તમારા કમ્પ્યુટરનાં હાર્ડવેર અને ઑપરેટિંગ સિસ્ટમ અનુસાર બનાવાય છે.
+performance-settings-learn-more = વધુ શીખો
 performance-allow-hw-accel =
     .label = હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય
     .accesskey = r
+performance-limit-content-process-option = સામગ્રી પ્રક્રિયા મર્યાદા
+    .accesskey = L
+performance-limit-content-process-enabled-desc = બહુવિધ ટૅબ્સનો ઉપયોગ કરતી વખતે વધારાની સામગ્રી પ્રક્રિયાઓ પ્રભાવ સુધારી શકે છે, પરંતુ તે વધુ મેમરીનો પણ ઉપયોગ કરશે.
+performance-limit-content-process-disabled-desc = મલ્ટિપ્રોસેસ સાથે સામગ્રી પ્રોસેસની સંખ્યામાં ફેરફાર કરવો શક્ય છે { -brand-short-name }. <a>મલ્ટિપ્રોસેસ સક્રિય કરે છે કે નહીં તે કેવી રીતે તપાસવું તે જાણો</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (મૂળભૂત)
 
 ## General Section - Browsing
 
@@ -137,12 +233,20 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = લીસી રીતે સરકાવવાનું વાપરો
     .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = જ્યારે જરૂરી હોય ત્યારે ટચ કીબોર્ડ બતાવો
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = પાનાંઓમાં શોધખોળ કરવા માટે હંમેશા કર્સર કીઓ વાપરો
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = જ્યારે તમે ટાઇપ કરવાનું શરૂ કરો ત્યારે ટેક્સ્ટ માટે શોધો
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = નેટવર્ક પ્રોક્સી
+network-proxy-connection-learn-more = વધુ જાણો
 network-proxy-connection-settings =
     .label = સેટીંગ...
     .accesskey = e
