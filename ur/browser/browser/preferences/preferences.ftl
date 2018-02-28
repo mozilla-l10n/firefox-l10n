@@ -61,12 +61,17 @@ always-check-default =
     .accesskey = ی
 is-default = { -brand-short-name } اس وقت آپ کا طےشدہ براؤزر ہے
 is-not-default = { -brand-short-name } اس وقت آپ کا طےشدہ  براؤزر نھیں ہے
+set-as-my-default-browser =
+    .label = طے شدہ بنائیں…
+    .accesskey = D
 startup-user-homepage =
     .label = اپنا ہوم صفحہ دکھائیں
 startup-blank-page =
     .label = خالی صفحہ دکھائیں
 startup-prev-session =
     .label = اپنا دریچہ اور آخری وقت کے ٹیب دکھائیں
+disable-extension =
+    .label = توسیعات نا اہل بنائیں
 home-page-header = اپنا ہوم صفحہ دکھائیں
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -114,12 +119,17 @@ containers-disable-alert-cancel-button = اہل بنایا رکھیں
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = فانٹ اور رنگ
+default-font = طےشدہ فانٹ
+    .accesskey = D
+default-font-size = ماپ
+    .accesskey = S
 advanced-fonts =
     .label = اعلٰی…
     .accesskey = ا
 colors-settings =
     .label = رنگ…
     .accesskey = ر
+language-header = زبان
 choose-language-description = صفحہ دکھانے کے لیے اپنی زبان چنیں
 choose-button =
     .label = انتخاب کریں…
@@ -154,6 +164,7 @@ download-choose-folder =
 download-always-ask-where =
     .label = مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے
     .accesskey = ہ
+applications-header = ایپلی کیشنیں
 applications-type-column =
     .label = مواد قسم
     .accesskey = م
@@ -170,6 +181,7 @@ update-application-use-service =
 ## General Section - Performance
 
 performance-title = کارکردگی
+performance-settings-learn-more = مزید سیکھیں
 performance-allow-hw-accel =
     .label = جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں
     .accesskey = ہ
