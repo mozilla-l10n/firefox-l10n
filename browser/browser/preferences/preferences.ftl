@@ -54,6 +54,9 @@ restart-later = Ath-thòisich uaireigin eile
 startup-header = Aig an toiseach
 startup-blank-page =
     .label = Seall duilleag bhàn
+choose-bookmark =
+    .label = Cleachd comharra-lìn…
+    .accesskey = c
 restore-default =
     .label = Aisig na roghainnean bunaiteach
     .accesskey = r
@@ -94,6 +97,9 @@ applications-type-column =
 applications-action-column =
     .label = Gnìomh
     .accesskey = G
+update-application-use-service =
+    .label = Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh
+    .accesskey = C
 
 ## General Section - Performance
 
