@@ -92,10 +92,16 @@ use-current-pages =
 choose-bookmark =
     .label = Lītuot gruomotzeimi…
     .accesskey = g
+restore-default =
+    .label = Atjaunōt iz nūkluseitū
+    .accesskey = A
 tabs-group-header = Cilnes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Attaiseit saites clinēs navys jaunūs lūgūs
+    .accesskey = l
 warn-on-close-multiple-tabs =
     .label = Breidynuot, pyrms aiztaiseit vairuokys cilnes
     .accesskey = m
@@ -116,6 +122,18 @@ browser-containers-settings =
     .label = Īstatiejumi...
     .accesskey = i
 containers-disable-alert-title = Close All Container Tabs?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [zero] Ja deaktivesi konteineru cilnes tagad, { $tabCount } konteineru cilnes byus aizvārtas. Voi vyssvīns gribi deaktivēt konteineru cilnes?
+        [one] Ja deaktivesi konteineru cilnes tagad, { $tabCount } konteineru cilne byus aizvārta. Voi vyssvīns gribi deaktivēt konteineru cilnes?
+       *[other] Ja deaktivesi konteineru cilnes tagad, { $tabCount } konteineru cilnes byus aizvārtas. Voi vyssvīns gribi deaktivēt konteineru cilnes?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [zero] Aiztaisēt { $tabCount } konteineru cilnes
+        [one] Aiztaisēt { $tabCount } konteineru cilni
+       *[other] Aiztaisēt { $tabCount } konteineru cilnes
+    }
 containers-disable-alert-cancel-button = Patureit aktivātu
 
 ## General Section - Language & Appearance
@@ -184,6 +202,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = Uzzynojit vairuok
 update-application-title = { -brand-short-name } atjaunynuojumi
+update-application-description = Keep { -brand-short-name } up to date for the best performance, stability, and security.
 update-application-info = Verseja { $version } <a>Kas jauns</a>
 update-history =
     .label = Paruodeit atjaunynuojumu viesturi…
@@ -208,11 +227,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Performance
+performance-use-recommended-settings-checkbox =
+    .label = Use recommended performance settings
+    .accesskey = U
+performance-use-recommended-settings-desc = These settings are tailored to your computer’s hardware and operating system.
+performance-settings-learn-more = Uzzynojit vairuok
 performance-allow-hw-accel =
     .label = Nui pīejams, izmantuot aparaturys pauotrynuojumu
     .accesskey = r
 performance-limit-content-process-option = Satura procesu limits
     .accesskey = l
+performance-limit-content-process-enabled-desc = Additional content processes can improve performance when using multiple tabs, but will also use more memory.
+performance-limit-content-process-disabled-desc = Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu { -brand-short-name }. <a>Kai puorbaudeit, voi pīejams vairuoku procesu režyms</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -240,6 +266,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Teikla storpnīkserveris
+network-proxy-connection-learn-more = Vaira
 network-proxy-connection-settings =
     .label = Īstatiejumi...
     .accesskey = e
