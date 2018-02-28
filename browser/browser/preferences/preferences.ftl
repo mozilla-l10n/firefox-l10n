@@ -68,6 +68,7 @@ use-current-pages =
 restore-default =
     .label = Khôi phục về Mặc định
     .accesskey = M
+tabs-group-header = Thẻ
 show-tabs-in-taskbar =
     .label = Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows
     .accesskey = e
