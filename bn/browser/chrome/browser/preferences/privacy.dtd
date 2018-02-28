@@ -6,6 +6,7 @@
 <!ENTITY  trackingProtection2.description      "ট্র্যাকিং হল একাধিক ওয়েবসাইটে আপনার ব্রাউজিং ডাটার সংগ্রহ। প্রোফাইল নির্মাণে এবং আপনার ব্রাউজিং ও ব্যক্তিগত তথ্যের উপর ভিত্তি করে কন্টেন্ট প্রদর্শনে ট্র্যাকিং ব্যবহার হতে পারে।
 ">
 <!ENTITY  trackingProtection2.radioGroupLabel  "জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন">
+<!ENTITY  trackingProtection3.description      "ট্র্যাকিং সুরক্ষা অনলাইন ট্র্যাকার ব্লক করে, যারা বিভিন্ন সাইটে আপনার ব্রাউজিং তথ্য সংগ্রহ করে।">
 <!ENTITY  trackingProtection3.radioGroupLabel  "জানা ট্রাকারগুলি ব্লক করতে ট্রাকিং সুরক্ষা ব্যবহার করুন">
 <!ENTITY  trackingProtectionAlways.label       "সর্বদা">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
