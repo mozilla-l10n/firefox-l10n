@@ -59,6 +59,11 @@ separate-profile-mode =
 use-firefox-sync = Astúcia : aquò utiliza de perfils destriats. Utilizatz { -sync-brand-short-name } per partejar de donadas entre eles.
 get-started-not-logged-in = Se connectar a { -sync-brand-short-name }…
 get-started-configured = Dobrir las preferéncias del { -sync-brand-short-name }
+always-check-default =
+    .label = Totjorn verificar se { -brand-short-name } es vòstre navegador per defaut
+    .accesskey = y
+is-default = { -brand-short-name } es actualament vòstre navegador per defaut
+is-not-default = { -brand-short-name } es pas vòstre navegador per defaut
 set-as-my-default-browser =
     .label = Definir per defaut…
     .accesskey = D
@@ -116,6 +121,7 @@ browser-containers-learn-more = Ne saber mai
 browser-containers-settings =
     .label = Paramètres…
     .accesskey = t
+containers-disable-alert-title = Tampar totes los onglets de contenidor ?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Se desactivetz los onglets isolats ara, { $tabCount } onglet isolat serà tampat. Segur que volatz desactivar los onglets isolats ?
@@ -238,6 +244,7 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Navegacion
 browsing-use-autoscroll =
     .label = Utilizar lo desfilament automatic
     .accesskey = a
@@ -247,6 +254,9 @@ browsing-use-smooth-scrolling =
 browsing-use-onscreen-keyboard =
     .label = Mostrar un clavièr tactil quand es necessari
     .accesskey = k
+browsing-use-cursor-navigation =
+    .label = Utilizar totjorn las tòcas de navegacion per se desplaçar a l'interior d'una pagina
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Començar la recèrca en picar lo tèxte
     .accesskey = x
