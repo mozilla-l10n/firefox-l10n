@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Ebyokulondako
            *[other] Okweroboza
         }
@@ -25,3 +26,62 @@ close-button =
 ## Browser Restart Dialog
 
 should-restart-title = Ddamu otandike { -brand-short-name }
+
+## General Section
+
+startup-header = Entandika
+startup-blank-page =
+    .label = Laga omuko omweerere
+restore-default =
+    .label = Zaawo Ebyenkalakalira
+    .accesskey = Z
+show-tabs-in-taskbar =
+    .label = Laga okunnoza awaddirira ku kabawo ke ebikola
+    .accesskey = k
+
+## General Section - Language & Appearance
+
+colors-settings =
+    .label = Langi…
+    .accesskey = L
+choose-language-description = Londako olulimi lwoyagala okulabiramu emiko
+
+## General Section - Files and Applications
+
+download-header = Ebiwanuddwa
+download-save-to =
+    .label = Teleka fayiro ku
+    .accesskey = l
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Londa…
+           *[other] Noonya…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] a
+           *[other] o
+        }
+applications-type-column =
+    .label = Ebirimu Kyikka
+    .accesskey = K
+applications-action-column =
+    .label = Ekola
+    .accesskey = E
+update-application-use-service =
+    .label = Kozesa empereza ekolera emabega okutekamu ebituusa
+    .accesskey = e
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Kunoonya
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Etegeka…
+    .accesskey = t
