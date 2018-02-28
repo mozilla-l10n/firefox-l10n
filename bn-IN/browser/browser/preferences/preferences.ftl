@@ -75,6 +75,8 @@ startup-blank-page =
     .label = ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে
 startup-prev-session =
     .label = সর্বশেষ ব্যবহারের সময় উপস্থিত উইন্ডো ও ট্যাব প্রদর্শন করা হবে
+disable-extension =
+    .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
 home-page-header = আপনার হোমপেজ দেখান
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,15 @@ tabs-group-header = ট্যাব
 ctrl-tab-recently-used-order =
     .label = ট্যাবের মধ্যে দিয়ে Ctrl+Tab সাইকেল করে সম্প্রতি ব্যবহৃত সারিতে 
     .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = একাধিক ট্যাব বন্ধ করার প্রচেষ্টা করা হলে সতর্কবাণী প্রদর্শিত হবে
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = একাধিক ট্যাব প্রদর্শনের ফলে { -brand-short-name } এর কর্ম সঞ্চালনের গতি হ্রাস হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = নতুন ট্যাবে একটি লিঙ্ক খোলা হলে সরাসরি সংশ্লিষ্ট ট্যাব প্রদর্শন করা হবে
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = উইন্ডোর টাস্ক-বারের মধ্যে ট্যাবের পূর্বরূপ প্রদর্শিত হবে
     .accesskey = k
