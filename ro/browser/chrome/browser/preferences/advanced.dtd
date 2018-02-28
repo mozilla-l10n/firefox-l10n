@@ -64,6 +64,7 @@ available. -->
 <!ENTITY clearSiteData.label             "Șterge toate datele">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteData1.label                 "Cookie-uri și datele site-urilor">
+<!ENTITY clearSiteData1.label            "Șterge datele…">
 <!ENTITY siteDataSettings.label          "Setări…">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Află mai multe">
