@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Arată o pagină goală
 startup-prev-session =
     .label = Arată ferestrele și filele de data trecută
+disable-extension =
+    .label = Dezactivează extensia
 home-page-header = Arată pagina de start
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -203,6 +205,9 @@ update-history =
     .label = Afișează istoricul actualizărilor
     .accesskey = p
 update-application-allow-description = Permite ca { -brand-short-name } să
+update-application-auto =
+    .label = Instaleze automat actualizări (recomandat)
+    .accesskey = A
 update-application-check-choose =
     .label = Caute actualizări, dar să te lase să decizi dacă le instalezi
     .accesskey = C
@@ -230,6 +235,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limita proceselor pentru conținut
     .accesskey = L
 performance-limit-content-process-enabled-desc = Procesele adiționale pentru conținut pot îmbunătăți performanța atunci când se folosesc mai multe file, însă va consuma și mai multă memorie.
+performance-limit-content-process-disabled-desc = Modificarea numărului de procese pentru conținut este posibilă doar cu funcția de multiprocese din { -brand-short-name }. <a>Învaţă cum să verifici dacă funcția de multiprocese este activată</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
