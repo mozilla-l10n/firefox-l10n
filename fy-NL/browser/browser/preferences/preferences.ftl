@@ -52,6 +52,14 @@ restart-later = Letter opnij starte
 ## General Section
 
 startup-header = Opstarte
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Tagelyk útfieren fan { -brand-short-name } en Firefox tastean
+use-firefox-sync = Tip: Dit brûkt ferskillende profilen. Brûk { -sync-brand-short-name } om gegevens dêrtusken te dielen.
+always-check-default =
+    .label = Altyd kontrolearje oft { -brand-short-name } de standertbrowser is
+    .accesskey = k
 is-default = { -brand-short-name } is op dit stuit jo standertbrowser
 is-not-default = { -brand-short-name } is net jo standertbrowser
 startup-blank-page =
@@ -70,6 +78,16 @@ use-current-pages =
 choose-bookmark =
     .label = Blêdwizer brûke…
     .accesskey = B
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab rint troch ljepblêden yn koartlyn brûkte folchoarder
+    .accesskey = T
+show-tabs-in-taskbar =
+    .label = Ljepblêdfoarbylden yn de Windows-taakbalke toane
+    .accesskey = W
+browser-containers-enabled =
+    .label = Kontenerljepblêden ynskeakelje
+    .accesskey = n
+browser-containers-learn-more = Mear ynfo
 
 ## General Section - Language & Appearance
 
@@ -83,6 +101,12 @@ play-drm-content-learn-more = Mear ynfo
 
 ## General Section - Browsing
 
+browsing-use-onscreen-keyboard =
+    .label = In skermtoetseboerd toane wannear nedich
+    .accesskey = k
+browsing-use-cursor-navigation =
+    .label = Hieltyd de pylktoetsen brûke om te navigearjen yn siden
+    .accesskey = p
 
 ## General Section - Proxy
 
