@@ -52,11 +52,19 @@ restart-later = Later herstarten
 ## General Section
 
 startup-header = Opstarten
+is-default = { -brand-short-name } is momenteel uw standaardbrowser
 startup-blank-page =
     .label = Een lege pagina tonen
+choose-bookmark =
+    .label = Bladwijzer gebruiken…
+    .accesskey = B
 restore-default =
     .label = Standaard herstellen
     .accesskey = S
+tabs-group-header = Tabbladen
+show-tabs-in-taskbar =
+    .label = Tabbladvoorbeelden in de Windows-taakbalk tonen
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
@@ -67,13 +75,25 @@ advanced-fonts =
 colors-settings =
     .label = Kleuren…
     .accesskey = K
+translate-web-pages =
+    .label = Webinhoud vertalen
+    .accesskey = W
+translate-exceptions =
+    .label = Uitzonderingen…
+    .accesskey = z
 
 ## General Section - Files and Applications
 
 download-header = Downloads
+download-save-to =
+    .label = Bestanden opslaan in
+    .accesskey = o
 applications-action-column =
     .label = Actie
     .accesskey = A
+update-application-use-service =
+    .label = Een achtergrondservice gebruiken om updates te installeren
+    .accesskey = a
 
 ## General Section - Performance
 
