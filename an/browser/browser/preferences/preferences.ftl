@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Siempre
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opcions
            *[other] Preferencias
         }
@@ -46,5 +47,108 @@ feature-enable-requires-restart = Ha de reiniciar o { -brand-short-name } ta act
 feature-disable-requires-restart = Ha de reiniciar o { -brand-short-name } ta desactivar ista caracteristica.
 should-restart-title = Reiniciar o { -brand-short-name }
 should-restart-ok = Reiniciar agora lo { -brand-short-name }
-revert-no-restart-button = Revertir
 restart-later = Reiniciar mas entabant
+
+## General Section
+
+startup-header = Inicio
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Permitir que { -brand-short-name } y Firefox corran de vez
+use-firefox-sync = Consello: Isto fa servir perfils deseparaus. Faiga servir { -sync-brand-short-name } pa compartir datos entre ells.
+is-default = { -brand-short-name } ye agora o suyo navegador por defecto
+is-not-default = { -brand-short-name } no ye o suyo navegador por defecto
+startup-blank-page =
+    .label = Amostrar una pachina en blanco
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar pachina actual
+           *[other] Usar pachinas actuals
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Usar o marcapachinas…
+    .accesskey = m
+restore-default =
+    .label = Restaurar ta la valura por defecto
+    .accesskey = v
+tabs-group-header = Pestanyas
+show-tabs-in-taskbar =
+    .label = Amostrar miniaturas d'as pestanyas en a barra de quefers de Windows
+    .accesskey = n
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Fuents y Colors
+advanced-fonts =
+    .label = Abanzadas…
+    .accesskey = A
+colors-settings =
+    .label = Colors…
+    .accesskey = C
+choose-language-description = Trigar l'idioma preferiu ta amostrar as pachinas web
+choose-button =
+    .label = Trigar…
+    .accesskey = T
+translate-web-pages =
+    .label = Traducir o conteniu web
+    .accesskey = T
+translate-exceptions =
+    .label = Excepcions…
+    .accesskey = x
+
+## General Section - Files and Applications
+
+download-header = Descargas
+download-save-to =
+    .label = Alzar os fichers en
+    .accesskey = A
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Trigar…
+           *[other] Examinar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] T
+           *[other] x
+        }
+applications-type-column =
+    .label = Mena de conteniu
+    .accesskey = M
+applications-action-column =
+    .label = Acción
+    .accesskey = A
+play-drm-content-learn-more = Mas información
+update-application-use-service =
+    .label = Instalar as actualizacions en un segundo plan
+    .accesskey = p
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Navegación
+browsing-use-autoscroll =
+    .label = Usar o desplazamiento automatico
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Usar o desplazamiento suau
+    .accesskey = d
+browsing-use-cursor-navigation =
+    .label = Fer servir siempre as teclas d'o cursor ta navegar endentro d'as pachinas
+    .accesskey = c
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Configuración…
+    .accesskey = o
