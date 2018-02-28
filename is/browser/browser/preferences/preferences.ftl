@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Sýna tóma síðu
 startup-prev-session =
     .label = Sýna flipa og glugga frá seinustu keyrslu
+disable-extension =
+    .label = Slökkva á viðbót
 home-page-header = Sýna mína heimasíðu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -191,6 +193,7 @@ applications-action-column =
     .accesskey = A
 play-drm-content-learn-more = Vita meira
 update-application-title = { -brand-short-name } uppfærslur
+update-application-description = Viðhalda { -brand-short-name } uppfærðum fyrir bestu afköst, stöðugleika og öryggi.
 update-application-info = Útgáfa { $version } <a>Hvað er nýtt</a>
 update-history =
     .label = Sýna uppfærslusögu…
@@ -215,11 +218,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Afköst
+performance-use-recommended-settings-checkbox =
+    .label = Nota afkastastillingar sem er mælt með
+    .accesskey = N
+performance-use-recommended-settings-desc = Þessar stillingar eru sérsniðnar fyrir þinn vélbúnað og stýrikerfi.
+performance-settings-learn-more = Fræðast meira
 performance-allow-hw-accel =
     .label = Nota vélbúnaðarhröðun ef mögulegt
     .accesskey = b
 performance-limit-content-process-option = Takmarka þræði fyrir efni
     .accesskey = þ
+performance-limit-content-process-enabled-desc = Fleiri þræðir fyrir efni getur aukið afköst þegar verið er að nota marga flipa, en tekur upp meira minni.
+performance-limit-content-process-disabled-desc = Aðeins er hægt að breyta fjölda efnisþráða með { -brand-short-name } sem inniheldur fjölgjörvavinnslu. <a>Sjáðu hvernig þú athugar hvort fjölgjörvavinnsla er virk</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
