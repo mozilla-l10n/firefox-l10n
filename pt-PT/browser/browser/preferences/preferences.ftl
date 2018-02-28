@@ -54,15 +54,25 @@ restart-later = Reiniciar mais tarde
 
 ## General Section - Language & Appearance
 
+translate-exceptions =
+    .label = Exceções…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
+applications-type-column =
+    .label = Tipo de conteúdo
+    .accesskey = T
+applications-action-column =
+    .label = Ação
+    .accesskey = A
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Navegação
 
 ## General Section - Proxy
 
