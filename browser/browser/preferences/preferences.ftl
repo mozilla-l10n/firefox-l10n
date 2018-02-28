@@ -110,6 +110,8 @@ browser-containers-settings =
     .label = Pengaturan…
     .accesskey = p
 containers-disable-alert-title = Tutup Semua Kontainer Tab?
+containers-disable-alert-desc = Jika Anda menonaktifkan Tab Kontainer sekarang, { $tabCount } tab kontainer akan ditutup. Yakin ingin menonaktifkan Tab Kontainer?
+containers-disable-alert-ok-button = Tutup { $tabCount } Tab Kontainer
 containers-disable-alert-cancel-button = Tetap aktifkan
 
 ## General Section - Language & Appearance
@@ -216,6 +218,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Selalu gunakan kursor papan ketik untuk navigasi laman
     .accesskey = S
+browsing-search-on-start-typing =
+    .label = Cari teks saat Anda mulai mengetik
+    .accesskey = k
 
 ## General Section - Proxy
 
