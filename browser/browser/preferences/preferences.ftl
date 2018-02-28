@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Vždy
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Možnosti
            *[other] Předvolby
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = Pro povolení této funkce je potřeba aplikac
 feature-disable-requires-restart = Pro zakázání této funkce je potřeba aplikaci { -brand-short-name } restartovat.
 should-restart-title = Restartovat aplikaci { -brand-short-name }
 should-restart-ok = Restartovat aplikaci { -brand-short-name }
-revert-no-restart-button = Vrátit zpět
 restart-later = Restartovat později
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
