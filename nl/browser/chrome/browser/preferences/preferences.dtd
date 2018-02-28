@@ -28,6 +28,8 @@
 
 <!ENTITY  languageAndAppearance.label   "Taal en Vormgeving">
 <!ENTITY  filesAndApplications.label    "Bestanden en Toepassingen">
+
+
 <!ENTITY  browserPrivacy.label          "Browserprivacy">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
