@@ -51,21 +51,202 @@ restart-later = Endurræsa seinna
 
 ## General Section
 
+startup-header = Ræsing
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Leyfa { -brand-short-name } og Firefox að keyra á sama tíma
+use-firefox-sync = Ábending: Þetta notar aðskilda reikninga. Notaðu { -sync-brand-short-name } til að deila gögnum á milli þeirra.
+get-started-not-logged-in = Skráðu þig inn í { -sync-brand-short-name }…
+get-started-configured = Opna { -sync-brand-short-name } stillingar
+always-check-default =
+    .label = Alltaf athuga hvort { -brand-short-name } sé sjálfgefin vafri
+    .accesskey = l
+is-default = { -brand-short-name } er núna sjálfgefinn vafri
+is-not-default = { -brand-short-name } er ekki sjálfgefinn vafri
+set-as-my-default-browser =
+    .label = Gera sjálfgefið…
+    .accesskey = s
+startup-page = Þegar { -brand-short-name } ræsir
+    .accesskey = s
+startup-user-homepage =
+    .label = Sýna mína heimasíðu
+startup-blank-page =
+    .label = Sýna tóma síðu
+startup-prev-session =
+    .label = Sýna flipa og glugga frá seinustu keyrslu
+home-page-header = Sýna mína heimasíðu
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Nota núverandi síðu
+           *[other] Nota núverandi síður
+        }
+    .accesskey = o
+choose-bookmark =
+    .label = Nota bókamerki…
+    .accesskey = b
+restore-default =
+    .label = Endurstilla
+    .accesskey = r
+tabs-group-header = Flipar
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab skiptir á milli flipa í notkunarröð
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Vara við þegar ég loka mörgum flipum
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Vara við ef opnun á mörgum flipum gæti hægt á { -brand-short-name }
+    .accesskey = o
+switch-links-to-new-tabs =
+    .label = Þegar ég opna tengil í nýjum flipa, skipta strax yfir á hann
+    .accesskey = s
+show-tabs-in-taskbar =
+    .label = Sýna flipasýnishorn í Windows verkslánni
+    .accesskey = k
+browser-containers-enabled =
+    .label = Virkja innihalds flipa
+    .accesskey = n
+browser-containers-learn-more = Fræðast meira
+browser-containers-settings =
+    .label = Stillingar…
+    .accesskey = i
+containers-disable-alert-title = Loka öllum innihaldsflipum?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Ef þú gerir innihaldsflipa óvirka, verður { $tabCount } innihaldsflipa lokað. Ertu viss um að þú viljir gera innihaldsflipa óvirka?
+       *[other] Ef þú gerir innihaldsflipa óvirka, verður { $tabCount } innihaldsflipum lokað. Ertu viss um að þú viljir gera innihaldsflipa óvirka?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Loka { $tabCount } innihaldsflipa
+       *[other] Loka { $tabCount } innihaldsflipum
+    }
+containers-disable-alert-cancel-button = Nota áfram
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Tungumál og útlit
+fonts-and-colors-header = Letur og litir
+default-font = Sjálfgefinn leturgerð
+    .accesskey = ð
+default-font-size = Stærð
+    .accesskey = S
+advanced-fonts =
+    .label = Frekari stillingar…
+    .accesskey = a
+colors-settings =
+    .label = Litir…
+    .accesskey = L
+language-header = Tungumál
+choose-language-description = Veldu þau tungumál sem hafa forgang við birtingu vefsíðu
+choose-button =
+    .label = Velja…
+    .accesskey = V
+translate-web-pages =
+    .label = Þýða innihald vefsíðu
+    .accesskey = Þ
+translate-exceptions =
+    .label = Undanþágur…
+    .accesskey = U
+check-user-spelling =
+    .label = Athuga stafsetningu um leið og texti er sleginn inn
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Skrár og forrit
+download-header = Niðurhal
 download-save-to =
     .label = Vista skrár yfir á
     .accesskey = V
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Velja…
+           *[other] Velja…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] e
+        }
+download-always-ask-where =
+    .label = Alltaf spyrja hvert á að vista skrár
+    .accesskey = A
+applications-header = Forrit
+applications-description = Veldu hvernig { -brand-short-name } meðhöndlar skrár sem þú halar niður frá vefnum eða forritum þegar þú ert að vafra.
+applications-filter =
+    .placeholder = Leita að skráargerðum og forritum
+applications-type-column =
+    .label = Efnistegund
+    .accesskey = t
+applications-action-column =
+    .label = Aðgerð
+    .accesskey = A
+play-drm-content-learn-more = Vita meira
+update-application-title = { -brand-short-name } uppfærslur
+update-application-info = Útgáfa { $version } <a>Hvað er nýtt</a>
+update-history =
+    .label = Sýna uppfærslusögu…
+    .accesskey = p
+update-application-allow-description = Leyfa { -brand-short-name } að
+update-application-auto =
+    .label = Setja sjálfvirkt inn uppfærslur (mælt með)
+    .accesskey = a
+update-application-check-choose =
+    .label = Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp
+    .accesskey = t
+update-application-manual =
+    .label = Aldrei athuga með uppfærslur (ekki mælt með)
+    .accesskey = l
+update-application-use-service =
+    .label = Nota bakgrunnsþjónustu til að setja inn uppfærslur
+    .accesskey = b
+update-enable-search-update =
+    .label = Uppfæra leitarvélar sjálfvirkt
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Afköst
+performance-allow-hw-accel =
+    .label = Nota vélbúnaðarhröðun ef mögulegt
+    .accesskey = b
+performance-limit-content-process-option = Takmarka þræði fyrir efni
+    .accesskey = þ
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (sjálfgefið)
 
 ## General Section - Browsing
 
+browsing-title = Leit
+browsing-use-autoscroll =
+    .label = Nota sjálfvirka skrunun
+    .accesskey = o
+browsing-use-smooth-scrolling =
+    .label = Nota fíngerða skrunun
+    .accesskey = f
+browsing-use-onscreen-keyboard =
+    .label = Sýna snertilyklaborð þegar það er nauðsynlegt
+    .accesskey = k
+browsing-use-cursor-navigation =
+    .label = Alltaf nota örvalykla til að ferðast á síðum
+    .accesskey = ö
+browsing-search-on-start-typing =
+    .label = Leita í texta þegar byrjað er að slá inn orð
+    .accesskey = L
 
 ## General Section - Proxy
 
+network-proxy-title = Net milliþjónn
+network-proxy-connection-settings =
+    .label = Stillingar…
+    .accesskey = S
