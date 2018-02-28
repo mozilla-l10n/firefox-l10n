@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Pśecej
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Nastajenja
            *[other] Nastajenja
         }
@@ -46,5 +47,94 @@ feature-enable-requires-restart = { -brand-short-name } musy se znowego startowa
 feature-disable-requires-restart = { -brand-short-name } musy se znowego startowaś, aby se toś ta funkcija znjemóžniła.
 should-restart-title = { -brand-short-name } znowego startowaś
 should-restart-ok = { -brand-short-name } něnto znowego startowaś
-revert-no-restart-button = Anulěrowaś
 restart-later = Pózdźej znowego startowaś
+
+## General Section
+
+startup-header = Startowaś
+startup-blank-page =
+    .label = Prozny bok pokazaś
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Aktualny bok wužywaś
+           *[other] Aktualne boki wužywaś
+        }
+    .accesskey = A
+choose-bookmark =
+    .label = Cytańske znamje wužywaś…
+    .accesskey = C
+restore-default =
+    .label = Standard wótnowiś
+    .accesskey = t
+tabs-group-header = Rejtarki
+show-tabs-in-taskbar =
+    .label = Rejtarkowe pśeglědy we Windowsowej nadawkowej rědce pokazaś
+    .accesskey = R
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Pisma a barwy
+advanced-fonts =
+    .label = Rozšyrjony…
+    .accesskey = o
+colors-settings =
+    .label = Barwy…
+    .accesskey = B
+choose-language-description = Wubjeŕśo swóju preferěrowanu rěc za zwobraznjenje bokow
+choose-button =
+    .label = Wubraś…
+    .accesskey = u
+
+## General Section - Files and Applications
+
+download-header = Ześěgnjenja
+download-save-to =
+    .label = Dataje składowaś do
+    .accesskey = D
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Wubraś…
+           *[other] Pśepytaś…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] u
+           *[other] e
+        }
+applications-type-column =
+    .label = Wopśimjeśowy typ
+    .accesskey = W
+applications-action-column =
+    .label = Akcija
+    .accesskey = A
+update-application-use-service =
+    .label = Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś
+    .accesskey = S
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Pśeglědowanje
+browsing-use-autoscroll =
+    .label = Awtomatiske pśesuwanje wužywaś
+    .accesskey = A
+browsing-use-smooth-scrolling =
+    .label = Pólažke pśesuwanje wužywaś
+    .accesskey = l
+browsing-use-cursor-navigation =
+    .label = Pśecej kursorowe tasty za pógibowanje na bokach wužywaś
+    .accesskey = k
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Nastajenja…
+    .accesskey = N
