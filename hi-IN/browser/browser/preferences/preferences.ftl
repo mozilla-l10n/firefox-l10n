@@ -57,6 +57,8 @@ startup-header = आरंभन
 separate-profile-mode =
     .label = { -brand-short-name } और Firefox को एक ही समय में चलने के लिए स्वीकारें
 use-firefox-sync = संकेत: यह अलग प्रोफाइल का उपयोग करता है. उनके बीच आँकड़ा साझा करने के लिए सिंक का उपयोग करें.
+get-started-not-logged-in = { -sync-brand-short-name } में साइन इन करें…
+get-started-configured = { -sync-brand-short-name } वरीयताएँ खोलें
 always-check-default =
     .label = जाँच कीजिए { -brand-short-name } आपका तयशुदा ब्राउज़र है
     .accesskey = y
@@ -70,6 +72,8 @@ startup-blank-page =
     .label = खाली पृष्ठ दिखाएँ
 startup-prev-session =
     .label = पिछले समय से आपके विंडोज़ और टैब्स दिखाएँ
+disable-extension =
+    .label = एक्सटेंशन अक्षम करें
 home-page-header = आपका होम पेज दिखाएँ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -166,6 +170,7 @@ download-always-ask-where =
     .label = हमेशा आपसे पूछें कि फ़ाइल कहाँ सहेजनी है
     .accesskey = A
 applications-header = अनुप्रयोग
+applications-description = चुने कैसे { -brand-short-name } वेब से डाउनलोड की हुई आपकी फ़ाइलों या ब्राउज़ करते समय आपके एप्लिकेशनों को कैसे संभालता है.
 applications-filter =
     .placeholder = फ़ाइल टाइप या अनुप्रयोगों को खोजें
 applications-type-column =
@@ -174,8 +179,10 @@ applications-type-column =
 applications-action-column =
     .label = क्रिया
     .accesskey = A
+drm-content-header = डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री
 play-drm-content-learn-more = अधिक जानें
 update-application-title = { -brand-short-name } अद्यतन
+update-application-description = सर्वोत्तम प्रदर्शन, स्थिरता और सुरक्षा के लिए { -brand-short-name } को नवीनतम रखें.
 update-application-info = संस्करण{ $version }‌ <a>क्या नया है?</a>
 update-history =
     .label = अद्यतन इतिहास दिखाएँ…
@@ -197,11 +204,14 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = प्रदर्शन
+performance-use-recommended-settings-desc = ये सेटिंग्स आपके कंप्यूटर के हार्डवेयर और ऑपरेटिंग सिस्टम के अनुरूप हैं.
 performance-allow-hw-accel =
     .label = उपलब्ध होने पर हार्ड त्वरण का उपयोग करें
     .accesskey = r
 performance-limit-content-process-option = सामग्री प्रक्रिया सीमा
     .accesskey = l
+performance-limit-content-process-enabled-desc = एकाधिक टैब का उपयोग करते समय अतिरिक्त सामग्री प्रक्रियाओं में सुधार हो सक हैं, लेकिन इससे अधिक मेमोरी का उपयोग होगा.
+performance-limit-content-process-disabled-desc = कंटेंट प्रक्रियाओं की संख्या केवल मल्टीप्रासेस { -brand-short-name } के साथ बदली जा सकती है. <a>जाँचना सीखें कि क्या मल्टीप्रासेस सक्रिय है</a>
 
 ## General Section - Browsing
 
