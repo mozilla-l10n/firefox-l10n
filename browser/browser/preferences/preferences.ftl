@@ -264,6 +264,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy réseau
+network-proxy-connection-learn-more = En savoir plus
 network-proxy-connection-settings =
     .label = Paramètres…
     .accesskey = P
