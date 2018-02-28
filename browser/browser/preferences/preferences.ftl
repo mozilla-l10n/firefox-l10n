@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ជានិច្ច
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ជម្រើស
            *[other] ចំណូលចិត្ត
         }
@@ -37,5 +38,22 @@ feature-enable-requires-restart = ត្រូវតែ​ចាប់ផ្ដ�
 feature-disable-requires-restart = ត្រូវតែ​ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ​ដើម្បី​បិទ​លក្ខណៈ​នេះ ។
 should-restart-title = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ
 should-restart-ok = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ​ឥឡូវ​នេះ
-revert-no-restart-button = ត្រឡប់​ដូច​ដើម
 restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ពេលក្រោយ
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
