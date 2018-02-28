@@ -51,21 +51,80 @@ restart-later = Reiniciar después
 
 ## General Section
 
+startup-header = Inicio
+startup-blank-page =
+    .label = Mostrar una página vacía
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar página actual
+           *[other] Usar páginas actuales
+        }
+    .accesskey = c
+restore-default =
+    .label = Restaurar valor por defecto
+    .accesskey = R
+tabs-group-header = Pestañas
+show-tabs-in-taskbar =
+    .label = Mostrar vista previa de las pestañás en la barra de tareas de Windows
+    .accesskey = t
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Avanzadas…
+    .accesskey = A
+colors-settings =
+    .label = Colores…
+    .accesskey = C
+choose-language-description = Elegir el idioma preferido para mostrar las páginas web
+choose-button =
+    .label = Seleccionar…
+    .accesskey = o
 
 ## General Section - Files and Applications
 
+download-header = Descargas
 download-save-to =
     .label = Guardar automáticamente en
     .accesskey = G
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Elegir…
+           *[other] Examinar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] E
+           *[other] x
+        }
+applications-type-column =
+    .label = Tipo de contenido
+    .accesskey = T
+applications-action-column =
+    .label = Acción
+    .accesskey = A
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Navegación
+browsing-use-autoscroll =
+    .label = Usar desplazamiento automático
+    .accesskey = d
+browsing-use-smooth-scrolling =
+    .label = Usar desplazamiento suave
+    .accesskey = s
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Configurar…
+    .accesskey = C
