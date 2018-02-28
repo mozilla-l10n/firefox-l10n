@@ -52,17 +52,63 @@ restart-later = Później
 ## General Section
 
 startup-header = Uruchamianie
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Jednoczesne działanie programu { -brand-short-name } oraz Firefoksa
+use-firefox-sync = Podczas jednoczesnego działania wykorzystywane są oddzielne profile. Można wykorzystać synchronizację, aby dzielić dane między nimi.
+get-started-not-logged-in = Zaloguj się, aby synchronizować…
+get-started-configured = Otwórz ustawienia synchronizacji
+is-default = { -brand-short-name } jest obecnie domyślną przeglądarką
+is-not-default = { -brand-short-name } nie jest obecnie domyślną przeglądarką
+startup-user-homepage =
+    .label = wyświetl stronę startową
 startup-blank-page =
     .label = wyświetl pustą stronę
+startup-prev-session =
+    .label = wyświetl okna i karty z poprzedniej sesji
+disable-extension =
+    .label = Wyłącz rozszerzenie
+home-page-header = wyświetl stronę startową
+tabs-group-header = Karty
+browser-containers-learn-more = Więcej informacji
+containers-disable-alert-title = Czy zamknąć wszystkie karty z kontekstem?
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Zamknij kartę z kontekstem
+        [few] Zamknij { $tabCount } karty z kontekstem
+       *[many] Zamknij { $tabCount } kart z kontekstem
+    }
+containers-disable-alert-cancel-button = Anuluj
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Język i wygląd
+fonts-and-colors-header = Czcionki i kolory
+language-header = Język
+choose-language-description = Wybierz preferowany język, w jakim mają być wyświetlane strony
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Pliki i aplikacje
+download-header = Pobieranie
+applications-header = Aplikacje
+applications-filter =
+    .placeholder = Typ pliku lub nazwa aplikacji
+drm-content-header = Treści DRM (Digital Rights Management)
+play-drm-content-learn-more = Więcej informacji
+update-application-info = Wersja: { $version } <a>Informacje o wydaniu</a>
 
 ## General Section - Performance
 
+performance-title = Wydajność
+performance-use-recommended-settings-desc = Ustawienia te są specjalnie dostosowane do specyfikacji tego komputera i systemu operacyjnego.
+performance-settings-learn-more = Więcej informacji
+performance-limit-content-process-enabled-desc = Więcej procesów treści może poprawić wydajność przy wielu otwartych kartach, ale zwiększy też zapotrzebowanie na pamięć.
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (domyślnie)
 
 ## General Section - Browsing
 
@@ -70,3 +116,4 @@ browsing-title = Przeglądanie
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy sieciowe
