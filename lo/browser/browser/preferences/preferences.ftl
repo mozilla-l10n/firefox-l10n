@@ -30,6 +30,7 @@ restart-later = ເລີ່ມຕົ້ນໃໝ່ພາຍຫຼັງ
 
 ## General Section
 
+startup-header = ເລີ່ມເຮັດວຽກ
 startup-blank-page =
     .label = ສະແດງຫນ້າເປົ່າ
 # This string has a special case for '1' and [other] (default). If necessary for
