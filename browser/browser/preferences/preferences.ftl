@@ -43,6 +43,7 @@ use-current-pages =
 restore-default =
     .label = Kugaruraho ku Mburabuzi
     .accesskey = g
+tabs-group-header = Udufishi
 
 ## General Section - Language & Appearance
 
@@ -52,6 +53,9 @@ advanced-fonts =
 colors-settings =
     .label = Amabara...
     .accesskey = A
+translate-exceptions =
+    .label = Amarengayobora...
+    .accesskey = r
 
 ## General Section - Files and Applications
 
