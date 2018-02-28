@@ -49,6 +49,9 @@ restart-later = Atosaigh Ar Ball
 
 ## General Section - Files and Applications
 
+download-save-to =
+    .label = Sábháil comhaid i
+    .accesskey = S
 
 ## General Section - Performance
 
