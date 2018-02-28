@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Întotdeauna
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opțiuni
            *[other] Preferințe
         }
@@ -46,5 +47,39 @@ feature-enable-requires-restart = { -brand-short-name } trebuie să repornească
 feature-disable-requires-restart = { -brand-short-name } trebuie să repornească pentru a dezactiva această funcționalitate.
 should-restart-title = Repornire { -brand-short-name }
 should-restart-ok = Repornește { -brand-short-name } acum
-revert-no-restart-button = Anulează schimbarea
 restart-later = Repornește mai târziu
+
+## General Section
+
+startup-header = Pornire
+startup-blank-page =
+    .label = Arată o pagină goală
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-header = Descărcări
+download-save-to =
+    .label = Salvează fișierele în
+    .accesskey = v
+applications-type-column =
+    .label = Tip de conținut
+    .accesskey = T
+applications-action-column =
+    .label = Acțiune
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Navigare
+browsing-use-autoscroll =
+    .label = Folosește derularea automată
+    .accesskey = a
+
+## General Section - Proxy
+
