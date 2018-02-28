@@ -64,6 +64,9 @@ always-check-default =
     .accesskey = a
 is-default = { -brand-short-name } on määratud vaikebrauseriks
 is-not-default = { -brand-short-name } pole vaikebrauseriks määratud
+set-as-my-default-browser =
+    .label = Määra vaikebrauseriks…
+    .accesskey = M
 startup-page = { -brand-short-name }i käivitumisel
     .accesskey = k
 startup-user-homepage =
@@ -130,6 +133,7 @@ containers-disable-alert-cancel-button = Ära keela
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Keel ja välimus
 fonts-and-colors-header = Fondid ja värvid
 default-font = Vaikefont
     .accesskey = V
@@ -158,6 +162,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Failid ja rakendused
 download-header = Allalaadimised
 download-save-to =
     .label = Failid salvestatakse asukohta
