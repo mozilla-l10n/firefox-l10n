@@ -52,7 +52,7 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Aceitar cookies de terceiros">
 <!ENTITY  acceptThirdParty2.pre.accesskey "a">
 
-<!ENTITY  acceptCookies3.label          "Aceitar cookies e dados de sites">
+<!ENTITY  acceptCookies3.label          "Aceitar cookies e dados de sites de páginas web">
 <!ENTITY  acceptCookies3.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Bloquear cookies e dados de sites (pode quebrar páginas)">
