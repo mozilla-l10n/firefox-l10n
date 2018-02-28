@@ -51,6 +51,7 @@ restart-later = 나중에 다시 시작
 
 ## General Section
 
+startup-header = 시작 페이지
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
@@ -61,6 +62,23 @@ always-check-default =
     .accesskey = w
 is-default = 현재 { -brand-short-name }가 기본 브라우저입니다.
 is-not-default = { -brand-short-name }가 기본 브라우저가 아닙니다.
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] 현재 페이지
+           *[other] 현재 탭
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = 북마크 사용…
+    .accesskey = B
+restore-default =
+    .label = 초기 설정
+    .accesskey = R
 tabs-group-header = 탭
 show-tabs-in-taskbar =
     .label = Windows 작업표시줄에 탭 미리 보기 표시
@@ -83,6 +101,10 @@ advanced-fonts =
 colors-settings =
     .label = 색상…
     .accesskey = C
+choose-language-description = 웹 페이지를 표시할 선호 언어 선택
+choose-button =
+    .label = 선택…
+    .accesskey = o
 translate-web-pages =
     .label = 웹 콘텐츠 번역하기
     .accesskey = T
@@ -92,9 +114,27 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-header = 다운로드
 download-save-to =
     .label = 저장 위치
     .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] 선택…
+           *[other] 찾아보기…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+applications-type-column =
+    .label = 파일 형식
+    .accesskey = T
+applications-action-column =
+    .label = 실행
+    .accesskey = A
 play-drm-content-learn-more = 더 알아보기
 update-application-use-service =
     .label = 업데이트 설치 시 백그라운드 작업으로 하기
