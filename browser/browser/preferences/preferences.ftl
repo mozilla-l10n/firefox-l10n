@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Siempre
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opciones
            *[other] Preferencias
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = { -brand-short-name } debe reiniciarse para ac
 feature-disable-requires-restart = { -brand-short-name } debe reiniciarse para desactivar esta función.
 should-restart-title = Reiniciar { -brand-short-name }
 should-restart-ok = Reiniciar { -brand-short-name } ahora
-revert-no-restart-button = Revertir
 restart-later = Reiniciar más tarde
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
