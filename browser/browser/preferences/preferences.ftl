@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Aina
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Asetukset
            *[other] Asetukset
         }
@@ -46,5 +47,64 @@ feature-enable-requires-restart = { -brand-short-name } täytyy käynnistää uu
 feature-disable-requires-restart = { -brand-short-name } täytyy käynnistää uudestaan, jotta ominaisuus voidaan poistaa käytöstä.
 should-restart-title = Käynnistä { -brand-short-name } uudestaan
 should-restart-ok = Käynnistä { -brand-short-name } uudestaan nyt
-revert-no-restart-button = Peruuta
 restart-later = Käynnistä uudestaan myöhemmin
+
+## General Section
+
+startup-header = Käynnistys
+startup-blank-page =
+    .label = Avaa tyhjä sivu
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Käytä avointa sivua
+           *[other] Käytä avoimia sivuja
+        }
+    .accesskey = K
+restore-default =
+    .label = Palauta oletusasetus
+    .accesskey = P
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Kirjasinlajit ja värit
+advanced-fonts =
+    .label = Lisäasetukset…
+    .accesskey = a
+choose-language-description = Valitse kielet, joilla sivut näytetään
+choose-button =
+    .label = Valitse…
+    .accesskey = V
+
+## General Section - Files and Applications
+
+download-header = Lataukset
+download-save-to =
+    .label = Tallenna kansioon
+    .accesskey = T
+applications-type-column =
+    .label = Sisältötyyppi
+    .accesskey = S
+applications-action-column =
+    .label = Toiminto
+    .accesskey = o
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Selaus
+browsing-use-autoscroll =
+    .label = Vieritä sivua automaattisesti
+    .accesskey = V
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Asetukset…
+    .accesskey = A
