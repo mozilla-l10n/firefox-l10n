@@ -70,6 +70,7 @@ choose-bookmark =
 restore-default =
     .label = Бастапқы күйге келтіру
     .accesskey = с
+tabs-group-header = Беттер
 show-tabs-in-taskbar =
     .label = Windows тапсырмалар панелінде беттер көріністерін көрсету
     .accesskey = п
