@@ -28,6 +28,7 @@ close-button =
 ## General Section
 
 startup-header = Tàmbali
+is-default = { -brand-short-name } mooy leegi sa joowukaay ñakk ndigal
 startup-blank-page =
     .label = Wane xët bu wëyëŋ
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -63,6 +64,9 @@ choose-language-description = Tànn lammiñ ngir wone xët yi
 choose-button =
     .label = Tànn…
     .accesskey = T
+translate-exceptions =
+    .label = Yi kenn tëggaalewul…
+    .accesskey = k
 
 ## General Section - Files and Applications
 
