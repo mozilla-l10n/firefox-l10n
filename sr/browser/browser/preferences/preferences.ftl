@@ -52,36 +52,96 @@ restart-later = Поново покрени касније
 ## General Section
 
 startup-header = Покретање
+use-firefox-sync = Савет: Ово користи одвојене профиле. Користите { -sync-brand-short-name } да делите податке између њих.
+is-default = { -brand-short-name } је тренутно подразумевани прегледач
+is-not-default = { -brand-short-name } није подразумевани прегледач
+startup-blank-page =
+    .label = Прикажи празну страницу
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Користи тренутну страницу
+           *[other] Користи тренутне странице
+        }
+    .accesskey = т
+choose-bookmark =
+    .label = Користи забелешку…
+    .accesskey = з
+restore-default =
+    .label = Врати на подразумевану
+    .accesskey = В
+show-tabs-in-taskbar =
+    .label = Прикажи преглед језичка у Windows траци задатака
+    .accesskey = р
+browser-containers-enabled =
+    .label = Омогући контејнер језичке
+    .accesskey = к
+browser-containers-learn-more = Сазнајте више
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Фонт и боје
 colors-settings =
     .label = Боје…
     .accesskey = Б
+choose-language-description = Изаберите омиљени језик за приказ страница
+choose-button =
+    .label = Избор…
+    .accesskey = з
 
 ## General Section - Files and Applications
 
+download-header = Преузимања
 download-save-to =
     .label = Сачувај датотеке у
     .accesskey = С
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Избор…
+           *[other] Избор…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] И
+           *[other] И
+        }
 applications-type-column =
     .label = Врста садржаја
     .accesskey = В
 applications-action-column =
     .label = Дејство
     .accesskey = Д
+play-drm-content-learn-more = Сазнајте више
+update-application-use-service =
+    .label = Употреби позадинске сервисе за инсталацију надоградњи
+    .accesskey = з
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Прегледање
 browsing-use-autoscroll =
     .label = Користи аутоматско померање
     .accesskey = К
 browsing-use-smooth-scrolling =
     .label = Користи глатко померање
     .accesskey = г
+browsing-use-onscreen-keyboard =
+    .label = Прикажи тастатуру на додир када је неопходно
+    .accesskey = П
+browsing-use-cursor-navigation =
+    .label = Увек користи стрелице за кретање по страницама
+    .accesskey = с
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Поставке…
+    .accesskey = П
