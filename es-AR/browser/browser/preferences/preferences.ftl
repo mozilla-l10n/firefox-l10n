@@ -51,6 +51,10 @@ restart-later = Reiniciar después
 
 ## General Section
 
+tabs-group-header = Pestañas
+show-tabs-in-taskbar =
+    .label = Mostrar vista previa de pestañas en la barra de tareas de Windows
+    .accesskey = v
 
 ## General Section - Language & Appearance
 
