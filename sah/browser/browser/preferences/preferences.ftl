@@ -31,6 +31,7 @@ should-restart-title = Маны { -brand-short-name } хат ыыт
 
 ## General Section
 
+startup-header = Саҥаттан
 startup-blank-page =
     .label = Кураанах сирэйи көрдөр
 # This string has a special case for '1' and [other] (default). If necessary for
