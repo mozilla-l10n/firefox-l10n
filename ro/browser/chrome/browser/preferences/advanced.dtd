@@ -37,11 +37,14 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim &brandShortName; pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații personale.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Politica de confidențialitate">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permite-i lui &brandShortName; să trimită rapoarte de defecțiuni către Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Permite-i lui &brandShortName; să trimită rapoarte de eroare ale browserului (inclusiv mesajele erorilor) către Mozilla">
 <!ENTITY collectBrowserErrorsLearnMore.label "Află mai multe">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Permite-i lui &brandShortName; să trimită rapoarte de defecțiuni către Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Permite-i lui &brandShortName; să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">
 
 <!ENTITY networkTab.label                "Rețea">
@@ -60,6 +63,7 @@ available. -->
 <!ENTITY siteData.label                  "Date privind site-urile">
 <!ENTITY clearSiteData.label             "Șterge toate datele">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteData1.label                 "Cookie-uri și datele site-urilor">
 <!ENTITY siteDataSettings.label          "Setări…">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Află mai multe">

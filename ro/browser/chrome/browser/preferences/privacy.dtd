@@ -49,8 +49,12 @@
 <!ENTITY  acceptCookies2.label          "Acceptă cookie-uri de la site-uri web">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-<!ENTITY  acceptThirdParty2.pre.label     "Acceptă cookie-uri terțe">
+<!ENTITY  acceptThirdParty2.pre.label     "Acceptă cookie-uri de la terți">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+
+
+<!ENTITY  acceptThirdParty3.pre.label     "Acceptă cookie-uri de la terți și datele site-urilor">
 <!ENTITY  acceptThirdParty.always.label   "Întotdeauna">
 <!ENTITY  acceptThirdParty.never.label    "Niciodată">
 <!ENTITY  acceptThirdParty.visited.label  "De la site-urile vizitate">
@@ -92,6 +96,7 @@
 <!ENTITY  dontrememberActions.pre.label          "Ai putea dori și să ">
 <!ENTITY  dontrememberActions.clearHistory.label "ștergi tot istoricul recent">
 <!ENTITY  dontrememberActions.post.label         ".">
+
 
 <!ENTITY  privateBrowsingPermanent2.label "Folosește mereu modul de navigare privată">
 <!ENTITY  privateBrowsingPermanent2.accesskey "m">
