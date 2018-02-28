@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Always
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Options
            *[other] Preferences
         }
@@ -46,5 +47,49 @@ feature-enable-requires-restart = { -brand-short-name } must restart to enable t
 feature-disable-requires-restart = { -brand-short-name } must restart to disable this feature.
 should-restart-title = Restart { -brand-short-name }
 should-restart-ok = Restart { -brand-short-name } now
-revert-no-restart-button = Revert
 restart-later = Restart Later
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Fonts & Colours
+advanced-fonts =
+    .label = Advanced…
+    .accesskey = A
+colors-settings =
+    .label = Colours…
+    .accesskey = C
+choose-language-description = Choose your preferred language for displaying pages
+choose-button =
+    .label = Choose…
+    .accesskey = o
+
+## General Section - Files and Applications
+
+applications-type-column =
+    .label = Content Type
+    .accesskey = T
+applications-action-column =
+    .label = Action
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Browsing
+browsing-use-autoscroll =
+    .label = Use autoscrolling
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Use smooth scrolling
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = Always use the cursor keys to navigate within pages
+    .accesskey = c
+
+## General Section - Proxy
+
