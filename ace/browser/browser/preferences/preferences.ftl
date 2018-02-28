@@ -9,18 +9,11 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sabé
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Atô
            *[other] Atô
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `min-width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-field =
-    .style = min-width: 15.4em
 pane-general-title = Umom
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,5 +39,22 @@ feature-enable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu
 feature-disable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu pumaté fitur nyoe.
 should-restart-title = Peuhah Keulayi { -brand-short-name }
 should-restart-ok = Peuhah keulayi { -brand-short-name } jinoe
-revert-no-restart-button = Peuriwang
 restart-later = Peuhah Keulayi Euntreuk
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
