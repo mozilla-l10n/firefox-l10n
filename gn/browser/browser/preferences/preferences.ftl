@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Peteĩ kuatiarogue nandi jehechauka
 startup-prev-session =
     .label = Ovetã ha tendaykekuéra tembiapo paha rehegua jehechauka
+disable-extension =
+    .label = Moĩmbaha Monge
 home-page-header = Che kuatiarogue ñepyrũha jehechauka
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -195,6 +197,7 @@ play-drm-content =
     .accesskey = E
 play-drm-content-learn-more = Kuaave
 update-application-title = { -brand-short-name } mbohekopyahu
+update-application-description = Eguereko { -brand-short-name } tekopyahúreve hembiapo porã, hekopyta ha hekorosã hag̃ua.
 update-application-info = Peteĩchagua{ $version } <a>Oĩpa mba'e pyahu</a>
 update-history =
     .label = Tembiasakue rekopyahu jehechauka…
@@ -219,11 +222,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Mba'eaporã
+performance-use-recommended-settings-checkbox =
+    .label = Eipuru ñemboheko tembiapokue oje'epyréva
+    .accesskey = E
+performance-use-recommended-settings-desc = Ko'ã ñemoĩporã oñombojuehe hardware ha ne mohendaha apopyvusu rembiapo rehe.
+performance-settings-learn-more = Kuaave
 performance-allow-hw-accel =
     .label = Hardware mbopya'eha oĩmba vove jepuru
     .accesskey = r
 performance-limit-content-process-option = Tetepy ha tembe'y mba'eapo
     .accesskey = l
+performance-limit-content-process-enabled-desc = Umi taperekogua tetepy mbohetapy ikatu omopu'ã apopyre oipurúvo heta tendayke, hákatu avei oipurúta hetave mandu'arenda.
+performance-limit-content-process-disabled-desc = Pe mba'eapo papapy moambue retepy ikatu oiko mba'eapoita { -brand-short-name } ndive añónte. <a>Eikuaa mba'éichapa ehechajeýta mba'eapoita ijuruja jave</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
