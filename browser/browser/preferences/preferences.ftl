@@ -51,6 +51,20 @@ restart-later = Reaniciar dempués
 
 ## General Section
 
+use-firefox-sync = Conseyu: esto usa perfiles separtaos. Usa { -sync-brand-short-name } pa compartir datos ente ellos.
+get-started-not-logged-in = Coneutase a { -sync-brand-short-name }…
+get-started-configured = Abrir preferencies de { -sync-brand-short-name }
+is-default = { -brand-short-name } ye'l to restolador web predetermináu
+is-not-default = { -brand-short-name } nun ye'l to restolador web predetermináu
+set-as-my-default-browser =
+    .label = Facelu predetermináu…
+    .accesskey = D
+startup-page = Al aniciase { -brand-short-name }:
+    .accesskey = s
+startup-prev-session =
+    .label = Amosar les ventanes y llingüetes de la cabera sesión
+disable-extension =
+    .label = Deshabilitar estensión
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -65,20 +79,57 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+warn-on-close-multiple-tabs =
+    .label = Avisar cuando zarres múltiples llingüetes
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label =
+        Avisar si al abrir munches llingüetes { -brand-short-name } pue dir lentu
+
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Al abrir un enllaz nuna llingüeta nueva, cambiar a ella darréu
+    .accesskey = a
+browser-containers-enabled =
+    .label = Habilitar llingüetes contenedores
+    .accesskey = n
+browser-containers-learn-more = Deprendi más
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Si deshabilites les llingüetes contenedores agora, va zarrase { $tabCount } llingüeta contenedora. ¿Daveres que quies deshabilitar llingüetes contenedores?
+       *[other] Si deshabilites les llingüetes contenedores agora, van zarrase { $tabCount } llingüetes contenedores. ¿Daveres que quies deshabilitar llingüetes contenedores?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Zarrar { $tabCount } llingüeta contenedora
+       *[other] Zarrar { $tabCount } llingüetes contenedores
+    }
+containers-disable-alert-cancel-button = Calteneles habilitaes
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Llingua y aspeutu
 fonts-and-colors-header = Fontes y colores
+default-font-size = Tamañu
+    .accesskey = T
 advanced-fonts =
     .label = Avanzaes…
     .accesskey = v
 colors-settings =
     .label = Colores…
     .accesskey = C
+language-header = Llingua
 choose-language-description = Escoyer llingua preferida p'amosar les páxines web
+translate-web-pages =
+    .label = Traducir conteníu web
+    .accesskey = d
+translate-exceptions =
+    .label = Esceiciones…
+    .accesskey = s
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Ficheros y aplicaciones
 download-header = Descargues
 download-save-to =
     .label = Guardar ficheros en
@@ -94,18 +145,40 @@ download-choose-folder =
             [macos] e
            *[other] l
         }
+download-always-ask-where =
+    .label = Entrugar siempres aú guardar los ficheros
+    .accesskey = A
+applications-header = Aplicaciones
+applications-description = Escueye cómo xestiona { -brand-short-name } los ficheros que descargues de la Web o les aplicaciones qu'uses mentanto restoles.
+applications-filter =
+    .placeholder = Guetar tipos de ficheros o aplicaciones
 applications-type-column =
     .label = Mena de conteníu
     .accesskey = M
 applications-action-column =
     .label = Aición
     .accesskey = A
+drm-content-header = Conteníu con Digital Rights Management (DRM)
+play-drm-content-learn-more = Deprender más
+update-application-title = Anovamientos de { -brand-short-name }
+update-application-description = Caltén { -brand-short-name } anováu pa un meyor rindimientu, estabilidá y seguranza.
+update-application-info = Versión { $version } <a>Qué hai nuevo</a>
+update-history =
+    .label = Amosar l'historial d'anovamientos…
+    .accesskey = t
+update-application-allow-description = Permitir a { -brand-short-name }:
 update-application-use-service =
     .label = Usar serviciu en segundu planu pa instalar los anovamientos
     .accesskey = v
 
 ## General Section - Performance
 
+performance-title = Rindimientu
+performance-use-recommended-settings-checkbox =
+    .label = Usar axustes recomendaos de rindimientu
+    .accesskey = U
+performance-use-recommended-settings-desc = Estos axustes adáutense al hardware y sistema operativu del to equipu.
+performance-settings-learn-more = Deprendi más
 
 ## General Section - Browsing
 
@@ -119,9 +192,13 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = Usar siempre les tecles del cursor pa restolar dientro de les páxines
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = Guetar el testu mientres s'escribe
+    .accesskey = s
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy de rede
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
