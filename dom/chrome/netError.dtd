@@ -97,5 +97,4 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> выкарыстоўвае ахоўную тэхналогію, якая з'яўляецца састарэлай і неабароненай падчас атакі. Зламыснік можа лёгка выявіць інфармацыю, якая, як вы думалі, знаходзіцца ў бяспецы. Для таго, каб вы змаглі наведаць вэб-сайт, адміністратар вэб-сайта павінен спачатку выправіць яго сервер. </p><p> Код памылкі: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Старонка заблакавана">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Доступ быў адключаны вашым адміністратарам.</p>">
+<!ENTITY blockedByPolicy.title "Заблакаваная старонка">
