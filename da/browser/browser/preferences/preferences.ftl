@@ -57,9 +57,18 @@ startup-header = Opstart
 separate-profile-mode =
     .label = Tillad { -brand-short-name } og Firefox at køre samtidig
 use-firefox-sync = Tip: Dette gør brug at separate profiler. Brug { -sync-brand-short-name } til at dele data mellem dem.
+get-started-not-logged-in = Log ind på { -sync-brand-short-name }…
+get-started-configured = Åbn indstillinger for { -sync-brand-short-name }
+always-check-default =
+    .label = Undersøg altid om { -brand-short-name } er din standardbrowser
+    .accesskey = U
+is-default = { -brand-short-name } er sat som din standardbrowser
+is-not-default = { -brand-short-name } er ikke din standardbrowser
 set-as-my-default-browser =
     .label = Sæt som standard…
     .accesskey = D
+startup-page = Når { -brand-short-name } starter:
+    .accesskey = t
 startup-user-homepage =
     .label = Vis min startside
 startup-blank-page =
@@ -102,6 +111,9 @@ switch-links-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Vis forhåndsvisning for faneblade på Windows Proceslinje
     .accesskey = W
+browser-containers-enabled =
+    .label = Aktiver kontekst-faneblade
+    .accesskey = A
 browser-containers-learn-more = Læs mere
 browser-containers-settings =
     .label = Indstillinger…
@@ -123,6 +135,10 @@ containers-disable-alert-cancel-button = Deaktiver ikke
 
 language-and-appearance-header = Sprog og udseende
 fonts-and-colors-header = Skrifttyper & farver
+default-font = Standardskrifttype:
+    .accesskey = k
+default-font-size = Størrelse:
+    .accesskey = t
 advanced-fonts =
     .label = Avanceret…
     .accesskey = v
@@ -148,6 +164,9 @@ check-user-spelling =
 
 files-and-applications-title = Filer og programmer
 download-header = Filhentning
+download-save-to =
+    .label = Gem filer i:
+    .accesskey = m
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -162,7 +181,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = Spørg mig altid, hvor filer skal gemmes
     .accesskey = a
+applications-header = Programmer
 applications-description = Vælg, hvordan { -brand-short-name } håndterer filer, du henter fra nettet, og de programmer, du bruger, når du browser.
+applications-filter =
+    .placeholder = Søg efter filtyper eller programmer
 applications-type-column =
     .label = Indholdstype
     .accesskey = I
@@ -177,25 +199,45 @@ play-drm-content-learn-more = Læs mere
 update-application-title = { -brand-short-name }-opdateringer
 update-application-description = Hold { -brand-short-name } opdateret for at få den bedste ydelse, stabilitet og sikkerhed.
 update-application-info = Version { $version }. <a>Nyheder</a>
+update-history =
+    .label = Vis opdateringshistorik…
+    .accesskey = V
 update-application-allow-description = { -brand-short-name } skal
 update-application-auto =
     .label = installere opdateringer automatisk (anbefalet)
     .accesskey = A
+update-application-check-choose =
+    .label = søge efter opdateringer, men lad mig vælge, om de skal installeres
+    .accesskey = S
+update-application-manual =
+    .label = aldrig søge efter opdateringer (frarådes)
+    .accesskey = N
 update-application-use-service =
     .label = bruge en baggrundsservice til at installere opdateringer
     .accesskey = b
+update-enable-search-update =
+    .label = opdatere søgetjenester automatisk
+    .accesskey = g
 
 ## General Section - Performance
 
+performance-title = Ydelse
 performance-use-recommended-settings-checkbox =
     .label = Brug de anbefalede ydelses-indstillinger
     .accesskey = a
 performance-use-recommended-settings-desc = Disse indstillinger er skræddersyede til din computers hardware og operativsystem
 performance-settings-learn-more = Læs mere
+performance-allow-hw-accel =
+    .label = Brug hardware-acceleration hvor muligt
+    .accesskey = g
 performance-limit-content-process-option = Begrænsning af indholds-processer
     .accesskey = i
 performance-limit-content-process-enabled-desc = Når du har mange faneblade åbne samtidig, kan brugen af flere indholdsprocesser forbedre ydelsen, men de vil til gengæld bruge mere hukommelse.
 performance-limit-content-process-disabled-desc = Det er kun muligt at ændre antallet af indholdsprocesser, når du bruger { -brand-short-name } med multiproces slået til. <a>Læs, hvordan du undersøger, om multiproces er slået til</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (standard)
 
 ## General Section - Browsing
 
