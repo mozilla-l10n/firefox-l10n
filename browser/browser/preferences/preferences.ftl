@@ -53,6 +53,9 @@ restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 
 startup-blank-page =
     .label = ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು
+choose-bookmark =
+    .label = ಪುಟಗುರುತನ್ನು ಬಳಸು…
+    .accesskey = B
 restore-default =
     .label = ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರಳಿಸು
     .accesskey = R
@@ -93,6 +96,9 @@ applications-type-column =
 applications-action-column =
     .label = ಕಾರ್ಯ
     .accesskey = A
+update-application-use-service =
+    .label = ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು
+    .accesskey = b
 
 ## General Section - Performance
 
