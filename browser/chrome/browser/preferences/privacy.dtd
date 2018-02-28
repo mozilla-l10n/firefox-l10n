@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Derbyn cwcis trydydd parti">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
+
+<!ENTITY  acceptCookies3.label          "Derbyn cwcis a data gwefan o wefannau">
+<!ENTITY  acceptCookies3.accesskey      "D">
+
+<!ENTITY  blockCookies.label            "Rhwystro cwcis a data gwefan (gall achosi i wefannau dorri)">
+<!ENTITY  blockCookies.accesskey        "R">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Derbyn gwcis trydydd parti a data gwefan">
+<!ENTITY  acceptThirdParty3.pre.accesskey "g">
 <!ENTITY  acceptThirdParty.always.label   "Bob tro">
 <!ENTITY  acceptThirdParty.never.label    "Byth">
 <!ENTITY  acceptThirdParty.visited.label  "O'r ymwelwyd">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Efallai y byddwch eisiau ">
 <!ENTITY  dontrememberActions.clearHistory.label "clirio'r holl hanes presennol">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Clirio Hanes…">
+<!ENTITY  clearHistoryButton.accesskey   "H">
 
 <!ENTITY  privateBrowsingPermanent2.label "Defnyddio'r modd pori preifat bob tro">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
