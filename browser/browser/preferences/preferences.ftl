@@ -226,6 +226,23 @@ update-enable-search-update =
 
 ## General Section - Performance
 
+performance-title = Rendimiento
+performance-use-recommended-settings-checkbox =
+    .label = Usar las configuraciones de rendimiento recomendadas
+    .accesskey = U
+performance-use-recommended-settings-desc = Estas configuraciones se adaptan al hardware y sistema operativo de tu equipo.
+performance-settings-learn-more = Aprender más
+performance-allow-hw-accel =
+    .label = Usa aceleración de hardware cuando esté disponible
+    .accesskey = r
+performance-limit-content-process-option = Número límite de proceso de contenido
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Los procesos de contenido adicionales mejoran el rendimiento cuando se utilizan múltiples pestañas, pero también consumen más memoria.
+performance-limit-content-process-disabled-desc = Es posible modificar el número de procesos de contenido solo con el multiproceso { -brand-short-name }. <a>Aprender a comprobar si el multiproceso está habilitado</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (predeterminado)
 
 ## General Section - Browsing
 
