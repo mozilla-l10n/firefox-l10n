@@ -63,6 +63,9 @@ always-check-default =
     .accesskey = w
 is-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి
 is-not-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు
+set-as-my-default-browser =
+    .label = అప్రమేయం చేయి…
+    .accesskey = D
 startup-page = { -brand-short-name } మొదలైనప్పుడు
     .accesskey = s
 startup-user-homepage =
@@ -132,6 +135,7 @@ containers-disable-alert-cancel-button = అలానే చేతనించ�
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = భాష మరియు రూపురేఖలు
 fonts-and-colors-header = ఫాంట్స్ & రంగులు
 default-font = అప్రమేయ ఫాంటు
     .accesskey = D
@@ -143,6 +147,7 @@ advanced-fonts =
 colors-settings =
     .label = రంగులు…
     .accesskey = C
+language-header = భాష
 choose-language-description = పేజీలను చూపించడానికి మీ ప్రాధాన్య భాషను ఎంచుకోండి
 choose-button =
     .label = ఎంచుకోండి…
@@ -178,6 +183,8 @@ download-always-ask-where =
     .label = ఫైల్సు ఎక్కడ భద్రపరచాలో ఎప్పుడూ మిమ్మల్ని ఆడుగు
     .accesskey = A
 applications-header = అనువర్తనాలు
+applications-filter =
+    .placeholder = ఫైలు రకాన్ని లేదా అనువర్తనాలను శోధించండి
 applications-type-column =
     .label = విషయాంశ రకం
     .accesskey = T
@@ -207,9 +214,17 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = పనితనం
+performance-use-recommended-settings-checkbox =
+    .label = సిఫారసు చేయబడిన పనితనపు అమరికలను వాడండి
+    .accesskey = U
+performance-use-recommended-settings-desc = ఈ సెట్టింగులు మీ కంప్యూటర్ హార్డ్వేర్ మరియు ఆపరేటింగ్ సిస్టంకు అనుగుణంగా ఉంటాయి.
+performance-settings-learn-more = ఇంకా తెలుసుకోండి
 performance-allow-hw-accel =
     .label = అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించు
     .accesskey = r
+performance-limit-content-process-option = కంటెంట్ ప్రాసెస్ పరిమితి
+    .accesskey = L
+performance-limit-content-process-enabled-desc = బహుళ ట్యాబ్లను ఉపయోగిస్తున్నప్పుడు అదనపు కంటెంట్ ప్రాసెస్లు పనితీరును మెరుగుపరుస్తాయి, అయితే మరింత మెమరీని కూడా ఉపయోగిస్తాయి.
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
