@@ -50,6 +50,8 @@ restart-later = తరువాత పునఃప్రారంభించు
 
 ## General Section
 
+startup-blank-page =
+    .label = ఖాళీ పేజీని చూపించు
 
 ## General Section - Language & Appearance
 
