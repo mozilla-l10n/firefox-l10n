@@ -65,6 +65,9 @@ use-current-pages =
            *[other] Pages courantes
         }
     .accesskey = U
+choose-bookmark =
+    .label = Marque-page…
+    .accesskey = m
 restore-default =
     .label = Restaurer la configuration par défaut
     .accesskey = R
@@ -99,6 +102,9 @@ download-choose-folder =
 applications-type-column =
     .label = Type de contenu
     .accesskey = T
+update-application-use-service =
+    .label = Utiliser un service en arrière-plan pour installer les mises à jour
+    .accesskey = s
 
 ## General Section - Performance
 
