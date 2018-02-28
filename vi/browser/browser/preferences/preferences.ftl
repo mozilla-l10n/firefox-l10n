@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Luôn luôn
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Tùy chọn
            *[other] Tùy chỉnh
         }
@@ -46,5 +47,66 @@ feature-enable-requires-restart = { -brand-short-name } phải khởi động l�
 feature-disable-requires-restart = { -brand-short-name } phải khởi động lại để vô hiệu hóa tính năng này.
 should-restart-title = Khởi động lại { -brand-short-name }
 should-restart-ok = Khởi động lại { -brand-short-name } ngay
-revert-no-restart-button = Phục hồi
 restart-later = Khởi động lại sau
+
+## General Section
+
+startup-header = Khởi động
+startup-blank-page =
+    .label = Hiện một trang trống
+restore-default =
+    .label = Khôi phục về Mặc định
+    .accesskey = M
+
+## General Section - Language & Appearance
+
+advanced-fonts =
+    .label = Nâng cao…
+    .accesskey = o
+colors-settings =
+    .label = Màu sắc…
+    .accesskey = M
+choose-language-description = Chọn ngôn ngữ ưu tiên bạn muốn để hiển thị trang
+choose-button =
+    .label = Chọn…
+    .accesskey = C
+
+## General Section - Files and Applications
+
+download-header = Tải xuống
+download-save-to =
+    .label = Lưu các tập tin vào
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Chọn…
+           *[other] Duyệt…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] n
+           *[other] y
+        }
+applications-type-column =
+    .label = Kiểu dữ liệu
+    .accesskey = K
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Duyệt
+browsing-use-autoscroll =
+    .label = Tự động cuộn
+    .accesskey = u
+browsing-use-smooth-scrolling =
+    .label = Cuộn uyển chuyển
+    .accesskey = y
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Thiết lập…
+    .accesskey = p
