@@ -200,6 +200,7 @@ play-drm-content =
 play-drm-content-learn-more = Докладніше
 update-application-title = Оновлення { -brand-short-name }
 update-application-description = Використовуйте найновішу версію { -brand-short-name } для найкращої швидкодії, стабільності й безпеки.
+update-application-info = Версія { $version } <a>Що нового</a>
 update-history =
     .label = Показати історію оновлень…
     .accesskey = с
