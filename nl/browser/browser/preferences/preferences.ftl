@@ -170,6 +170,17 @@ download-header = Downloads
 download-save-to =
     .label = Bestanden opslaan in
     .accesskey = o
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Kiezen…
+           *[other] Bladeren…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] z
+           *[other] d
+        }
 download-always-ask-where =
     .label = Altijd vragen waar bestanden moeten worden opgeslagen
     .accesskey = r
@@ -243,6 +254,9 @@ browsing-use-smooth-scrolling =
 browsing-use-onscreen-keyboard =
     .label = Een schermtoetsenbord tonen wanneer nodig
     .accesskey = c
+browsing-use-cursor-navigation =
+    .label = Altijd de pijltoetsen gebruiken om binnen pagina’s te navigeren
+    .accesskey = o
 browsing-search-on-start-typing =
     .label = Naar tekst zoeken wanneer u begint met typen
     .accesskey = t
