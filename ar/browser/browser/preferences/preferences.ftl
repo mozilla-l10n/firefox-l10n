@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = دائمًا
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] الخيارات
            *[other] التفضيلات
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = يجب إعادة تشغيل { -brand-short-na
 feature-disable-requires-restart = يجب إعادة تشغيل { -brand-short-name } لتعطيل هذه الخاصية.
 should-restart-title = أعِد تشغيل { -brand-short-name }
 should-restart-ok = أعد تشغيل { -brand-short-name } الآن
+cancel-no-restart-button = ألغِ
 restart-later = أعِد التشغيل لاحقًا
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = اعرض صفحتي الرئيسية
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] استخدم الصفحة الحالية
            *[other] استخدم الصفحات الحالية
         }
@@ -122,16 +121,14 @@ browser-containers-settings =
     .label = الإعدادات…
     .accesskey = د
 containers-disable-alert-title = أأغلق كل الألسنة الحاوية؟
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] إذا عطلت الألسنة الحاوية الآن فسيغلق لسان حاو. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
         [two] إذا عطلت الألسنة الحاوية الآن فسيغلق لسانين حاويين. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
         [few] إذا عطلت الألسنة الحاوية الآن فستغلق { $tabCount } ألسنة حاوية. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
         [many] إذا عطلت الألسنة الحاوية الآن فسيغلق { $tabCount } لسانًا حاويًا. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
        *[other] إذا عطلت الألسنة الحاوية الآن فسيغلق { $tabCount } لسان حاو. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] أغلق اللسان الحاوي
         [two] أغلق اللسانين الحاويين
         [few] أغلق { $tabCount } ألسنة حاوية
@@ -177,13 +174,11 @@ download-save-to =
     .label = احفظ الملفّات في
     .accesskey = ظ
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] اختر…
            *[other] تصفّح…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] ت
            *[other] ص
         }
