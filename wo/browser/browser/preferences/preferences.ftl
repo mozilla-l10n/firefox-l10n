@@ -97,6 +97,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Jëfandikoo xiiralu masin bi su feexee
+    .accesskey = n
 
 ## General Section - Browsing
 
