@@ -57,10 +57,22 @@ startup-header = Inicio
 separate-profile-mode =
     .label = Permitir que { -brand-short-name } y Firefox corran de vez
 use-firefox-sync = Consello: Isto fa servir perfils deseparaus. Faiga servir { -sync-brand-short-name } pa compartir datos entre ells.
+get-started-not-logged-in = Dentrar en { -sync-brand-short-name }…
+get-started-configured = Ubrir las preferencias de { -sync-brand-short-name }
+always-check-default =
+    .label = Comprebar siempre si lo { -brand-short-name } ye o suyo navegador por defecto
+    .accesskey = o
 is-default = { -brand-short-name } ye agora o suyo navegador por defecto
 is-not-default = { -brand-short-name } no ye o suyo navegador por defecto
+startup-page = Quan s'enchegue lo { -brand-short-name }:
+    .accesskey = e
+startup-user-homepage =
+    .label = Amostrar la mía pachina d'inicio
 startup-blank-page =
     .label = Amostrar una pachina en blanco
+startup-prev-session =
+    .label = Amostrar las mías finestras y pestanyas d'a zaguer vegada
+home-page-header = Amostrar la mía pachina d'inicio
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -79,13 +91,48 @@ restore-default =
     .label = Restaurar ta la valura por defecto
     .accesskey = v
 tabs-group-header = Pestanyas
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab cambia de pestanya en orden d'uso mas recient
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Alvertir-me en zarrar multiples pestanyas
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Alvertir-me quan ubrir multiples pestanyas pueda enlentir lo { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = En ubrir un vinclo en una nueva pestanya, cambiar enta ista de camín
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Amostrar miniaturas d'as pestanyas en a barra de quefers de Windows
     .accesskey = n
+browser-containers-enabled =
+    .label = Habilitar las pestanyas de contenedor
+    .accesskey = H
+browser-containers-learn-more = Saber-ne mas
+browser-containers-settings =
+    .label = Configuración…
+    .accesskey = g
+containers-disable-alert-title = Zarrar totas las pestanyas de contenedor?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Si desactiva agora las pestanyas de contenedor, se zarrará { $tabCount } pestanya de contenedor. Ye seguro de fer-lo?
+       *[other] Si desactiva agora las pestanyas de contenedor, se zarrará { $tabCount } pestanyas de contenedor. Ye seguro de fer-lo?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Zarrar { $tabCount } pestanya de contenedor
+       *[other] Zarrar { $tabCount } pestanyas de contenedor
+    }
+containers-disable-alert-cancel-button = Mantener habilitadas
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Fuents y Colors
+default-font = Tipografía por defecto:
+    .accesskey = d
+default-font-size = Mida:
+    .accesskey = M
 advanced-fonts =
     .label = Abanzadas…
     .accesskey = A
@@ -102,6 +149,9 @@ translate-web-pages =
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
+check-user-spelling =
+    .label = Comprebar la ortografía entre que escribo
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -120,6 +170,12 @@ download-choose-folder =
             [macos] T
            *[other] x
         }
+download-always-ask-where =
+    .label = Preguntar-me siempre aón alzar los fichers
+    .accesskey = a
+applications-header = Aplicacions
+applications-filter =
+    .placeholder = Mirar los tipos de fichers u aplicacions
 applications-type-column =
     .label = Mena de conteniu
     .accesskey = M
@@ -127,12 +183,36 @@ applications-action-column =
     .label = Acción
     .accesskey = A
 play-drm-content-learn-more = Mas información
+update-application-title = Actualizacions d'o { -brand-short-name }:
+update-history =
+    .label = Amostrar l'historial d'actualizacions
+    .accesskey = h
+update-application-allow-description = Permitir a { -brand-short-name }
+update-application-check-choose =
+    .label = Comprebar as actualizacions, pero deixar-me trigar si las quiero instalar
+    .accesskey = C
+update-application-manual =
+    .label = No comprebar nunca las actualizacions
+    .accesskey = N
 update-application-use-service =
     .label = Instalar as actualizacions en un segundo plan
     .accesskey = p
+update-enable-search-update =
+    .label = Esviellar automaticament los motors de busca
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Rendimiento
+performance-allow-hw-accel =
+    .label = Usar l'acceleración d'hardware quan sía disponible
+    .accesskey = r
+performance-limit-content-process-option = Limite de procesado de conteniu
+    .accesskey = L
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (por defecto)
 
 ## General Section - Browsing
 
@@ -143,9 +223,15 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Usar o desplazamiento suau
     .accesskey = d
+browsing-use-onscreen-keyboard =
+    .label = Amostrar un teclau tactil quan siga necesario
+    .accesskey = t
 browsing-use-cursor-navigation =
     .label = Fer servir siempre as teclas d'o cursor ta navegar endentro d'as pachinas
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = Mirar textos malas que s'escomienza a tecliar
+    .accesskey = x
 
 ## General Section - Proxy
 
