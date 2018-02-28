@@ -55,6 +55,12 @@ startup-header = Запуск
 choose-bookmark =
     .label = Ужыць закладку…
     .accesskey = з
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Закрыць { $tabCount } картку ў кантэйнеры
+        [few]  Закрыць { $tabCount } карткі ў кантэйнеры
+       *[many]  Закрыць { $tabCount } картак у кантэйнеры
+    }
 
 ## General Section - Language & Appearance
 
