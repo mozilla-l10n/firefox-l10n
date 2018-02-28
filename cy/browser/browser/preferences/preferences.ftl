@@ -54,6 +54,13 @@ restart-later = Ailgychwyn Rhywbryd Eto
 startup-header = Cychwyn
 startup-blank-page =
     .label = Dangos tudalen wag
+choose-bookmark =
+    .label = Defnyddio Nod Tudalen…
+    .accesskey = N
+tabs-group-header = Tabiau
+show-tabs-in-taskbar =
+    .label = Dangos rhagolwg tab ym mar tasgau Windows
+    .accesskey = D
 
 ## General Section - Language & Appearance
 
