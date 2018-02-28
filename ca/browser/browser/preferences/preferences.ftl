@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Mostra una pàgina en blanc
 startup-prev-session =
     .label = Mostra les finestres i pestanyes de la darrera vegada
+disable-extension =
+    .label = Inhabilita l'extensió
 home-page-header = Mostra la pàgina d'inici
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -195,6 +197,7 @@ play-drm-content =
     .accesskey = p
 play-drm-content-learn-more = Més informació
 update-application-title = Actualitzacions del { -brand-short-name }
+update-application-description = Manteniu el { -brand-short-name } actualitzat per obtenir el millor rendiment, estabilitat i seguretat.
 update-application-info = Versió { $version } <a>Novetats</a>
 update-history =
     .label = Mostra l'historial d'actualitzacions…
@@ -219,11 +222,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Rendiment
+performance-use-recommended-settings-checkbox =
+    .label = Utilitza els paràmetres de rendiment recomanats
+    .accesskey = U
+performance-use-recommended-settings-desc = Aquests paràmetres estan personalitzats per al maquinari i sistema operatiu del vostre ordinador.
+performance-settings-learn-more = Més informació
 performance-allow-hw-accel =
     .label = Utilitza l'acceleració de maquinari quan sigui disponible
     .accesskey = r
 performance-limit-content-process-option = Límit de processos de contingut
     .accesskey = L
+performance-limit-content-process-enabled-desc = Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.
+performance-limit-content-process-disabled-desc = El nombre de processos de contingut només es pot modificar amb el { -brand-short-name } multiprocés. <a>Més informació sobre com comprovar si el multiprocés està activat.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
