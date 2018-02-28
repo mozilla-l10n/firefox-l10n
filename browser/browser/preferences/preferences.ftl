@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = সর্বদা
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] বিকল্প
            *[other] পছন্দ
         }
@@ -46,5 +47,26 @@ feature-enable-requires-restart = এই বৈশিষ্ট্যটি স�
 feature-disable-requires-restart = এই বৈশিষ্ট্যটি নিষ্ক্রিয় করতে { -brand-short-name } কে পুনরারম্ভ করা আবশ্যক.
 should-restart-title = { -brand-short-name } পুনরারম্ভ করুন
 should-restart-ok = { -brand-short-name } এখনই পুনরায় শুরু করুন
-revert-no-restart-button = পূর্বাবস্থায় ফিরুন
 restart-later = পরে পুনরারম্ভ করুন
+
+## General Section
+
+startup-blank-page =
+    .label = ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-header = ডাউনলোড
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = ব্রাউজ করা
+
+## General Section - Proxy
+
