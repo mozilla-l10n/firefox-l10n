@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sahaa kala
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Cuɓe
            *[other] Cuɓoraaɗe
         }
@@ -46,5 +47,189 @@ feature-enable-requires-restart = { -brand-short-name } maa hurmita ngam daaƴtu
 feature-disable-requires-restart = { -brand-short-name } maa hurmita ngam daaƴde oo fannu.
 should-restart-title = Hurmitin { -brand-short-name }
 should-restart-ok = Hurmitin { -brand-short-name } jooni
-revert-no-restart-button = Waklit
 restart-later = Hurmitin so Ɓooyii
+
+## General Section
+
+startup-header = Kurmital
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Yamir { -brand-short-name } e Firefox yoo kurmu kañje ɗiɗi kala
+use-firefox-sync = Ƴoƴel: Ɗuum huutorto ko keftinirɗe ceertuɗe. Huutoro { -sync-brand-short-name } ngam lollinde keɓe hakkunde majje.
+get-started-not-logged-in = Seŋo to { -sync-brand-short-name }…
+get-started-configured = Uddit Cuɓoraaɗe { -sync-brand-short-name }
+always-check-default =
+    .label = Ƴeewto sahaa kala so { -brand-short-name } ko wanngorde maa woowaande
+    .accesskey = t
+is-default = { -brand-short-name } ko wanngoraade maa woowaande oo sahaa
+is-not-default = { -brand-short-name } wonaa wanngoraade maa woowaande
+startup-user-homepage =
+    .label = Hollu hello maa jaɓɓorgo
+startup-blank-page =
+    .label = Hollu hello meho
+startup-prev-session =
+    .label = Hollit kenorɗe maa ɗee e tabbe cakkitiiɗe
+home-page-header = Hollu hello maa jaɓɓorgo
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Huutoro Hello Wonaango
+           *[other] Huutoro Kelle Gonaaɗe Ɗee
+        }
+    .accesskey = W
+choose-bookmark =
+    .label = Huutoro Maantorol…
+    .accesskey = M
+restore-default =
+    .label = Artir e Goowaaɗo
+    .accesskey = A
+tabs-group-header = Tabbe
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab yaaɓat hakkunde tabbe e gorol kuutoragol ɓennungol
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Reentin am so tabbe keewɗe ine uddidee
+    .accesskey = k
+warn-on-open-many-tabs =
+    .label = Reentin am so udditgol tabbe keewɗe ena keɓori leeltinde { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = So mi udditii jokkol e tabbere hesere, naat e mayre ɗoon e ɗoon
+    .accesskey = m
+show-tabs-in-taskbar =
+    .label = Hollir jiytinde ɗee e palal golle Windows
+    .accesskey = g
+browser-containers-enabled =
+    .label = Hurmin Tabbe Mooftirɗe
+    .accesskey = n
+browser-containers-learn-more = Ɓeydu humpito
+browser-containers-settings =
+    .label = Teelte…
+    .accesskey = l
+containers-disable-alert-title = Uddu Tabbe Mooftirɗe Kala?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] So a daaƴii Tabbe Mooftirɗe jooni, tabbere mooftirde { $tabCount } maa udde. Aɗa yenanaa yiɗde daaƴde Tabbe Mooftirɗe?
+       *[other] So a daaƴii Tabbe Mooftirɗe jooni, Tabbe Mooftirɗe { $tabCount } maa udde. Aɗa yenanaa yiɗde daaƴde Tabbe Mooftirɗe?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Uddu Tabbere Mooftirde { $tabCount }
+       *[other] Uddu Tabbe Mooftirɗe { $tabCount }
+    }
+containers-disable-alert-cancel-button = Woppu hurma
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Ponte & Nooneeji
+default-font = Fontere woowaande:
+    .accesskey = F
+default-font-size = Ɓetol:
+    .accesskey = Ɓ
+advanced-fonts =
+    .label = Ceeɓtore…
+    .accesskey = C
+colors-settings =
+    .label = Nooneeji…
+    .accesskey = N
+choose-language-description = Suɓo ɗemngal njiɗ-ɗaa ngam jaytinde kelle
+choose-button =
+    .label = Suɓo…
+    .accesskey = u
+translate-web-pages =
+    .label = Fir loowdi geese
+    .accesskey = F
+translate-exceptions =
+    .label = Paltooje…
+    .accesskey = a
+check-user-spelling =
+    .label = Ƴeewto mbinndiin am so miɗo tappa
+    .accesskey = b
+
+## General Section - Files and Applications
+
+download-header = Gaawte
+download-save-to =
+    .label = Danndu piille to
+    .accesskey = n
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Suɓo…
+           *[other] Yiylo…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] y
+        }
+download-always-ask-where =
+    .label = Kala sahaa naamno mi ɗo piille ndaɗndetee
+    .accesskey = K
+applications-header = Jaaɓnirɗe
+applications-filter =
+    .placeholder = Yiylo sifaaji piille walla jaaɓnirɗe
+applications-type-column =
+    .label = Fannu Loowdi
+    .accesskey = L
+applications-action-column =
+    .label = Baɗal
+    .accesskey = B
+play-drm-content-learn-more = Ɓeydu humpito
+update-application-title = Kesɗitine { -brand-short-name }:
+update-history =
+    .label = Hollu Daartol Kesɗitine
+    .accesskey = e
+update-application-allow-description = Yamir { -brand-short-name } to
+update-application-check-choose =
+    .label = Yuurnito kesɗitine, kono woppu am mi suɓoo aafat ɗe
+    .accesskey = Y
+update-application-manual =
+    .label = Hoto yuurnito kesɗitine (wasiyaaka)
+    .accesskey = u
+update-application-use-service =
+    .label = Huutoro carwol cakkitol ngam aafde kesɗitine
+    .accesskey = c
+update-enable-search-update =
+    .label = Kesɗitingol ajaaja jiylorɗe
+    .accesskey = l
+
+## General Section - Performance
+
+performance-title = Jaawgol golle 
+performance-allow-hw-accel =
+    .label = Huutoro moylinol masiŋeeri so ena woodi
+    .accesskey = m
+performance-limit-content-process-option = Kaaɗtudi silsil loowdi
+    .accesskey = K
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = Huutoro { $num } (goowaaɗo)
+
+## General Section - Browsing
+
+browsing-title = Nana feeroo
+browsing-use-smooth-scrolling =
+    .label = Huutoro woragol teeyngol
+    .accesskey = t
+browsing-use-onscreen-keyboard =
+    .label = Hollu tappirde memto so soklaama
+    .accesskey = k
+browsing-use-cursor-navigation =
+    .label = Huutoro ñiiƴe jamngel ngel ngam feeraade e nder kelle
+    .accesskey = g
+browsing-search-on-start-typing =
+    .label = Yiylo binndi so mi fuɗɗiima tappude
+    .accesskey = n
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Teelte…
+    .accesskey = e
