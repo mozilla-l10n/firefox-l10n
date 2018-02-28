@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = เสมอ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ตัวเลือก
            *[other] ค่ากำหนด
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = { -brand-short-name } ต้องเริ่
 feature-disable-requires-restart = { -brand-short-name } ต้องเริ่มการทำงานใหม่เพื่อปิดใช้งานคุณลักษณะนี้
 should-restart-title = เริ่มการทำงาน { -brand-short-name } ใหม่
 should-restart-ok = เริ่มการทำงาน { -brand-short-name } ใหม่ตอนนี้
-revert-no-restart-button = เปลี่ยนกลับ
 restart-later = เริ่มการทำงานใหม่ในภายหลัง
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
