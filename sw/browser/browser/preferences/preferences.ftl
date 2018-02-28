@@ -44,9 +44,13 @@ use-current-pages =
            *[other] Tumia Kurasa za Sasa
         }
     .accesskey = U
+choose-bookmark =
+    .label = Tumia Alamisho…
+    .accesskey = A
 restore-default =
     .label = Rudisha kwa Chaguo Msingi
     .accesskey = R
+tabs-group-header = Vichupo
 show-tabs-in-taskbar =
     .label = Onyesha vihakiki vya kichupo katika mwambaa wa kazi wa Windows
     .accesskey = m
