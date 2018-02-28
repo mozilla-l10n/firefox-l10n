@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = alati
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Sätted
            *[other] Eelistused
         }
@@ -46,5 +47,28 @@ feature-enable-requires-restart = Selle funktsiooni lubamiseks tuleb { -brand-sh
 feature-disable-requires-restart = Selle funktsiooni keelamiseks tuleb { -brand-short-name } taaskäivitada.
 should-restart-title = { -brand-short-name }i taaskäivitamine
 should-restart-ok = Taaskäivita { -brand-short-name } nüüd
-revert-no-restart-button = Võta tagasi
 restart-later = Taaskäivita hiljem
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+applications-type-column =
+    .label = Sisu tüüp
+    .accesskey = S
+applications-action-column =
+    .label = Tegevus
+    .accesskey = T
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
