@@ -51,35 +51,176 @@ restart-later = Перезапустить позже
 
 ## General Section
 
+startup-header = Запуск
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Разрешить одновременный запуск { -brand-short-name } и Firefox
+use-firefox-sync = Совет: При этом используются отдельные профили. Используйте Синхронизацию для обмена между ними данными.
+get-started-not-logged-in = Войти в Синхронизацию…
+get-started-configured = Открыть настройки Синхронизации
+always-check-default =
+    .label = Всегда проверять, является ли { -brand-short-name } вашим браузером по умолчанию
+    .accesskey = а
+is-default = В настоящий момент { -brand-short-name } является вашим браузером по умолчанию
+is-not-default = { -brand-short-name } не является вашим браузером по умолчанию
 set-as-my-default-browser =
     .label = Установить по умолчанию…
     .accesskey = н
+startup-page = При запуске { -brand-short-name }
+    .accesskey = и
 startup-user-homepage =
     .label = Показать домашнюю страницу
+startup-blank-page =
+    .label = Показать пустую страницу
+startup-prev-session =
+    .label = Показать окна и вкладки, открытые в прошлый раз
 home-page-header = Показать домашнюю страницу
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Использовать текущую страницу
+           *[other] Использовать текущие страницы
+        }
+    .accesskey = п
+choose-bookmark =
+    .label = Использовать закладку…
+    .accesskey = в
+restore-default =
+    .label = Восстановить по умолчанию
+    .accesskey = о
+tabs-group-header = Вкладки
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab переключает между вкладками в порядке недавнего использования
+    .accesskey = ж
 open-new-link-as-tabs =
     .label = Открывать ссылки во вкладках вместо новых окон
     .accesskey = ы
+warn-on-close-multiple-tabs =
+    .label = Предупреждать при закрытии нескольких вкладок
+    .accesskey = д
+warn-on-open-many-tabs =
+    .label = Предупреждать, когда открытие нескольких вкладок может замедлить { -brand-short-name }
+    .accesskey = р
+switch-links-to-new-tabs =
+    .label = Переключаться на открываемую вкладку
+    .accesskey = к
+show-tabs-in-taskbar =
+    .label = Отображать эскизы вкладок на панели задач Windows
+    .accesskey = б
+browser-containers-enabled =
+    .label = Включить «Вкладки в контейнере»
+    .accesskey = ч
+browser-containers-learn-more = Подробнее
+browser-containers-settings =
+    .label = Параметры…
+    .accesskey = м
+containers-disable-alert-title = Закрыть все вкладки в контейнере?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Если вы отключите сейчас вкладки в контейнере, { $tabCount } вкладка в контейнере будет закрыта. Вы уверены, что хотите отключить вкладки в контейнере?
+        [few] Если вы отключите сейчас вкладки в контейнере, { $tabCount } вкладки в контейнере будут закрыты. Вы уверены, что хотите отключить вкладки в контейнере?
+       *[many] Если вы отключите сейчас вкладки в контейнере, { $tabCount } вкладок в контейнере будут закрыты. Вы уверены, что хотите отключить вкладки в контейнере?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Закрыть { $tabCount } вкладку в контейнере
+        [few] Закрыть { $tabCount } вкладки в контейнере
+       *[many] Закрыть { $tabCount } вкладок в контейнере
+    }
+containers-disable-alert-cancel-button = Оставить включёнными
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Язык и внешний вид
+fonts-and-colors-header = Шрифты и цвета
+default-font = Шрифт по умолчанию
+    .accesskey = ф
+default-font-size = Размер
+    .accesskey = м
+advanced-fonts =
+    .label = Дополнительно…
+    .accesskey = н
+colors-settings =
+    .label = Цвета…
+    .accesskey = в
 language-header = Язык
+choose-language-description = Выберите язык, предпочитаемый вами для отображения веб-страниц
+choose-button =
+    .label = Выбрать…
+    .accesskey = ы
+translate-web-pages =
+    .label = Перевод веб-страниц
+    .accesskey = и
+translate-exceptions =
+    .label = Исключения…
+    .accesskey = л
+check-user-spelling =
+    .label = Проверять орфографию при наборе текста
+    .accesskey = в
 
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлы и Приложения
+download-header = Загрузки
 download-save-to =
     .label = Путь для сохранения файлов
     .accesskey = ь
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Выбрать…
+           *[other] Обзор…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ы
+           *[other] б
+        }
+download-always-ask-where =
+    .label = Всегда выдавать запрос на сохранение файлов
+    .accesskey = е
+applications-header = Приложения
+applications-description = Выберите, как { -brand-short-name } будет обрабатывать файлы, загружаемые из Интернета, или приложения, используемые при работе в Интернете.
+applications-filter =
+    .placeholder = Поиск типов файлов или приложений
+applications-type-column =
+    .label = Тип содержимого
+    .accesskey = о
+applications-action-column =
+    .label = Действие
+    .accesskey = е
 drm-content-header = Содержимое использующее технические средства защиты авторских прав (DRM)
 play-drm-content =
     .label = Воспроизводить контролируемое DRM содержимое
     .accesskey = п
+play-drm-content-learn-more = Подробнее
+update-application-title = Обновления { -brand-short-name }
 update-application-description = Используйте последнюю версию { -brand-short-name } для наилучшей производительности, стабильности и безопасности.
+update-application-info = Версия { $version } <a>Что нового</a>
+update-history =
+    .label = Показать журнал обновлений…
+    .accesskey = ж
+update-application-allow-description = Разрешить { -brand-short-name }
 update-application-auto =
     .label = Автоматически устанавливать обновления (рекомендуется)
     .accesskey = ч
+update-application-check-choose =
+    .label = Проверять наличие обновлений, но позволять вам решать, устанавливать ли их
+    .accesskey = в
+update-application-manual =
+    .label = Никогда не проверять наличие обновлений (не рекомендуется)
+    .accesskey = и
+update-application-use-service =
+    .label = Использовать фоновую службу для установки обновлений
+    .accesskey = ф
+update-enable-search-update =
+    .label = Автоматически обновлять поисковые системы
+    .accesskey = л
 
 ## General Section - Performance
 
@@ -91,8 +232,27 @@ performance-limit-content-process-disabled-desc = Изменение числа 
 
 ## General Section - Browsing
 
+browsing-title = Просмотр сайтов
+browsing-use-autoscroll =
+    .label = Использовать автоматическую прокрутку
+    .accesskey = с
+browsing-use-smooth-scrolling =
+    .label = Использовать плавную прокрутку
+    .accesskey = о
+browsing-use-onscreen-keyboard =
+    .label = При необходимости отображать сенсорную клавиатуру
+    .accesskey = н
+browsing-use-cursor-navigation =
+    .label = Всегда использовать клавиши курсора для навигации по страницам
+    .accesskey = к
+browsing-search-on-start-typing =
+    .label = Искать текст на странице по мере его набора
+    .accesskey = а
 
 ## General Section - Proxy
 
 network-proxy-title = Прокси-сервер
 network-proxy-connection-learn-more = Подробнее
+network-proxy-connection-settings =
+    .label = Настроить…
+    .accesskey = с
