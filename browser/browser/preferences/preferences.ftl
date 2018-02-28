@@ -217,11 +217,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Jaawgol golle 
+performance-use-recommended-settings-checkbox =
+    .label = Huutoro teelte jaawgol golle basiyaaɗe ɗee
+    .accesskey = H
+performance-use-recommended-settings-desc = Ɗee teelte ina njahdi e kaɓirɗe kam e dognirgal ordinateer maa.
+performance-settings-learn-more = Jokku taro
 performance-allow-hw-accel =
     .label = Huutoro moylinol masiŋeeri so ena woodi
     .accesskey = m
 performance-limit-content-process-option = Kaaɗtudi silsil loowdi
     .accesskey = K
+performance-limit-content-process-enabled-desc = Silsilaaji loowdi ɓeydaaɗi ina mbaawi ɓeydude kattanɗe golle so tabbe keewɗe ina kuutoree, kono ina kuutoroo teskorde ɓurnde heewde.
+performance-limit-content-process-disabled-desc = Baylugol keeweendi silsilaaji loowdi aaɓnodtoo tan ko e keewal silsilaaji { -brand-short-name }. <a>Humpito hol no hoolkisortee keewal silsilaaji koko hurminaa</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
