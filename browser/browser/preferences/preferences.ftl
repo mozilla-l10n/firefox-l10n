@@ -32,6 +32,9 @@ should-restart-title = { -brand-short-name }-г шинээр ачаал
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Нэмэлт…
+    .accesskey = м
 choose-language-description = Хуудас харуулахад хэрэглэгдэх хэлээ сонгоно уу
 choose-button =
     .label = Сонго…
