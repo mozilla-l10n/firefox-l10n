@@ -33,7 +33,7 @@
 <!ENTITY bounceSystemDockIcon.label       "ხატულას ანიმაცია">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
 
-<!ENTITY playSound.label                  "ხმოვანი სიგნალი">
+<!ENTITY playSound.label                  "გახმოვანება">
 <!ENTITY playSound.accesskey              "P">
 <!ENTITY playButton.label                 "გახმოვანება">
 <!ENTITY playButton.accesskey             "l">

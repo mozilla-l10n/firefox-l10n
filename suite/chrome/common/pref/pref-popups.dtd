@@ -13,7 +13,7 @@
 <!ENTITY viewPermissions.accesskey      "M">
 
 <!ENTITY whenBlock.description          "ფირნიშების დაბლოკვისას:">
-<!ENTITY playSound.label                "ხმოვანი სიგნალი:">
+<!ENTITY playSound.label                "გახმოვანება:">
 <!ENTITY playSound.accesskey            "P">
 <!ENTITY systemSound.label              "სისტემური სიგნალი">
 <!ENTITY systemSound.accesskey          "S">
