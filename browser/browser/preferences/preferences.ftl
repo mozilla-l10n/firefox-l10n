@@ -64,6 +64,9 @@ always-check-default =
     .accesskey = V
 is-default = { -brand-short-name } je trenutno vaš privzeti brskalnik
 is-not-default = { -brand-short-name } ni vaš privzeti brskalnik
+set-as-my-default-browser =
+    .label = Nastavi za privzeto …
+    .accesskey = N
 startup-page = Ko se { -brand-short-name } zažene,
     .accesskey = K
 startup-user-homepage =
@@ -96,6 +99,9 @@ tabs-group-header = Zavihki
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kroži med zavihki po vrsti, kot so bili nazadnje uporabljeni
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Odpiraj povezave v zavihkih namesto v novih oknih
+    .accesskey = d
 warn-on-close-multiple-tabs =
     .label = Opozori ob zapiranju več zavihkov hkrati
     .accesskey = z
@@ -134,6 +140,7 @@ containers-disable-alert-cancel-button = Pusti omogočeno
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Jezik in videz
 fonts-and-colors-header = Pisave in barve
 default-font = Privzeta pisava
     .accesskey = P
@@ -145,6 +152,7 @@ advanced-fonts =
 colors-settings =
     .label = Barve …
     .accesskey = B
+language-header = Jezik
 choose-language-description = Izberite prednosten jezik za prikazovanje strani
 choose-button =
     .label = Izberi …
@@ -161,6 +169,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Datoteke in programi
 download-header = Prenosi
 download-save-to =
     .label = Shrani datoteke v
@@ -189,12 +198,21 @@ applications-type-column =
 applications-action-column =
     .label = Dejanje
     .accesskey = A
+drm-content-header = Vsebina upravljanja digitalnih pravic (DRM)
+play-drm-content =
+    .label = Predvajaj vsebino, zaščiteno z DRM
+    .accesskey = P
 play-drm-content-learn-more = Več o tem
 update-application-title = Posodobitve { -brand-short-name }a
+update-application-description = Ohranite { -brand-short-name } posodobljen za najboljšo zmogljivost, stabilnost in varnost.
+update-application-info = Različica { $version } <a>Novosti</a>
 update-history =
     .label = Prikaži zgodovino posodobitev …
     .accesskey = z
 update-application-allow-description = { -brand-short-name } naj
+update-application-auto =
+    .label = samodejno namešča posodobitve (priporočeno)
+    .accesskey = S
 update-application-check-choose =
     .label = preverja posodobitve, vendar vam prepusti odločitev o nameščanju
     .accesskey = o
@@ -211,7 +229,14 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Učinkovitost
+performance-use-recommended-settings-checkbox =
+    .label = Uporabi priporočene nastavitve učinkovitosti
+    .accesskey = p
 performance-use-recommended-settings-desc = Te nastavitve so prikrojene strojni opremi in operacijskemu sistemu vašega računalnika.
+performance-settings-learn-more = Več o tem
+performance-allow-hw-accel =
+    .label = Uporabljaj strojno pospeševanje, ko je na voljo
+    .accesskey = U
 performance-limit-content-process-option = Omejitev procesov vsebine
     .accesskey = O
 performance-limit-content-process-enabled-desc = Dodatni procesi vsebine lahko pospešijo delovanje pri uporabi večjega števila zavihkov, a tudi porabijo več pomnilnika.
@@ -242,6 +267,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Omrežni posrednik
+network-proxy-connection-learn-more = Več o tem
 network-proxy-connection-settings =
     .label = Nastavitve …
     .accesskey = n
