@@ -118,7 +118,16 @@ browser-containers-enabled =
     .label = Povolit kontejnerové panely
     .accesskey = n
 browser-containers-learn-more = Zjistit více
+browser-containers-settings =
+    .label = Nastavení…
+    .accesskey = v
 containers-disable-alert-title = Zavřít všechny kontejnerové panely?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Zakážete-li kontejnerové panely, bude zavřen { $tabCount } kontejnerový panel. Opravdu chcete zakázat kontejnerové panely?
+        [few] Zakážete-li kontejnerové panely, budou zavřeny { $tabCount } kontejnerové panely. Opravdu chcete zakázat kontejnerové panely?
+       *[other] Zakážete-li kontejnerové panely, bude zavřeno { $tabCount } kontejnerových panelů. Opravdu chcete zakázat kontejnerové panely?
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Zavřít { $tabCount } kontejnerový panel
