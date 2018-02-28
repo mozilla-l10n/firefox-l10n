@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Altyd
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opsjes
            *[other] Opsjes
         }
@@ -46,5 +47,25 @@ feature-enable-requires-restart = { -brand-short-name } moat opnij starte om diz
 feature-disable-requires-restart = { -brand-short-name } moat opnij starte om dizze funksje út te skeakeljen.
 should-restart-title = { -brand-short-name } opnij starte
 should-restart-ok = { -brand-short-name } no opnij starte
-revert-no-restart-button = Ungedien meitsje
 restart-later = Letter opnij starte
+
+## General Section
+
+startup-header = Opstarte
+startup-blank-page =
+    .label = In lege side toane
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
