@@ -99,6 +99,9 @@ tabs-group-header = टैब
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab टैब्स के द्वारा हाल ही में उपयोग किये गये अनुक्रम में घूमता है 
     .accesskey = T
+open-new-link-as-tabs =
+    .label = लिंकों को नये विंडो में खोलने के बदले टैब में खोलें
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = आपको चेताएँ जब कई टैब बंद करते हैं
     .accesskey = m
@@ -261,6 +264,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = नेटवर्क प्रॉक्सी
+network-proxy-connection-learn-more = अधिक जानें
 network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
