@@ -74,6 +74,8 @@ startup-blank-page =
     .label = Prikaži praznu stranicu
 startup-prev-session =
     .label = Prikaži prozore i kartice od prošlog puta
+disable-extension =
+    .label = Onemogući dodatak
 home-page-header = Prikaži vašu početnu stranicu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
