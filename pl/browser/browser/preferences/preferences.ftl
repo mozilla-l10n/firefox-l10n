@@ -71,8 +71,17 @@ disable-extension =
     .label = Wyłącz rozszerzenie
 home-page-header = wyświetl stronę startową
 tabs-group-header = Karty
+open-new-link-as-tabs =
+    .label = Otwieranie odnośników w kartach zamiast w nowych oknach
+    .accesskey = O
 browser-containers-learn-more = Więcej informacji
 containers-disable-alert-title = Czy zamknąć wszystkie karty z kontekstem?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Jeśli wyłączysz funkcję kart z kontekstem, jedna taka karta zostanie zamknięta. Czy na pewno wyłączyć karty z kontekstem?
+        [few] Jeśli wyłączysz funkcję kart z kontekstem, { $tabCount } takie karty zostaną zamknięte. Czy na pewno wyłączyć karty z kontekstem?
+       *[many] Jeśli wyłączysz funkcję kart z kontekstem, { $tabCount } takich kart zostanie zamkniętych. Czy na pewno wyłączyć karty z kontekstem?
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Zamknij kartę z kontekstem
@@ -93,6 +102,7 @@ choose-language-description = Wybierz preferowany język, w jakim mają być wy
 files-and-applications-title = Pliki i aplikacje
 download-header = Pobieranie
 applications-header = Aplikacje
+applications-description = Wybierz, jak program { -brand-short-name } obsługuje pobierane z sieci pliki lub aplikacje używane podczas przeglądania.
 applications-filter =
     .placeholder = Typ pliku lub nazwa aplikacji
 drm-content-header = Treści DRM (Digital Rights Management)
