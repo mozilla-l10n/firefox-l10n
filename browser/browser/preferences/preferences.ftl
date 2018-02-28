@@ -51,12 +51,51 @@ restart-later = பின்னர் மீட்துவக்கு
 
 ## General Section
 
+startup-header = துவக்கம்
+startup-blank-page =
+    .label = ஒரு வெற்று பக்கத்தைக் காட்டு
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] நடப்பு பக்கத்தை பயன்படுத்து
+           *[other] நடப்பு பக்கங்களை பயன்படுத்து
+        }
+    .accesskey = ப
+choose-bookmark =
+    .label = புத்தககுறியை பயன்படுத்தவும்...
+    .accesskey = ப
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = உயர்நிலை...
+    .accesskey = உ
+colors-settings =
+    .label = நிறங்கள்...
+    .accesskey = ந
+choose-language-description = பக்கங்களை காட்ட உங்களுக்கு பிடித்தமான முதன்மை மொழியைத் தேர்ந்தெடுக்கவும்
 
 ## General Section - Files and Applications
 
+download-header = பதிவிறக்கங்கள்
+download-save-to =
+    .label = கோப்புகளை இங்கு சேமி
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] தேர்ந்தெடு...
+           *[other] உலாவு...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] த
+           *[other] ல
+        }
 applications-action-column =
     .label = செயல்
     .accesskey = A
