@@ -113,12 +113,17 @@ browser-containers-settings =
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = ಅಕ್ಷರಶೈಲಿಗಳು ಮತ್ತು ಬಣ್ಣಗಳು
+default-font = ಪೂರ್ವನಿಯೋಜಿತ ಅಕ್ಷರಶೈಲಿ
+    .accesskey = D
+default-font-size = ಗಾತ್ರ
+    .accesskey = S
 advanced-fonts =
     .label = ಮುಂದುವರೆದ...
     .accesskey = A
 colors-settings =
     .label = ಬಣ್ಣಗಳು...
     .accesskey = C
+language-header = ಭಾಷೆ
 choose-language-description = ಪುಟಗಳನ್ನು ತೋರಿಸಲು ನಿಮ್ಮ ಬಯಕೆಯ ಭಾಷೆಯನ್ನು ಆರಿಸಿ
 choose-button =
     .label = ಆರಿಸಿ…
@@ -150,6 +155,7 @@ download-choose-folder =
 download-always-ask-where =
     .label = ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನನ್ನು ಕೇಳು
     .accesskey = A
+applications-header = ಅನ್ವಯಗಳು
 applications-type-column =
     .label = ವಿಷಯದ ಬಗೆ
     .accesskey = T
@@ -157,12 +163,21 @@ applications-action-column =
     .label = ಕಾರ್ಯ
     .accesskey = A
 play-drm-content-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+update-application-info = ಆವೃತ್ತಿ{ $version } <a>ಹೊಸತೇನಿದೆ</a>
+update-history =
+    .label = ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು…
+    .accesskey = p
+update-application-check-choose =
+    .label = ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತದೆ, ಆದರೆ ಅವುಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸುವ ಆಯ್ಕೆಯನ್ನು ನಿಮಗೆ ಬಿಡುತ್ತದೆ
+    .accesskey = C
 update-application-use-service =
     .label = ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು
     .accesskey = b
 
 ## General Section - Performance
 
+performance-title = ಕಾರ್ಯಕ್ಷಮತೆ
+performance-settings-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 performance-allow-hw-accel =
     .label = ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು
     .accesskey = r
@@ -185,6 +200,7 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+network-proxy-title = ಜಾಲಬಂಧ ಪ್ರಾಕ್ಸಿ
 network-proxy-connection-settings =
     .label = ಸಿದ್ಧತೆಗಳು...
     .accesskey = e
