@@ -89,6 +89,9 @@ use-current-pages =
            *[other] Usar páginas actuales
         }
     .accesskey = C
+choose-bookmark =
+    .label = Usar marcador…
+    .accesskey = m
 restore-default =
     .label = Restaurar al valor predeterminado
     .accesskey = v
@@ -134,6 +137,7 @@ containers-disable-alert-cancel-button = Mantener activadas
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma y apariencia
+fonts-and-colors-header = Tipografías y colores
 default-font = Tipografía predeterminada
     .accesskey = T
 default-font-size = Tamaño
@@ -211,6 +215,9 @@ update-application-check-choose =
 update-application-manual =
     .label = No buscar actualizaciones (no recomendado)
     .accesskey = N
+update-application-use-service =
+    .label = Usar un servicio en segundo plano para instalar actualizaciones
+    .accesskey = p
 update-enable-search-update =
     .label = Actualizar automáticamente los buscadores
     .accesskey = A
