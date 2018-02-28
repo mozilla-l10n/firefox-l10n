@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = 常に送る
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] オプション
            *[other] 設定
         }
@@ -46,5 +47,28 @@ feature-enable-requires-restart = この機能を有効にするには、{ -bran
 feature-disable-requires-restart = この機能を無効にするには、{ -brand-short-name } の再起動が必要です
 should-restart-title = { -brand-short-name } を再起動
 should-restart-ok = { -brand-short-name } を今すぐ再起動
-revert-no-restart-button = 取り消し
 restart-later = 後で再起動
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+applications-type-column =
+    .label = ファイルの種類 (Content Type)
+    .accesskey = T
+applications-action-column =
+    .label = 取り扱い方法
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
