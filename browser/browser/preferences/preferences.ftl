@@ -92,6 +92,12 @@ choose-language-description = Изаберите омиљени језик за 
 choose-button =
     .label = Избор…
     .accesskey = з
+translate-web-pages =
+    .label = Преведи садржај
+    .accesskey = с
+translate-exceptions =
+    .label = Изузеци…
+    .accesskey = ц
 
 ## General Section - Files and Applications
 
