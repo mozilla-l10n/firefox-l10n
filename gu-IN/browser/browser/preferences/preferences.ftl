@@ -83,6 +83,7 @@ choose-button =
 
 ## General Section - Files and Applications
 
+download-header = ડાઉનલોડ
 download-save-to =
     .label = ફાઈલોને આમાં સંગ્રહો
     .accesskey = v
