@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Totjorn
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opcions
            *[other] Preferéncias
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = { -brand-short-name } deu reaviar per activar 
 feature-disable-requires-restart = { -brand-short-name } deu reaviar per activar aquesta foncionalitat.
 should-restart-title = Reaviar { -brand-short-name }
 should-restart-ok = Reaviar { -brand-short-name } ara
-revert-no-restart-button = Restablir
 restart-later = Reaviar mai tard
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
