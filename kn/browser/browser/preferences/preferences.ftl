@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ಯಾವಾಗಲೂ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ಆಯ್ಕೆಗಳು
            *[other] ಆದ್ಯತೆಗಳು
         }
@@ -46,5 +47,62 @@ feature-enable-requires-restart = ಈ ಸೌಲಭ್ಯವನ್ನು ಸಕ�
 feature-disable-requires-restart = ಈ ಸೌಲಭ್ಯವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು { -brand-short-name } ಅನ್ನು ಮರಳಿ ಆರಂಭಿಸಬೇಕು.
 should-restart-title = { -brand-short-name } ಅನ್ನು ಮರು ಆರಂಭಿಸು
 should-restart-ok = ಈಗ { -brand-short-name } ಮರಳಿ ಆರಂಭಿಸು
-revert-no-restart-button = ಹಿಂದಿನ ಸ್ಥಿತಿಗೆ ಮರಳಿಸು
 restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
+
+## General Section
+
+startup-blank-page =
+    .label = ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು
+
+## General Section - Language & Appearance
+
+colors-settings =
+    .label = ಬಣ್ಣಗಳು...
+    .accesskey = C
+choose-language-description = ಪುಟಗಳನ್ನು ತೋರಿಸಲು ನಿಮ್ಮ ಬಯಕೆಯ ಭಾಷೆಯನ್ನು ಆರಿಸಿ
+choose-button =
+    .label = ಆರಿಸಿ…
+    .accesskey = o
+
+## General Section - Files and Applications
+
+download-header = ಡೌನ್‍ಲೋಡ್‍ಗಳು
+download-save-to =
+    .label = ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] ಆರಿಸು...
+           *[other] ನೋಡು...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+applications-type-column =
+    .label = ವಿಷಯದ ಬಗೆ
+    .accesskey = T
+applications-action-column =
+    .label = ಕಾರ್ಯ
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = ವೀಕ್ಷಣೆ
+browsing-use-autoscroll =
+    .label = ಸ್ವಯಂಚಲನೆಯನ್ನು(ಆಟೋ ಸ್ಕ್ರಾಲಿಂಗ್) ಬಳಸು
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = ಮೃದು ಚಲನೆಯನ್ನು ಬಳಸು
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = ಪುಟದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ತೆರೆಸೂಚಕ ಕೀಲಿಗಳನ್ನು ಬಳಸು
+    .accesskey = c
+
+## General Section - Proxy
+
