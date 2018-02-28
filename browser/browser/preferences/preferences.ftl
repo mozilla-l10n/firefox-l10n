@@ -52,6 +52,23 @@ restart-later = Genstart senere
 ## General Section
 
 startup-header = Opstart
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Tillad { -brand-short-name } og Firefox at køre samtidig
+use-firefox-sync = Tip: Dette gør brug at separate profiler. Brug { -sync-brand-short-name } til at dele data mellem dem.
+set-as-my-default-browser =
+    .label = Sæt som standard…
+    .accesskey = D
+startup-user-homepage =
+    .label = Vis min startside
+startup-blank-page =
+    .label = Vis en tom side
+startup-prev-session =
+    .label = Vis mine vinduer og faneblade fra sidste gang
+disable-extension =
+    .label = Deaktiver udvidelse
+home-page-header = Vis min startside
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -69,12 +86,42 @@ choose-bookmark =
 restore-default =
     .label = Gendan standard
     .accesskey = G
+tabs-group-header = Faneblade
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tabulator-tasten skifter mellem de senest anvendte faneblade
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Advar mig, når jeg lukker flere faneblade
+    .accesskey = l
+warn-on-open-many-tabs =
+    .label = Advar mig, hvis jeg åbner flere faneblade, som kan gøre { -brand-short-name } langsommere
+    .accesskey = å
+switch-links-to-new-tabs =
+    .label = Skift fokus til det nye faneblad, når jeg åbner et link i det
+    .accesskey = S
 show-tabs-in-taskbar =
     .label = Vis forhåndsvisning for faneblade på Windows Proceslinje
     .accesskey = W
+browser-containers-learn-more = Læs mere
+browser-containers-settings =
+    .label = Indstillinger…
+    .accesskey = n
+containers-disable-alert-title = Luk alle kontekst-faneblade?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Hvis du deaktiverer kontekst-faneblade vil { $tabCount } kontekst-faneblad blive lukket. Er du sikker på, at du vil deaktivere kontekst-faneblade?
+       *[other]  Hvis du deaktiverer kontekst-faneblade vil { $tabCount } kontekst-faneblade blive lukket. Er du sikker på, at du vil deaktivere kontekst-faneblade?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Luk { $tabCount } kontekst-faneblade
+       *[other] Luk { $tabCount } kontekst-faneblade
+    }
+containers-disable-alert-cancel-button = Deaktiver ikke
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Sprog og udseende
 fonts-and-colors-header = Skrifttyper & farver
 advanced-fonts =
     .label = Avanceret…
@@ -82,6 +129,7 @@ advanced-fonts =
 colors-settings =
     .label = Farver…
     .accesskey = F
+language-header = Sprog
 choose-language-description = Vælg dit fortrukne sprog at få vist sider i
 choose-button =
     .label = Vælg…
@@ -92,9 +140,13 @@ translate-web-pages =
 translate-exceptions =
     .label = Undtagelser…
     .accesskey = n
+check-user-spelling =
+    .label = Kontroller min stavning mens jeg taster
+    .accesskey = K
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Filer og programmer
 download-header = Filhentning
 download-choose-folder =
     .label =
@@ -107,15 +159,43 @@ download-choose-folder =
             [macos] æ
            *[other] e
         }
+download-always-ask-where =
+    .label = Spørg mig altid, hvor filer skal gemmes
+    .accesskey = a
+applications-description = Vælg, hvordan { -brand-short-name } håndterer filer, du henter fra nettet, og de programmer, du bruger, når du browser.
 applications-type-column =
     .label = Indholdstype
     .accesskey = I
 applications-action-column =
     .label = Handling
     .accesskey = H
+drm-content-header = Indhold beskyttet af digital rettigheds-styring (DRM)
+play-drm-content =
+    .label = Afspil DRM-kontrolleret indhold
+    .accesskey = A
+play-drm-content-learn-more = Læs mere
+update-application-title = { -brand-short-name }-opdateringer
+update-application-description = Hold { -brand-short-name } opdateret for at få den bedste ydelse, stabilitet og sikkerhed.
+update-application-info = Version { $version }. <a>Nyheder</a>
+update-application-allow-description = { -brand-short-name } skal
+update-application-auto =
+    .label = installere opdateringer automatisk (anbefalet)
+    .accesskey = A
+update-application-use-service =
+    .label = bruge en baggrundsservice til at installere opdateringer
+    .accesskey = b
 
 ## General Section - Performance
 
+performance-use-recommended-settings-checkbox =
+    .label = Brug de anbefalede ydelses-indstillinger
+    .accesskey = a
+performance-use-recommended-settings-desc = Disse indstillinger er skræddersyede til din computers hardware og operativsystem
+performance-settings-learn-more = Læs mere
+performance-limit-content-process-option = Begrænsning af indholds-processer
+    .accesskey = i
+performance-limit-content-process-enabled-desc = Når du har mange faneblade åbne samtidig, kan brugen af flere indholdsprocesser forbedre ydelsen, men de vil til gengæld bruge mere hukommelse.
+performance-limit-content-process-disabled-desc = Det er kun muligt at ændre antallet af indholdsprocesser, når du bruger { -brand-short-name } med multiproces slået til. <a>Læs, hvordan du undersøger, om multiproces er slået til</a>
 
 ## General Section - Browsing
 
@@ -126,12 +206,19 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Anvend blød scrolling
     .accesskey = b
+browsing-use-onscreen-keyboard =
+    .label = Vis et berørings-tastatur, når det er nødvendigt
+    .accesskey = t
 browsing-use-cursor-navigation =
     .label = Brug altid markør og tastatur til at navigere på sider
     .accesskey = m
+browsing-search-on-start-typing =
+    .label = Begynd søgning mens du taster
+    .accesskey = s
 
 ## General Section - Proxy
 
+network-proxy-title = Netværks-proxy
 network-proxy-connection-settings =
     .label = Indstillinger…
     .accesskey = I
