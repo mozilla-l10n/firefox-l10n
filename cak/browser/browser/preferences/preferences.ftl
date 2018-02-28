@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Tik'ut pe jun kowöl ruxaq
 startup-prev-session =
     .label = Kek'ut ri taq rutzuwäch chuqa' taq ruwi' ruk'isib'äl rumolojri'ïl
+disable-extension =
+    .label = Tichup ri K'amal
 home-page-header = Tik'ut pe ri tikirib'äl ruxaq ruk'amaya'l
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = Taq ruwi'
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab mejaj pa taq ruwi' pa k'ak'a' kokisaxik kicholajem
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Kejaq taq ximonel pa taq ruwi' pa ruk'exel kik'in k'ak'a' taq tzuwäch
+    .accesskey = z
 warn-on-close-multiple-tabs =
     .label = Taya' pe rutzijol we xketz'apitäj jalajöj taq ruwi'
     .accesskey = j
@@ -259,6 +264,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Ruproxi K'amab'ey
+network-proxy-connection-learn-more = Tetamäx ch'aqa' chik
 network-proxy-connection-settings =
     .label = Tinuk'…
     .accesskey = n
