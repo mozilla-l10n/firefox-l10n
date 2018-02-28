@@ -68,6 +68,9 @@ use-current-pages =
 restore-default =
     .label = Vrati na izvorne vrijednosti
     .accesskey = r
+show-tabs-in-taskbar =
+    .label = Prikazuj pregled tabova u Windows taskbaru
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
