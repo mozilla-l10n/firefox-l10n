@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Πάντα
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Επιλογές
            *[other] Προτιμήσεις
         }
@@ -46,5 +47,36 @@ feature-enable-requires-restart = Θα πρέπει να γίνει επανεκ
 feature-disable-requires-restart = Θα πρέπει να γίνει επανεκκίνηση του { -brand-short-name } για απενεργοποίηση αυτής της λειτουργίας..
 should-restart-title = Επανεκκίνηση του { -brand-short-name }
 should-restart-ok = Επανεκκίνηση του { -brand-short-name } τώρα
-revert-no-restart-button = Επαναφορά
 restart-later = Επανεκκίνηση αργότερα
+
+## General Section
+
+startup-header = Εκκίνηση
+
+## General Section - Language & Appearance
+
+choose-language-description = Επιλέξτε την προτιμώμενη γλώσσα για την εμφάνιση των ιστοσελίδων
+choose-button =
+    .label = Επιλογή...
+    .accesskey = λ
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Αποθήκευση αρχείων σε
+    .accesskey = θ
+applications-type-column =
+    .label = Τύπος περιεχομένου
+    .accesskey = Τ
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-use-autoscroll =
+    .label = Χρήση αυτόματης κύλισης
+    .accesskey = α
+
+## General Section - Proxy
+
