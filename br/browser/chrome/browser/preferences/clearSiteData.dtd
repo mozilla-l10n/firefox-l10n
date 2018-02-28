@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "Skarzhañ an holl doupinoù ha roadennoù lec'hienn kadavet gant &brandShortName; a c'hall digennaskañ ac'hanoc'h eus lec'hiennoù ha dilemel endalc'hadoù web ezlinenn. Skarzhañ roadennoù ar c'hrubuilh na raio netra d'ho kennaskadennoù.">
-<!ENTITY windowClose.key              "e">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Toupinoù ha roadennoù lec'hienn">
 <!ENTITY clearSiteData.accesskey      "T">
