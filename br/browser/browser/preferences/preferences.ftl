@@ -57,11 +57,18 @@ startup-header = Loc'hañ
 separate-profile-mode =
     .label = Aotren { -brand-short-name } ha Firefox da erounit war un dro
 use-firefox-sync = Tun : arveret e vo aeladoù disheñvel. Arverit { -sync-brand-short-name } evit rannañ roadennoù etrezo.
+get-started-not-logged-in = Kennaskañ ouzh { -sync-brand-short-name }…
+get-started-configured = Digeriñ gwellvezioù { -sync-brand-short-name }
 always-check-default =
     .label = Gwiriañ atav ma'z eo { -brand-short-name } ho merdeer dre ziouer
     .accesskey = w
 is-default = Ho merdeer dre ziouer eo { -brand-short-name }
 is-not-default = N'eo ket { -brand-short-name } ho merdeer dre ziouer
+set-as-my-default-browser =
+    .label = Lakaat dre ziouer…
+    .accesskey = L
+startup-page = Pa loc'h { -brand-short-name }
+    .accesskey = P
 startup-user-homepage =
     .label = Diskouez ma fennbajennad
 startup-blank-page =
@@ -119,13 +126,19 @@ containers-disable-alert-cancel-button = Leuskel gweredekaet
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Yezh ha neuz
 fonts-and-colors-header = Nodrezhoù ha Livioù
+default-font = Nodrezh dre ziouer
+    .accesskey = N
+default-font-size = Ment
+    .accesskey = M
 advanced-fonts =
     .label = Kempleshoc'h…
     .accesskey = p
 colors-settings =
     .label = Livioù…
     .accesskey = L
+language-header = Yezh
 choose-language-description = Dibabit ho yezh muiañ plijet evit skrammañ ar pajennadoù
 choose-button =
     .label = Dibab…
@@ -142,6 +155,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Restroù hag arloadoù
 download-header = Pellgargadurioù
 download-save-to =
     .label = Enrollañ restroù e-barzh
@@ -160,23 +174,63 @@ download-choose-folder =
 download-always-ask-where =
     .label = Atav goulenn diganin pelec'h enrollañ restroù
     .accesskey = t
+applications-header = Arloadoù
+applications-description = Dibab penaos eo meret ar restroù pellgarget war ar web pe an arloadoù arveret p'emaoc'h o merdeiñ gant { -brand-short-name }.
+applications-filter =
+    .placeholder = Klask rizhoù restroù pe arloadoù
 applications-type-column =
     .label = Rizh an endalc'had
     .accesskey = R
 applications-action-column =
     .label = Gwezh
     .accesskey = w
+drm-content-header = Endalc'had Digital Rights Management (DRM)
+play-drm-content =
+    .label = Lenn un endalc'had reoliet gant DRM
+    .accesskey = L
 play-drm-content-learn-more = Gouzout hiroc'h
 update-application-title = Hizivadurioù evit { -brand-short-name } :
+update-application-description = Derc'hel { -brand-short-name } hizivaet evit an digonusted, stabilded ha diogelroez gwellañ.
+update-application-info = Handelv { $version } <a>Petra nevez</a>
+update-history =
+    .label = Diskouez roll istor an hizivadurioù…
+    .accesskey = D
+update-application-allow-description = Aotren { -brand-short-name } da:
+update-application-auto =
+    .label = Staliañ hizivadennoù ent emgefreek (erbedet)
+    .accesskey = S
+update-application-check-choose =
+    .label = Gwiriañ mard ez eus hizivadurioù met leuskel ac'hanon dibab mar bezint staliet
+    .accesskey = G
+update-application-manual =
+    .label = Na wiriañ biken mard ez eus hizivadurioù (n'eo ket erbedet)
+    .accesskey = N
 update-application-use-service =
     .label = Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù
     .accesskey = v
+update-enable-search-update =
+    .label = Hizivaat al luskerioù enklask ent emgefreek
+    .accesskey = H
 
 ## General Section - Performance
 
+performance-title = Digonusted
+performance-use-recommended-settings-checkbox =
+    .label = Arverañ an arventennoù digonusted erbeded
+    .accesskey = a
+performance-use-recommended-settings-desc = Graet eo an arventennoù-se a-ratozh evit periant ha reizhiad korvoiñ hoc'h urzhiataer.
+performance-settings-learn-more = Gouzout hiroc'h
 performance-allow-hw-accel =
     .label = Arverañ herrekadur ar periant pa vez hegerz
     .accesskey = h
+performance-limit-content-process-option = Bevenn endalc'had an araezad
+    .accesskey = A
+performance-limit-content-process-enabled-desc = Endalc'had araezad ouzhpenn a c'hall gwellaat an digonusted gent meur a ivinell, met arverañ a raio muioc'h a vemor.
+performance-limit-content-process-disabled-desc = Evit kemmañ an niver a araezad endalc'had eo ret ober gant { -brand-short-name }. <a>Deskit penaos gwiriekaat statud al lies araezad</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (dre ziouer)
 
 ## General Section - Browsing
 
@@ -199,6 +253,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Proksi ar rouedad
 network-proxy-connection-settings =
     .label = Arventennoù…
     .accesskey = e
