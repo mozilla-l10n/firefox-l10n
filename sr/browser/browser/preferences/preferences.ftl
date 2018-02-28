@@ -52,15 +52,28 @@ restart-later = Поново покрени касније
 ## General Section
 
 startup-header = Покретање
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Дозволи да { -brand-short-name } и Firefox раде у исто време
 use-firefox-sync = Савет: Ово користи одвојене профиле. Користите { -sync-brand-short-name } да делите податке између њих.
+get-started-not-logged-in = Пријавите се на { -sync-brand-short-name }…
+get-started-configured = Отворите { -sync-brand-short-name } поставке
+always-check-default =
+    .label = Увек провери да ли је { -brand-short-name } мој подразумевани прегледач
+    .accesskey = у
 is-default = { -brand-short-name } је тренутно подразумевани прегледач
 is-not-default = { -brand-short-name } није подразумевани прегледач
+startup-page = Када се { -brand-short-name } покрене
+    .accesskey = п
 startup-user-homepage =
     .label = Прикажи почетну страницу
 startup-blank-page =
     .label = Прикажи празну страницу
 startup-prev-session =
     .label = Прикажи прозоре и језичке од прошлог пута
+disable-extension =
+    .label = Онемогући екстензију
 home-page-header = Прикажи почетну страницу
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -79,6 +92,10 @@ choose-bookmark =
 restore-default =
     .label = Врати на подразумевану
     .accesskey = В
+tabs-group-header = Језичци
+ctrl-tab-recently-used-order =
+    .label = Кретање кроз недавно коришћене језичке уз Ctrl+Tab
+    .accesskey = ч
 warn-on-close-multiple-tabs =
     .label = Упозори ме при затварању више језичака
     .accesskey = у
@@ -99,11 +116,30 @@ browser-containers-settings =
     .label = Поставке…
     .accesskey = в
 containers-disable-alert-title = Затворити све контејнер језичке?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Ако сада онемогућите контејнер језичке, { $tabCount } контејнер језичак ће се затворити. Да ли сте сигурни да желите да онемогућите контејнер језичке?
+        [few] Ако сада онемогућите контејнер језичке, { $tabCount } контејнер језичка ће се затворити. Да ли сте сигурни да желите да онемогућите контејнер језичке?
+       *[other] Ако сада онемогућите контејнер језичке, { $tabCount } контејнер језичка ће се затворити. Да ли сте сигурни да желите да онемогућите контејнер језичке?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Затвори { $tabCount } контејнер језичак
+        [few] Затвори { $tabCount } контејнер језичака
+       *[other] Затвори { $tabCount } контејнер језичака
+    }
 containers-disable-alert-cancel-button = Остави укључено
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Фонт и боје
+default-font = Подразумеван
+    .accesskey = ф
+default-font-size = Величина
+    .accesskey = В
+advanced-fonts =
+    .label = Напредно…
+    .accesskey = Н
 colors-settings =
     .label = Боје…
     .accesskey = Б
@@ -141,6 +177,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = Увек питај где да се сачувају датотеке
     .accesskey = У
+applications-header = Апликације
+applications-description = Изаберите како да { -brand-short-name } рукује подацима које преузмете са веба или апликацијама које користите.
+applications-filter =
+    .placeholder = Претражи типове података или апликација
 applications-type-column =
     .label = Врста садржаја
     .accesskey = В
@@ -149,12 +189,43 @@ applications-action-column =
     .accesskey = Д
 play-drm-content-learn-more = Сазнајте више
 update-application-title = { -brand-short-name } ажурирања
+update-application-info = Верзија { $version } <a>Шта је ново</a>
+update-history =
+    .label = Прикажи историјат ажурирања…
+    .accesskey = и
+update-application-allow-description = Дозволи { -brand-short-name }-у да
+update-application-check-choose =
+    .label = Проверава ажурирања али ме питај да ли да их инсталирам
+    .accesskey = и
+update-application-manual =
+    .label = Никадa не проверава ажурирања (не препоручује се)
+    .accesskey = Н
 update-application-use-service =
     .label = Употреби позадинске сервисе за инсталацију надоградњи
     .accesskey = з
+update-enable-search-update =
+    .label = Аутоматски ажурирај претраживаче
+    .accesskey = п
 
 ## General Section - Performance
 
+performance-title = Перформансе
+performance-use-recommended-settings-checkbox =
+    .label = Користи препоручене поставке перформанси
+    .accesskey = К
+performance-use-recommended-settings-desc = Ове поставке су кројене за хардвер вашег рачунара и његов оперативни систем.
+performance-settings-learn-more = Сазнајте више
+performance-allow-hw-accel =
+    .label = Користи хардверско убрзање, кад је доступно
+    .accesskey = х
+performance-limit-content-process-option = Лимит процеса садржаја
+    .accesskey = Л
+performance-limit-content-process-enabled-desc = Додатни процеси садржаја могу побољшати перформансе док користите више језичака, али ће такође користити више меморије.
+performance-limit-content-process-disabled-desc = Уређивање броја процеса садржаја је могуће само када је омогућен вишепроцесни { -brand-short-name }. <a>Сазнајте како да проверите да ли су мултипроцеси омогућени</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (подразумевано)
 
 ## General Section - Browsing
 
