@@ -69,6 +69,9 @@ choose-bookmark =
 restore-default =
     .label = Gendan standard
     .accesskey = G
+show-tabs-in-taskbar =
+    .label = Vis forhåndsvisning for faneblade på Windows Proceslinje
+    .accesskey = W
 
 ## General Section - Language & Appearance
 
@@ -83,6 +86,12 @@ choose-language-description = Vælg dit fortrukne sprog at få vist sider i
 choose-button =
     .label = Vælg…
     .accesskey = æ
+translate-web-pages =
+    .label = Oversæt webindhold
+    .accesskey = O
+translate-exceptions =
+    .label = Undtagelser…
+    .accesskey = n
 
 ## General Section - Files and Applications
 
