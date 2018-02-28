@@ -52,6 +52,8 @@ restart-later = Start på nytt seinare
 ## General Section
 
 startup-header = Startside
+is-default = { -brand-short-name } er standard nettlesar
+is-not-default = { -brand-short-name } er ikkje standard nettlesar
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -63,6 +65,10 @@ use-current-pages =
            *[other] Bruk opne nettsider
         }
     .accesskey = B
+tabs-group-header = Faner
+show-tabs-in-taskbar =
+    .label = Vis førehandsvising av faner i Windows-oppgåvelinja
+    .accesskey = s
 
 ## General Section - Language & Appearance
 
@@ -84,6 +90,12 @@ applications-action-column =
 ## General Section - Browsing
 
 browsing-title = Nettlesing
+browsing-use-autoscroll =
+    .label = Bruk automatisk rulling
+    .accesskey = B
+browsing-use-smooth-scrolling =
+    .label = Bruk jamn rulling
+    .accesskey = u
 
 ## General Section - Proxy
 
