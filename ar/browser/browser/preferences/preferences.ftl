@@ -51,18 +51,85 @@ restart-later = أعِد التشغيل لاحقًا
 
 ## General Section
 
+startup-header = البدء
+startup-blank-page =
+    .label = اعرض صفحة فارغة
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] استخدم الصفحة الحالية
+           *[other] استخدم الصفحات الحالية
+        }
+    .accesskey = ح
+choose-bookmark =
+    .label = استخدم علامة…
+    .accesskey = ع
+restore-default =
+    .label = استعد المبدئي
+    .accesskey = س
+show-tabs-in-taskbar =
+    .label = أظهِر معاينات للألسنة في شريط مهام ويندوز
+    .accesskey = و
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = متقدم…
+    .accesskey = د
+colors-settings =
+    .label = الألوان…
+    .accesskey = ل
+choose-language-description = اختر لغتك المفضلة لعرض الصفحات
+choose-button =
+    .label = اختر…
+    .accesskey = خ
 
 ## General Section - Files and Applications
 
+download-header = التّنزيلات
+download-save-to =
+    .label = احفظ الملفّات في
+    .accesskey = ظ
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] اختر…
+           *[other] تصفّح…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ت
+           *[other] ص
+        }
+applications-type-column =
+    .label = نوع المحتوى
+    .accesskey = ن
+applications-action-column =
+    .label = الإجراء
+    .accesskey = ج
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = التّصفّح
+browsing-use-autoscroll =
+    .label = استخدم اللّف الآلي
+    .accesskey = ف
+browsing-use-smooth-scrolling =
+    .label = استخدم اللّف السلس
+    .accesskey = خ
+browsing-use-cursor-navigation =
+    .label = استعمل دائمًا مفاتيح الأسهم للتنقل داخل الصفحات
+    .accesskey = س
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = الإعدادات…
+    .accesskey = ع
