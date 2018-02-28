@@ -54,6 +54,9 @@ restart-later = Újraindítás később
 startup-header = Indítás
 startup-blank-page =
     .label = Üres oldal megjelenítése
+show-tabs-in-taskbar =
+    .label = Lapok előnézetének megjelenítése a Windows tálcán
+    .accesskey = L
 
 ## General Section - Language & Appearance
 
@@ -66,6 +69,9 @@ download-header = Letöltések
 download-save-to =
     .label = Fájlok mentése
     .accesskey = m
+update-application-use-service =
+    .label = Háttérben futó szolgáltatás intézze a frissítést
+    .accesskey = H
 
 ## General Section - Performance
 
