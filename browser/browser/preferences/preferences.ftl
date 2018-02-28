@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Alltid
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Inställningar
            *[other] Inställningar
         }
@@ -46,5 +47,66 @@ feature-enable-requires-restart = { -brand-short-name } måste starta om för at
 feature-disable-requires-restart = { -brand-short-name } måste starta om för att inaktivera den här funktionen.
 should-restart-title = Starta om { -brand-short-name }
 should-restart-ok = Starta om { -brand-short-name } nu
-revert-no-restart-button = Återgå
 restart-later = Starta om senare
+
+## General Section
+
+startup-header = Vid start
+startup-blank-page =
+    .label = Visa en tom sida
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Använd aktuell sida
+           *[other] Använd aktuella sidor
+        }
+    .accesskey = u
+restore-default =
+    .label = Återställ standard
+    .accesskey = Å
+
+## General Section - Language & Appearance
+
+colors-settings =
+    .label = Färger…
+    .accesskey = F
+choose-language-description = Välj språk som webbsidor ska visas i
+
+## General Section - Files and Applications
+
+download-header = Filhämtningar
+download-save-to =
+    .label = Spara filer till
+    .accesskey = a
+applications-type-column =
+    .label = Typ av innehåll
+    .accesskey = T
+applications-action-column =
+    .label = Åtgärd
+    .accesskey = Å
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Webbläsning
+browsing-use-autoscroll =
+    .label = Använd autorullning
+    .accesskey = n
+browsing-use-smooth-scrolling =
+    .label = Använd mjuk rullning
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = Använd alltid piltangenterna för att navigera i sidor
+    .accesskey = A
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Inställningar…
+    .accesskey = n
