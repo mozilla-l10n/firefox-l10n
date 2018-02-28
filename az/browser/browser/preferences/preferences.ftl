@@ -69,10 +69,15 @@ set-as-my-default-browser =
     .accesskey = D
 startup-page = { -brand-short-name } başladığında
     .accesskey = s
+startup-user-homepage =
+    .label = Ana səhifəni göstər
 startup-blank-page =
     .label = Boş səhifəni göstər
+startup-prev-session =
+    .label = Son seansdan olan pəncərə və vərəqləri göstər
 disable-extension =
     .label = Uzantını söndür
+home-page-header = Ana səhifəni göstər
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -97,6 +102,15 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Keçidləri yeni pəncərə yerinə vərəqlərdə aç
     .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = Birdən çox vərəq bağlarkən xəbərdar olun
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Çoxlu vərəq açmağın { -brand-short-name } səyyahını yavaşlada biləcəyindən xəbərdar olun
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Keçidi yeni vərəqdə açdığımda, dərhal o vərəqə keç
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Vərəqlərə ön baxışı Windows tapşırıq panelində göstər
     .accesskey = e
@@ -145,6 +159,9 @@ translate-web-pages =
 translate-exceptions =
     .label = İstisnalar…
     .accesskey = t
+check-user-spelling =
+    .label = Hərf səhvləriniz siz yazdıqca yoxlanılsın
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -164,6 +181,9 @@ download-choose-folder =
             [macos] S
            *[other] B
         }
+download-always-ask-where =
+    .label = Faylların saxlanacağı yeri həmişə soruş
+    .accesskey = A
 applications-header = Tədbiqetmələr
 applications-description = { -brand-short-name } səyyahının internetdən endirdiyiniz faylları və ya internetdə gəzərkən işlətdiyiniz tətbiqetmələri necə idarə edəcəyini seçin.
 applications-filter =
@@ -234,6 +254,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Səhifələrdə hərəkət edərkən yazi kursorundan istifadə et
     .accesskey = S
+browsing-search-on-start-typing =
+    .label = Yazmağa başladığınız zaman söz axtarılsın
+    .accesskey = x
 
 ## General Section - Proxy
 
