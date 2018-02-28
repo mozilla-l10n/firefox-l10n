@@ -44,9 +44,16 @@ use-current-pages =
            *[other] ପ୍ରଚଳିତ ପୃଷ୍ଠାଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ
         }
     .accesskey = C
+choose-bookmark =
+    .label = ଚିହ୍ନିତ ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ…
+    .accesskey = B
 restore-default =
     .label = ପୂର୍ବନିର୍ଦ୍ଧାରିତରେ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ
     .accesskey = R
+tabs-group-header = ଟ୍ଯାବଗୁଡ଼ିକ
+show-tabs-in-taskbar =
+    .label = ୱିଣ୍ଡୋ କାର୍ଯ୍ୟପଟିରେ ଟ୍ୟାବ ପ୍ରାକଦର୍ଶନକୁ ଦର୍ଶାନ୍ତୁ
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
