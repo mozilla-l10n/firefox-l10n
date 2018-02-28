@@ -51,18 +51,26 @@ restart-later = পরে রিস্টার্ট করা হবে
 
 ## General Section
 
+show-tabs-in-taskbar =
+    .label = উইন্ডোর টাস্কবারে ট্যাবের প্রাকদর্শন প্রদর্শিত হবে k
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
 
 ## General Section - Files and Applications
 
+download-header = ডাউনলোড
+update-application-use-service =
+    .label = হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b
+    .accesskey = b
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = ব্রাউজ করা
 
 ## General Section - Proxy
 
