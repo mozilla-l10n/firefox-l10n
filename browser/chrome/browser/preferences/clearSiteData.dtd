@@ -10,7 +10,7 @@
 
 <!ENTITY clearSiteData.label          "Cookie-uri și datele site-urilor">
 <!ENTITY clearSiteData.accesskey      "S">
-<!ENTITY clearSiteData.description    "Este posibil să te deconecteze de pe site-uri web dacă este șters">
+<!ENTITY clearSiteData.description    "Este posibil să te deconecteze de pe site-uri web dacă acestea sunt șterse">
 
 <!ENTITY clearCache.label             "Conținut web în cache">
 <!ENTITY clearCache.accesskey         "W">
