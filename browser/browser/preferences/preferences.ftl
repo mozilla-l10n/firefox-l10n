@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Vždy
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Možnosti
            *[other] Možnosti
         }
@@ -46,5 +47,63 @@ feature-enable-requires-restart = Aby bolo možné použiť túto funkciu, { -br
 feature-disable-requires-restart = Aby bolo možné vypnúť túto funkciu, { -brand-short-name } musí byť reštartovaný.
 should-restart-title = Reštartovať { -brand-short-name }
 should-restart-ok = Reštartovať { -brand-short-name } teraz
-revert-no-restart-button = Vrátiť
 restart-later = Reštartovať neskôr
+
+## General Section
+
+startup-header = Spustenie
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Použiť aktuálnu stránku
+           *[other] Použiť aktuálne stránky
+        }
+    .accesskey = s
+restore-default =
+    .label = Obnoviť predvolené
+    .accesskey = O
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Písma a farby
+advanced-fonts =
+    .label = Pokročilé…
+    .accesskey = o
+colors-settings =
+    .label = Farby…
+    .accesskey = F
+
+## General Section - Files and Applications
+
+applications-type-column =
+    .label = Typ obsahu
+    .accesskey = T
+applications-action-column =
+    .label = Akcia
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Prehliadanie
+browsing-use-autoscroll =
+    .label = Použiť automatický posun
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Použiť plynulý posun
+    .accesskey = o
+browsing-use-cursor-navigation =
+    .label = Vždy používať kurzorové klávesy na navigáciu na stránkach
+    .accesskey = V
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Nastavenia…
+    .accesskey = N
