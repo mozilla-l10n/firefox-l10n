@@ -57,6 +57,9 @@ use-current-pages =
            *[other]  मोजुदा पृष्ठक प्रयोग  करू 
         }
     .accesskey = C
+choose-bookmark =
+    .label = पुस्तकचिह्नक प्रयोग करू…
+    .accesskey = B
 restore-default =
     .label = पूर्वनिर्धारित मे फेर जमा  करू 
     .accesskey = R
@@ -100,6 +103,9 @@ applications-type-column =
 applications-action-column =
     .label = क्रिया
     .accesskey = A
+update-application-use-service =
+    .label = अद्यतन संस्थापित करबाक लेल पृष्ठभूमि सेवाक उपयोग करू
+    .accesskey = b
 
 ## General Section - Performance
 
