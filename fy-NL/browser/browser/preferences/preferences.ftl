@@ -52,8 +52,24 @@ restart-later = Letter opnij starte
 ## General Section
 
 startup-header = Opstarte
+is-default = { -brand-short-name } is op dit stuit jo standertbrowser
+is-not-default = { -brand-short-name } is net jo standertbrowser
 startup-blank-page =
     .label = In lege side toane
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Aktuele side brûke
+           *[other] Aktuele siden brûke
+        }
+    .accesskey = k
+choose-bookmark =
+    .label = Blêdwizer brûke…
+    .accesskey = B
 
 ## General Section - Language & Appearance
 
@@ -69,3 +85,6 @@ startup-blank-page =
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Ynstellingen…
+    .accesskey = Y
