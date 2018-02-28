@@ -56,6 +56,12 @@ tabs-group-header = Καρτέλες
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Για προχωρημένους...
+    .accesskey = π
+colors-settings =
+    .label = Χρώματα...
+    .accesskey = Χ
 choose-language-description = Επιλέξτε την προτιμώμενη γλώσσα για την εμφάνιση των ιστοσελίδων
 choose-button =
     .label = Επιλογή...
