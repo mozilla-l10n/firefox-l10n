@@ -52,6 +52,16 @@ restart-later = Khởi động lại sau
 ## General Section
 
 startup-header = Khởi động
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Cho phép { -brand-short-name } và Firefox cùng chạy song song
+use-firefox-sync = Mẹo nhỏ: Việc này sử dụng các hồ sơ độc lập nhau. Bạn có thể dùng { -sync-brand-short-name } để đồng bộ giữa chúng.
+always-check-default =
+    .label = Luôn kiểm tra xem { -brand-short-name } có phải trình duyệt mặc định không
+    .accesskey = y
+is-default = { -brand-short-name } đang là trình duyệt mặc định
+is-not-default = { -brand-short-name } không phải là trình duyệt mặc định
 startup-blank-page =
     .label = Hiện một trang trống
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -65,16 +75,28 @@ use-current-pages =
            *[other] Dùng các Trang hiện tại
         }
     .accesskey = a
+choose-bookmark =
+    .label = Dùng trang đánh dấu…
+    .accesskey = d
 restore-default =
     .label = Khôi phục về Mặc định
     .accesskey = M
 tabs-group-header = Thẻ
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab để chuyển qua các thẻ theo thứ tự sử dụng gần đây nhất
+    .accesskey = T
 show-tabs-in-taskbar =
     .label = Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows
     .accesskey = e
+browser-containers-enabled =
+    .label = Bật thẻ ngăn chứa
+    .accesskey = n
+containers-disable-alert-title = Đóng tất cả các thẻ ngăn chứa?
+containers-disable-alert-cancel-button = Để bật
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Phông & Màu sắc
 advanced-fonts =
     .label = Nâng cao…
     .accesskey = o
@@ -85,6 +107,12 @@ choose-language-description = Chọn ngôn ngữ ưu tiên bạn muốn để hi
 choose-button =
     .label = Chọn…
     .accesskey = C
+translate-web-pages =
+    .label = Dịch nội dung web
+    .accesskey = D
+translate-exceptions =
+    .label = Ngoại lệ...
+    .accesskey = N
 
 ## General Section - Files and Applications
 
@@ -109,6 +137,9 @@ applications-type-column =
 applications-action-column =
     .label = Thao tác
     .accesskey = a
+update-application-use-service =
+    .label = Sử dụng dịch vụ chạy nền để cài đặt các cập nhật
+    .accesskey = n
 
 ## General Section - Performance
 
@@ -122,6 +153,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Cuộn uyển chuyển
     .accesskey = y
+browsing-use-onscreen-keyboard =
+    .label = Hiện bàn phím cảm ứng khi cần thiết
+    .accesskey = b
 browsing-use-cursor-navigation =
     .label = Cho phép dùng con trỏ để di chuyển bên trong trang
     .accesskey = c
