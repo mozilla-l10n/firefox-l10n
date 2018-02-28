@@ -52,6 +52,7 @@ restart-later = Επανεκκίνηση αργότερα
 ## General Section
 
 startup-header = Εκκίνηση
+tabs-group-header = Καρτέλες
 
 ## General Section - Language & Appearance
 
@@ -68,6 +69,9 @@ download-save-to =
 applications-type-column =
     .label = Τύπος περιεχομένου
     .accesskey = Τ
+applications-action-column =
+    .label = Ενέργεια
+    .accesskey = Ε
 update-application-use-service =
     .label = Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων
     .accesskey = υ
@@ -77,9 +81,13 @@ update-application-use-service =
 
 ## General Section - Browsing
 
+browsing-title = Περιήγηση
 browsing-use-autoscroll =
     .label = Χρήση αυτόματης κύλισης
     .accesskey = α
+browsing-use-smooth-scrolling =
+    .label = Χρήση ομαλής κύλισης
+    .accesskey = μ
 
 ## General Section - Proxy
 
