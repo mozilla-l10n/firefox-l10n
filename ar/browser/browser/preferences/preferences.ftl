@@ -75,6 +75,8 @@ startup-blank-page =
     .label = اعرض صفحة فارغة
 startup-prev-session =
     .label = اعرض نوافذي و ألسنتي من المرّة السابقة
+disable-extension =
+    .label = عطّل الامتداد
 home-page-header = اعرض صفحتي الرئيسية
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = الألسنة
 ctrl-tab-recently-used-order =
     .label = ‏Ctrl+Tab يتنقّل عبر الألسنة حسب ترتيب آخر استخدام
     .accesskey = T
+open-new-link-as-tabs =
+    .label = افتح الروابط في ألسنة بدل فتح نوافذ جديدة
+    .accesskey = ن
 warn-on-close-multiple-tabs =
     .label = نبّهني عند محاولة إغلاق عدّة ألسنة
     .accesskey = ة
@@ -203,6 +208,7 @@ play-drm-content =
     .accesskey = ش
 play-drm-content-learn-more = اطّلع على المزيد
 update-application-title = تحديثات { -brand-short-name }
+update-application-description = أبقِ { -brand-short-name } للحصول على أحسن أداء و ثبات و أمان.
 update-application-info = الإصدارة { $version } <a>ما الجديد</a>
 update-history =
     .label = أظهر تأريخ التحديث…
@@ -227,11 +233,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = الأداء
+performance-use-recommended-settings-checkbox =
+    .label = استعمل إعدادات الأداء المستحسنة
+    .accesskey = س
+performance-use-recommended-settings-desc = طُوِّعت هذه الإعدادات لتناسب عتاد حاسوبك و نظام تشغيله.
+performance-settings-learn-more = اطّلع على المزيد
 performance-allow-hw-accel =
     .label = استخدم تسريع العتاد إن كان متاحًا
     .accesskey = ع
 performance-limit-content-process-option = حد سيرورة المحتوى
     .accesskey = ح
+performance-limit-content-process-enabled-desc = يمكن أن تساهم زيادة سيرورات المحتوى في تحسين الأداء عند استعمال عدة ألسنة، و لكن ذلك يستهلك ذاكرة أكثر.
+performance-limit-content-process-disabled-desc = لا يمكن تعديل عدد سيرورات المحتوى إلا في { -brand-short-name } متعدد السيرورات. <a>اطلع على كيفية التحقق من تفعيل تعدد السيرورات</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -259,6 +272,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = وسيط الشبكة
+network-proxy-connection-learn-more = اطّلع على المزيد
 network-proxy-connection-settings =
     .label = الإعدادات…
     .accesskey = ع
