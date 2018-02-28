@@ -49,6 +49,7 @@ startup-page = នៅពេល { -brand-short-name } ចាប់ផ្ដើម
     .accesskey = s
 startup-blank-page =
     .label = បង្ហាញ​ទំព័រ​ទទេ
+tabs-group-header = ផ្ទាំង
 
 ## General Section - Language & Appearance
 
