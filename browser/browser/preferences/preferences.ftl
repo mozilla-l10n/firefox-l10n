@@ -64,6 +64,9 @@ always-check-default =
     .accesskey = S
 is-default = { -brand-short-name } adalah peramban baku Anda
 is-not-default = { -brand-short-name } bukan peramban baku Anda
+set-as-my-default-browser =
+    .label = Jadikan Baku…
+    .accesskey = U
 startup-page = Ketika { -brand-short-name } mulai
     .accesskey = m
 startup-user-homepage =
@@ -125,6 +128,7 @@ containers-disable-alert-cancel-button = Tetap aktifkan
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Bahasa dan Tampilan
 fonts-and-colors-header = Huruf & Warna
 default-font = Fon baku
     .accesskey = B
@@ -153,6 +157,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Berkas dan Aplikasi
 download-header = Unduhan
 download-save-to =
     .label = Simpan berkas di
@@ -250,6 +255,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Proksi Jaringan
 network-proxy-connection-learn-more = Pelajari lebih lanjut
 network-proxy-connection-settings =
     .label = Setelan…
