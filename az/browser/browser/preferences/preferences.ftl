@@ -51,6 +51,16 @@ restart-later = Sonra yenidən başlat
 
 ## General Section
 
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = { -brand-short-name } və Firefox-un eyni anda işləməsinə icazə ver
+use-firefox-sync = Məsləhət: Bu fərqli profillər işlədir. Aralarında məlumatları paylaşmaq üçün { -sync-brand-short-name } işlət.
+always-check-default =
+    .label = { -brand-short-name } səyyahının əsas səyyahınız olub olmadığını hər dəfə yoxla
+    .accesskey = y
+is-default = { -brand-short-name } hazırda əsas səyyahınızdır
+is-not-default = { -brand-short-name } əsas səyyahınız deyil
 startup-blank-page =
     .label = Boş səhifəni göstər
 choose-bookmark =
@@ -60,9 +70,24 @@ tabs-group-header = Vərəqlər
 show-tabs-in-taskbar =
     .label = Vərəqlərə ön baxışı Windows tapşırıq panelində göstər
     .accesskey = e
+browser-containers-enabled =
+    .label = Konteyner Vərəqlərini Aktivləşdir
+    .accesskey = n
+browser-containers-learn-more = Ətraflı öyrən
+containers-disable-alert-title = Bütün konteyner vərəqlər qapatılsın?
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount } konteyner vərəqini qapat
+       *[other] { $tabCount } konteyner vərəqini qapat
+    }
+containers-disable-alert-cancel-button = Açıq tut
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Şriftlər və Rənglər
+advanced-fonts =
+    .label = Təkmilləşmiş…
+    .accesskey = T
 colors-settings =
     .label = Rənglər…
     .accesskey = R
@@ -70,6 +95,12 @@ choose-language-description = Səhifələrin göstəriləcəyi dili seçin
 choose-button =
     .label = Seçin…
     .accesskey = S
+translate-web-pages =
+    .label = Web məzmunu tərcümə et
+    .accesskey = t
+translate-exceptions =
+    .label = İstisnalar…
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -94,18 +125,26 @@ applications-type-column =
 applications-action-column =
     .label = Əməliyyat
     .accesskey = Ə
+play-drm-content-learn-more = Ətraflı öyrən
+update-application-use-service =
+    .label = Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et
+    .accesskey = a
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Səyahət
 browsing-use-autoscroll =
     .label = Avtomatik sürüşdürmədən istifadə et
     .accesskey = A
 browsing-use-smooth-scrolling =
     .label = Axıcı sürüşdürmədən istifadə et
     .accesskey = c
+browsing-use-onscreen-keyboard =
+    .label = Lazım olduqda toxunmalı klaviaturanı göstər
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = Səhifələrdə hərəkət edərkən yazi kursorundan istifadə et
     .accesskey = S
