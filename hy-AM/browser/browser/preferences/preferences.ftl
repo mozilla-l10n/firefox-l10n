@@ -51,9 +51,25 @@ restart-later = Վերամեկնարկել հետո
 
 ## General Section
 
+startup-header = Մեկնարկը                
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Օգտագործել ընթացիկ էջը
+           *[other] Օգտագործել ընթացիկ էջերը
+        }
+    .accesskey = ը
+choose-bookmark =
+    .label = Օգտագործել էջանիշ...                
+    .accesskey = է
 restore-default =
     .label = Վերականգնել լռելայնը
     .accesskey = Վ
+tabs-group-header = Ներդիրներ
 
 ## General Section - Language & Appearance
 
