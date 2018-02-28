@@ -48,6 +48,9 @@ restart-later = Arvi torna Dòppo
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Avansæ…
+    .accesskey = n
 
 ## General Section - Files and Applications
 
