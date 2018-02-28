@@ -89,6 +89,7 @@ use-current-pages =
 choose-bookmark =
     .label = Folosește un marcaj…
     .accesskey = B
+tabs-group-header = File
 ctrl-tab-recently-used-order =
     .label = Cicluri de Ctrl+Tab printre file în ordinea celor mai folosite recent
     .accesskey = T
