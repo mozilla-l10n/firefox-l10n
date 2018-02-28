@@ -52,6 +52,16 @@ restart-later = Reiniciar después
 ## General Section
 
 startup-header = Inicio
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Permitir que { -brand-short-name } y Firefox corran al mismo tiempo
+use-firefox-sync = Consejo: Esto utiliza perfiles separados. Usa { -sync-brand-short-name } para compartir información entre ellos.
+always-check-default =
+    .label = Siempre revisar si { -brand-short-name } es tu navegador predeterminado
+    .accesskey = S
+is-default = { -brand-short-name } es tu navegador predeterminado
+is-not-default = { -brand-short-name } no es tu navegador predeterminado
 startup-blank-page =
     .label = Mostrar una página vacía
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -65,6 +75,9 @@ use-current-pages =
            *[other] Usar páginas actuales
         }
     .accesskey = c
+choose-bookmark =
+    .label = Usar marcador…
+    .accesskey = m
 restore-default =
     .label = Restaurar valor por defecto
     .accesskey = R
@@ -86,6 +99,12 @@ choose-language-description = Elegir el idioma preferido para mostrar las págin
 choose-button =
     .label = Seleccionar…
     .accesskey = o
+translate-web-pages =
+    .label = Traducir contenido web
+    .accesskey = T
+translate-exceptions =
+    .label = Excepciones…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
@@ -110,6 +129,10 @@ applications-type-column =
 applications-action-column =
     .label = Acción
     .accesskey = A
+play-drm-content-learn-more = Saber más 
+update-application-use-service =
+    .label = Utilizar un servicio en segundo plano para instalar las actualizaciones
+    .accesskey = s
 
 ## General Section - Performance
 
@@ -123,6 +146,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Usar desplazamiento suave
     .accesskey = s
+browsing-use-onscreen-keyboard =
+    .label = Mostrar el teclado táctil cuando sea necesario
+    .accesskey = t
 
 ## General Section - Proxy
 
