@@ -50,11 +50,20 @@ restart-later = తరువాత పునఃప్రారంభించు
 
 ## General Section
 
+always-check-default =
+    .label = { -brand-short-name } మీ అప్రమేయ విహారిణియేనా అని ఎల్లప్పుడూ పరిశీలించు
+    .accesskey = w
+is-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి
+is-not-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు
 startup-blank-page =
     .label = ఖాళీ పేజీని చూపించు
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = ఫాంట్స్ & రంగులు
+advanced-fonts =
+    .label = ఉన్నతం…
+    .accesskey = A
 
 ## General Section - Files and Applications
 
