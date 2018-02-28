@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Таза парақты көрсету
 startup-prev-session =
     .label = Алдында ашылған терезелер мен беттерді көрсету
+disable-extension =
+    .label = Кеңейтуді сөндіру
 home-page-header = Үй парағыңызды көрсету
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = Беттер
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab беттер арасында соңғы қолданылу реті бойынша ауысады
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Сілтемелерді жаңа терезелер орнына жаңа беттерде ашу
+    .accesskey = р
 warn-on-close-multiple-tabs =
     .label = Бірнеше беттер бірге жабылған кезде ескерту
     .accesskey = с
@@ -195,6 +200,7 @@ play-drm-content =
     .accesskey = й
 play-drm-content-learn-more = Көбірек білу
 update-application-title = { -brand-short-name } жаңартулары
+update-application-description = { -brand-short-name } жақсырақ өнімділік, тұрақтылық және қауіпсіздікпен жаңартылған етіп ұстаңыз.
 update-application-info = Нұсқасы { $version } <a>Не жаңалық</a>
 update-history =
     .label = Жаңартулар тарихын көрсету…
@@ -219,11 +225,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Өнімділік
+performance-use-recommended-settings-checkbox =
+    .label = Ұсынылатын өнімділік баптауларын қолдану
+    .accesskey = д
+performance-use-recommended-settings-desc = Бұл баптаулар сіздің компьютеріңіздің құрылғылары және операциялық жүйесі үшін ыңғайлатылған.
+performance-settings-learn-more = Көбірек білу
 performance-allow-hw-accel =
     .label = Қолжетерлік болса құрылғылық үдетуді қолдану
     .accesskey = д
 performance-limit-content-process-option = Құрама процестерінің шегі
     .accesskey = ш
+performance-limit-content-process-enabled-desc = Қосымша құрама процестері бірнеше беттерді қолдану кезінде өнімділікті арттыра алады, бірақ, нәтижесінде көбірек жады қолданылады.
+performance-limit-content-process-disabled-desc = Процесстер санын түзету тек көппроцесстік { -brand-short-name } үшін мүмкін. <a>Көппроцесстік іске қосылғанын қалай білуге болады</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -251,6 +264,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Желілік прокси
+network-proxy-connection-learn-more = Көбірек білу
 network-proxy-connection-settings =
     .label = Баптау…
     .accesskey = а
