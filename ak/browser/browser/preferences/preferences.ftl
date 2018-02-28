@@ -32,6 +32,7 @@ should-restart-title = San hyɛ { -brand-short-name } ase
 ## General Section
 
 startup-header = Nhyɛase
+is-default = { -brand-short-name } yɛ wo brawsa a ɛyɛ difɔlt seisei
 startup-blank-page =
     .label = Kyerɛ krataafa pan
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -68,6 +69,9 @@ choose-language-description = Paw kasa a wo pɛ sɛ wo de kyerɛ nkrataafa
 choose-button =
     .label = Paw…
     .accesskey = w
+translate-exceptions =
+    .label = Ngyegye…
+    .accesskey = g
 
 ## General Section - Files and Applications
 
@@ -98,6 +102,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Fa hardware aksɛlɛrehyɛn di dwuma bere a ɛda hɔ biara
+    .accesskey = h
 
 ## General Section - Browsing
 
