@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Suubarey
            *[other] Ibaayey
         }
@@ -32,5 +33,25 @@ feature-enable-requires-restart = { -brand-short-name } ma tun taaga k'alhaaloo 
 feature-disable-requires-restart = { -brand-short-name } ma tun taaga k'alhaaloo woo kaŋandi.
 should-restart-title = { -brand-short-name } tunandi taaga
 should-restart-ok = { -brand-short-name } tunandi taaga sohõ
-revert-no-restart-button = Willi
 restart-later = Tunandi taaga nd'a too kayna
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Tukey gaabu ga
+    .accesskey = g
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
