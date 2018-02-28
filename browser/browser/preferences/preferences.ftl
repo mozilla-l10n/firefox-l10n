@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Visada
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Nuostatos
            *[other] Nuostatos
         }
@@ -46,5 +47,68 @@ feature-enable-requires-restart = Norint įjungti šį funkcionalumą, programą
 feature-disable-requires-restart = Norint išjungti šį funkcionalumą, programą „{ -brand-short-name }“ reikia perleisti.
 should-restart-title = Perleisti „{ -brand-short-name }“
 should-restart-ok = Perleisti „{ -brand-short-name }“ dabar
-revert-no-restart-button = Atstatyti
 restart-later = Perleisti vėliau
+
+## General Section
+
+startup-blank-page =
+    .label = rodyti tuščią puslapį
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Šiuo metu atvertas tinklalapis
+           *[other] Šiuo metu atverti tinklalapiai
+        }
+    .accesskey = Š
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Šriftai ir spalvos
+advanced-fonts =
+    .label = Kitkas…
+    .accesskey = t
+colors-settings =
+    .label = Spalvos…
+    .accesskey = S
+choose-language-description = Pasirinkite kalbą, kuria pageidaujate matyti tinklalapių turinį.
+choose-button =
+    .label = Pasirinkti…
+    .accesskey = P
+
+## General Section - Files and Applications
+
+download-header = Atsiuntimai
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Parinkti…
+           *[other] Parinkti…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] r
+           *[other] r
+        }
+applications-type-column =
+    .label = Turinio tipas
+    .accesskey = t
+applications-action-column =
+    .label = Veiksmas
+    .accesskey = V
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Naršymas
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Nuostatos…
+    .accesskey = N
