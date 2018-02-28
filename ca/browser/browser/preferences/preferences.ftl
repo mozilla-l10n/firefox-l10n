@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sempre
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opcions
            *[other] Preferències
         }
@@ -46,5 +47,71 @@ feature-enable-requires-restart = Heu de reiniciar el { -brand-short-name } per 
 feature-disable-requires-restart = Heu de reiniciar el { -brand-short-name } per inhabilitar aquesta característica.
 should-restart-title = Reinicia el { -brand-short-name }
 should-restart-ok = Reinicia el { -brand-short-name } ara
-revert-no-restart-button = Reverteix
 restart-later = Reinicia més tard
+
+## General Section
+
+startup-header = Inici
+startup-blank-page =
+    .label = Mostra una pàgina en blanc
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Utilitza la pàgina actual
+           *[other] Utilitza les pàgines actuals
+        }
+    .accesskey = c
+restore-default =
+    .label = Restaura les pàgines per defecte
+    .accesskey = R
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Tipus de lletra i colors
+advanced-fonts =
+    .label = Avançat…
+    .accesskey = v
+colors-settings =
+    .label = Colors…
+    .accesskey = C
+choose-button =
+    .label = Trieu…
+    .accesskey = T
+
+## General Section - Files and Applications
+
+download-header = Baixades
+download-save-to =
+    .label = Desa els fitxers a
+    .accesskey = s
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Trieu…
+           *[other] Navega…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] v
+        }
+applications-type-column =
+    .label = Tipus de contingut
+    .accesskey = T
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Navegació
+browsing-use-autoscroll =
+    .label = Utilitza el desplaçament automàtic
+    .accesskey = a
+
+## General Section - Proxy
+
