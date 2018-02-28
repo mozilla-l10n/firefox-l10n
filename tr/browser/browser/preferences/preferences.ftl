@@ -68,6 +68,17 @@ startup-prev-session =
 disable-extension =
     .label = Eklentiyi etkisizleştir
 home-page-header = Giriş sayfamı göster
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Geçerli sayfayı kullan
+           *[other] Geçerli sayfaları kullan
+        }
+    .accesskey = s
 restore-default =
     .label = Varsayılanı geri getir
     .accesskey = r
@@ -101,6 +112,9 @@ default-font = Varsayılan yazı tipi
     .accesskey = t
 default-font-size = Boyut
     .accesskey = B
+advanced-fonts =
+    .label = Gelişmiş…
+    .accesskey = G
 colors-settings =
     .label = Renkler…
     .accesskey = R
