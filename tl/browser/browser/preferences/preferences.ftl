@@ -53,8 +53,16 @@ restart-later = I-restart Mamaya
 
 startup-header = Nagsisimula
 is-default = { -brand-short-name } ay ang iyong kasalukuyang ginagamit na browser.
+set-as-my-default-browser =
+    .label = Gawing Default…
+    .accesskey = D
+startup-user-homepage =
+    .label = Ipakita ang iyong punong pahina
 startup-blank-page =
     .label = Magpakita ng blankong pahina
+startup-prev-session =
+    .label = Ipakita ang iyong mga window at tab noong nakaraan
+home-page-header = Ipakita ang iyong punong pahina
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -92,10 +100,16 @@ choose-button =
 translate-exceptions =
     .label = Mga exceptions...
     .accesskey = x
+check-user-spelling =
+    .label = Suriin ang pagkabaybay habang nag ta-type
+    .accesskey = t
 
 ## General Section - Files and Applications
 
 download-header = Mga Download
+download-save-to =
+    .label = I-save ang mga file sa
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -110,27 +124,46 @@ download-choose-folder =
 applications-action-column =
     .label = Aksyon
     .accesskey = A
+update-application-title = Mga update ng { -brand-short-name }
+update-application-info = Bersyon { $version } <a>Ano ang bago?</a>
+update-history =
+    .label = Ipakita ang kasaysayan nang pag-update…
+    .accesskey = p
+update-application-allow-description = Payagan ang { -brand-short-name } na
 update-application-use-service =
     .label = Gumamit ng background service upang i-install ang mga update
     .accesskey = b
+update-enable-search-update =
+    .label = Awtomatikong i-update ang mga search engine
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-settings-learn-more = Karagdagang kalaaman
 
 ## General Section - Browsing
 
+browsing-title = Pag-browse
 browsing-use-autoscroll =
     .label = Gamitin ang autoscrolling
     .accesskey = a
 browsing-use-smooth-scrolling =
     .label = Gamitin ang maayos na pag-scroll
     .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = Ipakita ang touch keyboard kung kinakailangan
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = Palagiang gamitin ang mga cursor key upang libutin ang mga pahina
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = Maghahanap ng text kapag nag umpisang mag-type
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy ng Network
+network-proxy-connection-learn-more = Matuto ng higit pa
 network-proxy-connection-settings =
     .label = Settings…
     .accesskey = e
