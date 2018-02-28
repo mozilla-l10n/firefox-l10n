@@ -52,9 +52,13 @@ restart-later = कुछ देर से पुनर्प्रारंभ 
 ## General Section
 
 startup-header = आरंभन
+startup-blank-page =
+    .label = खाली पृष्ठ दिखाएँ
+tabs-group-header = टैब
 
 ## General Section - Language & Appearance
 
+choose-language-description = पृष्ठ प्रदर्शन के लिए अपनी पसंदीदा भाषा का चयन करें
 
 ## General Section - Files and Applications
 
