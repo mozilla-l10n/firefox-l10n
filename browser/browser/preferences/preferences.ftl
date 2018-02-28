@@ -56,25 +56,63 @@ startup-header = ప్రారంభ ప్రక్రియ
 separate-profile-mode =
     .label = { -brand-short-name }ని మరియు Firefox ని ఒకేసారి నడుపుటకు అనుమతించు
 use-firefox-sync = చిట్కా: ఇది వేర్వేరు ప్రొఫైళ్ళను వాడుతుంది. వాటి మధ్యలో డేటాను పంచుకోడానికి { -sync-brand-short-name }ను వాడండి.
+get-started-not-logged-in = { -sync-brand-short-name } లోనికి ప్రవేశించండి…
+get-started-configured = { -sync-brand-short-name } అభిరుచులను తెరువు
 always-check-default =
     .label = { -brand-short-name } మీ అప్రమేయ విహారిణియేనా అని ఎల్లప్పుడూ పరిశీలించు
     .accesskey = w
 is-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి
 is-not-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు
+startup-page = { -brand-short-name } మొదలైనప్పుడు
+    .accesskey = s
+startup-user-homepage =
+    .label = నా ముంగిలి పేజీని చూపించు
 startup-blank-page =
     .label = ఖాళీ పేజీని చూపించు
 startup-prev-session =
     .label = చివరిగా మీరు చూసిన విండోలను ట్యాబులను చూపించు
+disable-extension =
+    .label = పొడగింతను అచేతనించు
+home-page-header = నా ముంగిలి పేజీని చూపించు
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] ప్రస్తుత పేజీని వాడు
+           *[other] ప్రస్తుత పేజీలను వాడు
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = ఇష్టాంశాన్ని వాడు…
+    .accesskey = B
 restore-default =
     .label = అప్రమేయాలను పునరుద్ధరించు
     .accesskey = R
 tabs-group-header = ట్యాబులు
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab ట్యాబులను వరుసగా కాకుండా వాటిని ఇటీవల వాడిన క్రమంలో చుట్టుతిప్పుతుంది
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = లంకెలను కొత్త విండోలలో కాక ట్యాబులలో తెరువు
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = పలు ట్యాబులను మూసివేస్తున్నప్పుడు మిమ్మల్ని హెచ్చరించు
     .accesskey = m
 warn-on-open-many-tabs =
     .label = { -brand-short-name } నిదానింపు చేయగల బహుళ ట్యాబులను తెరుచునపుడు నిన్ను హెచ్చరించు
     .accesskey = d
+switch-links-to-new-tabs =
+    .label = నేను కొత్త ట్యాబులో లంకెను తెరిచినప్పుడు, వెంటనే దానికి మారు
+    .accesskey = h
+show-tabs-in-taskbar =
+    .label = ట్యాబు మునుజూపులను విండోస్ టాస్క్‌బారులో చూపించు
+    .accesskey = k
+browser-containers-enabled =
+    .label = కంటైనర్ ట్యాబులను చేతనం చేయి
+    .accesskey = n
 browser-containers-learn-more = ఇంకా తెలుసుకోండి
 browser-containers-settings =
     .label = అమరికలు…
@@ -95,15 +133,33 @@ containers-disable-alert-cancel-button = అలానే చేతనించ�
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = ఫాంట్స్ & రంగులు
+default-font = అప్రమేయ ఫాంటు
+    .accesskey = D
+default-font-size = పరిమాణం
+    .accesskey = S
 advanced-fonts =
     .label = ఉన్నతం…
     .accesskey = A
+colors-settings =
+    .label = రంగులు…
+    .accesskey = C
+choose-language-description = పేజీలను చూపించడానికి మీ ప్రాధాన్య భాషను ఎంచుకోండి
+choose-button =
+    .label = ఎంచుకోండి…
+    .accesskey = o
+translate-web-pages =
+    .label = వెబ్ కాంటెంట్ అనువదించు
+    .accesskey = T
+translate-exceptions =
+    .label = మినహాయింపులు…
+    .accesskey = x
 check-user-spelling =
     .label = మీరు టైపు చేసినప్పుడు స్పెల్లింగ్ ను పరిశీలించు
     .accesskey = t
 
 ## General Section - Files and Applications
 
+download-header = దింపుకోళ్ళు
 download-save-to =
     .label = ఇచట ఫైల్సు భద్రపరచు
     .accesskey = v
@@ -121,6 +177,7 @@ download-choose-folder =
 download-always-ask-where =
     .label = ఫైల్సు ఎక్కడ భద్రపరచాలో ఎప్పుడూ మిమ్మల్ని ఆడుగు
     .accesskey = A
+applications-header = అనువర్తనాలు
 applications-type-column =
     .label = విషయాంశ రకం
     .accesskey = T
@@ -128,12 +185,45 @@ applications-action-column =
     .label = చర్య
     .accesskey = A
 play-drm-content-learn-more = ఇంకా తెలుసుకోండి
+update-application-title = { -brand-short-name } తాజాకరణలు
+update-application-info = సంచిక { $version } <a>కొత్తవి ఏమిటి</a>
+update-history =
+    .label = తాజాకరణ చరిత్రను చూపించు…
+    .accesskey = p
+update-application-allow-description = వీటికి { -brand-short-name }ని అనుమతించు
+update-application-check-choose =
+    .label = తాజాకరణల కోసం చూస్తుంది కానీ స్థాపించుకోవాలో వద్దో మిమ్నల్ని ఎంచుకోనిస్తుంది
+    .accesskey = C
+update-application-manual =
+    .label = తాజాకరణల కోసం ఎప్పుడూ చూడవద్దు (సిఫారసు చేయము)
+    .accesskey = N
+update-application-use-service =
+    .label = తాజాకరణలను స్థాపించడానికి బ్యాక్‌గ్రౌండ్ సేవను వాడు
+    .accesskey = b
+update-enable-search-update =
+    .label = సెర్చింజన్లను స్వయంచాలకంగా తాజాకరించు
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = పనితనం
+performance-allow-hw-accel =
+    .label = అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించు
+    .accesskey = r
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (అప్రమేయం)
 
 ## General Section - Browsing
 
+browsing-title = విహారణ
+browsing-use-autoscroll =
+    .label = స్వయంచాలక స్క్రోలింగ్ వాడు
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = సాఫీ స్క్రోలింగ్ వాడు
+    .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = అవసరమైనప్పుడు స్పర్శా కీ బోర్డు చూపించు
     .accesskey = k
@@ -146,3 +236,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = నెట్‌వర్క్ ప్రాక్సీ
+network-proxy-connection-learn-more = ఇంకా తెలుసుకోండి
+network-proxy-connection-settings =
+    .label = అమరికలు…
+    .accesskey = e
