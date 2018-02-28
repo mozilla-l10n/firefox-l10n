@@ -29,6 +29,24 @@ should-restart-title = { -brand-short-name }-г шинээр ачаал
 
 ## General Section
 
+startup-header = Эхлэл
+startup-blank-page =
+    .label = Хоосон хуудас харуул
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Одоогийн хуудсыг хэрэглэ
+           *[other] Одоогийн хуудаснуудыг хэрэглэ
+        }
+    .accesskey = д
+restore-default =
+    .label = Анхны горимд сэргээ
+    .accesskey = с
+tabs-group-header = Самбар
 
 ## General Section - Language & Appearance
 
@@ -42,9 +60,27 @@ choose-button =
 
 ## General Section - Files and Applications
 
+download-header = Файл татаж авах үед
+download-save-to =
+    .label = Файлыг энд хадгал
+    .accesskey = д
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Сонго…
+           *[other] Зааж өг…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] о
+           *[other] ө
+        }
 applications-type-column =
     .label = Файлын төрөл
     .accesskey = ө
+applications-action-column =
+    .label = Хэрхэн хандах
+    .accesskey = н
 
 ## General Section - Performance
 
