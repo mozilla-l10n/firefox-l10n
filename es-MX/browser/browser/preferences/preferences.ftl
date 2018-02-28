@@ -183,6 +183,9 @@ download-choose-folder =
             [macos] E
            *[other] x
         }
+download-always-ask-where =
+    .label = Siempre preguntarme dónde guardar archivos
+    .accesskey = A
 applications-header = Aplicaciones
 applications-description = Decide cómo { -brand-short-name } gestiona los archivos que descargas de la Web o las aplicaciones que utilizas mientras navegas.
 applications-filter =
