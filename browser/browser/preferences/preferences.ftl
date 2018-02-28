@@ -71,6 +71,7 @@ choose-bookmark =
 restore-default =
     .label = Aisig na roghainnean bunaiteach
     .accesskey = r
+tabs-group-header = Tabaichean
 show-tabs-in-taskbar =
     .label = Seall ro-shealladh nan tabaichean ann am bàr-ghnìomhan Windows
     .accesskey = S
