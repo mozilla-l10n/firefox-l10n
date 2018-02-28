@@ -137,6 +137,7 @@ containers-disable-alert-cancel-button = Mbaji të aktivizuara
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Gjuhë dhe Dukje
+fonts-and-colors-header = Shkronja & Ngjyra
 default-font = Shkronja parazgjedhje
     .accesskey = p
 default-font-size = Madhësi
