@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opcións
            *[other] Preferencias
         }
@@ -26,3 +27,46 @@ close-button =
 feature-enable-requires-restart = Debe reiniciar o { -brand-short-name } para activar esta característica.
 feature-disable-requires-restart = Debe reiniciar o { -brand-short-name } para desactivar esta característica.
 should-restart-title = Reiniciar o { -brand-short-name }
+
+## General Section
+
+startup-header = Inicio
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Tipos de letra e cores
+advanced-fonts =
+    .label = Avanzadas…
+    .accesskey = A
+colors-settings =
+    .label = Cores…
+    .accesskey = C
+choose-button =
+    .label = Escoller…
+    .accesskey = o
+
+## General Section - Files and Applications
+
+download-header = Descargas
+download-save-to =
+    .label = Gardar ficheiros en
+    .accesskey = G
+applications-type-column =
+    .label = Tipo de contido
+    .accesskey = T
+applications-action-column =
+    .label = Acción
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Navegación
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Configuración…
+    .accesskey = C
