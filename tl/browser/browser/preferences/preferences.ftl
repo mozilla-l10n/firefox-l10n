@@ -122,6 +122,11 @@ browser-containers-settings =
     .label = Mga setting…
     .accesskey = i
 containers-disable-alert-title = Isara ang Lahat ng Mga Tab ng Lalagyan?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Kung hindi mo pinagana ang Mga Tab ng Lalagyan ngayon, sarado ang tab ng { $tabCount }. Sigurado ka ba na nais mong huwag paganahin ang mga Tab ng Lalagyan?
+       *[other] Kung hindi mo pinagana ang Mga Tab ng Lalagyan ngayon, ang mga tab ng { $tabCount } lalagyan ay sarado. Sigurado ka bang gusto mong huwag paganahin ang Mga Tab ng Lalagyan?
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Isara ang { $tabCount } Container Tab
