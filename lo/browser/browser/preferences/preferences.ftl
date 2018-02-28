@@ -88,6 +88,10 @@ download-choose-folder =
 
 ## General Section - Performance
 
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (ຄ່າເລີ່ມຕົ້ນ)
 
 ## General Section - Browsing
 
