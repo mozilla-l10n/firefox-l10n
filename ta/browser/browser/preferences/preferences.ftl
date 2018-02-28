@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = எப்போதும்
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] தேர்வுகள்
            *[other] முன்னுரிமைகள்
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = இந்த அம்சத்தை செ�
 feature-disable-requires-restart = இந்த அம்சத்தை முடக்க { -brand-short-name } ஐ மறுதுவக்கம் செய்ய வேண்டும்.
 should-restart-title = { -brand-short-name }ஐ மறுதுவக்கு
 should-restart-ok = { -brand-short-name } இப்போதே மீட்தொடங்கு
-revert-no-restart-button = திருப்பிவிடு
 restart-later = பின்னர் மீட்துவக்கு
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
