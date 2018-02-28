@@ -119,6 +119,8 @@ browser-containers-settings =
     .label = การตั้งค่า…
     .accesskey = ต
 containers-disable-alert-title = ปิดแท็บแยกข้อมูลทั้งหมด?
+containers-disable-alert-desc = หากคุณปิดใช้งานแท็บแยกข้อมูลตอนนี้ { $tabCount } แท็บแยกข้อมูลจะถูกปิด คุณแน่ใจหรือไม่ว่าต้องการปิดใช้งานแท็บแยกข้อมูล?
+containers-disable-alert-ok-button = ปิด { $tabCount } แท็บแยกข้อมูล
 containers-disable-alert-cancel-button = เปิดใช้งานต่อไป
 
 ## General Section - Language & Appearance
