@@ -56,6 +56,7 @@ startup-header = Aviada
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Autorizar { -brand-short-name } e Firefox a s'executar a l’encòp
+use-firefox-sync = Astúcia : aquò utiliza de perfils destriats. Utilizatz { -sync-brand-short-name } per partejar de donadas entre eles.
 get-started-not-logged-in = Se connectar a { -sync-brand-short-name }…
 get-started-configured = Dobrir las preferéncias del { -sync-brand-short-name }
 set-as-my-default-browser =
@@ -69,6 +70,8 @@ startup-blank-page =
     .label = Afichar una pagina voida
 startup-prev-session =
     .label = Afichar vòstras fenèstras e onglets de la darrièra visita
+disable-extension =
+    .label = Desactivar l’extension
 home-page-header = Afichar vòstra pagina d'acuèlh
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -91,6 +94,9 @@ tabs-group-header = Onglets
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab fa passar los onglets dins l'òrdre de darrièra utilizacion
     .accesskey = O
+open-new-link-as-tabs =
+    .label = Dobrir los ligams dins d’onglets al lòc de fenèstras
+    .accesskey = f
 warn-on-close-multiple-tabs =
     .label = Vos avisar en tampar d'onglets multiples
     .accesskey = m
@@ -147,6 +153,9 @@ translate-web-pages =
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
+check-user-spelling =
+    .label = Verificar l'ortografia en picar
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -238,10 +247,14 @@ browsing-use-smooth-scrolling =
 browsing-use-onscreen-keyboard =
     .label = Mostrar un clavièr tactil quand es necessari
     .accesskey = k
+browsing-search-on-start-typing =
+    .label = Començar la recèrca en picar lo tèxte
+    .accesskey = x
 
 ## General Section - Proxy
 
 network-proxy-title = Proxy de ret
+network-proxy-connection-learn-more = Ne saber mai
 network-proxy-connection-settings =
     .label = Paramètres
     .accesskey = e
