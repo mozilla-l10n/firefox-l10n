@@ -52,14 +52,38 @@ restart-later = הפעלה מחדש מאוחר יותר
 ## General Section
 
 startup-header = הפעלה
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = לאפשר ל־{ -brand-short-name } ול־Firefox לרוץ במקביל
+use-firefox-sync = טיפ: פעולה זו מתאפשרת תודות ליצירה של שני פרופילים נפרדים. ניתן להשתמש ב־{ -sync-brand-short-name } כדי לסנכרן נתונים בניהם.
+get-started-configured = פתיחת מסך ההעדפות של { -sync-brand-short-name }
+always-check-default =
+    .label = תמיד לבדוק אם { -brand-short-name } הוא דפדפן בררת מחדל
+    .accesskey = ת
+is-not-default = { -brand-short-name } אינו דפדפן בררת המחדל שלך
+startup-page = כאשר { -brand-short-name } מופעל
+    .accesskey = כ
+tabs-group-header = לשוניות
+browser-containers-settings =
+    .label = הגדרות…
+    .accesskey = ג
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = גופנים וצבעים
+default-font-size = גודל
+    .accesskey = ג
 choose-language-description = בחירת השפה המועדפת עליך להצגת דפים
 choose-button =
     .label = בחירה…
     .accesskey = ב
+translate-web-pages =
+    .label = תרגום תוכן רשת
+    .accesskey = ת
+translate-exceptions =
+    .label = חריגות…
+    .accesskey = ג
 
 ## General Section - Files and Applications
 
@@ -75,18 +99,37 @@ download-choose-folder =
             [macos] ב
            *[other] י
         }
+applications-header = ישומים
+applications-description = בחירה כיצד { -brand-short-name } יטפל בקבצים שהורדו מהרשת או ביישומים שיהיו בשימוש במהלך הגלישה.
 applications-type-column =
     .label = סיווג תוכן
     .accesskey = ס
 applications-action-column =
     .label = פעולה
     .accesskey = פ
+drm-content-header = תוכן ניהול זכויות דיגיטלי (DRM)
+play-drm-content =
+    .label = לנגן תוכן מוגן DRM
+    .accesskey = נ
+update-application-allow-description = לאפשר ל־{ -brand-short-name }
+update-application-check-choose =
+    .label = לבדוק אם קיימים עדכונים אבל לדרוש אישור כדי להתקין אותם
+    .accesskey = ב
+update-application-manual =
+    .label = לעולם לא לבדוק לעדכונים (לא מומלץ)
+    .accesskey = ל
 update-application-use-service =
     .label = שימוש בשירות רקע לשם התקנת עדכונים
     .accesskey = ר
+update-enable-search-update =
+    .label = עדכון מנועי חיפוש באופן אוטומטי
+    .accesskey = ע
 
 ## General Section - Performance
 
+performance-limit-content-process-option = הגבלת תהליך תוכן
+    .accesskey = ה
+performance-limit-content-process-enabled-desc = תהליכי תוכן נוספים עשויים לשפר את הביצועים בעת שימוש במספר לשוניות, עם זאת יעשה שימוש ביותר זיכרון.
 
 ## General Section - Browsing
 
@@ -94,9 +137,13 @@ browsing-title = דפדוף
 browsing-use-cursor-navigation =
     .label = השתמש תמיד במקשי הסמן לניווט בתוך דפים
     .accesskey = ס
+browsing-search-on-start-typing =
+    .label = חיפוש מלל עם תחילת הקלדה
+    .accesskey = מ
 
 ## General Section - Proxy
 
+network-proxy-title = מתווך רשת
 network-proxy-connection-settings =
     .label = הגדרות...
     .accesskey = ה
