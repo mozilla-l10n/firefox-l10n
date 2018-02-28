@@ -193,9 +193,11 @@ play-drm-content =
 play-drm-content-learn-more = 더 알아보기
 update-application-title = { -brand-short-name } 업데이트
 update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지힙니다.
+update-application-info = 버전 { $version } <a>새로운 기능</a>
 update-history =
     .label = 업데이트 기록 보기…
     .accesskey = p
+update-application-allow-description = { -brand-short-name } 설치 방법
 update-application-auto =
     .label = 자동으로 업데이트 설치(추천)
     .accesskey = A
@@ -214,9 +216,18 @@ update-enable-search-update =
 
 ## General Section - Performance
 
+performance-title = 성능
+performance-use-recommended-settings-checkbox =
+    .label = 권장 설정을 사용
+    .accesskey = U
+performance-use-recommended-settings-desc = 이 설정은 컴퓨터 하드웨어 및 운영체제에 맞게 조정됩니다.
+performance-settings-learn-more = 더 알아보기
 performance-allow-hw-accel =
     .label = 하드웨어 가속이 가능하면 사용
     .accesskey = r
+performance-limit-content-process-option = 컨텐트 프로세스 제한
+    .accesskey = L
+performance-limit-content-process-enabled-desc = 추가 컨텐트 프로세스는 다중 탭을 사용 하는 경우 성능을 향상 시킬 수 있지만 더 많은 메모리를 사용 합니다.
 performance-limit-content-process-disabled-desc = 컨텐트 프로세스 갯수 변경은 멀티 프로세스 { -brand-short-name }에서만 가능합니다. <a>멀티 프로세스가 활성화 되었는지 확인하는 방법</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
