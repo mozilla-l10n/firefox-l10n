@@ -75,6 +75,8 @@ startup-blank-page =
     .label = रिक्त पृष्ठ दाखवा
 startup-prev-session =
     .label = शेवटच्या वेळे पासून माझ्या विंडोज आणि टॅब्स दाखवा
+disable-extension =
+    .label = वाढीव कार्यक्रम निष्क्रिय करा
 home-page-header = माझे मुख्य पृष्ठ दाखवा
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -195,6 +197,7 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = आणखी शिका
 update-application-title = { -brand-short-name } सुधारणा
+update-application-description = सर्वोत्तम कामगिरी, स्थिरता आणि सुरक्षिततेसाठी { -brand-short-name } अद्ययावत ठेवा.
 update-history =
     .label = अद्ययावत इतिहास दाखवा…
     .accesskey = p
@@ -218,11 +221,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = कार्यक्षमता
+performance-use-recommended-settings-checkbox =
+    .label = शिफारस केलेले कार्यक्षमता सेटिंग वापरा
+    .accesskey = U
+performance-use-recommended-settings-desc = हे सेटिंग आपल्या संगणकाच्या हार्डवेअर आणि ऑपरेटिंग प्रणाली साठी अनुरूप होतील अशा प्रकारे बनवले आहेत.
+performance-settings-learn-more = आणखी जाणा
 performance-allow-hw-accel =
     .label = उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा
     .accesskey = r
 performance-limit-content-process-option = मजकूर प्रक्रिया मर्यादा
     .accesskey = l
+performance-limit-content-process-enabled-desc = अनेक टॅब वापरल्यास, अतिरिक्त मजकूर प्रक्रिया कार्यक्षमता वाढवू  शकतात, पण त्या अधिक मेमरी देखील वापरातील.
+performance-limit-content-process-disabled-desc = मजकूर प्रक्रियांची गणना बदलणे फक्त मल्टिप्रोसेस { -brand-short-name } सोबत शक्य आहे. <a>मल्टिप्रोसेस कार्यान्वित आहेत की नाही कसे तपासायचे ते जाणा</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
