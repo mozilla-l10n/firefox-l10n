@@ -57,8 +57,13 @@ is-default = { -brand-short-name } បច្ចុប្បន្ន​ជា​
 is-not-default = { -brand-short-name } វា​មិន​មែន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក
 startup-page = នៅពេល { -brand-short-name } ចាប់ផ្ដើម
     .accesskey = s
+startup-user-homepage =
+    .label = បង្ហាញ​ទំព័រ​ដើម​របស់​អ្នក
 startup-blank-page =
     .label = បង្ហាញ​ទំព័រ​ទទេ
+startup-prev-session =
+    .label = បង្ហាញ​បង្អួច និង​ផ្ទាំង​របស់​ខ្ញុំ​កាល​ពី​មុន
+home-page-header = បង្ហាញ​ទំព័រ​ដើម​របស់​អ្នក
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -80,6 +85,14 @@ tabs-group-header = ផ្ទាំង
 ctrl-tab-recently-used-order =
     .label = ប៊ូតុង​ Ctrl+Tab មាន​មុខងារ​ចូល​មើល​ផ្ទាំង​ដែល​បើក​ថ្មីៗ​ម្ដង​មួយ​ៗ
     .accesskey = T
+browser-containers-enabled =
+    .label = បើក​ផ្ទាំង​ឧបករណ៍​ផ្ទុក
+    .accesskey = ​
+browser-containers-learn-more = ស្វែងយល់​បន្ថែម
+containers-disable-alert-title = បិទ​ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ទាំងអស់មែន​ទេ?
+containers-disable-alert-desc = ប្រសិនបើ​អ្នក​បិទ​ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ឥឡូវ​នេះ ផ្ទាំង​ឧបករណ៍​ផ្ទុក { $tabCount } នឹង​ត្រូវបាន​បិទ។ តើ​អ្នក​ពិត​ជា​ចង់​បិទ​ផ្ទាំង​ឧបករណ៍​ផ្ទុក​មែន​ទេ?
+containers-disable-alert-ok-button = បិទ​ផ្ទាំង​ឧបករណ៍​ផ្ទុក { $tabCount }
+containers-disable-alert-cancel-button = បន្ត​បើក
 
 ## General Section - Language & Appearance
 
@@ -122,6 +135,9 @@ download-choose-folder =
             [macos] ស
            *[other] ល
         }
+download-always-ask-where =
+    .label = តែងតែ​សួរ​​រក​កន្លែង​ដែល​ត្រូវរក្សាទុក​ឯកសារ
+    .accesskey = A
 applications-header = កម្មវិធី
 applications-description = ជ្រើសរើស​របៀប​ដែល { -brand-short-name } បើក​ដំណើរការ​ឯកសារ​ដែល​អ្នក​ទាញយក​ពី​បណ្ដាញ ឬ​កម្មវិធី​ដែល​អ្នក​ប្រើប្រាស់​នៅ​ពេល​រុករក។
 applications-filter =
@@ -133,6 +149,7 @@ applications-action-column =
     .label = អំពើ
     .accesskey = ព
 play-drm-content-learn-more = ស្វែងយល់​​បន្ថែម
+update-application-title = បច្ចុប្បន្នភាព { -brand-short-name }
 update-history =
     .label = បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព...
     .accesskey = p
@@ -149,6 +166,9 @@ update-enable-search-update =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន
+    .accesskey = ប
 
 ## General Section - Browsing
 
@@ -156,6 +176,9 @@ browsing-title = រក​មើល
 browsing-use-onscreen-keyboard =
     .label = បង្ហាញ​ក្ដារចុច​ប៉ះ​នៅ​ពេល​ចាំបាច់
     .accesskey = k
+browsing-search-on-start-typing =
+    .label = ស្វែងរក​​អក្សរ នៅ​ពេល​អ្នក​ចាប់ផ្ដើម​វាយ
+    .accesskey = x
 
 ## General Section - Proxy
 
