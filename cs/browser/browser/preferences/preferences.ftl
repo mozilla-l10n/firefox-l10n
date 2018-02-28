@@ -51,12 +51,27 @@ restart-later = Restartovat později
 
 ## General Section
 
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Povolit současné spuštění aplikací { -brand-short-name } a Firefox
+use-firefox-sync = Tip: Budou použity oddělené uživatelské profily. Pro sdílení dat mezi nimi můžete použít službu { -sync-brand-short-name }.
+is-default = { -brand-short-name } je aktuálně výchozím prohlížečem
+is-not-default = { -brand-short-name } aktuálně není výchozím prohlížečem
+tabs-group-header = Panely
 
 ## General Section - Language & Appearance
 
+translate-web-pages =
+    .label = Překládat webové stránky
+    .accesskey = T
+translate-exceptions =
+    .label = Výjimky…
+    .accesskey = V
 
 ## General Section - Files and Applications
 
+play-drm-content-learn-more = Zjistit více
 
 ## General Section - Performance
 
