@@ -87,5 +87,4 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužywa wěstotnu technologiju, kótaraž jo zestarjona a sensibelna za napady. Napadowaŕ by mógał informacije lažko namakaś, kótarež maśo za wěste. Websedłowy administrator musy problem na serwerje rozwězaś, nježli až móžośo se k sedłoju woglědaś.</p><p>Zmólkowy kod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Bok jo se blokěrował">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Pśistup jo se wót wašogo administratora znjemóžnił.</p>">
+<!ENTITY blockedByPolicy.title "Zablokěrowany bok">
