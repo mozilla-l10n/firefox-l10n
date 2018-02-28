@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ყოველთვის
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] პარამეტრები
            *[other] პარამეტრები
         }
@@ -46,5 +47,24 @@ feature-enable-requires-restart = ამ ფუნქციის ჩასა�
 feature-disable-requires-restart = ამ ფუნქციის გამოსართავად, ხელახლა გაუშვით { -brand-short-name }
 should-restart-title = { -brand-short-name }-ის ხელახლა გაშვება
 should-restart-ok = { -brand-short-name } ხელახლა გაშვება ახლავე
-revert-no-restart-button = გაუქმება
 restart-later = მოგვიანებით გაშვება
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+choose-language-description = მიუთითეთ სასურველი ენა გვერდების საჩვენებლად
+
+## General Section - Files and Applications
+
+download-header = ჩამოტვირთვები
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
