@@ -44,6 +44,8 @@ restart-later = कनि काल मे फेर सँ शुरू कर�
 ## General Section
 
 startup-header = आरंभन
+is-default = { -brand-short-name } अखन अहाँक तयशुदा ब्राउजर अछि
+is-not-default = { -brand-short-name } अखन अहाँक तयशुदा ब्राउजर अछि
 startup-blank-page =
     .label = एकटा खाली पृष्ठ देखाउ
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -63,12 +65,14 @@ choose-bookmark =
 restore-default =
     .label = पूर्वनिर्धारित मे फेर जमा  करू 
     .accesskey = R
+tabs-group-header = टैब
 show-tabs-in-taskbar =
     .label = विंडो कार्यपट्टी मे टैब पूर्वावलोकन देखाउ
     .accesskey = k
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = फान्ट आ रंग
 advanced-fonts =
     .label = उन्नत…
     .accesskey = A
