@@ -51,8 +51,19 @@ restart-later = Taaskäivita hiljem
 
 ## General Section
 
+startup-header = Käivitamine
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Lubatakse { -brand-short-name }i ja Firefoxi samaaegne töötamine
+use-firefox-sync = Vihje: kasutatakse erinevaid profiile. Andmete jagamiseks nende profiilide vahel kasuta { -sync-brand-short-name }i.
 get-started-not-logged-in = Logi { -sync-brand-short-name }i sisse…
 get-started-configured = Ava { -sync-brand-short-name }i sätted
+always-check-default =
+    .label = Alati kontrollitakse, kas { -brand-short-name } on vaikebrauser
+    .accesskey = a
+is-default = { -brand-short-name } on määratud vaikebrauseriks
+is-not-default = { -brand-short-name } pole vaikebrauseriks määratud
 startup-page = { -brand-short-name }i käivitumisel
     .accesskey = k
 startup-user-homepage =
@@ -64,6 +75,27 @@ startup-prev-session =
 disable-extension =
     .label = Keela see laiendus
 home-page-header = kuvatakse avalehte
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Kasuta aktiivset veebilehte
+           *[other] Kasuta aktiivseid veebilehti
+        }
+    .accesskey = K
+choose-bookmark =
+    .label = Kasuta järjehoidjat…
+    .accesskey = j
+restore-default =
+    .label = Taasta vaikeväärtus
+    .accesskey = r
+tabs-group-header = Kaardid
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab liigub kaartide vahel viimase kasutamise järjekorras
+    .accesskey = T
 warn-on-close-multiple-tabs =
     .label = Hoiatus, kui suletakse mitu kaarti korraga
     .accesskey = H
@@ -73,6 +105,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Uue kaardi avamisel lülitutakse sellele koheselt
     .accesskey = U
+show-tabs-in-taskbar =
+    .label = Kaartide eelvaateid näidatakse Windowsi tegumiribal
+    .accesskey = K
 browser-containers-enabled =
     .label = Konteinerkaardid lubatakse
     .accesskey = o
@@ -95,17 +130,49 @@ containers-disable-alert-cancel-button = Ära keela
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Fondid ja värvid
 default-font = Vaikefont
     .accesskey = V
 default-font-size = Suurus
     .accesskey = S
+advanced-fonts =
+    .label = Täpsemalt…
+    .accesskey = l
+colors-settings =
+    .label = Värvid…
+    .accesskey = d
 language-header = Keel
+choose-language-description = Vali oma eelistatud keel veebilehtede kuvamiseks
+choose-button =
+    .label = Vali…
+    .accesskey = i
+translate-web-pages =
+    .label = Lubatakse veebisisu tõlkimine
+    .accesskey = t
+translate-exceptions =
+    .label = Erandid…
+    .accesskey = n
 check-user-spelling =
     .label = Sisestamisel kontrollitakse õigekirja
     .accesskey = m
 
 ## General Section - Files and Applications
 
+download-header = Allalaadimised
+download-save-to =
+    .label = Failid salvestatakse asukohta
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Vali...
+           *[other] Lehitse...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] a
+           *[other] e
+        }
 download-always-ask-where =
     .label = Alati küsitakse, kuhu failid salvestada
     .accesskey = A
@@ -140,6 +207,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Uuendusi ei otsita (mittesoovitatav)
     .accesskey = e
+update-application-use-service =
+    .label = Uuenduste paigaldamiseks kasutatakse taustateenust
+    .accesskey = d
 update-enable-search-update =
     .label = Otsingumootoreid uuendatakse automaatselt
     .accesskey = O
@@ -166,6 +236,19 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Lehitsemine
+browsing-use-autoscroll =
+    .label = Kasutatakse automaatset kerimist
+    .accesskey = u
+browsing-use-smooth-scrolling =
+    .label = Kasutatakse sujuvat kerimist
+    .accesskey = s
+browsing-use-onscreen-keyboard =
+    .label = Vajadusel kuvatakse puutetundlikku klaviatuuri
+    .accesskey = j
+browsing-use-cursor-navigation =
+    .label = Veebis liikumiseks kasutatakse alati kursori klahve
+    .accesskey = a
 browsing-search-on-start-typing =
     .label = Sisestamise alustamisel otsitakse teksti
     .accesskey = e
@@ -173,3 +256,6 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Võrgu puhverserver
+network-proxy-connection-settings =
+    .label = Sätted...
+    .accesskey = e
