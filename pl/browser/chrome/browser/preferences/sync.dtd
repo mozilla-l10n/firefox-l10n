@@ -22,7 +22,7 @@
 <!ENTITY engine.addons.accesskey "d">
 <!ENTITY engine.addresses.label "Adresy">
 <!ENTITY engine.addresses.title "Zachowane adresy pocztowe (tylko na komputerach)">
-<!ENTITY engine.addresses.accesskey "c">
+<!ENTITY engine.addresses.accesskey "d">
 <!ENTITY engine.creditcards.label "Dane kart płatniczych">
 <!ENTITY engine.creditcards.title "Nazwiska, numery i okresy ważności (tylko na komputerach)">
 <!ENTITY engine.creditcards.accesskey "k">
