@@ -41,13 +41,23 @@ startup-header = စတင်ခြင်း
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } နှင့် မီးမြေခွေးတို့ကို တချိန်တည်းမှာ လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ
+use-firefox-sync = အရိပ်အမြွက်၊ မတူညီသည့် ပရိုဖိုင်းများကို အသုံးပြုပါသည်။ ထိုပရိုဖိုင်းများကြား အချက်အလက်မျှဝေရန် { -sync-brand-short-name } ကို အသုံးပြုပါ။
+get-started-not-logged-in = { -sync-brand-short-name } သို့ ဝင်ပါ…
+get-started-configured = { -sync-brand-short-name } ၏ အပြင်အဆင်များကို ဖွင့်ပါ
 always-check-default =
     .label = { -brand-short-name } သည် ပုံသေဘရောင်ဇာ ဟုတ်/မဟုတ် အမြဲစစ်ဆေးပါ
     .accesskey = y
 is-default = { -brand-short-name } သည် လက်ရှိတွင် ပုံသေဘရောက်ဇာ ဖြစ်ပါသည်
 is-not-default = { -brand-short-name } သည် ပုံသေဘရောက်ဇာ ဖြစ်မနေပါ
+startup-page = { -brand-short-name } စတင်သောအခါ
+    .accesskey = s
+startup-user-homepage =
+    .label = မူလစာမျက်နှာကို ပြပါ
 startup-blank-page =
     .label = စာမျက်နှာ အလွတ်ကို ပြပေးပါ
+startup-prev-session =
+    .label = နောက်ဆုံးအသုံးပြုခဲ့သော ဝင်းဒိုးများ နှင့် တပ်ဗ်များကို ပြန်ဖွင့်ပါ
+home-page-header = မူလစာမျက်နှာကို ပြပါ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -65,22 +75,60 @@ choose-bookmark =
 restore-default =
     .label = မူလသတ်မှတ်ချက်အတိုင်း ပြန်ထားပါ
     .accesskey = R
+tabs-group-header = တပ်ဗ်များ
 ctrl-tab-recently-used-order =
     .label = Ctrl+tab သည် အရင်သုံးခဲ့ဖူးသည့် တပ်ဗ်များကို အစဉ်လိုက် ပြောင်းပေးသွားမည်
     .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = တပ်ဗ်အများကြီးကို ပိတ်ပါက သတိပေးပါ
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = { -brand-short-name } အား နှေးသွားစေမည် တပ်ဗ်အများကြီးအား ဖွင့်ပါ ကသတိပေးပါ
     .accesskey = d
 switch-links-to-new-tabs =
     .label = တပ်ဗ်တစ်ခုဖြင့် လင်ခ့်တစ်ခုအား ဖွင့်ပါ ၎င်းဆီသိုချက်ခြင်းပြောင်းပါ
     .accesskey = h
+show-tabs-in-taskbar =
+    .label = ဝင်းဒိုး တက်စ်ဘားတွင် တပ်ဗ်အကြိုမြင်ကွင်းကို ပြပါ
+    .accesskey = k
 browser-containers-enabled =
     .label = ကွန်တိန်နာတပ်ဗ်များအသုံးပြုခြင်းကို ဖွင့်ရန်
     .accesskey = n
 browser-containers-learn-more = ပိုမိုလေ့လာရန်
+browser-containers-settings =
+    .label = အပြင်အဆင်များ…
+    .accesskey = i
+containers-disable-alert-title = ကွန်တိန်နာတပ်ဗ်အားလုံးကို ပိတ်ပါမည်လား။
+containers-disable-alert-desc = ယခု ကွန်တိန်နာတပ်ဗ်များ အသုံးပြုခြင်းကို ပိတ်မည်ဆိုပါက ကွန်တိန်နာတပ်ဗ် { $tabCount } ခုသည် ပိတ်သွားပါလိမ့်မည်။ ထိုသို့ အသုံးပြုခြင်းကို ပိတ်မည်မှာ သေချာပါသလား။
+containers-disable-alert-ok-button = ကွန်တိန်နာတပ်ဗ် { $tabCount } ခုကို ပိတ်ရန်
+containers-disable-alert-cancel-button = ဆက်လက်ဖွင့်ထားသည်
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = ဖောင့်များ & အရောင်များ
+default-font = မူသေ ဖောင့်
+    .accesskey = D
+default-font-size = အရွယ်အ​စား
+    .accesskey = S
+advanced-fonts =
+    .label = အဆင့်မြင့်…
+    .accesskey = A
+colors-settings =
+    .label = အရောင်များ...
+    .accesskey = C
+choose-language-description = စာမျက်နှာများကို ပြသရန် နှစ်သက်ရာဘာသာစကားကို ရွေးပါ
+choose-button =
+    .label = ရွေးပါ...
+    .accesskey = o
+translate-web-pages =
+    .label = ဝဘ်စာမျက်နှာရှိ အကြောင်းအရာများကို ဘာသာပြန်ပါ
+    .accesskey = T
+translate-exceptions =
+    .label = ခြွင်းချက်များ...
+    .accesskey = x
+check-user-spelling =
+    .label = စာရိုက်နေစဉ် စာလုံးပေါင်းများကို စစ်ဆေးပါ
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -99,17 +147,70 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = မည်သည့်နေရာတွင် ဖိုင်သိမ်းရမည်ကိုမေးပါ
+    .accesskey = A
+applications-header = အက်ပလီကေးရှင်းများ
+applications-description = ဝဘ်အသုံးပြုနေစဉ် ဝဘ် သို့မဟုတ် အက်ပလီကေးရှင်းများထံမှ ဆွဲယူထားသော ဖိုင်များကို { -brand-short-name } က မည်သို့ကိုင်တွယ်ရမည်ကို ရွေးပါ။
+applications-filter =
+    .placeholder = ဖိုင်အမျိုးအစားများ သို့မဟုတ် အက်ပလီကေးရှင်းများကို ရှာပါ
+applications-type-column =
+    .label = အကြောင်းအရာ အမျိုးအစား
+    .accesskey = T
+applications-action-column =
+    .label = ဆောင်ရွက်ချက်
+    .accesskey = A
 play-drm-content-learn-more = ပိုမိုလေ့လာရန်
 update-application-title = { -brand-short-name } မွမ်းမံမှုများ
+update-history =
+    .label = မြှင့်တင်မှုမှတ်တမ်းကို ပြပါ…
+    .accesskey = p
+update-application-allow-description = { -brand-short-name } ကို ဆောင်ရွက်ခွင့်ပြုရန်
+update-application-check-choose =
+    .label = အဆင့်မြှင့်တင်မှုများ ရှိ/မရှိ စစ်ဆေးပါ၊ သို့သော် ၎င်းတို့ကို တပ်ဆင်မည်ဆိုပါက ရွေးချယ်ခွင့်ပေးပါ။
+    .accesskey = C
+update-application-manual =
+    .label = အဆင့်မြှင့်တင်မှုများကို ဘယ်သောအခါမှ မစစ်ဆေးပါနှင့် (အကြံမပြုလိုပါ)
+    .accesskey = N
+update-application-use-service =
+    .label = နောက်ဆုံးပေါ် ပြုပြင်မှုများကို တပ်ဆင်ပါက နောက်ကွယ်လုပ်ငန်းစဉ်ကို အသုံးပြုပါ
+    .accesskey = b
+update-enable-search-update =
+    .label = ရှာဖွေရေး ယန္တရားများကို အလိုအလျောက် မွမ်းမံပါ
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = စွမ်းဆောင်ရည်
+performance-allow-hw-accel =
+    .label = ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ
+    .accesskey = r
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (မူလ သတ်မှတ်ချက်)
 
 ## General Section - Browsing
 
+browsing-title = ကြည့်ရှုခြင်း
+browsing-use-autoscroll =
+    .label = အလိုအလျောက် အပေါ်အောက်ရွှေ့သည့်စနစ်ကို အသုံးပြုပါ
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = ချောမောလွယ်ကူသော အပေါ်အောက်ရွှေ့သည့်စနစ်ကို အသုံးပြုပါ
+    .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = လိုအပ်လျှင် တို့ထိကီးဘုတ်ကို ပြပါ
     .accesskey = k
+browsing-use-cursor-navigation =
+    .label = စာမျက်နှာအတွင်း ကူးသန်းရွှေ့ပြောင်းရန် ကာဆာခလုတ်ကို အမြဲ အသုံးပြုပါ
+    .accesskey = c
+browsing-search-on-start-typing =
+    .label = စာစရိုက်သည်နှင့် စရှာပါ
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = အပြင်အဆင်များ...
+    .accesskey = e
