@@ -167,6 +167,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = ਜਦੋਂ ਵੀ ਉਪਲੱਬਧ ਹੋਵੇ ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ ਵਰਤੋਂ
+    .accesskey = h
 
 ## General Section - Browsing
 
