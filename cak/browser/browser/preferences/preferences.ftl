@@ -195,6 +195,7 @@ play-drm-content =
     .accesskey = T
 play-drm-content-learn-more = Tetamäx ch'aqa' chik
 update-application-title = { -brand-short-name } Taq k'exoj ruwäch
+update-application-description = Junelïk tik'ex ri { -brand-short-name } richin ütz nisamäj, jikïl, chuqa' jikon.
 update-application-info = Ruwäch { $version } <a>Achike natzijoj</a>
 update-history =
     .label = Tik'ut pe ri runatab'al K'exoj ruwäch…
@@ -219,11 +220,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Rub'eyal nisamäj
+performance-use-recommended-settings-checkbox =
+    .label = Tokisäx runuk'ulem rub'eyal nisamäj chilab'en pe
+    .accesskey = T
+performance-use-recommended-settings-desc = Re taq nuk'ulem re' nikik'äm ki' kik'in ri ch'akulakem chuqa' rik'in ri samajel ruq'inoj akematz'ib'.
+performance-settings-learn-more = Tetamäx ch'aqa' chik
 performance-allow-hw-accel =
     .label = Tokisäx rupararexik ch'akulakem toq xtiwachin pe
     .accesskey = a
 performance-limit-content-process-option = ruchi' rutajinik rupam
     .accesskey = r
+performance-limit-content-process-enabled-desc = Ri taq ruxenab'al rutz'aqat rupam yetikïr nikutzilaj rub'eyal nisamäj toq nrokisaj k'ïy taq ruwi', xa chuqa' xtrokisaj k'ïy rutzatzq'ob'al.
+performance-limit-content-process-disabled-desc = Ri rujalwachinik rajilab'al rutajinik rupam xa okel rik'in ri k'ïy tajinïk { -brand-short-name }. <a>Tawetamaj nanik'oj we tzijïl ri k'ïy tajinïk</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
