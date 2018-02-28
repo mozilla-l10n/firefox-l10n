@@ -72,6 +72,7 @@ advanced-fonts =
 colors-settings =
     .label = रंग…
     .accesskey = C
+choose-language-description = अपन पसंदीदा भाषा पृष्ठ केँ देखाबैक लेल करू 
 choose-button =
     .label = चुनू…
     .accesskey = o
@@ -106,6 +107,15 @@ applications-action-column =
 ## General Section - Browsing
 
 browsing-title = ब्राउजिंग
+browsing-use-autoscroll =
+    .label = स्वतः स्क्रालिंगक प्रयोग  करू 
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = सुगम स्क्रालिंगक प्रयोग  करू 
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = पृष्ठक अंदर संचरणक लेल हरदम कर्सरक प्रयोग करू 
+    .accesskey = c
 
 ## General Section - Proxy
 
