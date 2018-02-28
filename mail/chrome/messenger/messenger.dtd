@@ -905,9 +905,9 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "д">
 <!ENTITY SendMessageTo.label "Писане на писмо до">
 <!ENTITY SendMessageTo.accesskey "с">
-<!ENTITY CopyEmailAddress.label "Копиране на електронния адрес">
+<!ENTITY CopyEmailAddress.label "Копиране на адреса">
 <!ENTITY CopyEmailAddress.accesskey "К">
-<!ENTITY CopyNameAndEmailAddress.label "Копиране на Име и е-пощенски адрес">
+<!ENTITY CopyNameAndEmailAddress.label "Копиране на името и адреса">
 <!ENTITY CopyNameAndEmailAddress.accesskey "И">
 <!ENTITY CopyNewsgroupName.label "Копиране името на дискусионната група">
 <!ENTITY CopyNewsgroupName.accesskey "К">
@@ -931,7 +931,7 @@
 <!ENTITY copyLinkCmd.accesskey "К">
 <!ENTITY copyImageAllCmd.label "Копиране на изображението">
 <!ENTITY copyImageAllCmd.accesskey "и">
-<!ENTITY copyEmailCmd.label "Копиране на електронния адрес">
+<!ENTITY copyEmailCmd.label "Копиране на адреса">
 <!ENTITY copyEmailCmd.accesskey "К">
 <!ENTITY stopCmd.label "Стоп">
 <!ENTITY stopCmd.accesskey "С">
