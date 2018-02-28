@@ -35,7 +35,7 @@ available. -->
 
 <!ENTITY dataCollection.label            "&brandShortName; მონაცემთა აღრიცხვა და გამოყენება">
 <!ENTITY dataCollectionDesc.label        "ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რაც საჭიროა &brandShortName;-ის გასაუმჯობესებლად. ჩვენ ყოველთვის დაგეკითხებით, პირადი ინფორმაციის მიღებამდე.">
-<!ENTITY dataCollectionPrivacyNotice.label    "პირადი მონაცემების დაცვის შესახებ">
+<!ENTITY dataCollectionPrivacyNotice.label    "პირადი მონაცემების დაცვის განაცხადი">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;-ისთვის ნების დართვა, გადაუგზავნოს ავარიული დახურვის მოხსენებები Mozilla-ს">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "ვ">
@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "ქსელის პროქსი">
 
 <!ENTITY connectionDesc.label            "მიუთითეთ, თუ როგორ დაუკავშირდეს &brandShortName; ინტერნეტს">
-
-<!ENTITY connectionSettingsLearnMore.label "ვრცლად">
 <!ENTITY connectionSettings.label        "პარამეტრები…">
 <!ENTITY connectionSettings.accesskey    "პ">
 
