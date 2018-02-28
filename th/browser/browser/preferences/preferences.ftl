@@ -56,34 +56,107 @@ startup-header = เริ่มการทำงาน
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = อนุญาตให้ { -brand-short-name } และ Firefox ทำงานพร้อมกัน
+use-firefox-sync = เคล็ดลับ: สิ่งนี้ใช้โปรไฟล์แยก ใช้ { -sync-brand-short-name } เพื่อแบ่งปันข้อมูลระหว่างกัน
+get-started-not-logged-in = ลงชื่อเข้า { -sync-brand-short-name }…
+get-started-configured = เปิดค่ากำหนด { -sync-brand-short-name }
+always-check-default =
+    .label = ตรวจสอบเสมอว่า { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณหรือไม่
+    .accesskey = ต
+is-default = { -brand-short-name } เป็นเบราว์เซอร์เริ่มต้นของคุณในขณะนี้
+is-not-default = { -brand-short-name } ไม่ได้เป็นเบราว์เซอร์เริ่มต้นของคุณ
+set-as-my-default-browser =
+    .label = ทำให้เป็นค่าเริ่มต้น…
+    .accesskey = ค
+startup-page = เมื่อ { -brand-short-name } เริ่ม
+    .accesskey = ม
+startup-user-homepage =
+    .label = แสดงหน้าแรกของคุณ
 startup-blank-page =
     .label = แสดงหน้าว่าง
+startup-prev-session =
+    .label = แสดงหน้าต่างและแท็บของคุณจากครั้งล่าสุด
+disable-extension =
+    .label = ปิดใช้งานส่วนขยาย
+home-page-header = แสดงหน้าแรกของคุณ
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] ใช้หน้าปัจจุบัน
+           *[other] ใช้หน้าปัจจุบัน
+        }
+    .accesskey = ช
 choose-bookmark =
     .label = ใช้ที่คั่นหน้า…
     .accesskey = ท
+restore-default =
+    .label = เรียกคืนค่าเริ่มต้น
+    .accesskey = ร
 tabs-group-header = แท็บ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab เพื่อสลับเปลี่ยนแท็บตามลำดับที่ใช้ล่าสุด
     .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = เตือนคุณเมื่อกำลังจะปิดหลายแท็บ
+    .accesskey = ต
+warn-on-open-many-tabs =
+    .label = เตือนคุณเมื่อการเปิดหลายแท็บอาจทำให้ { -brand-short-name } ช้าลง
+    .accesskey = อ
+switch-links-to-new-tabs =
+    .label = เมื่อคุณเปิดลิงก์ในแท็บใหม่ สลับไปที่แท็บนั้นทันที
+    .accesskey = ม
+show-tabs-in-taskbar =
+    .label = แสดงตัวอย่างแท็บในแถบงาน Windows
+    .accesskey = ส
+browser-containers-enabled =
+    .label = เปิดใช้งานแท็บแยกข้อมูล
+    .accesskey = ย
 browser-containers-learn-more = เรียนรู้เพิ่มเติม
+browser-containers-settings =
+    .label = การตั้งค่า…
+    .accesskey = ต
+containers-disable-alert-title = ปิดแท็บแยกข้อมูลทั้งหมด?
+containers-disable-alert-cancel-button = เปิดใช้งานต่อไป
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = ภาษาและลักษณะที่ปรากฏ
 fonts-and-colors-header = แบบอักษรและสี
+default-font = แบบอักษรเริ่มต้น
+    .accesskey = บ
+default-font-size = ขนาด
+    .accesskey = ข
+advanced-fonts =
+    .label = ขั้นสูง…
+    .accesskey = น
 colors-settings =
     .label = สี…
     .accesskey = ส
+language-header = ภาษา
 choose-language-description = เลือกภาษาที่คุณต้องการในการแสดงผลหน้า
 choose-button =
     .label = เลือก…
     .accesskey = ล
+translate-web-pages =
+    .label = แปลเนื้อหาเว็บ
+    .accesskey = ป
 translate-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
+check-user-spelling =
+    .label = ตรวจสอบการสะกดคำของคุณเมื่อคุณพิมพ์
+    .accesskey = จ
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ไฟล์และแอปพลิเคชัน
 download-header = ดาวน์โหลด
+download-save-to =
+    .label = บันทึกไฟล์ไปยัง
+    .accesskey = ฟ
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -95,17 +168,90 @@ download-choose-folder =
             [macos] ล
            *[other] ร
         }
+download-always-ask-where =
+    .label = ถามคุณเสมอว่าจะบันทึกไฟล์ที่ไหน
+    .accesskey = ถ
+applications-header = แอปพลิเคชัน
+applications-description = เลือกวิธีที่ { -brand-short-name } จัดการกับไฟล์ที่คุณดาวน์โหลดจากเว็บหรือแอปพลิเคชันที่คุณใช้ขณะท่องเว็บ
+applications-filter =
+    .placeholder = ค้นหาชนิดไฟล์หรือแอปพลิเคชัน
+applications-type-column =
+    .label = ชนิดเนื้อหา
+    .accesskey = ช
 applications-action-column =
     .label = การกระทำ
     .accesskey = ก
+drm-content-header = เนื้อหา Digital Rights Management (DRM)
+play-drm-content =
+    .label = เล่นเนื้อหาที่ถูกควบคุมโดย DRM
+    .accesskey = ล
 play-drm-content-learn-more = เรียนรู้เพิ่มเติม
+update-application-title = อัปเดต { -brand-short-name }
+update-application-description = คง { -brand-short-name } ให้เป็นรุ่นล่าสุดเพื่อประสิทธิภาพ, เสถียรภาพ และความปลอดภัยที่ดีที่สุด
+update-application-info = รุ่น { $version } <a>มีอะไรใหม่</a>
+update-history =
+    .label = แสดงประวัติการอัปเดต…
+    .accesskey = ส
+update-application-allow-description = อนุญาตให้ { -brand-short-name }
+update-application-auto =
+    .label = ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ)
+    .accesskey = ด
+update-application-check-choose =
+    .label = ตรวจสอบการอัปเดตแต่ให้คุณเลือกว่าจะติดตั้งหรือไม่
+    .accesskey = ว
+update-application-manual =
+    .label = ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ)
+    .accesskey = ม
+update-application-use-service =
+    .label = ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต
+    .accesskey = ช
+update-enable-search-update =
+    .label = อัปเดตเครื่องมือค้นหาโดยอัตโนมัติ
+    .accesskey = อ
 
 ## General Section - Performance
 
+performance-title = ประสิทธิภาพ
+performance-use-recommended-settings-checkbox =
+    .label = ใช้การตั้งค่าประสิทธิภาพที่แนะนำ
+    .accesskey = ภ
+performance-use-recommended-settings-desc = การตั้งค่าเหล่านี้ถูกปรับให้เหมาะสมกับฮาร์ดแวร์และระบบปฏิบัติการของคอมพิวเตอร์ของคุณ
+performance-settings-learn-more = เรียนรู้เพิ่มเติม
+performance-allow-hw-accel =
+    .label = ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้
+    .accesskey = ง
+performance-limit-content-process-option = ขีดจำกัดโปรเซสเนื้อหา
+    .accesskey = ข
+performance-limit-content-process-enabled-desc = โปรเซสเนื้อหาที่เพิ่มขึ้นสามารถปรับปรุงประสิทธิภาพเมื่อใช้หลายแท็บ แต่จะใช้หน่วยความจำมากขึ้นเช่นกัน
+performance-limit-content-process-disabled-desc = การเปลี่ยนแปลงจำนวนโปรเซสเนื้อหาทำได้เฉพาะกับ { -brand-short-name } แบบหลายโปรเซส <a>เรียนรู้วิธีตรวจสอบว่าการทำงานหลายโปรเซสถูกเปิดใช้งานอยู่หรือไม่</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (ค่าเริ่มต้น)
 
 ## General Section - Browsing
 
 browsing-title = การท่องเว็บ
+browsing-use-autoscroll =
+    .label = ใช้การเลื่อนหน้าอัตโนมัติ
+    .accesskey = ช
+browsing-use-smooth-scrolling =
+    .label = ใช้การเลื่อนหน้าแบบลื่นไหล
+    .accesskey = ก
+browsing-use-onscreen-keyboard =
+    .label = แสดงแป้นพิมพ์แบบสัมผัสเมื่อจำเป็น
+    .accesskey = ผ
+browsing-use-cursor-navigation =
+    .label = ใช้ปุ่มลูกศรเพื่อนำทางภายในหน้าเสมอ
+    .accesskey = ป
+browsing-search-on-start-typing =
+    .label = ค้นหาข้อความเมื่อคุณเริ่มพิมพ์
+    .accesskey = ว
 
 ## General Section - Proxy
 
+network-proxy-title = พร็อกซีเครือข่าย
+network-proxy-connection-learn-more = เรียนรู้เพิ่มเติม
+network-proxy-connection-settings =
+    .label = การตั้งค่า…
+    .accesskey = ต
