@@ -48,13 +48,27 @@ startup-header = ආරම්භය
 separate-profile-mode =
     .label = { -brand-short-name } හා Firefox එකම මොහොතේ ධාවනය වීමට ඉඩ දෙන්න
 use-firefox-sync = ඉඟිය: මෙය වෙනස් පැතිකඩ භාවිත කරයි. ඒවා අතර දත්ත බෙදාගැනීමට සම්මුහුර්ත භාවිත කරන්න.
+get-started-not-logged-in = { -sync-brand-short-name } වෙත පිවිසෙන්න…
+get-started-configured = { -sync-brand-short-name } අභිප්‍රේත විවෘත කරන්න
 always-check-default =
     .label = සැමවිටම { -brand-short-name } ඔබේ පෙරනිමි ගවේශකයද බව පිරික්සන්න
     .accesskey = w
 is-default = { -brand-short-name } is currently your default browser
 is-not-default = { -brand-short-name } දැනට ඔබේ පෙරනිමි ගවේශකය නොවේ
+set-as-my-default-browser =
+    .label = පෙරනිමිය ලෙස සකසන්න…
+    .accesskey = D
+startup-page = { -brand-short-name } ආරම්භ වන විට
+    .accesskey = s
+startup-user-homepage =
+    .label = ඔබගේ නිවාස පිටුව පෙන්වන්න
 startup-blank-page =
     .label = හිස් පිටුවක් පෙන්වන්න
+startup-prev-session =
+    .label = අවසන් වරට තිබූ ඔබගේ කවුළු සහ ටැබ් පෙන්වන්න
+disable-extension =
+    .label = දිගු ක්‍රියා විරහිත කරන්න
+home-page-header = ඔබගේ නිවාස පිටුව පෙන්වන්න
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -76,9 +90,23 @@ tabs-group-header = ටැබ්
 ctrl-tab-recently-used-order =
     .label = මෑතදී භාවිත පෙළගැස්මට ටැබ අතර මාරුවීම සඳහා Ctrl+Tab භාවිත කරන්න
     .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = ටැබ් කිහිපයක් වසා දැමීමේදී ඔබට අනතුරු අගවයි
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = බහු ටැබ විවෘත කිරීමේදී { -brand-short-name } මන්දගාමීවීමේ හැකියාවක් ඇති බවට ඔබට අනතුරු අඟවයි;
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = ඔබ සබැඳියක් නව් ටැබයක විවෘත කිරීමේදී ක්‍ෂණිකව එයට යොමුවන්න
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = ටැබ් පෙරදසුන් වින්ඩෝස් ටාස්ක්බාරය (Windows taskbar) තුළ පෙන්වන්න
     .accesskey = k
+browser-containers-learn-more = තවත් දැනගන්න
+browser-containers-settings =
+    .label = සිටුවම්...
+    .accesskey = i
+containers-disable-alert-cancel-button = සක්‍රියව තබන්න
 
 ## General Section - Language & Appearance
 
@@ -99,6 +127,9 @@ translate-web-pages =
 translate-exceptions =
     .label = හැරදැමීම්...
     .accesskey = x
+check-user-spelling =
+    .label = ඔබ යතුරු ලියන අතර අක්ෂර වින්‍යාසය පිරික්සන්න
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -117,6 +148,9 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = ගොනු සුරකින්නේ කොතනටද යන්න සැමවිටම ඔබෙන් විමසන්න
+    .accesskey = A
 applications-header = යෙදුම්
 applications-description = ඔබ ජාලයෙන් බාගන්නා ගොනු හා ගවේෂණයේදී භාවිත කරන යෙදුම් { -brand-short-name } විසින් හසුරුවන්නේ කෙසේදැයි තෝරන්න.
 applications-filter =
@@ -128,6 +162,7 @@ applications-action-column =
     .label = ක්‍රියාව
     .accesskey = A
 play-drm-content-learn-more = තවත් දැනගන්න
+update-application-title = { -brand-short-name } යාවත්කාල
 update-history =
     .label = යාවත් ඉතිහාසය පෙන්වන්න…
     .accesskey = p
@@ -172,6 +207,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = සැම විටම පිටුව තුළ සැරිසැරීමට කර්සර යතුරු භාවිතා කරන්න
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = ඔබ යතුරුකරණය ආරම්භ කළ විට පෙළ සඳහා සොයන්න
+    .accesskey = x
 
 ## General Section - Proxy
 
