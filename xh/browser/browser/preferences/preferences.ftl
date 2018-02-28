@@ -46,6 +46,10 @@ restart-later = Qalisa ngokutsha Kamva
 startup-header = Qalisa
 startup-blank-page =
     .label = Bonisa ikhasi elingenanto
+tabs-group-header = Izilungelelanisi zemigca
+show-tabs-in-taskbar =
+    .label = Bonisa umbono wangaphambili wethebhu kwithaskhbha ye-Windows
+    .accesskey = B
 
 ## General Section - Language & Appearance
 
