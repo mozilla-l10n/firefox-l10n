@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = 항상
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] 설정
            *[other] 환경 설정
         }
@@ -46,5 +47,48 @@ feature-enable-requires-restart = 이 기능을 켜려면 { -brand-short-name }�
 feature-disable-requires-restart = 이 기능을 끄려면 { -brand-short-name }를 반드시 재시작해야 힙니다.
 should-restart-title = { -brand-short-name } 재시작
 should-restart-ok = 지금 { -brand-short-name } 재시작
-revert-no-restart-button = 되돌리기
 restart-later = 나중에 다시 시작
+
+## General Section
+
+show-tabs-in-taskbar =
+    .label = Windows 작업표시줄에 탭 미리 보기 표시
+    .accesskey = k
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = 글꼴과 색상
+advanced-fonts =
+    .label = 고급…
+    .accesskey = A
+colors-settings =
+    .label = 색상…
+    .accesskey = C
+
+## General Section - Files and Applications
+
+update-application-use-service =
+    .label = 업데이트 설치 시 백그라운드 작업으로 하기
+    .accesskey = b
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = 보기 기능
+browsing-use-autoscroll =
+    .label = 자동 스크롤 기능 사용
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = 부드러운 스크롤 기능 사용
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = 커서 키를 항상 페이지 내에서 사용
+    .accesskey = c
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = 설정…
+    .accesskey = e
