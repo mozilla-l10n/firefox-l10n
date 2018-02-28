@@ -132,8 +132,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder säkerhetsteknologi som är föråldrad och sårbar för angrepp. En angripare kan lätt avslöja information som du trott ska vara säker. Webbplatsens administratör måste laga servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Sidan blockerad">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Åtkomst har inaktiverats av administratören.</p>">
+<!ENTITY blockedByPolicy.title "Blockerad sida">
 
 <!ENTITY prefReset.longDesc "Det ser ut som nätverkets säkerhetsinställningar kan orsaka detta. Vill du att standardinställningarna ska återställas?">
 <!ENTITY prefReset.label "Återställ standardinställningar">
