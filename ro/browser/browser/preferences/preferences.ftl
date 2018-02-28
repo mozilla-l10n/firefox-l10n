@@ -58,6 +58,7 @@ separate-profile-mode =
     .label = Permite ca { -brand-short-name } și Firefox să ruleze în același timp
 use-firefox-sync = Pont: Acesta folosește profiluri separate. Folosește Sincronizare pentru a împărtăși datele între ele.
 get-started-not-logged-in = Autentifică-te la { -sync-brand-short-name }…
+get-started-configured = Deschide preferințele { -sync-brand-short-name }
 always-check-default =
     .label = Verifică întotdeauna dacă { -brand-short-name } este browserul implicit
     .accesskey = y
@@ -93,6 +94,9 @@ tabs-group-header = File
 ctrl-tab-recently-used-order =
     .label = Cicluri de Ctrl+Tab printre file în ordinea celor mai folosite recent
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Deschide linkuri în file în loc de ferestre noi
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Avertizează la închiderea filelor multiple
     .accesskey = m
@@ -102,6 +106,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Când se deschide un link într-o nouă filă, comută la aceasta imediat
     .accesskey = C
+show-tabs-in-taskbar =
+    .label = Afișează miniaturi ale filelor în bara de activități Windows
+    .accesskey = k
 browser-containers-enabled =
     .label = Activează filele container
     .accesskey = n
@@ -110,6 +117,18 @@ browser-containers-settings =
     .label = Setări…
     .accesskey = t
 containers-disable-alert-title = Închizi toate filele container?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Dacă dezactivezi containerele de file, { $tabCount } container de file se va închide. Sigur vrei să dezactivezi containerele de file?
+        [few] Dacă dezactivezi containerele de file, { $tabCount } containere de file se vor închide. Sigur vrei să dezactivezi containerele de file?
+       *[other] Dacă dezactivezi containerele de file, { $tabCount } de containere de file se vor închide. Sigur vrei să dezactivezi containerele de file?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Închide { $tabCount } container de file
+        [few] Închide { $tabCount } containere de file
+       *[other] Închide { $tabCount } de containere de file
+    }
 containers-disable-alert-cancel-button = Păstrează activat
 
 ## General Section - Language & Appearance
@@ -131,6 +150,9 @@ choose-language-description = Alege limba în care preferi să vezi paginile
 choose-button =
     .label = Alege…
     .accesskey = o
+translate-web-pages =
+    .label = Tradu conținutul web
+    .accesskey = T
 translate-exceptions =
     .label = Excepții…
     .accesskey = x
@@ -160,6 +182,7 @@ download-always-ask-where =
     .label = Întreabă întotdeauna unde să salvez fișierele
     .accesskey = n
 applications-header = Aplicații
+applications-description = Alege felul în care { -brand-short-name } gestionează fișierele pe care le descarci de pe web sau aplicațiile pe care le folosești în timp ce navighezi.
 applications-filter =
     .placeholder = Caută tipuri de fișiere sau aplicații
 applications-type-column =
@@ -174,6 +197,7 @@ play-drm-content =
     .accesskey = p
 play-drm-content-learn-more = Află mai multe
 update-application-title = Actualizări { -brand-short-name }
+update-application-description = Menține { -brand-short-name } actualizat pentru cea mai bună performanță, stabilitate și securitate.
 update-application-info = Versiunea { $version } <a>Ce este nou</a>
 update-history =
     .label = Afișează istoricul actualizărilor
@@ -195,11 +219,17 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Performanță
+performance-use-recommended-settings-checkbox =
+    .label = Folosește setările recomandate de performanță
+    .accesskey = U
+performance-use-recommended-settings-desc = Aceste setări sunt adaptate pentru hardware-ul și sistemul de operare al calculatorului.
+performance-settings-learn-more = Află mai multe
 performance-allow-hw-accel =
     .label = Folosește accelerarea hardware atunci când este disponibilă
     .accesskey = h
 performance-limit-content-process-option = Limita proceselor pentru conținut
     .accesskey = L
+performance-limit-content-process-enabled-desc = Procesele adiționale pentru conținut pot îmbunătăți performanța atunci când se folosesc mai multe file, însă va consuma și mai multă memorie.
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -227,6 +257,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy pentru rețea
+network-proxy-connection-learn-more = Află mai multe
 network-proxy-connection-settings =
     .label = Setări…
     .accesskey = e
