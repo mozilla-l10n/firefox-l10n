@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Mindig
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Beállítások
            *[other] Beállítások
         }
@@ -46,5 +47,41 @@ feature-enable-requires-restart = A funkció bekapcsolásához a { -brand-short-
 feature-disable-requires-restart = A funkció kikapcsolásához a { -brand-short-name } újraindítása szükséges.
 should-restart-title = { -brand-short-name } újraindítása
 should-restart-ok = { -brand-short-name } újraindítása most
-revert-no-restart-button = Visszaállítás
 restart-later = Újraindítás később
+
+## General Section
+
+startup-header = Indítás
+startup-blank-page =
+    .label = Üres oldal megjelenítése
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Betűk és színek
+choose-language-description = Az oldalak megjelenítésére előnyben részesített nyelv megadása
+
+## General Section - Files and Applications
+
+download-header = Letöltések
+download-save-to =
+    .label = Fájlok mentése
+    .accesskey = m
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Böngészés
+browsing-use-autoscroll =
+    .label = Automatikus görgetés
+    .accesskey = u
+browsing-use-smooth-scrolling =
+    .label = Finom görgetés
+    .accesskey = F
+browsing-use-cursor-navigation =
+    .label = Kurzorbillentyűk használata az oldalon belüli navigációhoz
+    .accesskey = c
+
+## General Section - Proxy
+
