@@ -92,6 +92,9 @@ browser-containers-enabled =
     .label = কন্টেইনার ট্যাব সক্রিয় করুন
     .accesskey = n
 browser-containers-learn-more = আরও জানুন
+browser-containers-settings =
+    .label = সেটিংস…
+    .accesskey = i
 containers-disable-alert-title = সমস্ত কন্টেইনার ট্যাব বন্ধ করবেন?
 containers-disable-alert-desc =
     { $tabCount ->
