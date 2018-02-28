@@ -74,6 +74,8 @@ startup-blank-page =
     .label = Prózdnu stronu pokazać
 startup-prev-session =
     .label = Wokna a rajtarki wot poslednjeho raza pokazać
+disable-extension =
+    .label = Rozšěrjenje znjemóžnić
 home-page-header = Wašu startowu stronu pokazać
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -96,6 +98,9 @@ tabs-group-header = Rajtarki
 ctrl-tab-recently-used-order =
     .label = Strg+Tab přeběži rajtarki po tuchwilu postajenym porjedźe
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Wotkazy w rajtarkach město nowych woknow wočinić
+    .accesskey = r
 warn-on-close-multiple-tabs =
     .label = Warnować, hdyž so wjacore rajtarki začinjeja
     .accesskey = W
@@ -185,15 +190,18 @@ applications-type-column =
 applications-action-column =
     .label = Akcija
     .accesskey = A
+drm-content-header = Wobsah Digital Right Management (DRM)
 play-drm-content =
     .label = Wobsah wodźeny přez DRM wothrać
     .accesskey = h
 play-drm-content-learn-more = Dalše informacije
 update-application-title = Aktualizacije { -brand-short-name }
+update-application-description = Dźeržće { -brand-short-name } aktualny, za najlěpši wukon, stabilnosć a wěstotu.
 update-application-info = Wersija { $version } <a>Što je nowe</a>
 update-history =
     .label = Aktualizacisku historiju pokazać…
     .accesskey = h
+update-application-allow-description = { -brand-short-name } dowolić,
 update-application-auto =
     .label = Aktualizacije awtomatisce instalować (doporučene)
     .accesskey = A
@@ -213,11 +221,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Wukon
+performance-use-recommended-settings-checkbox =
+    .label = Doporučene wukonowe nastajenja wužiwać
+    .accesskey = D
+performance-use-recommended-settings-desc = Tute nastajenja su na hardwaru a dźěłowy system wašeho ličaka přiměrjene.
+performance-settings-learn-more = Dalše informacije
 performance-allow-hw-accel =
     .label = Hardwarowe pospěšenje wužiwać, jeli k dispoziciji
     .accesskey = H
 performance-limit-content-process-option = Mjeza wobsahoweho procesa
     .accesskey = M
+performance-limit-content-process-enabled-desc = Wjace wobsahowych procesow móže wukon polěpšować, hdyž so wjacore rajtarki wužiwaja, budźe wšak tež wjace składa přetrjebować.
+performance-limit-content-process-disabled-desc = Ličba wobsahowych procesow da so jenož z wjaceprocesowym { -brand-short-name } změnić. <a>Zhońće, kak móžeće kontrolować, hač wjaceprocesowa funkcija je zmóžnjena</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -245,6 +260,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Syćowy proksy
+network-proxy-connection-learn-more = Dalše informacije
 network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
