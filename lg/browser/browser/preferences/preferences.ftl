@@ -32,6 +32,20 @@ should-restart-title = Ddamu otandike { -brand-short-name }
 startup-header = Entandika
 startup-blank-page =
     .label = Laga omuko omweerere
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Kozesa Omuko Ogw'obuliwo
+           *[other] Kozesa emiko Ej'obuliwo
+        }
+    .accesskey = k
+choose-bookmark =
+    .label = Kozesa Akalambe…
+    .accesskey = e
 restore-default =
     .label = Zaawo Ebyenkalakalira
     .accesskey = Z
@@ -41,10 +55,16 @@ show-tabs-in-taskbar =
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Ekisukkulumu…
+    .accesskey = l
 colors-settings =
     .label = Langi…
     .accesskey = L
 choose-language-description = Londako olulimi lwoyagala okulabiramu emiko
+choose-button =
+    .label = Londako…
+    .accesskey = d
 
 ## General Section - Files and Applications
 
@@ -79,6 +99,15 @@ update-application-use-service =
 ## General Section - Browsing
 
 browsing-title = Kunoonya
+browsing-use-autoscroll =
+    .label = Kozesa aketwala kooka
+    .accesskey = s
+browsing-use-smooth-scrolling =
+    .label = Kozesa okutambuza okuwereete
+    .accesskey = o
+browsing-use-cursor-navigation =
+    .label = Bulikisera kozesa amapesa nga akawandiika lambula mumiko
+    .accesskey = r
 
 ## General Section - Proxy
 
