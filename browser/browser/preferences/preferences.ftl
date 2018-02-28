@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Her zaman
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Seçenekler
            *[other] Tercihler
         }
@@ -46,5 +47,25 @@ feature-enable-requires-restart = Bu özelliği etkinleştirmek için { -brand-s
 feature-disable-requires-restart = Bu özelliği devre dışı bırakmak { -brand-short-name } için yeniden başlatılmalıdır.
 should-restart-title = { -brand-short-name } tarayıcısını yeniden başlat
 should-restart-ok = { -brand-short-name } tarayıcısını yeniden başlat
-revert-no-restart-button = Geri al
 restart-later = Daha sonra yeniden başlat
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Dosya kayıt yeri
+    .accesskey = a
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
