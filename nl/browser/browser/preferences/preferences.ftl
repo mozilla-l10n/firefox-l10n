@@ -78,6 +78,17 @@ startup-prev-session =
 disable-extension =
     .label = Extensie uitschakelen
 home-page-header = Uw startpagina tonen
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Huidige pagina gebruiken
+           *[other] Huidige pagina’s gebruiken
+        }
+    .accesskey = u
 choose-bookmark =
     .label = Bladwijzer gebruiken…
     .accesskey = B
@@ -166,6 +177,9 @@ applications-header = Toepassingen
 applications-description = Kiezen hoe { -brand-short-name } omgaat met de bestanden die u van het web downloadt of de toepassingen die u tijdens het surfen gebruikt.
 applications-filter =
     .placeholder = Bestandstypen of toepassingen zoeken
+applications-type-column =
+    .label = Inhoudstype
+    .accesskey = t
 applications-action-column =
     .label = Actie
     .accesskey = A
@@ -220,6 +234,12 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Navigeren
+browsing-use-autoscroll =
+    .label = Automatisch scrollen gebruiken
+    .accesskey = m
+browsing-use-smooth-scrolling =
+    .label = Vloeiend scrollen gebruiken
+    .accesskey = e
 browsing-use-onscreen-keyboard =
     .label = Een schermtoetsenbord tonen wanneer nodig
     .accesskey = c
