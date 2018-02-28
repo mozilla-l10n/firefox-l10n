@@ -65,6 +65,15 @@ choose-bookmark =
 restore-default =
     .label = မူလသတ်မှတ်ချက်အတိုင်း ပြန်ထားပါ
     .accesskey = R
+ctrl-tab-recently-used-order =
+    .label = Ctrl+tab သည် အရင်သုံးခဲ့ဖူးသည့် တပ်ဗ်များကို အစဉ်လိုက် ပြောင်းပေးသွားမည်
+    .accesskey = T
+warn-on-open-many-tabs =
+    .label = { -brand-short-name } အား နှေးသွားစေမည် တပ်ဗ်အများကြီးအား ဖွင့်ပါ ကသတိပေးပါ
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = တပ်ဗ်တစ်ခုဖြင့် လင်ခ့်တစ်ခုအား ဖွင့်ပါ ၎င်းဆီသိုချက်ခြင်းပြောင်းပါ
+    .accesskey = h
 browser-containers-enabled =
     .label = ကွန်တိန်နာတပ်ဗ်များအသုံးပြုခြင်းကို ဖွင့်ရန်
     .accesskey = n
@@ -91,6 +100,7 @@ download-choose-folder =
            *[other] o
         }
 play-drm-content-learn-more = ပိုမိုလေ့လာရန်
+update-application-title = { -brand-short-name } မွမ်းမံမှုများ
 
 ## General Section - Performance
 
