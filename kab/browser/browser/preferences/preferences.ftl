@@ -180,6 +180,8 @@ download-always-ask-where =
     .accesskey = S
 applications-header = Isnasen
 applications-description = Fren amek ad yeddu { -brand-short-name } akked ifuyla i d-saliḍ akked isnasen i tseqdaceḍ m'ara tettinigeḍ.
+applications-filter =
+    .placeholder = Nadi tawsit n ifuyla neɣ isnasen
 applications-type-column =
     .label = Tawsit n ugbur
     .accesskey = T
@@ -206,7 +208,14 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Tamellit
+performance-use-recommended-settings-checkbox =
+    .label = Seqdec iɣewwaṛen n tmellit ihulen
+    .accesskey = s
+performance-use-recommended-settings-desc = Iɣewwaṛen-a wulmen i twila n warrum n uselkim-inek d unagraw n wammud.
 performance-settings-learn-more = Issin ugar
+performance-allow-hw-accel =
+    .label = Seqdec tasɣiwelt tudlift n warrum ma tella
+    .accesskey = q
 performance-limit-content-process-option = Azal afellay n ukala n ugbur
     .accesskey = Y
 performance-limit-content-process-disabled-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a>Issin amek ad tsneqdeḍ ma yella agetakala yermed</a>
@@ -238,3 +247,6 @@ browsing-search-on-start-typing =
 
 network-proxy-title = Apruksi n uẓeṭṭa
 network-proxy-connection-learn-more = Issin ugar
+network-proxy-connection-settings =
+    .label = Iɣewwaṛen…
+    .accesskey = e
