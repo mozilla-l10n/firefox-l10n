@@ -57,17 +57,26 @@ startup-header = ਸ਼ੁਰੂ
 separate-profile-mode =
     .label = { -brand-short-name } ਤੇ ਫਾਇਰਫਾਕਸ ਨੂੰ ਇੱਕੋ ਸਮੇਂ ਚੱਲਣ ਦੀ ਇਜ਼ਾਜ਼ਤ ਦਿਉ
 use-firefox-sync = ਇਸ਼ਾਰਾ: ਇਹ ਵੱਖਰੇ ਪਰੋਫਾਈਲ ਵਰਤਦੇ ਹਨ। ਉਹਨਾਂ ਵਿਚਾਲੇ ਡਾਟਾ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਿੰਕ ਦੀ ਵਰਤੋਂ।
+get-started-not-logged-in = { -sync-brand-short-name } ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ…
+get-started-configured = { -sync-brand-short-name } ਮੇਰੀ ਪਸੰਦ ਖੋਲ੍ਹੋ
 always-check-default =
     .label = ਹਮੇਸ਼ਾ ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ { -brand-short-name } ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਹੈ
     .accesskey = w
 is-default = { -brand-short-name } ਇਸ ਸਮੇਂ ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਹੈ
 is-not-default = { -brand-short-name } ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਨਹੀਂ ਹੈ
+set-as-my-default-browser =
+    .label = …ਡਿਫਾਲਟ ਬਣਾਓ
+    .accesskey = D
+startup-page = ਜਦ { -brand-short-name } ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ
+    .accesskey = s
 startup-user-homepage =
     .label = ਆਪਣਾ ਮੁੱਖ ਸਫ਼ਾ ਵੇਖੋ
 startup-blank-page =
     .label = ਖ਼ਾਲੀ ਸਫ਼ਾ ਵੇਖੋ
 startup-prev-session =
     .label = ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਆਪਣੀਆਂ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਵੇਖੋ
+disable-extension =
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ
 home-page-header = ਆਪਣਾ ਮੁੱਖ ਸਫ਼ਾ ਵੇਖੋ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -87,6 +96,12 @@ restore-default =
     .label = ਮੂਲ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ
     .accesskey = R
 tabs-group-header = Tabs
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab cycles through tabs in recently used order
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = ਲਿੰਕਾਂ ਨੂੰ ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਦੀ ਬਜਾਏ ਟੈਬਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = ਜਦੋਂ ਕਈ ਟੈਬਾਂ ਬੰਦ ਕਰਨੀਆਂ ਹੋਣ ਤਾਂ ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰਦਾ ਹੈ
     .accesskey = m
@@ -112,13 +127,19 @@ containers-disable-alert-cancel-button = ਸਮਰੱਥ ਰੱਖੋ
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = ਭਾਸ਼ਾ ਤੇ ਦਿੱਖ
 fonts-and-colors-header = ਫੋਂਟ ਤੇ ਰੰਗ
+default-font = ਡਿਫਾਲਟ ਫ਼ੋਂਟ
+    .accesskey = D
+default-font-size = ਆਕਾਰ
+    .accesskey = S
 advanced-fonts =
     .label = …ਤਕਨੀਕੀ
     .accesskey = A
 colors-settings =
     .label = …ਰੰਗ
     .accesskey = C
+language-header = ਭਾਸ਼ਾ
 choose-language-description = ਸਫ਼ੇ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਚੁਣੋ
 choose-button =
     .label = …ਚੁਣੋ
@@ -135,6 +156,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ਫਾਈਲਾਂ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨਾਂ
 download-header = ਡਾਊਨਲੋਡ
 download-save-to =
     .label = ਫਾਈਲਾਂ ਨੂੰ ਸੰਭਾਲੋ
@@ -153,23 +175,60 @@ download-choose-folder =
 download-always-ask-where =
     .label = ਹਮੇਸ਼ਾ ਤੁਹਾਨੂੰ ਪੁੱਛੇ ਕਿ ਫਾਈਲਾਂ ਕਿੱਥੇ ਸੰਭਾਲਣੀਆਂ ਹਨ
     .accesskey = A
+applications-header = ਐਪਲੀਕੇਸ਼ਨਾਂ
+applications-description = ਚੁਣੋ ਕਿ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਵੈੱਬ ਤੋਂ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਰਾਹੀਂ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫ਼ਾਇਲਾਂ ਨਾਲ { -brand-short-name } ਕਿਵੇਂ ਨਿਪਟੇ।
+applications-filter =
+    .placeholder = ਫਾਈਲ ਕਿਸਮਾਂ ਜਾਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲੱਭੋ
 applications-type-column =
     .label = ਸਮੱਗਰੀ ਟਾਈਪ
     .accesskey = T
 applications-action-column =
     .label = ਐਕਸ਼ਨ
     .accesskey = A
+drm-content-header = ਡਿਜ਼ਿਟਲ ਰਾਈਟਸ ਮੈਨਜੇਮੈਂਟ (DRM) ਸਮੱਗਰੀ
+play-drm-content =
+    .label = DRM-ਕੰਟਰੋਲ ਕੀਤੀ ਸਮੱਗਰੀ ਚਲਾਓ
+    .accesskey = P
 play-drm-content-learn-more = ਹੋਰ ਜਾਣੋ
 update-application-title = { -brand-short-name } ਅੱਪਡੇਟ
+update-application-info = ਵਰਜ਼ਨ { $version } <a>ਨਵਾਂ ਕੀ ਹੈ</a>
+update-history =
+    .label = …ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ
+    .accesskey = p
+update-application-allow-description = { -brand-short-name } ਨੂੰ ਇਜਾਜ਼ਤ ਦਿਓ
+update-application-auto =
+    .label = ਅੱਪਡੇਟ ਆਪਣੇ-ਆਪ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ)
+    .accesskey = A
+update-application-check-choose =
+    .label = ਅੱਪਡੇਟ ਦੀ ਜਾਂਚ ਤਾਂ ਕਰੋ, ਪਰ ਉਹਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਚੁਣਨ ਦਿਓ
+    .accesskey = C
+update-application-manual =
+    .label = ਅੱਪਡੇਟ ਲਈ ਕਦੇ ਵੀ ਜਾਂਚ ਨਾ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ ਨਹੀਂ)
+    .accesskey = N
 update-application-use-service =
     .label = ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਬੈਕਗਰਾਊਂਡ ਸਰਵਿਸ ਵਰਤੋਂ
     .accesskey = b
+update-enable-search-update =
+    .label = ਖੋਜ ਇੰਜਣਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਕਰੋ
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = ਕਾਰਗੁਜ਼ਾਰੀ
+performance-use-recommended-settings-checkbox =
+    .label = ਸਿਫਾਰਸ਼ੀ ਕਾਰਗੁਜਾਰੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੋਂ
+    .accesskey = U
+performance-use-recommended-settings-desc = ਇਹ ਸੈਟਿੰਗਾਂ ਨੂੰ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੇ ਹਾਰਡਵੇਅਰ ਅਤੇ ਓਪਰੇਟਿੰਗ ਸਿਸਤਮ ਦੇ ਮੁਤਾਬਕ ਬਣਾਇਆ ਗਿਆ ਹੈ।
+performance-settings-learn-more = ਹੋਰ ਜਾਣੋ
 performance-allow-hw-accel =
     .label = ਜਦੋਂ ਵੀ ਉਪਲੱਬਧ ਹੋਵੇ ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ ਵਰਤੋਂ
     .accesskey = h
+performance-limit-content-process-option = ਸਮੱਗਰੀ ਕਾਰਵਾਈ ਹੱਦ
+    .accesskey = L
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (ਡਿਫਾਲਟ)
 
 ## General Section - Browsing
 
@@ -192,6 +251,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = ਨੈੱਟਵਰਕ ਪਰਾਕਸੀ
+network-proxy-connection-learn-more = ਹੋਰ ਜਾਣੋ
 network-proxy-connection-settings =
     .label = …ਸੈਟਿੰਗ
     .accesskey = e
