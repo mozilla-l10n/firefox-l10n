@@ -52,6 +52,17 @@ restart-later = नंतर पुनःसुरु करा
 ## General Section
 
 startup-header = प्रारंभीकरण
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] सध्याच्या पृष्ठाचे वापर करा
+           *[other] सध्याच्या पृष्ठांचा वापर करा
+        }
+    .accesskey = C
 show-tabs-in-taskbar =
     .label = पटलाच्या कार्यपट्टीत टॅब पूर्वावलोकन दाखवा
     .accesskey = k
@@ -70,6 +81,21 @@ choose-button =
 
 ## General Section - Files and Applications
 
+download-header = डाउनलोड्ज
+download-save-to =
+    .label = फाइल्स येथे साठवा
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] निवडा…
+           *[other] चाळा…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
 applications-type-column =
     .label = अंतर्भुत माहिती प्रकार
     .accesskey = T
