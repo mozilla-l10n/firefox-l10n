@@ -64,6 +64,9 @@ always-check-default =
     .accesskey = o
 is-default = { -brand-short-name } ye agora o suyo navegador por defecto
 is-not-default = { -brand-short-name } no ye o suyo navegador por defecto
+set-as-my-default-browser =
+    .label = Definir per defecto…
+    .accesskey = D
 startup-page = Quan s'enchegue lo { -brand-short-name }:
     .accesskey = e
 startup-user-homepage =
@@ -72,6 +75,8 @@ startup-blank-page =
     .label = Amostrar una pachina en blanco
 startup-prev-session =
     .label = Amostrar las mías finestras y pestanyas d'a zaguer vegada
+disable-extension =
+    .label = Desactivar extensión
 home-page-header = Amostrar la mía pachina d'inicio
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -94,6 +99,9 @@ tabs-group-header = Pestanyas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cambia de pestanya en orden d'uso mas recient
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Ubrir vinclos en pestanyas en cuenta d'en nuevas finestras
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Alvertir-me en zarrar multiples pestanyas
     .accesskey = m
@@ -128,6 +136,7 @@ containers-disable-alert-cancel-button = Mantener habilitadas
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Idioma y aparición
 fonts-and-colors-header = Fuents y Colors
 default-font = Tipografía por defecto:
     .accesskey = d
@@ -139,6 +148,7 @@ advanced-fonts =
 colors-settings =
     .label = Colors…
     .accesskey = C
+language-header = Idioma
 choose-language-description = Trigar l'idioma preferiu ta amostrar as pachinas web
 choose-button =
     .label = Trigar…
@@ -155,6 +165,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Fichers y aplicacions
 download-header = Descargas
 download-save-to =
     .label = Alzar os fichers en
@@ -174,6 +185,7 @@ download-always-ask-where =
     .label = Preguntar-me siempre aón alzar los fichers
     .accesskey = a
 applications-header = Aplicacions
+applications-description = Trigar cómo { -brand-short-name } tracta los fichers que has descargaus d'o web u las aplicacions que fas servir quan navegas.
 applications-filter =
     .placeholder = Mirar los tipos de fichers u aplicacions
 applications-type-column =
@@ -182,12 +194,21 @@ applications-type-column =
 applications-action-column =
     .label = Acción
     .accesskey = A
+drm-content-header = Conteniu DRM (Digital Rights Management, Chestión de dreitos dichitals)
+play-drm-content =
+    .label = Reproducir conteniu controlau per DRM
+    .accesskey = R
 play-drm-content-learn-more = Mas información
 update-application-title = Actualizacions d'o { -brand-short-name }:
+update-application-description = Mantener { -brand-short-name } a lo día pa tener lo millor rendimiento, estabilidat y seguranza.
+update-application-info = Versión { $version } <a>Novedatz</a>
 update-history =
     .label = Amostrar l'historial d'actualizacions
     .accesskey = h
 update-application-allow-description = Permitir a { -brand-short-name }
+update-application-auto =
+    .label = Instalar automaticament las actualizacions (recomendau)
+    .accesskey = A
 update-application-check-choose =
     .label = Comprebar as actualizacions, pero deixar-me trigar si las quiero instalar
     .accesskey = C
@@ -204,11 +225,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Rendimiento
+performance-use-recommended-settings-checkbox =
+    .label = Usar las caracteristicas de rendimiento recomendadas
+    .accesskey = U
+performance-use-recommended-settings-desc = Estos achustes son adaptaus a lo hardware y lo sistema operativo d'o tuyo ordinador.
+performance-settings-learn-more = Saber-ne mas
 performance-allow-hw-accel =
     .label = Usar l'acceleración d'hardware quan sía disponible
     .accesskey = r
 performance-limit-content-process-option = Limite de procesado de conteniu
     .accesskey = L
+performance-limit-content-process-enabled-desc = Los procesos de conteniu adicional pueden millorar las prestacions quan se fan servir multiples pestanyas, pero tamién usarán mas memoria.
+performance-limit-content-process-disabled-desc = Modificar lo numero de procesos de contenius no ye posible soque con la versión multiproceso de { -brand-short-name }. <a>Aprender a comprebar si los multiprocesos son activaus</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -235,6 +263,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy de ret
+network-proxy-connection-learn-more = Saber-ne mas
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
