@@ -52,6 +52,9 @@ restart-later = Reiniciar depois
 ## General Section
 
 startup-header = Iniciar
+always-check-default =
+    .label = Sempre verificar se o { -brand-short-name } é o navegador padrão
+    .accesskey = S
 is-default = O { -brand-short-name } é o seu navegador padrão
 is-not-default = O { -brand-short-name } não é o seu navegador padrão
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -95,6 +98,9 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Downloads
+download-save-to =
+    .label = Salvar arquivos em
+    .accesskey = S
 applications-type-column =
     .label = Tipo de conteúdo
     .accesskey = T
