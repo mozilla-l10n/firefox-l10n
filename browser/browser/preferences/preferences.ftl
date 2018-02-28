@@ -57,13 +57,27 @@ startup-header = Spustenie
 separate-profile-mode =
     .label = Umožniť, aby { -brand-short-name } a Firefox mohli byť spustené v rovnakom čase
 use-firefox-sync = Tip: použijú sa oddelené používateľské profily. Ak chcete medzi nimi zdieľať údaje, môžete využiť službu { -sync-brand-short-name }.
+get-started-not-logged-in = Prihlásiť sa do služby { -sync-brand-short-name }…
+get-started-configured = Otvoriť nastavenia služby { -sync-brand-short-name }
 always-check-default =
     .label = Vždy kontrolovať, či je { -brand-short-name } predvoleným prehliadačom
     .accesskey = r
 is-default = { -brand-short-name } je nastavený ako predvolený prehliadač
 is-not-default = { -brand-short-name } nie je váš predvolený prehliadač
+set-as-my-default-browser =
+    .label = Nastaviť ako predvolený…
+    .accesskey = d
+startup-page = Po spustení prehliadača { -brand-short-name } zobraziť:
+    .accesskey = s
+startup-user-homepage =
+    .label = domovskú stránku
 startup-blank-page =
     .label = prázdnu stránku
+startup-prev-session =
+    .label = naposledy otvorené okná a karty
+disable-extension =
+    .label = Zakázať rozšírenie
+home-page-header = domovskú stránku
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -85,9 +99,28 @@ tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Prepínať karty pomocou Ctrl+Tab v poradí podľa posledného otvorenia
     .accesskey = k
+open-new-link-as-tabs =
+    .label = Otvárať odkazy v kartách namiesto okien
+    .accesskey = r
+warn-on-close-multiple-tabs =
+    .label = Upozorniť pri zatváraní viacerých kariet
+    .accesskey = o
+warn-on-open-many-tabs =
+    .label = Upozorniť, ak by otvorenie viacerých kariet spôsobilo spomalenie aplikácie { -brand-short-name }
+    .accesskey = U
+switch-links-to-new-tabs =
+    .label = Pri otvorení odkazu na novej karte ju preniesť do popredia
+    .accesskey = r
 show-tabs-in-taskbar =
     .label = Zobrazovať ukážky kariet v paneli úloh systému Windows
     .accesskey = Z
+browser-containers-enabled =
+    .label = Povoliť kontajnerové karty
+    .accesskey = o
+browser-containers-learn-more = Ďalšie informácie
+browser-containers-settings =
+    .label = Nastavenia…
+    .accesskey = i
 containers-disable-alert-title = Zavrieť všetky kontajnerové karty?
 containers-disable-alert-desc =
     { $tabCount ->
@@ -105,13 +138,19 @@ containers-disable-alert-cancel-button = Nechať povolené
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Jazyk a vzhľad stránok
 fonts-and-colors-header = Písma a farby
+default-font = Predvolené písmo
+    .accesskey = d
+default-font-size = Veľkosť
+    .accesskey = s
 advanced-fonts =
     .label = Pokročilé…
     .accesskey = o
 colors-settings =
     .label = Farby…
     .accesskey = F
+language-header = Jazyk
 choose-language-description = Vybrať jazyky pre zobrazovanie webových stránok
 choose-button =
     .label = Vybrať…
@@ -122,22 +161,73 @@ translate-web-pages =
 translate-exceptions =
     .label = Výnimky…
     .accesskey = m
+check-user-spelling =
+    .label = Kontrolovať pravopis počas písania
+    .accesskey = K
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Súbory a aplikácie
+download-always-ask-where =
+    .label = Vždy sa opýtať, kam uložiť súbory
+    .accesskey = k
+applications-header = Aplikácie
+applications-description = Čo má { -brand-short-name } urobiť so súbormi prevzatými z webu alebo s aplikáciami, ktoré používate pri prehliadaní.
+applications-filter =
+    .placeholder = Hľadať typ súboru alebo aplikáciu
 applications-type-column =
     .label = Typ obsahu
     .accesskey = T
 applications-action-column =
     .label = Akcia
     .accesskey = A
+drm-content-header = Obsah chránený pomocou Digital Rights Management (DRM)
+play-drm-content =
+    .label = Prehrávať obsah chránený pomocou DRM
+    .accesskey = P
 play-drm-content-learn-more = Ďalšie informácie
+update-application-title = Aktualizácie prehliadača { -brand-short-name }
+update-application-description = Najvyšší výkon, stabilitu a bezpečnosť dosiahnete tak, že budete udržovať aplikáciu { -brand-short-name } neustále aktuálnu.
+update-application-info = Verzia { $version } <a>Čo je nové</a>
+update-history =
+    .label = Zobraziť históriu aktualizácii…
+    .accesskey = h
+update-application-allow-description = Povoliť aplikácii { -brand-short-name }
+update-application-auto =
+    .label = Automaticky inštalovať aktualizácie (odporúčané)
+    .accesskey = A
+update-application-check-choose =
+    .label = Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú
+    .accesskey = k
+update-application-manual =
+    .label = Nevyhľadávať aktualizácie (neodporúča sa)
+    .accesskey = N
 update-application-use-service =
     .label = Na inštaláciu aktualizácií používať službu na pozadí
     .accesskey = z
+update-enable-search-update =
+    .label = Automaticky aktualizovať vyhľadávacie moduly
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Výkon
+performance-use-recommended-settings-checkbox =
+    .label = Použiť odporúčané nastavenia výkonu
+    .accesskey = u
+performance-use-recommended-settings-desc = Tieto nastavenia sú ušité na mieru podľa hardvéru a operačného systému vášho počítača.
+performance-settings-learn-more = Ďalšie informácie
+performance-allow-hw-accel =
+    .label = Použiť hardvérové urýchľovanie (ak je dostupné)
+    .accesskey = h
+performance-limit-content-process-option = Limit procesov obsahu
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Viac procesov môže zlepšiť výkon pri otvorení viacerých kariet. Spotrebujú však viac pamäte.
+performance-limit-content-process-disabled-desc = Zmena počtu procesov obsahu je možná len pri použití multiprocesového režimu aplikácie { -brand-short-name }. <a>Pozrite sa, ako môžete skontrolovať stav multiprocesového režimu</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (predvolená)
 
 ## General Section - Browsing
 
@@ -148,12 +238,20 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Použiť plynulý posun
     .accesskey = o
+browsing-use-onscreen-keyboard =
+    .label = V prípade potreby zobraziť dotykovú klávesnicu
+    .accesskey = d
 browsing-use-cursor-navigation =
     .label = Vždy používať kurzorové klávesy na navigáciu na stránkach
     .accesskey = V
+browsing-search-on-start-typing =
+    .label = Povoliť vyhľadávanie textu počas písania
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = Nastavenie pripojenia
+network-proxy-connection-learn-more = Ďalšie informácie
 network-proxy-connection-settings =
     .label = Nastavenia…
     .accesskey = N
