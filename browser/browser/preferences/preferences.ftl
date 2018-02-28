@@ -58,6 +58,9 @@ startup-blank-page =
 
 ## General Section - Files and Applications
 
+download-save-to =
+    .label = ఇచట ఫైల్సు భద్రపరచు
+    .accesskey = v
 applications-action-column =
     .label = చర్య
     .accesskey = A
