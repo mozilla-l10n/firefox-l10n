@@ -37,18 +37,26 @@ restart-later = နောက်မှ ပြန်ဖွင့်ပါ
 ## General Section
 
 startup-header = စတင်ခြင်း
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = { -brand-short-name } နှင့် မီးမြေခွေးတို့ကို တချိန်တည်းမှာ လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ
 
 ## General Section - Language & Appearance
 
 
 ## General Section - Files and Applications
 
+play-drm-content-learn-more = ပိုမိုလေ့လာရန်
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-use-onscreen-keyboard =
+    .label = လိုအပ်လျှင် တို့ထိကီးဘုတ်ကို ပြပါ
+    .accesskey = k
 
 ## General Section - Proxy
 
