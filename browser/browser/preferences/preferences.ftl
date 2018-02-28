@@ -101,11 +101,17 @@ browser-containers-enabled =
     .accesskey = n
 browser-containers-learn-more = Saber más
 containers-disable-alert-title = ¿Cerrar todo el contenedor de pestañas?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Si deshabilitas las pestañas contenedoras ahora, { $tabCount } pestaña contenedora se cerrará. ¿Seguro que deseas deshabilitar pestañas contenedoras?
+       *[other] Si deshabilitas las pestañas contenedoras ahora, { $tabCount } pestañas contenedoras se cerrarán. ¿Seguro que deseas deshabilitar las pestañas contenedoras?
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Cerrar { $tabCount } pestaña contenedora
        *[other] Cerrar { $tabCount } pestañas contenedoras
     }
+containers-disable-alert-cancel-button = Mantenerlas habilitadas
 
 ## General Section - Language & Appearance
 
@@ -159,6 +165,13 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = Saber más 
 update-application-description = Mantener { -brand-short-name } actualizado para el mejor rendimiento, estabilidad y seguridad.
+update-application-allow-description = Quiero que { -brand-short-name }
+update-application-auto =
+    .label = Instale actualizaciones automáticamente (recomendado)
+    .accesskey = I
+update-application-check-choose =
+    .label = Busque actualizaciones pero me permita elegir si instalarlas o no
+    .accesskey = B
 update-application-use-service =
     .label = Utilizar un servicio en segundo plano para instalar las actualizaciones
     .accesskey = s
