@@ -96,6 +96,9 @@ download-choose-folder =
             [macos] த
            *[other] ல
         }
+applications-type-column =
+    .label = உள்ளடக்க வகை
+    .accesskey = T
 applications-action-column =
     .label = செயல்
     .accesskey = A
