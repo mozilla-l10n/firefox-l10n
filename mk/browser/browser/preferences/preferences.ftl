@@ -82,13 +82,19 @@ containers-disable-alert-ok-button =
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Јазик и изглед
 fonts-and-colors-header = Фонтови и бои
+default-font = Основен фонт
+    .accesskey = Д
+default-font-size = Големина
+    .accesskey = С
 advanced-fonts =
     .label = Напредно…
     .accesskey = Н
 colors-settings =
     .label = Бои…
     .accesskey = Б
+language-header = Јазик
 choose-language-description = Изберете го посакуваниот јазик за прикажување на страници
 choose-button =
     .label = Изберете…
