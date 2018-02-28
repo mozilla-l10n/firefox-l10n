@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Jwijwi
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Gin ayera
            *[other] Ter
         }
@@ -46,5 +47,37 @@ feature-enable-requires-restart = { -brand-short-name } myero nwo cake wek oye l
 feature-disable-requires-restart = { -brand-short-name } myero nwo cake wek ojuk lapok kin jami man.
 should-restart-title = Nwo cako { -brand-short-name }
 should-restart-ok = Cak { -brand-short-name } odoco kombedi
-revert-no-restart-button = Dok cen
 restart-later = Cak odoco lacen
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+choose-button =
+    .label = Yer…
+    .accesskey = e
+
+## General Section - Files and Applications
+
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Yer…
+           *[other] Yeny…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] r
+           *[other] e
+        }
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Yenyo
+
+## General Section - Proxy
+
