@@ -51,18 +51,61 @@ restart-later = Reaviar mai tard
 
 ## General Section
 
+startup-header = Aviada
+startup-blank-page =
+    .label = Afichar una pagina voida
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Utilizar la pagina activa
+           *[other] Utilizar las paginas activas
+        }
+    .accesskey = U
+restore-default =
+    .label = Restablir la configuracion per defaut
+    .accesskey = R
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Avançat…
+    .accesskey = A
+colors-settings =
+    .label = Colors…
+    .accesskey = C
+choose-language-description = Causissètz vòstra lenga preferida per l'afichatge de las paginas
 
 ## General Section - Files and Applications
 
+download-header = Telecargaments
+download-save-to =
+    .label = Enregistrar los fichièrs dins lo dorsièr
+    .accesskey = n
+applications-type-column =
+    .label = Tipe de contengut
+    .accesskey = T
+applications-action-column =
+    .label = Accion
+    .accesskey = A
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-use-autoscroll =
+    .label = Utilizar lo desfilament automatic
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Utilizar lo desfilament doç
+    .accesskey = d
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Paramètres
+    .accesskey = e
