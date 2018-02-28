@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Selalu
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Pengaturan
            *[other] Pengaturan
         }
@@ -46,5 +47,25 @@ feature-enable-requires-restart = { -brand-short-name } harus dimulai ulang untu
 feature-disable-requires-restart = { -brand-short-name } harus dimulai ulang untuk menonaktifkan fitur ini.
 should-restart-title = Mulai Ulang { -brand-short-name }
 should-restart-ok = Mulai ulang { -brand-short-name } sekarang
-revert-no-restart-button = Kembalikan
 restart-later = Mulai Ulang Nanti
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Simpan berkas di
+    .accesskey = S
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
