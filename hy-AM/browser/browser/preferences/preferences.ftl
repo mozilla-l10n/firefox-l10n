@@ -64,12 +64,20 @@ always-check-default =
     .accesskey = շ
 is-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
 is-not-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչը չէ
+set-as-my-default-browser =
+    .label = Դարձնել լռելյայն...
+    .accesskey = D
 startup-page = Երբ { -brand-short-name }-ը մեկնարկում է
     .accesskey = մ
+startup-user-homepage =
+    .label = Ցուցադրել տնային էջը
 startup-blank-page =
     .label = Ցուցադրել դատարկ էջ
 startup-prev-session =
     .label = Ցուցադրել ձեր նախորդ պատուհանները և ներդիրները
+disable-extension =
+    .label = Անջատել ընդլայնումը
+home-page-header = Ցուցադրել տնային էջը
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -125,6 +133,7 @@ containers-disable-alert-cancel-button = Պահել միացված
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Լեզուն և տեսքը
 fonts-and-colors-header = Տառատեսակները և Գույները
 default-font = Հիմնական տառատեսակը
     .accesskey = Հ
@@ -136,6 +145,7 @@ advanced-fonts =
 colors-settings =
     .label = Գույներ…
     .accesskey = Գ
+language-header = Լեզուն
 choose-language-description = Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար
 choose-button =
     .label = Ընտրել…
@@ -152,6 +162,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Ֆայլեր և հավելվածներ
 download-header = Ներբեռնումներ
 download-choose-folder =
     .label =
@@ -168,6 +179,7 @@ download-always-ask-where =
     .label = Միշտ հարցնել ֆայլերը պահպանելու տեղը
     .accesskey = Մ
 applications-header = Ծրագրեր
+applications-description = Ընտրեք, թե ինչպես { -brand-short-name }-ը վարվի ձեր ներբեռնած ֆայլերի կամ դիտարկումների ժամանակ ձեր կողմից օգտագործվող հավելվածների հետ:
 applications-filter =
     .placeholder = Որոնել ֆայլերի տեսակները կամ ծրագրերը
 applications-type-column =
@@ -176,8 +188,14 @@ applications-type-column =
 applications-action-column =
     .label = Գործողություն
     .accesskey = Գ
+drm-content-header = Digital Rights Management (DRM) բովանդակություն
+play-drm-content =
+    .label = Նվագարկել DRM-ղեկավարվող բովանդակությունը
+    .accesskey = P
 play-drm-content-learn-more = Իմանալ ավելին
 update-application-title = { -brand-short-name }-ի թարմացումներ
+update-application-description = Պահեք { -brand-short-name }-ը թարմացված՝ լավագույն արտադրողականության, կայունության և անվտանգության համար:
+update-application-info = Տարբերակ { $version } <a>Ինչն է նոր</a>
 update-history =
     .label = Ցուցադրել Թարմացումների Պատմությունը...
     .accesskey = ա
@@ -195,11 +213,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Արտադրողականություն
+performance-use-recommended-settings-checkbox =
+    .label = Օգտ. արտադրողականության հանձնարարելի կարգավորումները
+    .accesskey = Օ
+performance-use-recommended-settings-desc = Այս կարգավորումները հարմարեցված են ձեր համակարգչի սարքաշարին և օպերացիոն համակարգին:
+performance-settings-learn-more = Իմանալ ավելին
 performance-allow-hw-accel =
     .label = Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը 
     .accesskey = ր
 performance-limit-content-process-option = Բովանդակության ընթացքի սահմանափակում
     .accesskey = ս
+performance-limit-content-process-enabled-desc = Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:
+performance-limit-content-process-disabled-desc = Հնարավոր է փոփոխել բովանդակության ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դեպքում: <a>Կարդալ, թե ինչպես ստուգել՝ արդյոք բազմամշակիչը միացված է:</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -226,6 +251,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Ցանցի պրոքսի
 network-proxy-connection-settings =
     .label = Կարգավորել...
     .accesskey = ա
