@@ -52,6 +52,9 @@ restart-later = بعداْ راه‌اندازی مجدد شود
 ## General Section
 
 startup-header = راه‌اندازی
+show-tabs-in-taskbar =
+    .label = پیش‌نمایش زبانه‌ها در نوار وضعیت ویندوز
+    .accesskey = ز
 
 ## General Section - Language & Appearance
 
