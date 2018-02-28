@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Mewngofnodi i &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Agor dewisiadau &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Ail gysylltu i &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Rheoli cyfieithu tudalennau">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Rheoli'r defnydd o feddalwedd DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Agor panel MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Rydych wedi diffodd eich camera ar gyfer y wefan hon.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Rydych wedi diffodd eich meicroffon ar gyfer y wefan hon.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Rydych wedi rhwystro'r wefan rhag rhannu eich sgrin.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Rydych wedi rhwystro tynnu data canvas o'r wefan hon.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
 
