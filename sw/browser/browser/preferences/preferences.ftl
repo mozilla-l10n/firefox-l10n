@@ -31,6 +31,7 @@ should-restart-title = Washa upya { -brand-short-name }
 ## General Section
 
 startup-header = Uwashaji
+is-default = { -brand-short-name } kwa sasa ni kivinjari chako msingi
 startup-blank-page =
     .label = Onyesha ukurasa wazi
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -67,6 +68,9 @@ choose-language-description = Chagua lugha unayopendelea ya kuonyesha kurasa
 choose-button =
     .label = Chagua…
     .accesskey = a
+translate-exceptions =
+    .label = Mambo ya kipekee…
+    .accesskey = m
 
 ## General Section - Files and Applications
 
@@ -97,6 +101,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Tumia viharakishi maunzi wakati zinapatikana
+    .accesskey = v
 
 ## General Section - Browsing
 
