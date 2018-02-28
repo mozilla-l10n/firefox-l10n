@@ -75,6 +75,8 @@ startup-blank-page =
     .label = نمایش یک صفحه خالی
 startup-prev-session =
     .label = نمایش صفحات و زبانه‌های از آخرین دفعه
+disable-extension =
+    .label = غیرفعال سازی افزونه
 home-page-header = نمایش صفحه آغازه
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = زبانه‌ها
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab به ترتیب زبانه‌های اخیرا استفاده شده بین آنها حرکت می‌کند
     .accesskey = T
+open-new-link-as-tabs =
+    .label = بازکردن پیوندها در زبانه به جای بازکردن در پنجره
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = در هنگام بستن بیش از یک زبانه هشدار داده شود
     .accesskey = ب
@@ -209,11 +214,17 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = کارایی
+performance-use-recommended-settings-checkbox =
+    .label = استفاده از تنظیماتِ کارایی توصیه شده
+    .accesskey = س
+performance-settings-learn-more = بیشتر بدانید
 performance-allow-hw-accel =
     .label = استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود
     .accesskey = ش
 performance-limit-content-process-option = محدودیت پروسهٔ محتوا
     .accesskey = م
+performance-limit-content-process-enabled-desc = پروسه‌هایِ محتوایِ بیشتر می‌تواند کارایی را هنگام استفاده از چندین زبانه افزایش دهد، اما حافظه بیشتری هم مصرف خواهد کرد.
+performance-limit-content-process-disabled-desc = تغییر دادن تعداد پردازدش‌های محتوا تنها با چند‌پردازشی { -brand-short-name } امکان پذیر است. <a>بدانید چگونه بررسی کنید چندپرادزشی فعال است</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
