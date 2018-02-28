@@ -68,6 +68,9 @@ use-current-pages =
 restore-default =
     .label = Restaura les pàgines per defecte
     .accesskey = R
+show-tabs-in-taskbar =
+    .label = Mostra les previsualitzacions de les pestanyes a la barra de tasques del Windows
+    .accesskey = q
 
 ## General Section - Language & Appearance
 
@@ -78,6 +81,7 @@ advanced-fonts =
 colors-settings =
     .label = Colors…
     .accesskey = C
+choose-language-description = Trieu la llengua en què es mostraran preferentment les pàgines
 choose-button =
     .label = Trieu…
     .accesskey = T
@@ -102,6 +106,9 @@ download-choose-folder =
 applications-type-column =
     .label = Tipus de contingut
     .accesskey = T
+applications-action-column =
+    .label = Acció
+    .accesskey = A
 
 ## General Section - Performance
 
@@ -112,6 +119,9 @@ browsing-title = Navegació
 browsing-use-autoscroll =
     .label = Utilitza el desplaçament automàtic
     .accesskey = a
+browsing-use-cursor-navigation =
+    .label = Utilitza sempre les tecles de cursor per navegar en les pàgines
+    .accesskey = c
 
 ## General Section - Proxy
 
