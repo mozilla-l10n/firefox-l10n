@@ -57,15 +57,24 @@ startup-header = Zagon
 separate-profile-mode =
     .label = Dovoli, da { -brand-short-name } in Firefox tečeta sočasno
 use-firefox-sync = Nasvet: Uporabljena bosta različna profila, ki ju lahko uskladite z uporabo { -sync-brand-short-name }a.
+get-started-not-logged-in = Prijava v { -sync-brand-short-name } …
+get-started-configured = Odpri nastavitve { -sync-brand-short-name }a
 always-check-default =
     .label = Vedno preveri, ali je { -brand-short-name } privzeti brskalnik
     .accesskey = V
 is-default = { -brand-short-name } je trenutno vaš privzeti brskalnik
 is-not-default = { -brand-short-name } ni vaš privzeti brskalnik
+startup-page = Ko se { -brand-short-name } zažene,
+    .accesskey = K
+startup-user-homepage =
+    .label = prikaži domačo stran
 startup-blank-page =
     .label = prikaži prazno stran
+startup-prev-session =
+    .label = prikaži nazadnje odprta okna in zavihke
 disable-extension =
     .label = Onemogoči razširitev
+home-page-header = prikaži domačo stran
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -84,17 +93,51 @@ restore-default =
     .label = Uporabi privzeto stran
     .accesskey = r
 tabs-group-header = Zavihki
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab kroži med zavihki po vrsti, kot so bili nazadnje uporabljeni
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Opozori ob zapiranju več zavihkov hkrati
+    .accesskey = z
+warn-on-open-many-tabs =
+    .label = Opozori, ko lahko odpiranje veliko zavihkov hkrati upočasni { -brand-short-name }
+    .accesskey = v
+switch-links-to-new-tabs =
+    .label = Ko odprete povezavo v novem zavihku, takoj preklopi nanj
+    .accesskey = o
 show-tabs-in-taskbar =
     .label = Prikaži predoglede zavihkov v opravilni vrstici Windows
     .accesskey = ž
+browser-containers-enabled =
+    .label = Omogoči vsebniške zavihke
+    .accesskey = m
 browser-containers-settings =
     .label = Nastavitve …
     .accesskey = N
+containers-disable-alert-title = Zapri vse vsebniške zavihke?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Če vsebniške zavihke onemogočite zdaj, bo { $tabCount } vsebniški zavihek zaprt. Ali jih res želite onemogočiti?
+        [two] Če vsebniške zavihke onemogočite zdaj, bosta { $tabCount } vsebniška zavihka zaprta. Ali jih res želite onemogočiti?
+        [few] Če vsebniške zavihke onemogočite zdaj, bodo { $tabCount } vsebniški zavihki zaprti. Ali jih res želite onemogočiti?
+       *[other] Če vsebniške zavihke onemogočite zdaj, bo { $tabCount } vsebniških zavihkov zaprtih. Ali jih res želite onemogočiti?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Zapri { $tabCount } vsebniški zavihek
+        [two] Zapri { $tabCount } vsebniška zavihka
+        [few] Zapri { $tabCount } vsebniške zavihke
+       *[other] Zapri { $tabCount } vsebniških zavihkov
+    }
 containers-disable-alert-cancel-button = Pusti omogočeno
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Pisave in barve
+default-font = Privzeta pisava
+    .accesskey = P
+default-font-size = Velikost
+    .accesskey = V
 advanced-fonts =
     .label = Napredno …
     .accesskey = D
@@ -111,6 +154,9 @@ translate-web-pages =
 translate-exceptions =
     .label = Izjeme …
     .accesskey = I
+check-user-spelling =
+    .label = Preverjaj črkovanje med tipkanjem
+    .accesskey = v
 
 ## General Section - Files and Applications
 
@@ -129,6 +175,13 @@ download-choose-folder =
             [macos] b
            *[other] b
         }
+download-always-ask-where =
+    .label = Vedno vprašaj, kam shraniti datoteko
+    .accesskey = v
+applications-header = Programi
+applications-description = Izberite, kako naj { -brand-short-name } ravna z datotekami, ki jih prenesete s spleta, ter aplikacijami, ki jih uporabljate med brskanjem.
+applications-filter =
+    .placeholder = Išči vrste datotek ali programe
 applications-type-column =
     .label = Vrsta vsebine
     .accesskey = T
@@ -136,12 +189,36 @@ applications-action-column =
     .label = Dejanje
     .accesskey = A
 play-drm-content-learn-more = Več o tem
+update-application-title = Posodobitve { -brand-short-name }a
+update-history =
+    .label = Prikaži zgodovino posodobitev …
+    .accesskey = z
+update-application-allow-description = { -brand-short-name } naj
+update-application-check-choose =
+    .label = preverja posodobitve, vendar vam prepusti odločitev o nameščanju
+    .accesskey = o
+update-application-manual =
+    .label = nikoli ne preverja posodobitev (ni priporočeno)
+    .accesskey = N
 update-application-use-service =
     .label = Uporabi storitev za nameščanje posodobitev v ozadju
     .accesskey = s
+update-enable-search-update =
+    .label = Samodejno posodabljaj iskalnike
+    .accesskey = i
 
 ## General Section - Performance
 
+performance-title = Učinkovitost
+performance-use-recommended-settings-desc = Te nastavitve so prikrojene strojni opremi in operacijskemu sistemu vašega računalnika.
+performance-limit-content-process-option = Omejitev procesov vsebine
+    .accesskey = O
+performance-limit-content-process-enabled-desc = Dodatni procesi vsebine lahko pospešijo delovanje pri uporabi večjega števila zavihkov, a tudi porabijo več pomnilnika.
+performance-limit-content-process-disabled-desc = Število procesov vsebine je mogoče spreminjati samo v večprocesnem { -brand-short-name }u. <a>Kako izveste, ali je večprocesni način omogočen</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (privzeto)
 
 ## General Section - Browsing
 
@@ -158,6 +235,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Vselej uporabi tipke na tipkovnici za navigacijo po straneh
     .accesskey = t
+browsing-search-on-start-typing =
+    .label = Začni iskati ob začetku tipkanja
+    .accesskey = k
 
 ## General Section - Proxy
 
