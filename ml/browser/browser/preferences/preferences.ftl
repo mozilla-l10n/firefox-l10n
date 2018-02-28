@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = എപ്പോഴും
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ഉപാധികള്‍
            *[other] മുന്‍ഗണനകള്‍
         }
@@ -46,5 +47,32 @@ feature-enable-requires-restart = ഈ വിശേഷത പ്രവര്‍�
 feature-disable-requires-restart = ഈ വിശേഷത പ്രവര്‍ത്തന രഹിതമാക്കുന്നതിനു് { -brand-short-name } വീണ്ടും ആരംഭിയ്ക്കേണ്ടതുണ്ടു്.
 should-restart-title = { -brand-short-name } വീണ്ടും ആരംഭിക്കുക
 should-restart-ok = ഇപ്പോൾ { -brand-short-name } പുനരാരംഭിക്കുക
-revert-no-restart-button = പഴയപടിയാക്കുക
 restart-later = പിന്നീട് പുനരാരംഭിക്കുക
+
+## General Section
+
+choose-bookmark =
+    .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
+    .accesskey = B
+
+## General Section - Language & Appearance
+
+choose-language-description = താളുകള്‍ക്കുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക
+
+## General Section - Files and Applications
+
+applications-type-column =
+    .label = ഏതു് തരത്തിലുള്ള ഉള്ളടക്കം
+    .accesskey = T
+applications-action-column =
+    .label = പ്രവര്‍ത്തി
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
