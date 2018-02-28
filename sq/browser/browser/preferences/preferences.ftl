@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Përherë
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Mundësi
            *[other] Parapëlqime
         }
@@ -46,5 +47,38 @@ feature-enable-requires-restart = { -brand-short-name }-i duhet rinisur që të 
 feature-disable-requires-restart = { -brand-short-name }-i duhet rinisur që të çaktivizohet kjo veçori.
 should-restart-title = Riniseni { -brand-short-name }-in
 should-restart-ok = Rinise { -brand-short-name }-in tani
-revert-no-restart-button = Riktheje
 restart-later = Riniseni Më Vonë
+
+## General Section
+
+startup-header = Nisje
+restore-default =
+    .label = Riktheje te Parazgjedhja
+    .accesskey = P
+
+## General Section - Language & Appearance
+
+choose-language-description = Zgjidhni gjuhën tuaj të parapëlqyer për shfaqje faqesh
+choose-button =
+    .label = Zgjidhni…
+    .accesskey = z
+
+## General Section - Files and Applications
+
+download-header = Shkarkime
+download-save-to =
+    .label = Ruaji kartelat te
+    .accesskey = R
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Shfletim
+browsing-use-autoscroll =
+    .label = Përdor vetërrëshqitje
+    .accesskey = v
+
+## General Section - Proxy
+
