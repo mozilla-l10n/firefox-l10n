@@ -75,6 +75,7 @@ show-tabs-in-taskbar =
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Tipografías y colores
 advanced-fonts =
     .label = Avanzadas…
     .accesskey = A
