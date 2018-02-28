@@ -75,6 +75,14 @@ choose-bookmark =
 restore-default =
     .label = Стандартната страница
     .accesskey = С
+tabs-group-header = Раздели
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab обикаля разделите в реда на използване
+    .accesskey = б
+browser-containers-enabled =
+    .label = Включване на изолатора на раздели
+    .accesskey = к
+browser-containers-learn-more = Научете повече
 
 ## General Section - Language & Appearance
 
