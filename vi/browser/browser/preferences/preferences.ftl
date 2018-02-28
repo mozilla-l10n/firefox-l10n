@@ -113,6 +113,8 @@ browser-containers-settings =
     .label = Cài đặt…
     .accesskey = i
 containers-disable-alert-title = Đóng tất cả các thẻ ngăn chứa?
+containers-disable-alert-desc = Nếu bạn vô hiệu hóa thẻ ngăn chứa bây giờ, { $tabCount } thẻ ngăn chứa sẽ bị đóng. Bạn có chắc muốn vô hiệu hóa thẻ ngăn chứa?
+containers-disable-alert-ok-button = Đóng { $tabCount } thẻ ngăn chứa
 containers-disable-alert-cancel-button = Để bật
 
 ## General Section - Language & Appearance
