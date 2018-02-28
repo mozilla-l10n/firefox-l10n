@@ -51,6 +51,14 @@ restart-later = Start på nytt senere
 
 ## General Section
 
+startup-header = Startside
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Tillat { -brand-short-name } og Firefox å kjøre samtidig
+use-firefox-sync = Tips: Dette bruker egne profiler. Bruk { -sync-brand-short-name } for å dele data mellom dem.
+is-default = { -brand-short-name } er din standard nettleser
+is-not-default = { -brand-short-name } er ikke valgt som standard nettleser
 startup-blank-page =
     .label = Vis tom side
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -64,8 +72,15 @@ use-current-pages =
            *[other] Bruk åpne nettsider
         }
     .accesskey = B
+choose-bookmark =
+    .label = Bruk bokmerke …
+    .accesskey = u
 restore-default =
     .label = Bruk standard
+    .accesskey = s
+tabs-group-header = Faner
+show-tabs-in-taskbar =
+    .label = Vis forhåndsvisning av faner i Windows-oppgavelinjen
     .accesskey = s
 
 ## General Section - Language & Appearance
@@ -77,9 +92,16 @@ advanced-fonts =
 colors-settings =
     .label = Farger …
     .accesskey = F
+choose-language-description = Velg foretrukket språk på nettsider
 choose-button =
     .label = Velg …
     .accesskey = V
+translate-web-pages =
+    .label = Oversett webinnhold
+    .accesskey = O
+translate-exceptions =
+    .label = Unntak …
+    .accesskey = n
 
 ## General Section - Files and Applications
 
@@ -104,6 +126,10 @@ applications-type-column =
 applications-action-column =
     .label = Handling
     .accesskey = H
+play-drm-content-learn-more = Les mer
+update-application-use-service =
+    .label = Bruk en bakgrunnstjeneste for å installere oppdateringer
+    .accesskey = B
 
 ## General Section - Performance
 
@@ -117,9 +143,15 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Bruk jevn rulling
     .accesskey = u
+browsing-use-onscreen-keyboard =
+    .label = Vis et touch-tastatur når nødvendig
+    .accesskey = t
 browsing-use-cursor-navigation =
     .label = Alltid bruk piltaster for å navigere innenfor nettsider
     .accesskey = A
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Innstillinger …
+    .accesskey = I
