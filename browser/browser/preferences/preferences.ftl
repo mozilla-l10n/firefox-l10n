@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = હંમેશા
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] વિકલ્પો
            *[other] પસંદગીઓ
         }
@@ -46,5 +47,72 @@ feature-enable-requires-restart = આ લક્ષણને સક્રિય �
 feature-disable-requires-restart = આ લક્ષણને નિષ્ક્રિય કરવા માટે { -brand-short-name } ને પુન:શરૂ કરવુ જ જોઇએ.
 should-restart-title = પુનઃશરૂ કરો { -brand-short-name }
 should-restart-ok = હવે { -brand-short-name } પુનઃપ્રારંભ કરો
-revert-no-restart-button = પાછા ફરો
 restart-later = પછી પુનઃશરૂ કરો
+
+## General Section
+
+startup-header = શરૂઆત
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] વર્તમાન પાનું વાપરો
+           *[other] વર્તમાન પાનાંઓ વાપરો
+        }
+    .accesskey = C
+restore-default =
+    .label = મૂળભૂતમાં પુનઃસંગ્રહો
+    .accesskey = R
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = ફોન્ટ & રંગો
+colors-settings =
+    .label = રંગો...
+    .accesskey = C
+choose-language-description = પાનાંઓ દર્શાવવા માટે તમારી પ્રાધાન્યવાળી ભાષા પસંદ કરો
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = ફાઈલોને આમાં સંગ્રહો
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] પસંદ કરો...
+           *[other] બ્રાઉઝ કરો...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+applications-type-column =
+    .label = વિષયસુચી પ્રકાર
+    .accesskey = T
+applications-action-column =
+    .label = ક્રિયા
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = બ્રાઉઝીંગ
+browsing-use-autoscroll =
+    .label = આપોઆપ સરકાવવાનું વાપરો
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = લીસી રીતે સરકાવવાનું વાપરો
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = પાનાંઓમાં શોધખોળ કરવા માટે હંમેશા કર્સર કીઓ વાપરો
+    .accesskey = c
+
+## General Section - Proxy
+
