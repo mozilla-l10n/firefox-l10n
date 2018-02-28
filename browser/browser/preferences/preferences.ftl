@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = सधैँ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] विकल्पहरू
            *[other] प्राथमिकताहरू
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = { -brand-short-name } यो विशेष�
 feature-disable-requires-restart = { -brand-short-name } यो विशेषता हटाउन पुन: सुरू गर्नु पर्ने हुन्छ।
 should-restart-title = { -brand-short-name } पुनः सुरु गर्नुहोस्
 should-restart-ok = { -brand-short-name } तत्काल पुन सुचारु गर्नुहोस
-revert-no-restart-button = उल्टाउनुहोस
 restart-later = केहि समयपछि पुन सुचारु गर्नुहोस
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
