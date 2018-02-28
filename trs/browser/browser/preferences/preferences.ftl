@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Nigànj chre
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Nagui’iaj
            *[other] Nagui’iaj
         }
@@ -38,5 +39,23 @@ feature-enable-requires-restart = { -brand-short-name } a'ui nayi'ì ñunj da' n
 feature-disable-requires-restart = { -brand-short-name } da'ui nayi'ì ñunj da' gina'j sa huin ruhuat.
 should-restart-title = Nayi'ì nakà { -brand-short-name }
 should-restart-ok = Nayi'ì nakà { -brand-short-name } hìaj
-revert-no-restart-button = Nagi'iaj dàj rû' gaj
 restart-later = Nayi'i ñun' ne' rukú doj
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-header = Nadunínj
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
