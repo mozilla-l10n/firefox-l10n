@@ -48,10 +48,22 @@ use-current-pages =
 restore-default =
     .label = Vegêrîna Pêşsalixbûyî
     .accesskey = V
+show-tabs-in-taskbar =
+    .label = Di darikê amûran a Windowsê de pêşdîtina hilpekînê nîşan bide
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Pêşketî...
+    .accesskey = P
+colors-settings =
+    .label = Reng...
+    .accesskey = R
 choose-language-description = Ji bo nîşandana rûpelan zimanekî hilbijêre
+choose-button =
+    .label = Hilbijêre...
+    .accesskey = H
 
 ## General Section - Files and Applications
 
@@ -69,12 +81,31 @@ download-choose-folder =
             [macos] H
            *[other] g
         }
+applications-type-column =
+    .label = Cureyê Naverokê
+    .accesskey = C
+applications-action-column =
+    .label = Çalakî
+    .accesskey = a
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Digere
+browsing-use-autoscroll =
+    .label = Şemitandina xweber bi kar bîne
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Şemitandina nerm bikar bîne
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = Ji bo veguhestina bi nava rûpelan ve, her tim peyvên ji rêzê bi kar bîne
+    .accesskey = J
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Mîheng…
+    .accesskey = e
