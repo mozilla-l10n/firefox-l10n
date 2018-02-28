@@ -53,14 +53,43 @@ restart-later = Ponovno pokreni poslije
 startup-header = Pokretanje
 startup-blank-page =
     .label = Prikaži praznu stranicu
+choose-bookmark =
+    .label = Koristi zabilješku…
+    .accesskey = š
+restore-default =
+    .label = Vrati na uobičajeno
+    .accesskey = j
+show-tabs-in-taskbar =
+    .label = Prikaži pretpregled kartica u Windows traci zadataka
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
+colors-settings =
+    .label = Boje...
+    .accesskey = B
 choose-language-description = Odaberite jezik za prikazivanje stranica
+choose-button =
+    .label = Odabir…
+    .accesskey = d
 
 ## General Section - Files and Applications
 
 download-header = Preuzimanja
+download-save-to =
+    .label = Spremi datoteke u
+    .accesskey = u
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Odaberi...
+           *[other] Pretraži...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] i
+        }
 applications-action-column =
     .label = Akcija
     .accesskey = A
