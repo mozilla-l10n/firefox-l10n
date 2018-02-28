@@ -109,11 +109,15 @@ browser-containers-enabled =
     .label = Bật thẻ ngăn chứa
     .accesskey = n
 browser-containers-learn-more = Tìm hiểu thêm
+browser-containers-settings =
+    .label = Cài đặt…
+    .accesskey = i
 containers-disable-alert-title = Đóng tất cả các thẻ ngăn chứa?
 containers-disable-alert-cancel-button = Để bật
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Ngôn ngữ và giao diện
 fonts-and-colors-header = Phông & Màu sắc
 default-font = Phông mặc định
     .accesskey = D
@@ -142,6 +146,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Tập tin và ứng dụng
 download-header = Tải xuống
 download-save-to =
     .label = Lưu các tập tin vào
@@ -213,6 +218,10 @@ performance-limit-content-process-option = Giới hạn xử lý nội dung
     .accesskey = L
 performance-limit-content-process-enabled-desc = Các tiến trình xử lý nội dung bổ sung có thể cải thiện hiệu suất khi sử dụng nhiều thẻ một lúc, nhưng cũng sẽ tiêu tốn nhiều bộ nhớ.
 performance-limit-content-process-disabled-desc = Việc chỉnh sửa số tiến trình xử lý nội dung chỉ có thể thực hiện với { -brand-short-name } đa tiến trình. <a>Tìm hiểu làm cách nào để kiểm tra khi chế độ đa tiến trình được bật</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (mặc định)
 
 ## General Section - Browsing
 
