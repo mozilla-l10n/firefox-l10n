@@ -41,12 +41,55 @@ startup-header = စတင်ခြင်း
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } နှင့် မီးမြေခွေးတို့ကို တချိန်တည်းမှာ လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ
+always-check-default =
+    .label = { -brand-short-name } သည် ပုံသေဘရောင်ဇာ ဟုတ်/မဟုတ် အမြဲစစ်ဆေးပါ
+    .accesskey = y
+is-default = { -brand-short-name } သည် လက်ရှိတွင် ပုံသေဘရောက်ဇာ ဖြစ်ပါသည်
+is-not-default = { -brand-short-name } သည် ပုံသေဘရောက်ဇာ ဖြစ်မနေပါ
+startup-blank-page =
+    .label = စာမျက်နှာ အလွတ်ကို ပြပေးပါ
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] လက်ရှိစာမျက်နှာကို အသုံးပြုပါ
+           *[other] လက်ရှိဖွင့်ထားသည့် စာမျက်နှာများကို အသုံးပြုပါ
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = စာမှတ်ကို အသုံးပြုပါ…
+    .accesskey = B
+restore-default =
+    .label = မူလသတ်မှတ်ချက်အတိုင်း ပြန်ထားပါ
+    .accesskey = R
+browser-containers-enabled =
+    .label = ကွန်တိန်နာတပ်ဗ်များအသုံးပြုခြင်းကို ဖွင့်ရန်
+    .accesskey = n
+browser-containers-learn-more = ပိုမိုလေ့လာရန်
 
 ## General Section - Language & Appearance
 
 
 ## General Section - Files and Applications
 
+download-header = ဆွဲယူထားသည့် ဖိုင်များ
+download-save-to =
+    .label = ဖိုင်များကို ထိုနေရာတွင် သိမ်းရန်
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] ရွေးပါ…
+           *[other] ရှာဖွေရန်…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
 play-drm-content-learn-more = ပိုမိုလေ့လာရန်
 
 ## General Section - Performance
