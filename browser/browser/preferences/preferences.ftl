@@ -51,18 +51,31 @@ restart-later = Ailgychwyn Rhywbryd Eto
 
 ## General Section
 
+startup-header = Cychwyn
+startup-blank-page =
+    .label = Dangos tudalen wag
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Ffontiau a Lliwiau
+choose-language-description = Dewis eich iaith ar gyfer dangos tudalennau
 
 ## General Section - Files and Applications
 
+download-header = Llwytho i Lawr
+applications-action-column =
+    .label = Gweithred
+    .accesskey = G
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Pori
+browsing-use-autoscroll =
+    .label = Defnyddio awto sgrolio
+    .accesskey = a
 
 ## General Section - Proxy
 
