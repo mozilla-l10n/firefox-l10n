@@ -57,6 +57,8 @@ startup-header = Inicio
 separate-profile-mode =
     .label = Permitir que { -brand-short-name } y Firefox corran al mismo tiempo
 use-firefox-sync = Consejo: Esto utiliza perfiles separados. Usa { -sync-brand-short-name } para compartir información entre ellos.
+get-started-not-logged-in = Iniciar sesión en { -sync-brand-short-name }…
+get-started-configured = Abrir las preferencias de { -sync-brand-short-name }
 always-check-default =
     .label = Siempre revisar si { -brand-short-name } es tu navegador predeterminado
     .accesskey = S
@@ -65,10 +67,14 @@ is-not-default = { -brand-short-name } no es tu navegador predeterminado
 set-as-my-default-browser =
     .label = Hacer predeterminado…
     .accesskey = D
+startup-page = Al iniciar { -brand-short-name }
+    .accesskey = s
 startup-user-homepage =
     .label = Mostrar tu página de inicio
 startup-blank-page =
     .label = Mostrar una página vacía
+startup-prev-session =
+    .label = Muestra las ventanas y pestañas de tu última visita
 disable-extension =
     .label = Deshabilitar extensión
 home-page-header = Mostrar tu página de inicio
@@ -134,6 +140,10 @@ containers-disable-alert-cancel-button = Mantenerlas habilitadas
 
 language-and-appearance-header = Idioma y apariencia
 fonts-and-colors-header = Tipografías y colores
+default-font = Fuente predeterminada
+    .accesskey = D
+default-font-size = Tamaño
+    .accesskey = S
 advanced-fonts =
     .label = Avanzadas…
     .accesskey = A
@@ -151,6 +161,9 @@ translate-web-pages =
 translate-exceptions =
     .label = Excepciones…
     .accesskey = x
+check-user-spelling =
+    .label = Verificar la ortografía mientras escribes
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -170,6 +183,10 @@ download-choose-folder =
             [macos] E
            *[other] x
         }
+applications-header = Aplicaciones
+applications-description = Decide cómo { -brand-short-name } gestiona los archivos que descargas de la Web o las aplicaciones que utilizas mientras navegas.
+applications-filter =
+    .placeholder = Buscar tipos de archivos o aplicaciones
 applications-type-column =
     .label = Tipo de contenido
     .accesskey = T
@@ -181,7 +198,11 @@ play-drm-content =
     .label = Reproducir contenido controlado por DRM
     .accesskey = P
 play-drm-content-learn-more = Saber más 
+update-application-title = { -brand-short-name } actualizaciones
 update-application-description = Mantener { -brand-short-name } actualizado para el mejor rendimiento, estabilidad y seguridad.
+update-history =
+    .label = Mostrar historial de actualizaciones…
+    .accesskey = p
 update-application-allow-description = Quiero que { -brand-short-name }
 update-application-auto =
     .label = Instale actualizaciones automáticamente (recomendado)
@@ -189,9 +210,15 @@ update-application-auto =
 update-application-check-choose =
     .label = Busque actualizaciones pero me permita elegir si instalarlas o no
     .accesskey = B
+update-application-manual =
+    .label = Nunca busque actualizaciones (no recomendado)
+    .accesskey = N
 update-application-use-service =
     .label = Utilizar un servicio en segundo plano para instalar las actualizaciones
     .accesskey = s
+update-enable-search-update =
+    .label = Actualice automáticamente los motores de búsqueda
+    .accesskey = e
 
 ## General Section - Performance
 
@@ -208,6 +235,12 @@ browsing-use-smooth-scrolling =
 browsing-use-onscreen-keyboard =
     .label = Mostrar el teclado táctil cuando sea necesario
     .accesskey = t
+browsing-use-cursor-navigation =
+    .label = Usar siempre las teclas del cursor para navegar dentro de las páginas
+    .accesskey = c
+browsing-search-on-start-typing =
+    .label = Buscar el texto cuando empiezas a escribir
+    .accesskey = x
 
 ## General Section - Proxy
 
