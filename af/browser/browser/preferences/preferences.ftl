@@ -42,21 +42,88 @@ restart-later = Herbegin later
 
 ## General Section
 
+startup-header = Begin
+startup-blank-page =
+    .label = Wys 'n leë bladsy
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Gebruik huidige bladsy
+           *[other] Gebruik huidige bladsye
+        }
+    .accesskey = G
+choose-bookmark =
+    .label = Gebruik boekmerk…
+    .accesskey = b
+restore-default =
+    .label = Stel terug na verstek
+    .accesskey = S
+show-tabs-in-taskbar =
+    .label = Wys oortjievoorskoue in die Windows-taakbalk
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Gevorderd…
+    .accesskey = G
+colors-settings =
+    .label = Kleure…
+    .accesskey = K
+choose-language-description = Kies u voorkeurtaal waarin bladsye vertoon moet word
+choose-button =
+    .label = Kies…
+    .accesskey = K
 
 ## General Section - Files and Applications
 
+download-header = Aflaaie
 download-save-to =
     .label = Stoor lêers na
     .accesskey = o
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Kies…
+           *[other] Blaai…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] a
+        }
+applications-type-column =
+    .label = Inhoudsoort
+    .accesskey = s
+applications-action-column =
+    .label = Aksie
+    .accesskey = A
+update-application-use-service =
+    .label = Gebruik 'n agtergronddiens om bywerkings te installeer
+    .accesskey = a
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Blaai
+browsing-use-autoscroll =
+    .label = Gebruik outorol
+    .accesskey = o
+browsing-use-smooth-scrolling =
+    .label = Gebruik gladde rol
+    .accesskey = G
+browsing-use-cursor-navigation =
+    .label = Gebruik altyd die por-sleutels om binne bladsye te navigeer
+    .accesskey = p
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Opstelling…
+    .accesskey = p
