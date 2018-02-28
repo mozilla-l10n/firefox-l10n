@@ -51,9 +51,17 @@ restart-later = Reaniciar dempués
 
 ## General Section
 
+startup-header = Aniciu
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Permitir a { -brand-short-name } y Firefox executase al empar
 use-firefox-sync = Conseyu: esto usa perfiles separtaos. Usa { -sync-brand-short-name } pa compartir datos ente ellos.
 get-started-not-logged-in = Coneutase a { -sync-brand-short-name }…
 get-started-configured = Abrir preferencies de { -sync-brand-short-name }
+always-check-default =
+    .label = Comprobar siempres si { -brand-short-name } ye'l to restolador por defeutu
+    .accesskey = o
 is-default = { -brand-short-name } ye'l to restolador web predetermináu
 is-not-default = { -brand-short-name } nun ye'l to restolador web predetermináu
 set-as-my-default-browser =
@@ -61,10 +69,15 @@ set-as-my-default-browser =
     .accesskey = D
 startup-page = Al aniciase { -brand-short-name }:
     .accesskey = s
+startup-user-homepage =
+    .label = Amosar la to páxina d'aniciu
+startup-blank-page =
+    .label = Amosar una páxina balera
 startup-prev-session =
     .label = Amosar les ventanes y llingüetes de la cabera sesión
 disable-extension =
     .label = Deshabilitar estensión
+home-page-header = Amosar la to páxina d'aniciu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -79,6 +92,13 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
+restore-default =
+    .label = Reafitar valores
+    .accesskey = R
+tabs-group-header = Llingüetes
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab circula pente les llingüetes nel orde según el so usu recién
+    .accesskey = T
 warn-on-close-multiple-tabs =
     .label = Avisar cuando zarres múltiples llingüetes
     .accesskey = m
@@ -90,10 +110,17 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Al abrir un enllaz nuna llingüeta nueva, cambiar a ella darréu
     .accesskey = a
+show-tabs-in-taskbar =
+    .label = Amosar previsualizaciones de llingüetes na barra de xeres de Windows
+    .accesskey = m
 browser-containers-enabled =
     .label = Habilitar llingüetes contenedores
     .accesskey = n
 browser-containers-learn-more = Deprendi más
+browser-containers-settings =
+    .label = Axustes…
+    .accesskey = u
+containers-disable-alert-title = ¿Zarrar toles llingüetes contenedores?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Si deshabilites les llingüetes contenedores agora, va zarrase { $tabCount } llingüeta contenedora. ¿Daveres que quies deshabilitar llingüetes contenedores?
@@ -120,6 +147,9 @@ colors-settings =
     .accesskey = C
 language-header = Llingua
 choose-language-description = Escoyer llingua preferida p'amosar les páxines web
+choose-button =
+    .label = Escoyer…
+    .accesskey = o
 translate-web-pages =
     .label = Traducir conteníu web
     .accesskey = d
@@ -189,6 +219,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Usar desplazamientu sele
     .accesskey = l
+browsing-use-onscreen-keyboard =
+    .label = Amosar un tecláu en pantalla cuando seya necesario
+    .accesskey = t
 browsing-use-cursor-navigation =
     .label = Usar siempre les tecles del cursor pa restolar dientro de les páxines
     .accesskey = c
