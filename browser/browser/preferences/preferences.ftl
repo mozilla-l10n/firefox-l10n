@@ -57,6 +57,7 @@ startup-header = Startowaś
 separate-profile-mode =
     .label = { -brand-short-name } a Firefox dowóliś, rownocasnje běžaś
 use-firefox-sync = Tip: To wužywa separatne profile. Wužywajśo { -sync-brand-short-name }, aby daty mjazy nimi źělił.
+get-started-not-logged-in = Se pla { -sync-brand-short-name } pśizjawiś…
 get-started-configured = Nastajenja { -sync-brand-short-name } wócyniś
 always-check-default =
     .label = Pśecej kontrolěrowaś, lěc { -brand-short-name } jo waš standardny wobglědowak
@@ -127,6 +128,13 @@ containers-disable-alert-desc =
         [two] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowej rejtarka zacynijotej. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
         [few] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowe rejtarki zacyniju. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
        *[other] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowych rejtarkow zacynijo. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount } kontejnerowy rejtark zacyniś
+        [two] { $tabCount } kontejnerowej rejtarka zacyniś
+        [few] { $tabCount } kontejnerowe rejtarki zacyniś
+       *[other] { $tabCount } kontejnerowych rejtarkow zacyniś
     }
 containers-disable-alert-cancel-button = Zmóžnjone wóstajiś
 
