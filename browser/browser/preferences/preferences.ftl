@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = An-còmhnaidh
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Roghainnean
            *[other] Roghainnean
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = Feumaidh { -brand-short-name } ath-thòiseacha
 feature-disable-requires-restart = Feumaidh { -brand-short-name } ath-thòiseachadh mus bi am feart seo à comas.
 should-restart-title = Ath-thòisich { -brand-short-name }
 should-restart-ok = Ath-thòisich { -brand-short-name } an-dràsta
-revert-no-restart-button = Aisig
 restart-later = Ath-thòisich uaireigin eile
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
