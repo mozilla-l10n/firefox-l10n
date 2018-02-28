@@ -51,6 +51,7 @@ choose-bookmark =
 restore-default =
     .label = San fa kɔ Difɔlt
     .accesskey = S
+tabs-group-header = Ntab
 show-tabs-in-taskbar =
     .label = Kyerɛ ntab priviw wɔ Windows taskbaa ne so
     .accesskey = b
