@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Inpostaçioin
            *[other] Preferense
         }
@@ -40,5 +41,25 @@ feature-enable-requires-restart = Arvi torna o { -brand-short-name } pe ativâ s
 feature-disable-requires-restart = Arvi torna o { -brand-short-name } pe dizativâ sta fonçion.
 should-restart-title = Arvi torna o { -brand-short-name }
 should-restart-ok = Arvi torna { -brand-short-name } oua
-revert-no-restart-button = Repiggia
 restart-later = Arvi torna Dòppo
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Sarva file in
+    .accesskey = v
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
