@@ -64,6 +64,9 @@ always-check-default =
     .accesskey = н
 is-default = { -brand-short-name } зараз ваш прадвызначаны браўзер
 is-not-default = { -brand-short-name } не прадвызначаны браўзер
+set-as-my-default-browser =
+    .label = Зрабіць прадвызначаным…
+    .accesskey = З
 startup-page = Пасля запуску { -brand-short-name }
     .accesskey = а
 startup-user-homepage =
@@ -118,6 +121,7 @@ browser-containers-learn-more = Даведацца больш
 browser-containers-settings =
     .label = Налады…
     .accesskey = а
+containers-disable-alert-title = Закрыць усе карткі кантэйнера?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Калі вы выключыце ўсе акенцы кантэйнера, будзе закрыта { $tabCount } картка кантэйнера. Вы сапраўды хочаце выключыць кантэйнер?
@@ -134,6 +138,7 @@ containers-disable-alert-cancel-button = Пакінуць уключанымі
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Мова і выгляд
 fonts-and-colors-header = Шрыфты & колеры
 default-font = Прадвызначаны шрыфт
     .accesskey = П
@@ -145,6 +150,7 @@ advanced-fonts =
 colors-settings =
     .label = Колеры…
     .accesskey = К
+language-header = Мова
 choose-language-description = Выберыце мовы, якім вы аддаяце перавагу, для прагляду старонак
 choose-button =
     .label = Выбраць…
@@ -161,6 +167,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Файлы і праграмы
 download-header = Сцягванні
 download-save-to =
     .label = Захоўваць файлы ў
@@ -189,11 +196,21 @@ applications-type-column =
 applications-action-column =
     .label = Дзеянне
     .accesskey = Д
+drm-content-header = Digital Rights Management (DRM) змесціва
+play-drm-content =
+    .label = Прайграваць DRM-кантраляванае змесціва
+    .accesskey = П
 play-drm-content-learn-more = Даведацца больш
+update-application-title = Абнаўленні { -brand-short-name }
+update-application-description = Трымайце { -brand-short-name } абноўленым для лепшай прадукцыйнасці, стабільнасці і бяспекі.
+update-application-info = Версія { $version } <a>Што новага</a>
 update-history =
     .label = Паказаць гісторыю абнаўленняў...
     .accesskey = с
 update-application-allow-description = Дазволіць { -brand-short-name }
+update-application-auto =
+    .label = Аўтаматычна ўсталёўваць абнаўленні (рэкамендуецца)
+    .accesskey = А
 update-application-check-choose =
     .label = Правяраць наяўнасць абнаўленняў, але даваць вам выбар, ці ўсталёўваць іх
     .accesskey = П
@@ -210,9 +227,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Прадукцыйнасць
+performance-use-recommended-settings-checkbox =
+    .label = Выкарыстоўваць рэкамендаваныя налады прадукцыйнасці
+    .accesskey = ы
+performance-use-recommended-settings-desc = Гэтыя налады падабраны адмыслова для вашага камп'ютара і аперацыйнай сістэмы.
+performance-settings-learn-more = Падрабязней
 performance-allow-hw-accel =
     .label = Выкарыстоўваць, калі можна, апаратнае паскарэнне
     .accesskey = н
+performance-limit-content-process-option = Абмежаванне колькасці працэсаў
+    .accesskey = а
+performance-limit-content-process-enabled-desc = Дадатковая колькасць працэсаў можа павялічыць прадукцыйнасць пры адкрыцці некалькіх картак, але браўзер будзе спажываць больш памяці.
+performance-limit-content-process-disabled-desc = Змена колькасці працэсаў магчымая толькі ў шматпрацэснай версіі { -brand-short-name }. <a>Даведайцеся, як праверыць, ці ўключана шматпрацэснасць</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -240,6 +266,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Проксі-сервер
+network-proxy-connection-learn-more = Падрабязней
 network-proxy-connection-settings =
     .label = Налады…
     .accesskey = л
