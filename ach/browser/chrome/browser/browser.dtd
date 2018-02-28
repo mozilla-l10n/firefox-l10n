@@ -125,6 +125,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "w">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Dony iyie &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Yab ter me &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Nwo kube bot &syncBrand.shortName.label;">
@@ -224,14 +226,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Lo kobo potbuk">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Lo tic ki purugram me DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Yab dirica me MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Igengo woko lamak cal mamegi pi kakube man.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Igengo woko mikropon mamegi pi kakube man.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Igengo woko kakube man me nywako wang kio mamegi">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Igengo woko ngec me kabedo pi kakube man.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Igengo woko kano data pi kakube man.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Igengo woko jami angeya pi kakube man.">
 
 
+<!ENTITY urlbar.midiBlocked.tooltip              "I gengo woko nongo MIDI pi kakube man.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
 
@@ -297,7 +301,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "D">
 <!ENTITY newPrivateWindow.label     "Dirica manyen me mung">
 <!ENTITY newPrivateWindow.accesskey "D">
-<!ENTITY newNonRemoteWindow.label   "Dirica manyen me Non-e10s">
 
 <!ENTITY editMenu.label         "Yub">
 <!ENTITY editMenu.accesskey       "Y">
@@ -352,18 +355,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Nyut gin mukato weng">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Yiki">
-<!ENTITY appMenuCustomize.tooltip "Yik nying gin ayera ki gintic">
-<!ENTITY appMenuCustomizeExit.label "Kat woko ki i yiko">
-<!ENTITY appMenuCustomizeExit.tooltip "Tyek yiko">
-
 <!ENTITY appMenuHistory.showAll.label "Nyut gin mukato weng">
 <!ENTITY appMenuHistory.clearRecent.label "Jwa gin mukato cokki…">
 <!ENTITY appMenuHistory.restoreSession.label "Dwok kare ma okato ni">
 <!ENTITY appMenuHistory.viewSidebar.label "Nen gintic me gin mukato">
 <!ENTITY appMenuHistory.recentHistory.label "Mukato cokki">
 <!ENTITY appMenuHelp.label "Kony">
-<!ENTITY appMenuHelp.tooltip "Yab lakony me nying gin ayera">
 
 <!ENTITY appMenuRemoteTabs.label "Dirica matino ma kiribo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -438,14 +435,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Lamed:">
 <!ENTITY urlbar.switchToTab.label     "Lokke bot dirica matidi:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Imito yilo rwom me yeny mamegi ki tam ikom yeny?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Nong ngec mapol…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Pe">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Eyo">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ngec:">
@@ -569,6 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Ket calo cal me nge wang kompiuta…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "K">
 <!ENTITY bookmarkPageCmd2.label       "Ket alama buk i pot buk man">
+<!ENTITY bookmarkPageCmd2.accesskey   "k">
 <!ENTITY bookmarkThisLinkCmd.label      "Ket alama buk i kakube man">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Ket alama buk i pem man">
@@ -721,8 +711,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Kit pot buk ma dong tidi">
 <!ENTITY pageStylePersistentOnly.accesskey "K">
 
-<!ENTITY pageReportIcon.tooltip            "Lok ter me lageng pye-malo pi kakube man">
-
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -854,8 +842,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Ribo">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Ywar jami ma imaro loyo ii gitic onyo jami ayera ma okane.">
-<!ENTITY customizeMode.menuAndToolbars.empty "I mito gin tic mukene?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Yer ki ikin med-ikome alip ki alip">
 <!ENTITY customizeMode.restoreDefaults "Dwok i makwongo">
 <!ENTITY customizeMode.done "Otum">
 <!ENTITY customizeMode.titlebar "Gintic me wiye">
@@ -868,7 +854,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Gam them mapol">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "Ywar ka i bol jami kany me gwoko gi kama cok ento woko me gitic mamegi…">
 <!ENTITY customizeMode.overflowList.title2 "Jami ayera ma okane">
 <!ENTITY customizeMode.overflowList.description "Ywar ka i bol jami kany me gwoko gi kama cok ento woko me gitic mamegi…">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
@@ -987,7 +972,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
 <!ENTITY pageAction.addToUrlbar.label "Medi i Lanyut me kanonge">
 <!ENTITY pageAction.removeFromUrlbar.label "Kwany ki i lanyut me kanonge">
-
 <!ENTITY pageAction.allowInUrlbar.label "Nyut ii lanyut me kanonge">
 <!ENTITY pageAction.disallowInUrlbar.label "Pe i Nyuti ii lanyut me kanonge">
 <!ENTITY pageAction.manageExtension.label "Lo Lamed…">
@@ -1001,3 +985,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
