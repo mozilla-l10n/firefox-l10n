@@ -198,6 +198,7 @@ play-drm-content =
     .label = Відтворювати вміст з DRM
     .accesskey = ю
 play-drm-content-learn-more = Докладніше
+update-application-title = Оновлення { -brand-short-name }
 update-application-description = Використовуйте найновішу версію { -brand-short-name } для найкращої швидкодії, стабільності й безпеки.
 update-history =
     .label = Показати історію оновлень…
