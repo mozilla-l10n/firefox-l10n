@@ -66,6 +66,9 @@ download-header = Llwytho i Lawr
 applications-action-column =
     .label = Gweithred
     .accesskey = G
+update-application-use-service =
+    .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
+    .accesskey = c
 
 ## General Section - Performance
 
@@ -76,6 +79,9 @@ browsing-title = Pori
 browsing-use-autoscroll =
     .label = Defnyddio awto sgrolio
     .accesskey = a
+browsing-use-cursor-navigation =
+    .label = Defnyddio bysellau'r cyrchwr ar gyfer symud o fewn tudalennau
+    .accesskey = D
 
 ## General Section - Proxy
 
