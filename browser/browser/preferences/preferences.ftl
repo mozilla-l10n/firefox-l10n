@@ -52,6 +52,14 @@ restart-later = Reštartovať neskôr
 ## General Section
 
 startup-header = Spustenie
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Umožniť, aby { -brand-short-name } a Firefox mohli byť spustené v rovnakom čase
+use-firefox-sync = Tip: použijú sa oddelené používateľské profily. Ak chcete medzi nimi zdieľať údaje, môžete využiť službu { -sync-brand-short-name }.
+always-check-default =
+    .label = Vždy kontrolovať, či je { -brand-short-name } predvoleným prehliadačom
+    .accesskey = r
 is-default = { -brand-short-name } je nastavený ako predvolený prehliadač
 is-not-default = { -brand-short-name } nie je váš predvolený prehliadač
 startup-blank-page =
@@ -87,6 +95,12 @@ advanced-fonts =
 colors-settings =
     .label = Farby…
     .accesskey = F
+translate-web-pages =
+    .label = Prekladať webový obsah do iného jazyka
+    .accesskey = r
+translate-exceptions =
+    .label = Výnimky…
+    .accesskey = m
 
 ## General Section - Files and Applications
 
@@ -96,6 +110,7 @@ applications-type-column =
 applications-action-column =
     .label = Akcia
     .accesskey = A
+play-drm-content-learn-more = Ďalšie informácie
 update-application-use-service =
     .label = Na inštaláciu aktualizácií používať službu na pozadí
     .accesskey = z
