@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Әрқашан
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Баптаулар
            *[other] Баптаулар
         }
@@ -46,5 +47,89 @@ feature-enable-requires-restart = { -brand-short-name } бұл мүмкінді�
 feature-disable-requires-restart = { -brand-short-name } бұл мүмкіндікті сөндіру үшін қайта іске қосылуы керек.
 should-restart-title = { -brand-short-name } қайта қосу
 should-restart-ok = { -brand-short-name } қазір қайта қосу
-revert-no-restart-button = Қайтару
 restart-later = Қайта қосуды кейін орындау
+
+## General Section
+
+startup-blank-page =
+    .label = Таза парақты көрсету
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Ағымдағы бетті қолдану
+           *[other] Ағымдағы беттерді қолдану
+        }
+    .accesskey = А
+choose-bookmark =
+    .label = Бетбелгіні қолдану…
+    .accesskey = Б
+restore-default =
+    .label = Бастапқы күйге келтіру
+    .accesskey = с
+show-tabs-in-taskbar =
+    .label = Windows тапсырмалар панелінде беттер көріністерін көрсету
+    .accesskey = п
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Қаріптер мен түстер
+advanced-fonts =
+    .label = Қосымша…
+    .accesskey = ш
+colors-settings =
+    .label = Түстер…
+    .accesskey = Т
+choose-language-description = Интернет-беттерді көрсету үшін тілді таңдаңыз
+choose-button =
+    .label = Таңдау…
+    .accesskey = у
+
+## General Section - Files and Applications
+
+download-header = Жүктемелер
+download-save-to =
+    .label = Файлдарды келесі жерге сақтау
+    .accesskey = д
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Таңдау…
+           *[other] Қарап шығу…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] Т
+           *[other] ш
+        }
+applications-type-column =
+    .label = Құрамының түрі
+    .accesskey = р
+applications-action-column =
+    .label = Әрекет
+    .accesskey = е
+update-application-use-service =
+    .label = Жаңартуларды орнату үшін фон қызметін қолдану
+    .accesskey = ф
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Сайттарды қарау
+browsing-use-autoscroll =
+    .label = Автоматты айналдыруды қолдану
+    .accesskey = в
+browsing-use-cursor-navigation =
+    .label = Парақтарға навигация жасау үшін әрқашан курсор батырмаларын қолдану
+    .accesskey = н
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Баптау…
+    .accesskey = а
