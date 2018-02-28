@@ -51,18 +51,206 @@ restart-later = Emoñepyrũjey ag̃ave
 
 ## General Section
 
+startup-header = Ñepyrũha
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Emoneĩ { -brand-short-name } ha Firefox-pe ojepurúvo oñondivete
+use-firefox-sync = Ñe'ẽkuaa: Kóva oipuru rechaukaha ipa'ũva. Oipuru { -sync-brand-short-name } omoherakuã hag̃ua mba'ekuaarã oñondivekuéra.
+get-started-not-logged-in = Eñemboheguapy { -sync-brand-short-name }…
+get-started-configured = Eike { -sync-brand-short-name } eguerohoryvévape
+always-check-default =
+    .label = Ehecha tapia ha'épa { -brand-short-name } kundaha ypykuéva
+    .accesskey = y
+is-default = { -brand-short-name } ko'ág̃a nde hekaha ypykuéva
+is-not-default = { -brand-short-name } ndaha'éi kundahára ypykuéva
+set-as-my-default-browser =
+    .label = Ejapo chugui yjypykuéva…
+    .accesskey = D
+startup-page = { -brand-short-name } Oñepyrũ vove
+    .accesskey = s
+startup-user-homepage =
+    .label = Che kuatiarogue ñepyrũha jehechauka
+startup-blank-page =
+    .label = Peteĩ kuatiarogue nandi jehechauka
+startup-prev-session =
+    .label = Ovetã ha tendaykekuéra tembiapo paha rehegua jehechauka
+home-page-header = Che kuatiarogue ñepyrũha jehechauka
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Kuatiarogue Ag̃agua jepuru
+           *[other] Kuatiarogue ag̃agua jepuru
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = Techaukaha puru…
+    .accesskey = B
+restore-default =
+    .label = Embojevy heko ypykuépe
+    .accesskey = R
+tabs-group-header = Tendayke
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab cycles tendayke rupive eipuru ramovévape
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Ehechakuaa embotykuévo heta tendayke
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Emomarandúrõ eiketaha heta tendayképe ikatu omombegue down { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Eikévo peteĩ joajuha ovetã pyahúpe, eho pépe pya'eterei
+    .accesskey = h
+show-tabs-in-taskbar =
+    .label = Ehechauka chéve tendayke ra'ãnga'i Windows rembiaporã rendápe.
+    .accesskey = k
+browser-containers-enabled =
+    .label = Embojuruja tendayke guerekoha
+    .accesskey = n
+browser-containers-learn-more = Kuaave
+browser-containers-settings =
+    .label = Ñemboheko…
+    .accesskey = i
+containers-disable-alert-title = ¿Emmbotypaite tendayke guerekoha pegua?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Embotýramo ko'ág̃a umi guerekoha rendayke, tendayke guerekoha { $tabCount } oñembotýta. ¿Embotyse añetehápe tendayke guerekoha?
+       *[other] Embotýramo tendayke guerekoha ko'ág̃a, umi tendayke guerekoha { $tabCount } oñembotýta. ¿Embotyse añetehápe tendayke guerekoha?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Emboty { $tabCount } tendayke guerekoha
+       *[other] Emboty { $tabCount } tendayke guerekoha
+    }
+containers-disable-alert-cancel-button = Emyandy memete
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Ñe'ẽ ha Mba'ejeguarã
+fonts-and-colors-header = Taity ha sa'ykuéra
+default-font = Teñoiha ijypykuéva:
+    .accesskey = D
+default-font-size = Tuichakue:
+    .accesskey = T
+advanced-fonts =
+    .label = Opanungáva…
+    .accesskey = A
+colors-settings =
+    .label = Sa'y…
+    .accesskey = C
+language-header = Ñe'ẽ
+choose-language-description = Eipoiravo pe ñe'ẽ erohoryvéva ehechauka hag̃ua ñanduti kuatiarogue
+choose-button =
+    .label = Poravo…
+    .accesskey = o
+translate-web-pages =
+    .label = Ñanduti retepy ñe'ẽasa
+    .accesskey = T
+translate-exceptions =
+    .label = Oĩ'ỹva…
+    .accesskey = ĩ
+check-user-spelling =
+    .label = Haingatu jehaikuévo jehechajey
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Marandurenda ha Tembipuru'i
+download-header = Ñemboguejy
+download-save-to =
+    .label = Marandurenda ñongatu ko'ápe
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Poravo…
+           *[other] Poravo…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+download-always-ask-where =
+    .label = Eporandumeméke chéve moõpa añongatúta marandurenda
+    .accesskey = A
+applications-header = Tembipuru'i
+applications-description = Eiporavo { -brand-short-name } eipuru marandurenda ñemboguejy ñanduti guive térã umi tembipuru'i eipurúva eikundaha aja.
+applications-filter =
+    .placeholder = Eheka marandurenda peteĩchagua térã tembipuru'i
+applications-type-column =
+    .label = Peteĩchagua tetepy
+    .accesskey = T
+applications-action-column =
+    .label = Ñemongu'e
+    .accesskey = A
+drm-content-header = Tembiapo Ñandutigua Derécho (TÑD) retepy
+play-drm-content =
+    .label = Emboheta tetepy oñangarekóva DRM rehe
+    .accesskey = E
+play-drm-content-learn-more = Kuaave
+update-application-title = { -brand-short-name } mbohekopyahu
+update-application-info = Peteĩchagua{ $version } <a>Oĩpa mba'e pyahu</a>
+update-history =
+    .label = Tembiasakue rekopyahu jehechauka…
+    .accesskey = p
+update-application-allow-description = Emomeĩ { -brand-short-name }
+update-application-auto =
+    .label = Emohenda ñembohekopyahu ijeheguíva (je'epyréva)
+    .accesskey = A
+update-application-check-choose =
+    .label = Tekopyahu jejhechajeýva, hákatu eheja taiporavo amboguejysépa
+    .accesskey = C
+update-application-manual =
+    .label = Ani eheka ñembohekopyahu (jerovia'ỹ)
+    .accesskey = A
+update-application-use-service =
+    .label = Eipuru peteĩ mba'epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu
+    .accesskey = m
+update-enable-search-update =
+    .label = Jehekaha mongu'eha ñembohekopyahu ijeheguíva
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Mba'eaporã
+performance-allow-hw-accel =
+    .label = Hardware mbopya'eha oĩmba vove jepuru
+    .accesskey = r
+performance-limit-content-process-option = Tetepy ha tembe'y mba'eapo
+    .accesskey = l
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (ijypykue)
 
 ## General Section - Browsing
 
+browsing-title = Kundaha
+browsing-use-autoscroll =
+    .label = Oku'éva ijehegui jepuru
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Oku'éva mbeguemi jepuru
+    .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = Ehechauka peteĩ tairenda jepokokuaáva oñeikotevẽ jave
+    .accesskey = k
+browsing-use-cursor-navigation =
+    .label = Eipuru tapia tairenda hu'ykuéra aikundaha kuatiaroguépe
+    .accesskey = c
+browsing-search-on-start-typing =
+    .label = Eheka moñe'ẽrã ehaikuévo
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy ñanduti rehegua
+network-proxy-connection-settings =
+    .label = Ñemboheko…
+    .accesskey = e
