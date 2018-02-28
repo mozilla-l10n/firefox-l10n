@@ -46,6 +46,16 @@ restart-later = Arvi torna Dòppo
 ## General Section
 
 startup-header = Iniçio
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Consenti l’ezegoçion de { -brand-short-name } e Firefox a-o mæximo tenpo
+use-firefox-sync = Conseggio: coscì ti devi adeuviâ di profî diversci. Ti peu adeuviâ { -sync-brand-short-name } pe-a scincronizaçion di dæti.
+always-check-default =
+    .label = Contròlla de longo se { -brand-short-name } o l'é o navegatô predefinio
+    .accesskey = t
+is-default = { -brand-short-name } o l'é o navegatô predefinio
+is-not-default = { -brand-short-name } o no l'é o navegatô predefinio
 startup-blank-page =
     .label = Fanni vedde 'na pagina gianca
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -65,6 +75,7 @@ choose-bookmark =
 restore-default =
     .label = Metti torna predefinio
     .accesskey = R
+tabs-group-header = feuggi
 show-tabs-in-taskbar =
     .label = Fanni vedde l'anteprimma inta bara di task do Windows
     .accesskey = k
@@ -82,6 +93,12 @@ choose-language-description = Çerni a lengoa preferia pe-e pagine
 choose-button =
     .label = Çerni…
     .accesskey = i
+translate-web-pages =
+    .label = Traduxi contegnui web
+    .accesskey = T
+translate-exceptions =
+    .label = Eceçioin…
+    .accesskey = z
 
 ## General Section - Files and Applications
 
@@ -106,6 +123,7 @@ applications-type-column =
 applications-action-column =
     .label = Açion
     .accesskey = A
+play-drm-content-learn-more = Atre informaçioin
 update-application-use-service =
     .label = Uzâ 'n serviçio ascozo pe instalâ i agiornamenti
     .accesskey = z
