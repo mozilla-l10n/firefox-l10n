@@ -124,6 +124,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય
+    .accesskey = r
 
 ## General Section - Browsing
 
