@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Vīnmār
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Īstatiejumi
            *[other] Īstatiejumi
         }
@@ -46,5 +47,29 @@ feature-enable-requires-restart = Kab aktivātu itū īspieju ir juopuorstartej 
 feature-disable-requires-restart = Kab deakticeitu itū īspieju ir juopuorstartej { -brand-short-name }.
 should-restart-title = Puorstarteit { -brand-short-name }
 should-restart-ok = Puorstarteit { -brand-short-name } tagad
-revert-no-restart-button = Atjaunōt
 restart-later = Puorstarteit vāluok
+
+## General Section
+
+use-firefox-sync = Tip: This uses separate profiles. Use { -sync-brand-short-name } to share data between them.
+
+## General Section - Language & Appearance
+
+translate-web-pages =
+    .label = Translate web content
+    .accesskey = T
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-use-onscreen-keyboard =
+    .label = Show a touch keyboard when necessary
+    .accesskey = k
+
+## General Section - Proxy
+
