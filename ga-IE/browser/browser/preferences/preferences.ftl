@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = I gCónaí
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Roghanna
            *[other] Sainroghanna
         }
@@ -38,5 +39,22 @@ feature-enable-requires-restart = Ní mór duit { -brand-short-name } a atosú c
 feature-disable-requires-restart = Ní mór duit { -brand-short-name } a atosú chun an ghné seo a dhíchumasú.
 should-restart-title = Atosaigh { -brand-short-name }
 should-restart-ok = Atosaigh { -brand-short-name } anois
-revert-no-restart-button = Fill
 restart-later = Atosaigh Ar Ball
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
