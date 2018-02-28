@@ -43,6 +43,13 @@ restart-later = පසුව යළි අරඹන්න
 ## General Section
 
 startup-header = ආරම්භය
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = { -brand-short-name } හා Firefox එකම මොහොතේ ධාවනය වීමට ඉඩ දෙන්න
+use-firefox-sync = ඉඟිය: මෙය වෙනස් පැතිකඩ භාවිත කරයි. ඒවා අතර දත්ත බෙදාගැනීමට සම්මුහුර්ත භාවිත කරන්න.
+is-default = { -brand-short-name } is currently your default browser
+is-not-default = { -brand-short-name } දැනට ඔබේ පෙරනිමි ගවේශකය නොවේ
 startup-blank-page =
     .label = හිස් පිටුවක් පෙන්වන්න
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -69,6 +76,7 @@ show-tabs-in-taskbar =
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = අක්‍ෂර සහ වර්ණ
 advanced-fonts =
     .label = වැඩිමනත්...
     .accesskey = A
@@ -79,6 +87,9 @@ choose-language-description = පිටු දර්ශනය සඳහා ඔ�
 choose-button =
     .label = තෝරන්න…
     .accesskey = o
+translate-exceptions =
+    .label = හැරදැමීම්...
+    .accesskey = x
 
 ## General Section - Files and Applications
 
