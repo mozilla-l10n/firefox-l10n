@@ -57,12 +57,24 @@ restart-later = பின்னர் மீட்துவக்கு
 
 ## General Section - Files and Applications
 
+applications-action-column =
+    .label = செயல்
+    .accesskey = A
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-use-autoscroll =
+    .label = தானியக்க உருளலை பயன்படுத்து
+    .accesskey = a
+browsing-use-cursor-navigation =
+    .label = எப்போதும் நிலைக்காட்டி விசைகளை பயன்படுத்தி பக்கங்களிடையே செல்
+    .accesskey = c
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = அமைவுகள்…
+    .accesskey = e
