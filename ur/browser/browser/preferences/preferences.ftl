@@ -114,6 +114,11 @@ browser-containers-settings =
     .label = سیٹنگیں…
     .accesskey = س
 containers-disable-alert-title = تمام  حامل ٹیبس بند کریں
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount } کنٹینر ٹیب بند کریں
+       *[other] { $tabCount } کنٹینر ٹیبس بند کریں
+    }
 containers-disable-alert-cancel-button = اہل بنایا رکھیں
 
 ## General Section - Language & Appearance
