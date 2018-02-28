@@ -114,6 +114,9 @@ applications-action-column =
 ## General Section - Browsing
 
 browsing-title = Navegação
+browsing-use-onscreen-keyboard =
+    .label = Mostrar um teclado sensível ao toque quando necessário
+    .accesskey = t
 
 ## General Section - Proxy
 
