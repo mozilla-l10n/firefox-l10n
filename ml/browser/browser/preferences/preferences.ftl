@@ -54,9 +54,24 @@ restart-later = പിന്നീട് പുനരാരംഭിക്കു
 startup-header = തുടക്കം
 startup-blank-page =
     .label = ഒരു ശൂന്യമായ താള്‍ കാണിക്കുക 
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] നിലവിലുളള താള്‍ ഉപയോഗിക്കുക 
+           *[other] ഇപ്പോഴത്തെ താളുകള്‍ ഉപയോഗിക്കുക
+        }
+    .accesskey = ല
 choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
+restore-default =
+    .label = സ്വതവേയുള്ളതു് വീണ്ടെടുക്കുക 
+    .accesskey = ത
+tabs-group-header = റ്റാബുകള്‍
 show-tabs-in-taskbar =
     .label = ജാലകത്തിന്റെ റ്റാസ്ക് ബാറില്‍ റ്റാബ്  തിരനോട്ടം (പ്രിവ്യൂ) കാണിയ്ക്കുക
     .accesskey = k
@@ -66,6 +81,9 @@ show-tabs-in-taskbar =
 advanced-fonts =
     .label = സങ്കീര്‍ണ്ണമായവ...
     .accesskey = A
+colors-settings =
+    .label = നിറങ്ങള്‍…
+    .accesskey = റ
 choose-language-description = താളുകള്‍ക്കുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക
 choose-button =
     .label = തെരഞ്ഞെടുക്കുക…
