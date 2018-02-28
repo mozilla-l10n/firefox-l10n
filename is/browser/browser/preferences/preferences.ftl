@@ -57,6 +57,9 @@ restart-later = Endurræsa seinna
 
 ## General Section - Files and Applications
 
+download-save-to =
+    .label = Vista skrár yfir á
+    .accesskey = V
 
 ## General Section - Performance
 
