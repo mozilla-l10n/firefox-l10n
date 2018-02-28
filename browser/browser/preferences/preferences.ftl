@@ -45,6 +45,9 @@ use-current-pages =
            *[other] Rûpelên Derbasdar Bi Kar Bîne
         }
     .accesskey = d
+choose-bookmark =
+    .label = Bijareyê bi kar bîne...
+    .accesskey = B
 restore-default =
     .label = Vegêrîna Pêşsalixbûyî
     .accesskey = V
@@ -68,6 +71,7 @@ choose-button =
 
 ## General Section - Files and Applications
 
+download-header = Jêbarkirî
 download-save-to =
     .label = Pelan tomar bike li
     .accesskey = t
@@ -88,6 +92,9 @@ applications-type-column =
 applications-action-column =
     .label = Çalakî
     .accesskey = a
+update-application-use-service =
+    .label = Ji bo sazkirina nûkirinan servîseke paşperdeyê bi kar bîne
+    .accesskey = p
 
 ## General Section - Performance
 
