@@ -57,6 +57,8 @@ startup-header = 启动
 separate-profile-mode =
     .label = 允许 { -brand-short-name } 和 Firefox 同时运行
 use-firefox-sync = 提示：这将使用单独的配置文件。使用“同步”在它们之间同步数据。
+get-started-not-logged-in = 登录到 { -sync-brand-short-name }…
+get-started-configured = 打开{ -sync-brand-short-name }服务首选项
 always-check-default =
     .label = 始终检查 { -brand-short-name } 是否是您的默认浏览器
     .accesskey = w
@@ -65,8 +67,17 @@ is-not-default = { -brand-short-name } 目前不是您的默认浏览器
 set-as-my-default-browser =
     .label = 设为默认…
     .accesskey = D
+startup-page = 在 { -brand-short-name } 启动时
+    .accesskey = s
+startup-user-homepage =
+    .label = 显示您的主页
 startup-blank-page =
     .label = 显示空白页
+startup-prev-session =
+    .label = 显示您上次的窗口和标签页
+disable-extension =
+    .label = 禁用扩展
+home-page-header = 显示您的主页
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -85,9 +96,28 @@ restore-default =
     .label = 恢复默认设置
     .accesskey = R
 tabs-group-header = 标签页
+ctrl-tab-recently-used-order =
+    .label = 按下 Ctrl+Tab 时，依照最近使用顺序循环切换标签页
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = 提醒确认关闭多个标签页
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = 打开多个标签页可能致使 { -brand-short-name } 缓慢时警告
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = 在新标签页中打开链接时，立即切换过去
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = 在 Windows 任务栏上显示标签页预览图
     .accesskey = k
+browser-containers-enabled =
+    .label = 启用身份标签页
+    .accesskey = n
+browser-containers-learn-more = 详细了解
+browser-containers-settings =
+    .label = 设置…
+    .accesskey = i
 containers-disable-alert-title = 关闭所有身份标签页？
 containers-disable-alert-desc =
     { $tabCount ->
@@ -99,11 +129,16 @@ containers-disable-alert-ok-button =
         [one] 关闭 { $tabCount } 个身份标签页
        *[other] 关闭 { $tabCount } 个身份标签页
     }
+containers-disable-alert-cancel-button = 保持启用
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 语言与外观
 fonts-and-colors-header = 字体和颜色
+default-font = 默认字体
+    .accesskey = D
+default-font-size = 大小
+    .accesskey = S
 advanced-fonts =
     .label = 高级…
     .accesskey = A
@@ -121,6 +156,9 @@ translate-web-pages =
 translate-exceptions =
     .label = 例外…
     .accesskey = x
+check-user-spelling =
+    .label = 在您输入时检查拼写
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -140,6 +178,13 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = 总是询问您保存文件的位置
+    .accesskey = A
+applications-header = 应用程序
+applications-description = 选择 { -brand-short-name } 如何处理这些文件。
+applications-filter =
+    .placeholder = 搜索文件类型或应用程序
 applications-type-column =
     .label = 内容类型
     .accesskey = T
@@ -151,17 +196,48 @@ play-drm-content =
     .label = 播放采用 DRM 的内容
     .accesskey = P
 play-drm-content-learn-more = 详细了解
+update-application-title = { -brand-short-name } 更新
 update-application-description = 让 { -brand-short-name } 保持最新，持续拥有最强的性能、稳定性和安全性。
+update-application-info = 版本: { $version } <a>新版变化</a>
+update-history =
+    .label = 显示更新历史…
+    .accesskey = p
+update-application-allow-description = 允许 { -brand-short-name }：
 update-application-auto =
     .label = 自动安装更新（推荐）
     .accesskey = A
+update-application-check-choose =
+    .label = 检查更新，但由您决定是否安装
+    .accesskey = C
+update-application-manual =
+    .label = 不检查更新（不推荐）
+    .accesskey = N
 update-application-use-service =
     .label = 使用一项系统服务以静默安装更新
     .accesskey = b
+update-enable-search-update =
+    .label = 自动更新搜索引擎
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = 性能
+performance-use-recommended-settings-checkbox =
+    .label = 使用推荐的性能设置
+    .accesskey = U
+performance-use-recommended-settings-desc = 自动选择适合此电脑配置的设置。
 performance-settings-learn-more = 详细了解
+performance-allow-hw-accel =
+    .label = 自动启用硬件加速
+    .accesskey = r
+performance-limit-content-process-option = 内容进程限制
+    .accesskey = L
+performance-limit-content-process-enabled-desc = 更多内容进程可以改善使用多个标签页时的性能，但也将消耗更多内存。
+performance-limit-content-process-disabled-desc = 仅在多进程 { -brand-short-name } 时可修改进程数量。 <a>了解如何检查多进程的启用状况</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (默认)
 
 ## General Section - Browsing
 
@@ -178,10 +254,14 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = 始终使用方向键在页面内导航
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = 若在文本框外输入，则在页面中查找文本
+    .accesskey = x
 
 ## General Section - Proxy
 
 network-proxy-title = 网络代理
+network-proxy-connection-learn-more = 详细了解
 network-proxy-connection-settings =
     .label = 设置…
     .accesskey = e
