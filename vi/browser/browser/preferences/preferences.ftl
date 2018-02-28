@@ -54,6 +54,17 @@ restart-later = Khởi động lại sau
 startup-header = Khởi động
 startup-blank-page =
     .label = Hiện một trang trống
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Sử dụng Trang hiện tại
+           *[other] Dùng các Trang hiện tại
+        }
+    .accesskey = a
 restore-default =
     .label = Khôi phục về Mặc định
     .accesskey = M
@@ -91,6 +102,9 @@ download-choose-folder =
 applications-type-column =
     .label = Kiểu dữ liệu
     .accesskey = K
+applications-action-column =
+    .label = Thao tác
+    .accesskey = a
 
 ## General Section - Performance
 
