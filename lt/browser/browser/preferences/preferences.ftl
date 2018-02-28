@@ -64,8 +64,20 @@ always-check-default =
     .accesskey = d
 is-default = „{ -brand-short-name }“ šiuo metu yra numatytoji naršyklė
 is-not-default = „{ -brand-short-name }“ šiuo metu nėra numatytoji naršyklė
+set-as-my-default-browser =
+    .label = Paskirti numatytąja…
+    .accesskey = n
+startup-page = Paleidžiant „{ -brand-short-name }“:
+    .accesskey = l
+startup-user-homepage =
+    .label = rodyti pradžios tinklalapį
 startup-blank-page =
     .label = rodyti tuščią puslapį
+startup-prev-session =
+    .label = atverti paskiausio seanso langus ir korteles
+disable-extension =
+    .label = Išjungti priedą
+home-page-header = rodyti pradžios tinklalapį
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -84,6 +96,12 @@ restore-default =
     .label = Atstatyti numatytąjį
     .accesskey = A
 tabs-group-header = Kortelės
+ctrl-tab-recently-used-order =
+    .label = Vald+Tab perjungia korteles paskiausiai naudotų eiliškumu
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = Atverti saitus kortelėse, ne languose
+    .accesskey = l
 warn-on-close-multiple-tabs =
     .label = Įspėti prieš užveriant daugiau kaip vieną kortelę
     .accesskey = d
@@ -184,19 +202,43 @@ play-drm-content =
     .accesskey = k
 play-drm-content-learn-more = Sužinoti daugiau
 update-application-title = „{ -brand-short-name }“ naujinimai
+update-application-description = Laiku atnaujinkite „{ -brand-short-name }“ didesniam našumui, stabilumui bei saugumui užtikrinti.
 update-application-info = Laida { $version } <a>Kas naujo</a>
 update-history =
     .label = Rodyti naujinimų žurnalą…
     .accesskey = R
+update-application-allow-description = Leisti „{ -brand-short-name }“:
+update-application-auto =
+    .label = automatiškai įdiegti naujinimus (rekomenduojama)
+    .accesskey = A
+update-application-check-choose =
+    .label = tikrinti ar yra naujinimų, bet atsiklausti prieš juos įdiegiant
+    .accesskey = T
+update-application-manual =
+    .label = niekada netikrinti ar yra naujinimų (nerekomenduojama)
+    .accesskey = N
+update-application-use-service =
+    .label = naujinimų įdiegimui naudoti fone veikiančią tarnybą
+    .accesskey = f
+update-enable-search-update =
+    .label = automatiškai naujinti ieškykles
+    .accesskey = e
 
 ## General Section - Performance
 
 performance-title = Našumas
+performance-use-recommended-settings-checkbox =
+    .label = Naudoti rekomenduojamas našumo nuostatas
+    .accesskey = u
+performance-use-recommended-settings-desc = Šios nuostatos yra pritaikytos atsižvelgiant į jūsų kompiuterio techninę įrangą bei operacinę sistemą.
+performance-settings-learn-more = Sužinoti daugiau
 performance-allow-hw-accel =
     .label = Naudoti aparatinį spartinimą, jei tai įmanoma
     .accesskey = a
 performance-limit-content-process-option = Turinio procesų riba
     .accesskey = r
+performance-limit-content-process-enabled-desc = Papildomi turinio procesai gali paspartinti veikimą kai naudojama daugiau kortelių, tačiau taip pat naudos daugiau atminties.
+performance-limit-content-process-disabled-desc = Turinio procesų skaičiaus keitimas galimas tik daugiaprocesėje „{ -brand-short-name }“. <a>Sužinokite kaip patikrinti, ar daugiaprocesė veiksena įjungta</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -224,6 +266,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Tinklo įgaliotasis serveris
+network-proxy-connection-learn-more = Sužinoti daugiau
 network-proxy-connection-settings =
     .label = Nuostatos…
     .accesskey = N
