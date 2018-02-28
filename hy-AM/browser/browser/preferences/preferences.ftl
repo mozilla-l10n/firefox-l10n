@@ -52,8 +52,24 @@ restart-later = Վերամեկնարկել հետո
 ## General Section
 
 startup-header = Մեկնարկը                
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Թույլատրել, որ { -brand-short-name }-ը և Firefox-ը մեկնարկեն միաժամանակ
+use-firefox-sync = Հուշում. Օգտագործում են առանձին պրոֆիլներ: Սինքի միջոցով կարող եք համօգտագործել տվյալները:
+get-started-not-logged-in = Մուտք գործել { -sync-brand-short-name }...
+get-started-configured = Բացել { -sync-brand-short-name }-ի կարգավորումները
+always-check-default =
+    .label = Միշտ ստուգել, թե արդյոք { -brand-short-name }-ը ձեր հիմնական դիտարկիչն է
+    .accesskey = շ
+is-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
+is-not-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչը չէ
+startup-page = Երբ { -brand-short-name }-ը մեկնարկում է
+    .accesskey = մ
 startup-blank-page =
     .label = Ցուցադրել դատարկ էջ
+startup-prev-session =
+    .label = Ցուցադրել ձեր նախորդ պատուհանները և ներդիրները
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -72,12 +88,51 @@ restore-default =
     .label = Վերականգնել լռելայնը
     .accesskey = Վ
 tabs-group-header = Ներդիրներ
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Զգուշացնել բազմաթիվ ներդիրներ փակելիս
+    .accesskey = Զ
+warn-on-open-many-tabs =
+    .label = Զգուշացնել բազմակի ներդիրներ բացելիս, ինչը կարող է դանդաղեցնել { -brand-short-name }-ը:
+    .accesskey = դ
+switch-links-to-new-tabs =
+    .label = Հղումը նոր ներդիրում բացելիս միանգամից անցնել դրան
+    .accesskey = բ
 show-tabs-in-taskbar =
     .label = Ցուցադրել ներդիրների նախադիտումը Windows taskbar-ում
     .accesskey = k
+browser-containers-enabled =
+    .label = Միացնել պարունակ ներդիրները
+    .accesskey = ի
+browser-containers-learn-more = Իմանալ ավելին
+browser-containers-settings =
+    .label = Կարգավորումներ...
+    .accesskey = ր
+containers-disable-alert-title = Փակե՞լ պարունակի բոլոր ներդիրները:
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Եթե անջատեք Պարունակի ներդիրները՝ { $tabCount } պարունակի ներդիրը կփակվի: Համոզվա՞ծ եք, որ ցանկանում եք անջատել Պարունակի ներդիրը
+       *[other] Եթե անջատեք Պարունակի ներդիրները՝ { $tabCount } պարունակի ներդիրը կփակվի: Համոզվա՞ծ եք, որ ցանկանում եք անջատել Պարունակի ներդիրները:
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Փակել { $tabCount } Պարունակի ներդիրը
+       *[other] { $tabCount } Պարունակի ներդիրները
+    }
+containers-disable-alert-cancel-button = Պահել միացված
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Տառատեսակները և Գույները
+default-font = Հիմնական տառատեսակը
+    .accesskey = Հ
+default-font-size = Չափը
+    .accesskey = Չ
+advanced-fonts =
+    .label = Լրացուցիչ…
+    .accesskey = Լ
 colors-settings =
     .label = Գույներ…
     .accesskey = Գ
@@ -85,9 +140,19 @@ choose-language-description = Ընտրեք ձեր նախընտրելի լեզո�
 choose-button =
     .label = Ընտրել…
     .accesskey = տ
+translate-web-pages =
+    .label = Թարգմանել բովանդակությունը
+    .accesskey = Թ
+translate-exceptions =
+    .label = Բացառություններ…
+    .accesskey = ա
+check-user-spelling =
+    .label = Տեքստ մուտքագրելիս ստուգել ուղղագրությունը
+    .accesskey = մ
 
 ## General Section - Files and Applications
 
+download-header = Ներբեռնումներ
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -99,12 +164,46 @@ download-choose-folder =
             [macos] լ
            *[other] տ
         }
+download-always-ask-where =
+    .label = Միշտ հարցնել ֆայլերը պահպանելու տեղը
+    .accesskey = Մ
+applications-header = Ծրագրեր
+applications-filter =
+    .placeholder = Որոնել ֆայլերի տեսակները կամ ծրագրերը
+applications-type-column =
+    .label = Բովանդակության տեսակը
+    .accesskey = տ
 applications-action-column =
     .label = Գործողություն
     .accesskey = Գ
+play-drm-content-learn-more = Իմանալ ավելին
+update-application-title = { -brand-short-name }-ի թարմացումներ
+update-history =
+    .label = Ցուցադրել Թարմացումների Պատմությունը...
+    .accesskey = ա
+update-application-allow-description = Թույլատրել { -brand-short-name }-ին
+update-application-manual =
+    .label = Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)
+    .accesskey = Ե
+update-application-use-service =
+    .label = Թարմացումները տեղադրելիս օգտվել խորքային ծառայությունից
+    .accesskey = խ
+update-enable-search-update =
+    .label = Ինքնաբար թարմացնել որոնիչները
+    .accesskey = լ
 
 ## General Section - Performance
 
+performance-title = Արտադրողականություն
+performance-allow-hw-accel =
+    .label = Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը 
+    .accesskey = ր
+performance-limit-content-process-option = Բովանդակության ընթացքի սահմանափակում
+    .accesskey = ս
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (լռելյայն)
 
 ## General Section - Browsing
 
@@ -115,9 +214,15 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Օգտագործել կոկիկ թերթումը
     .accesskey = ո
+browsing-use-onscreen-keyboard =
+    .label = Անհրաժեշտության դեպքում ցուցադրել հպաստեղնաշարը
+    .accesskey = հ
 browsing-use-cursor-navigation =
     .label = Էջերում ուղղորդման համար միշտ օգտագործել կուրսորի սեղմակները:
     .accesskey = կ
+browsing-search-on-start-typing =
+    .label = Տեքստ մուտքագրելու դեպքում փնտրել այն
+    .accesskey = ք
 
 ## General Section - Proxy
 
