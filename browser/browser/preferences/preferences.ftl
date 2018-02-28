@@ -72,6 +72,8 @@ startup-blank-page =
     .label = паказваць пустую старонку
 startup-prev-session =
     .label = паказваць апошнія вокны і карткі
+disable-extension =
+    .label = Адключыць пашырэнне
 home-page-header = паказваць вашу хатнюю старонку
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -94,6 +96,9 @@ tabs-group-header = Карткі
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab пераключае паміж карткамі ў парадку апошняга выкарыстання
     .accesskey = е
+open-new-link-as-tabs =
+    .label = Адкрываць спасылкі ў картках замест новых акон
+    .accesskey = ы
 warn-on-close-multiple-tabs =
     .label = Папярэджваць пры закрыцці некалькіх картак
     .accesskey = ь
@@ -234,6 +239,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Проксі-сервер
 network-proxy-connection-settings =
     .label = Налады…
     .accesskey = л
