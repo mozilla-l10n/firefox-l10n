@@ -203,6 +203,7 @@ play-drm-content =
 play-drm-content-learn-more = Saber más 
 update-application-title = { -brand-short-name } actualizaciones
 update-application-description = Mantener { -brand-short-name } actualizado para el mejor rendimiento, estabilidad y seguridad.
+update-application-info = Versión { $version } <a>Qué hay de nuevo</a>
 update-history =
     .label = Mostrar historial de actualizaciones…
     .accesskey = p
