@@ -51,17 +51,44 @@ choose-bookmark =
 restore-default =
     .label = অবিকল্পিতলৈ পুনঃ স্থাপন কৰক
     .accesskey = R
+tabs-group-header = টেবসমূহ
 show-tabs-in-taskbar =
     .label = টেবৰ পুৰ্বদৰ্শনসমূহ উইন্ডোসমূহৰ কাৰ্য্যবাৰত দেখুৱাওক
     .accesskey = k
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = উন্নত…
+    .accesskey = A
+colors-settings =
+    .label = ৰং…
+    .accesskey = C
 choose-language-description = পৃষ্ঠা প্ৰদৰ্শনৰ বাবে আপোনাৰ পছন্দৰ ভাষা নিৰ্ব্বাচন কৰক
+choose-button =
+    .label = বাছক…
+    .accesskey = o
 
 ## General Section - Files and Applications
 
 download-header = ডাউনল'ডসমূহ
+download-save-to =
+    .label = ফাইলসমূহ চিহ্নিত স্থানত সংৰক্ষণ কৰিব
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] নিৰ্বাচন কৰক…
+           *[other] ব্ৰাউছ কৰক…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+applications-type-column =
+    .label = সমলৰ ধৰণ
+    .accesskey = T
 applications-action-column =
     .label = কাৰ্য্য
     .accesskey = A
@@ -74,12 +101,19 @@ update-application-use-service =
 
 ## General Section - Browsing
 
+browsing-title = ব্ৰাউছিং
 browsing-use-autoscroll =
     .label = অ'ট'স্ক্ৰলিং ব্যৱহাৰ কৰক
     .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = নিমজ স্ক্ৰ'লিং ব্যৱহাৰ কৰক
+    .accesskey = m
 browsing-use-cursor-navigation =
     .label = পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্চাৰ চাবি ব্যৱহাৰ কৰিব
     .accesskey = c
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = পছন্দসমূহ…
+    .accesskey = e
