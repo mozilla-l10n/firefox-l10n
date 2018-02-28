@@ -56,6 +56,7 @@ startup-header = Iniciar
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Permitir que o { -brand-short-name } e o Firefox funcionem ao mesmo tempo
+use-firefox-sync = Dica: São usados perfis separados. Use o { -sync-brand-short-name } para compartilhar dados entre eles.
 get-started-not-logged-in = Entrar no { -sync-brand-short-name }…
 get-started-configured = Abrir preferências { -sync-brand-short-name }
 always-check-default =
@@ -190,6 +191,18 @@ update-history =
     .label = Mostrar histórico de atualizações…
     .accesskey = p
 update-application-allow-description = Permitir que o { -brand-short-name }
+update-application-check-choose =
+    .label = Busque atualizações, mas permita que você opte por instalá-las
+    .accesskey = C
+update-application-manual =
+    .label = Nunca busque atualizações (não recomendado)
+    .accesskey = N
+update-application-use-service =
+    .label = Use um serviço para instalar atualizações em segundo plano
+    .accesskey = s
+update-enable-search-update =
+    .label = Atualize automaticamente os mecanismos de pesquisa
+    .accesskey = e
 
 ## General Section - Performance
 
