@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Yal tikelt
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Iɣewwaṛen
            *[other] Ismenyifen
         }
@@ -46,5 +47,142 @@ feature-enable-requires-restart = issefk { -brand-short-name } ad yales asenkar 
 feature-disable-requires-restart = Issefk { -brand-short-name } ad yales asenkar akken ad yettwakkes urmad n tmahilt-a.
 should-restart-title = Ales asenker i { -brand-short-name }
 should-restart-ok = Ales asenker { -brand-short-name } tura
-revert-no-restart-button = Uɣal
 restart-later = Ales asenker ticki
+
+## General Section
+
+startup-header = Asenker
+use-firefox-sync = Taxbalut: Imaɣnuten yemgaraden ttusqedcen. Tzemreḍ ad tfaṛseḍ seg { -sync-brand-short-name } i beṭṭu n isefka-inek gar-asen.
+always-check-default =
+    .label = Senqed yal tikelt ma yella { -brand-short-name } d iminig-ik amezwar
+    .accesskey = S
+is-default = { -brand-short-name } d iminig-inek amezwar
+is-not-default = { -brand-short-name } mačči d iminig-inek amezwer
+startup-user-homepage =
+    .label = Sken asebter-iw agejdan 
+startup-blank-page =
+    .label = Sken asebter ilem
+startup-prev-session =
+    .label = Sken iccaren ineggura akked isfuyla yettusqedcen 
+home-page-header = Sken asebter-iw agejdan 
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Asebter amiran
+           *[other] Isebtar imiranen
+        }
+    .accesskey = s
+choose-bookmark =
+    .label = Ticraḍ n isebtar…
+    .accesskey = T
+restore-default =
+    .label = Err-d tawila n tazwara
+    .accesskey = E
+tabs-group-header = Iccaren
+warn-on-close-multiple-tabs =
+    .label = Lɣu ticki medlen deqs n yiccaren
+    .accesskey = L
+warn-on-open-many-tabs =
+    .label = Lɣu-yid ticki ilukkez { -brand-short-name } ma ldin aṭas n yiccaren 
+    .accesskey = L
+switch-links-to-new-tabs =
+    .label = Ticki ad ldiɣ aseɣwen deg iccer amaynut, ddu ɣur-s imir 
+    .accesskey = T
+show-tabs-in-taskbar =
+    .label = Sken taskant n yiccaren deg ufeggag n twira n Windows
+    .accesskey = S
+browser-containers-enabled =
+    .label = Rmed Iccaren imagbaren
+    .accesskey = g
+browser-containers-learn-more = Issin ugar
+containers-disable-alert-title = Mdel akk iccaren imagbaren?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Ma tekkseḍ iccaren imagbaren tura, iccer amagbar { $tabCount } ad yemdel. Tebɣiḍ ad tekkseḍ armad n yiccaren imagbaren?
+       *[other] Ma tekkseḍ iccaren imagbaren tura, iccaren imagbaren { $tabCount } ad medlen. Tebɣiḍ ad tekkseḍ armad n yiccaren imagbaren?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Mdel  { $tabCount } iccer amagbar
+       *[other]  Mdel { $tabCount } iccaren imagbaren
+    }
+containers-disable-alert-cancel-button = Eǧǧ-it yermed
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Tisefsiyin d yiniten
+advanced-fonts =
+    .label = Talqayt…
+    .accesskey = l
+colors-settings =
+    .label = Initen…
+    .accesskey = I
+choose-button =
+    .label = Fren…
+    .accesskey = F
+translate-web-pages =
+    .label = Suqel agbur web
+    .accesskey = S
+translate-exceptions =
+    .label = Tisuraf…
+    .accesskey = r
+
+## General Section - Files and Applications
+
+download-header = Isidar
+download-save-to =
+    .label = Sekles ifuyla ɣer
+    .accesskey = S
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Fren…
+           *[other] Ḍum…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] F
+           *[other] u
+        }
+download-always-ask-where =
+    .label = Suter yal tikelt anida ad ttwakelsen ifuyla 
+    .accesskey = S
+applications-type-column =
+    .label = Tawsit n ugbur
+    .accesskey = T
+applications-action-column =
+    .label = Tigawt
+    .accesskey = i
+play-drm-content-learn-more = Issin ugar
+update-application-use-service =
+    .label = Seqdec ameẓlu n ugilal i usebded n ileqman
+    .accesskey = b
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Tunigin
+browsing-use-autoscroll =
+    .label = Seqdec adrurem awurman
+    .accesskey = d
+browsing-use-smooth-scrolling =
+    .label = Seqdec adrurem aleggwaɣ
+    .accesskey = e
+browsing-use-onscreen-keyboard =
+    .label = Sken anasiw amennalan ticki terra tmara
+    .accesskey = n
+browsing-use-cursor-navigation =
+    .label = Seqdec yal tikelt tiqeffalin n tunigin i tikli deg usebter
+    .accesskey = S
+browsing-search-on-start-typing =
+    .label = Nadi aḍris ticki tebda tira
+    .accesskey = N
+
+## General Section - Proxy
+
