@@ -52,8 +52,18 @@ restart-later = Daha sonra yeniden başlat
 ## General Section
 
 startup-header = Başlangıç
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = { -brand-short-name } ve Firefox’un aynı anda çalışmasına izin ver
+use-firefox-sync = İpucu: Bu ayarda farklı profiller kullanılır. Tarayıcılar arasında veri paylaşmak için { -sync-brand-short-name }’i kullanın.
 get-started-not-logged-in = { -sync-brand-short-name }’e giriş yap…
 get-started-configured = { -sync-brand-short-name } tercihlerini aç
+always-check-default =
+    .label = Varsayılan tarayıcımın { -brand-short-name } olup olmadığını her zaman denetle
+    .accesskey = H
+is-default = { -brand-short-name } şu anda varsayılan tarayıcınız
+is-not-default = { -brand-short-name } varsayılan tarayıcınız değil
 set-as-my-default-browser =
     .label = Varsayılan yap…
     .accesskey = a
@@ -86,6 +96,9 @@ restore-default =
     .label = Varsayılanı geri getir
     .accesskey = r
 tabs-group-header = Sekmeler
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab, sekmeler arasında son kullanıldıkları sırayla atlasın
+    .accesskey = T
 open-new-link-as-tabs =
     .label = Bağlantıları yeni pencere yerine yeni sekmede aç
     .accesskey = B
@@ -98,6 +111,17 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Bir bağlantıyı yeni sekmede açtığımda hemen o sekmeye geç
     .accesskey = B
+show-tabs-in-taskbar =
+    .label = Sekme ön izlemelerini Windows görev çubuğunda göster
+    .accesskey = ö
+browser-containers-enabled =
+    .label = Kapsayıcı sekmeleri etkinleştir
+    .accesskey = K
+browser-containers-learn-more = Daha fazla bilgi al
+browser-containers-settings =
+    .label = Ayarlar…
+    .accesskey = A
+containers-disable-alert-title = Tüm kapsayıcı sekmeler kapatılsın mı?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Kapsayıcı Sekmeler’i şimdi devre dışı bırakırsanız { $tabCount } kapsayıcı sekme kapatılacaktır. Bu özelliği devre dışı bırakmak istediğinizden emin misiniz?
@@ -108,10 +132,12 @@ containers-disable-alert-ok-button =
         [one] { $tabCount } kapsayıcı sekmeyi kapat
        *[other] { $tabCount } kapsayıcı sekmeyi kapat
     }
+containers-disable-alert-cancel-button = Vazgeç
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Dil ve görünüm
+fonts-and-colors-header = Yazı tipleri ve renkler
 default-font = Varsayılan yazı tipi
     .accesskey = t
 default-font-size = Boyut
@@ -127,6 +153,9 @@ choose-language-description = Sayfaları hangi dilde görmeyi tercih ettiğinizi
 choose-button =
     .label = Seç…
     .accesskey = S
+translate-web-pages =
+    .label = Web içeriğini çevir
+    .accesskey = W
 translate-exceptions =
     .label = İstisnalar…
     .accesskey = s
@@ -159,6 +188,9 @@ applications-header = Uygulamalar
 applications-description = { -brand-short-name } tarayıcısının Web’den indirdiğiniz dosyaları veya Web’de gezinirken kullandığınız uygulamaları nasıl ele alacağını seçin.
 applications-filter =
     .placeholder = Dosya türlerinde ve uygulamalarda ara
+applications-type-column =
+    .label = İçerik türü
+    .accesskey = t
 applications-action-column =
     .label = Eylem
     .accesskey = E
@@ -166,6 +198,7 @@ drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
 play-drm-content =
     .label = DRM denetimli içerikleri oynat
     .accesskey = D
+play-drm-content-learn-more = Daha fazla bilgi al
 update-application-title = { -brand-short-name } güncellemeleri
 update-application-description = En yüksek performans, güvenilirlik ve güvenlik için { -brand-short-name } tarayıcınızı güncel tutmalısınız.
 update-history =
@@ -181,6 +214,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Hiçbir zaman denetlenmesin (Önerilmez)
     .accesskey = H
+update-application-use-service =
+    .label = Güncellemeleri yüklemek için arka plan hizmetini kullan
+    .accesskey = h
 update-enable-search-update =
     .label = Arama motorlarını otomatik olarak güncelle
     .accesskey = e
@@ -214,6 +250,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Akıcı kaydırmayı kullan
     .accesskey = c
+browsing-use-onscreen-keyboard =
+    .label = Gerektiğinde dokunmatik klavyeyi göster
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = Sayfaların içinde hareket etmek için her zaman ok tuşlarını kullan
     .accesskey = S
