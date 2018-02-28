@@ -51,18 +51,70 @@ restart-later = 稍後再重新啟動
 
 ## General Section
 
+startup-header = 啟動
+startup-blank-page =
+    .label = 顯示空白頁
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] 使用目前頁面
+           *[other] 使用目前所有頁面
+        }
+    .accesskey = C
+restore-default =
+    .label = 回復為預設值
+    .accesskey = R
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = 進階…
+    .accesskey = A
+choose-language-description = 請選擇瀏覽支援多國語言的網頁時要優先顯示哪種語言
+choose-button =
+    .label = 選擇…
+    .accesskey = o
 
 ## General Section - Files and Applications
 
+download-header = 下載
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] 選擇…
+           *[other] 瀏覽…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+applications-type-column =
+    .label = 內容類型
+    .accesskey = t
+applications-action-column =
+    .label = 動作
+    .accesskey = A
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = 瀏覽
+browsing-use-autoscroll =
+    .label = 使用自動捲動
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = 使用平滑捲動
+    .accesskey = m
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = 設定…
+    .accesskey = e
