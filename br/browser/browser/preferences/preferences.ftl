@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Atav
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Dibarzhioù
            *[other] Gwellvezioù
         }
@@ -46,5 +47,107 @@ feature-enable-requires-restart = Ret eo adloc'hañ { -brand-short-name } evit g
 feature-disable-requires-restart = Ret eo adloc'hañ { -brand-short-name } evit diweredekaat ar c'heweriuster-mañ.
 should-restart-title = Adloc'hañ { -brand-short-name }
 should-restart-ok = Adloc'hañ { -brand-short-name } diouzhtu
-revert-no-restart-button = Distreiñ
 restart-later = Adloc'hañ diwezhatoc'h
+
+## General Section
+
+startup-header = Loc'hañ
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Aotren { -brand-short-name } ha Firefox da erounit war un dro
+use-firefox-sync = Tun : arveret e vo aeladoù disheñvel. Arverit { -sync-brand-short-name } evit rannañ roadennoù etrezo.
+is-default = Ho merdeer dre ziouer eo { -brand-short-name }
+is-not-default = N'eo ket { -brand-short-name } ho merdeer dre ziouer
+startup-blank-page =
+    .label = Diskouez ur bajenn wenn
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Arverañ ar bajenn vremanel
+           *[other] Arverañ ar pajennoù bremanel
+        }
+    .accesskey = A
+choose-bookmark =
+    .label = Arverañ ur sined…
+    .accesskey = r
+restore-default =
+    .label = Assav an arventennoù dre ziouer
+    .accesskey = z
+tabs-group-header = Ivinelloù
+show-tabs-in-taskbar =
+    .label = Diskouez alberzioù an ivinelloù e-barzh barrenn an trevelloù
+    .accesskey = i
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Nodrezhoù ha Livioù
+advanced-fonts =
+    .label = Kempleshoc'h…
+    .accesskey = p
+colors-settings =
+    .label = Livioù…
+    .accesskey = L
+choose-language-description = Dibabit ho yezh muiañ plijet evit skrammañ ar pajennadoù
+choose-button =
+    .label = Dibab…
+    .accesskey = i
+translate-web-pages =
+    .label = Treiñ an endalc'had web
+    .accesskey = T
+translate-exceptions =
+    .label = Nemedennoù…
+    .accesskey = N
+
+## General Section - Files and Applications
+
+download-header = Pellgargadurioù
+download-save-to =
+    .label = Enrollañ restroù e-barzh
+    .accesskey = o
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Diuzañ…
+           *[other] Furchal…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] D
+           *[other] F
+        }
+applications-type-column =
+    .label = Rizh an endalc'had
+    .accesskey = R
+applications-action-column =
+    .label = Gwezh
+    .accesskey = w
+update-application-use-service =
+    .label = Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù
+    .accesskey = v
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Furchal
+browsing-use-autoscroll =
+    .label = Ober gant an emzibunañ
+    .accesskey = O
+browsing-use-smooth-scrolling =
+    .label = Arverañ an dibunañ flour
+    .accesskey = r
+browsing-use-cursor-navigation =
+    .label = Atav arverañ ar stokelloù bir da vageal er bajennadoù
+    .accesskey = A
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Arventennoù…
+    .accesskey = e
