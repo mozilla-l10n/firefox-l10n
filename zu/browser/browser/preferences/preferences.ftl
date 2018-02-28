@@ -90,6 +90,9 @@ applications-type-column =
 applications-action-column =
     .label = Isenzo
     .accesskey = I
+update-application-use-service =
+    .label = Sebenzisa isevisi yasemuva ukufaka ukwaziswa kwamuva
+    .accesskey = y
 
 ## General Section - Performance
 
