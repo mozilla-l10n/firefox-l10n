@@ -8,7 +8,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Altyd
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opsies
            *[other] Voorkeure
         }
@@ -37,5 +38,25 @@ feature-enable-requires-restart = { -brand-short-name } moet herbegin om dié fu
 feature-disable-requires-restart = { -brand-short-name } moet herbegin om dié funksie te deaktiveer.
 should-restart-title = Herbegin { -brand-short-name }
 should-restart-ok = Herbegin { -brand-short-name } nou
-revert-no-restart-button = Keer terug
 restart-later = Herbegin later
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Stoor lêers na
+    .accesskey = o
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
