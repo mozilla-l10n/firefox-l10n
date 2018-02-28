@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Показать пустую страницу
 startup-prev-session =
     .label = Показать окна и вкладки, открытые в прошлый раз
+disable-extension =
+    .label = Отключить расширение
 home-page-header = Показать домашнюю страницу
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -224,11 +226,23 @@ update-enable-search-update =
 
 ## General Section - Performance
 
+performance-title = Производительность
+performance-use-recommended-settings-checkbox =
+    .label = Использовать рекомендуемые настройки производительности
+    .accesskey = н
+performance-use-recommended-settings-desc = Эти настройки рассчитаны для вашего компьютера и операционной системы.
 performance-settings-learn-more = Подробнее
+performance-allow-hw-accel =
+    .label = По возможности использовать аппаратное ускорение
+    .accesskey = л
 performance-limit-content-process-option = Максимальное число процессов контента
     .accesskey = в
 performance-limit-content-process-enabled-desc = Дополнительные процессы контента могут улучшить производительность при работе со множеством вкладок, но также повысят потребление памяти.
 performance-limit-content-process-disabled-desc = Изменение числа процессов контента возможно только в мультипроцессном { -brand-short-name }. <a>Узнайте, как проверить, включена ли мультипроцессность</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (по умолчанию)
 
 ## General Section - Browsing
 
