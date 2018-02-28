@@ -97,6 +97,9 @@ tabs-group-header = ট্যাব
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab সাম্প্রতিক ব্যবহৃত ট্যাবগুলোতে ক্রমান্বয়ে ঘুড়বে
     .accesskey = T
+open-new-link-as-tabs =
+    .label = নতুন উইন্ডোর পরিবর্তে নতুন ট্যাবে লিঙ্ক খুলুন
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = যখন একাধিক ট্যাব বন্ধ করার চেষ্টা করা হলে আপনাকে সর্তক করা হবে।
     .accesskey = m
@@ -160,6 +163,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ফাইল ও অ্যাপ্লিকেশন
 download-header = ডাউনলোড
 download-save-to =
     .label = ফাইল সংরক্ষণের স্থান
