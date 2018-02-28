@@ -35,7 +35,6 @@
 <!ENTITY networkTab.label "Rete">
 <!ENTITY networkProxy.label "Server proxy">
 <!ENTITY connectionDesc.label "Determina come &brandShortName; si collega a Internet">
-<!ENTITY connectionSettingsLearnMore.label "Ulteriori informazioni">
 <!ENTITY connectionSettings.label "Impostazioni…">
 <!ENTITY connectionSettings.accesskey "z">
 <!ENTITY httpCache.label "Contenuti web in cache">
