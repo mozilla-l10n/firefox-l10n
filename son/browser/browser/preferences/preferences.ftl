@@ -37,21 +37,85 @@ restart-later = Tunandi taaga nd'a too kayna
 
 ## General Section
 
+startup-header = Tunandi
+startup-blank-page =
+    .label = Moo koonu cebe
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Sohõ moɲoo goyandi
+           *[other] Sohõ moɲey goyandi
+        }
+    .accesskey = S
+choose-bookmark =
+    .label = Doo-šilbay goyandi...
+    .accesskey = D
+restore-default =
+    .label = Bere tilasu alhaali ga
+    .accesskey = B
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Jinehere…
+    .accesskey = J
+colors-settings =
+    .label = Noonawey…
+    .accesskey = N
+choose-language-description = War šenni ibaayantaa suuba ka moɲey cebe
+choose-button =
+    .label = Suuba…
+    .accesskey = u
 
 ## General Section - Files and Applications
 
+download-header = Zumandiyaney
 download-save-to =
     .label = Tukey gaabu ga
     .accesskey = g
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Suuba…
+           *[other] Guna…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] S
+           *[other] G
+        }
+applications-type-column =
+    .label = Gundekuna dumi
+    .accesskey = d
+applications-action-column =
+    .label = Teera
+    .accesskey = T
+update-application-use-service =
+    .label = Goy bandafaari zaa ka taagarandirey sinji
+    .accesskey = b
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Ceeciyan
+browsing-use-autoscroll =
+    .label = Boŋ-cendiyan goyandi
+    .accesskey = c
+browsing-use-smooth-scrolling =
+    .label = Cendiyan baana goyandi
+    .accesskey = a
+browsing-use-cursor-navigation =
+    .label = Waati kul ma moo dirandikaw kufaley ka naaru moɲey ra
+    .accesskey = d
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Kayandiyaney…
+    .accesskey = a
