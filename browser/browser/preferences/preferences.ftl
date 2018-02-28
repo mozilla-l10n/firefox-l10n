@@ -44,6 +44,11 @@ restart-later = कनि काल मे फेर सँ शुरू कर�
 ## General Section
 
 startup-header = आरंभन
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = { -brand-short-name } आओर फ़ायरफ़ॉक्स केँ एक्के समय मे चलबाक लेल स्वीकारू
+use-firefox-sync = संकेत: ई अलग प्रोफाइलक उपयोग करैत अछि. हुनकर बीच आँकड़ा साझा करबाक लेल सिंक क उपयोग करू.
 is-default = { -brand-short-name } अखन अहाँक तयशुदा ब्राउजर अछि
 is-not-default = { -brand-short-name } अखन अहाँक तयशुदा ब्राउजर अछि
 startup-blank-page =
@@ -83,6 +88,12 @@ choose-language-description = अपन पसंदीदा भाषा प�
 choose-button =
     .label = चुनू…
     .accesskey = o
+translate-web-pages =
+    .label = वेब सामग्रीक अनुवाद करू
+    .accesskey = T
+translate-exceptions =
+    .label = अपवाद...
+    .accesskey = x
 
 ## General Section - Files and Applications
 
@@ -107,12 +118,16 @@ applications-type-column =
 applications-action-column =
     .label = क्रिया
     .accesskey = A
+play-drm-content-learn-more = आओर जानू
 update-application-use-service =
     .label = अद्यतन संस्थापित करबाक लेल पृष्ठभूमि सेवाक उपयोग करू
     .accesskey = b
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = उपलब्ध हए पर हार्ड त्वरण क उपयोग  करू 
+    .accesskey = r
 
 ## General Section - Browsing
 
