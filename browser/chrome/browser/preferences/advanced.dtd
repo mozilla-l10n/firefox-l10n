@@ -37,12 +37,14 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "અમે તમને પસંદગીઓ સાથે પ્રદાન કરવાનો પ્રયત્ન કરીએ છીએ અને દરેક માટે શું પ્રદાન અને સુધારવાની જરૂર છે તે જ &brandShortName; એકત્રિત કરીએ છીએ. અમે હંમેશા વ્યક્તિગત માહિતી મેળવવા પહેલાં પરવાનગી પૂછીશુ.">
 <!ENTITY dataCollectionPrivacyNotice.label    "ગોપનીયતા સૂચના">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "પરવાનગી આપો &brandShortName; Mozilla ને ક્રેશ રિપોર્ટ્સ મોકલવા માટે">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "&brandShortName; ને મોઝિલા માટે બ્રાઉઝર ભૂલ અહેવાલો (ભૂલ સંદેશાઓ સહિત) મોકલવા માટે મંજૂરી આપો">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "વધુ જાણો">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "પરવાનગી આપો &brandShortName; Mozilla ને ક્રેશ રિપોર્ટ્સ મોકલવા માટે">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "વધારે શીખો">
 
 <!ENTITY networkTab.label                "નેટવર્ક">
@@ -61,6 +63,8 @@ available. -->
 <!ENTITY siteData.label                  "સાઇટ ડેટા">
 <!ENTITY clearSiteData.label             "બધા ડેટા સાફ કરો">
 <!ENTITY clearSiteData.accesskey         "I">
+<!ENTITY siteData1.label                 "કૂકીઝ અને સાઈટ ડેટા">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "સેટિંગ્સ…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "વધુ શીખો">
