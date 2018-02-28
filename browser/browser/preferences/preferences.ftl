@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Toujours
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Options
            *[other] Préférences
         }
@@ -46,5 +47,74 @@ feature-enable-requires-restart = { -brand-short-name } doit redémarrer pour ac
 feature-disable-requires-restart = { -brand-short-name } doit redémarrer pour désactiver cette fonctionnalité.
 should-restart-title = Redémarrer { -brand-short-name }
 should-restart-ok = Redémarrer { -brand-short-name } maintenant
-revert-no-restart-button = Annuler
 restart-later = Redémarrer plus tard
+
+## General Section
+
+startup-header = Démarrage
+startup-blank-page =
+    .label = Afficher une page vide
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Page courante
+           *[other] Pages courantes
+        }
+    .accesskey = U
+restore-default =
+    .label = Restaurer la configuration par défaut
+    .accesskey = R
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Polices et couleurs
+advanced-fonts =
+    .label = Avancé…
+    .accesskey = v
+colors-settings =
+    .label = Couleurs…
+    .accesskey = C
+
+## General Section - Files and Applications
+
+download-header = Téléchargements
+download-save-to =
+    .label = Enregistrer les fichiers dans le dossier
+    .accesskey = n
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Choisir…
+           *[other] Parcourir…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] P
+        }
+applications-type-column =
+    .label = Type de contenu
+    .accesskey = T
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Navigation
+browsing-use-autoscroll =
+    .label = Utiliser le défilement automatique
+    .accesskey = U
+browsing-use-smooth-scrolling =
+    .label = Utiliser le défilement doux
+    .accesskey = s
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Paramètres…
+    .accesskey = P
