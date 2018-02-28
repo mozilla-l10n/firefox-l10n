@@ -51,6 +51,7 @@ restart-later = পরে রিস্টার্ট করা হবে
 
 ## General Section
 
+startup-header = শুরুতে
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
@@ -58,36 +59,98 @@ separate-profile-mode =
 use-firefox-sync = টিপ: এটি পৃথক প্রোফাইল ব্যাবহার করে। তাদের মধ্যে তথ্য শেয়ার করার জন্য সিঙ্ক ব্যবহার করুন।
 get-started-not-logged-in = { -sync-brand-short-name } এ সাইন ইন করুন…
 get-started-configured = { -sync-brand-short-name } এর পছন্দসমূহ খুলুন
+always-check-default =
+    .label = সর্বদা যাচাই করবে { -brand-short-name } আপনার ডিফল্ট ব্রাউজার কি না
+    .accesskey = y
+is-default = { -brand-short-name } আপনার বর্তমান ডিফল্ট ব্রাউজার
 is-not-default = { -brand-short-name } আপনার নির্ধারিত ব্রাউজার নয়
+set-as-my-default-browser =
+    .label = ডিফল্ট করুন…
+    .accesskey = D
 startup-page = যখন { -brand-short-name } শুরু হবে
     .accesskey = s
+startup-user-homepage =
+    .label = আপনার নীড়পাতা দেখাবে
 startup-blank-page =
     .label = ফাঁকা পাতা দেখাও
+startup-prev-session =
+    .label = শেষবারের উইন্ডো ও ট্যাব দেখাবে
+home-page-header = আপনার নীড়পাতা দেখাবে
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] বর্তমান পাতা ব্যবহার করুন
+           *[other] বর্তমান পাতা ব্যবহার কর
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = বুকমার্ক ব্যবহার করুন
+    .accesskey = B
+restore-default =
+    .label = ডিফল্ট মানে পুনঃস্থাপন করা হবে
+    .accesskey = R
 tabs-group-header = ট্যাব
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab সাম্প্রতিক ব্যবহৃত ট্যাবগুলোতে ক্রমান্বয়ে ঘুড়বে
+    .accesskey = T
 warn-on-close-multiple-tabs =
     .label = যখন একাধিক ট্যাব বন্ধ করার চেষ্টা করা হলে আপনাকে সর্তক করা হবে।
     .accesskey = m
 warn-on-open-many-tabs =
     .label = একাধিক ট্যাব খোলার ফলে { -brand-short-name } ধীর হয়ে যাবার সম্ভবনা থাকলে সতর্ক করা হবে।
     .accesskey = d
+switch-links-to-new-tabs =
+    .label = নতুন ট্যাবে লিঙ্ক খোলার পর তাতে তাৎক্ষণিকভাবে পরিবর্তিত হবে
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = উইন্ডোর টাস্কবারে ট্যাবের প্রাকদর্শন প্রদর্শিত হবে k
     .accesskey = k
 browser-containers-enabled =
     .label = কন্টেইনার ট্যাব সক্রিয় করুন
     .accesskey = n
+browser-containers-learn-more = আরও জানুন
 browser-containers-settings =
     .label = সেটিং
     .accesskey = i
+containers-disable-alert-title = সব কন্টেইনার ট্যাব বন্ধ করবেন?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] আপনি যদি এখন কন্টেইনার ট্যাবগুলো নিস্ক্রিয় করেন, { $tabCount } কন্টেইনার ট্যাব বন্ধ হয়ে যাবে। আপনি কি নিশ্চিত আপনি কন্টেইনার ট্যাবগুলো নিষ্ক্রিয় করতে চান?
+       *[other] আপনি যদি এখন কন্টেইনার ট্যাবগুলো নিস্ক্রিয় করেন, { $tabCount } কন্টেইনার ট্যাব বন্ধ হয়ে যাবে। আপনি কি নিশ্চিত আপনি কন্টেইনার ট্যাবগুলো নিষ্ক্রিয় করতে চান?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount } কন্টেইনার ট্যাব বন্ধ করুন
+       *[other] { $tabCount } কন্টেইনার ট্যাবগুলো বন্ধ করুন
+    }
 containers-disable-alert-cancel-button = সক্রিয় রাখুন
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = ভাষা ও অবয়ব
+fonts-and-colors-header = ফন্ট ও রঙ
 default-font = ডিফল্ট ফন্ট
     .accesskey = D
 default-font-size = আকার
     .accesskey = S
+advanced-fonts =
+    .label = উচ্চপর্যায়...
+    .accesskey = A
+colors-settings =
+    .label = রঙ...
+    .accesskey = C
+language-header = ভাষা
 choose-language-description = পাতা প্রদর্শনে পছন্দসই ভাষা নির্বাচন করুন
+choose-button =
+    .label = নির্বাচন…
+    .accesskey = o
+translate-web-pages =
+    .label = ওয়েব কন্টেন্ট অনুবাদ করুন T
+    .accesskey = T
 translate-exceptions =
     .label = ব্যতিক্রম... x
     .accesskey = x
@@ -98,35 +161,69 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 download-header = ডাউনলোড
+download-save-to =
+    .label = ফাইল সংরক্ষণের স্থান
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] নির্বাচন...
+           *[other] ব্রাউজ...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
 download-always-ask-where =
     .label = যেখানে ফাইল সংরক্ষণ করবেন তা সর্বদা জিজ্ঞাসা করবে
     .accesskey = A
 applications-header = অ্যাপ্লিকেশন
+applications-description = { -brand-short-name } কিভাবে আপনার ওয়েব বা অন্য কোন অ্যাপ্লিকেশন থেকে ডাউনলোড করা ফাইল নিয়ন্ত্রণ করবে তা নির্বাচন করুন।
 applications-filter =
     .placeholder = ফাইলের ধরন অথবা অ্যাপ্লিকেশন অনুসন্ধান করুন
+applications-type-column =
+    .label = কন্টেন্টর ধরণ
+    .accesskey = T
 applications-action-column =
     .label = করণীয়
     .accesskey = A
+drm-content-header = ডিজিটাল অধিকার ব্যবস্থাপনা (DRM) কন্টেন্ট
 play-drm-content-learn-more = আরও জানুন
 update-application-title = { -brand-short-name } হালনাগাদ
+update-application-description = সেরা পারফরম্যান্স, স্থায়ীত্ব এবং নিরাপত্তার জন্য { -brand-short-name } হালনাগাদ রাখুন।
 update-application-info = সংস্করণ { $version } <a>নতুন কি আছে</a>
 update-history =
     .label = হালনাগাদের ইতিহাস দেখাও…
     .accesskey = p
 update-application-allow-description = { -brand-short-name } কে যে কাজে অনুমতি দেওয়া হবে
+update-application-auto =
+    .label = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করুন (সুপারিশকৃত)
+    .accesskey = A
 update-application-check-choose =
     .label = হালনাগাদকরণ যাচাই করুন তবে ইনস্টলের পূর্বে আপনাকে জানাবে
     .accesskey = C
+update-application-manual =
+    .label = কখনই হালনাগাদ পরীক্ষা করবেন না (সুপারিশকৃত নয়)
+    .accesskey = N
 update-application-use-service =
     .label = হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b
     .accesskey = b
+update-enable-search-update =
+    .label = স্বয়ংক্রিয়ভাবে অনুসন্ধান ইঞ্জিন হালনাগাদ হবে
+    .accesskey = e
 
 ## General Section - Performance
 
 performance-title = কার্যকারিতা
+performance-use-recommended-settings-desc = এই সেটিং আপনার কম্পিউটারের হার্ডওয়ার ও অপারেটিং সিস্টেমের জন্য তৈরি।
+performance-settings-learn-more = আরও জানুন
 performance-allow-hw-accel =
     .label = হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r
     .accesskey = r
+performance-limit-content-process-option = কন্টেন্ট প্রক্রিয়াকরণ সীমা
+    .accesskey = L
+performance-limit-content-process-enabled-desc = একাধিক ট্যাব ব্যবহারের সময় বাড়তি কন্টেন্ট প্রসেস কার্যক্ষমতা বৃদ্ধি করে, কিন্তু এতে বেশি মেমরি ব্যবহৃত হয়।
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -153,6 +250,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = নেটওয়ার্ক প্রক্সি
+network-proxy-connection-learn-more = আরও জানুন
 network-proxy-connection-settings =
     .label = বৈশিষ্ট্যাবলী...
     .accesskey = e
