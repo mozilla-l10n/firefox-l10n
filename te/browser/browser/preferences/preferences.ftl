@@ -134,6 +134,9 @@ play-drm-content-learn-more = ఇంకా తెలుసుకోండి
 
 ## General Section - Browsing
 
+browsing-use-onscreen-keyboard =
+    .label = అవసరమైనప్పుడు స్పర్శా కీ బోర్డు చూపించు
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = పేజీల మధ్య సంచరణకు ఎల్లప్పుడు కర్సరు కీలను ఉపయోగించండి
     .accesskey = c
