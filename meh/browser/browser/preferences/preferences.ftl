@@ -14,3 +14,22 @@ category-sync =
 
 ## Browser Restart Dialog
 
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-header = Da a xinuun
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
