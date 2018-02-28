@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Qho
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Ekunokukhethwa kuko
            *[other] Izikhethwa
         }
@@ -38,5 +39,22 @@ feature-enable-requires-restart = I-{ -brand-short-name } kufuneka iqalise ngoku
 feature-disable-requires-restart = I-{ -brand-short-name } kufuneka iqalise ngokutsha ukuyenza ingasebenzi le fitsha.
 should-restart-title = Qalisa kwakhona { -brand-short-name }
 should-restart-ok = Phinda uqale i{ -brand-short-name } ngoku
-revert-no-restart-button = Buyela kweyangaphambili
 restart-later = Qalisa ngokutsha Kamva
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
