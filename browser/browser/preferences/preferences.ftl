@@ -57,13 +57,27 @@ startup-header = Khởi động
 separate-profile-mode =
     .label = Cho phép { -brand-short-name } và Firefox cùng chạy song song
 use-firefox-sync = Mẹo nhỏ: Việc này sử dụng các hồ sơ độc lập nhau. Bạn có thể dùng { -sync-brand-short-name } để đồng bộ giữa chúng.
+get-started-not-logged-in = Đăng nhập vào { -sync-brand-short-name }…
+get-started-configured = Mở tùy chỉnh của { -sync-brand-short-name }
 always-check-default =
     .label = Luôn kiểm tra xem { -brand-short-name } có phải trình duyệt mặc định không
     .accesskey = y
 is-default = { -brand-short-name } đang là trình duyệt mặc định
 is-not-default = { -brand-short-name } không phải là trình duyệt mặc định
+set-as-my-default-browser =
+    .label = Đặt làm mặc định…
+    .accesskey = D
+startup-page = Khi { -brand-short-name } khởi động
+    .accesskey = s
+startup-user-homepage =
+    .label = Hiển thị trang chủ của bạn
 startup-blank-page =
     .label = Hiện một trang trống
+startup-prev-session =
+    .label = Hiển thị cửa sổ và thẻ lần trước của bạn
+disable-extension =
+    .label = Tắt phần mở rộng
+home-page-header = Hiển thị trang chủ của bạn
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -85,18 +99,26 @@ tabs-group-header = Thẻ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab để chuyển qua các thẻ theo thứ tự sử dụng gần đây nhất
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Mở đường dẫn ở thẻ thay vì ở cửa sổ mới
+    .accesskey = w
 show-tabs-in-taskbar =
     .label = Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows
     .accesskey = e
 browser-containers-enabled =
     .label = Bật thẻ ngăn chứa
     .accesskey = n
+browser-containers-learn-more = Tìm hiểu thêm
 containers-disable-alert-title = Đóng tất cả các thẻ ngăn chứa?
 containers-disable-alert-cancel-button = Để bật
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Phông & Màu sắc
+default-font = Phông mặc định
+    .accesskey = D
+default-font-size = Kích thước
+    .accesskey = S
 advanced-fonts =
     .label = Nâng cao…
     .accesskey = o
@@ -113,6 +135,9 @@ translate-web-pages =
 translate-exceptions =
     .label = Ngoại lệ...
     .accesskey = N
+check-user-spelling =
+    .label = Kiểm tra chính tả khi bạn gõ
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -131,21 +156,58 @@ download-choose-folder =
             [macos] n
            *[other] y
         }
+download-always-ask-where =
+    .label = Luôn hỏi bạn nơi để lưu các tập tin
+    .accesskey = A
+applications-header = Ứng dụng
+applications-description = Chọn cách { -brand-short-name } xử lý các tập tin bạn tải về từ web hoặc các ứng dụng bạn sử dụng khi duyệt web.
+applications-filter =
+    .placeholder = Tìm các loại tập tin hoặc ứng dụng
 applications-type-column =
     .label = Kiểu dữ liệu
     .accesskey = K
 applications-action-column =
     .label = Thao tác
     .accesskey = a
+play-drm-content-learn-more = Tìm hiểu thêm
+update-application-title = Cập nhật { -brand-short-name }
+update-application-description = Giữ { -brand-short-name } luôn cập nhật để đạt được hiệu năng, sự ổn định, và bảo mật tốt nhất.
+update-application-info = Phiên bản { $version } <a>Có gì mới</a>
+update-history =
+    .label = Hiển thị lịch sử cập nhật…
+    .accesskey = p
+update-application-allow-description = Cho phép { -brand-short-name }
+update-application-auto =
+    .label = Tự động cài đặt các bản cập nhật (khuyến cáo)
+    .accesskey = A
+update-application-check-choose =
+    .label = Kiểm tra các bản cập nhật nhưng bạn sẽ lựa chọn việc cài đặt chúng
+    .accesskey = C
+update-application-manual =
+    .label = Không bao giờ kiểm tra các bản cập nhật (không khuyến nghị)
+    .accesskey = N
 update-application-use-service =
     .label = Sử dụng dịch vụ chạy nền để cài đặt các cập nhật
     .accesskey = n
+update-enable-search-update =
+    .label = Tự động cập nhật công cụ tìm kiếm
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Hiệu suất
+performance-use-recommended-settings-checkbox =
+    .label = Sử dụng các cài đặt về hiệu suất được khuyến nghị
+    .accesskey = U
+performance-use-recommended-settings-desc = Các cài đặt này được thiết kế riêng cho phần cứng máy tính và hệ điều hành của bạn.
+performance-settings-learn-more = Tìm hiểu thêm
 performance-allow-hw-accel =
     .label = Dùng gia tốc hệ thống hệ thống khi có thể
     .accesskey = h
+performance-limit-content-process-option = Giới hạn xử lý nội dung
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Các tiến trình xử lý nội dung bổ sung có thể cải thiện hiệu suất khi sử dụng nhiều thẻ một lúc, nhưng cũng sẽ tiêu tốn nhiều bộ nhớ.
+performance-limit-content-process-disabled-desc = Việc chỉnh sửa số tiến trình xử lý nội dung chỉ có thể thực hiện với { -brand-short-name } đa tiến trình. <a>Tìm hiểu làm cách nào để kiểm tra khi chế độ đa tiến trình được bật</a>
 
 ## General Section - Browsing
 
@@ -162,9 +224,13 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Cho phép dùng con trỏ để di chuyển bên trong trang
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = Tìm kiếm văn bản khi bạn bắt đầu nhập
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = Mạng lưới proxy
 network-proxy-connection-settings =
     .label = Thiết lập…
     .accesskey = p
