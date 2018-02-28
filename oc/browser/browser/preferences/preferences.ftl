@@ -65,9 +65,13 @@ use-current-pages =
            *[other] Utilizar las paginas activas
         }
     .accesskey = U
+choose-bookmark =
+    .label = Favorits…
+    .accesskey = s
 restore-default =
     .label = Restablir la configuracion per defaut
     .accesskey = R
+tabs-group-header = Onglets
 
 ## General Section - Language & Appearance
 
@@ -78,6 +82,9 @@ colors-settings =
     .label = Colors…
     .accesskey = C
 choose-language-description = Causissètz vòstra lenga preferida per l'afichatge de las paginas
+choose-button =
+    .label = Causir…
+    .accesskey = a
 
 ## General Section - Files and Applications
 
@@ -85,6 +92,17 @@ download-header = Telecargaments
 download-save-to =
     .label = Enregistrar los fichièrs dins lo dorsièr
     .accesskey = n
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Causir…
+           *[other] Percórrer…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] C
+           *[other] P
+        }
 applications-type-column =
     .label = Tipe de contengut
     .accesskey = T
