@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Alltaf
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Valkostir
            *[other] Valkostir
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = { -brand-short-name } þarf að endurræsa til
 feature-disable-requires-restart = { -brand-short-name } þarf að endurræsa til að taka þennan eiginleika af.
 should-restart-title = Endurræsa { -brand-short-name }
 should-restart-ok = Endurræsa { -brand-short-name } núna
-revert-no-restart-button = Afturkalla
 restart-later = Endurræsa seinna
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
