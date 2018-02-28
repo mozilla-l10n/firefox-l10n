@@ -53,11 +53,16 @@ restart-later = Ales asenker ticki
 
 startup-header = Asenker
 use-firefox-sync = Taxbalut: Imaɣnuten yemgaraden ttusqedcen. Tzemreḍ ad tfaṛseḍ seg { -sync-brand-short-name } i beṭṭu n isefka-inek gar-asen.
+get-started-not-logged-in = Qqen ɣer { -sync-brand-short-name }…
+get-started-configured = Ldi ismenyifen n { -sync-brand-short-name }
 always-check-default =
     .label = Senqed yal tikelt ma yella { -brand-short-name } d iminig-ik amezwar
     .accesskey = S
 is-default = { -brand-short-name } d iminig-inek amezwar
 is-not-default = { -brand-short-name } mačči d iminig-inek amezwer
+set-as-my-default-browser =
+    .label = Sbadut d amezwar…
+    .accesskey = G
 startup-user-homepage =
     .label = Sken asebter-iw agejdan 
 startup-blank-page =
@@ -83,6 +88,9 @@ restore-default =
     .label = Err-d tawila n tazwara
     .accesskey = E
 tabs-group-header = Iccaren
+open-new-link-as-tabs =
+    .label = Lddi iseɣwan deg iccaren deg wadig n ifuyla
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Lɣu ticki medlen deqs n yiccaren
     .accesskey = L
@@ -99,6 +107,9 @@ browser-containers-enabled =
     .label = Rmed Iccaren imagbaren
     .accesskey = g
 browser-containers-learn-more = Issin ugar
+browser-containers-settings =
+    .label = Iγewwaṛen…
+    .accesskey = I
 containers-disable-alert-title = Mdel akk iccaren imagbaren?
 containers-disable-alert-desc =
     { $tabCount ->
@@ -114,13 +125,19 @@ containers-disable-alert-cancel-button = Eǧǧ-it yermed
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Tutlayt d urwes
 fonts-and-colors-header = Tisefsiyin d yiniten
+default-font = Tasefsit tamezwarut
+    .accesskey = K
+default-font-size = Teɣzi
+    .accesskey = T
 advanced-fonts =
     .label = Talqayt…
     .accesskey = l
 colors-settings =
     .label = Initen…
     .accesskey = I
+language-header = Tutlayt
 choose-button =
     .label = Fren…
     .accesskey = F
@@ -133,6 +150,7 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Ifuyla d isnasen
 download-header = Isidar
 download-save-to =
     .label = Sekles ifuyla ɣer
@@ -151,19 +169,41 @@ download-choose-folder =
 download-always-ask-where =
     .label = Suter yal tikelt anida ad ttwakelsen ifuyla 
     .accesskey = S
+applications-header = Isnasen
+applications-description = Fren amek ad yeddu { -brand-short-name } akked ifuyla i d-saliḍ akked isnasen i tseqdaceḍ m'ara tettinigeḍ.
 applications-type-column =
     .label = Tawsit n ugbur
     .accesskey = T
 applications-action-column =
     .label = Tigawt
     .accesskey = i
+drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
 play-drm-content-learn-more = Issin ugar
+update-history =
+    .label = Sken-d amazray n ulqqem…
+    .accesskey = n
+update-application-allow-description = Sireg { -brand-short-name } akken ad
+update-application-manual =
+    .label = Werǧin ad ttnadiḍ ileqqman ( mačči d ayen ilhan)
+    .accesskey = N
 update-application-use-service =
     .label = Seqdec ameẓlu n ugilal i usebded n ileqman
     .accesskey = b
+update-enable-search-update =
+    .label = Lqem awurman n umsedday n unadi
+    .accesskey = Ẓ
 
 ## General Section - Performance
 
+performance-title = Tamellit
+performance-settings-learn-more = Issin ugar
+performance-limit-content-process-option = Azal afellay n ukala n ugbur
+    .accesskey = Y
+performance-limit-content-process-disabled-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a>Issin amek ad tsneqdeḍ ma yella agetakala yermed</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (amezwer)
 
 ## General Section - Browsing
 
@@ -186,3 +226,5 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Apruksi n uẓeṭṭa
+network-proxy-connection-learn-more = Issin ugar
