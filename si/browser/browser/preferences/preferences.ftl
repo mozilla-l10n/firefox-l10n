@@ -108,18 +108,44 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+applications-header = යෙදුම්
+applications-description = ඔබ ජාලයෙන් බාගන්නා ගොනු හා ගවේෂණයේදී භාවිත කරන යෙදුම් { -brand-short-name } විසින් හසුරුවන්නේ කෙසේදැයි තෝරන්න.
+applications-filter =
+    .placeholder = ගොනු වර්ග හෝ යෙදුම් සොයන්න
 applications-type-column =
     .label = අන්තර්ගත වර්ගය
     .accesskey = T
 applications-action-column =
     .label = ක්‍රියාව
     .accesskey = A
+update-history =
+    .label = යාවත් ඉතිහාසය පෙන්වන්න…
+    .accesskey = p
+update-application-auto =
+    .label = ස්වයංක්‍රීයව යාවත් ස්ථාපනය කරන්න (නිර්දේශිත)
+    .accesskey = A
+update-application-check-choose =
+    .label = යාවත් සඳහා සොයන්න නමුත් ස්ථාපනය සඳහා ඔබෙන් විමසන්න
+    .accesskey = C
+update-application-manual =
+    .label = කිසිවිට යාවත් සඳහා නොවිමසන්න (නිර්දේශිත නොවේ)
+    .accesskey = N
 update-application-use-service =
     .label = යාවත්කාලීන ස්ථාපනය සඳහා පසුබ්ම් සේවාව (background service) භාවිතා කරන්න
     .accesskey = b
+update-enable-search-update =
+    .label = සෙවුම් යන්ත්‍ර ස්වයංක්‍රීයව යාවත් කරන්න
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = ක්‍රියාකාරීත්වය
+performance-use-recommended-settings-checkbox =
+    .label = නිර්දේශිත ක්‍රියාකාරීත්ව සැකසුම් භාවිත කරන්න
+    .accesskey = U
+performance-use-recommended-settings-desc = මෙම සැකසුම් ඔබේ පරිගණකයේ දෘඩාංග සහ මෙහෙයුම් පද්ධතිය සඳහා සුදුසු ලෙස සැකසී ඇත.
+performance-settings-learn-more = තවත් දැනගන්න
+performance-limit-content-process-enabled-desc = 
 
 ## General Section - Browsing
 
@@ -130,6 +156,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = සුමට ස්ක්‍රෝල් වීම භාවිතා කරන්න
     .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = අවශ්‍ය විටක ස්පර්ශක යතුරු පුවරුව පෙන්වන්න
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = සැම විටම පිටුව තුළ සැරිසැරීමට කර්සර යතුරු භාවිතා කරන්න
     .accesskey = c
