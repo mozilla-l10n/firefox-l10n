@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = हमेशा
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] विकल्प
            *[other] वरीयता
         }
@@ -46,5 +47,34 @@ feature-enable-requires-restart = { -brand-short-name } को इस फीच�
 feature-disable-requires-restart = { -brand-short-name } को इस फीचर को निष्क्रिय करने के लिए फिर आरंभ करें.
 should-restart-title = { -brand-short-name } फिर आरंभ करें
 should-restart-ok = { -brand-short-name } को अभी पुनः आरंभ करें
-revert-no-restart-button = पूर्व स्थिति में आएँ
 restart-later = कुछ देर से पुनर्प्रारंभ करें
+
+## General Section
+
+startup-header = आरंभन
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-header = डाउनलोड
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = ब्राउज़िंग
+browsing-use-autoscroll =
+    .label = स्वतः स्क्रॉलिंग का प्रयोग करें
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = सुगम स्क्रॉलिंग का प्रयोग करें
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = पृष्ठ के अंदर संचरण के लिए हमेशा कर्सर का प्रयोग करें
+    .accesskey = c
+
+## General Section - Proxy
+
