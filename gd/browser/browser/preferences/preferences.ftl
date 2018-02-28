@@ -51,18 +51,65 @@ restart-later = Ath-thòisich uaireigin eile
 
 ## General Section
 
+startup-header = Aig an toiseach
+startup-blank-page =
+    .label = Seall duilleag bhàn
+restore-default =
+    .label = Aisig na roghainnean bunaiteach
+    .accesskey = r
+show-tabs-in-taskbar =
+    .label = Seall ro-shealladh nan tabaichean ann am bàr-ghnìomhan Windows
+    .accesskey = S
 
 ## General Section - Language & Appearance
 
+colors-settings =
+    .label = Dathan…
+    .accesskey = D
+choose-language-description = Tagh an cànan as fhearr leat anns a nochdar dhut duilleagan
+choose-button =
+    .label = Tagh…
+    .accesskey = a
 
 ## General Section - Files and Applications
 
+download-header = Luchdaidhean a-nuas
+download-save-to =
+    .label = Sàbhail faidhlichean ann an
+    .accesskey = S
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Tagh…
+           *[other] Brabhsaich…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] T
+           *[other] B
+        }
+applications-type-column =
+    .label = Seòrsa na susbaint
+    .accesskey = t
+applications-action-column =
+    .label = Gnìomh
+    .accesskey = G
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = A' brabhsadh
+browsing-use-autoscroll =
+    .label = Cleachd sgroladh fèin-obrachail
+    .accesskey = a
+browsing-use-cursor-navigation =
+    .label = Cleachd na putanan-saigheid gus gluasad am broinn nan duilleagan an-còmhnaidh
+    .accesskey = C
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Roghainnean…
+    .accesskey = e
