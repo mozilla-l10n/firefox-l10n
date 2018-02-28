@@ -59,6 +59,9 @@ startup-header = आरंभन
 ## General Section - Files and Applications
 
 download-header = डाउनलोड
+update-application-use-service =
+    .label = अद्यतन संस्थापित करने के लिए पृष्ठभूमि सेवा का उपयोग करें
+    .accesskey = b
 
 ## General Section - Performance
 
