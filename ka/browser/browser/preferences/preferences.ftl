@@ -51,6 +51,10 @@ restart-later = მოგვიანებით გაშვება
 
 ## General Section
 
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = { -brand-short-name }-ის და Firefox-ის ერთად გაშვების ნების დართვა
 
 ## General Section - Language & Appearance
 
