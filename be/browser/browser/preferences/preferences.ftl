@@ -174,6 +174,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = Заўжды пытацца, куды запісваць файлы
     .accesskey = З
+applications-header = Праграмы
+applications-description = Выберыце, як { -brand-short-name } мусіць апрацоўваць сцягнутыя з Сеціва файлы або праграмы, якія вы выкарыстоўваеце падчас аглядання.
+applications-filter =
+    .placeholder = Пошук па тыпах файлаў ці праграмах
 applications-type-column =
     .label = Тып змесціва
     .accesskey = Т
@@ -181,9 +185,22 @@ applications-action-column =
     .label = Дзеянне
     .accesskey = Д
 play-drm-content-learn-more = Даведацца больш
+update-history =
+    .label = Паказаць гісторыю абнаўленняў...
+    .accesskey = с
+update-application-allow-description = Дазволіць { -brand-short-name }
+update-application-check-choose =
+    .label = Правяраць наяўнасць абнаўленняў, але даваць вам выбар, ці ўсталёўваць іх
+    .accesskey = П
+update-application-manual =
+    .label = Ніколі не правяраць наяўнасць абнаўленняў (не рэкамендуецца)
+    .accesskey = Н
 update-application-use-service =
     .label = Выкарыстоўваць фонавую службу для ўсталявання абнаўленняў
     .accesskey = ф
+update-enable-search-update =
+    .label = Аўтаматычна абнаўляць пашукавікі
+    .accesskey = а
 
 ## General Section - Performance
 
