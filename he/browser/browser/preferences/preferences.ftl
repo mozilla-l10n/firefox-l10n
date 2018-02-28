@@ -72,6 +72,8 @@ browser-containers-settings =
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = גופנים וצבעים
+default-font = גופן בררת מחדל
+    .accesskey = ב
 default-font-size = גודל
     .accesskey = ג
 advanced-fonts =
@@ -107,6 +109,8 @@ download-choose-folder =
         }
 applications-header = ישומים
 applications-description = בחירה כיצד { -brand-short-name } יטפל בקבצים שהורדו מהרשת או ביישומים שיהיו בשימוש במהלך הגלישה.
+applications-filter =
+    .placeholder = חיפוש סוגי קבצים או יישומים
 applications-type-column =
     .label = סיווג תוכן
     .accesskey = ס
@@ -134,9 +138,17 @@ update-enable-search-update =
 
 ## General Section - Performance
 
+performance-use-recommended-settings-checkbox =
+    .label = שימוש בהגדרות הביצועים המומלצות
+    .accesskey = ש
+performance-use-recommended-settings-desc = הגדרות אלו מותאמות לחומרת המחשב ולמערכת ההפעלה שלך.
 performance-limit-content-process-option = הגבלת תהליך תוכן
     .accesskey = ה
 performance-limit-content-process-enabled-desc = תהליכי תוכן נוספים עשויים לשפר את הביצועים בעת שימוש במספר לשוניות, עם זאת יעשה שימוש ביותר זיכרון.
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (בררת מחדל)
 
 ## General Section - Browsing
 
@@ -151,6 +163,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = מתווך רשת
+network-proxy-connection-learn-more = מידע נוסף
 network-proxy-connection-settings =
     .label = הגדרות...
     .accesskey = ה
