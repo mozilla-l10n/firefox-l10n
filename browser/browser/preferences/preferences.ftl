@@ -53,6 +53,12 @@ restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 
 startup-blank-page =
     .label = ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು
+restore-default =
+    .label = ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರಳಿಸು
+    .accesskey = R
+show-tabs-in-taskbar =
+    .label = ಹಾಳೆಗಳ ಮುನ್ನೋಟವನ್ನು ವಿಂಡೋಸ್ ಕಾರ್ಯಪಟ್ಟಿಕೆಯಲ್ಲಿ ತೋರಿಸು
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
@@ -106,3 +112,6 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = ಸಿದ್ಧತೆಗಳು...
+    .accesskey = e
