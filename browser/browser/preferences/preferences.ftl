@@ -122,6 +122,9 @@ applications-type-column =
 applications-action-column =
     .label = Ekintza
     .accesskey = E
+update-application-use-service =
+    .label = Erabili atzeko planoko zerbitzua eguneraketak instalatzeko
+    .accesskey = z
 
 ## General Section - Performance
 
