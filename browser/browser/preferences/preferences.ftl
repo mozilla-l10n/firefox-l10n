@@ -65,10 +65,13 @@ is-not-default = { -brand-short-name } no es tu navegador predeterminado
 set-as-my-default-browser =
     .label = Hacer predeterminado…
     .accesskey = D
+startup-user-homepage =
+    .label = Mostrar tu página de inicio
 startup-blank-page =
     .label = Mostrar una página vacía
 disable-extension =
     .label = Deshabilitar extensión
+home-page-header = Mostrar tu página de inicio
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -93,6 +96,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Abrir enlaces en pestañas en lugar de nuevas ventanas
     .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = Avisarme al cerrar varias pestañas
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label =
+        Avisarme si al abrir muchas pestañas { -brand-short-name } se pueda poner lento
+
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Al abrir un enlace en una nueva pestaña, cambiar a la pestaña inmediatamente
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Mostrar vista previa de las pestañás en la barra de tareas de Windows
     .accesskey = t
@@ -100,6 +114,9 @@ browser-containers-enabled =
     .label = Habilitar pestañas contenedoras
     .accesskey = n
 browser-containers-learn-more = Saber más
+browser-containers-settings =
+    .label = Configuración…
+    .accesskey = i
 containers-disable-alert-title = ¿Cerrar todo el contenedor de pestañas?
 containers-disable-alert-desc =
     { $tabCount ->
