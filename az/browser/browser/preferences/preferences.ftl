@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Həmişə
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Seçimlər
            *[other] Nizamlamalar
         }
@@ -46,5 +47,61 @@ feature-enable-requires-restart = Yeni özəlliyi aktivləşdirmək üçün { -b
 feature-disable-requires-restart = Yeni özəlliyi söndürmək üçün { -brand-short-name } yenidən başladılmalıdır.
 should-restart-title = { -brand-short-name } yenidən başladılsın
 should-restart-ok = { -brand-short-name } indi yenidən başlat
-revert-no-restart-button = Geri qaytar
 restart-later = Sonra yenidən başlat
+
+## General Section
+
+show-tabs-in-taskbar =
+    .label = Vərəqlərə ön baxışı Windows tapşırıq panelində göstər
+    .accesskey = e
+
+## General Section - Language & Appearance
+
+colors-settings =
+    .label = Rənglər…
+    .accesskey = R
+choose-language-description = Səhifələrin göstəriləcəyi dili seçin
+choose-button =
+    .label = Seçin…
+    .accesskey = S
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Faylların saxlandığı yer
+    .accesskey = y
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Seçin…
+           *[other] Bax…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] S
+           *[other] B
+        }
+applications-type-column =
+    .label = Məzmun formatı
+    .accesskey = t
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-use-autoscroll =
+    .label = Avtomatik sürüşdürmədən istifadə et
+    .accesskey = A
+browsing-use-smooth-scrolling =
+    .label = Axıcı sürüşdürmədən istifadə et
+    .accesskey = c
+browsing-use-cursor-navigation =
+    .label = Səhifələrdə hərəkət edərkən yazi kursorundan istifadə et
+    .accesskey = S
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Nizamlar…
+    .accesskey = a
