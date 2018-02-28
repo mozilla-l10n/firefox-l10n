@@ -143,6 +143,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Dùng gia tốc hệ thống hệ thống khi có thể
+    .accesskey = h
 
 ## General Section - Browsing
 
