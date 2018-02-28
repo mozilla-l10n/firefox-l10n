@@ -55,16 +55,39 @@ startup-header = ਸ਼ੁਰੂ
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = …ਤਕਨੀਕੀ
+    .accesskey = A
+colors-settings =
+    .label = …ਰੰਗ
+    .accesskey = C
+choose-button =
+    .label = …ਚੁਣੋ
+    .accesskey = o
 
 ## General Section - Files and Applications
 
 download-header = ਡਾਊਨਲੋਡ
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] …ਚੋਣ
+           *[other] …ਝਲਕ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
 applications-type-column =
     .label = ਸਮੱਗਰੀ ਟਾਈਪ
     .accesskey = T
 applications-action-column =
     .label = ਐਕਸ਼ਨ
     .accesskey = A
+update-application-use-service =
+    .label = ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਬੈਕਗਰਾਊਂਡ ਸਰਵਿਸ ਵਰਤੋਂ
+    .accesskey = b
 
 ## General Section - Performance
 
@@ -78,3 +101,6 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = …ਸੈਟਿੰਗ
+    .accesskey = e
