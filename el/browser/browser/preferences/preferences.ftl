@@ -122,6 +122,11 @@ browser-containers-settings =
     .label = Ρυθμίσεις…
     .accesskey = ι
 containers-disable-alert-title = Κλείσιμο όλων των θεματικών καρτελών;
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Αν απενεργοποιήσετε τις θεματικές καρτέλες τώρα, θα κλείσει { $tabCount } θεματική καρτέλα. Θέλετε σίγουρα να απενεργοποιήσετε τις θεματικές καρτέλες;
+       *[other] Αν απενεργοποιήσετε τις θεματικές καρτέλες τώρα, θα κλείσουν { $tabCount } θεματικές καρτέλες. Θέλετε σίγουρα να απενεργοποιήσετε τις θεματικές καρτέλες;
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Κλείσιμο { $tabCount } θεματικής καρτέλας
