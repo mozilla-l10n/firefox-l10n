@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Uvijek
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opcije
            *[other] Postavke
         }
@@ -46,5 +47,84 @@ feature-enable-requires-restart = { -brand-short-name } se mora restartovati kak
 feature-disable-requires-restart = { -brand-short-name } se mora restartovati kako bi onemogućio ovu funkcionalnost.
 should-restart-title = Restartuj { -brand-short-name }
 should-restart-ok = Restartuj { -brand-short-name } odmah
-revert-no-restart-button = Vrati na prijašnje
 restart-later = Restartuj kasnije
+
+## General Section
+
+startup-header = Pokretanje
+startup-blank-page =
+    .label = Prikaži praznu stranicu
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Koristi trenutnu stranicu
+           *[other] Koristi trenutne stranice
+        }
+    .accesskey = c
+restore-default =
+    .label = Vrati na izvorne vrijednosti
+    .accesskey = r
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Fontovi & Boje
+advanced-fonts =
+    .label = Napredno…
+    .accesskey = a
+colors-settings =
+    .label = Boje…
+    .accesskey = o
+choose-language-description = Izaberite željeni jezik za prikaz stranica
+choose-button =
+    .label = Izaberi…
+    .accesskey = I
+
+## General Section - Files and Applications
+
+download-header = Preuzimanja
+download-save-to =
+    .label = Spasi fajlove u
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Izaberi…
+           *[other] Pregled…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] P
+        }
+applications-type-column =
+    .label = Tip sadržaja
+    .accesskey = T
+applications-action-column =
+    .label = Akcija
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Surfanje
+browsing-use-autoscroll =
+    .label = Koristi autoscrolling
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Koristi glatko pomjeranje
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = Uvijek koristi strelice na tastaturi za kretanje po stranicama
+    .accesskey = c
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Postavke…
+    .accesskey = e
