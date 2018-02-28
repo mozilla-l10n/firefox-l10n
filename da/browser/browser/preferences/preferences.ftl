@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Altid
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Indstillinger
            *[other] Indstillinger
         }
@@ -46,5 +47,75 @@ feature-enable-requires-restart = { -brand-short-name } skal genstarte for at ak
 feature-disable-requires-restart = { -brand-short-name } skal genstarte for at deaktivere denne funktionalitet. Vil du genstarte nu?
 should-restart-title = Genstart { -brand-short-name }
 should-restart-ok = Genstart { -brand-short-name } nu
-revert-no-restart-button = Fortryd
 restart-later = Genstart senere
+
+## General Section
+
+startup-header = Opstart
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Anvend nuværende side
+           *[other] Anvend nuværende sider
+        }
+    .accesskey = n
+restore-default =
+    .label = Gendan standard
+    .accesskey = G
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Skrifttyper & farver
+advanced-fonts =
+    .label = Avanceret…
+    .accesskey = v
+colors-settings =
+    .label = Farver…
+    .accesskey = F
+choose-language-description = Vælg dit fortrukne sprog at få vist sider i
+choose-button =
+    .label = Vælg…
+    .accesskey = æ
+
+## General Section - Files and Applications
+
+download-header = Filhentning
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Vælg…
+           *[other] Gennemse…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] æ
+           *[other] e
+        }
+applications-type-column =
+    .label = Indholdstype
+    .accesskey = I
+applications-action-column =
+    .label = Handling
+    .accesskey = H
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-use-autoscroll =
+    .label = Anvend autoscrolling
+    .accesskey = a
+browsing-use-cursor-navigation =
+    .label = Brug altid markør og tastatur til at navigere på sider
+    .accesskey = m
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Indstillinger…
+    .accesskey = I
