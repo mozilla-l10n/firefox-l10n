@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Katui
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Jeporavorã
            *[other] Jerohoryvéva
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva'erã
 feature-disable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva'erã emboguete hag̃ua koichagua.
 should-restart-title = Ñepyrüjey { -brand-short-name }
 should-restart-ok = Emoñepyrũjey { -brand-short-name } ko'ág̃a
-revert-no-restart-button = Mbojevyjey
 restart-later = Emoñepyrũjey ag̃ave
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
