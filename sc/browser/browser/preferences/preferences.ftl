@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Optziones
            *[other] Preferèntzias
         }
@@ -21,4 +22,28 @@ focus-search =
     .key = m
 
 ## Browser Restart Dialog
+
+
+## General Section
+
+startup-header = Aviu
+tabs-group-header = Ischedas
+browser-containers-learn-more = Leghe àteru
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-header = Iscarrigamentos
+play-drm-content-learn-more = Leghe àteru
+
+## General Section - Performance
+
+performance-settings-learn-more = Leghe àteru
+
+## General Section - Browsing
+
+
+## General Section - Proxy
 
