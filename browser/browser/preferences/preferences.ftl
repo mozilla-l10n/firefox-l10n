@@ -52,8 +52,32 @@ restart-later = Újraindítás később
 ## General Section
 
 startup-header = Indítás
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = A { -brand-short-name } és a Firefox futhat egyszerre
+use-firefox-sync = Tipp: Ez külön profilokat használ. A { -sync-brand-short-name } segítségével adatokat oszthat meg közöttük.
+is-default = Jelenleg a { -brand-short-name } az alapértelmezett böngésző.
+is-not-default = A { -brand-short-name } nem az alapértelmezett böngésző
 startup-blank-page =
     .label = Üres oldal megjelenítése
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Aktuális oldal használata
+           *[other] Aktuális oldalak használata
+        }
+    .accesskey = A
+choose-bookmark =
+    .label = Könyvjelző használata…
+    .accesskey = n
+restore-default =
+    .label = Alapértelmezés
+    .accesskey = p
 show-tabs-in-taskbar =
     .label = Lapok előnézetének megjelenítése a Windows tálcán
     .accesskey = L
@@ -62,6 +86,15 @@ show-tabs-in-taskbar =
 
 fonts-and-colors-header = Betűk és színek
 choose-language-description = Az oldalak megjelenítésére előnyben részesített nyelv megadása
+choose-button =
+    .label = Tallózás…
+    .accesskey = T
+translate-web-pages =
+    .label = Webtartalom fordítása
+    .accesskey = f
+translate-exceptions =
+    .label = Kivételek…
+    .accesskey = K
 
 ## General Section - Files and Applications
 
@@ -69,6 +102,17 @@ download-header = Letöltések
 download-save-to =
     .label = Fájlok mentése
     .accesskey = m
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Tallózás…
+           *[other] Tallózás…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] T
+           *[other] T
+        }
 update-application-use-service =
     .label = Háttérben futó szolgáltatás intézze a frissítést
     .accesskey = H
@@ -91,3 +135,6 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Beállítások…
+    .accesskey = B
