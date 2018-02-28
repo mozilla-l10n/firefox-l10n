@@ -52,16 +52,31 @@ restart-later = I-restart Mamaya
 ## General Section
 
 startup-header = Nagsisimula
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Payagan ang { -brand-short-name } at Firefox na tumakbo nang sabay
+use-firefox-sync = Tip: Gumagamit ito ng mga hiwalay na profile. Gumamit ng { -sync-brand-short-name } upang ibahagi ang data sa pagitan nila.
+get-started-not-logged-in = Mag-sign in sa { -sync-brand-short-name }…
+get-started-configured = Buksan ang mga preference ng { -sync-brand-short-name }
+always-check-default =
+    .label = Laging suriin kung ang { -brand-short-name } ay ang iyong default na browser
+    .accesskey = y
 is-default = { -brand-short-name } ay ang iyong kasalukuyang ginagamit na browser.
+is-not-default = Ang { -brand-short-name } ay hindi ang iyong default na browser
 set-as-my-default-browser =
     .label = Gawing Default…
     .accesskey = D
+startup-page = Kapag nagsimula na ang { -brand-short-name }
+    .accesskey = s
 startup-user-homepage =
     .label = Ipakita ang iyong punong pahina
 startup-blank-page =
     .label = Magpakita ng blankong pahina
 startup-prev-session =
     .label = Ipakita ang iyong mga window at tab noong nakaraan
+disable-extension =
+    .label = Huwag Paganahin and Extensyon
 home-page-header = Ipakita ang iyong punong pahina
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -116,16 +131,26 @@ containers-disable-alert-cancel-button = Patuloy na pinagana
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Wika at Hitsura
+fonts-and-colors-header = Mga Font & Kulay
+default-font = Default na font
+    .accesskey = D
+default-font-size = Sukat
+    .accesskey = S
 advanced-fonts =
     .label = Advanced…
     .accesskey = A
 colors-settings =
     .label = Mga Kulay…
     .accesskey = M
+language-header = Wika
 choose-language-description = Pumili ng iyong gustong wika para sa pagpapakita ng mga pahina
 choose-button =
     .label = Choose…
     .accesskey = o
+translate-web-pages =
+    .label = Isalin ang nilalaman ng web
+    .accesskey = T
 translate-exceptions =
     .label = Mga exceptions...
     .accesskey = x
@@ -135,6 +160,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Mga File at Mga Aplikasyon
 download-header = Mga Download
 download-save-to =
     .label = I-save ang mga file sa
@@ -150,6 +176,9 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = Laging itanong sa iyo kung saan mag-save ng mga file
+    .accesskey = A
 applications-header = Applications
 applications-description = Piliin kung paano { -brand-short-name } ang mga file na iyong na-download mula sa web o ang mga application na iyong ginagamit habang nagba-browse.
 applications-filter =
@@ -160,12 +189,27 @@ applications-type-column =
 applications-action-column =
     .label = Aksyon
     .accesskey = A
+drm-content-header = Nilalaman ng Digital Rights Management (DRM)
+play-drm-content =
+    .label = I-play ang DRM na kontroladong nilalaman
+    .accesskey = P
+play-drm-content-learn-more = Karagdagang kaalaman
 update-application-title = Mga update ng { -brand-short-name }
+update-application-description = Panatilihin ang { -brand-short-name } na updated para mahusay ang pagtakbo, katatagan, at seguridad.
 update-application-info = Bersyon { $version } <a>Ano ang bago?</a>
 update-history =
     .label = Ipakita ang kasaysayan nang pag-update…
     .accesskey = p
 update-application-allow-description = Payagan ang { -brand-short-name } na
+update-application-auto =
+    .label = Awtomatikong iinstall ang mga update (rekomendado)
+    .accesskey = A
+update-application-check-choose =
+    .label = I-check kung may mga update, subalit hayaan ka kung i-install ang mga ito
+    .accesskey = C
+update-application-manual =
+    .label = Huwag kailan man mag check kung may mga update (hindi rekomendado)
+    .accesskey = N
 update-application-use-service =
     .label = Gumamit ng background service upang i-install ang mga update
     .accesskey = b
@@ -175,7 +219,19 @@ update-enable-search-update =
 
 ## General Section - Performance
 
+performance-title = Pagganap
+performance-use-recommended-settings-checkbox =
+    .label = Gamitin ang iminungkahi na performance settings
+    .accesskey = U
+performance-use-recommended-settings-desc = Ang mga setting na ito ay pinasadya sa hardware at operating system ng iyong computer.
 performance-settings-learn-more = Karagdagang kalaaman
+performance-allow-hw-accel =
+    .label = Gumamit ng hardware acceleration kapag maaari
+    .accesskey = r
+performance-limit-content-process-option = Nasa limitasyon na ang pag proseso ng content
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Ang karagdagang mga proseso ng nilalaman ay maaaring mapabuti ang pagganap kapag gumagamit ng maraming mga tab, ngunit gagamit din ito ng mas maraming memorya.
+performance-limit-content-process-disabled-desc = Ang pagbabago sa bilang ng mga proseso ng nilalaman ay posible lamang sa multiprocess { -brand-short-name }. <a>Alamin kung paano i-check kung ang multiprocess ay pinagana</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
