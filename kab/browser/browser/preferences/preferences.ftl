@@ -52,6 +52,10 @@ restart-later = Ales asenker ticki
 ## General Section
 
 startup-header = Asenker
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Sireg { -brand-short-name } d Firefox ad selkmen s wudem anmaway
 use-firefox-sync = Taxbalut: Imaɣnuten yemgaraden ttusqedcen. Tzemreḍ ad tfaṛseḍ seg { -sync-brand-short-name } i beṭṭu n isefka-inek gar-asen.
 get-started-not-logged-in = Qqen ɣer { -sync-brand-short-name }…
 get-started-configured = Ldi ismenyifen n { -sync-brand-short-name }
@@ -71,6 +75,8 @@ startup-blank-page =
     .label = Sken asebter ilem
 startup-prev-session =
     .label = Sken iccaren ineggura akked isfuyla yettusqedcen 
+disable-extension =
+    .label = Sens aseɣzif
 home-page-header = Sken asebter-iw agejdan 
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -189,6 +195,9 @@ applications-action-column =
     .label = Tigawt
     .accesskey = i
 drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
+play-drm-content =
+    .label = Γɣaṛ agbur ittwaḥerzen s DRM-
+    .accesskey = Γ
 play-drm-content-learn-more = Issin ugar
 update-application-title = Ileqman n { -brand-short-name }
 update-application-description = Ḥrez { -brand-short-name } yettwalqem i tmellit ifazen, arkad, akked tɣellist.
@@ -199,6 +208,9 @@ update-application-allow-description = Sireg { -brand-short-name } akken ad
 update-application-auto =
     .label = Sebded ileqman s wudem awurman (yelha)
     .accesskey = S
+update-application-check-choose =
+    .label = Ad inadi ileqqman maca ad k-yeǧǧ ad tferneḍ asebded
+    .accesskey = C
 update-application-manual =
     .label = Werǧin ad ttnadiḍ ileqqman ( mačči d ayen ilhan)
     .accesskey = N
@@ -222,6 +234,7 @@ performance-allow-hw-accel =
     .accesskey = q
 performance-limit-content-process-option = Azal afellay n ukala n ugbur
     .accesskey = Y
+performance-limit-content-process-enabled-desc = Ikalan n ugbur-nniḍen zemren ad qaεḍen ugar tamellit di lawan n useqdec n waṭas acaren, maca akka ad iseqdec aṭas n tkatut.
 performance-limit-content-process-disabled-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a>Issin amek ad tsneqdeḍ ma yella agetakala yermed</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
