@@ -55,6 +55,8 @@
 <!ENTITY  acceptCookies3.label          "Aceitar cookies e dados de sites">
 <!ENTITY  acceptCookies3.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Bloquear cookies e dados de sites (pode quebrar páginas)">
+<!ENTITY  blockCookies.accesskey        "B">
 
 <!ENTITY  acceptThirdParty3.pre.label     "Aceitar cookies e dados de site de terceiros">
 <!ENTITY  acceptThirdParty3.pre.accesskey "t">
