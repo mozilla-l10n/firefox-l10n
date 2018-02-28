@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Diskouez ur bajenn wenn
 startup-prev-session =
     .label = Diskouez ma frenestroù hag ivinelloù evel ar wech diwezhañ
+disable-extension =
+    .label = Diweredekaat an askouezh
 home-page-header = Diskouez ma fennbajennad
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = Ivinelloù
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab evit mont d'an ivinell implijet da ziwezhañ
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Digeriñ an ereoù e ivinelloù kentoc'h eget e prenestroù nevez
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Kas keloù din pa vez serret meur a ivinell war un taol
     .accesskey = K
@@ -254,6 +259,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proksi ar rouedad
+network-proxy-connection-learn-more = Gouzout hiroc'h
 network-proxy-connection-settings =
     .label = Arventennoù…
     .accesskey = e
