@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Увек
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Поставке
            *[other] Поставке
         }
@@ -46,5 +47,41 @@ feature-enable-requires-restart = { -brand-short-name } се мора понов
 feature-disable-requires-restart = { -brand-short-name } се мора поново покренути да би се онемогућила ова функционалност.
 should-restart-title = Поново покрени { -brand-short-name }
 should-restart-ok = Поново покрени { -brand-short-name } сада
-revert-no-restart-button = Поништи
 restart-later = Поново покрени касније
+
+## General Section
+
+startup-header = Покретање
+
+## General Section - Language & Appearance
+
+colors-settings =
+    .label = Боје…
+    .accesskey = Б
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Сачувај датотеке у
+    .accesskey = С
+applications-type-column =
+    .label = Врста садржаја
+    .accesskey = В
+applications-action-column =
+    .label = Дејство
+    .accesskey = Д
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-use-autoscroll =
+    .label = Користи аутоматско померање
+    .accesskey = К
+browsing-use-smooth-scrolling =
+    .label = Користи глатко померање
+    .accesskey = г
+
+## General Section - Proxy
+
