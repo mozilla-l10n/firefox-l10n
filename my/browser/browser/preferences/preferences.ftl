@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ရွေးစရာများ
            *[other] နှစ်သက်ရာ အပြင်အဆင်များ
         }
@@ -31,5 +32,22 @@ feature-enable-requires-restart = ယခု လုပ်ဆောင်ချက
 feature-disable-requires-restart = ယခု လုပ်ဆောင်ချက်ကို ပိတ်ရန် { -brand-short-name } ကို ပြန်ဖွင့်ရမည်။
 should-restart-title = { -brand-short-name } ကို ပြန်ဖွင့်ပါ
 should-restart-ok = ယခုပင် { -brand-short-name } ကို ပြန်လည်စတင်ပါ
-revert-no-restart-button = မူလအတိုင်း ပြန်ထားရန်
 restart-later = နောက်မှ ပြန်ဖွင့်ပါ
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
