@@ -71,9 +71,27 @@ startup-page = Quando o { -brand-short-name } iniciar
     .accesskey = i
 startup-user-homepage =
     .label = Mostrar a sua página inicial
+startup-blank-page =
+    .label = Mostrar uma página em branco
 startup-prev-session =
     .label = Mostrar as suas janelas e separadores abertos da última vez
+disable-extension =
+    .label = Desativar extensão
 home-page-header = Mostrar a sua página inicial
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Utilizar a página atual
+           *[other] Utilizar páginas atuais
+        }
+    .accesskey = u
+choose-bookmark =
+    .label = Utilizar marcador…
+    .accesskey = m
 restore-default =
     .label = Restaurar predefinição
     .accesskey = R
@@ -128,9 +146,13 @@ colors-settings =
     .label = Cores…
     .accesskey = C
 language-header = Idioma
+choose-language-description = Escolha o seu idioma preferencial para mostrar páginas
 choose-button =
     .label = Escolher…
     .accesskey = o
+translate-web-pages =
+    .label = Traduzir conteúdo web
+    .accesskey = T
 translate-exceptions =
     .label = Exceções…
     .accesskey = x
@@ -141,6 +163,7 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ficheiros e aplicações
+download-header = Transferências
 download-save-to =
     .label = Guardar ficheiros em
     .accesskey = f
@@ -159,6 +182,7 @@ download-always-ask-where =
     .label = Perguntar sempre onde guardar ficheiros
     .accesskey = a
 applications-header = Aplicações
+applications-description = Escolha como o { -brand-short-name } manuseia os ficheiros que transfere da web ou as aplicações que utiliza enquanto navega.
 applications-filter =
     .placeholder = Pesquisar tipos de ficheiros ou aplicações
 applications-type-column =
@@ -173,6 +197,7 @@ play-drm-content =
     .accesskey = p
 play-drm-content-learn-more = Saber mais
 update-application-title = Atualizações do { -brand-short-name }
+update-application-description = Mantenha o { -brand-short-name } atualizado para o melhor desempenho, estabilidade, e segurança.
 update-application-info = Versão { $version } <a>Novidades</a>
 update-history =
     .label = Mostrar histórico de atualizações…
@@ -197,11 +222,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Desempenho
+performance-use-recommended-settings-checkbox =
+    .label = Utilizar definições de desempenho recomendadas
+    .accesskey = U
+performance-use-recommended-settings-desc = Estas definições são ajustadas para o hardware e sistema operativo do seu computador.
+performance-settings-learn-more = Saber mais
 performance-allow-hw-accel =
     .label = Se disponível, utilizar aceleração de hardware
     .accesskey = r
 performance-limit-content-process-option = Limite de processos de conteúdo
     .accesskey = L
+performance-limit-content-process-enabled-desc = Processos de conteúdo adicionais podem melhorar o desempenho ao utilizar múltiplos separadores, mas também irá consumir mais memória.
+performance-limit-content-process-disabled-desc = Modificar o número de processos de conteúdo é apenas possível com o multi-processo do { -brand-short-name }. <a>Saber como verificar se o multi-processo está ativado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -229,6 +261,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de rede
+network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
     .label = Definições…
     .accesskey = e
