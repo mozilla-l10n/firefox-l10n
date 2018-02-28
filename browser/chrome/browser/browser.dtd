@@ -126,6 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Se connecter à &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Ouvrir les préférences de &syncBrand.shortName.label;">
