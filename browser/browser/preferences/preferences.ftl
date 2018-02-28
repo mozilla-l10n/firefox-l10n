@@ -51,28 +51,141 @@ restart-later = Reiniciar después
 
 ## General Section
 
+get-started-not-logged-in = Ingresar a { -sync-brand-short-name }…
+get-started-configured = Abrir preferencias de { -sync-brand-short-name }
+set-as-my-default-browser =
+    .label = Hacer predeterminado…
+    .accesskey = D
+startup-page = Cuando { -brand-short-name } se inicie
+    .accesskey = s
+startup-user-homepage =
+    .label = Mostrar página de inicio
+startup-prev-session =
+    .label = Mostrar las ventanas y pestañas de la última vez
+home-page-header = Mostrar página de inicio
 tabs-group-header = Pestañas
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab rota las pestañas según su uso reciente
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Avisarme cuando cierre múltiples pestañas
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Avisarme cuando abrir múltiples pestañas pueda hacer más lento a { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Cuando abra un enlace en una nueva pestaña, cambiar a ella inmediatamente
+    .accesskey = u
 show-tabs-in-taskbar =
     .label = Mostrar vista previa de pestañas en la barra de tareas de Windows
     .accesskey = v
+browser-containers-enabled =
+    .label = Habilitar pestañas contenedoras
+    .accesskey = n
+browser-containers-learn-more = Conocer más
+browser-containers-settings =
+    .label = Configuración…
+    .accesskey = i
+containers-disable-alert-title = ¿Cerrar todas las pestañas contenedoras?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Si se deshabilitan las pestañas contenedoras ahora, { $tabCount } pestaña contenedora se cerrará. ¿Seguro desea deshabilitar pestañas contenedoras?
+       *[other] Si se deshabilitan las pestañas contenedoras ahora, { $tabCount } pestañas contenedoras se cerrarán. ¿Seguro desea deshabilitar pestañas contenedoras?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Cerrar { $tabCount } pestaña contenedora
+       *[other] Cerrar { $tabCount } pestañas contenedoras
+    }
+containers-disable-alert-cancel-button = Mantener habilitadas
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Idioma y apariencia
+fonts-and-colors-header = Fuentes y colores
+default-font-size = Tamaño
+    .accesskey = T
+advanced-fonts =
+    .label = Avanzado…
+    .accesskey = z
+colors-settings =
+    .label = Colores…
+    .accesskey = C
+language-header = Idioma
+choose-language-description = Seleccione su idioma preferido para mostrar las páginas
+choose-button =
+    .label = Seleccionar…
+    .accesskey = o
+translate-web-pages =
+    .label = Traducir contenido web
+    .accesskey = T
+translate-exceptions =
+    .label = Excepciones…
+    .accesskey = x
+check-user-spelling =
+    .label = Verificar ortografía al escribir
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Archivos y aplicaciones
+download-always-ask-where =
+    .label = Siempre preguntarme dónde guardar archivos
+    .accesskey = S
+applications-header = Aplicaciones
+applications-description = Elegir cómo { -brand-short-name } administra los archivos descargados desde la web o las aplicaciones que se usan al navegar.
+applications-filter =
+    .placeholder = Buscar tipos de archivos o aplicaciones
 applications-type-column =
     .label = Tipo de contenido
     .accesskey = T
 applications-action-column =
     .label = Acción
     .accesskey = A
+drm-content-header = Contenido con Digital Rights Management (DRM)
+play-drm-content =
+    .label = Reproducir contenido controlado por DRM-
+    .accesskey = p
+play-drm-content-learn-more = Conocer más
+update-application-title = Actualizaciones de { -brand-short-name }
+update-application-description = Hay que mantener a { -brand-short-name } actualizado para un mejor rendimiento, estabilidad y seguridad.
+update-application-info = Versión { $version } <a>Que hay de nuevo</a>
+update-history =
+    .label = Mostrar historial de actualizaciones…
+    .accesskey = h
+update-application-allow-description = Permitir que { -brand-short-name }
+update-application-auto =
+    .label = Instale actualizaciones automáticamente (recomendado)
+    .accesskey = a
+update-application-check-choose =
+    .label = Busque actualizaciones pero dejarme elegir si las instalo
+    .accesskey = C
+update-enable-search-update =
+    .label = Actualizar automáticamente los buscadores
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Rendimiento
+performance-use-recommended-settings-checkbox =
+    .label = Usar configuración de rendimiento recomendada
+    .accesskey = U
+performance-use-recommended-settings-desc = Esta configuración se ajusta al hardware y sistema operativo de su computadora.
+performance-settings-learn-more = Conocer más
+performance-allow-hw-accel =
+    .label = Usar aceleración por hardware cuando esté disponible
+    .accesskey = h
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (predeterminado)
 
 ## General Section - Browsing
 
+browsing-search-on-start-typing =
+    .label = Buscar texto al empezar a escribir
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy de red
