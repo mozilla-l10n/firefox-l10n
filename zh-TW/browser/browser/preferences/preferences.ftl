@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = 總是
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] 選項
            *[other] 偏好設定
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = 必須重新啟動 { -brand-short-name } 才�
 feature-disable-requires-restart = 必須重新啟動 { -brand-short-name } 才能停用此功能。
 should-restart-title = 重新啟動 { -brand-short-name }
 should-restart-ok = 立刻重新啟動 { -brand-short-name }
-revert-no-restart-button = 還原
 restart-later = 稍後再重新啟動
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
