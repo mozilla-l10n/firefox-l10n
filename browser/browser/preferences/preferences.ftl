@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Siempre
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opciones
            *[other] Preferencias
         }
@@ -46,5 +47,80 @@ feature-enable-requires-restart = { -brand-short-name } debe ser reiniciado para
 feature-disable-requires-restart = { -brand-short-name } debe ser reiniciado para activar esta característica.
 should-restart-title = Reiniciar { -brand-short-name }
 should-restart-ok = Reiniciar { -brand-short-name } ahora
-revert-no-restart-button = Revertir
 restart-later = Reiniciar más tarde
+
+## General Section
+
+startup-header = Inicio
+startup-blank-page =
+    .label = Mostrar una página en blanco
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar página actual
+           *[other] Usar páginas actuales
+        }
+    .accesskey = C
+
+## General Section - Language & Appearance
+
+advanced-fonts =
+    .label = Avanzadas…
+    .accesskey = A
+colors-settings =
+    .label = Colores…
+    .accesskey = C
+choose-language-description = Elegir el idioma preferido para mostrar las páginas web
+choose-button =
+    .label = Seleccionar…
+    .accesskey = o
+
+## General Section - Files and Applications
+
+download-header = Descargas
+download-save-to =
+    .label = Guardar archivos en
+    .accesskey = G
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Elegir…
+           *[other] Examinar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] x
+        }
+applications-type-column =
+    .label = Tipo de contenido
+    .accesskey = T
+applications-action-column =
+    .label = Acción
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Navegación
+browsing-use-autoscroll =
+    .label = Usar desplazamiento automático
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Usar desplazamiento suave
+    .accesskey = v
+browsing-use-cursor-navigation =
+    .label = Usar siempre las teclas del cursor para navegar dentro de las páginas
+    .accesskey = c
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Configuración…
+    .accesskey = o
