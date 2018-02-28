@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Заўсёды
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Налады
            *[other] Налады
         }
@@ -46,5 +47,25 @@ feature-enable-requires-restart = { -brand-short-name } мусіць пераз�
 feature-disable-requires-restart = { -brand-short-name } мусіць перазапусціцца, каб адключыць гэту магчымасць.
 should-restart-title = Перазапуск { -brand-short-name }
 should-restart-ok = Перазапусціць { -brand-short-name } зараз
-revert-no-restart-button = Адмяніць змяненне
 restart-later = Перазапусціць пазней
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Захоўваць файлы ў
+    .accesskey = З
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
