@@ -44,25 +44,113 @@ restart-later = Qalisa ngokutsha Kamva
 ## General Section
 
 startup-header = Qalisa
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Vumela i-{ -brand-short-name } kunye ne-Firefox ukuba zisebenze ngaxeshanye
+use-firefox-sync = Ingcebiso: Le isebenzisa iiprofayile eyahlukeneyo. Sebenzisa ungqamaniso ukwabelana ngenkcukacha phakathi kwazo.
+get-started-not-logged-in = Sayina ungene kwi-{ -sync-brand-short-name }…
+get-started-configured = Vula iipriferensi ze-{ -sync-brand-short-name }
+always-check-default =
+    .label = Khangela qho ukuba i-{ -brand-short-name } iyibhrawuza yakho esisiseko
+    .accesskey = o
+is-default = I-{ -brand-short-name } kungokunje iyibhrawuza yakho esisiseko
+is-not-default = I-{ -brand-short-name } ayiyobhrawuza yakho esisiseko
+startup-page = Xa i-{ -brand-short-name } iqalisa
+    .accesskey = i
+startup-user-homepage =
+    .label = Bonisa iphepha lakho lokuqala
 startup-blank-page =
     .label = Bonisa ikhasi elingenanto
+startup-prev-session =
+    .label = Bonisa iifestile neethebhu zakho ukususela ukugqibela kwam
+home-page-header = Bonisa iphepha lakho lokuqala
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Sebenzisa iPhepha laNgoku
+           *[other] Sebenzisa amaPhepha aNgoku
+        }
+    .accesskey = S
+choose-bookmark =
+    .label = Sebenzisa iBhukhmakhi…
+    .accesskey = B
+restore-default =
+    .label = Buyisela kwiZiseko
+    .accesskey = B
 tabs-group-header = Izilungelelanisi zemigca
+ctrl-tab-recently-used-order =
+    .label = Imijikelo yeCtrl+Tab kwiithebhu kulungelelwano olusandul' ukusetyenziswa
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Ndikulumkise xa ndivala iithebhu ezininzi
+    .accesskey = e
+warn-on-open-many-tabs =
+    .label = Ndikulumkise xa uvula iithebhu ezininzi ezingacothisa i-{ -brand-short-name }
+    .accesskey = c
+switch-links-to-new-tabs =
+    .label = Xa uvula ikhonkco kwilinki entsha, tshintshela kuyo ngokukhawuleza
+    .accesskey = a
 show-tabs-in-taskbar =
     .label = Bonisa umbono wangaphambili wethebhu kwithaskhbha ye-Windows
     .accesskey = B
+browser-containers-enabled =
+    .label = Vumela iiThebhu zeKhonteyina
+    .accesskey = u
+browser-containers-learn-more = Funda ngakumbi
+browser-containers-settings =
+    .label = Iisetingi…
+    .accesskey = s
+containers-disable-alert-title = Ufuna ukuvala Zonke iiThebhu zeeKhonteyina?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Ukuba uyazivala iiThebhu zeKhonteyina ngoku, i-{ $tabCount } ithebhu yekhonteyina iya kuvalwa. Uqinisekile ukuba ufuna ukuzivala iiThebhu zeKhonteyina?
+       *[other]  Ukuba uyazivala iiThebhu zeKhonteyina ngoku, ii-{ $tabCount } iithebhu zekhonteyina ziya kuvalwa. Uqinisekile ukuba ufuna ukuzivala iiThebhu zeKhonteyina?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Vala iThebu yeKhonteyina i-{ $tabCount }
+       *[other] Vala iiThebhu zeKhonteyina ii-{ $tabCount }.
+    }
+containers-disable-alert-cancel-button = Zigcina zivuliwe
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Iifonti neMibala
+default-font = Ifonti esisiseko
+    .accesskey = I
+default-font-size = Isayizi
+    .accesskey = I
+advanced-fonts =
+    .label = Kwangaphambili…
+    .accesskey = K
 colors-settings =
     .label = Imibala…
     .accesskey = I
+choose-language-description = Khetha ulwimi oluthandayo lokubonisa amaphepha
 choose-button =
     .label = Khetha…
     .accesskey = e
+translate-web-pages =
+    .label = Guqulela isiqulatho sewebhu
+    .accesskey = G
+translate-exceptions =
+    .label = Izinxaxhi…
+    .accesskey = n
+check-user-spelling =
+    .label = Khangela upelo lwakho njengoko uchwetheza
+    .accesskey = u
 
 ## General Section - Files and Applications
 
 download-header = Okukhutshelwayo
+download-save-to =
+    .label = Gcina iifayile kwi
+    .accesskey = c
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -74,18 +162,57 @@ download-choose-folder =
             [macos] a
            *[other] w
         }
+download-always-ask-where =
+    .label = Ndikubuze qho ngendawo emazigcinwe kuyo iifayile
+    .accesskey = N
+applications-header = Ii-aplikheyishini
+applications-filter =
+    .placeholder = Khetha uhlobo lweefayile okanye ii-aplikheyishini
 applications-type-column =
     .label = Udidi lomxholo
     .accesskey = l
 applications-action-column =
     .label = Inyathelo
     .accesskey = I
+play-drm-content-learn-more = Funda okungakumbi
+update-application-title = I-{ -brand-short-name } iZihlaziyi
+update-application-info = Uhlobo { $version } <a>Yintoni entsha</a>
+update-history =
+    .label = Bonisa iMbali yoHlaziyo…
+    .accesskey = l
+update-application-allow-description = Vumela i-{ -brand-short-name } ukuba
+update-application-check-choose =
+    .label = Khangela uhlaziyo, kodwa ikuvumela ukuba ukhethe ukuba ungazifaka na
+    .accesskey = K
+update-application-manual =
+    .label = Ungaze ukhangele uhlaziyo (akunconyelwa)
+    .accesskey = U
 update-application-use-service =
     .label = Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo
     .accesskey = y
+update-enable-search-update =
+    .label = Ngokuzenzekelayo hlaziya iinjini zokukhangela
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Ukusebenza
+performance-use-recommended-settings-checkbox =
+    .label = Sebenzisa iisetingi ezinconyelwayo zokusebenza
+    .accesskey = S
+performance-use-recommended-settings-desc = Ezi setingi zilungiselelwe ihadwe nenkqubo yokusebenza yekhompyutha yakho.
+performance-settings-learn-more = Funda okungakumbi
+performance-allow-hw-accel =
+    .label = Sebenzisa ukhawuleziso lwehadiwe xa lufumaneka
+    .accesskey = d
+performance-limit-content-process-option = Inkqubo yesiqulatho nomlinganiselo
+    .accesskey = l
+performance-limit-content-process-enabled-desc = Iinkqubo ezongezelelekileyo zesiqulatho zinokuphucula ukusebenza xa usebenzisa iithebhu ezininzi, kodwa iya kusebenzisa imemori engakumbi.
+performance-limit-content-process-disabled-desc = Ukuphucula inani leenkqubo zeziqulatho kunokwenzeka kuphela ngeenkqubo ezininzi ze-{ -brand-short-name }. <a>Funda indlela yokuhlola ukuba zivuliwe iinkqubo ezininzi</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = Idifolti{ $num } (idifolthi)
 
 ## General Section - Browsing
 
@@ -96,9 +223,15 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Sebenzisa ukuhambahamba kokubhaliweyo okugudileyo
     .accesskey = g
+browsing-use-onscreen-keyboard =
+    .label = Bonisa ukuphatha nekhibhodi xa kuyimfuneko
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = Sebenzisa qho amaqhosha ekheza ukufunisela kumakhasi
     .accesskey = a
+browsing-search-on-start-typing =
+    .label = Khangela iteksti xa uqalisa ukuchwetheza
+    .accesskey = t
 
 ## General Section - Proxy
 
