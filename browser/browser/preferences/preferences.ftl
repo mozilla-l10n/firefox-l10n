@@ -71,6 +71,7 @@ choose-bookmark =
 restore-default =
     .label = استعد المبدئي
     .accesskey = س
+tabs-group-header = الألسنة
 show-tabs-in-taskbar =
     .label = أظهِر معاينات للألسنة في شريط مهام ويندوز
     .accesskey = و
