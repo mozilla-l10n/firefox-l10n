@@ -128,6 +128,7 @@ containers-disable-alert-cancel-button = Manter habilitado
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Idioma e Aparência
 fonts-and-colors-header = Fontes e cores
 default-font = Fonte padrão
     .accesskey = d
@@ -156,6 +157,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Arquivos e Aplicativos
 download-header = Downloads
 download-save-to =
     .label = Salvar arquivos em
@@ -245,6 +247,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy de Rede
 network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
     .label = Configurar conexão…
