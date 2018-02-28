@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Всегда
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Настройки
            *[other] Настройки
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = Для включения этого режи�
 feature-disable-requires-restart = Для отключения этого режима необходимо перезапустить { -brand-short-name }.
 should-restart-title = Перезапуск { -brand-short-name }
 should-restart-ok = Перезапустить { -brand-short-name } сейчас
-revert-no-restart-button = Отменить изменение
 restart-later = Перезапустить позже
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
