@@ -63,6 +63,9 @@ use-current-pages =
            *[other] Anvend nuværende sider
         }
     .accesskey = n
+choose-bookmark =
+    .label = Anvend bogmærke…
+    .accesskey = b
 restore-default =
     .label = Gendan standard
     .accesskey = G
@@ -107,9 +110,13 @@ applications-action-column =
 
 ## General Section - Browsing
 
+browsing-title = Browsing
 browsing-use-autoscroll =
     .label = Anvend autoscrolling
     .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Anvend blød scrolling
+    .accesskey = b
 browsing-use-cursor-navigation =
     .label = Brug altid markør og tastatur til at navigere på sider
     .accesskey = m
