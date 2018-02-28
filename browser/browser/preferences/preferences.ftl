@@ -52,12 +52,24 @@ restart-later = नंतर पुनःसुरु करा
 ## General Section
 
 startup-header = प्रारंभीकरण
+show-tabs-in-taskbar =
+    .label = पटलाच्या कार्यपट्टीत टॅब पूर्वावलोकन दाखवा
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
+choose-button =
+    .label = निवडा…
+    .accesskey = o
 
 ## General Section - Files and Applications
 
+applications-type-column =
+    .label = अंतर्भुत माहिती प्रकार
+    .accesskey = T
+applications-action-column =
+    .label = कृती
+    .accesskey = A
 
 ## General Section - Performance
 
