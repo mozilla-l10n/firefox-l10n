@@ -47,6 +47,9 @@ use-current-pages =
 restore-default =
     .label = অবিকল্পিতলৈ পুনঃ স্থাপন কৰক
     .accesskey = R
+show-tabs-in-taskbar =
+    .label = টেবৰ পুৰ্বদৰ্শনসমূহ উইন্ডোসমূহৰ কাৰ্য্যবাৰত দেখুৱাওক
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
