@@ -56,6 +56,7 @@ startup-blank-page =
 restore-default =
     .label = طے شدہ بحال کریں
     .accesskey = ب
+tabs-group-header = ٹیبس
 show-tabs-in-taskbar =
     .label = Windows ٹاسک بار میں ٹیب پیش نظارے دکھائیں
     .accesskey = ٹ
