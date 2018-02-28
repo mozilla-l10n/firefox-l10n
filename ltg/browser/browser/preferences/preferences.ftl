@@ -57,13 +57,27 @@ startup-header = Palaišona
 separate-profile-mode =
     .label = Ļaut { -brand-short-name } i Firefox dorbuotīs vīnlaiceigi
 use-firefox-sync = Tip: This uses separate profiles. Use { -sync-brand-short-name } to share data between them.
+get-started-not-logged-in = Pīraksteitīs { -sync-brand-short-name }…
+get-started-configured = Attaiseit { -sync-brand-short-name } īstatiejumus
 always-check-default =
     .label = Vīnmār puorbaudeit voi { -brand-short-name } ir nūkluseitais puorlūks
     .accesskey = t
 is-default = { -brand-short-name } itūbreid ir jiusu nūkluseitais puorlūks
 is-not-default = { -brand-short-name } itūbreid nav jiusu nūkluseitais puorlūks
+set-as-my-default-browser =
+    .label = Padareit par nūkluseitū…
+    .accesskey = d
+startup-page = Kod { -brand-short-name } palaižys
+    .accesskey = p
+startup-user-homepage =
+    .label = Ruodeit sātys lopu
 startup-blank-page =
     .label = Paruodeit tukšu lopu
+startup-prev-session =
+    .label = Paruodeit munus lūgus i cilnes nu īprīkšejuos reizes
+disable-extension =
+    .label = Deaktivēt paplošynuojumu
+home-page-header = Ruodeit sātys lopu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -82,6 +96,15 @@ tabs-group-header = Cilnes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
     .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Breidynuot, pyrms aiztaiseit vairuokys cilnes
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Breidynuot, kod vairuoku ciļņu attaiseišona varātu sabremzeit { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Kod es attaisu saiti jaunuo cilnē, puorslēgtīs iz itū cilni
+    .accesskey = c
 show-tabs-in-taskbar =
     .label = Ruodeit ciļņu bildeitis Windows palūdzī
     .accesskey = R
@@ -89,18 +112,27 @@ browser-containers-enabled =
     .label = Enable Container Tabs
     .accesskey = n
 browser-containers-learn-more = Uzzynojit vairuok
+browser-containers-settings =
+    .label = Īstatiejumi...
+    .accesskey = i
 containers-disable-alert-title = Close All Container Tabs?
 containers-disable-alert-cancel-button = Patureit aktivātu
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Language and Appearance
 fonts-and-colors-header = Fonti i kruosys
+default-font = Nūklusiejuma fonts
+    .accesskey = N
+default-font-size = Izmārs
+    .accesskey = s
 advanced-fonts =
     .label = Īstatiejumi...
     .accesskey = a
 colors-settings =
     .label = Kruosys...
     .accesskey = K
+language-header = Language
 choose-language-description = Izavielit vālamū volūdu, kaidā attāluot lopys
 choose-button =
     .label = Izavieleit...
@@ -111,9 +143,13 @@ translate-web-pages =
 translate-exceptions =
     .label = Izjāmumi…
     .accesskey = z
+check-user-spelling =
+    .label = Rokstūt puorbaudeit pareizraksteibu
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Faili i programys
 download-header = Lejupīluodes
 download-save-to =
     .label = Vīta, kur saglobuot failus:
@@ -129,19 +165,58 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = Vīnmār vaicuot maņ, kur saglobuot failus
+    .accesskey = a
+applications-header = Lītuotnes
+applications-description = Choose how { -brand-short-name } handles the files you download from the web or the applications you use while browsing.
+applications-filter =
+    .placeholder = Mekleit piec failu tipa voi lītuotnes
 applications-type-column =
     .label = Satura tips
     .accesskey = t
 applications-action-column =
     .label = Darbeiba
     .accesskey = a
+drm-content-header = Digital Rights Management (DRM) Content
+play-drm-content =
+    .label = Play DRM-controlled content
+    .accesskey = P
 play-drm-content-learn-more = Uzzynojit vairuok
+update-application-title = { -brand-short-name } atjaunynuojumi
+update-application-info = Verseja { $version } <a>Kas jauns</a>
+update-history =
+    .label = Paruodeit atjaunynuojumu viesturi…
+    .accesskey = v
+update-application-allow-description = Ļaut { -brand-short-name }
+update-application-auto =
+    .label = Automatically install updates (recommended)
+    .accesskey = A
+update-application-check-choose =
+    .label = Puorbaudeit atjaunynuojumu pīejameibu, bet ļaut maņ izavieleit voi instaleit tūs
+    .accesskey = P
+update-application-manual =
+    .label = Nikod napuorbaudeit atjaunynuojumus (nav īteicams)
+    .accesskey = N
 update-application-use-service =
     .label = Instaleit atjaunynuojumus fonā
     .accesskey = f
+update-enable-search-update =
+    .label = Automatiski atjaunynuot meklietuojus
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Performance
+performance-allow-hw-accel =
+    .label = Nui pīejams, izmantuot aparaturys pauotrynuojumu
+    .accesskey = r
+performance-limit-content-process-option = Satura procesu limits
+    .accesskey = l
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (nūkluseitais)
 
 ## General Section - Browsing
 
@@ -158,9 +233,13 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Vīnmār izmantuot kursora tausteņus, kab puorvītuotūs pa lopom
     .accesskey = k
+browsing-search-on-start-typing =
+    .label = Mekleit raksteitū tekstu, koleidz es suoku raksteit
+    .accesskey = M
 
 ## General Section - Proxy
 
+network-proxy-title = Teikla storpnīkserveris
 network-proxy-connection-settings =
     .label = Īstatiejumi...
     .accesskey = e
