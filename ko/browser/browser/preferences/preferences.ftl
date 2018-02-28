@@ -62,6 +62,18 @@ always-check-default =
     .accesskey = w
 is-default = 현재 { -brand-short-name }가 기본 브라우저입니다.
 is-not-default = { -brand-short-name }가 기본 브라우저가 아닙니다.
+set-as-my-default-browser =
+    .label = 기본값으로…
+    .accesskey = D
+startup-user-homepage =
+    .label = 홈 페이지 보기
+startup-blank-page =
+    .label = 빈 페이지 보기
+startup-prev-session =
+    .label = 지난번 창과 탭 보기
+disable-extension =
+    .label = 확장기능 비활성화
+home-page-header = 홈 페이지 보기
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -80,16 +92,39 @@ restore-default =
     .label = 초기 설정
     .accesskey = R
 tabs-group-header = 탭
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab으로 최근 사용한 순서대로 탭 순환
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = 링크를 새 창 대신 새 탭에서 열기
+    .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = 여러 개의 탭을 동시에 닫으려고 할 때 알려주기
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = 여러개의 탭을 열어서 { -brand-short-name }가 느려질 수 있으면 알려주기
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = 링크를 새 탭으로 열면 해당 탭으로 전환
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Windows 작업표시줄에 탭 미리 보기 표시
     .accesskey = k
+browser-containers-enabled =
+    .label = 포함 탭 활성화
+    .accesskey = n
 browser-containers-learn-more = 더 알아보기
 browser-containers-settings =
     .label = 설정…
     .accesskey = i
+containers-disable-alert-title = 모든 포함 탭을 닫으시겠습니까?
+containers-disable-alert-desc = 지금 포함 탭을 비활성화 하면 { $tabCount }개의 포함 탭이 닫히게 됩니다. 포함 탭을 비활성화 하시겠습니까?
+containers-disable-alert-ok-button = { $tabCount }개의 포함탭 닫기
+containers-disable-alert-cancel-button = 활성화 하기
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = 언어와 표현
 fonts-and-colors-header = 글꼴과 색상
 default-font = 기본 글꼴
     .accesskey = D
@@ -101,6 +136,7 @@ advanced-fonts =
 colors-settings =
     .label = 색상…
     .accesskey = C
+language-header = 언어
 choose-language-description = 웹 페이지를 표시할 선호 언어 선택
 choose-button =
     .label = 선택…
@@ -111,9 +147,13 @@ translate-web-pages =
 translate-exceptions =
     .label = 예외…
     .accesskey = x
+check-user-spelling =
+    .label = 입력할 때 철자 확인
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = 파일과 어플리케이션
 download-header = 다운로드
 download-save-to =
     .label = 저장 위치
@@ -129,13 +169,25 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = 파일 저장 위치 항상 묻기
+    .accesskey = A
 applications-type-column =
     .label = 파일 형식
     .accesskey = T
 applications-action-column =
     .label = 실행
     .accesskey = A
+drm-content-header = 디지털 권리 관리(DRM) 콘텐츠
+play-drm-content =
+    .label = DRM 제어 콘텐츠 재생
+    .accesskey = P
 play-drm-content-learn-more = 더 알아보기
+update-application-title = { -brand-short-name } 업데이트
+update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지힙니다.
+update-application-auto =
+    .label = 자동으로 업데이트 설치(추천)
+    .accesskey = A
 update-application-use-service =
     .label = 업데이트 설치 시 백그라운드 작업으로 하기
     .accesskey = b
@@ -145,6 +197,7 @@ update-application-use-service =
 performance-allow-hw-accel =
     .label = 하드웨어 가속이 가능하면 사용
     .accesskey = r
+performance-limit-content-process-disabled-desc = 컨텐트 프로세스 갯수 변경은 멀티 프로세스 { -brand-short-name }에서만 가능합니다. <a>멀티 프로세스가 활성화 되었는지 확인하는 방법</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -162,9 +215,14 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = 커서 키를 항상 페이지 내에서 사용
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = 타이핑을 시작하면 검색
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = 네트워크 프록시
+network-proxy-connection-learn-more = 자세히 보기
 network-proxy-connection-settings =
     .label = 설정…
     .accesskey = e
