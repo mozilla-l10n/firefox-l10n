@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Üres oldal megjelenítése
 startup-prev-session =
     .label = A legutóbbi ablakok és lapok megjelenítése
+disable-extension =
+    .label = Kiterjesztés letiltása
 home-page-header = Kezdőlap megjelenítése
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = Lapok
 ctrl-tab-recently-used-order =
     .label = A Ctrl+Tab a legutóbbi használat sorrendjében lépked körbe a lapokon
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Hivatkozások megnyitása új lapon, az új ablak helyett
+    .accesskey = l
 warn-on-close-multiple-tabs =
     .label = Figyelmeztetés több lap bezárása előtt
     .accesskey = t
@@ -195,11 +200,15 @@ play-drm-content =
     .accesskey = l
 play-drm-content-learn-more = További tudnivalók
 update-application-title = { -brand-short-name } frissítések
+update-application-description = Tartsa naprakészen a { -brand-short-name }ot a legjobb teljesítmény, stabilitás és biztonság érdekében.
 update-application-info = Verzió{ $version } <a>Újdonságok</a>
 update-history =
     .label = Frissítési előzmények megjelenítése…
     .accesskey = z
 update-application-allow-description = A következők engedélyezése a { -brand-short-name }nak:
+update-application-auto =
+    .label = Frissítések automatikus telepítése (ajánlott)
+    .accesskey = A
 update-application-check-choose =
     .label = Frissítések keresése, de a telepítés jóváhagyással történik
     .accesskey = k
@@ -216,9 +225,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Teljesítmény
+performance-use-recommended-settings-checkbox =
+    .label = Javasolt teljesítménybeállítások használata
+    .accesskey = h
+performance-use-recommended-settings-desc = Ezek a beállítások a számítógép hardveréhez és operációs rendszeréhez lettek szabva.
+performance-settings-learn-more = További tudnivalók
 performance-allow-hw-accel =
     .label = Hardveres gyorsítás használata, ha lehetséges
     .accesskey = r
+performance-limit-content-process-option = Tartalom folyamatok korlátja
+    .accesskey = k
+performance-limit-content-process-enabled-desc = A további tartalom folyamatok növelhetik a teljesítményt, ha több lapot használ, de több memóriát is használnak.
+performance-limit-content-process-disabled-desc = A tartalom folyamatok számának módosítása csak többfolyamatos { -brand-short-name } esetén lehetséges. <a>Ismerje meg, hogyan lehet ellenőrizni, hogy a többfolyamatos működés engedélyezve van-e</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -245,6 +263,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Hálózati proxy
+network-proxy-connection-learn-more = További tudnivalók
 network-proxy-connection-settings =
     .label = Beállítások…
     .accesskey = B
