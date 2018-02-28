@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Beti
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Aukerak
            *[other] Hobespenak
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = { -brand-short-name } berrabiarazi behar da eg
 feature-disable-requires-restart = { -brand-short-name } berrabiarazi behar da eginbide hau desgaitzeko.
 should-restart-title = Berrabiarazi { -brand-short-name }
 should-restart-ok = Berrabiarazi { -brand-short-name } orain
-revert-no-restart-button = Leheneratu
 restart-later = Berrabiarazi geroago
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
