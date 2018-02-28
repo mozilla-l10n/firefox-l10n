@@ -52,8 +52,30 @@ restart-later = أعِد التشغيل لاحقًا
 ## General Section
 
 startup-header = البدء
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = اسمح بتشغيل { -brand-short-name } و فَيَرفُكس في نفس الوقت
+use-firefox-sync = فائدة: يستخدم هذا ملفات إعدادات مستقلة. استخدم «تزامن» لمشاركة البيانات بينهما.
+get-started-not-logged-in = لِج إلى { -sync-brand-short-name }…
+get-started-configured = افتح تفضيلات { -sync-brand-short-name }
+always-check-default =
+    .label = تحقق دائمًا من كون { -brand-short-name } متصفّحك المبدئي
+    .accesskey = د
+is-default = ‏{ -brand-short-name } هو المتصفح المبدئي حاليا
+is-not-default = ‏{ -brand-short-name } ليس المتصفح المبدئي حاليا
+set-as-my-default-browser =
+    .label = اجعله المبدئي…
+    .accesskey = م
+startup-page = عند بدء { -brand-short-name }
+    .accesskey = ع
+startup-user-homepage =
+    .label = اعرض صفحتي الرئيسية
 startup-blank-page =
     .label = اعرض صفحة فارغة
+startup-prev-session =
+    .label = اعرض نوافذي و ألسنتي من المرّة السابقة
+home-page-header = اعرض صفحتي الرئيسية
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -72,25 +94,81 @@ restore-default =
     .label = استعد المبدئي
     .accesskey = س
 tabs-group-header = الألسنة
+ctrl-tab-recently-used-order =
+    .label = ‏Ctrl+Tab يتنقّل عبر الألسنة حسب ترتيب آخر استخدام
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = نبّهني عند محاولة إغلاق عدّة ألسنة
+    .accesskey = ة
+warn-on-open-many-tabs =
+    .label = نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ { -brand-short-name }
+    .accesskey = ف
+switch-links-to-new-tabs =
+    .label = عند فتح رابط في لسان جديد، انتقل إليه مباشرة
+    .accesskey = ط
 show-tabs-in-taskbar =
     .label = أظهِر معاينات للألسنة في شريط مهام ويندوز
     .accesskey = و
+browser-containers-enabled =
+    .label = فعل الألسنة الحاوية
+    .accesskey = ف
+browser-containers-learn-more = اطّلع على المزيد
+browser-containers-settings =
+    .label = الإعدادات…
+    .accesskey = د
+containers-disable-alert-title = أأغلق كل الألسنة الحاوية؟
+containers-disable-alert-desc =
+    { $tabCount ->
+        [zero] 
+        [one] إذا عطلت الألسنة الحاوية الآن فسيغلق لسان حاو. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
+        [two] إذا عطلت الألسنة الحاوية الآن فسيغلق لسانين حاويين. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
+        [few] إذا عطلت الألسنة الحاوية الآن فستغلق { $tabCount } ألسنة حاوية. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
+        [many] إذا عطلت الألسنة الحاوية الآن فسيغلق { $tabCount } لسانًا حاويًا. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
+       *[other] إذا عطلت الألسنة الحاوية الآن فسيغلق { $tabCount } لسان حاو. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [zero] 
+        [one] أغلق اللسان الحاوي
+        [two] أغلق اللسانين الحاويين
+        [few] أغلق { $tabCount } ألسنة حاوية
+        [many] أغلق { $tabCount } لسانًا حاويًا
+       *[other] أغلق { $tabCount } لسان حاو
+    }
+containers-disable-alert-cancel-button = أبقها مفعلّة
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = اللغة و المظهر
+fonts-and-colors-header = الخطوط و الألوان
+default-font = الخط المبدئي
+    .accesskey = ط
+default-font-size = الحجم
+    .accesskey = ح
 advanced-fonts =
     .label = متقدم…
     .accesskey = د
 colors-settings =
     .label = الألوان…
     .accesskey = ل
+language-header = اللّغات
 choose-language-description = اختر لغتك المفضلة لعرض الصفحات
 choose-button =
     .label = اختر…
     .accesskey = خ
+translate-web-pages =
+    .label = ترجم محتوى الوب
+    .accesskey = ت
+translate-exceptions =
+    .label = الاستثناءات…
+    .accesskey = ث
+check-user-spelling =
+    .label = دقق الإملاء أثناء الكتابة
+    .accesskey = ك
 
 ## General Section - Files and Applications
 
+files-and-applications-title = الملفات و التطبيقات
 download-header = التّنزيلات
 download-save-to =
     .label = احفظ الملفّات في
@@ -106,15 +184,58 @@ download-choose-folder =
             [macos] ت
            *[other] ص
         }
+download-always-ask-where =
+    .label = اسألني دائمًا عن مكان حفظ الملفّات
+    .accesskey = ن
+applications-header = التطبيقات
+applications-description = اختر كيف يتعامل { -brand-short-name } مع الملفات التي تنزلها من الوب أو التطبيقات التي تستخدمها أثناء التصفح.
+applications-filter =
+    .placeholder = ابحث عن أنواع الملفات أو التطبيقات
 applications-type-column =
     .label = نوع المحتوى
     .accesskey = ن
 applications-action-column =
     .label = الإجراء
     .accesskey = ج
+drm-content-header = محتوى إدارة الحقوق الرقمية (DRM)
+play-drm-content =
+    .label = شغّل المحتوى الخاضع لإدارة الحقوق الرقمية
+    .accesskey = ش
+play-drm-content-learn-more = اطّلع على المزيد
+update-application-title = تحديثات { -brand-short-name }
+update-application-info = الإصدارة { $version } <a>ما الجديد</a>
+update-history =
+    .label = أظهر تأريخ التحديث…
+    .accesskey = ظ
+update-application-allow-description = اسمح ل‍{ -brand-short-name } أن
+update-application-auto =
+    .label = نزّل التحديثات تلقائيا (مستحسن)
+    .accesskey = ن
+update-application-check-choose =
+    .label = يلتمس التحديثات، و لكن يترك لك خيار تنصيبها من عدمه
+    .accesskey = ت
+update-application-manual =
+    .label = لا يلتمس التحديثات أبدًا (غير مستحسن)
+    .accesskey = د
+update-application-use-service =
+    .label = استخدم خدمة تعمل في الخلفية لتنصيب التحديثات
+    .accesskey = خ
+update-enable-search-update =
+    .label = حدّث محركات البحث تلقائيًا
+    .accesskey = ك
 
 ## General Section - Performance
 
+performance-title = الأداء
+performance-allow-hw-accel =
+    .label = استخدم تسريع العتاد إن كان متاحًا
+    .accesskey = ع
+performance-limit-content-process-option = حد سيرورة المحتوى
+    .accesskey = ح
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = ‏{ $num } (المبدئي)
 
 ## General Section - Browsing
 
@@ -125,12 +246,19 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = استخدم اللّف السلس
     .accesskey = خ
+browsing-use-onscreen-keyboard =
+    .label = اعرض لوحة مفاتيح باللمس عند الضرورة
+    .accesskey = م
 browsing-use-cursor-navigation =
     .label = استعمل دائمًا مفاتيح الأسهم للتنقل داخل الصفحات
     .accesskey = س
+browsing-search-on-start-typing =
+    .label = ابحث عن النص مع بداية الكتابة
+    .accesskey = ح
 
 ## General Section - Proxy
 
+network-proxy-title = وسيط الشبكة
 network-proxy-connection-settings =
     .label = الإعدادات…
     .accesskey = ع
