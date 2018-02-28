@@ -75,6 +75,8 @@ startup-blank-page =
     .label = ஒரு வெற்று பக்கத்தைக் காட்டு
 startup-prev-session =
     .label = கடைசி நேரத்திலிருந்த உங்களுடைய சாளரங்கள் மற்றும் கீற்றுகளைக் காட்டவும்
+disable-extension =
+    .label = துணைநிரலை முடக்கவும்
 home-page-header = உங்களுடைய முகப்பு பக்கத்தைக் காட்டவும்
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -190,11 +192,15 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = மேலும் அறிய
 update-application-title = { -brand-short-name } மேம்படுத்தல்கள்
+update-application-description = சிறந்த செயல்திறன், நிலைப்புத்தன்மை மற்றும் பாதுகாப்பிற்காக { -brand-short-name } என்பதை இற்றைப்படுத்தி வைக்கவும்.
 update-application-info = பதிப்பு { $version } <a>புதியவைகள்</a>
 update-history =
     .label = புதுப்பித்தல் வரலாறு…
     .accesskey = p
 update-application-allow-description = பின்வரும் தேர்வுக்கு { -brand-short-name } உலாவியை அனுமதி
+update-application-auto =
+    .label = தானே புதுப்பிப்புகளை நிறுவவும் (பரிந்துரைக்கப்பட்டது)
+    .accesskey = A
 update-application-check-choose =
     .label = புதுப்பிப்புகள் உள்ளதா எனச் சோதிக்கவும், நிறுவ வேண்டுமா என்பதை நானே தேர்வு செய்கிறேன்
     .accesskey = C
@@ -211,11 +217,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = செயல்திறன்
+performance-use-recommended-settings-checkbox =
+    .label = பரிந்துரைத்த செயல்திறன் அமைவுகளைப் பாவிக்கவும்
+    .accesskey = U
+performance-use-recommended-settings-desc = இந்த அமைவுகள் உங்கள் கணினியின் வன்பொருளுக்கும் இயங்குதளத்திற்கும் ஏற்ப அமைந்துள்ளது.
+performance-settings-learn-more = மேலும் அறிய
 performance-allow-hw-accel =
     .label = கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்
     .accesskey = r
 performance-limit-content-process-option = உள்ளடக்க செயல்முறை வரம்பு
     .accesskey = l
+performance-limit-content-process-enabled-desc = பல கீற்றுகளைப் பயன்படுத்தும் போது கூடுதல் உள்ளடக்க செயலாக்கங்கள் செயல்திறனை மேம்படுத்தும், ஆனால் அது அதிக நினைவகத்தைப் பயன்படுத்தும்.
+performance-limit-content-process-disabled-desc = உள்ளடக்க செயல்முறைகளின் எண்ணிக்கையை மாற்றியமைத்தல் பல செயல்முறை கொண்ட { -brand-short-name } உலாவியுடன் மட்டுமே சாத்தியமாகும் . <a>பன்செயல்முறை உள்ளதா என்பதைச் சோதிக்க கற்றுக்கொள்ளுங்கள்</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -242,6 +255,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = வலைப்பின்னல் பதிலாள்
 network-proxy-connection-settings =
     .label = அமைவுகள்…
     .accesskey = e
