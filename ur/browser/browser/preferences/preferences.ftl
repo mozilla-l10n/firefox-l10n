@@ -8,7 +8,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ہمیشہ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] اختیارات
            *[other] ترجیحات
         }
@@ -45,5 +46,55 @@ feature-enable-requires-restart = اس فیچر کو اہل کرنے کے لیے
 feature-disable-requires-restart = اس فیچر کو نا اہل کرنے کے لیے { -brand-short-name } کو دوباره شروع کرنا ہو گا۔
 should-restart-title = { -brand-short-name } دوبارہ شروع کریں
 should-restart-ok = { -brand-short-name } کو ابھی دوباره شروع کریں
-revert-no-restart-button = الٹ کریں
 restart-later = بعد میں دوباره شروع کریں
+
+## General Section
+
+startup-header = سٹارٹ اپ
+startup-blank-page =
+    .label = خالی صفحہ دکھائیں
+restore-default =
+    .label = طے شدہ بحال کریں
+    .accesskey = ب
+show-tabs-in-taskbar =
+    .label = Windows ٹاسک بار میں ٹیب پیش نظارے دکھائیں
+    .accesskey = ٹ
+
+## General Section - Language & Appearance
+
+choose-language-description = صفحہ دکھانے کے لیے اپنی زبان چنیں
+
+## General Section - Files and Applications
+
+download-header = ڈاؤن لوڈ
+download-save-to =
+    .label = مسل محفوظ کریں بر
+    .accesskey = م
+applications-type-column =
+    .label = مواد قسم
+    .accesskey = م
+applications-action-column =
+    .label = عمل
+    .accesskey = ع
+update-application-use-service =
+    .label = تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں
+    .accesskey = پ
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = براؤزنگ
+browsing-use-autoscroll =
+    .label = خودکار طومار استعمال کریں
+    .accesskey = خ
+browsing-use-smooth-scrolling =
+    .label = ہموار طومار استعمال کریں
+    .accesskey = ہ
+browsing-use-cursor-navigation =
+    .label = صفحات میں آگے پیچھے جانے کے لیے ہمیشہ کرسر کلیدیں استعمال کریں
+    .accesskey = ک
+
+## General Section - Proxy
+
