@@ -58,11 +58,15 @@ separate-profile-mode =
     .label = Permesi ke { -brand-short-name } kaj Firefox funkciu samtempe
 use-firefox-sync = Konsileto: tio ĉi uzas apartajn profilojn. Uzu Speguli por dividi datumojn inter ili.
 get-started-not-logged-in = Komenci seancon en { -sync-brand-short-name }…
+get-started-configured = Malfermi preferojn de { -sync-brand-short-name }
 always-check-default =
     .label = Ĉiam kontroli ĉu { -brand-short-name } estas via ĉefa retumilo
     .accesskey = i
 is-default = { -brand-short-name } estas nuntempe via ĉefa retumilo
 is-not-default = { -brand-short-name } ne estas via ĉefa retumilo
+set-as-my-default-browser =
+    .label = Elekti kiel norman…
+    .accesskey = E
 startup-page = Kiam { -brand-short-name } startas
     .accesskey = s
 startup-user-homepage =
@@ -71,6 +75,8 @@ startup-blank-page =
     .label = Montri malplenan paĝon
 startup-prev-session =
     .label = Montri viajn lastajn fenestrojn kaj langetojn
+disable-extension =
+    .label = Malaktivigi etendaĵon
 home-page-header = Montri vian ekan paĝon
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -93,6 +99,9 @@ tabs-group-header = Langetoj
 ctrl-tab-recently-used-order =
     .label = Stir+Tabo rondiras inter langetoj ordigitaj laŭ ĵuseco
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Malfermi ligilojn en langetoj anstataŭ ol en nova fenestroj
+    .accesskey = l
 warn-on-close-multiple-tabs =
     .label = Averti min antaŭ ol fermi plurajn langetojn
     .accesskey = p
@@ -127,6 +136,7 @@ containers-disable-alert-cancel-button = Teni ŝaltita
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Lingvo kaj aspekto
 fonts-and-colors-header = Tiparoj kaj koloroj
 default-font = Norma tiparo
     .accesskey = o
@@ -138,6 +148,7 @@ advanced-fonts =
 colors-settings =
     .label = Koloroj…
     .accesskey = K
+language-header = Lingvo
 choose-language-description = Elektu vian preferatan lingvon por retpaĝoj
 choose-button =
     .label = Elekti…
@@ -154,6 +165,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Dosieroj kaj programoj
 download-header = Elŝutoj
 download-save-to =
     .label = Konservi dosierojn en
@@ -173,19 +185,30 @@ download-always-ask-where =
     .label = Ĉiam demandi, kie konservi dosierojn
     .accesskey = d
 applications-header = Programoj
+applications-description = Elekti kiel { -brand-short-name } traktas la dosierojn elŝutitajn el la Teksaĵo aŭ la programojn uzatajn por ilin malfermi.
+applications-filter =
+    .placeholder = Serĉi tipojn de dosiero aŭ programojn
 applications-type-column =
     .label = Tipo de enhavo
     .accesskey = E
 applications-action-column =
     .label = Ago
     .accesskey = A
+drm-content-header = Enhavo kun cifereca administrado de rajtoj (DRM)
+play-drm-content =
+    .label = Ludi DRM-administritan enhavon
+    .accesskey = L
 play-drm-content-learn-more = Pli da informo
 update-application-title = Ĝisdatigoj de { -brand-short-name }
+update-application-description = Tenu { -brand-short-name } ĝisdatigita por havi la plej bonan efikecon, stabilecon kaj sekurecon.
 update-application-info = Versio { $version } <a>Kio estas nova</a>
 update-history =
     .label = Montri historion de ĝisdatigoj…
     .accesskey = M
 update-application-allow-description = Permesi al { -brand-short-name }
+update-application-auto =
+    .label = Aŭtomate instali ĝisdatigojn (rekomendita)
+    .accesskey = A
 update-application-check-choose =
     .label = Kontroli ĉu estas ĝisdatigoj, sed ebligi al uzanto elekti ĉu ilin instali
     .accesskey = K
@@ -202,11 +225,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Efikeco
+performance-use-recommended-settings-checkbox =
+    .label = Uzi konsilindajn efikecajn agordojn
+    .accesskey = K
 performance-use-recommended-settings-desc = Tiuj ĉi agordoj estas alĝustigitaj al la mastruma sistemo kaj aparataro de via komputilo.
 performance-settings-learn-more = Pli da informo
 performance-allow-hw-accel =
     .label = Uzi aparatan akceladon se tio disponeblas
     .accesskey = d
+performance-limit-content-process-option = Maksimuma nombro de enhavaj taskoj
+    .accesskey = M
+performance-limit-content-process-enabled-desc = Pli da enhavaj taskoj povas plibonigi efikecon dum uzo de pluraj langetoj, sed ili ankaŭ uzos pli da memoro.
+performance-limit-content-process-disabled-desc = Nur eblas modifi la nombron de enhavaj taskoj en plurproceza { -brand-short-name }. <a>Pli da informo, pri kiel eltrovi ĉu plurprocezo estas aktiva</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -214,6 +244,7 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Retumo
 browsing-use-autoscroll =
     .label = Uzi aŭtomatan ŝovadon
     .accesskey = a
@@ -232,6 +263,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Retperanto
+network-proxy-connection-learn-more = Pli da informo
 network-proxy-connection-settings =
     .label = Agordoj…
     .accesskey = g
