@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Počisti podatke">
+<!ENTITY window.width                 "35em">
 
 
 <!ENTITY clearSiteData.label          "Piškotki in podatki strani">

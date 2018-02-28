@@ -229,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Upravljajte prevod strani">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte uporabo programske opreme DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Odpri ploščo MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Za to stran ste zavrnili uporabo kamere.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Za to stran ste zavrnili uporabo mikrofona.">
@@ -387,6 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Ni še sinhroniziranih zavihkov!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite tukaj videti zavihke drugih naprav?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Možnosti sinhronizacije">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Odpri nastavitve sinhronizacije">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se za ogled seznama zavihkov drugih naprav.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Svoj račun morate potrditi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se v Sync">

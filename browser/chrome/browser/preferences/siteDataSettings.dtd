@@ -22,3 +22,5 @@
 <!ENTITY     removingSelected.description  "Ko odstranite podatke strani, boste odstranili tudi povezane piškotke in vsebino za delo brez povezave. To vas bo morda odjavilo iz spletnih strani. Ste prepričani, da želite uveljaviti spremembe?">
 <!ENTITY     siteTree2.label               "Odstranjeni bodo piškotki naslednjih spletnih strani">
 <!ENTITY     removingDialog1.title         "Odstranjevanje piškotkov in podatkov strani">
+<!ENTITY     removingSelected1.description "Izbris piškotkov in podatkov strani vas lahko odjavi iz spletnih strani. Ste prepričani, da želite to storiti?">
+<!ENTITY     siteTree3.label               "Odstranjeni bodo piškotki in podatki naslednjih strani">
