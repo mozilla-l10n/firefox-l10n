@@ -52,8 +52,23 @@ restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 ## General Section
 
 startup-header = ಆರಂಭಿಕ
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = { -brand-short-name } ಅನ್ನು ಮತ್ತು Firefox ಅನ್ನು ಏಕಕಾಲಕ್ಕೆ ಚಲಾಯಿತಗೊಳ್ಳಲು ಅನುಮತಿಸಿ
+use-firefox-sync = ಸೂಚನೆ: ಇದು ಪ್ರತ್ಯೇಕ ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಅವುಗಳ ನಡುವೆ ದತ್ತಾಂಶವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಿಂಕ್ ಅನ್ನು ಬಳಸಿ.
+always-check-default =
+    .label = ಯಾವಾಗಲೂ { -brand-short-name } ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿದೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ
+    .accesskey = y
+is-default = { -brand-short-name } ಎನ್ನುವುದು ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಜಾಲವೀಕ್ಷಕವಾಗಿದೆ
+is-not-default = { -brand-short-name } ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿಲ್ಲ
+startup-user-homepage =
+    .label = ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರಿಸು
 startup-blank-page =
     .label = ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು
+startup-prev-session =
+    .label = ಹಿಂದಿನ ಬಾರಿಯ ನಿನ್ನ ಕಿಟಕಿ ಹಾಗು ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೋರಿಸು
+home-page-header = ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರಿಸು
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -72,12 +87,32 @@ restore-default =
     .label = ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರಳಿಸು
     .accesskey = R
 tabs-group-header = ಟ್ಯಾಬ್‌ಗಳು
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab ಇತ್ತೀಚೆಗೆ ಬಳಸಿದ ಟ್ಯಾಬ್‍ಗಳನ್ನು ತಿರುಗಿಕೊಡುತ್ತದೆ
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = ಅನೇಕ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚುವಾಗ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು‍
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = ಅನೇಕ ಹಾಳೆಗಳನ್ನು ತೆರೆಯುವುದಾಗ { -brand-short-name }ವನ್ನು ನಿಧಾನಗೊಂಡರೆ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ನಾನು ಒಂದು ಕೊಂಡಿಯನ್ನು ತೆರೆದಾಗ, ತಕ್ಷಣ ಅದಕ್ಕೆ ಬದಲಾಯಿಸು
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = ಹಾಳೆಗಳ ಮುನ್ನೋಟವನ್ನು ವಿಂಡೋಸ್ ಕಾರ್ಯಪಟ್ಟಿಕೆಯಲ್ಲಿ ತೋರಿಸು
     .accesskey = k
+browser-containers-enabled =
+    .label = ಕಂಟೈನರ್ ಟ್ಯಾಬ್ಸ್ ಸಕ್ರಿಯಗೊಳಿಸಿ
+    .accesskey = n
+browser-containers-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+browser-containers-settings =
+    .label = ಸಿದ್ಧತೆಗಳು…‍
+    .accesskey = i
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = ಅಕ್ಷರಶೈಲಿಗಳು ಮತ್ತು ಬಣ್ಣಗಳು
 advanced-fonts =
     .label = ಮುಂದುವರೆದ...
     .accesskey = A
@@ -88,6 +123,12 @@ choose-language-description = ಪುಟಗಳನ್ನು ತೋರಿಸಲು 
 choose-button =
     .label = ಆರಿಸಿ…
     .accesskey = o
+translate-web-pages =
+    .label = ಜಾಲದಲ್ಲಿನ ಕಂಟೆಂಟ್ ಅನ್ನು ಅನುವಾದಿಸು
+    .accesskey = T
+translate-exceptions =
+    .label = ಹೊರತಾದವುಗಳು...
+    .accesskey = x
 
 ## General Section - Files and Applications
 
@@ -106,18 +147,25 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನನ್ನು ಕೇಳು
+    .accesskey = A
 applications-type-column =
     .label = ವಿಷಯದ ಬಗೆ
     .accesskey = T
 applications-action-column =
     .label = ಕಾರ್ಯ
     .accesskey = A
+play-drm-content-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 update-application-use-service =
     .label = ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು
     .accesskey = b
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು
+    .accesskey = r
 
 ## General Section - Browsing
 
@@ -128,6 +176,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = ಮೃದು ಚಲನೆಯನ್ನು ಬಳಸು
     .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = ಅಗತ್ಯಬಿದ್ದಾಗ ಒಂದು ಟಚ್ ಕೀಲಮಣೆಯನ್ನು ತೋರಿಸು
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = ಪುಟದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ತೆರೆಸೂಚಕ ಕೀಲಿಗಳನ್ನು ಬಳಸು
     .accesskey = c
