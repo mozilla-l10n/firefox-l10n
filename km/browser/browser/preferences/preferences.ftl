@@ -43,13 +43,43 @@ restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ព�
 ## General Section
 
 startup-header = ចាប់ផ្ដើម​ឡើង
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = អនុញ្ញាត​ឲ្យ { -brand-short-name } និង Firefox ដំណើរការ​ក្នុង​ពេល​ដូចគ្នា
+use-firefox-sync = ព័ត៌មាន​ជំនួយ៖ វា​ប្រើ​បវត្តិរូប​ដាច់ដោយឡែក។ ប្រើ​ការ​ធ្វើ​សមកាលកម្ម​ដើម្បី​ចែករំលែក​ទិន្នន័យ​រវាង​ពួកគេ។
 get-started-not-logged-in = ចូល { -sync-brand-short-name } ...
 get-started-configured = បើក​ចំណូលចិត្ត { -sync-brand-short-name }
+always-check-default =
+    .label = ពិនិត្យជានិច្ច ថា { -brand-short-name } ជា​កម្មវិធី​អ៊ីនធឺណិត​លំនាំដើម
+    .accesskey = y
+is-default = { -brand-short-name } បច្ចុប្បន្ន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក
+is-not-default = { -brand-short-name } វា​មិន​មែន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក
 startup-page = នៅពេល { -brand-short-name } ចាប់ផ្ដើម
     .accesskey = s
 startup-blank-page =
     .label = បង្ហាញ​ទំព័រ​ទទេ
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] ប្រើ​ទំព័រ​បច្ចុប្បន្ន
+           *[other] ប្រើ​ទំព័រ​បច្ចុប្បន្ន
+        }
+    .accesskey = ប
+choose-bookmark =
+    .label = ប្រើ​ចំណាំ…
+    .accesskey = ច
+restore-default =
+    .label = ស្ដារ​ទៅ​លំនាំ​ដើម
+    .accesskey = ស
 tabs-group-header = ផ្ទាំង
+ctrl-tab-recently-used-order =
+    .label = ប៊ូតុង​ Ctrl+Tab មាន​មុខងារ​ចូល​មើល​ផ្ទាំង​ដែល​បើក​ថ្មីៗ​ម្ដង​មួយ​ៗ
+    .accesskey = T
 
 ## General Section - Language & Appearance
 
@@ -68,6 +98,12 @@ choose-language-description = ជ្រើស​ភាសា​ដែល​អ�
 choose-button =
     .label = ជ្រើស…
     .accesskey = ស
+translate-web-pages =
+    .label = ​បកប្រែ​មាតិកា​បណ្ដាញ
+    .accesskey = T
+translate-exceptions =
+    .label = ករណី​លើកលែង…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
@@ -96,6 +132,7 @@ applications-type-column =
 applications-action-column =
     .label = អំពើ
     .accesskey = ព
+play-drm-content-learn-more = ស្វែងយល់​​បន្ថែម
 update-history =
     .label = បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព...
     .accesskey = p
@@ -116,6 +153,9 @@ update-enable-search-update =
 ## General Section - Browsing
 
 browsing-title = រក​មើល
+browsing-use-onscreen-keyboard =
+    .label = បង្ហាញ​ក្ដារចុច​ប៉ះ​នៅ​ពេល​ចាំបាច់
+    .accesskey = k
 
 ## General Section - Proxy
 
