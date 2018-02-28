@@ -62,6 +62,9 @@ use-current-pages =
            *[other] Usar páxines actuales
         }
     .accesskey = U
+choose-bookmark =
+    .label = Usar marcador…
+    .accesskey = m
 
 ## General Section - Language & Appearance
 
@@ -97,6 +100,9 @@ applications-type-column =
 applications-action-column =
     .label = Aición
     .accesskey = A
+update-application-use-service =
+    .label = Usar serviciu en segundu planu pa instalar los anovamientos
+    .accesskey = v
 
 ## General Section - Performance
 
