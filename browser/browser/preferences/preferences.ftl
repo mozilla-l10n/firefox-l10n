@@ -52,30 +52,157 @@ restart-later = Repornește mai târziu
 ## General Section
 
 startup-header = Pornire
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Permite ca { -brand-short-name } și Firefox să ruleze în același timp
+use-firefox-sync = Pont: Acesta folosește profiluri separate. Folosește Sincronizare pentru a împărtăși datele între ele.
+get-started-not-logged-in = Autentifică-te la { -sync-brand-short-name }…
+always-check-default =
+    .label = Verifică întotdeauna dacă { -brand-short-name } este browserul implicit
+    .accesskey = y
+is-default = { -brand-short-name } este în prezent browserul implicit
+is-not-default = { -brand-short-name } nu este browserul implicit
+set-as-my-default-browser =
+    .label = Desemnează ca implicit
+    .accesskey = D
+startup-page = Când { -brand-short-name } pornește:
+    .accesskey = s
+startup-user-homepage =
+    .label = Arată pagina de start
 startup-blank-page =
     .label = Arată o pagină goală
+startup-prev-session =
+    .label = Arată ferestrele și filele de data trecută
+home-page-header = Arată pagina de start
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Folosește pagina actuală
+           *[other] Folosește paginile actuale
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Folosește un marcaj…
+    .accesskey = B
+ctrl-tab-recently-used-order =
+    .label = Cicluri de Ctrl+Tab printre file în ordinea celor mai folosite recent
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Avertizează la închiderea filelor multiple
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Te avertizează atunci când deschiderea mai multor file ar putea încetini { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Când se deschide un link într-o nouă filă, comută la aceasta imediat
+    .accesskey = C
+browser-containers-enabled =
+    .label = Activează filele container
+    .accesskey = n
+browser-containers-learn-more = Află mai multe
+browser-containers-settings =
+    .label = Setări…
+    .accesskey = t
+containers-disable-alert-title = Închizi toate filele container?
+containers-disable-alert-cancel-button = Păstrează activat
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Limbă și aspect
+fonts-and-colors-header = Fonturi și culori
+default-font = Font implicit:
+    .accesskey = D
+default-font-size = Mărime:
+    .accesskey = S
+advanced-fonts =
+    .label = Avansat…
+    .accesskey = A
+colors-settings =
+    .label = Culori…
+    .accesskey = C
+language-header = Limbă
+choose-language-description = Alege limba în care preferi să vezi paginile
+choose-button =
+    .label = Alege…
+    .accesskey = o
+translate-exceptions =
+    .label = Excepții…
+    .accesskey = x
+check-user-spelling =
+    .label = Verifică ortografia pe măsură ce tastez
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Fișiere și aplicații
 download-header = Descărcări
 download-save-to =
     .label = Salvează fișierele în
     .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Alege…
+           *[other] Răsfoiește…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+download-always-ask-where =
+    .label = Întreabă întotdeauna unde să salvez fișierele
+    .accesskey = n
+applications-header = Aplicații
+applications-filter =
+    .placeholder = Caută tipuri de fișiere sau aplicații
 applications-type-column =
     .label = Tip de conținut
     .accesskey = T
 applications-action-column =
     .label = Acțiune
     .accesskey = A
+drm-content-header = Conținut Digital Rights Management (DRM)
+play-drm-content =
+    .label = Redă conținut controlat prin DRM
+    .accesskey = p
+play-drm-content-learn-more = Află mai multe
+update-application-title = Actualizări { -brand-short-name }
+update-application-info = Versiunea { $version } <a>Ce este nou</a>
+update-history =
+    .label = Afișează istoricul actualizărilor
+    .accesskey = p
+update-application-allow-description = Permite ca { -brand-short-name } să
+update-application-check-choose =
+    .label = Caute actualizări, dar să te lase să decizi dacă le instalezi
+    .accesskey = C
+update-application-manual =
+    .label = Nu caute niciodată actualizări (nerecomandat)
+    .accesskey = n
 update-application-use-service =
     .label = Folosește serviciul care rulează în fundal pentru a instala actualizări
     .accesskey = d
+update-enable-search-update =
+    .label = Actualizează automat motoarele de căutare
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Performanță
+performance-allow-hw-accel =
+    .label = Folosește accelerarea hardware atunci când este disponibilă
+    .accesskey = h
+performance-limit-content-process-option = Limita proceselor pentru conținut
+    .accesskey = L
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (implicită)
 
 ## General Section - Browsing
 
@@ -86,12 +213,19 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Folosește derularea lină
     .accesskey = i
+browsing-use-onscreen-keyboard =
+    .label = Arată o tastatură tactilă când este necesar
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = Folosește întotdeauna săgețile pentru a naviga în pagini
     .accesskey = F
+browsing-search-on-start-typing =
+    .label = Caută textul când încep să tastez
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy pentru rețea
 network-proxy-connection-settings =
     .label = Setări…
     .accesskey = e
