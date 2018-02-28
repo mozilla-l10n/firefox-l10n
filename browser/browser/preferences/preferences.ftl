@@ -48,6 +48,9 @@ restart-later = පසුව යළි අරඹන්න
 
 ## General Section - Files and Applications
 
+applications-type-column =
+    .label = අන්තර්ගත වර්ගය
+    .accesskey = T
 applications-action-column =
     .label = ක්‍රියාව
     .accesskey = A
