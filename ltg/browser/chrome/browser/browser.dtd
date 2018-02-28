@@ -1002,7 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Syuteit cilni iz īreici">
 <!ENTITY sendToDevice.syncNotReady.label "Syncing Devices…">
 
-<!ENTITY libraryButton.tooltip "Skateitīs viesturi, saglobuotuos gruomotzeimes i daudz kū cytu">
+<!ENTITY libraryButton.tooltip "Skateitīs viesturi, saglobōtōs grōmotzeimes i daudz kū cytu">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

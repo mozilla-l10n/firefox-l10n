@@ -7,9 +7,9 @@
 <!ENTITY refreshProfile.dialog.description2  "Itys:">
 <!ENTITY refreshProfile.dialog.items.label1  "Aizvuoks jiusu papyldynuojums i pīlāguojumus">
 <!ENTITY refreshProfile.dialog.items.label2  "Restore your browser settings to their defaults">
-<!ENTITY refreshProfile.dialog.button.label  "Atjaunuot &brandShortName;">
+<!ENTITY refreshProfile.dialog.button.label  "Atjaunōt &brandShortName;">
 
 <!ENTITY refreshProfile.title                "Uzloboj &brandShortName;">
-<!ENTITY refreshProfile.button.label         "Atjaunuot &brandShortName;…">
+<!ENTITY refreshProfile.button.label         "Atjaunōt &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Gondreiž gotovs…">
