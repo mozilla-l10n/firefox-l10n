@@ -65,13 +65,32 @@ use-current-pages =
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Fontes y colores
+advanced-fonts =
+    .label = Avanzaes…
+    .accesskey = v
 colors-settings =
     .label = Colores…
     .accesskey = C
+choose-language-description = Escoyer llingua preferida p'amosar les páxines web
 
 ## General Section - Files and Applications
 
 download-header = Descargues
+download-save-to =
+    .label = Guardar ficheros en
+    .accesskey = G
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Escoyer…
+           *[other] Restolar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] l
+        }
 applications-type-column =
     .label = Mena de conteníu
     .accesskey = M
@@ -84,9 +103,16 @@ applications-action-column =
 
 ## General Section - Browsing
 
+browsing-title = Restolar
+browsing-use-autoscroll =
+    .label = Usar desplazamientu automáticu
+    .accesskey = d
 browsing-use-smooth-scrolling =
     .label = Usar desplazamientu sele
     .accesskey = l
+browsing-use-cursor-navigation =
+    .label = Usar siempre les tecles del cursor pa restolar dientro de les páxines
+    .accesskey = c
 
 ## General Section - Proxy
 
