@@ -52,30 +52,172 @@ restart-later = بعداْ راه‌اندازی مجدد شود
 ## General Section
 
 startup-header = راه‌اندازی
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = اجازه بده تا { -brand-short-name } و فایرفاکس همزمان اجرا شوند
+use-firefox-sync = نکته: این از یک نمایه جدا استفاده میکند. از همگام‌سازی برای اشتراک‌گذاری اطلاعات بین آنها استفاده کنید.
+get-started-not-logged-in = برای همگام‌سازی وارد { -sync-brand-short-name }…
+get-started-configured = باز کردن ترجیحات { -sync-brand-short-name }
+always-check-default =
+    .label = همیشه بررسی شود که آیا { -brand-short-name } مرورگر پیش‌فرض شما است یا خیر
+    .accesskey = ه
+is-default = { -brand-short-name } مرورگر همیشگی شماست
+is-not-default = { -brand-short-name } مرورگر پیش‌فرض شما نیست
+set-as-my-default-browser =
+    .label = تنظیم به عنوان پیش‌فرض…
+    .accesskey = پ
+startup-page = هنگام شروع { -brand-short-name }
+    .accesskey = s
+startup-user-homepage =
+    .label = نمایش صفحه آغازه
+startup-blank-page =
+    .label = نمایش یک صفحه خالی
+startup-prev-session =
+    .label = نمایش صفحات و زبانه‌های از آخرین دفعه
+home-page-header = نمایش صفحه آغازه
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] استفاده از صفحهٔ فعلی
+           *[other] استفاده از صفحهٔ فعلی
+        }
+    .accesskey = ف
+choose-bookmark =
+    .label = استفاده از نشانک…
+    .accesskey = ن
+restore-default =
+    .label = بازگرداندن به پیش‌فرض‌
+    .accesskey = ب
 tabs-group-header = زبانه‌ها
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab به ترتیب زبانه‌های اخیرا استفاده شده بین آنها حرکت می‌کند
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = در هنگام بستن بیش از یک زبانه هشدار داده شود
+    .accesskey = ب
+warn-on-open-many-tabs =
+    .label = در صورتی که باز کردن چند زبانه بتواند باعث کند کردن { -brand-short-name } بشود، به من هشدار بده
+    .accesskey = ک
+switch-links-to-new-tabs =
+    .label = هنگامی که یک پیوند را در زبانه جدید باز میکنم، بلافاصله آن زبانه نمایش داده شود
+    .accesskey = ه
 show-tabs-in-taskbar =
     .label = پیش‌نمایش زبانه‌ها در نوار وضعیت ویندوز
     .accesskey = ز
+browser-containers-enabled =
+    .label = فعال‌سازی زبانه‌های حامل
+    .accesskey = ع
+browser-containers-learn-more = اطلاعات بیشتر
+browser-containers-settings =
+    .label = تنظیمات…
+    .accesskey = ت
+containers-disable-alert-title = بستن تمام زبانه‌های حامل؟
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] اگر هم‌اکنون زبانه‌های حامل را غیرفعال کنید، { $tabCount } زبانه حامل بسته خواهد شد. آیا مطمئنید که می‌خواهید زبانه‌های حامل را غیرفعال کنید؟
+       *[other] اگر هم‌اکنون زبانه‌های حامل را غیرفعال کنید، { $tabCount } زبانه حامل بسته خواهند شد. آیا مطمئنید که می‌خواهید زبانه‌های حامل را غیرفعال کنید؟
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] بستن { $tabCount } زبانه حامل
+       *[other] بستن { $tabCount } زبانه حامل
+    }
+containers-disable-alert-cancel-button = فعال باقی بماند
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = زبان و ظاهر
+fonts-and-colors-header = قلم‌ها و رنگ‌ها
+default-font = قلم پیش‌فرض
+    .accesskey = D
+default-font-size = اندازه
+    .accesskey = ا
 advanced-fonts =
     .label = پیشرفته...
     .accesskey = پ
 colors-settings =
     .label = رنگها‌...
     .accesskey = ر
+language-header = زبان‌ها
 choose-language-description = زبان مورد علاقهٔ خود را برای نمایش صفحات انتخاب کنید
 choose-button =
     .label = انتخاب…
     .accesskey = ا
+translate-web-pages =
+    .label = ترجمه محتویات وب
+    .accesskey = ت
+translate-exceptions =
+    .label = استثناها…
+    .accesskey = س
+check-user-spelling =
+    .label = بررسی املا همزمان با نوشتن
+    .accesskey = ن
 
 ## General Section - Files and Applications
 
+files-and-applications-title = پرونده‌ها و برنامه‌ها
 download-header = بارگیری‌ها
+download-save-to =
+    .label = ذخیره پرونده در
+    .accesskey = ذ
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] انتخاب…
+           *[other] مرور…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ا
+           *[other] م
+        }
+download-always-ask-where =
+    .label = همیشه در مورد محل ذخیره سازی سوال شود
+    .accesskey = ه
+applications-header = برنامه‌ها
+applications-filter =
+    .placeholder = جست‌وجو نوعِ پرونده‌ها یا برنامه‌ها
+drm-content-header = محتوا مدیریت حقوق دیجیتال(DRM)
+play-drm-content =
+    .label = پخش محتوا کنترل شده-DRM
+    .accesskey = پ
+play-drm-content-learn-more = بیشتر بدانید
+update-application-title = بروزرسانی‌های { -brand-short-name }:
+update-application-info = نسخه{ $version } <a>امکانات جدید</a>
+update-history =
+    .label = نمایش تاریخچهٔ بروزرسانی…
+    .accesskey = ت
+update-application-allow-description = اجازه داده به { -brand-short-name } برای
+update-application-check-choose =
+    .label = وجود بروزرسانی‌ها را بررسی کن، اما به شما اجازه انتخاب برای نصب داده شود
+    .accesskey = و
+update-application-manual =
+    .label = هرگز برای بروزرسانی‌ها بررسی نکن (توصیه نمی‌شود)
+    .accesskey = ه
+update-application-use-service =
+    .label = از سرویس پس‌زمینه برای نصب بروزرسانی ها استفاده شود
+    .accesskey = پ
+update-enable-search-update =
+    .label = بطور خودکار موتورهای جست‌وجو بروزرسانی شوند
+    .accesskey = س
 
 ## General Section - Performance
 
+performance-title = کارایی
+performance-allow-hw-accel =
+    .label = استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود
+    .accesskey = ش
+performance-limit-content-process-option = محدودیت پروسهٔ محتوا
+    .accesskey = م
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (پیش‌فرض)
 
 ## General Section - Browsing
 
@@ -86,12 +228,19 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = استفاده از لغزش هموار
     .accesskey = غ
+browsing-use-onscreen-keyboard =
+    .label = نمایش یک صفحه‌کلید لمسی در صورت لزوم
+    .accesskey = ص
 browsing-use-cursor-navigation =
     .label = در مرور صفحات همیشه از مکان‌نما استفاده شود
     .accesskey = ص
+browsing-search-on-start-typing =
+    .label = هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جست‌وجو شود
+    .accesskey = ج
 
 ## General Section - Proxy
 
+network-proxy-title = شبکه پراکسی
 network-proxy-connection-settings =
     .label = تنظیمات…
     .accesskey = ت
