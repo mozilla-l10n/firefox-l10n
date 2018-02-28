@@ -36,8 +36,8 @@ sentence. -->
 <!ENTITY  getAttentionMac.label               "ხატულას ამოძრავება">
 <!ENTITY  getAttentionMac.accesskey           "ო">
 <!ENTITY  chatSound.accesskey                 "მ">
-<!ENTITY  chatSound.label                     "ხმოვანი სიგნალი">
-<!ENTITY  play.label                          "დაკვრა">
+<!ENTITY  chatSound.label                     "გახმოვანება">
+<!ENTITY  play.label                          "გახმოვანება">
 <!ENTITY  play.accesskey                      "დ">
 <!ENTITY  systemSound.label                   "წერილის მიღებისას სისტემის ნაგულისხმევი ხმოვანი სიგნალი">
 <!ENTITY  systemSound.accesskey               "ნ">
