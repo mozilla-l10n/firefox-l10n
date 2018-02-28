@@ -98,7 +98,7 @@
 <!ENTITY copyEmailCmd.accesskey       "s">
 <!ENTITY thisFrameMenu.label          "ეს ბლოკი">
 <!ENTITY thisFrameMenu.accesskey      "h">
-<!ENTITY mediaPlay.label              "დაკვრა">
+<!ENTITY mediaPlay.label              "გახმოვანება">
 <!ENTITY mediaPlay.accesskey          "P">
 <!ENTITY mediaPause.label             "პაუზა">
 <!ENTITY mediaPause.accesskey         "P">
