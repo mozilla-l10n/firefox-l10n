@@ -52,24 +52,50 @@ restart-later = Перазапусціць пазней
 ## General Section
 
 startup-header = Запуск
+use-firefox-sync = Падказка: для гэтага выкарыстоўваюцца асобныя профілі. Карыстайцеся { -sync-brand-short-name } для абмену дадзенымі паміж імі.
+get-started-not-logged-in = Увайсці ў { -sync-brand-short-name }…
+get-started-configured = Адкрыць налады { -sync-brand-short-name }
+startup-page = Пасля запуску { -brand-short-name }
+    .accesskey = а
+startup-user-homepage =
+    .label = паказваць вашу хатнюю старонку
+startup-blank-page =
+    .label = паказваць пустую старонку
+startup-prev-session =
+    .label = паказваць апошнія вокны і карткі
+home-page-header = паказваць вашу хатнюю старонку
 choose-bookmark =
     .label = Ужыць закладку…
     .accesskey = з
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Калі вы выключыце ўсе акенцы кантэйнера, будзе закрыта { $tabCount } картка кантэйнера. Вы сапраўды хочаце выключыць кантэйнер?
+        [few]  Калі вы выключыце ўсе акенцы кантэйнера, будуць закрыты { $tabCount } карткі кантэйнера. Вы сапраўды хочаце выключыць кантэйнер?
+       *[many]  Калі вы выключыце ўсе акенцы кантэйнера, будуць закрыты { $tabCount } картак кантэйнера. Вы сапраўды хочаце выключыць кантэйнер?
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Закрыць { $tabCount } картку ў кантэйнеры
         [few]  Закрыць { $tabCount } карткі ў кантэйнеры
        *[many]  Закрыць { $tabCount } картак у кантэйнеры
     }
+containers-disable-alert-cancel-button = Пакінуць уключанымі
 
 ## General Section - Language & Appearance
 
+default-font = Прадвызначаны шрыфт
+    .accesskey = П
+default-font-size = Памер
+    .accesskey = П
 colors-settings =
     .label = Колеры…
     .accesskey = К
 choose-button =
     .label = Выбраць…
     .accesskey = В
+check-user-spelling =
+    .label = Правяраць арфаграфію пад час набору
+    .accesskey = н
 
 ## General Section - Files and Applications
 
@@ -96,12 +122,32 @@ applications-action-column =
 
 ## General Section - Performance
 
+performance-title = Прадукцыйнасць
+performance-allow-hw-accel =
+    .label = Выкарыстоўваць, калі можна, апаратнае паскарэнне
+    .accesskey = н
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (прадвызначана)
 
 ## General Section - Browsing
 
+browsing-use-autoscroll =
+    .label = Выкарыстоўваць аўтаматычную пракрутку
+    .accesskey = с
+browsing-use-onscreen-keyboard =
+    .label = Паказваць экранную клавіятуру, калі неабходна
+    .accesskey = л
 browsing-use-cursor-navigation =
     .label = Заўсёды ўжываць клавішы-стрэлкі для перамяшчэння ў старонках
     .accesskey = с
+browsing-search-on-start-typing =
+    .label = Шукаць тэкст, калі вы пачынаеце набор
+    .accesskey = ч
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Налады…
+    .accesskey = л
