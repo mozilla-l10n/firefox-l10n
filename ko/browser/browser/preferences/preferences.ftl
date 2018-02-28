@@ -51,28 +51,64 @@ restart-later = 나중에 다시 시작
 
 ## General Section
 
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = { -brand-short-name }과 Firefox 같이 돌리기
+use-firefox-sync = 귀띔: 이렇게 하면 프로필을 따로 쓰게 됩니다. 동기화를 써서 데이터를 공유하십시오.
+always-check-default =
+    .label = { -brand-short-name }가 기본 브라우저인지 항상 확인
+    .accesskey = w
+is-default = 현재 { -brand-short-name }가 기본 브라우저입니다.
+is-not-default = { -brand-short-name }가 기본 브라우저가 아닙니다.
+tabs-group-header = 탭
 show-tabs-in-taskbar =
     .label = Windows 작업표시줄에 탭 미리 보기 표시
     .accesskey = k
+browser-containers-learn-more = 더 알아보기
+browser-containers-settings =
+    .label = 설정…
+    .accesskey = i
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = 글꼴과 색상
+default-font = 기본 글꼴
+    .accesskey = D
+default-font-size = 크기
+    .accesskey = S
 advanced-fonts =
     .label = 고급…
     .accesskey = A
 colors-settings =
     .label = 색상…
     .accesskey = C
+translate-web-pages =
+    .label = 웹 콘텐츠 번역하기
+    .accesskey = T
+translate-exceptions =
+    .label = 예외…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
+download-save-to =
+    .label = 저장 위치
+    .accesskey = v
+play-drm-content-learn-more = 더 알아보기
 update-application-use-service =
     .label = 업데이트 설치 시 백그라운드 작업으로 하기
     .accesskey = b
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = 하드웨어 가속이 가능하면 사용
+    .accesskey = r
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (기본값)
 
 ## General Section - Browsing
 
