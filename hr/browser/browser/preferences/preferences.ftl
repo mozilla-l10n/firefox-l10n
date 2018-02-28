@@ -198,6 +198,7 @@ play-drm-content =
     .accesskey = p
 play-drm-content-learn-more = Saznajte više
 update-application-title = { -brand-short-name } dopune
+update-application-description = Ažurirajte { -brand-short-name } kako bi imali najbolje preformanse, stabilnost i sigurnost.
 update-application-info = Inačica { $version } <a>Što je novo</a>
 update-history =
     .label = Prikaži povijest ažuriranja…
@@ -222,11 +223,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Performanse
+performance-use-recommended-settings-checkbox =
+    .label = Koriste preporučene postavke performansi
+    .accesskey = u
+performance-use-recommended-settings-desc = Ove postavke su skrojene za vaš hardver i operativni sustav.
+performance-settings-learn-more = Saznajte više
 performance-allow-hw-accel =
     .label = Koristi hardversku akceleraciju kad je moguće
     .accesskey = h
 performance-limit-content-process-option = Granice procesiranja sadržaja
     .accesskey = G
+performance-limit-content-process-enabled-desc = Dodatni procesi sadržaja mogu poboljšati performanse kada koristite više kartica, ali će koristiti i više memorije.
+performance-limit-content-process-disabled-desc = Izmjena broja procesa sadržaja je moguća samo s višeprocesnim { -brand-short-name }om. <a>Saznajte kako provjeriti da li je više procesa omogućeno.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
