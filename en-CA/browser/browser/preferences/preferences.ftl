@@ -51,6 +51,26 @@ restart-later = Restart Later
 
 ## General Section
 
+startup-header = Startup
+startup-blank-page =
+    .label = Show a blank page
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Use Current Page
+           *[other] Use Current Pages
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = Use Bookmark…
+    .accesskey = B
+restore-default =
+    .label = Restore to Default
+    .accesskey = R
 
 ## General Section - Language & Appearance
 
@@ -68,12 +88,30 @@ choose-button =
 
 ## General Section - Files and Applications
 
+download-header = Downloads
+download-save-to =
+    .label = Save files to
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Choose…
+           *[other] Browse…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
 applications-type-column =
     .label = Content Type
     .accesskey = T
 applications-action-column =
     .label = Action
     .accesskey = A
+update-application-use-service =
+    .label = Use a background service to install updates
+    .accesskey = b
 
 ## General Section - Performance
 
@@ -93,3 +131,6 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Settings…
+    .accesskey = S
