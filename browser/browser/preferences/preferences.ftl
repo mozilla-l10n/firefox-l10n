@@ -82,9 +82,16 @@ restore-default =
     .label = Restaurar valor por defecto
     .accesskey = R
 tabs-group-header = Pestañas
+ctrl-tab-recently-used-order =
+    .label = Ctrl + Tab recorre pestañas según su uso reciente
+    .accesskey = T
 show-tabs-in-taskbar =
     .label = Mostrar vista previa de las pestañás en la barra de tareas de Windows
     .accesskey = t
+browser-containers-enabled =
+    .label = Habilitar pestañas contenedoras
+    .accesskey = n
+browser-containers-learn-more = Saber más
 
 ## General Section - Language & Appearance
 
