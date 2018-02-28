@@ -177,8 +177,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> выкарыстоўвае тэхналогію бяспекі, якая састарэла і ўразлівая да атак. Зламыснік можа з лёгкасцю выкрыць звесткі, пра якія вы думаеце, што яны ў бяспецы. Адміністратар вэб-сайта мусіць выправіць гэты сервер, перш чым вы зможаце наведаць яго бяспечна.</p><p>Код памылкі: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Старонка заблакавана">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Доступ быў адключаны вашым адміністратарам.</p>">
+<!ENTITY blockedByPolicy.title "Заблакаваная старонка">
 
 <!ENTITY prefReset.longDesc "Выглядае, што выклікаць гэта маглі вашы налады сеткавай бяспекі. Хочаце скінуць налады да прадвызначаных?">
 <!ENTITY prefReset.label "Скінуць да прадвызначаных">
