@@ -60,6 +60,9 @@ choose-language-description = Хуудас харуулахад хэрэглэг
 choose-button =
     .label = Сонго…
     .accesskey = н
+translate-exceptions =
+    .label = Зөвшөөрөгдсөн хуудас
+    .accesskey = д
 
 ## General Section - Files and Applications
 
@@ -87,6 +90,9 @@ applications-action-column =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Хэрэв боломжтой бол техник хангамжын хурдасгуурыг ашиглах
+    .accesskey = r
 
 ## General Section - Browsing
 
