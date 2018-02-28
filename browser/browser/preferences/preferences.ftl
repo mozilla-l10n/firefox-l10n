@@ -82,9 +82,26 @@ restore-default =
     .label = Obnoviť predvolené
     .accesskey = O
 tabs-group-header = Karty
+ctrl-tab-recently-used-order =
+    .label = Prepínať karty pomocou Ctrl+Tab v poradí podľa posledného otvorenia
+    .accesskey = k
 show-tabs-in-taskbar =
     .label = Zobrazovať ukážky kariet v paneli úloh systému Windows
     .accesskey = Z
+containers-disable-alert-title = Zavrieť všetky kontajnerové karty?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Ak zakážete kontajnerové karty, { $tabCount } kontajnerová karta bude zatvorená. Naozaj chcete zakázať kontajnerové karty?
+        [few] Ak zakážete kontajnerové karty, { $tabCount } kontajnerové karty budú zatvorené. Naozaj chcete zakázať kontajnerové karty?
+       *[other] Ak zakážete kontajnerové karty, { $tabCount } kontajnerových kariet bude zatvorených. Naozaj chcete zakázať kontajnerové karty?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Zavrieť { $tabCount } kontajnerovú kartu
+        [few] Zavrieť { $tabCount } kontajnerové karty
+       *[other] Zavrieť { $tabCount } kontajnerových kariet
+    }
+containers-disable-alert-cancel-button = Nechať povolené
 
 ## General Section - Language & Appearance
 
@@ -95,6 +112,10 @@ advanced-fonts =
 colors-settings =
     .label = Farby…
     .accesskey = F
+choose-language-description = Vybrať jazyky pre zobrazovanie webových stránok
+choose-button =
+    .label = Vybrať…
+    .accesskey = V
 translate-web-pages =
     .label = Prekladať webový obsah do iného jazyka
     .accesskey = r
