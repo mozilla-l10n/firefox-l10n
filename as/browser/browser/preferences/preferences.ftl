@@ -32,6 +32,8 @@ should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
 ## General Section
 
 startup-header = আৰম্ভণি
+is-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ
+is-not-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ নহয়
 startup-blank-page =
     .label = ৰিক্ত পৃষ্ঠা দেখুৱাওক
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -58,6 +60,7 @@ show-tabs-in-taskbar =
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = আখৰ আৰু ৰং
 advanced-fonts =
     .label = উন্নত…
     .accesskey = A
@@ -68,6 +71,12 @@ choose-language-description = পৃষ্ঠা প্ৰদৰ্শনৰ ব
 choose-button =
     .label = বাছক…
     .accesskey = o
+translate-web-pages =
+    .label = ৱেবৰ সমল অনুবাদ কৰক
+    .accesskey = T
+translate-exceptions =
+    .label = ব্যতিক্ৰমসমূহ…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
@@ -98,6 +107,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = যেতিয়া উপলব্ধ তেতিয়া হাৰ্ডৱেৰ ত্বৰণ ব্যৱহাৰ কৰক
+    .accesskey = r
 
 ## General Section - Browsing
 
