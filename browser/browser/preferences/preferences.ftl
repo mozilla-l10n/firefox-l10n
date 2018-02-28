@@ -34,21 +34,64 @@ should-restart-title = Рестарирај го { -brand-short-name }
 
 ## General Section
 
+startup-header = Стартување
+startup-blank-page =
+    .label = Прикажи празна страница
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Вчитана страница
+           *[other] Сите вчитани
+        }
+    .accesskey = и
+restore-default =
+    .label = Основна страница
+    .accesskey = р
+show-tabs-in-taskbar =
+    .label = Покажувај преглед на јазичињата во лентата со задачи на Windows
+    .accesskey = к
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Фонтови и бои
+advanced-fonts =
+    .label = Напредно…
+    .accesskey = Н
+colors-settings =
+    .label = Бои…
+    .accesskey = Б
 
 ## General Section - Files and Applications
 
+download-header = Преземања
 download-save-to =
     .label = Снимај ги датотеките во
     .accesskey = м
+applications-type-column =
+    .label = Тип на содржина
+    .accesskey = Т
+update-application-use-service =
+    .label = Користи позадински сервис за да се инсталираат надградби
+    .accesskey = б
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-use-autoscroll =
+    .label = Автоматско лизгање
+    .accesskey = А
+browsing-use-smooth-scrolling =
+    .label = Мазно лизгање
+    .accesskey = М
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Поставки…
+    .accesskey = с
