@@ -8,7 +8,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ఎల్లప్పుడూ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ఎంపికలు
            *[other] అభిరుచులు
         }
@@ -45,5 +46,25 @@ feature-enable-requires-restart = ఈ విశేషణం చేతనం చ�
 feature-disable-requires-restart = ఈ విశేషణం అచేతనం చేయుటకు { -brand-short-name } ను తప్పక పునఃప్రారంభించాలి.
 should-restart-title = { -brand-short-name } పునఃప్రారంభించు
 should-restart-ok = ఇప్పుడు { -brand-short-name } ను పునఃప్రారంభించు
-revert-no-restart-button = రద్దుచేయి
 restart-later = తరువాత పునఃప్రారంభించు
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+applications-action-column =
+    .label = చర్య
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
