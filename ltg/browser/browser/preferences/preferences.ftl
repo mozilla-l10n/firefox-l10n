@@ -51,16 +51,82 @@ restart-later = Puorstarteit vāluok
 
 ## General Section
 
+startup-header = Palaišona
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Ļaut { -brand-short-name } i Firefox dorbuotīs vīnlaiceigi
 use-firefox-sync = Tip: This uses separate profiles. Use { -sync-brand-short-name } to share data between them.
+always-check-default =
+    .label = Vīnmār puorbaudeit voi { -brand-short-name } ir nūkluseitais puorlūks
+    .accesskey = t
+is-default = { -brand-short-name } itūbreid ir jiusu nūkluseitais puorlūks
+is-not-default = { -brand-short-name } itūbreid nav jiusu nūkluseitais puorlūks
+startup-blank-page =
+    .label = Paruodeit tukšu lopu
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Lītuot pošreizejū lopu
+           *[other] Lītuot pošreizejuos lopys
+        }
+    .accesskey = L
+choose-bookmark =
+    .label = Lītuot gruomotzeimi…
+    .accesskey = g
+tabs-group-header = Cilnes
+show-tabs-in-taskbar =
+    .label = Ruodeit ciļņu bildeitis Windows palūdzī
+    .accesskey = R
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Fonti i kruosys
+advanced-fonts =
+    .label = Īstatiejumi...
+    .accesskey = a
+colors-settings =
+    .label = Kruosys...
+    .accesskey = K
+choose-language-description = Izavielit vālamū volūdu, kaidā attāluot lopys
+choose-button =
+    .label = Izavieleit...
+    .accesskey = v
 translate-web-pages =
     .label = Translate web content
     .accesskey = T
+translate-exceptions =
+    .label = Izjāmumi…
+    .accesskey = z
 
 ## General Section - Files and Applications
 
+download-header = Lejupīluodes
+download-save-to =
+    .label = Vīta, kur saglobuot failus:
+    .accesskey = k
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Izavielit...
+           *[other] Puorsavērt...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+applications-type-column =
+    .label = Satura tips
+    .accesskey = t
+applications-action-column =
+    .label = Darbeiba
+    .accesskey = a
+play-drm-content-learn-more = Uzzynojit vairuok
 
 ## General Section - Performance
 
