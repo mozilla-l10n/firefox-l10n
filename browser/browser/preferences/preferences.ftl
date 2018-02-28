@@ -51,20 +51,36 @@ restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 
 ## General Section
 
+startup-header = ಆರಂಭಿಕ
 startup-blank-page =
     .label = ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] ಈಗಿನ ಪುಟವನ್ನು ಬಳಸು
+           *[other] ಈಗಿನ ಪುಟಗಳನ್ನು ಬಳಸು 
+        }
+    .accesskey = C
 choose-bookmark =
     .label = ಪುಟಗುರುತನ್ನು ಬಳಸು…
     .accesskey = B
 restore-default =
     .label = ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರಳಿಸು
     .accesskey = R
+tabs-group-header = ಟ್ಯಾಬ್‌ಗಳು
 show-tabs-in-taskbar =
     .label = ಹಾಳೆಗಳ ಮುನ್ನೋಟವನ್ನು ವಿಂಡೋಸ್ ಕಾರ್ಯಪಟ್ಟಿಕೆಯಲ್ಲಿ ತೋರಿಸು
     .accesskey = k
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = ಮುಂದುವರೆದ...
+    .accesskey = A
 colors-settings =
     .label = ಬಣ್ಣಗಳು...
     .accesskey = C
