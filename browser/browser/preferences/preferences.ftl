@@ -51,12 +51,21 @@ restart-later = Pārstartēt vēlāk
 
 ## General Section
 
+is-default = { -brand-short-name } šobrīd ir jūsu noklusētais pārlūks
+is-not-default = { -brand-short-name } šobrīd nav jūsu noklusētais pārlūks
+tabs-group-header = Cilnes
 
 ## General Section - Language & Appearance
 
+translate-web-pages =
+    .label = Tulkot tīmekļa saturu
+    .accesskey = T
 
 ## General Section - Files and Applications
 
+download-save-to =
+    .label = Vieta, kur saglabāt failus:
+    .accesskey = k
 
 ## General Section - Performance
 
