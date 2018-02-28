@@ -16,3 +16,30 @@ close-button =
 
 ## Browser Restart Dialog
 
+
+## General Section
+
+tabs-group-header = Emathebhu
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Tinhlobo & Imibala
+colors-settings =
+    .label = Imibala…
+    .accesskey = I
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Tfunguluta
+browsing-use-smooth-scrolling =
+    .label = Sebentisa kugicika lokushelelako
+    .accesskey = s
+
+## General Section - Proxy
+
