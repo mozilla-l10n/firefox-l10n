@@ -51,18 +51,36 @@ restart-later = Reiniciar más tarde
 
 ## General Section
 
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Permitir a { -brand-short-name } y Firefox ejecutarse al mismo tiempo
+tabs-group-header = Pestañas
 
 ## General Section - Language & Appearance
 
+translate-web-pages =
+    .label = Traducir contenido web
+    .accesskey = T
+translate-exceptions =
+    .label = Excepciones…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
+download-save-to =
+    .label = Guardar archivos en
+    .accesskey = v
+play-drm-content-learn-more = Aprender más
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-use-onscreen-keyboard =
+    .label = Mostrar un teclado en pantalla cuando sea necesario
+    .accesskey = k
 
 ## General Section - Proxy
 
