@@ -32,6 +32,7 @@ should-restart-title = Thoma { -brand-short-name } ka leswa
 ## General Section
 
 startup-header = Thoma
+is-default = { -brand-short-name } gona bjale ke praosara ya gago ya tirelwa
 startup-blank-page =
     .label = Laetša letlakala le se nago selo
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -51,6 +52,7 @@ choose-bookmark =
 restore-default =
     .label = Bušetša go tirelwa
     .accesskey = B
+tabs-group-header = Dithepe
 show-tabs-in-taskbar =
     .label = Laetša ditebelelopele tša thepo go thasekepaa ya Windows
     .accesskey = k
@@ -67,6 +69,9 @@ choose-language-description = Kgetha leleme leo o le kganyogago la go bontšha m
 choose-button =
     .label = Kgetha…
     .accesskey = g
+translate-exceptions =
+    .label = Tše sa akaretšwego…
+    .accesskey = k
 
 ## General Section - Files and Applications
 
@@ -97,6 +102,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Diriša kgatelelo ya hatewere ge e le gona
+    .accesskey = r
 
 ## General Section - Browsing
 
