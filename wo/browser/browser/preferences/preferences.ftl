@@ -40,6 +40,9 @@ use-current-pages =
            *[other] Xët yiy daw
         }
     .accesskey = X
+choose-bookmark =
+    .label = Mandarga xët...
+    .accesskey = M
 show-tabs-in-taskbar =
     .label = Wone seenub koñ yi ci banqaasu sas bu windows
     .accesskey = n
