@@ -57,6 +57,11 @@ startup-header = 启动
 separate-profile-mode =
     .label = 允许 { -brand-short-name } 和 Firefox 同时运行
 use-firefox-sync = 提示：这将使用单独的配置文件。使用“同步”在它们之间同步数据。
+always-check-default =
+    .label = 始终检查 { -brand-short-name } 是否是您的默认浏览器
+    .accesskey = w
+is-default = { -brand-short-name } 目前是您的默认浏览器
+is-not-default = { -brand-short-name } 目前不是您的默认浏览器
 startup-blank-page =
     .label = 显示空白页
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -115,6 +120,9 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+applications-type-column =
+    .label = 内容类型
+    .accesskey = T
 play-drm-content-learn-more = 详细了解
 update-application-use-service =
     .label = 使用一项系统服务以静默安装更新
