@@ -128,6 +128,8 @@ containers-disable-alert-cancel-button = Tetap aktifkan
 fonts-and-colors-header = Huruf & Warna
 default-font = Fon baku
     .accesskey = B
+default-font-size = Ukuran
+    .accesskey = U
 advanced-fonts =
     .label = Canggih…
     .accesskey = g
@@ -169,6 +171,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = Tanyakan selalu tempat menyimpan berkas
     .accesskey = T
+applications-header = Aplikasi
+applications-description = Pilih cara { -brand-short-name } menangani berkas yang Anda unduh dari Web atau aplikasi yang Anda gunakan saat menjelajah.
+applications-filter =
+    .placeholder = Cari jenis berkas atau aplikasi
 applications-type-column =
     .label = Tipe Isi
     .accesskey = T
@@ -186,9 +192,16 @@ update-application-info = Versi { $version } <a>Yang baru</a>
 update-history =
     .label = Tampilkan Riwayat Pemutakhiran…
     .accesskey = P
+update-application-allow-description = Izinkan { -brand-short-name } untuk
 update-application-auto =
     .label = Secara otomatis memasang pemutakhiran (disarankan)
     .accesskey = S
+update-application-check-choose =
+    .label = Periksa pemutakhiran, biarkan saya memilih memasangnya atau tidak
+    .accesskey = C
+update-application-manual =
+    .label = Jangan pernah memeriksa pemutakhiran (tidak disarankan)
+    .accesskey = J
 update-application-use-service =
     .label = Gunakan layanan latar belakang untuk memasang pemutakhiran
     .accesskey = l
@@ -211,6 +224,10 @@ performance-limit-content-process-option = Batas proses konten
     .accesskey = P
 performance-limit-content-process-enabled-desc = Proses konten tambahan dapat meningkatkan performa ketika menggunakan multipel tab, tetapi juga akan menggunakan lebih banyak memori.
 performance-limit-content-process-disabled-desc = Memodifikasi jumlah proses konten hanya bisa dengan multiproses { -brand-short-name }. <a>Pelajari cara mengecek jika multiproses diaktifkan</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (baku)
 
 ## General Section - Browsing
 
@@ -233,6 +250,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = Pelajari lebih lanjut
 network-proxy-connection-settings =
     .label = Setelan…
     .accesskey = S
