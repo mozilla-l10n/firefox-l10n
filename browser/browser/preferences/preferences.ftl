@@ -62,6 +62,7 @@ choose-bookmark =
 restore-default =
     .label = පෙරනිමිය
     .accesskey = R
+tabs-group-header = ටැබ්
 show-tabs-in-taskbar =
     .label = ටැබ් පෙරදසුන් වින්ඩෝස් ටාස්ක්බාරය (Windows taskbar) තුළ පෙන්වන්න
     .accesskey = k
