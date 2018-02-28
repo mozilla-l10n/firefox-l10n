@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sempre
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Optiones
            *[other] Preferentias
         }
@@ -46,5 +47,220 @@ feature-enable-requires-restart = { -brand-short-name } tu debe reinitiar pro ac
 feature-disable-requires-restart = { -brand-short-name } tu debe reinitiar pro inactivar iste functionalitate.
 should-restart-title = Reinitiar { -brand-short-name }
 should-restart-ok = Reinitiar { -brand-short-name } ora
-revert-no-restart-button = Reverter
 restart-later = Reinitiar depois
+
+## General Section
+
+startup-header = A initiar
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Permitter que { -brand-short-name } e Firefox exeque al mesme tempore
+use-firefox-sync = Consilio: Profilos distincte es utilisate. Usa { -sync-brand-short-name } pro compartir datos inter illos.
+get-started-not-logged-in = Connecter se a { -sync-brand-short-name }…
+get-started-configured = Aperir le preferentias de { -sync-brand-short-name }
+always-check-default =
+    .label = Sempre verificar si { -brand-short-name } es tu navigator predefinite
+    .accesskey = S
+is-default = { -brand-short-name } es actualmente tu navigator predefinite
+is-not-default = { -brand-short-name } non es tu navigator predefinite
+set-as-my-default-browser =
+    .label = Predefinir…
+    .accesskey = D
+startup-page = Quando { -brand-short-name } es initiate
+    .accesskey = i
+startup-user-homepage =
+    .label = Monstra tu pagina initial
+startup-blank-page =
+    .label = Monstra un pagina vacue
+startup-prev-session =
+    .label = Monstra le fenestras e schedas de tu ultime vice
+disable-extension =
+    .label = Inactivar le extension
+home-page-header = Monstra tu pagina initial
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar le pagina actual
+           *[other] Usar le paginas actual
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = Usar un marcapaginas…
+    .accesskey = m
+restore-default =
+    .label = Restaurar le predefinition
+    .accesskey = R
+tabs-group-header = Schedas
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab percurre le schedas in le ordine usate recentemente
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Advertir te quando tu claude multiple schedas
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Advertir te quando tu aperi multiple schedas que illo pote facer { -brand-short-name } devenir lente
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Quando tu aperi un ligamine in un nove scheda, commutar a illo immediatemente
+    .accesskey = h
+show-tabs-in-taskbar =
+    .label = Monstrar vistas preliminar del schedas in le barra de cargas de Windows
+    .accesskey = v
+browser-containers-enabled =
+    .label = Activar le schedas contextual
+    .accesskey = n
+browser-containers-learn-more = Saper plus
+browser-containers-settings =
+    .label = Parametros…
+    .accesskey = P
+containers-disable-alert-title = Clauder tote le schedas contextual?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Si tu inactiva le schedas contextual ora, { $tabCount } scheda contextual essera claudite. Desira tu vermente inactivar le schedas contextual?
+       *[other] Si tu inactiva le schedas contextual ora, { $tabCount } schedas contextual essera claudite. Desira tu vermente inactivar le schedas contextual?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Clauder { $tabCount } scheda contextual
+       *[other] Clauder { $tabCount } schedas contextual
+    }
+containers-disable-alert-cancel-button = Mantener active
+
+## General Section - Language & Appearance
+
+language-and-appearance-header = Lingua e apparentia
+fonts-and-colors-header = Typos de character e colores
+default-font = Typo predefinite
+    .accesskey = D
+default-font-size = Dimension
+    .accesskey = S
+advanced-fonts =
+    .label = Avantiate…
+    .accesskey = A
+colors-settings =
+    .label = Colores…
+    .accesskey = C
+language-header = Lingua
+choose-language-description = Elige tu lingua preferite pro presentar le paginas
+choose-button =
+    .label = Eliger…
+    .accesskey = E
+translate-web-pages =
+    .label = Traducer le contento web
+    .accesskey = T
+translate-exceptions =
+    .label = Exceptiones…
+    .accesskey = x
+check-user-spelling =
+    .label = Verificar le orthographia durante que tu scribe
+    .accesskey = t
+
+## General Section - Files and Applications
+
+files-and-applications-title = Files e applicationes
+download-header = Discargamentos
+download-save-to =
+    .label = Salvar le files in
+    .accesskey = S
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Eliger…
+           *[other] Perquirer…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] P
+        }
+download-always-ask-where =
+    .label = Sempre questionar ubi salvar le files
+    .accesskey = q
+applications-header = Applicationes
+applications-description = Elige como { -brand-short-name } manipula le files que tu discarga ab le web o le applicationes que tu usa durante que tu naviga.
+applications-filter =
+    .placeholder = Cercar typos de files o de applicationes
+applications-type-column =
+    .label = Typo de contento
+    .accesskey = T
+applications-action-column =
+    .label = Action
+    .accesskey = A
+drm-content-header = Contento protegite per DRM (Gestion de Derectos Digital)
+play-drm-content =
+    .label = Leger contento protegite per DRM
+    .accesskey = P
+play-drm-content-learn-more = Saper plus
+update-application-title = Actualisationes de { -brand-short-name }
+update-application-description = Mantene { -brand-short-name } actualisate pro le melior rendimento, stabilitate e securitate.
+update-application-info = Version { $version } <a>Novitates</a>
+update-history =
+    .label = Monstrar le chronologia de actualisationes…
+    .accesskey = M
+update-application-allow-description = Permitter { -brand-short-name } a
+update-application-auto =
+    .label = Installar le actualisationes automaticamente (recommendate)
+    .accesskey = A
+update-application-check-choose =
+    .label = Recercar actualisationes ma permitter que tu decide si tu los installara
+    .accesskey = C
+update-application-manual =
+    .label = Non recercar jammais actualisationes (non recommendate)
+    .accesskey = N
+update-application-use-service =
+    .label = Usar un servicio in secunde plano pro installar le actualisationes
+    .accesskey = s
+update-enable-search-update =
+    .label = Actualisar automaticamente le motores de recerca
+    .accesskey = e
+
+## General Section - Performance
+
+performance-title = Rendimento
+performance-use-recommended-settings-checkbox =
+    .label = Usar le parametros de rendimento recommendate
+    .accesskey = U
+performance-use-recommended-settings-desc = Iste parametros es adaptate al hardware e al systema operative de tu computator.
+performance-settings-learn-more = Saper plus
+performance-allow-hw-accel =
+    .label = Usar le acceleration de hardware quando disponibile
+    .accesskey = r
+performance-limit-content-process-option = Limite de processos de contento
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Plus processos de contento pote meliorar le rendimento quando on usa plure schedas. ma tamben illos usa plus memoria.
+performance-limit-content-process-disabled-desc = Modificar le numero de processos de contento es solmente possibile con { -brand-short-name } in multiprocesso. <a>Apprender a verificar si le multiprocesso es active</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (predefinite)
+
+## General Section - Browsing
+
+browsing-title = Navigante
+browsing-use-autoscroll =
+    .label = Usar le rolamento automatic
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Usar le rolamento suave
+    .accesskey = s
+browsing-use-onscreen-keyboard =
+    .label = Monstrar un claviero tactile quando necessari
+    .accesskey = M
+browsing-use-cursor-navigation =
+    .label = Sempre usar le claves con le flechas directional pro navigar intra le paginas
+    .accesskey = c
+browsing-search-on-start-typing =
+    .label = Cercar le texto quando tu comencia a scriber
+    .accesskey = x
+
+## General Section - Proxy
+
+network-proxy-title = Proxy de rete
+network-proxy-connection-settings =
+    .label = Parametros…
+    .accesskey = e
