@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Zawsze
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opcje
            *[other] Preferencje
         }
@@ -46,5 +47,26 @@ feature-enable-requires-restart = Konieczne jest ponowne uruchomienie programu {
 feature-disable-requires-restart = Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby wyłączyć tę funkcję.
 should-restart-title = Ponowne uruchamianie programu { -brand-short-name }
 should-restart-ok = Uruchom ponownie
-revert-no-restart-button = Anuluj zmiany
 restart-later = Później
+
+## General Section
+
+startup-header = Uruchamianie
+startup-blank-page =
+    .label = wyświetl pustą stronę
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Przeglądanie
+
+## General Section - Proxy
+
