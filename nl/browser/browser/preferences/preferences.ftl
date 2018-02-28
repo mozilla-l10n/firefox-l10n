@@ -173,6 +173,7 @@ drm-content-header = Digital Rights Management (DRM)-inhoud
 play-drm-content =
     .label = DRM-beheerde inhoud afspelen
     .accesskey = D
+play-drm-content-learn-more = Meer info
 update-application-title = { -brand-short-name }-updates
 update-application-description = Houd { -brand-short-name } up-to-date voor de beste prestaties, stabiliteit en beveiliging.
 update-application-info = Versie { $version } <a>Wat is er nieuw</a>
