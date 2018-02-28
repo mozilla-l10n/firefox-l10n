@@ -30,6 +30,7 @@ should-restart-title = Ddamu otandike { -brand-short-name }
 ## General Section
 
 startup-header = Entandika
+is-default = { -brand-short-name } ye'nonyeso yo eyenkalakalira kakati
 startup-blank-page =
     .label = Laga omuko omweerere
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -49,12 +50,14 @@ choose-bookmark =
 restore-default =
     .label = Zaawo Ebyenkalakalira
     .accesskey = Z
+tabs-group-header = Awaddirira
 show-tabs-in-taskbar =
     .label = Laga okunnoza awaddirira ku kabawo ke ebikola
     .accesskey = k
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Enukuta ne Langi
 advanced-fonts =
     .label = Ekisukkulumu…
     .accesskey = l
@@ -65,6 +68,9 @@ choose-language-description = Londako olulimi lwoyagala okulabiramu emiko
 choose-button =
     .label = Londako…
     .accesskey = d
+translate-exceptions =
+    .label = Ebyawufu…
+    .accesskey = b
 
 ## General Section - Files and Applications
 
@@ -95,6 +101,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Kozesa okwanguya kwe ebyuma wekubanga wekuli
+    .accesskey = u
 
 ## General Section - Browsing
 
