@@ -43,18 +43,61 @@ restart-later = Qalisa ngokutsha Kamva
 
 ## General Section
 
+startup-header = Qalisa
+startup-blank-page =
+    .label = Bonisa ikhasi elingenanto
 
 ## General Section - Language & Appearance
 
+colors-settings =
+    .label = Imibala…
+    .accesskey = I
+choose-button =
+    .label = Khetha…
+    .accesskey = e
 
 ## General Section - Files and Applications
 
+download-header = Okukhutshelwayo
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Khetha…
+           *[other] Bhrwuza…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] a
+           *[other] w
+        }
+applications-type-column =
+    .label = Udidi lomxholo
+    .accesskey = l
+applications-action-column =
+    .label = Inyathelo
+    .accesskey = I
+update-application-use-service =
+    .label = Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo
+    .accesskey = y
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Ukubhrawuza
+browsing-use-autoscroll =
+    .label = Sebenzisa ukusikrola ngokuzenzekelayo
+    .accesskey = u
+browsing-use-smooth-scrolling =
+    .label = Sebenzisa ukuhambahamba kokubhaliweyo okugudileyo
+    .accesskey = g
+browsing-use-cursor-navigation =
+    .label = Sebenzisa qho amaqhosha ekheza ukufunisela kumakhasi
+    .accesskey = a
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Isetingi…
+    .accesskey = e
