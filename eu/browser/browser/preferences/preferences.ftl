@@ -51,18 +51,96 @@ restart-later = Berrabiarazi geroago
 
 ## General Section
 
+startup-header = Abioa
+use-firefox-sync = Aholkua: bereizitako profilak erabiltzen ditu honek. Erabili { -sync-brand-short-name } hauen artean datuak partekatzeko.
+is-default = { -brand-short-name } nabigatzaile lehenetsia da une honetan
+is-not-default = { -brand-short-name } ez da zure nabigatzaile lehenetsia
+startup-blank-page =
+    .label = Erakutsi orri hutsa
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Erabili uneko orria
+           *[other] Erabili uneko orriak
+        }
+    .accesskey = u
+choose-bookmark =
+    .label = Erabili laster-marka…
+    .accesskey = b
+restore-default =
+    .label = Berrezarri lehenetsiak
+    .accesskey = r
+tabs-group-header = Fitxak
+show-tabs-in-taskbar =
+    .label = Erakutsi fitxen aurrebistak Windowseko ataza-barran
+    .accesskey = z
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Letra-tipoak eta koloreak
+advanced-fonts =
+    .label = Aurreratua…
+    .accesskey = u
+colors-settings =
+    .label = Koloreak…
+    .accesskey = o
+choose-language-description = Aukeratu orriak bistaratzeko hizkuntza hobetsia
+choose-button =
+    .label = Aukeratu…
+    .accesskey = A
+translate-web-pages =
+    .label = Itzuli webeko edukia
+    .accesskey = I
+translate-exceptions =
+    .label = Salbuespenak…
+    .accesskey = S
 
 ## General Section - Files and Applications
 
+download-header = Deskargak
+download-save-to =
+    .label = Gorde fitxategiak hemen: 
+    .accesskey = G
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Aukeratu…
+           *[other] Arakatu…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] A
+        }
+applications-type-column =
+    .label = Eduki mota
+    .accesskey = t
+applications-action-column =
+    .label = Ekintza
+    .accesskey = E
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Nabigatzea
+browsing-use-autoscroll =
+    .label = Erabili korritze automatikoa
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Erabili korritze leuna
+    .accesskey = u
+browsing-use-cursor-navigation =
+    .label = Erabili beti kurtsore-teklak orriak nabigatzeko
+    .accesskey = k
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Ezarpenak…
+    .accesskey = E
