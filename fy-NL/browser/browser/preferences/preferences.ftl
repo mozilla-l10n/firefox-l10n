@@ -76,6 +76,7 @@ choose-bookmark =
 
 ## General Section - Files and Applications
 
+play-drm-content-learn-more = Mear ynfo
 
 ## General Section - Performance
 
