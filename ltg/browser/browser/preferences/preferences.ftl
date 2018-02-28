@@ -79,9 +79,18 @@ choose-bookmark =
     .label = Lītuot gruomotzeimi…
     .accesskey = g
 tabs-group-header = Cilnes
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab cycles through tabs in recently used order
+    .accesskey = T
 show-tabs-in-taskbar =
     .label = Ruodeit ciļņu bildeitis Windows palūdzī
     .accesskey = R
+browser-containers-enabled =
+    .label = Enable Container Tabs
+    .accesskey = n
+browser-containers-learn-more = Uzzynojit vairuok
+containers-disable-alert-title = Close All Container Tabs?
+containers-disable-alert-cancel-button = Patureit aktivātu
 
 ## General Section - Language & Appearance
 
@@ -127,15 +136,31 @@ applications-action-column =
     .label = Darbeiba
     .accesskey = a
 play-drm-content-learn-more = Uzzynojit vairuok
+update-application-use-service =
+    .label = Instaleit atjaunynuojumus fonā
+    .accesskey = f
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Puorlūkuošona
+browsing-use-autoscroll =
+    .label = Lītuot autorytynuošonu
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Lītuot plyudenū rytynuošonu
+    .accesskey = L
 browsing-use-onscreen-keyboard =
     .label = Show a touch keyboard when necessary
+    .accesskey = k
+browsing-use-cursor-navigation =
+    .label = Vīnmār izmantuot kursora tausteņus, kab puorvītuotūs pa lopom
     .accesskey = k
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Īstatiejumi...
+    .accesskey = e
