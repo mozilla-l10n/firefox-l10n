@@ -3,3 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -sync-brand-short-name = ಸಿಂಕ್
+# “Sync” can be localized, “Firefox” must be treated as a brand,
+# and kept in English.
+-sync-brand-name = Firefox ಸಿಂಕ್
