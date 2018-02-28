@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = دائمًا
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] الخيارات
            *[other] التفضيلات
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = يجب إعادة تشغيل { -brand-short-na
 feature-disable-requires-restart = يجب إعادة تشغيل { -brand-short-name } لتعطيل هذه الخاصية.
 should-restart-title = أعِد تشغيل { -brand-short-name }
 should-restart-ok = أعد تشغيل { -brand-short-name } الآن
-revert-no-restart-button = تراجع
 restart-later = أعِد التشغيل لاحقًا
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
