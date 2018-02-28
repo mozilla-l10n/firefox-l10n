@@ -51,28 +51,71 @@ restart-later = പിന്നീട് പുനരാരംഭിക്കു
 
 ## General Section
 
+startup-header = തുടക്കം
+startup-blank-page =
+    .label = ഒരു ശൂന്യമായ താള്‍ കാണിക്കുക 
 choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
+show-tabs-in-taskbar =
+    .label = ജാലകത്തിന്റെ റ്റാസ്ക് ബാറില്‍ റ്റാബ്  തിരനോട്ടം (പ്രിവ്യൂ) കാണിയ്ക്കുക
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = സങ്കീര്‍ണ്ണമായവ...
+    .accesskey = A
 choose-language-description = താളുകള്‍ക്കുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക
+choose-button =
+    .label = തെരഞ്ഞെടുക്കുക…
+    .accesskey = o
 
 ## General Section - Files and Applications
 
+download-header = ഡൌണ്‍ലോഡുകള്‍
+download-save-to =
+    .label = ഫയലുകള്‍ ഇവിടെ സൂക്ഷിക്കുക
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] തിരഞ്ഞെടുക്കുക 
+           *[other] തിരയുക
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
 applications-type-column =
     .label = ഏതു് തരത്തിലുള്ള ഉള്ളടക്കം
     .accesskey = T
 applications-action-column =
     .label = പ്രവര്‍ത്തി
     .accesskey = A
+update-application-use-service =
+    .label = പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഒരു പശ്ചാത്തല സര്‍വീസ് ഉപയോഗിയ്ക്കുക
+    .accesskey = b
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു 
+browsing-use-autoscroll =
+    .label = ഓട്ടോ സ്ക്രോളിംങ് ഉപയോഗിക്കുക 
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = സുഖമമായ സ്ക്രോളിംങ് ഉപയോഗിക്കുക 
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = താളുകള്‍ക്കുള്ളില്‍ നീങ്ങുവാന്‍ കഴ്‌സര്‍ കീ ഉപയോഗിക്കുക
+    .accesskey = c
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = ക്രമീകരണങ്ങള്‍ 
+    .accesskey = e
