@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Միշտ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Կարգավորումներ
            *[other] Կարգավորումներ
         }
@@ -46,5 +47,28 @@ feature-enable-requires-restart = Այս հնարավորությունը միա
 feature-disable-requires-restart = Այս հնարավորությունը անջատելու համար վերաբացեք { -brand-short-name }-ը:
 should-restart-title = Վերամեկնարկել { -brand-short-name }-ը
 should-restart-ok = Վերամեկնարկել { -brand-short-name }-ը
-revert-no-restart-button = Հետադարձել
 restart-later = Վերամեկնարկել հետո
+
+## General Section
+
+restore-default =
+    .label = Վերականգնել լռելայնը
+    .accesskey = Վ
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+applications-action-column =
+    .label = Գործողություն
+    .accesskey = Գ
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
