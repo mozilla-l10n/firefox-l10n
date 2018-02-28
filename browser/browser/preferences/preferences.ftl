@@ -57,11 +57,14 @@ startup-header = Starto
 separate-profile-mode =
     .label = Permesi ke { -brand-short-name } kaj Firefox funkciu samtempe
 use-firefox-sync = Konsileto: tio ĉi uzas apartajn profilojn. Uzu Speguli por dividi datumojn inter ili.
+get-started-not-logged-in = Komenci seancon en { -sync-brand-short-name }…
 always-check-default =
     .label = Ĉiam kontroli ĉu { -brand-short-name } estas via ĉefa retumilo
     .accesskey = i
 is-default = { -brand-short-name } estas nuntempe via ĉefa retumilo
 is-not-default = { -brand-short-name } ne estas via ĉefa retumilo
+startup-page = Kiam { -brand-short-name } startas
+    .accesskey = s
 startup-user-homepage =
     .label = Montri vian ekan paĝon
 startup-blank-page =
@@ -125,6 +128,10 @@ containers-disable-alert-cancel-button = Teni ŝaltita
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Tiparoj kaj koloroj
+default-font = Norma tiparo
+    .accesskey = o
+default-font-size = Grando
+    .accesskey = G
 advanced-fonts =
     .label = Spertula…
     .accesskey = t
@@ -165,6 +172,7 @@ download-choose-folder =
 download-always-ask-where =
     .label = Ĉiam demandi, kie konservi dosierojn
     .accesskey = d
+applications-header = Programoj
 applications-type-column =
     .label = Tipo de enhavo
     .accesskey = E
@@ -173,12 +181,36 @@ applications-action-column =
     .accesskey = A
 play-drm-content-learn-more = Pli da informo
 update-application-title = Ĝisdatigoj de { -brand-short-name }
+update-application-info = Versio { $version } <a>Kio estas nova</a>
+update-history =
+    .label = Montri historion de ĝisdatigoj…
+    .accesskey = M
+update-application-allow-description = Permesi al { -brand-short-name }
+update-application-check-choose =
+    .label = Kontroli ĉu estas ĝisdatigoj, sed ebligi al uzanto elekti ĉu ilin instali
+    .accesskey = K
+update-application-manual =
+    .label = Neniam kontroli ĉu estas ĝisdatigoj (malkonsilinda)
+    .accesskey = N
 update-application-use-service =
     .label = Uzi fonan servon por instali ĝisdatigojn
     .accesskey = f
+update-enable-search-update =
+    .label = Aŭtomate ĝisdatigi serĉilojn
+    .accesskey = t
 
 ## General Section - Performance
 
+performance-title = Efikeco
+performance-use-recommended-settings-desc = Tiuj ĉi agordoj estas alĝustigitaj al la mastruma sistemo kaj aparataro de via komputilo.
+performance-settings-learn-more = Pli da informo
+performance-allow-hw-accel =
+    .label = Uzi aparatan akceladon se tio disponeblas
+    .accesskey = d
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (norma)
 
 ## General Section - Browsing
 
