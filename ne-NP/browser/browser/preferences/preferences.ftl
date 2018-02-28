@@ -85,6 +85,9 @@ tabs-group-header = ट्याबहरू
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ले हालसालै प्रयोग गरिएका ट्याबहरूमा चक्र लगाउँछ
     .accesskey = T
+switch-links-to-new-tabs =
+    .label = जब तपाईँ नयाँ ट्याबमा लिङ्क खोल्नुहुन्छ, तुरुन्तै स्विच गर्नुहोस्
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = सञ्झ्याल कार्यपट्टीमा ट्याबको पूर्वावलोकनहरू देखाउनुहोस्
     .accesskey = k
@@ -109,6 +112,7 @@ containers-disable-alert-ok-button =
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = भाषा र रूप
 fonts-and-colors-header = फन्टहरू र रङहरू
 advanced-fonts =
     .label = अग्रसर
@@ -129,6 +133,7 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = फाइलहरू र अनुप्रयोगहरू
 download-header = डाउनलोडहरू
 download-save-to =
     .label = फाइलहरू यहाँ सङ्ग्रह गर्नुहोस्
@@ -144,6 +149,10 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+applications-header = अनुप्रयोगहरू
+applications-description = कसरी { -brand-short-name } ले तपाईँले डाउनलोड गर्नुभएको फाइलहरु र तपाईँले ब्राउज गर्दा प्रयोग गर्ने अनुप्रयोगहरु ह्यान्डल गर्दछ चयन गर्नुहोस् ।
+applications-filter =
+    .placeholder = फाइलको प्रकार वा अनुप्रयोगहरु खोज्नुहोस्
 applications-type-column =
     .label = सामग्री र तारिका 
     .accesskey = T
@@ -151,15 +160,41 @@ applications-action-column =
     .label = कार्य
     .accesskey = A
 play-drm-content-learn-more = अझै जान्नुहोस्
+update-application-title = { -brand-short-name } अद्यावधिकहरू
+update-application-description = राम्रो कार्यसम्पादन, स्थायित्व र सुरक्षाको लागि { -brand-short-name } लाई अद्यावधिक राख्नुहोस् ।
+update-application-info = संस्करण { $version } <a>नयाँ के छ</a>
+update-history =
+    .label = अद्यावधिक इतिहास देखाउनुहोस्…
+    .accesskey = p
+update-application-allow-description = को लागि { -brand-short-name } लाई अनुमति दिनुहोस्
+update-application-manual =
+    .label = अद्यावधिकहरूको लागि कहिल्यै जाँच नगर्नुहोस् (सिफारिस नगरिएको)
+    .accesskey = N
 update-application-use-service =
     .label = अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर्नुहोस्
     .accesskey = b
+update-enable-search-update =
+    .label = स्वचालित रूपमा खोजी इन्जिनहरू अद्यावधिक गर्नुहोस्
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = कार्यसम्पादन
+performance-use-recommended-settings-checkbox =
+    .label = सिफारिस गरिएको कार्यसम्पादन सेटिङ्गहरू प्रयोग गर्नुहोस्
+    .accesskey = U
+performance-use-recommended-settings-desc = यी सेटिङ्गहरू तपाईँको कम्प्युटरको हार्डवेयर र अपरेटिङ सिस्टम अनुरूप छन् ।
+performance-settings-learn-more = अझै जान्नुहोस्
 performance-allow-hw-accel =
     .label = उपलब्ध भएमा हार्डवेयर प्रवेग प्रयोग गर्नुहोस्
     .accesskey = r
+performance-limit-content-process-option = सामग्री प्रक्रिया सीमा
+    .accesskey = L
+performance-limit-content-process-disabled-desc = सामग्री प्रक्रियाहरूको संख्या परिमार्जन बहुप्रक्रिया { -brand-short-name } सँग मात्र सम्भव छ । <a>बहुप्रक्रिया सक्षम छ कि छैन भनेर कसरि जाँच गर्ने हो जान्नुहोस्</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (पूर्वनिर्धारित)
 
 ## General Section - Browsing
 
@@ -179,6 +214,7 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+network-proxy-title = नेटवर्क प्रोक्सी
 network-proxy-connection-settings =
     .label = सेटिङ्हरू…
     .accesskey = e
