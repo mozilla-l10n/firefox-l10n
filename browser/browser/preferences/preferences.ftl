@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Uvijek
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Mogućnosti
            *[other] Postavke
         }
@@ -45,5 +46,43 @@ close-button =
 feature-disable-requires-restart = { -brand-short-name } se mora ponovno pokrenuti da bi se onemogućila ova mogućnost
 should-restart-title = Ponovno pokreni { -brand-short-name }
 should-restart-ok = Ponovno pokreni { -brand-short-name } sada
-revert-no-restart-button = Povrat
 restart-later = Ponovno pokreni poslije
+
+## General Section
+
+startup-header = Pokretanje
+startup-blank-page =
+    .label = Prikaži praznu stranicu
+
+## General Section - Language & Appearance
+
+choose-language-description = Odaberite jezik za prikazivanje stranica
+
+## General Section - Files and Applications
+
+download-header = Preuzimanja
+applications-action-column =
+    .label = Akcija
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Pregledavanje
+browsing-use-autoscroll =
+    .label = Koristi automatsko klizanje
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Koristi uglađeno klizanje
+    .accesskey = u
+browsing-use-cursor-navigation =
+    .label = Uvijek koristi tipke pokazivača za navigaciju unutar stranica
+    .accesskey = c
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Postavke...
+    .accesskey = e
