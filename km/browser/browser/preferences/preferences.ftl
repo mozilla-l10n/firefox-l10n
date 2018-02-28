@@ -42,6 +42,7 @@ restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ព�
 
 ## General Section
 
+startup-header = ចាប់ផ្ដើម​ឡើង
 get-started-not-logged-in = ចូល { -sync-brand-short-name } ...
 get-started-configured = បើក​ចំណូលចិត្ត { -sync-brand-short-name }
 startup-page = នៅពេល { -brand-short-name } ចាប់ផ្ដើម
@@ -51,19 +52,25 @@ startup-blank-page =
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = ពុម្ព​អក្សរ & ពណ៌
 default-font = ពុម្ព​អក្សរ​លំនាំដើម
     .accesskey = D
 default-font-size = ទំហំ
     .accesskey = S
+advanced-fonts =
+    .label = កម្រិតខ្ពស់…
+    .accesskey = ត
 colors-settings =
     .label = ពណ៌...
     .accesskey = ព
+choose-language-description = ជ្រើស​ភាសា​ដែល​អ្នក​ចូលចិត្ត​សម្រាប់​បង្ហាញ​ទំព័រ
 choose-button =
     .label = ជ្រើស…
     .accesskey = ស
 
 ## General Section - Files and Applications
 
+download-header = ទាញ​យក
 download-save-to =
     .label = រក្សា​ទុក​ឯកសារ​ទៅ
     .accesskey = ក
