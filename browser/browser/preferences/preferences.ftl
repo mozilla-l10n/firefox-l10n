@@ -51,11 +51,18 @@ startup-header = Iniçio
 separate-profile-mode =
     .label = Consenti l’ezegoçion de { -brand-short-name } e Firefox a-o mæximo tenpo
 use-firefox-sync = Conseggio: coscì ti devi adeuviâ di profî diversci. Ti peu adeuviâ { -sync-brand-short-name } pe-a scincronizaçion di dæti.
+get-started-not-logged-in = Intra in{ -sync-brand-short-name }…
+get-started-configured = Arvi e inpostaçioin de { -sync-brand-short-name }
 always-check-default =
     .label = Contròlla de longo se { -brand-short-name } o l'é o navegatô predefinio
     .accesskey = t
 is-default = { -brand-short-name } o l'é o navegatô predefinio
 is-not-default = { -brand-short-name } o no l'é o navegatô predefinio
+set-as-my-default-browser =
+    .label = Adeuvia comme predefinio…
+    .accesskey = A
+startup-page = Quande { -brand-short-name } o s'arve
+    .accesskey = s
 startup-user-homepage =
     .label = Fanni vedde a pagina iniçiâ
 startup-blank-page =
@@ -118,13 +125,19 @@ containers-disable-alert-cancel-button = Lascia abilitou
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Lengoa e Aparensa
 fonts-and-colors-header = Coî e testo
+default-font = Caratere predefinio
+    .accesskey = C
+default-font-size = Dimenscion
+    .accesskey = D
 advanced-fonts =
     .label = Avansæ…
     .accesskey = n
 colors-settings =
     .label = Coi…
     .accesskey = C
+language-header = Lengoa
 choose-language-description = Çerni a lengoa preferia pe-e pagine
 choose-button =
     .label = Çerni…
@@ -141,6 +154,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = File e Aplicaçioin
 download-header = Descaregamenti
 download-save-to =
     .label = Sarva file in
@@ -159,20 +173,51 @@ download-choose-folder =
 download-always-ask-where =
     .label = Domanda de longo donde sarvâ i file
     .accesskey = D
+applications-header = Aplicaçioin
+applications-description = Çerni comme { -brand-short-name } o gestisce i teu descaregamenti da-a Ræ ò e aplicaçioin che ti deuvi quande ti naveghi.
+applications-filter =
+    .placeholder = Çerca tipi de file ò aplicaçioin
 applications-type-column =
     .label = Tipo de contegnuo
     .accesskey = T
 applications-action-column =
     .label = Açion
     .accesskey = A
+drm-content-header = Contenguo da Gestion di Diritti Digitali (DRM)
+play-drm-content =
+    .label = Riproduxi o contegnuo DRM-controlled
+    .accesskey = R
 play-drm-content-learn-more = Atre informaçioin
 update-application-title = Agiornamenti de { -brand-short-name }
+update-application-info = Verscion { $version } <a>Novitæ</a>
+update-history =
+    .label = Fanni vedde a stöia di agiornamenti…
+    .accesskey = g
+update-application-allow-description = Permetti a { -brand-short-name } de
+update-application-check-choose =
+    .label = Contròlla se gh'é agiornamenti, ma famme decidde se instalali
+    .accesskey = C
+update-application-manual =
+    .label = No controlâ mai se gh'é agiornamenti (no racomandou)
+    .accesskey = N
 update-application-use-service =
     .label = Uzâ 'n serviçio ascozo pe instalâ i agiornamenti
     .accesskey = z
+update-enable-search-update =
+    .label = Agiorna in outomatico i motoî de riçerca
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Prestaçioin
+performance-settings-learn-more = Saccine de ciù
+performance-allow-hw-accel =
+    .label = Adeuvia l'aceleraçion hardware se a gh'é
+    .accesskey = h
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (predefinio)
 
 ## General Section - Browsing
 
