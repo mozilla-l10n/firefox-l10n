@@ -209,6 +209,9 @@ performance-use-recommended-settings-checkbox =
     .accesskey = U
 performance-use-recommended-settings-desc = Estos axustes adáutense al hardware y sistema operativu del to equipu.
 performance-settings-learn-more = Deprendi más
+performance-allow-hw-accel =
+    .label = Usar aceleración de hardware cuando tea disponible
+    .accesskey = h
 
 ## General Section - Browsing
 
