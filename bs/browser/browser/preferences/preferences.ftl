@@ -99,6 +99,9 @@ tabs-group-header = Tabovi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab prolazi kroz tabove u redosljedu nedavnog korištenja
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Otvori linkove u tabovima umjesto u novim prozorima
+    .accesskey = p
 warn-on-close-multiple-tabs =
     .label = Upozoriti vas kada zatvarate više tabova
     .accesskey = o
@@ -263,6 +266,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Mrežni proxy
+network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
     .label = Postavke…
     .accesskey = e
