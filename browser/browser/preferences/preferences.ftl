@@ -53,6 +53,10 @@ restart-later = Sonra yenidən başlat
 
 startup-blank-page =
     .label = Boş səhifəni göstər
+choose-bookmark =
+    .label = Əlfəcin istifadə et…
+    .accesskey = Ə
+tabs-group-header = Vərəqlər
 show-tabs-in-taskbar =
     .label = Vərəqlərə ön baxışı Windows tapşırıq panelində göstər
     .accesskey = e
@@ -87,6 +91,9 @@ download-choose-folder =
 applications-type-column =
     .label = Məzmun formatı
     .accesskey = t
+applications-action-column =
+    .label = Əməliyyat
+    .accesskey = Ə
 
 ## General Section - Performance
 
