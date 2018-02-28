@@ -1,0 +1,63 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "პირველწყარო: ">
+
+<!ENTITY fileMenu.label "ფაილი">
+<!ENTITY fileMenu.accesskey "ფ">
+<!ENTITY savePageCmd.label "გვერდის შენახვა როგორც…">
+<!ENTITY savePageCmd.accesskey "ო">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "გვერდის პარამეტრები…">
+<!ENTITY pageSetupCmd.accesskey "პ">
+<!ENTITY printPreviewCmd.label "შეთვალიერება ამობეჭდვამდე">
+<!ENTITY printPreviewCmd.accesskey "მ">
+<!ENTITY printCmd.label "ამობეჭდვა…">
+<!ENTITY printCmd.accesskey "ბ">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "დახურვა">
+<!ENTITY closeCmd.accesskey "დ">
+<!ENTITY closeCmd.commandkey "W">
+
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
+
+<!ENTITY goToLineCmd.label "გადასვლა სტრიქონზე…">
+<!ENTITY goToLineCmd.accesskey "გ">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY viewMenu.label           "ხედი">
+<!ENTITY viewMenu.accesskey       "ე">
+<!ENTITY reloadCmd.label "განახლება">
+<!ENTITY reloadCmd.accesskey "ხ">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "გრძელი სტრიქონების გადატანა"> 
+<!ENTITY menu_wrapLongLines.accesskey "ძ">
+<!ENTITY menu_highlightSyntax.label "სინტაქსის შემოწმება">
+<!ENTITY menu_highlightSyntax.accesskey "ტ">
+
+
+
+
+<!-- Copied from charsetMenu.dtd -->
+
