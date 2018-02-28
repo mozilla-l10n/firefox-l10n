@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n &brandShortName; i yal yiwen. Ad k-d-nsuter yal tikkelt tasiregt send ad nawi talɣut tudmawant.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Tasertit n tbaḍnit">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Sireg &brandShortName; ad as-yazen aneqqis n uɣelluy i Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "R">
+
 <!ENTITY collectBrowserErrors.label          "Sireg i &brandShortName; ad yazen aneqis n tucṣiwin n tunigin( igber iznan  n tusḍa) γer Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Issin ugar">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Sireg &brandShortName; ad as-yazen aneqqis n uɣelluy i Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "R">
+<!ENTITY sendBackloggedCrashReports.label  "Sireg &brandShortName; akken ad yazen ineqqisen n uɣelluy deg ugilal">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Issin ugar">
 
 <!ENTITY networkTab.label                "Aẓeṭṭa">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "isefka n usmel">
 <!ENTITY clearSiteData.label             "kkes akk isefka">
 <!ENTITY clearSiteData.accesskey         "k">
+<!ENTITY siteData1.label                 "Inagan n tuqna akked isefka n usmel">
+<!ENTITY clearSiteData1.label            "Sfeḍ isefka…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Iɣewwaṛen…">
 <!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataLearnMoreLink.label     "Lmed ugar">

@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "addad">
 <!ENTITY     cookiesCol.label              "Inagan n tuqqna">
 <!ENTITY     usageCol.label                "Aklas">
+<!ENTITY     lastAccessedCol.label                "Aseqdec anneggaru">
 <!ENTITY     searchTextboxPlaceHolder             "Nadi ismal web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "R">
 <!ENTITY     removeSelected.label          "Kkes tafrant">
