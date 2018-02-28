@@ -99,6 +99,9 @@ tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab перемикає між вкладками в порядку недавнього їх використання
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Відкривати посилання у вкладках замість нових вікон
+    .accesskey = л
 warn-on-close-multiple-tabs =
     .label = Попереджати при закритті декількох вкладок
     .accesskey = і
@@ -263,6 +266,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Проксі-сервер
+network-proxy-connection-learn-more = Докладніше
 network-proxy-connection-settings =
     .label = Налаштувати…
     .accesskey = а
