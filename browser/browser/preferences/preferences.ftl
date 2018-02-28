@@ -74,6 +74,8 @@ startup-blank-page =
     .label = Prozny bok pokazaś
 startup-prev-session =
     .label = Waše wokna a rejtarki wót slědnego raza pokazaś
+disable-extension =
+    .label = Rozšyrjenje znjemóžniś
 home-page-header = Waš startowy bok pokazaś
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -96,6 +98,9 @@ tabs-group-header = Rejtarki
 ctrl-tab-recently-used-order =
     .label = Strg+Tab pśejźo rejtarki pó tuchylu póstajonem pórěźe
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Wótkaze w rejtarkach město nowych woknow wócyniś
+    .accesskey = r
 warn-on-close-multiple-tabs =
     .label = Warnowaś, gaž někotare rejtarki se zacynjaju
     .accesskey = W
@@ -191,10 +196,12 @@ play-drm-content =
     .accesskey = m
 play-drm-content-learn-more = Dalšne informacije
 update-application-title = Aktualizacije { -brand-short-name }
+update-application-description = Źaržćo { -brand-short-name } aktualny, za nejlěpše wugbaśe, stabilnosć a wěstotu.
 update-application-info = Wersija { $version } <a>Co jo nowe</a>
 update-history =
     .label = Aktualizacisku historiju pokazaś…
     .accesskey = h
+update-application-allow-description = { -brand-short-name } dowóliś,
 update-application-auto =
     .label = Aktualizacije awtomatiski instalěrowaś (dopórucone)
     .accesskey = A
@@ -214,11 +221,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Wugbaśe
+performance-use-recommended-settings-checkbox =
+    .label = Dopórucone wugbaśowe nastajenja wužywaś
+    .accesskey = D
+performance-use-recommended-settings-desc = Toś te nastajenja su na hardwaru a źěłowy system wašogo licadła pśiměrjone.
+performance-settings-learn-more = Dalšne informacije
 performance-allow-hw-accel =
     .label = Hardwarowe póspěšenje wužywaś, jolic k dispoziciji
     .accesskey = H
 performance-limit-content-process-option = Limit wopśimjeśowego procesa
     .accesskey = L
+performance-limit-content-process-enabled-desc = Wěcej wopśimjeśowych procesow móžo wugbaśe pólěpšowaś, gaž se někotare rejtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.
+performance-limit-content-process-disabled-desc = Licba wopśimjeśowych procesow dajo se jano z wěcejprocesowym { -brand-short-name } změniś. <a>Zgóńśo, kak móžośo kontrolěrowaś, lěc wěcejprocesowa funkcija jo zmóžnjona</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -246,6 +260,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Seśowy proksy
+network-proxy-connection-learn-more = Dalšne informacije
 network-proxy-connection-settings =
     .label = Nastajenja…
     .accesskey = N
