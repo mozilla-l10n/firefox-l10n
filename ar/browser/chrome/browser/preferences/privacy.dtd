@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "اقبل الكعكات من أطراف أخرى">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ب">
+
+<!ENTITY  acceptCookies3.label          "اقبل الكعكات و بيانات المواقع من المواقع">
+<!ENTITY  acceptCookies3.accesskey      "ق">
+
+<!ENTITY  blockCookies.label            "احجب الكعكات و بيانات المواقع (قد يتسبب بعطب المواقع)">
+<!ENTITY  blockCookies.accesskey        "ح">
+
+<!ENTITY  acceptThirdParty3.pre.label     "اسمح بكعكات و بيانات موقع الطرف الثالث">
+<!ENTITY  acceptThirdParty3.pre.accesskey "ط">
 <!ENTITY  acceptThirdParty.always.label   "دائمًا">
 <!ENTITY  acceptThirdParty.never.label    "أبدًا">
 <!ENTITY  acceptThirdParty.visited.label  "من المواقع المُزارة">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "قد ترغب أيضًا بأن ">
 <!ENTITY  dontrememberActions.clearHistory.label "تمسح تأريخك الحالي كله">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "امسح التأريخ…">
+<!ENTITY  clearHistoryButton.accesskey   "ت">
 
 <!ENTITY  privateBrowsingPermanent2.label "استخدم نمط التصفح الخاص دائمًا">
 <!ENTITY  privateBrowsingPermanent2.accesskey "د">

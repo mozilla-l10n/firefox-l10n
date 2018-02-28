@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين &brandShortName;. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.">
 <!ENTITY dataCollectionPrivacyNotice.label    "تنويه الخصوصية">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "اسم أن يرسل &brandShortName; بلاغلات الانهيار إلى موزيلا">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "ن">
+
 <!ENTITY collectBrowserErrors.label          "اسمح بأن يُرسل &brandShortName; تقارير بأخطاء المتصفح (بما في ذلك رسائل الأخطاء) إلى موزيلا.">
 <!ENTITY collectBrowserErrors.accesskey      "خ">
 <!ENTITY collectBrowserErrorsLearnMore.label "اطّلع على المزيد">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "اسم أن يرسل &brandShortName; بلاغلات الانهيار إلى موزيلا">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "ن">
+<!ENTITY sendBackloggedCrashReports.label  "اسمح بأن يُرسل &brandShortName; بلاغات الانهيار المعلقة نيابة عنك">
+<!ENTITY sendBackloggedCrashReports.accesskey "ع">
 <!ENTITY crashReporterLearnMore.label    "اطّلع على المزيد">
 
 <!ENTITY networkTab.label                "الشبكة">
@@ -61,6 +64,9 @@ available. -->
 <!ENTITY siteData.label                  "بيانات الموقع">
 <!ENTITY clearSiteData.label             "امسح كل البيانات">
 <!ENTITY clearSiteData.accesskey         "س">
+<!ENTITY siteData1.label                 "الكعكات و بيانات المواقع">
+<!ENTITY clearSiteData1.label            "امسح البيانات…">
+<!ENTITY clearSiteData1.accesskey        "س">
 <!ENTITY siteDataSettings.label          "الإعدادات…">
 <!ENTITY siteDataSettings.accesskey      "ع">
 <!ENTITY siteDataLearnMoreLink.label     "اطّلع على المزيد">

@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "الحالة">
 <!ENTITY     cookiesCol.label              "الكعكات">
 <!ENTITY     usageCol.label                "التخزين">
+<!ENTITY     lastAccessedCol.label                "آخر استخدام">
 <!ENTITY     searchTextboxPlaceHolder             "ابحث في المواقع">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "ح">
 <!ENTITY     removeSelected.label          "أزل المحدد">
