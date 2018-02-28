@@ -57,10 +57,18 @@ startup-header = Loc'hañ
 separate-profile-mode =
     .label = Aotren { -brand-short-name } ha Firefox da erounit war un dro
 use-firefox-sync = Tun : arveret e vo aeladoù disheñvel. Arverit { -sync-brand-short-name } evit rannañ roadennoù etrezo.
+always-check-default =
+    .label = Gwiriañ atav ma'z eo { -brand-short-name } ho merdeer dre ziouer
+    .accesskey = w
 is-default = Ho merdeer dre ziouer eo { -brand-short-name }
 is-not-default = N'eo ket { -brand-short-name } ho merdeer dre ziouer
+startup-user-homepage =
+    .label = Diskouez ma fennbajennad
 startup-blank-page =
     .label = Diskouez ur bajenn wenn
+startup-prev-session =
+    .label = Diskouez ma frenestroù hag ivinelloù evel ar wech diwezhañ
+home-page-header = Diskouez ma fennbajennad
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -79,9 +87,35 @@ restore-default =
     .label = Assav an arventennoù dre ziouer
     .accesskey = z
 tabs-group-header = Ivinelloù
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab evit mont d'an ivinell implijet da ziwezhañ
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Kas keloù din pa vez serret meur a ivinell war un taol
+    .accesskey = K
+warn-on-open-many-tabs =
+    .label = Kas keloù din ma vez gorrekaet { -brand-short-name } gant digoradur meur a ivinell
+    .accesskey = m
+switch-links-to-new-tabs =
+    .label = Pa zigoran un ere a zo e-barzh un ivinell nevez, diskouez anezhi diouzhtu
+    .accesskey = P
 show-tabs-in-taskbar =
     .label = Diskouez alberzioù an ivinelloù e-barzh barrenn an trevelloù
     .accesskey = i
+browser-containers-enabled =
+    .label = Gweredekaat an ivinelloù endalc'her
+    .accesskey = n
+browser-containers-learn-more = Gouzout hiroc'h
+browser-containers-settings =
+    .label = Arventennoù…
+    .accesskey = v
+containers-disable-alert-title = Serriñ an holl ivinelloù endalc'her?
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Serriñ { $tabCount } ivinell endalc'her
+       *[other] Serriñ { $tabCount } ivinell endalc'her
+    }
+containers-disable-alert-cancel-button = Leuskel gweredekaet
 
 ## General Section - Language & Appearance
 
@@ -102,6 +136,9 @@ translate-web-pages =
 translate-exceptions =
     .label = Nemedennoù…
     .accesskey = N
+check-user-spelling =
+    .label = Gwiriañ ar reizhskrivañ pa skrivan
+    .accesskey = G
 
 ## General Section - Files and Applications
 
@@ -120,18 +157,26 @@ download-choose-folder =
             [macos] D
            *[other] F
         }
+download-always-ask-where =
+    .label = Atav goulenn diganin pelec'h enrollañ restroù
+    .accesskey = t
 applications-type-column =
     .label = Rizh an endalc'had
     .accesskey = R
 applications-action-column =
     .label = Gwezh
     .accesskey = w
+play-drm-content-learn-more = Gouzout hiroc'h
+update-application-title = Hizivadurioù evit { -brand-short-name } :
 update-application-use-service =
     .label = Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù
     .accesskey = v
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Arverañ herrekadur ar periant pa vez hegerz
+    .accesskey = h
 
 ## General Section - Browsing
 
@@ -142,9 +187,15 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Arverañ an dibunañ flour
     .accesskey = r
+browsing-use-onscreen-keyboard =
+    .label = Diskouez ur c'hlavier stokañ pa vez ezhomm
+    .accesskey = c
 browsing-use-cursor-navigation =
     .label = Atav arverañ ar stokelloù bir da vageal er bajennadoù
     .accesskey = A
+browsing-search-on-start-typing =
+    .label = Klask an destenn pa grogan da skrivañ
+    .accesskey = K
 
 ## General Section - Proxy
 
