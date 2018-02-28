@@ -57,6 +57,9 @@ restart-later = Reiniciar después
 
 ## General Section - Files and Applications
 
+download-save-to =
+    .label = Guardar automáticamente en
+    .accesskey = G
 
 ## General Section - Performance
 
