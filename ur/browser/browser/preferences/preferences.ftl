@@ -51,8 +51,34 @@ restart-later = بعد میں دوباره شروع کریں
 ## General Section
 
 startup-header = سٹارٹ اپ
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = { -brand-short-name } اور Firefox کو ہم وقت چلنے کی اجازت دے
+use-firefox-sync = ٹوٹکا: یہ علیحدہ پروفائلز استعمال کرتا ہے. ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں.
+always-check-default =
+    .label = ہمیشہ جانچ پڑتال کریں کہ { -brand-short-name } آپ کا پہلے سے طے شدہ براؤزر ہے
+    .accesskey = ی
+is-default = { -brand-short-name } اس وقت آپ کا طےشدہ براؤزر ہے
+is-not-default = { -brand-short-name } اس وقت آپ کا طےشدہ  براؤزر نھیں ہے
+startup-user-homepage =
+    .label = اپنا ہوم صفحہ دکھائیں
 startup-blank-page =
     .label = خالی صفحہ دکھائیں
+startup-prev-session =
+    .label = اپنا دریچہ اور آخری وقت کے ٹیب دکھائیں
+home-page-header = اپنا ہوم صفحہ دکھائیں
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] حالیہ صفحہ برتیں
+           *[other] حالیہ صفحے استعمال کریں
+        }
+    .accesskey = ح
 choose-bookmark =
     .label = نشانی استعمال کریں…
     .accesskey = ن
@@ -60,12 +86,34 @@ restore-default =
     .label = طے شدہ بحال کریں
     .accesskey = ب
 tabs-group-header = ٹیبس
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab ٹہبس کے زرِیعے دورہ حالیہ اسرتعمال شدپ ترغیب میں
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = متعدد ٹیب ایک ساتھ بند کرنے پر مجھے تنبیح کیجیئے
+    .accesskey = م
+warn-on-open-many-tabs =
+    .label = متعدد ٹیب کھولنے پر شاید { -brand-short-name } آہستہ ہو تو منتبہ کریں
+    .accesskey = ہ
+switch-links-to-new-tabs =
+    .label = جب میں ایک ربط نئے ٹیب میں کھولوں، تو فوراً اسی کی طرف سوئچ ہو جائیں
+    .accesskey = ج
 show-tabs-in-taskbar =
     .label = Windows ٹاسک بار میں ٹیب پیش نظارے دکھائیں
     .accesskey = ٹ
+browser-containers-enabled =
+    .label = حامل ٹہن بحال کریں
+    .accesskey = ح
+browser-containers-learn-more = مزید سیکھیں
+browser-containers-settings =
+    .label = سیٹنگیں…
+    .accesskey = س
+containers-disable-alert-title = تمام  حامل ٹیبس بند کریں
+containers-disable-alert-cancel-button = اہل بنایا رکھیں
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = فانٹ اور رنگ
 advanced-fonts =
     .label = اعلٰی…
     .accesskey = ا
@@ -76,6 +124,15 @@ choose-language-description = صفحہ دکھانے کے لیے اپنی زبا�
 choose-button =
     .label = انتخاب کریں…
     .accesskey = ا
+translate-web-pages =
+    .label = ترجمہ کریں ویب کے مواد کا
+    .accesskey = ت
+translate-exceptions =
+    .label = استثنیات ...
+    .accesskey = س
+check-user-spelling =
+    .label = ٹائپ کرتے وقت اپنی املا کی پڑتال کریں
+    .accesskey = ٹ
 
 ## General Section - Files and Applications
 
@@ -83,18 +140,39 @@ download-header = ڈاؤن لوڈ
 download-save-to =
     .label = مسل محفوظ کریں بر
     .accesskey = م
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] انتخاب کریں…
+           *[other] براؤز کریں…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ا
+           *[other] ا
+        }
+download-always-ask-where =
+    .label = مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے
+    .accesskey = ہ
 applications-type-column =
     .label = مواد قسم
     .accesskey = م
 applications-action-column =
     .label = عمل
     .accesskey = ع
+play-drm-content-learn-more = مزید سیکھیں
+update-application-title = { -brand-short-name } تازہ کاریاں:
+update-application-info = ورژن{ $version } <a>نیا کیا ہے</a>
 update-application-use-service =
     .label = تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں
     .accesskey = پ
 
 ## General Section - Performance
 
+performance-title = کارکردگی
+performance-allow-hw-accel =
+    .label = جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں
+    .accesskey = ہ
 
 ## General Section - Browsing
 
@@ -105,9 +183,15 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = ہموار طومار استعمال کریں
     .accesskey = ہ
+browsing-use-onscreen-keyboard =
+    .label = ضرورت کے وقت ٹچ کی بورڈ دکھایں
+    .accesskey = ک
 browsing-use-cursor-navigation =
     .label = صفحات میں آگے پیچھے جانے کے لیے ہمیشہ کرسر کلیدیں استعمال کریں
     .accesskey = ک
+browsing-search-on-start-typing =
+    .label = میرے ٹائپ کرنے پر متن کے لیے تلاش شروع کریں
+    .accesskey = م
 
 ## General Section - Proxy
 
