@@ -52,8 +52,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Прымаць кукі з пабочных сайтаў">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ч">
 
+<!ENTITY  acceptCookies3.label          "Прымаць кукі і дадзеныя з вэб-сайтаў">
+<!ENTITY  acceptCookies3.accesskey      "П">
 
+<!ENTITY  blockCookies.label            "Блакаваць кукі і дадзеныя з сайтаў (можа прывесці да памылак адлюстравання вэб-сайта)">
+<!ENTITY  blockCookies.accesskey        "Б">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Прымаць кукі і дадзеныя з пабочных сайтаў">
+<!ENTITY  acceptThirdParty3.pre.accesskey "ы">
 <!ENTITY  acceptThirdParty.always.label   "заўсёды">
 <!ENTITY  acceptThirdParty.never.label    "ніколі">
 <!ENTITY  acceptThirdParty.visited.label  "з наведаных">

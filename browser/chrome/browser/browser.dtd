@@ -231,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Кіраваць перакладам старонкі">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Кіраваць ужываннем DRM-праграм">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Адкрыць панэль MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблакавалі сваю камеру на гэтым вэб-сайце.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблакавалі свой мікрафон на гэтым вэб-сайце.">
@@ -242,6 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Вы заблакавалі выманне дадзеных canvas для гэтага вэб-сайта.">
 
+<!ENTITY urlbar.midiBlocked.tooltip              "Вы заблакавалі MIDI доступ для гэтага вэб-сайта.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Паказаць гісторыю">
 
