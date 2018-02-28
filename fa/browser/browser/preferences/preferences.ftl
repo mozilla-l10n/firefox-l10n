@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = همیشه
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] گزینه‌ها
            *[other] ترجیحات
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = جهت فعال کردن این امکان، {
 feature-disable-requires-restart = شما باید برای غیرفعال کردن این امکان { -brand-short-name } را مجددا راه‌اندازی کنید.
 should-restart-title = راه‌اندازی مجدد { -brand-short-name }
 should-restart-ok = هم‌اکنون { -brand-short-name } راه‌اندازی مجدد شود
-revert-no-restart-button = برگرداندن
 restart-later = بعداْ راه‌اندازی مجدد شود
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
