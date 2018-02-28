@@ -42,18 +42,72 @@ restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ព�
 
 ## General Section
 
+get-started-not-logged-in = ចូល { -sync-brand-short-name } ...
+get-started-configured = បើក​ចំណូលចិត្ត { -sync-brand-short-name }
+startup-page = នៅពេល { -brand-short-name } ចាប់ផ្ដើម
+    .accesskey = s
+startup-blank-page =
+    .label = បង្ហាញ​ទំព័រ​ទទេ
 
 ## General Section - Language & Appearance
 
+default-font = ពុម្ព​អក្សរ​លំនាំដើម
+    .accesskey = D
+default-font-size = ទំហំ
+    .accesskey = S
+colors-settings =
+    .label = ពណ៌...
+    .accesskey = ព
+choose-button =
+    .label = ជ្រើស…
+    .accesskey = ស
 
 ## General Section - Files and Applications
 
+download-save-to =
+    .label = រក្សា​ទុក​ឯកសារ​ទៅ
+    .accesskey = ក
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] ជ្រើស…
+           *[other] រក​មើល…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ស
+           *[other] ល
+        }
+applications-header = កម្មវិធី
+applications-description = ជ្រើសរើស​របៀប​ដែល { -brand-short-name } បើក​ដំណើរការ​ឯកសារ​ដែល​អ្នក​ទាញយក​ពី​បណ្ដាញ ឬ​កម្មវិធី​ដែល​អ្នក​ប្រើប្រាស់​នៅ​ពេល​រុករក។
+applications-filter =
+    .placeholder = ស្វែងរក​ប្រភេទ​ឯកសារ និង​កម្មវិធី
+applications-type-column =
+    .label = ប្រភេទ​មាតិកា 
+    .accesskey = ក
+applications-action-column =
+    .label = អំពើ
+    .accesskey = ព
+update-history =
+    .label = បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព...
+    .accesskey = p
+update-application-allow-description = អនុញ្ញាត { -brand-short-name } ឲ្យ
+update-application-check-choose =
+    .label = ពិនិត្យ​មើល​បច្ចុប្បន្នភាព ប៉ុន្តែ​អាច​ឲ្យ​អ្នក​ជ្រើសរើស​ដំឡើង​ពួកវា​បាន
+    .accesskey = C
+update-application-manual =
+    .label = កុំ​ពិនិត្យមើល​បច្ចុប្បន្នភាព​ឲ្យ​សោះ (មិន​ណែនាំ​ឲ្យ​ធ្វើ​ដូច្នេះ​ទេ)
+    .accesskey = N
+update-enable-search-update =
+    .label = ធ្វើ​បច្ចុប្បន្នភាព​ម៉ាស៊ីន​ស្វែងរក​ដោយស្វ័យប្រវត្តិ
+    .accesskey = e
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = រក​មើល
 
 ## General Section - Proxy
 
