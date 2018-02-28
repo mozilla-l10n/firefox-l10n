@@ -62,6 +62,9 @@ download-header = ਡਾਊਨਲੋਡ
 applications-type-column =
     .label = ਸਮੱਗਰੀ ਟਾਈਪ
     .accesskey = T
+applications-action-column =
+    .label = ਐਕਸ਼ਨ
+    .accesskey = A
 
 ## General Section - Performance
 
