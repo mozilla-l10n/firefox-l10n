@@ -121,6 +121,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Cuộn uyển chuyển
     .accesskey = y
+browsing-use-cursor-navigation =
+    .label = Cho phép dùng con trỏ để di chuyển bên trong trang
+    .accesskey = c
 
 ## General Section - Proxy
 
