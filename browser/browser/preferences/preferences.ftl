@@ -111,6 +111,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Omogoči vsebniške zavihke
     .accesskey = m
+browser-containers-learn-more = Več o tem
 browser-containers-settings =
     .label = Nastavitve …
     .accesskey = N
