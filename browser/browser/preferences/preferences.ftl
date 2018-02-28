@@ -53,6 +53,7 @@ restart-later = পরে পুনরারম্ভ করুন
 
 startup-blank-page =
     .label = ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে
+tabs-group-header = ট্যাব
 
 ## General Section - Language & Appearance
 
