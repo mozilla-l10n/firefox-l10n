@@ -62,6 +62,9 @@ always-check-default =
     .accesskey = w
 is-default = { -brand-short-name } 目前是您的默认浏览器
 is-not-default = { -brand-short-name } 目前不是您的默认浏览器
+set-as-my-default-browser =
+    .label = 设为默认…
+    .accesskey = D
 startup-blank-page =
     .label = 显示空白页
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -82,9 +85,24 @@ restore-default =
     .label = 恢复默认设置
     .accesskey = R
 tabs-group-header = 标签页
+show-tabs-in-taskbar =
+    .label = 在 Windows 任务栏上显示标签页预览图
+    .accesskey = k
+containers-disable-alert-title = 关闭所有身份标签页？
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] 如果您现在禁用身份标签页，将有 { $tabCount } 个容器标签页被关闭。您确实要禁用身份标签页吗？
+       *[other] 如果您现在禁用身份标签页，将有 { $tabCount } 个容器标签页被关闭。您确实要禁用身份标签页吗？
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] 关闭 { $tabCount } 个身份标签页
+       *[other] 关闭 { $tabCount } 个身份标签页
+    }
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = 语言与外观
 fonts-and-colors-header = 字体和颜色
 advanced-fonts =
     .label = 高级…
@@ -92,6 +110,7 @@ advanced-fonts =
 colors-settings =
     .label = 颜色…
     .accesskey = C
+language-header = 语言
 choose-language-description = 选择您想要优先使用哪种语言显示页面
 choose-button =
     .label = 选择…
@@ -105,6 +124,7 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = 文件与应用程序
 download-header = 下载
 download-save-to =
     .label = 保存文件至
@@ -123,13 +143,25 @@ download-choose-folder =
 applications-type-column =
     .label = 内容类型
     .accesskey = T
+applications-action-column =
+    .label = 操作
+    .accesskey = A
+drm-content-header = 采用数字版权管理（DRM）的内容
+play-drm-content =
+    .label = 播放采用 DRM 的内容
+    .accesskey = P
 play-drm-content-learn-more = 详细了解
+update-application-description = 让 { -brand-short-name } 保持最新，持续拥有最强的性能、稳定性和安全性。
+update-application-auto =
+    .label = 自动安装更新（推荐）
+    .accesskey = A
 update-application-use-service =
     .label = 使用一项系统服务以静默安装更新
     .accesskey = b
 
 ## General Section - Performance
 
+performance-settings-learn-more = 详细了解
 
 ## General Section - Browsing
 
@@ -140,9 +172,16 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = 使用平滑滚动
     .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = 在需要时显示触摸键盘
+    .accesskey = k
+browsing-use-cursor-navigation =
+    .label = 始终使用方向键在页面内导航
+    .accesskey = c
 
 ## General Section - Proxy
 
+network-proxy-title = 网络代理
 network-proxy-connection-settings =
     .label = 设置…
     .accesskey = e
