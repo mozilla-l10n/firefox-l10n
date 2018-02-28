@@ -57,11 +57,18 @@ startup-header = Cychwyn
 separate-profile-mode =
     .label = Caniatáu i { -brand-short-name } a Firefox redeg ar yr un pryd
 use-firefox-sync = Cyngor: Mae'n defnyddio proffiliau gwahanol. Defnyddiwch { -sync-brand-short-name } i rannu data rhyngddynt.
+get-started-not-logged-in = Mewngofnodi i { -sync-brand-short-name }…
+get-started-configured = Agor dewisiadau { -sync-brand-short-name }
 always-check-default =
     .label = Wrth gychwyn, gwirio ai { -brand-short-name } yw eich porwr ragosodedig
     .accesskey = W
 is-default = { -brand-short-name } yw eich porwr rhagosodedig cyfredol
 is-not-default = { -brand-short-name } yw eich porwr rhagosodedig cyfredol
+set-as-my-default-browser =
+    .label = Gwneud yn Ragosodedig…
+    .accesskey = R
+startup-page = Pan fydd { -brand-short-name } yn cychwyn:
+    .accesskey = c
 startup-user-homepage =
     .label = Dangos fy nhudalen cartref
 startup-blank-page =
@@ -114,13 +121,19 @@ containers-disable-alert-cancel-button = Cadw wedi ei alluogi
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Iaith a Gwedd
 fonts-and-colors-header = Ffontiau a Lliwiau
+default-font = Ffont rhagosodedig:
+    .accesskey = F
+default-font-size = Maint:
+    .accesskey = M
 advanced-fonts =
     .label = Uwch…
     .accesskey = w
 colors-settings =
     .label = Lliwiau…
     .accesskey = i
+language-header = Iaith
 choose-language-description = Dewis eich iaith ar gyfer dangos tudalennau
 choose-button =
     .label = Dewis…
@@ -137,6 +150,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Ffeiliau a Rhaglenni
 download-header = Llwytho i Lawr
 download-save-to =
     .label = Cadw ffeiliau yn
@@ -155,20 +169,55 @@ download-choose-folder =
 download-always-ask-where =
     .label = Gofyn i mi lle i gadw ffeiliau
     .accesskey = G
+applications-header = Rhaglenni
+applications-description = Dewis sut mae { -brand-short-name } yn trin y ffeiliau rydych wedi eu llwytho i lawr o'r We neu'r rhaglenni rydych yn eu defnyddio wrth bori.
+applications-filter =
+    .placeholder = Chwilio'r mathau o ffeil neu raglenni
 applications-type-column =
     .label = Math o Gynnwys
     .accesskey = M
 applications-action-column =
     .label = Gweithred
     .accesskey = G
+drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
+play-drm-content =
+    .label = Chwarae cynnwys wedi ei reoli gan DRM
+    .accesskey = C
 play-drm-content-learn-more = Dysgu rhagor
 update-application-title = Diweddariadau { -brand-short-name }
+update-application-info = Fersiwn { $version } <a>Beth sy'n newydd</a>
+update-history =
+    .label = Dangos Hanes Diweddaru…
+    .accesskey = D
+update-application-allow-description = Caniatau i { -brand-short-name }
+update-application-auto =
+    .label = Gosod diweddariadau'n awtomatig (argymell)
+    .accesskey = G
+update-application-check-choose =
+    .label = Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio
+    .accesskey = G
+update-application-manual =
+    .label = Byth gwirio am ddiweddariadau (ddim yn argymell)
+    .accesskey = B
 update-application-use-service =
     .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
     .accesskey = c
+update-enable-search-update =
+    .label = Diweddaru peiriannau chwilio yn awtomatig
+    .accesskey = p
 
 ## General Section - Performance
 
+performance-title = Perfformiad
+performance-allow-hw-accel =
+    .label = Defnyddio cyflymu caledwedd pan fydd ar gael
+    .accesskey = e
+performance-limit-content-process-option = Terfyn proses cynnwys
+    .accesskey = T
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (rhagosodiad)
 
 ## General Section - Browsing
 
@@ -191,6 +240,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Dirprwy Rhwydwaith
 network-proxy-connection-settings =
     .label = Gosodiadau…
     .accesskey = G
