@@ -75,6 +75,8 @@ startup-blank-page =
     .label = ফাঁকা পাতা দেখাও
 startup-prev-session =
     .label = শেষবারের উইন্ডো ও ট্যাব দেখাবে
+disable-extension =
+    .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
 home-page-header = আপনার নীড়পাতা দেখাবে
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -193,6 +195,9 @@ applications-action-column =
     .label = করণীয়
     .accesskey = A
 drm-content-header = ডিজিটাল অধিকার ব্যবস্থাপনা (DRM) কন্টেন্ট
+play-drm-content =
+    .label = DRM-নিয়ন্ত্রিত কন্টেন্ট প্লে করুন
+    .accesskey = P
 play-drm-content-learn-more = আরও জানুন
 update-application-title = { -brand-short-name } হালনাগাদ
 update-application-description = সেরা পারফরম্যান্স, স্থায়ীত্ব এবং নিরাপত্তার জন্য { -brand-short-name } হালনাগাদ রাখুন।
@@ -220,6 +225,9 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = কার্যকারিতা
+performance-use-recommended-settings-checkbox =
+    .label = সুপারিশকৃত কর্মক্ষমতা বিষয়ক সেটিংগুলি ব্যবহার করুন
+    .accesskey = U
 performance-use-recommended-settings-desc = এই সেটিং আপনার কম্পিউটারের হার্ডওয়ার ও অপারেটিং সিস্টেমের জন্য তৈরি।
 performance-settings-learn-more = আরও জানুন
 performance-allow-hw-accel =
@@ -228,6 +236,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = কন্টেন্ট প্রক্রিয়াকরণ সীমা
     .accesskey = L
 performance-limit-content-process-enabled-desc = একাধিক ট্যাব ব্যবহারের সময় বাড়তি কন্টেন্ট প্রসেস কার্যক্ষমতা বৃদ্ধি করে, কিন্তু এতে বেশি মেমরি ব্যবহৃত হয়।
+performance-limit-content-process-disabled-desc = কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস { -brand-short-name } এ সম্ভব। <a>শিখুন, মাল্টিপ্রসেস চালু আছে কিনা কিভাবে পরীক্ষা করতে হয়</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
