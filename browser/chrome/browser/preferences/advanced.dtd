@@ -64,7 +64,7 @@ available. -->
 <!ENTITY siteData.label                  "Dados do site">
 <!ENTITY clearSiteData.label             "Limpar todos os dados">
 <!ENTITY clearSiteData.accesskey         "L">
-<!ENTITY siteData1.label                 "Cookies e Dados de site">
+<!ENTITY siteData1.label                 "Cookies e Dados de sites">
 <!ENTITY clearSiteData1.label            "Limpar dados…">
 <!ENTITY clearSiteData1.accesskey        "L">
 <!ENTITY siteDataSettings.label          "Configurações…">
