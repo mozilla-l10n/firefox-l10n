@@ -64,6 +64,9 @@ use-current-pages =
            *[other] Šiuo metu atverti tinklalapiai
         }
     .accesskey = Š
+show-tabs-in-taskbar =
+    .label = Rodyti kortelių miniatiūras „Windows“ užduočių juostoje
+    .accesskey = m
 
 ## General Section - Language & Appearance
 
@@ -78,6 +81,12 @@ choose-language-description = Pasirinkite kalbą, kuria pageidaujate matyti tink
 choose-button =
     .label = Pasirinkti…
     .accesskey = P
+translate-web-pages =
+    .label = Versti tinklalapių turinį
+    .accesskey = V
+translate-exceptions =
+    .label = Išimtys…
+    .accesskey = š
 
 ## General Section - Files and Applications
 
@@ -106,6 +115,15 @@ applications-action-column =
 ## General Section - Browsing
 
 browsing-title = Naršymas
+browsing-use-autoscroll =
+    .label = Automatiškai slinkti dokumentą
+    .accesskey = u
+browsing-use-smooth-scrolling =
+    .label = Slinkti tolygiai
+    .accesskey = t
+browsing-use-cursor-navigation =
+    .label = Naršymui tinklalapyje naudoti rodyklių klavišus
+    .accesskey = r
 
 ## General Section - Proxy
 
