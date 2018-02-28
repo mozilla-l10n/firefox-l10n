@@ -57,6 +57,7 @@ startup-header = Startować
 separate-profile-mode =
     .label = { -brand-short-name } a Firefox dowolić, w samsnym času běžeć
 use-firefox-sync = Pokiw: To separatne profile wužiwa. Wužiwajće { -sync-brand-short-name }, zo byšće daty mjez nimi dźělił.
+get-started-not-logged-in = So pola { -sync-brand-short-name } přizjewić…
 get-started-configured = Nastajenja { -sync-brand-short-name } wočinić
 always-check-default =
     .label = Přeco kontrolować, hač { -brand-short-name } je waš standardny wobhladowak
@@ -127,6 +128,13 @@ containers-disable-alert-desc =
         [two] Jeli kontejnerowe rajtarki nětko znjemóžnjeće, so { $tabCount } kontejnerowej rajtarkaj začinitej. Chceće kontejnerowe rajtarki woprawdźe znjemóžnić?
         [few] Jeli kontejnerowe rajtarki nětko znjemóžnjeće, so { $tabCount } kontejnerowe rajtarki začinja. Chceće kontejnerowe rajtarki woprawdźe znjemóžnić?
        *[other] Jeli kontejnerowe rajtarki nětko znjemóžnjeće, so { $tabCount } kontejnerowych rajtarkow začini. Chceće kontejnerowe rajtarki woprawdźe znjemóžnić?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount } kontejnerowy rajtark začinić
+        [two] { $tabCount } kontejnerowej rajtarkaj začinić
+        [few] { $tabCount } kontejnerowe rajtarki začinić
+       *[other] { $tabCount } kontejnerowych rajtarkow začinić
     }
 containers-disable-alert-cancel-button = Zmóžnjene wostajić
 
