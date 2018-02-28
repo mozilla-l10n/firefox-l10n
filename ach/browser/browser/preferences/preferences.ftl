@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Nyut pot buk ma tye nono
 startup-prev-session =
     .label = Nyut dirica ki dirca matino mamegi ma ceng ca
+disable-extension =
+    .label = Juk lamed
 home-page-header = Nyut pot buk mamegi me gang
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = Dirica matino
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab wire ikin dirica matino i kit ma ki tiyo kwedgi cokki
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Yab kakube i dirica matino me kaka i dirica manyen
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Niangi kace tye ka loro dirica matino mapol
     .accesskey = m
@@ -131,6 +136,7 @@ containers-disable-alert-cancel-button = Wek ma kicako
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Leb ki Neno
 fonts-and-colors-header = Dit me coc & rangi
 default-font = Dit coc makwongo
     .accesskey = D
@@ -190,10 +196,14 @@ applications-action-column =
     .accesskey = T
 play-drm-content-learn-more = Nong ngec mapol
 update-application-title = Ngec manyen me { -brand-short-name }
+update-application-description = Gwok { -brand-short-name } ki ngec manyen pi tic maber loyo, cung matek ki ber bedo.
 update-history =
     .label = Nyut Ngec manyen mukato…
     .accesskey = g
 update-application-allow-description = Yee ki { -brand-short-name } me
+update-application-auto =
+    .label = Ket ngec manyen pire kene (kicwako)
+    .accesskey = K
 update-application-check-choose =
     .label = Rot pi ngec manyen, ento weko iyero kace imito keto gi
     .accesskey = R
@@ -210,6 +220,10 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Tic
+performance-use-recommended-settings-checkbox =
+    .label = Tii ki ter me tic ma kicimo.
+    .accesskey = T
+performance-settings-learn-more = Nong ngec mapol
 performance-allow-hw-accel =
     .label = Tii ki lamed dwiro pa nyonyo ka tye
     .accesskey = o
@@ -239,6 +253,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy me netwak
+network-proxy-connection-learn-more = Nong ngec mapol
 network-proxy-connection-settings =
     .label = Tero…
     .accesskey = e
