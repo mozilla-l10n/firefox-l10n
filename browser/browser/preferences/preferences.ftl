@@ -68,6 +68,9 @@ download-save-to =
 applications-type-column =
     .label = Τύπος περιεχομένου
     .accesskey = Τ
+update-application-use-service =
+    .label = Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων
+    .accesskey = υ
 
 ## General Section - Performance
 
