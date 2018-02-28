@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sempre
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opções
            *[other] Preferências
         }
@@ -46,5 +47,55 @@ feature-enable-requires-restart = O { -brand-short-name } deve ser reiniciado pa
 feature-disable-requires-restart = O { -brand-short-name } deve ser reiniciado para desabilitar esta funcionalidade.
 should-restart-title = Reiniciar o { -brand-short-name }
 should-restart-ok = Reiniciar o { -brand-short-name } agora
-revert-no-restart-button = Reverter
 restart-later = Reiniciar depois
+
+## General Section
+
+startup-header = Iniciar
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar a página aberta
+           *[other] Usar as páginas abertas
+        }
+    .accesskey = a
+restore-default =
+    .label = Restaurar o padrão
+    .accesskey = R
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Fontes e cores
+advanced-fonts =
+    .label = Avançado…
+    .accesskey = v
+colors-settings =
+    .label = Cores…
+    .accesskey = o
+choose-button =
+    .label = Selecionar…
+    .accesskey = S
+
+## General Section - Files and Applications
+
+download-header = Downloads
+applications-type-column =
+    .label = Tipo de conteúdo
+    .accesskey = T
+applications-action-column =
+    .label = Ação
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Navegação
+
+## General Section - Proxy
+
