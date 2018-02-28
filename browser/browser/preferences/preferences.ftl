@@ -103,6 +103,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = તમને બહુવિધ ટેબ્સ બંધ કરતી વખતે ચેતવશે
     .accesskey = m
+switch-links-to-new-tabs =
+    .label = જ્યારે તમે કોઈ નવી ટેબમાં લિંક ખોલો છો, ત્યારે તેને તરત જ સ્વિચ કરો
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Windows કાર્યપટ્ટીમાં ટૅબ પૂર્વદર્શનનો બતાવો
     .accesskey = k
@@ -114,6 +117,16 @@ browser-containers-settings =
     .label = સેટીંગ…
     .accesskey = i
 containers-disable-alert-title = બધા કન્ટેઈનર ટૅબ્સ બંધ કરીએ?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] જો તમે હવે કન્ટેઈનર ટૅબ્સ અક્ષમ કરો છો, તો { $tabCount } કન્ટેનર ટેબ બંધ કરવામાં આવશે. શું તમે ખરેખર કન્ટેઈનર ટેબ્સને અક્ષમ કરવા માંગો છો?
+       *[other]  જો તમે હવે કન્ટેઈનર ટૅબને અક્ષમ કરો છો, તો { $tabCount } કન્ટેનર ટેબ્સ બંધ થઈ જશે. શું તમે ખરેખર કન્ટેઈનર ટેબ્સને અક્ષમ કરવા માંગો છો?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount } કન્ટેઈનર ટૅબને બંધ કરો
+       *[other] { $tabCount } કન્ટેનર ટૅબ્સને બંધ કરો
+    }
 containers-disable-alert-cancel-button = સક્ષમ રાખો
 
 ## General Section - Language & Appearance
