@@ -39,6 +39,7 @@ use-current-pages =
            *[other] Dirisa Ditsebe tsa Ga jaana
         }
     .accesskey = T
+tabs-group-header = Ditab
 
 ## General Section - Language & Appearance
 
