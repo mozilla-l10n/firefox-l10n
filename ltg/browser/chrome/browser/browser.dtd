@@ -77,7 +77,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Drukys prīkšskatejums">
 <!ENTITY printPreviewCmd.accesskey "p">
-<!ENTITY printCmd.label "Drukuot…">
+<!ENTITY printCmd.label "Drukōt…">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "p">
 
@@ -206,8 +206,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "r">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Puorīt iz adresu, kas radzama vītys juslā">
-<!ENTITY printButton.label            "Drukuot">
-<!ENTITY printButton.tooltip          "Drukuot itū lopu">
+<!ENTITY printButton.label            "Drukōt">
+<!ENTITY printButton.tooltip          "Drukōt itū lopu">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Apsavērt lopys informaceju">
 
@@ -583,7 +583,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Saglobuot ītvoru kai…">
 <!ENTITY saveFrameCmd.accesskey       "t">
-<!ENTITY printFrameCmd.label          "Drukuot ītvoru…">
+<!ENTITY printFrameCmd.label          "Drukōt ītvoru…">
 <!ENTITY printFrameCmd.accesskey      "D">
 <!ENTITY saveLinkCmd.label            "Saglobuot saiti kai…">
 <!ENTITY saveLinkCmd.accesskey        "k">
