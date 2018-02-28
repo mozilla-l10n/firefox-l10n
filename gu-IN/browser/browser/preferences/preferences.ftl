@@ -65,9 +65,15 @@ use-current-pages =
            *[other] વર્તમાન પાનાંઓ વાપરો
         }
     .accesskey = C
+choose-bookmark =
+    .label = બુકમાર્ક વાપરો…
+    .accesskey = B
 restore-default =
     .label = મૂળભૂતમાં પુનઃસંગ્રહો
     .accesskey = R
+show-tabs-in-taskbar =
+    .label = Windows કાર્યપટ્ટીમાં ટૅબ પૂર્વદર્શનનો બતાવો
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
@@ -82,6 +88,12 @@ choose-language-description = પાનાંઓ દર્શાવવા મા
 choose-button =
     .label = પસંદ કરો...
     .accesskey = o
+translate-web-pages =
+    .label = વેબ સમાવિષ્ટ અનુવાદ કરો
+    .accesskey = T
+translate-exceptions =
+    .label = અપવાદ…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
@@ -106,6 +118,9 @@ applications-type-column =
 applications-action-column =
     .label = ક્રિયા
     .accesskey = A
+update-application-use-service =
+    .label = સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો
+    .accesskey = b
 
 ## General Section - Performance
 
