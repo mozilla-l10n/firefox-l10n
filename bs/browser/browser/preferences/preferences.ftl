@@ -64,6 +64,9 @@ always-check-default =
     .accesskey = g
 is-default = { -brand-short-name } je trenutno vaš glavni browser
 is-not-default = { -brand-short-name } trenutno nije vaš glavni browser
+set-as-my-default-browser =
+    .label = Učini glavnim…
+    .accesskey = G
 startup-page = Kada se { -brand-short-name } pokrene
     .accesskey = s
 startup-user-homepage =
@@ -72,6 +75,8 @@ startup-blank-page =
     .label = Prikaži praznu stranicu
 startup-prev-session =
     .label = Prikazati vaše prozore i tabove od zadnjeg puta
+disable-extension =
+    .label = Onemogući ekstenziju
 home-page-header = Prikazati vašu početnu stranicu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -130,6 +135,7 @@ containers-disable-alert-cancel-button = Ostavi omogućeno
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Jezik i izled
 fonts-and-colors-header = Fontovi & Boje
 default-font = Izvorni font:
     .accesskey = f
@@ -141,6 +147,7 @@ advanced-fonts =
 colors-settings =
     .label = Boje…
     .accesskey = o
+language-header = Jezik
 choose-language-description = Izaberite željeni jezik za prikaz stranica
 choose-button =
     .label = Izaberi…
@@ -157,6 +164,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Fajlovi i aplikacije
 download-header = Preuzimanja
 download-save-to =
     .label = Spasi fajlove u
@@ -176,6 +184,7 @@ download-always-ask-where =
     .label = Uvijek vas pitati gdje želite spasiti fajl
     .accesskey = a
 applications-header = Aplikacije
+applications-description = Izaberite kako { -brand-short-name } upravlja fajlovima koje preuzmete sa weba ili aplikacijama koje koristite za vrijeme surfanja.
 applications-filter =
     .placeholder = Pretraži tipove fajlova ili aplikacije
 applications-type-column =
@@ -184,27 +193,53 @@ applications-type-column =
 applications-action-column =
     .label = Akcija
     .accesskey = A
+drm-content-header = Digital Rights Management (DRM) sadržaj
+play-drm-content =
+    .label = Reproduciraj DRM-kontrolisani sadržaj
+    .accesskey = R
 play-drm-content-learn-more = Saznajte više
 update-application-title = { -brand-short-name } nadogradnje
+update-application-description = Nadograđuj { -brand-short-name } radi najboljih performansi, stabilnosti i sigurnosti.
+update-application-info = Verzija { $version } <a>Šta je novo</a>
 update-history =
     .label = Prikaži historijat nadogradnji…
     .accesskey = P
 update-application-allow-description = Dozvoli { -brand-short-name }u da
+update-application-auto =
+    .label = Automatski instaliraj nadogradnje (preporučeno)
+    .accesskey = A
 update-application-check-choose =
     .label = Provjeri za nadogradnju, ali me prvo pitaj da li želim instalirati
     .accesskey = P
 update-application-manual =
     .label = Nikad ne provjeravaj za nadogradnju (nije preporučeno)
     .accesskey = N
+update-application-use-service =
+    .label = Koristi pozadinski servis za instalaciju nadogradnji
+    .accesskey = b
 update-enable-search-update =
     .label = Automatski nadograđuj pretraživače
     .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Performanse
+performance-use-recommended-settings-checkbox =
+    .label = Koristi preporučene postavke performansi
+    .accesskey = K
+performance-use-recommended-settings-desc = Ove postavke su prilagođene za hardver i operativni sistem vašeg računara.
+performance-settings-learn-more = Saznajte više
 performance-allow-hw-accel =
     .label = Koristi hardversko ubrzanje kada je dostupno
     .accesskey = u
+performance-limit-content-process-option = Limit procesa sadržaja
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Dodatni procesi sadržaja mogu unaprijediti performanse kada koristite više tabova, ali će koristiti više memorije.
+performance-limit-content-process-disabled-desc = Promjena broja procesa sadržaja je moguća samo sa multiprocesnim { -brand-short-name }om. <a>Saznajte kako provjeriti da li su multiprocesi omogućeni</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (izvorno)
 
 ## General Section - Browsing
 
@@ -227,6 +262,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Mrežni proxy
 network-proxy-connection-settings =
     .label = Postavke…
     .accesskey = e
