@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = नेहमी
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] पर्याय
            *[other] प्राधान्यक्रम
         }
@@ -46,5 +47,23 @@ feature-enable-requires-restart = हे गुणविशेष सुरू �
 feature-disable-requires-restart = हे गुणविशेष बंद करण्याकरिता { -brand-short-name }ला पुन्हा सुरू करा.
 should-restart-title = { -brand-short-name }ला पुन्हा सुरू करा
 should-restart-ok = { -brand-short-name } लगेच पुनर्रारंभित करा
-revert-no-restart-button = पूर्वस्थित करा
 restart-later = नंतर पुनःसुरु करा
+
+## General Section
+
+startup-header = प्रारंभीकरण
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
