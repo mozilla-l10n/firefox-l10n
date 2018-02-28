@@ -58,11 +58,34 @@ startup-blank-page =
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Ffontiau a Lliwiau
+advanced-fonts =
+    .label = Uwch…
+    .accesskey = w
+colors-settings =
+    .label = Lliwiau…
+    .accesskey = i
 choose-language-description = Dewis eich iaith ar gyfer dangos tudalennau
+choose-button =
+    .label = Dewis…
+    .accesskey = D
 
 ## General Section - Files and Applications
 
 download-header = Llwytho i Lawr
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Dewis…
+           *[other] Pori…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] D
+           *[other] P
+        }
+applications-type-column =
+    .label = Math o Gynnwys
+    .accesskey = M
 applications-action-column =
     .label = Gweithred
     .accesskey = G
@@ -85,3 +108,6 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Gosodiadau…
+    .accesskey = G
