@@ -32,6 +32,7 @@ should-restart-title = Маны { -brand-short-name } хат ыыт
 ## General Section
 
 startup-header = Саҥаттан
+is-default = Билигин куруук холбонор браузер - { -brand-short-name }
 startup-blank-page =
     .label = Кураанах сирэйи көрдөр
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -51,12 +52,14 @@ choose-bookmark =
 restore-default =
     .label = Саҥаттан
     .accesskey = С
+tabs-group-header = Кыбытыктар
 show-tabs-in-taskbar =
     .label = Кыбытыктар эскиистэрин Windows садаачатын панелыгар көрдөрөр буол
     .accesskey = т
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Бичик уонна өҥ
 advanced-fonts =
     .label = Эбии…
     .accesskey = Э
@@ -67,6 +70,9 @@ choose-language-description = Ситим-сирэйдэри көрөргө ха�
 choose-button =
     .label = Тал…
     .accesskey = а
+translate-exceptions =
+    .label = Туорааһыннар…
+    .accesskey = Т
 
 ## General Section - Files and Applications
 
@@ -97,6 +103,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Кыаллар буоллаҕына аппараат түргэтиини туһан
+    .accesskey = п
 
 ## General Section - Browsing
 
