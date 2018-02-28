@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Přeco
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Nastajenja
            *[other] Nastajenja
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } dyrbi so znowa startowa�
 feature-disable-requires-restart = { -brand-short-name } dyrbi so znowa startować, zo by tutu funkciju znjemóžnił.
 should-restart-title = { -brand-short-name } znowa startować
 should-restart-ok = { -brand-short-name } nětko znowa startować
+cancel-no-restart-button = Přetorhnyć
 restart-later = Pozdźišo znowa startować
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Wašu startowu stronu pokazać
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Aktualnu stronu wužiwać
            *[other] Aktualne strony wužiwać
         }
@@ -122,15 +121,13 @@ browser-containers-settings =
     .label = Nastajenja…
     .accesskey = s
 containers-disable-alert-title = Wšě kontejnerowe rajtarki začinić?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Jeli kontejnerowe rajtarki nětko znjemóžnjeće, so { $tabCount } kontejnerowy rajtark začini. Chceće kontejnerowe rajtarki woprawdźe znjemóžnić?
         [two] Jeli kontejnerowe rajtarki nětko znjemóžnjeće, so { $tabCount } kontejnerowej rajtarkaj začinitej. Chceće kontejnerowe rajtarki woprawdźe znjemóžnić?
         [few] Jeli kontejnerowe rajtarki nětko znjemóžnjeće, so { $tabCount } kontejnerowe rajtarki začinja. Chceće kontejnerowe rajtarki woprawdźe znjemóžnić?
        *[other] Jeli kontejnerowe rajtarki nětko znjemóžnjeće, so { $tabCount } kontejnerowych rajtarkow začini. Chceće kontejnerowe rajtarki woprawdźe znjemóžnić?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] { $tabCount } kontejnerowy rajtark začinić
         [two] { $tabCount } kontejnerowej rajtarkaj začinić
         [few] { $tabCount } kontejnerowe rajtarki začinić
@@ -175,13 +172,11 @@ download-save-to =
     .label = Dataje składować do
     .accesskey = k
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Wubrać…
            *[other] Přepytać…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] u
            *[other] e
         }
