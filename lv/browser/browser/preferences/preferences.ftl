@@ -57,13 +57,27 @@ startup-header = Palaišana
 separate-profile-mode =
     .label = Ļaut { -brand-short-name } un Firefox darboties vienlaicīgi
 use-firefox-sync = Padoms: Šis izmanto atsevišķu profilu. Izmantojiet sinhronizāciju, lai apmainītos ar datiem, starp šiem profiliem.
+get-started-not-logged-in = Pierakstīties { -sync-brand-short-name }…
+get-started-configured = Atvērt { -sync-brand-short-name } iestatījumus
 always-check-default =
     .label = Vienmēr pārbaudīt vai { -brand-short-name } ir noklusētais pārlūks
     .accesskey = t
 is-default = { -brand-short-name } šobrīd ir jūsu noklusētais pārlūks
 is-not-default = { -brand-short-name } šobrīd nav jūsu noklusētais pārlūks
+set-as-my-default-browser =
+    .label = Padarīt par noklusēto…
+    .accesskey = D
+startup-page = Kad { -brand-short-name } palaižas
+    .accesskey = p
+startup-user-homepage =
+    .label = Rādīt mājas lapu
 startup-blank-page =
     .label = Parādīt tukšu lapu
+startup-prev-session =
+    .label = Parādīt manus logus un cilnes no iepriekšējās reizes
+disable-extension =
+    .label = Deaktivēt paplašinājumu
+home-page-header = Rādīt mājas lapu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -82,19 +96,61 @@ restore-default =
     .label = Atjaunot uz noklusēto
     .accesskey = A
 tabs-group-header = Cilnes
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab slēdzas starp cilnēm to izmantošanas secībā
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = Vērt saites cilnēs nevis jaunos logos
+    .accesskey = v
+warn-on-close-multiple-tabs =
+    .label = Brīdināt, pirms aizvērt vairākas cilnes
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Brīdināt, kad vairāku ciļņu atvēršana varētu sabremzēt { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Kad es atveru saiti jaunā cilnē, pārslēgties uz šo cilni
+    .accesskey = c
 show-tabs-in-taskbar =
     .label = Rādīt cilņu bildītes Windows palodzē
     .accesskey = R
+browser-containers-enabled =
+    .label = Aktivēt saturošās cilnes
+    .accesskey = u
+browser-containers-learn-more = Uzzināt vairāk
+browser-containers-settings =
+    .label = Iestatījumi...
+    .accesskey = i
+containers-disable-alert-title = Aizvērt visas konteineru cilnes?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [zero] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilnes tiks aizvērtas. Vai tiešām vēlaties deaktivēt konteineru cilnes?
+        [one] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilne tiks aizvērta.  Vai tiešām vēlaties deaktivēt konteineru cilnes?
+       *[other] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilnes tiks aizvērtas.  Vai tiešām vēlaties deaktivēt konteineru cilnes?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [zero] Aizvērt { $tabCount } konteineru cilnes
+        [one] Aizvērt { $tabCount } konteineru cilni
+       *[other] Aizvērt { $tabCount } konteineru cilnes
+    }
+containers-disable-alert-cancel-button = Paturēt aktivētu
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Valoda un izskats
 fonts-and-colors-header = Fonti un krāsas
+default-font = Noklusējuma fonts
+    .accesskey = N
+default-font-size = Izmērs
+    .accesskey = S
 advanced-fonts =
     .label = Iestatījumi...
     .accesskey = a
 colors-settings =
     .label = Krāsas...
     .accesskey = K
+language-header = Valoda
 choose-language-description = Izvēlieties vēlamo valodu, kādā attēlot lapas
 choose-button =
     .label = Izvēlēties...
@@ -105,9 +161,13 @@ translate-web-pages =
 translate-exceptions =
     .label = Izņēmumi…
     .accesskey = z
+check-user-spelling =
+    .label = Rakstot pārbaudīt pareizrakstību
+    .accesskey = t
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Faili un programmas
 download-header = Lejupielādes
 download-save-to =
     .label = Vieta, kur saglabāt failus:
@@ -123,19 +183,66 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = Vienmēr jautāt man, kur saglabāt failus
+    .accesskey = A
+applications-header = Lietotnes
+applications-description = Izvēlieties kā { -brand-short-name } rīkosies ar failu lejupielādēm no tīmekļa lietotnēm.
+applications-filter =
+    .placeholder = Meklēt pēc failu tipa vai lietotnes
 applications-type-column =
     .label = Satura tips
     .accesskey = t
 applications-action-column =
     .label = Darbība
     .accesskey = a
+drm-content-header = Digitālā satura tiesību pārvaldības (DRM) saturs
+play-drm-content =
+    .label = Atskaņot DRM kontrolētu saturu
+    .accesskey = P
 play-drm-content-learn-more = Uzzināt vairāk
+update-application-title = { -brand-short-name } atjauninājumi
+update-application-description = Vienmēr atjauniniet { -brand-short-name }, lai iegūtu labāko drošību, stabilitāti un ātrdarbību.
+update-application-info = Versija { $version } <a>Kas jauns</a>
+update-history =
+    .label = Parādīt atjauninājumu vēsturi…
+    .accesskey = v
+update-application-allow-description = Ļaut { -brand-short-name }
+update-application-auto =
+    .label = Instalēt jauninājumus automātiski (ieteicams)
+    .accesskey = A
+update-application-check-choose =
+    .label = Pārbaudīt atjauninājumu pieejamību, bet ļaut man izvēlēties vai instalēt tos
+    .accesskey = P
+update-application-manual =
+    .label = Nekad nepārbaudīt atjauninājumus (nav ieteicams)
+    .accesskey = N
 update-application-use-service =
     .label = Instalēt atjauninājumus fonā
     .accesskey = f
+update-enable-search-update =
+    .label = Automātiski atjaunināt meklētājus
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-title = Veiktspēja
+performance-use-recommended-settings-checkbox =
+    .label = Izmantot ieteiktos veiktspējas iestatījumus
+    .accesskey = U
+performance-use-recommended-settings-desc = Šie iestatījumi ir pielāgoti jūsu datora aparatūrai un operētājsistēmai.
+performance-settings-learn-more = Uzzināt vairāk
+performance-allow-hw-accel =
+    .label = Ja pieejams, izmantot aparatūras paātrinājumu
+    .accesskey = j
+performance-limit-content-process-option = Satura procesu limits
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Papildu satura procesi var palielināt veiktspēju izmantojot vairākas cilnes, bet prasīs arī papildu atmiņu.
+performance-limit-content-process-disabled-desc = Modificēt satura procesu skaitu ir iespējama tikai ar vairāku procesu { -brand-short-name }. <a>Kā pārbaudīt, vai pieejams vairāku procesu režīms</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (noklusētais)
 
 ## General Section - Browsing
 
@@ -152,9 +259,13 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Vienmēr izmantot kursora taustiņus, lai pārvietotos pa lapām
     .accesskey = k
+browsing-search-on-start-typing =
+    .label = Meklēt rakstīto tekstu, kolīdz es sāku rakstīt
+    .accesskey = m
 
 ## General Section - Proxy
 
+network-proxy-title = Tīkla starpniekserveris
 network-proxy-connection-settings =
     .label = Iestatījumi...
     .accesskey = e
