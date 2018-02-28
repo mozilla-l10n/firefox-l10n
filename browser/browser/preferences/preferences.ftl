@@ -57,10 +57,18 @@ startup-header = Startside
 separate-profile-mode =
     .label = Tillat { -brand-short-name } og Firefox å kjøre samtidig
 use-firefox-sync = Tips: Dette bruker egne profiler. Bruk { -sync-brand-short-name } for å dele data mellom dem.
+always-check-default =
+    .label = Kontroller alltid om { -brand-short-name } er standardnettleser
+    .accesskey = a
 is-default = { -brand-short-name } er din standard nettleser
 is-not-default = { -brand-short-name } er ikke valgt som standard nettleser
+startup-user-homepage =
+    .label = Vis startside
 startup-blank-page =
     .label = Vis tom side
+startup-prev-session =
+    .label = Vis vinduer og faner som ble brukt sist
+home-page-header = Vis startside
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -79,9 +87,40 @@ restore-default =
     .label = Bruk standard
     .accesskey = s
 tabs-group-header = Faner
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab veksler mellom faner i nylig brukt-rekkefølge
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Advar ved lukking av flere faner
+    .accesskey = A
+warn-on-open-many-tabs =
+    .label = Advar når åpning av mange faner samtidig kan gjøre { -brand-short-name } treg
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Når du åpner en lenke i en ny fane, bytt til fanen med en gang
+    .accesskey = N
 show-tabs-in-taskbar =
     .label = Vis forhåndsvisning av faner i Windows-oppgavelinjen
     .accesskey = s
+browser-containers-enabled =
+    .label = Aktiver innholdsfaner
+    .accesskey = k
+browser-containers-learn-more = Les mer
+browser-containers-settings =
+    .label = Innstillinger …
+    .accesskey = I
+containers-disable-alert-title = Lukk alle innholdsfaner?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Hvis du deaktiverer innholdsfaner nå, vil { $tabCount } innholdsfane bli stengt. Er du sikker på at du vil deaktivere innholdsfaner?
+       *[other] Hvis du deaktiverer innholdsfaner nå, vil { $tabCount } innholdsfaner bli stengt. Er du sikker på at du vil deaktivere innholdsfaner?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Lukk { $tabCount } innholdsfane
+       *[other] Lukk { $tabCount } innholdsfaner
+    }
+containers-disable-alert-cancel-button = Behold aktivert
 
 ## General Section - Language & Appearance
 
@@ -102,6 +141,9 @@ translate-web-pages =
 translate-exceptions =
     .label = Unntak …
     .accesskey = n
+check-user-spelling =
+    .label = Kontroller staving mens du skriver
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -120,6 +162,9 @@ download-choose-folder =
             [macos] o
            *[other] o
         }
+download-always-ask-where =
+    .label = Spør deg alltid hvor filer skal lagres
+    .accesskey = a
 applications-type-column =
     .label = Innholdstype
     .accesskey = I
@@ -127,6 +172,7 @@ applications-action-column =
     .label = Handling
     .accesskey = H
 play-drm-content-learn-more = Les mer
+update-application-title = { -brand-short-name }-oppdateringer
 update-application-use-service =
     .label = Bruk en bakgrunnstjeneste for å installere oppdateringer
     .accesskey = B
@@ -149,6 +195,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Alltid bruk piltaster for å navigere innenfor nettsider
     .accesskey = A
+browsing-search-on-start-typing =
+    .label = Søk etter tekst når jeg begynner å skrive
+    .accesskey = k
 
 ## General Section - Proxy
 
