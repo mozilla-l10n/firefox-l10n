@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Doimo
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Moslamalar
            *[other] Moslamalar
         }
@@ -38,5 +39,65 @@ feature-enable-requires-restart = Ushbu xususiyatni yoqish uchun { -brand-short-
 feature-disable-requires-restart = Ushbu xususiyatni oʻchirish uchun { -brand-short-name } qaytadan ishga tushirilishi kerak.
 should-restart-title = { -brand-short-name }`ni qayta ishga tushirish
 should-restart-ok = { -brand-short-name }ni hozir qayta ishga tushirish
-revert-no-restart-button = &Tiklash
 restart-later = Keyinroq qayta ishga tushirish
+
+## General Section
+
+startup-header = Ishga tushirish
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Joriy sahifadan foydalanish
+           *[other] Joriy sahifalardan foydalanish
+        }
+    .accesskey = J
+tabs-group-header = Ichki oynalar
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Shriftlar va ranglar
+colors-settings =
+    .label = Ranglar…
+    .accesskey = R
+choose-button =
+    .label = Tanlash…
+    .accesskey = T
+
+## General Section - Files and Applications
+
+download-header = Yuklab olishlar
+applications-type-column =
+    .label = Kontentda yozish
+    .accesskey = y
+applications-action-column =
+    .label = Amal
+    .accesskey = A
+update-application-use-service =
+    .label = Yangilanishlarni oʻrnatish uchun orqa fon xizmatidan foydalanish
+    .accesskey = o
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Koʻrish
+browsing-use-autoscroll =
+    .label = Avtosiljitishdan foydalanish
+    .accesskey = A
+browsing-use-smooth-scrolling =
+    .label = Bir tekisda siljitishdan foydalanish
+    .accesskey = e
+browsing-use-cursor-navigation =
+    .label = Doimo koʻrsatkich tugmalaridan sahifani kuzatish uchun foydalanish 
+    .accesskey = k
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Parametrlar…
+    .accesskey = e
