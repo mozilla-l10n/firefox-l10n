@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = हरदम
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] विकल्प
            *[other] वरीयता
         }
@@ -38,5 +39,76 @@ feature-enable-requires-restart = { -brand-short-name } केँ ई फीच�
 feature-disable-requires-restart = { -brand-short-name } केँ ई फीचर केँ निष्क्रिय करबाक लेल फेर आरंभ करू.
 should-restart-title = { -brand-short-name } फेर आरंभ करू
 should-restart-ok = { -brand-short-name } केँ अखन फेर आरंभ करू
-revert-no-restart-button = पूर्व स्थिति मे आउ
 restart-later = कनि काल मे फेर सँ शुरू करू
+
+## General Section
+
+startup-header = आरंभन
+startup-blank-page =
+    .label = एकटा खाली पृष्ठ देखाउ
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1]  मोजुदा पृष्ठक प्रयोग  करू 
+           *[other]  मोजुदा पृष्ठक प्रयोग  करू 
+        }
+    .accesskey = C
+restore-default =
+    .label = पूर्वनिर्धारित मे फेर जमा  करू 
+    .accesskey = R
+show-tabs-in-taskbar =
+    .label = विंडो कार्यपट्टी मे टैब पूर्वावलोकन देखाउ
+    .accesskey = k
+
+## General Section - Language & Appearance
+
+advanced-fonts =
+    .label = उन्नत…
+    .accesskey = A
+colors-settings =
+    .label = रंग…
+    .accesskey = C
+choose-button =
+    .label = चुनू…
+    .accesskey = o
+
+## General Section - Files and Applications
+
+download-header = डाउनलोड
+download-save-to =
+    .label = एतय फाइल सहेजू
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] चुनू…
+           *[other] ब्राउज करू …
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+applications-type-column =
+    .label = अंतर्वस्तु प्रकार
+    .accesskey = T
+applications-action-column =
+    .label = क्रिया
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = ब्राउजिंग
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = सेटिंग…
+    .accesskey = e
