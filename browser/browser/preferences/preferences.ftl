@@ -125,6 +125,7 @@ containers-disable-alert-ok-button =
         [few] Zavřít { $tabCount } kontejnerové panely
        *[other] Zavřít { $tabCount } kontejnerových panelů
     }
+containers-disable-alert-cancel-button = Nechat povolené
 
 ## General Section - Language & Appearance
 
