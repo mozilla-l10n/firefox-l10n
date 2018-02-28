@@ -115,6 +115,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Usar a aceleración por hardware cando estea dispoñíbel
+    .accesskey = r
 
 ## General Section - Browsing
 
