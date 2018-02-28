@@ -51,18 +51,95 @@ restart-later = Ponovno zaženi pozneje
 
 ## General Section
 
+startup-header = Zagon
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Dovoli, da { -brand-short-name } in Firefox tečeta sočasno
+startup-blank-page =
+    .label = prikaži prazno stran
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Uporabi trenutno stran
+           *[other] Uporabi trenutne strani
+        }
+    .accesskey = T
+choose-bookmark =
+    .label = Uporabi zaznamek …
+    .accesskey = z
+tabs-group-header = Zavihki
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Pisave in barve
+advanced-fonts =
+    .label = Napredno …
+    .accesskey = D
+colors-settings =
+    .label = Barve …
+    .accesskey = B
+choose-language-description = Izberite prednosten jezik za prikazovanje strani
+choose-button =
+    .label = Izberi …
+    .accesskey = e
+translate-web-pages =
+    .label = Prevajanje spletne vsebine
+    .accesskey = T
+translate-exceptions =
+    .label = Izjeme …
+    .accesskey = I
 
 ## General Section - Files and Applications
 
+download-header = Prenosi
+download-save-to =
+    .label = Shrani datoteke v
+    .accesskey = S
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Izberi …
+           *[other] Prebrskaj …
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] b
+           *[other] b
+        }
+applications-type-column =
+    .label = Vrsta vsebine
+    .accesskey = T
+applications-action-column =
+    .label = Dejanje
+    .accesskey = A
+play-drm-content-learn-more = Več o tem
+update-application-use-service =
+    .label = Uporabi storitev za nameščanje posodobitev v ozadju
+    .accesskey = s
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Brskanje
+browsing-use-autoscroll =
+    .label = Uporabljaj samodrsenje
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Uporabljaj gladko drsenje
+    .accesskey = g
+browsing-use-cursor-navigation =
+    .label = Vselej uporabi tipke na tipkovnici za navigacijo po straneh
+    .accesskey = t
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Nastavitve …
+    .accesskey = n
