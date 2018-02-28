@@ -53,18 +53,33 @@ restart-later = Ponovno pokreni poslije
 startup-header = Pokretanje
 startup-blank-page =
     .label = Prikaži praznu stranicu
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Koristi trenutnu stranicu
+           *[other] Koristi trenutne stranice
+        }
+    .accesskey = c
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
 restore-default =
     .label = Vrati na uobičajeno
     .accesskey = j
+tabs-group-header = Kartice
 show-tabs-in-taskbar =
     .label = Prikaži pretpregled kartica u Windows traci zadataka
     .accesskey = k
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Napredno...
+    .accesskey = a
 colors-settings =
     .label = Boje...
     .accesskey = B
@@ -90,9 +105,15 @@ download-choose-folder =
             [macos] e
            *[other] i
         }
+applications-type-column =
+    .label = Vrsta sadržaja
+    .accesskey = t
 applications-action-column =
     .label = Akcija
     .accesskey = A
+update-application-use-service =
+    .label = Koristi pozadinski servis za instalaciju dopuna
+    .accesskey = K
 
 ## General Section - Performance
 
