@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Palagi
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Options
            *[other] Mga Preferences
         }
@@ -46,5 +47,90 @@ feature-enable-requires-restart = { -brand-short-name } ay dapat simulan ulit up
 feature-disable-requires-restart = { -brand-short-name } ay dapat simulan ulit upang hindi paganahin ang tampok na ito.
 should-restart-title = I-Restart { -brand-short-name }
 should-restart-ok = Mag-restart { -brand-short-name } ngayon
-revert-no-restart-button = Ibalik
 restart-later = I-restart Mamaya
+
+## General Section
+
+startup-header = Nagsisimula
+is-default = { -brand-short-name } ay ang iyong kasalukuyang ginagamit na browser.
+startup-blank-page =
+    .label = Magpakita ng blankong pahina
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Gamitin ang Kasalukuyang Pahina
+           *[other] Gamitin ang kasalukuyang mga pahina
+        }
+    .accesskey = G
+choose-bookmark =
+    .label = Gamitan ng Bookmark
+    .accesskey = B
+restore-default =
+    .label = Ibalik sa Default
+    .accesskey = I
+tabs-group-header = Tabs
+show-tabs-in-taskbar =
+    .label = Ipakita ang paunang-tingin na tab sa Windows taskbar
+    .accesskey = k
+
+## General Section - Language & Appearance
+
+advanced-fonts =
+    .label = Advanced…
+    .accesskey = A
+colors-settings =
+    .label = Mga Kulay…
+    .accesskey = M
+choose-language-description = Pumili ng iyong gustong wika para sa pagpapakita ng mga pahina
+choose-button =
+    .label = Choose…
+    .accesskey = o
+translate-exceptions =
+    .label = Mga exceptions...
+    .accesskey = x
+
+## General Section - Files and Applications
+
+download-header = Mga Download
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Choose…
+           *[other] Browse…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+applications-action-column =
+    .label = Aksyon
+    .accesskey = A
+update-application-use-service =
+    .label = Gumamit ng background service upang i-install ang mga update
+    .accesskey = b
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-use-autoscroll =
+    .label = Gamitin ang autoscrolling
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Gamitin ang maayos na pag-scroll
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = Palagiang gamitin ang mga cursor key upang libutin ang mga pahina
+    .accesskey = c
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Settings…
+    .accesskey = e
