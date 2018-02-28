@@ -52,6 +52,16 @@ restart-later = Käynnistä uudestaan myöhemmin
 ## General Section
 
 startup-header = Käynnistys
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Salli { -brand-short-name }in ja Firefoxin olla käynnissä samaan aikaan
+use-firefox-sync = Vinkki: Tämä vaatii erilliset käyttäjäprofiilit. Synkronoi profiilien tiedot { -sync-brand-short-name }-palvelulla.
+always-check-default =
+    .label = Tarkista aina, onko { -brand-short-name } oletusselain
+    .accesskey = i
+is-default = { -brand-short-name } on järjestelmän oletusselain
+is-not-default = { -brand-short-name } ei ole järjestelmän oletusselain
 startup-blank-page =
     .label = Avaa tyhjä sivu
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -65,9 +75,13 @@ use-current-pages =
            *[other] Käytä avoimia sivuja
         }
     .accesskey = K
+choose-bookmark =
+    .label = Käytä kirjanmerkkiä…
+    .accesskey = m
 restore-default =
     .label = Palauta oletusasetus
     .accesskey = P
+tabs-group-header = Välilehdet
 
 ## General Section - Language & Appearance
 
@@ -75,10 +89,19 @@ fonts-and-colors-header = Kirjasinlajit ja värit
 advanced-fonts =
     .label = Lisäasetukset…
     .accesskey = a
+colors-settings =
+    .label = Värit…
+    .accesskey = ä
 choose-language-description = Valitse kielet, joilla sivut näytetään
 choose-button =
     .label = Valitse…
     .accesskey = V
+translate-web-pages =
+    .label = Käännä sivustojen sisältö
+    .accesskey = n
+translate-exceptions =
+    .label = Poikkeukset…
+    .accesskey = i
 
 ## General Section - Files and Applications
 
@@ -86,12 +109,27 @@ download-header = Lataukset
 download-save-to =
     .label = Tallenna kansioon
     .accesskey = T
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Valitse…
+           *[other] Selaa…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] S
+        }
 applications-type-column =
     .label = Sisältötyyppi
     .accesskey = S
 applications-action-column =
     .label = Toiminto
     .accesskey = o
+play-drm-content-learn-more = Lue lisää
+update-application-use-service =
+    .label = Asenna päivitykset taustalla toimivalla palvelulla
+    .accesskey = u
 
 ## General Section - Performance
 
@@ -102,6 +140,12 @@ browsing-title = Selaus
 browsing-use-autoscroll =
     .label = Vieritä sivua automaattisesti
     .accesskey = V
+browsing-use-smooth-scrolling =
+    .label = Vieritä sivua portaattomasti
+    .accesskey = e
+browsing-use-cursor-navigation =
+    .label = Liiku sivuilla nuolinäppäimillä
+    .accesskey = s
 
 ## General Section - Proxy
 
