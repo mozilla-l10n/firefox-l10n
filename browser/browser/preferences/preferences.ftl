@@ -64,12 +64,19 @@ always-check-default =
     .accesskey = t
 is-default = { -brand-short-name } ko wanngoraade maa woowaande oo sahaa
 is-not-default = { -brand-short-name } wonaa wanngoraade maa woowaande
+set-as-my-default-browser =
+    .label = Waɗ ɗum Woowaande…
+    .accesskey = W
+startup-page = So { -brand-short-name } hurmii
+    .accesskey = o
 startup-user-homepage =
     .label = Hollu hello maa jaɓɓorgo
 startup-blank-page =
     .label = Hollu hello meho
 startup-prev-session =
     .label = Hollit kenorɗe maa ɗee e tabbe cakkitiiɗe
+disable-extension =
+    .label = Daaƴ Timmitol
 home-page-header = Hollu hello maa jaɓɓorgo
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -126,6 +133,7 @@ containers-disable-alert-cancel-button = Woppu hurma
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Ɗemngal e Mbaydi
 fonts-and-colors-header = Ponte & Nooneeji
 default-font = Fontere woowaande:
     .accesskey = F
@@ -137,6 +145,7 @@ advanced-fonts =
 colors-settings =
     .label = Nooneeji…
     .accesskey = N
+language-header = Ɗemngal
 choose-language-description = Suɓo ɗemngal njiɗ-ɗaa ngam jaytinde kelle
 choose-button =
     .label = Suɓo…
@@ -153,6 +162,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Pille e Jaaɓnirɗe
 download-header = Gaawte
 download-save-to =
     .label = Danndu piille to
@@ -172,6 +182,7 @@ download-always-ask-where =
     .label = Kala sahaa naamno mi ɗo piille ndaɗndetee
     .accesskey = K
 applications-header = Jaaɓnirɗe
+applications-description = Suɓo no { -brand-short-name } waɗdata e piille ɗe ngaawtoto-ɗaa e geese walla jaaɓnirɗe ɗe kuutorto-ɗaa tuma banngagol maa.
 applications-filter =
     .placeholder = Yiylo sifaaji piille walla jaaɓnirɗe
 applications-type-column =
@@ -180,6 +191,10 @@ applications-type-column =
 applications-action-column =
     .label = Baɗal
     .accesskey = B
+drm-content-header = Loowdi Toppitagol Jojjanɗe Ngaandiwe (DRM)
+play-drm-content =
+    .label = Tar loowdi curdaandi DRM
+    .accesskey = T
 play-drm-content-learn-more = Ɓeydu humpito
 update-application-title = Kesɗitine { -brand-short-name }:
 update-history =
