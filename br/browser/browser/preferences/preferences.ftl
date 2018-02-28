@@ -122,6 +122,11 @@ browser-containers-settings =
     .label = Arventennoù…
     .accesskey = v
 containers-disable-alert-title = Serriñ an holl ivinelloù endalc'her?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } ivinell endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
+       *[other] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } ivinell endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
+    }
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Serriñ { $tabCount } ivinell endalc'her
