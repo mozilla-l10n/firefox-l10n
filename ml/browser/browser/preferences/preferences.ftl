@@ -63,6 +63,7 @@ always-check-default =
     .label = { -brand-short-name } നിങ്ങളുടെ ഡിഫള്‍ട്ട് ബ്രൌസറാണോ എന്ന് എപ്പോഴും പരിശോധിക്കുക
     .accesskey = y
 is-default = { -brand-short-name } ആണു് ഇപ്പോള്‍ സ്വതവേയുള്ള ബ്രൌസര്‍
+is-not-default = { -brand-short-name } അല്ല ഇപ്പോള്‍ സ്വതവേയുള്ള ബ്രൌസര്‍
 set-as-my-default-browser =
     .label = ഡിഫള്‍ട്ടാക്കുക…
     .accesskey = D
