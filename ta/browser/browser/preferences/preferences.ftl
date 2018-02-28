@@ -256,6 +256,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = வலைப்பின்னல் பதிலாள்
+network-proxy-connection-learn-more = மேலும் அறிய
 network-proxy-connection-settings =
     .label = அமைவுகள்…
     .accesskey = e
