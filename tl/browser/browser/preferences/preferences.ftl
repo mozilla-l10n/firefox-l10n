@@ -81,9 +81,38 @@ restore-default =
     .label = Ibalik sa Default
     .accesskey = I
 tabs-group-header = Tabs
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab cycles sa pamamagitan ng mga tab sa kamakailang ginamit order
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = Buksan ang mga link sa mga tab sa halip ng mga bagong window
+    .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = Babalaan ka kapag nagsasara ng maraming mga tab
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Binabalaan ka kapag nagbubukas ng maramihang mga tab ay maaaring makapagpabagal { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Kapag binuksan mo ang isang link sa isang bagong tab, agad itong lumipat
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Ipakita ang paunang-tingin na tab sa Windows taskbar
     .accesskey = k
+browser-containers-enabled =
+    .label = Paganahin ang mga Container Tab
+    .accesskey = n
+browser-containers-learn-more = Matuto ng higit pa
+browser-containers-settings =
+    .label = Mga setting…
+    .accesskey = i
+containers-disable-alert-title = Isara ang Lahat ng Mga Tab ng Lalagyan?
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Isara ang { $tabCount } Container Tab
+       *[other] Isara ang { $tabCount } Container Tab
+    }
+containers-disable-alert-cancel-button = Patuloy na pinagana
 
 ## General Section - Language & Appearance
 
@@ -121,6 +150,13 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+applications-header = Applications
+applications-description = Piliin kung paano { -brand-short-name } ang mga file na iyong na-download mula sa web o ang mga application na iyong ginagamit habang nagba-browse.
+applications-filter =
+    .placeholder = Maghanap ng mga uri ng file o mga application
+applications-type-column =
+    .label = Uri ng Nilalaman
+    .accesskey = T
 applications-action-column =
     .label = Aksyon
     .accesskey = A
@@ -140,6 +176,10 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-settings-learn-more = Karagdagang kalaaman
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (default)
 
 ## General Section - Browsing
 
