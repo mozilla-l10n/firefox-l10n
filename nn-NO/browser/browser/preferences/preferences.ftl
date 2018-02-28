@@ -54,6 +54,11 @@ restart-later = Start på nytt seinare
 startup-header = Startside
 is-default = { -brand-short-name } er standard nettlesar
 is-not-default = { -brand-short-name } er ikkje standard nettlesar
+startup-user-homepage =
+    .label = Vis startsida
+startup-prev-session =
+    .label = Vis vindauge og faner som vart brukte sist
+home-page-header = Vis startsida
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -66,13 +71,44 @@ use-current-pages =
         }
     .accesskey = B
 tabs-group-header = Faner
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab vekslar mellom faner i nyleg brukt-rekkjefølgje
+    .accesskey = T
+switch-links-to-new-tabs =
+    .label = Når du opnar ei lenke i ei ny fane, byt til fana med ein gong
+    .accesskey = N
 show-tabs-in-taskbar =
     .label = Vis førehandsvising av faner i Windows-oppgåvelinja
     .accesskey = s
+browser-containers-enabled =
+    .label = Aktiver innehaldsfaner
+    .accesskey = k
+browser-containers-learn-more = Les meir
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Dersom du deaktiverer innhaldsfaner no, vil { $tabCount } innhaldsfane bli stengt. Er du sikker på at du vil deaktivere innhaldsfaner?
+       *[other] Dersom du deaktiverer innhaldsfaner no, vil { $tabCount } innhaldsfaner bli stengt. Er du sikker på at du vil deaktivere innhaldsfaner?
+    }
+containers-disable-alert-cancel-button = Behald aktivert
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Skrifttypar og fargar
+advanced-fonts =
+    .label = Avansert…
+    .accesskey = A
+colors-settings =
+    .label = Fargar…
+    .accesskey = F
+choose-button =
+    .label = Vel…
+    .accesskey = V
+translate-exceptions =
+    .label = Unntak…
+    .accesskey = n
+check-user-spelling =
+    .label = Kontroller staving medan du skriv
+    .accesskey = K
 
 ## General Section - Files and Applications
 
@@ -83,6 +119,7 @@ applications-type-column =
 applications-action-column =
     .label = Handling
     .accesskey = H
+update-application-title = { -brand-short-name }-oppdateringar
 
 ## General Section - Performance
 
