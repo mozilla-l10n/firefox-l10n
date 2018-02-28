@@ -52,6 +52,8 @@ restart-later = Reiniciar depois
 ## General Section
 
 startup-header = Iniciar
+is-default = O { -brand-short-name } é o seu navegador padrão
+is-not-default = O { -brand-short-name } não é o seu navegador padrão
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -63,9 +65,13 @@ use-current-pages =
            *[other] Usar as páginas abertas
         }
     .accesskey = a
+choose-bookmark =
+    .label = Usar favorito…
+    .accesskey = f
 restore-default =
     .label = Restaurar o padrão
     .accesskey = R
+tabs-group-header = Abas
 
 ## General Section - Language & Appearance
 
@@ -79,6 +85,12 @@ colors-settings =
 choose-button =
     .label = Selecionar…
     .accesskey = S
+translate-web-pages =
+    .label = Traduzir conteúdo da web
+    .accesskey = r
+translate-exceptions =
+    .label = Exceções…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
