@@ -51,24 +51,52 @@ restart-later = הפעלה מחדש מאוחר יותר
 
 ## General Section
 
+startup-header = הפעלה
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = גופנים וצבעים
+choose-language-description = בחירת השפה המועדפת עליך להצגת דפים
+choose-button =
+    .label = בחירה…
+    .accesskey = ב
 
 ## General Section - Files and Applications
 
+download-header = הורדות
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] בחירה…
+           *[other] עיון…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ב
+           *[other] י
+        }
 applications-type-column =
     .label = סיווג תוכן
     .accesskey = ס
 applications-action-column =
     .label = פעולה
     .accesskey = פ
+update-application-use-service =
+    .label = שימוש בשירות רקע לשם התקנת עדכונים
+    .accesskey = ר
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = דפדוף
+browsing-use-cursor-navigation =
+    .label = השתמש תמיד במקשי הסמן לניווט בתוך דפים
+    .accesskey = ס
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = הגדרות...
+    .accesskey = ה
