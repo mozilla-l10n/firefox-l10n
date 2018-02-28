@@ -51,6 +51,8 @@ restart-later = Cak odoco lacen
 
 ## General Section
 
+startup-blank-page =
+    .label = Nyut pot buk ma tye nono
 
 ## General Section - Language & Appearance
 
