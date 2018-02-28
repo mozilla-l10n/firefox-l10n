@@ -52,11 +52,30 @@ restart-later = Berrabiarazi geroago
 ## General Section
 
 startup-header = Abioa
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Baimendu { -brand-short-name } eta Firefox aldi berean exekutatzea
 use-firefox-sync = Aholkua: bereizitako profilak erabiltzen ditu honek. Erabili { -sync-brand-short-name } hauen artean datuak partekatzeko.
+get-started-not-logged-in = Hasi saioa { -sync-brand-short-name }(e)n…
+get-started-configured = Ireki { -sync-brand-short-name } hobespenak
+always-check-default =
+    .label = Egiaztatu beti ea { -brand-short-name } nabigatzaile lehenetsia den
+    .accesskey = E
 is-default = { -brand-short-name } nabigatzaile lehenetsia da une honetan
 is-not-default = { -brand-short-name } ez da zure nabigatzaile lehenetsia
+set-as-my-default-browser =
+    .label = Lehenetsi…
+    .accesskey = L
+startup-page = { -brand-short-name } abiatzean
+    .accesskey = z
+startup-user-homepage =
+    .label = Erakutsi hasiera-orria
 startup-blank-page =
     .label = Erakutsi orri hutsa
+startup-prev-session =
+    .label = Berreskuratu azken saioko fitxak eta leihoak
+home-page-header = Erakutsi hasiera-orria
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -75,19 +94,56 @@ restore-default =
     .label = Berrezarri lehenetsiak
     .accesskey = r
 tabs-group-header = Fitxak
+ctrl-tab-recently-used-order =
+    .label = Ktrl+Tab konbinazioak fitxaz aldatzen du azkenekoz erabilitako ordenan
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Abisatu hainbat fitxa ixterakoan
+    .accesskey = b
+warn-on-open-many-tabs =
+    .label = Abisatu hainbat fitxa irekitzean honek { -brand-short-name } moteldu balezake
+    .accesskey = A
+switch-links-to-new-tabs =
+    .label = Aldatu fitxa berrira lotura bat fitxa berrian irekitzean
+    .accesskey = A
 show-tabs-in-taskbar =
     .label = Erakutsi fitxen aurrebistak Windowseko ataza-barran
     .accesskey = z
+browser-containers-enabled =
+    .label = Gaitu edukiontzi-fitxak
+    .accesskey = G
+browser-containers-learn-more = Argibide gehiago
+browser-containers-settings =
+    .label = Ezarpenak…
+    .accesskey = r
+containers-disable-alert-title = Itxi edukiontzi-fitxa gutziak?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Edukiontzi-fitxak orain desgaituz gero, edukiontzi-fitxa bat itxi egingo da. Ziur zaude edukiontzi-fitxak desgaitu nahi dituzula?
+       *[other] Edukiontzi-fitxak orain desgaituz gero, { $tabCount } edukiontzi-fitxa itxi egingo dira. Ziur zaude edukiontzi-fitxak desgaitu nahi dituzula?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Itxi edukiontzi-fitxa bat
+       *[other] Itxi { $tabCount } edukiontzi-fitxa
+    }
+containers-disable-alert-cancel-button = Mantendu gaituta
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Hizkuntza eta itxura
 fonts-and-colors-header = Letra-tipoak eta koloreak
+default-font = Letra-tipo lehenetsia
+    .accesskey = n
+default-font-size = Tamaina
+    .accesskey = T
 advanced-fonts =
     .label = Aurreratua…
     .accesskey = u
 colors-settings =
     .label = Koloreak…
     .accesskey = o
+language-header = Hizkuntza
 choose-language-description = Aukeratu orriak bistaratzeko hizkuntza hobetsia
 choose-button =
     .label = Aukeratu…
@@ -98,9 +154,13 @@ translate-web-pages =
 translate-exceptions =
     .label = Salbuespenak…
     .accesskey = S
+check-user-spelling =
+    .label = Egiaztatu ortografia idatzi ahala
+    .accesskey = z
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Fitxategiak eta aplikazioak
 download-header = Deskargak
 download-save-to =
     .label = Gorde fitxategiak hemen: 
@@ -116,18 +176,58 @@ download-choose-folder =
             [macos] e
            *[other] A
         }
+download-always-ask-where =
+    .label = Galdetu beti non gorde fitxategiak
+    .accesskey = n
+applications-header = Aplikazioak
+applications-description = Aukeratu { -brand-short-name }(e)k nola maneiatzen dituen webetik edo erabiltzen dituzun aplikazioetatik deskargatzen dituzun fitxategiak.
+applications-filter =
+    .placeholder = Bilatu fitxategi motak edo aplikazioak
 applications-type-column =
     .label = Eduki mota
     .accesskey = t
 applications-action-column =
     .label = Ekintza
     .accesskey = E
+drm-content-header = DRM edukia
+play-drm-content =
+    .label = Erreproduzitu DRM bidez kontrolatutako edukia
+    .accesskey = E
+play-drm-content-learn-more = Argibide gehiago
+update-application-title = { -brand-short-name } eguneraketak
+update-application-info = ​{ $version }bertsioa <a>Nobedadeak</a>
+update-history =
+    .label = Erakutsi eguneraketen historia…
+    .accesskey = E
+update-application-allow-description = Baimendu { -brand-short-name }(r)i
+update-application-auto =
+    .label = Instalatu eguneraketak automatikoki (gomendatua)
+    .accesskey = a
+update-application-check-choose =
+    .label = Eguneraketak bilatzen baina utzi aukeratzen instalatuko diren edo ez
+    .accesskey = b
+update-application-manual =
+    .label = Ez egiaztatu inoiz eguneraketarik dagoen (ez gomendatua)
+    .accesskey = n
 update-application-use-service =
     .label = Erabili atzeko planoko zerbitzua eguneraketak instalatzeko
     .accesskey = z
+update-enable-search-update =
+    .label = Eguneratu automatikoki bilaketa-motorrak
+    .accesskey = E
 
 ## General Section - Performance
 
+performance-title = Errendimendua
+performance-allow-hw-accel =
+    .label = Erabili hardware-azelerazioa erabilgarri dagoenean
+    .accesskey = h
+performance-limit-content-process-option = Eduki-prozesuen muga
+    .accesskey = m
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (lehenetsia)
 
 ## General Section - Browsing
 
@@ -138,9 +238,15 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Erabili korritze leuna
     .accesskey = u
+browsing-use-onscreen-keyboard =
+    .label = Beharrezkoa denean, erakutsi ukipen-teklatua
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = Erabili beti kurtsore-teklak orriak nabigatzeko
     .accesskey = k
+browsing-search-on-start-typing =
+    .label = Bilatu testua idazten hasi bezain laster
+    .accesskey = B
 
 ## General Section - Proxy
 
