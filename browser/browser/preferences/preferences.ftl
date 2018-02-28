@@ -31,6 +31,7 @@ should-restart-title = Qala kabusha i-{ -brand-short-name }
 ## General Section
 
 startup-header = Qala
+is-default = I-{ -brand-short-name } okwamanje isibukisi sakhona sakho
 startup-blank-page =
     .label = Bonisa ikhasi elinganalutho
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -50,6 +51,7 @@ choose-bookmark =
 restore-default =
     .label = Buyisela kokwakhona
     .accesskey = B
+tabs-group-header = Amathebhu
 show-tabs-in-taskbar =
     .label = Bonisa ukubukwa ngaphambili kwamathebhu kubha yemisebenzi ye-Windows
     .accesskey = b
@@ -66,6 +68,9 @@ choose-language-description = Khetha ulimi olithandayo lokuboniswa kwamakhasi
 choose-button =
     .label = Khetha…
     .accesskey = e
+translate-exceptions =
+    .label = Okuhlukile…
+    .accesskey = k
 
 ## General Section - Files and Applications
 
@@ -96,6 +101,9 @@ update-application-use-service =
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Sebenzisa ukusheshisa kwehadiwe uma kukhona
+    .accesskey = h
 
 ## General Section - Browsing
 
