@@ -51,6 +51,7 @@ restart-later = Mula semula Kemudian
 
 ## General Section
 
+startup-header = Permulaan
 
 ## General Section - Language & Appearance
 
