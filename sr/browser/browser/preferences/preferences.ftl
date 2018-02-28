@@ -64,6 +64,9 @@ always-check-default =
     .accesskey = у
 is-default = { -brand-short-name } је тренутно подразумевани прегледач
 is-not-default = { -brand-short-name } није подразумевани прегледач
+set-as-my-default-browser =
+    .label = Учини подразумеваним…
+    .accesskey = д
 startup-page = Када се { -brand-short-name } покрене
     .accesskey = п
 startup-user-homepage =
@@ -96,6 +99,9 @@ tabs-group-header = Језичци
 ctrl-tab-recently-used-order =
     .label = Кретање кроз недавно коришћене језичке уз Ctrl+Tab
     .accesskey = ч
+open-new-link-as-tabs =
+    .label = Отварај везе у језичцима уместо унутар нових прозора
+    .accesskey = у
 warn-on-close-multiple-tabs =
     .label = Упозори ме при затварању више језичака
     .accesskey = у
@@ -132,6 +138,7 @@ containers-disable-alert-cancel-button = Остави укључено
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Језик и изглед
 fonts-and-colors-header = Фонт и боје
 default-font = Подразумеван
     .accesskey = ф
@@ -143,6 +150,7 @@ advanced-fonts =
 colors-settings =
     .label = Боје…
     .accesskey = Б
+language-header = Језик
 choose-language-description = Изаберите омиљени језик за приказ страница
 choose-button =
     .label = Избор…
@@ -159,6 +167,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Датотеке и програми
 download-header = Преузимања
 download-save-to =
     .label = Сачувај датотеке у
@@ -187,13 +196,21 @@ applications-type-column =
 applications-action-column =
     .label = Дејство
     .accesskey = Д
+drm-content-header = Садржај са дигиталним правима (DRM)
+play-drm-content =
+    .label = Пуштај DRM садржај
+    .accesskey = П
 play-drm-content-learn-more = Сазнајте више
 update-application-title = { -brand-short-name } ажурирања
+update-application-description = Учините { -brand-short-name } ажурним за боље перформансе, стабилност и безбедност.
 update-application-info = Верзија { $version } <a>Шта је ново</a>
 update-history =
     .label = Прикажи историјат ажурирања…
     .accesskey = и
 update-application-allow-description = Дозволи { -brand-short-name }-у да
+update-application-auto =
+    .label = Аутоматски ажурирај (препоручено)
+    .accesskey = А
 update-application-check-choose =
     .label = Проверава ажурирања али ме питај да ли да их инсталирам
     .accesskey = и
@@ -248,6 +265,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Мрежни прокси
+network-proxy-connection-learn-more = Сазнајте више
 network-proxy-connection-settings =
     .label = Поставке…
     .accesskey = П
