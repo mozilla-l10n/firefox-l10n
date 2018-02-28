@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Zochita kusankha
            *[other] Makonda
         }
@@ -20,4 +21,23 @@ close-button =
     .aria-label = Tsekani
 
 ## Browser Restart Dialog
+
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-header = Zotsitsidwa
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
 
