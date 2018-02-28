@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Dangos tudalen wag
 startup-prev-session =
     .label = Dangos fy ffenestri a'm tabiau o'r tro diwethaf
+disable-extension =
+    .label = Analluogi Estyniad
 home-page-header = Dangos fy nhudalen cartref
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -97,6 +99,9 @@ tabs-group-header = Tabiau
 ctrl-tab-recently-used-order =
     .label = Mae Ctrl+Tab yn cylchdroi drwy dabiau yn y drefn y'u defnyddiwyd yn ddiweddar
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Agor dolenni mewn tabiau yn lle mewn ffenestri newydd
+    .accesskey = f
 warn-on-close-multiple-tabs =
     .label = Rhybuddio wrth gau mwy nag un tab
     .accesskey = g
@@ -117,6 +122,24 @@ browser-containers-settings =
     .label = Gosodiadau…
     .accesskey = G
 containers-disable-alert-title = Cau Tabiau Pob Cynhwysydd?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [zero] Os fyddwch yn analluogi'r Tabiau Cynhwysydd, nid fydd tabiau cynhwysydd yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
+        [one] Os fyddwch yn analluogi Tabiau Cynhwysyddion nawr, bydd { $tabCount } cynhwysydd tabiau yn cael ei gau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
+        [two] Os fyddwch yn analluogi Tabiau Cynhwysyddion nawr, bydd { $tabCount } gynhwysydd tabiau yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
+        [few] Os fyddwch yn analluogi Tabiau Cynhwysyddion nawr, bydd { $tabCount } chynhwysydd tabiau yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
+        [many] Os fyddwch yn analluogi Tabiau Cynhwysyddion nawr, bydd { $tabCount } cynhwysydd tabiau yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
+       *[other] Os fyddwch yn analluogi Tabiau Cynhwysyddion nawr, bydd { $tabCount } cynhwysydd tabiau yn cael eu cau. Ydych chi'n siŵr eich bod am analluogi Tabiau Cynhwysyddion?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [zero] Peidio Cau Tabiau Cynhwysydd
+        [one] Cau { $tabCount } Tab Cynhwysydd
+        [two] Cau { $tabCount } Dab Cynhwysydd
+        [few] Cau { $tabCount } Thab Cynhwysydd
+        [many] Cau { $tabCount } Thab Cynhwysydd
+       *[other] Cau { $tabCount } Tab Cynhwysydd
+    }
 containers-disable-alert-cancel-button = Cadw wedi ei alluogi
 
 ## General Section - Language & Appearance
@@ -185,6 +208,7 @@ play-drm-content =
     .accesskey = C
 play-drm-content-learn-more = Dysgu rhagor
 update-application-title = Diweddariadau { -brand-short-name }
+update-application-description = Cadw { -brand-short-name } yn gyfredol ar gyfer y perfformiad, sefydlogrwydd a diogelwch gorau.
 update-application-info = Fersiwn { $version } <a>Beth sy'n newydd</a>
 update-history =
     .label = Dangos Hanes Diweddaru…
@@ -209,11 +233,18 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = Perfformiad
+performance-use-recommended-settings-checkbox =
+    .label = Defnyddio gosodiadau perfformiad sy'n cael eu hargymell
+    .accesskey = D
+performance-use-recommended-settings-desc = Mae'r gosodiadau hyn wedi eu teilwrio i galedwedd a system weithredu eich cyfrifiadur.
+performance-settings-learn-more = Dysgu rhagor
 performance-allow-hw-accel =
     .label = Defnyddio cyflymu caledwedd pan fydd ar gael
     .accesskey = e
 performance-limit-content-process-option = Terfyn proses cynnwys
     .accesskey = T
+performance-limit-content-process-enabled-desc = Mae rhagor o brosesau cynnwys yn gallu gwella perfformiad pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.
+performance-limit-content-process-disabled-desc = Dim ond yn y fersiwn amlbroses o { -brand-short-name } y mae newid y nifer o brosesau cynnwys yn bosib. <a>Dysgwch sut i weld os yw aml-brosesu wedi ei alluogi</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -241,6 +272,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Dirprwy Rhwydwaith
+network-proxy-connection-learn-more = Dysgu rhagor
 network-proxy-connection-settings =
     .label = Gosodiadau…
     .accesskey = G
