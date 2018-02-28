@@ -268,6 +268,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Progsaidh lìonraidh
+network-proxy-connection-learn-more = Barrachd fiosrachaidh
 network-proxy-connection-settings =
     .label = Roghainnean…
     .accesskey = e
