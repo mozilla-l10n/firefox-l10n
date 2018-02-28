@@ -21,3 +21,27 @@ focus-search =
 
 ## Browser Restart Dialog
 
+
+## General Section
+
+browser-containers-learn-more = Cchiú nfurmazzioni
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+play-drm-content-learn-more = Cchiú nfurmazzioni
+
+## General Section - Performance
+
+performance-settings-learn-more = Cchiú nfurmazzioni
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Mpustazzioni…
+    .accesskey = M
