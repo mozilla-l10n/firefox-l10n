@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Alltid
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Innstillingar
            *[other] Innstillingar
         }
@@ -46,5 +47,43 @@ feature-enable-requires-restart = { -brand-short-name } må starte på nytt for 
 feature-disable-requires-restart = { -brand-short-name } må starte på nytt for å slå på denne funksjonen.
 should-restart-title = Start { -brand-short-name } på nytt
 should-restart-ok = Start { -brand-short-name } på nytt no
-revert-no-restart-button = Tilbakestill
 restart-later = Start på nytt seinare
+
+## General Section
+
+startup-header = Startside
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Bruk open nettside
+           *[other] Bruk opne nettsider
+        }
+    .accesskey = B
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Skrifttypar og fargar
+
+## General Section - Files and Applications
+
+download-header = Nedlastingar
+applications-type-column =
+    .label = Innhaldstype
+    .accesskey = I
+applications-action-column =
+    .label = Handling
+    .accesskey = H
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Nettlesing
+
+## General Section - Proxy
+
