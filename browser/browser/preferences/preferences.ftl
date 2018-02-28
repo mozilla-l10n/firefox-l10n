@@ -31,6 +31,7 @@ should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
 
 ## General Section
 
+startup-header = আৰম্ভণি
 startup-blank-page =
     .label = ৰিক্ত পৃষ্ঠা দেখুৱাওক
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -44,6 +45,9 @@ use-current-pages =
            *[other] বৰ্ত্তমানৰ পৃষ্ঠাসমূহ ব্যৱহাৰ কৰক
         }
     .accesskey = C
+choose-bookmark =
+    .label = পত্ৰচিহ্ন ব্যৱহাৰ কৰক…
+    .accesskey = B
 restore-default =
     .label = অবিকল্পিতলৈ পুনঃ স্থাপন কৰক
     .accesskey = R
@@ -57,9 +61,13 @@ choose-language-description = পৃষ্ঠা প্ৰদৰ্শনৰ ব
 
 ## General Section - Files and Applications
 
+download-header = ডাউনল'ডসমূহ
 applications-action-column =
     .label = কাৰ্য্য
     .accesskey = A
+update-application-use-service =
+    .label = আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমি সেৱা ব্যৱহাৰ কৰক
+    .accesskey = b
 
 ## General Section - Performance
 
@@ -69,6 +77,9 @@ applications-action-column =
 browsing-use-autoscroll =
     .label = অ'ট'স্ক্ৰলিং ব্যৱহাৰ কৰক
     .accesskey = a
+browsing-use-cursor-navigation =
+    .label = পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্চাৰ চাবি ব্যৱহাৰ কৰিব
+    .accesskey = c
 
 ## General Section - Proxy
 
