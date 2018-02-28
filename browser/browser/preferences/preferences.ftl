@@ -52,6 +52,10 @@ restart-later = Reštartovať neskôr
 ## General Section
 
 startup-header = Spustenie
+is-default = { -brand-short-name } je nastavený ako predvolený prehliadač
+is-not-default = { -brand-short-name } nie je váš predvolený prehliadač
+startup-blank-page =
+    .label = prázdnu stránku
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -63,9 +67,16 @@ use-current-pages =
            *[other] Použiť aktuálne stránky
         }
     .accesskey = s
+choose-bookmark =
+    .label = Použiť záložku…
+    .accesskey = z
 restore-default =
     .label = Obnoviť predvolené
     .accesskey = O
+tabs-group-header = Karty
+show-tabs-in-taskbar =
+    .label = Zobrazovať ukážky kariet v paneli úloh systému Windows
+    .accesskey = Z
 
 ## General Section - Language & Appearance
 
@@ -85,6 +96,9 @@ applications-type-column =
 applications-action-column =
     .label = Akcia
     .accesskey = A
+update-application-use-service =
+    .label = Na inštaláciu aktualizácií používať službu na pozadí
+    .accesskey = z
 
 ## General Section - Performance
 
