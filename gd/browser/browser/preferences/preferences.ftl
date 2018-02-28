@@ -54,6 +54,17 @@ restart-later = Ath-thòisich uaireigin eile
 startup-header = Aig an toiseach
 startup-blank-page =
     .label = Seall duilleag bhàn
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Cleachd an duilleag làithreach
+           *[other] Cleachd na duilleagan làithreach
+        }
+    .accesskey = u
 choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
@@ -66,6 +77,10 @@ show-tabs-in-taskbar =
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Cruthan-clò ⁊ dathan
+advanced-fonts =
+    .label = Adhartach…
+    .accesskey = h
 colors-settings =
     .label = Dathan…
     .accesskey = D
@@ -110,6 +125,9 @@ browsing-title = A' brabhsadh
 browsing-use-autoscroll =
     .label = Cleachd sgroladh fèin-obrachail
     .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Cleachd sgroladh caoin
+    .accesskey = o
 browsing-use-cursor-navigation =
     .label = Cleachd na putanan-saigheid gus gluasad am broinn nan duilleagan an-còmhnaidh
     .accesskey = C
