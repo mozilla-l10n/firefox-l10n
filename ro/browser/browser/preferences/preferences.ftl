@@ -70,6 +70,9 @@ applications-type-column =
 applications-action-column =
     .label = Acțiune
     .accesskey = A
+update-application-use-service =
+    .label = Folosește serviciul care rulează în fundal pentru a instala actualizări
+    .accesskey = d
 
 ## General Section - Performance
 
@@ -80,6 +83,12 @@ browsing-title = Navigare
 browsing-use-autoscroll =
     .label = Folosește derularea automată
     .accesskey = a
+browsing-use-cursor-navigation =
+    .label = Folosește întotdeauna săgețile pentru a naviga în pagini
+    .accesskey = F
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Setări…
+    .accesskey = e
