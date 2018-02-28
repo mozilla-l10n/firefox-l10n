@@ -78,6 +78,17 @@ startup-prev-session =
 disable-extension =
     .label = Nyahdayakan Ekstensi
 home-page-header = Papar halaman utama anda
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Gunakan Halaman Semasa
+           *[other] Gunakan Halaman Semasa
+        }
+    .accesskey = a
 choose-bookmark =
     .label = Guna Tandabuku…
     .accesskey = B
@@ -126,11 +137,20 @@ default-font-size = Saiz
 advanced-fonts =
     .label = Lanjutan…
     .accesskey = L
+colors-settings =
+    .label = Warna…
+    .accesskey = W
 language-header = Bahasa
 choose-language-description = Pilih bahasa pilihan anda untuk memaparkan halaman
+choose-button =
+    .label = Pilih…
+    .accesskey = P
 translate-web-pages =
     .label = Terjemah kandungan laman web
     .accesskey = T
+translate-exceptions =
+    .label = Pengecualian…
+    .accesskey = P
 check-user-spelling =
     .label = Semak ejaan ketika anda menaip
     .accesskey = t
@@ -139,6 +159,20 @@ check-user-spelling =
 
 files-and-applications-title = Fail dan Aplikasi
 download-header = Muat turun
+download-save-to =
+    .label = Simpan fail ke
+    .accesskey = n
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Pilih…
+           *[other] Cari…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] P
+           *[other] r
+        }
 download-always-ask-where =
     .label = Sentiasa tanya lokasi menyimpan fail
     .accesskey = S
@@ -146,6 +180,9 @@ applications-header = Aplikasi
 applications-description = Pilih cara { -brand-short-name } mengendalikan fail-fail yang anda muat turun dari Web atau aplikasi yang anda gunakan semasa melayar.
 applications-filter =
     .placeholder = Cari jenis fail atau aplikasi
+applications-type-column =
+    .label = Jenis Kandungan
+    .accesskey = n
 applications-action-column =
     .label = Tindakan
     .accesskey = A
@@ -203,6 +240,9 @@ browsing-title = Menyemak
 browsing-use-autoscroll =
     .label = Guna auto-skrol
     .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Guna skrol lancar
+    .accesskey = G
 browsing-use-onscreen-keyboard =
     .label = Papar papan kekunci sentuh apabila perlu
     .accesskey = k
