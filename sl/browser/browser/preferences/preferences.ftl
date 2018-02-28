@@ -56,8 +56,16 @@ startup-header = Zagon
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Dovoli, da { -brand-short-name } in Firefox tečeta sočasno
+use-firefox-sync = Nasvet: Uporabljena bosta različna profila, ki ju lahko uskladite z uporabo { -sync-brand-short-name }a.
+always-check-default =
+    .label = Vedno preveri, ali je { -brand-short-name } privzeti brskalnik
+    .accesskey = V
+is-default = { -brand-short-name } je trenutno vaš privzeti brskalnik
+is-not-default = { -brand-short-name } ni vaš privzeti brskalnik
 startup-blank-page =
     .label = prikaži prazno stran
+disable-extension =
+    .label = Onemogoči razširitev
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -72,7 +80,17 @@ use-current-pages =
 choose-bookmark =
     .label = Uporabi zaznamek …
     .accesskey = z
+restore-default =
+    .label = Uporabi privzeto stran
+    .accesskey = r
 tabs-group-header = Zavihki
+show-tabs-in-taskbar =
+    .label = Prikaži predoglede zavihkov v opravilni vrstici Windows
+    .accesskey = ž
+browser-containers-settings =
+    .label = Nastavitve …
+    .accesskey = N
+containers-disable-alert-cancel-button = Pusti omogočeno
 
 ## General Section - Language & Appearance
 
@@ -134,6 +152,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Uporabljaj gladko drsenje
     .accesskey = g
+browsing-use-onscreen-keyboard =
+    .label = Prikaži tipkovnico na dotik, ko je potrebno
+    .accesskey = o
 browsing-use-cursor-navigation =
     .label = Vselej uporabi tipke na tipkovnici za navigacijo po straneh
     .accesskey = t
