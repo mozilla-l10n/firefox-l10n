@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = תמיד
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] אפשרויות
            *[other] העדפות
         }
@@ -46,5 +47,28 @@ feature-enable-requires-restart = יש להפעיל את { -brand-short-name } �
 feature-disable-requires-restart = יש להפעיל את { -brand-short-name } מחדש כדי להשבית תכונה זו.
 should-restart-title = הפעלת { -brand-short-name } מחדש
 should-restart-ok = הפעלת { -brand-short-name } מחדש כעת
-revert-no-restart-button = שחזור
 restart-later = הפעלה מחדש מאוחר יותר
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+applications-type-column =
+    .label = סיווג תוכן
+    .accesskey = ס
+applications-action-column =
+    .label = פעולה
+    .accesskey = פ
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
