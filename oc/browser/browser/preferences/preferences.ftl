@@ -88,6 +88,18 @@ restore-default =
     .label = Restablir la configuracion per defaut
     .accesskey = R
 tabs-group-header = Onglets
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab fa passar los onglets dins l'òrdre de darrièra utilizacion
+    .accesskey = O
+warn-on-close-multiple-tabs =
+    .label = Vos avisar en tampar d'onglets multiples
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Vos avisar quand dobrir d'onglets multiples pòt alentir { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = En dobrir un ligam dins un onglet novèl, i anar sul pic
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Afichar los apercebuts d'onglets dins la barra dels prètzfaits de Windows
     .accesskey = c
@@ -98,6 +110,16 @@ browser-containers-learn-more = Ne saber mai
 browser-containers-settings =
     .label = Paramètres…
     .accesskey = t
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Se desactivetz los onglets isolats ara, { $tabCount } onglet isolat serà tampat. Segur que volatz desactivar los onglets isolats ?
+       *[other] Se desactivetz los onglets isolats ara, { $tabCount } onglets isolats seràn tampats. Segur que volatz desactivar los onglets isolats ?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Tampar { $tabCount } onglet isolat
+       *[other] Tampar { $tabCount } onglets isolats
+    }
 containers-disable-alert-cancel-button = Gardar activat
 
 ## General Section - Language & Appearance
@@ -187,12 +209,18 @@ update-enable-search-update =
 
 ## General Section - Performance
 
+performance-title = Performanças
+performance-use-recommended-settings-checkbox =
+    .label = Utilizar los paramètres de performança recomandadas
+    .accesskey = U
+performance-use-recommended-settings-desc = Aquestes paramètres son adaptats al material e sistèma operatiu de vòstre ordenador.
 performance-settings-learn-more = Ne saber mai
 performance-allow-hw-accel =
     .label = Utilisar l'acceleracion grafica materiala se disponibla
     .accesskey = n
 performance-limit-content-process-option = Limita del procediment del contengut
     .accesskey = L
+performance-limit-content-process-enabled-desc = De procediments de contengut suplementaris pòdon melhorar las performanças en utiliazar d'onglets multiples, pasmens aquò utiliza mai de memòria.
 performance-limit-content-process-disabled-desc = Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de { -brand-short-name }. <a>Aprendre a verificar se de multiprocediments son activats</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
