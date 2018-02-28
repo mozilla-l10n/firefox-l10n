@@ -51,18 +51,35 @@ restart-later = Перезапустити потім
 
 ## General Section
 
+startup-header = Запуск
+tabs-group-header = Вкладки
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Шрифти і кольори
+advanced-fonts =
+    .label = Додатково…
+    .accesskey = о
 
 ## General Section - Files and Applications
 
+download-header = Завантаження
+applications-type-column =
+    .label = Тип вмісту
+    .accesskey = Т
+applications-action-column =
+    .label = Дія
+    .accesskey = Д
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Перегляд сайтів
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Налаштувати…
+    .accesskey = а
