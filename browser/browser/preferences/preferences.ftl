@@ -101,6 +101,13 @@ play-drm-content-learn-more = Mear ynfo
 
 ## General Section - Browsing
 
+browsing-title = Navigearje
+browsing-use-autoscroll =
+    .label = Automatysk skowe brûke
+    .accesskey = m
+browsing-use-smooth-scrolling =
+    .label = Floeiend skowe brûke
+    .accesskey = l
 browsing-use-onscreen-keyboard =
     .label = In skermtoetseboerd toane wannear nedich
     .accesskey = k
