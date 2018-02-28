@@ -3,3 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -sync-brand-short-name = සම්මුහුර්තකරණය
+# “Sync” can be localized, “Firefox” must be treated as a brand,
+# and kept in English.
+-sync-brand-name = Firefox සම්මුහුර්තකරණය
