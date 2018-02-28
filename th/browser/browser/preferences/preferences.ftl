@@ -51,12 +51,35 @@ restart-later = เริ่มการทำงานใหม่ในภา�
 
 ## General Section
 
+startup-header = เริ่มการทำงาน
+startup-blank-page =
+    .label = แสดงหน้าว่าง
+tabs-group-header = แท็บ
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = แบบอักษรและสี
+colors-settings =
+    .label = สี…
+    .accesskey = ส
+choose-button =
+    .label = เลือก…
+    .accesskey = ล
 
 ## General Section - Files and Applications
 
+download-header = ดาวน์โหลด
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] เลือก…
+           *[other] เรียกดู…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ล
+           *[other] ร
+        }
 
 ## General Section - Performance
 
