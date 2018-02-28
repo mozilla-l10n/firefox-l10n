@@ -62,8 +62,13 @@ always-check-default =
     .accesskey = S
 is-default = { -brand-short-name } es tu navegador predeterminado
 is-not-default = { -brand-short-name } no es tu navegador predeterminado
+set-as-my-default-browser =
+    .label = Hacer predeterminado…
+    .accesskey = D
 startup-blank-page =
     .label = Mostrar una página vacía
+disable-extension =
+    .label = Deshabilitar extensión
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -85,6 +90,9 @@ tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl + Tab recorre pestañas según su uso reciente
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Abrir enlaces en pestañas en lugar de nuevas ventanas
+    .accesskey = w
 show-tabs-in-taskbar =
     .label = Mostrar vista previa de las pestañás en la barra de tareas de Windows
     .accesskey = t
@@ -92,9 +100,16 @@ browser-containers-enabled =
     .label = Habilitar pestañas contenedoras
     .accesskey = n
 browser-containers-learn-more = Saber más
+containers-disable-alert-title = ¿Cerrar todo el contenedor de pestañas?
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Cerrar { $tabCount } pestaña contenedora
+       *[other] Cerrar { $tabCount } pestañas contenedoras
+    }
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Idioma y apariencia
 fonts-and-colors-header = Tipografías y colores
 advanced-fonts =
     .label = Avanzadas…
@@ -102,6 +117,7 @@ advanced-fonts =
 colors-settings =
     .label = Colores…
     .accesskey = C
+language-header = Idioma
 choose-language-description = Elegir el idioma preferido para mostrar las páginas web
 choose-button =
     .label = Seleccionar…
@@ -115,6 +131,7 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Archivos y aplicaciones
 download-header = Descargas
 download-save-to =
     .label = Guardar automáticamente en
@@ -136,7 +153,12 @@ applications-type-column =
 applications-action-column =
     .label = Acción
     .accesskey = A
+drm-content-header = Contenido DRM (Digital Rights Management - Administración de Derechos Digitales)
+play-drm-content =
+    .label = Reproducir contenido controlado por DRM
+    .accesskey = P
 play-drm-content-learn-more = Saber más 
+update-application-description = Mantener { -brand-short-name } actualizado para el mejor rendimiento, estabilidad y seguridad.
 update-application-use-service =
     .label = Utilizar un servicio en segundo plano para instalar las actualizaciones
     .accesskey = s
@@ -159,6 +181,8 @@ browsing-use-onscreen-keyboard =
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy de red
+network-proxy-connection-learn-more = Saber más
 network-proxy-connection-settings =
     .label = Configurar…
     .accesskey = C
