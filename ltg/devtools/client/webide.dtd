@@ -49,14 +49,14 @@
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Attuolynuot">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "Atjaunuot pītuvynuojumu">
+<!ENTITY viewMenu_resetzoom_label "Atjaunōt pītuvynojumu">
 <!ENTITY viewMenu_resetzoom_accesskey "P">
 
 <!ENTITY projectButton_label "Attaiseit lītuotni">
 <!ENTITY runtimeButton_label "Select Runtime">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +75,12 @@
 <!ENTITY projectPanel_tabs "Cilnes">
 <!ENTITY runtimePanel_usb "USB īrīces">
 <!ENTITY runtimePanel_wifi "Wi-Fi īrīces">
-<!ENTITY runtimePanel_simulator "Simulators">
 <!ENTITY runtimePanel_other "Cytys">
-<!ENTITY runtimePanel_installsimulator "Instaleit simulatoru">
 <!ENTITY runtimePanel_noadbhelper "Install ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Naredzit sovys īrīces?">
 <!ENTITY runtimePanel_refreshDevices_label "Refresh Devices">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "dereigs">
 <!ENTITY details_warning_header "breidynuojumi">
 <!ENTITY details_error_header "klaidys">
@@ -90,23 +88,23 @@
 <!ENTITY details_location "Atsarasšona vīta">
 <!ENTITY details_manifestURL "Lītuotnes ID">
 <!ENTITY details_removeProject_button "Remove Project">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Jauns lītuotne">
 <!ENTITY newAppHeader "Select template">
 <!ENTITY newAppLoadingTemplate "Loading templates…">
 <!ENTITY newAppProjectName "Projekta nūsaukums:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Close">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Papyldu komponenti">
 <!ENTITY addons_aboutaddons "Attaiseit papyldynuojumu puorvaļdnīku">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Īstatiejumi">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
@@ -118,8 +116,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restore previous project when WebIDE starts">
 <!ENTITY prefs_options_templatesurl "Templates URL">
 <!ENTITY prefs_options_templatesurl_tooltip "Index of available templates">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Runtime Info">
 <!ENTITY runtimedetails_adbIsRoot "ADB ir root: ">
 <!ENTITY runtimedetails_summonADBRoot "root īrīce">
@@ -127,36 +125,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Unrestricted DevTools privileges: ">
 <!ENTITY runtimedetails_requestPrivileges "request higher privileges">
 <!ENTITY runtimedetails_privilegesWarning "(Will reboot device. Requires root access.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Būla">
 <!ENTITY device_typenumber "Skaitlis">
 <!ENTITY device_typestring "Teksts">
 <!ENTITY device_typeobject "Objekts">
 <!ENTITY device_typenone "Izavielit tipu">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Īrīces īstatiejumi">
 <!ENTITY devicepreference_search "Mekliešonys īstatiejumi">
 <!ENTITY devicepreference_newname "Jauns īstatiejuma nūsaukums">
 <!ENTITY devicepreference_newtext "Īstatiejuma vierteiba">
 <!ENTITY devicepreference_addnew "Pīvīnuot jaunu īstatiejumu">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Īrīces īstatiejumi">
 <!ENTITY devicesetting_search "Meklejamuo frāze">
 <!ENTITY devicesetting_newname "Jaunuo īstatiejuma nūsaukums">
 <!ENTITY devicesetting_newtext "Īstatiejuma vierteiba">
 <!ENTITY devicesetting_addnew "Pīvīnuot īstatiejumu">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "Puorraugs">
 <!ENTITY monitor_help "Paleidzeiba">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Client Identification">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,22 +169,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "If your other device asks for a token instead of scanning a QR code, please copy the value below to the other device:">
 <!ENTITY wifi_auth_qr_size_note "If the QR code appears too small for the connection to be successfully established, try zooming or enlarging the window.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Pre-packaging Command Logs">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "Simulatora īstatiejumi">
-<!ENTITY simulator_remove "Dzēst simulatoru">
-<!ENTITY simulator_reset "Restore Defaults">
-<!ENTITY simulator_name "Nūsaukums">
-<!ENTITY simulator_software "Programatura">
-<!ENTITY simulator_version "Verseja">
-<!ENTITY simulator_profile "Profils">
-<!ENTITY simulator_hardware "Aparatura">
-<!ENTITY simulator_device "Īrīce">
-<!ENTITY simulator_screenSize "Screen">
-<!ENTITY simulator_pixelRatio "Pixel Ratio">
-<!ENTITY simulator_tv_data "TV Simulation">
-<!ENTITY simulator_tv_data_open "Konfiguracejis dati">
-<!ENTITY simulator_tv_data_open_button "Attaiseit konfiguracejis mapi…">

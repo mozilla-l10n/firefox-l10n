@@ -148,4 +148,4 @@ certificate.">
 <!ENTITY blockedByPolicyTemp.longDesc "<p>Pīkļuvi aizlīdze tovs administrators.</p>">
 
 <!ENTITY prefReset.longDesc "It looks like your network security settings might be causing this. Do you want the default settings to be restored?">
-<!ENTITY prefReset.label "Atjaunuot nūkluseitūs īstatiejumus">
+<!ENTITY prefReset.label "Atjaunōt nūkluseitūs īstatiejumus">

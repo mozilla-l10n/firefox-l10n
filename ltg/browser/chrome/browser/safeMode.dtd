@@ -6,12 +6,12 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Suokt drūsajā režymā">
-<!ENTITY refreshProfile.label         "Atjaunuot &brandShortName;">
+<!ENTITY refreshProfile.label         "Atjaunōt &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Drūsais režyms ir specials &brandShortName; režyms dažaidu tehniskū problemu rysynuošonao.">
 <!ENTITY safeModeDescription4.label   "Jiusu papyldynuojumi i nastandarta īstatiejumi tiks eislaiceigi deakticeiti.">
 
 <!ENTITY refreshProfileInstead.label  "You can also skip troubleshooting and try refreshing &brandShortName;.">
-<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY autoSafeModeDescription3.label "&brandShortName; nagaideiti aizataiseja īluodes laikā. Itū var izraiseit papyldynuojumi voi cytys problemys. Kab atrysynuotu itū varot atjaunuot &brandShortName; iz suokūtnejū stuovūkli voi ari mekleit problemys rysynuojumu Drūsajā režymā.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; nagaideiti aizataiseja īlōdes laikā. Itū var izraiseit papyldynojumi voi cytys problemys. Kab atrysynōtu itū vari atjaunōt &brandShortName; iz sōkutnejū stōvukli voi ari mekleit problemys rysynojumu Drūšajā režymā.">

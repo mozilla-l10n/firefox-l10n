@@ -5,8 +5,9 @@
 <!ENTITY tabCrashed.title "Ciļņu avarejis ziņuotuojs">
 
 <!ENTITY tabCrashed.closeTab2  "Aiztaiseit cilni">
-<!ENTITY tabCrashed.restoreTab "Atjaunuot itū cilni">
+<!ENTITY tabCrashed.restoreTab "Atjaunōt itū cilni">
 <!ENTITY tabCrashed.restoreAll "Restore All Crashed Tabs">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -14,10 +15,9 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
 <!ENTITY tabCrashed.header2 "Gah. Your tab just crashed.">
 <!ENTITY tabCrashed.offerHelp2 "We can help!">
-<!ENTITY tabCrashed.single.offerHelpMessage2 "Izavielit &tabCrashed.restoreTab;, kab atjaunuotu lopys saturu.">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Izavielej &tabCrashed.restoreTab;, kab atjaunōtu lopys saturu.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Izavielit &tabCrashed.restoreTab; voi &tabCrashed.restoreAll;, kab atjaunuotu lopu.">
 <!ENTITY tabCrashed.requestHelp "Will you help us?">
 <!ENTITY tabCrashed.requestHelpMessage "Avareju ziņuojumi paleidz myusim nūteikt problemys i uzlobuot &brandShortName;.">

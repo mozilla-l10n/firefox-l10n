@@ -137,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizeit">
-<!ENTITY fullScreenRestore.tooltip "Atjaunuot">
+<!ENTITY fullScreenRestore.tooltip "Atjaunōt">
 <!ENTITY fullScreenClose.tooltip "Aiztaiseit">
 <!ENTITY fullScreenAutohide.label "Paslēpt reikjūslys">
 <!ENTITY fullScreenAutohide.accesskey "P">
@@ -358,14 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Naseņ aiztaiseituos cilnes">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Naseņ aiztaiseitī lūgi">
-<!ENTITY historyRestoreLastSession.label "Atjaunuot īprīkšejū seseju">
+<!ENTITY historyRestoreLastSession.label "Atjaunōt īprīkšejū seseju">
 
 <!ENTITY showAllHistoryCmd2.label "Paruodeit vysu viesturi">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Paruodeit vysu viesturi">
 <!ENTITY appMenuHistory.clearRecent.label "Dzēst nasenū viesturi…">
-<!ENTITY appMenuHistory.restoreSession.label "Atjaunuot īprīkšejū seseju">
+<!ENTITY appMenuHistory.restoreSession.label "Atjaunōt īprīkšejū seseju">
 <!ENTITY appMenuHistory.viewSidebar.label "Ruodeit viestures suonjūsla">
 <!ENTITY appMenuHistory.recentHistory.label "Nasenuo viesture">
 <!ENTITY appMenuHelp.label "Paleidzeiba">
@@ -631,7 +631,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Apklusynuot">
 <!ENTITY mediaMute.accesskey         "A">
-<!ENTITY mediaUnmute.label           "Atjaunuot">
+<!ENTITY mediaUnmute.label           "Īslēgt skaņu">
 <!ENTITY mediaUnmute.accesskey       "A">
 <!ENTITY mediaPlaybackRate2.label     "Atskaņuošonys uotrums">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
@@ -853,7 +853,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sinhronizeit">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Drag your favorite items into the toolbar or overflow menu.">
-<!ENTITY customizeMode.restoreDefaults "Atjaunuot nūkluseitū">
+<!ENTITY customizeMode.restoreDefaults "Atjaunōt nūkluseitū">
 <!ENTITY customizeMode.done "Gotovs">
 <!ENTITY customizeMode.titlebar "Viersroksta jūsla">
 <!ENTITY customizeMode.extraDragSpace "Drag Space">
@@ -979,7 +979,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message2 "After a quick restart, &brandShorterName; will restore all your open tabs and windows that are not in Private Browsing mode.">
 <!ENTITY updateRestart.header.message2 "Puorstarteit &brandShorterName;, kab atjaunynuotu.">
-<!ENTITY updateRestart.acceptButton.label "Puorstarteit i atjaunuot">
+<!ENTITY updateRestart.acceptButton.label "Porstarteit i atjaunōt">
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Na tagad">
 <!ENTITY updateRestart.cancelButton.accesskey "N">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Atjaunuot seseju">
+<!ENTITY restorepage.tabtitle       "Atjaunōt seseju">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
@@ -13,12 +13,12 @@
 <!ENTITY restorepage.hideTabs       "Apslēpt īprīkšejōs cilnes">
 <!ENTITY restorepage.showTabs       "Rōdēt īprīkšejōs cilnes">
 
-<!ENTITY restorepage.tryagainButton2 "Atjaunuot seseju">
+<!ENTITY restorepage.tryagainButton2 "Atjaunōt seseju">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Suokt jaunu seseju">
 <!ENTITY restorepage.close.access2   "N">
 
-<!ENTITY restorepage.restoreHeader  "Atjaunuot">
+<!ENTITY restorepage.restoreHeader  "Atjaunōt">
 <!ENTITY restorepage.listHeader     "Lūgus i cilnes">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Lūgs &#037;S">
@@ -35,7 +35,7 @@
 <!ENTITY welcomeback2.pageTitle     "Success!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ir gotovs dorbam.">
 
-<!ENTITY welcomeback2.restoreAll.label  "Atjaunuot vysus lūgus i cilnes">
+<!ENTITY welcomeback2.restoreAll.label  "Atjaunōt vysus lūgus i cilnes">
 <!ENTITY welcomeback2.restoreSome.label "Restore only the ones you want">
 
 
