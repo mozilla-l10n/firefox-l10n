@@ -51,18 +51,28 @@ restart-later = بعداْ راه‌اندازی مجدد شود
 
 ## General Section
 
+startup-header = راه‌اندازی
 
 ## General Section - Language & Appearance
 
+choose-language-description = زبان مورد علاقهٔ خود را برای نمایش صفحات انتخاب کنید
 
 ## General Section - Files and Applications
 
+download-header = بارگیری‌ها
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = مرور
+browsing-use-autoscroll =
+    .label = استفاده از لغزش خودکار
+    .accesskey = ل
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = تنظیمات…
+    .accesskey = ت
