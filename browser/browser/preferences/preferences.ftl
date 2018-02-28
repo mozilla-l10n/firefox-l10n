@@ -114,6 +114,9 @@ applications-type-column =
 applications-action-column =
     .label = ක්‍රියාව
     .accesskey = A
+update-application-use-service =
+    .label = යාවත්කාලීන ස්ථාපනය සඳහා පසුබ්ම් සේවාව (background service) භාවිතා කරන්න
+    .accesskey = b
 
 ## General Section - Performance
 
