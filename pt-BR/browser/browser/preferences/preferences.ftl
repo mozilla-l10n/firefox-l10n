@@ -71,6 +71,8 @@ startup-blank-page =
     .label = Mostrar uma página em branco
 startup-prev-session =
     .label = Mostrar suas janelas e abas anteriores
+disable-extension =
+    .label = Desabilitar extensão
 home-page-header = Mostrar sua página inicial
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -93,6 +95,9 @@ tabs-group-header = Abas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab alterna entre as abas por ordem de uso
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Abrir links em abas em vez de novas janelas
+    .accesskey = j
 warn-on-close-multiple-tabs =
     .label = Avisar quando fechar múltiplas abas
     .accesskey = m
@@ -105,7 +110,19 @@ switch-links-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Mostrar a visualização das abas na barra de tarefas do Windows
     .accesskey = v
+browser-containers-enabled =
+    .label = Habilitar abas contêiner
+    .accesskey = n
 browser-containers-learn-more = Saber mais
+browser-containers-settings =
+    .label = Configurações…
+    .accesskey = i
+containers-disable-alert-title = Fechar todas as abas contêiner?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Se você desabilitar a Aba Contêiner agora, { $tabCount } aba contêiner será fechada. Tem certeza de que deseja desativar a Aba Contêiner?
+       *[other] Se você desabilitar a Aba Contêiner agora, { $tabCount } abas contêiner serão fechadas. Tem certeza de que deseja desativar a Aba Contêiner?
+    }
 containers-disable-alert-cancel-button = Manter habilitado
 
 ## General Section - Language & Appearance
@@ -215,6 +232,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
     .label = Configurar conexão…
     .accesskey = e
