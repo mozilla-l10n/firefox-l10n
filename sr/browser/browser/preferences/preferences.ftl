@@ -55,8 +55,13 @@ startup-header = Покретање
 use-firefox-sync = Савет: Ово користи одвојене профиле. Користите { -sync-brand-short-name } да делите податке између њих.
 is-default = { -brand-short-name } је тренутно подразумевани прегледач
 is-not-default = { -brand-short-name } није подразумевани прегледач
+startup-user-homepage =
+    .label = Прикажи почетну страницу
 startup-blank-page =
     .label = Прикажи празну страницу
+startup-prev-session =
+    .label = Прикажи прозоре и језичке од прошлог пута
+home-page-header = Прикажи почетну страницу
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -74,6 +79,15 @@ choose-bookmark =
 restore-default =
     .label = Врати на подразумевану
     .accesskey = В
+warn-on-close-multiple-tabs =
+    .label = Упозори ме при затварању више језичака
+    .accesskey = у
+warn-on-open-many-tabs =
+    .label = Упозори ме када отварање више језичака може да успори { -brand-short-name }
+    .accesskey = в
+switch-links-to-new-tabs =
+    .label = Када отворим везу у новом језичку, одмах се пребаци на њега
+    .accesskey = њ
 show-tabs-in-taskbar =
     .label = Прикажи преглед језичка у Windows траци задатака
     .accesskey = р
@@ -81,6 +95,11 @@ browser-containers-enabled =
     .label = Омогући контејнер језичке
     .accesskey = к
 browser-containers-learn-more = Сазнајте више
+browser-containers-settings =
+    .label = Поставке…
+    .accesskey = в
+containers-disable-alert-title = Затворити све контејнер језичке?
+containers-disable-alert-cancel-button = Остави укључено
 
 ## General Section - Language & Appearance
 
@@ -98,6 +117,9 @@ translate-web-pages =
 translate-exceptions =
     .label = Изузеци…
     .accesskey = ц
+check-user-spelling =
+    .label = Проверавај правопис док куцам
+    .accesskey = р
 
 ## General Section - Files and Applications
 
@@ -116,6 +138,9 @@ download-choose-folder =
             [macos] И
            *[other] И
         }
+download-always-ask-where =
+    .label = Увек питај где да се сачувају датотеке
+    .accesskey = У
 applications-type-column =
     .label = Врста садржаја
     .accesskey = В
@@ -123,6 +148,7 @@ applications-action-column =
     .label = Дејство
     .accesskey = Д
 play-drm-content-learn-more = Сазнајте више
+update-application-title = { -brand-short-name } ажурирања
 update-application-use-service =
     .label = Употреби позадинске сервисе за инсталацију надоградњи
     .accesskey = з
@@ -145,6 +171,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Увек користи стрелице за кретање по страницама
     .accesskey = с
+browsing-search-on-start-typing =
+    .label = Тражи текст када почнем да куцам
+    .accesskey = т
 
 ## General Section - Proxy
 
