@@ -62,6 +62,7 @@ choose-bookmark =
 restore-default =
     .label = Stel terug na verstek
     .accesskey = S
+tabs-group-header = Oortjies
 show-tabs-in-taskbar =
     .label = Wys oortjievoorskoue in die Windows-taakbalk
     .accesskey = k
