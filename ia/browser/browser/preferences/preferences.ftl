@@ -99,6 +99,9 @@ tabs-group-header = Schedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab percurre le schedas in le ordine usate recentemente
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Aperir le ligamines in schedas in vice de nove fenestras
+    .accesskey = s
 warn-on-close-multiple-tabs =
     .label = Advertir te quando tu claude multiple schedas
     .accesskey = m
@@ -261,6 +264,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de rete
+network-proxy-connection-learn-more = Saper plus
 network-proxy-connection-settings =
     .label = Parametros…
     .accesskey = e
