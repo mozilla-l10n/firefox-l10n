@@ -52,8 +52,27 @@ restart-later = Restartuj kasnije
 ## General Section
 
 startup-header = Pokretanje
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Dozvoli da se { -brand-short-name } i Firefox pokreću u isto vrijeme
+use-firefox-sync = Savjet: Ovo koristi odvojene profile. Koristite { -sync-brand-short-name } za dijeljenje podataka između njih.
+get-started-not-logged-in = Prijava u { -sync-brand-short-name }…
+get-started-configured = Otvori { -sync-brand-short-name } postavke
+always-check-default =
+    .label = Uvijek provjeravaj da li je { -brand-short-name } glavni browser
+    .accesskey = g
+is-default = { -brand-short-name } je trenutno vaš glavni browser
+is-not-default = { -brand-short-name } trenutno nije vaš glavni browser
+startup-page = Kada se { -brand-short-name } pokrene
+    .accesskey = s
+startup-user-homepage =
+    .label = Prikazati vašu početnu stranicu
 startup-blank-page =
     .label = Prikaži praznu stranicu
+startup-prev-session =
+    .label = Prikazati vaše prozore i tabove od zadnjeg puta
+home-page-header = Prikazati vašu početnu stranicu
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -65,16 +84,57 @@ use-current-pages =
            *[other] Koristi trenutne stranice
         }
     .accesskey = c
+choose-bookmark =
+    .label = Koristi zabilješku…
+    .accesskey = b
 restore-default =
     .label = Vrati na izvorne vrijednosti
     .accesskey = r
+tabs-group-header = Tabovi
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab prolazi kroz tabove u redosljedu nedavnog korištenja
+    .accesskey = T
+warn-on-close-multiple-tabs =
+    .label = Upozoriti vas kada zatvarate više tabova
+    .accesskey = o
+warn-on-open-many-tabs =
+    .label = Upozoriti vas kada otvaranje više tabova može usporiti { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Kada otvorite link u novom tabu, odmah se prebaciti na njega
+    .accesskey = s
 show-tabs-in-taskbar =
     .label = Prikazuj pregled tabova u Windows taskbaru
     .accesskey = k
+browser-containers-enabled =
+    .label = Omogući Container tabove
+    .accesskey = n
+browser-containers-learn-more = Saznajte više
+browser-containers-settings =
+    .label = Postavke…
+    .accesskey = t
+containers-disable-alert-title = Zatvoriti sve Container tabove?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Ukoliko sada onemogućite Container tabove, { $tabCount } container tab će biti zatvoren. Da li ste sigurni da želite onemogućiti Container tabove?
+        [few] Ukoliko sada onemogućite Container tabove, { $tabCount } container tabova će biti zatvoreno. Da li ste sigurni da želite onemogućiti Container tabove?
+       *[other] Ukoliko sada onemogućite Container tabove, { $tabCount } container tabova će biti zatvoreno. Da li ste sigurni da želite onemogućiti Container tabove?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Zatvori { $tabCount } Container tab
+        [few] Zatvori { $tabCount } Container tabova
+       *[other] Zatvori { $tabCount } Container tabova
+    }
+containers-disable-alert-cancel-button = Ostavi omogućeno
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Fontovi & Boje
+default-font = Izvorni font:
+    .accesskey = f
+default-font-size = Veličina:
+    .accesskey = V
 advanced-fonts =
     .label = Napredno…
     .accesskey = a
@@ -85,6 +145,15 @@ choose-language-description = Izaberite željeni jezik za prikaz stranica
 choose-button =
     .label = Izaberi…
     .accesskey = I
+translate-web-pages =
+    .label = Prevedi web sadržaj
+    .accesskey = P
+translate-exceptions =
+    .label = Izuzeci…
+    .accesskey = e
+check-user-spelling =
+    .label = Provjeravaj pravopis dok kucam
+    .accesskey = o
 
 ## General Section - Files and Applications
 
@@ -103,15 +172,39 @@ download-choose-folder =
             [macos] e
            *[other] P
         }
+download-always-ask-where =
+    .label = Uvijek vas pitati gdje želite spasiti fajl
+    .accesskey = a
+applications-header = Aplikacije
+applications-filter =
+    .placeholder = Pretraži tipove fajlova ili aplikacije
 applications-type-column =
     .label = Tip sadržaja
     .accesskey = T
 applications-action-column =
     .label = Akcija
     .accesskey = A
+play-drm-content-learn-more = Saznajte više
+update-application-title = { -brand-short-name } nadogradnje
+update-history =
+    .label = Prikaži historijat nadogradnji…
+    .accesskey = P
+update-application-allow-description = Dozvoli { -brand-short-name }u da
+update-application-check-choose =
+    .label = Provjeri za nadogradnju, ali me prvo pitaj da li želim instalirati
+    .accesskey = P
+update-application-manual =
+    .label = Nikad ne provjeravaj za nadogradnju (nije preporučeno)
+    .accesskey = N
+update-enable-search-update =
+    .label = Automatski nadograđuj pretraživače
+    .accesskey = e
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Koristi hardversko ubrzanje kada je dostupno
+    .accesskey = u
 
 ## General Section - Browsing
 
@@ -122,9 +215,15 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Koristi glatko pomjeranje
     .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = Prikaži tastaturu za dodir kada je potrebno
+    .accesskey = t
 browsing-use-cursor-navigation =
     .label = Uvijek koristi strelice na tastaturi za kretanje po stranicama
     .accesskey = c
+browsing-search-on-start-typing =
+    .label = Traži tekst čim počnem da kucam
+    .accesskey = k
 
 ## General Section - Proxy
 
