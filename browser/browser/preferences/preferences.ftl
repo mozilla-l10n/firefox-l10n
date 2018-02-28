@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Pśecej
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Nastajenja
            *[other] Nastajenja
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } musy se znowego startowa
 feature-disable-requires-restart = { -brand-short-name } musy se znowego startowaś, aby se toś ta funkcija znjemóžniła.
 should-restart-title = { -brand-short-name } znowego startowaś
 should-restart-ok = { -brand-short-name } něnto znowego startowaś
+cancel-no-restart-button = Pśetergnuś
 restart-later = Pózdźej znowego startowaś
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Waš startowy bok pokazaś
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Aktualny bok wužywaś
            *[other] Aktualne boki wužywaś
         }
@@ -122,15 +121,13 @@ browser-containers-settings =
     .label = Nastajenja…
     .accesskey = s
 containers-disable-alert-title = Wše kontejnerowe rejtarki zacyniś?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowy rejtark zacynijo. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
         [two] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowej rejtarka zacynijotej. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
         [few] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowe rejtarki zacyniju. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
        *[other] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowych rejtarkow zacynijo. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] { $tabCount } kontejnerowy rejtark zacyniś
         [two] { $tabCount } kontejnerowej rejtarka zacyniś
         [few] { $tabCount } kontejnerowe rejtarki zacyniś
@@ -175,13 +172,11 @@ download-save-to =
     .label = Dataje składowaś do
     .accesskey = D
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Wubraś…
            *[other] Pśepytaś…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] u
            *[other] e
         }
