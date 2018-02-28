@@ -51,6 +51,8 @@ restart-later = Sonra yenidən başlat
 
 ## General Section
 
+startup-blank-page =
+    .label = Boş səhifəni göstər
 show-tabs-in-taskbar =
     .label = Vərəqlərə ön baxışı Windows tapşırıq panelində göstər
     .accesskey = e
@@ -67,6 +69,7 @@ choose-button =
 
 ## General Section - Files and Applications
 
+download-header = Endirilənlər
 download-save-to =
     .label = Faylların saxlandığı yer
     .accesskey = y
