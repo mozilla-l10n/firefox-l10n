@@ -58,6 +58,12 @@ show-tabs-in-taskbar =
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = प्रगत…
+    .accesskey = A
+colors-settings =
+    .label = रंग…
+    .accesskey = C
 choose-button =
     .label = निवडा…
     .accesskey = o
@@ -76,6 +82,16 @@ applications-action-column =
 
 ## General Section - Browsing
 
+browsing-title = ब्राउजिंग
+browsing-use-autoscroll =
+    .label = स्वस्क्रोलिंगचा वापर करा
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = सौम्यपणे सरकवण्याचा वापर करा
+    .accesskey = m
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = सेटिंग्ज…
+    .accesskey = e
