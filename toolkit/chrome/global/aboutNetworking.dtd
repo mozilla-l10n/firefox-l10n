@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Anfonwyd">
 <!ENTITY aboutNetworking.received              "Derbyniwyd">
 <!ENTITY aboutNetworking.family                "Teulu">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Cyfeiriad">
 <!ENTITY aboutNetworking.expires               "Daw i ben (Eiliadau)">
 <!ENTITY aboutNetworking.messagesSent          "Negeseuon Anfonwyd">
