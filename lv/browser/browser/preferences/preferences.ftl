@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Vienmēr
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Iestatījumi
            *[other] Iestatījumi
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = Lai aktivētu šo iespēju ir jāpārstartē {
 feature-disable-requires-restart = Lai deaktivētu šo iespēju ir jāpārstartē { -brand-short-name }.
 should-restart-title = Pārstartēt { -brand-short-name }
 should-restart-ok = Pārstartēt { -brand-short-name } tagad
-revert-no-restart-button = Atjaunot
 restart-later = Pārstartēt vēlāk
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
