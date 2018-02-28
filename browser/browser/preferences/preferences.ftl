@@ -64,6 +64,9 @@ always-check-default =
     .accesskey = v
 is-default = { -brand-short-name } est votre navigateur par défaut
 is-not-default = { -brand-short-name } n’est pas votre navigateur par défaut
+set-as-my-default-browser =
+    .label = Définir par défaut…
+    .accesskey = D
 startup-page = Au démarrage de { -brand-short-name }
     .accesskey = d
 startup-user-homepage =
@@ -72,6 +75,8 @@ startup-blank-page =
     .label = Afficher une page vide
 startup-prev-session =
     .label = Afficher les derniers onglets et fenêtres utilisés
+disable-extension =
+    .label = Désactiver l’extension
 home-page-header = Afficher votre page d’accueil
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -94,6 +99,9 @@ tabs-group-header = Onglets
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab fait défiler vos onglets en les classant selon leur dernière utilisation
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Ouvrir les liens dans des onglets au lieu de nouvelles fenêtres
+    .accesskey = f
 warn-on-close-multiple-tabs =
     .label = Avertir lors de la fermeture de plusieurs onglets
     .accesskey = A
@@ -128,6 +136,7 @@ containers-disable-alert-cancel-button = Garder activé
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Langue et apparence
 fonts-and-colors-header = Polices et couleurs
 default-font = Police par défaut
     .accesskey = P
@@ -139,6 +148,7 @@ advanced-fonts =
 colors-settings =
     .label = Couleurs…
     .accesskey = C
+language-header = Langue
 choose-language-description = Choix de la langue préférée pour l’affichage des pages
 choose-button =
     .label = Choisir…
@@ -149,9 +159,13 @@ translate-web-pages =
 translate-exceptions =
     .label = Exceptions…
     .accesskey = x
+check-user-spelling =
+    .label = Vérifier l’orthographe pendant la saisie
+    .accesskey = V
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Fichiers et applications
 download-header = Téléchargements
 download-save-to =
     .label = Enregistrer les fichiers dans le dossier
@@ -171,6 +185,7 @@ download-always-ask-where =
     .label = Toujours demander où enregistrer les fichiers
     .accesskey = T
 applications-header = Applications
+applications-description = Définissez le comportement de { -brand-short-name } avec les fichiers que vous téléchargez et les applications que vous utilisez lorsque vous naviguez.
 applications-filter =
     .placeholder = Rechercher des types de fichiers ou d’applications
 applications-type-column =
@@ -179,12 +194,21 @@ applications-type-column =
 applications-action-column =
     .label = Action
     .accesskey = A
+drm-content-header = Contenu protégé par des composants de gestion des droits numériques (DRM)
+play-drm-content =
+    .label = Lire le contenu protégé par des DRM
+    .accesskey = L
 play-drm-content-learn-more = En savoir plus
 update-application-title = Mises à jour de { -brand-short-name }
+update-application-description = Conservez { -brand-short-name } à jour pour bénéficier des dernières avancées en matière de performances, de stabilité et de sécurité.
+update-application-info = Version { $version } <a>Notes de version</a>
 update-history =
     .label = Afficher l’historique des mises à jour…
     .accesskey = h
 update-application-allow-description = Autoriser { -brand-short-name } à
+update-application-auto =
+    .label = Installer les mises à jour automatiquement (recommandé)
+    .accesskey = I
 update-application-check-choose =
     .label = Vérifier l’existence de mises à jour, mais vous laisser décider de leur installation
     .accesskey = C
@@ -200,6 +224,23 @@ update-enable-search-update =
 
 ## General Section - Performance
 
+performance-title = Performances
+performance-use-recommended-settings-checkbox =
+    .label = Utiliser les paramètres de performance recommandés
+    .accesskey = U
+performance-use-recommended-settings-desc = Ces paramètres sont adaptés à la configuration matérielle de votre ordinateur et à votre système d’exploitation.
+performance-settings-learn-more = En savoir plus
+performance-allow-hw-accel =
+    .label = Utiliser l’accélération graphique matérielle si disponible
+    .accesskey = n
+performance-limit-content-process-option = Nombre maximum de processus de contenu
+    .accesskey = N
+performance-limit-content-process-enabled-desc = Davantage de processus de contenu peut améliorer les performances lors de l’utilisation de plusieurs onglets, cependant la consommation de mémoire sera plus importante.
+performance-limit-content-process-disabled-desc = Modifier le nombre de processus de contenu est possible uniquement avec la version multiprocessus de { -brand-short-name }. <a>Apprendre à vérifier si le mode multiprocessus est activé</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (par défaut)
 
 ## General Section - Browsing
 
@@ -222,6 +263,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy réseau
 network-proxy-connection-settings =
     .label = Paramètres…
     .accesskey = P
