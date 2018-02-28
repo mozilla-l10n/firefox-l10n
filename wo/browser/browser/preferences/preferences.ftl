@@ -27,6 +27,7 @@ close-button =
 
 ## General Section
 
+startup-header = Tàmbali
 startup-blank-page =
     .label = Wane xët bu wëyëŋ
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -43,12 +44,18 @@ use-current-pages =
 choose-bookmark =
     .label = Mandarga xët...
     .accesskey = M
+restore-default =
+    .label = Delloosi tabbinu ñakk ndigal
+    .accesskey = D
 show-tabs-in-taskbar =
     .label = Wone seenub koñ yi ci banqaasu sas bu windows
     .accesskey = n
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = Xóot…
+    .accesskey = X
 colors-settings =
     .label = Melo yi…
     .accesskey = M
@@ -60,6 +67,9 @@ choose-button =
 ## General Section - Files and Applications
 
 download-header = Yeb yi
+download-save-to =
+    .label = Aar dencukaay yi ci biir wayndare bi
+    .accesskey = n
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -77,6 +87,9 @@ applications-type-column =
 applications-action-column =
     .label = Jëf
     .accesskey = J
+update-application-use-service =
+    .label = Jëfandikool ab sarwiisu laltu ngir samp yeesal yi
+    .accesskey = k
 
 ## General Section - Performance
 
