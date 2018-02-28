@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Alltid
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Inställningar
            *[other] Inställningar
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } måste starta om för at
 feature-disable-requires-restart = { -brand-short-name } måste starta om för att inaktivera den här funktionen.
 should-restart-title = Starta om { -brand-short-name }
 should-restart-ok = Starta om { -brand-short-name } nu
+cancel-no-restart-button = Avbryt
 restart-later = Starta om senare
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Visa din startsida
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Använd aktuell sida
            *[other] Använd aktuella sidor
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Inställningar…
     .accesskey = s
 containers-disable-alert-title = Stäng alla innehållsflikar?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Om du inaktiverar innehållsflikar nu, { $tabCount } innehållsflik kommer att stängas. Är du säker på att du vill inaktivera innehållsflikar?
        *[other] Om du inaktiverar innehållsflikar nu, { $tabCount } innehållsflikar kommer att stängas. Är du säker på att du vill inaktivera innehållsflikar?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Stäng { $tabCount } innehållsflik
        *[other] Stäng { $tabCount } innehållsflikar
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Spara filer till
     .accesskey = a
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Välj…
            *[other] Bläddra…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] V
            *[other] B
         }
