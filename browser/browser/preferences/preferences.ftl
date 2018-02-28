@@ -70,10 +70,16 @@ restore-default =
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = ફોન્ટ & રંગો
+advanced-fonts =
+    .label = અદ્યતન...
+    .accesskey = A
 colors-settings =
     .label = રંગો...
     .accesskey = C
 choose-language-description = પાનાંઓ દર્શાવવા માટે તમારી પ્રાધાન્યવાળી ભાષા પસંદ કરો
+choose-button =
+    .label = પસંદ કરો...
+    .accesskey = o
 
 ## General Section - Files and Applications
 
@@ -116,3 +122,6 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = સેટીંગ...
+    .accesskey = e
