@@ -124,6 +124,11 @@ containers-disable-alert-desc =
         [one] நீங்கள் இப்போது கொள்கலன் கீற்றுகளை முடக்கினால், { $tabCount } கலன் கீற்று மூடப்படும். கலன் கீற்றுகளைச் செயல்நீக்க வேண்டுமா?
        *[other] நீங்கள் இப்போது கொள்கலன் கீற்றுகளை முடக்கினால், { $tabCount } கலன் கீற்றுகள் மூடப்படும். கலன் கீற்றுகளைச் செயல்நீக்க வேண்டுமா?
     }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount } கலன் கீற்றை மூடு
+       *[other] { $tabCount } கலன் கீற்றுகளை மூடு
+    }
 containers-disable-alert-cancel-button = செயலில் வைத்திரு
 
 ## General Section - Language & Appearance
