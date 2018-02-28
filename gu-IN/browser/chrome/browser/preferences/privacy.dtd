@@ -53,6 +53,12 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "તૃતીય-પક્ષ કૂકીઝ સ્વીકારો">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies3.accesskey      "A">
+
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">
 <!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
 <!ENTITY  acceptThirdParty.visited.label  "મુલાકાત લીધેલ">
@@ -94,6 +100,9 @@
 <!ENTITY  dontrememberActions.pre.label          "તમે ">
 <!ENTITY  dontrememberActions.clearHistory.label "બધો વર્તમાન ઇતિહાસ પણ સાફ કરવા માંગતા હશો">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "ઇતિહાસ સાફ કરો…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "હંમેશા ખાનગી બ્રાઉઝીંગ સ્થિતિ વાપરો">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">

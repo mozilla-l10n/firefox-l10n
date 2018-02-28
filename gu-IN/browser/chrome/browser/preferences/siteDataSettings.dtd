@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "સ્થિતિ">
 <!ENTITY     cookiesCol.label              "કૂકીઝ">
 <!ENTITY     usageCol.label                "સંગ્રહ">
+<!ENTITY     lastAccessedCol.label                "છેલ્લે વપરાયેલ">
 <!ENTITY     searchTextboxPlaceHolder             "વેબસાઇટ્સ શોધો">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "પસંદ કરેલું દૂર કરો">
