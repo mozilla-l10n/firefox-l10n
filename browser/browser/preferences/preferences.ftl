@@ -124,7 +124,6 @@ browser-containers-settings =
 containers-disable-alert-title = أأغلق كل الألسنة الحاوية؟
 containers-disable-alert-desc =
     { $tabCount ->
-        [zero] 
         [one] إذا عطلت الألسنة الحاوية الآن فسيغلق لسان حاو. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
         [two] إذا عطلت الألسنة الحاوية الآن فسيغلق لسانين حاويين. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
         [few] إذا عطلت الألسنة الحاوية الآن فستغلق { $tabCount } ألسنة حاوية. أمتأكد أنك تريد تعطيل الألسنة الحاوية؟
@@ -133,7 +132,6 @@ containers-disable-alert-desc =
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [zero] 
         [one] أغلق اللسان الحاوي
         [two] أغلق اللسانين الحاويين
         [few] أغلق { $tabCount } ألسنة حاوية
