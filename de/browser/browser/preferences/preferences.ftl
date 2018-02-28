@@ -65,9 +65,15 @@ use-current-pages =
            *[other] Aktuelle Seiten verwenden
         }
     .accesskey = A
+choose-bookmark =
+    .label = Lesezeichen verwenden…
+    .accesskey = L
 restore-default =
     .label = Standard wiederherstellen
     .accesskey = t
+show-tabs-in-taskbar =
+    .label = Tab-Vorschauen in der Windows-Taskleiste anzeigen
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
@@ -82,6 +88,9 @@ colors-settings =
 ## General Section - Files and Applications
 
 download-header = Downloads
+download-save-to =
+    .label = Alle Dateien in folgendem Ordner abspeichern:
+    .accesskey = e
 applications-type-column =
     .label = Dateityp
     .accesskey = D
