@@ -124,6 +124,7 @@ containers-disable-alert-cancel-button = सक्षम बनाए रखे�
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = भाषा और उपस्थिति
 fonts-and-colors-header = फ़ॉन्ट व रंग
 default-font = तयशुदा फ़ॉन्ट
     .accesskey = D
@@ -151,6 +152,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = फ़ाइल व अनुप्रयोग
 download-header = डाउनलोड
 download-save-to =
     .label = यहाँ फ़ाइल सहेजें
@@ -204,7 +206,11 @@ update-enable-search-update =
 ## General Section - Performance
 
 performance-title = प्रदर्शन
+performance-use-recommended-settings-checkbox =
+    .label = अनुशंसित प्रदर्शन सेटिंग्स का उपयोग करें
+    .accesskey = U
 performance-use-recommended-settings-desc = ये सेटिंग्स आपके कंप्यूटर के हार्डवेयर और ऑपरेटिंग सिस्टम के अनुरूप हैं.
+performance-settings-learn-more = और जानें
 performance-allow-hw-accel =
     .label = उपलब्ध होने पर हार्ड त्वरण का उपयोग करें
     .accesskey = r
@@ -212,6 +218,10 @@ performance-limit-content-process-option = सामग्री प्रक्
     .accesskey = l
 performance-limit-content-process-enabled-desc = एकाधिक टैब का उपयोग करते समय अतिरिक्त सामग्री प्रक्रियाओं में सुधार हो सक हैं, लेकिन इससे अधिक मेमोरी का उपयोग होगा.
 performance-limit-content-process-disabled-desc = कंटेंट प्रक्रियाओं की संख्या केवल मल्टीप्रासेस { -brand-short-name } के साथ बदली जा सकती है. <a>जाँचना सीखें कि क्या मल्टीप्रासेस सक्रिय है</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (तयशुदा)
 
 ## General Section - Browsing
 
@@ -234,6 +244,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = नेटवर्क प्रॉक्सी
 network-proxy-connection-settings =
     .label = सेटिंग…
     .accesskey = e
