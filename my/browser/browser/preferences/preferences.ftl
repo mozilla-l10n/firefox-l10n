@@ -36,6 +36,7 @@ restart-later = နောက်မှ ပြန်ဖွင့်ပါ
 
 ## General Section
 
+startup-header = စတင်ခြင်း
 
 ## General Section - Language & Appearance
 
