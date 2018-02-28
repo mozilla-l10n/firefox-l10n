@@ -51,21 +51,51 @@ restart-later = Перазапусціць пазней
 
 ## General Section
 
+startup-header = Запуск
+choose-bookmark =
+    .label = Ужыць закладку…
+    .accesskey = з
 
 ## General Section - Language & Appearance
 
+colors-settings =
+    .label = Колеры…
+    .accesskey = К
+choose-button =
+    .label = Выбраць…
+    .accesskey = В
 
 ## General Section - Files and Applications
 
 download-save-to =
     .label = Захоўваць файлы ў
     .accesskey = З
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Выбраць…
+           *[other] Агляд…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] В
+           *[other] г
+        }
+applications-type-column =
+    .label = Тып змесціва
+    .accesskey = Т
+applications-action-column =
+    .label = Дзеянне
+    .accesskey = Д
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-use-cursor-navigation =
+    .label = Заўсёды ўжываць клавішы-стрэлкі для перамяшчэння ў старонках
+    .accesskey = с
 
 ## General Section - Proxy
 
