@@ -65,16 +65,30 @@ use-current-pages =
            *[other] Använd aktuella sidor
         }
     .accesskey = u
+choose-bookmark =
+    .label = Använd bokmärke…
+    .accesskey = d
 restore-default =
     .label = Återställ standard
     .accesskey = Å
+tabs-group-header = Flikar
+show-tabs-in-taskbar =
+    .label = Förhandsgranska flikar i Windows aktivitetsfält
+    .accesskey = F
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Teckensnitt och färger
+advanced-fonts =
+    .label = Avancerat…
+    .accesskey = A
 colors-settings =
     .label = Färger…
     .accesskey = F
 choose-language-description = Välj språk som webbsidor ska visas i
+choose-button =
+    .label = Välj…
+    .accesskey = V
 
 ## General Section - Files and Applications
 
@@ -82,6 +96,17 @@ download-header = Filhämtningar
 download-save-to =
     .label = Spara filer till
     .accesskey = a
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Välj…
+           *[other] Bläddra…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] V
+           *[other] B
+        }
 applications-type-column =
     .label = Typ av innehåll
     .accesskey = T
