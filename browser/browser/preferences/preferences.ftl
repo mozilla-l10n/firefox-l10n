@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Siempres
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Opciones
            *[other] Preferencies
         }
@@ -46,5 +47,49 @@ feature-enable-requires-restart = { -brand-short-name } tien de reaniciase p'act
 feature-disable-requires-restart = { -brand-short-name } tien de reaniciase pa desactivar esta carauterística.
 should-restart-title = Reaniciar { -brand-short-name }
 should-restart-ok = Reiniciar { -brand-short-name } agora
-revert-no-restart-button = Revertir
 restart-later = Reaniciar dempués
+
+## General Section
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar páxina actual
+           *[other] Usar páxines actuales
+        }
+    .accesskey = U
+
+## General Section - Language & Appearance
+
+colors-settings =
+    .label = Colores…
+    .accesskey = C
+
+## General Section - Files and Applications
+
+download-header = Descargues
+applications-type-column =
+    .label = Mena de conteníu
+    .accesskey = M
+applications-action-column =
+    .label = Aición
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-use-smooth-scrolling =
+    .label = Usar desplazamientu sele
+    .accesskey = l
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Configuración…
+    .accesskey = o
