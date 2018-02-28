@@ -48,6 +48,7 @@ use-current-pages =
 restore-default =
     .label = Vegêrîna Pêşsalixbûyî
     .accesskey = V
+tabs-group-header = Hilpekîn
 show-tabs-in-taskbar =
     .label = Di darikê amûran a Windowsê de pêşdîtina hilpekînê nîşan bide
     .accesskey = k
