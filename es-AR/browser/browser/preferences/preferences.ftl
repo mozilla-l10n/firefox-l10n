@@ -51,8 +51,19 @@ restart-later = Reiniciar después
 
 ## General Section
 
+startup-header = Inicio
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Permitir que { -brand-short-name } y Firefox se ejecuten al mismo tiempo
+use-firefox-sync = Consejo: Esta opción usa perfiles separados. Use { -sync-brand-short-name } para compartir datos entre ellos.
 get-started-not-logged-in = Ingresar a { -sync-brand-short-name }…
 get-started-configured = Abrir preferencias de { -sync-brand-short-name }
+always-check-default =
+    .label = Siempre verificar si { -brand-short-name } es el navegador predeterminado
+    .accesskey = g
+is-default = { -brand-short-name } es actualmente su navegador predeterminado
+is-not-default = { -brand-short-name } no es su navegador predeterminado
 set-as-my-default-browser =
     .label = Hacer predeterminado…
     .accesskey = D
@@ -60,9 +71,28 @@ startup-page = Cuando { -brand-short-name } se inicie
     .accesskey = s
 startup-user-homepage =
     .label = Mostrar página de inicio
+startup-blank-page =
+    .label = Mostrar una página en blanco
 startup-prev-session =
     .label = Mostrar las ventanas y pestañas de la última vez
 home-page-header = Mostrar página de inicio
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar página actual
+           *[other] Usar páginas actuales
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Usar un marcador…
+    .accesskey = m
+restore-default =
+    .label = Restaurar predeterminadas
+    .accesskey = R
 tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab rota las pestañas según su uso reciente
@@ -129,6 +159,21 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Archivos y aplicaciones
+download-header = Descargas
+download-save-to =
+    .label = Guardar archivos en
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Seleccionar…
+           *[other] Examinar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] x
+        }
 download-always-ask-where =
     .label = Siempre preguntarme dónde guardar archivos
     .accesskey = S
@@ -160,6 +205,9 @@ update-application-auto =
 update-application-check-choose =
     .label = Busque actualizaciones pero dejarme elegir si las instalo
     .accesskey = C
+update-application-use-service =
+    .label = Usar un servicio en segundo plano para instalar actualizaciones
+    .accesskey = U
 update-enable-search-update =
     .label = Actualizar automáticamente los buscadores
     .accesskey = e
@@ -182,6 +230,19 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Navegar
+browsing-use-autoscroll =
+    .label = Usar desplazamiento automático
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Usar desplazamiento suave
+    .accesskey = s
+browsing-use-onscreen-keyboard =
+    .label = Mostrar un teclado táctil cuando sea necesario
+    .accesskey = M
+browsing-use-cursor-navigation =
+    .label = Siempre usar las teclas del cursor para navegar entre páginas
+    .accesskey = c
 browsing-search-on-start-typing =
     .label = Buscar texto al empezar a escribir
     .accesskey = x
@@ -189,3 +250,6 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de red
+network-proxy-connection-settings =
+    .label = Configuración…
+    .accesskey = C
