@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Immer
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Einstellungen
            *[other] Einstellungen
         }
@@ -46,5 +47,66 @@ feature-enable-requires-restart = { -brand-short-name } muss neu gestartet werde
 feature-disable-requires-restart = { -brand-short-name } muss neu gestartet werden, um diese Funktion zu deaktivieren.
 should-restart-title = { -brand-short-name } neu starten
 should-restart-ok = { -brand-short-name } jetzt neu starten
-revert-no-restart-button = Rückgängig machen
 restart-later = Später neu starten
+
+## General Section
+
+startup-header = Start
+startup-blank-page =
+    .label = Leere Seite anzeigen
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Aktuelle Seite verwenden
+           *[other] Aktuelle Seiten verwenden
+        }
+    .accesskey = A
+restore-default =
+    .label = Standard wiederherstellen
+    .accesskey = t
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Schriftarten & Farben
+advanced-fonts =
+    .label = Erweitert…
+    .accesskey = E
+colors-settings =
+    .label = Farben…
+    .accesskey = F
+
+## General Section - Files and Applications
+
+download-header = Downloads
+applications-type-column =
+    .label = Dateityp
+    .accesskey = D
+applications-action-column =
+    .label = Aktion
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Browsing
+browsing-use-autoscroll =
+    .label = Automatischen Bildlauf aktivieren
+    .accesskey = A
+browsing-use-smooth-scrolling =
+    .label = Sanften Bildlauf aktivieren
+    .accesskey = S
+browsing-use-cursor-navigation =
+    .label = Markieren von Text mit der Tastatur zulassen
+    .accesskey = M
+
+## General Section - Proxy
+
+network-proxy-connection-settings =
+    .label = Einstellungen…
+    .accesskey = n
