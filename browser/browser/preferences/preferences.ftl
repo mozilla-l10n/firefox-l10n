@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Ĉiam
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Elektebloj
            *[other] Preferoj
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = Por aktivigi tiun ĉi trajton, { -brand-short-
 feature-disable-requires-restart = Por malaktivigi tiun ĉi trajton, { -brand-short-name } devas restarti.
 should-restart-title = Restartigi { -brand-short-name }
 should-restart-ok = Restartigi { -brand-short-name } nun
-revert-no-restart-button = Ne restartigi
 restart-later = Restartigi poste
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
