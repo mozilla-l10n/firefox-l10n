@@ -52,9 +52,20 @@ restart-later = เริ่มการทำงานใหม่ในภา�
 ## General Section
 
 startup-header = เริ่มการทำงาน
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = อนุญาตให้ { -brand-short-name } และ Firefox ทำงานพร้อมกัน
 startup-blank-page =
     .label = แสดงหน้าว่าง
+choose-bookmark =
+    .label = ใช้ที่คั่นหน้า…
+    .accesskey = ท
 tabs-group-header = แท็บ
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab เพื่อสลับเปลี่ยนแท็บตามลำดับที่ใช้ล่าสุด
+    .accesskey = T
+browser-containers-learn-more = เรียนรู้เพิ่มเติม
 
 ## General Section - Language & Appearance
 
@@ -62,9 +73,13 @@ fonts-and-colors-header = แบบอักษรและสี
 colors-settings =
     .label = สี…
     .accesskey = ส
+choose-language-description = เลือกภาษาที่คุณต้องการในการแสดงผลหน้า
 choose-button =
     .label = เลือก…
     .accesskey = ล
+translate-exceptions =
+    .label = ข้อยกเว้น…
+    .accesskey = อ
 
 ## General Section - Files and Applications
 
@@ -80,12 +95,17 @@ download-choose-folder =
             [macos] ล
            *[other] ร
         }
+applications-action-column =
+    .label = การกระทำ
+    .accesskey = ก
+play-drm-content-learn-more = เรียนรู้เพิ่มเติม
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = การท่องเว็บ
 
 ## General Section - Proxy
 
