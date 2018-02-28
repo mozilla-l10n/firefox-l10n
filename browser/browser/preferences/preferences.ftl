@@ -127,6 +127,11 @@ containers-disable-alert-desc =
         [one] Se você desabilitar a Aba Contêiner agora, { $tabCount } aba contêiner será fechada. Tem certeza de que deseja desativar a Aba Contêiner?
        *[other] Se você desabilitar a Aba Contêiner agora, { $tabCount } abas contêiner serão fechadas. Tem certeza de que deseja desativar a Aba Contêiner?
     }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Fechar { $tabCount } aba container
+       *[other] Fechar { $tabCount } abas container
+    }
 containers-disable-alert-cancel-button = Manter habilitado
 
 ## General Section - Language & Appearance
