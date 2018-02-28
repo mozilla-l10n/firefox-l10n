@@ -44,7 +44,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "გამოყენების პირობები">
-<!ENTITY fxaPrivacyNotice.link.label "პირადი მონაცემების დებულება">
+<!ENTITY fxaPrivacyNotice.link.label "პირადი მონაცემების დაცვის განაცხადი">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
