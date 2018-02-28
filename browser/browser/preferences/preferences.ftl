@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ਹਮੇਸ਼ਾ
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] ਚੋਣਾਂ
            *[other] ਮੇਰੀ ਪਸੰਦ
         }
@@ -46,5 +47,31 @@ feature-enable-requires-restart = ਇਹ ਫੀਚਰ ਸਮਰੱਥ ਕਰਨ 
 feature-disable-requires-restart = ਇਹ ਫੀਚਰ ਅਸਮਰੱਥ ਕਰਨ ਲਈ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।
 should-restart-title = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 should-restart-ok = ਹੁਣੇ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
-revert-no-restart-button = ਪਰਤਾਓ
 restart-later = ਬਾਅਦ 'ਚ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+
+## General Section
+
+startup-header = ਸ਼ੁਰੂ
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-header = ਡਾਊਨਲੋਡ
+applications-type-column =
+    .label = ਸਮੱਗਰੀ ਟਾਈਪ
+    .accesskey = T
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = ਬਰਾਊਜ਼ਿੰਗ
+browsing-use-cursor-navigation =
+    .label = ਪੇਜ਼ ਵਿੱਚ ਨੇਵੀਗੇਸ਼ਨ ਦੌਰਾਨ ਹਮੇਸ਼ਾਂ ਕਰਸਰ ਸਵਿੱਚਾਂ ਵੇਖੋ
+    .accesskey = c
+
+## General Section - Proxy
+
