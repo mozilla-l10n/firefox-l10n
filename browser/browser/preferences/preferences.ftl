@@ -52,6 +52,8 @@ restart-later = Reinicia més tard
 ## General Section
 
 startup-header = Inici
+is-default = Actualment el { -brand-short-name } és el navegador per defecte
+is-not-default = El { -brand-short-name } no és el navegador per defecte
 startup-blank-page =
     .label = Mostra una pàgina en blanc
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -65,9 +67,13 @@ use-current-pages =
            *[other] Utilitza les pàgines actuals
         }
     .accesskey = c
+choose-bookmark =
+    .label = Utilitza una adreça d'interès…
+    .accesskey = z
 restore-default =
     .label = Restaura les pàgines per defecte
     .accesskey = R
+tabs-group-header = Pestanyes
 show-tabs-in-taskbar =
     .label = Mostra les previsualitzacions de les pestanyes a la barra de tasques del Windows
     .accesskey = q
@@ -85,6 +91,12 @@ choose-language-description = Trieu la llengua en què es mostraran preferentmen
 choose-button =
     .label = Trieu…
     .accesskey = T
+translate-web-pages =
+    .label = Tradueix el contingut web
+    .accesskey = T
+translate-exceptions =
+    .label = Excepcions…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
@@ -109,6 +121,9 @@ applications-type-column =
 applications-action-column =
     .label = Acció
     .accesskey = A
+update-application-use-service =
+    .label = Instal·la les actualitzacions en segon pla
+    .accesskey = s
 
 ## General Section - Performance
 
@@ -119,9 +134,15 @@ browsing-title = Navegació
 browsing-use-autoscroll =
     .label = Utilitza el desplaçament automàtic
     .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Utilitza el desplaçament suau
+    .accesskey = s
 browsing-use-cursor-navigation =
     .label = Utilitza sempre les tecles de cursor per navegar en les pàgines
     .accesskey = c
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Paràmetres…
+    .accesskey = P
