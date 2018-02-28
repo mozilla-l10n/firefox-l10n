@@ -70,6 +70,12 @@ browsing-title = مرور
 browsing-use-autoscroll =
     .label = استفاده از لغزش خودکار
     .accesskey = ل
+browsing-use-smooth-scrolling =
+    .label = استفاده از لغزش هموار
+    .accesskey = غ
+browsing-use-cursor-navigation =
+    .label = در مرور صفحات همیشه از مکان‌نما استفاده شود
+    .accesskey = ص
 
 ## General Section - Proxy
 
