@@ -20,6 +20,7 @@ close-button =
 ## General Section
 
 startup-header = ஆரம்பிக்க
+is-default = தற்போதைய பொது இருப்பு உலாவி: { -brand-short-name }
 
 ## General Section - Language & Appearance
 
