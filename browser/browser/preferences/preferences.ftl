@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Alltid
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Innstillinger
            *[other] Innstillinger
         }
@@ -46,5 +47,79 @@ feature-enable-requires-restart = { -brand-short-name } må startes på nytt for
 feature-disable-requires-restart = { -brand-short-name } må startes på nytt for å slå av denne funksjonen.
 should-restart-title = Start { -brand-short-name } på nytt
 should-restart-ok = Start { -brand-short-name } på nytt nå
-revert-no-restart-button = Forkast
 restart-later = Start på nytt senere
+
+## General Section
+
+startup-blank-page =
+    .label = Vis tom side
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Bruk åpen nettside
+           *[other] Bruk åpne nettsider
+        }
+    .accesskey = B
+restore-default =
+    .label = Bruk standard
+    .accesskey = s
+
+## General Section - Language & Appearance
+
+fonts-and-colors-header = Skrifttyper og farger
+advanced-fonts =
+    .label = Avansert …
+    .accesskey = A
+colors-settings =
+    .label = Farger …
+    .accesskey = F
+choose-button =
+    .label = Velg …
+    .accesskey = V
+
+## General Section - Files and Applications
+
+download-header = Nedlastinger
+download-save-to =
+    .label = Lagre filer i
+    .accesskey = r
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Bla gjennom …
+           *[other] Bla gjennom …
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] o
+        }
+applications-type-column =
+    .label = Innholdstype
+    .accesskey = I
+applications-action-column =
+    .label = Handling
+    .accesskey = H
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+browsing-title = Nettlesing
+browsing-use-autoscroll =
+    .label = Bruk automatisk rulling
+    .accesskey = B
+browsing-use-smooth-scrolling =
+    .label = Bruk jevn rulling
+    .accesskey = u
+browsing-use-cursor-navigation =
+    .label = Alltid bruk piltaster for å navigere innenfor nettsider
+    .accesskey = A
+
+## General Section - Proxy
+
