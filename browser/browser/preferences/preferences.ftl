@@ -3,7 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Опции
            *[other] Поставки
         }
@@ -30,3 +31,24 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } мора да се рестартира за да се овозможи оваа особеност.
 feature-disable-requires-restart = { -brand-short-name } мора да се рестартира за да се оневозможи оваа особеност.
 should-restart-title = Рестарирај го { -brand-short-name }
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+download-save-to =
+    .label = Снимај ги датотеките во
+    .accesskey = м
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
