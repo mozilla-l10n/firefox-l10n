@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sentiasa
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Pilihan
            *[other] Keutamaan
         }
@@ -46,5 +47,26 @@ feature-enable-requires-restart = { -brand-short-name } perlu mula semula untuk 
 feature-disable-requires-restart = { -brand-short-name } perlu mula semula untuk nyahdayakan ciri ini.
 should-restart-title = Mula semula { -brand-short-name }
 should-restart-ok = Mulakan { -brand-short-name } sekarang
-revert-no-restart-button = Balikan
 restart-later = Mula semula Kemudian
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+choose-language-description = Pilih bahasa pilihan anda untuk memaparkan halaman
+
+## General Section - Files and Applications
+
+update-application-use-service =
+    .label = Gunakan servis latar belakang bagi pemasangan versi terkini
+    .accesskey = b
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
