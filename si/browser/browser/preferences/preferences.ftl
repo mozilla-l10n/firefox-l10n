@@ -8,7 +8,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = සැමවිටම
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] විකල්ප
            *[other] මනාපයන්
         }
@@ -37,5 +38,25 @@ feature-enable-requires-restart = මෙම විශේෂාංගය සක�
 feature-disable-requires-restart = මෙම විශේෂාංගය අක්‍රිය කිරීමට { -brand-short-name } යළි ඇරඹිය යුතුයි.
 should-restart-title = { -brand-short-name } යළි අරඹන්න
 should-restart-ok = { -brand-short-name } දැන් ප්‍රතිපණගන්වන්න
-revert-no-restart-button = ප්‍රතිවර්තනය කරන්න
 restart-later = පසුව යළි අරඹන්න
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+applications-action-column =
+    .label = ක්‍රියාව
+    .accesskey = A
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
