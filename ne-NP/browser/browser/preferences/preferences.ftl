@@ -129,6 +129,7 @@ containers-disable-alert-ok-button =
         [one] { $tabCount } कन्टेनर ट्याब बन्द गर्नुहोस्
        *[other] { $tabCount } कन्टेनर ट्याबहरू बन्द गर्नुहोस्
     }
+containers-disable-alert-cancel-button = सक्षम राख्नुहोस्
 
 ## General Section - Language & Appearance
 
