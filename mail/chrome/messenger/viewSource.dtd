@@ -55,9 +55,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.accesskey "ძ">
 <!ENTITY menu_highlightSyntax.label "სინტაქსის შემოწმება">
 <!ENTITY menu_highlightSyntax.accesskey "ტ">
+<!ENTITY menu_textSize.label "ტექსტის ზომა">
+<!ENTITY menu_textSize.accesskey "ზ">
+<!ENTITY menu_textEnlarge.label "გადიდება">
+<!ENTITY menu_textEnlarge.accesskey "დ">
+<!ENTITY menu_textReduce.label "შემცირება">
+<!ENTITY menu_textReduce.accesskey "ც">
+<!ENTITY menu_textReset.label "ჩვეულებრივი">
+<!ENTITY menu_textReset.accesskey "ჩ">
 
+<!ENTITY findOnCmd.label     "პოვნა ამ გვერდზე…">
+<!ENTITY findOnCmd.accesskey "პ">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "კვლავძიება">
+<!ENTITY findAgainCmd.accesskey "კ">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY backCmd.label "უკან">
+<!ENTITY backCmd.accesskey "უ">
+<!ENTITY forwardCmd.label "წინ">
+<!ENTITY forwardCmd.accesskey "წ">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "ბმულის მისამართის ასლი">
+<!ENTITY copyLinkCmd.accesskey "ლ">
+<!ENTITY copyEmailCmd.label "ელფოსტის მისამართის დაკოპირება">
+<!ENTITY copyEmailCmd.accesskey "ე">
 
 <!-- Copied from charsetMenu.dtd -->
+<!ENTITY charsetMenu2.label            "ტექსტის კოდირება">
+<!ENTITY charsetMenu2.accesskey        "კ">
 
