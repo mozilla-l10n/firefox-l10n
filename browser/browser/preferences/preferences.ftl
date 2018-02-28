@@ -45,24 +45,89 @@ restart-later = Arvi torna Dòppo
 
 ## General Section
 
+startup-header = Iniçio
+startup-blank-page =
+    .label = Fanni vedde 'na pagina gianca
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Adeuvia a pagina corente
+           *[other] Adeuvia e pagine corenti
+        }
+    .accesskey = c
+choose-bookmark =
+    .label = Adeuvia o segnalibbro…
+    .accesskey = s
+restore-default =
+    .label = Metti torna predefinio
+    .accesskey = R
+show-tabs-in-taskbar =
+    .label = Fanni vedde l'anteprimma inta bara di task do Windows
+    .accesskey = k
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Coî e testo
 advanced-fonts =
     .label = Avansæ…
     .accesskey = n
+colors-settings =
+    .label = Coi…
+    .accesskey = C
+choose-language-description = Çerni a lengoa preferia pe-e pagine
+choose-button =
+    .label = Çerni…
+    .accesskey = i
 
 ## General Section - Files and Applications
 
+download-header = Descaregamenti
 download-save-to =
     .label = Sarva file in
     .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Çerni…
+           *[other] Çerca…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] i
+           *[other] Ç
+        }
+applications-type-column =
+    .label = Tipo de contegnuo
+    .accesskey = T
+applications-action-column =
+    .label = Açion
+    .accesskey = A
+update-application-use-service =
+    .label = Uzâ 'n serviçio ascozo pe instalâ i agiornamenti
+    .accesskey = z
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Çerca
+browsing-use-autoscroll =
+    .label = Adeuvia rebelamento aotomatico
+    .accesskey = d
+browsing-use-smooth-scrolling =
+    .label = Adeuvia rebelamento regolâ
+    .accesskey = m
+browsing-use-cursor-navigation =
+    .label = Adeuvia de longo i pomelli de direçion pe navegâ in sce pagine
+    .accesskey = c
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Inpostaçioin…
+    .accesskey = I
