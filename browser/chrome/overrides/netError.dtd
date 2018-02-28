@@ -132,8 +132,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brukar tryggingsteknologi som er forelda og sårbar for åtak. Ein angripar kan lett avsløre informasjon som du trudde skulle vere sikker. Administrator på nettstaden må fikse tenaren før du kan besøkje nettsida.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Blokkert side">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Tilgang er deaktivert av administratoren din.</p>">
+<!ENTITY blockedByPolicy.title "Blokkert side">
 
 <!ENTITY prefReset.longDesc "Det ser ut til at sikkerheitsinnstillingane i nettverket kan vere årsak til dette. Vil du stille tilbake til standard innstillingar?">
 <!ENTITY prefReset.label "Still tilbake til standard innstillingar">
