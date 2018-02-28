@@ -93,6 +93,7 @@ choose-bookmark =
 restore-default =
     .label = पूर्वनिर्धारित स्थितीत आणा
     .accesskey = R
+tabs-group-header = टॅब्ज
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab वापरलेल्या क्रमामध्ये टॅब्स बदली करते
     .accesskey = T
