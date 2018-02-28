@@ -75,6 +75,8 @@ startup-blank-page =
     .label = Mostrar una página en blanco
 startup-prev-session =
     .label = Mostrar las ventanas y pestañas de la última vez
+disable-extension =
+    .label = Deshabilitar extensión
 home-page-header = Mostrar página de inicio
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
@@ -210,6 +212,9 @@ update-application-auto =
 update-application-check-choose =
     .label = Busque actualizaciones pero dejarme elegir si las instalo
     .accesskey = C
+update-application-manual =
+    .label = No buscar actualizaciones (no recomendado)
+    .accesskey = N
 update-application-use-service =
     .label = Usar un servicio en segundo plano para instalar actualizaciones
     .accesskey = U
