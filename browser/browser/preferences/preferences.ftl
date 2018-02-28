@@ -33,6 +33,16 @@ restart-later = Restart Later
 ## General Section
 
 startup-header = Startup
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Allow { -brand-short-name } and Firefox to run at the same time
+use-firefox-sync = Tip: This uses separate profiles. Use { -sync-brand-short-name } to share data between them.
+always-check-default =
+    .label = Always check if { -brand-short-name } is your default browser
+    .accesskey = y
+is-default = { -brand-short-name } is currently your default browser
+is-not-default = { -brand-short-name } is not your default browser
 startup-blank-page =
     .label = Show a blank page
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -53,9 +63,16 @@ restore-default =
     .label = Restore to Default
     .accesskey = R
 tabs-group-header = Tabs
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab cycles through tabs in recently used order
+    .accesskey = T
 show-tabs-in-taskbar =
     .label = Show tab previews in the Windows taskbar
     .accesskey = k
+browser-containers-enabled =
+    .label = Enable Container Tabs
+    .accesskey = n
+browser-containers-learn-more = Learn more
 
 ## General Section - Language & Appearance
 
@@ -70,6 +87,12 @@ choose-language-description = Choose your preferred language for displaying page
 choose-button =
     .label = Choose…
     .accesskey = o
+translate-web-pages =
+    .label = Translate web content
+    .accesskey = T
+translate-exceptions =
+    .label = Exceptions…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
@@ -94,12 +117,16 @@ applications-type-column =
 applications-action-column =
     .label = Action
     .accesskey = A
+play-drm-content-learn-more = Learn more
 update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Use hardware acceleration when available
+    .accesskey = r
 
 ## General Section - Browsing
 
@@ -110,6 +137,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Use smooth scrolling
     .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = Show a touch keyboard when necessary
+    .accesskey = k
 browsing-use-cursor-navigation =
     .label = Always use the cursor keys to navigate within pages
     .accesskey = c
