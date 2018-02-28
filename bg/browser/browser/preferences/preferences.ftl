@@ -51,18 +51,84 @@ restart-later = Рестартиране по-късно
 
 ## General Section
 
+startup-header = Начална страница
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Разрешаване на { -brand-short-name } и Firefox да работят едновременно
+startup-blank-page =
+    .label = Показва празна страница
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Текущата страница
+           *[other] Текущите страници
+        }
+    .accesskey = Т
+choose-bookmark =
+    .label = Отметка…
+    .accesskey = О
+restore-default =
+    .label = Стандартната страница
+    .accesskey = С
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Шрифтове и цветове
+advanced-fonts =
+    .label = Разширени…
+    .accesskey = Р
+colors-settings =
+    .label = Цветове…
+    .accesskey = Ц
+choose-language-description = Избор на език при показване на многоезични страници
+choose-button =
+    .label = Избиране…
+    .accesskey = И
+translate-exceptions =
+    .label = Изключения…
+    .accesskey = з
 
 ## General Section - Files and Applications
 
+download-header = Изтегляния
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Избиране…
+           *[other] Разглеждане…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] И
+           *[other] Р
+        }
+applications-action-column =
+    .label = Действие
+    .accesskey = Д
+play-drm-content-learn-more = Научете повече
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-use-autoscroll =
+    .label = Автоматично плъзгане
+    .accesskey = А
+browsing-use-smooth-scrolling =
+    .label = Плавно плъзгане
+    .accesskey = л
+browsing-use-cursor-navigation =
+    .label = Използване на каретка за придвижване в страниците
+    .accesskey = к
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Настройки…
+    .accesskey = Н
