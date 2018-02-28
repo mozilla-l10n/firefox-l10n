@@ -78,6 +78,7 @@ choose-bookmark =
 restore-default =
     .label = Alapértelmezés
     .accesskey = p
+tabs-group-header = Lapok
 show-tabs-in-taskbar =
     .label = Lapok előnézetének megjelenítése a Windows tálcán
     .accesskey = L
@@ -113,6 +114,12 @@ download-choose-folder =
             [macos] T
            *[other] T
         }
+applications-type-column =
+    .label = Tartalomtípus
+    .accesskey = T
+applications-action-column =
+    .label = Művelet
+    .accesskey = M
 update-application-use-service =
     .label = Háttérben futó szolgáltatás intézze a frissítést
     .accesskey = H
