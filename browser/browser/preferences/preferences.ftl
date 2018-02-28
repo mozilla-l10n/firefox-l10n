@@ -79,9 +79,13 @@ use-current-pages =
            *[other] Geçerli sayfaları kullan
         }
     .accesskey = s
+choose-bookmark =
+    .label = Yer imi kullan…
+    .accesskey = m
 restore-default =
     .label = Varsayılanı geri getir
     .accesskey = r
+tabs-group-header = Sekmeler
 open-new-link-as-tabs =
     .label = Bağlantıları yeni pencere yerine yeni sekmede aç
     .accesskey = B
