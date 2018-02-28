@@ -164,6 +164,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = దస్త్రాలు & అనువర్తనాలు
 download-header = దింపుకోళ్ళు
 download-save-to =
     .label = ఇచట ఫైల్సు భద్రపరచు
