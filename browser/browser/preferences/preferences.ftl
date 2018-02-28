@@ -99,6 +99,9 @@ tabs-group-header = Tabbe
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yaaɓat hakkunde tabbe e gorol kuutoragol ɓennungol
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Uddit jokke e nder tabbe waasa wonde e kenorɗe kese ɗee
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Reentin am so tabbe keewɗe ine uddidee
     .accesskey = k
@@ -197,10 +200,15 @@ play-drm-content =
     .accesskey = T
 play-drm-content-learn-more = Ɓeydu humpito
 update-application-title = Kesɗitine { -brand-short-name }:
+update-application-description = Hesɗitin { -brand-short-name } ngam jaawgol golle dowrowol, jamɗugol e kisal.
+update-application-info = Yamre { $version } <a>Hol ko hesɗi</a>
 update-history =
     .label = Hollu Daartol Kesɗitine
     .accesskey = e
 update-application-allow-description = Yamir { -brand-short-name } to
+update-application-auto =
+    .label = Aafande hoore mum kesɗitine (ina wasiyaa)
+    .accesskey = A
 update-application-check-choose =
     .label = Yuurnito kesɗitine, kono woppu am mi suɓoo aafat ɗe
     .accesskey = Y
@@ -237,6 +245,9 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Nana feeroo
+browsing-use-autoscroll =
+    .label = Huutoro ŋaylogol jaajol
+    .accesskey = a
 browsing-use-smooth-scrolling =
     .label = Huutoro woragol teeyngol
     .accesskey = t
@@ -252,6 +263,8 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-title = Proxy Laylaytol
+network-proxy-connection-learn-more = Ɓeydu humpito
 network-proxy-connection-settings =
     .label = Teelte…
     .accesskey = e
