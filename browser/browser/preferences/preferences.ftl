@@ -72,9 +72,17 @@ restore-default =
     .label = Restablir la configuracion per defaut
     .accesskey = R
 tabs-group-header = Onglets
+show-tabs-in-taskbar =
+    .label = Afichar los apercebuts d'onglets dins la barra dels prètzfaits de Windows
+    .accesskey = c
+browser-containers-learn-more = Ne saber mai
+browser-containers-settings =
+    .label = Paramètres…
+    .accesskey = t
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Poliças e colors
 advanced-fonts =
     .label = Avançat…
     .accesskey = A
@@ -85,6 +93,12 @@ choose-language-description = Causissètz vòstra lenga preferida per l'afichatg
 choose-button =
     .label = Causir…
     .accesskey = a
+translate-web-pages =
+    .label = Traduire lo contengut web
+    .accesskey = T
+translate-exceptions =
+    .label = Excepcions…
+    .accesskey = x
 
 ## General Section - Files and Applications
 
@@ -109,9 +123,16 @@ applications-type-column =
 applications-action-column =
     .label = Accion
     .accesskey = A
+play-drm-content-learn-more = Ne saber mai
+update-application-use-service =
+    .label = Utilizar un servici en rèireplan per installar las mesas a jorn
+    .accesskey = z
 
 ## General Section - Performance
 
+performance-allow-hw-accel =
+    .label = Utilisar l'acceleracion grafica materiala se disponibla
+    .accesskey = n
 
 ## General Section - Browsing
 
