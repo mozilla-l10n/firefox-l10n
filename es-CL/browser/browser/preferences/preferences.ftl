@@ -56,6 +56,9 @@ restart-later = Reiniciar más tarde
 separate-profile-mode =
     .label = Permitir a { -brand-short-name } y Firefox ejecutarse al mismo tiempo
 tabs-group-header = Pestañas
+show-tabs-in-taskbar =
+    .label = Mostrar vista previa de pestañas en la barra de tareas de Windows
+    .accesskey = ñ
 
 ## General Section - Language & Appearance
 
@@ -71,16 +74,38 @@ translate-exceptions =
 download-save-to =
     .label = Guardar archivos en
     .accesskey = v
+applications-type-column =
+    .label = Tipo de contenido
+    .accesskey = T
+applications-action-column =
+    .label = Acción
+    .accesskey = A
 play-drm-content-learn-more = Aprender más
+update-application-use-service =
+    .label = Usar un servicio en segundo plano para instalar actualizaciones
+    .accesskey = U
 
 ## General Section - Performance
 
 
 ## General Section - Browsing
 
+browsing-title = Navegación
+browsing-use-autoscroll =
+    .label = Usar desplazamiento automático
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Usar desplazamiento suave
+    .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = Mostrar un teclado en pantalla cuando sea necesario
     .accesskey = k
+browsing-use-cursor-navigation =
+    .label = Usar siempre las teclas del cursor para navegar dentro de las páginas
+    .accesskey = c
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = Configuraciones…
+    .accesskey = e
