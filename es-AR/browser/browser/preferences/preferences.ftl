@@ -97,6 +97,9 @@ tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab rota las pestañas según su uso reciente
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Abrir enlaces en pestañas en lugar de ventanas nuevas
+    .accesskey = b
 warn-on-close-multiple-tabs =
     .label = Avisarme cuando cierre múltiples pestañas
     .accesskey = m
@@ -133,6 +136,8 @@ containers-disable-alert-cancel-button = Mantener habilitadas
 
 language-and-appearance-header = Idioma y apariencia
 fonts-and-colors-header = Fuentes y colores
+default-font = Fuente por defecto
+    .accesskey = D
 default-font-size = Tamaño
     .accesskey = T
 advanced-fonts =
@@ -223,6 +228,10 @@ performance-settings-learn-more = Conocer más
 performance-allow-hw-accel =
     .label = Usar aceleración por hardware cuando esté disponible
     .accesskey = h
+performance-limit-content-process-option = Límite del proceso de contenido
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Los procesos de contenido adicionales pueden mejorar el rendimiento cuando se usan múltiples pestañas pero también consumirán más memoria.
+performance-limit-content-process-disabled-desc = Modificar el número de procesos contenidos sólo es posible con multiproceso { -brand-short-name }. <a>Aprender a comprobar si multiproceso está habilitado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
