@@ -52,9 +52,18 @@ restart-later = Перазапусціць пазней
 ## General Section
 
 startup-header = Запуск
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Дазволіць { -brand-short-name } і Firefox выконвацца адначасова
 use-firefox-sync = Падказка: для гэтага выкарыстоўваюцца асобныя профілі. Карыстайцеся { -sync-brand-short-name } для абмену дадзенымі паміж імі.
 get-started-not-logged-in = Увайсці ў { -sync-brand-short-name }…
 get-started-configured = Адкрыць налады { -sync-brand-short-name }
+always-check-default =
+    .label = Заўжды правяраць, ці з'яўляецца { -brand-short-name } прадвызначаным браўзерам
+    .accesskey = н
+is-default = { -brand-short-name } зараз ваш прадвызначаны браўзер
+is-not-default = { -brand-short-name } не прадвызначаны браўзер
 startup-page = Пасля запуску { -brand-short-name }
     .accesskey = а
 startup-user-homepage =
@@ -64,9 +73,46 @@ startup-blank-page =
 startup-prev-session =
     .label = паказваць апошнія вокны і карткі
 home-page-header = паказваць вашу хатнюю старонку
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Ужыць цяперашнюю старонку
+           *[other] Ужыць дзейныя старонкі
+        }
+    .accesskey = с
 choose-bookmark =
     .label = Ужыць закладку…
     .accesskey = з
+restore-default =
+    .label = Аднавіць прадвызначаную
+    .accesskey = А
+tabs-group-header = Карткі
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab пераключае паміж карткамі ў парадку апошняга выкарыстання
+    .accesskey = е
+warn-on-close-multiple-tabs =
+    .label = Папярэджваць пры закрыцці некалькіх картак
+    .accesskey = ь
+warn-on-open-many-tabs =
+    .label = Папярэджваць, калі адкрыццё некалькіх картак можа запаволіць { -brand-short-name }
+    .accesskey = в
+switch-links-to-new-tabs =
+    .label = Пры адкрыцці спасылкі ў новай картцы адразу пераключацца на яе
+    .accesskey = р
+show-tabs-in-taskbar =
+    .label = Паказваць мініяцюры картак у панэлі задач Windows
+    .accesskey = л
+browser-containers-enabled =
+    .label = Уключыць карткі кантэйнераў
+    .accesskey = т
+browser-containers-learn-more = Даведацца больш
+browser-containers-settings =
+    .label = Налады…
+    .accesskey = а
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Калі вы выключыце ўсе акенцы кантэйнера, будзе закрыта { $tabCount } картка кантэйнера. Вы сапраўды хочаце выключыць кантэйнер?
@@ -83,22 +129,34 @@ containers-disable-alert-cancel-button = Пакінуць уключанымі
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Шрыфты & колеры
 default-font = Прадвызначаны шрыфт
     .accesskey = П
 default-font-size = Памер
     .accesskey = П
+advanced-fonts =
+    .label = Дадаткова…
+    .accesskey = Д
 colors-settings =
     .label = Колеры…
     .accesskey = К
+choose-language-description = Выберыце мовы, якім вы аддаяце перавагу, для прагляду старонак
 choose-button =
     .label = Выбраць…
     .accesskey = В
+translate-web-pages =
+    .label = Перакладаць змесціва
+    .accesskey = П
+translate-exceptions =
+    .label = Выключэнні…
+    .accesskey = ч
 check-user-spelling =
     .label = Правяраць арфаграфію пад час набору
     .accesskey = н
 
 ## General Section - Files and Applications
 
+download-header = Сцягванні
 download-save-to =
     .label = Захоўваць файлы ў
     .accesskey = З
@@ -113,12 +171,19 @@ download-choose-folder =
             [macos] В
            *[other] г
         }
+download-always-ask-where =
+    .label = Заўжды пытацца, куды запісваць файлы
+    .accesskey = З
 applications-type-column =
     .label = Тып змесціва
     .accesskey = Т
 applications-action-column =
     .label = Дзеянне
     .accesskey = Д
+play-drm-content-learn-more = Даведацца больш
+update-application-use-service =
+    .label = Выкарыстоўваць фонавую службу для ўсталявання абнаўленняў
+    .accesskey = ф
 
 ## General Section - Performance
 
@@ -133,9 +198,13 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Агляданне
 browsing-use-autoscroll =
     .label = Выкарыстоўваць аўтаматычную пракрутку
     .accesskey = с
+browsing-use-smooth-scrolling =
+    .label = Выкарыстоўваць плаўнае пракручванне
+    .accesskey = л
 browsing-use-onscreen-keyboard =
     .label = Паказваць экранную клавіятуру, калі неабходна
     .accesskey = л
