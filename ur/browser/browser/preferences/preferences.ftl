@@ -53,6 +53,9 @@ restart-later = بعد میں دوباره شروع کریں
 startup-header = سٹارٹ اپ
 startup-blank-page =
     .label = خالی صفحہ دکھائیں
+choose-bookmark =
+    .label = نشانی استعمال کریں…
+    .accesskey = ن
 restore-default =
     .label = طے شدہ بحال کریں
     .accesskey = ب
@@ -63,7 +66,16 @@ show-tabs-in-taskbar =
 
 ## General Section - Language & Appearance
 
+advanced-fonts =
+    .label = اعلٰی…
+    .accesskey = ا
+colors-settings =
+    .label = رنگ…
+    .accesskey = ر
 choose-language-description = صفحہ دکھانے کے لیے اپنی زبان چنیں
+choose-button =
+    .label = انتخاب کریں…
+    .accesskey = ا
 
 ## General Section - Files and Applications
 
@@ -99,3 +111,6 @@ browsing-use-cursor-navigation =
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = سیٹنگیں…
+    .accesskey = س
