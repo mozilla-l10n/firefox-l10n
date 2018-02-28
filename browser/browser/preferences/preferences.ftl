@@ -152,6 +152,9 @@ applications-action-column =
     .label = কর্ম
     .accesskey = A
 play-drm-content-learn-more = আরও জানুন
+update-application-use-service =
+    .label = আপডেট ইনস্টল করার জন্য পটভূমির() পরিসেবা ব্যবহার করা হবে
+    .accesskey = )
 
 ## General Section - Performance
 
