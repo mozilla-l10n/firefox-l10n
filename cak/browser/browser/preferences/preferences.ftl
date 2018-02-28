@@ -9,7 +9,8 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Junelïk
 pref-page =
-    .title = { PLATFORM() ->
+    .title =
+        { PLATFORM() ->
             [windows] Taq cha'oj
            *[other] Taq ajowab'äl
         }
@@ -46,5 +47,22 @@ feature-enable-requires-restart = { -brand-short-name } k'o chi nitikirisäx chi
 feature-disable-requires-restart = { -brand-short-name } k'o chi nitikirisäx chik richin nichup re rub'anikil re'.
 should-restart-title = Titikirisäx chik ri { -brand-short-name }
 should-restart-ok = Titikirisäx chik { -brand-short-name } wakami
-revert-no-restart-button = Tik'ex
 restart-later = Titikirisäx pa jun mej
+
+## General Section
+
+
+## General Section - Language & Appearance
+
+
+## General Section - Files and Applications
+
+
+## General Section - Performance
+
+
+## General Section - Browsing
+
+
+## General Section - Proxy
+
