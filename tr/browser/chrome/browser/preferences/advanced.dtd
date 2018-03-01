@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "t">
 <!ENTITY collectBrowserErrorsLearnMore.label "Daha fazla bilgi al">
 
+<!ENTITY sendBackloggedCrashReports.label  "&brandShortName; geriye dönük çökme raporlarını benim adıma gönderebilir">
+<!ENTITY sendBackloggedCrashReports.accesskey "ö">
 <!ENTITY crashReporterLearnMore.label    "Daha fazla bilgi al">
 
 <!ENTITY networkTab.label                "Ağ">
@@ -51,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Ağ vekil sunucusu">
 
 <!ENTITY connectionDesc.label            "&brandShortName; tarayıcısının internete nasıl bağlanacağını ayarlayın">
-
-<!ENTITY connectionSettingsLearnMore.label "Daha fazla bilgi al">
 <!ENTITY connectionSettings.label        "Ayarlar…">
 <!ENTITY connectionSettings.accesskey    "A">
 
@@ -62,6 +62,8 @@ available. -->
 <!ENTITY siteData.label                  "Site verileri">
 <!ENTITY clearSiteData.label             "Tüm verileri temizle">
 <!ENTITY clearSiteData.accesskey         "ü">
+<!ENTITY siteData1.label                 "Çerezler ve site verileri">
+<!ENTITY clearSiteData1.label            "Verileri temizle…">
 <!ENTITY siteDataSettings.label          "Ayarlar…">
 <!ENTITY siteDataSettings.accesskey      "r">
 <!ENTITY siteDataLearnMoreLink.label     "Daha fazla bilgi al">
