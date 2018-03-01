@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sempre
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Optiones
            *[other] Preferentias
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } tu debe reinitiar pro ac
 feature-disable-requires-restart = { -brand-short-name } tu debe reinitiar pro inactivar iste functionalitate.
 should-restart-title = Reinitiar { -brand-short-name }
 should-restart-ok = Reinitiar { -brand-short-name } ora
+cancel-no-restart-button = Cancellar
 restart-later = Reinitiar depois
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Monstra tu pagina initial
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Usar le pagina actual
            *[other] Usar le paginas actual
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Parametros…
     .accesskey = P
 containers-disable-alert-title = Clauder tote le schedas contextual?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Si tu inactiva le schedas contextual ora, { $tabCount } scheda contextual essera claudite. Desira tu vermente inactivar le schedas contextual?
        *[other] Si tu inactiva le schedas contextual ora, { $tabCount } schedas contextual essera claudite. Desira tu vermente inactivar le schedas contextual?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Clauder { $tabCount } scheda contextual
        *[other] Clauder { $tabCount } schedas contextual
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Salvar le files in
     .accesskey = S
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Eliger…
            *[other] Perquirer…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] e
            *[other] P
         }

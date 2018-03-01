@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Parametros - Datos del sitos">
+
 <!ENTITY     hostCol.label                 "Sito">
 <!ENTITY     statusCol.label               "Stato">
+<!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Immagazinage">
 <!ENTITY     searchTextboxPlaceHolder             "Cercar sitos web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
