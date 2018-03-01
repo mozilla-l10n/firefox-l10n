@@ -34,15 +34,12 @@
 <!ENTITY pref.default_task_offset_next_hour.label "შემდეგ საათთან დაკავშირებული">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "დღევანდელის დღის არე">
-<!ENTITY pref.soondays.label "მოახლებულების არეში გამოჩნდება:">
-<!ENTITY pref.soondays.accesskey "ო">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
      it should be upper case (as a proper name) if the target language permits.
   -->
-<!ENTITY pref.soondays2.label "მოახლებულების არეში გამოჩნდება:">
+<!ENTITY pref.soondays2.label "მოახლებულების არეში გამოჩნდება უახლოესი:">
 <!ENTITY pref.soondays2.accesskey "ა">
 
 <!ENTITY pref.accessibility.label "დამხმარე საშუალებები" >
