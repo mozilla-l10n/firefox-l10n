@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "T">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Hyni te &syncBrand.shortName.label;-u">
 <!ENTITY fxaSignedIn.tooltip "Hapni parapëlqimet mbi &syncBrand.shortName.label;-un">
 <!ENTITY fxaSignInError.label "Rilidhuni te &syncBrand.shortName.label;-u">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administroni përkthim faqeje">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administroni përdorim software-i DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Hap panel MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ia keni bllokuar këtij sajti përdorimin e ekranit tuaj.">
@@ -238,6 +242,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "I keni bllokuar flluskat për këtë sajt.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Për këtë sajt e keni bllokuar përftimin e të dhënave të kanavacës.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "E keni bllokuar hyrjen MIDI për këtë sajt.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaq historikun">
 
