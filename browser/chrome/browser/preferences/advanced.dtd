@@ -32,13 +32,13 @@ available. -->
 
 
 
+
 <!ENTITY crashReporterLearnMore.label    "තවත් දැනගන්න">
 
 <!ENTITY networkTab.label                "ජාලය">
 
 
 <!ENTITY connectionDesc.label            "&brandShortName; අන්තර්ජාලයට සම්බන්ධ වන අයුරු සැකසීම">
-
 <!ENTITY connectionSettings.label        "සැකසුම්...">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -118,7 +118,5 @@ available. -->
 <!ENTITY performanceSettingsLearnMore.label
                                          "තවත් දැනගන්න">
 <!ENTITY limitContentProcessOption.label "අන්තර්ගත සැකසුම් සීමාව">
-<!ENTITY limitContentProcessOption.description
-                                         "">
 <!ENTITY allowHWAccel.label              "ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න">
 <!ENTITY allowHWAccel.accesskey          "r">
