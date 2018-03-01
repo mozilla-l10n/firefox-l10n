@@ -854,6 +854,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Ujiiñ">
 <!ENTITY activity_stream_delete_history "Chkjeech ŕmar">
 
+<!ENTITY private_tab_panel_title "Sal amchu jabchtpaay + Chŕmechu ŕbooch">
 <!ENTITY private_tab_panel_description "&brandShortName; hay amchu tubwiyum ŕ\&apos;am jabchu m\&apos;amu kŕmech ha.">
 <!ENTITY private_tab_panel_description2 "M\&apos;amu kos wachŕibtema toso chapayt munal ee ŕkirchu jkay mchmihay dispositihal yo.">
 <!ENTITY private_tab_learn_more "Chaterab mŕpoolmate?">
