@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Siempre
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Opciones
            *[other] Preferencias
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } debe ser reiniciado para
 feature-disable-requires-restart = { -brand-short-name } debe ser reiniciado para activar esta característica.
 should-restart-title = Reiniciar { -brand-short-name }
 should-restart-ok = Reiniciar { -brand-short-name } ahora
+cancel-no-restart-button = Cancelar
 restart-later = Reiniciar más tarde
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Mostrar su página de inicio
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Usar página actual
            *[other] Usar páginas actuales
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = C
 containers-disable-alert-title = ¿Cerrar todas las pestañas contenedoras?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Si desactiva las pestañas contenedores ahora, se cerrará { $tabCount } pestaña contenedora. ¿Está seguro de que quiere desactivar las pestañas contenedoras?
        *[other] Si desactiva las pestañas contenedores ahora, se cerrarán { $tabCount } pestañas contenedoras. ¿Está seguro de que quiere desactivar las pestañas contenedoras?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Cerrar { $tabCount } pestaña contenedora
        *[other] Cerrar { $tabCount } pestañas contenedoras
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Guardar archivos en
     .accesskey = G
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Elegir…
            *[other] Examinar…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] e
            *[other] x
         }
