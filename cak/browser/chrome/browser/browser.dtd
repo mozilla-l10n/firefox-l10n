@@ -192,7 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.label     "Tewäx ri k'a nimakol tiya' retal">
 <!ENTITY hideRecentlyBookmarked.accesskey "T">
 
-<!ENTITY backCmd.label                "Chi ruwäch">
+<!ENTITY backCmd.label                "Chi rij">
 <!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "Titzolïx jun ruxaq">
 <!ENTITY forwardCmd.label             "Jun chik">
@@ -737,10 +737,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "r">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Rukanoxik pa re ruxaq…">
+<!ENTITY findOnCmd.label     "Tikanöx pa Re Ruxaq Re'…">
 <!ENTITY findOnCmd.accesskey "R">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Rukamuluxik ri rukanoxik">
+<!ENTITY findAgainCmd.label  "Tikanöx Chik">
 <!ENTITY findAgainCmd.accesskey "k">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">

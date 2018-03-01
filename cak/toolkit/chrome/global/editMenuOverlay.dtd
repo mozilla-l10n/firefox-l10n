@@ -27,7 +27,7 @@
 <!ENTITY findCmd.label             "Tikanöx">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "T">
-<!ENTITY findAgainCmd.label        "Rukamuluxik ri rukanoxik">
+<!ENTITY findAgainCmd.label        "Tikanöx Chik">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "k">
