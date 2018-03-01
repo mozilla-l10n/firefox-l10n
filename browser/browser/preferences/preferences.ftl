@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Sempre
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Opções
            *[other] Preferências
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = O { -brand-short-name } deve ser reiniciado pa
 feature-disable-requires-restart = O { -brand-short-name } deve ser reiniciado para desabilitar esta funcionalidade.
 should-restart-title = Reiniciar o { -brand-short-name }
 should-restart-ok = Reiniciar o { -brand-short-name } agora
+cancel-no-restart-button = Cancelar
 restart-later = Reiniciar depois
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Mostrar sua página inicial
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Usar a página aberta
            *[other] Usar as páginas abertas
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Configurações…
     .accesskey = i
 containers-disable-alert-title = Fechar todas as abas contêiner?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Se você desabilitar a Aba Contêiner agora, { $tabCount } aba contêiner será fechada. Tem certeza de que deseja desativar a Aba Contêiner?
        *[other] Se você desabilitar a Aba Contêiner agora, { $tabCount } abas contêiner serão fechadas. Tem certeza de que deseja desativar a Aba Contêiner?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Fechar { $tabCount } aba container
        *[other] Fechar { $tabCount } abas container
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Salvar arquivos em
     .accesskey = S
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Escolher…
            *[other] Procurar…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] e
            *[other] P
         }
