@@ -51,6 +51,13 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "ยอมรับคุกกี้จากบุคคลที่สาม">
 <!ENTITY  acceptThirdParty2.pre.accesskey "อ">
+
+<!ENTITY  acceptCookies3.label          "ยอมรับคุกกี้และข้อมูลไซต์จากเว็บไซต์">
+<!ENTITY  acceptCookies3.accesskey      "ย">
+
+
+<!ENTITY  acceptThirdParty3.pre.label     "ยอมรับคุกกี้และข้อมูลไซต์จากบุคคลที่สาม">
+<!ENTITY  acceptThirdParty3.pre.accesskey "ม">
 <!ENTITY  acceptThirdParty.always.label   "เสมอ">
 <!ENTITY  acceptThirdParty.never.label    "ไม่เลย">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยมชม">
@@ -92,6 +99,9 @@
 <!ENTITY  dontrememberActions.pre.label          "คุณยังอาจต้องการ ">
 <!ENTITY  dontrememberActions.clearHistory.label "ล้างประวัติปัจจุบันทั้งหมด">
 <!ENTITY  dontrememberActions.post.label         "">
+
+<!ENTITY  clearHistoryButton.label       "ล้างประวัติ…">
+<!ENTITY  clearHistoryButton.accesskey   "ง">
 
 <!ENTITY  privateBrowsingPermanent2.label "ใช้โหมดการท่องเว็บแบบส่วนตัวเสมอ">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ช">
