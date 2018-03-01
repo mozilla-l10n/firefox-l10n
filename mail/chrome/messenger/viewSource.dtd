@@ -74,7 +74,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Mbrapsht">
+<!ENTITY backCmd.accesskey "M">
+<!ENTITY forwardCmd.label "Përpara">
+<!ENTITY forwardCmd.accesskey "P">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Kopjo Vendndodhje Lidhjeje">
+<!ENTITY copyLinkCmd.accesskey "V">
+<!ENTITY copyEmailCmd.label "Kopjo Adresë Email">
+<!ENTITY copyEmailCmd.accesskey "E">
 
 <!-- Copied from charsetMenu.dtd -->
+<!ENTITY charsetMenu2.label            "Kodim Teksti">
+<!ENTITY charsetMenu2.accesskey        "K">
 

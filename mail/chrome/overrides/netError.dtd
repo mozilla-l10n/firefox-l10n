@@ -184,3 +184,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme kundrejt sulmesh. Një agresor mund të zbulonte lehtë të dhëna të cilat i kujtoni se janë të parrezikuara. Para se të mund të vizitoni sajtin, përgjegjësi i sajtit lypset të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY blockedByPolicyTemp.title "Faqja u Bllokua">
+<!ENTITY blockedByPolicyTemp.longDesc "<p>Hyrja është çaktivizuar nga përgjegjësi juaj.</p>">
