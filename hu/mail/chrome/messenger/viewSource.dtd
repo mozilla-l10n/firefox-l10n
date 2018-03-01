@@ -58,9 +58,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textSize.label "Szöveg mérete">
 <!ENTITY menu_textSize.accesskey "m">
 <!ENTITY menu_textEnlarge.label "Növelés">
+<!ENTITY menu_textEnlarge.accesskey "N">
+<!ENTITY menu_textReduce.label "Csökkentés">
+<!ENTITY menu_textReduce.accesskey "k">
+<!ENTITY menu_textReset.label "Normál">
+<!ENTITY menu_textReset.accesskey "N">
 
+<!ENTITY findOnCmd.label     "Keresés ezen az oldalon…">
+<!ENTITY findOnCmd.accesskey "K">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Következő keresése">
+<!ENTITY findAgainCmd.accesskey "v">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY backCmd.label "Vissza">
+<!ENTITY backCmd.accesskey "V">
+<!ENTITY forwardCmd.label "Előre">
+<!ENTITY forwardCmd.accesskey "E">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Hivatkozás címének másolása">
+<!ENTITY copyLinkCmd.accesskey "H">
+<!ENTITY copyEmailCmd.label "E-mail cím másolása">
+<!ENTITY copyEmailCmd.accesskey "E">
 
 <!-- Copied from charsetMenu.dtd -->
+<!ENTITY charsetMenu2.label            "Szövegkódolás">
+<!ENTITY charsetMenu2.accesskey        "k">
 
