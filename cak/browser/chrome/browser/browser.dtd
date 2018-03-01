@@ -603,7 +603,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "t">
 <!ENTITY hidePluginCmd.label          "Tewäx re nak'ab'äl re'">
 <!ENTITY hidePluginCmd.accesskey      "e">
-<!ENTITY copyLinkCmd.label            "Ruwachib'exik rub'ey ximon tzij">
+<!ENTITY copyLinkCmd.label            "Tiwachib'ëx Ruk'ojlib'al Ximonel">
 <!ENTITY copyLinkCmd.accesskey        "i">
 <!ENTITY copyImageCmd.label           "Ruwachib'exik rub'ey wachib'äl">
 <!ENTITY copyImageCmd.accesskey       "i">
