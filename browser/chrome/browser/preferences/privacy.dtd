@@ -43,6 +43,8 @@
 <!ENTITY acceptCookies2.accesskey "k">
 <!ENTITY acceptCookies3.label "Accetta cookie e dati dai siti web">
 <!ENTITY acceptCookies3.accesskey "k">
+<!ENTITY acceptCookies4.label "Accetta cookie e dati dai siti web (consigliato)">
+<!ENTITY acceptCookies4.accesskey "k">
 <!ENTITY acceptThirdParty2.pre.label "Accetta i cookie di terze parti">
 <!ENTITY acceptThirdParty2.pre.accesskey "t">
 <!ENTITY blockCookies.label "Blocca cookie e dati dei siti web (potrebbe causare malfunzionamenti in alcuni siti)">
@@ -67,6 +69,7 @@
 <!ENTITY historyHeader.custom.label "utilizza impostazioni personalizzate">
 <!ENTITY historyHeader.post.label "">
 <!ENTITY rememberDescription.label "Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca e i cookie impostati dai siti visitati.">
+<!ENTITY rememberDescription1.label "Verranno salvate la cronologia di navigazione, i download, le informazioni inserite nei moduli o nei campi di ricerca.">
 <!ENTITY rememberActions.pre.label "È possibile ">
 <!ENTITY rememberActions.clearHistory.label "cancellare la cronologia recente">
 <!ENTITY rememberActions.middle.label " o ">
