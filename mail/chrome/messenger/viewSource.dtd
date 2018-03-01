@@ -57,6 +57,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.accesskey "k">
 <!ENTITY menu_textSize.label "Szöveg mérete">
 <!ENTITY menu_textSize.accesskey "m">
+<!ENTITY menu_textEnlarge.label "Növelés">
 
 
 
