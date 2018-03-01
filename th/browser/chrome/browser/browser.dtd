@@ -55,7 +55,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "ม">
 <!ENTITY  bookmarkAllTabs.label              "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY  bookmarkAllTabs.accesskey          "บ">
-<!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
+<!ENTITY  undoCloseTab.label                 "เลิกทำการปิดแท็บ">
 <!ENTITY  undoCloseTab.accesskey             "ด">
 <!ENTITY  closeTab.label                     "ปิดแท็บ">
 <!ENTITY  closeTab.accesskey                 "ป">
@@ -94,7 +94,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ง">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "บ">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "เรียกคืนแท็บที่เพิ่งปิด">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "เลิกทำการปิดแท็บ">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ด">
 
 <!ENTITY pageSourceCmd.label "ต้นฉบับหน้า">
