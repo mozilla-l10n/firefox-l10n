@@ -49,8 +49,6 @@ available. -->
 <!ENTITY networkProxy.label              "నెట్‌వర్క్ ప్రాక్సీ">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ఎలా అంతర్జాలముకు అనుసంధానించబడుతోందో ఆకృతీకరించు">
-
-<!ENTITY connectionSettingsLearnMore.label "ఇంకా తెలుసుకోండి">
 <!ENTITY connectionSettings.label        "అమరికలు…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -60,6 +58,7 @@ available. -->
 <!ENTITY siteData.label                  "సైటు డేటా">
 <!ENTITY clearSiteData.label             "మొత్తం డేటాను క్లియర్ చేయి">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteData1.label                 "కుకీలు మరియు సైటు డేటా">
 <!ENTITY clearSiteData1.label            "డేటాను తుజిచివేయి…">
 <!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "అమరికలు…">

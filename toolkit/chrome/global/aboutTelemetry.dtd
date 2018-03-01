@@ -4,7 +4,7 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "పింగ్ డేటా మూలం :">
 <!ENTITY aboutTelemetry.showCurrentPingData "ప్రస్తుత పింగ్ డేటా">
-<!ENTITY aboutTelemetry.showArchivedPingData "బధ్రపరిచారు పింగ్ డేటా">
+<!ENTITY aboutTelemetry.showArchivedPingData "భద్రపరచిన పింగ్ డేటా">
 <!ENTITY aboutTelemetry.showSubsessionData "ఉప సెషన్ డేటా చూపించు">
 <!ENTITY aboutTelemetry.choosePing "పింగ్ ఎంచుకోండి:">
 <!ENTITY aboutTelemetry.archivePingType "పింగ్ రకం">
