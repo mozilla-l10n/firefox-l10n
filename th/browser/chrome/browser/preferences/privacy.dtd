@@ -55,6 +55,8 @@
 <!ENTITY  acceptCookies3.label          "ยอมรับคุกกี้และข้อมูลไซต์จากเว็บไซต์">
 <!ENTITY  acceptCookies3.accesskey      "ย">
 
+<!ENTITY  blockCookies.label            "ปิดกั้นคุกกี้และข้อมูลไซต์ (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)">
+<!ENTITY  blockCookies.accesskey        "ป">
 
 <!ENTITY  acceptThirdParty3.pre.label     "ยอมรับคุกกี้และข้อมูลไซต์จากบุคคลที่สาม">
 <!ENTITY  acceptThirdParty3.pre.accesskey "ม">
