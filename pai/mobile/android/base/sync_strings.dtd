@@ -53,6 +53,7 @@
 
 <!ENTITY fxaccount_status_auth_server 'Paa kubtarha jabu'>
 <!ENTITY fxaccount_status_sync_now 'Byawmik mchblwiiy'>
+<!ENTITY fxaccount_status_bookmarks 'Chŕkirchu'>
 <!ENTITY fxaccount_status_history 'Chkjkeech'>
 <!ENTITY fxaccount_status_passwords2 'Chnamanchu'>
 <!ENTITY fxaccount_status_tabs 'Ch chkwaachu msool'>
