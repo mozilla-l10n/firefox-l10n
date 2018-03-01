@@ -26,10 +26,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goToLineCmd.label "Pojdi v vrstico …">
 
- 
+<!ENTITY reloadCmd.label "Ponovno naloži">
+<!ENTITY menu_wrapLongLines.title "Prelomi dolge vrstice"> 
+<!ENTITY menu_textSize.label "Velikost besedila">
+<!ENTITY menu_textEnlarge.label "Povečaj">
+<!ENTITY menu_textReduce.label "Pomanjšaj">
+<!ENTITY menu_textReset.label "Običajno">
 
+<!ENTITY findAgainCmd.label  "Ponovno najdi">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+<!ENTITY backCmd.label "Nazaj">
+<!ENTITY forwardCmd.label "Naprej">
 
+<!ENTITY copyLinkCmd.label "Kopiraj mesto povezave">
+<!ENTITY copyEmailCmd.label "Kopiraj e-poštni naslov">
 
 <!-- Copied from charsetMenu.dtd -->
+<!ENTITY charsetMenu2.label            "Kodiranje besedila">
 
