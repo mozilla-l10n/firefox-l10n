@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Yal tikelt
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Iɣewwaṛen
            *[other] Ismenyifen
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = issefk { -brand-short-name } ad yales asenkar 
 feature-disable-requires-restart = Issefk { -brand-short-name } ad yales asenkar akken ad yettwakkes urmad n tmahilt-a.
 should-restart-title = Ales asenker i { -brand-short-name }
 should-restart-ok = Ales asenker { -brand-short-name } tura
+cancel-no-restart-button = Sefsex
 restart-later = Ales asenker ticki
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Sken asebter-iw agejdan
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Asebter amiran
            *[other] Isebtar imiranen
         }
@@ -122,15 +121,13 @@ browser-containers-settings =
     .label = Iγewwaṛen…
     .accesskey = I
 containers-disable-alert-title = Mdel akk iccaren imagbaren?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Ma tekkseḍ iccaren imagbaren tura, iccer amagbar { $tabCount } ad yemdel. Tebɣiḍ ad tekkseḍ armad n yiccaren imagbaren?
        *[other] Ma tekkseḍ iccaren imagbaren tura, iccaren imagbaren { $tabCount } ad medlen. Tebɣiḍ ad tekkseḍ armad n yiccaren imagbaren?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Mdel  { $tabCount } iccer amagbar
-       *[other]  Mdel { $tabCount } iccaren imagbaren
+       *[other] Mdel { $tabCount } iccaren imagbaren
     }
 containers-disable-alert-cancel-button = Eǧǧ-it yermed
 
@@ -171,13 +168,11 @@ download-save-to =
     .label = Sekles ifuyla ɣer
     .accesskey = S
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Fren…
            *[other] Ḍum…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] F
            *[other] u
         }
