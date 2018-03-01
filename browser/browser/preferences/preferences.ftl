@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Përherë
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Mundësi
            *[other] Parapëlqime
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name }-i duhet rinisur që të 
 feature-disable-requires-restart = { -brand-short-name }-i duhet rinisur që të çaktivizohet kjo veçori.
 should-restart-title = Riniseni { -brand-short-name }-in
 should-restart-ok = Rinise { -brand-short-name }-in tani
+cancel-no-restart-button = Anuloje
 restart-later = Riniseni Më Vonë
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Shfaq kreun tim
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Përdor Faqen e Tanishme
            *[other] Përdor Faqet e Tanishme
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Rregullime…
     .accesskey = R
 containers-disable-alert-title = Të mbyllen Krejt Skedat e Kontejnerve?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Nëse i çaktivizoni tani Skedat e Kontejnerve, do të mbyllet { $tabCount } skedë kontejneri. Jeni i sigurt se doni të çaktivizohen Skeda Kontejnerësh?
        *[other] Nëse i çaktivizoni tani Skedat e Kontejnerve, do të mbyllen { $tabCount } skeda kontejneri. Jeni i sigurt se doni të çaktivizohen Skeda Kontejnerësh?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Mbyll { $tabCount } Skedë Kontejneri
        *[other] Mbyll { $tabCount } Skeda Kontejneri
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Ruaji kartelat te
     .accesskey = R
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Zgjidhni…
            *[other] Shfletoni…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] Z
            *[other] S
         }
