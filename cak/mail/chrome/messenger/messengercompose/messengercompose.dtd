@@ -97,7 +97,7 @@
 <!ENTITY findReplaceCmd.label "Tikanöx chuqa' Tijal…">
 <!ENTITY findReplaceCmd.accesskey "I">
 <!ENTITY findReplaceCmd.key "H">
-<!ENTITY findAgainCmd.label "Tikamulüx Rukanoxik">
+<!ENTITY findAgainCmd.label "Tikanöx Chik">
 <!ENTITY findAgainCmd.accesskey "k">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">

@@ -20,6 +20,13 @@
 <!ENTITY pageSetupCmd.label "Tib'an Runuk'ulem Ruxaq…">
 <!ENTITY pageSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
+<!ENTITY printPreviewCmd.accesskey "y">
+<!ENTITY printCmd.label "Titz'ajb'äx…">
+<!ENTITY printCmd.accesskey "T">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "Titz'apïx">
+<!ENTITY closeCmd.accesskey "T">
+<!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -27,11 +34,46 @@ textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
 
+<!ENTITY goToLineCmd.label "B'enam pa ri Cholaj…">
+<!ENTITY goToLineCmd.accesskey "B">
+<!ENTITY goToLineCmd.commandkey "l">
 
- 
+<!ENTITY viewMenu.label           "Tz'etob'äl">
+<!ENTITY viewMenu.accesskey       "T">
+<!ENTITY reloadCmd.label "Tisamajib'ëx chik">
+<!ENTITY reloadCmd.accesskey "T">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Kenuk' Yuquyäq Cholaj"> 
+<!ENTITY menu_wrapLongLines.accesskey "K">
+<!ENTITY menu_highlightSyntax.label "Tiya' Retal ri Cholb'ab'">
+<!ENTITY menu_highlightSyntax.accesskey "R">
+<!ENTITY menu_textSize.label "Runimilem Cholan Tzij">
+<!ENTITY menu_textSize.accesskey "R">
+<!ENTITY menu_textEnlarge.label "Tinimirisäx">
+<!ENTITY menu_textEnlarge.accesskey "T">
+<!ENTITY menu_textReduce.label "Tich'utinirisäx">
+<!ENTITY menu_textReduce.accesskey "T">
+<!ENTITY menu_textReset.label "Relik">
+<!ENTITY menu_textReset.accesskey "R">
 
+<!ENTITY findOnCmd.label     "Tikanöx pa Re Ruxaq Re'…">
+<!ENTITY findOnCmd.accesskey "T">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Tikanöx Chik">
+<!ENTITY findAgainCmd.accesskey "h">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY backCmd.label "Chi rij">
 
 
 <!-- Copied from charsetMenu.dtd -->
