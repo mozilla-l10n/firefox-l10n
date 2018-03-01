@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = เสมอ
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] ตัวเลือก
            *[other] ค่ากำหนด
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } ต้องเริ่
 feature-disable-requires-restart = { -brand-short-name } ต้องเริ่มการทำงานใหม่เพื่อปิดใช้งานคุณลักษณะนี้
 should-restart-title = เริ่มการทำงาน { -brand-short-name } ใหม่
 should-restart-ok = เริ่มการทำงาน { -brand-short-name } ใหม่ตอนนี้
+cancel-no-restart-button = ยกเลิก
 restart-later = เริ่มการทำงานใหม่ในภายหลัง
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = แสดงหน้าแรกของคุณ
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] ใช้หน้าปัจจุบัน
            *[other] ใช้หน้าปัจจุบัน
         }
@@ -160,13 +159,11 @@ download-save-to =
     .label = บันทึกไฟล์ไปยัง
     .accesskey = ฟ
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] เลือก…
            *[other] เรียกดู…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] ล
            *[other] ร
         }
