@@ -129,8 +129,7 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> মেয়াদহীন নিরাপত্তা প্রযুক্তি ব্যবহার করছে যা আক্রমণের শিকার হতে পারে। আপনি হয়তো একে নিরাপদ মনে করছেন, কিন্তু একজন আক্রমণকারী খুব সহজেই আপনার তথ্য জেনে নিতে পারবে। ওয়েবসাইটের এডমিন এই সার্ভারের নিরাপত্তা ত্রুটি সারানোর আগ পর্যন্ত আপনি ভিজিট করতে পারবেন না।</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "পাতা ব্লক রয়েছে">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>অাপনার অ্যাডমিনিস্টেটর প্রবেশাধিকার নিষ্ক্রিয় করেছে।</p>">
+<!ENTITY blockedByPolicy.title "ব্লক করা পাতা">
 
 <!ENTITY prefReset.longDesc "আপনার নেটওয়ার্কের সুরক্ষা সেটিং এই সমস্যা কারণ বলে প্রতীয়মান হচ্ছে। আপনি কি সেটিং পূর্বাবস্থায় ফিরিয়ে নিতে চান?">
 <!ENTITY prefReset.label "ডিফল্ট সেটিং পুনঃস্থাপন করুন">
