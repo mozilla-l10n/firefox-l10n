@@ -51,6 +51,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Prano cookies palësh të treta">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
+
+<!ENTITY  acceptCookies3.label          "Prano cookies dhe të dhëna sajtesh nga sajtet">
+<!ENTITY  acceptCookies3.accesskey      "P">
+
+<!ENTITY  blockCookies.label            "Blloko cookies dhe të dhëna sajtesh (mund të shkaktojë mosfunksionim sajtesh)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Prano cookies palësh të treta dhe të dhëna sajtesh">
+<!ENTITY  acceptThirdParty3.pre.accesskey "l">
 <!ENTITY  acceptThirdParty.always.label   "Përherë">
 <!ENTITY  acceptThirdParty.never.label    "Kurrë">
 <!ENTITY  acceptThirdParty.visited.label  "Nga të vizituarit">
@@ -92,6 +101,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Mund të doni po ashtu të ">
 <!ENTITY  dontrememberActions.clearHistory.label "pastroni krejt historikun tuaj të tanishëm">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Pastroni Historikun…">
+<!ENTITY  clearHistoryButton.accesskey   "S">
 
 <!ENTITY  privateBrowsingPermanent2.label "Përdor përherë mënyrën shfletim privat">
 <!ENTITY  privateBrowsingPermanent2.accesskey "v">

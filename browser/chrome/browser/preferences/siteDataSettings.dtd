@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "Gjendje">
 <!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Depozitë">
+<!ENTITY     lastAccessedCol.label                "Përdorur Së Fundi Më">
 <!ENTITY     searchTextboxPlaceHolder             "Kërko në sajte">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "K">
 <!ENTITY     removeSelected.label          "Hiq të Përzgjedhurën">

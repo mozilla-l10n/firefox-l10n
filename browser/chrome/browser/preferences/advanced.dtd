@@ -37,12 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Përpiqemi t’ju japim mundësi zgjedhjesh dhe grumbullojmë vetëm ç’na duhet për të ofruar dhe përmirësuar &brandShortName;-in për këdo. Kërkojmë përherë leje përpara se të marrim të dhëna personale.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Shënim Mbi Privatësinë">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Lejojeni &brandShortName;-in të dërgojë te Mozilla njoftime vithisjesh">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "v">
+
 <!ENTITY collectBrowserErrors.label          "Lejojeni &brandShortName;-in të dërgojë te Mozilla njoftime gabimesh shfletuesi (përfshi mesazhe gabimesh)">
 <!ENTITY collectBrowserErrors.accesskey      "L">
 <!ENTITY collectBrowserErrorsLearnMore.label "Mësoni më tepër">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Lejojeni &brandShortName;-in të dërgojë te Mozilla njoftime vithisjesh">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "v">
 <!ENTITY crashReporterLearnMore.label    "Mësoni Më Tepër">
 
 <!ENTITY networkTab.label                "Rrjet">
@@ -50,8 +51,6 @@ available. -->
 <!ENTITY networkProxy.label              "Ndërmjetës Rrjeti">
 
 <!ENTITY connectionDesc.label            "Formësoni mënyrën se si &brandShortName;-i lidhet në Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Mësoni më tepër">
 <!ENTITY connectionSettings.label        "Rregullime…">
 <!ENTITY connectionSettings.accesskey    "R">
 
@@ -61,6 +60,9 @@ available. -->
 <!ENTITY siteData.label                  "Të dhëna Sajti">
 <!ENTITY clearSiteData.label             "Pastro Krejt të Dhënat">
 <!ENTITY clearSiteData.accesskey         "K">
+<!ENTITY siteData1.label                 "Cookies dhe të Dhëna Sajtesh">
+<!ENTITY clearSiteData1.label            "Pastroni të Dhëna…">
+<!ENTITY clearSiteData1.accesskey        "P">
 <!ENTITY siteDataSettings.label          "Rregullime…">
 <!ENTITY siteDataSettings.accesskey      "R">
 <!ENTITY siteDataLearnMoreLink.label     "Mësoni më tepër">
