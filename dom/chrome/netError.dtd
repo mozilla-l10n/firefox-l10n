@@ -95,5 +95,4 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用了过时的安全技术，容易遭受攻击。攻击者可能轻易获取您认为安全传输的信息。需要网站管理员先修正服务器，然后您才能访问此网站。</p><p>错误代码：NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "页面已阻止">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>您的管理员已禁止访问。</p>">
+<!ENTITY blockedByPolicy.title "页面已封锁">
