@@ -51,7 +51,6 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "ඈදුම උපාංගයට යවන්න">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "යැවිනි!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "">
 <!ENTITY  moveToNewWindow.label              "නව කවුළුවකට යන්න">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "සියළු ටැබ් පිටුලකුණු කරන්න…">
@@ -126,6 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "සියළු ටැබ් පෙන්වන්න">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
+
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; වෙත පිවිසෙන්න">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; අභිප්‍රේත විවෘත කරන්න">
@@ -228,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "පිටු පරිවර්තනය කළමණාකරනය කරන්න">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM මෘදුකාංග භාවිතය කළමණාකරනය කරන්න">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "ඔබ මෙම අඩවියට ඔබගේ කැමරාව අවහිර කර ඇත.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ඔබ මෙම අඩවියට ඔබගේ මයික්‍රෆෝනය අවහිර කර ඇත.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ඔබ මෙම අඩවිය ඔබගේ තිරය හවුල්කිරීම අවහිර කර ඇත.">
@@ -236,7 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "ඔබ මෙම අඩවිය සඳහා අනවරත ගබඩාව අවහිර කර ඇත.">
 <!ENTITY urlbar.popupBlocked.tooltip             "ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.">
 
-<!ENTITY urlbar.canvasBlocked.tooltip            "">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "අතීතය පෙන්වන්න">
 
@@ -1001,3 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "පිවිසුම්කාරක විශේෂාංග සක්‍රීයයි">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
