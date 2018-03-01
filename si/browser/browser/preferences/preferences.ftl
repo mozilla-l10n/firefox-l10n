@@ -193,7 +193,6 @@ performance-settings-learn-more = තවත් දැනගන්න
 performance-allow-hw-accel =
     .label = ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න
     .accesskey = r
-performance-limit-content-process-enabled-desc = 
 
 ## General Section - Browsing
 
