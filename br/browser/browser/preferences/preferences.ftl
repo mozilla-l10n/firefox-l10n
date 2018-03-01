@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Atav
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Dibarzhioù
            *[other] Gwellvezioù
         }
@@ -83,8 +82,7 @@ home-page-header = Diskouez ma fennbajennad
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Arverañ ar bajenn vremanel
            *[other] Arverañ ar pajennoù bremanel
         }
@@ -122,16 +120,6 @@ browser-containers-settings =
     .label = Arventennoù…
     .accesskey = v
 containers-disable-alert-title = Serriñ an holl ivinelloù endalc'her?
-containers-disable-alert-desc =
-    { $tabCount ->
-        [one] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } ivinell endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
-       *[other] Ma ziweredekait an ivinelloù endalc'her bremañ e vo serret { $tabCount } ivinell endalc'her. Sur oc'h e fell deoc'h diweredekaat an ivinelloù endalc'her?
-    }
-containers-disable-alert-ok-button =
-    { $tabCount ->
-        [one] Serriñ { $tabCount } ivinell endalc'her
-       *[other] Serriñ { $tabCount } ivinell endalc'her
-    }
 containers-disable-alert-cancel-button = Leuskel gweredekaet
 
 ## General Section - Language & Appearance
@@ -171,13 +159,11 @@ download-save-to =
     .label = Enrollañ restroù e-barzh
     .accesskey = o
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Diuzañ…
            *[other] Furchal…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] D
            *[other] F
         }
