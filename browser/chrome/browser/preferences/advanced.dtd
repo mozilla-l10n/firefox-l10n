@@ -41,6 +41,7 @@ available. -->
 <!ENTITY alwaysSubmitCrashReports1.accesskey "น">
 
 <!ENTITY collectBrowserErrors.label          "อนุญาตให้ &brandShortName; ส่งรายงานข้อผิดพลาดเบราว์เซอร์ (รวมทั้งข้อความแสดงข้อผิดพลาด) ไปยัง Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "น">
 <!ENTITY collectBrowserErrorsLearnMore.label "เรียนรู้เพิ่มเติม">
 
 <!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
@@ -50,8 +51,6 @@ available. -->
 <!ENTITY networkProxy.label              "พร็อกซีเครือข่าย">
 
 <!ENTITY connectionDesc.label            "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
-
-<!ENTITY connectionSettingsLearnMore.label "เรียนรู้เพิ่มเติม">
 <!ENTITY connectionSettings.label        "การตั้งค่า…">
 <!ENTITY connectionSettings.accesskey    "ต">
 
