@@ -126,7 +126,7 @@
 <!ENTITY  browserContainersSettings.label        "Definições…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
-<!ENTITY  a11yPrivacy.checkbox.label     "Impedir serviços de acessibilidade de aceder ao seu navegador">
+<!ENTITY  a11yPrivacy.checkbox.label     "Impedir os serviços de acessibilidade de aceder ao seu navegador">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Saber mais">
 <!ENTITY enableSafeBrowsingLearnMore.label "Saber mais">
