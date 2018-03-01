@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Завжди
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Налаштування
            *[other] Налаштування
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = Для увімкнення цієї можл�
 feature-disable-requires-restart = Для вимкнення цієї можливості потрібен перезапуск { -brand-short-name }.
 should-restart-title = Перезапустити { -brand-short-name }
 should-restart-ok = Перезапустити { -brand-short-name } зараз
+cancel-no-restart-button = Скасувати
 restart-later = Перезапустити потім
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Показувати домівку
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Використати поточну сторінку
            *[other] Використати поточні сторінки
         }
@@ -122,14 +121,12 @@ browser-containers-settings =
     .label = Налаштування…
     .accesskey = л
 containers-disable-alert-title = Закрити всі вкладки контейнера?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Якщо ви вимкнете всі вкладки контейнера, буде закрито { $tabCount } вкладку контейнера. Ви дійсно хочете вимкнути контейнер?
         [few] Якщо ви вимкнете всі вкладки контейнера, буде закрито { $tabCount } вкладки контейнера. Ви дійсно хочете вимкнути контейнер?
        *[many] Якщо ви вимкнете всі вкладки контейнера, буде закрито { $tabCount } вкладок контейнера. Ви дійсно хочете вимкнути контейнер?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Закрити { $tabCount } вкладку контейнера
         [few] Закрити { $tabCount } вкладки контейнера
        *[many] Закрити { $tabCount } вкладок контейнера
@@ -173,13 +170,11 @@ download-save-to =
     .label = Зберігати файли до
     .accesskey = ф
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Вибрати…
            *[other] Вибрати…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] В
            *[other] В
         }
