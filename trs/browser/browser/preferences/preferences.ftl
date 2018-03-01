@@ -9,11 +9,18 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Nigànj chre
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Nagui’iaj
            *[other] Nagui’iaj
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input =
+    .style = width: 15.4em
 pane-general-title = Da'ua nguéj
 category-general =
     .tooltiptext = { pane-general-title }
@@ -39,10 +46,12 @@ feature-enable-requires-restart = { -brand-short-name } a'ui nayi'ì ñunj da' n
 feature-disable-requires-restart = { -brand-short-name } da'ui nayi'ì ñunj da' gina'j sa huin ruhuat.
 should-restart-title = Nayi'ì nakà { -brand-short-name }
 should-restart-ok = Nayi'ì nakà { -brand-short-name } hìaj
+cancel-no-restart-button = Duyichin'
 restart-later = Nayi'i ñun' ne' rukú doj
 
 ## General Section
 
+startup-header = Gayi'ì
 
 ## General Section - Language & Appearance
 
