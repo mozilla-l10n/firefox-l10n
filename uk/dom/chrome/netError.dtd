@@ -98,5 +98,4 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> використовує технологію безпеки, яка є застарілою і вразливою до атак. Нападник може з легкістю розкрити інформацію, яка, на вашу думку, є захищеною. Перш, ніж ви зможете відвідати сайт, його адміністратор повинен виправити це на сервері.</p><p>Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Сторінку заблоковано">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Доступ було вимкнено вашим адміністратором.</p>">
+<!ENTITY blockedByPolicy.title "Заблокована сторінка">
