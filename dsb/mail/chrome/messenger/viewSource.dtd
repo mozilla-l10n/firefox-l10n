@@ -69,8 +69,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Dalej pytaś">
 <!ENTITY findAgainCmd.accesskey "l">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY backCmd.label "Slědk">
+<!ENTITY backCmd.accesskey "S">
+<!ENTITY forwardCmd.label "Doprědka">
+<!ENTITY forwardCmd.accesskey "D">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Wótkazowu adresu kopěrowaś">
+<!ENTITY copyLinkCmd.accesskey "k">
+<!ENTITY copyEmailCmd.label "E-mailowu adresu kopěrowaś">
+<!ENTITY copyEmailCmd.accesskey "E">
 
 <!-- Copied from charsetMenu.dtd -->
+<!ENTITY charsetMenu2.label            "Tekstowe koděrowanje">
+<!ENTITY charsetMenu2.accesskey        "d">
 
