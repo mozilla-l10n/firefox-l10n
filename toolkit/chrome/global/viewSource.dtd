@@ -59,7 +59,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Tingkatkan">
 <!ENTITY menu_textEnlarge.accesskey "I">
-<!ENTITY menu_textReduce.label "Kurang">
+<!ENTITY menu_textReduce.label "Kurangkan">
 <!ENTITY menu_textReduce.accesskey "a">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">

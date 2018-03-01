@@ -77,7 +77,7 @@ startup-prev-session =
     .label = Papar tetingkap dan tab anda yang terdahulu
 disable-extension =
     .label = Nyahdayakan Ekstensi
-home-page-header = Papar halaman utama anda
+home-page-header = Halaman utama
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -253,7 +253,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proksi Rangkaian
-network-proxy-connection-learn-more = Ketahui selanjutnya
+network-proxy-connection-learn-more = Ketahui Selanjutnya
 network-proxy-connection-settings =
     .label = Tetapan…
     .accesskey = t
