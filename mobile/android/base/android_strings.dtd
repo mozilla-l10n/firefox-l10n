@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Informe de salut del &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Comparteix dades amb &vendorShortName; sobre la salut del navegador i us ajuda a entendre el rendiment del navegador">
-<!ENTITY datareporting_abouthr_title "Mostra l\&apos;informe de salut">
 <!ENTITY datareporting_telemetry_title "Telemesura">
 <!ENTITY datareporting_telemetry_summary "Comparteix dades sobre el rendiment, ús, maquinari i personalització del navegador amb &vendorShortName; per ajudar-nos a millorar el &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "El &brandShortName; tramet informes de fallada per ajudar a &vendorShortName; a fer el navegador més estable i segur">
@@ -809,6 +808,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Aquest a versió del &brandShortName; no funcionarà en aquest dispositiu (&formatS1;, &formatS2;). Baixeu la versió correcta.">
+
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "No es pot obrir el &brandShortName;. Reinstal·leu-lo i torneu-ho a provar.">
 
 <!ENTITY eol_notification_title2 "El &brandShortName; ja no s\&apos;actualitzarà">
 <!ENTITY eol_notification_summary "Toqueu per a més informació">
