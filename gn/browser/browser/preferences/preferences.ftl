@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Katui
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Jeporavorã
            *[other] Jerohoryvéva
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva'erã
 feature-disable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva'erã emboguete hag̃ua koichagua.
 should-restart-title = Ñepyrüjey { -brand-short-name }
 should-restart-ok = Emoñepyrũjey { -brand-short-name } ko'ág̃a
+cancel-no-restart-button = Heja
 restart-later = Emoñepyrũjey ag̃ave
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Che kuatiarogue ñepyrũha jehechauka
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Kuatiarogue Ag̃agua jepuru
            *[other] Kuatiarogue ag̃agua jepuru
         }
@@ -119,13 +118,11 @@ browser-containers-settings =
     .label = Ñemboheko…
     .accesskey = i
 containers-disable-alert-title = ¿Emmbotypaite tendayke guerekoha pegua?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Embotýramo ko'ág̃a umi guerekoha rendayke, tendayke guerekoha { $tabCount } oñembotýta. ¿Embotyse añetehápe tendayke guerekoha?
        *[other] Embotýramo tendayke guerekoha ko'ág̃a, umi tendayke guerekoha { $tabCount } oñembotýta. ¿Embotyse añetehápe tendayke guerekoha?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Emboty { $tabCount } tendayke guerekoha
        *[other] Emboty { $tabCount } tendayke guerekoha
     }
@@ -168,13 +165,11 @@ download-save-to =
     .label = Marandurenda ñongatu ko'ápe
     .accesskey = v
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Poravo…
            *[other] Poravo…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] e
            *[other] o
         }

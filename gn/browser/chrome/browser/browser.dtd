@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;-pe jeike">
 <!ENTITY fxaSignedIn.tooltip "Eike &syncBrand.shortName.label; oguerohoryvévape">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;-pe jeikejey">
@@ -229,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Eñangareko kuatiarogue ñe'ẽasa rehe">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Eñangareko DRM software jepuru rehe">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ejokóma ne ta'ãngamýi ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ejokóma ne ñe'ẽatãha ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba'erechaha.">
@@ -236,8 +239,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ejokóma ñemomarandu ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ejokóma mba'ekuaarã ñembyaty hi'aréva ko ñanduti renda pegua.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ejokoukákuri ovetã apysẽva ko ñandutirendápe g̃uarã.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ejokoukákuri kuaapy canvas rehegua ñeguenohẽ ko ñandutirendápe g̃uarã.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tembiasakue jehechauka">
 
@@ -382,7 +385,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Ndaipóri tendayke mbojuehepyre… gueteri!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Jerohoryvéva Mbojuehe">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Eike Sync jerohoryvévape">
@@ -391,7 +393,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Eike Sync-pe">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Mba'e'oka ñangarekoha…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ehecha mbojuehepyre tenda yképe">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Embojoaju Ambue Mba'e'oka">
 
 <!ENTITY appMenuRecentHighlights.label "Aje'i Ojehecharamoitéva">
@@ -800,7 +801,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Tendayke ñembojuehepyre">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Emoñepyrũ tembiapo Firefox-pe ambue ne mba'e'okakuéra rupive eike hag̃ua ne tendaykekuérape ápe.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Noñembojuehéi tendaykekuéra… ne'ĩra gueteri!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Tekotevẽ oñemboaje ne mba'ete.">
@@ -810,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Tendayke mbojuehepyre reka">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Embojoaju Ambue Mba'e'oka">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
