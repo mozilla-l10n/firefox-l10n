@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Perlindungan Penjejakan">
-<!ENTITY  trackingProtection2.description      "Penjejakan ialah pengumpulan data pelyaran anda dalam pelbagai laman web. Penjejakan boleh digunakan untuk membina profil dan memaparkan kandungan berdasarkan maklumat pelayaran dan peribadi anda.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Gunakan Perlindungan Penjejakan untuk menyekat penjejak dikenali">
 <!ENTITY  trackingProtection3.description      "Perlindungan Penjejakan menyekat penjejak atas talian yang mengumpul data pelayaran anda dalam pelbagai laman web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Gunakan Perlindungan Penjejakan untuk menyekat penjejak dikenali">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "y">
 <!ENTITY  trackingProtectionNever.label        "Jangan sesekali">
 <!ENTITY  trackingProtectionNever.accesskey    "k">
-<!ENTITY  trackingProtectionLearnMore.label    "Ketahui selanjutnya">
 <!ENTITY  trackingProtectionLearnMore2.label    "Ketahui lebih lanjut perihal Perlindungan Penjejakan dan privasi anda">
 <!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
 <!ENTITY  trackingProtectionExceptions.accesskey "g">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Ketahui selanjutnya">
 <!ENTITY changeBlockList2.label               "Tukar Senarai Sekatan…">
 <!ENTITY changeBlockList2.accesskey           "T">
-
-<!ENTITY  doNotTrack.description        "Hantar laman web isyarat “Jangan Jejak” bahawa anda tidak mahu dikesan">
-<!ENTITY  doNotTrack.learnMore.label    "Ketahui selanjutnya">
-<!ENTITY  doNotTrack.default.label      "Hanya apabila menggunakan Perlindungan Penjejakan">
-<!ENTITY  doNotTrack.always.label       "Sentiasa">
 
 <!ENTITY  history.label                 "Sejarah">
 <!ENTITY  permissions.label             "Keizinan">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Terima kuki pihak ketiga">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
 
-<!ENTITY  acceptCookies3.label          "Terima kuki dan data laman dari laman web">
-<!ENTITY  acceptCookies3.accesskey      "T">
+<!ENTITY  acceptCookies4.label          "Terima kuki dan data laman dari laman web (disyorkan)">
+<!ENTITY  acceptCookies4.accesskey      "T">
 
 <!ENTITY  blockCookies.label            "Sekat kuki dan data laman (boleh menyebabkan laman web tidak lengkap)">
 <!ENTITY  blockCookies.accesskey        "S">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", atau ">
 <!ENTITY  rememberActions.removeCookies.label "buang kuki individu">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; akan mengingati sejarah pelayaran, muat turun, borang dan carian.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan tetapan yang sama untuk pelayaran peribadi dan tidak akan mengingati sejarah pelayaran semasa anda melayari Web.">
 
