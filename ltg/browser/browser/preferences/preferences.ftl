@@ -197,14 +197,14 @@ play-drm-content =
     .accesskey = T
 play-drm-content-learn-more = Uzzynojit vairuok
 update-application-title = { -brand-short-name } atjaunynuojumi
-update-application-description = Keep { -brand-short-name } up to date for the best performance, stability, and security.
+update-application-description = Vysod atjaunini { -brand-short-name }, kab dabōt lobōkū drūšeibu, stabilitati un ōtrdarbeibu.
 update-application-info = Verseja { $version } <a>Kas jauns</a>
 update-history =
     .label = Paruodeit atjaunynuojumu viesturi…
     .accesskey = v
 update-application-allow-description = Ļaut { -brand-short-name }
 update-application-auto =
-    .label = Automatically install updates (recommended)
+    .label = Atjaunojumus instalēt automatiski (īsokams)
     .accesskey = A
 update-application-check-choose =
     .label = Puorbaudeit atjaunynuojumu pīejameibu, bet ļaut maņ izavieleit voi instaleit tūs
@@ -221,7 +221,7 @@ update-enable-search-update =
 
 ## General Section - Performance
 
-performance-title = Performance
+performance-title = Veiktspieja
 performance-use-recommended-settings-checkbox =
     .label = Use recommended performance settings
     .accesskey = U
