@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Toujours
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Options
            *[other] Préférences
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } doit redémarrer pour ac
 feature-disable-requires-restart = { -brand-short-name } doit redémarrer pour désactiver cette fonctionnalité.
 should-restart-title = Redémarrer { -brand-short-name }
 should-restart-ok = Redémarrer { -brand-short-name } maintenant
+cancel-no-restart-button = Annuler
 restart-later = Redémarrer plus tard
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Afficher votre page d’accueil
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Page courante
            *[other] Pages courantes
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Paramètres…
     .accesskey = s
 containers-disable-alert-title = Fermer tous les onglets contextuels ?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Si vous désactivez les onglets contextuels maintenant, { $tabCount } onglet contextuel sera fermé. Voulez-vous vraiment désactiver les onglets contextuels ?
        *[other] Si vous désactivez les onglets contextuels maintenant, { $tabCount } onglets contextuels seront fermés. Voulez-vous vraiment désactiver les onglets contextuels ?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Fermer { $tabCount } onglet contextuel
        *[other] Fermer { $tabCount } onglets contextuels
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Enregistrer les fichiers dans le dossier
     .accesskey = n
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Choisir…
            *[other] Parcourir…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] C
            *[other] P
         }
