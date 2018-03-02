@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Send">
 <!ENTITY aboutNetworking.received              "Móttekið">
 <!ENTITY aboutNetworking.family                "Fjölskylda">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Netföng">
 <!ENTITY aboutNetworking.expires               "Rennur út (Sekúndur)">
 <!ENTITY aboutNetworking.messagesSent          "Skilaboð send">

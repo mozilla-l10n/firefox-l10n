@@ -3,9 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Stillingar - Gögn vefsvæðis">
+
 <!ENTITY     hostCol.label                 "Vefsvæði">
 <!ENTITY     statusCol.label               "Staða">
+<!ENTITY     cookiesCol.label              "Smákökur">
 <!ENTITY     usageCol.label                "Geymsla">
+<!ENTITY     lastAccessedCol.label                "Síðast notað">
 <!ENTITY     searchTextboxPlaceHolder             "Leita á vefsvæðum">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "s">
 <!ENTITY     removeSelected.label          "Fjarlægja valið">
@@ -17,3 +20,4 @@
 <!ENTITY     removingDialog.title          "Fjarlægja gögn vefsvæðis">
 <!ENTITY     removingSelected.description  "Ef þú fjarlægir gögn frá vefsvæði mun það einnig eyða tengdum smákökum og aftengdum gögnum. Þetta gæti leitt til þess að þú myndir aftengjast sumum vefsvæðum. Ertu viss um að þú viljir framkvæma þessar breytingar?">
 <!ENTITY     siteTree2.label               "Eftirfarandi smákökur verða fjarlægðar">
+<!ENTITY     removingDialog1.title         "Fjarlægja smákökur og gögn vefsvæðis">
