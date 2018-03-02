@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Eipuru Ñemo'ã Tapykuehógui">
-<!ENTITY  trackingProtection2.description      "Jehapykueho ha'e kundaha mba'ekuaarã aty heta ñanduti rendápe. Pe jehapykueho ikatu eipuru emoheñói hag̃ua peteĩ mba'ete y ehechauka tetepy ne kundaha ha marandu nemba'etéva rehegua.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Eipuru tapykueho ñemo'ã ejoko hag̃ua jeporekaha kuaapyréva">
 <!ENTITY  trackingProtection3.description      "Tapykuere ñemo'ã ojoko umi oporohekáva ñandutípe ha ombyatýva ne kundaha mba'ekuaarã heta ñanduti renda rupi.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Eipuru tapykuere ñemo'ã ejoko hag̃ua oporohekavakuérape ">
 <!ENTITY  trackingProtectionAlways.label       "Akóinte">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Araka'eve">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Kuaave">
 <!ENTITY  trackingProtectionLearnMore2.label    "Eikuaave tapykuere ha temiñemi ñemo'ã rehegua">
 <!ENTITY  trackingProtectionExceptions.label   "Oĩ'ỹva…">
 <!ENTITY  trackingProtectionExceptions.accesskey "v">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Kuaave">
 <!ENTITY changeBlockList2.label               "Jokoha rysýi moambue…">
 <!ENTITY changeBlockList2.accesskey           "J">
-
-<!ENTITY  doNotTrack.description        "Emondo ñanduti rendápe peteĩ kuaaharã “Jehapykueho'ỹ” ndereipotáiva ojehapykueho">
-<!ENTITY  doNotTrack.learnMore.label    "Kuaave">
-<!ENTITY  doNotTrack.default.label      "Eipuru jave añónte tapykueho ñemo'ã">
-<!ENTITY  doNotTrack.always.label       "Katui">
 
 <!ENTITY  history.label                 "Tembiasakue">
 <!ENTITY  permissions.label             "Ñemoneĩkuéra">
@@ -51,6 +43,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Emoneĩ kookie ambue mba'éva">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
+
+<!ENTITY  acceptCookies4.label          "Emoñeĩ kookie ha ñanduti renda mba'ekuaarã (jeroviapyrãva)">
+<!ENTITY  acceptCookies4.accesskey      "A">
+
+<!ENTITY  blockCookies.label            "Ejoko umi kookie ha tenda mba'ekuaarã (ikatu ombyai ñanduti renda)">
+<!ENTITY  blockCookies.accesskey        "B">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Emoñeĩ kookie ambueguáva ha tenda mba'ekuaarã">
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Katui">
 <!ENTITY  acceptThirdParty.never.label    "Araka'eve">
 <!ENTITY  acceptThirdParty.visited.label  "Jehopyre">
@@ -85,6 +86,8 @@
 <!ENTITY  rememberActions.removeCookies.label "cookie peteĩteĩ mboguete">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; imandu'áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.">
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; oipurujeýta pe ñemboheko kundaha ñemigua pegua, ha noñongatumo'ãi mba'evéichagua mba'ekuaarã tembiasakuéva oikundahakuévo ñandutípe.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Ikatu avei reipota ">
 <!ENTITY  dontrememberActions.clearHistory.label "Tembiasakue mopotïmba">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Tembiasakue ñemopotĩ…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Kundaha ñemi jepuru tapia">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
