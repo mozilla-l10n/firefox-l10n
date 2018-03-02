@@ -37,10 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Við reynum alltaf að bjóða upp á valkvæmni og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta &brandShortName; fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Meðferð persónuupplýsinga">
 
-<!ENTITY collectBrowserErrorsLearnMore.label "Fræðast meira">
-
 <!ENTITY alwaysSubmitCrashReports1.label  "Leyfa &brandShortName; að senda hrunskýrslur til Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "h">
+
+<!ENTITY collectBrowserErrors.label          "Leyfa &brandShortName; að senda villuskýrslur vafra (með villuskilaboðum) til Mozilla">
+<!ENTITY collectBrowserErrors.accesskey      "b">
+<!ENTITY collectBrowserErrorsLearnMore.label "Fræðast meira">
+
+<!ENTITY sendBackloggedCrashReports.label  "Leyfa &brandShortName; að senda hrunskýrslu í bakgrunni í þínu nafni">
+<!ENTITY sendBackloggedCrashReports.accesskey "ð">
 <!ENTITY crashReporterLearnMore.label    "Fræðast meira">
 
 <!ENTITY networkTab.label                "Netkerfi">
@@ -48,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Net milliþjónn">
 
 <!ENTITY connectionDesc.label            "Stilla hvernig &brandShortName; tengist við Internetið">
-
-<!ENTITY connectionSettingsLearnMore.label "Fræðast meira">
 <!ENTITY connectionSettings.label        "Stillingar…">
 <!ENTITY connectionSettings.accesskey    "S">
 
@@ -59,6 +62,9 @@ available. -->
 <!ENTITY siteData.label                  "Gögn vefsvæðis">
 <!ENTITY clearSiteData.label             "Hreinsa öll gögn">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteData1.label                 "Smákökur og gögn vefsvæðis">
+<!ENTITY clearSiteData1.label            "Hreinsa gögn…">
+<!ENTITY clearSiteData1.accesskey        "ö">
 <!ENTITY siteDataSettings.label          "Stillingar…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Fræðast meira">

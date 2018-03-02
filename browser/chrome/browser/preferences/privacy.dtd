@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Vörn gegn gagnasöfnun">
-<!ENTITY  trackingProtection2.description      "Gagnasöfnun er söfnun á upplýsingum um hvernig þú vafrar á milli vefsvæða. Gagnasöfnun er hægt að nota til að búa til mynd af notanda sem er byggð á vafraferli og persónulegum upplýsingum.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Nota vörn gegn gagnasöfnun til að loka á þekkta gagnasafnara">
 <!ENTITY  trackingProtection3.description      "Vörn gegn gagnasöfnun lokar á njósnaraforrit á netinu sem safna vafragögnum á milli margra vefsvæða.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Nota vörn gegn gagnasöfnun til að loka á þekkta gagnasafnara">
 <!ENTITY  trackingProtectionAlways.label       "Alltaf">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Aldrei">
 <!ENTITY  trackingProtectionNever.accesskey    "d">
-<!ENTITY  trackingProtectionLearnMore.label    "Fræðast meira">
 <!ENTITY  trackingProtectionLearnMore2.label    "Fræðast meira um vörn gegn gagnasöfnun og friðhelgi">
 <!ENTITY  trackingProtectionExceptions.label   "Undanþágur…">
 <!ENTITY  trackingProtectionExceptions.accesskey "U">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Fræðast meira">
 <!ENTITY changeBlockList2.label               "Breyta lokunarlista…">
 <!ENTITY changeBlockList2.accesskey           "B">
-
-<!ENTITY  doNotTrack.description        "Senda vefsvæðum “Do Not Track” merki um að þú viljir ekki láta fylgjast með þér">
-<!ENTITY  doNotTrack.learnMore.label    "Fræðast meira">
-<!ENTITY  doNotTrack.default.label      "Aðeins þegar notað er vörn gegn gagnasöfnun">
-<!ENTITY  doNotTrack.always.label       "Alltaf">
 
 <!ENTITY  history.label                 "Ferill">
 <!ENTITY  permissions.label             "Heimildir">
@@ -51,6 +43,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Þiggja smákökur frá þriðja aðila">
 <!ENTITY  acceptThirdParty2.pre.accesskey "Þ">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Alltaf">
 <!ENTITY  acceptThirdParty.never.label    "Aldrei">
 <!ENTITY  acceptThirdParty.visited.label  "Frá heimsóttum síðum">
@@ -85,6 +80,7 @@
 <!ENTITY  rememberActions.removeCookies.label "eytt ákveðnum smákökum">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; mun nota sömu stillingar og í huliðsstillingu, og geyma ekki vafraferil.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +88,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Þú getur líka ">
 <!ENTITY  dontrememberActions.clearHistory.label "hreinsað núverandi feril">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Hreinsa feril…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Nota alltaf einkavöfrun">
 <!ENTITY  privateBrowsingPermanent2.accesskey "k">
