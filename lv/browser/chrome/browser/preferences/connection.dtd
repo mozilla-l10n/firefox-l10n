@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Konfigurēt starpniekserverus (proxy)">
+
+<!ENTITY  proxyTitle.label2             "Konfigurēt starpniekserverus un piekļuvi internetam">
 <!ENTITY  noProxyTypeRadio.label        "Bez proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Izmantot sistēmas proxy iestatījumus">
