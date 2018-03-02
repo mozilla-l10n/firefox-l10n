@@ -98,5 +98,4 @@
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> користи технологију за безбедност која је застарела и рањива је на нападе. Нападач лако може да открије информације за које сте мислили да су сигурне. Администратор веб сајта ће морати да поправи сервер пре него што посетите овај сајт.</p><p>Код грешке: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Страница блокирана">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Приступ је онемогућен од стране вашег администратора.</p>">
+<!ENTITY blockedByPolicy.title "Блокиране странице">

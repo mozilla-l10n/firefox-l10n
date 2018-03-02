@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Заштита од праћења">
-<!ENTITY  trackingProtection2.description      "Праћење је скуп ваших података прикупљених са мноштва веб сајтова. Праћење се може користити за формирање профила и приказивање садржаја заснованим на вашим интернет и личним подацима.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Користите заштиту од праћења да блокирате познате трагаче">
 <!ENTITY  trackingProtection3.description      "Заштита од праћења блокира интернет пратиоце који прикупљају ваше податке путем разноразних веб сајтова.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Користите заштиту од праћења да блокирате познате трагаче">
 <!ENTITY  trackingProtectionAlways.label       "Увек">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "С">
 <!ENTITY  trackingProtectionNever.label        "Никада">
 <!ENTITY  trackingProtectionNever.accesskey    "Н">
-<!ENTITY  trackingProtectionLearnMore.label    "Сазнајте више">
 <!ENTITY  trackingProtectionLearnMore2.label    "Сазнајте више о заштити од праћења и вашој приватности">
 <!ENTITY  trackingProtectionExceptions.label   "Изузеци…">
 <!ENTITY  trackingProtectionExceptions.accesskey "И">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Сазнајте више">
 <!ENTITY changeBlockList2.label               "Измени списак блокирања…">
 <!ENTITY changeBlockList2.accesskey           "И">
-
-<!ENTITY  doNotTrack.description        "Пошаљите “Не желим да ме прате” захтев сајтовима да не желите да будете праћени">
-<!ENTITY  doNotTrack.learnMore.label    "Сазнајте више">
-<!ENTITY  doNotTrack.default.label      "Само када користим заштиту од праћења">
-<!ENTITY  doNotTrack.always.label       "Увек">
 
 <!ENTITY  history.label                 "Историјат">
 <!ENTITY  permissions.label             "Дозволе">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Прихватај колачиће од трећих лица">
 <!ENTITY  acceptThirdParty2.pre.accesskey "а">
 
-<!ENTITY  acceptCookies3.label          "Прихватај колачиће и податке веб сајтова">
-<!ENTITY  acceptCookies3.accesskey      "П">
+<!ENTITY  acceptCookies4.label          "Прихватај колачиће и податке сајта (препоручено)">
+<!ENTITY  acceptCookies4.accesskey      "П">
 
 <!ENTITY  blockCookies.label            "Блокирај колачиће и податке сајта (може срушити веб сајт)">
 <!ENTITY  blockCookies.accesskey        "Б">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", или ">
 <!ENTITY  rememberActions.removeCookies.label "уклоните поједине колачиће">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; ће запамтити историјат прегледања, преузимања, формулара и претраге.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ће користити иста подешавања као за приватно прегледања, и неће памтити историјат прегледања веб страница.">
 
