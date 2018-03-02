@@ -51,6 +51,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Разрешаване на бисквитки от трети страни">
 <!ENTITY  acceptThirdParty2.pre.accesskey "т">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Винаги">
 <!ENTITY  acceptThirdParty.never.label    "Никога">
 <!ENTITY  acceptThirdParty.visited.label  "От посетените">
@@ -92,6 +95,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Може също да искате да">
 <!ENTITY  dontrememberActions.clearHistory.label "изчистите цялата настояща история">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Изчистване на историята…">
+<!ENTITY  clearHistoryButton.accesskey   "и">
 
 <!ENTITY  privateBrowsingPermanent2.label "Винаги включено поверително разглеждане">
 <!ENTITY  privateBrowsingPermanent2.accesskey "п">
