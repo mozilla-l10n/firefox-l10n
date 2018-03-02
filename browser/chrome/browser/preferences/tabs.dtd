@@ -5,10 +5,8 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab เพื่อสลับเปลี่ยนแท็บตามลำดับที่ใช้ล่าสุด">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "เปิดหน้าต่างใหม่ในแท็บใหม่แทน">
-<!ENTITY newWindowsAsTabs.accesskey   "ป">
-
 <!ENTITY newWindowsAsTabs3.label       "เปิดลิงก์ในแท็บแทนที่จะเป็นหน้าต่างใหม่">
+<!ENTITY newWindowsAsTabs3.accesskey   "ป">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "เตือนคุณเมื่อกำลังจะปิดหลายแท็บ">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "ต">
