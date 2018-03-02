@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Spårningsskydd">
-<!ENTITY  trackingProtection2.description      "Spårning är insamling av dina surfdata på flera webbplatser. Spårning kan användas för att skapa en profil och visa innehåll baserat på din webbhistorik och personlig information.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Använd spårningsskydd för att blockera kända trackers">
 <!ENTITY  trackingProtection3.description      "Spårningsskydd blockerar online-trackers som samlar in dina surfdata över flera webbplatser.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Använd spårningsskydd för att blockera kända trackers">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "r">
 <!ENTITY  trackingProtectionNever.label        "Aldrig">
 <!ENTITY  trackingProtectionNever.accesskey    "A">
-<!ENTITY  trackingProtectionLearnMore.label    "Lär dig mer">
 <!ENTITY  trackingProtectionLearnMore2.label    "Läs mer om spårningsskydd och din integritet">
 <!ENTITY  trackingProtectionExceptions.label   "Undantag…">
 <!ENTITY  trackingProtectionExceptions.accesskey "n">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Lär dig mer">
 <!ENTITY changeBlockList2.label               "Ändra blockeringslista…">
 <!ENTITY changeBlockList2.accesskey           "n">
-
-<!ENTITY  doNotTrack.description        "Skicka webbplatser en “Spåra inte”-signal att du inte vill bli spårad">
-<!ENTITY  doNotTrack.learnMore.label    "Läs mer">
-<!ENTITY  doNotTrack.default.label      "Bara när du använder spårningsskydd">
-<!ENTITY  doNotTrack.always.label       "Alltid">
 
 <!ENTITY  history.label                 "Historik">
 <!ENTITY  permissions.label             "Rättigheter">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Tillåt kakor från tredje part">
 <!ENTITY  acceptThirdParty2.pre.accesskey "a">
 
-<!ENTITY  acceptCookies3.label          "Tillåt kakor och webbplatsdata från webbplatser">
-<!ENTITY  acceptCookies3.accesskey      "T">
+<!ENTITY  acceptCookies4.label          "Tillåt kakor och webbplatsdata från webbplatser (rekommenderas)">
+<!ENTITY  acceptCookies4.accesskey      "T">
 
 <!ENTITY  blockCookies.label            "Blockera kakor och webbplatsdata (kan orsaka fel på webbplatser)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", eller ">
 <!ENTITY  rememberActions.removeCookies.label "ta bort enskilda kakor">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; kommer att spara information om besökta webbsidor, filhämtningar, formulär- och sökhistorik.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.">
 
