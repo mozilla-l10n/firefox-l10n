@@ -278,7 +278,6 @@
 <!ENTITY appMenuRemoteTabs.showAll.label "Visualizza tutte">
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Visualizza tutte le schede da questo dispositivo">
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Attiva la sincronizzazione delle schede per visualizzare le schede disponibili negli altri dispositivi.">
-<!ENTITY appMenuRemoteTabs.noclients.title "Nessuna scheda sincronizzata (per ora)">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Come fare per visualizzare in questa sezione le schede da altri dispositivi?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferenze Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Apri preferenze Sync">
@@ -564,7 +563,6 @@
 <!ENTITY syncTabsMenu3.label "Schede sincronizzate">
 <!ENTITY syncedTabs.sidebar.label "Schede sincronizzate">
 <!ENTITY syncedTabs.sidebar.noclients.label "Accedi a Firefox con altri dispositivi per visualizzarne le schede aperte.">
-<!ENTITY syncedTabs.sidebar.noclients.title "Nessuna scheda sincronizzata (per ora)">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Come fare per visualizzare in questa sezione le schede da altri dispositivi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label "Accedi per visualizzare un elenco delle schede dagli altri dispositivi connessi.">
 <!ENTITY syncedTabs.sidebar.unverified.label "L’account non è ancora stato verificato.">
