@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Chajinïk chuwäch Ojqanïk">
-<!ENTITY  trackingProtection2.description      "Ri ojqanïk ja ri kimolik taq atzij ye'awokisaj pa k'amaya'l pa k'ïy ruxaq k'amaya'l. Ri ojqanïk tikirel nokisäx richin ninuk' jun ruwäch b'i'aj chuqa' tikirel nik'ut pe rupam na'oj elesan pe chi rij ri awokem pa k'amaya'l chuqa' awetamab'al.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Tokisäx ri Chajinïk chuwäch Ojqanïk richin yeq'at ri kanonela' etaman kiwäch">
 <!ENTITY  trackingProtection3.description      "Ri Chajinïk chuwäch Ojqanem yeruq'ät ri rukanonela' k'amaya'l, ri yemolon taq atzij chi rij ri awokem pa jalajöj taq ruxaq k'amaya'l.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Tokisäx ri Chajinïk chuwäch Ojqanïk richin yeq'at ri kanonela' etaman kiwäch">
 <!ENTITY  trackingProtectionAlways.label       "Junelïk">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "x">
 <!ENTITY  trackingProtectionNever.label        "Majub'ey">
 <!ENTITY  trackingProtectionNever.accesskey    "M">
-<!ENTITY  trackingProtectionLearnMore.label    "Tetamäx ch'aqa' chik">
 <!ENTITY  trackingProtectionLearnMore2.label    "Tisik'ïx ch'aqa' chik chi rij ri Chajinïk chuwäch Ojqanem chuqa' chi rij ri richinanem">
 <!ENTITY  trackingProtectionExceptions.label   "Taq man relik ta…">
 <!ENTITY  trackingProtectionExceptions.accesskey "e">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Tetamäx ch'aqa' chik">
 <!ENTITY changeBlockList2.label               "Tijal Rucholajem q'atoj…">
 <!ENTITY changeBlockList2.accesskey           "T">
-
-<!ENTITY  doNotTrack.description        "Ketaq ri taq ruxaq ajk'amaya'l jun “Mani Tojqäx” raqän kumal chi man nojowäx ta chi tikanöx">
-<!ENTITY  doNotTrack.learnMore.label    "Tetamäx ch'aqa' chik">
-<!ENTITY  doNotTrack.default.label      "Xa xe toq nokisäx Chajinïk chuwäch Ojqanïk">
-<!ENTITY  doNotTrack.always.label       "Junelïk">
 
 <!ENTITY  history.label                 "Natab'äl">
 <!ENTITY  permissions.label             "Taq ya'oj q'ij">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Kek'ul taq kaxlanwey kichin aj rox winaqi'">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
-<!ENTITY  acceptCookies3.label          "Kek'ul taq kaxlanwey chuqa' kitzij ruxaq kichin ajk'amaya'l taq ruxaq">
-<!ENTITY  acceptCookies3.accesskey      "K">
+<!ENTITY  acceptCookies4.label          "Kek'ul taq kaxlanwey chuqa' kitzij ruxaq kichin ajk'amaya'l taq ruxaq (chilab'en)">
+<!ENTITY  acceptCookies4.accesskey      "K">
 
 <!ENTITY  blockCookies.label            "Keq'at taq kaxlanewy chuqa' kitzij ruxaq (nitikïr nub'än chi yek'ojpïx ri ajk'amya'l taq ruxaq)">
 <!ENTITY  blockCookies.accesskey        "K">
@@ -93,6 +85,7 @@
 <!ENTITY  rememberActions.middle.label        ", chuqa' ">
 <!ENTITY  rememberActions.removeCookies.label "keyuj el ri taq kaxlanwey pa yonil">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; xtrokisaj ri junam runuk'ulem achi'el pa ichinan okem pa k'amaya'l, chuqa' man xkerunataj ta ri taq rutzij natab'äl toq tajin nok pa ajk'amaya'l.">
 
