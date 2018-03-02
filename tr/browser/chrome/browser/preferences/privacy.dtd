@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "İzlenme Koruması">
-<!ENTITY  trackingProtection2.description      "Siz çeşitli sitelerde gezerken gezinti verilerinizin toplanmasına “izlenme” veya “takip” diyoruz. Sizi izleyen kodlar, hangi sitelerde gezdiğinize ve kişisel bilgilerinize dayanarak profilinizi oluşturmak ve size özel reklamlar göstermek için kullanılabilir.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
 <!ENTITY  trackingProtection3.description      "İzlenme Koruması, siz siteler arasında gezinirken hakkınızda veri toplayan çevrimiçi takipçileri engeller.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
 <!ENTITY  trackingProtectionAlways.label       "Her zaman">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "z">
 <!ENTITY  trackingProtectionNever.label        "Asla">
 <!ENTITY  trackingProtectionNever.accesskey    "A">
-<!ENTITY  trackingProtectionLearnMore.label    "Daha fazla bilgi al">
 <!ENTITY  trackingProtectionLearnMore2.label    "İzlenme Koruması ve gizliliğiniz hakkında daha fazla bilgi alın">
 <!ENTITY  trackingProtectionExceptions.label   "İstisnalar…">
 <!ENTITY  trackingProtectionExceptions.accesskey "r">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Daha fazla bilgi al">
 <!ENTITY changeBlockList2.label               "Engelleme listesini değiştir…">
 <!ENTITY changeBlockList2.accesskey           "E">
-
-<!ENTITY  doNotTrack.description        "Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder">
-<!ENTITY  doNotTrack.learnMore.label    "Daha fazla bilgi al">
-<!ENTITY  doNotTrack.default.label      "Yalnızca İzlenme Koruması’nı kullanırken">
-<!ENTITY  doNotTrack.always.label       "Her zaman">
 
 <!ENTITY  history.label                 "Geçmiş">
 <!ENTITY  permissions.label             "İzinler">
@@ -51,6 +43,15 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Üçüncü taraf çerezlerini kabul et">
 <!ENTITY  acceptThirdParty2.pre.accesskey "c">
+
+<!ENTITY  acceptCookies4.label          "Web sitelerinden gelen çerezleri ve site verilerini kabul et (Önerilir)">
+<!ENTITY  acceptCookies4.accesskey      "k">
+
+<!ENTITY  blockCookies.label            "Çerezleri ve site verilerini engelle (Bazı siteler düzgün çalışmayabilir)">
+<!ENTITY  blockCookies.accesskey        "z">
+
+<!ENTITY  acceptThirdParty3.pre.label     "Üçüncü taraf çerezlerini ve site verilerini kabul et">
+<!ENTITY  acceptThirdParty3.pre.accesskey "ü">
 <!ENTITY  acceptThirdParty.always.label   "Her zaman">
 <!ENTITY  acceptThirdParty.never.label    "Asla">
 <!ENTITY  acceptThirdParty.visited.label  "Ziyaret edilenlerden">
@@ -85,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "çerezleri tek tek kaldırabilirsiniz">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +94,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Ayrıca ">
 <!ENTITY  dontrememberActions.clearHistory.label "tüm mevcut geçmişinizi de silebilirsiniz">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Geçmişi temizle…">
+<!ENTITY  clearHistoryButton.accesskey   "G">
 
 <!ENTITY  privateBrowsingPermanent2.label "Her zaman gizli gezinti kipini kullan">
 <!ENTITY  privateBrowsingPermanent2.accesskey "m">
