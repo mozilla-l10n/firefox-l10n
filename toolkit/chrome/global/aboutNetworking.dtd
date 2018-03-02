@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Изпратени">
 <!ENTITY aboutNetworking.received              "Получени">
 <!ENTITY aboutNetworking.family                "Поколение">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Адреси">
 <!ENTITY aboutNetworking.expires               "Изтича (секунди)">
 <!ENTITY aboutNetworking.messagesSent          "Съобщения изпратени">

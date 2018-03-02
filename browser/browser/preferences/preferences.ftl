@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Винаги
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Настройки
            *[other] Настройки
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = Приожението { -brand-short-name } �
 feature-disable-requires-restart = Приложението { -brand-short-name } трябва да бъде рестартирано, за да бъде изключена тази възможност.
 should-restart-title = Рестартиране на { -brand-short-name }
 should-restart-ok = Рестартиране на { -brand-short-name }
+cancel-no-restart-button = Отказ
 restart-later = Рестартиране по-късно
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Показва началната страница
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Текущата страница
            *[other] Текущите страници
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Настройки…
     .accesskey = а
 containers-disable-alert-title = Затваряне на всички изолирани раздели?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Ако сега изключите Изолирани раздели { $tabCount } изолиран раздел ще бъде затворен. Желаете ли да изключите изолираните раздели?
        *[other] Ако сега изключите Изолирани раздели { $tabCount } изолирани раздела ще бъде затворени. Желаете ли да изключите изолираните раздели?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Затваряне на { $tabCount } изолиран раздел
        *[other] Затваряне на { $tabCount } изолирани раздела
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Запазване на файловете в
     .accesskey = З
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Избиране…
            *[other] Разглеждане…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] И
            *[other] Р
         }
