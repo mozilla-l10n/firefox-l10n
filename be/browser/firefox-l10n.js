@@ -4,7 +4,6 @@
 
 #filter substitution
 
-pref("general.useragent.locale", "@AB_CD@");
 pref("browser.fixup.alternate.suffix", ".by");
 
 # LOCALIZATION NOTE: this preference is set to true only for a specific set of
