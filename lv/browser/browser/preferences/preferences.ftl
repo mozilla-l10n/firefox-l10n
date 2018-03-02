@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Vienmēr
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Iestatījumi
            *[other] Iestatījumi
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = Lai aktivētu šo iespēju ir jāpārstartē {
 feature-disable-requires-restart = Lai deaktivētu šo iespēju ir jāpārstartē { -brand-short-name }.
 should-restart-title = Pārstartēt { -brand-short-name }
 should-restart-ok = Pārstartēt { -brand-short-name } tagad
+cancel-no-restart-button = Atcelt
 restart-later = Pārstartēt vēlāk
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Rādīt mājas lapu
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Lietot pašreizējo lapu
            *[other] Lietot pašreizējās lapas
         }
@@ -122,14 +121,12 @@ browser-containers-settings =
     .label = Iestatījumi...
     .accesskey = i
 containers-disable-alert-title = Aizvērt visas konteineru cilnes?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [zero] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilnes tiks aizvērtas. Vai tiešām vēlaties deaktivēt konteineru cilnes?
         [one] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilne tiks aizvērta.  Vai tiešām vēlaties deaktivēt konteineru cilnes?
        *[other] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilnes tiks aizvērtas.  Vai tiešām vēlaties deaktivēt konteineru cilnes?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [zero] Aizvērt { $tabCount } konteineru cilnes
         [one] Aizvērt { $tabCount } konteineru cilni
        *[other] Aizvērt { $tabCount } konteineru cilnes
@@ -173,13 +170,11 @@ download-save-to =
     .label = Vieta, kur saglabāt failus:
     .accesskey = k
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Izvēlieties...
            *[other] Pārlūkot...
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] e
            *[other] o
         }
@@ -266,6 +261,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Tīkla starpniekserveris
+network-proxy-connection-learn-more = Uzzināt vairāk
 network-proxy-connection-settings =
     .label = Iestatījumi...
     .accesskey = e
