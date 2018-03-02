@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "น">
 <!ENTITY collectBrowserErrorsLearnMore.label "เรียนรู้เพิ่มเติม">
 
+<!ENTITY sendBackloggedCrashReports.label  "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องที่ค้างอยู่ในนามของคุณ">
+<!ENTITY sendBackloggedCrashReports.accesskey "ต">
 <!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
 
 <!ENTITY networkTab.label                "เครือข่าย">
