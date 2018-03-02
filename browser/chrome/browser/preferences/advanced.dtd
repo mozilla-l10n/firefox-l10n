@@ -37,12 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Стремим се да ви предоставяме възможност и да събираме само толкова, колкото ни е необходимо, за да предоставяме и подобряваме &brandShortName; за всички. Винаги искаме разрешение преди да получим лична информация.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Политика на поверителност">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Разрешаване на &brandShortName; да изпраща доклади за срив към Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "д">
+
 <!ENTITY collectBrowserErrors.label          "Разрешаване на &brandShortName; да изпраща доклади за грешките на четеца (включително и самото съобщение) към Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "г">
 <!ENTITY collectBrowserErrorsLearnMore.label "Научете повече">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Разрешаване на &brandShortName; да изпраща доклади за срив към Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "д">
 <!ENTITY crashReporterLearnMore.label    "Научете повече">
 
 <!ENTITY networkTab.label                "Мрежа">
@@ -50,8 +51,6 @@ available. -->
 <!ENTITY networkProxy.label              "Мрежов посредник">
 
 <!ENTITY connectionDesc.label            "Настройки на &brandShortName; за достъп до Мрежата">
-
-<!ENTITY connectionSettingsLearnMore.label "Научете повече">
 <!ENTITY connectionSettings.label        "Настройки…">
 <!ENTITY connectionSettings.accesskey    "Н">
 
@@ -61,6 +60,8 @@ available. -->
 <!ENTITY siteData.label                  "Данни на страници">
 <!ENTITY clearSiteData.label             "Изчистване на всички">
 <!ENTITY clearSiteData.accesskey         "в">
+<!ENTITY clearSiteData1.label            "Изчистване на данни…">
+<!ENTITY clearSiteData1.accesskey        "т">
 <!ENTITY siteDataSettings.label          "Настройки…">
 <!ENTITY siteDataSettings.accesskey      "н">
 <!ENTITY siteDataLearnMoreLink.label     "Научете повече">
