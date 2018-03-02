@@ -314,7 +314,6 @@
 
 <!ENTITY datareporting_fhr_title "Raport o zdrowiu programu &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Raport o zdrowiu Firefoksa ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
-<!ENTITY datareporting_abouthr_title "Wyświetl">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; może przesyłać zgłoszenia awarii, aby ułatwić organizacji &vendorShortName; poprawianie stabilności i bezpieczeństwa przeglądarki.">
