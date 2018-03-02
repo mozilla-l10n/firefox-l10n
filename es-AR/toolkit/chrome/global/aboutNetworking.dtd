@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Enviado">
 <!ENTITY aboutNetworking.received              "Recibido">
 <!ENTITY aboutNetworking.family                "Familia">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Direcciones">
 <!ENTITY aboutNetworking.expires               "Expira (Segundos)">
 <!ENTITY aboutNetworking.messagesSent          "Mensajes enviados">
