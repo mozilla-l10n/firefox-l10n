@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Ingresar a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir preferencias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectar a &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administrar traducción de página">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar uso de software DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir panel MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ha bloqueado la cámara para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ha bloqueado el micrófono para este sitio web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ha bloqueado este sitio web para que no comparta la pantalla.">
@@ -236,8 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha bloqueado notificaciones para este sitio web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Se ha bloqueado el almacenamiento persistente para este sitio web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ha bloquedo emergentes para este sitio web.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Se ha bloqueado la extracción de datos de canvas para este sitio web.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Ha bloqueado el acceso a MIDI para este sitio web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
@@ -382,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "No hay pestañas sincronizadas… ¡aún!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Desea ver las pestañas de sus otros dispositivos acá?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir las preferencias de Sync">
@@ -391,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Ingresar a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver barra lateral de pestañas sincronizadas">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destacados recientes">
@@ -800,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Pestañas sincronizadas">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Ingrese a Firefox desde otro dispositivo para ver sus pestañas aquí.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "No hay pestañas sincronizadas… ¡aún!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿Quiere ver las pestañas de sus otros dispositivos aquí?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Ingrese para ver una lista de pestañas de los otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "La cuenta necesita ser verificada.">
@@ -810,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Habilite sincronización de pestañas para ver una lista de pestañas de los otros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Buscar en pestañas sincronizadas">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectar otro dispositivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,

@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protección de rastreo">
-<!ENTITY  trackingProtection2.description      "Rastreo es la recolección de sus datos de navegación a través de múltiples sitios Web. Rastreo puede utilizarse para crear un perfil y mostrar contenido basado en su navegación e información personal.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Usar la Protección de rastreo para bloquear rastreadores conocidos">
 <!ENTITY  trackingProtection3.description      "La Protección contra rastreo bloquea los rastreadores de Internet que recolectan sus datos de navegación a lo largo de múltiples sitios web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Usar la protección de rastreo para bloquear rastreadores conocidos">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Nunca">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "Conocer más">
 <!ENTITY  trackingProtectionLearnMore2.label    "Conocer más sobre la protección de rastreo y privacidad">
 <!ENTITY  trackingProtectionExceptions.label   "Excepciones…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Conocer más">
 <!ENTITY changeBlockList2.label               "Cambiar lista de bloqueo…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        'Enviar los sitios web una señal de "No rastrear" que significa que no quiere ser rastreado'>
-<!ENTITY  doNotTrack.learnMore.label    "Conocer más">
-<!ENTITY  doNotTrack.default.label      "Solo cuando use la Protección de rastreo">
-<!ENTITY  doNotTrack.always.label       "Siempre">
 
 <!ENTITY  history.label                 "Historial">
 <!ENTITY  permissions.label             "Permisos">
@@ -51,6 +43,11 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Aceptar cookies de terceros">
 <!ENTITY  acceptThirdParty2.pre.accesskey "p">
+
+
+
+<!ENTITY  acceptThirdParty3.pre.label     "Aceptar cookies de terceros y datos del sitio">
+<!ENTITY  acceptThirdParty3.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Siempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "De visitados">
@@ -85,6 +82,7 @@
 <!ENTITY  rememberActions.removeCookies.label "eliminar determinadas cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; utilizará la misma configuración que para las búsquedas privadas y no recordará el historial mientras navegue por la web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +90,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Quizás también desee ">
 <!ENTITY  dontrememberActions.clearHistory.label "eliminar el historial actual">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Limpiar historial…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Siempre usar el modo de navegación privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
