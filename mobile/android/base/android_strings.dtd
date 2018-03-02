@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; hälsorapport">
 <!ENTITY datareporting_fhr_summary2 "Delar data med &vendorShortName; om webbläsarens status, samt hjälper dig att förstå webbläsarens prestanda">
-<!ENTITY datareporting_abouthr_title "Visa hälsorapporten">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Dela webbläsardata om prestanda, användning, hårdvara och anpassningar med &vendorShortName; för att hjälpa oss att förbättra &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; kan skicka in kraschrapporter för att hjälpa &vendorShortName; att göra webbläsaren stabilare och säkrare">
@@ -828,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Gå till bokmärken">
 
 <!ENTITY helper_triple_readerview_open_title "Tillgänglig offline">
-<!ENTITY helper_triple_readerview_open_message "Bokmärkes Läsare Visa objekt för att läsa dem offline.">
+<!ENTITY helper_triple_readerview_open_message "Bokmärk läsvyobjekt för att läsa dem offline.">
 <!ENTITY helper_triple_readerview_open_button "Lägg till i bokmärken">
 
 <!ENTITY activity_stream_topsites "Mest besökta">
