@@ -231,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Eñangareko kuatiarogue ñe'ẽasa rehe">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Eñangareko DRM software jepuru rehe">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Eike ta'ãngarupa MIDI pe">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ejokóma ne ta'ãngamýi ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ejokóma ne ñe'ẽatãha ko ñanduti rendápe g̃uarã.">
@@ -241,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Ejokoukákuri ovetã apysẽva ko ñandutirendápe g̃uarã.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ejokoukákuri kuaapy canvas rehegua ñeguenohẽ ko ñandutirendápe g̃uarã.">
 
+<!ENTITY urlbar.midiBlocked.tooltip              "Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tembiasakue jehechauka">
 
