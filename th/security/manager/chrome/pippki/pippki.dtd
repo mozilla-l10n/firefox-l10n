@@ -13,14 +13,13 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "ล้าง">
 <!ENTITY resetPassword.title  "ล้างรหัสผ่านหลัก">
-<!ENTITY resetPassword.text  "หากคุณตั้งรหัสผ่านหลักของคุณใหม่ รหัสผ่านเว็บและอีเมล, ข้อมูลแบบฟอร์ม, ใบรับรองส่วนบุคคล, และกุญแจส่วนตัวทั้งหมดที่คุณจัดเก็บจะถูกลืม คุณแน่ใจหรือไม่ว่าต้องการตั้งรหัสผ่านหลักของคุณใหม่?">
+<!ENTITY resetPassword.text  "หากคุณตั้งรหัสผ่านหลักของคุณใหม่ รหัสผ่านเว็บและอีเมล, ข้อมูลแบบฟอร์ม, ใบรับรองส่วนบุคคล และกุญแจส่วนตัวทั้งหมดที่คุณจัดเก็บจะถูกลืม คุณแน่ใจหรือไม่ว่าต้องการตั้งรหัสผ่านหลักของคุณใหม่?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "กำลังดาวน์โหลดใบรับรอง">
 <!ENTITY downloadCert.message1 "คุณได้รับคำขอให้เชื่อถือผู้ออกใบรับรอง (CA) ใหม่">
 <!ENTITY downloadCert.trustSSL "เชื่อมั่น CA แห่งนี้สำหรับการระบุเว็บไซต์">
 <!ENTITY downloadCert.trustEmail "เชื่อมั่น CA แห่งนี้สำหรับการระบุผู้ใช้อีเมล">
-<!ENTITY downloadCert.trustObjSign "เชื่อถือ CA นี้เพื่อระบุตัวตนนักพัฒนาซอฟต์แวร์">
 <!ENTITY downloadCert.message3 "ก่อนที่จะเชื่อมั่น CA แห่งนี้ไม่ว่าเพื่อวัตถุประสงค์ใดก็ตาม คุณควรตรวจสอบใบรับรองตลอดจนนโยบายและขั้นตอนการรับรองของ CA แห่งนั้นเสียก่อน (ถ้ามี)">
 <!ENTITY downloadCert.viewCert.label "ดู">
 <!ENTITY downloadCert.viewCert.text "ตรวจสอบใบรับรอง CA">

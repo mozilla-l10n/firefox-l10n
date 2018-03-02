@@ -5,6 +5,7 @@
 <!ENTITY window.title                 "ล้างข้อมูล">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "คุกกี้และข้อมูลไซต์">
 
