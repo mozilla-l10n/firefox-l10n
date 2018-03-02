@@ -360,7 +360,7 @@
 <!ENTITY pref_voice_input "ხმოვანი შეყვანა">
 <!ENTITY pref_voice_input_summary2 "ხმოვანი კარნახის დაშვება URL ზოლში">
 <!ENTITY pref_qrcode_enabled "QR კოდის წამკითხავი">
-<!ENTITY pref_qrcode_enabled_summary2 "QR სკანერის დაშვება URL ზოლში">
+<!ENTITY pref_qrcode_enabled_summary2 "QR წამკითხავის დაშვება URL ველში">
 
 <!ENTITY pref_use_master_password "მთავარი პაროლის გამოყენება">
 <!ENTITY pref_sync_default_title "Firefox ანგარიში">
