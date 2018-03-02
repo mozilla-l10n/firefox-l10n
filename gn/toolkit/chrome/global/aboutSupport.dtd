@@ -162,3 +162,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.intlTitle "Mongakuaa &amp; ñemohenda">
 <!ENTITY aboutSupport.intlAppTitle "Tembipuru'i ñemboheko">
 <!ENTITY aboutSupport.intlLocalesRequested "Ñe'ẽnguéra jerurepyre">
+<!ENTITY aboutSupport.intlLocalesAvailable "Ñe'ẽnguéra ojepurukuaáva">
+<!ENTITY aboutSupport.intlLocalesSupported "Ñe'ẽnguéra tembipuru'i rehegua">
+<!ENTITY aboutSupport.intlLocalesDefault "Ñe'ẽnguéra ijypykuéva">
+<!ENTITY aboutSupport.intlOSTitle "Apopyvusu oku'éva">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Ñe'ẽnguéra apopyvusu rehegua">
+<!ENTITY aboutSupport.intlRegionalPrefs "Jerohoryvéva tendaguáva">
