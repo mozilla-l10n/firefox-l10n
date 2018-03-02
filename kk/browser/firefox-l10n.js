@@ -8,4 +8,3 @@
 # locales without this line have the setting set to false by default.
 pref("browser.search.geoSpecificDefaults", true);
 
-pref("general.useragent.locale", "@AB_CD@");
