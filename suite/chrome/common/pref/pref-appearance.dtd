@@ -28,3 +28,12 @@
 -->
 <!ENTITY restartOnLangChange.label              "Los cambios en las preferencias de idioma tendrán efecto cuando reinicie &brandShortName;.">
 
+<!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
+     radiobuttons are set dynamically from prefutilities.properties
+-->
+<!ENTITY dateTimeFormatting.label               "Formato de fecha y hora">
+
+<!--LOCALIZATION NOTE (restartOnLocaleChange.label): Don't translate "&brandShortName;".
+    Place &brandShortName; in the phrase where the name of the application should appear
+-->
+<!ENTITY restartOnLocaleChange.label            "Los cambios en las preferencias de idioma y formato tendrán efecto cuando reinicie &brandShortName;.">
