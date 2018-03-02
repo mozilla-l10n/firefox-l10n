@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Bescherming tegen volgen">
-<!ENTITY  trackingProtection2.description      "Volgen is het verzamelen van uw surfgegevens op meerdere websites. Volgen kan worden gebruikt om een profiel op te bouwen en inhoud weer te geven op basis van uw persoonlijke en surfgegevens.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Bescherming tegen volgen gebruiken om bekende volgers te blokkeren">
 <!ENTITY  trackingProtection3.description      "Bescherming tegen volgen blokkeert online trackers die op meerdere websites uw surfgegevens verzamelen.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Bescherming tegen volgen gebruiken om bekende volgers te blokkeren">
 <!ENTITY  trackingProtectionAlways.label       "Altijd">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "r">
 <!ENTITY  trackingProtectionNever.label        "Nooit">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Meer info">
 <!ENTITY  trackingProtectionLearnMore2.label    "Meer info over Bescherming tegen volgen en uw privacy">
 <!ENTITY  trackingProtectionExceptions.label   "Uitzonderingen…">
 <!ENTITY  trackingProtectionExceptions.accesskey "i">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Meer info">
 <!ENTITY changeBlockList2.label               "Blokkeerlijst wijzigen…">
 <!ENTITY changeBlockList2.accesskey           "k">
-
-<!ENTITY  doNotTrack.description        "Websites een ‘Niet volgen’-signaal sturen om te laten weten dat u niet wilt worden gevolgd">
-<!ENTITY  doNotTrack.learnMore.label    "Meer info">
-<!ENTITY  doNotTrack.default.label      "Alleen bij gebruik van Bescherming tegen volgen">
-<!ENTITY  doNotTrack.always.label       "Altijd">
 
 <!ENTITY  history.label                 "Geschiedenis">
 <!ENTITY  permissions.label             "Toestemmingen">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Cookies van derden accepteren">
 <!ENTITY  acceptThirdParty2.pre.accesskey "e">
 
-<!ENTITY  acceptCookies3.label          "Cookies en websitegegevens van websites accepteren">
-<!ENTITY  acceptCookies3.accesskey      "C">
+<!ENTITY  acceptCookies4.label          "Cookies en websitegegevens van websites accepteren (aanbevolen)">
+<!ENTITY  acceptCookies4.accesskey      "C">
 
 <!ENTITY  blockCookies.label            "Cookies en websitegegevens blokkeren (kan ervoor zorgen dat websites niet goed werken)">
 <!ENTITY  blockCookies.accesskey        "b">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", of ">
 <!ENTITY  rememberActions.removeCookies.label "individuele cookies verwijderen">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; zal uw browser-, download-, formulier- en zoekgeschiedenis onthouden.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.">
 
