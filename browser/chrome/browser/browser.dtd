@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "A daaƴii tintine e ndee lowre.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "A daaƴii ndesgu duumiingu e ndee lowre.">
 <!ENTITY urlbar.popupBlocked.tooltip             "A faddiima kenorɗe pop-up nder ndee lowre.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "A daaƴii aaftogol keɓe keertol wonande ndee lowre geese.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "A daaƴii keɓgol MIDI wonande ndee lowre geese.">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Alaa tabbe cynkaaɗe… tawo!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Cuɓoraaɗe Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Uddit Cuɓoraaɗe Jahdingol">
@@ -397,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Seŋo nga syncude">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Toppito Kaɓirɗi…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Yiy Tabbe Cynkaaɗe">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Seŋ Masiŋ Goɗɗo">
 
 <!ENTITY appMenuRecentHighlights.label "Maantinooje Cakkitiiɗe">
@@ -806,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Tabbe synckaaɗe">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Seŋo e Firefoxe kaɓirɗi maa goɗɗi ngam yiyde tabbe majji.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Alaa tabbe cynkaaɗe… tawo!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Seŋo ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Konte maa ina cokli ƴeewteede.">
@@ -816,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Yiylo tabbe ceŋondiraaɗe">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Seŋ Masiŋ Goɗɗo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -1013,3 +1008,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Yiil ɓeyditte maa e dobaade <image class='addon-addon-icon'/> nder dosol <image class='addon-toolbar-icon'/> ngol.">
