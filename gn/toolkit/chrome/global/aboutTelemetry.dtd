@@ -22,6 +22,7 @@
 <!ENTITY aboutTelemetry.pageTitle "Telemetría mba'ekuaarã">
 <!ENTITY aboutTelemetry.moreInformations "¿Ehekavépa marandu?">
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox mba'ekuaarã kuatia</a> oguereko guataha mba'éichapa emba'apova'erã mba'ekuaarã rembipuru rehegua.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Telemetry Firefox mba'éva kuatiatee</a> ogueroike mba'e ñemyesakã, API kuatiatee ha mba'ekuaarã rehegua.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Umi <a>Telemetry rechaha</a> ohechauka ndéve Mozilla mba'ekuaarã og̃uahẽva Telemetry rupive.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Eike JSON hechahápe">
