@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = 總是
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] 選項
            *[other] 偏好設定
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = 必須重新啟動 { -brand-short-name } 才�
 feature-disable-requires-restart = 必須重新啟動 { -brand-short-name } 才能停用此功能。
 should-restart-title = 重新啟動 { -brand-short-name }
 should-restart-ok = 立刻重新啟動 { -brand-short-name }
+cancel-no-restart-button = 取消
 restart-later = 稍後再重新啟動
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = 顯示您的首頁
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] 使用目前頁面
            *[other] 使用目前所有頁面
         }
@@ -163,13 +162,11 @@ download-save-to =
     .label = 儲存檔案到
     .accesskey = v
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] 選擇…
            *[other] 瀏覽…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] e
            *[other] o
         }
