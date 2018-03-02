@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Send websites a “Do Not Track” signal that you don’t want to be tracked
+do-not-track-description = Syutēt lopom “Do Not Track” signalu, kab paziņōt, ka nagribi byut izsakōts
 do-not-track-learn-more = Uzzynojit vairuok
 do-not-track-option-default =
     .label = Tagad izmontojūt izsekuošonys aizsardzeibu
@@ -56,7 +56,7 @@ startup-header = Palaišona
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Ļaut { -brand-short-name } i Firefox dorbuotīs vīnlaiceigi
-use-firefox-sync = Tip: This uses separate profiles. Use { -sync-brand-short-name } to share data between them.
+use-firefox-sync = Padūms: Pi itō izmontoj atseviškus profilus. Izmontoj sinhronizaceji, kab apsamaineitu ar datim itū profilu storpā.
 get-started-not-logged-in = Pīraksteitīs { -sync-brand-short-name }…
 get-started-configured = Attaiseit { -sync-brand-short-name } īstatiejumus
 always-check-default =
