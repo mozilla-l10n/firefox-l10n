@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Marandu apañuãi oñemyatyrõ haguã">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Ko kuatiarogue oguereko marandu aporekoguáva ikatúva eipuru emyatyrõse jave peteĩ apañuãi. Ehekáramo mbohovái umi porandu oikovéva  &brandShortName; rehegua, eike <a id='supportLink'>tenda eikekuaaha</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Marandu jejavyguáva">
@@ -20,6 +20,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionEnabled "Myandypyre">
 <!ENTITY aboutSupport.extensionVersion "Peteĩchagua">
 <!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.securitySoftwareTitle "Tekorosãrã rembiaporape">
+<!ENTITY aboutSupport.securitySoftwareType "Peteĩchagua">
+<!ENTITY aboutSupport.securitySoftwareName "Téra">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Mba'echu'i jukaha">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antispyware">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Tatajokoha">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; Reheguaite">
 <!ENTITY aboutSupport.featureName "Téra">
@@ -39,9 +46,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Téra">
 <!ENTITY aboutSupport.appBasicsVersion "Peteĩchagua">
 <!ENTITY aboutSupport.appBasicsBuildID "ID jejapo">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Ñembohekopyahu mbohapeha">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Ñembohekopyahu rembiasakue">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Ñembohekopyahu rembiasakue jehechauka">
@@ -58,8 +65,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Mandu'arenda jepuru">
 <!ENTITY aboutSupport.appBasicsPerformance "Mba'eaporã">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Mba'apohára mba'epytyvõrã mboguapyréva">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Mba'etekuéra">
@@ -85,8 +92,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Jerohoryvéva tuichamba'éva moambuepyre">
 <!ENTITY aboutSupport.modifiedPrefsName "Téra">
 <!ENTITY aboutSupport.modifiedPrefsValue "Hepykue">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Jerohoryvéva user.js-pe">
 <!ENTITY aboutSupport.userJSDescription "Nemba'ete ñongatuha oguereko peteĩ <a id='prefs-user-js-link'>marandurenda user.js</a>, ogueroikóva jerohoryvéva ndaha'éiva &brandShortName; omoheñoimbyre.">
 
@@ -107,6 +114,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Myandypyre">
 <!ENTITY aboutSupport.a11yForceDisabled "Jeikekuaa jejoko">
 <!ENTITY aboutSupport.a11yHandlerUsed "Handler ipurupyréva">
+<!ENTITY aboutSupport.a11yInstantiator "Techapyrã jeikekuaa rehegua">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Arandukaty peteĩchagua">
 
@@ -150,3 +158,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Mbohapeha">
 <!ENTITY aboutSupport.mediaDeviceRate "Mba'erepy">
 <!ENTITY aboutSupport.mediaDeviceLatency "Tekoteete">
+
+<!ENTITY aboutSupport.intlTitle "Mongakuaa &amp; ñemohenda">
+<!ENTITY aboutSupport.intlAppTitle "Tembipuru'i ñemboheko">
+<!ENTITY aboutSupport.intlLocalesRequested "Ñe'ẽnguéra jerurepyre">
