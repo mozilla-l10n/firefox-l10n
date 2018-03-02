@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "U wordt gevraagd een nieuwe certificaatautoriteit (CA) te vertrouwen.">
 <!ENTITY downloadCert.trustSSL "Deze CA vertrouwen voor het identificeren van websites.">
 <!ENTITY downloadCert.trustEmail "Deze CA vertrouwen voor het identificeren van e-mailgebruikers.">
-<!ENTITY downloadCert.trustObjSign "Deze CA vertrouwen voor het identificeren van softwareontwikkelaars.">
 <!ENTITY downloadCert.message3 "Voordat u deze CA voor enig gebruik vertrouwt, dient u het certificaat ervan te bestuderen, evenals het beleid en de procedures (wanneer beschikbaar).">
 <!ENTITY downloadCert.viewCert.label "Weergeven">
 <!ENTITY downloadCert.viewCert.text "CA-certificaat bestuderen">
