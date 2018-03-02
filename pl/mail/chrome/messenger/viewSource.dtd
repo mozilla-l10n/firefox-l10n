@@ -78,6 +78,3 @@
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Kopiuj adres e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
-
-<!ENTITY charsetMenu2.label "Kodowanie tekstu">
-<!ENTITY charsetMenu2.accesskey "K">
