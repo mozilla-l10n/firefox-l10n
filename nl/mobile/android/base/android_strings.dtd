@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;-statusrapport">
 <!ENTITY datareporting_fhr_summary2 "Deelt gegevens over uw browserstatus met &vendorShortName; en helpt u uw browserprestaties te begrijpen">
-<!ENTITY datareporting_abouthr_title "Mijn statusrapport bekijken">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Deelt gegevens over prestaties, hardware, gebruik en aanpassingen van uw browser met &vendorShortName; om &brandShortName; te helpen verbeteren">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; verzendt crashrapporten om &vendorShortName; te helpen uw browser stabieler en veiliger te maken">
