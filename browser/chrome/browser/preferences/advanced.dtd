@@ -39,6 +39,13 @@ available. -->
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Ļaut &brandShortName; sūtīt avārijas ziņojumus Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
+<!ENTITY collectBrowserErrors.label          "Atļaut &brandShortName; nosūtīt Mozilla pārlūka kļūdu ziņojumus (ieskaitot kļūdas)">
+<!ENTITY collectBrowserErrors.accesskey      "n">
+<!ENTITY collectBrowserErrorsLearnMore.label "Uzzināt vairāk">
+
+<!ENTITY sendBackloggedCrashReports.label  "Atļaut &brandShortName; sūtīt uzkrātos avāriju ziņojumus jūsu vārdā">
+<!ENTITY sendBackloggedCrashReports.accesskey "t">
 <!ENTITY crashReporterLearnMore.label    "Uzzināt vairāk">
 
 <!ENTITY networkTab.label                "Tīkls">
@@ -51,12 +58,13 @@ available. -->
 
 <!ENTITY httpCache.label                 "Saglabātais tīmekļa saturs">
 
-<!ENTITY offlineStorage2.label           "Nesaistes tīmekļa saturs un lietotāja dati">
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Lapas dati">
 <!ENTITY clearSiteData.label             "Izdzēst visus datus">
 <!ENTITY clearSiteData.accesskey         "v">
+<!ENTITY siteData1.label                 "Sīkdatnes un lapu dati">
+<!ENTITY clearSiteData1.label            "Notīrīt datus…">
+<!ENTITY clearSiteData1.accesskey        "n">
 <!ENTITY siteDataSettings.label          "Iestatījumi...">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Uzzināt vairāk">
@@ -72,8 +80,6 @@ available. -->
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Iztīrīt">
 <!ENTITY clearCacheNow.accesskey         "I">
-<!ENTITY clearOfflineAppCacheNow.label   "Iztīrīt">
-<!ENTITY clearOfflineAppCacheNow.accesskey "z">
 <!ENTITY overrideSmartCacheSize.label    "Ignorēt automātisko kešatmņas pārvaldību">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -110,17 +116,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Automātiski atjaunināt meklētājus">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY offlineStorageNotify.label               "Ziņot man, kad mājas lapa grib saglabāt datus izmantošanai nesaistē">
-<!ENTITY offlineStorageNotify.accesskey           "Z">
-<!ENTITY offlineStorageNotifyExceptions.label     "Izņēmumi...">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "z">
-
-<!ENTITY offlineAppsList3.label          "Šīm mājas lapām ir atļauts glabāt datus izmantošanai nesaistē">
-<!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Aizvākt...">
-<!ENTITY offlineAppsListRemove.accesskey "A">
-<!ENTITY offlineAppRemove.confirm        "Aizvākt nesaistes datus">
 
 <!ENTITY certificateTab.label            "Sertifikāti">
 <!ENTITY certPersonal2.description       "Kad serveris pieprasa manu personīgo sertifikātu">
