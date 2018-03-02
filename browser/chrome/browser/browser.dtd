@@ -238,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "คุณได้ปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">
 
 
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
 
 <!ENTITY searchItem.title             "ค้นหา">
@@ -382,7 +381,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "ค่ากำหนด Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "เปิดค่ากำหนด Sync">
@@ -391,7 +389,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้า Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "จัดการอุปกรณ์…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "เชื่อมต่ออุปกรณ์อื่น">
 
 <!ENTITY appMenuRecentHighlights.label "รายการเด่นล่าสุด">
@@ -799,7 +796,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "แท็บที่ซิงค์">
 <!ENTITY syncedTabs.sidebar.noclients.label    "ลงชื่อเข้า Firefox จากอุปกรณ์อื่น ๆ ของคุณเพื่อดูแท็บของอุปกรณ์เหล่านั้นที่นี่">
-<!ENTITY syncedTabs.sidebar.noclients.title    "ยังไม่มีแท็บที่ซิงค์…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ลงชื่อเข้าเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.unverified.label   "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน">
@@ -809,7 +805,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "เปิดการซิงค์แท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "ค้นหาแท็บที่ซิงค์">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "เชื่อมต่ออุปกรณ์อื่น">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -1002,3 +997,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "จัดการส่วนเสริมของคุณโดยคลิก <image class='addon-addon-icon'/> ในเมนู <image class='addon-toolbar-icon'/>">
