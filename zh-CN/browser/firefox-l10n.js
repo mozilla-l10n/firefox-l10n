@@ -4,5 +4,4 @@
 
 #filter substitution
 
-pref("general.useragent.locale", "@AB_CD@");
 pref("browser.startup.homepage", "chrome://browser/locale/browser.properties");
