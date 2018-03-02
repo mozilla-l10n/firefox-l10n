@@ -5,9 +5,6 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab doorloopt tabbladen in onlangs gebruikte volgorde">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "Nieuwe vensters openen in een nieuw tabblad">
-<!ENTITY newWindowsAsTabs.accesskey   "v">
-
 <!ENTITY newWindowsAsTabs3.label       "Koppelingen openen in tabbladen in plaats van nieuwe vensters">
 <!ENTITY newWindowsAsTabs3.accesskey   "v">
 

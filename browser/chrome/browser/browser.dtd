@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "U hebt notificaties voor deze website geblokkeerd.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "U hebt permanente opslag voor deze website geblokkeerd.">
 <!ENTITY urlbar.popupBlocked.tooltip             "U hebt pop-ups voor deze website geblokkeerd.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "U hebt canvas-gegevensextractie voor deze website geblokkeerd.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "U hebt MIDI-toegang voor deze website geblokkeerd.">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Nog geen gesynchroniseerde tabbladen…">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Wilt u hier uw tabbladen van andere apparaten zien?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synchronisatievoorkeuren">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronisatievoorkeuren openen">
@@ -397,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Aanmelden bij Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Apparaten beheren…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Synchrone-tabbladenzijbalk weergeven">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Een ander apparaat verbinden">
 
 <!ENTITY appMenuRecentHighlights.label "Recente Highlights">
@@ -805,9 +802,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Gesynchroniseerde tabbladen">
 
 <!ENTITY syncedTabs.sidebar.label              "Gesynchroniseerde tabbladen">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Nog geen gesynchroniseerde tabbladen…">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Wilt u hier uw tabbladen van andere apparaten zien?">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Meld u aan bij Firefox vanaf uw andere apparaten om hun tabbladen hier weer te geven.">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Wilt u hier uw tabbladen van andere apparaten zien?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Meld u aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Uw account moet worden geverifieerd.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Geen open tabbladen">
@@ -816,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zet tabbladsynchronisatie aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Gesynchroniseerde tabbladen doorzoeken">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Een ander apparaat verbinden">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
