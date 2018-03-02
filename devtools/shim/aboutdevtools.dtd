@@ -38,11 +38,6 @@
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
           "U hebt een snelkoppeling van de ontwikkelaarshulpmiddelen geactiveerd. Als dat niet de bedoeling was, kunt u dit tabblad sluiten.">
 
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage
-          "Bestudeer, bewerk en debug HTML, CSS en JavaScript met hulpmiddelen zoals de Inspector en Debugger.">
-
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 <!ENTITY  aboutDevtools.enable.menuMessage2
@@ -59,8 +54,6 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Meer info over ontwikkelaarshulpmiddelen">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Ontwikkelaarshulpmiddelen inschakelen">
-<!ENTITY  aboutDevtools.enable.closeButton "Deze pagina sluiten">
-
 <!ENTITY  aboutDevtools.enable.closeButton2 "Dit tabblad sluiten">
 
 <!ENTITY  aboutDevtools.welcome.title "Welkom bij de Firefox-ontwikkelaarshulpmiddelen!">
