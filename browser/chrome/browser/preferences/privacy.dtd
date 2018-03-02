@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Захист від стеження">
-<!ENTITY  trackingProtection2.description      "Стеження - це збирання ваших даних перегляду на різних веб-сайтах. Стеження може бути використане для створення профілю і показу вмісту, що базується на ваших даних перегляду та особистої інформації.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Блокувати відомі елементи стеження">
 <!ENTITY  trackingProtection3.description      "Захист від стеження блокує елементи, що збирають ваші дані під час перегляду на багатьох веб-сайтах.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Використовуйте захист від стеження для блокування відомих елементів стеження">
 <!ENTITY  trackingProtectionAlways.label       "Завжди">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "Л">
 <!ENTITY  trackingProtectionNever.label        "Ніколи">
 <!ENTITY  trackingProtectionNever.accesskey    "Н">
-<!ENTITY  trackingProtectionLearnMore.label    "Докладніше">
 <!ENTITY  trackingProtectionLearnMore2.label    "Дізнайтеся більше про захист від стеження і вашу приватність">
 <!ENTITY  trackingProtectionExceptions.label   "Винятки…">
 <!ENTITY  trackingProtectionExceptions.accesskey "В">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Докладніше">
 <!ENTITY changeBlockList2.label               "Змінити список блокування…">
 <!ENTITY changeBlockList2.accesskey           "м">
-
-<!ENTITY  doNotTrack.description        "Передавати веб-сайтам сигнал “Не стежити”">
-<!ENTITY  doNotTrack.learnMore.label    "Докладніше">
-<!ENTITY  doNotTrack.default.label      "Лише при використанні захисту від стеження">
-<!ENTITY  doNotTrack.always.label       "Завжди">
 
 <!ENTITY  history.label                 "Історія відвідувань">
 <!ENTITY  permissions.label             "Дозволи">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Приймати куки сторонніх сайтів">
 <!ENTITY  acceptThirdParty2.pre.accesskey "н">
 
-<!ENTITY  acceptCookies3.label          "Приймати куки і дані з веб-сайтів">
-<!ENTITY  acceptCookies3.accesskey      "П">
+<!ENTITY  acceptCookies4.label          "Приймати куки і дані з веб-сайтів (рекомендовано)">
+<!ENTITY  acceptCookies4.accesskey      "к">
 
 <!ENTITY  blockCookies.label            "Блокувати куки і дані (може призвести до пошкодження веб-сайтів)">
 <!ENTITY  blockCookies.accesskey        "Б">
@@ -93,6 +85,7 @@
 <!ENTITY  rememberActions.middle.label        ", або ">
 <!ENTITY  rememberActions.removeCookies.label "прибрати персональні куки">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; буде використовувати ті ж налаштування, що й у приватному режимі, та не буде пам’ятати історію вашого перегляду.">
 
