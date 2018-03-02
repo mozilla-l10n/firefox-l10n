@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "สถานะ">
 <!ENTITY     cookiesCol.label              "คุกกี้">
 <!ENTITY     usageCol.label                "ที่เก็บข้อมูล">
+<!ENTITY     lastAccessedCol.label                "วันที่ใช้ครั้งล่าสุด">
 <!ENTITY     searchTextboxPlaceHolder             "ค้นหาเว็บไซต์">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "ค">
 <!ENTITY     removeSelected.label          "เอาที่เลือกออก">
