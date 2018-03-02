@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Add-onbeheerder">
 
-<!ENTITY search.placeholder                   "Alle add-ons doorzoeken">
-
 <!ENTITY search.placeholder2                  "Zoeken op addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Zoeken">
 <!-- LOCALIZATION NOTE (search.commandKey):
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Geen updates gevonden">
 <!ENTITY listEmpty.recentUpdates.label        "U hebt uw add-ons niet recentelijk bijgewerkt">
 <!ENTITY listEmpty.findUpdates.label          "Controleren op updates">
-<!ENTITY listEmpty.search.label               "Geen overeenkomende add-ons gevonden">
 <!ENTITY listEmpty.button.label               "Meer info over add-ons">
 <!ENTITY installAddonFromFile.label           "Add-on installeren via bestand…">
 <!ENTITY installAddonFromFile.accesskey       "s">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Add-on-veiligheidscontrole inschakelen">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Doorzoeken">
 <!ENTITY view.discover.label                  "Add-ons verkrijgen">
 <!ENTITY view.recentUpdates.label             "Recente updates">
 <!ENTITY view.availableUpdates.label          "Beschikbare updates">
@@ -174,16 +170,6 @@
 <!ENTITY sort.name.tooltip                    "Sorteren op naam">
 <!ENTITY sort.dateUpdated.label               "Laatst bijgewerkt">
 <!ENTITY sort.dateUpdated.tooltip             "Sorteren op updatedatum">
-<!ENTITY sort.relevance.label                 "Beste overeenkomst">
-<!ENTITY sort.relevance.tooltip               "Sorteren op relevantie">
-<!ENTITY sort.price.label                     "Prijs">
-<!ENTITY sort.price.tooltip                   "Sorteren op prijs">
-
-<!ENTITY search.filter2.label                 "Zoeken:">
-<!ENTITY search.filter2.installed.label       "Mijn add-ons">
-<!ENTITY search.filter2.installed.tooltip     "Geïnstalleerde add-ons tonen">
-<!ENTITY search.filter2.available.label       "Beschikbare add-ons">
-<!ENTITY search.filter2.available.tooltip     "Add-ons tonen die beschikbaar zijn voor installatie">
 
 <!ENTITY addon.homepage                       "Homepage">
 <!ENTITY addon.details.label                  "Meer">
