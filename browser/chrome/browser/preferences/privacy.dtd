@@ -44,8 +44,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Үшінші жақты cookies файлдарын қабылдау">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ш">
 
+<!ENTITY  acceptCookies4.label          "Веб-сайттардан cookies файлдарын және сайттар деректерін қабылдау (ұсынылады)">
+<!ENTITY  acceptCookies4.accesskey      "а">
 
+<!ENTITY  blockCookies.label            "Cookies файлдарын және сайттар деректерін тайдыру (веб-сайттар сынуы мүмкін)">
+<!ENTITY  blockCookies.accesskey        "й">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Үшінші жақты cookies файлдары және сайт деректерін қабылдау">
+<!ENTITY  acceptThirdParty3.pre.accesskey "ш">
 <!ENTITY  acceptThirdParty.always.label   "Әрқашан">
 <!ENTITY  acceptThirdParty.never.label    "Ешқашан">
 <!ENTITY  acceptThirdParty.visited.label  "Мен болған жерден ғана">
@@ -80,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "жеке-жеке cookies файлдарын өшіруге болады">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; сіздің шолу, жүктемелер, формалар және іздеулер тарихын сақтайтын болады.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.">
 
