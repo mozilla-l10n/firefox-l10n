@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Nosūtīts">
 <!ENTITY aboutNetworking.received              "Saņemts">
 <!ENTITY aboutNetworking.family                "Saime">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Adreses">
 <!ENTITY aboutNetworking.expires               "Noilgums (sekundes)">
 <!ENTITY aboutNetworking.messagesSent          "Nosūtītie ziņojumi">
