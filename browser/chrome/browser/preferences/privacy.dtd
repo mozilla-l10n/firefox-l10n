@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "الحماية من التعقّب">
-<!ENTITY  trackingProtection2.description      "التعقب هو جمع بيانات تصفحك عبر عدة مواقع. يمكن استخدام التعقب لتكوين ملف عنك و عرض المحتوى تبعًا لما تتصفحه و معلوماتك الشخصية الأخرى.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "استخدم الحماية من التعقب لحظر المتعقبات المعروفة">
 <!ENTITY  trackingProtection3.description      "تحجب الحماية من التعقب متعقبات الإنترنت التي تجمع بيانات التصفح عبر أكثر من موقع.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "استخدم الحماية من التعقب لحظر المتعقبات المعروفة">
 <!ENTITY  trackingProtectionAlways.label       "دائمًا">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "ق">
 <!ENTITY  trackingProtectionNever.label        "أبدًا">
 <!ENTITY  trackingProtectionNever.accesskey    "ب">
-<!ENTITY  trackingProtectionLearnMore.label    "اطّلع على المزيد">
 <!ENTITY  trackingProtectionLearnMore2.label    "تعرّف أكثر على الحماية من التعقب و خصوصيتك">
 <!ENTITY  trackingProtectionExceptions.label   "الاستثناءات…">
 <!ENTITY  trackingProtectionExceptions.accesskey "س">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "اطّلع على المزيد">
 <!ENTITY changeBlockList2.label               "غيّر قائمة الحجب…">
 <!ENTITY changeBlockList2.accesskey           "غ">
-
-<!ENTITY  doNotTrack.description        "أرسل للمواقع إشارة ”لا تتعقبني“ بأنك لا تريد أن يتعقبوك">
-<!ENTITY  doNotTrack.learnMore.label    "اطّلع على المزيد">
-<!ENTITY  doNotTrack.default.label      "عند استخدام الحماية من التعقب فقط">
-<!ENTITY  doNotTrack.always.label       "دائمًا">
 
 <!ENTITY  history.label                 "التأريخ">
 <!ENTITY  permissions.label             "الصلاحيات">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "اقبل الكعكات من أطراف أخرى">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ب">
 
-<!ENTITY  acceptCookies3.label          "اقبل الكعكات و بيانات المواقع من المواقع">
-<!ENTITY  acceptCookies3.accesskey      "ق">
+<!ENTITY  acceptCookies4.label          "اقبل الكعكات و بيانات المواقع من المواقع (مستحسن)">
+<!ENTITY  acceptCookies4.accesskey      "ق">
 
 <!ENTITY  blockCookies.label            "احجب الكعكات و بيانات المواقع (قد يتسبب بعطب المواقع)">
 <!ENTITY  blockCookies.accesskey        "ح">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        "، أو ">
 <!ENTITY  rememberActions.removeCookies.label "تزيل الكعكات الشخصية">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "سيتذكر &brandShortName; تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.">
 
 <!ENTITY  dontrememberDescription.label  "سيستخدم &brandShortName; نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.">
 
