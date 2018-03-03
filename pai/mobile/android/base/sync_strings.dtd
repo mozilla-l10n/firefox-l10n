@@ -59,12 +59,19 @@
 <!ENTITY fxaccount_status_needs_verification2 'Mjabu hay uuch yaŕaal. Sak mchknaa mtkweek tñur uchuyiib ha mkwimhikyawa.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kos sal choach yutem. Mtawin mnamaan hikyawa.'>
 <!ENTITY fxaccount_status_needs_upgrade '&brandShortName; mchmii yaŕaal mnamaan hikyawa.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; kur paychaab, yuso kos yemik maat chublwiy yutem. “Yemik maat chblwiiy” mik mchmii,  Android mchublwiyuha &gt;. Tñur m\&apos; uyiibha.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; kur paychaab, yuso kos yemik maat chublwiy yutem. “Yemik maat chblwiiy” mik mchmii,  Android mchublwiyuha &gt; Jabchu.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Sak mtawiin mjabu Firefox hal mjaab hikyawa.'>
+<!ENTITY fxaccount_status_choose_what 'Chblwiiyuhak myook'>
 <!ENTITY fxaccount_status_bookmarks 'Chŕkirchu'>
 <!ENTITY fxaccount_status_history 'Chkjkeech'>
 <!ENTITY fxaccount_status_passwords2 'Chnamanchu'>
 <!ENTITY fxaccount_status_tabs 'Ch chkwaachu msool'>
+<!ENTITY fxaccount_status_additional_settings 'Chblwiyu jkay'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Wi-Fi ham mchublwiiy'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Mŕboo kos &brandShortName; amchu t\&apos;tkya kyoha chublwiiyb temhikyawa'>
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
