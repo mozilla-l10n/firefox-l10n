@@ -9,6 +9,7 @@
 <!ENTITY findField.accesskey "a">
 <!ENTITY replaceField.label "Înlocuiește cu:">
 <!ENTITY replaceField.accesskey "n">
+<!ENTITY caseSensitiveCheckbox.label "Majuscule semnificative">
 <!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Împrejur">
 <!ENTITY wrapCheckbox.accesskey "p">
@@ -23,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Înlocuiește toate">
 <!ENTITY replaceAllButton.accesskey "t">
 <!ENTITY closeButton.label "Închide">
+<!ENTITY closeButton.accesskey "C">
