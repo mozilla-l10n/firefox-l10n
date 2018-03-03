@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Întotdeauna
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Opțiuni
            *[other] Preferințe
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } trebuie să repornească
 feature-disable-requires-restart = { -brand-short-name } trebuie să repornească pentru a dezactiva această funcționalitate.
 should-restart-title = Repornire { -brand-short-name }
 should-restart-ok = Repornește { -brand-short-name } acum
+cancel-no-restart-button = Renunță
 restart-later = Repornește mai târziu
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Arată pagina de start
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Folosește pagina actuală
            *[other] Folosește paginile actuale
         }
@@ -122,14 +121,12 @@ browser-containers-settings =
     .label = Setări…
     .accesskey = t
 containers-disable-alert-title = Închizi toate filele container?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Dacă dezactivezi containerele de file, { $tabCount } container de file se va închide. Sigur vrei să dezactivezi containerele de file?
         [few] Dacă dezactivezi containerele de file, { $tabCount } containere de file se vor închide. Sigur vrei să dezactivezi containerele de file?
        *[other] Dacă dezactivezi containerele de file, { $tabCount } de containere de file se vor închide. Sigur vrei să dezactivezi containerele de file?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Închide { $tabCount } container de file
         [few] Închide { $tabCount } containere de file
        *[other] Închide { $tabCount } de containere de file
@@ -173,13 +170,11 @@ download-save-to =
     .label = Salvează fișierele în
     .accesskey = v
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Alege…
            *[other] Răsfoiește…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] e
            *[other] o
         }
