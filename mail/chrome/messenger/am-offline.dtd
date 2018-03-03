@@ -7,6 +7,9 @@
 <!ENTITY doNotDownloadImap.label "Pentru a câștiga spațiu pe disc, descărcarea mesajelor de pe server și păstrarea copiilor locale pentru utilizare offline poate fi restricționată după vechime sau mărime.">
 <!ENTITY allFoldersOffline.label "Păstrează mesajele contului pe acest calculator">
 <!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY allFoldersOffline2.label "Stochează local mesajele din toate dosarele acestui cont">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Notă: Această opțiune se aplică tuturor dosarelor din acest cont. Pentru a stoca mesaje doar din anumite dosare, utilizați butonul Avansat… asociat.">
 <!ENTITY offlineNotDownload.label "Mesaje mai mari de">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Nu descărca mesaje mai mari de">
@@ -37,13 +40,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronizare mesaje">
 <!ENTITY diskspaceGroupTitle.label "Spațiu pe disc">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Sincronizează toate mesajele local indiferent de vechime">
 <!ENTITY allAutosync.accesskey           "c">
 <!ENTITY ageAutosyncBefore.label         "Sincronizează-le pe cele mai recente">

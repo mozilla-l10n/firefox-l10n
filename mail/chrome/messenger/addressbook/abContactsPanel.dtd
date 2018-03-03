@@ -2,18 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY propertiesMenu.label               "Proprietăți">
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Proprietățile agendei de contacte">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Proprietățile contactului">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Proprietățile listei de e-mail">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
-
-
-
-
-
-
-
+<!ENTITY abContextMenuButton.tooltip        "Arată meniul contextual pentru agenda de contacte">
 <!ENTITY addressbookPicker.label            "Agendă de contacte:">
 <!ENTITY addressbookPicker.accesskey        "A">
-
-
+<!ENTITY searchContacts.label               "Căutare în contacte:">
+<!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Nume sau e-mail">
 
 <!ENTITY addtoToFieldMenu.label             "Adaugă la câmpul Către">
@@ -24,18 +27,19 @@
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
 <!ENTITY deleteAddrBookCard.label           "Șterge">
 <!ENTITY deleteAddrBookCard.accesskey       "t">
+<!ENTITY propertiesContext.label            "Proprietăți">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Proprietăți">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editContactContext.label           "Editare contact">
+<!ENTITY editContactContext.accesskey       "E">
+<!ENTITY editMailingListContext.label       "Editare listă">
+<!ENTITY editMailingListContext.accesskey   "E">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newContactAbContext.label          "Contact nou">
+<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "Listă nouă">
+<!ENTITY newListAbContext.accesskey         "L">
 
 <!ENTITY toButton.label                     "Adaugă la To:">
 <!ENTITY toButton.accesskey                 "A">
