@@ -3,9 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Баптаулар - Сайт деректері">
+
+<!ENTITY     window1.title                 "Баптаулар - Cookies файлдары және сайт деректері">
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Қалып-күйі">
+<!ENTITY     cookiesCol.label              "Cookies файлдары">
 <!ENTITY     usageCol.label                "Сақтауыш">
+<!ENTITY     lastAccessedCol.label                "Соңғы қолданылған">
 <!ENTITY     searchTextboxPlaceHolder             "Сайттардан іздеу">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "с">
 <!ENTITY     removeSelected.label          "Таңдалғанды өшіру">
@@ -17,3 +21,4 @@
 <!ENTITY     removingDialog.title          "Сайт деректерін өшіру">
 <!ENTITY     removingSelected.description  "Сайт деректерін өшіру нәтижесінде сәйкес cookies файлдары және желіден тыс веб-құрамасы өшірілетін болады. Нәтижесінде сіз сайттардан шығуыңыз мүмкін. Өзгерістерді іске асыруды шынымен қалайсыз ба?">
 <!ENTITY     siteTree2.label               "Келесі веб-сайттар cookies файлдары өшірілетін болады">
+<!ENTITY     removingDialog1.title         "Cookies файлдары және сайт деректерін өшіру">
