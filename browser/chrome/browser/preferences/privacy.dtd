@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "הגנת מעקב">
-<!ENTITY  trackingProtection2.description      "מעקב הוא איסוף של נתוני הגלישה שלך ממגוון אתרים. ניתן להשתמש במעקב כדי להרכיב פרופיל ולהציג עבורך תוכן בהתבסס על הפרטים האישיים ונתוני הגלישה שלך.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים">
 <!ENTITY  trackingProtection3.description      "הגנת מעקב חוסמת רכיבי מעקב מקוונים שאוספים את נתוני הגלישה שלך ממגוון אתרים.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים">
 <!ENTITY  trackingProtectionAlways.label       "תמיד">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "ר">
 <!ENTITY  trackingProtectionNever.label        "לעולם לא">
 <!ENTITY  trackingProtectionNever.accesskey    "ל">
-<!ENTITY  trackingProtectionLearnMore.label    "מידע נוסף">
 <!ENTITY  trackingProtectionLearnMore2.label    "מידע נוסף על הגנת מעקב ועל הפרטיות שלך">
 <!ENTITY  trackingProtectionExceptions.label   "חריגות…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ח">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "מידע נוסף">
 <!ENTITY changeBlockList2.label               "שינוי רשימת חסימות…">
 <!ENTITY changeBlockList2.accesskey           "ר">
-
-<!ENTITY  doNotTrack.description        "שליחת חיווי ”נא לא לעקוב” לאתרים שאין ברצונך שיעקבו אחריך">
-<!ENTITY  doNotTrack.learnMore.label    "מידע נוסף">
-<!ENTITY  doNotTrack.default.label      "רק בעת שימוש בהגנת מעקב">
-<!ENTITY  doNotTrack.always.label       "תמיד">
 
 <!ENTITY  history.label                 "היסטוריה">
 <!ENTITY  permissions.label             "הרשאות">
@@ -51,6 +43,13 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "קבלת עוגיות צד שלישי">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ש">
+
+<!ENTITY  acceptCookies4.accesskey      "ק">
+
+<!ENTITY  blockCookies.accesskey        "ח">
+
+<!ENTITY  acceptThirdParty3.pre.label     "קבלת עוגיות ונתוני אתרים מצד שלישי">
+<!ENTITY  acceptThirdParty3.pre.accesskey "ש">
 <!ENTITY  acceptThirdParty.always.label   "תמיד">
 <!ENTITY  acceptThirdParty.never.label    "לעולם לא">
 <!ENTITY  acceptThirdParty.visited.label  "מאתרים בהם ביקרנו בעבר">
@@ -85,6 +84,7 @@
 <!ENTITY  rememberActions.removeCookies.label "למחוק עוגיות בודדות">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +92,9 @@
 <!ENTITY  dontrememberActions.pre.label          "ייתכן שתרצה גם ">
 <!ENTITY  dontrememberActions.clearHistory.label "לנקות את כל ההיסטוריה הנוכחית">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "ניקוי היסטוריה…">
+<!ENTITY  clearHistoryButton.accesskey   "ה">
 
 <!ENTITY  privateBrowsingPermanent2.label "שימוש תמידי במצב גלישה פרטית">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ה">

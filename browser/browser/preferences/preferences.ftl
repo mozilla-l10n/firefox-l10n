@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = תמיד
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] אפשרויות
            *[other] העדפות
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = יש להפעיל את { -brand-short-name } �
 feature-disable-requires-restart = יש להפעיל את { -brand-short-name } מחדש כדי להשבית תכונה זו.
 should-restart-title = הפעלת { -brand-short-name } מחדש
 should-restart-ok = הפעלת { -brand-short-name } מחדש כעת
+cancel-no-restart-button = ביטול
 restart-later = הפעלה מחדש מאוחר יותר
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = יוצג דף הבית
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] שימוש בדף הנוכחי
            *[other] שימוש בדפים הנוכחיים
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = הגדרות…
     .accesskey = ג
 containers-disable-alert-title = האם לסגור את כל מגירות הלשוניות?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] אם האפשרות „לשוניות מגירות” תבוטל כעת, מגירת לשונית אחת תיסגר. האם ברצונך לבטל את מגירות הלשוניות?
        *[other] אם האפשרות „לשוניות מגירות” תבוטל כעת, { $tabCount } מגירות לשוניות תסגרנה. האם ברצונך לבטל את מגירות הלשוניות?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] סגירת מגירת לשונית אחת
        *[other] סגירת { $tabCount } מגירות לשוניות
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = שמירת קבצים אל
     .accesskey = ק
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] בחירה…
            *[other] עיון…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] ב
            *[other] י
         }
