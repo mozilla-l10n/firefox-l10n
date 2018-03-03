@@ -44,8 +44,14 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Accepter les cookies tiers">
 <!ENTITY  acceptThirdParty2.pre.accesskey "e">
 
+<!ENTITY  acceptCookies4.label          "Accepter les cookies et les données de sites (recommandé)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
+<!ENTITY  blockCookies.label            "Bloquer les cookies et les données de sites (peut empêcher certains sites de fonctionner)">
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.label     "Accepter les cookies tiers et les données de sites tiers">
+<!ENTITY  acceptThirdParty3.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "Toujours">
 <!ENTITY  acceptThirdParty.never.label    "Jamais">
 <!ENTITY  acceptThirdParty.visited.label  "Depuis les sites visités">
