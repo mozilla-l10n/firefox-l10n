@@ -4,7 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "ახალი ჩანართი">
-<!ENTITY newtab.customize.classic "რჩული საიტების ჩვენება">
+<!ENTITY newtab.customize.classic "რჩეული საიტების ჩვენება">
 <!ENTITY newtab.customize.cog.enhanced "შემოთავაზებული საიტები">
 <!ENTITY newtab.customize.cog.title2 "ახალი ჩანართის გამართვა">
 <!ENTITY newtab.customize.cog.learn "ახალი ჩანართის შესახებ">
