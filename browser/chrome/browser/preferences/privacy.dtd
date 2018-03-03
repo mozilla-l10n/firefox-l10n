@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "თვალთვალისგან დაცვა">
-<!ENTITY  trackingProtection2.description      "თვალთვალი ნიშნავს თქვენი მოქმედებების აღრიცხვას სხვადასხვა საიტების მეშვეობით. თვალთვალს იყენებენ, პირადი მონაცემების საფუძველზე, მომხმარებელზე, უფრო მეტად მორგებული მომსახურების შეთავაზებისთვის.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "თვალთვალისგან დაცვის საშუალებით, შეგიძლიათ ცნობილი მეთვალყურე ელემენტების შეზღუდვა">
 <!ENTITY  trackingProtection3.description      "თვალთვალისგან დაცვა ზღუდავს მეთვალყურე ელემენტებს, რომელიც აღრიცხავს თქვენს მოქმედებებს, სხვადასხვა საიტებზე.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "თვალთვალისგან დაცვის საშუალებით, შეგიძლიათ ცნობილი მეთვალყურე ელემენტების შეზღუდვა">
 <!ENTITY  trackingProtectionAlways.label       "ყოველთვის">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "პ">
 <!ENTITY  trackingProtectionNever.label        "არასდროს">
 <!ENTITY  trackingProtectionNever.accesskey    "ა">
-<!ENTITY  trackingProtectionLearnMore.label    "შეიტყვეთ მეტი">
 <!ENTITY  trackingProtectionLearnMore2.label    "იხილეთ ვრცლად, თვალთვალისგან დაცვისა და პირადი მონაცემების უსაფრთხოების შესახებ">
 <!ENTITY  trackingProtectionExceptions.label   "გამონაკლისები…">
 <!ENTITY  trackingProtectionExceptions.accesskey "კ">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "შეიტყვეთ მეტი">
 <!ENTITY changeBlockList2.label               "შეზღუდულთა სიის ჩასწორება…">
 <!ENTITY changeBlockList2.accesskey           "შ">
-
-<!ENTITY  doNotTrack.description        "საიტებისთვის “არ მითვალთვალო” მოთხოვნის გაგზავნა">
-<!ENTITY  doNotTrack.learnMore.label    "შეიტყვეთ მეტი">
-<!ENTITY  doNotTrack.default.label      "მხოლოდ, თვალთვალისგან დაცვის დროს">
-<!ENTITY  doNotTrack.always.label       "ყოველთვის">
 
 <!ENTITY  history.label                 "ისტორია">
 <!ENTITY  permissions.label             "ნებართვები">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "მესამე მხარის ფუნთუშების მიღება">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ხ">
 
-<!ENTITY  acceptCookies3.label          "ფუნთუშებისა და სხვა მონაცემების მიღება საიტებიდან">
-<!ENTITY  acceptCookies3.accesskey      "მ">
+<!ENTITY  acceptCookies4.label          "ფუნთუშებისა და საიტის მონაცემების საიტებიდან (სასურველია)">
+<!ENTITY  acceptCookies4.accesskey      "დ">
 
 <!ENTITY  blockCookies.label            "ფუნთუშებისა და საიტის მონაცემების აკრძალვა (შესაძლოა ვებსაიტებმა ხარვეზებით იმუშაოს)">
 <!ENTITY  blockCookies.accesskey        "კ">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", ან ">
 <!ENTITY  rememberActions.removeCookies.label "ცალკეული ფუნთუშების წაშლა">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; დაიმახსოვრებს მონახულებული გვერდების ისტორიას, ჩამოთვირთვებს და ძიების ისტორიას.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ბრაუზერი ისარგებლებს პირადი ფანჯრის პარამეტრებით და არ შეინახავს თქვენ მიერ მონახულებული საიტების ისტორიას.">
 
