@@ -9,6 +9,7 @@
 <!ENTITY     statusCol.label               "État">
 <!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Stockage">
+<!ENTITY     lastAccessedCol.label                "Dernière utilisation">
 <!ENTITY     searchTextboxPlaceHolder             "Rechercher des sites web">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "R">
 <!ENTITY     removeSelected.label          "Supprimer les sites sélectionnés">
@@ -21,4 +22,5 @@
 <!ENTITY     removingSelected.description  "Supprimer les données du site supprimera également les cookies et le contenu web hors connexion. Cette action pourrait vous déconnecter des sites web. Voulez-vous vraiment effectuer ces changements ?">
 <!ENTITY     siteTree2.label               "Les cookies des sites web suivants seront supprimés">
 <!ENTITY     removingDialog1.title         "Suppression des cookies et des données des sites">
+<!ENTITY     removingSelected1.description "Supprimer les cookies et les données de sites peut vous déconnecter de ces sites web. Voulez-vous vraiment effectuer ces modifications ?">
 <!ENTITY     siteTree3.label               "Les cookies et les données associés aux sites suivants seront supprimés">
