@@ -85,6 +85,7 @@
 <!ENTITY  rememberActions.removeCookies.label "কুকিগুলো পৃথকভাবে অপসারণ করতে পারেন">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; আপনার ব্রাউজিং, ডাউনলোড, ফরম এবং অনুসন্ধান ইতিহাস মনে রাখবে।">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; একান্ত ব্রাউজিং এর মতোই সেটিং ব্যবহার করবে, এবং আপনার ব্রাউজিং এর কোন তথ্য সংরক্ষণ করবে না।">
 
