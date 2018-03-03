@@ -77,6 +77,24 @@ startup-prev-session =
     .label = Digan riña na'ninjt ne' rukù ni'inj
 disable-extension =
     .label = Duyichîn' extension
+home-page-header = Ñanj ayi'ì'
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label = { $tabCount ->
+            [one] garasun' pagina nakàa
+           *[other] garasun' pagina nakàa
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = garasun' markadır...
+    .accesskey = B
+restore-default =
+    .label = Nagi'iaj nakà run' Hua nihian ma
+    .accesskey = R
+tabs-group-header = Rakïj ñaj
 
 ## General Section - Language & Appearance
 
