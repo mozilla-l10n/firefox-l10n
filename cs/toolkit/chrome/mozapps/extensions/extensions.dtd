@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Správce doplňků">
 
-<!ENTITY search.placeholder                   "Hledat doplňky">
-
 <!ENTITY search.placeholder2                  "Najít na addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Hledat">
 <!-- LOCALIZATION NOTE (search.commandKey):
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Nebyly nalezeny žádné aktualizace">
 <!ENTITY listEmpty.recentUpdates.label        "Žádný doplněk nebyl aktualizován">
 <!ENTITY listEmpty.findUpdates.label          "Zkontrolovat aktualizace">
-<!ENTITY listEmpty.search.label               "Nepodařilo se najít žádný odpovídající doplněk">
 <!ENTITY listEmpty.button.label               "Zjistěte více informací o doplňcích">
 <!ENTITY installAddonFromFile.label           "Instalovat doplněk ze souboru…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Povolí kontrolu bezpečné aktualizace doplňků">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Hledat">
 <!ENTITY view.discover.label                  "Získání doplňků">
 <!ENTITY view.recentUpdates.label             "Nedávné aktualizace">
 <!ENTITY view.availableUpdates.label          "Dostupné aktualizace">
@@ -171,16 +167,6 @@
 <!ENTITY sort.name.tooltip                    "Seřadit podle názvu">
 <!ENTITY sort.dateUpdated.label               "Poslední aktualizace">
 <!ENTITY sort.dateUpdated.tooltip             "Řadit podle aktualizace">
-<!ENTITY sort.relevance.label                 "Nejlepší shody">
-<!ENTITY sort.relevance.tooltip               "Řadit podle nejlepší shody">
-<!ENTITY sort.price.label                     "Cena">
-<!ENTITY sort.price.tooltip                   "Řadit podle ceny">
-
-<!ENTITY search.filter2.label                 "Hledat:">
-<!ENTITY search.filter2.installed.label       "Mé doplňky">
-<!ENTITY search.filter2.installed.tooltip     "Zobrazí nainstalované doplňky">
-<!ENTITY search.filter2.available.label       "Dostupné doplňky">
-<!ENTITY search.filter2.available.tooltip     "Zobrazí doplňky dostupné k instalaci">
 
 <!ENTITY addon.homepage                       "Domovská stránka">
 <!ENTITY addon.details.label                  "Více">

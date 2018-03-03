@@ -28,6 +28,8 @@
 
 <!ENTITY  languageAndAppearance.label   "Zobrazení a jazyk stránek">
 <!ENTITY  filesAndApplications.label    "Soubory a aplikace">
+
+
 <!ENTITY  browserPrivacy.label          "Nastavení soukromí">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->

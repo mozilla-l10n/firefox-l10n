@@ -7,10 +7,6 @@
 <!ENTITY  blockPopups.label           "Blokovat vyskakovací okna">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsDoNotDisturb.label      "Nerušit mě">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Dokud aplikaci &brandShortName; nerestartujete, žádná oznámení se nezobrazí">
-
 <!ENTITY  popupExceptions.label                                 "Výjimky…">
 <!ENTITY  popupExceptions.accesskey                             "k">
 

@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tomuto serveru jste zablokovali zobrazovat oznámení.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tomuto serveru jste zablokovali ukládání dat natrvalo.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Tomuto serveru jste zablokovali otevírání vyskakovacích oken.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tomuto serveru jste zablokovali přístup k informacím canvasu.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "Tomuto serveru jste zablokovali přístup k MIDI zařízením.">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Žádné synchronizované panely… zatím!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chcete zde vidět vaše panely z ostatních zařízení?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Předvolby synchronizace">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otevřít předvolby synchronizace">
@@ -397,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Přihlásit se ke službě Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Správa zařízení…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobrazit v postranní liště">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Připojit další zařízení">
 
 <!ENTITY appMenuRecentHighlights.label "Vybrané">
@@ -806,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizované panely">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Pro zobrazení panelů z vašich ostatních zařízeních se na nich přihlaste k účtu Firefoxu.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Žádné synchronizované panely… zatím!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Chcete zde vidět vaše panely z ostatních zařízení?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Je potřeba ověřit váš účet.">
@@ -816,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zapněte synchronizaci panelů pro zobrazení seznamu panelů z vašich ostatních zařízení.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Hledat v synchronizovaných panelech">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Připojit další zařízení">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
