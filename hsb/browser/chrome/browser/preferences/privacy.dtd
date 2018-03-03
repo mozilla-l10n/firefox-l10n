@@ -86,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "jednotliwe placki wuprózdnić">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; budźe sej wašu přehladowansku, sćehnjensku, forumarnu a pytansku historiju spomjatkować.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.">
 
