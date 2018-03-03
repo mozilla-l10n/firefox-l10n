@@ -11,7 +11,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (scratchpad.title):
+<!-- LOCALIZATION NOTE (window.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
   -  prototyping, experimentation and convenient scripting.
@@ -23,28 +23,28 @@
 <!ENTITY window.title                 "กระดานทดลอง">
 
 <!ENTITY fileMenu.label               "ไฟล์">
-<!ENTITY fileMenu.accesskey           "F">
+<!ENTITY fileMenu.accesskey           "ฟ">
 
 <!ENTITY newWindowCmd.label           "หน้าต่างใหม่">
-<!ENTITY newWindowCmd.accesskey       "น">
+<!ENTITY newWindowCmd.accesskey       "ห">
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "เปิดไฟล์…">
-<!ENTITY openFileCmd.accesskey        "เ">
+<!ENTITY openFileCmd.accesskey        "ด">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "เปิดล่าสุด">
-<!ENTITY openRecentMenu.accesskey     "ล">
+<!ENTITY openRecentMenu.accesskey     "ด">
 
 <!ENTITY revertCmd.label              "เปลี่ยนกลับ…">
-<!ENTITY revertCmd.accesskey          "t">
+<!ENTITY revertCmd.accesskey          "ล">
 
 <!ENTITY saveFileCmd.label            "บันทึก">
 <!ENTITY saveFileCmd.accesskey        "บ">
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "บันทึกเป็น…">
-<!ENTITY saveFileAsCmd.accesskey      "ป">
+<!ENTITY saveFileAsCmd.accesskey      "น">
 
 <!ENTITY closeCmd.label               "ปิด">
 <!ENTITY closeCmd.key                 "W">
@@ -54,24 +54,25 @@
 <!ENTITY viewMenu.accesskey           "ม">
 
 <!ENTITY lineNumbers.label             "แสดงหมายเลขบรรทัด">
-<!ENTITY lineNumbers.accesskey         "ล">
+<!ENTITY lineNumbers.accesskey         "ส">
 
-<!ENTITY wordWrap.label                "ตัดคำข้อความ">
+<!ENTITY wordWrap.label                "ตัดข้อความ">
 <!ENTITY wordWrap.accesskey            "ต">
 
-<!ENTITY highlightTrailingSpace.accesskey "H">
+<!ENTITY highlightTrailingSpace.label     "เน้นสีช่องว่างต่อท้าย">
+<!ENTITY highlightTrailingSpace.accesskey "น">
 
-<!ENTITY largerFont.label             "ฟอนต์ใหญ่ขึ้น">
-<!ENTITY largerFont.accesskey         "a">
+<!ENTITY largerFont.label             "แบบอักษรใหญ่ขึ้น">
+<!ENTITY largerFont.accesskey         "บ">
 <!ENTITY largerFont.commandkey        "+">
 <!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY smallerFont.label            "ฟอนต์เล็กลง">
-<!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.label            "แบบอักษรเล็กลง">
+<!ENTITY smallerFont.accesskey        "อ">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "ขนาดปกติ">
-<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.accesskey         "ข">
 <!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "แก้ไข">
@@ -121,15 +122,15 @@
 <!ENTITY helpMenuWin.label            "ช่วยเหลือ">
 <!ENTITY helpMenuWin.accesskey        "ช">
 
-<!ENTITY documentationLink.label      "วิธีใช้กระดานทดบน MDN">
-<!ENTITY documentationLink.accesskey  "ก">
+<!ENTITY documentationLink.label      "ความช่วยเหลือของกระดานทดบน MDN">
+<!ENTITY documentationLink.accesskey  "ค">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "ตั้งค่าตัวแปรใหม่">
-<!ENTITY resetContext2.accesskey      "ค">
+<!ENTITY resetContext2.label          "กลับค่าเดิมของตัวแปร">
+<!ENTITY resetContext2.accesskey      "ก">
 
 <!ENTITY reloadAndRun.label           "โหลดใหม่แล้วทำงาน">
 <!ENTITY reloadAndRun.accesskey       "ม">
