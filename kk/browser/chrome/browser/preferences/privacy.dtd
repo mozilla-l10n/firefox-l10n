@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Бақылаудан қорғанысты қолдану">
-<!ENTITY  trackingProtection2.description      "Трекерлер сіздің шолу деректеріңізді вебсайттардан жинайды. Нәтижесінде профиль құрастырылып, сіздің шолу және жеке деректеріңіз негізінде сізге веб құрама көрсетіледі.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Белгілі трекерлерді блоктау үшін Бақылаудан қорғанысты қолдану">
 <!ENTITY  trackingProtection3.description      "Бақылаудан қорғаныс көптеген веб-сайттар арасында сіздің деректеріңізді жинайтын онлайн трекерлерді блоктайды.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Белгілі трекерлерді блоктау үшін Бақылаудан қорғанысты қолдану">
 <!ENTITY  trackingProtectionAlways.label       "Әрқашан">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "к">
 <!ENTITY  trackingProtectionNever.label        "Ешқашан">
 <!ENTITY  trackingProtectionNever.accesskey    "н">
-<!ENTITY  trackingProtectionLearnMore.label    "Көбірек білу">
 <!ENTITY  trackingProtectionLearnMore2.label    "Бақылаудан қорғаныс және сіздің жекелігіңіз туралы көбірек білу">
 <!ENTITY  trackingProtectionExceptions.label   "Ережелерден бөлек…">
 <!ENTITY  trackingProtectionExceptions.accesskey "Е">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Көбірек білу">
 <!ENTITY changeBlockList2.label               "Блоктізімді өзгерту…">
 <!ENTITY changeBlockList2.accesskey           "г">
-
-<!ENTITY  doNotTrack.description        "Сайттарға &quot;Мені бақыламау&quot; сигналын жіберу арқылы сіз өзіңізді бақыламауды қалайтыныңыз туралы хабарлау">
-<!ENTITY  doNotTrack.learnMore.label    "Көбірек білу">
-<!ENTITY  doNotTrack.default.label      "Тек Бақылаудан қорғанысты қолдану кезінде">
-<!ENTITY  doNotTrack.always.label       "Әрқашан">
 
 <!ENTITY  history.label                 "Тарихы">
 <!ENTITY  permissions.label             "Рұқсаттар">
@@ -51,6 +43,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Үшінші жақты cookies файлдарын қабылдау">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ш">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Әрқашан">
 <!ENTITY  acceptThirdParty.never.label    "Ешқашан">
 <!ENTITY  acceptThirdParty.visited.label  "Мен болған жерден ғана">
@@ -85,6 +80,7 @@
 <!ENTITY  rememberActions.removeCookies.label "жеке-жеке cookies файлдарын өшіруге болады">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +88,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Сонымен қатар ">
 <!ENTITY  dontrememberActions.clearHistory.label "тарихты да тазарту">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Тарихты тазарту…">
+<!ENTITY  clearHistoryButton.accesskey   "з">
 
 <!ENTITY  privateBrowsingPermanent2.label "Әрқашан жекелік шолу режимін қолдану">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ж">

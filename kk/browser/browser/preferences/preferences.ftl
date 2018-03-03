@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Әрқашан
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Баптаулар
            *[other] Баптаулар
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } бұл мүмкінді�
 feature-disable-requires-restart = { -brand-short-name } бұл мүмкіндікті сөндіру үшін қайта іске қосылуы керек.
 should-restart-title = { -brand-short-name } қайта қосу
 should-restart-ok = { -brand-short-name } қазір қайта қосу
+cancel-no-restart-button = Бас тарту
 restart-later = Қайта қосуды кейін орындау
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Үй парағыңызды көрсету
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Ағымдағы бетті қолдану
            *[other] Ағымдағы беттерді қолдану
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Баптаулар…
     .accesskey = п
 containers-disable-alert-title = Барлық контейнерлік беттерді жабу керек пе?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Егер сіз контейнерлік беттерді қазір сөндірсеңіз, { $tabCount } контейнерлік бет жабылады. Контейнерлік беттерді сөндіруді шынымен қалайсыз ба?
        *[other] Егер сіз контейнерлік беттерді қазір сөндірсеңіз, { $tabCount } контейнерлік бет жабылады. Контейнерлік беттерді сөндіруді шынымен қалайсыз ба?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] { $tabCount } контейнерлік бетті жабу
        *[other] { $tabCount } контейнерлік бетті жабу
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Файлдарды келесі жерге сақтау
     .accesskey = д
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Таңдау…
            *[other] Қарап шығу…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] Т
            *[other] ш
         }

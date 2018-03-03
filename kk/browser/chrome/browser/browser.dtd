@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Сіз хабарламаларды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Сіз тұрақты деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Сіз canvas деректерін тарқатуды бұл вебсайтқа блоктадыңыз.">
 
+<!ENTITY urlbar.midiBlocked.tooltip              "Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
 
@@ -387,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Синхрондалған беттер жоқ… әзірше!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Басқа құрылғыларыңыздан беттерді осында көргіңіз келе ме?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Синхрондау баптаулары">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Синхрондау баптауларын ашу">
@@ -396,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Синхрондау ішіне кіру">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Құрылғыларды басқару…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Синхрондалған беттер бүйір панелін қарау">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Басқа құрылғыны байланыстыру">
 
 <!ENTITY appMenuRecentHighlights.label "Соңғы Таңдамалылар">
@@ -805,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Синхрондалған беттер">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Firefox-қа басқа құрылғыларда кіріңіз, одан кейін олардың беттерін осында көре аласыз.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Синхрондалған беттер жоқ… әзірше!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Басқа құрылғыларыңыздан беттерді осында көргіңіз келе ме?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін кіріңіз.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Тіркелгіңіз расталуы тиіс.">
@@ -815,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Басқа құрылғыларыңыздан беттер тізімдерін қарау үшін беттерді синхрондауды іске қосыңыз.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Синхрондалған беттерден іздеу">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Басқа құрылғыны байланыстыру">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
