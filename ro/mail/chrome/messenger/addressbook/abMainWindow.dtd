@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Agendă de contacte">
 <!ENTITY blankResultsPaneMessage.label                  "Această agendă afișează contacte doar după o căutare">
 <!ENTITY localResultsOnlyMessage.label                  "Contactele din agendele de la distanță nu sunt afișate înainte de căutare">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fișier">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Creează">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Tipărește agenda de contacte…">
 <!ENTITY printAddressBook.accesskey                     "a">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editare">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Anulează">
@@ -76,17 +76,17 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Proprietăți">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "I">
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Proprietățile agendei de contacte">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Proprietățile contactului">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Proprietățile listei de e-mail">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
-
 <!ENTITY viewMenu.label                                 "Vizualizare">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Bare de unelte">
@@ -117,8 +117,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "a">
 <!ENTITY sortMenu.label                                 "Sortează după">
 <!ENTITY sortMenu.accesskey                             "S">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Unelte">
 <!ENTITY tasksMenu.accesskey                            "t">
 <!ENTITY messengerCmd.label                             "Corespondență și grupuri de discuții">
@@ -134,23 +134,23 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Contact nou">
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Listă nouă">
 <!ENTITY newlistButton.accesskey                        "L">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY showAsDefault.label                            "Director de pornire implicit">
+<!ENTITY showAsDefault.accesskey                        "D">
+<!ENTITY editPropertiesButton.label                     "Editare">
+<!ENTITY propertiesContext.label                        "Proprietăți">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Proprietăți">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Editare contact">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Editare listă">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label                             "Scrie mesaj">
 <!ENTITY newmsgButton.accesskey                         "m">
 <!ENTITY newIM.label                                    "Mesaj instantaneu">
@@ -159,29 +159,29 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Șterge">
 <!ENTITY deleteButton2.accesskey                        "t">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Creează un contact nou în agendă">
 <!ENTITY newlistButton.tooltip                          "Creează o nouă listă">
 <!ENTITY editPropertiesButton.tooltip                   "Editează elementul selectat">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Editați proprietățile agendei de contacte selectată">
+<!ENTITY editContactPropertiesButton.tooltip            "Editați contactul selectat">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Editați lista de mail selectată">
 <!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail">
 <!ENTITY newIM.tooltip                                  "Trimite un mesaj instantaneu sau conversează prin chat">
 <!ENTITY deleteButton2.tooltip                          "Șterge elementul selectat">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Agende de contacte">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nume sau e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Căutare avansată în agendă">
 <!ENTITY quickSearchCmd.key                             "K">
 <!ENTITY searchItem.title "Căutare rapidă">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Agendă de contacte">
 <!ENTITY Addrbook.accesskey                             "n">
 <!ENTITY GeneratedName.label                            "Nume">
@@ -216,9 +216,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Nume fonetic">
 <!ENTITY _PhoneticName.accesskey                        "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Acasă">
 <!ENTITY other.heading                                  "Altele">
@@ -231,11 +231,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Hartă">
 <!ENTITY mapIt.tooltip                                  "Afișează o hartă de pe web cu această adresă">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Fereastră">
 <!ENTITY minimizeWindow.label                           "Minimizează">
 <!ENTITY minimizeWindow.key                             "M">
