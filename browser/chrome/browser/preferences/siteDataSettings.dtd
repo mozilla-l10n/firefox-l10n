@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Instellingen - Websitegegevens">
 
 <!ENTITY     window1.title                 "Instellingen - Cookies en websitegegevens">
+
+<!ENTITY     window2.title                 "Cookies en websitegegevens beheren">
 <!ENTITY     hostCol.label                 "Website">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Cookies">
