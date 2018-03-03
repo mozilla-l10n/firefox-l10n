@@ -63,7 +63,7 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "Lister tous les onglets">
 
-<!ENTITY tabCmd.label "&#xad;Nouvel onglet">
+<!ENTITY tabCmd.label "Nouvel onglet">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -301,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nouvel onglet contextuel">
 <!ENTITY newUserContext.accesskey         "c">
-<!ENTITY newNavigatorCmd.label        "&#xad;Nouvelle fenêtre">
+<!ENTITY newNavigatorCmd.label        "Nouvelle fenêtre">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "u">
 <!ENTITY newPrivateWindow.label     "Nouvelle fenêtre de navigation privée">
