@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Slědowanski škit">
-<!ENTITY  trackingProtection2.description      "Slědowanje je hromadźenje wašich přehladowanskich datow přez wjacore websydła. Slědowanje da so wužiwać, zo by profil tworiło a wobsah na zakładźe wašich přehladowanskich a wosobinskich datow pokazało.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Slědowanski škit wužiwać, zo by znate přesćěhowaki blokował">
 <!ENTITY  trackingProtection3.description      "Slědowanski škit přesćěhowaki online blokuje, kotrež waše přehladowanske daty přez wjacore websydła hromadźa.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Slědowanski škit wužiwać, zo by znate přesćěhowaki blokował">
 <!ENTITY  trackingProtectionAlways.label       "Přeco">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "o">
 <!ENTITY  trackingProtectionNever.label        "Ženje">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "Dalše informacije">
 <!ENTITY  trackingProtectionLearnMore2.label    "Zhońće wjace wo slědowanskim škiće a swojej priwatnosći">
 <!ENTITY  trackingProtectionExceptions.label   "Wuwzaća…">
 <!ENTITY  trackingProtectionExceptions.accesskey "u">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Dalše informacije">
 <!ENTITY changeBlockList2.label               "Blokowansku lisćinu změnić…">
 <!ENTITY changeBlockList2.accesskey           "z">
-
-<!ENTITY  doNotTrack.description        "Websydłam signal “Njeslědować” pósłać, zo nochceće, zo wone was slěduja">
-<!ENTITY  doNotTrack.learnMore.label    "Dalše informacije">
-<!ENTITY  doNotTrack.default.label      "Jenož, hdyž so slědowanski škit wužiwa">
-<!ENTITY  doNotTrack.always.label       "Přeco">
 
 <!ENTITY  history.label                 "Historija">
 <!ENTITY  permissions.label             "Prawa">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Placki třećich poskićowarjow akceptować">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
 
-<!ENTITY  acceptCookies3.label          "Placki a sydłowe daty z websydłow akceptować">
-<!ENTITY  acceptCookies3.accesskey      "P">
+<!ENTITY  acceptCookies4.label          "Placki a sydłowe daty z websydłow akceptować (doporučene)">
+<!ENTITY  acceptCookies4.accesskey      "P">
 
 <!ENTITY  blockCookies.label            "Placki a sydłowe daty blokować (móže zawinować, zo websydła njefunguja)">
 <!ENTITY  blockCookies.accesskey        "b">
@@ -93,6 +85,7 @@
 <!ENTITY  rememberActions.middle.label        " abo ">
 <!ENTITY  rememberActions.removeCookies.label "jednotliwe placki wuprózdnić">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.">
 
