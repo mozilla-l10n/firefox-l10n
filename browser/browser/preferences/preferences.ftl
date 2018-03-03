@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Selalu
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Pengaturan
            *[other] Pengaturan
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } harus dimulai ulang untu
 feature-disable-requires-restart = { -brand-short-name } harus dimulai ulang untuk menonaktifkan fitur ini.
 should-restart-title = Mulai Ulang { -brand-short-name }
 should-restart-ok = Mulai ulang { -brand-short-name } sekarang
+cancel-no-restart-button = Batal
 restart-later = Mulai Ulang Nanti
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Tampilkan beranda Anda
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Gunakan Laman Sekarang
            *[other] Gunakan Semua Laman Berikut
         }
@@ -163,13 +162,11 @@ download-save-to =
     .label = Simpan berkas di
     .accesskey = S
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Pilih…
            *[other] Telusuri…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] P
            *[other] e
         }
