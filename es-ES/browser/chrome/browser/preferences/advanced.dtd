@@ -44,7 +44,6 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "e">
 <!ENTITY collectBrowserErrorsLearnMore.label "Saber más">
 
-<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Saber más">
 
 <!ENTITY networkTab.label                "Red">
@@ -63,7 +62,6 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "a">
 <!ENTITY siteData1.label                 "Cookies y datos del sitio">
 <!ENTITY clearSiteData1.label            "Limpiar datos…">
-<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Configuración…">
 <!ENTITY siteDataSettings.accesskey      "f">
 <!ENTITY siteDataLearnMoreLink.label     "Saber más">
