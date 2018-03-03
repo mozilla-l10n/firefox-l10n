@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "مشكلة في تحميل الصفحة">
 <!ENTITY retry.label "حاوِل مجددًا">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "تعذر الاتصال">
 <!ENTITY connectionFailure.longDesc "<p>بالرغم من أن الموقع يبدو صحيحا، لم يستطع المتصفح الاتصال به.</p><ul><li>ربما الموقع غير متوفر مؤقتًا؟ حاول فيما بعد</li><li>هل لا تستطيع تصفح المواقع الأخرى؟  تأكد من وصلة حاسوبك بالشبكة.</li><li>حاسوبك أو شبكتك محمية بجدار ناري أو وسيط؟ الإعدادات الخطأ قد تتعارض مع تصفح الوِب.</li></ul>">
@@ -86,3 +86,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>يستخدم <span class='hostname'></span> تقنية أمنية عتيقة و عرضة للهجوم. يمكن لمهاجم بسهولة الاطلاع على معلومات تظنها بمأمن. على مدير الموقع إصلاح الخادوم قبل أن يمكنك زيارة الموقع.</p><p>رمز العطل: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "صفحة محجوبة">
