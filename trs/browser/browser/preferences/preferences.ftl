@@ -52,6 +52,31 @@ restart-later = Nayi'i ñun' ne' rukú doj
 ## General Section
 
 startup-header = Gayi'ì
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Ga'nì' da' ni { -brand-short-name } 'ngà Firefox gi'iaj sun nugua'ān
+use-firefox-sync = 'Ngò chrej e: nitaj si 'iaj sun nugua'ān ma. Garasun { -sync-brand-short-name } da' duguchint datos.
+get-started-not-logged-in = Gaui'i' sesión riña { -sync-brand-short-name }…
+get-started-configured = Na'nïn' preferensia { -sync-brand-short-name }
+always-check-default =
+    .label = Natsi' si { -brand-short-name } huin raj sun' da' gaché nu'.
+    .accesskey = o
+is-default = { -brand-short-name } huin sa rajsun' da' gaché nu'
+is-not-default = { -brand-short-name } sè sa rajsùn yitin' da' gaché nu' huin ma
+set-as-my-default-browser =
+    .label = Nagi'iaj yitïn' ma...
+    .accesskey = D
+startup-page = 'Ngà gayi'ì { -brand-short-name }
+    .accesskey = s
+startup-user-homepage =
+    .label = Digan riña ayi'ì si paginat
+startup-blank-page =
+    .label = Digan 'ngo pagina gatsìi
+startup-prev-session =
+    .label = Digan riña na'ninjt ne' rukù ni'inj
+disable-extension =
+    .label = Duyichîn' extension
 
 ## General Section - Language & Appearance
 
