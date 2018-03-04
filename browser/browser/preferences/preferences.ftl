@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Aina
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Asetukset
            *[other] Asetukset
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } täytyy käynnistää uu
 feature-disable-requires-restart = { -brand-short-name } täytyy käynnistää uudestaan, jotta ominaisuus voidaan poistaa käytöstä.
 should-restart-title = Käynnistä { -brand-short-name } uudestaan
 should-restart-ok = Käynnistä { -brand-short-name } uudestaan nyt
+cancel-no-restart-button = Peruuta
 restart-later = Käynnistä uudestaan myöhemmin
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Avaa aloitussivu
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Käytä avointa sivua
            *[other] Käytä avoimia sivuja
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Asetukset…
     .accesskey = e
 containers-disable-alert-title = Suljetaanko kaikki luokitellut välilehdet?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Jos poistat luokitellut välilehdet käytöstä nyt, { $tabCount } luokiteltu välilehti suljetaan. Haluatko varmasti poistaa luokitellut välilehdet käytöstä?
        *[other] Jos poistat luokitellut välilehdet käytöstä nyt, { $tabCount } luokiteltua välilehteä suljetaan. Haluatko varmasti poistaa luokitellut välilehdet käytöstä?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Sulje { $tabCount } luokiteltu välilehti
        *[other] Sulje { $tabCount } luokiteltua välilehteä
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Tallenna kansioon
     .accesskey = T
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Valitse…
            *[other] Selaa…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] V
            *[other] S
         }
