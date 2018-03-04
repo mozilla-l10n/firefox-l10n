@@ -44,8 +44,10 @@
 <!ENTITY  acceptThirdParty2.pre.label     "קבלת עוגיות צד שלישי">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ש">
 
+<!ENTITY  acceptCookies4.label          "קבלת עוגיות ונתוני אתרים מאתרי אינטרנט (מומלץ)">
 <!ENTITY  acceptCookies4.accesskey      "ק">
 
+<!ENTITY  blockCookies.label            "חסימת עוגיות ונתוני אתרים (עשוי לגרום לשיבוש באתרי אינטרנט)">
 <!ENTITY  blockCookies.accesskey        "ח">
 
 <!ENTITY  acceptThirdParty3.pre.label     "קבלת עוגיות ונתוני אתרים מצד שלישי">
@@ -84,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "למחוק עוגיות בודדות">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "‏&brandShortName; יזכור את היסטורית הגלישה, ההורדות, הטפסים והחיפוש שלך.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.">
 
