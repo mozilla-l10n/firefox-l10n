@@ -86,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "çerezleri tek tek kaldırabilirsiniz">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.">
 
