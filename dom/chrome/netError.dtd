@@ -97,3 +97,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> käyttää suojaustekniikkaa, joka on vanhentunut ja haavoittuvainen hyökkäyksille. Hyökkääjä voisi helposti lukea tietoja, joiden luulit olevan suojattuja. Sivuston ylläpitäjän täytyy korjata tämä ongelma ennen kuin voit käydä sivustolla.</p><p>Virhekoodi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Estetty sivu">
