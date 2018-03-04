@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Diogelu Rhag Tracio">
-<!ENTITY  trackingProtection2.description      "Tracio yw casglu eich data pori chi ar draws gwefannau lluosog. Mae modd defnyddio tracio i adeiladu proffil a dangos cynnwys y seiliedig ar eich pori a'ch manylion personol.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Defnyddio Diogelu Tracio i rwystro tracwyr hysbys">
 <!ENTITY  trackingProtection3.description      "Mae Diogelu rhag Tracio yn rhwystro tracwyr ar-lein sy'n casglu eich data pori ar draws amryw o wefannau.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Defnyddiwch Diogelu rhag Tracio i rwystro tracwyr hysbys">
 <!ENTITY  trackingProtectionAlways.label       "Bob tro">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "D">
 <!ENTITY  trackingProtectionNever.label        "Byth">
 <!ENTITY  trackingProtectionNever.accesskey    "y">
-<!ENTITY  trackingProtectionLearnMore.label    "Dysgu rhagor">
 <!ENTITY  trackingProtectionLearnMore2.label    "Dysgwch rhagor am Ddiogelwch rhag Tracio a'ch preifatrwydd">
 <!ENTITY  trackingProtectionExceptions.label   "Eithriadau…">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Dysgu rhagor">
 <!ENTITY changeBlockList2.label               "Newid y Rhestr Rhwystro…">
 <!ENTITY changeBlockList2.accesskey           "N">
-
-<!ENTITY  doNotTrack.description        "Anfon neges “Dim Tracio” at wefannau nad ydych am gael eich tracio">
-<!ENTITY  doNotTrack.learnMore.label    "Dysgu rhagor">
-<!ENTITY  doNotTrack.default.label      "Dim ond pan yn defnyddio Diogelwch rhag Tracio">
-<!ENTITY  doNotTrack.always.label       "Bob tro">
 
 <!ENTITY  history.label                 "Hanes">
 <!ENTITY  permissions.label             "Caniatâd">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Derbyn cwcis trydydd parti">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
 
-<!ENTITY  acceptCookies3.label          "Derbyn cwcis a data gwefan o wefannau">
-<!ENTITY  acceptCookies3.accesskey      "D">
+<!ENTITY  acceptCookies4.label          "Derbyn cwcis a data gwefan gan wefannau (argymell)">
+<!ENTITY  acceptCookies4.accesskey      "D">
 
 <!ENTITY  blockCookies.label            "Rhwystro cwcis a data gwefan (gall achosi i wefannau dorri)">
 <!ENTITY  blockCookies.accesskey        "R">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", neu ">
 <!ENTITY  rememberActions.removeCookies.label "dynnu cwcis unigol">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "Bydd &brandShortName; yn cofio eich hanes pori, llwytho i lawr, ffurflenni a chwilio.">
 
 <!ENTITY  dontrememberDescription.label  "Bydd &brandShortName; yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.">
 
