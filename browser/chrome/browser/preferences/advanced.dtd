@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "p">
 <!ENTITY collectBrowserErrorsLearnMore.label "Pelajari lebih lanjut">
 
+<!ENTITY sendBackloggedCrashReports.label  "Izinkan &brandShortName; mengirim tumpukan laporan kerusakan atas nama Anda">
+<!ENTITY sendBackloggedCrashReports.accesskey "r">
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">
 
 <!ENTITY networkTab.label                "Jaringan">
@@ -51,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proksi Jaringan">
 
 <!ENTITY connectionDesc.label            "Atur cara &brandShortName; tersambung ke Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Pelajari lebih lanjut">
 <!ENTITY connectionSettings.label        "Setelan…">
 <!ENTITY connectionSettings.accesskey    "S">
 
@@ -64,6 +64,7 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "B">
 <!ENTITY siteData1.label                 "Kuki dan Data Situs">
 <!ENTITY clearSiteData1.label            "Hapus Data…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Pengaturan…">
 <!ENTITY siteDataSettings.accesskey      "u">
 <!ENTITY siteDataLearnMoreLink.label     "Pelajari lebih lanjut">

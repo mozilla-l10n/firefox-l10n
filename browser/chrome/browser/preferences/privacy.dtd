@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Perlindungan Pelacakan">
-<!ENTITY  trackingProtection2.description      "Pelacakan adalah kumpulan data penjelajahan Anda dari banyak situs Web. Pelacakan dapat digunakan untuk membentuk profil atau menampilkan konten berbasis pada informasi pribadi dan penjelajahan Anda.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Gunakan Perlindungan Pelacakan untuk memblokir pelacak yang diketahui">
 <!ENTITY  trackingProtection3.description      "Perlindungan pelacakan memblokir pelacak daring yang mengumpulkan data penjelajahan Anda lintas berbagai situs web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Gunakan Perlindungan Pelacakan untuk memblokir pelacak yang diketahui">
 <!ENTITY  trackingProtectionAlways.label       "Selalu">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "p">
 <!ENTITY  trackingProtectionNever.label        "Tidak Pernah">
 <!ENTITY  trackingProtectionNever.accesskey    "P">
-<!ENTITY  trackingProtectionLearnMore.label    "Pelajari lebih lanjut">
 <!ENTITY  trackingProtectionLearnMore2.label    "Pelajari lebih lanjut tentang Perlindungan Pelacakan dan privasi Anda">
 <!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
 <!ENTITY  trackingProtectionExceptions.accesskey "e">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Pelajari lebih lanjut">
 <!ENTITY changeBlockList2.label               "Ubah Daftar Blokir…">
 <!ENTITY changeBlockList2.accesskey           "U">
-
-<!ENTITY  doNotTrack.description        "Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak">
-<!ENTITY  doNotTrack.learnMore.label    "Pelajari lebih lanjut">
-<!ENTITY  doNotTrack.default.label      "Hanya saat menggunakan Perlindungan Pelacakan">
-<!ENTITY  doNotTrack.always.label       "Selalu">
 
 <!ENTITY  history.label                 "Riwayat">
 <!ENTITY  permissions.label             "Hak Akses">
@@ -52,8 +44,12 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Terima kuki dari pihak ketiga">
 <!ENTITY  acceptThirdParty2.pre.accesskey "k">
 
+<!ENTITY  acceptCookies4.accesskey      "T">
 
+<!ENTITY  blockCookies.label            "Blokir kuki dan data situs (bisa menyebabkan situs web macet)">
+<!ENTITY  blockCookies.accesskey        "B">
 
+<!ENTITY  acceptThirdParty3.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Selalu">
 <!ENTITY  acceptThirdParty.never.label    "Tidak Pernah">
 <!ENTITY  acceptThirdParty.visited.label  "Dari yang Pernah Dikunjungi">
@@ -87,6 +83,7 @@
 <!ENTITY  rememberActions.middle.label        " atau ">
 <!ENTITY  rememberActions.removeCookies.label "menghapus kuki satu-persatu">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.">
 
