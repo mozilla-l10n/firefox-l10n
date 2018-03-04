@@ -7,16 +7,12 @@
 <!ENTITY  blockPopups.label           "&quot;Атып шығатын&quot; терезелерді болдырмау">
 <!ENTITY  blockPopups.accesskey       "б">
 
-<!ENTITY  notificationsDoNotDisturb.label      "Мазамды алмаңыз">
-<!ENTITY  notificationsDoNotDisturb.accesskey  "м">
-<!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; қайта іске қосылмағанша, хабарламалар көрсетілмейді">
-
 <!ENTITY  popupExceptions.label                                 "Осыдан бөлек…">
 <!ENTITY  popupExceptions.accesskey                             "О">
 
 <!ENTITY  notificationPermissions.label                         "Хабарламалар">
 <!ENTITY  notificationSettingsButton.label                      "Баптаулар…">
-<!ENTITY  notificationSettingsButton.accesskey                  "о">
+<!ENTITY  notificationSettingsButton.accesskey                  "у">
 <!ENTITY  notificationPermissionsLearnMore.label                "Көбірек білу">
 
 <!ENTITY  locationPermissions.label                             "Орналасу">
@@ -25,11 +21,11 @@
 
 <!ENTITY  cameraPermissions.label                               "Камера">
 <!ENTITY  cameraSettingsButton.label                            "Баптаулар…">
-<!ENTITY  cameraSettingsButton.accesskey                        "к">
+<!ENTITY  cameraSettingsButton.accesskey                        "а">
 
 <!ENTITY  microphonePermissions.label                           "Микрофон">
 <!ENTITY  microphoneSettingsButton.label                        "Баптаулар…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "м">
+<!ENTITY  microphoneSettingsButton.accesskey                    "п">
 
 <!ENTITY  fontsAndColors.label        "Қаріптер мен түстер">
 
