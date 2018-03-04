@@ -64,7 +64,7 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "з">
 <!ENTITY siteData1.label                 "Cookies файлдары және сайт деректері">
 <!ENTITY clearSiteData1.label            "Деректерді өшіру…">
-<!ENTITY clearSiteData1.accesskey        "з">
+<!ENTITY clearSiteData1.accesskey        "ш">
 <!ENTITY siteDataSettings.label          "Баптаулар…">
 <!ENTITY siteDataSettings.accesskey      "п">
 <!ENTITY siteDataLearnMoreLink.label     "Көбірек білу">
