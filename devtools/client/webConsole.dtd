@@ -6,17 +6,17 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-<!ENTITY window.title "वेब कन्सोल">
+<!ENTITY window.title "Web Console">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
-<!ENTITY openURL.label     "लिङ्कलाई नयाँ ट्याबमा खोल्नुहोस्">
+<!ENTITY openURL.label     "Open URL in New Tab">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.label   "नेट">
-<!ENTITY btnPageNet.tooltip "सञ्जाल पहुँच लग गर्नुहोस्">
+<!ENTITY btnPageNet.label   "Net">
+<!ENTITY btnPageNet.tooltip "Log network access">
 <!ENTITY btnPageNet.accesskey "N">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
@@ -30,7 +30,7 @@
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
 <!ENTITY btnPageJS.accesskey  "J">
-<!ENTITY btnPageSecurity.label "सुरक्षा">
+<!ENTITY btnPageSecurity.label "Security">
 <!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
 <!ENTITY btnPageSecurity.accesskey "u">
 
@@ -38,13 +38,13 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-<!ENTITY btnPageLogging.label   "लगिङ">
+<!ENTITY btnPageLogging.label   "Logging">
 <!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "त्रुटिहरू">
-<!ENTITY btnConsoleInfo         "जानकारी">
-<!ENTITY btnConsoleWarnings     "चेतावनीहरू">
-<!ENTITY btnConsoleLog          "लग">
+<!ENTITY btnConsoleErrors       "Errors">
+<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleWarnings     "Warnings">
+<!ENTITY btnConsoleLog          "Log">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reflows">
 
@@ -54,10 +54,10 @@
 <!ENTITY btnServerLogging.label       "Server">
 <!ENTITY btnServerLogging.tooltip     "Log messages received from a web server">
 <!ENTITY btnServerLogging.accesskey   "S">
-<!ENTITY btnServerErrors              "त्रुटिहरू">
-<!ENTITY btnServerInfo                "जानकारी">
-<!ENTITY btnServerWarnings            "चेतावनीहरू">
-<!ENTITY btnServerLog                 "लग">
+<!ENTITY btnServerErrors              "Errors">
+<!ENTITY btnServerInfo                "Info">
+<!ENTITY btnServerWarnings            "Warnings">
+<!ENTITY btnServerLog                 "Log">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
@@ -69,9 +69,9 @@
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "Add-on or Chrome Workers">
 
-<!ENTITY filterOutput.placeholder "फिल्टर निर्गत">
-<!ENTITY btnClear.label        "खाली गर्नुहोस्">
-<!ENTITY btnClear.tooltip      "वेब कन्सोल निर्गत खाली गर्नुहोस्">
+<!ENTITY filterOutput.placeholder "Filter output">
+<!ENTITY btnClear.label        "Clear">
+<!ENTITY btnClear.tooltip      "Clear the Web Console output">
 <!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
@@ -84,7 +84,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "लिङ्कको स्थान प्रतिलिपि गर्नुहोस्">
+<!ENTITY copyURLCmd.label     "Copy Link Location">
 <!ENTITY copyURLCmd.accesskey "a">
 
 <!ENTITY closeCmd.key         "W">
