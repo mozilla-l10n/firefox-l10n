@@ -5,8 +5,11 @@
 <!ENTITY window.title                 "ניקוי נתונים">
 <!ENTITY window.width                 "35em">
 
+<!ENTITY window.description           "ניקוי כל העוגיות ונתוני האתר שמאוחסנים על ידי &brandShortName; עשוי לנתק את המשתמש שלך מאתרים ויסיר תוכן אינטרנט בלתי מקוון. ניקוי נתוני המטמון לא ישפיע על פרטי הכניסה שלך.">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "עוגיות ונתוני אתרים">
+<!ENTITY clearSiteData.accesskey      "נ">
 <!ENTITY clearSiteData.description    "יתכן שהמשתמש שלך יצא מאתרים במקרה של ניקוי">
 
 <!ENTITY clearCache.label             "תוכן אינטרנט במטמון">
@@ -14,5 +17,6 @@
 <!ENTITY clearCache.description       "יאלץ אתרים לטעון מחדש תמונות ונתונים">
 
 <!ENTITY button.cancel.label          "ביטול">
+<!ENTITY button.cancel.accesskey      "ב">
 <!ENTITY button.clear.label           "ניקוי">
 <!ENTITY button.clear.accesskey       "נ">
