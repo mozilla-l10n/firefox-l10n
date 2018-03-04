@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Követés elleni védelem">
-<!ENTITY  trackingProtection2.description      "A követés a webhelyek közti böngészésének adatgyűjtése. A követés profilépítésre, és a böngészési valamint személyes információi alapján megjelenített tartalomhoz használható.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Használja a követésvédelmet az ismert követők blokkolására">
 <!ENTITY  trackingProtection3.description      "A követés elleni védelem blokkolja az online nyomkövetőket, melyek a webhelyek közti böngészési adatait gyűjtik.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Követés elleni védelem használata az ismert követők blokkolására">
 <!ENTITY  trackingProtectionAlways.label       "Mindig">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "C">
 <!ENTITY  trackingProtectionNever.label        "Soha">
 <!ENTITY  trackingProtectionNever.accesskey    "o">
-<!ENTITY  trackingProtectionLearnMore.label    "További tudnivalók">
 <!ENTITY  trackingProtectionLearnMore2.label    "Tudjon meg többet a követés elleni védelemről és az adatvédelemről">
 <!ENTITY  trackingProtectionExceptions.label   "Kivételek…">
 <!ENTITY  trackingProtectionExceptions.accesskey "K">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "További tudnivalók">
 <!ENTITY changeBlockList2.label               "Blokkolási lista módosítása…">
 <!ENTITY changeBlockList2.accesskey           "m">
-
-<!ENTITY  doNotTrack.description        "„Do Not Track” jelzés küldése a webhelyeknek, jelezve, hogy nem szeretné, hogy kövessék">
-<!ENTITY  doNotTrack.learnMore.label    "További információk">
-<!ENTITY  doNotTrack.default.label      "Csak, ha követésvédelmet használ">
-<!ENTITY  doNotTrack.always.label       "Mindig">
 
 <!ENTITY  history.label                 "Előzmények">
 <!ENTITY  permissions.label             "Engedélyek">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Harmadik féltől származó sütik elfogadása">
 <!ENTITY  acceptThirdParty2.pre.accesskey "H">
 
-<!ENTITY  acceptCookies3.label          "Sütik és oldaladatok elfogadása a webhelyektől">
-<!ENTITY  acceptCookies3.accesskey      "e">
+<!ENTITY  acceptCookies4.label          "Sütik és oldaladatok elfogadása a webhelyektől (ajánlott)">
+<!ENTITY  acceptCookies4.accesskey      "e">
 
 <!ENTITY  blockCookies.label            "Sütik és oldaladatok blokkolása (a weboldalak hibáját okozhatja)">
 <!ENTITY  blockCookies.accesskey        "b">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", vagy ">
 <!ENTITY  rememberActions.removeCookies.label "eltávolítani az egyes sütiket">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "A &brandShortName; emlékezni fog a böngészési, letöltési, űrlap és keresési előzményekre.">
 
 <!ENTITY  dontrememberDescription.label  "A &brandShortName; ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.">
 
