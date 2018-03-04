@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "אנו חותרים לספק לך זכות בחירה ולאסוף רק מה שנדרש לנו כדי לספק ולשפר את &brandShortName; לטובת הכלל. אנו תמיד נבקש את רשותך לפני קבלת פרטים אישיים.">
 <!ENTITY dataCollectionPrivacyNotice.label    "הצהרת פרטיות">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "לאפשר ל־&brandShortName; לשלוח דיווחי קריסה ל־Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "ד">
+
 <!ENTITY collectBrowserErrors.label          "לאפשר ל־&brandShortName; לשלוח דיווחי שגיאות בדפדפן (לרבות הודעות שגיאה) אל Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "ד">
 <!ENTITY collectBrowserErrorsLearnMore.label "מידע נוסף">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "לאפשר ל־&brandShortName; לשלוח דיווחי קריסה ל־Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "ד">
+<!ENTITY sendBackloggedCrashReports.label  "לאפשר ל־&brandShortName; לשלוח דיווחי קריסות שנשמרו בשמך">
+<!ENTITY sendBackloggedCrashReports.accesskey "ק">
 <!ENTITY crashReporterLearnMore.label    "מידע נוסף">
 
 <!ENTITY networkTab.label                "רשת">
@@ -50,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "מתווך רשת">
 
 <!ENTITY connectionDesc.label            "הגדרת אופן החיבור של &brandShortName; לאינטרנט">
-
-<!ENTITY connectionSettingsLearnMore.label "מידע נוסף">
 <!ENTITY connectionSettings.label        "הגדרות...">
 <!ENTITY connectionSettings.accesskey    "ה">
 
@@ -61,6 +62,9 @@ available. -->
 <!ENTITY siteData.label                  "נתוני אתר">
 <!ENTITY clearSiteData.label             "מחיקת כל הנתונים">
 <!ENTITY clearSiteData.accesskey         "מ">
+<!ENTITY siteData1.label                 "עוגיות ונתוני אתרים">
+<!ENTITY clearSiteData1.label            "ניקוי נתונים…">
+<!ENTITY clearSiteData1.accesskey        "נ">
 <!ENTITY siteDataSettings.label          "הגדרות…">
 <!ENTITY siteDataSettings.accesskey      "ה">
 <!ENTITY siteDataLearnMoreLink.label     "מידע נוסף">

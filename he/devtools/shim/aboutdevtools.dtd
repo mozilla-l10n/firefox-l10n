@@ -30,16 +30,13 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "פיתוח וניפוי שגיאות WebExtensions, ‏web workers, ‏service workers ועוד באמצעות כלי הפיתוח של Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
           "הפעלת את קיצור הדרך אל כלי הפיתוח. אם שגית, ניתן לסגור לשונית זו.">
-
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage
-          "ניתוח, עריכה וניפוי שגיאות ב־HTML, ב־CSS וב־JavaScript עם כלים כמו המפקח ומנפה השגיאות.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
@@ -57,8 +54,6 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "מידע נוסף על כלי הפיתוח">
 
 <!ENTITY  aboutDevtools.enable.enableButton "הפעלת כלי פיתוח">
-<!ENTITY  aboutDevtools.enable.closeButton "סגירת דף זה">
-
 <!ENTITY  aboutDevtools.enable.closeButton2 "סגירת לשונית זו">
 
 <!ENTITY  aboutDevtools.welcome.title "ברוכים הבאים לכלי הפיתוח של Firefox!">

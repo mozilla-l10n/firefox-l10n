@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "נשלחו">
 <!ENTITY aboutNetworking.received              "התקבלו">
 <!ENTITY aboutNetworking.family                "משפחה">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "כתובות">
 <!ENTITY aboutNetworking.expires               "תפוגה (בשניות)">
 <!ENTITY aboutNetworking.messagesSent          "הודעות שנשלחו">
