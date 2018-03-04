@@ -20,7 +20,7 @@
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
-<!ENTITY moveToNewWindow.label "Tisilöx pa jun K'aka' Tzuwäch">
+<!ENTITY moveToNewWindow.label "Tisilöx pa K'ak'a' Tzuwäch">
 <!ENTITY moveToNewWindow.accesskey "T">
 <!ENTITY newVirtualFolderCmd.label "Xyak Kanoxïk…">
 <!ENTITY newVirtualFolderCmd.accesskey "y">
@@ -45,7 +45,7 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Kaxawäch">
 <!ENTITY saveAsTemplateCmd.accesskey "K">
-<!ENTITY getNewMsgForCmd.label "Kek'ul K'aka' Rutzijol richin">
+<!ENTITY getNewMsgForCmd.label "Kek'ul K'ak'a' Rutzijol">
 <!ENTITY getNewMsgForCmd.accesskey "k">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Ronojel Kib'i' Taqoya'l">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "R">
