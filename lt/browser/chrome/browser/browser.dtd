@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Šioje svetainėje esate užblokavę pranešimus.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Šioje svetainėje esate užblokavę išliekančių duomenų saugojimą.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Šioje svetainėje esate užblokavę iškylančiuosius langus.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Šioje svetainėje esate užblokavę drobės duomenų išgavimą.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "Šioje svetainėje esate užblokavę MIDI naudojimą.">
@@ -388,16 +387,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Nėra sinchronizuotų kortelių… Kol kas!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Norite matyti savo korteles iš kitų įrenginių čia?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Norite čia matyti savo korteles iš kitų įrenginių?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinchronizavimo nuostatos">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Atverti sinchronizavimo nuostatas">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Prisijunkite, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Jūsų paskyra turi būti patvirtinta.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prisijungti prie „Sync“">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Tvarkyti įrenginius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Rodyti sinchronizuotų kortelių parankinę">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Susieti kitą įrenginį">
 
 <!ENTITY appMenuRecentHighlights.label "Paskiausi akcentai">
@@ -806,9 +803,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sinchronizuotos kortelės">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Prisijunkite prie „Firefox“ iš kitų įrenginių, norėdami jų korteles matyti čia.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Nėra sinchronizuotų kortelių… Kol kas!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Norite matyti savo korteles iš kitų įrenginių čia?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Norite čia matyti savo korteles iš kitų įrenginių?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Prisijunkite, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Jūsų paskyra turi būti patvirtinta.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nėra atvirų kortelių">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Atverti „&syncBrand.shortName.label;“ nuostatas">
@@ -816,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Ieškoti tarp sinchronizuotų kortelių">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Susieti kitą įrenginį">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
