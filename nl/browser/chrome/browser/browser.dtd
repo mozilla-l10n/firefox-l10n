@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "U hebt pop-ups voor deze website geblokkeerd.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "U hebt canvas-gegevensextractie voor deze website geblokkeerd.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "U hebt het gebruik van de Adobe Flash-plug-in voor deze website geblokkeerd.">
 <!ENTITY urlbar.midiBlocked.tooltip              "U hebt MIDI-toegang voor deze website geblokkeerd.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geschiedenis tonen">
