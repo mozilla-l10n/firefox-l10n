@@ -120,7 +120,7 @@ available. -->
 <!ENTITY certificateTab.label            "Сертификаттар">
 <!ENTITY certPersonal2.description       "Егерде сервер сіздің жеке сертификатыңызды сұраса">
 <!ENTITY selectCerts.auto                "Мені сұрамай-ақ жіберу">
-<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.auto.accesskey      "с">
 <!ENTITY selectCerts.ask                 "Әрбір ретте cізден сұрау">
 <!ENTITY selectCerts.ask.accesskey       "р">
 <!ENTITY enableOCSP.label                "OCSP жауап беруші серверлерін сертификаттардың ағымдағы дұрыстығы жөнінде сұрау">
