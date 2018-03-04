@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "追蹤保護">
-<!ENTITY  trackingProtection2.description      "「網路追蹤」就是在您瀏覽不同網站時，收集您的上網資料，以用來建立您的個人喜好輪廓，並依照您的瀏覽紀錄與個人資訊來投放廣告。">
-<!ENTITY  trackingProtection2.radioGroupLabel  "使用追蹤保護功能，封鎖已知的追蹤器">
 <!ENTITY  trackingProtection3.description      "追蹤保護功能會封鎖在不同網站間收集您的瀏覽資料的網路追蹤器。">
 <!ENTITY  trackingProtection3.radioGroupLabel  "使用追蹤保護功能，封鎖已知的追蹤器">
 <!ENTITY  trackingProtectionAlways.label       "總是">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "永不">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "詳細資訊">
 <!ENTITY  trackingProtectionLearnMore2.label    "了解有關追蹤保護功能，以及您的隱私權的更多資訊">
 <!ENTITY  trackingProtectionExceptions.label   "例外網站…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "詳細資訊">
 <!ENTITY changeBlockList2.label               "變更封鎖清單…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "傳送 “Do Not Track” 訊號，告訴網站您不想被追蹤">
-<!ENTITY  doNotTrack.learnMore.label    "了解更多">
-<!ENTITY  doNotTrack.default.label      "只在使用追蹤保護功能時">
-<!ENTITY  doNotTrack.always.label       "總是">
 
 <!ENTITY  history.label                 "瀏覽紀錄">
 <!ENTITY  permissions.label             "權限">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "接受來自第三方的 Cookie">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
-<!ENTITY  acceptCookies3.label          "接受網站設定的 Cookie 與網站資料">
-<!ENTITY  acceptCookies3.accesskey      "A">
+<!ENTITY  acceptCookies4.label          "接受網站設定的 Cookie 與網站資料（建議）">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "封鎖 Cookie 與網站資料（可能會造成某些網站運作不正常）">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        "，或 ">
 <!ENTITY  rememberActions.removeCookies.label "清除特定網站設定的 Cookie">
 <!ENTITY  rememberActions.post.label          "。">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; 將記住您的瀏覽、下載、表單填寫與搜尋紀錄。">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; 不會儲存任何瀏覽記錄，如同在隱私瀏覽狀態下執行。">
 
