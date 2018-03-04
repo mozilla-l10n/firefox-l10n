@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Kinuk'samajel taq tz'aqat">
 
-<!ENTITY search.placeholder                   "Kekanöx taq tz'aqat">
-
 <!ENTITY search.placeholder2                  "Tikanöx pa addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Tikanöx">
 <!-- LOCALIZATION NOTE (search.commandKey):
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Majun taq k'exoj ruwäch xe'ilitäj ">
 <!ENTITY listEmpty.recentUpdates.label        "Majun k'ak'a' k'exoj ab'anon chi ke ri taq tz'aqat">
 <!ENTITY listEmpty.findUpdates.label          "Kekanöx taq jaloj">
-<!ENTITY listEmpty.search.label               "Man xe'ilitäj ta taq tz'aqat ri nikixïm ki'">
 <!ENTITY listEmpty.button.label               "Tetamäx ch'aqa' chik chi kij ri taq tz'aqat">
 <!ENTITY installAddonFromFile.label           "Tiyak ri tz'aqat rik'in ri yakb'äl…">
 <!ENTITY installAddonFromFile.accesskey       "T">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Titzij ri ya'öl retal chajinïk richin nik'ex ri tz'aqat">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Tikanöx">
 <!ENTITY view.discover.label                  "Kek'ulutäj ri taq tz'aqat">
 <!ENTITY view.recentUpdates.label             "K'ak'a' taq k'exoj">
 <!ENTITY view.availableUpdates.label          "Taq k'exoj e k'o">
@@ -132,7 +128,7 @@
 <!ENTITY detail.lastupdated.label             "Ruk'isib'äl k'exoj">
 <!ENTITY detail.creator.label                 "Nuk'unel">
 <!ENTITY detail.homepage.label                "Ruxaq tikirib'äl">
-<!ENTITY detail.numberOfDownloads.label       "Taq qasa'n">
+<!ENTITY detail.numberOfDownloads.label       "Taq qasanïk">
 
 <!ENTITY detail.contributions.description     "Ri runuk'unel re tz'aqat re', nuk'utuj chawe chi tato' rik'in rub'anik, rik'in naya' jun ko'öl ato'ik.">
 
@@ -171,16 +167,6 @@
 <!ENTITY sort.name.tooltip                    "Kenuk' chi b'i'aj">
 <!ENTITY sort.dateUpdated.label               "Ruk'isib'äl k'exoj">
 <!ENTITY sort.dateUpdated.tooltip             "Ticholajïx chi ruq'ijul xk'ex">
-<!ENTITY sort.relevance.label                 "Chuq'utz'ib'anem">
-<!ENTITY sort.relevance.tooltip               "Ticholajïx chi ruq'ij">
-<!ENTITY sort.price.label                     "Rajil">
-<!ENTITY sort.price.tooltip                   "Tinuk' chi rajil">
-
-<!ENTITY search.filter2.label                 "Tikanöx:">
-<!ENTITY search.filter2.installed.label       "Taq nutz'aqat">
-<!ENTITY search.filter2.installed.tooltip     "Kek'ut pe ri taq tz'aqat eyakon">
-<!ENTITY search.filter2.available.label       "Taq tz'aqat ri e k'o">
-<!ENTITY search.filter2.available.tooltip     "Kek'ut pe ri taq tz'aqat e k'o richin yeyak">
 
 <!ENTITY addon.homepage                       "Ruxaq tikirib'äl">
 <!ENTITY addon.details.label                  "Ch'aqa' chik">
@@ -256,6 +242,6 @@
 <!ENTITY pluginDeprecation.learnMore "Tetamäx ch'aqa' chik.">
 
 <!ENTITY legacyWarning.showLegacy "Kek'ut pe ri kochin taq k'amal">
-<!ENTITY legacyExtensions.title "Kochin taq k'amaya'l">
+<!ENTITY legacyExtensions.title "Kochin taq K'amal">
 <!ENTITY legacyExtensions.description "Re taq k'amal re' man nikik'äm ta ki' rik'in current &brandShortName; taq rub'eyal richin chi xechuputäj.">
 <!ENTITY legacyExtensions.learnMore "Tetamäx chi kij ri kijaloj taq tzaqät">
