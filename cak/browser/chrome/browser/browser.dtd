@@ -282,7 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Titz'aqatisäx jun ewan tzij richin re Rukanoxik re'…">
 <!ENTITY keywordfield.accesskey       "e">
 
-<!ENTITY downloads.label              "Taq qasa'n">
+<!ENTITY downloads.label              "Taq qasanïk">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Taq qasanïk">

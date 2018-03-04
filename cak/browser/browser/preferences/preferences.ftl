@@ -163,7 +163,7 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Taq Yakb'äl chuqa' taq Chokoy
-download-header = Taq qasa'n
+download-header = Taq qasanïk
 download-save-to =
     .label = Tiyak pa ruyonil
     .accesskey = y

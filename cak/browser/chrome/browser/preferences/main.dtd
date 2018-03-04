@@ -22,7 +22,7 @@
 
 <!ENTITY disableExtension.label    "Tichup ri K'amal">
 
-<!ENTITY downloads.label     "Taq qasa'n">
+<!ENTITY downloads.label     "Taq qasanïk">
 
 <!ENTITY saveTo.label "Tiyak pa ruyonil">
 <!ENTITY saveTo.accesskey "y">
@@ -44,5 +44,3 @@
 <!ENTITY useFirefoxSync.label             "Pixa': Re re' nrokisaj jachon taq ruwäch b'i'aj. Tawokisaj Ximoj richin nakomonij na'oj chi kikojol.">
 <!ENTITY getStarted.notloggedin.label     "Tatz'ib'aj ab'i' pa &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label      "Tijaq &syncBrand.shortName.label; taq rajowab'al">
-
-<!ENTITY e10sEnabled.label                "Titzij ri k'ïy tajin richin &brandShortName;">
