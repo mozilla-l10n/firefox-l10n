@@ -422,7 +422,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "דוח הבריאות של &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "משתף נתונים עם &vendorShortName; על בריאות הדפדפן ועוזר לך להבין את ביצועי הדפדפן שלך">
-<!ENTITY datareporting_abouthr_title "הצגת דוח הבריאות שלי">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "משתף מידע על ביצועים, חומרה, שימוש והתאמות אישיות על הדפדפן שלך עם &vendorShortName; כדי לסייע לנו בשיפור &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; שולח דיווחי קריסות כדי לעזור ל־&vendorShortName; להפוך את הדפדפן שלך ליציב ובטוח יותר">
@@ -454,6 +453,7 @@
 <!ENTITY share_image_failed "לא ניתן לשתף תמונה זו">
 <!ENTITY save_as_pdf "שמירה כ־PDF">
 <!ENTITY print "הדפסה">
+<!ENTITY view_page_source "הצגת מקור הדף">
 <!ENTITY find_in_page "חיפוש בדף">
 <!ENTITY desktop_mode "בקשת אתר שולחני">
 <!ENTITY page "דף">
@@ -485,7 +485,6 @@
 <!ENTITY contextmenu_open_new_tab "פתיחה בלשונית חדשה">
 <!ENTITY contextmenu_open_private_tab "פתיחה בלשונית פרטית">
 <!ENTITY contextmenu_remove "מחיקה">
-<!ENTITY contextmenu_add_to_launcher "הוספה למסך הבית">
 <!ENTITY contextmenu_add_page_shortcut "הוספת קיצור דרך לדף">
 <!ENTITY contextmenu_set_as_homepage "הגדרה כדף הבית">
 <!ENTITY contextmenu_share "שיתוף">
@@ -540,7 +539,6 @@
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "הדף הוסר">
-
 <!ENTITY folder_removed "התיקיה הוסרה">
 
 <!ENTITY bookmark_edit_title "עריכת סימניה">
@@ -814,6 +812,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "‏&brandShortName; לא יעבוד על התקן זה (&formatS1;, &formatS2;). נא להוריד את הגרסה הנכונה, עמכם הסליחה.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "לא ניתן לפתוח את &brandShortName;. נא להתקין מחדש ולנסות שוב.">
+
 <!ENTITY eol_notification_title2 "לא יתקבלו עוד עדכונים עבור &brandShortName;">
 <!ENTITY eol_notification_summary "נא לגעת לקבלת מידע נוסף">
 
@@ -821,8 +822,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; עדכני">
 <!ENTITY whatsnew_notification_summary "מידע על מה שחדש בגרסה זו">
-
-<!ENTITY promotion_add_to_homescreen "הוספה למסך הבית">
 
 <!ENTITY promotion_add_page_shortcut "הוספת קיצור דרך לדף">
 
