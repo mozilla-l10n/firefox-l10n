@@ -1,30 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
   - The Remote Connection window can reached from the "connect…" menuitem
   - in the Web Developer menu.
   - -->
 
+<!ENTITY title      "Connect">
+<!ENTITY header     "Connect to remote device">
+<!ENTITY host       "Host:">
+<!ENTITY port       "Port:">
+<!ENTITY connect    "Connect">
+<!ENTITY connecting "Connecting…">
+<!ENTITY availableAddons "Available remote add-ons:">
+<!ENTITY availableTabs "Available remote tabs:">
+<!ENTITY availableProcesses "Available remote processes:">
+<!ENTITY connectionError "Error:">
+<!ENTITY errorTimeout "Error: connection timeout.">
+<!ENTITY errorRefused "Error: connection refused.">
+<!ENTITY errorUnexpected "Unexpected error.">
 
-<!ENTITY title      "जडान गर्नुहोस्">
-<!ENTITY header     "टाढाको यन्त्रमा जडान गर्नुहोस्">
-<!ENTITY host       "होस्ट:">
-<!ENTITY port       "पोर्ट:">
-<!ENTITY connect    "जडान गर्नुहोस्">
-<!ENTITY connecting "जडान हुँदैछ...">
-<!ENTITY availableAddons "उपलब्धित टाढाको ट्याबहरू:">
-<!ENTITY availableTabs "उपलब्धित टाढाको ट्याबहरूः">
-<!ENTITY availableProcesses "उपलब्धित टाढाको प्रक्रियाहरू:">
-<!ENTITY connectionError "त्रुटि:">
-<!ENTITY errorTimeout "त्रुटि:जडान समय समाप्त।">
-<!ENTITY errorRefused "त्रुटि:जडान अस्वीकार भयो।">
-<!ENTITY errorUnexpected "अनपेक्षित त्रुटि।">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-
-<!ENTITY remoteHelp "यन्त्रले टाढाको यन्त्रहरूलाई डिबग गर्न सक्छ (उदाहरणका लागि Firefox for Android र Firefox OS )। तपाईँले टाढाको यन्त्रमा 'Remote debugging' रोजाइ अन गर्नु भएको छ भन्ने कुरा निश्चित गर्नुहोस्। ">
-<!ENTITY remoteDocumentation "मिसिलीकरण">
-<!ENTITY remoteHelpSuffix "।">
+<!ENTITY remoteHelp "Firefox Developer Tools can debug remote devices (Firefox for Android and Firefox OS, for example). Make sure that you have turned on the ‘Remote debugging’ option in the remote device. For more, see the ">
+<!ENTITY remoteDocumentation "documentation">
+<!ENTITY remoteHelpSuffix ".">
 

@@ -11,7 +11,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (scratchpad.title):
+<!-- LOCALIZATION NOTE (window.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
   -  prototyping, experimentation and convenient scripting.
@@ -20,37 +20,37 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "स्क्र्याचप्याड">
+<!ENTITY window.title                 "Scratchpad">
 
-<!ENTITY fileMenu.label               "फाइल">
+<!ENTITY fileMenu.label               "File">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "नयाँ सञ्झ्याल">
+<!ENTITY newWindowCmd.label           "New Window">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "फाइल खोल्नुहोस्">
+<!ENTITY openFileCmd.label            "Open File…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "हालैको खोल्नुहोस्">
+<!ENTITY openRecentMenu.label         "Open Recent">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "पछाडि फर्कनुहोस्...">
+<!ENTITY revertCmd.label              "Revert…">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "सङ्ग्रह">
+<!ENTITY saveFileCmd.label            "Save">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "यस रूपमा सङ्ग्रह गर्नुहोस्...">
+<!ENTITY saveFileAsCmd.label          "Save As…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "बन्द गर्नुहोस्">
+<!ENTITY closeCmd.label               "Close">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY viewMenu.label               "दृश्य">
+<!ENTITY viewMenu.label               "View">
 <!ENTITY viewMenu.accesskey           "V">
 
 <!ENTITY lineNumbers.label             "Show Line Numbers">
@@ -71,26 +71,26 @@
 <!ENTITY smallerFont.accesskey        "M">
 <!ENTITY smallerFont.commandkey       "-">
 
-<!ENTITY normalSize.label             "साधारण आकार">
+<!ENTITY normalSize.label             "Normal Size">
 <!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
-<!ENTITY editMenu.label               "सम्पादन">
+<!ENTITY editMenu.label               "Edit">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY run.label                    "चलाउनुहोस्">
+<!ENTITY run.label                    "Run">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "निरीक्षण गर्नुहोस्">
+<!ENTITY inspect.label                "Inspect">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "प्रदर्शन गर्नुहोस्">
+<!ENTITY display.label                "Display">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "राम्रो छपाइ">
+<!ENTITY pprint.label                 "Pretty Print">
 <!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 
@@ -100,11 +100,11 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "परिवेश">
-<!ENTITY environmentMenu.accesskey    "n">
+<!ENTITY environmentMenu.label        "Environment">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
-<!ENTITY contentContext.label         "सामग्री">
+<!ENTITY contentContext.label         "Content">
 <!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
@@ -113,15 +113,15 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "ब्राउजर">
+<!ENTITY browserContext.label         "Browser">
 <!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
-<!ENTITY helpMenu.label               "मद्दत">
+<!ENTITY helpMenu.label               "Help">
 <!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "मद्दत">
+<!ENTITY helpMenuWin.label            "Help">
 <!ENTITY helpMenuWin.accesskey        "H">
 
 <!ENTITY documentationLink.label      "Scratchpad Help on MDN">
@@ -131,15 +131,15 @@
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "चलहरू रिसेट गर्नुहोस्">
-<!ENTITY resetContext2.accesskey      "t">
+<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY reloadAndRun.label           "Reload And Run">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "कार्यान्वयन गर्नुहोस्">
-<!ENTITY executeMenu.accesskey        "x">
+<!ENTITY executeMenu.label            "Execute">
+<!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
