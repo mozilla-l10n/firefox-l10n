@@ -44,6 +44,8 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Conocer más">
 
+<!ENTITY sendBackloggedCrashReports.label  "Permitir que &brandShortName; envíe informes de fallos pendientes en su nombre">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Conocer más">
 
 <!ENTITY networkTab.label                "Red">
