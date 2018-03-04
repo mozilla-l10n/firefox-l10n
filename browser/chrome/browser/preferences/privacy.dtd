@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Apsauga nuo stebėjimo">
-<!ENTITY  trackingProtection2.description      "Stebėjimas yra jūsų naršymo duomenų rinkimas daugelyje svetainių. Stebėjimas gali būti panaudotas sudaryti profilį ir rodyti turinį atsižvelgiant į jūsų naršymo bei asmeninę informaciją.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Naudokite apsaugą nuo stebėjimo norėdami užblokuoti žinomus stebėjimo elementus">
-<!ENTITY  trackingProtection3.description      "Apsauga nuo stebėjimo blokuoja stebėjimo elementus, kurie renka jūsų naršymo duomenis daugelyje svetainių.">
+<!ENTITY  trackingProtection3.description      "Apsauga nuo stebėjimo blokuoja stebėjimo elementus, renkančius jūsų naršymo duomenis daugelyje svetainių.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Naudokite apsaugą nuo stebėjimo, norėdami užblokuoti žinomus stebėjimo elementus">
 <!ENTITY  trackingProtectionAlways.label       "Visada">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "T">
 <!ENTITY  trackingProtectionNever.label        "Niekada">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Sužinoti daugiau">
 <!ENTITY  trackingProtectionLearnMore2.label    "Sužinokite daugiau apie apsaugą nuo stebėjimo ir savo privatumą">
 <!ENTITY  trackingProtectionExceptions.label   "Išimtys…">
 <!ENTITY  trackingProtectionExceptions.accesskey "I">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Sužinoti daugiau">
 <!ENTITY changeBlockList2.label               "Keisti blokavimo sąrašą…">
 <!ENTITY changeBlockList2.accesskey           "K">
-
-<!ENTITY  doNotTrack.description        "Siųsti svetainėms „Do Not Track“ signalą, nurodant pageidavimą nebūti sekamiems">
-<!ENTITY  doNotTrack.learnMore.label    "Sužinoti daugiau">
-<!ENTITY  doNotTrack.default.label      "Tik naudojant apsaugą nuo stebėjimo">
-<!ENTITY  doNotTrack.always.label       "Visada">
 
 <!ENTITY  history.label                 "Žurnalas">
 <!ENTITY  permissions.label             "Leidimai">
@@ -52,8 +44,6 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Leisti trečiųjų šalių slapukus">
 <!ENTITY  acceptThirdParty2.pre.accesskey "u">
 
-<!ENTITY  acceptCookies3.label          "Leisti įrašyti slapukus ir svetainių duomenis">
-<!ENTITY  acceptCookies3.accesskey      "L">
 
 <!ENTITY  blockCookies.label            "Neleisti įrašyti slapukų ir svetainių duomenų (gali sutrikti svetainių veikimas)">
 <!ENTITY  blockCookies.accesskey        "N">
@@ -93,6 +83,7 @@
 <!ENTITY  rememberActions.middle.label        " arba ">
 <!ENTITY  rememberActions.removeCookies.label "pašalinti kai kuriuos slapukus">
 <!ENTITY  rememberActions.post.label          ".">
+
 
 <!ENTITY  dontrememberDescription.label  "„&brandShortName;“ visą laiką laikysis privačiojo naršymo seanso nuostatų ir nepildys naršymo žurnalo.">
 
