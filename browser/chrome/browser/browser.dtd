@@ -128,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
 <!ENTITY fxaSignIn.label "Clàraich a-steach gu &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Fosgail roghainnean &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Ath-cheangail ris &syncBrand.shortName.label;">
@@ -229,6 +231,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Stiùirich eadar-theangachadh na duilleige">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Stiùirich cleachdadh de bhathar-bog fo DRM">
 
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Fosgail a’ phanail MIDI">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bhac thu an camara agad air an làrach-lìn seo.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bhac thu am micreofon agad air an làrach-lìn seo.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bhac thu an làrach-lìn seo o bhith a’ co-roinneadh na sgrìn agad.">
@@ -236,8 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bhac thu brathan air an làrach-lìn seo.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bhac thu stòras dàta buan mu choinneamh na làraich-lìn seo.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bhac thu priob-uinneagan air an làrach-lìn seo.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bhac thu às-tharraing dàta canabhais air an làrach-lìn seo.">
+
+<!ENTITY urlbar.midiBlocked.tooltip              "Bhac thu inntrigeadh MIDI air an làrach-lìn seo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Seall an eachdraidh">
 
@@ -382,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Chan eil taba sioncronaichte agad… fhathast!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Roghainnean sioncronachaidh">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Fosgail roghainnean an t-sioncronachaidh">
@@ -391,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Clàraich a-steach gun t-sioncronachadh">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Stiùirich na h-uidheaman…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Seall bàr-taoibh nan tabaichean sioncronaichte">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ceangail uidheam eile ris">
 
 <!ENTITY appMenuRecentHighlights.label "Sàr-roghainn o chionn goirid">
@@ -800,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Tabaichean sioncronaichte">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Clàraich a-steach gu Firefox o na h-uidheaman eile agad gus na tabaichean uapa fhaicinn an-seo.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Chan eil taba sioncronaichte agad… fhathast!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Tha an cunntas agad feumach air dearbhadh.">
@@ -810,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cuir air sioncronachadh nan tabaichean airson cothrom fhaighinn air na tabaichean agad o uidheaman eile.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Lorg am measg nan tabaichean sioncronaichte">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Ceangail uidheam eile ris">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,

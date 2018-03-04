@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Tha sinn ag obair gu cruaidh airson an dà chuid roghainnean a thoirt dhut agus dìreach an dàta a chruinneachadh a dh’fheumas sinn airson &brandShortName; a sholar dhan a h-uile duine agus airson a leasachadh. Iarraidh sinn cead ort uair sam bith ma bhios feum air dàta pearsanta.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Sanas prìobhaideachd">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Leig le &brandShortName; aithisgean mu thuislidhean a chur gu Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Leig le &brandShortName; aithisgean air mearachdan brabhsair (a’ gabhail a-staigh teachdaireachdan mhearachdan) a chur a-null gu Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Barrachd fiosrachaidh">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Leig le &brandShortName; aithisgean mu thuislidhean a chur gu Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Leig le &brandShortName; aithisgean tuislidh a chàirn roimhe as do leth">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Barrachd fiosrachaidh">
 
 <!ENTITY networkTab.label                "Lìonra">
@@ -50,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Progsaidh lìonraidh">
 
 <!ENTITY connectionDesc.label            "Rèitich mar a cheanglas &brandShortName; ris an lìon">
-
-<!ENTITY connectionSettingsLearnMore.label "Barrachd fiosrachaidh">
 <!ENTITY connectionSettings.label        "Roghainnean…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -61,6 +62,9 @@ available. -->
 <!ENTITY siteData.label                  "Dàta na làraich">
 <!ENTITY clearSiteData.label             "Falamhaich an dàta air fad">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteData1.label                 "Briosgaidean is dàta làraichean">
+<!ENTITY clearSiteData1.label            "Falamhaich an dàta...">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Roghainnean…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Barrachd fiosrachaidh">
