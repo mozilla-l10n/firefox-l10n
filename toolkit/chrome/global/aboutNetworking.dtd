@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Жіберілген">
 <!ENTITY aboutNetworking.received              "Алынған">
 <!ENTITY aboutNetworking.family                "Отбасы">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Адрестер">
 <!ENTITY aboutNetworking.expires               "Мерзімі бітеді (секунд)">
 <!ENTITY aboutNetworking.messagesSent          "Жіберілген хабарламалар">
