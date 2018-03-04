@@ -192,8 +192,7 @@ Výsledkom toho je, že pre tento certifikát nie je možné pridať výnimku.">
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> využíva technológiu zabezpečenia, ktorá je zastaraná a zraniteľná voči útokom. Útočník by mohol jednoducho odhaliť informácie, o ktorých ste si mysleli, že sú v bezpečí. Správca webovej stránky ju bude musieť pred jej ďalšou návštevou opraviť.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicyTemp.title "Stránka je zablokovaná">
-<!ENTITY blockedByPolicyTemp.longDesc "<p>Prístup bol zablokovaný vaším administrátorom.</p>">
+<!ENTITY blockedByPolicy.title "Zablokovaná stránka">
 
 <!ENTITY prefReset.longDesc "Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?">
 <!ENTITY prefReset.label "Obnoviť predvolené nastavenia">
