@@ -86,6 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "прибрати персональні куки">
 <!ENTITY  rememberActions.post.label          ".">
 
+<!ENTITY  rememberDescription1.label      "&brandShortName; збереже історію переглядів, завантажень, а також надісланих форм та пошукових запитів.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; буде використовувати ті ж налаштування, що й у приватному режимі, та не буде пам’ятати історію вашого перегляду.">
 
