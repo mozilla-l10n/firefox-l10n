@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Definições - Dados de sites">
 
 <!ENTITY     window1.title                 "Definições - Cookies e dados de sites">
+
+<!ENTITY     window2.title                 "Gerir cookies e dados de sites">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Estado">
 <!ENTITY     cookiesCol.label              "Cookies">
