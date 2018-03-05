@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Apruksi n uẓeṭṭa">
 
 <!ENTITY connectionDesc.label            "Swel tarrayt n tuqqna n &brandShortName; ɣer Internet ">
-
-<!ENTITY connectionSettingsLearnMore.label "Issin ugar">
 <!ENTITY connectionSettings.label        "Iɣewwaṛen…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Iɣewwaṛen…">
 <!ENTITY siteDataSettings.accesskey      "I">
+<!ENTITY siteDataSettings1.label         "Sefrek isefka…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Lmed ugar">
 
 <!-- LOCALIZATION NOTE:
