@@ -77,6 +77,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "網頁內容處理程序">
 
+<!ENTITY aboutSupport.enterprisePolicies "企業政策">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google 金鑰">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service 金鑰">
 

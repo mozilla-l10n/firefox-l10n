@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "網路代理伺服器">
 
 <!ENTITY connectionDesc.label            "設定 &brandShortName; 要如何連到網路">
-
-<!ENTITY connectionSettingsLearnMore.label "了解更多">
 <!ENTITY connectionSettings.label        "設定…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "選項…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "管理資料…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "了解更多">
 
 <!-- LOCALIZATION NOTE:
