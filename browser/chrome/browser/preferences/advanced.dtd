@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy de ret">
 
 <!ENTITY connectionDesc.label            "Configurar cómo o &brandShortName; se connecta ta Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Saber-ne mas">
 <!ENTITY connectionSettings.label        "Configuración…">
 <!ENTITY connectionSettings.accesskey    "o">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "r">
 <!ENTITY siteDataSettings.label          "Parametros…">
 <!ENTITY siteDataSettings.accesskey      "P">
+<!ENTITY siteDataSettings1.label         "Chestionar datos…">
+<!ENTITY siteDataSettings1.accesskey     "C">
 <!ENTITY siteDataLearnMoreLink.label     "Saber-ne mas">
 
 <!-- LOCALIZATION NOTE:
