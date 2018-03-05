@@ -3,9 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ñemboheko - Mba'ekuaarã renda">
+
+
 <!ENTITY     hostCol.label                 "Tenda">
 <!ENTITY     statusCol.label               "Tekotee">
+<!ENTITY     cookiesCol.label              "Kookie">
 <!ENTITY     usageCol.label                "Mbyatyrenda">
+<!ENTITY     lastAccessedCol.label                "Jejuru paha">
 <!ENTITY     searchTextboxPlaceHolder             "Ñanduti renda jeheka">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Jeporavope mboguete">
