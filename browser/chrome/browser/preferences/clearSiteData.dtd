@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "35em">
 
 <!ENTITY window.description           "&brandShortName; saglabāto sīkdatņu dzēšana var pārtraukt jūsu autorizācijas sesijas lapās un aizvākt bezsaistes datus. Kešatmiņas dzēšana autorizāciju lapās neietekmēs.">
-<!ENTITY windowClose.key              "g">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY clearSiteData.label          "Sīkdatnes un lapu dati">
 <!ENTITY clearSiteData.accesskey      "S">
