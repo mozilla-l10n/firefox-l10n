@@ -51,7 +51,7 @@
 <!ENTITY  blockCookies.accesskey        "ป">
 
 <!ENTITY  acceptThirdParty3.pre.label     "ยอมรับคุกกี้และข้อมูลไซต์จากบุคคลที่สาม">
-<!ENTITY  acceptThirdParty3.pre.accesskey "ม">
+<!ENTITY  acceptThirdParty3.pre.accesskey "อ">
 <!ENTITY  acceptThirdParty.always.label   "เสมอ">
 <!ENTITY  acceptThirdParty.never.label    "ไม่เลย">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยมชม">
