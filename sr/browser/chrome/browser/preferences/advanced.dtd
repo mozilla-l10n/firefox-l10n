@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Мрежни прокси">
 
 <!ENTITY connectionDesc.label            "Подешавање начина како се &brandShortName; повезује на интернет">
-
-<!ENTITY connectionSettingsLearnMore.label "Сазнајте више">
 <!ENTITY connectionSettings.label        "Поставке…">
 <!ENTITY connectionSettings.accesskey    "П">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "б">
 <!ENTITY siteDataSettings.label          "Поставке…">
 <!ENTITY siteDataSettings.accesskey      "П">
+<!ENTITY siteDataSettings1.label         "Управљај подацима…">
+<!ENTITY siteDataSettings1.accesskey     "У">
 <!ENTITY siteDataLearnMoreLink.label     "Сазнајте више">
 
 <!-- LOCALIZATION NOTE:

@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Блокирали сте обавештења за овај веб сајт.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Блокирали сте трајно складиштење за овај веб сајт.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Блокирали сте искачуће прозоре за овај веб сајт.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Блокирали сте екстрактовање података слике за овај веб сајт.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Блокирали сте овај веб сајт да користи Adobe Flash прикључак.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Блокирали сте MIDI приступ за овај веб сајт.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историјат">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Нема синхронизованих језичака…">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Поставке синхронизације">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Отвори поставке Sync-а">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Пријави се на Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управљај уређајима…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи траку са син. језичцима">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Повежите други уређај">
 
 <!ENTITY appMenuRecentHighlights.label "Недавно истакнуто">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронизовани језичци">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Пријавите се на Firefox са других уређаја да видите њихове језичке.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Нема синхронизованих језичака…">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Желите да овде видите језичке са осталих уређаја?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Пријавите се да видите листу језичака са других уређаја.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Ваш налог мора бити потврђен.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Укључите синхронизацију језичака да видите листу језичака са других уређаја.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Претражите синхронизоване језичке">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Повежи други уређај">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
