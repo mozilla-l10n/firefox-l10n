@@ -84,8 +84,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "l">
 <!ENTITY copyEmailCmd.label "E-mailadres kopiëren">
 <!ENTITY copyEmailCmd.accesskey "E">
-
-<!-- Copied from charsetMenu.dtd -->
-<!ENTITY charsetMenu2.label            "Tekstcodering">
-<!ENTITY charsetMenu2.accesskey        "c">
-
