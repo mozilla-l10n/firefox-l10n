@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Налаштування - Дані сайтів">
 
 <!ENTITY     window1.title                 "Налаштування - Куки і дані сайтів">
+
+<!ENTITY     window2.title                 "Керувати куками й даними сайту">
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Стан">
 <!ENTITY     cookiesCol.label              "Куки">
