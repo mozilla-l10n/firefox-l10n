@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Nettverksproxy">
 
 <!ENTITY connectionDesc.label            "Still inn korleis &brandShortName; koplar seg til internett">
-
-<!ENTITY connectionSettingsLearnMore.label "Les meir">
 <!ENTITY connectionSettings.label        "Innstillingar…">
 <!ENTITY connectionSettings.accesskey    "I">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "T">
 <!ENTITY siteDataSettings.label          "Innstillingar…">
 <!ENTITY siteDataSettings.accesskey      "I">
+<!ENTITY siteDataSettings1.label         "Handter data…">
+<!ENTITY siteDataSettings1.accesskey     "H">
 <!ENTITY siteDataLearnMoreLink.label     "Les meir">
 
 <!-- LOCALIZATION NOTE:

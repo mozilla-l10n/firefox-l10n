@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Innstillningar - nettsidedata">
 
 <!ENTITY     window1.title                 "Innstillingar - infokapslar og nettsidedata">
+
+<!ENTITY     window2.title                 "Handter infokapslar og nettstaddata">
 <!ENTITY     hostCol.label                 "Nettside">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Infokapslar">
