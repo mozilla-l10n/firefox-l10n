@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protección contra Seguimiento">
-<!ENTITY  trackingProtection2.description      "Lo Seguimiento ye la replega de datos d'a tuya navegación en multiples webs. Puet usar-se lo segimiento pa fer un perfil basau en a suya navegación y la suya información personal y presentar-le contenius basaus en ell.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Usa la Protección contra Seguimiento ta blocar programas de seguimiento conoixius">
 <!ENTITY  trackingProtection3.description      "La protección contra seguimiento bloca los trackers en linia que replegan los tuyos daots de navegación en diferents puestos web.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Usar la protección contra seguimiento pa blocar los trackers conoixius">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "m">
 <!ENTITY  trackingProtectionNever.label        "Nunca">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Saber-ne mas">
 <!ENTITY  trackingProtectionLearnMore2.label    "Conoixe mas sobre la Protección contra seguimiento y la tuya privacidat">
 <!ENTITY  trackingProtectionExceptions.label   "Excepcions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber-ne mas">
 <!ENTITY changeBlockList2.label               "Cambiar la Lista de Bloqueyo…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        'Ninviar a los webs un sinyal de "No seguir" indicando que no quiers que te fagan garra seguimiento'>
-<!ENTITY  doNotTrack.learnMore.label    "Saber-ne mas">
-<!ENTITY  doNotTrack.default.label      "Nomás quan s'use protección contra seguimiento">
-<!ENTITY  doNotTrack.always.label       "Siempre">
 
 <!ENTITY  history.label                 "Historial">
 <!ENTITY  permissions.label             "Permisos">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Accetar cookies de tercers">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 
-<!ENTITY  acceptCookies3.label          "Acceptar cookies y datos d'os puestos web">
-<!ENTITY  acceptCookies3.accesskey      "A">
+<!ENTITY  acceptCookies4.label          "Acceptar las cookies y datos d'o puesto dende pachinas web (recomendau)">
+<!ENTITY  acceptCookies4.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Blocar cookies y datos d'o puest (puede fer que bellas webs no funcionen)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", u ">
 <!ENTITY  rememberActions.removeCookies.label "eliminar bellas cookies">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; recordará la tuya navegación, descargas, formularios y historial de busqueda.">
 
 <!ENTITY  dontrememberDescription.label  "O &brandShortName; ferá servir a mesma configuración que en a navegación privada, y no remerará garra dato d'o suyo historial entre que navega por a Web.">
 
