@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "設定 - 網站資料">
 
 <!ENTITY     window1.title                 "設定 - Cookie 與網站資料">
+
+<!ENTITY     window2.title                 "管理 Cookie 與網站資料">
 <!ENTITY     hostCol.label                 "網站">
 <!ENTITY     statusCol.label               "狀態">
 <!ENTITY     cookiesCol.label              "Cookie">
