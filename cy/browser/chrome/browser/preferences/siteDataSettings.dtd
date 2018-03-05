@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Gosodiadau - Data Gwefan">
 
 <!ENTITY     window1.title                 "Gosodiadau - Cwcis a Data Gwefan">
+
+<!ENTITY     window2.title                 "Rheoli Cwcis a Data Gwefan">
 <!ENTITY     hostCol.label                 "Gwefan">
 <!ENTITY     statusCol.label               "Statws">
 <!ENTITY     cookiesCol.label              "Cwcis">
