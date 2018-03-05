@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proksi Rangkaian">
 
 <!ENTITY connectionDesc.label            "Tentukan cara &brandShortName; menyambung ke Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Ketahui selanjutnya">
 <!ENTITY connectionSettings.label        "Tetapan…">
 <!ENTITY connectionSettings.accesskey    "t">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "u">
 <!ENTITY siteDataSettings.label          "Tetapan…">
 <!ENTITY siteDataSettings.accesskey      "p">
+<!ENTITY siteDataSettings1.label         "Urus Data…">
+<!ENTITY siteDataSettings1.accesskey     "U">
 <!ENTITY siteDataLearnMoreLink.label     "Ketahui selanjutnya">
 
 <!-- LOCALIZATION NOTE:

@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Tetapan - Data Laman">
 
 <!ENTITY     window1.title                 "Tetapan - Kuki dan Data Laman">
+
+<!ENTITY     window2.title                 "Urus Kuki dan Data Laman">
 <!ENTITY     hostCol.label                 "Laman">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Kuki">
