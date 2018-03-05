@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = ಯಾವಾಗಲೂ
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] ಆಯ್ಕೆಗಳು
            *[other] ಆದ್ಯತೆಗಳು
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = ಈ ಸೌಲಭ್ಯವನ್ನು ಸಕ�
 feature-disable-requires-restart = ಈ ಸೌಲಭ್ಯವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು { -brand-short-name } ಅನ್ನು ಮರಳಿ ಆರಂಭಿಸಬೇಕು.
 should-restart-title = { -brand-short-name } ಅನ್ನು ಮರು ಆರಂಭಿಸು
 should-restart-ok = ಈಗ { -brand-short-name } ಮರಳಿ ಆರಂಭಿಸು
+cancel-no-restart-button = ರದ್ದು ಮಾಡು
 restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರ�
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] ಈಗಿನ ಪುಟವನ್ನು ಬಳಸು
            *[other] ಈಗಿನ ಪುಟಗಳನ್ನು ಬಳಸು 
         }
@@ -99,6 +98,9 @@ tabs-group-header = ಟ್ಯಾಬ್‌ಗಳು
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ಇತ್ತೀಚೆಗೆ ಬಳಸಿದ ಟ್ಯಾಬ್‍ಗಳನ್ನು ತಿರುಗಿಕೊಡುತ್ತದೆ
     .accesskey = T
+open-new-link-as-tabs =
+    .label = ಕೊಂಡಿಗಳನ್ನು ಹೊಸ ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆಯುವ ಬದಲು ಹಾಳಯಗಳಲ್ಲಿ ತೆರೆಯಿರಿ
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = ಅನೇಕ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚುವಾಗ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು‍
     .accesskey = m
@@ -154,13 +156,11 @@ download-save-to =
     .label = ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು
     .accesskey = v
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] ಆರಿಸು...
            *[other] ನೋಡು...
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] e
            *[other] o
         }
