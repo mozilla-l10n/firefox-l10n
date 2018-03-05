@@ -12,13 +12,16 @@
   - -->
 
 <!-- LOCALIZATION NOTE (aboutDevtools.headTitle): Text of the title tag for about:devtools -->
+<!ENTITY  aboutDevtools.headTitle "Mboguatahára rembipuru rehegua">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.title): Title of the top about:devtools
   -  section displayed when DevTools are disabled. -->
+<!ENTITY  aboutDevtools.enable.title "Embojuruja Firefox mboguatahára rembipuru">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "Embojuruja Firefox mboguatahára rembipuru eipuru hag̃ua moambuekuaaha mba'epurúpe">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
@@ -43,6 +46,7 @@
 <!ENTITY  aboutDevtools.enable.enableButton "Embojuruja mboguatahára rembipuru">
 <!ENTITY  aboutDevtools.enable.closeButton2 "Emboty ko tendayke">
 
+<!ENTITY  aboutDevtools.welcome.title "¡Tereg̃uahẽporãite Firefox mboguatahára rembipurúpe!">
 
 <!ENTITY  aboutDevtools.newsletter.title "Mozilla Mboguatahára kuatiahai">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
