@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Nätverksproxy">
 
 <!ENTITY connectionDesc.label            "Ange hur &brandShortName; ansluter till Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Läs mer">
 <!ENTITY connectionSettings.label        "Inställningar…">
 <!ENTITY connectionSettings.accesskey    "n">
 
@@ -69,6 +67,7 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "R">
 <!ENTITY siteDataSettings.label          "Inställningar…">
 <!ENTITY siteDataSettings.accesskey      "n">
+<!ENTITY siteDataSettings1.label         "Hantera Data…">
 <!ENTITY siteDataLearnMoreLink.label     "Läs mer">
 
 <!-- LOCALIZATION NOTE:

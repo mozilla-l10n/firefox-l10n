@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Inställningar - Webbplatsdata">
 
 <!ENTITY     window1.title                 "Inställningar - Kakor och webbplatsdata">
+
+<!ENTITY     window2.title                 "Hantera Kakor och Webbplatsdata">
 <!ENTITY     hostCol.label                 "Webbplats">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Kakor">
