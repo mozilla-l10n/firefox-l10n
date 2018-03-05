@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu sitenin bildirim göndermesini engellediniz.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sitenin kalıcı veri depolamasını engellediniz.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bu sitedeki açılır pencereleri engellediniz.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sitenin kanvastan veri ayıklamasını engellediniz.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu web sitesinin Adobe Flash yan uygulamasını kullanmasını engellediniz.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sitenin MIDI erişimini engellediniz.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geçmişi göster">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Henüz eşitlenmiş bir sekme yok.">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Eşitleme Tercihleri">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync tercihlerini aç">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Cihazları yönet…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Kenar çubuğunda göster">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Başka bir cihaz bağla">
 
 <!ENTITY appMenuRecentHighlights.label "Öne çıkanlar">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Eşitlenmiş sekmeler">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Diğer cihazlardaki sekmelerinizi burada görmek için o cihazlardan Firefox’a giriş yapın.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Henüz eşitlenmiş bir sekme yok.">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Hesabınızın doğrulanması gerekiyor.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Diğer cihazlardaki sekmeleri görmek için sekme eşitlemeyi açın.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Eşitlenmiş sekmelerde ara">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Başka bir cihaz bağla">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,

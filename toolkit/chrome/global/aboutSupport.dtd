@@ -75,6 +75,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Web içeriği işlemi">
 
+<!ENTITY aboutSupport.enterprisePolicies "Kurumsal ilkeler">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google anahtarı">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Konum Hizmeti anahtarı">
 

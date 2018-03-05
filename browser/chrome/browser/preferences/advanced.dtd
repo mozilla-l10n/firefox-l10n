@@ -64,8 +64,11 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "ü">
 <!ENTITY siteData1.label                 "Çerezler ve site verileri">
 <!ENTITY clearSiteData1.label            "Verileri temizle…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Ayarlar…">
 <!ENTITY siteDataSettings.accesskey      "r">
+<!ENTITY siteDataSettings1.label         "Verileri yönet…">
+<!ENTITY siteDataSettings1.accesskey     "V">
 <!ENTITY siteDataLearnMoreLink.label     "Daha fazla bilgi al">
 
 <!-- LOCALIZATION NOTE:
