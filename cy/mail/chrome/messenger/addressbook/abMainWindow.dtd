@@ -124,6 +124,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "E-bost a Grwpiau Newyddion">
 <!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Llyfr Cyfeiriadau">
+<!ENTITY addressBookCmd.accesskey                       "l">
+<!ENTITY addressBookCmd.key                             "L">
 <!ENTITY searchAddressesCmd.label                       "Chwilio Cyfeiriadau…">
 <!ENTITY searchAddressesCmd.accesskey                   "C">
 <!ENTITY importCmd.label                                "Mewnforio…">
