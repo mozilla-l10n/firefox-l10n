@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Címjegyzék">
 <!ENTITY blankResultsPaneMessage.label                  "Ez a címjegyzék csak keresés után jelenít meg névjegyeket">
 <!ENTITY localResultsOnlyMessage.label                  "A távoli címjegyzékekből származó névjegyek nem jelennek meg, amíg nem keres rájuk">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fájl">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Új">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Címjegyzék nyomtatása…">
 <!ENTITY printAddressBook.accesskey                     "C">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Szerkesztés">
 <!ENTITY editMenu.accesskey                             "z">
 <!ENTITY undoCmd.label                                  "Visszavonás">
@@ -85,8 +85,8 @@
 <!ENTITY contactPropertiesMenu.accesskey                "P">
 <!ENTITY mailingListPropertiesMenu.label                "Levelezőlista tulajdonságai">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Nézet">
 <!ENTITY viewMenu.accesskey                             "N">
 <!ENTITY viewToolbarsMenu.label                         "Eszköztárak">
@@ -117,13 +117,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "M">
 <!ENTITY sortMenu.label                                 "Rendezés">
 <!ENTITY sortMenu.accesskey                             "R">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Eszközök">
 <!ENTITY tasksMenu.accesskey                            "E">
 <!ENTITY messengerCmd.label                             "Levelező és hírolvasó">
 <!ENTITY messengerCmd.accesskey                         "L">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Címjegyzék">
+<!ENTITY addressBookCmd.accesskey                       "j">
+<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Címek keresése…">
 <!ENTITY searchAddressesCmd.accesskey                   "C">
 <!ENTITY importCmd.label                                "Importálás…">
@@ -134,8 +137,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "B">
 <!ENTITY preferencesCmdUnix.label                       "Beállítások">
 <!ENTITY preferencesCmdUnix.accesskey                   "B">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Új névjegy">
 <!ENTITY newContactButton.accesskey                     "n">
 <!ENTITY newlistButton.label                            "Új lista">
@@ -159,8 +162,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "N">
 <!ENTITY deleteButton2.label                            "Törlés">
 <!ENTITY deleteButton2.accesskey                        "r">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Új névjegy létrehozása">
 <!ENTITY newlistButton.tooltip                          "Egy új lista létrehozása">
 <!ENTITY editPropertiesButton.tooltip                   "A kijelölt elem szerkesztése">
@@ -170,18 +173,18 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Új üzenet létrehozása">
 <!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés">
 <!ENTITY deleteButton2.tooltip                          "A kijelölt elem törlése">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Címjegyzékek">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Név vagy e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Keresés az üzenetekben…">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Gyorskeresés">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Címjegyzék">
 <!ENTITY Addrbook.accesskey                             "C">
 <!ENTITY GeneratedName.label                            "Név">
@@ -216,9 +219,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "C">
 <!ENTITY _PhoneticName.label                            "Fonetikus név">
 <!ENTITY _PhoneticName.accesskey                        "F">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Kapcsolat">
 <!ENTITY home.heading                                   "Otthon">
 <!ENTITY other.heading                                  "Egyéb">
@@ -231,11 +234,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Térkép">
 <!ENTITY mapIt.tooltip                                  "A címhez tartozó térkép megjelenítése a webről">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Ablak">
 <!ENTITY minimizeWindow.label                           "Kis méret">
 <!ENTITY minimizeWindow.key                             "m">
