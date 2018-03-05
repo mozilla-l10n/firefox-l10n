@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Þú hefur lokað á sprettiglugga fyrir þetta vefsvæði.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Þú hefur lokað á að nálgast gluggagögn fyrir þetta vefsvæði.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Þú hefur lokað á að þetta vefsvæði geti notað Adobe Flash viðbót.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sýna sögu">

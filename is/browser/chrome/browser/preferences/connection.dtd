@@ -8,6 +8,8 @@
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Stilla milliþjóna (Proxy) til að tengjast netinu">
+
+<!ENTITY  proxyTitle.label2             "Stilla milliþjóna (Proxy) til að tengjast netinu">
 <!ENTITY  noProxyTypeRadio.label        "Enginn milliþjónn">
 <!ENTITY  noProxyTypeRadio.accesskey    "þ">
 <!ENTITY  systemTypeRadio.label         "Nota milliþjóna stillingar">
