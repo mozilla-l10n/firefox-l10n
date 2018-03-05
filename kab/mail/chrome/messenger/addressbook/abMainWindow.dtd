@@ -124,6 +124,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Tirawt &amp; igrawen n isalen">
 <!ENTITY messengerCmd.accesskey                         "s">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Imedlis n tensa">
+<!ENTITY addressBookCmd.accesskey                       "a">
+<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Nadi tansiwin…">
 <!ENTITY searchAddressesCmd.accesskey                   "d">
 <!ENTITY importCmd.label                                "&amp;Kter…">
