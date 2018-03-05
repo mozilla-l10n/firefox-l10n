@@ -79,6 +79,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Працэсы вэб-кантэнту">
 
+<!ENTITY aboutSupport.enterprisePolicies "Карпаратыўная палітыка">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Ключ Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Ключ Службы вызначэння месцазнаходжання ад Mozilla">
 
