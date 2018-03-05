@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Taq nuk'ulem - Ruxaq ruk'amaya'l tzij">
 
 <!ENTITY     window1.title                 "Taq Nuk'ulem - Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l">
+
+<!ENTITY     window2.title                 "Kenuk'samajïx taq Kaxlanwey chuqa' Rutzij K'amaya'l">
 <!ENTITY     hostCol.label                 "Ruxaq k'amaya'l">
 <!ENTITY     statusCol.label               "Rub'eyal">
 <!ENTITY     cookiesCol.label              "Taq kaxlanwey">

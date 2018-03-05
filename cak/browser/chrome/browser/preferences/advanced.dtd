@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Ruproxi K'amab'ey">
 
 <!ENTITY connectionDesc.label            "Tanuk'samajij ri rub'eyal nok ri &brandShortName; pa k'amaya'l">
-
-<!ENTITY connectionSettingsLearnMore.label "Tetamäx ch'aqa' chik">
 <!ENTITY connectionSettings.label        "Tinuk'…">
 <!ENTITY connectionSettings.accesskey    "n">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "j">
 <!ENTITY siteDataSettings.label          "Tinuk'…">
 <!ENTITY siteDataSettings.accesskey      "n">
+<!ENTITY siteDataSettings1.label         "Kenuk'samajïx Tzij…">
+<!ENTITY siteDataSettings1.accesskey     "K">
 <!ENTITY siteDataLearnMoreLink.label     "Tetamäx ch'aqa' chik">
 
 <!-- LOCALIZATION NOTE:
