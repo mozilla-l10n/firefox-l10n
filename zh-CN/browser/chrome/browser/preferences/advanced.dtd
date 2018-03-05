@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "网络代理">
 
 <!ENTITY connectionDesc.label            "配置 &brandShortName; 如何连接至国际互联网">
-
-<!ENTITY connectionSettingsLearnMore.label "详细了解">
 <!ENTITY connectionSettings.label        "设置…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "设置…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "管理数据…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "详细了解">
 
 <!-- LOCALIZATION NOTE:
