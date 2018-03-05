@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Paramètres - Données de sites">
 
 <!ENTITY     window1.title                 "Paramètres - Cookies et données de sites">
+
+<!ENTITY     window2.title                 "Gestion des cookies et des données de sites">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "État">
 <!ENTITY     cookiesCol.label              "Cookies">
