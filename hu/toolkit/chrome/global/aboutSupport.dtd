@@ -75,6 +75,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Webes tartalomfolyamat">
 
+<!ENTITY aboutSupport.enterprisePolicies "Vállalati házirendek">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google kulcs">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla helymeghatározási szolgáltatás kulcs">
 

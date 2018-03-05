@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Hálózati proxy">
 
 <!ENTITY connectionDesc.label            "A &brandShortName; internetkapcsolatának megadása">
-
-<!ENTITY connectionSettingsLearnMore.label "További tudnivalók">
 <!ENTITY connectionSettings.label        "Beállítások…">
 <!ENTITY connectionSettings.accesskey    "B">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "t">
 <!ENTITY siteDataSettings.label          "Beállítások…">
 <!ENTITY siteDataSettings.accesskey      "B">
+<!ENTITY siteDataSettings1.label         "Adatok kezelése…">
+<!ENTITY siteDataSettings1.accesskey     "A">
 <!ENTITY siteDataLearnMoreLink.label     "További tudnivalók">
 
 <!-- LOCALIZATION NOTE:

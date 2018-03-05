@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Blokkolta az értesítéseket ezen az oldalon.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Blokkolta az állandó adattárolást ezen az oldalon.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokkolta a felugró ablakokat ezen az oldalon.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokkolta a vászonadatok kinyerését ezen az oldalon.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Megtiltotta ennek a webhelynek, hogy az Adobe Flash bővítményt használja.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Blokkolta a MIDI elérést ezen az oldalon.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Előzmények megjelenítése">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Nincs szinkronizált lap… még!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Szeretné a más eszközein megnyitott lapjait itt látni?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Szinkronizálás beállításai">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Szinkronizálási beállítások megnyitása">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Bejelentkezés a Syncbe">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Eszközök kezelése…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Szinkronizált lapok oldalsáv">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Másik eszköz csatlakoztatása">
 
 <!ENTITY appMenuRecentHighlights.label "Friss kiemelések">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Szinkronizált lapok">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Jelentkezzen be a Firefoxba más készülékeiről azok lapjainak itteni megjelenítéséhez.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Nincs szinkronizált lap… még!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Szeretné a más eszközein megnyitott lapjait itt látni?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Jelentkezzen be a más készülékeiről származó lapok listájának megjelenítéséhez.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "A fiókját ellenőrizni kell.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kapcsolja be a lapszinkronizálást a más készülékeiről származó lapok listájának megjelenítéséhez.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Szinkronizált lapok keresése">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Másik eszköz csatlakoztatása">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
