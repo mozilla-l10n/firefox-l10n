@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nos esforzamos en proporcionar opciones y recolectar solamente lo que necesitamos para proveer y mejorar &brandShortName; para todo el mundo. Siempre pedimos permiso antes de recibir información personal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Política de privacidad">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permitir que &brandShortName; envíe reportes de fallos a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Permitir que &brandShortName; envíe reportes de errores (incluyendo mensajes de error) a Mozilla">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Saber más">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Permitir que &brandShortName; envíe reportes de fallos a Mozilla">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Permitir que &brandShortName; envíe los informes de fallos pendientes en tu nombre">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Saber más">
 
 <!ENTITY networkTab.label                "Red">
@@ -50,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy de red">
 
 <!ENTITY connectionDesc.label            "Configurar cómo se conecta &brandShortName; a Internet">
-
-<!ENTITY connectionSettingsLearnMore.label "Saber más">
 <!ENTITY connectionSettings.label        "Configurar…">
 <!ENTITY connectionSettings.accesskey    "C">
 
@@ -61,8 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Datos del sitio">
 <!ENTITY clearSiteData.label             "Eliminar todos los datos">
 <!ENTITY clearSiteData.accesskey         "I">
+<!ENTITY siteData1.label                 "Cookies y datos del sitio">
+<!ENTITY clearSiteData1.label            "Limpiar datos…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Configuraciones…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "Administrar datos…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Aprender más">
 
 <!-- LOCALIZATION NOTE:

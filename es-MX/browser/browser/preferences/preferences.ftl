@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Siempre
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Opciones
            *[other] Preferencias
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } debe reiniciarse para ac
 feature-disable-requires-restart = { -brand-short-name } debe reiniciarse para desactivar esta característica.
 should-restart-title = Reiniciar { -brand-short-name }
 should-restart-ok = Reiniciar { -brand-short-name } ahora
+cancel-no-restart-button = Cancelar
 restart-later = Reiniciar después
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Mostrar tu página de inicio
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Usar página actual
            *[other] Usar páginas actuales
         }
@@ -106,9 +105,7 @@ warn-on-close-multiple-tabs =
     .label = Avisarme al cerrar varias pestañas
     .accesskey = m
 warn-on-open-many-tabs =
-    .label =
-        Avisarme si al abrir muchas pestañas { -brand-short-name } se pueda poner lento
-
+    .label = Avisarme si al abrir muchas pestañas { -brand-short-name } se pueda poner lento
     .accesskey = d
 switch-links-to-new-tabs =
     .label = Al abrir un enlace en una nueva pestaña, cambiar a la pestaña inmediatamente
@@ -124,13 +121,11 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = i
 containers-disable-alert-title = ¿Cerrar todo el contenedor de pestañas?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Si deshabilitas las pestañas contenedoras ahora, { $tabCount } pestaña contenedora se cerrará. ¿Seguro que deseas deshabilitar pestañas contenedoras?
        *[other] Si deshabilitas las pestañas contenedoras ahora, { $tabCount } pestañas contenedoras se cerrarán. ¿Seguro que deseas deshabilitar las pestañas contenedoras?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Cerrar { $tabCount } pestaña contenedora
        *[other] Cerrar { $tabCount } pestañas contenedoras
     }
@@ -173,13 +168,11 @@ download-save-to =
     .label = Guardar automáticamente en
     .accesskey = G
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Elegir…
            *[other] Examinar…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] E
            *[other] x
         }
