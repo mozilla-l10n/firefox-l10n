@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Achustes - Datos d'o puesto">
 
 <!ENTITY     window1.title                 "Achustes - Cookies y datos d'o puesto">
+
+<!ENTITY     window2.title                 "Chestionar las cookies y datos d'o puesto">
 <!ENTITY     hostCol.label                 "Puesto">
 <!ENTITY     statusCol.label               "Estau">
 <!ENTITY     cookiesCol.label              "Cookies">
