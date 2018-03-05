@@ -44,6 +44,7 @@ available. -->
 <!ENTITY collectBrowserErrors.accesskey      "e">
 <!ENTITY collectBrowserErrorsLearnMore.label "Saber más">
 
+<!ENTITY sendBackloggedCrashReports.label  "Permitir que &brandShortName; envíe los informes de fallos pendientes en su nombre">
 <!ENTITY crashReporterLearnMore.label    "Saber más">
 
 <!ENTITY networkTab.label                "Red">
@@ -64,6 +65,7 @@ available. -->
 <!ENTITY clearSiteData1.label            "Limpiar datos…">
 <!ENTITY siteDataSettings.label          "Configuración…">
 <!ENTITY siteDataSettings.accesskey      "f">
+<!ENTITY siteDataSettings1.label         "Administrar datos…">
 <!ENTITY siteDataLearnMoreLink.label     "Saber más">
 
 <!-- LOCALIZATION NOTE:
