@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Nastavení - Data stránek">
 
 <!ENTITY     window1.title                 "Nastavení cookies a dat stránek">
+
+<!ENTITY     window2.title                 "Správa cookies a dat stránek">
 <!ENTITY     hostCol.label                 "Server">
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     cookiesCol.label              "Cookies">

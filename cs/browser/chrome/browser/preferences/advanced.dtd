@@ -67,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "V">
 <!ENTITY siteDataSettings.label          "Nastavení…">
 <!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteDataSettings1.label         "Spravovat data…">
+<!ENTITY siteDataSettings1.accesskey     "S">
 <!ENTITY siteDataLearnMoreLink.label     "Zjistit více">
 
 <!-- LOCALIZATION NOTE:

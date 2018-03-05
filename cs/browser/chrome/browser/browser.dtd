@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Tomuto serveru jste zablokovali otevírání vyskakovacích oken.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tomuto serveru jste zablokovali přístup k informacím canvasu.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Tomuto serveru jste zablokovali používání zásuvného modulu Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tomuto serveru jste zablokovali přístup k MIDI zařízením.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazí historii">
