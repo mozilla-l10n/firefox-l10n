@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Adresnik">
 <!ENTITY blankResultsPaneMessage.label                  "Toś ten adresnik pokazujo kontakty jano pó pytanju">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakty z dalokich adresnikow se njepokazuja, až njepytaśo">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Dataja">
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Nowy">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Adresnik śišćaś…">
 <!ENTITY printAddressBook.accesskey                     "A">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Wobźěłaś">
 <!ENTITY editMenu.accesskey                             "b">
 <!ENTITY undoCmd.label                                  "Slědk wześ">
@@ -85,8 +85,8 @@
 <!ENTITY contactPropertiesMenu.accesskey                "t">
 <!ENTITY mailingListPropertiesMenu.label                "Kakosći rozesćełańskeje lisćiny">
 <!ENTITY mailingListPropertiesMenu.accesskey            "r">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Naglěd">
 <!ENTITY viewMenu.accesskey                             "N">
 <!ENTITY viewToolbarsMenu.label                         "Symbolowe rědki">
@@ -117,13 +117,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "b">
 <!ENTITY sortMenu.label                                 "Sortěrowaś pó">
 <!ENTITY sortMenu.accesskey                             "S">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Rědy">
 <!ENTITY tasksMenu.accesskey                            "R">
 <!ENTITY messengerCmd.label                             "E-mejl a diskusijne kupki">
 <!ENTITY messengerCmd.accesskey                         "E">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Adresnik">
+<!ENTITY addressBookCmd.accesskey                       "a">
+<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Adrese pytaś…">
 <!ENTITY searchAddressesCmd.accesskey                   "A">
 <!ENTITY importCmd.label                                "Importěrowaś…">
@@ -134,8 +137,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "N">
 <!ENTITY preferencesCmdUnix.label                       "Preference">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nowy kontakt">
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Nowa lisćina">
@@ -159,8 +162,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "i">
 <!ENTITY deleteButton2.label                            "Lašowaś">
 <!ENTITY deleteButton2.accesskey                        "L">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Nowy adresnikowy kontakt napóraś">
 <!ENTITY newlistButton.tooltip                          "Nowu lisćinu napóraś">
 <!ENTITY editPropertiesButton.tooltip                   "Wubrany zapisk wobźěłaś">
@@ -170,18 +173,18 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "E-mail pósłaś">
 <!ENTITY newIM.tooltip                                  "Direktnu powěsć pósłaś abo chat">
 <!ENTITY deleteButton2.tooltip                          "Wubrany zapisk lašowaś">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Adresniki">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Mě abo e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "M">
 <!ENTITY advancedButton.tooltip                         "Rozšyrjone pytanje adresow">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Spěšne pytanje">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Adresnik">
 <!ENTITY Addrbook.accesskey                             "A">
 <!ENTITY GeneratedName.label                            "Mě">
@@ -216,9 +219,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "W">
 <!ENTITY _PhoneticName.label                            "Fonetiske mě">
 <!ENTITY _PhoneticName.accesskey                        "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Priwatny">
 <!ENTITY other.heading                                  "Drugi">
@@ -231,11 +234,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Kórtu wótwołaś">
 <!ENTITY mapIt.tooltip                                  "Kórtu toś teje adrese z weba zwobrazniś">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Wokno">
 <!ENTITY minimizeWindow.label                           "Miniměrowaś">
 <!ENTITY minimizeWindow.key                             "m">
