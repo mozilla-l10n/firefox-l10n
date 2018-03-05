@@ -31,9 +31,9 @@
 <!ENTITY propertiesContext.accesskey        "i">
 <!ENTITY abPropertiesContext.label          "Proprietăți">
 <!ENTITY abPropertiesContext.accesskey      "i">
-<!ENTITY editContactContext.label           "Editare contact">
+<!ENTITY editContactContext.label           "Editează contactul">
 <!ENTITY editContactContext.accesskey       "E">
-<!ENTITY editMailingListContext.label       "Editare listă">
+<!ENTITY editMailingListContext.label       "Editează lista">
 <!ENTITY editMailingListContext.accesskey   "E">
 
 <!ENTITY newContactAbContext.label          "Contact nou">

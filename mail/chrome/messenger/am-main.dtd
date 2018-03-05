@@ -41,5 +41,5 @@
 <!ENTITY smtpName.accesskey "T">
 <!ENTITY smtpDefaultServer.label "Folosește serverul implicit">
 
-<!ENTITY smtpServerEdit.label "Editare server SMTP…">
+<!ENTITY smtpServerEdit.label "Editează serverul SMTP…">
 <!ENTITY smtpServerEdit.accesskey "P">
