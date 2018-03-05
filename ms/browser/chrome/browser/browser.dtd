@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah menyekat notifikasi untuk laman web ini.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Anda telah menghalang storan gigih untuk laman web ini.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Anda telah menyekat pop-up untuk laman web ini.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Anda telah menyekat ekstraksi data kanvas untuk laman web ini.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Anda telah menyekat laman web ini daripada menggunakan plugin Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Anda telah menyekat akses MIDI untuk laman web ini.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Papar sejarah">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Tiada tab sync… lagi!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buka Keutamaan Sync">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Urus Peranti…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Papar Bar sisi Sync Tab">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Sambung Peranti Lain">
 
 <!ENTITY appMenuRecentHighlights.label "Serlahan Terkini">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Tab Sync">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Daftar masuk ke Firefox dari peranti anda yang lain untuk melihat tab tersebut di sini.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Tiada tab sync… lagi!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Akaun anda perlu disahkan.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Cari tab yang diselaraskan">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Sambung Peranti Lain">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
