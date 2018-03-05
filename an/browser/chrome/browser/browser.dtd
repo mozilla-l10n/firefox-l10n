@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha blocau las notificacions pa iste puesto web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ha blocau l'almagazenamiento persistent de datos pa iste puesto web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Has blocau las finestras emerchents en este puesto web.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Has blocau la extracción de datos de lienzo pa este puesto web.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Yas blocau este puesto web pa que no pueda fer servir lo plugin Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tiens blocau l'acceso MIDI en esta web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amostrar lo historial">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "No i hai encara pestanyas sincronizadas!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Quiere veyer aquí las pestanyas d'os atros dispositivos?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ubrir preferencias de sincronización">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Dentrar en Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Chestionar los servicios…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Amostrar la barra lateral de Pestanyas Sincronizadas">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Connectar belatro dispositivo">
 
 <!ENTITY appMenuRecentHighlights.label "Destacaus recients">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Pestanyas sincronizadas">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Dentrar en Firefox dende los atros dispositivos pa veyer aquí las suyas pestanyas.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "No i hai encara pestanyas sincronizadas!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Quiere veyer aquí las pestanyas d'os atros dispositivos?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Iniciar la sesión pa veyer una lista d'as pestanyas d'os atros dispositivos.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Fa falta verificar lo tuyo conto.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activar la sincronización de pestanyas pa veyer una lista de pestanyas dende los atros dispositivos.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Mirar pestanyas sincronizadas">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Connectar belatro dispositivo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,

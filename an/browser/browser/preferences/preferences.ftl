@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Siempre
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Opcions
            *[other] Preferencias
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = Ha de reiniciar o { -brand-short-name } ta act
 feature-disable-requires-restart = Ha de reiniciar o { -brand-short-name } ta desactivar ista caracteristica.
 should-restart-title = Reiniciar o { -brand-short-name }
 should-restart-ok = Reiniciar agora lo { -brand-short-name }
+cancel-no-restart-button = Cancelar
 restart-later = Reiniciar mas entabant
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Amostrar la mía pachina d'inicio
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Usar pachina actual
            *[other] Usar pachinas actuals
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Configuración…
     .accesskey = g
 containers-disable-alert-title = Zarrar totas las pestanyas de contenedor?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] Si desactiva agora las pestanyas de contenedor, se zarrará { $tabCount } pestanya de contenedor. Ye seguro de fer-lo?
        *[other] Si desactiva agora las pestanyas de contenedor, se zarrará { $tabCount } pestanyas de contenedor. Ye seguro de fer-lo?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] Zarrar { $tabCount } pestanya de contenedor
        *[other] Zarrar { $tabCount } pestanyas de contenedor
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Alzar os fichers en
     .accesskey = A
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Trigar…
            *[other] Examinar…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] T
            *[other] x
         }
