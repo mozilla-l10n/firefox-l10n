@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title "पूर्वनिर्धारित क्लाइन्ट">
-<!ENTITY defaultClient.intro "यसका लागि पूर्वनिर्धारित क्लाइन्टको रूपमा &brandShortName; प्रयोग गर्नुहोस्">
-
-<!ENTITY email.label "इमेल">
-<!ENTITY newsgroups.label "समाचारसमूह">
-<!ENTITY rss.label "आरएसएस फेड">
-
-<!ENTITY checkOnStartup.label "&brandShortName; सुरु गर्दा सधै यो जाँच सम्पादन गर्नुहोस्">
-<!ENTITY checkOnStartup.accesskey "A">
