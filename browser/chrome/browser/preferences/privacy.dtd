@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Sporingsvern">
-<!ENTITY  trackingProtection2.description      "Sporing er ei innsamling av nettlesardataa dine frå fleire nettsider. Sporing kan brukast til å byggje ein profil, og å vise innhald basert på nettlesinga di og din eigen personlege informasjon.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Bruk sporingsvern til å blokkere kjende sporfølgjarar">
 <!ENTITY  trackingProtection3.description      "Sporingsvernet blokkerer sporfølgjarar på nettet som samlar inn nettleserdataa dine på fleire nettstadar.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Bruk sporingsvern for å blokkere kjende sporfølgjarar">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "B">
 <!ENTITY  trackingProtectionNever.label        "Aldri">
 <!ENTITY  trackingProtectionNever.accesskey    "A">
-<!ENTITY  trackingProtectionLearnMore.label    "Lær meir">
 <!ENTITY  trackingProtectionLearnMore2.label    "Les meir om sporingsvern og ditt personvern">
 <!ENTITY  trackingProtectionExceptions.label   "Unntak…">
 <!ENTITY  trackingProtectionExceptions.accesskey "U">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Les meir">
 <!ENTITY changeBlockList2.label               "Endre blokkeringsliste…">
 <!ENTITY changeBlockList2.accesskey           "b">
-
-<!ENTITY  doNotTrack.description        "Send nettsider eit «Ikkje spor»-signal om at du ikkje vil bli spora">
-<!ENTITY  doNotTrack.learnMore.label    "Les meir">
-<!ENTITY  doNotTrack.default.label      "Berre når eg brukar Sporingsvern">
-<!ENTITY  doNotTrack.always.label       "Alltid">
 
 <!ENTITY  history.label                 "Historikk">
 <!ENTITY  permissions.label             "Løyve">
@@ -52,8 +44,8 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Godta tredjeparts infokapslar">
 <!ENTITY  acceptThirdParty2.pre.accesskey "G">
 
-<!ENTITY  acceptCookies3.label          "Tillat infokapslar og nettsidedata frå nettstadar">
-<!ENTITY  acceptCookies3.accesskey      "a">
+<!ENTITY  acceptCookies4.label          "Tillat infokapslar og nettsidedata frå nettstadar (tilrådd)">
+<!ENTITY  acceptCookies4.accesskey      "T">
 
 <!ENTITY  blockCookies.label            "Blokker infokapslar og nettsidedata frå nettstadar (kan skape feil på nettstaden)">
 <!ENTITY  blockCookies.accesskey        "B">
@@ -93,6 +85,8 @@
 <!ENTITY  rememberActions.middle.label        ", eller ">
 <!ENTITY  rememberActions.removeCookies.label "fjerne enkelte infokapslar">
 <!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  rememberDescription1.label      "&brandShortName; vil lagre informasjon om beøkte nettsider, skjema- og søkjehistorikk.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; vil bruke dei same innstillingane som privat nettlesing og vil ikkje hugse historikk medan du brukar nettet.">
 
