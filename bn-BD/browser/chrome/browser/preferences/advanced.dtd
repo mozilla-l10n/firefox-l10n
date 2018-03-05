@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "নেটওয়ার্ক প্রক্সি">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ইন্টারনেটের সাথে কিভাবে সংযুক্ত হবে তা কনফিগার করুন">
-
-<!ENTITY connectionSettingsLearnMore.label "আরও জানুন">
 <!ENTITY connectionSettings.label        "বৈশিষ্ট্যাবলী...">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -69,6 +67,7 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "সেটিং">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "আরও জানুন">
 
 <!-- LOCALIZATION NOTE:
