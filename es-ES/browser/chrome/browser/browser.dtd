@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Ha bloqueado las ventanas emergentes en este sitio web.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ha bloqueado la extracción de datos de canvas en este sitio web.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Ha impedido que este sitio web utilice el plugin de Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ha bloqueado el acceso al MIDI para este sitio web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
@@ -1008,3 +1009,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Gestione sus complementos haciendo clic <image class='addon-addon-icon'/> en el menú <image class='addon-toolbar-icon'/>.">
