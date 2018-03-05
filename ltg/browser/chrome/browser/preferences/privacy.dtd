@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Izsekuošonys aizsardzeiba">
-<!ENTITY  trackingProtection2.description      "Tracking is the collection of your browsing data across multiple websites. Tracking can be used to build a profile and display content based on your browsing and personal information.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Use Tracking Protection to block known trackers">
 <!ENTITY  trackingProtection3.description      "Izsekošonys aizsardzeiba sytās pret sekōtōjim kas vysaidōs lopōs vōc informaciji par tovu uzvedeibu internetā.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Izmontōt izsekošonys aizsardzeibu, kab bloķeitu zynomūs izsekōtōjus">
 <!ENTITY  trackingProtectionAlways.label       "Vīnmār">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Nikod">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Uzzynojit vairuok">
 <!ENTITY  trackingProtectionLearnMore2.label    "Vaira par izsekōšonys aizsardzeibu un tovu privātumu">
 <!ENTITY  trackingProtectionExceptions.label   "Izjāmumi…">
 <!ENTITY  trackingProtectionExceptions.accesskey "I">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Uzzynojit vairuok">
 <!ENTITY changeBlockList2.label               "Change Block List…">
 <!ENTITY changeBlockList2.accesskey           "C">
-
-<!ENTITY  doNotTrack.description        "Send websites a “Do Not Track” signal that you don’t want to be tracked">
-<!ENTITY  doNotTrack.learnMore.label    "Uzzynojit vairuok">
-<!ENTITY  doNotTrack.default.label      "Tagad izmontojūt izsekuošonys aizsardzeibu">
-<!ENTITY  doNotTrack.always.label       "Vīnmār">
 
 <!ENTITY  history.label                 "Viesture">
 <!ENTITY  permissions.label             "Atļuovis">
@@ -52,8 +44,6 @@
 <!ENTITY  acceptThirdParty2.pre.label     "Pījemt trešū pušu seikdatnes">
 <!ENTITY  acceptThirdParty2.pre.accesskey "P">
 
-<!ENTITY  acceptCookies3.label          "Atļaut cookies un lopys datus nu škārsteikla lopom">
-<!ENTITY  acceptCookies3.accesskey      "A">
 
 <!ENTITY  blockCookies.label            "Aizlīgt cookies un lopys datus (var samaitōt lopys īcarātū darbeibu)">
 <!ENTITY  blockCookies.accesskey        "i">
@@ -94,6 +84,7 @@
 <!ENTITY  rememberActions.removeCookies.label "dzēst atseviškys seikdatnes">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; izmantuots taidus pat īstatiejumus kai privatuos puorlūkuošonys režymā i puorlūkojūt šķārsteiklu nasaglobuos viesturi.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -120,8 +111,8 @@
 <!ENTITY  clearOnCloseSettings.label     "Īstatiejumi…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersLearnMore.label      "Uzzynojit vairuok">
-<!ENTITY  browserContainersEnabled.label        "Enable Container Tabs">
+<!ENTITY  browserContainersLearnMore.label      "Vaira">
+<!ENTITY  browserContainersEnabled.label        "Daslēgt cilņu skreines">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Īstatiejumi...">
 <!ENTITY  browserContainersSettings.accesskey    "i">
