@@ -5,10 +5,13 @@
 <!ENTITY     window.title                  "Ayarlar - Site Verileri">
 
 <!ENTITY     window1.title                 "Ayarlar - Çerezler ve Site Verileri">
+
+<!ENTITY     window2.title                 "Çerezleri ve Site Verilerini Yönet">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Durum">
-<!ENTITY     cookiesCol.label              "Çerezler">
+<!ENTITY     cookiesCol.label              "Çerez">
 <!ENTITY     usageCol.label                "Depolama">
+<!ENTITY     lastAccessedCol.label                "Son kullanım">
 <!ENTITY     searchTextboxPlaceHolder             "Web sitelerinde ara">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "W">
 <!ENTITY     removeSelected.label          "Seçilenleri sil">
