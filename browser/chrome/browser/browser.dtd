@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blockerat notifieringar för denna webbsida.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blockerat beständig lagring för denna webbplats.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blockerat popup-fönster för den här webbplatsen.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blockerat canvas-extrahering för denna webbplats.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blockerat denna webbsida från att använda Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blockerat MIDI-åtkomst för denna webbplats.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Visa historik">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Inga synkroniserade flikar… än!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vill du se dina flikar från andra enheter här?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinställningar">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Öppna synkroniseringsinställningar">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Logga in till Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Hantera enheter…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Visa sidofält Synkade flikar">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Anslut en annan enhet">
 
 <!ENTITY appMenuRecentHighlights.label "Senaste höjdpunkterna">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Synkade Flikar">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Logga in på Firefox från dina andra enheter för att visa deras flikar här.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Inga synkroniserade flikar… än!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vill du se dina flikar från andra enheter här?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Ditt konto behöver verifieras.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fliksynkronisering för att visa en lista med flikar från dina andra enheter.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Sök synkroniserade flikar">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Anslut en annan enhet">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
