@@ -67,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Gosodiadau…">
 <!ENTITY siteDataSettings.accesskey      "G">
+<!ENTITY siteDataSettings1.label         "Rheoli Data…">
+<!ENTITY siteDataSettings1.accesskey     "R">
 <!ENTITY siteDataLearnMoreLink.label     "Dysgu rhagor">
 
 <!-- LOCALIZATION NOTE:
