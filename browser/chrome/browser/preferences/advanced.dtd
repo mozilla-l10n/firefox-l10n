@@ -67,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "ล">
 <!ENTITY siteDataSettings.label          "การตั้งค่า…">
 <!ENTITY siteDataSettings.accesskey      "ต">
+<!ENTITY siteDataSettings1.label         "จัดการข้อมูล…">
+<!ENTITY siteDataSettings1.accesskey     "จ">
 <!ENTITY siteDataLearnMoreLink.label     "เรียนรู้เพิ่มเติม">
 
 <!-- LOCALIZATION NOTE:
