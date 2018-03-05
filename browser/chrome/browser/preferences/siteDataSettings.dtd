@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Nastajenja - sydłowe daty">
 
 <!ENTITY     window1.title                 "Nastajenja - placki a daty sydła">
+
+<!ENTITY     window2.title                 "Placki a sydłowe daty rjadować">
 <!ENTITY     hostCol.label                 "Sydło">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Placki">
