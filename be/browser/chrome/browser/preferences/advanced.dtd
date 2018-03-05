@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Проксі-сервер">
 
 <!ENTITY connectionDesc.label            "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">
-
-<!ENTITY connectionSettingsLearnMore.label "Падрабязней">
 <!ENTITY connectionSettings.label        "Налады…">
 <!ENTITY connectionSettings.accesskey    "л">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "ы">
 <!ENTITY siteDataSettings.label          "Налады…">
 <!ENTITY siteDataSettings.accesskey      "л">
+<!ENTITY siteDataSettings1.label         "Кіраваць дадзенымі…">
+<!ENTITY siteDataSettings1.accesskey     "К">
 <!ENTITY siteDataLearnMoreLink.label     "Даведацца больш">
 
 <!-- LOCALIZATION NOTE:
