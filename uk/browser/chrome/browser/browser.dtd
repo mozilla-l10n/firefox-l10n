@@ -240,9 +240,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ви заблокували сповіщення для цього веб-сайту.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ви заблокували постійне сховище для цього веб-сайту.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ви заблокували виринаючі вікна для цього веб-сайту.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ви заблокували видобування даних canvas для цього веб-сайту.">
 
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Ви заборонили використання Adobe Flash на цьому сайті.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ви заблокували MIDI доступ для цього веб-сайту.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показати історію">
@@ -388,7 +388,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Немає синхронізованих вкладок… поки що!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочете побачити тут свої вкладки з інших пристроїв?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налаштування синхронізації">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Відкрити налаштування синхронізації">
@@ -397,7 +396,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Увійти в Синхронізацію">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Керувати пристроями…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Переглянути бічну панель синхронізованих вкладок">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Під'єднати інший пристрій">
 
 <!ENTITY appMenuRecentHighlights.label "Останнє обране">
@@ -806,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронізовані вкладки">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Увійдіть у Firefox з інших пристроїв, щоб переглядати їх вкладки тут.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Немає синхронізованих вкладок… поки що!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Хочете побачити тут свої вкладки з інших пристроїв?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Ваш обліковий запис потребує підтвердження.">
@@ -816,7 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Увімкніть синхронізацію вкладок для перегляду списку вкладок з інших пристроїв.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Шукати синхронізовані вкладки">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Під'єднати інший пристрій">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,

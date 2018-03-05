@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Проксі-сервер">
 
 <!ENTITY connectionDesc.label            "Налаштуйте параметри з’єднання &brandShortName; з інтернетом">
-
-<!ENTITY connectionSettingsLearnMore.label "Докладніше">
 <!ENTITY connectionSettings.label        "Налаштувати…">
 <!ENTITY connectionSettings.accesskey    "а">
 
@@ -69,6 +67,7 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "С">
 <!ENTITY siteDataSettings.label          "Налаштування…">
 <!ENTITY siteDataSettings.accesskey      "ш">
+<!ENTITY siteDataSettings1.label         "Керувати даними…">
 <!ENTITY siteDataLearnMoreLink.label     "Докладніше">
 
 <!-- LOCALIZATION NOTE:
