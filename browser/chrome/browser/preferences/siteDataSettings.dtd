@@ -5,10 +5,13 @@
 <!ENTITY     window.title                  "Preferencias - Datos del sitio">
 
 <!ENTITY     window1.title                 "Ajustes - Cookies y datos del sitio">
+
+<!ENTITY     window2.title                 "Administrar cookies y datos del sitio">
 <!ENTITY     hostCol.label                 "Sitio">
 <!ENTITY     statusCol.label               "Estado">
 <!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Almacenamiento">
+<!ENTITY     lastAccessedCol.label                "Usado por última vez">
 <!ENTITY     searchTextboxPlaceHolder             "Buscar sitios">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Eliminar seleccionados">
