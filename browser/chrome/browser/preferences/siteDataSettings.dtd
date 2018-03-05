@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Поставке - подаци сајта">
 
 <!ENTITY     window1.title                 "Поставке - колачићи и подаци сајта">
+
+<!ENTITY     window2.title                 "Управљај колачићима и подацима сајта">
 <!ENTITY     hostCol.label                 "Веб сајт">
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     cookiesCol.label              "Колачићи">
