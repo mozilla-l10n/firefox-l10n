@@ -11,7 +11,7 @@
 <!ENTITY highlightAll.label "Evidențiază toate">
 <!ENTITY highlightAll.accesskey "a">
 <!ENTITY highlightAll.tooltiptext "Evidențiază toate aparițiile textului">
-<!ENTITY caseSensitive.label "Majuscule semnificative">
+<!ENTITY caseSensitive.label "Potrivește literele mari și mici">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "Caută cu potrivirea literelor mari și mici">
 <!ENTITY entireWord.label "Cuvinte întregi">
