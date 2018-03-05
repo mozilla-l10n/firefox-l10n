@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "设置 - 站点数据">
 
 <!ENTITY     window1.title                 "设置 - Cookie 和网站数据">
+
+<!ENTITY     window2.title                 "管理 Cookie 和网站数据">
 <!ENTITY     hostCol.label                 "站点">
 <!ENTITY     statusCol.label               "状态">
 <!ENTITY     cookiesCol.label              "Cookie">
