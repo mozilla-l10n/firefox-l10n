@@ -48,18 +48,19 @@
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Chan urrainn dhut, aig an àm seo, seo a chur an comas an dèidh dhut am mìosachan seo a shuidheachadh ann an còmhradh nan roghainnean aige ma dhèiligeas frithealaiche a’ mhìosachain ris an sgeidealachadh.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Chan eil an roghainn seo ri làimh ach ma tha frithealaiche a’ mhìosachain a’ dèiligeadh ris an sgeidealachadh. Ma chuireas tu seo an comas, ceadaichidh seo tilleadh gu sgeidealachadh stannardach a tha stèidhichte air puist-d seach fhàgail aig an fhrithealaiche.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Gabh ris">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Gabh ri cuireadh an tachartais">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Gabh ris a h-uile">
-<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Gabh ris a' chuireadh airson gach aon tachartas dheth">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Gabh ris a’ chuireadh airson gach aon teachd dheth">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Cuir ris">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Cuir an tachartas ris a' mhìosachan">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Diùlt">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Diùlt cuireadh an tachartais">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Diùlt na h-uile">
-<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Diùlt gach cuireadh gun tachartas">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Diùlt gach cuireadh do gach teachd dhen tachartas seo">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Diùlt">
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Diùlt am moladh eile">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Sguab às">
@@ -77,7 +78,7 @@
 <!ENTITY lightning.imipbar.btnTentative.label                               "An dòchas">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Gabh ri cuireadh an tachartais gun chinnt">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Gach aon gun chinnt">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Gabh ri gach cuireadh an tachartais gun chinnt">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Gabh ri gach cuireadh de gach teachd dhen tachartas seo gun chinnt">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Ùraich">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ùraich an tachartas sa mhìosachan">
 <!ENTITY lightning.imipbar.description                                      "Tha cuireadh gu tachartas san teachdaireachd seo.">
