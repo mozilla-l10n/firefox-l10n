@@ -67,7 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "R">
 <!ENTITY siteDataSettings.label          "Inställningar…">
 <!ENTITY siteDataSettings.accesskey      "n">
-<!ENTITY siteDataSettings1.label         "Hantera Data…">
+<!ENTITY siteDataSettings1.label         "Hantera data…">
+<!ENTITY siteDataSettings1.accesskey     "H">
 <!ENTITY siteDataLearnMoreLink.label     "Läs mer">
 
 <!-- LOCALIZATION NOTE:
