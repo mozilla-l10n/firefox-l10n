@@ -240,7 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Paziņuojumu sajimšona nu ituos lopys ir blokeita.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Datu globōšona itymā lopā ir blokeita.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Izlacušū lūku rōdiešona itymā lopā ir aizlīgta.">
-
 <!ENTITY urlbar.canvasBlocked.tooltip            "Datu sajimšona nu ituos lopys canvas ir blokeita.">
 
 <!ENTITY urlbar.midiBlocked.tooltip              "Tu esi aizlīdzs MIDI pīkļuvi itai lopai.">
@@ -302,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fails">
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "New Container Tab">
+<!ENTITY newUserContext.label             "Jauna cilņu skreine">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "Jauns lūgs">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -388,7 +387,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "No synced tabs… yet!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Grybot redzeit cilnes nu cytom sovom īreičom?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinhronizacejis īstatiejumi">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Attaiseit sinhronizacejis īstatiejumus">
@@ -397,7 +395,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Pīsasliegt Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Puorvaļdeit īrīces…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "View Synced Tabs Sidebar">
-
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Daslēgt cytu īreici">
 
 <!ENTITY appMenuRecentHighlights.label "Recent Highlights">
@@ -532,7 +529,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "c">
 <!ENTITY openFrameCmd.label           "Attaiseit ītvoru jaunuo lūgā">
 <!ENTITY openFrameCmd.accesskey       "l">
-<!ENTITY openLinkCmdInContainerTab.label "Open Link in New Container Tab">
+<!ENTITY openLinkCmdInContainerTab.label "Attaiseit saiti jaunā cilņu skreinē">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Ruodeit tikai itū ītvoru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "t">
@@ -806,7 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sinhronizeituos cilnes">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Sign in to Firefox from your other devices to view their tabs here.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "No synced tabs… yet!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Grybot redzeit cilnes nu cytom sovom īreičom?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pīraksteitīs, kab radzāti ite cilnes nu itom īreičom.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "Tovam kontam jōbyun apstyprynōtam.">
@@ -816,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Turn on tab syncing to view a list of tabs from your other devices.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Vaicōt sinhronizietajōs cilnēs">
-
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Daslēgt cytu īreici">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,

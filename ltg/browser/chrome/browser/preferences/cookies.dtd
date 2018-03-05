@@ -14,7 +14,7 @@
 <!ENTITY     props.path.label               "Ceļš:">
 <!ENTITY     props.secure.label             "Syuteits:">
 <!ENTITY     props.expires.label            "Dereiguma termeņš:">
-<!ENTITY     props.container.label          "Container:">
+<!ENTITY     props.container.label          "Skreine:">
 
 <!ENTITY     window.title                   "Seikdatnes">
 <!ENTITY     windowClose.key                "w">
