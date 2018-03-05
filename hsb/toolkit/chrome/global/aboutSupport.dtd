@@ -75,6 +75,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Webwobsahowe procesy">
 
+<!ENTITY aboutSupport.enterprisePolicies "Předewzaćelske prawidła">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Kluč Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Kluč słužby postajenja stejnišća Mozilla">
 

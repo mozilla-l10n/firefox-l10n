@@ -53,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Syćowy proksy">
 
 <!ENTITY connectionDesc.label            "Konfigurować, kak &brandShortName; ma z internetom zwjazać">
-
-<!ENTITY connectionSettingsLearnMore.label "Dalše informacije">
 <!ENTITY connectionSettings.label        "Nastajenja…">
 <!ENTITY connectionSettings.accesskey    "N">
 
@@ -69,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "z">
 <!ENTITY siteDataSettings.label          "Nastajenja…">
 <!ENTITY siteDataSettings.accesskey      "N">
+<!ENTITY siteDataSettings1.label         "Daty zrjadować…">
+<!ENTITY siteDataSettings1.accesskey     "D">
 <!ENTITY siteDataLearnMoreLink.label     "Dalše informacije">
 
 <!-- LOCALIZATION NOTE:
