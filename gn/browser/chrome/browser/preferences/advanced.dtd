@@ -37,12 +37,15 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Roñeha'ã mbarete rome'ẽ hag̃ua jeporavorã ha rombyaty pe roikotevẽva rome'ẽ añoite ha romoĩporãve &brandShortName; arapy tuichakue javépe g̃uarã. Tapiaite rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Marandu Ñemigua">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Emoneĩ &brandShortName; omondóvo marandu'i Mozilla-pe">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+
 <!ENTITY collectBrowserErrors.label          "Emoneĩ &brandShortName; pe omomarandúvo jejavy (oikehápe ñe'ẽmondo jejavy rehegua) Mozilla-pe">
 <!ENTITY collectBrowserErrors.accesskey      "b">
 <!ENTITY collectBrowserErrorsLearnMore.label "Kuaave">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Emoneĩ &brandShortName; omondóvo marandu'i Mozilla-pe">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY sendBackloggedCrashReports.label  "Emoneĩ &brandShortName; omondóvo marandu jejavy rehegua nde rérape">
+<!ENTITY sendBackloggedCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Kuaave">
 
 <!ENTITY networkTab.label                "Ñanduti">
@@ -50,8 +53,6 @@ available. -->
 <!ENTITY networkProxy.label              "Proxy ñanduti rehegua">
 
 <!ENTITY connectionDesc.label            "Emboheko &brandShortName;-ramo; Ñandutípe jeike">
-
-<!ENTITY connectionSettingsLearnMore.label "Kuaave">
 <!ENTITY connectionSettings.label        "Ñemboheko…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -61,8 +62,13 @@ available. -->
 <!ENTITY siteData.label                  "Mba'ekuaarã tenda rehegua">
 <!ENTITY clearSiteData.label             "Embogue opaite mba'ekuaarã">
 <!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteData1.label                 "Kookie ha tenda mbakuaarã">
+<!ENTITY clearSiteData1.label            "Mba'ekuaarã mopotĩ…">
+<!ENTITY clearSiteData1.accesskey        "l">
 <!ENTITY siteDataSettings.label          "Ñemboheko…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "Eñangareko mba'ekuaarãre…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Kuaave">
 
 <!-- LOCALIZATION NOTE:
