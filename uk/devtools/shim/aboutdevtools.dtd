@@ -67,7 +67,7 @@
 <!ENTITY  aboutDevtools.newsletter.privacy.label "Мене влаштовує те, як Mozilla обробляє мої дані згідно з <a class='external' href='https://www.mozilla.org/privacy/'>Політикою приватності</a>.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Підписатись">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Дякуємо!">
-<!ENTITY  aboutDevtools.newsletter.thanks.message "Якщо Ви ще не підтвердили підписку на новини від Mozilla, Вам треба це зробити. Будь ласка, пошукайте нашого листа серед одержаних або позначених як спам.">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "Якщо ви раніше не підтвердили підписку на новини від Mozilla, то вам, можливо, доведеться це зробити. Будь ласка, пошукайте наше повідомлення серед вхідних або небажаних листів.">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 <!ENTITY  aboutDevtools.footer.message "Шукаєте більшого, ніж просто інструменти розробника? Спробуйте браузер Firefox, створений саме для розробників та потреб сучасної розробки.">
