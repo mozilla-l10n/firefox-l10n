@@ -5,6 +5,8 @@
 <!ENTITY     window.title                  "Nastajenja - sedłowe daty">
 
 <!ENTITY     window1.title                 "Nastajenja - cookieje a sedkowe daty">
+
+<!ENTITY     window2.title                 "Cookieje a sedłowe daty zastojaś">
 <!ENTITY     hostCol.label                 "Sedło">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     cookiesCol.label              "Cookieje">
