@@ -67,6 +67,8 @@ available. -->
 <!ENTITY clearSiteData1.accesskey        "ö">
 <!ENTITY siteDataSettings.label          "Stillingar…">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings1.label         "Sýsla með gögn…">
+<!ENTITY siteDataSettings1.accesskey     "M">
 <!ENTITY siteDataLearnMoreLink.label     "Fræðast meira">
 
 <!-- LOCALIZATION NOTE:
