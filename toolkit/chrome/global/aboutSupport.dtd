@@ -78,6 +78,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "ვებშიგთავსის პროცესები">
 
+<!ENTITY aboutSupport.enterprisePolicies "დებულებები კომპანიებისთვის">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google გასაღები">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla მდებარეობის განსაზღვრის გასაღები">
 
