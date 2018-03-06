@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Ferstjoerd">
 <!ENTITY aboutNetworking.received              "Untfongen">
 <!ENTITY aboutNetworking.family                "Famylje">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Adressen">
 <!ENTITY aboutNetworking.expires               "Ferrint (sekonden)">
 <!ENTITY aboutNetworking.messagesSent          "Berjochten ferstjoerd">

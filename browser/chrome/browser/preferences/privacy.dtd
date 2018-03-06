@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Beskerming tsjin folgjen">
-<!ENTITY  trackingProtection2.description      "Folgjen is it sammeljen fan jo sneupgegevens op mear websites. Folgjen kin brûkt wurde om in profyl op te bouwen en ynhâld wer te jaan op basis fan jo persoanlike en sneupgegevens.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Beskerming tsjin folgjen brûke om bekende folgers te blokkearjen">
 <!ENTITY  trackingProtection3.description      "Beskerming tsjin folgjen blokkearret online trackers dy't op mear websites jo surfgegevens sammelje.">
 <!ENTITY  trackingProtection3.radioGroupLabel  "Beskerming tsjin folgjen brûke om bekende folgers te blokkearjen">
 <!ENTITY  trackingProtectionAlways.label       "Altyd">
@@ -13,7 +11,6 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "r">
 <!ENTITY  trackingProtectionNever.label        "Nea">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
-<!ENTITY  trackingProtectionLearnMore.label    "Mear ynfo">
 <!ENTITY  trackingProtectionLearnMore2.label    "Lês mear oer online folgjen en jo privacy">
 <!ENTITY  trackingProtectionExceptions.label   "Utsûnderingen…">
 <!ENTITY  trackingProtectionExceptions.accesskey "i">
@@ -24,11 +21,6 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Mear ynfo">
 <!ENTITY changeBlockList2.label               "Blokkearlist wizigje…">
 <!ENTITY changeBlockList2.accesskey           "B">
-
-<!ENTITY  doNotTrack.description        "Websites in ‘Net folgje’-sinjaal stjoere om litte te witten dat jo net folge wurde wolle">
-<!ENTITY  doNotTrack.learnMore.label    "Mear ynfo">
-<!ENTITY  doNotTrack.default.label      "Allinnich by gebrûk fan Beskerming tsjin folgjen">
-<!ENTITY  doNotTrack.always.label       "Altyd">
 
 <!ENTITY  history.label                 "Skiednis">
 <!ENTITY  permissions.label             "Tastimmingen">
@@ -51,6 +43,9 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "Cookies fan tredden akseptearje">
 <!ENTITY  acceptThirdParty2.pre.accesskey "t">
+
+
+
 <!ENTITY  acceptThirdParty.always.label   "Altyd">
 <!ENTITY  acceptThirdParty.never.label    "Nea">
 <!ENTITY  acceptThirdParty.visited.label  "Fan besochte">
@@ -85,6 +80,7 @@
 <!ENTITY  rememberActions.removeCookies.label "yndividuele cookies fuortsmite">
 <!ENTITY  rememberActions.post.label          ".">
 
+
 <!ENTITY  dontrememberDescription.label  "&brandShortName; sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
@@ -92,6 +88,9 @@
 <!ENTITY  dontrememberActions.pre.label          "Jo wolle miskien ek ">
 <!ENTITY  dontrememberActions.clearHistory.label "alle aktuele skiednis wiskje">
 <!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  clearHistoryButton.label       "Skiednis wiskje…">
+<!ENTITY  clearHistoryButton.accesskey   "s">
 
 <!ENTITY  privateBrowsingPermanent2.label "Altyd de priveenavigaasje brûke">
 <!ENTITY  privateBrowsingPermanent2.accesskey "P">
