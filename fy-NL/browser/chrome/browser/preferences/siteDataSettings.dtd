@@ -5,10 +5,13 @@
 <!ENTITY     window.title                  "Ynstellingen – Websitegegevens">
 
 <!ENTITY     window1.title                 "Ynstellingen - Cookies en websitegegevens">
+
+<!ENTITY     window2.title                 "Cookies en websitegegevens beheare">
 <!ENTITY     hostCol.label                 "Website">
 <!ENTITY     statusCol.label               "Steat">
 <!ENTITY     cookiesCol.label              "Cookies">
 <!ENTITY     usageCol.label                "Unthâld">
+<!ENTITY     lastAccessedCol.label                "Lêste gebrûk">
 <!ENTITY     searchTextboxPlaceHolder             "Websites trochsykje">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "W">
 <!ENTITY     removeSelected.label          "Selektearre fuortsmite">

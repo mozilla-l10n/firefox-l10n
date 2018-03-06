@@ -9,8 +9,7 @@ do-not-track-option-default =
 do-not-track-option-always =
     .label = Altyd
 pref-page =
-    .title =
-        { PLATFORM() ->
+    .title = { PLATFORM() ->
             [windows] Opsjes
            *[other] Opsjes
         }
@@ -47,6 +46,7 @@ feature-enable-requires-restart = { -brand-short-name } moat opnij starte om diz
 feature-disable-requires-restart = { -brand-short-name } moat opnij starte om dizze funksje út te skeakeljen.
 should-restart-title = { -brand-short-name } opnij starte
 should-restart-ok = { -brand-short-name } no opnij starte
+cancel-no-restart-button = Annulearje
 restart-later = Letter opnij starte
 
 ## General Section
@@ -83,8 +83,7 @@ home-page-header = Jo startside toane
 # standard CLDR forms, or only use the form for [other] if both strings should
 # be identical.
 use-current-pages =
-    .label =
-        { $tabCount ->
+    .label = { $tabCount ->
             [1] Aktuele side brûke
            *[other] Aktuele siden brûke
         }
@@ -122,13 +121,11 @@ browser-containers-settings =
     .label = Ynstellingen…
     .accesskey = i
 containers-disable-alert-title = Alle kontenerljepblêden slute?
-containers-disable-alert-desc =
-    { $tabCount ->
+containers-disable-alert-desc = { $tabCount ->
         [one] As jo kontenerljepblêden no útskeakelje, sil { $tabCount } kontenerljepblêd sluten wurde. Binne jo wis dat jo kontenerljepblêden útskeakelje wolle?
        *[other] As jo kontenerljepblêden no útskeakelje, sille { $tabCount } kontenerljepblêden sluten wurde. Binne jo wis dat jo kontenerljepblêden útskeakelje wolle?
     }
-containers-disable-alert-ok-button =
-    { $tabCount ->
+containers-disable-alert-ok-button = { $tabCount ->
         [one] { $tabCount } kontenerljepblêd slute
        *[other] { $tabCount } kontenerljepblêden slute
     }
@@ -171,13 +168,11 @@ download-save-to =
     .label = Bestannen bewarje yn
     .accesskey = e
 download-choose-folder =
-    .label =
-        { PLATFORM() ->
+    .label = { PLATFORM() ->
             [macos] Kieze…
            *[other] Blêdzje…
         }
-    .accesskey =
-        { PLATFORM() ->
+    .accesskey = { PLATFORM() ->
             [macos] z
            *[other] d
         }
