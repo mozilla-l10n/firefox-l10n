@@ -86,7 +86,7 @@
 <!ENTITY  rememberActions.removeCookies.label "fjerne enkelte infokapslar">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  rememberDescription1.label      "&brandShortName; vil lagre informasjon om beøkte nettsider, skjema- og søkjehistorikk.">
+<!ENTITY  rememberDescription1.label      "&brandShortName; vil lagre informasjon om besøkte nettsider, skjema- og søkjehistorikk.">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; vil bruke dei same innstillingane som privat nettlesing og vil ikkje hugse historikk medan du brukar nettet.">
 
